@@ -4,7 +4,7 @@ identifier: "RGIC"
 country: "mx"
 rank: "reglamento"
 publication_date: "1934-03-20"
-last_updated: "1935-12-31"
+last_updated: "1937-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=586&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "RGIC"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1935.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE OCTUBRE DE 1937.
 
 Reglamento publicado en el Diario Oficial de la Federación el martes 20 de marzo de 1934.
 
@@ -90,9 +90,11 @@ Se nombrarán en el mismo día tres comisiones de cinco individuos de las respec
 
 El día primero de septiembre a las 17 horas, se reunirán las dos Cámaras en el Salón de Sesiones de la de Diputados para el solo efecto de la apertura del Congreso. Antes de que se presente el Presidente de la República, el Presidente de la Cámara de Diputados, que en ese acto lo es también del Congreso, hará en alta voz la siguiente declaración: "El Congreso (aquí el número que corresponda), de los Estados Unidos Mexicanos, abre hoy (aquí la fecha) el período de Sesiones ordinarias del primero (segundo o tercero) año de su ejercicio."
 
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 1937)</small>
+
 ###### ARTICULO 13.
 
-En los períodos siguientes al de la instalación del Congreso, la primera Junta se verificará diez días antes de la apertura de las sesiones, y en esta o en aquellas de las Juntas posteriores en que hubiere quórum, se elegirán Presidente y Vicepresidentes para el mes primero del período ordinario, y Secretarios y Prosecretarios para las sesiones de un año, y después de declarar que la Cámara queda legítimamente constituída para funcionar durante el período que corresponda, se nombrarán las Comisiones de que habla el artículo 11.
+En los períodos siguientes al de la instalación del Congreso, la primera junta se verificará diez días antes de la apertura de las sesiones, y en esta o en aquellas de las juntas posteriores en que hubiere quórum, se elegirá Presidente y Vicepresidentes para el mes primero del período ordinario en ambas Cámaras, y Secretarios y Prosecretarios para el mismo período de tiempo en la de Diputados y para las sesiones de un año en la de Senadores; y después de declarar que la Cámara queda legítimamente constituída para funcionar durante el período que corresponda, se nombrarán las comisiones de que habla el artículo 11.
 
 ###### ARTICULO 14.
 
@@ -170,9 +172,15 @@ Cuando el Presidente no observase las prescripciones de este Reglamento, podrá 
 
 De los Secretarios y Prosecretarios
 
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 1937)</small>
+
 ###### ARTICULO 23.
 
-Los Secretarios y Prosecretarios de las Cámaras ejercerán su cargo durante el tiempo de las sesiones ordinarias y extraordinarias del año de su ejercicio y los Secretarios de la Parmanente (sic), durante el período de la misma, y no podrán ser reelectos. Los Prosecretarios suplirán a los Secretarios en sus faltas y los auxiliarán en sus labores.
+Los Secretarios y Prosecretarios de la Cámara de Diputados se renovarán mensualmente, mediante elección hecha el último día útil de cada mes; y los Secretarios de la Comisión Permanente se renovarán bimestralmente por el mismo procedimiento. Unos y otros no podrán volver a desempeñar esos cargos durante el período de su ejercicio.
+
+Los Secretarios y Prosecretarios de la Cámara de Senadores se renovarán cada año, fungirán también en caso de período extraordinario de sesiones y no podrán ser reelectos.
+
+La Cámara de Diputados, en caso de período extraordinario, hará elección de sus Secretarios en sus faltas temporales y absolutas en el orden de su nombramiento y los auxiliarán en sus labores.
 
 ###### ARTICULO 24.
 
@@ -220,13 +228,13 @@ De las sesiones
 
 Las sesiones de las Cámaras serán ordinarias, extraordinarias, públicas, secretas o permanentes. Ninguna Cámara podrá suspender sus sesiones por más de tres días, sin consentimiento de la otra.
 
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 1937)</small>
+
 ###### ARTICULO 28.
 
-Son ordinarias las que se celebren durante los días hábiles de los períodos constitucionales; serán públicas, comenzarán por regla general a las dieciséis horas y durarán hasta cuatro horas; pero por disposición del Presidente de la Cámara o por iniciativa de alguno de los individuos de ella, aprobada en los términos de este Reglamento, podrán ser prorrogadas.
+Son ordinarias las que se celebren durante los días hábiles de los períodos constitucionales; serán públicas, comenzarán por regla general a las 11 horas y durarán hasta cuatro horas, pero por disposición del Presidente de la Cámara o por iniciativa de alguno de los individuos de ella, aprobada en los términos de este Reglamento, podrán ser prorrogadas.
 
-Serán extraordinarias las que se celebren fuera de los períodos constitucionales o en los días feriados, dentro de ellos.
-
-Serán permanentes las que se celebren con este carácter por acuerdo expreso de los miembros presentes de cada Cámara y a efecto de tratar un asunto previamente determinado.
+Serán extraordinarias las que se celebren fuera de los períodos constitucionales o en los días feriados, dentro de ellos. Serán permanentes las que se celebren con este carácter por acuerdo expreso de los miembros presentes de cada Cámara y a efecto de tratar un asunto previamente determinado.
 
 ###### ARTICULO 29.
 
@@ -250,9 +258,11 @@ VI.- Dictámenes señalados para discutirse;
 
 VII.- Minutas de ley.
 
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 1937)</small>
+
 ###### ARTICULO 31.
 
-Después de la sesión pública, los lunes de cada semana, habrá sesión secreta para despachar los asuntos económicos de la Cámara y otros que exijan reserva.
+Después de la sesión pública, los viernes de cada semana, habrá sesión secreta para despachar los asuntos económicos de la Cámara y otros que exijan reserva.
 
 ###### ARTICULO 32.
 
@@ -342,31 +352,37 @@ Sólo se concederán licencias por causas graves y cuando más a la cuarta parte
 
 No podrán conceder licencias con goce de dietas por más de dos meses, salvo el caso de enfermedad comprobada.
 
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 51], D.O.F. 16 DE OCTUBRE DE 1937)</small>
+
 ###### ARTICULO 50.
 
-Cuando un miembro de la Cámara deje de asistir a las sesiones durante diez días consecutivos sin causa justificada, la Secretaría hará que se publique el nombre del faltista en el "Diario Oficial" y esta publicación seguirá haciéndose mientras continuare la falta.
+La Comisión de Administración de cada Cámara presentará mensualmente para su aprobación en sesión secreta, el Presupuesto de las cantidades que se necesiten para cubrir las dietas de los miembros de la Cámara.
+
+Con igual fin presentará el Presupuesto de lo que por sueldos devenguen los empleados de las Secretarías de las mismas y el que corresponda a la conservación de los edificios. Esta Comisión visará las cuentas e intervendrá en todo lo relativo al manejo de los fondos e informará detalladamente, al final de cada mes, acerca del manejo de los mismos, siendo responsable de su malversación.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 52], D.O.F. 16 DE OCTUBRE DE 1937)
 
 ###### ARTICULO 51.
 
-La Comisión de Administración de cada Cámara presentará mensualmente para su aprobación en sesión secreta, el presupuesto de las cantidades que se necesiten para cubrir las dietas de los miembros de la Cámara.
+Si un miembro de alguna de las Cámaras se enfermase de gravedad, el Presidente respectivo nombrará una comisión de dos individuos que lo visite cuantas veces crea oportuno y dé cuenta de su estado. En caso de que el enfermo falleciese, se imprimirán y distribuirán esquelas a nombre del Presidente de la Cámara y se nombrará una Comisión de seis individuos para que asista a sus funerales, siempre que éstos se verifiquen en el lugar de la residencia del Congreso. Si el diputado o senador falleciere en un lugar fuera de la capital, el Presidente de la Cámara suplicará a alguna autoridad del lugar, que asista a los funerales o designe representante que lo haga. En los recesos del Congreso, corresponde a la Comisión Permanente cumplir con todo lo anterior. Los gastos de funerales serán cubiertos por el tesoro de la Cámara, de acuerdo con lo que establece el artículo 204 de este Reglamento.
 
-Con igual fin presentará el presupuesto de lo que por sueldos venzan los empleados de las Secretarías de las mismas (sic) y el que corresponda a la conservación de los edificios. Esta Comisión visará las cuentas e intervendrá en todo lo relativo al manejo de los fondos.
+(REUBICADO [N. DE E. ANTES ARTICULO 53], D.O.F. 16 DE OCTUBRE DE 1937)
 
 ###### ARTICULO 52.
 
-Si un miembro de alguna de las Cámaras se enfermase de gravedad, el Presidente respectivo nombrará una comisión de dos individuos que lo visite cuantas veces crea oportuno y dé cuenta de su estado. En caso de que el enfermo falleciese, se imprimirán y distribuirán esquelas a nombre del Presidente de la Cámara y se nombrará una Comisión de seis individuos para que asista a sus funerales, siempre que éstos se verifiquen en el lugar de la residencia del Congreso. Si el diputado o senador falleciere en un lugar fuera de la capital, el Presidente de la Cámara suplicará a alguna autoridad del lugar, que asista a los funerales o designe representante que lo haga. En los recesos del Congreso, corresponde a la Comisión Permanente cumplir con todo lo anterior. Los gastos de funerales serán cubiertos por el tesoro de la Cámara, de acuerdo con lo que establece el artículo 204 de este Reglamento.
-
-###### ARTICULO 53.
-
 Los Secretarios del Despacho asistirán a las sesiones siempre que fueren enviados por el Presidente de la República o llamados por acuerdo de la Cámara, en los términos que dispone la segunda parte del artículo 93 de la Constitución; sin perjuicio de la libertad que tienen de asistir, cuando quisieren, a las sesiones y, si se discute un asunto de su Secretaría, tomar parte en el debate.
 
-###### ARTICULO 54.
+(REUBICADO [N. DE E. ANTES ARTICULO 54], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 53.
 
 Cuando un Secretario del Despacho sea llamado al mismo tiempo por ambas Cámaras, el Presidente de la República podrá acordar que concurra primero a la que sea más necesario o conveniente, y después a la otra.
 
 De la iniciativa de las leyes
 
-###### ARTICULO 55.
+(REUBICADO [N. DE E. ANTES ARTICULO 55], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 54.
 
 El derecho de iniciar leyes compete:
 
@@ -374,17 +390,23 @@ I.- Al Presidente de la República;
 
 II.- A los diputados y senadores al Congreso General;
 
-III.- A las Legislaturas de los Estados.
+III.- A las legislaturas de los Estados.
 
-###### ARTICULO 56.
+(REUBICADO [N. DE E. ANTES ARTICULO 56], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 55.
 
 Las iniciativas de ley presentadas por el Presidente de la República, por las Legislaturas de los Estados o por uno o varios miembros de las Cámaras, pasarán desde luego a Comisión.
 
-###### ARTICULO 57.
+(REUBICADO [N. DE E. ANTES ARTICULO 57], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 56.
 
 Pasarán también inmediatamente a Comisión, las iniciativas o proyectos de ley que remita una de las Cámaras a la otra.
 
-###### ARTICULO 58.
+(REUBICADO [N. DE E. ANTES ARTICULO 58], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 57.
 
 Las proposiciones que no sean iniciativas de ley presentadas por uno o más individuos de la Cámara, sin formar los que las suscriben mayoría de diputación, se sujetarán a los trámites siguientes:
 
@@ -394,309 +416,315 @@ II.- Hablarán una sola vez dos miembros de la Cámara, uno en pro y otro en con
 
 III.- Inmediatamente se preguntará a la Cámara si admite o no a discusión la proposición. En el primer caso se pasará a la Comisión o Comisiones a quienes corresponda, y en el segundo se tendrá por desechada.
 
-###### ARTICULO 59.
+(REUBICADO [N. DE E. ANTES ARTICULO 59], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 58.
 
 En los casos de urgencia u obvia resolución, calificados por el voto de las dos terceras partes de los individuos de la Cámara que estén presentes, podrá ésta, a pedimento de alguno de sus miembros, dar curso a las proposiciones o proyectos en hora distinta de la señalada y ponerlos a discusión inmediatamente después de la lectura.
 
-###### ARTICULO 60.
+(REUBICADO [N. DE E. ANTES ARTICULO 60], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 59.
 
 Ninguna proposición o proyecto podrá discutirse sin que primero pase a la Comisión o Comisiones correspondientes y éstas hayan dictaminado. Sólo podrá dispensarse este requisito en los asuntos que por acuerdo expreso de la Cámara se calificaren de urgente o de obvia resolución.
 
-###### ARTICULO 61.
+(REUBICADO [N. DE E. ANTES ARTICULO 61], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 60.
 
 Toda petición de particulares, corporación o autoridad que no tenga derecho de iniciativa, se mandará pasar por el Presidente de la Cámara a la Comisión que corresponda, según la naturaleza del asunto de que se trate. Las Comisiones dictaminarán si son de tomarse o no en consideración estas peticiones.
 
-###### ARTICULO 62.
+(REUBICADO [N. DE E. ANTES ARTICULO 62], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 61.
 
 La formación de las leyes puede comenzarse indistintamente en cualquiera de las dos Cámaras, con excepción de los proyectos que versaren sobre empréstitos, contribuciones o impuestos, o sobre reclutamiento de tropas, todos los cuales deberán discutirse primero en la Cámara de Diputados.
 
-###### ARTICULO 63.
+(REUBICADO [N. DE E. ANTES ARTICULO 63], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 62.
 
 Todo Proyecto de Ley cuya resolución no sea exclusiva de una de las dos Cámaras, se discutirá sucesivamente en ambas, observándose este Reglamento respecto a la forma e intervalos y modo de proceder en las discusiones y votaciones.
 
-###### ARTICULO 64.
+(REUBICADO [N. DE E. ANTES ARTICULO 64], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 63.
 
 En la interpretación, reforma o derogación de las leyes se observarán los mismos trámites establecidos para su formación.
 
 De las Comisiones
 
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 65], D.O.F. 16 DE OCTUBRE DE 1937)</small>
+
+###### ARTICULO 64.
+
+Para el despacho de los negocios se nombrarán por cada una de las Cámaras, comisiones permanentes y especiales que los examinen e instruyan hasta ponerlos en estado de resolución. Se renovarán cada año, en la sesión siguiente a la de apertura de cada uno de los períodos ordinarios de sesiones, las Comisiones que figuren en el artículo siguiente.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 66], D.O.F. 16 DE OCTUBRE DE 1937)</small>
+
 ###### ARTICULO 65.
 
-Para el despacho de los negocios se nombrarán, de cada una de las Cámaras, Comisiones Permanentes y especiales que los examinen e instruyan hasta ponerlos en estado de resolución.
+Las Comisiones Permanentes a que se refiere el artículo anterior, serán: Aguas e Irrigación Nacionales; Aranceles y Comercio Exterior; Beneficencia; Bienes y Recursos Nacionales; Bosques, Caza y Pesca; Colonización; Comercio Exterior e Interior; Corrección de Estilo; Correos y Telégrafos; Crédito Moneda e Instituciones de Crédito; Departamento del Distrito Federal; Economía y Estadística; Educación Pública; Ejidal; Ferrocarriles; Fomento Agrícola; Gobernación; Gran Comisión; Guerra; Hacienda; Impuesto; Industria Eléctrica; Industrias; Primera de Insaculación de Jurados; Segunda de Insaculación de Jurados; Justicia; Justicia Militar; Marina; Migración; Minas; Obras Públicas; Petróleo; Puntos Constitucionales; Reglamento; Relaciones Exteriores; Salubridad; Sanidad Militar; Seguros; Servicio Consular y Diplomático; Tierras Nacionales; Trabajo y Previsión Social; Vías Generales de Comunicación.
 
-Las Comisiones Permanentes se elegirán en la primera sesión que verifiquen las Cámaras después de la apertura del período de sesiones de su primer año de su ejercicio.
+(REUBICADO [N. DE E. ANTES ARTICULO 67], D.O.F. 16 DE OCTUBRE DE 1937)
 
 ###### ARTICULO 66.
 
-Las Comisiones Permanentes serán:
+Será Comisión ordinaria la Revisora de Credenciales.
 
-Aguas e Irrigación Nacionales,
-
-Aranceles y Comercio Exterior,
-
-Beneficencia,
-
-Bienes y Recursos Nacionales,
-
-Bosques, Caza y Pesca,
-
-Colonización,
-
-Comercio Exterior e Interior,
-
-Corrección de Estilo,
-
-Correos y Telégrafos
-
-Crédito Moneda e Instituciones de Crédito,
-
-Departamento del Distrito Federal,
-
-Economía y Estadística,
-
-Educación Pública,
-
-Ejidal,
-
-Fabriles,
-
-Ferrocarriles,
-
-Fomento Agrícola,
-
-Gobernación,
-
-Gran Comisión,
-
-Guerra,
-
-Impuestos,
-
-Industria Eléctrica,
-
-Industrias,
-
-Primera de Insaculación de Jurados,
-
-Segunda de Insaculación de Jurados,
-
-Justicia,
-
-Justicia Militar,
-
-Marina
-
-Migración,
-
-Minas,
-
-Obras Públicas,
-
-Petróleo,
-
-Previsión Social,
-
-Puntos Constitucionales,
-
-Reglamento,
-
-Relaciones Exteriores,
-
-Salubridad,
-
-Sanidad Militar,
-
-Seguros,
-
-Servicio Consular y Diplomático,
-
-Tierras Nacionales,
-
-Trabajo,
-
-Vías Generales de Comunicación.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 68], D.O.F. 16 DE OCTUBRE DE 1937)</small>
 
 ###### ARTICULO 67.
 
-Será Comisión ordinaria la Revisora de Credenciales.
+La Comisión de Administración de la Cámara de Diputados se renovará mensualmente y se elegirá durante el período ordinario en una de las primeras sesiones del primer mes y en la última de los meses siguientes. Antes de la clausura del período ordinario de sesiones se procederá a designar los diversos grupos que deben integrar esa Comisión durante el receso, limitándose la actuación de cada grupo, en el desempeño de la Comisión, al período de un mes. Los que desempeñen el cargo de miembros de la Comisión de Administración no podrán ser reelectos durante el año dentro del cual hayan actuado.
+
+La Comisión de Administración de la Cámara de Senadores, se renovará cada año, haciéndose su elección en la primera sesión de cada período ordinario fungirá dentro del receso.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 69], D.O.F. 16 DE OCTUBRE DE 1937)</small>
 
 ###### ARTICULO 68.
 
-La Comisión de Administración se renovará cada año y se elegirá en la primera sesión de cada período ordinario.
+La Comisión Inspectora de la Contaduría Mayor de Hacienda se renovará mensualmente y se elegirá durante el período ordinario en una de las primeras sesiones del primer mes y en la última de los meses siguientes. Antes de la clausura del período ordinario de sesiones se procederá a designar los diversos grupos que deban integrar esa Comisión durante el receso, limitándose la actuación de cada grupo en el desempeño de la Comisión Inspectora, al período de un mes.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 70], D.O.F. 16 DE OCTUBRE DE 1937)
 
 ###### ARTICULO 69.
 
-Igualmente, la Inspectora de la Contaduría Mayor de Hacienda se renovará cada año y será electa en el mismo acto que la anterior, estando sujeta en sus atribuciones al Reglamento respectivo y a los acuerdos que al efecto dicte la Cámara de Diputados.
+Cada Cámara podrá aumentar o disminuir el número de estas Comisiones y subdividirlas en los ramos correspondientes, según lo crea conveniente o lo exija el despacho de los negocios.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 71], D.O.F. 16 DE OCTUBRE DE 1937)
 
 ###### ARTICULO 70.
 
-Cada Cámara podrá aumentar o disminuir el número de estas Comisiones y subdividirlas en los ramos correspondientes, según lo crea conveniente o lo exija el despacho de los negocios.
+Asimismo cada una de las Cámaras nombrará las Comisiones especiales que crea convenientes, cuando lo exija la urgencia y la calidad de los negocios.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 72], D.O.F. 16 DE OCTUBRE DE 1937)</small>
 
 ###### ARTICULO 71.
 
-Asimismo cada una de las Cámaras nombrará las Comisiones especiales que crea convenientes, cuando lo exija la urgencia y la calidad de los negocios.
+La Gran Comisión se compondrá en la Cámara de Diputados, de un individuo por cada Estado y cada Territorio y otro por el Distrito Federal; y en la de Senadores de uno por cada Estado y otro por el Distrito Federal, todos los cuales durarán en sus funciones un año y no podrán ser reelectos para el período de sesiones inmediato. Serán designados en la sesión siguiente a la de la apertura de cada período de sesiones ordinarias de conformidad con las siguientes reglas:
 
-###### ARTICULO 72.
+I.- Cada Diputación nombrará de entre sus miembros, a mayoría de votos, al que deba representarla en la Gran Comisión;
 
-La Gran Comisión se compondrá en la Cámara de Diputados, de un individuo por cada Estado y cada Territorio y otro por el Distrito Federal; y en la de Senadores, uno por cada Estado y otro por el Distrito Federal, todos los cuales serán designados en la sesión siguiente a la de apertura del primer período de sesiones del primer año de cada Legislatura, de conformidad con las siguientes reglas:
-
-I.- Cada Diputación nombrará de entre sus miembros, en escrutinio y a mayoría de votos, al que deba representarla en la Gran Comisión;
-
-II.- Cuando una Diputación conste solamente de dos Diputados o cuando siendo más, sólo dos de los que deban componerla concurran a la sesión en que haya de nombrarse la Gran Comisión y no se haya presentado el designado por la mayoría, pertenecerá a la Gran Comisión aquel de los dos que designe la suerte;
+II.- Cuando una Diputación conste solamente de dos Diputados o cuando siendo más, sólo dos de los que deban componerla concurran a la sesión en que haya de nombrarse la Gran Comisión y no se haya presentado el designado por la mayoría, pertenecerá a la Gran Comisión de (sic) los dos que designe la suerte;
 
 III.- Si un solo Diputado constituye una Diputación, o uno solo de los que deban formarla está presente al organizarse la Gran Comisión, él será quien represente en ella a su Estado, Territorio o el Distrito Federal, respectivamente;
 
-IV.- En el Senado, el Senador más antiguo que esté presente representará a su Estado o al Distrito Federal;
+IV.- En el Senado, el senador más antiguo que esté presente, representará a su Estado o al Distrito Federal;
 
-V.- Si ninguno de los diputados o senadores que deban representar en la Gran Comisión a un Estado o Territorio o al Distrito Federal, estuviere presente al nombrarse aquélla, el primero que sea recibido por su respectiva Cámara entrará desde luego a formar parte de dicha Gran Comisión, mientras la Diputación hace la elección por mayoría.
+V.- Si ninguno de los Diputados o Senadores que deban representar en la Gran Comisión a un Estado o Territorio o al Distrito Federal estuviere presente al nombrarse aquélla, el primero que sea recibido por su respectiva Cámara entrará desde luego a formar parte de dicha Gran Comisión, mientras la diputación hace la elección por mayoría;
 
-###### ARTICULO 73.
+VI.- Cuando una diputación no se pusiere de acuerdo para nombrar al que deba representarla en la Gran Comisión, la designación se hará por sorteo.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 73], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 72.
 
 Para poder funcionar nombrará la Gran Comisión, de entre sus miembros, en escrutinio secreto y a mayoría de votos, un Presidente y un Secretario, que durarán en su cargo tanto como la misma Comisión, la que no podrá deliberar sino con la mayoría de los miembros que deban componerla.
 
-###### ARTICULO 74.
+(REUBICADO [N. DE E. ANTES ARTICULO 75], D.O.F. 16 DE OCTUBRE DE 1937)
 
-Compete a la Gran Comisión proponer a su Cámara el personal de las Comisiones permanentes y especiales.
-
-###### ARTICULO 75.
+###### ARTICULO 73.
 
 La Gran Comisión someterá a la consideración y resolución de su Cámara los nombramientos o remociones de los empleados de la misma y dictaminará sobre las licencias que soliciten, proponiendo a los substitutos; así como los nuevos empleados para cubrir las vacantes que ocurrieren.
 
-###### ARTICULO 76.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 76], D.O.F. 16 DE OCTUBRE DE 1937)</small>
 
-En el día siguiente al de la apertura de las sesiones del primer año, la Gran Comisión presentará a la Cámara, para su aprobación: la lista de las Comisiones permanentes y la de los insaculados para el Gran Jurado, que se pondrán inmediatamente a discusión.
+###### ARTICULO 74.
 
-###### ARTICULO 77.
+La Gran Comisión, en la sesión siguiente a la de su nombramiento, presentará a la Cámara, para su aprobación, la lista de los Insaculados para el Gran Jurado, la cual se pondrá inmediatamente a discusión.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 77], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 75.
 
 Luego que ocurran vacantes en las Comisiones, se reunirá la Gran Comisión para proponer a los que deban cubrirlas, observándose en tal caso las reglas anteriormente establecidas para el nombramiento de Comisiones.
 
-###### ARTICULO 78.
+(REUBICADO [N. DE E. ANTES ARTICULO 78], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 76.
 
 Serán Comisiones especiales las que acuerde cada Cámara para el mejor despacho de los negocios.
 
-###### ARTICULO 79.
+(REUBICADO [N. DE E. ANTES ARTICULO 79], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 77.
 
 Las Comisiones no reglamentadas especialmente, se compondrán en lo general de tres individuos propietarios y un suplente, y sólo podrá aumentarse su personal por acuerdo expreso de la Cámara; los suplentes cubrirán las faltas temporales de los propietarios, y en caso de falta absoluta de éstos, quedarán como propietarios, nombrándose nuevos suplentes. Será Presidente de cada Comisión el primer nombrado y, en su falta, el que le siga en el orden del nombramiento.
 
-###### ARTICULO 80.
+(REUBICADO [N. DE E. ANTES ARTICULO 80], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 78.
 
 El tercer día útil del período ordinario de sesiones de cada año, la Cámara de Diputados nombrará en escrutinio secreto y por mayoría de votos, la Comisión de Presupuestos y Cuenta, que se compondrá de cinco individuos, y a la cual pasarán inmediatamente que se reciban, el Proyecto de Presupuestos del año próximo siguiente y las cuentas del anterior que remita el Ejecutivo.
 
-###### ARTICULO 81.
+(REUBICADO [N. DE E. ANTES ARTICULO 81], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 79.
 
 La Comisión de Presupuestos y Cuenta tendrá obligación, al examinar dichos documentos, de presentar dictamen sobre ellos dentro de los treinta días siguientes.
 
-###### ARTICULO 82.
+(REUBICADO [N. DE E. ANTES ARTICULO 82], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 80.
 
 Cada uno o más individuos de una Comisión que tuvieren interés personal en algún asunto que se remita al examen de ésta, se abstendrán de votar y firmar el dictamen y lo avisarán por escrito al Presidente de la Cámara, a fin de que sean substituídos para el solo efecto del despacho de aquel asunto.
 
-###### ARTICULO 83.
+(REUBICADO [N. DE E. ANTES ARTICULO 83], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 81.
 
 Los Presidentes de las Comisiones son responsables de los expedientes que pasen a su estudio, y a este efecto, deberán firmar el recibo de ellos en el correspondiente libro de conocimientos. Dicha responsabilidad cesará cuando fuesen devueltos.
 
-###### ARTICULO 84.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 84], D.O.F. 16 DE OCTUBRE DE 1937)</small>
 
-El Presidente de la Cámara, no podrá pertenecer a ninguna Comisión durante el tiempo de su encargo.
+###### ARTICULO 82.
 
-###### ARTICULO 85.
+El Presidente de la Cámara y los Secretarios no podrá pertenecer a ninguna Comisión durante el tiempo de su encargo. Dos Secretarios se turnarán el trabajo que hace la Oficina de la Secretaría de coleccionar y arreglar metódicamente los documentos que formen la historia de la Cámara y la publicación de los mismos en el Diario de los Debates.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 85], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 83.
 
 Las Comisiones de Administración, la Inspectora y las Secciones del Gran Jurado, seguirán funcionando durante los recesos del Congreso. Si alguno de sus miembros tuviere que ausentarse de la capital, lo avisará a la Cámara antes de que se cierren las sesiones.
 
-###### ARTICULO 86.
+(REUBICADO [N. DE E. ANTES ARTICULO 87], D.O.F. 16 DE OCTUBRE DE 1937)
 
-Los miembros de las Comisiones no tendrán ninguna retribución extraordinaria por el desempeño de las mismas.
-
-###### ARTICULO 87.
+###### ARTICULO 84.
 
 Toda Comisión deberá presentar dictamen en los negocios de su competencia, dentro de los cinco días siguientes al de la fecha en que los haya recibido. Todo dictamen deberá contener una parte expositiva de las razones en que se funde y concluir con proposiciones clares (sic) y sencillas que puedan sujetarse a votación.
 
-###### ARTICULO 88.
+(REUBICADO [N. DE E. ANTES ARTICULO 88], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 85.
 
 Para que haya dictamen de comisión, deberá éste presentarse firmado por la mayoría de los individuos que la componen. Si alguno o algunos de ellos desistiesen del parecer de dicha mayoría, podrán presentar voto particular por escrito.
 
-###### ARTICULO 89.
+(REUBICADO [N. DE E. ANTES ARTICULO 89], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 86.
 
 Las Comisiones, por medio de su presidente, podrán pedir a cualesquiera archivos y oficinas de la Nación, todas las instrucciones y copias de documentos que estimen convenientes para el despacho de los negocios, y estas constancias les serán proporcionadas, siempre que el asunto a que se refieran no sea de los que deban conservarse en secreto; en la inteligencia de que la lenidad o negativa a proporcionar dichas copias en plazos pertinentes, autorizará a las mencionadas Comisiones para dirigirse oficialmente en queja al C. Presidente de la República.
 
-###### ARTICULO 90.
+(REUBICADO [N. DE E. ANTES ARTICULO 90], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 87.
 
 Pueden también las Comisiones, para ilustrar su juicio en el despacho de los negocios que se les encomiende, tener conferencias con los Secretarios de Estado, quienes están obligados a guardar a cualesquiera de los miembros de las Comisiones las atenciones y consideraciones necesarias al cumplimiento de su misión. En el caso de que las Comisiones tuvieren alguna dificultad u obstrucción en el disfrute de esta prerrogativa, están autorizadas para obrar en la forma indicada en el artículo anterior. Las Comisiones de ambas Cámaras pueden también tener conferencias entre sí, para expeditar el despacho de alguna ley u otro asunto importante.
 
-###### ARTICULO 91.
+(REUBICADO [N. DE E. ANTES ARTICULO 91], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 88.
 
 Cuando alguna Comisión juzgase necesario o conveniente demorar o suspender el despacho de algún negocio, lo manifestará a la Cámara en sesión secreta y antes de que expire el plazo de cinco días que para presentar dictamen señala a las Comisiones el artículo 87 de este Reglamento. Pero si alguna Comisión, faltando a este requisito, retuviere en su poder un expediente por más de cinco días la Secretaría lo hará presente al Presidente de la Cámara, a fin de que acuerde lo conveniente.
 
-###### ARTICULO 92.
+(REUBICADO [N. DE E. ANTES ARTICULO 92], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 89.
 
 Cualquier miembro de la Cámara, puede asistir sin voto a las conferencias de las Comisiones, con excepción de las de las (sic) Secciones del Gran Jurado, y exponer libremente en ellas su parecer sobre el asunto en estudio.
 
-###### ARTICULO 93.
+(REUBICADO [N. DE E. ANTES ARTICULO 93], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 90.
 
 Para el despacho de los negocios de su incumbencia, las Comisiones se reunirán mediante cita de sus respectivos Presidentes, y podrán funcionar con la mayoría de los individuos que las forman.
 
-###### ARTICULO 94.
+(REUBICADO [N. DE E. ANTES ARTICULO 94], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 91.
 
 Las Comisiones conservarán durante el receso de las Cámaras, los expedientes que tuvieren en su poder; pero no después de cerrado el último período de sesiones del Congreso a que pertenezcan, pues entonces sus Presidentes deberán entregar a la Secretaría al día siguiente de cerradas las sesiones, los expedientes que hayan quedado sin despachar, en el estado en que se encontraren, para que así pasen a la Comisión Permanente.
 
 De las discusiones
 
-###### ARTICULO 95.
+(REUBICADO [N. DE E. ANTES ARTICULO 95], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 92.
 
 Llegada la hora de la discusión, se leerá la iniciativa, proposición u oficio que la hubiere provocado, y después, el dictamen de la Comisión a cuyo examen se remitió, y el voto particular, si lo hubiere.
 
-###### ARTICULO 96.
+(REUBICADO [N. DE E. ANTES ARTICULO 96], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 93.
 
 El Presidente formará luego una lista de los individuos que pidan la palabra en contra y otra de los que la pidan en pro, las cuales leerá íntegras antes de comenzar la discusión.
 
-###### ARTICULO 97.
+(REUBICADO [N. DE E. ANTES ARTICULO 97], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 94.
 
 Todo Proyecto de Ley se discutirá primero en lo general, o sea en conjunto, y después en lo particular cada uno de sus artículos. Cuando conste de un solo artículo, será discutido una sola vez.
 
-###### ARTICULO 98.
+(REUBICADO [N. DE E. ANTES ARTICULO 98], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 95.
 
 Los miembros de la Cámara hablarán alternativamente en contra o en pro, llamándolos el Presidente por el orden de las listas, comenzando por el inscripto en contra.
 
-###### ARTICULO 99.
+(REUBICADO [N. DE E. ANTES ARTICULO 99], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 96.
 
 Siempre que algún individuo de los que hayan pedido la palabra no estuviere presente en el salón cuando le toque hablar, se le colocará a lo último de su respectiva lista.
 
-###### ARTICULO 100.
+(REUBICADO [N. DE E. ANTES ARTICULO 100], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 97.
 
 Los individuos de la Comisión y el autor de la proposición que se discuta, podrán hablar más de dos veces. Los otros miembros de la Cámara sólo podrán hablar dos veces sobre un asunto.
 
-###### ARTICULO 101.
+(REUBICADO [N. DE E. ANTES ARTICULO 101], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 98.
 
 La misma facultad que los individuos de Comisiones y autores de proposiciones, tendrán los diputados que sean únicos por su Territorio, en los asuntos en que éstos estén especialmente interesados.
 
-###### ARTICULO 102.
+(REUBICADO [N. DE E. ANTES ARTICULO 102], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 99.
 
 Los individuos de la Cámara, aun cuando no estén inscriptos en la lista de los oradores, podrán pedir la palabra, para rectificar hechos o contestar alusiones personales, cuando haya concluido el orador y sin que puedan hacer uso de la palabra más de cinco minutos.
 
-###### ARTICULO 103.
+(REUBICADO [N. DE E. ANTES ARTICULO 103], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 100.
 
 Los discursos de los individuos de las Cámaras sobre cualquier negocio, no podrán durar más de media hora, sin permiso de la Cámara.
 
-###### ARTICULO 104.
+(REUBICADO [N. DE E. ANTES ARTICULO 104], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 101.
 
 Ningún diputado podrá ser interrumpido mientras tenga la palabra, a menos de que se trate de moción de orden en el caso señalado en el artículo 105, o de alguna explicación pertinente, pero en este caso sólo será permitida la interrupción con permiso del Presidente y del orador. Quedan absolutamente prohibidas las discusiones en forma de diálogo.
 
-###### ARTICULO 105.
+(REUBICADO [N. DE E. ANTES ARTICULO 105], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 102.
 
 No se podrá reclamar el orden sino por medio del Presidente, en los siguientes casos: para ilustrar la discusión con la lectura de un documento; cuando se infrinjan artículos de este Reglamento, en cuyo caso deberá ser citado el artículo respectivo; cuando se viertan injurias contra alguna persona o corporación, o cuando el orador se aparte del asunto a discusión.
 
-###### ARTICULO 106.
+(REUBICADO [N. DE E. ANTES ARTICULO 106], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 103.
 
 Si durante el curso de una sesión alguno de los miembros de la Cámara reclamare el quórum y la falta de éste fuere verdaderamente notoria, bastará una simple declaración del Presidente de la Cámara sobre el particular para levantar la sesión; en todo caso, y cuando dicha falta de quórum sea dudosa, deberá procederse a pasar lista, y comprobada aquélla, se levantará la sesión.
 
-###### ARTICULO 107.
+(REUBICADO [N. DE E. ANTES ARTICULO 107], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 104.
 
 No podrá llamarse al orden al orador que critique o censure a funcionarios públicos por faltas o errores cometidos en el desempeño de sus atribuciones; pero en caso de injurias o calumnias, el interesado podrá reclamarlas en la misma sesión, cuando el orador haya terminado su discurso, o en otra que se celebre el día inmediato. El Presidente instará al ofensor a que las retire o satisfaga al ofendido. Si aquél no lo hiciere así, el Presidente mandará que las expresiones que hayan causado la ofensa, se autoricen por la Secretaría insertándolas ésta en acta especial, para proceder a lo que hubiere lugar.
 
-###### ARTICULO 108.
+(REUBICADO [N. DE E. ANTES ARTICULO 108], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 105.
 
 Siempre que al principio de la discusión lo pida algún individuo de la Cámara, la Comisión dictaminadora deberá explicar los fundamentos de su dictamen y aún leer constancias del expediente, si fuere necesario; acto continuo, se seguirá el debate.
 
-###### ARTICULO 109.
+(REUBICADO [N. DE E. ANTES ARTICULO 109], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 106.
 
 Ninguna discusión se podrá suspender, sino por estas causas:
 
@@ -710,159 +738,235 @@ Cuarta, por falta de quórum, la cual si es dudosa se comprobará pasando lista 
 
 Quinta, por proposición suspensiva que presente alguno o algunos de los miembros de la Cámara y que ésta apruebe.
 
-###### ARTICULO 110.
+(REUBICADO [N. DE E. ANTES ARTICULO 110], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 107.
 
 En el caso de moción suspensiva, se leerá la proposición, y sin otro requisito que oír a su autor, si la quiere fundar y a algún impugnador, si lo hubiere, se preguntará a la Cámara si se toma en consideración inmediatamente. En caso afirmativo se discutirá y votará en el acto, pudiendo hablar, al efecto, tres individuos en pro y tres en contra; pero si la resolución de la Cámara fuese negativa, la proposición se tendrá por desechada.
 
-###### ARTICULO 111.
+(REUBICADO [N. DE E. ANTES ARTICULO 111], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 108.
 
 No podrá presentarse más de una proposición suspensiva en la discusión de un negocio.
 
-###### ARTICULO 112.
+(REUBICADO [N. DE E. ANTES ARTICULO 112], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 109.
 
 La falta de quórum se establece, cuando es verdaderamente notoria, por una simple declaración del Presidente de la Cámara, cuando es dudosa, por la lista que pasará la Secretaría por acuerdo de la Presidencia, o a petición de un miembro de la asamblea.
 
-###### ARTICULO 113.
+(REUBICADO [N. DE E. ANTES ARTICULO 113], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 110.
 
 Cuando algún individuo de la Cámara quisiera que se lea algún documento en relación con el debate para ilustrar la discusión, pedirá la palabra para el solo efecto de hacer la moción correspondiente y aceptada que sea por la Cámara, la lectura del documento deberá hacerse por uno de los Secretarios, continuando después en el uso de la palabra el orador.
 
-###### ARTICULO 114.
+(REUBICADO [N. DE E. ANTES ARTICULO 114], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 111.
 
 Antes de cerrarse en lo general la discusión de los proyectos de ley y en lo particular cada uno de sus artículos, podrán hablar seis individuos en pro y otros tantos en contra, además de los miembros de la Comisión dictaminadora y de los Secretarios de Estado. En los demás asuntos que sean económicos de cada Cámara, bastará que hablen tres en cada sentido, a no ser que ésta acuerde ampliar el debate.
 
-###### ARTICULO 115.
+(REUBICADO [N. DE E. ANTES ARTICULO 115], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 112.
 
 Cuando hubieren hablado todos los individuos que puedan hacer uso de la palabra, el Presidente mandará preguntar si el asunto está o no suficientemente discutido. En el primer caso, se procederá inmediatamente a la votación; en el segundo, continuará la discusión; pero bastará que hable uno en pro y otro en contra, para que se pueda repetir la pregunta.
 
-###### ARTICULO 116.
+(REUBICADO [N. DE E. ANTES ARTICULO 116], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 113.
 
 Antes de que se declare si el punto está suficientemente discutido, el Presidente leerá en voz alta las listas de los individuos que hubieren hecho uso de la palabra y de los demás que aún la tuvieren pedida.
 
-###### ARTICULO 117.
+(REUBICADO [N. DE E. ANTES ARTICULO 117], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 114.
 
 Declarado un proyecto suficientemente discutido en lo general, se procederá a votar en tal sentido, y si es aprobado, se discutirán en seguida los artículos en particular. En caso contrario, se preguntará, en votación económica, si vuelve o no todo el proyecto a la Comisión. Si la resolución fuere afirmativa, volverá, en efecto, para que lo reforme, más si fuere negativa, se tendrá por desechada.
 
-###### ARTICULO 118.
+(REUBICADO [N. DE E. ANTES ARTICULO 118], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 115.
 
 Asimismo, cerrada la discusión de cada uno de los artículos en lo particular, se preguntará si ha lugar o no a votar; en el primer caso se procederá a la votación, y en el segundo volverá el artículo a la Comisión.
 
-###### ARTICULO 119.
+(REUBICADO [N. DE E. ANTES ARTICULO 119], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 116.
 
 Si desechado un proyecto en su totalidad, o en alguno de sus artículos hubiere voto particular, se pondrá éste a discusión, con tal de que se haya presentado a lo menos un día antes de que hubiese comenzado la discusión del dictamen de la mayoría de la Comisión.
 
-###### ARTICULO 120.
+(REUBICADO [N. DE E. ANTES ARTICULO 120], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 117.
 
 Si algún artículo constare de varias proposiciones, se pondrá a discusión separadamente una después de otra, señalándolas previamente su autor o la Comisión que las presente.
 
-###### ARTICULO 121.
+(REUBICADO [N. DE E. ANTES ARTICULO 121], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 118.
 
 Cuando nadie pida la palabra en contra de algún dictamen, uno de los individuos de la Comisión informará sobre los motivos que ésta tuvo para dictaminar en el sentido que lo haya hecha (sic) y se procederá a la votación.
 
-###### ARTICULO 122.
+(REUBICADO [N. DE E. ANTES ARTICULO 122], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 119.
 
 Cuando sólo se pidiere la palabra en pro, podrán hablar hasta dos miembros de la Cámara.
 
-###### ARTICULO 123.
+(REUBICADO [N. DE E. ANTES ARTICULO 123], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 120.
 
 Cuando sólo se pidiere la palabra en contra, hablarán todos los que la pidieren, pero después de haber hablado tres, se preguntará si el punto está suficientemente discutido.
 
-###### ARTICULO 124.
+(REUBICADO [N. DE E. ANTES ARTICULO 124], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 121.
 
 En la sesión en que definitivamente se vote una proposición o proyecto de ley, podrán presentarse por escrito adiciones o modificaciones a los artículos aprobados.
 
-###### ARTICULO 125.
+(REUBICADO [N. DE E. ANTES ARTICULO 125], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 122.
 
 Leída por primera vez una adición, y oídos los fundamentos que quiera exponer su autor, se preguntará inmediatamente si se admite o no a discusión. Admitida, se pasará a la Comisión respectiva; en caso contrario, se tendrá por desechada.
 
-###### ARTICULO 126.
+(REUBICADO [N. DE E. ANTES ARTICULO 126], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 123.
 
 Cuando los Secretarios del Despacho fueren llamados por la Cámara o enviados por el Ejecutivo para asistir a alguna discusión, podrán pedir el expediente para instruirse, sin que por esto deje de verificarse la discusión en el día señalado.
 
-###### ARTICULO 127.
+(REUBICADO [N. DE E. ANTES ARTICULO 127], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 124.
 
 Para los efectos del artículo anterior se pasará oportunamente por las Secretarías de ambas Cámaras a la Secretaría correspondiente del ejecutivo, noticia de los asuntos que vayan a discutirse y que tengan relación con ella, especificando los días señalados para la discusión.
 
-###### ARTICULO 128.
+(REUBICADO [N. DE E. ANTES ARTICULO 128], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 125.
 
 Antes de comenzar la discusión podrán los Secretarios del Despacho informar a la Cámara lo que estimen conveniente y exponer cuantos fundamentos quieran en apoyo de la opinión que pretendan sostener.
 
-###### ARTICULO 129.
+(REUBICADO [N. DE E. ANTES ARTICULO 129], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 126.
 
 Cuando un Secretario de Estado se presente a alguna de las Cámaras, por acuerdo de la misma, se concederá la palabra a quien hizo la moción respectiva, en seguida al Secretario de Estado para que conteste o informe sobre el asunto a debate y posteriormente a los que la solicitaren en el orden establecido en los artículos precedentes.
 
-###### ARTICULO 130.
+(REUBICADO [N. DE E. ANTES ARTICULO 130], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 127.
 
 Cuando algún Secretario de Estado concurra a las Cámaras para informar sobre algún proyecto de ley a discusión o sobre cualquier asunto a debate, ya sea invitado por el Ejecutivo o a iniciativa propia, se concederá primero la palabra al Secretario de Estado presente para que informe a la Cámara lo que estime conveniente y exponga cuantos fundamentos quiera en apoyo de la opinión que pretenda sostener; después se concederá la palabra a los miembros de la asamblea inscritos en la Presidencia en el orden establecido en este Reglamento. Si durante la discusión el Secretario o Secretarios presentes fueren interrogados, podrán contestar entre los debates las interrogaciones de que fueren objeto. Si alguno de los diputados o senadores inscritos en pro quisiere ceder su turno al Secretario de Estado presente se concederá a éste la palabra, sin perjuicio de que al venir la discusión se le permita hablar al Secretario de Estado sobre los puntos versados durante el debate.
 
-###### ARTICULO 131.
+(REUBICADO [N. DE E. ANTES ARTICULO 131], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 128.
 
 Los Secretarios del Despacho no podrán hacer proposiciones ni adición alguna en las sesiones. Todas las iniciativas o indicaciones del Ejecutivo deberán dirigirse a la Cámara por medio de oficio.
 
-###### ARTICULO 132.
+(REUBICADO [N. DE E. ANTES ARTICULO 132], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 129.
 
 Todos los Proyectos de Ley que consten de más de treinta artículos podrán ser discutidos y aprobados por los libros, títulos, capítulos, secciones o párrafos en que los dividieren sus autores o las Comisiones encargadas de su despacho, siempre que así lo acuerde la Cámara respectiva, a moción de uno o más de sus miembros; pero se votará separadamente cada uno de los artículos o fracciones del artículo o de la sección que esté a debate, si lo pide algún miembro de la Cámara y ésta aprueba la petición.
 
-###### ARTICULO 133.
+(REUBICADO [N. DE E. ANTES ARTICULO 133], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 130.
 
 En la discusión en lo particular, se pondrán aparte los artículos, fracciones o incisos que los miembros de la Asamblea quieran impugnar; y lo demás del proyecto que no amerite discusión, se podrá reservar para votarlo después en un solo acto.
 
-###### ARTICULO 134.
+(REUBICADO [N. DE E. ANTES ARTICULO 134], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 131.
 
 También podrán votarse en un solo acto, un proyecto de ley o decreto, en lo general, en unión de uno, varios o la totalidad de sus artículos, en lo particular, siempre que no hayan sido impugnados.
 
 De la revisión de los proyectos de ley
 
-###### ARTICULO 135.
+(REUBICADO [N. DE E. ANTES ARTICULO 135], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 132.
 
 Las Cámaras procederán en la revisión de los proyectos de ley de conformidad con lo que preceptúa sobre la materia el artículo 72 de la Constitución.
 
-###### ARTICULO 136.
+(REUBICADO [N. DE E. ANTES ARTICULO 136], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 133.
 
 Las observaciones o modificaciones hechas a un proyecto de ley por la Cámara revisora o por el Ejecutivo, al volver a la de su origen, pasarán a la Comisión que dictaminó, y el nuevo dictamen de ésta sufrirá todos los trámites que prescribe este Reglamento.
 
-###### ARTICULO 137.
+(REUBICADO [N. DE E. ANTES ARTICULO 137], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 134.
 
 En el caso del artículo anterior, solamente se discutirán y votarán en lo particular los artículos observados, modificados o adicionados.
 
-###### ARTICULO 138.
+(REUBICADO [N. DE E. ANTES ARTICULO 138], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 135.
 
 Antes de remitirse una ley al Ejecutivo para que sea promulgada, deberá asentarse en el libro de leyes de la Cámara respectiva.
 
-###### ARTICULO 139.
+(REUBICADO [N. DE E. ANTES ARTICULO 139], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 136.
 
 Después de aprobados en lo particular todos los artículos de una ley por la Cámara que deba mandarla al Ejecutivo para su promulgación, así como las adiciones o modificaciones que se le hicieren pasará el expediente relativo a la Comisión de Corrección de Estilo para que formule la minuta de lo aprobado y la presente a la mayor brevedad posible.
 
-###### ARTICULO 140.
+(REUBICADO [N. DE E. ANTES ARTICULO 140], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 137.
 
 Esta minuta deberá contener exactamente lo que hubieren aprobado las Cámaras, sin poder hacer otras variaciones a la ley que se contraigan que las correcciones que demanden el buen uso del lenguaje y la claridad de las leyes.
 
-###### ARTICULO 141.
+(REUBICADO [N. DE E. ANTES ARTICULO 141], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 138.
 
 Los proyectos que pasen de una a otra Cámara para su revisión, irán firmados por el Presidente y dos Secretarios, acompañados del expediente respectivo, del extracto de la discusión y demás antecedentes que se hubieren tenido a la vista para resolver aquéllos. Respecto a los documentos que obren impresos en el expediente será bastante que vayan foliados y marcados con el sello de la Secretaría.
 
-###### ARTICULO 142.
+(REUBICADO [N. DE E. ANTES ARTICULO 142], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 139.
 
 En los casos graves o urgentes se podrá omitir el extracto a que se refiere el artículo anterior; pero pasará una Comisión nombrada por el Presidente a la Cámara revisora, para que, al entregar el expediente original, informe sobre los principales puntos de la discusión y exponga los fundamentos que motiven la gravedad o urgencia del caso.
 
-###### ARTICULO 143.
+(REUBICADO [N. DE E. ANTES ARTICULO 143], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 140.
 
 Si la ley de que se trate hubiere sido aprobada con dispensa de trámites y aún sin el dictamen de la Comisión, entonces la que nombre el Presidente de la Cámara para ir a informar a la revisora, deberá ser presidida por el autor del proyecto que motivare ese incidente, si fuere algún miembro de la Cámara.
 
-###### ARTICULO 144.
+(REUBICADO [N. DE E. ANTES ARTICULO 144], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 141.
 
 Los expedientes que deban pasar al Ejecutivo en cumplimiento del inciso A) del artículo 72 de la Constitución, ya sea luego que fueren aprobados por ambas Cámaras o solamente por alguna de ellas, cuando la expedición de la ley fuere de su exclusiva facultad, se remitirán en copia y con los documentos a que se refiere el artículo 141.
 
-###### ARTICULO 145.
+(REUBICADO [N. DE E. ANTES ARTICULO 145], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 142.
 
 No podrá la Cámara revisora tratar en público los asuntos que se hayan tratado en secreto en la Cámara de su origen; pero sí podrá tratar en secreto los que en aquella Cámara se hayan discutido públicamente.
 
 De las votaciones
 
-###### ARTICULO 146.
+(REUBICADO [N. DE E. ANTES ARTICULO 146], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 143.
 
 Habrá tres clases de votaciones: nominales, económicas y por cédula. Nunca podrá haber votaciones por aclamación.
 
-###### ARTICULO 147.
+(REUBICADO [N. DE E. ANTES ARTICULO 147], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 144.
 
 La votación nominal se hará del modo siguiente:
 
@@ -874,119 +978,175 @@ III.- Concluido este acto, uno de los mismos Secretarios, preguntará dos veces 
 
 IV.- Los Secretarios o Prosecretarios harán en seguida la computación de los votos, y leerán desde las tribunas uno los nombres de los que hubiesen aprobado y otro el de los que reprobaren; después dirán el número total de cada lista y publicarán la votación.
 
-###### ARTICULO 148.
+(REUBICADO [N. DE E. ANTES ARTICULO 148], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 145.
 
 Las votaciones serán precisamente nominales: primero, cuando se pregunte si ha o no lugar a aprobar algún proyecto de ley en lo general; segundo, cuando se pregunte si se aprueba o no cada artículo de los que compongan el indicado proyecto o cada proposición de las que formen el artículo, y tercero, cuando lo pida un individuo de la propia Cámara y sea apoyado por otros cinco. También serán nominales en el caso del artículo 152.
 
-###### ARTICULO 149.
+(REUBICADO [N. DE E. ANTES ARTICULO 149], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 146.
 
 Las demás votaciones sobre resoluciones de la Cámara serán económicas.
 
-###### ARTICULO 150.
+(REUBICADO [N. DE E. ANTES ARTICULO 150], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 147.
 
 La votación económica se practicará poniéndose en pie los individuos que aprueben y permaneciendo sentados los que reprueben.
 
-###### ARTICULO 151.
+(REUBICADO [N. DE E. ANTES ARTICULO 151], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 148.
 
 Si al dar la Secretaría cuenta del resultado de la votación económica, algún miembro de la Cámara pidiere que se cuenten los votos, se contarán efectivamente. A este fin se mantendrán todos incluso el Presidente y los Secretarios de pie o sentados según el sentido en que hubieren dado su voto; dos miembros que hayan votado uno en pro y otro en contra contarán a los que aprueban y otros dos de la misma clase a los que reprueban; estos cuatro individuos que nombrará el Presidente, darán razón al mismo en presencia de los Secretarios del resultado de su cuenta, y hallándose conformes, se publicará la votación.
 
-###### ARTICULO 152.
+(REUBICADO [N. DE E. ANTES ARTICULO 152], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 149.
 
 Cuando la diferencia entre los que aprueben y los que reprueben no excediese de tres votos se tomará votación nominal.
 
-###### ARTICULO 153.
+(REUBICADO [N. DE E. ANTES ARTICULO 153], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 150.
 
 Las votaciones para elegir personas se harán por cédulas, que se entregarán al Presidente de la Cámara y éste las depositará, sin leerlas, en una ánfora que al efecto se colocará en la mesa.
 
-###### ARTICULO 154.
+(REUBICADO [N. DE E. ANTES ARTICULO 154], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 151.
 
 Cumplida la votación, uno de los Secretarios sacará las cédulas, una después de otra, y las leerá en alta voz, para que otro Secretario anote los nombres de las personas que en ella aparecieren y el número de votos que a cada uno le tocaren. Leída la cédula se pasará a manos del Presidente y los demás Secretarios para que les conste el contenido de ella y puedan reclamar cualquiera equivocación que se advierta. Finalmente, se hará el cómputo de votos y se publicará el resultado.
 
-###### ARTICULO 155.
+(REUBICADO [N. DE E. ANTES ARTICULO 155], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 152.
 
 Para la designación de Presidente de la República, en caso de falta absoluta o temporal de éste se procederá en la forma y términos consignados por los artículos 85 y 84 de la Constitución.
 
-###### ARTICULO 156.
+(REUBICADO [N. DE E. ANTES ARTICULO 156], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 153.
 
 En la computación de los votos emitidos para la elección del Presidente de la República y en todo lo que a esto se refiera para la declaración del candidato triunfante se procederá de acuerdo con la Ley Electoral respectiva.
 
-###### ARTICULO 157.
+(REUBICADO [N. DE E. ANTES ARTICULO 157], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 154.
 
 Una vez hecho el cómputo de los sufragios depositados para la elección de personas, la Secretaría dará cuenta a la Cámara del resultado de la votación.
 
-###### ARTICULO 158.
+(REUBICADO [N. DE E. ANTES ARTICULO 158], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 155.
 
 Todas las votaciones se verificarán por mayoría absoluta, a no ser en aquellos casos en que la Constitución y este Reglamento exigen las dos terceras partes de los votos.
 
-###### ARTICULO 159.
+(REUBICADO [N. DE E. ANTES ARTICULO 159], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 156.
 
 Para calificar los casos en que los asuntos son de urgente u obvia resolución se requieren las dos terceras partes de los votos presentes, de conformidad con los artículos 59 y 60 de este Reglamento.
 
-###### ARTICULO 160.
+(REUBICADO [N. DE E. ANTES ARTICULO 160], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 157.
 
 Si hubiere empate en las votaciones, que no se refieran a elección de personas, se repetirá a votación en la misma sesión, y si resultare empate por segunda vez se discutirá y votará de nuevo el asunto en la sesión inmediata.
 
-###### ARTICULO 161.
+(REUBICADO [N. DE E. ANTES ARTICULO 161], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 158.
 
 Cuando llegue el momento de votar, los Secretarios lo anunciarán en el salón y mandarán que se haga igual anuncio en la Sala de Desahogo. Poco después comenzará la votación.
 
-###### ARTICULO 162.
+(REUBICADO [N. DE E. ANTES ARTICULO 162], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 159.
 
 Mientras ésta se verifica, ningún miembro de la Cámara deberá salir del Salón ni excusarse de votar.
 
-###### ARTICULO 163.
+(REUBICADO [N. DE E. ANTES ARTICULO 163], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 160.
 
 Los artículos de cualquier dictamen no podrán dividirse en más partes, al tiempo de la votación, que las designadas con anterioridad, según se previene en el artículo 120.
 
-###### ARTICULO 164.
+(REUBICADO [N. DE E. ANTES ARTICULO 164], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 161.
 
 Los Secretarios del Despacho se retirarán mientras dure la votación.
 
 De la fórmula para la expedición de las leyes
 
-###### ARTICULO 165.
+(REUBICADO [N. DE E. ANTES ARTICULO 165], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 162.
 
 Las leyes serán redactadas con precisión y claridad en la forma que hubieren sido aprobadas, y al expedirse serán autorizadas por las firmas de los Presidentes de ambas Cámaras y de un Secretario de cada una de ellas, si la ley hubiere sido votada por ambas. El Presidente de la Cámara donde la ley tuvo origen, firmará en primer lugar. La misma regla se observará respecto de los Secretarios.
 
-###### ARTICULO 166.
+(REUBICADO [N. DE E. ANTES ARTICULO 166], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 163.
 
 Cuando la ley fuere el resultado del ejercicio de facultades exclusivas de una Cámara, la firmarán el Presidente y dos Secretarios de la misma.
 
-###### ARTICULO 167.
+(REUBICADO [N. DE E. ANTES ARTICULO 167], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 164.
 
 Los acuerdos económicos serán autorizados por dos Secretarios de la Cámara que los aprobare.
 
-###### ARTICULO 168.
+(REUBICADO [N. DE E. ANTES ARTICULO 168], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 165.
 
 Las leyes votadas por el Congreso General se expedirán bajo esta fórmula: "El Congreso de los Estados Unidos Mexicanos, decreta: (aquí el texto de la ley o decreto)." Cuando la ley se refiera a la elección de Presidente Interino de la República, la fórmula será la siguiente: "El Congreso de los Estados Unidos Mexicanos, en ejercicio de la facultad que le da el artículo 84 y el 85 (según el caso), de la Constitución, declara:"
 
-###### ARTICULO 169.
+(REUBICADO [N. DE E. ANTES ARTICULO 169], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 166.
 
 Las leyes que las Cámaras votaren en ejercicio de sus facultades exclusivas, serán expedidas bajo esta fórmula: "La Cámara de Diputados (o la de Senadores) del Congreso de los Estados Unidos Mexicanos, en ejercicio de la facultad que le concede (aquí el artículo, fracción o inciso que corresponda) de la Constitución Federal, decreta: (texto de ley)."
 
-###### ARTICULO 170.
+(REUBICADO [N. DE E. ANTES ARTICULO 170], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 167.
 
 Cuando la ley se refiera a la elección de Presidente de la República de que habla la fracción I del artículo 74 de la Constitución, declara: (sic)
 
 De la Comisión Permanente
 
-###### ARTICULO 171.
+(REUBICADO [N. DE E. ANTES ARTICULO 171], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 168.
 
 En el mismo día de la clausura de las sesiones ordinarias del Congreso General, e inmediatamente después de esta ceremonia, los diputados y senadores que, con arreglo al artículo 78 de la Constitución, hubieren sido elegidos en sus respectivas Cámaras para formar la Comisión Permanente, se reunirán en el salón de sesiones de la Cámara de Diputados; y bajo la presidencia del individuo a quien corresponda el primer lugar por orden alfabético de apellidos, y de nombres, si hubiere dos o más apellidos iguales, ayudado por dos Secretarios de su elección, procederá a nombrar por mayoría de votos un Presidente, un Vicepresidente y cuatro Secretarios. De estos últimos dos deberán ser diputados y dos senadores.
 
-###### ARTICULO 172.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 172], D.O.F. 16 DE OCTUBRE DE 1937)</small>
 
-La Mesa de la Comisión Permanente ejercerá sus funciones durante el receso de las Cámaras para el cual fue elegida. En un período de receso el Presidente y el Vicepresidente serán elegidos entre los diputados, y en el período siguiente, entre los senadores.
+###### ARTICULO 169.
 
-###### ARTICULO 173.
+La Mesa de la Comisión Permanente ejercerá sus funciones durante el receso de las Cámaras; se renovará bimestralmente y no podrá ser reelecta. En un período de receso el Presidente y el Vicepresidente serán elegidos entre los diputados y en el período siguiente, entre los senadores.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 173], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 170.
 
 Verificada la elección de la Mesa, los elegidos tomarán desde luego posesión de sus puestos, y el Presidente declarará instalada la Comisión Permanente, comunicándolo así a quienes corresponda.
 
-###### ARTICULO 174.
+(REUBICADO [N. DE E. ANTES ARTICULO 174], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 171.
 
 Las sesiones de la Comisión Permanente tendrán lugar una vez por semana, en los días y a las horas que el Presidente de la misma designe. Si fuera de los días señalados hubiere necesidad de celebrar algunas otras sesiones, así se verificará, previo acuerdo del Presidente.
 
-###### ARTICULO 175.
+(REUBICADO [N. DE E. ANTES ARTICULO 175], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 172.
 
 Para el despacho de los negocios de su competencia, la Comisión Permanente, nombrará, a propuesta de la Mesa y por mayoría de votos, en el mismo día de su instalación, las siguientes Comisiones:
 
@@ -1008,43 +1168,59 @@ Puntos Constitucionales,
 
 Relaciones Exteriores.
 
-###### ARTICULO 176.
+(REUBICADO [N. DE E. ANTES ARTICULO 176], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 173.
 
 Las facultades y atribuciones de la Comisión Permanente son las que le confieren y señalan los artículos 29, 37 en los incisos II, III y IV de su fracción B, 79, 84, 85, 87, 98, 99 y 100; Base 4a. fracción VI del 73; fracción V del 76 y párrafo penúltimo del 97 de la Constitución Federal.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1935)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 177], D.O.F. 16 DE OCTUBRE DE 1937)</small>
 
-###### ARTICULO 177.
+###### ARTICULO 174.
 
-Los empleados y obreros que presten sus servicios al Congreso de la Unión, no serán removidos de los empleos que ocupan, durante los recesos del propio Congreso, y gozarán del sueldo íntegro asignado en el Presupuesto.
+La Comisión Permanente no podrá remover a ningún empleado. En caso de fallecimiento o renuncia, podrá nombrar substituto, con carácter provisional, a reserva de que la Cámara haga el nombramiento definitivo.
 
-###### ARTICULO 178.
+(REUBICADO [N. DE E. ANTES ARTICULO 178], D.O.F. 16 DE OCTUBRE DE 1937)
 
-Durante los recesos del Congreso, las Comisiones Administrativas de ambas Cámaras, presentarán a la Comisión Permanente, para su examen y aprobación, los Presupuesto (sic) de dietas, sueldos y gastos de las mismas, y de sus Secretarías, y la Comisión Inspectora, los de la Contaduría Mayor de Hacienda.
+###### ARTICULO 175.
 
-###### ARTICULO 179.
+Durante los recesos del Congreso, las Comisiones Administrativas de ambas Cámaras, presentarán a la, para su examen y aprobación, los Presupuesto de dietas, sueldos y gastos de las mismas, y de sus Secretarías, y la Comisión Inspectora, los de la Contaduría Mayor de Hacienda.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 179], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 176.
 
 Los asuntos que, sin ser de la competencia de la Comisión Permanente, llegase a su poder, se reservarán para entregarlos en su oportunidad a la Cámara que correspondan.
 
-###### ARTICULO 180.
+(REUBICADO [N. DE E. ANTES ARTICULO 180], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 177.
 
 El último día útil de su ejercicio, en cada período la Comisión Permanente tendrá formados, para entregarlos a los Secretarios de las Cámaras, dos inventarios, uno para la de Diputados y otro para la de Senadores, conteniendo, respectivamente, los memoriales, oficios o comunicaciones y demás documentos que para cada una de ellas hubiere recibido.
 
-###### ARTICULO 181.
+(REUBICADO [N. DE E. ANTES ARTICULO 181], D.O.F. 16 DE OCTUBRE DE 1937)
 
-Además, en los inventarios correspondientes, en el último receso de cada Legislatura, se comprenderán los expedientes que la Comisión Permanente hubiese recibido de las Cámaras al clausurarse sus últimas sesiones ordinarias, para los efectos de la fracción III del artículo 79 de la Constitución.
+###### ARTICULO 178.
 
-###### ARTICULO 182.
+Además, en los inventarios correspondientes en el último receso de cada Legislatura, se comprenderán los expedientes que la Comisión Permanente hubiese recibido de las Cámaras al clausurarse sus últimas sesiones ordinarias, para los efectos de la fracción III del artículo 79 de la Constitución.
 
-Cuando el Congreso General, o una sola de las Cámaras que lo componen, celebre sesión extraordinaria, la Comisión Permanente no suspenderá sus trabajos, sino en aquello que se refiere al asunto para el que se haya convocado a sesión extraordinaria.
+(REUBICADO [N. DE E. ANTES ARTICULO 182], D.O.F. 16 DE OCTUBRE DE 1937)
 
-###### ARTICULO 183.
+###### ARTICULO 179.
+
+Cuando el Congreso General o una sola de las Cámaras que lo componen, celebre sesión extraordinaria, la Comisión Permanente no suspenderá sus trabajos, sino en aquello que se refiere al asunto para el que se haya convocado a sesión extraordinaria.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 183], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 180.
 
 Cuando la Comisión Permanente ejerza atribuciones de Colegio Electoral, respecto a las elecciones de Autoridades Judiciales, hará la declaración correspondiente, con fundamento de la ley, bajo una fórmula semejante a la que está preceptuada para la Cámara de Diputados en el artículo relativo.
 
 Del "Diario de los Debates"
 
-###### ARTICULO 184.
+(REUBICADO [N. DE E. ANTES ARTICULO 184], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 181.
 
 Cada Cámara tendrá un órgano oficial denominado "Diario de los Debates", en el que se publicará la fecha y lugar en que se verifique la sesión, el sumario, nombre del que presida, copia fiel del acta de la sesión anterior, versión taquigráfica de las discusiones en el orden que se desarrollen e inserción de todos los documentos a los que se les dé lectura.
 
@@ -1052,121 +1228,193 @@ No se publicarán las discusiones y documentos relacionados con las sesiones sec
 
 Ceremonial
 
-###### ARTICULO 185.
+(REUBICADO [N. DE E. ANTES ARTICULO 185], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 182.
 
 Cuando el Presidente de la República asista al Congreso a hacer la protesta que previene la Constitución, saldrá a recibirlo hasta la puerta del salón, una comisión compuesta de seis diputados e igual número de senadores, incluso un secretario de cada Cámara. Dicha comisión lo acompañará hasta su asiento y después, a su salida, hasta la misma puerta. Asimismo, se nombrarán comisiones para acompañarlo de su residencia a la Cámara y de ésta a su residencia.
 
-###### ARTICULO 186.
+(REUBICADO [N. DE E. ANTES ARTICULO 186], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 183.
 
 Al entrar y salir del salón el Presidente de la República, se pondrán en pie todos los asistentes a las galerías y los miembros del Congreso, a excepción de su Presidente, que solamente lo verificará a la entrada del primero, cuando éste haya llegado a la mitad del salón.
 
-###### ARTICULO 187.
+(REUBICADO [N. DE E. ANTES ARTICULO 187], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 184.
 
 El Presidente de la República, hará la protesta de pie ante el Presidente del Congreso, y concluido este acto se retirará, con el mismo ceremonial prescrito en los artículos anteriores.
 
-###### ARTICULO 188.
+(REUBICADO [N. DE E. ANTES ARTICULO 188], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 185.
 
 Cuando el Presidente de la República asista a la apertura de las sesiones, tomará asiento al lado izquierdo del Presidente del Congreso.
 
-###### ARTICULO 189.
+(REUBICADO [N. DE E. ANTES ARTICULO 189], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 186.
 
 Al discurso que el Presidente de la República pronuncie en este acto, el Presidente del Congreso contestará en términos generales.
 
-###### ARTICULO 190.
+(REUBICADO [N. DE E. ANTES ARTICULO 190], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 187.
 
 Los diputados y senadores tomarán asiento sin preferencia alguna.
 
-###### ARTICULO 191.
+(REUBICADO [N. DE E. ANTES ARTICULO 191], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 188.
 
 Siempre que pase una Comisión de una a la otra Cámara, en ésta se nombrará otra Comisión, compuesta de seis individuos que acompañará la primera a su entrada y salida hasta la puerta exterior del salón.
 
-###### ARTICULO 192.
+(REUBICADO [N. DE E. ANTES ARTICULO 192], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 189.
 
 Los individuos de aquella comisión tomarán asiento indistintamente entre los miembros de la Cámara, y luego que su Presidente haya expuesto el objeto de su misión, le contestará el Presidente de la Cámara en términos generales y la comisión podrá retirarse.
 
-###### ARTICULO 193.
+(REUBICADO [N. DE E. ANTES ARTICULO 193], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 190.
 
 A los diputados y senadores que se presenten a protestar después de abiertas las sesiones, saldrán a recibirlos hasta la puerta interior del salón dos individuos de su respectiva Cámara, incluso un secretario.
 
-###### ARTICULO 194.
+(REUBICADO [N. DE E. ANTES ARTICULO 194], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 191.
 
 Las Cámaras jamás asistirán ni juntas ni separadas, a función alguna pública fuera de su palacio.
 
-###### ARTICULO 195.
+(REUBICADO [N. DE E. ANTES ARTICULO 195], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 192.
 
 La comisión de que habla el artículo 52, se reunirá en el lugar donde se haga el funeral, ocupará el lugar que le corresponda y concluida la ceremonia se disolverá.
 
-###### ARTICULO 196.
+(REUBICADO [N. DE E. ANTES ARTICULO 196], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 193.
 
 Cuando algún funcionario, representante diplomático o personaje de relieve se presente en la Cámara a invitación de ésta o por sí, se nombrará una comisión que lo reciba a las puertas de la misma y lo acompañe hasta el lugar donde deba tomar asiento que podrá ser en los palcos bajos, en las curules de los diputados o senadores, o bien en el estrado que ocupa la Presidencia.
 
-###### ARTICULO 197.
+(REUBICADO [N. DE E. ANTES ARTICULO 197], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 194.
 
 Las primeras curules alrededor de la tribuna se destinarán a los Secretarios de Estado, que concurran a la sesión.
 
 De la Tesorería
 
-###### ARTICULO 198.
+(REUBICADO [N. DE E. ANTES ARTICULO 198], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 195.
 
 Para la administración de los fondos del Presupuesto del Congreso, tendrá cada una de las Cámaras un Tesorero, que será nombrado a propuesta de la Gran Comisión, por cada una de ellas.
 
-###### ARTICULO 199.
+(REUBICADO [N. DE E. ANTES ARTICULO 199], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 196.
 
 El Tesorero entrará a ejercer su cargo otorgando la fianza correspondiente con los requisitos y bajo la responsabilidad que para los de igual clase previenen las leyes. La vigilancia del manejo de la Tesorería quedará a cargo de la Comisión de Administración.
 
-###### ARTICULO 200.
+(REUBICADO [N. DE E. ANTES ARTICULO 201], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 197.
 
 El personal de la Tesorería será el que fija el Presupuesto de Egresos. El nombramiento y remoción de ese personal se hará por cada Cámara a propuesta de la Gran Comisión.
 
-###### ARTICULO 201.
+(REUBICADO [N. DE E. ANTES ARTICULO 201], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 198.
 
 La remoción del Tesorero se hará por la Cámara a moción de cualquier miembro de ella, con plena justificación, o por dictamen de la Gran Comisión.
 
-###### ARTICULO 202.
+(REUBICADO [N. DE E. ANTES ARTICULO 202], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 199.
 
 Los tesoreros cobrarán y recibirán de la Tesorería de la Federación, los caudales correspondientes al Presupuesto de los gastos que los Secretarios de cada Cámara, o los de la Comisión Permanente, en su caso, le pasarán mensualmente. El Tesorero hará los pagos de dietas, gastos y sueldos de los individuos y empleados de su respectiva Cámara, los días designados para ese efecto. La Comisión de Administración formará mensualmente el Presupuesto de sueldos y gastos de la Tesorería. Los Tesoreros de ambas Cámaras sólo están obligados, bajo su estricta responsabilidad, a rendir cuentas del manejo de fondos de su respectiva Tesorería a la Contaduría Mayor de Hacienda y a la Comisión de Administración de la Cámara correspondiente.
 
-###### ARTICULO 203.
+(REUBICADO [N. DE E. ANTES ARTICULO 203], D.O.F. 16 DE OCTUBRE DE 1937)
 
-Los Tesoreros descontarán de las cantidades que deben entregar como dietas a los diputados y senadores, la suma que corresponda a los días que dejaron de asistir conforme a la orden escrita del Presidente de la Cámara o de la Permanente. El Presidente de cada Cámara o el de la Permanente, en su caso, pasarán oportunamente las listas de asistencia a las sesiones.
+###### ARTICULO 200.
 
-> <small>(F. DE E., 2 DE MAYO DE 1934)</small>
+Los Tesoreros descontarán de las cantidades que deben entregar como dietas a los diputados y senadores, la suma que corresponda a los días que dejaron de asistir conforme a la orden escrita del Presidente de la Cámara o el de la Permanente. El Presidente de cada Cámara o de la Permanente, en su caso, pasarán oportunamente las listas de asistencia a las sesiones.
 
-###### ARTICULO 204.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 204], D.O.F. 16 DE OCTUBRE DE 1937)</small>
 
-En caso de fallecimiento de un diputado o senador en ejercicio, la Comisión de Administración tendrá la obligación de dar orden a la Tesorería para que se ministre inmediatamente a la familia del finado la suma de dos mil pesos para gastos mortuorios. Cuando el que fallezca sea un empleado, la ministración será de la cantidad equivalente a dos meses del sueldo que percibía.
+###### ARTICULO 201.
+
+En caso de fallecimiento de un Diputado o Senador en ejercicio, la Comisión de Administración tendrá la obligación de dar orden a la Tesorería para que se ministre inmediatamente a la familia del finado, la suma de dos mil pesos, para gastos mortuorios. También percibirá quince mil pesos de seguro de vida. Cuando el que fallezca sea un empleado, la ministración será de la cantidad equivalente a dos meses del sueldo que percibía, para gastos mortuorios, y dos mil pesos de su seguro de vida; y si fuera obrero, mil pesos.
 
 De las galerías
 
-###### ARTICULO 205.
+(REUBICADO [N. DE E. ANTES ARTICULO 205], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 202.
 
 Habrá en cada Cámara un lugar con este nombre, destinado al público que concurra a presenciar las sesiones; se abrirá antes de comenzar cada una de ellas, y no se cerrarán sino cuando las sesiones se levanten a no ser que haya necesidad, por algún desorden o por cualquier otro motivo, de deliberar sin presencia del público, en cuyo caso permanecerán cerradas.
 
-###### ARTICULO 206.
+(REUBICADO [N. DE E. ANTES ARTICULO 206], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 203.
 
 Habrá en las galerías un lugar especialmente destinado al Cuerpo Diplomático y otro a los Ministros de la Suprema Corte de Justicia, a los Gobernadores de los Estados y demás funcionarios públicos.
 
-###### ARTICULO 207.
+(REUBICADO [N. DE E. ANTES ARTICULO 207], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 204.
 
 Los concurrentes a las galerías se presentarán sin armas; guardarán repeto (sic), silencio y compostura, y no tomarán parte en los debates con ninguna clase de demostración.
 
-###### ARTICULO 208.
+(REUBICADO [N. DE E. ANTES ARTICULO 208], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 205.
 
 Se prohibe fumar en las galerías. Las personas que infrinjan este artículo, serán expulsadas del edificio.
 
-###### ARTICULO 209.
+(REUBICADO [N. DE E. ANTES ARTICULO 209], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 206.
 
 Los que perturben de cualquier modo el orden, serán despedidos de las galerías en el mismo acto; pero si la falta fuere grave o importare delito, el Presidente mandará detener a quien la cometiere y consignarlo al Juez competente.
 
-###### ARTICULO 210.
+(REUBICADO [N. DE E. ANTES ARTICULO 210], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 207.
 
 Siempre que los medios indicados no basten para contener el desorden en las galerías, el Presidente levantará la sesión pública y podrá continuarla en secreto.
 
 Lo mismo se verificará cuando los medios de prudencia no sean suficientes para restablecer el orden alterado por los miembros de la Cámara.
 
-###### ARTICULO 211.
+(REUBICADO [N. DE E. ANTES ARTICULO 211], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 208.
 
 Los Presidentes de las Cámaras podrán ordenar, siempre que lo consideren conveniente, que se sitúe guardia militar en los edificios de las mismas, la que estará sujeta exclusivamente a las órdenes del Presidente respectivo.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 212], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 209.
+
+Sólo con permiso del Presidente, en virtud de acuerdo de la Cámara, podrán entrar al salón de sesiones personas que no sean diputados o senadores.
+
+Por ningún motivo se permitirá la entrada a los pasillos a personas que no tengan la anterior representación. Los ujieres (sic) cumplirán bajo su responsabilidad esta última disposición.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 213], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 210.
+
+Cuando por cualquiera circunstancia concurriere alguna guardia militar o policía al recinto de las Cámaras, quedará bajo las órdenes exclusivas del Presidente de cada una de ellas.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 214], D.O.F. 16 DE OCTUBRE DE 1937)
+
+###### ARTICULO 211.
+
+Los diputados y senadores no podrán penetrar al salón de sesiones armados y el ciudadano Presidente deberá invitar a los que no acaten esta disposición, a que se desarmen, no permitiendo el uso de la palabra ni contando su voto a ningún diputado o senador armado. En caso extremo, la Presidencia hará, por los medios que estime conveniente, que los renuentes abandonen el salón.
 
 ###### ARTICULO 212.
 
@@ -1187,6 +1435,10 @@ Los diputados y senadores no podrán penetrar al salón de sesiones armados y el
 ###### ARTICULO 1o.
 
 Al renovarse el Poder Legislativo en los años de 1934 y 1936, los senadores de la Legislatura anterior y los senadores de nueva elección, se reunirán de acuerdo con el artículo 3o., de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 1937)</small>
+
+La elección de los veintinueve miembros de la Gran Comisión en la Cámara de Senadores, se hará, a partir del 1º. de septiembre de 1940, por sorteo de entre los dos Senadores de cada Estado y del Distrito Federal que estuvieren presentes. Si al efectuarse esta elección, no estuviere presente más de un Senador y por un Estado, aquél formará parte de la Gran Comisión, y si no estuviere ninguno, el que primero sea recibido, será miembro de la Gran Comisión.
 
 ###### ARTICULO 2o.
 
@@ -1209,3 +1461,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 D.O.F. 31 DE DICIEMBRE DE 1935.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 16 DE OCTUBRE DE 1937.
+
+UNICO.- Estas reformas al Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos, entrarán en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
