@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1982-12-28"
+last_updated: "1983-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE FEBRERO DE 1983.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -87,6 +87,10 @@ IX.- El Congreso de la Unión, con el fin de unificar y coordinar la educación 
 El varón y la mujer son iguales ante la ley. Esta protegerá la organización y el desarrollo de la familia.
 
 Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos.
+
+> <small>(ADICIONADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+
+Toda persona tiene derecho a la protección de la salud. La Ley definirá las bases y modalidades para el acceso a los servicios de salud y establecerá la concurrencia de la Federación y las entidades federativas en materia de salubridad general, conforme a lo que dispone la fracción XVI del artículo 73 de esta Constitución.
 
 > <small>(ADICIONADO, D.O.F. 18 DE MARZO DE 1980)</small>
 
@@ -174,6 +178,14 @@ Nadie puede ser molestado en su persona, familia, domicilio, papeles y posesione
 
 La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y exigir la exhibición de los libros y papeles indispensables para comprobar que se han acatado las disposicioies (sic) fiscales, sujetándose en estos casos, a las leyes respectivas y a las formalidades prescriptas para los cateos.
 
+> <small>(ADICIONADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+
+La correspondencia que bajo cubierta circule por las estafetas estará libre de todo registro, y su violación será penada por la ley.
+
+> <small>(ADICIONADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+
+En tiempo de paz ningún miembro del Ejército podrá alojarse en casa particular contra la voluntad del dueño, ni imponer prestación alguna. En tiempo de guerra los militares podrán exigir alojamiento, bagajes, alimentos y otras prestaciones, en los términos que establezca la ley marcial correspondiente.
+
 ###### Art. 17.
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil. Ninguna persona podrá hacerse justicia por sí misma ni ejercer violencia para reclamar su derecho. Los tribunales estarán expeditos para administrar justicia en los plazos y términos que fije la ley; su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
@@ -238,11 +250,15 @@ Tampoco podrá prolongarse la prisión preventiva por más tiempo del que como m
 
 En toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención.
 
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+
 ###### Art. 21.
 
-La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la policía judicial, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa el castigo de las infracciones de los reglamentos gubernativos y de policía; el cual únicamente consistirá en multa o arresto hasta por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de quince días.
+La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa o arresto hasta por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
 
-Si el infractor fuese jornalero u obrero, no podrá ser castigado con multa mayor del importe de su jornal o sueldo en una semana.
+Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
+
+Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -264,13 +280,37 @@ Todo hombre es libre para profesar la creencia religiosa que más le agrade y pa
 
 Todo acto religioso de culto público, deberá celebrarse precisamente dentro de los templos, los cuales estarán siempre bajo la vigilancia de la autoridad.
 
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+
 ###### Art. 25.
 
-La correspondencia que bajo cubierta circule por las estafetas, estará libre de todo registro, y su violación será penada por la ley.
+Corresponde al Estado la rectoría del desarrollo nacional para garantizar que éste sea integral, que fortalezca la Soberanía de la Nación y su régimen democrático y que, mediante el fomento del crecimiento económico y el empleo y una más justa distribución del ingreso y la riqueza, permita el pleno ejercicio de la libertad y la dignidad de los individuos, grupos y clases sociales, cuya seguridad protege esta Constitución.
+
+El Estado planeará, conducirá, coordinará y orientará la actividad económica nacional, y llevará al cabo la regulación y fomento de las actividades que demande el interés general en el marco de libertades que otorga esta Constitución.
+
+Al desarrollo económico nacional concurrirán, con responsabilidad social, el sector público, el sector social y el sector privado, sin menoscabo de otras formas de actividad económica que contribuyan al desarrollo de la Nación.
+
+El sector público tendrá a su cargo, de manera exclusiva, las áreas estratégicas que se señalan en el Artículo 28, párrafo cuarto de la Constitución, manteniendo siempre el Gobierno Federal la propiedad y el control sobre los organismos que en su caso se establezcan.
+
+Asimismo podrá participar por sí o con los sectores social y privado, de acuerdo con la ley, para impulsar y organizar las áreas prioritarias del desarrollo.
+
+Bajo criterios de equidad social y productividad se apoyará e impulsará a las empresas de los sectores social y privado de la economía, sujetándolos a las modalidades que dicte el interés público y al uso, en beneficio general, de los recursos productivos, cuidando su conservación y el medio ambiente.
+
+La ley establecerá los mecanismos que faciliten la organización y la expansión de la actividad económica del sector social: de los ejidos, organizaciones de trabajadores, cooperativas, comunidades, empresas que pertenezcan mayoritaria o exclusivamente a los trabajadores y, en general, de todas las formas de organización social para la producción, distribución y consumo de bienes y servicios socialmente necesarios.
+
+La ley alentará y protegerá la actividad económica que realicen los particulares y proveerá las condiciones para que el desenvolvimiento del sector privado contribuya al desarrollo económico nacional, en los términos que establece esta Constitución.
+
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
 ###### Art. 26.
 
-En tiempo de paz, ningún miembro del Ejército podrá alojarse en casa particular, contra la voluntad del dueño, ni imponer prestación alguna. En tiempo de guerra, los militares podrán exigir alojamiento, bagajes, alimentos y otras prestaciones, en los términos que establezca la ley marcial correspondiente.
+El Estado organizará un sistema de planeación democrática del desarrollo nacional que imprima solidez, dinamismo, permanencia y equidad al crecimiento de la economía para la independencia y la democratización política, social y cultural de la Nación.
+
+Los fines del proyecto nacional contenidos en esta Constitución determinarán los objetivos de la planeación. La planeación será democrática. Mediante la participación de los diversos sectores sociales recogerá las aspiraciones y demandas de la sociedad para incorporarlas al plan y los programas de desarrollo. Habrá un plan nacional de desarrollo al que se sujetarán obligatoriamente los programas de la administración Pública Federal.
+
+La ley facultará al Ejecutivo para que establezca los procedimientos de participación y consulta popular en el sistema nacional de planeación democrática, y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo. Asimismo determinará los órganos responsables del proceso de planeación y las bases para que el Ejecutivo Federal coordine mediante convenios con los gobiernos de las entidades federativas e induzca y concierte con los particulares las acciones a realizar para su elaboración y ejecución.
+
+En el sistema de planeación democrática, el Congreso de la Unión tendrá la intervención que señale la ley.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1934)</small>
 
@@ -426,19 +466,39 @@ g).- Las leyes locales organizarán el patrimonio de familia, determinando los b
 
 XVIII.- Se declaran revisables todos los contratos y concesiones hechas por los Gobiernos anteriores desde el año de 1876, que hayan traído por consecuencia el acaparamiento de tierras, aguas y riquezas naturales de la Nación, por una sola persona o sociedad, y se faculta al Ejecutivo de la Unión para declararlos nulos cuando impliquen perjuicios graves para el interés público.
 
+> <small>(ADICIONADA, D.O.F. 3 DE FEBRERO DE 1983)</small>
+
+XIX.- Con base en esta Constitución, el Estado dispondrá las medidas para la expedita y honesta impartición de la justicia agraria, con objeto de garantizar la seguridad jurídica en la tenencia de le (sic) tierra ejidal, comunal y de la pequeña propiedad, y apoyará la asesoría legal de los campesinos.
+
+> <small>(ADICIONADA, D.O.F. 3 DE FEBRERO DE 1983)</small>
+
+XX.- El Estado promoverá las condiciones para el desarrollo rural integral, con el propósito de generar empleo y garantizar a la población campesina el bienestar y su participación e incorporación en el desarrollo nacional, y fomentará la actividad agropecuaria y forestal para el óptimo uso de la tierra, con obras de infraestructura, insumos, créditos, servicios de capacitación y asistencia técnica. Asimismo expedirá la legislación reglamentaria para planear y organizar la producción agropecuaria, su industrialización y comercialización, considerándolas de interés público.
+
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+
 ###### Art. 28.
 
-En los Estados Unidos Mexicanos no habrá monopolios ni estancos de ninguna clase; ni exención de impuestos; ni prohibiciones a título de protección a la industria; exceptuándose únicamente los relativos a la acuñación de moneda, a los correos, telégrafos y radiotelegrafía, a la emisión de billetes por medio de un solo Banco que controlará el Gobierno Federal, y a los privilegios que por determinado tiempo se concedan a los autores y artistas para la reproducción de sus obras, y a los que, para el uso exclusivo de sus inventos, se otorguen a los inventores y perfeccionadores de alguna mejora.
+En los Estados Unidos Mexicanos quedan prohibidos los monopolios, la (sic) prácticas monopólicas, los estancos y las exenciones de impuestos en los términos y condiciones que fijan las leyes. El mismo tratamiento se dará a ls (sic) prohibiciones a título de protección a la industria.
 
-En consecuencia, la ley castigará severamente, y las autoridades perseguirán con eficacia, toda concentración o acaparamiento en una o pocas manos, de artículos de consumo necesario, y que tenga por objeto obtener el alza de los precios; todo acto o procedimiento que evite o tienda a evitar la libre concurrencia en la producción, industria o comercio, o servicios al público; todo acuerdo o combinación, de cualquiera manera que se haga, de productores, industriales, comerciantes y empresarios de transportes o de alguno otro servicio, para evitar la competencia entre sí y obligar a los consumidores a pagar precios exagerados; y, en general, todo lo que constituya una ventaja exclusiva indebida a favor de una o varias personas determinadas y con perjuicio del público en general o de alguna clase social.
+En consecuencia, la ley castigará severamente, y las autoridades perseguirán con eficacia, toda concentración o acaparamiento en una o pocas manos de artículos de consumo necesario y que tenga por objeto obtener el alza de los precios; todo acuerdo, procedimiento o combinación de los productores, industriales, comerciantes o empresarios de servicios, que de cualquier manera hagan, para evitar la libre concurrencia o la competencia entre sí y obligar a los consumidores a pagar precios exagerados y, en general, todo lo que constituya una ventaja exclusiva indebida a favor de una o varias personas determinadas y con perjuicio del público en general o de alguna clase social.
 
-No constituyen monopolios las asociaciones de trabajadores formadas para proteger sus propios intereses.
+Las leyes fijarán bases para que se señalen precios máximos a los artículos, materias o productos que se consideren necesarios para la economía nacional o el consumo popular, así como para imponer modalidades a la organización de la distribución de esos artículos, materias o productos, a fin de evitar que intermediaciones innecesarias o excesivas provoquen insuficiencia en el abasto, así como el alza de precios. La ley protegerá a los consumidores y propiciará su organización para el mejor cuidado de sus intereses.
 
-Tampoco constituyen monopolios las asociaciones o sociedades cooperativas de productores para que, en defensa de sus intereses o del interés general, vendan directamente en los mercados extranjeros los productos nacionales o industriales que sean la principal fuente de riqueza de la región en que se produzcan, y que no sean artículos de primera necesidad, siempre que dichas asociaciones estén bajo la vigilancia o amparo del Gobierno Federal o de los Estados, y previa autorización que al efecto se obtenga de las legislaturas respectivas en cada caso. Las mismas legislaturas por sí o a propuesta del Ejecutivo, podrán derogar, cuando las necesidades públicas así lo exijan, las autorizaciones concedidas para la formación de las asociaciones de que se trata.
+No constituirán monopolios las funciones que el Estado ejerza de manera exclusiva en las áreas estratégicas a las que se refiere este precepto: Acuñación de moneda; correos, telégrafos, radiotelegrafía y la comunicación vía satélite; emisión de billetes por medio de un solo banco, organismo descentralizado del Gobierno Federal; petróleo y los demás hidrocarburos; petroquímica básica; minerales radiactivos y generación de energía nuclear; electricidad; ferrocarriles y las actividades que expresamente señalen las leyes que expida el Congreso de la Unión.
 
-> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1982)</small>
+Se exceptúa también lo previsto en la primera parte del primer párrafo de este artículo la prestación del servicio público de banca y de crédito. Este servicio será prestado exclusivamente por el Estado a través de instituciones, en los términos que establezca la correspondiente ley reglamentaria, la que también determinará las garantías que protejan los intereses del público y el funcionamiento de aquellas en apoyo de las políticas de desarrollo nacional. El servicio público de banda (sic) y crédito no será objeto de concesión a particulares.
 
-Se exceptúa también de lo previsto en la primera parte del primer párrafo de este Artículo la prestación del servicio público de banca y crédito. Este servicio será prestado exclusivamente por el Estado a través de instituciones, en los términos que establezca la correspondiente ley reglamentaria, la que también determinará las garantías que protejan los intereses del público y el funcionamiento de aquéllas en apoyo de las políticas de desarrollo nacional. El servicio público de banca y crédito no será objeto de concesión a particulares.
+El Estado contará con los organismos y empresas que requiera para el eficaz manejo de las áreas estratégicas a su cargo y en las actividades de carácter prioritario donde, de acuerdo con las leyes, participe por sí o con los sectores social y privado.
+
+No constituyen monopolios las asociaciones de trabajadores formadas para proteger sus propios intereses y las asociaciones o sociedades cooperativas de productores para que, en defensa de sus intereses o del interés general, vendan directamente en los mercados extranjeros los productos nacionales o industriales que sean la principal fuente de riqueza de la región en que se produzcan o que no sean artículos de primera necesidad, siempre que dichas asociaciones estén bajo vigilancia o amparo del Gobierno Federal o de los Estados, y previa autorización que al efecto se obtenga de las legislaturas respectivas en cada caso. Las mismas Legislaturas, por sí o a propuesta del Ejecutivo podrán derogar, cuando así lo exijan las necesidades públicas, las autorizaciones concedidas para la formación de las asociaciones de que se trata.
+
+Tampoco constituyen monopolios los privilegios que por determinado tiempo se concedan a los autores y artistas para la producción de sus obras y los que para el uso exclusivo de sus inventos, se otorguen a los inventores y perfeccionadores de alguna mejora.
+
+El Estado, sujetándose a las leyes, podrá en casos de interés general, concesionar la prestación de servicios públicos o la explotación, uso y aprovechamiento de bienes de dominio de la Federación, salvo las excepciones que las mismas prevengan. Las leyes fijarán las modalidades y condiciones que aseguren la eficacia de la prestación de los servicios y la utilización social de los bienes, y evitarán fenómenos de concentración que contraríen el interés público.
+
+La sujeción a regímenes de servicio público se apegará a lo dispuesto por la Constitución y sólo podrá llevarse a cabo mediante ley.
+
+Se podrán otorgar subsidios a actividades prioritarias, cuando sean generales, de carácter temporal y no afecten sustancialmente las finanzas de la Nación. El Estado vigilará su aplicación y evaluará los resultados de ésta.
 
 > <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 1981)</small>
 
@@ -1137,6 +1197,18 @@ XXIX-B.- Para legislar sobre las características y uso de la Bandera, Escudo e 
 > <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 1976)</small>
 
 XXIX-C.- Para expedir las leyes que establezcan la concurrencia del Gobierno Federal, de los Estados y de los Municipios, en el ámbito de sus respectivas competencias, en materia de asentamientos humanos, con objeto de cumplir los fines previstos en el párrafo tercero del artículo 27 de esta Constitución.
+
+> <small>(ADICIONADA, D.O.F. 3 DE FEBRERO DE 1983)</small>
+
+XXIX-D.- Para expedir leyes sobre planeación nacional del desarrollo económico y social.
+
+> <small>(ADICIONADA, D.O.F. 3 DE FEBRERO DE 1983)</small>
+
+XXIX-E.- Para expedir leyes para la programación, promoción, concertación y ejecución de acciones de orden económico, especialmente las referentes al abasto y otras que tengan como fin la producción suficiente y oportuna de bienes y servicios, social y nacionalmente necesarios.
+
+> <small>(ADICIONADA, D.O.F. 3 DE FEBRERO DE 1983)</small>
+
+XXIX-F.- Para expedir leyes tendientes a la promoción de la inversión mexicana, la regulación de la inversión extranjera, la transferencia de tecnología y la generación, difusión y aplicación de los conocimientos científicos y tecnológicos que requiere el desarrollo nacional.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
@@ -1870,73 +1942,93 @@ La ley señalará los casos de prescripción de la responsabilidad administrativ
 
 DE LOS ESTADOS DE LA FEDERACION.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE OCTUBRE DE 1953)</small>
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
 ###### Art. 115.
 
-Los Estados adoptarán, para su régimen interior, la forma de gobierno republicano, representativo, popular, teniendo como base de su división territorial y de su organización política y administrativa, el Municipio Libre conforme a las bases siguientes:
+Los Estados adoptarán, para su régimen interior, la forma de gobierno republicano, representativo, popular, teniendo como base de su división territorial y de su organización política y administrativa el Municipio Libre, conforme a las bases siguientes:
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 1953)</small>
+I.- Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-I. Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+Los presidentes municipales, regidores y síndicos de los ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el periodo inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el periodo inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el periodo inmediato como propietarios a menos que hayan estado en ejercicio.
 
-Los Presidentes Municipales, regidores y síndicos de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
+Las Legislaturas locales, por acuerdo de las dos terceras partes de sus integrantes, podrán suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la ley local prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacerlos (sic) alegatos que a su juicio convengan.
 
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 1933)</small>
+En caso de declararse desaparecido un ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procediere que entraren en funciones los suplentes ni que se celebraren nuevas elecciones, las Legislaturas designarán entre los vecinos a los Concejos Municipales que concluirán los periodos respectivos.
 
-II. Los municipios administrarán libremente su hacienda, la cual se formará de las contribuciones que señalen las Legislaturas de los Estados y que, en todo caso, serán las suficientes para atender a las necesidades municipales.
+Si alguno de los miembros dejare de desempeñar su cargo, será substituido por su suplente, o se procederá según lo disponga la ley.
 
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 1933)</small>
+II.- Los municipios estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la ley.
 
-III. Los municipios serán investidos de personalidad jurídica para todos los efectos legales.
+Los ayuntamientos poseerán facultades para expedir de acuerdo con las bases normativas que deberán establecer las Legislaturas de los Estados, los bandos de policía y buen gobierno y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+III.- Los municipios, con el concurso de los Estados cuando así fuere necesario y lo determinen las leyes, tendrán a su cargo los siguientes servicios públicos:
 
-El Ejecutivo Federal y los Gobernadores de los Estados tendrán el mando de la fuerza pública en los Municipios donde residieren habitual o transitoriamente.
+a).- Agua potable y alcantarillado.
 
-> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1943)</small>
+b).- Alumbrado público.
 
-Los Gobernadores de los Estados no podrán durar en su encargo más de seis años.
+c).- Limpia.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+d).- Mercados y centrales de abasto.
 
-La elección de los Gobernadores de los Estados y de las Legislaturas Locales será directa y en los términos que dispongan las leyes electorales respectivas.
+e).- Panteones.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+f).- Rastro.
 
-Los Gobernadores de los Estados, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo, podrán volver a ocupar ese cargo ni aun con el carácter de interinos, provisionales, substitutos o encargados del despacho.
+g).- Calles, parques y jardines.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+h).- Seguridad pública y tránsito, e
 
-Nunca podrán ser electos para el período inmediato:
+i).- Los demás que las Legislaturas locales determinen según las condiciones territoriales y socio-económicas de los Municipios, así como su capacidad administrativa y financiera.
 
-a).- El Gobernador substituto constitucional, o el designado para concluir el período en caso de falta absoluta del constitucional aun cuando tenga distinta denominación.
+Los municipios de un mismo Estado, previo acuerdo entre sus ayuntamientos y con sujeción a la ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les corresponda.
 
-b).- El Gobernador interino, el provisional o el ciudadano que, bajo cualquiera denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
+IV.- Los municipios administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que las legislaturas establezcan a su favor, y en todo caso:
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+a).- Percibirán las contribuciones, incluyendo tasas adicionales, que establezcan los Estados sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora así como las que tengan por base el cambio de valor de los inmuebles.
 
-Sólo podrá ser Gobernador Constitucional de un Estado, un ciudadano mexicano por nacimiento y nativo de él, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección.
+Los municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+b).- Las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determinen por las Legislaturas de los Estados.
 
-El número de representantes en las Legislaturas de los Estados será proporcional al de habitantes de cada uno; pero en todo caso, no podrá ser menor de siete diputados en los Estados cuya población no llegue a cuatrocientos mil habitantes; de nueve en aquellos cuya población exceda de este número y no llegue a ochocientos mil habitantes y de once en los Estados cuya población sea superior a esta última cifra.
+c).- Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+Las leyes federales no limitarán la facultad de los Estados para establecer las contribuciones a que se refieren los incisos a) y c), ni concederán exenciones en relación con las mismas. Las leyes locales no establecerán exenciones o subsidios respecto de las mencionadas contribuciones, en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo los bienes del dominio público de la Federación, de los Estados o de los Municipios estarán exentos de dichas contribuciones.
 
-Los diputados a las Legislaturas de los Estados no podrán ser reelectos para el período inmediato. Los diputados suplentes podrán se electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
+Las Legislaturas de los Estados aprobarán las leyes de ingresos de los Ayuntamientos y revisarán sus cuentas públicas. Los presupuestos de egreso serán aprobados por los ayuntamientos con base en sus ingresos disponibles.
 
-> <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+V.- Los municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones, y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo Tercero del artículo 27 de esta Constitución, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
 
-De acuerdo con la legislación que se expida en cada una de las entidades federativas se introducirá el sistema de diputados de minoría en la elección de las legislaturas locales y el principio de representación proporcional en la elección de los ayuntamientos de los municipios cuya población sea de 300 mil o más habitantes.
+VI.- Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades federativas formen o tiendan a formar una continuidad demográfica, la Federación, las entidades federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a la ley federal de la materia.
 
-> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 1976)</small>
+VII.- El Ejecutivo Federal y los gobernadores de los Estados tendrán el mando de la fuerza pública en los Municipios donde residieren habitual o transitoriamente.
 
-IV.- Los Estados y Municipios, en el ámbito de sus competencias, expedirán las leyes, reglamentos y disposiciones administrativas que sean necesarias para cumplir con los fines señalados en el párrafo tercero del artículo 27 de esta Constitución en lo que se refiere a los centros urbanos y de acuerdo con la Ley Federal de la materia.
+VIII.- Los gobernadores de los Estados no podrán durar en su encargo más de seis años.
 
-> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 1976)</small>
+La elección de los gobernadores de los Estados y de las Legislaturas locales será directa y en los términos que dispongan las leyes electorales respectivas.
 
-V.- Cuando dos o más centros urbanos situados en territorios municipales de dos o más Entidades Federativas formen o tiendan a formar una continuidad geográfica, la Federación, las Entidades Federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a la Ley Federal de la materia.
+Los gobernadores de los Estados, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrán volver a ocupar ese cargo, ni aún con el carácter de interinos, provisionales, substitutos o encargados del despacho.
+
+Nunca podrán ser electos para el período inmediato.
+
+a).- El gobernador substituto constitucional, o el designado para concluir el período en caso de falta absoluta del constitucional, aún cuando tengan distinta denominación.
+
+b).- El gobernador interino, el provisional o el ciudadano que, bajo cualquiera denominación, supla las faltas temporales del gobernador, siempre que desempeñe el cargo los dos últimos años del periodo.
+
+Sólo podrá ser gobernador constitucional de un Estado un ciudadano mexicano por nacimiento y nativo de él, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección.
+
+El número de representantes en las legislaturas de los Estado (sic) será proporcional al de habitantes de cada uno; pero, en todo caso, no podrá ser menor de siete diputados en los Estados cuya población no llegue a cuatrocientos mil habitantes; de nueve, en aquéllos cuya población exceda de este número y no llegue a ochocientos mil habitantes, y de once en los Estados cuya población sea superior a esta última cifra.
+
+Los diputados a las legislaturas de los Estados no podrán ser reelectos para el período inmediato. Los diputados suplentes podrán ser electos para el periodo inmediato con el carácter de propietario, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
+
+De acuerdo con la legislación que se expida en cada una de las entidades federativas se introducirá el sistema de diputados de minoría en la elección de las legislaturas locales y el principio de representación proporcional en la elección de los ayuntamientos de todos los Municipios.
+
+IX.- Las relaciones de trabajo entre los Estados y sus trabajadores, se regirán por las leyes que expidan las legislaturas de los Estados con base en los dispuesto (sic) en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias. Los municipios observarán estas mismas reglas por lo que a sus trabajadores se refiere.
+
+X.- La Federación y los Estados, en los términos de ley, podrán convenir la asunción por parte de éstos del ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
+
+Los Estados estarán facultados para celebrar esos convenios con sus Municipios, a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones a las que se refiere el párrafo anterior.
 
 ###### Art. 116.
 
@@ -3329,3 +3421,39 @@ Se derogan las fracciones VII del Artículo 74, IX del Artículo 76 y XIX del Ar
 ###### ARTICULO TERCERO.
 
 Dentro del año siguiente a la entrada en vigor del presente Decreto, los Estados de la Federación a través de sus congresos constituyentes locales, iniciarán las reformas constitucionales necesarias para cumplir las disposiciones del Título Cuarto de la Constitución General de la República, en lo conducente.
+
+D.O.F. 3 DE FEBRERO DE 1983.
+
+DECRETO QUE ADICIONA DOS PARRAFOS AL ARTICULO 16, REFORMA EL ARTICULO 25, 26, ADICIONA LAS FRACCIONES XIX Y XX DEL ARTICULO 27, REFORMA EL ARTICULO 28 Y ADICIONA LAS FRACCIONES XXIX-D; XXIX-E Y XXIX-F AL ARTICULO 73.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas y adiciones a la Constitución Política de los Estados Unidos Mexicanos entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE FEBRERO DE 1983.
+
+DECRETO QUE REFORMA Y ADICIONA EL ARTICULO 115.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+El Congreso de la Unión y las legislaturas de los Estados, en el plazo de un año computado a partir de la vigencia de este Decreto, procederán a reformar y adicionar las leyes federales, así como las Constituciones y leyes locales, respectivamente, para proveer al debido cumplimiento de las bases que se contienen en el mismo. Las contribuciones locales y las participaciones a que se refieren los incisos a) al c) de la fracción IV, se percibirán por los Municipios a partir del 1o. de enero de 1984.
+
+D.O.F. 3 DE FEBRERO DE 1983.
+
+DECRETO QUE ADICIONA UN PARRAFO PENULTIMO AL ARTICULO 4°.
+
+###### ARTICULO UNICO.
+
+La presente adición entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE FEBRERO DE 1983.
+
+DECRETO QUE REFORMA EL ARTICULO 21.
+
+###### ARTICULO UNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
