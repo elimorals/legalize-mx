@@ -4,7 +4,7 @@ identifier: "LOEFAM"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-12-26"
-last_updated: "1986-12-26"
+last_updated: "1998-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=417&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOEFAM"
 
 LEY ORGANICA DEL EJERCITO Y FUERZA AEREA MEXICANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 26 de diciembre de 1986.
 
@@ -64,7 +64,9 @@ ARTICULO 3/o. El Ejército y Fuerza Aérea Mexicanos deben ser organizados, adie
 
 ARTICULO 4/o. El Ejército y Fuerza Aérea Mexicanos están integrados por:
 
-I. Los mexicanos que prestan sus servicios en las instituciones Armadas de tierra y aire, sujetos a las Leyes y Reglamentos Militares;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+I. Los mexicanos por nacimiento que no adquieran otra nacionalidad y que prestan sus servicios en las Instituciones Armadas de tierra y aire, sujetos a las Leyes y Reglamentos Militares;
 
 II. Los recursos que la Nación pone a su disposición; y
 
@@ -886,9 +888,11 @@ Los directores de las Bandas de Música Militar o de Grupos equivalentes, determ
 
 Los cuerpos de Defensas Rurales estarán permanentemente organizados en unidades armadas, equipadas y adiestradas.
 
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 117.
 
-Los Cuerpos de Defensas Rurales se formarán con personal voluntario de ejidatarios mandados por militares profesionales, de acuerdo con sus planillas orgánicas particulares y tienen como misión cooperar con las tropas en las actividades que éstas lleven a cabo, cuando sean requeridos para ello por el mando militar.
+Los Cuerpos de Defensa Rurales se formarán con personal voluntario de ejidatarios mexicanos por nacimiento que no adquieran otra nacionalidad, mandados por militares profesionales, de acuerdo con sus planillas orgánicas particulares y tienen como misión cooperar con las tropas en las actividades que éstas lleven a cabo, cuando sean requeridos para ello por el mando militar.
 
 > <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1987)</small>
 
@@ -932,7 +936,7 @@ IV. Escuelas, Centros o Cursos Superiores.
 
 El Plan General de Educación Militar, determinará los Cursos que deban impartirse en los diversos establecimientos de Educación Militar, así como en las Unidades y Dependencias del Ejército y Fuerza Aérea.
 
-La apliación(sic) de estos Cursos, será supervisada por la Dirección General de Educación Militar.
+La apliación (sic) de estos Cursos, será supervisada por la Dirección General de Educación Militar.
 
 ###### ARTICULO 124.
 
@@ -1192,6 +1196,10 @@ El personal de Generales, Jefes, Oficiales y Sargentos Profesionales, que result
 
 Del Reclutamiento
 
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
+ARTICULO 148 BIS.- El personal que sea sujeto de reclutamiento para el servicio activo del Ejército y Fuerza Aérea, deberá ser mexicano por nacimiento que no adquiera otra nacionalidad.
+
 ###### ARTICULO 149.
 
 El Reclutamiento del personal de tropa del Ejército y Fuerza Aérea, se llevará a cabo:
@@ -1260,9 +1268,11 @@ De conformidad con las posibilidades de la Secretaría de la Defensa Nacional, l
 
 El personal del Ejército y Fuerza Aérea que apruebe el curso de Mando y Estado Mayor en la Escuela Superior de Guerra, recibirá la denominación de Diplomado de Estado Mayor o Diplomado de Estado Mayor Aéreo, según sean los estudios efectuados, precedida de la correspondiente a la de su Arma, Servicio o Especialidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 161.
 
-El personal que ingrese como alumno en los establecimientos de Educación Militar, deberá ser mexicano por nacimiento, excepto el extranjero que sea becario, el cual será admitido con el único fin de realizar estudios que correspondan y al término de los mismos causará baja del plantel y en ningún caso podrá pertenecer al Ejército y Fuerza Aérea.
+El personal que ingrese como alumno en los establecimientos de Educación Militar, deberá ser mexicano por nacimiento que no adquiera otra nacionalidad, estar en pleno goce y ejercicio de sus derechos civiles y políticos, excepto el extranjero que sea becario, el cual será admitido con el único fin de realizar estudios que correspondan y al término de los mismos causará baja del plantel al Ejército y Fuerza Aérea.
 
 Los alumnos de las Escuelas Militares quedarán sujetos al Fuero de Guerra; los de las Escuelas de Formación de Oficiales que no posean grado militar, recibirán el nombre de "Cadetes", pero los grados que dentro de las mismas Escuelas se les confieran, tendrán validez para efectos disciplinarios dentro y fuera del Plantel. Los alumnos Nacionales o Extranjeros que en su calidad de Becarios concurran a realizar estudios en Planteles Militares no estarán sujetos al Fuero de Guerra, pero si deberán sujetarse a los Reglamentos y disposiciones particulares del Plantel al que concurran.
 
@@ -1336,6 +1346,10 @@ E. Los Militares Auxiliares causarán baja, además cuando no se consideren nece
 
 Si la baja se le da al Auxiliar sin que la hubiera motivado su mala conducta ya habiendo prestado más de cinco años de servicios, tendrá derecho a una compensación que deberá otorgar el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, cuyo monto será el equivalente al fijado para el retiro con el grado que tenía al ser dado de baja.
 
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
+F.- Por adquirir otra nacionalidad.
+
 Salvo los casos de la Fracción I apartado A y Fracción II apartado E, la baja del Ejército y Fuerza Aérea, implica la pérdida del derecho a reclamar prestaciones o beneficios con base en el tiempo de servicios que se tuvo y en todos los casos el de usar uniformes, condecoraciones y divisas militares.
 
 De las Licencias
@@ -1352,7 +1366,9 @@ La licencia ordinaria es la que se concede con goce de haberes a los militares p
 
 La licencia ilimitada es la que se concede al militar profesional de Arma o Servicio, sin goce de haberes y de otros emolumentos, para separarse del servicio activo.
 
-El Secretario de la Defensa Nacional, podrá conceder o negar esta licencia, según lo permitan, a su juicio, las necesidades del servicio, pero en ningún caso se concederá cuando exista un estado de emergencia nacional y cuando el personal no haya cumplido el tiempo obligatorio de servicio establecido en esta Ley o en su contrato-filiación. El personal que la goce tendrá derecho a reingresar al servicio previa solicitud, siempre que el Presidente de la República considere procedente su petición y no se encuentre comprendido en alguna causal de retiro señalada por la Ley de la materia, éste se halle físicamente útil para el servicio, exista vacante y no hayan transcurrido más de seis años desde la fecha de su separación del activo.
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
+El Secretario de la Defensa Nacional, podrá conceder o negar esta licencia, según lo permitan, a su juicio, las necesidades del servicio, pero en ningún caso se concederá cuando exista un estado de emergencia nacional y cuando el personal no haya cumplido el tiempo obligatorio de servicio establecido en esta Ley o en su contrato-filiación. El personal que la goce tendrá derecho a reingresar al servicio previa solicitud, siempre que el Presidente de la República considere procedente su petición y no se encuentre comprendido en alguna causal de retiro señalada por la Ley de la materia, éste se halle físicamente útil para el servicio, exista vacante y no hayan transcurrido más de seis años desde la fecha de su separación del activo y no adquiera otra nacionalidad.
 
 ###### ARTICULO 174.
 
@@ -1410,7 +1426,7 @@ I. Los Generales, Jefes, Oficiales y Sargentos Profesionales que obtengan digna 
 
 II. Los Cabos y Soldados del Servicio Militar Voluntario que cumplan su tiempo de enganche en el activo, quienes permanecerán en esta reserva, hasta los 36 años de edad;
 
-III. Las Clases y Oficiales procedentes del Servicio Militar Nacional, quienes permanecerán en esta reserva hasta los 33 y 36 años de edad, respectivamente.
+III. Las Clases y Oficiales procedentes del Servicio Militar Nacional, quienes permanecerán en esta reserva hasta los 33 y 36 años de edad, respectivamente;
 
 IV. Los Soldados de conscripción que hayan cumplido con el Servicio Militar Obligatorio, quienes permanecerán en esta reserva hasta los 30 años de edad;
 
@@ -1488,7 +1504,7 @@ Los escalafones del Ejército y Fuerza Aérea comprenderán al personal de Gener
 
 ###### ARTICULO 191.
 
-Los escalafones y los grados que comprenden las Armas y Cuerpos Especiales del Ejército son lo(sic) siguientes:
+Los escalafones y los grados que comprenden las Armas y Cuerpos Especiales del Ejército son lo (sic) siguientes:
 
 I. De Plana Mayor, que incluye Generales de División, de Brigada y Brigadieres.
 
@@ -1752,7 +1768,7 @@ Los escalafones particulares se formularán en cada grado por antigüedad en ord
 
 ###### ARTICULO 197.
 
-El personal del activo únicamente podrá ocupar un lugar en un solo esfalafón(sic) del Ejército y Fuerza Aérea. Por tal motivo a los militares de las clases de arma y de servicio que sean reclasificados pasarán con todos sus derechos y no se les podrán conferir grados en la clase de auxiliares.
+El personal del activo únicamente podrá ocupar un lugar en un solo esfalafón (sic) del Ejército y Fuerza Aérea. Por tal motivo a los militares de las clases de arma y de servicio que sean reclasificados pasarán con todos sus derechos y no se les podrán conferir grados en la clase de auxiliares.
 
 ###### ARTICULO 198.
 
@@ -1826,6 +1842,8 @@ La Secretaría de la Defensa Nacional hará con oportunidad las previsiones de g
 
 Los recursos animales son los necesarios para el Ejército y Fuerza Aérea en el cumplimiento de sus funciones, tareas y servicios específicos.
 
+> <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1987)</small>
+
 ## TITULO SEPTIMO. DE LOS EDIFICIOS E INSTALACIONES
 
 ### CAPITULO UNICO
@@ -1833,8 +1851,6 @@ Los recursos animales son los necesarios para el Ejército y Fuerza Aérea en el
 ###### ARTICULO 209.
 
 Los edificios e instalaciones del Ejército y Fuerza Aérea son de carácter permanente o transitorio y comprenden bienes muebles, construcciones, terrenos, Campos Militares, Bases Aéreas y Aeródromos, destinados al alojamiento y operación de las Unidades y el establecimiento de Dependencias, Cuarteles, Oficinas, Almacenes, Parques, Talleres, Prisiones y Juzgados Militares, Hospitales, Escuelas, Criaderos de Ganado, Polígonos de Tiro, así como los destinados al adiestramiento, experimentación, pruebas y Unidades Habitacionales y demás necesarios para sus fines.
-
-> <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1987)</small>
 
 ## TRANSITORIOS
 
@@ -1861,3 +1877,9 @@ Esta Ley entrará en vigor a los tres días de su publicación en el Diario Ofic
 México, D.F., a 8 de diciembre de 1986, Sen. Gonzalo Martínez Corbalá, Presidente.- Dip. Reyes Rodolfo Flores Z., Presidente.- Sen. Héctor Vázquez Paredes, Secretario.- Dip. Eliseo Rodríguez Ramírez, Secretario.- Rúbricas.
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de diciembre de mil novecientos ochenta y seis.- El Presidente de la República, Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 23 DE ENERO DE 1998.
+
+ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
