@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pensiones-para-los-empleados-del-gobierno-del-estado-698
 country: "mx"
 rank: "ley"
 publication_date: "1958-06-07"
-last_updated: "1975-12-27"
+last_updated: "1979-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PENSIONES PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1979.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el sábado 7 de junio de 1958.
 
@@ -67,9 +67,13 @@ Pensión es una prestación periódica en efectivo que se adquiere en los térmi
 
 El patrimonio de la Oficina de Pensiones, que se denominará Fondo de Pensiones y con el que se cubrirán las prestaciones y demás beneficios derivados de esta Ley, se constituirá con:
 
-I.- Las aportaciones del Gobierno del Estado iguales al tres por ciento del monto de la dotación de las partidas presupuestales específicas para las remuneraciones de los trabajadores.
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 1979)</small>
 
-II.- Los descuentos forzosos a los trabajadores equivalentes al tres por ciento de sus remuneraciones.
+I.- Las aportaciones del Gobierno del Estado iguales al cinco por ciento del monto de la dotación de las Partidas Presupuestales específicas para las remuneraciones de los trabajadores, de la fecha de publicación del presente decreto al 31 de Diciembre de 1979, y del siete por ciento a partir del 1o. de Enero de 1980.
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 1979)</small>
+
+II.- Los descuentos forzosos a los trabajadores equivalentes al cuatro por ciento de sus remuneraciones, a partir de la fecha de la pubicación(sic) del presente decreto hasta el 31 de Diciembre de 1979, y del cinco por ciento a partir del 1o. de Enero de 1980.
 
 III.- Las aportaciones extraordinarias que para estos casos fije en sus Presupuestos el Gobierno del Estado.
 
@@ -954,3 +958,7 @@ P.O. 20 DE ENERO DE 1973.
 P.O. 27 DE DICIEMBRE DE 1975.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+
+P.O. 13 DE OCTUBRE DE 1979.
+
+UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
