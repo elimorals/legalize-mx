@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1983-12-19"
+last_updated: "1984-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE FEBRERO DE 1984.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -245,9 +245,11 @@ El Estado de México, como entidad jurídica, constituye una persona moral capaz
 
 Por virtud de lo dispuesto en el artículo anterior, corresponderán al Estado como persona moral todos los derechos que el artículo 27 de la Constitución Federal reconoce a la Nación y que por la misma Constitución o por las leyes que de ellas se deriven, no deban considerarse como reservados a la Federación o concedidos expresamente a los Municipios.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1984)</small>
+
 ###### Art. 15.
 
-El Municipio, que es la base de la organización política del Estado, tiene personalidad jurídica y es capaz, por lo tanto, de derechos y obligaciones de acuerdo con la fracción III del artículo 115 de la Constitución Federal.
+El Municipio, que es la base de la organización política del Estado, tiene personalidad jurídica y es capaz, por lo tanto de derechos y obligaciones de acuerdo con el Artículo 115 de la Constitución Federal.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -637,11 +639,17 @@ III. Arreglar y fijar los límites de los Municipios de que deberá componerse e
 
 IV. Crear y suprimir Municipios según el censo y la recaudación de las rentas de que pueda disponer la localidad respectiva;
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1984)</small>
 
-V. Dictar todas las leyes necesarias para el mejor funcionamiento de los Municipios con arreglo a las disposiciones relativas de la presente Constitución y designar a proposición del Ejecutivo, los Ayuntamientos substitutos y provisionales y los Miembros de los Cuerpos Edilicios en aquellos casos que determinen las Leyes Orgánicas respectivas.
+V. Dictar todas las leyes necesarias para el funcionamiento de los Municipios, y establecer las bases normativas para la expedición de los Bandos de Policía y Buen Gobierno, Reglamentos, Circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones.
 
-VI. Decretar los ingresos que deben constituir la Hacienda Municipal;
+Decretar por acuerdo de las dos terceras partes de sus integrantes, la suspensión de Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato de alguno de sus miembros por cualquiera de las causas graves que la Ley prevenga siempre y cuando hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
+
+Designar a propuesta del Ejecutivo de entre los vecinos, a los Ayuntamientos provisionales, Consejos Municipales y a los Miembros de los Cuerpos Edilicios que deban concluir los períodos respectivos, en aquellos casos que determine la Ley Orgánica relativa.
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1984)</small>
+
+VI.- Decretar los ingresos que deben constituir la Hacienda Municipal y establecer anualmente las bases, montos y plazos, con arreglo a los cuales las Participaciones Federales serán cubiertas por la Federación a los Municipios a través del Ejecutivo del Estado.
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 1983)</small>
 
@@ -703,7 +711,9 @@ XIV.- Resolver sobre las renuncias de sus propios miembros, del Gobernador y de 
 
 XV. – Conceder licencia a sus propios miembros, al Gobernador y a los Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal, cuando las de los funcionarios judiciales excedieren de tres meses y les sean sometidas por el Ejecutivo.
 
-XVI.- (DEROGADA, P.O. 17 DE OCTUBRE DE 1945)
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 1984)</small>
+
+XVI.- Expedir conforme a los principios básicos del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias, la Ley que rija las relaciones de trabajo de los servidores públicos del Estado y Municipios.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
@@ -717,15 +727,17 @@ XX. Discutir y aprobar los Presupuestos de Ingresos Municipales que formen los r
 
 XXI. Examinar, revisar y calificar cada año, las cuentas de inversión de las rentas generales del Estado, y exigir, en su caso, las responsabilidades consiguientes;
 
-XXII. Revisar y calificar cada año, las cuentas de inversión de las rentas municipales del Estado, y exigir, en su caso, las responsabilidades consiguientes;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1984)</small>
+
+XXII.- Revisar y calificar cada año las cuentas de inversión de las rentas municipales del Estado y exigir en su caso, las responsabilidades correspondientes. En cualquier momento fiscalizar las cuentas de inversión.
 
 XXIII.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
 
 XXIV. Dictar las disposiciones necesarias para liquidar y amortizar las deudas que tuviere el Estado;
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1984)</small>
 
-XXV.- Dar bases generales conforme a las cuales el Ejecutivo pueda concertar empréstitos interiores, y aprobar esos empréstitos, dentro de las limitaciones previstas al efecto por el párrafo segundo de la fracción VII del Artículo 117 de la Constitución Federal.
+XXV.- Aprobar los montos y conceptos de endeudamiento anual a que se refieren las Leyes de Ingresos y Presupuestos de Egresos del Estado y Municipios de conformidad a las bases establecidas en la Ley de la materia y dentro de las limitaciones previstas en el párrafo Segundo de la fracción VIII del Artículo 117 de la Constitución Federal.
 
 XXVI. Llamar a los Diputados suplentes respectivos, en caso de muerte, exoneración o inhabilidad previamente calificada de los Diputados propietarios;
 
@@ -1019,7 +1031,9 @@ XIV.- Planear y conducir el desarrollo integral del Estado en la esfera de su co
 
 XV.- Declarar la causa de utilidad pública en los casos de expropiación que determinen las leyes.
 
-XVI.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 1984)</small>
+
+XVI.- Convenir con la Federación la asunción del ejercicio de funciones, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -1061,9 +1075,13 @@ XXVIII. Aceptar la renuncia de los Magistrados del Tribunal Superior de Justicia
 
 XXIX.- Someter a la aprobación de la Legislatura, la Ley Orgánica de la Administración Pública del Estado de México.
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 1981)</small>
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1984)</small>
 
-XXX.- Proponer a la Legislatura del Estado y en sus recesos a la Diputación Permanente, la designación de Ayuntamientos Substitutos provisionales y de los miembros de los Cuerpos Edilicios, en los casos previstos por esta Constitución y en las Leyes Orgánicas respectivas.
+XXX.- Proponer a la Legislatura del Estado la designación de Ayuntamientos provisionales, Consejos Municipales y miembros de los Cuerpos Edilicios en los casos previstos por esta Constitución y en las Leyes Orgánicas respectivas.
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 1984)</small>
+
+XXXI.- Ser el conducto para cubrir a los Municipios las participaciones federales que les correspondan conforme a las bases, montos y plazos que fije la Legislatura.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -1429,11 +1447,11 @@ Para el mejor despacho de los asuntos de la competencia del Tribunal Superior de
 
 ### CAPITULO PRIMERO. DE LAS AUTORIDADES ENCARGADAS DE LA ADMINISTRACION PUBLICA DE LOS MUNICIPIOS
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1981)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1984)</small>
 
 ###### Art. 133.
 
-La administración pública interior de los Municipios se ejercerá por los Ayuntamientos y los Presidentes Municipales.
+La administración pública interior de los Municipios, se ejercerá por los Ayuntamientos y los Presidentes Municipales o por quienes legalmente los substituyan.
 
 ###### Art. 134.
 
@@ -1453,25 +1471,13 @@ El Tribunal Superior de Justicia nombrará a los Jueces de Primera Instancia, lo
 
 Los Ayuntamientos serán Asamblea deliberante, y como Cuerpos Colegiados, tendrán autoridad y competencias propias en los asuntos que se sometan a su decisión, pero la ejecución de ésta corresponderá exclusivamente a los Presidentes Municipales; serán integrados por elección popular directa, debiendo durar en funciones tres años y no pudiendo ser electos para el período inmediato siguiente, ninguno de sus miembros propietarios o suplentes que hayan funcionado.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 1978)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1984)</small>
 
 ###### Art. 136.
 
-Los Ayuntamientos se integrarán con un Jefe de Asamblea que se denominará Presidente Municipal y con varios miembros más, llamados Síndicos y Regidores, cuyo número total se determinará en razón directa de la población del Municipio que representen, en la forma en que lo disponga la Ley Orgánica respectiva.
+Los Ayuntamientos se integrarán con un Jefe de Asamblea que se denominará Presidente Municipal y con varios Miembros más, llamados Síndicos y Regidores, cuyo número total se determinará en razón directa de la población del Municipio que representen, en la forma en que lo dispongan la Ley Orgánica respectiva.
 
-En los Municipios cuya población sea de 300 mil o más habitantes, los Ayuntamientos tendrán adicionalmente hasta 2 Regidores electos, según el principio de representación proporcional.
-
-De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuido un Regidor, al Partido Político que alcance el mayor porcentaje de votación minoritaria, siempre y cuando satisfaga los siguientes requisitos:
-
-a).- Que hubieren registrado fórmula de candidato en las elecciones municipales respectivas.
-
-b).- No haya alcanzado el triunfo por mayoría relativa en la misma elección.
-
-c).- Alcance por lo menos el 1.5% del total de la votación emitida en el Municipio correspondiente.
-
-Un Segundo Regidor, podrá ser atribuido, al Partido que habiendo obtenido el segundo porcentaje en la votación minoritaria, tenga por lo menos más de la mitad de los sufragios que el Partido triunfador minoritario haya alcanzado, de no darse éste mínimo de proporción se le atribuirá éste segundo Regidor al Partido triunfador minoritario.
-
-La Ley Reglamentaria determinará los procedimientos que se observarán en dicha asignación.
+Los Ayuntamientos de todos los Municipios tendrán Regidores electos, según el principio de representación proporcional. La Ley respectiva determinará los requisitos y reglas de asignación.
 
 > <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1927)</small>
 
@@ -1527,7 +1533,9 @@ Los Ayuntamientos desempeñarán dos series de funciones: las de legislación pa
 
 Los Ayuntamientos dictarán todas las normas jurídicas que requieran el régimen, el Gobierno y Administración del Municipio, con las limitaciones que se contengan en la Ley Orgánica Municipal y otros Ordenamientos.
 
-Así mismo enviarán al Ejecutivo del Estado antes del 10 de octubre, la iniciativa de la Ley de Ingresos del Municipio que regirá en el año fiscal inmediato, y presentarán el presupuesto de egresos correspondiente.
+> <small>(REFORMADO P.O. 28 DE FEBRERO DE 1984)</small>
+
+Así mismo enviarán al Ejecutivo del Estado antes del diez de octubre la Iniciativa de Ley de Ingresos del Municipio, que regirá el año fiscal inmediato y aprobarán su Presupuesto de Egresos correspondiente.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 1973)</small>
 
@@ -1701,11 +1709,11 @@ Todos los funcionarios y empleados del Estado y de los Municipios al entrar a de
 
 Los cargos de educación primaria son inamovibles, salvo los casos que la respectiva Ley Orgánica determine. El Estado protegerá la educación de los hijos menores de los maestros que hayan servido satisfactoriamente en la enseñanza primaria del mismo.
 
-(REFORMADO, P.O. 13 DE MARZO DE 1982) (F. DE E., P.O. 25 DE MARZO DE 1982)
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1984)</small>
 
 ###### Art. 173.
 
-El Gobernador, los Diputados, los Magistrados del Tribunal Superior de Justicia y demás Funcionarios y Empleados del Estado, así como los Miembros de los Ayuntamientos y empleados municipales, recibirán una compensación por sus servicios determinada por la Ley. Esta compensación no es renunciable y la Ley que la aumente o disminuya no podrá tener efecto respecto de los Funcionarios de elección popular durante el período en que éstos ejerzan su encargo.
+El Gobernador, los Diputados, los Magistrados del Tribunal Superior de Justicia y los demás trabajadores al servicio de los Poderes del Estado, así como miembros de los Ayuntamientos y empleados municipales, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada equitativamente en el Presupuesto de Egresos que corresponda.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -2122,6 +2130,10 @@ La Hacienda pública de los Municipios se compondrá:
 I.- De los bienes que corresponda a los Municipios como persona morales (sic) de Derecho Civil.
 
 II. De las contribuciones que para cada Municipio decrete la Legislatura.
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 1984)</small>
+
+III. De otros ingresos que perciban conforme a la Ley.
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -2542,3 +2554,9 @@ G.G. 19 DE DICIEMBRE DE 1983.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta del Gobierno del Estado.
+
+G.G. 28 DE FEBRERO DE 1984.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaseta (sic) del Gobierno" del Estado.
