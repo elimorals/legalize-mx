@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2004-07-09"
+last_updated: "2004-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2004.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -781,9 +781,9 @@ XIII.- Legislar en materia de división territorial del Estado a fin de crear, s
 
 XIV.- Establecer las bases respecto de la Administración, conservación o inversión de los bienes del Estado y la enajenación de aquellos que no sean susceptibles de aplicarse a un servicio público u otro uso.
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2004)</small>
 
-XV.- Aprobar las leyes de ingresos de los Municipios, así como, revisar y fiscalizar sus cuentas públicas.
+XV.- Aprobar las leyes de ingresos de los Municipios, así como, revisar y fiscalizar sus cuentas públicas;
 
 XVI.- Dictar las Leyes necesarias en el ramo de educación pública que no sean de la competencia de la Federación.
 
@@ -833,13 +833,13 @@ XXVI.- Suspender Ayuntamientos o declarar que éstos han desaparecido, y suspend
 
 El acuerdo deberá ser tomado por las dos terceras partes de los integrantes del Congreso, oyendo al Ejecutivo del Estado, siempre y cuando los miembros del Ayuntamiento respectivo hayan tenido oportunidad suficiente para rendir las pruebas, así como hacer los alegatos que a su juicio convengan.
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2004)</small>
 
-XXVII.- En caso de declararse desaparecido un Ayuntamiento por las causas que la Ley prevenga o por renuncia o falta absoluta de la totalidad o mayoría de sus miembros, si conforme a ésta no procediera que entren en funciones los suplentes, el Congreso del Estado designará, de entre los vecinos, al Consejo Municipal, que concluirá el período respectivo.
+XXVII.- En caso de declararse desaparecido un Ayuntamiento por las causas que la ley prevenga o por renuncia o falta absoluta de la totalidad o mayoría de sus miembros, si conforme a ésta no procediera que entren en funciones los suplentes, el Congreso del Estado designará de entre los vecinos, al Consejo Municipal que concluirá el período respectivo.
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2004)</small>
 
-XXVIII.- En el supuesto caso de tenerse que realizar nuevas elecciones, se nombrará un Consejo Municipal provisional que fungirá hasta en tanto toma protesta el nuevo Ayuntamiento. Si no se verificaran las nuevas elecciones por causas no imputables al Congreso, éste podrá ratificar el nombramiento del Consejo Municipal que se hubiese designado provisionalmente, para que con carácter definitivo cubra el período legal que correspondería al Ayuntamiento que debió ser electo.
+XXVIII.- En el supuesto caso de tenerse que realizar nuevas elecciones, se nombrará un Consejo Municipal provisional que fungirá hasta en tanto toma protesta el nuevo Ayuntamiento. Si no se verifican las nuevas elecciones por causas no imputables al Congreso, éste podrá ratificar el nombramiento del Consejo Municipal que se hubiese designado provisionalmente para que con carácter definitivo cubra el periodo legal que correspondería al Ayuntamiento que debió ser electo;
 
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1999)</small>
 
@@ -869,9 +869,9 @@ XXXVI.- Informar al Congreso de la Unión en los casos a que se refiere el artí
 
 XXXVII.- Recibir las denuncias en contra de sus miembros, del Gobernador del Estado, Magistrados, miembros del Consejo de la Judicatura, miembros de los Ayuntamientos y funcionarios que establece la Ley Orgánica de la Administración Pública del Estado, procediendo en los términos de los artículos del 110 al 114 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2004)</small>
 
-XXXVIII.- Autorizar al Ejecutivo Estatal para enajenar, donar o permutar inmuebles que formen parte del patrimonio del Estado.
+XXXVIII.- Autorizar al Ejecutivo Estatal para enajenar, donar o permutar inmuebles que formen parte del patrimonio del Estado;
 
 XXXIX.- Determinar, según las necesidades locales el número máximo de ministros de los cultos religiosos.
 
@@ -1159,7 +1159,7 @@ Llegado el caso de la desaparición de los poderes del Estado se observará el p
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
+### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1199,9 +1199,9 @@ XIV.- A falta definitiva de algún miembro de los Ayuntamientos por causa grave 
 
 XV.- Solicitar a la Comisión Permanente que convoque al Congreso a sesiones extraordinarias, debiendo exponer en la solicitud los motivos y los asuntos a tratar.
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2004)</small>
 
-XVI.- Transmitir órdenes a la policía preventiva de los Municipios, en aquellos casos de fuerza mayor o alteración grave del orden público.
+XVI.- Transmitir órdenes a la policía preventiva de los Municipios, en aquellos casos de fuerza mayor o alteración grave del orden público;
 
 XVII.- Opinar respecto de la elaboración o modificación de los planos reguladores y catastrales así como las tablas y cuadros de valores para la propiedad inmueble o la construcción.
 
@@ -1267,9 +1267,9 @@ XXXVIII.- Las demás que se deriven de las Constituciones Federal y Local, así 
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
+### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 75.
 
@@ -1299,7 +1299,7 @@ El Presidente presentará anualmente al Congreso un informe sobre las actividade
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
+### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1443,7 +1443,7 @@ Los nombramientos de los Magistrados y Jueces integrantes del Poder Judicial del
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
+### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1461,9 +1461,9 @@ III.- Nombrar y remover a los Secretarios y demás funcionarios del Tribunal.
 
 IV.- Conocer y resolver sobre las licencias y renuncias, en los términos de la Ley Orgánica del Poder Judicial, de los funcionarios a que se refieren las fracciones I, II y III.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2004)</small>
 
-V.- Resolver los conflictos que se presenten entre los Municipios y el Gobierno del Estado, o entre aquellos, con motivo de los actos derivados de los incisos c) y d) de la fracción II del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+V.- Resolver los conflictos que se presenten entre los municipios y el Gobierno del Estado, o entre aquellos, con motivo de los actos derivados de los incisos c y d de la fracción II del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
 (Sic) Suspender de sus cargos a los Jueces en los casos a que se refiere el artículo 113 último párrafo de esta Constitución.
 
@@ -1507,29 +1507,29 @@ El Municipio tiene personalidad jurídica y manejará su patrimonio conforme a l
 
 Los Municipios tendrán las facultades siguientes:
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2004)</small>
 
 I.- Las contenidas en la fracción VI del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y todas las demás que de esas disposiciones se deriven;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2004)</small>
 
-II.- Expedir, de acuerdo con las leyes que establezca el Congreso del Estado, los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal;
+II.- Expedir, de acuerdo con las leyes que establezca el Congreso del Estado, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2004)</small>
 
 III.- Ejercer y prestar las funciones y servicios públicos establecidos en la fracción III del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2004)</small>
 
 IV.- Celebrar convenios con el Estado, para que éste se haga cargo de alguna de las funciones relacionadas con la administración de las contribuciones a que se refiere la fracción II del artículo 100 de esta Constitución.
 
-En el caso de que no exista convenio para que el gobierno estatal asuma una función o servicio municipal, los Ayuntamientos, por acuerdo de las dos terceras partes de los integrantes, solicitarán al H. Congreso del Estado que resuelva si el Municipio está o no imposibilitado, para ejercer o prestar, respectivamenrte, la función o servicio de que se trate;
+En el caso de que no exista convenio para que el gobierno estatal asuma una función o servicio municipal, los Ayuntamientos por acuerdo de las dos terceras partes de sus integrantes, solicitarán al Congreso del Estado que resuelva si el Municipio está o no imposibilitado, para ejercer o prestar, respectivamente, la función o servicio de que se trate;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2004)</small>
 
-V.- En los términos de las Leyes Federales y Estatales, estarán facultadas para:
+V.- En los términos de las leyes federales y estatales, estarán facultados para:
 
-a).- Formular, aprobar y administrar la zonificación y planes de Desarrollo Urbano Municipales;
+a).- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipales;
 
 b).- Participar en la creación y administración de sus reservas territoriales;
 
@@ -1539,13 +1539,13 @@ d).- Intervenir en la regularización de la tenencia de la tierra urbana;
 
 e).- Otorgar licencias y permisos para construcción;
 
-f).- Participar en la creación y administración de las zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
+f).- Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia,
 
 g).- Celebrar convenios para la administración y custodia de las zonas federales;
 
 h).- Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando el Estado programe con la Federación proyectos de desarrollo regional, se deberá dar participación a los Municipios, e
 
-i).- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando aquellos afecten su ámbito territorial.
+i).- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando aquéllos afecten su ámbito territorial.
 
 > <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
 
@@ -1555,25 +1555,25 @@ VII.- Planear y regular de manera conjunta y coordinada con la Federación, el E
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
+### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-###### ARTICULO 94.
+###### Artículo 94.
 
-Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, que constituye el órgano de decisión, el cual estará encabezado por el Presidente Municipal, que es el órgano de ejecución y comunicación de las decisiones de aquél.
+Cada municipio será gobernado por un Ayuntamiento de elección popular directa, que constituye el órgano de decisión el cual estará encabezado por el Presidente Municipal, que es el órgano de ejecución y comunicación de las decisiones de aquél;
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2004)</small>
 
-Las facultades y atribuciones que otorgan la Constitución Política de los Estados Unidos Mexicanos y esta Constitución al Ayuntamiento, se ejercerán por éste de manera exclusiva. No habrá ninguna autoridad intermedia entre el Gobierno del Estado y los Municipios.
+Las facultades y atribuciones que otorgan la Constitución Política de los Estados Unidos Mexicanos y esta Constitución al Ayuntamiento, se ejercerán por éste de manera exclusiva. No habrá ninguna autoridad intermedia entre el Gobierno del Estado y los municipios.
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1988)</small>
 
 Con sujeción a la Ley y siempre que se reúnan los requisitos que la misma establezca, en las localidades más importantes de cada municipio, habrá comisarías municipales de elección popular directa, las cuales tendrán las facultades que las leyes del Estado y los bandos y ordenanzas municipales les confieran. Además, los municipios contarán con Consejos de Participación Ciudadana que coadyuvarán a la mejor atención de las materias de interés vecinal.
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2002)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE JULIO DE 2004)</small>
 
-La policía preventiva municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente. Aquella acatará las órdenes que el Ejecutivo del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
+La Policía Preventiva Municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente. Aquella acatará las órdenes que el Ejecutivo del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1675,7 +1675,7 @@ No pueden ser electos como integrantes de los Ayuntamientos, los miembros en ser
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO UNICO
+### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1685,21 +1685,21 @@ Los Ayuntamientos administrarán su hacienda conforme a la Ley, la cual se forma
 
 I.- Los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que el Congreso les establezca a su favor.
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2004)</small>
 
-II.- Las contribuciones, incluyendo las tasas adicionales, que establezca el Congreso del Estado sobre la propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación o mejora, así como las que tengan como base el cambio de valor de los bienes inmuebles.
+II.- Las contribuciones, incluyendo las tasas adicionales, que establezca el Congreso del Estado sobre la propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación o mejora, así como las que tengan como base el cambio de valor de los bienes inmuebles;
 
 III.- Las participaciones federales que le cubrirá la Federación con arreglo a las bases, montos y plazos que anualmente se determinen por la Legislatura Local.
 
 IV.- Los ingresos derivados de la prestación de los servicios públicos a su cargo.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2004)</small>
 
-Las facultades del Estado y, en su caso, del Municipio, para determinar las contribuciones a que se refieren las fracciones II y IV de este artículo no podrán ser limitadas por las Leyes Federales ni se concederán exenciones o subsidios respecto de estas contribuciones en favor de persona o institución alguna. Sólo los bienes del dominio público de la Federación, del Estado o de los Municipios estarán exentos de dichas contribuciones, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+Las facultades del Estado y, en su caso, del Municipio, para determinar las contribuciones a que se refieren las fracciones II y IV de este artículo no podrán ser limitadas por las Leyes Federales ni se concederán exenciones o subsidios respecto de estas contribuciones, en favor de persona o institución alguna. Sólo los bienes del dominio público de la Federación, del Estado o de los Municipios estarán exentos de dichas contribuciones, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2002)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE JULIO DE 2004)</small>
 
-Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o bien, por quienes los mismos autoricen, conforme a la ley.
+Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos, o bien, por quienes los mismos autoricen, conforme a la ley.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1717,27 +1717,25 @@ Los Ayuntamientos aprobarán los presupuestos de egresos que regirán en el ejer
 
 Los Consejos Consultivos de Comisarios Municipales, así como los Consejos Consultivos de Presidentes o Comisariados Ejidales y de Bienes Comunales, deberán rendir opinión, previamente a su aprobación, de los presupuestos de egresos para cada ejercicio fiscal y los programas trianuales que conforme a las Leyes expidan los Ayuntamientos.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2004)</small>
 
-###### ARTICULO 103.
+###### Artículo 103.
 
 Los Ayuntamientos no podrán:
 
 I.- Fijar y cobrar contribuciones que no estén expresamente determinadas en las Leyes de Ingresos Municipales o decretadas por la Legislatura del Estado;
 
-II.- Enajenar, donar o permutar bienes inmuebles de su propiedad sin acuerdo previo de las dos terceras partes de la totalidad de sus integrantes;
+II.- Enajenar, donar o permutar bienes inmuebles de su propiedad, sin acuerdo previo de las dos terceras partes de la totalidad de sus integrantes;
 
-III.- Otorgar concesiones o celebrar contratos con particulares para la prestación de alguno de los servicios públicos, por un plazo que exceda a su período de administración, sin acuerdo previo de
+III.- Otorgar concesiones o celebrar contratos con particulares para la prestación de alguno de los servicios públicos, por un plazo que exceda a su periodo de administración, sin acuerdo previo de las dos terceras partes de la totalidad de sus integrantes;
 
-las dos terceras partes de la totalidad de su integrantes;
+IV.- Celebrar contratos para la ejecución de obra pública, cuyo costo exceda del presupuesto calculado durante el periodo de su gestión, sin acuerdo previo de las dos terceras partes de la totalidad de sus integrantes; y
 
-IV.- Celebrar contratos para la ejecución de obra pública, cuyo costo exceda del presupuesto calculado durante el período de su gestión, sin acuerdo previo de las dos terceras partes de la totalidad de sus integrantes; y
-
-V.- Suscribir acuerdos o convenios que comprometan al Municipio por un plazo mayor a su período de ejercicio sin acuerdo previo de las dos terceras partes de la totalidad de sus integrantes;
+V.- Suscribir acuerdos o convenios que comprometan al Municipio por un plazo mayor a su periodo de ejercicio, sin acuerdo previo de las dos terceras partes de la totalidad de sus integrantes.
 
 La Ley establecerá los supuestos y procedimientos a seguir, para el ejercicio de las facultades contenidas en las fracciones II a la V de este artículo, así como, la intervención que corresponda al Congreso del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 104.
 
@@ -2053,7 +2051,7 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO NOVENO. DEL PODER JUDICIAL
+## TITULO DECIMO. DEL MUNICIPIO LIBRE
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -2077,25 +2075,17 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO DECIMO. DEL MUNICIPIO LIBRE
+## TITULO NOVENO. DEL PODER JUDICIAL
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
-### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2002)</small>
-
-## TITULO DECIMO PRIMERO. DE LA HACIENDA PUBLICA DEL ESTADO, SU ADMINISTRACION Y FISCALIZACION SUPERIOR
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
-## TITULO DECIMO SEGUNDO. DE LA EDUCACION PUBLICA DEL ESTADO
-
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE OCTUBRE DE 2002)</small>
 
 ### CAPITULO UNICO
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1998)</small>
+
+## TITULO DECIMO PRIMERO. DE LA HACIENDA PUBLICA DEL ESTADO, SU ADMINISTRACION Y FISCALIZACION SUPERIOR
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
 
@@ -2104,6 +2094,14 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 ### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+## TITULO DECIMO SEGUNDO. DE LA EDUCACION PUBLICA DEL ESTADO
+
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
+
+### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ## TITULO DECIMO CUARTO. DE LA ADMINISTRACION PUBLICA
 
@@ -2914,5 +2912,13 @@ P.O. 9 DE JULIO DE 2004.
 PRIMERO: Túrnese el presente Decreto a los Ayuntamientos del Estado, para los efectos de lo dispuesto por el artículo 125 de la Constitución Política Local.
 
 SEGUNDO: Una vez que se tengan las Actas de los Ayuntamientos, por las que se aprueba o desecha el presente, llévese a cabo el cómputo correspondiente y emítase la declaratoria de validez correspondiente.
+
+TERCERO: El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE JULIO DE 2004.
+
+PRIMERO: Túrnese el presente Decreto a los Ayuntamientos del Estado, para los efectos de lo dispuesto por el artículo 125 de la Constitución Política Local.
+
+SEGUNDO: Una vez que se tengan Actas de los Ayuntamientos, por las que se aprueba o desecha el presente, llévese a cabo el cómputo correspondiente y emítase la declaratoria de validez correspondiente.
 
 TERCERO: El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
