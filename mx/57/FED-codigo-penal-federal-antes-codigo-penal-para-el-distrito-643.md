@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1964-12-19"
+last_updated: "1965-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE DICIEMBRE DE 1964.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1965.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -417,11 +417,13 @@ II.- Para el pago que exceda de cien pesos, se podrá conceder un plazo hasta de
 
 Los instrumentos del delito y cualquiera otra cosa con que se cometa o intente cometer, así como las que sean objetos de él, se decomisarán si son de uso prohibido. Los objetos de uso lícito a que se refiere este artículo, se decomisarán al acusado solamente cuando fuere condenado por delito intencional. Si pertenecen a tercera persona, sólo se decomisarán cuando hayan sido empleados para fines delictuosos, con conocimiento de su dueño.
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1965)</small>
 
 ###### ARTICULO 41.
 
-Todos aquellos objetos que se encuentren a disposición de las autoridades judiciales del orden penal, que no hayan sido y no puedan ser decomisados y que en un lapso mayor de tres años no sean recogidos por quien tenga derecho para hacerlo, en los casos en que proceda su devolución, se considerarán como bienes mostrencos y se procederá a su venta en los términos de las disposiciones relativas del Código Civil para el Distrito y Territorios Federales, teniéndose al Tribunal Superior de Justicia del Distrito y Territorios Federales como denunciante, para los efectos de la participación que concede el artículo 781 del propio Código Civil, participación que para dicha institución se aumenta a un 50% y que se destinará al mejoramiento de la administración de justicia.
+Todos aquellos objetos que se encuentren a disposición de las Autoridades Investigadoras y de las Autoridades Judiciales del orden penal, que no hayan sido y no puedan ser decomisadas y que en un lapso mayor de tres años no sean recogidas por quien tenga derecho para hacerlo, en los casos en que proceda su devolución se considerarán bienes mostrencos y se procederá a su venta, en los términos de las disposiciones relativas del Código Civil para el Distrito y Territorios Federales, teniéndose al Tribunal Superior de Justicia del Distrito y Territorios Federales, como denunciante para los efectos de la participación que concede el artículo 781 del propio Código Civil, participación que para dicha Institución se aumenta en un 50% y que se destinará al mejoramiento de la Administración de Justicia.
+
+Cuando se trate de objetos que estén a disposición de Autoridades Penales Federales, éstos se remitirán a la Secretaría del Patrimonio Nacional para que proceda a su venta conforme a los términos y procedimientos aplicables a la enajenación de bienes muebles de la Federación. Su producto, deducidos los gastos que origine la venta, se entregará a la Secretaría de Gobernación para el mejoramiento de las Instituciones Federales destinadas al tratamiento de menores infractores de las Leyes Penales.
 
 ### CAPITULO VII. Amonestación
 
@@ -3476,3 +3478,7 @@ UNICO.- Esta reforma entrará en vigor el día siguiente de su publicación en e
 D.O.F. 19 DE DICIEMBRE DE 1964.
 
 UNICO.- La presente reforma entrará en vigor cinco días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 13 DE ENERO DE 1965.
+
+UNICO.- Esta reforma entrará en vigor tres días después a la de su publicación en el "Diario Oficial" de la Federación.
