@@ -4,7 +4,7 @@ identifier: "JAL-ley-electoral-del-estado-de-jalisco-15428"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-29"
-last_updated: "1999-06-05"
+last_updated: "1999-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ELECTORAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1999.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 29 de abril de 1997.
 
@@ -779,7 +779,9 @@ Son prerrogativas de los partidos políticos:
 
 I. Gozar de exención de los impuestos y derechos que expresamente se señalen por las leyes respectivas;
 
-II. Utilizar los espacios físicos de uso común y de acceso público, previa autorización para la colocación de su propaganda política;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+II. Utilizar los espacios físicos de uso común y de acceso público, previa autorización para la colocación de su propaganda política. Se entiende por lugares de uso común y de acceso público, las propiedades del Gobierno Federal, Estatal y Municipal, susceptibles de ser utilizadas para la colocación de propaganda política. Estos espacios serán sorteados entre los partidos políticos registrados, conforme al procedimiento que acuerde el Consejo Estatal Electoral;
 
 III. Convenir con los poseedores de bienes inmuebles la fijación de propaganda en lugares de propiedad privada;
 
@@ -4700,3 +4702,7 @@ Lic. Raúl Octavio Espinoza Martínez
 P.O. 5 DE JUNIO DE 1999.
 
 Único. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE DICIEMBRE DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
