@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "1994-12-27"
+last_updated: "2000-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE MARZO DE 2000.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -147,7 +147,9 @@ I. Secretaría de Gobierno.
 
 II. Secretaría de Finanzas y Planeación.
 
-III. (DEROGADA, P.O. 11 DE OCTUBRE DE 1989)
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2000)</small>
+
+III. Secretaría de Salud;
 
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
 
@@ -347,13 +349,75 @@ XXXII. Vigilar que el desarrollo económico y social de la entidad sea armónico
 
 XXXIII. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2000)</small>
+
 ###### Artículo 25.
 
-(DEROGADO, P.O. 11 DE OCTUBRE DE 1989)
+La Secretaría de Salud es la dependencia encargada de conducir la política estatal en materia de salud en los términos de la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2000)</small>
 
 ###### Artículo 26.
 
-(DEROGADO, P.O. 11 DE OCTUBRE DE 1989)
+A la Secretaría de Salud corresponde el despacho de los siguientes asuntos:
+
+I. Ejercer las atribuciones que en materia de salud le correspondan al titular del Ejecutivo Estatal, de acuerdo a la Ley General de Salud, la Ley de Salud del Estado de México, sus reglamentos y demás disposiciones aplicables;
+
+II. Conducir la política estatal en materia de salud, en los términos de la Ley de Salud del Estado de México y demás disposiciones aplicables, de conformidad con el Sistema Nacional de Salud;
+
+III. Elaborar en coordinación con las autoridades competentes los programas de salud y presentarlos a la aprobación del Gobernador del Estado;
+
+IV. Coordinar la participación de todas las instituciones de los sectores público, social y privado en la ejecución de las políticas de salud de la entidad;
+
+V. Planear, organizar, dirigir, coordinar y evaluar el Sistema Estatal de Salud, con base en la legislación en la materia;
+
+VI. Coordinar la prestación de servicios de atención médica, salud pública y regulación sanitaria en el Estado; y convenir en lo conducente, con cualquier otro sector que promueva acciones en estas materias;
+
+VII. Planear, operar, controlar y evaluar el Sistema Estatal de Donación de Organos Humanos para transplane (sic);
+
+VIII. Planear, operar, controlar y evaluar el Sistema de Información de Salud del Estado de México, participando todas las dependencias y organismos auxiliares que proporcionen servicios de salud, así como el Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+
+IX. Impulsar la descentralización y desconcentración de los servicios de salud a los municipios, mediante los convenios que al efecto se suscriban, en términos de la Ley de Salud del Estado de México y demás disposiciones legales en la materia;
+
+X. Proponer al Ejecutivo Estatal, para su aprobación, acuerdos de coordinación con las instituciones del sector salud, tendientes a promover y apoyar los programas de medicina preventiva;
+
+XI. Proponer e implementar la infraestructura sanitaria necesaria que procure niveles de sanidad mínimos entre la población;
+
+XII. Dictar las medidas de seguridad sanitaria que sean necesarias para proteger la salud de la población;
+
+XIII. Proponer al Gobernador del Estado las normas sanitarias a las que deberá sujetarse la salubridad local y aplicar las relativas a salubridad general, en los términos de los acuerdos de coordinación que al efecto se celebren entre el Gobierno del Estado y la Secretaría de Salud del Gobierno Federal;
+
+XIV. Coordinar la realización de campañas para prevenir y atacar las epidemias y enfermedades que por su naturaleza requieran de atención y cuidados especiales;
+
+XV. Realizar, en coordinación con otras instancias públicas, sociales y privadas, campañas de concientización, educación, capacitación sanitaria y de salud, que contribuyan a mejorar las condiciones de vida de la población del Estado;
+
+XVI. Desarrollar acciones encaminadas a erradicar las enfermedades transmisibles, así como los factores que afecten la salud, o propicien el alcoholismo, las toxicomanías y otros vicios sociales;
+
+XVII. Establecer, coordinar y ejecutar, con la participación de otras instituciones asistenciales públicas y privadas, programas para la asistencia, prevención, atención y tratamiento a las personas discapacitadas;
+
+XVIII. Vigilar que se apliquen las normas oficiales mexicanas, en materia de salud, que emitan las autoridades federales;
+
+XIX. Coordinar, supervisar e inspeccionar los centros educativos, para proteger la salud del educando y de la comunidad escolar, los servicios de medicina legal de salud en apoyo a la procuración de justicia, así como la atención médica a la población interna en los centros preventivos y de readaptación social;
+
+XX. Participar con las dependencias competentes y con las autoridades federales y municipales en la prevención o tratamiento de problemas ambientales;
+
+XXI. Organizar congresos, talleres, conferencias y demás eventos que coadyuven a la capacitación y actualización de los conocimientos del personal médico en materia de salud;
+
+XXII. Verificar el cumplimiento de las normas establecidas para la prestación de servicios de salud, por parte de los sectores público, social y privado en el Estado, vigilando que se aplique el cuadro básico de insumos para la salud;
+
+XXIII. Vigilar, en coordinación con las autoridades educativas, al ejercicio de los profesionales, técnicos y auxiliares de la salud en la prestación de sus servicios;
+
+XXIV. Efectuar el control higiénico e inspección sobre preparación, posesión, uso, suministro, importación, exportación y circulación de comestibles y bebidas;
+
+XXV. Controlar la preparación, posesión, uso, suministro, importación, exportación y distribución de productos medicinales, a excepción de los de uso veterinario;
+
+XXVI. Vigilar y supervisar la operación de clínicas, hospitales y consultorios públicos y privados, a fin de que operen conforme a los términos de las leyes en la materia;
+
+XXVII. Adquirir, con sujeción a las bases y procedimientos relativos, el equipo instrumental médico que requieran las unidades aplicativas, así como contratar, en su caso, los servicios para su reparación y mantenimiento, observando las disposiciones en la materia;
+
+XXVIII. Participar en el establecimiento y expedición, en coordinación con las dependencias competentes del Ejecutivo Estatal, de las bases y normas a las que deben sujetarse los concursos para la ejecución de obras del sector salud; y
+
+Las demás que señalen las leyes, reglamentos y disposiciones en la materia.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1992)</small>
 
@@ -1001,11 +1065,23 @@ TERCERO.- Cuando en otros ordenamientos legales se haga referencia a la Secretar
 
 P.O. 27 DE DICIEMBRE DE 1994
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno", para que entre en vigor el 1º. de enero de 1995.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno", para que entre en vigor el 1º. De enero de 1995.
 
 SEGUNDO.- Para los efectos de la aplicación de la Ley de Coordinación Fiscal del Estado de México, en lo que se refiere al Municipio de Valle de Chalco Solidaridad, los preceptos, los conceptos e indicadores que contiene ese ordenamiento, se entenderán y aplicarán, en razón de las proporciones territoriales que específicamente aportaron cada uno de los municipios involucrados, así como al significado de su conjunto y en relación a sus efectos jurídicos y económicos.
 
 TERCERO.- En los casos en que para determinar las magnitudes de los conceptos u obligaciones fiscales, se haga mención a indicadores referidos a zonas económicas, se considerarán esos mismos indicadores referidos a áreas geográficas.
+
+P.O. 4 DE MARZO DE 2000
+
+PRIMERO.- Publíquese al presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la "Gaceta del Gobierno".
+
+TERCERO.- El Ejecutivo del Estado expedirá dentro del término de 120 días, a partir de la vigencia de este Decreto, el reglamento interior de la Secretaría de Salud.
+
+CUARTO.- Se derogan las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+QUINTO.- Las Secretarías de Finanzas y Planeación, de Administración y de la Contraloría proveerán lo conducente para el funcionamiento de la Secretaría de Salud.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
