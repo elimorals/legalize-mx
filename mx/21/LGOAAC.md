@@ -4,7 +4,7 @@ identifier: "LGOAAC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1985-01-14"
-last_updated: "2003-06-13"
+last_updated: "2004-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGOAAC"
 
 LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2004.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -772,7 +772,7 @@ VII. Realizar operaciones con oro, plata y divisas. Se exceptúan las operacione
 
 VIII. Realizar las demás operaciones que no les estén expresamente autorizadas.
 
-> <small>(ADICIONADO CON LOS ARTICULO QUE LO INTEGRAN, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
 ### CAPITULO II BIS. De las Sociedades de Ahorro y Préstamo
 
@@ -2236,25 +2236,107 @@ Las multas previstas en el presente capítulo, se impondrán a razón de días d
 
 Para determinar el monto de la operación, quebranto o perjuicio patrimonial previstos en este capítulo, se considerarán como días de salario, el salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse el delito de que se trate.
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
 
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Valores, dictará disposiciones de carácter general que tengan como finalidad establecer medidas y procedimientos para prevenir y detectar en las organizaciones auxiliares del crédito, casas de cambio y demás sociedades que desarrollen actividades en los términos del artículo 81-A de esta Ley, actos u operaciones que puedan ubicarse en los supuestos del artículo 400 bis del Código Penal Federal, incluyendo la obligación de presentar a esa Secretaría, por conducto de la citada Comisión, reportes periódicos sobre las operaciones y servicios que realicen con sus clientes y usuarios, por los montos y en los supuestos que en dichas disposiciones de carácter general se establezcan.
+Las organizaciones auxiliares del crédito y casas de cambio, en términos de las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público, escuchando la previa opinión de la Comisión Nacional Bancaria y de Valores, estarán obligadas, en adición a cumplir con las demás obligaciones que les resulten aplicables, a:
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y
 
-Dichas disposiciones deberán considerar entre otros aspectos, criterios para la adecuada identificación de los clientes y usuarios de las operaciones y servicios de las organizaciones auxiliares del crédito, casas de cambio y demás sociedades que desarrollen actividades en los términos del artículo 81-A de esta Ley, que consideren sus condiciones específicas y actividad económica o profesional, los montos, frecuencia, tipos y naturaleza de las operaciones e instrumentos monetarios con que las realicen y su relación con las actividades de los clientes o usuarios; las plazas en que operen y las prácticas comerciales y cambiarias que priven en las mismas; la debida y oportuna capacitación de su personal; y medidas específicas de seguridad en el manejo de las operaciones de las propias organizaciones auxiliares del crédito, casas de cambio y demás sociedades que desarrollen actividades en los términos del artículo 81-A del presente ordenamiento.
+II. Presentar a la Secretaría de Hacienda y Crédito Público, por conducto de la Comisión Nacional Bancaria y de Valores, reportes sobre:
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+a. Los actos, operaciones y servicios que realicen con sus clientes y usuarios, relativos a la fracción anterior, y
 
-Las disposiciones de carácter general señaladas en el párrafo anterior y las obligaciones previstas en ellas, deberán ser observadas por las organizaciones auxiliares del crédito, casas de cambio y demás sociedades que desarrollen actividades en los términos del artículo 81-A de este ordenamiento, así como por los miembros de los consejos de administración, comisarios, auditores externos, funcionarios y empleados de los citados intermediarios. La violación de dichas disposiciones será sancionada por la Comisión Nacional Bancaria y de Valores, con multa de 200 a 100,000 días de salario mínimo general vigente en el Distrito Federal o del 10 al 100 por ciento del monto de la operación de que se trate, conforme al procedimiento establecido en el artículo 88 de esta Ley.
+b. Todo acto, operación o servicio, que pudiese ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas en la misma, que realice o en el que intervenga algún miembro del consejo de administración, administradores, directivos, funcionarios, empleados y apoderados.
 
-> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
 
-Las mencionadas multas podrán ser impuestas tanto a las referidas entidades como a las personas físicas y morales señaladas en el párrafo anterior, que en razón de sus actos hayan ocasionado o intervenido para que la sociedad incurriera en la irregularidad o resulten responsables de la misma. Atendiendo a las circunstancias de cada caso, la propia Comisión podrá, además, proceder conforme a lo previsto en el artículo 74 de esta Ley o bien solamente determinar amonestación, suspensión, remoción, veto o inhabilitación de dichas personas.
+Los reportes a que se refiere la fracción II de este artículo, de conformidad con las disposiciones de carácter general previstas en el mismo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales y financieras que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información.
+
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Asimismo, la Secretaría de Hacienda y Crédito Público en las citadas reglas generales emitirá los lineamientos sobre el procedimiento y criterios que las organizaciones auxiliares del crédito y casas de cambio deberán observar respecto de:
+
+a. El adecuado conocimiento de sus clientes y usuarios, para lo cual aquéllas deberán considerar los antecedentes, condiciones específicas, actividad económica o profesional y las plazas en que operen;
+
+b. La información y documentación que dichas organizaciones auxiliares del crédito y casas de cambio deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite plenamente la identidad de sus clientes;
+
+c. La forma en que las mismas organizaciones auxiliares del crédito y casas de cambio deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo, y
+
+d. Los términos para proporcionar capacitación al interior de las organizaciones auxiliares del crédito y casas de cambio sobre la materia objeto de este artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento.
+
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Las organizaciones auxiliares del crédito y casas de cambio deberán conservar, por al menos diez años, la información y documentación a que se refiere el inciso c) del párrafo anterior, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+La Secretaría de Hacienda y Crédito Público estará facultada para requerir y recabar, por conducto de la Comisión Nacional Bancaria y de Valores, información y documentación relacionada con los actos, operaciones y servicios a que se refiere la fracción II de este artículo. Las organizaciones auxiliares del crédito y casas de cambio, quienes estarán obligadas a proporcionar dicha información y documentación. La Secretaría de Hacienda y Crédito Público estará facultada para obtener información adicional de otras fuentes con el mismo fin y a proporcionar información a las autoridades competentes.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+El cumplimiento de las obligaciones señaladas en este artículo no implicará trasgresión alguna a la obligación de confidencialidad legal, ni constituirá violación a las restricciones sobre revelación de información establecidas por vía contractual.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Las disposiciones de carácter general a que se refiere este artículo deberán ser observadas por las organizaciones auxiliares del crédito y casas de cambio, así como por los miembros del consejo de administración, administradores, directivos, funcionarios, empleados y apoderados respectivos, por lo cual, tanto las entidades como las personas mencionadas serán responsables del estricto cumplimiento de las obligaciones que mediante dichas disposiciones se establezcan.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+La violación a las disposiciones a que se refiere este artículo será sancionada por la Comisión Nacional Bancaria y de Valores conforme al procedimiento previsto en el artículo 88 de la presente Ley, con multa de hasta 100,000 días de salario mínimo general diario vigente en el Distrito Federal.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Las mencionadas multas podrán ser impuestas, a las organizaciones auxiliares del crédito y casas de cambio, así como a sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados y apoderados respectivos, así como a las personas físicas y morales que, en razón de sus actos, hayan ocasionado o intervenido para que dichas entidades financieras incurran en la irregularidad o resulten responsables de la misma. Sin perjuicio de lo anterior, la Comisión Nacional Bancaria y de Valores, atendiendo a las circunstancias de cada caso, podrá proceder conforme a lo previsto en el artículo 74 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional Bancaria y de Valores, las organizaciones auxiliares del crédito y casas de cambio, sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados y apoderados, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
 
 > <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 Las organizaciones auxiliares del crédito, casas de cambio y demás sociedades que desarrollen actividades en los términos del artículo 81-A de esta Ley y los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional Bancaria y de Valores, así como los miembros de los consejos de administración, comisarios, auditores externos, funcionarios y empleados de los intermediarios financieros a que se refiere este artículo, deberán abstenerse de dar noticia o información de las operaciones previstas en el mismo a personas, dependencias o entidades, distintas a las autoridades competentes expresamente previstas. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+ARTICULO 95 BIS.- Las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero, en términos de las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público, escuchando la previa opinión del Servicio de Administración Tributaria, estarán obligadas, en adición a cumplir con las demás obligaciones que les resulten aplicables, a:
+
+I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y
+
+II. Presentar a la Secretaría de Hacienda y Crédito Público, por conducto del Servicio de Administración Tributaria, reportes sobre:
+
+a. Los actos, operaciones y servicios que realicen con sus clientes y usuarios, relativos a la fracción anterior, y
+
+b. Todo acto, operación o servicio, que pudiesen ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas en la misma, que realice o en el que intervenga algún miembro del consejo de administración, administrador, directivo, funcionario, empleados, factor y apoderado.
+
+Para efectos de lo previsto por este artículo, se entenderá por transmisor de dinero, a la persona que, de manera habitual y a cambio del pago de una contraprestación, comisión, beneficio o ganancia, recibe en el territorio nacional derechos o recursos en moneda nacional o divisas, directamente en sus oficinas, o por cable, facsímil, servicios de mensajería, medios electrónicos o transferencia electrónica de fondos, para que de acuerdo a las instrucciones del remisor, los transfiera al extranjero, a otro lugar dentro del territorio nacional o para entregarlos en el lugar en el que los recibe, al beneficiario designado.
+
+Los reportes a que se refiere la fracción II de este artículo, de conformidad con las disposiciones de carácter general previstas en el mismo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información.
+
+Asimismo, la Secretaría de Hacienda y Crédito Público en las citadas reglas generales emitirá los lineamientos sobre el procedimiento y criterios que las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero deberán observar respecto de:
+
+a. El adecuado conocimiento de sus clientes y usuarios, para lo cual aquéllas deberán considerar los antecedentes, condiciones específicas, actividad económica o profesional y las plazas en que operen;
+
+b. La información y documentación que dichas personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite plenamente la identidad de sus clientes;
+
+c. La forma en que las mismas personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo, y
+
+d. Los términos para proporcionar capacitación al interior de las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero sobre la materia objeto de este artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento.
+
+Las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero deberán conservar, por al menos diez años, la información y documentación a que se refiere el inciso c) del párrafo anterior, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables.
+
+La Secretaría de Hacienda y Crédito Público estará facultada para requerir y recabar, por conducto del Servicio de Administración Tributaria, información y documentación relacionada con los actos, operaciones y servicios a que se refiere la fracción II de este artículo. Las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero, quienes estarán obligadas a proporcionar dicha información y documentación.
+
+El cumplimiento de las obligaciones señaladas en este artículo no implicará trasgresión alguna a la obligación de confidencialidad legal, ni constituirá violación a las restricciones sobre revelación de información establecidas por vía contractual.
+
+Las disposiciones de carácter general a que se refiere este artículo deberán ser observadas por las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero, así como por los miembros del consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados respectivos, por lo cual, tanto las entidades como las personas mencionadas serán responsables del estricto cumplimiento de las obligaciones que mediante dichas disposiciones se establezcan.
+
+La violación a las disposiciones a que se refiere este artículo será sancionada por el Servicio de Administración Tributaria, con multa de hasta 100,000 días de salario mínimo general diario vigente en el Distrito Federal, en términos de su Ley.
+
+Las mencionadas multas podrán ser impuestas, a las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero, así como a sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados respectivos, así como a las personas físicas y morales que, en razón de sus actos, hayan ocasionado o intervenido para que dichas entidades financieras incurran en la irregularidad o resulten responsables de la misma.
+
+El Servicio de Administración Tributaria tendrá la facultad de supervisar, vigilar e inspeccionar el cumplimiento y observancia de lo dispuesto por este artículo, así como por las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público en términos del mismo.
+
+Los servidores públicos de la Secretaría de Hacienda y Crédito Público y el Servicio de Administración Tributaria, las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero, sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
@@ -2619,6 +2701,10 @@ D.O.F. 13 DE JUNIO DE 2003.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Las disposiciones de este Decreto no serán aplicables a los créditos contratados con anterioridad a la fecha de entrada en vigor del mismo, ni aun tratándose de novación o reestructuración de créditos.
+
+D.O.F. 28 DE ENERO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1762.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA”.]
 
