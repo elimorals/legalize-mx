@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1992-05-20"
+last_updated: "1992-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 1991.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE JULIO DE 1992.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 20 DE MAYO DE 1992.
 
@@ -450,9 +450,11 @@ IV. La indemnización a que se refiere el antepenúltimo párrafo del artículo 
 
 Cuando el contribuyente interponga algún medio de defensa legal impugnando alguno de los conceptos señalados en el párrafo anterior, el orden señalado en el mismo no será aplicable respecto del concepto impugnado y garantizado.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Para determinar las contribuciones se considerarán inclusive, las fracciones del peso; no obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 0.1 hasta 499.99 pesos se ajusten a la unidad de millar inmediata anterior y los que contengan cantidades de 500 a 999.99 pesos, se ajusten a la unidad de millar inmediata superior.
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
+
+Para determinar las contribuciones se considerarán, inclusive, las fracciones del peso; no obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad del peso inmediata anterior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad del peso inmediata superior.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -479,6 +481,12 @@ Alimentos, bebidas y tabaco; ropa, calzado y accesorios; vivienda; muebles, apar
 El Banco de México publicará en el Diario Oficial de la Federación los estados, zonas conurbadas, ciudades, artículos, servicios, conceptos de consumo y ramas a que se refieren las fracciones I y II así como las cotizaciones utilizadas para calcular el Indice.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 20.
+
+...
+
+Para determinar las contribuciones se considerarán, inclusive, las fracciones del peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 0.01 hasta 500.00 pesos se ajusten a la unidad de millar inmediata anterior y los que contengan cantidades de 500.01 a 999.99 pesos, se ajusten a la unidad de millar inmediata superior. Tratándose del pago que se realice en nuevos pesos en los términos de las disposiciones monetarias, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad del nuevo peso inmediata anterior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad del nuevo peso inmediata superior.
 
 ###### Artículo 21.
 
@@ -726,8 +734,6 @@ En los casos en que las demás disposiciones de este Código hagan referencia a 
 
 Cuando las leyes fiscales establezcan la obligación de expedir comprobantes por las actividades que se realicen, dichos comprobantes deberán reunir los requisitos que señala el artículo 29-A de este Código. Las personas que adquieran bienes o usen servicios deberán solicitar el comprobante respectivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO REMITIRSE A LA FRACCION II DEL ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS EN CITA.</small>
-
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 Los comprobantes a que se refiere el párrafo anterior deberán ser impresos en los establecimientos que autorice la Secretaría de Hacienda y Crédito Público que cumplan con los requisitos que al efecto se establezcan mediante reglas de carácter general. Las personas que tengan establecimientos a que se refiere este párrafo deberán proporcionar a la Secretaría de Hacienda y Crédito Público la información relativa a sus clientes, a través de medios magnéticos, en los términos que fije dicha dependencia mediante disposiciones de carácter general.
@@ -752,25 +758,43 @@ Los contribuyentes con local fijo tendrán obligación de registrar el valor de 
 
 La Secretaría de Hacienda y Crédito Público llevará el registro de los contribuyentes a quienes proporcione máquinas registradoras de comprobación fiscal y éstos deberán presentar los avisos y conservar la información que señale el reglamento de este Código.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>N. DE E. EL DECRETO DE FECHA 12 DE JULIO DE 1992, PUBLICADO EN EL D.O.F. EN CITA, REFORMA EL PRIMER PARRAFO DEL PRESENTE ARTICULO PARA ENTRAR EN VIGOR EL 1o. DE ENERO DE 1993. LO ANTERIOR SE SEÑALA EN EL ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS LAS CUALES SE TRANSCRIBEN AL FINAL DEL TEXTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE JULIO DE 1992)</small>
 
 ###### Artículo 29-A.
 
-Los comprobantes a que se refiere el artículo 29 de este Código, deberán reunir los siguientes requisitos:
+Los comprobantes a que se refiere el artículo 29 de este Código, además de los requisitos que el mismo establece, deberán reunir lo siguiente:
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 I. Contener impreso el nombre, denominación o razón social, domicilio fiscal y clave del registro federal de contribuyentes de quien los expida. Tratándose de contribuyentes que tengan más de un local o establecimiento, deberán señalar en los mismos el domicilio del local o establecimiento en el que se expidan los comprobantes.
 
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
 II. Contener impreso el número de folio.
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 III. Lugar y fecha de expedición.
 
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
 IV. Clave del registro federal de contribuyentes de la persona a favor de quien se expida.
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 V. Cantidad y clase de mercancías o descripción del servicio que amparen.
 
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
 VI. Valor unitario consignado en número e importe total consignado en número y letra, así como el monto de los impuestos que en los términos de las disposiciones fiscales deban trasladarse, en su caso.
 
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
 VII. Número y fecha del documento aduanero, así como la aduana por la cual se realizó la importación, tratándose de ventas de primera mano de mercancías de importación.
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 Los contribuyentes que realicen operaciones con el público en general deberán expedir comprobantes simplificados en los términos que señale el Reglamento de este Código.
 
@@ -982,7 +1006,9 @@ III. Promoverán el espíritu de servicio y la superación técnica y profesiona
 
 Dicho Instituto tendrá como órganos la Junta de Gobierno y la Dirección General que tendrá la representación del mismo.
 
-EL (sic) patrimonio del Instituto se integrará por las asignaciones que señale el Presupuesto de Egresos de la Federación, las disposiciones legales y administrativas; el 20% de los ingresos que se recauden por conceptos de gastos de ejecución a que se refiere el artículo 150 de este Código; el 2% de los ingresos que se destinen a la formación de los fondos a que se refiere el artículo 70-BIS del propio ordenamiento; así como por los ingresos obtenidos en la enajenación de bienes o prestación de sus servicios.
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
+
+El patrimonio del Instituto se integrará por las asignaciones que señale el Presupuesto de Egresos de la Federación, las disposiciones legales y administrativas; el 20% de los ingresos que se recauden por concepto de gastos de ejecución a que se refiere el artículo 150 de este Código; el 2% de los ingresos que se destinen a la formación de los fondos a que se refiere el artículo 70- BIS del propio ordenamiento; el 2% de los fondos a que se refiere el artículo 141 de la Ley Aduanera; así como por los ingresos obtenidos en la enajenación de bienes o prestación de sus servicios.
 
 El régimen laboral al que estarán sujetos los empleados del Instituto Nacional de Capacitación Fiscal será el previsto en el Apartado B del Artículo 123 Constitucional.
 
@@ -1464,8 +1490,6 @@ Las copias o reproducciones que deriven del microfilm o disco óptico de documen
 
 Las autoridades fiscales, con motivo del ejercicio de sus facultades de comprobación respecto de contribuciones que se pagan mediante declaración periódica formulada por los contribuyentes, procederán como sigue para determinar contribuciones omitidas:
 
-> <small>N. DE E. EL PRESENTE PARRAFO FUE REFORMADO POR EL ARTICULO SEGUNDO DEL DECRETO DE FECHA 17 DE DICIEMBRE DE 1990 Y PUBLICADO EN EL D.O.F. SEÑALADO, PARA INICIAR SU VIGENCIA A PARTIR DEL 1 DE ENERO DE 1992.</small>
-
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 I. Determinarán, en primer lugar, las contribuciones omitidas en los ejercicios terminados en 1990 y 1991, por los que se hubiera o debió haber sido presentada la declaración, a más tardar el día anterior a aquél en que se ejerzan las facultades de comprobación, así como las contribuciones correspondientes al periodo transcurrido entre la fecha de terminación del último ejercicio y el momento en que se ejerzan las citadas facultades.
@@ -1782,15 +1806,15 @@ Cuando la comisión de una o varias infracciones origine la omisión total o par
 
 I. El 50% de las contribuciones omitidas, actualizadas, cuando el infractor las pague junto con sus accesorios antes de la notificación de la resolución que determine el monto de la contribución que omitió;
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1992)</small>
 
-II. El 100% de las contribuciones omitidas, actualizadas en los demás casos;
+II. Del 70% al 100% de las contribuciones omitidas, actualizadas, en los demás casos.
 
 III. (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
-Si las autoridades fiscales determinan contribuciones omitidas mayores que las consideradas por el contribuyente para calcular la multa en los términos de la fracción I de este artículo, aplicarán el porciento señalado en la fracción II sobre el remanente no pagado de las contribuciones.
+Si las autoridades fiscales determinan contribuciones omitidas mayores que las consideradas por el contribuyente para calcular la multa en los términos de la fracción I de este artículo, aplicarán el porciento que corresponda en los términos de la fracción II sobre el remanente no pagado de las contribuciones.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -1930,8 +1954,6 @@ V. Presentar declaraciones o solicitudes que sin derecho den lugar a una devoluc
 
 VI. No presentar aviso de cambio de domicilio o presentarlo fuera de los plazos que señale el Reglamento de este Código, salvo cuando la presentación se efectúe en forma espontánea.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION REMITIRSE A LA FRACCION IV, DEL ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS EN CITA.</small>
-
 > <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 VII. Presentar declaración de pago provisional sin cantidad a pagar o sin saldo a favor, siempre que la declaración de pago provisional inmediata anterior haya sido presentada sin cantidad a pagar o sin saldo a favor.
@@ -1964,7 +1986,7 @@ c). De $73,000.00 en los demás documentos.
 
 II. Respecto de la señalada en la fracción II:
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990
 
 a). De $40,000.00 por no poner el nombre o ponerlo equivocadamente.
 
@@ -2322,11 +2344,21 @@ En los demás casos no previstos en las fracciones anteriores bastará la denunc
 
 Los procesos por los delitos fiscales a que se refieren las tres fracciones de este artículo se sobreseerán a petición de la Secretaría de Hacienda y Crédito Público, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministro (sic) Público Federal formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
 
-En los delitos fiscales en que sea necesaria querella o declaratoria de perjucio (sic) y el daño o el perjuicio sea cuantificable, la Secretaría de Hacienda y Crédito Público hará la cuantificación correspondiente en la propia querella o declaratoria o la presentará durante la tramitación del proceso respectivo antes de que el Ministerio Público Federal formule conclusiones. La citada cuantificación sólo surtirá efectos en el procedimiento penal.
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+En los delitos fiscales en que sea necesaria querella o declaratoria de perjuicio y el daño o el perjuicio sea cuantificable, la Secretaría de Hacienda y Crédito Público hará la cuantificación correspondiente en la propia querella o declaratoria. La citada cuantificación sólo surtirá efectos en el procedimiento penal. Cuando el término medio aritmético de la pena privativa de libertad que corresponda al delito imputado exceda de cinco años, para conceder la libertad provisional, el monto de la caución que fije la autoridad judicial comprenderá, en su caso, la suma de la cuantificación antes mencionada y las contribuciones adeudadas, incluyendo actualización y recargos, que hubiera determinado la autoridad fiscal a la fecha en que se promueva la libertad provisional. La caución que se otorgue en los términos de este párrafo no sustituye a la garantía del interés fiscal.
 
-Para los efectos de este Capítulo, se entiende por salario, el mínimo general diario de la zona económica correspondiente al Distrito Federal, vigente en el momento de la comisión del delito. Se consideran mercancías los productos, artículos y cualesquier otros bienes, aun cuando las leyes los consideren inalienables o irreductibles a propiedad particular.
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 1992)</small>
+
+En caso de que el procesado hubiera pagado o garantizado el interés fiscal, a entera satisfacción de la Secretaría de Hacienda y Crédito Público, la autoridad judicial, a solicitud del procesado, podrá reducir hasta en un 20% el monto de la caución, siempre que existan motivos o razones que justifiquen dicha reducción.
+
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
+
+Se consideran mercancías los productos, artículos y cualesquier otros bienes, aun cuando las leyes los consideren inalienables o irreductibles a propiedad particular.
+
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 1992)</small>
+
+El monto de las cantidades establecidas en este Capítulo, se actualizará en el mes de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año al mes de diciembre del último año inmediato anterior a aquél por el cual se efectúa el cálculo, de conformidad con el procedimiento a que se refiere el artículo 17-A de este Código.
 
 ###### Artículo 93.
 
@@ -2436,13 +2468,13 @@ IX. Una aeronave con mercancías extranjeras aterrice en lugar no autorizado par
 
 El delito de contrabando se sancionará con pena de prisión:
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1992)</small>
 
-I. De tres meses a seis años, si el monto de los impuestos omitidos, incluyendo actualización y recargos, no excede de $30,000,000.00.
+I. De tres meses a seis años, si el monto de los impuestos omitidos no excede de $30,000,000.00.
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1992)</small>
 
-II. De tres a nueve años, si el monto de los impuestos omitidos, incluyendo actualización y recargos, excede de $30,000,000.00.
+II. De tres a nueve años, si el monto de los impuestos omitidos excede de $30,000,000.00.
 
 III. De tres meses a nueve años, cuando se trate de mercancías cuyo tráfico haya sido prohibido por el Ejecutivo Federal en uso de las facultades señaladas en el segundo párrafo del artículo 131 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -2526,9 +2558,9 @@ Cuando los delitos a que se refiere este artículo sean calificados, la sanción
 
 Comete el delito de defraudación fiscal quien con uso de engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución u obtenga un beneficio indebido con perjuicio del fisco federal.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
-El delito de defraudación fiscal se sancionará con prisión de tres meses a seis años si el monto de lo defraudado, incluyendo actualización y recargos no excede de $30,000,000.00; cuando exceda, la pena será de tres a nueve años de prisión.
+El delito de defraudación fiscal se sancionará con prisión de tres meses a seis años si el monto de lo defraudado no excede de $30,000,000.00; cuando exceda, la pena será de tres a nueve años de prisión.
 
 Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de tres meses a seis años de prisión.
 
@@ -3708,7 +3740,9 @@ La procedencia del juicio será examinada aun de oficio.
 
 ### CAPITULO IV. De la Demanda
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+> <small>N. DE E. EN RELACION CON LA ENTRAD EN VIGOR REMITIRSE A LA FRACCION II DEL ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL CODIGO FISCAL DE LA FEDERACION DEL DECRETO DE REFORMAS EN CITA.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE JULIO DE 1992)</small>
 
 ###### Artículo 203.
 
@@ -3774,7 +3808,7 @@ Manifestada por un magistrado la causa de impedimento, el Presidente de la Sala 
 
 ###### Artículo 207.
 
-La demanda se presentará por escrito directamente ante la Sala Regional en cuya circunscripción radique la autoridad que emitió la resolución impugnada, dentro de los cuarenta y cinco días siguientes a aquél en que haya surtido efectos la notificación de ésta.
+La demanda se presentará por escrito directamente ante la Sala Regional competente, dentro de los cuarenta y cinco días siguientes a aquél en que haya surtido efectos la notificación de la resolución impugnada.
 
 > <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
 
@@ -4945,3 +4979,27 @@ D.O.F. 20 DE MAYO DE 1992.
 ###### ARTICULO UNICO.
 
 La presente Resolución entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE JULIO DE 1992.
+
+DISPOSICIONES TRANSITORIAS DEL CODIGO FISCAL DE LA FEDERACION
+
+###### ARTICULO SEGUNDO.
+
+Para efectos de lo dispuesto en el artículo anterior, se aplicarán las siguientes disposiciones transitorias:
+
+I.- Lo dispuesto en el penúltimo párrafo del artículo 20 del Código Fiscal de la Federación, entrará en vigor el 1o. de enero de 1994.
+
+II.- Lo dispuesto en los artículos 29-A, primer párrafo y 207, primer párrafo del Código Fiscal de la Federación, entrará en vigor el 1o. de enero de 1993.
+
+DISPOSICION DE VIGENCIA ANUAL
+
+###### ARTICULO TERCERO.
+
+Durante el año de 1993, el texto del penúltimo párrafo del artículo 20 del Código Fiscal de la Federación, será el siguiente:
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
