@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-regula-el-almacenaje-venta-y-consumo-de-bebidas-9417"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-31"
-last_updated: "1998-12-11"
+last_updated: "1999-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE REGULA EL ALMACENAJE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL:11 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL:24 DE DICIEMBRE DE 1999.
 
 Ley Publicada en el Periódico Oficial del Estado "La Sombra de Arteaga" el 31 de Diciembre de 1991
 
@@ -305,6 +305,10 @@ El refrendo de las licencias establecidas por esta Ley deberá pagarse anualment
 
 La Secretaría de Gobierno, la Secretaría de Planeación y Finanzas y la Secretaría de Educación, son las dependencias competentes del Ejecutivo para verificar y comprobar el exacto cumplimiento de las disposiciones de esta ley, para lo cual estarán facultadas para realizar los actos y diligencias necesarias en los términos previstos por las leyes aplicables.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
+El órgano de la Secretaría de Planeación y Finanzas encargado de llevar a cabo la expedición de las órdenes de visita de inspección y ejecución de las mismas, será la Dirección de Ingresos a través del Departamento de Notificación, Cobranza e Inspección Fiscal.
+
 ### CAPITULO QUINTO
 
 DE LAS INSPECCIONES.
@@ -437,21 +441,31 @@ XXII.- En general, la inobservancia de cualquiera de las disposiciones de esta l
 
 Las sanciones que se impondrán a los infractores de la presente ley, consistirán en:
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
 
-I.- Multa hasta por una cantidad equivalente de cincuenta hasta cincuenta mil veces el salario mínimo correspondiente a la zona económica de la Capital de Estado.
+I.- Multa por cada infracción de las previstas por el artículo 29 de la presente Ley, tomando como salario mínimo vigente en el Estado, en los siguientes términos:
 
-II.- Clausura;
+-De 30 veces para el caso de las fracciones I, III, IV, V, VIII, XII Y XVIII.
 
-III.- Suspensión de la licencia o autorización;
+-De 50 veces para el caso de las fracciones II Y VI.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1994)</small>
+-De 70 veces para el caso de las fracciones VII, XVI Y XVII.
 
-IV.- Revocación o cancelación;
+-De 100 veces para el caso de las fracciones IX, X, XI, XIII, XIV, XV.
 
-ADICIONADA, P.O. 1 DE ENERO DE 1994)
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
 
-V.- Clausura temporal o definitiva del establecimiento.
+II.- Clausura en caso de reincidencia en cualquiera de las fracciones señaladas en el artículo 29 de la presente Ley.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
+III.- Suspensión de la Licencia o Autorización, cuando con motivo de la inspección realizada por la autoridad competente, se detecte que el contribuyente ha cometido dos o más infracciones de las señaladas en el artículo 29 de la presente Ley.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
+IV.- Revocación de la Licencia o Autorización, cuando con motivo de una segunda inspección realizada por la autoridad competente, se detecte que el contribuyente ha cometido dos o más infracciones en el artículo 29 de la presente Ley.
+
+Las sanciones mencionadas en las fracciones II a IV, se impondrán independientemente de la aplicación de las sanciones previstas en la fracción I de este artículo.
 
 ###### ARTICULO 31.
 
@@ -608,6 +622,20 @@ La presente ley entrará en vigor a partir del día 1º de enero de 1997.
 ###### ARTICULO PRIMERO.
 
 La presente ley entrará en vigor a partir del día 1º de enero de 1999.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" para que surta sus efectos legales.
+
+24 DE DICIEMBRE DE 1999
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor a partir del día 1º de enero del año 2000.
 
 ###### ARTICULO SEGUNDO.
 
