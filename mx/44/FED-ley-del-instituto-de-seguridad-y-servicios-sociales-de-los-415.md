@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-415"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-27"
-last_updated: "1992-07-23"
+last_updated: "1993-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=415&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,13 @@ abbreviation: "LISSSTE"
 ---
 # LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE ENERO DE 1993 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JULIO DE 1992.
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO EN EL ARTICULO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO PUBLICADO EN EL D.O.F. 4 DE ENERO DE 1993, SE SUSTITUYEN LAS REFERENCIAS QUE EN DICHA LEY SE HACEN A LA SECRETARIA DE PROGRAMACION Y PRESUPUESTO, POR SECRETARIA DE HACIENDA Y CREDITO PUBLICO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1993.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 27 de diciembre de 1983.
 
@@ -106,9 +110,17 @@ XVII. Servicios que contribuyan a mejorar la calidad de vida del servidor públi
 
 XVIII. Servicios turísticos;
 
-XIX. Promociones culturales, de preparación técnica, fomento deportivo y recreación; y
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1993)</small>
 
-XX. Servicios funerarios
+XIX. Promociones culturales, de preparación técnica, fomento deportivo y recreación;
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1993)</small>
+
+XX. Servicios funerarios; y
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1993)</small>
+
+XXI. Sistema de ahorro para el retiro.
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
@@ -234,35 +246,25 @@ Las cotizaciones establecidas en los artículos 16 y 21 de esta Ley, se efectuar
 
 El sueldo básico de los trabajadores de los organismos públicos se determinará con sujeción a los lineamientos que fija el presente artículo.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
 ###### Artículo 16.
 
-Todo trabajador comprendido en el artículo 1o. de este ordenamiento, deberá cubrir al Instituto una cuota obligatoria del ocho por ciento del sueldo básico de cotización que disfrute, definido en el artículo anterior.
+Todo trabajador incorporado al régimen de este ordenamiento, deberá cubrir al Instituto una cuota fija del ocho por ciento del sueldo básico de cotización que disfrute, definido en el artículo anterior.
 
 Dicha cuota se aplicará en la siguiente forma:
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+I. 2.75% para cubrir los seguros de medicina preventiva, enfermedades, maternidad y los servicios de rehabilitación física y mental;
 
-I. 2.50% para cubrir los seguros, prestaciones y servicios señalados en las fracciones de la I a la III del artículo 3o. de esta Ley;
+II. 0.50% Para cubrir las prestaciones relativas a préstamos a mediano y corto plazo;
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+III. 0.50% para cubrir los servicios de atención para el bienestar y desarrollo infantil; integrales de retiro a jubilados y pensionistas; servicios turísticos; promociones culturales, de preparación técnica, fomento deportivo y de recreación y servicios funerarios;
 
-II. 0.50% para cubrir la prestación señalada en la fracción XIV del artículo 3o. de esta Ley;
+IV. 3.50% para la prima que se establezca anualmente, conforme a las valuaciones actuariales, para el pago de jubilaciones, pensiones e indemnizaciones globales, así como para integrar las reservas correspondientes conforme a lo dispuesto en el artículo 182 de esta Ley;
 
-> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+V. El porcentaje restante se aplicará para cubrir los gastos generales de administración del Instituto exceptuando los correspondientes al Fondo de la Vivienda.
 
-III. 0.50% para cubrir las prestaciones señaladas en las fracciones XV y XVI del artículo 3o. de esta Ley;
-
-> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
-
-IV. 0.50% para cubrir los servicios señalados en la fracción XVII del artículo 3o. de esta Ley;
-
-(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1986) (F. DE E., D.O.F. 19 DE FEBRERO DE 1987)
-
-V. El porcentaje restante se aplicará para cubrir el 50% de la prima que sobre el sueldo básico se establezca anualmente, conforme a las valuaciones actuariales, para el pago de las jubilaciones, pensiones e indemnizaciones globales, así como para integrar las reservas correspondientes conforme al artículo 182 de esta Ley y para cubrir los servicios sociales y culturales a que se refieren las fracciones de la XI a la XIII y de la XVIII a la XX del artículo 3o., de esta Ley, así como los gastos generales de administración del Instituto, exceptuando los correspondientes al Fondo de la Vivienda.
-
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
-
-Los porcentajes señalados en las fracciones de la I a la IV incluyen los gastos específicos de administración.
+Los porcentajes señalados en las fracciones I a III incluyen gastos específicos de administración.
 
 ###### Artículo 17.
 
@@ -284,51 +286,55 @@ III. Cuando el trabajador sufra de prisión preventiva seguida de fallo absoluto
 
 IV. Cuando el trabajador fuere suspendido en los términos del párrafo final del artículo 45 de la Ley Federal de los Trabajadores al Servicio del Estado, por todo el tiempo que dure la suspensión y siempre que por laudo ejecutariado se le autorice a reanudar labores.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
 
-En los casos señalados el trabajador deberá pagar la totalidad de las cuotas y aportaciones a que se refieren las fracciones de la II a la V del artículo 16 y de la II a la IV y la VII del artículo 21. Si el trabajador falleciere antes de reanudar sus labores y sus familiares derechohabientes tuvieren derecho a pensión, éstos deberán cubrir el importe de esas cuotas a fin de poder disfrutar de la misma.
+En los casos señalados, el trabajador deberá pagar la totalidad de las cuotas y aportaciones a que se refieren las fracciones II a V del artículo 16 y II, III, V y VII del artículo 21. Si el trabajador falleciere antes de reanudar sus labores y sus familiares derechohabientes tuvieren derecho a pensión, éstos deberán cubrir el importe de esas cuotas a fin de poder disfrutar de la misma.
 
 ###### Artículo 20.
 
 Cuando no se hubieren hecho a los trabajadores los descuentos procedentes conforme a esta Ley, el Instituto mandará descontar hasta un 30% del sueldo mientras el adeudo no esté cubierto, a menos que el trabajador solicite y obtenga mayores facilidades para el pago.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
 
 ###### Artículo 21.
 
-Las dependencias y entidades públicas sujetas al régimen de esta Ley, cubrirán al Instituto como aportaciones el equivalente al 17.75% del sueldo básico de los trabajadores.
+Las dependencias y entidades públicas sujetas al régimen de esta Ley cubrirán al Instituto, como aportaciones el equivalente al 17.75% del sueldo básico de cotización de los trabajadores.
 
 Dicho porcentaje se aplicará en la siguiente forma:
 
-I. 6.50% para cubrir los seguros, prestaciones y servicios señalados en las fracciones de la I a la III del artículo 3o. de esta Ley;
+I. 6.75% para cubrir los seguros de medicina preventiva, enfermedades, maternidad y los servicios de rehabilitación física y mental;
 
-II. 0.50% para cubrir la prestación señalada en la fracción XIV del artículo 3o. de esta Ley;
+II. 0.50% para cubrir las prestaciones relativas a préstamos a mediano y corto plazo;
 
-III. 0.50% para cubrir las prestaciones señaladas en las fracciones XV y XVI del artículo 3o. de esta Ley;
+III. 0.50% para cubrir los servicios de atención para el bienestar y desarrollo infantil; integrales de retiro a jubilados y pensionistas; servicios turísticos; promociones culturales, de preparación técnica, fomento deportivo y de recreación y servicios funerarios;
 
-IV. 0.50% para cubrir los servicios señalados en la fracción XVII del artículo 3o. de esta Ley;
+IV. 0.25% para cubrir íntegramente el seguro de riesgos del trabajo;
 
-V. 0.75% para cubrir íntegramente el seguro de accidentes y enfermedades de trabajo y atender los servicios de prevención, de donde se aplicará el 0.25% para el pago de pensiones y el 0.50% para la atención médica;
+V. 3.50% para la prima que se establezca anualmente, conforme a las valuaciones actuariales, para el pago de jubilaciones, pensiones e indemnizaciones globales, así como para integrar las reservas correspondientes conforme a lo dispuesto en el artículo 182 de esta Ley;
 
-VI. 5.00% para constituir el Fondo de la Vivienda; y
+VI. 5.00% para constituir el Fondo de la Vivienda;
 
-VII. El porcentaje restante se aplicará para cubrir el 50% de la prima que sobre el sueldo básico se establezca anualmente conforme a las valuaciones actuariales, para el pago de jubilaciones, pensiones e indemnizaciones globales, así como para integrar las reservas correspondientes conforme al artículo 182 de esta Ley y para cubrir los servicios sociales y culturales a que se refieren las fracciones de la XI a la XIII y de la XVIII a la XX del artículo 3o. de esta Ley, así como los gastos generales de administración del Instituto, exceptuando los correspondientes al Fondo de la Vivienda.
+VII. El porcentaje restante se aplicará para cubrir los gastos generales de administración del Instituto, exceptuando los correspondientes al Fondo de la Vivienda.
 
-Los porcentajes señalados en las fracciones de la I a la V, incluyen los gastos específicos de administración.
+Los porcentajes señalados en las fracciones I a IV incluyen gastos específicos de administración.
 
-Además, para los servicios a que se refiere la fracción XI del artículo 3o. de la presente Ley, las dependencias y entidades cubrirán el 50% del costo unitario por cada uno de los hijos de sus trabajadores que hagan uso del servicio en las estancias de bienestar infantil del Instituto. Dicho costo será determinado anualmente por la Junta Directiva.
+Además, para los servicios de atención para el bienestar y desarrollo infantil, las dependencias y entidades cubrirán el 50% del costo unitario por cada uno de los hijos de sus trabajadores que haga uso del servicio en las estancias de bienestar infantil del Instituto. Dicho costo será determinado anualmente por la Junta Directiva.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
 
 ###### Artículo 22.
 
-Las dependencias y entidades públicas harán entregas quincenales al Instituto, por conducto de sus respectivas tesorerías o departamentos correspondientes, del monto de las cantidades estimadas por concepto de las cuotas y aportaciones a que se refieren los artículos 16, 21 y 25, fracción II, de esta Ley. También entregarán quincenalmente al Instituto el importe de los descuentos que el Instituto ordene que se hagan a los trabajadores por otros adeudos derivados de la aplicación de esta Ley.
+Las dependencias y entidades públicas harán entregas quincenales al Instituto, a más tardar los días 10 y 25 de cada mes por conducto de sus respectivas tesorerías o departamentos correspondientes, del importe de las cuotas y aportaciones a que se refieren los artículos 16, 21 y 25 fracción II de esta Ley, excepto tratándose de las aportaciones al sistema de ahorro para el retiro. También entregarán en los plazos señalados, el importe de los descuentos que el Instituto ordene que se hagan a los trabajadores por otros adeudos derivados de la aplicación de esta Ley.
 
-No se concentrarán en la Tesorería de la Federación los ingresos provenientes de las aportaciones, las que deberán ser enteradas directamente al Instituto.
+Las omisiones y diferencias que resultaren con motivo de los pagos efectuados, el Instituto las notificará a las dependencias y entidades, debiendo éstas efectuar la aclaración o el pago dentro de los 10 días hábiles siguientes a la fecha de la notificación, en caso contrario deberá pagarse el interés a que se refiere el párrafo siguiente.
 
-Para los efectos de este artículo, se realizará un cálculo estimativo del monto de las entregas quincenales, ajustándose las cuentas y haciéndose los pagos insolutos cada mes.
+Las dependencias y entidades públicas que no cubran las cuotas, aportaciones y descuentos a los trabajadores ordenados por el Instituto, en la fecha o dentro del plazo señalado, deberán pagar un interés equivalente al Costo Porcentual Promedio de Captación de Recursos del Sistema Bancario, que determina el Banco de México. Los intereses se fijarán por mes o fracción, a partir del día en que debió hacerse el pago y hasta la fecha en que el mismo se efectúe.
 
-Al tiempo de examinar los proyectos anuales de presupuestos de las dependencias y entidades, la Secretaría de Programación y Presupuesto incluirá en las partidas necesarias el concepto de aportaciones de esta Ley, y vigilará su correcto ejercicio en los términos de este artículo.
+No se concentrarán en la Tesorería de la Federación los ingresos provenientes de las aportaciones, las que deberán ser enteradas al Instituto. Tratándose de las aportaciones correspondientes al sistema de ahorro para el retiro, se estará a lo dispuesto por el artículo 90 BIS-A de esta Ley.
+
+El entero de las aportaciones al sistema de ahorro para el retiro será por bimestres vencidos, a más tardar el día diecisiete de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año, en los términos que al efecto se señalan en el Capítulo V BIS del Título II de la presente Ley.
+
+Al tiempo de examinar los proyectos anuales de presupuestos de las dependencias y entidades, la Secretaría de Hacienda y Crédito Público incluirá en las partidas necesarias el concepto de aportaciones de esta Ley, y vigilará su correcto ejercicio en los términos de este artículo.
 
 ### CAPITULO II. Seguro de enfermedades y maternidad
 
@@ -462,11 +468,11 @@ Se considerarán accidentes del trabajo, toda lesión orgánica o perturbación 
 
 Asimismo, se consideran riesgos del trabajo las enfermedades señaladas por las leyes del trabajo.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
 
 ###### Artículo 35.
 
-Las prestaciones que concede este Capítulo serán cubiertas íntegramente con la aportación a cargo de las dependencias y entidades que señala la fracción V del artículo 21 de esta Ley.
+Las prestaciones que concede este Capítulo serán cubiertas íntegramente con la aportación a cargo de las dependencias y entidades que señala la fracción IV del artículo 21 de esta Ley.
 
 ###### Artículo 36.
 
@@ -658,7 +664,9 @@ La cuota mínima y máxima de las pensiones, con excepción de las concedidas po
 
 Asimismo, la cuota diaria máxima de pensión, será fijada por la Junta Directiva del Instituto, pero ésta no podrá exceder de hasta la suma cotizable en los términos del artículo 15 de esta Ley.
 
-Las cuantías de las pensiones aumentarán al mismo tiempo y en la misma proporción en que aumenten los sueldos básicos de los trabajadores en activo.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+La cuantía de las pensiones se incrementará conforme aumente el salario mínimo general para el Distrito Federal, de tal modo que todo incremento porcentual a dicho salario se refleje simultáneamente en las pensiones que paga el Instituto.
 
 Los jubilados y pensionados tendrán derecho a una gratificación anual igual en número de días a las concedidas a los trabajadores en activo, según la cuota diaria de su pensión. Esta gratificación deberá pagarse en un cincuenta por ciento antes del quince de diciembre y el otro cincuenta por ciento a más tardar el quince de enero, de conformidad con las disposiciones que dicte la Junta Directiva. Asimismo, tendrán derecho en su proporción, a las prestaciones en dinero que les sean aumentadas de manera general a los trabajadores en activo siempre y cuando resulten compatibles a los pensionados.
 
@@ -920,13 +928,181 @@ Si falleciere antes de ejercer este derecho o de solventar el adeudo, sus benefi
 
 El Instituto proporcionará servicios de pre-pensión y post-pensión a los trabajadores, pensionistas y a sus familiares derechohabientes en los términos del reglamento que al efecto se expida.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE ENERO DE 1993)</small>
+
+### CAPITULO V BIS. Del Sistema de Ahorro para el Retiro
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-A.- Las dependencias y entidades están obligadas a enterar al Instituto, el importe de las aportaciones correspondientes al sistema de ahorro para el retiro, mediante la constitución de depósitos de dinero en favor de cada trabajador, en la forma y términos señalados en el presente Capítulo.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-B.- Las aportaciones a que se refiere el artículo anterior, serán por el importe equivalente al dos por ciento del sueldo básico de cotización del trabajador. Tratándose del ahorro para el retiro, el límite a que se refiere el artículo 15 de esta Ley, será el equivalente a veinticinco veces el salario mínimo general que rija en el Distrito Federal.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-C.- Las dependencias y entidades estarán obligadas a cubrir las aportaciones establecidas en este Capítulo, así como las relativas al Fondo de la Vivienda, mediante la entrega simultánea de los recursos correspondientes en instituciones de crédito, para su abono en las cuentas individuales del sistema de ahorro para el retiro abiertas a nombre de los trabajadores. A fin de que las instituciones de crédito puedan individualizar dichas aportaciones, las dependencias y entidades deberán proporcionar a las instituciones de crédito información relativa a cada trabajador, en la forma y con la periodicidad que al efecto determine la Secretaría de Hacienda y Crédito Público. Asimismo, las dependencias y entidades deberán hacer del conocimiento de las representaciones sindicales la relación de las aportaciones hechas a favor de sus agremiados.
+
+Las cuentas individuales del sistema de ahorro para el retiro tendrán dos subcuentas: la de ahorro para el retiro y la del Fondo de la Vivienda. La documentación y demás características de estas cuentas, no previstas en esta Ley, se sujetarán a las disposiciones de carácter general que expida el Banco de México.
+
+Las dependencias y entidades deberán llevar a cabo la apertura de la cuenta individual del sistema de ahorro para el retiro del trabajador en la o las instituciones de crédito que ellas elijan, dentro de las que tengan oficina en la plaza o, de no haberla, en la población más cercana.
+
+El trabajador que sea titular de una cuenta individual del sistema de ahorro para el retiro y tuviera una nueva relación de trabajo, habrá de proporcionar a la dependencia o entidad respectiva su número de cuenta, así como la denominación de la institución de crédito operadora de la misma.
+
+El trabajador no deberá tener más de una cuenta del sistema de ahorro para el retiro.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-D.- En caso de terminación de la relación laboral, la dependencia o entidad deberá entregar a la institución de crédito respectiva en favor del trabajador, la aportación correspondiente al bimestre de que se trate o, en su caso, la parte proporcional de dicha aportación en la fecha en que deba efectuar el pago de las aportaciones correspondientes a dicho bimestre.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-E.- El entero de las aportaciones se acreditará mediante la entrega que las dependencias y entidades habrán de efectuar a cada uno de sus trabajadores, del comprobante expedido por la institución de crédito en la que la dependencia o entidad haya enterado las aportaciones citadas, el que tendrá las características que señale la Secretaría de Hacienda y Crédito Público, mediante la expedición de disposiciones de carácter general.
+
+Las instituciones que reciban las aportaciones de las dependencias y entidades deberán proporcionar a éstas comprobantes individuales a nombre de cada trabajador dentro de un plazo de 30 días naturales, contado a partir de la fecha en que reciban las aportaciones citadas. Las dependencias y entidades estarán obligadas a entregarles a sus trabajadores dichos comprobantes junto con el último pago de sueldo de los meses de febrero, abril, junio, agosto, octubre y diciembre de cada año.
+
+La institución de crédito que no siendo la operadora de la cuenta individual del trabajador reciba aportaciones para abono en favor de éste, deberá entregar los recursos correspondientes a la institución que opera dicha cuenta para su acreditamiento en la misma, a más tardar el tercer día hábil bancario inmediato siguiente al de su recepción.
+
+El Comité Técnico del Sistema de Ahorro para el Retiro determinará la comisión que las dependencias, entidades y los trabajadores deberán cubrir a las instituciones de crédito que expidan comprobantes y no lleven las cuentas individuales respectivas.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-F.- La Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México, y mediante la expedición de disposiciones de carácter general, podrá autorizar formas y términos distintos a los establecidos, para el entero y la comprobación de las aportaciones correspondientes al ahorro para el retiro y al Fondo de la Vivienda.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-G.- El trabajador podrá notificar a la Secretaría de Hacienda y Crédito Público, por sí mismo o por medio de sus representantes sindicales, el incumplimiento de las obligaciones a cargo de las dependencias y entidades establecidas en este capítulo.
+
+Los trabajadores titulares de las cuentas del sistema de ahorro para el retiro y, en su caso sus beneficiarios, podrán a su elección, presentar directamente o a través de sus representantes sindicales sus reclamaciones contra las instituciones de crédito ante la Comisión Nacional Bancaria o hacer valer sus derechos en la forma que establecen las leyes. El procedimiento de conciliación a que se refiere este párrafo se sujetará a lo dispuesto en los artículos 119 y 120 de la Ley de Instituciones de Crédito.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-H.- Las instituciones de banca múltiple estarán obligadas a llevar las cuentas individuales del sistema de ahorro para el retiro en los términos de esta Ley, actuando por cuenta y orden del Instituto. Dichas cuentas deberán contener para su identificación el registro federal de contribuyentes del trabajador.
+
+Las instituciones de crédito informarán al público la ubicación de aquellas de sus sucursales en las cuales podrán abrirse las mencionadas cuentas, mediante publicaciones en periódicos de amplia circulación en la plaza de que se trate, en la inteligencia de que habrán de habilitar a este propósito cuando menos una sucursal por cada cinco que tengan establecidas en un mismo Estado de la República o en el Distrito Federal.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-I.- Las aportaciones que reciban las instituciones de crédito operadoras de las cuentas individuales, deberán ser depositadas a más tardar el cuarto día hábil bancario inmediato siguiente al de su recepción, en la cuenta que el Banco de México le lleve al Instituto. El propio Banco de México, actuando por cuenta del mencionado Instituto, deberá invertir dichos recursos en créditos a cargo del Gobierno Federal.
+
+El saldo de dichos créditos al fin de cada mes, se ajustará en una cantidad igual a la resultante de aplicar al saldo promedio diario mensual de los propios créditos la variación porcentual del "Indice Nacional de Precios al Consumidor" publicado por el Banco de México, correspondiente al mes inmediato anterior al del ajuste.
+
+Los créditos a que se refiere el presente artículo causarán intereses a una tasa no inferior al dos por ciento anual, pagaderos mensualmente mediante su reinversión en las respectivas cuentas. El cálculo de estos intereses se hará sobre el saldo promedio diario mensual de los propios créditos, ajustado siguiendo el mismo procedimiento previsto en el párrafo anterior.
+
+La tasa citada será determinada por la Secretaría de Hacienda y Crédito Público, cuando menos trimestralmente, en función de los rendimientos en términos reales de los valores a largo plazo que circulen en el mercado, emitidos por el Gobierno Federal o, en su defecto, por emisores de la más alta calidad crediticia. Esta determinación será dada a conocer mediante publicación en el Diario Oficial de la Federación y en periódicos de amplia circulación en el país.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-J.- El saldo de las subcuentas de ahorro para el retiro se ajustará y devengará intereses en los mismos términos y condiciones previstos para los créditos a que se refiere el artículo anterior. Dichos intereses se causarán a más tardar a partir del cuarto día hábil bancario inmediato siguiente a aquél en que las instituciones de crédito que lleven las cuentas individuales reciban las aportaciones, para abono de las cuentas respectivas, y serán pagaderos mediante su reinversión en las propias cuentas. Las instituciones de crédito podrán cargar mensualmente a las subcuentas de ahorro para el retiro, la comisión máxima por manejo de cuenta que determine la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México. La tasa de interés pagadera al trabajador, una vez descontada la mencionada comisión, no deberá ser inferior a la mínima señalada en el tercer párrafo del artículo 90 BIS-I.
+
+El saldo de la subcuenta del Fondo de la Vivienda de las cuentas individuales devengará intereses en los términos del artículo 106.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-K.- Las instituciones de crédito deberán informar al trabajador a quien le lleven su cuenta individual del sistema de ahorro para el retiro, el estado de la misma cuando menos anualmente, en la forma que al efecto determine el Banco de México.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-L.- El trabajador podrá, en cualquier tiempo, solicitar directamente a la institución depositaria el traspaso a otra institución de crédito, de los fondos de su cuenta individual del sistema de ahorro para el retiro, a fin de invertirlos en los términos establecidos en el presente Capítulo.
+
+Ello, sin perjuicio de que la dependencia o entidad pueda continuar enterando las aportaciones en la institución de su elección, la cual extenderá los comprobantes respectivos de conformidad con lo establecido en el artículo 90 BIS-E.
+
+Los trabajadores que decidan traspasar los fondos de su cuenta individual del sistema de ahorro para el retiro de una institución de crédito a otra, pagarán la comisión que determine el Banco de México. Dicha comisión será descontada a los trabajadores del importe de los fondos objeto del traspaso.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-M.- El trabajador tendrá derecho a solicitar a la institución de crédito el traspaso de parte o la totalidad de los fondos de la subcuenta de ahorro para el retiro de su cuenta individual, a sociedades de inversión administradas por instituciones de crédito, casas de bolsa, instituciones de seguros o sociedades operadoras.
+
+Sin perjuicio de lo anterior, la dependencia o entidad deberá continuar entregando las aportaciones respectivas en la institución de crédito de su elección, para abono en la subcuenta de ahorro para el retiro del trabajador.
+
+Para la organización y el funcionamiento de las sociedades de inversión que administren los recursos provenientes de las mencionadas subcuentas, se requiere previa autorización de la Secretaría de Hacienda y Crédito Público, quien la otorgará o denegará discrecionalmente. Estas sociedades de inversión se sujetarán en cuanto a: la recepción de recursos, el tipo de instrumentos en los que puedan invertirlos, la expedición de estados de cuenta y demás características de sus operaciones a las reglas de carácter general que expida la mencionada Secretaría, oyendo la opinión del Banco de México.
+
+En lo no expresamente previsto en este artículo y en las reglas a que se refiere el párrafo anterior, se estará a lo dispuesto en la Ley de Sociedades de Inversión.
+
+El trabajador tendrá derecho a solicitar a la sociedad de inversión, el traspaso de parte o la totalidad de los fondos que hubiere invertido en términos del presente artículo a otra de las sociedades de inversión referidas o a la institución de crédito que le lleve su cuenta individual del sistema de ahorro para el retiro. El trabajador que se encuentre en cualquiera de los supuestos previstos en el artículo 90 BIS-O deberá solicitar a la sociedad de inversión de que se trate, el traspaso de los fondos respectivos a la institución de crédito citada.
+
+En caso de que el trabajador solicite traspasos de fondos a sociedades de inversión, en los términos de este artículo, sólo responderán de los mismos y de sus rendimientos dichas sociedades de inversión.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-N.- El trabajador podrá retirar el saldo de la subcuenta de ahorro para el retiro de su cuenta individual, siempre y cuando por razones de una nueva relación laboral, deje de ser sujeto de aseguramiento obligatorio del Instituto y dicho saldo se abone en otra cuenta a su nombre en algún otro mecanismo del sistema de ahorro para el retiro de los que al efecto señale el Comité Técnico del Sistema de Ahorro para el Retiro.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-Ñ.- El trabajador tendrá derecho a solicitar la contratación de un seguro de vida, con cargo a los recursos de la subcuenta de ahorro para el retiro, en los términos que al efecto determine el Comité Técnico del Sistema de Ahorro para el Retiro.
+
+Las instituciones de seguros no podrán otorgar préstamos o créditos con cargo a dichos seguros.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-O.- El trabajador que cumpla sesenta y cinco años de edad, o adquiera el derecho a disfrutar de una pensión por jubilación, retiro por edad y tiempo de servicios, cesantía en edad avanzada, invalidez, incapacidad permanente total o incapacidad permanente parcial del 50% o más, en los términos de esta Ley o de algún plan de pensiones establecido por la dependencia o entidad de que se trate, tendrá derecho a que la institución de crédito que lleve su cuenta individual del sistema de ahorro para el retiro, le entregue por cuenta del Instituto, los fondos de la misma, situándoselos en la entidad financiera que el trabajador designe, a fin de adquirir una pensión vitalicia, o bien, entregándoselos al propio trabajador en una sola exhibición.
+
+El trabajador deberá solicitar por escrito a la institución de crédito la entrega de los fondos de su cuenta individual, acompañando los documentos que al efecto señale la Secretaría de Hacienda y Crédito Público.
+
+Los planes de pensiones a que se refiere el primer párrafo serán sólo los que reúnan los requisitos que establezca la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-P.- Tratándose de incapacidades temporales del trabajador, si éstas se prolongan por más tiempo que los periodos de prestaciones fijados por esta Ley, éste tendrá derecho a que la institución de crédito le entregue, por cuenta del instituto, una cantidad no mayor al 10 por ciento del saldo de la subcuenta de ahorro para el retiro de su cuenta individual. Para tal efecto, el trabajador deberá proceder en los términos a que se refiere el penúltimo párrafo del artículo 90 BIS-O.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-Q.- Durante el tiempo en que el trabajador deje de estar sujeto a una relación laboral, tendrá derecho a:
+
+I. Realizar aportaciones a su cuenta individual siempre y cuando las mismas sean por un importe no inferior al equivalente a cinco días de salario mínimo general vigente en el Distrito Federal. Lo anterior sin perjuicio de que las instituciones de crédito puedan recibir aportaciones por montos menores. Estas cuentas quedarán sujetas, en lo conducente, a las disposiciones establecidas en este Capítulo, y
+
+II. Retirar de la subcuenta de ahorro para el retiro de su cuenta individual una cantidad no mayor al 10 por ciento del saldo de la propia subcuenta.
+
+El derecho consignado en esta fracción, sólo podrán ejercerlo los trabajadores cuyo saldo de la subcuenta de ahorro para el retiro, registre a la fecha de la solicitud respectiva una cantidad no inferior equivalente al resultado de multiplicar por dieciocho el monto de la última aportación invertida en la subcuenta de que se trate, y siempre que acredite con los estados de cuenta correspondientes, no haber efectuado retiros durante los cinco años inmediatos anteriores a la fecha citada. El trabajador deberá presentar la solicitud respectiva de conformidad con lo establecido en el penúltimo párrafo del artículo 90 BIS-O.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-R.- Los trabajadores tendrán en todo tiempo el derecho de hacer aportaciones adicionales a su cuenta individual, ya sea por conducto de la dependencia o entidad al efectuarse el entero de las aportaciones, o mediante la entrega de efectivo o documentos aceptables para la institución que los reciba.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-S.- El trabajador titular de una cuenta individual del sistema de ahorro para el retiro, deberá a la apertura de la misma, designar beneficiarios. Lo anterior, sin perjuicio de que en cualquier tiempo el trabajador pueda sustituir a las personas que hubiere designado, así como modificar, en su caso, la proporción correspondiente a cada una de ellas.
+
+En caso de fallecimiento del trabajador, la institución de crédito respectiva entregará el saldo de la cuenta individual a los beneficiarios que el titular haya señalado por escrito para tal efecto, en la forma elegida por el beneficiario de entre las señaladas en el artículo 90 BIS-O. La designación de beneficiarios queda sin efecto si el o los designados mueren antes que el titular de la cuenta.
+
+A falta de los beneficiarios a que se refiere el párrafo anterior, dicha entrega se hará conforme a lo dispuesto en el artículo 501 fracciones I a IV de la Ley Federal del Trabajo. A falta de las personas a que se refieren estas fracciones, el Instituto será el beneficiario.
+
+Los beneficiarios deberán presentar solicitud por escrito a las instituciones de crédito, en los términos señalados en el penúltimo párrafo del artículo 90 BIS-O de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-T.- Las cantidades que correspondan a los trabajadores y a sus beneficiarios conforme al presente Capítulo, son inembargables. Sólo en los casos de obligaciones alimenticias a su cargo pueden embargarse por la autoridad judicial los recursos a que se refieren los artículos 90 BIS-O, 90 BIS-P, 90 BIS-Q fracción II y 90 BIS-S, hasta el 50 por ciento de su monto.
+
+Lo señalado en el párrafo anterior, no autoriza bajo ningún concepto el retiro de los recursos en plazos y condiciones distintos a los establecidos en este Capítulo.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-U.- El sistema de ahorro para el retiro a que se refiere este Capítulo contará con un Comité Técnico que estará integrado por siete miembros propietarios, designados: tres por la Secretaría de Hacienda y Crédito Público; dos por el Banco de México; uno por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; y uno por la Federación de Sindicatos de Trabajadores al Servicio del Estado. Por cada miembro propietario se designará un suplente. Asimismo, el Comité contará con un Secretario.
+
+Los miembros propietarios y suplentes del Comité serán designados por los titulares de las dependencias y entidades mencionadas en el párrafo anterior, de entre los servidores públicos que ocupen los cargos de Subsecretario o Director General de la Administración Pública Federal Centralizada, o su equivalente. En el caso de la Federación de Sindicatos de Trabajadores al Servicio del Estado corresponderá hacer la designación al Secretario General del Comité Ejecutivo Nacional.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-V.- Al Comité Técnico del Sistema de Ahorro para el Retiro corresponderá: a) actuar como órgano de consulta respecto de asuntos relativos al sistema de ahorro para el retiro de los trabajadores; b) en su caso, recomendar a las autoridades competentes la adopción de criterios y la expedición de disposiciones sobre dicho sistema; c) autorizar términos y condiciones particulares para el cumplimiento de obligaciones y el ejercicio de derechos a que se refiere este Capítulo siempre que, a juicio del Comité, el tratamiento concedido por virtud de dichas autorizaciones sea conveniente hacerlo extensivo a todas las personas que se encuentren en el mismo supuesto; d) resolver sobre las circunstancias específicas no previstas en el presente Capítulo, siempre que, a criterio del Comité, el tratamiento concedido por virtud de tales resoluciones sea conveniente hacerlo extensivo a todas las personas que se encuentren en el mismo supuesto; y e) las demás que les señalen otras disposiciones.
+
+El Comité publicará en el Diario Oficial de la Federación las autorizaciones y resoluciones a que se refiere el presente artículo.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 90 BIS-W.- El Comité sesionará cuando menos una vez cada cuatro meses y, en cualquier momento, a petición de alguno de sus miembros propietarios.
+
+Las reuniones del Comité serán presididas por el miembro propietario que al efecto se designe de entre los presentes.
+
+Quien presida tendrá voto de calidad en caso de que empate.
+
+Para que el Comité pueda sesionar válidamente, se requerirá la asistencia de cuatro de sus miembros, debiendo estar presentes representantes de la Secretaría de Hacienda y Crédito Público y del Banco de México. Las resoluciones se tomarán por mayoría de votos de los miembros presentes.
+
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO VI. Del Sistema Integral de Crédito
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
-
-### CAPITULO VII. De las prestaciones sociales y culturales
 
 #### SECCION PRIMERA. Créditos a Corto Plazo
 
@@ -940,9 +1116,9 @@ De acuerdo a los recursos aprobados por la Junta Directiva en el programa de pre
 
 I. A quienes hayan cubierto al Instituto las cuotas y aportaciones por más de un año;
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1993)</small>
 
-II. Mediante garantía del total de dichas cuotas y aportaciones a que se refieren las fracciones III de los artículos 16 y 21 de esta Ley;
+II. Mediante garantía del total de dichas cuotas y aportaciones a que se refieren las fracciones II de los artículos 16 y 21 de esta Ley;
 
 III. El monto del préstamo se regirá por las siguientes bases:
 
@@ -1014,9 +1190,9 @@ El plazo mayor que se considerará para estas adquisiciones, será de 5 años; e
 
 Para los fines a que se refieren las fracciones XI, inciso f) del apartado B) del artículo 123 Constitucional; el inciso h) de la fracción VI del artículo 43 de la Ley Federal de los Trabajadores al Servicio del Estado; y las fracciones XIII y XIV del artículo 3o. de esta Ley, se constituirá el Fondo de la Vivienda que tiene por objeto:
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1993)</small>
 
-I. Establecer y operar un sistema de financiamiento que permita a los trabajadores obtener crédito barato y suficiente, mediante préstamos con garantía hipotecaria. Estos préstamos se harán por una sola vez.
+I. Establecer y operar un sistema de financiamiento que permita a los trabajadores obtener crédito barato y suficiente, mediante préstamos con garantía hipotecaria, o bien, a través del otorgamiento de una garantía personal, en los casos que expresamente determine la Comisión Ejecutiva. Estos préstamos se harán por una sola vez.
 
 II. Coordinar y financiar programas de construcción de habitaciones destinadas a ser adquiridas en propiedad por los trabajadores que carezcan de ellas; y
 
@@ -1032,19 +1208,15 @@ I. Con las aportaciones que las dependencias y entidades enteren al Instituto po
 
 II. Con los bienes y derechos adquiridos por cualquier título; y
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
-
-III. Con el 0.50% que se deduzca del sueldo básico de los trabajadores que como cuota enteren en los términos del artículo 16 fracción II y el 0.50% que como aportación enteren las dependencias y entidades conforme al artículo 21 fracción II de la presente Ley; y
+III. (DEROGADA, D.O.F. 4 DE ENERO DE 1993)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 7 DE FEBRERO DE 1985)</small>
 
 IV. Con los rendimientos que se obtengan de las inversiones de los recursos a que se refieren las anteriores fracciones.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
-
 ###### Artículo 102.
 
-La Junta Directiva determinará el porcentaje que de los recursos del Fondo se destinará anualmente al financiamiento de adquisiciones de terrenos; de programas de casas habitación destinadas a ser adquiridas en propiedad por los trabajadores; a préstamos hipotecarios; y a la construcción, reparación, ampliación o mejoras de dichas casas; así como el pago de pasivos adquiridos por estos conceptos.
+(DEROGADO, D.O.F. 4 DE ENERO DE 1993)
 
 ###### Artículo 103.
 
@@ -1054,7 +1226,7 @@ Los recursos del Fondo se destinarán:
 
 I. Al otorgamiento de créditos a los trabajadores que sean titulares de depósitos constituidos a su favor por más de 18 meses en el Instituto. El importe de estos créditos deberá aplicarse a los siguientes fines:
 
-A) A la adquisición de terrenos para que se construyan en ellos viviendas o conjuntos habitacionales destinados a la habitación de los trabajadores;
+A) (DEROGADO, D.O.F. 4 DE ENERO DE 1993)
 
 B) A la adquisición de habitaciones cómodas e higiénicas, incluyendo aquéllas sujetas al régimen de condominio cuando carezca el trabajador de ellas;
 
@@ -1068,31 +1240,47 @@ D) Al pago del enganche, en el porcentaje que acuerde la Junta Directiva a propu
 
 E) Al pago de pasivos contraídos por los conceptos anteriores;
 
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Asimismo, el Instituto podrá descontar con la responsabilidad de las instituciones de crédito, créditos que éstas hayan otorgado para aplicarse a los conceptos señalados en los incisos anteriores.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 II. Al financiamiento de la construcción de conjuntos habitacionales para ser adquiridos por los trabajadores, mediante créditos que otorgue el Instituto, directamente o con la participación de entidades públicas y/o privadas.
 
-Estos financiamientos sólo se concederán por concurso tratándose de programas habitacionales aprobados por el Instituto y que se ajusten a las disposiciones aplicables en materia de construcción.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Asimismo, el Instituto podrá descontar con la responsabilidad de las instituciones de crédito, financiamientos que éstas hayan otorgado para la construcción de conjuntos habitacionales para los trabajadores.
 
 En todos los financiamientos que el Instituto otorgue para la realización de conjuntos habitacionales, establecerá la obligación para quienes los construyan, de adquirir con preferencia, los materiales que provengan de empresas ejidales, cuando se encuentren en igualdad de calidad y precio a los que ofrezcan otros proveedores.
 
 Los trabajadores tienen derecho a ejercer el crédito que se les otorgue, en la localidad que designen.
 
-III. Al pago de los depósitos que les corresponden a los trabajadores en los términos de Ley;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1993)</small>
+
+III. Al pago de capital e intereses de la subcuenta del Fondo de la Vivienda de los trabajadores en los términos de Ley;
 
 IV. A cubrir los gastos de administración, operación y vigilancia del fondo conforme a esta Ley;
 
-V. A la inversión en inmuebles estrictamente necesarios para sus fines;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1993)</small>
 
-VI. El precio de venta fijado por el Instituto, se tendrá como valor de avalúo de las habitaciones para efectos fiscales. Las donaciones y equipamiento urbano se causarán y cumplirán en los términos de las disposiciones legales aplicables; y
+V. A la inversión de inmuebles destinados a sus oficinas y de muebles estrictamente necesarios para el cumplimiento de sus fines; y
 
-VII. A las demás erogaciones relacionadas con su objeto.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1993)</small>
+
+VI. A las demás erogaciones relacionadas con su objeto.
+
+VII. (DEROGADA, D.O.F. 4 DE ENERO DE 1993)
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+El precio de venta fijado por la Junta Directiva, se tendrá como valor de avalúo de las habitaciones para efectos fiscales. Las donaciones y equipamiento urbano deberán realizarse conforme a las disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
 
 ###### Artículo 104.
 
-Para los efectos de lo previsto en el artículo 102 la asignación de los créditos y financiamientos con cargo al fondo, se hará conforme a lo dispuesto por la Junta Directiva buscando su adecuada distribución entre los diversos grupos de trabajadores, así como entre las distintas regiones y localidades del país.
-
-Con sujeción a dichos criterios y, en su caso, a las normas generales que establezca la Junta Directiva del Instituto, se determinarán las cantidades globales que se asignen a las distintas regiones y localidades del país y dentro de esta asignación, al financiamiento de los objetivos señalados en el artículo 100 de esta Ley.
+Las convocatorias para las subastas de financiamiento se formularán por la Comisión Ejecutiva, conforme a criterios que tomen debidamente en cuenta la equidad y su adecuada distribución entre los diversos grupos de trabajadores localizados en las distintas regiones y entidades del país, procurando la desconcentración de las zonas urbanas más densamente pobladas.
 
 ###### Artículo 105.
 
@@ -1102,51 +1290,47 @@ Los gobiernos de las Entidades Federativas y Municipios podrán celebrar conveni
 
 Los pensionistas gozarán de los beneficios que establece este artículo, con sujeción a los acuerdos generales que en los términos y dentro de los lineamientos de esta Ley dicte la Junta Directiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
 
 ###### Artículo 106.
 
-Las aportaciones al Fondo de la Vivienda previstas en la fracción VI del artículo 21 de esta Ley, se aplicarán en su totalidad a constituir en favor de los trabajadores depósitos que no devengarán intereses y que se sujetarán a las bases siguientes:
+Las aportaciones al Fondo de la Vivienda previstas en la fracción VI del artículo 21 de esta Ley, se efectuarán en los términos del artículo 90 BIS-C.
 
-I. Cuando un trabajador reciba financiamiento del Fondo, el 40% del importe de los depósitos que en su favor se hayan acumulado hasta esa fecha, se aplicará de inmediato como pago inicial del crédito concedido;
+El saldo de las subcuentas del Fondo de la Vivienda pagará intereses en función del remanente de operación del Fondo de la Vivienda.
 
-II. Durante la vigencia del crédito, se continuará aplicando el 40% de la aportación al pago de los abonos subsecuentes que deba hacer el trabajador;
+A tal efecto, la Comisión Ejecutiva del Fondo de la Vivienda procederá, al cierre de cada ejercicio, a estimar los elementos del activo y del pasivo del Fondo de acuerdo con los criterios aplicables y ajustándose a sanas técnicas contables, hecho lo cual se pasará a determinar el remanente de operación. No se considerarán remanentes de operación las cantidades que se lleven a las reservas previstas en esta Ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 7 DE FEBRERO DE 1985)</small>
+La Comisión Ejecutiva del Fondo de la Vivienda efectuará, a más tardar el quince de diciembre de cada año, una estimación del remanente de operación del citado Fondo para el año inmediato siguiente a aquél al que corresponda. El 50 por ciento de la estimación citada se abonará como pago provisional de intereses a las subcuentas del Fondo de la Vivienda, en doce exhibiciones pagaderas el último día de cada mes. Una vez determinado por la Comisión Ejecutiva, el remanente de operación del Fondo en los términos del párrafo anterior, se procederá en su caso, a efectuar el pago de intereses definitivo, lo que deberá hacerse a más tardar en el mes de marzo de cada año.
 
-Para la correcta aplicación del 40% a que se refiere esta fracción y la anterior, el Fondo está obligado a constituir reserva actuarial en los términos señalados en el artículo 182;
+Una vez que la Comisión Ejecutiva del Fondo de la Vivienda haya fijado tanto la estimación, como determinado el remanente de operación a que se refiere este artículo, deberá publicarlos en periódicos de amplia circulación en el país a más tardar el quinto día hábil siguiente al de la fijación de la estimación, así como al de la determinación del remanente citado.
 
-III. Una vez liquidado el crédito otorgado a un trabajador, se continuará aplicando el total de las aportaciones para integrar un nuevo depósito en su favor;
+La Comisión Ejecutiva del Fondo deberá observar en todo momento una política financiera y de créditos, dirigida a lograr que los ahorros individuales de los trabajadores, conserven permanentemente por lo menos, su valor real.
 
-IV. En caso de jubilación, incapacidad total permanente o de muerte, el trabajador o sus beneficiarios tendrán derecho a la entrega de un tanto más del saldo de los depósitos que se hubieran constituido a su favor, de acuerdo a lo establecido en esta Ley;
-
-V. Cuando el trabajador tenga 50 o más años de edad y deje de prestar sus servicios a las dependencias o entidades sujetas al régimen de beneficios que otorga esta Ley, se le entregarán los depósitos constituidos en su favor, en los términos de la misma; y
-
-VI. En el caso de que los trabajadores hubieran recibido crédito hipotecario con recursos del Fondo, la devolución de depósitos establecida en la Fracción IV anterior, se hará con deducción de la cantidad aplicaba (sic) al pago de crédito hipotecario en los términos de las fracciones I y II, por lo que la cantidad adicional a que se refiere el Artículo 112 de esta Ley será igual al monto del saldo resultante.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
 
 ###### Artículo 107.
 
-En la aplicación de los recursos del fondo se considerarán, entre otras, las siguientes circunstancias:
+El trabajador tendrá el derecho de elegir la vivienda nueva o usada, a la que se aplique el importe del crédito que reciba con cargo al Fondo de la Vivienda, misma que podrá o no ser parte de conjuntos habitacionales financiados con recursos de dicho Fondo.
 
-I. La demanda de habitación y las necesidades de vivienda, dando preferencia a los trabajadore (sic) de bajos sueldos o salarios, en las diversas regiones o localidades del País:
+Al momento en que el trabajador reciba crédito del Instituto, el saldo de la subcuenta del Fondo de la Vivienda de su cuenta individual, se aplicará como pago inicial de alguno de los conceptos a que se refieren los incisos de la fracción I del artículo 103 de la presente Ley.
 
-II. La factibilidad y posibilidades reales de llevar al cabo construcciones habitacionales;
+Durante la vigencia del crédito concedido al trabajador, las aportaciones que las dependencias o entidades efectúen a su favor se aplicarán a reducir el saldo insoluto a cargo del propio trabajador.
 
-III. El monto de las aportaciones al fondo proveniente de las diversas regiones y localidades del País; y
-
-IV. El número de trabajadores en las diferentes regiones o localidades del Territorio Nacional.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
 
 ###### Artículo 108.
 
-Para otorgar y fijar créditos a los trabajadores en cada región o localidad, se tomarán en cuenta el número de miembros de la familia de los trabajadores, la antigüedad, el sueldo o el salario o el ingreso conyugal si hay acuerdo entre los interesados y las características y precios de venta de las habitaciones disponibles. Para tal efecto, se establecerá por el Instituto un régimen para relacionar los créditos.
+La Junta Directiva expedirá las reglas conforme a las cuales se otorgarán en forma inmediata y sin exigir más requisitos que los previstos en las propias reglas, los créditos a que se refiere la fracción I del artículo 103. Dichas reglas deberán publicarse en el Diario Oficial de la Federación.
 
-Dentro de cada grupo de trabajadores en una clasificación semejante, si hay varios con el mismo derecho, se asignarán entre éstos los créditos individuales mediante un sistema de sorteos ante Notario Público.
+Las reglas antes citadas tomarán en cuenta, entre otros factores, la oferta y demanda regional de vivienda, el número de miembros de la familia de los trabajadores, los saldos de la subcuenta del Fondo de la Vivienda del trabajador de que se trate y el tiempo durante el cual se han efectuado aportaciones a la misma, si el trabajador es propietario o no de su vivienda, así como su salario o el ingreso conyugal si hay acuerdo de los interesados.
+
+Los trabajadores podrán recibir crédito del Instituto por una sola vez.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
 
 ###### Artículo 109.
 
-Con sujeción a los requisitos que fije la Junta Directiva, se determinarán; los montos máximos de los créditos que se otorguen, la relación de dichos montos con el sueldo o salarios de los trabajadores acreditados, la protección de los préstamos, así como los precios máximos de venta de las habitaciones cuya adquisición o construcción pueda ser objeto de los créditos que se otorguen con cargo al fondo.
+La Junta Directiva mediante disposiciones de carácter general que al efecto publique en el Diario Oficial de la Federación, determinará: los montos máximos de los créditos que otorgue el Instituto, en función de, entre otros factores, los ingresos de los trabajadores acreditados, así como el precio máximo de venta de las habitaciones cuya adquisición o construcción pueda ser objeto de los créditos citados.
 
 ###### Artículo 110.
 
@@ -1160,93 +1344,55 @@ Los créditos que se otorguen estarán cubiertos por un seguro para los casos de
 
 Los trabajadores, jubilados o pensionistas podrán manifestar expresamente y por escrito su voluntad ante el Instituto a través del Fondo de la Vivienda en el acto del otorgamiento del crédito o posteriormente, para que en caso de muerte, la adjudicación del inmueble se haga a quien hayan designado como beneficiario. Para que proceda el cambio de beneficiario, el trabajador, jubilado o pensionista deberá solicitarlo igualmente por escrito acompañado de dos testigos ante el Fondo; una vez presentada dicha solicitud, éste deberá comunicar al trabajador, jubilado o pensionista su consentimiento y el registro de los nuevos beneficiarios en un plazo no mayor de 45 días calendario. En caso de controversia el Instituto procederá exclusivamente a la liberación referida y se abstendrá de adjudicar el inmueble.
 
-A falta de beneficiario designado, la adjudicación del inmueble deberá hacerse conforme al orden de prelación que establece el Artículo 112.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+A falta de beneficiario designado, la adjudicación del inmueble deberá hacerse conforme al orden de prelación que establece el artículo 90 BIS-S.
 
 El Fondo solicitará al Registro Público de la Propiedad correspondiente, efectuar la inscripción de los inmuebles en favor de los beneficiarios, cancelando en consecuencia la que existiere a nombre del trabajador, jubilado o pensionista con los gravámenes o limitaciones de dominio que hubieren.
 
 ###### Artículo 112.
 
-En los casos de pensión o jubilación, de incapacidad total permanente o muerte, el trabajador o sus beneficiarios tendrán derecho a la entrega de un tanto más del saldo de los depósitos que se hubieren constituido a su favor, de acuerdo a lo establecido en esta Ley. En caso de muerte del trabajador, dicha entrega se hará a sus beneficiarios, en el orden de prelación siguiente:
+(DEROGADO, D.O.F. 4 DE ENERO DE 1993)
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
-
-I. Los que al efecto el trabajador, jubilado o pensionista haya designado para estos fines ante el Instituto;
-
-II. La viuda, el viudo y los hijos que dependan económicamente del trabajador en el momento de su muerte;
-
-III. Los ascendientes concurrirán con las personas mencionadas en la fracción anterior, cuando dependan económicamente del trabajador;
-
-IV. A falta de viuda o viudo, concurrirán con las personas señaladas, en las dos fracciones anteriores, el supérstite con quien el derechohabiente vivió como si fuera su cónyuge durante los cinco años que precedieron inmediatamente a su muerte o con el que tuvo hijos, siempre que ambos hubierán permanecido libres de matrimonio durante el concubinato, pero si al morir el trabajador tenía varias relaciones de esta clase, ninguna de las personas con quienes las tuvo tendrá derecho;
-
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
-
-V. Los hijos que no dependan económicamente del trabajador;
-
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
-
-VI. Los ascendientes que no dependan económicamente del trabajador; y
-
-> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
-
-VII. Los colaterales hasta el segundo grado.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 7 DE FEBRERO DE 1985)</small>
-
-Para garantizar el pago de los depósitos a que este artículo se refiere, el Instituto está obligado a constituir una reserva actuarial, en los términos señalados por el artículo 182.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1993)</small>
 
 ###### Artículo 113.
 
-Para los efectos de la primera parte de la fracción IV del artículo 106 de la presente Ley, se entenderá que un trabajador ha dejado de prestar servicios cuando transcurra un periodo mínimo de doce meses sin laborar en ninguna de las dependencias o entidades por suspensión temporal de los efectos del nombramiento o cese, a menos que exista litigio pendiente sobre la subsistencia de su designación o nombramiento.
+Cuando un trabajador deje de prestar sus servicios a las dependencias o entidades sujetas al régimen de beneficios que otorga esta Ley y hubiere recibido un préstamo a cargo del fondo, se le otorgará una prórroga sin causa de intereses en los pagos de amortización que tenga que hacer por concepto de capital e intereses. La prórroga tendrá un plazo máximo de doce meses y terminará anticipadamente cuando el trabajador vuelva a prestar servicios a alguna de las dependencias o entidades públicas.
 
-Cuando un trabajador se encuentre en el caso que prevé el párrafo anterior y hubiere recibido un préstamo a cargo del fondo, se le otorgará una prórroga sin causa de intereses en los pagos de amortización que tenga que hacer por concepto de capital e intereses. La prórroga tendrá un plazo máximo de doce meses y terminará anticipadamente cuando el trabajador vuelva a prestar servicios a alguna de las entidades u organismos públicos.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Para los efectos del párrafo anterior, también se entenderá que un trabajador ha dejado de prestar servicios cuando transcurra un período mínimo de doce meses sin laborar en ninguna de las dependencias o entidades por suspensión temporal de los efectos del nombramiento o cese, a menos que exista litigio pendiente sobre la subsistencia de su designación o nombramiento.
 
 Las dependencias y entidades de la Administración Pública a que se refiere esta Ley seguirán haciendo los depósitos del 5% para el Fondo de la Vivienda, sobre los sueldos o salarios de los trabajadores que disfruten licencia por enfermedad en los términos del artículo 111 de la Ley Federal de los Trabajadores del Estado y 23 de la presente Ley, así como de los que sufran suspensión temporal de los efectos de su nombramiento conforme a las fracciones I y II del artículo 45 de la citada Ley Federal de los Trabajadores del Estado, debiendo suspenderse dicho depósito a partir de la fecha en que cese la relación de trabajo.
 
-La existencia de los supuestos a que se refiere este artículo y el anterior, deberán comprobarse ante el Instituto.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+La existencia del supuesto a que se refiere este artículo deberá comprobarse ante el Instituto.
 
 ###### Artículo 114.
 
-El trabajador que deje de prestar servicios en la dependencia o entidad correspondiente conforme a lo previsto en el artículo anterior, y por quien la dependencia o entidad haya hecho aportaciones, tiene derecho a optar por la devolución de sus depósitos o por la continuación de sus derechos y obligaciones con el fondo. En este ultimo caso, la base para las aportaciones a su cargo, será el sueldo o salario promedio que hubiere percibido durante los últimos seis meses.
-
-El derecho a continuar dentro del régimen del fondo se pierde si no se ejercita mediante solicitud por escrito, presentada de acuerdo con lo que establezca el Reglamento correspondiente, dentro de un plazo de seis meses contados a partir de la fecha en que, conforme a lo dispuesto por el artículo anterior, se considera que ha dejado de existir la prestación de servicios respectiva.
+(DEROGADO, D.O.F. 4 DE ENERO DE 1993)
 
 ###### Artículo 115.
 
-La continuación voluntaria de los trabajadores dentro del régimen del fondo, a que se refiere el artículo anterior termina:
-
-I. Por la reanudación de servicios en alguna dependencia o entidad de la administración pública;
-
-II. Por declaración del Instituto, aceptada por el trabajador; y
-
-III. Porque el trabajador deje de constituir los depósitos durante seis meses.
+(DEROGADO, D.O.F. 4 DE ENERO DE 1993)
 
 ###### Artículo 116.
 
-A los trabajadores que se pensionen o jubilen se les aplicará en lo conducente, y conforme a lo que establezca el Reglamento respectivo, lo dispuesto en los dos artículos anteriores.
+(DEROGADO, D.O.F. 4 DE ENERO DE 1993)
 
-En el caso de que opten por permanecer voluntariamente dentro del régimen del fondo, el Instituto les descontará de sus pensiones las aportaciones a cargo del trabajador pensionado o jubilado, con sujeción a las normas que en materia de aportaciones y entregas de descuentos establece esta Ley.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
 
 ###### Artículo 117.
 
-Los créditos a los trabajadores a que se refiere la fracción I del artículo 103, devengarán intereses sobre saldos insolutos, debiéndose recuperar en una cantidad de cuando menos el 25% del sueldo básico, sobre las siguientes bases:
+El saldo de los créditos otorgados a los trabajadores a que se refiere la fracción I del artículo 103 se revisará cada vez que se modifiquen los salarios mínimos, incrementándose en la misma proporción en que aumente el salario mínimo general que rija en el Distrito Federal.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+Asimismo, los créditos citados devengarán intereses sobre el saldo ajustado de los mismos a la tasa que determine la Junta Directiva. Dicha tasa no será menor del cuatro por ciento anual sobre saldos insolutos.
 
-A) Tratándose de créditos hipotecarios, el interés anual será del 4% sobre saldos insolutos; y
+Las cantidades que se descuenten a los trabajadores con motivo de los créditos a que alude el presente artículo, no podrán exceder del 30 por ciento de su sueldo básico.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
-
-B) En el caso de adjudicación de vivienda, se pagará un interés del 4% anual por la cantidad equivalente al monto máximo aprobado para el crédito hipotecario; por la cantidad que exceda de dicho monto los intereses que deberán pagar los beneficiarios serán fijados por la Junta Directiva, a propuesta de la Comisión Ejecutiva del Fondo de la Vivienda.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
-
-Tratándose de créditos para adquisición o construcción de habitaciones, su plazo no será menor de 10 años, pudiendo otorgarse un plazo máximo de 20 años. Para los otros créditos mencionados en la citada Fracción I, se podrán fijar plazos menores.
-
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
-
-Los financiamientos señalados en la fracción II del mismo artículo, se otorgarán a la tasa de interés y condiciones que fije la Junta Directiva tomando como referencia las que para créditos similares en materia de vivienda de interés social establezca el Banco de México, y a un plazo máximo de dieciocho meses.
+Los créditos se otorgarán a un plazo no mayor de 30 años.
 
 ###### Artículo 118.
 
@@ -1260,25 +1406,29 @@ El Instituto gestionará los convenios correspondientes con los gobiernos de los
 
 ###### Artículo 119.
 
-Los derechos de los trabajadores titulares de depósitos constituidos en el fondo o de sus causahabientes o beneficiarios, prescribirán en un plazo de cinco años.
+(DEROGADO, D.O.F. 4 DE ENERO DE 1993)
 
 ###### Artículo 120.
 
 El Instituto no podrá intervenir en la administración, operación o mantenimiento de conjuntos habitacionales constituidos con recursos del fondo, ni sufragar los gastos correspondientes a estos conceptos.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
 ###### Artículo 121.
 
-Los depósitos constituidos en favor de los trabajadores para la integración del fondo, así como la cantidad adicional a que se refiere el artículo 112 de esta Ley, estarán exentos de toda clase de impuestos y no podrán ser objeto de cesión o embargo, excepto cuando se trate de los créditos otorgados con cargo al fondo.
+Las aportaciones al Fondo de la Vivienda previstas en esta Ley, así como los intereses de las subcuentas del Fondo de la Vivienda a que se refiere el artículo 106, estarán exentos de toda clase de impuestos.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
 
 ###### Artículo 122.
 
-El Instituto deberá mantener en efectivo o en depósitos bancarios a la vista, las cantidades estrictamente necesarias para la realización de sus operaciones diarias, relacionadas con el Fondo de la Vivienda. Los recursos del Fondo, en tanto se apliquen a los fines señalados en el artículo anterior, deberán mantenerse en el Banco de México, invertidos en valores gubernamentales de inmediata realización.
+Las aportaciones al Fondo de la Vivienda, así como los descuentos para cubrir los créditos que otorgue el Instituto, que reciban las instituciones de crédito conforme a esta Ley, deberán ser invertidos a más tardar el cuarto día hábil bancario inmediato siguiente al de su recepción, en la cuenta que el Banco de México le lleve al Instituto por lo que respecta al Fondo de la Vivienda. Dichos recursos deberán invertirse, en tanto se aplican a los fines señalados en el artículo 103, en créditos a cargo del Gobierno Federal, a través del Banco de México.
+
+Sin perjuicio de lo anterior, el Instituto, con cargo a dicha cuenta, podrá mantener en efectivo o en depósitos bancarios a la vista las cantidades estrictamente necesarias para la realización de sus operaciones diarias con respecto al Fondo de la Vivienda.
 
 ###### Artículo 123.
 
-El Instituto sólo podrá realizar con cargo al Fondo las inversiones en los bienes muebles e inmuebles estrictamente necesarias para el cumplimiento de los fines del mismo fondo.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+(DEROGADO, D.O.F. 4 DE ENERO DE 1993)
 
 > <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
@@ -1296,13 +1446,69 @@ Son obligaciones de las dependencias y entidades:
 
 I. Inscribir a sus trabajadores y beneficiarios del Fondo;
 
-II. Efectuar las aportaciones en los términos de la Ley Federal de los Trabajadores al Servicio del Estado, de la presente Ley y de sus Reglamentos; y
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1993)</small>
+
+II. Efectuar las aportaciones al Fondo de la Vivienda en instituciones de crédito, para su abono en la subcuenta del Fondo de la Vivienda de las cuentas individuales del sistema de ahorro para el retiro abiertas a nombre de los trabajadores en los términos de la presente Ley y sus reglamentos, así como en lo conducente, conforme a lo previsto en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 Constitucional; y
 
 III. Hacer los descuentos a sus trabajadores en sus sueldos y salarios, conforme a lo previsto en la fracción VI del artículo 38 de la Ley Federal de los Trabajadores al Servicio del Estado, que se destinen al pago de abonos para cubrir préstamos otorgados por el Instituto, así como enterar el importe de dichos descuentos en la forma y términos que establecen esta Ley y sus Reglamentos.
 
-Las aportaciones de las dependencias y entidades, así como los descuentos que el Instituto ordene hacer a los trabajadores por adeudos derivados de créditos otorgados con recursos del Fondo, serán enterados quincenalmente al Instituto.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+El pago de las aportaciones señaladas en la fracción II de este artículo, será por bimestres vencidos, a más tardar el día diecisiete de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año. Las dependencias y entidades efectuarán las entregas de los descuentos a que se refiere la fracción III del presente artículo en la institución de crédito de su elección.
 
 Los servidores públicos o trabajadores de las dependencias o entidades de la Administración Pública responsables de enterar las aportaciones y descuentos, en caso de incumplimiento, serán sancionados en los términos de lo dispuesto en el Título Sexto de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 126 BIS-A.- Los financiamientos para la construcción de conjuntos de habitaciones para ser adquiridas por los trabajadores, se adjudicarán a las personas que estén inscritas en el registro de constructores que al efecto lleve el Instituto, a través de subastas públicas, mediante convocatoria para que libremente se presenten proposiciones en sobre cerrado, que será abierto públicamente.
+
+El saldo insoluto de los financiamientos para la construcción de conjuntos de habitaciones que otorgue el Instituto, no podrá exceder de un vigésimo del saldo insoluto de los créditos a que se refiere la fracción I del artículo 103.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 126 BIS-B.- Las convocatorias, que podrán referirse a uno o más conjuntos habitacionales, se publicarán en uno de los diarios de mayor circulación en el país y simultáneamente, cuando menos en uno de la entidad federativa donde se ejecutarán las obras y contendrán, como mínimo, los requisitos siguientes:
+
+I. La descripción general de la obra que se desee ejecutar;
+
+II. La tasa de interés mínima a pagar por el financiamiento de que se trate;
+
+III. Las condiciones que deberán cumplir los interesados, particularmente en cuanto al tiempo de terminación de la obra;
+
+IV. El plazo para la inscripción de interesados, que no podrá ser menor de 30 días hábiles contados a partir de la fecha de la publicación de la convocatoria;
+
+V. El plazo en que el Instituto autorizará a las personas inscritas a participar en la subasta; y
+
+VI. El lugar, fecha y hora en que se celebrará el acto de la apertura de los sobres que contengan las posturas.
+
+En el ejercicio de sus respectivas atribuciones, las Secretarías de la Contraloría General de la Federación y de Hacienda y Crédito Público, podrán intervenir en todo el proceso de adjudicación del financiamiento.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 126 BIS-C.- Las personas que participen en las subastas, deberán garantizar al Instituto: las posturas y, en su caso la correcta inversión de los recursos del financiamiento que reciban y el pago del financiamiento.
+
+La Junta Directiva fijará las bases y porcentajes a los que deberán sujetarse las garantías que deban constituirse.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 126 BIS-D.- La Junta Directiva determinará la sobretasa de interés que causarán los financiamientos a partir de su otorgamiento, en caso de que las viviendas construidas en conjuntos habitacionales financiados por el Instituto se vendan a precios superiores a aquéllos que se determinen para el conjunto de que se trate, en términos del artículo 109 de esta Ley o el conjunto respectivo no se concluya en los tiempos establecidos.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 126 BIS-E.- No podrán obtener financiamiento del Instituto las personas siguientes:
+
+I. Los miembros de la Junta Directiva, de la Comisión Ejecutiva del Fondo de la Vivienda y los trabajadores del Instituto, sus cónyuges o parientes consanguíneos o por afinidad hasta el segundo grado, así como aquéllas en las que participen como accionistas, administradores, gerentes, apoderados o comisarios. La Junta Directiva podrá autorizar excepciones a lo dispuesto en esta fracción, mediante reglas de carácter general aprobadas por lo menos por dos miembros representantes del Estado y dos de la Federación de Sindicatos de Trabajadores al Servicio del Estado; y
+
+II. Las que se encuentren en incumplimiento respecto de la ejecución de otra u otras construcciones de conjuntos habitacionales financiados por el Instituto.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 126 BIS-F.- La adjudicación del financiamiento obligará al Instituto y a la persona en quien la misma recaiga, a formalizar el documento relativo dentro de los 20 días hábiles siguientes al de la adjudicación.
+
+Si el interesado no firmare el contrato por causas no imputables al Instituto, perderá en favor del propio Instituto la garantía que hubiere otorgado, el cual podrá, sin necesidad de un nuevo procedimiento, adjudicar el financiamiento al segundo participante en la subasta respectiva, en los términos de su propuesta y así sucesivamente.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 126 BIS-G.- Los promotores de obras financiadas por el Instituto responderán ante los adquirentes de los defectos que resultaren en las mismas, de los vicios ocultos y de cualesquiera otra responsabilidad en que hubieren incurrido, en los términos de las disposiciones aplicables.
 
 > <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCION SEGUNDA DEL CAPITULO VII], D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
@@ -1400,7 +1606,7 @@ Los arrendamientos, con opción de venta, de habitaciones a los trabajadores y p
 
 (REUBICADO [N. DE E. ANTES CAPITULO VIII], D.O.F. 24 DE DICIEMBRE DE 1986)
 
-### CAPITULO I. Continuación Voluntaria en el Régimen Obligatorio del Seguro de Enfermedades, Maternidad y Medicina Preventiva
+### CAPITULO VII. De las prestaciones sociales y culturales
 
 #### SECCION PRIMERA. Prestaciones Sociales
 
@@ -1452,7 +1658,7 @@ VII. Los demás que acuerde la Junta Directiva.
 
 ## TITULO TERCERO. Del Régimen Voluntario
 
-### CAPITULO II. La Incorporación Voluntaria al Régimen Obligatorio
+### CAPITULO I. Continuación Voluntaria en el Régimen Obligatorio del Seguro de Enfermedades, Maternidad y Medicina Preventiva
 
 ###### Artículo 142.
 
@@ -1478,7 +1684,7 @@ III. Ingresar nuevamente al régimen obligatorio de esta Ley.
 
 El registro de familiares derechohabientes y las demás reglas del seguro contratado se ajustarán a las disposiciones aplicables previstas en esta Ley.
 
-### CAPITULO III. Disposiciones Especiales
+### CAPITULO II. La Incorporación Voluntaria al Régimen Obligatorio
 
 ###### Artículo 146.
 
@@ -1490,7 +1696,7 @@ En los convenios de incorporación que incluyan reconocimiento de antigüedad de
 
 Igualmente en los casos de sustitución del régimen de seguridad social, las reservas constituidas podrán transferirse en favor del Instituto en la forma y términos en que se convengan.
 
-### CAPITULO I. Funciones
+### CAPITULO III. Disposiciones Especiales
 
 ###### Artículo 148.
 
@@ -1500,7 +1706,7 @@ Igual disposición se observará en lo relativo a las incorporaciones señaladas
 
 ## TITULO CUARTO. De las Funciones y Organización del Instituto
 
-### CAPITULO II. Organos de Gobierno
+### CAPITULO I. Funciones
 
 ###### Artículo 149.
 
@@ -1532,7 +1738,7 @@ X. Realizar toda clase de actos jurídicos y celebrar los contratos que requiera
 
 XI. Las demás funciones que le confieran esta Ley y sus Reglamentos.
 
-### CAPITULO III. Patrimonio
+### CAPITULO II. Organos de Gobierno
 
 ###### Artículo 151.
 
@@ -1582,7 +1788,9 @@ I. Planear las operaciones y servicios del Instituto;
 
 II. Examinar para su aprobación y modificación, el programa institucional y los programas operativos anuales de acuerdo con lo establecido en la Ley de Planeación, así como los estados financieros del Instituto;
 
-III. Decidir las inversiones del Instituto y determinar las reservas actuariales y financieras que deban constituirse para asegurar el otorgamiento de las prestaciones y servicios que determina esta Ley así como también para la operación del Fondo de la Vivienda; y el cumplimiento de sus fines;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1993)</small>
+
+III. Decidir las inversiones del Instituto, excepto tratándose del sistema de ahorro para el retiro, y determinar las reservas actuariales y financieras que deban constituirse para asegurar el otorgamiento de las prestaciones y servicios que determina esta Ley, así como el cumplimiento de sus fines;
 
 > <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
@@ -1618,9 +1826,13 @@ A) Examinar y en su caso aprobar, dentro de los últimos tres meses del año, el
 
 B) Examinar y en su caso aprobar, en el primer bimestre del año, el informe de actividades de la Comisión Ejecutiva del Fondo y, dentro de los cuatro primeros meses del año, los estados financieros que resulten de la operación en el último ejercicio;
 
-C) Establecer las reglas para el otorgamiento de créditos y para la operación de los depósitos relacionados con el Fondo;
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
 
-D) Examinar y aprobar anualmente el presupuesto de gastos de administración, operación y vigilancia del fondo, los que no deberán exceder del uno y medio por ciento de los recursos totales que maneje;
+C) Establecer las reglas para el otorgamiento de créditos;
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+D) Examinar y aprobar anualmente el presupuesto de gastos de administración, operación y vigilancia del Fondo, los que no deberán exceder del 0. 75 por ciento de los recursos totales que maneje;
 
 E) Determinar las reservas que deben constituirse para asegurar la operación del fondo y el cumplimiento de los demás fines y obligaciones del mismo. Estas reservas deberán invertirse en valores de Instituciones Gubernamentales;
 
@@ -1652,11 +1864,11 @@ Los acuerdos de la Junta Directiva se tomarán por mayoría de votos de los miem
 
 A falta del Presidente de la Junta, las sesiones serán presididas por uno de los representantes del Estado que se elija por los presentes.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
 ###### Artículo 162.
 
-(DEROGADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 1985)
-
-Las resoluciones de la Junta Directiva que afecten intereses particulares, podrán recurrirse ante la misma dentro de los treinta días siguientes. Si la Junta sostiene su resolución, los interesados podrán acudir ante la Secretaría de Programación y Presupuesto dentro de un término de treinta días para que ésta resuelva en definitiva.
+Las resoluciones de la Junta Directiva que afecten intereses particulares, podrán recurrirse ante la misma dentro de los treinta días siguientes. Si la Junta sostiene su resolución, los interesados podrán acudir ante la Secretaría de Hacienda y Crédito Público dentro de un término de treinta días para que ésta resuelva en definitiva.
 
 ###### Artículo 163.
 
@@ -1690,6 +1902,8 @@ XII. Las demás que le fijen las leyes o los reglamentos y aquellas que expresam
 
 El Director General será auxiliado por los trabajadores de confianza que al efecto señale el Reglamento Interior y que a propuesta del mismo, nombre la Junta Directiva. La Junta Directiva determinará cuál de estos servidores públicos suplirá al Director en sus faltas temporales.
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO EN EL ARTICULO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO PUBLICADO EN EL D.O.F. 4 DE ENERO DE 1993, SE SUSTITUYEN LAS REFERENCIAS QUE EN ESTA LEY SE HACEN A LA SECRETARIA DE PROGRAMACION Y PRESUPUESTO, POR SECRETARIA DE HACIENDA Y CREDITO PUBLICO; SIN EMBARGO, EN EL PRESENTE CASO SE OMITE TAL SUSTITUCION, EN VIRTUD DEL CONTENIDO DE ESTE ARTICULO.</small>
+
 ###### Artículo 165.
 
 La Comisión Ejecutiva del Fondo de la Vivienda estará integrada por nueve miembros; uno designado por la Junta Directiva, a propuesta del Director del Instituto, el cual hará las veces de Vocal Ejecutivo de la Comisión; un vocal nombrado por cada una de las siguientes Dependencias: Secretaría de Programación y Presupuesto; Secretaría de Hacienda y Crédito Público; Secretaría del Trabajo y Previsión Social y Secretaría de Desarrollo Urbano y Ecología y cuatro vocales más nombrados a propuesta de la Federación de Sindicatos de los Trabajadores al Servicio del Estado. Por cada vocal propietario se designará un suplente.
@@ -1720,15 +1934,21 @@ Las sesiones serán válidas con la asistencia de por lo menos cinco de sus miem
 
 La Comisión Ejecutiva, tendrá las atribuciones y funciones siguientes:
 
-I. Decidir, a propuesta del Vocal Ejecutivo, las inversiones de los recursos y financiamientos del fondo;
+I. (DEROGADA, D.O.F. 4 DE ENERO DE 1993)
 
 II. Resolver sobre las operaciones del Fondo, excepto aquellas que por su importancia ameriten acuerdo expreso de la Junta Directiva, la que deberá acordar lo conducente dentro de los quince días siguientes a la fecha en que se haga la petición correspondiente;
 
 III. Examinar, en su caso aprobar y presentar, a la Junta Directiva, los presupuestos de ingresos y egresos, los planes de labores y financiamientos, así como los estados financieros y el informe de labores formulados por el Vocal Ejecutivo;
 
-IV. Presentar a la Junta Directiva para su aprobación el presupuesto de gastos de administración, operación y vigilancia del Fondo, los que no deberán exceder del uno y medio por ciento de los recursos totales que administre;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1993)</small>
 
-V. Proponer a la Junta Directiva las reglas para el otorgamiento de créditos, así como para la operación de los depósitos a que se refiere esta Ley; y
+IV. Presentar a la Junta Directiva para su aprobación, el presupuesto de gastos de administración, operación y vigilancia del Fondo, los que no deberán exceder del 0.75 por ciento de los recursos totales que administre.
+
+La Comisión Ejecutiva procurará que los gastos a que se refiere la presente fracción sean inferiores al límite señalado.
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1993)</small>
+
+V. Proponer a la Junta Directiva las reglas para el otorgamiento de créditos; y
 
 VI. Las demás que le señale la Junta Directiva.
 
@@ -1746,11 +1966,15 @@ IV. Presentar a la Comisión Ejecutiva, a más tardar el último día de septiem
 
 V. Presentar a la consideración de la Comisión Ejecutiva, un informe mensual sobre las actividades de la propia Comisión;
 
-VI. Presentar a la Comisión Ejecutiva para su consideración y en su caso aprobación, los proyectos concretos de financiamiento;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1993)</small>
+
+VI. Presentar a la Comisión Ejecutiva para su consideración y en su caso aprobación, los programas de financiamientos y créditos a que se refieren las fracciones I y II del artículo 103, a ser subastados y otorgados, según corresponda, por el Instituto.
 
 VII. Proponer al Director General los nombramientos y remociones del personal técnico y administrativo de la Comisión, dando la intervención al Sindicato del Instituto que en derecho corresponde; y
 
 VIII. Las demás que le señalen esta Ley y sus disposiciones reglamentarias.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO EN EL ARTICULO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO PUBLICADO EN EL D.O.F. 4 DE ENERO DE 1993, SE SUSTITUYEN LAS REFERENCIAS QUE EN ESTA LEY SE HACEN A LA SECRETARIA DE PROGRAMACION Y PRESUPUESTO, POR SECRETARIA DE HACIENDA Y CREDITO PUBLICO; SIN EMBARGO, EN EL PRESENTE CASO SE OMITE TAL SUSTITUCION, EN VIRTUD DEL CONTENIDO DE ESTE ARTICULO.</small>
 
 ###### Artículo 171.
 
@@ -1798,9 +2022,7 @@ VI. Designar a un Auditor Externo que auxilie a la Comisión en las actividades 
 
 VII. Las que le fijen el Reglamento Interior del Instituto y las demás disposiciones legales aplicables.
 
-### CAPITULO IV. Reservas e Inversiones
-
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+### CAPITULO III. Patrimonio
 
 ###### Artículo 174.
 
@@ -1864,13 +2086,11 @@ El régimen financiero que se seguirá para las prestaciones médicas de los seg
 
 Para las pensiones del seguro de riesgos del trabajo y el seguro de jubilación, de retiro por edad y tiempo de servicios, invalidez, muerte e indemnización global y cesantía en edad avanzada, será el régimen financiero denominado de primas escalonadas.
 
-(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985) (F. DE E., 29 DE MARZO DE 1985)
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
 
 ###### Artículo 182.
 
-La constitución de las reservas actuariales será prioritaria sobre las financieras, con el fin de garantizar el pago de los compromisos de pensiones, indemnizaciones globales, amortizaciones de créditos otortados (sic) a los trabajadores en los términos de las fracciones I y II del artículo 103 de esta Ley, y entrega de depósitos prevista en el artículo 112 de este propio ordenamiento.
-
-Las reservas actuariales serán invertidas en las condiciones generales que proponga el Gobierno Federal por conducto de la Secretaría de Hacienda y Crédito Público.
+La constitución de las reservas actuariales será prioritaria sobre las financieras, con el fin de garantizar el pago de los compromisos de pensiones, indemnizaciones globales, amortizaciones de créditos otorgados a los trabajadores en los términos de las fracciones I y II del artículo 103 de esta Ley, y entrega de depósitos prevista en el artículo 90 BIS-S de este propio ordenamiento.
 
 ###### Artículo 183.
 
@@ -1897,6 +2117,10 @@ Los créditos respecto de los cuales el Instituto tenga el carácter de acreedor
 ###### Artículo 188.
 
 Las obligaciones que en favor del Instituto señala la presente Ley, a cargo de las dependencias o entidades prescribirán en el plazo de diez años contados a partir de la fecha en que sean exigibles. La prescripción se interrumpirá por cualquier gestión de cobro.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
+Artículo 188 BIS.- El derecho del trabajador y, en su caso, beneficiarios, a recibir los recursos de su cuenta individual del sistema de ahorro para el retiro en los términos descritos en los artículos 90 Bis-O, 90 Bis-P, 90 Bis-Q y 90 Bis-S de la presente Ley, prescribe en favor del Instituto a los 10 años de que sean exigibles.
 
 ## TITULO SEXTO. De las responsabilidades y sanciones
 
@@ -1928,9 +2152,11 @@ Cuando se finque una responsabilidad pecuniaria a cargo de un trabajador o diver
 
 El Instituto tomará las medidas pertinentes en contra de quienes indebidamente aprovechen o hagan uso de los derechos o beneficios establecidos por esta Ley, y ejercitará ante los Tribunales las acciones que correspondan, presentando las denuncias o querellas, y realizará todos los actos y gestiones que legalmente procedan, así como contra quien cause daños o perjuicios a su patrimonio o trate de realizar cualquiera de los actos anteriormente enunciados.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
+
 ###### Artículo 196.
 
-La Secretaría de Programación y Presupuesto queda facultada para interpretar administrativamente la presente Ley, por medio de disposiciones generales que deberán publicarse en el Diario Oficial de la Federación.
+La Secretaría de Hacienda y Crédito Público queda facultada para interpretar administrativamente la presente Ley, por medio de disposiciones generales que deberán publicarse en el Diario Oficial de la Federación.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -2013,3 +2239,27 @@ II. 2% de la misma pensión, a cargo de la dependencia o entidad.
 En el caso de que se trate de las pensiones mínimas, el pago de la cotización íntegra del 8% se distribuirá por partes iguales entre la dependencia o entidad correspondiente y el Instituto.
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 4 DE ENERO DE 1993.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en el inciso d) fracción XV del artículo 157, que entrará en vigor a partir del 1o. de enero de 1997.
+
+SEGUNDO.- Se abroga el Decreto por el que se establece en favor de los trabajadores al servicio de la Administración Pública Federal que estén sujetos al régimen obligatorio de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, un sistema de ahorro para el retiro, publicado en el Diario Oficial de la Federación el 27 de marzo de 1992.
+
+Los depósitos constituidos en favor de los trabajadores en términos del decreto mencionado en el párrafo anterior, se sujetarán a lo establecido en la presente Ley.
+
+TERCERO.- Por lo que hace a los depósitos constituidos como a los créditos otorgados con cargo al Fondo de la Vivienda, con anterioridad a la entrada en vigor del presente decreto, les continuarán siendo aplicables las disposiciones entonces vigentes.
+
+En un plazo de 14 meses contado a partir de la entrada en vigor del presente decreto, el Instituto deberá calcular el saldo de los depósitos constituidos a nombre de cada trabajador con las aportaciones hechas a su favor al Fondo de la Vivienda. Esta información deberá proporcionarse a los trabajadores en la forma y términos que determine la Junta Directiva.
+
+CUARTO.- Los trabajadores de las dependencias, entidades, gobiernos estatales y municipales, así como de cualquier otra institución u organismo público que no estén sujetos al régimen obligatorio de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y que se hayan incorporado voluntariamente a la Subcuenta de ahorro para el retiro, del sistema de ahorro para el retiro de conformidad con lo dispuesto en el decreto que se abroga en el segundo transitorio, quedarán incorporados al sistema de ahorro para el retiro a que se refiere la fracción XXI que se adiciona al artículo 3o. de la Ley.
+
+QUINTO.- La primera estimación del remanente de operación del Fondo de la Vivienda se realizará a más tardar el 15 de diciembre de 1993, para efectos del ejercicio de 1994.
+
+El Instituto deberá efectuar la primera subasta de financiamiento para la construcción de conjuntos de habitaciones a que se refiere el artículo 103 fracción II que se reforma, a más tardar el 30 de septiembre de 1993.
+
+El Instituto deberá ir ajustando gradual y consistentemente el saldo insoluto de los financiamientos para la construcción de conjuntos de habitaciones, de conformidad con lo señalado en el artículo 126 BIS-A que se adiciona, en un período que terminará en marzo de 1997.
+
+SEXTO.- El presupuesto de gastos de administración, operación y vigilancia del Fondo de la Vivienda a que se refiere el inciso d) de la fracción XV del artículo 157 que se reforma para los años de 1993, 1994, 1995 y 1996, no deberá exceder, respectivamente, del 1.30%, 1.10%, 0.90% y 0.80% de los recursos totales que maneje el propio Fondo.
+
+SEPTIMO.- Se sustituyen las referencias que en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado se hacen a la Secretaría de Programación y Presupuesto por Secretaría de Hacienda y Crédito Público.
