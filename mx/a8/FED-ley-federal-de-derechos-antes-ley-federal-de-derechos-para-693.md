@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2002-01-01"
+last_updated: "2002-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ LEY FEDERAL DE DERECHOS
 
 ULTIMA ACTUALIZACION POR MISCELANEA FISCAL: 28 DE DICIEMBRE DE 1999.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JUNIO DE 2002.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -1007,7 +1007,7 @@ deportivo
 
 > <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
-VI.- Por el trámite, estudio y, en su caso, clasificación y autorización de películas, series filmadas, telenovelas y teleteatros grabados destinados a su exhibición en televisión, a través de cualquier señal, en videograma o material grabado en cualquier formato o modalidad, por cada minuto $ 18.71
+VI.- Por el trámite, estudio y, en su caso, clasificación y autorización de películas, series filmadas, telenovelas y teleteatros grabados destinados a su exhibición en televisión, a través de cualquier señal, en videograma o material grabado en cualquier formato o modalidad, por cada minuto. $ 18.71
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -1155,7 +1155,7 @@ cuota sin ajuste cuota con ajuste
 
 > <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
-I.- Por el estudio y trámite de la solicitud de permiso para visita al territorio insular $ 341.00
+I.- Por el estudio y trámite de la solicitud de permiso para visita al territorio insular. $ 341.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -1167,7 +1167,7 @@ insular 800.04 800.00
 
 > <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
-III.- Por la expedición del permiso de visita turística, por persona física y por isla $ 70.00
+III.- Por la expedición del permiso de visita turística, por persona física y por isla. $ 70.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -1177,7 +1177,7 @@ en territorio insular 1,600.18 1,600.00
 
 > <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
-V.- Por la expedición del permiso de visita con fines de investigación científica, por persona física y por isla $ 94.00
+V.- Por la expedición del permiso de visita con fines de investigación científica, por persona física y por isla. $ 94.00
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -1264,6 +1264,10 @@ hasta por dos años 219.47 220.00
 VII.- Por el refrendo de pasaportes
 
 oficiales 131.63 130.00
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2002)</small>
+
+Los derechos que se obtengan por concepto de las fracciones anteriores se destinarán a la integración del fondo a que se refiere la fracción XI del artículo 2do. de la Ley del Servicio Exterior Mexicano.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -1395,6 +1399,10 @@ V.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 Cuando los servicios a que se refiere este artículo, sean prestados en territorio nacional, se pagará el 50% de los derechos correspondientes.
 
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2002)</small>
+
+Los derechos que se obtengan por concepto de las fracciones anteriores se destinarán a la integración del fondo a que se refiere la fracción XI del artículo 2do. de la Ley del Servicio Exterior Mexicano, con excepción de los que sean prestados en territorio nacional.
+
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 23.
@@ -1465,11 +1473,15 @@ incapaces 379.11 380.00
 
 > <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
-VIII.- Cotejo de documentos, compulsas y otras certificaciones distintas a las señaladas en el artículo 22 de esta Ley $ 120.05
+VIII.- Cotejo de documentos, compulsas y otras certificaciones distintas a las señaladas en el artículo 22 de esta Ley. $ 120.05
 
 Siempre que una escritura notarial contenga diversos contratos o actos, los derechos se fiarán por cada uno de los contratos o actos principales y en un 50% por los accesorios y complementarios.
 
 En los casos en que de conformidad con el artículo 72 de la Ley del Notariado para el Distrito Federal, el Cónsul tenga que poner en las escrituras la anotación de "No pasó", se pagará íntegramente el valor de los derechos; pero si esa escritura se repite ante el mismo Cónsul, por la nueva escritura se pagará únicamente el 50% de los mismos.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2002)</small>
+
+Los derechos que se obtengan por concepto de las fracciones anteriores se destinarán a la integración del fondo a que se refiere la fracción XI del artículo 2do. de la Ley del Servicio Exterior Mexicano.
 
 ###### ARTICULO 23-A.
 
@@ -1669,7 +1681,7 @@ estatutos 167.76 170.00
 
 > <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
-X.- Por la presentación de cada aviso de adquisición de bienes inmuebles por sociedades mexicanas con cláusula de admisión de extranjeros en zona restringida, destinados a fines no residenciales $ 529.27
+X.- Por la presentación de cada aviso de adquisición de bienes inmuebles por sociedades mexicanas con cláusula de admisión de extranjeros en zona restringida, destinados a fines no residenciales. $ 529.27
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -1701,7 +1713,7 @@ extranjeros 914.35 915.00
 
 > <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
-d) De aviso de adquisición de bienes inmuebles por sociedades mexicanas con cláusula de admisión de extranjeros en zona restringida, destinados a fines no residenciales $4, 068.84
+d) De aviso de adquisición de bienes inmuebles por sociedades mexicanas con cláusula de admisión de extranjeros en zona restringida, destinados a fines no residenciales. $4, 068.84
 
 XII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
@@ -1899,9 +1911,9 @@ Las sociedades financieras de objeto limitado, deberán pagar anualmente el dere
 
 I.- Sociedades cuyos pasivos totales representen hasta cien millones de pesos, pagarán una cuota de $ 129,000.00
 
-II.- Sociedades cuyos pasivos totales representen más de cien y hasta mil millones de pesos, pagarán una cuota de $ 139,000.00
+II.- Sociedades cuyos pasivos totales representen más de cien y hasta mil millones de pesos, pagarán una cuota de. $ 139,000.00
 
-III.- Sociedades cuyos pasivos totales representen más de mil y hasta tres mil millones de pesos, pagarán una cuota de $ 148,000.00
+III.- Sociedades cuyos pasivos totales representen más de mil y hasta tres mil millones de pesos, pagarán una cuota de. $ 148,000.00
 
 IV.- Sociedades cuyos pasivos totales representen más de tres mil y hasta ocho mil millones de pesos, pagarán una cuota de $ 278,000.00
 
@@ -7505,7 +7517,7 @@ comunitarias $ 314.98 315.00
 
 V.- De pólizas de seguros $ 787.55 788.00
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 VI.- De resoluciones o acuerdos emitidos por autoridad competente $ 823.00
 
@@ -7517,7 +7529,7 @@ VII.- De contratos de prestación de servicios aeroportuarios y complementarios,
 
 VIII.- De las certificaciones relativas a las ayudas a la navegación aérea, sea cual fuere su naturaleza, incluyendo las visuales y las electrónicas $ 288.00
 
-> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 IX.- Por otros servicios prestados por el Registro $ 358.00
 
@@ -12421,19 +12433,11 @@ f).- Para posesión de aves de presa $ 284.00
 
 II.- Por cada solicitud de registro o su refrendo anual para prestadores de servicios de aprovechamiento en caza deportiva $ 567.84
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
 a).- Para guías o asistentes cinegéticos, por entidad federativa $ 499.00
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 b).- Para la venta de aves canoras y de ornato, por entidad federativa $ 98.00
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
 c).- Para captura de aves canoras y de ornato, por entidad federativa $ 161.00
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 d).- Por cintillo de aprovechamiento $ 134.00
 
@@ -13265,11 +13269,11 @@ prácticas de fabricación o de manufactura
 
 de insumos para la salud $ 708.82 709.00
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 195-F.
 
-Por los servicios de trámite y expedición del permiso sanitario en materia de publicidad vinculada a las actividades, productos, bienes y servicios a los que se refiere la Ley General de Salud, se pagará el derecho de permiso sanitario en materia de publicidad, por cada producto y tipo de mensaje, de conformidad con las siguientes cuotas:
+Por los servicios de trámite y expedición, prórroga o modificación del permiso sanitario en materia de publicidad vinculada a las actividades, productos, bienes y servicios a los que se refiere la Ley General de Salud, se pagará el derecho de permiso sanitario en materia de publicidad, por cada producto y tipo de mensaje, de conformidad con las siguientes cuotas:
 
 1er. Trimestre 1er. trimestre
 
@@ -13637,7 +13641,7 @@ personas físicas y morales $ 306.56 307.00
 
 III.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 195-K
 
@@ -13649,7 +13653,7 @@ II.- Por dictamen definitivo, incluida la visita de inspección y vigilancia $ 9
 
 III.- Por dictamen anual, incluida la visita de inspección y vigilancia $ 6,387.00
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 195-L.
 
@@ -13661,7 +13665,7 @@ I.- Cuando se trate de establecimientos, locales, instalaciones o transportes de
 
 II.- Cuando se trate de establecimientos, locales, instalaciones, transportes, productos o bienes para el servicio de gobiernos extranjeros, en caso de reciprocidad.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 #### SECCION DECIMA. De la Inspección y Vigilancia
 
@@ -15517,13 +15521,11 @@ VI.- Cualquier otra información que obtenga la autoridad fiscal distinta a las 
 
 Tratándose del derecho a que se refiere el presente Capítulo, la Comisión Nacional del Agua está facultada para ejercer las atribuciones a que se refiere el artículo 192-E de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 231.
 
-Las zonas de disponibilidad a que se refiere el artículo 223 de esta Ley, son los (sic) siguientes:
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+Las zonas de disponibilidad a que se refiere el artículo 223 de esta Ley, son las siguientes:
 
 ZONA 1.
 
@@ -15555,8 +15557,6 @@ Estado de Querétaro: Corregidora, Marqués El y Querétaro.
 
 Estado de San Luis Potosí: Villa de Reyes y Zaragoza.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
 ZONA 3.
 
 Estado de Baja California: Tecate.
@@ -15582,8 +15582,6 @@ Estado de Puebla: Puebla y Santa Clara Huitziltepec.
 Estado de Quintana Roo: Cozumel, en su porción insular.
 
 Estado de San Luis Potosí: Cedral, Matehuala y Villa de Arista.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ZONA 4.
 
@@ -15622,8 +15620,6 @@ Estado de San Luis Potosí: Ahualulco, Catorce, Ciudad Fernández, Charcas, Mexq
 Estado de Sonora: Altar, Atil, Caborca, Cananea, Empalme, Guaymas, Hermosillo, Nogales, Pitiquito, General Plutarco Elías Calles, Puerto Peñasco y San Luis Río Colorado.
 
 Estado de Zacatecas: Fresnillo, Guadalupe, Ojocaliente y Zacatecas.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ZONA 5.
 
@@ -15666,8 +15662,6 @@ Estado de Sonora: San Miguel de Horcasitas.
 Estado de Tlaxcala: Santa Cruz Tlaxcala y Tlaxcala.
 
 Estado de Zacatecas: Calera, Cuauhtémoc, General Enrique Estrada, General Pánfilo Natera, General Joaquín Amaro, Loreto, Luis Moya, Noria de Ángeles y Villa González Ortega.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ZONA 6.
 
@@ -15720,8 +15714,6 @@ Estado de Veracruz: Coatzacoalcos, Cosoleacaque, Minatitlán, La Antigua, Ixhuat
 Estado de Yucatán: Mérida.
 
 Estado de Zacatecas: Jerez, Miguel Auza, Morelos, Pánuco, Susticacán, Tepechitlán, Tepetongo, Veta Grande, Villa de Cos y Villa Hidalgo.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ZONA 7.
 
@@ -15777,8 +15769,6 @@ Estado de Yucatán: Muna, Progreso, Río Lagartos, San Felipe, Sinanché, Telcha
 
 Estado de Zacatecas: Apozol, Atolinga, Cañitas de Felipe Pescador, Concepción del Oro, Chalchihuites, Huanusco, Jalpa, Jiménez de Teúl, Juchipila, Momax, Monte Escobedo, Moyahua de Estrada, Tabasco, Tlaltenango de Sánchez Román, Valparaíso, Villanueva, Villa García, Genaro Codina, General Francisco R. Murguía, Juan Aldama, Mazapil, Melchor Ocampo, Pinos, Río Grande, Sain Alto, El Salvador y Sombrerete.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
 ZONA 8.
 
 Estado de Campeche: Calakmul, Calkiní, Campeche, Candelaria, Carmen, Champotón, Escárcega Hecelchakán, Hopelchén, Tenabo y Palizada.
@@ -15822,8 +15812,6 @@ Estado de Veracruz: Alpatlahua, Alvarado, Ángel R. Cabada, Apazapan, Boca del R
 Estado de Yucatán: Excepto los municipios comprendidos en las zonas 6 y 7.
 
 Estado de Zacatecas: Apulco, Benito Juárez, Mezquital del Oro, Nochistlán de Mejía, Teúl de González Ortega y Trinidad García de la Cadena.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ZONA 9.
 
@@ -21000,3 +20988,7 @@ Artículo Tercero. Las personas físicas o morales que hubiesen realizado obras 
 Artículo Cuarto. Los ingresos a que se refiere el segundo párrafo del artículo 231-A de esta Ley serán los que se causen por concepto del derecho por el uso o aprovechamiento de bienes del dominio público a cargo de las empresas públicas y privadas a que el citado artículo se refiere, a partir del 1o. de enero de 2002.
 
 Artículo Quinto. Se prorrogan las fracciones VII y IX del Artículo Segundo Transitorio del Decreto por el que se Reforma, Adiciona y Deroga diversas disposiciones de la Ley Federal de Derechos, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2000.
+
+D.O.F. 4 DE JUNIO DE 2002.
+
+Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, debiéndose fijas las reglas de operación por parte de las Dependencias competentes del Ejecutivo Federal.
