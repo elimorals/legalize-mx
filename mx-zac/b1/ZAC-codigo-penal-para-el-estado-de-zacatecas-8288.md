@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2001-08-22"
+last_updated: "2003-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2003.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -1006,6 +1006,10 @@ I.- Quienes vendan o alquilen a menores de edad, material audiovisual clasificad
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 1997)</small>
 
 II.- Quienes propicien o permitan que menores de dieciocho años presencien, por medio de aparatos electrónicos, la exhibición de cintas de video a que se refiere la fracción anterior.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2003)</small>
+
+III.- Quienes vendan o regalen a los menores de dieciocho años de edad, en la cantidad que fuere, cualquier tipo de droga, enervante o sustancia psicotrópica, cuya producción, transporte, tráfico o comercio estén prohibidos en términos de ley; induzcan a su consumo, o empleen a los menores para tales efectos.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
 
@@ -2381,9 +2385,11 @@ Se presumirá la simulación por la circunstancia de que el trabajador o trabaja
 
 ### CAPITULO UNICO. ENCUBRIMIENTO
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2003)</small>
 
 358.- Se impondrá de tres meses a tres años de prisión y multa de cinco a veinte cuotas al que después de la ejecución del delito y sin haber participado en éste, ayude en cualquier forma al responsable a eludir las investigaciones de la autoridad o a sustraerse a la acción de ésta, u ocultare, alterare, destruyere o hiciere desaparecer los indicios, pruebas o instrumentos del delito, o asegure para el inculpado el producto o provecho del mismo.
+
+Las mismas sanciones se aplicarán a los padres, tutores o cuidadores de algún menor de edad, por el sólo hecho de negarse a denunciar o formular querella ante la autoridad competente, respecto de algún delito del que tuvieren conocimiento o sospecha de que el menor fuese víctima.
 
 359.- No se sancionará al que oculte al responsable de un delito o los efectos, objetos o instrumentos del mismo o impida que se averigüe, cuando no se hiciere por un interés bastardo y no se empleare algún medio delictuoso siempre que se trate de:
 
@@ -2393,11 +2399,19 @@ b) El cónyuge, concubina o concubinario y parientes colaterales por consanguini
 
 c) Los que estén ligados con el delincuente por amor, y respeto, gratitud o estrecha amistad.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2003)</small>
+
+Las excluyentes de responsabilidad a que se refiere este artículo, no beneficiarán a los padres, tutores o cuidadores de menores de edad que fueren víctimas de algún delito.
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
 360.- Se impondrá de tres meses a cuatro años de prisión y multa de cinco a treinta cuotas al que, con ánimo de lucro adquiera, reciba u oculte el producto del delito a sabiendas que provenía de éste, o si de acuerdo con las circunstancias debía presumir su ilegítima procedencia, o al que ayude a otro para los mismos fines, salvo los casos específicos que señala este Código.
 
 361.- En los casos del artículo 358, quedan exceptuados de sanción aquéllos que no puedan cumplir con el deber a que el mismo artículo se refiere, por correr peligro en su persona o en sus bienes, o en la persona o bienes de los que señala el artículo 359.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2003)</small>
+
+Las excepciones a que se refiere el párrafo anterior, no se aplicarán en beneficio de los padres, tutores u cuidadores de menores de edad que fueren víctimas de algún delito.
 
 362.- Para los efectos de los artículos de este Código en que se mencionen a la concubina y al concubinario, se entenderá por tales a la mujer y al hombre que estén haciendo vida conyugal por lo menos durante un año y siempre que tengan, respectivamente, un solo concubinario o una sola concubina.
 
@@ -2962,3 +2976,15 @@ Tercero.- Las personas sujetas a procesos penales que se encuentren en trámite 
 P.O. 22 DE AGOSTO DE 2001
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación, en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2003.
+
+DECRETO NO. 346 QUE REFORMA Y ADICIONA ARTS. 358, 359 Y 361
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación, en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2003.
+
+DECRETO NO. 348 QUE ADICIONA ART. 183-bis
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
