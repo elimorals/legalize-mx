@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-venta-almacenaje-y-consumo-publico-de-25686"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-03"
-last_updated: "2003-06-06"
+last_updated: "2003-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2003.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de mayo de 2002.
 
@@ -791,7 +791,15 @@ XV.- Permitir la promoción y venta de productos alcohólicos por el personal fu
 
 XVI.- Realizar sus labores o prestar sus servicios en visible estado de ebriedad con aliento alcohólico, consumiendo bebidas alcohólicas o bajo el influjo de drogas enervantes, y
 
-XVII.- Las demás que se establecen o se desprenden de las disposiciones de este reglamento y la legislación vigente en general.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+XVII.- Realizar cualquier tipo de promoción, así como brindar servicios de los llamados Barra Libre, Ladie's Night o cualquier servicio análogo, entendiéndose para los efectos del presente Reglamento por Barra Libre: la modalidad comercial mediante la cual los usuarios, por medio de un pago único, tienen el derecho al consumo ilimitado de bebidas alcohólicas.
+
+Por Ladie's Night se entiende como los lugares en donde exista cuota de admisión general o se cobre el pago por derecho de admisión o entrada, donde no se podrá exentar del mismo ni hacer distinción en el precio, en atención al género, para la venta y/o consumo de bebidas con graduación alcohólica.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+XVIII.- Las demás que se establecen o se desprenden de las disposiciones de este reglamento y la legislación vigente en general.
 
 ### CAPITULO NOVENO. DEL CONSEJO CONSULTIVO
 
@@ -1228,6 +1236,12 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas aquellas disposiciones u ordenamientos que contravengan a la presente reforma.
 
 P.O. 6 DE JUNIO DE 2003.
+
+PRIMERO.- La presente reforma y adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberán publicarse en un periódico de mayor circulación en la localidad para el conocimiento de los vecinos.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a la presente reforma y adición.
+
+P.O. 19 DE DICIEMBRE DE 2003.
 
 PRIMERO.- La presente reforma y adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberán publicarse en un periódico de mayor circulación en la localidad para el conocimiento de los vecinos.
 
