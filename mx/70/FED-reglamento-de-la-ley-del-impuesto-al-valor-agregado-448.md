@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-impuesto-al-valor-agregado-448"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-02-29"
-last_updated: "1992-03-31"
+last_updated: "1997-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=448&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1984-02-28"
 
 REGLAMENTO DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MARZO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1997.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 29 de febrero de 1984.
 
@@ -47,9 +47,11 @@ Cuando se haga alusión a los actos o actividades por los que se deba pagar el i
 
 Para los efectos de la fracción I inciso a) del artículo 2o. A de la Ley, se considera que no se industrializan los animales y vegetales por el simple hecho de que se presenten cortados, aplanados, en trozos, frescos, salados, secos, refrigerados, congelados o empacados, ni los vegetales por el hecho de ser sometidos a procesos de secado, limpiado, descascarado, despepitado o desgranado.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 4o.
 
-Para los efectos del subinciso 2 del inciso b) de la fracción I del artículo 2o. A de la Ley, se consideran derivados de la leche el queso, la crema, la nata, la leche agria incluyendo la tipo búlgara y la mantequilla siempre que no estén mezclados con otros productos.
+Para los efectos del artículo 2-A, fracción I, inciso b), subinciso 1, de la Ley del Impuesto al Valor Agregado, igualmente quedan comprendidos como bebidas distintas de la leche, los productos para beber en que la leche sea un componente que se combina con vegetales, cultivos lácticos o lactobacilos, endulzantes u otros ingredientes, tales como el yoghurt para beber, el producto lácteo fermentado a los licuados.
 
 ###### ARTICULO 5o.
 
@@ -552,3 +554,7 @@ D.O.F. 31 DE MARZO DE 1992.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las casas de bolsa podrán calcular el impuesto acreditable en los términos de lo dispuesto por el artículo 15 de este Reglamento, a partir del 1o. de enero de 1992.
+
+D.O.F. 29 DE DICIEMBRE DE 1997.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
