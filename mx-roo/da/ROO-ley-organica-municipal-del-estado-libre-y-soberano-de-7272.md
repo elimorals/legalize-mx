@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-municipal-del-estado-libre-y-soberano-de-7272"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-06-09"
-last_updated: "1994-01-31"
+last_updated: "1995-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 9 de junio de 1986.
 
@@ -141,9 +141,11 @@ XVIII.- Las demás que impongan las Leyes Federales y Estatales así como las qu
 
 ### CAPITULO PRIMERO. DE LA ELECCION DEL AYUNTAMIENTO
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
+
 ###### ARTICULO 10.
 
-Cada Municipio será administrado por un Ayuntamiento cuyos miembros se elegirán por sufragio universal, directo, libre y secreto de los ciudadanos del Estado, bajo el sistema electoral mixto de Mayoría relativa y de representación proporcional, conforme a lo establecido en el Título Séptimo Capítulo VI de la Constitución Política del Estado y las disposiciones correlativas contenidas en la Ley de Organizaciones Políticas y Procesos Electorales vigente.
+Cada Municipio será administrado por un Ayuntamiento cuyos miembros se elegirán por sufragio universal, libre, secreto, directo, personal e intransferible de los ciudadanos del Estado, bajo el sistema electoral mixto de mayoría relativa y de representación proporcional, conforme a lo establecido en el Título Séptimo, Capítulo VI de la Constitución Política del Estado y las disposiciones correlativas contenidas en la ley de la materia.
 
 ###### ARTICULO 11.
 
@@ -155,11 +157,11 @@ Entre el Ayuntamiento y los Poderes del Estado y de la Federación habrá las re
 
 El Ayuntamiento se compondrá de un Presidente Municipal, Un Síndico y el número de Regidores que determine la Constitución Política del Estado.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
+
 ###### ARTICULO 13.
 
-En los Municipios de Otón P. Blanco y Benito Juárez, los Ayuntamientos se integrarán con un Presidente, un Síndico y nueve Regidores electos según el principio de mayoría relativa y hasta tres Regidores más electos según el principio de representación proporcional; y en los Municipios de Cozumel, Felipe Carrillo Puerto, Isla Mujeres, José Ma. Morelos y Lázaro Cárdenas, se integrarán con un Presidente, un Síndico, seis Regidores de mayoría relativa y hasta dos Regidores de representación proporcional. Todos los Regidores tendrán iguales derechos y obligaciones.
-
-Se elegirá un suplente para el Síndico y uno por cada Regidor.
+En los Municipios de la entidad, los Ayuntamientos se integrarán en la forma y términos que prevé la Constitución Política del Estado de Quintana Roo.
 
 ###### ARTICULO 14.
 
@@ -195,9 +197,11 @@ Los miembros integrantes del Ayuntamiento que hayan estado en ejercicio, no podr
 
 Los miembros propietarios y los suplentes en ejercicio de los Ayuntamientos, percibirán las remuneraciones que les asigne en el Presupuesto de Egresos Municipales aprobado, quedando impedidos para aceptar empleo, cargo o comisión de Gobierno Federal, Estatal o de alguna dependencia u organismo descentralizado de los mismos, por el que perciban remuneración alguna, salvo los cargos o empleos de docencia o de instituciones de beneficencia.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
+
 ###### ARTICULO 19.
 
-La Ley de Organizaciones Políticas y Procesos Electorales del Estado, regulará las acciones de preparación, desarrollo y verificación de los comicios para la renovación de los Ayuntamientos.
+El Código de Instituciones y Procedimientos Electorales del Estado de Quintana Roo, regulará las acciones de preparación, desarrollo y verificación de los comicios para la renovación de los Ayuntamientos.
 
 ### CAPITULO SEGUNDO. DE LA INSTALACION DE AYUNTAMIENTO
 
@@ -1870,6 +1874,12 @@ TERCERO.- Los Ayuntamientos que determinen crear Alcaldías para alguna de sus p
 CUARTO.- Los Ayuntamientos, incluirán en forma permanente en sus Respectivos Presupuestos, los correspondientes a las Alcaldías, a partir del ejercicio fiscal de 1993.
 
 P.O. 31 DE ENERO DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 1995.
 
 ###### ARTICULO UNICO.
 
