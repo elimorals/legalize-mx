@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2001-12-31"
+last_updated: "2003-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE FEBRERO DE 2003.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -180,6 +180,10 @@ XXXVI. Educación Ambiental: Proceso de formación dirigido a toda la sociedad, 
 
 La Federación, los Estados, el Distrito Federal y los Municipios ejercerán sus atribuciones en materia de preservación y restauración del equilibrio ecológico y la protección al ambiente, de conformidad con la distribución de competencias prevista en esta Ley y en otros ordenamientos legales.
 
+> <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2003)</small>
+
+La distribución de competencias en materia de regulación del aprovechamiento sustentable, la protección y la preservación de los recursos forestales y el suelo, estará determinada por la Ley General de Desarrollo Forestal Sustentable.
+
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 5o.
@@ -206,7 +210,9 @@ IX. La formulación, aplicación y evaluación de los programas de ordenamiento 
 
 X. La evaluación del impacto ambiental de las obras o actividades a que se refiere el artículo 28 de esta Ley y, en su caso, la expedición de las autorizaciones correspondientes;
 
-XI. La regulación del aprovechamiento sustentable, la protección y la preservación de los recursos forestales, el suelo, las aguas nacionales, la biodiversidad, la flora, la fauna y los demás recursos naturales de su competencia;
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2003)</small>
+
+XI. La regulación del aprovechamiento sustentable, la protección y la preservación de las aguas nacionales, la biodiversidad, la fauna y los demás recursos naturales de su competencia.
 
 XII. La regulación de la contaminación de la atmósfera, proveniente de todo tipo de fuentes emisoras, así como la prevención y el control en zonas o en caso de fuentes fijas y móviles de jurisdicción federal;
 
@@ -748,7 +754,7 @@ IV. Instalaciones de tratamiento, confinamiento o eliminación de residuos pelig
 
 V. Aprovechamientos forestales en selvas tropicales y especies de difícil regeneración;
 
-VI. Plantaciones forestales;
+VI. (DEROGADA, D.O.F. 25 DE FEBRERO DE 2003)
 
 VII. Cambios de uso del suelo de áreas forestales, así como en selvas y zonas áridas;
 
@@ -1776,11 +1782,11 @@ XI. Las actividades de extracción de materias del subsuelo; la exploración, ex
 
 XII. La formulación de los programas de ordenamiento ecológico a que se refiere esta Ley.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 25 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 100.
 
-Las autorizaciones para el aprovechamiento de recursos forestales implican la obligación de hacer un aprovechamiento sustentable de ese recurso. Cuando las actividades forestales deterioren gravemente el equilibrio ecológico, afecten la biodiversidad de la zona, así como la regeneración y capacidad productiva de los terrenos, la Secretaría revocará, modificará o suspenderá la autorización respectiva, en términos de lo dispuesto por esta Ley y la Ley Forestal.
+Las autorizaciones para el aprovechamiento de los recursos forestales implican la obligación de hacer un aprovechamiento sustentable de ese recurso. Cuando las actividades forestales deterioren gravemente el equilibrio ecológico, afecten la biodiversidad de la zona, así como la regeneración y capacidad productiva de los terrenos, la autoridad competente revocará, modificará o suspenderá la autorización respectiva en términos de lo dispuesto por la Ley General de Desarrollo Forestal Sustentable.
 
 ###### ARTICULO 101.
 
@@ -1830,11 +1836,11 @@ Todas las autorizaciones que afecten el uso del suelo en las zonas selváticas o
 
 Quienes realicen actividades agrícolas y pecuarias deberán llevar a cabo las prácticas de preservación, aprovechamiento sustentable y restauración necesarias para evitar la degradación del suelo y desequilibrios ecológicos y, en su caso, lograr su rehabilitación, en los términos de lo dispuesto por ésta y las demás leyes aplicables.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 25 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 104.
 
-La Secretaría promoverá ante la Secretaría de Agricultura, Ganadería y Desarrollo Rural y las demás dependencias competentes, la introducción y generalización de prácticas de protección y restauración de los suelos en las actividades agropecuarias, así como la realización de estudios de impacto ambiental previos al otorgamiento de autorizaciones para efectuar cambios del uso del suelo, cuando existan elementos que permitan prever grave deterioro de los suelos afectados y del equilibrio ecológico en la zona.
+La Secretaría promoverá ante la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y las demás dependencias y entidades competentes, la introducción y generalización de prácticas de protección y restauración de los suelos en las actividades agropecuarias, así como la realización de estudios de impacto ambiental previos al otorgamiento de autorizaciones para efectuar cambios del uso del suelo, cuando existan elementos que permitan prever grave deterioro de los suelos afectados y del equilibrio ecológico de la zona.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -3171,3 +3177,9 @@ SEGUNDO. Los procedimientos y recursos administrativos que a la entrada en vigor
 TERCERO. Para la firma y entrada en vigor de cualquier convenio o acuerdo a que se refiere el artículo 11 de esta Ley, las Entidades Federativas o Municipios participantes en ellos, habrán de contar con su propio programa de ordenamiento regional, particular o marino según corresponda.
 
 CUARTO. Los seguros de riesgo ambiental estarán sujetos a un Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente para el Establecimiento de Seguros y Primas por Riesgo Ambiental. Para tal efecto, la Secretaría, habrá de publicar este marco reglamentario, a más tardar en un año después de la entrada en vigor del presente Decreto.
+
+D.O.F. 25 DE FEBRERO DE 2003.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas entrarán en vigor el mismo día de la entrada en vigor de la Ley General de Desarrollo Forestal Sustentable.
