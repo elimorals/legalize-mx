@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-notariado-del-estado-de-nayarit-11822"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-28"
-last_updated: "1995-12-02"
+last_updated: "1999-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL NOTARIADO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1999.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, Miércoles 28 de Enero de 1987.
 
@@ -81,9 +81,11 @@ Las designaciones de los Notarios que se realicen en los términos de esta Ley e
 
 Una vez hecha la designación en la demarcación notarial correspondiente, no podrá autorizarse el cambio a otra demarcación, el Notario que lo solicite deberá previamente renunciar a su fiat y cumplir con el trámite previsto para los aspirantes al ejercicio del Notariado.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 6o.
 
-La oficina de los Notarios se denomina Notaria Pública; estará abierta por lo menos siete horas por día hábil, en lugar visible, habrá un letrero con el nombre y apellidos del Notario y el número de la Notaría.
+La oficina de los Notarios se denomina Notaría Pública; estará abierta por lo menos siete horas por día hábil, en lugar visible, habrá un letrero con el nombre y apellidos del Notario y el número de la Notaría. En ningún caso la Notaría funcionará en la casa-habitación del Notario o de sus asociados.
 
 ## TITULO II
 
@@ -245,6 +247,10 @@ B).- Por el Notario Suplente adscrito en los casos previstos en esta Ley; y
 
 C).- En caso de existir convenio de asociación notarial indistintamente por los asociados.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
+
+El Notario titular está obligado a designar suplente en términos de esta Ley o asociarse con otro titular que cubra sus ausencias. Si no lo hiciere en el plazo de treinta días hábiles de abierta formalmente la Notaría, la Dirección Estatal del Notariado le requerirá para que lo haga inmediatamente; de persistir la omisión, el Colegio hará la propuesta respectiva al Gobernador la que surtirá efectos conforme lo establece la Ley.
+
 ###### ARTICULO 28.
 
 En el caso de existir Convenio de Asociación Notarial si el Titular en número llegase a solicitar licencia, bastará el simple aviso del mismo a la Dirección Estatal del Notariado para que continúe el asociado ejerciendo la función.
@@ -397,205 +403,269 @@ IV. Que se oiga al Consejo del Colegio de Notarios.
 
 ### CAPITULO PRIMERO. DEL PROTOCOLO
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 49.
 
-Protocolo es el libro o juego de libros autorizados en los que el Notario, durante su ejercicio asienta y autoriza con las formalidades de la presente Ley; los actos notariales que se otorgan ante su fe.
+Protocolo es el conjunto de folios numerados y sellados en los que el Notario observando los requisitos y formalidades establecidos en la presente Ley, asienta y autoriza las escrituras y actas que se otorguen ante su fe. Forman parte del protocolo los libros que en número de diez forman un tomo, los apéndices, índices así como las actas de apertura y cierre de cada tomo.
+
+Los instrumentos, libros, apéndices e índices que integran el protocolo deberán ser numerados progresivamente.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 50.
 
-Los libros de Protocolo que se lleven al mismo tiempo no podrán ser más de diez. El Notario podrá optar por el número de ellos.
+El Notario utilizará para asentar las actas y escrituras hojas foliadas las que se llamarán folios. El Notario no podrá autorizar acto alguno, sin que lo haga constar en los folios que forman el protocolo, salvo lo dispuesto por esta Ley.
+
+Los folios deberán utilizarse en forma progresiva por ambas caras y los instrumentos que se asienten en ellos, se ordenarán en forma sucesiva y cronológica por el Notario y se encuadernaran en libros.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 51.
 
-Los libros del Protocolo serán uniformes y constarán de trescientas páginas numeradas. La primera y la última hojas se destinarán para las anotaciones que debe hacer el encargado de la Dirección Estatal del Notariado.
+Los folios serán autorizados por la Secretaría General de Gobierno a través de la Dirección Estatal del Notariado, y al entregarse a cada Notario los folios que integrarán cada tomo del protocolo, ésta, levantará acta por duplicado que deberá contener: lugar, fecha, el número de folios entregados, así como el nombre, apellidos y número de la Notaría para la cual se autorizan.
 
-Las hojas del libro serán de treinta y cinco centímetros de largo y veinticuatro de ancho, en su parte utilizable. Al escribirse en ellas se dejará en blanco un margen de la tercera parte hacia la izquierda, separado por medio de una línea, para asentar en dicha parte las razones o anotaciones correspondientes. Cuando se agote esta parte se asentará razón que las anotaciones se continúan en hoja por separado, especialmente dedicada al efecto, que se acumulará al apéndice.
+En los casos de que exista Convenio de Asociación Notarial entre titular o con su suplente en ausencia autorizada, se insertará en el acta, además de lo dispuesto anteriormente, la constancia de que podrán actuar indistintamente los Notarios Asociados, en los términos del referido convenio.
 
-Se dejará en blanco una faja de tres centímetros de ancho por el lado de doblón del libro y otra faja de un centímetro en la orilla de las hojas para proteger el escrito.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 52.
 
-En la primera página útil de cada libro, la Dirección Estatal del Notariado pondrá la razón en que consten en lugar y la fecha, el número que corresponde al volumen, según los que vaya recibiendo el Notario durante su ejercicio, el número de paginas útiles, inclusive la primera y la última; el nombre y apellidos del Notario y el número ordinal de la notaría a su cargo, el lugar en que deba residir y está situada la notaría y la expresión de que ese libro solamente debe utilizarse por el Notario o por la persona que legalmente lo sustituya en sus funciones. En la última página del libro se pondrá una razón análoga, sellada y suscrita por el Encargado de la Dirección Estatal del Notariado.
+Para asentar todos los actos y hechos jurídicos, se utilizará cualquier procedimiento de escritura o impresión que sean firmes, legibles e indelebles. La parte utilizable del folio deberá aprovecharse al máximo posible, no deberán dejarse espacios en blanco y las líneas en que se impriman deberán estar a igual distancia unas de otras, respetando en todo márgenes de protección y encuadernación.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 53.
 
-El Notario abrirá cada volumen de su Protocolo poniendo en él inmediatamente después de la razón asentada por el Encargado de la Dirección Estatal del Notariado, otra en la que exprese su nombre, apellido y número de la notaría a su cargo, así como el lugar y la fecha en que se abra el libro, su sello y su firma.
+El Colegio de Notarios bajo su responsabilidad, proveerá a cada Notario y a costa de éste, los folios necesarios para la integración de sus libros de protocolo, e informará mensualmente a la Dirección Estatal del Notariado de dichas entregas en la forma que ésta determine.
 
-Los Notarios Asociados, conforme está previsto por esta Ley; abrirán el Protocolo común poniendo en él la Nota indicada en el párrafo anterior, pero refiriéndose a cada uno y con los sellos y firmas de ambos en su caso.
-
-Cuando con posterioridad a la fecha de apertura haya cambio de Notario o de Notarios a continuación del último instrumento expedido en cada volumen en uso; se asentará los nombres, apellido o apellidos, firmas y sellos, en su caso, de los que vayan a actuar. Se procederá en igual forma cuando se celebra Convenio de Asociación o cese de actuar el asociado.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 54.
 
-Al comenzar el uso de una hoja, se le pondrá el sello del Notario hacia el lado izquierdo.
+El Notario integrará su protocolo con libros numerados en forma progresiva, que contendrán 200 doscientos folios como máximo, excepto cuando el Notario deba asentar un instrumento con el cual rebase ese número, en cuyo caso, podrá dar por terminado el libro sin asentar dicho instrumento iniciando con este el siguiente libro.
+
+Al iniciar la formación de un libro, el Notario hará constar la fecha en que se inicia, el número que le corresponda dentro de la serie de los que sucesivamente se hayan abierto en la notaria a su cargo, y la mención de que el libro se formará con los instrumentos autorizados por el Notario o por quien legalmente lo substituya en sus funciones de acuerdo con esta ley. La hoja en la que se asiente la razón a la que se refiere este artículo no irá foliada y se encuadernará antes del primer folio del libro.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 55.
 
-El sello del Notario será circular con diámetro de cuatro centímetros, representará al Escudo Nacional en el centro y tendrá inscrito en rededor el nombre y apellidos del Notario, el número de la notaría, el lugar de su residencia, así como su calidad de titular o suplente. Si se perdiere o alterare el sello el Notario se proveerá de otro en el que se pondrá signo especial que lo diferencie del anterior. Si aparece el primer sello no lo usará el Notario, sino que lo entregará al Director Estatal del Notariado para que se destruya, levantándose acta por duplicado. Lo mismo se hará con el sello del Notario que fallezca.
+Iniciada la utilización de los folios que integraran los libros y el tomo por el Notario a quien se le hubieren autorizado y deba ser substituido por otro, en términos de esta ley, o el titular celebre convenio de Asociación Notarial, o de existir, éste quedaré disuelto; a continuación del ultimo acto notarial y pasado en los folios que integran el libro en el que se actúa, se levantará acta con la intervención de quien designe la Dirección Estatal del Notariado y el Colegio de Notarios, donde se relacione el acuerdo respectivo y se deje constancia del número de folios por utilizar en ese libro.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 56.
 
-En los Protocolos podrá escribirse en manuscrito o por cualquier medio mecánico idóneo; no se asentarán más de cuarenta líneas por página, a igual distancia unas de otras.
+Todo instrumento se iniciará en un folio nuevo, si al terminarlo después de las firmas queda espacio en su frente o revés, éste deberá ser utilizado para asentar las notas previstas por esta ley, debiendo iniciar el siguiente instrumento en los términos indicados.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 57.
 
-Tanto las escrituras como los libros se numerarán progresivamente. El libro o juego de libros en donde se asienten las escrituras se usarán de la siguiente manera:
+La numeración de los instrumentos será progresiva, incluyendo los instrumentos que tengan la mención de "no pasó", los que se encuadernarán junto con los firmados. Cuando se inutilice un folio se cruzará con líneas de tinta y se colocará al final del respectivo instrumento.
 
-La primera escritura o acta en número se anotará en el libro número uno, la segunda, en su caso, en el número dos y así sucesivamente hasta el ultimo libro en uso. Terminada la primera vuelta se iniciará la segunda y sucesivamente las demás hasta agotar el juego de libros autorizados.
-
-Entre uno y otro de los instrumentos de un mismo volumen no habrá más espacio que para las firmas, autorizaciones y sellos.
-
-Si por algún motivo quedare algún espacio en blanco será utilizado por el Notario por medio de dos líneas cruzadas.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 58.
 
-Cuando el Notario no pueda dar cabida a otro instrumento en cualquiera de los libros del Protocolo que tienen en uso pondrán razón de clausura inmediatamente después del último instrumento con expresión de la fecha y hora de su asiento, el número de fojas utilizadas, el número de instrumentos autorizados, así como los instrumentos que no pasaron y de los que quedan pendientes de autorización, enumerando unos y otros y expresando el motivo de estar pendientes estos últimos.
+Al final de todo instrumento, el Notario, después de su firma y sello, si hubiere espacio en el folio deberá asentar:
 
-El Notario pondrá su firma y sello de autorizar y comunicará inmediatamente el contenido de la razón de clausura a la Dirección Estatal del Notariado.
+I. Las notas relativas a los avisos dados, y el pago de créditos fiscales;
 
-A partir de la fecha en que se haga la anotación de terminación del libro o del último juego de libros en uso, el Notario dispondrá de treinta días hábiles para presentar los libros terminados al Director Estatal del Notariado, quien asentará certificación de ser exacta la razón que cierra cada libro, autorizada con la firma y el sello correspondiente y devolverá dentro de los tres días hábiles siguientes los libros al Notario.
+I. Las constancias de protocolización de documento relacionados a la escritura, si no hubiere dejado constancia de ello en el texto de la misma;
+
+III. Las constancias de expedición de testimonios, indicando la fecha, número de fojas que lo integren, y en su caso, el nombre del solicitante y razón de la expedición; y
+
+IV. Cualquier otra anotación que deba hacerse por mandamiento judicial, disposición de la ley o práctica notarial.
+
+Cuando el espacio del folio en que termina la escritura no baste para contener las notas necesarias, se deberá agregar una hoja al libro de documentos o apéndice, bajo el número correspondiente, en la que se continuarán asentando las notas que se requieran, dejando constancia de ello en folio respectivo.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 59.
 
-Cuando esté por concluirse el libro del Protocolo o el juego de libros que lleve el Notario, los enviará a la Dirección Estatal del Notariado en que haya de continuar actuando para su autorización.
+Dentro de los treinta días hábiles siguientes a la integración de cada uno de los libros de los diez del tomo respectivo, el Notario deberá asentar en una hoja adicional, que deberá agregarse al final de cada libro, una razón de cierre en la que se indicará la fecha del asiento, el número de folios utilizados e inutilizados, la cantidad de los instrumentos asentados, y de ellos los autorizados, los pendientes de autorizar y los que no pasaron, y pondrá al calce de la misma su firma y sello de autorizar.
+
+Por cada libro, el Notario llevará una carpeta denominada apéndice, en la que se coleccionarán los documentos a que se refieren los instrumentos, que formaran parte integrante del protocolo. Los documentos del apéndice se ordenarán por letras en legajos, en cuyas carátulas se pondrá el número a que se refieran, indicando los documentos que se agregan.
+
+Los expedientes que se procotolicen por mandamiento judicial y los que previamente estén encuadernados, que se agreguen al apéndice del volumen respectivo, se considerarán como un solo documento, al igual que los que por su conexidad deban considerarse como tales.
+
+Los Notarios tendrán obligación de elaborar por duplicado y por cada libro, un índice de todos los instrumentos autorizados o con la razón de "no pasó", en el que se expresará respecto de cada instrumento:
+
+1. El número progresivo de cada instrumento, así como los folios utilizados;
+
+2. El libro al que pertenece;
+
+3. Su fecha de asiento;
+
+4. Los números de folios en los que consta;
+
+5. El nombre y apellidos de las personas físicas y denominaciones o razones sociales de las personas morales comparecientes;
+
+6. La naturaleza del acto o hecho que contiene; y
+
+7. Los datos de los trámites administrativos que el notario juzgue conveniente asentar.
+
+El índice se formará a medida que los instrumentos se vayan asentando en forma progresiva en los folios.
+
+Al entregarse definitivamente la decena de libros a la Dirección Estatal de Notarias, se acompañará un ejemplar de dicho índice y el otro lo conservará el Notario.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 60.
 
-Por ningún motivo podrán sacarse de la notaría los libros o volúmenes y sus apéndices, estén en uso o ya concluidos, sino bajo la responsabilidad del Notario y solo en los casos determinados por la presente Ley o para recoger firmas a las partes dentro de la demarcación del Notario.
+A partir de la fecha en que se asiente la razón a que se refiere el primer párrafo del artículo anterior, en el último libro del tomo respectivo, el Notario dispondrá del un plazo máximo de 180 días para enviarlo a la Dirección Estatal del Notariado, la que revisará solamente la exactitud de la razón a que se refiere el artículo anterior, debiendo devolver los libros al Notario dentro de los cinco días hábiles siguientes a la fecha de la entrega, con la certificación correspondiente.
 
-Si alguna autoridad, con facultades legales ordenare la vista de uno o mas libros del Protocolo, el acto se efectuará en la misma oficina del Notario y siempre con la presencia de éste.
+El Notario deberá guardar en la Notaria la decena de libros durante cinco años contados a partir de la fecha de certificación de cierre de la Dirección Estatal del Notariado. A la expiración de este término, los entregará a la citada dependencia junto con sus apéndices para su guarda definitiva.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 61.
 
-Los notarios guardarán en su archivo los Protocolos cerrados por un término de diez años contados desde la fecha en que se hayan asentado las razones de cierre. Al expirar este término, los enviaran al Director Estatal de Notariado para ser archivados.
+En todo caso, el Notario solicitará por conducto del Colegio a la Dirección Estatal del Notariado, la autorización de los folios que formarán el siguiente tomo, los cuales una vez autorizados, se entregarán bajo su responsabilidad, levantándose el acta a que se refiere el artículo 51 de esta ley, donde se extenderá el recibo de depósito de los mismos.
+
+> <small>(REFORMADO, P.O .21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 62.
 
-El Notario en relación con los libros del Protocolo llevará una carpeta por cada volumen en donde irá depositando los documentos que se relacionen con las escrituras. El contenido de estas carpetas se llama apéndice.
+Una vez terminados los folios que integran un libro o un tomo, el Notario podrá de inmediato iniciar sus actuaciones en los folios que formen el siguiente.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 63.
 
-Los documentos del apéndice se arreglarán por legajos, poniéndose en cada uno de aquellos el número de la notaría, el de la escritura a que corresponde y una letra que los distinga de los otros que forman su legajo. Las copias certificadas de los expedientes que se protocolicen por mandato judicial; se agregarán al apéndice del volumen respectivo y se considerarán como un solo documento.
+La encuadernación de los libros de cada tomo serán en pasta entera y cubierta, de material de buena calidad; en el tomo de cada libro se imprimirá con letras doradas, en la parte superior, el número de la Notaría y la demarcación a que corresponde; y en la inferior, el número del libro y tomo que le corresponda.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 64.
 
-Los apéndices se empastarán en volúmenes, en atención al numero de hojas que contengan a más tardar ciento veinte días después de la fecha del cierre del libro del Protocolo a que pertenezcan.
+En el protocolo sólo se autorizarán escrituras por el Notario a quien se le hubiere entregado, salvo en los casos siguientes:
+
+I. Cuando el Notario suplente adscrito actúe en substitución de un titular, con las formalidades y en los casos previstos por esta ley.
+
+II. Cuando se celebre, con otro Notario Titular Convenio de Asociación Notarial autorizado y publicado en los términos de este ordenamiento legal; y
+
+III. En los demás casos previstos por esta ley.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 65.
 
-Los documentos del apéndice no podrán desglosarse, los conservará el Notario y seguirán en su libro respectivo del Protocolo cuando este se envíe al Director Estatal del Notariado para ser archivado.
+En todos los folios que utilice el Notario, se colocará el sello de la Notaría, en el margen superior izquierdo.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 66.
 
-Cuando por cualquier circunstancia haya lugar a clausurar un Protocolo, tal diligencia se efectuará siempre con la intervención de un representante del Ejecutivo del Estado y otro del Consejo del Colegio de Notarios.
+El sello del Notario será circular, con diámetro de cuatro centímetros, representará al Escudo Nacional en el centro, y tendrá escrito en rededor el nombre y apellidos del Notario, su número de Notaría, el lugar de su residencia, así como la calidad de titular o suplente.
 
-Tal diligencia, se practicará con la intervención del Director Estatal del Notariado. Los interventores, al cerrar los libros del Protocolo procederán a poner razón, en cada libro, de la causa que motive el acto y de las demás circunstancias relativas que estimen convenientes, suscribiendo dicha razón con sus firmas.
+Si se perdiese o alterase el sello del Notario, se proveerá de otro en el que se pondrá signo especial para diferenciarlo del anterior.
+
+Si aparece el primer sello en caso de extravío, no lo usará el Notario, y deberá entregarlo a la Dirección Estatal del Notariado para que se destruya, levantándose acta de ello por duplicado.
+
+Lo mismo se hará con el sello del Notario que fallezca.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 67.
 
-Los interventores que actúen en la clausura de un Protocolo harán que en el inventario correspondiente se incluyan todos los libros que conforme a la ley deban llevarse los valores depositados, los testamentos cerrados que estuvieren en guarda, con descripción del estado de sus cubiertas y sellos, los títulos, expedientes y cualesquiera otros documentos de su archivo y clientela. Además, formarán otro inventario de los muebles, valores y documentos personales de los Notarios, para que, con la intervención del Consejo del Colegio de Notarios sean entregados a quien corresponda.
+Todos los folios y los libros que integran el protocolo deberán estar siempre en la Notaria, salvo en los casos expresamente permitidos por ésta ley, o cuando el Notario recabe firmas fuera de ellas. Cuando hubiere necesidad de sacar los libros o folios de la Notaria, lo hará el propio Notario, o bajo su responsabilidad una persona designada por el.
+
+Si las autoridades del Gobierno del Estado o alguna autoridad judicial ordenan la inspección del protocolo o de un instrumento, el acto se efectuará siempre en la misma oficina del notario y en presencia de éste, su suplente o asociado. En el caso de que un libro del protocolo ya se encuentre en la Dirección Estatal del Notariado, la inspección se llevará a cabo en esta, previa citación del respectivo Notario.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 68.
 
-El Notario que se encuentre en cualesquiera de las condiciones a que refieren los Artículos anteriores tienen derecho a asistir a la clausura del Protocolo y a la entrega de su respectiva notaría. Si la vacante temporal o definitiva es por causa de delito, asistirá también a la clausura, inventario y entrega; el Agente de Ministerio Público que designe el Procurador General de Justicia del Estado.
+En caso de pérdida de uno o varios folios, el Notario dará aviso al Colegio de inmediato, para que dentro de los cinco días hábiles siguientes, concurran a la Dirección Estatal del Notariado, para levantar acta circunstanciada, la que se agregará al apéndice del libro correspondiente.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 69.
 
-En caso de que el Notario faltante hubiere estado asociado en los términos de esta Ley, no se clausurará el Protocolo, el cual seguirá a cargo del Notario asociado, quien asentará en los libros que tuviere en uso, razón de haber dejado de actuar en aquellos el Notario faltante en la que se expresará la fecha y la causa de ello.
+Si aparecieren los folios extraviados, estos quedarán cancelados y se agregarán junto con el acta. Caso contrario, el Colegio mandará imprimir la reposición de los folios respectivos.
 
 ### CAPITULO SEGUNDO. DEL PROTOCOLO ABIERTO ESPECIAL
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 70.
 
-Los Notarios llevarán un Protocolo abierto especial para actos y contratos en que intervenga el Estado de Nayarit o cualquiera de los Ayuntamientos de la Entidad. En este mismo Protocolo podrán también asentar las actas y escrituras en que intervengan las Dependencias y Entidades de la administración pública Federal, Estatal y Municipal cuando actúen para el fomento de la vivienda o con motivo de programas para la regularización de la propiedad inmueble. Este Protocolo se integrará y utilizará en los términos que previene este Capítulo. En los casos señalados con anterioridad, se estará a lo previsto en la presente Ley sin perjuicio de que se pueda optar por otras formas de titulación que establezcan otros ordenamientos.
+En los casos de interés social, el Gobernador del Estado podrá ordenar al Notariado de Nayarit que preste sus servicios con disminución del 50% del arancel.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 71.
 
-Las escrituras se asentarán en hojas foliadas, selladas y perforadas a las que se llamará folios, las cuales coleccionadas y ordenadas por el Notario, junto con su apéndice constituirán el Protocolo abierto especial.
+El Gobernador del Estado podrá, exclusivamente atendiendo la necesidad del servicio, autorizar la prorroga de jurisdicción a los notarios en ejercicio dentro del Estado de Nayarit, para que cumplan programas de interés social conforme lo dispone esta ley. En este caso bastará que el acuerdo dictado al efecto, se remita al Consejo del Colegio de Notarios, previa publicación en el Periódico Oficial Órgano del Gobierno del Estado.
 
-El Protocolo abierto especial se dividirá en Tomos y éstos a su vez en volúmenes. Cada diez volúmenes constituirán un Tomo.
-
-Los instrumentos, volúmenes y tomos que integran el Protocolo Abierto Especial deberán ser numerados progresivamente con numeración independiente del Protocolo ordinario y siempre se pondrán antes o después del número de la escritura, tomo o volumen las siglas P.A.E.
-
-Los folios deberán utilizarse en forma progresiva por ambas caras y los instrumentos que se asienten en ellos se ordenarán en volúmenes que tendrán siempre los folios en que se contengan cien instrumentos, contándolos por centenas cerradas incluyendo los que no pasaron.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 72.
 
-El sello del Notario se imprimirá en la parte derecha del anverso de cada folio al ser utilizado.
+El Notariado queda relevado de la obligación de usar los formatos preimpresos para los avisos a las oficinas del Catastro y en su caso el Registro Público de la Propiedad, cuando se trate de las escrituras contenidas en el protocolo abierto con interés social, pero usará aquellos que contengan los elementos necesarios a la identificación y control de las operaciones.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 73.
 
-Para integrar el Protocolo Abierto Especial, la Dirección Estatal del Notariado, a costa de los propios notarios les proveerá de los folios necesarios para asentar los instrumentos, los cuales tendrán las características que se señalan en el articulo 76 de esta Ley. Los Notarios entregarán los folios a la Dirección Estatal del Notariado para que les sean devueltos debidamente autorizados mediante perforaciones.
+El protocolo abierto para interés social no causará pago alguno por concepto de derechos y reunirá las mismas condiciones, requisitos, tamaño y organización que las señaladas en esta propia ley para el protocolo abierto.
 
 ###### ARTICULO 74.
 
-Al iniciar la formación de un tomo, el Notario hará constar el lugar y la fecha en que se inicie el número que le corresponda dentro de la serie de los que sucesivamente se hayan abierto en la notaría a su cargo, el lugar en donde está situada la notaría y la mención de que el tomo se formará con los volúmenes que contengan los instrumentos autorizados por el Notario o quién legalmente lo sustituya en sus funciones de acuerdo con esta Ley. La hoja en la que se asiente la razón a que se refiere este Artículo no ira foliada y se encuadernará antes del primer folio del primer volumen del tomo.
+(DEROGADO, P.O. 21 DE AGOSTO DE1999)
 
 ###### ARTICULO 75.
 
-Cuando con posterioridad a la iniciación de un tomo haya cambio de Notario, el que va a actuar asentará a continuación del último instrumento extendido en los folios que integren el volumen en formación en una hoja no foliada, su nombre y apellidos, su firma y su sello de autorizar, igual requisito se observará cuando hubiere convenio de suplencia o designación para suplirse.
+(DEROGADO, P.O. 21 DE AGOSTO DE1999)
 
 ###### ARTICULO 76.
 
-Los folios en los que se asienten los instrumentos serán uniformes, de treinta y cuatro centímetros de largo por veintitrés y medio de ancho, con un margen de un centímetro y medio en su orilla externa.
-
-Los mencionados folios deberán tener impreso o grabado el sello del Colegio de Notarios y deberán estar foliados respecto de cada notaría progresivamente, anteponiendo el número de la Notaria en la cual serán utilizados. En el caso de notarios asociados se señalaran los números de ambas notarías.
+(DEROGADO, P.O. 21 DE AGOSTO DE1999)
 
 ###### ARTICULO 77.
 
-Para asentar las escrituras y actas en los folios, deberán utilizarse cualquier procedimiento de escritura o impresión que sea firme, indeleble y legible. Solo en casos urgentes a juicio del Notario, podrán ser manuscritas.
-
-No se escribirán más de cuarenta líneas por página y deberán quedar a igual distancia unas de otras. Cada línea no podrá tener más de dieciséis centímetros de largo.
-
-La parte utilizable del folio deberá aprovecharse al máximo posible y no deberán dejarse espacios en blanco.
+(DEROGADO, P.O. 21 DE AGOSTO DE1999)
 
 ###### ARTICULO 78.
 
-Por cada tomo del Protocolo Abierto Especial el Notario llevará un libro de control de folios el cual deberá estar encuadernado sólidamente y empastado.
-
-Una vez que el Notario haya asentado en los folios un instrumento deberá hacer constar de inmediato en el libro indicando, el número del mismo su fecha, los números del primer y el ultimo folios en los que fue asentado; la naturaleza del acto jurídico que contenga y los nombres de la partes.
-
-Al terminar cada hoja de este libro asentará su firma y sello de autorizar
-
-El libro a que se refiere este Artículo no será enviado a la Dirección Estatal del Notariado ni para revisión ni para su guarda en forma definitiva.
+(DEROGADO, P.O. 21 DE AGOSTO DE1999)
 
 ###### ARTICULO 79.
 
-La numeración de los instrumentos será progresiva e igualmente será progresivo el número de los folios que se empleen.
-
-Cuando por cualquier razón se inutilice un folio antes de que la escritura sea firmada por alguna de las partes, el Notario podrá sustituir el folio o folios inutilizados por otros, aunque no sean de numeración sucesiva con tal de que sean de los que se estén empleando el mismo día, debiendo tomar nota de todo ello en el libro a que se refiere el Artículo anterior y asentarlo al pie de la escritura antes de la firmas, anotando los números de los folios utilizados así como de los inutilizados, además en el folio cuyo número siga al intercalado se asentará una mención de que el faltante entre aquél y el que le precede se usó en substitución de otro con numeración anterior y de los números de folios entre los cuales quedó el intercalado.
+(DEROGADO, P.O. 21 DE AGOSTO DE1999)
 
 ###### ARTICULO 80.
 
-Todo instrumento se iniciará al principio de un folio y si al final del último empleado en el mismo queda espacio, después de las firmas y autorización, éste se empleará para asentar las notas a que se refiere el Artículo 51 de esta Ley.
+(DEROGADO, P.O. 21 DE AGOSTO DE1999)
 
 ###### ARTICULO 81.
 
-Dentro de los treinta días hábiles siguientes a la terminación de un tomo, el Notario deberá asentar una razón en la que se indicará la fecha del asiento, el número de folios utilizados e instrumentos asentados y pondrá al calce de la misma su firma y sello de autorizar.
-
-La hoja en la que conste esta razón deberá agregarse al final del último de los volúmenes que formen el tomo y el Notario comunicará a la Dirección Estatal del Notariado el contenido de la nota de terminación.
+(DEROGADO, P.O. 21 DE AGOSTO DE1999)
 
 ###### ARTICULO 82.
 
-A partir de la fecha en que se haga la anotación de terminación del tomo a que se refiere el Artículo anterior, el Notario dispondrá de un término de seis meses para encuadernar los volúmenes,
-
-Dentro de los treinta y cinco días naturales siguientes a la fecha de terminación del tomo; a continuación de la razón a que se refiere el Artículo anterior, hará constar el número del mismo, el de los volúmenes que contiene el numero de hojas de que consta cada volumen, el número de instrumentos contenidos en el tomo con expresión del número correspondiente al primero y al ultimo de los instrumentos asentados en el mismo y eventualmente los números de los instrumentos que no estén autorizados, señalando la razón por la que no lo están. Al calce de esta nota el Notario asentará su firma y sello de autorizar.
-
-Dentro de los treinta días hábiles siguientes a la fecha en que deba estar encuadernado cada tomo, el Notario deberá enviarlo a la Dirección Estatal del Notariado, dicha oficina revisará la exactitud de la razón a que se refiere el párrafo anterior debiendo devolver el tomo al Notario dentro de los cinco días hábiles siguientes a la fecha de la entrega.
+(DEROGADO, P.O. 21 DE AGOSTO DE1999)
 
 ###### ARTICULO 83.
 
-En el último folio utilizado de cada escritura si hubiere necesidad el Notario pondrá después de la autorización preventiva o la definitiva cuando la primera no sea necesaria, el encabezado "Notas Complementarias" y ahí consignará todas las anotaciones que en el protocolo ordinario debieran hacerse marginalmente, si la parte final del folio no fuere suficiente, las anotaciones se harán en una o varias hojas comunes que se agregarán al apéndice, selladas y firmadas por el Notario consignando el número de la escritura que corresponda.
+(DEROGADO, P.O. 21 DE AGOSTO DE1999)
 
 ###### ARTICULO 84.
 
-Serán aplicables al Protocolo Abierto Especial, todas las demás disposiciones de la presente Ley que no se opongan a lo establecido en este Capitulo.
+(DEROGADO, P.O. 21 DE AGOSTO DE1999)
 
 ### CAPITULO TERCERO. DE LAS ESCRITURAS Y ACTOS NOTARIALES
 
 ###### ARTICULO 85.
 
 Escritura es el instrumento autorizado en el libro del Protocolo para hacer constar un acto jurídico.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 1999)</small>
+
+Acta notarial es el instrumento en el que se relaciona un hecho o hechos materiales o diligencias que el Notario asienta bajo su fe, a solicitud de parte interesada.
 
 Acto notarial es el instrumento en el que se relacionan un hecho o hechos materiales o diligencias que en el Notario asienta bajo su fe, a solicitud de parte interesada.
 
@@ -1090,3 +1160,23 @@ EMILIO M. GONZALEZ.-Rúbrica.
 P.O. 2 DE DICIEMBRE DE 1995.
 
 UNICO.- El presente Decreto iniciaI su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE AGOSTO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+SEGUNDO.- Los notarios en ejercicio continuarán utilizando los libros del protocolo que tuvieren autorizados hasta su conclusión; concluido este, deberán ajustarse a las reformas establecidas en el presente decreto; solo en el caso de que requieran nuevos libros antes del día primero de enero del 2000, en que deberá estar el nuevo sistema de folios listos para operar, se les podrá autorizar los libros necesarios.
+
+TERCERO.- La numeración de los instrumentos con que cada notario iniciará el uso del protocolo a que se refieren las presentes reformas, será la que continúe al último instrumento asentado en los libros que dejaren de usarse.
+
+CUARTO.- Los folios del protocolo abierto especial actualmente en uso, serán utilizados por los Notarios hasta que se terminen. Concluido el plazo del 31 de diciembre de 1999 inutilizarán los restantes, debiendo, en un término de 180 días hábiles, entregar a la Dirección Estatal del Notariado todos sus tomos debidamente empastados.
+
+QUINTO.- Los Notarios del patrimonio inmueble federal, cancelarán los libros que les hayan sido autorizados el 31 de diciembre de 1999, remitiéndolos en el mismo plazo señalado en el artículo anterior.
+
+SEXTO.- El Archivo General de Notarías entregará a la Dirección Estatal del Notariado los libros bajo su encargo, en un plazo de 180 días a la entrada en vigor de este decreto.
+
+SEPTIMO.- Los Notarios solo conservaran a partir del 30 de junio del 2000, los volúmenes del protocolo ordinario de los últimos cinco años.
+
+OCTAVO.- Los Notarios suplentes que por convenio con su titular estén actuando en el protocolo, dejarán de hacerlo en términos del articulo 51 de este Decreto, en un plazo de 90 días hábiles después de su entrada en vigor.
+
+NOVENO.- Los Notarios titulares que actualmente no hayan designado suplente, procederán a hacerlo en un plazo que no excederá los 15 días naturales a la entrada en vigor del presente decreto, en términos como lo señala la ley.
