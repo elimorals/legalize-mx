@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1999-09-25"
+last_updated: "2000-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2000.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -127,7 +127,7 @@ La ley determinará los casos graves en los cuales el Juez podrá revocar la lib
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1994)</small>
 
-II. No podrá ser obligado a declarar. Queda prohibida y será sancionada por la ley penal, toda incomunicación, intimidación o tortura. La confesión rendida ante cualquier autoridad distinta del Ministerio Público o del Juez, o antes éstos sin la asistencia de su defensor carecerá de todo valor probatorio;
+II. No podrá ser obligado a declarar. Queda prohibida y será sancionada por la ley penal, toda incomunicación, intimidación o tortura. La confesión rendida ante cualquier autoridad distinta del Ministerio Público o del Juez, o ante éstos sin la asistencia de su defensor carecerá de todo valor probatorio;
 
 III. Se le hará saber en audiencia pública y dentro de las cuarenta y ocho horas siguientes a su consignación a la justicia, el nombre de su acusador y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo, rindiendo en este acto su declaración preparatoria;
 
@@ -1361,7 +1361,9 @@ III. (DEROGADA, P.O. 9 DE JULIO DE 1994)
 
 IV. Presentar a la Legislatura dentro de los primeros cinco días del mes de diciembre de cada año los proyectos de Ley de Ingresos y Presupuesto de Egresos Generales del Estado, que deberán regir en el año inmediato siguiente;
 
-V. Presentar a la Legislatura en los primeros diez días del mes de abril de cada año, la Cuenta de inversión de las rentas generales del Estado correspondiente al año inmediato anterior;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2000)</small>
+
+V.- Presentar a la Legislatura en los primeros diez días del mes de marzo de cada año, la Cuenta de Inversión de las rentas generales del Estado, correspondiente al año inmediato anterior;
 
 VI. Proponer a la Legislatura del Estado la Ley General de Ingresos Municipales, sin perjuicio de remitir a la propia Legislatura las iniciativas que presenten los Ayuntamientos para que se decreten impuestos especiales a sus respectivos Municipios;
 
@@ -2930,6 +2932,12 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 25 DE SEPTIEMBRE DE 1999.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE FEBRERO DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Cuenta Pública correspondiente al ejercicio del año de 1999 podrá ser presentada a más tardar el día veinte de marzo del año dos mil.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
