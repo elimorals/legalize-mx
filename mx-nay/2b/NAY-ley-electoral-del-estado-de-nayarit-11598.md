@@ -4,7 +4,7 @@ identifier: "NAY-ley-electoral-del-estado-de-nayarit-11598"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-25"
-last_updated: "1995-11-25"
+last_updated: "1997-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ELECTORAL DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 1997.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 25 de noviembre de 1995.
 
@@ -60,6 +60,10 @@ La aplicación de esta ley corresponde a los organismos electorales establecidos
 La organización de las elecciones es una función estatal que se ejerce por los Poderes Legislativo y Ejecutivo del Estado, con la participación de los partidos políticos y los ciudadanos. A ese efecto, los partidos políticos y los ciudadanos, como corresponsables de la preparación, desarrollo y vigilancia del proceso electoral, participarán en la integración de los organismos electorales según lo dispone esta ley.
 
 Las autoridades estatales y municipales están obligadas a prestar apoyo y colaboración a las autoridades y organismos electorales. La función electoral es compatible con el ejercicio del notariado y con la prórroga de la demarcación territorial.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 1997)</small>
+
+Las autoridades y organismos electorales a que se refiere esta ley, sustentarán el ejercicio de sus funciones en los principios rectores de autonomía, certeza, legalidad, independencia, imparcialidad y objetividad.
 
 ###### Artículo 3.
 
@@ -215,7 +219,7 @@ El Consejo Estatal Electoral y los Consejos Municipales, en ningún caso podrán
 
 En el caso de elecciones extraordinarias, el Congreso ajustará los plazos, conforme a la fecha señalada para las elecciones, en la convocatoria respectiva.
 
-### CAPITULO III. De la Integración de Ayuntamientos
+### CAPITULO II. De la Representación Proporcional para la Integración del Congreso y de las Fórmulas de Asignación
 
 ###### Artículo 23.
 
@@ -265,11 +269,11 @@ b) Votación estatal emitida, es la que resulte de sumar los votos a favor de lo
 
 c) Cociente de unidad, es el que resulte de dividir la votación estatal emitida entre el número total de Diputados por el principio de Representación Proporcional;
 
-d) Votación estatal ajustada, es el resultado de restar la votación estatal emitida los votos del partido apolítico al que se le aplicó la fracción III del artículo 23 de esta ley.
+d) Votación total ajustada, es el resultado de restar la votación estatal emitida los votos del partido político al que se le aplicó la fracción III del artículo 23 de esta ley.
 
 e) Resto mayor, es el remanente más alto del porcentaje de votación obtenida por cada partido político, después de aplicar el cociente de unidad o de asignación; y (sic)
 
-### CAPITULO II. De la Representación Proporcional para la Integración del Congreso y de las Fórmulas de Asignación
+### CAPITULO III. De la Integración de Ayuntamientos
 
 ###### Artículo 25.
 
@@ -303,11 +307,15 @@ La integración de Regidores de Representación Proporcional, se hará por el Co
 
 ### CAPITULO I. De su Constitución y Registro
 
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 1997)</small>
+
 ## TITULO CUARTO. De los Partidos Políticos
 
 ### CAPITULO II. De los Derechos y Obligaciones
 
-###### Artículo 27.
+###### ARTICULO 27.
+
+Los partidos políticos son entidades de interés público; tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio popular.
 
 Toda organización que pretenda constituirse como partido político estatal deberá formular su declaración de principios, programa de acción y los estatutos que normen sus actividades.
 
@@ -527,9 +535,11 @@ El Consejo Estatal Electoral gestionará la obtención de un catálogo de horari
 
 Asimismo promoverá ante las autoridades correspondientes del Instituto Federal Electoral, el otorgamiento de tiempos en la radio y televisión de cobertura estatal o nacional, para que sean asignados a los partidos políticos a nivel local.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 1997)</small>
+
 ###### Artículo 44.
 
-Los partidos políticos tendrán derecho a financiamiento público en apoyo a sus actividades, independientemente de las demás prerrogativas otorgadas en esta ley, conforme a las disposiciones siguientes:
+Los partidos políticos con registro ante el organismo estatal electoral, independientemente de las demás prerrogativas otorgadas por esta ley, de acuerdo con la disponibilidad y obsecuencia al presupuesto del estado, tendrán derecho al financiamiento público en apoyo a sus actividades, así como para el desarrollo de aquellas tendientes a la obtención del sufragio, conforme a las disposiciones siguientes:
 
 I. El Consejo Estatal Electoral acordará el monto total de financiamiento público a distribuir entre los partidos políticos, en base a los limites de gastos de campaña debidamente autorizados en la última elección de Diputados por el principio de Mayoría Relativa, el cual será equivalente al 20 por ciento de lo que resulte de multiplicar dos veces el límite de gastos del total de los dieciocho distritos uninominales;
 
@@ -538,6 +548,10 @@ II. El monto que resulte de la anterior operación se dividirá por mitades: Una
 III. Los partidos políticos recibirán el monto de su financiamiento en tres anualidades, durante los tres años siguientes a la elección. La primera anualidad será por el 20% del total, la segunda por el 30% y la última por el 50%;
 
 IV. Sólo tendrán derecho al financiamiento público, los partidos políticos que hayan alcanzado el 1.5 % de la votación estatal.
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 1997)</small>
+
+V. Para el desarrollo de las actividades tendientes a la obtención del sufragio, se constituirá un monto equivalente al cien por ciento del financiamiento público que les corresponda a los partidos políticos en el año de la elección ordinaria respectiva, el cual se distribuirá entre todos los partidos políticos con registro de la siguiente manera: El treinta por ciento en forma igualitaria y el setenta por ciento restante en proporción directa a la votación obtenida por cada uno de ellos en la última elección de Diputados, en relación con la votación estatal emitida.
 
 ###### Artículo 45.
 
@@ -581,6 +595,10 @@ Las aportaciones de bienes muebles e inmuebles deberán destinarse únicamente p
 
 Las aportaciones en especie, se harán constar en contrato celebrado y formalizado conforme a las leyes aplicables.
 
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 1997)</small>
+
+El conjunto de las aportaciones o donativos a que se refiere este artículo, no podrá exceder en 2.5 veces de lo que le corresponda al partido político de que se trate, en el año respectivo, por la vía del financiamiento público.
+
 ###### Artículo 50.
 
 El autofinanciamiento, estará constituido por los ingresos que los partidos políticos obtengan de sus actividades promocionales, tales como conferencias, espectáculos, juegos y sorteos, eventos culturales, ventas editoriales de bienes y propaganda utilitaria, así como cualquier otra similar que realicen para allegarse fondos, las que estarán sujetas a las leyes correspondientes a su naturaleza.
@@ -591,9 +609,15 @@ Para obtener financiamiento por rendimientos financieros, los partidos político
 
 Los fondos y fideicomisos que constituyan, serán manejados a través de las operaciones bancarias y financieras que cada partido político considere conveniente. Con excepción de la adquisición de acciones bursátiles, los rendimientos financieros obtenidos a través de esta modalidad, deberán destinarse exclusivamente para el cumplimiento de los objetivos del partido político.
 
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 1997)</small>
+
 ###### Artículo 52.
 
-El Consejo Estatal Electoral nombrará una comisión para la revisión de los informes que los partidos políticos deberán presentar sobre el origen y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como de su empleo y aplicación. La Comisión se integrará por dos Consejeros Ciudadanos y por el Secretario Técnico del Consejo quien la presidirá.
+El Consejo Estatal Electoral establecerá los procedimientos y mecanismos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos, así como las reglas y lineamientos específicos para la presentación de sus informes y comprobantes.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1997)</small>
+
+De igual manera el Consejo Estatal Electoral nombrará una comisión para la revisión de los informes que los partidos políticos deberán presentar sobre el origen y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como de su empleo y aplicación. La Comisión se integrará por dos Consejeros Ciudadanos y por el Secretario Técnico del Consejo quien la presidirá.
 
 A ese efecto, los partidos políticos presentarán anualmente, a más tardar el último día del mes febrero del año siguiente del ejercicio que se reporte, los ingresos totales y gastos ordinarios que hayan realizado durante el ejercicio objeto del informe, acompañando los comprobantes correspondientes.
 
@@ -3167,7 +3191,7 @@ d) Cuando durante el procedimiento aparezca o sobrevenga alguna causal de improc
 
 ### CAPITULO XI. De las Pruebas
 
-### CAPITULO V. De los Plazos y de los Términos
+### CAPITULO IV. De la Competencia, de la Legitimación y de la Personería
 
 ###### Artículo 265.
 
@@ -3179,7 +3203,7 @@ El Pleno del Tribunal Electoral del Estado deberá acumular los recursos de reco
 
 ### CAPITULO XII. De las Resoluciones
 
-### CAPITULO IV. De la Competencia, de la Legitimación y de la Personería
+### CAPITULO V. De los Plazos y de los Términos
 
 ###### Artículo 266.
 
@@ -3674,3 +3698,11 @@ El Secretario General de Gobierno.
 Lic. Sigfrido de la Torre Miramontes
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE JULIO DE 1997.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- Se derogan en lo conducente las disposiciones contenidas en la Ley Electoral del Estado, materia de la presente iniciativa.
