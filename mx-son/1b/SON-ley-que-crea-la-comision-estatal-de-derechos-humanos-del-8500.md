@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-la-comision-estatal-de-derechos-humanos-del-8500"
 country: "mx"
 rank: "ley"
 publication_date: "1992-10-08"
-last_updated: "1998-12-28"
+last_updated: "2003-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 8 de octubre de 1992.
 
@@ -133,7 +133,9 @@ El Presidente de la Comisión deberá reunir para su designación los siguientes
 
 I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
 
-II.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco el día de su designación;
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2003)</small>
+
+II.- Tener cumplidos treinta y cinco años de edad, el día de su nombramiento;
 
 III.- No haber sido sentenciado por la comisión de delitos dolosos;
 
@@ -584,3 +586,9 @@ Se derogan aquellas disposiciones que en lo conducente se opongan a la aplicaci�
 ###### ARTÍCULO CUARTO.
 
 Las facultades otorgadas en la presente Ley a las Comisiones Unidas de Justicia y Derechos Humanos a efecto de instruir el procedimiento de selección y nombramiento del Presidente de la Comisión Estatal de Derechos Humanos del Estado, entrará en vigor una vez concluido el período ordinario del actual Presidente de dicho Organismo.
+
+B.O. 15 DE DICIEMBRE DE 2003.
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
