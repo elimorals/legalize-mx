@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-9"
 country: "mx"
 rank: "ley"
 publication_date: "1936-01-10"
-last_updated: "1980-01-07"
+last_updated: "1982-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-12-30"
 
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ENERO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 1982.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 10 de enero de 1936.
 
@@ -1261,7 +1261,9 @@ I.- Que la solicite el agraviado.
 
 II.- Que no se siga perjuicio al interés social, ni se contravengan disposiciones de orden público.
 
-Se considerará, entre otros casos, que si se siguen esos perjuicios o se realizan esas contravenciones, cuando, de concederse la suspensión: se continúe el funcionamiento de centros de vicio, de lenocinios, la producción y el comercio de drogas enervantes; se permitan la consumación o continuación de delitos o sus efectos o el alza de precios con relación a artículos de primera necesidad o bien de consumo necesario; se impida la ejecución de medidas para combatir epidemias de carácter grave, el peligro de invasión de enfermedades exóticas en el país o la campaña contra el alcoholismo y la venta de substancias que envenenen al individuo o degeneren la raza.
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 1982)</small>
+
+Se considerará, entre otros casos, que si se siguen esos perjuicios o se realizan esas contravenciones, cuando, de concederse la suspensión se continúe el funcionamiento de centros de vicio, de lenocinios, la producción y el comercio de drogas enervantes; se permita la consumación o continuación de delitos o de sus efectos, o el alza de precios con relación a artículos de primera necesidad o bien de consumo necesario; se impida la ejecución de medidas para combatir epidemias de carácter grave, el peligro de invasión de enfermedades exóticas en el país, o la campaña contra el alcoholismo y la venta de substancias que envenenen al individuo o degeneren la raza; o se permita el incumplimiento de las órdenes militares.
 
 III.- Que sean de difícil reparación los daños y perjuicios que se causen al agraviado con la ejecución del acto.
 
@@ -2434,3 +2436,9 @@ Los amparos en revisión sobre inconstitucionalidad de leyes de los Estados que 
 ###### ARTICULO TERCERO.
 
 Se faculta a la Suprema Corte de Justicia de la Nación, para dictar las medidas necesarias a fin de dar cumplimiento y efectividad a las presentes reformas.
+
+D.O.F. 30 DE NOVIEMBRE DE 1982.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación, quedando derogadas todas las disposiciones que se le opongan.
