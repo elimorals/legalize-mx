@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2004-10-01"
+last_updated: "2005-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE FEBRERO DE 2005.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -138,7 +138,7 @@ II. A la Secretaría de Desarrollo Urbano y Vivienda:
 
 III. A la Secretaría de Desarrollo Económico:
 
-1 . Dirección General de Regulación y Fomento Económico;
+1. Dirección General de Regulación y Fomento Económico;
 
 2. Dirección General de Abasto, Comercio y Distribución; y
 
@@ -642,9 +642,9 @@ IV. Dirigir y resolver, con base en los lineamientos que fije el Jefe de Gobiern
 
 V. Mantener actualizado el escalafón de los trabajadores y vigilar la adecuada difusión de los movimientos y procesos escalafonarios;
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
 
-VI. Autorizar los viáticos y pasajes nacionales y tramitar ante la Secretaría de Finanzas, previa autorización del Titular del Gobierno del Distrito Federal la suficiencia presupuestal de los viáticos y pasajes internacionales, de acuerdo a las necesidades de la Administración Pública;
+VI. Autorizar los viáticos y pasajes nacionales y tramitar ante el Titular de la Administración Pública del Distrito Federal la autorización de los pasajes internacionales y los viáticos en el extranjero, previa validación de suficiencia presupuestal emitida a las dependencias, órganos desconcentrados y entidades por la Secretaría de Finanzas;
 
 VII. Imponer, reducir y revocar las sanciones administrativas a que se haga acreedor el personal, de conformidad con las disposiciones jurídicas y administrativas aplicables, sin perjuicio de las que les competan jurídica y administrativamente imponer a otras autoridades;
 
@@ -2582,7 +2582,7 @@ VII. Participar en los programas de investigación relativos a los servicios de 
 
 VIII. Realizar todas aquellas acciones que sean necesarias para mejorar la calidad en la atención de los servicios médicos y de urgencias a su cargo, en observancia de las disposiciones normativas emitidas por la Secretaría de Salud del Distrito Federal y otras autoridades competentes del Gobierno del Distrito Federal; y
 
-IX. Promover la ampliación de la cobertura y la prestación de los servicios a su cargo, apoyando las políticas y programas que para tal efecto dicten y formulen las autoridades correspondientes de la Secretaría de Salud del Distrito Federal.
+IX. Promover la ampliación de la cobertura y la prestación de los servicios a su cargo, apoyando las políticas y programas que para tal efecto dicten y formulen las autoridades correspondientes de la Secretaría de Salud del Distrito Federal;
 
 > <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2004)</small>
 
@@ -2590,9 +2590,7 @@ X. Establecer las necesidades institucionales de medicamentos, insumos y equipo 
 
 > <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2004)</small>
 
-XI. Definir políticas y criterios generales a los que deberá sujetarse el proceso de selección, distribución, adquisición, almacenamiento, prescripción, dispensación y uso de medicamentos, vacunas y toxoides en los servicios de las Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo adscritas a la Secretaría y de las entidades
-
-sectorizadas a ella;
+XI. Definir políticas y criterios generales a los que deberá sujetarse el proceso de selección, distribución, adquisición, almacenamiento, prescripción, dispensación y uso de medicamentos, vacunas y toxoides en los servicios de las Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo adscritas a la Secretaría y de las entidades sectorizadas a ella;
 
 > <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2004)</small>
 
@@ -3964,83 +3962,55 @@ VII. Conducir y promover investigaciones históricas y bibliográficas.
 
 DE LA OFICIALIA MAYOR.
 
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 98.
 
 Corresponde a la Dirección General de Administración de Personal:
 
-I. Dirigir y resolver, con base en los lineamientos que fije el Jefe de Gobierno, los asuntos del personal al servicio de la Administración Pública;
+I. Proponer las normas para regular los asuntos del personal al servicio de la Administración Pública, con base en los criterios que fije el Oficial Mayor;
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
+II. Autorizar los programas de contratación de los prestadores de servicios profesionales de las dependencias, órganos desconcentrados y entidades;
 
-II. Participar, en el ámbito de su competencia, en el desarrollo, operación, actualización y difusión con el apoyo de las Dependencias, Órganos Político-Administrativos y los Órganos Desconcentrados, del modelo, estructura, proceso y movimientos escalafonarios;
+III. Llevar a través del Sistema Integral Desconcentrado de Nómina, los registros del personal de las dependencias, órganos desconcentrados, órganos político-administrativos, así como de las entidades que utilizan el Registro Federal de Contribuyentes del Gobierno del Distrito Federal;
 
-III. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
+IV. Diseñar y proponer los tabuladores de sueldos del personal técnico-operativo, de estructura y eventual de las dependencias, órganos político-administrativos, órganos desconcentrados y entidades;
 
-IV. Tramitar, cuando proceda, la terminación de los nombramientos de los trabajadores de base y confianza para la resolución del Oficial Mayor;
+V. Planear, dirigir y controlar la administración de sueldos y salarios;
 
-V. (DEROGADA, G.O. 21 DE MAYO DE 2002)
+VI. Tramitar el pago a terceros, de las retenciones hechas por su cuenta al personal, excepto las correspondientes a cuotas sindicales y pensión alimenticia de las dependencias, órganos político-administrativos, órganos desconcentrados;
 
-VI. Opinar y dictaminar sobre los programas de contratación de los prestadores de servicios profesionales de la Administración Pública;
+VII. Analizar, dictaminar y controlar el número de plazas, nivel salarial y demás características de las mismas, del personal técnico-operativo adscrito a las dependencias, órganos político-administrativos, órganos desconcentrados y entidades;
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
+VIII. Diseñar y proponer modificaciones o adiciones a los Catálogos de Puestos para las dependencias, órganos político-administrativos, órganos desconcentrados y entidades;
 
-VII. Llevar y mantener actualizado el registro del personal;
+IX. Autorizar la incorporación al Sistema Integral Desconcentrado de Nómina, de los conceptos nominales, incidencias y movimientos que afecten las percepciones y deducciones del personal, que expida la Dirección General de Política Laboral y Servicio Público de Carrera;
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
+X. Validar y dar seguimiento a la programación, asignación y ejercicio de los recursos presupuestales destinados al capítulo de servicios personales de las dependencias, órganos político-administrativos, órganos desconcentrados y entidades;
 
-VIII. Diseñar, aplicar las normas y ejecutar las reformas para la administración de personal, así como mantener los registros de sus movimientos, y en su caso, dictaminar la compatibilidad de empleos;
+XI. Dictaminar las modificaciones a las estructuras ocupacionales de las dependencias, órganos político-administrativos, órganos desconcentrados y entidades;
 
-IX. Proponer, diseñar modificaciones o adiciones a los catálogos de puestos, tabuladores y mecanismos de aplicación de remuneraciones, incentivos y estímulos al personal;
+XII. Emitir las credenciales de identificación de los trabajadores adscritos a las dependencias y órganos desconcentrados;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+XIII. Consolidar la información mensual del Impuesto Sobre la Renta retenido a personas físicas con motivo del pago de sueldos y salarios, honorarios, arrendamiento de bienes inmuebles y otras retenciones de las dependencias, órganos político-administrativos, órganos desconcentrados y entidades que utilizan el Registro Federal de Contribuyentes del Gobierno del Distrito Federal, con la finalidad de tramitar su pago oportuno ante la Secretaría de Finanzas y presentar la declaración respectiva ante la Secretaría de Hacienda y Crédito Público;
 
-X. Planear dirigir y controlar el funcionamiento de los subsistemas de planeación y organización de la administración de sueldos y salarios;
+XIV. Consolidar la información anual del Impuesto Sobre la Renta retenido a personas físicas con motivo del pago de sueldos y salarios, honorarios, arrendamiento de bienes inmuebles y otras retenciones de las dependencias, órganos político-administrativos, órganos desconcentrados y entidades que utilizan el Registro Federal de Contribuyentes del Gobierno del Distrito Federal, con la finalidad de formular y presentar oportunamente las declaraciones anuales informativas ante la Secretaría de Hacienda y Crédito Público;
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
+XV. Consolidar la información del Impuesto Sobre Nóminas, derivado del pago de sueldos y salarios al personal de las dependencias, órganos político-administrativos y órganos desconcentrados, con la finalidad de tramitar su pago oportunamente ante la Secretaría de Finanzas y presentar la declaración respectiva;
 
-XI. Formular y conducir las acciones necesarias para administrar y proporcionar el otorgamiento de las prestaciones económicas o en servicios al personal;
+XVI. Proponer la adquisición o actualización de los programas y equipos de cómputo necesarios para la operación del Sistema Integral Desconcentrado de Nómina del Gobierno del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
+XVII. Efectuar las actualizaciones de los sistemas y equipos de cómputo que se adquieran para la administración del Sistema Integral Desconcentrado de Nómina del Gobierno del Distrito Federal;
 
-XII. Realizar el pago a la representación sindical autorizada y en general a terceros, de las cantidades correspondientes a las retenciones hechas por su cuenta al personal;
+XVIII. Establecer los procesos administrativos para la operación y control del Sistema Integral Desconcentrado de Nómina del Gobierno del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+XIX. Realizar los procesos para la emisión de la Nómina de Pago de los trabajadores, con base a la información ingresada al Sistema Integral Desconcentrado de Nómina del Gobierno del Distrito Federal, por parte de las dependencias, órganos político-administrativos, órganos desconcentrados y entidades, cuyo personal se encuentra registrado en el mismo;
 
-XIII. Analizar y controlar el número de plazas y nivel salarial del personal técnico operativo adscrito a las Dependencias, Unidades Administrativas, Órganos Político Administrativos, Órganos Desconcentrados y Unidades Administrativas de Apoyo Técnico-Operativo y Entidades de la Administración Pública;
+XX. Proporcionar la información y los reportes que requieran los usuarios del Sistema Integral Desconcentrado de Nómina del Gobierno del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
+XXI. Administrar y resguardar la Base de Datos del Sistema Integral Desconcentrado de Nómina del Gobierno del Distrito Federal; y
 
-XIV. Elaborar los proyectos de catálogo general y de tabulador de los Servidores Públicos de la Administración Pública;
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
-
-XV. Registrar los catálogos de puestos;
-
-(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2002
-
-XVI. Establecer sistemas informáticos para el seguimiento, actualización, evaluación, información y aplicación de conceptos nominales incidencias y movimientos que afecten las percepciones y deducciones del personal, así como de los seguros destinados a la protección del personal; y
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
-
-XVII. Diseñar, elaborar e implementar los lineamientos para la contratación, supervisión y evaluación del personal eventual;
-
-XVIII. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
-
-XIX. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
-
-XX. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
-
-XXI. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
-
-XXII. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
-
-XXIII. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
-
-XXIV. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
-
-XXV. Administrar y proporcionar las prestaciones económicas o en servicios destinadas al personal mediante autorización de la Secretaría de Finanzas; y
-
-XXVI. Normar y validar la programación, asignación y ejercicio de los recursos presupuestales destinados al capitulo de servicios personales.
+XXII. Publicar la nómina de los trabajadores de las dependencias, órganos político-administrativos y órganos desconcentrados registrados en el Sistema de Nómina Central del Gobierno del Distrito Federal, a través de la página de Internet del mismo.
 
 ###### Artículo 99.
 
@@ -4068,7 +4038,7 @@ IX. Operar y mantener actualizado el inventario de bienes muebles del patrimonio
 
 X. Proporcionar y administrar los servicios relativos a los sistemas de comunicación y radiocomunicación y al aseguramiento de bienes patrimonio del Distrito Federal; y
 
-XI. Integrar y mantener el padrón de proveedores que ofrecen productos o servicios a las (sic) Órganos Político-Administrativos, Unidades Administrativas, Órganos Político-Administrativos y Órganos Desconcentrados;
+XI. (DEROGADA, G.O. 16 DE FEBRERO DE 2005)
 
 > <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -4150,85 +4120,67 @@ XXXIV. Proponer la forma de pago de los servicios y gastos por los dictámenes v
 
 XXXV. Asesorar, en el ámbito de sus atribuciones, a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la administración Pública.
 
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 101.
 
 Corresponde a la Dirección General de Política Laboral y Servicio Público de Carrera:
 
-I. Imponer, reducir y revocar las sanciones administrativas a que se haga acreedor el personal, de conformidad con las disposiciones aplicables y sin perjuicio de las que les competa imponer a otras autoridades;
+I. Dirigir y conducir las relaciones laborales del personal al servicio de la Administración Pública, con base en las disposiciones constitucionales y legales aplicables y los lineamientos que fije el Jefe de Gobierno y cuya dirección y conducción, conforme las disposiciones jurídicas respectivas, no estén a cargo de otra autoridad;
 
-II. Revisar las faltas en que incurran los trabajadores, así como dictaminar, en su caso, las sanciones a que se hagan acreedores, y dar vista a la Contraloría General cuando estas faltas pudieran constituir infracciones administrativas;
+II. Resolver los asuntos laborales de la Administración Pública cuya atención, conforme las disposiciones jurídicas respectivas, no esté a cargo de otra autoridad;
 
-III. Coordinar las funciones del Secretario Técnico del Grupo de Estudios sobre relaciones laborales y del Comité Técnico Consultivo de Unidades de Recursos Humanos;
+III. Dictaminar la imposición, reducción o revocación de las sanciones que pretendan aplicarse a los trabajadores de la Administración Pública dentro de los plazos previstos por las leyes y cuyo dictamen no quede a cargo de otra autoridad, conforme las disposiciones jurídicas respectivas;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+IV. Someter al Oficial Mayor, para su aprobación los dictámenes de terminación de los efectos del nombramiento de los trabajadores de la Administración Pública, que no sea competencia de otra autoridad;
 
-IV. Proponer la designación de los representantes en las Comisiones Mixtas de Escalafón y Seguridad e Higiene, así como las reglas de su actuación y la forma en que habrá de mantenerse la relación con estas y con las demás comisiones que se integren y con el Sindicato Único de Trabajadores del Gobierno del Distrito Federal;
+V. Proponer la designación de los representantes propietarios y suplentes en las Comisiones Mixtas de Escalafón y Seguridad e Higiene, Comisión Mixta de Fondo de Estímulos y Recompensas, así como las Reglas de su actuación y la forma en que habrá de mantenerse la relación con éstas y con las demás Comisiones que se integren y con el Sindicato Único de Trabajadores del Gobierno del Distrito Federal;
 
-V. Participar en la formulación de las Condiciones Generales de Trabajo, difundirlas entre el personal y vigilar su cumplimiento;
+VI. Coordinar la formulación, aplicación y operación de las Condiciones Generales de Trabajo, difundirlas entre el personal, vigilar su cumplimiento y dar el seguimiento respectivo;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+VII. Administrar los Centros de Desarrollo Infantil de la Oficialía Mayor y vigilar el servicio educativo-asistencial que se otorga a los hijos de los trabajadores y trabajadoras de la Administración Pública Centralizada del Distrito Federal, durante el horario que otorgan los mismos, proporcionándoles servicios médicos, pedagógicos, psicológicos, nutricionales y de trabajo social, durante el horario de servicio establecido, observando la normativa aplicable en materia educativa y de salud;
 
-VI. Administrar los Centros de Desarrollo Infantil al Servicio de los Hijos de las Madres Trabajadoras, proporcionándoles servicios médicos, pedagógicos, psicológicos, nutricionales y de trabajo social, durante la jornada laboral;
+VIII. Dictar normas para el funcionamiento de las estancias infantiles de los órganos político-administrativos;
 
-VII. Dictar normas para el funcionamiento de las Estancias Infantiles de las demarcaciones territoriales de los órganos Político-Administrativos;
+IX. Emitir normas, lineamientos y asesorar a las dependencias, unidades administrativas, órganos político-administrativos, órganos desconcentrados y entidades de la Administración Pública en materia de relaciones laborales;
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
+X. Coadyuvar con la Dirección Jurídica de la Oficialía Mayor, en la atención de los asuntos de naturaleza laboral de la Oficialía Mayor;
 
-VIII. Emitir normas, lineamientos y asesorar a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública en materia de relaciones laborales;
+XI. Diseñar, coordinar, implementar y evaluar el Sistema del Servicio Público de Carrera, así como ejecutar los planes y programas que en el ámbito de su competencia se establezcan;
 
-IX. Diseñar, coordinar su implementación y evaluar el Sistema del Servicio Público de Carrera, así como de sus Programas, ejecutándose en el ámbito de su competencia, y desarrollar, operar y evaluar las políticas de desconcentración de los recursos humanos;
+XII. Coordinar la elaboración del Proyecto de Catálogo General del Servicio Público de Carrera;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+XIII. Vigilar que las plazas del Sistema del Servicio Público de Carrera sean ocupadas conforme a las normas y políticas aplicables;
 
-X. Coadyuvar con la Coordinación General de Modernización Administrativa en la elaboración del Proyecto de Catálogo General del Servicio Público de Carrera, considerando la opinión del Consejo Directivo del Sistema Integral del Servicio Público de Carrera;
+XIV. Participar en el desarrollo, operación, actualización y difusión, con el apoyo de las dependencias, órganos político-administrativos y los órganos desconcentrados, del modelo, estructura, proceso y movimientos escalafonarios;
 
-XI. Vigilar que las plazas del Sistema del Servicio Público de Carrera sean ocupadas conforme a las normas y políticas aplicables;
+XV. Normar, desarrollar, operar y evaluar el Sistema General de Capacitación y Enseñanza Abierta del Personal de la Administración Pública Centralizada, así como promover, difundir y evaluar los Programas de Servicio Social y Prácticas Profesionales;
 
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
+XVI. Normar, autorizar y vigilar los Programas de Capacitación y Enseñanza Abierta del Personal de la Administración Pública Desconcentrada del Distrito Federal, así como los Programas de Servicio Social y Prácticas Profesionales;
 
-XII. Participar, en el ámbito de su competencia, en el desarrollo, operación, actualización y difusión con el apoyo de las Dependencias, Órganos Político-Administrativos y los Órganos Desconcentrados, del modelo, estructura, proceso y movimientos escalafonarios;
+XVII. Planear, autorizar, normar y evaluar los lineamientos para la contratación, supervisión y evaluación del personal eventual de la Administración Pública Centralizada y Desconcentrada del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
+XVIII. Coordinar la creación, revisión, modificación y actualización del Catálogo General y Catálogo de Puestos de los Trabajadores de Base de la Administración Pública del Distrito Federal, y mecanismos de aplicación de remuneraciones, incentivos y estímulos al personal;
 
-XIII. Diseñar y aplicar el marco global, las políticas y los programas correspondientes al desarrollo de personal y en lo concerniente a su reclutamiento, selección e inducción;
+XIX. Coordinar la política salarial de los trabajadores de base y eventuales, al servicio de la Administración Pública del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
+XX. Tramitar y gestionar el pago a la representación sindical autorizada y en general a terceros, de las cantidades correspondientes a las retenciones hechas por su cuenta al personal;
 
-XIV. Normar, desarrollar, operar y evaluar el sistema general de capacitación del personal y enseñanza abierta, así como promover, difundir y evaluar los programas de servicio social y prácticas profesionales;
+XXI. Vigilar que las normas y herramientas aplicadas al funcionamiento de los sistemas informáticos que realice la Dirección General de Administración de Personal se adecuen a la normativa que para la operación, seguimiento, actualización, evaluación, información y aplicación de conceptos nominales, incidencias y movimientos que afecten las percepciones y deducciones del personal, así como de los seguros destinados a la protección del personal, emita la Dirección General de Política Laboral y Servicio Público de Carrera;
 
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
+XXII. Normar, formular, operar y verificar el otorgamiento de las prestaciones económicas, sociales y/o en especie, así como de los seguros destinados a la protección del personal y la difusión y administración de dichos seguros;
 
-XV. Opinar sobre los programas de contratación de los prestadores de servicios profesionales de la Administración Pública cuyo nivel sea equivalente al del personal técnico operativo;
+XXIII. Normar, tramitar, gestionar y operar para los trabajadores de la Administración Pública del Distrito Federal los programas de otorgamiento de créditos para la vivienda que implemente el Fondo de la Vivienda del ISSSTE;
 
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
+XXIV. Operar y verificar la aplicación de descuentos vía nómina, solicitados por el Fondo de la Vivienda del ISSSTE, a trabajadores derivados de los programas de créditos para la vivienda;
 
-XVI. Participar con la Dirección General de Administración de Personal en el diseño y elaboración de los lineamientos para la contratación, supervisión y evaluación del personal eventual;
+XXV. Tramitar, supervisar y evaluar los procedimientos para la solicitud de pago de prima de Seguro Institucional y Seguro Colectivo de retiro del personal de la Secretaría de Seguridad Pública;
 
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
+XXVI. Tramitar, supervisar y evaluar los procedimientos para la solicitud de pago de aportaciones patronales, como Fondo de Ahorro de Retiro Jubilatorio, Fondo de Ahorro Capitalizable, Sistema de Ahorro para el Retiro y Fondo de la Vivienda del ISSSTE, así como las aportaciones patronales derivadas de los laudos, como Sistema de Ahorro para el Retiro, Fondo de la Vivienda del ISSSTE, Fondo de Ahorro Capitalizable y Seguro Institucional;
 
-XVII. Opinar sobre las modificaciones o adiciones a los catálogos de puestos, tabuladores y mecanismos de aplicación de remuneraciones, incentivos y estímulos al personal;
+XXVII. Participar en el desarrollo, operación, actualización y difusión, con el apoyo de las dependencias, órganos político-administrativos y los órganos desconcentrados, en la prevención de riesgos de la seguridad e integridad de los trabajadores en sus centros de trabajo;
 
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
-
-XVIII. Opinar sobre el funcionamiento de los subsistemas de planeación y organización de la administración de sueldos y salarios al personal;
-
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
-
-XIX. Tramitar y gestionar el pago a la representación sindical autorizada y en general a terceros, de las cantidades correspondientes a las retenciones hechas por su cuenta al personal;
-
-> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
-
-XX. Coadyuvar con la Dirección General de Administración de Personal en la elaboración de los sistemas informáticos para el seguimiento, actualización, evaluación, información y aplicación de conceptos nominales, incidencias y movimientos que afecten las percepciones y deducciones del personal, así como de los seguros destinados a la protección del personal;
-
-> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
-
-XXI. Formular y conducir las políticas y lineamientos para el otorgamiento de las prestaciones económicas y/o en servicios al personal, así como de los seguros destinados a la protección del personal, y
-
-> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
-
-XXII. Difundir y administrar los seguros destinados a la protección del personal;
-
-XXIII. Dictaminar el otorgamiento de prestaciones, estímulos y recompensas al personal.
+XXVIII. Proponer la designación de los representantes propietarios y suplentes en los fideicomisos de los fondos de ahorro, sujetándose a las normas establecidas para su operación.
 
 > <small>(ADICIONADO G.O. 16 DE AGOSTO DE 2001)</small>
 
@@ -4254,9 +4206,9 @@ VI. Integrar y mantener actualizado el registro de las estructuras orgánicas de
 
 VII. Opinar sobre los programas de contratación de los prestadores de servicios profesionales de la Administración Pública cuyo nivel sea equivalente al de los servidores públicos de estructura;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
 
-VIII. Tramitar, cuando así proceda, el pago de viáticos y pasajes en el caso de comisiones o viajes nacionales e internacionales, de acuerdo a las necesidades de la Administración Pública, para la autorización, en su caso, de la Secretaría de Finanzas respecto de la suficiencia presupuestal y de la Oficialía Mayor;
+VIII. Revisar las solicitudes y documentos de pasajes y viáticos nacionales o pasajes internacionales y viáticos en el extranjero que presenten las áreas de administración o sus equivalentes en las dependencias o entidades, verificando el cumplimiento de los requisitos y formalidades establecidos en la normatividad aplicable, y en su caso, tratándose de comisiones nacionales, presentarlas al Oficial Mayor para su autorización, y en las internacionales para que éste gestione su autorización ante el Jefe de Gobierno, solicitudes que en todo caso, previo a su autorización, deberán contar con la validación de suficiencia presupuestal de la Subsecretaria de Egresos;
 
 > <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -4268,25 +4220,31 @@ X. Definir los lineamientos a que deberán ajustarse las Dependencias, Unidades 
 
 XI. Proponer las normas y coordinar el desarrollo de los programas y acciones para la desregulación y simplificación administrativa, así como para la simplificación y clarificación de los trámites y requisitos que se aplican en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Delegaciones y Entidades de la Administración Pública del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
 
-XII. Proponer las normas y supervisar la instalación, operación y evaluación del funcionamiento de las Ventanillas de atención ciudadana, Ventanillas Únicas y de Gestión, así como los Centros de Servicios y Atención Ciudadana;
+XII. Proponer las normas, supervisar y evaluar la instalación y operación de las áreas de atención ciudadana, ventanillas únicas delegacionales, centros de servicios y atención ciudadana y las demás áreas de la Administración Pública del Distrito Federal que ofrezcan atención al público;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
 
-XIII. Establecer lineamientos para la selección de los responsables y operadores de las Ventanillas Únicas y de Gestión, así como los Centros de Servicios y Atención Ciudadana, los verificadores administrativos y los demás trabajadores que atienden directamente al público, y supervisar su cumplimiento;
+XIII. Establecer y supervisar el cumplimiento de los lineamientos para el reclutamiento, evaluación, selección y acreditación del personal en funciones de atención al público de las áreas de atención ciudadana, ventanillas únicas delegacionales, centros de servicios y atención ciudadana, así como para los verificadores administrativos y los demás trabajadores que atienden directamente al público;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
 
-XIV. Establecer los lineamientos y políticas y ejecutar las acciones que se requieran para la expedición de las credenciales e identificaciones a los responsables y operadores de Ventanilla Única y de Gestión, así como de los Centros de Servicios y Atención Ciudadana y al personal de la Administración Pública del Distrito Federal que realiza funciones de inspección y de verificación administrativa;
+XIV. Establecer los lineamientos y políticas y ejecutar las acciones que se requieran, para que se expidan las credenciales para el personal en funciones de atención al público de las áreas de atención ciudadana, ventanillas únicas delegacionales y centros de servicios y atención ciudadana y personal de la Administración Pública del Distrito Federal que realiza funciones de inspección y de verificación administrativa;
 
 XV. Coordinar la permanente actualización del Manual de Trámites y Servicios al Público;
 
-XVI. Elaborar, difundir, dar seguimiento, supervisar y evaluar el Programa de Austeridad del Gasto Público, dando participación a todas las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Delegaciones y Entidades que integran la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
 
-XVII. Coordinar la implantación de las medidas de austeridad en acciones y programas a cargo de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Delegaciones y Entidades de la Administración Pública del Distrito Federal, supervisar su cumplimiento y evaluar los resultados;
+XVI. Registrar, dar seguimiento, consolidar y difundir los ahorros y recuperaciones obtenidos mediante acciones de racionalidad que implementen las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
 
-XVIII. Formular y proponer proyectos de ley, reglamentos, decretos, acuerdos y circulares en materia de modernización, desregulación y simplificación administrativa, austeridad y para mejorar o modernizar la administración de los recursos humanos y materiales;
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
+
+XVII. Actualizar y difundir los criterios de austeridad entre las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
+
+XVIII. Formular y proponer proyectos de leyes, reglamentos, decretos, acuerdos y circulares en materia de modernización, desregulación y simplificación administrativas, austeridad, pasajes, viáticos, atención ciudadana, actividad verificadora y para mejorar o modernizar la administración de los recursos humanos y materiales;
 
 XIX. Realizar las acciones necesarias para la conducción de las Entidades del sector y participar en la elaboración de sus programas, vigilando que sean congruentes con el Plan Nacional de Desarrollo y el Programa General de Desarrollo del Distrito Federal;
 
@@ -4306,7 +4264,11 @@ XXIII. Impulsar y evaluar las acciones de modernización administrativa y de los
 
 > <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
-XXIV. Participar conjuntamente con la Secretaría de Finanzas y la Contraloría General, en la planeación, establecimiento y coordinación de los sistemas de autoevaluación integral de la información y de seguimiento de la gestión pública.
+XXIV. Participar conjuntamente con la Secretaría de Finanzas y la Contraloría General, en la planeación, establecimiento y coordinación de los sistemas de autoevaluación integral de la información y de seguimiento de la gestión pública;
+
+> <small>(ADICIONADA, G.O. 16 DE FEBRERO DE 2005)</small>
+
+XXV. Recibir, evaluar y registrar para su seguimiento la información que en materia de atención ciudadana y actividad verificadora le remitan las autoridades competentes de la Administración Pública del Distrito Federal.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -5764,7 +5726,7 @@ F) Dirección General de Desarrollo Delegacional.
 
 > <small>(ADICIONADO, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
 
-G) Dirección General de Gerencia Delegacional
+G) Dirección General de Gerencia Delegacional.
 
 > <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -7022,7 +6984,7 @@ V. Llevar a cabo acciones tendientes a promover la incorporación de barrios reg
 
 Corresponde a la Dirección General de Desarrollo Delegacional:
 
-I Coordinar las Direcciones Territoriales, vigilando el cumplimiento del programa Delegacional;
+I. Coordinar las Direcciones Territoriales, vigilando el cumplimiento del programa Delegacional;
 
 II. Elaborar proyectos y programas especiales para responder a la demanda ciudadana;
 
@@ -8443,5 +8405,9 @@ G.O. 24 DE SEPTIEMBRE DE 2004.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 G.O. 1 DE OCTUBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 16 DE FEBRERO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
