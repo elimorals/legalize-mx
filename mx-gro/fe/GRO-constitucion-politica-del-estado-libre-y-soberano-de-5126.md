@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1955-07-06"
+last_updated: "1956-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 1955.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1956.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -683,7 +683,9 @@ II.- Tener treinta y cinco años cumplidos al tiempo de ser electo.
 
 III.- No ser Ministro de algún Culto Religioso ni pertenecer a corporación del mismo carácter.
 
-IV.- No ejercer cargo alguno de la Federación ni ser Secretario General de Gobierno del Estado, Oficial Mayor o Procurador General de Justicia del mismo, a menos de haberse separado definitivamente de sus cargos seis meses antes de la elección.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 1956)</small>
+
+IV.- No ejercer cargo alguno de la Federación; ni ser Secretario General de Gobierno, Subsecretario General, Oficial Mayor, o Procurador General de Justicia del Estado, a menos de haberse separado definitivamente de sus cargos tres meses antes de la elección.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
 
@@ -805,13 +807,13 @@ La Ley Orgánica del Poder Ejecutivo reglamentará el funcionamiento de la Admin
 
 Los Reglamentos, Decretos y Ordenes, las autorizará con su firma el Secretario General; sin cuyo requisito no serán obedecidos.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1956)</small>
 
 ###### Artículo 72.
 
 Para ser Secretario General de Gobierno, o Subsecretario General de Gobierno y Oficial Mayor, se requiere:
 
-Ser ciudadano originario del Estado en ejercicio de sus derechos, tener los conocimientos necesarios y no pertenecer al Estado Eclesiástico.
+Ser ciudadano guerrerense por nacimiento e hijos de padres mexicanos por nacimiento, estar en pleno ejercicio de sus derechos, tener los conocimientos necesarios y no pertenecer al Estado Eclesiástico.
 
 Ni el Secretario o Subsecretario General de Gobierno, ni el Oficial Mayor podrán ejercer su profesión en asuntos ajenos, si son abogados.
 
@@ -1544,3 +1546,17 @@ P.O. 6 DE JULIO DE 1955.
 ###### ARTICULO UNICO.
 
 Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MAYO DE 1956.
+
+DECRETO NUMERO 76.
+
+UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MAYO DE 1956.
+
+DECRETO NUMERO 84.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
