@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2003-02-28"
+last_updated: "2003-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 72 ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ-LLAVE
+LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+
+> <small>N. DE E. CONFORME AL ARTICULO CUARTO TRANSITORIO DEL DECRETO NUMERO 547 DE REFORMA CONSTITUCIONAL PUBLICADO EN LA GACETA OFICIAL DEL 18 DE MARZO DE 2003, LA DENOMINACION ". . . ESTADO DE VERACRUZ-LLAVE", DEBERA ENTENDERESE COMO ". . . ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".</small>
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -31,9 +33,11 @@ Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Esta
 
 La Honorable Quincuagésima Octava Legislatura del Congreso del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 33 fracción I de la Constitución Política local; 44 de la Ley Orgánica del Poder Legislativo; 103 del Reglamento para el Gobierno Interior del Poder Legislativo y en nombre del pueblo expide la siguiente:
 
+> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
 LEY NÚMERO 72
 
-ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ-LLAVE
+ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -79,7 +83,7 @@ b) Examinar, fiscalizar y aprobar las cuentas de recaudación y distribución de
 
 ###### Artículo 7.
 
-Al inicio de cada período de sesiones ordinarias, el Presidente del Congreso del Estado declarará en voz alta: "El Congreso del Estado de Veracruz-Llave abre hoy (fecha) el Primer (o Segundo) Período de Sesiones Ordinarias del (Primer, Segundo o Tercer) Año de ejercicio de la (número ordinal) Legislatura".
+Al inicio de cada período de sesiones ordinarias, el Presidente del Congreso del Estado declarará en voz alta: "El Congreso del Estado de Veracruz dnacio de la Llave abre hoy (fecha) el Primer (o Segundo) Período de Sesiones Ordinarias del (Primer, Segundo o Tercer) Año de ejercicio de la (número ordinal) Legislatura".
 
 ###### Artículo 8.
 
@@ -1068,3 +1072,21 @@ G.O. 28 DE FEBRERO DE 2003.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "...Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "...Estado de Varacruz-Llave", se entenderán referidas al "...Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "...del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
