@@ -4,7 +4,7 @@ identifier: "MEX-codigo-electoral-del-estado-de-mexico-5988"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-03-02"
-last_updated: "2002-05-24"
+last_updated: "2005-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ELECTORAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MARZO DE 2005.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el sábado 2 de marzo de 1996.
 
@@ -361,11 +361,11 @@ Las elecciones ordinarias de Gobernador se celebrarán cada seis años, el prime
 
 Las elecciones ordinarias de diputados a la Legislatura del Estado y de ayuntamientos se efectuarán cada tres años, el segundo domingo de marzo del año que corresponda.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2005)</small>
+
 ###### Artículo 26.
 
-A cada elección precederá una convocatoria expedida por la Legislatura del Estado por lo menos cien días antes de la fecha en que se efectúe para el caso de elecciones de Gobernador y ochenta días antes para diputados y miembros de los ayuntamientos.
-
-La convocatoria será publicada en el Periódico Oficial "Gaceta del Gobierno" del Estado y en los de mayor circulación.
+A cada elección precederá una convocatoria, para el caso de Gobernador, ésta deberá ser aprobada durante el primer período ordinario de sesiones de la Legislatura, del año previo a la elección y publicada dentro de los primeros siete días del mes de marzo del año de la elección. Para el caso de Diputados y miembros de Ayuntamientos la convocatoria será aprobada durante el primer periodo ordinario de sesiones de la Legislatura del año previo al de la elección y publicada dentro de los primeros siete días del mes de diciembre del mismo año.
 
 (REFORMADO, P.O. 2 DE OCTUBRE DE 1998)(F. DE E., P.O. 15 DE OCTUBRE DE 1998)
 
@@ -669,25 +669,25 @@ XII. Abstenerse de realizar actos de presión o coacción que limiten o condicio
 
 XIII. Respetar los reglamentos que expida el Consejo General y los lineamientos de las comisiones siempre que éstos sean sancionados por aquél;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
 
-XIV. Respetar los topes de gastos de campaña que se establecen en el presente Código;
+XIV. Respetar los topes de gastos de precampaña y de campaña que se establecen en el presente Código;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
 
-XV. Proporcionar al Instituto, la información que éste solicite por conducto del Consejo y la Junta General, en los términos del presente Código;
+XV. Informar al Instituto del proceso de selección interna de candidatos, el período, los sistemas y formas para la postulación de sus candidatos, así como, el nombre de sus aspirantes a los diferentes cargos de elección popular;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
 
-XVI. Abstenerse en su propaganda, publicaciones y mensajes impresos así como de los transmitidos en medios electrónicos, escritos y alternos de cualquier expresión que implique diatriba, calumnia, infamia, injuria, difamación o alguna otra que denigre a los ciudadanos, a las instituciones públicas, a otros partidos políticos y candidatos, particularmente durante las campañas electorales y en la propaganda que se utilice durante las mismas;
+XVI. Abstenerse en su propaganda, publicaciones y mensajes impresos, así como de los transmitidos en medios electrónicos, escritos y alternos de cualquier expresión que implique diatriba, calumnia, infamia, injuria, difamación o alguna otra que denigre a los ciudadanos, a las instituciones públicas, a otros partidos políticos, aspirantes y candidatos, particularmente durante las precampañas y campañas electorales y en la propaganda que se utilice durante las mismas;
 
 > <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1999)</small>
 
 XVII. Elegir a sus candidatos a los diversos puestos de elección popular de manera democrática, conforme a los lineamientos, mecanismos y procedimientos que sus estatutos establezcan;
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
 
-XVIII. Utilizar las prerrogativas y aplicar el financiamiento exclusivamente para el sostenimiento de sus actividades ordinarias, y para sufragar los gastos de campaña;
+XVIII. Utilizar las prerrogativas y aplicar el financiamiento exclusivamente para el sostenimiento de sus actividades ordinarias, y para sufragar los gastos de precampaña y campaña;
 
 > <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1999)</small>
 
@@ -697,13 +697,17 @@ XIX. Abstenerse de utilizar símbolos de carácter religioso en su propaganda;
 
 XX. Presentar en tiempo y forma establecidos por éste Código la plataforma electoral que sus candidatos sostengan en campañas políticas para la elección de Gobernador, Diputados o ayuntamientos;
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
 
-XXI. Entregar al Instituto Electoral del Estado de México la información que su Consejo General o la Junta General le solicite, en los términos del presente Código; y
+XXI. Proporcionar al Instituto, la información que éste solicite por conducto del Consejo y la Junta General, en los términos del presente Código;
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
 
-XXII. Las demás que señale éste Código.
+XXII. Abstenerse de realizar actos anticipados de campaña en los términos del presente Código; y
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2005)</small>
+
+XXIII. Las demás que señale este Código.
 
 ###### Artículo 53.
 
@@ -747,9 +751,9 @@ VII. Los ministros de cualquier culto religioso.
 
 Los partidos políticos tendrán las siguientes prerrogativas:
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
 
-I. Gozar de financiamiento público para el ejercicio de sus actividades ordinarias y para su participación en las campañas electorales de Gobernador, diputados y ayuntamientos del Estado. Tendrán derecho a esta prerrogativa los partidos que obtengan por lo menos el 1.5% de la votación efectiva en el Estado;
+I. Gozar de financiamiento público para el ejercicio de sus actividades ordinarias y para su participación en las precampañas y campañas electorales de Gobernador, diputados y ayuntamientos del Estado. Tendrán derecho a esta prerrogativa los partidos que obtengan por lo menos el 1.5% de la votación efectiva en el Estado; y
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1998)</small>
 
@@ -879,35 +883,35 @@ a). Deberán ser presentados a más tardar el 30 de marzo de cada año.
 
 b). Los informes contendrán los ingresos y gastos ordinarios de los partidos políticos, del año anterior.
 
-(REFORMADA, P.O. 2 DE OCTUBRE DE 1998)(F. DE E., P.O. 15 DE OCTUBRE DE 1998)
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
 
-II. Los informes de Campaña:
+II. De los informes de:
 
-(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)(F. DE E., P.O. 15 DE OCTUBRE DE 1998)
+1.- Precampaña:
+
+a). Deberán presentarse por los partidos políticos, por cada una de las precampañas, para Gobernador, diputados locales y ayuntamientos respectivamente.
+
+b). Serán presentados a más tardar dentro de los quince días siguientes a aquél en que concluya la selección de candidato, fórmula o planilla.
+
+c). Los informes definitivos de gastos de precampaña deberán señalar y especificar los montos y tipos de financiamiento que de conformidad con el Código, los partidos políticos tengan derecho, así como los conceptos que establece el artículo 161.
+
+d). La presentación y revisión de los informes de gastos de precampaña de los partidos políticos, se sujetarán a lo siguiente:
+
+Antes del inicio del plazo para el registro de candidato, fórmula o planilla el Consejo General deberá culminar el análisis y estudio de los informes de gastos de precampaña y resolver lo conducente.
+
+2.- Campaña:
 
 a). Deberán presentarse por los partidos políticos, por cada una de las campañas, para Gobernador, diputados locales y ayuntamientos respectivamente.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1999)</small>
-
 b). Serán presentados a más tardar dentro de los tres meses siguientes contados a partir del día siguiente al de la jornada electoral.
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
 c). El Consejo General podrá aprobar hasta dos revisiones precautorias sobre el cumplimiento de los topes de campaña; la primera se realizará a la mitad del tiempo de duración de las campañas electorales; la segunda será realizada en los últimos 10 días de la campaña electoral correspondiente.
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 1999)</small>
-
 d). El Consejo General tomará muestras aleatorias de un 20% del total de las campañas de diputados y ayuntamientos, sobre las que se practicarán las revisiones precautorias de cada uno de los partidos o coaliciones participantes; en caso de que algún partido o coalición no haya registrado candidatura en el distrito o municipio sorteado, se le asignarán en forma aleatoria los que sean necesarios para equiparar la cantidad como si hubiera registrado el 100% en la entidad.
-
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
 e). Los partidos políticos en un plazo no menor a 10 días previos a la revisión precautoria, deberán ser notificados de los distritos y municipios que resulten sorteados de acuerdo al inciso anterior, acompañando a ésta, la solicitud de la documentación necesaria para efectuar dicha revisión.
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 1999)</small>
-
 f). Los resultados que arrojen las revisiones precautorias, serán exclusivamente del conocimiento de la comisión de fiscalización, para ser valoradas al momento de emitir el dictamen de la revisión de los informes definitivos sobre el monto, origen y aplicación de los gastos de campaña. En ningún caso, podrán hacerse públicos, hasta que se rindan los correspondientes informes definitivos.
-
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
 g). Los informes definitivos de gastos de campaña deberán señalar y especificar los montos y tipos de financiamiento que de conformidad con el Código, los partidos políticos tengan derecho, así como los conceptos que establece el artículo 161 relativo a los gastos de campaña.
 
@@ -1655,9 +1659,17 @@ XLVII. Aprobar el programa de capacitación para los ciudadanos que resulten ins
 
 XLVIII. Aprobar y vigilar que los materiales didácticos para la capacitación electoral se apeguen a los principios rectores del Instituto y a lo establecido por éste Código; y
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
 
-XLIX. Las demás que le confieren este Código y las disposiciones relativas.
+XLIX. Aprobar los lineamientos en materia de precampaña a que hace referencia el presente Código;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2005)</small>
+
+L. Conocer los informes que los partidos políticos presenten sobre sus procesos de selección interna de candidatos a los diferentes cargos de elección; y
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2005)</small>
+
+LI. Las demás que le confieren este Código y las disposiciones relativas.
 
 ### CAPITULO TERCERO. Del Presidente y del Secretario del Consejo General
 
@@ -2163,7 +2175,7 @@ II. Recibir las solicitudes de registro de candidaturas de diputados por el prin
 
 III. Dar cuenta al Director General del Instituto, del desarrollo de las elecciones y de los recursos interpuestos ante el Consejo que preside dentro de los plazos establecidos en este Código;
 
-IV. Entregar a los Presidentes de los Consejos Municipa, tratándose de las elecciones para diputados y ayuntamientos, y en presencia de los integrantes del Consejo Distrital que así lo deseen, la documentación y útiles necesarios, para el debido cumplimiento de las funciones de las Mesas Directivas de Casilla;
+IV. Entregar a los Presidentes de los Consejos Municipales, tratándose de las elecciones para diputados y ayuntamientos, y en presencia de los integrantes del Consejo Distrital que así lo deseen, la documentación y útiles necesarios, para el debido cumplimiento de las funciones de las Mesas Directivas de Casilla;
 
 V. Entregar a los Presidentes de las Mesas Directivas de Casilla, tratándose de la elección de Gobernador, y en presencia de los integrantes del Consejo Distrital que así lo deseen, la documentación y útiles necesarios para el debido cumplimiento de sus funciones;
 
@@ -2539,9 +2551,73 @@ La etapa de resultados y declaraciones de validez de la elección de Gobernador 
 
 ## TITULO SEGUNDO. De los Actos Preparatorios de la Elección
 
-### CAPITULO PRIMERO. Del Procedimiento de Registro de Candidatos
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MARZO DE 2005)</small>
 
-### CAPITULO SEGUNDO. De las Campañas Electorales
+### CAPITULO PRIMERO. De las precampañas en los procesos
+
+internos de selección de candidatos
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2005)</small>
+
+Artículo 144 A.- Precampañas son los actos realizados por los partidos políticos, dirigentes, militantes, afiliados y simpatizantes, en los tiempos establecidos y regulados en el presente Código y sus Estatutos, dentro de sus procesos internos de selección de candidatos a los distintos cargos de elección popular.
+
+La publicación de la convocatoria por parte de los partidos políticos para el desarrollo de sus procesos de selección interna de candidatos y otros actos preparatorios que no impliquen actos de precampaña, se podrán realizar desde el mes anterior al del inicio de los procesos electorales.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2005)</small>
+
+Artículo 144 B.- Se entiende por actos de precampaña a las reuniones públicas o privadas, debates, entrevistas en los medios de comunicación, visitas domiciliarias, asambleas, marchas y demás actividades que realicen los aspirantes a candidatos con el propósito de promover y obtener la candidatura a los distintos cargos de elección popular.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2005)</small>
+
+Artículo 144 C.- La propaganda de la precampaña para efectos de este capítulo es el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que producen y difunden los partidos políticos a través de sus militantes y simpatizantes con el propósito de promover y obtener la candidatura a los distintos cargos de elección popular, en la cual deberá señalar de manera expresa la calidad de aspirante a candidato.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2005)</small>
+
+Artículo 144 D.- En la colocación de propaganda dentro del desarrollo de las precampañas, se observarán las disposiciones del presente Código en lo relativo a la propaganda electoral y los lineamientos que al efecto expida el Consejo General del Instituto.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2005)</small>
+
+Artículo 144 E.- Se entenderán por actos anticipados de campaña, aquellos que realicen los partidos políticos, dirigentes, militantes, afiliados y simpatizantes, fuera de los plazos que se establezcan para realizar actos de campaña electoral que trasciendan al conocimiento de la comunidad cuya finalidad consista en ostentarse como candidatos, solicitando el voto ciudadano para acceder a un cargo de elección popular y publicitar sus plataformas electorales o programas de gobierno.
+
+Los partidos políticos que incurran en actos anticipados de campaña o incumplan con las disposiciones del presente Código en materia de precampañas, atendiendo a la gravedad de la falta, se harán acreedores a las sanciones que al efecto determinen los artículos 355 y 355 bis del presente Código.
+
+Independientemente de las sanciones señaladas en el párrafo anterior, el Instituto queda facultado para ordenar la suspensión inmediata de los actos anticipados de campaña.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2005)</small>
+
+Artículo 144 F.- Las precampañas para el caso de Gobernador, diputados y miembros de Ayuntamientos, podrán realizarse a partir del inicio del proceso electoral y concluirán el día anterior al del inicio del plazo para el registro de candidatos.
+
+El Instituto vigilará que los partidos políticos en sus procesos de selección interna de candidatos y de precampaña, cumplan con las disposiciones del presente código y de sus estatutos.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2005)</small>
+
+Artículo 144 G.- Cada partido político tendrá como tope de gastos de las precampañas para la selección de candidatos, el porcentaje de tope de gastos de campaña para la elección inmediata anterior de que se trate, de acuerdo con lo siguiente:
+
+I. Para Gobernador, el 15%;
+
+II. Para Diputados, el 15%;
+
+III. Para Ayuntamientos:
+
+A. En los municipios hasta de 150 mil habitantes, el 20%;
+
+B. En los municipios de más de 150 mil y menos de 500 mil habitantes, el 15%,
+
+C. En los municipios de más de 500 mil y menos de un millón de habitantes, el 10% y
+
+D. En los municipios de más de un millón de habitantes, el 5%.
+
+El financiamiento para el desarrollo de las precampañas se sujetará a lo aplicable del artículo 58 de este Código.
+
+La violación de los topes de gastos de precampaña por los partidos políticos o sus aspirantes, podrá ser sancionada por el Instituto con la negativa de registro como candidatos.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2005)</small>
+
+Artículo 144 H.- El Instituto revisará el origen, monto y destino de los recursos ejercidos por los partidos políticos y sus aspirantes en las precampañas, para lo cual deberá aplicar las disposiciones relativas del presente Código y los lineamientos técnicos que al efecto expida.
+
+> <small>(REFORMADA SU NUMERACION, P.O. 11 DE MARZO DE 2005)</small>
+
+### CAPITULO SEGUNDO. Del Procedimiento de Registro de Candidatos
 
 ###### Artículo 145.
 
@@ -2637,9 +2713,9 @@ II. Vencido el plazo a que se refiere la fracción anterior, exclusivamente podr
 
 III. Cuando la renuncia del candidato fuera notificada por éste al Consejo General, se hará del conocimiento del partido que lo registró para que proceda, en su caso, a la sustitución.
 
-### CAPITULO TERCERO. De los Procedimientos para la Integración y
+> <small>(REFORMADA SU NUMERACION, P.O. 11 DE MARZO DE 2005)</small>
 
-Ubicación de las Mesas Directivas de Casilla
+### CAPITULO TERCERO. De las Campañas Electorales
 
 ###### Artículo 152.
 
@@ -2791,9 +2867,11 @@ La Comisión realizará monitoreos de medios de comunicación electrónicos e im
 
 La Comisión realizará monitoreos de la propaganda de los partidos políticos colocada en bardas, anuncios espectaculares, postes, unidades de servicio público, y todo tipo de equipamiento utilizado para difundir mensajes.
 
-### CAPITULO CUARTO. Del Registro de Representantes
+> <small>(REFORMADA SU NUMERACION, P.O. 11 DE MARZO DE 2005)</small>
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)</small>
+### CAPITULO CUARTO. De los Procedimientos para la Integración y
+
+Ubicación de las Mesas Directivas de Casilla
 
 ###### Artículo 163.
 
@@ -2931,7 +3009,11 @@ Quince días antes del día de la jornada electoral, los Consejos Municipales y 
 
 Si después de la publicación a que hace referencia el artículo anterior, ocurrieran causas supervenientes, los Consejos correspondientes podrán hacer los cambios que se requieran, los cuales serán publicados. Tratándose de cambios en la ubicación de las casillas, los Consejos respectivos mandarán fijar avisos en los lugares excluidos, indicando la nueva ubicación.
 
-### CAPITULO QUINTO. De la Documentación y el Material Electoral
+> <small>(REFORMADA SU NUMERACION, P.O. 11 DE MARZO DE 2005)</small>
+
+### CAPITULO QUINTO. Del Registro de Representantes
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 174.
 
@@ -3055,7 +3137,9 @@ De estos nombramientos se formará una lista que se entregará a los Presidentes
 
 Al nombramiento se anexará el texto de los artículos que correspondan a las funciones de los representantes generales.
 
-### CAPITULO PRIMERO. De la Instalación y Apertura de Casillas
+> <small>(REFORMADA SU NUMERACION, P.O. 11 DE MARZO DE 2005)</small>
+
+### CAPITULO SEXTO. De la Documentación y el Material Electoral
 
 ###### Artículo 184.
 
@@ -3161,7 +3245,7 @@ Los Consejos Distritales y Municipales darán publicidad a la lista de los lugar
 
 ## TITULO TERCERO. De la Jornada Electoral
 
-### CAPITULO SEGUNDO. De la Votación
+### CAPITULO PRIMERO. De la Instalación y Apertura de Casillas
 
 ###### Artículo 196.
 
@@ -3259,7 +3343,7 @@ V. El Consejo Distrital o Municipal así lo disponga por causa de fuerza mayor o
 
 En los supuestos señalados en las fracciones anteriores, la casilla deberá quedar instalada en la misma sección y en el lugar adecuado más próximo, debiéndose dejar aviso de la nueva ubicación en el exterior del lugar original. Se hará constar en el acta correspondiente los motivos del cambio así como el nombre de las personas que intervinieron en él.
 
-### CAPITULO TERCERO. Del Escrutinio y Cómputo en la Casilla
+### CAPITULO SEGUNDO. De la Votación
 
 ###### Artículo 207.
 
@@ -3397,9 +3481,7 @@ Acto seguido, el secretario llenará el apartado correspondiente al cierre de vo
 
 En todo caso, el apartado correspondiente al cierre de votación contendrá la hora de cierre y la causa por la que, si es el caso, se cerró antes o después de las 18:00 horas.
 
-### CAPITULO CUARTO. De la Clausura de la Casilla
-
-y de la Remisión del Expediente
+### CAPITULO TERCERO. Del Escrutinio y Cómputo en la Casilla
 
 ###### Artículo 227.
 
@@ -3513,7 +3595,9 @@ Por fuera del paquete firmado a que se refiere el artículo anterior, se adherir
 
 Cumplidas las acciones a que se refiere el artículo anterior, los Presidentes de las Mesas Directivas de Casilla, fijarán avisos en lugar visible del exterior de las mismas con los resultados de la elección o, en su caso, de cada una de las elecciones, los que serán firmados por el Presidente y los representantes que así deseen hacerlo.
 
-### CAPITULO QUINTO. Disposiciones Complementarias
+### CAPITULO CUARTO. De la Clausura de la Casilla
+
+y de la Remisión del Expediente
 
 ###### Artículo 239.
 
@@ -3561,7 +3645,7 @@ Los paquetes con los expedientes de casillas podrán ser entregados al Consejo D
 
 El Consejo Distrital o Municipal hará constar en el acta circunstanciada de recepción de los paquetes, las causas que se invoquen para el retraso en la entrega de los mismos.
 
-### CAPITULO PRIMERO. Disposiciones Preliminares
+### CAPITULO QUINTO. Disposiciones Complementarias
 
 ###### Artículo 245.
 
@@ -3597,7 +3681,7 @@ Para estos efectos, el Colegio de Notarios del Estado publicará, cinco días an
 
 y de los Resultados Electorales
 
-### CAPITULO SEGUNDO. De la Información Preliminar de los Resultados
+### CAPITULO PRIMERO. Disposiciones Preliminares
 
 ###### Artículo 249.
 
@@ -3615,7 +3699,7 @@ IV. El Presidente del Consejo Distrital o Municipal, bajo su responsabilidad, lo
 
 De la recepción de los paquetes que contengan los expedientes de casilla, se levantará acta circunstanciada en la que se haga constar, en su caso, los que hubieren sido recibidos sin reunir los requisitos que señala este Código.
 
-### CAPITULO PRIMERO. De los Cómputos en los Consejos Distritales
+### CAPITULO SEGUNDO. De la Información Preliminar de los Resultados
 
 ###### Artículo 251.
 
@@ -3635,9 +3719,7 @@ Para el mejor conocimiento de los ciudadanos, concluido el cómputo el President
 
 ## TITULO QUINTO. De los Resultados Electorales
 
-### CAPITULO SEGUNDO. Del Cómputo y de la Asignación de Diputados
-
-de Representación Proporcional
+### CAPITULO PRIMERO. De los Cómputos en los Consejos Distritales
 
 ###### Artículo 253.
 
@@ -3721,7 +3803,9 @@ III. Remitir al Consejo General los expedientes del cómputo distrital de la ele
 
 IV. Remitir al Consejo General los expedientes del cómputo distrital de la elección de Gobernador, integrados conforme a lo dispuesto por el artículo 256 fracción IV de este Código.
 
-### CAPITULO TERCERO. De los Cómputos Municipales
+### CAPITULO SEGUNDO. Del Cómputo y de la Asignación de Diputados
+
+de Representación Proporcional
 
 ###### Artículo 259.
 
@@ -3827,11 +3911,7 @@ En el supuesto de que no sean suficientes los diputados que no habiendo obtenido
 
 El Presidente del Consejo General expedirá a cada partido político las constancias de asignación proporcional, informando de ellas a la Oficialía Mayor de la Legislatura.
 
-### CAPITULO CUARTO. De la Asignación de Miembros de Ayuntamiento
-
-de Representación Proporcional
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2002)</small>
+### CAPITULO TERCERO. De los Cómputos Municipales
 
 ###### Artículo 269.
 
@@ -3881,9 +3961,11 @@ I. Remitir al Tribunal, cuando se hubiere interpuesto, el juicio de inconformida
 
 II. Asimismo, enviará copia certificada del expediente al Director del Instituto. Cuando se interponga el juicio de inconformidad también se enviará copia del mismo.
 
-### CAPITULO QUINTO. De la Calificación de la Elección de Gobernador
+### CAPITULO CUARTO. De la Asignación de Miembros de Ayuntamiento
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)</small>
+de Representación Proporcional
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2002)</small>
 
 ###### Artículo 274.
 
@@ -3945,7 +4027,9 @@ IV. Si después de aplicar el cociente de unidad quedaren cargos por asignar, se
 
 En ningún caso y por ningún motivo los candidatos a Presidentes Municipales podrán participar en la asignación a que se refiere el presente capítulo.
 
-### CAPITULO PRIMERO. Disposiciones Preliminares
+### CAPITULO QUINTO. De la Calificación de la Elección de Gobernador
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 280.
 
@@ -3989,9 +4073,7 @@ Cuando se hubiere presentado el juicio de inconformidad en contra del cómputo d
 
 ## TITULO PRIMERO. Disposiciones Generales
 
-### CAPITULO SEGUNDO. De la Integración del Tribunal
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2002)</small>
+### CAPITULO PRIMERO. Disposiciones Preliminares
 
 ###### Artículo 282.
 
@@ -3999,7 +4081,9 @@ El Tribunal Electoral, es el órgano público autónomo, que en términos de la 
 
 El Tribunal es competente para conocer y resolver los medios de impugnación previstos en este Código; también está facultado para imponer sanciones derivadas de la comisión de infracciones a la legislación electoral.
 
-### CAPITULO PRIMERO. De la Organización del Tribunal
+### CAPITULO SEGUNDO. De la Integración del Tribunal
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2002)</small>
 
 ###### Artículo 283.
 
@@ -4049,7 +4133,7 @@ En períodos no electorales se reunirá sólo a convocatoria de su Presidente.
 
 ## TITULO SEGUNDO. Organización y Funcionamiento
 
-### CAPITULO SEGUNDO. Del Funcionamiento del Tribunal
+### CAPITULO PRIMERO. De la Organización del Tribunal
 
 ###### Artículo 288.
 
@@ -4093,7 +4177,7 @@ XIII. Establecer la jurisprudencia del Tribunal; y
 
 XIV. Las demás que le otorga este Código.
 
-### CAPITULO UNICO. Disposiciones Generales
+### CAPITULO SEGUNDO. Del Funcionamiento del Tribunal
 
 ###### Artículo 290.
 
@@ -4197,9 +4281,7 @@ III. Las demás que les encomiende el Presidente.
 
 ## TITULO PRIMERO. De las Nulidades
 
-### CAPITULO PRIMERO. Disposiciones Generales
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1999)</small>
+### CAPITULO UNICO. Disposiciones Generales
 
 ###### Artículo 297.
 
@@ -4319,9 +4401,9 @@ Las causales señaladas no procederán cuando los hechos de las mismas sean impu
 
 ## TITULO SEGUNDO. De los Medios de Impugnación
 
-### CAPITULO SEGUNDO. De la Legitimidad y la Personería
+### CAPITULO PRIMERO. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 300.
 
@@ -4341,7 +4423,9 @@ El Sistema de Medios de Impugnación tiene por objeto la revocación o la modifi
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
-### CAPITULO TERCERO. De los Plazos y de los Términos
+### CAPITULO SEGUNDO. De la Legitimidad y la Personería
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 303.
 
@@ -4367,7 +4451,7 @@ II. Durante el proceso electoral:
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
-A). Recurso de Revisión para impugnar los actos o resoluciones de los Consejos y Juntas, Distritales y municipales , que resolverá el consejo general del Instituto.
+A). Recurso de Revisión para impugnar los actos o resoluciones de los Consejos y Juntas, Distritales y municipales, que resolverá el consejo general del Instituto.
 
 B). Recurso de apelación, para impugnar las resoluciones recaídas a los recursos de revisión o contra los actos y resoluciones de los órganos centrales del Instituto, que resolverá el Tribunal; y
 
@@ -4377,7 +4461,7 @@ C). El Juicio de Inconformidad, para impugnar los resultados de los cómputos es
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
-### CAPITULO CUARTO. De las Notificaciones
+### CAPITULO TERCERO. De los Plazos y de los Términos
 
 ###### Artículo 304.
 
@@ -4397,9 +4481,7 @@ IV. Los ciudadanos, solo en el supuesto del inciso B, fracción I del Artículo 
 
 Los candidatos podrán participar como coadyuvantes del partido político al que pertenezcan, en los términos que determine este Código.
 
-### CAPITULO QUINTO. De las Partes
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
+### CAPITULO CUARTO. De las Notificaciones
 
 ###### Artículo 306.
 
@@ -4465,9 +4547,7 @@ Asimismo, se deberán mencionar en forma individualizada las casillas cuya votac
 
 En el caso de la elección de diputados e integrantes de los ayuntamientos por el principio de representación proporcional deberá señalarse el error en el cómputo para la asignación respectiva.
 
-### CAPITULO SEXTO. De las Reglas de Procedimiento para
-
-la Tramitación de los Recursos
+### CAPITULO QUINTO. De las Partes
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
@@ -4517,7 +4597,9 @@ I. Al partido recurrente y a los terceros interesados, personalmente siempre y c
 
 II. Al Consejo General del Instituto y a los Consejos Distritales y Municipales, la notificación se les hará mediante oficio, acompañado de copia certificada del expediente y de la resolución. Esta documentación se entregará a más tardar dentro de las cuarenta y ocho horas siguientes a la fecha del fallo, en sus respectivos domicilios.
 
-### CAPITULO SEPTIMO. De la Improcedencia y del Sobreseimiento
+### CAPITULO SEXTO. De las Reglas de Procedimiento para
+
+la Tramitación de los Recursos
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
@@ -4537,7 +4619,9 @@ III. El tercero interesado, que será el partido político que tenga un interés
 
 IV. En su caso, el ciudadano que impugne la decisión del Registro Estatal de Electores que niegue la inclusión o exclusión del nombre del interesado en las listas nominales de electores.
 
-### CAPITULO OCTAVO. De la Acumulación
+### CAPITULO SEPTIMO. De la Improcedencia y del Sobreseimiento
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 319.
 
@@ -4607,9 +4691,7 @@ El juicio de inconformidad en contra del cómputo distrital o municipal proceder
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
-### CAPITULO NOVENO. De las Pruebas
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1999)</small>
+### CAPITULO OCTAVO. De la Acumulación
 
 ###### Artículo 322.
 
@@ -4617,7 +4699,9 @@ Los medios de impugnación se interpondrán ante el órgano del Instituto que re
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
-### CAPITULO DECIMO. De las Resoluciones
+### CAPITULO NOVENO. De las Pruebas
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 323.
 
@@ -4671,13 +4755,13 @@ Recibido un recurso de revisión por el Consejo General del Instituto, el Presid
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
-Si el recurso debe desecharse por notoriamente improcedente, o en su caso, si se ha cumplido con todos los requisitos, el Secretario procederá a formular el proyecto de resolución que corresponda, mismo que será sometido al Consejo General del Instituto dentro de las 10 días siguientes. La resolución que se dicte en la sesión extraordinaria que para tal efecto se convoque, será engrosada por el Secretario en los términos que determine el propio Consejo.
+Si el recurso debe desecharse por notoriamente improcedente, o en su caso, si se ha cumplido con todos los requisitos, el Secretario procederá a formular el proyecto de resolución que corresponda, mismo que será sometido al Consejo General del Instituto dentro de las (sic) 10 días siguientes. La resolución que se dicte en la sesión extraordinaria que para tal efecto se convoque, será engrosada por el Secretario en los términos que determine el propio Consejo.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
 Si el órgano del Instituto que remitió el recurso omitió algún requisito el Secretario del órgano competente lo hará de inmediato del conocimiento de su Presidente para que este, a su vez, de inmediato requiera la complementación de o los requisitos omitidos, dentro del plazo de las 24 horas siguientes al de notificación. Una vez transcurrido este término se procederá conforme al párrafo anterior En todo caso el recurso deberá resolverse con los elementos con que se cuente en el expediente respectivo.
 
-### CAPITULO DECIMO PRIMERO. De los Procedimientos Especiales
+### CAPITULO DECIMO. De las Resoluciones
 
 ###### Artículo 326.
 
@@ -4757,11 +4841,7 @@ VIII. Se impugne más de una elección con un mismo recurso.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
-### CAPITULO UNICO. De la Imposición de Sanciones por la
-
-Comisión de Infracciones Administrativas
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
+### CAPITULO DECIMO PRIMERO. De los Procedimientos Especiales
 
 ###### Artículo 333.
 
@@ -4937,6 +5017,12 @@ Las resoluciones que recaigan a los recursos de apelación serán definitivas e 
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
+### CAPITULO UNICO. De la Imposición de Sanciones por la
+
+Comisión de Infracciones Administrativas
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 345.
 
 Las resoluciones que recaigan a los juicios de inconformidad podrán tener los siguientes efectos:
@@ -4957,7 +5043,7 @@ IV. Revocar o modificar la constancia de mayoría expedida a favor de una planil
 
 V. Declarar la nulidad de la elección y revocar la constancia de mayoría expedida por el Consejo Estatal, Municipal o Distrital correspondiente, cuando se den los supuestos de nulidad previstos en este Código;
 
-VI. Declarar la nulidad del cómputo de la elección de diputados y de miembros de ayuntamientos por el principio de representación proporcional cuando se de el supuesto de error en el mismo;
+VI. Declarar la nulidad del cómputo de la elección de diputados y de miembros de ayuntamientos por el principio de representación proporcional cuando se dé el supuesto de error en el mismo;
 
 VII. Modificar la asignación de diputados, de síndico y de regidores por el principio de representación proporcional; y
 
@@ -5093,15 +5179,15 @@ Los partidos políticos, sus dirigentes y candidatos, independientemente de las 
 
 A. Partidos Políticos:
 
-(REFORMADO, P.O. 9 DE OCTUBRE DE 1999
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
 
-I. Multa de 150 a 2000 días de salario mínimo general vigente en la capital del Estado de México, por incumplir con las obligaciones señaladas en el artículo 52 fracciones I, II, IV, V, VI, VII, VIII, IX, X, XI, XII, XIV, XV, XVI, XVII, XVIII y XIX;
+I. Multa de 150 a 2000 días de salario mínimo general vigente en la capital del Estado de México, por incumplir con las obligaciones señaladas en el artículo 52 fracciones I, II, IV, V, VI, VII, VIII, IX, X, XI, XII, XIV, XV, XVI, XVII, XVIII, XIX y XXII;
 
-(REFORMADO, P.O. 9 DE OCTUBRE DE 1999
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
 
-II. Reducción de hasta el 50% de la entrega de las administraciones del financiamiento público que les corresponda, por el periodo que señale la resolución, al que incumpla con la obligación señalada en la fracción XIII del artículo 52 de este Código. O reincidan en el incumplimiento de las obligaciones establecidas en la tracciones I, II, IV,V, VI, VII, VIII, IX, X, XI, XII, XIV, XV, XVI, XVII, XVIII y XIX del mismo precepto;
+II. Reducción de hasta el 50% de la entrega de las ministraciones del financiamiento público que les corresponda, por el período que señale la resolución, al que incumpla con la obligación señalada en la fracción XIII del artículo 52 de este Código. O reincidan en el incumplimiento de las obligaciones establecidas en las fracciones I, II, IV, V, VI, VII, VIII, IX, X, XI, XII, XIV, XV, XVI, XVII, XVIII, XIX y XXII del mismo precepto;
 
-En cualquiera de los casos a que se refieren los párrafos anteriores, el incumplimiento de la fracción XV, además de las sanciones señaladas, dará motivo para que los candidatos del partidos de que se trate no sean registrados;
+En cualquiera de los casos a que se refieren los párrafos anteriores, el incumplimiento de la fracción XIV y XXII, además de las sanciones señaladas, dará motivo para que los candidatos del partido de que se trate no sean registrados;
 
 III. Supresión total de la entrega de las ministraciones del financiamiento que les corresponda por el período que señale la resolución por incumplir lo dispuesto en los artículos 58 fracción I, último párrafo, 60 y 160 de este Código;
 
@@ -5119,6 +5205,10 @@ VI. Multa equivalente al doble de la cantidad con la que algún partido o coalic
 
 VII. Cancelación del registro como candidato para participar en las elecciones correspondientes, por incumplimiento a lo dispuesto por el segundo párrafo del artículo 159 de este Código.
 
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2005)</small>
+
+VIII. Pérdida del derecho al registro de candidato, fórmula o planilla, por el incumplimiento a lo establecido por el artículo 144 G.
+
 B. Dirigentes y candidatos:
 
 I. A quienes utilicen para actividades ordinarias o para cualquier acto de campaña, recursos públicos, ya sean de la federación, de las entidades federativas, o de los municipios del Estado o de otros Estados, se les impondrá una multa equivalente a dos veces la cantidad de recursos públicos utilizados.
@@ -5126,6 +5216,10 @@ I. A quienes utilicen para actividades ordinarias o para cualquier acto de campa
 En el caso de la utilización de recursos materiales, la base para determinar la multa será el valor del avalúo de los bienes muebles o inmuebles utilizados.
 
 II. Cancelación del otorgamiento del registro como candidato, fórmula o planilla a quienes hubieran utilizado recursos provenientes de actividades ilícitas para el financiamiento de campaña o actividades ordinarias del partido político o reincidan en la utilización de los recursos a que se refiere la fracción I de este apartado.
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2005)</small>
+
+III. Pérdida del derecho al registro de candidato, fórmula o planilla, por el incumplimiento a lo establecido por el artículo 144 G.
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
@@ -5151,7 +5245,7 @@ El Consejo General, para fijar la sanción correspondiente, tomará en cuenta la
 
 ###### Artículo 357.
 
-La multas impuestas por el Consejo General que no hubiesen sido recurridas, o bien, que fuesen confirmadas por el Tribunal, deberán ser pagadas en la Dirección de Administración del Instituto, en un plazo improrrogable de quince días hábiles contados a partir de la notificación. Transcurrido el plazo sin que el pago se haya efectuado, el Instituto podrá deducir el monto de la multa de la siguiente ministración del financiamiento público que corresponda. Los ingresos obtenidos por este concepto serán aplicados a la ejecución de programas de cultura política.
+Las multas impuestas por el Consejo General que no hubiesen sido recurridas, o bien, que fuesen confirmadas por el Tribunal, deberán ser pagadas en la Dirección de Administración del Instituto, en un plazo improrrogable de quince días hábiles contados a partir de la notificación. Transcurrido el plazo sin que el pago se haya efectuado, el Instituto podrá deducir el monto de la multa de la siguiente ministración del financiamiento público que corresponda. Los ingresos obtenidos por este concepto serán aplicados a la ejecución de programas de cultura política.
 
 ###### Artículo 358.
 
@@ -5241,7 +5335,7 @@ Se autoriza al Titular del Poder Ejecutivo del Estado, para que por conducto de 
 
 LO TENDRA ENTENDIDO EL GOBERNADOR DEL ESTADO, HACIENDO QUE SE PUBLIQUE Y SE CUMPLA.
 
-Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los dos días del mes de marzo de mil novecientos noventa y seis.- Diputado Presidente.- C. Domingo de Guzman Vilchis Pichardo.- Diputados Secretarios.- C. Ing. Carlos Isaías Pérez Arizmendi; C. Lic. Benjamín Pérez Alvarez.- Rúbricas.
+Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los dos días del mes de marzo de mil novecientos noventa y seis.- Diputado Presidente.- C. Domingo de Guzmán Vilchis Pichardo.- Diputados Secretarios.- C. Ing. Carlos Isaías Pérez Arizmendi; C. Lic. Benjamín Pérez Alvarez.- Rúbricas.
 
 Por tanto mando se publique, circule, observe y se le dé el debido cumplimiento.
 
@@ -5310,3 +5404,11 @@ Publíquese el presente decreto en la "Gaceta del Gobierno".
 ###### ARTICULO SEGUNDO.
 
 El presente decreto entrará en vigor al día de su publicación en la "Gaceta del Gobierno".
+
+P.O. 11 DE MARZO DE 2005.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Para la elección de Gobernador que se llevará a cabo en el año dos mil cinco, no se aplicarán las presentes reformas.
