@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-5356"
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "1996-12-24"
+last_updated: "1998-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1998.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -205,23 +205,29 @@ III.- Imposibiliten, por cualquier medio, el conocimiento de las operaciones que
 
 Las infracciones a las disposiciones de este capítulo se sancionarán en los términos del Código Fiscal para el Estado.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 12-M.
 
-La administración de los ingresos que se obtengan de este impuesto, corresponderá a la entidad pública que determine el Ejecutivo del Estado, sectorizada a la Secretaría de Desarrollo Económico del Estado; su órgano de gobierno se integrará con representantes del Gobierno del Estado y del sector turístico.
-
-La entidad pública a que se refiere el primer párrafo tendrá como finalidad, entre otras, realizar estudios y proyectos en materia turística; mejorar, promover y difundir la imagen del Estado y sus municipios; invertir en la capacitación del personal y en paraderos turísticos públicos, así como aportar la participación del Estado en los fondos concurrentes con los Gobiernos Federal y municipales y el sector privado.
-
-La Secretaría de Planeación y Finanzas entregará a la entidad los ingresos captados, dentro de los treinta días siguientes al mes en que se deba pagar este impuesto en la oficina recaudadora.
-
-En la cuenta pública estatal, se deberá reflejar la aplicación que se haga de lo recaudado por este concepto, en los términos de esta Ley. Para este efecto la entidad señalada deberá presentar a la Secretaría de Planeación y Finanzas un informe financiero en forma trimestral.
+La administración del 95% de los ingresos que se obtenga de este impuesto, corresponderá a la entidad pública que determine el Ejecutivo del Estado, sectorizada a la Secretaría de Desarrollo Económico; su órgano de gobierno se integrará con representantes del Gobierno del Estado y del sector turístico.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
+La entidad pública a que se refiere el primer párrafo tendrá como finalidad, entre otras, realizar estudios y proyectos en materia turística; mejorar, promover y difundir la imagen del Estado y sus municipios; invertir en la capacitación del personal y en paraderos turísticos públicos, así como aportar la participación del Estado en los fondos concurrentes con los Gobiernos Federal y municipales y el sector privado.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+La Secretaría de Planeación y Finanzas entregará a la entidad los ingresos captados, dentro de los treinta días siguientes al mes en que se deba pagar este impuesto en la oficina recaudadora.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+En la cuenta pública estatal, se deberá reflejar la aplicación que se haga de lo recaudado por este concepto, en los términos de esta Ley. Para este efecto la entidad señalada deberá presentar a la Secretaría de Planeación y Finanzas un informe financiero en forma trimestral.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 12-N.
 
-Los ingresos obtenidos de la recaudación del impuesto sobre hospedaje se destinarán a la constitución de un fondo de promoción y difusión para el turismo del Estado, que será administrado en los términos del artículo anterior.
+El 95% de los ingresos obtenidos de la recaudación de este impuesto, se destinarán a la constitución de un fondo de promoción y difusión para el turismo del Estado, que será administrado en los términos del artículo anterior; y el 5% a la Secretaría de Planeación y Finanzas para gastos de administración integral del impuesto.
 
 ## TITULO SEGUNDO. DE LOS DERECHOS
 
@@ -616,3 +622,9 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTICULO TERCERO.
 
 Las personas físicas y morales que a la fecha de entrada en vigor del impuesto por servicios de hospedaje a que se refiere el presente Decreto, no se encuentren inscritas en el registro estatal de contribuyentes, contarán con un plazo de 30 días naturales para realizar dicho trámite ante la oficina recaudadora que corresponda a su domicilio fiscal.
+
+P.O. 22 DE DICIEMBRE DE 1998.
+
+Artículo Primero.- El presente decreto entrará en vigor el primero de enero de mil novecientos noventa y nueve.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
