@@ -4,7 +4,7 @@ identifier: "COA-codigo-fiscal-para-el-estado-de-coahuila-de-zaragoza-3486"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-10-19"
-last_updated: "1993-12-24"
+last_updated: "1994-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1994.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 19 de octubre de 1990.
 
@@ -403,15 +403,19 @@ III.- Respecto de libros o registros de contabilidad se observará lo siguiente:
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 38.
 
-El crédito fiscal es la obligación fiscal determinada en cantidad líquida, y deberá pagarse en las oficinas recaudadoras de la Secretaría de Finanzas en la fecha o dentro del plazo señalado en las disposiciones respectivas. A falta de disposición expresa, el pago deberá hacerse:
+El crédito fiscal es la obligación fiscal determinada en cantidad líquida que tiene derecho a percibir el Estado o sus organismos descentralizados que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven de responsabilidades que el Estado tenga derecho a exigir de sus servidores públicos o de particulares, así como aquéllos a los que las leyes les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena.
 
-I.- Si es a las autoridades a las que corresponde formular la liquidación, dentro de los quince días siguientes a la fecha en que haya surtido efectos la notificación de la misma;
+La recaudación proveniente de todos los ingresos del Estado, aún cuando se destinen a un fin específico, se hará por conducto de la Secretaría de Finanzas o por sus oficinas recaudadoras.
 
-II.- Si es a los sujetos pasivos a quienes corresponde determinar en cantidad líquida la obligación fiscal, dentro de los veinte días siguientes al nacimiento de la misma;; y
+El pago de los créditos fiscales deberá hacerse en la fecha o dentro del plazo señalado en las disposiciones respectivas. A falta de disposición expresa, el pago deberá hacerse:
 
-III.- Si se trata de obligaciones derivadas de contratos o concesiones que no señalen la fecha de pago, éste deberá hacerse dentro de los quince días siguientes a la fecha de su celebración u otorgamiento.
+I.- Si es a las autoridades a las que corresponde formular la liquidación, dentro de los 15 días siguientes a la fecha en que haya surtido efectos la notificación de la misma; y
+
+II.- Si se trata de obligaciones derivadas de contratos o concesiones que no señalen la fecha de pago, éste deberá hacerse dentro de los 15 días siguientes a la fecha de su celebración u otorgamiento.
 
 ###### ARTICULO 39.
 
@@ -447,7 +451,7 @@ Cuando los recargos determinados por el contribuyente sean inferiores a los que 
 
 El cheque recibido por las autoridades fiscales que sea presentado un tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20 % del valor de éste, y se exigirá independientemente de los demás conceptos a que se refiere este artículo. La indemnización mencionada, el monto del cheque y en su caso los recargos, se requerirán y cobrarán mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
 
-Cuando el contribuyente pague las constribuciones omitidas en forma espontánea en los términos del artículo 49 de este Código, el importe de los recargos no excederá de los causados durante un año, calculados conforme a las reglas establecidas en este artículo.
+> <small>(DEROGADO OCTAVO PARRAFO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 En el caso de aprovechamientos, los recargos se calcularán de conformidad con lo dispuesto en este artículo sobre el total del crédito fiscal, excluyendo los propios recargos, los gastos de ejecución y la indemnización a que se refiere este artículo. No causarán recargos las multas no fiscales.
 
@@ -673,9 +677,13 @@ A fin de realizar dicha vigilancia, las autoridades fiscales podrán.
 
 I.- Rectificar los errores aritméticos que aparezcan en las declaraciones;
 
-II.- Ordenar y practicar visitas de auditoría e inspecciones en el domicilio o dependencia de los sujetos pasivos para revisar sus mercancías, productos, materias primas, libros, documentos, correspondencia u otros objetos que tengan relación con las obligaciones fiscales y, en su caso, asegurarlos dejando en calidad de depositario al visitado, previo inventario que al efecto se formule;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
-III.- Requerir a los sujetos pasivos con el fin de que exhiban los libros de contabilidad, la documentación comprobatoria de las operaciones registradas y los demás documentos, informes y datos que se consideren necesarios para verificar el cumplimiento de sus obligaciones fiscales;
+II.- Ordenar y practicar visitas domiciliarias o de auditoría e inspecciones en el domicilio o dependencia de los sujetos pasivos, responsables solidarios o terceros para revisar sus mercancías, productos, materias primas, libros, documentos, correspondencia u otros objetos que tengan relación con las obligaciones fiscales;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+III.- Requerir a los sujetos pasivos con el fin de que exhiban los libros de contabilidad, la documentación comprobatoria de las operaciones registradas y en su caso, el dictamen de sus estados financieros para efectos fiscales federales, así como los demás documentos, informes y datos que se consideren necesarios para verificar el cumplimiento de sus obligaciones fiscales;
 
 IV.- Requerir a las personas que tengan o hayan tenido relaciones de negocios con los sujetos pasivos, para que exhiban los asientos de su contabilidad, la documentación, la correspondencia y proporcionen todo tipo de datos o informes que se refieran a las operaciones realizadas con aquéllos;
 
@@ -689,6 +697,10 @@ VIII.- Verificar, en tránsito o en los lugares de almacenamiento, los vehículo
 
 IX.- Allegarse las pruebas necesarias para denunciar ante el Ministerio Público la posible comisión de delitos fiscales, o, en su caso, para formular la querella respectiva. Las actuaciones que practique la Secretaría de Finanzas, tendrán el mismo valor probatorio que la ley relativa concede a las actas de policía judicial; y
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+X.- Nombrar ejecutores fiscales para llevar a cabo las facultades a que se refiere este Código y las demás disposiciones fiscales.
+
 ###### ARTICULO 69.
 
 Las visitas domiciliarias de auditoría e inspecciones para comprobar que se han acatado las disposiciones fiscales, se sujetarán a las siguientes reglas:
@@ -699,7 +711,9 @@ a).- El nombre de la persona que deba recibir la visita o inspección y el lugar
 
 b).- El nombre de las personas que practicarán la diligencia, las cuales podrán ser sustituidas o aumentadas por la autoridad que expidió la orden. En este caso se comunicará por escrito al visitado el nombre de los sustitutos o nuevos auditores o inspectores.
 
-c).- Los gravámenes de cuya verificación se trate y, en su caso, los ejercicios a los que deberá limitarse la visita. Esta podrá ser de carácter general para verificar el cumplimiento de las disposiciones fiscales durante cierto tiempo o concretarse a determinados aspectos.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+c).- Los gravámenes de cuya verificación se trate y, en su caso, los ejercicios a los que deberá limitarse la visita.
 
 II.- Si al presentarse los visitadores al lugar en donde deba practicarse la diligencia, no estuviera el visitado o su representante, dejarán citatorio con la persona que se encuentre en dicho lugar para que el mencionado visitado o su representante los esperen a hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren, la visita se iniciará con quien se encuentre en el lugar visitado;
 
@@ -723,6 +737,14 @@ VI.- Si la visita se realiza simultáneamente en dos o más lugares, en cada uno
 
 VII.- Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita o después de concluida; y
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+También se consignarán en dichos actos los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante se hará mención expresa de tal circunstancia y entre esta y el acta final, deberán transcurrir 15 días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos y omisiones.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+Se tendrán por consentidos los hechos consignados en los actos a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia o no señala lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad; y
+
 VIII.- Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante, se le dejará citatorio para que esté presente a una hora determinada del día siguiente; si no se presentaré, el acta final se levantará ante quien estuviere presente en el lugar visitado; en ese momento, cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos firmarán el acta, de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la misma sin que esto afecte la validez y valor probatorio del acta.
 
 ###### ARTICULO 70.
@@ -735,45 +757,57 @@ Cuando las autoridades fiscales, en el ejercicio de sus facultades de comprobaci
 
 ###### ARTICULO 71.
 
-Los contribuyentes que no estén de acuerdo con el resultado de la visita, podrán inconformarse con los hechos contenidos en el acta final mediante escrito, que deberán presentar ante las autoridades fiscales dentro de los quince días siguientes al inmediato posterior a aquél en que se cerró. El plazo para inconformarse con los hechos contenidos en actas complementarias, correrá a partir del día siguiente al inmediato posterior en que se cierren.
-
-Al escrito de inconformidad acompañarán las pruebas documentales pertinentes vinculadas a los hechos que pretenden desvirtuarse, siempre que no se hubiesen solicitado durante el desarrollo de la visita.
-
-Los hechos con los cuales el contribuyente no se inconforme dentro del plazo legal, se tendrán por consentidos.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1994)
 
 ###### ARTICULO 72.
 
 En los casos en que al practicarse una visita de auditoría o inspección, los propietarios o encargados no permitan el inicio de la misma; durante su desarrollo impidan a los visitadores el acceso a los locales o dependencias, o se nieguen a exhibir la documentación contenida en archiveros, escritorios y demás mobiliario de oficina, quienes practiquen la diligencia sellarán los locales, oficinas, vehículos o muebles cuya inspección no se permita. Los sellos se levantarán inmediatamente que los propietarios o encargados proporcionen los medios para la práctica de la visita de auditoría o inspección de que se trate.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 73.
 
-Los dictámenes que formulen contadores públicos sobre los estados financieros y su relación con el cumplimiento de las obligaciones tributarias, se presumirán ciertos, salvo prueba en contrario, si se reúnen los siguientes requisitos:
+En el caso de que con motivo de sus facultades de comprobación, las autoridades fiscales soliciten datos, informes o documentos del contribuyente, responsable solidario o tercero, se estará en lo siguiente:
 
-I.- Que el contador público que dictamine, esté registrado en la Secretaría de Finanzas. Se inscribirán para estos efectos a las personas de nacionalidad mexicana, que tengan título de contador público debidamente registrado en la Secretaría de Educación Pública;
+Se tendrán los siguientes plazos para su presentación:
 
-II.- Que el dictamen se formule conforme a las normas y procedimientos de auditoría generalmente aceptados. La Secretaría de Finanzas podrá cerciorarse mediante revisión y pruebas selectivas del cumplimiento de esta fracción;
+a).- Los libros y registros que formen parte de su contabilidad, solicitados en el curso de una visita, deberán presentarse de inmediato, así como los diagramas y el diseño del sistema de registro electrónico en su caso.
 
-III.- Que los contribuyentes comuniquen por escrito a la Secretaría de Finanzas que sus estados financieros serán dictaminados por contador público para los fines de este artículo, proporcionando los datos de identificación del profesionista y entregando una copia del dictamen dentro de los sesenta días siguientes a la fecha de la comunicación aludida; y
+b).- Seis días contados a partir del siguiente a aquél en que se le notificó la solicitud respectiva, cuando los documentos sean de los que deba tener en su poder el contribuyente y se les soliciten durante el desarrollo de una visita.
 
-IV.- Que el dictamen presentado a la Secretaría de Finanzas se acompañe de una declaración de contador público, referida al propio dictamen, en la que establezca si el contribuyente de que se trate a cumplido con las obligaciones tributarias que le impone este Código o, en su defecto, deberá establecer las salvedades correspondientes, precisando las omisiones en que haya incurrido cuantificando en cada caso su monto.
+c).- Diez días contados a partir del siguiente a aquél en que se le notificó la solicitud respectiva, en los demás casos.
+
+Los plazos a que se refiere este inciso, se podrán ampliar discrecionalmente por las autoridades fiscales por seis días más, cuando se trate de informes cuyo contenido sea difícil de proporcionar o de difícil obtención.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 74.
 
-Las diferencias de impuestos a cargo de los contribuyentes determinadas por el contador público, serán recibidas por la Secretaría de Finanzas como manifestaciones espontáneas y por lo tanto no se aplicarán sanciones, salvo los recargos correspondientes establecidos en este Código.
+Cuando las autoridades fiscales soliciten de los contribuyentes, responsables solidarios o terceros, informes, datos o documentos o pidan la presentación de la contabilidad o parte de ella, para el ejercicio de sus facultades de comprobación, fuera de una visita domiciliaria, se estará a lo siguiente:
+
+I.- La solicitud se notificará en el domicilio manifestando ante el registro estatal de contribuyentes por la persona a quien va dirigida y en su defecto, tratándose de personas físicas, también podrá notificarse en su casa habitación, o lugar donde éstas se encuentren;
+
+II.- Los informes, libros o documentos requeridos deberán ser proporcionados por las persona a quien se dirigirá la solicitud o por su representante; y
+
+III.- La resolución que determine las contribuciones omitidas se notificará en el lugar señalado en la fracción I de este artículo.
+
+Los informes, datos o documentos a que se refiere este artículo, se deberán presentar en los plazos establecidos en el artículo anterior.
 
 ###### ARTICULO 75.
 
-Las opiniones o interpretaciones contenidas en los dictámenes no obligan a las autoridades fiscales, las que podrán ejercer directamente sus facultades de vigilancia y comprobación sobre los deudores de las distintas contribuciones y liquidar, cuando proceda, los gravámenes omitidos, así como sus accesorios.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1994)
 
 ###### ARTICULO 76.
 
-En caso de falsedad en las declaraciones del contador público determinada por la Secretaría de Finanzas, ésta aplicará la sanción correspondiente, respetando la garantía audiencia del contado.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1994)
 
 ###### ARTICULO 77.
 
 Las autoridades fiscales podrán emplear cualesquiera de los siguientes medios de apremio que juzguen eficaces, para hacer cumplir sus determinaciones:
 
-I.- La multa hasta de cincuenta veces el salario mínimo diario vigente en el Estado;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+I.- Multa de diez a cincuenta veces el salario mínimo vigente en el Estado;
 
 II.- El auxilio de la fuerza pública; y
 
@@ -931,9 +965,19 @@ XII.- No presentar para su autorización o hacerlo extemporáneamente, los libro
 
 XIII.- Resistirse, por cualquier medio, a las visitas de auditoría o de inspección; no suministrar los datos e informes que legalmente puedan exigir los auditores o inspectores; no mostrar los libros de contabilidad o registros, documentos, estados de cuenta bancarios, talonarios de cheques, facturas de compra o venta de bienes o mercancías; impedir el acceso a los almacenes, depósitos, bodegas o cualquier otra dependencia y, en general, negarse a proporcionar los elementos que se les requieran para comprobar la situación fiscal del visitado, en relación con el objeto de la visita;
 
-XIV.- Resistirse o impedir de cualquier forma, la inspección de vehículos para comprobar que se han cumplido las obligaciones impuestas por las leyes fiscales, respecto a los productos que transportan; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+XIV.- Resistirse o impedir de cualquier forma, la inspección de vehículos para comprobar que se han cumplido las obligaciones impuestas por las leyes fiscales, respecto a los productos que transportan;
 
 XV.- Utilizar interpósita persona para manifestar negociaciones propias o para percibir ingresos gravables dejando de pagar las contribuciones;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+XVI.- No dar aviso a la Secretaría de Finanzas si se llevase a cabo la enajenación de vehículos en los términos del artículo 45 de la Ley de Hacienda para el Estado.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+XVII.- No dar aviso del cambio de domicilio en los términos del artículo 46 de la Ley de Hacienda para el Estado.
 
 ###### ARTICULO 92.
 
@@ -1049,9 +1093,11 @@ III.- De sesenta a cien salarios mínimos, en los casos contenidos en los artíc
 
 94.- Fracciones III, IV, IX, XII y XIII;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
 IV.- De cien a trescientos salarios mínimos, en los casos contenidos en los artículos:
 
-91.- Fracciones XIII y XV;
+91.- Fracciones XIII, XV; XVI y XVII
 
 92.- Fracciones IX, X y XI;
 
@@ -1060,6 +1106,10 @@ V.- De cien a doscientos salarios mínimos, en los casos contenidos en el artíc
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
 ARTICULO 94 TER.- A las personas físicas o morales en cuyos establecimientos se expendan bebidas alcohólicas sin contar con la licencia en vigor o debidamente refrendada, se les impondrá una multa por el equivalente a tres veces el salario mínimo vigente en la entidad elevado al año.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+Las autoridades fiscales deberán clausurar los establecimientos que expendan bebidas alcohólicas cuando no estén amparados con una licencia en vigor o debidamente refrendada.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
@@ -1856,3 +1906,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE DICIEMBRE DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1º. de enero de 1995.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se oponga al presente Decreto.
