@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-una-institucion-publica-descentralizada-con-13566"
 country: "mx"
 rank: "ley"
 publication_date: "1956-05-09"
-last_updated: "1956-05-09"
+last_updated: "1970-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA UNA INSTITUCION PUBLICA DESCENTRALIZADA CON PERSONALIDAD JURIDICA PROPIA Y CON DOMICILIO EN LA CIUDAD DE MONTERREY QUE SE DENOMINARA "SERVICIOS DE AGUA Y DRENAJE DE MONTERREY"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1970.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 9 de mayo de 1956.
 
@@ -127,9 +127,13 @@ La institución estará facultada para regular o contratar el aprovechamiento de
 
 El. Ejecutivo del Estado queda autorizado para dictar las medidas o acuerdos conducentes a la coordinación de las actividades de la Institución con las de otra u otras instituciones o comisiones cuyo objeto se relacione con la captación, conducción y suministro de los servicios de agua y drenaje de la Ciudad de Monterrey o municipios circunvecinos.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1970)</small>
+
 ###### ARTICULO 16o.
 
-Los adeudos procedentes de la prestación de los servicios de agua y drenaje tendrán el carácter de créditos fiscales; para hacerlos efectivos la Tesorería General del Estado auxiliará a la institución aplicando la facultad económico-coactiva.
+Los adeudos procedentes de la prestación de los servicios de agua y drenaje tendrán el carácter de créditos fiscales; para hacerlos efectivos la Tesorería General del Estado auxiliará a la Institución aplicando la facultad económico-coactiva.
+
+Tendrán responsabilidad solidaria en el pago de los adeudos, el co-contratante de "Servicios de Agua y Drenaje de Monterrey", I. P. D., el dueño del predio, el poseedor del mismo a cualquier título y los usuarios reales de los servicios de agua y drenaje.
 
 ###### ARTICULO 17o.
 
@@ -208,3 +212,9 @@ LIC. RAUL RANGEL FRIAS.
 El Secretario General de Gobierno.
 
 LIC. ROBERTO HINOJOSA
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 26 DE DICIEMBRE DE 1970.
+
+UNICO:- El presente Decreto entrará en vigor el primero de Enero de mil novecientos setenta y uno.
