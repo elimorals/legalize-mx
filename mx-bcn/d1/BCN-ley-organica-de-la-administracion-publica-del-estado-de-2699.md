@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "1997-12-31"
+last_updated: "1998-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,29 +21,29 @@ state: "BCN"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DEL ESTADO DE TLAXCALA, PUBLICADA EN EL P.O. DE 11 DE FEBRERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE TLAXCALA
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1997.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2025 (ABROGADA).
+Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
-Ley publicada en el No. Extraordinario del Periódico Oficial del Estado de Tlaxcala, el lunes 10 de diciembre de 2012.
+XICOTENCATL LEYVA MORTERA
 
-Al margen un sello con el Escudo Nacional que dice Estados Unidos Mexicanos. Congreso del Estado Libre y Soberano, Tlaxcala. Poder Legislativo.
+GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, A SUS HABITANTES SABED:
 
-MARIANO GONZALEZ ZARUR, Gobernador del Estado a sus habitantes sabed:
+QUE LA H. LEGISLATURA DEL ESTADO, ME HA DIRIGIDO PARA SU PROMULGACION, LA SIGUIENTE:
 
-Que por conducto de la Secretaría Parlamentaria del Honorable Congreso del Estado, con esta fecha se me ha comunicado lo siguiente:
+LEY:
 
-EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA, A NOMBRE DEL PUEBLO DECRETA.
+LA H. XI LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 27, FRACCIONES I Y XXX DE LA CONSTITUCION POLITICA LOCAL, TIENE A BIEN EXPEDIR LA SIGUIENTE:
 
-NUMERO 120
+LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA.
 
-LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE TLAXCALA
+## TITULO PRIMERO. DE LA ADMINISTRACION PUBLICA ESTATAL
 
-## TÍTULO PRIMERO. DE LA IGUALDAD ENTRE MUJERES Y HOMBRES
+### CAPITULO UNICO
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+DE LA ADMINISTRACION PUBLICA ESTATAL.
 
 ###### Artículo 1.
 
@@ -137,125 +137,95 @@ Los Titulares de las Dependencias a que se refiere esta Ley, ejercerán sus func
 
 Todas las Leyes, Decretos, Reglamentos y Disposiciones de carácter general que el Gobernador promulgue o expida, deberán ser firmados por el Secretario General de Gobierno; también deberá firmar de conocimiento el encargado del ramo a que el asunto corresponda.
 
-###### Artículo 10.
+###### ARTICULO 10.
 
-Para efectos de la coordinación interinstitucional, se podrán suscribir convenios con la finalidad de:
+El Gobernador del Estado expedirá el Reglamento Interno de cada Dependencia del Ejecutivo, en el que se determinarán las Unidades Administrativas de las mismas, así como sus atribuciones; además se fijarán en ese Ordenamiento las facultades que deban ser ejercidas por sus Titulares, así como la forma en que los mismos deberán ser suplidos en sus ausencias.
 
-I. Fortalecer las funciones y atribuciones en materia de igualdad;
+###### ARTICULO 11.
 
-II. Establecer mecanismos de coordinación para lograr la transversalidad de la perspectiva de género en la función pública estatal;
+El Gobernador del Estado autorizará al Titular de cada Dependencia a expedir los manuales de organización, procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán contener la información sobre la estructura orgánica de la Dependencia y las funciones de sus unidades administrativas, de acuerdo con el presupuesto que se le asigne y las normas generales de administración interna que se establezcan. Los manuales y demás instrumentos de apoyo administrativo, deberán mantenerse permanentemente actualizados.
 
-III. Impulsar la vinculación interinstitucional en el marco del Sistema Estatal;
+###### ARTICULO 12.
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+Los Titulares de las Dependencias del Ejecutivo a que se refiere esta Ley, formularán los Anteproyectos de Ley, Reglamentos, Decretos y Acuerdos del Gobernador cuyas materias correspondan a sus atribuciones y funciones y las remitirán al Ejecutivo a través de la Secretaría General de Gobierno.
 
-IV. Coordinar las tareas en materia de igualdad sustantiva, mediante acciones específicas, y, en su caso, afirmativas que contribuyan a una política pública estatal;
+###### ARTICULO 13.
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+Para ser Titular de cualquier Dependencia del Poder Ejecutivo, con excepción del Secretario General de Gobierno y del Procurador General de Justicia cuyos requisitos consigna expresamente la Constitución del Estado, se requiere:
 
-V. Proponer iniciativas y políticas de cooperación mediante acciones específicas, y, en su caso, afirmativas que contribuyan a una política estatal de participación igualitaria de mujeres y hombres, y
+I.- Ser mexicano por nacimiento;
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+II.- Ser mayor de veinticinco años;
 
-VI. El poder Legislativo y Judicial del Estado podrán adherirse a la política estatal en materia de igualdad sustantiva sin menoscabo a la división de poderes, incorporando sus acciones a favor de dicha igualdad, lo cual resulta aplicable también a los municipios del Estado.
+III.- Estar en pleno ejercicio de sus derechos políticos, y
 
-###### Artículo 11.
+IV.- Las demás que señalen las Leyes y Reglamentos correspondientes.
 
-En la celebración de convenios o acuerdos de coordinación, deberán tomarse en consideración los recursos presupuestarios, materiales y humanos, para el cumplimiento de la presente Ley, conforme a la normatividad jurídica, administrativa y presupuestaria correspondiente.
+Los Titulares de las Dependencias del Ejecutivo no podrán desempeñar otro puesto, empleo público o privado, salvo en el caso de empleos o cargos públicos que a juicio del Gobernador del Estado sean compatibles.
 
-###### Artículo 12.
+###### ARTICULO 14.
 
-Para el seguimiento y evaluación de los resultados que se obtengan en la ejecución de convenios y acuerdos a que se refiere este Capítulo, participará la Comisión Estatal de los Derechos Humanos, en su calidad de responsable de la protección, observancia, promoción, estudio y divulgación de los derechos humanos en la entidad.
+Al tomar posesión de su cargo, los Titulares de las Dependencias mencionadas en esta Ley, deberán levantar un inventario de los bienes recibidos y hacer una relación de los documentos respectivos, debiendo registrar este inventario en la Oficialía Mayor de Gobierno, quien ordenará la verificación del mismo.
 
-###### Artículo 13.
+###### ARTICULO 15.
 
-Al Gobierno Estatal, le corresponde:
+Las Juntas Locales de Conciliación y Arbitraje de Mexicali y Tijuana, son Tribunales Administrativos con autonomía Jurisdiccional en el ámbito de su competencia, conforme a lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y los Reglamentos Interiores de la misma.
 
-I. Conducir la política estatal en materia de igualdad sustantiva entre mujeres y hombres;
+###### ARTICULO 16.
 
-ll. Implementar y fortalecer los mecanismos institucionales de promoción y cumplimiento de las políticas de igualdad sustantiva en el Estado, mediante la aplicación del principio de transversalidad, a través de los órganos correspondientes;
+Cuando exista duda respecto de la competencia de las Dependencias para la atención de algún asunto, el Gobernador del Estado decidirá a cuál de ellas le corresponde atenderlo.
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-III. Implementar las acciones políticas, programas, proyectos e instrumentos que garanticen la adopción de acciones afirmativas en favor de la igualdad sustantiva;
+###### ARTICULO 17.
 
-IV. Incorporar con enfoque de género al presupuesto de egresos del Estado, la asignación de recursos para el cumplimiento de las políticas de igualdad;
+Para el estudio, planeación y despacho de los negocios en los diversos ramos de la Administración Pública del Estado, habrá un Secretario General de Gobierno.
 
-V. Diseñar y aplicar los instrumentos de la política estatal en materia de igualdad, garantizada en esta Ley;
+Además de la Secretaría General de Gobierno, actuarán en su caso, directamente en el desempeño de las funciones encomendadas al Titular del Poder Ejecutivo, las siguientes Dependencias:
 
-VI. Celebrar con la federación y municipios, los instrumentos jurídicos necesarios de colaboración, coordinación, cooperación y concertación en materia de igualdad de género;
+I.- Oficialía Mayor de Gobierno;
 
-VII. Fortalecer los mecanismos institucionales de promoción y procuración de la igualdad entre mujeres y hombres, mediante las instancias administrativas que se ocupen del adelanto de las mujeres en el Estado;
+II.- Procuraduría General de Justicia;
 
-VIII. Promover, en los ámbitos público y privado, la aplicación de la presente Ley, y
+III.- Secretaría de Finanzas;
 
-IX. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
+IV.- Secretaría de Planeación y Presupuesto;
 
-###### Artículo 14.
+V.- Secretaría de Asentamientos Humanos y Obras Públicas;
 
-De conformidad con lo dispuesto en la presente Ley, corresponde a los municipios:
+VI.- Secretaría de Desarrollo Económico;
 
-I. Implementar la política municipal en materia de igualdad entre mujeres y hombres, en concordancia con las políticas Nacional y Estatal;
+VII.- Secretaría de Fomento Agropecuario;
 
-II. Coadyuvar con los Gobiernos Federal y Estatal en la consolidación de los programas en materia de igualdad entre mujeres y hombres;
+VIII.- Secretaría de Turismo;
 
-III. Diseñar, formular e implementar campañas de concientización que promuevan los valores y contenidos de la presente Ley;
+IX.- Secretaría de Educación y Bienestar Social;
 
-IV. Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales e indígenas;
+X.- Secretaría de Salud;
 
-V. Celebrar los instrumentos jurídicos de coordinación, cooperación y concertación necesarios, en materia de igualdad de género, y
+XI.- Secretaría Jurídica y Prevención Social;
 
-VI. Las demás que esta Ley y otros ordenamientos aplicables le confieran.
+XII.- Dirección de Tránsito y Transportes;
 
-###### Artículo 15.
+XIII.- Dirección del Trabajo y Previsión Social;
 
-Corresponde al Instituto Estatal de la Mujer, además de las facultades que establece el artículo 65 de la Ley que Garantiza el Acceso a las Mujeres a una Vida Libre de Violencia en el Estado de Tlaxcala, las siguientes:
+XIV.- Dirección del Registro Público de la Propiedad y del Comercio;
 
-I. Fomentar e instrumentar las condiciones que posibiliten la no discriminación, la igualdad de oportunidades, la participación equitativa entre hombres y mujeres en el ámbito social, económico, político, civil, cultural y familiar;
+XV.- Dirección de Relaciones Públicas;
 
-II. Concertar acciones afirmativas en los sectores público, social y privado a fin de garantizar el acceso a la igualdad de oportunidades;
+XVI.- Dirección de Comunicación Social;
 
-III. Establecer vínculos de colaboración permanente con organismos públicos, privados y sociales, para la efectiva aplicación y cumplimiento de la presente Ley;
+XVII.- Dirección General de Ecología;
 
-IV. Suscribir los convenios necesarios para el cumplimiento de la presente Ley;
+XVIII.- Comisión Agraria Mixta, y
 
-V. Evaluar la aplicación de la presente Ley en los ámbitos público y privado;
+XIX.- Dirección General de Control y Evaluación Gubernamental.
 
-VI. Participar en el diseño y formulación de políticas públicas locales en materia de igualdad sustantiva entre mujeres y hombres;
+### CAPITULO I
 
-VII. Proponer los lineamientos para la política estatal en los términos de las leyes aplicables y de conformidad con lo dispuesto por el Ejecutivo del Estado;
+DE LA SECRETARIA GENERAL DE GOBIERNO, OFICIALIA MAYOR DE GOBIERNO, PROCURADURIA GENERAL DE JUSTICIA, SECRETARIAS Y DIRECCIONES DEL RAMO.
 
-VIII. Coordinar de manera conjunta el programa de igualdad entre mujeres y hombres con las dependencias y entidades de la Administración Pública Estatal, así como los agrupamientos por funciones y programas afines que, en su caso, se determinen;
-
-X. Promover, coordinar y realizar la revisión de programas y servicios en materia de igualdad;
-
-X. Formular propuestas a las dependencias competentes sobre la asignación de los recursos que requieran los Programas de igualdad entre mujeres y hombres;
-
-XI. Impulsar la participación de la sociedad civil en la promoción de la igualdad entre mujeres y hombres;
-
-XII. Promover sin distingo partidista la participación equilibrada entre mujeres y hombres en los cargos de elección popular, y
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
-
-XIII. Operar las políticas públicas en materia de igualdad sustantiva;
-
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
-
-XIV. Las demás previstas en esta ley y en otras disposiciones aplicables.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2016)</small>
-
-###### Artículo 16.
-
-El Instituto coordinará las acciones que el Sistema Estatal genere, sin perjuicio de las atribuciones y funciones contenidas en la normatividad que lo rige, además propondrá las reglas para la organización y el funcionamiento del mismo, así como las medidas para vincularlo con otros de carácter similar o análogo.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2016)</small>
-
-###### Artículo 17.
-
-El Instituto convocará anualmente a los miembros del Sistema Estatal para la Evaluación del Programa Estatal a fin de procurar ante las instancias competentes su permanente actualización.
-
-### CAPÍTULO I. DE LA DISTRIBUCIÓN DE COMPETENCIAS Y LA COORDINACIÓN INTERINSTITUCIONAL
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1988)</small>
 
 ###### Artículo 5.
 
@@ -331,411 +301,761 @@ La igualdad sustantiva entre mujeres y hombres implica la eliminación de toda f
 
 El Ejecutivo del Estado y los municipios, ejercerán sus atribuciones de conformidad con la distribución de competencias previstas en esta Ley y en otros ordenamientos aplicables.
 
-###### Artículo 18.
+###### ARTICULO 18.
 
-La política de igualdad entre mujeres y hombres; que desarrollen los entes públicos y privados en el Estado, deberá establecer las acciones conducentes para lograr la igualdad en los ámbitos económico, político, social y cultural.
+Sin detrimento de las atribuciones que correspondan a las diferentes Dependencias de la Administración Pública Centralizada, el Secretario General de Gobierno, el Oficial Mayor de Gobierno, el Procurador General de Justicia, los Secretarios y Directores del ramo, tendrán las siguientes facultades y obligaciones:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2016)</small>
+I.- Fijar, dirigir y controlar las políticas de la Dependencia a su cargo, así como programar, coordinar y evaluar en los términos de la legislación aplicable las actividades de las Entidades Paraestatales del Sector que le corresponda coordinar;
 
-### CAPÍTULO II. DEL GOBIERNO ESTATAL
+II.- Aprobar los programas anuales de la Dependencia a su cargo y los de las Entidades del Sector correspondiente que se elaboren para concurrir en la Ejecución del Plan Estatal de Desarrollo;
+
+III.- Proponer el Anteproyecto de Presupuesto de Egresos de la Dependencia a su cargo y los de las Entidades Paraestatales del Sector correspondiente, remitiéndolos a la Secretaría de Planeación y Presupuesto con la oportunidad que se le solicite;
+
+IV.- Someter al Acuerdo del Gobernador del Estado los asuntos encomendados a la Dependencia a su cargo y los del Sector que le corresponda coordinar;
+
+V.- Desempeñar las comisiones y funciones que el Gobernador le confiera, manteniéndolo informado sobre el desarrollo y ejecución de las mismas;
+
+VI.- Proponer al Gobernador los Anteproyectos de Leyes, Reglamentos, Decretos, Acuerdos y Ordenes sobre los asuntos que competen a la Dependencia a su cargo y al Sector que le corresponda coordinar;
+
+VII.- Dar cuenta al Congreso del Estado de la situación que guarda su Ramo o el del Sector correspondiente, siempre que sea requerido para ello, y
+
+VIII.- Documentar, compilar y mantener actualizada la información de la Dependencia a su cargo, con el objeto de integrar el Informe General que obliga al Gobernador la Fracción V del Artículo 49 de la Constitución Política del Estado de Baja California.
+
+### CAPITULO II
+
+DE LA COMPETENCIA DE LA SECRETARIA GENERAL DE GOBIERNO.
 
 ###### Artículo 9.
 
 El Ejecutivo del Estado y los municipios, establecerán las bases de coordinación para la integración y funcionamiento del Sistema Estatal.
 
-###### Artículo 19.
+###### ARTICULO 19.
 
-La política de igualdad que desarrolle el Ejecutivo del Estado, deberá de considerar los lineamientos siguientes:
+A la Secretaría General de Gobierno, además de las atribuciones que expresamente le confiere la Constitución Política del Estado, le corresponde el despacho de los siguientes asuntos:
 
-I. Fortalecer la igualdad entre mujeres y hombres en todos los ámbitos de la vida;
+I.- Conducir las relaciones que correspondan al Poder Ejecutivo del Estado con los otros Poderes Estatales, los Ayuntamientos, los Poderes Federales y los de las demás Entidades Federativas;
 
-II. Garantizar que la planeación presupuestal incorpore la progresividad, la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos, acciones y convenios para la igualdad entre mujeres y hombres;
+II.- Presentar ante el Congreso del Estado las Iniciativas de Ley y Decretos que envíe el Gobernador;
 
-III. Fomentar la participación y representación política equilibrada entre mujeres y hombres;
+III.- Autorizar la publicación en el Periódico Oficial de Leyes, Decretos y demás Disposiciones que deban regir en el Estado;
 
-IV. Promover la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres;
+IV.- Intervenir y ejercer la vigilancia que en materia electoral señalen las Leyes al Ejecutivo del Estado o los Convenios que al efecto se celebren;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+V.- Expedir Permisos y Concesiones, previo Acuerdo del Gobernador, que no estén asignados a otras Dependencias del Ejecutivo;
 
-V. Garantizar la integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas públicas, con el fin de evitar la segregación laboral y eliminar las diferencias remuneratorias, así como potenciar el crecimiento del empresariado femenino y el valor del trabajo de las mujeres, incluido el doméstico;
+VI.- Vigilar, en auxilio de las Autoridades Federales, que las publicaciones impresas, trasmisiones (sic) de radio y televisión, películas y demás espectáculos públicos, se mantengan dentro de los límites de respeto a la vida privada, a la paz y moral pública, evitando provoquen la comisión de delitos o perturben el orden público;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+VII.- Vigilar, en auxilio de las Autoridades Federales, el desarrollo de los eventos a que se refiere la Ley Federal de Juegos y Sorteos;
 
-VI. Promover la eliminación de estereotipos establecidos en función del género;
+VIII.- Vigilar, en auxilio de las Autoridades Federales, el cumplimiento de las Leyes y Reglamentos en materia de cultos;
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+IX.- Representar al Gobierno del Estado en los Juicios de Amparo;
 
-VII. Promover la igualdad entre mujeres y hombres en la vida civil;
+X.- Tramitar la expedición de pasaportes, en los términos de los Convenios respectivos;
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+XI.- (DEROGADA, P.O. 31 DE MAYO DE 1991)
 
-VIII. Adoptar las medidas necesarias para la erradicación de la violencia contra las mujeres;
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)(F. DE E., P.O. 30 DE ENERO DE 1998)
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+XII.- Tramitar los nombramientos de los magistrados del Tribunal Superior de Justicia;
 
-IX. El establecimiento de medidas que aseguren la corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y hombres;
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)(F. DE E., P.O. 30 DE ENERO DE 1998)
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+XIII.- Llevar el registro y legalizar las firmas autógrafas de los servidores públicos estatales, los Presidentes y Secretarios Municipales, y de los demás servidores públicos a quienes esté encomendada la fe pública;
 
-X. La utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales;
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)(F. DE E., P.O. 30 DE ENERO DE 1998)
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+XIV.- Organizar y conducir en el Estado, el ejercicio de las funciones del Registro Civil, y del Notariado;
 
-XI. En el sistema educativo, la inclusión entre sus fines de la formación en el respeto de los derechos, libertades y de igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia; así como la inclusión dentro de sus principios de calidad, de la eliminación de los obstáculos que dificultan la igualdad efectiva entre mujeres y hombres;
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)(F. DE E., P.O. 30 DE ENERO DE 1998)
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+XV.- Proporcionar los apoyos administrativos que requiera la Comisión Estatal Electoral, el Registro Estatal de Electores, y demás organismos que por ley o convenio, le corresponda atender dentro de su dependencia;
 
-XII. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud, y
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)(F. DE E., P.O. 30 DE ENERO DE 1998)
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+XVI.- Participar y coordinar, en su caso, actividades relacionadas con la beneficencia pública y privada, y la política poblacional;
 
-XIII Promover que en la prácticas de comunicación social de las dependencias de la Administración Pública Estatal, así como en los medios masivos de comunicación, electrónicos e impresos, se eliminen el uso de estereotipos sexistas y discriminatorios e incorporen un lenguaje incluyente.
+XVII.- Participar y coordinar, en su caso, actividades relacionadas con la beneficencia pública y privada, la seguridad pública y la política poblacional;
 
-### CAPÍTULO III. DE LOS MUNICIPIOS
+XVIII.- Dirigir y orientar la prevención de la delincuencia y de toda conducta que afecte negativamente la seguridad y el bienestar social, proponiendo a las autoridades competentes las medidas que juzgue necesarias;
 
-###### Artículo 20.
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)(F. DE E., P.O. 30 DE ENERO DE 1998)
 
-Son instrumentos de la Política en materia de Igualdad los siguientes:
+XIX.- Vigilar la marcha general de la administración pública, para asegurar el cumplimiento de las instrucciones y criterios generales que hubieren sido dictados por el titular del Ejecutivo;
 
-I. El Sistema Estatal para la Igualdad entre Mujeres y Hombres;
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)(F. DE E., P.O. 30 DE ENERO DE 1998)
 
-II. El Programa Estatal para la Igualdad entre Mujeres y Hombres, y
+XX.- Establecer el sistema estatal de protección civil; coordinar las acciones y programas del Ejecutivo, relativos a la prevención de desastres; así como, ordenar la participación civil en eventos de emergencia, a fin de controlar y disminuir los daños materiales y humanos, y
 
-III. La vigilancia en materia de Igualdad entre Mujeres y Hombres en el Estado.
+XXI.- Proponer al Gobernador la creación y, en su caso, administrar los Centros de Readaptación Social para Adultos en el Estado;
 
-## TÍTULO SEGUNDO. DE LAS AUTORIDADES E INSTITUCIONES
+XXII.- Realizar y promover acciones tendientes a prevenir la toxicomanía en todos sus tipos, coordinándose con las Autoridades cuya intervención establezcan las Leyes Federales;
 
-### CAPÍTULO IV. DEL INSTITUTO ESTATAL DE LA MUJER
+XXIII.- Promover y coordinar la realización de estudios sobre los Municipios del Estado, que tiendan a su fortalecimiento y desarrollo;
 
-###### Artículo 21.
+XXIV.- Organizar y controlar la Defensoría de Oficio;
 
-En el diseño, elaboración, aplicación, evaluación y seguimiento de los instrumentos de la política de igualdad entre mujeres y hombres, se deberán observar los objetivos y principios previstos en esta Ley.
+XXV.- Vigilar la marcha general de la administración pública para asegurar el cumplimiento de las instrucciones y criterios generales que hubieren sido dictados por el Titular del Ejecutivo, y
 
-###### Artículo 22.
+XXVI.- Las demás que determinen expresamente las Leyes y Reglamentos.
 
-El Ejecutivo del Estado es el encargado de la aplicación del Sistema y el Programa, a través del Instituto Estatal de la Mujer.
+### CAPITULO III
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2016)</small>
+DE LA COMPETENCIA DE LA OFICIALIA MAYOR DE GOBIERNO.
 
-###### Artículo 23.
+###### ARTICULO 20.
 
-El Instituto tendrá a su cargo la coordinación del Sistema Estatal y la operación de las políticas públicas en materia de igualdad entre mujeres y hombres, y las demás que sean necesarias para cumplir con los objetivos de la presente Ley.
+A la Oficialía Mayor de Gobierno le corresponde, además de lo que expresamente le confiere la Constitución Política del Estado, la atención y trámite de los siguientes asuntos:
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+I.- Formular y expedir las normas y políticas administrativas para el manejo del personal, los recursos materiales y bienes muebles e inmuebles del Gobierno del Estado;
 
-###### Artículo 24.
+II.- Cumplir y hacer cumplir las Disposiciones Legales que rigen las relaciones entre el Gobierno del Estado y los servidores públicos;
 
-El Sistema Estatal para la Igualdad entre Mujeres y Hombres, es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen las dependencias y las entidades de la administración pública estatal entre sí, las autoridades de los municipios, el Poder Ejecutivo, el Poder Legislativo y el Poder Judicial, las organizaciones de la sociedad civil, instituciones académicas y de investigación, a fin de efectuar acciones de común acuerdo destinadas a la promoción y procuración de la igualdad entre mujeres y hombres.
+III.- Seleccionar, contratar, capacitar y establecer las normas de control y disciplina al personal de la Administración Pública Centralizada, proponiendo los sueldos y fijando las demás remuneraciones que deban percibir los servidores públicos;
 
-### CAPÍTULO II. DE LOS INSTRUMENTOS DE LA POLÍTICA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
+IV.- Diseñar y establecer el sistema de movimientos e incidencias de personal, así como efectuar los trámites correspondientes;
 
-###### Artículo 25.
+V.- Establecer y mantener en el Gobierno del Estado el Servicio Civil de Carrera;
 
-Corresponden al Instituto Estatal las acciones siguientes:
+VI.- Mantener al corriente el escalafón de los trabajadores al Servicio del Gobierno del Estado;
 
-I. Proponer los lineamientos para la Política Estatal en los términos de las leyes aplicables, de conformidad con lo dispuesto por el Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 1996)</small>
 
-II. Coordinar de manera conjunta el programa de igualdad entre mujeres y hombres con las dependencias y entidades de la Administración Pública Estatal, así como los agrupamientos por funciones y programas afines que, en su caso, se determinen;
+VII.- Adquirir y suministrar los bienes y servicios que requiera el funcionamiento de las Dependencias de la Administración Pública Centralizada; y representar al Gobierno del Estado en los Comités de Compras y Ventas;
 
-III. Promover, coordinar y realizar la revisión del programa y servicios en materia de igualdad;
+VIII.- Resguardar los bienes muebles e inmuebles propiedad del Estado, así como levantar y mantener al corriente el inventario de los mismos;
 
-IV. Formular propuestas a las dependencias competentes, sobre la asignación de los recursos que requieran los programas de igualdad entre mujeres y hombres;
+IX.- Administrar los Almacenes Generales del Gobierno del Estado;
 
-V. Apoyar la coordinación entre las instituciones de la Administración Pública Estatal para formar y capacitar a su personal en materia de igualdad entre mujeres y hombres;
+X.- Administrar la intendencia y dar mantenimiento a los bienes muebles e inmuebles del Gobierno del Estado;
 
-VI. Impulsar la participación de la sociedad civil en la promoción de la igualdad entre mujeres y hombres, y
+XI.- Coordinar y supervisar la emisión de publicaciones oficiales del Gobierno del Estado y administrar los Talleres Gráficos;
 
-VII. Las demás que se requieran para el cumplimiento de los objetivos del Sistema Estatal y las que determinen las disposiciones generales aplicables.
+XII.- Administrar el Archivo del Poder Ejecutivo, así como coordinar las Unidades de Correspondencia y Archivo del Gobierno del Estado;
 
-### CAPÍTULO III. DEL SISTEMA ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
+XIII.- Dirigir el Periódico Oficial y controlar la emisión de las demás publicaciones e impresos del Gobierno del Estado;
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2016)</small>
+XIV.- Integrar el sector administrativo del Comité de Planeación para el Desarrollo del Estado;
 
-###### Artículo 26.
+XV.- Orientar a las Entidades Paraestatales acerca de las normas y políticas del Poder Ejecutivo, en materia de administración y desarrollo de personal, adquisición y conservación de bienes, y
 
-El Sistema Estatal tendrá los siguientes objetivos:
+XVI.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
-I. Aprobar las bases y lineamientos en materia de acciones afirmativas a efecto de eliminar la violencia y la discriminación entre mujeres y hombres;
+## TITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
-II. Velar por la progresividad legislativa en materia de igualdad, sustantiva entre mujeres y hombres, a fin de armonizar la legislación local con los estándares nacionales e internacionales en la materia;
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE NOVIEMBRE DE 1988)</small>
 
-III. Diseñar las políticas públicas, el programa y servicios en materia de igualdad;
+### CAPITULO IV
 
-IV. Evaluar la necesidad específica de las asignaciones presupuestarias destinadas a ejecutar el programa y planes estratégicos en materia de igualdad entre mujeres y hombres;
+DE LA COMPETENCIA DE LA PROCURADURIA GENERAL DE JUSTICIA.
 
-V. Organizar a la sociedad civil en la participación de debates públicos con la finalidad de promover la igualdad entre mujeres y hombres;
+###### ARTICULO 21.
 
-VI. Formar y capacitar a los servidores públicos en materia de igualdad entre mujeres y hombres, que laboran en los gobiernos estatal (sic) y municipales;
+La Procuraduría General de Justicia tiene las facultades y obligaciones que específicamente le confiere la Constitución Política del Estado y la Ley Orgánica de la Procuraduría General de Justicia del Estado de Baja California.
 
-VII. Elaborar y recomendar estándares que garanticen la transmisión en los medios de comunicación y órganos de comunicación social de los distintos entes públicos, de una imagen igualitaria, libre de estereotipos y plural de mujeres y hombres;
+###### ARTICULO 22.
 
-VIII. Otorgar un reconocimiento a las empresas que se distingan por instrumentar medidas tendientes a fomentar y mantener la igualdad entre mujeres y hombres;
+El Procurador General de Justicia es el Titular del Ministerio Público, Institución a la que incumbe el ejercicio de la acción penal y tendrá a sus órdenes inmediatas a la Policía Judicial como órgano de investigación previa y de ejecución de los mandamientos judiciales.
 
-IX. Fomentar acciones encaminadas al reconocimiento progresivo del derecho de conciliación de la vida personal, laboral y familiar, así como establecer los medios y mecanismos tendientes a la convivencia sin menoscabo del pleno desarrollo humano;
+Además tendrá intervención en todos los asuntos que afecten a la sociedad y a la familia, en particular tratándose de menores y, en general respecto de personas a quienes las Leyes otorgan especial protección.
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+###### ARTICULO 23.
 
-X. Establecer los instrumentos y medidas necesarias que tiendan a lograr la erradicación del hostigamiento y acoso sexual;
+A la Procuraduría General de Justicia corresponde:
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+I.- Controlar la acción penal que ejercitan los órganos legalmente competentes;
 
-XI. Promover la construcción de una sociedad igualitaria, plural, tolerante y respetuosa de la diferencia y el dialogo intercultural y multiétnico del Estado; y
+II.- Vigilar el respeto a las Leyes por parte de todas las Autoridades y, en su caso, proponer al Ejecutivo la adopción de medidas administrativas adecuadas para tal fin;
 
-> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+III.- Hacer cesar la comisión de los delitos, con la debida eficacia y oportunidad;
 
-XII. Las demás que se requieran para el cumplimiento de los objetos del Sistema Estatal y las que determinen las disposiciones aplicables.
+IV.- Proponer al Ejecutivo el nombramiento o la remoción de los Agentes del Ministerio Público, así como el cambio de adscripción de los mismos;
 
-### CAPÍTULO IV. DEL PROGRAMA ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
+V.- Dirigir y coordinar las actividades de la Policía Judicial del Estado, así como la función de los Cuerpos de Seguridad Pública cuando actúen en auxilio de la Policía Judicial;
 
-###### Artículo 27.
+VI.- Prestar al Poder Judicial el auxilio necesario para el debido cumplimiento de las resoluciones que se dicten en materia penal;
 
-El Programa Estatal será propuesto por el Instituto y tomará en cuenta las necesidades del Estado y los municipios, así como las particularidades de la desigualdad en cada región.
+VII.- Coordinar su actuación con las Autoridades Federales en la investigación de los delitos de la competencia de aquéllos;
 
-Deberá integrarse a los instrumentos de planeación, programación y presupuestación contemplados en el Plan Estatal de Desarrollo, así como a los programas sectoriales, institucionales y especiales a que se refiere.
+VIII.- Atender en coordinación con la Secretaría General de Gobierno lo relativo a la estadística y medios de identificación de personas sujetas a proceso de carácter penal;
 
-El programa establecerá los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta lo establecido en la presente Ley.
+IX.- Imponer al personal de la Procuraduría y Agentes del Ministerio Público y de la Policía Judicial, las sanciones disciplinarias que correspondan por faltas cometidas en el desempeño de sus funciones; y
 
-Los programas que elaboren los municipios, indicarán los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta los criterios e instrumentos con los programas estatales.
+X.- Las otras atribuciones previstas por las Leyes, Reglamentos y demás disposiciones aplicables.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPITULO V
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2016)</small>
+DE LA COMPETENCIA DE LA SECRETARIA DE FINANZAS.
 
-###### Artículo 28.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1989)</small>
 
-Los objetivos y acciones de esta Ley estarán encaminados a garantizar el derecho a la igualdad sustantiva entre mujeres y hombres, para efectos de acortar la brecha de desigualdades existente con las políticas públicas que aceleren dicha igualdad.
+###### ARTICULO 24.
 
-### CAPÍTULO II. DE LA IGUALDAD ENTRE MUJERES Y HOMBRES EN LA VIDA ECONÓMICA Y LABORAL
+A la Secretaría de Finanzas del Estado corresponde la atención y trámite de los siguientes asuntos:
 
-###### Artículo 29.
+I.- Formular y someter a la consideración del Gobernador del Estado la política hacendaria y crediticia del Gobierno;
 
-Los entes públicos están obligados a garantizar el derecho a la igualdad entre mujeres y hombres, de acuerdo a lo establecido en el artículo 19 fracción VII de la Constitución Política del Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
 
-### CAPÍTULO III. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA EQUILIBRADA DE LAS MUJERES Y LOS HOMBRES
+II.- Recaudar y administrar las contribuciones en los términos de las leyes fiscales correspondientes, así como otros ingresos que deba percibir el erario estatal, y que tenga su origen en otras disposiciones legales;
 
-###### Artículo 30.
+III.- Cumplir y hacer cumplir las Leyes, Reglamentos, Convenios y demás disposiciones de carácter fiscal;
 
-Son objetivos de la política estatal, en materia de igualdad:
+IV.- Mantener actualizado el Padrón Estatal de Contribuyentes;
 
-I. Inclusión en el presupuesto y puntual aplicación de los fondos para la promoción de la igualdad en el trabajo y los procesos productivos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
 
-II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica;
+V.- Realizar visitas domiciliarias, revisiones, inspecciones y auditorías a los contribuyentes, a fin de comprobar el exacto cumplimiento de las leyes fiscales;
 
-III. Impulsar liderazgos igualitarios, y
+VI.- Proporcionar, a solicitud de los Ayuntamientos o de particulares, orientación en materia de interpretación y aplicación de las Leyes tributarias, tanto del Estado como de la federación, realizando de oficio o a petición de parte, una función permanente de orientación fiscal, dictando los acuerdos necesarios, los cuales adquirirán el carácter de obligatorios para todas sus dependencias y unidades administrativas;
 
-IV. Garantizar, en la vida económica, la igualdad entre mujeres y hombres.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+VII.- Formular e integrar la estadística fiscal y financiera del Gobierno del Estado;
 
-V. Impulsar la autonomía de las mujeres en la vida pública y privada;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+VIII.- Organizar y llevar la contabilidad de la hacienda pública estatal, formular la cuenta anual y consolidar los estados financieros tanto de la Administración Pública Centralizada como la Paraestatal;
 
-VI. Promover con el Poder Legislativo la armonización normativa de la legislación del Estado en todas sus materias con los instrumentos internacionales que México ha suscrito y ratificado, incorporando la no discriminación, la eliminación de la violencia de género, la atención a víctimas y la institucionalización de la perspectiva de género, y
+IX.- Informar a la Secretaría de la Contraloría General sobre los sistemas de contabilidad, su control financiero, deuda pública y manejo de fondos y valores;
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
 
-VII. Impulsar la representación en la vida política de las mujeres en igualdad numérica, en cargos de elección popular y públicos.
+X.- Acordar la cancelación de créditos fiscales;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
 
-### CAPÍTULO IV. DE LA IGUALDAD DE ACCESO Y EL PLENO DISFRUTE DE LOS DERECHOS SOCIALES PARA LAS MUJERES Y LOS HOMBRES
+XI.- Formar parte de los órganos de dirección y de gobierno de las entidades de la Administración Pública Paraestatal;
 
-###### Artículo 31.
+XII.- Representar al Gobierno del Estado en los juicios que se ventilen ante los Tribunales, cuando tenga interés el Fisco Estatal y el de la federación, de conformidad con lo dispuesto en la Ley de Coordinación Fiscal y Convenios suscritos en la materia, que tengan vigencia en el Estado;
 
-Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes garantizarán el principio de igualdad sustantiva entre mujeres y hombres en el ámbito del empleo, así como en el derecho fundamental a la no discriminación de aquellas en las ofertas laborales, en la formación y promoción profesional, en las condiciones de trabajo, incluidas las retributivas y en la afiliación y participación en las organizaciones sindicales, empresariales o en cualquier organización cuyos miembros ejerzan una profesión concreta, para lo cual desarrollarán las siguientes acciones:
+XIII.- Proyectar y calcular los ingresos del Estado, tomando en cuenta las necesidades de recursos y la utilización del crédito público para la ejecución del Plan Estatal de Desarrollo y sus programas;
 
-I. Promover la revisión de los sistemas fiscales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su género;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
 
-II. Fomentar la incorporación a la educación y formación de las personas que en razón de su género están relegadas;
+XIV.- Formular y presentar cada año a la consideración del titular del Poder Ejecutivo el anteproyecto de Ley de Ingresos del Estado, para el ejercicio fiscal siguiente;
 
-III. Garantizar el acceso al trabajo de las personas que en razón de su género, están relegadas, especialmente de puestos directivos;
+XV.- Efectuar los pagos que deba realizar el Gobierno del Estado, previa revisión de la disponibilidad presupuestal señalada en el Presupuesto de Egresos;
 
-IV. Apoyar el perfeccionamiento y la coordinación de los sistemas estadísticos estatales, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia estatal laboral;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
 
-V. Reforzar la cooperación entre Estado y municipios, para supervisar la igualdad entre mujeres y hombres en la estrategia estatal laboral;
+XVI.- Emitir las bases para fijar precios, tarifas, tasas y cuotas y demás ingresos por concepto de servicios, enajenación o arrendamiento de bienes sujetos al dominio privado del Estado y cuando correspondan a sus funciones de derecho público que no estén previstos en la Ley de Ingresos del Estado;
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
 
-VI. Evitar en el mercado de trabajo, la segregación de las personas por razón de su género, origen étnico, religión o discapacidad;
+XVII.- Revisar y, en su caso, aprobar los programas financieros y crediticios de la Administración Pública Centralizada y de la Paraestatal, así como administrar la deuda pública del Estado, informando al Gobernador sobre la situación de la misma y, en general, sobre el estado de las finanzas públicas;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
 
-VII. Diseñar y aplicar lineamientos que aseguren la igualdad en la contratación del personal en la administración pública;
+XVIII.- Coordinar y vigilar la administración, ejecución y aplicación de recursos de los programas de inversión de la Administración Pública Centralizada y Paraestatal, así como los convenios y programas de Desarrollo Regional celebrados con la Federación y Municipios;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+XIX.- Administrar los fondos y valores del Gobierno del Estado, incluyendo su aplicación, con base en el Presupuesto Anual de Egresos;
 
-VIII. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia. Para la expedición del certificado a empresas se observará lo siguiente:
+XX.- Atender las observaciones de glosa que finque el Congreso del Estado en materia hacendaria;
 
-a). La existencia y aplicación de un código de ética que prohíba la discriminación de género y establezca sanciones internas por su incumplimiento.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2024)</small>
+XXI.- Vigilar que sus unidades administrativas den exacto cumplimiento a las leyes, al Reglamento Interior de la Secretaría y a los demás instructivos y manuales que emita o apruebe el Secretario;
 
-b). En la integración de la plantilla laboral no se exceda del sesenta por ciento de personas de un mismo género y más del diez por ciento del total corresponda a mujeres que ocupen puestos directivos, sin que para el ingreso, permanencia o ascenso en el empleo se exija la exhibición de certificado de no gravidez, ni se sujete cualquier circunstancia inherente a la relación laboral a la condición de no embarazarse.
+XXII.- Dirigir el servicio de procesamiento electrónico de datos a las dependencias y entidades de la Administración Pública Estatal;
 
-c). La aplicación de procesos igualitarios en la selección del personal, contemplando desde la publicación de sus vacantes hasta el ingreso del personal.
+XXIII.- Asesorar a las Dependencias y Entidades en la adquisición, sobre el uso y aprovechamiento de los recursos en materia de informática, y
 
-d). Las demás consideraciones en materia de salubridad, protección y prevención de la desigualdad en el ámbito laboral.
+XXIV.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+### CAPITULO VI
 
-IX. Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación.
+DE LA COMPETENCIA DE LA SECRETARIA DE LA CONTRALORIA GENERAL.
 
-> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2019)</small>
+###### ARTICULO 25.
 
-X. Contribuir en el equilibrio entre mujeres y hombres, del reparto de las responsabilidades familiares, reconociendo a los padres biológicos y por adopción el derecho a una licencia por paternidad con goce de sueldo en términos de la Ley de la materia.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 1992)
 
-### CAPÍTULO V. DE LA IGUALDAD ENTRE MUJERES Y HOMBRES EN LA VIDA CIVIL
+### CAPITULO VII
 
-###### Artículo 32.
+DE LA COMPETENCIA DE LA SECRETARIA DE PLANEACION Y PRESUPUESTO.
 
-Los entes públicos, en el ámbito de su competencia, generarán los mecanismos necesarios para garantizar la participación equitativa entre mujeres y hombres en la toma de decisiones políticas y socioeconómicas.
+###### ARTICULO 26.
 
-### CAPÍTULO VI. DE LA ELIMINACIÓN DE ESTEREOTIPOS ESTABLECIDOS EN FUNCIÓN DEL GÉNERO
+A la Secretaría de Planeación y Presupuesto corresponde la atención y trámite de los siguientes asuntos:
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+I.- Orientar a las Dependencias y Entidades del Poder Ejecutivo, para que sus programas y acciones concurran al cumplimiento de los objetivos y metas contenidos en el Plan Estatal de Desarrollo;
 
-###### Artículo 33.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1992)</small>
 
-Para los efectos de lo previsto en el Artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
+II.- Establecer y mantener, en coordinación con la Secretaría de Finanzas, el sistema de presupuesto por programas en las Dependencias y Entidades de la Administración Pública Estatal, así como el seguimiento y evaluación presupuestal;
 
-I. Favorecer el trabajo parlamentario con la perspectiva de género;
+III.- Coordinar el proceso de elaboración del Anteproyecto de Presupuesto Anual de Egresos y presentarlo a la consideración del Gobernador del Estado;
 
-II. Garantizar, en el ámbito de su competencia, el derecho a una educación igualitaria, plural y libre de estereotipos de género, creando conciencia sobre la necesidad de eliminar toda forma de discriminación;
+IV.- Planear y coordinar los programas de inversión de la Administración Publica Centralizada y la Paraestatal y los Convenios y Programas de Desarrollo Regional que con tal fin celebre el Gobierno del Estado con la Federación y los Municipios;
 
-III. Fomentar la participación equilibrada de mujeres y hombres en los cargos de elección popular;
+V.- Formular los dictámenes técnicos de los proyectos de inversión de la Administración Pública Centralizada y la Paraestatal y, en su caso, aprobarlos para su ejecución;
 
-IV. Desarrollar y actualizar estadísticas desagregadas por género, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad en general, y
+VI.- Promover en las Dependencias y Entidades los Programas de Modernización Administrativa derivados del Plan Estatal de Desarrollo;
 
-V. Fomentar la participación equilibrada y sin discriminación de género para el proceso de selección, contratación y ascensos en el trabajo en los tres Poderes del Estado y sus dependencias.
+VII.- Apoyar a las Dependencias y Entidades de la Administración Pública Estatal en la formulación de sus instrumentos normativos de carácter administrativo;
 
-## TÍTULO TERCERO. DE LA POLÍTICA DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO
+VIII.- Vigilar la integración y mantener actualizado el Sistema Estatal de Estadística e Información para la Planeación que opere el Comité de Planeación para el Desarrollo del Estado;
 
-### CAPÍTULO VII. DEL DERECHO A LA INFORMACIÓN Y LA PARTICIPACIÓN SOCIAL EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
+IX.- Orientar, a solicitud de los Ayuntamientos, en materia de planeación, programación, presupuestación, organización administrativa y sistemas de información para la planeación, y
 
-###### Artículo 34.
+X.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
-Con el fin de garantizar la igualdad en el acceso a los derechos sociales y el pleno disfrute de éstos, serán objetivos de los entes públicos en el ámbito de su competencia:
+XI.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-I. Garantizar el conocimiento, la aplicación y difusión de la legislación existente en el ámbito del desarrollo social;
+XII.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+XIII.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-II. Integrar la perspectiva de género al concebir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan la cotidianeidad;
+XIV.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+XV.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-III. Revisar y evaluar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género, y
+XVI.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+XVII.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-IV. Diseñar políticas públicas de Comunicación Social de difusión y protección de los derechos humanos de las niñas y mujeres, con el objeto de prevenir su discriminación y la comisión de delitos en los que su condición de género las haga vulnerables.
+XVIII.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2016)</small>
+XIX.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-### CAPÍTULO ÚNICO. DE LA CONTINUIDAD Y EVALUACIÓN EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
+XX.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+XXI.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-###### Artículo 35.
+XXII.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-Para efecto de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las acciones siguientes:
+XXIII.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-I. Garantizar el seguimiento y la evaluación en el ámbito estatal y municipal de la aplicación de la legislación existente;
+XXIV.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-II. Promover la difusión y el conocimiento de la legislación, instrumentos internacionales y la jurisprudencia en la materia;
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 1994)</small>
 
-III. Difundir en la sociedad el conocimiento de sus derechos y los mecanismos para su exigibilidad;
+ARTICULO 26 BIS.- A la Dirección de Control y Evaluación Gubernamental, le corresponde la atención y trámite de los siguientes asuntos:
 
-IV. Integrar el principio de igualdad en el ámbito de la protección social;
+I.- Planear, organizar y coordinar el sistema de control y evaluación gubernamental de la Administración Pública estatal.
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+II.- Expedir las normas que regulan el funcionamiento de los instrumentos y procedimientos de control de la Administración Pública Estatal, y en su caso requerir de las dependencias competentes, la instrumentación de normas complementarias para el ejercicio de facultades que aseguren el control.
 
-V. Promover acciones que aseguren la igualdad de acceso de mujeres y hombres a la alimentación, la educación y la salud;
+III.- Vigilar el cumplimiento de las normas de control y fiscalización, así como asesorar y apoyar a los órganos de control interno de las dependencias y entidades de la Administración Pública del Estado.
 
-VI. Promover campañas de concientización para mujeres y hombres sobre su participación equitativa en la atención de las personas dependientes de ellos.
+IV.- Establecer las bases generales para la realización de auditorías en las dependencias y entidades de la Administración Pública del Estado, así como realizar las auditorías que se requieren a las dependencias y entidades en sustitución o apoyo de sus propios órganos de control.
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+V.- Comprobar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Estatal, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado de las mismas.
 
-VII. Capacitar al sector salud del Estado para que privilegie el buen trato y respeto a las mujeres que reciban y atiendan, evitando en todo momento expresiones denigratorias y devaluatorias, y
+VI.- Realizar, por sí o a solicitud de la Secretaría de Finanzas, Oficialía Mayor de Gobierno o de la Coordinación del sector correspondiente, auditorías y evaluaciones a las dependencias y entidades con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas.
 
-> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+VII.- Inspeccionar y vigilar directamente o a través de los órganos de control que las dependencias y entidades cumplan con las normas y disposiciones en materia de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Estatal.
 
-VIII. El Sector salud realizará Programas dirigidos a mujeres adolescentes, que proporcionen información y orientación tendiente a modificar los modelos estereotipados de mujer y varón, eliminando mitos, prejuicios y convencionalismos, que les permitan prevenir embarazos no deseados y ser víctimas de abusos sexuales.
+VIII.- Establecer los requisitos para la designación de los comisarios o sus equivalentes en los órganos de vigilancia de los Consejos o Juntas de Gobierno y Administración de las Entidades de la Administración Pública Paraestatal, y en su caso, solicitar la remoción de éstos.
+
+IX.- Establecer y mantener coordinación e intercambiar información y documentación con la Contaduría Mayor de Hacienda del Congreso del Estado, sobre las normas, procedimientos y sistemas de contabilidad y sobre los procedimientos de archivo contable de los libros o documentos justificativos y comprobatorios del ingreso y del gasto público.
+
+X.- Recibir y registrar las declaraciones patrimoniales que deban presentar los servidores de la Administración Pública Estatal y verificar y practicar las investigaciones que fueren pertinentes de acuerdo con las leyes y reglamentos.
+
+XI.- Atender las quejas que presenten los particulares con motivo de acuerdos, convenios o contratos que celebran con las dependencias y entidades de la Administración Pública Estatal, de acuerdo con las normas que se emitan.
+
+XII.- Conocer e investigar los actos, omisiones o conductas de los servidores públicos para constituir responsabilidades administrativas, aplicar las sanciones que correspondan en los términos que las leyes señalan, y en su caso, hacer las denuncias correspondientes ante el Ministerio Público, presentándole para tal efecto la colaboración que le fuere requerida.
+
+XIII.- Recibir de la Contaduría Mayor de Hacienda del Congreso del Estado, los informes sobre las irregularidades en los procedimientos y sistemas de contabilidad que localice al revisar la Cuenta Pública, para dictar las medidas que correspondan, en coordinación con la Secretaría de Finanzas.
+
+XIV.- Las demás que le encomienden expresamente las leyes y reglamentos.
+
+### CAPITULO VIII
+
+DE LA COMPETENCIA DE LA SECRETARIA DE ASENTAMIENTOS HUMANOS Y OBRAS PUBLICAS.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+###### ARTICULO 27.
+
+A la Secretaría de Asentamientos Humanos y Obras Públicas le corresponden la atención y trámite de los siguientes asuntos:
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+I.- Coordinar la ejecución de los programas referentes a asentamientos humanos, vivienda, obras públicas, de acuerdo a los objetivos y metas que establezca el Plan Estatal de Desarrollo y el Gobernador del Estado;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+II.- Cumplir y hacer cumplir las normas y lineamientos para la Constitución de reservas territoriales, previendo en su caso, las necesidades para vivienda, desarrollo urbano e industria;
+
+III.- Elaborar los Anteproyectos de Decretos de Expropiación, ocupación temporal y limitación de dominio en los casos de utilidad pública y promoverlos para su aprobación y posterior promulgación ante la Secretaría General de Gobierno;
+
+IV.- (DEROGADA, P.O. 10 DE OCTUBRE DE 1992)
+
+V.- (DEROGADA, P.O. 10 DE OCTUBRE DE 1992)
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+VI.- Promover el desarrollo urbano de las comunidades rurales y fomentar la organización de sociedades cooperativas de vivienda y de materiales de construcción;
+
+VII.- Promover, de acuerdo a los objetivos del Plan Estatal de Desarrollo, la creación y desarrollo de Fraccionamientos Populares;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+VIII.- Diseñar y vigilar la aplicación de normas técnicas para la construcción de las obras públicas que ejecute el Gobierno del Estado por sí o en cooperación con la Federación, los Ayuntamientos o los particulares;
+
+IX.- Conservar las plazas, paseos, parques y edificios públicos a cargo del Gobierno del Estado, con excepción de los encomendados expresamente a otras Dependencias u Organos creados para tal fin;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+X.- Promover en el seno del Comité de Planeación para el Desarrollo del Estado, programas de concertación de los sectores social y privado en materia de asentamientos humanos, desarrollo urbano y vivienda;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+XI.- Organizar y fomentar las investigaciones relacionadas con la vivienda, desarrollo urbano y obras públicas;
+
+XII.- Promover programas de producción y suministro de materiales para la vivienda;
+
+XIII.- (DEROGADA, P.O. 10 DE OCTUBRE DE 1992)
+
+XIV.- Cumplir y hacer cumplir la Ley de Obra Pública del Estado;
+
+XV.- Brindar asesoría a los Ayuntamientos para la formulación de los Programas de Desarrollo Urbano Municipal y su Reglamentación respectiva, cuando lo soliciten, y
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+XVI.- Las demás que determinen expresamente las Leyes de la Materia.
+
+### CAPITULO IX
+
+DE LA COMPETENCIA DE LA SECRETARIA DE DESARROLLO ECONOMICO.
+
+###### ARTICULO 28.
+
+A la Secretaría de Desarrollo Económico le corresponde la atención y trámite de los siguientes asuntos:
+
+I.- Promover, impulsar y participar en la elaboración de programas de fomento para la creación de empresas industriales, comerciales, minera, artesanales, maquiladoras y pesqueras, así como la consolidación de las ya existentes, dentro del sector público, privado y social;
+
+II.- Impulsar y fomentar la organización cooperativa en el ámbito de su competencia;
+
+III.- Elaborar proyectos de viabilidad para el establecimiento de industrias y empresas que alienten la inversión pública, privada y social y promuevan el empleo;
+
+IV.- Instrumentar y concertar acciones que tiendan a resolver los problemas de abasto, comercialización y distribución de consumo básico;
+
+V.- Organizar y patrocinar congresos, seminarios, exposiciones y ferias de carácter comercial, industrial y pesquero;
+
+VI.- Diseñar y ejecutar programas de difusión que promuevan la inversión en el Estado;
+
+VII.- Estudiar y proponer al Gobernador del Estado, en coordinación con la Secretaría de Finanzas, los estímulos económicos y fiscales necesarios para el fomento de las actividades productivas;
+
+VIII.- Asesorar al sector privado y social sobre los apoyos y estímulos que otorgan los Gobiernos Federal y Estatal, así como los financiamientos correspondientes al sistema financiero;
+
+IX.- Integrar y proporcionar información sobre mercados internacionales, proveedores nacionales y extranjeros e inversionistas potenciales para el Estado, así como mantener actualizada la información socio-económica para proyectos de factibilidad de inversiones;
+
+X.- Asesorar técnicamente a los Ayuntamientos y a los sectores social y privado en el establecimiento de nuevas industrias o en la formulación y ejecución de proyectos productivos;
+
+XI.- Promover programas ante instituciones especializadas referentes a la capacitación y adiestramiento de mano de obra que impulsen y mejoren la productividad del trabajo;
+
+XII.- Impulsar y participar en los programas de investigación de tecnología industrial y fomentar su divulgación, y
+
+XIII.- Los demás que determinen expresamente las Leyes y Reglamentos.
+
+### CAPITULO X
+
+DE LA COMPETENCIA DE LA SECRETARIA DE FOMENTO AGROPECUARIO.
+
+###### ARTICULO 29.
+
+A la Secretaría de Fomento Agropecuario le corresponde la atención y trámite de los siguientes asuntos:
+
+I.- Cumplir y hacer cumplir la Ley Agropecuaria y Forestal del Estado de Baja California y las demás Disposiciones Legales aplicables en la materia;
+
+II.- Promover la explotación, reproducción, mejoramiento, fomento y protección de las especies agrícolas, ganaderas, avícolas y forestales;
+
+III.- Proyectar y coordinar los programas de fomento, mejoramiento, protección y explotación de los terrenos agrícolas, pastizales naturales y cultivados, así como los de los recursos forestales del Estado;
+
+IV.- Proponer y ejecutar actividades destinadas al fomento, mejora e industrialización de los productos y subproductos agrícolas, ganaderos, avícolas y forestales;
+
+V.- Promover la organización, con fines económicos y sociales, de las personas físicas o morales que se dediquen a la producción y explotación agrícola, ganadera, avícola y forestal en el Estado;
+
+VI.- Impulsar y participar en los Programas de Investigación y Experimentación Agropecuaria y Forestal en todos sus aspectos y promover la adopción de cambios tecnológicos y de sistemas de producción que incrementen la productividad;
+
+VII.- Coordinar y llevar a cabo campañas para la erradicación de plagas y enfermedades que afecten a las especies agrícolas, ganaderas, avícolas y forestales;
+
+VIII.- Efectuar actividades de supervisión, control, regulación y sanción de la movilización de los productos y subproductos agropecuarios y forestales en el Estado;
+
+IX.- Desempeñar funciones de asistencia técnica integral para los productores agrícolas, ganaderos, avícolas y forestales del Estado;
+
+X.- Promover y coordinar la ejecución de Programas de Infraestructura Física que contribuyan a incrementar la producción y productividad agropecuaria y forestal, así como la conservación y desarrollo de los recursos naturales de la Entidad;
+
+XI.- Coordinar en el seno del Comité de Planeación para el desarrollo del Estado de Baja California el funcionamiento del Subcomité Agropecuario y Forestal, así como organizar la información estadística del sector, y
+
+XII.- Los demás que determinen expresamente las Leyes y Reglamentos.
+
+### CAPITULO XI
+
+DE LA COMPETENCIA DE LA SECRETARIA DE TURISMO.
+
+###### ARTICULO 30.
+
+A la Secretaría de Turismo corresponde la atención y trámite de los siguientes asuntos:
+
+I.- Organizar, promover y coordinar programas, proyectos y actividades para desarrollar el potencial turístico del Estado, de acuerdo a los objetivos y metas del Plan Estatal de Desarrollo;
+
+II.- Someter a la consideración del Titular del Ejecutivo la celebración de Convenios entre el Gobierno del Estado y la Federación, los Ayuntamientos y otras Entidades Federativas, para la realización de actividades relacionadas con el turismo;
+
+III.- Proponer al Titular del Ejecutivo la declaración de zonas turísticas en el Estado, con su respectiva reglamentación y promover ante las Autoridades Federales competentes la formulación de declaratorias para zonas de desarrollo turístico nacional;
+
+IV.- Coadyuvar con las Autoridades competentes para el cumplimiento de las Leyes y Reglamentos por parte de las empresas de prestación de servicios turísticos;
+
+V.- Fomentar y mantener relaciones con organizaciones turísticas nacionales e internacionales, en apoyo a la difusión de los atractivos turísticos del Estado;
+
+VI.- Integrar un sistema de información sobre recursos e infraestructura turística y prestar servicios de orientación e información al usuario;
+
+VII.- Coordinarse con Instituciones Educativas Técnicas y de Nivel Superior, para ejecutar programas de capacitación turística en sus diversos aspectos;
+
+VIII.- Promover la creación de organismos de carácter privado y social que tiendan a fomentar la inversión en materia turística y servicios conexos, y
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 1990)</small>
+
+IX.- La Protección, Auxilio y Representación de los Turistas;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 1990)</small>
+
+X.- La regulación, clasificación y control de los servidores turísticos;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 1990)</small>
+
+XI.- Las (sic) demás que determinen expresamente las Leyes y Reglamentos.
+
+### CAPITULO XII
+
+DE LA COMPETENCIA DE LA SECRETARIA DE EDUCACION Y BIENESTAR SOCIAL.
+
+###### ARTICULO 31.
+
+A la Secretaría de Educación y Bienestar Social corresponde la atención y trámite de los siguientes asuntos:
+
+I.- Cumplir y hacer cumplir la Ley de Educación Pública del Estado;
+
+II.- Diseñar y formular los programas relativos a la educación, cultura, ciencia, tecnología, deportes, recreación y bienestar social, con base en la normatividad y rectoría del Gobierno Federal;
+
+III.- Formular y promover acuerdos de concertación con los sectores social y privado, para la formulación y ejecución de programas de educación, cultura, ciencia, tecnología, deporte, recreación y bienestar social;
+
+IV.- Planear, desarrollar, impartir, vigilar y evaluar los servicios educativos a cargo del Gobierno del Estado;
+
+V.- Someter al acuerdo del Gobernador del Estado las propuestas de autorización a particulares, para la impartición de educación en los tipos, niveles y modalidades a cargo del Gobierno del Estado;
+
+VI.- Otorgar becas y tramitar subsidios para fines educativos, así como promover y vigilar la creación y funcionamiento de organismos que permitan la obtención de recursos y otorguen becas y créditos educativos;
+
+VII.- Expedir constancias y certificados de estudio; otorgar diplomas, títulos y grados académicos, así como revalidar y establecer equivalencias de estudios;
+
+VIII.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO DE CULTURA DE BAJA CALIFORNIA, P.O. 31 DE MARZO DE 1989)
+
+IX.- Fomentar, difundir y coordinar la enseñanza y práctica de los deportes y la recreación, así como promover la celebración de actividades deportivas y la participación de eventos regionales, nacionales y en el extranjero;
+
+X.- Promover, autorizar y vigilar el establecimiento y funcionamiento de los Centros de Protección, de Desarrollo Infantil y de Asistencia Social;
+
+XI.- Registrar y controlar el ejercicio profesional en el Estado, así como auspiciar y vigilar el establecimiento de Colegios y Asociaciones de Profesionales, y
+
+XII.- Los demás que determinen expresamente las Leyes y Reglamentos.
+
+### CAPITULO XIII
+
+DE LA COMPETENCIA DE LA SECRETARIA DE SALUD.
+
+###### ARTICULO 32.
+
+A la Secretaría de Salud corresponde la atención y trámite de los siguientes asuntos:
+
+I.- Establecer y conducir la política estatal en materia de salud, de conformidad con las políticas del Sistema Nacional de Salud, Disposiciones Legales aplicables y Ordenamientos que expida el Ejecutivo Estatal sobre la materia;
+
+II.- Conducir y coordinar los programas de servicios de salud de las Dependencias y Entidades de la Administración Pública Estatal y evaluar su operación;
+
+III.- Proponer a los Ayuntamientos los Convenios de Coordinación en materia de servicios de salud;
+
+IV.- Apoyar la coordinación de los programas y servicios de salud de toda Dependencia o Entidad Pública en los términos de la legislación aplicable y de los Acuerdos de Coordinación que en su caso se celebren. En el caso de los programas y servicios de las Instituciones Federales de Seguridad Social, el mencionado apoyo se realizará de conformidad a lo previsto en las Leyes que rigen el funcionamiento de dichas Instituciones;
+
+V.- Celebrar los Convenios y Contratos que se requieran para la prestación de los servicios de salud;
+
+VI.- Impulsar, en los términos de los Convenios que al efecto se suscriban, la desconcentración y descentralización de los servicios de salud en favor de los Municipios;
+
+VII.- Promover, coordinar y realizar la evaluación de programas y servicios de salud que en su caso le solicite el Ejecutivo Estatal;
+
+VIII.- Promover el establecimiento de un Sistema Estatal de Información Básica en materia de salud, y determinar la periodicidad y características de la información que deberán proporcionar las Dependencias y Entidades que realicen servicios de salud en el Estado, con sujeción a las Disposiciones Legales aplicables;
+
+IX.- Formular recomendaciones a las Dependencias competentes sobre la asignación de los recursos que requieran los programas de servicios de salud en el Estado;
+
+X.- Impulsar y difundir en el ámbito estatal las actividades científicas y tecnológicas en el campo de los servicios de salud;
+
+XI.- Coadyuvar con las Dependencias Federales competentes en la regulación y control de la transferencia de tecnología en el área de salud;
+
+XII.- Apoyar la coordinación entre las Instituciones de Salud y las Educativas del Estado, para formar y capacitar recursos humanos para la salud;
+
+XIII.- Coadyuvar a que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del Sistema Estatal de Salud;
+
+XIV.- Promover, impulsar y capacitar a los habitantes del Estado en el cuidado de la salud;
+
+XV.- Impulsar la permanente actualización de las Disposiciones Legales en materia de salud, y
+
+XVI.- Los demás que determinen expresamente las Leyes y Reglamentos.
+
+### CAPITULO XIV
+
+DE LA COMPETENCIA DE LA DIRECCION DE TRANSITO Y TRANSPORTES.
+
+###### ARTICULO 33.
+
+A la Dirección de Tránsito y Transportes corresponde la atención y trámite de los siguientes asuntos:
+
+I.- Vigilar el cumplimiento de las Leyes y Reglamentos de Tránsito y Transportes de jurisdicción estatal;
+
+II.- Vigilar y controlar el tránsito en las carreteras y caminos de jurisdicción estatal;
+
+III.- Otorgar permisos y concesiones, previo Acuerdo del Gobernador, para la prestación de servicios de autotransportes en el Estado;
+
+IV.- Controlar los vehículos accidentados o retenidos por violación a las Leyes o Reglamentos aplicables;
+
+V.- Estudiar, planear y controlar el servicio público de transporte de pasajeros y de carga de jurisdicción estatal;
+
+VI.- Estudiar y proponer, en el seno del Comité de Planeación para el Desarrollo del Estado, programas tendientes a mejorar las comunicaciones y transportes en el Estado, y
+
+VII.- Los demás que determinen expresamente las Leyes y Reglamentos.
+
+## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
+
+### CAPITULO XV
+
+DE LA COMPETENCIA DE LA DIRECCION DE TRABAJO Y PREVISION SOCIAL.
+
+###### ARTICULO 34.
+
+A la Dirección del Trabajo y Previsión Social le corresponde la atención y trámite de los siguientes asuntos:
+
+I.- Vigilar la observancia y aplicación en el Estado, de las disposiciones relativas al trabajo contenidas en el Artículo 123 y demás de la Constitución Política de los Estados Unidos Mexicanos, en la Ley Federal del Trabajo y en sus Reglamentos;
+
+II.- Coadyuvar con la Dependencia Federal correspondiente en la formulación y promulgación de los Contratos Ley de Trabajo, tratándose de Empresas de jurisdicción local;
+
+III.- Organizar y controlar el Servicio Estatal del Empleo;
+
+IV.- Llevar el registro de las Asociaciones Obreras y Patronales de jurisdicción local;
+
+V.- Dirigir y coordinar la Procuraduría General de la Defensa del Trabajo;
+
+VI.- Organizar y patrocinar conferencias, exposiciones y reuniones para los trabajadores, en materia de trabajo y previsión social;
+
+VII.- Estudiar y proponer, en el seno del Comité de Planeación para el Desarrollo del Estado, programas tendientes a impulsar la ocupación en el Estado;
+
+VIII.- Intervenir en la conciliación de los intereses de las partes en conflicto, cuando éstas lo soliciten o cuando lo amerite, a juicio del Titular del Ejecutivo;
+
+IX.- Auxiliar en sus funciones a la Comisión Regional de los Salarios Mínimos;
+
+X.- Coordinar la integración y establecimiento de las Juntas Locales de Conciliación y/o de Arbitraje y el Tribunal de Arbitraje, así como vigilar su funcionamiento, y
+
+XI.- Los demás que determinen expresamente las Leyes y Reglamentos.
+
+### CAPITULO XVI
+
+DE LA COMPETENCIA DE LA DIRECCION DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO.
+
+###### ARTICULO 35.
+
+A la Dirección del Registro Público de la Propiedad y del Comercio le corresponde la atención y trámite de los siguientes asuntos:
+
+I.- Promover, organizar, vigilar y controlar el funcionamiento del Registro Público de la Propiedad y del Comercio;
+
+II.- Efectuar las inscripciones de los Actos o Contratos relativos, después de que se hayan satisfecho los requisitos legales;
+
+III.- Formular la liquidación de los derechos que se causen por concepto de la inscripción registral, previo pago de los mismos;
+
+IV.- Dar aviso a la Secretaría de Finanzas cuando tenga conocimiento de los casos en que los particulares no hayan dado cumplimiento a las Disposiciones Fiscales, debiéndose abstener de realizar trámite alguno mientras exista esa situación;
+
+V.- Desahogar las consultas que, de acuerdo con las Disposiciones de la materia, hagan los interesados;
+
+VI.- Permitir que las inscripciones sean examinadas dentro de las horas de labores por los interesados, pudiendo éstos tomar las notas y apuntes que juzgue necesarios, y
+
+VII.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
 ### CAPITULO XVII
 
 DE LA COMPETENCIA DE LA DIRECCION DE RELACIONES PUBLICAS.
 
-###### Artículo 36.
+###### ARTICULO 36.
 
-Con el fin de promover y procurar la igualdad en la vida civil de mujeres y hombres, serán objetivos de los entes públicos:
+A la Dirección de Relaciones Públicas corresponde la atención y trámite de los siguientes asuntos:
 
-I. Evaluar la legislación en materia de igualdad entre mujeres y hombres;
+I.- Llevar las relaciones públicas, establecer y cuidar el protocolo para las actividades públicas del Ejecutivo;
 
-II. Promover los derechos específicos de las mujeres como derechos humanos universales, y
+II.- Proporcionar a la Dirección de Comunicación Social información debidamente relacionada, con el fin de que existan canales de comunicación permanente con la ciudadanía en general;
 
-III. Erradicar las distintas modalidades de violencia de género.
+III.- Programar y coordinar los diferentes eventos especiales y cívicos del Ejecutivo;
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2016)</small>
+IV.- Motivar y establecer los medios necesarios para que la opinión pública participe conjuntamente en las actividades del Gobierno del Estado;
 
-###### Artículo 36 Bis.
+V.- Atender a invitados oficiales y especiales que indique el Titular del Ejecutivo, y
 
-Para garantizar la igualdad en materia de la vida civil, se tomaran las acciones siguientes:
-
-I. Establecer los protocolos o guías en materia de órdenes de protección para juzgar con perspectiva de género y de actuación policial en la atención a la violencia de género, y
-
-II. Incluir la atención psicoterapéutica al agresor de violencia familiar, como sanción en resoluciones jurisdiccionales y administrativas.
+VI.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
 ### CAPITULO XVIII
 
 DE LA COMPETENCIA DE LA DIRECCION DE COMUNICACION SOCIAL.
 
-###### Artículo 37.
+###### ARTICULO 37.
 
-Será objetivo de la política estatal:
+A la Dirección de Comunicación Social corresponde la atención y trámite de los siguientes asuntos:
 
-I. La eliminación de los estereotipos que fomentan la discriminación y la violencia contra las mujeres, y
+I.- Difundir las actividades públicas que el Titular del Ejecutivo y demás Dependencias desarrollen;
 
-II. Modificar los patrones socioculturales de conducta de hombres y mujeres, eliminando los prejuicios y las prácticas consuetudinarias que estén basados en la idea de la inferioridad o superioridad de cualquiera de los sexos y promoviendo las prácticas igualitarias entre hombres y mujeres.
+II.- Proporcionar información escrita, gráfica y/o grabada a los medios masivos de comunicación que emita el Gobernador y demás Dependencias del Estado;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2016)</small>
+III.- Planear, diseñar y realizar las campañas de difusión publicitaria de las diversas Dependencias Estatales;
+
+IV.- Desarrollar investigaciones de opinión pública, respecto a la imagen general del Gobierno del Estado, en particular la del Gobernador y de las Dependencias del Poder Ejecutivo, y
+
+V.- Los demás que determinen expresamente las Leyes y Reglamentos.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO XIX
 
-DE LA COMPETENCIA DE LA DIRECCION JURIDICA.
+DE LA COMPETENCIA DE LA SECRETARIA JURIDICA Y PREVENCION SOCIAL.
 
-###### Artículo 38.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-Para los efectos de lo previsto en el Artículo anterior, las autoridades correspondientes desarrollarán las acciones siguientes:
+###### ARTICULO 38.
 
-I. Promover acciones que contribuyan a erradicar toda discriminación basada en estereotipos de género;
+A la Secretaría Jurídica y Prevención Social le corresponde la atención y trámite de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+I.- Vigilar que en los asuntos de orden administrativo que competen al Poder Ejecutivo, se observen los principios de constitucionalidad y legalidad;
 
-II. Desarrollar actividades de concientización sobre la importancia de la igualdad sustantiva entre mujeres y hombres;
+II.- Intervenir en las controversias constitucionales en las que el Ejecutivo del Estado sea parte;
 
-III. Vigilar la integración de una perspectiva de género en todas las políticas públicas.
+III.- Representar al Gobernador del Estado, cuando éste así lo acuerde, en las acciones y controversias constitucionales a que se refiere el artículo 105 de la Constitución Federal;
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+IV.- Prestar consejo jurídico, emitir opinión y resolver las consultas que en materia jurídica le sean planteadas por el Gobernador y por las dependencias y entidades de la Administración Pública Estatal;
 
-IV. Capacitar a los servidores públicos de los diversos órdenes de gobierno y poderes del Estado sobre formación de feminidades y masculinidades, conformando grupos mixtos de hombres y mujeres;
+V.- Formular o emitir opinión sobre la constitucionalidad de los proyectos de Ley o Reglamentos que le encomiende el Ejecutivo del Estado;
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+VI.- Presidir e integrar la Comisión de Estudios Jurídicos, integrada por los responsables de las unidades de asuntos jurídicos de cada dependencia y entidad de la Administración Pública del Estado;
 
-V. Diseñar e implementar un programa de nuevas feminidades y masculinidades en cada Municipio.
+VII.- Intervenir con la representación jurídica del Poder Ejecutivo en todos los juicios o negocios en que intervenga como parte, afecten su patrimonio o tenga interés jurídico;
 
-> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+VIII.- Participar como coadyuvante en los juicios o negocios en que las dependencias y entidades de la Administración Pública del Estado intervengan con cualquier carácter, en su caso y previo acuerdo con el Titular, ejercer las acciones y excepciones que correspondan para la defensa administrativa y judicial;
 
-VI. Promover la utilización de un lenguaje con perspectiva de género en la totalidad de las relaciones sociales;
+IX.- Organizar y controlar la Oficina Defensora de Oficio;
 
-> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+X.- Intervenir en el trámite de los casos de expropiación;
 
-VII. Velar por que los medios de comunicación transmitan una imagen igualitaria plural y no estereotipada de mujeres y hombres en la sociedad, promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres y eviten la utilización sexista del lenguaje, y
+XI.- Proponer al Gobernador del Estado la creación y en su caso administrar las instituciones que contribuyan al desarrollo de la función tutelar para menores infractores y los Centros de Readaptación Social para adultos;
 
-> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+XII.- Operar y administrar el Sistema Estatal Penitenciario, regular la clasificación e internación de reos; Diseñar y ejecutar los programas de rehabilitación educativa; y promover la creación del patronato de reincorporación e integración social de reos y liberados;
 
-VIII. Vigilar que el contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta Ley esté desprovisto de estereotipos establecidos en función del sexo de las personas.
+XIII.- Tramitar, por acuerdo del Gobernador, las solicitudes de libertad preparatoria, preliberación y remisión parcial de la pena, traslado de los sentenciados que estén a disposición del Ejecutivo y vigilar la ejecución de las sanciones dictadas por las Autoridades del Poder Judicial;
+
+XIV.- Coordinar el Consejo Estatal de Seguridad Pública, y los programas de identificación e inventario de recursos humanos y materiales de las corporaciones, públicas y privadas, que brinden servicios de seguridad policial y preventiva en el Estado y en su red carretera;
+
+XV.- Participar en la elaboración y diseño de programas Académicos de Administración penitenciaria y capacitación de custodios;
+
+> <small>(F. DE E., P.O. 30 DE ENERO DE 1998)</small>
+
+XVI.- Fomentar la participación ciudadana, en la realización de programas y acciones tendientes a prevenir la toxicomanía en todos sus tipos; coordinándose con las autoridades cuya intervención establezcan las leyes federales;
+
+XVII.- Regular y controlar la prestación de servicios de seguridad privada y expedir la anuencia del Ejecutivo necesaria para su establecimiento y operación, y autorizar el equipo y los aditamentos de protección necesarios para su función, y
+
+XVIII.- Los demás que determinen expresamente las Leyes y Reglamentos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACION, P.O. 29 DE FEBRERO DE 1992)</small>
 
 ### CAPITULO XX
 
@@ -743,41 +1063,87 @@ DE LA COMPETENCIA DE LA DIRECCION GENERAL DE ECOLOGIA.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE FEBRERO DE 1992)</small>
 
-###### Artículo 39.
+###### ARTICULO 39.
 
-Toda persona tendrá derecho a que las autoridades y organismos públicos pongan a su disposición la información que les soliciten sobre políticas, instrumentos y normas sobre igualdad entre mujeres y hombres.
+Corresponde a la Dirección General de Ecología la atención y trámite de los siguientes asuntos:
+
+I.- Ejecutar la política y los criterios ecológicos en congruencia con los que, en su caso, hubiere formulado la Federación.
+
+II.- Elaborar el Plan de Ordenamiento Ecológico del Estado y los planes y programas que de éste se deriven.
+
+III.- Ejecutar los Planes fundamentales de la política ecológica del Estado, y los programas anuales que de éstos emanen, así como regular las acciones que se lleven a cabo con esos propósitos.
+
+IV.- Prevenir y controlar las emergencias ecológicas y contingencias ambientales cuando se afecten áreas de dos o más municipios y no se rebase el territorio de la entidad.
+
+V.- Evaluar y autorizar la manifestación del impacto ambiental de los proyectos, obras y actividades comerciales, industriales y de servicios.
+
+VI.- Regular las actividades que no sean consideradas por la Ley General del Equilibrio Ecológico y Protección al Ambiente como altamente riesgosas, cuando por los efectos que puedan generar, se afecten ecosistemas de la entidad o sus municipios.
+
+VII.- Coordinar la participación de las dependencias de la Administración Pública Estatal, en las acciones de preservación y restauración del equilibrio ecológico y protección al ambiente.
+
+VIII.- Regular y en su caso administrar las áreas naturales protegidas de competencia estatal, a fin de lograr la conservación y el aprovechamiento racional de los recursos naturales presentes en dichas áreas, con la participación de los municipios que corresponda.
+
+IX.- Administrar los recursos destinados a la investigación sobre ecología y el medio ambiente que para dicho efecto destine el Gobierno del Estado con el propósito de ampliar el conocimiento científico sobre los problemas ambientales o alternativas de solución de éstos que tengan aplicación en el Estado.
+
+X.- Promover el establecimiento o, en su caso, administrar museos, zonas de demostración, zoológicos, jardines botánicos y otras instalaciones o exhibiciones similares destinadas a promover el conocimiento y efectivo cumplimiento de los principios, criterios y preceptos ecológicos contenidos en la presente Ley, salvo aquellas que se encuentren bajo la administración de otra institución.
+
+XI.- Realizar proyectos específicos de información y educación ecológica, de alcance general en la entidad o de interés del Estado, a fin de desarrollar en la población una mayor conciencia ambiental y promover el mejor conocimiento de esta Ley.
+
+XII.- Prevenir, regular y controlar las emisiones de contaminantes a la atmósfera, incluidas las originadas por ruido, vibraciones, olores perjudiciales, energía térmica y luminosa, cuando éstas provengan de fuentes emisoras de competencia estatal.
+
+XIII.- Regular el aprovechamiento racional y prevenir la contaminación de las aguas de competencia estatal.
+
+XIV.- Prevenir, regular y controlar la contaminación de aguas federales asignadas o concesionadas al Gobierno del Estado para la prestación de los servicios públicos en materia de tratamiento, descarga, infiltración y reuso de aguas residuales.
+
+XV.- Regular con fines ecológicos el aprovechamiento de sustancias o materiales no reservados a la Federación ni a los Municipios, que constituyen depósitos de naturaleza semejante a los componentes de los terrenos, tales como arenas, grava, rocas o productos de su fragmentación, que son utilizados para la fabricación de materiales para construcción u ornamento.
+
+XVI.- Regular la adecuada conservación y aprovechamiento racional de los recursos naturales, en el ámbito de su competencia, desde su extracción hasta su transformación en materias primas.
+
+XVII.- Regular las obras, instalaciones, equipos y acciones para el alojamiento, recuperación, tratamiento, y disposición final de los residuos sólidos que no sean peligrosos, conforme a la Ley y sus disposiciones reglamentarias.
+
+XVIII.- Proponer la celebración de convenios con instituciones de educación superior, centros de investigación, instituciones privadas o públicas, investigadores y especialistas en la materia para promover y realizar programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la deterioración ambiental, propiciar el aprovechamiento racional de los recursos y la conservación de los ecosistemas.
+
+XIX.- Autorizar a las personas físicas o morales que lo soliciten su carácter de prestador de los servicios públicos especializados en la preservación y restauración ecológica, así como en la conservación y mejoramiento ambiental, siempre que cumplan con las disposiciones y requisitos que al efecto establezcan la Ley y sus reglamentos.
+
+XX.- Autorizar a los Auditores Ambientales Externos como peritos en la materia de ecología y prevención y control de la contaminación, siempre que cumplan con las disposiciones y requisitos que al efecto establezcan esta Ley y sus reglamentos.
+
+XXI.- Otorgar y revocar los permisos y las autorizaciones necesarias derivadas de la Ley.
+
+XXII.- Hacer efectivas las obligaciones derivadas de la Ley y sus reglamentos, y velar porque se observen las normas técnicas ecológicas que se expidan.
+
+XXIII.- Aplicar las sanciones administrativas correspondientes por infracciones a la Ley y sus reglamentos.
+
+XXIV.- Ordenar el decomiso de materiales o sustancias contaminantes, la clausura temporal, definitiva, parcial o total de las fuentes contaminantes de competencia estatal.
+
+XXV.- Resolver los recursos de revocación y de inconformidad que se interpongan con motivo de la aplicación de la Ley y sus reglamentos.
+
+XXVI.- Las demás que conforme a la Ley le correspondan.
 
 ### CAPITULO XXI
 
 DE LA COMPETENCIA DE LA COMISION AGRARIA MIXTA.
 
-###### Artículo 40.
+###### ARTICULO 40.
 
-El Ejecutivo Estatal, de acuerdo a sus atribuciones, promoverá la participación de la sociedad en la planeación, diseño, aplicación y evaluación de los programas e instrumentos de la política de igualdad entre mujeres y hombres a que se refiere esta Ley.
+A la Comisión Agraria Mixta le corresponden las atribuciones y deberes que establecen el Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal de Reforma Agraria y las demás Leyes y Decretos sobre la materia.
 
 ### CAPITULO I
 
 DE LOS ORGANISMOS DESCENTRALIZADOS.
 
-###### Artículo 41.
+###### ARTICULO 41.
 
-Los acuerdos y convenios que en materia de igualdad celebren el Ejecutivo y sus dependencias con los sectores público, social o privado, podrán versar sobre todos los aspectos considerados en los instrumentos de política sobre igualdad, así como coadyuvar en labores de vigilancia y demás acciones operativas previstas en esta Ley.
+Los Organismos Descentralizados son Entidades Jurídicas Públicas, con personalidad y patrimonio propios, en los que el Ejecutivo Estatal o, en su caso, el Congreso les confieren funciones administrativas que se ejercen en relación a los fines que les crea.
 
-###### Artículo 42.
+Con el fin de preservar la rectoría de los planes de Gobierno, los instrumentos de creación de todo Organismo Descentralizado deberán observar e incorporar, en su caso, las facultades de supraordenación y coordinación, que la presente Ley reserva al Gobernador del Estado o a las Dependencias del Poder Ejecutivo.
 
-El seguimiento, evaluación y monitoreo de la política estatal que realice la Comisión Estatal de Derechos Humanos, tiene por objeto la construcción de un sistema de información con capacidad para conocer la situación que guarda la igualdad entre mujeres y hombres, y el efecto de las políticas públicas aplicadas en esta materia, a través de:
+###### ARTICULO 42.
 
-I. Solicitar información sobre medidas y actividades que lleve a cabo la Administración Pública Estatal y/o la municipal en materia de igualdad entre mujeres y hombres;
+Los Organismos Descentralizados podrán ser creados por Leyes especiales que expida el Congreso, o en su caso, por el Ejecutivo Estatal, cualquiera que sea la forma o estructura legal que adopten.
 
-II. Proponer la realización de estudios e informes técnicos de diagnóstico sobre la situación de las mujeres y hombres en materia de igualdad;
+###### ARTICULO 43.
 
-III. Difundir información sobre los diversos aspectos relacionados con la igualdad entre mujeres y hombres, y
-
-IV. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
-
-###### Artículo 43.
-
-La Comisión Estatal de Derechos Humanos deberá recibir las quejas formular recomendaciones y presentar informes especiales en la materia objeto de esta Ley.
+Cuando un Organismo Descentralizado no cumpla sus fines o su funcionamiento ya no convenga para la economía o interés de la comunidad, se procederá a su extinción, de acuerdo con su naturaleza jurídica.
 
 ###### ARTICULO 44.
 
@@ -915,23 +1281,29 @@ LIC. HUGO FELIX GARCIA.
 
 P.O. 30 DE NOVIEMBRE DE 1988.
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
-###### ARTÍCULO SEGUNDO.
+###### ARTICULO SEGUNDO.
 
-Dentro de los sesenta días naturales siguientes a la entrada en vigor de esta Ley, deberá quedar constituido el Sistema Estatal.
+Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
 
-###### ARTÍCULO PRIMERO.
+P.O. 31 DE MARZO DE 1989.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+LEY QUE CREA EL INSTITUTO DE CULTURA DE BAJA CALIFORNIA.
 
-###### ARTÍCULO SEGUNDO.
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
-Se derogan todas las disposiciones que contravengan esta Ley.
+###### ARTICULO PRIMERO.
 
-P.O. 24 DE NOVIEMBRE DE 2017.
+La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga la Fracción VIII del artículo 31 de la Ley Orgánica de la Administración Pública del Estado. Se abroga el Capítulo VII con todos sus artículos del Reglamento Interno de la Secretaría de Educación y Bienestar Social del Estado, para suprimir la referencia de la Dirección de Asuntos Culturales y en lo conducente las demás disposiciones que se opongan a lo dispuesto en la presente Ley.
+
+P.O. 31 DE DICIEMBRE DE 1989.
 
 ###### ARTICULO UNICO.
 
@@ -953,87 +1325,95 @@ El presente Decreto entrará en vigor, el día siguiente al de su publicación e
 
 P.O. 29 DE FEBRERO DE 1992.
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
-###### ARTÍCULO SEGUNDO.
+###### ARTICULO SEGUNDO.
 
-Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
+Se derogan las disposiciones que contravengan lo dispuesto por las presentes reformas.
 
-P.O. 11 DE DICIEMBRE DE 2019.
+P.O. 10 DE OCTUBRE DE 1992.
 
-###### ARTÍCULO PRIMERO.
+DECRETO NUMERO 149.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+###### ARTICULO PRIMERO.
 
-###### ARTÍCULO SEGUNDO.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
 
-Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+###### ARTICULO SEGUNDO.
 
-P.O. 27 DE MAYO DE 2024.
+Las atribuciones que en otras leyes, reglamentos o cualquier otro tipo de disposición jurídica, se otorgan a la Secretaría de la Contraloría General del Estado, serán conferidas a la Secretaría de Planeación y Presupuesto, las que ejercerá con base en lo que dispone el presente ordenamiento.
 
-###### ARTÍCULO TERCERO.
+###### ARTICULO TERCERO.
 
-El Reglamento para el funcionamiento del Sistema Estatal deberá expedirse dentro de los sesenta días naturales siguientes a su constitución.
+Los asuntos a cargo de la Secretaría de la Contraloría General del Estado que se encontraren pendientes de resolución al momento de entrar en vigor este decreto, serán despachados por la Secretaría de Planeación y Presupuesto, conforme a las atribuciones asignadas por este mismo ordenamiento.
 
-AL EJECUTIVO PARA QUE LO SANCIONE Y MANDE PUBLICAR
+CUARTO.- Los derechos laborales que pudieran verse afectados por virtud de lo dispuesto en el presente decreto, serán respetados conforme a la Ley del Servicio Civil y demás disposiciones legales vigentes.
 
-Dado en la sala de sesiones del Palacio Juárez, recinto oficial del Poder Legislativo del Estado Libre y Soberano de Tlaxcala, en la ciudad de Tlaxcala de XicohténcatI, a los veintisiete días del mes de noviembre del año dos mil doce.
+QUINTO.- Los bienes y recursos con que cuentan la Secretaría de la Contraloría General del Estado, se destinarán al cumplimiento de las atribuciones que a la Secretaría de Planeación y Presupuesto, señala el presente decreto.
 
-C. TEODARDO MUÑOZ TORRES.- DIP. PRESIDENTE.- Rúbrica.- C. JUAN JAVIER POTRERO TIZAMITL.- DIP. SECRETARIO.- Rúbrica.- C. JOAQUÍN PLUMA MORALES.- DIP. SECRETARIO.- Rúbrica.
+SEXTO.- Se derogan todas las disposiciones que se opongan a lo dispuesto por este decreto.
 
-Al calce un sello con el Escudo Nacional que dice Estados Unidos Mexicanos. Congreso del Estado Libre y Soberano. Tlaxcala. Poder Legislativo.
+P.O. 10 DE OCTUBRE DE 1992.
 
-Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+DECRETO NUMERO 157.
 
-Dado en el Palacio del Poder Ejecutivo del Estado, en la ciudad de Tlaxcala de XicohténcatI, a los seis días del mes de diciembre de 2012.
+UNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano Informativo del Gobierno del Estado.
 
-EL GOBERNADOR DEL ESTADO
+P.O. 8 DE JULIO DE 1994.
 
-MARIANO GONZALEZ ZARUR
+###### ARTICULO PRIMERO.
 
-Rúbrica y sello.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
 
-EL SECRETARIO DE GOBIERNO
+###### ARTICULO SEGUNDO.
 
-NOE RODRIGUEZ ROLDAN
+Las atribuciones que la Ley de Responsabilidades de los Servidores Públicos confiere a la Secretaría de la Contraloría General del Estado y que se habían conferido a la Secretaría de Planeación y Presupuesto, serán ejercidas por la Dirección de Control y Evaluación Gubernamental.
 
-Rúbrica y sello
+###### ARTICULO TERCERO.
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+La Dirección de Control y Evaluación Gubernamental ejercerá en forma coordinada, las atribuciones que la Ley de Presupuesto, Contabilidad y Gasto Público y otros ordenamientos otorgan a la Secretaría de Planeación y Presupuesto y Secretaría de Finanzas.
 
-P.O. 8 DE DICIEMBRE DE 2016.
+###### ARTICULO CUARTO.
 
-###### ARTÍCULO PRIMERO.
+Los asuntos a cargo de la Secretaría de Planeación y Presupuesto que se encontraren en trámite y pendientes de resolución al momento de entrar en vigor el presente Decreto, serán resueltos por la Dirección de Control y Evaluación Gubernamental, conforme a las atribuciones que por este Decreto se le confieren.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+###### ARTICULO QUINTO.
 
-###### ARTÍCULO SEGUNDO.
+Los bienes y recursos que le fueron transferidos a la Secretaría de Planeación y Presupuesto de la Secretaría de la Contraloría General del Estado para el ejercicio de la fiscalización de la obra pública y de la Dirección de Responsabilidades por Decreto Número 149, de fecha 18 de agosto de 1992 de la Legislatura del Estado y publicado en el Periódico Oficial el 10 de octubre de 1992, se destinará a la Dirección de Control y Evaluación Gubernamental, que se crea mediante el presente Decreto.
 
-Se derogan las disposiciones que se opongan al contenido de este Decreto.
+P.O. 8 DE NOVIEMBRE DE 1996.
 
-P.O. 11 DE FEBRERO DE 2025.
+PRIMERO.- Remítase de nueva cuenta al Ejecutivo del Estado el Proyecto de Decreto ratificado que adiciona un segundo párrafo al artículo 16, un tercer párrafo con diez apartados al artículo 19, un último párrafo al artículo 33 y un segundo párrafo al artículo 37 de la Ley General de Bienes del Estado de Baja California, y modifica la fracción VII del artículo 20 de la Ley Orgánica de la Administración Pública del Estado de Baja California, para efectos de su promulgación en un término que no exceda de cinco días conforme al último párrafo del artículo 34 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
-###### ARTÍCULO TERCERO.
+SEGUNDO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-El Sistema Estatal para la Igualdad Sustantiva entre Mujeres y Hombres, deberá expedir el Reglamento para su funcionamiento, dentro de los noventa días naturales siguientes a su constitución.
+TERCERO.- Se derogan las disposiciones que se opongan a las presentes adiciones.
 
-###### ARTÍCULO CUARTO.
+P.O. 21 DE FEBRERO DE 1997.
 
-La persona titular del Poder Ejecutivo deberá expedir el Reglamento de la presente Ley, dentro de los ciento veinte días naturales siguientes a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+###### ARTICULO PRIMERO.
 
-###### ARTÍCULO QUINTO.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
 
-Dentro de los ciento veinte días hábiles a la entrada en vigor de la presente Ley, las dependencias y entidades de la Administración Pública Estatal, los poderes del Estado y los órganos constitucionales autónomos deberán realizar las gestiones administrativas para la creación de sus Unidades de Igualdad de Género.
+P.O. 31 DE DICIEMBRE DE 1997.
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+El personal de las dependencias que, en aplicación de esta reforma pase a la Secretaría Jurídica y Prevención Social, en ninguna forma resultará afectado en los derechos que haya adquirido, en virtud de su relación laboral con la administración pública del Estado.
 
-###### ARTÍCULO SEGUNDO.
+###### ARTICULO SEGUNDO.
 
-Se abroga la Ley de Igualdad entre Mujeres y Hombres para el Estado de Tlaxcala, publicada mediante decreto número 120, en el Periódico Oficial del Gobierno del Estado de Tlaxcala, con fecha 10 de diciembre del año 2012, bajo el Tomo XCI, Segunda Época, No. Extraordinario.
+Las referencias y atribuciones que en otras leyes y reglamentos, con anterioridad a la entrada en vigor de este decreto se entendían conferidas a la Dirección de Prevención y Readaptación Social, a la Dirección Jurídica del Estado y a la Defensoría de Oficio, se entenderán hechas y otorgadas a la Secretaría Jurídica y Prevención Social.
+
+###### ARTICULO TERCERO.
+
+Para efectos administrativos y presupuestales la Secretaría Jurídica y Prevención Social, recibirá a partir de la vigencia del presente decreto las partidas presupuestales, personal, mobiliario, vehículos, instrumentos, maquinaria, aparatos, archivos y, en general, el equipo que las dependencias afectadas hayan utilizado para la atención de los asuntos de su encargo.
+
+###### ARTICULO CUARTO.
+
+El presente decreto entrará en vigor el día primero de enero de 1998, con el Presupuesto de Egresos del Estado del mismo ejercicio fiscal. Publíquese en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 279.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE TLAXCALA”.]
 
@@ -1045,7 +1425,7 @@ Se abroga la Ley de Igualdad entre Mujeres y Hombres para el Estado de Tlaxcala,
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 128.- SE EXPIDE LA LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DEL ESTADO DE TLAXCALA".]
 
-## TÍTULO CUARTO. DE LOS OBJETIVOS Y ACCIONES DE LA POLÍTICA ESTATAL DE IGUALDAD ENTRE MUJERES Y HOMBRES
+## TITULO IV. DE LA SECTORIZACION
 
 ## TÍTULO QUINTO
 
