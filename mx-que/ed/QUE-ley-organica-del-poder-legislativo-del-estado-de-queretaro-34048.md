@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-3404
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-09-19"
-last_updated: "2003-09-19"
+last_updated: "2003-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 19 de septiembre de 2003.
 
@@ -1119,7 +1119,9 @@ TESORERÍA
 
 I. Auxiliar a la Junta de Coordinación Política en la elaboración del presupuesto de ingresos y egresos de la Legislatura;
 
-II. Administrar los recursos financieros autorizados;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+II.- Administrar los recursos financieros, autorizados. De forma conjunta con el Oficial Mayor y en caso de ausencia de éste o el Tesorero, o ambos, el Presidente y Secretario de la Comisión de Vigilancia, por causa justificada, podrán librar los documentos de carácter mercantil que se requieran para el cumplimiento de las obligaciones económicas del Poder Legislativo.
 
 III. Llevar el registro contable de los ingresos y egresos, de acuerdo a los principios de contabilidad gubernamental;
 
@@ -2318,3 +2320,9 @@ DIP. JOSÉ ALFREDO PIÑA GONZÁLEZ
 SEGUNDO SECRETARIO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE NOVIEMBRE DE 2003.
+
+UNICO.- La presente ley entrará en vigor a partir de la fecha de su aprobación y tiene efectos retroactivos a partir del día 27 de septiembre de 2003.
