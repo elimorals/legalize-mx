@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2004-12-30"
+last_updated: "2005-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LOCG"
 
 LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE MARZO DE 2005.
 
-Ley publicada en el Diario Oficial de la Federación el viernes 3 de septiembre de 1999.
+Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Congreso de la Unión.
 
@@ -54,7 +54,9 @@ LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
 ###### ARTICULO 4o.
 
-1. De conformidad con los artículos 65 y 66 de la Constitución, el Congreso se reunirá a partir del primero de septiembre de cada año, para celebrar un primer periodo de sesiones ordinarias; y a partir del quince de marzo de cada año para celebrar un segundo periodo de sesiones ordinarias.
+> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 2005)</small>
+
+1. De conformidad con los artículos 65 y 66 de la Constitución, el Congreso se reunirá a partir del 1o. de septiembre de cada año, para celebrar un primer periodo de sesiones ordinarias y a partir del 1o. de febrero de cada año, para celebrar un segundo periodo de sesiones ordinarias.
 
 2. Cada periodo de sesiones ordinarias durará el tiempo necesario para tratar los asuntos de su competencia. El primer periodo no podrá prolongarse sino hasta el quince de diciembre del mismo año, excepto cuando el Presidente de la República inicie su encargo en la fecha prevista por el artículo 83 constitucional, caso en el cual las sesiones podrán extenderse hasta el treinta y uno de diciembre de ese mismo año. El segundo periodo no podrá prolongarse más allá del treinta de abril del mismo año.
 
@@ -70,7 +72,9 @@ LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
 ###### ARTICULO 6o.
 
-1. El primero de septiembre, a las 17 horas, y el quince de marzo, a las 11 horas, de cada año, el Congreso se reunirá en sesión conjunta en el salón de sesiones de la Cámara de Diputados para inaugurar sus periodos de sesiones ordinarias.
+> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 2005)</small>
+
+1. El 1o. de septiembre, a las 17:00 horas y el 1o. de febrero, a las 11:00 horas, de cada año, el Congreso se reunirá en sesión conjunta en el salón de sesiones de la Cámara de Diputados para inaugurar sus periodos de sesiones ordinarias.
 
 2. Al iniciarse cada periodo de sesiones ordinarias, el Presidente de la Mesa Directiva de la Cámara de Diputados declarará en voz alta: "El Congreso de los Estados Unidos Mexicanos abre hoy (fecha) el primer (o segundo) periodo de sesiones ordinarias del (primer, segundo o tercer) año de ejercicio de la (número ordinal) Legislatura".
 
@@ -1943,3 +1947,7 @@ D.O.F. 30 DE DICIEMBRE DE 2004.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- En tanto cada una de las Cámaras del Congreso expide su propio reglamento, seguirán siendo aplicables, en lo que no se opongan a esta Ley, las disposiciones en vigor del Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos.
+
+D.O.F. 8 DE MARZO DE 2005.
+
+Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
