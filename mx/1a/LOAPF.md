@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "1995-12-19"
+last_updated: "1996-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LOAPF"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 1996 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE MAYO DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -46,19 +48,23 @@ LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
 La presente Ley establece las bases de organización de la Administración Pública Federal, centralizada y paraestatal.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1996)</small>
 
-La Presidencia de la República, las Secretarías de Estado y los Departamentos Administrativos, integran la Administración Pública Centralizada.
+La Presidencia de la República, las Secretarías de Estado, los Departamentos Administrativos y la Consejería Jurídica del Ejecutivo Federal, integran la Administración Pública Centralizada.
 
 Los organismos descentralizados, las empresas de participación estatal, las instituciones nacionales de crédito, las organizaciones auxiliares nacionales de crédito, las instituciones nacionales de seguros y de fianzas y los fideicomisos, componen la administración pública paraestatal.
 
+> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1996)</small>
+
 ###### ARTICULO 2o.
 
-En el ejercicio de sus atribuciones y para el despacho de los negocios del orden administrativo encomendados al Poder Ejecutivo de la Unión, habrá las siguientes dependencias de la administración pública centralizada:
+En el ejercicio de sus atribuciones y para el despacho de los negocios del orden administrativo encomendados al Poder Ejecutivo de la Unión, habrá las siguientes dependencias de la Administración Pública Centralizada:
 
-I.- Secretarías de Estado, y
+I.- Secretarías de Estado;
 
-II.- Departamentos Administrativos.
+II.- Departamentos Administrativos, y
+
+III.- Consejería Jurídica.
 
 ###### ARTICULO 3o.
 
@@ -70,9 +76,15 @@ II.- Empresas de participación estatal, instituciones nacionales de crédito, o
 
 III.- Fideicomisos.
 
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1996)</small>
+
 ###### ARTICULO 4o.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1994)
+La función de consejero jurídico, prevista en el Apartado A del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos, estará a cargo de la Consejería Jurídica del Ejecutivo Federal. Al frente de la Consejería Jurídica habrá un Consejero que dependerá directamente del Presidente de la República, y será nombrado y removido libremente por éste.
+
+Para ser Consejero Jurídico se deben cumplir los mismos requisitos que para ser Procurador General de la República.
+
+A la Consejería Jurídica del Ejecutivo Federal le serán aplicables las disposiciones sobre presupuesto, contabilidad y gasto público federal, así como las demás que rigen a las dependencias del Ejecutivo Federal. En el reglamento interior de la Consejería se determinarán las atribuciones de las unidades administrativas, así como la forma de cubrir las ausencias y delegar facultades.
 
 ###### ARTICULO 5o.
 
@@ -134,7 +146,9 @@ Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por
 
 Al frente de cada Secretaría habrá un Secretario de Estado, quien para el despacho de los asuntos de su competencia, se auxiliará por los Subsecretarios, Oficial Mayor, Directores, Subdirectores, Jefes y Subjefes de Departamento, oficina, sección y mesa, y por los demás funcionarios que establezca el reglamento interior respectivo y otras disposiciones legales.
 
-En los juicios de amparo, el Presidente de la República podrá ser representado por el Titular de la Dependencia a que corresponde el asunto, según la distribución de competencias.
+> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1996)</small>
+
+En los juicios de amparo, el Presidente de la República podrá ser representado por el titular de la dependencia a que corresponde el asunto, según la distribución de competencias. Los recursos administrativos promovidos contra actos de los Secretarios de Estado serán resueltos dentro del ámbito de su Secretaría en los términos de los ordenamientos legales aplicables.
 
 ###### ARTICULO 15.
 
@@ -196,7 +210,9 @@ En casos extraordinarios o cuando exista duda sobre la competencia de alguna Sec
 
 Cuando alguna Secretaría de Estado o Departamento Administrativo necesite informes, datos o la cooperación técnica de cualquier otra dependencia, ésta tendrá la obligación de proporcionarlos, atendiendo en lo correspondiente a las normas que determine la Secretaría de la Contraloría General de la Federación.
 
-### CAPITULO II. De la Competencia de las Secretarías de Estado y los Departamentos Administrativos
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE MAYO DE 1996)</small>
+
+### CAPITULO II. De la competencia de las Secretarías de Estado, Departamentos Administrativos y Consejería Jurídica del Ejecutivo Federal
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -239,6 +255,10 @@ Secretaría de la Reforma Agraria
 Secretaría de Turismo
 
 Departamento del Distrito Federal.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1996)</small>
+
+Consejería Jurídica del Ejecutivo Federal.
 
 ###### ARTICULO 27.
 
@@ -1324,9 +1344,41 @@ XX.- Fijar e imponer, de acuerdo a las leyes y reglamentos, el tipo y monto de l
 
 XXI.- Los demás que le fijen expresamente las leyes y reglamentos.
 
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1996)</small>
+
 ###### ARTICULO 43.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1994)
+A la Consejería Jurídica del Ejecutivo Federal corresponde el despacho de los asuntos siguientes:
+
+I.- Dar apoyo técnico jurídico al Presidente de la República en todos aquellos asuntos que éste le encomiende;
+
+II.- Someter a consideración y, en su caso, firma del Presidente de la República todos los proyectos de iniciativas de leyes y decretos que se presenten al Congreso de la Unión o a una de sus Cámaras, así como a la Asamblea de Representantes del Distrito Federal, y darle opinión sobre dichos proyectos;
+
+III.- Dar opinión al Presidente de la República sobre los proyectos de tratados a celebrar con otros países y organismos internacionales;
+
+IV.- Revisar los proyectos de reglamentos, decretos, acuerdos, nombramientos, resoluciones presidenciales y demás instrumentos de carácter jurídico, a efecto de someterlos a consideración y, en su caso, firma del Presidente de la República;
+
+V.- Prestar asesoría jurídica cuando el Presidente de la República así lo acuerde, en asuntos en que intervengan varias dependencias de la Administración Pública Federal, así como en los previstos en el artículo 29 constitucional;
+
+VI.- Coordinar los programas de normatividad jurídica de la Administración Pública Federal que apruebe el Presidente de la República y procurar la congruencia de los criterios jurídicos de las dependencias y entidades;
+
+VII.- Presidir la Comisión de Estudios Jurídicos del Gobierno Federal, integrada por los responsables de las unidades de asuntos jurídicos de cada dependencia de la Administración Pública Federal, la que tendrá por objeto la coordinación en materia jurídica de las dependencias y entidades de la Administración Pública Federal.
+
+El Consejero Jurídico podrá opinar previamente sobre el nombramiento y, en su caso, solicitar la remoción de los titulares de las unidades encargadas del apoyo jurídico de las dependencias y entidades de la Administración Pública Federal;
+
+VIII.- Participar, junto con las demás dependencias competentes, en la actualización y simplificación del orden normativo jurídico;
+
+IX.- Prestar apoyo y asesoría en materia técnico jurídica a las entidades federativas que lo soliciten, sin perjuicio de la competencia de otras dependencias;
+
+X.- Representar al Presidente de la República, cuando éste así lo acuerde, en las acciones y controversias a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como en los demás juicios en que el titular del Ejecutivo Federal intervenga con cualquier carácter. La representación a que se refiere esta fracción comprende el desahogo de todo tipo de pruebas, y
+
+XI.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1996)</small>
+
+ARTICULO 43 BIS.- Las dependencias de la Administración Pública Federal enviarán a la Consejería Jurídica del Ejecutivo Federal los proyectos de iniciativas de leyes o decretos a ser sometidos al Congreso de la Unión, a una de sus cámaras o a la Asamblea de Representantes del Distrito Federal, por lo menos con un mes de anticipación a la fecha en que se pretendan presentar, salvo en los casos de las iniciativas de ley de ingresos y proyecto de presupuesto de egresos de la Federación, y en aquellos otros de notoria urgencia a juicio del Presidente de la República. Estos últimos serán sometidos al Titular del Poder Ejecutivo Federal por conducto de la Consejería Jurídica.
+
+Las demás dependencias y entidades de la Administración Pública Federal proporcionarán oportunamente a la Consejería Jurídica del Ejecutivo Federal la información y apoyo que requiera para el cumplimiento de sus funciones.
 
 ###### ARTICULO 44.
 
@@ -1609,3 +1661,11 @@ D.O.F. 19 DE DICIEMBRE DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE MAYO DE 1996.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Todos los elementos y recursos adscritos a la Dirección General de Asuntos Jurídicos de la Presidencia de la República, pasarán a la Consejería Jurídica del Ejecutivo Federal. Los derechos de los trabajadores de la citada Dirección General, que presten sus servicios a la Consejería Jurídica, serán respetados en todos sus términos. Los asuntos que estén a cargo de la Dirección General pasarán a la Consejería.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
