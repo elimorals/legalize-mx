@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-asistencia-para-discapacitados-guanajuato-5282"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-24"
-last_updated: "1993-12-24"
+last_updated: "2002-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE ASISTENCIA PARA DISCAPACITADOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LAS PERSONAS CON CAPACIDADES DIFERENTES EN EL ESTADO DE GUANAJUATO, PUBLICADA EN EL PERIODICO OFICIAL EL 16 DE JULIO DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 24 de diciembre de 1993.
 
@@ -328,3 +330,17 @@ ING. JOSE LUIS GONZALEZ URIBE
 (ENCARGADO DEL DESPACHO)
 
 (RUBRICAS)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE JULIO DE 2002.
+
+Artículo Primero.- La presente Ley entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se abroga la Ley de Asistencia para Discapacitados, contenida en el decreto número 249 doscientos cuarenta y nueve, expedido por la Quincuagésima Quinta Legislatura del H. Congreso del Estado, publicado en el Periódico Oficial del Gobierno del Estado número 103 ciento tres, segunda parte, de fecha 24 de diciembre de 1993 mil novecientos noventa y tres.
+
+Artículo Tercero.- El Gobernador del Estado contará con un plazo de 60 días contado a partir de la entrada en vigor del presente Decreto, para constituir el Consejo Estatal para la Atención de las Personas con Capacidades Diferentes.
+
+Artículo Cuarto.- El Consejo Estatal para la Atención de las Personas con Capacidades Diferentes deberá proponer al Gobernador del Estado, el Programa Estatal para la Equiparación de Oportunidades y Atención de las Personas con Capacidades Diferentes, así como expedir su reglamento interior dentro de los sesenta días siguientes a su constitución.
+
+Artículo Quinto.- Los Ayuntamientos contarán con un plazo de 180 días contado a partir de la entrada en vigor del presente Decreto, para adecuar su normatividad, políticas públicas, estrategias, acciones y objetivos, al contenido de la Ley.
