@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1998-03-12"
+last_updated: "1998-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 1998.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -493,6 +493,20 @@ Si el Congreso aceptare las reformas propuestas por el Ejecutivo en sus observac
 
 El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Congreso cuando éste dicte sus normas internas de funcionamiento, acuerde la prórroga de sus sesiones, ejerza funciones de Colegio Electoral o de Jurado, o cuando declare que deba acusarse a uno de los funcionarios del Estado por delitos oficiales.
 
+Tampoco podrá hacerlas al Decreto de Convocatoria a sesiones extraordinarias que expida la Comisión Permanente.(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)
+
+###### ARTICULO 28.
+
+Todo proyecto de Ley o Decreto que fuere desechado por el Congreso, no podrá volver a presentarse en el mismo periodo de sesiones.
+
+Los proyectos de Leyes o Decretos votados por el Congreso se remitirán al Ejecutivo, quien, si no tuviere observaciones que hacer, los publicara inmediatamente.
+
+Se reputara aprobado por el Ejecutivo todo proyecto no devuelto con observaciones dentro de los diez días hábiles siguientes; con la salvedad de que si transcurrido este termino, el Congreso hubiere concluido o suspendido sus sesiones, la devolucion debera hacerse en el proximo periodo de sesiones, dentro de los dias que falten para completar el plazo señalado.
+
+Si el Congreso aceptare las reformas propuestas por el Ejecutivo en sus observaciones, lo comunicara a este, quien promulgara la Ley o Decreto. En caso contrario el proyecto se reservara para el siguiente periodo de sesiones para su resolución definitiva, si fuera aprobado por los dos tercios de los votos de los presentes, el proyecto será Ley o Decreto y volverá al Ejecutivo para su promulgación y publicación.
+
+El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Congreso cuando este dicte sus normas internas de funcionamiento, acuerde la prorroga de sus sesiones, ejerza funciones de Colegio Electoral o de Jurado, o cuando declare que deba acusarse a uno de los funcionarios del Estado por delitos oficiales.
+
 Tampoco podrá hacerlas al Decreto de Convocatoria a sesiones extraordinarias que expida la Comisión Permanente.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
@@ -787,7 +801,9 @@ III.- Solicitar la protección de los Poderes de la Unión en caso de sublevaci�
 
 IV.- Cuidar que los fondos públicos en todo caso estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a la Ley;
 
-V.- Otorgar a los particulares, mediante concesión la explotación de bienes propiedad del Estado, o la prestación de servicios públicos cuando así proceda con arreglo a la Legislación aplicable;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1998)</small>
+
+V.- Otorgar a los particulares, mediante concesión la explotación de bienes propiedad del Estado, o la prestación de servicios públicos cuando así proceda con arreglo a la legislación aplicable, pudiendo delegar la presente facultad en cualquier dependencia o entidad de la administración pública estatal, que a su juicio considere pertinente;
 
 VI.- Fomentar por todos los medios posibles la educación popular y procurar el adelanto y mejoramiento social y proveer, ejecutar o convenir la realización de toda clase de mejoras morales y materiales en beneficio o en interés de la colectividad;
 
@@ -2198,6 +2214,12 @@ P.O. 10 DE OCTUBRE DE 1997.
 El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 P.O. 12 DE MARZO DE 1998.
+
+###### ARTICULO UNICO.
+
+Las reformas a la Constitución Política del Estado, previstas en el Artículo único del presente decreto, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE JUNIO DE 1998.
 
 ###### ARTICULO UNICO.
 
