@@ -4,7 +4,7 @@ identifier: "FED-ley-de-reclamaciones-por-danos-provenientes-de-la-revolucion-73
 country: "mx"
 rank: "ley"
 publication_date: "1919-09-11"
-last_updated: "1927-03-24"
+last_updated: "1927-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=739&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,19 +19,19 @@ issue_date: "1919-08-30"
 ---
 # LEY DE RECLAMACIONES POR DAÑOS PROVENIENTES DE LA REVOLUCION
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MARZO DE 1927 EN EL D.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE RECLAMACIONES POR DAÑOS PROVENIENTES DE LA REVOLUCIÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE MARZO DE 1927.
 
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 26 DE MARZO DE 1927 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 24 DE MARZO DE 1927.]</small>
+
 Ley publicada en el Número 10 del Diario Oficial, el jueves 11 de septiembre de 1919.
 
-Al margen un sello que dice: "Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
+Al margen un sello que dice: “Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
 El C. Presidente Constitucional de los Estados Unidos Mexicanos, se ha servido dirigirme el siguiente decreto:
 
-"VENUSTIANO CARRANZA, PRESIDENTE CONSTITUCIONAL DE LOS ESTADOS UNIDOS MEXICANOS, a sus habitantes, sabed:
+“VENUSTIANO CARRANZA, PRESIDENTE CONSTITUCIONAL DE LOS ESTADOS UNIDOS MEXICANOS, a sus habitantes, sabed:
 
 Que en uso de las facultades extraordinarias que en el Ramo de Hacienda me fueron conferidas por el H. Congreso de la Unión, por Ley de 8 de mayo de 1917; y
 
@@ -215,6 +215,6 @@ SEGUNDO.- Quedan derogadas todas las disposiciones que se opongan a la presente 
 
 D.O. 24 DE MARZO DE 1927.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO POR EL CUAL SE REFORMA EL ARTÍCULO 2o. DE LA LEY DE RECLAMACIONES POR DAÑOS PROVENIENTES DE LA REVOLUCIÓN, DE 30 DE NOVIEMBRE DE 1919, RELATIVO A LA FORMACIÓN DE LA COMISIÓN DE RECLAMACIONES".]
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL CUAL SE REFORMA EL ARTÍCULO 2o. DE LA LEY DE RECLAMACIONES POR DAÑOS PROVENIENTES DE LA REVOLUCIÓN, DE 30 DE AGOSTO DE 1919, RELATIVO A LA FORMACIÓN DE LA COMISIÓN DE RECLAMACIONES".]
 
 Este Decreto comenzará a surtir sus efectos a partir del día 21 de marzo del presente año.
