@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2002-11-23"
+last_updated: "2003-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2003.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -681,11 +681,11 @@ XII.- Realizar y promover estudios e investigaciones sobre ahorro y uso eficient
 
 XIII.- Las demás que le atribuyan expresamente las Leyes y sus Reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2003)</small>
 
 ###### ARTICULO 31.
 
-A la Secretaría de Desarrollo Urbano y Ecología corresponde al despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Urbano y Ecología corresponde el despacho de los siguientes asuntos:
 
 I.- Elaborar y mantener actualizado el Plan Estatal para el Desarrollo Urbano;
 
@@ -703,29 +703,15 @@ VII.- Regularizar los asentamientos humanos y urbanizar los que sean susceptible
 
 VIII.- Estudiar y aprobar en su caso, los expedientes relativos al denuncio y enajenación de terrenos municipales y proyectar la dotación de fundos legales a las poblaciones del Estado;
 
-> <small>(ADICIONADA, P.O. 8 DE ENERO DE 1992)</small>
-
 IX.- Proponer al titular del Ejecutivo la política que rija al Estado en materia ecológica, lo que deberá hacer atendiendo los principios normadores relativos a la protección del ambiente;
-
-> <small>(ADICIONADA, P.O. 8 DE ENERO DE 1992)</small>
 
 X.- Ejecutar la política ecológica aprobada, tendiendo siempre a la protección del agua, suelo y atmósfera de acuerdo a la delimitación legal de competencia, respetando los medios para ello previstos;
 
-> <small>(ADICIONADA, P.O. 8 DE ENERO DE 1992)</small>
-
 XI.- Proponer la celebración de acuerdos de coordinación con la Federación, Entidades Federativas o Municipios, y concertar acciones con los diversos sectores sociales en las materias de la Ley Ecológica para el Estado de Chihuahua;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+XII.- Dirigir y vigilar el cumplimiento de las Leyes y sus Reglamentos con relación a las funciones de desarrollo urbano y ecología, así como vigilar la organización y funcionamiento de las direcciones que ejerzan las atribuciones anteriores; y
 
-XII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de desarrollo urbano, catastro y ecología, así como vigilar la organización y funcionamiento de las direcciones que ejerzan las atribuciones anteriores;
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-XIII.- Integrar y mantener actualizado con la información que proporcionen los municipios, el catastro estatal, la información geográfica, la cartografía básica, y en general, ejercer las atribuciones que al gobierno del Estado correspondan de conformidad con la Ley de Catastro, y
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-XIV.- Los demás que le atribuyan expresamente las leyes y sus reglamentos.
+XIII.- Los demás que le atribuyan expresamente las leyes y sus reglamentos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -783,9 +769,17 @@ III.- Proponer al Ejecutivo la celebración de convenios de coordinación con lo
 
 IV.- Gestionar el apoyo a los Ayuntamientos en las acciones tendientes al logro de su desarrollo administrativo, para fortalecer sus sistemas de planeación, programación, control y evaluación, así como los procedimientos operativos para optimizar la prestación de los servicios públicos municipales;
 
-V.- Promover el desarrollo equilibrado de los municipios conurbados, impulsando la organización regional, de acuerdo con la vocación económica de cada zona; y
+V.- Promover el desarrollo equilibrado de los municipios conurbados, impulsando la organización regional, de acuerdo con la vocación económica de cada zona; y (sic)
 
-VI.- Los demás que le atribuyan expresamente las leyes y sus reglamentos.
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2003)</small>
+
+VI.- En apoyo al fortalecimiento técnico, financiero y fiscal de los municipios, observar el cumplimiento de las leyes y sus reglamentos con relación a las funciones del catastro, así como vigilar la organización y el funcionamiento de la Dirección que ejerza estas atribuciones;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2003)</small>
+
+VII.- Integrar y mantener actualizado el catastro estatal, con los datos que proporcionen los municipios y aquellos que obtenga el propio Estado, tales como la información geográfica y la cartografía básica, y en general, ejercer las atribuciones que al Gobierno del Estado correspondan de conformidad con la Ley de Catastro, y
+
+VIII.- Los demás que le atribuyan expresamente las leyes y sus reglamentos.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1176,3 +1170,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE JULIO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para dar cumplimiento al presente Decreto se autoriza al Ejecutivo del Estado a llevar a cabo las transferencias de partidas presupuestales necesarias.
