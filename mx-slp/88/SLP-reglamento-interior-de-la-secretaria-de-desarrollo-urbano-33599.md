@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-secretaria-de-desarrollo-urbano-33599
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-05"
-last_updated: "2003-08-05"
+last_updated: "2004-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO, COMUNICACIONES Y OBRAS PUBLICAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO, VIVIENDA Y OBRAS PUBLICAS, PUBLICADO EN EL P.O. DE 8 DE ABRIL DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 5 de agosto de 2003.
 
@@ -798,3 +800,19 @@ EL SECRETARIO DE DESARROLLO URBANO, COMUNICACIONES Y OBRAS PUBLICAS.
 ARQ. JOSE JESÚS CASTILLO DUQUE.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE ABRIL DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se Abroga el Reglamento Interior de la Secretaria de Desarrollo Urbano, Comunicaciones y Obras Públicas, publicado en la edición extraordinaria del Periódico Oficial del Estado, de fecha 05 de agosto de 2003.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se expiden los manuales que este Reglamento menciona, el Secretario de Desarrollo Urbano, Vivienda y Obras Públicas queda facultado para resolver las cuestiones que conforme a dichos manuales se deban regular.
