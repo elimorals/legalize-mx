@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1994-10-20"
+last_updated: "1995-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1995.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -121,11 +121,23 @@ Toda resolución de autoridad administrativa será de acuerdo a la letra de la L
 
 El patrimonio familiar es inalienable. En ningún caso podrá menoscabarse y no será objeto de embargo, ni de gravamen alguno.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 9.
 
-Ningún juicio podrá tener más de tres instancias.
+Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento.
+
+No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia, acusación o querella de un hecho determinado que la ley señale como delito, sancionando cuando menos con pena privativa de libertad y existen datos que acrediten los elementos que integran el tipo penal y la probable responsabilidad del indiciado.
+
+La Autoridad que ejecute una orden judicial de aprehensión deberá poner al inculpado a disposición del juez, sin dilación alguna y bajo su mas estricta responsabilidad. La contravención a lo anterior será sancionado por la ley penal.
+
+En los casos de delito flagrante, cualquier persona puede detener al indiciado poniéndolo sin demora a disposición de la autoridad inmediata y esta, con la misma prontitud a la del ministerio público.
+
+Sólo en casos urgentes, cuando se trate de delito grave así calificado por la ley y ante el riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público, podrá bajo su responsabilidad, ordenar su detención, fundando y expresando los indicios que motiven su proceder.
+
+En casos de urgencia o flagrancia, el juez que reciba la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de ley.
+
+Ningún indiciado podrá ser retenido por el Ministerio Público por mas de cuarenta y ocho horas, plazo en que deberá ordenar su libertad o ponérsele a disposición de la autoridad judicial; este plazo podrá duplicarse en aquellos casos que la Ley prevea como delincuencia organizada. Todo abuso a lo anteriormente dispuesto será sancionado por la ley penal. En toda orden de cateo, que solo la autoridad judicial podrá expedir y que será escrita, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se buscan, a lo que únicamente debe limitarse la diligencia, levantándose al concluirla un acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o en su ausencia o negativa, por la autoridad que practique la diligencia. La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y exigir la exhibición de los libros y papeles indispensables para comprobar que se han acatado las disposiciones fiscales, sujetándose en estos casos a las leyes respectivas y a las formalidades prescritas para los cateos. Ningún juicio podrá tener más de tres instancias.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -639,11 +651,11 @@ Ninguna iniciativa que sea desechada por el Congreso podrá ser presentada de nu
 
 SECCION D.- DE LAS FACULTADES DEL CONGRESO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 55.
 
-El Congreso tiene facultades para legislar en todo aquello que no esté expresamente establecido como atribución del Congreso de la Unión o de alguna de sus Cámaras y además para:
+El Congreso tiene facultades para legislar en todo aquello que no esté expresamente establecido como atribución del Congreso de la Unión o alguna de sus Cámaras y además para:
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 1988)</small>
 
@@ -781,6 +793,10 @@ a).- Procederá la suspensión de Ayuntamientos, en forma definitiva, con la con
 
 En caso de declararse desaparecido un Ayuntamiento en los dos primeros años del período, si conforme a la Ley no procediere que entraren en funciones los suplentes, el Congreso de inmediato nombrará un Consejo Municipal, a la vez que convocará a elecciones extraordinarias, que deberán celebrarse a más tardar a los noventa días después de haberse publicado la convocatoria. Cuando la declaración de desaparición de un Ayuntamiento ocurriere en el último año del período y que conforme a la Ley tampoco procediere que entraren en funciones los suplentes, el Congreso de inmediato designará de entre los vecinos un Consejo Municipal que concluirá el período respectivo.
 
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1995)</small>
+
+Así mismo, cuando debiendo renovarse un Ayuntamiento no se hubiese celebrado su elección en la fecha correspondiente o habiendo sido elegido no se presentare oportunamente la mayoría de sus miembros, tanto propietarios como suplentes, al ejercicio de sus funciones o cuando la elección haya sido declarada nula, el Congreso de inmediato procederá a nombrar el Consejo Municipal respectivo, en los términos especificados en el párrafo anterior.
+
 b).- Procederá la suspensión temporal de uno de los miembros del Ayuntamiento, cuando el munícipe de que se trate se le dicte auto de formal prisión, por la Comisión de delito doloso, la suspensión temporal permanecerá hasta que lo determine la sentencia definitiva correspondiente y que haya causado ejecutoria.
 
 c).- Procederá la suspensión definitiva de alguno de los miembros del Ayuntamiento, cuando el munícipe de que se trate se encuentre en cualquiera de los casos siguientes: Cuando se le haya dictado sentencia condenatoria y que ésta haya causado ejecutoria; y cuando deje de asistir consecutivamente a tres sesiones de cabildo, sin causa justificada, la suspensión definitiva del munícipe dará lugar a la revocación del mandato respectivo.
@@ -879,9 +895,9 @@ c).- El Gobernador interino cuando haya desempeñado el cargo en los dos último
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCON A.- DE SU ORGANIZACION
+SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1994)</small>
 
 ###### ARTICULO 60.
 
@@ -969,7 +985,7 @@ En el caso de que el Gobernador Interino no pueda ser designado por la nueva Leg
 
 Si fuere necesario convocar a elecciones y éstas no se pudieren verificar por trastornos graves del orden público en la mayor parte del Estado, el Congreso designará Gobernador Interino, pero si el orden público quedare restablecido antes de un año, el Congreso convocará a elecciones, de lo contrario designará al Gobernador Substituto que deba terminar el período constitucional, no pudiendo ser quien haya fungido como Interino.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ### CAPITULO UNICO. PREVENCIONES GENERALES
 
@@ -983,9 +999,7 @@ Si fuere necesario convocar a elecciones y éstas no se pudieren verificar por t
 
 Cuando el Gobernador se ausente del Estado por un término que exceda de siete días, pero no mayor de quince, debe dar aviso al Congreso o a la Comisión Permanente.
 
-Para que el Gobernador se pueda ausentar del Estado por más de quince días, se requiere autorización del Congreso o de la Comisión Permanente.
-
-Para que el Gobernador pueda salir del territorio de la República necesita autorización del Congreso o de la Comisión Permanente.
+Para que el Gobernador se pueda ausentar del Estado por mas de quince días, se requiere autorización del Congreso o de la Comisión Permanente.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1103,13 +1117,13 @@ XXXI.- Las demás que expresamente le confiere esta Constitución y las Leyes re
 
 SECCION D.- DE LAS SECRETARIAS DEL DESPACHO DEL EJECUTIVO
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 71.
 
-Para el auxilio en el despacho de asuntos, competencia del Poder Ejecutivo, sin que sea limitativo, habrá las siguientes Secretarías: General de Gobierno; Finanzas; Administración; Comunicaciones y Obras Públicas; Desarrollo Industrial y Comercial; Desarrollo Social; Desarrollo Rural; Salud; Educación; Cultura y Deportes; Contraloría así como una Procuraduría General de Justicia; además de las Subsecretarías que determine la Ley Orgánica de la Administración Pública del Estado.
+Para el auxilio en el despacho de asuntos, competencia del Poder Ejecutivo, sin que sea limitativo, habrá las siguientes Secretarías: General de Gobierno; Finanzas y de Administración; Comunicaciones y Obras Públicas; Desarrollo Industrial y Comercial; Desarrollo Rural; Salud; Educación, Cultura y Deporte; Contraloría; Así como una Procuraduría General de Justicia; además de las Secretarías que determine la Ley Orgánica de la Administración Pública del Estado.
 
-Las facultades de los funcionarios a que se refiere este artículo, excepto las del Secretario General de Gobierno, que se determinan en el Artículo 73 de esta constitución, se fijarán en la Ley Orgánica de la Administración Pública del Estado.
+Las facultades de los Funcionarios a que se refiere este artículo, excepto las del Secretario General de Gobierno, que se determinan en el Artículo 73 de esta Constitución; se fijarán en la Ley Orgánica de la Administración Pública del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1987)</small>
 
@@ -1369,10 +1383,6 @@ La competencia del Supremo Tribunal de Justicia, el funcionamiento del Pleno, de
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
-
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1994)</small>
-
 ###### ARTICULO 92.
 
 El Supremo Tribunal de Justicia del Estado se integra por ocho Magistrados Numerarios y ocho Magistrados Súper Numerarios (sic); éstos últimos suplirán a aquellos en sus faltas temporales y también temporalmente en sus faltas definitivas, a cuyo efecto, serán llamados en el orden numérico en que hubieren sido electos.
@@ -1389,25 +1399,23 @@ Si el Congreso desaprueba el nombramiento, cesará desde luego en sus funciones 
 
 La renuncia de los Magistrados se presentará ante el Titular del Ejecutivo, el que de encontrarla procedente la turnará con su opinión al Congreso para su aceptación definitiva. En este caso, se observará el procedimiento señalado para los efectos de la nueva designación.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 94.
 
 Para ser Magistrado se requiere:
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1987)</small>
+I.- Ser ciudadano duranguense por nacimiento, en pleno ejercicio de sus derechos; o ciudadano duranguense, en pleno ejercicio de sus derechos con residencia efectiva del territorio del Estado que no sea menor de diez años inmediatamente anteriores al día de la ratificación de su nombramiento por el Congreso del Estado. Si es nativo del Estado, tener cuando menos seis años de residencia efectiva dentro del territorio del Estado inmediatamente anteriores al día de la ratificación de su nombramiento por el Congreso del Estado;
 
-I.- Ser Ciudadano Duranguense por nacimiento, en pleno ejercicio de sus derechos; o ciudadano duranguense, en pleno ejercicio de sus derechos con residencia efectiva dentro del territorio del Estado que no sea menor de diez años inmediatamente anteriores al día de la ratificación de su nombramiento por el Congreso del Estado. Si es nativo del Estado, tener cuando menos seis años de residencia efectiva dentro del territorio del Estado inmediatamente anteriores al día de la ratificación de su nombramiento por el Congreso del Estado;
+II.- Tener cuando menos treinta y cinco años cumplidos el día de la designación.
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1993)</small>
+III.- Poseer el día de la designación, con antigüedad mínima de diez años, título profesional de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello;
 
-II.- No tener más de 65 años de edad, y menos de 35, el día de su nombramiento;
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-III.- (DEROGADA, P.O. 27 DE JUNIO DE 1993)
+V.- No haber sido Senador, Diputado Federal, Diputado Local, Presidente Municipal, Sindico o Regidor de algún Ayuntamiento, durante el año previo al de su nombramiento.
 
-IV.- Poseer el día de la elección, con antigüedad mínima de cinco años, título profesional de Licenciado en Derecho; y
-
-V.- Ser de reconocida probidad y no haber sido condenado a más de un año de prisión, excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, cualquiera que hubiere sido la pena impuesta.
+Los nombramientos de los Magistrados deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
 
 > <small>(REFORMADO, P.O. 1 DE MAYO DE 1988)</small>
 
@@ -1456,6 +1464,10 @@ XI.- Las demás que le confieren esta Constitución y las leyes;
 XII.- (DEROGADA, P.O. 24 DE ABRIL DE 1988)
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+SECCON A.- DE SU ORGANIZACION
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 98.
 
@@ -2270,3 +2282,13 @@ La aplicación del 1.5% de la votación emitida, a que se refiere el párrafo cu
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan a las reformas establecidas en el presente Decreto.
+
+P.O. 2 DE ABRIL DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los tres días siguientes al de su publicación en el periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las Secretarías que se fusionarán en los términos del presente Decreto, seguirán funcionando separadamente hasta en tanto se lleven a efecto las correspondientes reformas a la Ley Orgánica de la Administración Pública del Estado.
