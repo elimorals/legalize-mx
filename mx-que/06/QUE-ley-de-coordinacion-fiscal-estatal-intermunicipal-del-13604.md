@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-coordinacion-fiscal-estatal-intermunicipal-del-13604"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-31"
-last_updated: "1996-12-31"
+last_updated: "1998-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE COODINACION FISCAL ESTATAL-INTERMUNICIPAL DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de diciembre de 1996.
 
@@ -73,9 +73,15 @@ III.- El 10% de acuerdo a la relación porcentual que represente la superficie t
 
 IV.- El 20% de acuerdo a la relación porcentual que represente la zona para los 18 Municipios, mediante un reparto directo simple a través del cual cada Municipio participará en éste con el número de la zona a la que pertenece, de acuerdo a lo que establece esta Ley en su artículo 10 (RZM).
 
-Para determinar el porcentaje que a cada Municipio corresponde, se aplicará la fórmula siguiente:
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1998)</small>
+
+Para determinar el porcentaje que a cada municipio corresponde, por concepto del 20% del total de las participaciones que por ingresos federales reciba el Estado, se aplicará la fórmula siguiente:
 
 (RPM) (0.4) + (RIM) (0.3) + (RMS) (0.1) + (RZM) (0.2) = Porcentaje por Municipio.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 1998)</small>
+
+Cuando la Legislatura determine un porcentaje mayor al 20% del total de las participaciones federales, el excedente será repartido como lo acuerde la Legislatura en la Ley que fija las Bases, Montos y Plazos conforme a los cuales se distribuirán las Participaciones Federales de cada año.
 
 ###### ARTICULO 5.
 
@@ -319,7 +325,61 @@ Se derogan todas las disposiciones que se opongan a lo dispuesto en la presente 
 
 ###### ARTICULO CUARTO.
 
-Con el objeto de atenuar los efectos de la actualización de las bases de TRANSITORIOS:
+Con el objeto de atenuar los efectos de la actualización de las bases de distribución de participaciones federales correspondientes a los Municipios a que se refiere el artículo 4 de esta Ley, se establece un periodo de transición de 4 años para aplicar la diferencia en forma lineal en los términos siguientes:
+
+AÑO FORMULA A APLICAR
+
+1997 F+((Fa-F) (0.20))
+
+1998 F+((Fa-F) (0.40))
+
+1999 F+((Fa-F) (0.60))
+
+2000 F+((Fa-F) (0.80))
+
+Los elementos de la fórmula se entenderán como:
+
+F= FACTOR PONDERADO DEL REPARTO DE PARTICIPACIONES CORRESPONDIENTE A 1996.
+
+MUNICIPIO FACTOR
+
+AMEALCO DE BONFIL 3.23
+
+ARROYO SECO 2.73
+
+CADEREYTA DE MONTES 4.33
+
+COLON 3.34
+
+CORREGIDORA 4.08
+
+EL MARQUES 4.04
+
+EZEQUIEL MONTES 3.71
+
+HUIMILPAN 2.64
+
+JALPAN DE SERRA 3.74
+
+LANDA DE MATAMOROS 2.84
+
+PEDRO ESCOBEDO 3.19
+
+PEÑAMILLER 2.65
+
+PINAL DE AMOLES 2.95
+
+QUERETARO 38.66
+
+SAN JOAQUIN 2.52
+
+SAN JUAN DEL RIO 8.84
+
+TEQUISQUIAPAN 3.69
+
+TOLIMAN 2.82
+
+Fa = FACTOR DETERMINADO PARA CADA AÑO SEGÚN LO ESTABLECIDO EN EL ARTICULO 4 DE ESTA LEY.
 
 ###### ARTICULO QUINTO.
 
@@ -365,13 +425,17 @@ LIC. ALEJANDRO ESPINOSA MEDINA.
 
 SECRETARIO DE GOBIERNO.
 
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE DICIEMBRE DE 1998.
+
 ###### ARTICULO PRIMERO.
 
-La presente Ley entrará en vigor el día 1o. de enero de 1997.
+La presente Ley entrará en vigor el día 1º. de enero de 1999.
 
 ###### ARTICULO SEGUNDO.
 
-Queda abrogada la Ley de Coordinación Fiscal Estatal-Intermunicipal del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga" el 30 de octubre de 1980.
+Se derogan todas las disposiciones legales que se opongan a la presente Ley.
 
 ###### ARTICULO TERCERO.
 
