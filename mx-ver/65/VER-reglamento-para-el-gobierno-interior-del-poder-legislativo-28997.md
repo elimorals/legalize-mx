@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2003-11-21"
+last_updated: "2004-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE OCTUBRE DE 2004.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -343,9 +343,11 @@ IV. Las demás que establezcan la Constitución, la Ley, sus reglamentos y las d
 
 #### SECCIÓN SEGUNDA. De la Mesa Directiva
 
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 25.
 
-El día anterior a que concluya el año legislativo, el Congreso se reunirá a partir de las once horas en sesión extraordinaria, para elegir a los integrantes de la Directiva del siguiente año legislativo.
+El día que concluya el año legislativo, excepto aquel en que finalice en sus funciones, el Congreso se reunirá a partir de las once horas en sesión extraordinaria, para elegir a los integrantes de la Directiva del siguiente año legislativo.
 
 ###### Artículo 26.
 
@@ -679,9 +681,11 @@ Los diputados integrantes de la Permanente podrán disfrutar de licencia por el 
 
 ### CAPÍTULO I. De las Resoluciones
 
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 75.
 
-Las resoluciones del Congreso tendrán el carácter de Ley, decreto, acuerdo, reforma constitucional o iniciativa ante el Congreso de la Unión.
+Las resoluciones del Congreso tendrán el carácter de ley, decreto, acuerdo o iniciativa ante el Congreso de la Unión.
 
 ###### Artículo 76.
 
@@ -1450,3 +1454,11 @@ OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
 G.O. 21 DE NOVIEMBRE DE 2003.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 25 DE OCTUBRE DE 2004.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Publíquese en la Gaceta Oficial, órgano del gobierno del estado.
