@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1987-09-03"
+last_updated: "1987-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 1987.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -823,7 +823,7 @@ c).- El Gobernador interino cuando haya desempeñado el cargo en los dos último
 
 SECCON A.- DE SU ORGANIZACION
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1987)</small>
 
 ###### ARTICULO 60.
 
@@ -903,7 +903,7 @@ Si fuere necesario convocar a elecciones y éstas no se pudieren verificar por t
 
 #### SECCION C.- DE LOS JUECES
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1987)</small>
 
 ###### ARTICULO 66.
 
@@ -1243,27 +1243,27 @@ El Ejecutivo del Estado nombrará y removerá libremente a los Defensores de Ofi
 
 Para ocupar los cargos a que se refiere el Artículo anterior, se deben satisfacer los requisitos que establecen las leyes reglamentarias respectivas.
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 90.
 
-El Poder Judicial del Estado se deposita para su ejercicio en:
+El Poder Judicial del Estado, se deposita para su ejercicio en:
 
-1o.- El Supremo Tribunal de Justicia del Estado;
+1o.- El Sumpremo (sic) Tribunal de Justicia del Estado;
 
-2o.- Los Juzgados de Primera Instancia;
+2o.- Los Juzgados Civiles;
 
-3o.- Los Juzgados Menores;
+3o.- Los Juzgados Familiares;
 
-4o.- Los Juzgados Municipales;
+4o.- Los Juzgados Penales;
 
-5o.- Los Juzgados Auxiliares; y
+5o.- Los Juzgados de Primera Instancia con Jurisdicción Mixta;
 
-6o.- Los funcionarios y auxiliares de la administración de Justicia en los términos que establezca la Ley.
+6o.- Los Juzgados Auxiliares;
+
+7o.- Los Juzgados Municipales; y
+
+8o.- Los Funcionarios y Auxiliares de la Administración de Justicia en los términos que establezca la Ley.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
@@ -1272,6 +1272,10 @@ El Poder Judicial del Estado se deposita para su ejercicio en:
 La competencia del Supremo Tribunal de Justicia, el funcionamiento del Pleno y de las Salas, las atribuciones de los Magistrados, el número y competencia de los Jueces, la división del Estado en Distritos Judiciales, las responsabilidades en que incurren aquellos, así como los demás funcionarios y empleados del Poder Judicial, se regirán por lo que dispone esta Constitución y las Leyes relativas.
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
 ###### ARTICULO 92.
 
@@ -1295,7 +1299,9 @@ La renuncia de los Magistrados se presentará ante el Titular del Ejecutivo, el 
 
 Para ser Magistrado se requiere:
 
-I.- Ser ciudadano duranguense por nacimiento, en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1987)</small>
+
+I.- Ser Ciudadano Duranguense por nacimiento, en pleno ejercicio de sus derechos; o ciudadano duranguense, en pleno ejercicio de sus derechos con residencia efectiva dentro del territorio del Estado que no sea menor de diez años inmediatamente anteriores al día de la ratificación de su nombramiento por el Congreso del Estado. Si es nativo del Estado, tener cuando menos seis años de residencia efectiva dentro del territorio del Estado inmediatamente anteriores al día de la ratificación de su nombramiento por el Congreso del Estado;
 
 II.- Ser mayor de 30 años de edad;
 
@@ -1359,37 +1365,45 @@ XII.- Conocer del recurso de reclamación contra las resoluciones del Colegio El
 
 La Ley fijará los requisitos de procedimiento y el trámite a que se sujetará este recurso.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 98.
 
-Los Jueces de Primera Instancia, Menores, Auxiliares y Municipales serán nombrados por el Supremo Tribunal de Justicia. Estos últimos lo serán a propuesta en terna del Juez de Primera Instancia del Distrito Judicial respectivo.
+Los jueces civiles, familiares, penales de primera instancia con jurisdicción mixta y auxiliares, serán nombrados por el Supremo Tribunal de Justicia. Los Jueces Municipales también serán designados por el Supremo Tribunal de Justicia a propuesta en terna del juez de primera instancia del Distrito Judicial respectivo.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 1987)</small>
 
 ###### ARTICULO 99.
 
-Para ser Juez de Primera Instancia o Menor se requiere:
+Para ser Juez Civil, familiar, penal, de primera instancia con jurisdicción mixta y auxiliar, se requiere:
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 I.- Ser ciudadano duranguense en pleno ejercicio de sus derechos;
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 II.- Ser mayor de 25 años y tener una residencia efectiva en el Estado de cuando menos dos años inmediatamente anteriores a la fecha del nombramiento;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 III.- Poseer para la fecha del nombramiento, con antigüedad mínima de tres años, título de Licenciado en Derecho; y
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 IV.- Ser de reconocida probidad y no haber sido condenado a más de un año de prisión, excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, cualquiera que hubiere sido la pena impuesta.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1987)</small>
 
 ###### ARTICULO 100.
 
-Para ser Juez Auxiliar o Municipal deben satisfacerse los requisitos del Articulo anterior, excepto el que se refiere al título profesional, pero los nombrados deberán tener conocimientos generales de Derecho, a juicio del Supremo Tribunal de Justicia.
+Para ser juez municipal deben satisfacerse los requisitos del Artículo anterior, excepto el que se refiere al título profesional, pero los nombrados deberán tener conocimientos generales de derecho, a juicio del Supremo Tribunal de Justicia.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1987)</small>
 
 ###### ARTICULO 101.
 
-Los Jueces de Primera Instancia, Menores, Municipales y Auxiliares durarán en su encargo tres años y conocerán de los asuntos que las leyes les fijen.
+Los jueces civiles, familiares, penales, de primera instancia con jurisdicción mixta, auxiliares y municipales, durarán en su encargo tres años y conocerán de los asuntos que las leyes les fijen.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -2022,3 +2036,7 @@ P.O. 3 DE SEPTIEMBRE DE 1987.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 1987.
+
+UNICO.- El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
