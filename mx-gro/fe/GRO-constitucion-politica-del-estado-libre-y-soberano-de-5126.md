@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1989-12-12"
+last_updated: "1990-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 1990.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -1109,6 +1109,10 @@ XXVII.- Con arreglo a las Leyes reducir las penas privativas de libertad impuest
 
 XXVIII.- Proporcionar al Poder Judicial y en general a los órganos que administran justicia, los auxilios que le soliciten para el cumplimiento cabal de sus funciones. El Ejecutivo del Estado cuidará que el presupuesto asignado anualmente a la administración de justicia, procuración de justicia, seguridad pública, y tránsito, justicia administrativa y readaptación social, en ningún caso sea menor al 10% del total del presupuesto de egresos autorizado para el ejercicio correspondiente a las Dependencias del Gobierno del Estado.
 
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 1990)</small>
+
+Ejercitar ante el Pleno del Tribunal Superior de Justicia la facultad de excitativa de justicia cuando el interés social o público lo exija.
+
 XXIX.- Solicitar del Congreso o de la Comisión Permanente en su caso, la destitución por mala conducta de los Magistrados del Tribunal Superior de Justicia, teniendo en cuenta lo que establece el artículo 112 de esta Constitución.
 
 XXX.- Nombrar a los representantes que le conciernen en las Juntas Locales de Conciliación y Arbitraje.
@@ -1189,21 +1193,27 @@ Ese funcionario velará, en particular por la protección de los indígenas y ca
 
 Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y en los demás Tribunales inferiores que establece la Constitución para administrar justicia en nombre del Estado en todos los negocios de su competencia y con arreglo a las Leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 82.
 
-El Tribunal Superior de Justicia se integrará con diez Magistrados Numerarios y cinco Supernumerarios, quienes durarán en su cargo seis años, pudiendo ser reelectos; pero si lo fueren, sólo podrán ser privados de sus cargos, en los términos del Título Décimo Tercero de esta Constitución.
+El Tribunal Superior de Justicia se integrará con 13 Magistrados Numerarios, y 5 Supernumerarios, quienes durarán en su cargo 6 años, pudiendo ser ratificados, y solo podrán ser privados de sus cargos, en los términos del Título Décimo Tercero de esta Constitución.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 Los Magistrados percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante el desempeño del cargo, y estarán impedidos para desempeñar un empleo o cargo de los Municipios, del Estado, de la Federación o de particulares, salvo los cargos honoríficos en asociaciones literarias, científicas y de beneficiencia (sic), actividades docentes y el ejercicio de su profesión en causa propia.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 83.
 
-El Tribunal Superior de Justicia funcionará en pleno o en Salas Civil, Penal y Familiar, tres de los Magistrados Supernumerarios podrán integrar una Sala Auxiliar, y formarán al igual que los otros dos, parte del Pleno solamente cuando suplan a los Numerarios, conforme a lo que disponga la Ley Orgánica respectiva. El Tribunal será presidido por el Magistrado que elija la corporación. El Presidente durará en su cargo un año y podrá ser reelecto.
+El Tribunal Superior de Justicia funcionará en Pleno o en Salas Civil, Penal y Familiar. Se crea una Sala Penal con sede en Acapulco de Juárez, Guerrero. Tres de los Magistrados Supernumerarios podrán integrar una Sala Auxiliar, y formarán parte del Pleno solamente cuando suplan a los Numerarios, conforme a lo que disponga la Ley Orgánica respectiva. El Tribunal será presidido por el Magistrado que elija la Corporación, y las Salas por quienes elijan sus integrantes, durando los Presidente en su cargo un año y pudiendo ser reelectos.
+
+El Tribunal Superior de Justicia contará con el Instituto para Mejoramiento Judicial, dependiente directamente del Pleno, y que tendrá por objeto coordinar los trabajos tendientes al nombramiento de funcionarios judiciales, y para su superación profesional; realizar estudios para la organización y funcionamiento más eficiente del Poder Judicial; llevar a cabo investigaciones sobre la legislación del Estado y su aplicación; y coadyuvar a la más estrecha comunicación con instituciones académicas y agrupaciones profesionales.
+
+El Instituto, en los términos que establezca la Ley Orgánica, auxiliará técnicamente al Pleno en el conocimiento de las irregularidades en que puedan incurrir los servidores judiciales, así como en la aplicación de la Ley de Responsabilidades de los Servidores Públicos.
+
+El titular del Instituto de Mejoramiento Judicial deberá reunir los mismos requisitos requeridos para ser Magistrado del H. Tribunal Superior de Justicia del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -2438,3 +2448,17 @@ P.O. 12 DE DICIEMBRE DE 1989.
 ###### ARTICULO UNICO.
 
 El presente Decreto de Reformas y Adiciones a la Constitución entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 23 DE ENERO DE 1990.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto de Reformas y Adiciones entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+###### ARTICULO SEGUNDO.
+
+La Sala Penal radicada en Acapulco de Juárez, Guerrero, deberá instalarse a más tardar el día 15 de febrero de 1990.
+
+###### ARTICULO TERCERO.
+
+El Instituto para el Mejoramiento Judicial deberá ser instalado a más tardar el día 31 de mayo de 1990.
