@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1924-11-09"
+last_updated: "1929-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 1924.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 1929.
+
+(REPUBLICADO, P.O. 29 DE DICIEMBRE DE 1929)
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -307,11 +309,15 @@ III. Velar por la conservación del orden, de la tranquilidad y de la seguridad 
 
 IV. Velar igualmente por la eficacia de los servicios y administración públicos, iniciando, al efecto, las leyes y decretos que fueren pertinentes.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1919)</small>
+(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 1929) (REPUBLICADA, P.O. 29 DE DICIEMBRE DE 1929)
 
-V. Presentar en el segundo período de sesiones de la Legislatura, el día que éstas comiencen, la cuenta de los gastos de la Administración correspondientes al año fiscal anterior, y también el primer día del primer período de sesiones ordinarias presentar el presupuesto de gastos del año fiscal próximo y un proyecto de arbitrios para cubrir esos gastos.
+V. Presentar en el segundo período de sesiones de la Legislatura, el día que éstas comiencen, el informe a que se refiere el Artículo 45 y la cuenta de gastos de la Administración, correspondientes al año fiscal anterior.
 
-VII (sic). Cuidar de que los fondos públicos estén bien asegurados y de que la recaudación y distribución de ellos se sujeten en todo a la ley.
+(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 1929) (REPUBLICADA, P.O. 29 DE DICIEMBRE DE 1929)
+
+VI. Presentar el primer día del primer período ordinario de sesiones el presupuesto de gastos del año fiscal próximo, así como un proyecto de arbitrios para pagar esos gastos.
+
+VII. Cuidar de que los fondos públicos estén bien asegurados y de que la recaudación y distribución de ellos se sujeten en todo a la ley.
 
 VIII. Fomentar la instrucción pública y el mejoramiento social, protegiendo pecuniaria y moralmente, hasta donde sea posible, toda clase de adelantos y muy especialmente los que se refieran a la agricultura; pudiendo en estos casos, disminuir, por período determinado, las contribuciones de las fincas que manifiesten mayor adelanto.
 
@@ -589,9 +595,11 @@ La Legislatura celebrará sesiones extraordinarias cada vez que para ello fuere 
 
 No podrá celebrarse ninguna sesión sin la concurrencia de más de la mitad del número total de Diputados.
 
+(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 1929) (REPUBLICADO, P.O. 29 DE DICIEMBRE DE 1929)
+
 ###### Art. 45.
 
-El Gobernador del Estado y el Presidente del Supremo Tribunal de Justicia, asistirán a la apertura del primer período de sesiones ordinarias, y leerán cada uno de ellos un informe en el que expondrán, en términos generales, el estado de sus respectivas administraciones.
+El Gobernador del Estado y el Presidente del Supremo Tribunal de Justicia, asistirán a la apertura del segundo período ordinario de sesiones; y leerán cada uno de ellos un informe en el que expondrán, en términos generales, el estado de sus respectivas administraciones.
 
 ###### Art. 46.
 
@@ -765,15 +773,19 @@ Poder Judicial. Supremo Tribunal de Justicia.
 
 El Supremo Tribunal de Justicia se compondrá de cinco Magistrados propietarios y siete supernumerarios. Durarán en sus funciones cuatro años, y serán nombrados por el Congreso, funcionando como Colegio Electoral.
 
+(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 1929) (REPUBLICADO, P.O. 29 DE DICIEMBRE DE 1929)
+
 ###### Art. 62.
 
 Para ser Magistrado se requiere:
 
-I. Ser Ciudadano guanajuatense en ejercicio de sus derechos, no haber sido condenado por delito alguno con motivo de sus funciones y gozar de buena reputación.
+I. Ser ciudadano guanajuatense en ejercicio de sus derechos.
 
-II. Ser abogado con cinco años de práctica, por lo menos.
+II. Ser abogado con tres años de práctica, por lo menos.
 
-III. Tener treinta años cumplidos, el día de la elección.
+III. Tener el día de la elección veinticinco años cumplidos.
+
+IV. No haber sido condenado por delito alguno con motivo de las funciones que se le hubieren encomendado.
 
 ###### Art. 63.
 
@@ -1058,5 +1070,11 @@ P.O. 8 DE JUNIO DE 1924.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
 
 P.O. 9 DE NOVIEMBRE DE 1924.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+
+P.O. 8 DE SEPTIEMBRE DE 1929.
+
+REPUBLICADO, P.O. 29 DE DICIEMBRE DE 1929.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
