@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1983-09-25"
+last_updated: "1983-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 1983.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 1983.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -287,17 +287,17 @@ El cargo de Diputado Propietario o Suplente en ejercicio, es incompatible con cu
 
 La infracción de esta disposición será sancionada con la pérdida de la investidura de Diputado.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1983)</small>
 
 ###### Artículo 23.
 
-El Congreso se instalará cada tres años, el dieciséis de septiembre del año de la elección.
+El Congreso se instalará cada tres años, el 1o. de noviembre del año de la elección.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1977)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1983)</small>
 
 ###### Artículo 24.
 
-El Congreso tendrá cada año un período ordinario de sesiones que comprenderá del 16 de septiembre al 31 de enero.
+El Congreso tendrá cada año un Período Ordinario de Sesiones que comprenderá del 1o. de noviembre al 15 de marzo.
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 1977)</small>
 
@@ -1340,3 +1340,9 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 P.O. 25 DE SEPTIEMBRE DE 1983.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 9 DE OCTUBRE DE 1983.
+
+PRIMERO.- La H. LII Legislatura del Estado ejercerá su encargo del 16 de septiembre de 1983, al 31 de octubre de 1986.
+
+SEGUNDO.- Dentro del término de un año contado a partir de la iniciación de vigencia del presente Decreto, deberán reformarse las leyes secundarias que provean al exacto cumplimiento de este Decreto.
