@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1976-08-20"
+last_updated: "1977-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 1977.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -109,29 +109,25 @@ III.- Los fideicomitentes, mientras sean poseedores del predio objeto del fideic
 
 IV.- Tratándose de predios ejidales, quien posea provisional o definitivamente el predio o en su caso, al núcleo de ejidatarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 1974)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 7.
 
 La base del Impuesto es la siguiente:
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1974)</small>
-
 I.- El valor catastral de los predios, tratándose de urbanos o rústicos.
 
 En aquellos casos en que los predios no tengan valor catastral, servirá de base el valor de la operación de transmisión de dominio que se registre, o el valor de capitalización, si alguno de éstos fuere mayor que aquél.
 
-II.- El valor a precio de venta de la producción agrícola, avícola o ganadera, natural o de cultivo, que se obtenga durante el año, de los predios ejidales ya sea que se explote individual o colectivamente.
+II.- El valor a precio de venta de la producción agrícola, avícola o ganadera, natural o de cultivo, que se obtenga durante el año, de los predios ejidales ya sea que se exploten individual o colectivamente.
 
-En aquellos casos que se desconozca el precio de venta, el Ejecutivo del Estado fijará el precio oficial de los diferentes productos en atención a sus calidades, el que servirá de base para los efectos de este Impuesto.
+En aquellos casos que se desconozca el precio de venta, el Ejecutivo del Estado fijará el precio oficial de los diferentes productos en atención a sus calidades, el que servirá de base para los efectos de este impuesto.
 
-> <small>(ADICIONADA, P.O. 10 DE MARZO DE 1974)</small>
+Cuando los predios objeto de posesión ejidal se dediquen a actividades distintas a la explotación agropecuaria será aplicable a lo señalado en la Fracción l de este Artículo.
 
-III.- Cuando se dediquen a actividades distintas a la explotación agropecuaria será aplicable a lo señalado en la Fracción I de este Artículo.
+> <small>(F. DE E., P.O. 20 DE MARZO DE 1977)</small>
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 1974)</small>
-
-IV.- Cuando el predio se encuentre edificado con diversos departamentos propiedad de distintas personas, que a la vez sean copropietarios del terreno en que se encuentre construído el edificio, así como de sus escaleras, pasillos, jardines, muros medianeros, pisos y demás servicios e instalaciones, la Secretaría de Finanzas fijará el Impuesto de acuerdo con los valores catastrales, y entrará en vigor a partir del bimestre siguiente a la fecha en que se haya autorizado preventivamente la escritura de constitución del condominio. Si éste se constituye sin estar terminadas las construcciones, el Impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron. En estos casos, la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del bimestre siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; y cada predio, departamento, despacho o local se empadronará por separado, girándose a cada cual el recibo de pago correspondiente.
+III.- Cuando el predio se encuentre edificado con diversos departamentos propiedad de distintas personas, que a la vez sean copropietarios del terreno en que se encuentre construido el edificio, así como de sus escaleras, pasillos, jardines, muros medianeros, pisos y demás servicios e instalaciones, la Secretaría de Finanzas, fijará el impuesto de acuerdo con los valores catastrales, y entrará en vigor a partir del bimestre siguiente a la fecha en que se haya autorizado preventivamente la escritura de constitución del condominio. Si éste se constituye sin estar terminadas las construcciones, el Impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron. En estos casos, la base se aplicará cada uno de los departamentos, despachos o locales comerciales a partir del bimestre siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; y cada predio, departamento, despacho o local se empadronará por separado, girándose a cada cual el recibo de pago correspondiente.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
@@ -155,9 +151,11 @@ La cuota del impuesto que se fije con base en los reavalúos y modificaciones en
 
 El Impuesto Predial se causará y pagará conforme a los términos y las tasas que fije la Ley de Ingresos.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
+
 ###### ARTICULO 11.
 
-El Impuesto Predial Ejidal se causará según la tasa que determine la Ley de Ingresos y que en ningún caso excederá el 5% del total de la producción anual de los ejidos.
+El Impuesto Predial Ejidal en ningún caso excederá del 5% del total de la producción anual de los ejidos y se causará según la tasa que determine la Ley de Ingresos de conformidad con la rentabilidad de las tierras o el valor por cabeza de ganado.
 
 ###### ARTICULO 12.
 
@@ -171,7 +169,15 @@ I.- Por bimestres adelantados durante los primeros veinte días de cada bimestre
 
 II.- Por anualidades adelantadas dentro del primer bimestre de cada año.
 
-III.- Tratándose de predios sujetos al régimen ejidal o comunal el pago deberá hacerse durante las cosechas o la venta de los productos.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1977)</small>
+
+III.- Tratándose de predios sujetos al régimen ejidal o comunal el pago deberá hacerse ajustándose a las normas generales que señalan las disposiciones que en materia de productos agropecuarios contiene esta Ley:
+
+1.- Durante las cosechas o la venta de los productos antes de la salida del producto de su lugar de origen.
+
+2.- Tratándose de producción ganadera al momento de su sacrificio, del traslado de su dominio o de su transportación fuera del Estado.
+
+3.- Tratándose de producción avícola, efectuar el pago mensual dentro de los días del 1o. al 20 de cada mes, presentando su declaración en las formas autorizadas por la Secretaría de Finanzas del Estado.
 
 IV.- La Ley de Ingresos fijará los casos en que el pago del Impuesto sea anual o bimestral.
 
@@ -195,11 +201,11 @@ IV.- En todos los casos de operaciones en las que no se transmita el dominio, so
 
 V.- Los funcionarios y empleados del Gobierno del Estado, que dolosamente expidan constancias de que los causantes se encuentran al corriente en los pagos del Impuesto Predial.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 15.
 
-Las sociedades, agrupaciones, empresas agrícolas, avícolas o ganaderas, agentes aduanales, o personas físicas que maquilen, refaccionen o compren de primera mano productos naturales o de cultivo ejidales, que conforme a esta Ley están afectos al pago de este impuesto, exigirán al vendedor que compruebe, con anticipación a la operación que realicen, que ha sido cubierto este impuesto y si no se acredita, deberán retener y enterar su importe los días del primero al veinte del siguiente mes.
+Las sociedades, agrupaciones, empresas agrícolas, avícolas o ganaderas, agentes aduanales o personas físicas que maquilen, refaccionen, compren de primera mano o reciban para su guarda productos naturales o de cultivo ejidales que conforme a esta Ley están afectos al pago de este Impuesto, exigirán al productor que compruebe, con anticipación a la operación que realicen, que ha sido cubierto este impuesto, y si no se acredita deberán retener y enterar su importe los días del primero al veinte del siguiente mes.
 
 ###### ARTICULO 16.
 
@@ -215,23 +221,31 @@ Están exentos del pago del Impuesto Predial:
 
 I.- Los predios pertenecientes a la Federación, al Estado y a los Municipios.
 
-II.- Los predios propiedad de las Instituciones de beneficencia privada siempre y cuando no se hagan distinciones entre los beneficiarios, y la atención a éstos sea gratuita.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1977)</small>
+
+II.- Los predios propiedad de las Instituciones de beneficencia pública y privada siempre y cuando no se hagan distinciones entre los beneficiarios, y la atención a éstos sea gratuita.
 
 III.- Los lotes que adquieran los particulares en los cementerios y que sean dedicados exclusivamente a inhumaciones.
 
 IV.- Los inmuebles donde se encuentren establecidos consulados, cuando sean propiedad de sus respectivos gobiernos y siempre que para efecto de reciprocidad, lo requiera el caso.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
+
 ###### ARTICULO 19.
 
-La exención contenida en la Fracción II del Artículo anterior, se solicitará por escrito a la Secretaría de Finanzas, debiéndose acompañar todas las pruebas que demuestren la procedencia de la misma, o en su caso, ofrecer dichas pruebas, que serán calificadas por la propia Secretaría.
+Por lo que respecta a la exención contenida en la Fracción II del Artículo anterior, las instituciones de beneficencia privada deberán solicitarla por escrito a la Secretaría de Finanzas, debiéndose acompañar todas las pruebas que demuestren la procedencia de la misma, o en su caso, ofrecer dichas pruebas, que serán calificadas por la propia Secretaría.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 20.
 
-La vigencia de las exenciones en el pago del Impuesto Predial a que se refiere la Fracción II del Artículo 18 de esta Ley, se iniciará a partir del primer bimestre siguiente a la fecha en que se hubiera presentado la solicitud correspondiente, o a partir del último pago del Impuesto hecho con posterioridad a esa fecha si aquella es aprobada. Los beneficiarios de las exenciones deberán manifestar a la Secretaría de Finanzas, cualquier modificación de las circunstancias que hubieren fundado dichas exenciones. En este caso, la misma Secretaría de Finanzas dictará resolución nulificando la exención a partir del momento en que hubiere desaparecido el fundamento de la misma y ordenará el recobro de los impuestos, cuyo pago se hubiese omitido, así como los recargos, multas y accesorios que proceda.
+La vigencia de las exenciones en el pago del Impuesto Predial que corresponde pagar a las instituciones de beneficencia privada, se iniciará a partir del primer bimestre siguiente a la fecha en que se hubiere presentado la solicitud correspondiente, o a partir del último pago del Impuesto hecho con posterioridad a esa fecha si aquélla es aprobada. Los beneficiarios de las exenciones deberán manifestar a la Secretaría de Finanzas, cualquier modificación de las circunstancias que hubieran fundado dichas exenciones. En este caso, la misma Secretaría de Finanzas dictará resolución nulificando la exención a partir del momento en que hubiere desaparecido el fundamento de la misma y ordenará el recobro de los impuestos, cuyo pago se hubiese omitido, así como los recargos, multas y accesorios que proceda.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 21.
 
-Cuando a virtud de una Ley especial se obtenga exención total o parcial del Impuesto Predial por un plazo determinado, al vencimiento del plazo se procederá al cobro del Impuesto de acuerdo con el avalúo que a esa fecha practique la Dirección General de Catastro y en tanto no se hiciere, el impuesto se cobrará con base en el último avalúo practicado.
+Cuando a virtud de una Ley especial el Ejecutivo del Estado declare exención total o parcial del Impuesto Predial por un plazo determinado, al vencimiento del plazo se procederá al cobro del Impuesto de acuerdo con el avalúo que a esa fecha practique la Dirección General de Catastro y en tanto no se hiciere, el impuesto se cobrará con base en el último avalúo practicado.
 
 ###### ARTICULO 22.
 
@@ -349,11 +363,13 @@ Además el inmueble objeto de la operación deberá estar al corriente en el pag
 
 Estos comprobantes y justificaciones deberán comprender hasta el mes en que los Jueces y Notarios autoricen la escritura, actos o contratos.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
+
 ###### ARTICULO 39.
 
-Los causantes de este Impuesto presentarán en la Recaudación de Rentas correspondiente, una declaración que contendrá los datos solicitados en las formas aprobadas por la Secretaría de Finanzas del Estado.
+Los causantes de este impuesto presentarán en la Recaudación de Rentas correspondiente, una declaración que contendrá los datos solicitados en las formas aprobadas por la Secretaría de Finanzas del Estado.
 
-Las declaraciones se presentarán dentro de los 30 días hábiles siguientes a la fecha de las escrituras públicas o de los contratos privados respectivos; y dentro del mismo plazo cuando se trate de adjudicaciones laborales, judiciales o de cualquier otra autoridad competente.
+Las declaraciones se presentarán dentro de los 30 días hábiles siguientes a la fecha de la firma de las escrituras públicas o de los contratos privados respectivos; y dentro del mismo plazo cuando se trate de adjudicaciones judiciales o de cualquier otra autoridad competente.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -377,13 +393,17 @@ Los Notarios, Jueces y demás funcionarios del Estado no certificarán las firma
 
 ### CAPITULO III. Impuestos Sobre Actividades Mercantiles e Industriales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
+
 ###### ARTICULO 42.
 
-Es objeto del Impuesto Sobre Actividades Mercantiles e Industriales, el ingreso que se obtenga con motivo de:
+Es objeto del impuesto sobre actividades mercantiles e industriales, el ingreso que se obtenga con motivo de:
 
 I.- Enajenación de bienes, promesa de venta y opción de venta;
 
-II.- Arrendamiento de bienes;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1977)</small>
+
+II.- Arrendamiento de Bienes Muebles;
 
 III.- Prestación de servicios;
 
@@ -395,13 +415,27 @@ V.- Intereses provenientes de cualquier operación mercantil.
 
 Es ingreso para los efectos de este Impuesto, toda percepción en efectivo, en bienes, en servicios, en valores, en títulos de crédito, en libros o en cualquier otra forma que se obtenga por los sujetos de este Impuesto, como resultado de las operaciones a que se refiere el Artículo anterior.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
+
 ###### ARTICULO 44.
 
-El Impuesto se causa sobre el ingreso total de las operaciones señaladas en el Artículo 42, en el momento en que se realicen aún cuando sean a plazos, a crédito o con reserva de dominio, incluyéndose el sobreprecio, los intereses o cualquier otra prestación que lo aumente, o sobre el ingreso determinado por la autoridad fiscal, en uso de sus facultades.
+El impuesto se causa sobre el ingreso total de las operaciones señaladas en el Artículo 42, en el momento en que se realicen aún cuando sean a plazos, a crédito o con reserva de dominio, de acuerdo con lo siguiente:
 
-Cuando la actividad del causante consista en la venta de inmuebles y realice operaciones en abonos, difiriéndose el pago del precio en un plazo no menor de cinco años, declarará sus ingresos tomando en cuenta los abonos recibidos, incluyendo además del capital amortizado, los intereses devengados y cobrados.
+I.- El pago inicial o anticipos se considerarán para los efectos del impuesto, como ingreso percibido, aún cuando se cubran con documentos o mediante crédito en libros.
 
-El anticipo o pago inicial se considerará para los efectos del Impuesto, como ingreso percibido, aún cuando se cubra con documentos o mediante crédito en libros.
+II.- Cuando la actividad del causante consista en la venta de inmuebles y realice operaciones en abonos, difiriéndose el pago del precio en un plazo de 5 años o mayor, declarará sus ingresos tomando en cuenta los abonos recibidos, incluyendo además del capital amortizado, los intereses devengados y cobrados.
+
+III.- Son ingresos gravables:
+
+a).- El sobreprecio, los intereses o cualquier otra prestación que aumente el ingreso gravado.
+
+b).- El ingreso determinado por la autoridad fiscal, en uso de sus facultades.
+
+c).- La diferencia entre los precios declarados por el causante y los que fije la Secretaría de Finanzas a través de sus dependencias, cuando los primeros no correspondan a los reales del mercado. En tales casos, para los fines de este impuesto, dichos precios se fijarán tomando en cuenta los de factura, los oficiales o los corrientes en el mercado interior y exterior.
+
+d).- La diferencia entre el precio estimado por la Secretaría de Finanzas y el obtenido por el causante por la venta de bienes o prestación de servicios al costo o a menos del costo. En estos casos el precio se estimará tomando en cuenta las operaciones normales del causante. No se hará la estimación a que este párrafo se refiere, cuando el causante demuestre que la venta o la prestación de servicios se hizo al precio del mercado, en la fecha de la operación, o cuando a juicio de la Secretaría de Finanzas esté comprobado satisfactoriamente que los bienes han sufrido demérito, o existen circunstancias que determinen la necesidad de la operación.
+
+e).- Los ingresos estimados provenientes de compras o adquisiciones no declaradas.
 
 ###### ARTICULO 45.
 
@@ -485,11 +519,11 @@ El impuesto se causará y pagará mensualmente en razón de los ingresos gravabl
 
 Para los efectos del pago de este impuesto, regirán las tasas que señala la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 1973)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 56.
 
-Están exentos del pago del Impuesto Sobre Actividades Mercantiles e Industriales:
+Están exentos del pago del impuesto sobre actividades mercantiles e industriales.
 
 I.- Los ingresos obtenidos por las Sociedades Cooperativas de Consumo, únicamente con motivo de las ventas hechas a sus socios.
 
@@ -497,15 +531,9 @@ II.- Los ingresos obtenidos por establecimientos penitenciarios, de beneficencia
 
 III.- Los ingresos que procedan de la prestación de servicios profesionales. No favorece esta exención a las empresas formadas por socios profesionistas que se encuentren organizados en forma mercantil.
 
-IV.- Las empresas y sindicatos que perciban ingresos por la venta de productos alimenticios para el género humano, siempre que satisfagan los requisitos siguientes:
+> <small>(REFORMADA P.O. 10 DE FEBRERO DE 1977)</small>
 
-a).- Que operen exclusivamente con sus trabajadores, si se trata de empresas, o con sus agremiados en el caso de sindicatos.
-
-b).- Que las ventas no se efectúen a precio mayor del costo.
-
-c).- Que el valor de las ventas de mercancías no exceda del 50% del importe total de los sueldos o salarios mensuales que se les paguen a los trabajadores de la empresa o a los agremiados del sindicato que se trate.
-
-d).- Que presenten solicitud a la Secretaría de Finanzas del Estado, acompañada de una relación de los artículos que pretendan vender.
+IV.- Los ingresos por ventas de productos alimenticios para el género humano, excepto los que se obtengan en restaurantes y demás establecimientos donde se sirvan comidas.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE JUNIO DE 1973)</small>
 
@@ -515,13 +543,11 @@ VI.- Los ingresos provenientes de las operaciones de segunda o ulteriores manos 
 
 VII.- Los ingresos que obtengan por venta de cemento, los productores y distribuidores de cemento debidamente establecidos y registrados en el Estado.
 
-VIII.- Los ingresos provenientes del arrendamiento de bienes inmuebles.
+> <small>(REFORMADA P.O. 10 DE FEBRERO DE 1977)</small>
 
-No quedan comprendidos en esta exención, los ingresos provenientes del arrendamiento de casas o apartamentos amueblados, de campos o lugares destinados a estacionamientos de casas móviles o autotransportables, así como el de cualquier inmueble destinado al hospedaje.
+VIII.- Enajenación de títulos de crédito.
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1973)</small>
-
-IX.- Enajenación de títulos de crédito.
+IX.- (DEROGADA, P.O. 10 DE FEBRERO DE 1977)
 
 ###### ARTICULO 57.
 
@@ -569,9 +595,11 @@ Los causantes presentarán sus solicitudes de empadronamiento dentro de los diez
 
 Para los efectos de este Impuesto se entiende como fecha de iniciación de operaciones, aquella en que se efectúe la apertura o en la que el causante obtenga el primer ingreso. Tratándose de personas morales, la iniciación de operaciones será la fecha de su constitución.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
+
 ###### ARTICULO 65.
 
-Los sujetos de este Impuesto que únicamente perciban ingresos exentos tienen obligación, excepción hecha de los comprendidos en las Fracciones II, III, V y VIII del Artículo 56 de esta Ley, de:
+Los sujetos de este impuestos (sic) que únicamente perciban ingresos exentos tienen obligación, excepción hecha de los comprendidos en las Fracciones II, III y V del Artículo 56 de esta Ley, de:
 
 I.- Registrarse dentro de los diez días siguientes a la fecha de iniciación de sus operaciones.
 
@@ -643,57 +671,87 @@ VI.- Recibir las visitas de investigación y proporcionar a los auditores o a lo
 
 VII.- Conservar cinco años la documentación y demás elementos contables y comprobatorios relativos a las operaciones efectuadas, para efectos de la prescripción que establece el Código Fiscal del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 72.
 
-Los causantes del Impuesto Sobre Actividades Mercantiles e Industriales en el Estado de Baja California, deberán observar las siguientes medidas de control de sus ingresos:
+Los causantes del Impuesto sobre Actividades Mercantiles e Industriales en el Estado de Baja California deberán observar las siguientes medidas de control de sus ingresos:
 
-I.- Expedir diariamente facturas, notas de venta o cintas de máquina registradora que comprueben la totalidad de sus ingresos provenientes de sus operaciones.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
 
-> <small>(F. DE E., P.O. 20 DE MARZO DE 1976)</small>
+I.- Expedir diariamente facturas, notas de venta o cintas de máquina registradora que comprueben la totalidad de sus ingresos provenientes de sus operaciones. El documento fuente de contabilización deberá llenar los siguientes requisitos:
 
-El documento fuente de contabilización deberá llenar los siguientes requisitos.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
 a).- Nombre y razón social del causante;
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+
 b).- Domicilio y fecha;
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
 c).- Número de cuenta estatal;
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+
 d).- Registro Federal de Causantes;
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
 e).- Número progresivo prenumerado.
 
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1977)</small>
+
+f).- Valor de la operación especificado en Moneda Nacional.
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1976)</small>
+
 II.- Cuando se utilice únicamente máquina registradora y que expida comprobante al cliente, éste deberá llenar los mismos requisitos anteriores.
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1976)</small>
 
 III.- Cuando no se utilice máquina registradora, o ésta no expida comprobante al cliente y el monto de la operación sea superior a $50.00 la expedición de facturas o notas de venta con los requisitos mencionados en la Fracción I será obligatoria.
 
 Por las operaciones de $50.00 que no hayan sido facturadas deberá formularse una nota de venta o factura global al final de cada día.
 
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1976)</small>
+
 IV.- Las facturas o notas de venta deberán expedirse cuando menos por duplicado y deberán conservarse las copias en orden numérico sin interrupción.
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1976)</small>
 
 V.- Podrán usarse una o varias series de facturas, las cuales deberán identificarse por medio de letras y prenumerarse progresivamente. Si no se usa la totalidad, o alguna se cancela, se incluirán los originales con la anotación '"NO SE USARAN" o "CANCELADAS" en su caso.
 
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1976)</small>
+
 VI.- Las sucursales o dependencias de empresas del interior del país que realicen operaciones en el Estado de Baja California, deberán cumplir con los requisitos mencionados anteriormente y conservar en el domicilio de la sucursal o dependencia, las copias de las facturas o notas de venta expedidas, las cuales deberán contener folio progresivo independiente del que se lleve en la matriz u otros establecimientos de la misma negociación.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
 Es obligación de las personas que obtengan los bienes o servicios consignados en el Artículo 42 de esta Ley, recabar los documentos correspondientes que deberán reunir los requisitos antes mencionados.
 
-> <small>(F. DE E., P.O. 20 DE MARZO DE 1976)</small>
+(REFORMADO, P.O. 31 DE ENERO DE 1976) (F. DE E., P.O. 20 DE MARZO DE 1976)
 
 En los casos de compras de mercancías facturadas en el extranjero, éstas deberán estar amparadas con la correspondiente relación aduanal de importación o boletas en su caso, a nombre del causante.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+
 En los casos en que no se recabe la documentación de referencia, el comprador deberá comunicarlo de inmediato a la Secretaría de Finanzas del Estado, y en caso de no hacerlo será solidariamente responsable del impuesto omitido.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 73.
 
-Los causantes a que se refiere el segundo párrafo del Artículo 44, tendrán además de las obligaciones señaladas en otros preceptos de esta Ley, las siguientes:
+Los causantes a que se refiere la Fracción Segunda del Artículo 44, tendrán además de las obligaciones señaladas en otros preceptos de esta Ley, las siguientes:
 
 I.- Presentar para su autorización, ante la Recaudación de Rentas del Estado, los contratos debidamente prenumerados.
 
 II.- Conservar copia de los contratos, facturas y recibos de cobranzas que originan las ventas.
 
-III.- Llevar un registro por cada operación, que consigne como mínimo los siguiente datos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
+
+III.- Llevar un registro por cada operación, que consigne como mínimo los siguientes datos:
 
 a).- Nombre del comprador.
 
@@ -703,7 +761,9 @@ c).- Número de contrato.
 
 d).- Manzana y lote.
 
-e).- Monto de la operación e importe de las mensualidades.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
+
+e).- Monto de la operación e importe de las mensualidades en moneda nacional. En caso de operaciones pactadas en moneda extranjera, se deberá consignar además la utilidad o pérdida en cambios obtenidos al recibir cada abono.
 
 f).- Fecha y número del recibo de abono.
 
@@ -721,9 +781,11 @@ a).- Los descuentos, devoluciones y bonificaciones, y
 
 b).- Los ingresos exentos.
 
+(REFORMADO, P.O. 10 DE FEBRERO DE 1977) (F. DE E., P.O. 20 DE MARZO DE 1977)
+
 ###### ARTICULO 75.
 
-En caso de que los causantes no lleven la separación de ingresos a que se refiere el Artículo anterior, el Impuesto se causará sobre la totalidad de los ingresos sin la deducción de los exentos.
+En caso de que los causantes no lleven la separación de ingresos a que se refiere el Artículo anterior, el impuesto se causará sobre la totalidad de los ingresos sin la deducción de los exentos a la tasa más alta que causan sus ingresos gravables.
 
 ###### ARTICULO 76.
 
@@ -907,9 +969,11 @@ II.- Ante la primera autoridad fiscal competente que requiera su pago.
 
 III.- Tratándose de producción avícola, deberá efectuarse el pago en forma mensual presentando su declaración en las formas autorizadas por la Secretaría de Finanzas.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
+
 ###### ARTICULO 101.
 
-Por los productos en consignación, depósito o cualquier otra forma en la que no se transmita el dominio, deberá garantizarse el interés fiscal en la Recaudación de Rentas correspondiente en los términos que establece el Código Fiscal del Estado.
+Por los productos en consignación, tránsito, depósito o cualquier otra forma en la que no se transmita el dominio, deberá garantizarse el interés fiscal en la Recaudación de Rentas correspondiente en los términos que establece el Código Fiscal del Estado.
 
 (REFORMADO, P.O. 31 DE ENERO DE 1976) (F. DE E., P.O. 20 DE MARZO DE 1976)
 
@@ -969,17 +1033,25 @@ Son causantes de este Impuesto las personas físicas, morales o unidades económ
 
 El Impuesto se causará con base en las operaciones por las cuales se trasmita el dominio de productos agrícolas, avícolas y ganaderos, y se pagará de acuerdo con la tarifa que señale la Ley de Ingresos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
+
 ###### ARTICULO 110.
 
-Los sujetos de este Impuesto deberán cubrir su importe en la forma siguiente:
+Los sujetos de este impuesto, deberán cubrir su importe en la forma siguiente:
 
 I.- En la oficina Recaudadora correspondiente.
 
 II.- Ante la primera autoridad fiscal que requiera de pago.
 
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 1977)</small>
+
+III.- Mediante declaración mensual presentada los días comprendidos del 1o. al 10 de cada mes.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
+
 ###### ARTICULO 111.
 
-Por los productos en consignación, depósito o cualquier otra forma en la que no se trasmita el dominio, deberá garantizarse el interés fiscal en la Recaudación de Rentas correspondiente en los términos que establece el Código Fiscal del Estado.
+Por los productos en consignación, en tránsito, depósito o cualquier otra forma en la que no se transmita el dominio, deberá garantizarse el interés fiscal en la Recaudación de Rentas correspondiente en los términos que establece el Código Fiscal del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
@@ -999,11 +1071,15 @@ Son obligaciones de los causantes de este impuesto:
 
 I.- Empadronarse en la oficina recaudadora correspondiente.
 
-II.- Presentar el permiso del Ejecutivo del Estado para operar con productos agropecuarios.
+(REFORMADA, P.O. 10 DE FEBRERO DE 1977) (F. DE E., P.O. 20 DE MARZO DE 1977)
+
+II.- Obtener el permiso del Ejecutivo del Estado para operar con productos agropecuarios y presentarlo cuando sea requerido para ello.
 
 III.- Pagar el impuesto conforme lo señale la Ley de Ingresos del Estado.
 
-IV.- Presentar un declaración mensual de movimiento de productos agropecuarios en los días del primero al veinte de cada mes.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1977)</small>
+
+IV.- Presentar una declaración mensual de movimiento de productos agropecuarios dentro de los días comprendidos del primero al veinte de cada mes.
 
 V.- Cumplir las demás que señalen esta Ley y demás disposiciones fiscales relativas.
 
@@ -1309,7 +1385,7 @@ III.- Adoptar las medidas de control que para el correcto pago del impuesto esta
 
 ### CAPITULO XV (SIC). Impuesto Sobre Profesiones y Ejercicios Lucrativos
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1977) (F. DE E., P.O. 20 DE MARZO DE 1977)
 
 ###### ARTICULO 151
 
@@ -1323,7 +1399,9 @@ III.- Adoptar las medidas de control que para el correcto pago del impuesto esta
 
 I.- Los ingresos que se perciban con motivo del libre ejercicio de una profesión, actividad artística, deportiva o cultural; como agente de Instituciones de Crédito, Seguros o Fianzas o mediante el ejercicio de una función notarial, o la explotación de una patente aduanal dentro del Territorio del Estado.
 
-II.- Los ingresos obtenidos por quienes ostenten título de escuela superior, técnica o universitaria, derivados de su trabajo personal prestado bajo la dirección y dependencia de un tercero dentro del Territorio del Estado.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1977)</small>
+
+II.- Los ingresos obtenidos por quienes poseen título de escuela superior, técnica o universitaria, derivados de su trabajo personal prestado bajo la dirección y dependencia de un tercero dentro del territorio del Estado.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -1505,9 +1583,11 @@ VIII.- El Impuesto Sobre Profesiones y Ejercicios Lucrativos.
 
 ## TITULO III. DERECHOS
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
+
 ###### ARTICULO 157.
 
-Los servicios que preste el Gobierno del Estado en forma directa o a través de organismos descentralizados obliga a quien los reciga (sic), al pago de su importe.
+Los servicios que preste el Gobierno del Estado en forma directa o a través de sus organismos descentralizados obliga a quien los reciba a excepción hecha de la Beneficencia Pública, al pago total de su importe.
 
 ###### ARTICULO 158.
 
@@ -1716,3 +1796,9 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 20 DE AGOSTO DE 1976.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE FEBRERO DE 1977.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
