@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2002-05-20"
+last_updated: "2003-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE JESUS MARIA, AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2003.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -780,6 +780,8 @@ Para el ejercicio de sus atribuciones y responsabilidades ejecutivas, el Ayuntam
 
 I. PRESIDENCIA MUNICIPAL:
 
+Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
+
 Secretaría Particular;
 
 Comité para el Desarrollo Integral de la Familia;
@@ -806,7 +808,13 @@ Coordinación de Asesores;
 
 Coordinación Operativa;
 
-Coordinación Administrativa; y
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2003)</small>
+
+Coordinación Administrativa;
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2003)</small>
+
+Contraloría Municipal; y
 
 Delegaciones.
 
@@ -828,7 +836,7 @@ Relaciones Públicas.
 
 IV. COMITE PARA EL DESARROLLO INTEGRAL DE LA FAMILIA:
 
-Presidencia del D.I.F Municipal;
+Presidencia del D.I.F. Municipal;
 
 Jurídico;
 
@@ -943,6 +951,12 @@ XVIII. DELEGADOS MUNICIPALES:
 Sub-Delegados.
 
 Comisarios.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2003)</small>
+
+###### ARTICULO 96 Bis.
+
+Los titulares de las áreas mencionadas, direcciones y comisiones antes mencionados serán designados por el Presidente Municipal, con excepción del Secretario del Ayuntamiento, del Director de Finanzas, cuyos nombramientos deberán ser ratificados por el Ayuntamiento.
 
 ###### ARTICULO 97.
 
@@ -1410,9 +1424,11 @@ APARTADO QUINTO
 
 DE LOS ACCIDENTES, SINIESTROS, ROBOS Y PERDIDAS PARCIALES
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 138.
 
-Quien ocasione daños y/o desperfectos a los bienes muebles propiedad y/o al (sic) servicio municipal, por cualquiera que sea la causa, el horario, las funciones que estuviese desempeñando o el grado de responsabilidad, cuando así lo juzgue la comisión de seguimiento, la cual está integrada por el Síndico, Regidor de Hacienda, Director de Asuntos Jurídicos, Director de Administración y Subdirector de Recursos Materiales, deberá notificar a las autoridades penales y civiles, quienes determinarán la responsabilidad del usuario en función de la cuantía del desperfecto y a lo establecido en el libro de sanciones del presente ordenamiento.
+Quien ocasione daños y/o desperfectos a los bienes muebles propiedad y/o al (sic) servicio municipal, por cualquiera que sea la causa, el horario, las funciones que estuviese desempeñando o el grado de responsabilidad, cuando así lo juzgue la comisión de seguimiento, la cual está integrada por el Síndico, Regidor de Hacienda, Director de Asuntos Jurídicos, Director de Administración y Subdirector de Recursos Materiales, deberá notificar a la Contraloría Municipal y a las autoridades penales y civiles en su caso, quienes en su caso (sic) determinarán la responsabilidad del usuario.
 
 ###### ARTICULO 139.
 
@@ -1424,55 +1440,59 @@ DE LAS FUNCIONES DE CONTROL PATRIMONIAL
 
 ###### ARTICULO 140.
 
-Las funciones del área de Control Patrimonial son:
+(DEROGADO, P.O. 17 DE MARZO DE 2003)
 
-1.- Registrar y realizar altas de bienes muebles propiedad y/o al servicio municipal.
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2003)</small>
 
-2.- Determinar y asignar resguardos.
+###### ARTICULO 140 Bis.
 
-3.- Mantener un listado actualizado y pormenorizado de bienes muebles.
+La Contraloría Municipal tendrá las siguientes funciones y facultades:
 
-4.- Detectar la ausencia de bienes muebles.
+I. Establecer y operar procesos de control y evaluación del gasto, en relación con los recursos asignados a la Presidencia Municipal de Jesús María.
 
-5.- Revisar que lo requisitado, recibido y facturado, coincidan.
+II. Vigilar el buen uso de los recursos patrimoniales del Municipio, así como los que provengan del Gobierno Federal y del Estatal;
 
-6.- Dar aviso a la Comisión de Seguimiento para que determine y aplique sanciones sobre uso y usufructo de bienes muebles, previstas y contempladas por el presente ordenamiento.
+III.- Fijar las normas de control, fiscalización, contabilidad y auditoria que deberán observar las áreas municipales;
 
-7.- Reasignar bienes muebles puestos a disposición.
+IV.- Practicar auditorias en las Dependencias y Organismos Descentralizados Municipales, verificando el destino de los fondos públicos sean propios o transferidos;
 
-8.- Enajenar bienes muebles de desecho.
+V.- Vigilar que las obras realizadas por el Municipio, directamente o con participación de terceros se ajusten a las especificaciones fijadas;
 
-9.- Expedir vales de salida para bienes muebles.
+VI.- Exigir con oportunidad las responsabilidades de los Servidores Públicos del Municipio;
 
-10.- Registrar las transferencias solicitadas sobre bienes muebles.
+VII.- Atender las quejas de los vecinos relativas al cumplimiento de contratos o convenios celebrados con el Municipio;
 
-11.- Analizar, evaluar y determinar la baja de bienes muebles en función de las peticiones de estos, de la obsolescencia y del costo / beneficio.
+VIII.- Supervisar la actualización del inventario de los activos de la administración pública municipal, estableciendo sistemas y procedimientos eficientes y de control que coadyuven al registro fiel y correcto de los bienes patrimoniales del municipio;
 
-12.- Analizar, evaluar y determinar la viabilidad de uso sobre bienes muebles por parte de usuarios solicitantes en peticiones restringidas.
+IX.- Exigir que los concursos de obras y las adquisiciones se realicen de acuerdo a lo estipulado en las leyes correspondientes;
 
-13.- Detección de bienes muebles no clasificados como tal.
+X.- Organizar y controlar el registro de las declaraciones patrimoniales de los Servidores Públicos Municipales en términos de Ley;
 
-14.- Valuación sobre bienes muebles.
+XI.- Turnar a las diferentes Unidades Administrativas las denuncias de los particulares para su trámite y dar seguimiento a las mismas;
 
-15.- Determinar valores de reposición sobre bienes muebles.
+XII.- Interpretar para efectos administrativos tanto este Código así como la legislación municipal únicamente en lo relativo a cuestiones técnicas de carácter financiero y de vigilancia de los recursos municipales, así como de la forma de implementar sistemas de control administrativo y contable interno, y de sistemas para prevenir actos ilícitos por parte de los servidores y trabajadores municipales;
 
-16.- Determinar la vida útil de los bienes muebles.
+XIII.- Ejecutar las funciones establecidas para los organismos internos de control establecidos en este Código y en la legislación en general; y
 
-17.- Cumplir y hacer cumplir el presente ordenamiento.
+XIV.- Las demás que le señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
 
 ###### ARTICULO 141.
 
-Las funciones de la Comisión de Seguimiento.
+(DEROGADO, P.O. 17 DE MARZO DE 2003)
 
-1.- Fincar responsabilidades a los usuario (sic) de los bienes muebles.
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2003)</small>
 
-2.- Aplicación de sanciones de acuerdo al presente ordenamiento.
+###### ARTICULO 141 Bis.
 
-3.- Dar aviso y seguimiento a las autoridades judiciales sobre los casos que determine la misma comisión.
+Para el cumplimiento de sus fines la Contraloría Municipal contará con las siguientes áreas:
 
-4.- Revisar y analizar las peticiones de transferencias o reasignaciones de bienes muebles.
+I.- Subdirección de Asuntos Jurídicos.
 
-5.- Determinar el costo del bien mueble cuando éste haya sido afectado total o parcialmente. Sustentado en el estudio que para tal efecto realice control patrimonial.
+II.- Subdirección de Auditoria Financiera y Administrativa.
+
+III.- Subdirección de Control de Obra Pública, Supervisión y Evaluación.
+
+IV.- Subdirección de Control Patrimonial.
 
 APARTADO SEPTIMO
 
@@ -14261,3 +14281,9 @@ PRIMERO.-El presente decreto entrará en vigor a partir de su publicación en el
 SEGUNDO.- Para la adecuación de las demás disposiciones legales, relativas a la fusión de las Dependencias mencionadas, se nombra una comisión legislativa, para que dentro del término de 90 días a partir de esta fecha, efectúe los trabajos mencionados.
 
 TERCERO.- Las disposiciones que no contraríen el sentido de la fusión, seguirán observándose.
+
+P.O. 17 DE MARZO DE 2003.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los asuntos que se hayan iniciado ante la Comisión de Seguimiento con fecha anterior a la de entrada en vigor del presente decreto, se sujetarán a las disposiciones legales del Código Municipal publicado en fecha 24 de diciembre de 2001 no actualizado, hasta su total conclusión.
