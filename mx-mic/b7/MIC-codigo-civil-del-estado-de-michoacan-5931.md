@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-del-estado-de-michoacan-5931"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1971-03-22"
+last_updated: "1971-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 1971.
 
 Código publicado en el Suplemento 6 del Periódico Oficial Número 34, el Jueves 30 de Julio de 1936.
 
@@ -527,21 +527,13 @@ Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, obse
 
 Cuando la emancipación sea efecto del matrimonio, el Juez del Estado Civil anotará las actas del nacimiento de los cónyuges expresándose que estos quedan emancipados en virtud del matrimonio, citando la fecha de éste, el número del acta y la foja del libro respectivo donde esté extendida; sin que en tal caso se necesite acta separada de emancipación.
 
-(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
-
 ###### Artículo 92.
 
-Cuando se trate de la emancipación por decreto judicial, se levantará el acta respectiva, insertando a la letra la resolución judicial que corresponda.
-
-El acta de nacimiento del emancipado será anotada al margen.
-
-Si en la oficina donde se levante el acta de emancipación, no existiere la de nacimiento respectiva, la oficina que haya levantado la primera, dará el aviso correspondiente para que se haga dicha anotación.
-
-(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+(DEROGADO, P.O. 26 DE AGOSTO DE 1971)
 
 ###### Artículo 93.
 
-La emancipación produce sus efectos aun cuando se omita registrarla, pero el responsable de la omisión será castigado con la pena del artículo 81.
+(DEROGADO, P.O. 26 DE AGOSTO DE 1971)
 
 ### CAPITULO VII. De las actas de matrimonio
 
@@ -867,9 +859,11 @@ Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo 
 
 No pueden contraer matrimonio, el hombre antes de cumplir dieciséis años y la mujer, antes de cumplir catorce. Los presidentes Municipales pueden conceder dispensa por causas graves y justificadas.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1971)</small>
+
 ###### Artículo 144.
 
-El hijo o la hija menores de edad no pueden contraer matrimonio sin consentimiento de su padre y madre, si vivieren ambos, o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo de que se trata vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, se necesita el consentimiento de los maternos, si ambos viven, o del que sobreviva.
+El hijo o la hija que no hayan cumplido 18 años, no pueden contraer matrimonio sin consentimiento de su padre y de su madre, si vivieren ambos, o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo de que se trata vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, se necesita el consentimiento de los maternos, si ambos viven, o del que sobreviva.
 
 ###### Artículo 145.
 
@@ -1103,9 +1097,11 @@ III. Que el matrimonio se haya celebrado contraviniendo alguno de los artículos
 
 La nulidad fundada en el error sólo puede hacerla valer el cónyuge engañado; pero deberá ejercitar su acción inmediatamente que advierta el error, pues de lo contrario se tendrá por subsistente y verificado el matrimonio, a menos que lo anule alguna otra causa.
 
+REFORMADO, P.O. 26 DE AGOSTO DE 1971)
+
 ###### Artículo 196.
 
-La menor edad de dieciséis años en el hombre y de catorce en la mujer, dejará de ser causa de nulidad cuando haya habido hijos en el matrimonio y cuando los cónyuges hayan cumplido veintiún años, sin haberla promovido.
+La menor edad de dieciséis años en el hombre y de catorce en la mujer, dejará de ser causa de nulidad cuando haya habido hijos en el matrimonio y cuando los cónyuges hayan cumplido dieciocho años, sin haberla promovido.
 
 ###### Artículo 197.
 
@@ -1709,9 +1705,13 @@ La acción que compete al hijo para reclamar su estado es imprescriptible para �
 
 Los demás herederos del hijo podrán intentar la acción de que trata el artículo anterior:
 
-I. Si el hijo ha muerto antes de cumplir veinticinco años;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 1971)</small>
 
-II. Si el hijo cayó en demencia antes de cumplir veinticinco años y murió después, en el mismo estado.
+I. Si el hijo ha muerto antes de cumplir veintidos años;
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 1971)</small>
+
+II. Si el hijo cayó en demencia antes de cumplir veintidos años y murió después en el mismo estado.
 
 ###### Artículo 307.
 
@@ -2181,7 +2181,9 @@ Al efecto, el importe de la venta se depositará en una institución de crédito
 
 El derecho de usufructo concedido a las personas que ejerzan la patria potestad se extingue:
 
-I. Por la emancipación o la mayor edad de los que se encuentren afectos a ella;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 1971)</small>
+
+I. Por la emancipación derivada del matrimonio o la mayor edad de los que se encuentren afectos a ella;
 
 II. Por la pérdida de la patria potestad;
 
@@ -2213,7 +2215,9 @@ La patria potestad se acaba:
 
 I. Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
-II. Con la emancipación;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 1971)</small>
+
+II. Con la emancipación derivada del matrimonio;
 
 III. Por la mayor edad del hijo.
 
@@ -2275,9 +2279,11 @@ III. Los sordomudos que no saben leer ni escribir;
 
 IV. Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado de drogas enervantes.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1971)</small>
+
 ###### Artículo 402.
 
-Los menores de edad emancipados tienen incapacidad legal para los actos enumerados en el artículo relativo del Capítulo I título X de este libro.
+Los menores de edad emancipados por razón del matrimonio, tienen incapacidad legal para los actos enumerados en el artículo relativo del Capítulo I, Título X de este libro.
 
 ###### Artículo 403.
 
@@ -2911,7 +2917,7 @@ El tutor no tendrá derecho a retribución alguna y restituirá lo que por ese t
 
 ### CAPITULO I. De la emancipación
 
-(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1971)</small>
 
 ###### Artículo 525.
 
@@ -2991,7 +2997,7 @@ II. Cuando el incapacitado, sujeto a tutela, entre a la patria potestad por reco
 
 ### CAPITULO III. De la mayor edad
 
-(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1971)</small>
 
 ###### Artículo 542.
 
@@ -3067,7 +3073,9 @@ Designarán por sí mismos al curador, con aprobación judicial:
 
 I. Los comprendidos en el artículo 442;
 
-II. Los menores de edad emancipados, en el caso previsto en la fracción III del artículo 573.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 1971)</small>
+
+II. Los menores de edad emancipados por razón del matrimonio, en el caso previsto en la fracción III del artículo 573.
 
 ###### Artículo 559.
 
@@ -3133,33 +3141,29 @@ Tampoco pueden alegar los menores si han presentado certificados falsos del Regi
 
 ###### Artículo 571.
 
-El matrimonio del menor que haya cumplido dieciocho años produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
-
-(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+El matrimonio del menor de dieciocho años produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
 
 ###### Artículo 572.
 
-Los mayores de dieciocho años que estén sujetos a la patria potestad o tutela, tiene derecho a que se les emancipe, si demuestran su buena conducta y su aptitud para el manejo de sus intereses.
+(DEROGADO, P.O. 26 DE AGOSTO DE 1971)
 
-Los padres o tutores pueden emancipar a sus hijos y pupilos que se encuentren en las condiciones mencionadas en el párrafo anterior, siempre que éstos consientan en su emancipación.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1971)</small>
 
 ###### Artículo 573.
 
 El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad:
 
-I. Del consentimiento del que lo emancipó para contraer matrimonio antes de llegar a la mayor edad. Si el que otorgó la emancipación ejercía la patria potestad y está muerto o incapacitado, necesita el emancipado del consentimiento del ascendiente a quien correspondería la patria potestad, y en su defecto el del juez;
-
-II. De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
+I. De la autorización judicial para la enajenación, gravámen (sic) o hipoteca de bienes raíces.
 
 III. De un tutor para los negocios judiciales.
 
 ###### Artículo 574.
 
-Hecha la emancipación no se puede revocar.
+(DEROGADO, P.O. 26 DE AGOSTO DE 1971)
 
 ###### Artículo 575.
 
-Fuera del caso a que se refiere el artículo 571 la emancipación siempre será decretada por el juez, y la resolución correspondiente se remitirá al Juez del Estado Civil para que levante el acta respectiva.
+(DEROGADO, P.O. 26 DE AGOSTO DE 1971)
 
 ### CAPITULO IV. De la administración de los bienes del ausente casado
 
@@ -3171,7 +3175,7 @@ Los menores no emancipados podrán ser habilitados de edad para comparecer en ju
 
 ###### Artículo 577.
 
-La mayor edad comienza a los veintiún años cumplidos.
+La mayor edad comienza a los dieciocho años cumplidos.
 
 ###### Artículo 578.
 
@@ -6151,7 +6155,7 @@ Por falta de reciprocidad internacional, son incapaces de heredar por testamento
 
 La herencia o legado que se deje a un establecimiento público, imponiéndole algún gravamen o bajo alguna condición, sólo serán válidos si el Gobierno del Estado los aprueba.
 
-(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADA, P.O. 25 DE FEBRERO DE 1965)
 
 ###### Artículo 1193.
 
@@ -14572,3 +14576,7 @@ UNICO.- El presente Decreto entrará en vigor, desde la fecha de su publicación
 P.O. 22 DE MARZO DE 1971.
 
 UNICO. El presente Decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial de la Entidad.
+
+P.O. 26 DE AGOSTO DE 1971.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
