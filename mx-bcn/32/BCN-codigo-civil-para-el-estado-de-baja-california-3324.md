@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1995-10-20"
+last_updated: "1996-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1996.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -4103,11 +4103,11 @@ Sólo puede constituirse el patrimonio de la familia con bienes sitos en el muni
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1996)</small>
 
 ###### ARTICULO 722.
 
-El valor máximo de los bienes afectados al patrimonio de familia conforme al Artículo 715, será la cantidad que resulte de multiplicar por 4,550 el importe del salario mínimo general diario vigente en el Estado de Baja California, en la época en que se constituya el patrimonio.
+El valor máximo de los bienes afectados al patrimonio de la familia conforme al artículo 715, será la cantidad que resulte de multiplicar por 25,000 el importe del salario mínimo general diario vigente en el Estado de Baja California, en la época en que se constituya el patrimonio.
 
 ###### ARTICULO 723.
 
@@ -15056,3 +15056,9 @@ P.O. 20 DE OCTUBRE DE 1995.
 ###### ARTICULO UNICO.
 
 La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 1996.
+
+###### ARTICULO UNICO.
+
+Esta Reforma entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
