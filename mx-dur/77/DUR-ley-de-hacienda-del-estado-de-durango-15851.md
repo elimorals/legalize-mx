@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2003-06-08"
+last_updated: "2003-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -439,7 +439,9 @@ participar en rifas, loterías, sorteos y
 
 concursos de toda clase; y 8%
 
-III. Ingresos por la obtención de premios: 6%
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
+III. Ingresos por la obtención de premios: 4.8%
 
 ###### ARTICULO 36.
 
@@ -981,19 +983,15 @@ placas, reposición, canje o replaqueo
 
 en la forma siguiente:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
 
 1.- Automóviles, camiones y autobuses
 
 para uso particular:
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+a) Modelo 1990 y anteriores 15
 
-a). Modelo 1990 y anteriores 15
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
-
-b). Modelo 1991 y posteriores 21
+b) Modelo 1991 y posteriores 21
 
 2.- Camiones de carga, grúas, automóviles y
 
@@ -1011,27 +1009,23 @@ excepto agrícolas. 17
 
 II. Expedición de engomado y tarjeta de circulación por refrendo anual para los vehículos que cuenten con juego de placas:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
 
 1.- Automóviles, camiones y autobuses
 
 para uso particular:
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+a) Modelo 1990 y anteriores 10
 
-a). Modelo 1990 y anteriores 10
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
-
-b). Modelo 1991 y posteriores 17
+b) Modelo 1991 y posteriores 17
 
 2.- Camiones de carga, grúas, automóviles y
 
 autobuses de servicio público. 21
 
-3.- Remolques, tractores similares,
+3.- Remolques, tractores similares, excepto
 
-excepto agrícolas. 14
+agrícolas. 14
 
 4.- Motocicletas, motonetas y similares. 6
 
@@ -1039,9 +1033,9 @@ excepto agrícolas. 14
 
 6.- Placas de demostración. 18
 
-III. Por la expedición de permisos provisionales para
+III. Por la expedición de permisos provisionales
 
-circulación de vehículos, hasta por 15 días. 6
+para circulación de vehículos, hasta por 15 días. 6
 
 IV. Reposición de tarjetas de circulación. 7
 
@@ -1057,9 +1051,7 @@ V. Por los avisos de actualización de datos al padrón de vehículos:
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2003)</small>
 
-5.- Cambio de vehículo en el servicio
-
-público 4
+5.- Cambio de vehículo en el servicio público 4
 
 VI. Por la inspección o revisión de automóviles,
 
@@ -1081,23 +1073,21 @@ b) Motociclista. 4
 
 2. Con vigencia de cuatro años:
 
-a) Chofer de servicio público 8
+a) Chofer de servicio público. 8
 
-b) Chofer de servicio particular 8
+b) Chofer de servicio particular. 8
 
-II. Examen médico para obtener licencia de manejo o
+II. Examen médico para obtener licencia de
 
-en su caso el requerido por infracciones a la Ley de
+manejo o en su caso el requerido por infracciones
 
-Tránsito de los Municipios. 2
+a la Ley de Tránsito de los Municipios. 2
 
 > <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2003)</small>
 
 III. Examen médico para obtener licencia de
 
-manejo para chofer de servicio público o
-
-particular; 2
+manejo para chofer de servicio público o particular; 2
 
 > <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2003)</small>
 
@@ -1107,11 +1097,9 @@ de chofer de servicio público o particular; 2
 
 > <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2003)</small>
 
-V. Examen teórico práctico para obtener
+V. Examen teórico práctico para obtener licencia
 
-licencia de chofer de servicio público o
-
-particular. 2
+de chofer de servicio público o particular. 2
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
 
@@ -1147,17 +1135,7 @@ Para efectos de la aplicación de la tarifa a que se refiere el apartado B del A
 
 Los derechos por expedición de concesiones, permisos o autorizaciones, se causarán en base a días de salario conforme a lo siguiente:
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2001)</small>
-
-DÍAS DE PORCENTAJE
-
-SALARIO
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2001)</small>
-
-I. Por el otorgamiento de concesiones,
-
-permisos o autorizaciones:
+I. Por el otorgamiento de concesiones:
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -1207,83 +1185,29 @@ fracción, causará anualmente el 5% del importe del derecho
 
 que corresponda.
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2003)</small>
+II. Por el otorgamiento del permiso anual para el transporte de
 
-5. Para la prestación del servicio público
+servicio particular a solicitud del interesado:
 
-de transporte de personas:
+1. Vehículos para el transporte de educandos y de
 
-a) Especializado de personal escolar y
+personal: 24
 
-turístico 250
+2. Vehículos denominados pipas y tanques para el
 
-b) Servicio de transporte especial adaptado
+transporte de líquidos y gaseosos: 20
 
-para personas con discapacidad, adultos
+A) Hasta de 3 ejes 24
 
-mayores y público en general 250
+B) Más de 3 ejes
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2003)</small>
+3. Vehículos para el transporte de productos o artículos
 
-6. Por la expedición de autorizaciones
+conexos a las actividades comerciales o industriales,
 
-provisionales a que se refiere el artículo
+con exención de las actividades agropecuarias
 
-102 de la Ley de Transportes del Estado
-
-de Durango. 5
-
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2003)</small>
-
-7. Por la prórroga de concesiones y
-
-permisos, el 30% del importe del derecho
-
-por el otorgamiento de los mismos.
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
-
-II. Por el otorgamiento del permiso anual
-
-para el transporte de servicio particular y
-
-mercantil a que se refiere el Capítulo Décimo
-
-Segundo del Reglamento de la Ley de
-
-Transportes del Estado de Durango:
-
-1. Vehículos para el transporte de
-
-escolares por la propia institución
-
-educativa. 24
-
-2. Vehículos para el transporte de
-
-personal por la propia empresa,
-
-industria o comercio. 20
-
-3. Vehículos para el transporte de
-
-vehículos mediante grúas propiedad
-
-de los propios talleres de servicio. 20
-
-4. Vehículos para el transporte de
-
-productos o artículos propios de la
-
-actividad comercial, industrial, pesquera,
-
-minera o de la construcción que los
-
-propietarios de las unidades desarrollan,
-
-con excepción de las actividades
-
-agropecuarias y forestales. 20
+y forestales. 20
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -1313,13 +1237,9 @@ y hasta de 5 tons. 5
 
 C) Vehículos de capacidad de más de 5 tons. 8
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
+V. Por la ampliación y cambio de ruta, el 30% del importe
 
-V. Por la ampliación y cambio de ruta, el
-
-30% del importe correspondiente al permiso
-
-a que se refiere la fracción IV de este artículo.
+correspondiente al permiso a que se refiere la fracción IV.
 
 ###### ARTICULO 67.
 
@@ -1460,3 +1380,7 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 P.O. 8 DE JUNIO DE 2003.
 
 ÚNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2003.
+
+ÚNICO.- El presente Decreto entrará en vigor en el Estado de Durango a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
