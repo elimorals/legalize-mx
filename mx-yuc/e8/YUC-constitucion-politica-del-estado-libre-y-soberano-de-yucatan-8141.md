@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1993-05-19"
+last_updated: "1994-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE MAYO DE 1993.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE DICIEMBRE DE 1994.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -135,7 +135,9 @@ II.- desempeñar los cargos de elección popular del Estado que en ningún caso 
 
 III.- desempeñar los cargos concejiles del municipio donde residan;
 
-IV.- desempeñar gratuitamente las funciones electorales y las de Jurado;
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
+
+IV.- desempeñar las funciones electorales y las de jurado en los términos de la (sic) leyes respectivas;
 
 V.- alistarse en la Guardia Nacional;
 
@@ -227,9 +229,19 @@ El Poder Público del Estado de Yucatán se divide, para su ejercicio, en Legisl
 
 No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un Congreso formado por menos diputados que los señalados en el artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
+
 APARTADO A. DE LA FUNCIÓN ESTATAL DE ORGANIZAR LAS ELECCIONES.
 
-La organización de las elecciones locales es una función estatal que se ejerce por los Poderes Legislativo y Ejecutivo del Estado, con la participación de los partidos políticos y los ciudadanos, de la manera que disponga la Ley.
+La organización de las elecciones locales es una función estatal que se realiza a través de un organismo público autónomo dotado de personalidad jurídica y patrimonio propios, a cuya integración concurren los poderes del Estado, con la participación de los partidos políticos y los ciudadanos, de la manera que disponga la Ley.
+
+En la conformación de este organismo que será autoridad en la materia, se atenderá a criterios de profesionalismo en su desempeño y autonomía en sus decisiones. Contará también con la participación de consejeros ciudadanos, designados en la forma y términos que señale la Ley respectiva.
+
+Las mesas directivas de casilla estarán integradas por ciudadanos.
+
+La Ley reglamentaria de este precepto, atenderá las actividades relativas a la preparación de la jornada electoral, al desarrollo de ésta, a los cómputos y otorgamiento de constancia, capacitación electoral y educación cívica, al sistema de medios de impugnación y a la conformación de los organismos en la materia.
+
+La Ley establecerá un sistema de medios de impugnación de los que conocerá el organismo público a que se refiere este precepto y los tribunales autónomos que serán la máxima autoridad jurisdiccional en materia electoral.
 
 APARTADO B. DE LOS PARTIDOS POLITICOS
 
@@ -285,7 +297,9 @@ Las personas que hubiesen desempeñado las funciones de Diputado no podrán ser 
 
 El Congreso del Estado, se integrará con quince diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales y diez diputados electos por el sistema de representación proporcional, mediante listas votadas en una circunscripción plurinominal, que corresponderá a la totalidad del territorio del estado.
 
-El Congreso del Estado determinará en la primera decena del mes de febrero del año de la elección, el ámbito territorial de los distritos electorales, en los términos de la Ley Reglamentaria.
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
+
+El Congreso del Estado determinará al menos un año antes de la fecha de la elección, el ámbito territorial de los distritos electorales, en los términos de la ley reglamentaria.
 
 Para la asignación de diputados electos por el sistema de representación proporcional, la ley reglamentaria se sujetará a las bases siguientes:
 
@@ -297,7 +311,9 @@ C) La Ley determinará la fórmula electoral y los procedimientos que se observa
 
 D) Los partidos políticos tendrán derecho a que se les reconozca hasta dieciocho diputados, sumando los electos por mayoría relativa y de representación proporcional.
 
-Todos los diputados que integren el Congreso del Estado como representantes del pueblo tienen la misma categoría e iguales derechos y obligaciones. Por cada diputado de mayoría relativa y de representación proporcional habrá un suplente.
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
+
+Todos los diputados que integren el Congreso del Estado como representantes del pueblo tienen la misma categoría e iguales derechos y obligaciones. Por cada diputado de mayoría relativa habrá un suplente.
 
 > <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
 
@@ -307,21 +323,35 @@ Para ser Diputado, se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadano yucateco en el ejercicio de sus derechos;
 
-II.- Tener veintiun años cumplidos el día de la elección;
+II.- Tener veintiún años cumplidos el día de la elección;
 
-> <small>(REFORMADA, D.O. 12 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
 
-III.- No ser Gobernador del Estado, Magistrado del Tribunal Superior de Justicia, ni regidor durante el año de calendario de la elección, a menos que se separe de sus funciones 120 días antes de la elección;
+III.- No ser Gobernador del Estado, magistrado del Tribunal Superior de Justicia, ni regidor durante el año calendario de la elección, a menos que se separe de sus funciones 90 días antes de la elección;
 
 IV.- No estar en servicio activo en el Ejército Nacional, ni tener el mando de la corporación policiaca o gendarmería que corresponda al Distrito en que pretenda su elección, cuando menos durante los noventa días anteriores a ella;
 
-V.- No haber sido procesado, con sentencia condenatoria ejecutoriada por delitos del orden común que estuvieren tipificados y sancionados en el Código de Defensa Social del Estado;
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
+
+V.- No haber sido procesado con sentencia condenatoria ejecutoriada, por delitos intencionales.
 
 VI.- Haber residido en el Estado los dos años inmediatos anteriores al de la elección. La residencia o vecindad no se pierde ni se interrumpe por ausencias durante el desempeño de cargos públicos federales o estatales de elección popular, ni por la ejecución o cumplimiento, fuera de la entidad, de comisiones oficiales otorgadas por el Gobierno del Estado o por alguno de los organismos e instituciones de los que forme parte el propio Gobierno.
 
-> <small>(ADICIONADA, D.O. 12 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
 
-VII.- No Ser ministro de culto, a menos que se hubiere separado de su ministerio con la anticipación y en la forma que establece la Ley Reglamentaria del artículo 130 de la Constitución Política de los Estados Unidos Mexicanos.
+VII.- No ser ministro de culto religioso alguno, salvo que se haya separado definitivamente 5 años antes del día de la elección;
+
+> <small>(ADICIONADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
+
+VIII.- No ser magistrado o Secretario del Tribunal Electoral del Estado, a menos que se separe de sus funciones 3 años antes de la fecha de la elección;
+
+> <small>(ADICIONADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
+
+IX.- No ser Consejero ciudadano local o federal a menos que separe de sus funciones 3 años antes de la fecha de la elección; y
+
+> <small>(ADICIONADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
+
+X.- Estar inscrito en Registro Federal de Electores y contar con Credencial para Votar vigente.
 
 > <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1979)</small>
 
@@ -329,25 +359,23 @@ VII.- No Ser ministro de culto, a menos que se hubiere separado de su ministerio
 
 El cargo de Diputado es incompatible con cualquier cargo, comisión o empleo público.
 
+> <small>(ADICIONADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 24.
 
-(DEROGADO, D.O. 24 DE DICIEMBRE DE 1979)
+El organismo público a que se refiere el Apartado A del Artículo 16 de esta Constitución, declarará la validez de las elecciones de Gobernador, diputados y regidores, otorgará las constancias respectivas a los candidatos que hubiesen obtenido mayoría de votos. Asimismo, hará la declaración de validez y la asignación de diputados y regidores según el principio de representación proporcional, en los términos establecidos en el Artículo 21 de esta Constitución y en la Ley de la materia.
 
-> <small>(REFORMADO, D.O. 12 DE MARZO DE 1993)</small>
+La declaración de validez, el otorgamiento de las constancias y la asignación de diputados y regidores, podrán ser impugnados ante el Tribunal Electoral del Estado en los términos que señale la Ley. Esta establecerá los presupuestos, requisitos de procedencia y el trámite de esos medios de impugnación.
+
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 25.
 
-El Congreso del Estado calificará la elección de sus miembros a través de un colegio electoral, que se integrará con todos los presuntos diputados, que hubieran obtenido las constancias de mayoría o de representación proporcional, expedidas por el organismo electoral competente.
+La Ley reglamentaria establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y los tribunales electorales del Estado, que serán órganos jurisdiccionales en materia electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
 
-Para su instalación y funcionamiento se requiere la presencia de cuando menos la mayoría absoluta de los presuntos diputados.
+Los tribunales electorales del Estado tendrán la competencia y organización que determine la Ley. Los poderes del Estado garantizarán su debida integración.
 
-Las resoluciones de los colegios electorales del Congreso del Estado serán definitivas e inatacables.
-
-APARTADO A. DE LOS MEDIOS DE IMPUGNACION Y EL TRIBUNAL ELECTORAL.
-
-La Ley secundaria establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y el Tribunal Electoral del Estado, que será el órgano jurisdiccional en materia electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
-
-El Tribunal Electoral tendrá competencia y organización que determine la Ley, funcionará en pleno, resolverá en una sola instancia y sus sesiones serán públicas. Contra sus resoluciones no procederá juicio ni recurso alguno, pero aquellas que se dicten con posterioridad a la jornada electoral sólo podrán ser modificadas por los Colegios Electorales del Congreso del Estado, mediante el voto de las dos terceras partes de sus miembros presentes, cuando de su revisión se deduzca que existen violaciones a las reglas para la admisión y valoración de las pruebas y en la motivación del fallo, o cuando éste sea contrario a derecho.
+Las resoluciones del Tribunal Electoral del Estado a que se refiere el segundo párrafo del Artículo 24 de esta Constitución, exclusivamente podrán ser revisadas por el Tribunal Superior Electoral, mediante el recurso que los partidos políticos podrán interponer cuando hagan valer agravios debidamente fundados, por los que se pueda modificar el resultado de la elección. Los fallos del Tribunal Superior Electoral serán definitivos e inatacables.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -411,9 +439,7 @@ II.- arreglar definitivamente los límites de los municipios, terminando las dif
 
 III.- revocar los acuerdos de los Ayuntamientos, a petición del Ejecutivo del Estado, cuando sean contrarios a la Constitución Federal o a la del Estado o a cualquiera otra Ley o lesionen los intereses municipales;
 
-> <small>(REFORMADA, D.O. 12 DE MARZO DE 1993)</small>
-
-IV.- Calificar la validez de las elecciones de los ayuntamientos;
+IV.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 1994)
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -489,7 +515,7 @@ XVIII.- Nombrar y remover al Contador Mayor, al Oficial Mayor y al Tesorero del 
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1990)</small>
 
-XIX.- Autorizar al Ejecutivo del Estado, para enajenar bienes de la propiedad del Estado, en los casos que señale la Ley, que para tal efecto se expida;
+XIX.- autorizar al Ejecutivo del Estado, para enajenar bienes de la propiedad del Estado, en los casos que señale la Ley, que para tal efecto se expida;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -543,9 +569,7 @@ XXIX Bis.- Determinar el ámbito territorial de los distritos electorales del es
 
 XXX.- nombrar el día anterior al de la clausura de cada período de sesiones ordinarias, la Diputación permanente que ha de funcionar en el receso del Congreso;
 
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1989)</small>
-
-XXXI.- Erigirse en Colegio Electoral para calificar la elección de Gobernador del Estado y declarar electas las formulas de Senadores que hubieren obtenido mayoría de votos;
+XXXI.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 1994)
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -587,9 +611,7 @@ XL.- Suspender Ayuntamientos así como declarar, según el caso, que éstos han 
 
 XLI.- Revocar el mandato conferido al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia y a los diputados en lo particular, esta facultad será enteramente libre a juicio del Congreso y a mayoría de votos, excepto cuando se trate del Gobernador y de los diputados, en cuyos casos será necesario la determinación del sesenta y cinco por ciento de los electores, comunicada al Congreso y aprobada por el voto unánime de la Legislatura, cuando se trate del Gobernador, y de las dos terceras partes para el caso de los Diputados;
 
-> <small>(REFORMADA, D.O. 12 DE MARZO DE 1993)</small>
-
-XLII.- Calificar, erigido en colegio electoral, la elegibilidad, de conformidad a la ley, de las constancias de mayoría o de representación proporcional de los presuntos diputados, a fin de declarar, cuando proceda, la validez de la elección de sus miembros;
+XLII.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 1994)
 
 > <small>(REFORMADA, D.O. 12 DE MARZO DE 1993)</small>
 
@@ -791,7 +813,9 @@ La elección del Gobernador será popular directa y se hará en los términos qu
 
 Para ser Gobernador Constitucional del Estado se requiere:
 
-I.- ser ciudadano mexicano por nacimiento, en el pleno goce de sus derechos.
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
+
+I.- ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadano yucateco en el ejercicio de sus derechos.
 
 II.- ser nativo del Estado y con vecindad no menor de un año inmediatamente anterior al día de la elección. La vecindad no se pierde por desempeñar los cargos de Diputado al Congreso de la Unión o de Senador por el Estado de Yucatán;
 
@@ -801,9 +825,9 @@ III.- en caso de no ser nativo del Estado, tener residencia efectiva en él no m
 
 IV.- tener treinta años cumplidos el día de la elección.
 
-> <small>(REFORMADA, D.O. 12 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
 
-V.- no ser Ministro de culto, a menos de que se hubiere separado de su ministerio con la anticipación y en la forma que establece la ley reglamentaria del artículo 130 de la Constitución Política de los Estados Unidos Mexicanos.
+V.- no ser ministro de culto religioso alguno, salvo que se haya separado definitivamente 5 años antes del día de la elección.
 
 VI.- no estar en servicio activo, en caso de pertenecer al Ejército o Guardia Nacional, noventa días antes de la elección;
 
@@ -822,6 +846,18 @@ IX.- no tener antecedentes penales.
 > <small>(REFORMADA, D.O. 12 DE MARZO DE 1993)</small>
 
 X.- No ser Magistrado del Tribunal Superior de Justicia, diputado al Congreso del Estado o regidor a menos que se separe de su cargo 120 días antes de la elección.
+
+> <small>(ADICIONADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
+
+XI.- no ser Magistrado o Secretario del Tribunal Electoral del Estado, a menos que se separe de sus funciones 3 años antes de la fecha de la elección.
+
+> <small>(ADICIONADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
+
+XII.- no ser Consejero ciudadano local o federal a menos que se separe de sus funciones 3 años antes de la fecha de la elección; y
+
+> <small>(ADICIONADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
+
+XIII.- estar inscrito en el Registro Federal del (sic) Electores y contar con Credencial para Votar vigente.
 
 > <small>(REFORMADO, D.O.30 DE SEPTIEMBRE DE 1974)</small>
 
@@ -1199,27 +1235,41 @@ VII.- La Ley establecerá los procedimientos para suplir las faltas temporales y
 
 Para ser Regidor se requiere:
 
-A) Ser ciudadano mexicano por nacimiento en el ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
 
-B) Haber residido en el Municipio como vecino del mismo cinco años inmediatamente anteriores al día de la elección. De ser nativo del propio Municipio este plazo deberá reducirse a tres años;
+A) Ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadano yucateco en el ejercicio de sus derechos.
+
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
+
+B) Haber residido en el municipio como vecino del mismo 5 años inmediatamente anteriores al día de la elección. De ser nativo del propio municipio este plazo deberá reducirse a un año;
 
 C) Tener dieciocho años cumplidos el día de la elección, con excepción del Regidor Presidente que deberá tener veintiún años;
 
 D) Saber leer y escribir;
 
-> <small>(REFORMADO, D.O. 12 DE MARZO DE 1993)</small>
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
 
-E) No ser ministro de culto, a menos que se hubiere separado de su ministerio con la anticipación y en la forma que establece la ley reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos.
+E) No ser ministro de culto religioso, salvo que se haya separado definitivamente 5 años antes del día de la elección.
 
-> <small>(REFORMADO, D.O. 12 DE MARZO DE 1993)</small>
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
 
-F) No ser Gobernador del Estado, Magistrado del Tribunal Superior de Justicia, ni diputado al Congreso del Estado durante el año calendario de la elección, a menos que se separe de sus funciones 120 días antes de la elección;
+F) No ser Gobernador del Estado ni Magistrado del Tribunal Superior de Justicia, durante el año calendario de la elección, a menos que se separe de sus funciones 120 días antes de la elección.
 
 G) No estar en servicio activo en el Ejército Nacional, ni tener el mando de la corporación policíaca o gendarmería que corresponda al Municipio en que pretenda su elección, cuando menos durante los noventa días anteriores a ella; y
 
 H) No haber sido sentenciado por la comisión de delitos intencionales.
 
-El cargo de Regidor es incompatible con cualquier otro cargo, comisión o empleo público de la Federación o del Estado;
+> <small>(ADICIONADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
+
+I) No ser Magistrado o Secretario del Tribunal Electoral del Estado, a menos que se separe de sus funciones 3 años antes de la fecha de la elección;
+
+> <small>(ADICIONADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
+
+J) No ser Consejero ciudadano local o federal a menos que se separe de sus funciones 3 años antes de la fecha de la elección; y
+
+> <small>(ADICIONADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
+
+K) Estar inscrito en el Registro Federal del (sic) Electores y contar con Credencial para Votar vigente.
 
 > <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
 
@@ -2048,3 +2098,9 @@ Se derogan las disposiciones que contravengan éste y el Decreto 570.
 ###### ARTICULO SEGUNDO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 16 DE DICIEMBRE DE 1994.
+
+PRIMERO.- Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado.
+
+SEGUNDO.- Para la aplicación de las reformas al segundo párrafo del Artículo 21 de nuestra Carta Magna y por esta única ocasión el H. Congreso del Estado determinará el ámbito territorial de los distritos electorales dentro de los treinta días siguientes a la vigencia del presente decreto.
