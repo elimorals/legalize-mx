@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-del-estado-de-michoacan-5931"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1965-12-27"
+last_updated: "1970-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 1970.
 
 Código publicado en el Suplemento 6 del Periódico Oficial Número 34, el Jueves 30 de Julio de 1936.
 
@@ -10777,13 +10777,19 @@ En la venta de que habla el artículo 2168, mientras que no pasa la propiedad de
 
 El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1970)</small>
+
 ###### Artículo 2173.
 
-La venta de un inmueble cuyo valor en el contrato y en el catastro, no exceda de cinco mil pesos podrá hacerse en instrumento privado en los términos prevenidos por la Ley del Notariado.
+La venta de un inmueble cuyo valor en el contrato y en el catastro no exceda de cinco mil pesos, podrá hacerse constar en instrumento privado en los términos establecidos por la Ley Orgánica del Notariado.
+
+Las operaciones de compra-venta sobre bienes inmuebles o derechos reales que celebren la Federación, el Estado o los municipios entre sí, podrán otorgarse por escrito en 3 ejemplares originales firmados por los contratantes, sin requerir la intervención de notario público. Uno de los ejemplares se depositará e inscribirá en el Registro Público de la Propiedad; el otro ejemplar, se entregará a la oficina de Rentas correspondiente, como aviso de traslación de dominio y, el restante, con la nota de haber quedado inscrito en el Registro, servirá de título al comprador. Esta misma regla se utilizará cuando las entidades enunciadas contraten con particulares, siempre y cuando la operación jurídica a realizar se efectué con el fin de impulsar la construcción de la vivienda popular o constituir un patrimonio de familia.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1970)</small>
 
 ###### Artículo 2174.
 
-Si el valor del inmueble, fiscal o en venta, excede de cinco mil pesos, deberá otorgarse escritura pública.
+Si el valor fiscal o en venta del inmueble, excede de cinco mil pesos, deberá otorgarse escritura pública, salvo lo dispuesto en el segundo párrafo del artículo 2173.
 
 ### CAPITULO I. Del mutuo simple
 
@@ -13591,9 +13597,13 @@ El acreedor hipotecario puede adquirir la cosa hipotecada, en remate judicial, o
 
 Puede también convenir con el deudor en que se le adjudique en el precio que se fije al exigirse la deuda, pero no al constituirse la hipoteca. Este convenio no puede perjudicar los derechos de tercero.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1970)</small>
+
 ###### Artículo 2743.
 
-Cuando el crédito hipotecario exceda de cinco mil pesos, la hipoteca debe otorgarse en escritura pública, cuando no exceda de esa cantidad podrá otorgarse en contrato privado o en los términos de la Ley del Notariado.
+Cuando el crédito hipotecario exceda de cinco mil pesos, la hipoteca deberá otorgarse en escritura pública; si no excede de esa cantidad podrá otorgarse en instrumento privado en los términos de la Ley Orgánica del Notariado.
+
+En las operaciones de crédito con garantía hipotecaria celebradas por la Federación, el Estado o los municipios entre sí, o con particulares, se observará lo dispuesto en el párrafo segundo del artículo 2173, con la salvedad de que uno de los ejemplares del documento servirá de título al acreedor hipotecario.
 
 ###### Artículo 2744.
 
@@ -14511,8 +14521,6 @@ En todo expediente de expropiación en que haya dejado de actuarse por un térmi
 
 P.O. 30 DE NOVIEMBRE DE 1964.
 
-REPUBLICADO, P.O. 25 DE FEBRERO DE 1965.
-
 PRIMERO.- Esta Ley entrará en vigor el día 1o. de enero de 1965.
 
 SEGUNDO.- Se derogan los artículos 578, 2178 bis y 2856, fracción VI del Código Civil y cualquiera otra disposición legal que se oponga a la presente.
@@ -14520,3 +14528,7 @@ SEGUNDO.- Se derogan los artículos 578, 2178 bis y 2856, fracción VI del Códi
 P.O. 27 DE DICIEMBRE DE 1965.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE AGOSTO DE 1970.
+
+UNICO.- El presente Decreto entrará en vigor, desde la fecha de su publicación en el Periódico Oficial de la Entidad.
