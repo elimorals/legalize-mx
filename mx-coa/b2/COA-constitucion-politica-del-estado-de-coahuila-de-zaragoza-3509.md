@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1942-09-16"
+last_updated: "1943-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 1942.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 1943.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -190,7 +190,7 @@ II. Asociarse pacíficamente para tratar de asuntos políticos del Estado y ejer
 
 ###### Artículo 20.
 
-El ejercicio de los derechos de ciudadanos coahuilense (sic) se suspenden:
+El ejercicio de los derechos de ciudadano (sic) coahuilenses se suspenden:
 
 I. Por sentencia ejecutoria que condene a la suspensión de esos derechos, por el tiempo que ella fije.
 
@@ -278,11 +278,11 @@ Elección e Instalación.
 
 Se deposita el ejercicio del Poder Legislativo en una Asamblea que se denominará Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1929)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1943)</small>
 
 ###### Artículo 33.
 
-El Congreso del Estado se compondrá cuando menos de nueve diputados, electos en su totalidad cada dos años por los Ciudadanos coahuilenses.
+El Congreso del Estado se compondrá cuando menos de nueve diputados electos en su totalidad cada tres años por los ciudadanos Coahuilenses.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1942)</small>
 
@@ -658,9 +658,11 @@ VI. No haber figurado directa ni indirectamente en alguna asonada, motín o cuar
 
 VII. No haber sido condenado en juicio por robo, fraude, abuso de confianza, falsificación u otro delito infamante.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1943)</small>
+
 ###### Artículo 77.
 
-La elección de Gobernador será directa cada cuatro años. Tomará posesión el primero de Diciembre posterior a la elección y nunca podrá ser reelecto.
+La Elección de Gobernador será directa cada seis años. Tomará posesión el primero de Diciembre posterior a la elección y nunca podrá ser reelecto.
 
 ###### Artículo 78.
 
@@ -1699,3 +1701,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 16 DE SEPTIEMBRE DE 1942.
 
 TRANSITORIOS:- Los Ayuntamientos que se elijan el primero de noviembre próximo, durarán en funciones el término de tres años, de conformidad con la reforma al Artículo 124 de la Constitución Política Local, hecha en este Decreto.
+
+P.O. 27 DE FEBRERO DE 1943.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
