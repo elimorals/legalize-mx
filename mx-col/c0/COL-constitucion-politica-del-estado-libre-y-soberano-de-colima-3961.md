@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1996-09-14"
+last_updated: "1997-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1997.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -831,11 +831,11 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 V.- Haber residido en el país durante los últimos cinco años, salvo el caso de ausencia al servicio de la República, o por motivo de estudio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 1997)</small>
 
 ###### Artículo 70.
 
-Los nombramientos de los Magistrados del Supremo Tribunal de Justicia serán hechos por el Gobernador del Estado, y sometidos a la aprobación del Congreso, el que otorgará o negará esa aprobación dentro del improrrogable término de diez días. Sin la aprobación del Congreso no podrán tomar posesión los Magistrados nombrados.
+Los nombramientos de los Magistrados del Supremo Tribunal de Justicia serán hechos por el Gobernador del Estado, y sometidos a la aprobación del Congreso, el que otorgará o negará esa aprobación dentro del improrrogable término de diez días.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
 
@@ -949,11 +949,9 @@ El Tribunal estará integrado por un Magistrado propietario y los supernumerario
 
 La Ley Orgánica del Tribunal de lo Contencioso Administrativo que al efecto se expida, establecerá las normas para su organización y funcionamiento; los procedimientos y los recursos contra las resoluciones que dicte.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 25 DE JUNIO DE 1988)</small>
-
 ###### Artículo 78.
 
-Para el conocimiento, por parte de dicho Tribunal, de las controversias administrativas y fiscales de índole municipal, se requerirá de previo convenio que celebren los Ayuntamientos, con el Ejecutivo del Estado.
+(DEROGADO, P.O. 15 DE FEBRERO DE 1997)
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -1211,11 +1209,11 @@ El Estado estará facultado para celebrar esos convenios con sus municipios, a e
 
 Las Juntas y los Comisarios Municipales durarán en su cargo tres años.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1997)</small>
 
 ###### Artículo 89.
 
-Para ser miembro de un Ayuntamiento se necesita ser ciudadano mexicano por nacimiento, tener veintiún años cumplidos y contar con una residencia en el municipio no menor de tres años antes del día de la elección, tener un modo lícito de vivir y una preparación suficiente para desempeñar el cargo, así como llenar los demás requisitos que establezca la ley relativa. El cargo de miembro de un Ayuntamiento no puede recaer en los servidores públicos en ejercicio de la Federación y el Estado, ni estar en servicio activo de las fuerzas armadas y de los cuerpos de seguridad pública, a menos que se separen con noventa días antes de la fecha de la elección.
+Para ser miembro de un Ayuntamiento se necesita ser ciudadano mexicano por nacimiento, tener veintiún años cumplidos y contar con una residencia en el municipio no menor de tres años antes del día de la elección, tener un modo honesto de vivir y una preparación suficiente para desempeñar el cargo, así como llenar los demás requisitos que establezca la ley relativa. El cargo de miembro de un Ayuntamiento no puede recaer en los servidores públicos en ejercicio de la Federación y el Estado, así como de organismos descentralizados y empresas de participación estatal de cualquiera de los dos órdenes de gobierno, ni estar en servicio activo de las fuerzas armadas y de los cuerpos de seguridad pública, a menos que se separen con noventa días antes de la fecha de la elección.
 
 ###### Artículo 90.
 
@@ -1243,11 +1241,11 @@ Todo partido político que alcance por lo menos el 1.5% del total de la votació
 
 Los Ayuntamientos estarán obligados a remitir anualmente al Congreso del Estado para su aprobación, sus proyectos de leyes de ingresos, durante la primera quincena del mes de noviembre.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1997)</small>
 
 ###### Artículo 93.
 
-Aprobado por el Cabildo el gasto público ejercido el año anterior, los Ayuntamientos estarán obligados a remitir la cuenta pública para su revisión al Congreso del Estado a más tardar el quince de abril.
+Aprobado por el Cabildo el gasto público ejercido el año anterior, los Ayuntamientos estarán obligados a remitir la cuenta pública para su revisión al Congreso del Estado a más tardar el día último de febrero.
 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
@@ -1315,11 +1313,11 @@ La Universidad de Colima es un organismo público descentralizado, dotado de per
 
 EL (sic) ejercicio de las profesiones en el Estado de Colima se regirá por las disposiciones contenidas en la ley reglamentaria correspondiente.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1942)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1997)</small>
 
 ###### Artículo 103.
 
-Para la expedición de Fiats de Notarios, no se requiere examen especial, pero el solicitante deberá ser Abogado con título oficial del Estado o legalmente reconocido y poseer una práctica forense de cinco años. El Ejecutivo queda facultado para expedir los Fiats de acuerdo con la Ley relativa, la que fijará el número de notarios que puedan ejercer en el Estado.
+Para la expedición de fiats de Notarios, el solicitante deberá ser abogado con título oficial del Estado o legalmente reconocido y poseer una práctica forense de cinco años, presentar examen de oposición y cumplir con los demás requisitos que determine la Ley. El Ejecutivo queda facultado para expedir los fiats de acuerdo con la ley relativa, la que fijará el número de Notarios que puedan ejercer en el Estado.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -1457,11 +1455,11 @@ El Gobernador del Estado, los Diputados a la Legislatura Local y los Magistrados
 
 Se concede acción popular para exigir la responsabilidad de los funcionarios y empleados públicos, a excepción de la que provenga de delitos en que se requiera la querella necesaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 1997)</small>
 
 ###### Artículo 121.
 
-Siempre que se trate de un delito del orden común cometido por los Diputados, el Gobernador, los Magistrados del Poder Judicial, del Tribunal Electoral y el del Tribunal de lo Contencioso Administrativo, los Secretarios de la Administración Pública Estatal, el Procurador General de Justicia, los Munícipes, así como los Consejeros Electorales del Instituto Electoral, el Congreso del Estado, erigido en Gran Jurado, declarará a mayoría absoluta de votos si ha o no lugar a proceder contra el inculpado.
+Siempre que se trate de un delito de orden común cometido por los Diputados, el Gobernador, los Magistrados del Poder Judicial, del Tribunal Electoral y el del Tribunal de lo Contencioso Administrativo, los Secretarios de la Administración Pública Estatal, el Procurador General de Justicia, el Presidente de la Comisión de Derechos Humanos del Estado, los Munícipes, así como los Consejeros Electorales del Instituto Electoral, el Congreso del Estado, erigido en Gran Jurado, declarará a mayoría absoluta de votos si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -1569,11 +1567,11 @@ Toda elección popular será directa en los términos de la ley.
 
 Se prohibe ejercer simultáneamente dos o más cargos de elección popular; pero el ciudadano electo deberá optar por uno u otro de dichos cargos.
 
-(REFORMADO, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 1932)
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1997)</small>
 
 ###### Artículo 138.
 
-Todo cargo o empleo público es incompatible con cualquiera otro de la Federación, del Estado o de los Municipios, cuando por ellos se perciba sueldo, exceptuándose los de los Ramos de Instrucción, de Beneficencia Pública o los honoríficos en asociaciones científicas o literarias.
+Todo cargo o empleo público es incompatible con cualquiera de la Federación, del Estado, de los Municipios o de organismos descentralizados y empresas de participación estatal de cualquiera de los tres órdenes de gobierno, cuando por ellos se perciba sueldo, exceptuándose los de los ramos de Instrucción, de Beneficencia Pública o los honoríficos en asociaciones científicas o literarias.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -1642,8 +1640,6 @@ Queda para siempre abolida en el Estado la pena de muerte por los delitos del or
 ###### Artículo 151.
 
 El Congreso del Estado no podrá reconocer, bajo ningún concepto a los militares o civiles que escalaren el Poder Ejecutivo de la Unión o del Estado, por medio de alguna asonada, motín o cuartelazo. Tampoco podrá reconocer la renuncia de dichos funcionarios que se hubiere obtenido por medio de la fuerza o coacción.
-
-> <small>N. DE E. ES DE OBSERVARSE QUE EN EL DECRETO No. 252 DE FECHA P.O. 26 DE MARZO DE 1994, EL LEGISLADOR NO DEROGA EXPRESAMENTE EL PRESENTE TITULO; MOTIVO POR EL CUAL, SE SIGUE MANTENIENDO.</small>
 
 ## TITULO XII.
 
@@ -2214,3 +2210,7 @@ En tanto se hacen los nombramientos o se reforma la ley de la materia, el Consej
 ###### ARTICULO CUARTO.
 
 En tanto se expiden o reforman las leyes correspondientes, el Tribunal Electoral del Estado seguirá ejerciendo las competencias y funciones que actualmente le señala la Ley Electoral del Estado.
+
+P.O. 15 DE FEBRERO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
