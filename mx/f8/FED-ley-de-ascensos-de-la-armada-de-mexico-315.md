@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ascensos-de-la-armada-de-mexico-315"
 country: "mx"
 rank: "ley"
 publication_date: "1985-01-14"
-last_updated: "1985-01-14"
+last_updated: "2004-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=315&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LAAM"
 
 LEY DE ASCENSOS DE LA ARMADA DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE ASCENSOS DE LA ARMADA DE MEXICO, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 25 DE JUNIO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el lunes 14 de enero de 1985.
 
@@ -467,3 +469,19 @@ La Presente Ley entrará en vigor a los treinta días posteriores a la fecha de 
 México, D.F., a 13 de diciembre de 1984.- Celso Humberto Delgado Ramírez, S.P.- Enrique Soto Izquierdo, D.P.- Rafael Armando Herrera Morales, S.S.- Arturo Contreras Cuevas, D.S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de diciembre de mil novecientos ochenta y cuatro.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Marina, Miguel Angel Gómez Ortega.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+D.O.F. 25 DE JUNIO DE 2004.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y abroga la Ley de Ascensos de la Armada de México publicada el 14 de enero de 1985.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+El personal que al momento de entrar en vigor la presente Ley, ostente la categoría de Capitán de la milicia auxiliar, continuará sujeto a las disposiciones aplicables de la Ley de Ascensos de la Armada de México publicada en el Diario Oficial de la Federación el 24 de diciembre de 1984, y la Ley Orgánica de la Armada de México reformada y adicionada el 24 diciembre de 1993 y el 12 de diciembre de 1995, hasta pasar a situación del retiro o causar baja en los términos que establecen las disposiciones aplicables.
