@@ -4,7 +4,7 @@ identifier: "FED-ley-general-que-establece-las-bases-de-coordinacion-del-2571"
 country: "mx"
 rank: "ley_general"
 publication_date: "1995-12-11"
-last_updated: "2000-11-30"
+last_updated: "2004-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2571&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1995-12-08"
 
 LEY GENERAL QUE ESTABLECE LAS BASES DE COORDINACION DEL SISTEMA NACIONAL DE SEGURIDAD PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE AGOSTO DE 2004.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 11 de diciembre de 1995.
 
@@ -151,9 +151,11 @@ VII. El Jefe del Gobierno del Distrito Federal; y
 
 VIII. El Secretario Ejecutivo del Sistema Nacional de Seguridad Pública.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 13.
 
-Para el conocimiento de las distintas materias de coordinación a que se refiere esta ley, el Sistema Nacional de Seguridad Pública contará con las conferencias de prevención y de readaptación social, la de procuración de justicia y la de participación municipal. También podrá formar las comisiones necesarias para las diferentes áreas de la materia y en particular, para el estudio especializado de las incidencias delictivas; en ellas podrán participar las dependencias y entidades de la Federación, los Estados, el Distrito Federal y los Municipios que, por razón de su competencia, tengan relación con el Sistema Nacional.
+Para el conocimiento de las distintas materias de coordinación a que se refiere esta ley, el Sistema Nacional de Seguridad Pública contará con las conferencias de prevención y de readaptación social, la de procuración de justicia, la de secretarios de seguridad pública o sus equivalentes y la de participación municipal. También podrá formar las comisiones necesarias para las diferentes áreas de la materia y en particular, para el estudio especializado de las incidencias delictivas; en ellas podrán participar las dependencias y entidades de la Federación, los Estados, el Distrito Federal y los Municipios que, por razón de su competencia, tengan relación con el Sistema Nacional.
 
 Con la misma finalidad, se invitará a expertos, instituciones académicas, de investigación y agrupaciones del sector social y privado relacionadas con la materia.
 
@@ -526,3 +528,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE AGOSTO DE 2004.
+
+Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
