@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "1975-02-01"
+last_updated: "1977-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1º. DE FEBRERO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 1977.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -5225,6 +5225,12 @@ DE LA JURISDICCION VOLUNTARIA.
 
 ## TITULO UNICO
 
+### CAPITULO UNICO
+
+ACCIONES AL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NUEVO LEON.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1977)</small>
+
 ###### Artículo 902.
 
 La jurisdicción voluntaria comprende todos los actos en que por disposición de la ley o por solicitud de los interesados se requiere la intervención del juez sin que esté promovida ni se promueva cuestión alguna entre partes determinadas.
@@ -5585,6 +5591,40 @@ III.- La calificación de la excusa de la patria potestad en los casos a que se 
 
 La mujer menor de edad que deseando contraer matrimonio necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar su depósito.
 
+> <small>(ADICIONADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 1977)</small>
+
+# LIBRO QUINTO
+
+DE LOS ASUNTOS DEL ORDEN FAMILIAR.
+
+> <small>(ADICIONADO CON LOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 1977)</small>
+
+## TITULO UNICO
+
+> <small>(ADICIONADO CON LOS, ARTICULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 1977)</small>
+
+###### Artículo 952.
+
+Todos los problemas inherentes a la familia se consideran de orden público, por constituir aquélla la base de la integración de la sociedad.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1977)</small>
+
+###### Artículo 953.
+
+Los Jueces de lo Familiar conocerán con los procedimientos, reglas y términos de este Código de Procedimientos Civiles, de los asuntos de su competencia previstos en la Ley Orgánica del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1977)</small>
+
+###### Artículo 954.
+
+En los asuntos de su competencia, los Jueces de lo Familiar siempre podrán exhortar a los interesados a la conciliación y a resolver sus diferencias mediante convenio.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1977)</small>
+
+###### Artículo 955.
+
+En los negocios de que conozcan los Jueces de lo Familiar, será optativo para las partes acudir asesoradas. El asesoramiento deberá recaer siempre en Licenciados en Derecho con cédula profesional. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un defensor de oficio, el que deberá acudir, desde luego, a enterarse del asunto, disfrutando para ello de un término que no podrá exceder de tres días, en cuyo caso se prorrogará, el término que se hubiese concedido para el ejercicio de algún derecho.
+
 TITULO ESPECIAL
 
 DE LA JUSTICIA DE PAZ.
@@ -5864,3 +5904,21 @@ Los negocios actualmente en trámite en la Salas del Tribunal Superior de Justic
 ###### Artículo 4º.
 
 Se derogan todas las disposiciones que se opongan a la presente reforma.
+
+P.O. 24 DE AGOSTO DE 1977.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día primero de diciembre del presente año.
+
+SEGUNDO.- Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
+
+a).- Cada juzgado formulará el inventario de los citados asuntos.
+
+b).- Una vez obtenido el número total de dichos asuntos en los cuatro juzgados indicados, los negocios se turnarán a los juzgados 4º. , 6º. Y 7º. , Guardando en ello la mayor parte y mejor proporción en número a fin de evitar notables diferenciales que entorpecieran el rápido desenvolvimiento de los negocios que a cada uno corresponda.
+
+c).- El inventario y distribución a que se alude en los incisos anteriores, que serán vigilados y controlados por el Presidente del Tribunal Superior de Justicia con el auxilio del resto de los Magistrados deberán quedar concluidos ambos en un plazo que no exceda de 15 días hábiles, a contar de la fecha en que entran en vigor las presentes reformas.
+
+TERCERO.- Los negocios que no sean del orden familiar, actualmente en trámite en el juzgado 4º. del ramo civil se inventariarán en la forma y en el término a que se refiere el artículo anterior, aplicable en lo conducente para que dichos negocios se turnen en igual proporción a los juzgados 1º. , 2º. 3. y 5º.
+
+CUARTO.- Los términos que estén concedidos y transcurriendo en los asuntos citados en los artículos 2º. Y 3º. Transitorios, quedarán interrumpidos desde que se inicien los quince días del inventario y distribución, reanudándose al siguiente día hábil de aquel en que cause estado el auto de recepción del negocio que dicte el nuevo juez del conocimiento.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
