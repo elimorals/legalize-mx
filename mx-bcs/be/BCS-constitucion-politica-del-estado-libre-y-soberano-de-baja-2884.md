@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2000-12-31"
+last_updated: "2001-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2001.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -507,9 +507,9 @@ Las Leyes expedidas por el Congreso del Estado, excepto las de carácter tributa
 
 La ley establecerá el procedimiento a que se sujetará la organización de referéndum.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 30 DE ABRIL DE 1981)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-#### SECCION IV (SIC). DE LAS FACULTADES DEL CONGRESO
+#### SECCION V. DE LAS FACULTADES DEL CONGRESO
 
 64.- Son facultades del Congreso del Estado:
 
@@ -519,7 +519,7 @@ II.- Expedir leyes reglamentarias y ejercer las facultades que le otorga la Cons
 
 III.- Iniciar leyes y decretos ante el Congreso de la Unión;
 
-IV.- Formular su Ley Reglamentaria, así comola de la Contaduría Mayor de Hacienda;
+IV.- Formular su Ley Reglamentaria, así como la de la Contaduría Mayor de Hacienda;
 
 > <small>(REFORMADA, B.O. 18 DE JUNIO DE 1998)</small>
 
@@ -601,25 +601,27 @@ XXXI.- Aprobar el Presupuesto de Egresos y fijar las contribuciones para cubrirl
 
 XXXII.- Informarse de las facultades del Gobernador cuando éste tome medidas de emergencia en caso de desastre;
 
-> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-XXXIII.- Aprobar y decretar las Leyes de Hacienda y de Ingresos Municipales, tomando en consideración su independencia económica y revisar sus Cuentas Públicas.
+XXXIII.- Aprobar y decretar las Leyes de Hacienda y de Ingresos Municipales, tomando en consideración su independencia económica, revisar y fiscalizar sus cuentas públicas
 
-Autorizar a los Ayuntamientos del Estado para contratar empréstitos o financiamientos, destinados a la ejecución de obras que sean necesarias para la prestación de los servidores públicos que correspondan.
+Aprobar la contratación de empréstitos a los Ayuntamientos del Estado en los términos de la Ley de deuda Pública para el Estado de Baja California Sur y sus Municipios.
 
 XXXIV.- Decretar la Ley Orgánica Municipal;
 
 XXXV.- Crear o suprimir municipios y reformar la división política del Estado mediante el voto de las dos terceras partes de la totalidad de los diputados;
 
-XXXVI.- Resolver los conflictos que surjan entre los ayuntamientos entre sí y entre éstos y los demás poderes del Estado;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+XXXVI.- Emitir las normas que establezcan los procedimientos mediante los cuales se resolverán los conflictos que se presentan entre los Ayuntamientos entre sí, y entre estos y el poder Ejecutivo del Estado por motivo de la celebración de convenios, el ejercicio de sus funciones y la prestación de servicios públicos municipales;
 
 > <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
 XXXVII.- Suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato de alguno de sus miembros por alguno de los casos previstos en la Ley, mediante el voto de las dos terceras partes de la totalidad de los integrantes del Congreso del Estado.
 
-> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-XXXVIII.- Designar a propuesta del Gobernador, los integrantes de los Concejos Municipales, de entre los vecinos de los municipios.
+XXXVIII.- En caso de declararse desintegrado un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos, el Congreso del Estado designará a un Concejo Municipal, el cual estará integrado por el mismo número de miembros del ayuntamiento y se elegirá de entre las propuestas de hasta 10 ciudadanos quienes deberán cumplir con los requisitos de elegibilidad para los regidores, que presenten ante el Congreso del Estado cada una de las fracciones parlamentarias.
 
 XXXIX.- Expedir la ley de expropiación por causa de utilidad pública;
 
@@ -629,13 +631,13 @@ XLI.- Determinar el patrimonio familiar señalando los bienes que lo integran, s
 
 XLII.- Legislar sobre seguridad social, teniendo como objetivo permanente la superación del nivel de vida de la población, mejoramiento de su salud y el saneamiento del medio ambiente; y (sic)
 
-> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-XLIII.- Autorizar a los Ayuntamientos del Estado a celebrar convenios entre sí y con el Gobierno del Estado, para la ejecución de obras y prestación de servicios públicos.
+XLIII.- Autorizar a los Ayuntamientos del Estado a celebrar convenios entre sí, con el Gobierno del Estado y con Ayuntamientos de otros Estados para ejecución de obras y prestación de Servicios Públicos, así como emitir el procedimiento y condiciones para que el Gobierno Estatal asuma temporalmente una función o servicio municipal, previa solicitud del Ayuntamiento respectivo, aprobado por cuando menos dos terceras partes de sus integrantes, cuando al no existir el convenio correspondiente, el Congreso del Estado, considere que el Ayuntamiento de que se trate esté imposibilitado para ejercerlas o prestarlas.
 
-> <small>(REFORMADA, B.O. 20 DE MAYO DE 1994)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-XLIV.- Expedir la ley que instituya el Tribunal Unitario de lo Contencioso Administrativo del Estado, dotado de plena autonomía para dictar sus fallos, que tenga a su cargo dirimir las controversias que se susciten entre la Administración Pública Estatal o Municipal y los particulares y establezca las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones;
+XLIV.- Expedir leyes que instituyan el Tribunal Unitario de lo Contencioso Administrativo del Estado y de los Ayuntamientos de la Entidad, dotados de plena autonomía para dictar sus fallos, mismos que tendrán a su cargo dirimir las controversias que se susciten entre las administraciones públicas estatal y municipales y las particulares, y establezcan las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
 
 > <small>(ADICIONADA, B.O. 20 DE MAYO DE 1994)</small>
 
@@ -681,7 +683,7 @@ VI.- Conceder licencia al Gobernador del Estado cuando no sea por periodo mayor 
 
 VII.- Nombrar Gobernador Provisional en los casos previstos en esta Constitución;
 
-VIII.- Designar, a propuesta del Gobernador, a los miembros de los Concejos Municipales;
+VIII.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2001)
 
 IX.- (DEROGADA, B.O. 6 DE ABRIL DE 1999)
 
@@ -749,7 +751,9 @@ Tampoco podrá ocupar el cargo, para el período inmediato, el Gobernador Interi
 
 #### SECCION II. DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
-79.- Son facultades y obligaciones del Gobernador:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+79.- Son Facultades y Obligaciones del Gobernador:
 
 I.- Publicar, cumplir y hacer cumplir las leyes federales;
 
@@ -781,13 +785,13 @@ X.- Solicitar la protección de los Poderes de la Unión, de conformidad con el 
 
 XI.- Ejercer el derecho de veto en los términos de esta Constitución;
 
-> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-XII.- Coordinar los cuerpos de seguridad pública en el Estado y tener bajo su mando la fuerza pública de los Municipios donde resida habitual o transitoriamente.
+XII.- Coordinar los cuerpos de Seguridad Pública del Estado y dar ordenes a la Policía Preventiva Municipal en los casos que este juzgue como de fuerza mayor o alteración grave del orden público;
 
 XIII.- Ejercer las facultades que le otorga la Constitución Federal en relación a la Guardia Nacional;
 
-XIV.- Proponer al Congreso del Estado o a la Diputación Permanente, en su caso, la integración de los Concejos Municipales, en los casos que señala esta Constitución;
+XIV.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2001)
 
 XV.- Representar al Estado en las comisiones federales y en las comisiones interestatales regionales;
 
@@ -825,9 +829,9 @@ XXVII.- Participar con los ayuntamientos en la planificación del crecimiento de
 
 XXVIII.- Mejorar las condiciones económicas y sociales de vida de los campesinos, fomentando en ellos el arraigo a sus lugares de residencia;
 
-> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-XXIX.- Celebrar convenios con el Gobierno Federal y con los Ayuntamientos del Estado, para coordinar sus atribuciones en materias concurrentes, así como para la prestación eficaz de servicios públicos y asumir la prestación de los mismos, cuando el bienestar común así lo exija, satisfaciendo las formalidades exigidas por esta Constitución y las Leyes que de ella emanen.
+XXIX.- Celebrar convenios con el Gobierno Federal y con los Ayuntamientos del Estado para coordinar sus atribuciones en materias concurrentes, así como para la prestación eficaz de funciones y servicios públicos, y asumir la prestación temporal de los mismos, cuando los Ayuntamientos así lo soliciten, satisfaciendo las formalidades exigidas por esta Constitución y las Leyes que de ella emanen.
 
 XXX.- Conocer de las designaciones que haga el Procurador y el Presidente del Tribunal Superior de Justicia;
 
@@ -967,7 +971,11 @@ Este organismo que establezca el Congreso de la Unión conocerá de las inconfor
 
 #### SECCION I. DE LOS TITULARES DEL GOBIERNO MUNICIPAL
 
-149.- Corresponde al Presidente, Síndico y Regidores el ejercicio del gobierno municipal y la representación de los intereses de la comunidad.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+149.- Corresponde al Presidente, Síndico y Regidores el ejercicio del Gobierno Municipal y a la representación de los intereses de la comunidad. Y en los casos que señala el Artículo 144 de esta Constitución, a los Concejos Municipales.
+
+> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO III. DEL PODER JUDICIAL
 
@@ -1187,9 +1195,15 @@ II.- Los ingresos que adquiera por concepto de convenios, participaciones legale
 
 ### CAPITULO I. CONCEPTOS Y FINES
 
-117.- El Municipio Libre es una entidad de carácter público dotada de personalidad jurídica y patrimonio propio, autónoma en su régimen interior y con libre administración de su hacienda.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-118.- Cada Municipio será administrado por un ayuntamiento de elección popular directa en los términos de la Ley Electoral y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+117.- El Municipio es la entidad local básica de la organización territorial del Estado; es la institución jurídica, política y social, de carácter autónomo, con autoridades propias, atribuciones específicas y libre en la administración de su hacienda. Su finalidad consiste en organizar a la comunidad asentada en su territorio en la gestión de sus intereses y la satisfacción de sus necesidades colectivas, tendientes a lograr su desarrollo integral y sustentable; proteger y fomentar los valores de la convivencia local y ejercer las funciones en la prestación de los Servicios Públicos de su competencia.
+
+El Municipio posee personalidad jurídica y patrimonio propio y goza de plena autonomía para normar directa y libremente las materias de su competencia, así como para establecer sus órganos de gobierno interior.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+118.- Cada Municipio será gobernado por un ayuntamiento de elección popular directa, en los términos de la Ley Electoral del Estado de Baja California Sur y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
 > <small>(REFORMADO, B.O. 30 DE ABRIL DE 1981)</small>
 
@@ -1271,13 +1285,15 @@ Cuando la solicitud provenga de los Ciudadanos, el procedimiento se sujetará a 
 
 123.- El Congreso del Estado podrá declarar la supresión de un municipio y la posterior fusión de sus elementos, cuando en él dejen de concurrir las condiciones requeridad (sic) para su creación.
 
-124.- El Gobierno del Estado, cuando lo considere conveniente, podrá promover de común acuerdo con los ayuntamientos respectivos, la fusión de comunidades para crear otras de mayor extensión que permitan integrar a los núcleos aislados de población con el objeto de ejecutar programas de desarrollo general.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+124.- El Gobierno del Estado y los Ayuntamientos de la entidad conjuntamente o por separado podrán promover la fusión de comunidades para crear otras de mayor extensión que permitan integrar a los núcleos aislados de población con el objeto de ejecutar programas de desarrollo general, siempre y cuando pertenezcan al mismo municipio.
 
 125.- Los conflictos de límites que se susciten entre las diversas circunscripciones municipales del Estado se podrán resolver mediante convenios amistosos que al efecto celebren con aprobación del Congreso del Estado. Cuando dichas diferencias tengan carácter contencioso, conocerá de ellas el Tribunal Superior de Justicia.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 16 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-126.- Los Municipios del Estado podrán asociarse entre sí o con el Gobierno del Estado, para constituir corporaciones que tengan por objeto:
+126.- Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de sus funciones que le corresponden, si se trata de Municipios de dos o más Estados, deberán de contar con la aprobación de las Legislaturas de los Estados, para constituir corporaciones que tengan por objeto:
 
 I.- El estudio de los problemas locales;
 
@@ -1289,9 +1305,9 @@ IV.- La capacitación de sus funcionarios y empleados;
 
 V.- La instrumentación de programas de urbanismo y planeación del crecimiento de sus ciudades; y (sic)
 
-> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-VI.- La realización y construcción de obras y la prestación de servicios públicos.
+VI.- La realización y construcción de obras, y la prestación de los Servicios Públicos o el mejor ejercicio de las funciones que le corresponden; y
 
 > <small>(ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
@@ -1321,13 +1337,19 @@ III.- Los muebles normalmente insustituibles como son los expedientes de las ofi
 
 132.- Los bienes de dominio privado podrán ser enajenados mediante acuerdo del ayuntamiento.
 
-133.- La hacienda de los municipios del Estado, se formará con las percepciones que establezca su ley de ingresos y demás disposiciones relativas y las que adquiera por concepto de participación de impuestos federales y estatales, convenios, legados, donaciones o por cualquier otra causa.
-
 ### CAPITULO V. DEL GOBIERNO MUNICIPAL
 
 CONCEPTO E INTEGRACION
 
-134.- El ayuntamiento es el órgano de gobierno municipal a través del cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
+> <small>(REFORMADO Y REUBICADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+133.- La Hacienda de los Municipios del Estado, se formará con las percepciones que establezca su Ley de Ingresos y demás disposiciones relativas, y las que adquiera por concepto de participación de impuestos federales y estatales, convenios, legados, donaciones o por cualquier otra causa. Los recursos que integran la Hacienda Pública Municipal, serán ejercidos y administrados en forma libre y directa por los Ayuntamientos, o bien, por quienes ellos autoricen, conforme a la Ley.
+
+Estarán exentos de pagar las contribuciones a que se refieren los incisos a) y c) del artículo 115 fracción IV de la Constitución General de la República los bienes de dominio público de la Federación, del (sic) los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los del objeto público.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+134.- El Ayuntamiento es el órgano municipal de Gobierno a través del cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
 
 > <small>(REFORMADO, B.O. 11 DE JUNIO DE 1992)</small>
 
@@ -1397,7 +1419,9 @@ VI.- No pertenecer al estado eclesiástico ni ser ministro de cualquier culto, a
 
 144.- Cuando no se hubiere verificado la elección en la fecha que debe renovarse el ayuntamiento, o efectuada ésta, no se presente el ayuntamiento a tomar posesión de su cargo, el Gobernador propondrá al Congreso un Concejo Municipal que se encargará provisionalmente de las funciones del ayuntamiento y se convocará a elecciones extraordinarias, las que, en caso de juzgarse necesarias, deberán celebrarse en un plazo no mayor de 45 días.
 
-El mismo procedimiento se seguirá cuando la elección se declare nula o cuando por cualquier causa desaparezcan los poderes del ayuntamiento dentro de los dos primeros años de su ejercicio.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso del Estado designará de entre los vecinos al Concejo Municipal que concluirá los períodos respectivos este Concejo estará integrado por el número de miembros que establece la fracción XXXVIII del artículo 64 de esta Constitución, quiénes deberán cumplir con los requisitos de elegibilidad establecidos para regidores.
 
 Cuando la desaparición de poderes se dé en el último año del período de gobierno municipal, el Congreso del Estado o la Comisión Permanente, en su caso, a propuesta del Gobernador nombrará una Junta de Gobierno Municipal, que concluirá el período de gobierno.
 
@@ -1413,39 +1437,61 @@ Si no se presentan transcurrido este plazo, los suplentes entrarán en ejercicio
 
 ### CAPITULO VIII. DE LAS FACULTADES Y OBLIGACIONES DEL AYUNTAMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
-148.- Son facultades y obligaciones del Ayuntamiento:
+148.- Son Facultades y obligaciones de los Ayuntamientos:
 
 I.- Cumplir y hacer cumplir las leyes, decretos y disposiciones federales, estatales y municipales;
 
-> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-II.- Expedir en el ámbito de su competencia, sus Bandos de Policía y Buen Gobierno, así como de los reglamentos, circulares y disposiciones administrativas de observancia general, dentro de sus jurisdicciones, conforme a la Ley de la materia.
+II.- Aprobar y expedir en el ámbito de su competencia los bandos de Policía y buen Gobierno; los Reglamentos, Circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la Administración Pública Municipal, regulen las materias, procedimientos, funciones y Servicios Públicos de su competencia que procuren la participación ciudadana y vecinal.
 
 III.- Conceder licencia a sus miembros hasta por treinta días y llamar a quienes deban suplirlos;
 
 IV.- Designar al Regidor que deba sustituir al Presidente Municipal en caso de falta absoluta de éste y su suplente, y llamar a los suplentes del Síndico o Regidores en los casos de falta absoluta de éstos;
 
-> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-V.- Mantener los servicios de seguridad pública y tránsito municipal.
+V.- Mantener los servicios de Seguridad Pública, Policía Preventiva y de Transitó Municipales.
 
 VI.- Establecer en el territorio del municipio las delegaciones y subdelegaciones que sean necesarias;
 
-> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-VII.- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, participando con las Autoridades Federales y Estatales, en el ámbito de su competencia, en la creación y administración de sus reservas territoriales y ecológicas, así como controlar y vigilar la utilización del suelo dentro de su jurisdicción e intervenir en la regularización de la tenencia de la tierra urbana.
+VII.- Formular, aprobar y administrar la zonificación y planes de Desarrollo Urbano Municipal, así como de los Asentamientos Humanos; en el ámbito de su competencia; proteger, preservar y restaurar el equilibrio ecológico conforme a los (sic) dispuesto en la Fracción XXIX-G del artículo 73 de la Constitución General de la República, así como su regularización de la tenencia de la tierra en el ámbito de su competencia, y otorgar licencias y permisos para construcciones.
 
 VIII.- Proceder conforme a la Ley sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas, con auxilio del Instituto correspondiente, para ordenar la suspensión provisional de las obras de restauración y conservación de bienes declarados monumentos, y que se ejecuten sin la autorización o permiso correspondiente;
 
-IX.- Promover el mejoramiento de los servicios y el acrecentamiento del patrimonio municipa (sic);
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+IX.- Promover el mejoramiento de las funciones y Servicios Públicos, y el acrecentamiento del patrimonio Municipal.
+
+Las funciones y servicios públicos que el Municipio tendrá a su cargo serán los siguientes:
+
+a) Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
+
+b) Alumbrado Público;
+
+c) Seguridad Pública en los términos del Articulo 21 de la Constitución Política de los Estados Unidos Mexicanos, Policía preventiva y de Tránsito Municipales,
+
+d) Limpia, recolección, traslado, tratamiento y disposición final de residuos;
+
+e) Mercados públicos y centrales de abastos;
+
+f) Panteones;
+
+g) Rastros;
+
+h) Calles, parques, jardines y su equipamiento;
+
+i) Los demás que el Congreso del Estado determine, según las condiciones territoriales y socioeconómicas de los Municipios, así como de su capacidad administrativa y financiera
 
 X.- Formular anualmente su proyecto de ley de ingresos que será sometido a aprobación del Congreso del Estado;
 
-> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-XI.- Formular anualmente, conforme a la Ley, su Presupuesto de Egresos, con base en sus ingresos disponibles.
+XI.- Formular, aprobar y publicar anualmente conforme a la Ley su Presupuesto de Egresos con base en sus ingresos disponibles.
 
 XII.- Rendir al Congreso del Estado, por conducto de la Comisión Permanente, dentro de los dos primeros meses, la cuenta del gasto público del año anterior;
 
@@ -1455,13 +1501,13 @@ XIV.- Acordar lo conveniente para la formación del censo y estadística del mun
 
 XV.- Decretar las obras de utilidad pública u ornato del municipio.
 
-> <small>(ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-XVI.- Celebrar convenios con el Estado y la Federación, para que en ejercicio de sus funciones, éstos asuman la ejecución, operación de obras y la prestación de servicios públicos municipales y de las contribuciones derivadas de la propiedad inmobiliaria, cuando el bienestar social así lo requiera.
+XVI.- Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los Servicios Públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la Asociación de Municipios de dos o más Estados deberán contar con la aprobación de las Legislaturas de los Estados respectivos. Así mismo cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que este, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien ejerzan coordinadamente por el Estado y por el propio Municipio.
 
-> <small>(ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-XVII.- Celebrar convenios entre sí y con el Gobierno del Estado, para la ejecución, operación y prestación de servicios públicos municipales y la administración de las contribuciones derivadas de la propiedad inmobiliaria, cuando el bienestar social así lo requiera.
+XVII.- Aprobar el procedimiento y condiciones para que el gobierno estatal asuma temporalmente una función o servicio municipal; en caso de no existir convenio correspondiente el Ayuntamiento con la aprobación de las dos terceras partes de sus integrantes solicitará al Congreso del Estado su aprobación, si el Ayuntamiento considera que el Municipio está imposibilitado para ejercer o prestar las funciones o servicios de que se trate.
 
 > <small>(ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
@@ -1479,9 +1525,29 @@ XX.- Formular y promover la ejecución de la política municipal ecológica, cui
 
 XXI.- Publicar cada tres meses en el Boletín Oficial del Gobierno del Estado de Baja California Sur y en el periódico local de mayor circulación, los ingresos propios, Federales y Estatales obtenidos, así como su egreso por rubros.
 
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+XXII.- Participar en la formulación de los planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+XXIII.- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+XXIV.- Celebrar convenios para la administración y custodia de las zonas federales;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+XXV.- Aprobar con el voto de las dos terceras partes de sus integrantes la afectación del patrimonio inmobiliario municipal; así como la celebración de actos o convenios que comprometan al Ayuntamiento por un plazo mayor al período de su administración; y
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+XXVI.- Proponer al Congreso del Estado, las cuotas y tarifas aplicables a impuestos, derechos y contribuciones de mejoras, y las tablas de valores unitarios de suelo y construcciones, las cuales serán equiparables a los valores de mercado, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+
 ### CAPITULO IX
 
-#### SECCION II. DEL PRESIDENTE MUNICIPAL
+#### SECCION II. PRESIDENTE MUNICIPAL
 
 150.- El Presidente Municipal tendrá a su cargo la representación del gobierno del municipio y la ejecución de las resoluciones del ayuntamiento.
 
@@ -1505,7 +1571,11 @@ VI.- Nombrar y remover a los delegados, subdelegados, alcaides y personal de pol
 
 VII.- Convocar al ayuntamiento a sesiones de acuerdo con lo que establezca el reglamento interior;
 
-VIII.- Tener bajo su mando los cuerpos de seguridad para la conservación del orden público, con excepción de las facultades que se reservan al Gobernador;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+VIII.- Tener bajo su mando los cuerpo (sic) de seguridad publica, policía preventiva y transito municipales, en los términos que establezca los (sic) el reglamento respectivo.
+
+La policía preventiva municipal deberá acatar las órdenes que el gobernador del estado le transmita, en casos en que el mismo juzgue como de fuerza mayor o alteración grave del orden público.
 
 IX.- Solicitar la autorización del ayuntamiento para ausentarse del municipio por más de quince días;
 
@@ -1543,19 +1613,35 @@ III.- Cumplir las funciones inherentes a sus comisiones e informar al ayuntamien
 
 ### CAPITULO X. DE LAS DEPENDENCIAS ADMINISTRATIVAS MUNICIPALES Y DE SUS TITULARES
 
-154.- Para el despacho de los asuntos administrativos, los ayuntamientos tendrán las siguientes unidades internas:
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-I.- Secretaría;
+154.- Para el despacho de los asuntos de su competencia, los Ayuntamientos tendrán las siguientes unidades Administrativas Internas:
 
-II.- Tesorería;
+I.- Secretaría General
 
-III.- Delegaciones y Subdelegaciones Municipales;
+II.- Tesorería
 
-IV.- De seguridad pública;
+III.- Contraloría
 
-V.- De readaptación social; y
+IV.- Oficialía Mayor
 
-VI.- Técnicas convenientes a sus necesidades y funciones.
+V.- Seguridad Pública, Policía Preventiva y Transito Municipales
+
+VI.- Servicios Públicos
+
+VII.- Obras Públicas, Asentamientos Humanos y Ecología
+
+VIII.- El Organismo Operador de Agua Potable, Alcantarillado y Tratamiento de Aguas Residuales
+
+IX.- Delegaciones y Subdelegaciones Municipales
+
+X.- Catastro
+
+XI.- Registro Público de la Propiedad y del Comercio.
+
+XII.- Desarrollo Municipal
+
+XII (SIC).- Y las demás que determine la Ley Orgánica Municipal reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur.
 
 155.- La ley orgánica determinará la organización y funcionamiento de las dependencias administrativas del ayuntamiento y los requisitos, facultades y obligaciones de sus titulares.
 
@@ -2200,3 +2286,9 @@ Se concede al Congreso del Estado, un plazo de seis meses a partir de la entrada
 ###### ARTICULO TERCERO
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 31 DE DICIEMBRE DE 2001.
+
+PRIMERO.- El Congreso del Estado expedirá las normas que establezcan los procedimientos mediante los cuales se resolverán los conflictos que se susciten entre los Ayuntamientos y entre éstos con el Poder Ejecutivo del Estado, dentro de los 90 días posteriores a la publicación de este decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
