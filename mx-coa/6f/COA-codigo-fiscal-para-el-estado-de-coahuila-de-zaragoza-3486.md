@@ -4,7 +4,7 @@ identifier: "COA-codigo-fiscal-para-el-estado-de-coahuila-de-zaragoza-3486"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-10-19"
-last_updated: "1998-01-09"
+last_updated: "2000-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 19 de octubre de 1990.
 
@@ -659,9 +659,9 @@ I.- El Gobernador del Estado;
 
 II.- El Secretario de Finanzas;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-III.- El Director General de Ingresos de la Secretaría de Finanzas;
+III.- El Subsecretario de Ingresos de la Secretaría de Finanzas.
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
@@ -1025,6 +1025,10 @@ XX.- No contar con la licencia y la autorización anual correspondiente para la 
 
 XXI.- No dar aviso de cambio de domicilio de los establecimientos en donde se enajenen bebidas alcohólicas o presten servicios que incluyan al expendio de dichas bebidas, así como el cambio del nombre del titular de los derechos de la licencia para el funcionamiento de dichos establecimientos.
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+XXII.- No exhibir en lugar visible del establecimiento en que se expendan bebidas alcohólicas la licencia respectiva y la constancia de revalidación.
+
 ###### ARTICULO 92.
 
 Son infracciones cuya responsabilidad corresponde a los jueces, encargados de los registros públicos, notarios, corredores y en general a los funcionarios que tengan fe pública:
@@ -1123,9 +1127,11 @@ I.- De uno a diez salarios mínimos, en los casos contenidos en los artículos:
 
 93.- Fracciones I, II, IV, V y IX;
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
 II.- De diez a sesenta salarios mínimos, en los casos contenidos en los artículos:
 
-91.- Fracciones V, VI, VIII y IX;
+91.- Fracciones V, VI, VIII, IX y XXII;
 
 92.- Fracciones II, III, IV, V y VIII;
 
@@ -1992,3 +1998,13 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 9 DE ENERO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2000.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero de 2001.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
