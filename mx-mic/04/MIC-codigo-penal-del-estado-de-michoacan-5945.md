@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-del-estado-de-michoacan-5945"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-07-07"
-last_updated: "1980-11-27"
+last_updated: "1984-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO PENAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 27 DE NOVIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 27 DE AGOSTO DE 1984.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el lunes 7 de julio de 1980.
 
@@ -371,7 +371,9 @@ IV. Los directores o propietarios de internados, colegios o talleres que reciban
 
 V. Las personas físicas, las jurídicas y las que se ostenten con este último carácter, por los delitos que cometa cualquier persona vinculada con aquéllas por una relación laboral, con motivo y en el desempeño de sus servicios;
 
-VI. Las personas morales, o que se ostenten como tales, por los delitos de sus socios, gerentes o administradores, y en general por quienes actúen en su representación. Se exceptúa de esta regla a la sociedad conyugal, pues cada cónyuge responderá con sus bienes propios de la reparación del daño que origine su conducta delictiva;
+VI. Las personas morales, o que se ostenten como tales, por los delitos de sus socios, gerentes o administradores, y en general por quienes actúen en su representación.
+
+Se exceptúa de esta regla a la sociedad conyugal, pues cada cónyuge responderá con sus bienes propios de la reparación del daño que origine su conducta delictiva;
 
 VII. Los dueños de mecanismos, instrumentos, aparatos, vehículos o substancias peligrosas, por los delitos que en ocasión de su tenencia, custodia o uso, cometan las personas que los manejen o tengan a su cargo; y,
 
@@ -659,7 +661,9 @@ Siempre que el beneficiado con la libertad condicional revele nuevamente peligro
 
 Los reos que gocen del beneficio de la libertad condicional, quedarán bajo el cuidado y vigilancia del Departamento de Prevención y Readaptación Social del Estado.
 
-### CAPITULO XII. Condena Condicional
+### CAPITULO XII. Suspensión Condicional de la Ejecución de la Sanción
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1984)</small>
 
 ###### Artículo 77.
 
@@ -669,25 +673,29 @@ Siempre que se imponga sanción privativa de libertad que exceda de dos años se
 
 La retención se hará efectiva cuando, a juicio fundado del Ejecutivo, no se haya logrado la readaptación del reo o haya observado mala conducta durante la ejecución de la sanción. Asimismo, se aplicará la retención en los casos previstos en el artículo 124 de la Ley de Ejecución de Sanciones Privativas y Restrictivas de Libertad del Estado.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE AGOSTO DE 1984)</small>
+
 ### CAPITULO I. Muerte del Delincuente
 
 ###### Artículo 79.
 
-Al dictarse sentencia firme, se podrá suspender, a petición de parte o de oficio, la ejecución de la sanción privativa de libertad que no exceda de dos años cuando se trate de un delincuente primario, que no concurran circunstancias que evidencien su peligrosidad, que hay tenido modo honesto de vivir y haya observado buena conducta con anterioridad al delito y durante el proceso.
+La suspensión condicional de la ejecución de la sanción implica que al dictarse sentencia firme no se ejecute la pena impuesta por el juzgador, a petición de parte o de oficio, siempre y cuando ésta no exceda de tres años de prisión, que sea la primera vez que se sanciona al acusado, que no concurran circunstancias que evidencien su peligrosidad y que tanto por su conducta observada con anterioridad al delito y con posterioridad al mismo, denote posibilidad de readaptación a la sociedad.
 
-Para gozar de este beneficio, el sancionado deberá otorgar garantía por la cantidad que le fije el juez, de que se presentará ante la autoridad competente siempre que fuere requerido.
+Para gozar de este beneficio, el sentenciado otorgará fianza a satisfacción del juez de la causa, ante quien se presentará cuantas veces sea requerido para ello; además, garantizará el pago de la reparación del daño.
 
-La suspensión comprenderá no solamente las sanciones privativas de la libertad, sino las demás que se hayan impuesto al delincuente, quien quedará obligado, en todo caso, al pago de la reparación del daño.
+La suspensión comprenderá no solamente las sanciones privativas de libertad, sino las demás que se hayan impuesto al delincuente.
 
-Si durante los tres años siguientes contados desde la fecha en que quede firme la sentencia, el reo no diere lugar a nuevo proceso, se considerará extinguida la sanción impuesta en aquélla.
+Si durante un plazo igual al de la pena corporal impuesta, contado a partir de la sentencia firme, el sentenciado no diere lugar a un nuevo proceso, se considerará extinguida aquella sanción.
 
-Si durante el término a que se refiere el párrafo anterior, el sancionado diere lugar a nuevo proceso, que concluya con sentencia firme que sea condenatoria, se ejecutará la sanción suspendida.
+Si dentro del término a que se refiere el párrafo anterior, el beneficiado diere lugar a un nuevo proceso, que concluya en sentencia firme condenatoria por delito intencional, se ejecutará la sentencia suspendida.
 
-Los delincuentes que disfruten de la suspensión condicional de la sanción, quedarán sujetos a la vigilancia del Departamento Prevención y Readaptación Social, el cual podrá auxiliarse de los órganos que estime convenientes.
+Los sentenciados que disfruten de la suspensión condicional de la sanción, quedarán sujetos a la vigilancia de la Dirección de Prevención y Readaptación Social.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 1984)</small>
 
 ###### Artículo 80.
 
-Las obligaciones contraídas por el fiador, concluirán seis meses después de transcurridos los tres años a que se refiere el artículo anterior, siempre que el delincuente no diere lugar a nuevo proceso o cuando en éste se pronuncie sentencia absolutoria.
+En el caso de haberse nombrado fiador para el cumplimiento de las obligaciones contraídas en términos del artículo 79, concluirá su obligación al extinguirse la sanción impuesta al acusado.
 
 Cuando el fiador tenga motivos fundados para no contituar (sic) desempeñando el cargo, los expondrá al juez a fin de que éste, si los estima justos, prevenga al reo que presente nuevo fiador dentro del plazo que prudentemente deberá fijarle, bajo apercibimiento de que se hará efectiva la sanción si no lo verifica.
 
@@ -1021,7 +1029,7 @@ III. Al que sin un fin lícito o sin el permiso correspondiente, hiciere acopio 
 
 En todos los casos comprendidos en este artículo y en el 128, además de las sanciones señaladas, se decomisarán las armas.
 
-### CAPITULO III. Violación por Correspondencia
+### CAPITULO III. Violación de Correspondencia
 
 ###### Artículo 132.
 
@@ -2225,6 +2233,10 @@ No es punible el aborto culposo causado por la mujer embarazada o cuando el emba
 
 No se aplicará sanción, cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de un daño grave a su salud, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no resulte peligrosa la demora.
 
+TITULO DECIMOSEPTIMO
+
+DELITOS DE PELIGRO PARA LA VIDA Y LA SALUD
+
 ###### Artículo 292.
 
 Se impondrán prisión de seis meses a tres años y multa de quinientos a tres mil pesos:
@@ -2279,11 +2291,17 @@ Comete el delito de robo quien se apodera de una cosa mueble, ajena y sin consen
 
 El delito de robo se sancionará conforme a las siguientes reglas:
 
-I. Cuando el valor de lo robado no exceda de cinco mil pesos, se aplicará prisión de tres días a un año y multa de cincuenta a mil pesos;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1984)</small>
 
-II. Si el valor de lo robado excede de cinco mil pero no de veinte mil pesos, la pena de prisión será de uno a tres años y multa de mil a tres mil pesos;
+I. Cuando el valor de lo robado no exceda de quince mil pesos, se aplicará prisión de tres días a un año y multa de ciento cincuenta a tres mil pesos;
 
-III. Cuando exceda de veinte mil pesos, se aplicará prisión de tres a doce años y multa de tres mil a doce mil pesos.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1984)</small>
+
+II. Si el valor de lo robado excede de quince mil pesos, pero no de sesenta mil pesos, la pena de prisión será de uno a tres años y multa de tres mil a nueve mil pesos;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1984)</small>
+
+III. Cuando exceda de sesenta mil pesos, se aplicará prisión de tres a doce años y multa de nueve mil a treinta y seis mil pesos.
 
 ###### Artículo 301.
 
@@ -2335,9 +2353,11 @@ I. La disposición o destrucción de una cosa mueble, ejecutada intencionalmente
 
 II. El aprovechamiento de energía eléctrica ejecutado sin derecho y sin consentimiento de quien legalmente pueda disponer de ella.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1984)</small>
+
 ###### Artículo 307.
 
-Cuando el valor de lo robado no pase de cinco mil pesos, sea restituido por el ladrón espontáneamente y pague los daños y perjuicios antes de que la autoridad tome conocimiento del delito, no se impondrá sanción alguna, si no se ha ejecutado el robo por medio de la violencia.
+Cuando el valor de lo robado no pase de quince mil pesos, sea restituido por el ladrón espontáneamente y pague los daños y perjuicios antes de que la autoridad tome conocimiento del delito, no se impondrá sanción alguna, si no se ha ejecutado el robo por medio de la violencia.
 
 ###### Artículo 308.
 
@@ -2393,11 +2413,17 @@ Es aplicable al delito de abigeato en lo conducente, lo dispuesto por los artíc
 
 Comete el delito de abuso de confianza el que, con perjuicio de alguien, disponga para sí o para otro, de una cosa mueble, ajena, de la cual sólo se le haya transmitido la tenencia y no el dominio.
 
-Se sancionará con prisión de tres días a un año y multa de cincuenta a mil pesos, cuando el monto del abuso no exceda de diez mil pesos.
+> <small>(REFORMADO PARRAFO, P.O. 27 DE AGOSTO DE 1984)</small>
 
-Si excede de esa cantidad, pero no de cincuenta mil pesos, la prisión será de uno a tres años y multa de mil a tres mil pesos.
+Se sancionará con prisión de tres días a un año y multa de cien a dos mil pesos, cuando el monto del abuso no exceda de veinte mil pesos.
 
-Si el monto es mayor de cincuenta mil pesos, la prisión será de tres a doce años y la multa de tres mil a doce mil pesos.
+> <small>(REFORMADO PARRAFO, P.O. 27 DE AGOSTO DE 1984)</small>
+
+Si excede de esa cantidad, pero no de cien mil pesos, la prisión será de uno a tres años y multa de dos mil a seis mil pesos.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1984)</small>
+
+Si el monto es mayor de cien mil pesos, la prisión será de tres a doce años y la multa de seis mil a veinticuatro mil pesos.
 
 ###### Artículo 321.
 
@@ -2423,11 +2449,17 @@ Comete el delito de fraude, el que engañando a alguien o aprovechándose del er
 
 El delito de fraude se castigará con las penas siguientes:
 
-I. Con prisión de tres días a un año y multa de cincuenta a mil pesos, cuando el valor de lo defraudado no exceda de cinco mil pesos;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1984)</small>
 
-II. Con prisión de uno a tres años y multa de mil a tres mil pesos, cuando el valor de lo defraudado excediere de cinco mil pesos, pero no de veinte mil pesos; y,
+I. Con prisión de tres días a un año y multa de ciento cincuenta a tres mil pesos, cuando el valor de lo defraudado no exceda de quince mil pesos.
 
-III. Con prisión de tres a doce años y multa de tres mil a doce mil pesos si el valor de lo defraudado fuere mayor de veinte mil pesos.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1984)</small>
+
+II. Con prisión de uno a tres años y multa de tres mil a nueve mil pesos, cuando el valor de lo defraudado excediere de quince mil pesos, pero no de sesenta mil pesos; y
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1984)</small>
+
+III. Con prisión de tres a doce años y multa de nueve mil a treinta y seis mil pesos, si el valor de lo defraudado fuere mayor de sesenta mil pesos.
 
 Cuando el sujeto pasivo del delito entregue la cosa de que se trata a virtud no sólo del engaño, sino de las maquinaciones o artificios que para obtener ese bien se hayan empleado, la pena señalada en las fracciones anteriores se aumentará con prisión de tres días a dos años.
 
@@ -2579,7 +2611,7 @@ T R A N S I T O R I O S :
 
 PRIMERO.- Este Código comenzará a regir el día 15 de agosto de 1980.
 
-SEGUNDO.- Se abroga el Código Penal que entró en vigor el 1° de mayo de 1962, los Decretos que lo hayan adicionado o reformado; así como las Leyes anteriores sobre la materia, en lo que se oponga al nuevo Código.
+SEGUNDO.- Se abroga el Código Penal que entró en vigor el 1o. de mayo de 1962, los Decretos que lo hayan adicionado o reformado; así como las Leyes anteriores sobre la materia, en lo que se oponga al nuevo Código.
 
 TERCERO.- Quedan vigentes las disposiciones de carácter penal contenidas en leyes especiales, en todo lo no previsto en este Código.
 
@@ -2596,3 +2628,15 @@ PALACIO DEL PODER EJECUTIVO.- Morelia, Mich. a 7 de julio de 1980.- EL GOBERNADO
 P.O. 27 DE NOVIEMBRE DE 1980.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE AGOSTO DE 1984.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Conforme al Artículo 5°. del Código Penal quienes resulten beneficiados con estas reformas, podrán solicitar el beneficio previsto en el Artículo 79 de dicho ordenamiento ante el juez de la causa.
+
+Asimismo, quienes se encuentren sujetos a proceso por un delito patrimonial y con estas reformas se vean beneficiados, podrán solicitar de inmediato el beneficio de su libertad provisional bajo caución.
