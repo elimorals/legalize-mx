@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "1997-12-04"
+last_updated: "1999-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -352,7 +352,13 @@ XXXII.- Formular, regular y conducir la política de comunicación social del Go
 
 XXXIII.- Orientar, autorizar, coordinar, supervisar y evaluar los programas de comunicación social de las dependencias del Sector Público Federal; y
 
-XXXIV.- Los demás que le atribuyan expresamente las leyes y reglamentos.
+> <small>(REFORMADA [N. DE E.ADICIONADA], D.O.F. 4 DE ENERO DE 1999)</small>
+
+XXXIV.- Organizar y dirigir la Policía Federal Preventiva, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA , D.O.F. 4 DE ENERO DE 1999)</small>
+
+XXXV.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 ###### ARTICULO 28.
 
@@ -512,7 +518,9 @@ X.- Establecer y revisar los precios y tarifas de los bienes y servicios de la a
 
 XI.- Cobrar los impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos federales en los términos de las leyes aplicables y vigilar y asegurar el cumplimiento de las disposiciones fiscales;
 
-XII.- Dirigir los servicios aduanales y de inspección y la policía fiscal de la Federación;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1999)</small>
+
+XII.- Organizar y dirigir los servicios aduanales y de inspección, así como la Unidad de Apoyo para la Inspección Fiscal y Aduanera;
 
 XIII.- Representar el interés de la Federación en controversias fiscales;
 
@@ -952,7 +960,7 @@ VIII.- Regular y vigilar la administración del sistema ferroviario;
 
 IX.- Otorgar concesiones y permisos para la explotación de servicios de autotransportes en las carreteras federales y vigilar técnicamente su funcionamiento y operación, así como el cumplimiento de las disposiciones legales respectivas;
 
-X.- Realizar la vigilancia en general y el servicio de policía en las carreteras federales;
+X.- (DEROGADA, D.O.F. 4 DE ENERO DE 1999)
 
 XI.- Participar en los convenios para la construcción y explotación de los puentes internacionales;
 
@@ -1689,3 +1697,15 @@ PRIMERO.- Las reformas a que se refiere el presente Decreto entrarán en vigor a
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+D.O.F. 4 DE ENERO DE 1999.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
+
+SEGUNDO.- La organización de la Policía Federal Preventiva durará un máximo de sesenta días contados a partir de la entrada en vigor del presente Decreto, lapso en el que no ejercerá las atribuciones conferidas por este Decreto, las cuales corresponderán a las policías administrativas que han venido realizándolas con fundamento en disposiciones de la Ley Orgánica de la Administración Pública Federal, la Ley General de Población, la Ley de Vías Generales de Comunicación y los demás ordenamientos reformados por este Decreto.
+
+...
+
+SÉPTIMO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
