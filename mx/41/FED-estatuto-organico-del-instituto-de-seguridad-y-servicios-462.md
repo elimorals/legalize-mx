@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "2002-03-18"
+last_updated: "2002-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JULIO DE 2002.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -66,9 +66,11 @@ INDICE
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 1o.
 
-El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado tiene por objeto otorgar a los servidores públicos, pensionistas y demás derechohabientes sujetos al régimen de su ley, los seguros, prestaciones y servicios establecidos con carácter obligatorio, así como ejercer las funciones que determine la legislación aplicable, para lo cual conducirá sus actividades en forma programada, con base en las políticas que para el logro de los objetivos y prioridades de la planeación nacional del desarrollo establezcan la Junta Directiva y el Director General conforme a sus respectivas atribuciones.
+El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado tiene por objeto otorgar a los servidores públicos, pensionistas y demás derechohabientes sujetos al régimen de su ley, los seguros, prestaciones y servicios establecidos con carácter obligatorio, así como ejercer las funciones que determine la legislación aplicable, para lo cual conducirá sus actividades en forma programada, con base en las políticas que para el logro de los objetivos y prioridades de la planeación nacional del desarrollo y el programa institucional de mediano plazo establezcan la Junta Directiva y el Director General conforme a sus respectivas atribuciones.
 
 ###### ARTICULO 2o.
 
@@ -114,9 +116,7 @@ B. Subdirección General de Prestaciones Económicas, Sociales y Culturales
 
 C. Subdirección General Jurídica.
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
-
-D. Subdirección General de Obras y Mantenimiento
+D. (DEROGADO, D.O.F. 30 DE JULIO DE 2002)
 
 > <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
 
@@ -134,9 +134,7 @@ G. Coordinación General de Comunicación Social
 
 H. Coordinación General de Desarrollo Delegacional, e
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
-
-I. Coordinación General de Atención al Derechohabiente
+I. (DEROGADO, D.O.F. 30 DE JULIO DE 2002)
 
 J. Coordinación General de Delegaciones
 
@@ -168,13 +166,15 @@ H. Sistema de Agencias Turísticas TURISSSTE
 
 Asimismo, el Fondo de la Vivienda y el Sistema Integral de Tiendas y Farmacias del Instituto, contarán respectivamente con un órgano interno de control, que se regirá conforme al artículo 52 A, del presente ordenamiento.
 
-III. Comisión Interna de Administración y Programación.
+III. (DEROGADA, D.O.F. 30 DE JULIO DE 2002)
 
 ### CAPITULO SEGUNDO. DE LA JUNTA DIRECTIVA
 
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 4o.
 
-La Junta, como órgano máximo de Gobierno, tendrá a su cargo la programación estratégica del Instituto, la supervisión de la marcha del mismo y el control de sus actividades, para lo cual deberá definir en el Programa Institucional y en los Programas Operativos Anuales, los objetivos, metas, prioridades y estrategias del Instituto, así como garantizar la conexión del proceso de programación con los de presupuestación, evaluación y control.
+La Junta, como órgano máximo de Gobierno, tendrá a su cargo la planeación estratégica del Instituto, la supervisión de la marcha del mismo y el control de sus actividades, para lo cual deberá definir en el Programa Institucional y en los Programas Operativos Anuales, los objetivos, metas, prioridades y estrategias del Instituto, así como garantizar la conexión del proceso de programación con los de presupuestación, evaluación y control.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1994)</small>
 
@@ -416,7 +416,9 @@ I.- Ejecutar los acuerdos y resoluciones de la Junta y representar al Instituto 
 
 II.- Convocar a sesiones a los miembros de la Junta;
 
-III.- Someter a la aprobación de la Junta el programa institucional y el programa operativo anual del Instituto, de conformidad con las disposiciones aplicables, así como todas aquellas cuestiones que sean de la competencia de la misma;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+III.- Someter a la aprobación de la Junta el Programa Institucional de mediano plazo y el programa operativo anual del Instituto, de conformidad con las disposiciones aplicables, así como todas aquellas cuestiones que sean de la competencia de la misma;
 
 IV.- Proponer a la Junta las políticas estratégicas para la conducción del Instituto;
 
@@ -436,7 +438,7 @@ X.- Formular el calendario oficial de actividades del Instituto y conceder licen
 
 XI.- Firmar las escrituras públicas y títulos de crédito en que el Instituto intervenga; representar al Instituto en toda gestión judicial, extrajudicial y administrativa y llevar la firma del Instituto, sin perjuicio de la delegación de facultades que estime necesaria;
 
-XII.- Presidir las sesiones de la Comisión Interna de Administración y Programación;
+XII.- (DEROGADA, D.O.F. 30 DE JULIO DE 2002)
 
 > <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
 
@@ -640,13 +642,13 @@ IX.- Las demás que le encomiende la Comisión Ejecutiva.
 
 ### CAPITULO QUINTO. DE LA COMISION DE VIGILANCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 33.
 
-La Comisión de Vigilancia se compondrá de siete miembros: uno de la Secretaría de la Contraloría General de la Federación, que será el Comisario designado por la misma; dos de la Secretaría de Hacienda y Crédito Público; uno del Instituto, designado por el Director General, con derecho a voz pero sin voto y que actuará como Secretario Técnico; y tres designados por la Federación.
+La Comisión de Vigilancia se compondrá de siete miembros: uno de la Secretaría de Contraloría y Desarrollo Administrativo, que será el Comisario designado por la misma; dos de la Secretaría de Hacienda y Crédito Público; uno del Instituto, designado por el Director General, con derecho a voz pero sin voto y que actuará como Secretario Técnico; y tres designados por la Federación.
 
-La Junta cada seis meses designará de entre los miembros de la Comisión de Vigilancia representantes del Estado a quien deba presidirla. La Presidencia será rotativa y nunca recaerá en el representante del Instituto.
+La Junta designará cada seis meses de entre los miembros de la Comisión de Vigilancia representantes del Estado a quien deba presidirla. La Presidencia será rotativa y nunca recaerá en el representante del Instituto.
 
 ###### ARTICULO 34.
 
@@ -686,6 +688,8 @@ Los estados financieros, sus anexos y los programas anuales de constitución de 
 
 Cuando la Comisión de Vigilancia encuentre alguna irregularidad en relación con las inversiones, balances contables, estados de ingresos y egresos, operaciones o servicios, de inmediato lo hará del conocimiento de la Junta y del Director General.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 39.
 
 La Comisión de Vigilancia sesionará cuantas veces sea convocada por su Presidente o a petición de dos de sus miembros. El orden del día deberá contener invariablemente un reporte sobre el cumplimiento de los acuerdos adoptados.
@@ -716,6 +720,8 @@ Corresponde al Secretario Técnico de la Comisión de Vigilancia:
 
 I.- Levantar las actas de las sesiones, y en su oportunidad, integrarlas al Registro autorizado;
 
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
 II.- Hacer llegar a los miembros, con la oportuna anticipación, la convocatoria, el orden del día y el apoyo documental;
 
 III.- Asistir a las sesiones con voz pero sin voto;
@@ -735,6 +741,8 @@ Son obligaciones de los miembros de la Comisión de Vigilancia:
 > <small>(F. DE E., D.O.F. 5 DE SEPTIEMBRE DE 1988)</small>
 
 I.- Asistir a las sesiones en el lugar, hora y fecha señalados en la convocatoria;
+
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2002)</small>
 
 II.- Formular las observaciones y propuestas de los asuntos a tratar en el orden del día;
 
@@ -808,31 +816,65 @@ III.- Formular las políticas, normas, programas, sistemas, manuales y procedimi
 
 IV.- Difundir los programas institucionales; los sectoriales y especiales que determine el Ejecutivo Federal en materia de salud y la normatividad aplicable; asesoras a las delegaciones y unidades médicas desconcentradas sobre su aplicación y ejecución, así como vigilar su cumplimiento;
 
-V.- Proponer acciones en el ámbito de la salud para la atención preferencial de pensionados, jubilados, discapacitados y grupos vulnerables, así como en materia de medicina del trabajo;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+V.- Proponer acciones en el ámbito de salud para la atención preferencial de pensionados, jubilados, discapacitados y grupos vulnerables, así como en materia de medicina del trabajo, y operar la Central de Emergencias;
 
 VI.- Planear, normar, coordinar, aprobar, controlar y evaluar las acciones de formulación y educación médica continua de los recursos humanos para la salud; el cumplimiento e impacto de las acciones de investigación clínica, biomédica, epidemiológica y en servicios de salud que desarrollen las delegaciones y unidades médicas desconcentradas, así como promover el intercambio académico y de servicios con instituciones públicas o privadas;
 
-VII.- Elaborar los programas opeativo anual y de avance físico-financiero del presupuesto central del fondo de atención a la salud y promover acciones de mejoramiento, modernización y simplificación administrativa;
+VII.- Elaborar los programas operativo anual y de avance físico-financiero del presupuesto central del fondo de atención a la salud y promover acciones de mejoramiento, modernización y simplificación administrativa;
 
 VIII.- Desarrollar y coordinar la operación de los sistemas de información de servicios de salud y de vigilancia epidemiológica en el ámbito institucional;
 
 IX.- Determinar las necesidades de obra y equipamiento de las unidades médicas del instituto, así como validar su ejecución y adquisición;
 
-X.- Establecer las políticas en materia de administración y asignación de recursos humanos para la salud;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2002)</small>
 
-XI.- Determinar, establecer y gestionar las necesidades de insumos para la salud que requieran las unidades médicas;
+X.- Establecer las políticas en materia de administración y asignación de personal para la salud;
+
+XI.- Determinar, establecer y gestionar las necesidades de insumos para la salud que quieran las unidades médicas;
+
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XII.- Coordinar, en los términos de lo que establezca este Estatuto, la operación de las siguientes unidades administrativas desconcentradas:
 
 > <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
 
-XII.- Coordinar, en los términos de lo que establezca este Estatuto, la operación de las siguientes unidades desconcentradas:
+a) Centro Médico Nacional “20 de Noviembre”;
 
-a) Centro Médico Nacional "20 de Noviembre";
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
 
-b) Hospitales Regionales, y
+b) Hospitales Regionales.
 
-c) Escuela de Dietética y Nutrición.
+c) (DEROGADO, D.O.F. 30 DE JULIO DE 2002)
 
-XIII.- Las demás que señalen otras disposiciones aplicables.
+> <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 2002)</small>
+
+De igual manera coordinará la operación de la Escuela de Enfermería.
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XIII.- Planear, organizar, normar, coordinar y controlar, la conservación, mantenimiento y equipamiento de las unidades médicas pertenecientes al Instituto, estructurando éstas de acuerdo con las políticas y estrategias establecidas por la normatividad para la protección del ambiente y el equilibrio ecológico;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XIV.- Atender y otorgar el mantenimiento preventivo y correctivo, así como la conservación de los bienes que integran la infraestructura médica del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XV.- Realizar y mantener actualizado el registro general de los bienes que constituyen el inventario del equipo médico propiedad del Instituto, en coordinación con las Subdirecciones Generales de Administración y Jurídica;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XVI.- Establecer las normas y especificaciones técnicas para la operación de las unidades médicas pertenecientes al Instituto, en coordinación con las áreas a cuyo cargo se encuentre la utilización de las mismas;
+
+(ADICIONADA, D.O.F. 30 DE JULIO DE 2002) (F. DE E., D.O.F. 30 DE AGOSTO DE 2002)
+
+XVII.- Programar, convocar y celebrar las licitaciones y/o concursos, que tengan por objeto la adquisición de medicamentos, materiales de curación, equipo e instrumental médico, así como la conservación y mantenimiento de áreas médicas, e intervenir en los contratos o convenios respectivos.
+
+Llevar a cabo la evaluación y programación del proceso de abasto de estos insumos y efectuar la explotación de la información relacionada con este tipo de adquisiciones, y
+
+XVIII.- Las demás que señalen otras disposiciones aplicables.
 
 > <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
 
@@ -840,7 +882,9 @@ XIII.- Las demás que señalen otras disposiciones aplicables.
 
 La Subdirección General de Prestaciones Económicas, Sociales y Culturales, tendrá las funciones siguientes:
 
-I.- Planear, organizar, normar, coordinar, controlar y evaluar las actividades en materia del sistema integral de retiro; de seguridad, higiene, y medicina en el trabajo; del otorgamiento y recuperación de préstamos a corto y mediano plazo; de la afiliación y vigencia de derechos de los trabajadores, y del sistema de ahorro para el retiro de los trabajadores al servicio del Estado; la operación de sistemas de alimentación económica en el trabajo, de estancias para el bienestar y desarrollo infantil, de centros turísticos, de servicios funerarios, culturales, deportivos y recreativos para los derechohabientes del Instituto, así como de los talleres de terapia ocupacional para pensionados y jubilados; en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+I.- Planear, organizar, normar, coordinar, controlar y evaluar las actividades en materia del sistema integral de retiro; de seguridad, higiene, y medicina en el trabajo; del otorgamiento y recuperación de préstamos a corto y mediano plazo; de la afiliación y vigencia de derechos de los trabajadores, y del Sistema de Ahorro para el Retiro de los Trabajadores al Servicio del Estado; la operación de sistemas de alimentación económica en el trabajo, de estancias para el bienestar y desarrollo infantil, de centros turísticos, de servicios funerarios, culturales, deportivos y recreativos para los derechohabientes del Instituto, así como de los talleres de terapia ocupacional para pensionados y jubilados, y de Capacitación y Servicios Educativos; en el ámbito de su competencia;
 
 II.- Conceder, negar, suspender, modificar o revocar las jubilaciones y pensiones en los términos de la Ley y resolver las inconformidades que se presenten en relación con las mismas;
 
@@ -894,7 +938,15 @@ XXVI.- Contribuir al apoyo asistencial de los derechohabientes sujetos al régim
 
 XXVII.- Elaborar programas culturales para los derechohabientes, y
 
-XXVIII.- Las demás que señalen otras disposiciones aplicables.
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XXVIII.- Diseñar, proporcionar, difundir y operar el Sistema de Capacitación Interna para los Trabajadores del Instituto y de Servicios Educativos.
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XXIX.- Coordinar la operación de la Escuela de Dietética y Nutrición, y
+
+XXX.- Las demás que señalen otras disposiciones aplicables.
 
 ###### ARTICULO 47.
 
@@ -946,6 +998,10 @@ XIII.- Atender los asuntos relativos a las relaciones del Instituto con los Sind
 
 XIV.- Realizar los actos necesarios para legalizar la adquisición, destino o enajenación de los bienes inmuebles del Instituto, así como intervenir en los asuntos de los que se deriven derechos y obligaciones a cargo del mismo;
 
+> <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 2002)</small>
+
+Asimismo, llevar el control y registro general de los bienes inmuebles del Instituto, incluyendo los afectos a usos médicos, en coordinación con la Subdirección General de Administración.
+
 XV.- Supervisar los actos y operaciones que requieran la formalización ante fedatario público e inscripción de los mismos ante el Registro Público de la Propiedad y del Comercio de cada Entidad y del Distrito Federal, excepto los relacionados con el fondo de la vivienda, así como autorizar el pago de los honorarios correspondientes a los notarios públicos;
 
 XVI.- (DEROGADA, D.O.F. 23 DE AGOSTO DE 1999)
@@ -988,13 +1044,11 @@ XXVIII.- Realizar en coordinación con las áreas del Instituto, los programas, 
 
 XXIX.- Realizar y apoyar acciones y proyectos para la desconcentración de facultades y procesos a las delegaciones del Instituto;
 
-> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
+XXX.- (DEROGADA, D.O.F. 18 DE MARZO DE 2002)
 
-XXX.- Coordinar y controlar el diseño y registro de las estructuras de organización de las diferentes áreas del Instituto, así como desarrollar las acciones correspondientes con las dependencias globalizadoras;
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2002)</small>
 
-> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
-
-XXXI.- Normar y apoyar a las áreas del Instituto en la formulación de sus manuales de procedimientos, incluyendo los instrumentos y manuales dirigidos a normalizar la calidad de los servicios, y otros instrumentos de apoyo administrativo;
+XXXI.- Normar y apoyar a las áreas del Instituto en la formulación de sus manuales de procedimientos y de organización, incluyendo los instrumentos y manuales dirigidos a normalizar la calidad de los servicios, y otros instrumentos de apoyo administrativo;
 
 > <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
 
@@ -1008,7 +1062,43 @@ XXXIII.- Coordinar al interior del Instituto las acciones del Sistema de Evaluac
 
 XXXIV.- Desarrollar los proyectos especiales que sobre innovación, calidad y organización, le sean encomendados por el Director General del Instituto, y
 
-XXXV.- Las demás que señalen otras disposiciones aplicables.
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XXXV.- Planear, coordinar, normar, organizar, controlar y evaluar el sistema de orientación, información, quejas y sugerencias, para los derechohabientes del Instituto, que les permita recibir de manera oportuna, eficiente y personalizada, los seguros, prestaciones y servicios establecidos en la Ley del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XXXVI.- Constituir el conducto formal de comunicación entre el derechohabiente y las diferentes unidades administrativas del Instituto, en materia de orientación, información, quejas y sugerencias;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XXXVII.- Recibir, procesar, encauzar y dar seguimiento hasta su solución, en coordinación con las unidades administrativas competentes, las quejas y sugerencias que se generen con motivo del otorgamiento de los seguros, prestaciones y servicios;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XXXVIII.- Promover los mecanismos para dar atención preferencial a los derechohabientes discapacitados y de la tercera edad, en el otorgamiento de los seguros, prestaciones y servicios;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XXXIX.- Recibir, procesar, encauzar y dar seguimiento hasta su solución, a las recomendaciones que emita la Comisión Nacional de Derechos Humanos respecto al otorgamiento de seguros, prestaciones y servicios;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XL.- Coordinar con el área de capacitación del Instituto, el diseño, desarrollo e impartición de cursos dirigidos al personal de atención directa a la derechohabiencia, a fin de instruirlos sobre la importancia de su función para mejorar el desempeño de sus labores;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XLI.- Proponer al Director General las políticas, estrategias y líneas de acción que permitan optimar la atención que se proporciona al derechohabiente, para mejorar la imagen institucional;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XLII.- Fungir como enlace ante la Comisión Nacional de Arbitraje Médico, para la atención y seguimiento de los asuntos relacionados con el Instituto;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XLIII.- Presidir las sesiones del Comité de Quejas Médicas y Comité Técnico para la Dictaminación de solicitudes de Reembolso de Gastos Médicos, así como promover la adecuada atención y resolución de sus asuntos, conforme a los dictámenes médico y jurídico que al efecto elaboren las unidades administrativas competentes, sin perjuicio de la facultad para delegar esta función, y
+
+XLIV.- Las demás que señalen otras disposiciones aplicables.
 
 ###### ARTICULO 50.
 
@@ -1016,65 +1106,43 @@ XXXV.- Las demás que señalen otras disposiciones aplicables.
 
 ###### ARTICULO 51.
 
-La Subdirección General de Obras y Mantenimiento tendrá las funciones siguientes:
-
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
-
-I.- Planear, organizar, normar, coordinar y controlar el diseño, construcción, conservación, mantenimiento y equipamiento de las unidades físicas pertenecientes al Instituto; estructurando éstas de acuerdo con las políticas y estrategias establecidas por la normatividad para la protección del ambiente y el equilibrio ecológico;
-
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
-
-II.- Programar, convocar y celebrar las licitaciones o concursos que tengan por objeto la adjudicación de contratos de obra pública, servicios relacionados con la misma, servicios de conservación y mantenimiento de equipos e inmuebles, excepto los de informática, con base en la legislación aplicable;
-
-III.- Formular y ejecutar los programas de inversión en construcción de obras y reserva territorial del Instituto, de conformidad con las disposiciones legales aplicables;
-
-IV.- Atender y otorgar el mantenimiento preventivo y correctivo, así como la conservación de los bienes que integren la infraestructura física del Instituto;
-
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
-
-V.- Realizar estudios, programar y llevar a cabo los trámites para la adquisición de terrenos y bienes inmuebles que tengan por objeto ampliar la reserva territorial e infraestructura del Instituto, de conformidad con las disposiciones legales aplicables;
-
-VI.- Realizar y mantener actualizado el registro general de los bienes inmuebles y el inventario del equipo médico e industrial propiedad del Instituto, en coordinación con las Subdirecciones Generales de Administración y Jurídica;
-
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
-
-VII.- Establecer las normas y especificaciones técnicas para la operación de las unidades físicas pertenecientes al Instituto, en coordinación con las áreas a cuyo cargo se encuentre la utilización de las mismas;
-
-> <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 1994)</small>
-
-VIII.- Llevar a cabo los procedimientos administrativos de rescisión de los contratos que celebre y con apoyo de la Subdirección General Jurídica, ejercer las acciones que en derecho procedan para recuperar los adeudos originados con motivo de las rescisiones o finiquitos de los contratos celebrados, cumpliendo con la normatividad vigente; y
-
-IX.- Las demás que señalen otras disposiciones aplicables.
+(DEROGADO, D.O.F. 30 DE JULIO DE 2002)
 
 > <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
 
 ARTICULO 51 A.- La Subdirección General de Finanzas, tendrá las funciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2002)</small>
 
-I.- Planear, organizar, normar, coordinar y controlar los sistemas institucionales de programación, presupuestación, contabilidad, tesorería, planeación financiera y evaluación programática;
+I.- Planear, organizar, normar, coordinar y controlar los sistemas institucionales de planeación estratégica y financiera, programación, presupuestación, contabilidad, tesorería, y evaluación programática;
 
 II.- Coordinar la formulación, implantación y evaluación del programa institucional, de conformidad con los lineamientos sectoriales y globales establecidos, así como proponer los ajustes que resulten necesarios;
 
-> <small>(REFORMADA, D.O.F. 12 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2002)</small>
 
-III.- Representar al Instituto ante la Secretaría de Hacienda y Crédito Público en asuntos de planeación, programación, presupuestación, contabilidad, tesorería, informática y evaluación programática; sin perjuicio de aquellos asuntos que competan directamente al Fondo de la Vivienda, manteniendo permanentemente informado del resultado de sus gestiones al Director General del ISSSTE;
+III. Representar al Instituto y a sus órganos desconcentrados ante la Secretaría de Hacienda y Crédito Público en asuntos de planeación, programación, presupuestación, contabilidad, tesorería y evaluación programática; sin perjuicio de aquellos asuntos que competan directamente al Fondo de la Vivienda, manteniendo permanentemente informado del resultado de sus gestiones al Director General del Instituto;
 
-> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2002)</small>
 
-IV.- Intervenir en los cuerpos colegiados institucionales y en los mecanismos de participación sectorial relativos a planeación, programación, presupuestación, contabilidad, tesorería y evaluación programática;
+IV.- Coordinar los cuerpos colegiados institucionales relativos a la planeación, programación, presupuestación, costeo, contabilidad, tesorería y evaluación programática, así como intervenir en los cuerpos colegiados Institucionales y en los mecanismos de participación sectorial relacionados con estas materias;
 
-V.- Realizar de manera sistemática y permanente los estudios actuariales y financieros sobre el manejo de las reservas del Instituto, con objeto de definir las bases cuantitativas de la suficiencia de recursos y facilitar la programación institucional;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+V.- Promover valuaciones actuariales anuales y estudios financieros para determinar la estructura de cuotas y aportaciones necesarias, así como el nivel y composición de las reservas técnicas del Instituto conforme a la reglamentación aplicable;
 
 VI.- Diseñar y operar los sistemas de control presupuestario con el objeto de racionalizar y optimizar su ejercicio;
 
-VII.- Diseñar y operar el sistema de registro contable por fondos, que produzca información financiera a través de mecanismos que permitan su vinculación con la programación y presupuestación del Instituto;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+VII.- Diseñar y operar el sistema de registro contable por fondos, que produzca información financiera y de costos a través de mecanismos que permitan su vinculación con la programación y presupuestación del Instituto;
 
 VIII.- Coordinar la formulación y adecuación del presupuesto de egresos del Instituto, así como operar el control contable de los ingresos, egresos, flujo de recursos financieros y normar la guarda y custodia de valores;
 
 IX.- Determinar la cuantificación de los adeudos al Instituto y promover su oportuna recuperación, así como vigilar su aplicación de acuerdo a los programas y prioridades autorizados;
 
-X.- Diseñar y operar en los términos del artículo 22 de la Ley del Instituto los sistemas de recuperación de adeudos, previa autorización de la Junta. En el caso de adeudos por concepto de cuotas y aportaciones al Instituto, solicitar a la Tesorería de la Federación la correspondiente retención sobre transferencias y participaciones a entidades paraestatales, gobiernos estatales y municipales, respectivamente, de acuerdo con los convenios de incorporación voluntaria;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+X.- Diseñar y operar en los términos del artículo 22 de la Ley del Instituto los sistemas de recuperación de adeudos, previa autorización de la Junta. En el caso de adeudos por concepto de cuotas y aportaciones al Instituto, solicitar a la Tesorería de la Federación la correspondiente retención sobre transferencias y participaciones a entidades paraestatales, gobiernos u organismos estatales y municipales, respectivamente, de acuerdo con los convenios de incorporación voluntaria;
 
 XI.- Proponer y operar los sistemas para el control de las operaciones derivadas tanto de la captación de ingresos como de la movilización de fondos;
 
@@ -1092,15 +1160,63 @@ XVI.- (DEROGADA, D.O.F. 18 DE MARZO DE 2002)
 
 XVII.- Formular, en términos de lo dispuesto por la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, los pliegos preventivos de responsabilidades a los servidores públicos y a los particulares que hubieren perpetrado un daño económico al patrimonio del Instituto, detectado por el Organo Interno de Control competente, a través de las auditorías, visitas o investigaciones que practique.
 
-XVIII.- Las demás que señalen otras disposiciones aplicables.
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XVIII.- Desarrollar y administrar el aseguramiento patrimonial de los bienes muebles e inmuebles del Instituto y su recuperación financiera;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XIX.- Diseñar y administrar la función financiera de los servicios de salud en el Instituto;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XX.- Diseñar y operar el sistema de evaluación del desempeño financiero de los prestadores de servicios de salud del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XXI.- Crear y aplicar un sistema de incentivo al desempeño médico y a la eficiencia financiera que permita mejorar la gestión de los prestadores de servicios de salud;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XXII.- Proponer al Director General y a la Junta Directiva la asignación del presupuesto anual para los prestadores de servicios de salud del Instituto, partiendo de un modelo de asignación presupuestal basado en la eficiencia y calidad de los servicios médicos de cada prestador;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XXIII.- Sistematizar la generación de indicadores que permitan calificar, por prestador de servicios de salud, la calidad de la prestación, la eficiencia financiera de las unidades prestadoras y la cobertura poblacional de cada unidad, así como la satisfacción del usuario de los servicios de salud;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XXIV.- Elaborar y celebrar acuerdos de gestión con las áreas médicas desconcentradas y no desconcentradas del Instituto, mediante los cuales se definan y evalúen las metas específicas a cumplir en la prestación de los servicios médicos y la asignación de recursos correspondiente;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XXV.- Explotar la bases (sic) de datos del Instituto, y determinar los requerimientos de información individual y estadística de la derechohabiencia, necesarios para planificar el adecuado financiamiento de los servicios de salud;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XXVI.- Determinar las condiciones financieras indispensables para la compensación o subrogación de servicios médicos entre el Instituto y otras instituciones o entidades; el aprovechamiento de la capacidad médica excedente del Instituto; la incorporación de trabajadores a los servicios de salud y la obtención de equipo e infraestructura médicas a través de esquemas que generen compromisos presupuestales;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XXVII.- Generar, custodiar e invertir las reservas técnicas necesarias para financiar la operación del fondo de salud del Instituto, conforme a la reglamentación aplicable, y
+
+XXVIII.- Las demás que señalen otras disposiciones aplicables.
 
 > <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2002)</small>
 
 ARTICULO 51 B.- La Subdirección General de Administración, tendrá las siguientes funciones:
 
-I.- Proponer políticas en materia de personal en coordinación con el Sindicato del Instituto y conjuntamente en los términos de las disposiciones legales aplicables, intervenir en su selección, nombramiento, ubicación y reubicación, así como intervenir en todas las cuestiones relacionadas con la administración del personal del Instituto;
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 30 DE JULIO DE 2002)</small>
 
-II.- Diseñar, proporcionar, difundir y operar el sistema de capacitación interna para los trabajadores del Instituto;
+I.- Proponer políticas en materia de personal del Instituto en los términos de las disposiciones legales aplicables, intervenir en su selección, nombramiento, ubicación y reubicación, así como intervenir en todas las cuestiones relacionadas con la administración del personal del Instituto;
+
+> <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 2002)</small>
+
+Tratándose del personal de base se realizará en coordinación con el Sindicato, de acuerdo a las disposiciones aplicables;
+
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+II.- Coordinar y controlar el diseño y registro de las estructuras de organización de las diferentes áreas del Instituto, así como desarrollar las acciones correspondientes con las dependencias globalizadoras;
 
 III.- Normar, controlar y coordinar la operación interna del Sistema de Ahorro para el Retiro establecido a favor de los trabajadores del Instituto;
 
@@ -1112,7 +1228,13 @@ VI.- Planear, organizar, normar, coordinar y controlar la administración de los
 
 VII.- Planear, organizar, normar, coordinar y controlar las funciones de administración de servicios generales, así como el sistema de seguridad y vigilancia del Instituto y lo concerniente a sus comités de protección civil y vigilar la observancia de las normas técnicas aplicables en cada caso;
 
-VIII.- Proponer los lineamientos y criterios conforme a los cuales el Instituto adquirirá los bienes requeridos para su operación y funcionamiento, e intervenir en los concursos relacionados con la adquisición de bienes y servicios, y en los contratos o convenios de suministro respectivos;
+(REFORMADA PRIMER PARRAFO, D.O.F. 30 DE JULIO DE 2002) (F. DE E., D.O.F. 30 DE AGOSTO DE 2002)
+
+VIII.- Proponer los lineamientos y criterios conforme a los cuales el Instituto adquirirá los bienes requeridos para su operación y funcionamiento e intervenir en los concursos relacionados con la adquisición de bienes y la contratación de servicios, en los contratos o convenios de suministros respectivos, excepto en los casos a que se refiere la fracción XVII del artículo 45 de este Estatuto.
+
+(ADICIONADO, D.O.F. 30 DE JULIO DE 2002) (F. DE E., D.O.F. 30 DE AGOSTO DE 2002)
+
+Llevar a cabo la evaluación y programación del proceso del abasto de estos insumos y efectuar la explotación de la información relacionada con este tipo de adquisiciones;
 
 IX.- Normar, coordinar y evaluar la operación de los almacenes regionales; almacenar, custodiar y proporcionar a los diversos centros de trabajo y unidades médicas del Instituto, los bienes, servicios e insumos médicos que requieran para su funcionamiento, así como establecer el control de inventarios, conforme a las disposiciones relativas;
 
@@ -1122,9 +1244,37 @@ XI.- Formular y operar el programa de mantenimiento de vehículos propiedad del 
 
 XII.- Establecer normas para el control del inventario de los bienes muebles que integran el activo fijo del Instituto;
 
+> <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 2002)</small>
+
+De igual manera expedir las normas para el control del inventario de los bienes inmuebles propiedad del Instituto en coordinación con la Subdirección General Jurídica.
+
 XIII.- Proporcionar los servicios necesarios a las diferentes unidades operativas del Instituto, relativos a la recepción y despacho de la correspondencia, archivo y registro de expedientes, y
 
-XIV.- Las demás que señalen otras disposiciones aplicables.
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XIV.- Planear, organizar, normar, coordinar y controlar el diseño, construcción, conservación, mantenimiento y equipamiento de las unidades físicas, pertenecientes al Instituto; estructurando éstas de acuerdo con las políticas y estrategias establecidas por la normatividad para la protección del ambiente y el equilibrio ecológico;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XV.- Establecer las normas y especificaciones técnicas para la operación de las unidades físicas pertenecientes al Instituto, en coordinación con las áreas a cuyo cargo se encuentre la utilización de las mismas;
+
+(ADICIONADA, D.O.F. 30 DE JULIO DE 2002) (F. DE E., D.O.F. 30 DE AGOSTO DE 2002)
+
+XVI.- Programar, convocar y celebrar las licitaciones o concursos que tengan por objeto la adjudicación de contratos de obra pública, servicios relacionados con la misma, servicios de conservación y mantenimiento de equipos e inmuebles, excepto los de las áreas médicas, con base en la legislación aplicable;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XVII.- Formular y ejecutar los programas de inversión en construcción de obras y reserva territorial del Instituto, de conformidad con las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XVIII.- Realizar estudios, programar y llevar a cabo los trámites para la adquisición de terrenos y bienes inmuebles que tengan por objeto ampliar la reserva territorial e infraestructura del Instituto, de conformidad con las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XIX.- Llevar a cabo los procedimientos administrativos de rescisión de los contratos que celebre, y con apoyo de la Subdirección General Jurídica, ejercer las acciones que en derecho procedan para recuperar los adeudos originados con motivo de las rescisiones o finiquitos de los contratos celebrados, cumpliendo con la normatividad vigente, y
+
+XX.- Las demás que señalen otras disposiciones aplicables.
 
 ARTICULO 51 C.- (DEROGADO, D.O.F. 19 DE NOVIEMBRE DE 1992)
 
@@ -1138,11 +1288,17 @@ ARTICULO 51 C.- (DEROGADO, D.O.F. 19 DE NOVIEMBRE DE 1992)
 
 El Instituto cuenta con un Organo Interno de Control, al frente del cual se encuentra el Titular de éste, quien en términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, será designado por la Secretaría de Contraloría y Desarrollo Administrativo, de la que dependerá jerárquica y funcionalmente. El Titular del Organo Interno de Control se auxiliará para el ejercicio de sus atribuciones de los Titulares de las Areas de Responsabilidades, de Auditoría Interna, de Auditoría de Control y Evaluación y de Quejas, quienes serán designados en los mismos términos que el Titular del Organo Interno de Control e igualmente, dependerán jerárquica y funcionalmente de la Secretaría de Contraloría y Desarrollo Administrativo.
 
-Los Titulares señalados en el párrafo precedente, tendrán las facultades estatuidas en el artículo 47, fracciones III y IV del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo, así como las previstas por la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades de los Servidores Públicos y por los demás ordenamientos legales y administrativos aplicables.
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2002)</small>
 
-Asimismo, el Titular del Organo Interno de Control se auxiliará para el ejercicio de sus funciones, de los Titulares de los Organos Internos de Control en el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado en sus Delegaciones, quienes serán designados por la Secretaría de Contraloría y Desarrollo Administrativo, en los términos previstos por el artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, los cuales ejercerán las facultades establecidas por el artículo 47 fracción III del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo, con la restricción de emitir resoluciones en términos de la Ley Federal de Responsabilidades de los Servidores Públicos, por lo que en ese sentido, tampoco podrán ejercer las facultades atribuidas dentro de los puntos 1, segundo párrafo 2, 3, 6, 7 y 9 del artículo 47 fracción III del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo, toda vez que éstas únicamente podrán ser ejercidas por el Titular del Organo Interno de Control en el ISSSTE o el Titular del Area de Responsabilidades de éste.
+Los Titulares señalados en el párrafo precedente, tendrán las facultades estatuidas en el artículo 47, fracciones III y IV del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo, así como las previstas por la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y por los demás ordenamientos Legales y Administrativos aplicables.
 
-Con sujeción a su presupuesto autorizado, las unidades administrativas desconcentradas podrán contar, en su caso, con un Organo Interno de Control, en los términos señalados en el primer párrafo del presente artículo. En el supuesto de que algunas de estas unidades no cuenten con dicho Organo, las facultades a que se refiere este artículo se ejercerán por el Organo Interno de Control en el ISSSTE, a través de los diferentes Titulares que lo conforman.
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2002)</small>
+
+Asimismo, el Titular del Organo Interno de Control se auxiliará para el ejercicio de sus funciones de los Titulares de los Organos Internos de Control en el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado en sus Delegaciones, quienes serán designados por la Secretaría de Contraloría y Desarrollo Administrativo, en los términos previstos por el artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, los cuales ejercerán las facultades establecidas por el artículo 47 fracción III del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo, con la restricción de emitir resoluciones en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, por lo que en ese sentido, tampoco podrán ejercer las facultades atribuidas dentro de los puntos 1, segundo párrafo, 2, 3, 6, 7 y 9 del artículo 47 fracción III del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo, toda vez que éstas únicamente podrán ser ejercidas por el Titular del Organo Interno de Control en el Instituto o el Titular del Area de Responsabilidades de éste.
+
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2002)</small>
+
+Con sujeción a su presupuesto autorizado, las unidades administrativas desconcentradas podrán contar, en su caso, con un Organo Interno de Control, en los términos señalados en el primer párrafo del presente artículo. En el supuesto de que algunas de estas unidades no cuenten con dicho Organo, las facultades a que se refiere este artículo se ejercerán por el Organo Interno de Control en el Instituto, a través de los diferentes Titulares que lo conforman.
 
 > <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2002)</small>
 
@@ -1174,11 +1330,11 @@ VI.- Editar y distribuir libros, revistas y demás publicaciones del Instituto; 
 
 VII.- Las demás que señalen otras disposiciones aplicables.
 
-> <small>(ADICIONADO, D.O.F. 12 DE MARZO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 54.
 
-La Coordinación General de Delegaciones tendrá las funciones siguientes:
+La Coordinación General de Desarrollo Delegacional, tendrá las funciones siguientes:
 
 > <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 1994)</small>
 
@@ -1240,35 +1396,9 @@ XV.- Coadyuvar con la Subdirección General Jurídica en la actualización de lo
 
 XVI.- Las demás que señalen otras disposiciones aplicables o le encomiende el Director General.
 
-> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 1995)</small>
-
 ###### ARTICULO 54
 
-Bis.- La Coordinación General de Atención al Derechohabiente, tendrá las funciones siguientes:
-
-I.- Planear, coordinar, normar, organizar, controlar y evaluar el sistema de orientación, información, quejas y sugerencias, así como operar la central de emergencias, para los derechohabientes del Instituto, que les permita recibir de manera oportuna, eficiente y personalizada, los seguros, prestaciones y servicios establecidos en la Ley del Instituto.
-
-II.- Constituir el conducto formal de comunicación, entre el derechohabiente y las diferentes unidades administrativas del Instituto, en materia de orientación, información, quejas y sugerencias.
-
-III.- Recibir, procesar, encauzar y dar seguimiento hasta su solución, en coordinación con las unidades administrativas competentes, a las quejas y sugerencias que se generen con motivo del otorgamiento de los seguros, prestaciones y servicios.
-
-IV.- Promover los mecanismos para dar atención preferencial a los derechohabientes discapacitados y de la tercera edad, en el otorgamiento de los seguros, prestaciones y servicios.
-
-V.- Recibir, procesar, encauzar y dar seguimiento hasta su solución, a las recomendaciones que emita la Comisión Nacional de Derechos Humanos respecto al otorgamiento de seguros, prestaciones y servicios.
-
-VI.- Coordinar con el área de capacitación del Instituto, el diseño, desarrollo e impartición de cursos dirigidos al personal de atención directa a la derechohabiencia, a fin de instruirlos sobre la importancia de su función para mejorar el desempeño de sus labores.
-
-VII.- Proponer al Director General las políticas, estrategias y líneas de acción que permitan optimar la atención que se proporciona al derechohabiente, y mejorar la imagen institucional.
-
-> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
-
-VIII.- Fungir como enlace ante la Comisión Nacional de Arbitraje Médico, para la atención y seguimiento de los asuntos relacionados con el Instituto;
-
-> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
-
-IX.- Presidir las sesiones del Comité Técnico para la Dictaminación de Solicitudes de Reembolso de Gastos Médicos, así como promover la adecuada atención y resolución de sus asuntos, conforme a los dictámenes médico y jurídico que al efecto elaboren las unidades administrativas competentes, y
-
-X.- Las demás que señalen otras disposiciones aplicables.
+Bis.- (DEROGADO, D.O.F. 30 DE JULIO DE 2002)
 
 ### CAPITULO SEPTIMO. DE LA DESCONCENTRACION ADMINISTRATIVA
 
@@ -1378,73 +1508,83 @@ La estructura orgánica, integración y funcionamiento del Sistema Integral de T
 
 > <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 1995)</small>
 
-ARTICULO 59 C.- Para su administración y funcionamiento, el Sistema Integral de Tiendas y Farmacias contará con un Consejo Directivo, presidido por el Director General.
+ARTICULO 59 C. Para su administración y funcionamiento, el Sistema Integral de Tiendas y Farmacias contará con un Consejo Directivo, presidido por el Director General.
 
 El Consejo Directivo tendrá respecto del Sistema, las siguientes atribuciones:
 
-I. Aprobar las políticas generales y las prioridades a que estará sujeto el desarrollo de sus funciones, y vigilar que las mismas sean acordes con las políticas, prioridades y programas institucionales, y guarden la debida congruencia con el Plan Nacional de Desarrollo;
+I.- Aprobar las políticas generales y las prioridades a que estará sujeto el desarrollo de sus funciones, y vigilar que las mismas sean acordes con las políticas, prioridades y programas institucionales, y guarden la debida congruencia con el Plan Nacional de Desarrollo;
 
-II. Aprobar los mecanismos de coordinación y colaboración institucionales, así como los de concertación con los sectores público, social y privado, para el cumplimiento de su objeto;
+II.- Aprobar los mecanismos de coordinación y colaboración institucionales, así como los de concertación con los sectores público, social y privado, para el cumplimiento de su objeto;
 
-III. Aprobar el programa de desconcentración administrativa del Sistema, y supervisar el debido cumplimiento del mismo;
+III.- Aprobar el programa de desconcentración administrativa del Sistema, y supervisar el debido cumplimiento del mismo;
 
-IV. Definir los objetivos a los que deberá sujetarse en cuanto a productividad, comercialización, finanzas, desarrollo tecnológico y administración en general;
+IV.- Definir los objetivos a los que deberá sujetarse en cuanto a productividad, comercialización, finanzas, desarrollo tecnológico y administración en general;
 
-V. Aprobar el anteproyecto de Programa Operativo Anual, que especifique los volúmenes de compras de bienes y contratación de servicios para comercialización, abasto y distribución; las ventas que se espere lograr y las unidades responsables de su cumplimiento, así como evaluar sus avances;
+V.- Aprobar el anteproyecto de Programa Operativo Anual, que especifique los volúmenes de compras de bienes y contratación de servicios para comercialización, abasto y distribución; las ventas que se espere lograr y las unidades responsables de su cumplimiento, así como evaluar sus avances;
 
-VI. Sancionar el anteproyecto anual de presupuesto y sus modificaciones, los cuales serán sometidos a la autorización de la Junta dentro del presupuesto del Instituto;
+VI.- Sancionar el anteproyecto anual de presupuesto y sus modificaciones, los cuales serán sometidos a la autorización de la Junta dentro del presupuesto del Instituto;
 
-VII. Verificar y asegurar que exista la debida congruencia entre los recursos financieros y los programas autorizados, de forma tal que garantice la transparencia de los primeros y la debida ejecución de los segundos;
+VII.- Verificar y asegurar que exista la debida congruencia entre los recursos financieros y los programas autorizados, de forma tal que garantice la transparencia de los primeros y la debida ejecución de los segundos;
 
-VIII. Aprobar los programas anuales de compras de bienes y contratación de servicios, objeto de comercialización, así como de las ventas que obtendrá el Sistema durante el ejercicio fiscal de que se trate;
+VIII.- Aprobar los programas anuales de compras de bienes y contratación de servicios, objeto de comercialización, así como de las ventas que obtendrá el Sistema durante el ejercicio fiscal de que se trate;
 
-IX. Proponer su estructura orgánica y las modificaciones correspondientes;
+IX.- Proponer su estructura orgánica y las modificaciones correspondientes;
 
-X. Aprobar las políticas de comercialización, inversión y administración, que permitan obtener beneficios económicos y financieros con proveedores nacionales y extranjeros;
+X.- Aprobar las políticas de comercialización, inversión y administración, que permitan obtener beneficios económicos y financieros con proveedores nacionales y extranjeros;
 
-XI. Aprobar las normas y políticas necesarias, conforme a la legislación aplicable, para asegurar el abasto oportuno de bienes de consumo y servicios, en los centros comerciales, tiendas y farmacias del Instituto, y verificar que éstos se otorguen a precios módicos en relación a los vigentes en el mercado;
+XI.- Aprobar las normas y políticas necesarias, conforme a la legislación aplicable, para asegurar el abasto oportuno de bienes de consumo y servicios, en los centros comerciales, tiendas y farmacias del Instituto, y verificar que éstos se otorguen a precios módicos en relación a los vigentes en el mercado;
 
-XII. Aprobar los lineamientos generales para la suscripción de los convenios y contratos necesarios para el cumplimiento del objeto del Sistema Integral de Tiendas y Farmacias, de conformidad con las disposiciones legales aplicables y las políticas institucionales;
+XII.- Aprobar los lineamientos generales para la suscripción de los convenios y contratos necesarios para el cumplimiento del objeto del Sistema Integral de Tiendas y Farmacias, de conformidad con las disposiciones legales aplicables y las políticas institucionales;
 
-XIII. Proponer estrategias tendientes al mejoramiento y solución de aspectos de orden técnico, administrativo y operacional, así como coadyuvar a su desarrollo;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2002)</small>
 
-XIV. Conocer los informes que rinda el Director del Sistema Integral de Tiendas y Farmacias, y evaluar los resultados en materia de comercialización y administración;
+XIII.- Proponer estrategias tendentes al mejoramiento y solución de aspectos de orden técnico, administrativo y operacional, así como coadyuvar a su desarrollo;
 
-XV. Aprobar los nombramientos de los subdirectores del Sistema y de los titulares de las Gerencias Regionales;
+XIV.- Conocer los informes que rinda el Director del Sistema Integral de Tiendas y Farmacias, y evaluar los resultados en materia de comercialización y administración;
 
-XVI. Aprobar la instalación de grupos de trabajo o comisiones, para apoyar las funciones del Consejo;
+XV.- Aprobar los nombramientos de los subdirectores del Sistema y de los titulares de las Gerencias Regionales;
 
-XVII. Acordar el establecimiento de centros de acopio, transporte y distribución, así como centros comerciales, tiendas y farmacias, en todo el país;
+XVI.- Aprobar la instalación de grupos de trabajo o comisiones, para apoyar las funciones del Consejo;
 
-XVIII. Establecer la circunscripción territorial que corresponde a las Gerencias Regionales; y
+XVII.- Acordar el establecimiento de centros de acopio, transporte y distribución, así como centros comerciales, tiendas y farmacias, en todo el país;
 
-XIX. Las demás que señalen otras disposiciones aplicables.
+XVIII.- Establecer la circunscripción territorial que corresponde a las Gerencias Regionales; y
+
+XIX.- Las demás que señalen otras disposiciones aplicables.
 
 > <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 1995)</small>
 
 ARTICULO 59 D.- El Director del Sistema Integral de Tiendas y Farmacias, tendrá las siguientes funciones:
 
-I. Planear, programar, organizar, dirigir y normar las funciones encomendadas al Sistema Integral de Tiendas y Farmacias;
+I.- Planear, programar, organizar, dirigir y normar las funciones encomendadas al Sistema Integral de Tiendas y Farmacias;
 
-II. Elaborar el anteproyecto del Programa Operativo Anual y del presupuesto desconcentrado del Sistema, así como integrar los de las Gerencias Regionales, y someterlos a la consideración del Consejo Directivo;
+II.- Elaborar el anteproyecto del Programa Operativo Anual y del presupuesto desconcentrado del Sistema, así como integrar los de las Gerencias Regionales, y someterlos a la consideración del Consejo Directivo;
 
-III. Ejecutar los acuerdos del Consejo Directivo e informar sobre su cumplimiento, conforme a las normas y políticas generales del Instituto;
+III.- Ejecutar los acuerdos del Consejo Directivo e informar sobre su cumplimiento, conforme a las normas y políticas generales del Instituto;
 
-IV. Realizar los estudios e investigaciones necesarios para proponer al Consejo Directivo los proyectos de mejoramiento del Sistema Integral de Tiendas y Farmacias;
+IV.- Realizar los estudios e investigaciones necesarios para proponer al Consejo Directivo los proyectos de mejoramiento del Sistema Integral de Tiendas y Farmacias;
 
-V. Elaborar los programas anuales de compras de bienes y contratación de servicios objeto de comercialización, así como de las ventas que obtendrá el Sistema durante el ejercicio fiscal de que se trate;
+V.- Elaborar los programas anuales de compras de bienes y contratación de servicios objeto de comercialización, así como de las ventas que obtendrá el Sistema durante el ejercicio fiscal de que se trate;
 
-VI. Proponer al Consejo Directivo, el establecimiento de centros de acopio, transporte y distribución, así como centros comerciales, tiendas y farmacias en todo el país;
+VI.- Proponer al Consejo Directivo, el establecimiento de centros de acopio, transporte y distribución, así como centros comerciales, tiendas y farmacias en todo el país;
 
-VII. Proponer el nombramiento de los subdirectores y de los titulares de las Gerencias Regionales, así como nombrar a los demás empleados del Sistema;
+VII.- Proponer el nombramiento de los subdirectores y de los titulares de las Gerencias Regionales, así como nombrar a los demás empleados del Sistema;
 
-VIII. Formular, proponer y ejecutar el programa de desconcentración administrativa del Sistema, que permita optimizar la distribución y acceso de los bienes y servicios a los derechohabientes;
+VIII.- Formular, proponer y ejecutar el programa de desconcentración administrativa del Sistema, que permita optimizar la distribución y acceso de los bienes y servicios a los derechohabientes;
 
-IX. Coordinar la operación, control y desarrollo de las Gerencias Regionales, conforme a las políticas, normas y lineamientos institucionales;
+IX.- Coordinar la operación, control y desarrollo de las Gerencias Regionales, conforme a las políticas, normas y lineamientos institucionales;
 
-X. Suscribir los convenios y contratos que sean necesarios para el cumplimiento del objeto del Sistema Integral de Tiendas y Farmacias, de acuerdo a los lineamientos generales que al efecto apruebe el Consejo Directivo, y con apego a las disposiciones legales aplicables, y las políticas institucionales; y
+X.- Suscribir los convenios y contratos que sean necesarios para el cumplimiento del objeto del Sistema Integral de Tiendas y Farmacias, de acuerdo a los lineamientos generales que al efecto apruebe el Consejo Directivo, y con apego a las disposiciones legales aplicables, y las políticas institucionales; y
 
-XI. Las demás que le confiera el Director General y le señalen otras disposiciones aplicables.
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XI. Planear, organizar, normar, coordinar y controlar los sistemas de tecnología de la Información del Sistema Integral de Tiendas y Farmacias.
+
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+XII.- Definir los sistemas de tecnología de la información a desarrollarse e implantarse por el Sistema Integral de Tiendas y Farmacias o por terceros, coordinando la planeación, organización, control y evaluación de los mismos bajo la normatividad establecida en el Instituto, proporcionando, en su caso, el soporte técnico y mantenimiento correspondiente y operando aquellos que por reserva defina, y
+
+XIII.- Las demás que le confiera el Director General y le señalen otras disposiciones aplicables.
 
 > <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 1995)</small>
 
@@ -1472,43 +1612,75 @@ VII. Las demás que señalen otras disposiciones aplicables, y las que le asigne
 
 #### SECCION QUINTA. DE LA ESCUELA DE DIETETICA Y NUTRICION
 
-> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE JULIO DE 2002)</small>
 
-ARTICULO 59 F.- La Escuela de Dietética y Nutrición, como unidad administrativa desconcentrada del Instituto, tiene por objeto planear, normar, controlar y llevar a cabo las actividades relacionadas con la formación, capacitación y actualización de recursos humanos para la salud en materia de alimentación, dietética y nutrición, conforme a los lineamientos establecidos por las autoridades sanitarias y educativas competentes, para lo cual contará con autonomía técnica y operativa, así como con los recursos humanos, materiales y financieros que determine el presupuesto, que le permitan realizar sus funciones con eficiencia, oportunidad y calidad.
+ARTICULO 59 F.- La Escuela de Dietética y Nutrición, como unidad administrativa desconcentrada del Instituto, tiene por objeto planear, normar, controlar y llevar a cabo las actividades relacionadas con la formación, capacitación y actualización de recursos humanos para la salud en materia de alimentación, dietética y nutrición, conforme a los lineamientos establecidos por las autoridades sanitarias y educativas competentes, para lo cual contará con autonomía técnica y operativa, así como con el personal y los recursos, materiales y financieros que determine el presupuesto, que le permitan realizar sus funciones con eficiencia, oportunidad y calidad.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1997)</small>
 
 La integración y funcionamiento de la Escuela de Dietética y Nutrición, y de su Consejo Directivo, se establecerán en los correspondientes manuales de organización y de procedimientos que al efecto expida el Director General.
 
-> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE JULIO DE 2002)</small>
 
-ARTICULO 59 G.- Para su administración y funcionamiento, la Escuela de Dietética y Nutrición contará con un Consejo Directivo presidido por el Subdirector General Médico, el cual tendrá las siguientes funciones:
+ARTICULO 59 G.- Para su administración y funcionamiento, la Escuela de Dietética y Nutrición contará con un Consejo Directivo presidido por el Subdirector General de Prestaciones Económicas, Sociales y Culturales, el cual tendrá las siguientes funciones:
+
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
 
 I.- Aprobar las políticas generales y las prioridades a que estará sujeto el desarrollo de sus funciones, y vigilar que las mismas sean acordes con las políticas, prioridades y programas institucionales, y guarden la debida congruencia con el Plan Nacional de Desarrollo;
 
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
+
 II.- Aprobar el anteproyecto del Programa Operativo Anual, que especifique las actividades de capacitación, formación y actualización a desarrollar, las unidades responsables de su cumplimiento, los montos presupuestales a ejercer y las fuentes de financiamiento, así como evaluar sus avances;
+
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
 
 III.- Sancionar el anteproyecto anual de presupuesto y sus modificaciones, los cuales serán sometidos a la autorización de la Junta dentro del presupuesto del Instituto;
 
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
+
 IV.- Verificar y asegurar que exista la debida congruencia entre los recursos financieros y los programas autorizados, de forma tal que garantice la transparencia de los primeros y la debida ejecución de los segundos;
+
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
 
 V.- Proponer a la Junta, para su aprobación, la estructura orgánica de la Escuela de Dietética y Nutrición y, en su caso, las modificaciones correspondientes;
 
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
+
 VI.- Conocer los informes que rinda el Director de la Escuela de Dietética y Nutrición, y evaluar los resultados en materia de formación, capacitación y actualización de recursos humanos para la salud;
 
-VII.- Proponer estrategias tendientes al mejoramiento y solución de aspectos de orden técnico, administrativo y operacional, así como coadyuvar a su desarrollo;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+VII.- Proponer estrategias tendentes al mejoramiento y solución de aspectos de orden técnico, administrativo y operacional, así como coadyuvar a su desarrollo;
+
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
 
 VIII.- Proponer programas de educación en alimentación, nutrición y educación para la salud. Para la instrumentación de dichos programas, deberá obtener previamente la aprobación de las autoridades sanitarias y educativas competentes;
 
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
+
 IX.- Aprobar la inscripción, reinscripción y el otorgamiento de becas a los alumnos de la Escuela de Dietética y Nutrición;
+
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
 
 X.- Proponer la integración de normas para la planeación, organización, ejecución y control de las actividades de capacitación, formación y actualización de los recursos humanos que laboran en instituciones públicas y privadas del Sector Salud;
 
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
+
 XI.- Aprobar los mecanismos de coordinación, intercambio y colaboración institucionales, así como con los sectores públicos, social y privado, en aspectos académicos, de investigación y asistenciales relacionados con su objeto;
+
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
 
 XII.- Aprobar los programas para la asesoría y orientación a diferentes grupos de población en materia de alimentación, nutrición y educación para la salud;
 
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
+
 XIII.- Proponer al Director General los nombramientos de los Subdirectores de la Escuela de Dietética y Nutrición;
 
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
+
 XIV.- Aprobar la instalación de grupos de trabajo o comisiones, para apoyar las funciones del Consejo, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
 
 XV.- Las demás que señalen otras disposiciones aplicables.
 
@@ -1530,7 +1702,9 @@ VI.- Elaborar, revisar y autorizar, previa aprobación de las autoridades sanita
 
 VII.- Proponer al Consejo Directivo, los procedimientos y lineamientos para la aprobación de las solicitudes de inscripción y reinscripción de alumnos, así como para el otorgamiento de becas;
 
-VIII.- Administrar en forma eficiente los recursos humanos, materiales y financieros de la Escuela de Dietética y Nutrición para el logro de los objetivos y metas aprobados por el Consejo Directivo;
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2002)</small>
+
+VIII.- Administrar en forma eficiente al personal y los recursos materiales y financieros de la Escuela de Dietética y Nutrición para el logro de los objetivos y metas aprobados por el Consejo Directivo;
 
 IX.- Supervisar y evaluar los programas aprobados por el Consejo Directivo, a fin de detectar desviaciones en su cumplimiento y proponer oportunamente los proyectos de mejoramiento y solución de aspectos de orden técnico, administrativo y operacional de la Escuela de Dietética y Nutrición;
 
@@ -1540,9 +1714,11 @@ XI.- Promover la compilación e intercambio de información bibliográfica, docu
 
 XII.- Proponer al Consejo Directivo el nombramiento de los Subdirectores de la Escuela de Dietética y Nutrición, así como la plantilla de personal docente y administrativo, y
 
-> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 30 DE JULIO DE 2002)</small>
 
-XIII.- Formular los pliegos preventivos de responsabilidades a los servidores públicos y a los particulares que hubieren perpetrado un daño económico al patrimonio de la Escuela de Dietética y Nutrición, en términos de lo dispuesto por la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, que la Contraloría General en el ISSSTE detecte a través de las auditorías, visitas o investigaciones que practique.
+XIII.- Formular los pliegos preventivos de responsabilidades a los servidores públicos y a los particulares que hubieren perpetrado un daño económico al patrimonio de la Escuela de Dietética y Nutrición, en términos de lo dispuesto por la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, que el Organo Interno de Control en el Instituto detecte a través de las auditorías, visitas o investigaciones que practique.
+
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2001)</small>
 
 Dicha facultad podrá ser ejercida por el Subdirector General de Finanzas de conformidad con lo dispuesto por el artículo 51 A del Estatuto Orgánico del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
@@ -1552,11 +1728,15 @@ XIV.- Las demás que señalen otras disposiciones aplicables.
 
 #### SECCION SEXTA. DEL SISTEMA DE AGENCIAS TURISTICAS TURISSSTE
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE JULIO DE 2002)</small>
+
+ARTICULO 59 I.- El Sistema de Agencias Turísticas TURISSSTE, como unidad administrativa desconcentrada del Instituto, tiene por objeto planear, normar, controlar y llevar a cabo las actividades que promueva a través de sus agencias turísticas, conforme a los lineamientos establecidos por las autoridades competentes, para lo cual contará con autonomía técnica y operativa, así como con el personal y los recursos materiales y financieros que determine el presupuesto, que le permitan realizar sus funciones con eficiencia, oportunidad y calidad.
+
 > <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1997)</small>
 
-ARTICULO 59 I.- El Sistema de Agencias Turísticas TURISSSTE, como unidad administrativa desconcentrada del Instituto, tiene por objeto planear, normar, controlar y llevar a cabo las actividades que promueva a través de sus agencias turísticas, conforme a los lineamientos establecidos por las autoridades competentes, para lo cual contará con autonomía técnica y operativa, así como con los recursos humanos, materiales y financieros que determine el presupuesto, que le permitan realizar sus funciones con eficiencia, oportunidad y calidad.
-
 Para su administración y funcionamiento, el Sistema de Agencias Turísticas TURISSSTE contará con un Consejo Directivo presidido por el Director General.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1997)</small>
 
 La integración y funcionamiento del Sistema de Agencias Turísticas TURISSSTE, y de su Consejo Directivo, se establecerán en los correspondientes manuales de organización y de procedimientos que al efecto expida el Director General.
 
@@ -1622,33 +1802,27 @@ X.- Coordinar la operación, control y desarrollo de las agencias turísticas, c
 
 XI.- Suscribir los convenios y contratos que sean necesarios para el cumplimiento del objeto del Sistema de Agencias Turísticas TURISSSTE, de acuerdo a los lineamientos generales que al efecto apruebe el Consejo Directivo, y con apego a las disposiciones legales aplicables, y las políticas institucionales, y
 
-> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE JULIO DE 2002)</small>
 
-XII.- Formular los pliegos preventivos de responsabilidades a los servidores públicos y a los particulares que hubieren perpetrado un daño económico al patrimonio del Sistema de Agencias Turísticas TURISSSTE, en términos de lo dispuesto por la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, que la Contraloría General en el ISSSTE detecte a través de las auditorías, visitas o investigaciones que practique.
+XII.- Formular los pliegos preventivos de responsabilidades a los servidores públicos y a los particulares que hubieren perpetrado un daño económico al patrimonio del Sistema de Agencias Turísticas TURISSSTE, en términos de lo dispuesto por la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, que el Organo Interno de Control en el Instituto detecte a través de las auditorías, visitas o investigaciones que practique.
+
+> <small>(ADICIONADO, D.O.F. 5 DE DICIEMBRE DE 2001)</small>
 
 Dicha facultad podrá ser ejercida por el Subdirector General de Finanzas de conformidad con lo dispuesto por el artículo 51 A del Estatuto Orgánico del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
 XIII.- Las demás que señalen otras disposiciones aplicables.
 
-### CAPITULO OCTAVO. DE LA COMISION INTERNA DE ADMINISTRACION Y PROGRAMACION
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE JULIO DE 2002)</small>
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1997)</small>
+### CAPITULO OCTAVO
 
 ###### ARTICULO 60.
 
-La Comisión Interna de Administración y Programación del Instituto se integrará por el Director General, quien la presidirá, y por el Secretario de la Junta, los Subdirectores Generales, los Coordinadores Generales, el Vocal Ejecutivo de la Comisión Ejecutiva, y los titulares de las unidades administrativas desconcentradas que al efecto determine la propia Comisión. El Director General designará al Secretario Técnico de la Comisión.
+(DEROGADO, D.O.F. 30 DE JULIO DE 2002)
 
 ###### ARTICULO 61.
 
-La Comisión Interna de Administración y Programación tendrá las atribuciones siguientes:
-
-I.- Determinar las políticas para planear, coordinar y evaluar las acciones institucionales;
-
-II.- Establecer mecanismos y sistemas para la modernización administrativa del Instituto;
-
-III.- Vigilar el cumplimiento de las disposiciones que en materia de modernización administrativa, de programación, presupuestación y evaluación dicten el Ejecutivo Federal y la Junta; y
-
-IV.- Establecer subcomisiones o grupos de trabajo específicos.
+(DEROGADO, D.O.F. 30 DE JULIO DE 2002)
 
 ### CAPITULO NOVENO. DE LAS SUPLENCIAS
 
@@ -1684,11 +1858,15 @@ Por cada miembro de la Comisión de Vigilancia se nombrará un suplente que actu
 
 Los Subdirectores Generales, Coordinadores Generales, Vocal Ejecutivo del Fondo de la Vivienda, Delegados Estatales y Regionales, Director del Sistema Integral de Tiendas y Farmacias, y Director del Sistema de Agencias Turísticas TURISSSTE, serán suplidos en sus faltas temporales por el servidor público del Instituto que designe el Director General.
 
-> <small>(ADICIONADO, D.O.F. 18 DE MARZO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 67 Bis.
 
-El Director del Centro Médico Nacional "20 de Noviembre", los Directores de Hospitales Regionales y el Director de la Escuela de Dietética y Nutrición, serán suplidos en sus faltas temporales por el servidor público del Instituto que designe el Subdirector General Médico, previo acuerdo con el Director General.
+El Director del Centro Médico Nacional “20 de Noviembre”, y los Directores de Hospitales Regionales serán suplidos en sus faltas temporales por el servidor público del Instituto que designe el Subdirector General Médico, previo acuerdo con el Director General.
+
+> <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 2002)</small>
+
+El Director de la Escuela de Dietética y Nutrición, será suplido en sus faltas temporales por el servidor público del Instituto que designe el Subdirector General de Prestaciones Económicas, Sociales y Culturales, previo acuerdo con el Director General.
 
 ###### ARTICULO 68.
 
@@ -1899,3 +2077,13 @@ SEGUNDO.- En su oportunidad, inscríbanse las presentes adecuaciones en el regis
 TERCERO.- Los manuales de organización y de procedimientos deberán expedirse en un plazo que no excederá de 180 días naturales, a partir de la publicación del presente Acuerdo en el Diario Oficial de la Federación.
 
 CUARTO.- Se abroga el acuerdo 32.1268.2001, de fecha 16 de agosto del año 2001."Lo que me permito hacer de su conocimiento para los efectos legales procedentes.
+
+D.O.F. 30 DE JULIO DE 2002.
+
+PRIMERO.- Publíquense las presentes reformas, adiciones y derogaciones al Estatuto Orgánico del Instituto, en el Diario Oficial de la Federación, las que entrarán en vigor el día primero de agosto de 2002.
+
+SEGUNDO.- En su oportunidad, inscríbanse las presentes adecuaciones en el Registro Público de Organismos Descentralizados.
+
+TERCERO.- Los manuales de organización y de procedimientos a que se refiere el presente Acuerdo, deberán expedirse en un plazo que no excederá de 180 días naturales, a partir de la publicación del mismo en el Diario Oficial de la Federación.
+
+CUARTO.- Se deroga el acuerdo 28.1271.2002, de fecha 21 de febrero del año 2002, en lo que se oponga al presente Acuerdo.
