@@ -4,7 +4,7 @@ identifier: "COL-reglamento-del-servicio-publico-de-limpia-recoleccion-de-25135"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-25"
-last_updated: "2002-05-25"
+last_updated: "2003-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DEL SERVICIO PUBLICO DE LIMPIA, RECOLECCION DE BASURA Y SANIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2003.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 25 de mayo de 2002.
 
@@ -71,9 +71,11 @@ TRANSPORTE.- Acarreo de los residuos sólidos a los sitios de disposición final
 
 DISPOSICION FINAL.- Es el destino último de los residuos sólidos, colocados de una manera ordenada, distribuyéndoles, ya sea en rellenos sanitarios, estaciones de transferencia o basureros.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 5.
 
-Para cumplir lo establecido en el presente reglamento, la Dirección de Desarrollo Urbano, Obras y Servicios Públicos, se coordinará con las autoridades sanitarias municipales, Dirección General de Desarrollo Urbano y Ecología en el Estado, el Departamento de Obras y Servicios Públicos Municipales, Procuraduría Federal de Protección al medio ambiente, organizaciones sociales y particulares en general, para celebrar convenios de concertación, mismos que serán publicados por el H. Ayuntamiento.
+Para cumplir lo establecido en el presente reglamento, la Dirección de Servicios Públicos, se coordinará con las autoridades sanitarias municipales, Dirección General de Desarrollo Urbano y Ecología en el Estado, la Dirección de Desarrollo Urbano y Obras Públicas Municipales, Procuraduría Federal de Protección al medio ambiente, organizaciones sociales y particulares en general, para celebrar convenios de concertación, mismos que serán publicados por el H. Ayuntamiento.
 
 ###### ARTICULO 6.
 
@@ -141,13 +143,17 @@ XII.- Recolección de las cenizas que generen los hospitales, clínicas y labora
 
 ### CAPITULO I. DEL DEPTO. DE RECOLECCION DE BASURA
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 8.
 
-La organización del servicio público de recolección de basura estará a cargo del Ayuntamiento, a través del Departamento de Servicios Públicos Municipales y de la Dirección o Unidad Administrativa que designe la Dirección General de Desarrollo Urbano, Obras y Servicios Públicos Municipales.
+La organización del servicio público de recolección de basura estará a cargo del Ayuntamiento, a través de la Dirección de Servicios Públicos Municipales y de la Dirección o Unidad Administrativa que designe la propia Dirección.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 9.
 
-Para el cumplimiento de sus funciones el departamento de Servicios Públicos tendrá las siguientes atribuciones:
+Para el cumplimiento de sus funciones la Dirección de Servicios Públicos tendrá las siguientes atribuciones:
 
 I.- Determinar el personal necesario para atender eficientemente las necesidades del servicio y gestionar su contratación de conformidad con el presupuesto.
 
@@ -169,17 +175,21 @@ IX.- Tener bajo su responsabilidad el control, manejo y distribución del equipo
 
 X.- Las demás que determinen las leyes aplicables en la materia y el presente reglamento.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 10.
 
-Los horarios de recolección de residuos sólidos, serán fijados por la Dirección General de Desarrollo Urbano, Obras y Servicios Públicos Municipales.
+Los horarios de recolección de residuos sólidos, serán fijados por la Dirección de Servicios Públicos Municipales.
 
 ###### ARTICULO 11.
 
 El personal de los vehículos recolectores deberá tratar al público con toda corrección.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 12.
 
-La Dirección General de Desarrollo Urbano, Obras y Servicios Públicos Municipales a través de los conductos que considere necesarios, informará a los habitantes de cada zona sobre los horarios y días de recolección.
+La Dirección de Servicios Públicos Municipales a través de los conductos que considere necesarios, informará a los habitantes de cada zona sobre los horarios y días de recolección.
 
 ### CAPITULO II. DE LA LIMPIEZA Y RECOLECCION EN LUGARES PUBLICOS
 
@@ -187,9 +197,11 @@ La Dirección General de Desarrollo Urbano, Obras y Servicios Públicos Municipa
 
 La limpieza de las principales calles, avenidas, camellones centrales de avenidas y el centro del Municipio, se hará diariamente.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 14.
 
-El departamento de Servicios Públicos, señalará el tipo de mobiliario o recipientes que se instalarán en parques, jardines y sitios públicos.
+La Dirección de Servicios Públicos Municipales, señalará el tipo de mobiliario o recipientes que se instalarán en parques, jardines y sitios públicos.
 
 ###### ARTICULO 15.
 
@@ -213,13 +225,17 @@ Los ciudadanos del municipio deberán reunir sus residuos sólidos limpios y sep
 
 Las industrias y los centros comerciales, así como los hospitales y demás sitios donde se produzcan volúmenes de residuos sólidos que lo ameriten, deberán disponer de un área específica con colectores especiales para depositar ya clasificados sus residuos sólidos.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 19.
 
-Los propietarios o administradores de industrias, talleres, comercios, restaurantes, oficinas, centros de espectáculos o similares, deberán transportar por cuenta propia sus residuos sólidos limpios y separados al lugar que establezca el departamento de servicios públicos, en vehículos que deberán reunir las características que señala este reglamento.
+Los propietarios o administradores de industrias, talleres, comercios, restaurantes, oficinas, centros de espectáculos o similares, deberán transportar por cuenta propia sus residuos sólidos limpios y separados al lugar que establezca la dirección de servicios públicos, en vehículos que deberán reunir las características que señala este reglamento.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 20.
 
-Los propietarios o administradores a que se refiere el artículo anterior, podrán si así lo desean hacer uso del servicio de recolección contratada a través del departamento de servicios públicos.
+Los propietarios o administradores a que se refiere el artículo anterior, podrán si así lo desean hacer uso del servicio de recolección contratada a través de la dirección de servicios públicos.
 
 ### CAPITULO V. DE LA RECOLECCION DE RESIDUOS SOLIDOS EN HOSPITALES, CLINICAS, LABORATORIOS, CENTROS DE INVESTIGACION Y SIMILARES
 
@@ -231,23 +247,29 @@ Los propietarios o responsables de clínicas, hospitales, laboratorios de análi
 
 Todo propietario o responsable a que se refiere el artículo anterior, deberá contar con la autorización previa por parte de la autoridad competente, y para operar un incinerador que cumpla con las medidas técnicas correspondientes a su funcionamiento.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 23.
 
-Las unidades recolectoras del departamento de servicios públicos, se abstendrán de recolectar los residuos mencionados en el artículo 21, y si encontrasen que no se respetan las indicaciones del presente reglamento, notificarán de inmediato al Municipio, para que imponga la sanción correspondiente a la persona a cuyo cargo se encuentre el establecimiento que hubiere cometido la infracción.
+Las unidades recolectoras de la dirección de servicios públicos, se abstendrán de recolectar los residuos mencionados en el artículo 21, y si encontrasen que no se respetan las indicaciones del presente reglamento, notificarán de inmediato al Municipio, para que imponga la sanción correspondiente a la persona a cuyo cargo se encuentre el establecimiento que hubiere cometido la infracción.
 
 ### CAPITULO VI. DE LA TRANSPORTACION
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 24.
 
-Todo vehículo que no sea del servicio público de recolección de basura, tales como servicio particular y/o comercial, industrial y de concesión, que transporte los residuos sólidos mencionados en el artículo 17, deberá ser inscrito en el padrón que para tal efecto lleve el departamento de servicios públicos, donde se le fijaran las condiciones del servicio.
+Todo vehículo que no sea del servicio público de recolección de basura, tales como servicio particular y/o comercial, industrial y de concesión, que transporte los residuos mencionados en el artículo 17, deberá ser inscrito en el padrón que para tal efecto lleve la dirección de servicios públicos, donde se le fijaran las condiciones del servicio.
 
 ###### ARTICULO 25.
 
 Los cadáveres de animales que requieran ser transportados en los vehículos de recolección deberán ir protegidos en bolsas de plástico.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 26.
 
-Es obligación del interesado y/o productor de estiércol y desperdicios de establos, caballerizas y similares, el transportar en vehículos de su propiedad, cerrados, para evitar que se derramen los desechos, debiendo recabar para tal efecto un permiso de la Dirección General de Desarrollo Urbano, Obras y Servicios Públicos Municipales, en el cual se le indicará la ruta, horario y lugar de disposición final.
+Es obligación del interesado y/o productor de estiércol y desperdicios de establos, caballerizas y similares, el transportar en vehículos de su propiedad, cerrados, para evitar que se derramen los desechos, debiendo recabar para tal efecto un permiso de la Dirección de Servicios Públicos Municipales, en el cual se le indicará la ruta, horario y lugar de disposición final.
 
 ###### ARTICULO 27.
 
@@ -261,21 +283,27 @@ Todos los vehículos del servicio de recolección de basura llevarán anotado en
 
 Ninguna persona tendrá acceso al vehículo recolector, dentro de éste, solamente podrá hacerlo el personal autorizado.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 30.
 
-Queda prohibido usar los vehículos destinados al transporte de basura, en trabajos diferentes a los del departamento de servicios públicos.
+Queda prohibido usar los vehículos destinados al transporte de basura, en trabajos diferentes a los de la dirección de servicios públicos.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 31.
 
-Los vehículos particulares que cumplan con los requisitos del artículo 24, deberán ir cubiertos para impedir que los residuos sólidos transportados se derramen en el trayecto al sitio de disposición final que designe el departamento de servicios públicos.
+Los vehículos particulares que cumplan con los requisitos del artículo 24, deberán ir cubiertos para impedir que los residuos sólidos transportados se derramen en el trayecto al sitio de disposición final que designe la dirección de servicios públicos.
 
 ###### ARTICULO 32.
 
 Los vehículos particulares y comerciales, que transporten envases de vidrio, tales como botellas, garrafones, etcétera, deberán traer consigo los implementos necesarios para recoger los fragmentos que llegasen a tirarse en la vía pública accidentalmente.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 33.
 
-Todo vehículo registrado y autorizado por el departamento de Servicios Públicos, deberá llevar una bitácora del transporte y recepción de sus residuos sólidos, con objeto de garantizar el destino final de los mismos por medio del control de recepción en los sitios de deposito final que sean autorizados por el departamento de servicios públicos donde se fijarán las condiciones del servicio.
+Todo vehículo registrado y autorizado por la dirección de Servicios Públicos, deberá llevar una bitácora del transporte y recepción de sus residuos sólidos, con objeto de garantizar el destino final de los mismos por medio del control de recepción en los sitios de deposito final que sean autorizados por la misma dirección de servicios públicos donde se fijarán las condiciones del servicio.
 
 ### CAPITULO VII. DEL DESTINO, UTILIZACION Y PROCESAMIENTO DE LA BASURA
 
@@ -283,9 +311,11 @@ Todo vehículo registrado y autorizado por el departamento de Servicios Público
 
 La existencia de cualquier tiradero de residuos sólidos y/o basura, será clausurado de inmediato y a las personas que lo hayan propiciado, se les aplicarán las sanciones previstas en el presente reglamento.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 35.
 
-En los sitios de disposición final de residuos sólidos y en la zona de protección que señale el Ayuntamiento o la dirección general de desarrollo urbano, obras y servicios públicos, prohibirá la instalación de viviendas e instalaciones comerciales.
+En los sitios de disposición final de residuos sólidos y en la zona de protección que señale el Ayuntamiento o la dirección de servicios públicos, prohibirá la instalación de viviendas e instalaciones comerciales.
 
 ###### ARTICULO 36.
 
@@ -379,15 +409,21 @@ VII.- Arrojar cadáveres de animales.
 
 VIII.- Causar ruido excesivo que pueda resultar molesto a los vecinos y/o que exceda las normas técnicas correspondientes indicadas en la Ley General de Equilibrio Ecológico y Protección al Ambiente.
 
-IX.- Alojar en el área urbana, establos, porquerizas, gallineros depósitos de estiércol y demás que a juicio de la dirección general de desarrollo urbano, obras y servicios públicos municipales que afecte a las condiciones de salubridad mínimas necesarias para los individuos.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2003)</small>
+
+IX.- Alojar en el área urbana, establos, porquerizas, gallineros, depósitos de estiércol y demás que a juicio de la dirección servicios públicos municipales, afecten a las condiciones de salubridad mínimas necesarias para los individuos.
 
 X.- Ejecutar matanza y destazar animales o bien cocinarlos en la vía pública.
 
 XI.- Arrojar basura o escombro en terrenos baldíos.
 
-XII.- Sacar las bolsas con residuos sólidos limpios y separados en días distintos al de recolección, o después de haber pasado el camión recolector del departamento de servicios públicos.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2003)</small>
 
-XIII.- Fijar o pintar anuncios en paredes, postes y puentes; en su caso, se solicitará autorización ante la dirección general de desarrollo urbano, obras y servicios públicos municipales, para instalar mamparas para tal efecto.
+XII.- Sacar las bolsas con residuos sólidos limpios y separados en días distintos al de recolección, o después de haber pasado el camión recolector de la dirección de servicios públicos.
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2003)</small>
+
+XIII.- Fijar o pintar anuncios en paredes, postes y puentes; en su caso, se solicitará autorización ante la dirección de servicios públicos municipales, para instalar mamparas para tal efecto.
 
 XIV.- Ocupar la vía pública (banquetas y calles), con unidades automotrices fuera de servicio o abandonadas, muebles y objetos fuera de uso.
 
@@ -395,9 +431,11 @@ XV.- En general, cualquier acción que traiga como consecuencia el desaseo de la
 
 ## TITULO SEXTO. DE LA PREVENCION
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 54.
 
-El Ayuntamiento de Cuauhtémoc, a través de la dirección general de desarrollo urbano, obras y servicios públicos, tiene la facultad de intervenir en todos aquellos casos en que se vea afectada la sanidad del medio ambiente y el equilibrio ecológico del Municipio.
+El Ayuntamiento de Cuauhtémoc, a través de la dirección de servicios públicos, tiene la facultad de intervenir en todos aquellos casos en que se vea afectada la sanidad del medio ambiente y el equilibrio ecológico del Municipio.
 
 ###### ARTICULO 55.
 
@@ -409,21 +447,29 @@ Las acciones directas de aseo público y de conservación de las condiciones hig
 
 La denuncia popular podrá ser realizada por cualquier persona, siendo suficiente para darle curso, el señalamiento de los datos necesarios que permitan identificar o localizar la ubicación del problema, así como el nombre y domicilio del denunciante.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 57.
 
-La dirección general de desarrollo urbano, obras y servicios públicos municipales una vez recibida la denuncia, procederá por los medios que resulten conducentes a identificar al denunciante y en su caso, hará saber de la denuncia a la persona o personas a quienes se imputen los hechos denunciados, o a quienes puedan afectar el resultado de la acción emprendida.
+La dirección de servicios públicos municipales una vez recibida la denuncia, procederá por los medios que resulten conducentes a identificar al denunciante y en su caso, hará saber de la denuncia a la persona o personas a quienes se imputen los hechos denunciados, o a quienes puedan afectar el resultado de la acción emprendida.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 58.
 
-La dirección general de desarrollo urbano, obras y servicios públicos, efectuará las diligencias necesarias a través del departamento de Servicios Públicos para la comprobación de los hechos denunciados, así como para la evaluación técnica correspondiente. Si los hechos no fueran de su competencia, esta dirección turnará la denuncia ante la autoridad competente y promoverá ante la misma, la ejecución de las medidas que conforme a derecho resulten procedentes.
+La dirección de públicos, efectuará las diligencias necesarias a través del departamento de Servicios Públicos para la comprobación de los hechos denunciados, así como para la evaluación técnica correspondiente. Si los hechos no fueran de su competencia, esta dirección turnará la denuncia ante la autoridad competente y promoverá ante la misma, la ejecución de las medidas que conforme a derecho resulten procedentes.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 59.
 
-La dirección general de desarrollo urbano, obras y servicios públicos, a más tardar dentro de los quince días hábiles siguientes a la presentación de una denuncia, hará del conocimiento del denunciante el trámite que se haya dado a aquella, y, dentro de los treinta días hábiles siguientes, el resultado de la verificación de los hechos y medidas impuestas.
+La dirección de servicios públicos, a más tardar dentro de los quince días hábiles siguientes a la presentación de una denuncia, hará del conocimiento del denunciante el trámite que se haya dado a aquella y, dentro de los treinta días hábiles siguientes, el resultado de la verificación de los hechos y medidas impuestas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 60.
 
-La dirección general de desarrollo urbano, obras y servicios públicos, otorgará a la ciudadanía las suficientes instancias de recepción de que disponga durante días hábiles y horarios de oficina, para atender las denuncias que presente la ciudadanía, ya sea:
+La dirección de servicios públicos, otorgará a la ciudadanía las suficientes instancias de recepción de que disponga durante días hábiles y horarios de oficina, para atender las denuncias que presente la ciudadanía, ya sea:
 
 I.- Personalmente.
 
@@ -437,13 +483,17 @@ V.- Fax.
 
 ## TITULO OCTAVO. DE LA VIGILANCIA PARA EL CUMPLIMIENTO DE ESTE REGLAMENTO
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 61.
 
-El Ayuntamiento, a través del departamento se (sic) servicios públicos, o bien puede ser la autoridad que para tal efecto se señale; vigilará, para que los artículos 13, 14, 15, y 16 sean respetados, con el objeto de que el servicio que se otorga a la ciudadanía, cumpla con su función correspondiente.
+El Ayuntamiento, a través de la dirección de servicios públicos, o bien puede ser la autoridad que para tal efecto se señale; vigilará, para que los artículos 13, 14, 15, y 16 sean respetados, con el objeto de que el servicio que se otorga a la ciudadanía, cumpla con su función correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 62.
 
-La vigilancia del cumplimiento a las disposiciones de este reglamento, queda a cargo de la dirección general de desarrollo urbano, obras y servicios públicos municipales, mediante la realización de actos de inspección y vigilancia, ejecución de medidas de seguridad, asignación de infracciones administrativas y sanciones, así como procedimientos y recursos administrativos cuando se refiera a asuntos de su competencia; son órganos auxiliares para la aplicación de este reglamento:
+La vigilancia del cumplimiento a las disposiciones de este reglamento, queda a cargo de la dirección de servicios públicos municipales, mediante la realización de actos de inspección y vigilancia, ejecución de medidas de seguridad, asignación de infracciones administrativas y sanciones, así como procedimientos y recursos administrativos cuando se refiera a asuntos de su competencia; son órganos auxiliares para la aplicación de este reglamento:
 
 I.- Los inspectores de la secretaria del H. Ayuntamiento.
 
@@ -455,11 +505,15 @@ IV.- Los inspectores honorarios.
 
 V.- Los ciudadanos del municipio.
 
-VI.- Los inspectores del departamento de servicios públicos municipales.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2003)</small>
+
+VI.- Los inspectores de la dirección de servicios públicos municipales.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 63.
 
-Para los actos de inspección y vigilancia, el personal autorizado por la dirección general de desarrollo urbano, obras y servicios públicos municipales, deberá estar provisto del documento oficial que lo acredite como tal.
+Para los actos de inspección y vigilancia, el personal autorizado por la dirección de servicios públicos municipales, deberá estar provisto del documento oficial que lo acredite como tal.
 
 ###### ARTICULO 64.
 
@@ -473,13 +527,17 @@ En toda inspección se levantará acta, en la que se detallará en forma circuns
 
 El acta administrativa de inspección deberá ser firmada por la persona con quien se entendió la diligencia, por los testigos y por el personal autorizado, quien entregará copia del acta al interesado, si la persona con quien se entendió la diligencia se negare a firmar el acta o a aceptar copia de la misma, dichas circunstancias también se asentarán, sin que esto afecte su validez y valor probatorio.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 67.
 
-La persona con quien se entienda la diligencia, deberá permitir al personal autorizado, el acceso al lugar o lugares sujetos a inspección, así como proporcionar toda clase de información que conduzca a la verificación del cumplimiento a este reglamento. La dirección general de desarrollo urbano, obras y servicios públicos, podrá solicitar el auxilio de la fuerza pública, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia.
+La persona con quien se entienda la diligencia, deberá permitir al personal autorizado, el acceso al lugar o lugares sujetos a inspección, así como proporcionar toda clase de información que conduzca a la verificación del cumplimiento a este reglamento. La dirección de servicios públicos, podrá solicitar el auxilio de la fuerza pública, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 68.
 
-La dirección general de desarrollo urbano, obras y servicios públicos, podrá formar comités de limpia pública con ciudadanos voluntarios y designar inspectores honorarios.
+La dirección de servicios públicos, podrá formar comités de limpia pública con ciudadanos voluntarios y designar inspectores honorarios.
 
 ###### ARTICULO 69.
 
@@ -501,11 +559,17 @@ III.- Informar a la dirección general de desarrollo urbano, obras y servicios p
 
 Las sanciones por falta u omisión a este reglamento consistirán en;
 
-I.- Amonestación verbal y/o escrita.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2003)</small>
 
-II.- Multa, de acuerdo al tabulador que más adelante se incluye.
+I.- Informar a la dirección de servicios públicos, sobre la existencia de sitios no autorizados en los que se deposite basura y/o residuos sólidos a efecto de que se tomen las medidas pertinentes para su recolección, notificando las fechas y horarios de recolección u orientando a la población sobre la ubicación de la recolección de basura.
 
-III.- Arresto hasta por 36 horas.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2003)</small>
+
+II.- Comunicar a la dirección de servicios públicos, los nombres o datos que sirvan para identificar a las personas que depositen basura y/o residuos sólidos, escombro o desperdicios, en sitios no autorizados. La dirección verificará en todos los casos a través del departamento de servicios públicos la veracidad de la información.
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2003)</small>
+
+III.- Informar a la dirección de servicios públicos, sobre las deficiencias o carencias del servicio en su zona.
 
 IV.- La suspensión, revocación o cancelación de la concesión, permiso, licencia y en general toda autorización otorgada para la realización de actividades comerciales, industriales o de servicios, o para el aprovechamiento de recursos naturales, según la gravedad de la infracción cometida.
 
@@ -525,9 +589,11 @@ E) De 1 a 50 salarios mínimos. Art. 45, Art. 48 y Art. 53 Fracciones: II, III, 
 
 F) De 50 a 1000 salarios mínimos, para aquellas infracciones que a juicio de la dirección de la unidad administrativa municipal de ecología, dañen seriamente la sanidad del medio ambiente.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 72.
 
-Las infracciones serán calificadas por el titular de la dirección general de desarrollo urbano, obras y servicios públicos, en la imposición de las sanciones correspondientes se tomará en cuenta la gravedad de la falta u omisión y las circunstancias en que se incurrió en ella, las condiciones económicas y personales del infractor y la reincidencia.
+Las infracciones serán calificadas por el titular de la dirección de servicios públicos, en la imposición de las sanciones correspondientes se tomará en cuenta la gravedad de la falta u omisión y las circunstancias en que se incurrió en ella, las condiciones económicas y personales del infractor y la reincidencia.
 
 ###### ARTICULO 73.
 
@@ -537,19 +603,25 @@ Para los efectos de este reglamento se considerará reincidente al infractor que
 
 Cuando el infractor cubra una multa dentro de los tres días siguientes a su imposición, podrá ser reducida ésta, hasta en un veinticinco por ciento de su monto.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 75.
 
-Las multas se harán efectivas conforme al procedimiento administrativo de ejecución establecido en la Ley de Hacienda Municipal del Estado.
+Las multas se harán efectivas conforme al procedimiento administrativo de ejecución establecido en la Ley de Hacienda para el Municipio de Cuauhtémoc.
 
 ## TITULO DECIMO. DEL RECURSO DE INCONFORMIDAD
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 76.
 
-Los ciudadanos considerados como infractores en una resolución administrativa dictada en los términos del presente reglamento, podrán interponer el recurso de inconformidad ante el titular de la dirección general de desarrollo urbano, obras y servicios públicos.
+Los ciudadanos considerados como infractores en una resolución administrativa dictada en los términos del presente reglamento, podrán interponer el recurso de inconformidad ante el titular de la dirección de servicios públicos.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 77.
 
-El recurso de inconformidad tiene por objeto que la dirección general de desarrollo urbano, obras y servicios públicos confirme, revoque o modifique la resolución impugnada.
+El recurso de inconformidad tiene por objeto que la dirección de servicios públicos confirme, revoque o modifique la resolución impugnada.
 
 ###### ARTICULO 78.
 
@@ -559,9 +631,11 @@ El recurso de inconformidad se interpondrá dentro de los ocho días hábiles si
 
 El escrito por el que se interponga el recurso de inconformidad, no estará sujeto a forma especial alguna y bastará que el recurrente precise el acto que reclama, los motivos de la inconformidad, señale domicilio para oír y recibir notificaciones, acompañe las pruebas documentales que tenga a su disposición y ofrezca las demás que estime pertinentes.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 80.
 
-La dirección general de desarrollo urbano, obras y servicios públicos o la autoridad que en su caso se hubiese designado de manera específica, deberá resolver el recurso dentro de los ocho días siguientes de recibir el mismo, confirmando, modificando o revocando la calificación de la multa, y contra dicha resolución solo procederá el juicio de nulidad ante el órgano correspondientes (sic).
+La dirección de servicios públicos o la autoridad que en su caso se hubiese designado de manera específica, deberá resolver el recurso dentro de los ocho días siguientes de recibir el mismo, confirmando, modificando o revocando la calificación de la multa, y contra dicha resolución solo procederá el juicio de nulidad ante el órgano correspondientes.
 
 T R A N S I T O R I O S (SIC)
 
@@ -576,3 +650,9 @@ Dado en el Salón de Sesiones de Cabildo del H. Ayuntamiento Constitucional de C
 > <small>(F. DE E., P.O. 22 DE MARZO DE 2003)</small>
 
 Lic. Cesar Ceballos Gómez.- Presidente Municipal.- Rúbrica.- C. Pedro Martínez Rivera.- Sindico.- Rubrica.- Tec. Teresa Santa Ana Blake.- Regidora.- Rubrica.- Profra. Ma. de Jesús Fajardo López.- Regidora.- Rubrica.- Licda. Sandra Y. Ramírez Santillán.- Regidora.- Rubrica.- C. Alfonso Michel Aguirre.- Regidor.- Rubrica.- C. Carlos Yáñez Ibarra.- Regidor.- Rubrica.- C. Luis E. Martínez Ceballos.- Regidor.- Rubrica.- Dr. Ismael Estrada Ruíz.- Regidor.- Rubrica.- Lic. Esteban González Rodríguez.- Secretario.- Rubrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE MARZO DE 2003.
+
+LAS MODIFICACIONES CON ANTELACION CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
