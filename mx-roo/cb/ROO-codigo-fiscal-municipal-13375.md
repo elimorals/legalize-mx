@@ -4,7 +4,7 @@ identifier: "ROO-codigo-fiscal-municipal-13375"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-15"
-last_updated: "2002-12-30"
+last_updated: "2003-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO FISCAL MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre 1997.
 
@@ -39,9 +39,11 @@ DECRETA:
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 1o.
 
-Las personas físicas y morales están obligadas a contribuir para el gasto público de los municipios del estado de Quintana Roo, conforme a las Leyes Fiscales respectivas, las autoridades municipales en materia fiscal sólo pueden hacer lo que las leyes fiscales expresamente establezcan como de su competencia.
+Las personas físicas y morales están obligadas a contribuir para el gasto público de los Municipios del Estado de Quintana Roo, conforme a las Leyes fiscales respectivas. Las autoridades Municipales en materia fiscal sólo pueden hacer lo que las Leyes, Reglamentos, Decretos, Acuerdos del Ayuntamiento y Convenios de Colaboración Administrativa en Materia Fiscal expresamente establezcan como de su competencia.
 
 Cuando en este código se haga mención a persona moral, se entienden comprendidas, entre otras, las sociedades mercantiles, los organismos descentralizados que realicen preponderantemente actividades empresariales, las instituciones de crédito, y las sociedades y asociaciones civiles.
 
@@ -99,35 +101,81 @@ V.- Los Directores de Fiscalización;
 
 VI.- El Director del Catastro;
 
-VII.- Los Notificadores-Ejecutores; y
+VII.- Los Notificadores-Ejecutores; y (sic)
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-VIII.- Los previstos en los reglamentos municipales que norman su estructura orgánica.
+VIII.- Los alcaldes, delegados y subdelegados;
 
-VINILOS previstos en los reglamentos municipales que norma su estructura orgánica.
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-El Presidente Municipal podrá designar Autoridad Fiscal a cualquier otro funcionario no previsto en las fracciones anteriores, cuando así lo considere necesario.
+IX.- Los previstos en los Reglamentos Municipales y Acuerdos del Ayuntamiento, que norman su estructura orgánica.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 6o.
 
-Son contribuciones las cantidades que en dinero deben enterar las personas físicas y morales a los municipios para cubrir el gasto público las que se clasifican en: Impuestos, Derechos, Productos, Aprovechamientos, Participaciones y Otros, Ingresos, y que se definen de la siguiente manera:
+Son contribuciones las cantidades que en dinero deben de enterar las personas físicas y morales a los Municipios para cubrir el gasto público las que se clasifican en: Impuestos, Derechos y contribuciones de mejoras, mismas que se definen de la siguiente manera:
 
-I.- IMPUESTOS: Son las prestaciones que fijan las leyes para contribuir al gasto público, dicha prestación estará a cargo de toda persona física o moral, o unidad económica cuya situación coincida con la que la Ley señala como objeto del gravamen. El pago del impuesto no implica contraprestación alguna, por lo que no se podrá destinar la recaudación a un fin específico, salvo los casos expresamente previstos en la Ley;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-II.- DERECHOS: Las contraprestaciones que se fijara conforme a la ley en pago por el uso o aprovechamiento de los bienes del dominio público de los municipios o por los servicios públicos prestados por los municipios incluso cuando se presten por organismos descentralizados;
+I. IMPUESTOS.- Son las contribuciones establecidas en la Ley, que deben pagar las personas físicas y morales que se encuentren en la situación jurídica o de hecho prevista por la misma.
 
-III.- PRODUCTOS: Son las contraprestaciones por los servicios que presten los municipios en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes de dominio privado.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-> <small>(REFORMADA, P.O EL 15 DE DICIEMBRE DE 1998)</small>
+II. DERECHOS.- Contribuciones establecidas en la Ley por el uso o aprovechamiento de los bienes de dominio público de los Municipios, así como recibir servicios que presta el Municipio en sus funciones de derecho público, incluso cuando se preste por organismos descentralizados.
 
-IV.- APROVECHAMIENTOS: Son ingresos derivados de recargos, gastos de ejecución, multas y otros que perciban los municipios por sus funciones de derecho público y cuya naturaleza no sea clasificable como impuesto, derecho o producto;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-V.- PARTICIPACIONES: Son recursos que establezcan en favor de los municipios las Leyes Fiscales Federales, estatales o los Convenios de Coordinación en materia fiscal;
+III. CONTRIBUCIONES DE MEJORAS.- Son las establecidas en la Ley a cargo de las personas físicas y morales que se beneficien de manera directa por obras públicas.
 
-VI.- APORTACIONES FEDERALES: Son aquellos recursos que anualmente se determinan en el presupuesto de egresos de la Federación con recursos federales para la infraestructura social municipal y se destinarán únicamente al financiamiento de obras, acciones sociales básicas y a inversiones que beneficien directamente a sectores de su población que se encuentren en condiciones de rezago social y pobreza extrema y;
+IV.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
 
-VII.- OTROS INGRESOS: Los recursos que obtiene el municipio por conceptos diferentes a los señalados anteriormente;
+V.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
+
+VI.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
+
+VII.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 6-A.
+
+APROVECHAMIENTOS.- Son los ingresos que percibe el Municipio por funciones de derecho público distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal.
+
+Los recargos, las sanciones, los gastos de ejecución y la indemnización, que se apliquen en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 6-B.
+
+PARTICIPACIONES.- Son aquellos ingresos que percibe el Municipio de conformidad con la Ley de Coordinación Fiscal Federal, tales como: Fondo General de Participantes, Fondo de Fomento Municipal, y en adición, aquellos que se perciban por el ejercicio de facultades y obligaciones que se adquieran con motivo de los Anexos que firme al Convenio de Colaboración Administrativa en Materia Fiscal Federal con la Secretaría de Hacienda y Crédito Público, en los términos que dicha legislación establece.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 6-C.
+
+PRODUCTOS.- Son las contraprestaciones por los servicios que preste el Municipio en sus funciones de derecho privado; así como por el uso, aprovechamiento o enajenación de bienes de dominio privado.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 6-D.
+
+INGRESOS POR APORTACIONES FEDERALES.- Son aquellos destinados a los Municipios, establecidos por el Presupuesto de Egresos de la Federación, del Estado y los contemplados en la Ley de Coordinación Fiscal en la cual contempla los siguientes:
+
+I.- Fondo de Aportaciones para la infraestructura Social Municipal.
+
+II.- Fondo de Aportaciones para el Fortalecimiento de los Municipios.
+
+III.- Fondo para la Zona Federal Marítimo Terrestre; y
+
+IV.- Otras aportaciones Federales.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 6-E.
+
+INGRESOS EXTRAORDINARIOS.- Son ingresos derivados del sistema Estatal de Coordinación Hacendaria entre Estado o Municipios, entre Municipios, los provenientes de convenios firmados entre Estados y Federación o Federación- Municipios, las aportaciones especiales provenientes del Estado Federación, los apoyos extraordinarios y los empréstitos y los financiamientos derivados de la contratación de créditos u otros instrumentos financieros en los términos de la Ley Estatal de Deuda Pública.
 
 ###### ARTICULO 7o.
 
@@ -181,7 +229,9 @@ Los Ayuntamientos tendrán acción real para el cobro del Impuesto Predial y dem
 
 Se entiende por adquisición la que se derive de:
 
-I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causas de muerte y la aportación a toda clase de asociaciones o sociedades a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causas de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir la sociedad conyugal, siempre que sean inmuebles propiedad de los cónyuges;
 
 II.- La compraventa en la que el vendedor se reserva la propiedad, aún cuando la transferencia de ésta opere con posterioridad;
 
@@ -299,7 +349,9 @@ VII.- Proporcionar con veracidad los datos que requiera la Tesorería Municipal;
 
 VIII.- Realizar los pagos y cumplir las obligaciones en la forma y términos que señala este Código;
 
-IX.- Las demás que señalen las leyes y reglamentos municipales;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+IX.- Las demás que señalen las leyes, reglamentos y acuerdos municipales; así como los decretos y convenios de colaboración en materia Fiscal;
 
 X.- Los contribuyentes que no presenten dentro de los términos legales sus avisos, declaraciones y manifestaciones o no proporcionen los datos correspondientes, se harán acreedores a las sanciones establecidas en este Código, así como a los accesorios a que dé lugar la inspección; y
 
@@ -447,7 +499,9 @@ Son facultades y atribuciones de las autoridades fiscales enunciadas en las frac
 
 A los Presidentes Municipales compete, por sí o a través de la Tesorería Municipal, el ejercicio de las siguientes facultades:
 
-I.- Ejecutar las leyes y decretos fiscales de naturaleza municipal que expida el Congreso del Estado, y proveer en la esfera administrativa a su exacta observancia;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+I.- Ejecutar las Leyes, Decretos Fiscales de naturaleza municipal que expida el Congreso del Estado o El Ejecutivo Estatal, así como los Convenios de Colaboración Administrativa en Materia Fiscal y proveer en la esfera administrativa a su exacta observancia;
 
 II.- Nombrar y remover a los titulares de las Tesorerías Municipales, previa aprobación del Ayuntamiento correspondiente y en los términos de la Ley Orgánica de los Municipios del Estado de Quintana Roo;
 
@@ -473,47 +527,61 @@ VIII.- Tramitar y resolver los asuntos y recursos que ante él se presentan conf
 
 IX.- Dictar a través de resoluciones que establezcan disposiciones de carácter general, normas de urgencia anual relativas a la administración, control, forma de pago, procedimientos y obligaciones secundarias para facilitar la aplicación de las leyes fiscales municipales sin que por ningún motivo puedan variar los elementos propios de los tributos, como lo son objeto, sujeto, base, tasa o tarifa, período de pago; y (sic)
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-X.- Determinar créditos fiscales;
+X.- Determinar créditos fiscales conforme a las Leyes, Reglamentos, Acuerdos y Convenios de colaboración en Materia fiscal;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-XI.- Las demás que le correspondan conforme a este Código u otras leyes y reglamentos Fiscales.
+XI.- Las demás que le correspondan conforme a este código u otras leyes, reglamentos y acuerdos en el ámbito de los Convenios de Colaboración en Materia Fiscal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 32.
 
-Son facultades de los Tesoreros Municipales, que podrán ejercer por sí o a través de los titulares de las unidades administrativas de la Tesorería, las siguientes:
+Son facultades de los Tesoreros Municipales, que podrán ejercer por sí o a través de los titulares de las unidades administrativas de la Tesorería, o autoridades auxiliares, las siguientes:
 
 I.- Cuidar y vigilar la recaudación, manejo e inversión de los caudales públicos, con arreglo a la Ley y a los acuerdos del Presidente Municipal;
 
-II.- Cuidar que todas las oficinas de la Tesorería Municipal funcionen correctamente y los servidores públicos adscritos a ella cumplan con las leyes fiscales;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+II.- Cuidar que todas las oficinas de la Tesorería Municipal funcionen correctamente y los servidores públicos adscritos a ella cumplan con las Leyes, Reglamentos, Acuerdos y Convenios de Colaboración en Materia Fiscal;
 
 III.- Representar a la Tesorería Municipal en todos los asuntos fiscales;
 
-IV.- Ordenar la práctica de auditorias y visitas domiciliarias a contribuyentes, responsables solidarios o terceros relacionadas con ellos, para verificar si están cumpliendo cabalmente con las disposiciones fiscales establecidas;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+IV.- Ordenar la práctica de auditorías y visitas de inspección domiciliarias a contribuyentes responsables solidarios o terceros relacionadas con ellos, para verificar el cumplimiento de las disposiciones fiscales, así como las dispuestas por los convenios de colaboración en la materia;
 
 V.- Hacer del conocimiento del Ministerio Público respecto de los contribuyentes; o servidores públicos de la Tesorería que presuntamente cometan algún delito fiscal en el desempeño de sus funciones;
 
-VI.- Tramitar y resolver dentro de los términos legales, los recursos que ante él se interpongan conforme a las leyes fiscales;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+VI.- Tramitar y resolver dentro de los términos legales, los recursos que ante él se interpongan, conforme a los procedimientos señalados por este código y los señalados en los Convenios de Colaboración en Materia Fiscal;
 
 VII.- Resolver los asuntos que le competen y que se tramiten en las dependencias de la Tesorería;
 
-VIII.- Declarar en que casos no se causan los recargos, por no ser imputable al contribuyente la demora en el pago.
+VIII.- Declarar en que casos no se causan los recargos, por no ser imputable al contribuyente la demora en el pago;
 
-IX.- Reducir las multas fiscales que hayan quedado firmes siempre y cuando se acredite que el contribuyente sancionado se encuentre en una situación económica precaria; y
+IX.- Reducir las multas fiscales que hayan quedado firmes siempre y cuando se acredite que el contribuyente sancionado se encuentre en una situación económica precaria; y (sic)
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-X.- Determinar créditos fiscales;
+X.- Determinar créditos fiscales y multas conforme a las Leyes, Reglamentos, Procedimientos, Acuerdos y Convenios de Colaboración en Materia Fiscal;
 
-XI.- Las demás que le correspondan conforme a las leyes, reglamentos y acuerdos del Presidente Municipal.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 15 DE DICIEMBRE DE 1998)</small>
+XI.- Las demás que le correspondan conforme a las Leyes, Reglamentos, Convenios de Colaboración y Acuerdos del H. Ayuntamiento y del Presidente Municipal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 33.
 
-Las autoridades fiscales, a petición de los contribuyentes, podrán autorizar el pago a plazo, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios, sin que dicho plazo exceda de veinticuatro meses. Las contribuciones omitidas y sus accesorios se actualizarán a partir de los meses en que debieron haber pagado hasta aquél en que se conceda la autorización. Cada parcialidad se actualizará, desde esta última fecha, hasta el mes en que cada parcialidad se pague. Durante el plazo concedido se causarán recargos por prórroga según la tasa que para estos efectos publique la Secretaría de Hacienda y Crédito Público en el Diario Oficial de la Federación, por cada mes o fracción sobre el saldo insoluto, incluyendo accesorios. Dicho saldo se actualizará desde la fecha de autorización del pago en parcialidades hasta el mes por el que se calculan los recargos.
+Las autoridades fiscales, a petición de los contribuyentes, podrán autorizar el pago a plazo, ya sea diferido o en parcialidades, de las contribuciones omitidas, aprovechamientos y de sus accesorios, sin que dicho plazo exceda de veinticuatro meses. Las contribuciones omitidas y sus accesorios se actualizarán a partir de los meses en que debieron haber pagado hasta aquél en que se conceda la autorización. Cada parcialidad se actualizará desde esta última fecha hasta el mes en que cada parcialidad se pague.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+Durante el plazo concedido se causará recargos por prórroga según la tasa que para estos efectos publique la Secretaría de Hacienda y Crédito Público en el Periódico Oficial de la Federación, por cada mes o fracción sobre el saldo insoluto, incluyendo accesorios. Dicho saldo se actualizará desde la fecha de autorización del pago en parcialidades hasta el mes por el que se calcula los cargos.
 
 Las autoridades fiscales, al autorizar el pago a plazos, exigirán se garantice el interés fiscal.
 
@@ -529,9 +597,11 @@ Cuando no se cubra alguna parcialidad dentro de la fecha o plazo fijado, el cont
 
 No procederá la autorización a que se refiere éste artículo, tratándose de contribuciones que debieron pagarse en los tres meses anteriores al mes en que se solicite la autorización.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 34.
 
-Los demás servidores públicos del ramo hacendario, tendrán las facultades y obligaciones que establece este código, y demás disposiciones legales inherentes, las que ejercerán de conformidad al ámbito de competencia que les señalen.
+Los demás servidores públicos del ramo hacendario y autoridades auxiliares, tendrán las facultades y obligaciones que establece este Código, y demás disposiciones legales inherentes a su nombramiento, las que ejercerán de conformidad al ámbito de competencia que les señalen.
 
 ###### ARTICULO 35.
 
@@ -655,7 +725,7 @@ Los visitados, sus representantes o la persona con quien se entienda la visita e
 
 Los visitadores podrán recoger la contabilidad para examinarla en las oficinas de la autoridad fiscal, cuando se dé (sic) algunos de los siguientes supuestos:
 
-I.- El visitado, su representante o quien se encuentre en el lugar de la visita se niegue a recibir la orden ;
+I.- El visitado, su representante o quien se encuentre en el lugar de la visita se niegue a recibir la orden;
 
 II.- Existan sistemas dé contabilidad, registros o libros sociales que no estén sellados cuando deban estarlo conforme a las disposiciones fiscales;
 
@@ -793,13 +863,21 @@ V.- Por resolución de autoridad fiscal competente que imponga sanción por la c
 
 Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven sus actos o resoluciones cuando el afectado lo niegue lisa y llanamente, a menos que la negativa implique la afirmación de otro hecho.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 57
+
+Bis.- El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias, estará obligado a guardar absoluta reserva en lo concerniente a los documentos y datos suministrados por los contribuyentes o por terceros con ellos relacionados; así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquéllos en que deban suministrarse datos a los servidores públicos encargados de la administración y de la defensa de los intereses fiscales, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias.
+
 ## TITULO CUARTO. DE LAS INFRACCIONES Y DELITOS FISCALES
 
 ### CAPITULO I. REGLAS DE LA APLICACION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 58.
 
-Corresponde a las autoridades fiscales competentes declarar que se ha cometido una infracción a las leyes fiscales y demás disposiciones de orden hacendario y la facultad de imponer las sanciones que correspondan.
+Corresponde a las autoridades fiscales competentes, declarar que se ha cometido una infracción a las leyes fiscales y demás disposiciones y convenios de orden hacendario y fiscal y la facultad de imponer las sanciones que correspondan.
 
 Tratándose de infracciones cometidas por servidores públicos, las sanciones se impondrán por el superior jerárquico que corresponda, previa comprobación de las infracciones cometidas.
 
@@ -837,9 +915,11 @@ La solicitud de reducción o condonación de multas en los términos de este art
 
 Sólo procederá la reducción o condonación de multas que hayan quedado firmes, siempre que se solicite dentro de los seis días hábiles siguientes a dicha circunstancia y que un acto administrativo conexo no sea materia de impugnación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 64.
 
-La Tesorería Municipal al momento de calificar e imponer una infracción, deberá tomar en cuenta lo siguiente:
+La Tesorería Municipal, las unidades administrativas y autoridades auxiliares debidamente facultadas, al momento de calificar e imponer una infracción, deberán tomar en cuenta lo siguiente:
 
 I.- La gravedad de la infracción;
 
@@ -881,13 +961,23 @@ VIII.- Por no pagar en forma total o parcial los impuestos o derechos en los pla
 
 IX.- Por no cubrir el pago de impuestos y derechos, corno consecuencia de simulaciones, falsificaciones y otras maniobras de mala fe o dolo, se impondrá una multa hasta de cinco tantos de los créditos fiscales omitidos.
 
-X.- No suministrar los datos o informes que legalmente puedan exigir las autoridades fiscales municipales o aquellos funcionarios a quienes se les delegue la facultad de inspección de las actividades que generen créditos fiscales a cargo de los particulares, multa de 50 a 1000 S.M.G.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+X.- Resistirse por cualquier medio a las visitas de verificación, no suministrar los datos o informes que legalmente puedan exigir las autoridades fiscales municipales o aquéllos funcionarios a quienes se les delegue la facultad de inspección de las actividades que generen créditos fiscales municipales a cargo de los particulares, multa de 50 a 2,500 S.M.G.
 
 XI.- Por no presentar a las autoridades fiscales municipales cuando éstas lo solicitan, las licencias, autorizaciones o permisos de funcionamiento de los giros comerciales e industriales, multa de 10 a 250 S.M.G.
 
 XII.- Por iniciar cualquier actividad económica sin haber cubierto los requisitos exigidos por los distintos ordenamientos fiscales municipales, multa de 10 a 250 S.M.G.
 
 XIII.- Cuando las autoridades fiscales con motivo del ejercicio de sus facultades de comprobación, respecto de contribuciones que se pagan mediante declaración periódica formulada por los contribuyentes, detecten irregularidades, procederán a determinar las contribuciones omitidas presuntamente e impondrán multas de 1 a 4 tantos de los créditos presumiblemente omitidos.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+XIV.- Traficar con documentos o comprobantes de pago de prestaciones fiscales, o hacer uso ilegal de ellos y se sancionará con una multa de 1 a 4 tantos de los créditos presumiblemente omitidos.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+XV.- Por interponer o por entorpecer por cualquier medio para evitar los actos o mandamientos de la autoridad fiscal, en el ejercicio de sus facultades: Multas de 100 hasta 500 S.M.G.
 
 ###### ARTICULO 68.
 
@@ -904,6 +994,14 @@ IV.- Por no enterar total o parcialmente dentro de los plazos que establezcan la
 V.- Por no cerciorarse al transportar o almacenar bienes que deban pagar impuestos o derechos, cuando las disposiciones fiscales municipales les impongan esa obligación, multa de 100 a 1,000 S.M.G.
 
 VI.- Por infringir disposiciones fiscales municipales en forma distinta de las previstas en las fracciones precedentes, multa de 100 a 800 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+VII.- Autorizar actos, contratos o escrituras, en donde no se haya cumplido con las disposiciones fiscales, dejar de calcular contribuciones respecto a las escrituras o cualquier contrato que se otorgue ante la fe de los Notarios, o efectuarla sin sujetarse a lo previsto por las disposiciones de éste Código: se sancionará con multa de 50 a 100 días de S.M.G., siempre que no pueda determinarse el monto de la contribución omitida, de lo contrario, la multa será hasta de un tanto de la contribución.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+VIII.- Resistirse por cualquier medio a las visitas de verificación, no suministrar los datos o informes que legalmente puedan exigir las autoridades fiscales municipales o aquellos funcionarios a quienes se les delegue la facultad de inspección de las actividades que generen créditos fiscales municipales a cargo de los particulares, multa de 50 a 2,500 S.M.G.
 
 ###### ARTICULO 69.
 
@@ -1183,7 +1281,9 @@ II.- Que sean resoluciones dictadas en recurso administrativo o en cumplimiento 
 
 III.- Que se hayan consentido, entendiéndose por consentimiento el de aquellos contra los que no se promovió el recurso en el plazo señalado al efecto;
 
-IV.- Que ordenen practicar visitas domiciliarias;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+IV.- Que ordenen practicar visitas domiciliarias o de inspección:
 
 V.- Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente; y
 
@@ -1349,7 +1449,7 @@ V.- Embargo en la vía administrativa.
 
 La garantía deberá comprender además de las contribuciones adeudadas, los accesorios causados, así como los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá ampliarse la garantía para que cubra el crédito y el importe de los recargos, incluso los correspondientes a los doce mese (sic) siguientes.
 
-El Tesorero Municipal podrá dispensar las garantías del interés fiscal cuando, en relación con el monto del crédito respectivo, sean (sic) notaría(sic) la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
+El Tesorero Municipal podrá dispensar las garantías del interés fiscal cuando, en relación con el monto del crédito respectivo, sean (sic) notaría (sic) la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
 
 ###### ARTICULO 114.
 
@@ -1413,9 +1513,15 @@ El término de la prescripción se inicia a partir de la fecha en que el pago pu
 
 Los contribuyentes podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 120-A.
+
+Los Ayuntamientos podrán cancelar créditos fiscales en las cuentas públicas, por la no localización del contribuyente, incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios. La cancelación de créditos fiscales por la incosteabilidad en el cobro, o por la insolvencia del sujeto pasivo, de los responsables solidarios o de los responsables objetivos, no libera a unos y otros de su obligación.
+
 ###### ARTICULO 121.
 
-Las. controversias que surjan entre el fisco municipal y el estatal sobre preferencias en el cobro de los créditos a que éste Código se refiere, se decidirán por los Tribunales competentes del estado conforme a las siguientes reglas:
+Las controversias que surjan entre el fisco municipal y el estatal sobre preferencias en el cobro de los créditos a que éste Código se refiere, se decidirán por los Tribunales competentes del estado conforme a las siguientes reglas:
 
 I.- La preferencia corresponderá al fisco que tenga a su favor créditos por impuestos sobre la propiedad raíz tratándose sobre los frutos de los bienes inmuebles o del producto de la venta de éstos; y
 
@@ -1455,7 +1561,9 @@ II.- Por el embargo a que se refiere la fracción II del artículo 125 de este c
 
 III.- Por la de remate, enajenación fuera de remate o adjudicación al fisco municipal a que se refiere la fracción II del artículo 152 del presente ordenamiento.
 
-Cuando en los casos de las fracciones anteriores, el dos por ciento del crédito sea inferior a tres meses del salario mínimo general correspondiente al estado de Quintana Roo, se cobrará ésta cantidad en lugar del dos por ciento del crédito.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+Cuando en los casos de las fracciones anteriores, el dos por ciento del crédito sea inferior a 5.5 del salario mínimo general correspondiente al Estado de Quintana Roo, se cobrará esta cantidad en lugar del dos por ciento del crédito por cada acción efectuada por la autoridad fiscal.
 
 En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrá exceder de la cantidad equivalente a un salario mínimo general correspondiente al estado de Quintana Roo, elevado al año.
 
@@ -1639,9 +1747,11 @@ II.- El nombre de la persona o personas que deben realizar la diligencia, las qu
 
 Las clausuras a que se refiere este artículo serán sin perjuicio de las que como sanción se autoricen en este Código u otras leyes.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 141.
 
-La orden de clausura deberá ser notificada personalmente siguiendo las formalidades establecidas al efecto por el artículo 133 de este Código.
+La orden de clausura deberá ser notificada personalmente siguiendo las formalidades establecidas al efecto por los artículos 109 y 110, de este Código.
 
 ###### ARTICULO 142.
 
@@ -1745,7 +1855,9 @@ La base para el remate de los bienes secuestrados será la que resulte de la val
 
 I.- La autoridad que deba proceder al remate, nombrará un perito y una vez que éste haya aceptado el cargo, deberá rendir su dictamen dentro del término de diez días, si se trata de avalúo de bienes muebles, veinte días si se trata de avalúos de bienes inmuebles y treinta días si se trata de avalúos de negociaciones, contados a partir de la fecha de su aceptación. Se notificará al interesado para que de no estar conforme con el peritaje, nombre perito de su parte dentro de los tres días siguientes a su notificación. Dicho perito deberá. comparecer ante la autoridad dentro de los dos días siguientes a su designación de aceptar el cargo, debiendo emitir su dictamen dentro de los plazos señalados al inició de esta fracción, a partir de su aceptación. En caso de que el interesado no designe perito se le tendrá por conforme.
 
-II.- En caso de que haya desacuerdo entre los dictámenes de los peritos designados, la autoridad ejecutora nombrará un perito tercero en discordia, quien dentro del plazo señalado en la fracción anterior, deberá rendir su dictamen.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+II.- Cuando del dictamen rendido por el perito del embargado o terceros acreedores resulte una diferencia al (sic) valor superior al 10% del determinado por la autoridad exactora, ésta designará dentro del término de seis días, un tercer perito valuador, quien dentro del plazo señalado en la fracción anterior, deberá rendir su dictamen. El avalúo que se fije será la base para la enajenación de los bienes.
 
 ###### ARTICULO 156.
 
@@ -1827,7 +1939,7 @@ La cancelación a que se refiere el párrafo anterior no causará los derechos c
 
 ###### ARTICULO 167.
 
-Una vez que se hubiere otorgado y firmado la escritura en que conste la adjudicación de un inmueble; la autoridad ejecutora dispondrá que se entregue al adquirente, girando las ordenes necesarias.
+Una vez que se hubiere otorgado y firmado la escritura en que conste la adjudicación de un inmueble; la autoridad ejecutora dispondrá que se entregue al adquirente, girando las órdenes necesarias.
 
 ###### ARTICULO 168.
 
@@ -1922,3 +2034,9 @@ P.O. 30 DE DICIEMBRE DE 2002.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones aquí relacionadas con vigencia anterior al presente decreto.
+
+P.O. 16 DE DICIEMBRE DE 2003.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones aquí relacionadas con vigencia anteriores al presente decreto.
