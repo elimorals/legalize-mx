@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-en-materia-de-impacto-ambiental-a-que-se-refiere-258
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-03-26"
-last_updated: "1992-03-26"
+last_updated: "2005-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25866&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO EN MATERIA DE IMPACTO AMBIENTAL A QUE SE REFIERE LA LEY DE EQUILIBRIO ECOLOGICO Y PROTECCION DEL AMBIENTE DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE QUINTANA ROO, EN MATERIA DE IMPACTO AMBIENTAL, PUBLICADO EN EL P.O. DE 28 DE FEBRERO DE 2005, EL PRESENTE ORDENAMIENTO QUEDA DEROGADO EN LO QUE SE OPONGAN AL NUEVO REGLAMENTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2005.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 26 de marzo de 1992.
 
@@ -622,3 +624,13 @@ PEDRO RAMON PEÑA XICUM
 CONTRALOR DE GOBIERNO
 
 CORA AMALIA CASTILLA MADRID.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETO DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE FEBRERO DE 2005.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se deroga cualquier ordenamiento, disposición, norma, criterio, lineamiento o similar a alguno de ellos y todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+Tercero.- Todos los procedimientos de solicitudes de evaluación de impacto ambiental que se encuentren en trámite se resolverán de conformidad con la Ley y el Reglamento vigente en el momento de su presentación, excepto aquellos en los que los promoventes soliciten la aplicación del presente ordenamiento.
