@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-municipal-del-estado-de-veracruz-llave-6579"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1991-12-24"
+last_updated: "1992-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 1992.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -377,7 +377,7 @@ Predios en que se ubiquen plantas de beneficio y establecimientos metalúrgicos 
 
 > <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
-IV.- Predios Baldíos ……………………………………………………………………….7.5
+IV.- Predios Baldíos …………………………………………………………………….....7.5
 
 Por predio baldío se entiende el urbano sin edificaciones, en los términos de la Ley de Catastro del Estado.
 
@@ -715,9 +715,15 @@ c).- Beisbol, futbol, basquetbol, tenis, pelota vasca y otros juegos de pelota, 
 
 V.- Corridas de toros, becerradas, novilladas, jaripeos, peleas de gallos y otros espectáculos similares, sobre los ingresos brutos obtenidos el 10%;
 
-VI.- Representaciones teatrales de comedias, drama, ópera, opereta, zarzuela, revista, vodevil, variedades, ballet o revista sobre hielo o acuáticas, conciertos y conferencias, sobre el precio de cada boleto, ficha o pase de cualquier clase que dé derecho a entrar al espectáculo, el 10%;
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 1992)</small>
+
+VI.- Representaciones teatrales de comedias, drama, ópera, opereta, zarzuela, revista, vodevil, variedades, ballet o revista sobre hielo o acuáticas, conciertos y conferencias, sobre el precio de cada boleto, ficha o pase de cualquier clase que dé derecho a entrar al espectáculo el 3%.
 
 VII.- Exhibiciones y concursos, sobre el precio de cada boleto, ficha o pase de cualquier clase, que dé derecho a entrar al espectáculo, el 5%.
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 1992)</small>
+
+VIII.- Los no comprendidos en las fracciones anteriores, sobre el precio del boleto, el 10%.
 
 ###### ARTICULO 76.
 
@@ -3158,3 +3164,13 @@ Este ordenamiento entrará en vigor el día primero de enero de mil novecientos 
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+G.O. 1 DE FEBRERO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+El presente ordenamiento entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a este ordenamiento.
