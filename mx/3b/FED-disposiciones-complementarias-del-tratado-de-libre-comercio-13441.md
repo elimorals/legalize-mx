@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2000-12-28"
+last_updated: "2000-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,21 +18,25 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO QUE REFORMA AL DIVERSO POR EL QUE SE ESTABLECE LA SECCION MEXICANA DEL SECRETARIADO DE LOS TRATADOS DE LIBRE COMERCIO Y SE LE ADSCRIBEN LAS AREAS QUE SE INDICAN
+DECRETO POR EL QUE SE ABROGA AL DIVERSO QUE ESTABLECE EL PROGRAMA DE IMPORTACION TEMPORAL PARA SERVICIOS INTEGRADOS A LA EXPORTACION, PUBLICADO EL 11 DE ABRIL DE 1997
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 28 de diciembre de 2000.
+Decreto publicado en la Sexta Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 2000.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-LUIS ERNESTO DERBEZ BAUTISTA, Secretario de Economía, con fundamento en los artículos quinto transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, de la Ley Federal de Radio y Televisión, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, de la Ley de la Policía Federal Preventiva y de la Ley de Pesca; 5 fracciones X y XI del Reglamento Interior de la Secretaría de Comercio y Fomento Industrial, y
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, y con fundamento en los artículos 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y
 
 CONSIDERANDO
 
-Que con fecha 19 de julio de 1996, se publicó en el Diario Oficial de la Federación, el Acuerdo por el que se establece la Sección Mexicana del Secretariado de los Tratados de Libre Comercio y se le adscriben las áreas que se indican, y reformado mediante diverso publicado en el mismo medio de información el 28 de abril de 1997, y
+Que el Decreto que establece el Programa de Importación Temporal para Servicios Integrados a la Exportación fue publicado el 11 de abril de 1997 en el Diario Oficial de la Federación;
 
-Que en el artículo 2o. del citado Acuerdo se determina la estructura de dicha Unidad Administrativa de esta Secretaría, la cual se modifica para su óptimo desempeño, he tenido a bien expedir el siguiente:
+Que el Tratado de Libre Comercio de América del Norte prevé que a partir del octavo año de su vigencia los beneficios de exención arancelaria a la importación de maquinaria y equipo deben ser eliminados cuando estén condicionados a la exportación;
 
-ACUERDO QUE REFORMA AL DIVERSO POR EL QUE SE ESTABLECE LA SECCION MEXICANA DEL SECRETARIADO DE LOS TRATADOS DE LIBRE COMERCIO Y SE LE ADSCRIBEN LAS AREAS QUE SE INDICAN
+Que el Acuerdo sobre Subvenciones y Medidas Compensatorias de la Organización Mundial de Comercio, en vigor desde 1995, establece que los beneficios de exención arancelaria a la importación de maquinaria y equipo deben ser eliminados cuando estén condicionados a la exportación, y
+
+Que en el marco de las obligaciones internacionales adquiridas por México en el Tratado de Libre Comercio de América del Norte y la Organización Mundial de Comercio, el Programa de Importación Temporal para Servicios Integrados a la Exportación pierde los incentivos materia del mismo, ya que únicamente permite la importación temporal de maquinaria y equipo, he tenido a bien expedir el siguiente
+
+DECRETO
 
 ## TITULO I: DISPOSICIONES GENERALES
 
@@ -64,33 +68,9 @@ XI.- “Trato arancelario preferencial” o “tasa arancelaria preferencial”,
 
 Se establecen las reglas de marcado de país de origen para determinar cuando una mercancía importada a territorio nacional se puede considerar una mercancía estadounidense o canadiense, de conformidad y para los efectos señalados en el Artículo 311 y Anexo 311 del Tratado de Libre Comercio de América del Norte.
 
-###### ARTICULO UNICO.
+###### ARTÍCULO ÚNICO.
 
-Se reforma el artículo 2o. del Acuerdo por el que se establece la Sección Mexicana del Secretariado de los Tratados de Libre Comercio y se le adscriben las áreas que se indican, para quedar como sigue:
-
-“ARTICULO 2o.- La Sección Mexicana del Secretariado de los Tratados de Libre Comercio, tendrá adscritos a un Secretario General que será su titular, así como tres direcciones de área, cinco subdirecciones y tres jefaturas de departamento que le auxiliarán en el cumplimiento de sus funciones, que serán las siguientes:
-
-I. Dirección Jurídica:
-
-a) Subdirección de Solución de Controversias del Tratado de Libre Comercio de América del Norte.
-
-- Departamento de Solución de Controversias.
-
-II. Dirección de Registro e Informática:
-
-a) Subdirección de Registro.
-
-- Departamento de Registro.
-
-b) Subdirección de Informática.
-
-- Departamento de Informática.
-
-III. Dirección Administrativa:
-
-a) Subdirección de Atención a Panelistas.
-
-b) Subdirección de Recursos Humanos y Materiales.”
+Se abroga el Decreto que establece el Programa de Importación Temporal para Servicios Integrados a la Exportación, publicado en el Diario Oficial de la Federación el 11 de abril de 1997.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -604,8 +584,6 @@ Se adicionan al Apéndice del Decreto que establece la tasa aplicable para 2000 
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+PRIMERO.- El presente Decreto entrará en vigor el 1 de enero de 2001.
 
-SEGUNDO.- El Oficial Mayor de la Secretaría proveerá lo conducente en términos del artículo segundo transitorio del diverso que se reforma en virtud de este Acuerdo.
-
-México, D.F., a 21 de diciembre de 2000.- El Secretario de Economía, Luis Ernesto Derbez Bautista.- Rúbrica.
+SEGUNDO.- Las mercancías importadas al amparo del Programa de Importación Temporal para Servicios Integrados a la Exportación continuarán bajo dicho régimen por los plazos que les correspondan de conformidad con lo establecido en las disposiciones aduaneras vigentes al momento de su importación.
