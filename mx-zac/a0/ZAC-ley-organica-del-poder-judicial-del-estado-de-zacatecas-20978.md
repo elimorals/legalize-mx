@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-judicial-del-estado-de-zacatecas-20978"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-04"
-last_updated: "2001-04-04"
+last_updated: "2002-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2002.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 4 de abril del 2001.
 
@@ -343,7 +343,7 @@ Atribuciones
 
 El Presidente del Tribunal Superior de Justicia será electo por el Pleno, durará en el ejercicio del cargo tres años, podrá ser reelecto por una sola vez, no integrará sala y ejercerá las atribuciones siguientes:
 
-I. Ser el representante legal del Poder Judicial del Estado.
+I. Ser el representante legal del Poder Judicial del Estado;
 
 II. Vigilar que la administración de justicia sea pronta, expedita y eficaz;
 
@@ -1289,111 +1289,139 @@ El Tribunal Estatal Electoral es un órgano especializado del Poder Judicial del
 
 Los Magistrados que lo integren deberán reunir los requisitos que se exigen en el artículo 97 de la Constitución Política del Estado y esta Ley, para su designación se observarán las reglas y procedimientos siguientes:
 
-I. El Pleno del Tribunal Superior de Justicia aprobará, en sesión privada, por mayoría, previa consulta con los partidos políticos representados en la Legislatura del Estado, la propuesta de ternas que someterán a ésta o, en su caso, a la Comisión Permanente;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
-II. El Presidente del Tribunal Superior de Justicia hará llegar a la Legislatura del Estado o, en su caso, a la Comisión Permanente, las propuestas de ese órgano colegiado, por cada uno de los cargos de Magistrados a elegir para las Salas de Primera y de Segunda Instancia;
+I. El Pleno del Tribunal Superior de Justicia aprobará, en sesión privada, por mayoría, las ternas que deben someterse a la Legislatura del Estado o, en su caso, a la Comisión Permanente de la misma, para la designación de Magistrados Electorales;
 
-III. Se indicará la Sala para la que se propone;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
+II. El Presidente del Tribunal Superior de Justicia hará llegar a la Legislatura del Estado o, en su caso, a la Comisión Permanente, las propuestas de ese órgano colegiado, por cada uno de los cargos de Magistrados a elegir;
+
+III. (DEROGADA, P.O. 12 DE ENERO DE 2002)
 
 IV. La Legislatura del Estado o, en su caso, la Comisión Permanente, elegirá, dentro de los ocho días siguientes a la recepción de la propuesta, a los Magistrados Electorales por el voto de las dos terceras partes de sus miembros presentes; y
 
 V. Si no es electo el candidato, conforme se señala en el inciso anterior, se notificará al Pleno del Tribunal Superior de Justicia para que presente nueva propuesta, la cual deberá enviarse dentro de los tres días siguientes, para que se vote a más tardar dentro de los cinco días posteriores a la recepción de la nueva propuesta.
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+
 ###### Artículo 77.
 
-El Tribunal Estatal Electoral funcionará con dos Salas, una de Primera Instancia y otra de Segunda Instancia.
+El Tribunal Estatal Electoral en Sala única, compuesta por cinco Magistrados.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
 
 ###### Artículo 78.
 
-En términos del artículo 103 de la Constitución Política del Estado, el Tribunal Estatal Electoral, de conformidad con lo que señalen la propia Constitución y las leyes aplicables, es competente para resolver:
+En términos del artículo 103 de la Constitución Política del Estado, el Tribunal Estatal Electoral, de conformidad con lo que señalen la propia Constitución y las leyes aplicables, es competente para resolver, en una sola instancia y en forma definitiva e inatacable:
 
-I. En forma definitiva e inatacable las impugnaciones sobre las elecciones para Diputados Locales y de Ayuntamientos.
+I. Las impugnaciones sobre las elecciones para Diputados Locales y de Ayuntamientos.
 
-II. En una sola instancia y en forma definitiva e inatacable sobre las impugnaciones de la elección de Gobernador Constitucional del Estado. Una vez resueltas las que se hubieren interpuesto, la Sala de Segunda Instancia, a más tardar el 15 de agosto del año de la elección, realizará el cómputo final, procediendo a formular la declaración de validez de la elección y la de Gobernador Electo, respecto del candidato que hubiese obtenido el mayor número de votos.
+II. Las impugnaciones de la elección de Gobernador del Estado. Una vez resueltas las que se hubieren interpuesto, a más tardar el quince de agosto del año de la elección, la Sala realizará el cómputo final, procediendo a formular la declaración de validez de la elección y la de Gobernador electo, respecto del candidato que hubiese obtenido el mayor número de votos.
 
-La declaración de validez de la elección y la de Gobernador Electo formuladas por la Sala de Segunda Instancia se notificarán a la Legislatura del Estado, a efecto de que esta última decrete, la expedición y publicación del Bando Solemne a que se refiere el artículo 65, fracción XLII de la Constitución Política del Estado.
+La declaración de validez de la elección y la de Gobernador electo formuladas por el Tribunal Estatal Electoral, se notificarán a la Legislatura del Estado, a efecto de que esta última decrete, la expedición y publicación del Bando Solemne a que se refiere el artículo 65, fracción XLII de la Constitución Política del Estado.
 
-III. En forma definitiva e inatacable, las controversias que se susciten por:
+III. Actos y resoluciones de la autoridad electoral, distintas a las señaladas en las dos fracciones anteriores, que violen las normas constitucionales o legales.
 
-a) Actos y resoluciones de la autoridad electoral, distintas a las señaladas en las dos fracciones anteriores, que violen normas constitucionales o legales;
+IV. Conflictos o diferencias laborales con sus servidores y los correspondientes a los demás órganos electorales;
 
-b) Conflictos o diferencias laborales con sus servidores y los correspondientes a los demás órganos electorales;
+V. La determinación e imposición de sanciones en la materia; y
 
-c) La determinación e imposición de sanciones en la materia.
+VI. Las demás que le señale la ley.
 
-IV. Las demás que le señale la Ley.
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ENERO DE 2002)</small>
 
-### CAPITULO SEGUNDO. DE LA INTEGRACION Y FUNCIONAMIENTO DE LA SALA DE SEGUNDA INSTANCIA
+### CAPITULO SEGUNDO. DE LA INTEGRACION Y FUNCIONAMIENTO DE LA SALA DEL TRIBUNAL ESTATAL ELECTORAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
 
 ###### Artículo 79.
 
-La Sala de Segunda Instancia estará integrada por tres Magistrados Electorales. Para que pueda sesionar válidamente se requerirá de la totalidad de sus miembros, sus resoluciones se tomarán por unanimidad o mayoría en los casos expresamente señalados en la Ley.
+La Sala del Tribunal Estatal Electoral estará integrada por cinco magistrados electorales. Para que pueda sesionar válidamente se requerirá por lo menos cuatro de sus miembros; sus resoluciones se tomarán por unanimidad o mayoría en los casos expresamente señalados en la ley.
 
-Los Magistrados Electorales sólo podrán abstenerse de conocer en los casos en que tengan impedimento legal. Cuando éste haya sido declarado procedente, se podrá llamar a un Magistrado Electoral de la Sala de Primera Instancia que, respecto del asunto motivo del recurso, no haya intervenido en su resolución o se llamará a integrarla al Secretario General de Acuerdos o al Secretario de Acuerdos de la Sala de Primera Instancia.
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+
+Los Magistrados Electorales sólo podrán abstenerse de conocer en los casos en que tengan impedimento legal. Cuando éste haya sido declarado procedente, se podrá llamar a integrar Sala al Secretario de Acuerdos, o a los Secretarios de Estudio y Cuenta que reúnan el perfil profesional.
 
 Cuando un Magistrado Electoral disintiere de la mayoría o su proyecto fuera rechazado, podrá formular voto particular, el cual se insertará al final de la sentencia aprobada, siempre y cuando se presente antes de que sea firmada esta última.
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+
 ###### Artículo 80.
 
-La Sala de Segunda Instancia elaborará anualmente el proyecto de su presupuesto y lo presentará al Pleno del Tribunal Superior de Justicia para su inclusión en el del Poder Judicial del Estado.
+La Sala elaborará anualmente el proyecto de su presupuesto y lo presentará al Pleno del Tribunal Superior de Justicia para su inclusión en el del Poder Judicial del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
 
 ###### Artículo 81.
 
-El Reglamento Interior y los acuerdos generales necesarios para el adecuado funcionamiento del Tribunal Estatal Electoral serán emitidos por la Sala de Segunda Instancia.
+La Sala del Tribunal Estatal Electoral emitirá el reglamento interior y los acuerdos generales que requiera el adecuado funcionamiento del Organo.
 
 Esta Sala será, además, la responsable de conducir las relaciones con otros Tribunales Electorales, autoridades e instituciones.
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+
 ###### Artículo 82.
 
-La Sala de Segunda Instancia nombrará al Secretario General de Acuerdos de la misma y propondrá a los Secretarios, Actuarios, así como al demás personal administrativo y jurídico que se requiera para el adecuado funcionamiento del Tribunal, conforme a los lineamientos que dicte la Comisión de Administración.
+Los Magistrados de la Sala nombrarán al Secretario de Acuerdos de la misma y propondrán a los Secretarios, Actuarios, así como al demás personal administrativo y jurídico que se requiera para el adecuado funcionamiento del Tribunal, conforme a los lineamientos que dicte la Comisión de Administración.
 
 ### CAPITULO TERCERO. DE SUS ATRIBUCIONES
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+
 ###### Artículo 83.
 
-La Sala de Segunda Instancia tendrá competencia para:
+La Sala del Tribunal Estatal Electoral tendrá competencia par conocer y emitir fallo en revisión, respecto de las resoluciones recaídas con motivo de la interposición de recursos de revocación.
 
-I. Conocer y resolver, en forma definitiva e inatacable, las controversias que se susciten por:
+I. Conocer en forma definitiva e inatacable:
 
-a) Los recursos de inconformidad, en única instancia, que se presenten en contra de los cómputos distritales y estatal de la elección de Gobernador Constitucional del Estado, en los términos de la ley de la materia, una vez resueltos los que se hubieren interpuesto, realizará el cómputo final, procediendo a formular la declaración de validez de la elección y la de Gobernador Electo, respecto al candidato que hubiere obtenido el mayor número de votos. La decisión que adopte la Sala de Segunda Instancia, será comunicada de inmediato a la Legislatura del Estado para los efectos constitucionales correspondientes;
+a) Los recursos de inconformidad que se presenten en contra de los cómputos distritales y estatal de la elección de Gobernador del Estado, en los términos de la ley de la materia. Una vez resueltos los que se hubieren interpuesto, realizará el cómputo final, procediendo a formular la declaración de validez de la elección y la de Gobernador Electo, respecto al candidato que hubiere obtenido el mayor número de votos. La decisión que adopte la Sala, será comunicada de inmediato a la Legislatura del Estado para los efectos constitucionales correspondientes;
 
-b) Los recursos de apelación que en segunda instancia se presenten en contra de las resoluciones de la Sala de Primera Instancia, recaídas a los medios de impugnación previstos en la Ley de la materia, en las elecciones de Diputados Locales y de Ayuntamientos;
+b) Los recursos de inconformidad encaminados a que se declare la nulidad de las elecciones, o para impugnar, en la elección de Diputados por ambos principios, los resultados consignados en las actas de computo distrital o estatal respectivas, por nulidad de la votación recibida en una o varias casillas o por error aritmético; la declaración de validez de la elección, la expedición de las Constancias de Mayoría o de Asignación, según sea el caso.
 
-c) Los recursos de apelación que se presenten en contra de actos y resoluciones del Consejo General y del Consejero Presidente, relativos a las observaciones hechas por los partidos políticos a listas nominales de electores en los términos de las leyes aplicables;
+c) Los recursos de inconformidad encaminados a que se declare nulidad de las elecciones, o para impugnar, en la elección de Ayuntamientos, los resultados consignados en las actas de cómputo municipal o estatal respectivas, por nulidad de la votación recibida en una o varias casillas o por error aritmético; la declaración de validez de la elección, la expedición de las Constancias de Mayoría o de Asignación, según sea el caso;
 
-d) Los recursos de revisión, en única instancia, que se presenten en contra de actos y resoluciones de la autoridad electoral, durante el tiempo en que no se desarrollen procesos electorales locales, de conformidad con la Ley de la materia;
+d) Los recursos de revisión, que se presenten en contra de actos y resoluciones del Consejo General y del Consejero Presidente, relativos a las observaciones hechas por los partidos políticos a listas nominales de electores en los términos de las leyes aplicables; asimismo en contra de actos y resoluciones de la autoridad electoral, durante el tiempo en que no se desarrollen procesos electorales locales, de conformidad con la ley de la materia;
 
-e) Los conflictos o diferencias laborales entre el Tribunal Estatal Electoral y sus servidores; y
+e) Los recursos de revisión, respecto de las impugnaciones por la determinación y, en su caso, aplicación de sanciones a ciudadanos, partidos políticos, organizaciones o agrupaciones políticas o de ciudadanos, observadores y cualquier otra persona física o moral, en los términos de la ley de la materia;
 
-f) Los conflictos o diferencias laborales entre el Instituto Electoral del Estado y sus servidores.
+f) Los conflictos o diferencias laborales entre el Tribunal Estatal Electoral y sus servidores; y
 
-II. Conocer de las impugnaciones por la determinación y, en su caso, aplicación de sanciones a ciudadanos, partidos políticos, organizaciones o agrupaciones políticas o de ciudadanos, observadores y cualquier otra persona física o moral, en los términos de la Ley de la materia.
+g) Los conflictos o diferencias laborales entre el Instituto Electoral del Estado y sus servidores.
 
-III. Apercibir, amonestar e imponer multas hasta por doscientas veces el importe del salario mínimo diario general vigente en el Estado al momento de cometerse la falta, a aquellas personas que falten al respeto en las promociones, a algún órgano o miembro del Tribunal Estatal Electoral.
+II. Apercibir, amonestar e imponer multas hasta por doscientas veces el importe del salario mínimo diario general vigente en el Estado al momento de cometerse la falta, a aquellas personas que falten al respeto en las promociones, a algún órgano o miembro del Tribunal Estatal Electoral;
 
-IV. Elegir a su Presidente, así como conocer y aceptar, en su caso, su renuncia a dicho cargo.
+III. Elegir a su Presidente, así como conocer y aceptar, en su caso, su renuncia a dicho cargo;
 
-V. Conceder licencia a los Magistrados Electorales que lo integran, siempre que no exceda de un mes.
+IV. Conceder licencia a los Magistrados Electorales que lo integran, siempre que no exceda de un mes;
 
-VI. Proponer a la Comisión de Administración el nombramiento de los servidores públicos, jurídicos y administrativos, que deban auxiliar en sus funciones al Tribunal Estatal Electoral;
+V. Proponer a la Comisión de Administración el nombramiento de los servidores públicos, jurídicos y administrativos, que deban auxiliar en sus funciones al Tribunal Estatal Electoral;
 
-VII. Aprobar el reglamento interior y dictar los acuerdos generales en las materias de su competencia.
+VI. Aprobar el reglamento interior y dictar los acuerdos generales en las materias de su competencia;
 
-VIII. Fijar los días y horas en que deba sesionar la Sala, tomando en cuenta los plazos electorales.
+VII. Fijar los días y horas en que deba sesionar la Sala, tomando en cuenta los plazos electorales;
 
-IX. Conocer y resolver sobre las excusas o impedimentos de los Magistrados Electorales que la integran.
+VIII. Conocer y resolver sobre las excusas o impedimentos de los Magistrados Electorales que la integran;
 
-X. Insacular de entre sus miembros a quien formará parte de la Comisión de Administración.
+IX. Insacular de entre sus miembros a quien formará parte de la Comisión de Administración;
 
-XI. Las demás que le confieran las leyes y el Reglamento Interno del Tribunal.
+X. Las demás que le confieran las leyes y el Reglamento Interno del Tribunal.
 
 ### CAPITULO CUARTO. DEL PRESIDENTE DEL TRIBUNAL ESTATAL ELECTORAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
+
 ###### Artículo 84.
 
-El último viernes del mes de septiembre del año que corresponda, los miembros de la Sala de Segunda Instancia elegirán de entre ellos a su Presidente, quien lo será también del Tribunal, por un periodo de dos años, pudiendo ser reelecto.
+El último viernes del mes de septiembre del año que corresponda, los miembros de la Sala elegirán de entre ellos a su Presidente, quien lo será también del Tribunal, por un periodo de dos años, pudiendo ser reelecto.
 
-Las ausencias del Presidente serán suplidas, si no exceden de un mes, por el Magistrado Electoral de mayor edad, llamándose a integrar Sala al Secretario General de Acuerdos. Si la ausencia excediere de dicho plazo pero fuere menor a seis meses, se designará a un Presidente Interino, y si fuere mayor a ese término, definitiva u ocurriera en la etapa de la preparación del proceso electoral o durante éste, se comunicará al Pleno del Tribunal Superior de Justicia para la designación de un Magistrado Electoral y, se elegirá, en su oportunidad, a un Presidente Sustituto para que ocupe el cargo hasta el final del periodo.
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+
+Las ausencias del Presidente serán suplidas, si no exceden de un mes, por el Magistrado Electoral de mayor edad, llamándose a integrar Sala al Secretario de Acuerdos. Si la ausencia excediere de dicho plazo pero fuere menor a seis meses, se designará a un Presidente Interino, y si fuere mayor a ese término, definitiva u ocurriera en la etapa de la preparación del proceso electoral o durante éste, se comunicará al Pleno del Tribunal Superior de Justicia para que proponga ante la Legislatura, la designación de un Magistrado Electoral y, se elegirá, en su oportunidad, a un Presidente Sustituto para que ocupe el cargo hasta el final del periodo.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2002)</small>
+
+Si la ausencia de un Magistrado es definitiva, el Presidente de la Sala lo notificará de inmediato al Presidente del Tribunal Superior de Justicia, a fin de que se promueva el nombramiento correspondiente. En este caso, en tanto se hace la elección respectiva, la Sala podrá habilitar como Magistrado al Secretario de Acuerdos o al Secretario de Estudio y Cuenta que a criterio de los Magistrados, reúna el perfil profesional idóneo.
 
 ###### Artículo 85.
 
@@ -1401,15 +1429,25 @@ El Presidente del Tribunal Estatal Electoral tendrá las atribuciones siguientes
 
 I. Representar al Tribunal Estatal Electoral y celebrar todo tipo de actos jurídicos y administrativos que se requieran para el buen funcionamiento del mismo;
 
-II. Presidir la Sala de Segunda Instancia;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
-III. Conducir las sesiones de la Sala de Segunda Instancia y conservar el orden durante las mismas. Cuando los asistentes no guarden la compostura debida, podrá ordenar su desalojo y continuar la sesión en privado;
+II. Presidir la Sala;
 
-IV. Proponer a la Sala de Segunda Instancia el nombramiento de los servidores públicos, jurídicos y administrativos, que deban auxiliarla en sus funciones y realizar el trámite correspondiente ante la Comisión de Administración;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
-V. Vigilar que se cumplan las determinaciones de la Sala de Segunda Instancia;
+III. Conducir las sesiones de la Sala y conservar el orden durante las mismas. Cuando los asistentes no guarden la compostura debida, podrá ordenar su desalojo y continuar la sesión en privado;
 
-VI. Despachar la correspondencia del Tribunal y de la Sala de Segunda Instancia;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
+IV. Proponer a la Sala el nombramiento de los servidores públicos, jurídicos y administrativos, que deban auxiliarla en sus funciones y realizar el trámite correspondiente ante la Comisión de Administración;
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
+V. Vigilar que se cumplan las determinaciones de la Sala;
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
+VI. Despachar la correspondencia del Tribunal;
 
 VII. Llevar las relaciones con autoridades o instituciones que tengan vínculos con el Tribunal;
 
@@ -1419,15 +1457,23 @@ IX. Someter a la consideración de la Comisión de Administración, el anteproye
 
 X. Convocar a sesiones públicas o reuniones internas de Magistrados Electorales y demás personal jurídico, técnico y administrativo del Tribunal Estatal Electoral;
 
-XI. Vigilar que se adopten y cumplan las medidas necesarias para coordinar las funciones jurisdiccionales y administrativas de las Salas;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
-XII. Tramitar ante la Comisión de Administración las licencias de los servidores de la Sala de Segunda Instancia;
+XI. Vigilar que se adopten y cumplan las medidas necesarias para coordinar las funciones jurisdiccionales y administrativas que corresponden a los Magistrados Electorales, por disposición de la ley o por acuerdo del Pleno del Tribunal Superior de Justicia;
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
+XII. Tramitar ante la Comisión de Administración las licencias de los servidores del Tribunal Estatal Electoral;
 
 XIII. Comunicar al Pleno del Tribunal Superior de Justicia las ausencias de los Magistrados Electorales para los efectos que procedan de conformidad con las disposiciones constitucionales y legales aplicables;
 
-XIV. Nombrar al Magistrado o Magistrados Electorales para que provean los trámites en asuntos de carácter urgente durante los periodos vacacionales de la Sala de Segunda Instancia;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
-XV. Turnar a los Magistrados Electorales de la Sala de Segunda Instancia, de conformidad con lo dispuesto por el Reglamento Interior del Tribunal, los expedientes para que formulen los proyectos de resolución;
+XIV. Nombrar al Magistrado o Magistrados Electorales para que provean los trámites en asuntos de carácter urgente durante los periodos vacacionales;
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
+XV. Turnar a los Magistrados Electorales, de conformidad con lo dispuesto por el Reglamento Interior del Tribunal, los expedientes para que formulen los proyectos de resolución;
 
 XVI. Requerir cualquier informe o documento que, obrando en poder de los órganos del Instituto Electoral del Estado, de las autoridades federales, estatales o municipales, de los partidos políticos, agrupaciones u organizaciones políticas o de particulares, pueda servir para la substanciación o resolución de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en las leyes;
 
@@ -1443,89 +1489,41 @@ XXI. Vigilar que se cumplan las disposiciones del Reglamento Interior del Tribun
 
 XXII. Las demás que señalen las leyes, el Reglamento Interior o aquellas que sean necesarias para el correcto funcionamiento del Tribunal.
 
-### CAPITULO QUINTO. DE LA INTEGRACION Y FUNCIONAMIENTO DE LA SALA DE PRIMERA INSTANCIA
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2002)</small>
+
+### CAPITULO QUINTO
 
 ###### Artículo 86.
 
-La Sala de Primera Instancia deberá quedar instalada a más tardar en la semana que inicie el proceso electoral para entrar en receso al término del mismo y estará integrada por cinco Magistrados Electorales.
+(DEROGADO, P.O. 12 DE ENERO DE 2002)
 
 ###### Artículo 87.
 
-Para que pueda sesionar la Sala bastará la presencia de tres Magistrados Electorales y sus resoluciones se adoptarán por unanimidad o mayoría de votos. Los Magistrados no podrán abstenerse de votar, salvo que tengan excusa o impedimento legal.
-
-Cuando un Magistrado Electoral disintiere de la mayoría o su proyecto fuera rechazado, podrá formular voto particular, el cual se insertará al final de la sentencia aprobada, siempre y cuando se presente antes de que sea firmada esta última.
+(DEROGADO, P.O. 12 DE ENERO DE 2002)
 
 ###### Artículo 88.
 
-La ausencia temporal de un Magistrado Electoral, que no exceda de treinta días, en caso necesario y a juicio de la Sala, será cubierta por el Secretario de Acuerdos de la misma.
+(DEROGADO, P.O. 12 DE ENERO DE 2002)
 
-Si la ausencia de un Magistrado es definitiva el Presidente de la Sala lo notificará de inmediato a la Sala de Segunda Instancia a fin de que se promueva el nombramiento correspondiente. En este caso, en tanto se hace la elección respectiva, se procederá conforme a lo dispuesto en el párrafo precedente.
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE ENERO DE 2002)</small>
 
-### CAPITULO SEXTO. DE LAS ATRIBUCIONES DE LA SALA DE PRIMERA INSTANCIA
+### CAPITULO SEXTO
 
 ###### Artículo 89.
 
-La Sala de Primera Instancia tendrá competencia para:
+(DEROGADO, P.O. 12 DE ENERO DE 2002)
 
-I. Resolver sobre el recurso de inconformidad que se presente por:
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2002)</small>
 
-a) La nulidad de la votación recibida en una o varias casillas y los resultados consignados en las actas de los cómputos municipales o distritales o por error aritmético;
-
-b) La nulidad de las elecciones de Ayuntamientos y Diputados por los principios de mayoría relativa y representación proporcional;
-
-c) Las declaraciones de validez y el otorgamiento de constancias de mayoría de votos en elecciones de Ayuntamientos y de Diputados de mayoría relativa;
-
-d) Las declaraciones de validez y el otorgamiento de constancias de asignación de las elecciones de Regidores y de Diputados por el principio de representación proporcional;
-
-II. Calificar y resolver las excusas que presenten los Magistrados Electorales de la Sala;
-
-III. Encomendar al Secretario de Acuerdos y actuarios la realización de diligencias que deban practicarse fuera de las instalaciones de la Sala;
-
-IV. Fijar la fecha y hora de sus sesiones públicas;
-
-V. Elegir, de entre ellos, a quien deba fungir como su Presidente;
-
-VI. Nombrar al Secretario de Acuerdos de la Sala y tramitar los nombramientos de actuarios, así como del personal jurídico y administrativo que se requiera; y
-
-VII. Las demás que le señalen las leyes.
-
-### CAPITULO SEPTIMO. DEL PRESIDENTE DE LA SALA DE PRIMERA INSTANCIA
+### CAPITULO SEPTIMO
 
 ###### Artículo 90.
 
-La Sala de Primera Instancia elegirá a su Presidente de entre los Magistrados Electorales que la integran, para cada periodo en que deba funcionar.
+(DEROGADO, P.O. 12 DE ENERO DE 2002)
 
 ###### Artículo 91.
 
-El Presidente de la Sala de Primera Instancia tendrá las atribuciones siguientes:
-
-I. Representar a la Sala y despachar la correspondencia de la misma;
-
-II. Presidir la Sala, dirigir los debates y conservar el orden durante los mismos. Cuando los asistentes no guarden la compostura debida podrá ordenar su desalojo de la Sala y la continuación de la sesión en privado;
-
-III. Turnar, conforme el orden en que se reciban, los asuntos entre los Magistrados que integren la Sala;
-
-IV. Vigilar que se cumplan las determinaciones de la Sala;
-
-V. Tramitar ante la Comisión de Administración los nombramientos de actuarios y demás personal jurídico y administrativo de la Sala;
-
-VI. Tramitar ante la Comisión de Administración los requerimientos financieros y materiales necesarios para el buen funcionamiento de la Sala;
-
-VII. Informar permanentemente al Presidente de la Sala de Segunda Instancia sobre el funcionamiento de la Sala, el número de impugnaciones recibidas y el trámite, substanciación y resolución que les recaiga;
-
-VIII. Convocar, según corresponda, a sesión pública y a reuniones internas, a los Magistrados Electorales, Secretario General y demás personal jurídico y administrativo de la Sala;
-
-IX. Informar al Presidente de la Sala de Segunda Instancia sobre las ausencias definitivas de los Magistrados Electorales de la Sala;
-
-X. Requerir cualquier informe o documento que, obrando en poder de los órganos del Instituto Electoral del Estado, de las autoridades, federales, estatales o municipales, de los partidos políticos o de particulares, pueda servir para la substanciación o resolución de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en el Código Electoral;
-
-XI. Ordenar, en casos extraordinarios, que se realice alguna diligencia o se desahogue o perfeccione alguna prueba, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en el Código de la materia;
-
-XII. Tramitar ante la Comisión de Administración la suspensión, remoción o cese de actuarios, así como del personal jurídico y administrativo de la Sala;
-
-XIII. Vigilar que se cumplan las disposiciones del Reglamento Interior del Tribunal; y
-
-XIV. Las demás que sean necesarias para el correcto funcionamiento de la Sala o que establezca la Ley o el Reglamento Interior.
+(DEROGADO, P.O. 12 DE ENERO DE 2002)
 
 ### CAPITULO OCTAVO. DE LAS ATRIBUCIONES DE LOS MAGISTRADOS ELECTORALES
 
@@ -1533,9 +1531,13 @@ XIV. Las demás que sean necesarias para el correcto funcionamiento de la Sala o
 
 Son atribuciones de los Magistrados Electorales las siguientes:
 
-I. Concurrir, participar y votar, cuando corresponda, en las sesiones públicas y reuniones internas a las que sean convocados por los Presidentes de las Salas;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
-II. Integrar las Salas para resolver colegiadamente los asuntos de su competencia;
+I. Concurrir, participar y votar, cuando corresponda, en las sesiones públicas y reuniones internas a las que sean convocados por el Presidente de la Sala;
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
+II. Integrar Sala para resolver colegiadamente los asuntos de su competencia;
 
 III. Formular los proyectos de sentencia que recaigan a los expedientes que les sean turnados para tal efecto;
 
@@ -1547,13 +1549,21 @@ VI. Realizar los engroses de los fallos aprobados por la Sala, cuando sean desig
 
 VII. Admitir los medios de impugnación y los escritos de terceros interesados o coadyuvantes, en los términos que señale la Ley de la materia;
 
-VIII. Someter a la Sala de su adscripción los proyectos de sentencia de desechamiento cuando las impugnaciones sean notoriamente improcedentes o evidentemente frívolas, en los términos de la Ley de la materia;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
-IX. Someter a la Sala de su adscripción los proyectos de sentencia relativos a tener por no interpuestas las impugnaciones o por no presentados los escritos cuando no reúnan los requisitos que señalen las leyes aplicables;
+VIII. Someter a la Sala los proyectos de sentencia de desechamiento cuando las impugnaciones sean notoriamente improcedentes o evidentemente frívolas, en los términos de la Ley de la materia;
 
-X. Someter a la Sala de su adscripción las resoluciones que ordenen archivar como asuntos total y definitivamente concluidos las impugnaciones que encuadren en estos supuestos, de conformidad con las leyes aplicables;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
-XI. Someter a consideración de la Sala respectiva, cuando proceda, la acumulación de las impugnaciones, así como la procedencia de la conexidad, en los términos de las leyes aplicables;
+IX. Someter a la Sala los proyectos de sentencia relativos a tener por no interpuestas las impugnaciones o por no presentados los escritos cuando no reúnan los requisitos que señalen las leyes aplicables;
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
+X. Someter a la Sala las resoluciones que ordenen archivar como asuntos total y definitivamente concluidos las impugnaciones que encuadren en estos supuestos, de conformidad con las leyes aplicables;
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
+XI. Someter a consideración de la Sala, cuando proceda, la acumulación de las impugnaciones, así como la procedencia de la conexidad, en los términos de las leyes aplicables;
 
 XII. Formular los requerimientos ordinarios necesarios para la integración de los expedientes en los términos de la legislación aplicable, y requerir cualquier informe o documento que, obrando en poder de los órganos del Instituto Electoral del Estado, de las autoridades, federales estatales o municipales, de los partidos políticos o de particulares, pueda servir para la substanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en las leyes aplicables;
 
@@ -1563,31 +1573,45 @@ XIV. Participar en los programas de capacitación institucionales; y
 
 XV. Las demás que les señalen las leyes o el Reglamento Interno del Tribunal o las que sean necesarias para el correcto funcionamiento de éste.
 
-Cada Magistrado Electoral de la Sala de Primera Instancia y de la de Segunda Instancia contará permanentemente con el apoyo de los Secretarios de Estudio y Cuenta que sean necesarios para el desahogo de los asuntos de su competencia.
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
 
-### CAPITULO NOVENO. DEL SECRETARIO GENERAL DE ACUERDOS DE LA SALA DE SEGUNDA INSTANCIA
+Cada Magistrado Electoral de la Sala contará permanentemente con el apoyo de los Secretarios de Estudio y Cuenta que sean necesarios para el desahogo de los asuntos de su competencia.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ENERO DE 2002)</small>
+
+### CAPITULO NOVENO. DEL SECRETARIO DE ACUERDOS
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
 
 ###### Artículo 93.
 
-Para el ejercicio de sus funciones la Sala de Segunda Instancia contará con un Secretario General de Acuerdos, que será nombrado en términos del artículo 152 de esta Ley.
+Para el ejercicio de sus funciones la Sala contará con un Secretario de Acuerdos, que será nombrado por los integrantes de la propia Sala.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
 
 ###### Artículo 94.
 
-El Secretario General de Acuerdos tendrá las atribuciones
-
-siguientes:
+El Secretario de Acuerdos tendrá las atribuciones siguientes:
 
 I. Apoyar al Presidente del Tribunal en las tareas que le encomiende;
 
-II. Dar cuenta, tomar las votaciones y formular el acta respectiva en las sesiones de la Sala de Segunda Instancia;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
-III. Revisar los engroses de las resoluciones de la Sala de Segunda Instancia;
+II. Dar cuenta, tomar las votaciones y formular el acta respectiva en las sesiones de la Sala;
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
+III. Revisar los engroses de las resoluciones de la Sala;
 
 IV. Llevar el control del turno de los Magistrados Electorales;
 
-V. Supervisar el debido funcionamiento de la Oficialía de Partes de la Sala de Segunda Instancia;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
-VI. Supervisar que se hagan en tiempo y forma las notificaciones de la Sala de Segunda Instancia;
+V. Supervisar el debido funcionamiento de la Oficialía de Partes del Tribunal Estatal Electoral;
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
+VI. Supervisar que se hagan en tiempo y forma las notificaciones;
 
 VII. Supervisar el debido funcionamiento de las (sic) archivos jurisdiccionales del Tribunal Estatal Electoral y, en su momento, su concentración y preservación;
 
@@ -1599,37 +1623,17 @@ X. Expedir los certificados de constancias que se requieran; y
 
 XI. Las demás que le señalen las leyes.
 
-### CAPITULO DECIMO. DEL SECRETARIO DE ACUERDOS DE LA SALA DE PRIMERA INSTANCIA
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2002)</small>
+
+### CAPITULO DECIMO
 
 ###### Artículo 95.
 
-Para el ejercicio de sus funciones la Sala de Primera Instancia nombrará, por mayoría, a un Secretario de Acuerdos.
+(DEROGADO, P.O. 12 DE ENERO DE 2002)
 
 ###### Artículo 96.
 
-El Secretario de Acuerdos de la Sala de Primera Instancia tendrá las atribuciones siguientes:
-
-I. Apoyar al Presidente de la Sala en las tareas que le encomiende;
-
-II. Dar cuenta, tomar las votaciones y formular el acta respectiva en las sesiones de la Sala;
-
-III. Revisar los engroses de las resoluciones de la Sala;
-
-IV. Llevar el control del turno de los Magistrados Electorales de la Sala;
-
-V. Supervisar el debido funcionamiento de la Oficialía de Partes de la Sala;
-
-VI. Supervisar que se hagan en tiempo y forma las notificaciones de la Sala;
-
-VII. Supervisar el debido funcionamiento del archivo jurisdiccional de la Sala y, en su momento, su envío oportuno al Presidente del Tribunal;
-
-VIII. Autorizar con su firma las actuaciones de la Sala;
-
-IX. Expedir los certificados de constancias que se requieran;
-
-X. Informar permanentemente al Presidente de la Sala sobre el funcionamiento de las áreas a su cargo y el desahogo de los asuntos de su competencia, y
-
-XI. Las demás que les señalen las leyes, reglamentos y acuerdos.
+(DEROGADO, P.O. 12 DE ENERO DE 2002)
 
 ### CAPITULO DECIMO PRIMERO. DE LA COMISION DE ADMINISTRACION DE SU INTEGRACION Y FUNCIONAMIENTO
 
@@ -1637,7 +1641,9 @@ XI. Las demás que les señalen las leyes, reglamentos y acuerdos.
 
 La administración, vigilancia y disciplina del Tribunal Estatal Electoral estarán a cargo de la Comisión de Administración.
 
-La Comisión de Administración del Tribunal se integrará por el Presidente del Tribunal Superior de Justicia, quien la presidirá, un Magistrado electo por el Pleno de éste y un Magistrado Electoral de la Sala de Segunda Instancia designado por insaculación, excluyendo al Presidente. La Comisión tendrá carácter permanente y sesionará en las oficinas que a tal efecto se destinen en la sede del Tribunal Electoral.
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+
+La Comisión de Administración del Tribunal se integrará por el Presidente del Tribunal Superior de Justicia, quien la presidirá, un Magistrado electo por el Pleno de éste y un Magistrado Electoral designado por insaculación, excluyendo al Presidente. La Comisión tendrá carácter permanente y sesionará en las oficinas que a tal efecto se destinen en la sede del Tribunal Electoral.
 
 La Comisión contará con una Secretaría Administrativa, cuyo titular será designado a propuesta de su Presidente y fungirá, además, como Secretario de la misma, quien concurrirá a las sesiones con voz pero sin voto.
 
@@ -1665,7 +1671,9 @@ Cuando la Comisión de Administración estime que sus acuerdos o resoluciones pu
 
 La Comisión de Administración no tendrá injerencia en ningún caso en asuntos jurisdiccionales. Tendrá las atribuciones siguientes:
 
-I. Proveer lo necesario para la instalación oportuna de la Sala de Primera Instancia para que conforme a sus atribuciones constitucionales y legales intervenga en los procesos electorales extraordinarios;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
+I. Proveer lo necesario para que conforme a sus atribuciones constitucionales y legales el Tribunal Estatal Electoral intervenga en los procesos electorales extraordinarios;
 
 II. Expedir las normas internas en materia administrativa y establecer las disposiciones generales necesarias para el ingreso, régimen y remoción, así como las relativas a estímulos y capacitación del personal del Tribunal Estatal Electoral;
 
@@ -1673,13 +1681,17 @@ III. Establecer la normatividad y los criterios para modernizar las estructuras 
 
 IV. Dictar las medidas que exijan el buen servicio y la disciplina en el Tribunal Estatal Electoral;
 
-V. Autorizar en términos de esta Ley al Presidente de la Sala de Primera Instancia para que, en caso de ausencia de alguno de sus servidores o empleados, nombre a un interino;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
+V. Autorizar en términos de esta Ley al Presidente del Tribunal Estatal Electora para que, en caso de ausencia de alguno de sus servidores o empleados, nombre a un interino;
 
 VI. Conceder licencias en los términos previstos en esta Ley;
 
 VII. Acordar sobre las renuncias que presenten los secretarios y personal;
 
-VIII. Decretar, cuando proceda, la suspensión, remoción o cese del Secretario General, secretarios, así como del personal jurídico y administrativo de la Sala de Primera Instancia y de la propia Comisión;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
+VIII. Decretar, cuando proceda, la suspensión, remoción o cese del Secretario, secretarios, así como del personal jurídico y administrativo de la Sala y de la propia Comisión;
 
 IX. Conocer y resolver sobre las quejas administrativas y sobre la responsabilidad de los servidores públicos en los términos de lo que dispone esta Ley;
 
@@ -1693,7 +1705,9 @@ XIII. Dictar las bases generales de organización, funcionamiento, coordinación
 
 XIV. Investigar y determinar las responsabilidades y sanciones a los servidores públicos y empleados de la propia Comisión, en los términos y mediante los procedimientos establecidos en la ley, los reglamentos y acuerdos que la propia Comisión dicte en materia de disciplina;
 
-XV. Realizar visitas extraordinarias o integrar comités de investigación, cuando se estime que se ha cometido una falta grave o cuando así lo solicite alguna de las Salas del Tribunal Electoral;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
+XV. Realizar visitas extraordinarias o integrar comités de investigación, cuando se estime que se ha cometido una falta grave o cuando así lo solicite la Sala del Tribunal Electoral;
 
 XVI. Apercibir, amonestar e imponen multas hasta por ciento ochenta veces el importe del salario mínimo diario general vigente en el Estado al momento de cometerse la falta, a aquellas personas que falten al respeto a algún órgano o miembro de la Comisión en las promociones que le presenten;
 
@@ -1751,13 +1765,17 @@ IV. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, 
 
 V. No ser militar en activo o ministro de culto religioso.
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+
 ###### Artículo 105.
 
-Para ser designado Secretario General de Acuerdos de la Sala de Segunda Instancia y Secretario de Acuerdos de la Sala de Primera Instancia, se deberán satisfacer los requisitos que se exigen para ser electo Magistrado Electoral, en los términos del presente Capítulo, con excepción del de la edad que será de treinta años.
+Para ser designado Secretario de Acuerdos de la Sala del Tribunal Estatal Electoral, se deberán satisfacer los requisitos que se exigen para ser electo Magistrado Electoral, en los términos del presente Capítulo, con excepción del de la edad que será de treinta años.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
 
 ###### Artículo 106.
 
-Para ser nombrado Secretario de Estudio y Cuenta en cualquiera de las Salas del Tribunal se requiere:
+Para ser nombrado Secretario de Estudio y Cuenta se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles, y contar con credencial para votar con fotografía;
 
@@ -1771,9 +1789,11 @@ V. Aprobar la evaluación que para acreditar los requisitos de conocimientos bá
 
 VI. No ser militar en activo o ministro de culto religioso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
+
 ###### Artículo 107.
 
-Para ser designado Actuario en cualquiera de las Salas del Tribunal se requiere:
+Para ser designado Actuario se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles, y contar con credencial para votar con fotografía;
 
@@ -1785,29 +1805,37 @@ IV. Aprobar la evaluación que para acreditar los requisitos de conocimientos b�
 
 V. No ser militar en activo o ministro de culto religioso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
+
 ###### Artículo 108.
 
-El Presidente del Tribunal Estatal Electoral o la Comisión de Administración, en el ámbito de sus respectivas competencias, podrán establecer otras categorías de personal jurídico para atender las necesidades de las Salas, de acuerdo con las partidas autorizadas en el presupuesto.
+El Presidente del Tribunal Estatal Electoral o la Comisión de Administración, en el ámbito de sus respectivas competencias, podrán establecer otras categorías de personal jurídico para atender las necesidades de la Sala, de acuerdo con las partidas autorizadas en el presupuesto.
 
 Asimismo, cuando las cargas de trabajo extraordinarias lo exijan, la Comisión de Administración podrá autorizar la contratación, con carácter de eventual, del personal jurídico y administrativo necesario para hacer frente a tal situación, sin necesidad de seguir los procedimientos ordinarios para su contratación e ingreso.
 
 ### CAPITULO DECIMO QUINTO. DE LAS RESPONSABILIDADES, IMPEDIMENTOS Y EXCUSAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
+
 ###### Artículo 109.
 
-Las responsabilidades de todos los miembros del Tribunal Estatal Electoral se regirán por el Título Séptimo de esta Ley y las disposiciones del presente Capítulo. Para estos efectos, las facultades señaladas para el Pleno del Tribunal Superior de Justicia se entenderán atribuidas a la Comisión de Administración y las del Presidente de dicho Tribunal al Presidente de la Sala de Segunda Instancia.
+Las responsabilidades de todos los miembros del Tribunal Estatal Electoral se regirán por el Título Séptimo de esta ley y las disposiciones del presente Capítulo. Para estos efectos, las facultades señaladas para el Pleno del Tribunal Superior de Justicia se entenderán atribuidas a la Comisión de Administración y las del Presidente de dicho Tribunal al Presidente de la Sala electoral.
 
 Los Magistrados Electorales sólo podrán ser removidos de sus cargos en los términos del Título Noveno de la Constitución Política del Estado.
 
 ###### Artículo 110.
 
-Los Magistrados Electorales deberán excusarse de conocer los asuntos en que tengan interés personal por relación de parentesco, negocio, amistad estrecha, enemistad, haber conocido del mismo asunto en anterior instancia y cualquiera otra causa que pueda afectar su imparcialidad.
+Los Magistrados Electorales deberán excusarse de conocer los asuntos en que tengan interés personal por relación de parentesco, negocio, amistad estrecha, enemistad, haber conocido del mismo asunto en anterior instancia y cualquiera otra causa que pueda afectar su imparcialidad. Asimismo, a los secretarios y actuarios de las Salas, les será aplicable, en lo conducente, lo dispuesto en el artículo 137 de esta Ley.
 
-Asimismo, a los secretarios y actuarios de las Salas, les será aplicable, en lo conducente, lo dispuesto en el artículo 137 de esta Ley.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ENERO DE 2002)</small>
+
+Asimismo, a los secretarios y actuarios, les será aplicable, en lo conducente, lo dispuesto en el artículo 56 de esta ley.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
 
 ###### Artículo 111.
 
-Las excusas que por impedimento legal para conocer de un asunto presenten los Magistrados Electorales, serán calificadas y resueltas sin substanciación alguna por la Sala de su adscripción, en la forma y términos previstos por el Reglamento Interior.
+Las excusas que por impedimento legal para conocer de un asunto presenten los Magistrados Electorales, serán calificadas y resueltas sin substanciación alguna por la propia Sala, en la forma y términos previstos por el Reglamento Interior.
 
 ###### Artículo 112.
 
@@ -1815,9 +1843,11 @@ Los Magistrados Electorales y demás servidores del Tribunal Estatal Electoral, 
 
 ### CAPITULO DECIMO SEXTO. DE LAS VACACIONES, DIAS INHABILES, RENUNCIAS, AUSENCIAS Y LICENCIAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
+
 ###### Artículo 113.
 
-Los servidores públicos y empleados de la Sala de Segunda instancia disfrutarán de dos períodos de vacaciones al año, de acuerdo con las necesidades del servicio.
+Los servidores públicos y empleados de la Sala del Tribunal Estatal Electoral disfrutarán de dos períodos de vacaciones al año, de acuerdo con las necesidades del servicio.
 
 Durante los años de proceso electoral o durante los periodos de procesos electorales extraordinarios, tomando en cuenta que todos los días y horas son hábiles, las vacaciones podrán diferirse. En ningún caso se podrán acumular las vacaciones correspondientes a más de dos años.
 
@@ -1833,13 +1863,17 @@ Los servidores públicos o empleados del Tribunal Estatal Electoral estarán obl
 
 Durante los procesos electorales, no se pagarán horas extras, pero se preverán en el presupuesto las compensaciones extraordinarias que deban otorgarse a los servidores y personal del Tribunal de acuerdo con los horarios y cargas de trabajo que hubiesen desahogado.
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+
 ###### Artículo 117.
 
-Las renuncias, ausencias y licencias de los Magistrados Electorales de la Sala Superior serán tramitadas, cubiertas y otorgadas, de conformidad con lo establecido por la Constitución Política del Estado y esta Ley.
+Las renuncias, ausencias y licencias de los Magistrados Electorales serán tramitadas, cubiertas y otorgadas, de conformidad con lo establecido por la Constitución Política del Estado y esta Ley.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
 
 ###### Artículo 118.
 
-Sólo procederán las renuncias de los Magistrados Electorales por causas graves y serán comunicadas por la Sala de Segunda Instancia al Pleno del Tribunal Superior de Justicia, para que éste las someta a la aprobación de la Legislatura del Estado o, en su caso, de la Comisión Permanente.
+Sólo procederán las renuncias de los Magistrados Electorales por causas graves y serán comunicadas por la Sala al Pleno del Tribunal Superior de Justicia, para que éste las someta a la aprobación de la Legislatura del Estado o, en su caso, de la Comisión Permanente.
 
 ###### Artículo 119.
 
@@ -1855,17 +1889,25 @@ Las licencias serán otorgadas a los servidores públicos y empleados del Tribun
 
 ### CAPITULO DECIMO SEPTIMO. DE LAS ACTUACIONES JUDICIALES Y DEL ARCHIVO JURISDICCIONAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
+
 ###### Artículo 122.
 
-Para la realización de diligencias o actuaciones que deban practicarse fuera de las oficinas de las Salas del Tribunal Estatal Electoral será aplicable lo siguiente:
+Para la realización de diligencias o actuaciones que deban practicarse fuera de las oficinas del Tribunal Estatal Electoral será aplicable lo siguiente:
 
-I. Ningún servidor público o empleado podrá abandonar la residencia de la Salas a la que se encuentre adscrito, ni dejar de desempeñar las funciones o las labores que tenga a su cargo, sin que previamente se le hubiere otorgado la autorización respectiva.
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
+I. Ningún servidor público o empleado podrá abandonar la residencia del Tribunal, ni dejar de desempeñar las funciones o las labores que tenga a su cargo, sin que previamente se le hubiere otorgado la autorización respectiva.
 
 II. Cuando el personal tuviere que abandonar su residencia para practicar diligencias, podrá hacerlo en casos urgentes cuando la ausencia no exceda de tres días, dando aviso a la Comisión de Administración y expresando el objeto y naturaleza de la diligencia, así como las fechas de salida y regreso.
 
-III. Las diligencias que hayan de practicarse fuera de las oficinas de las Salas, podrán verificarse por los propios Magistrados, Secretarios o Actuarios que se comisionen al efecto.
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
-IV. Fuera del lugar de residencia de las Salas las diligencias podrán encomendarse a los Jueces de Primera Instancia o Municipales del lugar en donde ha de realizarse la actuación.
+III. Las diligencias que hayan de practicarse fuera de las oficinas del Tribunal, podrán verificarse por los propios Magistrados, Secretarios o Actuarios que se comisionen al efecto.
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
+IV. Fuera del lugar de residencia del Tribunal las diligencias podrán encomendarse a los Jueces de Primera Instancia o Municipales del lugar en donde ha de realizarse la actuación.
 
 ###### Artículo 123.
 
@@ -1877,9 +1919,11 @@ Una vez concluido el plazo a que se refiere el artículo anterior el Tribunal Es
 
 ### CAPITULO DECIMO OCTAVO. DEL PERSONAL DEL TRIBUNAL ELECTORAL
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+
 ###### Artículo 125.
 
-Serán considerados de confianza los siguientes servidores y empleados del Tribunal Estatal Electoral: el Secretario General de Acuerdos de la Sala de Segunda Instancia, el Secretario de Acuerdos de la Sala de Primera Instancia, los Secretarios de Estudio y Cuenta, los Actuarios, las personas designadas por los Presidentes de las Salas para auxiliarlos en las funciones administrativas, el Secretario Administrativo de la Comisión de Administración, los coordinadores, los directores, los jefes de departamento, el personal de apoyo y asesoría de los antes mencionados y todos aquellos que tengan a su cargo funciones de vigilancia, control, manejo de recursos, adquisiciones o inventarios.
+Serán considerados de confianza los siguientes servidores y empleados del Tribunal Estatal Electoral: el Secretario de Acuerdos, los Secretarios de Estudio y Cuenta, los Actuarios, las personas designadas por el Presidente de la Sala para auxiliarlos en las funciones administrativas, el Secretario Administrativo de la Comisión de Administración, los coordinadores, los directores, los jefes de departamento, el personal de apoyo y asesoría de los antes mencionados y todos aquellos que tengan a su cargo funciones de vigilancia, control, manejo de recursos, adquisiciones o inventarios.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -1910,3 +1954,9 @@ LIC. RICARDO MONREAL AVILA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ARTURO NAHLE GARCIA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE ENERO DE 2002
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
