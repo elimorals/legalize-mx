@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-agua-potable-y-alcantarillado-en-el-estado-de-durango-47
 country: "mx"
 rank: "ley"
 publication_date: "1981-08-23"
-last_updated: "1981-08-23"
+last_updated: "1987-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO EN EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1987.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 23 de agosto de 1981.
 
@@ -71,9 +71,11 @@ Esta Ley tiene por objeto establecer las bases para la prestación de los servic
 
 Las obras destinadas al abastecimiento de agua a los centros de población e industrias, o sea, la captación, potabilización, conducción y distribución, así como las de drenaje, alcantarillado y las necesarias para el tratamiento de aguas residuales para el servicio público del Estado de Durango, se realizarán de acuerdo con las necesidades del propio servicio y con sujeción a las Leyes y Reglamentos relativos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
 ###### Artículo 4o.
 
-Las atribuciones que en materia de prestación de los servicios de agua Potable, drenaje y alcantarillado establece esta Ley y su reglamento, serán ejercidos por la Junta Estatal de Agua Potable, drenaje y alcantarillado establece esta Ley y su reglamento, serán ejercidos por la Junta Estatal de Agua Potable y Alcantarillado (a la que en lo sucesivo se denominará "La Junta Estatal").
+Las atribuciones que en materia de servicios de agua potable, drenaje y alcantarillado, establece esta Ley y su Reglamento serán ejercidos por los Organismos operadores de los Sistemas y vigilados en su cumplimiento y normatividad por la Junta Estatal de Agua Potable y Alcantarillado.
 
 ###### Artículo 5o.
 
@@ -113,7 +115,7 @@ a).- Comités pro-introducción de Agua Potable.
 
 b).- Juntas de administración, operación y mantenimiento de los sistemas.
 
-### CAPITULO SEGUNDO. DE LOS COMITES PRO-INTRODUCCION DE AGUA POTABLE
+### CAPITULO SEGUNDO. DE LOS COMITES PRO-INTRODUCCIÓN DE AGUA POTABLE
 
 ###### Artículo 8o.
 
@@ -169,9 +171,11 @@ II.- Llevar en cuadernos autorizados por la Junta Estatal los asientos de ingres
 
 III.- Las demás que le confiere la Ley.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
 ###### Artículo 14o.
 
-Terminada la obra promovida por el Comité pro-introducción de agua potable, procederá la Junta Estatal con las facultades que le otorga la Ley, a designar, con aprobación de la mayoría de los jefes de familia beneficiados, a las personas que integrarán la Junta de Administración operación y mantenimiento así como la administración directa del sistema, La primera quedará integrada por un Presidente, un Secretario y un Tesorero y sus suplentes y la segunda por un Administrador y el personal necesario a juicio de la Junta Estatal de Agua Potable que normará las actividades de la Administración.
+Terminada la obra promovida por el Comité Pro-Introducción de Agua Potable, procederá la Junta Estatal con las facultades que le otorga la Ley, a designar, con aprobación de la mayoría de los jefes de familia beneficiados, a las personas que integrarán la Junta de Administración, Operación y Mantenimiento, así como la administración directa del Sistema. La primera quedará integrada por un Presidente, un Secretario y un Tesorero y sus Suplentes, y la segunda por un Administrador y el Personal necesario a juicio de la Junta Estatal de Agua Potable, que normará las actividades de la Administración, o convenir, si las condiciones fueran propias para ello, con los Municipios, el que la operación de dicho Sistema quede a cargo y responsabilidad del Municipio, para lo cual éste último nombrará al responsable, quedando a cargo de la Junta el prestar el apoyo técnico y administrativo, así como la vigilancia al cumplimiento de las normas establecidas.
 
 ### CAPITULO TERCERO. DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO
 
@@ -337,19 +341,27 @@ En los casos de apertura, clausura, traspaso o traslado de un giro mercantil o i
 
 Cuando el propietario no cumpla con las obligaciones que señalan los Artículos 35 y siguientes de esta Ley y el organismo operador tenga conocimiento por cualquier otro medio de los hechos a que se refieren las citadas disposiciones, hará las anotaciones correspondientes en el registro y padrón sin perjuicio de que se le impongan las sanciones procedentes.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
 ###### Artículo 42.
 
-El organismo operador llevará un registro de tomas en los términos señalados en el Reglamento de esta Ley.
+El Organismo Operador llevará un registro de tomas en los términos señalados en el Reglamento de esta Ley, e informará a la Junta Estatal de Agua Potable y Alcantarillado, el número de usuarios servidos tanto en los renglones de agua potable y alcantarillado, así como la cobertura de la población que no cuenta con estos servicios, con el fin de que promuevan las ampliaciones dentro de los distintos programas de inversión.
 
 ### CAPITULO CUARTO. DE LA CONSTRUCCION Y OPERACION DE LOS SISTEMAS
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
 ###### Artículo 43.
 
-La construcción, rehabilitación, ampliación, administración, operación, conservación y mantenimiento de los sistemas de agua potable, agua desalada, drenaje, alcantarillado y tratamiento de aguas residuales, así como el cobro de los derechos correspondientes en el Estado de Durango, estará a cargo de la Junta Estatal de Agua Potable y Alcantarillado.
+La construcción, rehabilitación, ampliación, supervisión, administración, operación, conservación y mantenimiento de los Sistemas de Agua Potable, Agua desalada, drenaje, alcantarillado y tratamiento de aguas residuales, así como el cobro de los derechos correspondientes en el Estado de Durango, estará a cargo de la Junta Estatal de Agua Potable y Alcantarillado a través de los Organismos Operadores, y en su caso cuando existan los convenios respectivos, a través de los Organismos Operadores dependientes de los Municipios.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
 ###### Artículo 44.
 
-Para el cumplimiento de su objetivo, la Junta Estatal de Agua Potable realizará las siguientes funciones:
+Para el cumplimiento de su objetivo, la Junta Estatal de Agua Potable y Alcantarillado, realizará por sí, o a través de los Organismos Operadores, las siguientes funciones: vigilará que cumplan con las normas establecidas cuando existan convenios respectivos y sean realizadas por órganos municipales, las siguientes:
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
 I.- Construir, rehabilitar, ampliar, supervisar, operar, administrar, conservar y mejorar los sistemas de agua potable, agua desalada, alcantarillado y tratamiento de las aguas residuales.
 
@@ -357,15 +369,21 @@ La Junta Estatal de Agua Potable y Alcantarillado estará facultada para celebra
 
 II.- Realizar los estudios y proyectos que sean necesarios para el cumplimiento de lo establecido con la Fracción anterior y para controlar la contaminación del agua, en coordinación con las autoridades competentes.
 
-III.- Proporcionar el servicio de agua potable instalando para ello el medidor correspondiente así como drenaje y alcantarillado a los núcleos de población, fraccionamiento y particulares asentados dentro del Municipio correspondiente, en los términos de los convenios que para ese efecto se celebren.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
+III.- Proporcionar el servicio de agua potable instalando para ello el medidor correspondiente con un costo al usuario, así como drenaje y alcantarillado a los núcleos de población, fraccionamiento y particulares asentados dentro del Municipio correspondiente, en los términos de los convenios que para ese efecto se celebren.
 
 IV.- Formular y mantener actualizado el padrón de usuarios de los servicios a su cargo.
 
-V.- Cobrar de acuerdo a las tarifas autorizadas previamente, los derechos correspondientes a la prestación del servicio público de agua potable, drenaje y alcantarillado, remitiendo las cuentas de los usuarios morosos, a fin de que proceda a su cobro a través del procedimiento que señale la Ley Económico Coactiva vigente en el Estado y mediante la Secretaría de Finanzas del Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
+V.- Cobrar de acuerdo a las tarifas vigentes, los derechos correspondientes a la prestación del servicio público de agua potable, drenaje y alcantarillado, remitiendo las cuentas de los usuarios morosos, a fin de que proceda a su cobro a través del procedimiento que señale la Ley Económico-Coactiva en el Estado.
 
 VI.- Realizar las gestiones que sean necesarias a fin de obtener la cooperación o créditos que requiere para el cumplimiento de su objeto. De acuerdo con lo dispuesto por la Ley de Deuda Pública.
 
-VII.- Formular los estudios de socio-económicos necesarios para el estabecimiento (sic) de las tarifas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
+VII.- Formular los estudios de ingresos y egresos necesarios para el establecimiento de las tarifas, que les permita a los Organismos Operadores ser autosuficientes en su operación.
 
 VIII.- Solicitar a las autoridades competentes, la expropiación, ocupación temporal, total o parcial de los bienes de propiedad particular o la limitación de los derechos de dominio en los términos de la Ley de Expropiación del Estado de Durango. Cuando se requiera disponer de bienes ejidales o comunales para el cumplimiento del objeto de la Junta Estatal de Agua Potable, se atenderá lo dispuesto por la Ley Federal de la Reforma Agraria.
 
@@ -405,15 +423,19 @@ V.- Organizar, vigilar y verificar cursos de capacitación y actualización perm
 
 VI.- Todos los demás que fijen esta Ley, los Reglamentos o lo señale el Consejo de Administración.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
 ###### Artículo 46.
 
-Los ingresos que obtenga la Junta Estatal de Agua Potable por prestación de los servicios a su cargo, así como de los demás recursos de que disponga, deberá invertirlos para el cumplimiento de sus objetivos.
+Los ingresos que obtenga la Junta Estatal de Agua Potable por prestación de los servicios a su cargo, así como los demás recursos de que disponga, deberá aplicarlos para el cumplimiento de sus objetivos.
 
 Cuando el Gobierno Federal otorgue apoyo económico a la Junta Estatal de Agua Potable y a los distintos sistemas de agua potable y alcantarillado, se deberá aplicar dicho apoyo únicamente para los fines que haya sido concedido.
 
 Los organismos operadores están obligados a cumplir con las normas, políticas y lineamientos que para la administración, operación, conservación y mantenimiento de los sistemas que establezca la Junta Estatal de Agua Potable y Alcantarillado, debiendo atender las observaciones que ésta formule como resultado del ejercicio de sus funciones.
 
-Asímismo, los organismos operadores someterán a esta última, para su aprobación los proyectos de presupuestos anuales de ingresos y egresos y sus programas de trabajo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
+Asímismo, los Organismos Operadores someterán a esta última, para su aprobación los proyectos de presupuestos anuales de ingresos y egresos y sus programas de trabajo, salvo aquellos que dependan de los Municipios conforme a los convenios establecidos.
 
 ### CAPITULO QUINTO. DEL ESTABLECIMIENTO DE TARIFAS
 
@@ -421,17 +443,27 @@ Asímismo, los organismos operadores someterán a esta última, para su aprobaci
 
 Las tarifas serán establecidas tomando en cuenta los gastos corrientes de los organismos operadores, así como el costo de las obras que requieren los sistemas para su mantenimiento, ampliación, rehabilitación o mejoras y demás gastos inherentes a la prestación del servicio, tomando en cuenta el número de metros cúbicos consumidos y el uso autorizado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
 ###### Artículo 48.
 
-Los organismos operadores de los sistemas formularán anualmente un estudio socio-económico para fundamentar en todo caso una revisión y modificación a las tarifas conforme a las cuales se cobrará la prestación de los servicios de agua potable, drenaje y alcantarillado.
+Los Organismos Operadores de los Sistemas formularán un estudio de ingresos y egresos que le permita ser autosuficientes en su operación, manteniminto (sic) y conservación, para fundamentar en todo caso la revisión a los Convenios para la prestación de servicio de Agua Potable y Saneamiento, conforme a las cuales se cobrará la contratación y prestación mismas que deberán contemplar los incrmentos (sic) en los costos de operación, mantenimiento y reposición de los sistemas, teniendo como factor fundamental los niveles socio-económicos de la población.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
 ###### Artículo 49.
 
-La propuesta tarifaria y los estudios a que se refiere el Artículo anterior, serán presentados a consideración de la Junta Estatal de Agua Potable y Alcantarillado.
+La propuesta tarifaria y los estudios a que se refiere el Artículo anterior serán presentados a consideración de la Junta Estatal de Agua Potable y Alcantarillado a fin de solicitar su aprobación al Congreso del Estado.
 
 ###### Artículo 50.
 
 Con base en los estudios socio-económicos, la Junta Estatal de Agua Potable, propondrá al Titular del Ejecutivo del Estado la presentación de la iniciativa ante el Congreso del Estado para que se revise y modifique la tarifa de cobro.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
+###### Artículo 50 Bis.
+
+La Junta Estatal de Agua Potable y Alcantarillado, podrá celebrar convenios en los términos de la Ley, con los Municipios, a fin de que ésta asuma la prestación de servicio de agua potable y saneamiento cuando el desarrollo económico y social lo haga necesario.
 
 ### CAPITULO SEXTO. DE LA INSPECCION, VERIFICACION Y PAGO DE SERVICIOS
 
@@ -581,9 +613,13 @@ III.- Los propietarios de los predios en que están instaladas las tomas.
 
 Los pagos se harán directamente en las oficinas del organismo operador o en la institución que ésta autorice.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
 ###### Artículo 76.
 
-Queda prohibido el otorgamiento de exenciones por cuanto al pago de derechos por los servicios que prestan los organismos operadores, ya se trate de particulares, de dependencias federales, estatales o municipales, entidades para-estatales, instituciones educativas o de asistencia pública o privada.
+Es obligación de todo usuario el pago de los derechos por los servicios que prestan los Organismos Operadores, ya sean particular, oficiales o sociales.
+
+El Consejo de Administración de la Junta Estatal de Agua Potable y Alcantarillado, previa solicitud de los interesados, podrá en casos especiales conceder consideraciones a instituciones educativas o de asistencia pública.
 
 ###### Artículo 77.
 
@@ -615,9 +651,11 @@ Cuando se autorice la derivación, el interesado está obligado a cubrir al orga
 
 En caso de edificios sujetos al régimen de propiedad en condominio, los propietarios de cada piso, departamento, vivienda o local, está (sic) obligados a pagar las tarifas de acuerdo con las lecturas que registre el aparato medidor que se instale en cada servicio independientemente de la cuota que proporcionalmente les correspondió por el consumo de agua que se haga para el servicio común del propio edificio, de este último pago todos los propietarios responderán solidariamente y por su adeudo podrá embargarse bienes que sean suficientes para garantizar el adeudo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
 ###### Artículo 84.
 
-Cuando un edificio construído que tenga instalada una sola toma de agua, pase al régimen de propiedad en condominio, la Junta Estatal de Agua Potable no permitirá que la totalidad del edificio siga surtiéndose de agua de dicha toma, obligando a los propietarios de cada piso, departamento, vivienda o local a instalar aparato medidor individual.
+Cuando un edificio construído que tenga instalada una sola toma de agua pase al régimen de propiedad en condominio, el Organismo Operador no permitirá que la totalidad del edificio siga surtiéndose de agua de dicha toma, obligando a los propietarios de cada piso, departamento, vivienda o local a instalar aparato medidor individual, y aquellos que se construyen deberán contemplar una toma para cada piso, departamento, vivienda o local, según sea el caso.
 
 ###### Artículo 85.
 
@@ -653,7 +691,7 @@ VI.- Formular y mantener actualizado el inventario de los bienes y recursos que 
 
 VII.- Vigilar que los organismos operadores cumplan con las Leyes y Reglamentos Federales y Estatales, así como con los ordenamientos municipales aplicables en la materia.
 
-VIII.- Intervenir en las negociaciones que se realicen para la obtención de créditos y financiamientos a favor de los organismos operadores, tramitando el aval del Gobierno Estata (sic) cuando se requiera.
+VIII.- Intervenir en las negociaciones que se realicen para la obtención de créditos y financiamientos a favor de los organismos operadores, tramitando el aval del Gobierno Estatal cuando se requiera.
 
 IX.- Vigilar que los organismos operadores practiquen el control de calidad de agua, en los términos de las disposiciones legales aplicables.
 
@@ -667,13 +705,17 @@ XIII.- Evaluar los programas, responsabilidad de los organismos operadores.
 
 XIV.- Designar y remover libremente a los administradores de los organismos operadores.
 
-XV.- Revisar, modificar y/o en su caso, aprobar los estudios socio-económicos formulados por los organismos operadores para la propuesta de las tarifas; quedando facultada para la aplicación de las mismas, con posterioridad a la aprobación del Congreso del Estado, conforme a las cuales deba cobrarse la prestación de los servicios en el medio rural.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
+XV.- Revisar, modificar, hacer las recomendaciones que se consideren necesarias y/o en su caso aprobar los estudios de ingresos y egresos formulados por los Organismos Operadores para la propuesta de las tarifas; quedando facultados para la aplicación de las mismas conforme a las cuales deba cobrarse la prestación de los servicios.
 
 XVI.- Efectuar auditorías en los organismos operadores de los sistemas de agua potable y alcantarillado.
 
 XVII.- Realizar las demás funciones que le fijen expresamente las Leyes y Reglamentos.
 
-Lo dispuesto en este Artículo no rige para los sistemas que dependen directamente de los Ayuntamientos y recibirán sólo la Dirección Técnica de la Junta Estatal de Agua Potable y Alcantarillado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
+Lo dispuesto por este Artículo no rige para los Sistemas que dependen directamente de los Ayuntamientos, pero deberán observar la normatividad establecida, recibiendo por parte de ésta la asesoría técnica y administrativa que requieran para ser más eficiente su aplicación.
 
 ###### Artículo 90.
 
@@ -687,7 +729,7 @@ Para los efectos de este Capítulo se entenderá:
 
 I.- Por fraccionamiento, la división de un terreno en lotes destinados a la construcción de casas-habitación o industrias localizado en áreas rústica, urbana o sub-urbanas.
 
-II.- Fraccionamiento Residencial: es la división de un terreno en lotes, destinado a la construcción de casas-habitación localizado en área urbana o sub urbana;
+II.-Fraccionamiento Residencial: es la división de un terreno en lotes, destinado a la construcción de casas-habitación localizado en área urbana o sub urbana;
 
 III.- Fraccionamiento Campestre: es la división de un terreno rústico destinado a casas-habitación.
 
@@ -721,9 +763,13 @@ La Junta Estatal de Agua Potable y Alcantarillado negará la autorización para 
 
 Cuando la Junta Estatal de Agua Potable y Alcantarillado estuviera en posibilidad de suministrar los volúmenes de agua que requieran los nuevos fraccionamientos, se cobrará la parte proporcional del costo de las obras de abastecimiento que se hayan efectuado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
 ###### Artículo 99.
 
-Las obras de distribución de agua y alcantarillado de los fraccionamientos una vez terminadas pasarán al dominio de la Junta Estatal de Agua Potable y Alcantarillado y quedará a su cargo la conservación y mantenimiento.
+Los proyectos de construcción de agua potable y alcantarillado de los fraccionamientos, deberán ser aprobados y supervisados en su ejecución por la Junta Estatal de Agua Potable y Alcantarillado y/o los Organismos Operadores, quienes emitirán en dictámen correspondiente para que sean recibidos por los Organismos Operadores y quedarán a cargo de éstos, la operación y administración de los mismos.
+
+Es corresponsabilidad del fraccionador, el buen funcionamiento de las obras mencionadas en el párrafo anterior, por el término de dos años a partir de la recepción notariada de dichas obras.
 
 ###### Artículo 100.
 
@@ -775,7 +821,7 @@ XIII.- Los que se nieguen a proporcionar, sin causa justificada, los informes qu
 
 XIV.- El que emplee mecanismos para succionar agua de las tuberías de distribución.
 
-XV.-El que haga mal uso del agua desperdiciándola en cualquier forma.
+XV.- El que haga mal uso del agua desperdiciándola en cualquier forma.
 
 ###### Artículo 103.
 
@@ -783,23 +829,31 @@ Los Notarios y funcionarios facultados para dar fe pública, no autorizarán nin
 
 ### CAPITULO NOVENO. DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
 ###### Artículo 104.
 
-A los que deban surtirse de agua potable del servicio público, así como de conectarse al sistema de agua potable, drenaje y alcantarillado, no cumplan con esta obligación dentro de los plazos que fija el Artículo 15 o impida las instalaciones de las mismas, se les impondrá una multa de $50.00 hasta dos tantos de las cuotas de conexión en el caso de instalarlas de conformidad con los siguientes supuestos:
+A los que deban surtirse de agua potable del servicio público, así como de conectarse al sistema de agua potable, drenaje y alcantarillado, y no cumplan con esta obligación dentro de los plazos que fija el artículo 15 o impida las instalaciones de las mismas, se les impondrá una multa del equivalente a una vez el salario mínimo general, establecido para el Estado de Durango o hasta dos tantos de las cuotas de conexión, en el caso de instalarlas de conformidad con los siguientes supuestos:
 
 I.- En los casos de la Fracción IV inciso a) del Artículo 15, desde la fecha en que se haya notificado legalmente haber quedado establecido el servicio en la calle en que estén ubicados los predios, giros o establecimientos hasta el día en que se instale la toma;
 
 II.- En los casos a que se refiere la Fracción IV, inciso b) del mismo Artículo, desde que se inicie el plazo que en ella se señala, hasta la instalación de la toma;
 
-III.- En los casos mencionados en la Fracción IV, inciso c) del propio Artículo, desde la fecha de iniciación de las obras, hasta la instalación de la toma.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
+III.- En los casos mencionados en la Fracción IV inciso c) del propio artículo, desde la fecha de iniciación de las obras hasta la instalación de la toma.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
 ###### Artículo 105.
 
-Las infracciones a que se refieren las Fracciones II, III, IV, X, XI y XV del Artículo 102 se sancionarán con multas de $500.00 a $10,000 de acuerdo con las circunstancias del caso.
+Las infracciones a que se refieren las fracciones II, III, IV, X, XI, XV del Art. 102, se sancionarán con multas del equivalente a una y hasta cuatro veces el salario diario mínimo general, establecido para el Estado de Durango, de acuerdo con las circunstancias del caso.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
 ###### Artículo 106.
 
-Las infracciones a que se refieren las Fracciones V, VI, VII, VIII, IX, XII y XIII del Artículo 102 se sancionarán con una multa de $200.00 a $3,000.00.
+Las infracciones a que se refieren las Fracciones V, VI, VII, VIII, IX, XII y XIII del Artículo 102, se sancionarán con multas del equivalente a una y hasta cuatro veces el salario mínimo general establecido para el Estado de Durango.
 
 ###### Artículo 107.
 
@@ -841,6 +895,16 @@ Las sanciones pecuniarias que se impongan de acuerdo con lo que dispone este Cap
 
 Cuando los hechos que contravengan las disposiciones de esta Ley, constituyeran un delito, se consignará a las autoridades competentes, sin perjuicio de aplicar las sanciones administrativas que procedan.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
+### CAPITULO NOVENO BIS. DE LOS USUARIOS MOROSOS
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
+###### Artículo 114 Bis.
+
+Serán considerados como morosos, los usuarios que dejen de pagar dos o más meses de consumo; por lo que la Junta Estatal de Agua Potable y Alcantarillado queda autorizada para convenir con las Dependencias correspondientes, la mejor forma de aplicar la Ley Económico-Coactiva.
+
 ### CAPITULO DECIMO. DE LOS RECURSOS
 
 ###### Artículo 115.
@@ -873,7 +937,9 @@ PRIMERO.- Los sistemas de agua potable y alcantarillado que proceda, se incorpor
 
 SEGUNDO.- Los derechos por suministro, conexiones, tomas de agua, drenaje y demás relativos a los servicios de agua potable y alcantarillado que no se hubieren satisfecho al tiempo en que surta efecto esta Ley, se transfieren al organismo que quede a cargo de la prestación de dicho servicio.
 
-TERCERO.- Los sistemas de agua potable y alcantarillado que se construyan en el futuro de acuerdo con los convenios de cooperación que el Ejecutivo del Estado celebre con S.A.H.O.P., COPLAMAR u otras dependencias y organismos de la federación, serán entregados para su administración y operación a la Junta Federal de Agua Potable y Alcantarillado.
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 1987)</small>
+
+TERCERO.- En virtud de que el servicio que presta esta Delegación es de utilidad pública y de carácter eminentemente social, en el caso de siniestros provocados por agentes fuera de control de la Dependencia, se recurrirá a la cooperación de los usuarios para su rehabilitación.
 
 CUARTO.- Se derogan todas las disposiciones legales en materia de agua potable, drenaje y alcantarillado que se opongan a la presente Ley.
 
@@ -890,3 +956,11 @@ DADA en el PALACIO del PODER EJECUTIVO, en Victoria de Durango, Dgo. a los cator
 El Gobernador Constitucional del Estado, Lic. ARMANDO DEL CASTILLO FRANCO.- Rúbrica.
 
 El Secretario General de Gobierno Lic. CARLOS GALINDO MARTINEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 1987.
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las presentes reformas y adiciones.
