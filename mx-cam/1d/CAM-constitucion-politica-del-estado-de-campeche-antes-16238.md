@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1919-09-06"
+last_updated: "1921-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 1919.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 1921.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -709,17 +709,11 @@ Todos los funcionarios públicos del Estado o de los Municipios, sin excepción 
 
 De las reformas a la Constitución.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1921)</small>
+
 ###### Art. 118.
 
-Esta Constitución puede ser adicionada o reformada, pero para ello se necesitan los requisitos que establecen las fracciones siguientes:
-
-I. La reforma o adición propuesta sólo será tomada en consideración y puesta a discusión cuando así lo estimen los dos tercios de los Diputados presentes;
-
-II. La Legislatura en cuyo período es (sic) proponga la adición o reforma, se limitará a declarar que es de tomarse en consideración para ser discutida y le mandará dar publicidad por la prensa, reservando su discusión y resolución a la Legislatura próxima siguiente;
-
-III. Para que ésta la apruebe se requiere el voto afirmativo de las dos terceras partes de la totalidad de Diputados que la integran;
-
-IV. Y para su aprobación definitiva, el voto de las dos terceras partes de los Ayuntamientos que componen el Estado.
+Esta Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que el Congreso del Estado, por mayoría de votos, acuerde las reformas o adiciones y que óstas (sic) sean aprobadas por la mayoría de los Ayuntamientos del Estado.
 
 ###### Art. 119.
 
@@ -800,6 +794,10 @@ P.O. 6 DE SEPTIEMBRE DE 1919.
 > <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO SEGUNDO DEL DECRETO.</small>
 
 Art. segundo. Los componentes de los Ayuntamientos, los de las Juntas Municipales y los Comisarios Municipales durarán también dos años en sus respectivos encargos.
+
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+
+P.O. 30 DE AGOSTO DE 1921.
 
 > <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
