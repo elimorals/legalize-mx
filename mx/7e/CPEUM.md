@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1966-01-13"
+last_updated: "1966-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE OCTUBRE DE 1966 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1966.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE OCTUBRE DE 1966.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -936,7 +938,9 @@ XI.- Para crear y suprimir empleos públicos de la Federación y señalar, aumen
 
 XII.- Para declarar la guerra, en vista de los datos que le presente el Ejecutivo.
 
-XIII.- Para reglamentar el modo cómo deban expedirse las patentes de corso; para dictar leyes según las cuales deban declararse buenas o malas las presas de mar y tierra, y para expedir las relativas al derecho marítimo de paz y guerra.
+(REFORMADA, D.O.F. 21 DE OCTUBRE DE 1966) (F. DE E., D.O.F. 22 DE OCTUBRE DE 1966)
+
+XIII.- Para dictar leyes según las cuales deben declararse buenas o malas las presas de mar y tierra, y para expedir leyes relativas al derecho marítimo de paz y guerra.
 
 > <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 1944)</small>
 
@@ -1116,7 +1120,9 @@ I.- Prestar su consentimiento para el uso de la Guardia Nacional, en los casos d
 
 II.- Recibir, en su caso, la protesta del Presidente de la República, de los miembros de la Suprema Corte de Justicia de la Nación, de los Magistrados del Distrito Federal y Territorios, si estos últimos funcionarios se encontraren en la ciudad de México.
 
-III.- Dictaminar sobre todos los asuntos que queden sin resolución en los expedientes, a fin de que en el inmediato período de sesiones sigan tramitándose.
+> <small>(REFORMADA, D.O.F. 21 DE OCTUBRE DE 1966)</small>
+
+III.- Resolver los asuntos de su competencia, recibir durante el receso del Congreso de la Unión las iniciativas de ley y proposiciones dirigidas a las Cámaras, y turnarlas para dictamen a las Comisiones de la Cámara a la que vayan dirigidas, a fin de que se despachen en el inmediato periodo de sesiones.
 
 > <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 1923)</small>
 
@@ -1129,6 +1135,10 @@ V.- Otorgar o negar su aprobación a los nombramientos de Ministros de la Suprem
 > <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 1933)</small>
 
 VI.- Conceder licencia hasta por treinta días al Presidente de la República y nombrar el interino que supla esa falta.
+
+> <small>(ADICIONADA, D.O.F. 21 DE OCTUBRE DE 1966)</small>
+
+VII.- Ratificar los nombramientos que el Presidente de la República haga de ministros, agentes diplomáticos, cónsules generales, empleados superiores de Hacienda, coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga.
 
 ### CAPITULO III.
 
@@ -1202,9 +1212,11 @@ El cargo de Presidente de la República sólo es renunciable por causa grave, qu
 
 El Presidente, al tomar posesión de su cargo, prestará ante el Congreso de la Unión o ante la Comisión Permanente, en los recesos de aquél, la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, y desempeñar leal y patrióticamente el cargo de Presidente de la República que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión; y si así no lo hiciere que la Nación me lo demande."
 
+> <small>(REFORMADO, D.O.F. 21 DE OCTUBRE DE 1966)</small>
+
 ###### Art. 88.
 
-El Presidente de la República no podrá ausentarse del territorio nacional sin permiso del Congreso de la Unión.
+El Presidente de la República no podrá ausentarse del territorio nacional sin permiso del Congreso de la Unión o de la Comisión Permanente en su caso.
 
 ###### Art. 89.
 
@@ -1232,7 +1244,7 @@ VII.- Disponer de la Guardia Nacional para los mismos objetos, en los términos 
 
 VIII.- Declarar la guerra en nombre de los Estados Unidos Mexicanos, previa ley del Congreso de la Unión.
 
-IX.- Conceder patentes de corso con sujeción a las bases fijadas por el Congreso.
+IX.- (DEROGADA, D.O.F. 21 DE OCTUBRE DE 1966)
 
 X.- Dirigir las negociaciones diplomáticas y celebrar tratados con las potencias extranjeras, sometiéndolos a la ratificación del Congreso Federal.
 
@@ -1248,7 +1260,9 @@ XIV.- Conceder, conforme a las leyes, indultos a los reos sentenciados por delit
 
 XV.- Conceder privilegios exclusivos por tiempo limitado, con arreglo a la ley respectiva, a los descubridores, inventores o perfeccionadores de algún ramo de la industria.
 
-XVI.- Cuando la Cámara de Senadores no esté en sesiones, el Presidente de la República podrá hacer provisionalmente los nombramientos de que hablan las fracciones III y IV, a reserva de someterlos a la aprobación de dicha Cámara cuando esté reunida.
+> <small>(REFORMADA, D.O.F. 21 DE OCTUBRE DE 1966)</small>
+
+XVI.- Cuando la Cámara de Senadores no esté en sesiones, el Presidente de la República podrá hacer los nombramientos de que hablan las fracciones III y IV, con aprobación de la Comisión Permanente.
 
 > <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1928)</small>
 
@@ -1656,7 +1670,7 @@ Los Estados no pueden, en ningún caso:
 
 I.- Celebrar alianza, tratado o coalición con otro Estado ni con las Potencias extranjeras.
 
-II.- Expedir patentes de corso ni de represalias.
+II.- (DEROGADA, D.O.F. 21 DE OCTUBRE DE 1966)
 
 III.- Acuñar moneda, emitir papel moneda, estampillas ni papel sellado.
 
@@ -1994,7 +2008,11 @@ DE LAS REFORMAS DE LA CONSTITUCION.
 
 ###### Art. 135.
 
-La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que el Congreso de la Unión, por el voto de las dos terceras partes de los individuos presentes, acuerden las reformas o adiciones, y que éstas sean aprobadas por la mayoría de las legislaturas de los Estados. El Congreso de la Unión hará el cómputo de los votos de las legislaturas, y la declaración de haber sido aprobadas las adiciones o reformas.
+La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que el Congreso de la Unión, por el voto de las dos terceras partes de los individuos presentes, acuerden las reformas o adiciones, y que éstas sean aprobadas por la mayoría de las legislaturas de los Estados.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES PARTE FINAL DEL PRIMER PARRAFO], D.O.F. 21 DE OCTUBRE DE 1966)</small>
+
+El Congreso de la Unión o la Comisión Permanente en su caso, harán el cómputo de los votos de las Legislaturas y la declaración de haber sido aprobadas las adiciones o reformas.
 
 ## TITULO NOVENO.
 
@@ -2519,3 +2537,15 @@ Las presentes reformas y adiciones entrarán en vigor cinco días después de su
 D.O.F. 13 DE ENERO DE 1966.
 
 TRANSITORIO.- La presente adición entrará en vigor a partir de los cinco días de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 21 DE OCTUBRE DE 1966.
+
+DECRETO QUE REFORMA LA FRACCION XIII DEL ARTICULO 73 Y DEROGA LA FRACCION IX DEL ARTICULO 89 Y LA FRACCION II DEL ARTICULO 117.
+
+UNICO.- Las presentes reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 21 DE OCTUBRE DE 1966.
+
+DECRETO QUE REFORMA LA FRACCION III Y ADICIONA LA FRACCION VII DEL ARTICULO 79, REFORMA EL ARTICULO 88, LA FRACCION XVI DEL ARTICULO 89 Y ADICIONA EL PARRAFO ULTIMO DEL ARTICULO 135.
+
+UNICO.- Las presentes reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
