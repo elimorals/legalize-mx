@@ -4,7 +4,7 @@ identifier: "CMX-ley-reglamentaria-del-articulo-5-constitucional-relativo-al-388
 country: "mx"
 rank: "ley"
 publication_date: "1945-05-26"
-last_updated: "1974-12-23"
+last_updated: "1993-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=388&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1944-12-30"
 
 LEY REGLAMENTARIA DEL ARTICULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1993.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el sábado 26 de mayo de 1945.
 
@@ -140,41 +140,37 @@ Por ningún concepto se registrarán títulos ni se revalidarán estudios de aqu
 
 #### SECCION III. Registro de títulos expedidos en el extranjero
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 15.
 
-Ningún extranjero podrá ejercer en el Distrito Federal las profesiones técnico-científicas que son objeto de esta Ley.
+Los extranjeros podrán ejercer en el Distrito Federal las profesiones que son objeto de esta Ley, con sujeción a lo previsto en los tratados internacionales de que México sea parte.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+Cuando no hubiere tratado en la materia, el ejercicio profesional de los extranjeros estará sujeto a la reciprocidad en el lugar de residencia del solicitante y al cumplimiento de los demás requisitos establecidos por las leyes mexicanas.
 
 ###### ARTICULO 16.
 
-Sólo por excepción podrá la Dirección General de Profesiones, de acuerdo con los colegios respectivos y cumplidos los requisitos que exige esta ley, conceder permiso temporal para ejercer alguna profesión de las clasificadas en el artículo 2o., a los profesionales extranjeros residentes en el Distrito Federal, que comprueben ser víctimas en su país de persecuciones políticas.
+(DEROGADO, D.O.F. 22 DE DICIEMBRE DE 1993)
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 17.
 
-Los títulos expedidos en el extranjero a mexicanos por nacimiento serán registrados por la Secretaría de Educación, siempre que los estudios que comprenda el título profesional sean iguales o similares a los que se impartan en los planteles dependientes del Estado.
+Los títulos expedidos en el extranjero serán registrados por la Secretaría de Educación Pública, siempre que los estudios que comprenda el título profesional, sean iguales o similares a los que se impartan en instituciones que formen parte del sistema educativo nacional.
 
 En los casos en que resulte imposible establecer la igualdad o similitud de estudios en la forma prevista en los términos del párrafo anterior, se establecerá un sistema de equivalencia de estudios, sometiendo, en su caso, a los interesados a pruebas o exámenes, para la comprobación de sus conocimientos.
 
 ###### ARTICULO 18.
 
-Los extranjeros y los mexicanos por naturalización, que posean título de cualquiera de las profesiones que comprende esta Ley, sólo podrán:
-
-I.- Ser profesores de especialidades que aún no se enseñen o en las que acusen indiscutible y señalada competencia en concepto de la Dirección General de Profesiones;
-
-II.- Ser consultores o instructores destinados al establecimiento, organización o instalación de planteles de enseñanza civil, o militar, y laboratorios o institutos de carácter esencialmente científico, y
-
-III.- Ser directores técnicos en la explotación de los recursos naturales del país con las limitaciones que establezcan la Ley Federal del Trabajo y demás relativas.
+(DEROGADO, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 19.
 
-El ejercicio de las actividades que limitativamente concede el artículo anterior a los extranjeros y mexicanos por naturalización, será en todo caso de carácter temporal y estará sujeto a las condiciones que imponga el Ejecutivo Federal.
+(DEROGADO, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 20.
 
-La Secretaría de Gobernación autorizará la internación de profesionistas extranjeros al territorio nacional, con sujeción a las anteriores normas.
+(DEROGADO, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ### CAPITULO IV. De la Dirección General de Profesiones
 
@@ -224,13 +220,15 @@ XIV.- Las demás que le fijen las leyes y reglamentos.
 
 Se entiende por ejercicio profesional, para los efectos de esta Ley, la realización habitual a título oneroso o gratuito de todo acto o la prestación de cualquier servicio propio de cada profesión, aunque sólo se trate de simple consulta o la ostentación del carácter del profesionista por medio de tarjetas, anuncios, placas, insignias o de cualquier otro modo. No se reputará ejercicio profesional cualquier acto realizado en los casos graves con propósito de auxilio inmediato.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 25.
 
-Para ejercer en el Distrito Federal cualquiera de las Profesiones técnico-científicas a que se refieren los artículos 2o. y 3o., se requiere:
+Para ejercer en el Distrito Federal cualquiera de las profesiones a que se refieren los Artículos 2o. y 3o., se requiere:
 
-I.- Ser mexicano por nacimiento o naturalización y estar en pleno goce y ejercicio de sus derechos civiles;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+
+I.- Estar en pleno goce y ejercicio de los derechos civiles;
 
 II.- Poseer título legalmente expedido y debidamente registrado, y
 
@@ -478,11 +476,15 @@ El hecho de que alguna persona se atribuya el carácter de profesionista sin ten
 
 Al que ofrezca públicamente sus servicios como profesionista, sin serlo, se le castigará con la misma sanción que establece el artículo anterior.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 64.
 
 Se sancionará con multa de cincuenta pesos por primera vez y duplicándose en cada caso de reincidencia, al que contravenga lo dispuesto en la parte final del artículo 33 de esta Ley.
 
 La Dirección General de Profesiones, previa comprobación de la infracción, impondrá la multa de referencia sin perjuicio de las sanciones penales en que hubiere incurrido.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 2 DE ENERO DE 1974)</small>
 
@@ -491,6 +493,8 @@ La Dirección General de Profesiones, previa comprobación de la infracción, im
 A la persona que desarrolle actividad profesional cuyo ejercicio requiera título, sin haber registrado éste, se le aplicará la primera vez una multa de quinientos pesos y en los casos sucesivos se aumentará ésta, sin que pueda ser mayor de cinco mil pesos.
 
 Las sanciones que este artículo señala serán impuestas por la Dirección General de Profesiones, dependiente de la Secretaría de Educación Pública, previa audiencia al infractor. Para la aplicación de las sanciones se tomarán en cuenta las circunstancias en que la infracción fue cometida, la gravedad de la misma y la condición del infractor.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 66.
 
@@ -525,6 +529,8 @@ La persona que ejerza alguna profesión que requiera título para su ejercicio, 
 ###### ARTICULO 69.
 
 Se exceptúan de las sanciones previstas en este capítulo a las personas que sin tener título profesional, ejerzan actividades que requieran el mismo, siempre que hayan sido autorizadas por la Dirección General de profesiones en los casos a que se refiere esta Ley.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 70.
 
@@ -648,7 +654,7 @@ Para la constitución de los Colegios de Profesionistas de cada rama, la Direcci
 
 ###### ARTICULO 21.
 
-Los hijos de los refugiados políticos residentes en México, que de acuerdo con el artículo 16 de esta Ley comprueben dicha situación y cursen su educación superior en México, al graduarse podrán ejercer, ajustándose a los requisitos de esta Ley.
+(DEROGADO, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 22.
 
@@ -717,3 +723,11 @@ D.O.F. 23 DE DICIEMBRE DE 1974.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 22 DE DICIEMBRE DE 1993.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1994.
+
+...
