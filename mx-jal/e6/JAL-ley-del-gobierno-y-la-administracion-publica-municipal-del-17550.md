@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2000-10-05"
+last_updated: "2001-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 2001.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -319,7 +319,9 @@ III. Lo soliciten, cuando menos, la mitad de los ciudadanos que radiquen en la r
 
 IV. El poblado que se elija como cabecera municipal, tenga una población no inferior a 10,000 habitantes; y
 
-V. El poblado cuente con los servicios públicos indispensables, y que tenga además, suficiente capacidad económica para atender a los gastos de Gobierno y administración pública municipal.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2001)</small>
+
+V. El poblado cuente con los servicios públicos indispensables y, que tenga además, suficiente capacidad económica para atender los gastos de la administración pública municipal.
 
 El Congreso del Estado puede declarar la extinción, o la fusión de los municipios, cuando no alcancen la población requerida, modificando, para ello, los límites de los municipios existentes, y concediendo previamente el derecho de audiencia y defensa a los Ayuntamientos de que se trate.
 
@@ -399,7 +401,9 @@ El Ayuntamiento debe nombrar al servidor público encargado de la Secretaría de
 
 El Ayuntamiento saliente debe hacer entrega al nuevo, mediante comisiones formadas para tal efecto, de los bienes, derechos y obligaciones que integran el patrimonio municipal, en acto que se debe efectuar al día siguiente de la instalación del nuevo Ayuntamiento.
 
-Sin perjuicio de lo anterior, en la entrega del gobierno y administración pública municipal, cada uno de los responsables de las dependencias municipales debe proporcionar al nuevo titular, lista del personal asignado, inventario de los bienes a su cargo, obras en proceso de realización, relación de asuntos en trámite, dinero, títulos, archivos, libros, documentos que conciernan a la institución y todo aquello que por cualquier concepto corresponda al patrimonio municipal.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2001)</small>
+
+Sin perjuicio de lo anterior, en la entrega de la administración pública municipal, cada uno de los responsables de las dependencias municipales debe proporcionar al nuevo titular, lista del personal asignado, inventario de los bienes a su cargo, obras en proceso de realización, relación de asuntos en trámite, dinero, títulos, archivos, libros, documentos que conciernan a la institución y todo aquello que por cualquier concepto corresponda al patrimonio municipal.
 
 La obligación contenida en el párrafo anterior debe cumplirse el día siguiente de la instalación del nuevo Ayuntamiento. En el caso de que la entrega amerite más tiempo, se debe emplear el estrictamente necesario.
 
@@ -441,9 +445,11 @@ Cuando se declare la desintegración de un Ayuntamiento se debe proceder en los 
 
 Corresponde al Congreso del Estado por acuerdo de las dos terceras partes de sus integrantes, declarar la suspensión o revocación del mandato de alguno de los miembros del Ayuntamiento, previo el cumplimiento del derecho de audiencia y defensa del o los afectados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ABRIL DE 2001)</small>
+
 ###### Artículo 23.
 
-Los miembros de los Ayuntamientos pueden ser suspendidos por cualquiera de las siguientes causas:
+Los miembros de los Ayuntamientos pueden ser suspendidos, hasta por un año, por cualquiera de las siguientes causas:
 
 I. Por infringir los principios constitucionales federales o estatales;
 
@@ -565,7 +571,9 @@ V. Desincorporar bienes del dominio público del Municipio;
 
 VI. Enajenar bienes inmuebles que formen parte del patrimonio municipal;
 
-VII. Solicitar al Congreso del Estado, cuando haya imposibilidad del Municipio y no exista convenio, que el Gobierno del Estado asuma una función o un servicio público municipal;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2001)</small>
+
+VII. Solicitar al Congreso del Estado, cuando haya imposibilidad del Municipio y no exista convenio, que el Poder Ejecutivo del Estado asuma una función o un servicio público municipal;
 
 VIII. Aprobar la concesión de bienes y servicios públicos municipales a los particulares;
 
@@ -581,27 +589,35 @@ Son obligaciones de los Ayuntamientos, las siguientes:
 
 I. Enviar al Congreso del Estado, las iniciativas de sus leyes de ingresos antes del día 31 de Agosto de cada año; en caso de no hacerlo, se tomarán como iniciativas las leyes que hubiesen regido durante el año inmediato anterior actualizada a la inflación de acuerdo con el Indice Nacional de Precios al Consumidor. Los Ayuntamientos pueden solicitar al Congreso del Estado las ampliaciones que a su juicio ameriten sus leyes de ingresos ya aprobadas;
 
-II. Aprobar y aplicar su presupuesto de egresos, bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general que organice la administración pública municipal; regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2001)</small>
 
-III. Conservar y acrecentar los bienes materiales del Municipio y llevar el Registro Público de Bienes Municipales, en el que se señalen los bienes del dominio público y del dominio privado del Municipio y de sus Organismos Públicos Descentralizados;
+II. Aprobar y aplicar su presupuesto de egresos, bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal;
 
-IV. Cuidar de la prestación de todos los servicios públicos de su competencia;
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2001)</small>
 
-V. Observar las disposiciones de las leyes federales y estatales en el desempeño de las funciones o en la prestación de los servicios a su cargo;
+III. Remitir al Organo Fiscalizador correspondiente antes del día quince de cada mes, la cuenta detallada de los movimientos de fondos ocurridos en el mes anterior; antes del día último de julio, la cuenta del primer semestre; y antes del día último de enero, la general del año inmediato anterior;
 
-VI. Ampliar y operar el sistema municipal de protección civil, conforme a las disposiciones legales federales y estatales;
+IV. Conservar y acrecentar los bienes materiales del Municipio y llevar el Registro Público de Bienes Municipales, en el que se señalen los bienes del dominio público y del dominio privado del Municipio y de sus Organismos Públicos Descentralizados;
 
-VII. Expedir y aplicar los reglamentos relativos a la prestación de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, conforme a las bases generales definidas por las leyes federales y estatales en la materia;
+V. Cuidar de la prestación de todos los servicios públicos de su competencia;
 
-VIII. Apoyar la educación y la asistencia social en la forma que las leyes de la materia dispongan;
+VI. Observar las disposiciones de las leyes federales y estatales en el desempeño de las funciones o en la prestación de los servicios a su cargo;
 
-IX. Atender la seguridad en todo el Municipio y dictar las medidas tendientes a mantener la seguridad, el orden público y la preservación de los derechos humanos;
+VII. Ampliar y operar el sistema municipal de protección civil, conforme a las disposiciones legales federales y estatales;
 
-X. Realizar la fiscalización, control y evaluación del Gobierno y administración pública municipal, mediante los órganos y dependencias creados para tal efecto; y (sic)
+VIII. Expedir y aplicar los reglamentos relativos a la prestación de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, conforme a las bases generales definidas por las leyes federales y estatales en la materia;
 
-XI. Realizar las funciones encomendadas a la Institución del Registro Civil; y
+IX. Apoyar la educación y la asistencia social en la forma que las leyes de la materia dispongan;
 
-XII. Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes y reglamentos.
+X. Atender la seguridad en todo el Municipio y dictar las medidas tendientes a mantener la seguridad, el orden público y la preservación de los derechos humanos;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2001)</small>
+
+XI. Realizar la fiscalización, control y evaluación de la administración pública municipal, mediante los órganos y dependencias creadas para tal efecto;
+
+XII. Realizar las funciones encomendadas a la Institución del Registro Civil; y
+
+XIII. Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes y reglamentos.
 
 ###### Artículo 38.
 
@@ -619,11 +635,17 @@ V. Celebrar convenios con el Estado a fin de que éste, de manera directa o a tr
 
 VI. Celebrar convenios de coordinación y asociación con otros Municipios para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponden;
 
-VII. Tratándose de la asociación de los municipios de dos o más Estados, deben contar con la aprobación de las legislaturas de los Estados respectivas;
+> <small>(REFORMADO, [N. DE E. ANTES FRACCIÓN VII], P.O. 21 DE ABRIL DE 2001)</small>
 
-VIII. Señalar las garantías que en su caso deban otorgar los servidores públicos municipales que designe, para responder por el ejercicio de sus funciones; y
+Tratándose de la asociación de los municipios de dos o más Estados, deben contar con la aprobación de las legislaturas de los estados respectivas;
 
-IX. Las demás que les establezcan las Constituciones Federal, Estatal, la particular del Estado y demás leyes y reglamentos.
+> <small>(REFORMADA, [N. DE E. ANTES FRACCIÓN VIII], P.O. 21 DE ABRIL DE 2001)</small>
+
+VII. Señalar las garantías que en su caso deban otorgar los servidores públicos municipales que designe, para responder por el ejercicio de sus funciones; y
+
+> <small>(REFORMADA, [N. DE E. ANTES FRACCIÓN IX], P.O. 21 DE ABRIL DE 2001)</small>
+
+VIII. Las demás que les establezcan la Constitución Federal, la particular del Estado y demás leyes y reglamentos.
 
 ###### Artículo 39.
 
@@ -729,7 +751,9 @@ VI. Cuidar el buen estado y mejoramiento de los bienes pertenecientes al Municip
 
 VII. Vigilar que las comisiones encargadas de los distintos servicios municipales cumplan eficazmente con su cometido;
 
-El Presidente Municipal debe estar atento a las labores que realizan los demás servidores públicos del gobierno y administración pública municipal, debiendo dar cuenta al Ayuntamiento cuando la gravedad del caso lo amerite, de las faltas u omisiones que advierta.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2001)</small>
+
+El Presidente Municipal debe estar atento a las labores que realizan los demás servidores públicos de la administración pública municipal, debiendo dar cuenta al Ayuntamiento cuando la gravedad del caso lo amerite, de las faltas u omisiones que advierta;
 
 Con respeto a la garantía de audiencia, debe imponer a los servidores públicos municipales, las correcciones disciplinarias que fijen las leyes y reglamentos, con motivo de las faltas y responsabilidades administrativas en que incurran en el desempeño de sus funciones;
 
@@ -769,9 +793,13 @@ I. Asistir puntualmente a las sesiones del Ayuntamiento y dar cuenta en las mism
 
 II. Acordar con el Presidente Municipal los asuntos especiales que se les hubiesen encomendado y los correspondientes a sus comisiones;
 
-III. Acatar en todo momento las decisiones del Ayuntamiento; y
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2001)</small>
 
-IV. Las demás que establezcan las Constituciones Federal, Estatal y demás leyes y reglamentos.
+III. Asistir a las reuniones del Ayuntamiento y cumplir con el trabajo de sus comisiones;
+
+IV. Acatar en todo momento las decisiones del Ayuntamiento; y
+
+V. Las demás que establezcan las Constituciones Federal, Estatal y demás leyes y reglamentos.
 
 ###### Artículo 50.
 
@@ -861,7 +889,9 @@ III. Tener cuando menos veinticinco años cumplidos al día de su designación;
 
 IV. Tener la siguiente escolaridad:
 
-a) En los municipios en los que el Ayuntamiento esté integrado hasta por catorce regidores, se requiere por lo menos, la enseñanza media superior;
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2001)</small>
+
+a) En los municipios en los que el Ayuntamiento esté integrado hasta por once regidores, se requiere por lo menos, la enseñanza media superior;
 
 b) En los municipios en que el Ayuntamiento está integrado por más de catorce regidores, se requiere tener título profesional de licenciado en derecho o abogado; y
 
@@ -947,15 +977,21 @@ Compete al funcionario encargado de la Hacienda Municipal:
 
 I. Verificar por sí mismo o por medio de sus subalternos, la recaudación de las contribuciones municipales, así como cuidar de la puntualidad de los cobros, de la exactitud de las liquidaciones, de la prontitud en el despacho de los asuntos de su competencia y del buen orden y debida comprobación de las cuentas de ingresos y de egresos;
 
-II. Enviar al Congreso del Estado, dentro de los primeros cinco días de cada mes, el corte de caja del mes anterior;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2001)</small>
 
-III. Aplicar los gastos, de acuerdo con el presupuesto de egresos aprobado por el Ayuntamiento, y exigir que los comprobantes respectivos estén firmados por el Presidente Municipal, o por el funcionario al que le haya sido delegada esta facultad de conformidad con los reglamentos respectivos, el funcionario encargado de la Secretaría del Ayuntamiento; y
+II. Enviar al Organo Fiscalizador, las cuentas detalladas de los movimientos de fondos, en los términos del (sic) la fracción III del artículo 37, de esta Ley y notificar por escrito al Congreso del Estado que se ha cumplido con esta disposición;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2001)</small>
+
+III. Aplicar los gastos, de acuerdo con el presupuesto de egresos aprobado por el Ayuntamiento y, exigir que los comprobantes respectivos estén firmados por el Presidente Municipal o por el servidor público al que le haya sido delegada esta facultad de conformidad con los reglamentos respectivos, así como el encargado de la Secretaría del Ayuntamiento; y
 
 IV. Las demás que señale esta Ley, otras leyes y reglamentos.
 
 ## TITULO CUARTO. PREVENCIONES PARA LOS CASOS DE AUSENCIA DE LAS AUTORIDADES MUNICIPALES
 
 ### CAPITULO I. De la Hacienda Municipal
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ABRIL DE 2001)</small>
 
 ###### Artículo 68.
 
@@ -999,7 +1035,7 @@ Las faltas de los demás servidores públicos municipales deben ser cubiertas co
 
 ###### Artículo 75.
 
-Para los efectos de la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, y del artículo 81 de la Constitución Política del Estado, la Hacienda Municipal se forma con los impuestos, derechos, productos y aprovechamientos que anualmente propongan los Ayuntamientos y apruebe la Legislatura del Estado; los ingresos que establezcan las leyes fiscales a su favor y, en todo caso, con:
+Para los efectos de la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y del artículo 81 de la Constitución Política del Estado, la hacienda municipal se forma con los impuestos, derechos, productos y aprovechamientos que anualmente propongan los Ayuntamientos y apruebe el Congreso del Estado; los ingresos que establezcan las leyes fiscales a su favor y en todo caso con:
 
 I. Las contribuciones sobre la propiedad inmobiliaria, incluyendo tasas adicionales que establezca el Congreso del Estado, de su fraccionamiento, división, consolidación, translación y mejora, así como las que tengan por base el cambio del valor de los inmuebles;
 
@@ -1107,7 +1143,9 @@ II. Los bienes de dominio privado del Municipio;
 
 III. Los capitales, impuestos, e hipoteca y demás créditos en favor de los Municipios, así como las donaciones y legados que se reciban; y
 
-IV. Las cuentas en administración.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2001)</small>
+
+IV. Las cuentas en administración, con las limitaciones establecidas en la ley.
 
 ###### Artículo 83.
 
@@ -1195,9 +1233,11 @@ III. Que en la adquisición de terrenos de propiedad de los núcleos de poblaci�
 
 De no cumplirse lo establecido en las fracciones que anteceden, la compra será nula de pleno derecho y serán sujetos de responsabilidad quienes la hubiesen autorizado.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2001)</small>
+
 ###### Artículo 91.
 
-Dentro de los treinta días posteriores a la adquisición o transmisión de dominio de cualquier inmueble, el Ayuntamiento debe comunicarlo al Congreso del Estado y remitir copia certificada del dictamen, así como del acta de sesión del Ayuntamiento en la que se aprobó la adquisición, esto para los efectos de la revisión de la cuenta pública respectiva.
+Dentro de los treinta días posteriores a la adquisición o transmisión de dominio de cualquier inmueble, el Ayuntamiento debe comunicarlo al Congreso del Estado y remitir copia certificada del dictamen, así como del acta de sesión del Ayuntamiento en la que se aprobó la adquisición, para los efectos de la revisión y fiscalización de la cuenta pública respectiva.
 
 ###### Artículo 92.
 
@@ -1205,9 +1245,11 @@ El Ayuntamiento, a través de la dependencia que para tal efecto se autorice, de
 
 Respecto de los bienes inmuebles, en dicho registro debe constar el destino de cada uno de ellos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ABRIL DE 2001)</small>
+
 ###### Artículo 93.
 
-Los municipios deben preservar los predios, fincas y espacios públicos en condiciones apropiadas para su aprovechamiento común. Los gobiernos y administraciones públicas municipales deben ejercer la vigilancia y control necesarios para evitar su ocupación irregular y realizar las acciones necesarias para recuperar aquellos que hayan sido ocupados sin autorización o en forma irregular, por actividades distintas a los aprovechamientos comunes a los que estén afectados.
+Los municipios deben preservar los predios, fincas y espacios públicos en condiciones apropiadas para su aprovechamiento común. Los ayuntamientos deben ejercer la vigilancia y control necesarios para evitar su ocupación irregular y realizar las acciones necesarias para recuperar aquellos que hayan sido ocupados sin autorización o en forma irregular por actividades distintas a los aprovechamientos comunes a los que estén afectados.
 
 Toda persona puede denunciar ante el Ayuntamiento la ocupación irregular de predios, fincas y espacios destinados a fines públicos o al uso común.
 
@@ -1245,9 +1287,11 @@ XI. Los demás que el Congreso del Estado determine en atención a las condicion
 
 Los Municipios deben expedir los ordenamientos municipales que regulen la prestación de estos servicios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ABRIL DE 2001)</small>
+
 ###### Artículo 95.
 
-Cuando a juicio de los Ayuntamientos sea necesario, pueden solicitar al Gobierno del Estado la celebración de convenios, para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de la ejecución y operación de obras y la prestación de servicios públicos.
+Cuando a juicio de los Ayuntamientos sea necesario, pueden solicitar al Poder Ejecutivo del Estado la celebración de convenios, para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de la ejecución y operación de obras y la prestación de servicios públicos.
 
 Los convenios a que se refiere el párrafo anterior deben reunir los siguientes requisitos:
 
@@ -1281,25 +1325,37 @@ Los Municipios, previo acuerdo entre sus Ayuntamientos, pueden coordinarse para 
 
 Los citados convenios deben cumplir los requisitos que señala el artículo anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ABRIL DE 2001)</small>
+
 ###### Artículo 98.
 
-El Gobierno del Estado debe asumir una función o un servicio público municipal cuando, de no existir el convenio correspondiente, el Congreso del Estado considere que el Municipio de que se trate está imposibilitado para ejercerlos o prestarlos. Para que el Congreso del Estado conozca de estos asuntos se requiere:
+El Poder Ejecutivo del Estado debe asumir una función o un servicio público municipal cuando, de no existir el convenio correspondiente, el Congreso del Estado considere que el Municipio de que se trate está imposibilitado para ejercerlos o prestarlos.
 
-I. Solicitud del Ayuntamiento aprobada por mayoría calificada de sus integrantes al Congreso del Estado, para que el Gobierno del Estado asuma una función o un servicio público municipal;
+Para que el Congreso del Estado conozca de estos asuntos se requiere:
 
-II. Que el Ayuntamiento demuestre haber solicitado al Gobierno del Estado que se hiciera cargo, por vía de convenio, de una función o servicio público municipal, y éste no hubiera contestado en el plazo de 45 días o lo hubiera negado expresamente.
+I. Solicitud al Congreso del Estado, por parte del Ayuntamiento, firmada por el Presidente Municipal y el encargado de la Secretaría del Ayuntamiento, acompañada de copia certificada del acta de la sesión en la que consta la aprobación por mayoría calificada de sus integrantes, para que el Poder Ejecutivo del Estado asuma una función o un servicio público municipal; y
+
+II. Que el Ayuntamiento demuestre haber solicitado al Poder Ejecutivo del Estado que se hiciera cargo, por vía de convenio, de una función o servicio público municipal y éste no hubiera contestado en el plazo de cuarenta y cinco días o lo hubiera negado expresamente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ABRIL DE 2001)</small>
 
 ###### Artículo 99.
 
-Corresponde al Congreso del Estado, a través de la comisión que se designe para tal efecto, dictaminar en un plazo de treinta días, si un Municipio tiene o ha dejado de tener capacidad administrativa, técnica o financiera para garantizar la eficaz prestación de una función o servicio público municipal. En su caso, debe emitir el decreto mediante el cual, el Gobierno del Estado debe asumir una función o servicio público municipal.
+Corresponde al Congreso del Estado, a través de la comisión que designe para tal efecto, dictaminar en un plazo de treinta días, si un Municipio tiene o ha dejado de tener capacidad administrativa, técnica o financiera para garantizar la eficaz prestación de una función o servicio público municipal. En su caso, debe emitir el decreto mediante el cual, el Poder Ejecutivo del Estado debe asumir una función o servicio público municipal.
 
 El decreto que expida el Congreso del Estado para los efectos del párrafo anterior debe contener:
 
-I. Estudio de la situación del Municipio que justifique la prestación de una función o servicio público municipal por parte del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2001)</small>
 
-II. Transcripción de los puntos resolutivos del acta del Ayuntamiento donde se haya solicitado al Congreso del Estado la asunción de una función o servicio público municipal por parte del Gobierno del Estado;
+I. Estudio de la situación del Municipio que justifique la prestación de una función o servicio público municipal por parte del Poder Ejecutivo del Estado;
 
-III. Descripción pormenorizada de la función o servicio público municipal que debe prestar el Gobierno del Estado;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2001)</small>
+
+II. Transcripción de los puntos resolutivos del acta del Ayuntamiento donde se haya solicitado al Congreso del Estado la asunción de una función o servicio público municipal por parte del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2001)</small>
+
+III. Descripción pormenorizada de la función o servicio público municipal que debe prestar el Poder Ejecutivo del Estado;
 
 IV. Deberes y obligaciones del Estado;
 
@@ -1617,6 +1673,8 @@ El Ayuntamiento, esta obligado a la prestación de los servicios de seguridad so
 
 ### CAPITULO II. De las Responsabilidades
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2001)</small>
+
 ###### Artículo 137.
 
 El Presidente Municipal puede hacer uso, en su orden, de los siguientes medios de apremio, para hacer cumplir los acuerdos del Ayuntamiento y sus propias determinaciones:
@@ -1643,7 +1701,7 @@ La Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios e
 
 ###### Artículo 141.
 
-Para los efectos de las responsabilidades a que alude este capítulo, se consideran como servidores públicos municipales a los miembros del Ayuntamiento o del Concejo Municipal en su caso, y en general a toda persona que desempeñe un cargo o comisión, de cualquier naturaleza en el gobierno y Administración Pública Municipal, así como a quienes presten servicios en los organismos públicos descentralizados municipales, órganos derivados de contratos de fideicomiso público y empresas de participación municipal mayoritaria, quienes son responsables por los actos u omisiones en que incurran por el desempeño de sus respectivas funciones, pudiendo en consecuencia proceder en su contra la autoridad respectiva.
+Para los efectos de las responsabilidades a que alude este capítulo, se consideran como servidores públicos municipales a los miembros del Ayuntamiento o del Concejo Municipal en su caso, y en general a toda persona que desempeñe un cargo o comisión, de cualquier naturaleza en la administración pública municipal, así como a quienes presten servicios en los organismos públicos descentralizados municipales, órganos derivados de contratos de fideicomiso público y empresas de participación municipal mayoritaria, quienes son responsables por los actos u omisiones en que incurran por el desempeño de sus respectivas funciones, pudiendo en consecuencia proceder en su contra la autoridad respectiva.
 
 ###### Artículo 142.
 
@@ -1685,7 +1743,9 @@ Para efectos de registro y control, el Ayuntamiento debe remitir al órgano comp
 
 T R A N S I T O R I O S
 
-PRIMERO. Se abroga la Ley Orgánica Municipal y se derogan todas las disposiciones que se opongan a la presente.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2001)</small>
+
+PRIMERO. Se abroga la Ley Orgánica Municipal y se derogan todas las disposiciones que se oponen a la presente, con excepción a lo dispuesto por los artículos sexto y séptimo transitorios.
 
 SEGUNDO. Los convenios, contratos, actos jurídicos de asociación o coordinación celebrados entre diversos municipios, o de éstos con el Gobierno del Estado, para la prestación de servicios públicos o realización de obras, o de cualquier otra naturaleza, antes de la vigencia de esta ley, tienen plena validez y surtirán todos sus efectos hasta la fecha señalada para su terminación.
 
@@ -1694,6 +1754,14 @@ TERCERO. Pueden conservar la categoría de delegaciones municipales, aquellas qu
 CUARTO. En tanto no se expida la Ley de Planeación para el Estado de Jalisco y sus Municipios, la planeación municipal se regirá por las bases que establezca el Comité de Planeación para el Desarrollo del Estado.
 
 QUINTO. Esta ley entrará en vigor el 22 de mayo del 2001
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2001)</small>
+
+SEXTO. La Ley Orgánica Municipal continuará vigente respecto a las atribuciones, facultades y obligaciones de los Vicepresidentes emanados del proceso electoral de Noviembre del 2000.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2001)</small>
+
+SÉPTIMO. Lo dispuesto por la presente Ley, se aplicará a los Síndicos, con excepción de las facultades conferidas por el artículo 53 en sus fracciones I, II, y III hasta en tanto sean electos, de conformidad a lo dispuesto por la Ley Electoral del Estado de Jalisco, momento a partir del cual, se les aplicará la presente Ley en su totalidad. Para efecto de lo anterior a los Síndicos de los Ayuntamientos que se desempeñan en el actual periodo Constitucional 2000-2003, se les considera como servidores públicos de la Administración Pública Municipal, más no como integrantes del Organo de Gobierno.
 
 SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
 
@@ -1722,3 +1790,35 @@ ING. ALBERTO CÁRDENAS JIMÉNEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FELIPE DE JESÚS PRECIADO CORONADO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE ABRIL DE 2001.
+
+DECRETO 18986
+
+ÚNICO. El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE ABRIL DE 2001.
+
+DECRETO 18987.
+
+UNICO. El presente decreto, entrará en vigor al mismo tiempo que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Diario Oficial "El Estado de Jalisco".
+
+P.O. 21 DE ABRIL DE 2001.
+
+DECRETO 18988
+
+Único. El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE ABRIL DE 2001.
+
+DECRETO 18989
+
+ÚNICO. El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE ABRIL DE 2001.
+
+DECRETO 18990.
+
+ÚNICO.- El presente decreto entrará en vigor el mismo día en que entre en vigor la ley del Gobierno y la Administración Pública Municipal, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
