@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1941-05-29"
+last_updated: "1941-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 1941.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 1941.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -3081,9 +3081,11 @@ Si la cosa fuere mueble y pudiere ser habida, se le mandará entregar al actor o
 
 Cuando la sentencia ordene entrega de personas, el juez dictará las disposiciones conducentes para que no quede frustrado el cumplimiento del fallo.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
+
 ###### Artículo 510.
 
-Contra las resoluciones dictadas para la ejecución de una sentencia, no se admitirá más recurso que el de responsabilidad. Si se tratare de interlocutoria, será procedente la queja ante el superior.
+Contra las resoluciones dictadas para la ejecución de una sentencia, no se admitirá más recurso que el de responsabilidad. Si la resolución fuere de otra naturaleza será procedente el recurso de apelación.
 
 ###### Artículo 511.
 
@@ -4115,17 +4117,21 @@ Las demás resoluciones que no fueren apelables, pueden ser revocadas por el mis
 
 La revocación podrá pedirse en el acto de notificarse la resolución o dentro de las veinticuatro horas siguientes.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
+
 ###### Artículo 681.
 
-Interpuesto el recurso, el juez o tribunal lo resolverá de plano, a menos que estime necesario oír a las partes. En este caso las citará a una audiencia verbal dentro de los tres días siguientes al de la citación, en la que se recibirán las pruebas, se oirán los alegatos y se pronunciará resolución, respecto de la cual no habrá más recurso que el de responsabilidad.
+Interpuesto el recurso, si fuere notorianente (sic) frívolo e improcedente, el Juez o el Tribunal en su caso, lo desechará de plano. Si el recurso no se estimare notoriamente frívolo o improcedente, se citará a las partes a una audiencia verbal con término de tres días, en la que se recibirán las pruebas y se oirán los alegatos, y la resolución se dictará dentro de los tres días siguientes, sin que contra ella haya mas recurso que el de responsabilidad.
 
 ###### Artículo 682.
 
-En los juicios que se substancíen oralmente y en los sumarios, la revocación se resolverá siempre de plano.
+(DEROGADO, P.O. 28 DE JUNIO DE 1941)
 
 ### CAPITULO III.
 
 De la Queja.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
 
 ###### Artículo 683.
 
@@ -4145,11 +4151,11 @@ El procurador podrá apelar y continuar el recurso, aunque el poder no tenga cl�
 
 La parte que venció puede adherirse a la apelación interpuesta al notificársele su admisión, o dentro de las veinticuatro horas siguientes a esta notificación. En este caso la adhesión al recurso sigue la suerte de éste.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
+
 ###### Artículo 687.
 
-La apelación debe interponerse ante el juez que pronunció la sentencia, ya verbalmente en el acto de notificársele ésta ya por escrito dentro de cinco días improrrogables, si la sentencia fuere definitiva, o dentro de tres, si fuere auto o interlocutoria. Estos términos se contarán a partir de la notificación que se haga de la sentencia debidamente engrosada.
-
-Los autos e interlocutorias serán apelables cuando lo fuere la sentencia definitiva.
+La apelación debe interponerse ante el Juez que pronunció la sentencia, ya verbalmente en el acto de notificarse ésta, o por escrito dentro de cinco días improrrogables si la sentencia fuere definitiva, o dentro de tres días si fuere auto. Estos términos se contarán desde el día siguiente a la notificación de la resolución debidamente endosada.
 
 ###### Artículo 688.
 
@@ -4163,19 +4169,21 @@ Interpuesta la apelación, el juez la admitirá sin substanciación alguna, si l
 
 La apelación admitida en ambos efectos, suspende desde luego la ejecución de la sentencia o del auto hasta que éstos causen ejecutoria, y, entre tanto, sólo podrán dictarse las resoluciones que se refieran a administración, custodia y conservación de bienes embargados o intervenidos judicialmente, siempre que la apelación no verse sobre alguno de estos puntos.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
+
 ###### Artículo 691.
 
 La apelación admitida sólo en el efecto devolutivo no suspende la ejecución de la sentencia o del auto apelado.
 
 Si el recurso se hubiere interpuesto contra una sentencia, se dejará en el Juzgado copia certificada de ella y de las constancias necesarias, remitiéndose el expediente original al Tribunal de Segunda Instancia.
 
-Si se tratare de un auto o de interlocutoria, se remitirá al Tribunal copia de lo que el apelante señale como conducente, agregándose las constancias que la parte contraria juzgue necesarias, a no ser que el recurrente prefiera esperar la remisión de los autos originales cuando éstos se hallen en estado.
+Si se tratare de un auto se remitirá al Tribunal copia de lo que el apelante señale como conducente, agregándose las constancias que la parte contraria juzgue necesarias, a no ser que el recurrente prefiera esperar la remisión de los autos originales cuando éstos se hallen en estado. Si el apelante dentro del término de tres días no señala al Juzgado las constancias que deban remitirse al Superior, se remitirá solo la resolución recurrida con las constancias que señale la parte apelada. Si ésta dentro de un plazo de tres días no señalare las constancias que le corresponden, se remitirán con la resolución recurrida, solamente las que el apelante hubiere señalado. En la omisión del ejercicio de su derecho por las partes, se remitirá al Superior solamente la misma resolución que motivó el recurso.
 
-Si el apelante, dentro del tercer día de la admisión del recurso, no señala al juzgado las constancias que deban remitirse al superior para substanciar la alzada, el juez declarará firme la resolución apelada, sin ulterior recurso.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
 
 ###### Artículo 692.
 
-Salvo los casos expresamente exceptuados en este Código, las sentencias son apelables en ambos efectos cuando el interés del negocio exceda de quinientos pesos.
+Salvo los casos expresamente exceptuados en este Código, las sentencias son apelables en el efecto devolutivo cuando el interés del negocio sea hasta de quinientos pesos, y en ambos efectos cuando dicho interés exceda de esa cantidad.
 
 ###### Artículo 693.
 
@@ -4199,9 +4207,11 @@ III. La otorgada por el demandado comprenderá el pago de lo juzgado y sentencia
 
 IV. La liquidación de los daños y perjuicios se hará en la ejecución de la sentencia.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
+
 ###### Artículo 696.
 
-En el auto en que el juez admita la apelación, conforme a lo dispuesto en el artículo 689, mandará emplazar a las partes para que se presenten ante el superior a continuar el recurso y les prevendrá que señalen domicilio para recibir sus notificaciones en el lugar de la residencia del tribunal.
+En el auto en que el Juez admita la apelación conforme a los artículos 689, 692 y 693, mandará emplazar a las partes que se presenten ante el Superior a continuar el recurso y les prevendrá que señalen domicilio para recibir sus notificaciones en el lugar de la residencia del Tribunal.
 
 ###### Artículo 697.
 
@@ -4211,23 +4221,33 @@ Si el Supremo Tribunal reside en el lugar del juicio, se fijará al apelante el 
 
 Una vez notificado el auto que admita la apelación en ambos efectos el juez dentro de cuarenta y ocho horas, remitirá los autos al Supremo Tribunal. Si la apelación se admitió sólo en el efecto devolutivo, se observará lo dispuesto en el artículo 691.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
+
 ###### Artículo 699.
 
-El apelante se presentará, dentro del término que se le designe al Acuerdo del Supremo Tribunal o a la Sala a la cual se turnen los autos, acatando lo que previene el artículo 696.
+El apelante se presentará dentro del término que se le haya designado, a la Sala del Supremo Tribunal, debiendo entonces señalar, en acatamiento a la prevención del artículo 696, domicilio para recibir notificaciones, si no lo hubiere señalado antes.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
 
 ###### Artículo 700.
 
-Llegados los autos al Supremo Tribunal o en su caso las constancias relativas para sustanciar la apelación, los turnará desde luego a la Sala que corresponda su conocimiento, y ésta, si el apelante se hubiere presentado a continuar el recurso, sin necesidad de vista o informes, dentro de tres días resolverá sobre la admisión del recurso.
+Llegados los autos al Supremo Tribunal, o en su caso, las constancias relativas para substanciar la apelación, serán turnados desde luego a la Sala, y ésta, si el apelante se hubiere presentado a continuar el recurso, sin necesidad de vista o informes, sino cuando lo estimare necesario, dentro de tres días resolverá sobre la admisión del recurso.
+
+Si se declara inadmisible la apelación en todo efecto, en el mismo auto ordenará que se devuelva el expediente al Inferior y declarará ejecutoriada la resolución apelada. Si declara inadmisible la apelación en ambos efectos, pero admisible en el devolutivo, mandará también devolver los autos al Inferior para el procedimiento prevenido en el Artículo 691. Si admitida la apelación por el Juez en efecto devolutivo, se declara por la Sala admisible en ambos efectos, se requerirá al Inferior por el expediente original, si no se hubiere recibido.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
 
 ###### Artículo 701.
 
-En el mismo auto en que se admita el recurso, mandará el Tribunal poner a disposición del apelante los autos por seis días, en la Secretaría, para que exprese agravios. Del escrito de expresión se correrá traslado a la contraria si se hubiere presentado, por otros seis días, durante los cuales estarán los autos a disposición de ésta para que se imponga de ellos.
+Admitido el recurso en su legal procedencia y recibidas, en su caso, las constancias requeridas para su tramitación, la Sala mandará poner los autos en la Secretaría a disposición del apelante y del apelado, sucesivamente, por seis días para cada una, al primero para que formule sus agravios y al segundo para que los conteste.
 
-Bastará la enumeración sencilla que haga la parte de los errores o violaciones de derecho que en su concepto se cometieron en la sentencia, para tener como expresados los agravios.
+Bastará la enumeración sencilla que haga la parte de los errores o violaciones de derecho que en su concepto, se cometieron en la sentencia, para tener por expresados los agravios.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
 
 ###### Artículo 702.
 
-En el caso de que el apelante no se presente a continuar el recurso dentro del término que le señaló el juez o de que no exprese agravios en el término de ley, se le tendrá por desistido del recurso, haciendo la declaración correspondiente al Superior, previa certificación de la falta de presentación o de la expresión de agravios.
+Si el apelante no se presenta a continuar el recurso ante la Sala, dentro del plazo que el Juez le señaló, o presentado el recurrente, no expresa sus agravios en el término de Ley, se le tendrá por desistido del recurso, haciendo la Sala la declaración de quedar ejecutoriada la sentencia apelada, y comunicándola al Inferior.
 
 ###### Artículo 703.
 
@@ -4245,37 +4265,49 @@ II. Cuando hubiere ocurrido algún hecho que importe excepción superveniente.
 
 Los litigantes podrán pedir, sin necesidad de que el pleito se hubiere recibido a prueba, desde que se pongan los autos a su disposición en la Secretaría del Tribunal, hasta antes de la celebración de la vista, o en su caso de citación para sentencia, que la parte contraria rinda confesión judicial, y podrán hacerlo por una sola vez, con tal de que sea sobre hechos que relacionados con los puntos controvertidos, no hubieren sido objeto de posiciones en la primera instancia. También podrán promover que se reciba prueba documental de los instrumentos a que se refiere el artículo 98.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
+
 ###### Artículo 706.
 
-Solicitado el término de prueba, puede la contraparte oponerse a que se conceda, al contestar los agravios o bien el traslado que se le dé a conocer de la petición del apelado y el tribunal resolverá de plano, dentro del tercer día, concediendo o negando el término y calificando las pruebas que deban admitirse con arreglo a los artículos 704 y 705.
+Solicitado el término de prueba, si quien lo solicita es el apelante, el apelado podrá oponerse dentro del término de la contestación de los agravios; y si quien lo pide es el apelado, se le dará conocimiento al apelante, para oponerse si le conviniere, dentro del mismo término que en el caso anterior. Habiendo oposición, se oirá en audiencia verbal a las partes dentro de un término de tres días. Y haya o no oposición, el Tribunal resolverá sobre el punto dentro de los tres días siguientes a la última notificación.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
 
 ###### Artículo 707.
 
-Expresados y contestados los agravios o transcurrido el término de la contestación, sin que ésta se hubiere presentado, se mandarán entregar los autos originales, primero al actor y después al reo, por cinco días a cada uno, para que aleguen. En el mismo auto se citará para sentencia, la que pronunciará el Tribunal dentro de los ocho días siguientes al en que concluya el término concedido para alegar.
+Expresados y contestados los agravios, o transcurrido el término de la contestación, sin haberla, o el término de prueba que se hubiere concedido, se citará a las partes a una audiencia con término de diez días, para que aleguen de sus respectivos derechos. Al concluir la audiencia se citará para sentencia, la que pronunciará el Tribunal dentro de los ocho días siguientes.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
 
 ###### Artículo 708.
 
-En los juicios extraordinarios la apelación se sustanciará con un sólo escrito de cada parte y un informe en estrados. La sentencia se dictará dentro de los cinco días siguientes a la audiencia.
+En los demás juicios, fuera de los ordinarios, la apelación se substanciará como en estos, pero reducidos los términos a tres días para expresar y contestar agravios, a seis días para la audiencia de alegatos y a cinco días para dictarse la resolución.
 
 ###### Artículo 709.
 
-Para los efectos del artículo anterior, una vez que el Tribunal decida tramitar la apelación conforme al artículo 700, prevendrá a las partes que formulen su expresión y contestación de agravios y señalará día, dentro de los diez siguientes, para la celebración del informe. Si se promovieren pruebas, se recibirán las que corresponda con arreglo a las disposiciones de este Capítulo, en la misma audiencia, la que podrá transferirse por una sola vez, con ese objeto, si el Tribunal así lo estima pertinente y con un término que no exceda de ocho días.
+(DEROGADO, P.O. 28 DE JUNIO DE 1941)
 
 ###### Artículo 710.
 
-Los agravios también podrán expresarse y contestarse en la diligencia del informe, siempre que no se promueva; y si no llegan a expresarse, se procederá como se previene en el artículo 702.
+(DEROGADO, P.O. 28 DE JUNIO DE 1941)
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
 
 ###### Artículo 711.
 
-Las apelaciones de interlocutorias o autos se sustanciarán conforme a los tres artículos anteriores.
+Las apelaciones de autos se substanciarán en los mismos términos del Art. 708.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
 
 ###### Artículo 712.
 
-Las sentencias que se dicten sobre modificación de actas del estado civil y sobre nulidad de matrimonios, por las causas expresadas en los artículos 241, 242, 248, 249, 250 y 251 del Código Civil, serán revisadas de oficio por la sala que corresponda del Supremo Tribunal, con intervención del Ministerio Público, si las partes no promueven apelación; y mientras el Tribunal examina la legalidad del fallo, quedará en suspenso su ejecución.
+Las sentencias que se dicten sobre modificación de actas del estado civil y sobre nulidad de matrimonio, por las causas expresadas en los artículos 241, 242, 248, 249, 250 y 251 del Código Civil, serán revisadas por la Sala del Supremo Tribunal si las partes no promueven apelación. Se resolverá con un escrito de cada parte con término de cinco días, y una audiencia de alegatos dentro de un plazo de ocho días, si las partes la pidieren, dictándose dentro del siguiente igual término, la resolución que corresponda. En la tramitación se considerará como parte interesada al Ministerio Público. Mientras el Tribunal no resuelva, toda ejecución del fallo quedará en suspenso.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
 
 ###### Artículo 713.
 
-En toda sentencia de segunda instancia se declarará expresamente si hay condenación en costas y quién deba pagar éstas.
+En toda sentencia de segunda instancia se declarará expresamente si hay condenación en costas y quien deba pagarlas. Para los efectos de la fracción III del artículo 141 de este Código, se entiende por condenado a la parte que no obtenga en las dos sentencias a que dicha fracción se refiere.
 
 ### CAPITULO IV.
 
@@ -4283,43 +4315,39 @@ De la Responsabilidad Civil.
 
 ###### Artículo 714.
 
-El recurso de queja procederá:
+El recurso de queja procederá contra la resolución que niega admitir una apelación.
 
-I. Contra el juez que se niegue a admitir una demanda o desconozca de oficio la personalidad de un litigante, antes del emplazamiento;
-
-II. Respecto de las intercolutorias dictadas en la ejecución de sentencias;
-
-III. Contra la resolución que niegue admitir una apelación;
-
-IV. En los demás casos fijados por la ley.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
 
 ###### Artículo 715.
 
-También se da el recurso de queja contra los secretarios o ejecutores por exceso o defecto en las ejecuciones, así como por omisiones o negligencias en el desempeño de sus funciones.
+En todos los demás casos en que este Código dispone expresamente que procede el recurso de queja, se tendrá como procedente el recurso de apelación.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
 
 ###### Artículo 716.
 
-El recurso de queja contra un juez, se interpondrá por escrito ante el Superior inmediato, dentro de los tres días siguientes a la notificación del acto reclamado, expresando los motivos de agravio.
+El recurso de queja se interpondrá por escrito ante el superior inmediato, dentro de los tres días siguientes a la notificación del acto reclamado, expresando los motivos del agravio.
 
-Al interponer el recurso, el quejoso deberá hacerlo saber al juez presentándole copia, por duplicado, del escrito de queja. Una de ellas se agregará al expediente y la otra se mandará entregar desde luego al colitigante.
+Al interponer el recurso, el quejoso deberá hacerlo saber al Juez presentándole copia, por duplicado, del escrito de queja. Una de ellas se agregará al expediente y la otra se mandará entregar desde luego al colitigante.
 
-El juez, dentro de los tres días siguientes, remitirá al Superior su informe con justificación y el colitigante, dentro de igual término, que se contará desde que reciba la copia, podrá ocurrir al mismo Superior expresando lo que a su derecho convenga.
+El Juez, dentro de los tres días siguientes, remitirá al Superior su informe con justificación y el colitigante, dentro de igual término, que se contará desde que reciba la copia, lo que cuidará el Juez de asentar en el expediente y en el informe, podrá ocurrir al mismo Superior expresando lo que a su derecho convenga.
 
-Dentro del tercer día de recibido el informe del juez, el Superior resolverá lo que proceda.
-
-Será el acuerdo del Supremo Tribunal el que decida las quejas contra los Jueces de Primera Instancia y los de la Capital.
+Recibido el informe del Juez, se oirá en audiencia verbal a las partes dentro del tercero (sic) día, y en los tres días siguientes el Tribunal decidirá confirmando o revocando el auto que hubiere negado la apelación.
 
 ###### Artículo 717.
 
-La queja contra los Secretarios o ejecutores, será resuelta de plano por el Juez que conozca del asunto, oyendo el informe del acusado.
+(DEROGADO, P.O. 28 DE JUNIO DE 1941)
 
 ###### Artículo 718.
 
-Si la queja no resulta apoyada en hecho cierto, si no estuviere fundada en derecho o procediere recurso ordinario contra la resolución reclamada, será desechada por el Superior, el que impondrá al quejoso y a su abogado, solidariamente, multa que no exceda de cien pesos.
+(DEROGADO, P.O. 28 DE JUNIO DE 1941)
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
 
 ###### Artículo 719.
 
-Si el Juez no rinde el informe a que se refiere este Capítulo, será apremiado por el Superior para que lo haga, remitiéndole copia del escrito de queja; y si después de transcurrido el término que prudentemente se le señale, tampoco lo rinde, incurrirá en la sanción que expresa el artículo anterior, la que se le aplicará al resolverse el recurso.
+Si el Juez no rinde el informe a que se refiere este Capítulo, siendo que su falta sea porque quien interpuso el recurso no cumplió con el segundo párrafo del artículo 716, se declarará por este solo hecho la queja infundada. Si la falta del informe fuere por hecho imputable al Juez, el Tribunal compelerá a su inferior, por los medios de apremio establecidos, a la rendición del debido informe.
 
 ### CAPITULO I.
 
@@ -6278,3 +6306,13 @@ Lic. ALFREDO CRISTERNA.
 P.O. 29 DE MAYO DE 1941.
 
 Unico.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial.
+
+P.O. 28 DE JUNIO DE 1941.
+
+###### Artículo 1o.
+
+La tramitación de los recursos pendientes al entrar en vigor este Decreto, continuará sujetándose a las disposiciones actualmente vigentes, hasta su resolución definitiva.
+
+###### Artículo 2o.
+
+Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial.
