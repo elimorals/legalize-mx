@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-378
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-01-27"
-last_updated: "1995-01-27"
+last_updated: "1997-01-07"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3780&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 1997.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el viernes 27 de enero de 1995.
 
@@ -51,6 +51,8 @@ La Secretaría de Gobierno es la dependencia de la Administración Pública Esta
 
 Al frente de la Secretaría habrá un Secretario, quien tendrá a su cargo el despacho de los asuntos encomendados a la Secretaría y que para el efecto se auxiliará de las siguientes unidades administrativas:
 
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 1997)</small>
+
 Subsecretaría de Gobierno y Desarrollo Político.
 
 Subsecretaría de Asuntos Sociales.
@@ -59,7 +61,11 @@ Subsecretaría de Seguridad Pública.
 
 Subsecretaría de Prevención y Readaptación Social.
 
+Subsecretaría de Gobierno para la Región Laguna.
+
 Dirección General de Gobierno y Asuntos Jurídicos.
+
+Secretaría Técnica y de Análisis.
 
 Dirección de Desarrollo Político.
 
@@ -96,6 +102,8 @@ Dirección de Notarías.
 Dirección de Informática.
 
 Dirección de Administración.
+
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 1997)</small>
 
 Los manuales de organización precisarán la estructura orgánica y las funciones específicas de las áreas que conforman las unidades administrativas a que se refiere este artículo.
 
@@ -151,17 +159,21 @@ XV.- Supervisar, vigilar, controlar y coordinar a las entidades agrupadas a su s
 
 XVI.- Ejercer en forma indelegable las demás facultades que con tal carácter se le confieran en las disposiciones jurídicas aplicables o le encomiende el Gobernador del Estado.
 
-### CAPITULO III. DE LAS SUBSECRETARIAS Y DE LA DIRECCION GENERAL DE GOBIERNO Y ASUNTOS JURIDICOS
+### CAPITULO III. DE LAS SUBSECRETARIAS, DE LA DIRECCION GENERAL DE GOBIERNO Y ASUNTOS JURIDICOS Y DE LA SECRETARIA TECNICA Y DE ANALISIS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 6°.
 
-Al frente de cada Subsecretaría y de la Dirección General estará un Subsecretario y un Director General, respectivamente, quien tendrá las facultades y obligaciones que le atribuyan las leyes, reglamentos, manuales y demás disposiciones legales, así como aquellas que expresamente les sean delegadas por el Secretario en la esfera de su competencia, las que deberán ejercer programadamente y conforme a las normas vigentes que sean aplicables.
+Al frente de cada Subsecretaría, de la Dirección General de Gobierno y Asuntos Jurídicos y de la Secretaría Técnica y de Análisis estará un Subsecretario, un Director General y un Secretario Técnico, respectivamente, quienes tendrán las facultades y obligaciones que les atribuyen las leyes, reglamentos, manuales y demás disposiciones legales, así como aquellas que expresamente les sean delegadas por el Secretario en la esfera de su competencia, las que deberán ejercer programadamente y conforme a las normas vigentes que sean aplicables.
 
 Para el mejor ejercicio de sus funciones, se auxiliará de las unidades administrativas y el personal que prevea y le asigne el presupuesto de egresos correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 7°.
 
-Corresponden a los Subsecretarios, y al Director General, previo acuerdo del Secretario, además de las específicas que legalmente le sean conferidas, las siguientes facultades y obligaciones generales:
+Corresponden a los Subsecretarios, al Director General y al Secretario Técnico, previo acuerdo del Secretario, además de las específicas que legalmente le sean conferidas, las siguientes facultades y obligaciones generales:
 
 I.- Acordar con el Secretario el despacho de los asuntos que les sean encomendados;
 
@@ -297,6 +309,34 @@ XI.- Vigilar y evaluar el desarrollo de los procesos y mecanismos que conduzcan 
 
 XII.- Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el titular de la Secretaría.
 
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 1997)</small>
+
+###### ARTICULO 11 Bis.
+
+Corresponden, en el ámbito de su competencia, al Subsecretario de Gobierno para la Región Laguna, previo acuerdo del Secretario, las siguientes facultades y obligaciones:
+
+I.- Promover todas aquellas acciones que contribuyan al desarrollo político;
+
+II.- Apoyar al Secretario en las tareas de planeación y programación de desarrollo político;
+
+III.- Analizar la evolución y tendencias políticas de la región Laguna, con objeto de proponer mecanismos que fortalezcan la democracia;
+
+IV.- Establecer los mecanismos necesarios que permitan fomentar el desarrollo de la cultura política;
+
+V.- Vigilar el adecuado funcionamiento de los mecanismos establecidos para fomentar los vínculos institucionales a nivel federal, estatal y municipal, para contribuir al desarrollo político;
+
+VI.- Supervisar la elaboración de estudios y diagnósticos de carácter político relacionados con la propia competencia de la Subsecretaría;
+
+VII.- Establecer los vínculos con aquellas instituciones y organizaciones políticas que desarrollen sus actividades en la región;
+
+VIII.- Propiciar que las actividades de las instituciones y organizaciones políticas se desarrollen en el marco de las disposiciones legales;
+
+IX.- Proporcionar a las instituciones y organizaciones políticas la asesoría que requieran para su adecuada estructuración y funcionamiento;
+
+X.- Promover y supervisar el desarrollo de programas de orientación y capacitación tendientes al fortalecimiento de aquellas instituciones y organizaciones políticas que desarrollen sus actividades en la región;
+
+XI.- Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el titular de la Secretaría.
+
 ###### ARTICULO 12.
 
 Corresponde al Director General de Gobierno y Asuntos Jurídicos, previo acuerdo con el Secretario:
@@ -336,6 +376,28 @@ XVI.- Vigilar el desarrollo de los procedimientos judiciales, administrativos y 
 XVII.- Proponer al Secretario el ingreso, promoción, remoción, cese y licencias del personal de las unidades bajo su adscripción; y
 
 XVIII.- Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el titular de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 1997)</small>
+
+###### ARTICULO 12 Bis.
+
+Corresponden al Secretario Técnico y de Análisis, previo acuerdo del Secretario, las siguientes facultades y obligaciones:
+
+I.- Prestar al titular de la Secretaría el apoyo y la asesoría que no estén expresamente encomendados a otras áreas de la Secretaría de Gobierno;
+
+II.- Hacer el seguimiento del debido cumplimiento de los acuerdos y órdenes del Secretario de Gobierno;
+
+III.- Verificar la realización de los programas e instrucciones que expresamente disponga el titular de la Secretaría, cuando los mismos abarquen a dos o más dependencias o unidades administrativas;
+
+IV.- Establecer y operar un sistema de investigación e información para la seguridad del Estado;
+
+V.- Recabar y procesar la información generada por el sistema a que se refiere la fracción anterior; determinar su tendencia, valor, significado e interpretación específica, y formular las conclusiones que se deriven de las evaluaciones correspondientes;
+
+VI.- Realizar los estudios de carácter político, económico y social que se relacionen con sus atribuciones;
+
+VII.- Realizar encuestas de opinión pública sobre asuntos de interés estatal; y
+
+VIII.- Las demás atribuciones que le confieran otras disposiciones legales o reglamentarias.
 
 ### CAPITULO IV. DE LAS DIRECCIONES
 
@@ -934,3 +996,9 @@ ROGELIO MONTEMAYOR SEGUY
 EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE ENERO DE 1997.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
