@@ -4,7 +4,7 @@ identifier: "HID-codigo-civil-para-el-estado-de-hidalgo-40095"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-08"
-last_updated: "1991-06-28"
+last_updated: "1992-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO CIVIL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 1992.
 
 Código publicado en el Apéndice al Número 38 del Periódico Oficial del Estado de Hidalgo, el 8 de octubre de 1940.
 
@@ -14785,7 +14785,9 @@ VI.- La responsabilidad civil en la parte que comprende el pago de los gastos de
 
 ### CAPITULO I.
 
-De las Oficinas del Registro.
+De su Organización.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3001.
 
@@ -14801,13 +14803,17 @@ III.- Los créditos de los establecimientos de beneficencia pública o privada.
 
 De los Títulos Sujetos a Registro y de los Efectos Legales del Registro.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
+
 ###### Art. 3002.
 
 Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
 ### CAPITULO III.
 
-Del Modo de hacer el Registro y de las Personas que tienen Derecho de pedir la Inscripción.
+Del Registro de la Propiedad Inmueble y de los Títulos Inscribibles y Anotables.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3003.
 
@@ -14817,353 +14823,845 @@ Pagados los créditos enumerados en los capítulos que preceden, se pagarán los
 
 Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas, ni al origen de los créditos.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
+
 ## TITULO SEGUNDO.
 
 DEL REGISTRO PUBLICO.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE MAYO DE 1992)</small>
+
 ### CAPITULO IV.
 
-Del Registro de las Informaciones de Dominio.
+Del Registro de Operaciones sobre Bienes Muebles.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3005.
 
-(DEROGADO, P.O. 16 DE NOVIEMBRE DE 1982)
+Las oficinas del Registro Público se establecerán en el Estado de Hidalgo y estarán ubicadas en el lugar que determine el Gobernador del Estado. El Registro estará a cargo de las autoridades que se determinen en el Reglamento o, en su caso, en las disposiciones administrativas expedidas por el propio Ejecutivo Estatal.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3006.
 
-El reglamento fijará el número de secciones de que se componga el Registro y la sección en que deban inscribirse los títulos que se registren.
+El Registro Público funcionará conforme al sistema y métodos que determine el Reglamento. Tales sistemas estarán basados en la inscripción de datos por libros que corresponderán al bien, persona o acto de que se trate, conforme a las normas aplicables, e implicarán registros por duplicado mediante métodos mecanizados que salvaguarden con la mayor seguridad el contenido actualizado de los libros.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3007.
 
-El Registro será público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del Registro y de los documentos relacionados con las inscripciones, que estén archivados. También tienen la obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del Registro; así como certificaciones de no existir asientos de ninguna especie o especie determinada sobre bienes señalados o a cargo de ciertas personas.
+El Registro será público. Los encargados del mismo tienen la obligación de permitir a las personas que lo soliciten, que se enteren en presencia de un empleado de la oficina, de los asientos que obren en los libros del Registro Público y de los documentos relacionados con las inscripciones que estén archivados. También tienen la obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del Registro Público, así como certificaciones de existir o no, asiento de ninguna especie o especie determinada sobre bienes señalados o a nombre de ciertas personas.
 
 Tratándose de testamentos ológrafos depositados en el Registro, se observará lo dispuesto en el artículo 1545.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
+
 ###### Art. 3008.
 
-Se inscribirán en el Registro:
+El reglamento establecerá los requisitos necesarios para desempeñar los cargos que requiera el funcionamiento del Registro Público.
 
-I.- los títulos por los cuales se adquiere, trasmite, modifica, grava o extingue el dominio, la posesión o los demás derechos reales sobre inmuebles por cualquier valor;
-
-II.- La constitución del patrimonio de familia;
-
-III.- Los contratos de arrendamiento de bienes inmuebles por cualquier valor;
-
-IV.- La condición resolutoria en las ventas a que se refieren las fracciones I y II del artículo 2292;
-
-V.- Los contratos de prenda que menciona el artículo 2852;
-
-VI.- La escritura constitutiva de las sociedades civiles y la que la reforme;
-
-VII.- La escritura constitutiva de las asociaciones y la que la reforme;
-
-VIII.- Las fundaciones de beneficencia privada;
-
-IX.- Las resoluciones judiciales o de árbitros o arbitradores que produzcan algunos de los efectos mencionados en la fracción I;
-
-X.- Los testamentos por efecto de los cuales, se transmite la propiedad de bienes raíces, o de derechos reales, haciéndose el registro después de la muerte del testador;
-
-XI.- En los casos de intestado, el auto declaratorio de los herederos legítimos y el nombramiento de albacea definitivo;
-
-En los casos previstos en las dos fracciones anteriores, se tomará razón del acta de defunción del autor de la herencia;
-
-XII.- Las resoluciones judiciales en que se declare un concurso o se admita una cesión de bienes;
-
-XIII.- El testimonio de las informaciones ad-perpetuam promovidas y protocolizadas de acuerdo con lo que disponga el Código de Procedimientos Civiles;
-
-XIV.- Las demandas y las resoluciones judiciales que las admitan, cuyos efectos, en caso de prosperar, alteren la situación de bienes o derechos cuya inscripción sea indispensable en el Registro;
-
-XV.- Las servidumbres contractuales;
-
-XVI.- Las fianzas por más de quinientos pesos;
-
-XVII.- Los embargos sobre inmuebles;
-
-XVIII.- Los contratos de anticresis;
-
-XIX.- El uso y goce de bienes inmuebles o derechos reales constituídos sobre ellos.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3009.
 
-Los documentos que conforme a esta ley deben registrarse y no se registren, sólo producirán efectos entre quienes los otorguen; pero no podrán producir perjuicios a tercero, el cual sí podrá aprovecharlos en cuanto le fueren favorables.
+Los encargados y los empleados del Registro Público, además de las penas que les sean aplicables por los delitos en que puedan incurrir, responderán civilmente de los daños y perjuicios a que dieren lugar, cuando:
+
+I.- Rehusen admitir el título, o si no practican el asiento de presentación por el orden de entrada del documento o del aviso a que se refiere el artículo 3024;
+
+II.- Practiquen algún asiento indebidamente o rehusen practicarlo sin motivo fundado;
+
+III.- Retarden sin causa justificada, la práctica del asiento a que dé lugar el documento inscribible;
+
+IV.- Cometan errores, inexactitudes u omisiones en los asientos que practiquen o en los certificados que expidan; y
+
+V.- No expidan los certificados en el término reglamentario.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3010.
 
-Los testamentos ológrafos no producirán efecto si no son depositados en el Registro.
+Las sentencias firmes que resulten en aplicación del artículo anterior, incluirán la inhabilitación para el desempeño del cargo o empleo hasta que sea pagada la indemnización de daños y perjuicios que en su caso corresponda.
+
+(REUBICADO, P.O. 18 DE MAYO DE 1992)
 
 ### CAPITULO V.
 
-De las Inscripciones de Posesión.
+Del Registro de Personas Morales.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3011.
 
-Los actos ejecutados, los contratos otorgados y las resoluciones judiciales pronunciadas en país extranjero, sólo se inscribirán concurriendo las circunstancias siguientes:
+Sólo se registrarán:
 
-I.- Que si los actos o contratos hubiesen sido celebrados o las sentencias pronunciadas en el Estado de Hidalgo, habría sido necesaria su inscripción en el Registro;
+I.- Los testimonios de escrituras o actas notariales, las pólizas o actas de corredores públicos u otros documentos auténticos;
 
-II.- Que estén debidamente legalizados;
+II.- Las resoluciones y providencias judiciales que consten de manera auténtica;
 
-III.- Si fueren resoluciones judiciales, que se ordene su ejecución por la autoridad judicial nacional que corresponda.
+III.- Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el notario, el registrador, el corredor público o el Juez competente se cercioraron de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por los mencionados fedatarios y llevar impreso el sello respectivo.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3012.
 
-La inscripción no convalida los actos o contratos que sean nulos con arreglo a las leyes.
+Los actos ejecutados o los contratos otorgados en otra entidad federativa o en el extranjero sólo se inscribirán si dichos actos o contratos tienen el carácter de inscribibles conforme a las disposiciones de este Código y del Reglamento del Registro Público.
+
+Si los documentos respectivos apareciesen redactados en idioma extranjero y se encuentran debidamente legalizados, deberán ser previamente traducidos por perito oficial y protocolizados ante Notario o Corredor Público según proceda.
+
+Las sentencias dictadas en el extranjero sólo se registrarán si no están en desacuerdo con leyes mexicanas y si ordena su ejecución la autoridad judicial competente.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3013.
 
-No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas que en el registro aparezcan con derecho para ello, no se invalidarán, en cuanto a tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante en virtud de título anterior no inscrito o de causas que no resulten claramente del mismo registro.
+Los documentos que conforme a este Código sean registrables y no se registren, no producirán efectos en perjuicio de tercero.
 
-Lo dispuesto en este artículo no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando una ley prohibitiva o de interés público.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3014.
 
-No podrá ejercitarse ninguna acción contradictoria del dominio de inmuebles o de derechos reales inscritos a nombre de persona o entidad determinada, sin que, previamente a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
+Los testamentos ológrafos no producirán efecto si no son depositados en el Registro.
 
-En el caso de embargo precautorio, juicio o procedimiento de apremio contra bienes o derechos reales determinados, se sobreseerá todo procedimiento de apremio respecto de los mismos o de sus frutos, inmediatamente que conste en los actos, por manifestación auténtica del Registro de la Propiedad, que dichos bienes o derechos están inscritos a favor de persona distinta de aquélla contra la cual se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción, como causahabiente del que aparece dueño en el Registro, no obstante, el embargo subsistirá si el actor embargante justifica con prueba documental que el embargado es el propietario y sólo falte el Registro.
-
-No se podrá ordenar salgan a remate bienes inmuebles que no sean de la propiedad o que no estén inscritos en el Registro a favor del ejecutado, del condenado por sentencia ejecutoria o de sus causahabientes.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3015.
 
-No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, aparecer inscritos a la vez en favor de dos o más personas distintas a menos que éstas sean copartícipes.
+La inscripción de los actos o contratos en el Registro Público tiene efectos declarativos, por lo que no convalida los que sean nulos con arreglo a las leyes.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3016.
 
-La inscripción de los títulos en el Registro puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir, o por el Notario que haya autorizado la escritura de que se trate.
+El Registro protege los derechos adquiridos por tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante, excepto cuando la causa de la nulidad resulta claramente del mismo registro. Lo dispuesto en este artículo no se aplicará a los contratos gratuitos ni a actos o contratos que se ejecuten u otorguen violando la ley, prohibitiva o de interés público.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3017.
 
-Sólo se registrarán:
+El derecho registrado se presume que existe y que pertenece a su titular en la forma expresada por el asiento respectivo. Se presume también que el titular de una inscripción de dominio o de posesión, tiene la posesión del inmueble inscrito.
 
-I.- Los testimonios de escritura pública u otros documentos auténticos;
+No podrá ejercitarse ninguna acción contradictoria del dominio de inmuebles o de derechos reales inscritos a nombre de persona o entidad determinada, sin que, previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
 
-II.- Las sentencias y providencias judiciales certificadas legalmente;
+En el caso de embargo precautorio, juicio o procedimiento de apremio contra bienes o derechos reales determinados, se sobreseerá todo procedimiento de apremio respecto de los mismos o de sus frutos, inmediatamente que conste en los autos por manifestación auténtica del Registro de la Propiedad que dichos bienes o derechos están inscritos a favor de persona distinta de aquélla contra la cual se decretó el embargo o se siguió el procedimiento a no ser que se hubiere dirigido contra ella la acción, como causahabiente del que aparece dueño en el registro, no obstante, el embargo subsistirá si el actor embargante justifica con prueba documental que el embargado es el propietario y sólo falte el Registro.
 
-III.- Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el Registrador, el Notario, el Juez de Primera Instancia o Conciliador, según las reglas de competencia, se cercioró de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por las mencionadas autoridades y llevar el sello de la oficina respectiva.
+No se podrá ordenar salgan a remate bienes inmuebles que no sean de la propiedad o que no estén inscritos en el Registro a favor del ejecutado, del condenado por sentencia ejecutoria o de sus causahabientes.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3018.
 
-El interesado presentará el título que va a ser registrado y cuando se trate de documentos que impliquen trasmisiones o modificaciones de la propiedad de fincas rústicas o urbanas, un plano o croquis de esas fincas.
+Los derechos reales y en general cualquier gravamen o limitación de los mismos o del dominio para que surtan efectos contra tercero, deberán constar en el asiento de la finca sobre que recaigan, en la forma que determine el Reglamento.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3019.
 
-El registrador hará la inscripción si encuentra que el título presentado es de los que deben inscribirse; llena las formas extrínsecas exigidas por la ley y contiene los datos a que se refiere el artículo 3021. En caso contrario, devolverá el título sin registrar, siendo necesaria resolución judicial para que se haga el registro.
+No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, aparecer inscritos a la vez en favor de dos o más personas distintas a menos que éstas sean copartícipes.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3020.
 
-En el caso a que se refiere la parte final del artículo anterior, el registrador tiene obligación de hacer una inscripción preventiva, a fin de que si la autoridad judicial ordena que se registre el título rechazado, la inscripción definitiva surta sus efectos desde que por primera vez se presentó el título. Si el Juez aprueba la calificación hecha por el registrador, se cancelará la inscripción preventiva.
+Tratándose de inmuebles, derechos reales sobre los mismos u otros derechos inscribibles o anotables, la sociedad conyugal no surtirá efectos contra tercero si no consta inscrita en el Registro Público.
 
-Transcurridos tres años sin que se comunique al registrador la calificación que del título presentado haya hecho el Juez a petición de parte interesada se cancelará la inscripción preventiva.
+Cualquiera de los cónyuges u otro interesado tienen derecho a pedir la rectificación del asiento respectivo, cuando alguno de esos bienes pertenezcan a la sociedad conyugal y están inscritos a nombre de uno solo de aquéllos.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+De la Rectificación de Asiento.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3021.
 
-Toda inscripción que se haga en el Registro expresará las circunstancias siguientes:
+La preferencia entre derechos reales sobre una misma finca u otros derechos, se determinará por la prioridad de su inscripción en el Registro Público, cualquiera que sea la fecha de su constitución.
 
-I.- La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que debe de inscribirse; su medida superficial, nombre y número si constare en el título, o la referencia al registro anterior en donde consten esos datos; asimismo constará la mención de haberse agregado el plano o croquis al legajo respectivo;
+El derecho real adquirido con anterioridad a la fecha de una anotación preventiva, será preferente, aun cuando su inscripción sea posterior, siempre que se dé el aviso que previene el artículo 3024.
 
-II.- La naturaleza, extensión, condiciones y cargas del derecho que se constituya, transmita, modifique o extinga;
+Si la anotación preventiva se hiciere con posterioridad a la presentación del aviso preventivo, el derecho real motivo de éste será preferente, aun cuando tal aviso se hubiere dado extemporáneamente.
 
-III.- El valor de los bienes o derechos a que se refieren las fracciones anteriores. Si el derecho no fuere de cantidad determinada, los interesados fijarán en el título la estimación que le den;
-
-IV.- Tratándose de hipotecas, la época en que podrá exigirse el pago del capital garantido, y si causare réditos. la tasa o el monto de éstos y la fecha desde que deban correr;
-
-V.- Los nombres, edades, domicilios y profesiones de las personas que por sí mismas o por medio de representantes hubieren celebrado el contrato o ejecutado el acto sujeto a inscripción. Las personas morales se designarán por el nombre oficial que lleven, y las sociedades, por su razón o denominación;
-
-VI.- La naturaleza del acto o contrato;
-
-VII.- la fecha del título y el funcionario que lo haya autorizado;
-
-VIII.- El día y la hora de la presentación del título en el Registro.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3022.
 
-El registrador que haga una inscripción sin cumplir con lo dispuesto en el artículo anterior, será responsable de los daños y perjuicios que cause a los interesados, y sufrirá una suspensión de empleo por tres meses.
+Los asientos del Registro Público, en cuanto se refieran a derechos inscribibles o anotables, producen todos sus efectos, salvo resolución judicial, cancelación o rectificación de los mismos.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3023.
 
-El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
+La prelación entre los diversos documentos ingresados al Registro Público se determinará por la prioridad en cuanto a la fecha hora y número ordinal que les corresponda al presentarlos para su inscripción, salvo lo dispuesto en el artículo siguiente.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3024.
 
-Cuando se vaya a otorgar una escritura que se declare, reconozca, adquiera, trasmite, modifique limite, grave o extinga la propiedad o posesión originaria de bienes raíces, o cualquier Derecho Real sobre los mismos, o que sin serlo sea inscribible, el notario o Autoridad ante quien se pretenda otorgar, podrá a su criterio, o deberá, a solicitud de quien pretenda adquirir un Derecho, dar al Registro un primer aviso preventivo al solicitar certificado sobre la existencia de la inscripción a favor del Titular Registral o sobre los gravámenes que reporte el inmueble o derecho a la libertad de los mismos. Dicho aviso deberá mencionar la operación y finca de que se trate, los nombres de los interesados y el antecedente registral. El registro con el aviso preventivo y sin cobro de derechos por la anotación, hará inmediatamente el asiento de presentación y asentará al margen de la inscripción correspondiente una anotación de primer aviso preventivo que tendrá vigencia por un término de treinta días naturales a partir de la fecha de presentación de la solicitud.
+Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el notario, Corredor Público o autoridad ante quien se haga el otorgamiento, podrá a su criterio, o deberá, a solicitud de quien pretenda adquirir un derecho, dar al Registro un primer aviso preventivo al solicitar certificado sobre la existencia de la inscripción en favor del titular registral o sobre los gravámenes que reporte el inmueble o derecho a la libertad de los mismos. Dicho aviso deberá mencionar la operación y finca de que se trate, los nombres de los interesados y el antecedente registral. El registrador con el aviso preventivo y sin cobro de derechos por la anotación, hará inmediatamente el asiento de presentación y asentará al margen de la inscripción correspondiente una anotación de primer aviso preventivo que tendrá vigencia por un término de treinta días naturales a partir de la fecha de presentación de la solicitud.
 
-Una vez que se haya otorgado la escritura que produzca cualquiera de las consecuencias a que se hace mención al párrafo anterior el notario o Autoridad ante quien se suscribió dará el registro, dentro de un término de cuarenta y ocho horas, un segundo aviso preventivo sobre la operación de que se trata conteniendo además de los datos mencionados en el párrafo que precede, la fecha de la escritura y la de su firma.
+Una vez que se haya otorgado la escritura que produzca cualquiera de las consecuencias a que se hace mención en el párrafo anterior, el notario o autoridad ante quien se suscribió dará al registro, dentro de un término de cuarenta y ocho horas, un segundo aviso preventivo sobre la operación de que se trata conteniendo además de los datos mencionados en el párrafo que procede, la fecha de la escritura y la de su firma.
 
-El registrador con el aviso en cuestión y sin cobro de Derechos, hará de inmediato el asiento de presentación de tal aviso preventivo y asentará al margen de la inscripción una anotación preventiva del segundo aviso que tendrá una vigencia por un término de sesenta días naturales a partir de la fecha de su presentación. En los casos en que el segundo aviso preventivo de referencia se dé dentro del término de treinta días aludidos en el anterior párrafo, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero. Si se diera después de este plazo sólo surtirá efecto desde la fecha y hora de su presentación.
+El registrador con el aviso en cuestión y sin cobro de derechos, hará de inmediato el asiento de presentación de tal aviso preventivo y asentará al margen de la inscripción una anotación preventiva del segundo aviso que tendrá una vigencia por un término de noventa días naturales a partir de la fecha de su presentación. En los casos en que el segundo aviso preventivo de referencia se dé dentro del término de treinta días aludidos en el anterior párrafo, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero. Si se diera después de este plazo sólo surtirá efectos desde la fecha y hora de su presentación.
 
-Si el testimonio respectivo se presentare al registro de cualquiera de los términos a que se contraen los dos párrafos anteriores, su inscripción surtirá efecto contra tercero desde la fecha del asiento de presentación del primer aviso preventivo correspondiente si hubiese sido dado, o en caso contrario desde la fecha y hora de presentación del segundo. Si el documento se presentare después, su Registro sólo surtirá efecto desde la fecha de su presentación.
+Si el testimonio respectivo se presentare al Registro Público dentro de cualquiera de los términos que señalan los dos párrafos anteriores, su inscripción surtirá efectos contra tercero desde la fecha de presentación del aviso y con arreglo a su número de entrada. Si el documento se presentare fenecidos los referidos plazos, su registro sólo surtirá efectos desde la fecha de presentación.
+
+Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo primero de este artículo fuere privado, deberá dar el aviso preventivo, con vigencia por noventa días, el Notario, Corredor Público o el Juez competente que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo caso el mencionado aviso surtirá los mismos efectos que el dado por los Notarios o Corredores Públicos en el caso de los instrumentos públicos. Si el contrato se ratificara ante el registrador, éste deberá practicar de inmediato el aviso preventivo a que este precepto se refiere.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3025.
 
-Los encargados del Registro son responsables, además de las penas en que puedan incurrir, de los daños y perjuicios a que dieren lugar:
+La inscripción definitiva de un derecho que haya sido anotado preventivamente, surtirá sus efectos desde la fecha en que la anotación los produjo.
 
-I.- Si rehusan sin motivo legal o retardan sin causa justificada, la inscripción de los documentos que les sean presentados;
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
 
-II.- Si rehusan expedir con prontitud los certificados que se les piden;
+De la Extinción de Asientos.
 
-III.- Si cometen omisiones al extender las certificaciones mencionadas, salvo si el error proviene de insuficiencia o inexactitud de las declaraciones, que no les sean imputables.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3026.
 
-En los casos de los números I y II del artículo que precede, los interesados harán constar inmediatamente, por información judicial de dos testigos, el hecho de haberse rehusado el Encargado del Registro, a fin de que pueda servirles de prueba en el juicio correspondiente.
+La inscripción o anotación de los títulos en el Registro Público pueden pedirse por quien tenga interés legítimo en el derecho que se va a inscribir o anotar, o por el Notario o Corredor Público que haya autorizado la escritura o póliza de que se trate, o por autoridad competente.
+
+Hecho el registro, serán devueltos los documentos al que los presentó, con nota de quedar registrados en tal fecha y bajo tal el número.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3027.
 
-Hecho registro, serán devueltos los documentos al que los presentó, con nota de quedar registrados en tal fecha y bajo tal número.
+Para inscribir o anotar cualquier documento deberá constar previamente inscrito o anotado el derecho de la persona que otorgó aquél o de la que vaya a resultar perjudicada por la inscripción, a no ser que se trate de una inscripción de inmatriculación.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3028.
 
-El reglamento especial establecerá los derechos y obligaciones de los registradores, así como las fórmulas y demás requisitos que deben llenar las inscripciones.
+Inscrito o anotado un título, no podrá inscribirse o anotarse otro de igual o anterior fecha que refiriéndose al mismo inmueble o derecho real, se le oponga o sea incompatible.
+
+Si sólo se hubiere extendido el asiento de presentación, tampoco podrá inscribirse o anotarse otro título de la clase antes expresado, mientras el asiento esté vigente.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3029.
 
-El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos, y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción que le concede el artículo 1231, por no estar inscrita en el Registro la propiedad de los bienes en favor de persona alguna, podrá demostrar ante el Juez competente, que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles. A su solicitud acompañará precisamente certificado del Registro Público, que demuestre que los bienes no están inscritos.
+Los Registradores calificarán bajo su responsabilidad los documentos que se presenten para la práctica de alguna inscripción o anotación; la que suspenderán o denegarán en los casos siguientes:
 
-La información se recibirá con citación del Ministerio público, del respectivo registrador de la Propiedad y de los colindantes.
+I.- Cuando el título presentado no sea de los que deben inscribirse o anotarse;
 
-Los testigos deben ser por lo menos tres de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiere.
+II.- Cuando el documento no revista las formas extrínsecas que establezca la Ley;
 
-No se recibirá la información sin que previamente se haya dado una amplia publicidad por medio de la prensa y de avisos fijados en los lugares públicos, a la solicitud del promovente.
+III.- Cuando los funcionarios ante quienes se haya otorgado o rectificado el documento, no hayan hecho constar la capacidad de los otorgantes o cuando sea notoria la incapacidad de éstos;
 
-Comprobada debidamente la posesión, el Juez declarará que el poseedor se ha convertido en propietario virtud de la prescripción, y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público.
+IV.- Cuando el contenido del documento sea contrario a las Leyes prohibitivas o de interés público;
+
+V.- Cuando haya incompatibilidad entre el texto del documento y los asientos del registro;
+
+VI.- Cuando no se individualicen los bienes del deudor sobre los que se constituya un derecho real, o cuando no se fije la cantidad máxima que garantice un gravamen en el caso de obligaciones de monto indeterminado, salvo cuando se den las bases para determinar la cantidad garantizada.
+
+VII.- Cuando falta algún otro requisito que deba llenar el documento de acuerdo con el Código Civil u otras leyes aplicables.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3030.
 
-En caso de presentarse algún opositor, se procederá de acuerdo con lo prevenido en los artículos 3035 y 3037.
+La calificación hecha por el Registrador podrá recurrirse ante el Director del Registro Público. Si éste confirma la calificación el perjudicado por ella podrá reclamarla en juicio.
+
+Si la autoridad judicial ordena que se registre el título rechazado, la inscripción surtirá sus efectos, desde que por primera vez se presentó el título, si se hubiere hecho la anotación preventiva a que se refiere la fracción V del artículo 3055.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3031.
 
-El que tenga una posesión apta para prescribir, de bienes inmuebles no inscritos en el Registro en favor de persona alguna, aun antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión, mediante resolución judicial que dicte el Juez competente, ante quien la acredite del modo que fije el Código de Procedimientos Civiles.
+El interesado presentará el título que va a ser registrado y cuando se trate de documentos que impliquen trasmisiones o modificaciones de la propiedad de fincas rústicas o urbanas, un plano o croquis de esas fincas, de localización y general.
 
-La información que se rinda para demostrar la posesión se sujetará a lo dispuesto en los párrafos segundo, tercero y cuarto del artículo que precede.
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
 
-Las declaraciones de los testigos versarán sobre el hecho de la posesión, sobre los requisitos que deben tener parar servir de base a la prescripción adquisitiva y sobre el origen de la posesión.
+De la Prelación.
 
-El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción al concluir el plazo de cinco años, contados desde la misma inscripción.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3032.
 
-Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones en general y, además las siguientes:
+La rectificación de los asientos por causa de error material o de concepto, sólo procede cuando exista discrepancia entre el título y la inscripción.
 
-Los nombres de los testigos que hayan declarado; el resultado de las declaraciones, y la resolución judicial que ordene la inscripción.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3033.
 
-Cualquiera que se crea con derecho a los bienes cuya inscripción se solicite mediante información de posesión, podrá alegarlo ante la autoridad judicial competente.
+Se entenderá que se comete error material cuando se escriban unas palabras por otras, se omita la expresión de alguna circunstancia o se equivoquen los nombres propios o las cantidades al efectuarse la inscripción, sin cambiar por eso el sentido general del documento ni el de alguno de sus conceptos.
 
-La interposición de su demanda suspenderá el curso del expediente de información; si estuviere ya concluido y aprobado, deberá el Juez ponerlo en conocimiento del registrador para que suspenda la inscripción; y si ya estuviese hecha, para que anote la inscripción de la demanda. Para que se suspenda la tramitación del expediente o de la inscripción así como para que se haga la anotación de ésta, es necesario que el demandante otorgue fianza de responder de los daños y perjuicios que se originen si su oposición se declara infundada.
-
-Si el opositor deja de transcurrir seis meses sin promover en el juicio de oposición, quedará éste sin efecto, haciéndose en su caso la cancelación que proceda.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3034.
 
-Las promociones que se hagan conforme a los artículos 3029 y 3031, podrán ser inscritas en el Registro, desde que fueren presentadas, si así lo quiere el promovente; pero lo serán en todo caso de oposición, desde que ésta se formalice y juntamente con la demanda del opositor , dando así una idea completa de la situación jurídica de los bienes sobre cuya posesión o propiedad se discute.
+Se entenderá que se comete error de concepto cuando al expresar en la inscripción o anotación, alguno de los contenidos en el título se altere o varíe su sentido porque el Registrador se hubiere formado, un juicio equivocado del mismo, por una errónea calificación del contrato o acto en él consignado o por cualquier otra circunstancia.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3035.
 
-Transcurrido el plazo fijado en la parte final del artículo 3031, sin que el Registro aparezca algún asiento que contradiga la posesión inscrita, tiene derecho el poseedor, comprobando este hecho mediante la presentación del certificado respectivo, a que el Juez competente declare que se ha convertido en propietario en virtud de la prescripción y ordene que se haga en el Registro la inscripción de dominio correspondiente.
+Cuando se trate de errores de concepto, los asientos practicados en los libros del Registro Público sólo podrán rectificarse con el consentimiento de todos los interesados en el asiento.
+
+A falta de consentimiento unánime de los interesados, la rectificación sólo podrá efectuarse por resolución judicial.
+
+En caso de que el Registrador se oponga a la rectificación, se observará lo dispuesto en el artículo 3030.
+
+En el caso previsto por el segundo párrafo del artículo 3020, el que solicite la rectificación deberá acompañar a la solicitud que presente al Registro, los documentos con los que pruebe el régimen matrimonial.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3036.
 
-No podrán inscribirse mediante información posesoria, las servidumbres continuas no aparentes, ni las discontinuas, sean o no aparentes, ni tampoco el derecho hipotecario.
+El concepto rectificado surtirá efectos desde la fecha de su rectificación.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+De Quienes Pueden solicitar el Registro y de la Calificacion Registral.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3037.
 
-Las inscripciones no se extinguen en cuanto a tercero, sino por su cancelación, o por el registro de la transmisión del dominio o derecho real inscrito a favor de otra persona.
+Las inscripciones no se extinguen en cuanto a tercero sino por su cancelación o por el registro de la transmisión del dominio o derecho real inscrito a favor de otra persona.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3038.
 
-Las inscripciones pueden cancelarse por consentimiento de las partes o por decisión judicial.
+Las anotaciones preventivas se extinguen por cancelación, por caducidad o por conversión en inscripción.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3039.
 
-La cancelación de las inscripciones podrá ser total o parcial.
+Las inscripciones y anotaciones pueden cancelarse por consentimiento de las personas a cuyo favor estén hechas o por orden judicial. Podrán no obstante ser canceladas a petición de parte, sin dichos requisitos, cuando el derecho inscrito o anotado quede extinguido por disposición de la Ley o por causas que resulten del título en cuya virtud se practicó la inscripción o anotación, debido a hecho que no requiera la intervención de la voluntad.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3040.
 
-Podrá pedirse y deberá ordenarse en su caso, la cancelación total:
+Para que el asiento pueda cancelarse por consentimiento de las partes, éste deberá constar en escritura pública o póliza.
 
-I.- Cuando se extinga por completo el inmueble objeto de la inscripción;
-
-II.- Cuando se extinga también por completo el derecho inscrito;
-
-III.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción;
-
-IV.- Cuando se declare la nulidad de la inscripción;
-
-V.- Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 2307;
-
-VI.- Cuando tratándose de una cédula hipotecaria o de un embargo, hayan transcurrido tres años desde la fecha de la inscripción.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3041.
 
-Podrá pedirse, y deberá decretarse, en su caso, la cancelación parcial:
+La cancelación de las inscripciones y anotaciones preventivas podrá ser total o parcial.
 
-I.- Cuando se reduzca el inmueble objeto de la inscripción;
-
-II.- Cuando se reduzca el derecho inscrito a favor del dueño de la finca gravada.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3042.
 
-Para que el registro pueda ser cancelado por consentimiento de las partes, se requiere que éstas lo sean legítimas, tengan capacidad de contratar y hagan constar su voluntad de un modo auténtico.
+Podrá pedirse y deberá ordenarse, en su caso, la cancelación total:
+
+I.- Cuando se extinga por completo el inmueble objeto de la inscripción;
+
+II.- Cuando se extinga, también por completo, el derecho inscrito o anotado;
+
+III.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción o anotación;
+
+IV.- Cuando se declare la nulidad del asiento;
+
+V.- Cuando sea vendido judicialmente el inmueble que reporte el gravamen, en el caso previsto en el artículo 2307; y
+
+VI.- Cuando tratándose de cédula hipotecaria o de embargo, hayan transcurrido dos años desde la fecha del asiento, sin que el interesado haya promovido en el juicio correspondiente.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3043.
 
-Si para cancelar el registro se pusiese alguna condición, se requiere, además, el cumplimiento de ésta.
+Podrá pedirse y deberá decretarse, en su caso, la cancelación parcial:
+
+I.- Cuando se reduzca el inmueble objeto de la inscripción o anotación preventiva; y
+
+II.- Cuando se reduzca el derecho inscrito o anotado.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3044.
 
-Cuando se registre la propiedad o cualquier otro derecho real sobre inmuebles, en favor del que adquiere, se cancelará el registro relativo al que enajena.
+Las anotaciones preventivas, cualquiera que sea su origen, caducarán a los tres años de su fecha, salvo aquellas a las que se les fije un plazo de caducidad más breve. No obstante, a petición de parte o por mandato de las autoridades que las decretaron, podrán prorrogarse una o más veces, por dos años cada vez, siempre que la prórroga sea anotada antes de que caduque el asiento.
+
+La caducidad produce la extinción del asiento respectivo por el simple transcurso del tiempo; pero cualquier interesado podrá solicitar en este caso que se practique la cancelación de dicho asiento.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3045.
 
-Cuando se registre una sentencia que declare haber cesado los efectos de otra que esté registrada, se cancelará ésta.
+Cancelado un asiento, se presume extinguido el derecho a que dicho asiento se refiere.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3046.
 
-Los padres, como administradores de los bienes de sus hijos; los tutores de menores o incapacitados, y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
+Los padres como administradores de los bienes de sus hijos, los tutores de menores o incapacitados y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3047.
 
-La cancelación de las inscripciones de hipotecas constituídas en garantía de títulos transmisibles por endoso, puede hacerse:
+La cancelación de las inscripciones de hipotecas constituidas en garantía de títulos transmisibles por endoso, puede hacerse:
 
-I.- Presentándose la escritura otorgada por los que hayan cobrado los créditos, en la cual debe constar haberse inutilizado en el acto de su otorgamiento los títulos endosables;
+I.- Presentándose la escritura o póliza otorgada por la que se hayan cobrado los créditos, en la cual debe constar haberse inutilizado en el acto de su otorgamiento los títulos endosables;
 
-II.- Por solicitud firmada por dichos interesados y por el deudor, a la cual se acompañen inutilizados los referidos títulos;
+II.- Por ofrecimiento de pago y consignación del importe de los títulos, hechos de acuerdo con las disposiciones relativas.
 
-III.- Por ofrecimiento de pago y consignación del importe de los títulos, hechos de acuerdo con las disposiciones relativas.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3048.
 
-Las inscripciones de hipotecas constituidas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar por acta notarial, estar recogida y en poder del deudor toda la emisión de títulos debidamente inutilizados.
+Las inscripciones de hipotecas constituidas con el objeto de garantizar título al portador, se cancelarán totalmente si se hiciere constar por acta notarial o ante Corredor Público, estar recogida y en poder del deudor toda la emisión de títulos debidamente inutilizados.
+
+Procederá también a la cancelación total si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegure el pago de los restantes, consignándose su importe y el de los intereses que procedan. La cancelación en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código de Procedimientos Civiles.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3049.
 
-Procederá también la cancelación total, si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan.
+Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trate, presentando acta notarial o ante Corredor Público que acredite estar recogidos y en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trate de extinguir, siempre que dichos títulos asciendan, por lo menos, a la décima parte del total de la emisión.
 
-La cancelación, en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código de Procedimientos Civiles.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3050.
 
-Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trata, presentando acta notarial de estar recogidos y en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trata de extinguir, siempre que dichos títulos asciendan por lo menos a la décima parte del total de la emisión.
+Podrá también cancelarse total o parcialmente la hipoteca que garantice, títulos de crédito, por consentimiento del representante común de los tenedores de los títulos, siempre que esté autorizado para ello y declare bajo su responsabilidad que ha recibido el importe por el que se cancela.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3051.
 
-Las cancelaciones se harán en la forma que fije el reglamento; pero deberán contener para su validez, los datos necesarios a fin de que con toda exactitud se conozca cuál es la inscripción que se cancela, la causa por qué se hace la cancelación y su fecha.
+Cuando se registre una sentencia que declare haber cesado los efectos de otra que esté registrada, se cancelará ésta.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3052.
 
-Las inscripciones preventivas se cancelarán no solamente cuando se extinga el derecho inscrito, sino también cuando esa inscripción se convierta en definitiva.
+Las cancelaciones se harán en la forma que fije el reglamento; pero deberán contener para su validez los datos necesarios a fin de que con toda exactitud se conozca cuál es el asiento que se cancela, la causa por qué se hace la cancelación y su fecha.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Art. 3053.
 
-Podrán pedir la cancelación de un registro las partes que hayan intervenido directamente en el acto o contrato de cuya inscripción se trate, y cualquiera otra persona que resulte perjudicada por esta inscripción; debiendo tramitarse la solicitud respectiva en forma de incidente, cuando la cuestión surja entre las partes de un juicio y lo inscrito sea una demanda, un embargo o cualquier otro acto judicial, que no sea una sentencia; y en juicio sumario en todos los demás casos, salvo que alguna disposición especial establezca otra cosa.
+Podrán pedir la cancelación de un registro las partes que hayan intervenido directamente en el acto o contrato de cuya inscripción se trate, y cualquiera otra persona que resulte perjudicada por esta inscripción; debiendo tramitarse la solicitud respectiva en forma de incidente, cuando la cuestión surja entre las partes de un juicio y lo inscrito sea una demanda, un embargo o cualquier otro acto judicial, que no sea una sentencia; y en juicio especial en todos los demás casos, salvo que alguna disposición especial establezca otra cosa.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 ### CAPITULO VI.
 
 De la Extinción de las Inscripciones.
+
+###### Art. 3054.
+
+En el Registro Público de la Propiedad inmueble se inscribirán:
+
+I.- Los títulos por los cuales se cree, declare, reconozca, adquiera, transmita, modifique, limite: grave o extinga el dominio, posesión originaria y los demás derechos reales sobre inmuebles;
+
+II.- La constitución del patrimonio familiar;
+
+III.- Los contratos de arrendamiento de bienes inmuebles, por un período mayor de seis años y aquellos en que haya anticipos de rentas por más de tres años; y
+
+IV.- Los demás títulos que la ley ordene expresamente que sean registrados.
+
+No se inscribirán las escrituras en las que se transmita la propiedad de un inmueble dado en arrendamiento, a menos de que en ellas conste expresamente que se cumplió con lo dispuesto en el artículo 2434 de este Código en relación con el derecho del tanto correspondiente al arrendatario.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3055.
+
+Se anotarán preventivamente en el Registro Público:
+
+I.- Las demandas relativas a la propiedad de bienes inmuebles o a la constitución, declaración, modificación o extinción de cualquier derecho real sobre aquéllos;
+
+II.- El mandamiento y el acta de embargo, que se haya hecho efectivo en bienes inmuebles del deudor;
+
+III.- Las demandas promovidas para exigir el cumplimiento de contratos preparatorios o para dar forma legal al acto o contrato concertado, cuando tenga por objeto inmuebles o derechos reales sobre los mismos;
+
+IV.- Las providencias judiciales que ordenen el secuestro o prohiban la enajenación de bienes inmuebles o derechos reales;
+
+V.- Los títulos presentados al Registro Público y cuya inscripción haya sido denegada o suspendida por el Registrador, de acuerdo a las formalidades que fije el reglamento.
+
+VI.- Las fianzas legales o judiciales, de acuerdo con lo establecido en el artículo 2845;
+
+VII.- El decreto de expropiación y de ocupación temporal y declaración de limitación de dominio de bienes inmuebles, así como declaraciones de reservas, destinos y usos surgidos de las leyes aplicables.
+
+VIII.- Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con bienes inscritos en el Registro Público; y
+
+IX.- Cualquier otro título que sea anotable, de acuerdo con este Código u otras Leyes.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE MAYO DE 1992)</small>
+
+De la Inmatriculación.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3056.
+
+La anotación preventiva, perjudicará a cualquier adquirente de la finca o derecho real a que se refiere la anotación, cuya adquisición sea posterior a la fecha de aquella y, en su caso, dará preferencia para el cobro del crédito sobre cualquier otro de fecha posterior a la anotación.
+
+En los casos de las fracciones IV y VIII del artículo 3055 podrá producirse el cierre del registro en los términos de la resolución correspondiente. En el caso de la fracción VI, la anotación no producirá otro efecto que el fijado por el artículo 2847.
+
+En el caso de la fracción VII, la anotación servirá únicamente para que conste la afectación en el registro del inmueble sobre el que hubiere recaído la declaración, pero bastará la publicación del Decreto relativo en el Periódico Oficial del Gobierno del Estado de Hidalgo, para que queden sujetos a las resultas del mismo, tanto el propietario o poseedor, como los terceros que intervengan en cualquier acto o contrato posterior a dicha publicación, respecto del inmueble afectado, debiendo hacerse la inscripción definitiva que proceda, hasta que se otorgue la escritura respectiva, salvo el caso expresamente previsto por alguna Ley en que se establezca que no es necesario este requisito.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3057.
+
+Salvo los casos en que la anotación cierre el registro, los bienes inmuebles o derechos reales anotados podrán enajenarse o gravarse, pero sin perjuicios del derecho de la persona a cuyo favor se haya hecho la anotación.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1992)</small>
+
+Del Sistema Registral.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3058.
+
+La inmatriculación es la inscripción de la propiedad o posesión de un inmueble en el Registro Público de la Propiedad que carece de antecedentes registrales. Para cualquiera de los procedimientos de inmatriculación a que se refieren los artículos siguientes, es requisito previo que el Registro Público emita un certificado que acredite que el bien de que se trate no está inscrito, en los términos que se precisen en las disposiciones administrativas que para el efecto se expidan.
+
+El Director del Registro Público podrá allegarse información de otras autoridades administrativas.
+
+El interesado en la inmatriculación de la propiedad o posesión de un inmueble podrá optar por obtenerla mediante resolución judicial o mediante resolución administrativa, en los términos de las disposiciones siguientes:
+
+I.- La inmatriculación por resolución judicial se obtiene:
+
+a).- Mediante información de dominio, y
+
+b).- Mediante información posesoria.
+
+II.- La inmatriculación por resolución administrativa se obtiene:
+
+a).- Mediante la inscripción del Decreto por el que se incorpora al dominio público estatal un inmueble;
+
+b).- Mediante la inscripción del Decreto por el que se desincorpore del dominio público un inmueble, o el título expedido con base en ese Decreto;
+
+c).- Mediante la inscripción de un título fehaciente y suficiente para adquirir la propiedad de un inmueble, en los términos del artículo 3063 de este Código;
+
+d).- Mediante la inscripción de la propiedad de un inmueble adquirido por prescripción positiva, en los términos del artículo 3064 del presente Código; y
+
+e).- Mediante la inscripción de la posesión de buena fe de un inmueble que reúna los requisitos de aptitud para prescribir, en los términos del artículo 3065 de este Código.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1992)</small>
+
+Disposiciones Comunes.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3059.
+
+En el caso de la información de dominio a que se refiere el inciso a) de la fracción I del artículo anterior, al que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos establecidas en el Libro Segundo, Título Séptimo, Capítulo II del Código Civil, y no tenga título de propiedad o, teniéndolo no sea susceptible de inscripción por defectuoso, podrá ocurrir ante el Juez competente para acreditar la prescripción rindiendo la información respectiva, en los términos de las disposiciones aplicables del Código de Procedimientos Civiles.
+
+Comprobados debidamente los requisitos de la prescripción, el Juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público de la Propiedad.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3060.
+
+En el caso de información posesoria, a que se refiere el inciso b) de la fracción I del artículo 3058, el que tenga una posesión de buena fe apta para prescribir, de bienes inmuebles no inscritos en el Registro Público de la Propiedad en favor de persona alguna, aun antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión mediante resolución judicial que dicte el Juez competente.
+
+Para lo anterior se deberá seguir el procedimiento que establece el Código de Procedimientos Civiles para las informaciones a que se refiere el artículo 3059.
+
+El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción, al concluir el plazo de cinco años, contados desde la fecha de la inscripción.
+
+Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones previstas en el Reglamento del Registro Público.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3061.
+
+Cualquiera que se considere con derecho a los bienes cuya propiedad o posesión se solicite inscribir por resolución judicial, podrá hacerlo valer ante el Juez competente.
+
+La presentación del escrito de oposición suspenderá el curso del procedimiento de información; si éste estuviese ya concluido y aprobado, deberá el Juez poner la demanda en conocimiento del Director del Registro Público de la Propiedad para que suspenda la inscripción, y si ya estuviese hecha, para que anote dicha demanda.
+
+Si el opositor deja transcurrir seis meses sin promover en el procedimiento de oposición quedará éste sin efecto, asentándose en su caso, la cancelación que proceda.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1992)</small>
+
+De los Efectos de las Anotaciones.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3062.
+
+La inmatriculación administrativa se realizará por resolución del Registrador Público de la Propiedad, quien la ordenará de plano en los casos previstos por los incisos a) y b) de la fracción II del artículo 3056.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3063.
+
+Quien se encuentre en el caso previsto por el inciso c) de la fracción II del artículo 3058, podrá ocurrir directamente ante el Registro Público de la Propiedad para solicitar la inmatriculación, la cual será ordenada si se satisfacen los siguientes requisitos:
+
+I.- Que acredite la propiedad del inmueble mediante un título fehaciente y suficiente para adquirirla;
+
+II.- Que acredite que su título tiene una antigüedad mayor de cinco años anteriores a la fecha de su solicitud, o que exhiba el o los títulos de sus causantes con la antigüedad citada; títulos que deberán ser fehacientes y suficientes para adquirir la propiedad;
+
+III.- Constancia de Comisariado Ejidal o Comunal de que el inmueble no tiene esa naturaleza, cuando se encuentre localizado en zonas próximas sujetas a ese régimen;
+
+IV.- Constancia de la autoridad municipal de posesión del inmueble, de que no forma parte del dominio del poder público;
+
+V.- Que manifieste bajo protesta de decir verdad si está poseyendo el predio o el nombre del poseedor, en su caso;
+
+VI.- Que acompañe las constancias relativas al estado catastral y predial del inmueble, y
+
+VII.- Plano o croquis de ubicación del inmueble.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3064.
+
+Quien se encuentre en el caso del inciso d) de la fracción II del artículo 3058, podrá ocurrir directamente ante el Registro Público de la Propiedad para acreditar que ha operado la prescripción conforme al siguiente procedimiento:
+
+I.- El interesado presentará solicitud que exprese:
+
+a).- Su nombre completo y domicilio;
+
+b).- La ubicación precisa del bien, su superficie, colindancias y medidas;
+
+c).- La fecha y causa de su posesión, que consiste en el hecho o acto generador de la misma;
+
+d).- Que la posesión que invoca es de buena fe;
+
+e).- El nombre y domicilio de la persona de quien la obtuvo el peticionario;
+
+f).- El nombre y domicilio de los colindantes.
+
+II.- A la solicitud a que se refiere la fracción anterior, el interesado deberá acompañar:
+
+a).- El documento con el que se acredita el origen de la posesión, si tal documento existe;
+
+b).- Un plano autorizado por ingeniero titulado en el que se identifique en forma indubitable el inmueble; y
+
+c).- Constancias relativas al estado catastral y predial del inmueble, si existieren.
+
+III.- Recibida la solicitud el Registrador Público de la Propiedad la hará del conocimiento, por correo certificado y con acuse de recibo, de la persona de quien se obtuvo la posesión y de su causante, si fuere conocido, así como de los colindantes, señalándoles un plazo de nueve días hábiles para que manifiesten lo que a sus derechos convenga.
+
+El Registrador Público de la Propiedad, además, mandará publicar edictos para notificar a las personas que pudieren considerarse perjudicadas, a costa del interesado por una sola vez en el Periódico Oficial del Gobierno del Estado de Hidalgo, y en un periódico de los de mayor circulación.
+
+IV.- Si existiere oposición de las personas mencionadas en la fracción anterior, el Registrador dará por terminado el procedimiento, a efecto de que la controversia sea resuelta por el Juez competente;
+
+V.- Si no existiere oposición, el Registrador Público señalará día y hora para una audiencia, en la cual el solicitante deberá probar su posesión, en concepto de propietario y por el tiempo exigido por este Código para prescribir, por medios que le produzcan convicción, entre los cuales será indispensable el testimonio de tres testigos que sean vecinos del inmueble cuya inmatriculación se solicita.
+
+El Registrador podrá ampliar el examen de los testigos con las preguntas que estime pertinentes para asegurarse de la veracidad de su dicho; y
+
+VI.- La resolución administrativa del Registrador Público de la Propiedad será dictada dentro de los ocho días siguientes a la celebración de la audiencia a que se refiere la fracción anterior, concediendo o denegando la inmatriculación y declarando en el primer caso que el poseedor ha hecho constar los antecedentes y circunstancias que conforme a este Código se requieren para adquirir por virtud de la prescripción; dicha resolución deberá expresar los fundamentos en que se apoya.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3065.
+
+Quien se encuentre en el caso del inciso e) de la fracción II del artículo 3058 podrá ocurrir directamente ante el Registro Público de la Propiedad para acreditar la posesión de un inmueble, apta para prescribirlo, conforme al procedimiento establecido en el artículo anterior, con excepción de que en la audiencia a que se refiere su fracción V, el solicitante deberá probar su posesión presente, por los medios que produzcan convicción al Registrador del Registro Público, entre los cuales será indispensable el testimonio de tres testigos que sean vecinos del inmueble cuya inmatriculación se solicita.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3066.
+
+Si la oposición a que se refiere la fracción IV del artículo 3064 se presentara una vez concluido el procedimiento y aprobada la inmatriculación, el Registrador de la Propiedad suspenderá la inscripción, si aún no la hubiese practicado, y si ya estuviese hecha, anotará la citada oposición en la inscripción respectiva.
+
+Si el opositor deja transcurrir seis meses sin promover el juicio que en su caso proceda, la oposición quedará sin efecto y se cancelará la anotación relativa.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1992)</small>
+
+Inmatriculación por Resolucion Judicial.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3067.
+
+Quien haya obtenido judicial o administrativamente la inscripción de la posesión de un inmueble, una vez que hayan transcurrido cinco años, si la posesión es de buena fe, podrá ocurrir ante el Registrador Público de la Propiedad para que ordene la inscripción de la propiedad adquirida por prescripción positiva, en el folio correspondiente a la inscripción de la posesión, quien la ordenará siempre y cuando el interesado acredite fehacientemente haber continuado en la posesión del inmueble con las condiciones para prescribir, sin que exista asiento alguno que contradiga la posesión inscrita.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3068.
+
+Una vez ordenada judicial o administrativamente la inmatriculación de la propiedad o posesión de un inmueble y cubierto el pago de las contribuciones respectivas, se hará la inscripción en el libro correspondiente.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3069.
+
+La inmatriculación realizada mediante resolución judicial o mediante resolución administrativa, no podrá modificarse o cancelarse, sino en virtud de mandato judicial contenido en sentencia irrevocable, dictada en juicio en que haya sido parte el Registrador del Registro Público de la Propiedad.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3070.
+
+No se inscribirán las informaciones judiciales o administrativas de posesión, ni las de dominio cuando se violen los programas de desarrollo urbano o las declaratorias de usos, destinos o reservas de predios, expedidos por la autoridad competente, o no se hayan satisfecho las disposiciones legales aplicables en materia de división y ocupación de predios, a menos que se trate de programas de regularización de la tenencia de la tierra aprobados por la autoridad.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1992)</small>
+
+Inmatriculación por Resolución Administrativa.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3071.
+
+El Reglamento establecerá el sistema conforme al cual deberán llevarse los libros del Registro Público y practicarse los asientos.
+
+La primera inscripción de cada finca será de dominio o de posesión.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3072.
+
+Los asientos y notas de presentación expresarán:
+
+I.- La fecha, hora y número de entrada;
+
+II.- La naturaleza del documento y el funcionario que lo haya autorizado;
+
+III.- La naturaleza del acto o negocio de que se trate;
+
+IV.- Los bienes o derechos objeto del título presentado, expresando su cuantía, si constare; y
+
+V.- Los nombres y apellidos de los interesados.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3073.
+
+Los asientos de inscripción deberán expresar las circunstancias siguientes:
+
+I.- La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que deba inscribirse, su medida superficial, nombre y número si contare en el título; así como las referencias al registro anterior y las catastrales que prevenga el reglamento;
+
+II.- La naturaleza, extensión y condiciones del derecho de que se trate;
+
+III.- El valor de los bienes o derechos a que se refieren las fracciones anteriores, cuando conforme a la ley deban expresarse en el título;
+
+IV.- Tratándose de hipotecas, la obligación garantizada; la época en que podrá exigirse su cumplimiento, el importe de ella o la cantidad máxima asegurada, cuando se trate de obligaciones de monto indeterminado; y los réditos, si se causaren, y la fecha desde que deban correr;
+
+V.- Los nombres de las personas físicas o morales a cuyo favor se haga la inscripción y de aquellas de quienes procedan inmediatamente los bienes. Cuando el título exprese nacionalidad, lugar de origen, edad, estado civil, ocupación y domicilio de los interesados, se hará mención de esos datos en la inscripción.
+
+VI.- La naturaleza del hecho o negocio jurídico; y
+
+VII.- La fecha del título, número si lo tuviere y el funcionario que lo haya autorizado.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3074.
+
+Las anotaciones preventivas contendrán las circunstancias que expresa el artículo anterior, en cuanto resulten de los documentos presentados y, por lo menos, la finca o derecho anotado, la persona a quien favorezca la anotación y la fecha de ésta.
+
+Las que deban su origen a embargo o secuestro, expresarán la causa que haya dado lugar a aquellas y el importe de la obligación que los hubiere originado.
+
+Las que provengan de una declaración de expropiación, limitación de dominio u ocupación de bienes, así como reservas, usos y destinos de inmuebles, mencionarán la fecha del decreto respectivo, la de su publicación en el Periódico Oficial del Gobierno del Estado y el fin de utilidad pública que sirva de causa a la declaración.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3075.
+
+Los asientos de cancelación de una inscripción o anotación preventiva expresarán:
+
+I.- La clase de documento en virtud del cual se practique la cancelación, su fecha y número si lo tuviere y el funcionario que lo autorice;
+
+II.- La causa por la que se hace la cancelación;
+
+III.- El nombre y apellidos de la persona a cuya instancia o con cuyo consentimiento se verifique la cancelación;
+
+IV.- La expresión de quedar cancelado total o parcialmente el asiento de que se trate; y
+
+V.- Cuando se trate de cancelación parcial, la parte que se segregue o que haya desaparecido del inmueble, o la que reduzca el derecho y la que subsista.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3076.
+
+Las anotaciones deberán contener las indicaciones para relacionar entre sí las fincas o asientos a que se refieren y, en su caso, el hecho que se trate de acreditar; y el documento en cuya virtud se extienda.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3077.
+
+Los requisitos que según los artículos anteriores deban contener los asientos, podrán omitirse cuando ya consten en otros del registro de la finca, haciéndose sólo referencia al asiento que los contenga.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3078.
+
+Todos los asientos, de la clase que fueren, deberán ir firmados por el registrador y expresar la fecha en que se practique, así como el día y número del asiento de presentación.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3079.
+
+Los asientos del Registro Público no surtirán efecto mientras no estén firmados por el registrador o funcionario que lo substituya; pero la firma de aquéllos puede exigirse por quien tenga el título con la certificación de haber sido registrado.
+
+Los asientos podrán anularse por resolución judicial con audiencia de los interesados, cuando substancialmente se hubieren alterado dichos asientos, así como en el caso de que se hayan cambiado los datos esenciales relativos a la finca de que se trate, o a los derechos inscritos o al titular de éstos, sin perjuicio de lo establecido respecto a la rectificación de errores, inexactitudes u omisiones.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3080.
+
+La nulidad de los asientos a que se refiere el artículo anterior, no perjudicará el derecho anteriormente adquirido por un tercero, protegido con arreglo al artículo 3016.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3081.
+
+Se inscribirán en los libros de operaciones sobre bienes muebles:
+
+I.- Los contratos de compraventa de bienes muebles sujetos a condición resolutoria a que se refiere la fracción II del artículo 2292;
+
+II.- Los contratos de compraventa de bienes muebles por los cuales el vendedor se reserva la propiedad de los mismos, a que se refiere el artículo 2294; y
+
+III.- Los contratos de prenda que menciona el artículo 2852.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3082.
+
+Toda inscripción que se haga en los libros de bienes muebles deberá expresar los datos siguientes
+
+I.- Los nombres de los contratantes;
+
+II.- La naturaleza del mueble con la característica o señales que sirvan para identificarlo de manera indubitable;
+
+III.- El precio y forma de pago estipulados en el contrato y, en su caso, el importe del crédito garantizado por la prenda; y
+
+IV.- La fecha en que se practique y la firma del registrador.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3083.
+
+En los libros de las personas morales se inscribirán:
+
+I.- Los instrumentos por los que se constituyan, reformen o disuelvan las sociedades y asociaciones civiles y sus estatutos;
+
+II.- Los instrumentos que contengan la protocolización de los estatutos de asociaciones y sociedades extranjeras de carácter civil y de sus reformas, cuando haya comprobado el registrador que existe la autorización a que se refiere el artículo 2729 de este Código; y
+
+III.- Las fundaciones y asociaciones de beneficencia privada.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3084.
+
+Las inscripciones referentes a la constitución de personas morales, deberán contener los datos siguientes:
+
+I.- El nombre de los otorgantes;
+
+II.- La razón social o denominación;
+
+III.- El objeto, duración o domicilio;
+
+IV.- El capital social, si lo hubiere y la aportación con que cada socio deba contribuir;
+
+V.- La manera de distribuirse las utilidades y pérdidas, en su caso;
+
+VI.- El nombre de los administradores y las facultades que se les otorguen;
+
+VII.- El carácter de los socios y de su responsabilidad ilimitada cuando la tuvieren; y
+
+VIII.- La fecha y la firma del registrador.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3085.
+
+Las demás inscripciones que se practiquen en los libros de las personas morales, expresarán los datos esenciales del acto o contrato, según resulten del título respectivo.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+
+###### Art. 3086.
+
+Las inscripciones que se practiquen en los libros relativos a bienes muebles y personas morales no producirán más efectos que los señalados en los artículos 2292, fracción II; 2294, 2664, 2685 y 2852 de este Código, y les serán aplicables a los registros las disposiciones relativas a los bienes inmuebles, en cuanto sean compatibles con la naturaleza de los actos o contratos materia de éste y del anterior capítulo y con los efectos que las inscripciones producen.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -15274,3 +15772,9 @@ P.O. 28 DE JUNIO DE 1991.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
 
 SEGUNDO.- Los trámites de formalización y registro de contratos de compraventa pendientes, podrán continuarse en los términos de las normas vigentes hasta antes de que entre en vigor este Decreto, o ajustarse al nuevo precepto materia del mismo.
+
+P.O. 18 DE MAYO DE 1992.
+
+PRIMERO.- El presente Decreto de reformas al Código Civil entrará al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas otras disposiciones que se opongan al contenido del presente Decreto.
