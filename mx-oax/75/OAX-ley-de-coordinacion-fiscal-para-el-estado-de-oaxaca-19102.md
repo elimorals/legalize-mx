@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2002-12-31"
+last_updated: "2003-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE COORDINACION FISCAL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -147,7 +147,9 @@ Los índices de marginación de cada Municipio se tomarán de la última informa
 
 III. 20% en proporción directa al número de poblaciones que de acuerdo a su categoría administrativa están definidas como Municipios, Agencias Municipales y Agencias de Policía, para cada Municipio con relación al total de ellas en el Estado.
 
-El número de poblaciones con categoría de Municipios, Agencias Municipales y Agencias de Policía serán las reconocidas oficialmente por la Legislatura del Estado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+El número de poblaciones con categoría de Municipios, Agencias Municipales y Agencias de Policía, serán las reconocidas oficialmente por la Legislatura del Estado y comunicadas a la Secretaría hasta el mes de octubre del último ejercicio en relación al cual se realiza el cálculo. En caso de no recibir este comunicado, la Secretaría efectuará el cálculo correspondiente tomando la última información que al respecto le haya dado a conocer el Congreso del Estado.
 
 ###### ARTICULO 7.
 
@@ -195,9 +197,25 @@ La información sobre ingresos propios recaudados por los Municipios se integra 
 
 Las Participaciones que correspondan a los Municipios, resultantes de los fondos que establece la presente Ley, se calcularán y distribuirán por conducto de la Secretaría con base en las disposiciones que al efecto establezca la Legislatura del Estado.
 
-De conformidad con lo dispuesto en la Ley de Coordinación, la Secretaría enterará las Participaciones a los Municipios en forma mensual, dentro de los cinco días siguientes a la fecha en que se reciban de la Federación, o, a petición que le formule el Municipio de que se trate, mediante acta de cabildo debidamente suscrita de conformidad con la legislación aplicable, podrá enterar a los Municipios dichas Participaciones en forma quincenal en partes iguales, los días 15 y último de cada mes, en concepto de anticipos a cuenta de Participaciones, con base en los montos que se establezcan en la Ley de Ingresos del Estado de Oaxaca en el ejercicio de que se trate, de los conceptos participables a los Municipios y señalados en el Artículo 5 de la presente Ley. El retraso en la entrega ocasionará el pago de intereses a la tasa de recargos que establece el Congreso de la Unión para la liquidación a plazos de las contribuciones federales.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-Con base en los ajustes cuatrimestrales y definitivo que realice la Federación en los plazos y términos previstos en el artículo 7° de la Ley de Coordinación, la Secretaría efectuará los ajustes correspondientes, calculados conforme a las diferencias entre las cantidades recibidas participables a municipios y las Participaciones enteradas en concepto de anticipos a participaciones de conformidad con los procedimientos a que se refiere este artículo, los cuales serán liquidados dentro de los 5 días posteriores a la fecha en que el Estado reciba dichos ajustes.
+De conformidad con lo dispuesto en la Ley de Coordinación, la Secretaría enterará las Participaciones a los Municipios de acuerdo a lo siguiente:
+
+I. En forma mensual dentro de los cinco días siguientes a la fecha en que se reciban de la Federación, en concepto de anticipos a cuenta de Participaciones.
+
+Con base en los ajustes cuatrimestrales y definitivo que realice la Federación en los plazos y términos previstos en la Ley de Coordinación, la Secretaría efectuará los ajustes a los Municipios; los cuales serán liquidados dentro de los 5 días posteriores a la fecha en que el Estado reciba dichos ajustes.
+
+II. Cuando a petición que le formule el Municipio de que se trate a la Secretaría, mediante acta de cabildo debidamente suscrita de conformidad con la legislación aplicable, la Secretaría podrá enterar a los Municipios dichas Participaciones en forma quincenal en partes iguales, los días 15 y último de cada mes, en concepto de anticipos a cuenta de Participaciones, con base en los montos que se establezcan en la Ley de Ingresos del Estado de Oaxaca en el ejercicio de que se trate, de los conceptos participables a los Municipios y señalados en el artículo 5 de la presente Ley.
+
+Los Municipios que soliciten el pago de sus Participaciones en forma quincenal bajo los términos antes señalados, deberán autorizar a la Secretaría en el mismo acuerdo de cabildo, que ésta efectúe en forma cuatrimestral el cálculo de las diferencias entre las cantidades pagadas en concepto de anticipos a cuenta de Participaciones y las Participaciones determinadas provisionalmente por la Federación en los términos de la Ley de Coordinación. Las diferencias calculadas bajo este mecanismo, serán liquidadas dentro de los dos meses siguientes al cuatrimestre que corresponda a la determinación provisional efectuada por la Federación.
+
+Adicionalmente y con base en los ajustes cuatrimestrales y definitivo que realice la Federación en los plazos y términos previstos en la Ley de Coordinación, la Secretaría efectuará los ajustes correspondientes, los cuales serán liquidados dentro de los 5 días posteriores a la fecha en que el Estado reciba dichos ajustes.
+
+> <small>(DEROGADO TERCER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+El retraso en la entrega ocasionará el pago de intereses, a la tasa de recargos que establece el Congreso de la Unión para la liquidación a plazos de las contribuciones federales.
 
 ###### ARTICULO 9.
 
@@ -227,9 +245,11 @@ Los factores de participación que conforme a las bases de los artículos 6 y 7 
 
 Las Participaciones que correspondan a los Municipios serán cubiertas en efectivo, no en obra, sin condicionamiento alguno y no podrán ser objeto de deducciones, salvo lo dispuesto por el artículo 9 de la Ley de Coordinación. Además, son inembargables; no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas por los Municipios con la autorización de la Legislatura del Estado e inscritas ante la Secretaría de Hacienda y Crédito Público en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, a favor de la Federación, de la (sic) Instituciones de Crédito que operen en territorio nacional así como de personas físicas o morales de nacionalidad mexicana.
 
-###### ARTÍCULO 14.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-El Estado y los Municipios efectuarán los pagos de las obligaciones garantizadas con la afectación de Participaciones, de acuerdo con los mecanismos y sistemas de registro establecidos en la Ley de Deuda Pública Estatal y Municipal. El Estado deberá contar con un Registro Único de Obligaciones y Financiamientos y, deberá publicar en forma periódica, información con respecto a la situación de su deuda.
+###### ARTICULO 14.
+
+El Estado y los Municipios podrán afectar como fuente de pago o en garantía de las obligaciones constitutivas de deuda pública las Participaciones, de acuerdo con los mecanismos y sistemas de registro establecidos en la Ley de Deuda Pública Estatal y Municipal. El Estado deberá contar con un Registro Unico de Obligaciones y Financiamientos y deberá publicar en forma periódica, información con respecto a la situación de su deuda.
 
 ###### ARTICULO 15.
 
@@ -377,17 +397,17 @@ SEGUNDO.- Para los efectos de lo dispuesto en los artículos 6 y 7 de esta Ley, 
 
 DEL DECRETO NUM. 242. (sic)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-Durante los años 2003 y 2004 los factores a que se refieren los artículos arriba citados, se calcularán conforme a las proporciones que se señalan a continuación:
+Durante los años 2004 y 2005 los factores a que se refieren los artículos arriba citados, se calcularán conforme a las proporciones que se señalan a continuación:
 
 FACTORES FACTORES
 
 AÑO 1999 LEY
 
-2003 70% 30%
+2004 70% 30%
 
-2004 50% 50%
+2005 65% 35%
 
 El factor de distribución del Fondo Municipal de Participaciones y el del Fondo de Fomento Municipal que corresponda a cada Municipio será el que resulte de sumar el factor de distribución aplicado en 1999 multiplicado por el porcentaje arriba señalado para cada año, más el factor resultante del procedimiento establecido en la presente Ley para cada uno de los fondos multiplicado por el porcentaje arriba señalado.
 
@@ -448,3 +468,7 @@ SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a este Decre
 P.O. 31 DE DICIEMBRE DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2003, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1 de enero de 2004, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
