@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2001-01-23"
+last_updated: "2001-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -2119,6 +2119,14 @@ XI. Fondo de Aportaciones Federales para fines específicos.
 
 Los ramos, partidas y claves que se utilizarán para la elaboración del presupuesto de egresos, deberán ajustarse al catálogo proporcionado por el Congreso del Estado, para los efectos de la revisión de la cuenta pública.
 
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2001)</small>
+
+Los Ayuntamientos podrán prever para su último año de gestión administrativa, en sus respectivos presupuestos de egresos un capítulo específico para el proceso de entrega-recepción del órgano de gobierno municipal y de la administración pública que le deriva, con el objetivo de eficientar, agilizar y transparentar este proceso.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2001)</small>
+
+Los Ayuntamientos deberán cumplir con los criterios de racionalidad, austeridad y disciplina presupuestal al prever esta partida.
+
 ###### Art. 208.
 
 Para los efectos de la determinación del monto del gasto público, el Tesorero Municipal deberá allegarse todos aquellos datos que considere necesarios, elaborando con ellos el proyecto que presentará al Presidente Municipal, para que éste, a su vez, lo presente al Cabildo.
@@ -3254,3 +3262,7 @@ P.O. 25 DE JULIO DE 2000.
 P.O. 23 DE ENERO DE 2001.
 
 ÚNICO.- Este decreto entrará en vigor a los 60 sesenta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 3 DE FEBRERO DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
