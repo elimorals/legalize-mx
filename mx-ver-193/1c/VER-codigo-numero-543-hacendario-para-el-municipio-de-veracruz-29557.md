@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-543-hacendario-para-el-municipio-de-veracruz-2955
 country: "mx"
 rank: "codigo"
 publication_date: "2003-03-10"
-last_updated: "2003-03-18"
+last_updated: "2004-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CODIGO HACENDARIO PARA EL MUNICIPIO DE VERACRUZ, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE JULIO DE 2004.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 10 de marzo de 2003.
 
@@ -203,7 +203,9 @@ I. El Ayuntamiento;
 
 II. El Presidente;
 
-III. El Tesorero y, en su caso, quien ejerza la función de ejecución fiscal;
+> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
+
+III. El Tesorero;
 
 IV. Los titulares de organismos públicos descentralizados o de empresas de participación municipal, que tengan bajo su responsabilidad la prestación de servicios públicos, cuando realicen funciones de recaudación de ingresos municipales;
 
@@ -219,9 +221,11 @@ Las autoridades fiscales ejercerán sus facultades en la forma y los términos s
 
 Sólo las autoridades fiscales, facultadas al efecto, podrán aplicar el procedimiento administrativo de ejecución, con la finalidad de recuperar créditos fiscales insolutos, de conformidad con el Código de la materia.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE JULIO DE 2004)</small>
+
 ###### Artículo 16.
 
-Las disposiciones tributarias que establezcan cargas fiscales y las que señalen excepciones a las mismas, así como las que fijen las infracciones, delitos y sanciones, son de aplicación estricta. Se considera que establecen cargas fiscales las normas que se refieren al sujeto, objeto, base, tasa, cuota o tarifa.
+Las disposiciones tributarias que establezcan cargas fiscales y las que señalen excepciones a las mismas, así como las que fijen las infracciones, delitos y sanciones, son de aplicación estricta. Se considera que establecen cargas fiscales las normas que se refieren al sujeto, objeto, base, tasa, cuota o tarifa. La ignorancia de las disposiciones fiscales no excusa de su cumplimiento.
 
 A falta de norma fiscal expresa, se aplicará supletoriamente la legislación civil estatal, cuando sus disposiciones no sea (sic) contrarias a la naturaleza propia del derecho fiscal.
 
@@ -463,9 +467,11 @@ IV. Si el crédito se determina mediante un convenio, en la fecha que éste señ
 
 V. Tratándose de actos de fiscalización, dentro de los quince días siguientes a la fecha en que surta efectos la notificación de la liquidación correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE JULIO DE 2004)</small>
+
 ###### Artículo 37.
 
-El pago de los créditos fiscales y cualquier ingreso en favor del Municipio se hará en efectivo con moneda de curso legal, salvo los casos que este Código autorice que se efectúen en especie.
+El pago de los créditos fiscales y cualquier ingreso en favor del municipio se hará en efectivo con moneda de curso legal, salvo en los casos previstos por este Código o cuando el Ayuntamiento autorice que se efectúen en especie.
 
 Los giros postales, telegráficos o bancarios y los cheques de cuenta personal del contribuyente se admitirán salvo buen cobro.
 
@@ -1161,11 +1167,15 @@ I. Las infracciones que establece el artículo 88 de este Código serán sancion
 
 a) De cinco a quince días de salario mínimo, por infracción a las fracciones I, IV, VII, VIII, X, XII y XV.
 
-b) De quince a treinta días de salario mínimo, por infracción a las fracciones XX, XXII y XXIII.
+> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
+
+b) De quince a treinta días de salario mínimo, por infracción a las fracciones IXX, XXI y XXII.
 
 c) De treinta a cincuenta días de salario mínimo, por infracción a las fracciones II, III, V, VI, IX, XI, XIII, XIV, XVI, XVII, XVIII y XIX;
 
-II. La infracción que establece la fracción XXI del artículo 88 de este Código, se sancionará con multa de cien a ciento cincuenta por ciento del crédito omitido;
+> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
+
+II. La infracción que establece la fracción XX del artículo 88 de este Código, se sancionará con multa igual al valor del crédito omitido;
 
 III. Las infracciones comprendidas en el artículo 89 de este Código, se sancionarán con multa de cincuenta a cien días de salario mínimo;
 
@@ -1379,7 +1389,9 @@ Es objeto del Impuesto Predial:
 
 I. La propiedad de predios urbanos, suburbanos o rurales ubicados en el Municipio;
 
-II. La posesión de predios urbanos, suburbanos o rurales ubicados en el Municipio, en términos del derecho común, la Ley de Catastro y su Reglamento; y
+> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
+
+II. La posesión a título de dueño o de uso, de predios urbanos, suburbanos o rurales ubicados en el municipio, en términos del derecho común, la Ley de Catastro y su Reglamento; y
 
 III. La propiedad o posesión ejidal o comunal.
 
@@ -1393,11 +1405,21 @@ I. Los propietarios o poseedores de predios urbanos, suburbanos o rurales;
 
 II. Los propietarios o poseedores de predios ejidales o comunales;
 
-III. Los copropietarios y los coposeedores;
+> <small>(ADICIONADA, G.O. 7 DE JULIO DE 2004)</small>
 
-IV. Los nudopropietarios, los titulares de certificados de vivienda y de participación inmobiliaria; y
+III. Los poseedores que, por cualquier título, tengan la concesión o permiso del uso, goce y destino de bienes de dominio público de la Federación, Estado o Municipio;
 
-V. El fideicomitente y, en su caso, el fiduciario, en tanto no le transmitan la propiedad del predio al fideicomisario o a otras personas, en cumplimiento al contrato de fideicomiso.
+> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
+
+IV. Los copropietarios y los coposeedores;
+
+> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
+
+V. Los nudopropietarios, los titulares de certificados de vivienda y de participación inmobiliaria; y
+
+> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
+
+VI. El fideicomitente y, en su caso, el fiduciario, en tanto no le transmitan la propiedad del predio al fideicomisario o a otras personas, en cumplimiento al contrato de fideicomiso.
 
 ###### Artículo 115.
 
@@ -1437,9 +1459,27 @@ En los casos de predios que no hubieren tenido modificaciones físicas no proced
 
 Para efectos de este impuesto, en los predios objeto de fraccionamiento, el nuevo valor generado por la introducción de obras de urbanización se considerará a partir de la conclusión de éstas.
 
+> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
+
 ###### Artículo 117.
 
-El Impuesto Predial se causará anualmente y se liquidará y pagará conforme a la tasa que sobre la base gravable autorice el Congreso en la Ley de Ingresos del Municipio para el ejercicio fiscal de que se trate.
+El Impuesto Predial se causará anualmente y se liquidará y pagará de acuerdo con la tarifa y tasa siguientes:
+
+Predios: Tarifa
+
+I. Urbanos Construidos 1 al millar
+
+II. Urbanos Baldíos 2 al millar
+
+III. Sururbanos:
+
+a) Construidos 0.50 al millar
+
+b) Baldíos 0.75 al millar
+
+IV. Rurales Particulares 3.75 al millar
+
+V. Rurales Ejidales 1 al millar.
 
 ###### Artículo 118.
 
@@ -1447,9 +1487,11 @@ El pago del Impuesto Predial será semestral y se realizará dentro de los meses
 
 Los sujetos de este impuesto que opten por el pago anual podrán efectuarlo en el mes de enero, en una sola exhibición y, en este caso, obtendrán un descuento del veinte por ciento, incluidos quienes paguen la cuota mínima. Este plazo podrá prorrogarse hasta el día último del mes de febrero, por acuerdo del Cabildo, el que se comunicará al Congreso.
 
+> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
+
 ###### Artículo 119.
 
-Están exentos del pago del Impuesto Predial, los bienes del dominio público de la Federación, del Estado y de los Municipios.
+Están exentos del pago del Impuesto Predial, los bienes de dominio público de la Federación, del Estado y del Municipio, salvo que estos bienes sean utilizado (sic) por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos de los de su objeto público.
 
 ###### Artículo 120.
 
@@ -2185,9 +2227,13 @@ No causarán los derechos previstos en esta Sección, la colocación de anuncios
 
 Son objeto de este derecho los servicios que el Ayuntamiento preste, a solicitud o en rebeldía del usuario, los que se causarán y pagarán conforme a los conceptos y tarifas siguientes:
 
-I. Alineamiento de predios, en términos de la Ley de Desarrollo Regional y Urbano y sus Reglamentos, por metro lineal 0.875 salarios mínimos;
+> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
 
-II. Por asignación de número oficial e inspección de predios, 7.5 salarios mínimos;
+I. Alineamiento de predios, en términos de la Ley de Desarrollo Regional y Urbano y sus Reglamentos, por metro lineal 0.875 salarios mínimos. Cuando se trate de predios en zonas populares o de interés social, la tarifa será de 0.50 salarios mínimos por metro lineal;
+
+> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
+
+II. Por asignación de número oficial e inspección de predios, 7.5 salarios mínimos. Cuando se trate de lotes en zonas populares o de interés social la cuota será de 5 salarios mínimos;
 
 III. Por licencias:
 
@@ -2317,9 +2363,27 @@ i) Por remodelación de fachadas, se pagará por metro cuadrado o fracción, de 
 
 j) Por la construcción de estacionamientos descubiertos o patios de almacenaje, se pagará por metro cuadrado de piso, 0.10 salario mínimo; y
 
-k) Realizar obras, modificaciones, reparaciones, introducir servicios provisionales o permanentes en la vía pública por metro lineal o cuadrado, según corresponda, un salario mínimo.
+> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
 
-Por las demás no especificadas en esta fracción por metro cuadrado 0.01 salarios mínimos;
+k) Para realizar obras, modificaciones, reparaciones, introducir servicios provisionales o permanentes en la vía pública, por metro lineal o cuadrado, según corresponda, 2 salarios mínimos.
+
+> <small>(ADICIONADO, G.O. 7 DE JULIO DE 2004)</small>
+
+l) De construcción o instalación de antenas de telecomunicación, por metro lineal, 12 salarios mínimos.
+
+> <small>(ADICIONADO, G.O. 7 DE JULIO DE 2004)</small>
+
+m) Para edificar estacionamientos públicos o particulares de uso no habitacional, conforme a lo señalado en el Reglamento de Estacionamientos Municipal, por metro cuadrado:
+
+Uso Salario Mínimo
+
+1. Comercial 0.425
+
+2. Servicio 0.152
+
+> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
+
+Por las demás no especificadas en esta fracción, por metro cuadrado, 0.05 salarios mínimos;
 
 IV. Por deslinde de predios por metro cuadrado o fracción:
 
@@ -2337,11 +2401,29 @@ Mínimo
 
 5. Comercial 0.0625
 
-6. Industrial 0.025
+> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
 
-7. Agropecuario 0.02
+6. Industrial
 
-8. De Servicio 0.025
+De 1 a 10,000 m2 0.025
+
+De 10,001 m2 en adelante. 0.015
+
+> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
+
+7. Agropecuario
+
+De 1 a 10,000 m2 0.02
+
+De 10,001 m2 en adelante 0.015
+
+> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
+
+8. De Servicio
+
+De 1 a 10,000 m2 0.025
+
+De 10,001 m2 en adelante 0.015
 
 En ningún caso la cuota a pagar será menor de 2 salarios mínimos;
 
@@ -2373,19 +2455,29 @@ Uso Salario
 
 Mínimo
 
-1. Vivienda 0.10
+> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
 
-2. Industria 0.15
+1. Vivienda 0.07
 
-3. Comercio 0.50
+> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
 
-4. Servicio 0.30
+2. Industria 0.075
+
+> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
+
+3. Comercio 0.15
+
+> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
+
+4. Servicio 0.1
 
 En ningún caso la cuota a pagar será menor de 5 salarios mínimos;
 
 Por cambio de uso de suelo, en caso de que el Municipio contare con un Programa de Ordenamiento Urbano, en términos de la normatividad aplicable, se pagará el cincuenta por ciento de la cuota establecida para un dictamen de uso de suelo.
 
-La modificación o revalidación de proyectos causarán derechos, a razón de un cincuenta por ciento sobre las cuotas que correspondan a la fracción V.
+> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
+
+La modificación o revalidación de proyectos causarán derechos, a razón de un cincuenta por ciento sobre las cuotas que correspondan a las fracciones III inciso b) y V de este artículo.
 
 La regularización por omisión de registros o licencias de construcción causará los derechos normales más un cincuenta por ciento de los mismos.
 
@@ -2501,6 +2593,18 @@ a) Interés Social y Popular, 2 salarios mínimos, y
 
 b) Residencial, Industrial y Comercial, 10 salarios mínimos.
 
+> <small>(ADICIONADA, G.O. 7 DE JULIO DE 2004)</small>
+
+IX. Por diversas constancias en materia ambiental, expedidas por el Departamento de Ecología, 20 salarios mínimos;
+
+> <small>(ADICIONADA, G.O. 7 DE JULIO DE 2004)</small>
+
+X. Por diversas constancias expedidas por la Dirección de Protección Civil, 3 salarios mínimos; y
+
+> <small>(ADICIONADA, G.O. 7 DE JULIO DE 2004)</small>
+
+XI. En los casos no especificados, la tarifa por la expedición de verificaciones, constancias o dictámenes, por cada uno, 2 salarios mínimos.
+
 ### CAPÍTULO VI. DE LOS DERECHOS POR SERVICIOS DE RASTRO O LUGARES AUTORIZADOS
 
 ###### Artículo 224.
@@ -2545,11 +2649,13 @@ Son objeto de estos derechos, los servicios de inhumación, cremación y exhumac
 
 Son sujetos de estos derechos, las personas físicas o morales que soliciten la prestación de los servicios que señala el artículo anterior, quienes pagarán, en salarios mínimos, las cuotas siguientes:
 
-I. Inhumaciones por siete años y refrendo de fosas:
+> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
 
-a) Sin bóveda 5
+I. Inhumaciones por siete años y refrendo de fosas: 17
 
-b) Con bóveda 17
+a) (DEROGADO, G.O. 7 DE JULIO DE 2004)
+
+b) (DEROGADO, G.O. 7 DE JULIO DE 2004)
 
 II. Inhumaciones en fosas a perpetuidad 10
 
@@ -2565,7 +2671,13 @@ VII. Exhumaciones 5
 
 VIII. Reinhumaciones 5
 
-IX. Cremaciones 4
+> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
+
+IX. Cremaciones
+
+a) Tramitación por funerarias 21.6
+
+b) Tramitación por particulares 10
 
 X. Nichos en el panteón municipal 13
 
@@ -2665,7 +2777,9 @@ Son objeto de estos derechos los servicios siguientes, que se causarán y pagar�
 
 A. Por servicios Catastrales
 
-I. Por la expedición de una Cédula Catastral 7 salarios mínimos
+> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
+
+I. Por la expedición del Certificado de Inscripción Catastral, por predio 7 salarios mínimos
 
 II. Por la expedición de un Certificado de Valor Catastral o Catastral Provisional, para efectos del pago de impuesto de Traslación de Dominio u otros 10 salarios mínimos
 
@@ -2715,15 +2829,29 @@ Grabada en diskette o C.D. archivo JPG 2.5
 
 En los casos de trámites urgentes, se aumentará su costo en un cuarenta por ciento más de la cuota autorizada
 
-B. Por constancia de no adeudo o cualquier otro
+> <small>(ADICIONADO, G.O. 7 DE JULIO DE 2004)</small>
 
-que se expida 1.125
+Los poseedores de predios en colonias populares, reservas territoriales y fundos legales, destinados a usos habitacionales y en proceso de regularización por parte de organismos federales, estatales o municipales pagarán dos salarios mínimos, por cada expedición de los certificados de Inscripción Catastral y Certificado de Valor Catastral o Provisional, para efectos del pago de Impuesto de Traslación de Dominio de Bienes Inmuebles.
 
-C. Por la certificación de datos o documentos
+> <small>(ADICIONADO, G.O. 7 DE JULIO DE 2004)</small>
 
-que existan en el archivo de la Tesorería
+No pagarán los derechos por la expedición del Certificado de Inscripción Catastral y del Certificado de Valor Catastral o Provisional:
 
-Municipal 1.125
+a) La Federación, el Estado y el Municipio, respecto de los bienes de dominio público y los partidos políticos nacionales, siempre que los inmuebles se destinen al cumplimiento de sus fines;
+
+b) Todos los sujetos pasivos del Catastro, cuando se trate de incorporaciones o reevaluaciones (sic) masivas por la ejecución de programas de catastro;
+
+c) Por cambios o modificaciones de los registros catastrales debidos a:
+
+1. Regularización de la nomenclatura catastral o de la circunscripción municipal, y
+
+2. Por rectificaciones en los archivos catastrales, efectuadas por la autoridad catastral, por cualquier motivo y que afecten a los interesados registrados.
+
+> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
+
+B. Por constancias de no adeudo o de ocupación de locales en los mercados municipales, 1.125 salarios mínimos.
+
+C. Por la certificación de datos o documentos que existan en el archivo de la Tesorería Municipal 1.125
 
 ###### Artículo 242.
 
@@ -2759,19 +2887,43 @@ extemporáneos. 1.20
 
 III. Reconocimiento de hijos. 1.20
 
-IV. Adopciones. 2.5
+> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
 
-V. Celebración de matrimonios en oficina. 10
+IV. Adopciones. 2.6
 
-VI. Celebración de matrimonios a domicilio. 50
+> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
+
+V. Celebración de matrimonios en oficina.
+
+a) Lunes a Jueves (matutino) 10
+
+b) Lunes a Jueves (vespertino) 21
+
+c) Viernes (matutino) 20
+
+d) Viernes (vespertino) 21
+
+e) Sábado 33
+
+> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
+
+VI. Celebración de matrimonios a domicilio 65
 
 VII. Inscripción de sentencias. 13.20
 
 VIII. Divorcios. 17.5
 
-IX. Expedición de certificados de vecindad. 1.20
+> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
 
-X. Notas marginales en los libros de actas. 2.5
+IX. Expedición de certificados o constancias 1.20
+
+> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
+
+X. Notas marginales en los libros de actas. 1.20
+
+> <small>(ADICIONADA, G.O. 7 DE JULIO DE 2004)</small>
+
+XI. Inscripción de actas del extranjero 4.5
 
 Por búsqueda de los documentos anteriores, se pagarán 2 salarios mínimos, cuando no se proporcionen los datos exactos para su localización.
 
@@ -2789,13 +2941,19 @@ Las personas que utilicen espacios en mercados, así como en tianguis, deberán 
 
 Los derechos por la ocupación de espacios, se calcularán y pagarán de conformidad con las cuotas siguientes:
 
-I. La ocupación de espacios en mercados municipales se pagará diariamente por metro cuadrado, a razón de 0.0625 salarios mínimos.
+> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
+
+I. La ocupación de espacios en mercados municipales se pagará diariamente por metro cuadrado, de 0.01 a 0.05 salarios mínimos.
 
 Las altas, traspasos, cambios, ampliaciones de giro y arreglo o modificaciones de locales o áreas que ocupen, se efectuarán de conformidad con la normatividad aplicable, previa autorización del Ayuntamiento;
 
-II. Por ocupación de espacios en vía pública o áreas municipales por vehículos, aparatos mecánicos; electromecánicos y casetas telefónicas por metro cuadrado o fracción pagarán una cuota diaria de 0.05 salarios mínimos;
+> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
 
-III. Ocupación temporal de la vía pública o áreas municipales, por vehículos, aparatos mecánicos o electromecánicos, en época de días de mercado o celebraciones de ferias o similares, por metro cuadrado o fracción pagarán una cuota diaria de 0.05 salarios mínimos;
+II. Ocupación permanente o temporal de la vía pública o áreas municipales, por vehículos, aparatos mecánicos; electromecánicos y casetas telefónicas por metro cuadrado o fracción, pagarán una cuota diaria de 0.01 a 0.05 salarios mínimos;
+
+> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
+
+III. Ocupación temporal de la vía pública o áreas municipales por vehículos, aparatos mecánicos o electromecánicos, en días de mercado o celebraciones de ferias o similares, por metro cuadrado o fracción, pagarán una cuota diaria de 0.05 a 0.125 salarios mínimos;
 
 IV. La ocupación de espacios en vía pública o áreas municipales, por postería eléctrica, líneas aéreas de cable, puestos de revistas, etc., exceptuando las áreas verdes, se pagará diariamente por metro cuadrado de superficie; 0.05 salarios mínimos;
 
@@ -2817,15 +2975,135 @@ VII. Por ocupación temporal de la vía pública o áreas municipales a vendedor
 
 El estacionamiento en la vía pública se pagará mediante utilización de parquímetros, por hora o fracción a razón de 0.125 salarios mínimos
 
+> <small>(ADICIONADO, G.O. 7 DE JULIO DE 2004)</small>
+
+### CAPÍTULO XIV. DE LOS DERECHOS EN MATERIA DE TRÁNSITO MUNICIPAL
+
+> <small>(ADICIONADO, G.O. 7 DE JULIO DE 2004)</small>
+
+###### Artículo 247 Bis.
+
+Por los servicios prestados por la Dirección de Tránsito Municipal. Se causarán y cobrarán los derechos siguientes:
+
+I. Por la expedición de los permisos siguientes: Salarios Mínimos
+
+a) Provisional para circular sin placas ni tarjeta de
+
+circulación 10
+
+b) Para circular en zona restringida
+
+1. Por seis meses 20
+
+2. Por un día 2
+
+c) De carga, por un año 10
+
+d) Para circular vehículos con exceso de peso o dimensiones,
+
+por día 10
+
+e) Para transportar carga en vehículo destinado a otro fin,
+
+hasta por 30 días 3
+
+II. Por la prestación de otros servicios:
+
+a) Expedición de certificados médicos 4
+
+b) Constancias de cualquier naturaleza 1.5
+
+III. Por la utilización de grúas oficiales o concesionadas para el retiro de vehículos accidentados, infraccionados o por orden judicial:
+
+a) Arrastre en zona urbana dentro de un sector estimado en un radio de siete kilómetros de la ubicación del encierro municipal, por las categorías de los vehículos:
+
+Descripción del vehículo Salarios Mínimos
+
+1. Bicicletas y triciclos 2
+
+2. Motocicletas y cuatrimotos 4
+
+3. Automóviles y camionetas pick up o similares 10
+
+4. Camionetas de 3.5 toneladas y microbuses 11
+
+5. Autobuses, camiones, semirremolques y tractocamiones
+
+con o sin remolques 14
+
+b) Arrastre por distancia excedente al perímetro señalado en el inciso anterior, se adicionará por kilómetro recorrido la tarifa siguiente:
+
+Descripción de Vehículo Salarios Mínimos
+
+1. Motocicletas y cuatrimotos 0.25
+
+2. Automóviles y camionetas pick up o similares 0.30
+
+3. Camionetas de 3.5 toneladas y microbuses 0.35
+
+4. Autobuses, camiones, semirremolques y tractocamiones
+
+con o sin remolques 0.40
+
+c) Arrastre en operativo en el primer cuadro de la ciudad, considerando un radio de tres kilómetros, partiendo de la Dirección de Tránsito Municipal:
+
+Descripción de Vehículo Salarios Mínimos
+
+1. Automóviles, camionetas pick up o similares y camionetas
+
+de hasta 3.5 toneladas 5
+
+d) Tarifa por hora en operación de salvamento:
+
+Descripción de Vehículo Salarios Mínimos
+
+1. Motocicletas, cuatrimotos, automóviles y camionetas pick up. 16
+
+2. Camionetas de 3.5 toneladas y microbuses 19
+
+3. Autobuses, camiones, semirremolques y tractocamiones
+
+con o sin remolque 26
+
+e) Por diferentes servicios para todo tipo de vehículo, por hora:
+
+Descripción del servicio Salarios Mínimos
+
+1. Operador para el traslado de vehículos 4
+
+2. Abanderamiento 8
+
+3. Custodia 8
+
+IV. Por la utilización de servicio oficial de depósito y custodia de vehículos accidentados, infraccionados o por orden judicial, por día calendario:
+
+Descripción de Vehículo Salarios Mínimos
+
+1. Bicicletas y triciclos 0.10
+
+2. Motocicletas y cuatrimotos 0.20
+
+3. Automóviles 0.60
+
+4. Camionetas pick up o similares 0.70
+
+5. Camionetas de 3.5 toneladas, microbuses y tractocamiones
+
+sin remolques 1.15
+
+6. Autobuses, camiones, semirremolques y tractocamiones
+
+con remolque 1.35
+
+Para otro tipo de vehículos, las tarifas anteriores se homologarán de acuerdo a las dimensiones y peso de los vehículos relacionados.
+
 ### CAPÍTULO ÚNICO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES DEL SERVICIO DE TESORERÍA
 
-### CAPÍTULO II. DE LOS PAGOS Y MINISTRACIONES
-
 ## TÍTULO TERCERO. DE LAS CONTRIBUCIONES POR MEJORAS
 
-### CAPÍTULO III. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
+### CAPÍTULO II. DE LOS PAGOS Y MINISTRACIONES
 
 ###### Artículo 248.
 
@@ -2995,6 +3273,16 @@ VIII. Diversos.
 
 Los productos por conceptos diversos se cobrarán en términos de los contratos o de las concesiones correspondientes y de conformidad con las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, G.O. 7 DE JULIO DE 2004)</small>
+
+Artículo 259 bis.- Por la venta de artículos de la Dirección de Tránsito Municipal:
+
+I. Distintivo para discapacitados, con vigencia
+
+de un año 2 salarios mínimos
+
+II. Reglamento de Tránsito Municipal 0.5 salarios mínimos
+
 ###### Artículo 260.
 
 Los productos a que se refieren las fracciones I a IV del artículo anterior se sujetarán a las disposiciones del Libro Sexto de este Código; los de la fracción V, a los contratos que al efecto celebre el Ayuntamiento con la institución crediticia correspondiente; y los de la fracción VI, conforme a los rendimientos que se generen.
@@ -3061,7 +3349,7 @@ Los ingresos extraordinarios se causarán y recaudarán de conformidad con los o
 
 ## TÍTULO PRIMERO. DE LOS SERVICIOS DE TESORERÍA
 
-### CAPÍTULO IV. DE LAS GARANTÍAS A FAVOR O A CARGO DEL MUNICIPIO
+### CAPÍTULO III. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
 
 ###### Artículo 269.
 
@@ -3121,7 +3409,7 @@ El servicio de recaudación y concentración de fondos podrá efectuarse por con
 
 Las instituciones bancarias, crediticias o comerciales pagarán intereses, por concepto de indemnización, en caso de entrega o concentración extemporánea de fondos, conforme a la tasa que al respecto determine la Tesorería, misma que se establecerá en los contratos que con ellos se celebren.
 
-### CAPÍTULO V. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
+### CAPÍTULO IV. DE LAS GARANTÍAS A FAVOR O A CARGO DEL MUNICIPIO
 
 ###### Artículo 274.
 
@@ -3141,7 +3429,7 @@ La Tesorería y las entidades solamente autorizarán el pago de anticipos que es
 
 Todo pago o salida de valores se registrará en la contabilidad de la Tesorería y de las correspondientes entidades.
 
-### CAPÍTULO VI. DE LA COLABORACIÓN ADMINISTRATIVA
+### CAPÍTULO V. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
 
 ###### Artículo 277.
 
@@ -3153,7 +3441,7 @@ Cuando no sea posible determinar la fecha en que legalmente pudo exigirse la dev
 
 Los depósitos de los particulares en las cuentas del Ayuntamiento no generarán intereses a favor de quien los haya constituido o de sus beneficiarios.
 
-### CAPÍTULO I. DEL PRESUPUESTO DE EGRESOS
+### CAPÍTULO VI. DE LA COLABORACIÓN ADMINISTRATIVA
 
 ###### Artículo 278.
 
@@ -3183,7 +3471,7 @@ Las garantías que reciba el Ayuntamiento por contratos administrativos, en conc
 
 Las garantías a que alude el párrafo anterior se podrán hacer efectivas por la Tesorería o la Sindicatura, con sujeción a los procedimientos que establezcan los ordenamientos legales de la materia.
 
-### CAPÍTULO II. DEL GASTO PÚBLICO
+### CAPÍTULO I. DEL PRESUPUESTO DE EGRESOS
 
 ###### Artículo 283.
 
@@ -3253,7 +3541,7 @@ I. Si es sobrante, ordenará su registro en la contabilidad, haciéndolo del con
 
 II. Cuando sea faltante, requerirá al responsable para que efectúe el reintegro en el acto; si el responsable justifica satisfactoriamente la razón del mismo, únicamente dará cuenta pormenorizada a la Tesorería. Si no lo justifica debidamente o no lo restituye, independientemente de cuidar que en el primer supuesto se dé entrada a las cantidades o valores faltantes, informará a la Contraloría o su equivalente, para los efectos que procedan conforme a la ley.
 
-### CAPÍTULO III. DE LA ADMINISTRACIÓN DE LOS RECURSOS
+### CAPÍTULO II. DEL GASTO PÚBLICO
 
 ###### Artículo 294.
 
@@ -3271,7 +3559,7 @@ Los Convenios de Colaboración Administrativa que comprometan al Municipio por u
 
 ## TÍTULO SEGUNDO. DEL PRESUPUESTO DE EGRESOS Y GASTO PÚBLICO
 
-### CAPÍTULO IV. DE LA CONTABILIDAD Y CUENTA PÚBLICA
+### CAPÍTULO III. DE LA ADMINISTRACIÓN DE LOS RECURSOS
 
 #### SECCIÓN I. DE LA INTEGRACIÓN Y ESTRUCTURA DEL PRESUPUESTO DE EGRESOS
 
@@ -3381,7 +3669,7 @@ Cuando, con posterioridad a la aprobación del presupuesto, surjan situaciones e
 
 La formulación de los programas institucionales se sujetará a la estructura programática aprobada por la Tesorería, de conformidad con los lineamientos que para tales fines expida.
 
-### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
+### CAPÍTULO IV. DE LA CONTABILIDAD Y CUENTA PÚBLICA
 
 #### SECCIÓN ÚNICA. DEL EJERCICIO DEL GASTO PÚBLICO MUNICIPAL
 
@@ -3441,7 +3729,7 @@ El Cabildo determinará la forma en que deberán invertirse los subsidios que ot
 
 El Cabildo podrá autorizar la participación municipal en empresas, sociedades y asociaciones civiles y mercantiles, ya sea para su creación o para la adquisición de todo o parte de su capital social o su patrimonio, previa autorización del Congreso.
 
-### CAPÍTULO I. DISPOSICIONES PRELIMINARES
+### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
 
 #### SECCIÓN I. DISPOSICIONES GENERALES EN MATERIA DE ADMINISTRACIÓN DE RECURSOS PÚBLICOS
 
@@ -3621,7 +3909,7 @@ El Ayuntamiento y entidades no comprometerán los recursos del capítulo de serv
 
 Si existen contratos por honorarios, no incrementarán sus percepciones ni obtendrán percepciones adicionales a las establecidas en el contrato respectivo.
 
-### CAPÍTULO II. DE LAS FACULTADES DE LAS AUTORIDADES EN MATERIA DE DEUDA
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
 #### SECCIÓN I. DE LA CONTABILIDAD GUBERNAMENTAL
 
@@ -3805,7 +4093,7 @@ El Ayuntamiento presentará al Congreso, para su estudio, dictamen y aprobación
 
 De no presentar en tiempo la cuenta pública al Congreso, el Presidente, los integrantes de la Comisión de Hacienda y el Tesorero serán penalmente responsables por el delito de abuso de autoridad o incumplimiento del deber legal. La Dirección de Servicios Jurídicos del Congreso presentará de oficio la denuncia ante el Ministerio Público.
 
-### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
+### CAPÍTULO II. DE LAS FACULTADES DE LAS AUTORIDADES EN MATERIA DE DEUDA
 
 #### SECCIÓN I. DEL CONTROL Y EVALUACIÓN
 
@@ -3957,7 +4245,7 @@ Las dependencias y entidades proporcionarán los informes, documentos y, en gene
 
 ## TÍTULO ÚNICO
 
-### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
+### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
 
 ###### Artículo 397.
 
@@ -4015,7 +4303,7 @@ La deuda pública ordinaria se contratará y ejercerá con base en el programa a
 
 Las entidades públicas a que se refieren las fracciones II a IV del artículo 398, contratarán su deuda pública, con base en las autorizaciones específicas del Congreso.
 
-### CAPÍTULO V. DE LAS GARANTÍAS
+### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
 
 ###### Artículo 404.
 
@@ -4087,7 +4375,7 @@ VI. Las demás que le confieran este Código y otras leyes.
 
 A fin de que las entidades a que refieren las fracciones II a IV del artículo 398 de este Código, puedan obtener autorización del Ayuntamiento para la contratación de financiamientos en el caso previsto en la fracción II del artículo 404, deberán proporcionar a la Tesorería sus programas financieros y la información que arroje su capacidad de pago, así como toda aquella que se les solicite, a fin de determinar sus necesidades de crédito y la viabilidad de su pago.
 
-### CAPÍTULO VI. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
+### CAPÍTULO V. DE LAS GARANTÍAS
 
 ###### Artículo 408.
 
@@ -4121,7 +4409,7 @@ XII. Los demás requisitos que fije el Congreso.
 
 El Ayuntamiento, al someter al Congreso el proyecto de Ley de Ingresos, propondrá los montos del endeudamiento neto necesario y acompañará su programa de financiamiento, mismo que contendrá los elementos de juicio suficientes para fundamentar su propuesta, entre los que se encontrará la indicación clara de los recursos que se utilizarán para el pago de los financiamientos.
 
-### CAPÍTULO VII. DE LA AFECTACIÓN DE PARTICIPACIONES FEDERALES
+### CAPÍTULO VI. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
 
 ###### Artículo 410.
 
@@ -4183,7 +4471,7 @@ Las entidades mencionadas en las fracciones II a IV del artículo 398 de este C�
 
 Cuando el Municipio se coordine o asocie a otro o al Estado para la prestación de servicios municipales, se podrán contratar en forma consolidada las operaciones a que se refiere el presente ordenamiento, pero se establecerán por separado las obligaciones a cargo de cada participante y de esta forma se inscribirán en el Registro de Deuda Pública Municipal o Estatal, en su caso.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VII. DE LA AFECTACIÓN DE PARTICIPACIONES FEDERALES
 
 ###### Artículo 420.
 
@@ -4215,7 +4503,7 @@ VI. Que el Ayuntamiento esté al corriente en el cumplimiento de sus obligacione
 
 Todo esto sin perjuicio de los requisitos que para tal efecto señale el Código Financiero para el Estado.
 
-### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 423.
 
@@ -4277,7 +4565,7 @@ VII. Las variaciones de los endeudamientos.
 
 El número progresivo y la fecha de inscripción en el Registro de Deuda Pública Municipal darán preferencia a los acreditantes para los efectos de exigibilidad en el pago de las obligaciones.
 
-> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 ###### Artículo 430.
 
@@ -4301,7 +4589,7 @@ La inscripción en el Registro de Deuda Pública Municipal de las obligaciones a
 
 Las operaciones de crédito autorizadas, sólo podrán modificarse con los mismos requisitos y formalidades relativos a su autorización.
 
-### CAPÍTULO III. DEL INVENTARIO
+### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
 ###### Artículo 434.
 
@@ -4321,7 +4609,7 @@ Para todo lo no previsto en este Libro se estará a lo que señale el Código Fi
 
 ## TÍTULO PRIMERO. DE LOS BIENES EN GENERAL
 
-### CAPÍTULO I. DE LOS BIENES MUEBLES
+### CAPÍTULO III. DEL INVENTARIO
 
 ###### Artículo 436.
 
@@ -4395,7 +4683,7 @@ Los actos de adquisición, administración, uso, aprovechamiento, explotación o
 
 Los actos de planeación, programación, adquisición, almacenaje, control, destino, baja y arrendamiento; así como los procedimientos de rescisión administrativa y de enajenación de bienes muebles municipales se regirán por la ley de la materia.
 
-### CAPITULO II. DE LOS BIENES INMUEBLES
+### CAPÍTULO I. DE LOS BIENES MUEBLES
 
 ###### Artículo 444.
 
@@ -4425,7 +4713,7 @@ XI. Determinar el valor de los lotes de su propiedad susceptibles de enajenació
 
 XII. Las demás que les señalen la Constitución, el presente Código y demás leyes aplicables.
 
-### CAPÍTULO ÚNICO. DE LA RESCISIÓN ADMINISTRATIVA
+### CAPITULO II. DE LOS BIENES INMUEBLES
 
 ###### Artículo 445.
 
@@ -4462,6 +4750,8 @@ Lo anterior, sin perjuicio de la integración y actualización de los propios ca
 La Comisión de Hacienda, de conformidad con lo establecido en la Ley Orgánica del Municipio Libre, ejercerá sus atribuciones para el establecimiento de los procedimientos de integración y recepción de la información para el funcionamiento y actualización del inventario; la comprobación del cumplimiento de las normas a que se refiere este capítulo, así como para verificar la existencia en almacenes de los documentos o bienes que constituyan el inventario y el destino o afectación final de éstos.
 
 ## TÍTULO SEGUNDO. DEL DOMINIO Y ADMINISTRACIÓN DE LOS BIENES
+
+### CAPÍTULO ÚNICO. DE LA RESCISIÓN ADMINISTRATIVA
 
 ###### Artículo 449.
 
@@ -4705,11 +4995,11 @@ El Ayuntamiento, para recuperar los inmuebles como consecuencia de la rescisión
 
 PRIMERO.- El presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
-SEGUNDO.- En términos del artículo 1 del Código número 302 Hacendario Municipal para el Estado de Veracruz-Llave, publicado en la Gaceta Oficial del Estado el 22 de noviembre de 2002, quedará sin aplicación dicho ordenamiento en el Municipio de Veracruz del Estado de Veracruz-Llave, a partir de la vigencia del presente Código.
+SEGUNDO.- En términos del artículo 1 del Código número 302 Hacendario Municipal para el Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del Estado el 22 de noviembre de 2002, quedará sin aplicación dicho ordenamiento en el Municipio de Veracruz del Estado de Veracruz de Ignacio de la Llave, a partir de la vigencia del presente Código.
 
-TERCERO.- Los ordenamientos que aludan a la Ley de Deuda Pública Municipal del Estado de Veracruz-Llave y a la Ley de Hacienda Municipal del Estado de Veracruz-Llave, abrogada y derogada, respectivamente, por el Código número 302 Hacendario Municipal para el Estado de Veracruz-Llave, así como a este último, se entenderán referidos al presente Código.
+TERCERO.- Los ordenamientos que aludan a la Ley de Deuda Pública Municipal del Estado de Veracruz de Ignacio de la Llave y a la Ley de Hacienda Municipal del Estado de Veracruz de Ignacio de la Llave, abrogada y derogada, respectivamente, por el Código número 302 Hacendario Municipal para el Estado de Veracruz de Ignacio de la Llave, así como a este último, se entenderán referidos al presente Código.
 
-CUARTO.- Las disposiciones relativas a la clasificación de predios suburbanos, de conformidad con lo previsto por el Artículo Sexto Transitorio de la Ley de Catastro del Estado de Veracruz-Llave, entrarán en vigor a partir del 1 de enero del año 2004.
+CUARTO.- Las disposiciones relativas a la clasificación de predios suburbanos, de conformidad con lo previsto por el Artículo Sexto Transitorio de la Ley de Catastro del Estado de Veracruz de Ignacio de la Llave, entrarán en vigor a partir del 1 de enero del año 2004.
 
 QUINTO.- En la aplicación de lo dispuesto por el artículo 202 de este Código, el Ayuntamiento cobrará a los establecimientos que operaban con anterioridad a la entrada en vigor del mismo, únicamente la cuota que corresponda a los derechos por el refrendo anual, previa comprobación de dicha circunstancia por parte de los interesados, mediante la exhibición de las cédulas de empadronamiento o de otros documentos probatorios.
 
@@ -4746,3 +5036,9 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 7 DE JULIO DE 2004.
+
+Artículo primero.- El Presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
