@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1991-01-26"
+last_updated: "1992-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE FEBRERO DE 1992.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -985,9 +985,23 @@ La Defensoría de Oficio es una Institución de orden público obligatoria y gra
 
 La Ley organizará el Ministerio Público y la Defensoría de Oficio, fijará sus funciones y la estructura administrativa correspondiente, así como el nombramiento y remoción de sus integrantes.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE FEBRERO DE 1992)</small>
+
+### CAPITULO III.
+
+De la Protección y Defensa de los Derechos Humanos.
+
+> <small>(ADICIONADO Y REUBICADO, P.O. 29 DE FEBRERO DE 1992)</small>
+
 ###### Artículo 86.
 
-(DEROGADO, P.O. 21 DE JUNIO DE 1952)
+La Comisión de Derechos Humanos del Estado de Colima, será el organismo encargado de la protección y defensa en la Entidad, de los derechos humanos que otorgue el orden jurídico mexicano, la que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público Estatal o Municipal que violen estos derechos, con excepción de los del Poder Judicial. Formulará recomendaciones públicas autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
+
+De las inconformidades que se presenten respecto de sus recomendaciones, acuerdos u omisiones, conocerá el organismo equivalente que a nivel Federal esté constituido.
+
+La Comisión no será competente tratándose de asuntos electorales, laborales y jurisdiccionales.
+
+La Ley Reglamentaria determinará la forma de integración, su estructura y funcionamiento de dicho organismo, así como la responsabilidad en que incurran las autoridades, servidores públicos y particulares, que no atiendan los requerimientos de la Comisión.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
@@ -2052,3 +2066,7 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicaci�
 P.O. 26 DE ENERO DE 1991.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE FEBRERO DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
