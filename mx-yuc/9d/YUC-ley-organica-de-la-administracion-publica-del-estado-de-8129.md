@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-la-administracion-publica-del-estado-de-8129"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-03-10"
-last_updated: "1989-11-27"
+last_updated: "1990-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE NOVIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE JULIO DE 1990.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 10 de marzo de 1988.
 
@@ -105,7 +105,9 @@ Los titulares de las dependencias y entidades de la Administración Pública del
 
 Para el estudio, planeación y despacho de los negocios, en los diversos ramos de la Administración Pública del Estado, el Poder Ejecutivo contará con las siguientes Dependencias:
 
-I.- Secretaría de Gobierno;
+> <small>(REFORMADA, D.O. 6 DE JULIO DE 1990)</small>
+
+I.- Secretaría General de Gobierno;
 
 > <small>(REFORMADA, D.O. 19 DE JUNIO DE 1989)</small>
 
@@ -151,13 +153,17 @@ XI.-- Secretaría de Desarrollo Rural;
 
 XII.- Secretaría de Desarrollo Industrial y Comercial; y
 
-> <small>(REFORMADA, D.O. 27 DE NOVIEMBRE DE 1989)</small>
+> <small>(REFORMADA, D.O. 6 DE JULIO DE 1990)</small>
 
-XIII.- Departamento de Desarrollo Turístico.
+XIII.- Secretaría de Protección y Vialidad;
 
-> <small>(REFORMADO, D.O. 27 DE NOVIEMBRE DE 1989)</small>
+> <small>(ADICIONADA, D.O. 6 DE JULIO DE 1990)</small>
 
-Con excepción de la dependencia señalada en la fracción XIII, las demás tendrán igual rango entre ellas.
+XIV.- Departamento de Desarrollo Turístico.
+
+> <small>(REFORMADO, D.O. 6 DE JULIO DE 1990)</small>
+
+Las dependencias señaladas en la fracciones de la XII a la XIII, tendrán igual rango entre ellas.
 
 ###### ARTICULO 12.
 
@@ -213,17 +219,17 @@ El Gobernador del Estado podrá constituir comisiones intersecretariales para el
 
 El titular de cada dependencia, tendrá la facultad de resolver las dudas o controversias en materia de competencia interna, que se susciten en las áreas a su cargo.
 
-> <small>(REFORMADO, D.O. 19 DE JUNIO DE 1989)</small>
+> <small>(REFORMADA, D.O. 6 DE JULIO DE 1990)</small>
 
 ###### ARTICULO 25.
 
-En las faltas temporales del Gobernador del Estado, que no excedan de sesenta días, despachará los asuntos oficiales el Secretario de Gobierno con su firma, la del Oficial Mayor y la del Titular de la Dependencia que corresponda.
+En las faltas temporales del Gobernador del Estado que no excedan de sesenta días, despachará los asuntos oficiales el Secretario General de Gobierno con su firma, la del Oficial Mayor de Gobierno y la del Titular de la dependencia que corresponda.
 
-> <small>(REFORMADO, D.O. 19 DE JUNIO DE 1989)</small>
+> <small>(REFORMADO, D.O. 6 DE JULIO DE 1990)</small>
 
 ###### ARTICULO 26.
 
-En las ausencias del Secretario de Gobierno, hará sus veces el Oficial Mayor.
+En las ausencias del Secretario General de Gobierno, hará sus veces el Oficial Mayor de Gobierno.
 
 ###### ARTICULO 27.
 
@@ -255,9 +261,11 @@ Los tribunales administrativos con autonomía Jurisdiccional, forman parte del G
 
 DEL PODER EJECUTIVO.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 6 DE JULIO DE 1990)</small>
+
 ###### ARTICULO 32.
 
-A la Secretaría de Gobierno corresponde el despacho de los siguientes asuntos:
+A la Secretaría General de Gobierno corresponde el despacho de los siguientes asuntos:
 
 I.- Ejecutar los lineamientos del Gobernador en materia de política interior del Estado;
 
@@ -265,7 +273,9 @@ II.- Coordinar y asesorar a las autoridades municipales en las gestiones que rea
 
 III.- Conducir las relaciones del Poder Ejecutivo con los demás Poderes del Estado, con los Ayuntamientos, con los Poderes de la Unión y con las administraciones públicas de las otras entidades federativas;
 
-IV.- Vigilar la aplicación de las disposiciones legales en materia electoral, de los convenios relativos y presidir la Comisión Electoral del Estado o designar a quien lo hará;
+> <small>(REFORMADA, D.O. 6 DE JULIO DE 1990)</small>
+
+IV.- Vigilar, en el ámbito de su competencia, la aplicación de las disposiciones legales en materia electoral y de los convenios relativos;
 
 V.- Auxiliar al Ejecutivo del Estado en el establecimiento de las políticas en materia de comunicación social;
 
@@ -273,7 +283,7 @@ VI.- Ser el conducto del Ejecutivo para presentar ante el Congreso del Estado la
 
 VII.- Auxiliar a las autoridades federales en lo relativo a migración; cultos religiosos; detonantes y pirotecnia; portación de armas, loterías, rifas y juegos prohibidos, prevención y combate de catástrofes públicas, y campañas contra el narcotráfico;
 
-VIII.- Velar por la protección de los habitantes; del orden público, y la prevención de los delitos, por conducto de la Dirección de Protección y Vialidad;
+VIII.- (DEROGADA, D.O. 6 DE JULIO DE 1990)
 
 IX.- Administrar los Centros de Readaptación Social para los delincuentes y establecer las políticas y programas relativos;
 
@@ -283,7 +293,7 @@ XI.- Vigilar el establecimiento de instituciones y normas preventivas tutelares 
 
 XII.- Proporcionar asesoría jurídica a las dependencias y entidades de la Administración Pública del Estado;
 
-XIII.- Organizar, vigilar y autorizar las funciones de los Notarios Públicos y el Archivo Notarial;
+XIII.- Organizar, Vigilar y autorizar las funciones de los Notarios Públicos y el Archivo Notarial;
 
 XIV.- Conducir la Organización y funcionamiento de la Defensoría Legal, del Registro Civil, de la Dirección del Registro Público de la Propiedad y del Comercio y del Diario Oficial del Gobierno del Estado;
 
@@ -299,7 +309,7 @@ XIX.- Representar en Juicios al Ejecutivo del Estado, con excepción de los de c
 
 XX.- Ejecutar los acuerdos del Gobernador, relativos a expropiaciones, ocupación temporal y limitación de dominio, en los casos de utilidad pública y de acuerdo con la legislación vigente;
 
-XXI.- Ejercer las funciones que al Titular del Ejecutivo correspondan, en las ausencias temporales que no excedan de sesenta días;
+XXI.- Ejercer las funciones que al Titular del Ejecutivo corresponda, en las ausencias temporales que no excedan de sesenta días;
 
 XXII.- Coordinar por instrucciones del Gobernador del Estado, las actividades de otras dependencias;
 
@@ -309,7 +319,7 @@ XXIV.- Ejecutar las medidas políticas, jurídicas y administrativas que el titu
 
 XXV.- Llevar el control y archivo de los convenios que celebre el Ejecutivo del Estado con la Administración Pública Federal y los Ayuntamientos;
 
-XXVI.- Administrar el Archivo General del Estado;
+XXVI.- Administrar el Archivo General del Estado.
 
 XXVII.- Las demás que le confieren la Ley y los reglamentos y los que el Gobernador le asigne.
 
@@ -835,9 +845,25 @@ XV.- Promover la adecuada vigilancia, control y demás acciones en coordinación
 
 XVI.- Las demás que le atribuyan expresamente las leyes y reglamentos respectivos.
 
+> <small>(ADICIONADO, D.O. 6 DE JULIO DE 1990)</small>
+
 ###### ARTICULO 43.
 
-(DEROGADO, D.O. 27 DE NOVIEMBRE DE 1989)
+A la Secretaría de Protección y Vialidad, corresponde el despacho de los siguientes asuntos:
+
+I.- Velar por la protección de los habitantes; del orden público y la prevención de los delitos;
+
+II.- Ejecutar las políticas de la administración pública, en lo referente al orden, seguridad pública, tránsito y vialidad en el Estado;
+
+III.- Vigilar la aplicación de las disposiciones legales establecidas para la regulación de la vialidad, el mantenimiento del orden y la seguridad pública en el Estado;
+
+IV.- Por acuerdo del Gobernador del Estado, establecer y coordinar las políticas para el establecimiento de planes, programas y otros dispositivos para el mantenimiento del orden, seguridad pública, auxilio a damnificados en caso de siniestro o desastre, así como establecer las medidas tendientes a prevenir la delincuencia;
+
+V.- Concertar la colaboración de asociaciones e instituciones de beneficencia, a fin de proporcionar tratamiento a drogadictos y ebrios consuetudinarios que ingresen a las cárceles públicas;
+
+VI.- Promover la coordinación con las dependencias afines de los gobiernos federal y estatal, en materia de seguridad, orden público, tránsito y vialidad; y
+
+VII.- Las demás que le señalen las leyes o reglamentos respectivos.
 
 ###### ARTICULO 44.
 
@@ -1042,6 +1068,22 @@ SEGUNDO.- En un plazo de noventa días deberán realizarse las adecuaciones regl
 TERCERO.- El personal de las dependencias que, en aplicación de este Decreto pase a otra área, en ninguna forma resultará afectado en los derechos laborales que hubiere adquirido.
 
 CUARTO.- Los asuntos que, con motivo de este Decreto, deban pasar de una dependencia a otra, permanecerán en el último trámite que se hubiere efectuado, hasta que las unidades administrativas que los tramiten, se incorporen a la dependencia correspondiente, con excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+QUINTO.- Las disposiciones de las leyes vigentes que, sin oponerse a este Decreto, se refieren a las dependencias de la administración pública estatal, cuya denominación o atribuciones han sido modificadas, continuarán con toda su obligatoriedad y deberán cumplirse en las nuevas dependencias establecidas en el presente, cuyas atribuciones sean iguales o análogas.
+
+Se faculta al Gobernador del Estado, para resolver las cuestiones que puedan suscitarse con motivo de la aplicación de lo previsto en el párrafo anterior.
+
+SEXTO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 6 DE JULIO DE 1990.
+
+PRIMERO.- Se derogan las disposiciones legales que contravengan al presente Decreto.
+
+SEGUNDO.- En un plazo de noventa días deberán realizarse las adecuaciones reglamentarias que correspondan.
+
+TERCERO.- El personal de las dependencias que, en aplicación de este Decreto pase a otra área, en ninguna forma resultará afectado en los derechos laborales que hubiere adquirido.
+
+CUARTO.- Los asuntos que, con motivo de este Decreto, deban pasar de una dependencia a otra, permanecerán en el último trámite que se hubiere efectuado, hasta que las unidades administrativas que los tramiten, se incorporen a la dependencia correspondiente con excepción de los trámites urgentes o sujetos a plazos improrrogables.
 
 QUINTO.- Las disposiciones de las leyes vigentes que, sin oponerse a este Decreto, se refieren a las dependencias de la administración pública estatal, cuya denominación o atribuciones han sido modificadas, continuarán con toda su obligatoriedad y deberán cumplirse en las nuevas dependencias establecidas en el presente, cuyas atribuciones sean iguales o análogas.
 
