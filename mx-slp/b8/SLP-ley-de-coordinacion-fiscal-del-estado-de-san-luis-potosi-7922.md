@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-coordinacion-fiscal-del-estado-de-san-luis-potosi-7922"
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-15"
-last_updated: "1989-12-29"
+last_updated: "1991-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1991.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de San Luis Potosí, el viernes 15 de enero de 1988.
 
@@ -53,9 +53,11 @@ IV.- Constituir los Organismos en materia de Coordinación Fiscal.
 
 V.- Fijar las reglas de colaboración administrativa entre las Autoridades Fiscales del Estado y las de los Municipios.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 2o.
 
-La Legislatura del Estado determinará anualmente las bases, montos y plazos en que los Municipios participarán en la distribución del Fondo General de participaciones y el fondo financiero de nivelación de las participaciones que el Estado perciba en los términos de la Ley de Coordinación Fiscal Federal, publicados en el Periódico Oficial del Estado de San Luis Potosí a más tardar el día 30 de enero del año para que sean vigentes dichas disposiciones.
+La Legislatura del Estado determina anualmente las bases, montos y plazos en que los Municipios participan de la distribución del fondo general de participaciones que el Estado reciba en los términos de la Ley de Coordinación Fiscal Federal, así como la recaudación del impuesto sobre tenencia o uso de vehículos; dichas bases, montos y plazos se deberán publicar en el Periódico Oficial del Estado a más tardar el día treinta y uno de enero del año para que sean vigentes dichas disposiciones.
 
 ###### ARTICULO 3o.
 
@@ -67,27 +69,45 @@ Los Municipios percibirán los recursos del Fondo de Fomento Municipal constitu�
 
 La cantidad que a cada Municipio corresponda del Fondo Generel (sic), será calculado conforme a la siguiente mecánica:
 
-I.- 50% en razón directa a la población que registra el Municipio de acuerdo a los datos obtenidos en el último Censo General de Población y Vivienda.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 1991)</small>
 
-II.- 25% en razón directa a la recaudación efectiva de los impuestos federales coordinados en el perímetro territorial de cada Municipio y correspondiente al ejercicio fiscal del año inmediato al que tenga la (sic)
+I.- Del 20% distribuible se formarán dos fondos: El fondo general y el fondo de contingencai (sic).
 
-III.- 25% en función a las características que cada Municipio represente dentro del plan de Desarrollo Estatal.
+El procedimiento y los factores de distribución de estos dos fondos serán aprobados anualmente por el H. Congreso del Estado.
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 1991)</small>
+
+II.- El monto del fondo general será igual a la suma de participaciones que por este concepto hayan recibido los 56 Ayuntamientos en el año inmediato anterior a aquel para el cual se hace el cálculo, y se distribuirá entre los Municipios de acuerdo con los mismos porcentajes vigentes en ese ejercicio fiscal.
+
+El fondo de contingencia se formará con el 100% del incremento que registre el fondo general para el período en que se efectúe el cálculo, y se distribuirá en relación directa con la población que cada Municipio reporte en el último censo general de población y vivienda.
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 1991)</small>
+
+III.- Si el fondo general de participaciones no tuviera incremento con respecto al año inmediato anterior a aquel para el cual se efectúe el cálculo, el H. Congreso del Estado prorrogará los factores que hubieren correspondido a cada Municipio en ese año.
 
 ###### ARTICULO 5o.
 
-Los Municipios participarán en la distribución del Fondo Financiero de Nivelación en los términos de la mecánica siguiente:
-
-I.- El 50% del Fondo se distribuirá en partes iguales entre la totalidad de los Municipios.
-
-II.- El 50% restante será distribuido entre todos los Municipios, en razón proporcionalmente inversa al monto de las participaciones del Fondo General, recibidas durante el ejercicio fiscal del año inmediato anterior
+(DEROGADO, P.O. 4 DE ENERO DE 1991)
 
 ###### ARTICULO 6o.
 
 Los Municipios participarán en la distribución del Fondo de Fomento Municipal, conforme a las reglas siguientes:
 
-I.- El 50% del Fondo se distribuirá por partes iguales entre la totalidad de los Municipios del Estado.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 1991)</small>
 
-II.- El 50% restante será distribuído entre los Municipios en razón proporcionalmente inversa al monto de las participaciones del Fondo General recibidas en el ejercicio fiscal anterior.
+I.- Con el 100% del fondo de fomento municipal se formarán dos acervos, como sigue:
+
+a).- El primero será igual a la suma total de las participaciones que en este fondo hayan recibido los 56 Ayuntamientos en el año inmediato anterior a aquel para el cual se hace el cálculo, y se distribuirá entre los Municipios de acuerdo con los mismos porcentajes vigentes en ese ejercicio fiscal.
+
+b).- El segundo se formará con el 100% del incremento que registre el fondo de fomento municipal para el período en que se efectúe el cálculo, y se distribuirá en relación directa con la población que cada Municipio reporte en el último censo general de población y vivienda.
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 1991)</small>
+
+II.- El procedimiento y los factores de distribución de estos dos acervos serán aprobados anualmente por el H. Congreso del Estado.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 1991)</small>
+
+III.- Si el fondo de fomento municipal no tuviera incremento con respecto al del año inmediato anterior a aquel para el cual se efectúe el cálculo, el H. Congreso del Estado prorrogará los factores que hubieren correspondido a cada Municipio en ese año.
 
 ###### ARTICULO 7o.
 
@@ -260,3 +280,7 @@ ADALBERTO NOYOLA VAZQUEZ.
 P.O. 29 DE DICIEMBRE DE 1989.
 
 UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1990.
+
+P.O. 4 DE ENERO DE 1991.
+
+UNICO.- El presente Decreto entrará en vigor el día primero de enero de 1991.
