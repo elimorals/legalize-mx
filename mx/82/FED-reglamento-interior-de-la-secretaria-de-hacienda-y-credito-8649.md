@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-hacienda-y-credito-8649
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-11"
-last_updated: "2003-06-17"
+last_updated: "2004-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8649&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-09-06"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 2004.
 
 Reglamento publicado en el Diario Oficial de la Federación el miércoles 11 de septiembre de 1996.
 
@@ -61,29 +61,89 @@ VI. Tesorero de la Federación.
 
 B. Unidades Administrativas Centrales:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 I. Unidad de Coordinación con Entidades Federativas:
 
-I. 1. Dirección General Adjunta de Participaciones, Convenios y Asuntos Jurídicos;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-I. 2. Dirección General Adjunta de Enlace con los Organismos del Sistema Nacional de Coordinación Fiscal;
+I.1. Dirección General Adjunta de Participaciones y Aportaciones Federales;
 
-I. 3. Dirección General Adjunta de Aportaciones Federales, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-I. 4. Dirección General Adjunta de Estudios Estratégicos, Planeación y Vinculación.
+I.2. Dirección General Adjunta de Enlace con los Organismos del Sistema Nacional de Coordinación Fiscal, y
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+I.3. Dirección General Adjunta de Planeación, Financiamiento y Vinculación con Entidades Federativas.
+
+I. 4. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 II. Unidad de Comunicación Social y Vocero;
 
-III. (DEROGADA, D.O.F. 17 DE JUNIO DE 2003)
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+III. Unidad de Inteligencia Financiera:
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+III.1. Dirección General Adjunta de Normatividad y Relaciones Nacionales e Internacionales;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+III.2. Dirección de Normatividad y Relaciones Nacionales e Internacionales;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+III.3. Dirección de Verificación y Cumplimiento;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+III.4. Dirección General Adjunta de Análisis Financiero;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+III.5. Dirección de Análisis Proactivo "1";
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+III.6. Dirección de Análisis Proactivo "2";
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+III.7. Dirección General Adjunta de Procesos Legales;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+III.8. Dirección de Análisis Técnico Contable, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+III.9. Dirección de Formulación y Seguimiento de Denuncias.
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+III. Bis. Coordinación General de Tecnologías de Información y Comunicaciones.
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+III. Ter. Coordinación General de Calidad y Seguridad de la Información.
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 IV. Unidad de Planeación Económica de la Hacienda Pública:
 
-IV. 1. Dirección General Adjunta de Finanzas Públicas, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-IV. 2. Dirección General Adjunta de Estadística de la Hacienda Pública.
+IV.1. Dirección General Adjunta de Finanzas Públicas;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+IV.2. Dirección General Adjunta de Estadística de la Hacienda Pública, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+IV.3. Dirección General Adjunta de Análisis de Políticas Públicas.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -93,7 +153,7 @@ V. 1. Dirección General Adjunta de Deuda Pública;
 
 V. 2. Dirección General Adjunta de Coordinación y Captación de Crédito Interno;
 
-V. 3. Dirección General Adjunta de Financiamiento de Proyectos;
+V. 3. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 V. 4. Dirección General Adjunta de Coordinación y Captación de Crédito Externo;
 
@@ -119,9 +179,13 @@ VII. Unidad de Banca y Ahorro:
 
 VII. 1. Dirección General Adjunta de Banca Múltiple;
 
-VII. 2. Dirección de Asuntos Internacionales de Banca Múltiple;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VII. 3. Dirección de Regulación de Banca Múltiple;
+VII.2. Dirección de Regulación de Intermediarios Financieros No Bancarios;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VII.3. Dirección de Regulación de Intermediarios Financieros Bancarios;
 
 VII. 4. Dirección de Control Jurídico;
 
@@ -129,85 +193,125 @@ VII. 5. Dirección General Adjunta de Análisis Financiero y Vinculación Intern
 
 VII. 6. Dirección de Análisis Financiero de Intermediarios Bancarios;
 
-VII. 7. Dirección de Análisis Financiero de Intermediarios No Bancarios y Vinculación Internacional;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VII. 8. Dirección General Adjunta de Ahorro;
+VII.7. Dirección de Análisis Financiero de Intermediarios No Bancarios;
 
-VII. 9. Dirección de Planeación y Ahorro;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VII. 10. Dirección Jurídica de Ahorro;
+VII.8. Dirección de Vinculación Internacional;
 
-VII. 11. Dirección General Adjunta de Análisis de Legislación Financiera;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VII. 12. Dirección de Análisis de Legislación Financiera;
+VII. 9. Dirección General Adjunta de Ahorro y Regulación Financiera;
 
-VII. 13. Dirección de Estudios de Legislación Financiera;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VII. 14. Dirección General Adjunta de Política Normativa y Asuntos Internacionales en Materia de Lavado de Dinero y Financiamiento de Actos Ilícitos, y
+VII.10. Dirección de Planeación y Ahorro;
 
-VII. 15. Dirección de Política Normativa y Asuntos Internacionales en Materia de Lavado de Dinero y Financiamiento de Actos Ilícitos.
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VII.11. Dirección Jurídica de Regulación Financiera, y
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VII.12. Dirección de Estudios de Ahorro.
+
+VII. 13. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
+
+VII. 14. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
+
+VII. 15. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 VIII. Dirección General de Seguros y Valores:
 
-VIII. 1. Dirección General Adjunta de Planeación y Apoyo Técnico;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VIII.1. Dirección de Análisis de Riesgos;
 
 VIII. 2. Dirección General Adjunta de Seguros y Fianzas;
 
-VIII 3. Dirección General Adjunta de Valores;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VIII. 4. Dirección General Adjunta de Organizaciones y Actividades Auxiliares del Crédito;
+VIII.3. Dirección General Adjunta de Organizaciones y Actividades Auxiliares del Crédito;
 
-VIII. 5. Dirección de Organizaciones y Actividades Auxiliares del Crédito;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VIII. 6. Dirección General Adjunta de Normatividad y Coordinación Sectorial;
+VIII.4. Dirección de Organizaciones y Actividades Auxiliares del Crédito;
 
-VIII. 7. Dirección Jurídica, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VIII. 8. Dirección de Análisis de Riesgos.
+VIII.5. Dirección General Adjunta de Normatividad y Coordinación Sectorial, y
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VIII.6. Dirección Jurídica.
+
+VIII. 7. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
+
+VIII. 8. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 IX. Dirección General de Asuntos Hacendarios Internacionales;
+
+IX-Bis. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 X. Unidad de Política de Ingresos:
 
 X. 1. Dirección General Adjunta de Análisis Económico y Estadística de Ingresos;
 
-X. 2 Dirección General Adjunta de Impuestos Directos e Impuesto al Valor Agregado;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-X. 3. Dirección General Adjunta de Impuestos Especiales y Comercio Exterior;
+X.2. Dirección General Adjunta de Estudios de Política de Ingresos, y
 
-X. 4. Dirección General Adjunta de Estudios Especiales en Materia Impositiva;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-X. 5. Dirección General Adjunta de Derechos, Productos y Aprovechamientos;
+X.3. Dirección General Adjunta de Análisis y Evaluación Técnico Contable en Materia Impositiva y del Sector Financiero.
 
-X. 6. Dirección General Adjunta de Precios y Tarifas;
+X. 4. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-X. 7. Dirección General Adjunta de Estudios Especiales de Ingresos no Tributarios;
+X. 5. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-X. 8. Dirección General Adjunta de Análisis y Evaluación Fiscal;
+X. 6. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-X. 9. Dirección General Adjunta de Planeación Estratégica, y
+X. 7. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-X.10. Dirección General Adjunta de Apoyo Técnico Contable.
+X. 8. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
+
+X. 9. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
+
+X.10. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 XI. Unidad de Legislación Tributaria:
 
-XI. 1. Dirección General Adjunta de Legislación de Impuestos Directos;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XI. 2. Dirección General Adjunta de Legislación de Impuestos Indirectos;
+XI.1. Dirección General Adjunta de Legislación y Estudios Tributarios;
 
-XI. 3. Dirección General Adjunta de Legislación Aduanera;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XI. 4. Dirección General Adjunta de Aplicación de Tratados de Libre Comercio, y
+XI.2. Dirección General Adjunta de Legislación Aduanera y Comercio Exterior, y
 
-XI. 5. Dirección General Adjunta de Legislación de Derechos, Productos y Aprovechamientos.
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XI.3. Dirección General Adjunta de Legislación de Derechos, Productos y Aprovechamientos.
 
-IX. Bis Coordinación de Procesos y Estructuras de Información de la Subsecretaría del Ramo.
+XI. 4. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-XII. Dirección Técnica de Tratados Internacionales;
+XI. 5. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XII. Coordinación General de Estudios y Tratados Internacionales:
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XII.1. Dirección General Adjunta de Tratados Internacionales.
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XII. Bis. Dirección General Adjunta de Precios y Tarifas.
 
 > <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2002)</small>
 
@@ -229,17 +333,21 @@ XVII. Dirección General de Programación y Presupuesto "A";
 
 XVIII. Dirección General de Programación y Presupuesto "B";
 
-XIX. (DEROGADA, D.O.F. 31 DE JULIO DE 2002)
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XX. (DEROGADA, D.O.F. 31 DE JULIO DE 2002)
+XIX. Dirección General Jurídica de Egresos;
 
-> <small>(ADICIONADA, D.O.F. 31 DE JULIO DE 2002)</small>
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXI. Bis Dirección General Jurídica de Egresos;
+XX. Dirección General Adjunta Técnica de Presupuesto;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXI. Ter Coordinación de Procesos y Estructuras de Información de la Subsecretaría de Egresos.
+XXI. Dirección General de Recursos Financieros;
+
+XXI. Bis (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
+
+XXI. Ter (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 XXII. Dirección General de Recursos Humanos;
 
@@ -251,13 +359,11 @@ XXIV. Dirección General de Talleres de Impresión de Estampillas y Valores;
 
 XXV. Dirección General de Promoción Cultural, Obra Pública y Acervo Patrimonial;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXV. Bis Coordinación de Tecnologías de Comunicaciones e Información;
+XXV. Bis. Dirección General Adjunta de Adquisiciones y Contratación de Servicios.
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-XXV. Ter Coordinación de Seguridad de Información y Tecnología;
+XXV. Ter (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 XXVI. Subprocuraduría Fiscal Federal de Legislación y Consulta:
 
@@ -269,33 +375,35 @@ XXVI. 3. Dirección de Legislación y Consulta de Entidades Paraestatales y Serv
 
 XXVI. 4. Dirección General de Legislación y Consulta Fiscal y Presupuestaria;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXVI. 5. Dirección de Legislación y Consulta Presupuestaria;
+XXVI.5. Dirección General Adjunta de Legislación y Consulta Presupuestaria;
 
-XXVI. 6. Dirección de Legislación y Consulta de Asuntos Fiscales, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXVI. 7. Dirección General Adjunta de Evaluación y Control de Legislación y Consulta.
+XXVI.6. Dirección de Legislación y Consulta Presupuestaria;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXVI. 8. Dirección General de Apoyo Técnico;
+XXVI.7. Dirección de Legislación y Consulta de Asuntos Fiscales "A";
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXVI. 9. Dirección de Apoyo Técnico;
+XXVI.8. Dirección de Legislación y Consulta de Asuntos Fiscales "B";
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXVI. 10. Dirección General Adjunta de Evaluación y Control de Legislación y Consulta;
+XXVI.9. Dirección General de Apoyo Técnico;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXVI. 11. Dirección de Evaluación de Legislación y Consulta;
+XXVI.10. Dirección de Apoyo Técnico, y
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXVI. 12. Dirección de Control de Legislación y Consulta;
+XXVI.11. Dirección de Evaluación y Control de Legislación y Consulta.
+
+XXVI. 12. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 XXVII. Subprocuraduría Fiscal Federal de Amparos:
 
@@ -361,43 +469,33 @@ XXIX. 2. Dirección de Defraudación Fiscal;
 
 XXIX. 3. Dirección de Contrabando;
 
-XXIX. 4 Dirección de Delitos Diversos;
+XXIX. 4 (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-XXIX. 5. Dirección General de Delitos Financieros y de Operaciones con Recursos de Procedencia Ilícita;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXIX. 5. Dirección General de Delitos Financieros y Diversos;
 
 XXIX. 6. Dirección de Delitos Financieros;
 
-XXIX. 7. Dirección de Operaciones con Recursos de Procedencia Ilícita;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXIX. 8. Dirección General de Fiscalización;
+XXIX. 7. Dirección de Delitos Diversos;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XXIX. 8. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-XXIX. 9. Dirección General Adjunta de Operación Fiscalizadora;
+XXIX. 9. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XXIX. 10. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-XXIX. 10. Dirección General Adjunta Jurídica;
+XXIX. 11. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XXIX. 12. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-XXIX. 11. Dirección de Información Fiscal y Aduanera "A";
+XXIX. 13. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XXIX. 14. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-XXIX. 12. Dirección de Información Fiscal y Aduanera "B";
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-XXIX. 13. Dirección de Fiscalización "A";
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-XXIX. 14. Dirección de Fiscalización "B";
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-XXIX. 15. Dirección Jurídica;
+XXIX. 15. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -469,17 +567,13 @@ XXXIII. 2 Dirección de Garantías, y
 
 XXXIII. 3 Dirección de Asuntos Contenciosos.
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXXIV. Coordinación de Procesos y Estructuras de Información de la Tesorería de la Federación;
+XXXIV. Dirección General Adjunta de Administración de Cartera y Activos no Monetarios.
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XXXV. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-XXXV. Dirección General Adjunta de Administración de Cartera y Activos no Monetarios; y
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-XXXVI. Direcciones de Técnica Operativa.
+XXXVI. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 XXXVII. (DEROGADA, D.O.F. 17 DE JUNIO DE 2003)
 
@@ -497,7 +591,7 @@ D. Órganos Desconcentrados:
 
 I. Servicio de Administración Tributaria;
 
-II. Servicio de Administración de Bienes Asegurados;
+II. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 III. Instituto Nacional de Estadística, Geografía e Informática;
 
@@ -591,9 +685,9 @@ XXV. Establecer los lineamientos, normas y políticas, mediante los que la Secre
 
 XXVI. Intervenir en los convenios que celebre el Ejecutivo Federal cuando incluyan materias de la competencia de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXVII. Designar al Presidente de la Comisión Nacional Bancaria y de Valores, al de la Comisión Nacional de Seguros y Fianzas, al de la Comisión Nacional del Sistema de Ahorro para el Retiro y al de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros; asimismo, designar al Director General del Servicio de Administración de Bienes Asegurados, así como conocer las resoluciones y recomendaciones de sus Juntas de Gobierno, en los términos de las disposiciones legales correspondientes;
+XXVII. Designar al Presidente de la Comisión Nacional Bancaria y de Valores, al de la Comisión Nacional de Seguros y Fianzas, al de la Comisión Nacional del Sistema de Ahorro para el Retiro y al de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros; así como conocer las resoluciones y recomendaciones de sus Juntas de Gobierno, en los términos de las disposiciones legales correspondientes;
 
 XXVIII. Recibir en acuerdo a los Subsecretarios, al Oficial Mayor, al Procurador Fiscal de la Federación y al Tesorero de la Federación, para el trámite y resolución de los asuntos de su respectiva competencia;
 
@@ -647,13 +741,53 @@ IX. Proporcionar la información y la cooperación técnica que les sean solicit
 
 X. Participar en foros y eventos nacionales e internacionales en asuntos relativos a la materia de su competencia;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XI. Designar, cuando así proceda, a servidores públicos subalternos para representar a la Secretaría en los comités o grupos de trabajo de las entidades paraestatales, órganos desconcentrados y fideicomisos, y
+XI. Designar, cuando así proceda, a servidores públicos subalternos para representar a la Secretaría en los comités o grupos de trabajo de las entidades paraestatales, órganos desconcentrados y fideicomisos;
 
-XII. Las demás que le señalen otras disposiciones legales y las que les confiera directamente el Secretario.
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XII. Coordinar y vigilar, en el ámbito de su competencia, las actividades de capacitación del personal adscrito a sus unidades administrativas, de acuerdo con las normas y principios establecidos por la Dirección General de Recursos Humanos;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIII. Solicitar a la Oficialía Mayor el ejercicio, reembolso, pago y contabilidad del presupuesto autorizado a las unidades administrativas que les sean adscritas;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIV. Solicitar a la Oficialía Mayor la provisión de artículos de oficina, papelería y demás artículos de consumo, así como el mobiliario y maquinaria que requieran las unidades administrativas a ellos adscritas;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XV. Solicitar a la Oficialía Mayor los servicios de mantenimiento menor y mayor a inmuebles y muebles que requieran las unidades administrativas adscritas a su responsabilidad;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XVI. Solicitar a la Oficialía Mayor la ejecución de obras y adaptaciones que requieran las unidades administrativas que les sean adscritas;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XVII. Solicitar a la Oficialía Mayor los servicios públicos que requieran las instalaciones de las unidades administrativas a ellos adscritas;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XVIII. Solicitar a la Oficialía Mayor la prestación de los servicios de archivo, transporte, aseo, mensajería, previsión de siniestros, limpieza, vigilancia y personal de seguridad que requieran las unidades administrativas adscritas a su responsabilidad;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIX. Solicitar a la Coordinación General de Tecnologías de Información y Comunicaciones los servicios de telefonía local, larga distancia, telefonía celular, así como los servicios de telecomunicaciones y, en general, cualquier servicio en materia de tecnologías de la información y comunicaciones que requieran las unidades administrativas que de ellos dependan, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XX. Las demás que le señalen otras disposiciones legales y las que les confiera directamente el Secretario.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+Las solicitudes a que se refieren las fracciones XIII a la XVIII de este artículo, deberán ser atendidas por la Oficialía Mayor de acuerdo con las directrices, normas, criterios y niveles de servicio que la misma debe cumplir de conformidad con la fracción VII del artículo 8o. de este Reglamento.
 
 ### CAPÍTULO IV. DE LAS FACULTADES DEL OFICIAL MAYOR
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 8o.
 
@@ -663,93 +797,55 @@ I. Programar, organizar, dirigir y evaluar las actividades de las unidades admin
 
 II. Recibir en acuerdo a los titulares de las unidades administrativas a su cargo y resolver los asuntos de su competencia, así como conceder audiencia al público;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+III. Proporcionar en el ámbito de su competencia el apoyo administrativo que las unidades administrativas de la Secretaría requieran para programar, presupuestar, organizar y controlar el presupuesto aprobado correspondiente a los asuntos de su competencia;
 
-III. Proporcionar en el ámbito de su competencia, el apoyo administrativo que las unidades de la Secretaría le soliciten para programar, presupuestar, organizar, controlar y evaluar sus actividades respecto a su propio gasto público; coadyuvar con ellas en estas materias, y auxiliar al Secretario en esas funciones respecto de los órganos administrativos desconcentrados y de las entidades del sector cuyo objeto directo sea distinto al de la intermediación financiera;
+IV. Someter a la consideración del Secretario el proyecto de presupuesto anual y el calendario de gasto de las unidades administrativas de la Secretaría, incorporando el correspondiente al de sus órganos desconcentrados y entidades del sector coordinado por la misma, con base en las disposiciones y lineamientos al efecto aplicables, así como registrar presupuestaria y contablemente el ejercicio del gasto de las mismas;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+V. Emitir los oficios de inversión que de acuerdo a la normatividad presupuestaria aplicable le competen, para que las unidades administrativas de la Secretaría puedan ejercer el gasto de inversión, así como, en su caso, aprobar las modificaciones procedentes;
 
-IV. Someter a la consideración del Secretario, el proyecto de presupuesto anual de la Secretaría, con base en las disposiciones y lineamientos al efecto aplicables y en los anteproyectos de presupuesto elaborados por las unidades administrativas, órganos administrativos desconcentrados y entidades del sector; así como registrar presupuestaria y contablemente el ejercicio del gasto;
+VI. Definir los lineamientos para la formulación del Manual de Organización General de la Secretaría y para los manuales de organización específicos, de procedimientos y demás documentos administrativos; consolidarlos e integrarlos al Almacén Único de Procesos e Información del Personal de la Secretaría, con base en lo establecido en el artículo 15-I, fracción XIX de este Reglamento;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+VII. Remitir para aprobación del Secretario, de acuerdo al plan estratégico de la Secretaría y considerando las propuestas de mejora presentadas por las unidades administrativas de la misma, la propuesta de las directrices, normas, criterios y los niveles de servicio que la Oficialía Mayor debe cumplir a las unidades administrativas de la Secretaría en materia de servicios de apoyo administrativo de los recursos humanos, financieros y materiales, así como de los demás servicios de carácter administrativo que sean necesarios para el despacho de los asuntos de las unidades administrativas antes mencionadas; así como remitir para los mismos efectos, la propuesta de los lineamientos que en las citadas materias y en la presupuestaria deban seguir dichas unidades administrativas, incorporando la opinión que al efecto emitan los servidores públicos a que se refiere el artículo 2o., Apartado A de este Reglamento, así como de los titulares de la Unidad de Coordinación con Entidades Federativas, de la Unidad de Comunicación Social y Vocero, de la Unidad de Inteligencia Financiera, de la Coordinación General de Tecnologías de Información y Comunicaciones y de la Coordinación General de Calidad y Seguridad de la Información, excepto en lo relacionado con tecnologías de información y comunicaciones, y de calidad y seguridad de la información;
 
-V. Proponer al Secretario las políticas, directrices, normas o criterios técnicos y administrativos para la mejor organización y funcionamiento de la Secretaría y de las entidades del sector paraestatal coordinado por la propia Secretaría;
+VIII. Verificar el cumplimiento y aplicación de los lineamientos, directrices, normas, criterios y niveles de servicio a que se refiere la fracción anterior;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+IX. Validar el nombramiento del personal de base y de confianza de la Secretaría, autorizar el cambio de adscripción cuando éste se realice de la unidad administrativa de que sea titular alguno de los servidores públicos enumerados en el artículo 2o. de este Reglamento a otra distinta; emitir acuerdos de baja del personal, con base en los lineamientos que fije el Secretario en todo lo relativo al personal al servicio de la misma; conducir las relaciones con el Sindicato Nacional de Trabajadores de Hacienda; participar en el establecimiento de las condiciones generales de trabajo, vigilar su cumplimiento y procurar la difusión de ellas entre el personal de la misma;
 
-VI. Emitir los oficios de inversión que de acuerdo a la normatividad presupuestaria aplicable le competen, para que las unidades administrativas u órganos administrativos desconcentrados de la Secretaría puedan ejercer el gasto de inversión, así como, en su caso, aprobar las modificaciones procedentes;
+X. Proponer al Secretario la designación de representantes de la Secretaría ante la Comisión Mixta de Escalafón, así como mantener al corriente el escalafón y difundirlo entre los trabajadores;
 
-VII. Fijar lineamientos para la formulación del Manual de Organización General de la Secretaría y para los manuales de organización específicos, de procedimientos y demás documentos administrativos;
+XI. Aplicar los sistemas de motivación al personal de la Secretaría, otorgar los estímulos y recompensas que establezcan la ley, las condiciones generales de trabajo y demás disposiciones aplicables, y resolver los casos de excepción y estimular la calidad en el servicio público prestado por la Secretaría, considerando la opinión de las unidades administrativas adscritas a la misma; así como imponer y revocar en base a las condiciones laborales y de acuerdo con los lineamientos que señale el Secretario, las sanciones por incumplimiento a sus obligaciones en materia laboral;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XII. Realizar estudios sobre la organización y funcionamiento de las unidades administrativas a su cargo y proponer las medidas para el continuo mejoramiento de su gestión y de los niveles de servicio a que se refiere la fracción VII de este artículo;
 
-VIII. Proponer al Secretario la política, directrices, normas y criterios para proporcionar los servicios de apoyo técnico y administrativo de los recursos humanos, financieros y materiales, así como en materia de tecnologías de comunicaciones e información y de los demás servicios de carácter administrativo que sean necesarios para el despacho de los asuntos de la Secretaría; definir los lineamientos que en estas materias y en la presupuestal deban seguir las unidades administrativas de la Secretaría y cerciorarse de su cumplimiento y aplicación, auxiliándose, en caso de que se requiera, de las Direcciones de Técnica Operativa y unidades administrativas equivalentes;
-
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-IX. Validar el nombramiento del personal de base y de confianza de la Secretaría, autorizar el cambio de adscripción cuando éste se realice de la unidad administrativa de que sea titular alguno de los servidores públicos enumerados en el artículo 2o. a otra distinta; emitir acuerdos de baja del personal, con base en los lineamientos que fije el Secretario en todo lo relativo al personal al servicio de la misma; conducir las relaciones con el Sindicato Nacional de Trabajadores de Hacienda; participar en el establecimiento de las condiciones generales de trabajo, vigilar su cumplimiento y procurar la difusión de ellas entre el personal de la misma;
-
-X. Proponer al Secretario la designación de representantes de la Secretaría ante la Comisión Mixta de Escalafón; así como mantener al corriente el escalafón y difundirlo entre los trabajadores;
-
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-XI. Aplicar los sistemas de motivación al personal de la Secretaría, otorgar los estímulos y recompensas que establezcan la ley y las condiciones generales de trabajo y los que la Secretaría determine con base en los recursos presupuestales disponibles y resolver los casos de excepción; estimular la calidad en el servicio público prestado por la Secretaría; de igual forma imponer y revocar en base a las condiciones laborales y de acuerdo con los lineamientos que señale el Secretario, las sanciones por incumplimiento a sus obligaciones en materia laboral;
-
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-XII. Realizar estudios sobre la organización y funcionamiento de las unidades administrativas a su cargo y proponer las medidas para el continuo mejoramiento de su gestión;
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-XIII. Establecer, de conformidad con las disposiciones normativas aplicables, las políticas y lineamientos para la contratación de la obra pública y adquisición, arrendamiento o contratación de bienes y servicios que requiera la Secretaría, para contar con instalaciones e inmuebles, muebles y servicios adecuados para sus actividades sustantivas;
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XIII. Establecer, de conformidad con las disposiciones normativas aplicables, para el eficaz cumplimiento de los niveles de servicio a que se refiere la fracción VII de este artículo, las políticas y lineamientos para la contratación de la obra pública y adquisición, arrendamiento o contratación de bienes y servicios que requiera la Secretaría, a efecto de contar con instalaciones e inmuebles, muebles y servicios adecuados para la misma;
 
 XIV. Suscribir, dar por terminado anticipadamente y rescindir en representación de la Secretaría los convenios y contratos que la misma celebre, conforme a las disposiciones normativas aplicables y a los lineamientos de su titular y de cuya ejecución se desprendan obligaciones patrimoniales a cargo de la misma, así como los demás documentos que impliquen actos de administración; supervisar los arrendamientos y adquisiciones que lleve a cabo la Secretaría, la prestación de servicios que contrate y la adecuada conservación de los bienes muebles e inmuebles de su propiedad o de los que bajo cualquier título tenga en su posesión, así como la regularización jurídica y administrativa de los bienes inmuebles conforme a las leyes de la materia;
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 XV. Administrar las bibliotecas, hemerotecas, áreas protocolarias, recintos y museos de la Secretaría o que se encuentren a su cargo; así como formar el Archivo Histórico de la misma;
 
 XVI. Prestar los servicios de orientación e información al público;
 
-XVII. Promover, en coordinación con las unidades administrativas competentes de la Secretaría, el establecimiento y la vigilancia del funcionamiento de comités mixtos de productividad en las entidades del sector coordinado por la propia Secretaría, a fin de atender problemas de administración y de avance tecnológico y el uso de los demás instrumentos que permitan elevar la eficiencia de las mismas;
+XVII. Proponer al Secretario los proyectos de programas que establece el Sistema Nacional de Protección Civil en lo que corresponda a la Secretaría, evaluar los resultados de los programas en ejecución, así como llevar a cabo la comunicación y coordinación permanentes con el citado sistema;
 
-XVIII. Proponer al Secretario los proyectos de programas que establece el Sistema Nacional de Protección Civil en lo que corresponda a la Secretaría, evaluar los resultados de los programas en ejecución, así como llevar a cabo la comunicación y coordinación permanentes con el citado sistema;
+XVIII. Promover ante las unidades administrativas de la Secretaría la atención de los requerimientos formulados por los órganos fiscalizadores;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XIX. Ejecutar las acciones que le soliciten las unidades administrativas de la Secretaría, con base en los niveles de servicio que la Oficialía Mayor debe de cumplir a las mismas en los asuntos laborales relativos a su personal, incluso en el cese del personal; así como asesorar a las citadas unidades administrativas en la práctica y levantamiento de constancias y actas administrativas, y conocer del debido cumplimiento de las obligaciones laborales del personal de la Secretaría para el ejercicio de sus facultades;
 
-XIX. Promover ante las unidades administrativas de la Secretaría la atención de los requerimientos formulados por los órganos fiscalizadores;
+XX. Representar al Titular del Ramo ante el Tribunal Federal de Conciliación y Arbitraje y Juntas Locales y Federales de Conciliación y Arbitraje y demás autoridades del trabajo en las controversias que no estén encomendadas expresamente a otra unidad administrativa de la propia Secretaría, ejercitando las acciones, excepciones y defensas, conciliar, allanarse y transigir en los juicios en que intervenga en representación de la Secretaría, interponiendo los recursos que procedan, ante el citado Tribunal y Juntas mencionadas, absolver posiciones a nombre del Titular del Ramo, ejerciendo la representación en el curso del proceso respectivo;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XXI. Custodiar, controlar, preservar, difundir y administrar el destino de los acervos de la Colección Acervo Patrimonial y la Colección Pago en Especie;
 
-XX. Definir y conducir la política de tecnologías de comunicaciones e información de la Secretaría, así como establecer criterios para fomentar la optimización, racionalización y estandarización en el desarrollo y explotación de las actividades y de los recursos tecnológicos, humanos, materiales y de información que intervienen en proyectos de Tecnologías de Comunicaciones e Información; así como en la adquisición de bienes y servicios informáticos;
+XXII. Conducir la producción de impresos tanto con características de seguridad o sin ellas para el Gobierno Federal, y entidades paraestatales que lo requieran y, en el caso de impresos con fines de comunicación solicitados por las unidades administrativas de la Secretaría, observar los lineamientos que establezca la Unidad de Comunicación Social y Vocero de la misma;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XXIII. Coordinar la operación del Registro de Personas Acreditadas y la operación del Comité de Mejora Regulatoria Interna de la Secretaría;
 
-XX. bis Definir los perfiles que deba cubrir el personal que sea adscrito a la Coordinación de Tecnologías de Comunicaciones e Información, de la Coordinación de Seguridad de Información y Tecnología; así como a las Coordinaciones de Procesos y Estructuras de Información de la Subsecretaría del Ramo, de la Subsecretaría de Egresos y de la Tesorería de la Federación;
+XXIV. Proporcionar, con base en los niveles de servicio a que se refiere la fracción VII de este artículo, el apoyo administrativo que requieran las unidades administrativas de la Secretaría en materia de recursos humanos, financieros y materiales;
 
-XXI. Asesorar a las unidades administrativas de la Secretaría en los asuntos laborales relativos a su personal, incluso en la práctica y levantamiento de constancias y actas administrativas en esta materia, así como conocer del debido cumplimiento de las obligaciones laborales del personal de la Secretaría para el ejercicio de sus facultades;
+XXV. Promover, en coordinación con las unidades administrativas competentes de la Secretaría, el establecimiento y la vigilancia del funcionamiento de comités mixtos de productividad en las entidades del sector coordinado por la propia Secretaría, y
 
-XXII. Representar al Titular del Ramo ante el Tribunal Federal de Conciliación y Arbitraje y Juntas Locales y Federales de Conciliación y Arbitraje y demás autoridades del trabajo en las controversias que no estén encomendadas expresamente a otra unidad administrativa de la propia Secretaría, ejercitando las acciones, excepciones y defensas, conciliar, allanarse y transigir en los juicios en que intervenga en representación de la Secretaría, interponiendo los recursos que procedan, ante el citado tribunal y juntas mencionadas, absolver posiciones a nombre del Titular del Ramo, ejerciendo la representación en el curso del proceso respectivo;
+XXVI. Las demás que le señalan otras disposiciones legales y las que le confiera directamente el Secretario.
 
-XXIII. Custodiar, controlar, preservar, difundir y administrar el destino de los acervos de la Colección Acervo Patrimonial y la Colección Pago en Especie, y
-
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-XXIV. Conducir la producción de impresos tanto con características de seguridad o sin ellas para el Gobierno Federal y entidades paraestatales que lo requieran, y
-
-> <small>(ADICIONADA D.O.F. 17 DE JUNIO DE 2003)</small>
-
-XXV. Coordinar la operación del Registro de Personas Acreditadas y la operación de la Comisión de Mejora Regulatoria de la Secretaría, y
-
-> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-XXVI Las demás que le señalen otras disposiciones legales y las que le confiera directamente el Secretario.
-
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-El Oficial Mayor será asistido por los Directores Generales de Programación, Organización y Presupuesto; de Recursos Humanos; de Recursos Materiales y Servicios Generales; de Talleres de Impresión de Estampillas y Valores y de Promoción Cultural, Obra Pública y Acervo Patrimonial; por los Coordinadores de Tecnologías de Comunicación e Información y de Seguridad de Información y Tecnología; así como por el personal que se requiera para satisfacer las necesidades del servicio.
+El Oficial Mayor será asistido por los Directores Generales de Recursos Financieros; de Recursos Humanos; de Recursos Materiales y Servicios Generales; de Talleres de Impresión de Estampillas y Valores; de Promoción Cultural, Obra Pública y Acervo Patrimonial y el Director General Adjunto de Adquisiciones y Contratación de Servicios; así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
 ### CAPÍTULO V. DE LAS FACULTADES DEL PROCURADOR FISCAL DE LA FEDERACIÓN Y DEL TESORERO DE LA FEDERACIÓN
 
@@ -773,9 +869,9 @@ III. Apoyar al Secretario en la verificación de los proyectos a que se refiere 
 
 IV. Realizar estudios comparados de los sistemas de hacienda pública, de los administrativos y de los de justicia administrativa de otros países, para apoyar la modernización de la hacienda pública;
 
-> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-V. Solicitar de las unidades administrativas de la Secretaría, las propuestas de iniciativa de decretos, reformas, adiciones, derogaciones y abrogaciones a las disposiciones legales en las materias de su respectiva competencia que en su caso se requieran, y coordinar con dichas unidades administrativas la elaboración y presentación de las citadas propuestas ante las instancias correspondientes;
+V. Solicitar información a las unidades administrativas de la Secretaría, de las propuestas de iniciativa de decretos, reformas, adiciones, derogaciones y abrogaciones a las disposiciones legales en las materias de su respectiva competencia que en su caso se requieran, y coordinar con dichas unidades administrativas la elaboración y presentación de las citadas propuestas ante las instancias correspondientes;
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -787,9 +883,9 @@ VII. Intervenir en la materia de su competencia, en los aspectos jurídicos de l
 
 VIII. Establecer el criterio de la Secretaría cuando unidades administrativas de la misma emitan opiniones contradictorias en aspectos legales; y como órgano de consulta interna de ésta, establecer la interpretación a efectos administrativos de las leyes y disposiciones en las materias competencia de la propia Secretaría y los criterios generales para su aplicación, obligatorios para dichas unidades administrativas;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-IX. Proponer medidas para la mejor aplicación de las disposiciones legales de la materia competencia de la Secretaría y para la pronta y expedita administración de justicia en materia de hacienda pública;
+IX. Proponer los criterios, interpretaciones administrativas y medidas para la correcta aplicación de las leyes y demás disposiciones de carácter general en las materias competencia de la Secretaría y para la pronta y expedita administración de justicia en materia de hacienda pública;
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -799,9 +895,9 @@ X. Tramitar la publicación en el Diario Oficial de la Federación de las dispos
 
 X. bis. Compilar la legislación y la jurisprudencia en la materia competencia de la Secretaría, y celebrar convenios por parte de la Procuraduría Fiscal de la Federación para la realización del servicio de préstamo bibliotecario;
 
-> <small>(ADICIONADA, D.O.F. 22 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-X. ter. Integrar la relación de las entidades paraestatales de la administración pública federal y promover anualmente su publicación el Diario Oficial de la Federación;
+X. ter. Integrar la relación de las entidades paraestatales de la Administración Pública Federal y promover anualmente su publicación en el Diario Oficial de la Federación;
 
 XI. Conducir las actividades relativas al Registro Público de Organismos Descentralizados. Calificar los documentos que los organismos descentralizados presenten para su inscripción y, en su caso, expedir las constancias respectivas;
 
@@ -811,9 +907,9 @@ XIII. Registrar las autorizaciones a que se refiere el artículo 6o., fracción 
 
 XIV. Establecer los sistemas y procedimientos conforme a los cuales deba realizar sus actividades; actualizarlos y evaluar sus resultados;
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XV. Representar, con excepción del juicio de amparo cuando se actúe como Autoridad Responsable, el interés de la Federación en controversias fiscales; a la Secretaría y a las autoridades dependientes de la misma en toda clase de juicios, investigaciones o procedimientos ante los tribunales de la República, ante la Comisión Nacional de Derechos Humanos, y ante otras autoridades competentes, en que sean parte, o cuando sin ser parte, sea requerida su intervención por la autoridad que conoce del juicio o procedimiento, o tenga interés para intervenir conforme a sus atribuciones; y, en su caso, poner en conocimiento del Órgano Interno de Control en la Secretaría, los hechos respectivos; ejercitar los derechos, acciones, excepciones y defensas de las que sean titulares, transigir cuando así convenga a los intereses de la Secretaría, e interponer los recursos que procedan ante los citados tribunales y autoridades, siempre que dicha representación no corresponda a otra unidad administrativa de la propia Secretaría o al Ministerio Público Federal y, en su caso, proporcionarle los elementos que sean necesarios;
+XV. Representar, con excepción del juicio de amparo cuando se actúe como Autoridad Responsable, el interés de la Federación en controversias fiscales; a la Secretaría y a las autoridades dependientes de la misma en toda clase de juicios, investigaciones o procedimientos ante los tribunales de la República, ante la Comisión Nacional de los Derechos Humanos, y ante otras autoridades competentes, en que sean parte, o cuando sin ser parte, sea requerida su intervención por la autoridad que conoce del juicio o procedimiento, o tenga interés para intervenir conforme a sus atribuciones; y, en su caso, poner en conocimiento del Órgano Interno de Control en la Secretaría, los hechos respectivos; ejercitar los derechos, acciones, excepciones y defensas de las que sean titulares, transigir cuando así convenga a los intereses de la Secretaría, e interponer los recursos que procedan ante los citados tribunales y autoridades, siempre que dicha representación no corresponda a otra unidad administrativa de la propia Secretaría o al Ministerio Público Federal y, en su caso, proporcionarle los elementos que sean necesarios;
 
 > <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2002)</small>
 
@@ -849,17 +945,19 @@ XXIV. Llevar la instrucción de los procedimientos en que deba intervenir la Sec
 
 XXV. Contestar en representación del Secretario los escritos de los particulares en que ejerzan el derecho de petición, en asuntos de su competencia;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXVI. Ejercer en materia de infracciones o delitos las atribuciones señaladas a la Secretaría en el Código Fiscal de la Federación y en las demás leyes, e imponer las sanciones correspondientes por infracciones a dichas leyes, excepto cuando competa imponerlas a otra unidad o autoridad administrativa de la Secretaría, así como formular las abstenciones para presentar denuncias, querellas, declaratorias de perjuicio o posible perjuicio o peticiones cuando exista impedimento legal o material para ello y proponer la petición de sobreseimiento del proceso; así como otorgar el perdón en los casos que proceda, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento;
+XXVI. Ejercer, en materia de infracciones o delitos, las atribuciones señaladas a la Secretaría en el Código Fiscal de la Federación y en las demás leyes, e imponer las sanciones correspondientes por infracciones a dichas leyes, excepto cuando competa imponerlas a otra unidad o autoridad administrativa de la Secretaría, así como formular las abstenciones para presentar denuncias, querellas, declaratorias de perjuicio o posible perjuicio o peticiones cuando exista impedimento legal o material para ello y, con base en el dictamen favorable que le aporte la Subprocuraduría Fiscal Federal de Investigaciones, proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos que proceda, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento;
 
 XXVII. (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 2001)
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXVIII. Denunciar o querellarse ante el Ministerio Público de la Federación de los hechos que puedan constituir delitos de los servidores públicos de la Secretaría en el desempeño de sus funciones, allegándose los elementos probatorios del caso, dando la intervención que corresponda al Órgano Interno de Control en la Secretaría y a la Secretaría de la Función Pública; así como denunciar o querellarse ante el Ministerio Público competente de los hechos delictuosos en que la Secretaría resulte ofendida o en aquellos en que tenga conocimiento o interés, coadyuvar en estos casos con el propio Ministerio Público, en representación de la Secretaría y, cuando proceda, otorgar el perdón legal, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento y pedir al Ministerio Público competente que solicite el sobreseimiento en los procesos penales;
+XXVIII. Denunciar o querellarse ante el Ministerio Público de la Federación de los hechos que puedan constituir delitos de los servidores públicos de la Secretaría en el desempeño de sus funciones, allegándose los elementos probatorios del caso, dando la intervención que corresponda al Órgano Interno de Control en la Secretaría y a la Secretaría de la Función Pública; así como denunciar o querellarse ante el Ministerio Público competente de los hechos delictuosos en que la Secretaría resulte ofendida o en aquellos en que tenga conocimiento o interés, coadyuvar en estos casos con el propio Ministerio Público, en representación de la Secretaría y, con base en el dictamen favorable que le aporte la Subprocuraduría Fiscal Federal de Investigaciones, proponer la petición de sobreseimiento del proceso u otorgar el perdón legal, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento;
 
-XXIX. Ejercer en materia penal las facultades que señalen a la Secretaría las leyes que rigen a las instituciones de crédito, de seguros y de fianzas, a las organizaciones y actividades auxiliares del crédito, al mercado de valores, al sistema de ahorro para el retiro, así como las previstas en otras leyes de la competencia de esta Secretaría;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXIX. Ejercer en materia penal, en las materias que no estén expresamente asignadas por este Reglamento a otras unidades administrativas de la Secretaría, las facultades que señalen a ella misma las leyes que rigen a las instituciones de crédito, de seguros y de fianzas, a las organizaciones y actividades auxiliares del crédito, al mercado de valores, al sistema de ahorro para el retiro, así como las previstas en otras leyes de la competencia de la Secretaría;
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -893,37 +991,25 @@ XXXVIII. Emitir las opiniones jurídicas, los criterios, interpretaciones admini
 
 XXXVIII bis. Fungir como asesor jurídico de la Comisión Intersecretarial de Gasto Financiamiento respecto de los asuntos que se agenden en las sesiones de dicha Comisión;
 
-> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
+XXXIX. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-XXXIX. Denunciar o querellarse ante el Ministerio Público por la comisión de conductas ilícitas previstas en el artículo 400 Bis del Código Penal Federal y demás disposiciones afines, así como coadyuvar con las autoridades competentes en representación de la Secretaría en los procedimientos penales de que se trate;
+XL. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XLI. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-XL. Ordenar y practicar, en relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleve a cabo en el ámbito de su competencia, las visitas domiciliarias, auditorías, verificaciones de origen, inspecciones, actos de vigilancia, verificaciones, reconocimiento aduanero de las mercancías de comercio exterior y los demás actos que establezcan las disposiciones fiscales y aduaneras, para comprobar el cumplimiento de las obligaciones de los contribuyentes, importadores, exportadores, responsables solidarios, terceros relacionados con los contribuyentes y demás obligados en materia de impuestos, incluyendo los que se causen por la entrada al territorio nacional o salida del mismo de mercancías y medios de transporte, derechos, contribuciones de mejoras, cuotas compensatorias, aprovechamientos, estímulos fiscales, franquicias y accesorios de carácter federal, compensaciones efectuadas y saldos a favor determinados por el contribuyente, cuentas aduaneras y pagos en parcialidades no autorizados, o sin tener derecho a ello; así como para recabar de los servidores públicos, fedatarios y personas autorizadas por la Secretaría que sean terceros relacionados con los contribuyentes, los informes y datos que tengan con motivo de sus funciones; y en materia de determinación de la base de los impuestos generales de importación o exportación, verificar y, en su caso, determinar la correcta clasificación arancelaria de las mercancías de procedencia extranjera, el valor en aduana de las mercancías de importación u otra base gravable que se establezca en las leyes, el valor comercial de las mercancías de exportación, así como comprobar de conformidad con los acuerdos, convenios o tratados en materia fiscal o aduanera de los que México sea parte, el cumplimiento de obligaciones a cargo de importadores y exportadores; revisar el empleo de tuberías, ductos, cables u otros medios susceptibles de conducir mercancías de importación y exportación autorizados o que requieran autorización por autoridad competente; verificar tanto la existencia de los documentos que acrediten la legal estancia y tenencia de las mercancías de comercio exterior, vehículos, aeronaves y embarcaciones de procedencia extranjera, el cumplimiento de las obligaciones en materia de regulaciones y restricciones no arancelarias, normas oficiales mexicanas, cumplimiento de las reglas de origen contenidas en los tratados internacionales; practicar y notificar el embargo precautorio de aquellas mercancías respecto de las cuales no se acredite su legal introducción al país e inicio del procedimiento administrativo en materia aduanera; habilitar almacenes como recintos fiscales para uso de la autoridad fiscal y aduanera; revisar y determinar los precios o montos de contraprestaciones en operaciones con partes relacionadas, y valor declarado en partes vinculadas y resolver los problemas de interpretación y aplicación que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando, entre otros, los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas; imponer multas por el incumplimiento o cumplimiento extemporáneo, total o parcial, a los requerimientos que formule en los términos de esta fracción; inspeccionar los recintos fiscales y fiscalizados así como ejercer sus facultades de comprobación en recintos fiscalizados; prorrogar los plazos en que se deban concluir las visitas domiciliarias;
+XLII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XLIII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-XLI. Requerir, en relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleve a cabo en el ámbito de su competencia, a los contribuyentes, importadores, exportadores, responsables solidarios o terceros con ellos relacionados, o a contadores públicos autorizados que hayan formulado dictámenes o declaratorias para efectos fiscales, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos, otros documentos, instrumentos e informes, y en el caso de dichos contadores, también para que exhiban sus papeles de trabajo, así como recabar de los servidores públicos, fedatarios y personas autorizadas por la Secretaría que sean terceros relacionados con los contribuyentes, los informes y datos que tengan con motivo de sus funciones, todo ello para proceder a su revisión, a fin de comprobar el cumplimiento de las disposiciones legales en las materias señaladas en la fracción XL de este artículo; imponer multas por el incumplimiento o cumplimiento extemporáneo, total o parcial, a los requerimientos que formule en los términos de esta fracción; así como autorizar o negar prórrogas para su presentación. Tratándose de las revisiones previstas en esta fracción, emitir los oficios de observaciones, el de conclusión de la revisión, y en su caso el de prórroga del plazo para concluir la revisión;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2001)</small>
-
-XLII. Allegarse y solicitar toda la información y documentación que sea necesaria para efectos de lo previsto en la fracción XXXIX de este artículo cuando, con motivo de los actos de fiscalización que practique, detecte actos u operaciones con recursos, derechos o bienes respecto de los cuales se presuma que procedan o representen el producto de un probable delito, así como requerir a las autoridades o unidades administrativas competentes los reportes de operaciones sospechosas y relevantes, y las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera, que se relacionen con los respectivos actos de fiscalización;
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-XLIII. Solicitar a las autoridades competentes del Servicio de Administración Tributaria el apoyo que estime necesario para la práctica de los actos de fiscalización que lleve a cabo; solicitar en cualquier momento a las autoridades fiscales y aduaneras que tengan competencia, la continuación hasta su conclusión, de los actos de fiscalización que hubiere ordenado y de los procedimientos administrativos en materia aduanera que hubiere iniciado, así como la determinación, notificación y cobro de los créditos fiscales que resulten de los mismos y demás actos que sean necesarios para hacerlos efectivos; informarles sobre las irregularidades detectadas en el ejercicio de sus facultades de comprobación respecto de la actuación de contadores públicos registrados, agentes y apoderados aduanales por no cumplir con las disposiciones fiscales y aduaneras, para que las autoridades competentes determinen la suspensión o cancelación del registro de dicho contador público, lo exhorten o amonesten, así como para que suspendan o cancelen la patente aduanal o la autorización del apoderado aduanal, aportándoles los elementos necesarios para que dichas autoridades ejerzan sus facultades;
-
-> <small>(ADICIONADA, D.O.F. 10 DE JUNIO DE 1998)</small>
-
-XLIV. Realizar el seguimiento y control de los procesos originados por las querellas, declaraciones de perjuicio, denuncias y peticiones formuladas por la Secretaría, así como de aquellas en que tenga interés;
+XLIV. Realizar, en el ámbito de su competencia, el seguimiento y control de los procesos originados por las querellas, declaratorias de perjuicio, denuncias y peticiones formuladas por la Secretaría, así como de aquéllas en que la misma tenga interés en las materias que no estén expresamente asignadas por este Reglamento a otras unidades administrativas de la propia Secretaría;
 
 > <small>(ADICIONADA, D.O.F. 10 DE JUNIO DE 1998)</small>
 
 XLV. Llevar y mantener actualizado un banco de datos con la información obtenida en ejercicio de sus funciones, sobre la cual se mantendrá absoluta reserva, salvo que dicha información deba suministrarse a las autoridades judiciales en los procesos del orden penal;
 
-> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2002)</small>
-
-XLVI. Elaborar el dictamen técnico contable y la cuantificación del perjuicio ocasionado al fisco federal; designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia; establecer la naturaleza, estado, origen, y demás características de las mercancías de comercio exterior, así como determinar su clasificación arancelaria y solicitar el dictamen que se requiera al agente o apoderado aduanal, al dictaminador aduanero o a cualquier otro perito para ejercer las facultades a que se refiere esta fracción; determinar conforme a la Ley Aduanera el valor en aduana de las mercancías de importación u otra base gravable que se establezca en otras leyes, y el valor comercial de las mercancías de exportación;
+XLVI. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 > <small>(ADICIONADA, D.O.F. 10 DE JUNIO DE 1998)</small>
 
@@ -971,79 +1057,55 @@ LVII. Proponer medidas en la materia de su competencia, para la coordinación en
 
 LVIII. Coadyuvar, dentro del ámbito de su competencia, con las instancias competentes, al seguimiento de las iniciativas de leyes o decretos que presente el Presidente de la República ante el Congreso de la Unión, en las materias competencia de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+LIX. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-LIX. Investigar el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, pudiendo allegarse y requerir toda la información y documentación necesaria para su investigación; solicitar de los contribuyentes, importadores, exportadores, responsables solidarios o terceros con ellos relacionados, datos, informes o documentos, para planear y programar actos de fiscalización en materia fiscal y aduanera; recabar de los servidores públicos, fedatarios y personas autorizadas por la Secretaría que sean terceros relacionados con los contribuyentes, los informes y datos que tengan con motivo de sus funciones, así como ejercer sus facultades para comprobar el cumplimiento de las obligaciones fiscales y aduaneras; allegarse de las pruebas necesarias para que la Secretaría formule la denuncia, querella o declaratoria al Ministerio Público, e intercambiar información con otras autoridades fiscales;
+LX. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-LX. Requerir, recibir y revisar, en relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleve a cabo en el ámbito de su competencia, que los dictámenes formulados por contador público registrado sobre los estados financieros relacionados con las obligaciones fiscales de los contribuyentes, y respecto de operaciones de enajenación de acciones, así como, la declaratoria que emitan para solicitudes de devolución de saldos a favor del impuesto al valor agregado o de cualquier otro tipo de dictamen o declaratoria que tenga repercusión para efectos fiscales, reúnan los requisitos establecidos en las disposiciones fiscales y comprobar el cumplimiento de las disposiciones fiscales y aduaneras de los contribuyentes relativas a impuestos, derechos, contribuciones de mejoras, cuotas compensatorias, aprovechamientos, estímulos fiscales, franquicias, accesorios federales y la actuación profesional del contador público; requerir, recibir, y revisar que los dictámenes de residentes en el extranjero que tengan establecimiento permanente o base fija en el país y los relativos a la enajenación de acciones que lleven a cabo residentes en el extranjero, de conformidad con el título V de la Ley del Impuesto sobre la Renta, incluyendo el requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados o a contadores públicos autorizados que hayan formulado esta clase de dictámenes para que exhiban sus papeles de trabajo, reúnan los requisitos establecidos en las disposiciones fiscales y comprobar el cumplimiento de las disposiciones fiscales y aduaneras de los contribuyentes relativas a impuestos, derechos, contribuciones de mejoras, cuotas compensatorias, aprovechamientos, estímulos fiscales, franquicias, accesorios federales y de la actuación profesional del contador público; así como para determinar los precios o montos de contraprestaciones en operaciones con partes relacionadas, y valor declarado en partes vinculadas y resolver los problemas de interpretación y aplicación que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando, entre otros, los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas; imponer multas por el incumplimiento o cumplimiento extemporáneo, total o parcial, a los requerimientos que formule en los términos de esta fracción; autorizar o negar prórrogas para la presentación de lo requerido;
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-LXI. Notificar los actos relacionados con el ejercicio de sus facultades de comprobación, las multas que correspondan a requerimientos no atendidos así como los atendidos en forma extemporánea, total o parcialmente, y otras multas que imponga, y remitir los créditos fiscales a la unidad administrativa competente del Servicio de Administración Tributaria para su control y cobro;
+LXI. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 LXII. Expedir las constancias de identificación del personal a su cargo y del personal de las unidades administrativas que tenga adscritas, así como designarlos y habilitarlos para la práctica de los actos de fiscalización, notificaciones, diligencias, peritajes u otros actos, previstos en este artículo;
 
-> <small>(ADICIONADA, D.O.F. 31 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-LXIII. Habilitar días y horas inhábiles para la práctica de diligencias o ejercicio de sus facultades de comprobación;
+LXIII. Proceder conforme a los criterios, políticas y lineamientos que establezca la Dirección General Adjunta de Evaluación y Control Procedimental de Amparos para la operación y mantenimiento del sistema integral de seguimiento y evaluación de procesos de la Procuraduría Fiscal de la Federación;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-LXIV. En relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleve a cabo en el ámbito de su competencia, verificar el domicilio y demás datos a que están obligados los contribuyentes en materia de registro federal de contribuyentes, así como los manifestados en solicitudes, avisos y pedimentos, y comprobar que los contribuyentes se localicen en el domicilio señalado en los mismos; ordenar y practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones relacionadas con la presentación de las solicitudes o avisos en materia del registro federal de contribuyentes y, en su caso, solicitar de la autoridad competente del Servicio de Administración Tributaria su inscripción por acto de autoridad; así como declarar que no surten efectos los avisos presentados cuando al revisarse o verificarse no correspondan a lo manifestado, debiendo informar las irregularidades y modificaciones en materia de registro federal de contribuyentes a la unidad administrativa competente del Servicio de Administración Tributaria;
+LXIV. Autorizar a los titulares de las Subprocuradurías Fiscales Federales y de las Direcciones Generales adscritas a la Procuraduría Fiscal de la Federación, el ejercicio de la atribución a que se refiere el artículo 12, fracción V de este Reglamento;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-LXV. Ordenar y practicar el embargo precautorio de recursos y bienes del contribuyente, y en su caso, del responsable solidario, para asegurar el interés fiscal cuando, a su juicio, hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales o en los casos en que la ley lo señale; así como levantarlo cuando proceda; ordenar y practicar el aseguramiento de bienes y contabilidad en los casos en que la ley lo señale, así como levantarlo cuando proceda;
+LXV. Designar a los servidores públicos de la Procuraduría Fiscal de la Federación, para efectos de dar cumplimiento al artículo 16 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, así como para dar contestación a los requerimientos de información que procedan conforme a la citada Ley, y
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-LXVI. Poder tramitar y resolver los procedimientos administrativos en materia aduanera que se deriven del ejercicio de sus facultades de comprobación del cumplimiento de las obligaciones fiscales y aduaneras; ordenar, en los casos que proceda, la entrega de las mercancías embargadas, antes de la conclusión del procedimiento a que se refiere esta fracción, previa calificación y aceptación que realice de la garantía del interés fiscal, así como autorizar la sustitución de garantías en los casos que proceda previa calificación y aceptación de la misma; poner a disposición de la instancia competente, la mercancía de procedencia extranjera que haya pasado a propiedad del fisco federal, como consecuencia de un procedimiento aduanero que sea de su competencia, o que encontrándose sujeta a este procedimiento se encuentre en los casos previstos en el artículo 157 de la Ley Aduanera; declarar en el ejercicio de sus atribuciones, cuando proceda, que las mercancías, vehículos, embarcaciones o aeronaves pasan a propiedad del fisco federal;
+LXVI. Ejercer las atribuciones contenidas en el artículo 7o. de este Reglamento.
 
-> <small>(ADICIONADA, D.O.F. 31 DE JULIO DE 2002)</small>
+LXVII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-LXVII. Dar a conocer a contribuyentes, importadores y exportadores, responsables solidarios y demás obligados, los hechos u omisiones imputables a éstos, conocidos con motivo de la revisión de gabinete, dictámenes o visitas domiciliarias, inspección y verificaciones de origen que les practiquen, y hacer constar dichos hechos y omisiones en el oficio de observaciones o en la última acta parcial que se levante, así como lo que proceda en el acta final o resolución que se emita;
+LXVIII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+LXIX. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-LXVIII. Poder determinar, incluso presuntivamente, los impuestos y sus accesorios de carácter federal; aplicar las cuotas compensatorias; poder determinar los derechos, contribuciones de mejoras, aprovechamientos y sus accesorios que deriven del ejercicio de las facultades a que se refiere este artículo y, en cantidad líquida el monto correspondiente, que resulten a cargo de los contribuyentes, importadores o exportadores, responsables solidarios y demás obligados; poder determinar las cantidades compensadas indebidamente y, en su caso, imponer las multas correspondientes; poder determinar a los contribuyentes, responsables solidarios y demás obligados el crédito fiscal que corresponda por el pago en parcialidades de contribuciones sin tener derecho a ello; poder determinar la responsabilidad solidaria respecto de créditos fiscales que determine o haya determinado con motivo en sus facultades de comprobación; poder determinar los precios o montos de contraprestaciones en operaciones con partes relacionadas, y valor declarado en partes vinculadas y resolver los problemas de interpretación y aplicación que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando, entre otros, los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas; así como remitir a la unidad administrativa competente del Servicio de Administración Tributaria, los créditos fiscales que determine para su control y cobro;
+LXX. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+LXXI. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-LXIX. Poder imponer las sanciones y multas por infracción a las disposiciones fiscales o aduaneras que rigen las materias de su competencia y remitir a la unidad administrativa competente del Servicio de Administración Tributaria para su control y cobro, las sanciones y multas que imponga;
+LXXII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+LXXIII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-LXX. Intervenir en la obtención, análisis y estudio de la información y documentación que se solicite por parte de las autoridades competentes de los países con los que se tengan celebrados acuerdos, acuerdos interinstitucionales, convenios internacionales y tratados; participar conjuntamente con las unidades administrativas competentes del Servicio de Administración Tributaria y de la Secretaría en el ámbito de su competencia, en los grupos de trabajo que se establezcan al amparo de dichos acuerdos, convenios o tratados de los que México sea parte; mantener comunicación con las autoridades fiscales y aduaneras de otros países, para proporcionarles y obtener de ellas la información y documentación en relación con asuntos fiscales o aduaneros de su competencia; así como fungir como autoridad competente, en Organismos Internacionales vinculados con la administración tributaria, en asuntos materia de su competencia, y para ordenar y practicar los actos de comprobación necesarios para la obtención de la información y documentación que resulten procedentes, para proporcionarlos a las autoridades de los países con los que se tengan celebrados acuerdos, acuerdos interinstitucionales, convenios internacionales y tratados, en materia fiscal y aduanera, así como de intercambio de información, interpretarlos y aplicarlos en las materias de su competencia, así como en lo referente a la determinación de precios o montos de contraprestaciones en operaciones con partes relacionadas y partes vinculadas y resolver los problemas que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando, entre otros, los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas;
+LXXIV. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-LXXI. Conocer de las visitas domiciliarias u otras revisiones que mediante el ejercicio de facultades de comprobación sobre el cumplimiento de las disposiciones fiscales y aduaneras en la materia de su competencia, practiquen otras autoridades competentes, en los casos que se descubran hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, de los que le informarán; o en su caso, podrá habilitar personal para conocer de los casos que considere se encuentren en las hipótesis citadas, y las autoridades que correspondan deberán permitir a este personal, el acceso a toda la documentación e información para su revisión y obtención de datos; asimismo, podrá continuar las visitas domiciliarias o revisiones mencionadas en esta fracción que determine requerir de las otras autoridades competentes;
-
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-LXXII. En relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleve a cabo en el ámbito de su competencia, así como con motivo del ejercicio de las facultades de comprobación, solicitar a los contribuyentes, importadores, exportadores, responsables solidarios, o terceros relacionados con el contribuyente, datos, informes o documentos adicionales, que consideren necesarios para aclarar la información asentada en las declaraciones de pago provisional del ejercicio y complementarias de conformidad con el artículo 41-A del Código Fiscal de la Federación; así como imponer multas por el incumplimiento o cumplimiento extemporáneo, total o parcial a los requerimientos que formule en los términos de esta fracción;
-
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-LXXIII. Participar conjuntamente con las unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, en el ámbito de su competencia, en los grupos de trabajo que se creen para lograr la adecuada interpretación y aplicación de la legislación fiscal y aduanera; de aquellos que se establezcan al amparo de los acuerdos, convenios o tratados de los que México sea parte en materia fiscal o aduanera, así como en los que analicen las resoluciones relativas a la metodología utilizada para la determinación de precios o montos de las contraprestaciones en operaciones con partes relacionadas;
-
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-LXXIV. Ejercer, con independencia de las limitaciones que le sean atribuidas a otras autoridades administrativas, las facultades de comprobación previstas en este artículo considerando todo el universo de contribuyentes, importadores, exportadores, responsables solidarios y demás obligados en materia fiscal y aduanera, y
-
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-LXXV. Determinar los criterios, políticas y lineamientos para la operación y mantenimiento del Sistema Integral de Seguimiento y Evaluación de Procesos de la Procuraduría Fiscalde la Federación.
+LXXV. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 En los casos en que el Procurador Fiscal de la Federación así lo considere conveniente, podrá ejercer la representación de la Secretaría o de cualquiera de sus unidades administrativas, en cualquier tipo de juicio o procedimiento judicial o administrativo.
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-El Procurador Fiscal de la Federación, será asistido por los Subprocuradores Fiscales Federales de Legislación y Consulta, de Amparos, de Asuntos Financieros y de Investigaciones; por los Directores Generales, Directores Generales Adjuntos, Director de Técnica Operativa, Directores, Subdirectores y Jefes de Departamento; así como por los abogados de la hacienda pública, investigadores e inspectores que las necesidades del servicio requieran.
+El Procurador Fiscal de la Federación, será asistido por los Subprocuradores Fiscales Federales de Legislación y Consulta; de Amparos; de Asuntos Financieros, y de Investigaciones; por los Directores Generales, Directores Generales Adjuntos, Directores, Subdirectores y Jefes de Departamento; así como por los abogados de la hacienda pública, investigadores e inspectores que las necesidades del servicio requieran.
 
 > <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 1998)</small>
 
@@ -1053,9 +1115,9 @@ Compete al Tesorero de la Federación:
 
 I. Resolver los asuntos relacionados con la aplicación de los ordenamientos legales y administrativos que rigen las actividades de tesorería y de vigilancia de fondos y valores de la Federación, que sean competencia de la Secretaría, excepto los que con carácter indelegable otorga este Reglamento al Secretario;
 
-II. Instrumentar y mantener permanentemente actualizado el Sistema Integral de Administración Financiera Federal, con la participación de las unidades administrativas competentes de la Secretaría, de las demás dependencias de la administración pública federal, de la Procuraduría General de la República y de la Presidencia de la República, además de concentrar la información presupuestaria, financiera y contable de la administración pública federal para fortalecer los procesos de planeación, programación, presupuesto y de programación financiera, así como de control y evaluación financiera;
+II. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-III. Emitir los criterios, lineamientos, procedimientos y demás disposiciones para que las dependencias de la administración pública federal, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República, incorporen al Sistema Integral de Administración Financiera Federal sus registros financieros;
+III. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 IV. Formular liquidaciones de créditos fiscales que tenga radicados, y otros créditos o derechos pecuniarios a favor del Gobierno Federal, radicados en la Tesorería de la Federación, que deba hacer efectivos, salvo que correspondan ser determinados por otra autoridad competente;
 
@@ -1067,9 +1129,13 @@ V. Recaudar, concentrar, custodiar, vigilar y situar los fondos provenientes de 
 
 VI. Ordenar y sustanciar el procedimiento administrativo de ejecución para hacer efectivos los créditos fiscales que le sean radicados, otros créditos a los que por disposición legal debe aplicarse dicho procedimiento y las garantías constituidas para asegurar el interés fiscal por los citados créditos, así como respecto de fianzas a favor de la Federación otorgadas para garantizar obligaciones fiscales a cargo de terceros, incluyendo el cobro de los intereses por pago extemporáneo de dichas fianzas y, en su caso, el cobro de los recargos; ordenar y pagar los gastos de ejecución y los gastos extraordinarios respecto de los citados créditos; así como establecer las reglas para determinar dichas erogaciones extraordinarias;
 
-VII. Hacer los pagos autorizados, de manera compatible con el Sistema Integral de Administración Financiera Federal, que afecten al Presupuesto de Egresos de la Federación y los demás que legalmente deba hacer el Gobierno Federal, en función de las disponibilidades;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VIII. Requerir y llevar, a través del Sistema Integral de Administración Financiera Federal, la cuenta del movimiento de los fondos de la Federación, así como rendir cuentas de sus propias operaciones de ingresos, egresos e inversiones;
+VII. Hacer los pagos autorizados que afecten al Presupuesto de Egresos de la Federación y los demás que legalmente deba hacer el Gobierno Federal, en función de las disponibilidades y conforme a los sistemas establecidos;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VIII. Requerir y llevar la cuenta del movimiento de los fondos de la Federación, así como rendir cuentas de sus propias operaciones de ingresos, egresos e inversiones;
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -1083,7 +1149,7 @@ XI. Calcular y proyectar el flujo de fondos del Gobierno Federal para mantener e
 
 XII. Apoyar, en las materias de su competencia, la coordinación de acciones que efectúen esta Secretaría y la de Contraloría y Desarrollo Administrativo que incidan en el movimiento de fondos federales y su comprobación;
 
-XIII. Recibir, solicitar y, en su caso, manejar, a través del Sistema Integral de Administración Financiera Federal, la información presupuestal, contable, financiera y de otra índole que proporcionen las dependencias y entidades de la administración pública federal a la Secretaría, en la forma y con la periodicidad que al efecto se señale;
+XIII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 XIV. Depurar con los responsables de los ramos presupuestarios, las cuentas correspondientes a los anticipos efectuados, los créditos fiscales de cualquier otro tipo y derechos pecuniarios a favor del Gobierno Federal y cancelarlos cuando proceda, así como depurar las cuentas activas y pasivas que maneje;
 
@@ -1139,7 +1205,9 @@ XXXVI. Aplicar las disposiciones de la Ley del Servicio de Tesorería de la Fede
 
 XXXVII. Autorizar los programas en materia de vigilancia del patrimonio de la Federación y de los fondos y valores de su propiedad o a su cuidado;
 
-XXXVIII. Ordenar y practicar inspecciones, investigaciones, visitas, compulsas, reconocimientos de existencias, análisis de los sistemas de control establecidos y otras formas de comprobación de la adecuada recaudación, manejo, custodia, aplicación o administración de los fondos y valores propiedad o al cuidado de la Federación, por parte de los servidores públicos, sin detrimento de las facultades que correspondan a otras dependencias;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXXVIII. Ordenar y practicar inspecciones, investigaciones, visitas, compulsas, reconocimientos de existencias, análisis de los sistemas de control establecidos y otras formas de comprobación de la adecuada recaudación, manejo, custodia, aplicación o administración de los fondos y valores propiedad o al cuidado de la Federación, por parte de los servidores públicos y auxiliares, así como para la revisión de las operaciones realizadas por los sujetos mencionados, relacionadas con la adquisición de bienes o contratación de servicios vinculados con proyectos de infraestructura productiva de largo plazo que afecten fondos o valores federales, sin detrimento de las facultades que correspondan a otras dependencias;
 
 > <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2002)</small>
 
@@ -1173,25 +1241,35 @@ XLVII. Aprobar las propuestas de cancelación de créditos distintos de los fisc
 
 XLVIII. Dirigir, coordinar y supervisar las actividades del Resguardo Federal de Valores, que tiene por objeto garantizar la custodia, vigilancia, protección y seguridad de los fondos y valores de la Federación o al cuidado del Gobierno Federal.
 
-> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XLIX. Determinar los intereses que se generen cuando las instituciones de fianzas hayan cubierto en forma extemporánea los importes que les hubieren sido requeridos con cargo a las respectivas pólizas de fianza y requerir su pago.
+XLIX. Determinar los intereses que se generen cuando las instituciones de fianzas hayan cubierto en forma extemporánea los importes que le hubieren sido requeridos con cargo a las respectivas pólizas de fianza y requerir su pago;
 
-> <small>(ADICIONADA, D.O.F. 22 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-L. Emitir recomendaciones con el propósito de mejorar los sistemas y procedimientos utilizados por las oficinas que recauden, manejen, administren o custodien fondos o valores de la propiedad o al cuidado del Gobierno Federal.
+L. Emitir recomendaciones con el propósito de mejorar los sistemas y procedimientos utilizados por las oficinas que recauden, manejen, administren o custodien fondos o valores de la propiedad o al cuidado del Gobierno Federal;
 
-El Tesorero de la Federación será asistido por los Subtesoreros de Operación; de Contabilidad y Control Operativo; por el Director General de Vigilancia de Fondos y Valores; por el Director General de Procedimientos Legales; por el Director General de Sistemas Automatizados; por el Director General Adjunto de Administración de Cartera y Activos no Monetarios; por el Director de Técnica Operativa y por los Delegados Regionales de la Tesorería de la Federación, así como por el personal que se requiera para satisfacer las necesidades del servicio.
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+LI. Determinar la unidad administrativa de la Tesorería de la Federación responsable de coordinar y supervisar las actividades del Resguardo Federal de Valores, que tiene por objeto garantizar la custodia, vigilancia, protección y seguridad de los fondos y valores de la Federación o al cuidado del Gobierno Federal durante su traslado, conducción y guarda, salvo en los casos en que dichas facultades se encuentren atribuidas a otras autoridades, de acuerdo con sus propios ordenamientos legales, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+LII. Ejercer las atribuciones contenidas en el artículo 7o. de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+El Tesorero de la Federación será asistido por los Subtesoreros de Operación, y de Contabilidad y Control Operativo; por el Director General de Vigilancia de Fondos y Valores; por el Director General de Procedimientos Legales; por el Director General Adjunto de Administración de Cartera y Activos no Monetarios y por los Delegados Regionales de la Tesorería de la Federación, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
 ### CAPÍTULO VI. DE LAS UNIDADES ADMINISTRATIVAS CENTRALES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 12.
 
 Los titulares de las Coordinaciones Generales, de las Unidades, de las Direcciones Generales, de las Subprocuradurías Fiscales Federales y de las Subtesorerías, tendrán las siguientes facultades:
 
-I. Formular, para aprobación superior, los programas de actividades y los anteproyectos de presupuesto de las áreas que integran sus unidades administrativas; así como organizar, dirigir y evaluar dichas actividades;
+I. Formular, para aprobación superior, los programas de actividades de los asuntos de la competencia de las unidades administrativas a su cargo y los anteproyectos de presupuesto correspondientes, con el apoyo de la Oficialía Mayor el cual se otorgará de acuerdo a las directrices, normas, criterios y niveles de servicio que la misma debe cumplir a las unidades administrativas de la Secretaría a que se refiere el artículo 8o., fracción VII de este Reglamento;
 
 II. Acordar y resolver los asuntos de la competencia de las unidades administrativas a su cargo, así como conceder audiencia al público;
 
@@ -1199,23 +1277,13 @@ III. Coordinarse con las demás unidades administrativas de la Secretaría para 
 
 IV. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia;
 
-V. Ejercer, reembolsar, pagar y contabilizar el presupuesto autorizado para las unidades administrativas a su cargo, de acuerdo a las normas y principios establecidos por las autoridades competentes de la Oficialía Mayor;
+V. Autorizar los nombramientos del personal de base y de confianza de las unidades administrativas a su cargo, condicionados a la validación de la Dirección General de Recursos Humanos; proponer a la Oficialía Mayor el cese del personal de confianza y sindicalizado a su cargo, así como autorizar, ejecutar y controlar los demás asuntos relativos al personal de confianza con el apoyo de la Oficialía Mayor.
 
-VI. Autorizar los nombramientos del personal de base y de confianza de las unidades administrativas a su cargo, condicionados a la validación de la Dirección General de Recursos Humanos; cesar al personal de confianza y proponer a las autoridades competentes de la Oficialía Mayor el cese del personal sindicalizado cuando proceda; así como autorizar, ejecutar y controlar los demás asuntos relativos al personal de confianza, de acuerdo a los lineamientos que señale la Oficialía Mayor y otras autoridades competentes; y proponer a la Oficialía Mayor los trámites relacionados con el personal sindicalizado;
+Las acciones que la Oficialía Mayor deba realizar por virtud de esta fracción, se regirán por las directrices, normas, criterios y niveles de servicio a que se refiere el artículo 8o., fracción VII de este Reglamento;
 
-VII. Coordinar y vigilar las prestaciones de carácter social y cultural y las actividades de capacitación del personal de acuerdo a las normas y principios establecidos por la Dirección General de Recursos Humanos;
+VI. Evaluar y, en su caso, proponer modificaciones a los niveles de servicio a que se refiere la fracción VII del artículo 8o. de este Reglamento, y
 
-VIII. Supervisar las adquisiciones de artículos de oficina, papelería y demás artículos de consumo que realicen las unidades administrativas a su cargo y autorizar el trámite de adquisición de mobiliario, equipo de oficina y maquinaria, de acuerdo a las normas y criterios establecidos por la Dirección General de Recursos Materiales y Servicios Generales;
-
-IX. Supervisar los servicios de mantenimiento menor y mayor a inmuebles y muebles que requieran las unidades administrativas a su cargo, de acuerdo a las normas y criterios establecidos por la Dirección General de Recursos Materiales y Servicios Generales;
-
-X. Proyectar y supervisar la ejecución de obras y adaptaciones que requieran las unidades administrativas a su cargo, de acuerdo a las normas y criterios establecidos por la Oficialía Mayor;
-
-XI. Autorizar la contratación de los servicios públicos que requieran las instalaciones de las unidades administrativas a su cargo, de acuerdo a las normas y criterios establecidos por la Dirección General de Recursos Materiales y Servicios Generales;
-
-XII. Vigilar y supervisar la prestación de los servicios de archivos, microfilmación, fotocopiado, transporte, aseo, mensajería y previsión de siniestros, contratar y vigilar el servicio de limpieza de áreas comunes, y proporcionar el servicio de vigilancia y seguridad que requieran las unidades administrativas a su cargo, de acuerdo a las normas y criterios establecidos por la Dirección General de Recursos Materiales y Servicios Generales, y
-
-XIII. Las demás facultades que en el ámbito de sus respectivas competencias atribuyan a la Secretaría las leyes y reglamentos aplicables o les confiera el Secretario.
+VII. Las demás facultades que en el ámbito de sus respectivas competencias atribuyan a la Secretaría las leyes y reglamentos aplicables o les confiera el Secretario.
 
 > <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -1257,39 +1325,83 @@ XVI. Coadyuvar con la Unidad de Crédito Público en el diseño de las directric
 
 XVII. Elaborar los anteproyectos de iniciativas de ley y proyectos de reglamentos relativos a las materias de coordinación, inclusive en materia fiscal con Entidades Federativas y Municipios;
 
-XVIII. Representar al Titular de la Secretaría en asuntos de coordinación con Entidades Federativas y Municipios, en materia de ingreso, gasto y deuda, siempre y cuando no formen parte de las facultades indelegables del Secretario y no estén asignadas expresamente a otra unidad administrativa de la misma, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XIX. Ser el enlace con los Organismos del Sistema Nacional de Coordinación Fiscal, así como participar en la evaluación de la gestión del Instituto para el Desarrollo Técnico de las Haciendas Públicas.
+XVIII. Representar al Titular de la Secretaría en asuntos de coordinación con Entidades Federativas y Municipios, en materia de ingreso, gasto y deuda, siempre y cuando no formen parte de las facultades indelegables del Secretario y no estén asignadas expresamente a otra unidad administrativa de la misma;
 
-El Jefe de la Unidad de Coordinación con Entidades Federativas, será asistido por las Direcciones Generales Adjuntas referidas en los artículos 13-A a 13-D de este Reglamento, así como por la Dirección de Instrumentación Legal.
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+XIX. Ser el enlace con los Organismos del Sistema Nacional de Coordinación Fiscal, así como participar en la evaluación de la gestión del Instituto para el Desarrollo Técnico de las Haciendas Públicas, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XX. Ejercer las facultades a que se refieren las fracciones de la XIII a la XIX del artículo 7o. de este Reglamento.
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+El Jefe de la Unidad de Coordinación con Entidades Federativas, será asistido por las Direcciones Generales Adjuntas referidas en los artículos 13-A, 13-B y 13-D de este Reglamento, así como por la Dirección de Instrumentación Legal.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 13-A.
 
-Compete a la Dirección General Adjunta de Participaciones:
+Compete a la Dirección General Adjunta de Participaciones y Aportaciones Federales:
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 I. Administrar en forma integral la partida presupuestaria de participaciones a Entidades Federativas y Municipios, de conformidad a lo establecido al efecto en la Ley de Coordinación Fiscal;
 
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
 II. Calcular, distribuir, liquidar y registrar contablemente las cantidades que correspondan a las Entidades Federativas y a los Municipios, por concepto de participaciones en ingresos federales derivadas de la Ley de Coordinación Fiscal;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 III. Liquidar y registrar contablemente los incentivos que correspondan a las Entidades Federativas y a los Municipios derivados de la Ley de Coordinación Fiscal;
 
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
 IV. Llevar el registro y dar trámite a las afectaciones que correspondan a las participaciones de las Entidades Federativas y Municipios, en los términos de la Ley de Coordinación Fiscal;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 V. Resolver, en la materia de su competencia, los asuntos que las disposiciones legales que rigen las actividades de coordinación con Entidades Federativas y Municipios atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario y no estén asignadas expresamente a otra unidad administrativa de la misma;
 
-VI. Participar, con las unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria en la evaluación y promoción del cumplimiento recíproco de las obligaciones derivadas del Ámbito tributario de la Ley de Coordinación Fiscal, de los convenios y acuerdos, así como sus anexos, declaratorias y demás disposiciones legales relativas al Sistema Nacional de Coordinación Fiscal;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VII. Participar con las unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria en la promoción de la colaboración y la concertación con las autoridades de las Entidades Federativas en los asuntos relativos a la coordinación en materia fiscal;
+VI. Participar, con las unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria en la evaluación y promoción del cumplimiento recíproco de las obligaciones derivadas del ámbito tributario de la Ley de Coordinación Fiscal, de los convenios y acuerdos, así como sus anexos, declaratorias y demás disposiciones legales relativas al Sistema Nacional de Coordinación Fiscal; así como en materia de gasto público federalizado;
 
-VIII. Proponer políticas de aplicación, normatividad y coordinación en materia de asignaciones presupuestarias a las Entidades Federativas por participaciones e incentivos;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-IX. Asistir a las unidades administrativas de la Secretaría y del Servicio de Administración Tributaria en sus relaciones con los organismos en materia de coordinación fiscal y servir de enlace, en la materia de su competencia, entre las autoridades fiscales de las Entidades Federativas y las unidades administrativas de la Secretaría y del Servicio de Administración Tributaria;
+VII. Participar con las unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria en la promoción de la colaboración y la concertación con las autoridades de las Entidades Federativas en los asuntos relativos a la coordinación en materia fiscal; así como en materia de gasto público federalizado;
 
-X. Asesorar, en la materia de su competencia, a las Entidades Federativas y Municipios cuando lo soliciten, en el establecimiento de los sistemas de administración impositiva, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XI. Diseñar, con la participación que corresponda a otras unidades competentes de la Secretaría y del Servicio de Administración Tributaria, los sistemas para un eficiente movimiento de los fondos por participaciones e incentivos.
+VIII. Proponer políticas de aplicación, normatividad y coordinación en materia de asignaciones presupuestarias a las Entidades Federativas por participaciones e incentivos; así como en materia de gasto público federalizado;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+IX. Asistir a las unidades administrativas de la Secretaría y del Servicio de Administración Tributaria en sus relaciones con los organismos en materia de coordinación fiscal y de gasto público federalizado y servir de enlace, en la materia de su competencia, entre las autoridades fiscales de las Entidades Federativas y las unidades administrativas de la Secretaría y del Servicio de Administración Tributaria;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+X. Asesorar, en la materia de su competencia, a las Entidades Federativas y Municipios cuando lo soliciten, en el establecimiento de los sistemas de administración impositiva, así como en materia de gasto público federalizado;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XI. Diseñar, con la participación que corresponda a otras unidades competentes de la Secretaría y del Servicio de Administración Tributaria, los sistemas para un eficiente movimiento de los fondos por participaciones e incentivos, así como los derivados de los convenios de colaboración administrativa en materia de gasto público federalizado;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XII. Llevar el registro y seguimiento sobre el gasto público federalizado;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIII. Participar en la elaboración de proyectos de convenios, acuerdos, criterios de operación y demás disposiciones legales relativas a la coordinación con las Entidades Federativas y Municipios en materia de gasto público federalizado, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIV. Coadyuvar con las unidades administrativas de la Secretaría en la evaluación del gasto público federalizado.
 
 > <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -1327,29 +1439,9 @@ XIV. Integrar el Programa Operativo Anual y elaborar los avances programáticos-
 
 XV. Participar en la evaluación de la gestión del Instituto para el Desarrollo Técnico de las Haciendas Públicas.
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
-
 ###### Artículo 13-C.
 
-Compete a la Dirección General Adjunta de Aportaciones Federales:
-
-I. Llevar el registro y seguimiento sobre el gasto público federalizado;
-
-II. Participar en la elaboración de proyectos de convenios, acuerdos, criterios de operación y demás disposiciones legales relativas a la coordinación con las Entidades Federativas y Municipios en materia de gasto público federalizado;
-
-III. Participar en la evaluación y promoción del cumplimiento recíproco de las obligaciones derivadas de las disposiciones legales relativas en materia de gasto público federalizado;
-
-IV. Participar en la promoción de la colaboración y la concertación con las autoridades de las Entidades Federativas en los asuntos relativos a su competencia;
-
-V. Proponer políticas de aplicación, normatividad y coordinación en materia de gasto público federalizado a las Entidades Federativas;
-
-VI. Asistir a las unidades administrativas de la Secretaría en sus relaciones con los organismos en materia de gasto público federalizado y servir de enlace, en materia de su competencia, entre las autoridades fiscales de las Entidades Federativas y las unidades administrativas de la Secretaría;
-
-VII. Asesorar a las Entidades Federativas y Municipios cuando lo soliciten, en materia de gasto público federalizado;
-
-VIII. Coadyuvar en el diseño de sistemas para un eficiente movimiento de los fondos derivados de los convenios de colaboración administrativa en materia de gasto público federalizado, y
-
-IX. Coadyuvar con las unidades administrativas competentes de la Secretaría en la evaluación del gasto público federalizado.
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 > <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -1385,21 +1477,29 @@ Compete a la Unidad de Comunicación Social y Vocero:
 
 I. Diseñar políticas, programas y actividades destinadas a promover y fortalecer la imagen de la Secretaría en el país y en el extranjero, así como mantener permanentemente informados a los servidores públicos de la misma y del Servicio de Administración Tributaria sobre las actividades del Gobierno de la República y los sucesos relevantes del acontecer nacional e internacional;
 
-II. Dirigir y evaluar las actividades de información, de difusión y de relaciones públicas de la Secretaría y del Servicio de Administración Tributaria a través de los medios de comunicación, nacionales y extranjeros;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+II. Dirigir y evaluar las actividades de información, de difusión, de comunicación interna y de relaciones públicas de la Secretaría y del Servicio de Administración Tributaria a través de los medios de comunicación, nacionales y extranjeros;
 
 III. Formular, para aprobación superior, los programas de comunicación social de la Secretaría y del Servicio de Administración Tributaria, con la intervención que corresponda a la Secretaría de Gobernación;
 
-IV. Elaborar para aprobación superior, los programas de actividades en materia de información, difusión y relaciones públicas de la Secretaría y del Servicio de Administración Tributaria;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+IV. Elaborar para aprobación superior, los programas de actividades en materia de información, difusión, comunicación interna y relaciones públicas de la Secretaría y del Servicio de Administración Tributaria;
 
 V. Aprobar el diseño de las campañas de difusión de interés de la Secretaría y del Servicio de Administración Tributaria; intervenir en la contratación y supervisión de los medios de comunicación que se requieran para su realización, así como ordenar la elaboración de los elementos técnicos necesarios;
 
 VI. Evaluar las campañas publicitarias de la Secretaría, del Servicio de Administración Tributaria y de las entidades paraestatales del sector coordinado por ella;
 
-VII. Conducir las relaciones con los medios de comunicación, así como preparar los materiales de difusión de la Secretaría y del Servicio de Administración Tributaria y someterlos a la consideración de las unidades administrativas correspondientes;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VII. Conducir las relaciones con los medios de comunicación, así como preparar los materiales de difusión internos y externos de la Secretaría y del Servicio de Administración Tributaria y someterlos a la consideración de las unidades administrativas correspondientes;
 
 VIII. Organizar y supervisar entrevistas y conferencias con la prensa nacional e internacional relacionadas con asuntos de la competencia de la Secretaría y del Servicio de Administración Tributaria, así como emitir boletines de prensa;
 
-IX. Integrar los programas de información, difusión y relaciones públicas de las unidades administrativas de la Secretaría y del Servicio de Administración Tributaria y dirigir los servicios de apoyo en esta materia;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+IX. Integrar los programas de información, difusión, comunicación interna y relaciones públicas de las unidades administrativas de la Secretaría y del Servicio de Administración Tributaria y dirigir los servicios de apoyo en esta materia;
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -1407,7 +1507,9 @@ X. Editar y distribuir los libros, ordenamientos jurídicos en materia de hacien
 
 XI. Coordinar y apoyar, a solicitud de las unidades administrativas de la Secretaría y del Servicio de Administración Tributaria, la celebración de conferencias, congresos y seminarios relacionados con las materias competencia de la misma;
 
-XII. Establecer enlace con las entidades paraestatales del sector coordinado por la Secretaría, y con los órganos desconcentrados de la misma, con el propósito de unificar criterios relacionados con la información y difusión que compete a la Unidad de Comunicación Social;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XII. Establecer enlace con las entidades paraestatales del sector coordinado por la Secretaría, y con los órganos desconcentrados de la misma, con el propósito de unificar criterios relacionados con la información y difusión en las materias de su competencia;
 
 XIII. Informar periódicamente a través de conferencias de prensa, entrevistas y presentaciones, sobre aspectos destacados de la evolución económica y financiera;
 
@@ -1419,13 +1521,395 @@ XVI. Establecer coordinación y enlace con las distintas áreas de la Secretarí
 
 XVII. Atender las peticiones de información en cuanto a política económica a nivel nacional e internacional;
 
-XVIII. Coordinar los actos y eventos en los cuales el secretario y demás servidores públicos de la Secretaría, presenten información o declaraciones, con excepción de la que se presente al Congreso de la Unión, en que actuará en coordinación con la Unidad de Enlace con el Congreso de la Unión; en especial planear y apoyar la coordinación de las giras del Secretario, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XIX. Fungir como vocero de la Secretaría.
+XVIII. Coordinar los actos y eventos en los cuales el Secretario y demás servidores públicos de la Secretaría, presenten información o declaraciones; en especial planear y apoyar la coordinación de las giras del Secretario;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIX. Fungir como vocero de la Secretaría, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XX. Ejercer las facultades a que se refieren las fracciones de la XIII a la XIX del artículo 7o. de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 15.
 
-(DEROGADO, D.O.F. 17 DE JUNIO DE 2003)
+Compete a la Unidad de Inteligencia Financiera:
+
+I. Proponer y emitir opinión a las demás unidades administrativas de la Secretaría sobre las disposiciones de carácter general que, en términos de la legislación aplicable, ésta deba emitir en relación con:
+
+a) El establecimiento de medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código;
+
+b) La presentación a la Secretaría de reportes sobre los actos, operaciones y servicios que las entidades obligadas a ello realicen con sus clientes y usuarios, relativos al inciso anterior, así como sobre todo acto, operación o servicio que, en su caso, realicen los miembros del consejo de administración, directivos, funcionarios, empleados y apoderados de dichas personas obligadas, que pudiesen ubicarse en el supuesto previsto en el inciso a) anterior o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas, y
+
+c) Los lineamientos sobre el procedimiento y criterios que las personas deban observar en términos de ley respecto del adecuado conocimiento de sus clientes y usuarios; la información y documentación que, en su caso, dichas personas deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite la identidad de sus clientes; la forma en que las mismas personas deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados en términos de lo anterior; así como los términos para proporcionar capacitación al interior de las personas obligadas en términos de ley sobre la materia objeto de esta fracción;
+
+II. Participar, en coordinación con las unidades administrativas competentes de la Secretaría, en el estudio y elaboración de anteproyectos de iniciativas de leyes o decretos relativos a los actos indicados en la fracción I anterior;
+
+III. Emitir opiniones jurídicas a las unidades administrativas competentes de la Secretaría sobre la interpretación para efectos administrativos de las disposiciones de carácter general señaladas en la fracción I de este artículo, así como de las disposiciones legales de las que aquéllas emanen;
+
+IV. Diseñar, en coordinación con los órganos desconcentrados competentes de la Secretaría, las formas oficiales para la presentación de reportes a que se refieren las disposiciones de carácter general a que aluden los artículos señalados en la fracción I anterior;
+
+V. Verificar, en coordinación con los órganos desconcentrados competentes de la Secretaría, el cumplimiento de las disposiciones de carácter general a que se refiere la fracción I de este artículo, por parte de las personas obligadas a ello en términos de la legislación aplicable;
+
+VI. Recibir, capturar y analizar, de conformidad con las disposiciones de carácter general a que se refiere la fracción I de este artículo, la información contenida en los reportes previstos en dichas disposiciones, y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera;
+
+VII. Requerir y recabar de las personas sujetas a las disposiciones de carácter general señaladas en la fracción I de este artículo, directamente o a través de las instancias correspondientes, según sea el caso, información y documentación relacionada con los reportes previstos en la fracción anterior, así como obtener información adicional de otras personas o fuentes para el ejercicio de sus atribuciones;
+
+VIII. Requerir a las unidades administrativas de la Secretaría para que colaboren en el ejercicio de las facultades conferidas a la Unidad de Inteligencia Financiera y proporcionen la información y documentación necesaria para ello, incluido el acceso a la base de datos que contenga la información que se genere con motivo del ejercicio de tales facultades, en los términos y plazos requeridos por la propia Unidad de conformidad con las disposiciones aplicables;
+
+IX. Evaluar y aprobar, en su caso, los planes de trabajo y desarrollo de sistemas de información y criterios tecnológicos mínimos que, en términos de la legislación aplicable, deban establecer las personas obligadas a presentar los reportes a que se refieren las disposiciones de carácter general señaladas en la fracción I de este artículo, así como vigilar su observancia por parte de las mismas personas;
+
+X. Recibir, recopilar y analizar, en el ámbito de su competencia, como atribución de la Secretaría, las pruebas, constancias, reportes, documentación e informes sobre la comisión de las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código y demás disposiciones afines, integrando los expedientes respectivos;
+
+XI. Coordinarse con las autoridades fiscales para la práctica de los actos de fiscalización que resulten necesarios con motivo del ejercicio de las facultades conferidas conforme al presente artículo;
+
+XII. Proporcionar y requerir a las autoridades competentes nacionales la información y documentación necesaria para el desarrollo de sus facultades;
+
+XIII. Denunciar o querellarse ante el Ministerio Público por las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, allegándose los elementos probatorios del caso;
+
+XIV. Coadyuvar con las autoridades competentes, en representación de la Secretaría, en los procesos penales relativos a las conductas a que se refiere la fracción anterior de este artículo;
+
+XV. Realizar, en el ámbito de su competencia, el seguimiento y control de los procesos originados por las denuncias y querellas formuladas por la Secretaría, así como de aquéllas en que ésta tenga interés;
+
+XVI. Tramitar y resolver en el ámbito de su competencia los requerimientos y resoluciones de autoridades jurisdiccionales o administrativas, incluyendo al Ministerio Público;
+
+XVII. Fungir como enlace entre las unidades administrativas y órganos desconcentrados de la Secretaría, y las diversas dependencias y entidades de la Administración Pública Federal en los asuntos de su competencia, así como negociar, celebrar e implementar acuerdos con esas instancias;
+
+XVIII. Hacer del conocimiento de los órganos desconcentrados de la Secretaría a cargo de la supervisión de los integrantes del sistema financiero el incumplimiento o cumplimiento extemporáneo de las disposiciones de carácter general a que se refiere la fracción I de este artículo, con el objeto de que, en su caso, dichas instancias ejerzan oportunamente sus facultades de supervisión;
+
+XIX. Solicitar a los órganos desconcentrados indicados en la fracción anterior informes sobre el resultado del ejercicio de las facultades de supervisión a que se refiere este artículo;
+
+XX. Intervenir en la negociación de los tratados internacionales en la materia de su competencia y celebrar los acuerdos que, con base en aquéllos o en las disposiciones aplicables, no requieren la firma del Secretario, con la participación que corresponda a otras dependencias de la Administración Pública Federal;
+
+XXI. Participar en foros y eventos nacionales e internacionales en asuntos relativos a la materia de su competencia;
+
+XXII. Fungir como enlace entre la Secretaría y los países u organismos internacionales o intergubernamentales con los que se tengan celebrados convenios o tratados en las materias de su competencia e implementar los acuerdos adoptados derivados de dicha función de enlace;
+
+XXIII. Intercambiar información y documentación con las autoridades competentes de los países con los que se tengan celebrados convenios o tratados en las materias de su competencia;
+
+XXIV. Dar a conocer las tipologías y guías sobre presuntos casos en la materia de su competencia;
+
+XXV. Notificar las resoluciones que dicte, los citatorios, requerimientos, solicitudes de informes y otros actos administrativos, así como los actos relacionados con el ejercicio de sus facultades;
+
+XXVI. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia;
+
+XXVII. Supervisar y ejecutar el uso y explotación de la información que en su ámbito de competencia se genere; así como vigilar y fomentar las políticas de seguridad de conformidad con las normas y lineamientos establecidos por la Coordinación General de Calidad y Seguridad de la Información;
+
+XXVIII. Ejercer las facultades a que se refieren las fracciones de la XIII a la XIX del artículo 7o. de este Reglamento, y
+
+XXIX. Las demás que le señalen otras disposiciones legales y las que le confiera directamente el Secretario.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+###### Artículo 15-A.
+
+Compete a la Dirección General Adjunta de Normatividad y Relaciones Nacionales e Internacionales:
+
+I. Apoyar a la Unidad de Inteligencia Financiera en el ejercicio de las facultades a que se refiere el artículo 15 fracciones I a III de este Reglamento;
+
+II. Participar en la verificación del cumplimiento de las disposiciones de carácter general a que se refiere la fracción I del artículo 15 de este Reglamento, por parte de las personas sujetas a ello;
+
+III. Hacer del conocimiento de los órganos desconcentrados de la Secretaría a cargo de la supervisión de los integrantes del sistema financiero el incumplimiento o cumplimiento extemporáneo de las disposiciones de carácter general a que se refiere la fracción I del artículo 15 del presente Reglamento;
+
+IV. Requerir y recabar de las personas sujetas a las disposiciones de carácter general señaladas en la fracción I del artículo 15 de este Reglamento, directamente o a través de las instancias correspondientes, según sea el caso, información y documentación relacionada con los reportes previstos en esas mismas disposiciones, y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera, así como obtener información adicional de otras personas o fuentes para el ejercicio de sus atribuciones;
+
+V. Coordinarse con las autoridades fiscales para la práctica de los actos de fiscalización que resulten necesarios con motivo del ejercicio de las facultades conferidas conforme al presente artículo;
+
+VI. Participar, en el ámbito de su competencia, en el diseño de las formas oficiales para la presentación de reportes a que se refieren las disposiciones de carácter general indicadas en la fracción I del artículo 15 de este Reglamento;
+
+VII. Fungir como enlace, en el ámbito de su competencia, entre las unidades administrativas y órganos desconcentrados de la Secretaría, y las diversas dependencias y entidades de la Administración Pública Federal, así como negociar, celebrar e implementar acuerdos con esas instancias;
+
+VIII. Participar en la negociación de los anteproyectos de tratados y convenios internacionales, y negociar y ejecutar los acuerdos interinstitucionales, en los asuntos de su competencia;
+
+IX. Fungir como enlace entre la Secretaría y los países u organismos internacionales o intergubernamentales con los que se tengan celebrados convenios o tratados en las materias de su competencia e implementar los acuerdos adoptados derivados de dicha función de enlace;
+
+X. Intercambiar información y documentación con las autoridades competentes de los países con los que se tengan celebrados convenios o tratados en las materias de su competencia;
+
+XI. Proponer, para aprobación superior, las tipologías y guías sobre presuntos casos en la materia de la competencia de la Unidad de Inteligencia Financiera;
+
+XII. Participar en foros y eventos nacionales e internacionales en asuntos relativos a la materia de su competencia;
+
+XIII. Acordar con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y
+
+XIV. Atender los demás asuntos que le encomiende el Titular de la Unidad de Inteligencia Financiera, en el ámbito de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+###### Artículo 15-B.
+
+Compete a la Dirección de Normatividad y Relaciones Nacionales e Internacionales:
+
+I. Apoyar a la Dirección General Adjunta de Normatividad y Relaciones Nacionales e Internacionales en el estudio y elaboración de las disposiciones de carácter general a que se refiere la fracción I del artículo 15 del presente Reglamento, así como de los anteproyectos indicados en la fracción III de ese mismo artículo;
+
+II. Participar, en el ámbito de su competencia, en el diseño de las formas oficiales para la presentación de reportes a que se refieren las disposiciones de carácter general indicadas en la fracción I del artículo 15 de este Reglamento;
+
+III. Apoyar a la Dirección General Adjunta de Normatividad y Relaciones Nacionales e Internacionales en su atribución de enlace, en el ámbito de su competencia, entre las unidades administrativas y órganos desconcentrados de la Secretaría, y las diversas dependencias y entidades de la Administración Pública Federal, así como participar en la implementación de los acuerdos adoptados, derivados de dicha función de enlace;
+
+IV. Apoyar a la Dirección General Adjunta de Normatividad y Relaciones Nacionales e Internacionales en su participación en la negociación de los anteproyectos de tratados y convenios internacionales, y negociar y ejecutar los acuerdos en los asuntos de su competencia;
+
+V. Apoyar a la Dirección General Adjunta de Normatividad y Relaciones Nacionales e Internacionales en su atribución de fungir como enlace entre la Secretaría y los países u organismos internacionales o intergubernamentales con los que se tengan celebrados convenios o tratados en las materias de su competencia e implementar los acuerdos adoptados derivados de dicha función de enlace;
+
+VI. Apoyar a la Dirección General Adjunta de Normatividad y Relaciones Nacionales e Internacionales en su atribución de intercambiar información y documentación con las autoridades competentes de los países con los que se tengan celebrados convenios o tratados en las materias de su competencia;
+
+VII. Apoyar a la Dirección General Adjunta de Normatividad y Relaciones Nacionales e Internacionales en la formulación de propuestas para aprobación superior de las tipologías y guías sobre presuntos casos competencia de la Unidad de Inteligencia Financiera;
+
+VIII. Participar en foros y eventos nacionales e internacionales en asuntos relativos a la materia de su competencia;
+
+IX. Acordar con el Director General Adjunto de Normatividad y Relaciones Nacionales e Internacionales o con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y
+
+X. Atender los demás asuntos que le encomienden el Director General Adjunto de Normatividad y Relaciones Nacionales e Internacionales o el Titular de la Unidad de Inteligencia Financiera en el ámbito de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+###### Artículo 15-C.
+
+Compete a la Dirección de Verificación y Cumplimiento:
+
+I. Participar en la verificación del cumplimiento de las disposiciones de carácter general a que se refiere la fracción I del artículo 15 de este Reglamento, por parte de las personas sujetas a aquéllas;
+
+II. Coadyuvar con el Director General Adjunto de Normatividad y Relaciones Nacionales e Internacionales en su atribución de requerir y recabar de las personas señaladas en la fracción I del artículo 15 de este Reglamento, directamente o a través de las instancias correspondientes, información y documentación relacionada con los reportes a que se refiere la citada fracción I, así como obtener información adicional de otras personas o fuentes para el ejercicio de sus atribuciones;
+
+III. Hacer del conocimiento de los órganos desconcentrados de la Secretaría a cargo de la supervisión de los integrantes del sistema financiero el incumplimiento o cumplimiento extemporáneo de las disposiciones de carácter general a que se refiere la fracción I del artículo 15 de este Reglamento, con el objeto de que, en su caso, dichas instancias ejerzan oportunamente sus facultades de supervisión;
+
+IV. Solicitar a los órganos desconcentrados de la Secretaría a cargo de la supervisión de los integrantes del sistema financiero, informes sobre el resultado del ejercicio de las facultades de supervisión a que se refiere este artículo;
+
+V. Coordinarse con las autoridades fiscales para la práctica de los actos de fiscalización que resulten necesarios con motivo del ejercicio de las facultades conferidas conforme al presente artículo;
+
+VI. Participar en el ámbito de su competencia, en el diseño de las formas oficiales para la presentación de los reportes a que se refieren las disposiciones de carácter general indicadas en la fracción I del artículo 15 de este Reglamento;
+
+VII. Intercambiar información y documentación con las autoridades competentes de los países con los que se tengan celebrados convenios o tratados en las materias de su competencia;
+
+VIII. Acordar con el Director General Adjunto de Normatividad y Relaciones Nacionales e Internacionales o con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y
+
+IX. Atender los demás asuntos que le encomiende el Director General Adjunto de Normatividad y Relaciones Nacionales e Internacionales o el Titular de la Unidad de Inteligencia Financiera.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+###### Artículo 15-D.
+
+Compete a la Dirección General Adjunta de Análisis Financiero:
+
+I. Participar, en el ámbito de su competencia, en el diseño de las formas oficiales para la presentación de reportes a que se refieren las disposiciones de carácter general indicadas en la fracción I del artículo 15 de este Reglamento;
+
+II. Recibir, capturar y analizar, de conformidad con las disposiciones de carácter general a que se refiere la fracción I del artículo 15 de este Reglamento, la información contenida en los reportes previstos en dichas disposiciones, y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera;
+
+III. Recibir y analizar la información y documentación relacionada con los reportes y declaraciones previstos en la fracción anterior y, en su caso, recabar directamente tal información de bases de datos públicas o privadas;
+
+IV. Fungir como enlace, en el ámbito de su competencia, entre las unidades administrativas y órganos desconcentrados de la Secretaría, y las diversas dependencias y entidades de la Administración Pública Federal, así como participar en la implementación de los acuerdos adoptados, derivados de dicha función de enlace;
+
+V. Proporcionar a las autoridades competentes nacionales la información y documentación necesaria para el desarrollo de sus facultades;
+
+VI. Recibir, recopilar y analizar, en el ámbito de la competencia de la Unidad de Inteligencia Financiera, las pruebas, constancias, reportes, documentación e informes sobre la comisión de las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código y demás disposiciones afines, integrando los expedientes respectivos;
+
+VII. Coordinarse con las autoridades fiscales para la práctica de los actos de fiscalización que resulten necesarios con motivo del ejercicio de las facultades conferidas conforme al presente artículo;
+
+VIII. Evaluar el contenido de los reportes a que se refiere la fracción II de este artículo para determinar el incumplimiento o cumplimiento extemporáneo de las disposiciones de carácter general a que se refiere la fracción I del artículo 15 del presente Reglamento e informar, directamente o a través de las instancias competentes para ello, según corresponda, lo conducente a las personas que hubieren formulado dichos reportes;
+
+IX. Acordar con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y
+
+X. Atender los demás asuntos que le encomiende el Titular de la Unidad de Inteligencia Financiera en el ámbito de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+###### Artículo 15-E.
+
+Compete a las Direcciones de Análisis Proactivo "1" y "2":
+
+I. Apoyar a la Dirección General Adjunta de Análisis Financiero, en el diseño de las formas oficiales para la presentación de reportes a que se refieren las disposiciones de carácter general indicadas en la fracción I del artículo 15 de este Reglamento;
+
+II. Recibir, capturar y analizar, de conformidad con las disposiciones de carácter general a que se refiere la fracción I del artículo 15 de este Reglamento, la información contenida en los reportes previstos en dichas disposiciones, y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera;
+
+III. Recibir y analizar la información y documentación relacionada con los reportes y declaraciones previstos en la fracción anterior y, en su caso, recabar directamente tal información de bases de datos públicas o privadas;
+
+IV. Apoyar a la Dirección General Adjunta de Análisis Financiero, en su función de enlace entre las unidades administrativas y órganos desconcentrados de la Secretaría, y las diversas dependencias y entidades de la Administración Pública Federal, así como participar en la implementación de los acuerdos adoptados, derivados de dicha función de enlace;
+
+V. Apoyar a la Dirección General Adjunta de Análisis Financiero en la recepción, recopilación y análisis, en el ámbito de la competencia de la Unidad de Inteligencia Financiera, de las pruebas, constancias, reportes, documentación e informes sobre la comisión de las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código y demás disposiciones afines, integrando los expedientes respectivos;
+
+VI. Coadyuvar con la Dirección General Adjunta de Análisis Financiero en su coordinación con las autoridades fiscales para la práctica de los actos de fiscalización que resulten necesarios con motivo del ejercicio de las facultades conferidas conforme al presente artículo;
+
+VII. Evaluar el contenido de los reportes a que se refiere la fracción II de este artículo para determinar el incumplimiento o cumplimiento extemporáneo de las disposiciones de carácter general a que se refiere la fracción I del artículo 15 del presente Reglamento, informando lo conducente a las personas que hubieren formulado dichos reportes;
+
+VIII. Acordar con el Director General Adjunto de Análisis Financiero o el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y
+
+IX. Atender los demás asuntos que le encomiende el Director General Adjunto de Análisis Financiero o el Titular de la Unidad de Inteligencia Financiera.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+###### Artículo 15-F.
+
+Compete a la Dirección General Adjunta de Procesos Legales:
+
+I. Recibir, recopilar y analizar, en el ámbito de la competencia de la Unidad de Inteligencia Financiera, las pruebas, constancias, reportes, documentación e informes sobre la comisión de las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código y demás disposiciones afines, integrando los expedientes respectivos;
+
+II. Denunciar o querellarse ante el Ministerio Público por las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, allegándose de los elementos probatorios del caso;
+
+III. Coadyuvar con las autoridades competentes, en representación de la Secretaría, en los procedimientos penales relativos a las conductas a que se refiere la fracción anterior de este artículo;
+
+IV. Fungir como enlace, en el ámbito de su competencia, entre las unidades administrativas y órganos desconcentrados de la Secretaría, y las diversas dependencias y entidades de la Administración Pública Federal, así como participar en la implementación de los acuerdos adoptados, derivados de dicha función de enlace;
+
+V. Coordinarse con las autoridades fiscales para la práctica de los actos de fiscalización que resulten necesarios con motivo del ejercicio de las facultades conferidas conforme al presente artículo;
+
+VI. Proporcionar a las autoridades competentes nacionales en el ámbito de su competencia, la información y documentación necesaria para el desarrollo de sus facultades;
+
+VII. Notificar las resoluciones que dicte, los citatorios, requerimientos, solicitudes de informes y otros actos administrativos, así como los actos relacionados con el ejercicio de sus facultades;
+
+VIII. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia;
+
+IX. Tramitar y resolver, en el ámbito de su competencia los requerimientos y resoluciones de autoridades jurisdiccionales o administrativas, incluyendo al Ministerio Público;
+
+X. Acordar con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y
+
+XI. Atender los demás asuntos que le encomiende el Titular de la Unidad de Inteligencia Financiera en el ámbito de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+###### Artículo 15-G.
+
+Compete a la Dirección de Análisis Técnico Contable:
+
+I. Recibir y analizar las pruebas, constancias, documentación e informes sobre la comisión de las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código y demás disposiciones afines, integrando los expedientes respectivos;
+
+II. Proporcionar a las autoridades competentes nacionales la información y documentación necesaria para el desarrollo de sus facultades;
+
+III. Acordar con el Director General Adjunto de Análisis Financiero o con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y
+
+IV. Atender los demás asuntos que le encomiende el Director General Adjunto de Análisis Financiero o el Titular de la Unidad de Inteligencia Financiera.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+###### Artículo 15-H.
+
+Compete a la Dirección de Formulación y Seguimiento de Denuncias:
+
+I. Estudiar y recopilar, en el ámbito de la competencia de la Unidad de Inteligencia Financiera, las pruebas, constancias, documentación e informes sobre la comisión de las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código y demás disposiciones afines, integrando los expedientes respectivos;
+
+II. Denunciar o querellarse ante el Ministerio Público por las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código;
+
+III. Coadyuvar con las autoridades competentes en representación de la Secretaría en los procedimientos penales relativos a los hechos delictuosos a que se refiere la fracción I de este artículo;
+
+IV. Coordinarse con las autoridades fiscales para la práctica de los actos de fiscalización que resulten necesarios con motivo del ejercicio de las facultades conferidas conforme al presente artículo;
+
+V. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia;
+
+VI. Tramitar y resolver los requerimientos y resoluciones de autoridades judiciales, administrativas o del Ministerio Público, que sean formulados a la Dirección General Adjunta de Procesos Legales de la Unidad de Inteligencia Financiera;
+
+VII. Acordar con el Director General Adjunto de Procesos Legales o con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y
+
+VIII. Atender los demás asuntos que le encomiende el Director General Adjunto de Procesos Legales o el Titular de la Unidad de Inteligencia Financiera.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+###### Artículo 15-I.
+
+Compete a la Coordinación General de Tecnologías de Información y Comunicaciones:
+
+I. Definir y establecer las estrategias institucionales que en materia de tecnologías de información y comunicaciones se deban aplicar por la Secretaría;
+
+II. Definir y establecer políticas, normas y programas en materia de tecnologías de información y comunicaciones que contribuyan a la sistematización y optimización de funciones y procesos dentro de las unidades administrativas de la Secretaría, inclusive sobre la adquisición de bienes y servicios en dicha materia conforme a los objetivos y plan estratégico de la propia Secretaría;
+
+III. Definir y establecer la plataforma de tecnologías de información y comunicaciones y el marco tecnológico de referencia que apoye las funciones de las unidades administrativas de la Secretaría, así como promover su evolución, innovación, optimización y estandarización;
+
+IV. Proveer las soluciones tecnológicas que permitan operar el sistema integral de pagos, control presupuestal, servicios, prestaciones al personal e incidencias de la nómina y, en general, aquellos programas que coadyuven a la correcta administración de las funciones encomendadas a la Dirección General de Recursos Humanos;
+
+V. Realizar la planeación y presupuestación en materia de tecnologías de información y comunicaciones conforme a los objetivos y plan estratégico de la Secretaría, así como coordinar su ejercicio;
+
+VI. Definir y establecer normas, lineamientos y metodologías para la administración de proyectos tecnológicos, la administración de tecnología, y el desarrollo, implementación y mantenimiento de sistemas y el control de operaciones de infraestructura;
+
+VII. Determinar la viabilidad técnica y operativa de los requerimientos de las unidades administrativas adscritas a la Secretaría respecto a la adquisición de bienes y servicios en materia de tecnologías de información y comunicaciones;
+
+VIII. Implementar y supervisar la infraestructura tecnológica de los servicios informáticos institucionales, de acuerdo a los estándares establecidos en materia de tecnologías de información y comunicaciones de la Secretaría, empleando, en su caso, servicios de terceros;
+
+IX. Diseñar, desarrollar, integrar, implementar, proporcionar y mantener los sistemas y servicios en materia de tecnologías de la información y comunicaciones que apoyen las funciones sustantivas, administrativas y de control de las unidades administrativas de la Secretaría, conforme a los objetivos y plan estratégico de la misma;
+
+X. Coordinar con las unidades administrativas de la Secretaría la sistematización de los procesos institucionales definidos en el plan estratégico de la misma;
+
+XI. Administrar y operar los servicios de infraestructura de cómputo, comunicaciones, aplicaciones, información y servicios informáticos institucionales empleando, en su caso, servicios de terceros;
+
+XII. Proporcionar la atención y el soporte técnico a los usuarios en materia de servicios informáticos institucionales, a fin de promover el uso y operación adecuados de los distintos sistemas, equipos, redes y dispositivos informáticos con que cuente la Secretaría;
+
+XIII. Definir y solicitar a las unidades administrativas competentes los requerimientos de recursos humanos, financieros, materiales y de servicios generales necesarios para lograr una operación continua de los bienes y servicios en materia de tecnologías de información y comunicaciones;
+
+XIV. Implementar conjuntamente con la Coordinación General de Calidad y Seguridad de la Información, las políticas, normas y mecanismos que permitan una operación continua de la red de comunicaciones y de la infraestructura de tecnologías de la información relacionada con los servicios informáticos institucionales de la Secretaría;
+
+XV. Representar a la Secretaría, en materia de tecnologías de información y comunicaciones en foros, comités, instituciones y entidades públicas y privadas, tanto nacionales como internacionales, y coordinar los grupos de trabajo internos en dicha materia;
+
+XVI. Coordinar con las unidades administrativas competentes la celebración de contratos, convenios y demás instrumentos jurídicos en materia de tecnologías de información y comunicaciones con organismos y entidades tanto públicos como privados, nacionales o internacionales;
+
+XVII. Investigar y evaluar nuevas tecnologías de información y comunicaciones, conforme al marco tecnológico de referencia que se indica en la fracción III de este artículo, con el fin de incorporar aquellas que refuercen, evolucionen y complementen la plataforma de tecnologías de información y comunicaciones en la Secretaría;
+
+XVIII. Definir conjuntamente con la Coordinación General de Calidad y Seguridad de la Información, las políticas, normas, procesos, plataforma de tecnologías de información y comunicaciones, modelo de datos y nomenclatura de los datos que maneja la Secretaría para la creación e integración del Almacén Único de Datos y del Almacén Único de Procesos e Información del Personal de la Secretaría;
+
+XIX. Diseñar, operar, y administrar conjuntamente con la Coordinación General de Calidad y Seguridad de la Información el Almacén Único de Datos y el Almacén Único de Procesos e Información del Personal de la Secretaría, a fin de mantener su integridad y permitir el acceso a la información contenida en los mismos a las unidades administrativas de la Secretaría en cuya competencia incida la información que contengan;
+
+XX. Fomentar el intercambio de información y prácticas administrativas, conforme a la normatividad aplicable, en materia de tecnologías de información y comunicaciones con las dependencias y entidades de la Administración Pública Federal, que coadyuven a un mejor desempeño del Gobierno Federal;
+
+XXI. Coadyuvar con la Coordinación General de Calidad y Seguridad de la Información, en la formulación y en el establecimiento de políticas y normas aplicables en materia de calidad y seguridad de la información de acuerdo al marco tecnológico de referencia que se indica en la fracción III de este artículo;
+
+XXII. Coordinar con las unidades administrativas competentes los planes de capacitación del personal de la Secretaría en materia de tecnologías de información y comunicaciones;
+
+XXIII. Establecer el criterio de interpretación que las unidades administrativas de la Secretaría deberán seguir para la observancia de las políticas, normas y procedimientos vigentes en materia de tecnologías de información y comunicaciones;
+
+XXIV. Ejercer las facultades a que se refieren las fracciones de la XIII a la XIX del artículo 7o. de este Reglamento;
+
+XXV. Acordar con el Secretario los asuntos de su competencia, y
+
+XXVI. Las demás que le señalan otras disposiciones legales y las que le confiera directamente el Secretario.
+
+El Coordinador General de Tecnologías de Información y Comunicaciones será asistido por los Directores Generales Adjuntos de Planeación y Evolución Tecnológica; de Soluciones Tecnológicas de Negocio y de Administración de Servicios Informáticos Institucionales.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+###### Artículo 15-J.
+
+Compete a la Coordinación General de Calidad y Seguridad de la Información:
+
+I. Definir, difundir y supervisar el cumplimiento de las normas, políticas, estándares y procedimientos de calidad y seguridad de la información, que promuevan y mantengan la integridad, precisión, confiabilidad, protección y congruencia de la información de la Secretaría;
+
+II. Definir conjuntamente con la Coordinación General de Tecnologías de Información y Comunicaciones las políticas, normas, procesos, estructura, contenido lógico y nomenclatura de los datos que maneja la Secretaría para la creación e integración del Modelo de Datos Institucional, del Almacén Único de Datos y del Almacén Único de Procesos e Información del Personal de la Secretaría;
+
+III. Controlar y administrar el Modelo de Datos Institucional, el Almacén Único de Datos, el Almacén Único de Procesos e Información del Personal de la Secretaría, a través de la realización de acciones para promover y mantener la integridad, precisión, confiabilidad, protección, disponibilidad y congruencia de la información contenida en ellos, así como el acceso a la misma de acuerdo a las atribuciones de cada unidad administrativa de la Secretaría;
+
+IV. Diseñar, implementar, operar y mantener conjuntamente con la Coordinación General de Tecnologías de Información y Comunicaciones las metodologías, procesos y herramientas de explotación y uso de la información del Almacén Único de Datos y del Almacén Único de Procesos e Información del Personal de la Secretaría;
+
+V. Solicitar a las unidades administrativas de la Secretaría la información, los procedimientos, metodologías, métricas y estadísticas para la extracción, generación y transformación de datos, y asegurar su contenido lógico y físico en el Almacén Único de Datos y en el Almacén Único de Procesos e Información del Personal de la Secretaría, así como llevar a cabo su integración y sistematización conjuntamente con la Coordinación General de Tecnologías de Información y Comunicaciones;
+
+VI. Definir, difundir y supervisar el cumplimiento de normas, políticas y procedimientos de identificación y autentificación de usuarios para el uso adecuado de los bienes, servicios, aplicaciones e información de la Secretaría;
+
+VII. Definir conjuntamente con la Coordinación General de Tecnologías de Información y Comunicaciones y, en su caso, con las unidades administrativas de la Secretaría, las facultades y el perfil funcional del personal, para el uso de los bienes y servicios tecnológicos, para el acceso, identificación y autentificación de los usuarios, así como para el uso y explotación de la información;
+
+VIII. Promover en las unidades administrativas de la Secretaría una cultura de calidad, seguridad y protección de la información a fin de que los datos, bases de datos, herramientas de explotación de información, portales de información y demás elementos relativos a la materia, provean información íntegra, precisa, confiable, congruente y de fácil acceso;
+
+IX. Definir conjuntamente con la Coordinación General de Tecnologías de Información y Comunicaciones la arquitectura, las soluciones tecnológicas, los servicios y las herramientas de calidad, seguridad y protección de la información y las de generación y explotación de la misma conforme al marco tecnológico de referencia de la Secretaría que se indica en la fracción III del artículo 15-I de este Reglamento;
+
+X. Definir conjuntamente con la Coordinación General de Tecnologías de Información y Comunicaciones los planes, programas y presupuestos en materia de calidad y seguridad de la información conforme a los objetivos institucionales y al plan estratégico de la Secretaría;
+
+XI. Definir, difundir y supervisar el cumplimiento de normas, políticas y estándares para el manejo, intercambio, protección, comunicación, almacenamiento y desecho de la información, tanto en medios electrónicos como en medios impresos tradicionales;
+
+XII. Definir, difundir y supervisar el cumplimiento de normas, disposiciones y mecanismos operativos y técnicos en materia de precisión y calidad de la información, que consideren componentes de detección, prevención y depuración de información, así como procedimientos de verificación y control de la misma;
+
+XIII. Supervisar, evaluar y, en su caso, proponer adecuaciones a los procesos y sistemas de control de acceso, de identificación y autentificación de usuarios, a los sistemas de detección y prevención de accesos no autorizados, así como a los procesos y sistemas utilizados para salvaguardar la integridad y disponibilidad de los servicios e infraestructura de cómputo y comunicaciones de la Secretaría;
+
+XIV. Evaluar y, en su caso, proponer adecuaciones a los programas, planes y procedimientos de continuidad de la operación e integridad de los servicios, información y recursos tecnológicos en casos de contingencia o desastre;
+
+XV. Supervisar el cumplimiento de los estándares de calidad, seguridad y protección de la información que deben cubrir las soluciones tecnológicas instrumentadas por la Coordinación General de Tecnologías de Información y Comunicaciones;
+
+XVI. Investigar y evaluar nuevas tecnologías y prácticas conforme al marco tecnológico de referencia que se indica en la fracción III del artículo 15-I de este Reglamento y al plan estratégico de la Secretaría, con el fin de incorporar aquellas que fortifiquen y complementen la plataforma tecnológica y los procesos de calidad, seguridad y protección de la información;
+
+XVII. Representar a la Secretaría, en materia de calidad y seguridad de la información en foros, comités, instituciones y entidades públicas y privadas, tanto nacionales como internacionales, y coordinar los grupos de trabajo internos en dicha materia;
+
+XVIII. Establecer, promover y difundir las políticas de gobierno electrónico en la Secretaría;
+
+XIX. Ejercer las facultades a que se refieren las fracciones de la XIII a la XIX del artículo 7o. de este Reglamento;
+
+XX. Acordar con el Secretario los asuntos de su competencia, y
+
+XXI. Las demás que le señalan otras disposiciones legales y las que le confiera directamente el Secretario.
+
+El Coordinador General de Calidad y Seguridad de la Información será asistido por los Directores Generales Adjuntos de Normatividad y Control de la Seguridad de la Información, de Normatividad y Control de la Calidad de la Información, y de Administración de la Información.
 
 > <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -1471,29 +1955,43 @@ XVIII. Analizar la actividad y condiciones económicas generales del país y rea
 
 XIX. Elaborar las proyecciones económicas requeridas por las autoridades superiores de la Secretaría;
 
-XX. Estudiar, en coordinación con las unidades administrativas competentes de la Secretaría, los asuntos económicos que permitan formular lineamientos de política y el empleo de instrumentos financieros, fiscales, crediticios, bancarios, monetarios, de divisas, y de precios y tarifas de bienes y servicios del sector público para apoyar la toma de decisiones en materia de su competencia;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXI. Diseñar e integrar la información económica, financiera y de la hacienda pública que capten los sistemas de información de la Subsecretaría de Hacienda y Crédito Público incorporando aquélla sobre las principales variables financieras y de la hacienda pública del Gobierno Federal y de la administración pública paraestatal, a fin de proporcionar elementos para apoyar la toma de decisiones de las autoridades de la hacienda pública y participar en el desarrollo de sistemas estadísticos homogéneos en las entidades coordinadas por la Secretaría; lo anterior de acuerdo con los procedimientos y métodos que dicte la Coordinación de Procesos y Estructuras de Información de la Subsecretaría del Ramo.
+XX. Estudiar, en coordinación con las unidades administrativas competentes de la Secretaría, los asuntos económicos que permitan formular lineamientos de política y el empleo de instrumentos financieros, fiscales, crediticios, bancarios, monetarios, de comercio exterior, de divisas, y de precios y tarifas de bienes y servicios del sector público para apoyar la toma de decisiones en materia de su competencia;
 
-XXII. Diseñar e integrar la información de la hacienda pública de los Estados y Municipios, así como apoyarlos en el establecimiento de su propio sistema de información, dando la participación que corresponda a la Coordinación de Procesos y Estructuras de información de la Subsecretaría del Ramo;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXI. Diseñar e integrar la información económica, financiera y de la hacienda pública que capten los sistemas de información de la Subsecretaría de Hacienda y Crédito Público incorporando aquélla sobre las principales variables financieras y de la hacienda pública del Gobierno Federal y de la administración pública paraestatal, a fin de proporcionar elementos para apoyar la toma de decisiones de las autoridades de la hacienda pública y participar en el desarrollo de sistemas estadísticos homogéneos en las entidades coordinadas por la Secretaría; lo anterior de acuerdo con los procedimientos y métodos que dicte la Coordinación General de Tecnologías de Información y Comunicaciones;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXII. Diseñar e integrar la información de la hacienda pública de los Estados y Municipios, así como apoyarlos en el establecimiento de su propio sistema de información, dando la participación que corresponda a la Coordinación General de Tecnologías de Información y Comunicaciones;
 
 XXIII. Elaborar y, en su caso, integrar los informes mensuales relativos a la evolución de las finanzas públicas y deuda pública; así como, trimestralmente los informes sobre la situación económica, las finanzas públicas y la deuda pública para su entrega al Congreso de la Unión;
 
-XXIV. Integrar, consolidar y difundir las estadísticas oportunas de finanzas públicas por ingresos, gasto y financiamiento del Gobierno Federal, entidades paraestatales no financieras, entidades paraestatales financieras, sector público presupuestario y sector público federal; en los medios y bajo los métodos que determine la Coordinación de Procesos y Estructuras de información de la Subsecretaría del Ramo;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXIV. Integrar, consolidar y difundir las estadísticas oportunas de finanzas públicas por ingresos, gasto y financiamiento del Gobierno Federal, entidades paraestatales no financieras, entidades paraestatales financieras, sector público presupuestario y sector público federal; en los medios y bajo los métodos que determine la Coordinación General de Tecnologías de Información y Comunicaciones;
 
 XXV. Elaborar los Criterios Generales de Política Económica que acompañan a la Iniciativa de Ley de Ingresos y al Proyecto de Presupuesto de Egresos, de la Federación de cada año presupuestario; dar seguimiento a su ejecución y evaluar sus resultados; así como integrar el presupuesto del ramo de la deuda pública, de acuerdo con las disposiciones legales aplicables;
 
 XXVI. Participar en la elaboración del Plan Nacional de Desarrollo, respecto de la definición de las políticas financieras, fiscales y crediticias;
 
-XXVII. Definir, junto con la Coordinación de Tecnologías de Comunicación e Información y la Coordinación de Procesos y Estructuras de información de la Subsecretaría del Ramo, los elementos necesarios para generar sistemas de análisis estadístico;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXVII. Definir, junto con la Coordinación General de Tecnologías de Información y Comunicaciones y la Coordinación General de Calidad y Seguridad de la Información, los elementos necesarios para generar sistemas de análisis estadístico;
 
 XXVIII. Reunir la documentación y los datos para la preparación del informe presidencial en las materias de competencia de la Subsecretaría de Hacienda y Crédito Público, así como coordinar la elaboración del informe de labores de la Secretaría;
 
 XXIX. Apoyar la difusión de la información en materia de hacienda pública de la Secretaría, en colaboración con la Unidad de Comunicación Social y Vocero;
 
-XXX. Resolver los asuntos que las disposiciones legales que rigen las materias de planeación financiera, fiscal, crediticia, bancaria y de divisas atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario y no estén asignadas expresamente a otra unidad administrativa de la misma, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXXI. Coordinar el Sistema Integral de Información de los Ingresos y Gasto Públicos, bajo los métodos y medios que dicte la Coordinación de Procesos y Estructuras de información de la Subsecretaría del Ramo y observando los procedimientos y lineamientos que indiquen la Coordinación de Tecnologías de Comunicación e Información y la Coordinación de Seguridad de Información y Tecnología.
+XXX. Resolver los asuntos que las disposiciones legales que rigen las materias de planeación financiera, fiscal, crediticia, bancaria, de comercio exterior y de divisas atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario y no estén asignadas expresamente a otra unidad administrativa de la misma, y
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXXI. Coordinar el Sistema Integral de Información de los Ingresos y Gasto Públicos, bajo los métodos y medios que dicte la Coordinación General de Tecnologías de Información y Comunicaciones, conjuntamente con la Coordinación General de Calidad y Seguridad de la Información.
 
 > <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -1542,6 +2040,26 @@ VIII. Llevar el seguimiento de los fondos y valores del Gobierno Federal, y de l
 IX. Integrar y consolidar la información de hacienda pública de los Estados y Municipios, así como apoyarlos en el establecimiento de sus propios sistemas de información, y
 
 X. Representar a la Unidad de Planeación Económica de la Hacienda Pública en los distintos foros relacionados con las estadísticas de finanzas públicas, y con el seguimiento y control presupuestario.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+###### Artículo 16-C.
+
+Compete a la Dirección General Adjunta de Análisis de Políticas Públicas:
+
+I. Proponer para aprobación superior, en el ámbito de su competencia, lineamientos de política y el empleo de instrumentos financieros, fiscales, crediticios, bancarios, de comercio exterior, de divisas, de precios y tarifas de bienes y servicios del sector público;
+
+II. Realizar, en coordinación con las unidades administrativas competentes de la Secretaría, estudios de los asuntos económicos que permitan formular lineamientos de política y el empleo de instrumentos financieros, fiscales, crediticios, bancarios, monetarios, de divisas, de precios y tarifas de bienes y servicios del sector público y de comercio exterior;
+
+III. Proponer para aprobación superior, en coordinación con las unidades administrativas competentes de la Secretaría y de otras dependencias de la Administración Pública Federal, en los términos de la legislación aplicable, la formulación y desarrollo de políticas públicas, en el ámbito de su competencia;
+
+IV. Opinar y, en su caso evaluar, en materia macroeconómica, microeconómica, de rentabilidad social y de finanzas públicas, sobre el impacto de políticas públicas en las materias a que se refiere el artículo 16, fracción XX de este Reglamento;
+
+V. Participar con las unidades administrativas competentes de la Secretaría y de otras dependencias de la Administración Pública Federal, en los términos de la legislación aplicable, en el estudio y formulación de proyectos de acuerdos y decretos relativos a aranceles, cuotas compensatorias y demás medidas de regulación y restricción al comercio exterior, así como en la formulación de las políticas correspondientes al fomento de las industrias de exportación;
+
+VI. Estudiar y opinar, en materia macroeconómica, microeconómica, de rentabilidad social, de comercio exterior y de finanzas públicas, sobre el impacto de las iniciativas de ley que sean sometidas a la consideración de la Unidad de Planeación Económica de la Hacienda Pública, y
+
+VII. Las demás que en el ámbito de su competencia le encomiende el Titular de la Unidad de Planeación Económica de la Hacienda Pública.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -1617,9 +2135,9 @@ XVIII. Contratar, administrar y enajenar los activos financieros asociados a las
 
 XIX. Instrumentar y, en su caso, previo acuerdo superior, formalizar los mandatos asociados con el crédito público, que otorgue el Gobierno Federal a través de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XX. Apoyar las funciones de las autoridades superiores de la Secretaría en la Comisión Intersecretarial de Gasto Financiamiento;
+XX. Apoyar las funciones de las autoridades superiores de la Secretaría en la Comisión Intersecretarial de Gasto Financiamiento, y en otras comisiones intersecretariales;
 
 > <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
 
@@ -1629,29 +2147,45 @@ XXI. Promover y ejecutar las acciones necesarias a fin de optimizar el perfil, e
 
 XXII. Coordinar la relación del Gobierno Federal e instrumentar la contratación de financiamiento con el Banco Mundial, el Banco Interamericano de Desarrollo y los organismos y fondos similares y, conjuntamente con la Unidad de Planeación Económica de la Hacienda Pública y el Banco de México, coordinar la relación con el Fondo Monetario Internacional;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXIII. Proponer las políticas, ejercer los derechos y cumplir las obligaciones que se generen de la participación del Gobierno Federal en el Banco Mundial, el Banco Interamericano de Desarrollo, el Banco de Desarrollo de América del Norte, el Fondo Internacional de Desarrollo Agrícola, las agencias de financiamiento al comercio exterior u otras agencias y los fondos u organismos internacionales similares o filiales;
+XXIII. Proponer las políticas, instrumentar las normas y criterios de negociación, así como ejercer los derechos y cumplir las obligaciones que se generen de la participación del Gobierno Federal en el Banco Internacional de Reconstrucción y Fomento, el Banco Interamericano de Desarrollo, el Banco de Desarrollo de América del Norte, el Fondo Internacional de Desarrollo Agrícola, el Banco Japonés para la Cooperación Internacional, las agencias de financiamiento al comercio exterior u otras agencias y los fondos u organismos internacionales similares o filiales que involucren el otorgamiento de financiamientos;
 
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXIV. Definir las políticas para la negociación de financiamientos bilaterales; promover, apoyar e instrumentar su utilización, así como autorizar los términos y condiciones de dichos financiamientos; participar, junto con las demás unidades administrativas competentes, en la relación financiera bilateral con los gobiernos extranjeros;
+XXIV. Ejercer los derechos del Gobierno Federal derivados de la participación accionaria en los organismos a que se refiere la fracción XXIII de este artículo, así como participar, cuando sea procedente, como representante de la Secretaría ante los mencionados organismos o, en su caso, designar al servidor público que ejerza dicha representación;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXV. Autorizar a los representantes financieros de México en el extranjero, para oír y recibir notificaciones provenientes de autoridades financieras extranjeras en relación a la contratación de crédito público externo;
+XXV. Suscribir, en representación de la Secretaría, los acuerdos de donación y de cooperación técnica no reembolsable, que se celebren con los organismos a que se refiere la fracción XXIII de este artículo, y fomentar su utilización, así como coordinarse con las unidades administrativas competentes para instrumentar las medidas necesarias para su debido cumplimiento;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXVI. Suscribir, en representación de la Secretaría, los acuerdos de donación y de cooperación técnica no reembolsable, que se celebren con el Banco Mundial, el Banco Interamericano de Desarrollo y los organismos y fondos similares o filiales;
+XXVI. Designar a los agentes financieros para la negociación y contratación de créditos, cooperaciones técnicas no reembolsables y donaciones con los organismos y agencias a que se refiere la fracción XXIII de este artículo; instruir a dichos agentes para el ejercicio de los recursos contratados, así como para la ejecución de los proyectos financiados con esos recursos;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXVII. Apoyar a la Unidad de Coordinación con Entidades Federativas en el establecimiento de las políticas relativas al Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, y
+XXVII. Definir las políticas para la negociación de financiamientos bilaterales; promover, apoyar e instrumentar su utilización, así como autorizar los términos y condiciones de dichos financiamientos, y participar, junto con las demás unidades administrativas competentes, en la relación financiera bilateral con los gobiernos extranjeros;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXVIII. Resolver los asuntos que las disposiciones legales que rigen la materia de deuda pública atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario.
+XXVIII. Autorizar a los representantes financieros de México en el extranjero, para oír y recibir notificaciones provenientes de autoridades financieras extranjeras en relación a la contratación de crédito público externo;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXIX. Definir la política de participación en el Comité para el Desarrollo del Banco Mundial, en colaboración con la Dirección General de Asuntos Internacionales de Hacienda;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXX. Apoyar a la Unidad de Coordinación con Entidades Federativas en el establecimiento de las políticas relativas al Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, y
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXXI. Resolver los asuntos que las disposiciones legales que rigen la materia de deuda pública atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+El Titular de la Unidad de Crédito Público será asistido por los Directores Generales Adjuntos de Deuda Pública, de Coordinación y Captación de Crédito Externo, de Coordinación y Captación de Crédito Interno, y de Procedimientos Legales de Crédito, así como por el personal que se requiera para satisfacer las necesidades del área.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE OCTUBRE DE 2000)</small>
 
@@ -1699,33 +2233,31 @@ X. Ejercer las facultades que corresponden a la Unidad de Crédito Público resp
 
 XI. Apoyar a la Unidad de Crédito Público en la elaboración de la programación financiera, en coordinación con la Unidad de Planeación Económica de la Hacienda Pública, con base en la información que proporcione el Banco de México y las demás unidades administrativas de la Secretaría;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XII. Proponer para aprobación superior e instrumentar, en su caso, la política del Gobierno Federal, las normas y criterios de negociación con el Banco Mundial, el Banco Interamericano de Desarrollo, el Banco de Desarrollo de América del Norte, el Fondo Internacional de Desarrollo Agrícola, el Banco Japonés para la Cooperación Internacional y los fondos u organismos internacionales similares o filiales que involucren el otorgamiento de financiamientos, cooperaciones técnicas no reembolsables y donaciones, así como gestionar el cumplimiento de los compromisos derivados de la participación del Gobierno Federal en dichos organismos;
+XII. Representar a la Unidad de Crédito Público, cuando por instrucciones superiores así se establezca, en las sesiones de los comités técnicos y grupos de trabajo de entidades y dependencias de la Administración Pública Federal, así como de la Comisión Nacional Bancaria y de Valores y del Banco de México, y de órganos colegiados de los mandatos, fideicomisos públicos y demás instituciones que integran el Sistema Financiero;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XIII. Apoyar a la Unidad de Crédito Público en la coordinación, negociación y contratación de las operaciones financieras de cooperación técnica no reembolsable y donaciones con los organismos a que se refiere la fracción XII de este artículo; así como realizar el seguimiento de los compromisos contractuales y, en su caso, proponer en coordinación con otras entidades de la Administración Pública Federal las medidas necesarias para su debido cumplimiento;
+XIII. Coadyuvar, en el ámbito de su competencia, con la Unidad de Crédito Público en el ejercicio de sus atribuciones con respecto a la Comisión Intersecretarial de Gasto Financiamiento y, en su caso, a otras comisiones intersecretariales;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XIV. Ejercer los derechos del Gobierno Federal derivados de la participación accionaria en los organismos a que se refiere la fracción XII de este artículo;
+XIV. Participar en los foros, conferencias, seminarios y eventos nacionales e internacionales, en las materias de su competencia;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XV. Proponer, para aprobación superior, la designación de los agentes financieros para la negociación, contratación de créditos, cooperaciones técnicas no reembolsables y donaciones con los organismos y agencias a que se refiere la fracción XII de este artículo; instruir a dichos agentes para el ejercicio de los recursos contratados, así como para la ejecución de los proyectos financiados con esos recursos;
+XV. Requerir la documentación e información necesaria para la atención de los asuntos de su competencia;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XVI. Participar, cuando sea procedente, como representante de la Secretaría ante los organismos a que se refiere la fracción XII de este artículo;
+XVI. Instrumentar las acciones que le encomiende el titular de la Unidad de Crédito Público en el ejercicio de las atribuciones a que se refieren las fracciones XXIII a XXVII del artículo 17 de este Reglamento, y
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XVII. Coordinar las reuniones de trabajo de los servidores públicos del Gobierno Federal con representantes de los organismos referidos en la fracción XII de este artículo, y
+XVII. Las demás atribuciones que sean necesarias para el adecuado ejercicio de sus atribuciones, así como atender aquellos asuntos que le instruya su superior jerárquico.
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-XVIII. Fomentar la utilización de financiamientos de los organismos referidos en la fracción XII de este artículo.
+XVIII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE OCTUBRE DE 2000)</small>
 
@@ -1749,39 +2281,41 @@ IV. Proponer, para aprobación superior, las directrices para coadyuvar al acces
 
 V. Preparar estudios, concentrar y difundir la información sobre los mercados nacionales de dinero y capitales;
 
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VI. Opinar, en su caso, sobre los proyectos de la administración pública federal factibles de apoyarse con recursos internos;
+VI. Opinar, en su caso, sobre los proyectos, programas y esquemas de financiamiento de la Administración Pública Federal factibles de apoyarse con recursos internos;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VII. Participar con la Unidad de Crédito Público en el establecimiento del régimen de inversión de las disponibilidades financieras del sector público correspondientes a los órganos desconcentrados, organismos descentralizados, instituciones de banca de desarrollo, fondos, fideicomisos y empresas de participación estatal mayoritaria, cuando no corresponda a otra unidad administrativa de la Secretaría, y
+VII. Participar con la Unidad de Crédito Público en el establecimiento del régimen de inversión de las disponibilidades financieras del sector público correspondientes a los órganos desconcentrados, organismos descentralizados, instituciones de banca de desarrollo, fondos, fideicomisos y empresas de participación estatal mayoritaria, cuando no corresponda a otra unidad administrativa de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VIII. Participar, en el ámbito de su competencia, en carácter de suplente del titular de la Unidad de Crédito Público, en aquellos comités en los cuales se manejen recursos públicos.
+VIII. Representar a la Unidad de Crédito Público, cuando por instrucciones superiores así se establezca, en las sesiones de los comités técnicos y grupos de trabajo de entidades y dependencias de la Administración Pública Federal, así como de la Comisión Nacional Bancaria y de Valores y del Banco de México, y de órganos colegiados de los mandatos, fideicomisos públicos y demás instituciones que integran el Sistema Financiero;
 
-> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+IX. Participar en coordinación con las unidades administrativas competentes, en aquellas operaciones de financiamiento, esquemas especiales y proyectos de infraestructura en los que participe el Gobierno Federal, así como en otros proyectos que le encomiende el titular de la Unidad de Crédito Público;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+X. Coadyuvar, en el ámbito de su competencia, con la Unidad de Crédito Público en el ejercicio de sus atribuciones con respecto a la Comisión Intersecretarial de Gasto Financiamiento y, en su caso, a otras comisiones intersecretariales;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XI. Participar en los foros, conferencias, seminarios y eventos nacionales e internacionales, en las materias de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XII. Requerir la documentación e información necesaria para la atención de los asuntos de su competencia, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIII. Las demás atribuciones que sean necesarias para el adecuado ejercicio de sus funciones, así como atender aquellos asuntos que le instruya su superior jerárquico.
 
 ###### Artículo 20.
 
-Compete a la Dirección General Adjunta de Financiamiento de Proyectos:
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-I. Participar, previo acuerdo superior y en coordinación con las unidades administrativas competentes, en aquellas operaciones de financiamiento, esquemas especiales y proyectos de infraestructura en los que participe el Gobierno Federal, así como en otros proyectos que le encomiende la Unidad de Crédito Público;
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-II. Participar, en coordinación con las unidades administrativas competentes, en la formulación de los lineamientos de la política del Gobierno Federal en materia de financiamiento de proyectos;
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-III. Participar, con las unidades administrativas competentes de la Secretaría y, en su caso, con otras dependencias de la Administración Pública Federal, en los aspectos relacionados con inversión privada;
-
-IV. Llevar, en su caso, el seguimiento de los aspectos financieros relativos a las operaciones de financiamiento, esquemas especiales y proyectos de infraestructura en los que participe el Gobierno Federal, y
-
-V. Participar, en el ámbito de su competencia con la banca de desarrollo, en el análisis financiero de los proyectos de infraestructura.
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 > <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -1797,7 +2331,9 @@ III. Supervisar, en coordinación con la Dirección General Adjunta de Procedimi
 
 IV. Preparar estudios, concentrar y difundir la información sobre los mercados internacionales de dinero y capitales, así como de los organismos bilaterales de financiamiento al comercio exterior;
 
-V. Opinar sobre los términos y condiciones financieras de las ofertas de crédito externo o de manejo de pasivos externos que sean presentadas por las entidades de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+V. Opinar sobre los términos y condiciones financieras de las ofertas de crédito externo, productos derivados o de manejo de pasivos externos que sean presentadas por las entidades de la Administración Pública Federal;
 
 VI. Participar en la programación de financiamiento externo de la Administración Pública Federal;
 
@@ -1807,9 +2343,33 @@ VIII. Opinar sobre los términos y condiciones financieras de los compromisos qu
 
 IX. Fomentar la utilización de financiamientos provenientes de los organismos bilaterales;
 
-X. Proponer, para aprobación superior, la designación de los agentes financieros para la negociación y contratación de créditos y donaciones con los organismos bilaterales a que se refiere la fracción I de este artículo, así como instruir a dichos agentes financieros sobre el ejercicio de los recursos contratados, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XI. Participar, cuando sea procedente, como representante de la Secretaría ante los organismos bilaterales a que se refiere la fracción I de este artículo, así como coordinar las reuniones de trabajo con las mismas.
+X. Proponer, para aprobación superior, la designación de los agentes financieros para la negociación y contratación de créditos y donaciones con los organismos bilaterales a que se refiere la fracción I de este artículo, así como instruir a dichos agentes financieros sobre el ejercicio de los recursos contratados;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XI. Participar, cuando sea procedente, como representante de la Secretaría ante los organismos bilaterales a que se refiere la fracción I de este artículo, así como coordinar las reuniones de trabajo con las mismas;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XII. Representar a la Unidad de Crédito Público, cuando por instrucciones superiores así se establezca, en las sesiones de los comités técnicos y grupos de trabajo de entidades y dependencias de la Administración Pública Federal, así como de la Comisión Nacional Bancaria y de Valores y del Banco de México, y de órganos colegiados de los mandatos, fideicomisos públicos y demás instituciones que integran el Sistema Financiero;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIII. Coadyuvar, en el ámbito de su competencia, con la Unidad de Crédito Público en el ejercicio de sus atribuciones con respecto a la Comisión Intersecretarial de Gasto Financiamiento y, en su caso, a otras comisiones intersecretariales;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIV. Participar en los foros, conferencias, seminarios y eventos nacionales e internacionales, en las materias de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XV. Requerir la documentación e información necesaria para la atención de los asuntos de su competencia, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XVI. Las demás atribuciones que sean necesarias para el adecuado ejercicio de sus atribuciones, así como atender aquellos asuntos que le instruya su superior jerárquico.
 
 ###### Artículo 22.
 
@@ -1827,27 +2387,77 @@ Compete a la Dirección General Adjunta de Procedimientos Legales de Crédito:
 
 I. Participar con las unidades administrativas competentes, en la formulación del programa de actividades en materia de negociación y contratación del crédito público;
 
-II. Elaborar estudios jurídicos en materia de negociación y contratación de crédito público;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-III. Opinar sobre aspectos legales en materia de crédito público;
+II. Participar en los aspectos jurídicos de la negociación y contratación de créditos y, en su caso, suscribir los documentos relativos;
 
-IV. Participar en los aspectos jurídicos de la negociación y contratación de créditos;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-V. Asesorar a las unidades administrativas competentes en el ejercicio de sus facultades;
+III. Elaborar estudios jurídicos en materia de negociación y contratación de crédito público, así como estudios comparados de los sistemas jurídicos y administrativos de otros países en las materias que sean competencia de la Unidad de Crédito Público;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VI. Resolver en coordinación con la Dirección General Adjunta de Deuda Pública los asuntos relacionados con la aplicación de la legislación sobre deuda pública que competan a la Secretaría, sin perjuicio de las atribuciones que conforme al presente Reglamento correspondan a otras unidades administrativas de la Secretaría;
+IV. Opinar sobre aspectos legales en materia de crédito público; proponer, elaborar y, en su caso, opinar, sobre proyectos de leyes, reglamentos, acuerdos, oficios, circulares, iniciativas de decretos y demás disposiciones de carácter general cuya materia sea competencia de la Unidad de Crédito Público, así como proponer y participar en esquemas para la sistematización y divulgación de dicha normatividad, sin perjuicio de las atribuciones que este Reglamento otorga a las demás unidades administrativas de la Secretaría;
 
-VII. Autorizar en los términos de los documentos legales respectivos la tenencia, transmisión o cesión de los títulos o derechos sobre la deuda a cargo del Gobierno Federal, detentada por entidades financieras del extranjero, así como llevar los registros y controles necesarios para tales efectos, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+V. Elaborar, en coordinación con las unidades administrativas competentes de la Secretaría, las opiniones jurídicas necesarias para la formalización de los instrumentos jurídicos cuya materia sea competencia de la Unidad de Crédito Público;
 
-VIII. Certificar documentos legales expedidos por la Secretaría, relativos a la negociación y contratación de crédito público, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+VI. Coadyuvar con otras unidades administrativas y con las instituciones a que se refiere el artículo 17 fracción XXIII de este Reglamento y la fracción XIV de este precepto, en el ámbito de su competencia, en la negociación y formulación de convenios internacionales que contengan disposiciones cuya materia sea competencia de la Unidad de Crédito Público, así como apoyarlas en sus relaciones con las demás instituciones financieras;
 
-IX. Proyectar, para acuerdo superior y en coordinación con la Dirección General Adjunta de Deuda Pública, la instrumentación de los mandatos asociados al crédito público, que otorgue el Gobierno Federal, a través de la Secretaría.
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VII. Asesorar y acordar con su superior jerárquico sobre el ejercicio de sus atribuciones, así como revisar los actos y documentos jurídicos en los que éste intervenga, así como supervisar la legalidad de todos los actos que realicen las distintas áreas de la Unidad de Crédito Público, con la finalidad de evitar impugnaciones en contra de los mismos;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VIII. Resolver en coordinación con la Dirección General Adjunta de Deuda Pública los asuntos relacionados con la aplicación de la legislación sobre deuda pública que competan a la Secretaría, sin perjuicio de las atribuciones que conforme al presente Reglamento correspondan a otras unidades administrativas;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+IX. Autorizar en los términos de los documentos legales respectivos la tenencia, transmisión o cesión de los títulos o derechos sobre la deuda a cargo del Gobierno Federal, detentada por entidades financieras del extranjero, así como llevar los registros y controles necesarios para tales efectos;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+X. Proyectar, para acuerdo superior y en coordinación con la Dirección General Adjunta de Deuda Pública, la instrumentación de los mandatos asociados al crédito público, que otorgue el Gobierno Federal, a través de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XI. Certificar documentos legales expedidos por la Secretaría, relativos a la negociación y contratación de crédito público;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XII. Apoyar y asesorar a las unidades administrativas e instituciones a que se refiere el artículo 17 fracción XXIII de este Reglamento y la fracción XIV de este precepto, en los asuntos en que la Unidad de Crédito Público sea competente;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIII. Coordinar la participación de la Unidad de Crédito Público con la Procuraduría Fiscal de la Federación y con otras unidades administrativas de la Secretaría, así como con otras entidades y dependencias, en aquellos asuntos de carácter jurídico en los que la Unidad de Crédito Público sea competente;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIV. Representar a la Unidad de Crédito Público, cuando por instrucciones superiores así se establezca, en las sesiones de los comités técnicos y grupos de trabajo de entidades y dependencias de la Administración Pública Federal, así como de la Comisión Nacional Bancaria y de Valores y del Banco de México, y de órganos colegiados de los mandatos, fideicomisos públicos y demás instituciones que integran el Sistema Financiero. Asimismo, por instrucciones superiores o por acuerdo de los órganos correspondientes, instrumentar la organización, logística y operación de los comités técnicos y grupos de trabajo de mandatos y fideicomisos asociados al crédito público;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XV. Coadyuvar, en el ámbito de su competencia, con la Unidad de Crédito Público en el ejercicio de sus atribuciones con respecto a la Comisión Intersecretarial de Gasto Financiamiento y otras comisiones intersecretariales;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XVI. Coadyuvar en la atención de los requerimientos formulados por los órganos fiscalizadores y demás solicitudes de las autoridades competentes, así como de las peticiones o consultas de carácter jurídico que realicen los particulares, entidades y dependencias, cuya materia sea competencia de la Unidad de Crédito Público, sin perjuicio de las atribuciones que este Reglamento otorga a las demás unidades administrativas de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XVII. Participar en los foros, conferencias, seminarios y eventos nacionales e internacionales, en las materias que sean competencia de la Unidad de Crédito Público;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XVIII. Requerir la documentación e información necesaria para la atención de los asuntos de su competencia, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIX. Las demás atribuciones que sean necesarias para el adecuado ejercicio de sus facultades, así como atender aquellos asuntos que le instruya su superior jerárquico.
 
 ###### Artículo 25.
 
@@ -1855,7 +2465,7 @@ Compete a la Dirección General de Banca de Desarrollo:
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
-I. Formular para aprobación superior, en coordinación con las Unidades de Planeación Económica de la Hacienda Pública y de Crédito Público, la política y el programa financiero de las sociedades nacionales de crédito, fideicomisos públicos de fomento y demAs entidades que integran el Sistema Financiero de Fomento, coordinadas por la Secretaría;
+I. Formular para aprobación superior, en coordinación con las Unidades de Planeación Económica de la Hacienda Pública y de Crédito Público, la política y el programa financiero de las sociedades nacionales de crédito, fideicomisos públicos de fomento y demás entidades que integran el Sistema Financiero de Fomento, coordinadas por la Secretaría;
 
 II. Participar, mediante la elaboración de la política a que se refiere la fracción anterior, en la formulación del Programa Nacional de Financiamiento del Desarrollo y del Programa Operativo Anual de Financiamiento de la Administración Pública Federal;
 
@@ -1893,7 +2503,9 @@ XII. Ejercer las atribuciones de la Secretaría de Hacienda y Crédito Público 
 
 XIII. Representar a la Secretaría, en el ámbito de su competencia, en sus relaciones con la Comisión Nacional Bancaria y de Valores, Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y el Banco de México;
 
-XIV. (DEROGADA, D.O.F. 17 DE JUNIO DE 2003)
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIV. Aprobar, conjuntamente con el Titular de la Unidad de Banca y Ahorro, los manuales de seguridad y protección de las instituciones de banca de desarrollo elaborados con fundamento en lo establecido por las reglas de carácter general a que hace referencia el artículo 96 de la Ley de Instituciones de Crédito, así como resolver, conjuntamente con el Titular de la Unidad de Banca y Ahorro, respecto de las solicitudes de excepción que las instituciones de banca de desarrollo presenten de la obligación de implementar alguna o algunas de las disposiciones de dichas reglas;
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -1902,6 +2514,24 @@ XV. Realizar estudios y análisis económicos, financieros y legales respecto de
 > <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 XVI. Elaborar y proponer para aprobación superior, proyectos de reformas al marco regulatorio de las entidades e instituciones citadas en la fracción I de este artículo;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XVI. bis. Respecto de las entidades señaladas en la fracción I de este artículo, formular y proponer, para aprobación superior y con la previa opinión de la Unidad de Inteligencia Financiera, las disposiciones de carácter general que, en términos de la legislación aplicable, la Secretaría deba emitir en relación con:
+
+a) El establecimiento de medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código;
+
+b) La presentación a la Secretaría de reportes sobre los actos, operaciones y servicios que las entidades a que se refiere esta fracción y que estén obligadas a ello realicen con sus clientes y usuarios, relativos al inciso anterior, así como sobre todo acto, operación o servicio que, en su caso, realicen los miembros del órgano de gobierno, directivos, funcionarios, empleados y apoderados de dichas entidades, que pudiesen ubicarse en el supuesto previsto en el inciso a) anterior o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas, y
+
+c) Los lineamientos sobre el procedimiento y criterios que las entidades a que se refiere esta fracción deban observar en términos de ley respecto del adecuado conocimiento de sus clientes y usuarios; la información y documentación que, en su caso, dichas entidades deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite la identidad de sus clientes; la forma en que las mismas entidades deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados en términos de lo anterior; así como los términos para proporcionar capacitación al interior de las entidades obligadas en términos de ley sobre la materia objeto de esta fracción;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XVI. ter. Participar, con la previa opinión de la Unidad de Inteligencia Financiera, en el estudio y elaboración de anteproyectos de iniciativas de leyes o decretos relativos a los actos indicados en la fracción anterior;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XVI. quáter. Interpretar para efectos administrativos, con la previa opinión de la Unidad de Inteligencia Financiera, las disposiciones de carácter general señaladas en la fracción XVI bis anterior, así como las disposiciones legales de las que aquéllas emanen;
 
 > <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -1975,7 +2605,7 @@ XIV. Participar, en los términos de las disposiciones legales aplicables junto 
 
 XV. Dar seguimiento a las estructuras orgánicas, plantilla de personal y políticas de remuneraciones, así como a los movimientos de capital social, reservas y obligaciones subordinadas de las entidades a que se refiere el artículo 25, fracción I de este Reglamento, que atienden a los sectores agropecuario y de vivienda;
 
-XVI. Participar en la elaboración de programas especiales de las entidades a que se refiere el artículo 25, fracción I del presente Reglamento, que atienden a los sectores agropecuarioy de vivienda;
+XVI. Participar en la elaboración de programas especiales de las entidades a que se refiere el artículo 25, fracción I del presente Reglamento, que atienden a los sectores agropecuario y de vivienda;
 
 XVII. Analizar y someter para aprobación superior, los límites de endeudamiento neto externo e interno, financiamiento neto y los límites de intermediación financiera, de las instituciones de banca de desarrollo, que atienden los sectores agropecuario y de vivienda;
 
@@ -2005,9 +2635,7 @@ VII. Llevar a cabo el control, seguimiento, evaluación del programa financiero 
 
 VIII. Dar seguimiento a las estructuras orgánicas, plantilla de personal y políticas de remuneraciones, así como a los movimientos de capital social, patrimonio, reservas y obligaciones subordinadas de las entidades a que se refiere el artículo 25, fracción I de este Reglamento, que atienden a los sectores industrial, comercio, obras públicas, ahorro popular y servicios financieros;
 
-IX. Participar en la elaboración de programas especiales de las entidades a que se refiere el
-
-artículo 25, fracción I de este Reglamento que atienden a los sectores industrial, comercio, obras públicas, ahorro popular y servicios financieros;
+IX. Participar en la elaboración de programas especiales de las entidades a que se refiere el artículo 25, fracción I de este Reglamento que atienden a los sectores industrial, comercio, obras públicas, ahorro popular y servicios financieros;
 
 X. Analizar y someter para aprobación superior, los límites de endeudamiento neto externo e interno, financiamiento neto y los límites de intermediación financiera, de las instituciones de banca de desarrollo que atienden a los sectores industrial, comercio, obras públicas, ahorro popular y servicios financieros;
 
@@ -2055,7 +2683,13 @@ XI. Instrumentar y, en su caso, previo acuerdo superior formalizar mandatos rela
 
 Compete a la Unidad de Banca y Ahorro:
 
-I. Formular, para aprobación superior, las políticas de promoción, regulación y supervisión de: instituciones de banca múltiple, sociedades financieras de objeto limitado, filiales de instituciones financieras del exterior que se constituyan bajo la figura de cualquiera de las entidades mencionadas en esta fracción, sucursales de bancos extranjeros de primer orden, sociedades de información crediticia, oficinas de representación de las entidades financieras del exterior antes señaladas, sociedades de ahorro y préstamo, administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro y empresas operadoras de la Base de Datos Nacional SAR, grupos financieros en los que participen una o más instituciones de banca múltiple o administradoras de fondos para el retiro, y las actividades financiera, bancaria, crediticia y de ahorro dentro del ámbito de competencia de esta Unidad;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+I. Formular, para aprobación superior, las políticas de promoción, regulación y supervisión de: instituciones de banca múltiple, sociedades financieras de objeto limitado, sociedades de información crediticia, oficinas de representación de las entidades financieras del exterior antes señaladas, sucursales de bancos extranjeros de primer orden, sociedades de ahorro y préstamo, administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro y empresas operadoras de la Base de Datos Nacional SAR, grupos financieros en los que participen una o más instituciones de banca múltiple, una o más sociedades financieras de objeto limitado o una o más administradoras de fondos para el retiro o bien, filiales de instituciones financieras del exterior que se constituyan bajo la figura de instituciones de banca múltiple, sociedades financieras de objeto limitado, administradoras de fondos para el retiro, o sociedades controladoras de los grupos financieros anteriormente referidos, así como las actividades financiera, bancaria, crediticia y de ahorro dentro del ámbito de competencia de esta Unidad;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+I. bis. Interpretar, para efectos administrativos, las disposiciones de la Ley para Regular las Sociedades de Información Crediticia, de la Ley de Instituciones de Crédito en materia de Instituciones de Banca Múltiple, las disposiciones de la Ley para Regular las Agrupaciones Financieras, en materia de grupos financieros en los que participe una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, así como las disposiciones sobre servicios financieros que se incluyan en los tratados o acuerdos a que se refieren los artículos 45-B y 27-B de la Ley de Instituciones de Crédito y de la Ley para Regular las Agrupaciones Financieras, respectivamente, en materia de instituciones de banca múltiple y de grupos financieros en los que participe una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado;
 
 II. Participar, mediante la formulación de las políticas a que se refiere la fracción anterior, en la elaboración del Programa Nacional de Financiamiento del Desarrollo y en otros programas;
 
@@ -2067,13 +2701,45 @@ V. Coadyuvar, en su ámbito de competencia, en la formulación de políticas y m
 
 VI. Aprobar los lineamientos para la formulación de los programas financieros anuales de instituciones de banca múltiple y aprobar los programas correspondientes de aquellas en las que el Gobierno Federal tenga el control por su participación accionaria;
 
-VIl. Proponer, para aprobación superior, las autorizaciones y revocaciones para constituir, organizar, operar y funcionar, según sea el caso, como: institución de banca múltiple, sociedad financiera de objeto limitado, sociedad de información crediticia, sociedad de ahorro y préstamo, grupo financiero en el que participen una o más instituciones de banca múltiple, y filial de institución financiera del exterior que se pueda constituir conforme a la legislación aplicable, bajo la figura de cualquiera de las entidades mencionadas en esta fracción o bajo la figura de sociedad controladora del grupo financiero anteriormente referido. El ejercicio de esta atribución se hará, en su caso, en coordinación con la Dirección General de Seguros y Valores;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VIII. Emitir las opiniones sobre las solicitudes de autorización para la organización y operación de las administradoras de fondos para el retiro y sociedades de inversión especializadas de fondos para el retiro, y sus respectivas modificaciones;
+VII. Proponer, para aprobación superior, las autorizaciones y revocaciones para constituir, organizar, operar y funcionar, según sea el caso, como: institución de banca múltiple, sociedad financiera de objeto limitado, sociedad de información crediticia, sociedad de ahorro y préstamo, grupo financiero en el que participen una o más instituciones de banca múltiple o una o más sociedades de información crediticia, así como filiales de instituciones financieras del exterior que se pretendan constituir bajo la figura de instituciones de banca múltiple, sociedades financieras de objeto limitado o sociedades controladoras de los grupos financieros anteriormente referidos. El ejercicio de esta atribución se hará, en su caso, en coordinación con la Dirección General de Seguros y Valores;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VII. bis. Aprobar las escrituras constitutivas y los estatutos sociales y cualquier modificación a éstos, de instituciones de banca múltiple y sociedades financieras de objeto limitado, así como de sociedades de información crediticia y sociedades controladoras de grupos financieros en los que participen una o más instituciones de banca múltiple o una o más sociedades de información crediticia, respectivamente, así como de filiales de instituciones financieras del exterior que se constituyan bajo la figura de instituciones de banca múltiple, sociedades financieras de objeto limitado o sociedades controladoras de los grupos financieros anteriormente referidos;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VIII. Emitir las opiniones sobre las solicitudes de autorización para la organización y operación de las administradoras de fondos para el retiro y sociedades de inversión especializadas de fondos para el retiro, y sus respectivas modificaciones, así como de filiales de instituciones financieras del exterior que se constituyan bajo la figura de administradoras de fondos para el retiro;
 
 IX. Proponer, para aprobación superior, las concesiones para operar la Base de Datos Nacional SAR, así como la modificación, terminación y revocación de éstas y, en su caso, autorizar la suspensión de la prestación de los servicios de las empresas operadoras;
 
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+IX. bis. Autorizar las inversiones que las instituciones de banca múltiple pretendan realizar en las sociedades a que se refieren los artículos 75, fracción III, 88 y 89 de la Ley de Instituciones de Crédito, así como las inversiones que realicen las sociedades controladoras de grupos financieros en los que participe una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, de conformidad con el artículo 7o. último párrafo de la Ley para Regular las Agrupaciones Financieras, en relación con las disposiciones generales aplicables a tales grupos financieros;
+
 X. Autorizar la fusión o escisión de las entidades a que se refiere la fracción VII del presente artículo, ya sea entre ellas o con las sociedades a que se refieren los artículos 88 y 89 de la Ley de Instituciones de Crédito, así como autorizar la incorporación de una entidad a un grupo financiero en el que participen una o más instituciones de banca múltiple, la separación, fusión o escisión de alguno de sus integrantes, y los programas conducentes a dichas fusiones o escisiones cuando se trate de alguna de las entidades a que se refiere la fracción I de este artículo. Lo anterior, cuando el caso lo requiera, en coordinación con la Dirección General de Seguros y Valores;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+X. bis. Resolver respecto de las solicitudes de autorización para la adquisición de más del cinco por ciento de las acciones serie "O" de instituciones de banca múltiple, así como autorizar la adquisición del control de dichas instituciones, así como respecto de la enajenación de acciones serie "F" de instituciones de banca múltiple filiales;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+X. ter. Resolver respecto de las solicitudes de autorización para la adquisición de más del cinco por ciento de las acciones serie "O" de sociedades controladoras en las que participe una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, así como autorizar la adquisición del control de dichas instituciones, así como respecto de la enajenación de acciones serie "F" de sociedades controladoras filiales de los grupos financieros antes señalados;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+X. quáter. Autorizar la adquisición de acciones representativas del capital social de una o más instituciones de banca múltiple o de una o más sociedades financieras de objeto limitado, a instituciones financieras del exterior, sociedades controladoras filiales o filiales tal y como se define en el artículo 45-A fracción I de la referida Ley;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+X. quintus. Autorizar la adquisición de acciones representativas del capital social de sociedades controladoras en las que participe una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, a instituciones financieras del exterior o sociedades controladoras filiales;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+X. sextus. Autorizar las operaciones análogas o conexas que podrán realizar las instituciones de banca múltiple, en términos de las disposiciones aplicables;
 
 XI. Autorizar el establecimiento, cambio de ubicación y clausura de agencias, oficinas y sucursales de instituciones de banca múltiple en el exterior;
 
@@ -2083,7 +2749,9 @@ XIII. Ejercer las facultades de la Secretaría como coordinadora de sector y las
 
 XIV. Imponer, en el ámbito de su competencia, las sanciones establecidas en las leyes que rigen las materias financiera, bancaria, crediticia y de ahorro dentro del ámbito de competencia de esta Unidad, como atribución de la Secretaría;
 
-XV. Representar a la Secretaría, en el ámbito de su competencia, en sus relaciones con el Banco de México;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XV. Representar a la Secretaría, en el ámbito de su competencia, en sus relaciones con el Banco de México en las funciones que éste desempeñe de conformidad con las disposiciones que le sean aplicables;
 
 XVI. Ejercer las facultades de la Secretaría relacionadas con la Comisión Nacional Bancaria y de Valores, la Comisión Nacional del Sistema de Ahorro para el Retiro y, en coordinación con la Dirección General de Seguros y Valores, con la Comisión Nacional de Seguros y Fianzas en lo referente a los sistemas de ahorro para el retiro, siempre y cuando no formen parte de las facultades no delegables del Secretario. Lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
 
@@ -2091,11 +2759,23 @@ XVII. Participar en la negociación de tratados en los que se comprendan los ser
 
 XVIII. Resolver los asuntos referentes a la aplicación de las disposiciones relacionadas con las entidades y actividades señaladas en la fracción I de este artículo, que sean competencia de la Secretaría y no estén asignadas expresamente a otra unidad administrativa de la misma, excepto los que, con carácter indelegable, correspondan al Secretario;
 
-XIX. Formular, en el ámbito de su competencia, de conformidad con los artículos 115 de la Ley de Instituciones de Crédito, y 124 de la Ley de Ahorro y Crédito Popular, así como con la Ley de los Sistemas de Ahorro para el Retiro, las disposiciones de carácter general para prevenir y detectar actos u operaciones, con recursos, derechos o bienes que procedan o representen el producto de un probable delito, o financien la comisión del mismo;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XX. Participar en el diseño de las formas oficiales de reportes de operaciones inusuales y de operaciones relevantes y demás documentos relacionados, en el ámbito de su competencia;
+XIX. Respecto de las entidades señaladas en la fracción I de este artículo, formular y proponer, para aprobación superior y con la previa opinión de la Unidad de Inteligencia Financiera, las disposiciones de carácter general que, en términos de la legislación aplicable, la Secretaría deba emitir en relación con:
 
-XXI. Autorizar y registrar, en el ámbito de su competencia, los manuales de operación originados en las disposiciones de carácter general, para prevenir y detectar actos u operaciones con recursos, derechos o bienes que procedan o representen el producto de un probable delito, o financien la comisión del mismo;
+a) El establecimiento de medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código;
+
+b) La presentación a la Secretaría de reportes sobre los actos, operaciones y servicios que las entidades a que se refiere esta fracción y que estén obligadas a ello realicen con sus clientes y usuarios, relativos al inciso anterior, así como sobre todo acto, operación o servicio que, en su caso, realicen los miembros del consejo de administración, directivos, funcionarios, empleados y apoderados de dichas entidades obligadas, que pudiesen ubicarse en el supuesto previsto en el inciso a) anterior o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas, y
+
+c) Los lineamientos sobre el procedimiento y criterios que dichas entidades deban observar en términos de ley respecto del adecuado conocimiento de sus clientes y usuarios; la información y documentación que, en su caso, dichas entidades deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite la identidad de sus clientes; la forma en que las mismas entidades deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados en términos de lo anterior; así como los términos para proporcionar capacitación al interior de dichas entidades obligadas en términos de ley sobre la materia objeto de esta fracción;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XX. Participar, con la previa opinión de la Unidad de Inteligencia Financiera, en el estudio y elaboración de anteproyectos de iniciativas de leyes o decretos relativos a los actos indicados en la fracción anterior;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXI. Interpretar para efectos administrativos, con la previa opinión de la Unidad de Inteligencia Financiera, las disposiciones de carácter general señaladas en la fracción XIX anterior, así como las disposiciones legales de las que aquéllas emanen;
 
 XXII. Fungir como enlace entre la Secretaría y las diversas dependencias, entidades o unidades administrativas de éstas, así como de los organismos internacionales e intervenir en la obtención de información y documentación que se solicite por parte de las autoridades competentes de los países con los que se tengan celebrados convenios o tratados en las materias de su competencia;
 
@@ -2103,11 +2783,15 @@ XXIII. Proponer, en el ámbito de su competencia, para aprobación superior los 
 
 XXIV. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal, en los que al efecto su titular sea nombrado por el Secretario;
 
-XXV. Aprobar los manuales de seguridad y protección de las instituciones de crédito elaborados con fundamento en lo establecido por las reglas de carácter general a que hace referencia el artículo 96 de la Ley de Instituciones de Crédito, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXV. Aprobar los manuales de seguridad y protección de las instituciones de crédito elaborados con fundamento en lo establecido por las reglas de carácter general a que hace referencia el artículo 96 de la Ley de Instituciones de Crédito, así como resolver respecto de las solicitudes de excepción que las instituciones de crédito presenten de la obligación de implementar alguna o algunas de las disposiciones de dichas reglas; en el caso de instituciones de banca de desarrollo, dichas facultades se ejercerán conjuntamente con el Director General de Banca de Desarrollo, y
 
 XXVI. Resolver sobre cualquier modificación a las autorizaciones señaladas en las fracciones VII, XI, y XII del presente artículo.
 
-Los Directores Generales Adjuntos de Banca Múltiple, de Análisis Financiero y Vinculación Internacional y de Ahorro, podrán ejercer las atribuciones señaladas en las fracciones VII, X, XI, XII y XXVI de este artículo, siempre que intervengan en ella simultáneamente dos de los servidores públicos antes señalados, y uno de ellos sea competente para conocer de las entidades a que se refiera la autorización en cuestión.
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+Los Directores Generales Adjuntos de Banca Múltiple, de Análisis Financiero y Vinculación Internacional y de Ahorro y Regulación Financiera, podrán ejercer las atribuciones señaladas en las fracciones VII, X, XI, XII, XXV y XXVI de este artículo, siempre que intervengan en ella simultáneamente dos de los servidores públicos antes señalados, y uno de ellos sea competente para conocer de las entidades a que se refiera la autorización en cuestión.
 
 > <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -2115,9 +2799,21 @@ Los Directores Generales Adjuntos de Banca Múltiple, de Análisis Financiero y 
 
 Compete a la Dirección General Adjunta de Banca Múltiple:
 
-I. Participar en la formulación de políticas y medidas de promoción, regulación y supervisión en las actividades financiera, bancaria y crediticia, de las siguientes entidades financieras: instituciones de banca múltiple, sociedades financieras de objeto limitado, sociedades de información crediticia, oficinas de representación de las entidades financieras del exterior a que se refiere la fracción I del artículo 27 de este Reglamento, sucursales de bancos extranjeros de primer orden, y grupos financieros en los que participen una o más instituciones de banca múltiple o filiales de instituciones financieras del exterior que se constituyan bajo la figura de cualquiera de las entidades mencionadas en esta fracción o bajo la figura de sociedades controladoras de los grupos financieros anteriormente referidos;
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-I. bis. Coadyuvar con las autoridades competentes en la formulación de políticas y medidas de planeación, coordinación sectorial, operación y evaluación de las entidades citadas en la fracción anterior, en las que el Gobierno Federal tenga el control por su participación accionaria. Lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
+I. Participar en la formulación de políticas y medidas de promoción, regulación y supervisión en las actividades financiera, bancaria y crediticia, de las siguientes entidades financieras: instituciones de banca múltiple, sociedades financieras de objeto limitado, sociedades de información crediticia, oficinas de representación de las entidades financieras del exterior a que se refiere la fracción I del artículo 27 de este Reglamento, sucursales de bancos extranjeros de primer orden, y grupos financieros en los que participen, ya sea una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado o bien, filiales de instituciones financieras del exterior que se constituyan bajo la figura de instituciones de banca múltiple, sociedades financieras de objeto limitado o sociedades controladoras de los grupos financieros anteriormente referidos;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+I. bis. Aprobar las escrituras constitutivas y los estatutos sociales y cualquier modificación a éstos, de instituciones de banca múltiple y sociedades financieras de objeto limitado, así como de sociedades de información crediticia y sociedades controladoras de grupos financieros en los que participen una o más instituciones de banca múltiple o una o más sociedades de información crediticia, respectivamente, así como de filiales de instituciones financieras del exterior que se constituyan bajo la figura de instituciones de banca múltiple, sociedades financieras de objeto limitado o sociedades controladoras de los grupos financieros anteriormente referidos;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+I. ter. Interpretar, para efectos administrativos, las disposiciones de la Ley para Regular las Sociedades de Información Crediticia, de la Ley de Instituciones de Crédito en materia de Instituciones de Banca Múltiple, las disposiciones de la Ley para Regular las Agrupaciones Financieras, en materia de grupos financieros en los que participe una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, así como las disposiciones sobre servicios financieros que se incluyan en los tratados o acuerdos a que se refieren los artículos 45-B y 27-B de la Ley de Instituciones de Crédito y de la Ley para Regular las Agrupaciones Financieras, respectivamente, en materia de instituciones de banca múltiple y de grupos financieros en los que participe una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+I. quáter. Autorizar las operaciones análogas o conexas que podrán realizar las instituciones de banca múltiple, en términos de las disposiciones aplicables;
 
 II. Participar en la elaboración del Programa Nacional de Financiamiento del Desarrollo y en otros programas, en lo relacionado con las entidades y actividades señaladas en la fracción I anterior;
 
@@ -2133,63 +2829,143 @@ VI. bis. Autorizar el establecimiento, cambio de ubicación y clausura de agenci
 
 VII. Otorgar y revocar las autorizaciones para el establecimiento de oficinas de representación de las entidades financieras del exterior a que se refiere la fracción I del artículo 27 de este Reglamento, y de sucursales de bancos extranjeros de primer orden, cuyas operaciones activas y pasivas podrán efectuarse exclusivamente con residentes fuera del país;
 
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VII. bis. Autorizar las inversiones que las instituciones de banca múltiple pretendan realizar en las sociedades a que se refieren los artículos 75, fracción III, 88 y 89 de la Ley de Instituciones de Crédito, así como las inversiones que realicen las sociedades controladoras de grupos financieros en los que participe una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, de conformidad con el artículo 7o. último párrafo de la Ley para Regular las Agrupaciones Financieras, en relación con las disposiciones generales aplicables a tales grupos financieros;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VII. ter. Resolver respecto de las solicitudes de autorización para la adquisición de más del cinco por ciento de las acciones serie "O" de instituciones de banca múltiple, así como autorizar la adquisición del control de dichas instituciones; así como respecto de la enajenación de acciones serie "F" de instituciones de banca múltiple filiales;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VII. quáter. Resolver respecto de las solicitudes de autorización para la adquisición de más del cinco por ciento de las acciones serie "O" de sociedades controladoras en las que participe una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, así como autorizar la adquisición del control de dichas instituciones, así como respecto de la enajenación de acciones serie "F" de sociedades controladoras filiales de los grupos financieros antes señalados;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VII. quintus. Autorizar la adquisición de acciones representativas del capital social de una o más instituciones de banca múltiple o de una o más sociedades financieras de objeto limitado, a instituciones financieras del exterior, sociedades controladoras filiales o filiales tal y como se define en el artículo 45-A fracción I de la referida Ley;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VII. sextus. Autorizar la adquisición de acciones representativas del capital social de sociedades controladoras en las que participe una o más instituciones de banca múltiple o una o más sociedades financieras de objeto limitado, a instituciones financieras del exterior o sociedades controladoras filiales;
+
 VIII. Participar en la formulación de dictámenes a las solicitudes de autorización para el establecimiento de oficinas de representación de las entidades financieras del exterior a que se refiere la fracción I del artículo 27 de este Reglamento, y de sucursales de bancos extranjeros de primer orden, cuyas operaciones activas y pasivas podrán efectuarse exclusivamente con residentes fuera del país;
 
 VIII. bis. Representar, en el ámbito de su competencia, a la Secretaría en sus relaciones con el Banco de México;
 
 IX. Ejercer las facultades de la Secretaría como coordinadora de sector de las instituciones de banca múltiple en las que el Gobierno Federal tenga el control por su participación accionaria, así como proponer, para aprobación superior, los lineamientos a que deberán sujetarse en las materias de políticas, planes de largo plazo y las demás objeto de regulación. Lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
 
-X. Imponer, en el ámbito de su competencia, las sanciones establecidas en las leyes que rigen las actividades financiera, bancaria y crediticia como atribución de la Secretaría;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+X. Imponer, en el ámbito de su competencia, las sanciones establecidas en las leyes que rigen las actividades financiera, bancaria, monetaria y crediticia como atribución de la Secretaría;
 
 XI. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal, en los que participe la Secretaría, y en los que al efecto su titular sea nombrado por el Secretario como representante;
 
-XI. bis. Apoyar a la Unidad de Banca y Ahorro en la formulación de la política de negociación de convenios internacionales que contengan disposiciones en materias financiera, bancaria y crediticia de su competencia;
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XII. Proponer para aprobación superior, en el ámbito de su competencia, convenios internacionales y participar en su negociación y elaboración, así como participar en organismos y comités internacionales;
+XI. bis. Apoyar a la Unidad de Banca y Ahorro y a la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional, cuando se requiera, en la formulación de la política de negociación de convenios internacionales que contengan disposiciones en materias financiera, bancaria y crediticia de su competencia;
 
-XIII. Resolver los asuntos competencia de la Unidad de Banca y Ahorro, relativos a las entidades señaladas en la fracción I de este artículo, así como los asuntos referentes a la aplicación de otras disposiciones relacionadas con dichas entidades y con las materias financiera, bancaria y crediticia dentro del ámbito de competencia de esta Dirección General Adjunta, que sean a su vez competencia de la Secretaría y no estén asignadas expresamente a otra unidad administrativa de la misma, excepto los que, con carácter indelegable, correspondan al Secretario;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XII. Participar en los organismos y comités internacionales en el ámbito de su competencia;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIII. Resolver los asuntos competencia de la Unidad de Banca y Ahorro, relativos a las entidades señaladas en la fracción I de este artículo, así como los asuntos referentes a la aplicación de otras disposiciones relacionadas con dichas entidades y con las materias financiera, bancaria, monetaria y crediticia dentro del ámbito de su competencia, que sean a su vez competencia de la Secretaría y no estén asignadas expresamente a otra unidad administrativa de la misma, excepto los que, con carácter indelegable, correspondan al Secretario;
 
 XIV. Ejercer las atribuciones de la Secretaría respecto de la Comisión Nacional Bancaria y de Valores. Lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
 
 XV. Ser el enlace, en las materias de su competencia, entre la Secretaría y las diversas dependencias, entidades o unidades administrativas de éstas, así como de los organismos internacionales e intervenir en la obtención de información y documentación que se solicite por parte de las autoridades competentes de los países con los que se tengan celebrados convenios o tratados;
 
-XVI. Participar en coordinación con las Direcciones Generales Adjuntas adscritas a la Unidad de Banca y Ahorro, en la elaboración de proyectos de reformas a la legislación aplicable a las entidades reguladas por la Unidad de Banca y Ahorro con el propósito de impulsar el sano desarrollo y competitividad del sistema bancario, sin perjuicio de la participación que en el ámbito de su competencia corresponda a otras unidades administrativas de la Secretaría, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XVII. Resolver sobre cualquier modificación a las autorizaciones señaladas en las fracciones VII, XI y XII del artículo 27 de este Reglamento y que sean de su competencia, en términos de lo dispuesto en el último párrafo del citado artículo.
+XVI. Participar en coordinación con las Direcciones Generales Adjuntas adscritas a la Unidad de Banca y Ahorro, en la elaboración de proyectos de reformas a la legislación aplicable a las entidades reguladas por la Unidad de Banca y Ahorro con el propósito de impulsar el sano desarrollo y competitividad del sistema bancario, sin perjuicio de la participación que en el ámbito de su competencia corresponda a otras unidades administrativas de la Secretaría;
 
-Los Directores de Asuntos Internacionales de Banca Múltiple, y de Regulación de Banca Múltiple, podrán ejercer las atribuciones señaladas en las fracciones VI y VII del presente artículo, siempre que intervengan simultáneamente.
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+XVII. Resolver sobre cualquier modificación a las autorizaciones señaladas en las fracciones VII, XI y XII del artículo 27 de este Reglamento y que sean de su competencia, en términos de lo dispuesto en el último párrafo del citado artículo;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XVIII. Solicitar la opinión de las Direcciones Generales Adjuntas de la Unidad de Banca y Ahorro, para allegarse de los elementos necesarios para la correcta resolución de los asuntos que sean de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIX. Emitir, en el ámbito de su competencia, las opiniones que le sean solicitadas por cualquiera de las Direcciones Generales Adjuntas de la Unidad de Banca y Ahorro, para lo cual podrá solicitarles la información y documentación que sea necesaria, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XX. Solicitar información necesaria a las entidades a que se refiere la fracción I de este artículo, para la correcta resolución de los asuntos de su competencia.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+Los Directores de Regulación de Intermediarios Financieros No Bancarios, de Regulación de Intermediarios Financieros Bancarios y de Control Jurídico, podrán ejercer las atribuciones señaladas en las fracciones VI a VII sextus del presente artículo, siempre que intervengan simultáneamente.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 28-A.
 
-Compete a la Dirección de Asuntos Internacionales de Banca Múltiple:
+Compete a la Dirección de Regulación de Intermediarios Financieros No Bancarios:
 
-I. Apoyar a la Dirección General Adjunta de Banca Múltiple en el otorgamiento de las autorizaciones a filiales de instituciones financieras del exterior que se constituyan bajo la figura de sociedades controladoras que detenten la mayoría de las acciones de una o más instituciones de banca múltiple, instituciones de banca múltiple, y sociedades financieras de objeto limitado, así como de oficinas de representación de las entidades financieras del exterior a que se refiere la fracción I del artículo 27 de este Reglamento, y de sucursales de bancos extranjeros de primer orden, cuyas operaciones activas y pasivas podrán efectuarse exclusivamente con residentes fuera del país. Lo anterior, con excepción de la atribución señalada en la fracción VII del artículo 27 del presente Reglamento;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+I. Apoyar a la Dirección General Adjunta de Banca Múltiple en la formulación de dictámenes a las solicitudes de autorización para la organización, operación, constitución y funcionamiento, según sea el caso, de sociedades financieras de objeto limitado, y filiales de instituciones financieras del exterior que se constituyan bajo la figura de las entidades antes mencionadas, así como de sociedades de información crediticia;
+
+> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 II. Ejercer las atribuciones señaladas en el último párrafo del artículo 28 de este Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 III. Proponer, para aprobación superior, las políticas y medidas de regulación de las actividades de las entidades señaladas en la fracción I de este artículo;
 
+> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
 IV. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal, en los que al efecto su titular sea nombrado por el Secretario como representante;
 
-V. Coadyuvar con la Dirección General Adjunta de Banca Múltiple, en el ámbito de su competencia, en la negociación y elaboración de convenios internacionales, así como en la participación en organismos y comités internacionales, y
+V. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-VI. Fungir como Secretario del Comité de Apertura Financiera.
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+VI. Coadyuvar con la Dirección General Adjunta de Banca Múltiple, en el ejercicio de las facultades señaladas en el artículo 27 fracción XIII de este Reglamento, respecto de las entidades señaladas en la fracción I de este artículo;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VII. Ejercer, previo acuerdo superior, cualquiera de las facultades que este Reglamento otorga a las Direcciones de Regulación de Intermediarios Financieros Bancarios y de Control Jurídico, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VIII. Apoyar a la Dirección General Adjunta de Banca Múltiple, en el ejercicio de las atribuciones a que se refiere la fracción XIX del artículo 28 de este Reglamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 28-B.
 
-Compete a la Dirección de Regulación de Banca Múltiple:
+Compete a la Dirección de Regulación de Intermediarios Financieros Bancarios:
 
-I. Coadyuvar con la Dirección General Adjunta de Banca Múltiple respecto de las autorizaciones otorgadas a grupos financieros, instituciones de banca múltiple, sociedades financieras de objeto limitado, y sociedades de información crediticia, siempre y cuando no sean consideradas como filiales de instituciones financieras del exterior. Lo anterior, con excepción de la atribución señalada en la fracción VII del artículo 27 del presente Reglamento;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+I. Apoyar a la Dirección General Adjunta de Banca Múltiple, en la formulación de dictámenes a las solicitudes de autorización para la organización, operación, constitución y funcionamiento, según sea el caso, de instituciones de banca múltiple y grupos financieros en los que participe una o más instituciones de banca múltiple, o bien una o más sociedades financieras de objeto limitado, así como de filiales de instituciones financieras del exterior que se constituyan bajo la figura de las entidades antes mencionadas;
+
+> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 II. Ejercer las atribuciones señaladas en el último párrafo del artículo 28 de este Reglamento;
 
-III. Proponer, para aprobación superior, las políticas y medidas de regulación de las actividades de las entidades señaladas en la fracción I de este artículo, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-IV. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal, en los que al efecto su titular sea nombrado por el Secretario como representante.
+III. Proponer, para aprobación superior, las políticas y medidas de regulación de las actividades de las entidades señaladas en la fracción I de este artículo;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+IV. Coadyuvar con la Dirección General Adjunta de Banca Múltiple, en el ejercicio de las facultades señaladas en el artículo 27 fracción XIII de este Reglamento, respecto de las entidades señaladas en la fracción I de este artículo;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+V. Ejercer, previo acuerdo superior, cualquiera de las facultades que este Reglamento otorga a las Direcciones de Regulación de Intermediarios Financieros No Bancarios y de Control Jurídico, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VI. Apoyar a la Dirección General Adjunta de Banca Múltiple, en el ejercicio de las atribuciones a que se refiere la fracción XIX del artículo 28 de este Reglamento.
 
 > <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -2197,15 +2973,53 @@ IV. Asistir a las distintas sesiones de los órganos de gobierno de los órganos
 
 Compete a la Dirección de Control Jurídico:
 
-I. Establecer los mecanismos de control, seguimiento y evaluación que, previo acuerdo superior, permitan hacer eficiente el desarrollo de las actividades encomendadas a las diferentes Areas que desempeñen las facultades competencia de la Unidad de Banca y Ahorro;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-II. Apoyar a la Dirección General Adjunta de Banca Múltiple en el ejercicio de las facultades de la Secretaría respecto de la Comisión Nacional Bancaria y de Valores. Lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
+I. Coadyuvar con la Dirección General Adjunta de Banca Múltiple, en su participación en la elaboración del Programa Nacional de Financiamiento del Desarrollo y en otros programas, en lo relacionado con las entidades y actividades señaladas en la fracción I del artículo 28 anterior;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+II. Apoyar a la Dirección General Adjunta de Banca Múltiple, en el ejercicio de las atribuciones a que se refiere la fracción XIX del artículo 28 de este Reglamento, así como en el ejercicio de las facultades de la Secretaría respecto de la Comisión Nacional Bancaria y de Valores; lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 III. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal, en los que al efecto su titular sea nombrado por el Secretario como representante;
 
-IV. Participar en la recopilación de la normativa aplicable a las materias competencia de la Unidad de Banca y Ahorro, así como proponer esquemas para su sistematización y divulgación dentro de la misma, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-V. Resolver previo acuerdo superior, sobre los asuntos competencia de la Dirección General Adjunta de Banca Múltiple, relacionadas con la aplicación de las disposiciones legales contenidas en los ordenamientos que rigen las materias financiera, bancaria y crediticia, que no estén asignadas expresamente a otra unidad administrativa de la Secretaría. Lo anterior, con excepción de la atribución señalada en la fracción VII del artículo 27 del presente Reglamento.
+IV. Participar en la recopilación de la normativa aplicable a las materias competencia de la Dirección General Adjunta de Banca Múltiple, así como proponer a la Dirección General Adjunta de Ahorro y Regulación Financiera las reformas necesarias a dicha normatividad, para que ésta las atienda en términos de lo establecido por la fracción XVIII del artículo 30 de este Reglamento;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+V. Apoyar a la Dirección General Adjunta de Banca Múltiple, en los procesos de otorgamiento y revocación de las autorizaciones para el establecimiento de oficinas de representación de las entidades financieras del exterior a que se refiere la fracción I del artículo 27 de este Reglamento, y de sucursales de bancos extranjeros de primer orden;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VI. Participar, en coordinación con la Dirección General Adjunta de Banca Múltiple, en el proceso de autorización para el establecimiento, cambio de ubicación y clausura de agencias, oficinas y sucursales de instituciones de banca múltiple en el exterior;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VII. Coadyuvar con la Dirección General Adjunta de Banca Múltiple en la regulación de grupos financieros bancarios e instituciones de banca múltiple que hayan sido intervenidos gerencial o administrativamente por la Comisión Nacional Bancaria y de Valores, o bien instituciones de banca múltiple que reciban apoyos por el Instituto para la Protección al Ahorro Bancario, en términos de la Ley de Protección al Ahorro Bancario;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VIII. Coadyuvar con la Dirección General Adjunta de Banca Múltiple, en el ejercicio de las facultades de la Secretaría como coordinadora de sector de las instituciones de banca múltiple en las que el Gobierno Federal tenga el control por su participación accionaria, en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+IX. Coadyuvar con la Dirección General Adjunta de Banca Múltiple, en su participación en organismos y comités internacionales relacionados con las materias y entidades señaladas en el artículo 28 fracción I de este Reglamento, en representación de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+X. Coadyuvar con la Dirección General Adjunta de Banca Múltiple, en la evaluación de la operación y desempeño de las entidades y actividades señaladas en la fracción I del artículo 28 de este Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XI. Ejercer, previo acuerdo superior, cualquiera de las facultades que este Reglamento otorga a las Direcciones de Regulación de Intermediarios Financieros No Bancarios y de Regulación a Intermediarios Financieros Bancarios, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XII. Apoyar a la Dirección General Adjunta de Banca Múltiple, en el ejercicio de las atribuciones a que se refiere la fracción XIX del artículo 28 de este Reglamento.
 
 > <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -2213,7 +3027,9 @@ V. Resolver previo acuerdo superior, sobre los asuntos competencia de la Direcci
 
 Compete a la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional:
 
-I. Diseñar, integrar y evaluar la consistencia de las estadísticas elaboradas con respecto a los grupos financieros en los que participen una o más instituciones de banca múltiple; instituciones de banca múltiple, sociedades financieras de objeto limitado, así como filiales de instituciones financieras del exterior que se constituyan bajo la figura de cualesquiera de las mencionadas anteriormente, sociedades de información crediticia y sociedades de ahorro y préstamo, con el fin de llevar a cabo un seguimiento de la evolución del sistema financiero en general e identificar riesgos potenciales en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+I. Diseñar, integrar y evaluar la consistencia de las estadísticas elaboradas con respecto a instituciones de banca múltiple, sociedades financieras de objeto limitado, administradoras de fondos para el retiro, grupos financieros en los que participen una o más administradoras de fondos para el retiro, una o más instituciones de banca múltiple, o bien una o más sociedades financieras de objeto limitado y filiales de instituciones financieras del exterior que se constituyan bajo la figura de cualesquiera de las mencionadas anteriormente, sociedades de información crediticia y sociedades de ahorro y préstamo, sociedades de inversión especializadas de fondos para el retiro y empresas operadoras de la Base de Datos Nacional SAR, así como de los sistemas de ahorro para el retiro con el fin de llevar a cabo un seguimiento de la evolución del sistema financiero en general e identificar riesgos potenciales en el ámbito de su competencia;
 
 II. Participar en la elaboración del Programa Nacional de Financiamiento del Desarrollo y en otros programas, en lo relacionado con las actividades financiera, bancaria, crediticia y de banca y ahorro dentro del ámbito de competencia de la Unidad de Banca y Ahorro;
 
@@ -2225,11 +3041,15 @@ V. Evaluar, en el ámbito de su competencia, los programas de apoyo del Gobierno
 
 VI. Proponer, para aprobación superior, los lineamientos para la formulación de los programas financieros anuales de instituciones de banca múltiple, así como, en coordinación con la Dirección General Adjunta de Banca Múltiple, los programas financieros anuales de dichas instituciones en las que el Gobierno Federal tenga el control por su participación accionaria, y llevar a cabo el seguimiento y evaluación de los citados programas;
 
-VII. Participar en coordinación con la Dirección General Adjunta de Banca Múltiple y con la Dirección General Adjunta de Ahorro en la formulación de dictámenes respecto a las autorizaciones, revocaciones, opiniones y concesiones a que se refieren las fracciones VII a XII del artículo 27 de este Reglamento, en relación con sus aspectos económico y financiero. Lo anterior, cuando el caso lo requiera, en coordinación con la Dirección General de Seguros y Valores, y de conformidad con lo dispuesto en el último párrafo del artículo 27 de este Reglamento;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VII. Participar en coordinación con la Dirección General Adjunta de Banca Múltiple y con la Dirección General Adjunta de Ahorro y Regulación Financiera en la formulación de dictámenes respecto a las autorizaciones, revocaciones, opiniones y concesiones a que se refieren las fracciones VII a XII del artículo 27 de este Reglamento, en relación con sus aspectos económico y financiero. Lo anterior, cuando el caso lo requiera, en coordinación con la Dirección General de Seguros y Valores, y de conformidad con lo dispuesto en el último párrafo del artículo 27 de este Reglamento;
 
 VIII. Coadyuvar en el ejercicio de las facultades de la Secretaría como coordinadora de sector de las instituciones de banca múltiple en las que el Gobierno Federal tenga el control por su participación accionaria, así como proponer, para aprobación superior, los lineamientos a que deberán sujetarse en las materias de políticas, planes de largo plazo, programas, presupuestos, administración de sueldos y prestaciones; así como las demás objeto de regulación;
 
-VIII. bis. Participar, en el ámbito de su competencia, en la negociación y elaboración de convenios internacionales, y en organismos y comités internacionales;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VIII. bis. Coadyuvar con la Unidad de Banca y Ahorro, en la negociación y elaboración de convenios internacionales, y en organismos y comités internacionales;
 
 VIII. ter. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal, en los que al efecto su titular sea nombrado por el Secretario como representante;
 
@@ -2245,9 +3065,33 @@ XI. Coadyuvar en el ejercicio de las atribuciones de la Secretaría respecto de 
 
 XII. Apoyar a la Unidad de Banca y Ahorro, en el ámbito de su competencia, en la atención a analistas, inversionistas y agencias calificadoras nacionales e internacionales; así como en la atención a organismos internacionales;
 
-XIII. Participar en coordinación con las demás Direcciones Generales Adjuntas adscritas a la Unidad de Banca y Ahorro, en la elaboración de proyectos de reformas a la legislación aplicable a entidades reguladas por la Unidad de Banca y Ahorro con el propósito de impulsar el sano desarrollo y competitividad del sistema bancario, sin perjuicio de las atribuciones que correspondan, en el ámbito de su competencia a otras unidades administrativas de la Secretaría, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XIV. Diseñar e implementar metodologías de análisis e investigación para maximizar la utilización de estadísticas y reforzar los resultados de los proyectos del Area.
+XIII. Participar en coordinación con las demás Direcciones Generales Adjuntas adscritas a la Unidad de Banca y Ahorro, en la elaboración de proyectos de reformas a la legislación aplicable a entidades reguladas por la Unidad de Banca y Ahorro con el propósito de impulsar el sano desarrollo y competitividad del sistema bancario, sin perjuicio de las atribuciones que correspondan, en el ámbito de su competencia a otras unidades administrativas de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIV. Diseñar e implementar metodologías de análisis e investigación para maximizar la utilización de estadísticas y reforzar los resultados de los proyectos del área;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XV. Coadyuvar con la Unidad de Banca y Ahorro, en el ejercicio de la atribución que a ésta le confiere el artículo 27 fracción XIX de este Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XVI. Proponer para aprobación superior las propuestas de resolución de las consultas planteadas respecto a la interpretación de las disposiciones de carácter general a que se refiere la fracción XV del presente artículo;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XVII. Solicitar la opinión de las Direcciones Generales Adjuntas de la Unidad de Banca y Ahorro, para allegarse de los elementos necesarios para la correcta resolución de los asuntos que sean de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XVIII. Emitir, en el ámbito de su competencia, las opiniones que le sean solicitadas por las Direcciones Generales Adjuntas de la Unidad de Banca y Ahorro, para lo cual podrá solicitarles la información y documentación que sea necesaria, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIX. Solicitar información necesaria a las entidades a que se refiere la fracción I de este artículo, para la correcta resolución de los asuntos de su competencia.
 
 > <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -2255,9 +3099,13 @@ XIV. Diseñar e implementar metodologías de análisis e investigación para max
 
 Compete a la Dirección de Análisis Financiero de Intermediarios Bancarios:
 
-I. Participar en el diseño e integración de estadísticas que permitan evaluar el comportamiento financiero y detectar riesgos potenciales en el ámbito de su competencia de los grupos financieros en los que participe una institución de banca múltiple, instituciones de banca múltiple y filiales de instituciones financieras del exterior que se constituyan bajo cualesquiera de las figuras mencionadas anteriormente, así como sociedades de información crediticia;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-II. Participar, en el ámbito de su competencia, en la formulación de dictámenes respecto a las autorizaciones, revocaciones, opiniones y concesiones a que se refieren las fracciones VII y X del artículo 27 de este Reglamento, en relación con sus aspectos económico y financiero;
+I. Participar en el diseño e integración de estadísticas que permitan evaluar el comportamiento financiero y detectar riesgos potenciales en el ámbito de su competencia, de los grupos financieros en los que participe una o más administradoras de fondos para el retiro, una o más instituciones de banca múltiple o bien, una o más sociedades financieras de objeto limitado, instituciones de banca múltiple, administradoras de fondos para el retiro y filiales de instituciones financieras del exterior que se constituyan bajo cualesquiera de las figuras mencionadas anteriormente, sociedades de información crediticia, sociedades de inversión especializadas de fondos para el retiro, empresas operadoras de la Base de Datos Nacional SAR, así como de los sistemas de ahorro para el retiro;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+II. Participar, en el ámbito de su competencia, en la formulación de dictámenes respecto a las autorizaciones, revocaciones, opiniones y concesiones a que se refieren las fracciones VII a la XII del artículo 27 de este Reglamento, en relación con sus aspectos económico y financiero;
 
 III. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal en los que su titular sea nombrado por el Secretario como representante;
 
@@ -2267,77 +3115,201 @@ V. Participar, en el ámbito de sus atribuciones, en el diseño, instrumentació
 
 VI. Elaborar proyectos especiales de investigación en materia crediticia, ahorro y actividades financieras, en relación con las instituciones, grupos, sociedades y entidades mencionadas en la fracción I de este artículo;
 
-VII. Participar en la elaboración de los lineamientos para la formulación de los programas financieros anuales de instituciones de banca múltiple, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VIII. Apoyar a la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional, en el ámbito de su competencia, en la atención a analistas, inversionistas y agencias calificadoras nacionales e internacionales; así como en la atención a organismos internacionales, en relación con las instituciones, grupos, sociedades y entidades mencionadas en la fracción I de este artículo.
+VII. Participar en la elaboración de los lineamientos para la formulación de los programas financieros anuales de instituciones de banca múltiple;
 
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VIII. Apoyar a la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional en asuntos nacionales e internacionales, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+IX. Ejercer, previo acuerdo superior, cualquiera de las facultades que este Reglamento otorga a las Direcciones de Análisis Financiero de Intermediarios No Bancarios y de Vinculación Internacional, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+X. Apoyar a la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional, en el ejercicio de las atribuciones a que se refiere la fracción XVIII del artículo 29 de este Reglamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 29-B.
 
-Compete a la Dirección de Análisis Financiero de Intermediarios No Bancarios y Vinculación Internacional:
+Compete a la Dirección de Análisis Financiero de Intermediarios No Bancarios:
+
+> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 I. Participar en el diseño e integración de estadísticas que permitan evaluar el comportamiento financiero y detectar riesgos potenciales en el ámbito de su competencia de las sociedades financieras de objeto limitado y sociedades de ahorro y préstamo, así como filiales del exterior que se constituyan bajo cualesquiera de las figuras mencionadas anteriormente;
 
-II. Participar, en el ámbito de su competencia, en la formulación de dictámenes respecto a las autorizaciones, revocaciones, opiniones y concesiones a que se refieren las fracciones VII a XII del artículo 27 de este Reglamento, en relación con sus aspectos económico y financiero;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+II. Participar, en el ámbito de su competencia, en la formulación de dictámenes respecto a las autorizaciones, revocaciones, opiniones y concesiones a que se refieren las fracciones VII y X del artículo 27 de este Reglamento, en relación con sus aspectos económico y financiero;
+
+> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 III. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal en los que al efecto su titular sea nombrado por el Secretario como representante;
 
+> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
 IV. Analizar y comentar, en el ámbito de su competencia, los reportes producidos por organismos internacionales en relación con el desempeño del sistema financiero nacional en su conjunto, así como en relación a las entidades a que se refiere la fracción I de este artículo;
+
+> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 V. Participar, en el ámbito de sus atribuciones, en el diseño, instrumentación y seguimiento de políticas y medidas de promoción, regulación, desarrollo y solvencia del sistema financiero, y de impulso de fuentes de financiamiento en relación con las entidades mencionadas en la fracción I de este artículo;
 
+> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
 VI. Elaborar proyectos especiales de investigación en materia crediticia, ahorro y actividades financieras, en relación con las sociedades mencionadas en la fracción I de este artículo;
 
-VII. Participar, en el ámbito de su competencia, en la negociación y elaboración de convenios internacionales, y en organismos y comités internacionales, y
+VII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-VIII. Apoyar a la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional, en el ámbito de su competencia, en la atención a analistas, inversionistas y agencias calificadoras nacionales e internacionales; así como en la atención a organismos internacionales, en relación con las sociedades mencionadas en la fracción I de este artículo.
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+VIII. Apoyar a la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional, en el ámbito de su competencia, en asuntos nacionales e internacionales;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+IX. Ejercer, previo acuerdo superior, cualquiera de las facultades que este Reglamento otorga a las Direcciones de Análisis Financiero de Intermediarios Bancarios y de Vinculación Internacional, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+X. Apoyar a la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional, en el ejercicio de las atribuciones a que se refiere la fracción XVIII del artículo 29 de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+###### Artículo 29-C.
+
+Compete a la Dirección de Vinculación Internacional:
+
+I. Participar en la formulación de las políticas de negociación y de los anteproyectos de convenios y tratados internacionales relativos a las materias de la competencia de la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional, así como en las negociaciones respectivas;
+
+II. Participar en el ámbito de su competencia, en organismos y comités internacionales;
+
+III. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal, en los que al efecto su titular sea nombrado por el Secretario como representante;
+
+IV. Coadyuvar con la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional, en el ejercicio de las atribuciones a que se refiere la fracción XV del artículo 29 de este Reglamento;
+
+V. Analizar y elaborar las propuestas de resolución de las consultas planteadas respecto a la interpretación de las disposiciones de carácter general a que se refiere la fracción XV del artículo 29 de este Reglamento;
+
+VI. Apoyar a la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional, en el ámbito de su competencia, en asuntos nacionales e internacionales;
+
+VII. Ejercer, previo acuerdo superior, cualquiera de las facultades que este Reglamento otorga a las Direcciones de Análisis Financiero de Intermediarios Bancarios y de Análisis Financiero de Intermediarios No Bancarios, y
+
+VIII. Apoyar a la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional, en el ejercicio de las atribuciones a que se refiere la fracción XVIII del artículo 29 de este Reglamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 30.
 
-Compete a la Dirección General Adjunta de Ahorro:
+Compete a la Dirección General Adjunta de Ahorro y Regulación Financiera:
 
-I. Participar en la formulación de políticas y medidas de promoción, regulación y supervisión en materia crediticia y de ahorro de las siguientes entidades financieras: sociedades de ahorro y préstamo, administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro y empresas operadoras de la Base de Datos Nacional SAR, así como de los sistemas de ahorro para el retiro;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+I. Participar en la formulación de políticas y medidas de promoción, regulación y supervisión en materia crediticia y de ahorro de las siguientes entidades financieras: administradoras de fondos para el retiro, filiales de instituciones financieras del exterior que se constituyan bajo la figura de cualesquiera de las mencionadas anteriormente, sociedades de ahorro y préstamo, sociedades de inversión especializadas de fondos para el retiro, empresas operadoras de la Base de Datos Nacional SAR, así como de los sistemas de ahorro para el retiro y grupos financieros en los que participe una o más administradoras de fondos para el retiro; así como brindar apoyo en general respecto a la formulación de las políticas a que se refiere la fracción I del artículo 27 de este Reglamento;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 II. Participar en la elaboración del Programa Nacional de Financiamiento del Desarrollo y en otros programas afines, en lo relacionado con las entidades señaladas en la fracción anterior o con los sistemas de ahorro para el retiro;
 
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
 III. Participar en la evaluación de la operación y desempeño de las entidades señaladas en la fracción I de este artículo y de los sistemas de ahorro para el retiro, así como en la inducción, concertación y coordinación para aplicar mecanismos de control de gestión en dichas entidades, en coordinación con la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional;
 
-IV. Emitir las opiniones sobre las solicitudes de autorización para la organización y operación de las administradoras de fondos para el retiro y las sociedades de inversión especializadas de fondos para el retiro;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+IV. Emitir las opiniones sobre las solicitudes de autorización para la organización y operación de las administradoras de fondos para el retiro y las sociedades de inversión especializadas de fondos para el retiro, así como filiales de instituciones financieras del exterior que se constituyan bajo la figura de administradoras de fondos para el retiro;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 V. Proponer, para aprobación superior, las concesiones para operar la Base de Datos Nacional SAR, así como la prórroga, modificación, terminación y revocación de éstas; y, en su caso, autorizar la suspensión de la prestación de los servicios de las empresas operadoras, así como coadyuvar en el ámbito de su competencia, con la Unidad de Banca y Ahorro, en el ejercicio de las facultades que se le confieren a esta Secretaría en las mencionadas concesiones;
 
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
 VI. Participar en la formulación de dictámenes a las solicitudes de autorización para la incorporación de una nueva sociedad a un grupo financiero, la separación o escisión de alguno de sus integrantes, la fusión de dos o más grupos financieros, la fusión de dos o más entidades participantes en el mismo grupo financiero y la disolución de un grupo financiero o su escisión, todo ello siempre que participe una administradora de fondos para el retiro, en coordinación con las demás unidades administrativas competentes de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 VI. bis. Participar en coordinación con la Dirección General Adjunta de Banca Múltiple y la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional en la formulación de dictámenes respecto a las autorizaciones, revocaciones, opiniones y concesiones a que se refiere el artículo 27 fracciones VII a X de este Reglamento;
 
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
 VII. Imponer, en el ámbito de competencia de la Secretaría, las sanciones establecidas en las leyes que rigen las actividades crediticia y de ahorro, como atribución de la Secretaría, y dentro del ámbito de competencia de la Unidad de Banca y Ahorro;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 VIII. Ejercer las facultades de la Secretaría relacionadas con la Comisión Nacional del Sistema de Ahorro para el Retiro y, en coordinación con la Dirección General de Seguros y Valores, con la Comisión Nacional de Seguros y Fianzas en lo referente a los sistemas de ahorro para el retiro; así como respecto de los órganos o mecanismos que se implementen para el apoyo al ahorro popular. Lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
 
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
 VIII. bis. Representar, en el ámbito de su competencia, a la Secretaría en sus relaciones con el Banco de México;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 VIII. ter. Ejercer las facultades de la Secretaría como coordinadora de sector y las atribuciones que las leyes de la materia confieran a la misma relacionadas con el Instituto para la Protección al Ahorro Bancario y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros. Lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
 
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
 IX. Participar, en el ámbito de su competencia, en la negociación y elaboración de convenios internacionales, y en organismos y comités internacionales;
 
-X. Coadyuvar en la recopilación, diseño e integración de estadísticas relacionadas con las entidades señaladas en la fracción I de este artículo y con los sistemas de ahorro para el retiro además de los esquemas que se implementen para el apoyo del ahorro popular, en coordinación con la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional;
+X. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 XI. Resolver los asuntos competencia de la Unidad de Banca y Ahorro, relativos a las entidades señaladas en la fracción I de este artículo, así como los asuntos referentes a los sistemas de ahorro para el retiro, protección al ahorro bancario y fomento al ahorro popular que sean competencia de la Secretaría, y no estén asignados expresamente a otra unidad administrativa de la misma, excepto los que, con carácter indelegable, correspondan al Secretario;
 
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
 XII. Elaborar estudios y proyectos para instrumentar las estrategias de política financiera contenidas en el Plan Nacional de Desarrollo y en el Programa Nacional de Financiamiento del Desarrollo;
 
-XIII. Participar en coordinación con las Direcciones Generales Adjuntas adscritas a la Unidad de Banca y Ahorro, en la elaboración de proyectos de reformas a la legislación aplicable a entidades reguladas por dicha Unidad con el propósito de impulsar el sano desarrollo y competitividad del sistema bancario, sin perjuicio de las atribuciones que correspondan, en el ámbito de su competencia a otras unidades administrativas de la Secretaría;
+XIII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 XIV. Participar, en coordinación con las unidades administrativas de la Secretaría y otras autoridades competentes, en el diseño, instrumentación y seguimiento de políticas y programas de fomento y protección al ahorro;
 
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
 XV. Coadyuvar con la Unidad de Banca y Ahorro, en el ejercicio de las atribuciones que se confieren a la Secretaría respecto al mecanismo preventivo y de protección del ahorro, así como en la Ley de Ahorro y Crédito Popular;
 
-XVI. Fungir, en el ámbito de su competencia, como enlace entre la Secretaría y las diversas dependencias, entidades o unidades administrativas de éstas, así como de los organismos internacionales e intervenir en la obtención de información y documentación que se solicite por parte de las autoridades competentes de los países con los que se tengan celebrados convenios o tratados, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XVII. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal, en los que su titular sea nombrado por el Secretario como representante.
+XVI. Fungir, en el ámbito de su competencia, como enlace entre la Secretaría y las diversas dependencias, entidades o unidades administrativas de éstas, así como de los organismos internacionales e intervenir en la obtención de información y documentación que se solicite por parte de las autoridades competentes de los países con los que se tengan celebrados convenios o tratados;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XVII. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal, en los que su titular sea nombrado por el Secretario como representante;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XVIII. Coordinar la elaboración de estudios, en el ámbito de su competencia, sobre la normatividad aplicable a las entidades a que se refiere la fracción I del artículo 27 del presente Reglamento, y formular para aprobación superior las propuestas de iniciativas de decretos, relativos a las disposiciones jurídicas aplicables a dichas entidades, sin perjuicio de las atribuciones que correspondan a otras unidades administrativas de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIX. Coordinar la elaboración de políticas públicas encaminadas a proporcionar transparencia, claridad y eficiencia en la regulación de las entidades a que se refiere el artículo 27 fracción I del presente Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XX. Participar con las demás Direcciones Generales Adjuntas adscritas a la Unidad de Banca y Ahorro, y con las autoridades y demás unidades administrativas de la Secretaría competentes, en la elaboración y discusión de las iniciativas de ley o decretos relativos a las disposiciones legales aplicables a las entidades a las que se refiere la fracción I del artículo 27 del presente Reglamento; sin perjuicio de las atribuciones conferidas a otras unidades administrativas de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXI. Apoyar a la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional en la formulación de la política de negociación de convenios internacionales en el ámbito de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXII. Fungir, como enlace de la Unidad de Banca y Ahorro con otras autoridades de la Administración Pública Federal, en las materias de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXIII. Apoyar, en el ámbito de su competencia a la Unidad de Banca y Ahorro en sus relaciones con la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas, la Comisión Nacional del Sistema de Ahorro para el Retiro, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, y el Instituto para la Protección al Ahorro Bancario;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXIV. Solicitar la opinión del resto de las Direcciones Generales Adjuntas de la Unidad de Banca y Ahorro, en el ámbito de sus respectivas competencias, para allegarse de los elementos necesarios para la correcta resolución de los asuntos que sean de su competencia, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXV. Emitir, en el ámbito de su competencia, las opiniones que le sean solicitadas por cualquiera de las Direcciones Generales Adjuntas de la Unidad de Banca y Ahorro, para lo cual podrá solicitarles la información y documentación que sea necesaria.
 
 > <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -2345,161 +3317,177 @@ XVII. Asistir a las distintas sesiones de los órganos de gobierno de los órgan
 
 Compete a la Dirección de Planeación y Ahorro:
 
-I. Coadyuvar, con la Dirección General Adjunta de Ahorro en la formulación de políticas y medidas de promoción de administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro y empresas operadoras de la Base de Datos Nacional SAR, así como de los sistemas de ahorro para el retiro;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-II. Coadyuvar, con la Dirección General Adjunta de Ahorro en la elaboración del Programa Nacional de Financiamiento del Desarrollo y en otros programas afines, en lo relacionado con las entidades señaladas en la fracción anterior o con los sistemas de ahorro para el retiro;
+I. Coadyuvar, con la Dirección General Adjunta de Ahorro y Regulación Financiera en la formulación de políticas y medidas de promoción de administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro, filiales de instituciones financieras del exterior que se constituyan bajo la figura de cualesquiera de las mencionadas anteriormente, así como de los sistemas de ahorro para el retiro;
 
-III. Coadyuvar, con la Dirección General Adjunta de Ahorro en la evaluación de la operación y desempeño de las entidades señaladas en la fracción I de este artículo y de los sistemas de ahorro para el retiro, así como en la inducción, concertación y coordinación para aplicar mecanismos de control de gestión en dichas entidades;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-IV. Apoyar, en el ámbito de su competencia, a la Dirección General Adjunta de Ahorro en sus relaciones con el Banco de México;
+II. Coadyuvar, con la Dirección General Adjunta de Ahorro y Regulación Financiera en la elaboración del Programa Nacional de Financiamiento del Desarrollo y en otros programas afines, en lo relacionado con las entidades señaladas en la fracción anterior o con los sistemas de ahorro para el retiro;
 
-V. Apoyar, en el ámbito de su competencia, a la Dirección General Adjunta de Ahorro en sus relaciones con la Comisión Nacional del Sistema de Ahorro para el Retiro, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y, en coordinación con la Dirección General de Seguros y Valores, con la Comisión Nacional de Seguros y Fianzas, en lo referente a los sistemas de ahorro para el retiro; así como respecto del Instituto para la Protección al Ahorro Bancario y órganos o mecanismos que se implementen para el apoyo al ahorro popular. Lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VI. Coadyuvar, con la Dirección General Adjunta de Ahorro en el ámbito de su competencia, en la negociación y elaboración de convenios internacionales, y en organismos y comités internacionales;
+III. Coadyuvar, con la Dirección General Adjunta de Ahorro y Regulación Financiera en la evaluación de la operación y desempeño de las entidades señaladas en la fracción I de este artículo y de los sistemas de ahorro para el retiro, así como en la inducción, concertación y coordinación para aplicar mecanismos de control de gestión en dichas entidades;
 
-VII. Coadyuvar, con la Dirección General Adjunta de Ahorro en la recopilación, diseño e integración de estadísticas relacionadas con las entidades señaladas en la fracción I de este artículo y con los sistemas de ahorro para el retiro además de los esquemas que se implementen para el apoyo del ahorro popular;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VIII. Coadyuvar, con la Dirección General Adjunta de Ahorro en la elaboración de estudios y proyectos para instrumentar las estrategias de política financiera contenidas en el Plan Nacional de Desarrollo y en el Programa Nacional de Financiamiento del Desarrollo;
+IV. Apoyar, en el ámbito de su competencia, a la Dirección General Adjunta de Ahorro y Regulación Financiera en sus relaciones con el Banco de México;
 
-IX. Coadyuvar, con la Dirección General Adjunta de Ahorro en el diseño, instrumentación y seguimiento de políticas y programas de fomento y protección al ahorro;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-X. Coadyuvar con la Dirección General Adjunta de Ahorro en el ámbito de su competencia, en el ejercicio de las atribuciones que se confieren a la Secretaría respecto al mecanismo preventivo y de protección del ahorro, así como en la Ley del Ahorro y Crédito Popular, y
+V. Apoyar, en el ámbito de su competencia, a la Dirección General Adjunta de Ahorro y Regulación Financiera en sus relaciones con la Comisión Nacional del Sistema de Ahorro para el Retiro, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y, en coordinación con la Dirección General de Seguros y Valores, con la Comisión Nacional de Seguros y Fianzas, en lo referente a los sistemas de ahorro para el retiro; así como respecto del Instituto para la Protección al Ahorro Bancario y órganos o mecanismos que se implementen para el apoyo al ahorro popular. Lo anterior, excluyendo las atribuciones que en las materias presupuestaria, de administración de sueldos, de prestaciones o de ministración de recursos, tengan conferidas en este Reglamento otras unidades administrativas de la Secretaría;
 
-XI. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal, en los que su titular sea nombrado por el Secretario como representante.
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+VI. Coadyuvar, con la Dirección General Adjunta de Ahorro y Regulación Financiera en el ámbito de su competencia, en la negociación y elaboración de convenios internacionales, y en organismos y comités internacionales;
+
+VII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VIII. Coadyuvar, con la Dirección General Adjunta de Ahorro y Regulación Financiera en la elaboración de estudios y proyectos para instrumentar las estrategias de política financiera contenidas en el Plan Nacional de Desarrollo y en el Programa Nacional de Financiamiento del Desarrollo;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+IX. Coadyuvar, con la Dirección General Adjunta de Ahorro y Regulación Financiera en el diseño, instrumentación y seguimiento de políticas y programas de fomento y protección al ahorro;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+X. Coadyuvar con la Dirección General Adjunta de Ahorro y Regulación Financiera en el ámbito de su competencia, en el ejercicio de las atribuciones que se confieren a la Secretaría respecto al mecanismo preventivo y de protección del ahorro, así como en la Ley del Ahorro y Crédito Popular;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XI. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal, en los que su titular sea nombrado por el Secretario como representante;
+
+XII. Coadyuvar con la Dirección General Adjunta de Ahorro y Regulación Financiera en la elaboración de dictámenes de opinión sobre las solicitudes de autorización para la organización y operación de las administradoras de fondos para el retiro, las sociedades de inversión especializadas de fondos para el retiro, así como filiales de instituciones financieras del exterior que se constituyan bajo la figura de administradoras de fondos para el retiro;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIII. Coadyuvar con la Dirección General Adjunta de Ahorro y Regulación Financiera en la elaboración de dictámenes a las solicitudes de autorización para la incorporación de una nueva sociedad a un grupo financiero, la separación o escisión de alguno de sus integrantes, la fusión de dos o más grupos financieros, la fusión de dos o más entidades participantes en el mismo grupo financiero y la disolución de un grupo financiero o su escisión. Lo anterior, siempre que participe una administradora de fondos para el retiro o una filial de instituciones financieras del exterior que se constituyan bajo la figura de ésta;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIV. Proponer para autorización superior la resolución de los asuntos referentes a la aplicación de las disposiciones relacionadas con las entidades señaladas en la fracción I de este artículo, así como respecto de los sistemas de ahorro para el retiro, protección al ahorro bancario y fomento al ahorro popular que sean competencia de la Secretaría, excepto los que con carácter indelegable, correspondan al Secretario, y sin perjuicio de las atribuciones de otras unidades administrativas de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XV. Ejercer, previo acuerdo superior, cualquiera de las facultades que este Reglamento otorga a las Direcciones Jurídica de Regulación Financiera y de Estudios de Ahorro, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XVI. Apoyar a la Dirección General Adjunta de Ahorro y Regulación Financiera, en el ejercicio de las atribuciones a que se refiere la fracción XXV del artículo 30 de este Reglamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 30-B.
 
-Compete a la Dirección Jurídica de Ahorro:
+Compete a la Dirección Jurídica de Regulación Financiera:
 
-I. Coadyuvar con la Dirección General Adjunta de Ahorro en la regulación de las sociedades de ahorro y préstamo, administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro y empresas operadoras de la Base de Datos Nacional SAR, así como de los sistemas de ahorro para el retiro;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-II. Coadyuvar con la Dirección General Adjunta de Ahorro en la elaboración del Programa Nacional de Financiamiento del Desarrollo, en lo relacionado con las entidades señaladas en la fracción anterior o con los sistemas de ahorro para el retiro;
+I. Coadyuvar con la Dirección General Adjunta de Ahorro y Regulación Financiera en la regulación de las sociedades de ahorro y préstamo y empresas operadoras de la Base de Datos Nacional SAR;
 
-III. Coadyuvar con la Dirección General Adjunta de Ahorro en la elaboración de dictámenes de opinión sobre las solicitudes de autorización para la organización y operación de las administradoras de fondos para el retiro y las sociedades de inversión especializadas de fondos para el retiro;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-IV. Coadyuvar con la Dirección General Adjunta de Ahorro en la elaboración de dictámenes respecto al otorgamiento de concesiones para operar la Base de Datos Nacional SAR, para la modificación, renovación, terminación y revocación de éstas, así como la autorización para suspender la prestación de los servicios de las empresas operadoras;
+II. Coadyuvar con la Dirección General Adjunta de Ahorro y Regulación Financiera en la elaboración del Programa Nacional de Financiamiento del Desarrollo, en lo relacionado con las entidades señaladas en la fracción anterior o con los sistemas de ahorro para el retiro;
 
-V. Coadyuvar con la Dirección General Adjunta de Ahorro en la elaboración de dictámenes a las solicitudes de autorización para la incorporación de una nueva sociedad a un grupo financiero, la separación o escisión de alguno de sus integrantes, la fusión de dos o más grupos financieros, la fusión de dos o más entidades participantes en el mismo grupo financiero y la disolución de un grupo financiero o su escisión. Lo anterior, siempre que participe una administradora de fondos para el retiro;
+III. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+IV. Coadyuvar con la Dirección General Adjunta de Ahorro y Regulación Financiera en la elaboración de dictámenes respecto al otorgamiento de concesiones para operar la Base de Datos Nacional SAR, para la modificación, renovación, terminación y revocación de éstas, así como la autorización para suspender la prestación de los servicios de las empresas operadoras;
+
+V. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
+
+> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 VI. Analizar, dictaminar y someter a aprobación superior, la aplicación de las sanciones establecidas en las leyes que rigen a los sistemas de ahorro para el retiro como atribución de la Secretaría;
 
-VII. Apoyar, en el ámbito de su competencia, a la Dirección General Adjunta de Ahorro en sus relaciones con el Banco de México;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VIII. Apoyar, en el ámbito de su competencia, a la Dirección General Adjunta de Ahorro en sus relaciones con la Comisión Nacional de Seguros y Fianzas, la Comisión Nacional del Sistema de Ahorro para el Retiro, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, el Instituto para la Protección al Ahorro Bancario, y los órganos o mecanismos que se implementen para el apoyo al ahorro popular;
+VII. Apoyar, en el ámbito de su competencia, a la Dirección General Adjunta de Ahorro y Regulación Financiera en sus relaciones con el Banco de México;
 
-IX. Proponer para autorización superior la resolución de los asuntos referentes a la aplicación de las disposiciones relacionadas con las entidades señaladas en la fracción I de este artículo, así como respecto de los sistemas de ahorro para el retiro, protección al ahorro bancario y fomento al ahorro popular que sean competencia de la Secretaría, excepto los que con carácter indelegable, correspondan al Secretario, y sin perjuicio de las atribuciones de otras unidades administrativas de la Secretaría;
+VIII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-X. Coadyuvar con la Dirección General Adjunta de Ahorro en la elaboración de estudios y proyectos para instrumentar las estrategias de política financiera contenidas en el Plan Nacional de Desarrollo;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XI. Coadyuvar con la Dirección General Adjunta de Ahorro en los procesos de reformas y emisión de disposiciones legales aplicables a las entidades financieras reguladas por ésta, así como las aplicables a los sistemas de ahorro para el retiro, protección al ahorro bancario y fomento al ahorro popular;
+IX. Proponer para autorización superior la resolución de los asuntos referentes a la aplicación de las disposiciones relacionadas con las entidades señaladas en la fracción I de este artículo, excepto los que con carácter indelegable, correspondan al Secretario, y sin perjuicio de las atribuciones de otras unidades administrativas de la Secretaría;
 
-XII. Coadyuvar con la Dirección General Adjunta de Ahorro, en el ejercicio de las atribuciones que se confieren a esta Secretaría respecto al mecanismo preventivo y de protección del ahorro, así como en la Ley de Ahorro y Crédito Popular, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XIII. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal, en los que su titular sea nombrado por el Secretario como representante.
+X. Coadyuvar con la Dirección General Adjunta de Ahorro y Regulación Financiera en la elaboración de estudios y proyectos para instrumentar las estrategias de política financiera contenidas en el Plan Nacional de Desarrollo;
 
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XI. Coadyuvar con la Dirección General Adjunta de Ahorro y Regulación Financiera en los procesos de reformas y emisión de disposiciones legales aplicables a las entidades financieras reguladas por ésta, así como las aplicables a los sistemas de ahorro para el retiro, protección al ahorro bancario y fomento al ahorro popular;
+
+XII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIII. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal, en los que su titular sea nombrado por el Secretario como representante;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIV. Ejercer, previo acuerdo superior, cualquiera de las facultades que este Reglamento otorga a las Direcciones de Planeación y Ahorro y de Estudios de Ahorro;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XV. Apoyar a la Dirección General Adjunta de Ahorro y Regulación Financiera, en el ejercicio de las atribuciones a que se refiere la fracción XXV del artículo 30 de este Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XVI. Elaborar estudios legales sobre la regulación a las entidades a las que se refiere la fracción I del artículo 27 del presente Reglamento, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XVII. Coadyuvar, en el ámbito de su competencia, en la elaboración y discusión de las iniciativas de ley o decretos relativos a las disposiciones legales aplicables a las entidades a las que se refiere la fracción I del artículo 27 del presente Reglamento, sin perjuicio de las atribuciones conferidas a otras unidades administrativas de la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+###### Artículo 30-C.
+
+Compete a la Dirección de Estudios de Ahorro:
+
+I. Coadyuvar, en el ámbito de su competencia, en la elaboración y discusión de las iniciativas de ley o decretos relativos a las disposiciones legales aplicables a las entidades a las que se refiere la fracción I del artículo 27 del presente Reglamento, sin perjuicio de las atribuciones conferidas a otras unidades administrativas de la Secretaría;
+
+II. Participar, en el ámbito de su competencia, en la elaboración de políticas públicas encaminadas a proporcionar transparencia, claridad y eficiencia en la regulación del sistema financiero;
+
+III. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal, en los que su titular sea nombrado por el Secretario como representante;
+
+IV. Apoyar, en el ámbito de su competencia, a la Dirección General Adjunta de Ahorro y Regulación Financiera en sus relaciones con las demás autoridades financieras, de conformidad con las atribuciones conferidas a dicha Dirección General Adjunta;
+
+V. Elaborar estudios en materia de ahorro y de apoyo para la formulación de políticas y medidas a que se refiere la fracción I del artículo 30 del presente Reglamento;
+
+VI. Coadyuvar con la Dirección General Adjunta de Ahorro y Regulación Financiera, en el ámbito de su competencia, como enlace entre la Secretaría y las diversas dependencias, entidades o unidades administrativas de éstas, así como de los organismos internacionales e intervenir en la obtención de información y documentación que se solicite por parte de las autoridades competentes de los países con los que se tengan celebrados convenios o tratados;
+
+VII. Apoyar a la Dirección General Adjunta de Ahorro y Regulación Financiera en sus relaciones con la Dirección General Adjunta de Análisis Financiero y Vinculación Internacional en la formulación de la política de negociación y de los anteproyectos de convenios y tratados internacionales en el ámbito de su competencia;
+
+VIII. Participar en el ámbito de su competencia, en organismos y comités internacionales;
+
+IX. Ejercer, previo acuerdo superior, cualquiera de las facultades que este Reglamento otorga a las Direcciones de Planeación y Ahorro y Jurídica de Regulación Financiera, y
+
+X. Apoyar a la Dirección General Adjunta de Ahorro y Regulación Financiera, en el ejercicio de las atribuciones a que se refiere la fracción XXV del artículo 30 de este Reglamento.
 
 ###### Artículo 31.
 
-Compete a la Dirección General Adjunta de Análisis de Legislación Financiera:
-
-I. Coordinar la elaboración de estudios legales sobre la normativa aplicable a las entidades a que se refiere la fracción I del artículo 27 del presente Reglamento, y proponer para aprobación superior las propuestas de iniciativas de decretos, reformas, adiciones, derogaciones y abrogaciones a las disposiciones jurídicas aplicables a dichas entidades, sin perjuicio de las atribuciones que correspondan a otras unidades administrativas de la Secretaría;
-
-II. Coordinar la elaboración de políticas públicas encaminadas a proporcionar transparencia, claridad y eficiencia en la regulación de las entidades a que se refiere el artículo 27 fracción I del presente Reglamento;
-
-III. Participar en coordinación con las demás Direcciones Generales Adjuntas adscritas a la Unidad de Banca y Ahorro, en la elaboración de proyectos de reformas a la normativa aplicable a las entidades reguladas por la propia Unidad con el propósito de impulsar el sano desarrollo y competitividad del sistema bancario;
-
-IV. Participar, en el ámbito de su competencia y en coordinación con las autoridades y demás unidades administrativas de la Secretaría competentes, en la elaboración, difusión y discusión de las iniciativas de ley o reformas legales que sean presentadas ante el Congreso de la Unión;
-
-V. Apoyar a la Unidad de Banca y Ahorro en la formulación de la política de negociación de convenios internacionales que contengan disposiciones en materias financiera, bancaria, crediticia y de ahorro, que incida en el ámbito de su competencia;
-
-VI. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal, en los que su titular sea nombrado por el Secretario como representante;
-
-VII. Fungir, en el ámbito de su competencia, como enlace de la Unidad de Banca y Ahorro con otras autoridades de la Administración Pública Federal, en las materias de su competencia;
-
-VIII. Fungir como enlace entre la Secretaría y las diversas dependencias, entidades o unidades administrativas de éstas, así como de los organismos internacionales e intervenir en la obtención de información y documentación que se solicite por parte de las autoridades competentes de los países con los que se tengan celebrados convenios o tratados en las materias de su competencia;
-
-IX. Atender las solicitudes de opinión jurídica sobre la legislación y regulación aplicable a las entidades señaladas en el artículo 27 fracciones VII y X del presente Reglamento, y que le formulen los servidores públicos adscritos a la Unidad de Banca y Ahorro, sin perjuicio de las atribuciones que correspondan a otras unidades administrativas de la Secretaría;
-
-X. Apoyar, en el ámbito de su competencia a la Unidad de Banca y Ahorro en sus relaciones con el Banco de México, y
-
-XI. Apoyar, en el ámbito de su competencia a la Unidad de Banca y Ahorro en sus relaciones con la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas, la Comisión Nacional del Sistema de Ahorro para el Retiro, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, y el Instituto para la Protección al Ahorro Bancario.
-
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 ###### Artículo 31-A.
 
-Compete a la Dirección de Análisis de Legislación Financiera:
-
-I. Elaborar propuestas de iniciativas de decretos, reformas, adiciones, derogaciones y abrogaciones a las disposiciones legales aplicables a las entidades a las que se refiere la fracción I del artículo 27 del presente Reglamento, sin perjuicio de las atribuciones conferidas a otras unidades administrativas de la Secretaría;
-
-II. Participar en la elaboración, difusión y discusión de las iniciativas de ley y reformas legales en el ámbito de su competencia;
-
-III. Elaborar políticas públicas encaminadas a proporcionar transparencia, claridad y eficiencia en la regulación del sistema financiero;
-
-IV. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal en los que participe la Secretaría, y en los que al efecto sea nombrado por el Secretario como representante, y
-
-V. Apoyar, en el ámbito de su competencia, a la Unidad de Banca y Ahorro en sus relaciones con las demás autoridades financieras, de conformidad con las atribuciones conferidas a dicha Unidad.
-
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 ###### Artículo 31-B.
 
-Compete a la Dirección de Estudios de Legislación Financiera:
-
-I. Elaborar estudios legales sobre la regulación aplicable a las entidades a las que se refiere la fracción I del artículo 27 del presente Reglamento;
-
-II. Apoyar a la Dirección General Adjunta de Análisis de Legislación Financiera, en la atención de los asuntos a que se refiere la fracción IX del artículo 31 de este Reglamento;
-
-III. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal en los que participe la Secretaría, y en los que al efecto sea nombrado por el Secretario como representante, y
-
-IV. Apoyar, en el ámbito de su competencia, a la Unidad de Banca y Ahorro en sus relaciones con las demás autoridades financieras, de conformidad con las atribuciones conferidas a dicha Unidad.
-
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 ###### Artículo 31-C.
 
-Compete a la Dirección General Adjunta de Política Normativa y Asuntos Internacionales en materia de Lavado de Dinero y Financiamiento de Actos Ilícitos:
-
-I. Proponer para aprobación superior y en el ámbito de su competencia, las disposiciones de carácter general que, de conformidad con los artículos 115 de la Ley de Instituciones de Crédito, y 124 de la Ley de Ahorro y Crédito Popular, y con la Ley de los Sistemas de Ahorro para el Retiro, tengan por objeto prevenir, detectar y reportar actos u operaciones, con recursos, derechos o bienes que procedan o representen el producto de un probable delito, o financien la comisión del mismo;
-
-II. Participar en el diseño de las formas oficiales de reportes de operaciones inusuales, relevantes y preocupantes, y demás documentos relacionados, en el ámbito de competencia señalado en la fracción I del presente artículo;
-
-III. Autorizar y registrar en el ámbito de su competencia los manuales de operación y sus modificaciones, que se deriven de las disposiciones de carácter general y demás lineamientos y políticas que tengan por objeto prevenir, detectar y reportar actos u operaciones con recursos, derechos o bienes que procedan o representen el producto de un probable delito, o financien la comisión del mismo, en el ámbito de competencia señalado en la fracción I del presente artículo;
-
-IV. Imponer, en el ámbito de su competencia, las sanciones establecidas en las leyes que rigen la materia financiera como atribución de la Secretaría;
-
-V. Fungir como enlace entre la Secretaría y las diversas dependencias, entidades o unidades administrativas de éstas, así como de los organismos internacionales e intervenir en la obtención de información y documentación que se solicite por parte de las autoridades competentes de los países con los que se tengan celebrados convenios o tratados en las materias de su competencia;
-
-VI. Participar en el ámbito de su competencia y en coordinación con las demás Direcciones Generales Adjuntas adscritas a la Unidad de Banca y Ahorro, en la elaboración de proyectos de reformas a la legislación aplicable a entidades reguladas por la Unidad de Banca y Ahorro con el propósito de impulsar el sano desarrollo y competitividad del sistema bancario;
-
-VII. Proponer para aprobación superior, en el ámbito de su competencia, convenios internacionales y participar en su negociación y elaboración, así como participar en organismos y comités internacionales;
-
-VIII. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal en los que participe la Secretaría, y en los que al efecto sea nombrado por el Secretario como representante, y
-
-IX. Resolver los asuntos de su competencia relativos a las entidades señaladas en la fracción I del artículo 27 de este Reglamento, así como los asuntos referentes a la aplicación de otras disposiciones relacionadas con dichas entidades y con las materias financiera, bancaria, crediticia y de ahorro, que sean competencia de la Secretaría, y no estén asignadas expresamente a otra unidad administrativa de la misma, excepto los que, con carácter indelegable, correspondan al Secretario.
-
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 ###### Artículo 31-D.
 
-Compete a la Dirección de Política Normativa y Asuntos Internacionales en materia de Lavado de Dinero y Financiamiento de Actos Ilícitos:
-
-I. Proponer para aprobación superior y en el ámbito de su competencia, las disposiciones de carácter general que, de conformidad con los artículos 115 de la Ley de Instituciones de Crédito, y 124 de la Ley de Ahorro y Crédito Popular, y con la Ley de los Sistemas de Ahorro para el Retiro, tengan por objeto prevenir, detectar y reportar actos u operaciones, con recursos, derechos o bienes que procedan o representen el producto de un probable delito, o financien la comisión del mismo;
-
-II. Participar en el diseño de las formas oficiales de reportes de operaciones inusuales, relevantes y preocupantes, y demás documentos relacionados, en el ámbito de competencia señalado en la fracción I del presente artículo;
-
-III. Analizar y revisar los manuales de operación y sus modificaciones, originados de las disposiciones de carácter general y demás lineamientos y políticas que tengan por objeto prevenir, detectar y reportar actos u operaciones con recursos, derechos o bienes que procedan o representen el producto de un probable delito, o financien la comisión del mismo, en el ámbito de competencia señalado en la fracción I del presente artículo; con la finalidad de que sean autorizados y registrados por el Director General Adjunto de Política Normativa y Asuntos Internacionales en materia de Lavado de Dinero y Financiamiento de Actos Ilícitos;
-
-IV. Analizar y elaborar las propuestas de resolución de las consultas planteadas por diversas unidades administrativas de la Secretaría, referentes a la aplicación de las disposiciones relacionadas con la materia de la competencia de la Dirección General Adjunta de Política Normativa y Asuntos Internacionales en materia de Lavado de Dinero y Financiamiento de Actos Ilícitos, en las entidades de su competencia, así como las que realicen las propias entidades en la materia, cuya atención no esté expresamente conferida a otra unidad administrativa de la misma, excepto las que, con carácter indelegable, correspondan al Secretario;
-
-V. Implementar, en al ámbito de su competencia, los acuerdos adquiridos derivados de la función de enlace de la Dirección General Adjunta de Política Normativa y Asuntos Internacionales en materia de Lavado de Dinero y Financiamiento de Actos Ilícitos, entre la Secretaría y las diversas dependencias, entidades o unidades administrativas de éstas, así como representarla en las materias de su competencia, ante los diversos organismos internacionales de los que México forme parte o con los países con que se tengan celebrados convenios o tratados, interviniendo además en la obtención de la información y documentación que se solicite por parte de las autoridades competentes de esos países u organismos internacionales, en el ámbito de competencia señalado en la fracción I de este artículo;
-
-VI. Asistir a las distintas sesiones de los órganos de gobierno de los órganos desconcentrados y de los organismos descentralizados de la Administración Pública Federal en los que participe la Secretaría, y en los que al efecto sea nombrado por el Secretario como representante, y
-
-VII. Atender y resolver los demás asuntos que le encomiende el Director General Adjunto de Política Normativa y Asuntos Internacionales en Materia de Lavado de Dinero y Financiamiento de Actos Ilícitos.
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 > <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -2543,11 +3531,23 @@ XVII. Otorgar y cancelar la inscripción de reaseguradoras extranjeras en el Reg
 
 XVIII. Resolver los asuntos relacionados con la aplicación de los ordenamientos legales que regulan las entidades y materias referidas en la fracción I de este artículo, que sean competencia de la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario, sin perjuicio de la participación que en el ámbito de su competencia corresponda a otras unidades administrativas de la Secretaría;
 
-XIX. Proponer, para aprobación superior y en el ámbito de su competencia, las disposiciones de carácter general que, de conformidad con los artículos 52 Bis-4 de la Ley del Mercado de Valores, 95 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, 91 de la Ley de Sociedades de Inversión y demás relativos de la Ley General de Instituciones y Sociedades Mutualistas de Seguros y de la Ley Federal de Instituciones de Fianzas, tengan por objeto prevenir, detectar y reportar actos u operaciones con recursos, derechos o bienes que procedan o representen el producto de un probable delito, o financien la comisión del mismo;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XX. Participar en el diseño de las formas oficiales, que tengan que utilizar las entidades financieras mencionadas en la fracción I de este artículo, para reportar operaciones en los términos de las leyes financieras y disposiciones señaladas en la fracción anterior;
+XIX. Respecto de las entidades señaladas en la fracción I de este artículo, formular y proponer, para aprobación superior y con la previa opinión de la Unidad de Inteligencia Financiera, las disposiciones de carácter general que, en términos de la legislación aplicable, la Secretaría deba emitir en relación con:
 
-XXI. Autorizar y registrar, en su caso, los manuales de operación que las entidades financieras mencionadas en la fracción I de este artículo tengan que elaborar en los términos de las disposiciones señaladas en la fracción XIX de este artículo;
+a) El establecimiento de medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código;
+
+b) La presentación a la Secretaría de reportes sobre los actos, operaciones y servicios que las entidades a que se refiere esta fracción y que estén obligadas a ello realicen con sus clientes y usuarios, relativos al inciso anterior, así como sobre todo acto, operación o servicio que, en su caso, realicen los miembros del consejo de administración, directivos, funcionarios, empleados y apoderados de dichas entidades obligadas, que pudiesen ubicarse en el supuesto previsto en el inciso a) anterior o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas, y
+
+c) Los lineamientos sobre el procedimiento y criterios que dichas entidades deban observar en términos de ley respecto del adecuado conocimiento de sus clientes y usuarios; la información y documentación que, en su caso, dichas entidades deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite la identidad de sus clientes; la forma en que las mismas entidades deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados en términos de lo anterior; así como los términos para proporcionar capacitación al interior de dichas entidades obligadas en términos de ley sobre la materia objeto de esta fracción;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XX. Participar, con la previa opinión de la Unidad de Inteligencia Financiera, en el estudio y elaboración de anteproyectos de iniciativas de leyes o decretos relativos a los actos indicados en la fracción anterior;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXI. Interpretar para efectos administrativos, con la previa opinión de la Unidad de Inteligencia Financiera, las disposiciones de carácter general señaladas en la fracción XIX anterior, así como las disposiciones legales de donde éstas emanen;
 
 XXII. Fungir como enlace entre la Secretaría y las diversas dependencias, entidades o unidades administrativas de éstas, así como con los organismos internacionales, interviniendo en la obtención de la información y documentación que se solicite por parte de las autoridades competentes de los países con los que se tengan celebrados convenios o tratados en las materias que, conforme a este artículo, son de su competencia;
 
@@ -2565,25 +3565,19 @@ XXVIII. Asesorar a las dependencias y entidades de la Administración Pública F
 
 XXIX. Analizar y clasificar, con base en la información que las dependencias y entidades de la Administración Pública Federal remitan a la Secretaría en los términos de las fracciones XXV y XXVII de este artículo, los activos fijos de las dependencias y entidades de la Administración Pública Federal, los cúmulos de riesgo, la dispersión y exposición de las unidades de riesgo y los contratos de seguros celebrados por dichas dependencias y entidades; así como proponer a las dependencias y entidades citadas, esquemas de transferencia de riesgos y de contratación centralizada de seguros, con el propósito de beneficiar las condiciones de contratación de la Administración Pública Federal.
 
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 32-A.
 
-Compete a la Dirección General Adjunta de Planeación y Apoyo Técnico:
+Compete a la Dirección de Análisis de Riesgos:
 
-I. Proponer, para aprobación superior, las políticas y estrategias diseñadas para el manejo de los recursos asignados a la Dirección General de Seguros y Valores, la obtención oportuna de información y el establecimiento de los canales de comunicación entre las distintas Areas que la conforman;
+I. Proponer, para aprobación superior, los criterios y proyectos tendientes al asesoramiento de las dependencias y entidades de la Administración Pública Federal, en la elaboración de sus programas de aseguramiento, de sus manuales de procedimientos sobre la contratación de seguros sobre bienes patrimoniales o de personas y soporte de siniestros, en la determinación de sus niveles de retención máxima y en la prevención y disminución de los riesgos inherentes a los bienes con que cuenten; así como, en el proceso de siniestros ocurridos y reportados a las compañías de seguros con los que dichas dependencias y entidades tengan celebrados contratos para esos efectos;
 
-II. Formular estudios y proyectos que le sean solicitados por la autoridad superior en las materias de su competencia;
+II. Realizar el análisis de los activos fijos de las dependencias y entidades de la Administración Pública Federal, de sus cúmulos de riesgos, de la dispersión y exposición de las unidades de riesgo y de los contratos de seguros sobre bienes patrimoniales o de personas celebrados por dichas dependencias y entidades;
 
-III. Desarrollar esquemas de trabajo que promuevan la transparencia y eficiencia en las distintas Areas adscritas a la Dirección General de Seguros y Valores;
+III. Proponer, para aprobación superior, los esquemas de transferencia de riesgo y de contratación centralizada de seguros de las dependencias y entidades de la Administración Pública Federal, y
 
-IV. Coordinar las actividades institucionales que son competencia de la Dirección General de Seguros y Valores, con el propósito de incrementar su eficiencia y capacidad de respuesta; así como revisar y, en su caso, reestructurar los procesos y servicios a cargo de la misma;
-
-V. Coordinar los mecanismos de control de gestión a cargo de las distintas Areas que conforman a la Dirección General de Seguros y Valores, así como medir la eficiencia y productividad de las mismas;
-
-VI. Participar en la formulación de las políticas de promoción, desarrollo, regulación y control de las entidades y actividades a que se refiere la fracción I del artículo 32 de este Reglamento, y
-
-VII. Participar en representación de la Dirección General de Seguros y Valores, en los distintos foros, conferencias y seminarios nacionales e internacionales, en las materias de su competencia.
+IV. Ejercer, previo acuerdo superior, las atribuciones de la Dirección General de Seguros y Valores en materia de riesgos.
 
 > <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -2609,21 +3603,9 @@ VIII. Proponer y someter a consideración del Director General de Seguros y Valo
 
 IX. Ejercer, previo acuerdo superior, las atribuciones de la Dirección General de Seguros y Valores en las materias de seguros y fianzas y, en su caso, recibir de las afianzadoras la información relativa a las designaciones de apoderados y sus domicilios para recibir el requerimiento de pago por fianzas exigibles y darla a conocer a las oficinas ejecutoras y, llegado el caso, proponer para aprobación superior el remate en bolsa o mercados de amplia bursatilidad autorizado, de valores propiedad de las afianzadoras que no hagan el pago respectivo, conforme a lo dispuesto en el artículo 143, inciso b) del Código Fiscal de la Federación.
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
-
 ###### Artículo 34.
 
-Compete a la Dirección General Adjunta de Valores:
-
-I. Participar en la formulación de las políticas de promoción y desarrollo de las sociedades de inversión y sus operadoras, de las distribuidoras de acciones de sociedades de inversión, de las casas de bolsa, de las oficinas de representación de casas de bolsa del exterior, de las bolsas de valores, de las bolsas de futuros y opciones, de los socios liquidadores, operadores y formadores de mercado en el mercado de futuros y opciones, de las cámaras de compensación, de las instituciones para el depósito de valores, de las contrapartes centrales y de los demás participantes de los mercados de valores, de futuros y opciones, así como de las actividades de valores, de futuros y opciones;
-
-II. Coordinar la aplicación de los mecanismos de control de gestión con las instituciones y actividades señaladas en la fracción I de este artículo;
-
-III. Coadyuvar con otras unidades administrativas de la Secretaría o autoridades, previo acuerdo superior, en las actividades de planeación y evaluación de las entidades y actividades a que se refiere la fracción I de este artículo;
-
-IV. Participar en organismos, foros y comités internacionales que tengan por finalidad establecer principios o resolver cuestiones que se vinculen con los asuntos competencia de la Dirección General de Seguros y Valores en materia de valores, futuros y opciones, y
-
-V. Ejercer, previo acuerdo superior, las facultades de la Dirección General de Seguros y Valores en materia de valores.
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 > <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -2681,7 +3663,9 @@ VII. Tramitar la imposición de sanciones y los recursos administrativos estable
 
 VIII. Participar en la elaboración de los proyectos de leyes y demás disposiciones jurídicas aplicables a las entidades y actividades previstas en la fracción I del artículo 32 de este Reglamento;
 
-IX. Participar en la formulación y propuesta, de las disposiciones de carácter general, en el diseño de las formas oficiales y, en su caso, en la autorización y registro de los manuales a que se refieren, respectivamente, las fracciones XIX, XX y XXI del artículo 32 de este Reglamento;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+IX. Apoyar a la Dirección General de Seguros y Valores en el ejercicio de las facultades a que se refiere el artículo 32 fracciones XIX a XXI de este Reglamento;
 
 X. Proponer y someter a consideración del Director General de Seguros y Valores, en el ámbito de su competencia, la designación o remoción de representantes de la Secretaría ante los órganos de gobierno de las entidades a que se refiere la fracción V de este artículo, así como los lineamientos generales conforme a los cuales deberán actuar dichos representantes;
 
@@ -2705,11 +3689,11 @@ IV. Participar en la formulación de las disposiciones de carácter general a qu
 
 V. Participar en la formulación de las políticas de coordinación sectorial, así como en el desempeño de cualquier asunto vinculado con la actividad señalada, respecto de las entidades y actividades que se ubiquen en el ámbito de atribución de la Dirección General Adjunta de Normatividad y Coordinación Sectorial y que tengan el carácter de entidades de la Administración Pública Federal;
 
-VI. Proponer, para resolución superior, los criterios para tramitar la imposición de sanciones
+VI. Proponer, para resolución superior, los criterios para tramitar la imposición de sanciones y los recursos administrativos establecidos en las leyes que rigen las materias a que se refiere la fracción II del artículo 36 de este Reglamento;
 
-y los recursos administrativos establecidos en las leyes que rigen las materias a que se refiere la fracción II del artículo 36 de este Reglamento;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-VII. Participar en organismos y comités nacionales e internacionales dedicados a formular principios, directrices o recomendaciones en las materias señaladas en la fracción XIX del artículo 32 de este Reglamento, así como en cualquier otro foro u organismo nacional o internacional que tenga como fin establecer principios o resolver cuestiones que se vinculen con los asuntos jurídicos competencia de la Dirección General Adjunta de Normatividad y Coordinación Sectorial;
+VII. Participar en organismos y comités nacionales e internacionales dedicados a establecer principios o resolver cuestiones que se vinculen con los asuntos jurídicos competencia de la Dirección General Adjunta de Normatividad y Coordinación Sectorial;
 
 VIII. Presentar, a consideración de la Dirección General Adjunta de Normatividad y Coordinación Sectorial, proyectos para opinión sobre las materias a que alude la fracción IX del artículo 36 de este Reglamento;
 
@@ -2719,245 +3703,123 @@ X. Acordar con el Director General Adjunto de Normatividad y Coordinación Secto
 
 XI. Atender los demás asuntos que le encomiende el Director General Adjunto de Normatividad y Coordinación Sectorial.
 
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
-
 ###### Artículo 36-B.
 
-Compete a la Dirección de Análisis de Riesgos:
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
-I. Proponer, para aprobación superior, los criterios y proyectos tendientes al asesoramiento de las dependencias y entidades de la Administración Pública Federal, en la elaboración de sus programas de aseguramiento, de sus manuales de procedimientos sobre la contratación de seguros sobre bienes patrimoniales o de personas y soporte de siniestros, en la determinación de sus niveles de retención máxima y en la prevención y disminución de los riesgos inherentes a los bienes con que cuenten; así como, en el proceso de siniestros ocurridos y reportados a las compañías de seguros con los que dichas dependencias y entidades tengan celebrados contratos para esos efectos;
-
-II. Realizar el análisis de los activos fijos de las dependencias y entidades de la Administración Pública Federal, de sus cúmulos de riesgos, de la dispersión y exposición de las unidades de riesgo y de los contratos de seguros sobre bienes patrimoniales o de personas celebrados por dichas dependencias y entidades;
-
-III. Proponer, para aprobación superior, los esquemas de transferencia de riesgo y de contratación centralizada de seguros de las dependencias y entidades de la Administración Pública Federal, y
-
-IV. Ejercer, previo acuerdo superior, las atribuciones de la Dirección General de Seguros y Valores en materia de riesgos.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 37.
 
 Compete a la Dirección General de Asuntos Internacionales de Hacienda:
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+I. Formular, para aprobación superior, y llevar a cabo la política de la hacienda pública de la Secretaría en sus relaciones con el exterior, en coordinación con las unidades administrativas competentes;
 
-I. Formular, para aprobación superior, y llevar a cabo la política de la hacienda pública de la Secretaría en sus relaciones con el exterior, incluida la relativa a relaciones bilaterales, en coordinación con las unidades administrativas competentes de la misma;
+II. Coordinar la participación del sector financiero nacional en la ejecución de la política de la hacienda pública con el exterior;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+III. Representar a la Secretaría en los foros bilaterales y multilaterales de negociación de la política de la hacienda pública, en coordinación con las unidades administrativas y el sector financiero competente;
 
-II. Fungir como órgano técnico para la coordinación del sector financiero nacional en la ejecución de la política de la hacienda pública bilateral con el exterior;
+IV. Formular, para aprobación superior, y en coordinación con las unidades administrativas competentes, los lineamientos de negociación en materia de la hacienda pública ante instancias bilaterales y multilaterales;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+V. Negociar, en representación de la Secretaría y en coordinación con las unidades administrativas y el sector financiero, la política de la hacienda pública en los foros bilaterales y multilaterales;
 
-III. Coordinar la política de la hacienda pública en materia de comercio exterior y, en su caso, representar a la Secretaría en las labores vinculadas con la materia, en consulta con las unidades administrativas competentes de la Secretaría y del sector financiero nacional;
+VI. Formular con las unidades administrativas competentes, para aprobación superior, la política de la hacienda pública en materia de inversiones extranjeras, y representar a la Secretaría en los asuntos vinculados con dicha materia;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+VII. Dar seguimiento y procurar el cumplimiento de los acuerdos y compromisos que se deriven de la ejecución de la política de la hacienda pública en sus relaciones con el exterior;
 
-IV. Formular, para aprobación superior, la política de la hacienda pública en materia de inversiones extranjeras, y representar a la Secretaría en los asuntos vinculados con dicha materia;
+VIII. Analizar y elaborar, para aprobación superior y en coordinación con las unidades administrativas competentes, las iniciativas bilaterales y multilaterales de política financiera y de desarrollo internacionales;
 
-V. Participar en la formulación de la política relacionada con los organismos económicos internacionales y otros sistemas de cooperación económica internacional, representando a la Secretaría en las labores vinculadas con la materia, así como promover programas y proyectos para coadyuvar a la captación de recursos técnicos y económicos del exterior;
+IX. Proponer, para aprobación superior, y llevar a cabo la política de cooperación económica bilateral y multilateral competencia de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+X. Proponer, para aprobación superior, las políticas de participación y ejercer los derechos que se generen de la membresía del Gobierno Federal en bancos regionales de desarrollo, fondos e instituciones financieras internacionales de desarrollo, con excepción de los mencionados en la fracción XXIV del artículo 17 de este Reglamento;
 
-VI. Participar en la formulación de la política de la Secretaría relacionada con los organismos económicos y financieros internacionales, en coordinación con la Unidad de Crédito Público;
+XI. Proponer, para aprobación superior, las políticas de participación y ejercer los derechos provenientes de la membresía de la Secretaría en foros financieros internacionales y organismos multilaterales de cooperación económica;
 
-VII. Evaluar y proponer, para aprobación superior, mecanismos recíprocos de asistencia económica al exterior, a nivel bilateral, regional y multilateral, en coordinación con otras dependencias de la administración pública federal, y previo acuerdo superior, llevar a cabo acciones específicas en esta materia;
+XII. Definir, la política de participación en el Comité de Asuntos Monetarios y Financieros del Fondo Monetario Internacional y, en colaboración con la Unidad de Crédito Público, en el Comité para el Desarrollo del Banco Mundial;
 
-VIII. (DEROGADA, D.O.F. 17 DE JUNIO DE 2003)
+XIII. Diseñar, negociar y suscribir, en el ámbito de su competencia, previa aprobación superior, los acuerdos y convenios de cooperación financiera y técnica con organismos, dependencias e instituciones nacionales y del exterior, así como instrumentar y dar seguimiento a los mismos, sin perjuicio de las atribuciones que conforme al presente Reglamento correspondan a otras unidades administrativas de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XIV. Identificar y promover, en el ámbito de su competencia, oportunidades de negocios para empresas mexicanas en los foros e instituciones financieras internacionales a los que se hace referencia en las fracciones X y XI de este artículo, y otros foros e instituciones similares;
 
-IX. Analizar y evaluar el efecto en la economía nacional de la situación económica internacional, para apoyar a las unidades administrativas competentes de la Secretaría;
+XV. Participar en la negociación para la reestructuración de adeudos derivados de la cooperación financiera otorgada por el Gobierno Federal al exterior, así como someter, para aprobación superior, los términos y condiciones correspondientes para la suscripción de los acuerdos y convenios respectivos;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XVI. Negociar, en el ámbito de su competencia, los montos de las cuotas, aportaciones, y suscripciones que se deriven de la participación de la Secretaría en organismos y foros de cooperación internacional y gestionar la presupuestación y programación de los recursos necesarios para hacer frente a dichos compromisos;
 
-X. Realizar estudios comparados de carácter internacional, para contribuir al diseño de la política de la hacienda pública del país;
+XVII. Gestionar ante las unidades administrativas competentes la disponibilidad de recursos necesarios para cumplir con los compromisos derivados de los mecanismos de cooperación financiera y técnica con el exterior, en los que participe la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XVIII. Coordinar a las unidades administrativas competentes de la Secretaría y al sector financiero nacional, en el ámbito de sus atribuciones, en la negociación de acuerdos, convenios o instrumentos similares, con gobiernos de otros países, instituciones financieras internacionales de desarrollo y organismos de cooperación económica, en materia de política de la hacienda pública, y
 
-XI. Proporcionar servicios de asesoría, documentación e información sobre política de la hacienda pública y económica internacional a las diversas unidades administrativas de la Secretaría y a las entidades del sector coordinado por la misma, y
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-XII. Resolver los asuntos que las disposiciones legales aplicables a la materia de la hacienda pública en el ámbito internacional atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario.
-
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+XIX. Designar, previo acuerdo superior, al mandatario, comisionista, agente financiero, fiduciario o intermediario financiero que lleve a cabo, según corresponda, la administración o gestión financiera para la instrumentación de las actividades a que se refieren las fracciones XIII y XV de este artículo.
 
 ###### Artículo 37-A.
 
-Compete a la Coordinación de Procesos y Estructuras de Información de la Subsecretaría del Ramo:
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
-I. Coordinar, de conformidad con los criterios establecidos por la Coordinación de Tecnologías de Comunicaciones e Información y la Coordinación de Seguridad de Información y Tecnología, la política en tecnología, estructuras de información y procesos en la Subsecretaría de Hacienda y Crédito Público, así como fomentar la optimización en el desarrollo y explotación de soluciones de tecnologías de información;
-
-II. Determinar la factibilidad técnica de soluciones de tecnologías de información y servicios en la materia para la Subsecretaría de Hacienda y Crédito Público; así como proponer a la Coordinación de Tecnologías de Comunicaciones e Información su implantación, modernización, cambio y desecho;
-
-III. Coordinar la automatización total o parcial de los procesos de las unidades administrativas adscritas a la Subsecretaría de Hacienda y Crédito Público, a fin de eficientar los recursos humanos, materiales, presupuestarios y tecnológicos; así como proponer soluciones para satisfacer las necesidades de automatización en coadyuvancia con la Coordinación de Tecnologías de Comunicaciones e Información;
-
-IV. Promover el uso de políticas de gobierno electrónico para ofrecer servicios de calidad a los clientes de la Subsecretaría de Hacienda y Crédito Público;
-
-V. Mantener la operación de los sistemas que apoyan algún proceso en la Subsecretaría de Hacienda y Crédito Público y proponer su robustecimiento y actualización;
-
-VI. Vigilar y promover que los servicios en materia de tecnologías de comunicaciones e información sean proporcionados de manera óptima en la Subsecretaría de Hacienda y Crédito Público, aun en el supuesto de que sean prestados por terceros;
-
-VII. Apoyar a las unidades administrativas adscritas a la Subsecretaría de Hacienda y Crédito Público responsables de mantener actualizado el inventario de datos e información, con el desarrollo y promoción de procedimientos que aseguren la calidad y oportunidad de la información; así como mantener actualizadas las estructuras que soportan dichos datos e información en el Almacén Único de Información de la Secretaría, de acuerdo a las atribuciones que le otorgue la Coordinación de Tecnologías de Comunicaciones e Información;
-
-VIII. Representar, en las materias de su competencia, a la Subsecretaría de Hacienda y Crédito Público en foros y grupos de trabajos organizados por la Secretaría o por organismos públicos o privados, y
-
-IX. Acordar con el Subsecretario de Hacienda y Crédito Público los asuntos de su competencia.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 38.
 
 Compete a la Unidad de Política de Ingresos:
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+I. Proponer, para aprobación superior, la política de ingresos incluyendo la política fiscal, la de coordinación fiscal y la de estímulos fiscales para el desarrollo de la economía nacional, en congruencia con la política de la hacienda pública y la política económica y social del país, en coordinación con otras unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, así como de otras dependencias y entidades de la Administración Pública Federal y, en su caso, con las entidades federativas y municipios; así como evaluar el efecto recaudatorio de las reformas que en materia fiscal se propongan;
 
-I. Proponer, para aprobación superior, la política de ingresos incluyendo la política fiscal y aduanera, la de estímulos fiscales para el desarrollo de la economía nacional, la referente a productos, aprovechamientos, precios y tarifas de la Federación, en congruencia con la política de la hacienda pública y la política económica y social del país, en coordinación con otras unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, así como de otras dependencias y entidades de la administración pública federal y, en su caso, con las entidades federativas y municipios; así como evaluar el efecto recaudatorio de las reformas que en las materias fiscal y aduanera se propongan;
+II. Participar en la formulación del Programa Nacional de Financiamiento del Desarrollo y del Programa Operativo Anual de Financiamiento de la Administración Pública Federal, en las materias a que se refiere la fracción I de este artículo, con las unidades administrativas competentes de la Secretaría;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
+III. Estudiar y analizar el comportamiento de la economía nacional con el propósito de identificar problemas y proponer alternativas de política de ingresos;
 
-II. Participar, con las unidades administrativas competentes de la Secretaría, en la formulación del Programa Nacional de Financiamiento del Desarrollo y del Programa Operativo Anual de Financiamiento de la Administración Pública Federal, en las materias a que se refiere la fracción anterior;
+IV. Emitir opinión sobre las asignaciones sectoriales de financiamiento de las entidades paraestatales en lo concerniente a derechos, aprovechamientos, productos, precios y tarifas, para integrar el programa financiero de las entidades paraestatales incluidas en la Ley de Ingresos de la Federación;
 
-III. (DEROGADA, D.O.F. 22 DE MARZO DE 2001)
+V. Calcular y analizar la recaudación federal participable que sirve de base para el pago de participaciones a las entidades federativas y municipios, en los términos establecidos por la Ley de Coordinación Fiscal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
+VI. Emitir opinión, en materia de precios y tarifas de los bienes y servicios de las entidades de la Administración Pública Federal, sobre los programas financieros sectoriales y regionales de corto y mediano plazo de las citadas entidades para integrarse al Programa Nacional de Financiamiento del Desarrollo;
 
-IV. Estudiar y analizar el comportamiento de la economía nacional con el propósito de identificar problemas y proponer alternativas de política de ingresos, estimar las metas de recaudación, presupuestar y evaluar el comportamiento de la recaudación, de los ingresos de la administración pública federal centralizada y paraestatal y de los estímulos fiscales, en relación con los programas a que se refiere la fracción II de este artículo;
+VII. Participar, con las unidades administrativas competentes de la Secretaría y otras dependencias de la Administración Pública Federal, en la formulación para aprobación superior del programa, los criterios y montos globales de los estímulos fiscales, por áreas y sectores de la actividad económica, asegurando su congruencia con otros apoyos financieros del Gobierno Federal y evaluar sus resultados conforme a sus objetivos, escuchando a las dependencias coordinadoras de los sectores correspondientes; así como en la elaboración de acuerdos de concertación, programas de fomento y medidas para inducir la acción de los particulares, en lo que concierne a estímulos fiscales, y estudiar y proyectar sus efectos en los ingresos de la Federación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
+VIII. Emitir opinión sobre el establecimiento de las bases para fijar y registrar los precios y tarifas de los bienes y servicios de las dependencias y entidades de la Administración Pública Federal, así como opinar sobre los bienes y servicios cuyos precios y tarifas continúen siendo fijados por la Secretaría;
 
-V. Proponer, para aprobación superior, las asignaciones sectoriales de financiamiento de las entidades paraestatales en lo concerniente a derechos, aprovechamientos, productos, precios y tarifas y, en su caso, la autorización del programa financiero de las entidades paraestatales incluidas en la Ley de Ingresos de la Federación, en las materias de su competencia;
+IX. Participar en la elaboración de los anteproyectos de iniciativas de ley y proyectos de reglamentos en materia fiscal federal, así como los proyectos de reglas generales y otras disposiciones de carácter fiscal relacionadas con la fracción I de este artículo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
+X. Participar con el Servicio de Administración Tributaria en los grupos de trabajo que se creen para lograr la adecuada interpretación y aplicación de la legislación fiscal;
 
-VI. Proponer, para aprobación superior, con las unidades administrativas competentes de la Secretaría, las asignaciones presupuestarias del ramo y participaciones a Entidades Federativas y Municipios, conforme a la recaudación federal participable;
+XI. Participar con las unidades administrativas competentes del Servicio de Administración Tributaria en el diseño de las formas oficiales de avisos, pedimentos, declaraciones, manifestaciones, y demás documentos requeridos por las disposiciones fiscales;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XII. Analizar y evaluar las repercusiones económicas y financieras de la política de ingresos, a que se refiere la fracción I de este artículo y participar con el Servicio de Administración Tributaria en el desarrollo de medidas vinculadas con las funciones sustantivas de este último, así como llevar un sistema de estadísticas económicas y fiscales, en coordinación con las unidades administrativas competentes de la Secretaría y del propio Servicio de Administración Tributaria;
 
-VII. Participar con la Unidad de Crédito Público, en materia de precios y tarifas, de los bienes y servicios de las entidades de la Administración Pública Federal, en la formulación, para aprobación superior, de los programas financieros sectoriales y regionales de corto y mediano plazo de las citadas entidades para integrarse al Programa Nacional de Financiamiento del Desarrollo;
+XIII. Asesorar a las entidades federativas, cuando lo soliciten, en la evaluación del impacto de su política fiscal, en la elaboración de sus ordenamientos fiscales para facilitar su administración y en el establecimiento de los sistemas administrativos correspondientes;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
+XIV. Recabar la opinión de las dependencias y entidades de la Administración Pública Federal, sobre las medidas de política tributaria, relacionadas con su competencia, así como también la opinión de los diversos grupos o sectores sociales, para proponer las medidas administrativas que se deben tomar en relación con el tratamiento a sectores de contribuyentes y de diversos grupos sociales en relación con las contribuciones y el cumplimiento de sus obligaciones fiscales;
 
-VIII. Participar, con las unidades administrativas competentes de la Secretaría y otras dependencias de la administración pública federal, en la formulación para aprobación superior del programa, los criterios y montos globales de los estímulos fiscales, por áreas y sectores de la actividad económica, asegurando su congruencia con otros apoyos financieros del Gobierno Federal y evaluar sus resultados conforme a sus objetivos, escuchando a las dependencias coordinadoras de los sectores correspondientes; así como en la elaboración de acuerdos de concertación, programas de fomento y medidas para inducir la acción de los particulares, en lo que concierne a estímulos fiscales, y estudiar y proyectar sus efectos en los ingresos de la Federación;
+XV. Emitir opinión sobre el establecimiento de los productos, aprovechamientos y derechos, de la Administración Pública Federal Centralizada, salvo aquéllos que estén establecidos en ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
+XVI. Representar a la Secretaría en foros, eventos y reuniones nacionales e internacionales, en donde se discutan aspectos de política de ingresos;
 
-IX. Participar con las unidades administrativas competentes de la Secretaría y, otras dependencias de la administración pública federal, en los términos de la legislación aplicable, en el estudio y formulación de los proyectos de aranceles, cuotas compensatorias y demás medidas de regulación y restricción al comercio exterior;
+XVII. Participar en el ámbito de su competencia, con otras unidades administrativas de la Secretaría o del Servicio de Administración Tributaria, en la instrumentación de acciones para el intercambio de conocimientos técnicos con los países con los que se tengan celebrados convenios o tratados en materia fiscal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
+XVIII. Informar a la Procuraduría Fiscal de la Federación o a la autoridad competente, de los hechos que tenga conocimiento en el ejercicio de sus facultades, que puedan constituir delitos de los servidores públicos de la Secretaría en el desempeño de sus funciones;
 
-X. Analizar y, en su caso, coordinar las medidas necesarias para que la política aduanera y la relacionada con la industria maquiladora sea acorde con la política de comercio exterior, proponiendo además en los términos de la Ley Orgánica de la Administración Pública Federal las medidas procedentes para la promoción del comercio exterior mexicano, previo estudio de las propuestas de otras autoridades competentes;
+XIX. Solicitar a las unidades administrativas competentes del Servicio de Administración Tributaria la información necesaria para la evaluación y el diseño de la política fiscal y aduanera;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
+XX. Resolver los asuntos que las disposiciones legales aplicables al régimen de los ingresos de la Federación atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario;
 
-XI. Proponer las disposiciones relativas a las operaciones fronterizas, para el fomento de la industria maquiladora y para el desarrollo de la franja y región fronteriza del país en el área de su competencia, así como la elaboración de las políticas y programas correspondientes a dichas materias y los relativos a desarrollos portuarios y aeroportuarios, fomento a las industrias de exportación, regímenes temporales de importación y exportación y a importaciones para montaje y acabado automotriz, escuchando para ello al Servicio de Administración Tributaria;
+XXI. Emitir opinión sobre el establecimiento de los precios y tarifas de las entidades de la Administración Pública Federal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
+XXII. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por las dependencias y entidades de la Administración Pública Federal, sobre las medidas de política impositiva que deben instrumentarse;
 
-XII. Proponer, para aprobación superior, el establecimiento de las bases para fijar, registrar, controlar y supervisar, los precios y tarifas de los bienes y servicios de las dependencias y entidades de la administración pública federal, en coordinación con las unidades administrativas de la Secretaría y con la participación de las dependencias que corresponda; así como proponer, los bienes y servicios cuyos precios y tarifas continúen siendo fijados por la Secretaría;
+XXIII. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por los diversos grupos sociales, para proponer las medidas que se deben tomar en relación con el tratamiento a sectores de contribuyentes;
 
-> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
+XXIV. Emitir opinión sobre la política en materia de derechos;
 
-XIII. Participar en la elaboración de los anteproyectos de iniciativas de ley y proyectos de reglamentos en materia fiscal de la Federación, así como los proyectos de reglas generales y otras disposiciones de carácter fiscal relacionadas con la fracción I de este artículo;
+XXV. Elaborar las estimaciones de ingresos del Gobierno Federal, del sector paraestatal sujeto a control presupuestario directo, de la recaudación federal participable y del pago de participaciones a las entidades federativas y a los municipios;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
+XXVI. Elaborar análisis y reportes sobre la evolución de los ingresos del sector público presupuestario, la recaudación federal participable y el pago de participaciones a las entidades federativas y a los municipios, y
 
-XIV. Participar con el Servicio de Administración Tributaria en los grupos de trabajo que se creen para lograr la adecuada interpretación y aplicación de la legislación fiscal y aduanera y proponer medidas para la pronta y expedita administración de justicia en materia tributaria, así como en los que analicen las resoluciones relativas a la metodología utilizada para la determinación de precios o montos de las contraprestaciones en operaciones con partes relacionadas;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
-
-XV. Participar con las unidades administrativas competentes del Servicio de Administración Tributaria en el diseño de las formas oficiales de avisos, pedimentos, declaraciones, manifestaciones, y demás documentos requeridos por las disposiciones fiscales;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
-
-XVI. Analizar y evaluar las repercusiones económicas y financieras de la política de ingresos, a que se refiere la fracción I de este artículo y participar con el Servicio de Administración Tributaria en el desarrollo de medidas vinculadas con las funciones sustantivas de este último, así como llevar un sistema de estadística económico fiscal, en coordinación con las unidades administrativas competentes de la Secretaría y del propio Servicio de Administración Tributaria, y proponer las medidas correspondientes;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
-
-XVII. Diseñar un sistema de información fiscal y aduanera que permita llevar el sistema de estadística económico fiscal a que se refiere la fracción anterior, escuchando para ello al Servicio de Administración Tributaria;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
-
-XVIII. Asesorar a las Entidades Federativas, cuando lo soliciten, en la evaluación del impacto de su política fiscal, en la elaboración de sus ordenamientos fiscales para facilitar su administración y en el establecimiento de los sistemas administrativos correspondientes;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
-
-XIX. Recabar la opinión de las dependencias y entidades de la administración pública federal, sobre las medidas de política tributaria, relacionadas con su competencia, así como también la opinión de los diversos grupos o sectores sociales, para proponer las medidas administrativas que se deben tomar en relación con el tratamiento a sectores de contribuyentes y de diversos grupos sociales en relación con las contribuciones y el cumplimiento de sus obligaciones fiscales;
-
-XX. (DEROGADA, D.O.F. 22 DE MARZO DE 2001)
-
-> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
-
-XXI. Fijar los productos, aprovechamientos y derechos, de la administración pública federal centralizada, salvo aquéllos que estén establecidos en ley, con la participación que corresponda a otras dependencias, previa elaboración de estudios de costos económicos y de la estructura de los mercados en los que se prestan los bienes y servicios, por los organismos públicos directamente o por concesión;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
-
-XXII. Proponer, para aprobación superior, la política tributaria en materia internacional y de negociación con otros países de convenciones y tratados en materia fiscal y aduanera;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
-
-XXIII. Proponer los anteproyectos de convenios y tratados de carácter internacional en materia fiscal o aduanera, llevando a cabo las negociaciones respectivas, con la participación que en su caso corresponda al Servicio de Administración Tributaria;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
-
-XXIV. Participar con las unidades administrativas del Servicio de Administración Tributaria, en el ámbito de su competencia, en los grupos de trabajo que se establezcan;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
-
-XXV. Representar a la Secretaría en foros, eventos y reuniones nacionales e internacionales, en donde se discutan aspectos de política de ingresos;
-
-> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
-
-XXVI. Proponer, para aprobación superior, los precios estimados de mercancías de comercio exterior que sean objeto de subvaluación;
-
-XXVII. (DEROGADA, D.O.F. 22 DE MARZO DE 2001)
-
-XXVIII. (DEROGADA, D.O.F. 22 DE MARZO DE 2001)
-
-XXIX. (DEROGADA, D.O.F. 22 DE MARZO DE 2001)
-
-XXX. (DEROGADA, D.O.F. 22 DE MARZO DE 2001)
-
-XXXI. (DEROGADA, D.O.F. 22 DE MARZO DE 2001)
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
-
-XXXII. Participar en el ámbito de su competencia, con otras unidades administrativas de la Secretaría o del Servicio de Administración Tributaria, en la instrumentación de acciones para el intercambio de conocimientos técnicos con los países con los que se tengan celebrados convenios o tratados en materia fiscal o aduanera;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
-
-XXXIII. Informar a la Procuraduría Fiscal de la Federación o a la autoridad competente, de los hechos que tenga conocimiento en el ejercicio de sus facultades, que puedan constituir delitos de los servidores públicos de la Secretaría en el desempeño de sus funciones;
-
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-XXXIV. Solicitar a las unidades administrativas competentes del Servicio de Administración Tributaria la información necesaria para la evaluación y el diseño de la política fiscal y aduanera;
-
-> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
-
-XXXV. Resolver los asuntos que las disposiciones legales aplicables al régimen de los ingresos de la Federación atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario;
-
-> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-XXXVI. Fijar los precios y tarifas de las entidades de la administración pública federal, con la participación que corresponda a otras dependencias, previa elaboración de estudios de costos económicos y de la estructura de los mercados en los que se prestan los bienes y servicios, por los organismos públicos directamente o por concesiones.
-
-> <small>(ADICIONADA, D.O.F. 22 DE MARZO DE 2001)</small>
-
-XXXVII. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por las dependencias y entidades de la administración pública federal, sobre las medidas de política impositiva que deben instrumentarse;
-
-> <small>(ADICIONADA, D.O.F. 22 DE MARZO DE 2001)</small>
-
-XXXVIII. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por los diversos grupos o sectores sociales, para proponer las medidas que se deben tomar en relación con el tratamiento a sectores de contribuyentes y de diversos grupos sociales en relación con los derechos, productos y aprovechamientos, y el cumplimiento de sus obligaciones fiscales, y
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-XXXIX. Estudiar y formular la política en materia de derechos, en congruencia con la política de la hacienda pública y la política económica y social del país, en coordinación con otras unidades administrativas competentes de la Secretaría, del Servicio de Administración Tributaria y de otras dependencias y entidades públicas; así como evaluar el efecto recaudatorio de las reformas que en materia de derechos se propongan.
+XXVII. Participar en el ámbito de su competencia, en las reuniones de diversos comités de transparencia y combate a la corrupción, así como proporcionar la información, en materia de transparencia y acceso a la información pública gubernamental, que le sea solicitada.
 
 ###### Artículo 39.
 
 (DEROGADO, D.O.F. 22 DE MARZO DE 2001)
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 40.
 
@@ -2965,255 +3827,103 @@ Compete a la Dirección General Adjunta de Análisis Económico y Estadística d
 
 I. Participar en la formulación del Programa Nacional de Financiamiento del Desarrollo y del Programa Operativo Anual de Financiamiento de la Administración Pública Federal, en las materias a que se refiere la fracción I del artículo 38 de este Reglamento, con las unidades administrativas competentes de la Secretaría;
 
-II. Evaluar, para fines tributarios, el comportamiento de la economía nacional y de los diversos sectores de contribuyentes con el propósito de identificar sus problemas y proponer alternativas de política tributaria;
+II. Participar en la elaboración de propuestas en materia de política fiscal y de coordinación fiscal;
 
-III. Estimar las metas de recaudación, presupuestar y evaluar el comportamiento de la recaudación, de los ingresos de la administración pública federal centralizada y de los estímulos fiscales, en relación con los programas a que se refiere la fracción I de este artículo;
+III. Elaborar las estimaciones de ingresos del Gobierno Federal, de los ingresos procedentes de la actividad petrolera, de la recaudación federal participable y del pago de participaciones a las entidades federativas y a los municipios, tanto para el ejercicio fiscal de que se trate, como para el siguiente;
 
-IV. Proponer, para aprobación superior, las asignaciones sectoriales de financiamiento de las dependencias de la administración pública federal, en materia de derechos, productos y aprovechamientos;
+IV. Elaborar el calendario mensual de las estimaciones de ingresos del Gobierno Federal, de los ingresos procedentes de la actividad petrolera, de la recaudación federal participable y del pago de participaciones a las entidades federativas y a los municipios;
 
-V. Proponer, para aprobación superior, las asignaciones presupuestarias correspondientes a las participaciones a Entidades Federativas y Municipios, conforme a la recaudación federal participable, y
+V. Calcular y analizar en forma mensual, cuatrimestral y anual, la recaudación federal participable que sirve de base para el pago de participaciones a las entidades federativas y municipios, en los términos establecidos por la Ley de Coordinación Fiscal;
 
-> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
+VI. Elaborar estadísticas sobre los ingresos del Gobierno Federal, los ingresos procedentes de la actividad petrolera, la recaudación federal participable, las participaciones pagadas a las entidades federativas y a los municipios, las declaraciones de los contribuyentes, el número de contribuyentes y la recaudación propia de las entidades federativas y municipios;
 
-VI. Participar, con el Servicio de Administración Tributaria, en el diseño de un sistema de información fiscal y aduanera que permita llevar el sistema de estadística económico fiscal.
+VII. Elaborar en forma mensual, trimestral, semestral y anual, los análisis y reportes sobre la evolución de los ingresos del sector público presupuestario, de la recaudación federal participable y del pago de participaciones a las entidades federativas y a los municipios, con el fin de informar a los niveles jerárquicos superiores de la Secretaría y al Congreso de la Unión, en los términos que éste disponga;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE MARZO DE 2001)</small>
+VIII. Desarrollar modelos estadísticos, econométricos y de simulación, para la evaluación de los efectos de las modificaciones a la política impositiva;
+
+IX. Participar en la elaboración de estudios del impacto de la política fiscal sobre el ingreso y el gasto de los hogares;
+
+X. Emitir opinión y participar con el Servicio de Administración Tributaria, en materia del régimen fiscal que se aplica a Petróleos Mexicanos y sus organismos subsidiarios, así como en relación con el impuesto especial sobre producción y servicios que se aplica a las gasolinas y diesel, y
+
+XI. Participar en foros, eventos y reuniones nacionales e internacionales, en donde se discutan aspectos de política de ingresos.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 41.
 
-Compete a la Dirección General Adjunta de Impuestos Directos e Impuesto al Valor Agregado:
+Compete a la Dirección General Adjunta de Estudios de Política de Ingresos:
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+I. Estudiar y proponer para aprobación superior, tomando en consideración la opinión de las unidades administrativas del Servicio de Administración Tributaria y de la Secretaría, la política de ingresos incluyendo la política fiscal, la de coordinación fiscal y la de estímulos fiscales, en congruencia con la política de la hacienda pública y la política económica y social del país;
 
-I. Estudiar y formular, tomando en consideración la opinión de las unidades administrativas del Servicio de Administración Tributaria y de la Secretaría, la política tributaria, doméstica e internacional, de negociación con otros países de convenciones y tratados en materia fiscal y la de estímulos fiscales para el desarrollo de la economía nacional, en congruencia con la política de la hacienda pública y la política económica y social del país;
+II. Analizar y evaluar el impacto recaudatorio de la política impositiva, en los ingresos públicos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
+III. Participar en el estudio y formulación de los anteproyectos de las iniciativas de ley y proyectos de reglamentos en materia fiscal federal, así como de los proyectos de reglas generales y otras disposiciones de carácter fiscal relacionadas con la fracción I del artículo 38 de este Reglamento;
 
-II. Analizar y evaluar las repercusiones económicas y financieras de la política impositiva, a que se refiere la fracción I del artículo 38 de este Reglamento;
+IV. Participar con las unidades administrativas competentes del Servicio de Administración Tributaria en el diseño de las formas oficiales de avisos, pedimentos, declaraciones, manifestaciones, y demás documentos fiscales requeridos, así como en los grupos de trabajo que se creen para la adecuada interpretación y aplicación de la legislación fiscal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
+V. Participar con las unidades administrativas competentes del Servicio de Administración Tributaria en los grupos de trabajo que se establezcan para el análisis de la política de ingresos incluyendo la política fiscal, la de coordinación fiscal y la de estímulos fiscales;
 
-III. Participar en el estudio y la formulación de los anteproyectos de iniciativas de ley y proyectos de reglamentos en materia fiscal de la Federación, así como de los proyectos de reglas generales y otras disposiciones de carácter fiscal;
+VI. Dirigir e integrar los estudios para identificar y evaluar los gastos fiscales relacionados con el sistema tributario federal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
+VII. Conocer y analizar, en el ámbito de su competencia, los planteamientos presentados por los diversos sectores de contribuyentes en materia de política tributaria, relacionados con el diseño del sistema tributario, así como las opiniones vertidas en esta materia por las dependencias y entidades de la Administración Pública Federal;
 
-IV. Participar con las unidades administrativas competentes del Servicio de Administración Tributaria en el diseño de las formas oficiales de avisos, pedimentos, declaraciones, manifestaciones, y demás documentos requeridos por las disposiciones fiscales;
+VIII. Dirigir los estudios relativos a la aplicación de estímulos fiscales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
+IX. Participar en foros, eventos y reuniones nacionales e internacionales, en donde se discutan aspectos de política de ingresos;
 
-V. Participar con el Servicio de Administración Tributaria en los grupos de trabajo que se creen para lograr la adecuada interpretación y aplicación de la legislación fiscal y aduanera y proponer medidas para la pronta y expedita administración de justicia en materia tributaria, así como en los que analicen las resoluciones relativas a la metodología utilizada para la determinación de precios o montos de las contraprestaciones en operaciones con partes relacionadas;
+X. Dirigir los estudios en materia de competitividad fiscal, en lo que se refiere a tasas, base gravable y tratos de excepción;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
+XI. Participar en los estudios de evasión y elusión fiscales para mejorar el diseño de la estructura impositiva;
 
-VI. Llevar un sistema de estadística económico fiscal;
+XII. Dirigir y coordinar la elaboración de los proyectos de anexos de las disposiciones de carácter general en materia de actualización de tablas, tarifas y cantidades, depreciación de activos y tasa de recargos por prórroga y mora, entre otras;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
+XIII. Dirigir los estudios económicos en materia de coordinación fiscal, y
 
-VII. Conocer, en lo que le compete, de la problemática y opiniones vertidas por las dependencias y entidades de la administración pública federal, sobre las medidas de política impositiva que deben instrumentarse;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
-
-VIII. Conocer, en lo que le compete, de la problemática y opiniones vertidas por los diversos grupos o sectores sociales, para proponer las medidas que se deben tomar en relación con el tratamiento a sectores de contribuyentes y de diversos grupos sociales en relación con las contribuciones y el cumplimiento de sus obligaciones fiscales;
-
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-IX. Participar en foros, eventos y reuniones nacionales e internacionales, en los que se discutan aspectos de política impositiva, en el ámbito de su competencia y, en su caso, participar en la negociación de convenios y tratados internacionales en materia fiscal;
-
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-X. Analizar la información necesaria para generar propuestas para prevenir la evasión o elusión fiscales, y
-
-XI. (DEROGADA, D.O.F. 22 DE MARZO DE 2001)
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE MARZO DE 2001)</small>
+XIV. Participar en el ámbito de su competencia, en las reuniones de diversos comités de transparencia y combate a la corrupción y atender los compromisos asignados a la Unidad de Política de Ingresos en esta materia; así como proporcionar la información, en materia de transparencia y acceso a la información pública gubernamental, que le sea solicitada.
 
 ###### Artículo 42.
 
-Compete a la Dirección General Adjunta de Impuestos Especiales y Comercio Exterior:
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-I. Estudiar y formular, con la opinión de las unidades administrativas del Servicio de Administración Tributaria y de la Secretaría, la política tributaria, doméstica e internacional, aduanera, de negociación con otros países de convenciones y tratados en materia aduanera, en congruencia con la política de la hacienda pública y la política económica y social del país;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
-
-II. Estudiar y formular la política de coordinación fiscal de la Federación con las Entidades Federativas y Municipios;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
-
-III. Participar en el estudio y la formulación de los anteproyectos de iniciativas de ley y proyectos de reglamentos en materia fiscal y aduanera de la Federación, así como de los proyectos de reglas generales y otras disposiciones de carácter fiscal y aduanero;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
-
-IV. Participar con las unidades administrativas competentes del Servicio de Administración Tributaria en el diseño de las formas oficiales de avisos, pedimentos, declaraciones, manifestaciones, y demás documentos requeridos por las disposiciones fiscales;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
-
-V. Participar con el Servicio de Administración Tributaria en los grupos de trabajo que se creen para lograr la adecuada interpretación y aplicación de la legislación fiscal y aduanera y proponer medidas para la pronta y expedita administración de justicia en materia tributaria, así como en los que analicen las resoluciones relativas a la metodología utilizada para la determinación de precios o montos de las contraprestaciones en operaciones con partes relacionadas;
-
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-VI. Participar con las autoridades competentes de la Secretaría, otras dependencias de la administración pública federal y del Servicio de Administración Tributaria, en los términos de la legislación aplicable, en el estudio y formulación de los proyectos de aranceles, cuotas compensatorias y demás medidas de regulación y restricción al comercio exterior, así como representar a la Secretaría en las Licitaciones Públicas Nacionales que se lleven a cabo para la asignación de los cupos de mercancías para su importación o exportación;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
-
-VII. Participar con las autoridades competentes de la Secretaría, otras dependencias de la administración pública federal y del Servicio de Administración Tributaria, en el análisis de las medidas necesarias para que la política aduanera y la relacionada con la industria maquiladora sea acorde con la política de comercio exterior, poniendo a consideración superior las medidas procedentes para la promoción del comercio exterior mexicano, previo estudio de las propuestas de otras autoridades competentes;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
-
-VIII. Conocer, en lo que le compete, de la problemática y opiniones vertidas por las dependencias y entidades de la administración pública federal, sobre las medidas de política impositiva que deben instrumentarse;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
-
-IX. Conocer, en lo que le compete, de la problemática y opiniones vertidas por los diversos grupos o sectores sociales, para proponer las medidas que se deben tomar en relación con el tratamiento a sectores de contribuyentes y de diversos grupos sociales en relación con las contribuciones y el cumplimiento de sus obligaciones fiscales;
-
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-X. Participar en la elaboración de disposiciones relativas a las operaciones fronterizas, para el fomento de la industria local, maquiladora y el comercio, para el desarrollo de la franja y región fronteriza del país en el área de su competencia;
-
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-XI. Participar en la elaboración de las políticas y programas correspondientes para el fomento a las industrias de exportación, los regímenes temporales de importación y la exportación e importaciones para montaje y acabado automotriz, así como la importación de vehículos automotores para permanecer definitivamente en la región y franja fronteriza del país;
-
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-XII. Elaborar los proyectos de precios estimados de mercancías de comercio exterior que sean objeto de subvaluación;
-
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-XIII. Participar en la negociación de convenios y tratados internacionales en materia aduanera, y
-
-XIV. (DEROGADA, D.O.F. 22 DE MARZO DE 2001)
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE MARZO DE 2001)</small>
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 ###### Artículo 43.
 
-Compete a la Dirección General Adjunta de Estudios Especiales en Materia Impositiva:
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
-
-I. Desarrollar los estudios económicos de los países con los que se pretende llevar a cabo negociaciones de convenios o tratados en materia fiscal o aduanera internacional;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
-
-II. Realizar las investigaciones sobre el impacto económico de medidas de política fiscal internacional;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE JUNIO DE 1998)</small>
-
-III. Participar en el estudio de las propuestas de reformas a la legislación federal en materia fiscal y aduanera internacional;
-
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-IV. Estudiar y analizar el comportamiento de la economía nacional con el propósito de identificar problemas y proponer soluciones;
-
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-V. Estudiar y analizar el comportamiento de instrumentos, agentes y sectores económicos que por sus características requieran de un conocimiento detallado;
-
-> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-VI. Participar en la formulación de la política fiscal aplicable al sistema financiero, a los residentes en el extranjero, a la industria maquiladora y a las operaciones que celebren los contribuyentes con partes relacionadas, y
-
-VII. (DEROGADA, D.O.F. 22 DE MARZO DE 2001)
-
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2001)</small>
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 ###### Artículo 44.
 
-Compete a la Dirección General Adjunta de Derechos, Productos y Aprovechamientos:
-
-I. Estudiar y formular los anteproyectos mediante los cuales se aprueben los productos, aprovechamientos y derechos de la administración pública federal centralizada, con la participación que corresponda a otras dependencias, previa elaboración de estudios de costos económicos y de la estructura de los mercados en los que se prestan los bienes y servicios, por los organismos públicos directamente o por concesiones;
-
-II. Participar en la determinación de las asignaciones sectoriales de financiamiento de las dependencias de la administración pública federal en materia de derechos, productos y aprovechamientos y en la formulación del programa financiero de las entidades paraestatales incluidas en la Ley de Ingresos de la Federación, en las materias de su competencia;
-
-III. Analizar las consultas que formulen las dependencias y entidades de la administración pública federal sobre derechos, productos y aprovechamientos, relacionados con servicios que prestan o con los bienes de dominio público cuyo uso o aprovechamiento esté dentro de la esfera de su competencia;
-
-IV. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por las dependencias y entidades de la administración pública federal, sobre las medidas de política impositiva que deben instrumentarse;
-
-V. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por los diversos grupos o sectores sociales, para proponer las medidas que se deben tomar en relación con el tratamiento a sectores de contribuyentes y de diversos grupos sociales en relación con los derechos, productos y aprovechamientos, y el cumplimiento de sus obligaciones fiscales, y
-
-VI. Proponer y participar en la formulación de los anteproyectos sobre contribuciones, estímulos, precios y tarifas relacionados con la ecología.
-
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2001)</small>
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 ###### Artículo 45.
 
-Compete a la Dirección General Adjunta de Precios y Tarifas:
-
-I. Estudiar y formular las asignaciones sectoriales de financiamiento de las dependencias y entidades de la administración pública federal en lo concerniente a precios y tarifas y, en su caso, la autorización del programa financiero de las entidades paraestatales incluidas en la Ley de Ingresos de la Federación, en las materias de su competencia;
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-II. Participar con la Unidad de Crédito Público, en materia de precios y tarifas de los bienes y servicios de las entidades de la Administración Pública Federal, en la formulación, para aprobación superior, de los programas financieros sectoriales y regionales de corto y mediano plazo de las citadas entidades para integrarse al Programa Nacional de Financiamiento del Desarrollo;
-
-III. Participar con las unidades administrativas competentes de la Secretaría, en la formulación del Programa Nacional de Financiamiento del Desarrollo y del Programa Operativo Anual de Financiamiento de la Administración Pública Federal, en las materias a que se refieren las fracciones anteriores;
-
-IV. Estudiar y formular las bases para fijar, registrar, controlar y supervisar, los precios y tarifas de los bienes y servicios de las dependencias y entidades de la administración pública federal, en coordinación con las unidades administrativas de la Secretaría y con la participación de las dependencias que corresponda; así como proponer los bienes y servicios cuyos precios y tarifas continúen siendo fijados por la Secretaría;
-
-V. Formular los anteproyectos mediante los cuales se fijen los precios y tarifas de la administración pública federal paraestatal, con la participación que corresponda a otras dependencias, previa elaboración de estudios de costos económicos y de la estructura de los mercados en los que se prestan los bienes y servicios, por los organismos públicos directamente o por concesiones;
-
-VI. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por las dependencias y entidades de la administración pública federal, sobre las medidas de política impositiva que deben instrumentarse, y
-
-VII. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por los diversos grupos o sectores sociales, para proponer las medidas que se deben tomar en relación con el tratamiento a sectores de contribuyentes y de diversos grupos sociales con respecto a las contribuciones y el cumplimiento de sus obligaciones fiscales.
-
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2001)</small>
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 ###### Artículo 46.
 
-Compete a la Dirección General Adjunta de Estudios Especiales de Ingresos no Tributarios:
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
-I. Desarrollar los estudios económicos comparados, vinculados con las políticas de cobros de bienes y servicios públicos;
-
-II. Realizar estudios económicos que permitan evaluar los efectos de la política de ingresos en aspectos tales como el empleo, la producción, la ecología, la distribución de la riqueza, entre otros, así como realizar estudios por regiones y sectores económicos;
-
-III. Participar en la formulación del Programa Nacional de Financiamiento del Desarrollo y del Programa Operativo Anual de Financiamiento de la Administración Pública Federal, en las materias de su competencia;
-
-IV. Estudiar y analizar el comportamiento de la economía nacional con el propósito de identificar problemas y proponer soluciones, y
-
-V. Estudiar y analizar el comportamiento de instrumentos, agentes y sectores económicos que por sus características requieran de un conocimiento detallado.
-
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 47.
 
-Compete a la Dirección General Adjunta de Análisis y Evaluación Fiscal:
+Compete a la Dirección General Adjunta de Análisis y Evaluación Técnico Contable en Materia Impositiva y del Sector Financiero:
 
-I. Participar en los estudios y análisis de los Sistemas Tributarios de otros países, que apoyen propuestas para el mejoramiento del sistema fiscal de México;
+I. Participar en la formulación de los anteproyectos de iniciativas de ley y proyectos de reglamentos en materia fiscal, así como de los proyectos de reglas generales y otras disposiciones de carácter fiscal;
 
-II. Participar en los estudios de los resultados de la política tributaria implementada por otros países;
+II. Participar en reuniones con representantes de los diversos sectores de contribuyentes, a efecto de conocer la interpretación que le dan a las disposiciones fiscales, sus planteamientos y detectar problemas para proponer alternativas de solución o, en su caso, reformas a las leyes o reglamentos fiscales o bien, instrumentar reglas generales;
 
-III. Participar en la formulación de los anteproyectos de iniciativas de Ley y proyectos de reglamentos en materia fiscal, así como de los proyectos de reglas generales y otras disposiciones de carácter fiscal;
+III. Participar con las unidades administrativas competentes del Servicio de Administración Tributaria en el diseño de las formas oficiales de avisos, pedimentos, declaraciones, manifestaciones y demás documentos requeridos por las disposiciones fiscales;
 
-IV. Participar en reuniones con representantes de los sectores de contribuyentes, a efecto de conocer la interpretación que le dan a las disposiciones fiscales, sus planteamientos o detectar problemas y proponer alternativas de solución o, en su caso, reformas a las leyes o reglamentos fiscales o bien, instrumentar reglas generales, y
+IV. Participar en el ámbito de su competencia, en los grupos de trabajo y comités interinstitucionales que se establezcan en las unidades administrativas competentes, y
 
-V. Colaborar con el Servicio de Administración Tributaria, en las reuniones de los grupos de trabajo integrados para analizar la problemática que se presenta en regímenes fiscales o sectores específicos, para proponer en su caso reformas a las disposiciones fiscales.
-
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2001)</small>
+V. Atender las solicitudes de información del Servicio de Administración Tributaria sobre los propósitos de política fiscal relativas a las disposiciones fiscales en que haya participado la Unidad de Política de Ingresos.
 
 ###### Artículo 48.
 
-Compete a la Dirección General Adjunta de Planeación Estratégica:
-
-I. Determinar las directrices, normas y criterios que permitan la preparación adecuada y uniforme de los programas de actividades de la Unidad de Política de Ingresos;
-
-II. Integrar y consolidar los proyectos de programas de las Direcciones Generales Adjuntas de la Unidad de Política de Ingresos, y
-
-III. Apoyar a las Direcciones Generales Adjuntas de la Unidad de Política de Ingresos para establecer las medidas de organización, coordinación e integración que resulten necesarias para el cumplimiento de sus programas de acuerdo a la política de ingresos de la Secretaría.
-
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2001)</small>
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 ###### Artículo 49.
 
-Compete a la Dirección General Adjunta de Apoyo Técnico Contable:
-
-I. Participar en lo relativo a los aspectos contables, en el estudio y formulación de los anteproyectos de iniciativas de ley y proyectos de reglamentos en materia fiscal de la Federación, así como de los proyectos de reglas generales y otras disposiciones que corresponda;
-
-II. Participar en lo relativo a los aspectos contables, con las unidades adscritas al Servicio de Administración Tributaria, en la interpretación para efectos administrativos y aplicación de la legislación fiscal, en el ámbito de su competencia;
-
-III. Participar con las unidades administrativas competentes del Servicio de Administración Tributaria en el diseño de las formas oficiales de avisos, pedimentos, declaraciones, manifestaciones y demás documentos requeridos por las disposiciones fiscales, y
-
-IV. Participar en el ámbito de su competencia, en los comités interinstitucionales que se establezcan en las unidades administrativas competentes.
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 > <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2001)</small>
 
@@ -3221,11 +3931,15 @@ IV. Participar en el ámbito de su competencia, en los comités interinstitucion
 
 Compete a la Unidad de Legislación Tributaria:
 
-I. Elaborar y presentar para aprobación superior los anteproyectos de iniciativas de ley y proyectos de reglamentos en materias fiscal y aduanera de la Federación, así como los proyectos de reglas generales y otras disposiciones de carácter fiscal y aduanero, oyendo la opinión de las unidades administrativas competentes en la formulación de la política de ingresos federales;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+I. Elaborar y presentar para aprobación superior los anteproyectos de iniciativas de ley y proyectos de reglamentos en materias fiscal y aduanera de la Federación, los proyectos de precios estimados de mercancías de comercio exterior que sean objeto de subvaluación, así como los proyectos de reglas generales y otras disposiciones de carácter fiscal y aduanero, oyendo la opinión de las unidades administrativas competentes en la formulación de la política de ingresos federales;
 
 II. Otorgar asesoría jurídica en la emisión de autorizaciones o resolución de consultas a las demás unidades administrativas vinculadas con los asuntos de su competencia;
 
-III. Participar con las unidades administrativas del Servicio de Administración Tributaria en la adecuada interpretación y aplicación de la legislación fiscal y aduanera, así como de los tratados internacionales en materia fiscal y aduanera;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+III. Asesorar a las unidades administrativas competentes de la Secretaría, del Servicio de Administración Tributaria y de otras dependencias de la Administración Pública Federal, en la adecuada interpretación y aplicación de la legislación fiscal y aduanera, y de los acuerdos, convenios y tratados internacionales en materia aduanera, así como establecer la metodología para la determinación de precios estimados de mercancías de comercio exterior que sean objeto de subvaluación;
 
 IV. Asesorar a las Entidades Federativas, cuando lo soliciten, en la elaboración de sus ordenamientos fiscales;
 
@@ -3233,7 +3947,9 @@ V. Conocer, en el ámbito de su competencia, de la problemática y opiniones ver
 
 VI. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por los diversos grupos o sectores sociales, para proponer las medidas que se deben tomar en relación con el tratamiento a sectores de contribuyentes y de diversos grupos sociales en relación con las contribuciones y el cumplimiento de sus obligaciones fiscales y aduaneras;
 
-VII. Participar conjuntamente con las unidades competentes de la Secretaría y del Servicio de Administración Tributaria, en el ámbito de su competencia, en los grupos de trabajo que se establezcan;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VII. Participar conjuntamente con las unidades administrativas competentes de la Secretaría, del Servicio de Administración Tributaria y de otras dependencias de la Administración Pública Federal, en los grupos de trabajo que se establezcan, en el ámbito de su competencia;
 
 VIII. Participar con las unidades administrativas competentes del Servicio de Administración Tributaria en el diseño de las formas oficiales de avisos, pedimentos, declaraciones, manifestaciones, y demás documentos requeridos por las disposiciones fiscales y aduaneras;
 
@@ -3241,109 +3957,249 @@ IX. Participar con las unidades administrativas de la Secretaría en la formulac
 
 X. Informar a la Procuraduría Fiscal de la Federación o a la autoridad competente de los hechos de que tenga conocimiento en el ejercicio de sus facultades, que puedan constituir delitos de los servidores públicos de la Secretaría en el desempeño de sus funciones;
 
-XI. Participar en la elaboración de disposiciones relativas a las operaciones fronterizas, para el fomento de la industria maquiladora y para el desarrollo de la franja y región fronteriza del país en el área de su competencia, así como en las políticas y programas correspondientes para el fomento a las industrias de exportación, los regímenes temporales de importación y la exportación e importación para montaje para acabado automotriz, previa opinión del Servicio de Administración Tributaria, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XII. Resolver los asuntos que las disposiciones legales aplicables al régimen de los impuestos federales o los tratados fiscales o aduaneros atribuyan a la Secretaría, siempre que no formen parte de las facultades indelegables del Secretario.
+XI. Participar en la elaboración de disposiciones relativas a las operaciones fronterizas, para el fomento de la industria maquiladora y para el desarrollo de la franja y región fronteriza del país en el área de su competencia, así como en las políticas y programas correspondientes para el fomento a las industrias de exportación, los regímenes temporales de importación y la exportación e importación para montaje y acabado automotriz, así como la importación de vehículos automotores para permanecer definitivamente en la franja y región fronteriza del país, previa opinión del Servicio de Administración Tributaria;
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XII. Resolver los asuntos que las disposiciones legales aplicables al régimen de los impuestos federales o los tratados fiscales o aduaneros atribuyan a la Secretaría, siempre que no formen parte de las facultades indelegables del Secretario;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIII. Participar, en el ámbito de su competencia, en la elaboración de anteproyectos de convenios y acuerdos en materia de coordinación fiscal federal;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIV. Emitir opiniones, en el ámbito de su competencia, sobre anteproyectos e iniciativas de reformas de leyes de carácter fiscal o aduanero que sean sometidas a su consideración;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XV. Proporcionar cuando le sea solicitada, asesoría legal en materia de transparencia y acceso a la información pública gubernamental, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XVI. Realizar investigaciones y estudios de derecho comparado en las materias de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XVII. Participar, en el ámbito de su competencia, en el estudio y formulación de los anteproyectos de acuerdos, convenios y tratados internacionales, así como en las negociaciones respectivas;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XVIII. Mantener comunicación con las autoridades de otros países para obtener y proporcionar la información y documentación que establezcan los acuerdos, convenios y tratados internacionales de libre comercio o en materia aduanera, así como representar a la Secretaría en foros, eventos y reuniones nacionales e internacionales, en los que se analicen asuntos de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIX. Participar, en el ámbito de su competencia, con otras unidades administrativas de la Secretaría y del Servicio de Administración Tributaria, en la instrumentación de acciones para el intercambio de conocimientos técnicos con los países parte de los acuerdos, convenios o tratados internacionales, suscritos por México;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XX. Analizar y resolver las consultas que formulen las dependencias y entidades de la Administración Pública Federal sobre derechos, productos y aprovechamientos, relacionados con los servicios que proporcionan o con los bienes de dominio público cuyo uso o aprovechamiento esté dentro de la esfera de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXI. Elaborar los estudios económicos y de la estructura de los mercados en los que se prestan los bienes y servicios, por los organismos públicos directamente o por concesiones, para la elaboración de los anteproyectos y proyectos a que se refiere la fracción I de este artículo;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXII. Fijar los productos y aprovechamientos de la Administración Pública Federal Centralizada, salvo aquellos que estén establecidos en ley, en coordinación con otras unidades administrativas de la Secretaría y de las demás dependencias de la Administración Pública Federal, en congruencia con la política de la hacienda pública, económica y social del país, previa elaboración de estudios económicos y de la estructura de los mercados en los que se prestan los bienes y servicios por los organismos públicos directamente o por concesiones;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXIII. Proponer para aprobación de la unidad administrativa competente, la determinación de las asignaciones sectoriales de financiamiento de las dependencias de la Administración Pública Federal en materia de derechos, productos y aprovechamientos y, en su caso, recibir y dar cumplimiento a los comentarios y observaciones que al respecto emita la citada unidad;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXIV. Proporcionar asesoría jurídica a las unidades administrativas de la Secretaría que sean competentes para fijar los precios y tarifas de las entidades de la Administración Pública Federal, cuando así le sea solicitada;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXV. Participar con las autoridades competentes de la Secretaría, del Servicio de Administración Tributaria y de otras dependencias de la Administración Pública Federal, en los términos de la legislación aplicable, en el estudio y formulación de los proyectos de aranceles, cuotas compensatorias y demás medidas de regulación y restricción al comercio exterior; así como representar a la Secretaría en las licitaciones públicas nacionales que se lleven a cabo para la asignación de los cupos de mercancías para su importación o exportación, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXVI. Participar con las autoridades competentes de la Secretaría, del Servicio de Administración Tributaria y de otras dependencias de la Administración Pública Federal, en el análisis de las medidas aduaneras y las relacionadas con la industria maquiladora a fin de que sean acordes con la política de comercio exterior, proponiendo las medidas procedentes para la promoción del comercio exterior mexicano, previo estudio de las propuestas de otras autoridades competentes.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 51.
 
-Compete a la Dirección General Adjunta de Legislación de Impuestos Directos:
+Compete a la Dirección General Adjunta de Legislación y Estudios Tributarios:
 
-I. Estudiar y formular los anteproyectos de iniciativas de ley y proyectos de reglamentos en materia fiscal de la Federación, así como los proyectos de reglas generales y otras disposiciones de carácter fiscal relacionadas con la fracción I del artículo 38 de este Reglamento, en coordinación con las unidades administrativas competentes en la formulación de la política de ingresos federal en materia de impuestos directos;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+I. Estudiar y formular los anteproyectos de iniciativas de ley y proyectos de reglamentos en materia fiscal federal, así como los proyectos de reglas generales y otras disposiciones de carácter fiscal relacionadas con la fracción I del artículo 38 de este Reglamento, en coordinación con las unidades administrativas competentes en la formulación de la política de ingresos federal;
+
+> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
 
 II. Asesorar a las Entidades Federativas, cuando lo soliciten, en la elaboración de sus ordenamientos fiscales, en la materia de su competencia;
 
+> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
+
 III. Asesorar, en el ámbito de su competencia, a las unidades adscritas al Servicio de Administración Tributaria en la adecuada interpretación y aplicación de la legislación fiscal y, proponer medidas para la pronta y expedita administración de justicia en materia tributaria;
 
-IV. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por las dependencias y entidades de la administración pública federal, sobre las medidas de política impositiva que deben instrumentarse, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-V. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por los diversos grupos o sectores sociales, para proponer las medidas que se deben tomar respecto del tratamiento a sectores de contribuyentes y de diversos grupos sociales en relación con las contribuciones y el cumplimiento de sus obligaciones fiscales.
+IV. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por las dependencias y entidades de la Administración Pública Federal, sobre las medidas de política impositiva que deben instrumentarse;
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+V. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por los diversos grupos o sectores sociales, para proponer las medidas que se deben tomar respecto del tratamiento a sectores de contribuyentes y de diversos grupos sociales en relación con las contribuciones y el cumplimiento de sus obligaciones fiscales;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VI. Participar, en el ámbito de su competencia, en la elaboración de anteproyectos de convenios y acuerdos en materia de coordinación fiscal federal;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VII. Emitir opiniones, en el ámbito de su competencia, sobre anteproyectos e iniciativas de reformas de leyes de carácter fiscal que sean sometidas a su consideración;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VIII. Participar conjuntamente con las unidades administrativas competentes de la Secretaría, del Servicio de Administración Tributaria y de otras dependencias de la Administración Pública Federal, en los grupos de trabajo que se establezcan, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+IX. Proporcionar cuando le sea solicitada, asesoría legal en materia de transparencia y acceso a la información pública gubernamental, en el ámbito de su competencia, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+X. Realizar investigaciones y estudios de derecho comparado en las materias de su competencia.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 52.
 
-Compete a la Dirección General Adjunta de Legislación de Impuestos Indirectos:
+Compete a la Dirección General Adjunta de Legislación Aduanera y Comercio Exterior:
 
-I. Estudiar y formular los anteproyectos de iniciativas de ley y proyectos de reglamentos en materia fiscal de la Federación, así como los proyectos de reglas generales y otras disposiciones de carácter fiscal relacionadas con la fracción I del artículo 38 de este Reglamento, en coordinación con las unidades administrativas competentes en la formulación de la política de ingresos federal en materia de impuestos indirectos;
+I. Estudiar y formular los anteproyectos de iniciativas de ley y proyectos de reglamentos en materia aduanera, los proyectos de precios estimados de mercancías de comercio exterior que sean objeto de subvaluación; así como los proyectos de reglas generales de carácter aduanero;
 
-II. Asesorar a las Entidades Federativas, cuando lo soliciten, en la elaboración de sus ordenamientos fiscales en la materia de su competencia;
+II. Asesorar a las unidades administrativas competentes de la Secretaría, del Servicio de Administración Tributaria y de otras dependencias de la Administración Pública Federal, en la adecuada interpretación y aplicación de la legislación aduanera, y de los acuerdos, convenios y tratados internacionales, en el ámbito de su competencia, así como establecer la metodología para la determinación de precios estimados de mercancías de comercio exterior que sean objeto de subvaluación;
 
-III. Asesorar, en el ámbito de su competencia, a las unidades adscritas al Servicio de Administración Tributaria en la adecuada interpretación y aplicación de la legislación fiscal y, proponer medidas para la pronta y expedita administración de justicia en materia tributaria;
+III. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por las dependencias y entidades de la Administración Pública Federal, sobre las medidas que respecto de política tributaria y de los tratados de libre comercio deben instrumentarse;
 
-IV. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por las dependencias y entidades de la administración pública federal, sobre las medidas de política impositiva que deben instrumentarse, y
+IV. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por los diversos grupos o sectores sociales, para proponer las medidas que se deben tomar en consideración con el tratamiento a sectores de contribuyentes y de diversos grupos sociales en relación a las contribuciones, a los aprovechamientos y en el cumplimiento de sus obligaciones en materia aduanera, así como de las que se deriven de los tratados de libre comercio de los que México sea parte;
 
-V. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por los diversos grupos o sectores sociales, para proponer las medidas que se deben tomar en relación con el tratamiento a sectores de contribuyentes y de diversos grupos sociales en relación con las contribuciones y el cumplimiento de sus obligaciones fiscales.
+V. Participar, conjuntamente con las unidades administrativas de la Secretaría, del Servicio de Administración Tributaria y de otras dependencias de la Administración Pública Federal, en el ámbito de su competencia, en los grupos de trabajo que se establezcan al amparo de los acuerdos, convenios o tratados internacionales de los que México sea parte;
 
-> <small>(ADICIONADO, D.O.F. 22 DE MARZO DE 2001)</small>
+VI. Participar, en el ámbito de su competencia, en el estudio y formulación de los anteproyectos de acuerdos, convenios y tratados internacionales, así como en las negociaciones respectivas;
+
+VII. Emitir opiniones en el ámbito de su competencia, sobre anteproyectos e iniciativas de reformas de leyes de carácter aduanero que sean sometidas a su consideración;
+
+VIII. Mantener comunicación con las autoridades de otros países para obtener y proporcionar la información y documentación que establezcan los acuerdos, convenios y tratados internacionales de libre comercio o en materia aduanera, y representar a la Secretaría en foros, eventos y reuniones nacionales e internacionales, en los que se analicen asuntos de su competencia;
+
+IX. Participar, en el ámbito de su competencia, con otras unidades administrativas de la Secretaría y del Servicio de Administración Tributaria, en la instrumentación de acciones para el intercambio de conocimientos técnicos con los países parte de los acuerdos, convenios o tratados internacionales, suscritos por México;
+
+X. Participar con las unidades administrativas competentes del Servicio de Administración Tributaria en el diseño de las formas oficiales de avisos, pedimentos, declaraciones, manifestaciones, y demás documentos requeridos por las disposiciones aduaneras;
+
+XI. Participar con las autoridades competentes de la Secretaría, del Servicio de Administración Tributaria y de otras dependencias de la Administración Pública Federal, en los términos de la legislación aplicable, en el estudio y formulación de los proyectos de aranceles, cuotas compensatorias y demás medidas de regulación y restricción al comercio exterior; así como representar a la Secretaría en las licitaciones públicas nacionales que se lleven a cabo para la asignación de los cupos de mercancías para su importación o exportación;
+
+XII. Participar con las autoridades competentes de la Secretaría, del Servicio de Administración Tributaria y de otras dependencias de la Administración Pública Federal, en el análisis de las medidas aduaneras y las relacionadas con la industria maquiladora a fin de que sean acordes con la política de comercio exterior, proponiendo las medidas procedentes para la promoción del comercio exterior mexicano, previo estudio de las propuestas de otras autoridades competentes;
+
+XIII. Participar en la elaboración de disposiciones relativas a las operaciones fronterizas, para el fomento de la industria maquiladora y para el desarrollo de la franja y región fronteriza del país en el área de su competencia, y
+
+XIV. Participar en la elaboración de las medidas y programas correspondientes para el fomento a las industrias de exportación, los regímenes temporales de importación y la exportación e importaciones para montaje y acabado automotriz, así como la importación de vehículos automotores para permanecer definitivamente en la región y franja fronteriza del país.
 
 ###### Artículo 52-A.
 
-Compete a la Dirección General Adjunta de Legislación Aduanera:
-
-I. Estudiar y formular los anteproyectos de iniciativas de ley y proyectos de reglamentos en materia aduanera, así como los proyectos de reglas generales y otras disposiciones de carácter aduanero relacionadas con la fracción I del artículo 38 de este Reglamento, en coordinación con las unidades administrativas competentes en la formulación de la política de ingresos federal;
-
-II. Participar con las unidades administrativas del Servicio de Administración Tributaria en la adecuada interpretación y aplicación de la legislación aduanera;
-
-III. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por las dependencias y entidades de la administración pública federal, sobre las medidas de política impositiva que deben instrumentarse;
-
-IV. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por los diversos grupos o sectores sociales, para proponer las medidas que se deben tomar en consideración con el tratamiento a sectores de contribuyentes y de diversos grupos sociales en relación con las contribuciones y el cumplimiento de sus obligaciones en materia aduanera, y
-
-V. Participar, conjuntamente con las unidades administrativas de la Secretaría y del Servicio de Administración Tributaria, en el ámbito de su competencia, en los grupos de trabajo que se establezcan al amparo de los acuerdos, convenios o tratados suscritos por México, en materia aduanera y de reglas de origen.
-
-> <small>(ADICIONADO, D.O.F. 22 DE MARZO DE 2001)</small>
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 ###### Artículo 52-B.
 
-Compete a la Dirección General Adjunta de Aplicación de Tratados de Libre Comercio:
-
-I. Estudiar y formular los proyectos de reglas generales y otras disposiciones de carácter aduanero relacionadas con la fracción I del artículo 38 de este Reglamento, en coordinación con las unidades administrativas competentes en la formulación de la política de ingresos federales;
-
-II. Participar con las unidades administrativas del Servicio de Administración Tributaria en la adecuada interpretación y aplicación de la legislación aduanera en relación con los acuerdos, convenios y tratados internacionales, de Tratados de Libre Comercio;
-
-III. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por las dependencias y entidades de la administración pública federal, sobre las medidas que respecto de los Tratados de Libre Comercio deben instrumentarse;
-
-IV. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por los diversos grupos o sectores sociales, para proponer las medidas que se deben tomar en consideración para el tratamiento a sectores de contribuyentes y de diversos grupos sociales en relación a las contribuciones y el cumplimiento de sus obligaciones en materia aduanera para la aplicación de Tratados de Libre Comercio, y
-
-V. Participar, conjuntamente con las unidades administrativas de la Secretaría y del Servicio de Administración Tributaria, en el ámbito de su competencia, en los grupos de trabajo que se establezcan al amparo de los acuerdos, convenios o Tratados de Libre Comercio suscritos por México, para la aplicación de dichos acuerdos, convenios o tratados.
-
-> <small>(ADICIONADO, D.O.F. 22 DE MARZO DE 2001)</small>
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 ###### Artículo 52-C.
 
-Compete a la Dirección General Adjunta de Legislación de Derechos, Productos y Aprovechamientos:
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
-I. Participar en el estudio y formulación de los anteproyectos de iniciativas de ley y proyectos de reglamento en materia de derechos, así como de los proyectos de reglas generales y otras disposiciones, en lo relativo a la política de derechos;
-
-II. Estudiar y formular los proyectos mediante los cuales se aprueben los derechos, productos y aprovechamientos de la administración pública federal centralizada, salvo aquéllos que estén establecidos en ley, con la participación que corresponda a otras dependencias;
-
-III. Estudiar y formular los proyectos mediante los cuales se aprueben los precios y tarifas de la administración pública paraestatal, con la participación que corresponda a otras dependencias;
-
-IV. Participar con las unidades administrativas del Servicio de Administración Tributaria en la adecuada interpretación y aplicación de la legislación tributaria en materia de derechos, productos y aprovechamientos;
-
-V. Asesorar a las Entidades Federativas, cuando lo soliciten, en la elaboración de sus ordenamientos fiscales en la materia de su competencia;
-
-VI. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por los diversos grupos o sectores sociales, para proponer las medidas que se deben tomar en consideración con el tratamiento a sectores de contribuyentes y de diversos grupos sociales en relación con las contribuciones y el cumplimiento de sus obligaciones fiscales;
-
-VII. Analizar y resolver las consultas que formulen las dependencias y entidades de la administración pública federal sobre derechos, productos y aprovechamientos, relacionados con servicios que prestan o con los bienes de dominio público cuyo uso o aprovechamiento esté dentro de la esfera de su competencia;
-
-VIII. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por las dependencias y entidades de la administración pública federal, sobre las medidas de política impositiva que deben instrumentarse, y
-
-IX. Informar a la Procuraduría Fiscal de la Federación o a la autoridad competente, de los hechos que tenga conocimiento en el ejercicio de sus facultades, que puedan constituir delitos de los servidores públicos de la Secretaría en el desempeño de sus funciones.
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 53.
 
-(DEROGADO, D.O.F. 17 DE JUNIO DE 2003)
+Compete a la Dirección General Adjunta de Legislación de Derechos, Productos y Aprovechamientos:
+
+I. Estudiar y formular, con la participación que corresponda a otras unidades administrativas de la Secretaría, así como de las demás dependencias de la Administración Pública Federal, los anteproyectos de iniciativas de ley y proyectos de reglamento en materia de derechos, así como de los proyectos de reglas generales y otras disposiciones, en lo relativo a la política de derechos, en congruencia con la política de la hacienda pública, económica y social del país, previa elaboración de estudios económicos y de la estructura de los mercados en los que se prestan bienes y servicios por los organismos públicos directamente o por concesiones;
+
+II. Fijar los productos y aprovechamientos de la Administración Pública Federal Centralizada, salvo aquellos que estén establecidos en ley, en coordinación con otras unidades administrativas de la Secretaría y de las demás dependencias de la Administración Pública Federal, en congruencia con la política de la hacienda pública, económica y social del país, previa elaboración de estudios económicos y de la estructura de los mercados en los que se prestan los bienes y servicios por los organismos públicos directamente o por concesiones;
+
+III. Proponer para la aprobación de la unidad administrativa competente, la determinación de las asignaciones sectoriales de financiamiento de las dependencias de la Administración Pública Federal en materia de derechos, productos y aprovechamientos y, en su caso, recibir y dar cumplimiento a los comentarios y observaciones que al respecto emita la citada unidad;
+
+IV. Asesorar a las unidades administrativas del Servicio de Administración Tributaria en la adecuada interpretación y aplicación de la legislación tributaria en materia de derechos, productos y aprovechamientos;
+
+V. Asesorar a las entidades federativas, cuando lo soliciten, en la elaboración de sus ordenamientos fiscales en la materia de su competencia;
+
+VI. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por los diversos grupos o sectores sociales, para proponer las medidas que se deben tomar en consideración con el tratamiento a sectores de contribuyentes y de diversos grupos sociales en relación con las contribuciones y el cumplimiento de sus obligaciones fiscales;
+
+VII. Analizar y resolver las consultas que formulen las dependencias y entidades de la Administración Pública Federal sobre derechos, productos y aprovechamientos, relacionados con servicios que prestan o con los bienes de dominio público cuyo uso o aprovechamiento esté dentro de la esfera de su competencia;
+
+VIII. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por las dependencias y entidades de la Administración Pública Federal, sobre las medidas de política impositiva que deben instrumentarse;
+
+IX. Informar a la Procuraduría Fiscal de la Federación o a la autoridad competente, de los hechos que tenga conocimiento en el ejercicio de sus facultades, que puedan constituir delitos de los servidores públicos de la Secretaría en el desempeño de sus funciones;
+
+X. Participar conjuntamente con las unidades administrativas competentes de la Secretaría, del Servicio de Administración Tributaria y de otras dependencias de la Administración Pública Federal, en los grupos de trabajo que se establezcan, en el ámbito de su competencia;
+
+XI. Emitir opiniones en el ámbito de su competencia, sobre anteproyectos e iniciativas de reformas de leyes en materia de derechos, productos y aprovechamientos que sean sometidas a su consideración, y
+
+XII. Proporcionar asesoría jurídica a las unidades administrativas de la Secretaría que sean competentes para fijar los precios y tarifas de las entidades de la Administración Pública Federal, cuando así le sea solicitada.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 54.
 
-(DEROGADO, D.O.F. 17 DE JUNIO DE 2003)
+Compete a la Coordinación General de Estudios y Tratados Internacionales:
+
+I. Proponer, para aprobación superior, la política tributaria en materia internacional y de negociación con otros países de convenciones y tratados en materia fiscal y aduanera;
+
+II. Proponer los anteproyectos de convenios y tratados de carácter internacional en materia fiscal o aduanera, llevando a cabo las negociaciones respectivas, con la participación que en su caso corresponda al Servicio de Administración Tributaria;
+
+III. Representar, en el ámbito de su competencia, a la Secretaría en foros, eventos y reuniones nacionales e internacionales, en donde se discutan aspectos de política de ingresos;
+
+IV. Participar con el Servicio de Administración Tributaria en los grupos de trabajo que se creen para lograr la adecuada interpretación y aplicación de la legislación fiscal y aduanera y proponer medidas para la pronta y expedita administración de justicia en materia tributaria, así como en los que analicen las resoluciones relativas a la metodología utilizada para la determinación de precios o montos de las contraprestaciones en operaciones con partes relacionadas;
+
+V. Mantener comunicación con las autoridades fiscales y aduaneras de otros países para obtener y proporcionar, de conformidad con la legislación aplicable, la información y documentación en relación con asuntos de política fiscal y aduanera, así como representar a la Secretaría en foros, eventos y reuniones nacionales e internacionales donde se discutan dichos asuntos, convocando en su caso, a las unidades administrativas competentes de la Secretaría o del Servicio de Administración Tributaria;
+
+VI. Asistir a los servidores públicos de la Secretaría en sus negociaciones con los funcionarios o autoridades de otros países, respecto de convenios o tratados en materia fiscal o aduanera, y servir de enlace entre las autoridades fiscales de los países que pretendan celebrar las negociaciones o los tratados a que se refiere esta fracción;
+
+VII. Participar en la elaboración de los proyectos sobre las medidas y acciones que deba llevar a cabo el Servicio de Administración Tributaria para dar cumplimiento a las obligaciones contraídas por el Gobierno Federal, mediante la celebración de convenios y tratados a que se refiere la fracción VI de este artículo;
+
+VIII. Participar conjuntamente con las unidades administrativas del Servicio de Administración Tributaria en los grupos de trabajo que se establezcan al amparo de los acuerdos suscritos por México en materia de aduanas y reglas de origen;
+
+IX. Participar en el estudio y formulación de los anteproyectos de iniciativas de ley y proyectos de reglamentos en materia fiscal de la Federación, así como de los proyectos de reglas generales y otras disposiciones que correspondan, en materia de residentes en el extranjero y operaciones que celebren los contribuyentes con partes relacionadas;
+
+X. Participar con las unidades administrativas del Servicio de Administración Tributaria, en la adecuada interpretación y aplicación de los tratados internacionales en materia fiscal, aduanera y de la legislación fiscal, en el ámbito de su competencia;
+
+XI. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por las dependencias y entidades de la Administración Pública Federal, sobre las medidas de política impositiva que deban instrumentarse;
+
+XII. Conocer de la problemática y opiniones vertidas por los diversos grupos o sectores sociales, para proponer las medidas que se deben tomar en relación con el tratamiento a sectores de contribuyentes y de diversos grupos sociales en relación con las contribuciones y cumplimiento de sus obligaciones fiscales, en el ámbito de su competencia, y
+
+XIII. Servir de enlace entre la Secretaría y las unidades administrativas de la Secretaría de Relaciones Exteriores, en el ámbito de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 55.
 
-(DEROGADO, D.O.F. 17 DE JUNIO DE 2003)
+Compete a la Dirección General Adjunta de Tratados Internacionales:
+
+I. Participar en el estudio y formulación de los anteproyectos de convenios y tratados de carácter internacional en materia fiscal o aduanera, así como en las negociaciones respectivas;
+
+II. Mantener comunicación con las autoridades fiscales y aduaneras de otros países para obtener y proporcionar, de conformidad con la legislación aplicable, la información y documentación en relación con asuntos de política fiscal y aduanera, así como representar a la Secretaría en foros, eventos y reuniones nacionales e internacionales donde se discutan dichos asuntos, convocando en su caso, a las unidades administrativas competentes de la Secretaría o del Servicio de Administración Tributaria;
+
+III. Asistir a los servidores públicos de la Secretaría en sus negociaciones con los funcionarios o autoridades de otros países, respecto de convenios o tratados en materia fiscal o aduanera, y servir de enlace entre las autoridades fiscales de los países que pretendan celebrar las negociaciones o los tratados a que se refiere esta fracción;
+
+IV. Participar en la elaboración de los proyectos sobre las medidas y acciones que deba llevar a cabo el Servicio de Administración Tributaria para dar cumplimiento a las obligaciones contraídas por el Gobierno Federal, mediante la celebración de convenios y tratados a que se refiere la fracción III de este artículo;
+
+V. Participar conjuntamente con las unidades administrativas del Servicio de Administración Tributaria en los grupos de trabajo que se establezcan al amparo de los acuerdos suscritos por México en materia de aduanas y reglas de origen;
+
+VI. Participar en el estudio y formulación de los anteproyectos de iniciativas de ley y proyectos de reglamentos en materia fiscal de la Federación, así como de los proyectos de reglas generales y otras disposiciones que correspondan, en materia de residentes en el extranjero y operaciones que celebren los contribuyentes con partes relacionadas;
+
+VII. Participar con las unidades administrativas del Servicio de Administración Tributaria, en la adecuada interpretación y aplicación de los tratados internacionales en materia fiscal, aduanera y de la legislación fiscal, en el ámbito de su competencia;
+
+VIII. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por las dependencias y entidades de la Administración Pública Federal, sobre las medidas de política impositiva que deban instrumentarse;
+
+IX. Conocer de la problemática y opiniones vertidas por los diversos grupos o sectores sociales, para proponer las medidas que se deben tomar en relación con el tratamiento a sectores de contribuyentes y de diversos grupos sociales en relación con las contribuciones y cumplimiento de sus obligaciones fiscales, en el ámbito de su competencia, y
+
+X. Servir de enlace entre la Secretaría y las unidades administrativas de la Secretaría de Relaciones Exteriores, en el ámbito de su competencia.
 
 ###### Artículo 56.
 
@@ -3353,63 +4209,51 @@ IX. Informar a la Procuraduría Fiscal de la Federación o a la autoridad compet
 
 (DEROGADO, D.O.F. 17 DE JUNIO DE 2003)
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 22 DE MARZO DE 2001)</small>
-
 ###### Artículo 58.
 
-Compete a la Dirección Técnica de Tratados Internacionales:
-
-I. Participar en el estudio y formulación de los anteproyectos de convenios y tratados de carácter internacional en materia fiscal o aduanera, así como en las negociaciones respectivas;
-
-II. Mantener comunicación con las autoridades fiscales y aduaneras de otros países para obtener y proporcionar la información y documentación en relación con asuntos de política fiscal y aduanera, así como representar a la Secretaría en foros, eventos y reuniones nacionales e internacionales donde se discutan dichos asuntos, convocando en su caso, a las unidades administrativas competentes de la Secretaría o del Servicio de Administración Tributaria;
-
-III. Asistir a los servidores públicos de la Secretaría en sus relaciones con los funcionarios o autoridades de otros países, respecto de convenios o tratados en materia fiscal o aduanera, y servir de enlace entre las autoridades fiscales de los países que pretendan celebrar las negociaciones o los tratados a que se refiere esta fracción;
-
-IV. Participar en la elaboración de los proyectos sobre las medidas y acciones que deba llevar a cabo el Servicio de Administración Tributaria para dar cumplimiento a las obligaciones contraídas por el Gobierno Federal, mediante la celebración de convenios y tratados a que se refiere la fracción III de este artículo;
-
-V. Participar conjuntamente con las unidades del Servicio de Administración Tributaria en los grupos de trabajo que se establezcan al amparo de los acuerdos suscritos por México en materia de aduanas y reglas de origen;
-
-VI. Participar en el estudio y formulación de los anteproyectos de iniciativas de ley y proyectos de reglamentos en materia fiscal de la Federación, así como de los proyectos de reglas generales y otras disposiciones que correspondan, en el ámbito de su competencia;
-
-VII. Participar con las unidades adscritas al Servicio de Administración Tributaria, en la adecuada interpretación y aplicación de los tratados internacionales en materia fiscal, aduanera y de la legislación fiscal, en el ámbito de su competencia;
-
-VIII. Conocer de la problemática y opiniones vertidas por las dependencias y entidades de la administración pública federal, sobre las medidas de política impositiva que deban instrumentarse;
-
-IX. Conocer de la problemática y opiniones vertidas por los diversos grupos o sectores sociales, para proponer las medidas que se deben tomar en relación con el tratamiento a sectores de contribuyentes y de diversos grupos sociales en relación con las contribuciones y cumplimiento de sus obligaciones fiscales, en el ámbito de su competencia, y
-
-X. Servir de enlace entre la Secretaría y las unidades administrativas de la Secretaría de Relaciones Exteriores, en el ámbito de su competencia.
-
-> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2001)</small>
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 ###### Artículo 59.
 
-Compete a la Dirección General Adjunta de Investigación de Operaciones, ejercer las atribuciones siguientes:
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
-I. Establecer los sistemas, métodos y procedimientos en las materias de su competencia, salvo aquellos que competa establecer a otra unidad administrativa de la Secretaría;
-
-II. Evaluar la operación en las materias de su competencia, y proponer, en su caso, las medidas que procedan;
-
-III. Notificar las resoluciones que dicte, los citatorios, requerimientos, solicitudes de informes y otros actos administrativos, así como sus actos relacionados con el ejercicio de las facultades;
-
-IV. Solicitar y coordinarse con las autoridades fiscales competentes para la práctica de los actos de fiscalización que sean necesarios con motivo del ejercicio de las facultades conferidas conforme a este artículo;
-
-V. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
-
-VI. Participar en la formulación de políticas y en los programas de investigación, así como estudiar e investigar las pruebas, constancias, documentación e informes sobre la comisión de las conductas ilícitas previstas en el Artículo 400-Bis del Código Penal Federal y demás disposiciones afines, integrando los expedientes respectivos, para hacerlo del conocimiento de la Procuraduría Fiscal de la Federación, para que ésta formule las querellas o denuncias que, en su caso, procedan;
-
-VII. Aplicar las disposiciones de carácter general que emitan las unidades administrativas competentes de la Secretaría para prevenir y detectar actos u omisiones, con recursos, derechos o bienes que procedan o representen el producto de un probable delito;
-
-VIII. Intervenir en la obtención, análisis y estudio de la información y documentación que se solicite por parte de las autoridades competentes de los países con los que se tengan celebrados convenios o tratados en las materias de su competencia;
-
-IX. Expedir certificaciones de los expedientes relativos a los asuntos de su competencia;
-
-X. Participar en la formulación y ejecutar los convenios o tratados en los asuntos de su competencia, y
-
-XI. Recibir, capturar y analizar, de conformidad con las disposiciones de carácter general que emitan las unidades administrativas competentes de la Secretaría, la información contenida en los reportes que están obligadas a presentar las instituciones de sistema financiero relacionados con sus clientes y usuarios, y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera.
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 60.
 
-(DEROGADO, D.O.F. 30 DE JUNIO DE 1997)
+Compete a la Dirección General Adjunta de Precios y Tarifas:
+
+I. Participar con las unidades administrativas competentes de la Secretaría, en la formulación de las asignaciones sectoriales de financiamiento de las entidades de la Administración Pública Federal en lo concerniente a precios y tarifas y, en su caso, la autorización del programa financiero de las entidades paraestatales incluidas en la Ley de Ingresos de la Federación, en las materias de su competencia;
+
+II. Participar con la Unidad de Crédito Público, en materia de precios y tarifas de los bienes y servicios de las entidades de la Administración Pública Federal, en la formulación, para aprobación superior, de los programas financieros sectoriales y regionales de corto y mediano plazo de las citadas entidades para integrarse al Programa Nacional de Financiamiento del Desarrollo;
+
+III. Participar con las unidades administrativas competentes de la Secretaría, en la formulación del Programa Nacional de Financiamiento del Desarrollo y del Programa Operativo Anual de Financiamiento de la Administración Pública Federal, en las materias a que se refieren las fracciones anteriores;
+
+IV. Estudiar y formular las bases para fijar y registrar, los precios y tarifas de los bienes y servicios de las entidades de la Administración Pública Federal, en coordinación con las unidades administrativas de la Secretaría y con la participación de las dependencias que corresponda; así como proponer los bienes y servicios cuyos precios y tarifas continúen siendo fijados por la Secretaría;
+
+V. Formular los anteproyectos de acuerdos mediante los cuales se fijen los precios y tarifas de la Administración Pública Federal Paraestatal, con la participación que corresponda a otras dependencias, previa elaboración de estudios de costos económicos y de la estructura de los mercados en los que se prestan los bienes y servicios por los organismos públicos directamente o por concesiones;
+
+VI. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por las dependencias y entidades de la Administración Pública Federal, sobre las medidas de política impositiva que deben instrumentarse;
+
+VII. Conocer, en el ámbito de su competencia, de la problemática y opiniones vertidas por los diversos grupos o sectores sociales, para proponer las medidas que se deben tomar en relación con el tratamiento a sectores de contribuyentes y de diversos grupos sociales con respecto a las contribuciones y el cumplimiento de sus obligaciones fiscales;
+
+VIII. Proponer para aprobación superior, la política de ingresos referente a precios y tarifas de los bienes y servicios de la Administración Pública Federal, en congruencia con la política de la hacienda pública y la política económica y social del país, en coordinación con otras unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, así como de otras dependencias y entidades de la Administración Pública Federal;
+
+IX. Estudiar y evaluar el comportamiento de los ingresos de la Administración Pública Federal Paraestatal, en relación con los programas a que se refiere la fracción III de este artículo;
+
+X. Fijar los precios y tarifas de los bienes y servicios de las entidades de la Administración Pública Federal, distintos de los referidos en la fracción V de este artículo, con la participación que corresponda a otras dependencias, previa elaboración de estudios de costos económicos y de la estructura de los mercados en los que se prestan los bienes y servicios directamente por los organismos públicos o por concesiones;
+
+XI. Analizar las solicitudes de las entidades de la Administración Pública Federal relativas a ingresos excedentes, para efectos de determinar la procedencia de emitir dictamen o acuse de recibo;
+
+XII. Emitir dictámenes para aprobación superior, respecto a los ingresos excedentes obtenidos por las entidades de control presupuestal directo;
+
+XIII. Resolver las consultas que formulen los particulares en asuntos materia de su competencia y que no incidan en el ámbito de atribuciones de otra unidad administrativa de la Secretaría;
+
+XIV. Proporcionar la información que le sea requerida en el ámbito de su competencia, conforme a las disposiciones establecidas en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y, en su caso, remitirla al representante de la Subsecretaría de Ingresos ante el Comité de Información Pública de la Secretaría;
+
+XV. Resolver los asuntos que las disposiciones legales aplicables atribuyan a la Secretaría en materia de precios y tarifas de los bienes y servicios de la Administración Pública Federal, siempre y cuando no formen parte de las facultades indelegables del Secretario, y
+
+XVI. Acordar con el Subsecretario de Ingresos los asuntos de su competencia.
 
 > <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -3419,7 +4263,9 @@ Compete a la Unidad de Inversiones:
 
 I. Integrar y administrar la cartera de programas y proyectos de inversión con base en la documentación, determinación de prioridades y programación, que presenten las dependencias y entidades de la administración pública federal respecto de aquellos compromisos, directos o condicionados, que impliquen o puedan implicar gasto de inversión, a nivel sectorial, institucional o regional, independientemente de la fuente de su financiamiento, así como verificar, en coordinación con las instancias competentes, su congruencia con los objetivos, prioridades y estrategias del Plan Nacional de Desarrollo;
 
-II. Expedir lineamientos relativos a esquemas y gasto de inversión, así como proponer y emitir criterios para la inclusión de programas y proyectos de inversión en el proyecto de Presupuesto de Egresos de la Federación;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+II. Expedir lineamientos relativos a esquemas y gastos de inversión, así como proponer y emitir criterios para la inclusión de programas y proyectos de inversión en el proyecto de Presupuesto de Egresos de la Federación y, en su caso, evaluar dichos programas o proyectos;
 
 III. Prestar la asesoría que soliciten las dependencias y entidades de la administración pública federal respecto de los lineamientos y criterios a que se refiere la fracción II de este artículo;
 
@@ -3427,7 +4273,9 @@ IV. Analizar, proponer y promover en coordinación con las instancias competente
 
 V. Intervenir, en coordinación con las instancias competentes, en el desarrollo de los programas y proyectos de inversión que impulsen las dependencias y entidades de la Administración Pública Federal, a fin de promover su ejecución, observando el cumplimiento de las disposiciones aplicables en materia de inversión;
 
-VI. Efectuar, en coordinación con las unidades administrativas competentes, el seguimiento de los programas y proyectos de inversión autorizados por la Cámara de Diputados, e identificados de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VI. Efectuar, en coordinación con las unidades administrativas competentes, el seguimiento sobre la rentabilidad social y económica de los programas y proyectos de inversión autorizados por la Cámara de Diputados, e identificados de conformidad con las disposiciones aplicables;
 
 VII. Administrar, en coordinación con las unidades administrativas competentes, los sistemas de información que requiera para el cumplimiento de sus atribuciones;
 
@@ -3443,7 +4291,9 @@ XII. Analizar la experiencia internacional en el diseño y aplicación de normas
 
 XIII. Proponer, en coordinación con las instancias competentes, políticas para optimizar el uso de los activos de la administración pública federal;
 
-XIV. Colaborar con la Unidad de Comunicación Social de la Secretaría y sujetándose a lo dispuesto en la fracción VIII de este artículo, en las acciones de comunicación social que en materia de programas y proyectos de inversión se requieran para atender la estrategia que en ese sentido determine el Secretario;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIV. Colaborar con la Unidad de Comunicación Social y Vocero de la Secretaría y sujetándose a lo dispuesto en la fracción VIII de este artículo, en las acciones de comunicación social que en materia de programas y proyectos de inversión se requieran para atender la estrategia que en ese sentido determine el Secretario;
 
 XV. Analizar y atender, sujetándose a lo dispuesto en la fracción VIII de este artículo, los requerimientos de información y de documentación, así como las consultas en materia de programas y proyectos de inversión. Asimismo, por conducto de las Direcciones Generales de Programación y Presupuesto sectoriales, atender aquellos requerimientos y consultas en dicha materia que incidan en el ámbito presupuestario;
 
@@ -3477,7 +4327,9 @@ VIII. Integrar el presupuesto del ramo general correspondiente a los adeudos de 
 
 IX. Fungir como ventanilla única de la Subsecretaría de Egresos ante las Unidades de Planeación Económica de la Hacienda Pública y de Crédito Público, para la atención de todos los asuntos relacionados con la formulación, integración y ejecución de los presupuestos de los ramos generales correspondientes a deuda pública, erogaciones para las operaciones y programas de saneamiento financiero, y erogaciones para los programas de apoyo a ahorradores y deudores de la banca;
 
-X. Emitir dictamen o, en su caso, opinión, en los términos de las disposiciones aplicables, sobre las solicitudes que presenten las dependencias y entidades de la administración pública federal a las Direcciones Generales de Programación y Presupuesto sectoriales, para efectuar adecuaciones a sus respectivos presupuestos, así como registrar las mismas en los sistemas de control presupuestario y de pagos;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+X. Emitir dictamen o, en su caso, opinión, en los términos de las disposiciones aplicables, sobre las solicitudes que presenten las dependencias y entidades de la Administración Pública Federal a las Direcciones Generales de Programación y Presupuesto sectoriales, para efectuar adecuaciones a sus respectivos presupuestos, así como registrar las mismas en los sistemas de control presupuestario y de pagos, en coordinación con la Dirección General Adjunta Técnica de Presupuesto, en el ámbito de su competencia;
 
 XI. Registrar, coordinar e instrumentar, con la participación que corresponda a las unidades administrativas de la Subsecretaría de Egresos y en los términos de las disposiciones aplicables, los ajustes correspondientes al gasto público durante su ejercicio, con base en el análisis y seguimiento del mismo y como instrumento de control en el cumplimiento de las políticas de gasto público;
 
@@ -3499,7 +4351,9 @@ XIX. Participar conjuntamente con las unidades administrativas de la Secretaría
 
 XX. Elaborar estudios presupuestarios, incluyendo análisis comparativos de los esquemas presupuestarios de otros países, a efecto de proponer medidas que promuevan la orientación a resultados del presupuesto. Asimismo, participar en foros y organismos nacionales e internacionales, e impartir cursos o talleres, en temas relacionados con el ámbito de su competencia;
 
-XXI. Administrar los sistemas de información para el registro y control presupuestario, así como establecer las normas que regulen los procesos y la estructura de la información que comprenden dichos sistemas;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXI. Administrar los sistemas de información para el registro y control presupuestario, así como establecer las normas que regulen los procesos y la estructura de la información que comprenden dichos sistemas, en coordinación con la Dirección General Adjunta Técnica de Presupuesto, en el ámbito de competencia de esta última;
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -3509,17 +4363,17 @@ XXII. Definir, conjuntamente con los coordinadores sectoriales, el sistema de in
 
 XXIII. Integrar el presupuesto del ramo general correspondiente al Programa de Apoyos para el Fortalecimiento de las Entidades Federativas, así como registrar y llevar el seguimiento del ejercicio del presupuesto autorizado, de acuerdo con las disposiciones aplicables;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXIV. Ejercer el control presupuestario de los servicios personales, así como expedir las normas, fijar las políticas y los lineamientos en materia de control del gasto en ese rubro;
+XXIV. Ejercer el control presupuestario global de los servicios personales, así como expedir las normas, fijar las políticas y los lineamientos en materia de control del gasto en ese rubro;
 
 > <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 XXV. Expedir normas y fijar las políticas y los lineamientos a que deberá sujetarse la formulación del presupuesto en materia de servicios personales de las dependencias y entidades de la Administración Pública Federal, para su posterior integración al proyecto de Presupuesto de Egresos de la Federación;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXVI. Emitir dictamen en el ámbito presupuestario, conjuntamente con las Direcciones Generales de Programación y Presupuesto sectoriales, sobre la procedencia de la expedición de las normas en materia de servicios personales por parte de la Secretaría de la Función Pública, en materia de tabuladores de sueldos, pago de remuneraciones, prestaciones, separación voluntaria y, en general, en materia de servicios personales;
+XXVI. Emitir dictamen en el ámbito presupuestario, conjuntamente con las Direcciones Generales de Programación y Presupuesto sectoriales, previo diagnóstico de la Dirección General Adjunta Técnica de Presupuesto, en el ámbito de su competencia, sobre la procedencia de la expedición de las normas en materia de servicios personales por parte de la Secretaría de la Función Pública, en materia de tabuladores de sueldos, pago de remuneraciones, prestaciones, separación voluntaria y, en general, en materia de servicios personales;
 
 > <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -3579,47 +4433,45 @@ XIX. Compilar, editar y difundir publicaciones en materia de contabilidad gubern
 
 XX. Resolver los asuntos que las disposiciones legales aplicables a las materias de contabilidad gubernamental, cuenta pública federal y evaluación de la gestión pública atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario y no estén expresamente asignadas a otras unidades administrativas de la misma.
 
-> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 65.
 
-Compete a la Dirección General de Programación y Presupuesto "A", en el ámbito del gasto correspondiente a la Educación Pública, Salud, Seguridad Nacional, Gobierno, Organismos, Ciencia, Tecnología, Cultura, Deporte, Seguridad Social, Ramos Generales y Ramos Autónomos; y a la Dirección General de Programación y Presupuesto "B", en el ámbito del gasto correspondiente a Desarrollo Agropecuario, Recursos Naturales, Comunicaciones, Hacienda, Turismo, Energía, Desarrollo Social, Trabajo y Economía, lo siguiente:
+Compete a la Dirección General de Programación y Presupuesto "A", en el ámbito del gasto correspondiente a la Educación Pública, Salud, Seguridad Nacional, Gobierno, Organismos, Ciencia, Tecnología, Cultura, Deporte, Seguridad Social, Ramos Generales y Ramos Autónomos, lo siguiente:
 
-I. Ser el conducto único para la atención de todas las solicitudes y consultas que presenten las dependencias y entidades de la administración pública federal, en materia de programación, presupuesto, ejercicio, control y seguimiento del gasto público federal, emitiendo las autorizaciones u opiniones correspondientes en coordinación con las demás unidades administrativas de la Subsecretaría de Egresos, en el ámbito de sus respectivas competencias;
+I. Ser el conducto único para la atención de todas las solicitudes y consultas que presenten las dependencias y entidades de la Administración Pública Federal, en materia de programación, presupuesto, ejercicio, control y seguimiento del gasto público federal, emitiendo las autorizaciones u opiniones correspondientes en coordinación con las demás unidades administrativas de la Subsecretaría de Egresos, en el ámbito de sus respectivas competencias;
 
-II. Proponer alternativas de gasto corriente y de inversión a nivel de sector, dependencia y entidad, para apoyar la definición de los montos globales de gasto público y la determinación de los niveles de gasto y su distribución, a que deberán sujetarse las dependencias y entidades de la administración pública federal, en la formulación de sus programas y presupuestos;
+II. Proponer alternativas de gasto corriente y de inversión a nivel de sector, dependencia y entidad, para apoyar la definición de los montos globales de gasto público y la determinación de los niveles de gasto y su distribución, a que deberán sujetarse las dependencias y entidades de la Administración Pública Federal, en la formulación de sus programas y presupuestos;
 
-III. Promover el establecimiento de compromisos específicos en términos de programas, proyectos, acciones, objetivos, metas e indicadores de desempeño, por parte de las dependencias y entidades de la administración pública federal, en relación con los programas de mediano plazo y anuales, y verificar su inclusión en los programas y presupuestos respectivos;
+III. Promover el establecimiento de compromisos específicos en términos de programas, proyectos, acciones, objetivos, metas e indicadores de desempeño, por parte de las dependencias y entidades de la Administración Pública Federal, en relación con los programas de mediano plazo y anuales, y verificar su inclusión en los programas y presupuestos respectivos;
 
-IV. Analizar y emitir opinión sobre la formulación y actualización de los programas sectoriales, institucionales, regionales, especiales y anuales de las dependencias y entidades de la administración pública federal, verificando su congruencia con los objetivos, prioridades y estrategias del Plan Nacional de Desarrollo, así como las previsiones de recursos;
+IV. Analizar y emitir opinión sobre la formulación y actualización de los programas sectoriales, institucionales, regionales, especiales y anuales de las dependencias y entidades de la Administración Pública Federal, verificando su congruencia con los objetivos, prioridades y estrategias del Plan Nacional de Desarrollo, así como las previsiones de recursos;
 
 V. Acordar con las dependencias coordinadoras de sector y, en su caso, con las entidades no coordinadas sectorialmente, con la participación que corresponda a las unidades administrativas de la Subsecretaría de Egresos, la apertura programática, los programas, actividades institucionales y proyectos estratégicos y prioritarios de las mismas, así como los indicadores de desempeño y las unidades de medida correspondientes;
 
 VI. Comunicar a las dependencias coordinadoras de sector y a las entidades no coordinadas sectorialmente, la normatividad, metodología, parámetros macroeconómicos y niveles de gasto, para la formulación de sus respectivos anteproyectos de presupuesto;
 
-VII. Formular los anteproyectos de programas y presupuestos de las dependencias y entidades de la administración pública federal, que no hayan sido presentados en las fechas previstas, por las coordinadoras de sector o directamente por las entidades no coordinadas, informando de tales hechos a la Secretaría de Contraloría y Desarrollo Administrativo;
+VII. Formular los anteproyectos de programas y presupuestos de las dependencias y entidades de la Administración Pública Federal, que no hayan sido presentados en las fechas previstas, por las coordinadoras de sector o directamente por las entidades no coordinadas, informando de tales hechos a la Secretaría de la Función Pública;
 
 VIII. Analizar los anteproyectos de programas y presupuestos de los sectores de su competencia, verificando su congruencia con los objetivos, prioridades y estrategia del Plan Nacional de Desarrollo y los programas que deriven del mismo, así como el cumplimiento y observancia de las normas, metodología y niveles de gasto autorizados, para su posterior integración al proyecto de Presupuesto de Egresos de la Federación. Asimismo, integrar los apartados correspondientes de la exposición de motivos del proyecto de Presupuesto de Egresos de la Federación;
 
 IX. Revisar y autorizar los calendarios del ejercicio de los programas y presupuestos aprobados, conforme a los lineamientos generales establecidos por la Unidad de Política y Control Presupuestario, verificando su capacidad de ejecución y su compatibilidad con las prioridades de la planeación, la programación anual del gasto y las disponibilidades de recursos;
 
-X. Emitir autorizaciones especiales de inversión a las dependencias y entidades, en los términos de las disposiciones aplicables, para convocar a licitaciones sin contar con la autorización del presupuesto correspondiente, sujetas a la aprobación del Presupuesto de Egresos de la Federación por la Cámara de Diputados, con objeto de garantizar la continuidad de las obras prioritarias. En su caso, emitir autorizaciones de inversión, una vez aprobado el Presupuesto de Egresos de la Federación, así como las modificaciones a las mismas, en los términos de las disposiciones aplicables;
+X. Emitir autorizaciones especiales de inversión a las dependencias y entidades de la Administración Pública Federal, en los términos de las disposiciones aplicables, para convocar a licitaciones sin contar con la autorización del presupuesto correspondiente, sujetas a la aprobación del Presupuesto de Egresos de la Federación por la Cámara de Diputados, con objeto de garantizar la continuidad de las obras prioritarias. En su caso, emitir autorizaciones de inversión, una vez aprobado el Presupuesto de Egresos de la Federación, así como las modificaciones a las mismas, en los términos de las disposiciones aplicables;
 
 XI. Analizar y en su caso autorizar, las solicitudes para comprometer recursos de ejercicios fiscales futuros, en los términos de las disposiciones aplicables;
 
-XII. Autorizar en los términos de las disposiciones aplicables, las solicitudes que presenten las dependencias y entidades de la administración pública federal, para efectuar adecuaciones a sus respectivos presupuestos, en su caso, previo dictamen u opinión de las unidades administrativas competentes; así como, emitir cuentas por liquidar certificadas especiales en los términos de las disposiciones aplicables;
+XII. Autorizar en los términos de las disposiciones aplicables, las solicitudes que presenten las dependencias y entidades de la Administración Pública Federal, para efectuar adecuaciones a sus respectivos presupuestos, en su caso, previo dictamen, diagnóstico u opinión de las unidades administrativas competentes, así como emitir cuentas por liquidar certificadas especiales en los términos de las disposiciones aplicables;
 
-XIII. Revisar y autorizar las reglas de operación de los programas que involucren el otorgamiento de subsidios por parte de las dependencias y entidades de la administración pública federal, en los términos de las disposiciones aplicables;
+XIII. Revisar y autorizar las reglas de operación de los programas que involucren el otorgamiento de subsidios por parte de las dependencias y entidades de la Administración Pública Federal, en los términos de las disposiciones aplicables;
 
-XIV. Proponer la suscripción de convenios de seguimiento financiero con las entidades y analizar su cumplimiento, en los términos de las disposiciones aplicables;
+XIV. Proponer la suscripción de convenios de seguimiento financiero con las entidades de la Administración Pública Federal y analizar su cumplimiento, en los términos de las disposiciones aplicables;
 
 XV. Coordinar los grupos de trabajo que analizan las propuestas de convenios y bases de desempeño, para ser presentadas a la Comisión Intersecretarial de Gasto Financiamiento, así como realizar el seguimiento correspondiente, en los términos de las disposiciones aplicables;
 
-XVI. Gestionar el dictamen de proyectos de infraestructura productiva de largo plazo susceptibles de ser incorporados al proyecto de Presupuesto de Egresos de la Federación, así como llevar el seguimiento del avance en la ejecución, cierre de obra y operación de los proyectos, debiendo verificar que se apeguen a los términos y condiciones autorizados;
+XVI. Gestionar el dictamen de proyectos de infraestructura productiva de largo plazo susceptibles de ser incorporados al proyecto de Presupuesto de Egresos de la Federación, así como llevar el seguimiento presupuestario del avance en la ejecución, cierre de obra y operación de los proyectos, debiendo verificar que se apeguen a los términos y condiciones autorizados;
 
-XVII. Emitir opinión sobre las solicitudes de acuerdos de ministración presentadas por las dependencias y entidades de la administración pública federal, analizando el monto máximo procedente y, en su caso, someter las mismas a la autorización del Subsecretario de Egresos;
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XVII. Emitir opinión sobre la procedencia de las solicitudes de acuerdos de ministración presentadas por las dependencias y entidades de la Administración Pública Federal, estableciendo el monto máximo procedente y, en su caso, someterlas a la autorización del Subsecretario de Egresos;
 
 XVIII. Analizar con la participación que corresponda a la Unidad de Política y Control Presupuestario y, en su caso, a la Unidad de Inversiones y a la Unidad de Crédito Público, las propuestas de gasto con fuentes de financiamiento externo que realicen las dependencias y entidades de la Administración Pública Federal;
 
@@ -3627,39 +4479,115 @@ XIX. De conformidad con las políticas generales establecidas por la Unidad de P
 
 XX. Proponer, en los términos de las disposiciones aplicables, los ajustes correspondientes al gasto público durante su ejercicio, con base en el análisis del mismo y como instrumento de control en el cumplimiento de las políticas de gasto público;
 
-XXI. Participar como representantes de la Secretaría en las sesiones de los órganos de gobierno y comités de las entidades y, en su caso, de los órganos administrativos desconcentrados, previa designación de las autoridades competentes en los términos de las disposiciones aplicables;
+XXI. Participar como representante de la Secretaría en las sesiones de los órganos de gobierno y comités de las entidades de la Administración Pública Federal y, en su caso, de los órganos administrativos desconcentrados, previa designación de las autoridades competentes en los términos de las disposiciones aplicables;
 
-XXII. Llevar a cabo los registros que requiera el seguimiento del ejercicio de los programas y presupuestos, así como analizar y opinar sobre el cumplimiento de las metas físicas y financieras reportadas por las dependencias y entidades de la administración pública federal;
+XXII. Llevar a cabo los registros que requiera el seguimiento del ejercicio de los programas y presupuestos, así como analizar y opinar sobre el cumplimiento de las metas físicas y financieras reportadas por las dependencias y entidades de la Administración Pública Federal;
 
-XXIII. Analizar los resultados del ejercicio de los programas y presupuestos de las dependencias y entidades de la administración pública federal, en función de los objetivos, metas e indicadores de la política de gasto público y los programas de mediano plazo y anuales;
+XXIII. Analizar los resultados del ejercicio de los programas y presupuestos de las dependencias y entidades de la Administración Pública Federal, en función de los objetivos, metas e indicadores de la política de gasto público y los programas de mediano plazo y anuales;
 
 XXIV. Generar y validar la información que se requiera para la integración del informe de gobierno, de la Cuenta Anual de la Hacienda Pública Federal, del informe de evaluación del Plan Nacional de Desarrollo, de los informes trimestrales que se envían a la Cámara de Diputados, así como de otros informes que realice la Secretaría;
 
 XXV. Proponer y, en su caso, opinar sobre las modificaciones al marco normativo competencia de la Subsecretaría de Egresos;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XXVI. Emitir autorización en el ámbito presupuestario, conjuntamente con la Unidad de Política y Control Presupuestario y la Dirección General de Programación y Presupuesto "B", en el ámbito de sus respectivas competencias, con base en el diagnóstico que al efecto emita la Dirección General Adjunta Técnica de Presupuesto, sobre la procedencia de la expedición de las normas en materia de servicios personales por parte de la Secretaría de la Función Pública, en materia de tabuladores de sueldos, pago de remuneraciones, prestaciones, separación voluntaria y, en general, en materia de servicios personales, incluyendo las adecuaciones a la estructura ocupacional;
 
-XXVI. Emitir dictamen en el ámbito presupuestario, conjuntamente con la Unidad de Política y Control Presupuestario, sobre la procedencia de la expedición de las normas en materia de servicios personales por parte de la Secretaría de la Función Pública, en materia de tabuladores de sueldos, pago de remuneraciones, prestaciones, separación voluntaria y, en general, en materia de servicios personales;
+XXVII. Emitir opinión en materia de políticas generales para el establecimiento y revisión de las condiciones generales de trabajo de las dependencias y entidades de la Administración Pública Federal, respecto a las medidas que impliquen erogaciones con cargo al Presupuesto de Egresos de la Federación, así como emitir las autorizaciones presupuestarias correspondientes, en su caso, en coordinación con la Dirección General Adjunta Técnica de Presupuesto, en el ámbito de competencia de esta última;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XXVIII. Emitir autorización en el ámbito presupuestario con base en el diagnóstico que al efecto emita la Dirección General Adjunta Técnica de Presupuesto, sobre la procedencia de las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública Federal, previamente a la autorización y registro por parte de la Secretaría de la Función Pública;
 
-XXVII. Emitir opinión respecto a las políticas generales para el establecimiento y revisión de las condiciones generales de trabajo de las dependencias y entidades de la Administración Pública Federal, respecto a las medidas que impliquen erogaciones con cargo al Presupuesto de Egresos de la Federación, así como emitir las autorizaciones presupuestarias correspondientes;
-
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-XXVIII. Emitir dictámenes en el ámbito presupuestario, sobre la procedencia de las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública Federal, previamente a la autorización y registro por parte de la Secretaría de la Función Pública;
-
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-XXIX. Emitir resoluciones, en los términos de las disposiciones legales aplicables, sobre beneficios con cargo al erario federal, respecto de pensiones, haberes de retiro, jubilaciones y compensaciones;
+XXIX. Emitir resoluciones, en el ámbito presupuestario, en los términos de las disposiciones legales aplicables, sobre beneficios con cargo al erario federal, respecto de pensiones, haberes de retiro, jubilaciones y compensaciones;
 
 XXX. Participar en foros y organismos nacionales e internacionales, en temas relacionados con el ámbito de su competencia, y
 
-XXXI. Resolver los asuntos que las disposiciones legales aplicables a las materias de programación, presupuesto y ejercicio del gasto público federal atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario y no sean de la competencia de otra unidad dministrativa de la misma.
+XXXI. Resolver los asuntos que las disposiciones legales aplicables a las materias de programación, presupuesto y ejercicio del gasto público federal atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario y no sean de la competencia de otra unidad administrativa de la misma.
 
-> <small>(ADICIONADO, D.O.F. 31 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 65-A.
+
+Compete a la Dirección General de Programación y Presupuesto "B":
+
+A. En el ámbito del gasto correspondiente a Desarrollo Agropecuario, Recursos Naturales, Comunicaciones, Hacienda, Turismo, Energía, Desarrollo Social, Trabajo y Economía, lo siguiente:
+
+I. Ser el conducto único para la atención de todas las solicitudes y consultas que presenten las dependencias y entidades de la Administración Pública Federal, en materia de programación, presupuesto, ejercicio, control y seguimiento del gasto público federal, emitiendo las autorizaciones u opiniones correspondientes en coordinación con las demás unidades administrativas de la Subsecretaría de Egresos, en el ámbito de sus respectivas competencias;
+
+II. Proponer alternativas de gasto corriente y de inversión a nivel de sector, dependencia y entidad, para apoyar la definición de los montos globales de gasto público y la determinación de los niveles de gasto y su distribución, a que deberán sujetarse las dependencias y entidades de la Administración Pública Federal, en la formulación de sus programas y presupuestos;
+
+III. Promover el establecimiento de compromisos específicos en términos de programas, proyectos, acciones, objetivos, metas e indicadores de desempeño, por parte de las dependencias y entidades de la Administración Pública Federal, en relación con los programas de mediano plazo y anuales, y verificar su inclusión en los programas y presupuestos respectivos;
+
+IV. Analizar y emitir opinión sobre la formulación y actualización de los programas sectoriales, institucionales, regionales, especiales y anuales de las dependencias y entidades de la Administración Pública Federal, verificando su congruencia con los objetivos, prioridades y estrategias del Plan Nacional de Desarrollo, así como las previsiones de recursos;
+
+V. Acordar con las dependencias coordinadoras de sector y, en su caso, con las entidades no coordinadas sectorialmente, con la participación que corresponda a las unidades administrativas de la Subsecretaría de Egresos, la apertura programática, los programas, actividades institucionales y proyectos estratégicos y prioritarios de las mismas, así como los indicadores de desempeño y las unidades de medida correspondientes;
+
+VI. Comunicar a las dependencias coordinadoras de sector y a las entidades no coordinadas sectorialmente, la normatividad, metodología, parámetros macroeconómicos y niveles de gasto, para la formulación de sus respectivos anteproyectos de presupuesto;
+
+VII. Formular los anteproyectos de programas y presupuestos de las dependencias y entidades de la Administración Pública Federal, que no hayan sido presentados en las fechas previstas, por las coordinadoras de sector o directamente por las entidades no coordinadas, informando de tales hechos a la Secretaría de la Función Pública;
+
+VIII. Analizar los anteproyectos de programas y presupuestos de los sectores de su competencia, verificando su congruencia con los objetivos, prioridades y estrategia del Plan Nacional de Desarrollo y los programas que deriven del mismo, así como el cumplimiento y observancia de las normas, metodología y niveles de gasto autorizados, para su posterior integración al proyecto de Presupuesto de Egresos de la Federación. Asimismo, integrar los apartados correspondientes de la exposición de motivos del proyecto de Presupuesto de Egresos de la Federación;
+
+IX. Revisar y autorizar los calendarios del ejercicio de los programas y presupuestos aprobados, conforme a los lineamientos generales establecidos por la Unidad de Política y Control Presupuestario, verificando su capacidad de ejecución y su compatibilidad con las prioridades de la planeación, la programación anual del gasto y las disponibilidades de recursos;
+
+X. Emitir autorizaciones especiales de inversión a las dependencias y entidades de la Administración Pública Federal, en los términos de las disposiciones aplicables, para convocar a licitaciones sin contar con la autorización del presupuesto correspondiente, sujetas a la aprobación del Presupuesto de Egresos de la Federación por la Cámara de Diputados, con el objeto de garantizar la continuidad de las obras prioritarias. En su caso, emitir autorizaciones de inversión, una vez aprobado el Presupuesto de Egresos de la Federación, así como las modificaciones a las mismas, en los términos de las disposiciones aplicables;
+
+XI. Analizar y en su caso autorizar, las solicitudes para comprometer recursos de ejercicios fiscales futuros, en los términos de las disposiciones aplicables;
+
+XII. Autorizar en los términos de las disposiciones aplicables, las solicitudes que presenten las dependencias y entidades de la Administración Pública Federal, para efectuar adecuaciones a sus respectivos presupuestos, en su caso, previo dictamen, diagnóstico u opinión de las unidades administrativas competentes, así como emitir cuentas por liquidar certificadas especiales en los términos de las disposiciones aplicables;
+
+XIII. Revisar y autorizar las reglas de operación de los programas que involucren el otorgamiento de subsidios por parte de las dependencias y entidades de la Administración Pública Federal, en los términos de las disposiciones aplicables;
+
+XIV. Proponer la suscripción de convenios de seguimiento financiero con las entidades de la Administración Pública Federal y analizar su cumplimiento, en los términos de las disposiciones aplicables;
+
+XV. Coordinar los grupos de trabajo que analizan las propuestas de convenios y bases de desempeño, para ser presentadas a la Comisión Intersecretarial de Gasto Financiamiento, así como realizar el seguimiento correspondiente, en los términos de las disposiciones aplicables;
+
+XVI. Gestionar el dictamen de proyectos de infraestructura productiva de largo plazo susceptibles de ser incorporados al proyecto de Presupuesto de Egresos de la Federación, así como llevar el seguimiento presupuestario del avance en la ejecución, cierre de obra y operación de los proyectos, debiendo verificar que se apeguen a los términos y condiciones autorizados;
+
+XVII. Emitir opinión sobre la procedencia de las solicitudes de acuerdos de ministración presentadas por las dependencias y entidades de la Administración Pública Federal, estableciendo el monto máximo procedente y, en su caso, someterlas a la autorización del Subsecretario de Egresos;
+
+XVIII. Analizar con la participación que corresponda a la Unidad de Política y Control Presupuestario y, en su caso, a la Unidad de Inversiones y a la Unidad de Crédito Público, las propuestas de gasto con fuentes de financiamiento externo que realicen las dependencias y entidades de la Administración Pública Federal;
+
+XIX. De conformidad con las políticas generales establecidas por la Unidad de Política y Control Presupuestario, dar seguimiento al ejercicio de los recursos públicos federales aportados a fideicomisos, mandatos o contratos análogos; integrar la información física, financiera y presupuestaria del sector correspondiente, para la consolidación de los informes trimestrales a la Cámara de Diputados; así como analizar anualmente, en coordinación con las instancias competentes, la conveniencia de que continúen vigentes dichos contratos;
+
+XX. Proponer, en los términos de las disposiciones aplicables, los ajustes correspondientes al gasto público durante su ejercicio, con base en el análisis del mismo y como instrumento de control en el cumplimiento de las políticas de gasto público;
+
+XXI. Participar como representante de la Secretaría en las sesiones de los órganos de gobierno y comités de las entidades de la Administración Pública Federal y, en su caso, de los órganos administrativos desconcentrados, previa designación de las autoridades competentes en los términos de las disposiciones aplicables;
+
+XXII. Llevar a cabo los registros que requiera el seguimiento del ejercicio de los programas y presupuestos, así como analizar y opinar sobre el cumplimiento de las metas físicas y financieras reportadas por las dependencias y entidades de la Administración Pública Federal;
+
+XXIII. Analizar los resultados del ejercicio de los programas y presupuestos de las dependencias y entidades de la Administración Pública Federal, en función de los objetivos, metas e indicadores de la política de gasto público y los programas de mediano plazo y anuales;
+
+XXIV. Generar y validar la información que se requiera para la integración del informe de gobierno, de la Cuenta Anual de la Hacienda Pública Federal, del informe de evaluación del Plan Nacional de Desarrollo, de los informes trimestrales que se envían a la Cámara de Diputados, así como de otros informes que realice la Secretaría;
+
+XXV. Proponer y, en su caso, opinar sobre las modificaciones al marco normativo competencia de la Subsecretaría de Egresos;
+
+XXVI. Emitir autorización en el ámbito presupuestario, conjuntamente con la Unidad de Política y Control Presupuestario y la Dirección General de Programación y Presupuesto "A", en el ámbito de sus respectivas competencias, con base en el diagnóstico que al efecto emita la Dirección General Adjunta Técnica de Presupuesto, sobre la procedencia de la expedición de las normas en materia de servicios personales por parte de la Secretaría de la Función Pública, en materia de tabuladores de sueldos, pago de remuneraciones, prestaciones, separación voluntaria y, en general, en materia de servicios personales, incluyendo las adecuaciones a la estructura ocupacional;
+
+XXVII. Emitir opinión en materia de políticas generales para el establecimiento y revisión de las condiciones generales de trabajo de las dependencias y entidades de la Administración Pública Federal, respecto a las medidas que impliquen erogaciones con cargo al Presupuesto de Egresos de la Federación, así como emitir las autorizaciones presupuestarias correspondientes, en su caso, en coordinación con la Dirección General Adjunta Técnica de Presupuesto, en el ámbito de competencia de esta última;
+
+XXVIII. Emitir autorización en el ámbito presupuestario, con base en el diagnóstico que al efecto emita la Dirección General Adjunta Técnica de Presupuesto, sobre la procedencia de las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública Federal, previamente a la autorización y registro por parte de la Secretaría de la Función Pública;
+
+XXIX. Participar en foros y organismos nacionales e internacionales, en temas relacionados con el ámbito de su competencia, y
+
+XXX. Resolver los asuntos que las disposiciones legales aplicables a las materias de programación, presupuesto y ejercicio del gasto público federal atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario y no sean de la competencia de otra unidad administrativa de la misma.
+
+B. En el ámbito del gasto correspondiente a los órganos desconcentrados de la Secretaría y de las entidades del sector coordinado por ésta, lo siguiente:
+
+I. Coordinar las actividades de programación, presupuestación, ejercicio, control, seguimiento y evaluación del gasto público de los órganos administrativos desconcentrados de la Secretaría y de las entidades del sector coordinado por ella, con base en las disposiciones que emita la Subsecretaría de Egresos y en las demás normas presupuestarias aplicables;
+
+II. Fungir como ventanilla única de la Subsecretaría de Egresos ante los órganos administrativos desconcentrados de la Secretaría y las entidades del sector coordinado por la misma, para la atención de todos los asuntos relacionados con la formulación, integración y ejecución de sus presupuestos, así como de otra información relativa a programas institucionales;
+
+III. Integrar y consolidar el proyecto de presupuesto y el calendario de gasto de los órganos desconcentrados de la Secretaría y de las entidades del sector coordinado por la misma, y remitirlo a la Dirección General de Recursos Financieros a efecto de que lo integre y consolide en el proyecto de presupuesto y calendario de gasto del Ramo 06 Hacienda y Crédito Público;
+
+IV. Proponer al Secretario las políticas, directrices, normas o criterios técnicos y administrativos para la mejor organización y funcionamiento de los órganos desconcentrados de la Secretaría y de las entidades del sector paraestatal coordinado por la misma;
+
+V. Difundir las normas, lineamientos, políticas y demás disposiciones que en materia programática, presupuestaria, financiera, contable y de organización, emitan las instancias competentes;
+
+VI. Apoyar al Secretario en las funciones que como coordinadora de sector correspondan a la Secretaría respecto a las entidades cuyo objeto directo sea distinto al de la intermediación financiera, y
+
+VII. Proponer para autorización del Secretario la distribución de gasto del proyecto de presupuesto del Ramo 06 Hacienda y Crédito Público, entre la dependencia, sus órganos desconcentrados y entidades del sector coordinado por ella.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+###### Artículo 65-B.
 
 Compete a la Dirección General Jurídica de Egresos:
 
@@ -3687,109 +4615,71 @@ XI. Asesorar jurídicamente a las unidades administrativas de la Subsecretaría 
 
 XII. Colaborar con organismos internacionales en el estudio de los sistemas presupuestarios de otros países, contrastándolos con el marco normativo nacional, así como participar en foros y organismos nacionales e internacionales en temas relacionados con el ámbito de su competencia;
 
-XIII. Participar conjuntamente con las unidades administrativas de la Secretaría y de otras dependencias y entidades de la administración pública federal, en los grupos de trabajo que se establezcan para determinar las medidas que deban instrumentarse para lograr un mejor cumplimiento de los objetivos y metas de los programas a cargo de las dependencias y entidades, y
+XIII. Participar conjuntamente con las unidades administrativas de la Secretaría y de otras dependencias y entidades de la Administración Pública Federal, en los grupos de trabajo que se establezcan para determinar las medidas que deban instrumentarse para lograr un mejor cumplimiento de los objetivos y metas de los programas a cargo de las dependencias y entidades, y
 
 XIV. Atender los demás asuntos que le encomiende el Subsecretario de Egresos.
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
-###### Artículo 65-B.
+###### Artículo 65-C.
 
-Compete a la Coordinación de Procesos y Estructuras de Información de la Subsecretaría de Egresos:
+Compete a la Dirección General Adjunta Técnica de Presupuesto:
 
-I. Coordinar, de conformidad con los criterios establecidos por la Coordinación de Tecnologías de Comunicaciones e Información y la Coordinación de Seguridad de Información y Tecnología, la política en tecnología, estructuras de información y procesos en la Subsecretaría de Egresos, así como fomentar la optimización en el desarrollo y explotación de soluciones de tecnologías de información;
+I. Proponer y coordinar el desarrollo y la operación del modelo para el control presupuestario de las adecuaciones a la estructura ocupacional y al presupuesto de servicios personales en la Administración Pública Federal, en coordinación con las unidades administrativas de la Subsecretaría de Egresos y de la Secretaría de la Función Pública que correspondan, en los términos de las disposiciones aplicables;
 
-II. Determinar la factibilidad técnica de soluciones de tecnologías de información y servicios en la materia para la Subsecretaría de Egresos; así como proponer a la Coordinación de Tecnologías de Comunicaciones e Información su implantación, modernización, cambio y desecho;
+II. Establecer, de conformidad con las disposiciones aplicables, la guía para sistematizar los procesos del modelo a que se refiere la fracción anterior;
 
-III. Coordinar la automatización total o parcial de los procesos de las unidades administrativas adscritas a la Subsecretaría de Egresos, a fin de eficientar los recursos humanos, materiales, presupuestarios y tecnológicos; así como proponer soluciones para satisfacer las necesidades de automatización en coadyuvancia con la Coordinación de Tecnologías de Comunicaciones e Información;
+III. Administrar, en el ámbito de su competencia, el sistema de información para el control presupuestario de las adecuaciones a la estructura ocupacional y al presupuesto de servicios personales en la Administración Pública Federal, así como definir los procesos y la estructura de información que comprende dicho sistema;
 
-IV. Promover el uso de políticas de gobierno electrónico para ofrecer servicios de calidad a los clientes de la Subsecretaría de Egresos;
+IV. Elaborar, en los términos de las disposiciones aplicables, el diagnóstico que permita a las Direcciones Generales de Programación y Presupuesto sectoriales emitir el dictamen presupuestario sobre las solicitudes de las dependencias y entidades de la Administración Pública Federal para efectuar adecuaciones en sus estructuras orgánicas y ocupacionales y en su presupuesto de servicios personales;
 
-V. Mantener la operación de los sistemas que apoyan algún proceso en la Subsecretaría de Egresos y proponer su robustecimiento y actualización;
+V. Proponer, en coordinación con las unidades administrativas competentes de la Subsecretaría de Egresos, de conformidad con las normas, políticas y lineamientos que al efecto emita la Unidad de Política y Control Presupuestario y demás disposiciones aplicables, el nivel de gasto correspondiente al presupuesto regularizable de servicios personales de las dependencias, ramos y entidades de la Administración Pública Federal, así como realizar el cálculo de las previsiones salariales, para su integración al proyecto de Presupuesto de Egresos de la Federación;
 
-VI. Vigilar y promover que los servicios en materia de tecnologías de comunicaciones e información sean proporcionados de manera óptima en la Subsecretaría de Egresos, aun en el supuesto de que sean prestados por terceros;
+VI. Emitir el diagnóstico a las áreas competentes de la Subsecretaría de Egresos para que dictaminen presupuestariamente sobre la procedencia de la expedición de las normas en materia de servicios personales por parte de la Secretaría de la Función Pública, en materia de tabuladores de sueldos, pago de remuneraciones, prestaciones, separación voluntaria y, en general, en materia de servicios personales;
 
-VII. Apoyar a las unidades administrativas adscritas a la Subsecretaría de Egresos responsables de mantener actualizado el inventario de datos e información, con el desarrollo y promoción de procedimientos que aseguren la calidad y oportunidad de la información; así como mantener actualizadas las estructuras que soportan dichos datos e información en el Almacén Único de Información de la Secretaría, de acuerdo a las atribuciones que le otorgue la Coordinación de Tecnologías de Comunicaciones e Información;
+VII. Coadyuvar con las áreas competentes de la Subsecretaría de Egresos en la determinación del impacto presupuestario de revisiones salariales y de condiciones generales de trabajo;
 
-VIII. Representar, en las materias de su competencia, a la Subsecretaría de Egresos en foros y grupos de trabajos organizados por la Secretaría o por organismos públicos o privados, y
+VIII. En coordinación con la Unidad de Política y Control Presupuestario, registrar, controlar y dar seguimiento a la aplicación de programas genéricos vinculados con la estructura ocupacional y con el presupuesto de servicios personales, incluyendo los relativos al Fondo de Ahorro Capitalizable, los de separación y retiro voluntarios;
 
-IX. Acordar con el Subsecretario de Egresos los asuntos de su competencia.
+IX. En coordinación con la Unidad de Política y Control Presupuestario, analizar los aspectos presupuestarios relativos a los seguros de aplicación genérica en la Administración Pública Federal Centralizada, y
+
+X. Atender los demás asuntos que le encomiende el Subsecretario de Egresos.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 66.
 
-Compete a la Dirección General de Programación, Organización y Presupuesto:
+Compete a la Dirección General de Recursos Financieros:
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+I. Coordinar las actividades de programación, presupuestación y control del gasto público de las unidades administrativas de la Secretaría; con base en las disposiciones que emita la Subsecretaría de Egresos y en las demás normas presupuestarias aplicables;
 
-I. Coordinar las actividades de programación, presupuestación y control del gasto público de las unidades administrativas del sector central, órganos administrativos desconcentrados y entidades coordinadas por la Secretaría, con base en las disposiciones que emita la Subsecretaría de Egresos y en las demás normas presupuestarias aplicables;
+II. Coordinar la ejecución del programa de inversiones, autorizado por la Secretaría; así como apoyar a las unidades administrativas de la Secretaría en los trámites para la autorización y modificación de oficios de inversión, conforme a las disposiciones normativas vigentes;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+III. Proponer, para aprobación superior, los sistemas, métodos y procedimientos para la formulación, adecuación, ejercicio y control del presupuesto autorizado a las unidades administrativas de la Secretaría, de acuerdo a las leyes y disposiciones aplicables en la materia, apoyándose en la Coordinación General de Tecnologías de Información y Comunicaciones en lo relativo a las tecnologías competencia de dicha Coordinación General, así como opinar las políticas, lineamientos y procedimientos para los programas relacionados con el sistema de las adquisiciones, arrendamientos y contratación de bienes y servicios de la Secretaría que al efecto emita la Dirección General Adjunta de Adquisiciones y Contratación de Servicios;
 
-II. Apoyar a las unidades administrativas y órganos administrativos desconcentrados en los trAmites para autorización y modificación de oficios de inversión, conforme a las disposiciones normativas vigentes;
+IV. Analizar y opinar previamente a su contratación, la adquisición de bienes muebles e inmuebles, arrendamientos, prestación de servicios, obras públicas y servicios relacionados con las mismas que, conforme a las disposiciones aplicables, realicen las Direcciones Generales de Recursos Materiales y Servicios Generales y de Promoción Cultural, Obra Pública y Acervo Patrimonial, así como la Dirección General Adjunta de Adquisiciones y Contratación de Servicios, coadyuvando en la eficaz y eficiente administración de los contratos respectivos, para determinar conjuntamente con las mismas, en su caso, la aplicación de penas convencionales, la terminación anticipada o rescisión de dichos instrumentos jurídicos conforme a la normativa aplicable en la materia;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+V. Integrar y consolidar el proyecto de presupuesto y el calendario de gasto del Ramo 06 Hacienda y Crédito Público; incluyendo el correspondiente a los órganos desconcentrados y entidades que le sea remitido, de conformidad con la fracción III del artículo 65-A, Apartado B, de este Reglamento;
 
-III. Tramitar, en el ámbito de su competencia y conforme a las disposiciones normativas aplicables, las ministraciones de recursos presupuestarios de los órganos administrativos desconcentrados de la Secretaría;
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-IV. Proponer, para aprobación superior, los sistemas, métodos y procedimientos para la formulación, adecuación, ejercicio y control del presupuesto autorizado a la Secretaría, de acuerdo a las leyes y disposiciones aplicables en la materia;
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-V. Integrar y consolidar el proyecto de presupuesto y el calendario de gasto del Ramo 06 Hacienda y Crédito Público;
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-VI. Difundir entre las unidades administrativas, órganos administrativos desconcentrados y entidades coordinadas por la Secretaría, las normas, lineamientos, políticas y demás disposiciones que en materia programática, presupuestaria, financiera, contable y de organización que emitan las instancias competentes.
-
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+VI. Difundir entre las unidades administrativas de la Secretaría las normas, lineamientos, políticas y demás disposiciones que en materia programática, presupuestaria, financiera, contable y de organización, emitan las instancias competentes;
 
 VII. Coordinar la instrumentación de las normas de contabilidad; diseñar y difundir instrucciones para rendición de cuenta comprobada sobre los movimientos de fondos y deuda pública federales, en coordinación con las unidades administrativas de la Secretaría, responsables de dichas funciones;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+VIII. Emitir, conforme a las disposiciones que señalen las unidades administrativas competentes, los manuales y procedimientos para la operación del sistema de contabilidad, así como los catálogos de cuentas y los instructivos para el registro de las operaciones presupuestarias del Ramo 06 Hacienda y Crédito Público, así como para el registro contable de sus activos, pasivos, patrimonio, costos y gastos y someter a consideración superior los informes y estados financieros correspondientes;
 
-VIII. Emitir, conforme a las disposiciones que señalen las unidades administrativas competentes, los manuales y procedimientos para la operación del sistema de contabilidad, así como los catálogos de cuentas y los instructivos para el registro de las operaciones presupuestarias del Ramo 06 Hacienda y Crédito Público; asimismo, para el registro contable de sus activos, pasivos, patrimonio, costos y gastos y someter a consideración superior los informes y estados financieros correspondientes;
+IX. Requerir la información relativa al desarrollo de los programas de las unidades administrativas de la Secretaría e informar, en su caso, a las instancias correspondientes acerca del cumplimiento de los programas y del ejercicio de los presupuestos;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+X. Promover la atención de los requerimientos formulados por los órganos fiscalizadores, ante las unidades administrativas de la Secretaría cuando se trate de revisiones efectuadas por la Auditoría Superior de la Federación, y ante las unidades administrativas de la Oficialía Mayor cuando correspondan a revisiones del Órgano Interno de Control en la Secretaría;
 
-IX. Requerir la información relativa al desarrollo de los programas de la Secretaría, de sus órganos administrativos desconcentrados y de las entidades del sector coordinado por ella; e informar, en su caso, a las instancias correspondientes acerca del cumplimiento de los programas y del ejercicio de los presupuestos;
+XI. Coordinar la integración del programa institucional de mejora regulatoria de la Secretaría, darle seguimiento e informar al Oficial Mayor sobre su cumplimiento;
 
-X. (DEROGADA, D.O.F. 17 DE JUNIO DE 2003
+XII. Coordinar la operación del Registro de Personas Acreditadas de la Secretaría, y
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XIII. Coordinar la operación del Comité de Mejora Regulatoria Interna de la Secretaría, dar seguimiento a los acuerdos que se tomen en la misma y preparar los informes correspondientes.
 
-XI. Promover la atención de los requerimientos formulados por los órganos fiscalizadores, ante las unidades administrativas de la Secretaría cuando se trate de revisiones efectuadas por la Auditoría Superior de la Federación, y ante las unidades administrativas de la Oficialía Mayor cuando correspondan a revisiones del Órgano Interno de Control en la Secretaría;
+El Director General de Recursos Financieros, se auxiliará de los Directores Generales Adjuntos de Programación y Presupuesto; de Finanzas y Tesorería, y de Contabilidad y Estados Financieros.
 
-XII. (DEROGADA, D.O.F. 17 DE JUNIO DE 2003
-
-XIII. (DEROGADA, D.O.F. 17 DE JUNIO DE 2003
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-XIV. Gestionar ante las instancias correspondientes, en el ámbito de su competencia, el registro de las propuestas de modificación organizacional relativas a los órganos administrativos desconcentrados y las entidades paraestatales coordinadas por la Secretaría;
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-XV. Prestar la asesoría y apoyo técnico que soliciten los órganos administrativos desconcentrados y entidades paraestatales coordinadas por la Secretaría, en materia de organización, coordinación e integración para la ejecución de sus programas;
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-XVI. Coordinar la integración del programa institucional de mejora regulatoria de la Secretaría, darle seguimiento e informar al Oficial Mayor sobre su cumplimiento;
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-XVII. Coordinar la operación del Registro de Personas Acreditadas de la Secretaría, y
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-XVIII. Coordinar la operación de la Comisión de Mejora Regulatoria de la Secretaría, dar seguimiento a los acuerdos que se tomen en la misma y preparar los informes correspondientes.
-
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-El Director General de Programación, Organización y Presupuesto, se auxiliará de los Directores Generales Adjuntos de: Programación y Presupuesto, Finanzas y Tesorería, Contabilidad y Estados Financieros, y de Coordinación Sectorial.
-
-(REFORMADO, D.O.F. 17 DE JUNIO DE 2003
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 67.
 
@@ -3803,79 +4693,79 @@ III. Evaluar, para aprobación superior, las propuestas de modificación a las e
 
 IV. Integrar el Manual de Organización General de la Secretaría; proponer para aprobación superior y difundir la metodología para la elaboración de los manuales de organización específicos, de procedimientos y demás documentos administrativos que resulten necesarios para el mejor funcionamiento de la Secretaría; supervisar su permanente actualización, así como realizar su validación y registro;
 
-V. Formular en coordinación con la Dirección General de Programación y Presupuesto, el anteproyecto de presupuesto del capítulo 1000 "Servicios Personales", así como, supervisar la correcta aplicación de su ejercicio, mediante la gestión de afectaciones presupuestarias de los movimientos que se generen, tales como creación, conversión, cancelación y transferencia de plazas; efectuar la liquidación y pago de las remuneraciones, gratificaciones y prestaciones al personal de la Secretaría conforme a la Ley; realizar la liquidación y pago de los terceros institucionales; validar el nombramiento del personal de base o confianza de la Secretaría, las altas, bajas e incidencias, vigilando los procesos de producción de la nómina y control de asistencia; así como validar la contratación de servicios profesionales por honorarios;
+V. Formular en coordinación con la Dirección General de Recursos Financieros, el anteproyecto de presupuesto del capítulo 1000 "Servicios Personales", así como, supervisar la correcta aplicación de su ejercicio, mediante la gestión de afectaciones presupuestarias de los movimientos que se generen, tales como creación, conversión, cancelación y transferencia de plazas; efectuar la liquidación y pago de las remuneraciones, gratificaciones y prestaciones al personal de la Secretaría conforme a la Ley; realizar la liquidación y pago de los terceros institucionales; validar el nombramiento del personal de base o confianza de la Secretaría, las altas, bajas e incidencias, vigilando los procesos de producción de la nómina y control de asistencia; validar la contratación de servicios profesionales por honorarios;
 
 VI. Implementar y administrar las prestaciones y servicios que correspondan a los trabajadores, expedir credenciales de identificación del personal de la Secretaría, integrar los expedientes personales, así como emitir las certificaciones de los mismos; distribuir, integrar y custodiar la documentación comprobatoria del ejercicio del gasto del capítulo 1000 "Servicios Personales";
 
-VII. Difundir los sistemas, procedimientos y métodos que en materia de administración de personal deberán observar las unidades administrativas de la Secretaría, así como supervisar y evaluar los resultados y administrar el catálogo institucional de puestos;
+VII. Ejecutar los sistemas, procedimientos y métodos en materia de administración de personal, así como supervisar y evaluar los resultados, administrar el catálogo institucional de puestos;
 
-VIII. Desarrollar, operar y mantener los programas informáticos que constituyen el sistema integral de pagos, control presupuestal, servicios, prestaciones al personal e incidencias de la nómina; y en general, aquellos programas que coadyuven a la correcta administración de las funciones encomendadas a la Dirección General de Recursos Humanos, lo anterior, de acuerdo con los procedimientos y métodos que dicte la Coordinación de Tecnologías de Comunicaciones e Información;
+VIII. Operar los programas informáticos que constituyen el sistema integral de pagos, control presupuestal, servicios, prestaciones al personal e incidencias de la nómina y, en general, aquellos programas que coadyuven a la correcta administración de sus funciones, de acuerdo con los procedimientos y métodos que dicte la Coordinación General de Tecnologías de Información y Comunicaciones;
 
-IX. Proponer, aplicar, supervisar y fomentar los programas relativos a las actividades en materia de capacitación, educación, cultura, salud, deporte y recreación, para el personal de la Secretaría y, en su caso, para los pensionados y jubilados, mediante la suscripción de contratos, convenios, acuerdos y demás actos relacionados con la prestación de estos servicios; proporcionar los servicios sociales a que tengan derecho tanto el personal como sus familiares derechohabientes; así como los demás que le señalen las disposiciones laborales en la materia;
+IX. Proponer, aplicar, supervisar y fomentar los programas relativos a las actividades en materia de capacitación, educación, cultura, salud, deporte y recreación, para el personal de la Secretaría y, en su caso, para los pensionados y jubilados, mediante la suscripción de contratos, convenios, acuerdos y demás actos relacionados con la prestación de estos servicios; proporcionar los servicios sociales a que tengan derecho tanto el personal como sus familiares derechohabientes; así como los demás que le señalen las disposiciones laborales en la materia y difundirlos entre el personal de la Secretaría de acuerdo con los lineamientos de comunicación interna emitidos por la Unidad de Comunicación Social y Vocero;
 
-X. Representar al Titular del Ramo ante el Tribunal Federal de Conciliación y Arbitraje, Juntas Locales y Federales de Conciliación y Arbitraje, Juzgados de Distrito y Tribunales Colegiados en Materia de Trabajo, y demás autoridades laborales en las controversias que se susciten entre la Secretaría y el personal que le preste servicios, que no estén encomendadas expresamente a otra unidad administrativa de la propia Secretaría; formular demandas y contestaciones relacionadas con el personal, que no sean competencia de otra unidad administrativa, conciliar, absolver posiciones, celebrar convenios, allanarse, transigir, ejercitar acciones, desistirse de éstas, interponer recursos y ejecutar laudos o resoluciones en los juicios laborales, ante las autoridades señaladas en representación del Secretario y del Oficial Mayor; formular demandas y desistirse en los juicios de amparo contra las resoluciones y laudos que se dicten, interponer los medios de defensa que en derecho procedan;
+X. Representar al Titular del Ramo ante el Tribunal Federal de Conciliación y Arbitraje, Juntas Locales y Federales de Conciliación y Arbitraje, Juzgados de Distrito y Tribunales Colegiados en Materia de Trabajo, y demás autoridades laborales en las controversias que se susciten entre la Secretaría y el personal que le preste servicios, que no estén encomendadas expresamente a otra unidad administrativa de la propia Secretaría; formular demandas y contestaciones relacionadas con el personal, que no sean competencia de otra unidad administrativa, conciliar, absolver posiciones, celebrar convenios, allanarse, transigir, ejercitar acciones, desistirse de éstas, interponer recursos y ejecutar laudos o resoluciones en los juicios laborales, ante las autoridades señaladas en representación del Secretario y del Oficial Mayor; formular demandas y desistirse en los juicios de amparo contra las resoluciones y laudos que se dicten e interponer los medios de defensa que en derecho procedan;
 
-XI. Coordinar y operar los programas de reconocimiento laboral de los servidores públicos, así como premios y gratificaciones al personal de la Secretaría señalados en la Ley, en las Condiciones Generales del Trabajo y los que establezca la propia Secretaría; llevar el control de los expedientes laborales y administrativos, así como la guarda y custodia de los mismos;
+XI. Coordinar y operar los programas de reconocimiento laboral de los servidores públicos, así como premios y gratificaciones al personal de la Secretaría señalados en la Ley, en las Condiciones Generales de Trabajo y los que establezca la propia Secretaría; y llevar el control de los expedientes laborales y administrativos, así como la guarda y custodia de los mismos;
 
-XII. Intervenir y conciliar en la práctica de diligencias e investigaciones para el levantamiento de actas por incumplimiento de obligaciones laborales en el que haya incurrido el personal de la Secretaría; imponer y revocar las medidas disciplinarias a que se haga acreedor el personal de la Secretaría en materia laboral; gestionar ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado los dictámenes correspondientes sobre el estado de salud de los trabajadores; emitir acuerdos para formalizar la terminación de la relación laboral en los casos de invalidez o incapacidad total y permanente; dar cumplimiento a lo establecido en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos en los casos de ejecución de resoluciones y acuerdos que emita el Órgano Interno de Control en la Secretaría y la Secretaría de la Función Pública; intervenir y conciliar en el levantamiento de constancias, actas por accidentes de trabajo, actas administrativas y actas por pérdida de la confianza en esta materia, cuando dicha competencia no esté encomendada a otra unidad administrativa de la propia Secretaría y dictaminar las mismas; asesorar y orientar a las unidades administrativas de la Secretaría, en la instrucción de constancias de hechos en los casos de los trabajadores de confianza, emitir el cese de los efectos del nombramiento o en su caso revocar el mismo cuando proceda conforme a derecho; auxiliar a las autoridades superiores en la conducción de las relaciones con el Sindicato Nacional de Trabajadores de Hacienda, así como participar en la revisión y modificación de las Condiciones Generales de Trabajo, vigilar su cumplimiento y llevar a cabo las remociones del personal sindicalizado de la Secretaría;
+XII. Intervenir y conciliar en la práctica de diligencias e investigaciones para el levantamiento de actas por incumplimiento de obligaciones laborales en el que haya incurrido el personal de la Secretaría; imponer y revocar las medidas disciplinarias a que se haga acreedor el personal de la Secretaría en materia laboral; gestionar ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado los dictámenes correspondientes sobre el estado de salud de los trabajadores; emitir acuerdos para formalizar la terminación de la relación laboral en los casos de invalidez o incapacidad total y permanente; dar cumplimiento a lo establecido en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos en los casos de ejecución de resoluciones y acuerdos que emitan el Órgano Interno de Control en la Secretaría y la Secretaría de la Función Pública; intervenir y conciliar en el levantamiento de constancias, actas por accidentes de trabajo, actas administrativas y actas por pérdida de la confianza en esta materia y dictaminar las mismas; asesorar y orientar a las unidades administrativas de la Secretaría, en la instrucción de constancias de hechos en los casos de los trabajadores de confianza, emitir el cese de los efectos del nombramiento o, en su caso, revocar el mismo cuando proceda conforme a derecho; auxiliar a las autoridades superiores en la conducción de las relaciones con el Sindicato Nacional de Trabajadores de Hacienda, así como participar en la revisión y modificación de las Condiciones Generales de Trabajo, vigilar su cumplimiento y llevar a cabo las remociones del personal sindicalizado de la Secretaría;
 
-XIII. Proponer los criterios técnicos en materia de relaciones laborales y riesgos profesionales; difundir entre el personal de la Secretaría las Condiciones Generales de Trabajo y sus revisiones y modificaciones; y asesorar a las unidades administrativas de la Secretaría en los asuntos jurídicos y laborales relativos a su personal;
+XIII. Proponer los criterios técnicos en materia de relaciones laborales y riesgos profesionales; difundir entre el personal de la Secretaría las Condiciones Generales de Trabajo y sus revisiones y modificaciones atendiendo los lineamientos de comunicación interna emitidos por la Unidad de Comunicación Social y Vocero; y asesorar a las unidades administrativas de la Secretaría en los asuntos jurídicos y laborales relativos a su personal;
 
 XIV. Integrar los criterios técnicos en materia de selección de personal, formación, capacitación, motivación, desarrollo del personal y medio ambiente en el trabajo;
 
 XV. Coordinar los programas de formación, capacitación, becas, desarrollo de personal, servicio social de pasantes y evaluar periódicamente sus resultados;
 
-XVI. Proponer y aplicar en su caso, los programas relativos a las actividades en materia de capacitación, educación y cultura organizacional, mediante la suscripción de aquellos contratos, convenios, acuerdos y demás actos relacionados con la prestación de estos servicios, que la propia Secretaría establezca con instituciones formalmente constituidas;
+XVI. Proponer y aplicar, en su caso, los programas relativos a las actividades en materia de capacitación, educación y cultura organizacional, mediante la suscripción de aquellos contratos, convenios, acuerdos y demás actos relacionados con la prestación de estos servicios, que la propia Secretaría establezca con instituciones formalmente constituidas;
 
 XVII. Instrumentar los programas relativos a los servicios educacionales y asistenciales de las escuelas primarias de la Secretaría;
 
-XVIII. Programar, instrumentar y difundir los contenidos, avances, resultados y características en general de los programas educacionales; los procesos de certificación por competencia laboral de la Secretaría, así como analizar e integrar materiales informativos al portal de la Intranet autorizado, lo anterior, de acuerdo con los procedimientos y métodos que dicte la Coordinación de Tecnologías de Comunicaciones e Información;
+XVIII. Programar, instrumentar y difundir los contenidos, avances, resultados y características en general de los programas educacionales y de los procesos de certificación por competencia laboral de la Secretaría, así como analizar y comunicar materiales informativos atendiendo los lineamientos de comunicación interna emitidos por la Unidad de Comunicación Social y Vocero;
 
-XIX. Generar, de conformidad con los procedimientos y métodos que dicte la Coordinación de Tecnologías de Comunicaciones e Información, la información estadística y los indicadores necesarios para la conducción de los procesos y programas de innovación, formación, desarrollo de personal, servicios educacionales, comunicación y difusión interna;
+XIX. Generar la información estadística y los indicadores necesarios para la conducción de los procesos y programas de innovación, formación, desarrollo de personal, servicios educacionales, comunicación y difusión interna atendiendo los lineamientos de comunicación interna emitidos por la Unidad de Comunicación Social y Vocero;
 
-XX. Coordinar a las diversas instancias de la Secretaría que participen en las Comisiones Mixtas de conformidad con las disposiciones en materia laboral, y en su caso desempeñar las funciones de secretariado técnico, y
+XX. Coordinar a las diversas instancias de la Secretaría que participen en las Comisiones Mixtas de conformidad con las disposiciones en materia laboral y, en su caso, desempeñar las funciones de secretariado técnico, y
 
-XXI. Coordinar los procesos de evaluación del desempeño, estímulos y recompensas, reubicación, seguridad y en general en los trabajos de grupo que se requieran, aportando los elementos que correspondan en función de su ámbito de competencia.
+XXI. Coordinar los procesos de evaluación del desempeño, estímulos y recompensas, reubicación, seguridad y en general en los trabajos de grupo que se requieran en dichas materias, aportando los elementos que correspondan en función de su ámbito de competencia.
 
-El Director General de Recursos Humanos se auxiliará de los Directores Generales Adjuntos de Desarrollo Profesional; Administración de Personal; Relaciones Laborales; Planeación y Estudios Organizacionales.
+La información que se genere del ejercicio de las facultades a que se refieren las fracciones II, III, IV, V, VI, VII, XI, XV, XVIII, XIX y XXI de este artículo, deberá ser remitida a la Coordinación General de Calidad y Seguridad de la Información, a efecto de mantener actualizado el Almacén Único de Procesos e Información del Personal de la Secretaría.
+
+El Director General de Recursos Humanos se auxiliará de los Directores Generales Adjuntos de Desarrollo Profesional; de Administración de Personal, y de Planeación y de Estudios Organizacionales.
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 68.
 
 Compete a la Dirección General de Recursos Materiales y Servicios Generales:
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+I. Proponer para aprobación superior las directrices, normas, criterios y los niveles de servicio a que se refiere la fracción VII del artículo 8o. de este Reglamento, para la administración de recursos materiales y servicios generales; la conservación y el mantenimiento de los bienes muebles y los servicios generales de la Secretaría, y supervisar el cumplimiento de las mismas;
 
-I. Proponer para aprobación superior, las políticas, lineamientos y procedimientos para la administración de recursos materiales y servicios generales, así como los programas relacionados con el sistema de las adquisiciones, la conservación y el mantenimiento de los bienes muebles y los servicios generales de la Secretaría, y supervisar el cumplimiento de las mismas;
+II. Contratar, conforme a los lineamientos que al efecto emita la Dirección General Adjunta de Adquisiciones y Contratación de Servicios y demás disposiciones aplicables, y previo análisis y opinión favorable de la Dirección General de Recursos Financieros y, según corresponda, de la Coordinación General de Tecnologías de Información y Comunicaciones o de la Dirección General de Promoción Cultural, Obra Pública y Acervo Patrimonial, la adquisición de bienes muebles, arrendamientos y prestación de servicios generales, para lo cual podrá suscribir los contratos, convenios o instrumentos jurídicos que sean necesarios, así como realizar los procedimientos y demás actos conducentes en la materia, inclusive aplicar penas convencionales, hacer efectiva la terminación anticipada o rescindir dichos instrumentos jurídicos;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+III. Llevar a cabo la eficiente administración de los bienes, arrendamientos y servicios contratados, conforme a los lineamientos que al efecto emita la Dirección General Adjunta de Adquisiciones y Contratación de Servicios, e informar periódicamente de su seguimiento a la Dirección General de Recursos Financieros;
 
-II. Contratar, conforme a las disposiciones aplicables, la adquisición de bienes muebles e inmuebles, arrendamientos, prestación de servicios, para lo cual podrá suscribir los contratos, convenios o instrumentos jurídicos que sean necesarios, así como realizar los procedimientos y demás actos conducentes en la materia, inclusive determinar la aplicación de penas convencionales, hacer efectiva la terminación anticipada o rescindir dichos instrumentos jurídicos conforme a la normativa aplicable en la materia y determinar lo conducente respecto a la rescisión de los contratos;
+IV. Llevar el control administrativo de las asignaciones correspondientes a las adquisiciones de su competencia, en coordinación con la Dirección General de Recursos Financieros;
 
-III. Coordinar la ejecución del programa de inversiones, autorizado por la Secretaría;
+V. Supervisar la ejecución de los programas del Sistema Nacional de Protección Civil en lo que corresponda a la Secretaría;
 
-IV. Llevar el control administrativo de las asignaciones correspondientes a las adquisiciones de su competencia, en coordinación con la Dirección General de Programación, Organización y Presupuesto;
+VI. Registrar y controlar los inventarios de la Secretaría y llevar a cabo su actualización, a fin de registrar dicha información en el Almacén Único de Procesos e Información del Personal de la Secretaría, de conformidad con los lineamientos que al efecto emita la Coordinación General de Calidad y Seguridad de la Información;
 
-V. Asesorar y supervisar, en las materias de su competencia, la instrumentación de sistemas, procedimientos y métodos de las unidades administrativas;
+VII. Administrar los almacenes de la Secretaría e informar de su contenido a las unidades administrativas adscritas a la misma, atendiendo los lineamientos de comunicación interna emitidos por la Unidad de Comunicación Social y Vocero;
 
-VI. Supervisar la ejecución de los programas del Sistema Nacional de Protección Civil en lo que corresponda a la Secretaría;
+VIII. Contratar los seguros de los bienes patrimoniales de la Secretaría previa opinión de la Dirección General de Seguros y Valores;
 
-VII. Realizar la regularización jurídica administrativa de bienes inmuebles ocupados por la Secretaría, así como registrar, controlar y actualizar el padrón inmobiliario;
+IX. Contratar en materia de tecnologías de información y comunicaciones los seguros de los bienes patrimoniales y los que la Secretaría requiera, previa opinión de la Coordinación General de Tecnologías de Información y Comunicaciones y de la Dirección General de Seguros y Valores;
 
-VIII. Registrar, controlar y actualizar los inventarios de la Secretaría, así como verificar el óptimo aprovechamiento de los bienes en las unidades administrativas;
+X. Proporcionar los artículos de oficina, papelería y demás bienes de consumo, así como el mobiliario y maquinaria que requieran las unidades administrativas de la Secretaría, con excepción de los equipos e insumos definidos por la Coordinación General de Tecnologías de Información y Comunicaciones;
 
-IX. Apoyar a las unidades administrativas de la Secretaría, en la administración de los almacenes a su cargo, en cuanto a su aprovechamiento y control de su funcionamiento;
+XI. Proporcionar los servicios de mantenimiento menor y mayor a inmuebles y muebles que requieran las unidades administrativas de la Secretaría, de conformidad con los lineamientos que determine la Dirección General de Promoción Cultural, Obra Pública y Acervo Patrimonial;
 
-X. Contratar los seguros de los bienes patrimoniales de la Secretaría;
+XII. Proveer los servicios generales que requieran las unidades administrativas de la Secretaría, con excepción de los servicios a que se refiere la fracción XIX del artículo 7o. de este Reglamento;
 
-XI. Contratar y supervisar la instalación y mantenimiento de los equipos de comunicación;
+XIII. Proveer los servicios de archivo, transporte, aseo, mensajería, previsión de siniestros, limpieza, vigilancia y personal de seguridad que requieran las unidades administrativas de la Secretaría, y
 
-XII. (DEROGADA, D.O.F. 17 DE JUNIO DE 2003)
+XIV. Resolver los asuntos que los ordenamientos legales y administrativos que rigen las actividades de administración de recursos materiales y servicios atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario.
 
-XIII. Resolver los asuntos que los ordenamientos legales y administrativos que rigen las actividades de administración de recursos materiales y servicios atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario.
-
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-El Director General de Recursos Materiales y Servicios Generales se auxiliará de los Directores Generales Adjuntos de Planeación, Operación y Servicios, y de Adquisiciones y Contratación de Servicios.
+El Director General de Recursos Materiales y Servicios Generales será auxiliado por el Director General Adjunto de Planeación, Operación y Servicios.
 
 ###### Artículo 69.
 
@@ -3887,9 +4777,9 @@ II. Producir documentos valorados, timbres fiscales y estampillas postales;
 
 III. Producir todos aquellos impresos y publicaciones que requiera la Secretaría, así como los que pueda requerir el gobierno federal, y
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-IV. Gestionar a través de la Dirección General de Programación, Organización y Presupuesto que los ingresos obtenidos por la prestación de servicios de impresión y demás relacionados, se depositen en la Tesorería de la Federación o, en su caso, conforme a las disposiciones de la Ley de Ingresos de la Federación y del Presupuesto de Egresos de la Federación correspondiente, del Manual de Normas Presupuestarias para la Administración Pública Federal y demás disposiciones y ordenamientos aplicables a estos servicios;
+IV. Gestionar a través de la Dirección General de Recursos Financieros que los ingresos obtenidos por la prestación de servicios de impresión y demás relacionados, se depositen en la Tesorería de la Federación o, en su caso, conforme a las disposiciones de la Ley de Ingresos de la Federación y del Presupuesto de Egresos de la Federación correspondientes, del Manual de Normas Presupuestarias para la Administración Pública Federal y demás disposiciones y ordenamientos aplicables a estos servicios;
 
 > <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -3907,127 +4797,81 @@ VII. Emitir dictamen sobre la autenticidad de los productos impresos en el Talle
 
 El Director General de Talleres de Impresión de Estampillas y Valores, se auxiliará de los Directores Generales Adjuntos de: Producción y Mantenimiento; y de Apoyo Técnico y Operativo.
 
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
 ###### Artículo 69-A.
-
-(DEROGADO, D.O.F. 22 DE MARZO DE 2001)
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-###### Artículo 69-B.
 
 Compete a la Dirección General de Promoción Cultural, Obra Pública y Acervo Patrimonial:
 
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-I. Proponer, para aprobación superior, la política, normas y criterios, así como los programas relacionados con el sistema de administración, mantenimiento y conservación de los bienes muebles e inmuebles que se encuentran destinados a bibliotecas, hemerotecas, museos, recintos históricos y áreas protocolarias que se encuentren bajo la responsabilidad de la Secretaría;
-
-> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 1997)</small>
+I. Proponer, para aprobación superior, las políticas, normas, lineamientos y criterios en materia de obra pública, así como los relativos a los programas relacionados con el sistema de administración, mantenimiento y conservación de los bienes muebles e inmuebles que se encuentran destinados a bibliotecas, hemerotecas, museos, recintos históricos y áreas protocolarias que se encuentren bajo la responsabilidad de la Secretaría;
 
 II. Proponer, para aprobación superior, el establecimiento de los sistemas, métodos y procedimientos aplicables a las actividades enunciadas en la fracción anterior, siendo responsable de su oportuna ejecución;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-III. Contratar, conforme a las disposiciones aplicables la realización de obras públicas y servicios relacionados con las mismas, para lo cual podrá suscribir los contratos, convenios o instrumentos jurídicos que sea necesarios, así como realizar los procedimientos y demás actos conducentes en la materia, inclusive determinar la aplicación de penas convencionales, hacer efectiva la terminación anticipada o rescindir dichos instrumentos jurídicos conforme a la normativa aplicable y determinar lo conducente respecto de la suspensión de obras públicas;
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+III. Contratar, conforme a los lineamientos que al efecto emita la Dirección General Adjunta de Adquisiciones y Contratación de Servicios y demás disposiciones aplicables, y previo análisis y opinión favorable de la Dirección General de Recursos Financieros, la realización de obras públicas y servicios relacionados con las mismas, la adquisición de bienes muebles e inmuebles, arrendamientos, prestación de servicios de mantenimiento o adecuaciones a los muebles, inmuebles, mobiliario en general, entre otros, para lo cual podrá suscribir los contratos, convenios o instrumentos jurídicos que sean necesarios, así como realizar los procedimientos y demás actos conducentes en la materia, inclusive aplicar penas convencionales, hacer efectiva la terminación anticipada o rescindir dichos instrumentos jurídicos, e informar periódicamente a la citada Dirección General sobre el seguimiento relacionado con la administración de dichos contratos;
 
 IV. Llevar un adecuado control administrativo del registro de consulta pública de todas las obras recibidas por concepto de pago en especie que sean conservadas como patrimonio cultural de la nación, así como dirigir y coordinar la edición y publicación del catálogo de la Colección Pago en Especie;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+V. Proponer, para aprobación superior, un sistema de control de ubicación de las obras de arte patrimonio cultural de la nación, así como un historial de cada una de ellas y las exposiciones en las que participen, atendiendo a lo que en materia de tecnologías de comunicación e información indique la Coordinación General de Tecnologías de Información y Comunicaciones;
 
-V. Proponer, para aprobación superior, un sistema de control de ubicación de las obras de arte patrimonio cultural de la nación, así como un historial de cada una de ellas y las exposiciones en las que participen;
+VI. Proponer, para aprobación superior, los métodos y sistemas de elaboración y actualización de los registros, catálogos e inventarios de los bienes muebles de carácter histórico-artístico propiedad de la nación que tenga bajo su responsabilidad la Secretaría, de conformidad con lo dispuesto por la Ley General de Bienes Nacionales, atendiendo a lo que en materia de tecnologías de comunicación e información indique la Coordinación General de Tecnologías de Información y Comunicaciones;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+VII. Emitir lineamientos sobre la ocupación y aprovechamiento de espacios para uso de las unidades administrativas de la Secretaría;
 
-VI. Proponer, para aprobación superior, los métodos y sistemas de elaboración y actualización de los registros, catálogos e inventarios de los bienes muebles de carácter histórico-artístico propiedad de la nación que tenga bajo su responsabilidad la Secretaría, de conformidad con lo dispuesto por la Ley General de Bienes Nacionales;
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-VII. Emitir lineamientos sobre la ocupación y aprovechamiento de espacios para uso de las unidades administrativas, así como verificar el óptimo aprovechamiento de los bienes a través de las unidades administrativas;
-
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-VIII. Proponer, para aprobación superior, los sistemas y procedimientos necesarios para resguardar, conservar y difundir los acervos bibliográficos, hemerográficos, documentales y Archivo Histórico de la Secretaría;
-
-> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 1997)</small>
+VIII. Proponer, para aprobación superior, los mecanismos y procedimientos necesarios para resguardar, conservar y difundir los acervos bibliográficos, hemerográficos, documentales y Archivo Histórico de la Secretaría;
 
 IX. Coordinar y supervisar la conservación del archivo histórico de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+X. Administrar las bibliotecas, hemerotecas, recintos históricos, áreas protocolarias y museos responsabilidad de la Secretaría;
 
-X. Administrar las bibliotecas, hemerotecas, recintos históricos, áreas protocolarias y museos responsabilidad de la Secretaría.
+XI. Promover, dirigir, difundir y coordinar actividades culturales y talleres para fomentar la cultura entre el personal de la Secretaría y el público en general, de acuerdo con los lineamientos de comunicación interna emitidos por la Unidad de Comunicación Social y Vocero;
 
-> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 1997)</small>
+XII. Proponer, para aprobación superior, los calendarios anuales de exposiciones de las obras de arte que se encuentren bajo la responsabilidad de la Secretaría y del Servicio de Administración Tributaria; así como para el mantenimiento de las obras de arte bajo su custodia;
 
-XI. Promover, dirigir, difundir y coordinar actividades culturales y talleres para fomentar la cultura entre el personal de la Secretaría y el público en general;
+XIII. Promover la comunicación con instituciones y organismos culturales del país y del extranjero, para coordinar programas de intercambio y comunicación;
 
-> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
+XIV. Representar, en el ámbito de su competencia, a la Secretaría y al Servicio de Administración Tributaria ante instituciones y organismos culturales del país y del extranjero;
 
-XII. Proponer, para aprobación superior, los calendarios anuales de exposiciones y el mantenimiento de las obras de arte bajo su custodia, y
+XV. Llevar a cabo las exposiciones a que se refiere la fracción XII de este artículo;
 
-> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 1997)</small>
+XVI. Participar en el Comité de Obras Públicas y Servicios Relacionados con las Mismas de la Secretaría;
 
-XIII. Promover la comunicación con instituciones y organismos culturales del país y el extranjero, para coordinar programas de intercambio y difusión.
+XVII. Atender las solicitudes de las unidades administrativas de la Secretaría en materia de remodelación y mantenimiento de espacios, redefinición de accesos a las instalaciones y en el interior de las mismas, conservación de bienes muebles, inmuebles y espacios que utilice la Secretaría y, en su caso, turnar dichas solicitudes a la Dirección General de Recursos Materiales y Servicios Generales;
 
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+XVIII. Llevar a cabo la adecuación, reasignación y redefinición de los espacios y mobiliario, redefinición de accesos a las instalaciones y en el interior de las mismas, que utilicen las unidades administrativas de la Secretaría, que permitan un mejor y adecuado aprovechamiento de los mismos conforme al plan estratégico de la Secretaría; así como atender los requerimientos que en dichas materias le soliciten las citadas unidades;
+
+XIX. Proyectar y supervisar la ejecución de obras, mantenimiento, remodelación y adaptaciones que requieran las unidades administrativas de la Secretaría, y
+
+XX. Integrar el presupuesto de obra pública, de mantenimiento mayor y del requerido para las remodelaciones y adecuaciones de los espacios que utilicen las unidades administrativas de la Secretaría, que garanticen un mejor y adecuado aprovechamiento de los mismos conforme al plan estratégico de la Secretaría.
 
 El Director General de Promoción Cultural, Obra Pública y Acervo Patrimonial será auxiliado por el Director General Adjunto de Obra Pública y Acervo Patrimonial.
 
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+###### Artículo 69-B.
+
+Compete a la Dirección General Adjunta de Adquisiciones y Contratación de Servicios:
+
+I. Proponer para aprobación superior, previa opinión de la Dirección General de Recursos Financieros, las políticas, lineamientos y procedimientos para los programas relacionados con el sistema de las adquisiciones, arrendamientos y contratación de bienes y servicios de la Secretaría;
+
+II. Emitir opinión, previamente a su contratación, respecto a la procedencia de la adquisición de bienes muebles e inmuebles, arrendamientos y prestación de servicios solicitados por las unidades administrativas de la Secretaría;
+
+III. Contratar, conforme a las disposiciones aplicables y previo análisis y opinión favorable de la Dirección General de Recursos Financieros, la adquisición de bienes muebles e inmuebles, arrendamientos y prestación de servicios, para lo cual podrá suscribir los contratos, pedidos, convenios o instrumentos jurídicos que sean necesarios, así como realizar los procedimientos y demás actos conducentes en la materia, inclusive aplicar penas convencionales, hacer efectiva la terminación anticipada o rescindir dichos instrumentos jurídicos;
+
+IV. Contratar en materia de tecnologías de información y comunicaciones la instalación y mantenimiento de los equipos de cómputo y comunicaciones requeridos por la Coordinación General de Tecnologías de Información y Comunicaciones;
+
+V. Representar a la Secretaría, en términos de la normativa aplicable, en las comisiones mixtas de abastecimiento en los que las diversas dependencias y entidades de la Administración Pública Federal participen a fin de adquirir bienes, contratar arrendamientos y servicios de manera consolidada;
+
+VI. Resolver los asuntos que los ordenamientos legales y administrativos que rigen las actividades de contratación de bienes muebles e inmuebles, arrendamientos y servicios atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario, y
+
+VII. Acordar con el Oficial Mayor los asuntos de su competencia.
 
 ###### Artículo 69-C.
 
-Compete a la Coordinación de Tecnologías de Comunicaciones e Información:
-
-I. Diseñar las políticas, normas, estándares y lineamientos en materia de tecnologías de comunicaciones e información en cooperación con la Coordinación de Seguridad de Información y Tecnología, así como definir y coordinar los procesos necesarios para su cumplimiento y asegurar su difusión;
-
-II. Coordinar la planeación y presupuestación en materia de tecnologías de comunicaciones e información;
-
-III. Proponer medidas para optimizar recursos y procesos operativos a las Coordinaciones de Procesos y Estructuras de Información;
-
-IV. Definir los procesos y servicios generales de tecnologías de comunicaciones e información que deberán aplicarse a nivel institucional.
-
-V. Realizar las acciones conducentes a efecto de garantizar que las Coordinaciones de Procesos y Estructuras de Información de la Subsecretaría del Ramo, de la Subsecretaría de Egresos y de la Tesorería de la Federación atiendan las necesidades de automatización total o parcial de procesos y estructuras de información de cada una de las Areas;
-
-VI. Coordinar el diseño e instrumentación de proyectos de servicios generales de tecnologías de comunicaciones e información;
-
-VII. Definir los procesos y lineamientos para la implementación, desarrollo, administración y mantenimiento de sistemas;
-
-VIII. Administrar y definir el Almacén Único de Información de la Secretaría, de acuerdo con lo que dicte la Coordinación de Seguridad de Información y Tecnología;
-
-IX. Emitir lineamientos para la instrumentación, a través del Almacén Único de Información de la Secretaría, de las estructuras de información que se requieran a través de las Coordinaciones de Procesos y Estructuras de Información de la Subsecretaría del Ramo, de la Subsecretaría de Egresos y de la Tesorería de la Federación;
-
-X. Mantener actualizado el directorio de las fuentes, los responsables, la periodicidad y demás características de la información del Almacén Único de Información de la Secretaría;
-
-XI. Elaborar estudios de viabilidad para dictaminar la factibilidad técnica y operativa de adquisiciones de bienes y servicios de tecnologías de comunicaciones e información;
-
-XII. Representar a la Secretaría en materia de tecnologías de comunicaciones e información ante otras instituciones, y
-
-XIII. Establecer, promover y difundir las políticas de gobierno electrónico en la Secretaría.
-
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 ###### Artículo 69-D.
 
-Compete a la Coordinación de Seguridad de Información y Tecnología:
-
-I. Diseñar las políticas, normas, estándares y lineamientos en materia de seguridad relativa:
-
-a). Al uso, acceso, y almacenamiento de bases de datos, estructuras de información y sistemas;
-
-b). Al uso y diseño de redes, y
-
-c). Al diseño, uso, operación y prestación de servicios y soluciones de tecnologías de comunicaciones e información en general, con especial atención en sistemas de gestión, pistas de auditoría, almacenes de documentos, soluciones basadas en tecnologías para protocolos de Internet o similares, ya sea para servicio en Internet o en redes privadas;
-
-II. Fomentar y promover la cultura de seguridad en materia de tecnologías de comunicaciones e información al interior de la Secretaría;
-
-III. Operar los directorios de usuarios, servicios y equipos de la Secretaría; así como los métodos y políticas de identificación, en específico las relacionadas con firma electrónica y certificación digital, para acceso de recursos de tecnologías de comunicaciones e información; atendiendo las políticas y lineamientos de seguridad a que se refiere la fracción I de este artículo;
-
-IV. Discriminar la selección de normas a implantarse en la Secretaría que comprometan la seguridad en materia de tecnologías de comunicaciones e información;
-
-V. Proporcionar asistencia a las Coordinaciones de Procesos y Estructuras de Información de la Subsecretaría del Ramo, de la Subsecretaría de Egresos y de la Tesorería de la Federación, así como a la Coordinación de Tecnologías de Comunicaciones e Información en el diseño de soluciones, y
-
-VI. Participar en la operación del Almacén Único de Información de la Secretaría, a través de la clasificación de los niveles de acceso y confidencialidad de la información.
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 ###### Artículo 70.
 
@@ -4039,13 +4883,17 @@ I. Realizar estudios y formular anteproyectos de iniciativas de leyes o decretos
 
 II. Realizar estudios comparados de los sistemas de hacienda pública, de los administrativos y de justicia administrativa de otros países, para apoyar la reforma de la hacienda pública, con excepción de aquellos que corresponden a la Subprocuraduría Fiscal Federal de Asuntos Financieros;
 
-III. Solicitar de las unidades administrativas de la Secretaría las proposiciones de reformas a las disposiciones legales en las materias de su respectiva competencia;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+III. Solicitar de las unidades administrativas de la Secretaría las propuestas de reformas a las disposiciones legales en las materias de su respectiva competencia, así como la demás información que se requiera en materia legislativa para presentarla ante las instancias correspondientes;
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 IV. Proponer, en la materia de competencia de la Procuraduría Fiscal de la Federación, los términos de los convenios y acuerdos de coordinación fiscal con las entidades federativas y opinar sobre sus aspectos jurídicos; así como participar en los estudios que aquéllas soliciten a la Secretaría para la elaboración de los ordenamientos en materia de hacienda pública y para el establecimiento de los sistemas administrativos correspondientes;
 
-V. Establecer el criterio de la Secretaría cuando las unidades administrativas de la misma emitan opiniones contradictorias en aspectos legales; y, en relación con las consultas que éstas formulen, proponer la interpretación a efectos administrativos de las leyes y disposiciones en las materias que sean de la competencia de la propia Secretaría y los criterios generales para su aplicación, obligatorios para dichas unidades administrativas, así como darles a conocer la jurisprudencia o tesis definidas sobre asuntos de sus respectivas competencias;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+V. Proponer los criterios, interpretaciones administrativas y medidas para la correcta aplicación de las leyes y demás disposiciones de carácter general en las materias competencia de la Secretaría y de la Subprocuraduría Fiscal Federal de Legislación y Consulta, así como establecer el criterio de la Secretaría cuando las unidades administrativas de la misma emitan opiniones contradictorias en aspectos legales; y, en relación con las consultas que éstas formulen, proponer la interpretación para efectos administrativos de las leyes y disposiciones en las materias que sean de la competencia de la propia Secretaría y los criterios generales para su aplicación, obligatorios para dichas unidades administrativas, así como darles a conocer la jurisprudencia o tesis definidas sobre asuntos de sus respectivas competencias;
 
 > <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2001)</small>
 
@@ -4099,13 +4947,17 @@ XVIII. Orientar el seguimiento de las iniciativas de leyes o decretos que presen
 
 XIX. Someter para aprobación superior los convenios que se celebren por parte de la Procuraduría Fiscal de la Federación para la realización del servicio de préstamo bibliotecario;
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XX. Acordar con el Procurador Fiscal de la Federación los asuntos de su competencia, y
+XX. Designar bajo su estricta responsabilidad a los servidores públicos de la Subprocuraduría a su cargo, para efectos de dar cumplimiento al artículo 16 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, así como para dar contestación a los requerimientos de información que procedan conforme a la citada Ley;
 
-> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XXI. Resolver los asuntos relacionados con todas aquellas leyes que confieran alguna atribución a la Secretaría, en las materias que no estén expresamente asignadas por este Reglamento a otras unidades administrativas de la misma.
+XXI. Acordar con el Procurador Fiscal de la Federación los asuntos de su competencia, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXII. Resolver los asuntos relacionados con todas aquellas leyes que confieran alguna atribución a la Secretaría, en las materias que no estén expresamente asignadas por este Reglamento a otras unidades administrativas de la misma.
 
 > <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2001)</small>
 
@@ -4301,6 +5153,40 @@ XV. Atender los demás asuntos que le encomiende el Subprocurador Fiscal Federal
 
 > <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
+###### Artículo 71-C Bis.
+
+Compete a la Dirección General Adjunta de Legislación y Consulta Presupuestaria:
+
+I. Apoyar jurídicamente la participación de la Secretaría en la conducción del Sistema Nacional de Planeación Democrática, del Plan Nacional de Desarrollo y de los programas que de él deriven;
+
+II. Opinar y, en su caso, formular los anteproyectos de iniciativas de leyes o decretos; reglamentos, decretos, acuerdos, circulares y órdenes del Presidente de la República y de disposiciones de carácter general competencia de la Secretaría y de la Subprocuraduría Fiscal Federal de Legislación y Consulta en materia de programación, presupuestación y gasto público;
+
+III. De ser el caso, requerir a la instancia solicitante para que en los anteproyectos a que se refiere la fracción anterior, establezcan las relaciones que existan entre éstos y el Plan Nacional de Desarrollo y con los programas que deriven de éste;
+
+IV. Coordinar la realización de estudios, análisis e investigaciones en materia de programación, presupuestación y gasto público, incluyendo estudios comparados de las disposiciones presupuestarias de otros países, con el objeto de proponer las reformas que se consideren pertinentes;
+
+V. Auxiliar y asesorar jurídicamente a las unidades administrativas de la Secretaría en el ejercicio de sus atribuciones en materia de programación, presupuestación y gasto público;
+
+VI. Participar en la elaboración de los anteproyectos de acuerdos, tratados o convenios internacionales en las materias de su competencia, así como en el análisis y evaluación de la aplicación de tales acuerdos, tratados o convenios;
+
+VII. Proponer los criterios, interpretaciones administrativas y medidas para la correcta aplicación de las leyes y demás disposiciones de carácter general competencia de la Subprocuraduría Fiscal Federal de Legislación y Consulta en materia de programación, presupuestación y gasto público;
+
+VIII. Tramitar, con excepción de los asuntos que conforme a este Reglamento tienen asignados otras unidades administrativas, la publicación en el Diario Oficial de la Federación de las disposiciones de carácter general en las materias de programación, presupuestación y gasto público, pudiendo, en su caso, emitir opinión jurídica al respecto;
+
+IX. Emitir opiniones jurídicas en materia de su competencia;
+
+X. Atender y resolver los asuntos en materia de programación, presupuestación y gasto público que sean competencia de la Subprocuraduría Fiscal Federal de Legislación y Consulta, relativos a la Administración Pública Federal, Centralizada y Paraestatal;
+
+XI. Proponer el criterio de la Secretaría cuando las unidades administrativas de la misma emitan opiniones contradictorias en aspectos legales relativos a la materia de programación, presupuestación y gasto público;
+
+XII. Analizar y, en su caso, opinar respecto de los asuntos competencia de la Comisión Intersecretarial de Gasto Financiamiento que se agenden en las sesiones de dicha Comisión, para apoyar las funciones del Procurador Fiscal de la Federación y del Subprocurador Fiscal Federal de Legislación y Consulta, en su carácter de asesores de la misma;
+
+XIII. Acordar indistintamente con el Subprocurador Fiscal Federal de Legislación y Consulta o con el Director General de Legislación y Consulta Fiscal y Presupuestaria, los asuntos de su competencia, y
+
+XIV. Las demás atribuciones que sean necesarias para el adecuado ejercicio de lo dispuesto en las fracciones anteriores, así como atender los demás asuntos que le encomienden el Subprocurador Fiscal Federal de Legislación y Consulta y el Director General de Legislación y Consulta Fiscal y Presupuestaria.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
 ###### Artículo 71-D.
 
 Compete a la Dirección de Legislación y Consulta Presupuestaria:
@@ -4329,11 +5215,11 @@ XI. Acordar con el Director General de Legislación y Consulta Fiscal y Presupue
 
 XII. Las demás atribuciones que sean necesarias para el adecuado ejercicio de lo dispuesto en las fracciones anteriores, así como atender aquellos asuntos que le encomiende el Director General de Legislación y Consulta Fiscal y Presupuestaria.
 
-> <small>(ADICIONADO, D.O.F. 22 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 71-E.
 
-Compete a la Dirección de Legislación y Consulta de Asuntos Fiscales:
+Compete a las Direcciones de Legislación y Consulta de Asuntos Fiscales "A" y "B":
 
 I. Opinar y, en su caso, formular los anteproyectos de iniciativas de leyes o decretos; reglamentos, decretos, acuerdos y órdenes del Presidente de la República, y de disposiciones de carácter general competencia de la Secretaría y de la Subprocuraduría Fiscal Federal de Legislación y Consulta en materia fiscal;
 
@@ -4341,13 +5227,13 @@ II. Verificar que los anteproyectos a que se refiere la fracción anterior, esta
 
 III. Realizar estudios, análisis e investigaciones en materia fiscal;
 
-IV. Proponer, en la materia competencia de la Procuraduría Fiscal de la Federación, los términos de los convenios y acuerdos de coordinación fiscal con las Entidades Federativas y opinar sobre sus aspectos jurídicos; así como participar en los estudios que aquéllas soliciten a la Secretaría para la elaboración de los ordenamientos hacendarios y para el establecimiento de los sistemas administrativos correspondientes;
+IV. Proponer, en la materia competencia de la Procuraduría Fiscal de la Federación, los términos de los convenios y acuerdos de coordinación fiscal con las Entidades Federativas y opinar sobre sus aspectos jurídicos; así como participar en los estudios que aquéllas soliciten a la Secretaría para la elaboración de los ordenamientos en materia de hacienda pública y para el establecimiento de los sistemas administrativos correspondientes;
 
 V. Auxiliar y asesorar jurídicamente a las unidades administrativas de la Secretaría en el ejercicio de sus atribuciones en materia fiscal;
 
 VI. Proponer los criterios, interpretaciones administrativas y medidas para la correcta aplicación de las leyes y demás disposiciones de carácter general competencia de la Subprocuraduría Fiscal Federal de Legislación y Consulta en materia fiscal;
 
-VII. Tramitar, con excepción de los asuntos que conforme a este Reglamento tienen asignados otras unidades administrativas, la publicación en el Diario Oficial de la Federación de las disposiciones de carácter general en la materia fiscal competencia de la Secretaría, pudiendo, en su caso, emitir opinión jurídica al respecto;
+VII. Tramitar, con excepción de los asuntos que conforme a este Reglamento tienen asignados otras unidades administrativas, la publicación en el Diario Oficial de la Federación de las disposiciones de carácter general en materia fiscal competencia de la Secretaría, pudiendo, en su caso, emitir opinión jurídica al respecto;
 
 VIII. Emitir las opiniones jurídicas, los criterios, interpretaciones administrativas y medidas para la correcta aplicación de las leyes y demás disposiciones de carácter general en materia fiscal;
 
@@ -4355,25 +5241,45 @@ IX. Acordar con el Director General de Legislación y Consulta Fiscal y Presupue
 
 X. Atender los demás asuntos que le encomiende el Director General de Legislación y Consulta Fiscal y Presupuestaria.
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 71-F.
 
 Compete a la Dirección General de Apoyo Técnico:
 
-I. Opinar sobre los aspectos técnico jurídicos y administrativos relativos a los procedimientos de contratación en materia de adquisiciones, arrendamientos, enajenación, donación y prestación de servicios relacionados con bienes muebles y obras públicas, en aquellos casos en los que se requiera la autorización del Secretario, del Procurador Fiscal de la Federación o, en su caso, se trate de procesos relativos a la adquisición de bienes o prestación de servicios que deba administrar la Dirección de Técnica Operativa de la Procuraduría Fiscal de la Federación;
+I. Opinar sobre los aspectos técnico jurídicos y administrativos relativos a los procedimientos de contratación en materia de adquisiciones, arrendamientos, enajenación, donación y prestación de servicios relacionados con bienes muebles y obras públicas, en aquellos casos en los que se requiera la autorización del Secretario, del Procurador Fiscal de la Federación o, en su caso, se trate de procesos relativos a la adquisición de bienes o prestación de servicios que deba administrar la unidad competente de la Procuraduría Fiscal de la Federación;
 
-II. Apoyar a la Subprocuraduría Fiscal Federal de Legislación y Consulta, en su carácter de asesor jurídico, en los Comités de Adquisiciones, Arrendamientos y Servicios de Obras Públicas y Servicios Relacionados con las Mismas y demás órganos colegiados de la Secretaría en los que sea designado para tal efecto, analizando y, en su caso, emitiendo observaciones respecto de los asuntos que se agenden en las sesiones de dichos Comités y órganos colegiados;
+II. Apoyar a la Subprocuraduría Fiscal Federal de Legislación y Consulta, en su carácter de asesor jurídico, en los Comités de Adquisiciones, Arrendamientos y Servicios, y de Obras Públicas y Servicios Relacionados con las Mismas; así como en los demás órganos colegiados de la Secretaría en los que su titular sea designado para tal efecto, analizando y, en su caso, emitiendo observaciones respecto de los asuntos que se agenden en las sesiones de dichos Comités y órganos colegiados;
 
 III. Emitir opinión, en el ámbito de su competencia, respecto de los proyectos de decretos presidenciales, en materia de expropiación, y de desincorporación y enajenación de bienes inmuebles que formen parte del patrimonio federal;
 
 IV. Opinar y, en su caso, proponer los proyectos de iniciativas de leyes o decretos; reglamentos, decretos, acuerdos y órdenes del Presidente de la República, y de disposiciones de carácter general competencia de la Secretaría en materia de bienes nacionales, adquisiciones y obras públicas;
 
-V. Emitir opinión, en el ámbito de su competencia, respecto de los proyectos de decretos presidenciales, en materia de expropiación, y de desincorporación y enajenación de bienes inmuebles que formen parte del patrimonio federal;
+V. Apoyar a las unidades administrativas de la Subprocuraduría Fiscal Federal de Legislación y Consulta en el seguimiento de los proyectos de iniciativas de ley o decreto sobre los que hayan emitido opinión;
 
-VI. Apoyar a las unidades administrativas de la Subprocuraduría Fiscal Federal de Legislación y Consulta en el seguimiento de los proyectos de iniciativas de ley o decreto sobre los que hayan emitido opinión, y
+VI. Realizar el seguimiento y control de los asuntos que sean turnados a la Subprocuraduría Fiscal Federal de Legislación y Consulta, así como llevar y mantener actualizado un banco de datos con la información relacionada con los expedientes que sean competencia de la mencionada Subprocuraduría;
 
-VII. Atender los demás asuntos que le encomiende el Subprocurador Fiscal Federal de Legislación y Consulta.
+VII. Supervisar el cumplimiento de los programas de actividades, estrategias y metas de operación de las áreas adscritas a la Subprocuraduría Fiscal Federal de Legislación y Consulta;
+
+VIII. Formular, para aprobación superior, indicadores de gestión que permitan determinar el nivel de productividad, cumplimiento de políticas y obtención de resultados de las áreas adscritas a la Subprocuraduría Fiscal Federal de Legislación y Consulta en coordinación con éstas, proporcionando información oportuna y relevante para apoyar la toma de decisiones;
+
+IX. Establecer los estándares mínimos de calidad en el servicio que deban cumplir las áreas adscritas a la Subprocuraduría Fiscal Federal de Legislación y Consulta y vigilar su aplicación, así como establecer otros mecanismos que permitan eficientar el desarrollo de las actividades encomendadas a las áreas señaladas;
+
+X. Formular estudios sobre experiencias exitosas, a nivel nacional o internacional, en materia de control y evaluación, y de desarrollo y modernización administrativa;
+
+XI. Revisar, analizar y proponer la actualización de los sistemas y mecanismos internos para el mejor desempeño de las atribuciones de la Subprocuraduría Fiscal Federal de Legislación y Consulta;
+
+XII. Procurar el establecimiento de criterios de calidad total a efecto de propiciar la mejora continua del servicio;
+
+XIII. Vigilar y supervisar que las áreas adscritas a la Subprocuraduría Fiscal Federal de Legislación y Consulta cumplan debida y oportunamente con las observaciones y recomendaciones derivadas de actos de fiscalización practicados por los órganos revisores competentes, y fungir como enlace, en su caso, para atender las solicitudes de información que formulen dichos órganos;
+
+XIV. Tramitar, con excepción de los asuntos que conforme a este Reglamento tienen asignados otras unidades administrativas, la publicación en el Diario Oficial de la Federación de las disposiciones de carácter general en la materia competencia de la Subprocuraduría Fiscal Federal de Legislación y Consulta, pudiendo, en su caso, emitir opinión jurídica al respecto;
+
+XV. Las demás atribuciones que sean necesarias para el adecuado ejercicio de las funciones señaladas en las fracciones anteriores;
+
+XVI. Acordar con el Subprocurador Fiscal Federal de Legislación y Consulta los asuntos de su competencia, y
+
+XVII. Atender los demás asuntos que le encomiende el Subprocurador Fiscal Federal de Legislación y Consulta.
 
 > <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -4381,9 +5287,13 @@ VII. Atender los demás asuntos que le encomiende el Subprocurador Fiscal Federa
 
 Compete a la Dirección de Apoyo Técnico:
 
-I. Apoyar jurídicamente en la emisión de opiniones sobre los aspectos técnico jurídicos y administrativos relativos a los procedimientos de contratación en materia de adquisiciones, arrendamientos, enajenación, donación y prestación de servicios relacionados con bienes muebles y obras públicas, en aquellos casos en los que se requiera la autorización del Secretario, del Procurador Fiscal de la Federación o, en su caso, se trate de procesos relativos a la adquisición de bienes o prestación de servicios que deba administrar la Dirección de Técnica Operativa de la Procuraduría Fiscal de la Federación;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-II. Apoyar a la Subprocuraduría Fiscal Federal de Legislación y Consulta, en su carácter de asesor jurídico, en los Comités de Adquisiciones, Arrendamientos y Servicios de Obras Públicas y Servicios Relacionados con las Mismas y demás órganos colegiados de la Secretaría en los que sea designado para tal efecto, analizando y, en su caso, emitiendo observaciones respecto de los asuntos que se agenden en las sesiones de dichos Comités y órganos colegiados;
+I. Apoyar jurídicamente en la emisión de opiniones sobre los aspectos técnico I. Apoyar jurídicamente en la emisión de opiniones sobre los aspectos técnico jurídicos y administrativos relativos a los procedimientos de contratación en materia de adquisiciones, arrendamientos, enajenación, donación y prestación de servicios relacionados con bienes muebles y obras públicas, en aquellos casos en los que se requiera la autorización del Secretario, del Procurador Fiscal de la Federación o, en su caso, se trate de procesos relativos a la adquisición de bienes o prestación de servicios que deba administrar la unidad competente de la Procuraduría Fiscal de la Federación;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+II. Apoyar a la Subprocuraduría Fiscal Federal de Legislación y Consulta, en su carácter de asesor jurídico, en los Comités de Adquisiciones, Arrendamientos y Servicios, y de Obras Públicas y Servicios Relacionados con las Mismas; así como en los demás órganos colegiados de la Secretaría en los que sea designado para tal efecto, analizando y, en su caso, emitiendo observaciones respecto de los asuntos que se agenden en las sesiones de dichos Comités y órganos colegiados;
 
 III. Coadyuvar con la Dirección General de Apoyo Técnico en la emisión de opiniones, respecto de los proyectos de decretos presidenciales, en materia de expropiación, y de desincorporación y enajenación de bienes inmuebles que formen parte del patrimonio federal;
 
@@ -4395,19 +5305,19 @@ VI. Apoyar a las unidades administrativas de la Subprocuraduría Fiscal Federal 
 
 VII. Atender los demás asuntos que le encomiende el Director General de Apoyo Técnico.
 
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 71-H.
 
-Compete a la Dirección General Adjunta de Evaluación y Control de Legislación y Consulta:
+Compete a la Dirección de Evaluación y Control de Legislación y Consulta:
 
 I. Realizar el seguimiento y control de los asuntos que sean turnados a la Subprocuraduría Fiscal Federal de Legislación y Consulta, así como llevar y mantener actualizado un banco de datos con la información relacionada con los expedientes que sean competencia de la mencionada Subprocuraduría;
 
-II. Supervisar el cumplimiento de los programas de actividades, estrategias y metas de operación de las Areas adscritas a la Subprocuraduría Fiscal Federal de Legislación y Consulta;
+II. Supervisar el cumplimiento de los programas de actividades, estrategias y metas de operación de las áreas adscritas a la Subprocuraduría Fiscal Federal de Legislación y Consulta;
 
-III. Formular, para aprobación superior, indicadores de gestión que permitan determinar el nivel de productividad, cumplimiento de políticas y obtención de resultados de las Areas adscritas a la Subprocuraduría Fiscal Federal de Legislación y Consulta en coordinación con éstas, proporcionando información oportuna y relevante para apoyar la toma de decisiones;
+III. Formular, para aprobación superior, indicadores de gestión que permitan determinar el nivel de productividad, cumplimiento de políticas y obtención de resultados de las áreas adscritas a la Subprocuraduría Fiscal Federal de Legislación y Consulta en coordinación con éstas, proporcionando información oportuna y relevante para apoyar la toma de decisiones;
 
-IV. Establecer los estándares mínimos de calidad en el servicio que deban cumplir las Areas adscritas a la Subprocuraduría Fiscal Federal de Legislación y Consulta y vigilar su aplicación, así como establecer otros mecanismos que permitan eficientar el desarrollo de las actividades encomendadas a las Areas señaladas;
+IV. Establecer los estándares mínimos de calidad en el servicio que deban cumplir las áreas adscritas a la Subprocuraduría Fiscal Federal de Legislación y Consulta y vigilar su aplicación, así como establecer otros mecanismos que permitan eficientar el desarrollo de las actividades encomendadas a las áreas señaladas;
 
 V. Formular estudios sobre experiencias exitosas, a nivel nacional o internacional, en materia de control y evaluación, y de desarrollo y modernización administrativa;
 
@@ -4415,63 +5325,23 @@ VI. Revisar, analizar y proponer la actualización de los sistemas y mecanismos 
 
 VII. Procurar el establecimiento de criterios de calidad total a efecto de propiciar la mejora continua del servicio;
 
-VIII. Vigilar y supervisar que las Areas adscritas a la Subprocuraduría Fiscal Federal de Legislación y Consulta cumplan debida y oportunamente con las observaciones y recomendaciones derivadas de actos de fiscalización practicados por los órganos revisores competentes, y fungir como enlace, en su caso, para atender las solicitudes de información que formulen dichos órganos;
+VIII. Vigilar y supervisar que las áreas adscritas a la Subprocuraduría Fiscal Federal de Legislación y Consulta cumplan debida y oportunamente con las observaciones y recomendaciones derivadas de actos de fiscalización practicados por los órganos revisores competentes, y fungir como enlace, en su caso, para atender las solicitudes de información que formulen dichos órganos;
 
 IX. Expedir certificaciones de los expedientes relativos a los asuntos de su competencia;
 
 X. Tramitar, con excepción de los asuntos que conforme a este Reglamento tienen asignados otras unidades administrativas, la publicación en el Diario Oficial de la Federación de las disposiciones de carácter general en la materia competencia de la Subprocuraduría Fiscal Federal de Legislación y Consulta, pudiendo, en su caso, emitir opinión jurídica al respecto;
 
-XI. Las demás atribuciones que sean necesarias para el adecuado ejercicio de las funciones señaladas con anterioridad;
+XI. Las demás atribuciones que sean necesarias para el adecuado ejercicio de las funciones señaladas en las fracciones anteriores, y
 
-XII. Realizar los demás actos o actividades que le sean encomendados en forma expresa por el Subprocurador Fiscal Federal de Legislación y Consulta, y
-
-XIII. Acordar con el Subprocurador Fiscal Federal de Legislación y Consulta los asuntos de su competencia.
-
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+XII. Acordar con el Director General de Apoyo Técnico los asuntos de su competencia.
 
 ###### Artículo 71-I.
 
-Compete a la Dirección de Evaluación de Legislación y Consulta:
-
-I. Formular los indicadores de gestión que permitan determinar el nivel de productividad, cumplimiento de políticas y obtención de resultados de las Areas adscritas a la Subprocuraduría Fiscal Federal de Legislación y Consulta en coordinación con éstas, proporcionando información oportuna y relevante para apoyar la toma de decisiones;
-
-II. Realizar estudios sobre experiencias exitosas, a nivel nacional o internacional, en materia de evaluación, de desarrollo y modernización administrativa;
-
-III. Revisar, analizar y proponer la actualización de los sistemas y mecanismos internos para el mejor desempeño de las atribuciones de la Subprocuraduría Fiscal Federal de Legislación y Consulta;
-
-IV. Procurar el establecimiento de criterios de calidad total a efecto de propiciar la mejora continua del servicio, para lo cual propondrá las medidas correspondientes a la Dirección de Control de Legislación y Consulta;
-
-V. Expedir certificaciones de los expedientes relativos a los asuntos de su competencia;
-
-VI. Las demás atribuciones que sean necesarias para el adecuado ejercicio de las funciones señaladas con anterioridad;
-
-VII. Realizar los demás actos o actividades que le sean turnados por el Director General Adjunto de Evaluación y Control de Legislación y Consulta, y
-
-VIII. Acordar con el Director General Adjunto de Evaluación y Control de Legislación y Consulta los asuntos de su competencia.
-
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 ###### Artículo 71-J.
 
-Compete a la Dirección de Control de Legislación y Consulta:
-
-I. Dar el seguimiento y control de los asuntos que sean turnados a la Subprocuraduría Fiscal Federal de Legislación y Consulta, así como llevar y mantener actualizado un banco de datos con la información relacionada con los expedientes que sean competencia de la mencionada Subprocuraduría;
-
-II. Supervisar el cumplimiento de los programas de actividades, estrategias y metas de operación de las Areas adscritas a la Subprocuraduría Fiscal Federal de Legislación y Consulta, para su posterior turno a la Dirección de Evaluación de Legislación y Consulta;
-
-III. Establecer los estándares mínimos de calidad en el servicio que deban cumplir las Areas adscritas a la Subprocuraduría Fiscal Federal de Legislación y Consulta y vigilar su aplicación, así como establecer otros mecanismos que permitan eficientar el desarrollo de las actividades encomendadas a las Areas señaladas, con base en los resultados, que en su caso, proporcione la Dirección de Evaluación de Legislación y Consulta;
-
-IV. Formular estudios sobre experiencias exitosas, a nivel nacional o internacional, en materia de control, de desarrollo y modernización administrativa;
-
-V. Vigilar y supervisar que las Areas adscritas a la Subprocuraduría Fiscal Federal de Legislación y Consulta cumplan debida y oportunamente con las observaciones y recomendaciones derivadas de actos de fiscalización practicados por los órganos revisores competentes, y fungir como enlace, en su caso, para atender las solicitudes de información que formulen dichos órganos;
-
-VI. Expedir certificaciones de los expedientes relativos a los asuntos de su competencia;
-
-VII. Las demás atribuciones que sean necesarias para el adecuado ejercicio de las funciones señaladas con anterioridad;
-
-VIII. Realizar los demás actos o actividades que le sean turnados por el Director General Adjunto de Evaluación y Control de Legislación y Consulta, y
-
-IX. Acordar con el Director General Adjunto de Evaluación y Control de Legislación y Consulta los asuntos de su competencia.
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 > <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 1998)</small>
 
@@ -4549,7 +5419,9 @@ XX. Llevar la instrucción de los procedimientos en que deba intervenir la Secre
 
 XXI. Representar al Secretario ante el Tribunal Federal de Justicia Fiscal y Administrativa, en los juicios que se interpongan en contra de las resoluciones que se dicten en los términos de las fracciones anteriores;
 
-XXII. (DEROGADA, D.O.F. 17 DE JUNIO DE 2003)
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XXII. Designar bajo su estricta responsabilidad a los servidores públicos de la Subprocuraduría a su cargo, para efectos de dar cumplimiento al artículo 16 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, así como para dar contestación a los requerimientos de información que procedan conforme a la citada Ley;
 
 XXIII. (DEROGADA, D.O.F. 22 DE MARZO DE 2001)
 
@@ -5083,7 +5955,9 @@ IV. Supervisar que el desarrollo de las actividades realizadas por las áreas ad
 
 V. Proponer medidas, en la materia de su competencia, para la coordinación en asuntos jurídicos con las unidades administrativas de la Secretaría, con las entidades del sector paraestatal coordinado por la misma y con las autoridades fiscales de las entidades federativas coordinadas;
 
-VI. Intervenir en la obtención, análisis y estudio de la información y documentación que se solicite por parte de las autoridades competentes;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VI. Intervenir en la obtención, análisis y estudio de la información y documentación que se solicite por parte de las autoridades competentes, así como por las unidades administrativas de la Procuraduría Fiscal de la Federación que operen el control de registro digitalizado de documentos;
 
 VII. Establecer directrices para un banco de datos con la información relacionada con los expedientes y procedimientos que sean competencia de la Subprocuraduría Fiscal Federal de Amparos;
 
@@ -5095,13 +5969,23 @@ X. Establecer los estándares mínimos de calidad en el servicio que deban cumpl
 
 XI. Formular estudios en materia de control y evaluación, y de desarrollo y modernización administrativa, con el objeto de eficientar las funciones de la Subprocuraduría Fiscal Federal de Amparos;
 
-XII. Analizar y evaluar la actualización de los sistemas y mecanismos internos para el mejor desempeño de las atribuciones de la Subprocuraduría Fiscal Federal de Amparos;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XIII. Vigilar y supervisar que las áreas adscritas a la Subprocuraduría Fiscal Federal de Amparos cumplan debida y oportunamente con las observaciones y recomendaciones derivadas de actos de fiscalización practicados por los órganos revisores competentes, y fungir como enlace, en su caso, para atender las solicitudes de información que formulen dichos órganos;
+XII. Analizar y evaluar la actualización del control de registro digitalizado de documentos para el mejor desempeño de las atribuciones de la Subprocuraduría Fiscal Federal de Amparos y de las demás unidades administrativas de la Procuraduría Fiscal de la Federación;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIII. Vigilar y supervisar que las áreas adscritas a la Subprocuraduría Fiscal Federal de Amparos cumplan debida y oportunamente con las observaciones y recomendaciones derivadas de actos de fiscalización practicados por los órganos revisores competentes, y fungir como enlace para atender las solicitudes de información que dichos órganos formulen a las demás unidades administrativas de la Procuraduría Fiscal de la Federación, tratándose de la información relativa al control de registro digitalizado de documentos, disponiendo, en su caso, de la información respectiva;
 
 XIV. Coordinar la elaboración de los informes programático presupuestales y estadísticos que deban rendirse periódicamente ante las diferentes autoridades competentes, y
 
-XV. Acordar con el Subprocurador Fiscal Federal de Amparos los asuntos de su competencia.
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XV. Acordar con el Subprocurador Fiscal Federal de Amparos los asuntos de su competencia y analizar y atender los aspectos técnicos relacionados con el sistema electrónico de control de registro digitalizado de documentos que soliciten las unidades administrativas de la Procuraduría Fiscal de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+El Director General Adjunto de Evaluación y Control Procedimental de Amparos será asistido por los Directores de Evaluación; de Control, y de Registro Procedimental. Así mismo podrá auxiliarse de la Coordinación General de Tecnologías de la Información y Comunicaciones.
 
 > <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
 
@@ -5143,9 +6027,17 @@ XVI. Coadyuvar, dentro del ámbito de su competencia, con las instancias compete
 
 XVII. Emitir opinión jurídica en asuntos relacionados con las disposiciones legales que rigen la materia financiera y de crédito público, siempre y cuando no formen parte de las facultades indelegables del Secretario y no estén asignadas expresamente a otra unidad administrativa de la Secretaría;
 
-XVIII. Participar, por designación del Procurador Fiscal de la Federación, en los órganos de gobierno, comités o comisiones de los órganos desconcentrados y organismos descentralizados de la Administración Pública Federal en los que aquél sea parte, y en los comités, comisiones, consejos y otras entidades análogas en las que participe la Procuraduría Fiscal de la Federación, así como designar, cuando proceda, a sus propios suplentes y apoyar al Procurador Fiscal de la Federación con la información legal que se requiera para su participación en dichas entidades, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XIX. Acordar con el Procurador Fiscal de la Federación los asuntos de su competencia.
+XVIII. Participar, por designación del Procurador Fiscal de la Federación, en los órganos de gobierno, comités o comisiones de los órganos desconcentrados y organismos descentralizados de la Administración Pública Federal en los que aquél sea parte, y en los comités, comisiones, consejos y otras entidades análogas en las que participe la Procuraduría Fiscal de la Federación, así como designar, cuando proceda, a sus propios suplentes y apoyar al Procurador Fiscal de la Federación con la información legal que se requiera para su participación en dichas entidades;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XIX. Designar bajo su estricta responsabilidad a los servidores públicos de la Subprocuraduría a su cargo, para efectos de dar cumplimiento al artículo 16 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, así como para dar contestación a los requerimientos de información que procedan conforme a la citada Ley, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+XX. Acordar con el Procurador Fiscal de la Federación los asuntos de su competencia.
 
 El Subprocurador Fiscal Federal de Asuntos Financieros, será asistido por el Director General de Asuntos Financieros "A", el Director General de Asuntos Financieros "B", el Director General Adjunto de Evaluación y Control de Asuntos Financieros, por los Directores, Subdirectores y Jefes de Departamento; así como por los abogados de la hacienda pública y demás personal que las necesidades del servicio requieran.
 
@@ -5205,7 +6097,7 @@ II. Auxiliar en la formulación de la documentación relativa a los proyectos de
 
 III. Participar, en colaboración con las unidades administrativas, órganos desconcentrados, entidades paraestatales sectorizadas de la Secretaría y demás autoridades del sistema financiero, en la elaboración de las proposiciones de reformas, adiciones, derogaciones y abrogaciones a las disposiciones legales aplicables a las materias señaladas en la fracción I de este artículo y coadyuvar con dichas unidades, órganos y entidades, la elaboración y presentación de las citadas propuestas ante las instancias correspondientes;
 
-IV. Llevar a cabo los estudios para verificar que los proyectos de iniciativas de leyes o decretos y los proyectos de reglamentos, decretos, acuerdos y disposiciones de carActer general en las materias señaladas en la fracción I de este artículo, guarden congruencia entre sí, así como con el Plan Nacional de Desarrollo y los programas que deriven de éste y, en su caso, proponer las modificaciones que resulten procedentes a los citados proyectos, en términos de esta fracción;
+IV. Llevar a cabo los estudios para verificar que los proyectos de iniciativas de leyes o decretos y los proyectos de reglamentos, decretos, acuerdos y disposiciones de carácter general en las materias señaladas en la fracción I de este artículo, guarden congruencia entre sí, así como con el Plan Nacional de Desarrollo y los programas que deriven de éste y, en su caso, proponer las modificaciones que resulten procedentes a los citados proyectos, en términos de esta fracción;
 
 V. Realizar estudios comparados de los sistemas jurídicos y administrativos de otros países, en las materias de su competencia, con la finalidad de proponer las reformas que se consideren pertinentes;
 
@@ -5295,17 +6187,17 @@ Compete a la Subprocuraduría Fiscal Federal de Investigaciones:
 
 I. Investigar la comisión de delitos fiscales, de aquellos en que incurran servidores públicos de la Secretaría en el desempeño de sus funciones y de los que se cometan en perjuicio de la misma o de los que tenga conocimiento;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-II. Denunciar, querellarse, presentar las declaratorias de que el Fisco Federal ha sufrido o pudo haber sufrido perjuicio respecto de delitos de defraudación fiscal y sus equiparables, contrabando y sus equiparables y demás delitos fiscales; los cometidos por servidores públicos de la Secretaría en ejercicio de sus funciones; de otros hechos delictuosos que sean competencia de la Secretaría; así como formular las abstenciones cuando exista impedimento legal o material para ello y proponer la petición de sobreseimiento del proceso; así como otorgar el perdón en los casos en que proceda, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento;
+II. Denunciar, querellarse, presentar las declaratorias de que el Fisco Federal ha sufrido o pudo haber sufrido perjuicio respecto de delitos de defraudación fiscal y sus equiparables, contrabando y sus equiparables y demás delitos fiscales; los cometidos por servidores públicos de la Secretaría en ejercicio de sus funciones; de otros hechos delictuosos que sean competencia de la Secretaría; así como formular las abstenciones cuando exista impedimento legal o material para ello y, con base en el dictamen favorable que al efecto elabore la unidad a su cargo, proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos en que así proceda, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-III. Denunciar o querellarse ante el Ministerio Público competente de los hechos delictuosos en que la Secretaría resulte ofendida, de aquellos de que tenga conocimiento o interés, así como formular las abstenciones cuando exista impedimento legal o material para ello y proponer la petición de sobreseimiento del proceso; así como otorgar el perdón en los casos que proceda, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento;
+III. Denunciar o querellarse ante el Ministerio Público competente de los hechos delictuosos en que la Secretaría resulte ofendida, de aquellos de que tenga conocimiento o interés, así como formular las abstenciones cuando exista impedimento legal o material para ello y, con base en el dictamen favorable que al efecto elabore la unidad a su cargo, proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos en que así proceda, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento;
 
-> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-IV. Formular y presentar las peticiones, así como denunciar o querellarse por la comisión de los delitos previstos en las leyes que rigen a las instituciones de crédito, de seguros y de fianzas, a las organizaciones y actividades auxiliares del crédito, al mercado de valores y al sistema de ahorro para el retiro, y demás instituciones que integren el sistema financiero; así como formular las abstenciones cuando exista impedimento legal o material para ello y proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos que proceda;
+IV. Formular y presentar las peticiones, así como denunciar o querellarse, en la materias que no estén expresamente asignadas por este Reglamento a otras unidades administrativas de la Secretaría, por la comisión de los delitos previstos en las leyes que rigen a las instituciones de crédito, de seguros y de fianzas, a las organizaciones y actividades auxiliares del crédito, al mercado de valores y al sistema de ahorro para el retiro, y demás instituciones que integren el sistema financiero; así como formular las abstenciones cuando exista impedimento legal o material para ello y, con base en el dictamen favorable que al efecto elabore la unidad a su cargo, proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos en que así proceda, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento;
 
 > <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
 
@@ -5367,33 +6259,21 @@ XXI. Instrumentar acciones para el intercambio de conocimientos técnicos con lo
 
 XXII. Fungir como enlace entre la Secretaría y las diversas dependencias y entidades del Ejecutivo Federal o unidades de los organismos internacionales, en los asuntos de su competencia;
 
-> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2001)</small>
+XXIII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-XXIII. Denunciar o querellarse ante el Ministerio Público, por la comisión de las conductas ilícitas previstas en el artículo 400 Bis del Código Penal Federal y demás disposiciones relacionadas con operaciones con dinero o bienes de actividades ilícitas o en las que sea necesario que la Secretaría presente denuncia, querella o petición para proceder penalmente, una vez que la unidad administrativa competente de la Secretaría le haya remitido las pruebas, constancias y demás documentación que sean necesarias para su formulación, así como coadyuvar con las autoridades competentes, en representación de la Secretaría, en los procedimientos penales de que se trate;
+XXIV. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XXV. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-XXIV. Ordenar y practicar, en relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleve a cabo en el ámbito de su competencia, las visitas domiciliarias, auditorías, verificaciones de origen, inspecciones, actos de vigilancia, verificaciones, reconocimiento aduanero de las mercancías de comercio exterior y los demás actos que establezcan las disposiciones fiscales y aduaneras, para comprobar el cumplimiento de las obligaciones de los contribuyentes, importadores, exportadores, responsables solidarios, terceros relacionados con los contribuyentes y demás obligados en materia de impuestos, incluyendo los que se causen por la entrada al territorio nacional o salida del mismo de mercancías y medios de transporte, derechos, contribuciones de mejoras, cuotas compensatorias, aprovechamientos, estímulos fiscales, franquicias y accesorios de carácter federal, compensaciones efectuadas y saldos a favor determinados por el contribuyente, cuentas aduaneras y pagos en parcialidades no autorizados, o sin tener derecho a ello; así como para recabar de los servidores públicos, fedatarios y personas autorizadas por la Secretaría que sean terceros relacionados con los contribuyentes, los informes y datos que tengan con motivo de sus funciones; y en materia de determinación de la base de los impuestos generales de importación o exportación, verificar y, en su caso, determinar la correcta clasificación arancelaria de las mercancías de procedencia extranjera, el valor en aduana de las mercancías de importación u otra base gravable que se establezca en las leyes, el valor comercial de las mercancías de exportación, así como comprobar de conformidad con los acuerdos, convenios o tratados en materia fiscal o aduanera de los que México sea parte, el cumplimiento de obligaciones a cargo de importadores y exportadores; revisar el empleo de tuberías, ductos, cables u otros medios susceptibles de conducir mercancías de importación y exportación autorizados o que requieran autorización por autoridad competente; verificar tanto la existencia de los documentos que acrediten la legal estancia y tenencia de las mercancías de comercio exterior, vehículos, aeronaves y embarcaciones de procedencia extranjera, el cumplimiento de las obligaciones en materia de regulaciones y restricciones no arancelarias, normas oficiales mexicanas, cumplimiento de las reglas de origen contenidas en los tratados internacionales; practicar y notificar el embargo precautorio de aquellas mercancías respecto de las cuales no se acredite su legal introducción al país e inicio del procedimiento administrativo en materia aduanera; habilitar almacenes como recintos fiscales para uso de la autoridad fiscal y aduanera; revisar y determinar los precios o montos de contraprestaciones en operaciones con partes relacionadas, y valor declarado en partes vinculadas y resolver los problemas de interpretación y aplicación que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando, entre otros, los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas; imponer multas por el incumplimiento o cumplimiento extemporáneo, total o parcial, a los requerimientos que formule en los términos de esta fracción; inspeccionar los recintos fiscales y fiscalizados así como ejercer sus facultades de comprobación en recintos fiscalizados; prorrogar los plazos en que se deban concluir las visitas domiciliarias;
+XXVI. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-XXV. Requerir, en relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleve a cabo en el ámbito de su competencia, a los contribuyentes, importadores, exportadores, responsables solidarios o terceros con ellos relacionados, o a contadores públicos autorizados que hayan formulado dictámenes o declaratorias para efectos fiscales, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos, otros documentos, instrumentos e informes, y en el caso de dichos contadores, también para que exhiban sus papeles de trabajo, así como recabar de los servidores públicos, fedatarios y personas autorizadas por la Secretaría que sean terceros relacionados con los contribuyentes, los informes y datos que tengan con motivo de sus funciones, todo ello para proceder a su revisión, a fin de comprobar el cumplimiento de las disposiciones legales en las materias señaladas en la fracción XXIV de este artículo; imponer multas por el incumplimiento o cumplimiento extemporáneo, total o parcial, a los requerimientos que formule en los términos de esta fracción; así como autorizar o negar prórrogas para su presentación. Tratándose de las revisiones previstas en esta fracción, emitir los oficios de observaciones, el de conclusión de la revisión, y en su caso el de prórroga del plazo para concluir la revisión;
-
-> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2001)</small>
-
-XXVI. Allegarse y solicitar toda la información y documentación que sea necesaria para efectos de lo previsto en la fracción XXIII de este artículo cuando, con motivo de los actos de fiscalización que practique, detecte actos u operaciones con recursos, derechos o bienes respecto de los cuales se presuma que procedan o representen el producto de un probable delito, así como requerir a las autoridades o unidades administrativas competentes los reportes de operaciones sospechosas y relevantes, y las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera, que se relacionen con los respectivos actos de fiscalización;
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-XXVII. Solicitar a las autoridades competentes del Servicio de Administración Tributaria el apoyo que estime necesario para la práctica de los actos de fiscalización que lleve a cabo; solicitar en cualquier momento a las autoridades fiscales y aduaneras que tengan competencia, la continuación hasta su conclusión, de los actos de fiscalización que hubiere ordenado y de los procedimientos administrativos en materia aduanera que hubiere iniciado, así como la determinación, notificación y cobro de los créditos fiscales que resulten de los mismos y demás actos que sean necesarios para hacerlos efectivos; informarles sobre las irregularidades detectadas en el ejercicio de sus facultades de comprobación respecto de la actuación de contadores públicos registrados, agentes y apoderados aduanales por no cumplir con las disposiciones fiscales y aduaneras, para que las autoridades competentes determinen la suspensión o cancelación del registro de dicho contador público, lo exhorten o amonesten, así como para que suspendan o cancelen la patente aduanal o la autorización del apoderado aduanal, aportándoles los elementos necesarios para que dichas autoridades ejerzan sus facultades;
+XXVII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 > <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
 
 XXVIII. Llevar y mantener actualizado un banco de datos con la información obtenida en el ejercicio de sus funciones, sobre la cual se mantendrá absoluta reserva, salvo que dicha información deba suministrarse a las autoridades competentes;
 
-> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2002)</small>
-
-XXIX. Elaborar el dictamen técnico contable y la cuantificación del perjuicio ocasionado al fisco federal; designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia; establecer la naturaleza, estado, origen, y demás características de las mercancías de comercio exterior, así como determinar su clasificación arancelaria y solicitar el dictamen que se requiera al agente o apoderado aduanal, al dictaminador aduanero o a cualquier otro perito para ejercer las facultades a que se refiere esta fracción; determinar conforme a la Ley Aduanera el valor en aduana de las mercancías de importación u otra base gravable que se establezca en otras leyes, y el valor comercial de las mercancías de exportación;
+XXIX. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 > <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
 
@@ -5439,73 +6319,43 @@ XXXIX. Supervisar la realización de las acciones que sean necesarias para la ca
 
 XL. Dirigir y coordinar los programas de trabajo y las actividades que desempeñen las Direcciones Regionales de la Procuraduría Fiscal de la Federación y supervisar su correcto funcionamiento;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XLI. Investigar el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, pudiendo allegarse y requerir toda la información y documentación necesaria para su investigación; solicitar de los contribuyentes, importadores, exportadores, responsables solidarios o terceros con ellos relacionados, datos, informes o documentos, para planear y programar actos de fiscalización en materia fiscal y aduanera; recabar de los servidores públicos, fedatarios y personas autorizadas por la Secretaría que sean terceros relacionados con los contribuyentes, los informes y datos que tengan con motivo de sus funciones, así como ejercer sus facultades para comprobar el cumplimiento de las obligaciones fiscales y aduaneras; allegarse de las pruebas necesarias para que la Secretaría formule la denuncia, querella o declaratoria al Ministerio Público, e intercambiar información con otras autoridades fiscales;
+XLI. Designar bajo su estricta responsabilidad a los servidores públicos de la Subprocuraduría a su cargo, para efectos de dar cumplimiento al artículo 16 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, así como para dar contestación a los requerimientos de información que procedan conforme a la citada Ley, y
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-XLII. Requerir, recibir y revisar, en relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleve a cabo en el ámbito de su competencia, que los dictámenes formulados por contador público registrado sobre los estados financieros relacionados con las obligaciones fiscales de los contribuyentes, y respecto de operaciones de enajenación de acciones, así como la declaratoria que emitan para solicitudes de devolución de saldos a favor del impuesto al valor agregado o de cualquier otro tipo de dictamen o declaratoria que tenga repercusión para efectos fiscales, reúnan los requisitos establecidos en las disposiciones fiscales y comprobar el cumplimiento de las disposiciones fiscales y aduaneras de los contribuyentes relativas a impuestos, derechos, contribuciones de mejoras, cuotas compensatorias, aprovechamientos, estímulos fiscales, franquicias, accesorios federales y la actuación profesional del contador público; requerir, recibir, y revisar que los dictámenes de residentes en el extranjero que tengan establecimiento permanente o base fija en el país y los relativos a la enajenación de acciones que lleven a cabo residentes en el extranjero, de conformidad con el título V de la Ley del Impuesto sobre la Renta, incluyendo el requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados o a contadores públicos autorizados que hayan formulado esta clase de dictámenes para que exhiban sus papeles de trabajo y reúnan los requisitos establecidos en las disposiciones fiscales y comprobar el cumplimiento de las disposiciones fiscales y aduaneras relativas a impuestos, derechos, contribuciones de mejoras, cuotas compensatorias, aprovechamientos, estímulos fiscales, franquicias, accesorios federales y la actuación profesional del contador público; así como para determinar los precios o montos de contraprestaciones en operaciones con partes relacionadas, y valor declarado en partes vinculadas y resolver los problemas de interpretación y aplicación que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando, entre otros, los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas; imponer multas por el incumplimiento o cumplimiento extemporáneo, total o parcial, a los requerimientos que formule en los términos de esta fracción; autorizar o negar prórrogas para la presentación de lo requerido;
+XLII. Acordar con el Procurador Fiscal de la Federación los asuntos de su competencia.
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XLIII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-XLIII. Notificar los actos relacionados con el ejercicio de sus facultades de comprobación, las multas que correspondan a requerimientos no atendidos así como los atendidos en forma extemporánea, total o parcialmente, y otras multas que imponga, y remitir los créditos fiscales a la unidad administrativa competente del Servicio de Administración Tributaria para su control y cobro;
+XLIV. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XLV. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-XLIV. Expedir las constancias de identificación del personal a su cargo y del personal de las unidades administrativas que tenga adscritas, así como designarlos y habilitarlos para la práctica de los actos de fiscalización, notificaciones, diligencias, peritajes u otros actos, previstos en este artículo;
+XLVI. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(ADICIONADA, D.O.F. 31 DE JULIO DE 2002)</small>
+XLVII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-XLV. Habilitar días y horas inhábiles para la práctica de diligencias o ejercicio de sus facultades de comprobación;
+XLVIII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+XLIX. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-XLVI. En relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleve a cabo en el ámbito de su competencia, verificar el domicilio y demás datos a que están obligados los contribuyentes en materia de registro federal de contribuyentes, así como los manifestados en solicitudes, avisos y pedimentos, y comprobar que los contribuyentes se localicen en el domicilio señalado en los mismos; ordenar y practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones relacionadas con la presentación de las solicitudes o avisos en materia del registro federal de contribuyentes y, en su caso, solicitar de la autoridad competente del Servicio de Administración Tributaria su inscripción por acto de autoridad; así como dejar sin efectos los avisos presentados cuando al revisarse o verificarse no correspondan a lo manifestado, debiendo informar las irregularidades y modificaciones en materia de registro federal de contribuyentes a la unidad administrativa competente del Servicio de Administración Tributaria; así como declarar que no surten efectos los avisos presentados cuando al revisarse o verificarse no correspondan a lo manifestado, debiendo informar las irregularidades y modificaciones en materia de registro federal de contribuyentes a la unidad administrativa competente del Servicio de Administración Tributaria;
+L. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+LI. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-XLVII. Ordenar y practicar el embargo precautorio de recursos y bienes del contribuyente, y en su caso, del responsable solidario, para asegurar el interés fiscal cuando, a su juicio, hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales o en los casos en que la ley lo señale; así como levantarlo cuando proceda; ordenar y practicar el aseguramiento de bienes y contabilidad en los casos en que la ley lo señale, así como levantarlo cuando proceda;
+LII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+LIII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-XLVIII. Poder tramitar y resolver los procedimientos administrativos en materia aduanera que se deriven del ejercicio de sus facultades de comprobación del cumplimiento de las obligaciones fiscales y aduaneras; ordenar, en los casos que proceda, la entrega de las mercancías embargadas, antes de la conclusión del procedimiento a que se refiere esta fracción, previa calificación y aceptación que realice de la garantía del interés fiscal, así como autorizar la sustitución de garantías en los casos que proceda previa calificación y aceptación de la misma; poner a disposición de la instancia competente, la mercancía de procedencia extranjera que haya pasado a propiedad del fisco federal, como consecuencia de un procedimiento aduanero que sea de su competencia, o que encontrándose sujeta a este procedimiento se encuentre en los casos previstos en el artículo 157 de la Ley Aduanera; declarar en el ejercicio de sus atribuciones, cuando proceda, que las mercancías, vehículos, embarcaciones o aeronaves pasan a propiedad del fisco federal;
+LIV. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(ADICIONADA, D.O.F. 31 DE JULIO DE 2002)</small>
+LV. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-XLIX. Dar a conocer a contribuyentes, importadores y exportadores, responsables solidarios y demás obligados, los hechos u omisiones imputables a éstos, conocidos con motivo de la revisión de gabinete, dictámenes o visitas domiciliarias, inspección y verificaciones de origen que les practiquen, y hacer constar dichos hechos y omisiones en el oficio de observaciones o en la última acta parcial que se levante, así como lo que proceda en el acta final o resolución que se emita;
+LVI. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-L. Poder determinar, incluso presuntivamente, los impuestos y sus accesorios de carácter federal; aplicar las cuotas compensatorias; poder determinar los derechos, contribuciones de mejoras, aprovechamientos y sus accesorios que deriven del ejercicio de las facultades a que se refiere este artículo y, en cantidad líquida el monto correspondiente, que resulten a cargo de los contribuyentes, importadores o exportadores, responsables solidarios y demás obligados; poder determinar las cantidades compensadas indebidamente y, en su caso, imponer las multas correspondientes; poder determinar a los contribuyentes, responsables solidarios y demás obligados el crédito fiscal que corresponda por el pago en parcialidades de contribuciones sin tener derecho a ello; poder determinar la responsabilidad solidaria respecto de créditos fiscales que determine o haya determinado con motivo en sus facultades de comprobación; poder determinar los precios o montos de contraprestaciones en operaciones con partes relacionadas, y valor declarado en partes vinculadas y resolver los problemas de interpretación y aplicación que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando, entre otros, los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas; así como remitir a la unidad administrativa competente del Servicio de Administración Tributaria, los créditos fiscales que determine para su control y cobro;
-
-> <small>(ADICIONADA, D.O.F. 31 DE JULIO DE 2002)</small>
-
-LI. Poder imponer las sanciones y multas por infracción a las disposiciones fiscales o aduaneras que rigen las materias de su competencia y remitir a la unidad administrativa competente del Servicio de Administración Tributaria para su control y cobro, las sanciones y multas que imponga;
-
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-LII. Intervenir en la obtención, análisis y estudio de la información y documentación que se solicite por parte de las autoridades competentes de los países con los que se tengan celebrados acuerdos, acuerdos interinstitucionales, convenios internacionales y tratados; participar conjuntamente con las unidades administrativas competentes del Servicio de Administración Tributaria y de la Secretaría en el ámbito de su competencia, en los grupos de trabajo que se establezcan al amparo de dichos acuerdos, convenios o tratados de los que México sea parte; mantener comunicación con las autoridades fiscales y aduaneras de otros países, para proporcionarles y obtener de ellas la información y documentación en relación con asuntos fiscales o aduaneros de su competencia; así como fungir como autoridad competente, en Organismos Internacionales vinculados con la administración tributaria, en asuntos materia de su competencia, y para ordenar y practicar los actos de comprobación necesarios para la obtención de la información y documentación que resulten procedentes, y en su caso, también para proporcionar información a las autoridades de los países con los que se tengan celebrados acuerdos, acuerdos interinstitucionales, convenios internacionales y tratados, en materia fiscal y aduanera, así como de intercambio de información, interpretarlos y aplicarlos en las materias de su competencia, así como en lo referente a la determinación de precios o montos de contraprestaciones en operaciones con partes relacionadas y partes vinculadas y resolver los problemas que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando, entre otros, los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas;
-
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-LIII. Conocer de las visitas domiciliarias u otras revisiones que mediante el ejercicio de facultades de comprobación sobre el cumplimiento de las disposiciones fiscales y aduaneras en la materia de su competencia, practiquen otras autoridades competentes, en los casos que se descubran hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, de los que le informarán, o en su caso, podrá habilitar personal para conocer de los casos que considere se encuentren en las hipótesis citadas, y las autoridades que correspondan deberán permitir a este personal, el acceso a toda la documentación e información para su revisión y obtención de datos; asimismo, podrá continuar las visitas domiciliarias o revisiones mencionadas en esta fracción que determine requerir de las otras autoridades competentes; así como informar de estas actividades al Procurador Fiscal de la Federación;
-
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-LIV. En relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleve a cabo en el ámbito de su competencia, así como con motivo del ejercicio de las facultades de comprobación, solicitar a los contribuyentes, importadores, exportadores, responsables solidarios, o terceros relacionados con el contribuyente, datos, informes o documentos adicionales, que consideren necesarios para aclarar la información asentada en las declaraciones de pago provisional del ejercicio y complementarias de conformidad con el artículo 41-A del Código Fiscal de la Federación; así como imponer multas por el incumplimiento o cumplimiento extemporáneo, total o parcial, a los requerimientos que formule en los términos de esta fracción;
-
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-LV. Participar conjuntamente con las unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, en el ámbito de su competencia, en los grupos de trabajo que se creen para lograr la adecuada interpretación y aplicación de la legislación fiscal y aduanera; de aquellos que se establezcan al amparo de los acuerdos, convenios o tratados de los que México sea parte en materia fiscal o aduanera, así como en los que analicen las resoluciones relativas a la metodología utilizada para la determinación de precios o montos de las contraprestaciones en operaciones con partes relacionadas;
-
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
-
-LVI. Ejercer, con independencia de las limitaciones que le sean atribuidas a otras autoridades administrativas, las facultades de comprobación previstas en este artículo considerando todo el universo de contribuyentes, importadores, exportadores, responsables solidarios y demás obligados en materia fiscal y aduanera, y
-
-> <small>(ADICIONADA, D.O.F. 31 DE JULIO DE 2002)</small>
-
-LVII. Acordar con el Procurador Fiscal de la Federación los asuntos de su competencia.
+LVII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 > <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2001)</small>
 
@@ -5513,11 +6363,13 @@ LVII. Acordar con el Procurador Fiscal de la Federación los asuntos de su compe
 
 Compete a la Dirección General de Delitos Fiscales:
 
-> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-I. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión de los delitos de defraudación fiscal y sus equiparables, contrabando y sus equiparables y demás delitos fiscales; los cometidos por servidores públicos de la Secretaría en ejercicio de sus funciones; así como de otros hechos delictuosos en que la Secretaría resulte ofendida, o de aquéllos en los que tenga interés, e investigar los hechos delictuosos relativos a la materia de competencia de la Subprocuraduría Fiscal Federal de Investigaciones, a fin de aportar los elementos de prueba del delito y de la probable responsabilidad penal, así como instruir la integración de los expedientes relacionados con dichas investigaciones;
+I. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión de los delitos de defraudación fiscal y sus equiparables, contrabando y sus equiparables y demás delitos fiscales e investigar los hechos delictuosos relativos a la materia de competencia de la Subprocuraduría Fiscal Federal de Investigaciones, a fin de aportar los elementos de prueba del delito y de la probable responsabilidad penal, así como instruir la integración de los expedientes relacionados con dichas investigaciones;
 
-II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello y proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos que proceda;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello y, con base en el dictamen favorable que al efecto elabore, proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos en que así proceda, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento;
 
 III. Coadyuvar con las autoridades competentes, en representación de la Secretaría, en los procedimientos penales relativos a los hechos delictuosos a que se refiere la fracción I de este artículo;
 
@@ -5549,7 +6401,9 @@ Compete a la Dirección de Defraudación Fiscal:
 
 I. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión del delito de defraudación fiscal, sus equiparables y demás delitos fiscales; así como de otros hechos delictuosos en que la Secretaría resulte ofendida, o de aquellos en los que tenga interés;
 
-II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello y proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos que proceda;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello y, con base en el dictamen favorable que al efecto elabore, proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos que proceda, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento;
 
 III. Coadyuvar con las autoridades competentes, en representación de la Secretaría, en los procedimientos penales relativos a los hechos delictuosos a que se refiere la fracción I de este artículo;
 
@@ -5575,9 +6429,9 @@ Compete a la Dirección de Contrabando:
 
 I. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión del delito de contrabando, sus equiparables y demás delitos fiscales; así como de otros delitos en que la Secretaría resulte ofendida o que tenga interés;
 
-> <small>(ADICIONADA, D.O.F. 22 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello y proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos que proceda;
+II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello y, con base en el dictamen favorable que al efecto elabore, proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos que proceda, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento;
 
 > <small>(ADICIONADA, D.O.F. 22 DE MARZO DE 2001)</small>
 
@@ -5607,65 +6461,69 @@ VIII. Solicitar y coordinarse con las autoridades fiscales competentes para la p
 
 IX. Acordar con el Director General de Delitos Fiscales los asuntos de su competencia.
 
-> <small>(ADICIONADO, D.O.F. 31 DE JULIO DE 2002)</small>
-
 ###### Artículo 82-C.
 
-Compete a la Dirección de Delitos Diversos:
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
-I. Apoyar en la investigación de los hechos delictuosos relativos a la materia de competencia de la Subprocuraduría Fiscal Federal de Investigaciones, a fin de aportar los elementos de prueba del delito y de la probable responsabilidad penal;
-
-II. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión de delitos fiscales; así como de los cometidos por servidores públicos de la Secretaría en el ejercicio de sus funciones y de otros delitos en que ésta resulte ofendida o que tenga interés, e integrar los expedientes relacionados con las investigaciones a que se refiere la fracción I de este artículo;
-
-III. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello y proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos que proceda;
-
-IV. Representar a la Secretaría ante el Ministerio Público en el ámbito de su competencia;
-
-V. Tramitar y resolver en el ámbito de su competencia los requerimientos y resoluciones de autoridades judiciales, administrativas o del Ministerio Público, solicitando, en su caso, la solventación dentro del término legal a las unidades administrativas competentes;
-
-VI. Coadyuvar con las autoridades competentes en representación de la Secretaría, en los procedimientos penales relativos a los hechos delictuosos a que se refiere la fracción II de este artículo;
-
-VII. Solicitar y coordinarse con las autoridades fiscales competentes para la práctica de los actos de fiscalización que sean necesarios, con motivo del ejercicio de las facultades conferidas conforme a este artículo;
-
-VIII. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su
-
-competencia, y
-
-IX. Acordar con el Director General de Delitos Fiscales los asuntos de su competencia.
-
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 83.
 
-Compete a la Dirección General de Delitos Financieros y de Operaciones con Recursos de Procedencia Ilícita:
+Compete a la Dirección General de Delitos Financieros y Diversos:
 
-I. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión de delitos previstos en las leyes que rigen a las instituciones de crédito, de seguros y fianzas, a las organizaciones y actividades auxiliares del crédito, al mercado de valores, al sistema de ahorro para el retiro y demás instituciones que integren el sistema financiero y las relativas a la comisión de delitos de los servidores públicos de las entidades del sector coordinado por la Secretaría, así como de otros hechos delictuosos en que ésta resulte ofendida, o de aquéllos en los que tenga interés;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2001)</small>
+I. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión de delitos previstos en las leyes que rigen a las instituciones de crédito, de seguros y fianzas, a las organizaciones y actividades auxiliares del crédito, al mercado de valores, al sistema de ahorro para el retiro y demás instituciones que integren el sistema financiero y las relativas a la comisión de delitos de los servidores públicos de las entidades del sector coordinado por la Secretaría, así como de otros hechos delictuosos en que ésta resulte ofendida, o de aquéllos en los que tenga interés, en las materias que no estén expresamente asignadas a otras unidades administrativas de la Secretaría; e investigar y allegarse de las pruebas relacionadas con los hechos que impliquen la probable comisión de delitos cometidos en contra del patrimonio de la Secretaría, así como instruir la integración de los expedientes relacionados con dichas investigaciones;
 
-II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello, y proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos que proceda; asimismo, denunciar o querellarse respecto de la comisión de las conductas ilícitas previstas en el artículo 400 Bis del Código Penal Federal y demás disposiciones relacionadas con operaciones con dinero o bienes de actividades ilícitas o en las que sea necesario que la Secretaría presente denuncia, querella o petición para proceder penalmente, una vez que la unidad administrativa competente de la Secretaría le haya remitido las pruebas, constancias y demás documentación que sean necesarias para su formulación;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello, y con base en el dictamen favorable que al efecto elabore, proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos que proceda, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento; asimismo, denunciar o querellarse respecto de la comisión de las conductas ilícitas en las que sea necesario que la Secretaría presente denuncia, querella o petición para proceder penalmente, una vez que la unidad administrativa competente de la Secretaría le haya remitido las pruebas, constancias y demás documentación que sean necesarias para su formulación;
+
+> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
 
 III. Coadyuvar con las autoridades competentes, en representación de la Secretaría, en los procedimientos penales relativos a los hechos delictuosos a que se refieren las fracciones I y II de este artículo;
 
+> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
+
 IV. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia;
+
+> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
 
 V. Solicitar y coordinarse con las autoridades fiscales competentes para la práctica de los actos de fiscalización que sean necesarios, con motivo del ejercicio de las facultades conferidas conforme a este artículo;
 
-VI. Solicitar y coordinarse con las autoridades fiscales competentes para la práctica de los actos de fiscalización que sean necesarios en las materias de su competencia;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VI. Apoyar en la investigación de los hechos delictuosos relativos a la materia de competencia de la Subprocuraduría Fiscal Federal de Investigaciones, a fin de aportar los elementos de prueba del delito y de la probable responsabilidad penal;
+
+> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
 
 VII. Evaluar y someter a consideración del Subprocurador Fiscal Federal de Investigaciones las medidas preventivas y correctivas tendientes a evitar hechos delictuosos relativos a la materia de su competencia;
 
+> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
+
 VIII. Apoyar al Subprocurador Fiscal Federal de Investigaciones para participar en el estudio y elaboración de anteproyectos de leyes o decretos y demás disposiciones legales materia de su competencia;
+
+> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
 
 IX. Desahogar las consultas y emitir opinión respecto de aquellos asuntos relacionados con el ámbito de su competencia;
 
+> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
+
 X. Tramitar y resolver en el ámbito de su competencia los requerimientos y resoluciones de las autoridades judiciales, administrativas o del Ministerio Público, solicitando, en su caso, la solventación dentro del término legal a las unidades administrativas competentes;
+
+> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
 
 XI. Designar a los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
 
+> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
+
 XII. Representar a la Secretaría ante el Ministerio Público en el ámbito de su competencia;
 
+> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
+
 XIII. Intervenir en la obtención, análisis y estudio de la información y documentación que se solicite por parte de las autoridades competentes de los países con los que se tengan celebrados convenios o tratados en las materias de su competencia, y
+
+> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
 
 XIV. Acordar con el Subprocurador Fiscal Federal de Investigaciones los asuntos de su competencia.
 
@@ -5675,9 +6533,13 @@ XIV. Acordar con el Subprocurador Fiscal Federal de Investigaciones los asuntos 
 
 Compete a la Dirección de Delitos Financieros:
 
-I. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión de delitos previstos en las leyes que rigen a las instituciones de crédito, de seguros y fianzas, a las organizaciones y actividades auxiliares del crédito, al mercado de valores, al sistema de ahorro para el retiro y demás instituciones que integren el sistema financiero y las relativas a la comisión de delitos de los servidores públicos de las entidades del sector coordinado por la Secretaría, así como de otros hechos delictuosos en que ésta resulte ofendida, o de aquéllos en los que tenga interés;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello, y proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos que proceda;
+I. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión de delitos previstos en las leyes que rigen a las instituciones de crédito, de seguros y fianzas, a las organizaciones y actividades auxiliares del crédito, al mercado de valores, al sistema de ahorro para el retiro y demás instituciones que integren el sistema financiero y las relativas a la comisión de delitos de los servidores públicos de las entidades del sector coordinado por la Secretaría, así como de otros hechos delictuosos en que ésta resulte ofendida, o de aquéllos en los que tenga interés, en las materias que no estén expresamente asignadas a otras unidades administrativas de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello, y con base en el dictamen favorable que al efecto elabore, proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos que proceda, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento;
 
 III. Coadyuvar con las autoridades competentes, en representación de la Secretaría, en los procedimientos penales relativos a los hechos delictuosos a que se refiere la fracción I de este artículo;
 
@@ -5691,271 +6553,59 @@ VII. Representar a la Secretaría ante el Ministerio Público en el ámbito de s
 
 VIII. Solicitar y coordinarse con las autoridades fiscales competentes para la práctica de los actos de fiscalización que sean necesarios, con motivo del ejercicio de las facultades conferidas conforme a este artículo, y
 
-IX. Acordar con el Director General de Delitos Financieros y de Operaciones con Recursos de Procedencia Ilícita los asuntos de su competencia.
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2001)</small>
+IX. Acordar con el Director General de Delitos Financieros y Diversos los asuntos de su competencia.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 84.
 
-Compete a la Dirección de Operaciones con Recursos de Procedencia Ilícita:
+Compete a la Dirección de Delitos Diversos.
 
-> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2001)</small>
+I. Investigar y allegarse de las pruebas relacionadas con los hechos que impliquen la probable comisión de delitos cometidos en contra del patrimonio de la Secretaría, así como integrar los expedientes relacionados con dichas investigaciones;
 
-I. Estudiar las pruebas, constancias, documentación e informes que le sean proporcionados por la unidad administrativa competente de la Secretaría, sobre la comisión de las conductas ilícitas previstas en el artículo 400 Bis del Código Penal Federal y demás disposiciones relacionadas con operaciones con dinero o bienes de actividades ilícitas o en las que sea necesario que la Secretaría presente denuncia, querella o petición para proceder penalmente, integrando los expedientes relativos, así como denunciar o querellarse en los casos que proceda, una vez que la unidad administrativa competente de la Secretaría le haya remitido las pruebas, constancias y demás documentación que sean necesarias para su formulación y, coadyuvar con las autoridades competentes, en representación de la Secretaría, en los procedimientos penales de que se trate;
+II. Apoyar en la investigación de los hechos delictuosos relativos a la materia de competencia de la Subprocuraduría Fiscal Federal de Investigaciones, a fin de aportar los elementos de prueba del delito y de la probable responsabilidad penal;
 
-II. Coadyuvar con las autoridades competentes, en representación de la Secretaría, en los procedimientos penales relativos a los hechos delictuosos a que se refiere la fracción I de este artículo;
+III. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión de delitos fiscales; así como de los cometidos por servidores públicos de la Secretaría en el ejercicio de sus funciones y de otros delitos en que ésta resulte ofendida o que tenga interés, e integrar los expedientes relacionados con las investigaciones a que se refiere la fracción I de este artículo;
 
-III. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia;
+IV. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello y, con base en el dictamen favorable que al efecto elabore, proponer la petición de sobreseimiento del proceso u otorgar el perdón en los casos que proceda, siempre y cuando las unidades administrativas o autoridades de la Secretaría que tengan injerencia o interés en el asunto de que se trate no manifiesten objeción en su otorgamiento;
 
-IV. Solicitar y coordinarse con las autoridades fiscales competentes para la práctica de los actos de fiscalización que sean necesarios, con motivo del ejercicio de las facultades conferidas conforme a este artículo;
+V. Representar a la Secretaría ante el Ministerio Público en el ámbito de su competencia;
 
-V. Designar a los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
+VI. Tramitar y resolver en el ámbito de su competencia los requerimientos y resoluciones de autoridades judiciales, administrativas o del Ministerio Público, solicitando, en su caso, la solventación dentro del término legal a las unidades administrativas competentes;
 
-VI. Representar a la Secretaría ante el Ministerio Público en el ámbito de su competencia;
+VII. Coadyuvar con las autoridades competentes en representación de la Secretaría, en los procedimientos penales relativos a los hechos delictuosos a que se refieren la fracción II de este artículo;
 
-VII. Tramitar y resolver en el ámbito de su competencia los requerimientos y resoluciones de autoridades judiciales, administrativas o del Ministerio Público, solicitando, en su caso, la solventación dentro del término legal a las unidades administrativas competentes, y
+VIII. Solicitar y coordinarse con las autoridades fiscales competentes para la práctica de los actos de fiscalización que sean necesarios, con motivo del ejercicio de las facultades conferidas conforme a este artículo;
 
-VIII. Acordar con el Director General de Delitos Financieros y de Operaciones con Recursos de Procedencia Ilícita los asuntos de su competencia.
+IX. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia, y
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+X. Acordar con el Director General de Delitos Financieros y Diversos los asuntos de su competencia.
 
 ###### Artículo 84-A.
 
-Compete a la Dirección General de Fiscalización:
-
-I. Investigar el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, pudiendo allegarse y requerir toda la información y documentación necesaria para su investigación; solicitar de los contribuyentes, importadores, exportadores, responsables solidarios o terceros con ellos relacionados, datos, informes o documentos, para planear y programar actos de fiscalización en materia fiscal y aduanera; recabar de los servidores públicos, fedatarios y personas autorizadas por la Secretaría que sean terceros relacionados con los contribuyentes, los informes y datos que tengan con motivo de sus funciones, así como ejercer sus facultades para comprobar el cumplimiento de las obligaciones fiscales y aduaneras; allegarse de las pruebas necesarias para que la Secretaría formule la denuncia, querella o declaratoria al Ministerio Público, e intercambiar información con otras autoridades fiscales;
-
-II. Ordenar y practicar, en relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleve a cabo en el ámbito de su competencia, las visitas domiciliarias, auditorías, verificaciones de origen, inspecciones, actos de vigilancia, verificaciones, reconocimiento aduanero de las mercancías de comercio exterior y los demás actos que establezcan las disposiciones fiscales y aduaneras, para comprobar el cumplimiento de las obligaciones de los contribuyentes, importadores, exportadores, responsables solidarios, terceros relacionados con los contribuyentes y demás obligados en materia de impuestos, incluyendo los que se causen por la entrada al territorio nacional o salida del mismo de mercancías y medios de transporte, derechos, contribuciones de mejoras, cuotas compensatorias, aprovechamientos, estímulos fiscales, franquicias y accesorios de carácter federal, compensaciones efectuadas y saldos a favor determinados por el contribuyente, cuentas aduaneras y pagos en parcialidades no autorizados, o sin tener derecho a ello; así como para recabar de los servidores públicos, fedatarios y personas autorizadas por la Secretaría que sean terceros relacionados con los contribuyentes, los informes y datos que tengan con motivo de sus funciones; y en materia de determinación de la base de los impuestos generales de importación o exportación, verificar y, en su caso, determinar la correcta clasificación arancelaria de las mercancías de procedencia extranjera, el valor en aduana de las mercancías de importación u otra base gravable que se establezca en las leyes, el valor comercial de las mercancías de exportación, así como comprobar de conformidad con los acuerdos, convenios o tratados en materia fiscal o aduanera de los que México sea parte, el cumplimiento de obligaciones a cargo de importadores y exportadores; revisar el empleo de tuberías, ductos, cables u otros medios susceptibles de conducir mercancías de importación y exportación autorizados o que requieran autorización por autoridad competente; verificar tanto la existencia de los documentos que acrediten la legal estancia y tenencia de las mercancías de comercio exterior, vehículos, aeronaves y embarcaciones de procedencia extranjera, el cumplimiento de las obligaciones en materia de regulaciones y restricciones no arancelarias, normas oficiales mexicanas, cumplimiento de las reglas de origen contenidas en los tratados internacionales; practicar y notificar el embargo precautorio de aquellas mercancías respecto de las cuales no se acredite su legal introducción al país e inicio del procedimiento administrativo en materia aduanera; habilitar almacenes como recintos fiscales para uso de la autoridad fiscal y aduanera; revisar y determinar los precios o montos de contraprestaciones en operaciones con partes relacionadas, y valor declarado en partes vinculadas y resolver los problemas de interpretación y aplicación que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando, entre otros, los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas; imponer multas por el incumplimiento o cumplimiento extemporáneo, total o parcial, a los requerimientos que formule en los términos de esta fracción; inspeccionar los recintos fiscales y fiscalizados así como ejercer sus facultades de comprobación en recintos fiscalizados; prorrogar los plazos en que se deban concluir las visitas domiciliarias;
-
-III. Requerir, en relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleve a cabo en el ámbito de su competencia, a los contribuyentes, importadores, exportadores, responsables solidarios o terceros con ellos relacionados, o a contadores públicos autorizados que hayan formulado dictámenes o declaratorias para efectos fiscales, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos, otros documentos, instrumentos e informes, y en el caso de dichos contadores, también para que exhiban sus papeles de trabajo, así como recabar de los servidores públicos, fedatarios y personas autorizadas por la Secretaría que sean terceros relacionados con los contribuyentes, los informes y datos que tengan con motivo de sus funciones, todo ello para proceder a su revisión, a fin de comprobar el cumplimiento de las disposiciones legales en las materias señaladas en la fracción II de este artículo; imponer multas por el incumplimiento o cumplimiento extemporáneo, total o parcial, a los requerimientos que formule en los términos de esta fracción; así como autorizar o negar prórrogas para su presentación. Tratándose de las revisiones previstas en esta fracción, emitir los oficios de observaciones, el de conclusión de la revisión, y en su caso el de prórroga del plazo para concluir la revisión;
-
-IV. Requerir, recibir y revisar, en relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleve a cabo en el ámbito de su competencia, que los dictámenes formulados por contador público registrado sobre los estados financieros relacionados con las obligaciones fiscales de los contribuyentes, y respecto de operaciones de enajenación de acciones, así como la declaratoria que emitan para solicitudes de devolución de saldos a favor del impuesto al valor agregado o de cualquier otro tipo de dictamen o declaratoria que tenga repercusión para efectos fiscales, reúnan los requisitos establecidos en las disposiciones fiscales y comprobar el cumplimiento de las disposiciones fiscales y aduaneras de los contribuyentes relativas a impuestos, derechos, contribuciones de mejoras, cuotas compensatorias, aprovechamientos, estímulos fiscales, franquicias, accesorios federales y la actuación profesional del contador público; requerir, recibir y revisar que los dictámenes de residentes en el extranjero que tengan establecimiento permanente o base fija en el país y los relativos a la enajenación de acciones que lleven a cabo residentes en el extranjero, de conformidad con el título V de la Ley del Impuesto sobre la Renta, incluyendo requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados o a contadores públicos autorizados que hayan formulado esta clase de dictámenes para que exhiban sus papeles de trabajo y, reúnan los requisitos establecidos en las disposiciones fiscales y comprobar el cumplimiento de las disposiciones fiscales y aduaneras de los contribuyentes relativas a impuestos, derechos, contribuciones de mejoras, cuotas compensatorias, aprovechamientos, estímulos fiscales, franquicias, accesorios federales y la actuación profesional del contador público; así como para determinar los precios o montos de contraprestaciones en operaciones con partes relacionadas, y valor declarado en partes vinculadas y resolver los problemas de interpretación y aplicación que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando, entre otros, los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas; imponer multas por el incumplimiento o cumplimiento extemporáneo, total o parcial, a los requerimientos que formule en los términos de esta fracción; autorizar o negar prórrogas para la presentación de lo requerido;
-
-V. Notificar los actos relacionados con el ejercicio de sus facultades de comprobación, las multas que correspondan a requerimientos no atendidos así como los atendidos en forma extemporánea, total o parcialmente, y otras multas que imponga, y remitir los créditos fiscales a la unidad administrativa competente del Servicio de Administración Tributaria para su control y cobro;
-
-VI. Expedir las constancias de identificación del personal a su cargo y del personal de las unidades administrativas que tenga adscritas, así como designarlos y habilitarlos para la práctica de los actos de fiscalización, notificaciones, diligencias, peritajes u otros actos, previstos en este artículo;
-
-VII. Habilitar días y horas inhábiles para la práctica de diligencias o ejercicio de sus facultades de comprobación;
-
-VIII. En relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleve a cabo en el ámbito de su competencia, verificar el domicilio y demás datos a que están obligados los contribuyentes en materia de registro federal de contribuyentes, así como los manifestados en solicitudes, avisos y pedimentos, y comprobar que los contribuyentes se localicen en el domicilio señalado en los mismos; ordenar y practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones relacionadas con la presentación de las solicitudes o avisos en materia del registro federal de contribuyentes y, en su caso, solicitar de la autoridad competente del Servicio de Administración Tributaria su inscripción por acto de autoridad; así como declarar que no surten efectos los avisos presentados cuando al revisarse o verificarse no correspondan a lo manifestado, debiendo informar las irregularidades y modificaciones en materia de registro federal de contribuyentes a la unidad administrativa competente del Servicio de Administración Tributaria;
-
-IX. Ordenar y practicar el embargo precautorio de recursos y bienes del contribuyente, y en su caso, del responsable solidario, para asegurar el interés fiscal cuando, a su juicio, hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales o en los casos en que la ley lo señale; así como levantarlo cuando proceda; ordenar y practicar el aseguramiento de bienes y contabilidad en los casos en que la ley lo señale, así como levantarlo cuando proceda;
-
-X. Poder tramitar y resolver los procedimientos administrativos en materia aduanera que se deriven del ejercicio de sus facultades de comprobación del cumplimiento de las obligaciones fiscales y aduaneras; ordenar, en los casos que proceda, la entrega de las mercancías embargadas, antes de la conclusión del procedimiento a que se refiere esta fracción, previa calificación y aceptación que realice de la garantía del interés fiscal, así como autorizar la sustitución de garantías en los casos que proceda previa calificación y aceptación de la misma; poner a disposición de la instancia competente, la mercancía de procedencia extranjera que haya pasado a propiedad del fisco federal, como consecuencia de un procedimiento aduanero que sea de su competencia, o que encontrándose sujeta a este procedimiento se encuentre en los casos previstos en el artículo 157 de la Ley Aduanera; declarar en el ejercicio de sus atribuciones, cuando proceda, que las mercancías, vehículos, embarcaciones o aeronaves pasan a propiedad del fisco federal;
-
-XI. Elaborar el dictamen técnico contable y la cuantificación del perjuicio ocasionado al fisco federal; designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia; establecer la naturaleza, estado, origen, y demás características de las mercancías de comercio exterior, así como determinar su clasificación arancelaria y solicitar el dictamen que se requiera al agente o apoderado aduanal, al dictaminador aduanero o a cualquier otro perito para ejercer las facultades a que se refiere esta fracción; determinar conforme a la Ley Aduanera el valor en aduana de las mercancías de importación u otra base gravable que se establezca en otras leyes, y el valor comercial de las mercancías de exportación;
-
-XII. Informar al Subprocurador Fiscal Federal de Investigaciones de los hechos de que tenga conocimiento con motivo de sus actuaciones que puedan constituir delitos fiscales o conductas ilícitas previstas en el artículo 400 Bis del Código Penal Federal y demás disposiciones relacionadas con operaciones con dinero o bienes producto de actividades ilícitas, para lo cual podrá solicitar y obtener las pruebas, constancias, documentación, así como la información contenida en los reportes a que están obligadas a presentar las instituciones del sistema financiero relacionadas con sus clientes y usuarios y las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera; así como de aquellos delitos en que incurran servidores públicos de la Secretaría y sus órganos desconcentrados en el desempeño de sus funciones;
-
-XIII. Solicitar a las autoridades competentes del Servicio de Administración Tributaria el apoyo que estime necesario para la práctica de los actos de fiscalización que lleve a cabo; solicitar en cualquier momento a las autoridades fiscales y aduaneras que tengan competencia, la continuación hasta su conclusión, de los actos de fiscalización que hubiere ordenado y de los procedimientos administrativos en materia aduanera que hubiere iniciado, así como la determinación, notificación y cobro de los créditos fiscales que resulten de los mismos y demás actos que sean necesarios para hacerlos efectivos; informarles sobre las irregularidades detectadas en el ejercicio de sus facultades de comprobación respecto de la actuación de contadores públicos registrados, agentes y apoderados aduanales por no cumplir con las disposiciones fiscales y aduaneras, para que las autoridades competentes determinen la suspensión o cancelación del registro de dicho contador público, lo exhorten o amonesten, así como para que suspendan o cancelen la patente aduanal o la autorización del apoderado aduanal, aportándoles los elementos necesarios para que dichas autoridades ejerzan sus facultades;
-
-XIV. Dar a conocer a contribuyentes, importadores y exportadores, responsables solidarios y demás obligados, los hechos u omisiones imputables a éstos, conocidos con motivo de la revisión de gabinete, dictámenes o visitas domiciliarias, inspección y verificaciones de origen que les practiquen, y hacer constar dichos hechos y omisiones en el oficio de observaciones o en la última acta parcial que se levante, así como lo que proceda en el acta final o resolución que se emita;
-
-XV. Poder determinar, incluso presuntivamente, los impuestos y sus accesorios de carácter federal; aplicar las cuotas compensatorias; poder determinar los derechos, contribuciones de mejoras, aprovechamientos y sus accesorios que deriven del ejercicio de las facultades a que se refiere este artículo y, en cantidad líquida el monto correspondiente, que resulten a cargo de los contribuyentes, importadores o exportadores, responsables solidarios y demás obligados; poder determinar las cantidades compensadas indebidamente y, en su caso, imponer las multas correspondientes; poder determinar a los contribuyentes, responsables solidarios y demás obligados el crédito fiscal que corresponda por el pago en parcialidades de contribuciones sin tener derecho a ello; poder determinar la responsabilidad solidaria respecto de créditos fiscales que determine o haya determinado con motivo de sus facultades de comprobación; poder determinar los precios o montos de contraprestaciones en operaciones con partes relacionadas, y valor declarado en partes vinculadas y resolver los problemas de interpretación y aplicación que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando, entre otros, los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas; así como remitir a la unidad administrativa competente del Servicio de Administración Tributaria, los créditos fiscales que determine para su control y cobro;
-
-XVI. Poder imponer las sanciones y multas por infracción a las disposiciones fiscales o aduaneras que rigen las materias de su competencia y remitir a la unidad administrativa competente del Servicio de Administración Tributaria para su control y cobro, las sanciones y multas que imponga; así como solicitar el auxilio de la fuerza pública en los casos previstos en la legislación fiscal y aduanera;
-
-XVII. Intervenir en la obtención, análisis y estudio de la información y documentación que se solicite por parte de las autoridades competentes de los países con los que se tengan celebrados acuerdos, acuerdos interinstitucionales, convenios internacionales y tratados; participar conjuntamente con las unidades administrativas competentes del Servicio de Administración Tributaria y de la Secretaría en el ámbito de su competencia, en los grupos de trabajo que se establezcan al amparo de dichos acuerdos, convenios o tratados de los que México sea parte; mantener comunicación con las autoridades fiscales y aduaneras de otros países, para proporcionarles y obtener de ellas la información y documentación en relación con asuntos fiscales o aduaneros de su competencia; así como fungir como autoridad competente, en Organismos Internacionales vinculados con la administración tributaria, en asuntos materia de su competencia, y para ordenar y practicar los actos de comprobación necesarios para la obtención de la información y documentación que resulten procedentes, y en su caso, también para proporcionar información a las autoridades de los países con los que se tengan celebrados acuerdos, acuerdos interinstitucionales, convenios internacionales y tratados, en materia fiscal y aduanera, así como de intercambio de información, interpretarlos y aplicarlos en las materias de su competencia, así como en lo referente a la determinación de precios o montos de contraprestaciones en operaciones con partes relacionadas y partes vinculadas y resolver los problemas que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando, entre otros, los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas;
-
-XVIII. Conocer de las visitas domiciliarias u otras revisiones que mediante el ejercicio de facultades de comprobación sobre el cumplimiento de las disposiciones fiscales y aduaneras en la materia de su competencia, practiquen otras autoridades competentes, en los casos que se descubran hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, de los que le informarán, o en su caso, podrá habilitar personal para conocer de los casos que considere se encuentren en las hipótesis citadas, y las autoridades que correspondan deberán permitir a este personal, el acceso a toda la documentación e información para su revisión y obtención de datos; asimismo, podrá continuar las visitas domiciliarias o revisiones mencionadas en esta fracción que determine requerir de las otras autoridades competentes; así como informar de estas actividades al Subprocurador Fiscal Federal de Investigaciones;
-
-XIX. Informar a la unidad administrativa competente de la Subprocuraduría Fiscal Federal de Investigaciones de los hechos de que tenga conocimiento con motivo de sus actuaciones, que puedan constituir delitos fiscales, acompañando, en su caso, el dictamen técnico contable, la cuantificación del perjuicio sufrido por el fisco federal; de aquellos hechos que puedan constituir delitos en que incurran servidores públicos de la Dirección General de Fiscalización en el desempeño de sus funciones o de otras unidades administrativas de la federación dando la intervención que corresponda al Órgano Interno de Control; de aquellos por los que la Hacienda Pública resulte ofendida o de los delitos previstos en las leyes y disposiciones que regulan el sistema financiero; así como proporcionarle a dicha unidad administrativa, en su carácter de coadyuvante del Ministerio Público, el apoyo técnico y contable en los procedimientos penales que deriven de dichas actuaciones; así como, analizar, detectar y dar seguimiento a las operaciones específicas de comercio exterior, en que se presuma la comisión de cualquier ilícito en cuanto al valor, origen, clasificación arancelaria de mercancías, evasión en el pago de contribuciones, cuotas compensatorias u otros aprovechamientos, derechos, incumplimientos de regulaciones y restricciones no arancelarias e infracciones administrativas, en coordinación con las demás autoridades competentes;
-
-XX. En relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleve a cabo en el ámbito de su competencia, así como con motivo del ejercicio de las facultades de comprobación, solicitar a los contribuyentes, importadores, exportadores, responsables solidarios, o terceros relacionados con el contribuyente, datos, informes o documentos adicionales, que consideren necesarios para aclarar la información asentada en las declaraciones de pago provisional del ejercicio y complementarias de conformidad con el artículo 41-A del Código Fiscal de la Federación; así como imponer multas por el incumplimiento o cumplimiento extemporáneo total o parcial, a los requerimientos que formule en los términos de esta fracción;
-
-XXI. Establecer el criterio de interpretación que las unidades administrativas que le son adscritas, deberán seguir en la aplicación de las disposiciones fiscales y aduaneras, en materia de impuestos, derechos, contribuciones de mejoras, aprovechamientos y sus accesorios de carácter federal;
-
-XXII. Participar conjuntamente con las unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, en el ámbito de su competencia, en los grupos de trabajo que se creen para lograr la adecuada interpretación y aplicación de la legislación fiscal y aduanera; de aquellos que se establezcan al amparo de los acuerdos, convenios o tratados de los que México sea parte en materia fiscal o aduanera, así como en los que analicen las resoluciones relativas a la metodología utilizada para la determinación de precios o montos de las contraprestaciones en operaciones con partes relacionadas;
-
-XXIII. Ejercer, con independencia de las limitaciones que le sean atribuidas a otras autoridades administrativas, las facultades de comprobación previstas en este artículo considerando todo el universo de contribuyentes, importadores, exportadores, responsables solidarios y demás obligados en materia fiscal y aduanera, y
-
-XXIV. Acordar con el Subprocurador Fiscal Federal de Investigaciones los asuntos de su competencia.
-
-La Dirección General de Fiscalización estará a cargo de un Director General auxiliado en el ejercicio de sus facultades por un Director General Adjunto de Operación Fiscalizadora, un Director General Adjunto Jurídico, un Director de Información Fiscal y Aduanera "A", un Director de Información Fiscal y Aduanera "B", un Director de Fiscalización "A", un Director de Fiscalización "B", un Director Jurídico, Subdirectores y Jefes de Departamento, así como por el personal que se requiera para satisfacer las necesidades del servicio.
-
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 ###### Artículo 84-B.
 
-Compete a la Dirección General Adjunta de Operación Fiscalizadora:
-
-I. Ordenar y practicar, en relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleve a cabo en el ámbito de su competencia, las visitas domiciliarias, auditorías, verificaciones de origen, inspecciones, actos de vigilancia, verificaciones, reconocimiento aduanero de las mercancías de comercio exterior y los demás actos que establezcan las disposiciones fiscales y aduaneras, para comprobar el cumplimiento de las obligaciones de los contribuyentes, importadores, exportadores, responsables solidarios, terceros relacionados con los contribuyentes y demás obligados en materia de impuestos, incluyendo los que se causen por la entrada al territorio nacional o salida del mismo de mercancías y medios de transporte, derechos, contribuciones de mejoras, cuotas compensatorias, aprovechamientos, estímulos fiscales, franquicias y accesorios de carácter federal, compensaciones efectuadas y saldos a favor determinados por el contribuyente, cuentas aduaneras y pagos en parcialidades no autorizados, o sin tener derecho a ello; así como para recabar de los servidores públicos, fedatarios y personas autorizadas por la Secretaría que sean terceros relacionados con los contribuyentes, los informes y datos que tengan con motivo de sus funciones; y en materia de determinación de la base de los impuestos generales de importación o exportación, verificar y, en su caso, determinar la correcta clasificación arancelaria de las mercancías de procedencia extranjera, el valor en aduana de las mercancías de importación u otra base gravable que se establezca en las leyes, el valor comercial de las mercancías de exportación, así como comprobar de conformidad con los acuerdos, convenios o tratados en materia fiscal o aduanera de los que México sea parte, el cumplimiento de obligaciones a cargo de importadores y exportadores; revisar el empleo de tuberías, ductos, cables u otros medios susceptibles de conducir mercancías de importación y exportación autorizados, o que requieren autorización por autoridad competente; verificar tanto la existencia de los documentos que acrediten la legal estancia y tenencia de las mercancías de comercio exterior, vehículos, aeronaves y embarcaciones de procedencia extranjera, el cumplimiento de las obligaciones en materia de regulaciones y restricciones no arancelarias, normas oficiales mexicanas, cumplimiento de las reglas de origen contenidas en los tratados internacionales; practicar y notificar el embargo precautorio de aquellas mercancías respecto de las cuales no se acredite su legal introducción al país e inicio del procedimiento administrativo en materia aduanera; habilitar almacenes como recintos fiscales para uso de la autoridad fiscal y aduanera; revisar y determinar los precios o montos de contraprestaciones en operaciones con partes relacionadas, y valor declarado en partes vinculadas y resolver los problemas de interpretación y aplicación que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando, entre otros, los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas; imponer multas por el incumplimiento o cumplimiento extemporáneo, total o parcial, a los requerimientos que formule en los términos de esta fracción; inspeccionar los recintos fiscales y fiscalizados así como ejercer sus facultades de comprobación en recintos fiscalizados; prorrogar los plazos en que se deban concluir las visitas domiciliarias;
-
-II. Requerir, en relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleve a cabo en el ámbito de su competencia, a los contribuyentes, importadores, exportadores, responsables solidarios o terceros con ellos relacionados, o a contadores públicos autorizados que hayan formulado dictámenes o declaratorias para efectos fiscales, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos, otros documentos, instrumentos e informes, y en el caso de dichos contadores, también para que exhiban sus papeles de trabajo, así como recabar de los servidores públicos, fedatarios y personas autorizadas por la Secretaría que sean terceros relacionados con los contribuyentes, los informes y datos que tengan con motivo de sus funciones, todo ello para proceder a su revisión, a fin de comprobar el cumplimiento de las disposiciones legales en las materias señaladas en la fracción I de este artículo; imponer multas por el incumplimiento o cumplimiento extemporáneo, total o parcial, a los requerimientos que formule en los términos de esta fracción; así como autorizar o negar prórrogas para su presentación. Tratándose de las revisiones previstas en esta fracción, emitir los oficios de observaciones, el de conclusión de la revisión, y en su caso el de prórroga del plazo para concluir la revisión;
-
-III. Requerir, en relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleve a cabo en el ámbito de su competencia, a los contribuyentes, importadores, exportadores, responsables solidarios o terceros con ellos relacionados, o a contadores públicos autorizados que hayan formulado dictámenes o declaratorias para efectos fiscales, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos, otros documentos, instrumentos e informes, y en el caso de dichos contadores, también para que exhiban sus papeles de trabajo, así como recabar de los servidores públicos, fedatarios y personas autorizadas por la Secretaría que sean terceros relacionados con los contribuyentes, los informes y datos que tengan con motivo de sus funciones, todo ello para proceder a su revisión, a fin de comprobar el cumplimiento de las disposiciones legales en las materias señaladas en la fracción I de este artículo; imponer multas por el incumplimiento o cumplimiento extemporáneo, total o parcial, a los requerimientos que formule en los términos de esta fracción; así como autorizar o negar prórrogas para su presentación. Tratándose de las revisiones previstas en esta fracción, emitir los oficios de observaciones, el de conclusión de la revisión, y en su caso el de prórroga del plazo para concluir la revisión;
-
-IV. Notificar los actos relacionados con el ejercicio de sus facultades de comprobación, las multas que correspondan a requerimientos no atendidos así como los atendidos en forma extemporánea, total o parcialmente, y otras multas que imponga, y remitir los créditos fiscales a la unidad administrativa competente del Servicio de Administración Tributaria para su control y cobro;
-
-V. Expedir las constancias de identificación del personal a su cargo y del personal de las unidades administrativas que tenga adscritas, así como designarlos y habilitarlos para la práctica de los actos de fiscalización, notificaciones, diligencias, peritajes u otros actos, previstos en este artículo;
-
-VI. Habilitar días y horas inhábiles para la práctica de diligencias o ejercicio de sus facultades de comprobación;
-
-VII. En relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleve a cabo en el ámbito de su competencia, verificar el domicilio y demás datos a que están obligados los contribuyentes en materia de registro federal de contribuyentes, así como los manifestados en solicitudes, avisos y pedimentos, y comprobar que los contribuyentes se localicen en el domicilio señalado en los mismos; ordenar y practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones relacionadas con la presentación de las solicitudes o avisos en materia del registro federal de contribuyentes y, en su caso, solicitar de la autoridad competente del Servicio de Administración Tributaria su inscripción por acto de autoridad; así como declarar que no surten efectos los avisos presentados cuando al revisarse o verificarse no correspondan a lo manifestado, debiendo informar las irregularidades y modificaciones en materia de registro federal de contribuyentes a la unidad administrativa competente del Servicio de Administración Tributaria;
-
-VIII. Ordenar y practicar el embargo precautorio de recursos y bienes del contribuyente, y en su caso, del responsable solidario, para asegurar el interés fiscal cuando, a su juicio, hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales o en los casos en que la ley lo señale; así como levantarlo cuando proceda; ordenar y practicar el aseguramiento de bienes y contabilidad en los casos en que la ley lo señale, así como levantarlo cuando proceda;
-
-IX. Poder tramitar y resolver los procedimientos administrativos en materia aduanera que se deriven del ejercicio de sus facultades de comprobación del cumplimiento de las obligaciones fiscales y aduaneras; ordenar, en los casos que proceda, la entrega de las mercancías embargadas, antes de la conclusión del procedimiento a que se refiere esta fracción, previa calificación y aceptación que realice de la garantía del interés fiscal, así como autorizar la sustitución de garantías en los casos que proceda previa calificación y aceptación de la misma; poner a disposición de la instancia competente, la mercancía de procedencia extranjera que haya pasado a propiedad del fisco federal, como consecuencia de un procedimiento aduanero que sea de su competencia, o que encontrándose sujeta a este procedimiento se encuentre en los casos previstos en el artículo 157 de la Ley Aduanera; declarar en el ejercicio de sus atribuciones, cuando proceda, que las mercancías, vehículos, embarcaciones o aeronaves pasan a propiedad del fisco federal;
-
-X. Elaborar el dictamen técnico contable y la cuantificación del perjuicio ocasionado al fisco federal; designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia; establecer la naturaleza, estado, origen, y demás características de las mercancías de comercio exterior, así como determinar su clasificación arancelaria y solicitar el dictamen que se requiera al agente o apoderado aduanal, al dictaminador aduanero o a cualquier otro perito para ejercer las facultades a que se refiere esta fracción; determinar conforme a la Ley Aduanera el valor en aduana de las mercancías de importación u otra base gravable que se establezca en otras leyes, y el valor comercial de las mercancías de exportación;
-
-XI. Informar al Director General de Fiscalización de los hechos de que tenga conocimiento con motivo de sus actuaciones que puedan constituir delitos fiscales o conductas ilícitas previstas en el artículo 400 Bis del Código Penal Federal y demás disposiciones relacionadas con operaciones con dinero o bienes producto de actividades ilícitas, para lo cual podrá solicitar y obtener las pruebas, constancias, documentación, así como la información contenida en los reportes que están obligadas a presentar las instituciones del sistema financiero relacionadas con sus clientes y usuarios y las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera, así como de aquellos delitos en que incurran servidores públicos de la Secretaría y sus órganos desconcentrados en el desempeño de sus funciones;
-
-XII. Solicitar a las autoridades competentes del Servicio de Administración Tributaria el apoyo que estime necesario para la práctica de los actos de fiscalización que lleve a cabo; solicitar en cualquier momento a las autoridades fiscales y aduaneras que tengan competencia, la continuación hasta su conclusión, de los actos de fiscalización que hubiere ordenado y de los procedimientos administrativos en materia aduanera que hubiere iniciado, así como la determinación, notificación y cobro de los créditos fiscales que resulten de los mismos y demás actos que sean necesarios para hacerlos efectivos; informarles sobre las irregularidades detectadas en el ejercicio de sus facultades de comprobación respecto de la actuación de contadores públicos registrados, agentes y apoderados aduanales por no cumplir con las disposiciones fiscales y aduaneras, para que las autoridades competentes determinen la suspensión o cancelación del registro de dicho contador público, lo exhorten o amonesten, así como para que suspendan o cancelen la patente aduanal o la autorización del apoderado aduanal, aportándoles los elementos necesarios para que dichas autoridades ejerzan sus facultades;
-
-XIII. Dar a conocer a contribuyentes, importadores y exportadores, responsables solidarios y demás obligados, los hechos u omisiones imputables a éstos, conocidos con motivo de la revisión de gabinete, dictámenes o visitas domiciliarias, inspección y verificaciones de origen que les practiquen, y hacer constar dichos hechos y omisiones en el oficio de observaciones o en la última acta parcial que se levante, así como lo que proceda en el acta final o resolución que se emita;
-
-XIV. Poder determinar, incluso presuntivamente, los impuestos y sus accesorios de carácter federal; aplicar las cuotas compensatorias; poder determinar los derechos, contribuciones de mejoras, aprovechamientos y sus accesorios que deriven del ejercicio de las facultades a que se refiere este artículo y, en cantidad líquida el monto correspondiente, que resulten a cargo de los contribuyentes, importadores o exportadores, responsables solidarios y demás obligados; poder determinar las cantidades compensadas indebidamente y, en su caso, imponer las multas correspondientes; poder determinar a los contribuyentes, responsables solidarios y demás obligados el crédito fiscal que corresponda por el pago en parcialidades de contribuciones sin tener derecho a ello; poder determinar la responsabilidad solidaria respecto de créditos fiscales que determine o haya determinado con motivo en sus facultades de comprobación; poder determinar los precios o montos de contraprestaciones en operaciones con partes relacionadas, y valor declarado en partes vinculadas y resolver los problemas de interpretación y aplicación que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando, entre otros, los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas; así como remitir a la unidad administrativa competente del Servicio de Administración Tributaria, los créditos fiscales que determine para su control y cobro;
-
-XV. Poder imponer las sanciones y multas por infracción a las disposiciones fiscales o aduaneras que rigen las materias de su competencia y remitir a la unidad administrativa competente del Servicio de Administración Tributaria para su control y cobro, las sanciones y multas que imponga; así como solicitar el auxilio de la fuerza pública en los casos previstos en la legislación fiscal y aduanera;
-
-XVI. Intervenir en la obtención, análisis y estudio de la información y documentación que se solicite por parte de las autoridades competentes de los países con los que se tengan celebrados acuerdos, acuerdos interinstitucionales, convenios internacionales y tratados; participar conjuntamente con las unidades administrativas competentes del Servicio de Administración Tributaria y de la Secretaría en el ámbito de su competencia, en los grupos de trabajo que se establezcan al amparo de dichos acuerdos, convenios o tratados de los que México sea parte; mantener comunicación con las autoridades fiscales y aduaneras de otros países, para proporcionarles y obtener de ellas la información y documentación en relación con asuntos fiscales o aduaneros de su competencia; así como fungir como autoridad competente, en Organismos Internacionales vinculados con la administración tributaria, en asuntos materia de su competencia, y para ordenar y practicar los actos de comprobación necesarios para la obtención de la información y documentación que resulten procedentes, y en su caso, también para proporcionar información a las autoridades de los países con los que se tengan celebrados acuerdos, acuerdos interinstitucionales, convenios internacionales y tratados, en materia fiscal y aduanera, así como de intercambio de información, interpretarlos y aplicarlos en las materias de su competencia, así como en lo referente a la determinación de precios o montos de contraprestaciones en operaciones con partes relacionadas y partes vinculadas y resolver los problemas que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando, entre otros, los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas;
-
-XVII. Informar al Director General de Fiscalización de los hechos de que tenga conocimiento con motivo de sus actuaciones, que puedan constituir delitos fiscales, acompañando, en su caso, el dictamen técnico contable, la cuantificación del perjuicio sufrido por el fisco federal; de aquellos hechos que puedan constituir delitos en que incurran servidores públicos de la Dirección General de Fiscalización en el desempeño de sus funciones o de otras unidades administrativas de la federación dando la intervención que corresponda al Órgano Interno de Control; de aquellos por los que la Hacienda Pública resulte ofendida o de los delitos previstos en las leyes y disposiciones que regulan el sistema financiero; así como proporcionarle a dicha unidad administrativa, en su carácter de coadyuvante del Ministerio Público, el apoyo técnico y contable en los procedimientos penales que deriven de dichas actuaciones; así como, analizar, detectar y dar seguimiento a las operaciones específicas de comercio exterior, en que se presuma la comisión de cualquier ilícito en cuanto al valor, origen, clasificación arancelaria de mercancías, evasión en el pago de contribuciones, cuotas compensatorias u otros aprovechamientos, derechos, incumplimientos de regulaciones y restricciones no arancelarias e infracciones administrativas, en coordinación con las demás autoridades competentes;
-
-XVIII. En relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleve a cabo en el ámbito de su competencia, así como con motivo del ejercicio de las facultades de comprobación, solicitar a los contribuyentes, importadores, exportadores, responsables solidarios, o terceros relacionados con el contribuyente, datos, informes o documentos adicionales, que consideren necesarios para aclarar la información asentada en las declaraciones de pago provisional del ejercicio y complementarias de conformidad con el artículo 41-A del Código Fiscal de la Federación; así como imponer multas por el incumplimiento o cumplimiento extemporáneo total o parcial, a los requerimientos que formule en los términos de esta fracción;
-
-XIX. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia, y
-
-XX. Acordar con el Director General de Fiscalización los asuntos de su competencia.
-
-La Dirección General Adjunta de Operación Fiscalizadora estará a cargo de un Director General Adjunto auxiliado en el ejercicio de sus facultades por un Director de Fiscalización "A", un Director de Fiscalización "B", Subdirectores, Jefes de Departamento, así como por el personal que se requiera para satisfacer las necesidades de operación.
-
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 ###### Artículo 84-C.
 
-Compete a la Dirección General Adjunta Jurídica:
-
-I. Establecer el criterio de interpretación que las unidades administrativas de la Dirección General de Fiscalización deberán seguir en la aplicación de las disposiciones fiscales y aduaneras en materia de impuestos, contribuciones de mejoras, derechos, aprovechamientos y sus accesorios de carácter federal;
-
-II. Asistir a las unidades administrativas de la Dirección General de Fiscalización, a fin de que en los procedimientos administrativos que dichas unidades lleven a cabo, se cumplan las formalidades previstas en las disposiciones fiscales y aduaneras;
-
-III. Poder determinar, incluso presuntivamente, los impuestos y sus accesorios de carácter federal; aplicar las cuotas compensatorias; poder determinar los derechos, contribuciones de mejoras, aprovechamientos y sus accesorios que deriven del ejercicio de las facultades de comprobación de la Dirección General de Fiscalización y de los casos que ésta continúe respecto de otras autoridades fiscales y determinar en cantidad líquida el monto correspondiente que resulten a cargo de los contribuyentes, importadores o exportadores, responsables solidarios y demás obligados; poder determinar los precios o montos de contraprestaciones en operaciones con partes relacionadas y valor declarado en partes vinculadas y resolver los problemas de interpretación y aplicación que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando, entre otros, los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas; poder determinar las cantidades compensadas indebidamente y, en su caso, imponer las multas correspondientes; poder determinar a los contribuyentes, responsables solidarios y demás obligados el crédito fiscal que corresponda por el pago en parcialidades de contribuciones sin tener derecho a ello; poder determinar la responsabilidad solidaria respecto de créditos fiscales que se determinen o se hayan determinado con motivo del ejercicio de las facultades de comprobación de la Dirección General de Fiscalización y de los casos que ésta continúe respecto de otras autoridades fiscales, así como remitir a la unidad administrativa competente del Servicio de Administración Tributaria, los créditos fiscales que se determinen para su control y cobro;
-
-IV. Poder imponer las sanciones y multas por infracción a las disposiciones fiscales o aduaneras que rigen las materias de la competencia de la Dirección General de Fiscalización, y remitir a la unidad administrativa competente del Servicio de Administración Tributaria, para su control y cobro, las sanciones y multas que se impongan; así como solicitar el auxilio de la fuerza pública en los casos previstos en la legislación fiscal y aduanera;
-
-V. Practicar el embargo precautorio de recursos y bienes del contribuyente y, en su caso, del responsable solidario, para asegurar el interés fiscal cuando, a su juicio, hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales o en los casos en que la ley lo señale; así como levantarlo cuando proceda; practicar el aseguramiento de bienes y contabilidad en los casos en que la ley lo señale, así como levantarlo cuando proceda;
-
-VI. Poder tramitar y resolver los procedimientos administrativos en materia aduanera que se deriven del ejercicio de las facultades de comprobación del cumplimiento de las obligaciones fiscales y aduaneras de la Dirección General de Fiscalización, o de los casos que ésta continúe respecto de otras autoridades fiscales; ordenar, en los casos que proceda, la entrega de las mercancías embargadas, antes de la conclusión del procedimiento a que se refiere esta fracción, previa calificación y aceptación que realice de la garantía del interés fiscal, así como autorizar la sustitución de garantías en los casos que proceda previa calificación y aceptación de la misma; poner a disposición de la instancia competente, la mercancía de procedencia extranjera que haya pasado a propiedad del fisco federal, como consecuencia de un procedimiento aduanero que sea competencia de la Dirección General de Fiscalización, o que encontrándose sujeta a este procedimiento se encuentre en los casos previstos en el artículo 157 de la Ley Aduanera; declarar en el ejercicio de sus atribuciones, cuando proceda, que las mercancías, vehículos, embarcaciones o aeronaves pasan a propiedad del fisco federal;
-
-VII. En relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleve a cabo en el ámbito de su competencia la Dirección General de Fiscalización, verificar el domicilio y demás datos a que están obligados los contribuyentes en materia de registro federal de contribuyentes, así como los manifestados en solicitudes, avisos y pedimentos, y comprobar que los contribuyentes se localicen en el domicilio señalado en los mismos; practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones relacionadas con la presentación de las solicitudes o avisos en materia del registro federal de contribuyentes y, en su caso, solicitar de la autoridad competente del Servicio de Administración Tributaria su inscripción por acto de autoridad; así como declarar que no surten efectos los avisos presentados cuando al revisarse o verificarse no correspondan a lo manifestado, debiendo informar las irregularidades y modificaciones en materia de registro federal de contribuyentes a la unidad administrativa competente del Servicio de Administración Tributaria;
-
-VIII. Dar a conocer a contribuyentes, importadores y exportadores, responsables solidarios y demás obligados, los hechos u omisiones imputables a éstos, conocidos con motivo de la revisión de gabinete, dictámenes o visitas domiciliarias, inspección y verificaciones de origen que practique la Dirección General de Fiscalización, en la resolución que emita en el ámbito de su competencia;
-
-IX. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia; establecer la naturaleza, estado, origen, y demás características de las mercancías de comercio exterior, así como determinar su clasificación arancelaria y solicitar el dictamen que se requiera al agente o apoderado aduanal, al dictaminador aduanero o a cualquier otro perito para ejercer las facultades a que se refiere esta fracción; determinar conforme a la Ley Aduanera el valor en aduana de las mercancías de importación u otra base gravable que se establezca en otras leyes, y el valor comercial de las mercancías de exportación;
-
-X. Informar al Director General de Fiscalización de los hechos de que tenga conocimiento con motivo de sus actuaciones que puedan constituir delitos fiscales o conductas ilícitas previstas en el artículo 400 Bis del Código Penal Federal y demás disposiciones relacionadas con operaciones con dinero o bienes producto de actividades ilícitas, para lo cual podrá solicitar y recibir las pruebas, constancias, documentación, así como la información contenida en los reportes que están obligadas a presentar las instituciones del sistema financiero relacionadas con sus clientes y usuarios y las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera, así como de aquellos delitos en que incurran servidores públicos de la Secretaría y sus órganos desconcentrados en el desempeño de sus funciones, dando la intervención que corresponda al Órgano Interno de Control;
-
-XI. Notificar los actos relacionados con el ejercicio de las facultades de comprobación de la Dirección General de Fiscalización o de los casos que ésta continúe respecto de otras autoridades fiscales, las multas que correspondan a requerimientos no atendidos así como los atendidos en forma extemporánea, total o parcialmente, y otras multas que imponga, de la Dirección General de Fiscalización y remitir los créditos fiscales a la unidad administrativa competente del Servicio de Administración Tributaria para su control y cobro;
-
-XII. Solicitar, requerir y obtener de los servidores públicos, fedatarios y personas autorizadas por la Secretaría que sean terceros relacionados con los contribuyentes, así como de otras autoridades, los informes y datos que tengan con motivo de sus funciones para efectos fiscales y aduaneros;
-
-XIII. Intervenir en la obtención, análisis y estudio de la información y documentación que se solicite por parte de las autoridades competentes de los países con los que se tengan celebrados acuerdos, acuerdos interinstitucionales, convenios internacionales y tratados; participar conjuntamente con las unidades administrativas competentes del Servicio de Administración Tributaria y de la Secretaría en el ámbito de su competencia, en los grupos de trabajo que se establezcan al amparo de dichos acuerdos, convenios o tratados de los que México sea parte; mantener comunicación con las autoridades fiscales y aduaneras de otros países, para proporcionarles y obtener de ellas la información y documentación en relación con asuntos fiscales o aduaneros de su competencia; así como fungir como autoridad competente, en el ámbito de sus facultades para interpretar y aplicar los acuerdos, convenios y tratados mencionados en la presente fracción, en materia fiscal y aduanera, así como de intercambio de información y en lo referente a la determinación de precios o montos de contraprestaciones en operaciones con partes relacionadas y partes vinculadas y resolver los problemas que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando, entre otros, los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas;
-
-XIV. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia, y
-
-XV. Acordar con el Director General de Fiscalización los asuntos de su competencia.
-
-La Dirección General Adjunta Jurídica estará a cargo de un Director General Adjunto, auxiliado en el ejercicio de sus facultades por un Director Jurídico, Subdirectores, Jefes de Departamento, así como por el personal que se requiera para satisfacer las necesidades del servicio.
-
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 ###### Artículo 84-D.
 
-Compete a las Direcciones de Información Fiscal y Aduanera "A" y "B":
-
-I. Investigar el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, pudiendo allegarse y requerir toda la información y documentación necesaria para su investigación; solicitar de los contribuyentes, importadores, exportadores, responsables solidarios o terceros con ellos relacionados, datos, informes o documentos, para planear y programar actos de fiscalización en materia fiscal y aduanera; recabar de los servidores públicos, fedatarios y personas autorizadas por la Secretaría que sean terceros relacionados con los contribuyentes, los informes y datos que tengan con motivo de sus funciones, así como ejercer sus facultades para comprobar el cumplimiento de las obligaciones fiscales y aduaneras; allegarse de las pruebas necesarias para que la Secretaría formule la denuncia, querella o declaratoria al Ministerio Público, e intercambiar información con otras autoridades fiscales;
-
-II. Llevar a cabo las revisiones derivadas de los requerimientos que las autoridades competentes de la Procuraduría Fiscal de la Federación realicen para recibir y revisar que los dictámenes formulados por contador público registrado sobre los estados financieros relacionados con las obligaciones fiscales de los contribuyentes, y respecto de operaciones de enajenación de acciones, así como la declaratoria que emitan para solicitudes de devolución de saldos a favor del impuesto al valor agregado o de cualquier otro tipo de dictamen o declaratoria que tenga repercusión para efectos fiscales, reúnan los requisitos establecidos en las disposiciones fiscales y comprobar el cumplimiento de las disposiciones fiscales y aduaneras de los contribuyentes relativas a impuestos, derechos, contribuciones de mejoras, cuotas compensatorias, aprovechamientos, estímulos fiscales, franquicias, accesorios federales y la actuación profesional del contador público; recibir y revisar que los dictámenes de residentes en el extranjero que tengan establecimiento permanente o base fija en el país y los relativos a la enajenación de acciones que lleven a cabo residentes en el extranjero, de conformidad con el título V de la Ley del Impuesto sobre la Renta, incluyendo el requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados o a contadores públicos autorizados que hayan formulado esta clase de dictámenes para que exhiban sus papeles de trabajo, reúnan los requisitos establecidos en las disposiciones fiscales y comprobar el cumplimiento de las disposiciones fiscales y aduaneras de los contribuyentes relativas a impuestos, derechos, contribuciones de mejoras, cuotas compensatorias, aprovechamientos, estímulos fiscales, franquicias, accesorios federales y de la actuación profesional del contador público; así como para determinar los precios o montos de contraprestaciones en operaciones con partes relacionadas, y valor declarado en partes vinculadas y resolver los problemas de interpretación y aplicación que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando, entre otros, los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas;
-
-III. Notificar los actos relacionados con el ejercicio de las facultades de comprobación de las autoridades competentes de la Procuraduría Fiscal de la Federación, las multas que correspondan a requerimientos no atendidos así como los atendidos en forma extemporánea, total o parcialmente, y otras multas que imponga, y remitir los créditos fiscales a la unidad administrativa competente del Servicio de Administración Tributaria para su control y cobro;
-
-IV. En relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleven a cabo las autoridades competentes de la Procuraduría Fiscal de la Federación, verificar el domicilio y demás datos a que están obligados los contribuyentes en materia de registro federal de contribuyentes, así como los manifestados en solicitudes, avisos y pedimentos, y comprobar que los contribuyentes se localicen en el domicilio señalado en los mismos; practicar las visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones relacionadas con la presentación de las solicitudes o avisos en materia del registro federal de contribuyentes y, en su caso, solicitar de la autoridad competente del Servicio de Administración Tributaria su inscripción por acto de autoridad; así como declarar que no surten efectos los avisos presentados cuando al revisarse o verificarse no correspondan a lo manifestado, debiendo informar las irregularidades y modificaciones en materia de registro federal de contribuyentes a la unidad administrativa competente del Servicio de Administración Tributaria;
-
-V. Informar al Director General de Fiscalización de los hechos de que tenga conocimiento con motivo de sus actuaciones que puedan constituir delitos fiscales o conductas ilícitas previstas en el artículo 400 Bis del Código Penal Federal y demás disposiciones relacionadas con operaciones con dinero o bienes producto de actividades ilícitas, para lo cual podrá solicitar y recibir las pruebas, constancias, documentación, así como la información contenida en los reportes a que están obligadas a presentar las instituciones del sistema financiero relacionadas con sus clientes y usuarios y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera, así como de aquellos delitos en que incurran servidores públicos de la Secretaría y sus órganos desconcentrados en el desempeño de sus funciones;
-
-VI. Intervenir en la obtención, análisis y estudio de la información y documentación que se solicite por parte de las autoridades competentes de los países con los que se tengan celebrados acuerdos, acuerdos interinstitucionales, convenios internacionales y tratados; participar conjuntamente con las unidades administrativas competentes del Servicio de Administración Tributaria y de la Secretaría en el ámbito de su competencia, en los grupos de trabajo que se establezcan al amparo de dichos acuerdos, convenios o tratados de los que México sea parte; mantener comunicación con las autoridades fiscales y aduaneras de otros países, para proporcionarles y obtener de ellas la información y documentación en relación con asuntos fiscales o aduaneros de su competencia; así como fungir como autoridad competente, en el ámbito de sus facultades para interpretar y aplicar los acuerdos, convenios y tratados mencionados en la presente fracción, en materia fiscal y aduanera, así como de intercambio de información y en lo referente a la determinación de precios o montos de contraprestaciones en operaciones con partes relacionadas y partes vinculadas y resolver los problemas que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas;
-
-VII. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia, y
-
-VIII. Acordar con el Director General de Fiscalización y, en su caso con los Directores Generales Adjuntos los asuntos de su competencia.
-
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 ###### Artículo 84-E.
 
-Compete a las Direcciones de Fiscalización "A" y "B":
-
-I. Practicar las visitas domiciliarias, auditorías, verificaciones de origen, inspecciones, actos de vigilancia, verificaciones, reconocimiento aduanero de las mercancías de comercio exterior y los demás actos que establezcan las disposiciones fiscales y aduaneras que ordenen las autoridades competentes de la Procuraduría Fiscal de la Federación, para comprobar el cumplimiento de las obligaciones de los contribuyentes, importadores, exportadores, responsables solidarios, terceros relacionados con los contribuyentes y demás obligados en materia de impuestos, incluyendo los que se causen por la entrada al territorio nacional o salida del mismo de mercancías y medios de transporte, derechos, contribuciones de mejoras, cuotas compensatorias, aprovechamientos, estímulos fiscales, franquicias y accesorios de carácter federal, compensaciones efectuadas y saldos a favor determinados por el contribuyente, cuentas aduaneras y pagos en parcialidades no autorizados, o sin tener derecho a ello; así como para recabar de los servidores públicos, fedatarios y personas autorizadas por la Secretaría que sean terceros relacionados con los contribuyentes, los informes y datos que tengan con motivo de sus funciones; y en materia de determinación de la base de los impuestos generales de importación o exportación, verificar y, en su caso, determinar la correcta clasificación arancelaria de las mercancías de procedencia extranjera, el valor en aduana de las mercancías de importación u otra base gravable que se establezca en las leyes, el valor comercial de las mercancías de exportación, así como comprobar de conformidad con los acuerdos, convenios o tratados en materia fiscal o aduanera de los que México sea parte, el cumplimiento de obligaciones a cargo de importadores y exportadores; revisar el empleo de tuberías, ductos, cables u otros medios susceptibles de conducir mercancías de importación y exportación autorizados o que requieran autorización por autoridad competente; verificar tanto la existencia de los documentos que acrediten la legal estancia y tenencia de las mercancías de comercio exterior, vehículos, aeronaves y embarcaciones de procedencia extranjera, el cumplimiento de las obligaciones en materia de regulaciones y restricciones no arancelarias, normas oficiales mexicanas, cumplimiento de las reglas de origen contenidas en los tratados internacionales; practicar y notificar el embargo precautorio de aquellas mercancías respecto de las cuales no se acredite su legal introducción al país e inicio del procedimiento administrativo en materia aduanera; habilitar almacenes como recintos fiscales para uso de la autoridad fiscal y aduanera; revisar y determinar los precios o montos de contraprestaciones en operaciones con partes relacionadas, y valor declarado en partes vinculadas y resolver los problemas de interpretación y aplicación que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando, entre otros, los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas;
-
-II. Llevar a cabo las revisiones derivadas de los requerimientos que las autoridades competentes de la Procuraduría Fiscal de la Federación realicen a los contribuyentes, importadores, exportadores, responsables solidarios o terceros con ellos relacionados, o a contadores públicos autorizados que hayan formulado dictámenes o declaratorias para efectos fiscales, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos, otros documentos, instrumentos e informes, y en el caso de dichos contadores, también para que exhiban sus papeles de trabajo, así como para recabar de los servidores públicos, fedatarios y personas autorizadas por la Secretaría que sean terceros relacionados con los contribuyentes, los informes y datos que tengan con motivo de sus funciones, todo ello para proceder a su revisión, a fin de comprobar el cumplimiento de las disposiciones legales en las materias señaladas en la fracción I de este artículo;
-
-III. Llevar a cabo las revisiones derivadas de los requerimientos que las autoridades competentes de la Procuraduría Fiscal de la Federación realicen para comprobar que los dictámenes formulados por contador público registrado sobre los estados financieros relacionados con las obligaciones fiscales de los contribuyentes, y respecto de operaciones de enajenación de acciones, así como la declaratoria que emitan para solicitudes de devolución de saldos a favor del impuesto al valor agregado o de cualquier otro tipo de dictamen o declaratoria que tenga repercusión para efectos fiscales, reúnan los requisitos establecidos en las disposiciones fiscales y comprobar el cumplimiento de las disposiciones fiscales y aduaneras de los contribuyentes relativas a impuestos, derechos, contribuciones de mejoras, cuotas compensatorias, aprovechamientos, estímulos fiscales, franquicias, accesorios federales y la actuación profesional del contador público; recibir y revisar que los dictámenes de residentes en el extranjero que tengan establecimiento permanente o base fija en el país y los relativos a la enajenación de acciones que lleven a cabo residentes en el extranjero, de conformidad con el título V de la Ley del Impuesto sobre la Renta, incluyendo los requerimientos a los contribuyentes, responsables solidarios o terceros con ellos relacionados o a contadores públicos autorizados que hayan formulado esta clase de dictámenes para que exhiban sus papeles de trabajo, reúnan los requisitos establecidos en las disposiciones fiscales y comprobar el cumplimiento de las disposiciones fiscales y aduaneras de los contribuyentes relativas a impuestos, derechos, contribuciones de mejoras, cuotas compensatorias, aprovechamientos, estímulos fiscales, franquicias, accesorios federales y de la actuación profesional del contador público; así como para determinar los precios o montos de contraprestaciones en operaciones con partes relacionadas, y valor declarado en partes vinculadas y resolver los problemas de interpretación y aplicación que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando, entre otros, los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas;
-
-IV. Notificar los actos relacionados con el ejercicio de las facultades de comprobación de las autoridades competentes de la Procuraduría Fiscal de la Federación, las multas que correspondan a requerimientos no atendidos así como los atendidos en forma extemporánea, total o parcialmente, y otras multas que imponga, y remitir los créditos fiscales a la unidad administrativa competente del Servicio de Administración Tributaria para su control y cobro;
-
-V. En relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleven a cabo las autoridades competentes de la Procuraduría Fiscal de la Federación, verificar el domicilio y demás datos a que están obligados los contribuyentes en materia de registro federal de contribuyentes, así como los manifestados en solicitudes, avisos y pedimentos, y comprobar que los contribuyentes se localicen en el domicilio señalado en los mismos; practicar las visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones relacionadas con la presentación de las solicitudes o avisos en materia del registro federal de contribuyentes y, en su caso, solicitar de la autoridad competente del Servicio de Administración Tributaria su inscripción por acto de autoridad; así como declarar que no surten efectos los avisos presentados cuando al revisarse o verificarse no correspondan a lo manifestado, debiendo informar las irregularidades y modificaciones en materia de registro federal de contribuyentes a la unidad administrativa competente del Servicio de Administración Tributaria;
-
-VI. Practicar el embargo precautorio de recursos y bienes del contribuyente, y en su caso, del responsable solidario, para asegurar el interés fiscal cuando, a su juicio, hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales o en los casos en que la ley lo señale; así como levantarlo cuando proceda; practicar el aseguramiento de bienes y contabilidad en los casos en que la ley lo señale, así como levantarlo cuando proceda;
-
-VII. Poder tramitar los procedimientos administrativos en materia aduanera que se deriven del ejercicio de sus facultades de comprobación de las autoridades competentes de la Procuraduría Fiscal de la Federación sobre el cumplimiento de las obligaciones fiscales y aduaneras; entregar, en los casos que proceda, las mercancías embargadas, antes de la conclusión del procedimiento a que se refiere esta fracción, previa calificación y aceptación que realice de la garantía del interés fiscal, poner a disposición de la instancia competente, la mercancía de procedencia extranjera que haya pasado a propiedad del fisco federal, como consecuencia de un procedimiento administrativo en materia aduanera que sea de la competencia de la Dirección General de Fiscalización, o que encontrándose sujeta a este procedimiento se encuentre en los casos previstos en el artículo 157 de la Ley Aduanera;
-
-VIII. Elaborar el dictamen técnico contable y la cuantificación del perjuicio ocasionado al fisco federal; designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia; establecer la naturaleza, estado, origen, y demás características de las mercancías de comercio exterior, así como determinar su clasificación arancelaria y solicitar el dictamen que se requiera al agente o apoderado aduanal, al dictaminador aduanero o a cualquier otro perito para ejercer las facultades a que se refiere esta fracción; determinar conforme a la Ley Aduanera el valor en aduana de las mercancías de importación u otra base gravable que se establezca en otras leyes, y el valor comercial de las mercancías de exportación;
-
-IX. Informar al Director General de Fiscalización de los hechos de que tenga conocimiento con motivo de sus actuaciones que puedan constituir delitos fiscales o conductas ilícitas previstas en el artículo 400 Bis del Código Penal Federal y demás disposiciones relacionadas con operaciones con dinero o bienes producto de actividades ilícitas;
-
-X. Solicitar a las autoridades competentes del Servicio de Administración Tributaria el apoyo que estime necesario para la práctica de los actos de fiscalización que lleve a cabo; informarles sobre las irregularidades detectadas en el ejercicio de sus facultades de comprobación respecto de la actuación de contadores públicos registrados, agentes y apoderados aduanales por no cumplir con las disposiciones fiscales y aduaneras, para que las autoridades competentes determinen la suspensión o cancelación del registro de dicho contador público, lo exhorten o amonesten, así como para que suspendan o cancelen la patente aduanal o la autorización del apoderado aduanal, aportándoles los elementos necesarios para que dichas autoridades ejerzan sus facultades;
-
-XI. Dar a conocer a contribuyentes, importadores y exportadores, responsables solidarios y demás obligados, los hechos u omisiones imputables a éstos, conocidos con motivo de la revisión de gabinete, dictámenes o visitas domiciliarias, inspección y verificaciones de origen que les practiquen, y hacer constar dichos hechos y omisiones en el oficio de observaciones o en la última acta parcial que se levante, así como lo que proceda en el acta final o resolución que se emita;
-
-XII. Poder determinar, incluso presuntivamente, los impuestos y sus accesorios de carácter federal; aplicar las cuotas compensatorias; poder determinar los derechos, contribuciones de mejoras, aprovechamientos y sus accesorios que deriven del ejercicio de las facultades a que se refiere este artículo y, en cantidad líquida el monto correspondiente, que resulten a cargo de los contribuyentes, importadores o exportadores, responsables solidarios y demás obligados; poder determinar las cantidades compensadas indebidamente y, en su caso, imponer las multas correspondientes; poder determinar a los contribuyentes, responsables solidarios y demás obligados el crédito fiscal que corresponda por el pago en parcialidades de contribuciones sin tener derecho a ello; poder determinar la responsabilidad solidaria respecto de créditos fiscales que determine o haya determinado con motivo de sus facultades de comprobación; poder determinar los precios o montos de contraprestaciones en operaciones con partes relacionadas, y valor declarado en partes vinculadas y resolver los problemas de interpretación y aplicación que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando, entre otros, los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas; así como remitir a la unidad administrativa competente del Servicio de Administración Tributaria, los créditos fiscales que determine para su control y cobro;
-
-XIII. Poder imponer las sanciones y multas por infracción a las disposiciones fiscales o aduaneras que rigen las materias de su competencia y remitir a la unidad administrativa competente del Servicio de Administración Tributaria para su control y cobro, las sanciones y multas que imponga; así como solicitar el auxilio de la fuerza pública en los casos previstos en la legislación fiscal y aduanera;
-
-XIV. Intervenir en la obtención, análisis y estudio de la información y documentación que se solicite por parte de las autoridades competentes de los países con los que se tengan celebrados acuerdos, acuerdos interinstitucionales, convenios internacionales y tratados; así como practicar los actos de comprobación necesarios para la obtención de la información y documentación que resulten procedentes, para proporcionarlos a las autoridades de los países con los que se tengan celebrados acuerdos, acuerdos interinstitucionales, convenios internacionales y tratados, en materia fiscal y aduanera;
-
-XV. Informar al Director General de Fiscalización de los hechos de que tenga conocimiento con motivo de sus actuaciones, que puedan constituir delitos fiscales, acompañando, en su caso, el dictamen técnico contable, la cuantificación del perjuicio sufrido por el fisco federal; de aquellos hechos que puedan constituir delitos en que incurran servidores públicos de la Dirección General de Fiscalización en el desempeño de sus funciones o de otras unidades administrativas de la federación dando la intervención que corresponda al Órgano Interno de Control;
-
-XVI. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia, y
-
-XVII. Acordar con el Director General de Fiscalización y, en su caso, con los Directores Generales Adjuntos los asuntos de su competencia.
-
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 ###### Artículo 84-F.
 
-Compete a la Dirección Jurídica:
-
-I. Establecer el criterio de interpretación que las unidades administrativas de la Dirección General de Fiscalización deberán seguir en la aplicación de las disposiciones fiscales y aduaneras en materia de impuestos, contribuciones de mejoras, derechos, aprovechamientos y sus accesorios de carácter federal;
-
-II. Asistir a las unidades administrativas de la Dirección General de Fiscalización, a fin de que en los procedimientos administrativos que dichas unidades lleven a cabo, se cumplan las formalidades previstas en las disposiciones fiscales y aduaneras;
-
-III. Practicar el embargo precautorio de recursos y bienes del contribuyente, y en su caso, del responsable solidario, para asegurar el interés fiscal cuando, a su juicio, hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales o en los casos en que la ley lo señale; así como levantarlo cuando proceda; practicar el aseguramiento de bienes y contabilidad en los casos en que la ley lo señale, así como levantarlo cuando proceda;
-
-IV. Informar al Director General de Fiscalización de los hechos de que tenga conocimiento con motivo de sus actuaciones que puedan constituir delitos fiscales o conductas ilícitas previstas en el artículo 400 Bis del Código Penal Federal y demás disposiciones relacionadas con operaciones con dinero o bienes producto de actividades ilícitas, para lo cual podrá solicitar y recibir las pruebas, constancias, documentación, así como la información contenida en los reportes a que están obligadas a presentar las instituciones del sistema financiero relacionadas con sus clientes y usuarios y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera, así como de aquellos delitos en que incurran servidores públicos de la Secretaría y sus órganos desconcentrados en el desempeño de sus funciones, dando la intervención que corresponda al Órgano Interno de Control;
-
-V. Poder determinar, incluso presuntivamente, los impuestos y sus accesorios de carácter federal; aplicar las cuotas compensatorias; poder determinar los derechos, contribuciones de mejoras, aprovechamientos y sus accesorios que deriven del ejercicio de las facultades de comprobación atribuidas a la Dirección General de Fiscalización y de los casos que ésta continúe respecto de otras autoridades fiscales y, determinar en cantidad líquida el monto correspondiente, que resulten a cargo de los contribuyentes, importadores o exportadores, responsables solidarios y demás obligados; poder determinar los precios o montos de contraprestaciones en operaciones con partes relacionadas, y valor declarado en partes vinculadas y resolver los problemas de interpretación y aplicación que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando, entre otros, los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas; poder determinar las cantidades compensadas indebidamente y, en su caso, imponer las multas correspondientes; poder determinar a los contribuyentes, responsables solidarios y demás obligados el crédito fiscal que corresponda por el pago en parcialidades de contribuciones sin tener derecho a ello; poder determinar la responsabilidad solidaria respecto de créditos fiscales que se determinen o se hayan determinado con motivo del ejercicio de las facultades de comprobación de la Dirección General de Fiscalización y de los casos que ésta continúe respecto de otras autoridades fiscales; así como remitir a la unidad administrativa competente del Servicio de Administración Tributaria, los créditos fiscales que se determinen para su control y cobro;
-
-VI. Poder imponer las sanciones y multas por infracción a las disposiciones fiscales o aduaneras que rigen las materias de la competencia de la Dirección General de Fiscalización, y remitir a la unidad administrativa competente del Servicio de Administración Tributaria para su control y cobro, las sanciones y multas que se impongan; así como solicitar el auxilio de la fuerza pública en los casos previstos en la legislación fiscal y aduanera;
-
-VII. Poder tramitar y resolver los procedimientos administrativos en materia aduanera que se deriven del ejercicio de las facultades de comprobación del cumplimiento de las obligaciones fiscales y aduaneras de la Dirección General de Fiscalización, o de los casos que ésta continúe respecto de otras autoridades fiscales; ordenar, en los casos que proceda, la entrega de las mercancías embargadas, antes de la conclusión del procedimiento a que se refiere esta fracción, previa calificación y aceptación que realice de la garantía del interés fiscal, así como autorizar la sustitución de garantías en los casos que proceda previa calificación y aceptación de la misma; poner a disposición de la instancia competente, la mercancía de procedencia extranjera que haya pasado a propiedad del fisco federal, como consecuencia de un procedimiento aduanero que sea competencia de la Dirección General de Fiscalización, o que encontrándose sujeta a este procedimiento se encuentre en los casos previstos en el artículo 157 de la Ley Aduanera; declarar en el ejercicio de sus atribuciones, cuando proceda, que las mercancías, vehículos, embarcaciones o aeronaves pasan a propiedad del fisco federal;
-
-VIII. En relación a las investigaciones sobre el cumplimiento de obligaciones fiscales y aduaneras y, en su caso, sobre los hechos en que el fisco federal pudiera querellarse, denunciar, formular declaratoria, haya sufrido o pueda sufrir perjuicio, que lleve a cabo en el ámbito de su competencia la Dirección General de Fiscalización, verificar el domicilio y demás datos a que están obligados los contribuyentes en materia de registro federal de contribuyentes, así como los manifestados en solicitudes, avisos y pedimentos, y comprobar que los contribuyentes se localicen en el domicilio señalado en los mismos; practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones relacionadas con la presentación de las solicitudes o avisos en materia del registro federal de contribuyentes y, en su caso, solicitar de la autoridad competente del Servicio de Administración Tributaria su inscripción por acto de autoridad; así como declarar que no surten efectos los avisos presentados cuando al revisarse o verificarse no correspondan a lo manifestado, debiendo informar las irregularidades y modificaciones en materia de registro federal de contribuyentes a la unidad administrativa competente del Servicio de Administración Tributaria;
-
-IX. Dar a conocer a contribuyentes, importadores y exportadores, responsables solidarios y demás obligados, los hechos u omisiones imputables a éstos, conocidos con motivo de la revisión de gabinete, dictámenes o visitas domiciliarias, inspección y verificaciones de origen que practique la Dirección General de Fiscalización, en la resolución que emita en el ámbito de su competencia;
-
-X. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia; establecer la naturaleza, estado, origen, y demás características de las mercancías de comercio exterior, así como determinar su clasificación arancelaria y solicitar el dictamen que se requiera al agente o apoderado aduanal, al dictaminador aduanero o a cualquier otro perito para ejercer las facultades a que se refiere esta fracción; determinar conforme a la Ley Aduanera el valor en aduana de las mercancías de importación u otra base gravable que se establezca en otras leyes, y el valor comercial de las mercancías de exportación;
-
-XI. Notificar los actos relacionados con el ejercicio de las facultades de comprobación de la Dirección General de Fiscalización de los casos que ésta continúe respecto de otras autoridades fiscales, las multas que correspondan a requerimientos no atendidos así como los atendidos en forma extemporánea, total o parcialmente, de la Dirección General de Fiscalización y remitir los créditos fiscales a la unidad administrativa competente del Servicio de Administración Tributaria para su control y cobro;
-
-XII. Solicitar, requerir y obtener de los servidores públicos, fedatarios y personas autorizadas por la Secretaría que sean terceros relacionados con los contribuyentes, así como de otras autoridades, los informes y datos que tengan con motivo de sus funciones para efectos fiscales y aduaneros;
-
-XIII. Intervenir en la obtención, análisis y estudio de la información y documentación que se solicite por parte de las autoridades competentes de los países con los que se tengan celebrados acuerdos, acuerdos interinstitucionales, convenios internacionales y tratados; participar conjuntamente con las unidades administrativas competentes del Servicio de Administración Tributaria y de la Secretaría en el ámbito de su competencia, en los grupos de trabajo que se establezcan al amparo de dichos acuerdos, convenios o tratados de los que México sea parte; mantener comunicación con las autoridades fiscales y aduaneras de otros países, para proporcionarles y obtener de ellas la información y documentación en relación con asuntos fiscales o aduaneros de su competencia; así como fungir como autoridad competente, en el ámbito de sus facultades para interpretar y aplicar los acuerdos, convenios y tratados mencionados en la presente fracción, en materia fiscal y aduanera, así como de intercambio de información y en lo referente a la determinación de precios o montos de contraprestaciones en operaciones con partes relacionadas y partes vinculadas y resolver los problemas que se susciten de acuerdo con los procedimientos establecidos en los mismos, para poder determinar los ingresos acumulables y deducciones autorizadas en operaciones celebradas entre partes relacionadas, considerando, entre otros, los precios o montos de las contraprestaciones que hubieran utilizado partes independientes en operaciones comparables, y determinar el valor en aduana y comercial en partes vinculadas;
-
-XIV. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia, y
-
-XV. Acordar con el Director General de Fiscalización y, en su caso con los Directores Generales Adjuntos, los asuntos de su competencia.
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 > <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2002)</small>
 
@@ -6101,7 +6751,7 @@ XI. Acordar con el Director General de Control Procedimental los asuntos de su c
 
 Compete a la Subtesorería de Operación:
 
-I. Operar con la participación de todos los usuarios autorizados por la Tesorería de la Federación el Sistema Integral de Administración Financiera Federal conforme a los criterios, lineamientos, procedimientos y demás disposiciones que para el efecto se establezcan;
+I. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 II. Efectuar y controlar las asignaciones de disponibilidad financiera, así como los pagos autorizados que afecten al Presupuesto de Egresos de la Federación y los demás que legalmente deba hacer el Gobierno Federal en función de sus disponibilidades;
 
@@ -6137,11 +6787,9 @@ XVI. Proponer al Tesorero de la Federación, para su aprobación, las adecuacion
 
 XVII. Llevar el control del catálogo de cuentas bancarias u otras similares, en las que sean depositados recursos por parte de las dependencias y entidades de la administración pública federal;
 
-XVIII. Autorizar las modalidades de uso, nivel jerárquico, de responsabilidad y de seguridad, que deben satisfacer todos los usuarios, incluyendo los de las unidades sujetas a incorporarse al Sistema Integral de Administración Financiera Federal; así como controlar las altas, bajas y cambios de los usuarios de alto nivel jerárquico, que se hayan definido en las reglas correspondientes;
+XVIII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
-
-XIX. Someter, a la aprobación del Tesorero de la Federación, en coordinación con la Dirección General de Sistemas Automatizados, los proyectos de la propia Tesorería susceptibles de ser automatizados. Una vez aprobados, evaluar su correcto funcionamiento;
+XIX. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 > <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
 
@@ -6197,7 +6845,9 @@ I. Proponer, para aprobación superior, los programas en materia de inspección,
 
 II. Establecer en función de los programas aprobados, los sistemas, procedimientos y métodos de trabajo en las materias de su competencia;
 
-III. Ordenar y practicar inspecciones, auditorías, investigaciones, visitas, compulsas, reconocimiento de existencias, análisis de los sistemas de control establecidos y otras formas de comprobación de la adecuada recaudación, manejo, custodia, aplicación o administración de los fondos y valores propiedad o al cuidado de la Federación por parte de los servidores públicos y auxiliares, así como de las funciones que realizan las unidades propias de la Tesorería de la Federación y de los procedimientos administrativos que deban cumplir sin detrimento de las facultades que correspondan a otras dependencias y emitir recomendaciones;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+III. Ordenar y practicar inspecciones, auditorías, investigaciones, visitas, compulsas, reconocimiento de existencias, análisis de los sistemas de control establecidos y otras formas de comprobación de la adecuada recaudación, manejo, custodia, aplicación o administración de los fondos y valores propiedad o al cuidado de la Federación por parte de los servidores públicos y auxiliares, así como para la revisión de las operaciones realizadas por los sujetos mencionados relacionadas con la adquisición de bienes o contratación de servicios vinculados con proyectos de infraestructura productiva de largo plazo que afecten fondos o valores federales, y respecto de las funciones que realizan las unidades propias de la Tesorería de la Federación y de los procedimientos administrativos que deban cumplir sin detrimento de las facultades que corresponden a otras dependencias y emitir recomendaciones;
 
 IV. Embargar precautoriamente los bienes de los servidores públicos, responsables de irregularidades en la recaudación, manejo, custodia, aplicación o administración de fondos y valores de la propiedad o al cuidado de la Federación para asegurar los intereses del Erario Federal y suspender provisionalmente en las funciones de recaudación, manejo, custodia, aplicación o administración de fondos y valores a dichos responsables, informando de ello, inmediatamente, a la Secretaría de Contraloría y Desarrollo Administrativo y ordenar la sustitución que, en su caso, corresponda;
 
@@ -6215,7 +6865,9 @@ VIII. Informar los resultados de sus actuaciones a los órganos internos de cont
 
 IX. Informar a la Procuraduría Fiscal de la Federación de los hechos de que tenga conocimiento que puedan constituir delitos en el desempeño de las funciones de los servidores públicos, para que ejerza sus facultades;
 
-X. Vigilar las actividades asociadas con el procedimiento, seguimiento y control de la recaudación de contribuciones federales de conformidad con la autorización otorgada a las instituciones de crédito; así como supervisar que en caso de que existan irregularidades en las concentraciones de fondos, dichas instituciones enteren los montos correspondientes a los importes desfasados y a las sanciones aplicables;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+X. Vigilar las actividades asociadas con el procedimiento, seguimiento y control de la recaudación de contribuciones federales de conformidad con la autorización otorgada a las instituciones de crédito; así como requerir a las instituciones mencionadas el entero de los montos correspondientes a importes desfasados, así como a los intereses y a las sanciones aplicables cuando existan irregularidades en las concentraciones de fondos;
 
 XI. Dirigir y coordinar los programas de trabajo y las actividades que desempeñen las Delegaciones Regionales de la Tesorería de la Federación y supervisar su correcto funcionamiento;
 
@@ -6235,7 +6887,9 @@ Compete a la Dirección de Fiscalización a Dependencias y Entidades:
 
 I. Aplicar los programas aprobados en materia de inspección, vigilancia y comprobación de la adecuada recaudación, manejo, custodia, aplicación o administración de los fondos y valores de la propiedad o al cuidado de la Federación por parte de los servidores públicos y sus auxiliares; así como los sistemas, procedimientos y métodos de trabajo establecidos;
 
-II. Ordenar y practicar por conducto de su personal las visitas, inspecciones, compulsas, análisis de los sistemas de control establecidos, auditorías y otras formas de comprobación de la adecuada recaudación, manejo, custodia, aplicación o administración de los fondos y valores propiedad o al cuidado de la Federación por parte de los servidores públicos y sus auxiliares;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+II. Ordenar y practicar por conducto de su personal, las visitas, inspecciones, compulsas, análisis de los sistemas de control establecidos, auditorías y otras formas de comprobación de la adecuada recaudación, manejo, custodia, aplicación o administración de los fondos y valores propiedad o al cuidado de la Federación por parte de los servidores públicos y sus auxiliares, así como para la revisión de las operaciones realizadas por los sujetos mencionados relacionadas con la adquisición de bienes o contratación de servicios vinculados con proyectos de infraestructura productiva de largo plazo que afecten fondos o valores federales;
 
 III. Formular pliegos preventivos de responsabilidades y los de observaciones, así como proceder a su notificación, requerimiento de pago y dictar mandamiento de ejecución por escrito, debidamente fundado y motivado, designando ejecutor para embargar precautoriamente bienes propiedad de los responsables de irregularidades, asegurando los intereses del Erario Federal; ampliar y reducir los embargos precautorios cuando proceda;
 
@@ -6493,89 +7147,63 @@ XI. Acordar con el Director General de Procedimientos Legales los asuntos de su 
 
 XII. Atender los demás asuntos que le encomiende el Director General de Procedimientos Legales.
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
-
 ###### Artículo 91-D.
 
-Compete a la Coordinación de Procesos y Estructuras de Información de la Tesorería de la Federación:
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
-I. Coordinar, de conformidad con los criterios establecidos por la Coordinación de Tecnologías de Comunicaciones e Información y la Coordinación de Seguridad de Información y Tecnología, la política en tecnología, estructuras de información y procesos en la Tesorería de la Federación, así como fomentar la optimización en el desarrollo y explotación de soluciones de tecnologías de información;
-
-II. Determinar la factibilidad técnica de soluciones de tecnologías de información y servicios en la materia para la Tesorería de la Federación; así como proponer a la Coordinación de Tecnologías de Comunicaciones e Información su implantación, modernización, cambio y desecho;
-
-III. Coordinar la automatización total o parcial de los procesos de las unidades administrativas adscritas a la Tesorería de la Federación, a fin de eficientar los recursos humanos, materiales, presupuestarios y tecnológicos; así como proponer soluciones para satisfacer las necesidades de automatización en coadyuvancia con la Coordinación de Tecnologías de Comunicaciones e Información;
-
-IV. Promover el uso de políticas de gobierno electrónico para ofrecer servicios de calidad a los clientes de la Tesorería de la Federación;
-
-V. Mantener la operación de los sistemas que apoyan algún proceso en la Tesorería de la Federación y proponer su robustecimiento y actualización;
-
-VI. Vigilar y promover que los servicios en materia de tecnologías de comunicaciones e información sean proporcionados de manera óptima en la Tesorería de la Federación, aun en el supuesto de que sean prestados por terceros;
-
-VII. Apoyar a las unidades administrativas adscritas a la Tesorería de la Federación responsables de mantener actualizado el inventario de datos e información, con el desarrollo y promoción de procedimientos que aseguren la calidad y oportunidad de la información; así como mantener actualizadas las estructuras que soportan dichos datos e información en el Almacén Único de Información de la Secretaría, de acuerdo a las atribuciones que le otorgue la Coordinación de Tecnologías de Comunicaciones e Información;
-
-VIII. Representar, en las materias de su competencia, a la Tesorería de la Federación en foros y grupos de trabajos organizados por la Secretaría o por organismos públicos o privados, y
-
-IX. Acordar con el Tesorero de la Federación los asuntos de su competencia.
-
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 91-E.
 
-Compete a la Dirección General Adjunta de Cartera y Activos no Monetarios:
-
-I. Administrar y cobrar los créditos a favor del Gobierno Federal, distintos de los fiscales, que estén radicados en la Tesorería;
-
-II. Intervenir en los contratos respectivos, en el caso de desincorporación o venta de empresas paraestatales, así como en los procesos de venta de activos, en los que sea parte el Gobierno Federal a través de sus coordinadoras de sector exclusivamente con el objeto de verificar que los términos y condiciones pactados, y que sean materia de competencia de la Tesorería de la Federación se ajusten a los lineamientos que señale la propia Tesorería para la administración y cobro de créditos, con la participación de la unidad administrativa competente de la Secretaría;
-
-III. Proponer, para aprobación superior la autorización de prórrogas o plazos, así como la reestructuración de las condiciones de los créditos a favor del Gobierno Federal, distintos de contribuciones y sus accesorios, con las limitaciones que establezcan las disposiciones legales aplicables y previa garantía de su importe y accesorios, así como realizar el análisis, evaluación y negociación de las propuestas de los deudores para la reestructura de los adeudos;
-
-IV. Ejercer oportunamente los derechos patrimoniales de los valores que representen inversiones directas del Gobierno Federal, asistiendo, en su caso, a las asambleas de accionistas conjuntamente con el representante de la correspondiente coordinadora de sector; así como emitir constancias de tenencias accionarias de los títulos que se encuentren en guarda y custodia de la Tesorería de la Federación a quien demuestre un interés legítimo conforme a la Ley, de conformidad con lo establecido en la Ley del Servicio de Tesorería de la Federación y demás disposiciones aplicables;
-
-V. Proponer las políticas y los procedimientos necesarios para la tramitación de la dación en pago e intervenir en la instrumentación de la misma, respecto de los bienes y servicios que los deudores ofrezcan en pago de toda clase de créditos a favor del Gobierno Federal, de conformidad con lo dispuesto por la Ley del Servicio de Tesorería de la Federación y demás disposiciones aplicables;
-
-VI. Recibir los activos no monetarios que deban ser puestos a disposición de la Tesorería de la Federación y conservarlos hasta en tanto se transfieran, de conformidad con las disposiciones aplicables a la instancia competente para su administración, enajenación o destrucción, siempre que dicha transferencia, administración, enajenación o destrucción no sea encomendada a los auxiliares;
-
-VII. Solicitar, de acuerdo con las disposiciones aplicables, a la instancia competente la regularización de los bienes puestos a disposición de la Tesorería de la Federación;
-
-VIII. Analizar, calificar y proceder al cobro de los créditos distintos de los fiscales a favor del Gobierno Federal radicados en la Tesorería de la Federación, de conformidad con las disposiciones legales aplicables. Cuando como resultado de las gestiones ordinarias que realice, no se logre el cobro de los créditos señalados, procederá a remitir expediente de lo actuado a la Dirección General de Procedimientos Legales, para que esta última solicite a las autoridades competentes, se lleven a cabo los trámites necesarios para la recuperación de los créditos correspondientes;
-
-IX. Manejar, supervisar, administrar y ejercer directamente o a través de sus auxiliares autorizados o de la instancia competente, los fondos revolventes constituidos para sufragar los gastos inherentes a la administración y recuperación de los créditos no fiscales radicados en la Tesorería de la Federación, así como en su caso, para la administración, regularización, conservación, custodia, promoción, propalación y venta de los bienes puestos a disposición de la Tesorería de la Federación, y
-
-X. Someter a la aprobación del Tesorero de la Federación, previo análisis e investigación que efectúe y que cuente con el visto bueno de la Dirección General de Procedimientos Legales, las propuestas de cancelación de créditos distintos de los fiscales a favor del Gobierno Federal, radicados en la Tesorería de la Federación, de conformidad con las disposiciones legales aplicables.
-
-### CAPÍTULO VII. DE LAS DIRECCIONES DE TÉCNICA OPERATIVA
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE JUNIO DE 1998)</small>
-
-###### Artículo 92.
-
-Las Subsecretarías de Hacienda y Crédito Público, la de Ingresos, la de Egresos, así como la Oficialía Mayor, la Procuraduría Fiscal de la Federación y la Tesorería de la Federación, contarán cada una de ellas, con una Dirección de Técnica Operativa a las que compete:
-
-I. Integrar y consolidar los programas y presupuestos de la unidad administrativa de que dependa, de acuerdo a los lineamientos que fije la Oficialía Mayor;
-
-II. Atender las necesidades en materia de personal, recursos materiales y presupuestales, de acuerdo a los lineamientos que fije la Oficialía Mayor;
+Compete a la Dirección General Adjunta de Administración de Cartera y Activos no Monetarios:
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
-III. Suscribir contratos y formalizar pedidos para la adquisición o arrendamiento de bienes, hasta por el límite presupuestario que se les autorice por ejercicio fiscal, con base en la tabla de montos que se emite en el Presupuesto de Egresos de la Federación y de acuerdo con la normativa que al respecto emita la Oficialía Mayor;
+I. Administrar y cobrar los créditos a favor del Gobierno Federal, distintos de los fiscales, que estén radicados en la Tesorería;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
-III Bis. Suscribir contratos para la adquisición de servicios profesionales independientes, hasta por el límite presupuestario que se les autorice por ejercicio fiscal, y de acuerdo con los lineamientos que al respecto emita la Oficialía Mayor;
+II. Intervenir en los contratos respectivos, en el caso de desincorporación o venta de empresas paraestatales, así como en los procesos de venta de activos, en los que sea parte el Gobierno Federal a través de sus coordinadoras de sector exclusivamente con el objeto de verificar que los términos y condiciones pactados, y que sean materia de competencia de la Tesorería de la Federación se ajusten a los lineamientos que señale la propia Tesorería para la administración y cobro de créditos, con la participación de la unidad administrativa competente de la Secretaría;
 
-IV. Controlar la operación administrativa y los procedimientos de trabajo de las unidades administrativas de su área y, en su caso, servir de enlace entre las unidades administrativas centrales y las regionales correspondientes y auxiliarlas en el eficaz desempeño de sus funciones;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
-V. Coordinar las actividades relativas a la selección de aspirantes, a la capacitación y desarrollo del personal que presta sus servicios en la unidad administrativa;
+III. Proponer, para aprobación superior la autorización de prórrogas o plazos, así como la reestructuración de las condiciones de los créditos a favor del Gobierno Federal, distintos de contribuciones y sus accesorios, con las limitaciones que establezcan las disposiciones legales aplicables y previa garantía de su importe y accesorios, así como realizar el análisis, evaluación y negociación de las propuestas de los deudores para la reestructura de los adeudos;
 
-VI. Adscribir al personal de la unidad administrativa de la que dependa cada Dirección de Técnica Operativa, y cambiarlo de adscripción cuando el cambio se realice a cualquiera de las unidades de aquélla;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
-VII. Integrar y consolidar la evaluación de la unidad administrativa de que dependa, en la ejecución de los programas a su cargo, y
+IV. Ejercer oportunamente los derechos patrimoniales de los valores que representen inversiones directas del Gobierno Federal, asistiendo, en su caso, a las asambleas de accionistas conjuntamente con el representante de la correspondiente coordinadora de sector; así como emitir constancias de tenencias accionarias de los títulos que se encuentren en guarda y custodia de la Tesorería de la Federación a quien demuestre un interés legítimo conforme a la Ley, de conformidad con lo establecido en la Ley del Servicio de Tesorería de la Federación y demás disposiciones aplicables;
 
-VIII. Las demás que le encomiende el titular de la unidad administrativa de que dependa y las que sean necesarias para el adecuado funcionamiento de la misma.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
-> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+V. Proponer las políticas y los procedimientos necesarios para la tramitación de la dación en pago e intervenir en la instrumentación de la misma, respecto de los bienes y servicios que los deudores ofrezcan en pago de toda clase de créditos a favor del Gobierno Federal, de conformidad con lo dispuesto por la Ley del Servicio de Tesorería de la Federación y demás disposiciones aplicables;
 
-Asimismo, compete a la Dirección de Técnica Operativa adscrita a la Tesorería de la Federación, coordinar y supervisar las actividades del Resguardo Federal de Valores, que tiene por objeto garantizar la custodia, vigilancia, protección y seguridad de los fondos y valores de la Federación o al cuidado del Gobierno Federal durante su traslado, conducción y guarda, salvo en los casos en que dichas facultades se encuentren atribuidas a otras autoridades, de acuerdo con sus propios ordenamientos legales.
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+VI. Recibir los activos no monetarios que deban ser puestos a disposición de la Tesorería de la Federación y conservarlos en tanto se transfieran, de conformidad con las disposiciones aplicables a la instancia competente para su administración, enajenación o destrucción, siempre que dicha transferencia, administración, enajenación o destrucción no sea encomendada a los auxiliares;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
+VII. Solicitar, de acuerdo con las disposiciones aplicables, a la instancia competente la regularización de los bienes puestos a disposición de la Tesorería de la Federación;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
+VIII. Analizar, calificar y proceder al cobro de los créditos distintos de los fiscales a favor del Gobierno Federal radicados en la Tesorería de la Federación, de conformidad con las disposiciones legales aplicables. Cuando como resultado de las gestiones ordinarias que realice, no se logre el cobro de los créditos señalados, procederá a remitir expediente de lo actuado a la Dirección General de Procedimientos Legales, para que esta última solicite a las autoridades competentes, se lleven a cabo los trámites necesarios para la recuperación de los créditos correspondientes;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
+IX. Manejar, supervisar, administrar y ejercer directamente o a través de sus auxiliares autorizados o de la instancia competente, los fondos revolventes constituidos para sufragar los gastos inherentes a la administración y recuperación de los créditos no fiscales radicados en la Tesorería de la Federación, así como en su caso, para la administración, regularización, conservación, custodia, promoción, propalación y venta de los bienes puestos a disposición de la Tesorería de la Federación, y
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
+X. Someter a la aprobación del Tesorero de la Federación, previo análisis e investigación que efectúe y que cuente con el visto bueno de la Dirección General de Procedimientos Legales, las propuestas de cancelación de créditos distintos de los fiscales a favor del Gobierno Federal, radicados en la Tesorería de la Federación, de conformidad con las disposiciones legales aplicables.
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+### CAPÍTULO VII. DE LAS DIRECCIONES DE TÉCNICA OPERATIVA
+
+###### Artículo 92.
+
+(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 16 DE OCTUBRE DE 2000)</small>
 
@@ -6697,7 +7325,9 @@ El Titular del Area de Responsabilidades y Quejas, ejercerá las atribuciones co
 
 La Secretaría de Hacienda y Crédito Público proporcionará al Titular del Órgano Interno de Control los recursos humanos y materiales que requiera para la atención de los asuntos a su cargo. Asimismo, los servidores públicos de la Secretaría están obligados a proporcionarle el auxilio que requiera para el ejercicio de sus facultades.
 
-El Órgano Interno de Control, contará en su estructura con una Coordinación Administrativa, al frente de la cual estará el Coordinador Administrativo, quien tendrá como atribuciones las mismas que se señalan como competencia de las Direcciones de Técnica Operativa en el artículo 92 de este ordenamiento.
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+El Órgano Interno de Control, contará en su estructura con una unidad administrativa, que tendrá como atribuciones las mismas que se señalan en las fracciones de la XIII a la XIX del artículo 7o. de este Reglamento.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 16 DE OCTUBRE DE 2000)</small>
 
@@ -6709,11 +7339,11 @@ El Órgano Interno de Control, contará en su estructura con una Coordinación A
 
 Para la más eficaz atención y el eficiente despacho de los asuntos de su competencia, la Secretaría podrá contar con los órganos administrativos desconcentrados que le estarán jerárquicamente subordinados y a los que se les otorgarán autonomía técnica y facultades ejecutivas para resolver sobre materias específicas dentro del ámbito de competencia que se determine en cada caso, de conformidad con las normas que al efecto establezca el instrumento legal respectivo, el cual deberá ser publicado en el Diario Oficial de la Federación.
 
-> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 98-C.
 
-El Servicio de Administración Tributaria, el Servicio de Administración de Bienes Asegurados, la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas y la Comisión Nacional del Sistema de Ahorro para el Retiro, tendrán la organización y las atribuciones que establezcan los ordenamientos legales y reglamentarios por los que fueron creados.
+El Servicio de Administración Tributaria, la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas y la Comisión Nacional del Sistema de Ahorro para el Retiro, tendrán la organización y las atribuciones que establezcan los ordenamientos legales y reglamentarios por los que fueron creados.
 
 ### CAPÍTULO IX. INSTITUTO NACIONAL DE ESTADÍSTICA, GEOGRAFÍA E INFORMÁTICA
 
@@ -6739,11 +7369,15 @@ d) Proporcionar el servicio público de información estadística y Geográfica,
 
 e) Promover el conocimiento y uso de la información estadística y Geográfica;
 
-f) Promover la integración de las instancias de participación previstas en la Ley de la materia y vigilar su buen funcionamiento;
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
-g) Analizar y procurar la satisfacción de los requerimientos de los usuarios de los Servicios Nacionales de Estadística y de Información Geográfica, y
+f) Promover la integración de las instancias de participación previstas en la Ley de la materia y vigilar su buen funcionamiento, y
 
-h) Integrar, editar y distribuir publicaciones sobre estadística y geografía, así como de Informática en dichas materias.
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+g) Analizar y procurar la satisfacción de los requerimientos de los usuarios de los Servicios Nacionales de Estadística y de Información Geográfica.
+
+h) (DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 II. En materia de estadística:
 
@@ -6793,7 +7427,13 @@ k) Asesorar a los Municipios en la organización de sus catastros y, en su caso,
 
 l) Coordinar el establecimiento y la consolidación de un sistema cartográfico digital, para el manejo y la actualización de la información Geográfica y la estadística referenciada Geográficamente.
 
-IV. Emitir los lineamientos que en materia de Informática deberán observar las dependencias y entidades de la Administración Pública Federal, en su carácter de integrantes de los Servicios Nacionales de Estadística y de Información Geográfica, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+IV. En materia de innovación y tecnologías de información:
+
+a) Emitir los lineamientos que en materia de informática deberán observar las dependencias y entidades de la Administración Pública Federal, en su carácter de integrantes de los Servicios Nacionales de Estadística y de Información Geográfica y los Sistemas Nacionales Estadístico y de Información Geográfica, y
+
+b) Coordinar los servicios de capacitación y desarrollo profesional del personal; promover tecnologías y metodologías que impulsen las competencias de los recursos humanos del Instituto, y coordinar el Sistema de Gestión de Calidad, conforme al plan estratégico institucional y a los lineamientos que establezca el Presidente del Instituto.
 
 V. Las demás que le confieran a la Secretaría y al Instituto, las disposiciones legales relativas a las materias a que se refiere este artículo, así como las que le señale el Secretario.
 
@@ -6905,7 +7545,9 @@ VI. Las demás que confieran al Instituto las disposiciones legales o le señale
 
 Para el ejercicio de sus atribuciones, el Instituto contará con:
 
-I. Las Direcciones Generales de Coordinación de los Sistemas Nacionales Estadístico y de Información Geográfica; de Estadística; de Contabilidad Nacional y Estadísticas Económicas; de Geografía, y de Informática, las que ejercerán las atribuciones a que se refiere el artículo 100 de este Reglamento, según corresponda.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 2004)</small>
+
+I. Las Direcciones Generales de Coordinación de los Sistemas Nacionales Estadístico y de Información Geográfica; de Estadística; de Contabilidad Nacional y Estadísticas Económicas; de Geografía, y de Innovación y Tecnologías de Información, las que ejercerán las atribuciones a que se refiere el artículo 100 de este Reglamento, según corresponda.
 
 Las Direcciones Generales a que se refiere esta fracción estarán a cargo de un Director General, quien ejercerá las funciones mencionadas, así como las demás que le señale el Secretario;
 
@@ -6919,7 +7561,7 @@ c) Apoyar y coordinar las actividades culturales y recreativas, otorgar los est�
 
 d) Implantar las políticas y lineamientos para la operación, control y consolidación del sistema integral de profesionalización del Instituto, de conformidad con las reglas que rigen al sistema y establecer las normas que regulen los procedimientos relacionados con la administración del personal del propio Instituto;
 
-e) Organizar los servicios de capacitación y desarrollo profesional en las materias de Estadística, Geografía, Informática y Administración Pública, con base en la planeación de los recursos humanos del Instituto;
+e) (DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
 f) Ejecutar las políticas, en materia de recursos humanos, materiales y financieros, así como coordinar y supervisar la administración de éstos, de acuerdo con los objetivos y lineamientos que al efecto señale el Presidente del Instituto;
 
@@ -7045,63 +7687,43 @@ El Instituto proporcionará al titular del órgano interno de control los recurs
 
 ### CAPÍTULO X. DE LAS SUPLENCIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
 
 ###### Artículo 105.
 
 El Secretario de Hacienda y Crédito Público será suplido en sus ausencias por los Subsecretarios de Hacienda y Crédito Público, de Ingresos, de Egresos, por el Oficial Mayor, por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta o por el Subprocurador Fiscal Federal de Asuntos Financieros, en el orden indicado.
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2003)</small>
+El Subsecretario de Hacienda y Crédito Público será suplido en sus ausencias por los Subsecretarios de Ingresos, de Egresos, por el Oficial Mayor, por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta o por el Subprocurador Fiscal Federal de Asuntos Financieros, en el orden indicado.
 
-Los Subsecretarios de Hacienda y Crédito Público, de Ingresos, de Egresos y el Oficial Mayor se suplirán entre sí o por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta o por el Subprocurador Fiscal Federal de Asuntos Financieros, indistintamente y sin sujeción a ningún orden.
+El Subsecretario de Ingresos será suplido en sus ausencias por los Subsecretarios de Hacienda y Crédito Público, de Egresos, por el Oficial Mayor, por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta o por el Subprocurador Fiscal Federal de Asuntos Financieros, en el orden indicado.
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2003)</small>
+El Subsecretario de Egresos será suplido en sus ausencias por los Subsecretarios de Hacienda y Crédito Público, de Ingresos, por el Oficial Mayor, por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta o por el Subprocurador Fiscal Federal de Asuntos Financieros, en el orden indicado.
 
-El Procurador Fiscal de la Federación será suplido en sus ausencias por los Subprocuradores, en el orden que aparecen citados en este Reglamento. La ausencia de los Subprocuradores será suplida entre ellos indistintamente y sin sujeción a ningún orden, o por los Directores Generales que de ellos dependan en los asuntos de su respectiva competencia, tratándose del Subprocurador Fiscal Federal de Legislación y Consulta la suplencia por parte de los Directores Generales que de él dependan se realizará indistintamente y sin sujeción a ningún orden.
+El Oficial Mayor será suplido en sus ausencias por los Subsecretarios de Hacienda y Crédito Público, de Ingresos, de Egresos, por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta o por el Subprocurador Fiscal Federal de Asuntos Financieros, en el orden indicado.
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2003)</small>
+El Procurador Fiscal de la Federación será suplido en sus ausencias por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta, por el Subprocurador Fiscal Federal de Asuntos Financieros o por el Subprocurador Fiscal Federal de Investigaciones, en el orden indicado. La ausencia de los Subprocuradores será suplida entre ellos en el orden indicado, o por los Directores Generales que de ellos dependan en los asuntos de su respectiva competencia, en el orden que aparecen citados en este Reglamento.
 
-El Tesorero de la Federación será suplido en sus ausencias por los Subtesoreros en el orden que aparecen citados en este Reglamento; asimismo y en ausencia de dichos funcionarios éstos serán suplidos indistintamente y sin sujeción a ningún orden por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta o por el Subprocurador Fiscal Federal de Asuntos Financieros, así como por el Director General de Vigilancia de Fondos y Valores, el Director General de Procedimientos Legales, el Director General de Sistemas Automatizados y por el Director General Adjunto de Administración de Cartera y Activos no Monetarios.
+El Tesorero de la Federación será suplido en sus ausencias por el Subtesorero de Operación, por el Subtesorero de Contabilidad y Control Operativo, por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta o por el Subprocurador Fiscal Federal de Asuntos Financieros, por el Director General de Vigilancia de Fondos y Valores, el Director General de Procedimientos Legales y por el Director General Adjunto de Administración de Cartera y Activos no Monetarios, en el orden indicado.
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2003)</small>
+Las ausencias del Titular del Órgano Interno de Control, así como las de los titulares de las áreas de Auditoría Interna "A", de Auditoría Interna "B", de Auditoría de Control y Evaluación y de Responsabilidades y Quejas, serán suplidas conforme a lo previsto por el artículo 74, segundo y tercer párrafos, del Reglamento Interior de la Secretaría de la Función Pública. Los coordinadores de área, en los asuntos y procedimientos en los que auxilien a los titulares de dichas áreas, serán suplidos por los subcoordinadores.
 
-Las ausencias del Titular del Órgano Interno de Control, así como las de los titulares de las Areas de Auditoría Interna "A", de Auditoría Interna "B", de Auditoría de Control y Evaluación y de Responsabilidades y Quejas, serán suplidas conforme a lo previsto por el artículo 54, segundo y tercer párrafos, del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo. Los coordinadores de Area, en los asuntos y procedimientos en los que auxilien a los titulares de dichas Areas, serán suplidos por los subcoordinadores.
+El Titular de la Unidad de Inteligencia Financiera será suplido en sus ausencias, por los Directores Generales Adjuntos de Normatividad y Relaciones Nacionales e Internacionales, de Análisis Financiero, y de Procesos Legales, en el orden indicado.
 
-> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2002)</small>
+El Titular de la Unidad de Inversiones será suplido en sus ausencias por los Directores Generales Adjuntos de Proyectos de Inversión A; de Proyectos de Inversión B, y de Normatividad, en el orden indicado.
 
-El Titular de la Unidad de Inversiones será suplido en sus ausencias, en el ámbito de sus respectivas competencias, por los Directores Generales Adjuntos de Normatividad; de Proyectos de Inversión A; de Proyectos de Inversión B; de Información de Presupuesto de Inversión; y de Seguimiento de Procesos.
+El Titular de la Unidad de Política y Control Presupuestario será suplido en sus ausencias por los Directores Generales Adjuntos de Programación e Integración Presupuestaria; de Estrategia y Política Presupuestaria; de Operación y Control Presupuestario, y de Seguimiento y Evaluación Presupuestaria, en el orden indicado.
 
-> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2002)</small>
+El Titular de la Unidad de Contabilidad Gubernamental e Informes sobre la Gestión Pública, será suplido en sus ausencias por los Directores Generales Adjuntos de Normas y Cuenta Pública, de Integración de Informes y Análisis Programático, y de Análisis y Desarrollo de la Cuenta Pública Federal; en el orden indicado.
 
-El Titular de la Unidad de Política y Control Presupuestario será suplido en sus ausencias, en el ámbito de sus respectivas competencias, por los Directores Generales Adjuntos de Operación Presupuestaria; de Programación e Integración Presupuestaria; de Seguimiento y Evaluación Presupuestaria; y de Estrategia y Política Presupuestaria.
+El Director General de Programación y Presupuesto "A" será suplido en sus ausencias por los Directores Generales Adjuntos de Programación y Presupuesto de Salud y Seguridad Social; de Educación, y de Servicios, en el orden indicado. El Director General de Programación y Presupuesto "B" será suplido en sus ausencias por los Directores Generales Adjuntos de Programación y Presupuesto de Desarrollo Agropecuario, Recursos Naturales, Hacienda y Turismo; de Desarrollo Social, Trabajo, Economía y Comunicaciones, y de Energía, en el orden indicado.
 
-> <small>(DEROGADO OCTAVO PARRAFO, D.O.F. 17 DE JUNIO DE 2003)</small>
+El Director General Jurídico de Egresos será suplido en sus ausencias por los Directores Generales Adjuntos de Análisis Jurídico, y de Normas Presupuestarias, en el orden indicado.
 
-> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2002)</small>
+Los Titulares de las Coordinaciones Generales serán suplidos en sus ausencias por los Directores Generales que de ellos dependan, los titulares de las Unidades y los Directores Generales, serán suplidos en sus ausencias por los Directores Generales Adjuntos que de ellos dependan en los asuntos de su respectiva competencia o, en su caso, serán suplidos por los Directores que de ellos dependan en los asuntos de su respectiva competencia.
 
-El Titular de la Unidad de Contabilidad Gubernamental e Informes sobre la Gestión Pública, será suplido en sus ausencias, en el ámbito de sus respectivas competencias, por los Directores Generales Adjuntos de Análisis y Desarrollo de la Cuenta Pública Federal; Normatividad e Integración Financiera; y de Integración de Informes y Análisis Programático.
-
-> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2002)</small>
-
-El Director General de Programación y Presupuesto "A" será suplido, en sus ausencias, en el ámbito de sus respectivas competencias, por los Directores Generales Adjuntos de Programación y Presupuesto de Educación Pública, de Salud y Ramos Generales; de Seguridad Nacional y Gobierno; de Organismos, Ciencia, Tecnología, Cultura y Deporte; y de Seguridad Social y Ramos Autónomos. El Director General de Programación y Presupuesto "B" será suplido, en sus ausencias, en el ámbito de sus respectivas competencias, por los Directores Generales Adjuntos de Programación y Presupuesto de Desarrollo Agropecuario y Recursos Naturales; de Comunicaciones; de Hacienda y Turismo; de Energía; y de Desarrollo Social, Trabajo y Economía.
-
-> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2002)</small>
-
-El Director General Jurídico de Egresos será suplido en sus ausencias, en el ámbito de sus respectivas competencias, por los Directores Generales Adjuntos de Análisis Jurídico; y de Normas Presupuestarias.
-
-> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 1998)</small>
-
-Los Titulares de las Coordinaciones Generales serán suplidos en sus ausencias por los Directores Generales que de ellos dependan, los titulares de las Unidades y los Directores Generales, serán suplidos en sus ausencias por los Directores Generales Adjuntos que de ellos dependan en los asuntos de su respectiva competencia, o en su caso, serán suplidos por los Directores que de ellos dependan en los asuntos de su respectiva competencia.
-
-> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 1998)</small>
-
-Los Directores Generales Adjuntos serán suplidos en sus ausencias por los Directores que de ellos dependan en los asuntos de su respectiva competencia, los Directores serán suplidos por los Subdirectores que de ellos dependan en los asuntos de su respectiva competencia. Los Subdirectores, Jefes de Departamento y Supervisores, serán suplidos por el servidor público inmediato inferior que de ellos dependa, en los asuntos de su competencia.
-
-> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2000)</small>
+Los Directores Generales Adjuntos serán suplidos en sus ausencias por los Directores que de ellos dependan en los asuntos de su respectiva competencia, los Directores, serán suplidos por los Subdirectores que de ellos dependan en los asuntos de su respectiva competencia. Los Subdirectores, Jefes de Departamento y Supervisores, serán suplidos por el servidor público inmediato inferior que de ellos dependa, en los asuntos de su competencia.
 
 Los Delegados Regionales de la Tesorería de la Federación serán suplidos en sus ausencias por los Subdelegados que de ellos dependan en los asuntos de su respectiva circunscripción territorial o competencia.
-
-> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 1998)</small>
 
 Los demás servidores públicos serán suplidos en sus ausencias por sus inmediatos inferiores que de ellos dependan, salvo que se trate de personal de base.
 
@@ -7284,3 +7906,53 @@ SEXTO. A partir del cumplimiento del plazo señalado en el párrafo del transito
 SÉPTIMO.- Las referencias que se hacen y las atribuciones que se otorgan a la Unidad de Coordinación Hacendaria con Entidades Federativas, a la Dirección General de Planeación Hacendaria, a la Dirección General de Crédito Público, a la Dirección General de Banca y Ahorro, a la Dirección General de Asuntos Hacendarios Internacionales, a la Dirección General de Promoción Cultural y Acervo Patrimonial, a la Dirección General Consultiva de Asuntos Financieros y a la Dirección General Técnica de Proyectos Normativos, en leyes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, se entenderán hechas a la Unidad de Coordinación con Entidades Federativas, a la Unidad de Planeación Económica de la Hacienda Pública, a la Unidad de Crédito Público, a la Unidad de Banca y Ahorro, a la Dirección General de Asuntos Internacionales de Hacienda, a la Dirección General de Promoción Cultural, Obra Pública y Acervo Patrimonial, a la Dirección General de Asuntos Financieros "A" y a la Dirección General de Asuntos Financieros "B", respectivamente.
 
 OCTAVO. De acuerdo con lo dispuesto en el transitorio segundo de este Decreto, los recursos materiales y financieros con que cuenta la Administración General del Destino de Bienes de Comercio Exterior Propiedad del Fisco Federal para realizar las actividades de administración, enajenación y destrucción de mercancías de procedencia extranjera que hayan pasado a propiedad del Fisco Federal, se transferirán al Servicio de Administración y Enajenación de Bienes.
+
+D.O.F. 7 DE MAYO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos que se encuentren pendientes a la fecha de entrada en vigor de este Decreto y que, conforme al mismo, deban ser atendidos por una unidad administrativa diversa a la que hubiera correspondido conforme a las disposiciones vigentes antes de esa fecha, continuarán su trámite y serán resueltos por aquella o aquellas unidades administrativas a las que se les haya atribuido la competencia en este ordenamiento.
+
+TERCERO.- Cuando en este Decreto se dé una denominación distinta a alguna unidad administrativa establecida con anterioridad a la vigencia del mismo, aquella unidad atenderá los asuntos a que se refiere este ordenamiento. En relación con los recursos humanos, materiales y financieros que la unidad administrativa haya utilizado, éstos pasarán a la nueva unidad o unidades administrativas competentes, distribuyéndose, en su caso, de conformidad con el ámbito de facultades que a cada una corresponda, con la participación que, en su caso, competa al Oficial Mayor de la Secretaría.
+
+Los recursos humanos, materiales y presupuestarios correspondientes a las direcciones General Adjunta de Evaluación y Control de Legislación y Consulta; de Legislación y Consulta de Asuntos Fiscales; de Evaluación de Legislación y Consulta, y de Control de Legislación y Consulta, se transferirán a la Dirección General Adjunta de Legislación y Consulta Presupuestaria; a la Dirección de Legislación y Consulta de Asuntos Fiscales "A"; a la Dirección de Legislación y Consulta de Asuntos Fiscales "B", y a la Dirección de Evaluación y Control de Legislación y Consulta, respectivamente.
+
+CUARTO.- Las referencias y atribuciones que a la entrada en vigor del presente Decreto, se hagan o confieran o se entiendan hechas o conferidas a la Unidad de Banca y Ahorro y a la Dirección General de Seguros y Valores en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones que se relacionen con las conductas ilícitas previstas en el artículo 400 Bis del Código Penal Federal, así como otras relacionadas con operaciones con dinero o bienes de actividades ilícitas, se entenderán hechas o conferidas, según sea el caso, a la Unidad de Inteligencia Financiera de acuerdo a las facultades que tenga otorgadas en la materia a que se refiere el artículo 15 del artículo primero del presente Decreto, sin menoscabo del ejercicio de las atribuciones que les correspondan a las demás unidades administrativas de la Secretaría en el ámbito de sus respectivas competencias.
+
+QUINTO.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Procuraduría Fiscal de la Federación en materia de sus facultades de comprobación del cumplimiento de las disposiciones fiscales y aduaneras, serán tramitados hasta su conclusión por el Servicio de Administración Tributaria.
+
+Los recursos humanos relativos al ejercicio de las facultades indicadas en el párrafo anterior serán transferidos a la Administración General de Aduanas del Servicio de Administración Tributaria. El Jefe del citado órgano desconcentrado determinará la distribución que de los expedientes correspondientes al ejercicio de las mencionadas facultades deba hacerse a las unidades administrativas del Servicio de Administración Tributaria.
+
+SEXTO.- Las facultades a que se refieren las fracciones XIII a la XIX del artículo 7o., LXVI del artículo 10 y LII del artículo 11, que se modifican por virtud de este Decreto, respectivamente, serán ejercidas por las Coordinaciones Administrativas que se determinen para tal efecto, mismas que quedarán adscritas una a cada Subsecretaría, una a la Procuraduría Fiscal de la Federación y una a la Tesorería de la Federación. Dichas Coordinaciones Administrativas fungirán como ventanilla única entre las unidades administrativas antes citadas y la Oficialía Mayor en los trámites y solicitudes que se deban llevar a cabo para la atención de cualquier asunto relacionado con recursos materiales, humanos o financieros.
+
+La Oficialía Mayor contará con una Coordinación Administrativa que, con base en las fracciones XIII a la XIX del artículo 7o. que se modifican por virtud de este Decreto, atenderá los asuntos administrativos de las áreas adscritas a dicha Oficialía.
+
+Los asuntos administrativos de la Unidad de Comunicación Social y Vocero, de la Unidad de Coordinación con Entidades Federativas, de la Unidad de Inteligencia Financiera, de la Coordinación General de Tecnologías de Información y Comunicaciones y de la Coordinación General de Calidad y Seguridad de la Información, serán tramitados ante la Oficialía Mayor por cualquiera de las Coordinaciones Administrativas a que se refieren los párrafos primero y segundo de este precepto que al efecto determine el Secretario.
+
+Las Coordinaciones Administrativas a que se refieren los párrafos primero y segundo de este precepto, tendrán en su estructura hasta dos direcciones de área.
+
+SÉPTIMO.- Las estructuras distintas a las Direcciones de Técnica Operativa a que se refiere el artículo 92 que se deroga por virtud de este Decreto, que antes de la entrada en vigor del presente ordenamiento hayan realizado funciones de coordinación administrativa, deberán desaparecer de conformidad con las disposiciones aplicables. Lo anterior con excepción del personal asignado a funciones de control de gestión que quedará adscrito a las Jefaturas de Unidad o a las Direcciones Generales que correspondan, en tanto se implementa el sistema automatizado de control de documentos y previa autorización de la Coordinación General de Tecnologías de Información y Comunicaciones; así como con excepción de hasta dos servidores públicos con nivel máximo de Director de Área y Subdirector de Área, respectivamente, que la Unidad de Crédito Público, la Unidad de Planeación Económica de la Hacienda Pública y la Dirección General de Asuntos Internacionales de Hacienda tengan asignados para realizar funciones de control, seguimiento y cualquier otra actividad relacionada con contratos o convenios de los que deriven obligaciones pecuniarias para la Secretaría relacionados con las funciones sustantivas de dichas áreas, que quedarán adscritos a las mismas para continuar realizando dichas actividades.
+
+El personal adscrito a la Dirección de Técnica Operativa de la Tesorería de la Federación, que hasta antes de la entrada en vigor del presente Decreto haya ejercido funciones en materia de coordinación y supervisión de las actividades del Resguardo Federal de Valores, será transferido a la unidad administrativa que al efecto determine la citada Tesorería en términos del artículo 11, fracción LI que se modifica por virtud de este Decreto.
+
+OCTAVO.- Cuando concurran dos o más Coordinaciones Administrativas en un mismo inmueble, las facultades de administración de éste se ejercerán por la Coordinación Administrativa adscrita a la Subsecretaría de Hacienda y Crédito Público; a la de Ingresos; a la de Egresos; a la Procuraduría Fiscal de la Federación y a la Tesorería de la Federación, en el orden indicado, sin perjuicio de lo que al efecto disponga el Secretario.
+
+NOVENO.- Dentro de los 30 días naturales contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, las subsecretarías de Hacienda y Crédito Público y de Egresos, la Tesorería de la Federación, así como la Oficialía Mayor, en el ámbito de sus respectivas competencias, transferirán a la Coordinación General de Tecnologías de Información y Comunicaciones los recursos humanos, financieros y materiales relacionados con los servicios informáticos que actualmente se encuentren a su cargo, que sean necesarios para el desempeño de las atribuciones conferidas a la citada Coordinación General.
+
+Dentro del plazo a que se refiere el párrafo anterior, la Oficialía Mayor transferirá a la Dirección General de Programación y Presupuesto "B" los recursos humanos, financieros y materiales relacionados con las atribuciones que en virtud de este Decreto se otorgan a dicha Dirección General en el Apartado B del artículo 65-A.
+
+DÉCIMO.- Las referencias que se hacen y las atribuciones en materia presupuestaria relativas a servicios personales que se otorgan a la Unidad de Política y Control Presupuestario, y a las Direcciones Generales de Programación y Presupuesto sectoriales, en reglamentos, acuerdos, oficios circulares, reglas, manuales y demás disposiciones, se entenderán hechas a la Unidad de Política y Control Presupuestario, a las Direcciones Generales de Programación y Presupuesto sectoriales y a la Dirección General Adjunta Técnica de Presupuesto, en el ámbito de la competencia que les corresponde de conformidad con el presente Decreto.
+
+DÉCIMO PRIMERO.- Las referencias que se hacen y las atribuciones que se otorgan a la Unidad de Política de Ingresos en reglamentos, acuerdos, oficios circulares, reglas, manuales y demás disposiciones, se entenderán hechas a la Unidad de Política de Ingresos, a la Unidad de Legislación Tributaria y a la Dirección General Adjunta de Precios y Tarifas, en el ámbito de la competencia que les corresponde de conformidad con el presente Decreto.
+
+DÉCIMO SEGUNDO.- Las referencias que se hacen y las atribuciones que se otorgan a la Dirección General de Programación, Organización y Presupuesto, en leyes, reglamentos, acuerdos, oficios circulares, reglas, manuales y demás disposiciones, se entenderán hechas a la Dirección General de Recursos Financieros y a la Dirección General de Programación y Presupuesto "B", en el ámbito de la competencia que les corresponde de conformidad con el presente Decreto.
+
+DÉCIMO TERCERO.- Las referencias que se hacen y las atribuciones que se otorgan a las Direcciones Generales Adjuntas de Programación y Presupuesto de Educación Pública; de Salud y Ramos Generales; de Seguridad Nacional y Gobierno; de Organismos, Ciencia, Tecnología, Cultura y Deporte; y de Seguridad Social y Ramos Autónomos, de la Dirección General de Programación y Presupuesto "A"; así como a las Direcciones Generales Adjuntas de Programación y Presupuesto de Desarrollo Agropecuario y Recursos Naturales; de Comunicaciones; de Hacienda y Turismo; de Energía; y, de Desarrollo Social, Trabajo y Economía, de la Dirección General de Programación y Presupuesto "B"; en acuerdos, oficios circulares, reglas, manuales y demás disposiciones, se entenderán hechas, en el ámbito de sus respectivas competencias, a las Direcciones Generales Adjuntas de Programación y Presupuesto de Salud y Seguridad Social; de Educación; y de Servicios, de la Dirección General de Programación y Presupuesto "A"; así como a las Direcciones Generales Adjuntas de Programación y Presupuesto de Energía; de Desarrollo Agropecuario, Recursos Naturales, Hacienda y Turismo; y, de Desarrollo Social, Trabajo, Economía y Comunicaciones, de la Dirección General de Programación y Presupuesto "B".
+
+DÉCIMO CUARTO.- En un plazo de 90 días hábiles, contados a partir de que la Secretaría cuente con la conexión correspondiente con el Sistema Integral de Administración Financiera Federal para intercambiar información, la Coordinación General de Tecnologías de Información y Comunicaciones, con el apoyo de la Tesorería de la Federación, instalará dicho sistema en los órganos desconcentrados de la Secretaría y en las entidades del sector coordinado por la misma, con la finalidad de que éstos directamente tramiten las cuentas por liquidar certificadas respectivas conforme a lo previsto en el Manual de Normas Presupuestarias de la Administración Pública Federal.
+
+Hasta en tanto se lleve a cabo la instalación del Sistema Integral de Administración Financiera Federal en los mencionados órganos desconcentrados y entidades, éstos directamente presentarán a la Tesorería de la Federación las Cuentas por Liquidar Certificadas para la ministración de los recursos.
+
+DÉCIMO QUINTO. Se abroga el Acuerdo que establece el Sistema Integral de Administración Financiera Federal, publicado en el Diario Oficial de la Federación el 27 de enero de 1998, así como el Acuerdo por el que se establecen los lineamientos relativos al funcionamiento, organización y requerimientos de operación del Sistema Integral de Administración Financiera Federal, publicado en el Diario Oficial de la Federación el 30 de abril de 2002.
+
+DÉCIMO SEXTO.- Dentro de los 30 días naturales contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, la Dirección General de Programación y Presupuesto "B" someterá a consideración del Secretario las políticas, directrices, normas o criterios técnicos y administrativos para la mejor organización y funcionamiento de los órganos desconcentrados de la Secretaría y las entidades del sector coordinado por la misma, incluyendo los relativos a la materia presupuestaria, de administración de sueldos y de prestaciones.
