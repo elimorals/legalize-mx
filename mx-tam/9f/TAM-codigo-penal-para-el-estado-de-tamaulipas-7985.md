@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "1995-10-25"
+last_updated: "1997-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1997.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1457,7 +1457,9 @@ III.- Los Organismos Descentralizados de las Entidades referidas en las dos frac
 
 Se impondrán las mismas sanciones previstas para el delito de que se trate a cualquier persona que participe en la perpetración de alguno de los delitos previstos en este título o el subsecuente.
 
-### CAPITULO UNICO. DESEMPEÑO DE FUNCIONES JUDICIALES O ADMINISTRATIVAS
+### CAPITULO UNICO
+
+DESEMPEÑO DE FUNCIONES JUDICIALES O ADMINISTRATIVAS.
 
 ###### ARTICULO 209.
 
@@ -1671,7 +1673,7 @@ Al responsable del delito de ejercicio abusivo de funciones se le impondrán las
 
 > <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
 
-I.- Cuando la cuantía a que asciendan las operaciones a que hace referencia este Artículo no exceda de mil días salario, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión pública;
+I.- Cuando la cuantía a que asciendan las operaciones a que hace referencia este Artículo no exceda de mil días salario, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos;
 
 > <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
 
@@ -3193,13 +3195,29 @@ III.- Los que estén ligados con el acusado por respeto, gratitud, estrecha amis
 
 Para los efectos de este Capítulo se entiende por:
 
-I.- Funcionarios electorales, las personas que integran los órganos que cumplen funciones públicas electorales, en los términos de la Legislación Electoral;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
 
-II.- Funcionarios partidistas, los dirigentes de los partidos políticos, sus candidatos, así como los ciudadanos a quienes en el curso de los procesos los propios partidos les otorguen representación para actuar en la jornada electoral ante los órganos electorales, en los términos de la Legislación Electoral;
+I.- Servidores públicos, las personas que se encuentren dentro de los supuestos establecidos por el Artículo 149 de la Constitución Política del Estado Libre y Soberano de Tamaulipas.
 
-III.- Observador o visitante electoral, toda persona que acredite tal carácter en los términos del Artículo 7 del Código Electoral para el Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
 
-IV.- Documentos Públicos Electorales, las boletas electorales, actas y certificaciones que expidan los órganos centrales, distritales y municipales del Instituto Estatal Electoral durante el proceso electoral, así como cualquier documental expedida por toda autoridad o persona investida de fe pública que guarde relación directa o indirecta con el proceso electoral estatal.
+II.- Funcionarios electorales, las personas que integran los órganos que cumplen funciones públicas electorales, en los términos de la Legislación Electoral;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+III.- Funcionarios partidistas, los dirigentes de los partidos políticos, sus candidatos, así como los ciudadanos a quienes en el curso de los procesos los propios partidos les otorguen representación para actuar en la jornada electoral ante los órganos electorales, en los términos de la Legislación Electoral;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+IV.- Observador o visitante electoral, toda persona que acredite tal carácter en los términos del Artículo 7 del Código Electoral para el Estado de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+V.- Documentos Públicos Electorales, las boletas electorales, actas y certificaciones que expidan los órganos centrales, distritales y municipales del Instituto Estatal Electoral durante el proceso electoral, así como cualquier documental expedida por toda autoridad o persona investida de fe pública que guarde relación directa o indirecta con el proceso electoral estatal;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+VI.- Materiales Electorales, los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadoras de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas durante la jornada electoral.
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
 
@@ -3219,21 +3237,49 @@ II.- Vote más de una vez en una misma elección;
 
 III.- Realice actos de campaña o de propaganda electoral durante el día de la elección o los tres días anteriores a la misma;
 
-IV.- Obstaculice o interfiera el desarrollo normal de las votaciones, del escrutinio, o del cómputo de la casilla o del órgano municipal, distrital o estatal electoral;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+IV.- Obstaculice o interfiera dolosamente el desarrollo normal de las votaciones, el escrutinio, traslado o entrega de paquetes, el cómputo de la casilla o del órgano municipal, distrital o estatal electoral; así como la entrega de los paquetes y documentación electoral, o el adecuado ejercicio de las tareas de los funcionarios electorales;
 
 V.- Recoja, sin causa prevista por la Ley, credenciales para votar con fotografía de los ciudadanos, con el fin de imposibilitarlos para que ejerzan el derecho al voto;
 
-VI.- Solicite votos por paga, dádiva o promesa de dinero u otra recompensa; o ejerza violencia física o moral sobre el elector para que emita su voto a favor de candidato o partido político determinado, el día de la jornada electoral;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
 
-VII.- Introduzca en o sustraiga de las urnas, ilícitamente, una o más boletas electorales; destruya o altere boletas o documentos públicos electorales;
+VI.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que, mediante amenaza o promesa de paga o dádiva pida comprometer el voto en favor de un determinado partido político o candidato;
 
-VIII.- Impida, sin causa justificada, la instalación, apertura o cierre de una casilla electoral; o la abra o cierre fuera de los tiempos previstos por el Código Electoral para el Estado de Tamaulipas.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
+VII.- Haga proselitismo o presiones objetivamente a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes, con el fin de orientar el sentido de su voto;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+VIII.- Introduzca en o sustraiga de las urnas ilícitamente una o más boletas electorales, o se apodere, destruya o altere boletas, documentos o materiales electorales, o impida de cualquier forma su traslado o entrega a los órganos competentes;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+IX.- Impida, sin causa justificada, la instalación, apertura o cierre de una casilla electoral; o la abra o cierre fuera de los tiempos previstos por el Código Electoral para el Estado de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+X.- El día de la jornada electoral viole, de cualquier manera, el derecho del ciudadano a emitir su voto en secreto, salvo lo previsto en la Ley de la materia;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+XI.- Vote o pretenda hacerlo con una credencial para votar de la que no sea titular;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+XII.- El día de la jornada electoral lleve a cabo el transporte de votantes, coartando o pretendiendo coartar su libertad para la emisión del voto;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+XIII.- Durante los ocho días previos a la elección y hasta la hora oficial del cierre de las casillas, propale dolosamente noticias falsas, publique o difunda por cualquier medio los resultados de encuestas o sondeos de opinión que den a conocer las preferencias.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 447.
 
-Se impondrán hasta setecientos días de multa, a los ministros de cultos religiosos, que por cualquier medio en el desarrollo de actos propios de su ministerio, induzcan al electorado, a votar en favor o en contra de un candidato o partido político, o a la abstención.
+Se impondrán hasta cuatrocientos días salario de multa, a los ministros de cultos religiosos, que por cualquier medio en el desarrollo de actos propios de su ministerio, induzcan al electorado, a votar en favor o en contra de un candidato o partido político, o a la abstención.
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
 
@@ -3247,37 +3293,71 @@ II.- Se abstenga de cumplir, sin causa justificada, con sus obligaciones elector
 
 III.- Suspenda el desarrollo normal de la votación sin mediar causa justificada;
 
-IV.- Altere los resultados electorales en cualquier forma, sustraiga o destruya documentos o boletas electorales;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
 
-V.- No entregue o impida la entrega oportuna de documentos públicos electorales, sin mediar causa justificada;
+IV.- Altere los resultados electorales en cualquier forma, sustraiga o destruya documentos, boletas electorales o materiales electorales;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+V.- No entregue o impida la entrega oportuna de documentos públicos electorales o materiales electorales, sin mediar causa justificada;
 
 VI.- Instale, permita su instalación o clausure dolosamente una casilla fuera de los tiempos y formas previstos por el Código Electoral para el Estado de Tamaulipas, o impida su instalación, sin causa justificada;
 
-VII.- Impida el acceso, permanencia o expulse de la casilla electoral, sin causa justificada, al representante de un partido político determinado o coarte los derechos que el Código Electoral para el estado de Tamaulipas, le otorga;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+VII.- Sin causa prevista por la Ley expulse u ordene el retiro de la casilla electoral de representantes de un partido político o coarte los derechos que la Ley les concede;
 
 VIII.- Entregue boletas electorales a quien no exhiba su credencial de elector, o no aparezca inscrito en la lista nominal de electores o ambas circunstancias, salvo las excepciones previstas en la Legislación Electoral;
 
 IX.- Permita o tolere que se introduzcan o sustraigan, ilícitamente, una o más boletas electorales;
 
-X.- Propale dolosamente noticias falsas en relación al desarrollo de la jornada electoral o de los resultados preliminares, parciales o definitivos de la misma.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
+X.- En el ejercicio de sus funciones, ejerza presión sobre los electores y los induzca objetivamente a votar por un candidato o partido político determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+XI.- Permita o tolere que un ciudadano emita su voto a sabiendas de que no cumple con los requisitos de Ley o que se introduzcan en las urnas ilícitamente una o más boletas electorales;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+XII.- Propale, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 449.
 
-Se impondrán de uno a seis años de prisión y multa de cien a doscientos días salario, al funcionario partidista que:
+Se impondrán de uno a seis años de prisión y multa de cien a doscientos días de salario, al funcionario partidista o candidato que:
 
-I.- Ejerza violencia física o moral sobre los electores y/o los induzca a votar por un candidato o partido político determinado en el interior de la casilla o en el lugar donde los propios electores se encuentran formados;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+I.- Ejerza violencia física o moral sobre los electores y los induzca a la abstención o a votar por un candidato o partido político determinado en el interior de la casilla o en el lugar donde los propios electores se encuentran formados;
 
 II.- Realice actos de campaña o de propaganda electoral durante el día de la elección o los tres días anteriores a la misma;
 
-III.- Sustraiga, destruya, altere o haga uso indebido de documentos públicos electorales;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
 
-IV.- Impida el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
+III.- Sustraiga, destruya, altere o haga uso indebido de documentos públicos y materiales electorales;
 
-V.- Propale dolosamente noticias falsas en relación al desarrollo de la jornada electoral o de los resultados preliminares, parciales o definitivos de la misma;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
 
-VI.- Simule un hecho o acto de campaña electoral para imputarlo a otro partido político o candidato distinto al suyo.
+IV.- Obstaculice el desarrollo normal de la votación o de los actos posteriores a la misma sin mediar causa justificada, o con ese fin amenace o ejerza violencia física sobre los funcionarios electorales;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+V.- Impida con violencia la instalación, apertura o cierre de una casilla;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+VI.- Propale, de manera pública y dolosa, noticias falsas en relación al desarrollo de la jornada electoral o de los resultados preliminares, parciales o definitivos de la misma;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+VII.- Simule un hecho o acto de campaña electoral para imputarlo a otro partido político o candidato distinto al suyo;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+VIII.- Obtenga y utilice a sabiendas y en su calidad de candidato, fondos provenientes de actividades ilícitas para su campaña electoral.
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
 
@@ -3285,11 +3365,21 @@ VI.- Simule un hecho o acto de campaña electoral para imputarlo a otro partido 
 
 Se impondrán de uno a nueve años de prisión y multa de doscientos a cuatrocientos días salario, al servidor público que:
 
-I.- En ejercicio de sus funciones obligue a sus subordinados a emitir su voto a favor de un candidato o partido político determinado;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
 
-II.- En ejercicio de sus funciones condicione la prestación de un servicio público, a la emisión del sufragio a favor de un candidato o partido político determinado;
+I.- Obligue a sus subordinados, de manera expresa y haciendo uso de su autoridad o jerarquía, a emitir su voto a favor de un candidato o partido político;
 
-III.- Destine fondos o bienes públicos al apoyo de un candidato o partido político determinado, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione ese apoyo a través de sus subordinados.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+II.- En ejercicio de sus funciones condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, en el ámbito de su competencia, a la emisión del sufragio a favor de un partido político o candidato;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+III.- Destine, de manera ilegal, fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, tales como vehículos, inmuebles y equipos, al apoyo de un partido político o de un candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+IV.- Disponiendo del tiempo correspondiente a sus labores, de manera ilegal, proporcione apoyo o preste algún servicio a los partidos políticos o a sus candidatos, por sí o a través de sus subordinados.
 
 Para los efectos anteriores, se entenderá como horario de labores de los trabajadores de base al servicio del Gobierno del Estado, Municipios y Organismos Descentralizados y Desconcentrados, el señalado en el Reglamento de las Condiciones Generales de Trabajo en el Código Municipal para el Estado, en su caso; y el relativo al de los trabajadores de confianza, extraordinarios, provisional o interino, por obra determinada o de lista de raya, así como el de aquellos que no queden regulados en los ordenamientos legales señalados, el comprendido entre las ocho y las quince treinta horas, de lunes a viernes de cada semana.
 
@@ -3382,3 +3472,9 @@ P.O. 25 DE OCTUBRE DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE FEBRERO DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
