@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1978-01-25"
+last_updated: "1978-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 1978.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -245,25 +245,39 @@ La residencia de los Poderes únicamente podrá cambiarse por resolución del Co
 
 El ejercicio de las funciones propias del Poder Legislativo, se encomienda a una asamblea que se denominará: "Congreso del Estado libre y soberano de Tamaulipas."
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1977)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1978)</small>
 
 ###### Art. 26.
 
-El Congreso se compondrá de catorce Diputados Propietarios. Por cada Diputado Propietario se elegirá un Suplente.
+El Congreso se integrará por catorce diputados electos según el principio de votación mayoritaria relativa, de cada uno de los distritos electorales uninominales existentes y hasta con cinco diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas de candidatos votados en la circunscripción plurinominal, que constituye la entidad. Por cada Diputado propietario se elegirá un suplente.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1978)</small>
 
 ###### Art. 27.
 
-La elección de Diputados será directa y se verificará en los términos que disponga la Ley Electoral.
+La elección de diputados de representación proporcional se efectuará de acuerdo con lo que prevé esta Constitución y su Ley Reglamentaria, bajo el sistema de listas de candidatos que presentarán los partidos, debiendo observar las siguientes reglas:
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 1936)</small>
+I.- Podrán postular candidatos por medio de listas todos los partidos políticos con derecho a participar en las elecciones del Estado, siempre que hayan registrado candidatos por lo menos en la tercera parte de los distritos electorales uninominales.
 
-ART. 28.- Para ser Diputado Propietario o Suplente, se requiere:
+II.- Los partidos tendrán derecho a que se les asignen diputados de representación proporcional, si obtuvieran, como mínimo, uno y medio por ciento del total de la votación emitida en los distritos electorales uninominales y si además no obtuvieran tres o más diputaciones de elección de mayoría relativa.
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
+III.- La asignación de los diputados de representación proporcional se hará con base en la proporción de votos obtenidos en los distritos electorales del Estado. En todo caso, se respetará el orden que guarden los candidatos en las listas registradas por los partidos conforme a la Ley de la materia.
 
-I.- Que el candidato esté en pleno goce de los derechos de ciudadanía, de acuerdo con los artículos 34, 35 y 36 de la Constitución Política de los Estados Unidos Mexicanos y que no haya ocurrido en su perjuicio ninguno de los motivos de pérdida ni de suspensión de derechos a que se refieren los artículos 37 y 38 de la misma Constitución.
+IV.- En caso de que los partidos con derecho a diputados de representación proporcional obtuviesen en conjunto el triunfo de tres o más distritos electorales uninominales, sólo se les asignará tres diputaciones de representación proporcional.
 
-(REFORMADA, P.O. 20 DE FEBRERO DE 1960) (REPUBLICADA, P.O. 12 DE MARZO DE 1960)
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1978)</small>
+
+###### Art. 28.
+
+Las elecciones de diputados serán calificadas por el Congreso constituido en Colegio Electoral, en los términos establecidos por los Artículos 41 y 58 fracciones XXX y XXXI de esta Constitución.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 28], P.O. 9 DE SEPTIEMBRE DE 1978)
+
+###### Art. 29.
+
+Para ser Diputado Propietario o Suplente, se requiere:
+
+I.- Que el candidato esté en pleno goce de los derechos de ciudadanía, de acuerdo con los artículo 34, 35 y 36 de la Constitución Política de los Estados Unidos Mexicanos y que no haya ocurrido en su perjuicio ninguno de los motivos de pérdida ni de suspensión de derechos a que se refieren los artículos 37 y 38 de la misma Constitución.
 
 II.- Ser Ciudadano del Estado, en ejercicio de sus derechos, nacido en el Estado o vecino con residencia en él por más de cinco años.
 
@@ -271,41 +285,9 @@ III.- Tener veinticinco años cumplidos el día de la elección.
 
 IV.- Poseer suficiente instrucción.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 29], P.O. 9 DE SEPTIEMBRE DE 1978)
 
-###### Art. 28.
-
-Para ser Diputado propietario o suplente, se requiere:
-
-I. Ser ciudadano del Estado en ejercicio de sus derechos, nacido en el Estado o vecino con residencia en él por más de cinco años.
-
-II. Tener veinticinco años cumplidos el día de la elección.
-
-III. Poseer suficiente instrucción.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1932)</small>
-
-ART. 29.- No podrán ser electos Diputados:
-
-I.- El Gobernador, el Secretario General de Gobierno, los Magistrados del Supremo Tribunal de Justicia y el Procurador General de Justicia.
-
-II.- Los Diputados y Senadores al Congreso de la Unión que hubieren estado en ejercicio, si no han transcurrido por lo menos dos años, contados desde la fecha en que conforme a la Ley haya terminado el período para el cual fueron electos.
-
-III.- Los Magistrados, Jueces y Empleados de la Federación en el Estado.
-
-IV.- Los Militares que hayan estado en servicio dentro de los cuatro meses anteriores a la fecha de la elección.
-
-V.- Los que hayan sido condenados por algún delito contra la propiedad o grave contra las personas.
-
-VI.- Los Ministros de cualquier culto, estén o no en ejercicio.
-
-VII.- Los Presidentes Municipales y los Munícipes, si no han transcurrido un año por lo menos, contado desde la fecha en que conforme a la Ley hayan terminado su período para el cual fueron electos.
-
-VIII.- Los Secretarios de Ayuntamientos, los Jueces y Empleados del Estado y Municipales, todos ellos en su circunscripción, si estuvieren en ejercicio dentro de los cuatro meses anteriores a la elección.
-
-IX.- Nunca podrán ser electos los que alguna vez hubieren desempeñado el cargo de Diputados al Congreso Local. Esta prohibición no comprende a los Suplentes.
-
-###### Art. 29.
+###### Art. 30.
 
 No pueden ser electos Diputados:
 
@@ -323,21 +305,23 @@ V.- Los Presidentes Municipales, Munícipes, Empleados del Estado y Municipales 
 
 VI.- Los Diputados Propietarios al Congreso Local y los Suplentes que hayan estado en ejercicio, si no ha pasado un período.
 
-###### Art. 30.
-
-Los Diputados propietarios, desde el día de su elección y los suplentes en ejercicio, no pueden aceptar sin permiso del Congreso, empleo alguno de la Federación, del Estado o de los Municipios, por el cual se disfrute sueldo, excepto en el Ramo de Instrucción. Satisfecha esta condición y sólo en los casos en que sea necesaria, el Diputado quedará suspenso en sus funciones de representante del pueblo por todo el tiempo que desempeñe la nueva comisión o empleo. Las mismas disposiciones rigen respecto a los Diputados suplentes en ejercicio.
+(REUBICADO [N. DE E. ANTES ARTICULO 30], P.O. 9 DE SEPTIEMBRE DE 1978)
 
 ###### Art. 31.
 
-Los Diputados son inviolables por las opiniones que manifiesten en el ejercicio de su encargo.
+Los Diputados propietarios, desde el día de su elección y los suplentes en ejercicio, no pueden aceptar sin permiso del Congreso, empleo alguno de la Federación, del Estado o de los Municipios, por el cual se disfrute sueldo, excepto en el Ramo de Instrucción. Satisfecha esta condición y sólo en los casos en que sea necesaria, el Diputado quedará suspenso en sus funciones de representante del pueblo por todo el tiempo que desempeñe la nueva comisión o empleo. Las mismas disposiciones rigen respecto a los Diputados suplentes en ejercicio.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 31], P.O. 9 DE SEPTIEMBRE DE 1978)
 
 ###### Art. 32.
 
-Los Diputados propietarios, desde el día de su elección y los suplentes cuando estén ejerciendo sus funciones, no podrán ser procesados por delitos comunes ni oficiales, sin que proceda la declaración del Congreso de haber lugar a formación de causa.
+Los Diputados son inviolables por las opiniones que manifiesten en el ejercicio de su encargo.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 32], P.O. 9 DE SEPTIEMBRE DE 1978)
 
 ###### Art. 33.
 
-Si un individuo fuere electo por dos o más Distritos, subsistirá la elección de su vecindad; si no fuere vecino de alguno de ellos, subsistirá la de su origen; y si no fuere natural de ninguno de ellos, queda a su arbitrio concurrir al Congreso por el Distrito que quisiere.
+Los Diputados propietarios, desde el día de su elección y los suplentes cuando estén ejerciendo sus funciones, no podrán ser procesados por delitos comunes ni oficiales, sin que proceda la declaración del Congreso de haber lugar a formación de causa.
 
 ###### Art. 34.
 
@@ -607,7 +591,7 @@ L. Conocer y resolver sobre la renuncia que presenten los Magistrados del Suprem
 
 LI. (DEROGADA, P.O. 7 DE DICIEMBRE DE 1946)
 
-LII.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
+LII. (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
 
 LIII. Crear nuevas Municipalidades dentro de las existentes, variar sus límites y suprimir alguna o algunas de ellas.
 
@@ -1337,6 +1321,14 @@ Las funciones políticas y administrativas de carácter municipal, serán desemp
 
 En cada Municipalidad habrá un Ayuntamiento de elección popular directa, el cual tendrá su residencia en la Cabecera de la misma. En el Estado de Tamaulipas las mujeres participarán en las mismas condiciones que los varones para votar y ser votadas en los cargos de elección popular en los Municipios.
 
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1978)</small>
+
+En los municipios con población mayor de trescientos mil habitantes, complementarán sus Ayuntamientos hasta con tres regidores de representación proporcional.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1978)</small>
+
+Los partidos políticos con derecho a participar en la Entidad que no hubiesen logrado la mayoría en la elección municipal, podrán acreditar regidores en proporción a los votos recibidos, siempre que hayan obtenido cuando menos el uno y medio por ciento de la votación sufragada, pero en ningún caso se asignará a un solo partido más de las dos terceras partes de estos regidores. La nominación de Regidores de Representación proporcional atenderá siempre a lo que disponga la Ley Reglamentaria y al orden en que hayan sido postulados por sus respectivos partidos.
+
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
 ###### Art. 132.
@@ -1976,3 +1968,9 @@ P.O. 25 DE ENERO DE 1978.
 PRIMERO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La presente modificación tendrá vigencia por esta única vez, por lo que rendido el Informe y pasada la fecha mencionada, seguirá en vigor el texto anterior del propio Artículo.
+
+P.O. 9 DE SEPTIEMBRE DE 1978.
+
+PRIMERO:- Se deroga el contenido del Artículo 33, para dar cabida al texto del inmediato anterior que se corre en el numeral.
+
+SEGUNDO:- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
