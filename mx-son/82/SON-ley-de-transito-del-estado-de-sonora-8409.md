@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transito-del-estado-de-sonora-8409"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-27"
-last_updated: "2000-05-08"
+last_updated: "2002-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRANSITO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE JULIO DE 2002.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 27 de febrero de 1984.
 
@@ -47,11 +47,15 @@ LEY DE TRANSITO DEL ESTADO DE SONORA.
 
 La presente Ley es de interés público y de observancia obligatoria en el Estado de Sonora. Tiene por objeto regular el tránsito de vehículos y establecer las normas a las que se sujetarán sus conductores y ocupantes, así como los peatones.
 
-La planeación, prestación y supervisión del servicio público de tránsito, son actividades de interés público.
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
+
+La planeación, ejercicio y supervisión de la función pública de tránsito, son actividades de interés público.
+
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 2o.
 
-El Municipio, con el concurso del Estado, tendrá a su cargo la prestación del servicio público de tránsito, de acuerdo a las bases establecidas en esta Ley y de sus disposiciones aplicables.
+Los municipios tendrán a su cargo el ejercicio de la función pública de tránsito municipal, de acuerdo a las bases establecidas en esta Ley y demás disposiciones aplicables.
 
 ###### ARTICULO 3o.
 
@@ -61,49 +65,49 @@ I.- El Ejecutivo del Estado, y
 
 II.- Los Ayuntamientos de los Municipios del Estado.
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 4o.
 
 Compete al Gobernador del Estado:
 
-> <small>(REFORMADA, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
+I.- Establecer y ejecutar las políticas de vialidad en las carreteras y caminos de jurisdicción estatal.
 
-I.- Ejercer el mando supremo de las Policías de Tránsito Municipales, para organizarlas y movilizarlas de acuerdo con las necesidades y requerimientos públicos. Asimismo, disponer de la Policía de Tránsito del Municipio donde residiere habitual o transitoriamente.
+La Coordinación Estatal de Seguridad Pública y Tránsito, inspeccionará, verificará y vigilará en las carreteras de jurisdicción estatal que los vehículos destinados al servicio público o privado de transporte cumplan con las condiciones de peso, dimensiones, capacidad y otras especificaciones en los términos que establezcan las normas legales y reglamentarias respectivas.
 
-II.- (DEROGADA, B.O. 30 DE DICIEMBRE DE 1996)
+II. - Transmitir a las policías de tránsito municipales, cuando éstas realicen las funciones de policía preventiva municipal, las órdenes necesarias en aquellos casos que, bajo su responsabilidad, califique como de fuerza mayor o alteración grave del orden público, de acuerdo con lo establecido en la Ley de Seguridad Pública.
 
-III.- Establecer y ejecutar las políticas de vialidad en las carreteras y caminos de jurisdicción estatal.
+III.- Celebrar convenios con los municipios del Estado y con las autoridades federales o de otras entidades federativas, para el mejor cumplimiento de los fines de esta Ley.
 
-> <small>(ADICIONADO, B.O. 6 DE JULIO DE 1995)</small>
+IV.- Ordenar la ejecución de sus decisiones mediante el uso de la fuerza pública, cuando el caso lo amerite.
 
-La Coordinación Estatal de Seguridad Pública y Tránsito inspeccionará, verificará y vigilará en las carreteras de jurisdicción estatal que los vehículos destinados al servicio público o privado de transporte cumplan con las condiciones de peso, dimensiones, capacidad y otras especificaciones en los términos que establezcan las normas reglamentarias respectivas.
-
-IV.- Establecer, con el concurso de los Ayuntamientos o por sí mismo cuando la prestación del servicio lo haga necesario, y conforme lo determinen los Planes de Desarrollo Urbano y Rural, las políticas de vialidad en las zonas urbanas y rurales del Municipio de que se trate. Dichas políticas deberán contener la estructura vial primaria, secundaria, local y peatonal, así como las características y normas técnicas respecto de estacionamientos, señalamientos y demás dispositivos e indicadores para el control del tránsito.
-
-V.- Celebrar convenios con los Municipios del Estado y con las autoridades federales o de otras entidades federativas, para el mejor cumplimiento de los fines de esta Ley.
-
-VI.- Ordenar la ejecución de sus decisiones mediante el uso de la fuerza pública, cuando el caso lo amerite.
-
-VII.- Los demás que ésta y otras disposiciones legales le señale.
+V.- Lo demás que esta y otras disposiciones legales le señalen.
 
 ###### ARTICULO 5o.
 
 Compete a los Ayuntamientos de los respectivos Municipios:
 
-I.- Organizar y prestar, en los términos de esta Ley, el servicio público de tránsito.
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2002)</small>
 
-> <small>(REFORMADA, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
+I.- Organizar y ejercer, en los términos de esta Ley, la función pública de tránsito.
 
-II.- Expedir, con sujeción a la presente Ley, la cual se constituye como la base normativa para el ejercicio de su facultad reglamentaria, los reglamentos, las circulares y las demás disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, en materia de tránsito.
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2002)</small>
+
+II. - Aprobar, con sujeción a la presente Ley, los reglamentos, las circulares y las demás disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, en materia de tránsito;
 
 > <small>(REFORMADA B.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
 III.- Emitir los manuales de organización, de procedimientos y de servicios al público de las Policías de Tránsito Municipales;
 
-IV.- Establecer, con el concurso del Estado y conforme lo determinen los Planes de Desarrollo Urbano y Rural, las políticas de vialidad en las zonas urbanas y rurales del Municipio de que se trate. Dichas políticas deberán contener la estructura vial primaria, secundaria, local y peatonal, así como las características y normas técnicas respecto de estacionamientos, señalamientos y demás dispositivos e indicadores para el control del tránsito.
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2002)</small>
 
-V.- Ejecutar las políticas de vialidad que se establezcan en los términos de la Fracción IV del Artículo 4o. e esta Ley.
+IV.- Establecer y ejecutar las políticas de vialidad en las zonas urbanas y rurales del municipio de que se trate. Dichas políticas deberán contener la estructura vial primaria, secundaria, local y peatonal, así como las características y normas técnicas respecto de estacionamientos, señalamientos y demás dispositivos e indicadores para el control del tránsito;
 
-VI.- Celebrar convenios con el Estado, y por conducto de éste con las autoridades federales y de otras entidades federativas para el mejor cumplimiento de los fines de esta Ley.
+V.- (DEROGADA, B.O. 8 DE JULIO DE 2002)
+
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2002)</small>
+
+VI.- Celebrar convenios con el Estado, con autoridades de la Federación o de otras Entidades Federativas para el mejor cumplimiento de los fines que previene esta Ley;
 
 VII.- Establecer el calendario para el revisado de vehículos registrados en su Departamento de Tránsito Municipal.
 
@@ -111,13 +115,15 @@ VIII.- Organizar los escuadrones de educación vial.
 
 IX.- Dictar las normas conforme a las cuales se establecerán las nomenclaturas de las calzadas, boulevares, avenidas, calles y callejones de su jurisdicción.
 
-X.- Resolver en los términos que señala esta Ley los recursos de reconsideración.
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2002)</small>
+
+X.- Resolver los recursos de inconformidad de la materia;
 
 XI.- Ordenar la ejecución de sus decisiones mediante el uso de la fuerza pública cuando el caso lo amerite.
 
-> <small>(REFORMADA, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2002)</small>
 
-XII.- Elaborar y mantener permanentemente actualizadas las estadísticas que resulten necesarias, para la eficaz prestación del servicio público de tránsito; y
+XII.- Elaborar y mantener permanentemente actualizadas las estadísticas que resulten necesarias para el mejor ejercicio de la función pública de tránsito; y
 
 > <small>(ADICIONADA, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
@@ -135,19 +141,19 @@ II.- Imponer correcciones disciplinarias a los elementos que integran la policí
 
 III.- Presentar, al Ayuntamiento de que dependan, informes trimestrales de las actividades realizadas por la policía de tránsito a sus órdenes, así como un inventario de los recursos humanos y materiales con que se preste el servicio.
 
-IV.- Entregar un instructivo a los choferes al solicitar el revisado de sus unidades, referente al auxilio y preferencia de los ciudadanos que se identifiquen como ciegos con el bastón blanco, los sordos con el brazalete amarillo y los limitados físicos y mentales que resulten de obvia observancia.
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2002)</small>
+
+IV.- Entregar un instructivo a los choferes al solicitar el revisado de sus unidades, referente al auxilio y preferencia de los ciudadanos que se identifiquen como ciegos con el bastón blanco, los sordos con el brazalete amarillo y demás personas con discapacidad que resulten de obvia observancia.
 
 V.- Cumplir y hacer cumplir esta Ley y las disposiciones que de ella emanen.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 7o.
 
-Los Presidentes Municipales tendrán la facultad de nombrar y remover al Jefe, Oficiales Superiores y demás personal, de la Policía de Tránsito Municipal. En el ejercicio de esta facultad, serán aplicables las disposiciones que para los nombramientos y remociones de los Jefes y Subjefes de las Policías Preventivas Municipales establece la Ley de Seguridad Pública para el Estado de Sonora.
+Los Ayuntamientos de los municipios del Estado nombrarán, a propuesta de los Presidentes Municipales, al Jefe de la Policía de Tránsito Municipal. La facultad de remoción del mismo será competencia exclusiva del Ayuntamiento. Los Oficiales Superiores y demás personal, serán nombrados por los Presidentes Municipales.
 
-> <small>(REFORMADO, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
-
-Serán Jefes y Oficiales Superiores de las Policías de Tránsito Municipales, los Jefes y los Subjefes. Los cargos de Jefe de Policía de Tránsito Municipal y de Jefe de Policía Preventiva de un Municipio, podrán recaer en la misma persona.
+Serán oficiales superiores de las policías de tránsito municipales, los subjefes. Los cargos de jefe y subjefe de policía de tránsito municipal podrán recaer en las mismas personas que tengan, respectivamente, los cargos de jefe y subjefe de policía preventiva de un municipio.
 
 > <small>(REFORMADO, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
@@ -171,11 +177,11 @@ VII.- AGENTE DE TRANSITO.
 
 Todo lo relativo a uniformes, insignias, divisas, manifestación, posesión y portación de armas, deberes y prohibiciones que, para los integrantes de las Policías Preventivas, señala la Ley de Seguridad Pública para el Estado de Sonora, será aplicable para los integrantes de las Policías de Tránsito Municipales.
 
-> <small>(REFORMADO, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 9o.
 
-Los integrantes de las Policías de Tránsito Municipales serán los encargados de hacer cumplir las determinaciones de las autoridades señaladas en el Artículo 3º., de esta Ley, y de vigilar en los términos de sus comisiones o de las funciones que sean acordes con sus jerarquías, el cumplimiento del presente ordenamiento y de los reglamentos, circulares y demás disposiciones de observancia general que emitan los Ayuntamientos.
+Los integrantes de las policías de tránsito municipales serán los encargados de hacer cumplir las determinaciones de los Ayuntamientos y los Presidentes Municipales, así como vigilar en los términos de sus comisiones o de las funciones que sean acorde con sus jerarquías, el cumplimiento del presente ordenamiento y de los reglamentos, circulares y demás disposiciones de observancia general que aprueben los ayuntamientos.
 
 Los Comisarios y los Delegados Municipales ejercerán las funciones a que se refiere el párrafo que antecede, dentro de sus respectivas jurisdicciones, cuando no existan en las mismas, elementos de la Policía de Tránsito Municipal.
 
@@ -739,7 +745,9 @@ b).- Los vehículos estarán equipados con un indicador de luces que deberá pre
 
 Los vehículos de bomberos, de policía y tránsito, ambulancias y otros de emergencia autorizados, así como los vehículos destinados al mantenimiento de los servicios urbanos y limpieza de la vía pública, deberán estar provistos de una lámpara cuyo giro sea de 360 grados y que proyecte una luz roja visible a una distancia no menor de 150 metros, bajo la luz solar. La lámpara deberá ir montada en la parte más alta del vehículo.
 
-Los vehículos oficiales de seguridad pública, además de la luz giratoria, podrán utilizar otras lámparas de color azul, combinadas con la anterior y que serán exclusivas de este servicio.
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
+
+Los vehículos oficiales de seguridad pública, además de la luz giratoria, podrán utilizar otras lámparas de color azul, combinadas con la anterior y que serán exclusivas de esta función.
 
 Estos dispositivos no deberán ser utilizados en ninguna otra clase de servicio.
 
@@ -1202,6 +1210,10 @@ Es obligatorio para todo conductor, así como para sus acompañantes, utilizar e
 > <small>(ADICIONADO, B.O. 8 DE MAYO DE 2000)</small>
 
 Los menores de 6 años de edad deberán viajar preferentemente en el asiento trasero del vehículo y en un asiento de seguridad para niños, debiendo sujetarlos con el cinturón de seguridad para adultos, siguiendo las instrucciones del fabricante del vehículo y del asiento de seguridad señaladas para ese efecto.
+
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 2002)</small>
+
+Queda prohibido a los conductores hacer uso de teléfonos celulares mientras se conduce un vehículo de motor.
 
 ###### ARTICULO 109.
 
@@ -1709,9 +1721,11 @@ Las disposiciones anteriores no relevan a los conductores de vehículos de emerg
 
 Las disposiciones anteriores, no serán aplicables a trabajadores, vehículos y otros equipos, mientras se encuentren ejecutando un trabajo en la vía pública, pero se aplicarán cuando transiten hacia o desde el lugar de trabajo.
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 176.
 
-Al acercarse un vehículo de emergencia que lleve señales luminosas y audibles especiales, los conductores de otros vehículos cederán el paso al de emergencia, pasando a ocupar una posición paralela y lo más cercano posible al extremo del carril derecho o a la acera, fuera de la intersección y se detendrá manteniéndose inmóvil hasta que haya pasado el vehículo de emergencia. Tienen preferencia de paso, por el orden en que se mencionan los vehículos destinados a los siguientes servicios: bomberos, ambulancias, policía y otros.
+Al acercarse un vehículo de emergencia que lleve señales luminosas y audibles especiales, los conductores de otros vehículos cederán el paso al de emergencia, pasando a ocupar una posición paralela y lo más cercano posible al extremo del carril derecho o a la acera, fuera de la intersección, y se detendrá manteniéndose inmóvil hasta que haya pasado el vehículo de emergencia. Tienen preferencia de paso, por el orden en que se mencionan, los vehículos destinados a los siguientes servicios y funciones: bomberos, ambulancias, seguridad pública, policía preventiva y tránsito.
 
 ### CAPITULO VI. PEATONES Y PASAJEROS
 
@@ -1761,9 +1775,11 @@ Los peatones deberán transitar por la mitad derecha de las zonas de cruce.
 
 Los peatones que no se encuentren en completo uso de sus facultades y los menores de 8 años de edad, deberán ser conducidos por personas aptas al cruzar las vías, los invidentes deberán usar bastón blanco, a fin de que puedan ser distinguidos por los conductores. Los carentes de sentido del oído deberán usar brazalete amarillo.
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 187.
 
-Los inválidos o enfermos que se desplacen en sillas de ruedas o artefactos especiales, no deberán transitar en la vía pública a mayor velocidad que la de marcha normal de los peatones.
+Las personas con discapacidad que se desplacen en sillas de ruedas u otros medios especiales, no deberán transitar en la vía pública a mayor velocidad que la de marcha normal de los peatones.
 
 ###### ARTICULO 188.
 
@@ -1864,6 +1880,12 @@ b) La señal de "CEDA EL PASO" tiene forma de triángulo equilátero, con un vé
 El conductor que se aproxime a una señal de "CEDA EL PASO", deberá disminuir la velocidad o detenerse, si es necesario, para ceder el paso a cualquier vehículo que se acerque de modo que represente un riesgo.
 
 c) Señal indicativa de ciegos y parapléjicos en lugares de intenso tráfico y en áreas al acceso a zonas comerciales, consistentes en señal de fondo negro y siluetas blancas, de bastón y sillas de ruedas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+c) Señal indicativa de zona exclusiva para personas con algún tipo de discapacidad, consistente en señal de fondo azul y silueta blanca.
 
 III.- SEÑALES INFORMATIVAS.- Tienen por objeto guiar al usuario a lo largo de su ruta e informarle sobre las calles o caminos que encuentre y los nombres de poblaciones, lugares de interés y sus distancias. Entre otras, Tabla número 3. Se dividen en cuatro grupos:
 
@@ -2349,6 +2371,10 @@ Podrá también recogerse la licencia de operador de servicio público de transp
 
 Las infracciones a las disposiciones que establecen condiciones de peso, dimensiones, capacidad y otras especificaciones que deberán cumplir los vehículos destinados al servicio de transporte público o privado que circulen en vías de jurisdicción estatal, serán sancionadas con multa y retiro del vehículo de la circulación, según sea el caso, por la Coordinación Estatal de Seguridad Pública y Tránsito, en los términos que establezcan las normas reglamentarias respectivas.
 
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 2002)</small>
+
+Las autoridades administrativas competentes, en la aplicación de las sanciones previstas por esta Ley, tomarán en cuenta, para la individualización de la sanción, la gravedad de la infracción, la capacidad económica, reincidencia y demás circunstancias especiales de los hechos constitutivos de la infracción, procurando que las multas no sean excesivas y se encuentren al amparo del principio de proporcionalidad establecido por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+
 ###### ARTICULO 223.
 
 Al darse cuenta o al tener conocimiento de una infracción, los Agentes de Tránsito, acudirán inmediatamente al lugar donde ocurra y tomarán las siguientes medidas según el caso:
@@ -2427,11 +2453,11 @@ La acción del Fisco para hacer efectivas las sanciones señaladas en esta Ley, 
 
 En ambos casos, el término de la prescripción corre a partir de la fecha en que se haya cometido la infracción.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 15 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 231.
 
-Se impondrá multa equivalente a veinte veces el salario mínimo diario vigente en la cabecera del Municipio de que se trate:
+Se impondrá multa que habrá de determinarse en las Leyes de Ingresos de los Ayuntamientos, de conformidad con las bases establecidas en esta Ley:
 
 a) Por transportar en los vehículos, explosivos o productos altamente inflamables sin el permiso correspondiente.
 
@@ -2439,17 +2465,19 @@ b) Por prestar servicio público de transporte sin estar concesionado, por cada 
 
 c) Por prestar el servicio público de transporte con las unidades de emergencia simultáneamente con las autorizadas, independientemente de la sanción de cancelación que establece la Ley de Transporte del Estado de Sonora.
 
-> <small>(REFORMADO, B.O. 15 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
 
-d) Igualmente se impondrá multa equivalente hasta veinte veces el salario mínimo diario vigente en la cabecera del municipio de que se trate, pero que no será menor de diez veces el mismo salario mínimo, por no presentar los vehículos para la verificación de emisiones contaminantes en los términos del artículo 53, último párrafo, de esta Ley, así como por no portar la calcomanía correspondiente vigente o, portándola, ser evidente que el vehículo emite sustancias contaminantes que pueden rebasar los límites permisibles señalados por la normatividad aplicable. En este último caso, se estará a lo establecido por el inciso e) del artículo 223 de esta Ley.
+d) Por no presentar los vehículos para la verificación de emisiones contaminantes en los términos del artículo 53, último párrafo, de esta Ley, así como por no portar la calcomanía correspondiente vigente o, portándola, ser evidente que el vehículo emite sustancias contaminantes que puedan rebasar los límites permisibles señalados por la normatividad aplicable. En este último caso, se estará a lo establecido por el inciso e) del artículo 223 de esta Ley.
 
 > <small>(REFORMADO, B.O. 15 DE JULIO DE 1993)</small>
 
 En los casos en que se compruebe que el vehículo no aprobó el examen de verificación de emisiones contaminantes, y no ha sido presentado a segunda verificación en el plazo que se le haya concedido, en lugar de la multa señalada en el primer párrafo de este artículo, se impondrá una multa equivalente a veinticuatro veces el salario mínimo diario vigente en la cabecera del Municipio que se trate.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 232.
 
-Se impondrá multa equivalente a siete veces el salario mínimo diario vigente en la cabecera del Municipio de que se trate:
+Se impondrá multa que habrá de determinarse en las Leyes de Ingresos de los Ayuntamientos, de conformidad con las bases establecidas en esta Ley:
 
 a) Por conducir vehículos en estado de ebriedad o bajo influencia de estupefacientes y arresto hasta por 36 horas, siempre que no constituya delito, procediendo conforme al Artículo 223, Fracción VII de esta Ley.
 
@@ -2465,9 +2493,11 @@ e) Por prestar el servicio público de pasaje fuera de la ruta o del horario aut
 
 f) Por hacer terminal sobre la vía pública o en lugares no autorizados a los vehículos de servicio público de pasaje.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 233.
 
-Se aplicará multa equivalente a cinco veces el salario mínimo diario vigente en la cabecera del Municipio de que se trate, cuando se incurra en las siguientes infracciones:
+Se impondrá multa que habrá de determinarse en las Leyes de Ingresos de los Ayuntamientos, de conformidad con las bases establecidas en esta Ley:
 
 a) Por hacer uso cualquier vehículo de sirenas y luces reservadas a los vehículos de emergencia, debiéndose además obligar al conductor a que retire del vehículo dichos dispositivos.
 
@@ -2475,9 +2505,11 @@ b) Por causar daños a la vía pública o bienes del Estado o del Municipio, con
 
 c) Por falta de permiso para circular con equipo especial movible.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 234.
 
-Se aplicará multa equivalente a tres veces el salario mínimo diario vigente en la cabecera del Municipio de que se trate, cuando se incurra en las siguientes infracciones:
+Se impondrá multa que habrá de determinarse en las Leyes de Ingresos de los Ayuntamientos, de conformidad con las bases establecidas en esta Ley:
 
 a) Realizar competencias de velocidades o aceleración de vehículo, en las vías públicas.
 
@@ -2503,11 +2535,13 @@ k) Por no realizar la limpieza, tanto interior como exterior de vehículos de se
 
 l) Por efectuar reparaciones que no sean de urgencia, así como lavados de vehículos en las vías públicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 235.
 
-Se aplicará multa equivalente a dos veces el salario mínimo diario vigente en la cabecera del Municipio de que se trate, cuando se incurra en las siguientes infracciones:
+Se impondrá multa que habrá de determinarse en las Leyes de Ingresos de los Ayuntamientos, de conformidad con las bases establecidas en esta Ley:
 
-a) Por permitir el ascenso y descenso de pasaje en los vehículos de servicio público de transporte, en las vías públicas, sin tomar para ello precauciones de seguridad, así como realizarlas en las zonas o paradas no autorizadas.
+a) Por permitir al ascenso y descenso de pasaje en los vehículos de servicio público de transporte, en las vías públicas, sin tomar para ello precauciones de seguridad, así como realizarlas en las zonas o paradas no autorizadas.
 
 b) Por circular y estacionar en las aceras y zonas de seguridad.
 
@@ -2521,7 +2555,9 @@ e) Por circular cualquier vehículo con el escape abierto, o produciendo por aco
 
 f) Por circular vehículos que excedan en los límites autorizados en el largo, ancho y alto de la unidad, así como transportar carga excediéndose en la altura permitida o que sobresalga la carga por la parte posterior y lateral, sin el señalamiento correspondiente.
 
-Tratándose de los vehículos de transporte de carga pesada que no cuenten con el permiso del departamento de tránsito para circular en las vías de jurisdicción de cualquier municipio, se sancionarán con multa de cien a trescientas veces el salario mínimo general diario vigente en la capital del Estado.
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
+
+Tratándose de los vehículos de transporte de carga pesada que no cuenten con el permiso del departamento de tránsito para circular en las vías de jurisdicción de cualquier municipio, se sancionarán conforme a la multa que se determine en las Leyes de Ingresos de los Ayuntamientos.
 
 g) Por realizar sin causa justificada una frenada brusca, sin hacer la señal correspondiente, provocando con ello un accidente o connato de él.
 
@@ -2535,11 +2571,13 @@ k) Por circular los vehículos de servicio público de pasaje:
 
 1.- Sin el número económico en lugar visible y conforme a las dimensiones, color de la unidad e indicaciones que al efecto establezca la Dirección de Transporte del Estado.
 
-2.- Falta de identificación del tipo de servicio que presta y cuando proceda el nombre de la ruta.
+2.- Falta de identificación del tipo de servicio que se presta y cuando proceda el nombre de la ruta.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 236.
 
-Se aplicará multa equivalente a un tanto del salario mínimo diario vigente en la cabecera del Municipio de que se trate, al que incurra en las siguientes infracciones:
+Se impondrá multa que habrá de determinarse en las Leyes de Ingresos de los Ayuntamientos, de conformidad con las bases establecidas en esta Ley:
 
 a) Por no tomar el carril correspondiente para dar vuelta a la izquierda, o conservar el carril izquierdo entorpeciendo la circulación rápida de él, excepto para efectuar rebase.
 
@@ -2589,9 +2627,11 @@ u) Falta de señalamiento de la razón social, nombre del propietario o de la in
 
 v) Circular careciendo de tarjeta de circulación o con una que no corresponda al vehículo o a sus características.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 237.
 
-Se aplicará multa equivalente al 50% del salario mínimo diario vigente en la cabecera del Municipio de que se trate, cuando se incurra en las siguientes infracciones:
+Se impondrá multa que habrá de determinarse en las Leyes de Ingresos de los Ayuntamientos, de conformidad con las bases establecidas en esta Ley:
 
 a) Viajar más de una persona en las bicicletas de rodada menor de 65 centímetros; o utilizar en la vía pública una bicicleta infantil.
 
@@ -2623,47 +2663,51 @@ n) Permitir el acceso a los vehículos de servicio público de transporte de ser
 
 ñ) Dar vuelta a la izquierda o derecha sin hacer la señal correspondiente con la mano o con el indicador mecánico, así como indicar la maniobra y no realizarla.
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 238.
 
-Las infracciones a esta Ley en que incurran personas que no sean conductoras de vehículos, se sancionarán de la siguiente manera:
+Las sanciones a esta Ley en que incurran personas que no sean conductores de vehículos, se sancionarán conforme se determine en las Leyes de Ingresos de los Ayuntamientos, de conformidad con las bases establecidas en esta Ley:
 
-I.- Multa equivalente a dos veces el salario mínimo diario vigente en la cabecera del Municipio de que se trate:
+a).- Abanderamiento: por no abanderar los obstáculos o zanjas peligrosas a la circulación de vehículos y peatones, así como no colocar señales luminosas para indicar su existencia por la noche.
 
-a) Abanderamiento: Por no abanderar los obstáculos o zanjas peligrosas a la circulación de vehículos y peatones, así como no colocar señales luminosas para indicar su existencia por la noche.
+b).- Animales: por trasladar o permitir el traslado de ganado por la vía pública sin permiso o cabalgar fuera de las calzadas o lugares autorizados para tal fin.
 
-b) Animales: Por trasladar o permitir el traslado de ganado por la vía pública sin permiso, o cabalgar fuera de las calzadas o lugares autorizados para tal fin.
+c).- Vías públicas: utilizarlas para fines distintos a la circulación de vehículos y peatones, salvo casos de fuerza mayor o previa autorización del Departamento de Tránsito.
 
-c) Vías Públicas: Utilizarlas para fines distintos a la circulación de vehículos y peatones, salvo casos de fuerza mayor o previa autorización del Departamento de Tránsito.
+d).- Basura: por arrojar basura en las vías públicas.
 
-II.- Multa equivalente al 50% del salario mínimo diario vigente en la cabecera del Municipio de que se trate:
+e).- Carretillas: por usarlas para fines distintos al de simple auxilio en las maniobras de carga y descarga fuera de la zona autorizada en las obras de construcción.
 
-a) Basura: por arrojar basura en las vías públicas.
-
-b) Carterillas: Por usarlas para fines distintos al de simple auxilio, en las maniobras de carga y descarga fuera de la zona autorizada en las obras de construcción.
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 239.
 
-A quienes infrinjan disposiciones de la presente Ley, que no tengan señalada expresamente una sanción, atendiendo a las circunstancias de los hechos y a juicio de las autoridades de tránsito, se les impondrá multa equivalente de un tanto el salario mínimo diario vigente en la cabecera del Municipio de que se trate, hasta diez veces el mismo.
+Las Leyes de Ingresos de los Ayuntamientos procurarán englobar la totalidad de las conductas que ameriten sanción, de conformidad con las bases establecidas en la presente Ley.
 
 ### CAPITULO II. DE LOS RECURSOS
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 240.
 
-Las sanciones establecidas en esta Ley podrán ser impugnadas ante el Ayuntamiento de que se trata, mediante la interposición del recurso de reconsideración.
+Las sanciones establecidas en esta Ley podrán ser impugnadas mediante la interposición, ante el Juez Calificador, del recurso de revocación, para el cual se aplicarán las disposiciones procedimentales previstas por el Capítulo Tercero del Titulo Segundo, Libro Cuarto de la Ley de Seguridad Pública para el Estado de Sonora.
+
+Los interesados afectados por la resolución del Juez Calificador podrán, a su elección, interponer el recurso de inconformidad previsto en el Capítulo Quinto del Título Décimo Cuarto de la Ley de Gobierno y Administración Municipal o intentar el juicio correspondiente ante el Tribunal de lo Contencioso Administrativo del Estado.
 
 ###### ARTICULO 241.
 
-El recurso de reconsideración, deberá promoverse por escrito ante el Ayuntamiento de que se trate, dentro del término de quince días siguientes a la notificación o ejecución del acto impugnado.
-
-Tratándose de sanción pecuniaria, el recurrente deberá garantizar el interés fiscal en cualquier forma legal, y de no hacerlo, se desechará de plano el recurso.
+(DEROGADO, B.O. 8 DE JULIO DE 2002)
 
 ###### ARTICULO 242.
 
-El Ayuntamiento de que se trate, resolverá el recurso interpuesto con base en las pruebas aportadas y en lo alegado dentro de un término que no excederá de treinta días.
+(DEROGADO, B.O. 8 DE JULIO DE 2002)
+
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 243.
 
-Si se trata exclusivamente de inconformarse contra alguna de las multas expresamente señaladas en esta Ley, la reconsideración podrá hacerse valer por comparecencia, ante la Autoridad de Tránsito que la haya impuesto y ésta dictará su resolución, transcribiendo sucintamente su acuerdo al margen de la boleta de la infracción, con su rúbrica.
+Si se trata exclusivamente de inconformarse por la imposición de la sanción de multa derivada de los supuestos establecidos en los artículos 231 al 238 de esta Ley, el recurso de revocación podrá hacerse valer por comparecencia, ante el Juez Calificador quien dictará su resolución, transcribiendo sucintamente su acuerdo al margen de la boleta de la infracción, con su rúbrica.
 
 ## TRANSITORIOS
 
@@ -2768,3 +2812,13 @@ B.O. 8 DE MAYO DE 2000.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín oficial del Gobierno del Estado de Sonora.
+
+B.O. 8 DE JULIO DE 2002.
+
+###### ARTICULO PRIMERO.
+
+Las disposiciones de la presente Ley entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las sanciones previstas por los artículos 231 al 237 y el 239 de la Ley de Tránsito para el Estado de Sonora vigentes hasta la entrada en vigor de la presente reforma, continuarán aplicándose hasta que las mismas sean incorporadas en las leyes de Ingresos de los Ayuntamientos.
