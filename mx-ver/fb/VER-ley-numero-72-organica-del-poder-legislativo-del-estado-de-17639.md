@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2003-03-18"
+last_updated: "2003-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE ABRIL DE 2003.
 
-> <small>N. DE E. CONFORME AL ARTICULO CUARTO TRANSITORIO DEL DECRETO NUMERO 547 DE REFORMA CONSTITUCIONAL PUBLICADO EN LA GACETA OFICIAL DEL 18 DE MARZO DE 2003, LA DENOMINACION ". . . ESTADO DE VERACRUZ-LLAVE", DEBERA ENTENDERESE COMO ". . . ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".</small>
+> <small>N. DE E. CONFORME AL ARTICULO CUARTO TRANSITORIO DEL DECRETO NUMERO 547 DE REFORMA CONSTITUCIONAL PUBLICADO EN LA GACETA OFICIAL DEL 18 DE MARZO DE 2003, LA DENOMINACION " . . . ESTADO DE VERACRUZ LLAVE", DEBERA ENTENDERSE COMO " . . . ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".</small>
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -83,7 +83,7 @@ b) Examinar, fiscalizar y aprobar las cuentas de recaudación y distribución de
 
 ###### Artículo 7.
 
-Al inicio de cada período de sesiones ordinarias, el Presidente del Congreso del Estado declarará en voz alta: "El Congreso del Estado de Veracruz dnacio de la Llave abre hoy (fecha) el Primer (o Segundo) Período de Sesiones Ordinarias del (Primer, Segundo o Tercer) Año de ejercicio de la (número ordinal) Legislatura".
+Al inicio de cada período de sesiones ordinarias, el Presidente del Congreso del Estado declarará en voz alta: "El Congreso del Estado de Veracruz de Ignacio de la Llave abre hoy (fecha) el Primer (o Segundo) Período de Sesiones Ordinarias del (Primer, Segundo o Tercer) Año de ejercicio de la (número ordinal) Legislatura".
 
 ###### Artículo 8.
 
@@ -155,11 +155,11 @@ Una vez efectuada la elección de la nueva Mesa Directiva, sus integrantes ocupa
 
 El Presidente de la nueva Mesa Directiva, para los efectos de lo dispuesto en la fracción III del artículo anterior, se pondrá de pie y lo mismo harán los demás integrantes del Congreso. Aquél prestará, con el brazo derecho extendido, la protesta siguiente:
 
-"Protesto guardar y hacer guardar la Constitución Política del Estado Libre y Soberano de Veracruz-Llave y la Constitución Política de los Estados Unidos Mexicanos, mirando en todo por el bien del Estado; y si así no lo hiciere, que el pueblo me lo demande".
+"Protesto guardar y hacer guardar la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave y la Constitución Política de los Estados Unidos Mexicanos, mirando en todo por el bien del Estado; y si así no lo hiciere, que el pueblo me lo demande".
 
 El resto de los integrantes del Congreso, para los efectos de la fracción IV del artículo anterior, permanecerá de pie y el Presidente de la Mesa Directiva les tomará la protesta siguiente:
 
-¿Protestan guardar y hacer guardar la Constitución Política del Estado Libre y Soberano de Veracruz-Llave y la Constitución Política de los Estados Unidos Mexicanos, mirando en todo por el bien del Estado?
+¿Protestan guardar y hacer guardar la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave y la Constitución Política de los Estados Unidos Mexicanos, mirando en todo por el bien del Estado?
 
 Los Diputados electos responderán:
 
@@ -705,11 +705,13 @@ XXIV. Trabajo y Previsión Social; y
 
 XXV. Vigilancia.
 
-> <small>(REFORMADO, G.O. 7 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, G.O. 25 DE ABRIL DE 2003)</small>
 
 ###### Artículo 40.
 
-Las titulares de las dependencias y entidades de la administración pública comparecerán semestralmente ante las Comisiones Permanentes a dar cuenta del estado que guardan aquéllas, previa convocatoria de la Legislatura al Ejecutivo, en términos del calendario que, a propuesta de la Junta de Coordinación Política, haya aprobado el Congreso. Bajo el mismo procedimiento, comparecerán cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades.
+Los titulares de las dependencias y entidades de la administración pública comparecerán ante las Comisiones Permanentes a dar cuenta del estado que guardan aquéllas, previa convocatoria de la Legislatura al Ejecutivo, en términos del calendario que, a propuesta de la Junta de Coordinación Política, haya aprobado el Congreso.
+
+El mismo procedimiento se aplicará cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, así como en los meses de noviembre y diciembre, cuando los titulares de las dependencias comparezcan para la glosa del informe anual del titular del Ejecutivo.
 
 ### CAPÍTULO VII. DE LA DIPUTACIÓN PERMANENTE
 
@@ -1081,7 +1083,7 @@ SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda p
 
 TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "...Estado de Veracruz de Ignacio de la Llave".
 
-CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "...Estado de Varacruz-Llave", se entenderán referidas al "...Estado de Veracruz de Ignacio de la Llave".
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "...Estado de Veracruz-Llave", se entenderán referidas al "...Estado de Veracruz de Ignacio de la Llave".
 
 QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "...del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
 
@@ -1090,3 +1092,7 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 25 DE ABRIL DE 2003.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
