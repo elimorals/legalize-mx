@@ -4,7 +4,7 @@ identifier: "FED-ley-para-el-tratamiento-de-menores-infractores-para-el-138"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-24"
-last_updated: "2000-11-30"
+last_updated: "2003-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-12-19"
 
 LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES, PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JUNIO DE 2003.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 24 de diciembre de 1991.
 
@@ -51,6 +51,10 @@ En la aplicación de esta Ley se deberá garantizar el irrestricto respeto a los
 
 El menor a quien se atribuya la comisión de una infracción, recibirá un trato justo y humano, quedando prohibidos, en consecuencia, el maltrato, la incomunicación, la coacción psicológica, o cualquier otra acción que atente contra su dignidad o su integridad física o mental.
 
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2003)</small>
+
+Los menores indígenas tienen en todo tiempo el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua y cultura.
+
 ## TITULO PRIMERO. DEL CONSEJO DE MENORES
 
 ### CAPITULO I. INTEGRACION, ORGANIZACION Y ATRIBUCIONES DEL CONSEJO DE MENORES
@@ -75,11 +79,21 @@ II.- Desahogar el procedimiento y dictar las resoluciones que contengan las medi
 
 III.- Vigilar el cumplimiento de la legalidad en el procedimiento y el respeto a los derechos de los menores sujetos a esta Ley;
 
-IV.- Las demás que determinen las leyes y los reglamentos.
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2003)</small>
+
+IV.- Cuando los Menores sean indígenas, deberán tomarse en cuenta los usos y costumbres de los pueblos o comunidades a que pertenezcan al aplicarse las disposiciones contenidas en la presente Ley, y
+
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2003)</small>
+
+V.- Las demás que determinen las leyes y reglamentos, especialmente lo dispuesto en la Ley para la Protección de los Niños y Niñas y Adolescentes.
 
 ###### ARTICULO 6o.
 
 El Consejo de Menores es competente para conocer de la conducta de las personas mayores de 11 y menores de 18 años de edad, tipificada por las leyes penales señaladas en el artículo 1o. de esta Ley. Los menores de 11 años, serán sujetos de asistencia social por parte de las instituciones de los sectores público, social y privado que se ocupen de esta materia, las cuales se constituirán, en este aspecto, como auxiliares del Consejo.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2003)</small>
+
+Cuando el menor alegue tener la calidad de indígena, la misma se acreditará con su sola manifestación. Cuando exista duda de ella o fuere cuestionada, se solicitará a las autoridades comunitarias la expedición de la constancia que acredite la pertenencia del individuo a un determinado pueblo comunidad (sic).
 
 La competencia del Consejo se surtirá atendiendo a la edad que hayan tenido los sujetos infractores, en la fecha de comisión de la infracción que se les atribuya; pudiendo, en consecuencia, conocer de las infracciones y ordenar las medidas de orientación, protección y tratamiento que correspondan, aun cuando aquéllos hayan alcanzado la mayoría de edad.
 
@@ -321,9 +335,11 @@ IX.- Conciliar a las partes sobre el pago de la reparación del daño; y
 
 X.- Las demás que determinen esta Ley, los reglamentos, la Sala Superior y el Presidente del Consejo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 21.
 
-El Comité Técnico Interdisciplinario se integrará con los siguientes miembros;
+El Comité Técnico contará con el personal técnico y administrativo que requiera y se integrará con los siguientes miembros:
 
 I.- Un médico;
 
@@ -331,9 +347,17 @@ II.- Un pedagogo;
 
 III.- Un licenciado en Trabajo Social;
 
-IV.- Un psicólogo; y
+> <small>(REFORMADA, D.O.F 25 DE JUNIO DE 2003)</small>
 
-V.- Un criminólogo, preferentemente licenciado en Derecho. Asimismo, contará con el personal técnico y administrativo que se requiera.
+IV.- Un psicólogo;
+
+> <small>(REFORMADA, D.O.F 25 DE JUNIO DE 2003)</small>
+
+V.- Un criminólogo, preferentemente licenciado en derecho, y
+
+> <small>(ADICIONADA, D.O.F 25 DE JUNIO DE 2003)</small>
+
+VI.- En los casos en que el menor sea indígena, un intérprete con conocimiento de su lengua y cultura.
 
 ###### ARTICULO 22.
 
@@ -473,9 +497,17 @@ La Unidad de Defensa de Menores estará a cargo de un titular y contará con el 
 
 I.- La defensa general tiene por objeto defender y asistir a los menores, en los casos de violación de sus derechos en el ámbito de la prevención general;
 
-II.- La defensa procesal tiene por objeto la asistencia y defensa de los menores, en cada una de las etapas procesales; y
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2003)</small>
 
-III.- La defensa de los derechos de los menores en las fases de tratamiento y de seguimiento, tiene por objeto la asistencia y defensa jurídica de los menores durante las etapas de aplicación de las medidas de orientación, de protección, de tratamiento interno y externo, y en la fase de seguimiento.
+II.- La defensa procesal tiene por objeto la asistencia y defensa de los menores, en cada una de las etapas procesales;
+
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2003)</small>
+
+III.- La defensa de los derechos de los menores en las fases de tratamiento y de seguimiento, tiene por objeto la asistencia y defensa jurídica de los menores durante las etapas de aplicación de las medidas de orientación, de protección, de tratamiento interno y externo, y en la fase de seguimiento, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2003)</small>
+
+IV.- En los casos en que los menores tengan la calidad de indígenas, los mismos deberán ser asistidos por defensores que conozcan la lengua y cultura de aquéllos.
 
 ## TITULO SEGUNDO. DE LA UNIDAD ENCARGADA DE LA PREVENCION Y TRATAMIENTO DE MENORES
 
@@ -548,6 +580,10 @@ II.- Se dará aviso inmediato respecto de su situación a sus representantes leg
 III.- Tendrá derecho a designar a sus expensas, por sí o por sus representantes legales o encargados, a un licenciado en derecho de su confianza, en el legal ejercicio de su profesión, para que lo asista jurídicamente durante el procedimiento, así como en la aplicación de las medidas de orientación, de protección o de tratamiento en externación y en internación;
 
 IV.- En caso de que no se designe un licenciado en derecho de su confianza en el legal ejercicio de su profesión, de oficio se le asignará un defensor de menores, para que lo asista jurídica y gratuitamente desde que quede a disposición del Comisionado y en las diversas etapas del procedimiento ante los órganos del Consejo, así como en la aplicación de las medidas de orientación, de protección o de tratamiento en externación y en internación;
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2003)</small>
+
+Para los efectos de lo dispuesto en el párrafo anterior, la asignación de un defensor para los menores indígenas recaerá en personas que tengan conocimiento de su lengua y cultura.
 
 V.- Una vez que quede a disposición del Consejo y dentro de las veinticuatro horas siguientes se le hará saber en forma clara y sencilla, en presencia de su defensor, el nombre de la persona o personas que hayan declarado en su contra y la naturaleza y causa de la infracción que se le atribuya, así como su derecho a no declarar; rindiendo en este acto, en su caso, su declaración inicial;
 
@@ -755,9 +791,17 @@ a).- La naturaleza y gravedad de los hechos que se atribuyan al menor, así como
 
 b).- Nombre, edad, grado de escolaridad, estado civil, religión, costumbre, nivel socioeconómico y cultural y la conducta precedente del menor;
 
-c).- Los motivos que impulsaron su conducta y las condiciones especiales en que se encontraba en el momento de la realización de los hechos; y
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2003)</small>
 
-d).- Los vínculos de parentesco, de amistad o nacidos de otras relaciones sociales con las personas presuntamente ofendidas, así como las características personales de las mismas.
+c).- Los motivos que impulsaron su conducta y las condiciones especiales en que se encontraba en el momento de la realización de los hechos;
+
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2003)</small>
+
+d).- Los vínculos de parentesco, de amistad o nacidos de otras relaciones sociales con las personas presuntamente ofendidas, así como las características personales de las mismas, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2003)</small>
+
+e).- Si el menor fuere indígena, el dictamen deberá considerar también si influyeron en su conducta los usos y costumbres del pueblo o comunidad al que pertenezca.
 
 > <small>(F. DE E., D.O.F. 21 DE FEBRERO DE 1992)</small>
 
@@ -770,6 +814,10 @@ V.- El nombre y la firma de los integrantes del Comité Técnico Interdisciplina
 La evaluación respecto de las medidas de orientación, de protección y de tratamiento se efectuará de oficio por los consejeros unitarios con base en el dictamen que al efecto emita el Comité Técnico Interdisciplinario.
 
 Al efecto, se tomará en cuenta el desarrollo de la aplicación de las medidas, con base en los informes que deberá rendir previamente la unidad administrativa encargada de la prevención y tratamiento de menores. El Consejero Unitario, con base en el dictamen técnico y en consideración al desarrollo de las medidas aplicadas, podrá liberar al menor de la medida impuesta, modificarla o mantenerla sin cambio según las circunstancias que se desprendan de la evaluación.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2003)</small>
+
+En el caso de que los menores infractores sean integrantes de algún pueblo o comunidad indígenas, se deberá tomar en cuenta esta condición, así como su situación sociocultural y económica, tanto en la elaboración del dictamen técnico, como en la consideración final que hace el Consejero Unitario a que se refieren los párrafos anteriores.
 
 ###### ARTICULO 62.
 
@@ -1280,3 +1328,7 @@ La facultad prevista en la fracción XXV, del artículo 27 de la Ley Orgánica d
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 25 DE JUNIO DE 2003.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
