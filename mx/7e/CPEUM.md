@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1987-03-17"
+last_updated: "1987-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MARZO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE AGOSTO DE 1987.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -336,9 +336,9 @@ La propiedad de las tierras y aguas comprendidas dentro de los límites del terr
 
 Las expropiaciones sólo podrán hacerse por causa de utilidad pública y mediante indemnización.
 
-> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 1976)</small>
+> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
-La Nación tendrá en todo tiempo el derecho de imponer a la propiedad privada las modalidades que dicte el interés público, así como el de regular, en beneficio social, el aprovechamiento de los elementos naturales susceptibles de apropiación, con objeto de hacer una distribución equitativa de la riqueza pública, cuidar de su conservación, lograr el desarrollo equilibrado del país y el mejoramiento de las condiciones de vida de la población rural y urbana. En consecuencia, se dictarán las medidas necesarias para ordenar los asentamientos humanos y establecer adecuadas provisiones, usos, reservas y destinos de tierras, aguas y bosques, a efecto de ejecutar obras públicas y de planear y regular la fundación, conservación, mejoramiento y crecimiento de los centros de población; para el fraccionamiento de los latifundios; para disponer, en los términos de la Ley Reglamentaria, la organización y explotación colectiva de los ejidos y comunidades; para el desarrollo de la pequeña propiedad agrícola en explotación; para la creación de nuevos centros de población agrícola con tierras y aguas que les sean indispensables; para el fomento de la agricultura y para evitar la destrucción de los elementos naturales y los daños que la propiedad pueda sufrir en perjuicio de la sociedad. Los núcleos de población que carezcan de tierras y aguas o no las tengan en cantidad suficiente para las necesidades de su población, tendrán derecho a que se les dote de ellas, tomándolas de las propiedades inmediatas, respetando siempre la pequeña propiedad agrícola en explotación.
+La Nación tendrá en todo tiempo el derecho de imponer a la propiedad privada las modalidades que dicte el interés público, así como el de regular, en beneficio social, el aprovechamiento de los elementos naturales susceptibles de apropiación, con objeto de hacer una distribución equitativa de la riqueza pública, cuidar de su conservación, lograr el desarrollo equilibrado del país y el mejoramiento de las condiciones de vida de la población rural y urbana. En consecuencia, se dictarán las medidas necesarias para ordenar los asentamientos humanos y establecer adecuadas provisiones, usos, reservas y destinos de tierras, aguas y bosques, a efecto de ejecutar obras públicas y de planear y regular la fundación, conservación, mejoramiento y crecimiento de los centros de población; para preservar y restaurar el equilibrio ecológico; para el fraccionamiento de los latifundios; para disponer en los términos de la Ley Reglamentaria, la organización y explotación colectiva de los ejidos y comunidades; para el desarrollo de la pequeña propiedad agrícola en explotación; para la creación de nuevos centros de población agrícola con tierras y aguas que les sean indispensables; para el fomento de la agricultura y para evitar la destrucción de los elementos naturales y los daños que la propiedad pueda sufrir en perjuicio de la sociedad. Los núcleos de población que carezcan de tierras y aguas o no las tengan en cantidad suficiente para las necesidades de su población, tendrán derecho a que se les dote de ellas, tomándolas de las propiedades inmediatas, respetando siempre la pequeña propiedad agrícola en explotación.
 
 > <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1960)</small>
 
@@ -1080,47 +1080,81 @@ IV.- Para arreglar definitivamente los límites de los Estados, terminando las d
 
 V.- Para cambiar la residencia de los Supremos Poderes de la Federación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
-VI.- Para legislar en todo lo relativo al Distrito Federal, sometiéndose a las bases siguientes:
+VI. Para legislar en todo lo relativo al Distrito Federal, sometiéndose a las bases siguientes:
 
-> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1928)</small>
+1a. El gobierno del Distrito Federal estará a cargo del Presidente de la República, quien lo ejercerá por conducto del órgano u órganos que determine la ley respectiva.
 
-1a.- El Gobierno del Distrito Federal estará a cargo del Presidente de la República, quien lo ejercerá por conducto del órgano u órganos que determine la Ley respectiva.
+2a. La ley orgánica correspondiente establecerá los medios para la descentralización y desconcentración de la administración para mejorar la calidad de vida de los habitantes del Distrito Federal, incrementando el nivel de bienestar social, ordenando la convivencia comunitaria y el espacio urbano y propiciando el desarrollo económico, social y cultural de la entidad.
 
-> <small>(ADICIONADA, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+3a. Como un órgano de representación ciudadana en el Distrito Federal, se crea una Asamblea integrada por 40 Representantes electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, y por 26 Representantes electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal. La demarcación de los distritos se establecerá como determine la ley.
 
-2a.- Los ordenamientos legales y los reglamentos que en la Ley de la materia se determinen, serán sometidos al referéndum y podrán ser objeto de iniciativa popular, conforme al procedimiento que la misma señale.
+Los Representantes a la Asamblea del Distrito Federal serán electos cada tres años y por cada propietario se elegirá un suplente; las vacantes de los Representantes serán cubiertas en los términos de la fracción IV del artículo 77 de esta Constitución.
 
-3a.- (REFORMADA [N. DE E. DEROGADA], D.O.F. 8 DE OCTUBRE DE 1974)
+La asignación de los Representantes electos según el principio de representación proporcional, se sujetará a las normas que esta Constitución y la ley correspondiente contengan.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+Para la organización, desarrollo, vigilancia y contencioso electoral de las elecciones de los representantes a la Asamblea del Distrito Federal, se estará a lo dispuesto por el artículo 60 de esta Constitución.
 
-4ª.- Los nombramientos de los magistrados del Tribunal Superior de Justicia del Distrito Federal serán hechos por el Presidente de la República, y sometidos a la aprobación de la Cámara de Diputados, la que otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si la Cámara no resolviera dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación de la Cámara no podrán tomar posesión los magistrados nombrados por el Presidente de la República. En el caso de que la Cámara de Diputados no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Presidente de la República hará un tercer nombramiento, que surtirá sus efectos desde luego como provisional y que será sometido a la aprobación de la Cámara en el siguiente periodo ordinario de sesiones. En este periodo de sesiones, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Cámara desecha el nombramiento, cesará desde luego en sus funciones el Magistrado provisional, y el Presidente de la República someterá nuevo nombramiento a la aprobación de la Cámara, en los términos señalados.
+Los Representantes a la Asamblea del Distrito Federal deberán reunir los mismos requisitos que el artículo 55 establece para los Diputados Federales y les será aplicable lo dispuesto por los artículos 59, 61, 62 y 64 de esta Constitución.
 
-(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951) (F. DE E., D.O.F. 14 DE MARZO DE 1951)
+La Asamblea de Representantes del Distrito Federal calificará la elección de sus miembros, a través de un Colegio Electoral que se integrará por todos los presuntos Representantes, en los términos que señale la Ley, sus resoluciones serán definitivas e inatacables.
 
-En los casos de faltas temporales por más de tres meses de los Magistrados, serán éstos sustituídos mediante nombramiento que el Presidente de la República someterá a la aprobación de la Cámara de Diputados, y en sus recesos, a la de la Comisión Permanente, observándose en su caso, lo dispuesto en las cláusulas anteriores.
+Son facultades de la Asamblea de Representantes del Distrito Federal las siguientes:
 
-> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
+A) Dictar bandos, ordenanzas y reglamentos de policía y buen gobierno que, sin contravenir lo dispuesto por las leyes y decretos expedidos por el Congreso de la Unión para el Distrito Federal, tengan por objeto atender las necesidades que se manifiesten entre los habitantes del propio Distrito Federal, en materia de: educación, salud y asistencia social; abasto y distribución de alimentos, mercados y rastros; establecimientos mercantiles; comercio en la vía pública; recreación, espectáculos públicos y deporte; seguridad pública; protección civil; servicios auxiliares a la administración de justicia; prevención y readaptación social; uso del suelo; regularización de la tenencia de la tierra, establecimiento de reservas territoriales y vivienda; preservación del medio ambiente y protección ecológica; explotación de minas de arena y materiales pétreos; construcciones y edificaciones; agua y drenaje; recolección, disposición y tratamiento de basura; tratamiento de aguas; racionalización y seguridad en el uso de energéticos; vialidad y tránsito; transporte urbano y estacionamientos; alumbrado público; parques y jardines; agencias funerarias, cementerios y servicios conexos; fomento económico y protección al empleo; desarrollo agropecuario; turismo y servicios de alojamiento; trabajo no asalariado y previsión social; y acción cultural;
 
-En los casos de faltas temporales que no excedan de tres meses, la Ley Orgánica determinará la manera de hacer la substitución. Si faltare un Magistrado por defunción, renuncia o incapacidad, el Presidente de la República someterá un nuevo nombramiento a la aprobación de la Cámara de Diputados. Si la Cámara no estuviere en sesiones, la Comisión Permanente dará su aprobación provisional, mientras se reúne aquélla y da la aprobación definitiva.
+B) Proponer al Presidente de la República la atención de problemas prioritarios, a efecto de que tomando en cuenta la previsión de ingresos y el gasto público, los considere en el proyecto de presupuesto de egresos del Distrito Federal, que envíe a la Cámara de Diputados del Congreso de la Unión;
 
-> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+C) Recibir los informes trimestrales que deberá presentar la autoridad administrativa del Distrito Federal, sobre la ejecución y cumplimiento de los presupuestos y programas aprobados, y elaborar un informe anual para analizar la congruencia entre el gasto autorizado y el realizado, por partidas y programas, que votado por el Pleno de la Asamblea remitirá a la Cámara de Diputados del Congreso de la Unión, para ser considerado durante la revisión de la Cuenta Pública del Distrito Federal;
 
-Los Jueces de primera instancia, menores y correccionales y los que con cualquiera otra denominación se creen en el Distrito Federal, serán nombrados por el Tribunal Superior de Justicia del Distrito Federal, deberán tener los requisitos que la Ley señale y serán sustituidos, en sus faltas temporales, en los términos que la misma ley determine.
+D) Citar a los servidores públicos que se determinen en la ley correspondiente, para que informen a la Asamblea sobre el desarrollo de los servicios y la ejecución de las obras encomendadas al gobierno del Distrito Federal;
 
-> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
+E) Convocar a consulta pública sobre cualquiera de los temas mencionados en la presente base, y determinar el contenio (sic) de la convocatoria respectiva;
 
-La remuneración que los Magistrados y jueces perciban por sus servicios no podrá ser disminuída durante su encargo.
+F) Formular las peticioness (sic) que acuerde el Pleno de la Asamblea, a las autoridades administrativas competentes, para la solución de los problemas que planteen sus miembros, como resultado de su acción de gestoría ciudadana;
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+G) Analizar los informes semestrales que deberán presentar los representantes que la integren, para que el Pleno de la Asamblea tome las medidas que correspondan dentro del ámbito de sus facultades de consulta, promoción, gestoría y supervisión;
 
-Los Magistrados y los Jueces a que se refiere esta base durarán en sus cargos 6 años, pudiendo ser reelectos; en todo caso, podrán ser destituidos en los términos del Título Cuarto de esta Constitución.
+H) Aprobar los nombramientos de magistrados del Tribunal Superior de Justicia, que haga el Presidente de la República, en los términos de la base 5a. de la presente fracción;
 
-> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+I) Expedir, sin intervención de ningún otro órgano, el Reglamento para su Gobierno Interior; y
 
-5ª.- El Ministerio Público en el Distrito Federal estará a cargo de un Procurador General, que residirá en la ciudad de México, y del número de agentes que determine la ley, dependiendo dicho funcionario directamente del Presidente de la República, quien lo nombrará y removerá libremente.
+J) Iniciar ante el Congreso de la Unión, leyes o decretos en materias relativas al Distrito Federal.
+
+Las iniciativas que la Asamblea de Representantes presente ante alguna de las Cámaras del Congreso de la Unión, pasarán desde luego a comisión para su estudio y dictamen.
+
+Los bandos, ordenanzas y reglamentos que expida la Asamblea del Distrito Federal en ejercicio de la facultad a que se refiere el inciso A) de la presente base, se remitirán al órgano que señale la Ley para su publicación inmediata.
+
+La Asamblea de Representantes se reunirá a partir del 15 de noviembre de cada año, para celebrar un primer período de sesiones ordinarias, que podrá prolongase hasta el 15 de enero del año siguiente, y a partir del 16 de abril de cada año, para celebrar un segundo período de sesiones ordinarias, que podrá prolongarse hasta el 15 de julio del mismo año. Durante sus recesos, la Asamblea celebrará sesiones extraordinarias para atender los asuntos urgentes para los cuales sea convocada, a petición de la mayoría de sus integrantes o del Presidente de la República.
+
+A la apertura del segundo período de sesiones ordinarias de la Asamblea, asistirá la autoridad designada por el Presidente de la República, quien presentará un informe por escrito, en el que manifieste el estado que guarde la administración del Distrito Federal.
+
+Los Representantes a la Asamblea son inviolables por las opiniones que manifiesten en el desempeño de sus cargos y el Presidente de la Asamblea deberá velar por el respeto al fuero constitucional de sus miembros y por la inviolabilidad del recinto donde se reúnan a sesionar. En materia de responsabilidades, se aplicará lo dispuesto por el Título Cuarto de esta Constitución y su ley reglamentaria.
+
+4a. La facultad de iniciativa para el ejercicio de las facultades de la Asamblea a que se refiere el inciso A) de la base 3a., corresponde a los miembros de la propia Asamblea y a los representantes de los vecinos organizados en los términos que señale la ley correspondiente.
+
+Para la mayor participación ciudadana en el gobierno del Distrito Federal, además, se establece el derecho de iniciativa popular respecto de las materias que son competencia de la Asamblea, la cual tendrá la obligación de turnar a Comisiones y dictaminar, dentro del respectivo período de sesiones o en el inmediato siguiente, toda iniciativa que le sea formalmente presentada por un mínimo de diez mil ciudadanos debidamente identificados, en los términos que señale el Reglamento para el Gobierno Interior de la Asamblea.
+
+La ley establecerá los medios y mecanismos de participación ciudadana que permitan la oportuna gestión y continua supervisión comunitaria de la acción del gobierno del Distrito Federal, dirigida a satisfacer sus derechos e intereses legítimos y a mejorar la utilización y aplicación de los recursos disponibles.
+
+5a. La función jurídica se ejercerá por el Tribunal Superior de Justicia del Distrito Federal, el cual se integrará por el número de magistrados que señale la ley orgánica correspondiente, así como por los jueces de primera instancia y demás órganos que la propia ley determine.
+
+La independencia de los magistrados y jueces en el ejercicio de sus funciones deberá estar garantizada por la ley orgánica respectiva, la cual establecerá las condiciones para el ingreso, formación y permanencia de quienes sirvan a los tribunales de justicia del Distrito Federal.
+
+Los magistrados integrantes del Tribunal Superior de Justicia deberán reunir los requisitos señalados por el artículo 95 de esta Constitución.
+
+Los nombramientos de los magistrados y jueces serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+Los nombramientos de los magistrados del Tribunal Superior de Justicia serán hechos por el Presidente de la República, en los términos previstos por la ley orgánica, misma que determinará el procedimiento para su designación y las responsabilidades en que incurren quienes tomen posesión del cargo o llegaren a ejercerlo, sin contar con la aprobación correspondiente; la propia ley orgánica determinará la manera de suplir las falta temporales de los magistrados. Estos nombramientos serán sometidos a la aprobación de la Asamblea de Representantes del Distrito Federal. Cada magistrado del Tribunal Superior de Justicia, al entrar a ejercer su encargo, rendirá protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, ante el Pleno de la Asamblea del Distrito Federal.
+
+Los magistrados durarán seis años en el ejercicio de su encargo, podrán ser reelectos, y si lo fueren, sólo podrán ser privados de sus puestos en los términos del Título Cuarto de esta Constitución.
+
+Los jueces de primera instancia serán nombrados por el Tribunal Superior de Justicia del Distrito Federal.
+
+Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo, y estarán sujetos a lo dispuesto por el artículo 101 de esta Constitución.
+
+6a. El Ministerio Público en el Distrito Federal estará a cargo de un Procurador General de Justicia, que dependerá directamente del Presidente de la República, quien lo nombrará y removerá libremente.
 
 VII.- Para imponer las contribuciones necesarias a cubrir el Presupuesto.
 
@@ -1248,6 +1282,14 @@ XXIX-E.- Para expedir leyes para la programación, promoción, concertación y e
 
 XXIX-F.- Para expedir leyes tendientes a la promoción de la inversión mexicana, la regulación de la inversión extranjera, la transferencia de tecnología y la generación, difusión y aplicación de los conocimientos científicos y tecnológicos que requiere el desarrollo nacional.
 
+> <small>(ADICIONADA, D.O.F. 10 DE AGOSTO DE 1987)</small>
+
+XXIX-G.-Para expedir leyes que establezcan la concurrencia del Gobierno Federal, de los gobiernos de los Estados y de los municipios, en el ámbito de sus respectivas competencias, en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico.
+
+> <small>(ADICIONADA, D.O.F. 10 DE AGOSTO DE 1987)</small>
+
+XXIX-H.- Para expedir leyes que instituyan tribunales de lo contencioso-administrativo dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias que se susciten entre la Administración Pública Federal o del Distrito Federal y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
 XXX.- Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
@@ -1290,9 +1332,7 @@ V.- Declarar si ha o no lugar a proceder penalmente contra los servidores públi
 
 Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el artículo 110 de esta Constitución y fungir como órgano de acusación en los juicios políticos que contra éstos se instauren.
 
-> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
-
-VI.- Otorgar o negar su aprobación a los nombramientos de Magistrados del Tribunal Superior de Justicia del Distrito Federal, que le someta el Presidente de la República.
+VI.- (DEROGADA, D.O.F. 10 DE AGOSTO DE 1987)
 
 VII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1982)
 
@@ -1360,11 +1400,11 @@ IV.- Expedir convocatoria para elecciones extraordinarias con el fin de cubrir l
 
 DE LA COMISION PERMANENTE.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
 ###### Art. 78.
 
-Durante el Receso del Congreso habrá una Comisión Permanente compuesta de 29 miembros, de los que 15 serán Diputados y 14 Senadores, nombrados por sus respectivas Cámaras la víspera de la Clausura de las Sesiones. Para cada titular las Cámaras nombrarán, de entre sus miembros en ejercicio, un substituto.
+Durante los recesos del Congreso de la Unión habrá una Comisión Permanente compuesta de 37 miembros de los que 19 serán Diputados y 18 Senadores, nombrados por sus respectivas Cámaras la víspera de la clausura de los períodos ordinarios de sesiones. Para cada titular las Cámaras nombrarán, de entre sus miembros en ejercicio, un sustituto.
 
 ###### Art. 79.
 
@@ -1384,9 +1424,9 @@ III.- Resolver los asuntos de su competencia, recibir durante el receso del Cong
 
 IV.- Acordar por sí o a propuesta del Ejecutivo, la convocatoria del Congreso o de una sola Cámara a sesiones extraordinarias, siendo necesario en ambos casos el voto de las dos terceras partes de los individuos presentes. La convocatoria señalará el objeto u objetos de las sesiones extraordinarias.
 
-> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
-V.- Otorgar o negar su aprobación a los nombramientos de ministros de la Suprema Corte y magistrados del Tribunal Superior de Justicia del Distrito Federal, así como a las solicitudes de licencia de los ministros de la Corte, que les someta el Presidente de la República.
+V.- Otorgar o negar su aprobación a los nombramientos de ministros de la Suprema Corte, así como a sus solicitudes de licencia, que le someta el Presidente de la República.
 
 > <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 1933)</small>
 
@@ -1480,15 +1520,17 @@ El Presidente, al tomar posesión de su cargo, prestará ante el Congreso de la 
 
 El Presidente de la República no podrá ausentarse del territorio nacional sin permiso del Congreso de la Unión o de la Comisión Permanente en su caso.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+
 ###### Art. 89.
 
-Las facultades y obligaciones del Presidente son las siguientes:
+Las facultades y obligaciones del Presidente, son las siguientes:
 
 I.- Promulgar y ejecutar las leyes que expida el Congreso de la Unión, proveyendo en la esfera administrativa a su exacta observancia.
 
-> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
-II.- Nombrar y remover libremente a los secretarios del Despacho, al Procurador General de la República, al Gobernador del Distrito Federal, Procurador General de Justicia del Distrito Federal, remover a los agentes diplomáticos y empleados superiores de Hacienda y nombrar y remover libremente a los demás empleados de la Unión, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las leyes.
+II.- Nombrar y remover libremente a los Secretarios del despacho, al Procurador General de la República, al titular del órgano u órganos por el que se ejerza el gobierno en el Distrito Federal, remover a los agentes diplomáticos y empleados superiores de Hacienda y nombrar y remover libremente a los demás empleados de la Unión, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las leyes.
 
 III.- Nombrar los ministros, agentes diplomáticos y cónsules generales, con aprobación del Senado.
 
@@ -1530,9 +1572,9 @@ XV.- Conceder privilegios exclusivos por tiempo limitado, con arreglo a la ley r
 
 XVI.- Cuando la Cámara de Senadores no esté en sesiones, el Presidente de la República podrá hacer los nombramientos de que hablan las fracciones III y IV, con aprobación de la Comisión Permanente.
 
-> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
-XVII.- Nombrar magistrados del Tribunal Superior de Justicia del Distrito Federal y someter los nombramientos a la aprobación de la Cámara de Diputados, o de la Comisión Permanente, en su caso.
+XVII.- Nombrar magistrados del Tribunal Superior de Justicia del Distrito Federal y someter los nombramientos a la aprobación de la Asamblea de Representantes del Distrito Federal.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE AGOSTO DE 1928)</small>
 
@@ -1578,25 +1620,27 @@ Las Cámaras, a pedido de una cuarta parte de sus miembros, tratándose de los d
 
 DEL PODER JUDICIAL.
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
 ###### Art. 94.
 
-Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en Tribunales de Circuito, Colegiados en materia de amparo y Unitarios en materia de apelación, y en Juzgados de Distrito.
+Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en tribunales colegiados y unitarios de circuito y en juzgados de distrito.
 
-La Suprema Corte de Justicia de la Nación se compondrá de veintiún ministros numerarios y cinco supernumerarios y funcionará en Pleno o en Salas. Los ministros supernumerarios formarán parte del Pleno cuando suplan a los numerarios.
+La Suprema Corte de Justicia de la Nación se compondrá de veintiún ministros numerarios y funcionará en Pleno o en Salas. Se podrán nombrar hasta cinco ministros supernumerarios.
 
-En los términos que la ley disponga, las sesiones del Pleno y de las Salas serán públicas, y por excepción secretas en los casos en que así lo exijan la moral o el interés público.
+En los términos que la ley disponga las sesiones del Pleno y de las Salas serán públicas, y por excepción secretas en los casos en que así lo exijan la moral o el interés público.
 
-La competencia de la Suprema Corte, los períodos de sesiones, el funcionamiento del Pleno y de las Salas, las atribuciones de los ministros, el número y competencia de los Tribunales de Circuito y de los jueces de Distrito y las responsabilidades en que incurran los funcionarios y empleados del Poder Judicial de la Federación, se regirán por esta Constitución y lo que dispongan las leyes.
+La competencia de la Suprema Corte, su funcionamiento en Pleno y Salas, la competencia de los tribunales de circuito y de los juzgados de distrito y las responsabilidades en que incurran los servidores públicos del Poder Judicial de la Federación, se regirán por lo que dispongan las leyes, de conformidad con las bases que esta Constitución establece.
 
-La ley fijará los términos en que sea obligatoria la jurisprudencia que establezcan los Tribunales del Poder Judicial de la Federación sobre interpretación de la Constitución, leyes y reglamentos federales o locales y tratados internacionales celebrados por el Estado Mexicano, así como los requisitos para su interrupción y modificación.
+El Pleno de la Suprema Corte determinará el número, división en circuitos y jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de circuito y de los juzgados de distrito.
 
-La remuneración que perciban por sus servicios los ministros de la Suprema Corte, los magistrados de Circuito y los jueces de Distrito no podrá ser disminuida durante su encargo.
+El propio Tribunal en Pleno estará facultado para emitir acuerdos generales a fin de lograr, mediante una adecuada distribución entre las Salas de los asuntos que competa conocer a la Suprema Corte de Justicia, la mayor prontitud en su despacho.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+La ley fijará los términos en que sea obligatoria la jurisprudencia que establezcan los tribunales del Poder Judicial de la Federación sobre interpretación de la Constitución, leyes y reglamentos federales o locales y tratados internacionales celebrados por el Estado Mexicano, así como los requisitos para su interrupción y modificación.
 
-Los Ministros de la Suprema Corte de Justicia sólo podrán ser privados de sus puestos en los términos del Título Cuarto de esta Constitución.
+La remuneración que perciban por sus servicios los ministros de la Suprema Corte, los magistrados de circuito y los jueces de distrito, no podrá ser disminuida durante su encargo.
+
+Los ministros de la Suprema Corte de Justicia sólo podrán ser privados de sus puestos en los términos del Título Cuarto de esta Constitución.
 
 ###### Art. 95.
 
@@ -1622,15 +1666,15 @@ V.- Haber residido en el país durante los últimos cinco años, salvo el caso d
 
 Los nombramientos de los Ministros de la Suprema Corte, serán hechos por el Presidente de la República y sometidos a la aprobación de la Cámara de Senadores, la que otorgará o negará esa aprobación, dentro del improrrogable término de diez días. Si la Cámara no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación del Senado, no podrán tomar posesión los Magistrados de la Suprema Corte nombrados por el Presidente de la República. En el caso de que la Cámara de Senadores no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Presidente de la República hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación de dicha Cámara, en el siguiente período ordinario de sesiones. En este periodo de sesiones, dentro de los primeros diez días, el Senado deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente, continuará en sus funciones con el carácter de definitivo. Si el Senado desecha el nombramiento, cesará desde luego en sus funciones el Ministro provisional, y el Presidente de la República someterá nuevo nombramiento a la aprobación del Senado, en los términos señalados.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
 ###### Art. 97.
 
-Los Magistrados de Circuito y los Jueces de Distrito serán nombrados por la Suprema Corte de Justicia de la Nación, tendrán los requisitos que exija la ley y durarán 4 años en el ejercicio de su encargo, al término de los cuales, si fueren reelectos o promovidos a cargos superiores, sólo podrán ser privados de sus puestos en los términos del Título Cuarto de esta Constitución.
+Los magistrados de circuito y los jueces de distrito serán nombrados por la Suprema Corte de Justicia de la Nación, deberán satisfacer los requisitos que exija la ley y durarán seis años en el ejercicio de su encargo, al término de los cuales, si fueren reelectos o promovidos a cargos superiores, sólo podrán ser privados de sus puestos en los términos del Título Cuarto de esta Constitución.
 
-> <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 1940)</small>
+> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
-La Suprema Corte de Justicia podrá cambiar de lugar a los Jueces de Distrito, pasándolos de un distrito a otro, o fijando su residencia en otra población, según lo estime conveniente para el mejor servicio público. Lo mismo podrá hacer tratándose de los Magistrados de Circuito.
+La Suprema Corte de Justicia de la Nación podrá nombrar alguno o algunos de sus miembros o algún juez de distrito o magistrado de circuito, o designar uno o varios comisionados especiales, cuando así lo juzgue conveniente o lo pidiere el Ejecutivo Federal o alguna de las Cámaras del Congreso de la Unión, o el gobernador de algún Estado, únicamente para que averigüe la conducta de algún juez o magistrado federal; o algún hecho o hechos que constituyan una grave violación de alguna garantía individual.
 
 > <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
@@ -1686,9 +1730,11 @@ Las renuncias de los Ministros de la Suprema Corte de Justicia, solamente proced
 
 Las licencias de los ministros, cuando no excedan de un mes, serán concedidas por la Suprema Corte de Justicia de la Nación; las que excedan de este tiempo, las concederá el Presidente de la República con la aprobación del Senado, o en sus recesos con la de la Comisión Permanente. Ninguna licencia podrá exceder del término de dos años.
 
+> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+
 ###### Art. 101.
 
-Los Ministros de la Suprema Corte de Justicia, los Magistrados de Circuito, los Jueces de Distrito y los respectivos Secretarios, no podrán, en ningún caso, aceptar y desempeñar empleo o encargo de la Federación, de los Estados o de particulares, salvo los cargos honoríficos en asociaciones científicas, literarias o de beneficencia. La infracción de esta disposición será castigada con la pérdida del cargo.
+Los ministros de la Suprema Corte de Justicia, los magistrados de circuito, los jueces de distrito y los respectivos secretarios, no podrán, en ningún caso, aceptar y desempeñar empleo o encargo de la Federación, de los Estados o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literiarias (sic) o de beneficencia. La infracción de esta disposición será castigada con la pérdida del cargo.
 
 > <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
@@ -1724,13 +1770,15 @@ Corresponde a los Tribunales de la Federación conocer:
 
 I.- De todas las controversias del orden civil o criminal que se susciten sobre el cumplimiento y aplicación de leyes federales o de los tratados internacionales celebrados por el Estado Mexicano. Cuando dichas controversias sólo afecten intereses particulares, podrán conocer también de ellas, a elección del actor, los jueces y tribunales del orden común de los Estados y del Distrito Federal. Las sentencias de primera instancia podrán ser apelables para (sic) ante el superior inmediato del juez que conozca del asunto en primer grado.
 
-> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
-Las leyes federales podrán instituir tribunales de lo contencioso-administrativo dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias que se susciten entre la Administración Pública Federal o del Distrito Federal, y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
-Procederá el recurso de revisión ante la Suprema Corte de Justicia contra las resoluciones definitivas de dichos tribunales administrativos, sólo en los casos que señalen las leyes federales, y siempre que esas resoluciones hayan sido dictadas como consecuencia de un recurso interpuesto dentro de la jurisdicción contencioso-administrativa.
+> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
-La revisión se sujetará a los trámites que la Ley Reglamentaria de los artículos 103 y 107 de esta Constitución fije para la revisión en amparo indirecto, y la resolución que en ella dicte la Suprema Corte de Justicia, quedará sujeta a las normas que regulan la ejecutoriedad y cumplimiento de las sentencias de amparo;
+> <small>(ADICIONADA, D.O.F. 10 DE AGOSTO DE 1987)</small>
+
+I-B.- De los recursos de revisión que se interpongan contra las resoluciones definitivas de los tribunales de lo contencioso-administrativo a que se refiere la fracción XXIX-H del artículo 73 de esta Constitución, sólo en los casos que señalen las leyes. Las revisiones, de las cuales conocerán los tribunales colegiados de circuito, se sujetarán a los trámites que la ley reglamentaria de los artículos 103 y 107 de esta Constitución fije para la revisión en amparo indirecto, y en contra de las resoluciones que en ellas dicten los tribunales colegiados de circuito no procederá juicio o recurso alguno;
 
 II.- De todas las controversias que versen sobre derecho marítimo;
 
@@ -1778,7 +1826,9 @@ En los juicios a que se refiere el párrafo anterior no procederán, en perjuici
 
 III.- Cuando se reclamen actos de tribunales judiciales, administrativos o del trabajo, el amparo sólo procederá en los casos siguientes:
 
-a).- Contra sentencias definitivas o laudos respecto de los cuales no proceda ningún recurso ordinario por el que puedan ser modificados o reformados, ya sea que la violación se cometa en ellos, o que, cometida durante el procedimiento afecte a las defensas del quejoso, trascendiendo al resultado del fallo; siempre que en materia civil haya sido impugnada la violación en el curso del procedimiento mediante el recurso ordinario establecido por la ley e invocada como agravio en la segunda instancia, si se cometió en la primera. Estos requisitos no serán exigibles en el amparo contra sentencias dictadas en controversias sobre acciones del estado civil o que afecten al orden y a la estabilidad de la familia.
+> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+
+a).- Contra sentencias definitivas o laudos y resoluciones que pongan fin al juicio, respecto de las cuales no proceda ningún recurso ordinario por el que puedan ser modificados o reformados, ya sea que la violación se cometa en ellos o que, cometida durante el procedimiento, afecte a las defensas del quejoso, trascendiendo al resultado del fallo; siempre que en materia civil haya sido impugnada la violación en el curso del procedimiento mediante el recurso ordinario establecido por la ley e invocada como agravio en la segunda instancia, si se cometió en la primera. Estos requisitos no serán exigibles en el amparo contra sentencias dictadas en controversias sobre acciones del estado civil o que afecten al orden y a la estabilidad de la familia;
 
 b).- Contra actos en juicio cuya ejecución sea de imposible reparación, fuera de juicio o después de concluido, una vez agotados los recursos que en su caso procedan, y
 
@@ -1788,55 +1838,57 @@ c).- Contra actos que afecten a personas extrañas al juicio.
 
 IV.- En materia administrativa el amparo procede, además, contra resoluciones que causen agravio no reparable mediante algún recurso, juicio o medio de defensa legal. No será necesario agotar éstos cuando la ley que los establezca exija, para otorgar la suspensión del acto reclamado, mayores requisitos que los que la Ley Reglamentaria del Juicio de Amparo requiera como condición para decretar esa suspensión.
 
-> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
-V.- El amparo contra sentencias definitivas o laudos, sea que la violación se cometa durante el procedimiento o en la sentencia misma, se promoverá directamente ante la Suprema Corte de Justicia o ante el Tribunal Colegiado de Circuito que corresponda, conforme a la distribución de competencias que establezcan la Ley Orgánica del Poder Judicial de la Federación o la Ley Reglamentaria de los artículos 103 y 107 de esta Constitución, en los casos siguientes:
+V.- El amparo contra sentencias definitivas o laudos y resoluciones que pongan fin al juicio, sea que la violación se cometa durante el procedimiento o en la sentencia misma, se promoverá ante el tribunal colegiado de circuito que corresponda, conforme a la distribución de competencias que establezca la Ley Orgánica del Poder Judicial de la Federación, en los casos siguientes:
+
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 1979)</small>
 
 a).- En materia penal, contra resoluciones definitivas dictadas por tribunales judiciales, sean éstos federales, del orden común o militares.
 
-b).- En materia administrativa, cuando se reclamen por particulares sentencias definitivas dictadas por tribunales federales, administrativos o judiciales, no reparables por algún recurso, juicio o medio ordinario de defensa legal.
+> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+
+b).- En materia administrativa, cuando se reclamen por particulares sentencias definitivas y resoluciones que ponen fin al juicio dictadas por tribunales administrativos o judiciales, no reparables por algún recurso, juicio o medio ordinario de defensa legal.
+
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 1979)</small>
 
 c).- En materia civil, cuando se reclamen sentencias definitivas dictadas en juicios del orden federal o en juicios mercantiles, sea federal o local la autoridad que dicte el fallo, o en juicios del orden común.
 
 En los juicios civiles del orden federal las sentencias podrán ser reclamadas en amparo por cualquiera de las partes, incluso por la Federación, en defensa de sus intereses patrimoniales, y
 
+> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 1979)</small>
+
 d).- En materia laboral, cuando se reclamen laudos dictados por las Juntas Locales o la Federal de Conciliación y Arbitraje, o por el Tribunal Federal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado.
 
-> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 1979)</small>
+> <small>(ADICIONADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
-VI.- En los casos a que se refiere la fracción anterior, la Ley Reglamentaria de los artículos 103 y 107 de esta Constitución señalará el trámite y los términos a que deberán someterse tanto la Suprema Corte de Justicia como los Tribunales Colegiados de Circuito para dictar sus respectivas resoluciones;
+La Suprema Corte de Justicia de oficio o a petición fundada del correspondiente Tribunal Colegiado de Circuito, o del Procurador General de la República, podrá conocer de los amparos directos que por sus características especiales así lo ameriten.
+
+> <small>(REFORMADA, D.O.F. 10 DE AGOSTO DE 1987)</small>
+
+VI.- En los casos a que se refiere la fracción anterior, la ley reglamentaria de los artículos 103 y 107 de esta Constitución señalará el trámite y los términos a que deberán someterse los tribunales colegiados de circuito y, en su caso, la Suprema Corte de Justicia, para dictar sus respectivas resoluciones.
 
 > <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
 VII.- El amparo contra actos en juicio, fuera de juicio o después de concluido, o que afecten a personas extrañas al juicio, contra leyes o contra actos de autoridad administrativa, se interpondrá ante el juez de Distrito bajo cuya jurisdicción se encuentre el lugar en que el acto reclamado se ejecute o trate de ejecutarse, y su tramitación se limitará al informe de la autoridad, a una audiencia para la que se citará en el mismo auto en el que se mande pedir el informe y se recibirán las pruebas que las partes interesadas ofrezcan y oirán los alegatos, pronunciándose en la misma audiencia la sentencia.
 
-> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+> <small>(REFORMADA, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
-VIII.- Contra las sentencias que pronuncien en amparo los jueces de Distrito, procede revisión. De ella conocerá la Suprema Corte de Justicia:
+VIII.- Contra las sentencias que pronuncien en amparo los jueces de distrito, procede revisión. De ella conocerá la Suprema Corte de Justicia:
 
-a).- Cuando se impugne una ley por estimarla inconstitucional.
+a) Cuando habiéndose impugnado en la demanda de amparo, por estimarlos directamente violatorios de esta Constitución, leyes federales o locales, tratados internacionales, reglamentos expedidos por el Presidente de la República de acuerdo con la fracción I del artículo 89 de esta Constitución y reglamentos de leyes locales expedidos por los gobernadores de los Estados, subsista en el recurso el problema de constitucionalidad;
 
-b).- Cuando se trate de los casos comprendidos en las fracciones II y III del artículo 103 de esta Constitución.
+b) Cuando se trate de los casos comprendidos en las fracciones II y III del artículo 103 de esta Constitución.
 
-c).- Cuando se reclamen del Presidente de la República, por estimarlos inconstitucionales, reglamentos en materia federal expedidos de acuerdo con el artículo 89, fracción I, de esta Constitución.
+La Suprema Corte de Justicia de oficio o a petición fundada del correspondiente Tribunal Colegiado de Circuito, o del Procurador General de la República, podrá conocer de los amparos en revisión que por sus características especiales así lo ameriten.
 
-d).- Cuando en materia agraria, se reclamen actos de cualquiera autoridad que afecten a núcleos ejidales o comunales en sus derechos colectivos o a la pequeña propiedad.
-
-e).- Cuando la autoridad responsable, en amparo administrativo sea federal, con las limitaciones que en materia de competencia establezca la ley, y
-
-f).- Cuando en materia penal, se reclame solamente la violación del artículo 22 de esta Constitución.
-
-> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
-
-En los casos no previstos en los incisos anteriores, así como en los amparos promovidos contra actos de las autoridades administrativas, constituidas conforme a la fracción VI, base primera del artículo 73 de esta Constitución, conocerán de la revisión los Tribunales Colegiados de Circuito y sus sentencias no admitirán recurso alguno.
+En los casos no previstos en los párrafos anteriores, conocerán de la revisión los tribunales colegiados de circuito y sus sentencias no admitirán recurso alguno.
 
 > <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
 IX.- Las resoluciones que en materia de amparo directo pronuncien los Tribunales Colegiados de Circuito no admiten recurso alguno, a menos que decidan sobre la inconstitucionalidad de una ley o establezcan la interpretación directa de un precepto de la Constitución, caso en que serán recurribles ante la Suprema Corte de Justicia, limitándose la materia del recurso exclusivamente a la decisión de las cuestiones propiamente constitucionales.
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
-
-La resolución del Tribunal Colegiado de Circuito no será recurrible cuando se funde en la jurisprudencia que haya establecido la Suprema Corte de Justicia sobre la constitucionalidad de una ley o la interpretación directa de un precepto de la Constitución.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
 > <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
@@ -1844,9 +1896,9 @@ X.- Los actos reclamados podrán ser objeto de suspensión en los casos y median
 
 Dicha suspensión deberá otorgarse respecto de las sentencias definitivas en materia penal al comunicarse la interposición del amparo, y en materia civil, mediante fianza que dé el quejoso para responder de los daños y perjuicios que tal suspensión ocasionare, la cual quedará sin efecto si la otra parte da contrafianza para asegurar la reposición de las cosas al estado que guardaban si se concediese el amparo, y a pagar los daños y perjuicios consiguientes.
 
-> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 1987)</small>
 
-XI.- La suspensión se pedirá ante la autoridad responsable cuando se trate de amparos directos ante la Suprema Corte de Justicia o los Tribunales Colegiados de Circuito, en cuyo caso el agraviado le comunicará a la propia autoridad responsable, dentro del término que fije la ley y bajo protesta de decir verdad, la interposición del amparo, acompañando dos copias de la demanda, una para el expediente y otra que se entregará a la parte contraria. En los demás casos, conocerán y resolverán sobre la suspensión los Juzgados de Distrito.
+XI.- La suspensión se pedirá ante la autoridad responsable cuando se trate de amparos directos promovidos ante los tribunales colegiados de circuito, y la propia autoridad responsable decidirá al respecto; en todo caso, el agraviado deberá presentar la demanda de amparo ante la propia autoridad responsable, acompañando copias de la demanda para las demás partes en el juicio, incluyendo al Ministerio Público y una para el expediente. En los demás casos, conocerán y resolverán sobre la suspensión los juzgados de distrito.
 
 > <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
@@ -1932,43 +1984,71 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la Cámara de Diputados del Congreso de la Unión respecto de las conductas a las que se refiere el presente artículo.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
 ###### Art. 110.
 
-Podrán ser sujetos de juicio político los Senadores y Diputados al Congreso de la Unión, los Ministros de la Suprema Corte de Justicia de la Nación, los Secretarios de Despacho, los Jefes de Departamento Administrativo, el Jefe del Departamento del Distrito Federal, el Procurador General de la República, el Procurador General de Justicia del Distrito Federal, los Magistrados de Circuito y Jueces de Distrito, los Magistrados y Jueces del Fuero Común del Distrito Federal, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
-
-Los Gobernadores de los Estados, Diputados locales y Magistrados de los Tribunales Superiores de Justicia Locales, sólo podrán ser sujetos de juicio político en los términos de este Título por violaciones graves a esta Constitución y a las leyes federales que de ella emanen, así como por el manejo indebido de fondos y recursos federales, pero en este caso la resolución será únicamente declarativa y se comunicará a las Legislaturas locales para que en ejercicio de sus atribuciones procedan como corresponda.
-
-Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
-
-Para la aplicación de las sanciones a que se refiere este precepto, la Cámara de Diputados procederá a la acusación respectiva ante la Cámara de Senadores, previa declaración de la mayoría absoluta del número de los miembros presentes en sesión de aquella Cámara, después de haber sustanciado el procedimiento respectivo y con audiencia del inculpado.
-
-Conociendo de la acusación la Cámara de Senadores, erigida en Jurado de sentencia, aplicará la sanción correspondiente mediante resolución de las dos terceras partes de los miembros presentes en sesión, una vez practicadas las diligencias correspondientes y con audiencia del acusado.
-
-Las declaraciones y resoluciones de las Cámaras de Diputados y Senadores son inatacables.
+Podrán ser sujetos de juicio político los Senadores y Diputados al Congreso de la Unión, los Ministros de la Suprema Corte de Justicia de la Nación, los Secretarios de Despacho, los Jefes de Departamento Administrativo; los Representantes a la Asamblea del Distrito Federal, el titular del órgano u órganos de gobierno del Distrito Federal, el Procurador General de la República, el Procurador General de Justicia del Distrito Federal, los Magistrados de Circuito y Jueces de Distrito, los Magistrados y Jueces del Fuero Común del Distrito Federal, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
+Los Gobernadores de los Estados, Diputados locales y Magistrados de los Tribunales Superiores de Justicia Locales, sólo podrán ser sujetos de juicio político en los términos de este Título por violaciones graves a esta Constitución y a las leyes federales que de ella emanen, así como por el manejo indebido de fondos y recursos federales, pero en este caso la resolución será únicamente declarativa y se comunicará a las Legislaturas locales para que en ejercicio de sus atribuciones procedan como corresponda.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+
+Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+
+Para la aplicación de las sanciones a que se refiere este precepto, la Cámara de Diputados procederá a la acusación respectiva ante la Cámara de Senadores, previa declaración de la mayoría absoluta del número de los miembros presentes en sesión de aquella Cámara, después de haber sustanciado el procedimiento respectivo y con audiencia del inculpado.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+
+Conociendo de la acusación la Cámara de Senadores, erigida en Jurado de sentencia, aplicará la sanción correspondiente mediante resolución de las dos terceras partes de los miembros presentes en sesión, una vez practicadas las diligencias correspondientes y con audiencia del acusado.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+
+Las declaraciones y resoluciones de las Cámaras de Diputados y Senadores son inatacables.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+
 ###### Art. 111.
 
-Para proceder penalmente contra los Diputados y Senadores al Congreso de la Unión, los Ministros de la Suprema Corte de Justicia de la Nación, los Secretarios de Despacho, los Jefes de Departamento Administrativo, el Jefe del Departamento del Distrito Federal, el Procurador General de la República y el Procurador General de Justicia del Distrito Federal, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra los Diputados y Senadores al Congreso de la Unión, los Ministros de la Suprema Corte de Justicia de la Nación, los Secretarios de Despacho, los Jefes de Departamento Administrativo, los Representantes a la Asamblea del Distrito Federal, el titular del órgano de gobierno del Distrito Federal, el Procurador General de la República y el Procurador General de Justicia del Distrito Federal, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
 Si la resolución de la Cámara fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+
 Si la Cámara declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la ley.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
 Por lo que toca al Presidente de la República, sólo habrá lugar a acusarlo ante la Cámara de Senadores en los términos del artículo 110. En este supuesto, la Cámara de Senadores resolverá con base en la legislación penal aplicable.
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+
 Para poder proceder penalmente por delitos federales contra los Gobernadores de los Estados, Diputados locales y Magistrados de los Tribunales Superiores de Justicia de los Estados, se seguirá el mismo procedimiento establecido en este artículo, pero en este supuesto, la declaración de procedencia será para el efecto de que se comunique a las Legislaturas locales, para que en ejercicio de sus atribuciones procedan como corresponda.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
 Las declaraciones y resoluciones de la (sic) Cámaras de Diputados (sic) Senadores son inatacables.
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+
 El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
 En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá declaración de procedencia.
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+
 Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal, y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
 Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
 
@@ -2514,11 +2594,11 @@ Ningún individuo podrá desempeñar a la vez dos cargos federales de elección 
 
 No podrá hacerse pago alguno que no esté comprendido en el Presupuesto o determinado por la ley posterior.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
 ###### Art. 127.
 
-El Presidente de la República, los Ministros de la Suprema Corte de Justicia de la Nación, los Diputados y Senadores al Congreso de la Unión y los demás servidores públicos recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual y equitativamente en el Presupuesto de Egresos de la Federación o en los presupuestos de las entidades paraestatales, según corresponda.
+El Presidente de la República, los Ministros de la Suprema Corte de Justicia de la Nación, los Diputados y Senadores al Congreso de la Unión, los Representantes a la Asamblea del Distrito Federal y los demás servidores públicos recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual y equitativamente en los Presupuestos de Egresos de la Federación y del Distrito Federal o en los presupuestos de las entidades paraestatales, según corresponda.
 
 ###### Art. 128.
 
@@ -2701,6 +2781,12 @@ Los Diputados que se elijan a la LIV Legislatura del Congreso de la Unión, dura
 ###### Art. 18.
 
 Los senadores que se elijan a las LIV y LV Legislaturas del Congreso de la Unión durarán en funciones del 1o. de septiembre de 1988 al 31 de octubre de 1994, y los que se elijan para la LIV Legislatura, que serán los nombrados en segundo lugar, durarán en funciones del 1o. de septiembre de 1988 al 31 de octubre de 1991.
+
+> <small>(ADICIONADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+
+###### Art. 19.
+
+La Comisión Permanente se integrará con 37 miembros en los términos del Artículo 78 de esta Constitución a partir del primer receso de la LIV Legislatura al H. Congreso de la Unión.
 
 > <small>(F. DE E., D.O.F. 6 DE FEBRERO DE 1917)</small>
 
@@ -3617,3 +3703,43 @@ DECRETO QUE REFORMA EL PARRAFO SEXTO DE LA FRACCION IV DEL ARTICULO 74.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor a partir del 1o. de septiembre de 1989.
+
+D.O.F. 10 DE AGOSTO DE 1987.
+
+DECRETO QUE ADICIONA LA FRACCION XXIX-H DEL ARTICULO 73, LA FRACCION I-B DEL ARTICULO 104 Y UN PARRAFO FINAL A LA FRACCION V DEL ARTICULO 107; REFORMA EL ARTICULO 94, EL PRIMER Y SEGUNDO PARRAFOS DEL ARTICULO 97, EL ARTICULO 101, Y EL INCISO A) DE LA FRACCION III, EL PRIMER PARRAFO Y EL INCISO B) DE LA FRACCION V Y LAS FRACCIONES VI, VIII Y XI DEL ARTICULO 107; DEROGA LOS PARRAFOS SEGUNDO, TERCERO Y CUARTO DE LA FRACCION I DEL ARTICULO 104 Y EL PARRAFO SEGUNDO DEL ARTICULO 107.
+
+UNICO.- El presente Decreto entrará en vigor el día 15 de enero de 1988, previa su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE AGOSTO DE 1987.
+
+DECRETO QUE REFORMA LOS ARTICULOS 73 FRACCION VI, 79 FRACCION V, 89 FRACCIONES II Y XVII, 110 PRIMER PARRAFO, 111 PRIMER PARRAFO Y 127 Y SE DEROGA LA FRACCION VI DEL ARTICULO 74.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los Representantes a la Asamblea del Distrito Federal serán electos simultáneamente a los Diputados Federales que integrarán la LIV Legislatura del Congreso de la Unión, en la forma y términos que señale la ley respectiva.
+
+TERCERO.- La Ley sobre Justicia en Materia de Faltas de Policía y Buen Gobierno del Distrito Federal y su Reglamento, así como las disposiciones administrativas relativas al Distrito Federal, en las materias a que se refiere el inciso A) de la base 3a. de la fracción VI del artículo 73 de la Constitución, continuarán vigentes hasta en tanto la Asamblea de Representantes del Distrito Federal dicte los bandos, ordenanzas y reglamentos correspondientes, en los términos del presente Decreto.
+
+CUARTO.- En tanto se instala la Asamblea de Representantes del Distrito Federal, los nombramientos de Magistrado del Tribunal Superior de Justicia del Distrito Federal continuarán siendo sometidos por el Presidente de la República, a la aprobación de la Cámara de Diputados del Congreso de la Unión, o de la Comisión Permanente, en su caso.
+
+QUINTO.- Las elecciones de los Representantes a la Asamblea del Distrito Federal, se regirán en lo conducente, y hasta en tanto se expida el ordenamiento correspondiente, por las normas que la Constitución Política de los Estados Unidos Mexicanos y el Código Federal Electoral contienen en materia de elección de los Diputados Federales al Congreso de la Unión.
+
+SEXTO.- Los debates de la Asamblea de Representantes del Distrito Federal, se regirán hasta en tanto se expida el ordenamiento a que se refiere el inciso I) de la base 3a. del artículo 73 Constitucional, por lo dispuesto en el Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos.
+
+SEPTIMO.- El Colegio Electoral de la Asamblea de Representantes del Distrito Federal que calificará la elección de 1988, habrá de reunirse para este fin, durante la primera quincena del mes de octubre, del propio año de la elección.
+
+D.O.F. 10 DE AGOSTO DE 1987.
+
+DECRETO QUE REFORMA EL ARTICULO 78 Y ADICIONA UN ARTICULO DECIMO NOVENO TRANSITORIO.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE AGOSTO DE 1987.
+
+DECRETO QUE REFORMA EL PARRAFO TERCERO DEL ARTICULO 27 Y ADICIONA LA FRACCION XXIX-G DEL ARTICULO 73.
+
+###### ARTICULO UNICO.
+
+La presente reforma y adición a la Constitución Política de los Estados Unidos Mexicanos entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
