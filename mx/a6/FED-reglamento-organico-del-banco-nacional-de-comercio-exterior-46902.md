@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-banco-nacional-de-comercio-exterior-469
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-04-02"
-last_updated: "1991-04-02"
+last_updated: "1996-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46902&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-03-26"
 
 REGLAMENTO ORGANICO DEL BANCO NACIONAL DE COMERCIO EXTERIOR, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MARZO DE 1996.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 2 de abril de 1991.
 
@@ -71,13 +71,13 @@ La Sociedad tendrá duración indefinida.
 
 ### CAPITULO SEGUNDO. Del Capital Social
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1996)</small>
+
 ###### ARTICULO 7o.
 
-El capital social del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $3,000,000,000,000 (TRES BILLONES DE PESOS, M. N.).
+El capital social del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $5,000'000,000.00 (cinco mil millones de pesos 00/100 M.N.). Dicho capital social estará representado por 33'000,000 (treinta y tres millones) de certificados de aportación patrimonial de la Serie “A”, con valor nominal de $100.00 (cien pesos 00/100 M.N.) cada uno, y por 17'000,000 (diecisiete millones) de certificados de aportación patrimonial de la Serie “B”, con valor nominal de $100.00 (cien pesos 00/100 M.N.) cada uno.
 
-Dicho capital social estará representado por 19'800,000 (DIECINUEVE MILLONES OCHOCIENTOS MIL) certificados de aportación patrimonial de la Serie "A" con valor nominal de $100,000 (CIEN MIL PESOS, M. N.) cada uno y por 10'200,000 (DIEZ MILLONES DOSCIENTOS MIL) certificados de aportación patrimonial de la Serie "B", con valor nominal de $100,000 (CIEN MIL PESOS, M. N.) cada uno.
-
-El capital social podrá ser aumentado o reducido conforme a lo dispuesto por el artículo 38 de la Ley de Instituciones de Crédito, a propuesta del Consejo Directivo de la Sociedad, por Acuerdo de la Secretaría de Hacienda y Crédito Público y mediante reforma de este Reglamento.
+El capital social podrá ser aumentado o reducido conforme a lo dispuesto por el artículo 38 de la Ley de Instituciones de Crédito, a propuesta del Consejo Directivo de la Sociedad, por acuerdo de la Secretaría de Hacienda y Crédito Público y mediante reforma de este Reglamento.
 
 ###### ARTICULO 8o.
 
@@ -421,9 +421,11 @@ Los Organos de Gobierno y los servidores públicos de la Sociedad conservarán l
 
 Los poderes, mandatos y representaciones otorgados y las facultades concedidas por la Sociedad, subsistirán en sus términos en tanto no sean modificados o revocados expresamente.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1996)</small>
+
 ###### ARTICULO QUINTO.
 
-El capital pagado de la Sociedad a la vigencia del presente Reglamento Orgánico, ascenderá a la suma de $ 2'300,000'000,000 (DOS BILLONES TRESCIENTOS MIL MILLONES DE PESOS M. N.), el cual estará distribuido en $ 1'518,000'000, 000 (UN BILLON QUINIENTOS DIECIOCHO MIL MILLONES DE PESOS M. N.) representados por quince millones ciento ochenta mil certificados de aportación patrimonial de la Serie "A", y en $ 782,000'000,000 (SETECIENTOS OCHENTA Y DOS MIL MILLONES DE PESOS M. N.), representados por siete millones ochocientos veinte mil certificados de aportación patrimonial de la Serie "B".
+El capital pagado de la Sociedad a la vigencia del presente Reglamento Orgánico ascenderá a la suma de $3,440'500,000.00 (tres mil cuatrocientos cuarenta millones quinientos mil pesos 00/100 M.N.), el cual estará distribuido por $2,270'730,000.00 (dos mil doscientos setenta millones setecientos treinta mil pesos 00/100 M.N.) representados por 22'707,300 (veintidós millones setecientos siete mil trescientos) certificados de aportación patrimonial de la Serie "A", con valor nominal de $100.00 (cien pesos 00/100 M.N.) cada uno, y en $1,169'770,000.00 (un mil ciento sesenta y nueve millones setecientos setenta mil pesos 00/100 M.N.) representados por 11'697,700 (once millones seiscientos noventa y siete mil setecientos) certificados de aportación patrimonial de la Serie "B", con valor nominal de $100.00 (cien pesos 00/100 M.N.) cada uno.
 
 ###### ARTICULO SEXTO.
 
@@ -432,3 +434,11 @@ Cuando el Gobierno Federal sea titular de la totalidad de certificados de aporta
 Asimismo, cuando el Gobierno Federal sea titular de la totalidad de certificados de aportación patrimonial de la Serie "B" de la Sociedad, la Secretaría de Hacienda y Crédito Público designará al Comisario correspondiente a esta Serie. Dicha designación será provisional y en cuanto estos certificados sean colocados por el Gobierno Federal entre tenedores distintos a éste, en la proporción señalada en el párrafo anterior, la Comisión Consultiva procederá en los términos del presente Reglamento Orgánico a la elección y designación del Comisario definitivo para el ejercicio social respectivo.
 
 El presente Reglamento Orgánico se expide en la Ciudad de México, Distrito Federal, a los 26 días del mes de marzo de 1991.- El Secretario de Hacienda y Crédito Público, Pedro Aspe.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 14 DE MARZO DE 1996.
+
+PRIMERO.- El presente Acuerdo, entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Banco Nacional de Comercio Exterior, S.N.C., en términos de las disposiciones legales aplicables, procederá a realizar los actos necesarios para dar cumplimiento al presente Acuerdo.
