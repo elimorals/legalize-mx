@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "1994-03-05"
+last_updated: "1998-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -47,7 +47,9 @@ ARTICULO lo.- La presente Ley es de orden público e interés social y tiene por
 
 El derecho a la protección de la salud, tiene las siguientes finalidades:
 
-I.- El bienestar físico y mental del hombre, para contribuir al ejercicio pleno de sus capacidades;
+> <small>(REFORMADA, P.O. 07 DE FEBRERO DE 1998)</small>
+
+I.- El bienestar físico, mental y emocional de los seres humanos para contribuir al ejercicio pleno de sus capacidades;
 
 II.- La prolongación y el mejoramiento de la calidad de la vida humana;
 
@@ -59,7 +61,9 @@ V.- El disfrute de servicios de salud y asistencia social que satisfagan eficaz 
 
 VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud; y
 
-VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
+> <small>(REFORMADA, P.O. 07 DE FEBRERO DE 1998)</small>
+
+VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica desde una perspectiva de género.
 
 ###### ARTICULO 3o.
 
@@ -401,9 +405,17 @@ VIII.- La disponibilidad de medicamentos y otros insumos esenciales para la salu
 
 IX.- La promoción del mejoramiento de la nutrición;
 
-X.- La asistencia social a los grupos más vulnerables; y
+> <small>(REFORMADA, P.O. 07 DE FEBRERO DE 1998)</small>
 
-XI.- Las demás que establezca esta Ley o disposiciones legales aplicables.
+X.- La asistencia social a los grupos más vulnerables;
+
+> <small>(ADICIONADA, P.O. 07 DE FEBRERO DE 1998)</small>
+
+XI.- La atención a las víctimas de violencia intrafamiliar y de abandono; y
+
+> <small>(REFORMADA, P.O. 07 DE FEBRERO DE 1998)</small>
+
+XII.- Las demás que establezcan otras disposiciones legales aplicables.
 
 ###### ARTICULO 30.
 
@@ -533,9 +545,11 @@ VI.- Información a las autoridades competentes de las irregularidades o deficie
 
 VII.- Otras actividades que coadyuven a la protección de la salud.
 
+> <small>(REFORMADO, P.O. 07 DE FEBRERO DE 1998)</small>
+
 ###### ARTICULO 52.
 
-La Secretaría de Salud del Estado, y demás instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades y accidentes, y de prevención de invalidez y de rehabilitación de inválidos.
+La Secretaría de Salud del Estado y demás instituciones de salud estatal, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención del maltrato infantil, de la violencia intrafamiliar, de la invalidez y de la rehabilitación de discapacitados.
 
 ###### ARTICULO 53.
 
@@ -553,15 +567,21 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ### CAPITULO IV. ATENCION MATERNO-INFANTIL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 07 DE FEBRERO DE 1998)</small>
+
 ###### ARTICULO 56.
 
-La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
+La atención materno infantil tiene carácter prioritario y comprende las siguientes acciones:
 
 I.- La atención de la mujer durante el embarazo, el parto y el puerperio.
 
-II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna.
+> <small>(REFORMADA, P.O. 07 DE FEBRERO DE 1998)</small>
 
-III.- La promoción de la integración y del bienestar familiar.
+II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna; y
+
+> <small>(REFORMADA, P.O. 07 DE FEBRERO DE 1998)</small>
+
+III.- La promoción de la integración y el bienestar familiar, fomentando la responsabilidad paterna en el crecimiento de sus hijas e hijos.
 
 ###### ARTICULO 57.
 
@@ -585,15 +605,21 @@ III.- Acciones para controlar las enfermedades prevenibles por vacunación, los 
 
 Las autoridades sanitarias estatales, educativas y laborales, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
 
-I.- Los programas para padres destinados a promover la atención materno-infantil;
+> <small>(REFORMADA, P.O. 07 DE FEBRERO DE 1998)</small>
+
+I.- Los programas destinados a promover la paternidad y la maternidad responsable y la atención materno infantil;
 
 II.- Las actividades recreativas de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
 III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
 
-IV.- Acciones relacionadas con educación básica, albafetización (sic) de adultos, accesos al agua potable y medios sanitarios de eliminación de excreta;
+> <small>(REFORMADA, P.O. 07 DE FEBRERO DE 1998)</small>
 
-V.- Las demás que coadyuven a la salud materno-infantil.
+IV.- Los programas de prevención del maltrato infantil y de la violencia intrafamiliar; y
+
+> <small>(REFORMADA, P.O. 07 DE FEBRERO DE 1998)</small>
+
+V.- Las demás que coadyuven a la protección de la salud materno infantil.
 
 ###### ARTICULO 61.
 
@@ -609,13 +635,17 @@ La planificación familiar tiene carácter prioritario. En sus actividades se de
 
 Los servicios que se presenten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad.
 
-Quienes practiquen esterilización sin la voluntad del paciente o ejerzan presión para que éste la admita serán sancionados conforme a las disposiciones de esta Ley, independientemente de la responsabilidad penal en que incurran.
+> <small>(REFORMADO, P.O. 07 DE FEBRERO DE 1998)</small>
+
+Quienes practiquen esterilización o cualquier otro medio contraceptivo, sin la voluntad del paciente o ejerzan presión para que éste la admita, serán sancionados conforme a las disposiciones de esta Ley, independientemente de la responsabilidad penal en que incurran.
 
 ###### ARTICULO 63.
 
 Los servicios de planificación familiar comprenden:
 
-I.- La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar y educación sexual, con base en los objetivos y estrategias que establezca el Consejo Nacional de Población;
+> <small>(REFORMADA, P.O. 07 DE FEBRERO DE 1998)</small>
+
+I.- La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar y educación sexual, considerando las características de cada sexo, con base en los contenidos y las estrategias que establezcan el Consejo Nacional de Población y la Dirección General de Población de Oaxaca, poniendo especial atención en aquellos destinados a evitar embarazos precoces;
 
 II.- La atención y vigilancia de los aceptantes y usuarios de servicios de planificación familiar;
 
@@ -644,6 +674,10 @@ El Gobierno del Estado, coadyuvará con la Secretaría de Salud, en las acciones
 ###### ARTICULO 66.
 
 La prevención de las enfermedades mentales tienen carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
+
+> <small>(ADICIONADO, P.O. 07 DE FEBRERO DE 1998)</small>
+
+Se prestará especial atención a la prevención del abandono y la violencia intrafamiliar como factores que inciden en los desequilibrios de la salud mental y emocional de mujeres, menores y otros miembros de la familia.
 
 ###### ARTICULO 67.
 
@@ -781,6 +815,8 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ### CAPITULO II. EDUCACION PARA LA SALUD
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 07 DE FEBRERO DE 1998)</small>
+
 ###### ARTICULO 85.
 
 La investigación para la salud comprende el desarrollo de acciones que contribuyan:
@@ -873,13 +909,19 @@ V.- Fomento sanitario.
 
 ###### ARTICULO 94.
 
-La educación para la salud tiene por objeto:
+La educación para la salud debe ser integral y tiene por objeto:
 
 I.- Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas y accidentes, y protegerla de los riesgos que pongan en peligro su salud;
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud;
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgo de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades.
+> <small>(REFORMADA, P.O. 07 DE FEBRERO DE 1998)</small>
+
+III.- Orientar y capacitar a la población preferentemente en materias de nutrición, salud mental y emocional, salud bucal, educación sexual, planificación familiar, riesgos de embarazos tempranos y riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades;
+
+> <small>(ADICIONADA, P.O. 07 DE FEBRERO DE 1998)</small>
+
+IV.- Prevenir a las personas, sobre todo a quienes se desempeñen como cabeza de familia, respecto de los efectos negativos que tienen el abandono, la violencia intrafamiliar y el maltrato a los menores.
 
 ###### ARTICULO 95.
 
@@ -1123,7 +1165,9 @@ Para la mayor eficacia de las acciones a las que se refiere este artículo, se c
 
 ## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
 
-### CAPITULO UNICO
+### CAPITULO IV. PROGRAMA CONTRA LA VIOLENCIA INTRAFAMILIAR
+
+> <small>(ADICIONADO, P.O. 07 DE FEBRERO DE 1998)</small>
 
 ###### ARTICULO 126.
 
@@ -1137,13 +1181,17 @@ Son actividades básicas de asistencia social:
 
 I.- La atención a personas que por sus carencias socioeconómicas o por problemas de invalidez, se vean impedidas para satisfacer su (sic) requerimientos básicos de subsistencia y desarrollo;
 
-II.- La atención en establecimientos especializados a menores y ancianos en estado de abandono o desamparo e inválidos sin recursos;
+> <small>(REFORMADA, P.O. 07 DE FEBRERO DE 1998)</small>
+
+II.- La atención, en establecimientos especializados, de menores y ancianos y a toda persona en estado de abandono o desamparo, de discapacitados sin recursos, de mujeres y menores maltratados;
 
 III.- La promoción del bienestar del senescente y el desarrollo de acciones de preparación para la senectud;
 
 IV.- El ejercicio de la tutela de los menores en los términos de las disposiciones legales aplicables;
 
-V.- La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, ancianos e inválidos sin recursos;
+> <small>(REFORMADA, P.O. 07 DE FEBRERO DE 1998)</small>
+
+V.- La prestación de servicios de asistencia jurídica y orientación social, especialmente a madres de familia, menores, ancianos, discapacitados o incapaces sin recursos;
 
 VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
@@ -1159,15 +1207,19 @@ Para fomentar el desarrollo de programas públicos de asistencia social, el Gobi
 
 Asimismo, procurará destinar los apoyos necesarios a los programas de asistencia social, públicos y privados para fomentar su aplicación.
 
+> <small>(REFORMADO, P.O. 07 DE FEBRERO DE 1998)</small>
+
 ###### ARTICULO 129.
 
-Los menores en estado de desprotección social, tienen derecho a recibir los servicios asistenciales que necesiten en cualquier establecimiento público dependiente del Estado al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+Toda persona en estado de desamparo y desprotección social, en especial los menores, los ancianos y las madres de familia, tienen derecho a recibir los servicios asistenciales que necesiten en cualquier establecimiento público al que sean remitidas para su atención, sin perjuicio de la intervención que corresponda a otras autoridades.
+
+> <small>(REFORMADO, P.O. 07 DE FEBRERO DE 1998)</small>
 
 ###### ARTICULO 130.
 
-Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e inmediata a menores y ancianos sometidos a cualquier forma de maltrato que ponga en peligro su salud física y mental. Asimismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psico-somático de los individuos.
+Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e inmediata a mujeres, menores, ancianos y a toda persona sometidos a cualquier forma de maltrato que ponga en peligro su salud física, mental o emocional. Asimismo, darán esta atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física, emocional, mental o el normal desarrollo psicosexual de las personas.
 
-En estos casos, las instituciones de salud del Estado, podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores y ancianos, sin perjuicio de dar intervención a las autoridades competentes.
+En estos casos, las instituciones de salud del Estado, establecerán programas que permitan tomar las medidas inmediatas que sean necesarias para la protección de la salud, sin perjuicio de dar intervención a las autoridades competentes.
 
 ###### ARTICULO 131.
 
@@ -1175,9 +1227,11 @@ El Gobierno del Estado contará con un organismo que se denominará Sistema para
 
 Las atribuciones y funciones se regirán por las disposiciones legales que para tal efecto se expidan.
 
+> <small>(REFORMADO, P.O. 07 DE FEBRERO DE 1998)</small>
+
 ###### ARTICULO 132.
 
-El Gobierno del Estado y los municipios promoverán la creación de establecimientos en los que se dé atención a personas con padecimientos mentales, a niños desprotegidos y a ancianos desamparados.
+Los Gobiernos Estatal y Municipales crearán establecimientos en los que se dé atención a personas con padecimientos mentales o emocionales, a menores desprotegidos, a ancianos desamparados y a víctimas de violencia intrafamiliar.
 
 ###### ARTICULO 133.
 
@@ -1265,7 +1319,7 @@ El organismo del Gobierno Estatal previsto en el artículo 131 de esta Ley tendr
 
 ## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
 
-### CAPITULO PRIMERO. DISPOSICIONES COMUNES
+### CAPITULO UNICO
 
 ###### ARTICULO 150.
 
@@ -1289,7 +1343,7 @@ III.- Hábitos de consumo de alcohol en los diferentes grupos de población, y
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPITULO PRIMERO. DISPOSICIONES COMUNES
 
 ###### ARTICULO 152.
 
@@ -1309,7 +1363,7 @@ II.- La educación a la familia para prevenir el consumo de tabaco por parte de 
 
 III.- Los propietarios o encargados de establecimientos en donde se expendan cigarrillos o similares, en ningún caso y de ninguna manera lo expenderán a menores de edad.
 
-### CAPITULO III. DE LAS CONSTRUCCIONES
+### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### ARTICULO 154.
 
@@ -1327,11 +1381,23 @@ III.- Brindarán la atención médica que se requiera, a las personas que realic
 
 IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de substancias inhalantes.
 
-### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
+> <small>(ADICIONADO, P.O. 07 DE FEBRERO DE 1998)</small>
+
+### CAPITULO III. DE LAS CONSTRUCCIONES
+
+###### ARTICULO 155
+
+BIS.- Los Gobiernos Estatal y Municipales coordinarán la ejecución de un programa contra la violencia intrafamiliar con el fin de:
+
+I.- Capacitar a los servidores públicos que proceda, a fin de que adquieran los conocimientos y habilidades necesarios para detectar a víctimas de dicha violencia y tratarlas debidamente;
+
+II.- Organizar campañas educativas tendientes a erradicar la violencia intrafamiliar, abuso sexual y abandono; y
+
+III.- Procurar la atención especializada de las víctimas de violencia intrafamiliar, abuso sexual y abandono así como su protección.
 
 ## TITULO DECIMO SEGUNDO. SALUBRIDAD LOCAL
 
-### CAPITULO V. LIMPIEZA PUBLICA
+### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
 ###### ARTICULO 156.
 
@@ -1351,7 +1417,7 @@ Los propietarios o encargados de los establecimientos en donde se expendan o sum
 
 ## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO VI. RASTROS
+### CAPITULO V. LIMPIEZA PUBLICA
 
 ###### ARTICULO 160.
 
@@ -1387,7 +1453,7 @@ La autoridad sanitaria competente publicará en el Periódico Oficial, las norma
 
 Las notificaciones que conforme a esta Ley deban aplicarse, surtirán efectos a partir del día siguiente de su publicación.
 
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPITULO VI. RASTROS
 
 ###### ARTICULO 167.
 
@@ -1401,7 +1467,7 @@ La Secretaría de Salud del Estado, verificará que los mercados y centros de ab
 
 Los vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales y en el ejercicio de sus actividades se sujetarán a lo que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables, y las normas oficiales correspondientes.
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTICULO 170.
 
@@ -1439,7 +1505,7 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes, podrán ordenar la ejecución de las obras que estime de urgencia con cargo a sus propietarios, encargados o poseedores o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO IX. PROSTITUCION
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 179.
 
@@ -1471,7 +1537,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad que al efecto expida la autoridad sanitaria competente, así como a las normas que dicte la Secretaría de Salud de Gobierno Federal.
 
-### CAPITULO X. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
+### CAPITULO IX. PROSTITUCION
 
 ###### ARTICULO 185.
 
@@ -1511,7 +1577,7 @@ El Gobierno del Estado, por conducto de sus Municipios, proveerá de depósitos 
 
 Para toda actividad relacionada con este capítulo, se estará a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas oficiales correspondientes.
 
-### CAPITULO XI. BAÑOS PUBLICOS
+### CAPITULO X. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
 
 ###### ARTICULO 191.
 
@@ -1547,7 +1613,7 @@ Las normas oficiales correspondientes, establecerán los requisitos sanitarios y
 
 El sacrificio de animales en los rastros se efectuará en los días y horas que fijen las autoridades sanitaria y municipal, tomando en consideración las condiciones del lugar y los elementos de que dispongan dichas autoridades para realizar las verificaciones necesarias.
 
-### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO XI. BAÑOS PUBLICOS
 
 ###### ARTICULO 199.
 
@@ -1587,7 +1653,7 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al uso o consumo humano, en todo caso deberán ser tratados y cumplir con las disposiciones legales en materia de contaminación.
 
-### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES
+### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 208.
 
@@ -1611,9 +1677,7 @@ Los establos, granjas avícolas, porcícolas, apiarios y otros similares, no pod
 
 Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que se refiere el artículo 208 de esta Ley, serán fijados en las disposiciones reglamentarias y las normas oficiales correspondientes.
 
-### CAPITULO XIV
-
-TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS.
+### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES
 
 ###### ARTICULO 211.
 
@@ -1643,7 +1707,9 @@ Queda prohibido el acceso de menores de edad al interior de los establecimientos
 
 La autoridad municipal, determinará los lugares en donde se permitirá el ejercicio de la prostitución, para lo cual podrá solicitar la opinión de la Secretaría de Salud del Estado, de conformidad con las disposiciones legales reglamentarias aplicables.
 
-### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XIV
+
+TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS.
 
 ###### ARTICULO 218.
 
@@ -1657,13 +1723,17 @@ Los Reclusorios o Centros de Readaptación Social, estarán sujetos al control s
 
 Los reclusorios o centros de readaptación social deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas oficiales correspondientes, con un departamento de baños de regadera y otro de enfermería, éste para la atención de aquellos casos de enfermedad de los internos, en que no sea necesario el traslado de éstos a un hospital.
 
+> <small>(ADICIONADO, P.O. 07 DE FEBRERO DE 1998)</small>
+
+En todo caso, el departamento de enfermería deberá contar con todo lo necesario para la atención perinatal.
+
 ###### ARTICULO 221.
 
 Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el tratamiento, a juicio del personal médico de la institución, el interno podrá dar aviso para ser trasladado al centro hospitalario que determine el propio Departamento, caso este que deberá hacerse del conocimiento de la autoridad competente.
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación deberán, a partir de que tengan conocimiento de alguna enfermedad transmisible, proceder a adoptar las medidas de seguridad sanitaria que procedan, para evitar la propagación, así como informar en un plazo no mayor de veinticuatro horas a la Autoridad Sanitaria correspondiente.
 
-### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTICULO 222.
 
@@ -1677,7 +1747,7 @@ Para abrir al servicio público éstos establecimientos, deberán sujetarse a la
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas oficiales que dicte la Secretaría de Salud del Estado.
 
-### CAPITULO XVII. GASOLINERIAS
+### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
 
 ###### ARTICULO 225.
 
@@ -1691,7 +1761,7 @@ La Secretaría de Salud del Estado, una vez terminada la edificación del centro
 
 El funcionamiento de los establecimientos a que se refiere el artículo 225 de esta Ley, deberá acatarse a lo dispuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas oficiales correspondientes.
 
-### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
+### CAPITULO XVII. GASOLINERIAS
 
 ###### ARTICULO 228.
 
@@ -1701,9 +1771,9 @@ Para los efectos de esta Ley, se entiende por peluquería, salones de belleza y 
 
 El funcionamiento y personal de los establecimientos señalados en el artículo anterior, deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y las normas oficiales correspondientes.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 230.
 
@@ -1719,7 +1789,7 @@ III.- Lavadero público, el establecimiento al cual acuden los interesados para 
 
 Corresponde a la autoridad sanitaria competente ejercer la verificación sanitaria de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 232.
 
@@ -1733,9 +1803,7 @@ La Secretaría de Salud del Estado realizará la verificación sanitaria que con
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar a establecimiento para el hospedaje, así como para su funcionamiento, se deberá dar cumplimiento a lo establecido en el artículo anterior.
 
-### CAPITULO UNICO
-
-> <small>(F. DE E. P.O. 20 DE AGOSTO DE 1994)</small>
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 235.
 
@@ -1745,7 +1813,9 @@ Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo d
 
 Los transportes que circulen por uno o más municipios del Estado de Oaxaca no requerirán de autorización sanitaria, debiendo cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables y las normas oficiales que para tal efecto se emitan.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
+
+> <small>(F. DE E. P.O. 20 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 237.
 
@@ -1755,7 +1825,7 @@ Para los efectos de esta Ley, se entiende por gasolinería el establecimiento de
 
 Las gasolinerías deberán contar con las instalaciones de seguridad que establezcan las disposiciones legales reglamentarias aplicables y las normas oficiales correspondientes.
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 239.
 
@@ -1791,7 +1861,7 @@ Las autoridades sanitarias, mantendrán campañas permanentes de orientación a 
 
 ## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 243.
 
@@ -1833,7 +1903,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la Legislación Fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 251.
 
@@ -1893,7 +1963,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución administrativa o de revocación en su caso, surtirá efectos, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 259.
 
@@ -1940,6 +2010,8 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 > <small>(F. DE E. P.O. 20 DE AGOSTO DE 1994)</small>
 
 ## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 264.
 
@@ -2424,3 +2496,11 @@ Oaxaca de Juárez, Oax., febrero 17 de 1994. EL GOBERNADOR CONSTITUCIONAL DEL ES
 Y lo comunico a usted para su conocimiento y fines consiguientes.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. "EL RESPETO AL DERECHO AJENO ES LA PAZ "Oaxaca de Juárez, Oax., febrero 17 de 1994. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE ANTONIO ESTEFAN GARFIAS. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE FEBRERO DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Ejecutivo Estatal, dentro de un término de noventa días, contados a partir de la fecha de la iniciación de la vigencia del presente Decreto, procederá a implementar los programas necesarios para su aplicación.
