@@ -4,7 +4,7 @@ identifier: "VER-ley-organica-de-la-universidad-veracruzana-6729"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-12-25"
-last_updated: "1993-12-25"
+last_updated: "1996-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DE LA UNIVERSIDAD VERACRUZANA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 25 de diciembre de 1993.
 
@@ -45,9 +45,11 @@ LEY ORGANICA DE LA UNIVERSIDAD VERACRUZANA
 
 ### CAPITULO I. DE LA PERSONALIDAD, FINES Y ESTRUCTURA
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 1.
 
-La Universidad Veracruzana es una institución pública de educación superior, con personalidad jurídica y patrimonio propios, con domicilio en la capital del Estado de Veracruz-Llave y regida por las disposiciones de esta ley, el estatuto general y los estatutos y reglamentos especiales aprobados por el Consejo Universitario General.
+La Universidad Veracruzana es una Institución pública de educación superior, autónoma, de interés social y con personalidad jurídica y patrimonio propios, con domicilio en la capital del Estado de Veracruz-Llave y regida por las disposiciones de esta Ley, el estatuto general y los estatutos y reglamentos especiales aprobados por el Consejo Universitario General.
 
 ###### ARTICULO 2.
 
@@ -65,9 +67,11 @@ La Universidad Veracruzana deberá estar vinculada permanentemente con la socied
 
 La educación que imparta la Universidad Veracruzana, sobre bases acordes a las nuevas tendencias y condiciones del desarrollo y con el proceso de modernización del país, podrá ser formal y no formal; para el caso de la educación formal, que implica un reconocimiento académico, se podrán adoptar las modalidades de escolarizada o no escolarizada.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 6.
 
-El lema, escudo y el sello oficial de la Universidad Veracruzana, serán motivo de reglamentación especial, la cual deberá respetar la estructura y redacción vigentes y señalar con claridad las condiciones en que pueden ser usados.
+El lema, escudo y el sello oficial de la Universidad Veracruzana, serán motivo de reglamentación especial, la cual deberá respetar la estructura y redacción vigentes y señalar con claridad las condiciones en que pueden ser usados. Su denominación oficial es Universidad Veracruzana.
 
 ###### ARTICULO 7.
 
@@ -89,9 +93,13 @@ VI. La Unidad de estudios de posgrado.
 
 Para efectos de esta ley, son:
 
-FACULTADES: Aquellas que preponderantemente realizan funciones de docencia a nivel de licenciatura, pudiendo tener a su cargo estudios de posgrado, de técnicos medios y actividades de investigación y difusión de la cultura y extensión de los servicios.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1996)</small>
 
-INSTITUTOS: Aquellos que preponderantemente realizan funciones de investigación, pudiendo tener a su cargo actividades de docencia de posgrado, de difusión de la cultura y extensión de los servicios.
+FACULTADES: Aquellas que preponderantemente realizan funciones de docencia a nivel de licenciatura en cualquiera de las modalidades previstas en la reglamentación universitaria, pudiendo tener a su cargo estudios de posgrado, de técnicos medios y actividades de investigación y difusión de la cultura y extensión de los servicios.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+INSTITUTOS: Aquellos que preponderantemente realizan funciones de investigación, pudiendo tener a su cargo actividades de docencia en cualquiera de los niveles y modalidades previstas en la reglamentación universitaria, de difusión de la cultura y extensión de los servicios.
 
 ORGANISMOS DE DIFUSION Y EXTENSION: Aquellos que preponderantemente realizan funciones de creación, ejecución y recreación artística; difusión de la cultura; actividades deportivas; comunicación y divulgación; educación no formal y extensión de los servicios, pudiendo realizar actividades de docencia e investigación.
 
@@ -109,6 +117,24 @@ Para el cumplimiento de sus funciones, las facultades, institutos, sistema de en
 
 La definición y el desarrollo de las actividades planeadas y programadas se realizarán de acuerdo a los principios de libertad de cátedra e investigación y de libre examen y discusión de las ideas.
 
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 9-A.
+
+Los planes de trabajo de los organismos de difusión y extensión serán definidos por sus respectivos directores. El personal académico de estos organismos podrá actuar como órgano consultivo de sus respectivos directores en la formulación de planes y programas de trabajo.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 9-B.
+
+Los grupos artísticos conservarán su estructura actual, la cual sólo podrá ser modificada a propuesta de su director artístico, si ello no implica ampliación presupuestal.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 9-C.
+
+El Consejo Editorial es el Organo Colegiado responsable de normar la política editorial de la Universidad Veracruzana. Su integración y funcionamiento se regularán por un reglamento especial.
+
 ###### ARTICULO 10.
 
 El Estatuto General precisará la organización y funcionamiento de las entidades y dependencias que conforman la Universidad Veracruzana.
@@ -121,7 +147,9 @@ I. Impartir educación superior en sus diversas modalidades, para formar los pro
 
 II. Formular planes y programas de estudio en los diferentes niveles y modalidades de la educación impartida y definir las líneas prioritarias institucionales de investigación con sus correspondientes planes y programas atendiendo en todo tiempo a los requerimientos de la sociedad y promoviendo el desarrollo de la misma;
 
-III. Promover y realizar investigaciones, de manera especial aquellas que se orienten hacia la solución de problemas estatales o nacionales;
+> <small>(REFORMADA, G.O 28 DE DICIEMBRE DE 1996)</small>
+
+III. Promover y realizar investigaciones, de manera especial aquellas que se orienten hacia la solución de problemas municipales, regionales, estatales y nacionales;
 
 IV. Extender y difundir con la mayor amplitud posible, los beneficios de la cultura;
 
@@ -157,7 +185,11 @@ XIX. Promover la participación de los padres de familia y egresados que coadyuv
 
 XX. Otorgar grados de Doctor Honoris Causa, Maestro Emérito y reconocimientos a quiénes se distingan por su trayectoria académica, científica, cultural o deportiva, o como benefactores de la Universidad; y
 
-XXI. Todas las demás que le otorgue la presente ley y la reglamentación universitaria correspondiente.
+XXI. Todas las demás que le otorgue la presente ley y la reglamentación universitaria correspondiente;
+
+> <small>(ADICIONADA, G.O 28 DE DICIEMBRE DE 1996)</small>
+
+XXII. Expedir su propia reglamentación.
 
 ###### ARTICULO 12.
 
@@ -195,9 +227,11 @@ VI. Los derivados de los empréstitos que se le otorguen; y
 
 VII. La producción científica, tecnológica y artística generada por el personal académico en el desempeño de sus funciones.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 14.
 
-El patrimonio universitario es imprescriptible. Para la enajenación de bienes inmuebles se requiere la autorización por escrito del Gobernador del Estado.
+El patrimonio universitario es imprescriptible. Para la enajenación de bienes inmuebles se requiere la autorización de la Legislatura del Estado.
 
 ###### ARTICULO 15.
 
@@ -227,15 +261,19 @@ Ninguna persona podrá percibir en la Universidad Veracruzana retribución que n
 
 Son autoridades universitarias:
 
-I. El Gobernador del Estado;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
 
-II. El Consejo Universitario General;
+I. El Consejo Universitario General;
+
+> <small>(REFORMADA, G.O 28 DE DICIEMBRE DE 1996)</small>
+
+II. La Junta de Gobierno;
 
 III. El Rector;
 
 IV. El Secretario Académico y el Secretario de Administración y Finanzas;
 
-V. El Coordinador General de Difusión Cultural y Extensión Universitaria;
+V. (DEROGADA, G.O. 28 DE DICIEMBRE DE 1996)
 
 VI. Los Consejos Universitarios Regionales;
 
@@ -257,17 +295,23 @@ XII. Los Secretarios de Facultad, Instituto y del Sistema de Enseñanza Abierta.
 
 El Consejo Universitario General estará integrado por:
 
-I. El Rector, quien lo presidirá, salvo que el Gobernador asista a las sesiones;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+I. El Rector, quien lo presidirá;
 
 II. Los Secretarios Académico y de Administración y Finanzas. El primero ejercerá las funciones de Secretario del Consejo;
 
-III. El Coordinador General de Difusión Cultural y Extensión Universitaria;
+III. (DEROGADA, G.O. 28 DE DICIEMBRE DE 1996)
 
 IV. Los Vice-Rectores;
 
 V. Los Directores Generales de Area Académica y el Director General de Investigaciones;
 
 VI. Los Directores de las Facultades e Institutos de Investigación y el Director General del Sistema de Enseñanza Abierta;
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+VI-A. El Director de la Unidad de Estudios de posgrado y el Director de la Escuela para Estudiantes Extranjeros;
 
 VII. Un Consejero Maestro o Investigador de cada Facultad o Instituto, designado por los profesores e investigadores respectivamente;
 
@@ -319,6 +363,10 @@ IX. Conocer de los dictámenes de la Comisión de Honor y Justicia;
 
 X. Aprobar los aranceles de inscripción; y
 
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+X-A. Resolver las controversias que se presenten entre el Rector y los cuerpos colegiados, o de éstos entre sí, con motivo de la aplicación de la legislación universitaria;
+
 XI. Ejercer las demás atribuciones que le confiere este ordenamiento y sus disposiciones reglamentarias.
 
 ###### ARTICULO 26.
@@ -355,6 +403,10 @@ IV. Los Directores de las Facultades, Institutos y en su caso del Sistema de Ens
 
 V. El Consejero Maestro o Investigador de cada Facultad, Instituto o Carrera del Sistema de Enseñanza Abierta del área correspondiente; y
 
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+V-A. Los Jefes de Carrera y los Coordinadores de Posgrado;
+
 VI. El Consejero Alumno de cada Facultad, Instituto o Carrera del Sistema de Enseñanza Abierta, del área correspondiente.
 
 ###### ARTICULO 30.
@@ -367,7 +419,9 @@ II. Evaluar y aprobar los planes y programas de estudio de las licenciaturas, po
 
 III. Analizar y proponer modificaciones a los reglamentos de las Facultades, Institutos y Sistema de Enseñanza Abierta, de su área;
 
-IV. Aprobar las líneas prioritarias institucionales de investigación;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+IV. Aprobar las líneas prioritarias institucionales de investigación y definir los mecanismos para evaluar los resultados de las investigaciones;
 
 V. Establecer las normas institucionales para la prestación del servicio social de las carreras de su área;
 
@@ -375,9 +429,11 @@ VI. Conocer y aprobar los procedimientos comunes para la evaluación del proceso
 
 VII. Las demás que le otorgue la legislación universitaria.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 31.
 
-La Comisión de Reglamentos será elegida anualmente por el Consejo Universitario General; y se integrará por seis académicos y tres alumnos, los que tendrán sus respectivos suplentes y tendrá las atribuciones siguientes:
+La Comisión de Reglamentos será elegida cada dos años por el Consejo Universitario General; se integrará por seis académicos y tres alumnos, los que tendrán sus respectivos suplentes y tendrá las atribuciones siguientes:
 
 I. Revisar y dictaminar para someter al Consejo Universitario General los proyectos de Estatutos y Reglamentos universitarios;
 
@@ -387,9 +443,11 @@ III. Fijar criterios de interpretación obligatoria de los Reglamentos y Estatut
 
 IV. Las demás que le otorgue la legislación universitaria.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 32.
 
-La Comisión de Presupuestos, será elegida anualmente por el Consejo Universitario General; se integrará por seis académicos y tres alumnos, los que tendrán sus respectivos suplentes y será presidida por el Secretario de Administración y Finanzas, quien tendrá voto de calidad en caso de empate, teniendo las atribuciones siguientes:
+La Comisión de presupuestos será elegida cada dos años por el Consejo Universitario General; se integrará por seis académicos y tres alumnos, los que tendrán sus respectivos suplentes y tendrá las atribuciones siguientes:
 
 I. Dictaminar sobre el proyecto de presupuesto, en los términos de la reglamentación correspondiente;
 
@@ -397,11 +455,15 @@ II. Conocer y aprobar, en su caso, las modificaciones al presupuesto realizadas 
 
 III. Todas aquellas que se deriven de las disposiciones reglamentarias o del Consejo Universitario General.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 33.
 
-La Comisión de Honor y Justicia será elegida anualmente por el Consejo Universitario General; se integrará por seis académicos y tres alumnos, los que tendrán sus respectivos suplentes y tendrá las atribuciones siguientes:
+La Comisión de Honor y Justicia será elegida cada dos años por el Consejo Universitario General; se integrará por seis académicos y tres alumnos, los que tendrán sus respectivos suplentes y tendrá las atribuciones siguientes:
 
-I. Conocer y resolver en última instancia, a proposición del Rector, de las faltas graves de los miembros de la comunidad universitaria;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+I. Conocer y resolver en última instancia, a proposición del Rector, de las faltas graves de los miembros de la comunidad universitaria; y en única instancia de las faltas cometidas por los integrantes de la comunidad en instalaciones universitarias distintas a su entidad académica;
 
 II. Conocer y resolver en última instancia a proposición del Rector, de las inconformidades que se presenten en contra de los dictámenes emitidos en los exámenes de oposición, en términos del Estatuto correspondiente; y
 
@@ -411,17 +473,69 @@ III. Todas aquellas que se deriven de las disposiciones reglamentarias.
 
 Son comisiones transitorias todas aquellas que el Consejo Universitario General designe para realizar una función determinada.
 
-### CAPITULO III. DEL RECTOR
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO IV. DE LOS SECRETARIOS ACADEMICO Y DE ADMINISTRACION Y FINANZAS
+### CAPITULO II BIS. DE LA JUNTA DE GOBIERNO
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 34-A.
+
+La Junta de Gobierno se regirá por las disposiciones de la Ley de Autonomía, de la Ley Orgánica de la Universidad y de su reglamento interno.
+
+La Junta de Gobierno nombrará al Contralor General de la Universidad y al personal indispensable para el desempeño adecuado de sus funciones.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 34-B.
+
+El Contralor General es el encargado de supervisar y evaluar el ejercicio de las actividades de la Universidad; y dependerá directamente de la Junta de Gobierno.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 34-C.
+
+Son atribuciones del Contralor General:
+
+I. Informar a la Junta de Gobierno de los asuntos de su competencia;
+
+II. Ejercer las acciones de control de las actividades de la Universidad, conforme a los ordenamientos legales existentes;
+
+III. Supervisar el ejercicio del presupuesto universitario y su correcta aplicación;
+
+IV. Informar a la Junta de Gobierno los resultados de la evaluación integral del desarrollo de los programas a cargo de las dependencias de la Universidad Veracruzana y de los resultados de las auditorías practicadas;
+
+V. Supervisar que los recursos financieros que provengan de los subsidios federal y estatal, así como las cuotas arancelarias y de otras fuentes, sean canalizadas hacia los objetivos propuestos en los programas respectivos;
+
+VI. Practicar las revisiones especiales que por acuerdo de la Junta de Gobierno deban realizarse a las dependencias universitarias;
+
+VII. Hacer del conocimiento de la Junta de Gobierno las conductas de los servidores universitarios, que en su opinión constituyan faltas o delitos;
+
+VIII. Orientar y apoyar a las autoridades y funcionarios de la Universidad Veracruzana en el cumplimiento de las declaraciones de bienes y cambios de situación patrimonial;
+
+IX. Atender las quejas y denuncias que presente la comunidad universitaria y los particulares, con respecto a acuerdos, convenios y contratos que celebre la Universidad Veracruzana;
+
+X. Proponer a la Junta de Gobierno para su designación al personal indispensable para el adecuado desempeño de sus funciones; y
+
+XI. Las demás que le atribuyan las leyes, reglamentos y disposiciones aplicables, así como las que le confiera la Junta de Gobierno.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 34-D.
+
+El Contralor General de la Universidad será responsable ante la Junta de Gobierno.
+
+### CAPITULO III. DEL RECTOR
 
 ###### ARTICULO 35.
 
 El Rector es la autoridad ejecutiva, representante legal de la Universidad Veracruzana. Su residencia estará en la ciudad de Xalapa, Veracruz.
 
+> <small>(REFORMADO, G.O 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 36.
 
-El Rector será designado por el Gobernador y durará en su cargo tres años, período que podrá prorrogarse por una sola vez.
+El Rector será designado por la Junta de Gobierno y durará en su cargo cuatro años, período que podrá prorrogarse por una sola vez.
 
 ###### ARTICULO 37.
 
@@ -451,11 +565,15 @@ IV. Efectuar las modificaciones al presupuesto que resulten necesarias durante e
 
 V. Informar al Consejo Universitario General anualmente de las labores realizadas;
 
-VI. Proponer al Gobernador, para su designación, a los Secretarios Académico y de Administración y Finanzas;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
 
-VII. Nombrar y remover al Coordinador General de Difusión Cultural y Extensión Universitaria;
+VI. Proponer a la Junta de Gobierno las ternas para el nombramiento de los Secretarios Académicos y de Administración y Finanzas;
 
-VIII. Proponer al Gobernador, para su designación, a los Vice-Rectores;
+VII. (DEROGADA, G.O. 28 DE DICIEMBRE DE 1996)
+
+> <small>(REFORMADA. G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+VIII. Designar y remover a los Vice-Rectores;
 
 IX. Nombrar y remover a los funcionarios, personal académico, de confianza y administrativo, técnico y manual, en los términos de la legislación universitaria;
 
@@ -467,13 +585,27 @@ XII. Autorizar la integración de entidades académicas;
 
 XIII. Autorizar el desempeño de la función del docente-investigador;
 
-XIV. Firmar con el Gobernador del Estado y el Secretario Académico los títulos que expida la Universidad Veracruzana;
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+XIII-A. Fomentar, organizar y supervisar la labor editorial;
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+XIII-B. Fomentar las acciones de comunicación hacia el interior y el exterior de la Universidad Veracruzana;
+
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+XIV. Firmar con el Secretario Académico los títulos que expida la Universidad Veracruzana;
 
 XV. Autorizar y firmar diplomas con valor curricular y cartas de pasante que otorgue la Universidad Veracruzana;
 
 XVI. Convocar y presidir, de acuerdo con la legislación, cuando lo estime necesario, a los cuerpos colegiados universitarios previstos por esta ley;
 
 XVII. Otorgar y revocar mandatos para la representación legal de la Universidad Veracruzana;
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+XVII-A. Suscribir títulos de crédito;
 
 XVIII. Firmar convenios, acuerdos y contratos que celebre la Universidad Veracruzana con otras instituciones y con diferentes sectores de la sociedad;
 
@@ -485,15 +617,23 @@ XXI. Integrar las distintas comisiones que se requieran para apoyar el desarroll
 
 XXII. Designar a los integrantes de las distintas comisiones que se creen, en términos de la fracción anterior;
 
-XXIII. Designar a quienes cubrirán las ausencias temporales de los Secretarios, Coordinador General y Vice-Rectores de la Universidad Veracruzana; y
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+XXIII. Designar a quienes cubrirán las ausencias temporales de los Secretarios y Vice-Rectores de la Universidad Veracruzana;
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+XXIII-A. Dar a conocer a la Junta de Gobierno el presupuesto de ingresos de la Universidad y remitir un ejemplar del presupuesto de egresos aprobado por el Consejo Universitario General; y
 
 XXIV. Las demás que se señalen en la legislación universitaria.
 
-### CAPITULO V. DEL COORDINADOR GENERAL DE DIFUSION CULTURAL Y EXTENSION UNIVERSITARIA
+### CAPITULO IV. DE LOS SECRETARIOS ACADEMICO Y DE ADMINISTRACION Y FINANZAS
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 39.
 
-El Secretario Académico será designado por el Gobernador a propuesta del Rector y durará en su cargo tres años, período que podrá prorrogarse por una sola vez.
+El Secretario Académico será designado por la Junta de Gobierno de una terna propuesta por el Rector y durará en su cargo cuatro años, periodo que podrá prorrogarse por una sola vez.
 
 ###### ARTICULO 40.
 
@@ -535,6 +675,10 @@ X. Propiciar el establecimiento de sistemas de supervisión y motivación del pe
 
 XI. Promover la actualización y modernización de los sistemas de enseñanza-aprendizaje;
 
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+XI-A. Impulsar y promover las actividades deportivas;
+
 XII. Fomentar la innovación curricular en las diferentes carreras y niveles de la Universidad Veracruzana;
 
 XIII. Planear y supervisar los sistemas de prestación del servicio social;
@@ -567,9 +711,11 @@ XXVI. Ser fedatario en el área de su competencia; y
 
 XXVII. Las demás que se señalen en la legislación universitaria.
 
+> <small>(REFORMADO, G.O 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 42.
 
-El Secretario de Administración y Finanzas será designado por el Gobernador a propuesta del Rector y durará en su encargo tres años, período que podrá prorrogarse por una sola vez.
+El Secretario de Administración y Finanzas será designado por la Junta de Gobierno de una terna propuesta por el Rector y durará en su cargo cuatro años, periodo que podrá prorrogarse por una sola vez.
 
 ###### ARTICULO 43.
 
@@ -605,67 +751,45 @@ VII. Fijar cuotas de recuperación por servicios administrativos y académicos p
 
 VIII. Convocar y presidir la Comisión de Presupuestos del Consejo Universitario General; y
 
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+VIII-A. Llevar a cabo las actividades necesarias para integrar y formular el proyecto de presupuestos de egresos que será presentado ante el Consejo Universitario General;
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+VIII-B. Gestionar la obtención de los recursos necesarios que servirán para cubrir los egresos;
+
 IX. Las demás que se señalen en la legislación universitaria.
 
-### CAPITULO VI. DE LOS CONSEJOS REGIONALES Y DE LOS VICE-RECTORES
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO V
 
 ###### ARTICULO 45.
 
-El Coordinador General de Difusión Cultural y Extensión Universitaria será designado por el Rector y durará en su encargo tres años, período que podrá prorrogarse por una sola vez.
+(DEROGADO, G.O. 28 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 46.
 
-Son requisitos para ser Coordinador General de Difusión Cultural y Extensión Universitaria:
-
-I. Ser mexicano por nacimiento;
-
-II. Tener más de treinta y menos de sesenta y cinco años de edad, al momento de su designación;
-
-III. Tener cuando menos cinco años de servicio docente, de investigación o de difusión de la cultura y extensión de los servicios, preferentemente en la Universidad Veracruzana;
-
-IV. Haberse distinguido en su especialidad; y
-
-V. Poseer título de licenciatura y preferentemente estudios posgrado, y publicado obra en el área de su especialidad.
+(DEROGADO, G.O. 28 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 47.
 
-Son atribuciones del Coordinador General Difusión Cultural y Extensión Universitaria:
-
-I. Acordar con el Rector todo lo referente a sus actividades;
-
-II. Proponer, organizar y dirigir las actividades de difusión de la cultura y extensión de los servicios de la Universidad Veracruzana;
-
-III. Promover y coordinar la difusión de la cultura y extensión de los servicios en beneficio de la comunidad;
-
-IV. Difundir el trabajo académico de la Universidad Veracruzana;
-
-V. Difundir las actividades artísticas de la Universidad Veracruzana;
-
-VI. Fomentar, organizar y supervisar la labor editorial;
-
-VII. Fomentar las acciones de comunicación hacia el interior y el exterior de la Universidad Veracruzana;
-
-VIII. Organizar eventos académicos y culturales;
-
-IX. Impulsar y promover las actividades deportivas;
-
-X. Ser fedatario en el área de su competencia; y
-
-XI. Las demás que se señalen en la legislación universitaria.
+(DEROGADO, G.O. 28 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 48.
 
-Los planes de trabajo de los organismos de difusión y extensión serán definidos por sus respectivos directores y aprobados por el Coordinador General de Difusión Cultural y Extensión Universitaria. El personal académico de estos organismos podrá actuar como órgano consultivo de sus respectivos directores en la formulación de planes y programas de trabajo.
+(DEROGADO, G.O. 28 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 49.
 
-Los grupos artísticos conservarán su estructura actual, la cual sólo podrá ser modificada a propuesta de su director artístico con aprobación del Coordinador General de Difusión Cultural y Extensión universitaria, si ello no implica ampliación presupuestal.
+(DEROGADO, G.O. 28 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 50.
 
-El Consejo Editorial es un órgano colegiado responsable de normar la política editorial de la Universidad Veracruzana. Su funcionamiento e integración se regularán por un reglamento especial.
+(DEROGADO, G.O. 28 DE DICIEMBRE DE 1996)
 
-### CAPITULO VII. DE LOS DIRECTORES GENERALES DE AREA ACADEMICA Y DE INVESTIGACIONES
+### CAPITULO VI. DE LOS CONSEJOS REGIONALES Y DE LOS VICE-RECTORES
 
 ###### ARTICULO 51.
 
@@ -679,7 +803,7 @@ I. El Secretario Académico, quien lo presidirá, salvo que el Rector acuda a la
 
 II. El Secretario de Administración y Finanzas quien actuará como Secretario del Consejo;
 
-III. El Coordinador General de Difusión Cultural y Extensión Universitaria;
+III. (DEROGADA, G.O. 28 DE DICIEMBRE DE 1996)
 
 IV. El Director del Sistema de Enseñanza Abierta;
 
@@ -697,7 +821,7 @@ II. El Secretario Académico Regional, quien actuará como Secretario del Consej
 
 III. El Secretario de Administración y Finanzas regional;
 
-IV. El Coordinador General de Difusión Cultural y Extensión Universitaria;
+IV. (DEROGADA, G.O. 28 DE DICIEMBRE DE 1996)
 
 V. Los Directores de las Facultades e Institutos de Investigaciones de la región y el Director General del Sistema de Enseñanza Abierta; y
 
@@ -725,9 +849,11 @@ V. Las demás que le otorgue la legislación universitaria.
 
 Los Vice-Rectores vigilarán el desempeño de las actividades universitarias de las dependencias de su región.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 57.
 
-Los Vice-Rectores serán nombrados y removidos por el Gobernador, a propuesta del Rector. Durarán en su encargo tres años, período que podrá ser prorrogado por una sola vez. Tendrán como residencia las ciudades de Veracruz, Orizaba, Coatzacoalcos y Poza Rica, respectivamente.
+Los Vice-Rectores serán nombrados y removidos por el Rector. Durarán en su cargo cuatro años, periodo que podrá ser prorrogado por una sola vez. Tendrán como residencia las ciudades de Veracruz, Orizaba, Coatzacoalcos y Poza Rica, respectivamente.
 
 ###### ARTICULO 58.
 
@@ -749,7 +875,9 @@ Son atribuciones de los Vice-Rectores, en sus respectivas regiones:
 
 I. Cumplir y hacer cumplir la presente ley, la legislación universitaria y los acuerdos del Consejo Universitario Regional y del Rector;
 
-II. Coordinar las actividades académicas, las administrativas y las de difusión cultural y extensión universitaria de la región, ajustándose a los planes de trabajo de las Secretarías y de la Coordinación General de Difusión Cultural y Extensión Universitaria;
+> <small>(REFORMADA, G.O 28 DE DICIEMBRE DE 1996)</small>
+
+II. Coordinar las actividades académicas, las administrativas y las de difusión cultural y extensión universitaria de la región, ajustándose a los planes de trabajo de las Secretarías;
 
 III. Proponer al Consejo Universitario Regional o al Rector, las acciones y medidas tendientes a lograr la excelencia académica;
 
@@ -771,7 +899,7 @@ XI. Asistir, con derecho a voz, a las juntas académicas de las facultades e ins
 
 XII. Las demás que le otorgue la legislación universitaria.
 
-### CAPITULO VIII. DE LAS JUNTAS ACADEMICAS, DE LAS FACULTADES, INSTITUTOS Y DE LOS DIRECTORES
+### CAPITULO VII. DE LOS DIRECTORES GENERALES DE AREA ACADEMICA Y DE INVESTIGACIONES
 
 ###### ARTICULO 60.
 
@@ -849,7 +977,9 @@ VI. Dar seguimiento al desarrollo de los programas y proyectos de investigación
 
 VII. Evaluar y dictaminar los resultados de los programas y proyectos de investigación;
 
-VIII. Apoyar la realización de los cursos de posgrado que propongan los institutos en concertación con la Coordinación General de Estudios de Posgrado e Intercambio Académico;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+VIII. Apoyar la realización de los cursos de posgrado que propongan los Institutos en concertación con la Dirección General de Apoyo al Desarrollo Académico;
 
 IX. Promover y coordinar la realización de programas y proyectos de vinculación entre la docencia, la investigación y los sectores público, privado y social;
 
@@ -867,7 +997,7 @@ XV. Formar parte de todas las comisiones académicas de área, así como ejecuta
 
 XVI. Las demás que se señalen en la legislación universitaria.
 
-### CAPITULO IX. DE LOS CONSEJOS TECNICOS
+### CAPITULO VIII. DE LAS JUNTAS ACADEMICAS, DE LAS FACULTADES, INSTITUTOS Y DE LOS DIRECTORES
 
 ###### ARTICULO 65.
 
@@ -911,7 +1041,9 @@ X. Designar a los integrantes del Comité Editorial;
 
 XI. Designar a los coordinadores de las academias preferentemente del personal de carrera de tiempo completo;
 
-XII. Constituirse en tribunal de honor y justicia para conocer y sancionar las faltas graves del personal académico y de los alumnos;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+XII. Constituirse en tribunal de honor y justicia para conocer y sancionar las faltas graves de las autoridades, del personal académico y de los alumnos;
 
 XIII. Presentar iniciativas para la mejor organización y funcionamiento de la institución;
 
@@ -941,9 +1073,11 @@ En el caso de los Institutos, tener estudios de posgrado en el área de la espec
 
 V. Ser maestro o investigador con más de tres años de antigüedad, dentro de la dependencia respectiva, salvo que sean de nueva creación.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 69.
 
-Los directores de facultades o institutos, durarán en su cargo tres años y podrán ser ratificados por un período más en términos de esta ley.
+Los Directores de facultades o institutos, durarán en su cargo cuatro años y podrán ser ratificados por un periodo más en términos de esta ley.
 
 ###### ARTICULO 70.
 
@@ -965,9 +1099,13 @@ VII. Proponer al Rector el nombramiento del Secretario y demás funcionarios;
 
 VIII. Convocar y presidir las sesiones de la Junta Académica;
 
-IX. Presentar al Rector o al Vice-Rector, en su caso, el proyecto de actividades y programas académicos;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
 
-X. Elaborar y presentar al Rector o al Vice-Rector, en su caso, el anteproyecto de presupuesto de egresos de la dependencia a su cargo;
+IX. Presentar a la Secretaría Académica, a través de los Directores Generales de Area Académica, el proyecto de actividades y programas académicos;
+
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+X. Elaborar y presentar al Rector, a través de la Secretaría de Administración y Finanzas, el anteproyecto de presupuesto de egresos de la dependencia a su cargo;
 
 XI. Vigilar el correcto ejercicio del presupuesto asignado a la dependencia;
 
@@ -1031,7 +1169,7 @@ Las facultades que ofrezcan varias carreras, además del Director, contarán con
 
 Cuando las entidades académicas de una misma área funcionen en instalaciones físicas comunes, para la administración escolar, académica y de áreas y servicios compartidos, se procurará una estructura administrativa única. Cuando las entidades académicas pertenezcan a áreas distintas, conservarán un Secretario para cada una y un administrador general.
 
-### CAPITULO X. DEL SISTEMA DE ENSEÑANZA ABIERTA
+### CAPITULO IX. DE LOS CONSEJOS TECNICOS
 
 ###### ARTICULO 75.
 
@@ -1093,11 +1231,13 @@ XIII. Resolver sobre la procedencia de exámenes extemporáneos y revisión de e
 
 XIV. Las demás que se señalen en la legislación universitaria.
 
-### CAPITULO XI. DE LOS FUNCIONARIOS UNIVERSITARIOS
+### CAPITULO X. DEL SISTEMA DE ENSEÑANZA ABIERTA
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 79.
 
-La estructura académica y el funcionamiento del Sistema de Enseñanza Abierta serán reglamentadas en el Estatuto General, sujetándose a los lineamientos siguientes:
+La estructura académica y el funcionamiento del Sistema de Enseñanza abierta serán reglamentados en el Estatuto General y el reglamento respectivo, sujetándose a los lineamientos siguientes:
 
 I. Los planes y programas de estudios de los sistemas abiertos y escolarizados serán los mismos;
 
@@ -1121,25 +1261,19 @@ IV. La Junta Académica adoptará el sistema rotativo por región para sesionar;
 
 V. Los maestros y los alumnos integrantes de la Junta Académica de cada carrera designarán un representante ante el Consejo Universitario General. Dichos consejeros también integrarán los Consejos Universitarios Regionales;
 
-VI. En cada carrera que se imparta en este sistema funcionará un Consejo Técnico que se integrará de la forma siguiente:
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
 
-a) El Director General del Sistema, quien convocará y presidirá sus sesiones;
+VI. Las atribuciones de las juntas académicas de este sistema serán las mismas que las establecidas para el sistema escolarizado;
 
-b) El Secretario del Sistema quien fungirá como Secretario del mismo;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
 
-c) Tres maestros de la carrera de que se trate:
-
-d) El representante maestro ante el Consejo Universitario; y
-
-e) El representante alumno ante el Consejo Universitario;
-
-VII. Las atribuciones de las juntas académicas y de los consejos técnicos de este sistema serán las mismas que las establecidas para el sistema escolarizado.
+VII. En el Estatuto General se establecerá la integración y atribuciones de los Consejos Técnicos del Sistema.
 
 ###### ARTICULO 80.
 
-Los requisitos para ser Director General del Sistema de Enseñanza Abierta serán los mismas (sic) que los establecidos para ser Director General de Area Académica. Sus atribuciones estarán indicadas en el Estatuto General.
+(DEROGADO, G.O. 28 DE DICIEMBRE DE 1996)
 
-### CAPITULO XII. DEL ABOGADO GENERAL
+### CAPITULO XI. DE LOS FUNCIONARIOS UNIVERSITARIOS
 
 ###### ARTICULO 81.
 
@@ -1155,7 +1289,7 @@ IV. Los demás que mencione el Estatuto General.
 
 Los requisitos que deberán reunir los funcionarios citados en este artículo se establecerán en la reglamentación universitaria correspondiente.
 
-### CAPITULO XIII. DEL CONTRALOR GENERAL
+### CAPITULO XII. DEL ABOGADO GENERAL
 
 ###### ARTICULO 82.
 
@@ -1189,39 +1323,19 @@ XI. Participar en las comisiones que tengan relación con la legislación univer
 
 XII. Las demás que se establezcan en la legislación universitaria.
 
-### CAPITULO XIV. DEL DIRECTOR DE PLANEACION INSTITUCIONAL
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO XIII
 
 ###### ARTICULO 84.
 
-El Contralor General es el encargado de supervisar y evaluar el correcto ejercicio de las actividades de la Universidad Veracruzana y dependerá directamente del Rector.
+(DEROGADO, G.O. 28 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 85.
 
-Son atribuciones del Contralor General:
+(DEROGADO, G.O. 28 DE DICIEMBRE DE 1996)
 
-I. Acordar con el Rector los asuntos de su competencia;
-
-II. Planear, programar, organizar, dirigir, coordinar y ejecutar las acciones de control de la Universidad Veracruzana, conforme a los ordenamientos legales existentes;
-
-III. Supervisar el ejercicio del presupuesto universitario y su correcta aplicación;
-
-IV. Informar al Rector los resultados de la evaluación integral del desarrollo de los programas a cargo de las dependencias de la Universidad Veracruzana y de los resultados de las auditorías practicadas;
-
-V. Supervisar que los recursos financieros que provengan de los subsidios federal y estatal, así como las cuotas arancelarias y de otras fuentes, sean canalizados hacia los objetivos propuestos en los programas respectivos;
-
-VI. Practicar las revisiones especiales que por acuerdo del Rector deban realizarse a las dependencias universitarias;
-
-VII. Hacer del conocimiento del Rector las conductas de los servidores universitarios, que en su opinión constituyan faltas o delitos, para la aplicación de la legislación respectiva;
-
-VIII. Participar en la simplificación de los procedimientos administrativos de las dependencias universitarias;
-
-IX. Orientar y apoyar a las autoridades y funcionarios de la Universidad Veracruzana en el cumplimiento de las declaraciones de bienes y cambios de situación patrimonial, coordinándose para ello con la Contraloría General del Estado;
-
-X. Atender las quejas y denuncias que presente la comunidad universitaria y los particulares, con respecto a acuerdos, convenios y contratos que celebre la Universidad Veracruzana; y
-
-XI. Las demás que le atribuyan las leyes, reglamentos y disposiciones aplicables, así como las que le confiera el Rector.
-
-### CAPITULO I. INTEGRACION, DERECHOS Y OBLIGACIONES
+### CAPITULO XIV. DEL DIRECTOR DE PLANEACION INSTITUCIONAL
 
 ###### ARTICULO 86.
 
@@ -1235,7 +1349,9 @@ I. Acordar con el Rector los asuntos de su competencia;
 
 II. Diseñar e implementar un sistema institucional de planeación, programación y evaluación así como coordinar su operación;
 
-III. Coordinar el proceso de integración, seguimiento y evaluación del Plan de Desarrollo Institucional y de los programas operativos anuales de las dependencias de la Universidad Veracruzana, con la participación de los Secretarios Académico y de Administración y Finanzas y del Coordinador General de Difusión Cultural y Extensión Universitaria;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+III. Coordinar el proceso de integración, seguimiento y evaluación del Plan de Desarrollo Institucional y de los programas operativos anuales de las dependencias de la Universidad Veracruzana, con la participación de los Secretarios Académicos y de Administración y Finanzas;
 
 IV. Diseñar y proponer estrategias para el desarrollo institucional;
 
@@ -1259,7 +1375,7 @@ XIII. Las demás que se señalen en la legislación universitaria.
 
 ## TITULO TERCERO. DE LA COMUNIDAD UNIVERSITARIA
 
-### CAPITULO II. DE LOS ALUMNOS
+### CAPITULO I. INTEGRACION, DERECHOS Y OBLIGACIONES
 
 ###### ARTICULO 88.
 
@@ -1271,7 +1387,11 @@ Las relaciones laborales entre la Universidad Veracruzana y el personal académi
 
 Las reglas correspondientes a los asuntos académicos y en particular el ingreso, promoción y permanencia del personal académico se regirán por las normas aprobadas por el Consejo Universitario General.
 
-### CAPITULO III. DE LOS PASANTES Y GRADUADOS
+> <small>(ADICIONADO, G.O. DE 28 DE DICIEMBRE DE 1996)</small>
+
+La seguridad social que reciben los trabajadores se proporcionará a través de los sistemas establecidos y los convenios celebrados al respecto.
+
+### CAPITULO II. DE LOS ALUMNOS
 
 ###### ARTICULO 90.
 
@@ -1303,7 +1423,7 @@ VII. El trámite de los asuntos académicos y administrativos invariablemente de
 
 Los alumnos serán sancionados cuando por cualquier medio impidan la realización de las actividades normales o cualquier tipo de evento académico en las facultades e institutos, centros o dependencias universitarias, o utilicen total o parcialmente las instalaciones para actividades distintas a las que están destinadas.
 
-### CAPITULO IV. DEL PERSONAL ACADEMICO
+### CAPITULO III. DE LOS PASANTES Y GRADUADOS
 
 ###### ARTICULO 94.
 
@@ -1323,7 +1443,7 @@ IV. Velar en todo momento por la supervivencia, el desarrollo y la superación d
 
 V. Las demás que se deriven de la legislación universitaria.
 
-### CAPITULO V. DEL PERSONAL ADMINISTRATIVO, TECNICO Y MANUAL
+### CAPITULO IV. DEL PERSONAL ACADEMICO
 
 ###### ARTICULO 96.
 
@@ -1369,7 +1489,7 @@ Previo examen de oposición y cubiertos los requisitos, los nombramientos del pe
 
 La contravención de estas disposiciones hacen nulos los nombramientos expedidos.
 
-### CAPITULO I. DE LAS RESPONSABILIDADES
+### CAPITULO V. DEL PERSONAL ADMINISTRATIVO, TECNICO Y MANUAL
 
 ###### ARTICULO 101.
 
@@ -1391,7 +1511,7 @@ El personal de confianza en los términos del ordenamiento universitario respect
 
 ## TITULO CUARTO. DE LAS RESPONSABILIDADES, INFRACCIONES Y SANCIONES
 
-### CAPITULO II. DE LAS INFRACCIONES Y SANCIONES
+### CAPITULO I. DE LAS RESPONSABILIDADES
 
 ###### ARTICULO 105.
 
@@ -1401,19 +1521,29 @@ Los miembros de la comunidad universitaria, serán responsables por el incumplim
 
 La responsabilidad se establece conforme a las reglas siguientes:
 
-I. El Rector será responsable ante el Gobernador del Estado y ante el Consejo Universitario General;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
 
-II. El Secretario Académico, el Secretario de Administración y Finanzas y el Coordinador General de Difusión Cultural y Extensión Universitaria serán responsables ante el Rector;
+I. El rector será responsable ante el Consejo Universitario General;
 
-III. Los Vice-Rectores serán responsables ante el Rector, los Secretarios y el Coordinador General de Difusión Cultural y Extensión Universitaria, en el ámbito de sus respectivas competencias;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
 
-IV. Los Directores Generales serán responsables ante el Rector, el Secretario que corresponda y el Coordinador General de Difusión Cultural y Extensión Universitaria, en el ámbito de sus respectivas competencias.
+II. El Secretario Académico y el Secretario de Administración y Finanzas serán responsables ante el Rector;
+
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+III. Los Vice-Rectores serán responsables ante el Rector y los Secretarios, en el ámbito de sus respectivas competencias;
+
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+IV. Los Directores Generales serán responsables ante el Rector y el Secretario que corresponda, en el ámbito de sus respectivas competencias;
 
 V. Los Directores de las Facultades, Institutos y del Sistema de Enseñanza Abierta serán responsables ante el Rector, ante el Secretario que corresponda y ante la Junta Académica;
 
 VI. Los secretarios de las facultades, institutos y del sistema de enseñanza abierta serán responsables ante el Rector, ante el Secretario que corresponda, ante la junta académica y ante su director; y
 
-VII. El Contralor, el Abogado General y el Director de Planeación Institucional serán responsables ante el Rector.
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1996)</small>
+
+VII. El Abogado General y el Director de Planeación Institucional serán responsables ante el Rector.
 
 ###### ARTICULO 107.
 
@@ -1426,6 +1556,8 @@ El personal académico y los alumnos serán responsables ante los órganos coleg
 ###### ARTICULO 109.
 
 El personal administrativo, técnico y manual de base será responsable ante el titular de la dependencia de su adscripción.
+
+### CAPITULO II. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 110.
 
@@ -1520,3 +1652,17 @@ SECRETARIO GENERAL DE GOBIERNO
 ROBERTO BRAVO GARZON
 
 SECRETARIO DE EDUCACION Y CULTURA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 28 DE DICIEMBRE DE 1996.
+
+PRIMERO. Esta ley entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
+
+SEGUNDO. En tanto que el Consejo Universitario General aprueba las modificaciones al Estatuto General y el Reglamento Especial para el sistema de enseñanza abierta a que se refiere la fracción VII del artículo 79 de esta reforma, la integración y atribuciones del Consejo técnico seguirán rigiéndose por lo dispuesto en el artículo 79 fracción VI de la ley orgánica en vigor.
+
+TERCERO. Los Directores de facultades e institutos nombrados en los términos de la ley vigente, ocuparán su cargo hasta concluir el periodo de tres años establecido por el artículo 69 de la misma.
+
+CUARTO. El Gobierno del Estado, a través de su Contraloría General, llevará a efecto los actos de auditoría para el periodo del primero de enero al treinta y uno de agosto de mil novecientos noventa y siete.
+
+QUINTO. La Controlaría General de la Universidad dependerá del Rector hasta el último día hábil del mes de agosto de mil novecientos noventa y siete.
