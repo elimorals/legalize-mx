@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-evaluacion-y-acreditacion-de-la-universidad-23699
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-16"
-last_updated: "2003-07-16"
+last_updated: "2004-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE EVALUACION Y ACREDITACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2004.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 16 de febrero de 2002.
 
@@ -147,13 +147,11 @@ Las calificaciones de cada cuatrimestre serán asentadas en el concentrado de ca
 
 El Director de la Carrera dispondrá del último día hábil de clases de cada cuatrimestre señalado en el calendario escolar, para entregar al Departamento de Servicios Escolares los concentrados de calificaciones finales debidamente firmados.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2004)</small>
+
 ###### ARTÍCULO 19.
 
-El alumno será dado de baja definitiva de la carrera, perdiendo todos sus derechos académicos, cuando se encuentre en cualquiera de los siguientes supuestos:
-
-I.- Cuando el alumno en cualquier período del cuatrimestre haya reprobado una o más evaluaciones remediales en tres o más asignaturas;
-
-II.- No haber acreditado una o más asignaturas en el período de regularización, mediante las evaluaciones previstas en este Reglamento.
+El alumno será dado de baja definitiva de la carrera, perdiendo todos sus derechos académicos, cuando después de no haber acreditado la evaluación de Última Asignatura y al estar cursando nuevamente el cuatrimestre respectivo, no acredite cualquier evaluación extraordinaria que presente.
 
 ###### ARTÍCULO 20.
 
@@ -217,9 +215,11 @@ II.- No haber presentado la Evaluación Ordinaria teniendo derecho a ella, previ
 
 El alumno tendrá derecho a presentar hasta cuatro Evaluaciones Remediales de cada Evaluación Ordinaria, practicada en cada periodo de evaluación.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2004)</small>
+
 ###### ARTÍCULO 31.
 
-Para tener derecho a la Evaluación Remedial el alumno deberá cumplir con los requisitos establecidos en las fracciones II, III y IV del artículo 26 de este Reglamento.
+Para tener derecho a la Evaluación Remedial, el alumno además de pagar el costo del mismo, deberá cumplir con los requisitos establecidos en las fracciones II, III y IV del artículo 26 de este Reglamento.
 
 ###### ARTÍCULO 32.
 
@@ -237,9 +237,11 @@ Cuando un alumno no presente una Evaluación Remedial se asentará en el concent
 
 La Evaluación Extraordinaria, es aquella que se lleva a cabo conforme al artículo 2°; cuando el alumno no acreditó la asignatura en la Evaluación Remedial.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2004)</small>
+
 ###### ARTÍCULO 35.
 
-El alumno tendrá derecho a presentar como máximo dos Evaluaciones Extraordinarias en cada cuatrimestre.
+El alumno tendrá derecho a presentar evaluaciones extraordinarias en dos asignaturas como máximo, en cada cuatrimestre.
 
 ###### ARTÍCULO 36.
 
@@ -307,9 +309,11 @@ Las calificaciones de Última Asignatura deberán ser registradas en los concent
 
 ### CAPÍTULO SEXTO. EVALUACIÓN A TÍTULO DE SUFICIENCIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE ENERO DE 2004)</small>
+
 ###### ARTÍCULO 47.
 
-La evaluación a Título de Suficiencia, es el procedimiento de evaluación por el cual el alumno acredita tener los conocimientos necesarios correspondientes a cierta asignatura, adquiridos en forma autodidacta, en otra institución educativa sin acreditarlo, o a través de la experiencia laboral.
+La evaluación a Título de Suficiencia, es el procedimiento de evaluación por el cual el alumno acredita tener los conocimientos necesarios correspondientes a cierta asignatura, adquiridos en forma autodidacta, en otra institución educativa, o a través de la experiencia laboral.
 
 La evaluación a Título de Suficiencia estará integrada por la totalidad de las unidades de aprendizaje del programa vigente de estudios de la asignatura respectiva.
 
@@ -317,15 +321,21 @@ La evaluación a Título de Suficiencia procederá:
 
 I.- En los casos de reingreso de exalumnos que habiendo cursado con anterioridad en el Subsistema Nacional de Universidades Tecnológicas asignaturas de un plan de estudios diferente al vigente y que soliciten su reingreso a la Institución.
 
-II.- Cuando los interesados se encuentren laborando en el Sector Productivo.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2004)</small>
+
+II.- Cuando el alumno demuestre haber adquirido los conocimientos de manera autodidacta, en otra institución educativa o a través de la experiencia laboral.
 
 ###### ARTÍCULO 48.
 
 La evaluación a Título de Suficiencia deberá sujetarse a lo siguiente:
 
-I.- El Director de la Carrera correspondiente deberá solicitar por escrito al Departamento de Servicios Escolares, la aplicación de la evaluación a Título de Suficiencia, emitiendo la autorización correspondiente en los casos en que ésta proceda.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2004)</small>
 
-II.- La evaluación a Título de Suficiencia será elaborada, aplicada y revisada por una Comisión integrada por el Director de Carrera que corresponda quien la presidirá, y por dos profesores con conocimientos de la asignatura que se vaya a evaluar, designados por el Director de la Carrera correspondiente.
+I.- El alumno solicitará por escrito al Director de Carrera correspondiente, la aplicación de la evaluación a Título de Suficiencia, emitiendo éste la procedencia del mismo al Departamento de Servicios Escolares.
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2004)</small>
+
+II.- La evaluación a Título de Suficiencia, de acuerdo al modelo teórico práctico, será elaborada, aplicada y revisada por una Comisión integrada por el Director de Carrera que corresponda quien presidirá, y por dos profesores con conocimientos de la asignatura que se vaya a evaluar, designados por el Director de la carrera correspondiente.
 
 III.- La Comisión deberá remitir al Departamento de Servicios Escolares el resultado de la evaluación a Título de Suficiencia el día hábil siguiente al de su aplicación.
 
@@ -333,15 +343,23 @@ IV.- El Departamento de Servicios Escolares notificará personalmente al alumno 
 
 V.- Las calificaciones del examen a Título de Suficiencia deberán ser registradas en los concentrados de calificaciones que para tal efecto expida el Departamento de Servicios Escolares.
 
-VI.- Para tener derecho de presentar él o los exámenes a Título de Suficiencia, será requisito indispensable ser alumno inscrito habiendo realizado su pago de reinscripción correspondiente.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2004)</small>
+
+VI.- Para tener derecho a presentar la o las evaluaciones a Título de Suficiencia, será requisito indispensable ser alumno inscrito, habiendo realizado su pago de inscripción o reinscripción correspondiente.
 
 VII.- Cubrir el importe de los derechos de la evaluación a Título de Suficiencia, en las fechas establecidas por el departamento de Servicios Escolares y cuyo costo será el equivalente al de un examen extraordinario.
 
-VIII.- El alumno podrá presentar el o los exámenes a Título de Suficiencia en un plazo máximo de un año a partir de su reingreso a la Universidad.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2004)</small>
 
-IX.- El alumno tendrá como máximo dos oportunidades para acreditar la asignatura respectiva en la evaluación a Título de Suficiencia.
+VIII.- El alumno podrá presentar la o las evaluaciones a Título de Suficiencia en un plazo máximo de treinta días hábiles a partir de su ingreso o reingreso al cuatrimestre correspondiente.
 
-X.- De no acreditar la asignatura en las dos oportunidades, el alumno será dado de baja definitiva de la Universidad.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2004)</small>
+
+IX.- El alumno tendrá sólo una oportunidad para acreditar la asignatura respectiva en la evaluación a Título de Suficiencia, y sólo podrá aprobar por medio de este tipo de evaluación como máximo una tercera parte de las materias del cuatrimestre.
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2004)</small>
+
+X.- De no acreditar la asignatura, el alumno deberá de cursarla de manera regular.
 
 XI.- El Director de la carrera indicará al profesor tutor del alumno, que programe el o los exámenes a título de suficiencia, así como las asesorías correspondientes.
 
@@ -450,5 +468,9 @@ Lic. Laura O. Bañuelos Quintero
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
 
 P.O. 16 DE JULIO DE 2003.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
+
+P.O. 31 DE ENERO DE 2004.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
