@@ -4,7 +4,7 @@ identifier: "CAM-ley-reglamentaria-del-capitulo-xvii-de-la-constitucion-25356"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-03"
-last_updated: "2002-07-03"
+last_updated: "2003-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY REGLAMENTARIA DEL CAPITULO XVII DE LA CONSTITUCION POLITICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el miércoles 3 de julio de 2002.
 
@@ -735,7 +735,15 @@ Primero.- El presente decreto entrará en vigor el día 16 de septiembre del añ
 
 Segundo.- Se abroga la Ley de Responsabilidades de los Servidores Públicos del Estado de Campeche expedida por la LI Legislatura de este Congreso, el 18 de diciembre de 1984, bajo decreto número 156, publicada en la Segunda Sección del Periódico Oficial del Estado el día 19 de ese mismo mes y año; y se derogan todas las demás disposiciones legales en lo que se opongan al contenido de este Decreto.
 
-Tercero.- Las Instituciones Públicas que carezcan de los Órganos Internos de Control y sistemas a que alude la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche, dispondrán para su establecimiento de un plazo que no excederá de treinta días hábiles, contados a partir de la fecha en que la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado entre en vigor, para lo cual realizarán las adecuaciones procedentes a su presupuesto de egresos, reglamentos interiores y manuales de organización o disposiciones equivalentes. La Secretaría de la Contraloría, una vez establecidos dichos Órganos Internos de Control les remitirá debidamente inventariados la documentación que obre en su poder y cuyo conocimiento y manejo corresponda a tales Órganos. Para este efecto la Secretaría contará con un plazo de treinta días hábiles contados a partir del día siguiente al en que se le comunique el establecimiento del respectivo Órgano Interno de Control.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2003)</small>
+
+Tercero.- Las Instituciones Públicas que carezcan de los Órganos Internos de Control y sistemas a que alude la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche, dispondrán para su instalación e inicio de operaciones de un plazo que no excederá al día 1 de enero de 2005, para lo cual las erogaciones que se causen deberán preverse en el Presupuesto de Egresos del ejercicio fiscal respectivo, del mismo modo procederán a efectuar las modificaciones que correspondan a sus reglamentos interiores, manuales en general o disposiciones equivalentes, así como a promover las modificaciones legales que correspondan para su adecuada instalación y funcionamiento. La Secretaría de la Contraloría, una vez establecidos dichos Órganos Internos de Control les remitirá, debidamente inventariada, la documentación que obre en su poder y cuyo conocimiento y manejo corresponda a tales órganos. Para ese efecto la Secretaría tendrá un plazo de treinta días hábiles contados a partir del día siguiente al que se le comunique la instalación del respectivo Órgano Interno de Control. Mientras entran en operación los Órganos Internos de Control en las instituciones públicas que carezcan de ellos, las funciones que la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche les confiere se llevarán a cabo por la dependencia, órgano o comisión que las tenía a su cargo en términos de la ley que se abroga.
+
+Por lo que respecta a la instalación e inicio de operaciones de los citados Órganos Internos de Control de la administración pública estatal se realizarán en los plazos siguientes:
+
+Los que correspondan a las instituciones públicas centralizadas tendrán como plazo máximo el día 30 de junio del 2004; y
+
+Los referentes a las instituciones públicas descentralizadas y las empresas de participación estatal mayoritaria tendrán como plazo máximo hasta el día 31 de diciembre del 2004.
 
 Cuarto.- Como integrantes de los Órganos Internos de Control no podrán fungir los servidores públicos que formen parte del órgano superior de dirección de la Institución Pública a la que ese Órgano corresponda.
 
@@ -747,8 +755,16 @@ Séptimo.- Las menciones que en otras leyes, reglamentos y demás disposiciones 
 
 Octavo.- El Congreso, el Gobernador, el Tribunal Superior de Justicia, los Ayuntamientos y los Organismos Públicos Autónomos, tienen el plazo de treinta días hábiles, contados a partir del día siguiente a la fecha en que entren en vigor las modificaciones a la Ley Orgánica de los Municipios y a la Ley de Control Presupuestal y Gasto Público, para publicar, en el Periódico Oficial del Estado, los tabuladores de puestos y sueldos de los servidores públicos, de sus respectivas adscripciones, para el ejercicio fiscal 2003.
 
-Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de Campeche, Campeche, a los veintiocho días del mes de junio del año dos mil dos.- C. Juan José Boeta Tous, Diputado Presidente.- C. Vicente Castellot Castro, Diputado Secretario, C. Jorge Jiménez Domínguez, Diputado Secretario.- Rúbricas.
+Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de Campeche, Campeche, a los veintiocho días del mes de junio del año dos mil dos. C.- Juan José Boeta Tous, Diputado Presidente.- C. Vicente Castellot Castro, Diputado Secretario, C. Jorge Jiménez Domínguez, Diputado Secretario.- Rúbricas.
 
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, los sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, el día uno del mes de Julio del año dos mil dos.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, L.A. JOSE ANTONIO GONZALEZ CURI.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS FELIPE ORTEGA RUBIO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE OCTUBRE DE 2003
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
