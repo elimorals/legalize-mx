@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1987-12-31"
+last_updated: "1988-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1988.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -88,19 +88,9 @@ c).- Vehículos sujetos a matrícula o registro mexicanos.
 
 d).- Inmuebles.
 
-II.- La prestación parcial en las franjas o zonas de los servicios independientes, así como de los siguientes:
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-a).- El transporte aéreo.
-
-b).- Servicios telefónicos, de energía eléctrica y los de señal de televisión por cable o por cualquier otro medio distinto al de radiodifusión general.
-
-c).- Los prestados por instituciones de crédito, y de seguros, así como a los usuarios de tarjetas de crédito por la cantidad que ellos paguen por la apertura de crédito y por la prórroga para su ejercicio.
-
-d).- Los de panteones.
-
-e).- Los de estacionamientos de vehículos.
-
-f).- Los personales independientes y los prestados por los agentes aduanales y de bienes inmuebles.
+II.- La prestación de servicios independientes.
 
 III.- El uso o goce temporal de inmuebles.
 
@@ -280,11 +270,11 @@ El impuesto del ejercicio, deducidos los pagos provisionales mensuales se pagar�
 
 Tratándose de importación de bienes tangibles el pago se hará como lo establece el artículo 28. Para los efectos de esta Ley son bienes tangibles los que se pueden tocar, pesar o medir; e intangibles los que no tienen al menos una de estas características.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 6o.
 
-Cuando en la declaración de pago provisional mensual resulte saldo a favor, el contribuyente podrá acreditarlo contra el impuesto a su cargo que le corresponda en los meses siguientes hasta agotarlo o solicitar su devolución mensual siempre que, en este último caso, se trate de contribuyentes dedicados a la agricultura, ganadería, avicultura o pesca, así como cuando derive de inversiones relacionadas directamente con actividades empresariales, para la construcción o adquisición de inmuebles e instalaciones, maquinaria y equipo, gastos e inversiones en periodos preoperativos, así como los bienes o servicios a que se refiere el artículo 29 de esta Ley cuando unos u otros se exporten. Los saldos que resulten a favor del contribuyente en la última declaración mensual de su ejercicio no se podrán acreditar en declaraciones posteriores.
+Cuando en la declaración de pago provisional mensual resulte saldo a favor, el contribuyente podrá acreditarlo contra el impuesto a su cargo que le corresponda en los meses siguientes hasta agotarlo o solicitar su devolución, siempre que en este último caso sea sobre el total del saldo a favor. Los saldos que resulten a favor del contribuyente en la última declaración mensual de su ejercicio no se podrán acreditar en declaraciones mensuales posteriores.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -293,6 +283,10 @@ Si en la declaración del ejercicio el contribuyente tuviera cantidades a su fav
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 Los saldos cuya devolución se solicite no podrán acreditarse en declaraciones posteriores.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+Lo dispuesto en este artículo no será aplicable a los contribuyentes que opten por pagar el impuesto sobre la renta conforme a bases especiales de tributación distintos a aquéllos dedicados a actividades agrícolas, ganaderas, avícolas o de pesca.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -459,6 +453,10 @@ f).- Deriven de obligaciones emitidas conforme a lo dispuesto en la Ley General 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
 g).- Reciban o paguen las instituciones públicas que emitan bonos y administren planes de ahorro con la garantía incondicional de pago del Gobierno Federal, conforme a la Ley.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+h).- Deriven de certificados y pagarés de la Tesorería de la Federación o de bonos de desarrollo del Gobierno Federal, siempre que se cumpla con los requisitos que para tal efecto señala la fracción XXI del artículo 77 de la Ley del Impuesto sobre la Renta.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -872,8 +870,6 @@ Las autoridades fiscales podrán incrementar la estimación del valor de los act
 
 Las estimaciones que realicen las autoridades fiscales se harán por ejercicios y se dividirán entre seis para los efectos del pago bimestral.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO DECIMOQUINTO, FRACCION II DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1987.</small>
-
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
 La estimación del impuesto acreditable, se hará conforme a los porcientos de acreditamiento que en cada caso señale el Reglamento de esta Ley.
@@ -1229,3 +1225,19 @@ c).- Presentar la solicitud de devolución ante la autoridad fiscal competente q
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1988.
+
+D.O.F. 31 DE DICIEMBRE DE 1988.
+
+Disposición Transitoria
+
+ARTICULO DECIMOSEGUNDO.- Lo dispuesto en el Artículo DECIMOSEXTO de la Ley que Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales, publicada en el Diario Oficial de la Federación, el día 31 de diciembre de 1987, se seguirá aplicando en materia del impuesto al valor agregado, durante el año de 1989.
+
+Disposición de vigencia anual
+
+ARTICULO DECIMOTERCERO.- Durante el año de 1989, se aplicará la tasa del 0% para calcular el impuesto al valor agregado por la enajenación e importación de productos destinados a la alimentación y medicinas de patente, con excepción de los mencionados en los incisos a) y b) de la fracción I del artículo 2o.-B y de los contenidos en el artículo 2o.-C de la Ley de la materia.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1989.
