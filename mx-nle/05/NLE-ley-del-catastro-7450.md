@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "1991-12-30"
+last_updated: "1992-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -203,13 +203,13 @@ Las Bases Generales de Valores por Unidades Tipo y los Valores catastrales de lo
 
 El ajuste anual no será aplicable a los Valores por Unidades Tipo que hayan sido objeto de revisión conforme al artículo anterior, en el año en que entre en vigor la modificación que se les efectúe con motivo de esa revisión.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 21.
 
-El avalúo de los predios se hará con estricto apego a las Bases Generales de Valores por Unidades Tipo. No obstante lo anterior, para los efectos de la aplicación del Impuesto Predial, el Valor Catastral de los predios en ningún caso podrá ser inferior a $2'000,000.00. En el Reglamento de esta Ley se señalará el procedimiento para formular los avalúos.
+El avalúo de los predios se hará con estricto apego a las Bases Generales de Valores por Unidad Tipo, sin exceder de su valor comercial. En el Reglamento de esta Ley se señalará el procedimiento para formular los avalúos.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 21o.
 
@@ -365,9 +365,15 @@ Conforme a lo dispuesto por el artículo 20 la Ley del Catastro, durante el año
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-###### ARTICULO 13º.
+###### ARTICULO 13o.
 
 Conforme a lo dispuesto por el Artículo 20 de la Ley del Catastro, durante el año de 1992 se aplicará un incremento a las Bases Generales de Valores por Unidades Tipo y los valores catastrales, en un 75 % respecto de los terrenos y en lo que respecta a las construcciones, en un 20 % tratándose de industrias y comercios y en un 75 % tratándose de casas-habitación y mejoras de cualquier otro tipo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 14o.
+
+En los términos previstos por los artículos 20 y 21 de la Ley de Catastro, durante el año de 1993 se aplicará un incremento del 100% en las Bases Generales de Valores por Unidad Tipo y en los valores catastrales.
 
 Lo tendrá entendido el C. Gobernador Constitucional del Estado, mandándolo imprimir, publicar y circular a quienes corresponda.
 
@@ -512,3 +518,7 @@ UNICO.- El presente Decreto entrará en vigor el día 1° de Enero de 1991.
 P.O. 30 DE DICIEMBRE DE 1991.
 
 UNICO:- EL presente Decreto entrará en vigor el día 1º. de Enero de 1992.
+
+P.O. 30 DE DICIEMBRE DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor el día 1º de Enero de 1993.
