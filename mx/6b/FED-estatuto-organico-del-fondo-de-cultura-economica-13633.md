@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-fondo-de-cultura-economica-13633"
 country: "mx"
 rank: "estatuto"
 publication_date: "1995-10-06"
-last_updated: "2001-05-04"
+last_updated: "2002-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13633&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1995-09-13"
 
 ESTATUTO ORGANICO DEL FONDO DE CULTURA ECONOMICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MAYO DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL ESTATUTO ORGANICO DEL FONDO DE CULTURA ECONOMICA, PUBLICADO EN EL D.O.F. DE 15 DE OCTUBRE DE 2002, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en el Diario Oficial de la Federación, el viernes 6 de octubre de 1995.
 
@@ -934,3 +936,9 @@ D.O.F. 4 DE MAYO DE 2001.
 Primero. El presente Estatuto Orgánico entrará en vigor al día siguiente de su aprobación por la Junta Directiva del Fondo de Cultura Económica, debiendo publicarse en el Diario Oficial de la Federación, al igual que las reformas así aprobadas.
 
 Segundo. Se derogan las disposiciones internas de carácter administrativo que se opongan a lo previsto por este Estatuto Orgánico.
+
+D.O.F. 15 DE OCTUBRE DE 2002.
+
+Primero.- Se abroga el Estatuto Orgánico del Fondo de Cultura Económica, publicado en el Diario Oficial de la Federación el 4 de mayo de 2001, así como aquellas disposiciones internas de carácter administrativo que se opongan al presente ordenamiento.
+
+Segundo.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
