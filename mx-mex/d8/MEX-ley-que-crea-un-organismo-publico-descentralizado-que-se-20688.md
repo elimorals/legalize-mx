@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-un-organismo-publico-descentralizado-que-se-20688"
 country: "mx"
 rank: "ley"
 publication_date: "1970-01-03"
-last_updated: "1996-02-22"
+last_updated: "2003-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20688&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY QUE CREA UN ORGANISMO PUBLICO DESCENTRALIZADO QUE SE DENOMINARA "INSTITUTO DE ACCION URBANA E INTEGRACION SOCIAL"
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 22 DE FEBRERO DE 1996.
+> <small>N. DE E. EL PRESENTE DECRETO HA SIDO ABROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL, PUBLICADO EN LA GACETA DEL GOBIERNO EL 23 DE SEPTIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Ley publicada en la Gaceta del Gobierno, el 3 de enero de 1970.
 
@@ -171,7 +173,7 @@ Articulo Segundo.- Este Decreto entrará en vigor al día siguiente de su public
 
 LO TENDRA ENTENDIDO EL GOBERNADOR DEL ESTADO, HACIENDO QUE SE PUBLIQUE Y SE CUMPLA.
 
-Dado en el Palacio del Poder Legislativo, en Toluca de Lerdo, a los treinta días del mes de diciembre de mil novecientos sesenta y nueve.- Diputado Presidente.- Jesús García Lovera; Diputado Secretario.- C. Javier Vélez Gómez; Diputado Secretario; C .Javier Barrios González.
+Dado en el Palacio del Poder Legislativo, en Toluca de Lerdo, a los treinta días del mes de diciembre de mil novecientos sesenta y nueve.- Diputado Presidente.- Jesús García Lovera; Diputado Secretario.- C. Javier Vélez Gómez; Diputado Secretario; C. Javier Barrios González.
 
 Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
 
@@ -196,3 +198,33 @@ Publíquese el presente decreto en la Gaceta del Gobierno.
 ###### ARTICULO SEGUNDO.
 
 Este decreto entrará en vigor el día siguiente de su publicación en la Gaceta del Gobierno.
+
+G.G. 23 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Decreto por el que se expide la Ley que crea el Organismo Público Descentralizado que se denominará "Instituto de Acción Urbana e Integración Social", publicado en el periódico oficial "Gaceta del Gobierno" el 3 de enero de 1970.
+
+CUARTO.- Se abroga el Decreto por el que se expide la Ley que Crea el Organismo Público Descentralizado de carácter estatal denominado "Comisión para la Regulación del Suelo del Estado de México", publicado en el periódico oficial "Gaceta del Gobierno" el 24 de agosto de 1983.
+
+QUINTO.- Las Secretarías de Desarrollo Urbano y Vivienda, de Finanzas y Planeación, de Administración y de la Contraloría, en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SEXTO.- La integración del Consejo Directivo y la designación del Director General, deberán hacerse dentro del primer mes de vigencia de esta Ley.
+
+SEPTIMO.- Los recursos humanos, materiales y financieros con los que venían operando el Instituto de Acción Urbana e Integración Social y la Comisión para la Regulación del Suelo del Estado de México, se transferirán al Instituto.
+
+OCTAVO.- Se respetarán los derechos laborales adquiridos por los servidores públicos adscritos a la Comisión para la Regulación del Suelo del Estado de México y al Instituto de Acción Urbana e Integración Social que pasen a formar parte del Instituto.
+
+NOVENO.- Se subrogan al Instituto los derechos y obligaciones de la Comisión para la Regulación del Suelo del Estado de México y del Instituto de Acción Urbana e Integración Social.
+
+DECIMO.- El Ejecutivo del Estado ejercitará a través del Instituto, los beneficios fiscales federales que reciba con motivo de sus atribuciones.
+
+DECIMO PRIMERO.- Cada que se haga referencia en algún ordenamiento legal de la Comisión para la Regulación del Suelo del Estado de México y al Instituto de Acción Urbana e Integración Social, se entenderá que se hace del Instituto.
+
+DECIMO SEGUNDO.- El Consejo Directivo expedirá su reglamento interno en un plazo no mayor de 90 días, a partir de la fecha en que tenga lugar su primera sesión.
+
+DECIMO TERCERO.- En su oportunidad la Legislatura del Estado emita una ley en materia de programas de vivienda social.
+
+DECIMO CUARTO.- Se deberán realizar las reformas necesarias a los ordenamientos financieros para el cabal cumplimiento del presente decreto.
