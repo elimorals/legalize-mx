@@ -1,0 +1,606 @@
+---
+title: "LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEON"
+identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844"
+country: "mx"
+rank: "ley"
+publication_date: "2005-01-07"
+last_updated: "2005-01-07"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-nle"
+scjn_id: "42844"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "3"
+reform_count: "25"
+scjn_last_update: "2025-09-29"
+issue_date: "2004-12-20"
+state: "NLE"
+---
+# LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEON
+
+LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEON
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
+
+EL C. JOSÉ NATIVIDAD GONZÁLEZ PARÁS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, A TODOS SUS HABITANTES HAGO SABER:
+
+Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
+
+DECRETO Núm........ 167
+
+LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
+
+## TÍTULO PRIMERO
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+
+###### Artículo 1º.
+
+La presente Ley es de orden público, interés social y de observancia general en el Estado de Nuevo León. Tiene por objeto garantizar el ejercicio de los derechos de las Personas Adultas Mayores, así como establecer las bases y disposiciones para su cumplimiento.
+
+###### Artículo 2º.
+
+Toda persona que cuente con sesenta años o más de edad, sin distinción alguna, gozará de los beneficios de esta Ley sin perjuicio de lo establecido en otras disposiciones.
+
+La responsabilidad de vigilancia, seguimiento y aplicación de esta Ley, estará a cargo de:
+
+I. El Titular del Poder Ejecutivo, a través de sus dependencias y entidades;
+
+II. El Poder Legislativo del Estado de Nuevo León;
+
+III. Los municipios, a través de sus dependencias y entidades;
+
+IV. La familia de la Persona Adulta Mayor; y
+
+V. Los habitantes del Estado y la Sociedad civil Organizada, cualquiera que sea su forma o denominación.
+
+Los sectores público, social y privado, en términos de lo dispuesto por este artículo, celebrarán los convenios o acuerdos de colaboración entre sí, y con las instancias federales correspondientes que realicen alguna o varias actividades que constituyen el objeto de esta Ley.
+
+###### Artículo 3º.
+
+Para los efectos de esta Ley, se entenderá por:
+
+I. Personas Adultas Mayores: Aquellas que cuentan con sesenta años o más de edad y que se encuentren domiciliadas o de paso en el Estado de Nuevo León; mismas que podrán estar en las siguientes condiciones:
+
+a) Independientes: cuando sean aptas para desarrollar actividades físicas, mentales o ambas sin ayuda permanente.
+
+b) Semi Dependiente: cuando sus condiciones físicas y mentales aún les permiten valerse por sí mismas, aunque con ayuda permanente parcial.
+
+c) Dependientes absolutos: cuando sufran de una enfermedad crónica o degenerativa por la que requieran ayuda permanente total o la canalización a alguna institución de asistencia.
+
+d) En situación de riesgo o desamparo: cuando por problemas de salud, abandono, carencia de apoyos económicos, familiares, contingencias ambientales o desastres naturales, requieran de asistencia y protección del Gobierno del Estado y de la Sociedad civil Organizada; y
+
+e) Pensionados: cuando en virtud de un sistema de seguridad social, tengan otorgada pensión.
+
+II. Asistencia Social: Al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física o mental; propiciando su incorporación plena a la sociedad.
+
+III. Comité Técnico: Al Comité Técnico para la atención a los adultos mayores;
+
+IV. Ley: A la Ley de los Derechos de las Personas Adultas Mayores del Estado de Nuevo León;
+
+V. Geriatría: A la especialidad médica dedicada al estudio de las enfermedades propias de las Personas Adultas Mayores;
+
+VI. Gerontología: Al estudio científico sobre la vejez y de las cualidades y fenómenos propios de la misma;
+
+VII. Integración social: Al resultado del conjunto de acciones que realizan las dependencias y entidades estatales o municipales o, en su caso, la sociedad civil Organizada, encaminadas a modificar y superar las circunstancias que impidan a las Personas Adultas Mayores su desarrollo integral;
+
+VIII. Familia: Los parientes de las Personas Adultas Mayores, atendiendo a lo dispuesto por las reglas del parentesco estipuladas en el Código Civil del Estado de Nuevo León, así como el matrimonio y concubinato; y
+
+IX. Atención Médica: El conjunto de servicios integrales para la prevención, tratamiento, curación y rehabilitación que se proporcionan a las Personas Adultas Mayores en todos los niveles, con el fin de proteger, promover y restaurar su salud.
+
+## TÍTULO SEGUNDO. PRINCIPIOS Y DERECHOS
+
+### CAPÍTULO I. DE LOS PRINCIPIOS
+
+###### Artículo 4º.
+
+son principios rectores en la observación y aplicación de esta Ley:
+
+I. La autonomía y autorrealización: Entendidas como las acciones que se realicen en beneficio de las Personas Adultas Mayores, tendientes a fortalecer su independencia personal, su capacidad de decisión, desarrollo personal e integración en la comunidad;
+
+II. La participación: Correspondiente a la incorporación de las Personas Adultas Mayores en todos los órdenes de la vida pública, a través de la consulta, la promoción de su presencia e intervención en ella;
+
+III. La equidad: Consistente en hacer justicia a personas mayores que han sufrido marginación y exclusión, reconociendo la plenitud de sus derechos y su aporte a la sociedad, dándoles el apoyo y las oportunidades que les corresponden como personas;
+
+IV. La corresponsabilidad: Considerada como la concurrencia de los sectores público, privado, social y en especial de las familias de las Personas Adultas Mayores por una actitud de responsabilidad compartida para la consecución del objeto de la presente Ley; y
+
+V. La atención preferente: Entendida como la obligación del gobierno estatal y municipal dentro de sus respectivas atribuciones y competencias a implementar programas acordes a las diferentes etapas, características y circunstancias de las Personas Adultas Mayores.
+
+### CAPÍTULO II. DE LOS DERECHOS
+
+###### Artículo 5º.
+
+En los términos del artículo 1º de esta Ley, se reconocen los siguientes derechos de las Personas Adultas Mayores:
+
+I. La integridad y dignidad, que comprenden:
+
+a) La vida con calidad, siendo obligación de la familia, de los órganos estatales y municipales de gobierno de acuerdo a sus respectivas competencias y de la sociedad en general, garantizar a las Personas Adultas Mayores, no sólo su supervivencia sino una existencia digna con el acceso efectivo a los mecanismos necesarios para ello;
+
+b) La no discriminación, por lo que la observancia a sus derechos se hará sin distinción alguna;
+
+c) Una vida libre de violencia física y moral;
+
+d) Ser respetados en su persona y en su integridad física, psicoemocional y sexual;
+
+e) Ser protegidos contra toda forma de explotación;
+
+f) Recibir protección por parte de su familia, así como del gobierno estatal y de los municipales dentro de sus respectivas atribuciones y competencias y de la sociedad en general;
+
+g) Gozar de oportunidades, para mejorar progresivamente las capacidades que les faciliten el ejercicio de sus derechos en condiciones de igualdad; y
+
+h) Vivir en entornos seguros y dignos que cumplan con sus necesidades y requerimientos y en donde ejerzan libremente sus derechos.
+
+II. La certeza jurídica y la vida en familia, que incluyen:
+
+a) Vivir en el seno de su Familia o a mantener relaciones personales y contacto directo con ella aún en el caso de estar separados;
+
+b) Expresar su opinión libremente, conocer sus derechos y participar en el ámbito familiar y comunitario, así como en todo procedimiento administrativo o judicial que afecte sus esferas personal, familiar y social;
+
+c) Recibir un trato digno y apropiado en cualquier procedimiento judicial o administrativo que los involucre;
+
+d) Recibir el apoyo del gobierno estatal y de los municipales de acuerdo a sus respectivas competencias en lo relativo al ejercicio y respeto de sus derechos, a través de las instituciones creadas para tal efecto; y
+
+e) Contar con asesoría jurídica gratuita y con un representante legal cuando lo considere necesario, poniendo especial cuidado en la protección de su patrimonio personal y familiar y cuando sea el caso, testar sin presiones ni violencia.
+
+III. La salud y la alimentación, que comprenden:
+
+a) Tener acceso a los satisfactores necesarios, considerando alimentos, bienes, servicios y las condiciones humanas o materiales, para su atención integral;
+
+b) Tener acceso preferente a los servicios de salud, en los términos del párrafo cuarto del artículo 4 de la Constitución Política de los Estados Unidos Mexicanos, con el objeto de que gocen cabalmente de bienestar físico, mental, psicoemocional y sexual; y
+
+c) Recibir orientación y capacitación en materia de salud, nutrición e higiene, así como a todo aquello que favorezca su cuidado personal.
+
+IV. La educación, recreación, información y participación, que incluyen:
+
+a) Conformar organizaciones para promover su desarrollo e incidir en las acciones dirigidas a este sector;
+
+b) Recibir información sobre las instituciones que prestan servicios para su atención integral;
+
+c) Recibir de manera preferente, educación conforme lo señala el artículo 3º de la Constitución Política de los Estados Unidos Mexicanos;
+
+d) Participar en la vida cultural, deportiva y recreativa de su comunidad;
+
+e) Participar en los procesos productivos, de educación y capacitación de su comunidad; y
+
+f) Formar parte de los diversos órganos de representación y consulta ciudadana.
+
+V. El trabajo, que comprende:
+
+a) Gozar de oportunidades de acceso al trabajo que les permitan un ingreso, a recibir una capacitación adecuada, así como recibir la protección de las disposiciones de la Ley Federal del Trabajo y de otros ordenamientos de carácter laboral.
+
+VI. Asistencia social, que incluye:
+
+a) Ser sujeto de programas de asistencia social cuando se encuentren en caso de desamparo, discapacidad o pérdida de sus medios de subsistencia.
+
+## TÍTULO TERCERO
+
+### CAPÍTULO ÚNICO. DE LAS OBLIGACIONES DE LA FAMILIA
+
+###### Artículo 6º.
+
+La Familia de la Persona Adulta Mayor deberá cumplir su función social. Por lo tanto, de manera constante y permanente deberá hacerse cargo de las Personas Adultas Mayores que formen parte de ella, conociendo sus necesidades y proporcionándoles los elementos necesarios para su atención integral.
+
+###### Artículo 7º.
+
+El lugar idóneo para una Persona Adulta Mayor es su hogar. Sólo en caso de prescripción médica, decisión personal o la falta de condiciones propicias para su atención integral en el seno del hogar, su cónyuge, concubinario o familiares podrán solicitar su ingreso en alguna institución asistencial pública o privada dedicada al cuidado de las Personas Adultas Mayores.
+
+###### Artículo 8º.
+
+La familia tendrá las siguientes obligaciones:
+
+I. Otorgar alimentos a las Personas Adultas Mayores, de conformidad con lo dispuesto en el Código Civil para el Estado;
+
+II. Fomentar la convivencia familiar cotidiana donde las Personas Adultas Mayores participen activamente;
+
+III. Conocer los derechos de las Personas Adultas Mayores, previstos en esta Ley, en la Constitución Política del Estado de Nuevo León y demás ordenamientos para su debida observancia; y
+
+IV. Evitar que alguno de sus integrantes o cualquier persona cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia o actos jurídicos que pongan en riesgo la persona, bienes o derechos de las Personas Adultas Mayores.
+
+###### Artículo 9º.
+
+Todas las instituciones públicas y privadas que desarrollen Programas de atención a las Personas Adultas Mayores, deberán tomar las medidas de prevención para que la familia participe en la atención de este sector de la población, especialmente de las que se encuentren en situación de riesgo o desamparo.
+
+## TÍTULO CUARTO. DE LAS FACULTADES Y OBLIGACIONES DE LAS AUTORIDADES
+
+### CAPÍTULO I. DEL TITULAR DEL EJECUTIVO DEL ESTADO
+
+###### Artículo 10.
+
+Corresponde al Titular del Ejecutivo del Estado, en relación a las Personas Adultas Mayores:
+
+I. Realizar, promover y alentar los programas de asistencia, protección, provisión, prevención, participación y atención;
+
+II. Concertar con la Federación y Municipios los convenios que se requieran para la realización de programas de defensa y representación jurídica, protección, provisión, prevención, participación y atención;
+
+III. Promover una cultura tendiente a lograr su dignificación, respeto e integración a la sociedad;
+
+IV. Concertar la participación de los sectores social y privado en la planeación y ejecución de programas;
+
+V. Coordinar las acciones y promover medidas de financiamiento para la creación y funcionamiento de instituciones y servicios para garantizar sus derechos;
+
+VI. Fomentar e impulsar su atención integral;
+
+VII. Promover, fomentar, difundir y defender el ejercicios de sus derechos, así como las obligaciones de los responsables de estos;
+
+VIII. Aprobar los programas que se establezcan para las Personas Adultas Mayores;
+
+IX. Procurar que se lleven a cabo las medidas de seguridad pública y de protección civil en los centros educativos, culturales y recreativos; así como acciones preventivas con la participación de la comunidad;
+
+X. Formar parte del Comité Técnico para la Atención a los Adultos Mayores;
+
+XI. Crear los mecanismos o instancias correspondientes para el cumplimiento de esta Ley; y
+
+XII. Las demás que le confieran otros ordenamientos jurídicos.
+
+### CAPÍTULO II. DEL CONSEJO DE DESARROLLO SOCIAL
+
+###### Artículo 11.
+
+Conforme lo dispone la Ley del Consejo de Desarrollo Social, le corresponde a éste, en lo referente a las Personas Adultas Mayores:
+
+I. Establecer, coordinar, ejecutar y evaluar las políticas de desarrollo social;
+
+II. Establecer e implementar estrategias de combate a la pobreza y a la marginación, a fin de que éstas tengan oportunidad de acceder a una vida digna;
+
+III. Diseñar esquemas de participación social, así como proyectos productivos y de apoyo;
+
+IV. Diseñar e integrar los programas generales de atención a los Adultos Mayores y ejecutar aquellos que le correspondan;
+
+V. Implementar y coordinar las acciones que se requieran para evaluar el desarrollo de los programas, así como promover su integración social;
+
+VI. Promover en coordinación con las dependencias de la Administración Pública Estatal y municipal, conforme a sus competencias y atribuciones, la implementación de políticas y programas de educación y capacitación;
+
+VII. Elaborar y establecer indicadores para evaluar la cobertura e impacto de programas y acciones en apoyo a personas Adultas Mayores; y
+
+VIII. Las demás que le confieran otros ordenamientos jurídicos.
+
+### CAPÍTULO III. DE LA SECRETARÍA DE SALUD DEL ESTADO DE NUEVO LEÓN
+
+###### Artículo 12.
+
+Corresponde a la Secretaría de Salud del Estado, de conformidad con las disposiciones jurídicas aplicables:
+
+I. Garantizar el derecho al acceso a la atención médica en las clínicas y hospitales públicos o privados, con una orientación especializada, para las Personas Adultas Mayores, en condiciones de pobreza y vulnerabilidad;
+
+II. Proporcionar a las Personas Adultas Mayores una cartilla médica de autocuidado, que será utilizada indistintamente en las instituciones públicas y privadas. En esta se especificará el estado general de salud, enfermedades crónicas, tipo de sangre, medicamentos administrados, reacciones secundarias e implementos para aplicarlos, tipo de dieta suministrada, consultas médicas y asistencias a grupos de autocuidado;
+
+III. Implementar programas con el objeto de proporcionar a las Personas Adultas Mayores los medicamentos que necesiten para mantener un buen estado de salud, en coordinación con el Sistema para el Desarrollo Integral de la Familia en el Estado;
+
+IV. Fomentar la creación de redes de apoyo en materia de Atención Médica, cuidados y rehabilitación, a través de la capacitación y sensibilización sobre la problemática específica de las Personas Adultas Mayores; y
+
+V. Fomentar la creación de organismos auxiliares de Adultos Mayores, que los atenderán en primeros auxilios, terapias de rehabilitación, asistencia para que ingieran sus alimentos y medicamentos, movilización y atención personalizada en caso de encontrarse postrados, en coordinación con el Sistema para el Desarrollo Integral de la Familia en el Estado.
+
+VI. Dar cauce, ante las autoridades competentes, de casos de personas Adultas Mayores que fallezcan y sus familias no cuente (sic) con recursos patrimoniales para hacer frente a los gastos derivados de su servicio funerario, con el fin de que se les otorgue apoyo económico o en especie, en los términos de las disposiciones legales conducentes.
+
+###### Artículo 13.
+
+La Secretaría de Salud del Estado implementará programas y concertará convenios con las instituciones de salud públicas del Estado y las de la iniciativa privada y sector social, a fin de que las Personas Adultas Mayores puedan tener acceso a los servicios de atención médica que proporcione el Sistema de Salud.
+
+### CAPÍTULO IV. DEL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEÓN
+
+###### Artículo 14.
+
+Corresponde al Consejo para la Cultura y las Artes de Nuevo León, estimular a las Personas Adultas Mayores a la creación y al goce de la cultura y facilitar el acceso a la expresión a través de talleres, exposiciones, concursos y eventos comunitarios, nacionales e internacionales.
+
+###### Artículo 15.
+
+El Consejo para la Cultura y las Artes de Nuevo León, promoverá que en los eventos culturales organizados en el Estado de Nuevo León se propicie la accesibilidad y la gratuidad o descuentos especiales a las Personas Adultas Mayores.
+
+###### Artículo 16.
+
+El Consejo diseñará programas culturales para efectuar concursos en los que participen exclusivamente Personas Adultas Mayores, otorgando a los ganadores los reconocimientos y premios correspondientes.
+
+### CAPÍTULO V. DE LA CORPORACIÓN PARA EL DESARROLLO TURÍSTICO
+
+DE NUEVO LEÓN
+
+###### Artículo 17.
+
+La Corporación para el Desarrollo Turístico de Nuevo León, en coordinación con el Sistema para el Desarrollo Integral de la Familia, promoverán actividades de recreación y turísticas diseñadas para Personas Adultas Mayores, instrumentando las acciones necesarias a fin de que en parques, jardines, kioscos, plazas públicas, teatros al aire libre y demás lugares públicos destinados a la recreación se cuente con los espacios y actividades que faciliten la integración de las Personas Adultas Mayores.
+
+###### Artículo 18.
+
+Para garantizar el derecho a la recreación y turismo, la Corporación para el Desarrollo Turístico de Nuevo León, difundirá permanentemente a través de los medios masivos de comunicación, las actividades, que se realicen a favor de las Personas Adultas Mayores.
+
+### CAPÍTULO VI. DEL CONSEJO DE RELACIONES LABORALES Y PRODUCTIVIDAD
+
+###### Artículo 19.
+
+El Consejo de Relaciones Laborales y Productividad en coordinación con el Sistema para el Desarrollo Integral de la Familia en el Estado y el Consejo de Desarrollo Social estatal, deberá implementar los programas necesarios, para promover el empleo de las Personas Adultas Mayores, tanto en el sector público como privado, atendiendo a su profesión u oficio y a su experiencia y conocimientos teóricos y prácticos.
+
+###### Artículo 20.
+
+Dicho Consejo en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia en el Estado, impulsará programas de autoempleo para las Personas Adultas Mayores, de acuerdo a su profesión u oficio, a través de apoyos financieros, de capacitación y la creación de redes de producción, distribución y comercialización.
+
+### CAPÍTULO VII. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN EL
+
+ESTADO DE NUEVO LEÓN
+
+###### Artículo 21.
+
+Corresponde al Sistema para el Desarrollo Integral de la Familia en el Estado, en materia de Personas Adultas Mayores:
+
+I. Proporcionar en forma gratuita los servicios de asesoría y orientación jurídica, en especial aquellos que se refieren a la seguridad de su patrimonio, en materia de alimentos y testamentaria;
+
+II. Brindar los servicios de asistencia social y atención integral que le corresponda;
+
+III. Realizar programas de prevención y protección para aquellos que se encuentren en situación de riesgo o desamparo, para incorporarlos al núcleo familiar o albergarlos en instituciones adecuadas;
+
+IV. Promover la coordinación con las instituciones federales y locales de salud y educación, para implementar programas de sensibilización y capacitación con objeto de favorecer la convivencia familiar;
+
+V. En coordinación con la Delegación Estatal del Instituto Nacional de Educación de los Adultos, implementar programas que fomenten su educación;
+
+VI. Coadyuvar con la Procuraduría General de Justicia del Estado, en su atención y tratamiento cuando sean víctimas de cualquier delito;
+
+VII. Impulsar y promover el reconocimiento y ejercicio pleno de sus derechos;
+
+VIII. Promover, mediante la vía conciliatoria, la solución a la problemática familiar, cuando no se trate de delitos tipificados por el Código Penal vigente en el Estado de Nuevo León o infracciones previstas en otras leyes;
+
+IX. Recibir quejas, denuncias e informes sobre la violación de sus derechos, haciéndolo del conocimiento de las autoridades competentes y de ser procedente ejercitar las acciones legales correspondientes;
+
+X. Denunciar ante las autoridades competentes, cuando sea procedente, cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y en general cualquier acto que las perjudique;
+
+XI. Procurar que cuando se encuentren en situación de riesgo o desamparo, o por carecer de familia, cuenten con un lugar donde vivir, que cubra sus necesidades básicas;
+
+XII. Vigilar que las instituciones públicas y privadas les proporcionen el cuidado y atención adecuada, respetando sus derechos, a través de mecanismos de seguimiento y supervisión, en coordinación con el Consejo de Desarrollo Social del Estado de Nuevo León, la Secretaría de Salud del Estado, y la Secretaría de Educación del Estado, según sea el caso;
+
+XIII. Ofrecer a través de la Procuraduría de la Defensa del Menor y la Familia, asesoría jurídica y representación legal, a través de personal capacitado a fin de garantizar su integridad y evitar cualquier acto de discriminación, respetando en todo momento su heterogeneidad;
+
+XIV. Implementar las acciones pertinentes para garantizar la cobertura en materia alimentaria a los adultos mayores que se encuentren en situación de marginación, carencia de familia o de recursos económicos, impulsando además la participación comunitaria para la dotación de alimentos nutricionalmente balanceados;
+
+XV. Ampliar los mecanismos de información a la población a fin de que se conozcan alternativas alimentarias para lo cual deberá:
+
+a) Organizar campañas de orientación e información nutricional de acuerdo a las condiciones físicas de este sector;
+
+b) Publicar materiales de orientación nutricional y campañas de difusión en medios masivos de comunicación; y
+
+c) Establecer convenios específicos de colaboración con instituciones y organismos públicos, sociales y privados que les proporcionen orientación alimentaria.
+
+XVI. Establecer programas de apoyo a las familias para que la falta de recursos no sea causa de su separación; y
+
+XVII. Las demás que le confieran otros ordenamientos jurídicos.
+
+## TÍTULO QUINTO
+
+### CAPÍTULO ÚNICO. DEL COMITÉ TÉCNICO PARA LA ATENCIÓN A LOS ADULTOS MAYORES
+
+###### Artículo 22.
+
+Se crea el Comité Técnico para la Atención a los Adultos Mayores, como un órgano de consulta, seguimiento y evaluación de acciones para promover la integración y desarrollo de los Adultos Mayores y la atención a sus necesidades básicas.
+
+###### Artículo 23.
+
+El Comité Técnico estará integrado de la siguiente manera:
+
+I. Un Presidente, que será el Gobernador del Estado;
+
+II. Un Secretario Técnico, que será el Presidente Ejecutivo del Consejo de Desarrollo Social;
+
+III. Vocales, que serán los titulares de las siguientes dependencias, entidades públicas y organizaciones de la sociedad civil:
+
+a) Sistema para el Desarrollo Integral de la Familia en el Estado de Nuevo León;
+
+b) Secretaría de Salud del Estado de Nuevo León;
+
+c) Secretaría de Educación del Estado de Nuevo León;
+
+d) Consejo de Relaciones Laborales y Productividad;
+
+e) Instituto Estatal de las Mujeres;
+
+f) Dirección de Radio Nuevo León;
+
+g) Dirección de Televisión Estatal; y
+
+h) Seis representantes de las organizaciones de la sociedad civil que se hayan destacado por su trabajo y estudios en la materia, a invitación del Presidente del Comité Técnico.
+
+Los vocales podrán designar a un representante ante el Comité Técnico, que cubra sus ausencias, para lo cual deberán enviar previamente a las sesiones del Comité Técnico, el documento en el que se informe de su designación.
+
+###### Artículo 24.
+
+El Presidente del Comité Técnico invitará a formar parte de esta misma en carácter de vocal, al Delegado del Instituto Nacional de las Personas Adultas Mayores en Nuevo León.
+
+### CAPÍTULO I. DEL PROGRAMA DE APOYO DIRECTO AL ADULTO MAYOR
+
+###### Artículo 25.
+
+Los integrantes del Comité Técnico no percibirán remuneración alguna por el ejercicio de su cargo.
+
+###### Artículo 26.
+
+El Presidente de la Comisión podrá invitar a representantes de otras instancias locales, federales e internacionales, así como académicos, especialistas o empresarios encargados de desarrollar programas, actividades o investigaciones relacionadas con la población de Personas Adultas Mayores a que asistan con voz a las sesiones que celebre.
+
+###### Artículo 27.
+
+El Comité Técnico tendrá las siguientes funciones:
+
+I. Propiciar la colaboración y participación de instituciones públicas y privadas en acciones que la administración pública emprenda para la atención integral de las Personas Adultas Mayores;
+
+II. Proponer la realización de investigaciones y estudios que contribuyan a mejorar la planeación y programación de las medidas y acciones para elevar la calidad de vida de las Personas Adultas Mayores;
+
+III. Participar en la evaluación de programas para las Personas Adultas Mayores, así como proponer a las instituciones encargadas de dichos programas, los lineamientos y mecanismos para su ejecución, a través de indicadores que midan la cobertura e impacto de los programas y acciones realizadas;
+
+IV. Fomentar la elaboración, publicación y distribución de material informativo para dar a conocer la situación de la población de Personas Adultas Mayores en el Estado, alternativas de participación, solución de problemas y mejora de servicios y programas;
+
+V. Propiciar la participación ciudadana en actividades y proyectos dirigidos a la plena integración de las Personas Adultas Mayores en la vida económica, política, social y cultural;
+
+VI. Expedir su propio reglamento; y
+
+VII. Las demás que establece esta Ley.
+
+###### Artículo 28.
+
+Al Presidente del Comité Técnico le corresponde:
+
+I. Representar al Comité Técnico ante las distintas autoridades e instituciones públicas y privadas;
+
+II. Convocar a sesiones a los integrantes del Comité Técnico;
+
+III. Presidir las reuniones del Comité Técnico;
+
+IV. Dirigir y moderar los debates durante las sesiones;
+
+V. Dictar las políticas necesarias para mejorar la operación del Comité Técnico; y
+
+VI. Someter a consideración del Comité Técnico, los estudios, propuestas y opiniones que emitan los grupos de trabajo.
+
+En caso de ausencia, será suplido conforme lo establezca el Reglamento correspondiente.
+
+###### Artículo 29.
+
+Al Secretario Técnico del Comité Técnico le corresponde:
+
+I. Coordinar las actividades del Comité Técnico y de los grupos de trabajo;
+
+II. Por instrucciones previas del Presidente, citar a sesión a los integrantes del Comité Técnico;
+
+III. Formular la orden del día para las sesiones del Comité Técnico;
+
+IV. Someter a consideración del Comité Técnico los programas de trabajo;
+
+V. Difundir y dar seguimiento a las resoluciones y el trabajo del Comité Técnico;
+
+VI. Proporcionar asesoría técnica al Comité Técnico;
+
+VII. Verificar el quórum legal;
+
+VIII. Levantar las actas de cada una de las sesiones del Comité Técnico y registrarlas con su firma; y
+
+> <small>(F. DE E., P.O. 19 DE ENERO DE 2005)</small>
+
+IX. Realizar los trabajos que le encomiende el Presidente del Comité Técnico.
+
+###### Artículo 30.
+
+La integración de los grupos de trabajo, sus atribuciones y las sesiones del Comité Técnico, serán definidas en el reglamento que al efecto se expida.
+
+### CAPÍTULO II. DEL TRANSPORTE
+
+### CAPÍTULO III. DE LA PROTECCIÓN AL PATRIMONIO, DESCUENTOS, SUBSIDIOS Y PAGO
+
+DE SERVICIOS
+
+## TÍTULO SEXTO. DE LAS ACCIONES DE GOBIERNO Y SERVICIOS
+
+### CAPÍTULO IV. DE LA ATENCIÓN PREFERENCIAL
+
+###### Artículo 31.
+
+El Ejecutivo del Estado aprobará el Programa de Apoyo Directo al Adulto Mayor aplicable a las personas mayores de 70 años o más de edad, que vivan en condiciones de pobreza y vulnerabilidad.
+
+###### Artículo 32.
+
+Para tener acceso a los beneficios del Programa de Apoyo Directo al Adulto Mayor, los sujetos de apoyo deberán reunir los requisitos establecidos en las reglas de operación correspondientes.
+
+### CAPÍTULO ÚNICO. DE LA ASISTENCIA SOCIAL
+
+###### Artículo 33.
+
+La Administración Pública del Estado, a través de los órganos competentes, establecerá programas que beneficien a las Personas Adultas Mayores en el uso del transporte público en el Estado.
+
+###### Artículo 34.
+
+Las Personas Adultas Mayores, tendrán derecho a obtener tarifas preferenciales al hacer uso del servicio público de transporte colectivo, de conformidad con las disposiciones aplicables de la materia.
+
+###### Artículo 35.
+
+La Agencia para la Racionalización y Modernización del Sistema de Transporte Público de Nuevo León, promoverá la celebración de convenios de colaboración con los concesionarios para que las unidades de transporte público se adapten a las necesidades de las Personas Adultas Mayores.
+
+### CAPÍTULO I. DE LA DENUNCIA POPULAR
+
+###### Artículo 36.
+
+La Administración Pública del Estado y de los Municipios, a través de sus órganos correspondientes, implementará programas de protección al patrimonio de la población de Personas Adultas Mayores, de tal manera que éstas se beneficien al adquirir bienes o al utilizar servicios y que además estén debidamente informadas para hacer valer este derecho.
+
+###### Artículo 37.
+
+La Administración Pública del Estado a través del Consejo de Desarrollo Social y los Municipios promoverán la celebración de convenios con la iniciativa privada y el sector social a fin de que se instrumenten campañas de promociones y descuentos en bienes y servicios que beneficien a las Personas Adultas Mayores.
+
+###### Artículo 38.
+
+La Administración Pública Estatal y Municipal, de conformidad con las disposiciones jurídicas aplicables, podrá promover e instrumentar descuentos en el pago de derechos por los servicios que otorga, cuando el usuario de los mismos sea una Persona Adulta Mayor.
+
+### CAPÍTULO II. DE LAS RESPONSABILIDADES Y SANCIONES
+
+###### Artículo 39.
+
+Las Secretarías y demás Dependencias que integran las Administración Pública Estatal, los Organismos Públicos Descentralizados de Participación Ciudadana y demás Entidades Paraestatales del Estado, así como los municipios en el ámbito de sus respectivas competencias y jurisdicción, vigilarán y garantizarán la defensa de los derechos de las Personas Adultas Mayores otorgándoles una atención preferencial que agilice los trámites y procedimientos administrativos a realizar.
+
+###### Artículo 40.
+
+El Consejo de Desarrollo Social del Estado de Nuevo León, promoverá la celebración de convenios de concertación con la iniciativa privada, a fin de que la atención preferencial para las Personas Adultas Mayores, también sea proporcionado en instituciones bancarias, tiendas de autoservicio y otras empresas mercantiles.
+
+## TÍTULO SÉPTIMO
+
+###### Artículo 41.
+
+Toda persona que tenga conocimiento de que una Persona Adulta Mayor se encuentre en situación de riesgo o desamparo podrá pedir que se apliquen de inmediato las medidas necesarias para su protección y atención.
+
+###### Artículo 42.
+
+En todo momento las instituciones públicas, privadas y sociales deberán garantizar y observar el total e irrestricto respeto a los derechos de las Personas Adultas Mayores que esta Ley consagra.
+
+###### Artículo 43.
+
+Las instituciones públicas, privadas y sociales que presten asistencia a las Personas Adultas Mayores, deberán contar con personal capacitado para prestar este tipo de servicios.
+
+## TÍTULO OCTAVO. DE LA DENUNCIA POPULAR Y DE LAS RESPONSABILIDADES Y SANCIONES
+
+###### Artículo 44.
+
+Toda persona o cualquiera grupo de la Sociedad civil Organizada, podrá denunciar ante los órganos competentes, todo hecho, acto u omisión que produzca o pueda producir daños o afectación a los derechos y garantías que establece la presente Ley, o que contravenga cualquier otra de sus disposiciones o de los demás ordenamientos que regulen materias relacionadas con las Personas Adultas Mayores.
+
+###### Artículo 45.
+
+La denuncia podrá ser presentada ante el Sistema Estatal para el Desarrollo Integral de la Familia.
+
+###### Artículo 46.
+
+Si la denuncia presentada fuera competencia de otra autoridad, se acusará recibo al denunciante y la turnará a la autoridad competente para su tramite y resolución notificándole de tal hecho al denunciante, mediante acuerdo fundado y motivado.
+
+###### Artículo 47.
+
+El incumplimiento a lo dispuesto en esta Ley por parte de las autoridades estatales o municipales generará responsabilidad y será sancionado conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
+
+###### Artículo 48.
+
+El incumplimiento a lo dispuesto a esta Ley por personas u organizaciones que no sean autoridades serán sancionadas conforme a lo establecido por la ley aplicable.
+
+T R A N S I T O R I O S
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El Comité Técnico para la Atención a los Adultos Mayores, deberá constituirse en un plazo no mayor a los noventa días naturales, a partir de la fecha de entrada en vigor de la presente ley.
+
+Artículo Tercero.- El Comité Técnico para la Atención a los Adultos Mayores deberá expedir su reglamento en un plazo no mayor a los cuarenta y cinco días naturales, a partir de la fecha de instalación del mismo.
+
+Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
+
+Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su capital, a los trece días del mes de diciembre de 2004. PRESIDENTA DIP. YOLANDA MARTÍNEZ MENDOZA; DIP. SECRETARIA: IVONNE LILIANA ÁLVAREZ GARCÍA; DIP. SECRETARIO: PEDRO BERNAL RODRÍGUEZ.- Rúbricas.-
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los 20 días del mes de diciembre del año dos mil cuatro.
+
+EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NUEVO LEÓN
+
+JOSÉ NATIVIDAD GONZÁLEZ PARÁS
+
+EL C. SECRETARIO GENERAL DE GOBIERNO
+
+NAPOLEÓN CANTÚ CERNA
+
+EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
+
+RUBÉN EDUARDO MARTÍNEZ DONDÉ
+
+LA C. SECRETARIA DE EDUCACIÓN
+
+MARÍA L. YOLANDA BLANCO GARCÍA
+
+EL C. OFICIAL MAYOR DE GOBIERNO DEL ESTADO
+
+ALFREDO GERARDO GARZA DE LA GARZA
