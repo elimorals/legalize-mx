@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-mexicali-baja-22978
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2003-02-21"
+last_updated: "2003-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2003.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -1813,15 +1813,15 @@ II.- Apercibimiento; o,
 
 III.- Multa.
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2003)</small>
+(ADICIONADO, P.O. 21 DE FEBRERO DE 2003) (REPUBLICADO, P.O. 7 DE MARZO DE 2003)
 
 En el caso de infracciones sancionadas hasta con multa de diez días de salario mínimo general vigente en el Municipio, podrá permutarse su pago con la asistencia a una sesión de educación vial que para el efecto programe la Dirección. Además deberá acreditar hasta cinco horas de trabajo comunitario como voluntario de seguridad vial escolar, en los términos de los artículos 28 y 29 del presente ordenamiento; o en las actividades que realice la Dirección de Servicios Públicos.
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2003)</small>
+(ADICIONADO, P.O. 21 DE FEBRERO DE 2003) (REPUBLICADO, P.O. 7 DE MARZO DE 2003)
 
 El beneficio citado anteriormente, no aplicará para las infracciones señaladas en los numerales 335, 423 y 425 de la Tabla de Sanciones Pecuniarias.
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2003)</small>
+(ADICIONADO, P.O. 21 DE FEBRERO DE 2003) (REPUBLICADO, P.O. 7 DE MARZO DE 2003)
 
 Para recibir el beneficio, el infractor deberá solicitarlo ante el Juez Calificador o en su caso el Delegado Municipal, quien le indicará el horario y lugar para asistir a la sesión de educación vial y según la gravedad de las infracciones, acordará la cantidad de horas de trabajo comunitario a cubrir, para que el infractor se presente ante la Dirección que corresponda según la actividad por la que opte, en un plazo no mayor de treinta días, deberá regresar con el Juez Calificador o en su caso con el Delegado Municipal, a presentar la constancia de cumplimiento de ambas actividades.
 
@@ -1847,7 +1847,7 @@ Al conductor o pasajero que contravenga las disposiciones del presente Reglament
 
 > <small>N. DE E. VEASE TABLA DE SANCIONES EN EL P.O. DE 14 DE DICIEMBRE DE 2001, PAGINAS DE LA 96 A LA 106.</small>
 
-> <small>N. DE E. REFORMAS A LA TABLA DE SANCIONES, P.O. 21 DE FEBRERO DE 2003, PAGINAS DE LA 24 A LA 25.</small>
+> <small>N. DE E. REFORMAS A LA TABLA DE SANCIONES, P.O. 21 DE FEBRERO DE 2003, PAGINAS DE LA 24 A LA 25, REPUBLICADO, P.O. 7 DE MARZO DE 2003, PAGINAS DE LA 45 A LA 46.</small>
 
 ###### ARTÍCULO 148.
 
@@ -1863,7 +1863,7 @@ La calidad de jornalero u obrero, podrá demostrarse con cualquier documento feh
 
 Cuando el infractor, en uno o en varios hechos, viole varias disposiciones de este Reglamento, se le acumularán y aplicarán las sanciones correspondientes a cada una de las infracciones cometidas.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2003)</small>
+(REFORMADO, P.O. 21 DE FEBRERO DE 2003) (REPUBLICADO, P.O. 7 DE MARZO DE 2003)
 
 Al infractor reincidente se le aplicará el doble de la multa correspondiente a la conducta infringida, y no contará con el beneficio de descuento por pronto pago; además, se le impondrá como sanción que asista a una sesión de educación vial.
 
@@ -1920,5 +1920,9 @@ SEXTO.- Entretanto la Dirección emite el Manual para el Conductor, continuará 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 21 DE FEBRERO DE 2003.
+
+UNICO.- LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR A LOS SIGUIENTES 45 DIAS DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 7 DE MARZO DE 2003.
 
 UNICO.- LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR A LOS SIGUIENTES 45 DIAS DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
