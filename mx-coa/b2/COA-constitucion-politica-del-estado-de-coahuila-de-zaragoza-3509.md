@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1988-06-17"
+last_updated: "1989-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 1988.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 1989.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -458,11 +458,17 @@ El Gobernador del Estado asistirá cada año a la apertura del primer período o
 
 La clausura de las sesiones tendrá lugar por un acuerdo que se comunicará al Ejecutivo y demás Poderes de la República.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1989)</small>
 
 ###### Artículo 51.
 
-La Legislatura no podrá ejercer sus funciones sin la concurrencia de las dos terceras partes del total de sus miembros; pero los presentes, cualquiera que sea el número, deberán reunirse en los días señalados por la ley y compeler a los ausentes a que concurran dentro de los ocho días siguientes, bajo la advertencia de que si no lo hicieren se entenderá, por ese solo hecho, que no aceptan el cargo, llamándose inmediatamente a los suplentes, los que deberán presentarse en un plazo de quince días, y si no lo hicieren, se declarará vacante el puesto y se convocará a nuevas elecciones. Los Diputados que falten diez días consecutivos sin causa justificada o sin permiso de la Legislatura, se entenderá que renuncian a concurrir durante ese período y deberá llamarse desde luego a los suplentes.
+El Congreso no puede abrir sus Períodos de Sesiones ni ejercer sus funciones sin la concurrencia de más de la mitad del número total de sus miembros.
+
+Los presuntos Diputados que concurran a la instalación del Colegio Electoral, exhortarán a los ausentes para que se presenten dentro de las 72 horas siguientes, con la advertencia de que si no lo hiciesen, se entenderá por ese solo hecho, que no aceptan su encargo, llamándose luego a los suplentes, los que deberán presentarse en un plazo igual, y si tampoco lo hiciesen, se declarará vacante el puesto y se convocará a nuevas elecciones.
+
+Se entiende también que los Diputados que falten a tres Sesiones consecutivas, sin causa justificada o sin previa licencia del Presidente del Congreso, con la cual se dará conocimiento a éste, renuncian a concurrir hasta el período inmediato, llamándose desde luego a los suplentes.
+
+Incurrirá en responsabilidad y se hará acreedor a las sanciones que la Ley señale, quien habiendo sido electo Diputado no se presente, sin causa justificada a juicio del Congreso, a desempeñar el cargo o a ejercer la función.
 
 ###### Artículo 52.
 
@@ -2078,11 +2084,15 @@ El Estado garantiza el derecho de propiedad privada reconocido y amparado por la
 
 La propiedad privada puede ser expropiada por causa de utilidad pública calificada por la Ley, la cual prescribirá en qué medida el propietario debe ser indemnizado.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 1989)</small>
+
+La comunidad participará de la plusvalía que generen las acciones urbanísticas por obras realizadas por el Estado o los Municipios.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE ENERO DE 1989)</small>
 
 ###### Artículo 170.
 
-El Ejecutivo del Estado, dentro del ámbito de sus atribuciones, vigilará por la estricta aplicación y observancia de las normas de trabajo.
+Toda persona tiene derecho a un trabajo digno y socialmente útil. El Estado, promoverá la creación de empleos y dentro del ámbito de sus atribuciones vigilará por la estricta aplicación y observancia de las normas de trabajo.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2098,9 +2108,19 @@ Asimismo, el Estado, los Municipios y las entidades paraestatales y paramunicipa
 
 El manejo de los recursos económicos del Estado, los Municipios y las entidades paraestatales y paramunicipales, se sujetará a las bases que impone este artículo, y los servidores públicos estatales y municipales, en sus correspondientes ámbitos de competencia, serán responsables del cumplimiento de las mismas, en los términos del Título Sexto de esta Constitución.
 
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 1989)</small>
+
+En los talleres tipográficos del Gobierno, se publicará el Periódico Oficial del Estado y se harán únicamente lo trabajos oficiales del mismo Gobierno. En consecuencia, queda prohibido utilizar dichos talleres para hacer otros trabajos que no sean los expresados en el presente Artículo.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1989)</small>
+
 ###### Artículo 172.
 
-En los talleres tipográficos del Gobierno, se publicará el Periódico Oficial del Estado y se harán únicamente los trabajos oficiales del mismo Gobierno. En consecuencia, queda prohibido utilizar dichos talleres para hacer otros trabajos que no sean los expresados en el presente artículo.
+Todos tienen derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo.
+
+El Estado y los Municipios, dentro del ámbito de sus respectivas competencias, velarán por la utilización racional de todos los recursos naturales, con el fin de proteger y mejorar la calidad de la vida y defender y restaurar el medio ambiente, apoyándose en la indispensable solidaridad colectiva.
+
+Para quienes violen lo dispuesto en el párrafo anterior, en los términos que la Ley fije, se establecerán sanciones penales, o en su caso, administrativas, así como la obligación de reparar el daño.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2108,17 +2128,37 @@ En los talleres tipográficos del Gobierno, se publicará el Periódico Oficial 
 
 El Estado reconoce a la familia como la agrupación primaria, natural y fundamental de la sociedad. A este efecto, dictará las disposiciones necesarias para su seguridad, estabilidad y mejoramiento. La Ley dispondrá la organización del patrimonio familiar, sobre la base de ser inalienable, inembargable y estar exento de toda carga pública.
 
-Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades y a su salud física y mental. La Ley determinará los apoyos para la protección de los menores, a cargo de las instituciones públicas.
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 1989)</small>
+
+Los menores tienen derecho a una vida sana, a la salud, a la alimentación, a la educación, a la cultura, a la recreación, a la preparación para el trabajo y a llevar una vida digna en el seno de la familia.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1989)</small>
+
+Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades y a su salud física y mental. Las Leyes deberán ampararlos desde su concepción y determinarán los apoyos para su protección a cargo de las instituciones públicas.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 1989)</small>
+
+El Estado realizará una política de previsión, tratamiento, rehabilitación e integración de los minusválidos, a los que prestará la atención especializada que requieran.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1989)</small>
+
+Los ancianos tienen derecho al respeto y consideración de sus semejantes. En caso de desamparo, el Estado promoverá su bienestar mediante un sistema de servicios sociales que atenderán sus problemas específicos de salud, alimentación, vivienda y recreación.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1989)</small>
 
 Se reconoce la igualdad de derechos del hombre y de la mujer en todos los ámbitos de la vida cultural, social, jurídica, política y económica.
 
-La ancianidad tiene derecho al respeto y consideración de sus semejantes.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1989)</small>
 
 Toda persona tiene derecho a la protección de la salud.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1989)</small>
+
 Toda familia tiene derecho a disfrutar de vivienda digna y decorosa.
 
-La Ley establecerá los instrumentos y apoyos necesarios para el logro de estos objetivos.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1989)</small>
+
+La Ley establecerá los medios y apoyos necesarios para el logro de estos objetivos.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
 
@@ -2126,19 +2166,23 @@ La Ley establecerá los instrumentos y apoyos necesarios para el logro de estos 
 
 Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. El sitio de ésta será distinto del que se destinare para la extinción de las penas y estarán separados.
 
-El Gobierno del Estado organizará el Sistema Penitenciario en forma técnica, progresiva e individualizada, sobre la base del trabajo, la capacitación para el mismo y la educación como medios para la readaptación social del delincuente. Las mujeres compurgarán sus penas en lugares separados de los hombres para tal efecto.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE ENERO DE 1989)</small>
 
-El Gobierno del Estado podrá celebrar con la Federación convenios de carácter general para la mejor aplicación del sistema penitenciario, y de coordinación para la aplicación de las Leyes Federales de la Materia en los establecimientos del Estado.
+El Estado organizará el sistema penal sobre la base del trabajo, la capacitación para el mismo y la educación como medios para la readaptación social del delincuente. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
 
-El Gobierno del Estado establecerá Instituciones Especiales para el tratamiento de menores infractores.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE ENERO DE 1989)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
+Así mismo, el Gobernador del Estado, en los términos de los ordenamientos legales aplicables, podrá solicitar al Ejecutivo Federal, que en los tratados internacionales que se celebren para el efecto de acordar el traslado de reos de nacionalidad extranjera a su país de origen o residencia, se incluya a los sentenciados en el Estado, por delitos del orden común.
 
-Asimismo, el Gobernador del Estado, en los términos de los ordenamientos legales aplicables, podrá solicitar al Ejecutivo Federal, que en los tratados internacionales que se celebren para el efecto de acordar el traslado de reos de nacionalidad extranjera a su país de origen o residencia, se incluya a los sentenciados en el Estado, por delitos del orden común.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE ENERO DE 1989)</small>
+
+El Estado establecerá instituciones especiales para el tratamiento de menores infractores o en estado de abandono.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE ENERO DE 1989)</small>
 
 ###### Artículo 175.
 
-La ley determinará las profesiones que necesitan título para que sean ejercitadas en el Estado, las condiciones que deben llenarse para obtenerlo y las autoridades que deben expedirlo.
+La Ley determinará las profesiones que necesitan título para que sean ejercitadas en el Estado, las condiciones que deban llenarse para obtenerlo y las autoridades que deban expedirlo; asimismo, regulará las peculiaridades propias del régimen jurídico de los colegios de profesionales cuya estructura interna y funcionamiento deberán ser democráticos.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2152,9 +2196,11 @@ El Poder Legislativo, expedirá una ley en que se determine el número máximo d
 
 Las autoridades municipales, se sujetarán estrictamente a las facultades que les otorga la ley y observarán, muy especialmente, las prescripciones del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1989)</small>
+
 ###### Artículo 178.
 
-Los ciudadanos coahuilenses serán preferidos para el desempeño de los cargos y empleos públicos.
+El Estado promoverá la conservación y el enriquecimiento del patrimonio histórico, cultural y artístico de la entidad y de los bienes y valores que lo integran, cualquiera que sea su régimen jurídico y su titularidad. La ley determinará los instrumentos necesarios para el logro de estos objetivos.
 
 ###### Artículo 179.
 
@@ -2557,3 +2603,7 @@ Los nombramientos y ratificaciones de Magistrados y Jueces que se hagan en lo su
 ###### ARTICULO QUINTO.
 
 Los Artículos 138 y 151 serán aplicables a partir de las nuevas designaciones de Magistrados del Tribunal Superior de Justicia.
+
+P.O. 13 DE ENERO DE 1989.
+
+UNICO.- Estas reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
