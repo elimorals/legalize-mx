@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "1991-02-20"
+last_updated: "1991-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JULIO DE 1991.
 
 Ley Publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -1099,35 +1099,29 @@ El pago anticipado del impuesto no impide el cobro de diferencias que deba hacer
 
 ###### ARTICULO 58.
 
-Están obligados al pago de este impuesto, las personas físicas o morales que adquieran inmuebles que consistan en suelo, en construcciones adheridas a él, o en ambos conceptos, ubicados en los Municipios del Estado, así como los derechos relacionados con los mismos a que este capítulo se refiere. El impuesto se causará por cada inmueble, de la siguiente forma:
+Están obligados al pago de este Impuesto, las personas físicas o morales que adquieran inmuebles que consistan en el suelo, en construcciones adheridas a él, o en ambos conceptos, ubicados en los Municipios del Estado, así como los derechos relacionados con los mismos a que este capítulo se refiere. El impuesto se calculará aplicando una tasa del 2% sobre la base gravable a que se refiere el Artículo 61 de este Capítulo.
 
-I.- Adquisiciones de Inmuebles por Causa de Muerte.
+Cuando el bien consistente en la casa habitación de los cónyuges, sea adquiriro (sic) por herencia o legados, por el cónyuge supérstite o por sus ascendientes o descendientes en línea recta, siempre y cuando la habiten el impuesto se calculará aplicando una tasa del .50% sobre la base gravable a que se refiere el Artículo 61 de este Capítulo.
 
-Además del pago de una cuota fija de 25 días de salario mínimo general, se deducirá a la base gravable que establece el Artículo 61 de esta Ley, 15 veces el salario mínimo general elevado al año, de la zona económica del Municipio de que se trate, aplicándose una tasa del 5% sobre el 80% del valor que resulta de la deducción mencionada, excepto cuando se trate de adquisición de vivienda en cuyo caso dicha tasa se aplicará sobre el 70% del valor que resulte después de hacer la misma deducción.
-
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
-
-Cuando el bien sea adquirido por herencia o legados, por el cónyuge supérstite o por ascendientes o descendientes en línea recta, se causará únicamente la cuota fija a que se refiere el párrafo anterior.
-
-II.- En los demás Casos de Adquisición.
-
-Además del pago de una cuota fija equivalente a diez días de salario mínimo general, se deducirá a la base gravable ya citada, 7 veces el salario mínimo general elevado al año de la zona económica del Municipio de que se trate aplicándose una tasa del 10% sobre el 80% del valor que resulta de la deducción mencionada, excepto cuando se trate de adquisición de vivienda en cuyo caso dicha tasa se aplicará sobre el 70% del valor que resulte de hacer la misma deducción.
-
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 1991)</small>
-
-Cuando el bien sea adquirido por donación entre cónyuges o parientes ascendientes o descendientes, se causará únicamente la cuota fija a que se refiere el primer párrafo de la fracción anterior.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 1991)</small>
 
 ### CAPITULO IX. ADQUISICION DE INMUEBLES
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 59.
 
-No se pagará este impuesto en las adquisiciones para formar parte del dominio público hechas por la Federación, Entidades Federativas y los Municipios, así como por los Estados extranjeros en caso de reciprocidad.
+No se pagará este impuesto establecido en este Capítulo en las adquisiciones de inmuebles que hagan la Federación, las Entidades Federativas y los Municipios para formar parte del dominio público, y los Partidos Políticos Nacionales, siempre y cuando dichos inmuebles sean para su propio uso.
+
+Tampoco se pagará el impuesto establecido en este Capítulo en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
 
 ###### ARTICULO 60.
 
 Para los efectos de este capítulo, se entiende por adquisición la que se derive de:
 
-I.- Todo acto por el que se trasmita la propiedad a excepción de las aportaciones que se realicen al constituir la sociedad conyugal.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 1991)</small>
+
+I.- Todo acto por el que se trasmita la propiedad incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de Asociaciones o Sociedades a excepción de las que se realicen al constituir la copropiedad o la Sociedad Conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges.
 
 Para los efectos de este impuesto, se entiende que la adquisición de inmuebles por causa de muerte se realiza al momento de la adjudicación de los mismos, al heredero o legatario.
 
@@ -1143,7 +1137,9 @@ VI.- La dación en pago y la liquidación o deducción de capital, pago en espec
 
 VII.- La cesión de derechos del heredero, legatario o copropietario en la parte relativa y en proporción de los inmuebles.
 
-Se entenderá como cesión de derechos la denuncia de la herencia o legado efectuada después de la declaratoria de herederos o legatarios.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 1991)</small>
+
+Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuada después de la declaratoria de herederos o legatarios.
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 1991)</small>
 
@@ -1151,7 +1147,9 @@ VIII.- Enajenación a través de fideicomiso o de cesión de derechos de fideico
 
 IX.- La división de la copropiedad y la disolución de la sociedad conyugal por la parte que se adquiera en demasía del porciento que le corresponda al copropietario o cónyuge; y,
 
-X.- La celebración de contratos de arrendamiento financiero o la cesión de derechos del arrendatario financiero.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 1991)</small>
+
+X.- La prescripción positiva.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
 
@@ -1163,21 +1161,7 @@ La base gravable de este impuesto será el valor que resulte del avalúo bancari
 
 ###### ARTICULO 62.
 
-La deducción a que se refiere el Artículo 58 de esta Ley, se realizará conforme a las siguientes bases:
-
-I.- Para efectuar la deducción, se aplicará el salario mínimo general correspondiente al año de calendario en que se esté en presencia de los supuestos de pago del impuesto, en los términos del Artículo 64 de esta Ley.
-
-II.- Se considerarán como un solo inmueble, los bienes que sean o resulten colindantes, por sus lados o por sus vértices, o alternados, adquiridos de un mismo enajenante, dentro de un período de 24 meses, por:
-
-a). La misma persona;
-
-b). Una persona y sus dependientes económicos;
-
-c). Los dependientes económicos de una misma persona.
-
-De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la deducción, la que se calculará al momento en que se realice la primera adquisición. Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte, o realizadas en cumplimiento de sentencia emitida por autoridades judiciales, laborales o administrativas.
-
-III.- Cuando se adquiera pro-indiviso la propiedad o los derechos de un inmueble, la deducción se hará en la proporción que corresponda a cada parte alícuota.
+(DEROGADO, P.O. 12 DE JULIO DE 1991)
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
 
@@ -1211,11 +1195,11 @@ IV.- Tratándose de contratos de Compra-Venta con Reserva de Dominio o de Promes
 
 V.- En los casos no previstos en las fracciones anteriores el plazo correrá a partir de la fecha de celebración del acto que cause el impuesto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 65.
 
-En las adquisiciones que se hagan constar en Escritura Pública, los fedatarios que por disposición tengan funciones notariales, calcularán el impuesto del que serán responsables solidarios y lo enterarán mediante declaraciones ante la Oficina Recaudadora que corresponda. Esta declaración deberá presentarse aún en el caso de que sólo haya a enterar la cuota fija a que se refieren las Fracciones I y II del Artículo 58 de esta Ley, ya sea porque sólo ésta es la que se causa o bien porque la base resulte inferior a la deducción que autoriza la Ley, así como también cuando el acto o contrato se encuentre en los supuestos del Artículo 59 de este Ordenamiento. Dicha declaración será firmada por el Notario y se presentará acompañada de tres copias de la escritura y del avalúo comercial respectivo, acompañando los siguientes datos:
+En las adquisiciones que se hagan constar en escritura pública, los notarios, jueces, corredores y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad, y lo enterarán mediante declaración ante la Oficina Recaudadora que corresponda. Esta declaración deberá presentarse aún en el caso de que no haya impuesto a enterar. Dicha declaración será firmada por el Notario y se presentará acompañada de tres copias de la escritura y del avalúo comercial respectivo, manifestando los siguientes datos:
 
 I.- Número y fecha de la escritura;
 
@@ -2652,3 +2636,17 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 20 DE FEBRERO DE 1991.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 12 DE JULIO DE 1991.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Para la aplicación de los artículos que se reforman conforme a este Decreto, se estará a las siguientes disposiciones transitorias:
+
+I.- Durante los años de 1991 y 1992 se aplicarán las tasas del 6% y 4%, respectivamente en lugar de la tasa establecida en el Artículo 58 de esta Ley.
+
+II.- Durante 1991, 1992 y 1993, el impuesto que resulte a cargo del contribuyente en dichos años, en ningún caso será mayor a aquél que se hubiere determinado en los términos de las disposiciones vigentes al 30 de Junio de 1991.
