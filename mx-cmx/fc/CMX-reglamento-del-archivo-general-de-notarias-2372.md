@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-archivo-general-de-notarias-2372"
 country: "mx"
 rank: "reglamento"
 publication_date: "1947-06-20"
-last_updated: "1947-06-20"
+last_updated: "1980-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2372&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1947-03-24"
 
 REGLAMENTO DEL ARCHIVO GENERAL DE NOTARIAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD, PUBLICADO EN EL D.O.F. DE 6 DE MAYO DE 1980, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el 20 de junio de 1947.
 
@@ -127,3 +129,11 @@ TRANSITORIO:
 El presente Reglamento comenzará a surtir sus efectos cinco días después de la fecha de su publicación.
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su publicación y observancia, promulgo el presente Reglamento en la residencia del Poder Ejecutivo Federal, en la ciudad de México, a los veinticuatro días del mes de marzo de mil novecientos cuarenta y siete.- Miguel Alemán Valdés.- Rúbrica.- Cúmplase: El Jefe del Departamento del Distrito Federal, Fernando Casas Alemán.- Rúbrica.- Al C. Héctor Pérez Martínez, Secretario de Gobernación.- Presente.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 6 DE MAYO DE 1980.
+
+PRIMERO.- Este Reglamento entrará en vigor a partir del día de su publicación en el "Diario Oficial" de la Federación.
+
+SEGUNDO.- Quedan abrogados los Reglamentos publicados en el "Diario Oficial" de la Federación el 20 de junio de 1947 y el 17 de enero de 1979, del Archivo General de Notarías y del Registro Público de la Propiedad, respectivamente.
