@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-del-estado-de-michoacan-5934"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1945-02-12"
+last_updated: "1950-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 1945.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 1950.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el 30 de julio de 1936.
 
@@ -5551,9 +5551,9 @@ De los juicios de sucesión
 
 ###### Artículo 1074.
 
-El tribunal, tan luego como tenga conocimiento de que una persona ha fallecido, nombrará un albacea provisional de la sucesión, quien se ocupará de inventariar los bienes mortuorios y representará a la sucesión mientras se nombra albacea definitivo o se declara legítimo el testamento en su caso.
+El Tribunal, tan luego como tenga conocimiento de que una persona ha fallecido, nombrará un Albacea provisional de la Sucesión, en los términos que adelante se expresan, quien se ocupará de inventariar los bienes mortuorios y representará a la sucesión mientras se nombra Albacea definitivo o se declara legítimo el testamento en su caso.
 
-Siempre que sea posible, el albacea provisional será nombrado dentro de los presuntos herederos.
+El Albacea provisional será nombrado dentro de los presuntos herederos, si al radicarse el juicio sucesorio presentaren los documentos con que pretendan acreditar su entroncamiento con el autor de la herencia; en caso, contrario, se designará al Representante del Fisco del Estado.
 
 ###### Artículo 1075.
 
@@ -5676,6 +5676,8 @@ Iniciado el juicio sucesorio y siendo los herederos mayores de edad, o lo sea la
 Cuando no hubiere este convenio, la oposición de parte se substanciará incidentalmente ante el juez que previno.
 
 ### CAPITULO I. Disposiciones generales
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1950)</small>
 
 ###### Artículo 1098.
 
@@ -7638,3 +7640,9 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 ###### ARTICULO TERCERO.
 
 Esta Ley empezará a regir desde el día de su publicación en el Periódico Oficial del Gobierno.
+
+P.O. 21 DE SEPTIEMBRE DE 1950.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
