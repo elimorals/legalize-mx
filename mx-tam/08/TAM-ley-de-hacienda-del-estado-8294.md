@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "1982-04-03"
+last_updated: "1982-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 1982.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -181,7 +181,7 @@ II.- Para el resto de los Municipios, la base por año no podrá ser menor de $ 
 
 DEL PAGO
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 1982. DECRETO No. 178)</small>
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 1982, DECRETO 178)</small>
 
 ###### ARTICULO 10o.
 
@@ -281,7 +281,7 @@ La Dirección General de Obras y Servicios Públicos del Estado y las Direccione
 
 ###### ARTICULO 29o.
 
-Las comunicaciones a que se refiere el artículo anterior, se hará por escrito dentro de los quince días siguientes a la fecha en que la Dirección General de Obras y Servicios Públicos o demás autoridades citadas reciban las manifestaciones de terminación o de ocupación de las construcciones o ampliaciones que deben presentar los constructores.
+Las comunicaciones a que se refiere el artículo anterior, se harán por escrito dentro de los quince días siguientes a la fecha en que la Dirección General de Obras y Servicios Públicos o demás autoridades citadas reciban las manifestaciones de terminación o de ocupación de las construcciones o ampliaciones que deben presentar los constructores.
 
 DE LAS EXENCIONES
 
@@ -1565,7 +1565,7 @@ La obligación que este artículo impone, deberá cumplirse por los propietarios
 
 ###### ARTICULO 154o.
 
-Las personas que realicen operaciones de venta de ganado que ostente fierro, marca o señal diferente a las que correspondan a su registro, comprobarán el pago del impuesto, ante las autoridades fiscales. Si se encuentran en poder de una persona animales con fierro marca o señal diferentes a los del registro correspondiente a dicha persona, se presumirán que han adquirido dicho ganado en virtud de operación de venta y deberán cubrir el impuesto conforme a la tarifa que establece este capítulo.
+Las personas que realicen operaciones de venta de ganado que ostente fierro, marca o señal diferente a las que correspondan a su registro, comprobarán el pago del impuesto, ante las autoridades fiscales. Si se encuentran en poder de una persona animales con fierro marca o señal (sic) diferentes a los del registro correspondiente a dicha persona, se presumirán que han adquirido dicho ganado en virtud de operación de venta y deberán cubrir el impuesto conforme a la tarifa que establece este capítulo.
 
 En el caso de traslación de ganado que no tenga el fierro, marca o señal del vendedor o propietario a quien se extendió el recibo oficial correspondiente, se presumirá como actos de doble operación y deberán cubrir el impuesto más la sanción correspondiente.
 
@@ -2661,7 +2661,7 @@ Son obligaciones de los sujetos de este impuesto:
 
 I.- Liquidar el impuesto en el momento en que se haga el entero de los conceptos básicos sobre los cuales recae, en las declaraciones que se presenten con motivo del pago de estos, salvo en aquellos casos en que se prevea una forma distinta.
 
-II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días lo. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
+II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días 1o. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
 
 III.- Las demás que este capítulo establece.
 
@@ -3090,3 +3090,7 @@ El presente Decreto surtirá retroactivamente sus efectos a partir del primero d
 ###### ARTICULO SEGUNDO.
 
 Para conocimiento y aplicación, publíquese este Decreto en el Periódico Oficial del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 1982
+
+UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
