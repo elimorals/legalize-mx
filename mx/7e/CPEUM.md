@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2002-06-14"
+last_updated: "2002-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE NOVIEMBRE DE 2002.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -114,11 +114,13 @@ Para garantizar el cumplimiento de las obligaciones señaladas en este apartado,
 
 Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca la ley.
 
-(REFORMADO, D.O.F. 5 DE MARZO DE 1993) (F. DE E., D.O.F. 9 DE MARZO DE 1993)
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, D.O.F. 12 DE NOVIEMBRE DE 2002)</small>
 
 ###### Art. 3o.
 
-Todo individuo tiene derecho a recibir educación. El Estado -Federación, Estados y Municipios- impartirá educación preescolar, primaria y secundaria. La educación primaria y la secundaria son obligatorias.
+Todo individuo tiene derecho a recibir educación. El Estado -federación, estados, Distrito Federal y municipios-, impartirá educación preescolar, primaria y secundaria. La educación preescolar, primaria y la secundaria conforman la educación básica obligatoria.
+
+> <small>(REFORMADO, D.O.F. 5 DE MARZO DE 1993)</small>
 
 La educación que imparta el Estado tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
 
@@ -134,13 +136,19 @@ b) Será nacional, en cuanto -sin hostilidades ni exclusivismos- atenderá a la 
 
 c) Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;
 
-III. Para dar pleno cumplimiento a lo dispuesto en el segundo párrafo y en la fracción II, el Ejecutivo Federal determinará los planes y programas de estudio de la educación primaria, secundaria y normal para toda la República. Para tales efectos, el Ejecutivo Federal considerará la opinión de los gobiernos de las entidades federativas y de los diversos sectores sociales involucrados en la educación, en los términos que la ley señale;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 12 DE NOVIEMBRE DE 2002)</small>
+
+III. Para dar pleno cumplimiento a lo dispuesto en el segundo párrafo y en la fracción II, el Ejecutivo Federal determinará los planes y programas de estudio de la educación preescolar, primaria, secundaria y normal para toda la República. Para tales efectos, el Ejecutivo Federal considerará la opinión de los gobiernos de las entidades federativas y del Distrito Federal, así como de los diversos sectores sociales involucrados en la educación, en los términos que la ley señale;
 
 IV. Toda la educación que el Estado imparta será gratuita;
 
-V. Además de impartir la educación preescolar, primaria y secundaria, señaladas en el primer párrafo, el Estado promoverá y atenderá todos los tipos y modalidades educativos -incluyendo la educación superior- necesarios para el desarrollo de la Nación, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y difusión de nuestra cultura;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 12 DE NOVIEMBRE DE 2002)</small>
 
-VI. Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares. En el caso de la educación primaria, secundaria y normal, los particulares deberán:
+V. Además de impartir la educación preescolar, primaria y secundaria señaladas en el primer párrafo, el Estado promoverá y atenderá todos los tipos y modalidades educativos -incluyendo la educación inicial y a la educación superior- necesarios para el desarrollo de la nación, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y difusión de nuestra cultura;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, D.O.F. 12 DE NOVIEMBRE DE 2002)</small>
+
+VI. Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares. En el caso de la educación preescolar, primaria, secundaria y normal, los particulares deberán:
 
 a) Impartir la educación con apego a los mismos fines y criterios que establecen el segundo párrafo y la fracción II, así como cumplir los planes y programas a que se refiere la fracción III, y
 
@@ -772,9 +780,9 @@ II.- La mujer o el varón extranjeros que contraigan matrimonio con varón o con
 
 Son obligaciones de los mexicanos:
 
-> <small>(REFORMADA, D.O.F. 5 DE MARZO DE 1993)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 12 DE NOVIEMBRE DE 2002)</small>
 
-I.- Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación primaria y secundaria, y reciban la militar, en los términos que establezca la ley.
+I.- Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación preescolar, primaria y secundaria, y reciban la militar, en los términos que establezca la ley.
 
 II.- Asistir en los días y horas designados por el Ayuntamiento del lugar en que residan, para recibir instrucción cívica y militar que los mantenga aptos en el ejercicio de los derechos de ciudadano, diestros en el manejo de las armas, y conocedores de la disciplina militar.
 
@@ -4862,6 +4870,22 @@ Una vez creada la entidad de fiscalización superior de la Federación, todos lo
 
 CUARTO.- El Contador Mayor de Hacienda será titular de la entidad de fiscalización superior de la Federación hasta el 31 de diciembre de 2001; podrá ser ratificado para continuar en dicho encargo hasta completar el período de ocho años a que se refiere el artículo 79 de esta Constitución.
 
+D.O.F. 13 DE SEPTIEMBRE DE 1999.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los actuales integrantes del Consejo Consultivo de la Comisión Nacional de Derechos Humanos, continuarán en su encargo hasta concluir el período para el que fueron designados, pudiendo, en su caso, ser propuestos y elegidos para un segundo período en los términos de lo dispuesto por el quinto párrafo del apartado B del Artículo 102 que se reforma por este Decreto.
+
+TERCERO.- En un plazo máximo de sesenta días, la Cámara de Senadores o, en su caso, la Comisión Permanente del Congreso de la Unión, deberá elegir al Presidente de la Comisión Nacional de los Derechos Humanos, conforme al procedimiento dispuesto por el apartado B del Artículo 102 que se reforma por este Decreto. Para tal efecto, se observarán las siguientes reglas:
+
+A.- La Comisión correspondiente de la Cámara de Senadores procederá a realizar una amplia auscultación entre las organizaciones sociales representativas de los distintos sectores de la sociedad, así como entre los organismos públicos y privados promotores o defensores de los Derechos Humanos.
+
+B.- Con base en la auscultación antes señalada, la Comisión podrá proponer la ratificación de la actual Titular de la Comisión Nacional de Derechos Humanos o, en su caso, integrar una terna de candidatos.
+
+CUARTO.- En tanto el Congreso de la Unión expide las reformas a la Ley de la Comisión Nacional de Derechos Humanos, ésta ejercerá sus atribuciones y competencias conforme a lo dispuesto por el presente Decreto y la ley reglamentaria vigente hasta dicha expedición.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
 D.O.F. 23 DE DICIEMBRE DE 1999.
 
 ###### ARTICULO PRIMERO.
@@ -4892,19 +4916,7 @@ Antes del inicio del ejercicio fiscal de 2002, las legislaturas de los estados, 
 
 ###### ARTICULO SEXTO.
 
-En la realización de las acciones conducentes al cumplimiento del presente decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-D.O.F. 23 DE DICIEMBRE DE 1999.
-
-###### ARTICULO PRIMERO.
-
-El presente decreto entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación, salvo lo previsto en los artículos siguientes.
-
-###### ARTICULO SEGUNDO.
-
-Los Estados deberán adecuar sus constituciones y leyes conforme a lo dispuesto en este decreto a más tardar en un año a partir de su entrada en vigor. En su caso, el Congreso de la Unión deberá realizar las adecuaciones a las leyes federales a más tardar el 30 de abril del año 2001.
-
-En tanto se realizan las adecuaciones a que se refiere el párrafo anterior, se continuarán aplicando las disposiciones vigentes.
+En la realización de las acciones conducentes al cumplimiento del presente decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
 
 D.O.F. 7 DE ABRIL DE 2000.
 
@@ -4930,6 +4942,14 @@ Las disposiciones legales vigentes continuarán aplicándose en lo que no se opo
 
 D.O.F. 14 DE AGOSTO DE 2001.
 
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Al entrar en vigor estas reformas, el Congreso de la Unión y las Legislaturas de las entidades federativas deberán realizar las adecuaciones a las leyes federales y constituciones locales que procedan y reglamenten lo aquí estipulado.
+
 ###### ARTICULO TERCERO.
 
 Para establecer la demarcación territorial de los distritos electorales uninominales deberá tomarse en consideración, cuando sea factible, la ubicación de los pueblos y comunidades indígenas, a fin de propiciar su participación política.
@@ -4951,6 +4971,24 @@ a) El pago de la indemnización se efectuaría después de seguir los procedimie
 b) El pago de la indemnización estará sujeto a la disponibilidad presupuestaria del ejercicio fiscal de que se trate.
 
 Para la expedición de las leyes o la realización de las modificaciones necesarias para proveer al debido cumplimiento del decreto, se contaría con el periodo comprendido entre la publicación del decreto y su entrada en vigor. Según la fecha de aprobación del Decreto y su consiguiente publicación, el citado periodo no sería menor a un año ni mayor a dos.
+
+D.O.F. 12 DE NOVIEMBRE DE 2002.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La autoridad educativa federal deberá, a la entrada en vigor del presente Decreto, instalar comisiones técnicas y de consulta con las demás autoridades educativas del país que resulten pertinentes, para iniciar un proceso tendiente a la unificación estructural, curricular y laboral de los tres niveles constitucionales obligatorios, en un solo nivel de educación básica integrada.
+
+Tercero.- La autoridad educativa federal deberá, a la entrada en vigor del presente Decreto, instalar comisiones técnicas y de consulta con las demás autoridades educativas del país que resulten pertinentes, para iniciar un proceso tendiente a la revisión de los planes, programas y materiales de estudio, para establecer, en el ejercicio de sus funciones constitucionales, los nuevos programas de estudio de la educación preescolar obligatoria para todo el país, así como preparar al personal docente y directivo de este nivel, de acuerdo a la nueva realidad educativa que surge de este Decreto.
+
+Cuarto.- Con el objetivo de impulsar la equidad en la calidad de los servicios de educación preescolar en el país, la autoridad educativa deberá prever lo necesario para dar cumplimiento a lo que dispone el artículo 2o. de la Ley Reglamentaria del artículo 5o. constitucional en materia de profesiones, en el sentido de que la impartición de la educación preescolar es una profesión que necesita título para su ejercicio, sin perjuicio de los derechos adquiridos de quienes a la fecha imparten este nivel educativo.
+
+Quinto.- La educación preescolar será obligatoria para todos en los siguientes plazos: en el tercer año de preescolar a partir del ciclo 2004-2005; el segundo año de preescolar, a partir del ciclo 2005-2006; el primer año de preescolar, a partir del ciclo 2008-2009. En los plazos señalados, el Estado mexicano habrá de universalizar en todo el país, con calidad, la oferta de este servicio educativo.
+
+Sexto.- Los presupuestos federal, estatales, del Distrito Federal y municipales incluirán los recursos necesarios para: la construcción, ampliación y equipamiento de la infraestructura suficiente para la cobertura progresiva de los servicios de educación preescolar; con sus correspondientes programas de formación profesional del personal docente así como de dotación de materiales de estudio gratuito para maestros y alumnos. Para las comunidades rurales alejadas de los centros urbanos y las zonas donde no haya sido posible establecer infraestructura para la prestación del servicio de educación preescolar, las autoridades educativas federales en coordinación con las locales, establecerán los programas especiales que se requieran y tomarán las decisiones pertinentes para asegurar el acceso de los educandos a los servicios de educación primaria.
+
+Séptimo.- Los gobiernos estatales y del Distrito Federal celebrarán con el gobierno federal convenios de colaboración que les permitan cumplir con la obligatoriedad de la educación preescolar en los términos establecidos en los artículos anteriores.
+
+Octavo.- Al entrar en vigor el presente Decreto, deberán impulsarse las reformas y adiciones a la Ley General de Educación y demás disposiciones legales aplicables en la materia.
 
 ###### ARTICULO PRIMERO.
 
