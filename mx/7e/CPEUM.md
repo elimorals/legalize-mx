@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1931-12-19"
+last_updated: "1933-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE DICIEMBRE DE 1931.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ABRIL DE 1933.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -730,9 +730,9 @@ VIII.- Para dar bases sobre las cuales el Ejecutivo pueda celebrar empréstitos 
 
 IX.- Para expedir aranceles sobre el comercio extranjero y para impedir que en el comercio de Estado a Estado se establezcan restricciones.
 
-> <small>(REFORMADA, D.O.F. 6 DE SEPTIEMBRE DE 1929)</small>
+> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 1933)</small>
 
-X.- Para legislar en toda la República sobre minería, comercio e instituciones de crédito; para establecer el Banco de Emisión Unico, en los términos del artículo 28 de esta Constitución, y para expedir las leyes del trabajo, reglamentarias del artículo 123 de la propia Constitución. La aplicación de las leyes del trabajo corresponde a la autoridades de los Estados, en sus respectivas jurisdicciones, excepto cuando se trate de asuntos relativos a Ferrocarriles y demás empresas de transportes amparadas por concesión federal, minería e hidrocarburos y, por último, los trabajos ejecutados en el mar y en las zonas marítimas, en la forma y términos que fijen las disposiciones reglamentarias.
+X. Para legislar en toda la República sobre Minería, Comercio e Instituciones de crédito; para establecer el Banco de Emisión Unico, en los términos del artículo 28 de esta Constitución, y para expedir las leyes del trabajo reglamentarias del artículo 123 de la propia Constitución. La aplicación de las leyes del trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, excepto cuando se trate de asuntos relativos a la industria textil, ferrocarriles y demás empresas de transporte amparadas por concesión federal, minería e hidrocarburos y, por último, los trabajos ejecutados en el mar y en las zonas marítimas, en la forma y términos que fijen las disposiciones reglamentarias.
 
 XI.- Para crear y suprimir empleos públicos de la Federación y señalar, aumentar o disminuir sus dotaciones.
 
@@ -1685,3 +1685,9 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 D.O.F. 19 DE DICIEMBRE DE 1931.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
+
+D.O.F. 27 DE ABRIL DE 1933.
+
+###### ARTICULO UNICO.
+
+Esta Ley comenzará a regir desde la fecha de su publicación en el "Diario Oficial."
