@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-reglamentaria-del-articulo-5-23364"
 country: "mx"
 rank: "reglamento"
 publication_date: "1945-10-01"
-last_updated: "1945-10-01"
+last_updated: "1951-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23364&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1945-09-27"
 
 REGLAMENTO DE LA LEY REGLAMENTARIA DEL ARTICULO 4° Y 5° CONSTITUCIONALES, RELATIVOS AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO Y TERRITORIOS FEDERALES Y EN MATERIA FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JULIO DE 1951.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 1 de octubre de 1945.
 
@@ -635,3 +635,27 @@ Las autoridades que lleven algún registro de profesionistas remitirán, a la Di
 Los plazos establecidos en la ley y en este reglamento empezarán a correr a partir del día siguiente del en que entre en vigor este ordenamiento.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintisiete días del mes de septiembre de mil novecientos cuarenta y cinco.- El Presidente Constitucional de los Estados Unidos Mexicanos, Manuel Avila Camacho.- Rúbrica.- El Secretario de Educación Pública, Jaime Torres Bidet.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 4 DE JULIO DE 1951.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al siguiente día de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Los estudios previos y profesionales de capacitación efectuados en las escuelas de este tipo no reconocidas oficialmente que obtengan su reconocimiento en los términos del artículo 4° transitorio reformado del Reglamento, podrán ser revalidados por acuerdo del Secretario de Educación Pública.
+
+###### ARTICULO TERCERO.
+
+Las escuelas ya reconocidas por la Dirección General de Profesiones no requerirán de la autorización de la Secretaría de Educación Pública, ni revalidación de los estudios realizados en ellas.
+
+###### ARTICULO CUARTO.
+
+Las escuelas de capacitación reconocidas con anterioridad por la Secretaría de Educación Pública se inscribirán en la Dirección General de Profesiones, teniendo validez los estudios realizados en las mismas.
+
+###### ARTICULO QUINTO.
+
+En relación con el artículo 4° transitorio, reformado, del reglamento y con los artículos segundo, tercero y cuarto transitorios de este decreto, como en todo caso, sólo tendrán validez los estudios de capacitación que se hubiesen realizado o realicen por los interesados que hayan dado cumplimiento a todos los requisitos establecidos en la ley reglamentaria de los artículos 4° y 5° constitucionales, en su reglamento, en este decreto y en las demás disposiciones legales vigentes.
