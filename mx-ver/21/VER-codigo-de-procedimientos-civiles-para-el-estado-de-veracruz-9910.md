@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "1969-11-27"
+last_updated: "1970-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE NOVIEMBRE DE 1969.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE DICIEMBRE DE 1970.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -1063,13 +1063,17 @@ ARTICULO 161
 
 La casa o institución en que deba constituirse el depósito, será en todo caso, designada por el juez; y el depositario deberá ser persona honorable, de buenas costumbres, e idónea para la seguridad y guarda del depositado.
 
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 1970)</small>
+
 ARTICULO 162
 
-En los casos previstos por la fracción III, del artículo 156 del Código Civil, el juez dictará las medidas que crea convenientes para que, sin perjuicio de la resolución que recaiga en la sentencia de divorcio, los acreedores alimentarios, inclusive el cónyuge en su caso, queden protegidos y asegurados en la percepción de alimentos.
+En los casos previstos por la fracción III, del artículo 156 del Código Civil, el Juez dictará las medidas que crea convenientes para que, sin perjuicio de la resolución que recaiga en la sentencia de divorcio, los acreedores alimentarios, inclusive el cónyuge en su caso, queden protegidos y asegurados en la percepción de alimentos.
 
-Igualmente dictará las medidas adecuadas, de acuerdo con las restantes fracciones del precepto citado del Código Civil, para el aseguramiento y cuidado de los hijos, para evitar perjuicio de un cónyuge al otro, para cumplir con las precauciones establecidas en el caso de que la mujer quede encinta, y las demás que prevenga la ley.
+Igualmente dictará las medidas adecuadas, de acuerdo con las restantes fracciones del precepto citado del Código Civil, para el aseguramiento y cuidado de los hijos, para evitar perjuicio de un cónyuge al otro, para cumplir con las precauciones establecidas en el caso de que la mujer quede encinta, y las demás que prevenga la Ley.
 
-Cualquiera reclamación sobre las medidas a que se refiere este Capítulo, se resolverá con un solo escrito de cada parte, sin ulterior recurso.
+En los casos en que se reclamen alimentos, el Juez podrá en el auto en que dé entrada a la demanda, a petición de parte y atendiendo a las circunstancias, fijar una pensión alimenticia provisional, cuando los acreedores justifiquen con las correspondientes actas del Registro Civil, el vínculo matrimonial o su parentesco con el deudor alimentista, sin perjuicio de lo que se resuelva en la sentencia definitiva.
+
+Cualquiera reclamación sobre las medidas a que se refiere este Capítulo, se resolverán con un solo escrito de cada parte, sin ulterior recurso.
 
 ARTICULO 163
 
@@ -4763,7 +4767,7 @@ Los instructivos se extenderán en esqueletos impresos tomados de libros talonar
 
 ARTICULO 755
 
-El comisario o gendarme que entregue el instructivo recogerá en una libreta especial, recibo de él. Si no supiere o no pudiere firmar la persona de debiere hacerlo, será firmado por alguna otra presente en su nombre, asentándose en la libreta a quien se haya hecho la entrega y el motivo.
+El comisario o gendarme que entregue el instructivo recogerá en una libreta especial, recibo de él. Si no supiere o no pudiere firmar la persona que debiere hacerlo, será firmado por alguna otra presente en su nombre, asentándose en la libreta a quien se haya hecho la entrega y el motivo.
 
 En el juzgado habrá el número necesario de libretas para que pueda llevar una cada encargado de hacer notificaciones.
 
@@ -4998,3 +5002,7 @@ Esta Ley entrará en vigor a partir del día primero de enero del año de mil no
 ###### ARTICULO SEGUNDO.
 
 Publíquese en la "Gaceta Oficial" del Estado.
+
+G.O. 22 DE DICIEMBRE DE 1970.
+
+La presente Ley surtirá sus efectos legales, a partir de la fecha de su publicación en la "Gaceta Oficial" del Estado.
