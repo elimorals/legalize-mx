@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1939-03-25"
+last_updated: "1947-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 1939.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 1947.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -331,6 +331,8 @@ IV. No estar en servicio activo en el Ejército Nacional, ni en las fuerzas del 
 
 V. No ser Secretario de Gobierno o quien haga sus veces, a no ser que se separe del cargo cuando menos noventa días antes de la elección.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1947)</small>
+
 ### CAPITULO SEGUNDO
 
 De las Facultades y Obligaciones del Gobernador.
@@ -339,11 +341,13 @@ De las Facultades y Obligaciones del Gobernador.
 
 ###### Art. 28.
 
-El Gobernador será electo popularmente cada cuatro años y entrará a ejercer sus funciones el primer día de marzo, posterior a la elección. Nunca podrá ser reelecto.
+El Gobernador entrará a ejercer su encargo el primer día de marzo posterior a su elección, durará en él seis años y nunca podrá ser reelecto.
 
-No podrá ser electo para el período inmediato el ciudadano que haya desempeñado el Poder Ejecutivo como Gobernador substituto o interino; pudiendo serlo para completar el periodo de sesiones, siempre que se separe cuando menos treinta días antes de la elección.
+El Ciudadano que haya desempeñado el Poder Ejecutivo como Gobernador substituto o interino no podrá ser electo para el período inmediato; pudiendo serlo para completar el período en que funcione, siempre que se separe cuando menos con treinta días antes de la elección.
 
-En el caso de que el substituto funcione por licencia concedida al Gobernador, no quedará impedido para ser electo en el periodo inmediato, siempre que no estuviere en el desempeño de aquellos, noventa días antes de celebrarse la elección.
+En caso de que el substituto funcione por licencia concedida al Gobernador, no quedará impedido para ser electo en el período inmediato, siempre que no estuviere en el desempeño del cargo, noventa días antes de celebrarse la elección.
+
+La elección del Gobernador será directa y en los términos que disponga la Ley Electoral.
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 1939)</small>
 
@@ -720,3 +724,7 @@ El presente Decreto surtirá efectos a partir del siguiente día a aquel en que 
 ###### ARTICULO SEGUNDO.
 
 Las primeras elecciones para Munícipes a que se convoque en cada uno de los Municipios con posterioridad a la fecha en que entre en vigor este Decreto, se efectuarán con la advertencia de que los Munícipes que resultaren electos, sólo durarán en su cargo un año, a fin de que concluya su periodo al mismo tiempo que el de los demás Munícipes y pueda en lo sucesivo renovarse el Ayuntamiento en su totalidad cada dos años.
+
+P.O. 18 DE FEBRERO DE 1947.
+
+UNICO.- Esta Ley entrará en vigor el mismo día en que se declare que es parte de la Constitución Política del Estado.
