@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1943-07-31"
+last_updated: "1944-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 1944.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -11669,17 +11669,19 @@ Del Comodato.
 
 De los Derechos y Obligaciones del Arrendatario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 1944)</small>
+
 ###### Artículo 2280.
 
 Hay arrendamiento cuanto las dos partes contratantes se obligan recíprocamente, una, a conceder el uso o goce temporal de una cosa, y la otra, a pagar por ese uso o goce un precio cierto.
 
 El arrendamiento no puede exceder de diez años para las fincas destinadas a habitación, de quince para las destinadas al comercio, y de veinte para las fincas destinadas para el ejercicio de una industria.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1943)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1944)</small>
 
 ###### Artículo 2281.
 
-La renta o precio del arrendamiento puede consistir en una suma de dinero o en cualquiera otra cosa equivalente con tal que sea cierta y determinada.
+La renta o precio del arrendamiento puede consistir en una suma de dinero o en cualquiera otra cosa equivalente, con tal que sea cierta y determinada.
 
 ###### Artículo 2282.
 
@@ -11736,6 +11738,8 @@ Los arrendamientos de bienes municipales o de establecimientos públicos, estar�
 ### CAPITULO IV.
 
 Del Arrendamiento de Fincas Urbanas.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1944)</small>
 
 ###### Artículo 2294.
 
@@ -11811,13 +11815,15 @@ Del Arrendamiento de Fincas Rústicas.
 
 ###### Artículo 2307.
 
-El arrendatario está obligado:
+El arrendario (sic) está obligado:
 
 I.- A satisfacer la renta en la forma y tiempo convenidos;
 
 II.- A responder de los perjuicios que la cosa arrendada sufra por su culpa o negligencia la de sus familiares, sirvientes o sub-arrendatarios;
 
-III.- A servirse de la cosa solamente para el uso convenido o conforme a la naturaleza y destino de ella.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 1944)</small>
+
+III.- A servirse de la cosa para el uso convenido o conforme a la naturaleza y destino de ella, debiendo tenerse en cuenta lo dispuesto en el Artículo 1681.
 
 ###### Artículo 2308.
 
@@ -11915,21 +11921,31 @@ Del Arrendamiento de Bienes Muebles.
 
 ###### Artículo 2330.
 
-No podrá darse en arrendamiento una localidad que no reúna las condiciones de higiene y salubridad exigidas en el Código Sanitario.
+El contrato de arrendamiento de fincas urbanas no se celebrará por tiempo indeterminado, debiendo celebrarse por tiempo expresamente determinado. El término de duración del contrato no podrá ser menor de dos años forzosos para el arrendador y discrecionales para el arrendatario; pero cuando no se señalare de manera expresa el término de duración, se considerará fijado el mismo término de dos años, igualmente forzoso para el arrendador y discrecional para el arrendatario.
+
+La infracción de este Artículo produce, por cuanto al contrato como título jurídico, la falta de acción o excepción en juicio.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1944)</small>
 
 ###### Artículo 2331.
 
-El arrendador que no haga las obras que ordene el Departamento de Salubridad Pública, como necesarias para que una localidad sea habitable e higiénica, es responsable de los daños y perjuicios que los inquilinos sufran por esa causa.
+No podrá darse en arrendamiento una localidad que no reúna las condiciones de higiene y salubridad exigidas en el Código Sanitario. El arrendador que contravenga esta disqosición (sic) será responsable de los daños y perjuicios que por esta causa sufra el arrendatario, y además pagará una multa de veinticinco a cien pesos.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1944)</small>
 
 ###### Artículo 2332.
+
+El arrendador que no haga las obras que ordene la autoridad competente en el Estado, en el ramo de Salubridad Pública, como necesarias para que una localidad sea habitable e higiénica, es responsable de los daños y perjuicios que los inquilinos sufran por esta causa, y pagará, además, una multa de veinticinco a cien pesos.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1944)</small>
+
+###### Artículo 2333.
 
 El propietario no puede rehusar como fiador a una persona que reúna los requisitos exigidos por la ley para que sea fiador.
 
 Si la renta no excede de veinticinco pesos mensuales, es potestativo para el arrendatario dar fianza o substituir esa garantía con el depósito de un mes de renta.
 
-###### Artículo 2333.
-
-No puede renunciarse anticipadamente el derecho de cobrar la indemnización que concede el artículo 2331.
+No puede renunciarse anticipadamente el derecho de cobrar la indemnización que conceden los Artículos 2330, 2331 y 2332.
 
 ###### Artículo 2334.
 
@@ -12131,13 +12147,15 @@ En el caso del artículo anterior, si el predio fuere urbano, el arrendamiento c
 
 Cuando haya prórroga en el contrato de arrendamiento, y en los casos de que hablan los dos artículos anteriores, cesan las obligaciones otorgadas por un tercero para la seguridad del arrendamiento, salvo convenio en contrario.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1944)</small>
+
 ###### Artículo 2371.
 
 El arrendador puede exigir la rescisión del contrato:
 
-I.- Por falta de pago de la renta en los términos prevenidos en los artículos 2334 y 2336;
+I.- Por falta de pago de la renta en los términos prevenidos en el Artículo 2336 para los contratos de fincas rústicas. Tratándose de fincas urbanas, por falta de pago de la renta correspondiente a dos meses.
 
-II.- Por usarse la cosa en contravención a lo dispuesto en la fracción III del artículo 2307;
+II.- Por usarse la cosa en contravención a lo dispuesto en la fracción III del artículo 2307.
 
 III.- Por el subarriendo de la cosa en contravención a lo dispuesto en el artículo 2362.
 
@@ -15212,3 +15230,13 @@ Unico.- Este Decreto comenzará a surtir sus efectos legales a partir de la fech
 P.O. 31 DE JULIO DE 1943.
 
 Artículo Unico.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE ABRIL DE 1944.
+
+Artículo Primero.- Todos los contratos de arrendamiento de fincas urbanas para habitación vigentes o vencidos a la fecha de la publicación del presente decreto quedarán prorrogados por el tiempo que dure el actual estado de guerra con los países del Eje.
+
+Artículo Segundo.- Los juicios sumarios de desocupación por terminación de contratos de arrendamiento de fincas urbanas para habitación que estén tramitándose a la vigencia de este decreto, quedarán suspensos en su procedimiento hasta que cese el estado actual de emergencia y sin que pare perjuicio al demandante la caducidad de la instancia.
+
+Artículo Tercero.- Quedan congeladas las rentas de fincas urbanas para habitación por el tiempo que dure el estado actual de guerra y en los términos qne (sic) regían a la fecha de la duplicación del presente decreto.
+
+Artículo Cuarto.- Este decreto empezará a surtir sus efectos a partir del día de su publicación en el Periódico Oficial del Estado.
