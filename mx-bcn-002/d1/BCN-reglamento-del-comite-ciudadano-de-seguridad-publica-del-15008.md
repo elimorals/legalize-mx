@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-comite-ciudadano-de-seguridad-publica-del-15008"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-13"
-last_updated: "1999-08-13"
+last_updated: "2002-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DEL COMITE CIUDADANO DE SEGURIDAD PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2002.
 
 Reglamento publicado en la Sección I del Periódico Oficial en el Estado de Baja California, el viernes 13 de agosto de 1999.
 
@@ -167,11 +167,17 @@ d) El Director de Seguridad Pública Municipal.
 
 e) El Presidente del Patronato DARE Mexicali.
 
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2002)</small>
+
+Para el mejor desempeño de sus funciones, el Comité contará con el apoyo y asistencia de un Secretario Técnico, quien podrá ser remunerado.
+
 III. Un secretario Técnico.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
 
 ###### Artículo 7.
 
-Los cargos del Comité son honoríficos, y por lo tanto no recibirán remuneración alguna por su desempeño.
+Los cargos de Consejeros del Comité son honoríficos, y por lo tanto no recibirán remuneración alguna por su desempeño.
 
 ###### Artículo 8.
 
@@ -305,7 +311,9 @@ II. Resguardar el archivo del Comité para entregarlo a quien lo sustituya, y da
 
 III. Participar en las sesiones sólo con derecho a voz en aquellos asuntos que sean de su competencia, y
 
-IV. Las demás que le confieran las leyes y reglamentos respectivos.
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2002)</small>
+
+IV. Las demás que le confieran el pleno del Comité, las leyes y reglamentos respectivos.
 
 ### Capitulo Quinto. De las sesiones del Comité
 
@@ -344,6 +352,10 @@ El consejero ciudadano que deje de asistir a tres sesiones consecutivas sin caus
 Cuando dicha inasistencia sea mayor al veinte por ciento del total de las sesiones realizadas en un año de calendario, se procederá en los términos del párrafo anterior.
 
 Las inasistencias del Presidente del Comité, deberán ser cubiertas por el consejero ciudadano que éstos decidan por simple mayoría.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2002)</small>
+
+Las inasistencias del Secretario Técnico del Comité, serán cubiertas en los términos del párrafo anterior.
 
 ###### Artículo 25.
 
@@ -388,3 +400,9 @@ Tercero. Los consejeros ciudadanos y el secretario técnico del primer comité, 
 LIC. MARIO LUIS CORRAL CALIGARIS
 
 SECRETARIO DEL XVI AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE MARZO DE 2002.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
