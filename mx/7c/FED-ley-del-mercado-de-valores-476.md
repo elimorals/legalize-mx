@@ -4,7 +4,7 @@ identifier: "FED-ley-del-mercado-de-valores-476"
 country: "mx"
 rank: "ley"
 publication_date: "1975-01-02"
-last_updated: "1990-01-04"
+last_updated: "1990-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=476&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMV"
 
 LEY DEL MERCADO DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JULIO DE 1990.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 2 de enero de 1975.
 
@@ -360,9 +360,13 @@ II.- En ningún momento podrán participar en su capital social, directamente o 
 
 a) Casas de bolsa o especialistas bursátiles;
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 1990)</small>
 
-b) Extranjeros que no tengan el carácter de inmigrados, y
+b) Gobiernos o dependencias oficiales extranjeros.
+
+La Secretaría de Hacienda y Crédito Público podrá discrecionalmente autorizar la inversión extranjera en el capital social de las casas de bolsa, siempre que no exceda en su conjunto del 30% de dicho capital. La participación individual extranjera, en ningún caso podrá exceder del 10% de las acciones representativas del capital social de una casa de bolsa, sin que en este caso le sea aplicable lo dispuesto en el segundo párrafo del artículo 19 de esta Ley.
+
+Todo extranjero que en el acto de constitución o cualquier tiempo ulterior adquiera un interés o participación social en una casa de bolsa, se considerará, por ese solo hecho, como mexicano respecto de uno y otra y se entenderá en que conviene en no invocar la protección de su gobierno bajo la pena, en caso de faltar a su convenio, de perder dicho interés o participación en favor de la Nación.
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
@@ -372,9 +376,9 @@ c) Instituciones de crédito, salvo cuando lo hagan con el carácter de fiduciar
 
 d) Instituciones de seguros o de fianzas, organizaciones auxiliares del crédito, casas de cambio, ni sociedades de inversión.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 1990)</small>
 
-e) Otras personas morales, con excepción de las sociedades controladoras a que se refiere el artículo 18 de esta Ley y las demás personas morales de nacionalidad mexicana que autorice la Comisión Nacional de Valores mediante disposiciones de carácter general, las cuales tendrán por objetivo prevenir conflictos de intereses y fortalecer la capitalización de los intermediarios.
+e) Otras personas morales, con excepción de las sociedades controladoras a que se refiere la Ley para Regular las Agrupaciones Financieras y las demás personas morales que autorice la Comisión Nacional de Valores mediante disposiciones de carácter general, las cuales tendrán por objetivo prevenir conflictos de interés y fortalecer la capitalización de los intermediarios.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
@@ -418,7 +422,7 @@ b) Los planes de trabajo con los objetivos a corto y mediano plazo, que sean aco
 
 VI.- Adquirir una acción de bolsa de valores, conforme a lo dispuesto por el artículo 32 de esta Ley.
 
-(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 1985)(F. DE E., D.O.F. 23 DE ENERO DE 1987)
+(ADICIONADA, D.O. F. 27 DE DICIEMBRE DE 1985)(F. DE E., D.O.F. 23 DE ENERO DE 1987)
 
 VII.- Participar en el fondo de apoyo y garantía previsto en el artículo 89 de la Ley.
 
@@ -434,57 +438,17 @@ La autorización para la inscripción de las casas de bolsa la otorgará discrec
 
 La escritura constitutiva y estatutos de las sociedades de que se trata, así como sus modificaciones, deberán ser aprobadas por la Comisión Nacional de Valores. Obtenida esta aprobación, la escritura o sus reformas podrán ser inscritas en el Registro de Comercio, sin que sea necesario mandamiento judicial. En todo caso, deberán proporcionar a dicha Comisión copia certificada de las actas de sus asambleas y, cuando proceda, testimonio notarial en el que conste la protocolización de las mismas.
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 1990)</small>
 
 ###### ARTICULO 18.
 
-Las casas de bolsa no podrán utilizar denominaciones iguales o semejantes a las de otros intermediarios financieros, ni ostentarse de cualquier manera como integrantes de grupos financieros, salvo cuando éstos se encuentren constituidos y funcionen conforme a las bases siguientes:
+Las casas de bolsa que no formen parte de un grupo financiero podrán, de conformidad con las disposiciones generales que, en su caso, expida la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional de Valores:
 
-I.- Sólo podrán estar integrados con casas de bolsa, almacenes generales de depósito, arrendadoras financieras, casas de cambio, empresas de factoraje financiero, instituciones de fianzas, instituciones de seguros, sociedades operadoras de sociedades de inversión, así como con cualquier otra clase de sociedades que determine la Secretaría de Hacienda y Crédito Público.
+I.- Adquirir, con cargo a su capital global, acciones representativas del capital de almacenes generales de depósito, arrendadoras financieras, casas de cambio, empresas de factoraje financiero, sociedades de inversión y sociedades operadoras de estas últimas. Estas adquisiciones se harán previa autorización que en su caso otorgue la referida Secretaría;
 
-Cada grupo deberá contar por lo menos con tres de los intermediarios financieros antes citados que no sean sociedades operadoras de sociedades de inversión.
+II.- Utilizar denominaciones iguales o semejantes, actuar de manera conjunta y ofrecer servicios complementarios, con las entidades financieras, en cuyo capital participen, y
 
-No podrán participar en un mismo grupo dos o más intermediarios financieros de una misma clase, salvo sociedades operadoras de sociedades de inversión. También podrán participar dos o más instituciones de seguros, cuando se trate de instituciones autorizadas para operar en ramos distintos.
-
-Los intermediarios financieros en cuyo capital participen instituciones de crédito, sólo podrán participar en un grupo financiero con autorización de la Secretaría de Hacienda y Crédito Público;
-
-II.- Las acciones con derecho a voto, que representen por lo menos el cincuenta y uno por ciento del capital pagado de cada uno de los integrantes del grupo, deberán ser propiedad de una misma sociedad anónima controladora que tenga por objeto adquirir tales acciones;
-
-III.- Ninguna persona física o moral podrá adquirir, directa o indirectamente, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de más del quince por ciento del capital pagado de una sociedad controladora.
-
-Este límite también se aplicará a las personas que, de acuerdo con las disposiciones de carácter general que expida la Secretaría de Hacienda y Crédito Público mencionadas en la fracción X siguiente, deban considerarse para estos efectos como una sola persona;
-
-IV.- En ningún momento podrán participar en forma alguna en el capital de las sociedades controladoras, directamente o a través de interpósita persona:
-
-a) Gobiernos o dependencias oficiales extranjeros ni, en general personas extranjeras físicas o morales;
-
-b) Instituciones de crédito, ni cualquier otro intermediario financiero, incluso los que formen parte del respectivo grupo, ni
-
-c) Personas morales mexicanas, salvo las que autorice la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, las cuales se dictarán con vistas a favorecer la capitalización de las sociedades controladoras y siempre que dichas personas morales no participen simultáneamente en el capital de intermediarios financieros, ni éstos en el capital de las personas morales de referencia.
-
-V.- Salvo la excepción señalada en el párrafo siguiente, los intermediarios financieros que formen parte de uno de estos grupos, deberán abstenerse de participar en el capital de otros intermediarios financieros, incluso en el capital de los otros integrantes del grupo.
-
-Las instituciones de seguros y las instituciones de fianzas podrán participar, de conformidad con las disposiciones aplicables, en el capital de otras de estas instituciones;
-
-VI.- Las personas que adquieran acciones en contravención de lo dispuesto en las fracciones III a V anteriores deberán venderlas dentro de los diez días hábiles siguientes a la fecha en que así lo requiera la Secretaría de Hacienda y Crédito Público.
-
-Si transcurrido el plazo citado no se regulariza la inversión, la sociedad emisora procederá a reembolsar las acciones adquiridas en contravención, al cincuenta por ciento de su valor en libros según el último estado financiero aprobado. Las acciones así reembolsadas deberán recolocarse dentro del plazo que para tal efecto determine la propia Secretaría;
-
-VII.- La sociedad controladora y cada uno de los intermediarios financieros participantes deberán suscribir un convenio conforme al cual la primera responderá subsidiaria, solidaria e ilimitadamente por las pérdidas de todos y de cada uno de dichos intermediarios financieros. La referida responsabilidad deberá estar prevista expresamente en los estatutos de la sociedad controladora.
-
-En el convenio citado también deberá señalarse expresamente que cada uno de los intermediarios financieros del grupo no responderán por las pérdidas de la sociedad controladora, ni de las de los demás participantes del grupo;
-
-VIII.- La escritura constitutiva de la sociedad controladora, los convenios respectivos, así como las modificaciones a dichos documentos, deberán someterse a la previa aprobación de la Secretaría de Hacienda y Crédito Público, a efecto de revisar si los mismos se ajustan a los señalado (sic) en el presente artículo y a las disposiciones generales mencionadas en la fracción X siguiente.
-
-Una vez otorgada dicha aprobación, la escritura constitutiva y, en su caso, sus reformas deberán ser inscritas en el Registro de Comercio, sin que sea preciso mandamiento judicial ni de alguna otra autoridad;
-
-IX.- Las sociedades controladoras previstas en la fracción II anterior, estarán sujetas a la inspección y vigilancia de la Comisión Nacional de Valores; y
-
-X.- La Secretaría de Hacienda y Crédito Público expedirá las reglas generales que regulen, de conformidad con las bases señaladas en el presente artículo, la constitución y operación de grupos financieros no bancarios.
-
-Al ejercer las facultades que le confiere este artículo, la propia Secretaría escuchará la previa opinión del Banco de México y de las Comisiones Nacionales Bancaria, de Seguros y Fianzas y de Valores.
-
-Las casas de bolsa también podrán prestar servicios complementarios con instituciones de crédito, así como seguir frente al público políticas operativas y de servicios comunes, y utilizar denominaciones iguales o semejantes, con sociedades de inversión, sociedades operadoras de estas últimas y con casas de cambio.
+III.- Prestar servicios complementarios con instituciones de crédito del país.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
 
@@ -1186,9 +1150,11 @@ III.- Ejecutar los acuerdos de la Junta de Gobierno, con la facultad de delegar 
 
 IV.- Designar interventor en los casos en que se ejerzan las atribuciones previstas en las fracciones VII y VIII del artículo 41.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 1990)</small>
 
-V.- Formular y someter a aprobación de la Junta de Gobierno, los proyectos de presupuesto de ingresos y de gastos para cada ejercicio anual, y presentarlos una vez aprobados, por conducto de la Secretaría de Hacienda y Crédito Público a la Secretaría de Programación y Presupuesto para la autorización respectiva.
+V. Formular anualmente el presupuesto de ingresos y egresos de la Comisión, el cual una vez probado por la Junta de Gobierno, será sometido a la autorización de la Secretaría de Hacienda y Crédito Público.
+
+Las cuotas que perciba la Comisión con motivo de las funciones que realiza y su presupuesto de egresos, no formarán parte de los ingresos del Gobierno Federal ni figurarán en los presupuestos de éste.
 
 VI.- Informar a la Junta de Gobierno sobre el ejercicio del presupuesto, con la periodicidad que la misma determine.
 
@@ -1302,6 +1268,8 @@ b) Hasta el 2% cuando la transgresión exceda del 10% y no llegue al 20%, y
 
 c) Hasta un 3% cuando la transgresión sea del 20% o exceda este último porcentaje.
 
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
+
 > <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 El importe de estas multas se determinará con base en las cifras que arroje el estado mensual de contabilidad correspondiente al periodo en que la infracción sea cometida.
@@ -1329,6 +1297,10 @@ Para la imposición de las multas correspondientes, la Comisión Nacional de Val
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 Tratándose de sociedades emisoras de valores inscritos en el Registro Nacional de Valores e Intermediarios, casas de bolsa, especialistas bursátiles o bolsas de valores que infrinjan o se ubiquen en lo dispuesto por los artículos 14, 20 ó 38, segundo párrafo de esta Ley, la Comisión Nacional de Valores, considerando la gravedad de la infracción podrá imponer las multas establecidas en este artículo, o bien proceder a la suspensión registral o a proponer a la Secretaría de Hacienda y Crédito Público que revoque la autorización o concesión de la casa de bolsa o bolsa de valores correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 1990)</small>
+
+Las sanciones que haya impuesto la Comisión Nacional de Valores a las personas sujetas a su inspección y vigilancia, así como en ejercicio de sus funciones y en los términos de la presente Ley, se podrán hacer efectivas cargando su importe en la cuenta que lleva el Banco de México a dichas sociedades. Tratándose de las sanciones impuestas a particulares, se harán efectivas por la Secretaría de Hacienda y Crédito Público.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
 
@@ -2297,3 +2269,13 @@ QUINTO.- Las casas de bolsa deberán redocumentar los contratos que tienen celeb
 SEXTO.- Las casas de bolsa y la Bolsa Mexicana de Valores, S.A. de C.V., realizarán los actos necesarios para instruir el fiduciario en el fondo de apoyo preventivo para establecer la estabilidad financiera y garantizar el cumplimiento de las obligaciones contraídas por las casas de bolsa con su clientela, que a la fecha del presente Decreto se encuentra constituido, para que entregue el patrimonio de éste al Banco de México como fiduciario en el nuevo fondo de apoyo preventivo a que se refiere el artículo 89 de la Ley del Mercado de Valores una vez reformado, con el objeto de que pase a formar parte del patrimonio de este último fondo.
 
 SEPTIMO.- Las infracciones cometidas antes de la vigencia de este Decreto y los juicios arbitrales que se encuentren en trámites en la Comisión Nacional de Valores, se sancionarán y serán concluidos, según el caso, conforme a lo previsto en los textos anteriormente aplicables en la Ley del Mercado de Valores.
+
+D.O.F. 18 DE JULIO DE 1990.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
