@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2001-12-29"
+last_updated: "2003-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -195,6 +195,8 @@ Sólo por reforma de los reglamentos interiores se podrá modificar la estructur
 
 ### CAPITULO III. DE LAS ATRIBUCIONES DE LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 31.
 
 Para el estudio, planeación y despacho de los asuntos y negocios de la administración pública estatal, el Ejecutivo contará con las siguientes dependencias:
@@ -207,23 +209,29 @@ III. Secretaría de Planeación del Desarrollo;
 
 IV. Secretaría de Desarrollo Social y Regional;
 
-V. Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas;
+V. Secretaría de Desarrollo Urbano, Vivienda y Obras Públicas;
 
-VI. Secretaría de Desarrollo Económico;
+VI. Secretaría de Comunicaciones y Transportes;
 
-VII. Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos;
+VII. Secretaría de Desarrollo Económico;
 
-VIII. Secretaría de Ecología y Gestión Ambiental;
+VIII. Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos;
 
-IX. Secretaría de Educación;
+IX. Secretaría de Ecología y Gestión Ambiental;
 
-X. Oficialía Mayor;
+X. Secretaría de Educación;
 
-XI. Procuraduría General de Justicia; y
+XI. Secretaría del Trabajo y Previsión Social;
 
-XII. Contraloría General del Estado.
+XII. Secretaría de Turismo;
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1999)</small>
+XIII. Secretaría de Cultura;
+
+XIV. Oficialía Mayor;
+
+XV. Procuraduría General de Justicia, y
+
+XVI. Contraloría General del Estado.
 
 En el caso de la Consejería Jurídica y de la Defensoría Social, éstas quedarán adscritas al Despacho del Ejecutivo.
 
@@ -273,9 +281,9 @@ XX. Administrar los centros de readaptación social y tramitar, por acuerdo del 
 
 XXI. Vigilar y coordinar el funcionamiento de las instituciones del Consejo Tutelar para Menores Infractores, elaborar y ejecutar los programas de readaptación social de los mismos y velar por que se apliquen todas las normas correspondientes;
 
-XXII. Ejercer, por delegación del Ejecutivo, las atribuciones que le correspondan en materia de administración del trabajo;
+XXII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2003)
 
-XXIII. Coadyuvar con las autoridades federales en la aplicación y vigilancia de las normas de trabajo;
+XXIII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2003)
 
 XXIV. (DEROGADA, P.O. 6 DE AGOSTO DE 1999)
 
@@ -449,29 +457,41 @@ VIII. Promover y apoyar el diseño e instrumentación de mecanismos de financiam
 
 IX. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 36.
 
-A la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Urbano, Vivienda y Obras Públicas corresponde el despacho de los siguientes asuntos:
 
-I. Definir la política general sobre desarrollo urbano, vivienda, comunicaciones y obras públicas, así como vigilar su cumplimiento;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
 
-II. Llevar a cabo la planeación del desarrollo urbano y de los centros de población estratégicos, así como promover la formulación y revisión de los Planes Municipales de Desarrollo Urbano y de centros de población municipales;
+I. Definir la política general sobre desarrollo urbano, vivienda y obras públicas, así como vigilar su cumplimiento;
 
-III. Participar con los gobiernos estatales y Ayuntamientos en la elaboración, revisión y ejecución de los planes de desarrollo urbano de las zonas conurbadas;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
 
-IV. Promover el desarrollo equilibrado de los asentamientos humanos, la regularización de los asentamientos irregulares, y proponer las medidas necesarias para el mejoramiento urbano de las zonas marginadas;
+II. Intervenir en la planeación del desarrollo urbano y de los centros de población estratégicos; así como promover la formulación y revisión de los Planes Municipales de Desarrollo Urbano y de centros de población municipales a petición de los ayuntamientos;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
+
+III. Participar con los gobiernos estatales y ayuntamientos en la elaboración, revisión y ejecución de los planes de desarrollo urbano de las zonas conurbadas interestatales e intermunicipales;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
+
+IV. Promover el desarrollo equilibrado de los asentamientos humanos, la regularización de los asentamientos irregulares, y proponer las medidas necesarias para el mejoramiento urbano de las zonas marginadas, en coordinación con los ayuntamientos;
 
 V. Formular, promover y concertar programas de desarrollo urbano y vivienda y apoyar su ejecución con la participación de los gobiernos federal y municipal, así como de los sectores social y privado;
 
 VI. Formular y aplicar los programas de acción e inversión pública que en materia de desarrollo urbano se deban ejecutar en la Entidad, en concordancia con los planes y políticas establecidos;
 
-VII. Formular, en términos de ley, los proyectos de declaratorias sobre provisiones, reservas, destinos y usos de suelo;
+VII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2003)
 
 VIII. Establecer y vigilar el cumplimiento de los programas de adquisición de reservas territoriales del Estado, con la participación que corresponda a otras autoridades;
 
 IX. Promover mecanismos que faciliten la edificación, el mejoramiento y la rehabilitación de vivienda;
 
-X. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2003)</small>
+
+X. Coordinar y en su caso convenir con los organismos operadores, la ejecución de los programas del Ejecutivo del Estado en materia de construcción de infraestructura para el abastecimiento de agua potable y servicios de drenaje y alcantarillado, en coordinación con los ayuntamientos;
 
 XI. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
 
@@ -485,29 +505,73 @@ XV. Formular y aplicar, en coordinación con la Oficialía Mayor, la política i
 
 XVI. Establecer en el ámbito de su competencia, las normas técnicas y, en su caso, autorizar la construcción, reconstrucción o conservación de edificios públicos, monumentos y obras de ornato;
 
-XVII. Establecer la política de desarrollo del transporte en el Estado, y formular el programa estatal respectivo;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
 
-XVIII. Vigilar la prestación del servicio público de transporte en todas sus modalidades;
+XVII. Prever los requerimientos de áreas y predios para las vías de comunicación, previa consulta con las dependencias respectivas;
 
-XIX. Recibir, tramitar y someter a la consideración del Ejecutivo, las solicitudes para el otorgamiento de permisos y concesiones para la explotación de servicios de transporte público en el Estado;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
 
-XX. Autorizar, previo acuerdo del Ejecutivo, y escuchando la opinión del Consejo Estatal de Transporte, las tarifas, rutas, horarios y terminales, así como todo lo relativo a la operación del servicio público de transporte y vigilar su cumplimiento;
+XVIII. Promover la expropiación de inmuebles de propiedad particular que se requieran para la construcción, establecimiento, reparación o mejoramiento de las vías de comunicación estatales, ajustándose a lo que dispongan las leyes;
 
-XXI. Llevar el registro de los vehículos dedicados al transporte público en todo el Estado;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
 
-XXII. Organizar los servicios emergentes de transporte público urbano cuando las circunstancias lo requieran;
+XIX. Formular los programas de construcción y conservación de carreteras y caminos de jurisdicción estatal, y promover ante el Gobierno Federal la construcción y mejoramiento de los sistemas federales de comunicaciones en el Estado, y
 
-XXIII. Tramitar lo referente a la caducidad, rescisión, cancelación y modificación de concesiones otorgadas por el Ejecutivo y aplicar las multas y sanciones que procedan en los casos de infracción a las leyes de la materia;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
 
-XXIV. Fomentar la organización de sociedades que se dediquen al servicio de transporte público;
+XX. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
-XXV. Prever los requerimientos de áreas y predios para las vías de comunicación, previa consulta con las dependencias respectivas;
+XXI. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2003)
 
-XXVI. Promover la expropiación de inmuebles de propiedad particular que se requieran para la construcción, establecimiento, reparación o mejoramiento de las vías de comunicación estatales, ajustándose a lo que dispongan las leyes;
+XXII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2003)
 
-XXVII. Formular los programas de construcción y conservación de carreteras y caminos de jurisdicción estatal y promover ante el Gobierno Federal la construcción y mejoramiento de los sistemas federales de comunicaciones en el Estado; y
+XXIII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2003)
 
-XXVIII. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+XXIV. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2003)
+
+XXV. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2003)
+
+XXVI. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2003)
+
+XXVII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2003)
+
+XXVIII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2003)
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
+
+ARTICULO 36 BIS. A la Secretaría de Comunicaciones y Transportes corresponde el despacho de los siguientes asuntos:
+
+I. Instrumentar anualmente su programa de operación, el cual será sometido a la aprobación del titular del Ejecutivo para que sea considerado en el Presupuesto de Egresos correspondiente;
+
+II. Establecer y aplicar la política de desarrollo del transporte en el Estado, y formular el programa estatal respectivo;
+
+III. Proponer la creación de nuevas áreas administrativas para el correcto cumplimiento de los objetivos planteados en el programa estatal del transporte;
+
+IV. Ejercer el presupuesto autorizado, así como vigilar su ejercicio de contabilidad;
+
+V. Participar con el titular del Ejecutivo en la celebración de convenios en materia de transporte público que éste celebre con el gobierno federal, otras Entidades o municipios, así como con el sector social o privado para la prestación del servicio de transporte;
+
+VI. Vigilar la prestación del servicio público de transporte en todas sus modalidades;
+
+VII. Recibir, tramitar y someter a la consideración del titular del Ejecutivo, las solicitudes para el otorgamiento de permisos y concesiones para la explotación de servicios de transporte público en el Estado;
+
+VIII. Autorizar, previo acuerdo del Ejecutivo, y escuchando la opinión del Consejo Estatal de Transporte, las tarifas, rutas, horarios y terminales, así como todo lo relativo a la operación del servicio público de transporte y vigilar su cumplimiento;
+
+IX. Llevar el registro de los vehículos dedicados al transporte público en todo el Estado;
+
+X. Llevar el registro de los operadores dedicados al transporte público en todo el Estado;
+
+XI. Tomar las medidas necesarias para evitar la suspensión del servicio del transporte público;
+
+XII. Organizar los servicios emergentes de transporte público urbano cuando las circunstancias lo requieran;
+
+XIII. Tramitar lo referente a la caducidad, rescisión, cancelación y modificación de concesiones otorgadas por el Ejecutivo, y aplicar las multas y sanciones que procedan en los casos de infracción a las leyes de la materia;
+
+XIV. Fomentar la organización de sociedades que se dediquen al servicio de transporte público;
+
+XV. Proponer al titular del Ejecutivo para su aprobación, el Reglamento Interior de la Secretaría, y
+
+XVI. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 37.
 
@@ -649,7 +713,9 @@ XXI. Las demás que le señalen las leyes y reglamentos aplicables en la materia
 
 A la Secretaría de Educación corresponde el despacho de los siguientes asuntos:
 
-I. Elaborar y ejecutar las políticas y los programas en materia educativa y deportiva, así como cultural y recreativa; estas dos últimas en coordinación con los municipios del Estado;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
+
+I. Elaborar y ejecutar las políticas y los programas en materia educativa y deportiva en el Estado;
 
 II. Prestar los servicios de educación inicial, básica, incluyendo la indígena, especial, normal y demás para la formación de maestros;
 
@@ -659,7 +725,9 @@ IV. Promover la enseñanza técnica, industrial, comercial, deportiva, física y
 
 V. Proponer a la Secretaría de Educación Pública federal, los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación primaria, secundaria, normal y demás para la formación de maestros de educación básica;
 
-VI. Planear, programar, presupuestar, ejecutar y evaluar los programas educativos, culturales, recreativos y deportivos en el Estado;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
+
+VI. Planear, programar, presupuestar, ejecutar y evaluar los programas educativos, recreativos y deportivos en el Estado;
 
 VII. Distribuir con toda oportunidad los libros de texto gratuitos y el material educativo complementario que la Secretaria de Educación Pública federal proporcione a los planteles;
 
@@ -683,13 +751,15 @@ XVI. Promover la investigación científica y tecnológica;
 
 XVII. Establecer, previo acuerdo con el Ejecutivo, convenios con los Ayuntamientos para coordinar actividades educativas de cualquier tipo y modalidad;
 
-XVIII. Fomentar las relaciones de orden cultural con otros Estados;
+XVIII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2003)
 
-XIX. Promover la realización de congresos, asambleas, reuniones, competencias y concursos de carácter científico, técnico, cultural, educativo, artístico y deportivo;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
 
-XX. Coadyuvar con las autoridades correspondientes en la protección de objetos, monumentos, lugares históricos y artísticos, zonas arqueológicas y sitios de interés por su belleza natural;
+XIX. Promover la realización de congresos, asambleas, reuniones, competencias y concursos de carácter científico, educativo, artístico y deportivo;
 
-XXI. Promover el establecimiento de centros estatales y municipales de cultura;
+XX. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2003)
+
+XXI. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2003)
 
 XXII. Promover la conservación de las costumbres, usos, lenguas, tradiciones y formas específicas de organización social de los pueblos indígenas del Estado, así como preservar y fomentar el debido uso del idioma español;
 
@@ -714,6 +784,116 @@ XXXI. Vigilar la realización de los actos cívicos escolares de acuerdo con el 
 XXXII. Imponer sanciones a las escuelas que infrinjan las disposiciones legales, locales y nacionales en materia educativa; y
 
 XXXIII. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
+
+ARTICULO 40 BIS. A la Secretaría de Turismo corresponde el despacho de los siguientes asuntos:
+
+I. Aplicar y en su caso determinar los mecanismos para estimular la inversión turística hacia los nuevos desarrollos;
+
+II. Promover acciones encaminadas a estimular en el rubro fiscal estatal, las inversiones que propicien el desarrollo de los centros, regiones y productos turísticos del Estado;
+
+III. Proponer y aplicar estrategias y mecanismos para mejorar la oferta turística estatal;
+
+IV. Impulsar la consolidación de productos de turismo convencional de planes regionales estratégicos;
+
+V. Fomentar el desarrollo del turismo sustentable a través de la conservación y aprovechamiento regional de los recursos y atractivos turísticos, así como el patrimonio cultural e histórico del Estado, en coordinación con las dependencias y entidades de la administración pública que correspondan;
+
+VI. Impulsar el desarrollo del turismo alternativo para proporcionar una mayor competitividad de los productos turísticos, promoviendo el desarrollo local y regional;
+
+VII. Captar, analizar y difundir la información estadística de la actividad turística estatal y regional, y de las principales variables que le afecten;
+
+VIII. Coordinar y proponer, en su caso, el Sistema de Información Turística Estatal;
+
+IX. Llevar a cabo la mediación y monitoreo de la actividad turística estatal y las variables que la afectan;
+
+X. Participar en la utilización, fortalecimiento y mejoramiento del Sistema Nacional de Información Turística;
+
+XI. Participar en la integración del Catálogo Nacional Turístico;
+
+XII. Llevar a cabo un registro completo y actualizado de los centros de enseñanza turística en el Estado, y difundir el mismo entre los prestadores de servicios turísticos y futuros educandos;
+
+XIII. Ejecutar las políticas de formación y desarrollo de recursos humanos para el sector turístico, así como evaluar sus resultados;
+
+XIV. Formular y desarrollar el Programa Estatal de Turismo, de acuerdo con los principios y objetivos del Plan Nacional de Desarrollo Sectorial, y del Plan Estatal de Desarrollo;
+
+XV. Establecer el Registro Estatal de Prestadores de Servicios Turísticos, enlazándolo con el Registro Nacional de Turismo, para garantizar la actualización y eficacia de este instrumento de la actividad turística;
+
+XVI. Coordinar sus funciones con el Consejo Consultivo debiendo supervisar la organización, funcionamiento y en general el buen desempeño del órgano colegiado de consulta y apoyo técnico, así como dar seguimiento a los acuerdos emanados del mismo;
+
+XVII. Coordinar las comisiones consultivas de prestadores de servicios turísticos, debiendo supervisar la organización, funcionamiento y en general el buen desempeño de las mismas, así como dar seguimiento a los acuerdos emanados de ellas;
+
+XVIII. Participar en las reuniones de los comités técnicos, de los fideicomisos que se constituyan para la promoción turística del Estado, y de otros comités o fondos que se formen para tales fines, por la Federación, el Estado y los municipios, e inclusive, por particulares;
+
+XIX. Someter a la consideración del titular de Ejecutivo el Programa Estatal de Turismo, y en general los asuntos de la competencia de la Secretaría, y desempeñar las comisiones especiales que el mismo le confiera;
+
+XX. Aplicar las políticas, lineamientos, sistemas y procedimientos establecidos para la administración de los recursos humanos, materiales y financieros, así como las disposiciones jurídicas que regulen su actuación;
+
+XXI. Proponer y someter al Ejecutivo Estatal la organización administrativa y operativa, el proyecto de presupuesto anual y los programas de trabajo de la Secretaría;
+
+XXII. Ejercer el presupuesto autorizado, así como vigilar su ejercicio de contabilidad;
+
+XXIII. Celebrar contratos, convenios y todos aquellos actos jurídicos que se requieran para el debido cumplimiento de las funciones y objetivos del Programa Estatal de Turismo;
+
+XXIV. Someter a la consideración del titular del Ejecutivo, la creación de los organismos necesarios para coadyuvar con el desarrollo económico del Estado en materia de turismo, y cumplir con los objetivos y funciones que tiene encomendados, y
+
+XXV. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
+
+ARTICULO 40 TER. A la Secretaría del Trabajo y Previsión Social le corresponde el despacho de los siguientes asuntos:
+
+I. Ejercer en el ámbito estatal las atribuciones que en materia laboral le correspondan al Ejecutivo del Estado, en los términos del artículo 529 de la Ley Federal del Trabajo;
+
+II. Conducir las relaciones en materia laboral del Poder Ejecutivo con los otros poderes del Estado, y con los ayuntamientos de la Entidad;
+
+III. Intervenir administrativamente, en la solución de los conflictos individuales o colectivos que surjan en la Entidad en materia de las relaciones de trabajo, cuando el conocimiento de esos conflictos no corresponda a las autoridades federales; así como proporcionar a los trabajadores asesoría jurídica en la materia, cuando lo soliciten;
+
+IV. Auxiliar a las autoridades en coordinación con las dependencias federales de la materia, en la vigilancia del cumplimiento de las disposiciones legales vigentes que regulen las relaciones obrero patronales;
+
+V. Dirigir, administrar, vigilar y fijar los lineamientos para el funcionamiento de la Procuraduría de la Defensa del Trabajo, la cual tendrá las atribuciones que establezcan sus ordenamientos legales aplicables;
+
+VI. Procurar el equilibrio entre los factores de la producción de conformidad con las disposiciones legales relativas, y coadyuvar con las autoridades federales a la aplicación y vigilancia de las normas de trabajo;
+
+VII. Promover el incremento de la productividad en el trabajo;
+
+VIII. Procurar las medidas de prevención social en los centros de trabajo;
+
+IX. Supervisar la correcta aplicación de las disposiciones y resoluciones legales, relativas a la participación de los trabajadores en las utilidades de las empresas, salarios mínimos y capacitación; así como de las medidas de seguridad e higiene industrial en el ámbito de su competencia;
+
+X. Promover la constitución y el funcionamiento de las comisiones mixtas; así como el desarrollo de la capacitación y adiestramiento en y para el trabajo;
+
+XI. Realizar investigaciones, prestar servicios de asesoría e impartir cursos de capacitación que para incrementar la productividad en el trabajo requieran los sectores productivos, en coordinación con la Secretaría de Desarrollo Económico, así como celebrar los convenios necesarios para cumplir este objetivo;
+
+XII. Proponer la celebración de los convenios con instituciones públicas, privadas y sociales en materia de empleo y previsión social, así como vigilar su cumplimiento;
+
+XIII. Coordinar el Servicio Estatal de Empleo, así como las bolsas de trabajo de índole público y vigilar su funcionamiento en el Estado;
+
+XIV. Implementar las medidas administrativas que se estimen conducentes en materia de seguridad industrial, prevención del desempleo, acceso a las oportunidades laborales para obreros desocupados, y de protección al menor y a las mujeres trabajadoras;
+
+XV. Coordinar la integración y establecimiento de las Juntas Locales de Conciliación y Arbitraje, las Especiales y las Comisiones que se formen para regular las relaciones obrero patronales que sean de jurisdicción estatal, así como vigilar su funcionamiento;
+
+XVI. Llevar el registro de las asociaciones obreras, patronales y profesionales de jurisdicción estatal que se ajusten a las leyes;
+
+XVII. Promover la organización de toda clase de sociedades cooperativas y demás formas de organización social para el trabajo, en coordinación con las dependencias competentes, así como resolver, tramitar y registrar su constitución, disolución y liquidación;
+
+XVIII. Dirigir y coordinar la inspección del trabajo a efecto de que se cumplan las normas de seguridad e higiene establecidas en los diversos ordenamientos legales;
+
+XIX. Dirigir y coordinar la Procuraduría Estatal de la Defensa del Trabajo, y prestar a través de ella asistencia jurídica gratuita a los sindicatos o trabajadores que lo soliciten, y representarlos ante los tribunales del Trabajo;
+
+XX. Practicar los exámenes de competencia a los jefes de planta, operadores, fogoneros y personal especializado que determine la Ley Federal del Trabajo, expidiendo en su caso las licencias correspondientes;
+
+XXI. Organizar y patrocinar exposiciones y museos de trabajo y previsión social;
+
+XXII. Llevar las estadísticas generales correspondientes a la materia del trabajo;
+
+XXIII. Estudiar y proyectar planes para impulsar la ocupación en el Estado, en coordinación con la Secretaría de Desarrollo Económico;
+
+XXIV. Poner a disposición de las autoridades federales del trabajo, la información que soliciten para el cumplimiento de sus funciones;
+
+XXV. Instrumentar anualmente su programa de operación, el cual será sometido a la aprobación del titular del Ejecutivo para que sea considerado en el Presupuesto de Egresos correspondiente, y
+
+XXVI. Las demás que le fijen expresamente las leyes y reglamentos.
 
 ###### ARTICULO 41.
 
@@ -772,6 +952,46 @@ XXV. Atender y dar seguimiento a los diferentes juicios, procesos o trámites ad
 XXVI. Expedir certificaciones y constancias respecto de los documentos o datos que obren en sus archivos; y
 
 XXVII. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
+
+ARTICULO 41 BIS. A la Secretaría de Cultura le corresponde el despacho de los siguientes asuntos:
+
+I. Definir los objetivos y programas en el ámbito cultural y recreativo del Estado, en coordinación con los municipios del mismo;
+
+II. Impulsar una política de evaluación y de estímulos a la creatividad, que proteja y conserve el patrimonio cultural del Estado;
+
+III. Coadyuvar con las autoridades correspondientes en la protección de objetos, monumentos, lugares históricos y artísticos, zonas arqueológicas y sitios de interés por su belleza natural;
+
+IV. Fomentar la creación y multiplicación de instituciones de cultura municipales, difundiendo los beneficios de la ocupación artística y recreativa de la Entidad mediante la participación en los programas convocados a nivel estatal y nacional;
+
+V. Fomentar las relaciones de orden cultural con otros Estados;
+
+VI. Elaborar y ejecutar las políticas, planes y programas en materia de arte y cultura, en apoyo a los programas municipales;
+
+VII. Estimular en apoyo a nuestro perfil cultural nacional a las instituciones culturales en el fortalecimiento de las fiestas tradicionales, así como en las exposiciones estatales, nacionales e internacionales de nuestra artesanía, gastronomía, expresiones musicales y danzas tradicionales de cada región y comunidad;
+
+VIII. Evaluar periódicamente el desarrollo de las expresiones culturales, difundiendo éstas a través de los medios de comunicación;
+
+IX. Conservar mediante programas de recuperación el patrimonio cultural del Estado;
+
+X. Diseñar y consensar programas para edificación de museos especializados, casas de cultura regionales y municipales, así como su conservación y operatividad;
+
+XI. Apoyar conforme a la ley, los programas de defensa y protección de las zonas arqueológicas del Estado;
+
+XII. Atender los programas de las culturas étnicas del Estado, en un marco de absoluto respeto;
+
+XIII. Integrar de manera permanente programas de promoción de todas las expresiones culturales de las etnias indígenas en el Estado, realizando eventos en los que se expongan y comercialicen sus productos y artesanías, procurando proteger la creación original y su ámbito;
+
+XIV. Promover mediante becas y concursos la investigación de nuestro pasado étnico, y de nuestras raíces culturales y estéticas;
+
+XV. Celebrar convenios con instituciones públicas y privadas a nivel estatal, nacional e internacional, para la organización de eventos culturales de relevancia como festivales o eventos, en los que se presenten manifestaciones culturales de cualquier índole o de interés general;
+
+XVI. Hacer impresos, folletos o libros que divulguen la cultura de la Entidad en el ámbito estatal y nacional, la que estará abierta a cualquier manifestación, con estricto apego al derecho de autor y la libertad de expresión;
+
+XVII. Instrumentar anualmente su programa de operación, el cual será sometido a la aprobación del titular del Ejecutivo para que sea considerado en el Presupuesto de Egresos correspondiente, y
+
+XVIII. Las demás que le señalen otras disposiciones legales aplicables.
 
 ###### ARTICULO 42.
 
@@ -1000,3 +1220,19 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 P.O. 29 DE DICIEMBRE DE 2001.
 
 UNICO. El presente Decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE SEPTIEMBRE DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor el día veintiséis de septiembre de 2003, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Las señalizaciones que se refieran a las extintas Direcciones Generales de Comunicaciones y Transportes, y del Transporte Colectivo Metropolitano; Dirección del Trabajo y Previsión Social; Coordinación General de Turismo y el Instituto de Cultura, contenidas en otros ordenamientos legales y administrativos, se entenderán referidas a las ahora secretarías de Comunicaciones y Transportes; Trabajo y Previsión Social; Turismo; y de Cultura.
+
+Además, se faculta al Ejecutivo Estatal para emitir los acuerdos necesarios con el fin de adecuar las denominaciones de las secretarías de Comunicaciones y Transportes; Trabajo y Previsión Social; Turismo; y de Cultura, conforme a las atribuciones previstas en la ley; lo anterior, asegurando la continuidad de las funciones y acciones que venían realizando las Direcciones Generales de Comunicaciones y Transportes, y del Transporte Colectivo Metropolitano; Dirección del Trabajo y Previsión Social; Coordinación General de Turismo; y el Instituto de Cultura.
+
+CUARTO. Todo el personal que labora en la Dirección de (sic) General de Comunicaciones y Transportes, en la Dirección General de Transporte Colectivo Metropolitano; en la Dirección del Trabajo y Previsión Social, y Procuraduría de la Defensa del Trabajo; en la Coordinación General de Turismo; y en el Instituto de Cultura de San Luis Potosí, que en aplicación del presente Decreto pasen a formar parte de la Secretaría de Comunicaciones y Transportes, las dos primeras; de la Secretaría de Trabajo; y de las secretarías de Turismo, y de Cultura, respectivamente, las restantes, no se verán afectados en los derechos que hayan adquirido en virtud de su relación laboral con anterioridad, y de ser el caso, pasará a disposición de la Oficialía Mayor para efectos de su reacomodo.
+
+QUINTO. Los asuntos que con motivo de la entrada en vigor de este Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado, hasta que las unidades administrativas que los tengan a su cargo se incorporaran a la dependencia que señale el presente Decreto y las demás disposiciones relativas.
+
+SEXTO. El Ejecutivo del Estado deberá expedir los reglamentos interiores de las nuevas secretarías de Desarrollo Urbano, Vivienda y Obras Públicas; de Comunicaciones y Transportes; de Turismo; de Trabajo y Previsión Social; y de Cultura, en un plazo no mayor de tres meses contado a partir de la entrada en vigor de este Decreto, manteniendo entre tanto la observancia de los ya existentes en lo que no se opongan al mismo, cuando así sea posible.
