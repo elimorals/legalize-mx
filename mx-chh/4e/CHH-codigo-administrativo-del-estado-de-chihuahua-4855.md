@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1984-01-25"
+last_updated: "1984-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 1984.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -4703,7 +4703,7 @@ En ningún caso servirán para identificar al elector credenciales o documentos 
 
 III.- El presidente de la mesa se cerciorará de que el nombre que aparece en la credencial de elector, figure en la lista nominal de electores;
 
-De esta regla se excepturarán los ciudadanos que teniendo su credencial permanente de elector, estén comprendidos en los siguientes casos:
+De esta regla se exceptuarán los ciudadanos que teniendo su credencial permanente de elector, estén comprendidos en los siguientes casos:
 
 a).- Que se encuentren transitoriamente en lugar distinto al de su sección electoral, por causas justificables, a satisfacción de los funcionarios de casilla. Para este caso se observará lo siguiente:
 
@@ -11329,11 +11329,11 @@ También se considerarán ilegales la fusión, subdivisión, relotificación y f
 
 En los casos del artículo anterior, a solicitud del ayuntamiento el Programa de Desarrollo Urbano podrá intervenir en coordinación con aquél en la administración de los fraccionamientos, subdivisiones, relotificaciones o fusiones o en las operaciones celebradas con estos motivos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE ENERO DE 1984)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
+#### SECCION QUINTA. DE LA VIVIENDA
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1515.
 
@@ -11381,11 +11381,13 @@ II.- A la introducción de los servicios públicos.
 
 Una vez determinados los jefes de familia beneficiados y cubierto el precio, la Presidencia Municipal otorgará los títulos de propiedad o el Programa de Desarrollo Urbano del Estado los documentos a que se refiere el Artículo 1467 de este Título, los que deberán inscribirse en el Registro Público de la Propiedad respectivo sin causar derechos al fisco del Estado.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
+DECIMA PRIMERA PARTE
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1521.
 
@@ -11429,7 +11431,9 @@ Para la construcción de viviendas deberá mediar solicitud del interesado ante 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1525.
 
@@ -11471,9 +11475,9 @@ En el caso de que los propietarios o poseedores no cumplan con las obligaciones 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 1529.
 
@@ -11643,11 +11647,7 @@ Cuando el Gobernador del Estado haya hecho una declaratoria de conurbación, dis
 
 Las declaratorias de conurbación para que surtan sus efectos serán publicadas por una sola vez en el Periódico Oficial del Estado y en dos periódicos de mayor circulación en la localidad que corresponda, debiendo inscribirse en la Oficina del Registro Público de la Propiedad respectiva.
 
-> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
-
-DECIMA PRIMERA PARTE
-
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE ENERO DE 1984)</small>
 
 # LIBRO UNICO. SERVICIOS PUBLICOS DE AGUA POTABLE Y SANEAMIENTO
 
@@ -11664,6 +11664,10 @@ DECIMA PRIMERA PARTE
 ###### ARTICULO 1548.
 
 Se declara de utilidad pública e interés social, el uso y aprovechamiento del agua potable y los servicios de saneamiento, dentro de los que se incluye el de alcantarillado.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 1984)</small>
+
+Cuando el Estado declare de utilidad pública la realización de una obra, podrá ejecutarla directamente o por conducto de la Junta Central de Agua y Saneamiento.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
@@ -11711,11 +11715,23 @@ VII.- Avalar, cuando así se requiera, los créditos que se otorguen a las Junta
 
 VIII.- Programar la prestación de los servicios de agua potable y drenaje en los centros de población y especialmente en aquellos donde no existan;
 
-IX.- Realizar en coordinación con las dependencias federales y otras entidades, las obras que sean necesarias para la captación, conducción, potabilización de agua y saneamiento;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1984)</small>
+
+IX.- Realizar en coordinación con las Dependencias federales, municipales y otras entidades, las obras que sean necesarias para la captación, conducción y potabilización del agua y saneamiento;
 
 X.- Formular el inventario de las fuentes acuíferas para suministro de agua a las poblaciones; y
 
-XI.- Las demás que le fijen otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ENERO DE 1984)</small>
+
+XI.- Establecer las restricciones que el interés público exija para el uso y aprovechamiento del agua;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 1984)</small>
+
+XII.- Prestar, con el concurso de los Municipios los servicios de agua potable y saneamiento en los términos de los convenios que deberá celebrarse para tal efecto; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE ENERO DE 1984)</small>
+
+XIII.- Las demás que les fijen otras disposiciones legales.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
@@ -11723,7 +11739,9 @@ XI.- Las demás que le fijen otras disposiciones legales.
 
 La Junta Central de Agua y Saneamiento tiene un Consejo Directivo integrado por un Presidente, un Secretario, un Tesorero y tres vocales. Los tres primeros serán nombrados por el Gobernador del Estado; un vocal por los Servicios Coordinados de Salud Pública y los restantes a invitación, por las dependencias federales relacionadas con el ramo.
 
-Los integrantes del Consejo pueden ser removidos por quien los designó. Los cargos serán honorarios, con excepción del Presidente y Tesorero, quienes serán funcionarios de tiempo completo.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1984)</small>
+
+Los integrantes del Consejo pueden ser removidos por quien los designó. Los cargos serán honorarios, con excepción del Presidente, Secretario y Tesorero, quienes serán funcionarios de tiempo completo.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
@@ -11757,7 +11775,13 @@ VIII.- Imponer sanciones disciplinarias de acuerdo con el Reglamento Interior de
 
 IX.- Aprobar los movimientos de ingresos y egresos mensuales que les sean presentados por el Tesorero; y
 
-X.- Las demás que le fijen otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ENERO DE 1984)</small>
+
+X.- Celebrar los convenios a que se refiere la fracción XII del Artículo 1552 de este Código; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE ENERO DE 1984)</small>
+
+XI.- Las demás que les fijen otras disposiciones legales.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
@@ -11785,11 +11809,11 @@ VI.- Llevar la contabilidad y el control del Presupuesto de Ingresos y Egresos; 
 
 VII.- Las demás que le fijen otras disposiciones legales.
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 1558.
 
-La Junta Central tiene facultades de vigilancia y revisión respecto de las Juntas Municipales en lo que corresponde al ejercicio de sus presupuestos, cobro de los servicios, quejas de los usuarios, manejo de fondos y potabilidad del agua.
+La Junta Central tiene facultades de vigilancia, revisión y control respecto a la prestación y administración de los servicios de agua potable y saneamiento.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
@@ -11797,11 +11821,11 @@ La Junta Central tiene facultades de vigilancia y revisión respecto de las Junt
 
 La Junta Central rendirá informes mensuales al Ejecutivo del Estado en relación al movimiento financiero habido tanto en la propia Junta como en las Municipales, de las obras contratadas, las que están en proceso de construcción y las terminadas.
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 1560.
 
-El Ejecutivo del Estado y las Juntas Municipales aportarán los recursos financieros para el funcionamiento de la Junta Central. La aportación de éstas en ningún caso podrá ser menor del 5% de sus ingresos brutos.
+En el caso de que el ingreso proveniente de las cuotas de recuperación determinadas en las tarifas correspondientes, sea insuficiente para cubrir el costo del servicio, el Estado y los Municipios aportarán por partes iguales o en el porcentaje que convengan, los recursos financieros y demás medios para la prestación de los servicios de agua potable y saneamiento. A los municipios que incumplan se les retendrán las participaciones que les correspondan por el monto adeudado.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
@@ -12143,9 +12167,17 @@ XIV.- Cualesquiera otras que por su naturaleza sean similares a las anteriores, 
 
 Se impondrá multa por las infracciones establecidas en el artículo anterior, como sigue:
 
-a).- De $100.00 a $5,000.00, a las señaladas en las fracciones I, III, VI, VII, X, XI y XII; y
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1984)</small>
 
-b).- De $1,000.00 a $10,000.00, a las señaladas en las fracciones II, IV, V, VIII, IX y XIII.
+I.- De $1,000.00 a veinticinco veces el importe del salario diario mínimo general de la zona correspondiente, a las señaladas en las fracciones I, III, VI, VII, X, XI y XII, y
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1984)</small>
+
+II.- De $2,000.00 a cincuenta veces el importe del salario diario mínimo general de la zona correspondiente, a las señaladas en las fracciones II, IV, V, VIII, IX y XIII.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 1984)</small>
+
+Lo anterior sin perjuicio del pago de los derechos omitidos y sus recargos.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
@@ -13320,3 +13352,7 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día s
 P.O. 25 DE ENERO DE 1984.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE ENERO DE 1984.
+
+ARTICULO TRANSITORIO.- Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
