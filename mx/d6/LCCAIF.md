@@ -4,7 +4,7 @@ identifier: "LCCAIF"
 country: "mx"
 rank: "ley"
 publication_date: "1960-12-31"
-last_updated: "1981-12-28"
+last_updated: "1983-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=460&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCCAIF"
 
 LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DE LA ASOCIACION INTERNACIONAL DE FOMENTO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE NOVIEMBRE DE 1983.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de diciembre de 1960.
 
@@ -42,19 +42,11 @@ LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDE
 
 Se aprueba el Convenio Constitutivo de la Asociación Internacional de Fomento, para los efectos de la fracción VIII del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, conforme al texto adoptado en Washington el 26 de enero de 1960.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1981)</small>
+(REFORMADO, D.O.F. 4 DE NOVIEMBRE DE 1983)(F. DE E., D.O.F. 21 DE MAYO DE 1984)
 
 ###### ARTICULO 2o.
 
-El Banco de México, S.A., hará las aportaciones de México correspondientes a la Sexta Reposición de Capital de la Asociación Internacional de Fomento hasta por la suma de 20.000,000 (veinte millones) de dólares de los Estados Unidos de América considerados al tipo de cambio vigente al 5 de octubre de 1979, la cual se adicionará a las suscripciones anteriores efectuadas hasta por la cantidad de 8.872,625 (ocho millones ochocientos setenta y dos mil seiscientos veinticinco) dólares de los Estados Unidos de América.
-
-Dichas aportaciones se harán en la forma siguiente:
-
-a).- Una suscripción adicional de capital hasta por la cantidad de 48,050 (cuarenta y ocho mil cincuenta) dólares de los Estados Unidos de América por concepto del mantenimiento del actual poder de voto relativo de México.
-
-b).- Una suscripción adicional de capital hasta por la cantidad de 190,425 (ciento noventa mil cuatrocientos veinticinco) dólares de los Estados Unidos de América por concepto del aumento en la participación relativa de los países en desarrollo; y
-
-c).- Una contribución hasta por la cantidad de 19.761,525 (diecinueve millones setecientos sesenta y un mil quinientos veinticinco) dólares de los Estados Unidos de América.
+El Banco de México realizará las aportaciones de México correspondientes a la Contribución Especial de la Sexta Reposición de Capital de la Asociación Internacional de Fomento hasta por la suma de 6'666,666 (seis millones seiscientos sesenta y seis mil seiscientos sesenta y seis) dólares de los Estados Unidos de América considerados al tipo de cambio vigente al 5 de octubre de 1979, la cual se adicionará a las suscripciones anteriores efectuadas por nuestro país hasta por la cantidad de 28'872,625 (veintiocho millones ochocientos setenta y dos mil seiscientos veinticinco) dólares de los Estados Unidos de América.
 
 ###### ARTICULO 3o.
 
@@ -115,3 +107,9 @@ D.O.F. 28 DE DICIEMBRE DE 1981.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE NOVIEMBRE DE 1983.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
