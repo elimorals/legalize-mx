@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1972-12-27"
+last_updated: "1973-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1973.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -43,11 +43,11 @@ CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
 El Estado de Chiapas es parte integrante de la República Mexicana, es libre y soberano en su régimen interior sin más limitaciones que las expresamente establecidas por el Pacto Federal, la soberanía reside esencial y originariamente en el pueblo de Chiapas, en cuyo nombre lo ejerce el poder público, en la forma y términos que las leyes lo establecen.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1972)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 2.
 
-El Territorio del Estado para su funcionamiento político y administrativo queda dividido en los municipios siguientes, con sus correspondientes Agencias, y los que se creen con arreglo a las leyes:
+El territorio del Estado para su funcionamiento político y administrativo queda dividido en los Municipios siguientes, con sus correspondientes Agencias y los que se creen con arreglo a las Leyes, así como suprimirlos cuando se considere necesario. (sic)
 
 ARRIAGA, con sus Agencias Municipales de La Calera y La Punta.
 
@@ -229,7 +229,7 @@ SAN LUCAS.
 
 SITALA.
 
-TUXTLA GUTIERREZ, con sus Agencias Municipales de Copoya y Cerro Hueco.
+TUXTLA GUTIERREZ, con sus Agencias Municipales de Copoya, Cerro Hueco y Terán.
 
 TAPACHULA, con sus Agencias Municipales de El Edén, Las Maravillas, Nexapa, Puerto Madero, Chicharras, Carrillo Puerto y Alvaro Obregón.
 
@@ -246,8 +246,6 @@ TENEJAPA.
 TEOPISCA, con su Agencia Municipal de Nuevo León.
 
 TILA, con su Agencia Municipal de Petalsingo.
-
-TERAN.
 
 TOTOLAPA.
 
@@ -1558,3 +1556,9 @@ P.O. 27 DE DICIEMBRE DE 1972.
 Artículo 1/o.- Quedan derogadas todas las leyes, decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente decreto.
 
 Artículo 2/o.- Este Decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 1973.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor desde el día 1/o. de enero de 1974, fecha en que fenece el período de tres años de funciones del Ayuntamiento suprimido.
