@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1971-08-28"
+last_updated: "1972-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 1972.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -327,11 +327,11 @@ En estos tres últimos casos, la convocatoria se hará por conducto de la misma 
 
 Si el Congreso estuviere en período extraordinario de sesiones cuando deba comenzar el ordinario, cerrará aquél para inaugurar éste. A la apertura y clausura de todo período extraordinario de sesiones o prórroga del ordinario, deberán preceder los decretos respectivos.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1958)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1972)</small>
 
 ###### Art. 40.
 
-El día 15 de Diciembre de cada año, el C. Gobernador del Estado, concurrirá a la Sesión que celebre en ese día el H. Congreso de la Entidad, y presentará al mismo un Informe por escrito, sobre el estado general de la Administración Pública. En caso de Período Extraordinario de Sesiones del H. Congreso del Estado, solicitado por el Ejecutivo, el C. Gobernador de Sinaloa, concurrirá por sí o por medio de Representante a la Sesión de Apertura de dicho Período, explicando a la Legislatura los motivos y el objeto de la Convocatoria a Período Extraordinario y los asuntos que requieran una pronta resolución. El Presidente de la Legislatura contestará las exposiciones hechas por el C. Gobernador del Estado, en términos generales.
+El día 15 de noviembre de cada año, el Gobernador del Estado rendirá ante el Congreso instalado en sesión solemne, un informe por escrito sobre la situación que guarde la administración pública. El Presidente de la Legislatura contestará dicho informe en términos generales.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1961)</small>
 
@@ -683,9 +683,9 @@ XIII. Certificar las firmas de todos los funcionarios y empleados públicos del 
 
 XIV. Expedir reglamentos administrativos para el régimen económico de sus dependencias.
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 1957)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1972)</small>
 
-XV. Concurrir anualmente el día 15 de Diciembre a la sesión que celebre en ese día el H. Congreso del Estado y a la apertura de cada período extraordinario, cuando sea convocado a solicitud de él, para informar acerca de los motivos que lo obligaron a ello.
+XV. Concurrir por sí o por medio de representante a la apertura de cada Período Extraordinario de Sesiones del Congreso, cuando sea convocado a solicitud de él, para informar acerca de los motivos o razones que originaron la convocatoria.
 
 XVI. Iniciar leyes y decretos ante el Congreso del Estado.
 
@@ -1872,3 +1872,9 @@ Este Decreto entrará en vigor el día siguiente de su publicación en el Perió
 P.O. 28 DE AGOSTO DE 1971.
 
 UNICO.- El presente decreto comenzará a surtir sus efectos legales correspondientes, al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 14 DE NOVIEMBRE DE 1972.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
