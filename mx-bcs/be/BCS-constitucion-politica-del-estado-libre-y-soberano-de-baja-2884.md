@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1999-04-06"
+last_updated: "1999-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JUNIO DE 1999.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -353,11 +353,15 @@ El cómputo de las elecciones de Diputados por el principio de representación p
 
 > <small>(DEROGADO TERCER PARRAFO, B.O. 18 DE JUNIO DE 1998)</small>
 
-44.- Para ser diputado al Congreso del Estado se requiere:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE JUNIO DE 1999)</small>
+
+44.- Para ser Diputado al Congreso del Estado se requiere:
 
 I.- Ser sudcaliforniano y ciudadano del Estado en ejercicio de sus derechos;
 
-II.- Tener 21 años cumplidos el día de la elección; y
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 1999)</small>
+
+II.- Tener 18 años cumplidos al día de la elección.
 
 > <small>(REFORMADA, B.O. 10 DE JULIO DE 1978)</small>
 
@@ -1313,7 +1317,9 @@ I.- Ser ciudadano sudcaliforniano en ejercicio de sus derechos políticos;
 
 II.- Haber residido en el municipio por un período no menos de un año inmediato anterior al día de la elección;
 
-III.- Tener 21 años de edad al día de la elección;
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 1999)</small>
+
+III.- Tener 21 años cumplidos al día de la elección, excepto para ser Síndico o Regidor, en cuyo caso se requerirán 18 años de edad al día de la elección.
 
 IV.- Ser persona de reconocida buena conducta;
 
@@ -2106,3 +2112,7 @@ B.O. 6 DE ABRIL DE 1999.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 14 DE JUNIO DE 1999.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
