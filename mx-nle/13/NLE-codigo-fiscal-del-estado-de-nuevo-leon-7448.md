@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "1998-12-30"
+last_updated: "1999-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -57,9 +57,11 @@ II.- La Ley de Hacienda del Estado y de los Municipios.
 
 III.- Las que autoricen ingresos extraordinarios.
 
-IV.- La Ley de Urbanismo y Planificación.
+IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-V.- La Ley de Desarrollo Urbano del Estado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+V.- La Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado.
 
 VI.- Las que organicen los servicios administrativos para la recaudación, distribución y control de los ingresos.
 
@@ -341,9 +343,9 @@ Quien promueva a nombre de otro deberá acreditar que la representación le fue 
 
 Los créditos fiscales y sus accesorios se causarán y pagarán en moneda nacional. De provenir su pago por situaciones pactadas en moneda extranjera, el tipo de cambio se determinará de acuerdo al valor en que se haya adquirido ésta y de no haber existido tal adquisición, conforme al valor que rija de acuerdo a la determinación del tipo de cambio que publica el Banco de México, en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-Se aceptarán como medios de pago, los cheques certificados y los giros postales, telegráficos o bancarios; los cheques personales no certificados y las tarjetas electrónicas bancarias de crédito o de débito. Las tarjetas electrónicas bancarias de crédito o débito, únicamente se aceptarán cuando exista identidad entre el titular del crédito fiscal y el de la forma de pago, y en los lugares y operaciones que así autorice la Secretaría de Finanzas y Tesorería General del Estado. Los créditos fiscales podrán ser cubiertos en especie, mediante previa autorización por escrito del Secretario de Finanzas y Tesorero General del Estado, debiendo sujetarse para su valuación en lo conducente al procedimiento de remate previsto en el presente Código.
+Se aceptarán como medios de pago, los cheques certificados y los giros postales, telegráficos o bancarios; los cheques personales no certificados y las tarjetas electrónicas bancarias de crédito o de débito, así como las transferencias electrónicas de fondos reguladas por el Banco de México. Las tarjetas electrónicas bancarias de crédito o débito, únicamente se aceptarán en los lugares y operaciones que así autorice la Secretaría de Finanzas y Tesorería General del Estado. Las transferencias electrónicas de fondos reguladas por el Banco de México, solamente se aceptarán de acuerdo a las reglas generales que fije la Secretaría de Finanzas y Tesorería General del Estado. Los créditos fiscales podrán ser cubiertos en especie, previa autorización por escrito del Secretario de Finanzas y Tesorero General del Estado, debiendo sujetarse para su valuación en lo conducente al procedimiento de remate previsto en el presente Código.
 
 Los pagos que se hagan se aplicarán a los créditos más antiguos siempre que se trate de la misma contribución y antes de acreditarse al adeudo principal, se hará a los accesorios en el siguiente orden:
 
@@ -383,15 +385,17 @@ Las autoridades fiscales están obligadas a devolver las cantidades pagadas inde
 
 Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiera quedado insubsistente. Lo dispuesto en este párrafo no es aplicable a la determinación de diferencias por errores aritméticos las que darán lugar a la devolución siempre que no haya prescrito la obligación en los términos del último párrafo de este artículo.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-Cuando se solicite la devolución de un tributo estatal deberá efectuarse dentro del plazo de dos meses contados a la fecha en que se presentó la solicitud ante la autoridad fiscal competente, con todos los datos, informes y documentos que señale la forma oficial respectiva, así como cualquier otro dato o constancia que se solicite en forma particular. Si dentro de dicho plazo no se efectúa la devolución, el fisco deberá pagar intereses conforme a una tasa que se aplicará sobre el monto de la devolución actualizada y que será igual a la prevista para los recargos en los términos del artículo 22 de este Código. Los intereses se calcularán sobre las cantidades actualizadas que proceda devolver, excluyendo los propios intereses, y se computarán desde que venció el plazo hasta la fecha en que se efectúe la devolución o se pongan las cantidades a disposición del interesado.
+Cuando se solicite la devolución de una contribución estatal, deberá efectuarse dentro del plazo de dos meses contados a la fecha en que se presentó la solicitud ante la autoridad fiscal competente, con todos los datos, informes y documentos que señale la forma oficial respectiva, así como cualesquier otro dato o constancia que se solicite en forma particular. El fisco estatal deberá pagar la devolución que proceda actualizada conforme a lo previsto en el artículo 18 Bis de este Código, desde el mes en que se realizó el pago de lo indebido o se presentó la declaración que contenga el saldo a favor hasta aquél en que se pongan las cantidades a disposición del interesado. Si dentro de dicho plazo no se efectúa la devolución, el fisco deberá pagar intereses conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 22 de este Código. Los intereses se calcularán sobre las cantidades actualizadas que proceda devolver, excluyendo los propios intereses y se computarán dichos intereses desde que venció el plazo hasta la fecha en que se efectúe la devolución o se pongan las cantidades a disposición del interesado.
 
-El contribuyente que habiendo efectuado el pago de una contribución determinada por la autoridad, interponga oportunamente los medios de defensa que las leyes establezcan y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a obtener del fisco estatal el pago de intereses conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 22 de este Código, sobre las cantidades pagadas indebidamente y a partir de que se efectuó el pago. En estos casos el contribuyente podrá compensar las cantidades a su favor, incluyendo los intereses, contra cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor. Tratándose de contribuciones que tengan un fin específico sólo podrán compensarse contra la misma contribución.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+El contribuyente que habiendo efectuado el pago de una contribución determinada por la autoridad, interponga oportunamente los medios de defensa que las leyes establezcan y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a obtener del fisco estatal el pago de intereses conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 22 de este Código, sobre las cantidades actualizadas que se hayan pagado indebidamente y a partir de que se efectuó el pago. En estos casos el contribuyente podrá compensar las cantidades a su favor, incluyendo los intereses, contra cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor. Tratándose de contribuciones que tengan un fin específico sólo podrán compensarse contra la misma contribución.
 
-En ningún caso los intereses a cargo del fisco estatal excederán del 200% de la cantidad de que se trate.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+Las autoridades fiscales, para verificar la procedencia de la devolución, podrán requerir al contribuyente, en un plazo no mayor de quince días posteriores a la presentación de la solicitud de devolución, los datos, informes o documentos adicionales que considere necesarios y que estén relacionados con la misma. Para tal efecto, las autoridades fiscales requerirán al promovente a fin de que en un plazo máximo de quince días cumpla con lo solicitado, apercibido que de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente. Cuando la autoridad requiera al contribuyente los datos, informes o documentos antes señalados, el período transcurrido entre la fecha en que se hubiera notificado el requerimiento de los mismos y la fecha en que éstos sean proporcionados en su totalidad por el contribuyente, no se computará en la determinación de los plazos para la devolución antes mencionados. No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando soliciten los datos, informes y documentos a que se refiere este párrafo, pudiendo ejercerlas en cualquier momento.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -399,9 +403,11 @@ Cuando las autoridades fiscales procedan a la devolución de cantidades señalad
 
 La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 24.
 
-Los contribuyentes obligados a pagar mediante declaración podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución, incluyendo sus accesorios. Al efecto, bastará que efectúen la compensación en la declaración respectiva. Si las cantidades que tengan a su favor los contribuyentes no derivan de la misma contribución por la cual están obligados a efectuar pagos, sólo se podrán compensar previa autorización expresa de las autoridades fiscales.
+Los contribuyentes obligados a pagar mediante declaración podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución, incluyendo sus accesorios. Al efecto, bastará que efectúen la compensación en la declaración respectiva. Si las cantidades que tengan a su favor los contribuyentes derivan de contribuciones distintas o de otros créditos, sólo se podrán compensar previa autorización expresa de las autoridades fiscales.
 
 Si la compensación se hubiera efectuado y no procediera, se causarán recargos en los términos del Artículo 22 de este Código, sobre las cantidades compensadas indebidamente y a partir de la fecha de la compensación.
 
@@ -629,9 +635,11 @@ IV.- Ostentar la firma del funcionario competente y, en su caso, el nombre o nom
 
 Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria, se señalará, además la causa legal de la responsabilidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 41.
 
-El Ejecutivo Estatal mediante resolución podrá:
+El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y Tesorería General del Estado, mediante resolución podrá:
 
 I.- Condonar o eximir, total o parcialmente, el pago de contribuciones y sus accesorios, autorizar su pago a plazo, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar o región del Estado, una rama de actividad, la producción o venta de productos, o la realización de una actividad, así como en casos de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias.
 
@@ -639,7 +647,9 @@ II.- Dictar las medidas relacionadas con la administración, control, forma de p
 
 III.- Conceder subsidios o estímulos fiscales.
 
-Las resoluciones que conforme a este artículo dicte el Ejecutivo, deberán señalar las contribuciones a que se refieren, salvo que se trate de estímulos fiscales, así como, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplirse por los beneficiados.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+Las resoluciones que conforme a este artículo se dicten, deberán señalar las contribuciones a que se refieren, salvo que se trate de estímulos fiscales, así como, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplirse por los beneficiados.
 
 ###### ARTICULO 42.
 
@@ -1025,9 +1035,11 @@ Los contribuyentes, transcurridos los plazos a que se refiere este artículo, po
 
 Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente, a menos que la negativa Implique la afirmación de otro hecho.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 69.
 
-El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquéllos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales estatales, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias, o en el supuesto previsto en el Artículo 63 de este Código.
+El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquéllos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales estatales, a los Tribunales judiciales o administrativos, a las autoridades fiscales federales o municipales o en el supuesto previsto en el artículo 63 de este Código.
 
 ## TITULO IV. De las Infracciones y Delitos Fiscales
 
@@ -1191,6 +1203,10 @@ II.- No pagar contribuciones dentro del plazo que establecen las disposiciones f
 
 III.- Incumplir las disposiciones fiscales relativas a la obligación de terceros de cerciorarse del pago de contribuciones o del cumplimiento de las diversas obligaciones por parte de los contribuyentes.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+IV.- Utilizar las placas autorizadas o emitidas por la Secretaría de Finanzas y Tesorería General del Estado, para amparar la circulación de vehículos distintos a los que realmente correspondan.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 82.
@@ -1203,9 +1219,9 @@ I.- Para la señalada en la fracción I:
 
 A).- Tratándose de declaraciones, la mayor que resulte entre 1.5 cuotas o hasta el 100% de las contribuciones declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre la misma se aplicará también la multa hasta del 100% a que se refiere este inciso.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B).- Tratándose de solicitudes, avisos, constancias, manifestaciones o demás documentos, 1.5 cuotas por cada una de ellas.
+B).- Tratándose de solicitudes, avisos, constancias, manifestaciones o demás documentos, de 1.5 a 20 cuotas.
 
 C).- Por el incumplimiento de los requerimientos o por su cumplimiento fuera de los plazos señalados en los mismos, respecto de una misma declaración, solicitud, aviso o constancia, además de las multas a que se refieren los incisos A) y B):
 
@@ -1228,6 +1244,10 @@ II.- Tratándose de la señalada en la fracción II, la que resulte mayor entre 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 III.- Para la señalada en la fracción III, del 50% al 100% de las contribuciones omitidas, por cada una de ellas.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+IV.- De 50 a 500 cuotas, tratándose de la infracción señalada en la fracción IV del artículo anterior.
 
 ###### ARTICULO 83.
 
@@ -1279,7 +1299,9 @@ VI.- De 4.5 a 20.5 cuotas a la comprendida en la fracción VII.
 
 Son infracciones relacionadas con el ejercicio de la facultad de comprobación, las siguientes:
 
-I.- Oponerse a que se practique la visita en el domicilio fiscal. No suministrar los datos e informes que legalmente exijan las autoridades fiscales; no proporcionar la contabilidad o parte de ella, el contenido de las cajas de valores y en general, los elementos que se requieran para comprobar el cumplimiento de obligaciones propias o de terceros.
+> <small>(REFORMADO, P.O. 31 DICIEMBRE DE 1999)</small>
+
+I.- Oponerse a que se practique la visita en el domicilio fiscal. No suministrar los datos e informes que legalmente exijan las autoridades fiscales o suministrarlos fuera de los plazos legales o en forma incompleta; no proporcionar la contabilidad o parte de ella, el contenido de las cajas de valores y en general, los elementos que se requieran para comprobar el cumplimiento de obligaciones propias o de terceros.
 
 II.- No conservar la contabilidad o parte de ella, así como la correspondencia que los visitadores les dejen en depósito.
 
@@ -1452,6 +1474,14 @@ Se impondrá sanción de tres meses a tres años de prisión, a quien sin autori
 I.- Grabe o manufacture matrices, punzones, dados, clichés o negativos, semejantes a los que la propia Secretaría use para imprimir, grabar o troquelar calcomanías, formas valoradas o numeradas, placas o tarjetones.
 
 II.- Imprima, grabe o troquele calcomanías, formas valoradas o numeradas, placas o tarjetones semejantes a los que use la Secretaría de Finanzas y Tesorería General del Estado.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+III.- Utilice para beneficio propio o de terceros las calcomanías, formas valoradas o numeradas y tarjetones a que se refiere la fracción anterior.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+IV.- Utilice las calcomanías, formas valoradas o numeradas, tarjetones u otros documentos emitidos o autorizados por la Secretaría de Finanzas y Tesorería General del Estado, para comprobar el cumplimiento de obligaciones que en realidad no fueron cumplidas.
 
 ###### ARTICULO 109.
 
@@ -2656,3 +2686,7 @@ P.O. 30 DE DICIEMBRE DE 1998.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día 1o. de Enero de 1999.
+
+P.O. 31 DE DICIEMBRE DE 1999.
+
+Artículo Único.- El presente Decreto entrará en vigor el día 1o. de Enero del año 2000.
