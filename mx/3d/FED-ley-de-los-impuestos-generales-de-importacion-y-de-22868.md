@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-22868"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-18"
-last_updated: "2004-08-09"
+last_updated: "2004-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE DICIEMBRE DE 2004.
 
 Ley publicada de la Segunda a Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
 
@@ -280,9 +280,7 @@ En caso contrario, se clasificarán en las partidas 11.03 u 11.04.
 
 a) los de maíz, deberán pasar por un tamiz de tela metálica con abertura de malla de 2 mm en proporción superior o igual al 95% en peso;
 
-b) los de los demás cereales, deberán pasar por un tamiz de tela metálica con abertura de
-
-malla de 1.25 mm en proporción superior o igual al 95% en peso.
+b) los de los demás cereales, deberán pasar por un tamiz de tela metálica con abertura de malla de 1.25 mm en proporción superior o igual al 95% en peso.
 
 (VEASE ARCHIVO ANEXO)
 
@@ -1554,11 +1552,7 @@ f) los artículos del Capítulo 95 (por ejemplo: juguetes, juegos, artefactos de
 
 (VEASE ARCHIVO ANEXO)
 
-#### Sección IX
-
-MADERA, CARBÓN VEGETAL Y MANUFACTURAS DE MADERA;
-
-CORCHO Y SUS MANUFACTURAS; MANUFACTURAS DE ESPARTERÍA O CESTERÍA
+#### Sección IX. MADERA, CARBÓN VEGETAL Y MANUFACTURAS DE MADERA; CORCHO Y SUS MANUFACTURAS; MANUFACTURAS DE ESPARTERÍA O CESTERÍA
 
 ### Capítulo 44. Madera, carbón vegetal y manufacturas de madera
 
@@ -1820,7 +1814,7 @@ b) que tenga la resistencia mínima al desgarre y a la ruptura por tracción ind
 
 (VEASE ARCHIVO ANEXO)
 
-### Capítulo 49. Productos editoriales, de la prensa y de las demás industrias gráficas; textos manuscritos o mecanografiados y planos
+### Capítulo 49. Productos editoriales, de la prensa y de las demás industrias gráficas;textos manuscritos o mecanografiados y planos
 
 Notas.
 
@@ -2002,11 +1996,11 @@ c) con torsión final "Z".
 
 6. En esta Sección, se entiende por hilados de alta tenacidad, los hilados cuya tenacidad, expresada en cN/tex (centinewton por tex), exceda de los límites siguientes:
 
-hilados sencillos de nailon o demás poliamidas o de poliésteres..........60 cN/tex.
+hilados sencillos de nailon o demás poliamidas o de poliésteres .......... 60 cN/tex.
 
-hilados retorcidos o cableados de nailon o demás poliamidas o de poliésteres..........53 cN/tex.
+hilados retorcidos o cableados de nailon o demás poliamidas o de poliésteres .......... 53 cN/tex.
 
-hilados sencillos, retorcidos o cableados de rayón viscosa..........27 cN/tex.
+hilados sencillos, retorcidos o cableados de rayón viscosa .......... 27 cN/tex.
 
 7. En esta Sección, se entiende por confeccionados:
 
@@ -4654,7 +4648,7 @@ PRIMERO.- El presente decreto entrara en vigor el día de su publicación en el 
 
 SEGUNDO.- A partir del 1 de abril de 2004, el arancel ad valorem aplicable a la importación de los productos comprendidos en las fracciones arancelarias 7304.59.01, 7304.59.02, 7304.59.06, 7304.59.07, 7304.59.08 y 7304.59.10, será de 3.
 
-TERCERO.- El arancel-cupo que se establece en el artículo 2 del presente Decreto estará vigente hasta el 31 de diciembre de 2003.
+TERCERO.- El arancel-cupo que se establece en el articulo 2 del presente Decreto estará vigente hasta el 31 de diciembre de 2003.
 
 D.O.F. 1 DE OCTUBRE DE 2003.
 
@@ -4677,3 +4671,7 @@ SEGUNDO.- El arancel ad-valorem aplicable a la importación de las mercancías c
 a) A partir del 1 de enero de 2006, el arancel ad-valorem aplicable a la importación será de 29, y
 
 b) A partir del 1 de enero de 2007, el arancel ad-valorem aplicable a la importación será de 23.
+
+D.O.F. 6 DE DICIEMBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
