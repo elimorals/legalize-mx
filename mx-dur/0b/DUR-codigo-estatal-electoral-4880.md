@@ -4,7 +4,7 @@ identifier: "DUR-codigo-estatal-electoral-4880"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-11-27"
-last_updated: "1995-05-25"
+last_updated: "1995-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,39 +21,17 @@ state: "DUR"
 ---
 # CODIGO ESTATAL ELECTORAL
 
-CODIGO ESTATAL ELECTORAL.
+CODIGO ESTATAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1995.
 
-Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 27 de noviembre de 1994.
+Código publicado en el Periódico Oficial del Estado de Durango, el domingo 27 de noviembre de 1994.
 
 EL CIUDADANO LICENCIADO MAXIMILIANO SILERIO ESPARZA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, a sus habitantes, sabed:
 
 Que la H. Legislatura del mismo se ha servido dirigirme el siguiente:
 
 Con fecha 28 de Octubre del presente año, el C. Lic. Maximiliano Silerio Esparza, Gobernador Constitucional del Estado, envió a esta H. LIX Legislatura Local, Iniciativa de Decreto que contiene Código Estatal Electoral, misma que fue turnada a la Comisión de Gobernación, de la cual son Titulares los CC. Diputados José Luis Cisneros Pérez, Juan Carlos Gutiérrez Fragoso y Juan Francisco Salazar Alvarez, Presidente, Secretario y Vocal respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
-
-CONSIDERANDOS:
-
-PRIMERO.- Que la Administración del Titular del Poder Ejecutivo Estatal, se ha caracterizado por la voluntad prioritaria de promover una reforma electoral integral, con el propósito de construir nuevas bases para el logro de una sociedad más libre, democrática y justa, y por ende, un Estado fortalecido en su Soberanía, entendiendo a la democracia como un proceso que depende de la capacidad y voluntad concertadora de todos los actores políticos, a fin de lograr el mejoramiento del marco jurídico relativo a todo proceso estatal electoral, todo ello con el fin de adecuar nuestras instancias electorales a las transformaciones sociales, económicas y sobre todo, de carácter político, registradas en el ámbito internacional y nacional; cumpliendo además con el compromiso del pacto federal, de revisar y actualizar nuestro marco jurídico, a fin de que nuestra Entidad Federativa esté acorde a los cambios que se presentan en la actualidad, en esa virtud, y atendiendo a las reformas de nuestra Constitución Política Local, aprobadas recientemente por esta Honorable Legislatura, se estimó necesario impulsar nuevas normas de carácter electoral, mismas que se plasman en el nuevo Código Estatal Electoral, a fin de reforzar la autonomía de los Organos de Dirección Electoral con una participación clara de los ciudadanos en la integración de dichos Organos.
-
-SEGUNDO.- Que con su iniciativa, el Titular del Poder Ejecutivo del Estado pretende responder a las espectativas de nuestros conciudadanos, ya que de acuerdo a los avances de la misma sociedad, los partidos políticos han fortalecido su presencia y por ende reclaman una mejor y más adecuada participación como respuesta a la pluralidad política de nuestro Estado; asimismo, en los recientes procesos electorales y en diversos actos registrados en nuestra Entidad Federativa, la presencia de la sociedad se ha significado como un factor fundamental; una sociedad que en su participación exige nuevas reglas que acerquen todo proceso electoral a los principios de imparcialidad y legalidad.
-
-TERCERO.- Que la Comisión que dictaminó, coincidió con el sentir del autor de la iniciativa, en relación a que la propuesta de establecer un nuevo Código Estatal Electoral, es con el fin de fortalecer la democracia estatal, el sistema de partidos políticos y la convivencia respetuosa en la pluralidad política, que se manifiesta en nuestro Estado, todo ello, mediante orientaciones dictadas por el sufragio ciudadano y a través de la creación y ciudadanización de un organismo público encargado de organizar las elecciones, con personalidad jurídica autónoma, y patrimonio propio, que concentre las distintas funciones relativas al desarrollo de los procesos electorales, y en síntesis, que otorgue sentido a la convivencia y que permita a la sociedad diseñar y construir su propio proyecto que fortalezca la gobernabilidad ante la complejidad creciente de la sociedad; de igual forma, la Comisión estimó que el nuevo Código Estatal Electoral actualiza nuestra legislación en esta materia, a fin de mantener nuestro sistema electoral en un constante perfeccionamiento, al tenor de los grandes intereses sociales, propugnando desde luego, por la creación de instituciones confiables, que garanticen procesos electorales seguros y transparentes, con opciones claras para los electores, con sustento en la participación y sentido democrático de sus acciones emprendidas en beneficio de la sociedad. Para la consecución de lo anterior, el Titular del Poder Ejecutivo del Estado, ha presentado a esta Honorable Soberanía, el documento base, mismo que contiene el nuevo Código Estatal Electoral, el cual, en su contenido, describe la esencia de los principales avances en materia político-electoral, como son: abrir mayores espacios a la expresión organizada de nuevas fuerzas políticas, reduciendo significativamente los requisitos para la formación y registro de partidos políticos con registro estatal; dar oportunidad de participar en las elecciones, con registro condicionado, a las organizaciones ciudadanas que actúan fuera de los partidos políticos; brindar a los partidos políticos, con registro condicionado, los mismos derechos y prerrogativas que corresponden a los partidos políticos que cuentan con registro definitivo; fijar el porcentaje mínimo para que un partido político con registro condicionado, obtenga su registro definitivo, respetando al mismo tiempo, sus triunfos electorales en el supuesto de no conseguir dicho porcentaje; describir con mayor rigor a las personas que no podrán fungir como funcionarios electorales o representantes de un partido ante los organismos electorales; incrementar el financiamiento público a los partidos políticos, en períodos electorales, para el mejor cumplimiento de sus actividades; obligar a los partidos políticos a comprobar el destino del financiamiento público, así como establecer los criterios para limitar los gastos de campañas según el tipo de elección; establecer el carácter público de los organismos electorales; democratizar la integración del Consejo Estatal Electoral con la participación de Consejeros Ciudadanos; garantizar la imparcialidad, autonomía y objetividad del Consejo Estatal Electoral, Distrital o Municipal, estableciendo requisitos rigurosos para sus integrantes, especialmente a su Presidente y a los Consejeros Ciudadanos; transformar en un organismos permanente al Instituto Estatal Electoral, para a través de él, fortalecer las etapas de preparación y desarrollo de las elecciones; hacer más transparente el proceso electoral, permitiendo que los partidos políticos constaten directamente el número de boletas electorales que se utilizarán en la elección correspondiente; ampliar el listado del material electoral para incluir urnas de material transparente, tinta indeleble y el instrumento para dar a conocer el resultado de la elección; evitar actos vandálicos de los simpatizantes de los partidos políticos el día de la elección; mejorar el procedimiento para la instalación de las casillas electorales, señalándose también la obligación de autentizar las boletas electorales mediante la firma de alguno de los representantes de partido presentes en la casilla que corresponda; señalar con toda claridad que únicamente podrán votar los electores que cuenten con su credencial para votar con fotografía y que estén al mismo tiempo inscritos en la lista nominal; equiparar con el Código Federal de Instituciones y Procedimientos Electorales, los casos extraordinarios cuando a un elector se le permita votar en una casilla que no le corresponda, siempre y cuando exhiba su credencial para votar con fotografía; mejorar el procedimiento de la emisión del sufragio, garantizando al mismo tiempo el secreto del voto; exhortar a los candidatos y a sus simpatizantes, para que durante el desarrollo de la jornada electoral, se abstengan de realizar acciones que manchen la elección; evitar actos fraudulentos durante el escrutinio y cómputo de los votos, precisando mejor las operaciones comprendidas en esta parte del proceso electoral; garantizar que los representantes de partidos en las casillas, reciban copias legibles y firmadas de todas las actas levantadas en las casillas respectivas; publicar el resultado del cómputo en la casilla, mediante colocación obligatoria de una cartulina, a cargo del presidente de la casilla; apoyar la transparencia y la legalidad del proceso electoral, obligando a los presidentes de casilla a trasladar inmediatamente los paquetes electorales al órgano competente; evitar que sobre la base de cifras incompletas, se emitan el día de la elección declaraciones triunfalistas prematuras, de los partidos políticos o de los candidatos, que desconcierten al electorado; contar con un Tribunal Estatal Electoral autónomo e independiente, con firmeza en sus resoluciones, ya que éstas serán definitivas e inatacables, este Tribunal estará integrado por profesionales del Derecho con un perfil académico y profesional riguroso; reforzar la objetividad y el carácter apartidista de los Magistrados del Tribunal Estatal Electoral, señalándoles requisitos adicionales, para poder integrar dicho Tribunal; asegurar la más amplia colaboración de las autoridades estatales en su ámbito de competencia, para que las autoridades electorales desarrollen mejor su función; prever sanciones de carácter penal para quiénes cometan delitos o infracciones durante la jornada electoral; y garantizar que las autoridades competentes en la materia, mantengan abiertas sus oficinas y atiendan gratuitamente los incidentes que se presenten dentro de la jornada electoral, todo ésto a fin de mantener la protección del Estado hacia los derechos políticos individuales y colectivos.
-
-CUARTO.- Que no dejamos de observar que el nuevo Código Estatal Electoral constituye en sí una amalgama entre lo moderno y lo obsoleto, tiene mucho de novedad pero también de tradicional, se nutre de las preocupaciones y anhelos de la sociedad de nuestro tiempo y ofrece nuevas soluciones electorales a los no menos nuevos problemas y antagonismos políticos y sociales que la hacen vibrar; al lado de las nuevas disposiciones jurídicas aparecen otras que han probado fortaleza y su vigor a través de pasados procesos electorales, de igual forma, se observó que algunos preceptos electorales se han renovado y revitalizado, adaptándolos a las nuevas condiciones políticas y sociales de nuestro entorno, y reajustándolos al espíritu del cuerpo jurídico al que pertenecen. De igual forma, se observó como en el nuevo Código Estatal Electoral se da nacimiento al Instituto Estatal Electoral como Organo Supremo Electoral dentro del Estado y lo responsabiliza de la organización de las elecciones, en su carácter de organismo autónomo, público, permanente y con personalidad jurídica y patrimonio propio, determinándose de igual forma sus fines, así como su integración; de allí que se observa que la estructura del instituto estará formada por el Consejo General Electoral; el Director General del Instituto y el Secretariado Técnico, así los Consejos Distritales y Municipales incluyendo desde luego a los funcionarios de las mesas directivas de casilla; refiriendo en forma clara y precisa desde su organización, integración y sus atributos, resaltando, dentro del nuevo Código Estatal Electoral, la responsable participación que se otorga a la ciudadanía duranguense dentro de los Consejos, tanto General, como Distrital y Municipal, a fin de que cada proceso electoral que se realice en el Estado, sea en un clima de democracia, pluralidad y revestido de certeza e imparcialidad, proporcionando a todo ciudadano la seguridad de que su voluntad de decisión política electoral será totalmente respetada, y esta seguridad se la garantiza: la participación ciudadana, los partidos políticos y funcionarios, de los cuales su característica debe ser la imparcialidad, todos ellos integrantes de los organismos electorales.
-
-QUINTO.- Que la iniciativa, contiene la organización del nuevo Código Estatal Electoral, estableciendo sus alcances para estar en posibilidad de cumplir con la necesidad de transparencia y credibilidad en los procesos electorales que habrán de celebrarse en lo subsecuente en nuestro Estado; además, en la misma, se refleja el interés y la voluntad política del Titular del Ejecutivo Estatal por fortalecer la unidad y dar cabida a las diferencias, perfeccionando entre otras cosas, los procedimientos electorales y procurando sobre todo, actualizar el régimen de partidos. Circunstancia que con el apoyo tanto de los partidos políticos como de los ciudadanos, colocarán a nuestro Estado a la vanguardia en el avance del perfeccionamiento de los procesos electorales, pues cumple con una de las principales exigencias de la ciudadanía, de una limpieza total en los procesos electorales, ya que éstos son la base de nuestro sistema político, en cuanto a puestos de elección popular se refiere, por ello, la creación del nuevo Código Estatal Electoral es, indudablemente uno de los aspectos más importantes que corresponden al Poder Legislativo del Estado de Durango, por lo que resulta imperioso el consenso en torno a la actualización y modernización del marco jurídico en materia electoral; partiendo de la realidad contundente de que tanto los partidos políticos, autoridades estatales y grupos de la sociedad civil han coincidido en el sentido de dar fundamento al instrumento que permitirá perfeccionar la democracia.
-
-SEXTO.- Que por otra parte, la Comisión estimó conveniente enriquecer la iniciativa, con tres Artículos Transitorios, mismos que permitirán tanto al Director General del Instituto, como al Secretariado Técnico del mismo, adoptar las medidas necesarias para iniciar la puesta en el funcionamiento del Instituto Estatal Electoral, asimismo, los facultará para proceder al reclutamiento y contratación provisional del personal de nuevo ingreso que sea necesario; de igual forma, en uno de estos artículos, se considera el desempeño de los funcionarios nombrados para el proceso electoral de 1995, como una primera etapa para su ingreso a los cuerpos que conformarán al Instituto Estatal Electoral, señalando desde luego, que la titularidad de dichos funcionarios quedará sujeta a la evaluación que realice el Secretariado Técnico, sobre su desempeño en el aspecto electoral profesional.
-
-Con base en los anteriores considerandos esta H. LIX Legislatura Local, expide el siguiente:
-
-DECRETO No. 406
-
-LA HONORABLE QUINCUAGESIMA NOVENA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 55 DE LA CONSTITUCION POLITICA LOCAL, A NOMBRE DEL PUEBLO DECRETA EL SIGUIENTE:
-
-CODIGO ESTATAL ELECTORAL.
 
 CONSIDERANDOS:
 
@@ -189,7 +167,7 @@ V.- Participar en la preparación y vigilancia de las elecciones a través de lo
 
 VI.- Las demás que señale este Código.
 
-###### ARTÍCULO 8.
+###### ARTICULO 8.
 
 Los organismos electorales que designen y expidan el nombramiento a un ciudadano para desempeñar una función electoral, podrán excusarlo de su cumplimiento únicamente por causa justificada o de fuerza mayor, con base en las pruebas aportadas por el ciudadano.
 
@@ -1139,9 +1117,11 @@ VIII.- Los partidos políticos podrán en todo momento sustituir a sus represent
 
 Por cada Consejero o representante propietario, se designará un suplente. Los Consejeros: Presidente, del Poder Ejecutivo, del Poder Legislativo, representante de los municipios y Ciudadanos, tendrán derecho a voz y voto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 111.
 
-Los Consejeros Ciudadanos del Consejo Estatal Electoral, deberán reunir los siguientes requisitos:
+Los Consejeros Ciudadanos, deberán reunir los siguientes requisitos:
 
 I.- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles. En el caso de ser originario del Estado deberá tener una residencia efectiva, de seis meses anteriores al día en que fuere propuesto, y de no ser así, deberá tener una residencia efectiva de tres años anteriores al día en que fuere propuesto;
 
@@ -1159,11 +1139,15 @@ VII.- No desempeñar ni haber desempeñado el cargo de directivo en los comités
 
 VIII.- No haber desempeñado cargo alguno de elección popular en los últimos seis años anteriores a la designación.
 
-La retribución que reciban los Consejeros Ciudadanos será la prevista en el presupuesto de egresos del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1995)</small>
+
+La retribución que perciban los Consejeros Ciudadanos en cada uno de los Consejos Estatal, Distritales y Municipales, se fijará por cada una de las sesiones celebradas, con la cantidad que determine el Presidente del Consejo Estatal Electoral.
+
+> <small>(REFORMADO, P.O 24 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 112.
 
-Los Consejeros ciudadanos miembros del Consejo Estatal Electoral, durante el ejercicio de su encargo, no podrán desempeñar ninguna comisión o empleo de la Federación, los Estados, los Municipios o los Partidos Políticos.
+Los Consejeros Ciudadanos miembros de los Consejos Estatal, Distritales y Municipales Electorales, durante el ejercicio de su encargo y en activo, no podrán desempeñar ninguna comisión o empleo de la Federación, del Estado, los Municipios o los Partidos Políticos. Tampoco podrán desempeñar comisiones remuneradas dentro de dichos organismos; ni podrán desempeñarse como funcionarios o empleados del Secretariado Técnico del Instituto Estatal Electoral.
 
 ###### ARTICULO 113.
 
@@ -1186,6 +1170,10 @@ El Secretario del Consejo Estatal colaborará con las subcomisiones para el cump
 ###### ARTICULO 115.
 
 Para la preparación del proceso electoral el Consejo Estatal Electoral se reunirá dentro de la primera semana del mes de enero del año de las elecciones ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Consejo sesionará por lo menos una vez al mes.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1995)</small>
+
+El consejo Estatal Electoral, entrará en receso al término del proceso electoral de que se trate, o sea, al concluirse con la calificación de la elección de Gobernador; al declararse la validez de la elección de Diputados de Mayoría Relativa y hecha la asignación de Diputados de Representación Proporcional, y realizada la calificación de la elección de Ayuntamientos, según el caso.
 
 El Consejo Estatal ordenará la publicación en el Periódico Oficial del Gobierno del Estado de los acuerdos y resoluciones de carácter general que pronuncie y de aquellos que así lo determinen, así como los nombres de los miembros de los Consejos Distritales y Municipales Electorales, designados en los términos de este Código.
 
@@ -2085,7 +2073,7 @@ VII.- Realizar las visitas de supervisión a los representantes distritales y mu
 
 VIII.- Las demás que le confiere este Código.
 
-###### ARTÍCULO 161.
+###### ARTICULO 161.
 
 Las Comisiones de Vigilancia tienen las siguientes atribuciones:
 
@@ -2239,7 +2227,7 @@ Los ciudadanos podrán solicitar su incorporación en el Catálogo General de El
 
 Los duranguenses que en el año de la elección cumplan con 18 años entre el 16 de Enero y el día de los comicios, deberán solicitar su inscripción, a más tardar el día 15 del citado mes de Enero.
 
-###### ARTÍCULO 172.
+###### ARTICULO 172.
 
 La solicitud de incorporación al Catálogo General de Electores podrá servir para la inscripción de los ciudadanos en el Padrón Electoral, ésta se hará en formas individuales en las que se asentarán los datos siguientes:
 
@@ -2561,7 +2549,7 @@ De igual manera, el Consejo Estatal Electoral comunicará de inmediato a los Con
 
 Al concluir la sesión a la que se refiere el párrafo cuarto de este artículo, el Presidente del Consejo Estatal Electoral o los Presidentes de los Consejos Distritales y Municipales Electorales, según corresponda, tomarán las medidas necesarias para hacer pública la conclusión del registro de candidaturas, dando a conocer los nombres del candidato o fórmulas registradas y de aquellos que no cumplieron con los requisitos.
 
-###### ARTÍCULO 194.
+###### ARTICULO 194.
 
 El Consejo Estatal Electoral solicitará oportunamente la publicación en el Periódico Oficial del Gobierno del Estado, de la relación de nombres de los candidatos y los partidos o coaliciones que los postulan.
 
@@ -4882,3 +4870,7 @@ P.O. 25 DE MAYO DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE DICIEMBRE DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
