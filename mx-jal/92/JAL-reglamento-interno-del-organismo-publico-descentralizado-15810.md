@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interno-del-organismo-publico-descentralizado-15810"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-11"
-last_updated: "2000-01-11"
+last_updated: "2004-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERNO DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COMITE ADMINISTRADOR DEL PROGRAMA ESTATAL DE CONSTRUCCION DE ESCUELAS" (C.A.P.E.C.E)
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2004.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 11 de enero de 2000.
 
@@ -33,7 +33,7 @@ ACUERDO DEL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 
 Guadalajara, Jalisco, Noviembre Veinte de 1999 De mil novecientos noventa y nueve.
 
-Alberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y soberano de Jalisco en ejercicio de la facultad que me confieren los artículos 36, 46, 50 Fracciones VIII y XXIV de la Constitución Política del Estado de Jalisco; 1, 2, 3, 5, 8, 19 Fracción II, 21, 22 Fracciones I, IV, V, XVIII y XXII, 30 fracción III, XXIV de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco; 6 fracción VII de la Ley que crea el organismo público descentralizado denominado "Comité Administrador del Programa Estatal de Construcción de Escuelas" (C.A.P.E.C.E). expide el reglamento interno del organismo público descentralizado denominado "Comité Administrador del Programa Estatal de Construcción de Escuelas" (C.A.P.E.C.E). con base en la siguiente:
+Alberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y soberano de Jalisco en ejercicio de la facultad que me confieren los artículos 36, 46, 50 Fracciones VIII y XXIV de la Constitución Política del Estado de Jalisco; 1, 2, 3, 5, 8, 19 Fracción II, 21, 22 Fracciones I, IV, V, XVIII y XXII, 30 fracción III, XXIV de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco; 6 fracción VII de la Ley que crea el organismo público descentralizado denominado "Comité Administrador del Programa Estatal de Construcción de Escuelas" (C.A.P.E.C.E), expide el reglamento interno del organismo público descentralizado denominado "Comité Administrador del Programa Estatal de Construcción de Escuelas" (C.A.P.E.C.E), con base en la siguiente:
 
 EXPOSICIÓN DE MOTIVOS.
 
@@ -77,27 +77,33 @@ Los titulares de la junta de Gobierno designarán un suplente, los cuales podrá
 
 La Junta de Gobierno desarrollará sus actividades sustantivas bajo los lineamientos que sobre el particular establezca la Secretaría de Educación en su calidad de coordinadora de sector, y tendrá las atribuciones que le confiere el precitado ordenamiento que crea al C.A.P.E.C.E., en su Artículo 6.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2004)</small>
+
 ###### Artículo 6.
 
-La Junta de Gobierno celebrará sesiones ordinarias mensuales de información, sesiones ordinarias trimestrales de información y evaluación, así como sesiones extraordinarias, en los términos de los siguientes artículos:
+La Junta de Gobierno celebrará sesiones ordinarias cada dos meses, y extraordinarias cuando se requiera tratar asuntos cuya naturaleza urgente lo amerite, previa convocatoria que para tal efecto emita su Presidente.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2004)</small>
 
 ###### Artículo 7.
 
-Las sesiones ordinarias tendrán verificativo el segundo lunes de cada mes y en ellas el Director General del C.A.P.E.C.E. presentará el informe ejecutivo correspondiente al periodo. En estas sesiones podrán tratarse otros asuntos propuestos por los integrantes de la Junta de Gobierno y de ser posible, notificados previamente al Secretario de Actas, para ser incluidos en la agenda de trabajo. En el caso de no ser incluido un asunto en la agenda de trabajo elaborada previamente, este podrá desahogarse a criterio de la Junta de Gobierno en el punto de “Asuntos Varios”.
+En las sesiones ordinarias, el Director General del CAPECE presentará el informe correspondiente al periodo. Los asuntos propuestos por los integrantes de la Junta de Gobierno, deberán ser notificados previamente al Secretario de Actas, para ser incluidos en el orden del día. En el caso de no ser incluido en el orden del día previamente elaborada, éste podrá desahogarse a criterio de la Junta de Gobierno, en el punto de "asuntos varios".
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2004)</small>
 
 ###### Artículo 8.
 
-Cuando en una sesión ordinaria mensual no se prevea tratar otro asunto que la presentación del informe del Director General del C.A.P.E.C.E., esta podrá ser sustituida con la entrega por escrito del informe ejecutivo a todos los integrantes de la Junta de Gobierno. Para estos efectos el Director General del C.A.P.E.C.E., hará entrega del informe al Secretario de Actas, quien turnará a los integrantes de la junta un tanto de dicho informe con la notificación de que la sesión correspondiente a ese periodo será cancelada.
+Cuando en una sesión ordinaria no se prevea tratar otro asunto que la presentación del informe del Director General del CAPECE, ésta podrá ser sustituida con la entrega por escrito del informe a todos los integrantes de la Junta de Gobierno. Para estos efectos el Director General del CAPECE, hará entrega del informe al Secretario de Actas, quien turnará a los integrantes de la Junta un tanto de dicho informe con la notificación de que la sesión correspondiente a ese periodo será cancelada.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2004)</small>
 
 ###### Artículo 9.
 
-Las observaciones y aclaraciones que se realicen a los informes presentados por el Director General del C.A.P.E.C.E. correspondientes a las sesiones ordinarias mensuales no efectuadas serán tratadas en la sesión más próxima.
+Las observaciones y aclaraciones que se realicen al informe del Director General del CAPECE, que no se rindió en sesión, serán tratadas en la sesión más próxima.
 
 ###### Artículo 10.
 
-Las sesiones ordinarias de información y evaluación tendrán lugar cada tres meses, en ellas se efectuará una evaluación de los avances físicos y financieros y se propondrán estrategias para revertir obstáculos y para fortalecer esquemas eficientes.
-
-La Junta de Gobierna (sic) elaborará un calendario donde se establezca cuando corresponderá desarrollarse sesiones ordinarias mensuales de información y cuando tendrán el carácter de información y evaluación. Cuando corresponda de acuerdo al calendario ordinario de sesiones, la realización de la sesión trimestral, esta será desarrollada el segundo lunes del mes en que se cumpla el trimestre, y en ellas el Director General del C.A.P.E.C.E. presentará el informe mensual que corresponda.
+(DEROGADO, P.O. 11 DE MAYO DE 2004)
 
 ###### Artículo 11.
 
@@ -127,7 +133,7 @@ El Director General del C.A.P.E.C.E., será designado por el Titular del Poder E
 
 ###### Artículo 16.
 
-EL Director General del C.A.P.E.C.E., durará en su cargo cuatro años pudiendo ser ratificado para un segundo periodo.
+(DEROGADO, P.O. 11 DE MAYO DE 2004)
 
 ###### Artículo 17.
 
@@ -137,9 +143,13 @@ I. Ser de nacionalidad mexicana;
 
 II. Ser mayor de 30 años y menor de 70;
 
-III. Ser profesional de cualquiera de las áreas correspondientes a las especialidades relacionadas con la construcción de inmuebles escolares;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2004)</small>
 
-IV. Tener experiencia profesional acreditable de 5 años en el ámbito de la construcción de espacios educativos; y
+III. Ser profesional de cualquiera de las áreas correspondientes a las especialidades relacionadas con la construcción de bienes inmuebles;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2004)</small>
+
+IV. Tener experiencia profesional acreditable de 5 años en el ámbito de la construcción de bienes inmuebles; y
 
 V. Ser persona de amplia solvencia moral y de reconocido prestigio profesional.
 
@@ -159,11 +169,19 @@ I. Dirección Administrativa
 
 II. Dirección de Obras
 
-III. Dirección de Presupuestos e Informática
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2004)</small>
+
+III. Unidad de Coordinación de Costos y Presupuestos
 
 IV. Unidad de Coordinación Jurídica
 
-V. Unidad de Coordinación Técnica.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2004)</small>
+
+V. Dirección de Planeación y Programación
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2004)</small>
+
+VI. Unidad de Coordinación de Informática.
 
 ###### Artículo 21.
 
@@ -187,7 +205,9 @@ Compete a la Dirección Administrativa:
 
 I. Proponer, aplicar y vigilar el cumplimiento de las políticas normas y procedimientos para la administración de los recursos humanos, financieros y materiales;
 
-II. Vigilar el cumplimiento, y aplicar lo dispuesto en las Condiciones Generales de Trabajo del C.A.P.E.C.E.;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2004)</small>
+
+II. Vigilar el cumplimiento, y aplicar Io dispuesto en las condiciones generales de trabajo del CAPECE, las leyes, reglamentos y demás disposiciones legales en materia laboral;
 
 III. Dirigir y coordinar las actividades relacionadas con los procesos de admisión, contratación, desarrollo, control y remoción del personal del C.A.P.E.C.E., conforme a lo establecido en las Condiciones Generales de Trabajo del C.A.P.E.C.E.;
 
@@ -233,7 +253,9 @@ IX. Analizar y proponer la realización de todos los estudios previos que se req
 
 X. Promover la utilización de nuevos materiales, procedimientos, técnicas y sistemas de construcción así como la racionalización en el consumo de materiales estratégicos y alentar el uso de materiales apropiados a las condiciones climatológicas y de fácil obtención local o regional.
 
-XI. Llevar el registro de los avances físicos y de las acciones contempladas en el Programa Anual de Obras para su control, y generar los reportes mensuales correspondientes, turnándolos a la Coordinación Técnica para la integración del Informe Mensual del C.A.P.E.C.E.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2004)</small>
+
+XI. Llevar el registro de los avances físicos y de las acciones contempladas en el programa anual de obras para su control, y generar los reportes que corresponden a la Dirección, turnándolos a la Dirección de Planeación y Programación para la integración del informe general respectivo.
 
 XII. Determinar las retenciones, sanciones, escalatorias y deductivas derivadas del proceso de ejecución de obra, informando a las áreas competentes del C.A.P.E.C.E. para su aplicación.
 
@@ -243,9 +265,11 @@ XIV. Revisar y turnar para el trámite consecuente, las estimaciones de obra pre
 
 XV. Llevar el control de las obras en proceso y terminadas así como del proceso de entrega y recepción de estas últimas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2004)</small>
+
 ###### Artículo 26.
 
-Compete a la Dirección de Presupuestos e Informática
+Compete a la Coordinación de Costos y Presupuestos:
 
 I. Formular y publicar las convocatorias para los concursos de acciones constructivas, de rehabilitación y mantenimiento, así como de adquisiciones, de acuerdo al Programa Anual de Obras y de conformidad a la legislación y normatividad vigente y aplicable en estas materias.
 
@@ -267,13 +291,15 @@ IX. Integrar y mantener actualizado los padrones de contratistas y proveedores.
 
 X. Asesorar y apoyar a los Ayuntamientos del Estado y a otros organismos públicos, en materia de los procesos para la adjudicación de obras, a través de la instrumentación de programas de capacitación.
 
-XI. Coadyuvar con la Coordinación Técnica en la integración del Programa Anual de Obras.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2004)</small>
 
-XII. Diseñar, instrumentar y mantener el sistema integral de informática para la operación del C.A.P.E.C.E., así como mantener actualizado tecnológicamente al organismo.
+XI. Coadyuvar con la Dirección de Planeación y Programación en la integración del programa anual de obras.
 
-XIII. Articular los sistemas de información con los sistemas de otras dependencias y organismos públicos para la eficiencia de procesos y comunicación.
+XII. (DEROGADA, P.O. 11 DE MAYO DE 2004)
 
-XIV. Diseñar, implementar y mantener los sistemas de informática requeridos por las diversas unidades del organismo.
+XIII. (DEROGADA, P.O. 11 DE MAYO DE 2004)
+
+XIV. (DEROGADA, P.O. 11 DE MAYO DE 2004)
 
 ###### Artículo 27.
 
@@ -287,21 +313,31 @@ III. Acordar con el Director General el despacho de los asuntos encomendados a l
 
 IV. Intervenir en todo lo relacionado con los asuntos de carácter jurídico que atañan al C.A.P.E.C.E. así como elaborar o en su caso revisar los proyectos de leyes, decretos, reglamentos, convenios, contratos y demás convenios en que intervenga el organismo;
 
-V. Representar legalmente al C.A.P.E.C.E. en aquellos asuntos que le sean delegados por el Director General;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2004)</small>
+
+V. Representar legalmente al CAPECE en aquellos asuntos que le sean delegados por el Director General y demás que se deriven de las leyes, reglamentos, acuerdos, y convenios de coordinación;
 
 VI. Auxiliar y asesorar al Director General en el trámite y atención de los asuntos legales del C.A.P.E.C.E. con el fin de fijar, sistematizar y difundir los criterios de interpretación y de aplicación de las disposiciones legales aplicables a las funciones del C.A.P.E.C.E.;
 
 VII. Instrumentar los procesos jurídicos inherentes a la aplicación de las sanciones administrativas a las que se hayan hecho acreedores los proveedores o contratistas del C.A.P.E.C.E.;
 
-construcción de obras nuevas, y de ampliación cuando sea necesario, propuestas por las instancias educativas, emitiendo la validación correspondiente; (sic)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2004)</small>
 
-IX (SIC). Ofrecer asesoría jurídica a los ayuntamientos y otros organismos públicos o privados en los asuntos relacionados con el C.A.P.E.C.E;
+VIII. Dar seguimiento a las validaciones jurídicas de los terrenos donde se construyan los espacios educativos;
+
+IX. Ofrecer asesoría jurídica a los ayuntamientos y otros organismos públicos o privados en los asuntos relacionados con el C.A.P.E.C.E;
 
 X. Establecer y coordinar acciones en materia jurídica con otras entidades jurídicas afines de la Administración pública;
 
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2004)</small>
+
+XI. Elaborar los anteproyectos de reformas a reglamentos, decretos, acuerdos y convenios relacionados con la competencia del CAPECE.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2004)</small>
+
 ###### Artículo 28.
 
-Compete a la Unidad de Coordinación Técnica:
+Compete a la Dirección de Planeación y Programación
 
 I.- Coadyuvar con el Director General en el fortalecimiento de las líneas de coordinación entre las Instancias Educativas, Ayuntamientos y Sector Social con el C.A.P.E.C.E., que propicien el mejor desarrollo de las actividades conferidas al organismo.
 
@@ -323,23 +359,45 @@ IX.- Elaborar y mantener actualizado, el Programa Anual de Obras, en coordinaci�
 
 X.- Integrar los reportes mensuales de avances físicos y financieros de los programas de obra en ejecución. Estos reportes serán la base para la elaboración de los informes mensual y anual del C.A.P.E.C.E.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2004)</small>
+
+Artículo 28 bis.- Compete a la Unidad de Coordinación de Informática:
+
+I. Diseñar, instrumentar y mantener el sistema integral de informática para la operación del CAPECE, así como mantener actualizado tecnológicamente al organismo;
+
+II. Articular los sistemas de información con los sistemas de otras dependencias y organismos públicos para la eficiencia de procesos y comunicación;
+
+III. Diseñar, implementar y mantener los sistemas de informática requeridos por las diversas direcciones y coordinaciones del Organismo;
+
+IV. Proporcionar e implementar el soporte a los usuarios de la red de CAPECE, así como el software y equipo de computo utilizado a fin de mantener actualizado tecnológicamente a el organismo; y
+
+V. Analizar y evaluar las tendencias del mercado en materia de tecnología de redes, telecomunicaciones, equipo de computo y software; así como controlar y supervisar las bases de datos de los sistemas administrativos y financieros del organismo.
+
 #### SECCIÓN I. DE LA COMISION INTERNA DE ADMINISTRACION Y PROGRAMACION
 
 ###### Artículo 29.
 
 El C.A.P.E.C.E. contará con una Comisión Interna de Administración y Programación la cual será integrada por los coordinadores, directores de área y por el Director General quien la presidirá. Los integrantes de la comisión tendrán derecho a voz y voto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2004)</small>
+
 ###### Artículo 30.
 
-tendrá las siguientes funciones: (sic)
+La Comisión Interna de Administración y Programación tendrá las siguientes atribuciones:
 
 I. Evaluar las actividades realizadas y proponer medidas y líneas de acción pertinentes para el mejor funcionamiento del organismo;
 
-Junta de Gobierno y la correspondiente al informe anual del C. Gobernador; (sic)
+> <small>(REFORMADA [N. D E. ADICIONADA], P.O. 11 DE MAYO DE 2004)</small>
 
-III (sic). Dictaminar sobre premios y estímulos al personal;
+II. Proponer y autorizar en su caso las medidas administrativas internas que permita (sic) el adecuado funcionamiento del organismo;
 
-IV. Las demás que estén relacionadas con la operación y funcionamiento eficiente del C.A.P.E.C.E.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2004)</small>
+
+III. Dictaminar sobre premios y estímulos al personal, erigiéndose como comisión evaluadora para tal efecto;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2004)</small>
+
+IV. Las demás que se deriven de las leyes, reglamentos, acuerdos y convenios que estén relacionadas con la operación y funcionamiento eficiente del CAPECE.
 
 ###### Artículo 31.
 
@@ -403,6 +461,44 @@ El C.A.P.E.C.E. vigilará y aplicará en el ámbito de su competencia la legisla
 
 Las relaciones jurídicas laborales entre el C.A.P.E.C.E. y los servidores públicos a el adscritos serán regidas por la legislación vigente en la materia y por las Condiciones Generales de Trabajo del C.A.P.E.C.E.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2004)</small>
+
+### CAPITULO VII. De las suplencias
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2004)</small>
+
+###### Artículo 46.
+
+En los casos en que no hubiere designación del nuevo Director General o durante las ausencias temporales del mismo, el despacho, resolución y firma de documentos oficiales, administrativos y bancarios o cualquier asunto correspondiente al CAPECE, que sea necesario para que dicho Organismo continúe con las funciones que marca el artículo 2° de la Ley de creación del citado Organismo, quedarán a cargo del Presidente de la Junta de Gobierno y Director Administrativo; para los casos en que no se encuentre el Director Administrativo, lo suplirá el Director de Obras; quienes solo podrán ejercer las funciones que se encuentran precisadas en las fracciones I, II, III, IV, V, VII, X y XII del Artículo 14 de la Ley o bien aquellas que en forma expresa y especial les atribuya la Junta de Gobierno.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2004)</small>
+
+###### Artículo 47.
+
+Los Directores internos y Coordinadores serán suplidos en sus ausencias por los servidores públicos del nivel jerárquico inmediato inferior, en los asuntos de sus respectivas competencias.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2004)</small>
+
+### CAPITULO VIII. De la Información Pública
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2004)</small>
+
+###### Artículo 48.
+
+Corresponde a la Unidad de Coordinación Jurídica, dar contestación a las peticiones que formulen los particulares en los términos que marca la Ley de Transparencia e información Pública del Estado de Jalisco y aquellos especiales que determine la Junta de Gobierno.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2004)</small>
+
+###### Artículo 49.
+
+Una vez que sea turnada a la Unidad de Coordinación Jurídica, la información solicitada, ésta la analizará para ver si cumple con los requisitos que exige el artículo 11 de la Ley de Transparencia e Información Pública. Y cumplidos dichos requisitos, analizará y clasificará la información solicitada, determinando si ésta es pública o reservada.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2004)</small>
+
+###### Artículo 50.
+
+Tanto para determinar, como para dar contestación a las peticiones, que formulen los particulares, la Unidad de Coordinación Jurídica, se auxiliará de las demás Direcciones y Unidades del CAPECE, cuyas actividades tengan relación con la información que se solicita.
+
 T R A N S I T O R I O S
 
 PRIMERO. El Director General del C.A.P.E.C.E que se encuentre en funciones a la fecha de la entrada en vigor del presente reglamento durará en su cargo hasta cumplir cuatro años de haber iniciado sus funciones.
@@ -430,3 +526,9 @@ EL C. SECRETARIO DE EDUCACIÓN
 LIC. MIGUEL AGUSTIN LIMÓN MACIAS
 
 La presente hoja de firmas corresponde al acuerdo que expide el reglamento interno del organismo público descentralizado denominado "Comité Administrador del Programa Estatal de Construcción de Escuelas" (C.A.P.E.C.E).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE MAYO DE 2004.
+
+Unico.- La presente reforma al reglamento entrara en vigor al día siguiente de su publicación en el periódico oficial "EL ESTADO DE JALISCO".
