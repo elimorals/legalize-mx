@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1917-10-18"
+last_updated: "1919-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 1919.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -59,19 +59,23 @@ En el Estado sólo podrán ejercer las profesiones de abogado, médico-cirujano,
 
 Las sentencias pronunciadas por los Tribunales del Estado, solamente perjudican a las personas que hubieren sido citadas y emplazadas legalmente en el juicio en que se hubieren dictado, y a sus causa-habientes.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
+
 ###### Art. 6º.
 
-La aplicación de las penas corresponde a la autoridad judicial. Compete a la autoridad administrativa el castigo de las infracciones de los reglamentos gubernativos y de policía, el cual únicamente consistirá en multa hasta de cien pesos y arresto hasta de treinta y seis horas; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de quince días.
+La aplicación de las penas corresponde a la Autoridad Judicial. Compete a la Autoridad Administrativa el castigo de las infracciones de los reglamentos gubernativos y de policía, el cual únicamente consistirá en multa hasta de cien pesos o arresto hasta de treinta y seis horas; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de quince días.
 
-Si el infractor fuere jornalero u obrero, no podrá ser castigado con multa mayor del importe de su jornal ó sueldo de una semana.
+Si el infractor fuere jornalero u obrero, no podrá ser castigado con multa mayor del importe de su jornal o sueldo de una semana.
 
-La persecusión (sic) de los delitos, incumbe al Ministerio Público y a la policía judicial.
+La persecusión de los delitos, incumbe al Ministerio Público y a la Policía Judicial.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MARZO DE 1919)</small>
 
 ###### Art. 7º.
 
-La propiedad particular solamente puede ser objeto de expropiación por causa de utilidad pública.
+La propiedad particular solamente puede ser objeto de expropiación, por causa de utilidad pública y mediante indemnización, en la forma y términos que determinen las Leyes.
 
-Se considerarán de utilidad publica las propiedades que puedan proporcionar al Estado o a los Municipios, usos o goces de beneficio social. La autoridad superior administrativa hará la declaración correspondiente en cada caso especial.
+Se considerarán de utilidad pública las propiedades que puedan proporcionar al Estado o a los Municipios, usos o goces de beneficio social. La autoridad superior administrativa hará la declaración correspondiente en cada caso especial.
 
 ###### Art. 8º.
 
@@ -97,9 +101,11 @@ La soberanía reside esencial y radicalmente en el pueblo, y se ejerce por medio
 
 Todo poder público emana del pueblo y se instituye para su beneficio.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
+
 ###### Art. 13.
 
-El Estado delega sus facultades en los Supremos Poderes de la Nación, únicamente en cuanto sea conforme al bien de toda ella y en los términos que expresa la Constitución Política de los Estados Unidos Mexicanos, la cual se obliga el mismo Estado a guardar y hacer guardar, así como las leyes que de ella emanen.
+El Estado ha delegado parte de su soberanía en los Poderes Federales, en los términos que expresa la Constitución Política de los Estados Unidos Mexicanos, la cual se obliga el mismo Estado a guardar y hacer guardar, así como las leyes que de ella emanen.
 
 ###### Art. 14.
 
@@ -111,21 +117,29 @@ El Estado se divide en Municipios. La Ley Orgánica respectiva determinará cuá
 
 De los Guanajuatenses y vecinos del Estado.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
+
 ###### Art. 15.
 
 La calidad de guanajuatense se adquiere por nacimiento o por vecindad.
 
-I. Son guanajuatenses por nacimiento los hijos de padres guanajuatenses nacidos dentro o fuera del Estado.
-
-II. Se reputan guanajuatenses por nacimiento, los que nazcan en el Estado, de padre extranjero naturalizado y avecindado en él.
-
-III. Son guanajuatenses por vecindad, los mexicanos que residan habitualmente en el Estado y los extranjeros que, naturalizados mexicanos, llenen el requisito anterior.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
 
 ###### Art. 16.
 
-La vecindad se adquiere por residir continuadamente en el Estado durante más de dos años.
+Son guanajuatenses por nacimiento:
+
+I. Los hijos de padres guanajuatenses, nacidos dentro o fuera del territorio del Estado.
+
+II. Los hijos de padres mexicanos avecindados en el Estado, que nazcan dentro de su territorio.
+
+III. Los hijos de padres extranjeros naturalizados y avecindados en el Estado, que reúnan los requisitos que para ser reputados por nacimiento establece la Constitución General.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
 
 ###### Art. 17.
+
+Son guanajuatenses por vecindad los mexicanos que residan habitualmente en el Estado, durante un periodo no menor de seis meses y los extranjeros que, naturalizados mexicanos, llenen el requisito anterior.
 
 La vecindad no se pierde por ausencia en el desempeño de un cargo público de elección popular, o de comisión que no tenga el carácter de permanente.
 
@@ -137,27 +151,31 @@ Los vecinos de cualquier Municipio y los transeúntes que se encuentren en él, 
 
 De los Ciudadanos guanajuatenses.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
+
 ###### Art. 19.
 
-Son Ciudadanos del Estado, los vecinos guanajuatenses por nacimiento o por naturalización, que reúnan los requisitos siguientes:
+Son Ciudadanos del Estado, los varones que a la calidad de guanajuatenses, unan las siguientes:
 
-I. Haber cumplido dieciocho años siendo casados, o veintiuno siendo solteros.
+I. Haber cumplido dieciocho años si son casados o veintiuno si no lo son.
 
 II. Tener un modo honesto de vivir.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
 
 ###### Art. 20.
 
 Son derechos del Ciudadano guanajuatense:
 
-I. Tomar las armas en el ejército o en la Guardia Nacional, para la defensa del Estado o de sus instituciones.
+I. Tomar las armas en la Guardia Nacional, para la defensa del Estado y de sus instituciones.
 
-II. Votar en las elecciones populares.
+II. Votar en las elecciones populares para funcionarios del Estado.
 
-III. Poder ser votado para todos los cargos de elección popular y ser también nombrado para cualquier empleo o comisión, teniendo las cualidades que la ley establezca.
+III. Poder ser votado o nombrado, respectivamente, para los cargos de elección popular, o para los empleos y comisiones del Estado, teniendo los demás requisitos que astablezca (sic) la ley.
 
 IV. Asociarse para tratar los asuntos políticos del Estado.
 
-V. Ejercer en toda clase de negocios, el derecho de petición.
+V. Ejercer en ellos el derecho de petición.
 
 ###### Art. 21.
 
@@ -177,23 +195,23 @@ IV. Desempeñar los demás cargos gratuitos que se le señalen, relativos a las 
 
 V. Hacer que sus hijos reciban la instrucción laica y la militar que se imparte en las Escuelas.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
+
 ###### Art. 23.
 
-La calidad de Ciudadano guanajuatense se pierde:
+La calidad de ciudadano guanajuatense se pierde por sentencia ejecutoria que imponga esa pena.
 
-I. Por el hecho de servir oficialmente al gobierno de otro Estado o de la Federación, o por admitir de aquél o de ésta condecoraciones, títulos o funciones, sin licencia del Gobierno del Estado; exceptuándose los empleos de elección popular y los de instrucción pública, así como los títulos literarios, científicos y humanitarios, que pueden admitirse libremente.
-
-II. Por pena impuesta en sentencia ejecutoria que decrete la pérdida de los derechos de Ciudadano.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
 
 ###### Art. 24.
 
-Se suspende la calidad de Ciudadano:
+Se suspende la calidad de ciudadano del Estado:
 
 I. Durante la formación de un proceso criminal, desde el momento en que se dicte el auto motivado de prisión; y tratándose de los funcionarios y empleados que gocen de fuero, desde que se declare haber lugar a formación de causa.
 
 II. Durante la extinción de una pena judicial o de una pena correccional.
 
-III. Por manifestar oposición a la Constitución Federal o a la Particular del Estado, ya se haga dicha manifestación por medio de actos de rebeldía o por omisión culpable de la observancia de sus preceptos.
+III. Por manifestar oposición a la Constitución Federal o a la Particular del Estado, ya se haga dicha manifestación por medio de actos que las mismas prohiben, o por omisión culpable de los que prescriben.
 
 ###### Art. 25.
 
@@ -231,9 +249,11 @@ El ejercicio del Poder Judicial corresponde al Supremo Tribunal de Justicia, a l
 
 Jamás podrán reunirse dos o más de estos Poderes en una persona o Corporación ni el Legislativo depositar la suma de su poder en una sola persona.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
+
 ###### Art. 32.
 
-Los miembros de la Legislatura, el Gobernador del Estado y los Poderes Municipales, serán nombrados popularmente y en elección directa. De entre los miembros del Ayuntamiento, se elegirá, por los demás, un Presidente que será el del Municipio. Los Magistrados y los Jueces de Partido, serán nombrados por la Legislatura, y los Municipales y los Jurados por los respectivos Ayuntamientos.
+El Gobernador del Estado, los Diputados a la Legislatura y los Munícipes serán nombrados popularmente y por elección directa. De entre los miembros del Ayuntamiento se elegirá por los demás un Presidente que será el del Municipio. Los Magistrados y los Jueces de Partido se nombrarán por la Legislatura, los Municipales y los Jurados, por los respectivos Ayuntamientos.
 
 ###### Art. 33.
 
@@ -255,15 +275,21 @@ Del Poder Ejecutivo.
 
 Para ser Gobernador del Estado, se requiere:
 
-I. Ser ciudadano mexicano. Si es nativo del Estado, tener dos años de residencia continuada en él, inmediatamente anteriores al día de la elección, y si no lo es, tener quince años de residencia, en los términos que se acaban de expresar.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 1919)</small>
+
+I. Ser ciudadano mexicano por nacimiento y además nativo del Estado, o con vecindad en el mismo no menor de cinco años, inmediatamente anteriores al día de la elección.
 
 II. Estar en ejercicio de sus derechos.
 
 III. Tener más de treinta años y menos de sesenta y cinco, al tiempo de la elección.
 
-IV. No ser ministro o delegado de algún culto, ni militar con mando de fuerzas.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 1919)</small>
 
-V. No ser funcionario ni empleado federal, al tiempo de ser expedida la convocatoria a elecciones.
+IV. No ser ni haber sido ministro o delegado de algún culto religioso.
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 1919)</small>
+
+V. No ser militar con mando de fuerzas dentro de los noventa días anteriores a la elección ni en la fecha en que ésta se efectúe.
 
 ###### Art. 55.
 
@@ -373,13 +399,17 @@ La libertad Municipal no tendrá más límites que los señalados en la Constitu
 
 La administración de los Municipios será colectiva: en consecuencia, el Presidente solo tendrá el carácter de ejecutor de las resoluciones de la Corporación.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
+
 ###### Art. 76.
 
-Los Ayuntamientos se renovarán en su totalidad cada año; pero los Presidentes Municipales serán designados cada cuatro meses, pudiendo ser reelectos.
+Los Ayuntamientos se renovarán en su totalidad cada año y será Presidente Municipal durante todo ese período, el Munícipe propietario que sea electo por el mismo Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
 
 ###### Art. 77.
 
-Los Munícipes propietarios, de conformidad con el artículo 32 de esta Constitución, designarán de entre ellos mismos, un Presidente, que será el del Municipio.
+La propia Corporación designará en cada caso y mediante nueva elección, otro de sus miembros para cubrir las faltas temporales o absolutas del Presidente que deba sustituirse.
 
 ###### Art. 78.
 
@@ -481,19 +511,21 @@ II. Haber terminado la instrucción primaria.
 
 III. Tener veinticinco años cumplidos al tiempo de la elección.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
+
 ###### Art. 37.
 
-No pueden ser Diputados a la Legislatura local:
+No pueden ser Diputados a la Legislatura:
 
 I. El Gobernador del Estado.
 
-II. Los Magistrados y el Procurador de Justicia.
+II. Los Magistrados ni el Procurador de Justicia.
 
-III. Los ministros de cualquier culto, estén o no en ejercicio.
+III. Los Ministros de cualquier culto, estén o no ejerciendo.
 
-IV. Los militares con mando efectivo en el Estado.
+IV. Los Militares en servicio activo en el Estado, dentro de los noventa días anteriores a la elección o cuando ésta se verifique.
 
-V. Los Presidentes Municipales y los Munícipes.
+V. Los Presidentes Municipales.
 
 ###### Art. 38.
 
@@ -549,9 +581,11 @@ Si las sesiones extraordinarias se prolongaren hasta la fecha en que deban dar p
 
 De las Facultades de la Legislatura.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MARZO DE 1919)</small>
+
 ###### Art. 48.
 
-Son facultades del Congreso Legislativo.
+Son facultades de la Legislatura:
 
 I. Expedir cuantas leyes sean conducentes al Gobierno y administración de todos los ramos que comprenden.
 
@@ -565,19 +599,31 @@ V. Conceder amnistías en circunstancias extraordinarias, por el voto de las dos
 
 VI. Reclamar ante la Suprema Corte de Justicia de la Nación, cuando alguna ley o acto del Gabierno (sic) General constituya un ataque a la soberanía, independencia o libertad del Estado o a la Constitución Federal.
 
-VII. Hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y declarar electo al que haya obtenido mayoría en los comicios.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 1919)</small>
+
+VII. Hacer el escurtinio (sic) de los votos emitidos en las elecciones de Gobernador y de Diputados a la Legislatura y declarar electos a los que hayan obtenido mayoría en los comicios.
 
 VIII. Calificar toda clase de elecciones cuando se reclame contra ellas.
 
-IX. Erigirse en Colegio electoral para el nombramientos (sic) de Magistrados al Supremo Tribunal de Justicia y Jueces de Partido, y conocer de las renuncias que hagan estos funcionarios y los ciudadanos Diputados.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 1919)</small>
+
+IX. Erigirse en Colegio Electoral para nombrar Magistrados del Supremo Tribunal y de Jueces de Partido, así como para elegir Gobernador del Estado, que termine el período constitucional, en caso de falta absoluta de este funcionario, ocurrido dentro de los últimos dieciocho meses del mismo período, o cuando la falta sea temporal y exceda de treinta días.
 
 X. Hacer la división del Estado en Distritos electorales.
 
-XI. Conceder licencia para separarse de su encargo, al Gobernador, a los Diputados y Magistrados; y al Gobernador para salir del Estado por más de ocho días.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 1919)</small>
+
+XI. Decidir sobre las renuncias que hagan los Diputados, Gobernador del Estado, Magistrados del Supremo Tribunal y Jueces de Partido; y conceder licencias a dichos funcionarios para separarse de sus respectivos cargos; así como al Gobernador para salir del Estado por más de ocho días.
 
 XII. Reformar la división política del Estado, a fin de que resulte adecuada a las necesidades del buen Gobierno.
 
-XIII. Convocar a elecciones de Gobernador en caso de falta absoluta del que esté ejerciendo el cargo, a fin de que concluya el periodo constitucional. En este caso, entre tanto que se verifican las elecciones y toma posesión el nuevo Gobernador, se encargará del Poder Ejecutivo el Secretario General del Despacho.- En caso de falta temporal hasta por 30 días, lo substituirá el Secretario General del Despacho. Si la falta fuere temporal y por más de un mes, la Legislatura designará para que substituya al Gobernador a un diputado de ella, propietario o suplente, que será electo por la mayoría de la misma.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 1919)</small>
+
+XIII. Convocar a elecciones de Gobernador, en caso de falta absoluta del que está ejerciendo el cargo, ocurrida antes de los últimos dieciocho meses del periodo Constitucional, a fin de que concluya dicho período.
+
+En este caso, entre tanto que se verifican las elecciones y toma posesión el nuevo Gobernador, así como en toda falta temporal del expresado funcionario, por más de treinta días, la Legislatura designará, para que sustituya al Ejecutivo, un Diputado de ella, propietario o suplente en ejercicio, que será electo por la mayoría de la misma.
+
+Si la falta temporal fuere de treinta días o menos se encargará del Poder Ejecutivo el Secretario General del Despacho.
 
 XIV. Dirimir los conflictos entre el Ejecutivo y el Supremo Tribunal de Justicia y entre éstos y los Municipios.
 
@@ -597,7 +643,9 @@ XXI. Dictar leyes reguladoras del jornal, salario o sueldo de los trabajadores y
 
 XXII. Autorizar al Gobernador para que pueda, en campaña, mandar personalmente la Guardia Nacional y las fuerzas de policía.
 
-XXIII. Declarar, cuando se trate de delitos comunes, si hay lugar a formación de causa contra los funcionarios públicos.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 1919)</small>
+
+XXIII. Declarar cuando se trate de delitos comunes, si hay lugar a formación de causa de que habla el artículo 100 de esta Constitución.
 
 XXIV. Conocer, como jurado de calificación, en las causas de responsabilidad de los mismos, por delitos cometidos en el desempeño de sus funciones.
 
@@ -665,7 +713,9 @@ Son obligaciones de la Diputación permanente:
 
 I. Acordar por sí sola, cuando el caso lo exija, o a iniciativa del Ejecutivo, la convocatoria de la Legislatura a sesiones extraordinarias.
 
-II. Recibir los expedientes relativos a las elecciones de Gobernador y de Diputados a la Legislatura, reservando a ésta los expedientes de las primeras y resolviendo acerca de las segundas.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 1919)</small>
+
+II. Recibir los expedientes relativos a las elecciones de Gobernador y de Diputados a la Legislatura, reservándolos a ésta, para que hagan los cómputos y las declaraciones que correspondan.
 
 III. Nombrar Jueces de Partido interinos, para sustituir en sus faltas a los propietarios, dando cuenta a la Legislatura, al comenzar las sesiones ordinarias.
 
@@ -699,7 +749,9 @@ III. Tener treinta años cumplidos, el día de la elección.
 
 Son obligaciones del Supremo Tribunal de Justicia:
 
-I. Conocer, en primera y segunda instancia, de los negocios civiles contra los funcionarios públicos; en la segunda instancia, de todos los negocios civiles y en las tres instancias, de los negocios criminales que las tuvieren. Queda suprimido el recurso de casación.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 1919)</small>
+
+I. Conocer en los juicios civiles y criminales de las instancias y recursos que sean de su competencia, conforme a las leyes secundarias; exceptuando el recurso de casación que queda suprimido.
 
 II. Decidir las competencias que se susciten entre los funcionarios encargados de administrar justicia en el Estado, en los casos que determine la ley.
 
@@ -707,7 +759,11 @@ III. Consultar a la Legislatura del Estado, las dudas de ley que se presenten a 
 
 IV. Dar mensualmente a la Presidencia, por medio de sus Secretarios, una noticia de los negocios civiles y criminales concluídos y de los pendientes en el mismo Tribunal, para conocimiento de los otros Poderes.
 
-V. Nombrar sus Secretarios y remover a unos y otros a su arbitrio, pudiendo concederles licencias hasta por un mes con goce de sueldo o sin él.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 1919)</small>
+
+V. Nombrar sus Secretarios y demás empleados y remover a unos y a otros a su arbitro (sic), pudiendo concederles licencias hasta por un mes, con o sin goce de sueldo.
+
+Las licencias de mayor duración se otorgarán por la Legislatura y en sus recesos por la Diputación Permanente.
 
 VI. Formar su reglamento interior, enviándolo al Congreso para su aprobación.
 
@@ -735,9 +791,11 @@ Los Jueces de Partido durarán en su encargo cuatro años y no podrán ser remov
 
 Para ser Juez de Partido, se requiere: Ser Ciudadano mexicano, de preferencia guanajuatense, en ejercicio de sus derechos; abogado con dos años de práctica y no haber sino condenado por delito alguno con motivo de sus funciones, o por delito contra la propiedad.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
+
 ###### Art. 68.
 
-Los Jueces de Partido residirán en la Cabecera del Partido Judicial y no podrán cambiar el despacho, sino con autorización de la Legislatura.
+Los Jueces de Partido residirán en la Cabecera del Partido Judicial y no podrán cambiar el despacho a otra población, sino autorizados por la Legislatura o por la Diputación Permanente durante los recesos.
 
 ###### Art. 69.
 
@@ -823,9 +881,11 @@ Esa responsabilidad solamente podrá exigirse durante el tiempo que el funcionar
 
 El Gobernador del Estado, durante el período de sus funciones, solo podrá ser acusado por los delitos de traición a la Patria, violación de la Constitución y delitos graves del orden común.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
+
 ###### Art. 104.
 
-Siempre que se trate de alguno de los funcionarios de primer orden a que se refiere el artículo 100, y el delito fuere del orden común, la Legislatura, erigida en Gran Jurado, declarará si ha o no lugar a proceder en contra del acusado. En caso afirmativo, por esta declaración queda el acusado separado de su encargo y sujeto al Supremo Tribunal de Justicia, que funcionará como jurado de sentencia, e impondrá la pena. En caso negativo, no habrá lugar a ningún procedimiento ulterior.
+Siempre que se trate de alguno de los funcionarios de primer orden a que se refiere el artículo 100, y el delito fuere del orden común, la Legislatura, erigida en Gran Jurado, declarará si hay (sic) lugar o no a proceder contra el acusado. En caso negativo, no habrá lugar a procedimiento ulterior. En caso afirmativo, por esta declaración quedará el acusado separado de su encargo y sujeto al Supremo Tribunal de Justicia. Si dicho Tribunal no fuere competente por la naturaleza del delito, la consignación se hará a la autoridad a que corresponda.
 
 ###### Art. 105.
 
@@ -839,9 +899,13 @@ Los funcionarios comprendidos en la primera parte del artículo 101, serán juzg
 
 Los agentes de la autoridad o de la policía comprendidos en la segunda parte del artículo 101, serán juzgados por los jueces de Partido, previa la formación de las diligencias detalladas en la ley correspondiente.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
+
 ###### Art. 108.
 
 La responsabilidad de los funcionarios y empleados públicos por delitos oficiales, cuya prescripción no esté determinada en la ley, solo podrá exigirse durante el período de funciones y un año después.
+
+En las demandas del orden civil, no hay fuero ni inmunidad para ningún funcionario ni empleado público.
 
 ## TITULO DECIMO.
 
@@ -926,3 +990,9 @@ Agustín Alcocer.
 El Secretario General del Despacho,
 
 Lic. Francisco Espinosa.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+P.O. 23 DE MARZO DE 1919.
+
+Artículo Segundo.- Las anteriores reformas surtirán sus efectos desde el día de la promulgación del presente Decreto, que se hará por bando solemne el 10 del mes actual.
