@@ -4,7 +4,7 @@ identifier: "JAL-ley-electoral-del-estado-de-jalisco-15428"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-29"
-last_updated: "2003-10-25"
+last_updated: "2004-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ELECTORAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 29 de abril de 1997.
 
@@ -1727,9 +1727,9 @@ X. Rendir anualmente al Pleno del Consejo Electoral, a más tardar en el mes de 
 
 XI. Remitir al Titular del Poder Ejecutivo, el proyecto de presupuesto de egresos del Consejo Electoral del Estado aprobado por éste, para los efectos de ley correspondientes;
 
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
-El proyecto de presupuesto a que se refiere el párrafo anterior debe contener la plantilla de personal en la que se especifiquen todos los empleos públicos, con inclusión del Presidente y de los consejeros, así como las remuneraciones que, por conceptos de salarios o cualquier otro, les sean asignadas a los mismos;
+El proyecto de presupuesto a que se refiere la fracción anterior debe cumplir con los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza y motivación, y contener la plantilla de personal en la que se especifiquen todos los empleos públicos, con inclusión del Presidente y de los consejeros, así como las remuneraciones que, por conceptos de salarios y prestaciones de ley, les sean asignadas a los mismos, sin que bajo ninguna circunstancia, puedan recibir bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación, de conformidad a la normatividad aplicable.
 
 XII. Elaborar el proyecto de convocatoria para las elecciones que establece este ordenamiento, para someterla a la consideración, y en su caso, aprobación del Consejo Electoral del Estado;
 
@@ -5152,3 +5152,9 @@ Segundo. Los efectos del último párrafo del artículo 30, se aplicarán a part
 P.O. 25 DE OCTUBRE DE 2003.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 26 DE AGOSTO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a la entrada en vigor del decreto número 20514 que contiene reformas al artículo 111 de la Constitución Política del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- El Comité Técnico de Transparencia y Valoración Salarial, deberá reunirse de forma inmediata a fin de aprobar su reglamento interno. El reglamento deberá ser aprobado dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
