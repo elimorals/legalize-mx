@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-venta-almacenaje-y-consumo-publico-de-25686"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-03"
-last_updated: "2002-05-03"
+last_updated: "2002-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PUBLICO DE BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 7 Y 14 DE JUNIO DE 2002 EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 7 DE JUNIO DE 2002.</small>
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de mayo de 2002.
 
@@ -127,9 +127,61 @@ DOCUMENTO OFICIAL CON FOTOGRAFIA: Credencial Federal o Estatal de Elector, Carti
 
 La venta, almacenaje para su venta y venta para consumo publico de bebidas alcohólicas solo podrá autorizarse en los términos de la ley y el reglamento.
 
-IV (SIC).- La creación de giros diversos atendiendo a las necesidades comerciales del Municipio.
+> <small>(F. DE E., P.O. 7 DE JUNIO DE 2002)</small>
 
-ARTICULO 9 (SIC).- Son facultades del Presidente Municipal:
+###### ARTICULO 4.
+
+Para operar un giro, se requiere de permiso expedido por el Cabildo a través de la Autoridad Municipal en los términos que señalan la ley y el presente ordenamiento.
+
+> <small>(F. DE E., P.O. 7 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 5.
+
+La publicidad y propaganda sobre bebidas alcohólicas, deberá reunir y cumplir con los requisitos que fija la Ley General de Salud y el Reglamento Sanitario de Publicidad respectivo, y el Reglamento de Rótulos, Anuncios y Similares para el Municipio de Tijuana Baja California.
+
+> <small>(F. DE E., P.O. 7 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 6.
+
+Las atribuciones y facultades que éste reglamento confiere a la autoridad municipal, se ejercerán por conducto del Ayuntamiento y en su caso por el Presidente Municipal, la Secretaría del Ayuntamiento, la Dirección General de Gobierno, y la Dirección de Regulación Municipal, sin perjuicio de aquellas que confiere la Ley al Gobernador del Estado.
+
+> <small>(F. DE E., P.O. 7 DE JUNIO DE 2002)</small>
+
+### CAPITULO SEGUNDO. DE LAS AUTORIDADES
+
+> <small>(F. DE E., P.O. 7 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 7.
+
+Los Órganos facultados para la aplicación y vigilancia del presente Reglamento son:
+
+I.- Ayuntamiento de Tijuana;
+
+II.- Presidente Municipal;
+
+III.- Secretario del Ayuntamiento;
+
+IV.- Dirección General de Gobierno, y
+
+V.- La Dirección de Regulación Municipal y los Inspectores que éste designe.
+
+> <small>(F. DE E., P.O. 7 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 8.
+
+Son facultades del Ayuntamiento:
+
+I.- Otorgar o negar en ejercicio de la facultad plena de Cabildo y de la autonomía municipal los permisos a que se refiere el artículo 10 de la ley, atendiendo al orden público e interés social, así como los cambios de domicilio y las revocaciones de los mismos;
+
+II.- Autorizar las ampliaciones de horarios permanentes según corresponda a cada giro;
+
+III.- Decretar la prohibición de fechas especificas, conforme a lo establecido en el articulo 26 de la ley de la materia, y
+
+IV.- La creación de giros diversos atendiendo a las necesidades comerciales del Municipio.
+
+###### ARTICULO 9.
+
+Son facultades del Presidente Municipal:
 
 I.- Tramitar las solicitudes que se reciban en la Secretaría del Ayuntamiento para la expedición de permisos para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas;
 
@@ -137,13 +189,11 @@ II.- Autorizar cambios de giro, cambios de titular y los cambios nombre (sic) co
 
 III.- Autorizar los servicios adicionales a que se refiere el presente Reglamento;
 
-IV.- Determinar e Imponer las sanciones a las que se refiere el presente ordenamiento, y (sic)
+IV.- Determinar e Imponer las sanciones a las que se refiere el presente ordenamiento, y
 
 V.- Otorgar los permisos eventuales que señala el presente reglamento, y
 
 VI.- Las demás que le confiere este reglamento, leyes y disposiciones aplicables.
-
-### CAPITULO TERCERO (SIC). DE LAS OBLIGACIONES GENERALES DE LOS PERMISIONARIOS
 
 ###### ARTICULO 10.
 
@@ -227,7 +277,7 @@ XIV.- Determinar y ejecutar las sanciones y medidas de seguridad por violaciones
 
 XV.- Las demás que se le confieran en este o en otros ordenamientos legales.
 
-### CAPITULO CUARTO. DE LOS DIAS Y HORARIOS AUTORIZADOS
+### CAPITULO TERCERO. DE LAS OBLIGACIONES GENERALES DE LOS PERMISIONARIOS
 
 ###### ARTICULO 13.
 
@@ -275,7 +325,7 @@ XX.- Solicitar autorización expresa de la Dirección de Administración Urbana,
 
 XXI.- Las demás que se señalan en este reglamento la ley y otras disposiciones legales aplicables.
 
-### CAPITULO QUINTO. DE LOS PERMISOS Y UBICACIÓN
+### CAPITULO CUARTO. DE LOS DIAS Y HORARIOS AUTORIZADOS
 
 ###### ARTICULO 14.
 
@@ -367,7 +417,7 @@ Los negocios contemplados en los incisos del I) al O) y del R) al U), del artíc
 
 La Dirección de Regulación Municipal, podrá autorizar horarios extraordinarios, que excedan el limite señalado en los diferentes giros contemplados en el artículo 18 fracción I del presente reglamento, a excepción de los giros identificados con los incisos A), B), C), D), I), P) y Q). El horario extraordinario no excederá de catorce horas por semana calendario, y de 2 horas por día, dicha autorización se sujetará a los lineamientos que previamente establezca la Dirección de Regulación Municipal mediante el pago de los derechos correspondientes.
 
-### CAPITULO SEXTO. DE LAS REVALIDACIONES
+### CAPITULO QUINTO. DE LOS PERMISOS Y UBICACIÓN
 
 ###### ARTICULO 21.
 
@@ -559,7 +609,7 @@ El permiso se otorgará previo pago de derechos de acuerdo a las tarifas estable
 
 Los ciudadanos que soliciten el otorgamiento de un permiso permanente, se ubicarán a una distancia de 100 metros entre establecimientos del mismo giro, siendo estos los que expendan bebidas alcohólicas envase (sic) cerrado, a excepción de aquellos en que sea la venta para consumo exclusivamente con alimentos o se establezcan en zonas que el Ayuntamiento determine como hoteleras, restauranteras o turísticas, además se ubicarán a una distancia de 150 metros de cualquier centro escolar o iglesias. Dichas distancias se tomarán a partir del lindero más próximo al lindero que tiene la puerta principal del solicitante.
 
-### CAPITULO SÉPTIMO. DE LOS CAMBIOS DE TITULAR, DOMICILIO, GIRO Y DE NOMBRE COMERCIAL
+### CAPITULO SEXTO. DE LAS REVALIDACIONES
 
 ###### ARTICULO 40.
 
@@ -583,7 +633,7 @@ En tanto se realiza el trámite de revalidación los negocios seguirán operando
 
 Transcurrido el plazo que (sic) el presente reglamento o la prórroga otorgada por el Ayuntamiento para el cumplimiento de esta obligación, la Dirección General de Gobierno requerirá al permisionario para que cumpla con dicha obligación en un plazo no mayor de 15 días, transcurrido este plazo sin que el titular del permiso cumpla con la misma, la Dirección General de Gobierno requerirá por segunda ocasión al titular para que cumpla con la citada obligación en un plazo de 10 días, apercibiéndolo para el caso de incumplimiento se hará acreedor a la aplicación de las medidas de apremio contempladas en este reglamento, en caso de persistir en el incumplimiento de su obligación la Dirección General de Gobierno requerirá por tercera ocasión al permisionario para que cumpla con su obligación en un plazo no mayor de 5 días, apercibiéndolo que en caso de no hacerlo se iniciara el procedimiento de revocación previsto en este reglamento.
 
-### CAPITULO OCTAVO. DE LAS PROHIBICIONES PARA LOS TITULARES, ENCARGADOS, REPRESENTANTES O EMPLEADOS EN LOS ESTABLECIMIENTOS
+### CAPITULO SÉPTIMO. DE LOS CAMBIOS DE TITULAR, DOMICILIO, GIRO Y DE NOMBRE COMERCIAL
 
 ###### ARTICULO 42.
 
@@ -675,7 +725,7 @@ VII.- Los demás requisitos establecidos en la ley y el presente reglamento.
 
 Si la autoridad municipal aprueba la solicitud del titular del permiso, en los supuestos de este capítulo, se expedirá uno nuevo, para lo cual la Secretaría del Ayuntamiento, procederá a la sustitución del anterior.
 
-### CAPITULO NOVENO. DEL CONSEJO CONSULTIVO
+### CAPITULO OCTAVO. DE LAS PROHIBICIONES PARA LOS TITULARES, ENCARGADOS, REPRESENTANTES O EMPLEADOS EN LOS ESTABLECIMIENTOS
 
 ###### ARTICULO 51.
 
@@ -715,7 +765,7 @@ XVI.- Realizar sus labores o prestar sus servicios en visible estado de ebriedad
 
 XVII.- Las demás que se establecen o se desprenden de las disposiciones de este reglamento y la legislación vigente en general.
 
-### CAPITULO DÉCIMO. DE LA VIGILANCIA PARA EL CUMPLIMIENTO DE LAS DISPOSICIONES DE ESTE REGLAMENTO
+### CAPITULO NOVENO. DEL CONSEJO CONSULTIVO
 
 ###### ARTICULO 52.
 
@@ -821,7 +871,7 @@ II.- Realizar propuestas en los temas inherentes a sus atribuciones.
 
 Las opiniones, comentarios, sugerencias, así como los proyectos y programas que proponga el Consejo Consultivo serán tomadas por consenso y serán remitidas a la Comisión Reguladora de Bebidas Alcohólicas del Ayuntamiento, para su estudio, análisis y ser tomadas en cuenta al momento de emitir un dictamen en la materia que regula en (sic) presente reglamento.
 
-### CAPITULO DECIMO PRIMERO. DE LAS INFRACCIONES Y MEDIDAS DE APREMIO
+### CAPITULO DÉCIMO. DE LA VIGILANCIA PARA EL CUMPLIMIENTO DE LAS DISPOSICIONES DE ESTE REGLAMENTO
 
 ###### ARTICULO 63.
 
@@ -911,7 +961,7 @@ I.- Copia de la resolución emitida por la autoridad competente en donde se dete
 
 II.- La notificación que se le hizo al infractor de la sanción impuesta.
 
-### CAPITULO DECIMO SEGUNDO. DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD
+### CAPITULO DECIMO PRIMERO. DE LAS INFRACCIONES Y MEDIDAS DE APREMIO
 
 ###### ARTICULO 72.
 
@@ -939,7 +989,7 @@ I.- Apercibimiento, y
 
 II.- Utilización de la fuerza pública.
 
-### CAPITULO DECIMO TERCERO. DE LAS MULTAS
+### CAPITULO DECIMO SEGUNDO. DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD
 
 ###### ARTICULO 74.
 
@@ -983,7 +1033,7 @@ III.- La suspensión de los eventos o actividades en su caso, y
 
 IV.- Para el cumplimiento de las fracciones anteriores podrán aplicarse las medidas de apremio contenidas en el artículo 73 del presente reglamento.
 
-### CAPITULO DECIMO CUARTO. PROCEDIMIENTO ADMINISTRATIVO SANCIONADOR
+### CAPITULO DECIMO TERCERO. DE LAS MULTAS
 
 ###### ARTICULO 78.
 
@@ -1009,7 +1059,7 @@ V.- Número de cuenta del infractor, y
 
 VI.- Número del permiso.
 
-### CAPITULO DECIMO QUINTO. DEL DELITO DE LESIVIDAD SOCIAL
+### CAPITULO DECIMO CUARTO. PROCEDIMIENTO ADMINISTRATIVO SANCIONADOR
 
 ###### ARTICULO 81.
 
@@ -1033,11 +1083,13 @@ VIII.- En las sanciones que la autoridad municipal imponga se deberá tomar en c
 
 La autoridad municipal encargada de aplicar el presente reglamento y ley, podrá solicitar el auxilio de la fuerza pública para hacer cumplir los acuerdos y resoluciones que dicte.
 
-### CAPITULO DÉCIMO SEXTO. DE LOS RECURSOS
+### CAPITULO DECIMO QUINTO. DEL DELITO DE LESIVIDAD SOCIAL
 
 ###### ARTICULO 82.
 
 Cuando la autoridad municipal tenga conocimiento de que el particular incurra en el delito de lesividad social que contempla el artículo 31 de la ley, de manera inmediata y con los elementos de prueba suficientes se solicitará al Departamento Jurídico del Ayuntamiento, que realice la querella respectiva y la presente ante la Autoridad competente, a efecto de que le dé curso, y en su caso imponga la penalidad establecida por el delito cometido señaladas en el artículo antes mencionado.
+
+### CAPITULO DÉCIMO SEXTO. DE LOS RECURSOS
 
 ###### ARTICULO 83.
 
