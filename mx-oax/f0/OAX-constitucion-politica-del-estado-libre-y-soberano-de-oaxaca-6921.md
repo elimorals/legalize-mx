@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1940-12-28"
+last_updated: "1941-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1940.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 1941.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -493,9 +493,13 @@ XXIII. Llamar a los diputados suplentes conforme a las prevenciones relativas de
 
 XXIV. Nombrar y remover al Contador Mayor de Glosa, cuyo nombramiento hará saber por medio de un decreto;
 
-XXV. Nombrar y remover a los empleados de su Secretaría y a los de la Contaduría Mayor de Glosa;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1941)</small>
 
-XXVI. Crear y suprimir empleos públicos del Estado, y señalar, aumentar o disminuir sus dotaciones;
+XXV. Nombrar y remover, con las limitaciones que establezcan las leyes, a los empleados de su Secretaría y a los de la Contaduría Mayor de Glosa;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1941)</small>
+
+XXVI. Crear y suprimir, con las limitaciones que establezcan las leyes, empleos públicos del Estado, y señalar, aumentar o disminuir sus dotaciones;
 
 XXVII. (DEROGADA, P.O. 11 DE FEBRERO DE 1933)
 
@@ -507,7 +511,9 @@ XXX. Autorizar la formación de asociaciones o sociedades cooperativas de produc
 
 XXXI. Expedir leyes encaminadas a combatir el alcoholismo y el abuso de las drogas denominadas heroicas;
 
-XXXII. Expedir una ley general sobre pensiones para los funcionarios y empleados públicos del Estado que se hayan inutilizado en el servicio;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1941)</small>
+
+XXXII. Expedir la Ley del Servicio Civil y la Ley General de Pensiones para los Funcionarios y Empleados Públicos del Estado;
 
 XXXIII. Conceder premios y recompensas por servicios eminentes prestados a la Humanidad, a la Patria o al Estado;
 
@@ -577,7 +583,9 @@ VI. Resolver todas las renuncias que por causa de urgencia presenten los funcion
 
 VII. Nombrar provisionalmente a los sustitutos de los funcionarios cuyas renuncias hubiere aceptado.
 
-VIII. Nombrar provisionalmente a los empleados de su Secretaría y a los de la Contaduría Mayor de Glosa, en caso de falta absoluta de ellos.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1941)</small>
+
+VIII. Nombrar provisionalmente, con las limitaciones que la establezcan las leyes, a los empleados de su Secretaría y a los de la Contaduría Mayor de Glosa, en caso de falta absoluta de ellos.
 
 IX. Calificar las excusas que presente el Procurador General para intervenir en determinado negocio.
 
@@ -701,7 +709,9 @@ III. Pedir a la Diputación Permanente la convocación de la Legislatura a perí
 
 IV. Enviar cada vez que lo crea conveniente, al Secretario General del Despacho para que tome parte en las discusiones de las leyes o decretos, pero sin que esté presente en el momento de la votación;
 
-V. Nombrar y remover al Secretario General del Despacho, Subsecretario, Tesorero General y demás empleados del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las leyes que de ella se deriven;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1941)</small>
+
+V. Nombrar y remover, con las limitaciones que establezcan las leyes, al Secretario General del Despacho, Subsecretario, Tesorero General y demás empleados del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las leyes que de ella se deriven;
 
 VI. Decretar la expropiación por causa de utilidad pública, de acuerdo con lo prevenido en los artículos 27 y 11 transitorio de la Constitución Federal, ajustando sus procedimientos a las leyes vigentes;
 
@@ -1003,9 +1013,11 @@ La enseñanza que imparte el Estado será socialista, con exclusión de toda doc
 
 Ninguna ley ni autoridad puede permitir en el Estado el establecimiento de juegos de azar; ni autorizar o permitir espectáculos contrarios a la cultura y moralidad públicas, como las corridas de toros y peleas de gallos.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1941)</small>
+
 ###### ARTICULO 152.
 
-Los servicios públicos no pueden en ningún caso ser materia de huelga o paros.
+En ningún caso podrán suspenderse por causa de huelgas o paros los servicios públicos inaplazables que expresamente determine la Ley del Servicio Civil y demás relativas.
 
 ###### ARTICULO 153.
 
@@ -1169,7 +1181,9 @@ X. Conceder licencias a los empleados de su nombramiento en la forma que determi
 
 XI. Formar el reglamento interior del Tribunal, pasándolo a la Legislatura para su aprobación;
 
-XII. Ejercer las demás atribuciones que le señalen las leyes.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1941)</small>
+
+XII. Nombrar y remover, con las limitaciones que establezcan las leyes, a los empleados de sus dependencias y ejercer las demás atribuciones legales del Poder Judicial.
 
 ###### ARTICULO 128.
 
@@ -1414,3 +1428,7 @@ Unico.- El presente decreto empezará a surtir sus efectos legales, a partir del
 P.O. 28 DE DICIEMBRE DE 1940.
 
 Unico.- Las reformas a los artículos 2o., 3o., 43, 59, 69, 72, 80, 127, 129 y 130 de la Constitución Política Local a que se refiere el presente decreto, entraran en vigor a partir del día primero de enero del año próximo de mil novecientos cuarenta y uno.
+
+P.O. 1 DE FEBRERO DE 1941.
+
+UNICO.- El presente decreto comenzará a surtir sus efectos legales en la fecha en que entre en vigor la Ley del Servicio Civil a que se refiere la fracción XXXII del artículo 59 de la Constitución Política del Estado, reformada por este decreto.
