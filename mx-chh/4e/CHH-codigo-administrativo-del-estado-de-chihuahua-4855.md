@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1989-05-17"
+last_updated: "1991-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1991.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -9325,7 +9325,7 @@ IX.- Las demás que les otorguen las disposiciones legales relativas.
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -9451,9 +9451,13 @@ IV.- La duración.
 
 Los predios de las zonas incluidas en los artículos 1495 y 1500 de este Título, se podrán utilizar en forma compatible con su destino o uso previsto, hasta la fecha señalada en que deberán aplicarse dichos predios a los usos y destinos que la autoridad haya determinado.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+DECIMA PRIMERA PARTE
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -9469,9 +9473,9 @@ En todo lo relativo a la estructura vial y sistema de transporte en el Estado, s
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 1504.
 
@@ -9569,9 +9573,9 @@ En los casos del artículo anterior, a solicitud del ayuntamiento el Programa de
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE ENERO DE 1984)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
+#### SECCION QUINTA. DE LA VIVIENDA
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1515.
 
@@ -9621,9 +9625,7 @@ Una vez determinados los jefes de familia beneficiados y cubierto el precio, la 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1521.
 
@@ -9667,7 +9669,9 @@ Para la construcción de viviendas deberá mediar solicitud del interesado ante 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1525.
 
@@ -9709,7 +9713,7 @@ En el caso de que los propietarios o poseedores no cumplan con las obligaciones 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -9881,11 +9885,7 @@ Cuando el Gobernador del Estado haya hecho una declaratoria de conurbación, dis
 
 Las declaratorias de conurbación para que surtan sus efectos serán publicadas por una sola vez en el Periódico Oficial del Estado y en dos periódicos de mayor circulación en la localidad que corresponda, debiendo inscribirse en la Oficina del Registro Público de la Propiedad respectiva.
 
-> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
-
-DECIMA PRIMERA PARTE
-
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 # LIBRO UNICO. SERVICIOS PUBLICOS DE AGUA POTABLE Y SANEAMIENTO
 
@@ -9929,6 +9929,18 @@ Las autoridades Estatales y Municipales y los habitantes del Estado tienen el de
 
 Para coordinar las acciones de la Federación, Estado, Municipio y particulares en obras de agua y saneamiento, se crea un organismo público descentralizado con personalidad jurídica y patrimonio propios denominado Junta Central de Agua y Saneamiento, con domicilio en la Capital del Estado.
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 1991)</small>
+
+ARTICULO 1551 BIS.- El patrimonio del Organismo se forma:
+
+I.- Por los ingresos que le sean asignados por la Federación, el Estado o los Municipios;
+
+II.- De los bienes transferidos y que se le transfieran por la Federación, el Estado o los Municipios;
+
+III.- De los ingresos provenientes de las Juntas Municipales por concepto de asistencia técnica y material, que en ningún caso podrán ser superiores al cinco por ciento de sus ingresos mensuales;
+
+IV.- De los bienes que se allegue en forma diversa.
+
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
 ###### ARTICULO 1552.
@@ -9937,11 +9949,17 @@ La Junta General tiene las siguientes atribuciones:
 
 I.- Vigilar la organización y funcionamiento de las Juntas Municipales.
 
-II.- Proporcionar asesoría técnica a las Juntas Municipales.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 1991)</small>
+
+II.- Proporcionar asesoría técnica a las Juntas Municipales y organizar el cuerpo del servicio profesional de agua y saneamiento, de carácter permanente y con funciones especializadas en las áreas técnica y administrativa, cuyos miembros deberán cubrir el requisito de formación y capacitación correspondiente y solo podrán ser removidos por las causas aplicables a los trabajadores de base del Estado;
 
 III.- Prever el desarrollo de las poblaciones para adecuar las fuentes de abastecimiento de agua potable, redes de distribución y colectores.
 
-IV.- Designar a su propio personal y al de las Juntas Municipales, a propuesta de éstas;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 1991)</small>
+
+IV.- Designar a su propio personal y al de las Juntas Municipales, a propuesta de estas.
+
+La Junta Central determinará los casos en que las Juntas Municipales deban contar con el servicio profesional de agua y saneamiento, necesario para la mejor prestación del servicio, designado al personal correspondiente.
 
 V.- Aprobar las tarifas para el cobro de los derechos de agua y saneamiento, a propuesta de la Junta Municipal respectiva;
 
@@ -11698,3 +11716,7 @@ ESTA LEY ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO
 ###### ARTICULO SEGUNDO.
 
 SE DEROGAN LA DÉCIMA SEGUNDA PARTE, LIBRO UNICO, DE LAS RESPONSABILIDADES Y SANCIONES; TÍTULO UNICO, "DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS PÚBLICOS", ARTÍCULOS DEL 1605 AL 1630 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO, ASÍ COMO TODAS AQUELLAS DISPOSICIONES QUE SE OPONGAN A ESTA LEY.
+
+P.O. 1 DE JUNIO DE 1991.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
