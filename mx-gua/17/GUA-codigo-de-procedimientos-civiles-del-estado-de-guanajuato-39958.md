@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1969-06-08"
+last_updated: "1971-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 1969.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 1971.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -2207,7 +2207,7 @@ Suspensión.
 
 ###### Art. 375.
 
-El proceso se suspende cuando el tribunal del juicio no está en posibilidad de funcionar, por un caso de fuerza mayor, y cuando alguna de las partas (sic) o su representante procesal, en su caso, sin culpa alguna suya, se encuentra en la absoluta imposibilidad de atender al cuidado de sus intereses en el litigio.
+El proceso se suspende cuando el tribunal del juicio no esta en posibilidad de funcionar, por un caso de fuerza mayor, y cuando alguna de las partas (sic) o su representante procesal, en su caso, sin culpa alguna suya, se encuentra en la absoluta imposibilidad de atender al cuidado de sus intereses en el litigio.
 
 ###### Art. 376.
 
@@ -4151,6 +4151,10 @@ III.- Si la sentencia de primer instancia fuere declaratoria de estado, proveer�
 
 IV.- Luego que cause ejecutoria la sentencia de interdicción se proveerá a discernir el cargo al tutor propietario, en los términos de ley.
 
+## TITULO UNICO.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 1971)</small>
+
 ### CAPITULO II.
 
 Nombramiento de tutores y curadores y discernimiento de estos cargos.
@@ -4265,6 +4269,8 @@ Cuando, del examen de la cuenta, resulten motivos graves para sospechar dolo, fr
 
 Informaciones ad perpétuam.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1971)</small>
+
 ###### Art. 720.
 
 Será necesaria licencia judicial para la venta de los bienes que pertenezcan exclusivamente a menores o incapacitados y correspondan a las clases siguientes: 1a. Bienes raíces; 2a. Derechos reales; 3a. Alhajas y muebles preciosos, y 4a. Acciones de compañías industriales o mercantiles, cuyo valor exceda de cinco mil pesos.
@@ -4339,19 +4345,27 @@ Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en 
 
 Disposiciones relativas a otros actos de jurisdicción voluntaria.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1971)</small>
+
 ###### Art. 731.
 
-Las informaciones ad perpétuam podrán decretarse cuando no tenga interés más que el promovente y se trate:
+Las informaciones ad perpétuam podrán recibirse cuando no tenga interés más que el promovente y se trate:
 
 I.- De justificar algún hecho o acreditar un derecho;
 
-II.- Cuando se pretenda justificar la posesión como medio para acreditar el dominio pleno de un inmueble, y
+II.- De justificar la posesión como medio para acreditar el dominio pleno de un inmueble.
 
-III.- Cuando se trate de comprobar la posesión de un derecho real.
+Al darse entrada a la promoción el Juez ordenará: que se dé publicidad a la solicitud del promovente por medio de dos avisos que se publicarán en el Periódico Oficial del Gobierno del Estado, de ocho en ocho días, y en los lugares públicos; y que se pida a cargo del promovente, un certificado del Registro Público, del último registro del inmueble de que se trate.
 
-En los casos de las dos primeras fracciones, la información se recibirá con citación del Ministerio Público, y, en el de la tercera, con la del propietario o de los demás partícipes del derecho real.
+La información se recibirá con citación del Ministerio Público y de los colindantes; los testigos deben ser por lo menos tres de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiera.
 
-El Ministerio Público y las personas con cuya citación se reciba la información pueden tachar a los testigos por circunstancias que afecten su credibilidad.
+Estimada la prueba, en su caso, el Juez hará la declaratoria que se menciona en el artículo 1252 del Código Civil y ordenará la protocolización.
+
+III.- De comprobar la posesión de un derecho real.
+
+En este supuesto, la información se recibirá con citación del propietario o de los demás partícipes del derecho real; y en el caso de la fracción I, con la del Ministerio Público.
+
+El Ministerio Público y las personas con cuya citación se reciba la información, pueden tachar a los testigos por circunstancias que afecten su credibilidad.
 
 ###### Art. 732.
 
@@ -4361,13 +4375,25 @@ El juez está obligado a ampliar el examen de los testigos con las preguntas que
 
 Si los testigos no fueren conocidos del juez o del secretario, la parte deberá presentar dos que abonen a cada uno de los presentados.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1971)</small>
+
 ###### Art. 734.
 
-Las informaciones se protocolizarán en el protocolo del notario que designe el promovente.
+En el caso de la fracción II del artículo 731 si el promovente demuestra que ha tenido la posesión del inmueble, con los requisitos que exige el Código Civil para adquirirlo por prescripción, el Juez dictará resolución en tal sentido; pero dicha resolución no surtirá efectos contra persona ajena al procedimiento, ni la información testimonial rendida en jurisdicción voluntaria podrá ser estimada como tal en juicio contradictorio.
+
+En los casos de las fracciones I y III del precepto legal mencionado, el Juez dictará resolución declarando acreditado o no el hecho o el derecho materia de la información, o por comprobada o no la posesión de un derecho real con las salvedades apuntadas en el párrafo anterior.
+
+Las informaciones en que haya recaído resolución favorable al promovente, se mandarán protocolizar en el protocolo que aquél designe.
 
 ###### Art. 735.
 
 En ningún caso se admitirán, en jurisdicción voluntaria, informaciones de testigos sobre hechos que fueren materia de un juicio comenzado.
+
+### CAPITULO I.
+
+Disposiciones Generales.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
 
 ###### Art. 736.
 
@@ -4423,19 +4449,33 @@ Los puntos respecto a los cuales hubiere oposición, no quedarán deslindados ni
 
 Los gastos generales del apeo se harán por el que lo promueva. Los que importen la intervención de los peritos que designen y de los testigos que presenten los colindantes, serán pagados por el que nombre a los unos o presente a los otros.
 
+### CAPITULO II.
+
+De la rectificación de las actas del estado civil.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+
+###### Art. 745.
+
+Se tramitarán en la vía sumaria:
+
+a).- Los juicios de rectificación de las actas del estado civil;
+
+b).- La consignación ordenada por el artículo 1592 del Código Civil; y
+
+c).- La cancelación de inscripciones de las hipotecas en el caso previsto por el artículo 2533 del Código Civil.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+
 ###### Art. 742.
 
-Se tramitará en la forma de incidente, que habrá de seguirse con el Ministerio Público, en todo caso:
+Se tramitará en la forma de incidente, que en todo caso habrá de seguirse con el Ministerio Público:
 
-I.- La habilitación para comparecer en juicio que solicite el menor de más de dieciocho años, cuando compruebe que los padres o ascendientes que ejerzan la patria potestad, están ausentes, se ignore su paradero o se nieguen a representarlo. Sólo se le concederá autorización cuando fuere demandado o se le siguiere perjuicio grave de no promover juicio, y comprobare buena conducta y aptitud para el manejo de sus negocios;
+I.- La autorización judicial que soliciten los emancipados por razón del matrimonio para enajenar o grabar bienes raíces o para comparecer en juicio; en este último caso se les nombrará un tutor especial;
 
-II.- La solicitud de emancipación o habilitación de edad que hagan los mayores de dieciocho años sujetos a patria potestad o tutela, si demostraren buena conducta y aptitud para el manejo de sus intereses. En este caso se oirá también a los padres y tutores;
+II.- El permiso para contratar con su marido o para obligarse solidariamente con él o para ser su fiadora, que solicite la mujer casada;
 
-III.- La autorización judicial que soliciten los emancipados o habilitados de edad para enajenar o gravar bienes raíces o para comparecer en juicio; en este último caso se les nombrará un tutor especial;
-
-IV.- El permiso que para contratar con su marido o para obligarse solidariamente con él o ser su fiadora, en los casos permitidos por la ley solicite la mujer casada;
-
-V.- La calificación de la excusa de patria potestad, en los casos a que se refiere el Código Civil.
+III.- La calificación de la excusa de la patria potestad, en los casos a que se refiere el Código Civil.
 
 ###### Art. 743.
 
@@ -4448,6 +4488,128 @@ En ambos casos no son necesarias formalidades de ninguna clase, asentándose sol
 ###### Art. 744.
 
 Los actos de jurisdicción voluntaria que no estén especialmente reglamentados, se sujetarán a las disposiciones del Capítulo I de este Título.
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 1971)</small>
+
+# LIBRO QUINTO.
+
+Del Procedimiento Sumario.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 1971)</small>
+
+### CAPITULO III.
+
+De la consignación.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+
+###### Art. 746.
+
+En los juicios sumarios regirán las normas aplicables al procedimiento ordinario, con las modificaciones que se contienen en este Título.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 1971)</small>
+
+### CAPITULO IV.
+
+De la cancelación de las inscripciones hipotecarias.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+
+###### Art. 747.
+
+En el juicio de rectificación de actas a que se refiere el artículo 140 del Código Civil, serán oídos el Ministerio Público y el Oficial del Registro Civil del lugar en que se levantó el acta que se quiere rectificar, a quienes se correrá traslado de la demanda por el término de tres días para que expresen su opinión.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+
+###### Art. 748.
+
+Si transcurrido el término señalado en el artículo anterior no expresan su opinión el Ministerio Público ni el Oficial del Registro Civil, se les tendrá por conformes con la rectificación solicitada; pero ello no obliga al juez a decretarla si a su juicio no hay prueba suficiente para ello.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+
+###### Art. 749.
+
+Quien promueva juicio de rectificación de un acta del estado civil, deberá manifestar los nombres y domicilios de las personas que puedan tener interés en la rectificación, si fueren conocidos; y el Juez las citará para que expresen su conformidad o para que se opongan a la misma. Se publicará la demanda, fijándola en lugar visible del Juzgado, durante cinco días, y se admitirá a contradecirla a quienquiera que se presente.
+
+Transcurrido este plazo se abrirá el juicio a prueba durante 10 días, y dentro de los 3 siguientes se celebrará la audiencia de alegatos, debiendo dictarse la sentencia en un término de 5 días.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+
+###### Art. 750.
+
+La sentencia que cause ejecutoria hará plena fe contra toda persona ajena al procedimiento, aunque no haya litigado; pero a quien probare que no fue legalmente citado al juicio a pesar de encontrarse en el caso del artículo 749, se le admitirá probar contra ella.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+
+###### Art. 751.
+
+Es Juez competente para decidir sobre la rectificación, el del partido judicial a que corresponda el lugar en que se extendió el acta respectiva.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 1971)</small>
+
+###### Art. 752.
+
+Para hacer la consignación a que se refiere el artículo 1592 del Código Civil, si el acreedor fuere cierto y conocido, se le citará para día, hora y lugar determinados, a fin de que reciba o vea depositar la cosa debida.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+
+###### Art. 753.
+
+Si el acreedor fuere desconocido, se le citará por medio de avisos que se publicarán tres veces, de cinco en cinco días, en un periódico del lugar de la consignación si lo hubiere, para que se presente dentro de los diez días siguientes a la ultima publicación, si no hay periódico, se publicará 3 veces consecutivas en el Oficial del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+
+###### Art. 754.
+
+Si el acreedor estuviere ausente, o fuere incapaz, será citado su representante legítimo, si lo hubiere; en caso contrario se promoverá su designación.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+
+###### Art. 755.
+
+Si el acreedor no comparece en el día, hora y lugar designados, o no envía mandatario con autorización bastante para que reciba la cosa, o si compareciendo rehusan recibirla, el Juez extenderá certificación en que consten la no comparecencia del acreedor, la falta del mandatario o el acto de haberse rehusado uno u otro a recibir la cosa.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+
+###### Art. 756.
+
+Con la certificación mencionada en el artículo anterior, podrá pedir el deudor el depósito judicial, y el Juez mandará hacerlo, oyendo sumariamente al acreedor en una audiencia que se celebrará dentro de los 5 días siguientes, debiendo dictarse resolución dentro de un término igual, aprobando o no la consignación.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+
+###### Art. 757.
+
+Si el acreedor fuere conocido, pero dudosos sus derechos, podrá el deudor, conforme a los dos artículos anteriores, depositar la cosa debida con citación del interesado, a fin de que justifique sus derechos por los medios legales.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+
+###### Art. 758.
+
+El depósito pone la cosa a riesgo del acreedor.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+
+###### Art. 759.
+
+La resolución aprobando o no la consignación será apelable en ambos efectos.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+
+###### Art. 760.
+
+Mientras el acreedor no acepte la consignación, o no se pronuncie resolución sobre ella, podrá el deudor retirar del depósito la cosa; pero en este caso la obligación conserva todo su vigor.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+
+###### Art. 761.
+
+Para que el deudor pueda retirar la cosa del depósito después de haberse dictado resolución aprobando la consignación, se necesitará el consentimiento del acreedor, pero entonces perderá éste cualquier derecho de preferencia que tenga sobre ella, y quedarán los codeudores y fiadores libres de la obligación si la cosa no ha sido retirada con su consentimiento.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE FEBRERO DE 1971)</small>
+
+###### Art. 762.
+
+Los trámites para la cancelación total de las inscripciones de hipotecas constituidas con objeto de garantizar títulos al portador, considerada por el artículo 2533 del Código Civil, se ajustarán, en lo conducente, a lo dispuesto en el Capítulo III de este Título.
 
 ## TRANSITORIOS.
 
@@ -4514,3 +4676,9 @@ La modificación de competencia que esta reformas (sic) establece al artículo 2
 P.O. 8 DE JUNIO DE 1969.
 
 UNICO.- Este decreto surtirá efectos a los tres días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE FEBRERO DE 1971.
+
+###### ARTICULO UNICO.
+
+Este decreto surtirá efectos tres días después del siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
