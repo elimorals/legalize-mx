@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-agua-potable-y-alcantarillado-para-el-estado-de-9039"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-13"
-last_updated: "1993-02-13"
+last_updated: "2004-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 13 de febrero de 1993.
 
@@ -59,7 +59,9 @@ I.- Organismos Operadores Municipales;
 
 II.- Organismos Operadores Intermunicipales;
 
-III.- Instituto Estatal del Agua, y organismos operadores Estatales que se constituyan por convenios con las municipalidades;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+III.- La Comisión Estatal del Agua y organismos operadores estatales que se constituyan por convenios con las municipalidades, y
 
 IV.- Por particulares, por virtud de concesión.
 
@@ -131,7 +133,9 @@ V.- Vigilar que la prestación y el funcionamiento de los servicios se realicen 
 
 VI.- Las demás que esta u otras Leyes le confieran.
 
-Las atribuciones anteriores las ejercitará el Gobierno del Estado a través del Instituto Estatal del Agua.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+Las atribuciones anteriores las ejercitará el Gobierno del Estado a través de la Comisión Estatal del Agua.
 
 ###### ARTÍCULO 8o.
 
@@ -223,7 +227,9 @@ Estos comités de agua potable y alcantarillado formarán parte de la administra
 
 II.- Constituir personas morales a las que se pudiera otorgar en concesión n o (sic) con los que se pudieran celebrar contratos para construir y operar sistemas, prestar servicios de agua potable y alcantarillado o administrar, operar, conservar o mantener la infraestructura hidráulica respectiva.
 
-III.- Podrán operar sistemas de abastecimiento de agua potable y desalojo y tratamiento de aguas residuales, en forma independiente, aquellos desarrollos industriales, turísticos y de otras actividades productivas, siempre y cuando cuenten con la autorización del Instituto Estatal del Agua y se sujeten en la operación a las normas establecidas en esta ley.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+III.- Podrán operar sistemas de abastecimiento de agua potable y desalojo y tratamiento de aguas residuales, en forma independiente, aquellos desarrollos industriales, turísticos y de otras actividades productivas, siempre y cuando cuenten con la autorización de la Comisión Estatal del Agua y se sujeten en la operación a las normas establecidas en esta ley.
 
 ## TÍTULO SEGUNDO. ADMINISTRACIÓN DESCENTRALIZADA DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO
 
@@ -259,7 +265,9 @@ e).- Objeto.
 
 f).- Régimen laboral de los trabajadores del organismo, el cual será congruente con su naturaleza, en los términos del artículo 116 constitucional.
 
-3.- Una vez aprobado el acuerdo constitutivo, se enviará al Gobernador del Estado por conducto del Instituto Estatal del Agua.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+3.- Una vez aprobado el acuerdo constitutivo, se enviará al Gobernador del Estado por conducto de la Comisión Estatal del Agua, y
 
 4.- El Gobernador del Estado, con apoyo en las facultades que le confiere la Constitución Política del Estado y la Ley Orgánica del Poder Ejecutivo emitirá decreto creando el organismo operador paramunicipal de que se trate.
 
@@ -267,9 +275,11 @@ f).- Régimen laboral de los trabajadores del organismo, el cual será congruent
 
 Los decretos de creación de organismos operadores municipales serán publicados en el periódico oficial del estado.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 21.
 
-El Instituto Estatal del Agua cuidará que en los decretos de creación existan normas que establezcan la pertenencia al Sistema de Agua Potable y Alcantarillado de los organismos operadores, así como las particularidades territoriales, socioeconómicas, administrativas, técnicas y financieras específicas de los organismos.
+La Comisión Estatal del Agua cuidará que en los decretos de creación existan normas que establezcan la pertenencia al Sistema de Agua Potable y Alcantarillado de los organismos operadores, así como las particularidades territoriales, socioeconómicas, administrativas, técnicas y financieras específicas de los organismos.
 
 ###### ARTÍCULO 22.
 
@@ -281,7 +291,9 @@ Los organismos operadores municipales, se podrán convertir en organismos operad
 
 En el caso de que la prestación de los servicios públicos de agua potable y alcantarillado, incluyendo el saneamiento, en un municipio, así como la construcción hidráulica respectiva, se concesione parcial o totalmente o se contrate con un tercero su prestación o bien su realización a nombre y por cuenta del organismo operador municipal, este adecuará su estructura y operación para llevar a cabo la normatividad, la asistencia, la supervisión, el control, la evaluación y la intervención que en apoyo al municipio se requiera, a fin de que la construcción, administración, operación, mantenimiento y desarrollo del sistema de agua potable y alcantarillado, incluyendo el saneamiento, se realice adecuadamente de conformidad con las disposiciones legales aplicables, asimismo seguirá ejerciendo los actos de autoridad a que se refiere la presente ley, todas estas condiciones y requisitos deberán ser contenidas en el título de concesión u operación respectiva.
 
-El Ayuntamiento emitirá el acuerdo correspondiente en el que se apruebe, la autorización o concesión respectiva previo convenio con el Instituto Estatal del Agua.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+El Ayuntamiento emitirá el acuerdo correspondiente en el que se apruebe, la autorización o concesión respectiva previo convenio con la Comisión Estatal del Agua.
 
 ###### ARTÍCULO 24.
 
@@ -401,7 +413,9 @@ El Secretario será nombrado y removido libremente por el Presidente.
 
 Los Vocales serán:
 
-Primer Vocal será un representante del Instituto Estatal del Agua.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+Primer Vocal será un representante de la Comisión Estatal del Agua.
 
 Segundo Vocal será un representante de la Comisión Nacional del Agua.
 
@@ -497,7 +511,9 @@ IV.- Concursar y contratar conforme a las leyes y reglamentos de la materia, la 
 
 V.- Dirigir técnica y administrativamente las actividades del organismo operador;
 
-VI.- Realizar las acciones necesarias para que el organismo se ajuste al "Sistema Estatal de Agua Potable y Alcantarillado" en los términos de la presente ley y a la coordinación y normatividad que efectúe el Instituto Estatal del Agua, en los términos de (sic) mismo;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+VI.- Realizar las acciones necesarias para que el organismo se ajuste al Sistema Estatal de Agua Potable y Alcantarillado en los términos de la presente ley y a la coordinación y normatividad que efectúe la Comisión Estatal del Agua, en los términos del mismo;
 
 VII.- Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, la administración pública centralizada o paraestatal y las personas de los sectores social y privado, para el trámite y atención de asuntos de interés común;
 
@@ -553,7 +569,9 @@ Los Municipios del Estado, previo convenio de sus Ayuntamientos se podrán coord
 
 I.- A partir de la publicación del citado convenio en el Periódico Oficial del Estado de Oaxaca, el organismo operador municipal respectivo se transformará en organismo operador intermunicipal y los demás organismos operadores municipales que quedarán comprendidos en dicho convenio se extinguirán.
 
-II.- Previamente al convenio, entre los Ayuntamientos, el organismo operador municipal respectivo deberá contar con el convenio celebrado con el Instituto Estatal del Agua de que con el carácter de intermunicipal se incorporará al "Sistema de Agua Potable y Alcantarillado del Estado" y que el servicio descentralizado se pueda prestar atendiendo a las condiciones territoriales, socioeconómicas, capacidad administrativa, técnica y financiera existentes en el caso concreto.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+II.- Previamente al convenio, entre los Ayuntamientos, el organismo operador municipal respectivo deberá contar con el convenio celebrado con la Comisión Estatal del Agua de que con el carácter de intermunicipal se incorporará al Sistema de Agua Potable y Alcantarillado del Estado y que el servicio descentralizado se pueda prestar atendiendo a las condiciones territoriales, socioeconómicas, capacidad administrativa, técnica y financiera existentes en el caso concreto, y
 
 III.- El organismo operador intermunicipal, por disposición de ley, se subrogará en las responsabilidades y asumirá los derechos y obligaciones de los organismos operadores que se extinguen.
 
@@ -567,15 +585,21 @@ II.- Que su objeto sea el expresado en el artículo anterior;
 
 III.- Que la organización y operación del organismo público que se constituya, se sujete a lo establecido en la presente Ley; y
 
-IV.- Que se haya celebrado el convenio o se obtenga el acuerdo del Instituto Estatal del Agua, en los términos de la presente ley.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-En los convenios señalados podrán participar dos o más Municipios y en su celebración, se incluirá la participación del Instituto Estatal del Agua, en los términos de Ley.
+IV.- Que se haya celebrado el convenio o se obtenga el acuerdo de la Comisión Estatal del Agua, en los términos de la presente ley.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+En los convenios señalados podrán participar dos o más Municipios y en su celebración, se incluirá la participación de la Comisión Estatal del Agua, en los términos de ley.
 
 ###### ARTÍCULO 42.
 
 Los convenios mencionados en este capítulo se sujetarán a las siguientes bases:
 
-I.- Su vigencia será indefinida y sólo podrán rescindirse o darse por terminados por causas extraordinarias o imprevisibles, así como por casos fortuitos o de causa mayor, previa la celebración del convenio respectivo con la intervención del Instituto Estatal del Agua.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+I.- Su vigencia será indefinida y sólo podrán rescindirse o darse por terminados por causas extraordinarias o imprevisibles, así como por casos fortuitos o de causa mayor, previa la celebración del convenio respectivo con la intervención de la Comisión Estatal del Agua;
 
 II.- Se perfeccionará y producirán todos sus efectos, hasta la entrada en vigor del convenio a que se refiere el artículo 40; y
 
@@ -597,23 +621,35 @@ I.- El Presidente y los Vicepresidentes tendrán sus respectivos suplentes.
 
 II.- El Consejo Consultivo, ampliará su composición, con el objeto de que estén representadas las principales organizaciones de usuarios de los municipios respectivos.
 
-III.- El Comisario será designado por el Instituto Estatal del Agua.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+III.- El Comisario será designado por la Comisión Estatal del Agua.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 46.
 
-Lo dispuesto en este Capítulo será independiente de que el Instituto Estatal del Agua resuelva lo conducente cuando por causa de interés público o para la más eficiente prestación del servicio se requiera que se cree un organismo intermunicipal, estableciendo su estructura y operación, en los términos de la presente Ley.
+Lo dispuesto en este capítulo será independiente de que la Comisión Estatal del Agua resuelva lo conducente cuando por causa de interés público o para la más eficiente prestación del servicio se requiera que se cree un organismo intermunicipal, estableciendo su estructura y operación, en los términos de la presente ley.
 
-### CAPÍTULO III. Instituto Estatal del Agua
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO III. Comisión Estatal del Agua
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 47.
 
-Se crea el Instituto Estatal del Agua como órgano con ámbito competencial en toda la entidad federativa y con atribuciones en materia de prestación de servicios de agua potable y alcantarillado para el saneamiento de los asentamientos humanos del Estado, así como entidad normativa, de organización y regulación de los organismos operadores de los sistemas propios de tales servicios.
+Se crea la Comisión Estatal del Agua como órgano con ámbito competencial en toda la entidad federativa y con atribuciones en materia de prestación de servicios de agua potable y alcantarillado para el saneamiento de los asentamientos humanos del Estado, así como entidad normativa, de organización y regulación de los organismos operadores de los sistemas propios de tales servicios.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 48.
 
-El Instituto Estatal del Agua, es un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propios, domiciliado en la Capital Estatal.
+La Comisión Estatal del Agua es un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propios, domiciliado en la capital estatal.
 
-El objeto del Instituto es:
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+El objeto de la Comisión es:
 
 I.- Intervenir en la planeación, programación y presupuestación del sector hidráulico estatal;
 
@@ -625,9 +661,11 @@ IV.- Asesorar, auxiliar y prestar servicios de apoyo y asistencia técnica o adm
 
 V.- Efectuar, previo acuerdo con el Ayuntamiento Municipal, con carácter transitorio, los servicios de agua potable y alcantarillado, incluyendo saneamiento, en aquellos municipios en donde no existan organismos operadores que los presten, o el municipio no tenga todavía la capacidad para hacerse cargo de ellos, realizando en este caso funciones de autoridad administrativa, mediante el ejercicio de las atribuciones que le confiere la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 49.
 
-El Instituto Estatal del Agua, operará desconcentradamente en las regiones geográficas dentro del territorio de la entidad, para lo cual se atenderá a los siguientes principios y atribuciones, de los órganos desconcentrados que al efecto se creen por el órgano de gobierno:
+La Comisión Estatal del Agua operará desconcentradamente en las regiones geográficas dentro del territorio de la entidad, para lo cual se atenderá a los siguientes principios y atribuciones, de los órganos desconcentrados que al efecto se creen por el órgano de gobierno:
 
 I.- Participar y en su caso elaborar los programas que derivados del Plan Estatal de Desarrollo se relacionen con el objeto del Organismo y supervisar el cumplimiento de las prioridades y su ejecución;
 
@@ -687,9 +725,11 @@ XXIV.- Cuidar que todos los ingresos que recaude, y los que obtenga y reciba, se
 
 XXV.- Las demás que le señale esta ley, y la reglamentación respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 50.
 
-El patrimonio del Instituto Estatal del Agua, estará constituido por:
+El patrimonio de la Comisión Estatal del Agua, estará constituido por:
 
 I.- Las aportaciones federales, estatales y municipales que en su caso se realicen, así como las aportaciones que los organismos operadores municipales o intermunicipales lleven a cabo;
 
@@ -703,17 +743,21 @@ V.- Los remanentes, frutos, utilidades, productos, intereses y ventas que se obt
 
 VI.- Los demás bienes y derechos que formen parte de su patrimonio por cualquier título legal.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 51.
 
-Los bienes del Instituto Estatal del Agua, afectos directamente en la prestación del servicio de agua potable y alcantarillado, serán inembargables e imprescriptibles.
+Los bienes de la Comisión Estatal del Agua, afectos directamente en la prestación del servicio de agua potable y alcantarillado, serán inembargables e imprescriptibles.
 
 ###### ARTÍCULO 52.
 
 Los bienes muebles del organismo destinados directamente a la prestación de los servicios se considerarán bienes del dominio público del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 53.
 
-El Instituto Estatal del Agua contará con:
+La Comisión Estatal del Agua contará con:
 
 I.- Un Consejo de Administración;
 
@@ -733,9 +777,11 @@ Los vocales del Consejo de Administración, cuyo número será establecido por a
 
 Se podrán invitar a formar parte del Consejo de Administración a representantes de las Dependencias Federales, Estatales o Municipales, cuando se trate de algún asunto que por su competencia o jurisdicción, deban de participar, así como a representantes de los usuarios que formen parte del Consejo Consultivo; con voz pero sin voto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 56.
 
-El Consejo de Administración, para el cumplimiento de los objetivos del Instituto, tendrá las más amplias facultades de dominio, administración y representación que requieren de poder o cláusula especial conforme a la ley, así como las siguientes atribuciones:
+El Consejo de Administración, para el cumplimiento de los objetivos de la Comisión, tendrá las más amplias facultades de dominio, administración y representación que requieren de poder o cláusula especial conforme a la ley, así como las siguientes atribuciones:
 
 I.- Establecer en el ámbito de su competencia, los lineamientos de política en la materia, así como determinar las normas y criterios aplicables, conforme a los cuales deberán prestarse los servicios de Agua potable, alcantarillado y tratamiento de aguas residuales y manejo de lodos, y realizarse las obras que para ese efecto se requieran;
 
@@ -743,65 +789,99 @@ II.- Resolver sobre los asuntos que en materia de Agua potable, Alcantarillado, 
 
 III.- Fijar los precios por las ventas de volúmenes de agua potable y por alcantarillado, incluyendo saneamiento en las localidades que administre los servicios el organismo operador de carácter estatal y ser entidad normativa de esos precios en aquellos comités municipales con los cuales se haya celebrado convenios. Los acuerdos tarifarios serán publicados en el Periódico Oficial. Aprobar, en su caso, la propuesta de reestructuración tarifaria que periódicamente le haga llegar el director General;
 
-IV.- Autorizar el patrimonio del Instituto y cuidar de su adecuado manejo;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-V.- Conocer y en su caso autorizar el programa presupuestal anual de ingresos y egresos del Instituto, conforme a la propuesta formulada por el Director General, así como de los organismos operadores que formen parte de la administración pública paraestatal;
+IV.- Autorizar el patrimonio de la Comisión y cuidar de su adecuado manejo;
 
-VI.- Autorizar la contratación de los créditos que sean necesarios para la consecución de los fines del Instituto y sus Organismos operadores, y supervisar su aplicación;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-VII.- Aprobar los proyectos de inversión del Instituto y sus Organismos operadores;
+V.- Conocer y en su caso autorizar el programa presupuestal anual de ingresos y egresos de la Comisión, conforme a la propuesta formulada por el Director General, así como de los organismos operadores que formen parte de la Administración Pública Paraestatal;
 
-VIII.- Examinar y aprobar los estados financieros y los informes que debe presentar el Director General del Instituto, previo conocimiento del informe del comisario, y ordenar su publicación;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+VI.- Autorizar la contratación de los créditos que sean necesarios para la consecución de los fines de la Comisión y sus organismos operadores, y supervisar su aplicación;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+VII.- Aprobar los proyectos de inversión de la Comisión y sus organismos operadores;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+VIII.- Examinar y aprobar los estados financieros y los informes que debe presentar el Director General de la Comisión, previo conocimiento del informe del Comisario, y ordenar su publicación;
 
 IX.- Dictaminar sobre la conveniencia de extender los Servicios a otros municipios, y autorizar los convenios y contratos respectivos para el cambio de modalidad de los organismos a que se refiere esta ley;
 
-X.- Designar al Director General del Instituto;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-XI.- Otorgar al Director General del Instituto poder general para actos de administración y de dominio, así como para pleitos y cobranzas, con todas las facultades generales especiales que requieran poder o cláusula especial conforme a la ley, así como, en su caso, efectuar los trámites de ley para la desincorporación de los bienes del dominio público que se requiera enajenar;
+X.- Designar al Director General de la Comisión;
 
-XII.- Aprobar y expedir el reglamento interior del Instituto;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+XI.- Otorgar al Director General de la Comisión poder general para actos de administración y de dominio, así como para pleitos y cobranzas, con todas las facultades generales especiales que requieran poder o cláusula especial conforme a la ley, así como, en su caso, efectuar los trámites de ley para la desincorporación de los bienes del dominio público que se requiera enajenar;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+XII.- Aprobar y expedir el reglamento interior de la Comisión;
 
 XIII.- Las demás necesarias para cumplir su objeto, en los términos de la presente ley;
 
 XIV.- Expedir su reglamento interior para regular su funcionamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 57.
 
-El Director General del Instituto Estatal del Agua, tendrá las siguientes atribuciones:
+El Director General de la Comisión Estatal del Agua, tendrá las siguientes atribuciones:
 
-I.- Representar legalmente al Instituto, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-II.- Dirigir las actividades técnicas, administrativas y financieras del Instituto.
+I.- Representar legalmente a la Comisión, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+II.- Dirigir las actividades técnicas, administrativas y financieras de la Comisión;
 
 III.- Ejecutar los acuerdos del Consejo de Administración.
 
 IV.- Aprobar los concursos y contratación para la ejecución de las obras autorizadas, conforme a las leyes de la materia así como realizar las actividades que se requieran para lograr que los Organismos paraestatales presten los servicios de manera regulara (sic) continua y uniforme a la comunidad;
 
-V.- Realizar las acciones necesarias para que los Organismos se ajusten al "Sistema Estatal de Agua Potable y Alcantarillado" en los términos de la presente ley y a la coordinación y normatividad que efectúe el Instituto Estatal del Agua;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+V.- Realizar las acciones necesarias para que los organismos se ajusten al Sistema Estatal de Agua Potable y Alcantarillado en los términos de la presente ley y a la coordinación y normatividad que efectúe la Comisión Estatal del Agua;
 
 VI.- Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, la Administración Pública Centralizada o Paraestatal y, las personas de los sectores social y privado, para el trámite y atención de asuntos de interés común;
 
-VII.- Dar cumplimiento a los acuerdos tarifarios emitidos por el consejo de Administración y someter a su consideración las propuestas de las tarifas de los servicios a que se refiere esta ley de acuerdo con el estado patrimonial y financiero del Instituto y de los organismos operadores;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+VII.- Dar cumplimiento a los acuerdos tarifarios emitidos por el Consejo de Administración y someter a su consideración las propuestas de las tarifas de los servicios a que se refiere esta ley de acuerdo con el estado patrimonial y financiero de la Comisión y de los organismos operadores;
 
 VIII.- Gestionar y obtener en términos de la ley respectiva, y previa autorización del Consejo de Administración, el financiamiento para obras y amortización de pasivos, así como suscribir créditos o títulos de crédito, contratos u obligaciones ante instituciones públicas y privadas;
 
 IX.- Autorizar las erogaciones correspondientes del presupuesto y someter a la aprobación del Consejo de Administración las erogaciones extraordinarias;
 
-X.- Rendir el informe anual de actividades al Consejo de Administración, así como los informes sobre el cumplimiento de los acuerdos del Instituto, resultado de los estados financieros; avance de los programas de operación; cumplimiento de los programas de obras y erogaciones de las mismas, presentación anual del programa de labores y los proyectos de ingresos y presupuestos de egresos;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+X.- Rendir el informe anual de actividades al Consejo de Administración, así como los informes sobre el cumplimiento de los acuerdos de la Comisión, resultado de los estados financieros; avance de los programas de operación; cumplimiento de los programas de obras y erogaciones de las mismas, presentación anual del programa de labores y los proyectos de ingresos y presupuestos de egresos;
 
 XI.- Convocar a sesiones ordinarias a los integrantes del Consejo de Administración, cada trimestre, y a sesiones extraordinarias, cuando la naturaleza y exigencias de los asuntos lo requieran;
 
-XII.- Nombrar y remover libremente al personal administrativo y técnico del Instituto, con fundamento en las leyes del trabajo aplicables, señalando sus adscripciones;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-XIII.- Someter a la aprobación del Consejo de Administración, el reglamento interior del Instituto;
+XII.- Nombrar y remover libremente al personal administrativo y técnico de la Comisión, con fundamento en las leyes del trabajo aplicables, señalando sus adscripciones;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+XIII.- Someter a la aprobación del Consejo de Administración, el reglamento interior de la Comisión;
 
 XIV.- Tener el carácter de Presidente de las Juntas de Gobierno de los organismos operadores que formen parte de la administración pública paraestatal;
 
 XV.- Las demás que le señale el Consejo de Administración, esta ley y su reglamento correspondiente.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 58.
 
-Los empleados de base y de confianza al servicio del Instituto Estatal del Agua se regirán por la ley del servicio civil para los empleados del gobierno del estado de Oaxaca.
+Los empleados de base y de confianza al servicio de la Comisión Estatal del Agua se regirán por el apartado "A" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTÍCULO 59.
 
@@ -813,7 +893,7 @@ Las relaciones laborales de los organismos operadores, que presten los servicios
 
 ###### ARTÍCULO 60.
 
-Los sectores privado y social podrán participar en:
+Los sectores privado y social podrán participar:
 
 I.- La prestación de servicios públicos de agua potable, alcantarillado, incluyendo saneamiento;
 
@@ -825,11 +905,15 @@ IV.- La colección, desalojo, tratamiento de aguas residuales y el manejo de lod
 
 V.- El servicio de conducción, potabilización, suministro, distribución o transporte de agua que se preste al público; y
 
-VI.- Las demás que se convengan con los Organismos Operadores, o el Instituto Estatal del Agua, o que se concesionen en los términos de esta Ley.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+VI.- Las demás que se convengan con los organismos operadores, o la Comisión Estatal del Agua, o que se concesionen en los términos de esta ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 61.
 
-Para la participación del sector privado y del sector social, en los términos del artículo anterior, se podrá celebrar por los Organismos Operadores, o el Instituto Estatal del Agua, en el ámbito de su competencia:
+Para la participación del sector privado y del sector social, en los términos del artículo anterior, se podrá celebrar por los organismos operadores, o la Comisión Estatal del Agua, en el ámbito de su competencia:
 
 I.- La concesión total o parcial del uso y operación de los bienes del dominio público que constituyen la infraestructura hidráulica, necesarios para prestar los servicios;
 
@@ -861,7 +945,9 @@ V.- La concesión o autorización a particulares para prestar el servicio al pú
 
 Los Ayuntamientos de los Municipios del Estado podrán otorgar y revocar las concesiones y autorizaciones a que se refiere el artículo anterior. Los ayuntamientos podrán ejercitar dichas facultades a través del organismo operador correspondiente, previo al acuerdo del cabildo respectivo y acorde con el Sistema Estatal de Planeación y conforme a las Leyes reglamentarias.
 
-I.- Asimismo el Instituto Estatal del Agua, en caso de crear un organismo operador intermunicipal en los términos de la presente ley, podrá establecer los términos para que a través del mismo se puedan concesionar los servicios que administre y opere, oyendo la opinión de los Ayuntamientos;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+I.- Asimismo la Comisión Estatal del Agua, en caso de crear un organismo operador intermunicipal en los términos de la presente ley, podrá establecer los términos para que a través del mismo se puedan concesionar los servicios que administre y opere, oyendo la opinión de los Ayuntamientos;
 
 II.- Independientemente de quien otorgue o se reserve la facultad de revocar las concesiones y autorizaciones, en todo caso, corresponde a los organismos operadores respectivos la normatividad, la asistencia técnica, el control, la inspección, la supervisión, la evaluación de los servicios, obras y bienes concesionados, así como las demás facultades inherentes y las que se acuerden por el ayuntamiento;
 
@@ -1027,9 +1113,11 @@ Cuando el organismo operador descubra que las personas utilizan los servicios de
 
 ### CAPÍTULO II. Corresponsabilidad de los Usuarios
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 95.
 
-Todo usuario está obligado al pago de las tarifas por los volúmenes y servicios de agua potable, alcantarillado y tratamiento de aguas residuales que preste el organismo operador municipal, intermunicipal o, en su caso, el Instituto Estatal del Agua, en base a las tarifas o cuotas autorizadas. Por tanto queda prohibido el otorgamiento de exenciones por cuanto al pago de los servicios.
+Todo usuario está obligado al pago de las tarifas por los volúmenes y servicios de agua potable, alcantarillado y tratamiento de aguas residuales que preste el organismo operador municipal, intermunicipal o, en su caso, la Comisión Estatal del Agua, en base a las tarifas o cuotas autorizadas. Por lo tanto queda prohibido el otorgamiento de exenciones por cuanto al pago de los servicios.
 
 ###### ARTÍCULO 96.
 
@@ -1073,17 +1161,21 @@ En época de escasez de agua, comprobada o previsible, el organismo operador pod
 
 ### CAPÍTULO III. Cuotas y Tarifas
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 104.
 
-La Junta de Gobierno del organismo operador respectivo o el Instituto Estatal del Agua, aprobarán las cuotas y tarifas, por la conexión, reconexión de cada uno de los sistemas de agua potable y alcantarillado a su cargo.
+La Junta de Gobierno del organismo operador respectivo o la Comisión Estatal del Agua, aprobarán las cuotas y tarifas, por la conexión, reconexión de cada uno de los sistemas de agua potable y alcantarillado a su cargo.
 
 ###### ARTÍCULO 105.
 
 Las cuotas y tarifas por los servicios incluirán los costos de operación, administración, conservación, mantenimiento y mejoramiento, así como los recursos necesarios para constituir un fondo que permita la rehabilitación, ampliación y mejoramiento de los sistemas (sic) la recuperación del valor actualizado de las inversiones del organismo operador y el servicio de su deuda. Dicho fondo se constituirá y operará de conformidad con las reglas técnicas que aprueba la Junta de Gobierno del organismo operador respectivo.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 106.
 
-La recuperación del valor actualizado de las inversiones de infraestructura hidráulica realizadas por los organismos operadores municipales, intermunicipales o, en su defecto, por el Instituto Estatal del Agua, por sí o por terceros, deberán tomarse en cuenta para incorporarse en la fijación de las tarifas o cuotas respectivas o para su cobro por separado a los directamente beneficiados por las mismas. Se podrán celebrar con los beneficiarios convenios que garanticen la recuperación de la inversión.
+La recuperación del valor actualizado de las inversiones de infraestructura hidráulica realizadas por los organismos operadores municipales, intermunicipales o, en su defecto, por la Comisión Estatal del Agua, por sí o por terceros, deberán tomarse en cuenta para incorporarse en la fijación de las tarifas o cuotas respectivas o para su cobro por separado a los directamente beneficiados por las mismas. Se podrán celebrar con los beneficiarios convenios que garanticen la recuperación de la inversión.
 
 ###### ARTÍCULO 107.
 
@@ -1093,9 +1185,11 @@ Se exceptúa de lo dispuesto en el párrafo anterior, cuando la recuperación de
 
 Se deberán revisar y ajustar las cuotas o tarifas a fin de actualizarlas anualmente; para cualquier modificación de estas se deberá elaborar un estudio que justifique las nuevas cuotas y tarifas y se tomarán en cuenta las observaciones y sugerencias que realicen los usuarios a través de los Consejos Consultivo (sic) de los organismos descentralizados a que se refiere la presente ley. Una vez aprobadas, se ordenará su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 109.
 
-Los organismos operadores, cuando lo consideren conveniente, podrán solicitar al Instituto Estatal del Agua, la elaboración de los estudios técnicos y financieros de apoyo para los incrementos de cuotas o tarifas. Igualmente, dicho Instituto podrá enviar a los organismos operadores los estudios que haya elaborado que justifiquen o apoyen los incrementos de las cuotas o tarifas respectivas dentro del "Sistema Estatal de Agua Potable y Alcantarillado".
+Los organismos operadores, cuando lo consideren conveniente, podrán solicitar a la Comisión Estatal del Agua, la elaboración de los estudios técnicos y financieros de apoyo para los incrementos de cuotas o tarifas. Igualmente, dicha Comisión podrá enviar a los organismos operadores los estudios que haya elaborado que justifiquen o apoyen los incrementos de las cuotas o tarifas respectivas dentro del Sistema Estatal de Agua Potable y Alcantarillado.
 
 ###### ARTÍCULO 110.
 
@@ -1151,13 +1245,17 @@ El pago de las cuotas y tarifas a que se refiere el presente artículo es indepe
 
 Queda prohibido a los organismos descentralizados a que se refiere la presente ley, la fijación de cuotas o tarifas por el uso o aprovechamiento de aguas nacionales, superficiales o del subsuelo.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 112.
 
-Las cuotas o tarifas que cobran los organismos operadores municipales, intermunicipales o en su defecto, el Instituto Estatal del Agua, será independiente de los pagos que se establezcan en la legislación fiscal.
+Las cuotas o tarifas que cobran los organismos operadores municipales, intermunicipales o en su defecto, la Comisión Estatal del Agua, será independiente de los pagos que se establezcan en la legislación fiscal.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 113.
 
-La falta de pago de dos o más mensualidades, faculta al organismo operador municipal, intermunicipal, o en su defecto, el Instituto Estatal del Agua, para suspender el servicio al usuario, hasta que regularice su pago.
+La falta de pago de dos o más mensualidades, faculta al organismo operador municipal, intermunicipal, o en su defecto, la Comisión Estatal del Agua, para suspender el servicio al usuario, hasta que regularice su pago.
 
 ###### ARTÍCULO 114.
 
@@ -1165,9 +1263,11 @@ Los organismos descentralizados están facultados para suspender el servicio, cu
 
 Lo anterior será independiente de poner en conocimiento de tal situación a las autoridades sanitarias.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 115.
 
-Los adeudos a cargo de los usuarios y a favor de los organismos operadores municipales, intermunicipales o, en su defecto, del Instituto Estatal del Agua, serán cobrados en la forma en que se encuentren pactados en los convenios celebrados con los usuarios. En esos convenios se establecerán con claridad las cláusulas penales, de rescisión y suspensión a que se encuentran sujetos los servicios.
+Los adeudos a cargo de los usuarios y a favor de los organismos operadores municipales, intermunicipales o, en su defecto, de la Comisión Estatal del Agua, serán cobrados en la forma en que se encuentren pactados en los convenios celebrados con los usuarios. En esos convenios se establecerán con claridad las cláusulas penales, de rescisión y suspensión a que se encuentran sujetos los servicios.
 
 ###### ARTÍCULO 116.
 
@@ -1181,13 +1281,17 @@ Los notarios públicos y jueces no autorizarán o certificarán los actos trasla
 
 ### CAPÍTULO IV. Inspección, Verificación y Determinación Presuntiva del Pago de Servicios
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 118.
 
-Los organismos operadores municipales, intermunicipales o, en su defecto, el Instituto Estatal del Agua, contarán con el número de inspectores que se requiera, en base a su propio presupuesto, para la verificación de los servicios que prestan.
+Los organismos operadores municipales, intermunicipales o, en su defecto, la Comisión Estatal del Agua, contarán con el número de inspectores que se requiera, en base a su propio presupuesto, para la verificación de los servicios que prestan.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 119.
 
-Para dar cumplimiento a las disposiciones de esta ley y la reglamentación respectiva, los organismos operadores municipales, intermunicipales o, en su defecto, el Instituto Estatal del Agua, ordenarán que se realicen visitas de inspección, las que se efectuarán por personal debidamente autorizado, estén o no concesionados los servicios.
+Para dar cumplimiento a las disposiciones de esta ley y la reglamentación respectiva, los organismos operadores municipales, intermunicipales o, en su defecto, la Comisión Estatal del Agua, ordenarán que se realicen visitas de inspección, las que se efectuarán por personal debidamente autorizado, estén o no concesionados los servicios.
 
 Las facultades de los inspectores, serán las que expresamente les otorgan esta ley y los reglamentos relativos.
 
@@ -1253,9 +1357,11 @@ En caso de infracción a las disposiciones de esta ley se levantará acta en la 
 
 Cuando el infractor se niegue a firmar el acta respectiva, esta deberá ser firmada por dos testigos que den fe de los hechos que constituyen la infracción. Si los testigos no supieren firmar, imprimirán su huella digital al calce del acta; los (sic) mismo se hará si no sabe firmar el infractor, siempre que quiera hacerlo.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 131.
 
-Los usuarios están obligados a permitir el acceso al personal del organismo operador, o en su defecto, el Instituto Estatal del Agua, debidamente acreditado, al lugar o lugares donde se encuentren instalados los medidores, para tomar las lecturas de los mismos.
+Los usuarios están obligados a permitir el acceso al personal del organismo operador, o en su defecto, la Comisión Estatal del Agua, debidamente acreditado, al lugar o lugares donde se encuentren instalados los medidores, para tomar las lecturas de los mismos.
 
 ###### ARTÍCULO 132.
 
@@ -1265,27 +1371,31 @@ La lectura de los aparatos medidores, para determinar el consumo de agua en cada
 
 El lecturista llenará un formato oficial, verificando, que el número del medidor y el domicilio que se indique sean los correspondientes y expresará la lectura del medidor o la clave de no lectura, en su caso.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 134.
 
-Corresponde en forma exclusiva a los organismos operadores o, en su defecto, al Instituto Estatal del Agua instalar y operar los aparatos medidores, así como verificar su funcionamiento y su retiro cuando hayan sufrido daños.
+Corresponde en forma exclusiva a los organismos operadores o, en su defecto, a la Comisión Estatal del Agua instalar y operar los aparatos medidores, así como verificar su funcionamiento y su retiro cuando hayan sufrido daños.
 
 ###### ARTÍCULO 135.
 
 Los usuarios cuidarán que no se deterioren o destruyan los aparatos medidores; por lo que deberán ser protegidos contra robo, manipulaciones indebidas y toda posible causa de deterioro.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 136.
 
-Los propietarios o poseedores de predios que cuenten con las instalaciones de aparatos medidores, están obligados a informar el (sic) organismo operador o, en su defecto, al Instituto Estatal del Agua a la brevedad posible, todo daño o perjuicio causado a los mismos.
+Los propietarios o poseedores de predios que cuenten con las instalaciones de aparatos medidores, están obligados a informar al organismo operador o, en su defecto, a la Comisión Estatal del Agua a la brevedad posible, todo daño o perjuicio causado a los mismos.
 
 ###### ARTÍCULO 137.
 
 Para los efectos del artículo anterior, los organismos descentralizados a que se refiere la presente ley ordenarán la revisión y el retiro del medidor, enviándolo a los talleres de reparación e instalando provisionalmente un medidor sustituto.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 138.
 
-Con el dictamen emitido por el organismo operador o, en su defecto, el Instituto Estatal del Agua, se reparará o sustituirá el aparato.
-
-El propietario o poseedor del predio, pagará los gastos que origine la reparación o sustitución, cuando no haya cumplido con lo dispuesto al efecto en la presente ley.
+Con el dictamen emitido por el organismo operador o, en su defecto, la Comisión Estatal del Agua, se reparará o sustituirá el aparato.
 
 ###### ARTÍCULO 139.
 
@@ -1321,13 +1431,17 @@ IV.- Otra información obtenida por los organismos operadores, en el ejercicio d
 
 V.- Los medios indirectos de la investigación económica o cualquier otra clase.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 143.
 
-El organismo operador municipal, intermunicipal o, en su defecto, el Instituto Estatal del Agua, determinará y exigirá el pago con base en la estimación del volumen que efectúe.
+El organismo operador municipal, intermunicipal o, en su defecto, la Comisión Estatal del Agua, determinará y exigirá el pago con base en la estimación del volumen que efectúe.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 144.
 
-Queda facultado el organismo operador municipal, intermunicipal o, en su defecto, el Instituto Estatal del Agua para realizar las acciones necesarias para impedir, obstruir o cerrar la posibilidad de descargar aguas residuales a las redes de drenaje y alcantarillado, a aquellos usuarios que incumplen con el pago respectivo conforme a los (sic) dispuesto en la presente ley; o bien, en colaboración a las autoridades ecológicas competentes, cuando las descargas no cumplen con lo dispuesto en la legislación de equilibrio ecológico y protección al ambiente.
+Queda facultado el organismo operador municipal, intermunicipal o, en su defecto, la Comisión Estatal del Agua para realizar las acciones necesarias para impedir, obstruir o cerrar la posibilidad de descargar aguas residuales a las redes de drenaje y alcantarillado, a aquellos usuarios que incumplen con el pago respectivo conforme a lo dispuesto en la presente ley; o bien, en colaboración a las autoridades ecológicas competentes, cuando las descargas no cumplen con lo dispuesto en la legislación de equilibrio ecológico y protección al ambiente.
 
 ## TÍTULO QUINTO. INFRACCIONES, SANCIONES Y RECURSOS ADMINISTRATIVOS
 
@@ -1373,9 +1487,11 @@ XVII.- El que conecte un servicio suspendido sin autorización del organismo; y
 
 XVIII.- El que en cualquier forma transgreda o incumpla lo dispuesto en esta ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 146.
 
-Las infracciones a que se refiere el artículo anterior serán sancionadas administrativamente a juicio del organismo operador respectivo, o en su defecto, por el Instituto Estatal del Agua, con multas equivalentes de diez a quinientos días de salario mínimo general vigente en el área geográfica en que se cometa.
+Las infracciones a que se refiere el artículo anterior serán sancionadas administrativamente a juicio del organismo operador respectivo, o en su defecto, por la Comisión Estatal del Agua, con multas equivalentes de diez a quinientos días de salario mínimo general vigente en el área geográfica en que se cometa.
 
 Para sancionar las faltas anteriores, se calificarán las infracciones tomando en consideración la gravedad de la falta, las condiciones económicas del infractor, y la reincidencia.
 
@@ -1423,9 +1539,11 @@ Los ingresos a que se refiere el artículo anterior, para efectos de cobro, en l
 
 ### CAPÍTULO II. Recursos Administrativos
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 157.
 
-Contra las resoluciones y actos del Instituto Estatal del Agua y de los organismos operadores que causen agravio a los particulares y que para su impugnación no tengan señalado trámite especial en esta ley, procederá el recurso de reconsideración, el cual se tramitará en la forma y términos del presente capítulo.
+Contra las resoluciones y actos de la Comisión Estatal del Agua y de los organismos operadores que causen agravio a los particulares y que para su impugnación no tengan señalado trámite especial en esta ley, procederá el recurso de reconsideración, el cual se tramitará en la forma y términos del presente capítulo.
 
 ###### ARTÍCULO 158.
 
@@ -1548,3 +1666,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. AGUSTIN MARQUEZ URIBE.
 
 Al C......
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE DICIEMBRE DE 2004.
+
+PRIMERO.- El presente Decreto, entrará en vigor el día primero de diciembre del año dos mil cuatro; publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los recursos humanos, materiales y financieros a cargo del Instituto Estatal del Agua, pasarán a formar parte de la Comisión Estatal del Agua. Las disposiciones legales y reglamentarias que contengan la denominación, "INSTITUTO ESTATAL DEL AGUA", se entenderá que se trata de la Comisión Estatal del Agua. Los actos e instrumentos celebrados por la institución denominada "Instituto Estatal del Agua" seguirán vigentes y se entenderán celebrados por LA COMISION ESTATAL DEL AGUA, sin menoscabarse los derechos laborales de sus trabajadores los que se entenderán intocados. La Secretaria de Administración en uso de sus facultades legales, realizara todos los actos concernientes para dar el debido cumplimiento de la presente Ley.
