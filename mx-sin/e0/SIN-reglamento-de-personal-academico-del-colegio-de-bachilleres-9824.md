@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-personal-academico-del-colegio-de-bachilleres-982
 country: "mx"
 rank: "reglamento"
 publication_date: "1983-08-17"
-last_updated: "1983-08-17"
+last_updated: "1994-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 REGLAMENTO DEL PERSONAL ACADEMICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DEL PERSONAL ACADEMICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE SINALOA, APROBADO POR LA JUNTA DIRECTIVA EL 19 DE ENERO DE 1994, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 17 de agosto de 1983.
 
@@ -624,3 +626,31 @@ SEGUNDO VOCAL
 PROFR. REMBERTO GIL PEREZ
 
 TERCER VOCAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE ENERO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+Este Reglamento entrará en vigor al día siguiente de su publicación oficial en el Colegio de Bachilleres del Estado de Sinaloa, y abroga el expedido en fecha 18 de julio de 1983.
+
+###### ARTICULO SEGUNDO.
+
+Los profesores titulados con nombramiento provisional podrán participar en las convocatorias que para obtener la Categoría CB-I emitirá el Director General, a partir de la fecha en que entre en vigor el presente reglamento y hasta 24 meses después de esa fecha.
+
+###### ARTICULO TERCERO.
+
+Excepcionalmente, los profesores con nombramiento provisional que no estuvieren titulados podrán participar en las convocatorias a que se refiere el artículo anterior, dentro de los 24 meses siguientes a la publicación de este reglamento, debiendo acreditar el número de horas-curso de formación y actualización académica que se establezcan en las propias convocatorias.
+
+###### ARTICULO CUARTO.
+
+Dentro de los 90 días siguientes a la fecha en que entre en vigor este reglamento, la Dirección General realizará un estudio para definir la situación del personal académico que actualmente se encuentre con nombramiento de tiempo fijo, estudio que comprenderá su disponibilidad presupuestal, las necesidades del Colegio; así como el estado académico del personal y su antigüedad en el ejercicio, para que, con base en los resultados, el titular del Colegio determine la publicación de las convocatorias correspondientes
+
+###### ARTICULO QUINTO.
+
+En las convocatorias que el Director General emita a partir de la fecha en que entre en vigor el presente Reglamento y hasta 24 meses después de esa fecha, el requisito de horas-curso al que se refieren los artículos 19, 20, 21, 22 y 23 del presente Reglamento, excepcionalmente podrá darse por cumplido con los cursos que el personal académico haya acreditado después de su última promoción.
+
+###### ARTICULO SEXTO.
+
+Las categorías actualmente existentes en el Colegio de Bachilleres; A, B, C y D, a partir de la vigencia del presente Reglamento se sustituyen por CB-I, CB-II, CB-III y CB-IV respectivamente.
