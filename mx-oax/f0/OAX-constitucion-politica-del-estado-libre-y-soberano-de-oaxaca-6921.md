@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1985-05-25"
+last_updated: "1985-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 1985.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -202,6 +202,18 @@ Los Municipios, en los términos de las Leyes Federales y Estatales relativas, e
 > <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
 
 Cuando dos o más centros urbanos situados en territorios municipales de dos o más Entidades Federativas formen o tiendan a formar una continuidad demográfica, la Federación, las Entidades Federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos Centros con apego a la Ley Federal de la materia.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 1985)</small>
+
+Corresponde al Gobierno del Estado promover y administrar el proceso de Desarrollo Local, para ello organizará un Sistema Estatal de Planeación, dotándolo de plena congruencia con los otros elementos del Sistema Nacional de Planeación Democrática en los términos de la Constitución General de la República y de las Leyes Reglamentarias de la Planeación Nacional y Estatal.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 1985)</small>
+
+La planeación será democrática, mediante la participación de los diversos sectores sociales recogerá las aspiraciones y demandas de la sociedad para incorpóralas al plan y a los programas regionales y municipales de desarrollo.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 1985)</small>
+
+La Ley facultará al Ejecutivo para que establezcan los procedimientos de participación y consulta popular en el Sistema Estatal de Planeación democrática y los criterios para la formulación, instrumentación, control y evaluación del plan y de los programas de desarrollo. Así mismo determinará los órganos responsables del proceso de planeación y las bases para que el Ejecutivo Local coordine mediante convenios con la Federación y con los Ayuntamientos e induzcan y concierte con los particulares las acciones a realizar para su elaboración y ejecución.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 1985)</small>
 
@@ -1928,3 +1940,7 @@ UNICO.- El presente decreto entrará en vigor el día siguiente de su publicaci�
 P.O. 25 DE MAYO DE 1985.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE AGOSTO DE 1985.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
