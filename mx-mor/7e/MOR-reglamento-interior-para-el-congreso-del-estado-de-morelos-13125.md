@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-para-el-congreso-del-estado-de-morelos-1312
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-11-04"
-last_updated: "1998-11-04"
+last_updated: "2000-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2000.
 
 Reglamento publicado en el Periódico Oficial "Tierra y Libertad", el 4 de noviembre de 1998.
 
@@ -223,7 +223,9 @@ Los integrantes de las comisiones ordinarias serán electos para toda una Legisl
 
 Las comisiones tendrán a su cargo las cuestiones relacionadas con la materia propia de su denominación y formularán el dictamen de las iniciativas, decretos, puntos de acuerdo y acuerdos parlamentarios de su competencia, para ser sometidos a la aprobación del Pleno.
 
-Las Comisiones ordinarias deberán tener un secretario técnico, así como el asesoramiento y apoyos necesarios para el mejor cumplimiento de sus funciones.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+Las Comisiones ordinarias deberán tener un Secretario Técnico el cual será designado por la mayoría de los Diputados integrantes de la Comisión, así como un asesor y los apoyos técnicos y administrativos necesarios para el mejor cumplimiento de sus funciones.
 
 Los secretarios técnicos a que se refiere el párrafo inmediato anterior, tendrán las siguientes funciones:
 
@@ -291,9 +293,11 @@ Cualquier miembro de la Cámara podrá asistir a las reuniones de las comisiones
 
 Las comisiones, durante el receso, continuarán el estudio de los asuntos pendientes, hasta producir el correspondiente dictamen. También estudiarán y dictaminarán las iniciativas que les sean turnadas por la Diputación Permanente.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 36.
 
-Las comisiones del Congreso se reunirán cuantas veces sea necesario para la atención de los asuntos de su incumbencia.
+Las comisiones del Congreso se reunirán por lo menos una vez al mes para la atención de los asuntos de su incumbencia.
 
 ###### Artículo 37.
 
@@ -307,13 +311,17 @@ Las comisiones tomarán sus acuerdos por mayoría de sus miembros, cuando alguno
 
 Las comisiones podrán pedir, por conducto de su presidente, a los archivos y oficinas de gobierno, las informaciones y copias de documentos que requieran para el despacho de sus negocios, los que deberán ser proporcionados en los términos de Ley. La negativa a entregarlos en los plazos pertinentes, autoriza a la comisión para dirigirse en queja al titular de la dependencia o al Gobernador Constitucional del Estado.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 40.
 
-Pueden las Comisiones para ilustrar su juicio en el despacho de los negocios que se les encomienden, entrevistarse con funcionarios públicos, quienes habrán de guardar a los Diputados las consideraciones debidas.
+Pueden las Comisiones para ilustrar su juicio en el despacho de los negocios que se les encomienden, entrevistarse con servidores públicos de los diferentes niveles de Gobierno.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 41.
 
-Las Comisiones deberán integrarse con miembros de los grupos y fracciones parlamentarias que existan en la Cámara, designados en forma proporcional al número de Diputados que los partidos políticos hayan logrado en la elección respectiva. Las presidencias de la Comisiones serán distribuidas igualmente en forma proporcional.
+Las Comisiones deberán integrarse con miembros de los grupos parlamentarios que existan en la Cámara. Las Presidencias de la Comisiones serán distribuidas como lo establece la Ley Orgánica del Congreso.
 
 Cuando un asunto sea turnado a dos o más comisiones, la comisión designada en primer término será la responsable del expediente y quien coordine el desahogo del asunto.
 
@@ -359,17 +367,21 @@ Para el despacho de los asuntos que se les encomiende, las comisiones podrán in
 
 ### CAPITULO II. DE LAS SESIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 48.
 
-Las Sesiones del Congreso tendrán el carácter de ordinarias, extraordinarias y solemnes, pudiéndose constituir en permanentes. Todas las sesiones serán públicas; serán secretas cuando alguna ley así lo disponga o lo acuerde la Asamblea. El Congreso durante los períodos ordinarios no podrá suspender sus sesiones por más de una semana, salvo que así lo acuerde la asamblea.
+Las Sesiones del Congreso tendrán el carácter de ordinarias, extraordinarias y solemnes, pudiéndose constituir en permanentes. Todas las sesiones serán públicas, podrán ser secretas cuando lo acuerde la Asamblea. El Congreso durante los períodos ordinarios no podrá suspender sus sesiones por más de una semana.
 
-Son ordinarias las que se celebren durante los períodos constitucionales.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 49.
 
-Las sesiones comenzarán, preferentemente, a las 11:00 horas, y durarán hasta cinco horas; pero por disposición del Pleno podrán ser prorrogadas indefinidamente. Cuando por iniciativa de algún Diputado se solicite se prorrogue la Sesión, se someterá su petición a la aprobación de la asamblea.
+Las sesiones comenzarán a la hora en que fueron convocadas y durarán hasta cinco horas, pero por disposición del Pleno podrán ser prorrogadas indefinidamente. Cuando por iniciativa de algún Diputado se solicite se prorrogue la Sesión se someterá su petición a la aprobación de la asamblea.
 
-Asimismo, el Presidente podrá someter a consideración del Pleno la declaración de recesos en el curso de una sesión.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 50.
 
@@ -591,13 +603,19 @@ El voto por cédula es mediante boleta que para tal efecto se deposite en ánfor
 
 La votación nominal se hará del modo siguiente:
 
-I.- Cada miembro de la Cámara, comenzando por el lado derecho del Presidente, se pondrá en pie y dirá en voz alta su apellido y también su nombre si fuere necesario para distinguirlo de otro, señalando el sentido de su voto;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
-II.- Un Secretario apuntará los que aprueben y otro los que desaprueben, en un formato para tal efecto;
+I.- Cada miembro de la Cámara, comenzando por el lado derecho del Presidente, se pondrá en pie y dirá en voz alta su nombre y apellidos si fuere necesario para distinguirlo de otro, señalando el sentido de su voto;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+II.- Un Secretario apuntará los que aprueben y otro los que desaprueben en un formato para tal efecto; posteriormente un Secretario preguntará en alta voz si algún Diputado se abstiene;
 
 III.- Concluido este acto, uno de los mismos Secretarios preguntará dos veces en altavoz si falta algún miembro de la Cámara por votar; y no faltando ninguno, votarán los Secretarios, el Vicepresidente y el Presidente;
 
-IV.- Los Secretarios, harán enseguida el cómputo de los votos, después dirán el número total de votos en pro y en contra y darán a conocer el resultado; y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+IV.- Los Secretarios harán enseguida el cómputo de los votos, después dirán el número total de votos en pro y en contra y darán a conocer el resultado; y
 
 V.- Se insertará en el semanario de los debates la lista de los Diputados que votaron a favor o en contra o que se abstuvieron.
 
@@ -641,9 +659,11 @@ Se entiende por mayoría absoluta, la que se obtenga de sumar el 50% más uno de
 
 Se entiende por mayoría calificada cuando se trate de las dos terceras partes de los integrantes de la Legislatura.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 91.
 
-Si hubiere empate en las votaciones se repetirá la votación en la misma Sesión, y si resultare empate por segunda vez, se discutirá y votará de nuevo el asunto en la sesión inmediata.
+Si hubiere empate en las votaciones, se repetirá la votación en la misma Sesión, y si resultare empate por segunda vez, el Presidente regresará a la Comisión respectiva el Dictamen o asunto a tratar, quien lo presentará en Sesión posterior.
 
 ## TÍTULO QUINTO. DEL CEREMONIAL Y DEL PÚBLICO
 
@@ -655,9 +675,11 @@ ASISTENTE A LAS SESIONES
 
 En la sesión que se celebre el cuarto domingo de septiembre de cada año, el Titular del Poder Ejecutivo del Estado, presentará informe acerca de la situación que guarde la administración pública del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 93.
 
-Si en la sesión a que se refiere el artículo anterior el Titular del Poder Ejecutivo se presentare personalmente, ésta se desarrollará de la siguiente manera:
+La Sesión a que se refiere el Artículo anterior se desarrollará de la siguiente manera:
 
 I.- Pase de lista de los ciudadanos Diputados;
 
@@ -671,7 +693,9 @@ V.- Intervención de un Diputado por cada uno de los grupos y fracciones parlame
 
 Las intervenciones a que se refiere esta fracción, se harán en un orden creciente en razón del número de Diputados de cada grupo y fracciones parlamentarias y no excederán de quince minutos.
 
-VI.- Presentación del informe del ciudadano Gobernador;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+VI.- Presentación del informe del Gobernador del Estado, durante el cual podrán solicitársele hasta dos interpelaciones por cada grupo parlamentario que no excedan de tres minutos cada una;
 
 VII.- Respuesta del Diputado Presidente;
 
@@ -711,11 +735,19 @@ IV.- Declaración de un receso para recibir al Gobernador del Estado;
 
 V.- Protesta de ley;
 
-VI.- Mensaje del ciudadano Gobernador;
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
-VII.- Honores a nuestra enseña nacional; y
+VI.- Intervención de un representante de cada uno de los grupos parlamentarios;
 
-VIII.- Clausura de la Sesión.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+VII.- Mensaje del Gobernador;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+VIII.- Honores a nuestra Enseña Nacional; y
+
+IX.- Clausura de la Sesión.
 
 ###### Artículo 99.
 
@@ -777,9 +809,11 @@ En todo lo referente a la Contaduría Mayor de Hacienda se estará a lo que señ
 
 ### CAPÍTULO II. DE LA OFICIALÍA MAYOR
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 112.
 
-La Oficialía Mayor es el Órgano Administrativo del Congreso que tiene a su cargo jefaturar todo lo relativo al personal del Congreso, al suministro de material administrativo, al mantenimiento y resguardo del Palacio Legislativo y en lo que se refiere al auxilio técnico de los trabajos de la Mesa Directiva y de la Comisión de Régimen Interno y Concertación Política.
+La Oficialía Mayor es el Órgano Administrativo del Congreso que tiene a su cargo jefaturar todo lo relativo al personal del Congreso, a sus relaciones laborales, al suministro de material administrativo, al mantenimiento y resguardo del Palacio Legislativo y en lo que se refiere a los trabajos de la Mesa Directiva, de la Comisión de Régimen Interno y Concertación Política y del resto de las Comisiones Legislativas.
 
 ###### Artículo 113.
 
@@ -793,7 +827,9 @@ El cuerpo técnico profesional de apoyo, se integrará por personal con experien
 
 Estará a cargo del Oficial Mayor el semanario de los debates, órgano oficial del Congreso del Estado, en el que se publicará la fecha y lugar en que se verifique la sesión, el sumario, nombre del que preside, copia fiel del acta de la sesión anterior, la versión estenográfica de las intervenciones y de las discusiones en el orden en que se desarrollen e inserción de todos los dictámenes o documentos a los que se les dé lectura.
 
-Así mismo estará a cargo del Oficial Mayor, jefaturar y coordinar la oficina de Comunicación Social del Congreso del Estado, así como la del área jurídica.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+Asimismo estará a cargo del Oficial Mayor, jefaturar y coordinar la Oficina de Comunicación Social del Congreso del Estado, así como la del área jurídica, el archivo del Congreso y demás publicaciones que requieran su difusión y/o publicación.
 
 ###### Artículo 116.
 
@@ -859,9 +895,11 @@ La plantilla del personal de la Tesorería será la que se estipule en el Presup
 
 El Tesorero cobrará y recibirá de la Tesorería del Estado los fondos correspondientes al Presupuesto de Egresos autorizado para cada ejercicio fiscal, conforme al calendario de ministraciones aprobado. El Tesorero hará los pagos correspondientes, los días designados para tal efecto.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 125.
 
-El Tesorero descontará de las cantidades que deba entregar como dietas de los Diputados la suma que corresponda a los días que dejaren de asistir a las sesiones y a las reuniones de las comisiones, conforme a la orden descrita del Presidente de la Cámara o de la Diputación Permanente.
+El Tesorero descontará de las cantidades que deba entregar como dietas de los Diputados la suma que corresponda a los días que dejaren de asistir a las sesiones, conforme a la orden descrita del Presidente de la Cámara o de la Diputación Permanente.
 
 ###### Artículo 126.
 
@@ -881,9 +919,11 @@ El Tesorero no podrá efectuar ningún pago que no esté autorizado por el Presi
 
 El anteproyecto de presupuesto del Congreso del Estado será elaborado por la Comisión de Régimen Interno y Concertación Política y deberá ser suficiente para el adecuado desarrollo de sus actividades y el eficaz cumplimiento de sus fines.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 129.
 
-El presupuesto deberá contener una partida destinada para el apoyo de los trabajos de cada uno de los grupos o fracciones parlamentarias, la cual será proporcional al número de Diputados que los conformen.
+El presupuesto deberá contener una partida destinada para el apoyo de los trabajos de cada uno de los grupos parlamentarios, que será del 15% del presupuesto total del Poder Legislativo, mismo que se entregará en ministraciones mensuales de acuerdo a la distribución que establece el Artículo 66 de la Ley Orgánica del Congreso.
 
 Asimismo proveerá una partida presupuestal para cubrir la gratificación anual a cada uno de los Diputados en activo, cuyo importe estará en función del presupuesto aprobado en definitiva.
 
@@ -980,3 +1020,19 @@ SECRETARIA
 DIP. EMMA MARGARITA ALEMÁN OLVERA
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE AGOSTO DE 2000.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su aprobación.
+
+###### ARTICULO SEGUNDO.
+
+Las disposiciones contenidas en el artículo 129 de este Decreto, tendrán vigencia a partir del primer día del mes de enero del año 2001.
+
+###### ARTICULO TERCERO.
+
+Para efectos de su divulgación, publíquese en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado Libre y Soberano de Morelos.
