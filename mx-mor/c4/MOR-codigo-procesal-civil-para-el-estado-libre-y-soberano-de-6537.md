@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-civil-para-el-estado-libre-y-soberano-de-6537"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "2000-09-06"
+last_updated: "2003-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PROCESAL CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2003.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 13 de octubre de 1993.
 
@@ -4471,7 +4471,11 @@ XI. Las demandas que versen sobre pretensión, declarativa o constitutiva que no
 
 XII. Las cuestiones relativas a servidumbres legales y que consten en instrumento público, los conflictos sobre cuestiones de derechos de preferencia; y,
 
-XIII. Los demás negocios para los que la Ley determine de una manera especial la vía sumaria.
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
+XIII. Las demandas que versen sobre las cuestiones relativas a la rectificación de actas del Registro Civil; y
+
+XIV. Los demás negocios para los que la Ley determine de una manera especial la vía sumaria.
 
 ###### Artículo 605.
 
@@ -6655,6 +6659,8 @@ La resolución que se dicte no es apelable.
 
 ### CAPITULO VIII. De la rectificación de actas del estado civil
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 838.
 
 Requisitos para pretender la adopción. Para que se autorice la adopción, el que pretenda adoptar a alguna persona, deberá acreditar que:
@@ -6665,19 +6671,25 @@ II. El adoptante no es casado y no tiene descendientes;
 
 III. Los adoptantes están unidos en matrimonio, no tienen hijos y han suscrito un acuerdo de considerar y tratar al adoptado como hijo suyo.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 839.
 
-Requisitos de procedencia de la adopción. El que pretende adoptar, deberá acreditar los requisitos señalados por el Código Civil. En la promoción inicial deberá manifestar el nombre y edad del menor o incapacitado a quien se va a adoptar, el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, o de las personas o institución pública que lo haya acogido; debiendo acompañar un estudio médico, psicológico y socioeconómico, tanto de los futuros adoptantes como investigación exhaustiva de la situación personal del menor que se pretenda adoptar, realizados por institución de protección a la familia y al menor.
+Requisitos de procedencia de la adopción.- el que pretenda adoptar, deberá acreditar los requisitos señalados por el Artículo 243 del Código Civil, debiéndose observar, además, lo siguiente:
 
-Será menester presentar la aprobación del Consejo Local de Tutelas.
+I. En la promoción inicial manifestar el tipo de adopción, nombre, edad, y si hubiere domicilio del menor o incapacitado que se pretende adoptar; el nombre, edad y domicilio de quienes en su caso ejerzan sobre él la patria potestad o tutela, o de la persona, personas o institución de asistencia social pública o privada que lo haya acogido. La promoción debe, además, acompañarse de los estudios socioeconómicos, psicológicos, médicos y los que el Juez estime pertinentes para la adopción, tanto de los futuros adoptantes, como los realizados por el Sistema para el Desarrollo Integral de la Familia en el Estado de Morelos, instituciones de salud pública, o peritos designados por el Juez;
 
-Asimismo, cuando sea el caso, se agregará al acta de defunción de padre o padres o abuelos que hubieren ejercido patria potestad en caso de menores huérfanos.
+II. Presentar la aprobación del Consejo Local de Tutelas;
 
-El Juez de lo Familiar recibirá las pruebas pertinentes, sin dilación en cualquier día y hora hábil.
+III. Cuando el menor hubiere sido acogido por una institución de asistencia social pública o privada, el adoptante o la institución según sea el caso, recabarán constancias del tiempo del abandono para los efectos del Artículo 282, fracción IV del Código Civil;
 
-La solicitud de adopción a que se refiere este artículo deberá ser suscrita en forma personal por los interesados; debiendo el Juez ordenar la ratificación de la misma, en su presencia, sin tales requisitos no se le dará trámite y requiriéndose un certificado médico de buena salud. Tampoco se le deberá dar trámite a las solicitudes que vengan suscritas por apoderados o representante legal de los interesados. Los funcionarios infractores de esta disposición, serán destituídos de su cargo, sin responsabilidad para el Tribunal Superior de Justicia.
+IV. Si hubieren transcurrido menos de seis meses del abandono, se decretará el depósito de quien se pretenda adoptar a favor del presunto adoptante, entretanto se consuma dicho plazo;
 
-Cuando el menor hubiere sido acogido por una institución pública, el adoptante, recabará constancia del tiempo de la exposición o abandono levantada ante el Ministerio Público para los efectos del Código Civil. Si hubieren transcurrido menos de seis meses de la exposición o abandono, se decretará el depósito del menor con el presunto adoptante, entre tanto se consuma dicho plazo. Si el menor no tuviere padres conocidos y no hubiere sido acogido por institución pública, se decretará el depósito con el presunto adoptante, por el plazo de seis meses para los mismos efectos.
+V. Si no se conociera el nombre de los padres o no hubiere sido acogido por institución de asistencia social, pública o privada, se decretará la custodia con el presunto adoptante, siempre y cuando ello fuere aconsejable a criterio del Juez;
+
+VI. En los supuestos en que el menor haya sido entregado a las instituciones a que se refiere la fracción anterior, por quienes ejerzan la patria potestad, para promover su adopción en cualquiera de sus dos formas, no se requerirá que transcurra el plazo de seis meses; y
+
+VII. En el caso de adopción internacional, el adoptante deberá acreditar su legal estancia en el país con la finalidad de realizar una adopción, y cumplir con lo que dispone el Código Civil en esta materia. La documentación que presenten los solicitantes en idioma distinto al español, incluirá la traducción oficial, y estar apostillada o legalizada por la Secretaría de Relaciones Exteriores.
 
 ###### Artículo 840.
 
@@ -6745,15 +6757,43 @@ Impugnación de la adopción. Las resoluciones acerca de la adopción o de la re
 
 ###### Artículo 849.
 
-La rectificación de un acta del estado civil sólo puede hacerse por sentencia judicial. La rectificación o modificación de las actas del estado civil no puede hacerse sino mediante sentencia que dicte el Juez de lo Familiar, salvo el reconocimiento y admisión que voluntariamente haga el padre o la madre a su hijo, en los casos autorizados por el Código Civil.
+La rectificación de un acta del estado civil sólo procede mediante sentencia judicial. La rectificación de las actas del estado civil no pueden hacerse sino mediante sentencia que dicte el Juez competente, salvo el reconocimiento y admisión que voluntariamente haga el padre o la madre a su hijo, en los casos autorizados por el Código Civil.
 
 ###### Artículo 850.
 
 Cuándo se puede pedir la rectificación o la modificación de actas. Habrá lugar a pedir la rectificación de actas del estado civil por falsedad; por modificación, cuando se alega que el acta registrada no pasó; por enmienda, o cuando se solicite variar algún nombre u otra circunstancia, sea esencial o accidental.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 851.
 
-Aclaración, complementación o ampliación de las actas del estado civil. La aclaración, complementación o ampliación de las actas del estado civil, o cuando se tratare de errores mecanográficos, ortográficos o cualesquiera que no varíen el contenido, ni los datos esenciales de los documentos originales, deberá solicitarse ante el Director del Registro Civil del Estado de Morelos, mediante escrito que contenga la mención del error en cuestión, quien examinará la solicitud y si lo considera procedente ordenará las correcciones, enviando copia al Oficial del Registro Civil correspondiente.
+Aclaración, complementación o ampliación de las actas del estado civil. La aclaración, complementación o ampliación de las actas del estado civil, derivadas de errores mecanográficos, ortográficos o cualesquiera que no varíen el contenido, ni los datos esenciales de los documentos originales deberá solicitarse ante las Oficialías del Registro Civil correspondientes a cada municipio o ante el Director del Registro Civil del Estado de Morelos.
+
+El oficial del Registro Civil que reciba la solicitud de aclaración, complementación o ampliación, deberá remitirla a la Dirección del Registro Civil del Estado, en un término no mayor de tres días hábiles, contados a partir de su recepción.
+
+En los trámites de aclaración, complementación o ampliación de actas del Registro Civil, se admitirá mandato otorgado y ratificado ante Notario Público.
+
+La solicitud de aclaración, complementación o ampliación del acta se solicitará por escrito dirigido al titular de la oficialía del registro civil municipal correspondiente o a la Dirección del Registro Civil del Estado de Morelos;
+
+La solicitud contendrá:
+
+1).- Nombre y domicilio del interesado;
+
+2).- Los datos del acta que se pretende aclarar, complementar o ampliar;
+
+3).- La parte del acta que contenga el error;
+
+4).- La forma como puede corregirse el error señalada (sic) por el solicitante;
+
+5).- La relación de las pruebas que ofrecerá el solicitante; y
+
+6).- Los motivos y fundamentos de la solicitud; y
+
+7).- Fecha y firma o huella digital en su caso del interesado.
+
+Si el escrito no fuere claro, no se acompañaren las pruebas o no existiere relación entre lo que manifiesta el promovente y lo que obra en el acta, se prevendrá de manera verbal por una sola ocasión al interesado, para que lo aclare o corrija, en la inteligencia de que de no hacerlo se desechará la solicitud.
+
+Recibida la solicitud el Director del Registro Civil del Estado de Morelos, examinará los documento (sic) y pruebas y si lo considera procedente ordenará las correcciones, en un término de diez días hábiles, contados a partir de la recepción de la solicitud; enviando copia al Oficial del Registro Civil correspondiente y al encargado del archivo estatal del Registro Civil para su debida inscripción.
 
 ###### Artículo 852.
 
@@ -6765,9 +6805,11 @@ II. Las que se mencionan en el acta como relacionadas con el estado civil de la 
 
 III. Los herederos de las personas comprendidas en las dos fracciones anteriores.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 853.
 
-Trámite de la rectificación. El juicio sobre rectificación o modificación se tramitará en la vía ordinaria con intervención del Ministerio Público, aplicando en lo conducente las reglas establecidas en los juicios sobre paternidad y filiación.
+Trámite de la rectificación. El juicio sobre rectificación se tramitará en la vía sumaria con intervención del Ministerio Público, aplicando en lo conducente las reglas establecidas en los juicios sobre paternidad y filiación.
 
 ###### Artículo 854.
 
@@ -7061,11 +7103,11 @@ Podrán ser designados depositarios:
 
 I. El cónyuge del ausente;
 
-II. Uno de los hijos mayores de edad que resida en el lugar. Si hubiere varios, el Juez eligirá al que estime más apto;
+II. Uno de los hijos mayores de edad que resida en el lugar. Si hubiere varios, el Juez eligirá (sic) al que estime más apto;
 
 III. Al ascendiente más próximo en grado al ausente;
 
-IV. A falta de anteriores o cuando sea incoveniente (sic) que alguno de ellos, por su mala conducta o por su ineptitud, sean nombrados depositarios, el Juez nombrará al heredero presuntivo y si hubieren varios con igual derecho, ellos mismos eligirán al que deba ser depositario de los bienes del ausente o ignorado.
+IV. A falta de anteriores o cuando sea incoveniente (sic) que alguno de ellos, por su mala conducta o por su ineptitud, sean nombrados depositarios, el Juez nombrará al heredero presuntivo y si hubieren varios con igual derecho, ellos mismos eligirán (sic) al que deba ser depositario de los bienes del ausente o ignorado.
 
 En caso de desacuerdo en la elección, lo hará el Juez prefiriendo al que tenga mejores intereses en la conservación de los bienes del ausente.
 
@@ -8550,3 +8592,19 @@ P.O. 6 DE SEPTIEMBRE DE 2000.
 PRIMERO.- Remítase al Titular del Poder Ejecutivo del Estado, para los efectos contenidos en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 2003.
+
+DECRETO No. 1046.
+
+Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo para los efectos señalados en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 3 DE SEPTIEMBRE DE 2003.
+
+DECRETO No. 1062.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo para los efectos señalados en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
