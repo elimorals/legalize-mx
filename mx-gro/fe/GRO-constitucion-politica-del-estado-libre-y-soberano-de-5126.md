@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2004-07-27"
+last_updated: "2005-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2005.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -725,11 +725,11 @@ Lo anterior sin menoscabo del análisis y discusión que sobre el informe realic
 
 Las sesiones tanto ordinarias como extraordinarias serán públicas; pero cuando se trate de asuntos que exijan reserva las habrá secretas, de conformidad con lo que establece la Ley Orgánica del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 45.
 
-Los Funcionarios que se mencionan en la Ley Orgánica del Poder Ejecutivo, luego que esté sesionando el Congreso le darán cuenta por escrito del estado que guardan sus respectivos ramos. Dichos Servidores Públicos podrán comparecer ante el Congreso, previa solicitud y con anuencia del Gobernador a informar sobre los motivos de las iniciativas de Ley o los asuntos concernientes a sus respectivas competencias.
+Los servidores públicos que se mencionan en la Ley Orgánica de la Administración Pública del Estado, luego de que esté sesionando el Congreso del Estado, darán cuenta por escrito del estado que guarden sus respectivos ramos. Dichos servidores públicos podrán comparecer ante el Congreso, previa solicitud y con anuencia del Gobernador, para que informen cuando se discuta una Ley, se estudie un asunto o no se acepte o cumplimente una recomendación, emitida por los Organismos Públicos de Protección de los Derechos Humanos, concernientes a sus respectivos ramos; en este último supuesto señalando y fundamentando su actuación.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1999)</small>
 
@@ -845,9 +845,9 @@ XXVIII.- En el supuesto caso de tenerse que realizar nuevas elecciones, se nombr
 
 XXIX.- Resolver las licencias o renuncias por causas graves de sus propios miembros, de los integrantes de los Ayuntamientos, del Gobernador, de los Magistrados del Tribunal Superior de Justicia; de los Magistrados del Tribunal de lo Contencioso Administrativo; de los Magistrados del Tribunal Electoral del Estado; de los Consejeros Electorales integrantes del Consejo Estatal Electoral y de los miembros del Consejo de la Judicatura. En el caso de las licencias que se concedan a los Magistrados del Tribunal Superior de Justicia y del Consejo de la Judicatura, sólo conocerá cuando éstas excedan de dos meses.
 
-> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 1988)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
 
-XXIX Bis.- Hacer comparecer a los presidentes Municipales a efecto de informar sobre la marcha general de la administración y sobre cualquier asunto relacionado con ésta.
+XXIX Bis.- Hacer comparecer a los Presidentes Municipales a efecto de que informen sobre el desarrollo general de su administración y cualquier asunto relacionado con ésta; asimismo, respecto del cumplimiento de las recomendaciones que emitan en su contra, los Organismos Públicos de Protección de los Derechos Humanos; en este último supuesto señalando y fundamentando su actuación;
 
 XXX.- Constituirse en Colegio Electoral para nombrar al Gobernador interino cuando la falta temporal del Gobernador Constitucional sea mayor de treinta días, asimismo, para designar al ciudadano que deba reemplazarlo, de conformidad con los términos establecidos en los artículos 69 al 73 de este ordenamiento.
 
@@ -1159,7 +1159,7 @@ Llegado el caso de la desaparición de los poderes del Estado se observará el p
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
+### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1263,13 +1263,17 @@ XXXVI.- Establecer la Política en materia habitacional, colonias populares y as
 
 XXXVII.- Celebrar convenios con la Federación y los Ayuntamientos para la realización de obras, la prestación de servicios públicos y cualquier propósito de beneficio colectivo.
 
-XXXVIII.- Las demás que se deriven de las Constituciones Federal y Local, así como de las Leyes que de ellas emanen.
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2005)</small>
+
+XXXVIII.- Establecer políticas públicas en materia de derechos humanos, promoviendo la cultura de su respeto y la del cumplimiento de las recomendaciones que emitan los Organismos Públicos de Protección de los Derechos Humanos, de lo cual informará al Congreso del Estado;
+
+XXXIX.- Las demás que se deriven de las Constituciones Federal y Local, así como de las Leyes que de ellas emanen.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
+### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 75.
 
@@ -1299,13 +1303,33 @@ El Presidente presentará anualmente al Congreso un informe sobre las actividade
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
+### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 77.
 
 Corresponde al Ministerio Público la persecución de todos los delitos de orden común y, por tanto, el ejercicio exclusivo de la acción penal. Tendrá bajo su mando inmediato a la Policía Judicial.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2005)</small>
+
+El Ministerio Público al inicio de la investigación ministerial, hará saber a la víctima o al ofendido del delito, que tendrá las siguientes garantías:
+
+I. Recibir asesoría jurídica; ser informado de los derechos que en su favor establece la Constitución y, cuando lo solicite, así como el desarrollo del procedimiento penal;
+
+II. Coadyuvar con el Ministerio Público, a que se le reciban todos los datos o elementos de prueba con los que cuente, y a que se desahoguen las diligencias correspondientes;
+
+III. Recibir, desde la comisión del delito, atención médica y psicolóigica de urgencia;
+
+IV. Que se le repare el daño;
+
+V. En caso de violación o secuestro, cuando la víctima o el ofendido sea menor de edad, deberán estar asistidos por un familiar mayor de edad, e invariablemente de un psicólogo designado por la Procuraduría, quienes deberán firmar la declaración;
+
+VI. Por ningún motivo, razón o causa, deberá obligarse al menor de edad a ser careado con su o sus victimarios. En estos casos, se llevarán a cabo declaraciones en las condiciones que establezca la Ley;
+
+VII. A que se le otorguen las medidas y providencias que prevean la Ley para su seguridad y auxilio, y
+
+VIII. Las demás que establezcan otras disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1999)</small>
 
@@ -1441,11 +1465,11 @@ No podrán ser Magistrados las personas que hayan ocupado el cargo de Secretario
 
 Los nombramientos de los Magistrados y Jueces integrantes del Poder Judicial del Estado serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
 
-### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
+### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 89.
 
@@ -1481,7 +1505,7 @@ El Tribunal Superior de Justicia por conducto de su Presidente, en el mes de may
 
 Las atribuciones que le corresponden a las salas y al Presidente del Tribunal Superior serán fijadas por la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 91.
 
@@ -1553,11 +1577,11 @@ VI.- De conformidad a los fines señalados por el párrafo tercero del artículo
 
 VII.- Planear y regular de manera conjunta y coordinada con la Federación, el Estado y otros Municipios en el ámbito de sus competencias el desarrollo de aquellas zonas urbanas situadas en los territorios municipales del Estado o de otras Entidades Federativas que formen o tiendan a formar una continuidad demográfica, de conformidad con las Leyes de la Materia.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1998)</small>
 
 ###### Artículo 94.
 
@@ -1583,9 +1607,9 @@ Los Ayuntamientos son cuerpos colegiados deliberantes y autónomos que entrarán
 
 Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos cualquiera que sea la denominación que se les dé no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2005)</small>
 
-Los Ayuntamientos se instalarán el 2 de diciembre del año en que deban renovarse.
+Los Ayuntamientos se instalarán el 1o. de enero del año siguiente al de su elección.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1675,9 +1699,9 @@ No pueden ser electos como integrantes de los Ayuntamientos, los miembros en ser
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
+### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ###### ARTICULO 100.
 
@@ -1735,7 +1759,7 @@ V.- Suscribir acuerdos o convenios que comprometan al Municipio por un plazo may
 
 La Ley establecerá los supuestos y procedimientos a seguir, para el ejercicio de las facultades contenidas en las fracciones II a la V de este artículo, así como, la intervención que corresponda al Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 104.
 
@@ -2051,13 +2075,13 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO DECIMO. DEL MUNICIPIO LIBRE
+## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
+### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
 
-(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ### CAPITULO II. DE LOS VECINOS DEL ESTADO
 
@@ -2075,37 +2099,37 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO NOVENO. DEL PODER JUDICIAL
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE OCTUBRE DE 2002)</small>
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1998)</small>
-
 ## TITULO DECIMO PRIMERO. DE LA HACIENDA PUBLICA DEL ESTADO, SU ADMINISTRACION Y FISCALIZACION SUPERIOR
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
-
-### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
+### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ## TITULO DECIMO SEGUNDO. DE LA EDUCACION PUBLICA DEL ESTADO
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+## TITULO NOVENO. DEL PODER JUDICIAL
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
+## TITULO DECIMO. DEL MUNICIPIO LIBRE
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
 ## TITULO DECIMO CUARTO. DE LA ADMINISTRACION PUBLICA
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ### CAPITULO UNICO
 
@@ -2922,3 +2946,35 @@ PRIMERO: Túrnese el presente Decreto a los Ayuntamientos del Estado, para los e
 SEGUNDO: Una vez que se tengan Actas de los Ayuntamientos, por las que se aprueba o desecha el presente, llévese a cabo el cómputo correspondiente y emítase la declaratoria de validez correspondiente.
 
 TERCERO: El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE MARZO DE 2005.
+
+DECRETO NO. 29 QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION
+
+###### ARTICULO PRIMERO.
+
+Una vez aprobado el presente Decreto túrnese a los Ayuntamientos Municipales de nuestro Estado, a efecto de que la sancionen y emitan su opinión a esta Legislatura en el término de treinta días, lo anterior para dar cumplimiento a la fracción III del Artículo 125 de la Constitución Política del Estado Libre y Soberano de Guerrero.
+
+###### ARTICULO SEGUNDO.
+
+Una vez realizado el trámite señalado en el Artículo Primero Transitorio de este Decreto, remítase al Gobernador del Estado para que ordene su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE MARZO DE 2005.
+
+DECRETO NO. 50 QUE REFORMA EL TERCER PARRAFO DEL ART. 95 DE LA CONSTITUCION
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Ayuntamientos que hayan de instalarse el 2 de diciembre del 2005 durarán en su encargo hasta el 31 de diciembre del 2008.
+
+###### ARTICULO TERCERO.
+
+Remítase el presente Decreto a los Honorables Ayuntamientos de la Entidad, para los efectos de lo dispuesto por el artículo 125 fracción III de la Constitución Política del Estado de Guerrero y oportunamente expídase el acuerdo de ratificación respectivo.
