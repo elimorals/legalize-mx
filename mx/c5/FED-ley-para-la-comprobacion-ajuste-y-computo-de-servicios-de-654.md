@@ -4,7 +4,7 @@ identifier: "FED-ley-para-la-comprobacion-ajuste-y-computo-de-servicios-de-654"
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-24"
-last_updated: "1984-12-24"
+last_updated: "1997-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=654&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCACSAM"
 
 LEY PARA LA COMPROBACION, AJUSTE Y COMPUTO DE SERVICIOS DE LA ARMADA DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1997.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el lunes 24 de diciembre de 1984.
 
@@ -48,9 +48,11 @@ El tiempo de servicios del personal de la Armada de México, se contará a parti
 
 Los servicios prestados por el personal de la Armada serán comprobados, ajustados y computados de conformidad con la documentación que obre en los expedientes respectivos, formados en el Archivo General de la Armada, y a falta de éstos, con los documentos certificados que aporten los interesados.
 
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 3o.
 
-Los servicios prestados por el personal de la Armada serán anotados en un documento que se denominará Hoja de Servicios, que será formulada por el Estado Mayor de la Armada, tratándose de Almirantes, Capitanes y Oficiales de la Milicia Permanente, y por el Organo que coordine los Servicios Administrativos respecto del personal auxiliar.
+Los servicios prestados por el personal de la Armada de México se anotarán en un documento denominado Hoja de Servicios, que será formulada por el Estado Mayor General de la Armada, la Oficialía Mayor o la unidad administrativa que corresponda conforme al reglamento respectivo.
 
 ###### ARTICULO 4o.
 
@@ -186,15 +188,25 @@ Los abonos a que se refiere esta Ley se anotarán al cerrarse las Hojas de Servi
 
 De acuerdo a lo dispuesto en este capítulo, el tiempo de servicios puede estar sujeto a deducciones o aumentos, la antigüedad en la jerarquía sólo lo será en deducciones.
 
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 21.
 
-Se aumentará, abonándose tiempo doble de servicios a los elementos de la Armada por:
+El tiempo de servicios prestados por elementos de la Armada de México, se aumentará de la forma siguiente:
 
-I.- El tiempo en campaña.
+I.- Se computará tiempo doble, el de la duración de:
 
-II.- Prestar servicios en salas militares donde se interne a enfermos con padecimientos infecto-contagiosos.
+a) Campañas u operaciones de guerra;
 
-III.- Prestar servicios en trabajos peligrosos de radiología o nucleares.
+b) Singladuras;
+
+c) Servicios peligrosos de radiología o nucleares;
+
+d) Vigilancia y protección armada de instalaciones nucleoeléctricas, y
+
+e) Atención a enfermos infectocontagiosos.
+
+II.- Con tiempo extra de un día por cuatro horas de vuelo o de inmersión.
 
 ###### ARTICULO 22.
 
@@ -202,9 +214,15 @@ A los miembros de la Armada de México que se hayan encontrado en cualquiera de 
 
 I.- A los que hubieren estado separados del servicio activo por licencia ilimitada, así como por haber permanecido sustraidos al servicio por cualquier causa no imputable a la Armada de México, el tiempo que dure la licencia o substracción.
 
-II.- A los que hayan sido condenados a pena temporal por cualquier delito, se les deducirá de la antigüedad y tiempo de servicios todo el de la sentencia, con excepción del tiempo que presten en el servicio activo, cuando obtengan libertad preparatoria o se les substituya la pena por la de amonestación.
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
-En caso de inhabilitación, se deducirá de una y de otro todo el tiempo de ésta así como el de la duración en caso de suspensión.
+II.- A los que hayan sido sentenciados con pena privativa de la libertad, se les deducirá:
+
+a) Del tiempo de servicios, todo el de la sentencia, con excepción del que hayan prestado en el servicio activo ya sea porque hayan obtenido su libertad preparatoria o se les haya sustituido la pena por amonestación, y
+
+b) De la antigüedad, todo el tiempo de la sentencia, excepto cuando se les sustituya la pena por amonestación.
+
+En caso de inhabilitación, se deducirá de uno y de otra todo el tiempo de ésta, así como el de la duración en caso de suspensión.
 
 III.- A los que hayan disfrutado de retiros, se les descontará de la antigüedad y tiempo de servicios todo el que duró esta situación.
 
@@ -241,3 +259,11 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Dia
 México, D. F., a 14 de diciembre de 1984.- Celso Humberto Delgado Ramírez.-S. P.-Enrique Soto Izquierdo.-D. P.-Rafael Armando Herrera Morales.-S. S.-Arturo Contreras Cuevas.-D. S.-Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de diciembre de mil novecientos ochenta y cuatro.- Miguel de la Madrid Hurtado.- Rúbrica.- El Secretario de Marina, Miguel Angel Gómez Ortega.- Rúbrica.-El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 26 DE DICIEMBRE DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las deducciones en el tiempo de servicio y antigüedad que se encuentren en trámite, se harán de conformidad con el artículo 22, fracción II, de la Ley para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México, vigente con anterioridad a la entrada en vigor del presente Decreto.
