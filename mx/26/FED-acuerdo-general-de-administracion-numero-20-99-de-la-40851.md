@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-20-99-de-la-40851"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-06-01"
-last_updated: "1999-06-01"
+last_updated: "2001-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40851&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1999-06-01"
 
 ACUERDO GENERAL DE ADMINISTRACION 20/99 DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACION 6/2001 DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL S.J.F.G., TOMO XIV, AGOSTO DE 2001, PAGINA 1459, EL PRESENTE ACUERDO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XII, Agosto de 2000, página 1253.
 
@@ -948,3 +950,21 @@ QUINTO.- Las personas físicas o morales que el día anterior a la entrada en vi
 SEXTO.- Publíquese en el Semanario Judicial de la Federación y su Gaceta.
 
 Así lo acordó y firma el Ministro Genaro David Góngora Pimentel, Presidente de la Suprema Corte de Justicia de la Nación, el primer día del mes de junio de mil novecientos noventa y nueve, ante el secretario de Finanzas y Servicios Administrativos y el secretario de la Contraloría y Gestión Administrativa, de la Suprema Corte de Justicia de la Nación.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+S.J.F.G., TOMO XIV, AGOSTO DE 2001, PAGINA 1459.
+
+PRIMERO.- El presente Acuerdo General entrará en vigor a los quince días naturales contados a partir del día siguiente de su expedición.
+
+SEGUNDO.- A partir de la entrada en vigor de este Acuerdo General se abroga el Acuerdo General de Administración 20/99 de la Presidencia de la Suprema Corte de Justicia de la Nación, emitido el primero de junio de mil novecientos noventa y nueve, por el que se establecen los procedimientos para la contratación de obras, adquisición y desincorporación de bienes, usos y servicios requeridos por la Suprema Corte de Justicia de la Nación, así como las circulares y otras disposiciones de carácter general que se hayan emitido con base en ese acuerdo.
+
+TERCERO.- Todos los procedimientos de contratación iniciados durante la vigencia del Acuerdo General de Administración 20/99 precisado en el artículo anterior que se encuentren pendientes de conclusión, se continuarán tramitando hasta su terminación conforme a las disposiciones de dicho acuerdo, salvo en los casos no previstos en donde se atenderá a las disposiciones aplicables de este Acuerdo General que decida el Comité.
+
+CUARTO.- Las personas físicas o morales que al día anterior a la entrada en vigor del presente Acuerdo General, tengan vigente su registro en el Padrón Único de Proveedores, Prestadores de Servicios y Contratistas de la Suprema Corte conforme a lo dispuesto en el Acuerdo General de Administración 20/99 de la Presidencia, y que tengan satisfechos los requisitos señalados en el presente Acuerdo General pasarán a integrar el Catálogo de Proveedores, prestadores de servicios y contratistas.
+
+QUINTO.- Tratándose de procedimientos de contratación que se encuentren en proceso y que no se tramitaran conforme a lo dispuesto en el Acuerdo General de Administración 20/99 de la Presidencia de la Suprema Corte, pero que se encuentren regulados en el presente Acuerdo General se concluirán conforme al procedimiento en que fueron autorizados.
+
+SEXTO.- Cuando se presente alguna queja o inconformidad por los proveedores, prestadores de servicios o contratistas con motivo de los procedimientos regulados en este Acuerdo General, se remitirá en principio al área involucrada para su gestión y posteriormente a Control Interno quien la analizará, realizará la investigación en caso de existir presunción de irregularidad y lo presentará al Comité para su resolución. Los procedimientos no se suspenderán sino a petición de Control Interno.
+
+SÉPTIMO.- Publíquese en el Semanario Judicial de la Federación y su Gaceta.
