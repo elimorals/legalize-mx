@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-penales-para-el-estado-de-nayarit-1101
 country: "mx"
 rank: "codigo"
 publication_date: "1969-11-29"
-last_updated: "1969-11-29"
+last_updated: "1977-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 1977.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1969.
 
@@ -81,7 +81,7 @@ El Ministerio Público cuidará de que se cumplan debidamente las sentencias jud
 
 ## TITULO PRIMERO. REGLAS GENERALES PARA EL PROCEDIMIENTO PENAL
 
-### CAPITULO I. COMPETENCIA
+### CAPITULO II. FORMALIDADES
 
 ###### ARTICULO 5o.
 
@@ -109,7 +109,7 @@ I.- Cuando el juez que sea competente para conocer del asunto, se encuentre impe
 
 II.- Cuando la apertura o continuación de la causa ante el juez competente presente peligros para la seguridad o el orden públicos;
 
-III.- Cuando el inculpado sea de tal peligrosidad, que la cárcel del lugar no presente las seguridades debidas; y,
+III.- Cuando el inculpado sea de tal peligrosidad, que la cárcel del lugar no presente las seguridades debidas; y
 
 IV.- Cuando corra peligro la integridad corporal del inculpado si continúa su estancia dentro de la jurisdicción del juez competente.
 
@@ -125,7 +125,7 @@ Cuando los detenidos fueren reclamados por autoridades de dos o más partidos ju
 
 Cuando los detenidos o los inculpados sean reclamados por dos o más Juzgados del Estado, el tribunal de competencia resolverá lo procedente.
 
-### CAPITULO II. FORMALIDADES
+### CAPITULO I. COMPETENCIA
 
 ###### ARTICULO 12.
 
@@ -2717,6 +2717,50 @@ B) Un certificado expedido por la autoridad municipal del lugar donde hubiere re
 
 Concedida la rehabilitación, se hará del conocimiento del tribunal que condenó, para que haga la anotación correspondiente en el proceso.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 1977)</small>
+
+###### ARTICULO 480.
+
+El Departamento de Prevención y Readaptación Social de Nayarit, dependiente de la Dirección General de Gobernación del Estado, tendrá a su cargo la prevención general de la delincuencia, el tratamiento de los delincuentes adultos y los menores infractores en los términos que señala el artículo siguiente.
+
+> <small>(ADICIONADO, P.O.14 DE MAYO DE 1977)</small>
+
+###### ARTICULO 481.
+
+Compete al Departamento de Prevención y Readaptación Social:
+
+I.- Dirigir y ordenar la Prevención y Readaptación Social de la delincuencia en el Estado de Nayarit, proponiendo a las autoridades competentes las medidas que juzgue pertinentes;
+
+II.- Crear y organizar museos criminólogos, laboratorios, talleres penales, colonias y campamentos penales, reformatorios, instituciones psiquiátricas y demás locales para delincuentes sanos y anormales;
+
+III.- Crear y organizar un Instituto de Reeducación Profesional;
+
+IV.- Crear un patronato de reos liberados y una Sociedad de Legislación Criminal;
+
+V.- Conceder permiso a los reos que se encuentren en las condiciones de la fracción III del artículo 75 del Código Penal, para salir del lugar asignado para su residencia, a buscar trabajo o para recibir la atención médica que no pueda serle proporcionada dentro del Estado;
+
+VI.- Gestionar de la Dirección de Seguridad Pública Municipal de Tepic, y de las Policías Municipales, que se haga efectiva la vigilancia sobre los menores infractores, los enfermos mentales y los que disfruten de libertad condicional;
+
+VII.- Vigilar la ejecución de las sanciones impuestas por el Poder Judicial del Estado;
+
+VIII.- Resolver las agravaciones y las atenuaciones de los reos y reglamentar las relaciones sexuales de éstos;
+
+IX.- Resolver en los casos del artículo 69 del Código Penal, sobre la modificación de las sanciones impuestas, cuando haya incompatibilidad entre esa sanción y la edad, sexo, salud y la constitución física del reo;
+
+X.- Conceder la libertad condicional y aplicar la retención, previo estudio que se haga en cada caso, de la conducta del reo y del efecto que le produzca el tratamiento;
+
+XI.- Vigilar que en los establecimientos penales se cumpla con el reglamento respectivo;
+
+XII.- Hacer la designación de los reos que deban ingresar en las colonias y campamentos penales;
+
+XIII.- Resolver sobre la distribución y aplicación de los instrumentos y objetos del delito para que aquellos que no sean aprovechados por el Gobierno del Estado, se remitan a la Dirección General de Finanzas y Administración con objeto de que sean vendidos y su valor ingrese a la referida Dirección;
+
+XIV.- Formular el Reglamento interior del Departamento, sometiéndolo a la aprobación del C. Gobernador Constitucional del Estado;
+
+XV.- Nombrar el personal del Instituto Tutelar para Menores vigilando el funcionamiento de dicha Institución;
+
+XVI.- Las demás que le determinen las Leyes y Reglamento interior.
+
 ## TRANSITORIOS
 
 1o. Este Código entrará en vigor a partir del día siguiente a su publicación.
@@ -2748,3 +2792,9 @@ Dr. Julián Gascón Mercado.- Rúb.
 El Secretario General de Gobierno,
 
 Lic. Martín Espinosa Soto.- Rúb.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE MAYO DE 1977
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
