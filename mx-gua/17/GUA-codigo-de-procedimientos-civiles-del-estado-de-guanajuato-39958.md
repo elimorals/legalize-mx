@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1988-09-20"
+last_updated: "1988-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1988.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -3153,7 +3153,9 @@ II.- La cantidad que se ofrezca por los bienes licitados;
 
 III.- La cantidad que se dé de contado y los términos en que se haya de pagar el resto;
 
-IV.- El interés que deba causar la suma que se quede reconociendo, el que no puede ser menor del nueve por ciento anual, y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 1988)</small>
+
+IV.- El interés que deba causar la suma que se quede reconociendo, el que no puede ser menor del setenta y cinco por ciento del costo porcentual promedio que fije el Banco de México (CPP Banxico), observándose para su determinación lo dispuesto por el artículo 1895 del Código Civil; y
 
 V.- La sumisión expresa al juez que conozca del negocio para que haga cumplir el contrato.
 
@@ -4858,6 +4860,12 @@ P.O. 5 DE ENERO DE 1988.
 El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 20 DE SEPTIEMBRE DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 1988.
 
 ###### ARTICULO UNICO.
 
