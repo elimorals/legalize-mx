@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1930-01-22"
+last_updated: "1930-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1930.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1930.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -255,11 +255,11 @@ Tabares, con las de Acapulco de Juárez, Coyuca de Benítez, San Marcos y Tecoan
 
 Zaragoza, con las de Huamuxtitlán, Alpoyeca, Xochihuehuetlán, Cualac y Olinalá; su Cabecera Huamuxtitlán.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1930)</small>
+
 ###### Artículo 23.
 
-La formación de los quince Distritos enumerados en el artículo anterior, tiene por objeto demarcar la administración de justicia en los ramos civil y penal, determinando la jurisdicción de los Jueces de 1ª. Instancia; señalar las zonas fiscales para demarcar asimismo el funcionamiento de las oficinas rentísticas del Estado; y formar las entidades electorales para facilitar las elecciones de Poderes del mismo.
-
-La ley orgánica electoral, reglamentará la materia relativa a elecciones de funcionarios municipales y los del Estado que fueren de elección popular.
+La formación de los quince Distritos enumerados en el artículo anterior, tiene por objeto demarcar la Administración de Justicia en los ramos Civil y Penal, determinando la jurisdicción de los Jueces de Primera Instancia; señalar las zonas fiscales para demarcar asimismo el funcionamiento de las Oficinas Rentísticas del Estado.
 
 ###### Artículo 24.
 
@@ -271,9 +271,13 @@ No podrán reunirse dos o más de estos Poderes en una sola persona o Corporaci�
 
 El Poder Legislativo reside en una Cámara de Diputados que se denominará "Congreso del Estado," electos directa y popularmente del modo y en la forma que disponga la ley electoral.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1930)</small>
+
 ###### Artículo 26.
 
-Por cada Distrito electoral se elegirá un Diputado propietario y un suplente. Para los efectos de este artículo, se divide el Estado en quince Distritos electorales.
+Por cada Distrito Electoral se elegirá un Diputado Propietario y un Suplente. Para los efectos de este artículo, se divide el Estado en nueve Distritos Electorales, que, de acuerdo con el número de habitantes formará el Ejecutivo del Estado tres meses antes de que se verifiquen las elecciones.
+
+La Ley Orgánica Electoral, reglamentará la materia relativa a elecciones de funcionarios Municipales y los del Estado que fueren de elección popular.
 
 ###### Artículo 27.
 
@@ -1108,3 +1112,7 @@ Este Decreto comenzará a surtir sus efectos, a partir de la fecha de su publica
 P.O. 22 DE ENERO DE 1930.
 
 Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación.
+
+P.O. 9 DE ABRIL DE 1930.
+
+Este Decreto comenzará a surtir sus efectos, a partir de la fecha de su publicación.
