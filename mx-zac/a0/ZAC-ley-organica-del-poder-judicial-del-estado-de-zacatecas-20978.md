@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-judicial-del-estado-de-zacatecas-20978"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-04"
-last_updated: "2002-11-06"
+last_updated: "2003-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2003.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 4 de abril del 2001.
 
@@ -167,9 +167,17 @@ I. El Tribunal Superior de Justicia;
 
 II. El Tribunal Estatal Electoral;
 
-III. Los Juzgados de Primera Instancia; y
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2003)</small>
 
-IV. Los Juzgados Municipales.
+III. El Tribunal de lo Contencioso Administrativo;
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2003)</small>
+
+IV. Los Juzgados de Primera Instancia; y
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2003)</small>
+
+V. Los Juzgados Municipales.
 
 ###### Artículo 5º.
 
@@ -825,7 +833,7 @@ II. Conocerán, en materia familiar, de las cuestiones de alimentos;
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
-III. Conocerán de todos los juicios que conforme a la ley, deban tramitarse por la vía de jurisdicción voluntaria, incluyendo los juicios sobre rectificación de actas del Registro Civil a que se refiere el capítulo VIII, título tercero, libro tercero del Código de Procedimientos Civiles del Estado;
+III. Conocerán de todos los juicios que conforme a la ley, deban tramitarse por la vía de jurisdicción voluntaria, incluyendo los juicios sobre rectificación de actas del Registro Civil a que se refiere el capítulo VIII, título tercero, libro tercero del código de Procedimientos Civiles del Estado;
 
 IV. Conocerán de los delitos que de conformidad con el Código de Procedimientos Penales, deban tramitarse en vía sumaria;
 
@@ -1405,7 +1413,7 @@ V. Proponer a la Comisión de Administración el nombramiento de los servidores 
 
 VI. Aprobar el reglamento interior y dictar los acuerdos generales en las materias de su competencia;
 
-VII. Fijar los días y horas en que deba sesionar la Sala, tomando en cuenta los plazos electorales.
+VII. Fijar los días y horas en que deba sesionar la Sala, tomando en cuenta los plazos electorales;
 
 VIII. Conocer y resolver sobre las excusas o impedimentos de los Magistrados Electorales que la integran;
 
@@ -1931,6 +1939,22 @@ Una vez concluido el plazo a que se refiere el artículo anterior el Tribunal Es
 
 Serán considerados de confianza los siguientes servidores y empleados del Tribunal Estatal Electoral: el Secretario de Acuerdos, los Secretarios de Estudio y Cuenta, los Actuarios, las personas designadas por el Presidente de la Sala para auxiliarlos en las funciones administrativas, el Secretario Administrativo de la Comisión de Administración, los coordinadores, los directores, los jefes de departamento, el personal de apoyo y asesoría de los antes mencionados y todos aquellos que tengan a su cargo funciones de vigilancia, control, manejo de recursos, adquisiciones o inventarios.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 11 DE ENERO DE 2003)</small>
+
+## TITULO SEXTO. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 11 DE ENERO DE 2003)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2003)</small>
+
+###### Artículo 126.
+
+Organización Atribuciones y Funcionamiento
+
+El Tribunal de lo Contencioso Administrativo tendrá la organización, funcionamiento, competencia, procedimiento y recursos que disponga su propia ley.
+
 ## ARTICULOS TRANSITORIOS
 
 PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado, con las salvedades a que se refieren los siguientes artículos transitorios.
@@ -1979,6 +2003,12 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicaci�
 
 P.O. 6 DE NOVIEMBRE DE 2002.
 
-DECRETO No 128
+DECRETO No. 128
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 11 DE ENERO DE 2003
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- Al inicio de vigencia del presente decreto, quedarán derogadas las disposiciones de ley o de reglamento, que se opongan a aquél.
