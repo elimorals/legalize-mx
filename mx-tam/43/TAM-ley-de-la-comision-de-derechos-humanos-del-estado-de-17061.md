@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-comision-de-derechos-humanos-del-estado-de-17061"
 country: "mx"
 rank: "ley"
 publication_date: "1994-02-05"
-last_updated: "1994-02-05"
+last_updated: "2002-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS
 
-LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS
+LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 5 de febrero de 1994.
 
@@ -47,9 +47,11 @@ LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS
 
 La presente Ley es de orden público e interés social, reglamentaria del Artículo 126 de la Constitución Política del Estado.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2002)</small>
+
 ###### ARTICULO 2.
 
-La Comisión de Derechos Humanos del Estado de Tamaulipas es un organismo público descentralizado con personalidad jurídica y patrimonio propios, que tiene por objeto esencial la protección, observancia, promoción, estudio y difusión de los derechos humanos previstos por el orden jurídico mexicano.
+La Comisión de Derechos Humanos del Estado de Tamaulipas es un organismo público autónomo con personalidad jurídica y patrimonio propio, que tiene por objeto esencial la protección, observancia, promoción, estudio y difusión de los derechos humanos previstos por el orden jurídico mexicano.
 
 ###### ARTICULO 3.
 
@@ -67,9 +69,11 @@ El personal de la Comisión manejará de manera confidencial la información o d
 
 La Comisión residirá en la capital del Estado, sin perjuicio de las oficinas que instale en cualquier otro lugar de la Entidad.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2002)</small>
+
 ###### ARTICULO 6.
 
-La Comisión, en el desempeño de sus funciones, actuará con autonomía e independencia.
+La Comisión será independiente en el desempeño de sus funciones y para la adopción de sus decisiones.
 
 ## TITULO SEGUNDO. ORGANIZACION DE LA COMISION DE DERECHOS HUMANOS
 
@@ -239,7 +243,9 @@ VII.- Aprobar y emitir las recomendaciones y acuerdos que resulten de las invest
 
 VIII.- Enviar un informe general al Titular del Poder Ejecutivo y al Congreso del Estado en el mes de enero de cada año, y comparecer ante el Pleno Legislativo cuando así se solicite;
 
-IX.- Elaborar el proyecto de presupuesto de egresos de la Comisión y el respectivo informe sobre su ejercicio;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2002)</small>
+
+IX.- Elaborar el proyecto de presupuesto de egresos de la Comisión, con base en las previsiones de ingreso y del gasto público estatal que realice la Secretaría de Finanzas, y el respectivo informe sobre su ejercicio.
 
 X.- Celebrar en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con autoridades, servidores públicos y organismos de defensa de los derechos humanos, así como con instituciones educativas y asociaciones culturales, para el mejor cumplimiento de los fines de la Comisión; y
 
@@ -547,15 +553,17 @@ El personal que preste sus servicios a la Comisión, serán trabajadores de conf
 
 ## TITULO SEXTO. DEL PATRIMONIO Y PRESUPUESTO
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2002)</small>
+
 ###### ARTICULO 66.
 
-La Comisión Estatal de Derechos Humanos contará con patrimonio propio.
+El patrimonio de la Comisión de Derechos Humanos del Estado se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se señalen en su presupuesto de egresos.
 
-El Gobierno del Estado deberá proporcionarle los recursos materiales y financieros para su debido funcionamiento.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 67.
 
-La Comisión elaborará su anteproyecto de presupuesto anual de egresos, el cual remitirá al Titular del Ejecutivo Estatal para el trámite correspondiente.
+La Comisión remitirá su proyecto de presupuesto anual de egresos al Ejecutivo del Estado durante la segunda quincena del mes de octubre de cada año, por conducto de la Secretaría de Finanzas.
 
 ## TRANSITORIOS
 
@@ -596,3 +604,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Tamaulipas, a los seis días del mes de enero de mil novecientos noventa y cuatro SUFRAGIO EFECTIVO. NO REELECCION.
 
 El Gobernador Constitucional del Estado, MANUEL CAVAZOS LERMA.- El Secretario General de Gobierno, JAIME RODRIGUEZ INURRIGARRO.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+Artículo Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
