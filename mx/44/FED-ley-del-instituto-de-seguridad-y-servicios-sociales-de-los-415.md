@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-415"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-27"
-last_updated: "1985-03-29"
+last_updated: "1985-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=415&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,13 +20,11 @@ abbreviation: "LISSSTE"
 ---
 # LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE ABRIL DE 1985 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE FEBRERO DE 1985.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL 29 DE MARZO DE 1985.</small>
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL D.O.F. DE 1 DE ABRIL DE 1985 NO APLICA AL ARTICULADO DE LA FE DE ERRATAS PUBLICADA EN EL D.O.F. DE 29 DE MARZO DE 1985.</small>
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 27 de diciembre de 1983.
 
@@ -1114,7 +1112,7 @@ Todos los inmuebles adquiridos o construidos por los trabajadores para su propia
 
 (REFORMADO, D.O.F. 7 DE FEBRERO DE 1985) (F. DE E., D.O.F. 29 DE MARZO DE 1985)
 
-Gozarán también de exención los convenios, contratos o actos en los que se hagan constar las correspondientes operaciones, los cuales tendrán el carácter de escritura pública para todos los efectos legales y se inscribirán en el Registro Público de la Propiedad respectivo, incluyendo la constitución del régimen de propiedad en condominio que haga constar el Instituto en relación con los conjuntos que financie o adquiera, sin menoscabo de que el trabajador pueda acudir ante Notario Público de su elección en las operaciones en que sea parte. Los gastos que se causen por los referidos conceptos serán cubiertos por mitad entre el Instituto y los trabajadores; para tal efecto la Junta Directiva tomando como base el arancel que establece los honorarios de los notarios, determinará el porcentaje de reducción de los mismos, sin que dicha reducción pueda ser inferior al 50%. Las exenciones quedarán insubsistentes si los inmuebles fueran enajenados por los trabajadores o destinados a otros fines.
+Gozarán también de exención los convenios, contratos o actos en los que se hagan constar las correspondientes operaciones, los cuales tendrán el carácter de escritura pública para todos los efectos legales y se inscribirán en el Registro Público de la Propiedad respectivo, incluyendo la constitución del régimen de propiedad en condominio que haga constar el Instituto en relación con los conjuntos que financie o adquiera, sin menoscabo de que el trabajador pueda acudir ante Notario Público de su elección en las operaciones en que sea parte. Los gastos que se causen por los referidos conceptos serán cubiertos por mitad entre el Instituto y los Trabajadores; para tal efecto la Junta Directiva tomando como base el arancel que establece los honorarios de los notarios, determinará el porcentaje de reducción de los mismos, sin que dicha reducción pueda ser inferior al 50%. Las exenciones quedarán insubsistentes si los inmuebles fueran enajenados por los trabajadores o destinados a otros fines.
 
 El Instituto gestionará los convenios correspondientes con los gobiernos de los Estados y Municipios para que los trabajadores protegidos por esta Ley gocen de las exenciones de impuestos que correspondan a la propiedad raíz, en los términos de este artículo.
 
