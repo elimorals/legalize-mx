@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-notariado-para-el-estado-de-oaxaca-6943"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-30"
-last_updated: "1994-07-30"
+last_updated: "2001-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY DEL NOTARIADO PARA EL ESTADO DE OAXACA
 
-LEY DEL NOTARIADO PARA EL ESTADO DE OAXACA.
+LEY DEL NOTARIADO PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DEL 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 30 de julio de 1994.
 
@@ -241,7 +241,9 @@ El Notario inscribirá su patente en la Secretaría General de Gobierno, en el T
 
 Si un Notario de Número no inicia sus funciones dentro de los noventa días hábiles siguientes a la fecha de la protesta respectiva, sin justificar su dilación, quedará sin efecto la patente.
 
-## TITULO TERCERO. DE LOS NOTARIOS ASOCIADOS Y SUBSTITUTOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE MARZO DEL 2001)</small>
+
+## TITULO TERCERO. DE LOS NOTARIOS ASOCIADOS, SUBSTITUTOS Y AUXILIARES
 
 ###### ARTICULO 26.
 
@@ -253,7 +255,29 @@ Al faltar definitivamente uno de los Notarios asociados, se disolverá la asocia
 
 ###### ARTICULO 27.
 
-Todos los Notarios de Número, están facultados para tener substitutos, su designación será hecha a petición del Notario de Número y los aspirantes deberán reunir los requisitos a que se contrae el artículo 12 de esta Ley. El Ejecutivo del Estado expedirá una autorización para que pueda substituir al Notario solicitante en sus ausencias temporales que no excedan de treinta días por año.
+Todos los Notarios de Número, están facultados para tener substitutos, su designación será hecha a petición del Notario Número y los aspirantes deberán reunir los requisitos a que se contrae el artículo 12 de esta Ley. El Ejecutivo del Estado expedirá una autorización para que pueda substituir al Notario solicitante en sus ausencias temporales que no excedan de treinta días por año.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DEL 2001)</small>
+
+ARTICULO 27 BIS.- El Notario de Número que haya cumplido diez años de ejercicio continuado, tendrá derecho a proponer al Ejecutivo del Estado, la persona a quien se le podrá extender la patente de Notario Auxiliar.
+
+Para obtener la patente de Notario Auxiliar, la persona propuesta deberá acreditar los requisitos previstos en el artículo 12 de esta Ley, con excepción de los establecidos en las Fracciones III y X; contar con treinta años de edad, rendir la protesta y registrar su patente y firma; una vez acreditado todo lo anterior, la Secretaría General de Gobierno mandará hacer la publicación correspondiente.
+
+El Notario Auxiliar deberá ajustar su actuación a las siguientes disposiciones:
+
+I.- Tendrá las mismas facultades para ejercer las funciones notariales que el Notario de Número;
+
+> <small>(F. DE E., P.O. 26 DE MAYO DEL 2001)</small>
+
+II.- Actuará en el mismo protocolo que el Notario de Número, utilizará el sello del titular y hará constar en los instrumentos su carácter de auxiliar;
+
+III.- En caso de ausencia del Notario de Número, el Notario Auxiliar lo suplirá con igual capacidad y responsabilidad al actuar, excepto en los casos en que corresponda actuar al Notario Substituto en términos de lo dispuesto por el artículo 27 de esta Ley;
+
+IV.- Cuando entre en funciones el Notario Substituto, el Notario Auxiliar actuará como si estuviera el Notario de Número; y
+
+V.- En caso de cesación definitiva del Notario de Número, la titularidad de la Notaria quedará vacante, cesando también las funciones del Notario Auxiliar; si éste último quisiera acceder a la titularidad de la Notaria, deberá cubrir todos y cada uno de los requisitos establecidos en el artículo 12 de esta Ley, en igualdad de condiciones que otros aspirantes, solo en caso de duda en el otorgamiento de la titularidad, el Notario Auxiliar tendrá preferencias sobre los demás.
+
+El Notario de Número tiene en todo tiempo la facultad discrecional de solicitar al Gobernador del Estado la revocación de la patente del Notario Auxiliar, quien por ese solo hecho, dejará de actuar como tal.
 
 ## TITULO CUARTO. DEL EJERCICIO NOTARIAL
 
@@ -261,7 +285,7 @@ Todos los Notarios de Número, están facultados para tener substitutos, su desi
 
 ###### ARTICULO 28.
 
-Los Notarios ejercerán sus funciones en el Distrito para el cual fueron designados, en él establecerán su residencia y oficina, y no podrán cambiar el domicilio de su Notaría sin autorización del Titular del Poder Ejecutivo.
+Los Notarios ejercerán sus funciones en el Distrito para el cual fueron designados, en él establecerán su residencia y oficina y no podrán cambiar el domicilio de su Notaría sin autorización del Titular del Poder Ejecutivo.
 
 Para actuar fuera de su Distrito darán aviso previo al Director General de Notarías indicando el nombre del solicitante y el Distrito Judicial en el que actuarán.
 
@@ -1218,3 +1242,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. JOSE ANTONIO ESTEFAN GARFIAS.
 
 Al C.................
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE MARZO DEL 2001.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
