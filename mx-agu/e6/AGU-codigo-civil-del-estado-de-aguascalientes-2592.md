@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "1970-05-03"
+last_updated: "1975-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 1975.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -1855,9 +1855,11 @@ A falta o por imposibilidad de los ascendientes o descendientes, la obligación 
 
 Faltando los parientes a que se refieren las disposiciones anteriores, tienen obligación de ministrar alimentos los parientes colaterales dentro del cuarto grado.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1975)</small>
+
 ###### Artículo 328.
 
-Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores, mientras éstos llegan a la edad de dieciocho meses. También deben alimentar a sus parientes dentro del grado mencionado, que fueren incapaces.
+Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores mientras éstos llegan a la edad de dieciocho años. También deben alimentar a sus parientes dentro del grado mencionado que fueren incapaces.
 
 ###### Artículo 329.
 
@@ -2131,6 +2133,8 @@ Si el que está en posesión de los derechos de padre o de hijo fuere despojado 
 
 DE LA ADOPCION.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1975)</small>
+
 ###### Artículo 378.
 
 EI matrimonio subsecuente de los padres hace que se tengan como nacidos de matrimonio a los hijos habidos antes de su celebración.
@@ -2319,7 +2323,7 @@ DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS BIENES DEL HIJO.
 
 ###### Artículo 413.
 
-Los mayores de cuarenta años, en pleno ejercicio de sus derechos y que no tengan descendientes, pueden adoptar a un menor o a un incapacitado, aun cuando sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que la adopción sea benéfica a éste.
+Los mayores de treinta años, en pleno ejercicio de sus derechos y que no tengan descendientes, pueden adoptar a un menor o a un incapacitado, aún cuando sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que la adopción sea benéfica a éste.
 
 ###### Artículo 414.
 
@@ -15176,3 +15180,7 @@ P.O. 3 DE MAYO DE 1970.
 ###### ARTICULO UNICO.
 
 El presente decreto surtirá sus efectos a los tres días de su publicación en el "Periódico Oficial del Estado".
+
+P.O. 24 DE AGOSTO DE 1975.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
