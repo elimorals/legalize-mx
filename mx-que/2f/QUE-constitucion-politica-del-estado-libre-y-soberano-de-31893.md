@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1929-09-13"
+last_updated: "1929-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 1929.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 1929.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -82,6 +82,10 @@ P.O. 13 DE SEPTIEMBRE DE 1929
 1°.- En tanto se reforma la Ley Orgánica del Municipio Libre, el Municipio de Colón tendrá los mismos límites que tiene como Delegación Municipal.
 
 2°.- Esta ley comenzará a surtir sus efectos a portir (sic) del día 16 de septiembre del año en curso.
+
+P.O. 26 DE DICIEMBRE DE 1929
+
+N. DE. E. EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
 
 ## TITULO SEGUNDO
 
@@ -295,11 +299,11 @@ Del Poder Legislativo.
 
 El Poder Legislativo se deposita en una Asamblea que se denominará "LEGISLATURA DEL ESTADO". Esta se compondrá de representantes del pueblo que serán electos en su totalidad cada cuatro años, directamente por aquél, de acuerdo con la ley electoral.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1929)</small>
 
 ###### Art. 32.
 
-Por cada treinta mil habitantes de cualquier sexo y edad, o fracción mayor de quince mil, se elegirá un diputado propietario y un suplente; pero en ningún caso el número de éstos será menor de nueve propietarios y nueve suplentes, para todo el Estado, y su remuneración no será mayor de doce pesos diarios, cualquiera que sea la denominación que ella tenga.
+Por cada treinta mil habitantes de cualquier sexo o edad, o fracción mayor de quince mil, se elegirá un diputado propietario y un suplente; pero en ningún caso el número de éstos será menor de nueve propietarios y nueve suplentes para todo el Estado.
 
 ###### Art. 33.
 
