@@ -4,7 +4,7 @@ identifier: "QUE-ley-electoral-del-estado-de-queretaro-13245"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-05"
-last_updated: "1996-12-05"
+last_updated: "1999-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,19 +23,13 @@ state: "QUE"
 
 LEY ELECTORAL DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: EL 10 DE DICIEMBRE DE 1999.
 
-Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 5 de diciembre de 1996.
+Ley publicada en el Periódico Oficial del Estado de Querétaro, el 5 de diciembre de 1996.
 
 ENRIQUE BURGOS GARCIA, Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a los habitantes del mismo, sabed que:
 
-LA QUINCUAGESIMA PRIMERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 41 DE LA CONSTITUCION LOCAL Y
-
-CONSIDERANDO:
-
-.
-
-Por lo anteriormente fundado y motivado la H. Legislatura ha tenido a bien expedir la siguiente:
+LA QUINCUAGESIMA PRIMERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 41 DE LA CONSTITUCION LOCAL ...ha tenido a bien expedir la siguiente:
 
 LEY ELECTORAL DEL ESTADO DE QUERETARO
 
@@ -49,9 +43,11 @@ LEY ELECTORAL DEL ESTADO DE QUERETARO
 
 Las normas de esta ley son de orden público, interés social y de observancia general en todo el territorio del Estado. Las autoridades del Estado, las de los municipios, los organismos electorales y los partidos políticos velarán por su estricta aplicación y cumplimiento, promoverán la participación democrática de los ciudadanos y alentarán toda expresión que tienda a fortalecer el régimen de partidos y serán en todo momento colaboradoras con el Instituto Electoral de Querétaro en la preparación y desarrollo de los procesos electorales.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 2.
 
-Esta ley es reglamentaria de los artículos de la Constitución Política del Estado relativos al ejercicio de los derechos políticos de los ciudadanos, la constitución y registro de las organizaciones y partidos políticos estatales, la preparación, desarrollo y vigilancia de los procesos para la elección de los integrantes de los poderes legislativo y ejecutivo y de los ayuntamientos del Estado.
+Esta ley es reglamentaria de los artículos de la Constitución Política del Estado relativos a los derechos y obligaciones político- electorales de los ciudadanos, la organización, constitución, fusión y registro de las organizaciones y partidos políticos estatales, la preparación, desarrollo y vigilancia de los procesos para la elección de los integrantes de los Poderes Legislativo y Ejecutivo y de los Ayuntamientos en el Estado, de igual manera el sistema de medios de impugnación para garantizar la legalidad de los actos y resoluciones electorales.
 
 ###### ARTICULO 3.
 
@@ -85,6 +81,58 @@ III. Participar en las funciones electorales; y
 
 IV. Adherirse en forma individual y voluntaria a los partidos políticos y pertenecer a ellos libremente, en los términos que marca la Ley.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 7
+
+BIS. Es derecho de los ciudadanos queretanos participar como observadores electorales de los actos de preparación y desarrollo de los procesos electorales locales, en la forma y términos que determine el reglamento que para tal efecto expida el Consejo General, de acuerdo a las bases siguientes:
+
+l. Podrán participar solo los ciudadanos que hayan obtenido oportunamente su acreditación ante la autoridad electoral;
+
+II. Los ciudadanos que pretendan actuar como observadores deberán señalar en el escrito de solicitud los datos de identificación personal anexando fotocopias de su credencial para votar con fotografía, y la manifestación expresa de que se conducirán conforme a los principios de imparcialidad, objetividad, certeza y legalidad y sin vínculos a partido político u organización política alguna;
+
+III. La solicitud de registro para participar como observadores electorales, podrá presentarse en forma personal o a través de la organización a la que pertenezcan, ante el Presidente del Consejo General, a partir del inicio del proceso electoral y hasta 30 días antes del día de la elección. El Presidente del Consejo General, dará cuenta de las solicitudes a los propios Consejos, para su aprobación, y a los partidos políticos para su conocimiento, en la siguiente sesión que celebren. La resolución que se emita deberá ser notificada a los solicitantes. El Consejo General garantizará este derecho y resolverá cualquier planteamiento que pudiera presentarse por parte de los ciudadanos o las organizaciones interesadas.
+
+IV. Sólo se otorgará la acreditación a quien cumpla, además de lo anterior, de aquello que señale la convocatoria respectiva, y cumpla con los siguientes requisitos:
+
+a) Ser ciudadano queretano en pleno goce de sus derechos civiles y políticos;
+
+b) No ser, ni haber sido, miembro de dirigencias nacionales, estatales o municipales de partido político u organización política alguna, en los últimos tres años anteriores a la elección;
+
+c) No ser, ni haber sido candidato a puesto de elección popular, en los tres últimos años anteriores a la elección;
+
+d) No ser ministro de algún culto religioso;
+
+e) No ser miembro activo de las fuerzas armadas;
+
+f) No ser cónyuge ni pariente hasta el 3° grado de los candidatos;
+
+g) No haber sido condenado por sentencia ejecutoriada por delito doloso;
+
+h) Asistir a los cursos de capacitación, preparación e información que el efecto imparta el Instituto Electoral de Querétaro, bajo los lineamientos y contenidos que el propio instituto determine, además de aquellos que impartan las propias organizaciones a las que pertenezcan los observadores.
+
+V. Los observadores electorales se abstendrán de:
+
+a) Sustituir u obstaculizar a las autoridades electorales en el ejercicio de sus funciones, e interferir en el desarrollo de las mismas;
+
+b) Hacer proselitismo de cualquier tipo o manifestarse a favor de partido o candidato alguno;
+
+c) Externar cualquier expresión de ofensa, difamación o calumnia en contra de las instituciones, autoridades electorales, partidos políticos o candidato alguno;
+
+d) Declarar el triunfo de candidato alguno; y
+
+e) Reunirse más de tres observadores en el interior de las instalaciones de un mismo órgano electoral, de manera simultánea
+
+VI. Los ciudadanos acreditados como observadores electorales podrán solicitar a los Consejos Electorales que corresponda, la información electoral que requieran para el mejor desarrollo de sus actividades. Dicha información será proporcionada siempre que existan las posibilidades legales, materiales y técnicas para su entrega.
+
+En los contenidos de capacitación que impartan los consejos distritales o municipales, debe contemplarse la figura del observador electoral, así como sus derechos y obligaciones.
+
+Los observadores electorales podrán presentarse el día de la jornada electoral con sus respectivas acreditaciones, en una o varias casillas, así como en cualquiera de los Consejos Electorales, pudiendo ser observador de cualquiera de los actos de la jornada electoral.
+
+Los observadores electorales deberán presentar ante la autoridad electoral, un informe de sus actividades en los términos y plazos que para tal efecto determine el Consejo General. En ningún caso, los informes juicios, opiniones o conclusiones de los observadores tendrán efectos jurídicos sobre el proceso electoral y sus resultados. La observación podrá realizarse en todo en territorio del estado.
+
+VII. Las organizaciones a las que pertenezcan los observadores electorales, a más tardar 20 días antes de la jornada electoral, deberán declarar el origen, monto y aplicación del financiamiento que obtengan para el desarrollo de sus actividades relacionadas directamente con la observación electoral que realicen, mediante informe que presenten al Consejo General, conforme a los lineamientos y bases que determine el reglamento correspondiente.
+
 ###### ARTICULO 8.
 
 Son obligaciones de los ciudadanos y residentes del Estado:
@@ -103,23 +151,61 @@ Los delitos electorales serán previstos por el Código Penal, correspondiendo s
 
 ###### ARTICULO 10.
 
-El Estado se dividirá en el número de distritos uninominales y circunscripciones plurinominales que determine la Legislatura del Estado, a través de la iniciativa de Ley que para tal efecto proponga el Consejo General del Instituto, y de acuerdo con las disposiciones siguientes.
+Para el proceso electoral, se establece una circunscripción plurinominal que comprende todo el territorio del Estado. Los Distrito Electorales uninominales para la elección de diputados por el principio de mayoría relativa se conformarán de la siguiente manera:
+
+Primer Distrito formado por las secciones: 439, 440, 441, 442, 443, 444, 445, 446, 452, 453, 454, 455, 456, 457, 458, 459, 461, 462, 463, 464, 465, 466, 467, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 554, 555, del Municipio de Querétaro.
+
+Segundo Distrito formado por las secciones: 329, 330, 331, 339, 340, 341, 342, 343, 344, 345, 346, 355, 356, 357,358, 359, 360, 381, 395, 396, 397, 416, 427, 435, 447, 448, 449, 450, 460, 468, 469, 481, 482, 483, 484, 543, 544, 545, 546, 547, 548, 551, 552 y 553, del Municipio de Querétaro.
+
+Tercer Distrito formado por las secciones: 266, 267, 268, 269, 270, 272, 273, 274, 279, 280, 281, 282, 283, 284, 289, 290, 291, 292, 293, 294, 297, 298, 299, 300, 301, 302, 306, 307, 308, 309, 310, 311, 312, 314, 315, 316, 317, 321, 322, 323, 324, 325, 517, 520, 521, 522, 527, 528, 530, 531, 533, 534, 535, 536, 537, 538, 540, 541 y 542 del Municipio de Querétaro.
+
+Cuarto Distrito formado por las secciones: 271, 275, 276, 277, 278, 285, 286, 287, 288, 295, 296, 303, 304, 305, 313, 318, 319, 320, 334, 335, 336, 337, 352, 353, 372, 373, 374, 386, 387, 388, 389, 403, 404, 405, 406, 420, 516, 518, 519, 523, 524, 525, 526, 529, 532, 539, 549 y 550, del Municipio de Querétaro.
+
+Quinto Distrito formado por las secciones: 326, 327, 328, 332, 333, 338, 347, 348, 349, 350, 351, 354, 361, 632, 363, 364, 365, 366, 367, 368, 369, 370, 371, 375, 376, 377, 378, 379, 380, 382, 383, 384, 385, 390, 391, 392, 393, 394, 398, 399, 400, 401, 402, 407, 408, 409, 410, 411, 412, 413, 414, 415, 417, 418, 419, 421, 422, 423, 424, 425, 426, 428, 429, 430, 431, 432, 433, 434, 436, 437, 438 y 451, del Municipio de Querétaro.
+
+Sexto Distrito que comprende los municipios de Corregidora y Huimilpan con cabecera en el Municipio de Corregidora.
+
+Séptimo Distrito que comprende los municipios de Amealco de Bonfil y Pedro Escobedo, con cabecera en el Municipio de Amealco de Bonfil.-
+
+Octavo Distrito formado por las secciones: 563, 564, 565, 567, 568, 569, 570, 571, 572, 573, 574, 576, 577, 578, 579, 580, 581, 582, 591, 605, 608, 609, 610, 611, 612, 613, 614, 616, 617, 618, 619, 620, 621, 622, 623, 625, 626, 629, 630, 636, y 639, del Municipio de San Juan del Río.
+
+Noveno Distrito formado por las secciones: 566, 575, 583, 584, 585, 586, 587, 588, 589, 590, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602, 603, 604, 606, 607, 615, 624, 627, 628, 631, 632, 633, 634, 635, 637, 638, 640, 641, 642, y 643, del Municipio de San Juan del Río.
+
+Décimo Distrito comprende el Municipio de El Marqués.
+
+Décimo Primer Distrito comprende los municipios de Tequisquiapan y Ezequiel Montes con cabecera en el Municipio de Tequisquiapan.
+
+Décimo Segundo Distrito comprende los municipios de Cadereyta de Montes y San Joaquín con cabecera en el Municipio de Cadereyta de Montes.
+
+Décimo Tercer Distrito comprende los municipios de Tolimán, Peñamiller y Colón con cabecera en el Municipio de Tolimán.
+
+Décimo Cuarto Distrito comprende los municipios de Pinal de Amoles y Arroyo Seco con cabecera en el Municipio de Pinal de Amoles.
+
+Décimo Quinto Distrito comprende los municipios de Jalpan de Serra y Landa de Matamoros con cabecera en el Municipio de Jalpan de Serra.
+
+Cuando se requiera modificar las estructura territorial de los distritos uninominales y circunscripción plurinominal, lo determinará la Legislatura del Estado, por medio de la iniciativa de ley que para tal efecto proponga el Consejo General del Instituto, y de acuerdo con las disposiciones siguientes.
 
 ## TITULO SEGUNDO
 
-> <small>(F. DE E., P.O. 6 DE MARZO DE 1997)</small>
+> <small>(F. DE E. P.O. 6 DE MARZO DE 1997)</small>
 
 De la elección de los Poderes Legislativo, y Ejecutivo y de los Ayuntamientos
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 11.
 
 Por lo menos dieciocho meses antes de la elección ordinaria de que se trate, el Consejo General ordenará la realización de un estudio técnico para la determinación de los distritos uninominales y circunscripciones plurinominales en que deberá dividirse el Estado para la elección correspondiente.
 
-El estudio técnico a que se refiere el párrafo anterior, deberá regular el número de electores que se agruparán dentro de la demarcación territorial de cada distrito electoral uninominal, y no deberán diferir de un porcentaje mayor al 25% del número que sirva de base para la conformación del distrito.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
-El Estudio técnico contemplará además, la demarcación territorial de cada distrito deberá tener continuidad geográfica, incluyendo íntegros, sin fraccionarse, el territorio de cada uno de los municipios que comprenda. Sólo se exceptuarán de este requisito los municipios cuya población sea superior al número de electores que el estudio técnico determine para la conformación de los distritos uninominales; en este caso se establecerán en tales municipios tantos distritos como veces se incluya el número mencionado.
+El estudio técnico a que se refiere el párrafo anterior, deberá regular a la población que se agrupará dentro de la demarcación territorial de cada distrito electoral uninominal, y no deberá diferir de un porcentaje mayor al 25% del número que sirva de base para la conformación del distrito.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+El Estudio técnico contemplará además, la demarcación territorial de cada distrito, debiendo tener continuidad geográfica, incluyendo íntegros, sin fraccionarse, el territorio de cada uno de los municipios que comprenda. Sólo se exceptuarán de este requisito los municipios cuya población sea superior al promedio que el estudio técnico determine para la conformación de los distritos uninominales; en este caso se establecerán en tales municipios tantos distritos como veces se incluya el número mencionado.
 
 En todo caso, se buscará que los distritos estén equitativamente distribuidos en todo el territorio del Estado, debiendo contar cada uno con una cabecera de distrito, que será la localidad que también lo sea de alguno de los municipios que lo conforman, y que disponga, con respecto de otras posibles, de más y mejores vías y medios de comunicación.
 
@@ -175,7 +261,9 @@ Los partidos políticos sólo podrán registrar simultáneamente para un mismo c
 
 I. Candidatos a diputados por los principios de mayoría relativa y representación proporcional; o
 
-II. Candidatos que integren la fórmula de ayuntamiento por el principio de mayoría relativa, y regidores por el de representación proporcional.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+II. Candidatos a presidentes municipales y regidores que integren la fórmula de ayuntamiento por el principio de mayoría relativa y regidores de representación proporcional.
 
 ###### ARTICULO 19.
 
@@ -195,7 +283,17 @@ El ejercicio del poder ejecutivo se deposita en una sola persona que se denomina
 
 Los gobiernos de los municipios se depositan en cuerpos colegiados que se denominarán "ayuntamientos", los que se compondrán por un presidente municipal que política y administrativamente será el representante del municipio y por el número de regidores en los siguientes términos: en el ayuntamiento de Querétaro habrá nueve regidores de mayoría relativa y seis de representación proporcional; en los de San Juan del Río, Tequisquiapan, Corregidora y El Marqués habrá ocho de mayoría relativa y cinco de representación proporcional, y en los demás habrá seis de mayoría relativa y tres de representación proporcional.
 
-Tanto los regidores de mayoría relativa como los de representación proporcional podrán ser aumentados dependiendo de los factores demográficos, geográficos y socioeconómicos de cada municipio, previo estudio que se iniciará dieciocho meses antes del día de la elección ordinaria de que se trate, por el Consejo General del Instituto Electoral de Querétaro, mismo que será presentado al Congreso del Estado en el siguiente período ordinario de sesiones, para su estudio y, en su caso, aprobación.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+El número de regidores de mayoría relativa, así como los de representación proporcional podrán ser aumentados dependiendo de los factores demográficos, geográficos y socioeconómicos de cada municipio, previo estudio que se iniciará dieciocho meses antes del día de elección ordinaria de que se trate, por el Consejo General del Instituto Electoral de Querétaro, mismo que será presentado a la Legislatura del Estado en el siguiente período ordinario de sesiones, para su estudio y, en su caso, aprobación.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+Cada ayuntamiento designará de entre sus miembros según las necesidades y población del municipio, de uno a tres síndicos municipales.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+El Instituto Electoral de Querétaro, a solicitud de cualquier Ayuntamiento, podrá ser coadyuvante de aquellos en la organización de los procesos de elección de delegados y subdelegados municipales, en los términos que señale la Ley Orgánica Municipal del Estado, los reglamentos respectivos y previo convenio que con apego a la Ley Electoral del Estado de Querétaro se suscriba.
 
 ###### ARTICULO 22.
 
@@ -273,13 +371,17 @@ I. Ejercer la corresponsabilidad que la Constitución Política del Estado y est
 
 II. Gozar de las garantías que esta Ley les otorga para realizar libremente y en todo tiempo sus actividades, respetando siempre los derechos de terceros;
 
-III. Ejercer las prerrogativas y recibir el financiamiento público en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+III. Ejercer las prerrogativas y recibir el financiamiento público de manera individual en los términos de esta Ley;
 
 IV. Ejercer el derecho de réplica en los medios masivos de comunicación en la Entidad, de conformidad con lo que disponga la ley de la materia;
 
 V. Ser propietarios, poseedores o administradores de los bienes muebles e inmuebles que sean indispensables para el cumplimiento directo e inmediato de sus fines;
 
-VI. Postular candidatos en las elecciones estatales y municipales;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+VI. Promover, en los términos en que determine sus documentos internos, una mayor participación de las mujeres en la vida política del país, a través de su postulación; también procurarán postular candidatos a cargos de elección popular a ciudadanos de pertenecientes a las etnias indígenas;
 
 VII. Formar parte de los organismos electorales a través de la acreditación de representantes ante el Consejo General del Instituto Electoral de Querétaro, consejos distritales, municipales y, mesas directivas de casilla, éstos últimos deberán ser ciudadanos queretanos en ejercicio de sus derechos y vecinos del Estado, lo que será siempre y cuando postulen candidatos en la elección que corresponda, observándose lo dispuesto por el artículo 211, en caso de coalición; y
 
@@ -321,7 +423,9 @@ IV. Ostentarse con la denominación; emblema, color o colores que tengan registr
 
 V. Observar los procedimientos que señalen sus estatutos para la postulación de candidatos, cumplir sus normas de afiliación y los sistemas de elección interna de sus cuadros dirigentes y mantener en funcionamiento efectivo a sus órganos de dirección;
 
-VI. Contar con domicilio social para sus órganos directivos
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+VI. Contar con domicilio social para sus órganos directivos y en su caso comunicar oportunamente al Instituto Electoral de Querétaro el cambio del mismo, en un plazo no mayor a 30 días naturales, contados a partir del cambio de domicilio;
 
 VII. Publicar y difundir en las demarcaciones electorales en que participen, la plataforma electoral mínima que el partido y sus candidatos sostendrán en la elección correspondiente, misma que deberá presentarse para su registro ante el Instituto Electoral;
 
@@ -335,13 +439,17 @@ XI. Cumplir los acuerdos que tomen los organismos electorales;
 
 XII. Comunicar al Instituto Electoral de Querétaro cualquier modificación a la declaración de principios, programa de acción y estatutos, dentro de los treinta días siguientes a la fecha en que la realicen;
 
-XIII. Actuar y conducirse sin vínculos de dependencia con partidos políticos, organismos o entidades extranjeras o de ministros de culto;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+XIII. Actuar y conducirse sin vínculos de injerencia política o económica con partidos políticos, organismos o entidades extranjeras, religiosas y de ministros de culto.
 
 XIV. Presentar al Instituto Electoral de Querétaro la documentación contable a que se refieren los artículos 48 y 49 de esta Ley, en las fechas y términos que dichos dispositivos establecen; y
 
 XV. Las demás que establezca esta Ley.
 
 #### Sección Segunda. Del Financiamiento
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 36.
 
@@ -367,37 +475,45 @@ II. Tener acceso a los medios masivos de comunicación en los términos y condic
 
 III. Las demás que les confieran esta Ley y otros ordenamientos legales.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 38.
 
-Las autoridades estatales y municipales están obligadas a conceder gratuitamente y de forma equitativa el uso de locales de propiedad pública, para la realización de la difusión ideológica de los partidos políticos o actos de campaña, de acuerdo a la disponibilidad del inmueble; debiendo el partido político interesado, hacer la solicitud con toda oportunidad.
+Las autoridades estatales y municipales, así como los responsables del préstamo de inmuebles están obligadas a conceder gratuitamente en forma justa y equitativa a su representación electoral el uso de inmuebles de propiedad pública, para la realización de capacitación, educación cívica, difusión ideológica, asambleas, convenciones o actos de campaña de los partidos políticos de acuerdo a la naturaleza física y disponibilidad agendada del inmueble; debiendo el partido político interesado, formular su solicitud por escrito con una anticipación mínima de 10 días naturales. Las autoridades correspondientes formularán y acordarán con los partidos políticos, la agenda que propicie equidad en el uso de los inmuebles, debiendo informar al Instituto Electoral, sobre la agenda acordada.
 
 ###### ARTICULO 39.
 
-La Ley reconoce como fuentes de financiamiento de los partidos políticos:
+La Ley reconoce como fuentes de financiamiento de los partidos políticos, únicamente las siguientes:
 
-I. El público;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+I. El público, que prevalecerá sobre los otros tipos de financiamiento;
 
 II. El privado, y
 
 III. El autofinanciamiento.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 40.
 
 Los partidos políticos que participen en la elección y que hayan conservado su registro, tendrán derecho al financiamiento público, conforme a las siguientes disposiciones:
 
-I. El monto total a distribuir entre los partidos políticos se calculará cada tres años, dentro de
+I. Para el sostenimiento de actividades ordinarias permanentes, educativas, de capacitación, investigación y editoriales:
 
-los cuatro meses siguientes al día de la elección ordinaria, multiplicando el 50% del salario mínimo vigente en el Estado al momento de hacer el cálculo, por el número de ciudadanos inscritos en la lista nominal;
+a) El monto total del financiamiento público estatal a distribuir entre los partidos políticos se calculará anualmente durante el mes de enero, dentro del presupuesto del Instituto Electoral de Querétaro, multiplicando el 20% del salario mínimo general vigente en el Estado, por el número de ciudadanos inscritos en el listado nominal;
 
-II. El 30% de la cantidad que resulte de la operación anterior, se distribuirá de manera igualitaria. El 70% restante, servirá de base para calcular el valor unitario del voto, el que se obtendrá de dividir la cantidad que resulte, entre la votación total efectiva. Cada partido tendrá derecho a recibir la cantidad que resulte de multiplicar el valor unitario del voto por la votación válida que haya obtenido en la elección ordinaria anterior para diputados de mayoría relativa;
+b) El monto de la operación anterior se distribuirá de la siguiente manera: 35% de manera igualitaria y el 65% restante servirá de base para calcular el valor unitario del voto, el que se obtendrá de dividir la cantidad que resulte, entre la votación total efectiva. Cada partido político tendrá derecho a recibir la cantidad que resulte de multiplicar el valor unitario del voto por la votación válida que haya obtenido en la elección ordinaria anterior para diputados de mayoría relativa.
 
-III. El financiamiento público se entregará a los partidos políticos en los tres años siguientes a la
+c) Las cantidades que en su caso determinen para cada partido político, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente por el Consejo General del Instituto Electoral de Querétaro.
 
-elección ordinaria, en los términos que fije el calendario presupuestal del Instituto Electoral de Querétaro, debiendo entregarse el primer año el 20%, el segundo, el 30% y en el último el 50%
+d) Los partidos políticos que no registren fórmulas de candidatos a diputados o ayuntamientos, así como de gobernador, en su caso, les será reducido el financiamiento, en el porcentaje que represente el número de electores de la lista nominal de la elección en que hayan dejado de participar en la elección anterior y que correspondan al Distrito, Ayuntamiento o Estado, dividido entre el número de elecciones que se hayan verificado.
 
-IV. Los partidos políticos que no registren fórmulas de candidatos a diputados o ayuntamientos,
+e) Cada partido político podrá ejercer parte de su financiamiento público en actividades para el desarrollo de fundaciones, asociaciones civiles o institutos de investigación.
 
-así como de gobernador, en su caso, les será reducido el financiamiento, de que habla este artículo, en el porcentaje que represente el número de electores de la lista nominal de la elección en que hayan dejado de participar en la elección anterior y que correspondan al distrito, ayuntamiento o estado, dividido entre el número de elecciones que se hayan verificado.
+II. Para actividades de campañas electorales y de campaña:
+
+En el año de la elección, a cada partido político se le otorgará para gastos electorales y de campaña, un monto equivalente al 50% adicional del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año;
 
 ###### ARTICULO 41.
 
@@ -409,27 +525,39 @@ El financiamiento privado de los partidos comprende las cuotas de sus afiliados,
 
 Por cuotas de los afiliados se entienden las aportaciones que los militantes entregan a los partidos de manera periódica y como consecuencia de una obligación estatutaria.
 
-Las donaciones son las aportaciones que en dinero o en especie las personas físicas, simpatizantes o terceros entregan a los partidos para que éstos cumplan sus fines, mismas que en ningún caso podrán exceder de dos mil quinientas veces el salario mínimo diario en el estado de Querétaro por ejercicio fiscal.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
-Cualquier donación que exceda de 500 veces el salario mínimo vigente en el estado de Querétaro debe ser pública, estableciendo el nombre, domicilio y aportación del donante. Las donaciones en especie, deberán satisfacer los requisitos que establece el Código Civil para el Estado.
+Las donaciones y aportaciones que cada persona física o moral entregue a los partidos políticos para que éstos cumplan sus fines, en ningún caso podrán exceder de tres mil veces el salario mínimo general vigente en el Estado de Querétaro por ejercicio fiscal anual.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+Cualquier donación o aportación que exceda de 250 veces el salario mínimo vigente en el Estado de Querétaro debe ser pública, estableciendo el nombre, domicilio y aportación del donante. Las donaciones en especie, deberán satisfacer los requisitos que establece el Código Civil para el Estado.
 
 Las donaciones a los partidos políticos no estarán exentas de contribuciones estatales o municipales.
 
 De cada cuota o donación, el partido estará obligado a extender un recibo al aportante que cumpla con los requisitos fiscales. El partido está obligado a conservar copia de cada recibo.
 
-Ningún candidato o miembro del partido, sin autorización de éste, podrá recibir aportaciones.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+Ningún candidato o miembro del partido, sin autorización de éste, podrá recibir aportación alguna.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 #### Sección Tercera. De la Contabilidad de los Partidos Políticos
 
 ###### ARTICULO 43.
 
-Quedan prohibidas las donaciones provenientes de:
+Quedan prohibidas las aportaciones o donaciones a los partidos políticos, por sí o por interpósita persona, provenientes de:
 
-I. Cualquier dependencia pública u órgano del Estado, así como de organismos de la administración pública descentralizada;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+I. Los Poderes Ejecutivo, Legislativo y Judicial de la Federación y los estados, los ayuntamientos y cualquier dependencia pública u órgano del Estado; así como de los organismos de la administración pública descentralizada;
 
 II. Personas físicas y morales extranjeras;
 
-III. Iglesias, asociaciones y agrupaciones religiosas y sectas;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+III. Ministros de culto, Iglesias, asociaciones y agrupaciones religiosas y sectas;
 
 IV. Personas morales con fines lucrativos;
 
@@ -443,9 +571,11 @@ Por autofinanciamiento se entienden los ingresos que el partido obtenga por conc
 
 El autofinanciamiento no podrá en ningún caso superar un monto equivalente al 50% del financiamiento público a que tengan derecho.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 45.
 
-Los partidos políticos no podrán autofinanciarse a través de:
+Los partidos políticos no podrán autofinanciar sus actividades a través de:
 
 I. Inversiones en el mercado bursátil;
 
@@ -453,11 +583,17 @@ II. Inversiones en moneda extranjera;
 
 III. Inversiones en el extranjero, y
 
-IV. Créditos con la banca de desarrollo.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+IV. Créditos provenientes de la banca de desarrollo.
 
 ###### ARTICULO 46.
 
 Cada partido tendrá un órgano interno encargado de recibir las donaciones, cuotas y administrar su patrimonio, así como preparar sus balances anuales y de campaña, que deberán presentar al Instituto en los términos previstos en esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+Para llevar a cabo la contabilidad de gastos de campaña, cada candidato a puesto de elección popular en el estado, deberá abrir una cuenta bancaria mancomunada con el responsable o encargado de las finanzas de su órgano directivo estatal, del partido al que pertenezca, en la que se registren todos los ingresos, donaciones, aportaciones y financiamientos económicos que obtenga. De igual forma todos los egresos que se generen deberán ser cubiertos con fondos de esa cuenta.
 
 ###### ARTICULO 47.
 
@@ -465,17 +601,23 @@ Los partidos están obligados a llevar su contabilidad conforme a los principios
 
 El Instituto Electoral de Querétaro, proporcionará a los partidos políticos, la orientación y asesoría necesarias para el cumplimiento de las obligaciones establecidas en la presente sección.
 
-Deberán asimismo conservar toda la documentación comprobatoria que respalde los asientos contables a que se refiere el párrafo anterior por un período de tres años.
+> <small>(REFORMADO P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+El Instituto deberá solicitar a los partidos políticos toda la documentación legal comprobatoria del financiamiento público que respalde los asientos contables a que se refiere el párrafo anterior, quien a su vez deberá entregar al momento de rendir sus cuentas públicas a la Contaduría Mayor de Hacienda.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 48.
 
-Los partidos políticos estatales y nacionales deberán presentar al Consejo General del Instituto, en el término de tres meses contados a partir del cierre de ejercicio de ejercicio fiscal, un balance general e informe de origen y aplicación de recursos con sus relaciones analíticas correspondientes.
+Los partidos políticos deberán presentar al Consejo General del Instituto, por conducto de la Dirección General, cada tres meses contados a partir del cierre del ejercicio fiscal, un balance general e informe de origen y aplicación de recursos con sus relaciones analíticas correspondientes. Al informe deberá acompañarse toda la documentación legal que compruebe fehacientemente la aplicación del gasto, conforme a los objetivos planteados con anterioridad.
 
 La sola falta de presentación de los estados financieros a que se refiere el presente artículo, será causa suficiente para que se suspenda el financiamiento público al partido político infractor, hasta en tanto el Consejo General del Instituto resuelva lo conducente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 49.
 
-Adicionalmente a los estados financieros a que se refiere el artículo anterior, los partidos están obligados a presentar ante el Consejo General del Instituto, en un término de treinta días contados a partir de la fecha del último cierre de campaña de sus candidatos, estados financieros y flujo de efectivo relativo al período de campaña realizados en el año de la elección. Los partidos podrán cumplir con esta obligación presentando informes parciales durante el desarrollo de las campañas.
+Adicionalmente a los estados financieros a que se refiere el artículo anterior, los partidos están obligados a presentar ante el Consejo General, por conducto de la Dirección General, en un término de treinta días contados a partir de la fecha del último cierre de campaña de sus candidatos, estados financieros, documentación legal y flujo de efectivo relativo al período de campaña realizados en el año de la elección. Los partidos podrán cumplir con esta obligación presentando informes parciales durante el desarrollo de las campañas. Los gastos derivados de otra fuente distinta al financiamiento público, no se acreditarán en el cuerpo de la cuenta pública del Instituto.
 
 La falta de presentación de los estados financieros a que se refiere el presente artículo, será causa suficiente para que se suspenda el financiamiento público al partido político infractor, hasta en tanto el Consejo General del Instituto resuelva lo conducente.
 
@@ -491,11 +633,13 @@ La Dirección Ejecutiva de Organización Electoral en un término de tres meses 
 
 Respecto de los informes relativos a los gastos de campaña, el Consejo General emitirá su resolución en un término de quince días contados a partir de la recepción del informe final.
 
+> <small>(REFORMADO P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 51.
 
-El Consejo General del Instituto con base en los dictámenes a que se refiere el artículo anterior, podrá ordenar en todo momento y dentro de los dos años siguientes a la presentación de los estados financieros a que se refieren los artículos 48 y 49, se practiquen las auditorías necesarias, debiendo presentarse un informe de las mismas al propio Consejo General, dentro del término de noventa días de iniciadas éstas. El Consejo resolverá en la misma sesión lo conducente.
+El Consejo General del Instituto con base en los dictámenes a que se refiere el artículo anterior, podrá ordenar en todo momento y dentro de los dos años siguientes a la presentación de los estados financieros y documentación legal a que se refieren los artículos 48 y 49 de esta Ley, se practiquen las auditorías necesarias, debiendo presentar un informe de las mismas al propio Consejo General, dentro del término de noventa días de iniciadas éstas. El Consejo General resolverá lo conducente en la misma sesión.
 
-Siempre será procedente la auditoría, cuando un partido político omita presentar los estados financieros a que se refiere el párrafo anterior y el costo de la misma será con cargo al financiamiento del partido político infractor.
+Siempre será procedente la auditoría, cuando un partido político omita presentar los estados financieros o entregar la documentación legal a que se refiere la Sección Tercera del Capítulo III de esta Ley y el costo de la misma será con cargo al financiamiento del partido político infractor.
 
 ###### ARTICULO 52.
 
@@ -507,7 +651,9 @@ En ejercicio de esta prerrogativa, deberán difundir sus principios ideológicos
 
 El Consejo General del Instituto, designará una comisión encargada de revisar los guiones técnicos para la producción de sus programas, los que deberán ajustarse a las posibilidades técnicas del medio de comunicación respectivo.
 
-El Director Ejecutivo de Capacitación Electoral fungirá como secretario técnico de dicha comisión.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+El Director Ejecutivo de Educación Cívica y Capacitación Electoral fungirá como secretario técnico de dicha comisión.
 
 ###### ARTICULO 54.
 
@@ -518,6 +664,8 @@ El Instituto Electoral, celebrará los convenios con los medios de comunicación
 ## TITULO CUARTO. DEL INSTITUTO ELECTORAL DE QUERETARO
 
 ### CAPITULO I. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 55.
 
@@ -537,7 +685,7 @@ El Consejo General del Instituto Electoral de Querétaro, solicitará a los medi
 
 ###### ARTICULO 58.
 
-La preparación, desarrollo y vigilancia de los procesos electorales estatales es una función pública que se realiza a través de un organismo público, autónomo, permanente, denominado Instituto Electoral de Querétaro, dotado de autonomía constitucional, y patrimonio propio, en cuya integración participan los ciudadanos y los partidos políticos nacionales y estatales, en los términos que ordena la Ley.
+La organización, desarrollo y vigilancia de los procesos electorales estatal y municipales es una función pública que se realiza a través de un organismo público, autónomo, permanente, con personalidad jurídica y patrimonio propios, denominado Instituto Electoral de Querétaro, en cuya integración participan los ciudadanos y los partidos políticos, en los términos que ordena esta Ley.
 
 ### CAPITULO II. De los Órganos de Dirección
 
@@ -555,9 +703,11 @@ IV. Velar por la autenticidad y efectividad del sufragio, y
 
 V. Promover el fortalecimiento de la cultura política y democrática de la ciudadanía queretana.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 60.
 
-El patrimonio del Instituto se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y por las partidas que anualmente se le señalen en el presupuesto de egresos del Estado
+El patrimonio del Instituto se integra con los bienes muebles, inmuebles y derechos que se destinen al cumplimiento de su objeto y por las partidas que anualmente se le señalen en el presupuesto de egresos del Estado.
 
 ###### ARTICULO 61.
 
@@ -587,7 +737,9 @@ El Consejo General se integra de la siguiente manera:
 
 I. Siete consejeros electorales de entre los que será electo el Presidente del Consejo en votación secreta, la que se verificará en la sesión que celebre el Consejo General el treinta de septiembre de cada año. El Presidente durará en su encargo un año y podrá ser reelecto hasta en dos períodos sucesivos;
 
-II. Un secretario ejecutivo que será electo de entre los consejeros electorales por el Consejo General del Instituto Electoral de Querétaro, de la terna propuesta por el Presidente del mismo, y durará en su encargo un año, pudiendo ser reelecto hasta por dos períodos sucesivos; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+II. Un Secretario Ejecutivo, que será electo de entre los Consejeros Electorales, quien deberá contar preferentemente con título de Licenciado en Derecho y durará en su encargo un año, pudiendo ser reelecto hasta por dos períodos sucesivos. Para tal efecto el presidente del Consejo propondrá una terna.
 
 III. Un representante de cada uno de los partidos políticos, que por lo menos hubiesen obtenido el 1.5% de la votación total emitida en la elección inmediata anterior para diputados de mayoría relativa;
 
@@ -605,7 +757,9 @@ II. Estar inscrito en el padrón electoral y contar con su credencial de elector
 
 III. No tener más de setenta años de edad ni menos de treinta al día de la designación;
 
-IV. No ser ministro de culto religioso alguno;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+IV. No ser militar en activo ni ministro de culto religioso alguno;
 
 V. Haber residido en el Estado durante los tres años anteriores a la designación;
 
@@ -617,19 +771,29 @@ VIII. No haber sido postulado a cargo alguno de elección popular en los cinco a
 
 IX. Haber cursado cuando menos bachillerato o su equivalente.
 
+(ADICIONADA, P.O. 10 DE DICIEMBRE DE 1999)(F. DE E., P.O. 14 DE ABRIL DE 2000)
+
+X. No haber sido condenado por delito doloso.
+
 ###### ARTICULO 66.
 
 Los consejeros electorales se elegirán de acuerdo al siguiente procedimiento:
 
-I. La Legislatura del Estado, durante el mes de noviembre del año en que concluya el período para el que fueron electos los consejeros electorales en ejercicio, elegirá a los ciudadanos que habrán de ocupar dicho cargo, pudiendo cada partido político con representación en el congreso presentar una relación hasta de catorce propuestas.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
-II. De las propuestas hechas, se elegirán siete consejeros electorales numerarios y siete supernumerarios, propiciando como criterios de selección el equilibrio en la territorialidad, profesión o actividad y sexo; de conformidad con lo siguiente:
+I.- La Legislatura del Estado, durante el mes de noviembre del año en que concluya el período para el que fueron electos, o cuando fuere necesario por ausencia definitiva de cualquier consejero, elegirán a ciudadanos que habrán de ocupar dicho cargo, pudiendo cada fracción parlamentaria presentar una relación de propuestas.
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+II.- De las propuestas hechas, se elegirán siete Consejeros Electorales numerarios y siete suplentes, debiendo en cada caso designarse por lo menos dos licenciados en derecho, propiciando como criterios de selección el equilibrio en la territorialidad, profesión o actividad y sexo; de conformidad con lo siguiente:
 
 a) Se consensará entre los diputados que integran la Legislatura, los nombres de los consejeros electorales numerarios y supernumerarios.
 
 b) De no existir el consenso a que se refiere el inciso anterior, se procederá a someter a votación las propuestas que sirvieron de base para lograr el consenso, debiendo ser designados los consejeros electorales por las dos terceras partes de la votación de los diputados presentes.
 
-Los Consejeros Electorales durarán en su encargo siete años, pudiendo ser reelectos a juicio de la Legislatura, por un período más; debiendo entrar en funciones el 15 de diciembre del año que corresponda a su elección. El cargo de Consejero Electoral es irrenunciable, pudiendo sólo ser removidos por la Legislatura, por el voto de las dos terceras partes de sus miembros presentes, siempre y cuando medie causa grave a juicio de la misma.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+Los Consejeros Electorales durarán en su encargo siete años, debiendo entrar en funciones el 15 de Diciembre del año que corresponda a su elección. El cargo de Consejero Electoral es irrenunciable y sólo podrán ser removidos por la legislatura, por el voto de las dos terceras partes de sus miembros presentes, de conformidad a lo dispuesto por el Título Séptimo de la Constitución Política del Estado de Querétaro Arteaga.
 
 ###### ARTICULO 67.
 
@@ -639,7 +803,9 @@ Los consejeros electorales gozarán de los emolumentos que señale el presupuest
 
 El Consejo General tiene competencia para:
 
-I. Expedir el reglamento interior del Instituto;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+I. Expedir los reglamentos interiores necesarios para el buen funcionamiento del organismo.
 
 II. Expedir el Estatuto del Servicio Profesional Electoral;
 
@@ -701,19 +867,29 @@ XXVIII. Resolver los recursos que le competan en los términos de esta Ley;
 
 XXIX. Imponer sanciones en los términos de esta Ley;
 
-XXX. Aprobar el proyecto de presupuesto anual del Instituto que le proponga su presidente y remitirlo al ejecutivo dentro de los primeros quince días del mes de noviembre para su consideración y, en su caso, se contemple en el Presupuesto de Egresos;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
-XXXI. Presentar al Congreso del Estado las iniciativas de ley en materia electoral que considere necesarias;
+XXX. Aprobar el anteproyecto de presupuesto anual del Instituto que le proponga su presidente y remitirlo, dentro de la segunda quincena del mes de octubre de cada año, al Ejecutivo del Estado, quien lo incluirá en el proyecto de presupuesto de egresos del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+XXXI. Presentar ante la Legislatura del Estado las iniciativas de ley o decreto en materia electoral que considere necesarias;
 
 XXXII. Para los efectos de la fracción anterior, podrá promover y organizar consulta popular;
 
 XXXIII. Dictar los acuerdos y autorizar la celebración de los convenios necesarios para hacer efectivos los asuntos de su competencia,
 
-XXXIV. Intervenir en la organización del referéndum, en los términos que establezca la ley de la
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
-materia, previo convenio con la Legislatura del Estado, y
+XXXIV.- Intervenir en la organización del referéndum, o cualquier figura de participación ciudadana, en los términos que establezca la ley de la materia, previo convenio con la legislatura del Estado y los municipio en su caso;
 
-XXXV. Las demás señaladas en esta Ley.
+(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999
+
+XXXV.- Remover al Director General por violaciones a la Ley Electoral o por incumplimiento de los acuerdos del Consejo General, por el voto mayoritario de sus miembros; y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+XXXVI.- Las demás señaladas en esta Ley.
 
 ###### ARTICULO 69.
 
@@ -767,15 +943,21 @@ XI. Dar fe de los actos del Consejo y expedir las certificaciones necesarias en 
 
 XII. Los demás que le sean conferidos por esta Ley, el Consejo General y su presidente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 71.
 
-Para el desahogo de los asuntos de su competencia, el Consejo General actuará en forma colegiada y celebrará por lo menos una vez al mes sesiones ordinarias en los términos y condiciones que esta Ley y Reglamento Interior del Instituto prevean
+Para el desahogo de los asuntos de su competencia, el Consejo General actuará en forma colegiada y celebrará por lo menos una vez al mes sesiones ordinarias y las extraordinarias que sean necesarias, en los términos y condiciones que esta Ley y el Reglamento Interior del Instituto prevean
 
-Las sesiones extraordinarias se celebrarán tantas veces sean necesarias en los términos y condiciones que esta Ley y el Reglamento Interior del Instituto Electoral de Querétaro señalen.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+Las faltas temporales de los consejeros electorales serán cubiertas por el consejero electoral suplente, de conformidad con el orden que ocupen en la lista que para tal efecto apruebe y envíe la Legislatura del Estado al Consejo General del Instituto Electoral de Querétaro. La presente disposición también se hará aplicable en los casos de excusa o inhibitoria de los consejeros electorales.
 
 La convocatoria deberá ser expedida con setenta y dos horas de anticipación, tratándose de sesiones ordinarias y, con cuarenta y ocho horas tratándose de extraordinarias. En ambos casos, la convocatoria deberá señalar los puntos del orden del día.
 
-Las faltas temporales de los consejeros electorales serán cubiertas por el consejero electoral supernumerario, de conformidad con el orden que ocupen en la lista que para tal efecto envíe el Congreso del Estado al Consejo General del Instituto Electoral de Querétaro. La presente disposición también será aplicable en los casos de excusa o inhibitoria de los consejeros electorales.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+El presidente convocará a sesiones extraordinarias cuando lo estime necesario o a petición de la mayoría de los consejeros electorales o de los representantes de los partidos políticos, conjunta o separadamente.
 
 ###### ARTICULO 72.
 
@@ -786,6 +968,8 @@ Para que el Consejo General pueda sesionar legalmente es necesario que esté pre
 Cuando la inasistencia sea del Secretario Ejecutivo, el presidente del consejo designará, dentro de los consejeros electorales al que deberá fungir como secretario ejecutivo, únicamente para esa sesión.
 
 ### CAPITULO III. De los Órganos Operativos
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 73.
 
@@ -805,7 +989,9 @@ El Consejo General, remitirá a la Legislatura del Estado a través de la Contad
 
 ###### ARTICULO 76.
 
-El Instituto Electoral de Querétaro contará con un Director General y dos direcciones: la de Organización Electoral y la de Educación Cívica y Capacitación Electoral. El Consejo General del Instituto Electoral de Querétaro, podrá crear, de manera permanente o transitoria y de acuerdo al presupuesto, las unidades operativas que considere convenientes. Al frente de cada dirección ejecutiva habrá un director ejecutivo, que será designado por el Consejo General a propuesta del director general, pudiendo ser removidos por acuerdo del propio Consejo
+El Instituto Electoral de Querétaro contará con un Director General y dos direcciones ejecutivas: la de Organización Electoral y la de Educación Cívica y Capacitación Electoral. El Consejo General del Instituto Electoral de Querétaro, podrá crear, de manera permanente o transitoria y de acuerdo al presupuesto, las unidades operativas que considere convenientes, pero en todo caso y durante el proceso electoral, contará con tres coordinaciones regionales operativas que cubran el Estado. Al frente de cada dirección ejecutiva habrá un director ejecutivo, que será designado por el Consejo General a propuesta del director general, pudiendo ser removidos por acuerdo del propio Consejo, a solicitud del Director General o de los mismos Consejeros y por el
+
+voto mayoritario de sus miembros presentes con derecho a voto. Las propuestas se realizarán por conducto del presente Consejo.
 
 ###### ARTICULO 77.
 
@@ -819,15 +1005,19 @@ III. Poseer el día de la designación con una antigüedad mínima de cinco año
 
 IV. No desempeñar, ni haber desempeñado el máximo cargo directivo estatal de un partido político, ni ser militante de algún partido, y
 
-V. No desempeñar, ni haber desempeñado durante los tres años anteriores a su designación, cargo alguno en la administración pública federal, estatal o municipal, excepto los relativos a funciones electorales, educativas y asistenciales.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+V. No ocupar ni haber ocupado empleo, cargo o comisión durante los tres años anteriores a su designación, en la Administración Pública Federal, Estatal o Municipal, excepto los relativos a funciones electorales, educativas y asistenciales.
 
 ###### ARTICULO 78.
 
 El Director General del Instituto coordinará y supervisará el desarrollo de las actividades de los órganos operativos del mismo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 79.
 
-Son facultades del director general:
+Son facultades del Director General:
 
 I. Representar legalmente al Instituto;
 
@@ -837,7 +1027,9 @@ III. Proveer lo necesario para que se publiquen los acuerdos y resoluciones que 
 
 IV. Proponer al Consejo General del Instituto, la estructura de los órganos operativos y demás órganos del Instituto conforme a las necesidades del servicio y los recursos presupuestales autorizados;
 
-V. Proponer al Consejo General a las personas que habrán de ocupar el cargo de directores ejecutivos del Instituto y a los asistentes electorales,
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+V. Proponer al Consejo General, por conducto de su presidente, a las personas que habrán de ocupar los cargos de directores ejecutivos del Instituto;
 
 VI. Proveer a los órganos del Instituto de los elementos necesarios para el cumplimiento de sus funciones;
 
@@ -851,9 +1043,13 @@ X. Recibir, para efectos de información y estadística electorales, copias de l
 
 XI. Recibir y dar cuenta al Consejo General con los informes que sobre las elecciones reciba de los consejos distritales y municipales;
 
-XII. Elaborar anualmente, de acuerdo a las leyes aplicables, el proyecto de presupuesto y someterlo a consideración del Presidente del Consejo General del Instituto;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
-XIII. Ejercer las partidas presupuestales aprobadas en el presupuesto que al efecto le asigne el Congreso del Estado, en los términos que éste prevea, e informar trimestralmente de su ejercicio al Consejo General del Instituto;
+XII. Elaborar anualmente, de acuerdo a las leyes aplicables, al anteproyecto de presupuesto y someterlo a consideración del Presidente del Consejo General del Instituto;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+XIII. Ejercer las partidas presupuestales aprobadas en el presupuesto que al efecto le asigne la Legislatura del Estado, en los términos que ésta prevea, e informar trimestralmente de su ejercicio al Consejo General del Instituto;
 
 XIV. Otorgar poderes a nombre del Instituto para actos de administración y, previo acuerdo del consejo, para actos de dominio, así como para ser representado ante cualquier autoridad administrativa o judicial, o ante particulares;
 
@@ -863,29 +1059,35 @@ XVI. Suscribir previo acuerdo del Consejo General, los convenios necesarios con 
 
 XVII. Las demás que le confiera esta Ley, el Consejo General y su presidente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ### CAPITULO IV. De los Consejos Distritales y Municipales Electorales
 
 ###### ARTICULO 80.
 
-Los directores deberán satisfacer los siguientes requisitos:
+Los directores ejecutivos deberán satisfacer los siguientes requisitos:
 
 I. Ser mexicanos por nacimiento y ciudadanos de Querétaro en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Tener como mínimo veintiocho años de edad al momento de su designación;
 
-III. Tener título profesional legalmente expedido con cinco años de antigüedad a la designación;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+III. Tener título profesional, preferentemente, de Licenciado en Derecho, legalmente expedido con cinco años de antigüedad con excepción del Director Ejecutivo de Educación Cívica y Capacitación Electoral, que deberá tener título profesional legalmente expedido;
 
 IV. Tener experiencia en asuntos electorales;
 
 V. No haber desempeñado cargos directivos de los partidos políticos durante los tres años anteriores a la designación, y
 
-VI. No desempeñar ni haber desempeñado durante los tres años anteriores al proceso electoral cargo alguno en la Administración Pública Federal, Estatal o Municipal; excepto las funciones electorales y educativas.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
-> <small>(F. DE E., P.O. 6 DE MARZO DE 1997)</small>
+VI. No ocupar ni haber ocupado empleo, cargo o comisión durante los tres años anteriores a su designación, en la Administración Pública Federal, Estatal o Municipal, excepto los relativos a funciones electorales, educativas y asistenciales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 81.
 
-La Dirección Ejecutiva de Organización Electoral tiene las siguientes funciones:
+La Dirección Ejecutiva de Organización Electoral tiene las siguientes competencias:
 
 I. Apoyar la integración, instalación y funcionamiento de los consejos distritales y municipales, así como de las casillas y sus mesas directivas;
 
@@ -923,13 +1125,17 @@ XVII. Acordar con el director general los asuntos de su competencia; y
 
 XVIII. Las demás que establezca esta Ley y aquellas que le encomiende el director general.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 82.
 
-La dirección ejecutiva de educación y capacitación electoral tiene las siguientes funciones:
+La Dirección Ejecutiva de Educación Cívica y Capacitación Electoral tiene las siguientes competencias:
 
 I. Elaborar y proponer al director general los programas de educación cívico-electoral que deban ejecutar los consejos distritales y municipales;
 
-II. Elaborar y coordinar la aplicación de los programas de capacitación electoral a los miembros de los consejos distritales, municipales y mesas directivas de casilla,
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+II. Elaborar y coordinar la aplicación de los programas de capacitación electoral a los miembros de los Consejos Distritales, Municipales y mesas directivas de casilla, a los que se capacitará hasta en dos ocasiones;
 
 III. Elaborar y coordinar la aplicación de los programas de capacitación electoral a los consejeros electorales;
 
@@ -965,11 +1171,27 @@ En el municipio de Querétaro, se instalarán tres consejos electorales, dos dis
 
 Los Consejos Electorales se integrarán con:
 
-I. Cinco consejeros electorales numerarios y tres supernumerarios, designados por el Consejo General, a propuesta del director general del Instituto, eligiéndose de entre ellos al que fungirá como Presidente, en los términos señalados por el artículo 64-I, de esta Ley.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
-II.- Un secretario técnico designado por el director general;
+I. Cinco consejeros electorales numerarios y tres suplentes, designados por el Consejo General, a propuesta del Director General del Instituto, eligiéndose de entre ellos al que fungirá como Presidente, en los términos señalados por el artículo 64-fracción I, de esta Ley. La propuesta se hará por conducto del presidente del Consejo.
 
-III.- Un representante de cada uno de los partidos políticos que registren fórmula para contender en la elección o elecciones que le corresponda conocer al consejo de que se trate, los que deberán registrarse a más tardar cinco días después de que el consejo emita la resolución sobre la procedencia de registro de candidatos, debiéndose observar lo dispuesto por el artículo 211 para el caso de coalición.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+II.- Un secretario técnico designado por el Director General y ratificado por el Consejo General.
+
+Sólo podrán ser designados y ratificados aquellos ciudadanos que acrediten, además de los requisitos señalados por esta ley, los que señale la convocatoria que al efecto apruebe el Consejo General.
+
+Los secretarios técnicos dependerán operativamente de la Dirección General y, en su caso, de los directores ejecutivos.
+
+El Instituto Electoral de Querétaro, dispondrá de una lista de por lo menos seis secretarios técnicos suplentes, quienes entrarán en funciones inmediatamente que se requiera en ausencia definitiva de alguno de los que están en funciones. En éste caso el Director General comisionará a aquel suplente cuya disponibilidad lo permita, informando de ello al Consejo General.
+
+Los secretarios técnicos suplentes, durante el tiempo en que no estén en funciones, podrán ser asignados por la Dirección General a tareas propias del proceso electoral.
+
+Los secretarios técnicos podrán ser destituidos por el Director General, si estos incurren en alguna violación o incumplimiento de la Ley Electoral del Estado, de sus reglamentos, de los acuerdos de Consejo General y de las disposiciones de la Dirección General. El Director General deberá informar y justificar al Consejo General, de cualquier destitución.
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+III. Un representante propietario y un suplente de cada uno de los partidos políticos o coaliciones que hayan decidido registrar candidatos o fórmulas para contender en la elección o elecciones que le corresponda conocer al consejo de que se trate, los cuales podrán solicitar su registro a partir de los quince días siguientes al que el partido o coalición de que se trate haya obtenido del Consejo General del Instituto, la constancia de registro de la Plataforma Electoral conforme al artículo 106 de esta ley y en su caso, del convenio de coalición de partidos políticos. Los representantes así nombrados podrán integrar el consejo, pero tal registro queda condicionado al registro definitivo de candidatos correspondiente. En caso que por cualquier causa establecida en la ley, un partido político o coalición de partidos, no obtenga o pierda el registro de dichos candidatos, el registro condicionado de sus representantes quedará sin efectos. Los partidos o coaliciones cuyos candidatos sean registrados, recibirán la constancia del nombramiento de sus respectivos representantes.
 
 ###### ARTICULO 86.
 
@@ -981,7 +1203,9 @@ II. Intervenir en la preparación, vigilancia y desarrollo de los procesos elect
 
 III. Recibir las solicitudes de registro de candidatos a diputados por el principio de mayoría relativa, y resolver sobre las mismas. Así mismo recibir las solicitudes de registro de las fórmulas de ayuntamiento y listas de regidores por el principio de representación proporcional, del municipio que corresponda a su cabecera y, resolver sobre las mismas;
 
-IV. Nombrar a los asistentes electorales distritales;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+IV. Seleccionar a los asistentes electorales, en los términos del artículo 92 BIS de esta Ley;
 
 V. Integrar las mesas directivas de casilla mediante el procedimiento de insaculación, o conforme a los convenios de colaboración que celebre el director del Instituto con el Instituto Federal Electoral y ordenar su publicación;
 
@@ -1009,13 +1233,17 @@ II. Intervenir en la preparación, desarrollo y vigilancia de las elecciones en 
 
 III. Recibir las solicitudes de registro de fórmulas de ayuntamientos y listas de regidores de representación proporcional al municipio que corresponda que presenten los partidos políticos y resolver sobre la mismas;
 
-IV. Nombrar a los asistentes electorales municipales;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+IV. Seleccionar a los asistentes electorales, en los términos del artículo 92 BIS de esta Ley;
 
 V. Entregar a las mesas directivas de casilla la documentación y material electoral para la elección de diputados de mayoría relativa, ayuntamientos y de gobernador;
 
 VI. Recabar la documentación relativa a la votación de ayuntamientos;
 
-VII. Hacer el cómputo de las elecciones de sus respectivos ayuntamientos y declarar la validez de las mismas, extendiendo al efecto la constancia de mayoría;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+VII. Hacer el cómputo de las elecciones de sus respectivos ayuntamientos y declarar la validez de las mismas, extendiendo al efecto las constancias de mayoría y de la primera minoría;
 
 > <small>(F. DE E., P.O. 6 DE MARZO DE 1997)</small>
 
@@ -1053,7 +1281,9 @@ Para ser secretario técnico de los consejos distritales y municipales se deber�
 
 I. Ser mexicanos por nacimiento y ciudadanos queretanos en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Tener como mínimo veinticinco años de edad al momento de su designación;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+II. Tener como mínimo veintidós años de edad al momento de su designación;
 
 III. Ser pasante o contar con título de licenciado en derecho;
 
@@ -1061,7 +1291,9 @@ IV. Tener experiencia en asuntos electorales;
 
 V. No haber desempeñado cargos directivos de los partidos políticos durante los tres años anteriores a la designación, y
 
-VI. No desempeñar ni haber desempeñado durante los tres años anteriores al proceso electoral cargo alguno en la Administración Pública Federal, Estatal o Municipal; excepto las funciones electorales y educativas.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+VI. No ocupar ni haber ocupado cargo o comisión o laborar ni haber laborado durante los tres años anteriores al proceso electoral en empleo alguno en la Administración Pública Federal, Estatal o Municipal, excepto los relativos a funciones electorales, educativas y asistenciales.
 
 ### CAPITULO V. De las Mesas Directivas de Casilla
 
@@ -1097,17 +1329,67 @@ Cuando la inasistencia sea del secretario técnico, el presidente del consejo de
 
 Sólo los consejeros electorales tienen derecho a voz y voto, los demás miembros del consejo, sólo derecho a voz.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 92
+
+BIS. Los asistentes electorales son auxiliares de los Consejos Distritales y Municipales; así como de las mesas directivas de casilla, en las etapas del proceso electoral señaladas en el artículo 100 de esta Ley de conformidad a los reglamentos que al efecto se expidan.
+
+I. Para ser asistentes electoral se deberán reunir los siguientes requisitos:
+
+a) Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos, y residente en el Estado;
+
+b) Estar inscrito en la lista nominal y contar con credencial para votar;
+
+c) No tener más de 60 años de edad al día de la jornada electoral;
+
+d) No ser ministro de culto religioso alguno;
+
+e) No militar en ningún partido, organización, agrupación, ni asociación política;
+
+f) No ser miembro activo de las fuerzas armadas ni de los cuerpos de seguridad;
+
+g) Acreditar educación secundaria como mínimo;
+
+h) No haber sido condenado por delito doloso;
+
+i) Presentar solicitud y documentación, conforme a lo requerido por la convocatoria que se expida al efecto;
+
+II. El Instituto Electoral de Querétaro instrumentará y expedirá durante la segunda quincena del mes de abril del año de la elección, una convocatoria pública a la ciudadanía, para integrar el grupo de ciudadanos que, cumpliendo con los requisitos descritos en la fracción anterior, estén interesados en ser asistentes electorales. La convocatoria deberá expedirse en los siguientes términos.
+
+a) Debe cubrir todo el territorio del Estado;
+
+b) Debe ser publicada por los medios al alcance del Instituto Electoral de Querétaro, dentro de un plazo no menor de quince días.
+
+III. Los Consejos Distritales y Municipales, recibirán a través y como propuesta del Secretario Técnico del Consejo, a partir de la publicación de la convocatoria, las solicitudes y currícula de los ciudadanos que la hubieren atendido y cumplan con los requisitos a que se refiere la fracción I de este artículo y los términos que fije la convocatoria. Contarán con siete días como mínimo para estudiar y valorar dicha información. Las propuestas considerarán el número de asistentes electorales de acuerdo a lo determinado en la fracción VIII de este artículo. Asimismo, se elaborará una lista en la que se señale cada solicitud rechazada y la causa de ello.
+
+IV. Los Consejos Distritales y Municipales, sesionarán de manera extraordinaria, durante la tercera semana del mes de mayo del año de la elección, para que sus miembros emitan comentarios, soliciten ampliación de información o argumenten sobre cualesquiera de los ciudadanos propuestos al cargo de Asistente Electoral.
+
+V. Los solicitantes seleccionados tomarán un curso de capacitación treinta días antes de la elección, cuyo contenido deberá ser presentado por la Dirección General del Instituto Electoral de Querétaro, en la sesión ordinaria del mes de abril para su aprobación por el Consejo General. Quienes aprueben satisfactoriamente el curso serán contratados por el Instituto Electoral de Querétaro durante quince días antes y quince días después del día de la jornada electoral.
+
+VI. Los Consejos Distritales y Municipales, sesionarán 20 días antes del día de la jornada electoral para resolver en definitiva la designación de los asistentes electorales, sin menoscabo de desahogar otros puntos del orden del día. Se expedirán las acreditaciones a los asistentes electorales designados, firmadas por el Presidente y Secretario Técnico correspondiente.
+
+VII. Los Consejos Distritales y Municipales elaborarán y aprobarán una lista de reserva con los ciudadanos que podrían ocupar las vacantes de asistentes electorales que se generen. Dicha lista, se integrará tomando como base a los aspirantes que hayan cumplido con los requisitos legales y en número equivalente hasta el 30% de los asistentes electorales aprobados por cada consejo. En caso de vacante, se llamará a ocupar el cargo al primer ciudadano que aparezca en la lista de reserva, siendo la aplicación automática al momento que se presente el caso.
+
+VIII. Para determinar el número de asistentes electorales a contratar, los Consejos Distritales y Municipales, utilizarán las proporciones de un parámetro máximo de un asistente electoral por cada 10 casillas urbanas y un asistente electoral por cada dos secciones rurales. Se entenderá a las casillas ubicadas en las cabeceras municipales como urbanas.
+
+IX. Cuando varios distritos uninominales estén contenidos en un solo municipio, el consejo municipal correspondiente designará a los asistentes electorales; y cuando varios municipios estén contenidos en un solo distrito uninominal, el consejo distrital correspondiente designará a los asistentes electorales.
+
 ###### ARTICULO 93.
 
 Las mesas directivas de casilla son los organismos electorales que tienen a su cargo la recepción, escrutinio y cómputo del sufragio en las secciones en que se divide el territorio del Estado.
 
 En cada sección se instalarán las mesas directivas de casilla necesarias que apruebe el Consejo General del Instituto a propuesta de los consejos distritales, y en su caso de los consejos municipales, o bien en los términos que establezca el convenio que para tal efecto celebre el Instituto Electoral de Querétaro con el Instituto Federal Electoral.
 
-Para efectos de la instalación de mesas directivas de casilla, se adoptarán los requerimientos técnicos y la nomenclatura que utilice el Instituto Federal Electoral.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+Para efectos de la ubicación de casillas, previo convenio, se podrán adoptar conjuntamente los requerimientos técnicos y la nomenclatura que utilice el Instituto Federal Electoral.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 94.
 
-Las mesas directivas de casilla se integrarán con ciudadanos residentes en la sección respectiva. Deberán estar en uso de sus derechos políticos, saber leer y escribir, ser de reconocida probidad, tener un modo honesto de vivir y haber recibido la capacitación para el desempeño de sus funciones, con las excepciones que señala la Ley.
+Las mesas directivas de casilla se integrarán con ciudadanos residentes en la sección respectiva, salvo en aquellos casos que no sea posible, en que mediará acuerdo previo del Consejo General. Deberán estar en uso de sus derechos políticos, saber leer y escribir, debiendo seleccionarse preferentemente a aquellos de mayor escolaridad, ser de reconocida probidad, tener un modo honesto de vivir y haber recibido la capacitación para el desempeño de sus funciones, con las excepciones que señala la Ley.
 
 ###### ARTICULO 95.
 
@@ -1120,6 +1402,10 @@ II. Hasta dos secretarios;
 III. Hasta cuatro escrutadores.
 
 El procedimiento para integrar las mesas directivas de casilla con los funcionarios propietarios y suplentes, será por insaculación y, en su caso, conforme lo que establezca el convenio que para tal efecto celebre el Instituto Electoral de Querétaro con el Instituto Federal Electoral.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+El Consejo Distrital Electoral que corresponda, notificará por escrito al ciudadano que haya resultado designado funcionario de mesa directiva de casilla, sobre la obligación de presentarse en el lugar y hora que se requiera para el cumplimiento de sus funciones. En el caso de empleados, jornaleros y obreros, se incluirá en la notificación la obligación del patrón de permitir el cumplimiento de la función electoral, en los términos que señala el artículo 132, fracción IX, de la Ley Federal del Trabajo.
 
 ### CAPITULO I. Generalidades
 
@@ -1159,7 +1445,9 @@ d) Comprobar que el nombre del elector figure en la lista nominal correspondient
 
 e) Entregar la o las boletas a los electores identificados, según la elección de que se trate;
 
-f) Mantener el orden dentro de la casilla y en el exterior, en caso necesario con el auxilio de la fuerza pública;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+f) Mantener el orden dentro de la casilla, en caso necesario con el auxilio de la fuerza pública;
 
 g) Suspender la votación en caso de alteración del orden, notificándolo al consejo distrital o municipal, en su caso, el cual resolverá lo conducente; restablecido el orden, se reanudará la votación;
 
@@ -1217,9 +1505,11 @@ El Instituto Electoral de Querétaro y el Instituto Federal Electoral, podrán c
 
 La exhibición y entrega de listas nominales básicas, complementarias y definitivas de electores, a organismos electorales y a partidos políticos, será hecha por el Instituto Electoral de Querétaro o el Instituto Federal Electoral, en los términos que prescriba el convenio a que se refiere el artículo anterior.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 103.
 
-Las impugnaciones que los partidos políticos realicen sobre los materiales electorales a que se refiere el artículo anterior, se realizarán ante Instituto Federal Electoral, en los términos que prevenga el Código Federal de Instituciones y Procedimientos Electorales,
+Las impugnaciones que los partidos políticos realicen sobre los materiales electorales a que se refiere el artículo anterior, se realizarán ante el órgano electoral que los haya autorizado, en los términos que prevenga el Código Federal de Instituciones y Procedimientos Electorales, sin perjuicio que ante comisión de delitos se interponga denuncia ante las autoridades competentes.
 
 ###### ARTICULO 104.
 
@@ -1243,15 +1533,17 @@ VII. La publicación de las listas de ubicación e integración de las mesas dir
 
 VIII. La preparación, distribución y entrega de la documentación electoral aprobada en los términos de esta Ley y la del material necesario para el funcionamiento de las casillas;
 
-IX. El registro de representantes ante las casillas electorales;
+IX. (DEROGADA, P.O. 10 DE DICIEMBRE DE 1999)
 
 X. Los actos y resoluciones dictados por los organismos electorales relacionados con las actividades y tareas anteriores, o con otros que resulten, en cumplimiento de los actos que son de su competencia y que se produzcan hasta la víspera del día de la elección; y
 
 XI. Los demás actos que señale esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 105.
 
-En la sesión a que se refiere el artículo anterior, el Consejo General del Instituto Electoral de Querétaro, hará la declaratoria de apertura de sesiones ordinarias e inicio del proceso electoral, debiendo:
+En la sesión a que se refiere el artículo anterior, el Consejo General del Instituto Electoral de Querétaro, hará la declaratoria de inicio del proceso electoral, así como apertura y periodicidad de sesiones ordinarias durante el proceso electoral, debiendo:
 
 I.- Aprobar la integración de los organismos electorales, de conformidad con lo dispuesto por el artículo 85 de esta Ley; y
 
@@ -1279,6 +1571,14 @@ Son actos de campaña, aquellos en que los candidatos, dirigentes o representant
 
 Por propaganda electoral se entiende, el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos, con el propósito de obtener el voto.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+Queda prohibido a candidatos, representantes o dirigentes de partidos políticos, participar en la entrega o prestación de bienes, obras y servicios públicos, entregar productos de la canasta básica, de primera necesidad, materiales de construcción o participar en el otorgamiento de cualquier prestación económica al elector.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+Durante las campañas electorales, la jornada electora y los tres días que preceden a ésta, queda prohibido a las autoridades federales, estatales y municipales y a los servidores públicos difundir u ordenar campañas publicitarias sobre programas y acciones gubernamentales, con excepción de aquellas relativas a salud, seguridad pública, protección civil y los relacionados con medidas de emergencia para protección de la población, las cuales deberán hacerse sin fines electorales.
+
 ###### ARTICULO 109.
 
 Los gastos de campaña comprenden:
@@ -1297,7 +1597,9 @@ Los realizados en cualquiera de estos medios tales como mensajes, anuncios publi
 
 No se considerarán dentro de los topes de campaña los gastos que realicen los partidos políticos para su operación ordinaria y para el sostenimiento de sus órganos directivos y sus organizaciones.
 
-Con el objeto de verificar que los gastos de campaña de los partidos políticos, se ajustan a los topes establecidos, el Consejo General del Instituto Electoral de Querétaro, implementará los medios que considere necesarios a fin de darle seguimiento a los mismos.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+Con el objeto de verificar que los gastos de campaña de los partidos políticos, se ajusten a los topes establecidos, el Consejo General del Instituto Electoral de Querétaro, implementará los mecanismos que considere necesarios a fin de darle seguimiento continuo a los mismos, con los recursos técnicos propios o a través de empresas que acrediten suficiencia en el ramo, las que sólo podrán ser contratadas si cuentan con una antigüedad mínima de tres años de haberse constituido y de radicar en el Estado. Si no estuviera concluido, el programa de seguimiento aprobado podrá ser auditado en cualquier momento de su aplicación, previo acuerdo del Consejo General, en que se especificarán los puntos de verificación.
 
 ###### ARTICULO 110.
 
@@ -1331,17 +1633,35 @@ Para los efectos de fijación y colocación de propaganda política fuera del pr
 
 El partido solicitante se obliga a retirar su propaganda al día siguiente del vencimiento del plazo de autorización. En caso de no hacerlo, el municipio procederá a retirar la propaganda con cargo al partido político infractor y los gastos que se originen, deberán ser resarcidos al municipio a través del Consejo General, quién procederá a efectuar el descuento que corresponda del financiamiento público que se le otorga.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 112.
 
-El día de la elección y los tres que le precedan no se permitirá la celebración de mítines, reuniones públicas ni cualquier otro acto de propaganda política o electoral. Tampoco se permitirá, durante ese tiempo, la publicación de encuestas y sondeos que de algún modo induzcan a los electores a favor o en contra de partido o candidato cualesquiera.
+El día de la jornada electoral y durante los tres días previos a ésta, no se permitirá la celebración ni difusión, por cualquier medio, de actos políticos de campaña, propaganda o cualesquiera otra actividad de proselitismo electoral.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 112
+
+BIS. Para la publicación de cualquier encuesta o sondeo de opinión sobre asuntos electorales, en el periodo comprendido desde el inicio de las campañas electorales, y hasta una hora después del cierre oficial de las casillas el día de la elección, se deberá cumplir con las siguientes disposiciones:
+
+I. La persona física o moral u organización que solicite u ordene la publicación, deberá entregar previamente copia del estudio completo, al Consejo General a través de la Comisión de Radio-Difusión; si la encuesta o sondeo se difunde por cualquier medio, en este caso quedará obligado a dar a conocer la metodología empleada y el grado de confiabilidad.
+
+II. Durante los ocho días previos a la elección y hasta una hora después del cierre oficial de las casillas, queda prohibido publicar o difundir por cualquier medio, los resultados de encuestas o sondeos de opinión que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos.
+
+III. Las personas físicas o morales u organizaciones interesadas en producir, publicar o difundir encuestas o sondeos de opinión, que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos o las tendencias de las votaciones en el Estado de Querétaro, adoptarán los criterios generales de carácter científico y observarán las disposiciones que para tal efecto determine el Consejo General.
 
 ###### ARTICULO 113.
 
 En los lugares señalados para la ubicación de las casillas electorales no habrá ninguna propaganda electoral dentro de cincuenta metros visuales de distancia de éstas, el día de la elección. En caso de que la hubiera, el presidente de la mesa directiva de casilla, ordenará su retiro, de ser posible, o bien, procederá a la instalación de la casilla, en términos de lo previsto por el artículo 126 de esta Ley.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 114.
 
-El Consejo General del Instituto Electoral de Querétaro, de acuerdo con sus fines, promoverá y alentará todas las expresiones de partidos y candidatos, tendientes a dar a conocer a la ciudadanía los contenidos de la plataforma electoral que éstos sostendrán durante sus campañas.
+El Consejo General del Instituto Electoral de Querétaro, de acuerdo con sus fines, promoverá y alentará todas las expresiones de partidos y candidatos, tendientes a dar a conocer a la sociedad los contenidos de la plataforma electoral que éstos sostendrán durante sus campañas.
+
+Asimismo, podrá convocar a los partidos políticos y sus candidatos en el Estado, a un debate público, debiendo auxiliar en su organización y difusión el propio Instituto; las reglas para el debate, el moderador y demás cuestiones al respecto, se definirán en la propia convocatoria.
 
 ###### ARTICULO 115.
 
@@ -1417,7 +1737,9 @@ Los representantes generales de los partidos o coaliciones ejercerán su cargo e
 
 Los representantes de los partidos políticos o coaliciones que estén acreditados debidamente ante las mesas directivas de casilla vigilarán el cumplimiento de las disposiciones de esta Ley y tendrán los siguientes derechos:
 
-I. Participar en la instalación de la casilla y permanecer en ella hasta su clausura;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+I. Estar presente en la instalación de casilla y permanecer en ella hasta su clausura; y entre el inicio de la jornada electoral y la correspondiente instalación, estar presente conjuntamente con la mesa directiva, en la revisión de la documentación y material electoral. En ningún caso se interrumpirá la instalación;
 
 II. Recibir copia del acta de la jornada electoral;
 
@@ -1655,9 +1977,13 @@ d) La realización de los cómputos municipales;
 
 e) La entrega de resultados y declaración de validez de la elección de ayuntamiento;
 
-f) La entrega de constancias de mayoría correspondiente; y
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
-g) La remisión a los Ayuntamientos de las constancias de mayoría de las fórmulas respectivas, así como las constancias de asignación de regidores por el principio de representación proporcional, para los efectos de publicación del bando Solemne.
+f) La entrega de constancias de mayoría y la de primera minoría correspondientes; y
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+g) La remisión a los Ayuntamientos de las constancias de mayoría de las fórmulas respectivas, las constancias de primera minoría, así como las constancias de asignación de regidores por el principio de representación proporcional, para los efectos de publicación del Bando Solemne.
 
 II. En los consejos distritales:
 
@@ -1819,11 +2145,19 @@ III. Los partidos políticos interesados harán valer en la sesión de cómputo,
 
 Concluido el cómputo, el Presidente del Consejo General del Instituto, en su caso, declarará la validez de la elección y expedirá la constancia de mayoría al ciudadano que haya resultado electo.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 154.
 
-El Consejo General, del domingo siguiente al de la elección, celebrará sesión para proceder al cómputo de la votación para la asignación de diputados electos según el principio de representación proporcional.
+El Consejo General, a las 8:00 hrs., del domingo siguiente al de la elección, celebrará sesión para proceder al cómputo de la votación para la asignación de diputados electos según el principio de representación proporcional.
 
-Tendrá derecho a participar en la asignación de diputados por el principio de representación proporcional el partido político que haya alcanzado por lo menos el 2% del total de la votación emitida para diputados de mayoría relativa.
+Tendrá derecho a participar en la primera asignación de diputados por el principio de representación proporcional el partido político que haya alcanzado por lo menos el 2.5% del total de la votación válida emitida y que no haya alcanzado triunfo en alguna elección de diputados de mayoría relativa.
+
+Después de esta primera asignación, si aún quedaran diputaciones de representación proporcional por asignar, podrán participar en las siguientes todos aquellos partidos que hayan alcanzado por lo menos el 2.5% de la votación válida emitida.
+
+La asignación anterior se hará de conformidad a lo dispuesto por los artículos 156 y 157 de esta Ley.
+
+Cuando un partido haya alcanzado 16 curules, no podrá seguir participando en las asignaciones posteriores y su resultante de asignación seguirá integrado en el desarrollo de la fórmula.
 
 En la asignación de diputados por el principio de representación proporcional se seguirá el orden que tuviesen los candidatos en la lista correspondiente.
 
@@ -1831,55 +2165,51 @@ En la asignación de diputados por el principio de representación proporcional 
 
 Para los efectos de esta Ley se entiende por fórmula de asignación el conjunto de normas, elementos matemáticos y mecanismos que deben observarse para la asignación de diputados según el principio de representación proporcional.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 156.
 
-La fórmula de asignación para la determinación de diputados según el principio de representación proporcional se integra con los siguientes elementos:
+La fórmula de asignación para la determinación de diputados según el principio de representación proporcional, una vez hecha la primera asignación con base en el mínimo del 2.5% de votación obtenida, se integra con los siguientes elementos:
 
-I. Votación efectiva;
+a) Votación obtenida por cada partido;
 
-II: Porcentaje mínimo;
+b) Votación efectiva;
 
-III. Factor común;
+c) Curules por asignar;
 
-IV. Cociente de unidad;
+d) Resultante de asignación, que se compondrá de:
 
-V. Resto mayor.
+1) Resultado de enteros; y
 
-a) Por votación efectiva se entiende la resultante de deducir de la votación total de los partidos las votaciones de aquellos que no hayan alcanzado el 2% de la votación total emitida en el Estado.
+2) Resultado de diferencial de representación.
 
-b) Por porcentaje mínimo se entiende el 2% de la votación total emitida.
+Por votación efectiva, se entiende la resultante de deducir de la votación total de los partidos, las votaciones de aquellos que no hayan alcanzado el 2.5% de la votación total emitida en el Estado.
 
-c) Por factor común se entiende el resultado de deducir, de la votación efectiva, los votos correspondientes al porcentaje mínimo de los partidos que ya hayan obtenido una curul por dicho mecanismo, el resultado se divide entre las curules pendientes de asignar.
+Curules por asignar, se entiende como el número de aquellas que no han sido repartidas.
 
-d) Por cociente de unidad se entiende el resultado de dividir la votación efectiva, deducidos los votos utilizados mediante los mecanismos anteriores, entre el total de curules que no se han asignado
+Por resultante de asignación, se entiende el resultado de multiplicar la votación obtenida por cada partido por las curules por asignar, dividiendo el resultado entre la votación efectiva.
 
-> <small>(F. DE E., P.O. 6 DE MARZO DE 1997)</small>
+Una vez obtenido el resultante de asignación, se entenderá que la parte entera forma el resultado de enteros y la parte fraccionaria, el diferencial de representación.
 
-e) Por resto mayor se entiende el remanente más alto de entre la votación de cada partido después de haber participado en la distribución de curules mediante los mecanismos anteriores.
-
-El resto mayor podrá utilizarse cuando aún quedaren curules pendientes de asignar.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 157.
 
-Para la aplicación de la fórmula de asignación a que se refiere el artículo anterior se observará el procedimiento siguiente:
+Para la aplicación de la fórmula de asignación de diputaciones de representación proporcional a que se refiere el artículo anterior, se observará los procedimientos siguientes:
 
-I. Se determinará el total de la votación emitida. Para este fin se sumarán los cómputos distritales correspondientes a esta elección;
+a) Se determinará el total de la votación emitida. Para este fin se sumarán los cómputos distritales correspondientes a esta elección;
 
-II. Se hará la declaración de los partidos políticos que no hayan obtenido el 2% de la votación total emitida;
+b) Se hará la declaración de los partidos políticos que no hayan obtenido el 2.5% de la votación total emitida;
 
-III. A cada partido político que haya alcanzado el 2% de la votación total emitida en el Estado se le asignará una curul,
+c) A cada partido político que haya alcanzado el 2.5% de la votación total emitida en el Estado se le asignará una curul, pero no deberá de tener triunfo alguno en elección de diputados de mayoría relativa;
 
-IV. Si un partido político ya ha obtenido16 curules y aún tiene un remanente de votos, éste será deducido de la votación efectiva y no podrá seguir participando en las asignaciones posteriores;
+Siguientes asignaciones:
 
-V. Se determinará factor común y se procederá a asignar a cada partido político tantas curules como veces del factor común alcance su votación;
+a) Se determinará el número de curules por asignar, y se obtendrá el resultante de asignación para cada partido político, formando por resultado de enteros y el diferencial de representación proporcional.
 
-VI. Los partidos políticos que hayan alcanzado curules por los mecanismos anteriores podrán seguir participando, en la asignación de diputados por los mecanismos siguientes, con su votación restante deduciendo sucesivamente la empleada para obtener cada curul, siempre que no se encuentre en el supuesto de la fracción anterior.
+b) Se asignará a cada partido político tantas curules como su resultado de enteros.
 
-> <small>(F. DE E., P.O. 6 DE MARZO DE 1997)</small>
-
-VII. Una vez determinado el cociente de unidad se procederá a asignar a los partidos que se encuentren en el supuesto anterior, tantos curules como múltiplos del cociente de unidad alcance con los votos de que disponga;
-
-VIII. Si después de aplicarse los mecanismos anteriores aun quedan curules por asignar estas se distribuirán por el método de resto mayor asignándose una de ellas a cada partido, en orden decreciente de los remanentes de los votos no utilizados.
+c) Después de aplicar los mecanismos anteriores, las curules por asignar se distribuirán con base en el resultado del diferencial de representación, asignándose una de ellas a cada partido, en orden decreciente del valor numérico.
 
 ###### ARTÍCULO 158.
 
@@ -1893,27 +2223,31 @@ a) Haya registrado fórmula de candidatos para integrar el Ayuntamiento en las e
 
 b) Que no haya alcanzado el triunfo por mayoría relativa en la misma elección, y
 
-> <small>(F. DE E., P.O. 6 DE MARZO DE 1997)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
-c) Que alcanzó por lo menos el 2% de la votación emitida en el municipio correspondiente y que haya registrado fórmula de candidatos para integrar el Ayuntamiento en las elecciones respectivas y que no haya alcanzado el triunfo por mayoría relativa en la misma elección.
+c) Que alcanzó por lo menos el 2.5% de la votación emitida en el municipio correspondiente y que haya registrado fórmula de candidatos para integrar el ayuntamiento en las elecciones respectivas y que no haya alcanzado el triunfo de mayoría relativa en la misma elección.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 160.
 
-Los consejos municipales o distritales, según el caso, procederán a hacer la asignación de las regidurías de representación proporcional del ayuntamiento que corresponda. Para este efecto se observará las reglas siguientes:
+Los Consejos Municipales o Distritales, según el caso, procederán a hacer la asignación de las regidurías de representación proporcional del ayuntamiento que corresponda y la declaración de primera minoría. Para este efecto se observarán las reglas siguientes:
 
-I. Se hará la declaratoria de los partidos políticos que no habiendo alcanzado el triunfo, por mayoría relativa en la elección municipal respectiva, obtuvieron por lo menos el 2% del total de la votación emitida en el municipio correspondiente.
+I. Se hará la declaratoria de los partidos políticos que no habiendo alcanzado el triunfo por mayoría relativa en la elección municipal respectiva, obtuvieron por lo menos el 2.5% del total de la votación emitida en el municipio correspondiente. Al total de votación emitida se le deducirá la de aquellos partidos que no hayan alcanzado el 2.5% referido, para efectos del reparto a que se refiere la fracción III.
 
-II. A cada partido que haya obtenido el 2% de la votación, se le asignará una regiduría;
+II. Tendrán derecho a participar los partidos políticos que hayan obtenido el 2.5% de la votación.
 
-III. Se calculará el factor de asignación para cada partido político dividiéndo su porcentaje de votación entre el número de regidores que hayan sido asignados más uno. Se asignará una regiduría al que obtenga el factor de asignación mayor.
+III. Se calculará el factor de asignación para cada partido político dividiendo su porcentaje de votación entre el número de regidores que hayan sido asignados más uno. Se asignará una regiduría al que obtenga el factor de asignación mayor.
 
-IV. Tomando en cuenta los regidores asignados por los mecanismos anteriores, se repite el procedimiento señalado en la fracción que antecede hasta la total asignación de las regidurías a designar.
+IV. Previa resta del porcentaje ya empleado para la asignación a que se refiere la fracción anterior, se repite el procedimiento señalado en esta, hasta el reparto total de las regidurías.
 
 ###### ARTICULO 161.
 
 En la asignación de diputados y (sic) de regidores de representación proporcional de las coaliciones sólo podrán acumularse los votos emitidos a favor de sus candidatos comunes.
 
-Los partidos políticos que para los fines mencionados convengan en coaligarse parcialmente, sosteniendo a determinadas fórmulas, no tendrán derecho a acreditar regidores de representación proporcional con base en la votación que reciban sus fórmulas comunes. Cuando con el consentimiento de una fórmula su registro sea hecho por dos o más partidos sin mediar coalición, los votos emitidos a su favor serán computables para la asignación de regidores de representación proporcional.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+Cuando con el consentimiento de una fórmula su registro sea hecho por dos o más partidos sin mediar coalición, los votos emitidos a su favor serán computables para la asignación de regidores de representación proporcional.
 
 # LIBRO SEGUNDO. DE LOS PROCEDIMIENTOS ELECTORALES
 
@@ -2201,7 +2535,9 @@ b) Un comité estatal que tenga la representación del partido en todo el Estado
 
 c) Un comité u organismo equivalente en cada uno cuando menos de diez municipios del Estado, pudiendo también integrar comités distritales o regionales.
 
-V. La obligación de presentar una plataforma electoral mínima para cada elección en que participen, congruente con su declaración de principios y programas de acción, misma que sus candidatos sostendrán en la campaña electoral respectiva, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+V. La obligación de presentar una plataforma electoral mínima para cada elección en que participen, congruente con su declaración de principios y programa de acción, misma que partido y candidatos difundirán en la campaña electoral respectiva.
 
 VI. Las sanciones aplicables a los miembros que infrinjan sus disposiciones internas.
 
@@ -2303,9 +2639,17 @@ e) Emblema y colores propios de la coalición, que podrán ser el conjunto de em
 
 f) Formas en que convengan los integrantes de la coalición para ejercer sus prerrogativas y distribución del financiamiento público dentro de los señalamientos de esta Ley,
 
-g) Datos relativos a la asamblea estatal, municipal, o distrital, que celebraron los partidos políticos, en la que se aprobó la coalición; y.
+g) Datos relativos a la asamblea estatal, municipal, o distrital, que celebraron los partidos políticos, en la que se aprobó la coalición; y (sic)
 
-h) El porcentaje de votación obtenida por la coalición, que corresponda a cada partido político para efectos de conservación de registro, financiamiento y asignación de diputados por el principio de representación proporcional.
+h)El porcentaje de votación obtenida por la coalición, que corresponda a cada partido político para efectos de conservación de registro, financiamiento y asignación de diputados por el principio de representación proporcional;
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+i) El señalamiento de quien ostenta la representación ante los distintos órganos electorales, según la elección de que se trate; y
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+j) Para la interposición de los medios de impugnación previstos en esta Ley, el señalamiento de quien ostentará la representación de la coalición.
 
 ###### ARTICULO 208.
 
@@ -2327,9 +2671,27 @@ Para efectos de la integración de los organismos electorales, los partidos pol�
 
 Para el nombramiento de sus representantes ante mesas directivas de casilla y generales, los partidos políticos coaligados solo podrán registrar un nombramiento por la coalición.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+Los partidos políticos coaligados mantendrán el financiamiento público que les corresponda a cada uno de ellos, de acuerdo a lo dispuesto por esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+Los partidos políticos coaligados integrarán una comisión responsable de la aplicación del financiamiento que cada uno aporte, la cual presentará el informe financiero a que se refiere el artículo 49 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+Los partidos coaligados se sujetarán a los topes de gastos de campaña fijados por el Consejo General del Instituto Electoral de Querétaro, como si se tratara de un solo partido político.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+En los tiempos de acceso a los medios de comunicación, la coalición disfrutará de las prerrogativas, como si se tratara de un solo partido político.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 212.
 
-Los partidos políticos no podrán postular candidatos propios cuando ya hubiere candidatos de coalición de la que ellos formen parte.
+Los partidos políticos no podrán postular candidatos propios cuando ya hubiere candidatos de coalición de la elección de que se trate.
 
 ###### ARTICULO 213.
 
@@ -2427,7 +2789,9 @@ II. Lugar y fecha de nacimiento;
 
 III. Domicilio y tiempo de residencia en el mismo;
 
-IV. Número de credencial de elector, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+IV. Folio y clave de elector, y
 
 V. Cargo para el que se les postula.
 
@@ -2443,9 +2807,11 @@ Los órganos electorales, coadyuvarán con los partidos políticos y candidatos,
 
 Además de los documentos que señala el párrafo anterior, cuando se trate del registro de candidaturas por coalición de dos o más partidos, deberá exhibirse copia certificada de la resolución en que se aprueba el convenio de coalición.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 226.
 
-Las relaciones de diputados de representación proporcional, se presentarán por cada circunscripción en listas completas y coincidirán con el número de curules que serán adjudicadas en cada circunscripción.
+Las relaciones de candidatos a diputados de representación proporcional, se presentarán por cada circunscripción en listas completas y coincidirán con el número de curules que serán adjudicadas en cada circunscripción. En caso de resultar improcedente el registro de algún candidato a diputado propietario o suplente de la lista que se menciona, se negará el registro de tal candidato y se recorrerá en la asignación de diputados de representación proporcional el inmediato siguientes con el respectivo suplente. Si la negativa de registro resulta definitiva y no fuera posible la sustitución, el partido contenderá sólo con el número de candidatos a los que se concede el registro.
 
 Sólo tendrán derecho a solicitar el registro de listas de diputados por el principio de representación proporcional, los partidos políticos que hayan acreditado haber registrado candidaturas de mayoría relativa en por lo menos la mitad de los distritos que integran la circunscripción que corresponda.
 
@@ -2459,9 +2825,11 @@ c) Lista generada con la combinación de las dos modalidades anteriores, según 
 
 En todos los casos el partido deberá señalar en su solicitud de registro, la modalidad a la que se acoge. En caso de no hacerlo el Consejo General aplicará la señalada en el inciso b) del párrafo anterior.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 227.
 
-Las relaciones de regidores de representación proporcional se registrarán en listas completas y el número de candidaturas será equivalente al número de regidores de representación proporcional de que se trate.
+Las relaciones de candidatos a regidores de representación proporcional se registrarán en listas completas y el número de candidaturas será equivalente al número de regidores de representación proporcional de que se trate. Para el caso de negativa o improcedencia de registro, se aplicará el mismo criterio señalado en el párrafo primero del artículo anterior.
 
 ### CAPITULO VII. De las Resoluciones
 
@@ -2474,6 +2842,10 @@ Los partidos políticos o coaliciones tendrán derecho a sustituir a sus candida
 La solicitud de registro de candidatos deberá presentarse ante el órgano electoral competente, dentro del término que para tal efecto señale la convocatoria acusando el recibo correspondiente en la copia que de la misma se presente así como de los documentos que se anexen.
 
 Se exceptúan de lo dispuesto en el párrafo anterior, los casos de fuerza mayor o circunstancia fortuita, en que podrá presentarse la solicitud en el consejo electoral más próximo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+Cuando algún miembro de las fórmulas de diputados de mayoría relativa, de diputados de representación proporcional o de ayuntamiento, sea declarado inelegible, sólo se referirá aquel integrante que no reúna los requisitos legales y en ningún caso al total de la fórmula, procediéndose a sustitución de candidato o candidatos, siempre y cuando se esté dentro de los términos legales de sustitución, de acuerdo al Capítulo Tercero del presente Título.
 
 ###### ARTICULO 230.
 
@@ -2489,17 +2861,17 @@ Si de la verificación realizada se advierte que se omitió el cumplimiento de u
 
 La documentación que presenten los partidos políticos relativa al registro de candidatos o fórmulas, estará a disposición de los representantes de los partidos políticos acreditados ante el consejo respectivo, para su revisión.
 
-> <small>(F. DE E., P.O. 6 DE MARZO DE 1997)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 232.
 
-Dentro de los tres días siguientes al vencimiento del plazo del registro de candidatos, los consejos general, distritales y municipales sesionará para resolver sobre la procedencia de las solicitudes de registro presentadas por los partidos políticos, solicitándose la publicación en el Periódico Oficial del Gobierno del Estado.
+Vencido el plazo a que se refiere el último párrafo del artículo anterior y el plazo de vencimiento para el registro de candidatos, los Consejos General, Distrital y Municipal, convocarán a sesión con cinco días de anticipación para resolver la procedencia de las solicitudes de registro presentadas por los partidos políticos o coaliciones, ordenándose la publicación de los acuerdos en el Periódico Oficial del Gobierno del Estado.
 
-Los consejos distritales comunicarán de inmediato al Consejo General del Instituto sus resoluciones para efectos del acuerdo de registro de listas de candidatos a diputados por el principio de representación proporcional.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 233.
 
-Contra la resolución que niega el registro de candidatos procede el recurso de reconsideración, la resolución que lo concede no admite recurso.
+Contra la resolución que conceda o niegue el registro de candidatos, procede el recurso de reconsideración.
 
 ###### ARTICULO 234.
 
@@ -2561,7 +2933,9 @@ II. Los nombramientos de los representantes ante las mesas directivas de casilla
 
 4. Número del distrito, municipio y casilla en que actuarán, y
 
-5.Número de credencial de elector.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+5. Clave de elector.
 
 III. Los consejos distritales o municipales devolverán en un término de tres días, a los partidos políticos o coaliciones el original de los nombramientos respectivos debidamente sellados y firmados por el presidente y secretario de los mismos conservando un ejemplar;
 
@@ -2599,6 +2973,10 @@ VI. Permitir sufragar a aquellos ciudadanos cuyo nombre no aparezca en la lista 
 
 VII. Ejercer violencia física o presión sobre los miembros de la mesa directiva de casilla o sobre los electores, si ello es determinante para el resultado de la votación.
 
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+VIII.- Haber impedido el acceso a los representantes de los partidos políticos o haberlos expulsado sin causa justificada.
+
 ###### ARTICULO 245.
 
 Son causas de nulidad de una elección de diputado de mayoría relativa en un distrito electoral uninominal y de un ayuntamiento las siguientes:
@@ -2615,9 +2993,11 @@ I. Que alguna o algunas de las causales de nulidad establecidas en el artículo 
 
 II. Que no se instalen por lo menos el 20% de las casillas que corresponden al Estado y consecuentemente la votación no hubiese sido recibida.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 247.
 
-Ningún partido deberá invocar causales de nulidad, actos o circunstancias que el propio partido haya provocado.
+Ningún partido o coalición podrá invocar causales de inelegibilidad o falta de alguno de los requisitos que la Ley establece de algún candidato, si éstas existían y pudieron hacerse valer dentro del plazo establecido en el artículo 231.
 
 ###### ARTICULO 248.
 
@@ -2885,9 +3265,11 @@ El Consejo General del Instituto informará a la Secretaría de Gobierno del Est
 
 La Secretaría de Gobierno deberá comunicar al Consejo General, las determinaciones que se hayan adoptado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 284.
 
-Los partidos políticos estatales independientemente de las sanciones a que se hagan acreedores sus dirigentes o representantes, se harán acreedores a las siguientes sanciones:
+Los partidos políticos, independientemente de las sanciones a que se hagan acreedores sus dirigentes o representantes, se harán acreedores a las siguientes sanciones:
 
 I. Con multa de cincuenta a cinco mil veces el salario mínimo vigente en el Estado de Querétaro;
 
@@ -2917,6 +3299,10 @@ VI. Sobrepasen durante una campaña electoral, los topes a los gastos señalados
 
 VII. Se sobrepasen los topes de campaña en un 50% de las candidaturas, o bien tratándose de la campaña estatal para gobernador del Estado.
 
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+VIII. Habiendo postulado candidatos a los cargos de elección popular acuerden que éstos no se presenten a tomar posesión del cargo para el que fueron electos.
+
 ###### ARTICULO 286.
 
 A las personas que infrinjan las disposiciones de esta Ley sobre restricciones para las aportaciones de financiamiento que no provengan del erario público se le podrá sancionar con multa hasta del doble del monto económico aportado indebidamente. En caso de reincidencia el monto de la multa podrá ser aumentado hasta en dos tantos más.
@@ -2937,9 +3323,11 @@ El Consejo General del Instituto, determinará lo conducente en sesión que cele
 
 En caso de que la sanción que se imponga al funcionario electoral sea de las contempladas por los incisos a), b) o d) de la fracción I del artículo 280, la sanción se aplicará por conducto del superior jerárquico, quien deberá informar al director general del Instituto del cumplimiento.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 290.
 
-Para la aplicación de las sanciones por infracciones cometidas por los partidos políticos, una vez que el Consejo General del Instituto tenga conocimiento de la infracción de que se trate, en emplazará al partido político responsable para que un lapso de cinco días conteste por escrito la imputación que se le haga y aporte las pruebas que considere pertinentes.
+Para la aplicación de las sanciones por infracciones contempladas en esta ley, cometidas por los partidos políticos, sus dirigentes, candidatos o representantes y que sean competencia del Consejo General del Instituto Electoral de Querétaro y éste tenga conocimiento de ellas, emplazará al responsable para que un lapso de diez días naturales conteste por escrito la imputación que se le haga y aporte las pruebas que considere pertinentes.
 
 ###### ARTICULO 291.
 
@@ -2989,7 +3377,7 @@ DECIMO PRIMERO. Para el Proceso Electoral de 1997, se establecerá una sola circ
 
 Primer Distrito formado por las secciones: 439, 440, 441, 442, 443, 444, 445, 446, 452, 453,454, 455, 456, 457, 458, 459 461, 462, 463, 464, 465, 466, 467, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 554 y 555, del Municipio de Querétaro.
 
-Segundo Distrito formado por las secciones: 329, 330, 331, 339, 340. 341, 342, 343, 344, 345, 346, 355, 356, 357, 358, 359, 360, 381, 395, 396, 397, 416, 427, 435, 447, 448, 449, 450, 460, 468 469, 481, 482, 483, 484, 543, 544, 545, 546, 547, 548, 551, 552, y 553, del municipio de Querétaro.
+Segundo Distrito formado por las secciones: 329, 330, 331, 339, 340. 341, 342, 343, 344, 345, 346, 355, 356, 357, 358, 359, 360, 381, 395, 396, 397, 416, 427, 435, 447, 448, 449, 450, 460, 468 469, 481, 482, 483, 484, 543, 544, 545, 546, 547, 548, 551, 552,y 553, del municipio de Querétaro.
 
 Tercer Distrito formado por las secciones: 266, 267, 268, 269, 270, 272, 273, 274, 279, 280, 281, 282, 283, 284, 289, 290, 291, 292, 293, 294, 297, 298, 299, 300, 301, 302, 306, 307, 308, 309, 310, 311, 312, 314, 315, 316, 317, 321, 322, 323, 324, 325, 517, 520, 521, 522, 527, 528, 530, 531, 533, 534, 535, 536, 537, 538, 540, 541 y 542 del Municipio de Querétaro.
 
@@ -3052,6 +3440,12 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 ALEJANDRO ESPINOSA MEDINA
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBE LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE DICIEMBRE DE 1999.
+
+DECRETO QUE REFORMA Y ADICIONA EL ARTICULO 10 DE LA LEY ELECTORAL DEL ESTADO.
 
 ## TITULO QUINTO. DEL PROCEDIMIENTO DE APLICACION DE SANCIONES
 
@@ -3116,3 +3510,27 @@ IV. Una relación sucinta de los hechos que se estiman violatorios de los precep
 V. El nombre, cargo partidario y firma de quien lo presenta.
 
 ## TITULO CUARTO. DE LAS NULIDADES Y DEL SISTEMA DE MEDIOS DE IMPUGNACION
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga"
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+P.O. 10 DE DICIEMBRE DE 1999.
+
+DECRETO QUE REFORMA LA LEY ELECTORAL DEL ESTADO (ARTICULOS 47; 48; 49; 51).
+
+UNICO PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga"
+
+P.O. 10 DE DICIEMBRE DE 1999.
+
+DECRETO QUE REFORMA LA LEY ELECTORAL DEL ESTADO (ARTICULOS 2; 7Bis; 11; 18, FRACC. II; 21; 33, FRACC. III, VI; 35, FRACC. VI, XIII; 38; 39, FRACC. I; 40; 42, ETC).
+
+PRIMERO. Los partidos políticos con derecho al financiamiento público que participaron en las elecciones de 1997, en el año 2000 recibirán la cantidad que les corresponda conforme al acuerdo de financiamiento tomado por el Instituto Electoral de Querétaro en el año de 1997, más el resultante de la actualización del salario mínimo a la fecha, haciendo un total de $6'899,000.00 (SEIS MILLONES OCHOCIENTOS NOVENTA Y NUEVE MIL PESOS), como monto de la prerrogativa a repartir entre aquellos.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+TERCERO. La presente Ley entrará en vigor al día siguiente de su publicación en el periódico oficial de Gobierno del Estado "La Sombra de Arteaga".
