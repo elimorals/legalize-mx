@@ -4,7 +4,7 @@ identifier: "BCS-ley-para-los-trabajadores-al-servicio-de-los-poderes-del-3362"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-20"
-last_updated: "1979-12-20"
+last_updated: "1983-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3362&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY PARA LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE FEBRERO DE 1983.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el 20 de diciembre de 1976.
 
@@ -65,9 +65,9 @@ Los trabajadores se dividen en tres grupos: de confianza, de base y supernumerar
 
 SON TRABAJADORES DE CONFIANZA:
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA, B.O. 10 DE FEBRERO DE 1983)</small>
 
-I.- EN EL PODER EJECUTIVO, el Secretario General de Gobierno, el Oficial Mayor, el Secretario de Desarrollo, el Secretario de Finanzas, el Subsecretario de Finanzas, Secretarios Particulares y empleados de los mismos, los Procuradores, Subprocuradores y Agentes del Ministerio Público, Asesores, los Directores y Subdirectores, Jefes de Departamentos, Cajeros Generales, Contralores, Recaudadores y Subrecaudadores de Rentas, Inspectores, Encargados directos de adquisiciones y compras, Auditores, Presidentes de Juntas de Conciliación y Arbitraje, Jefes de Archivos, Museos, Bibliotecas y Centros de Cómputo, Pilotos y personal de aeronáutica, Patrones de embarcaciones, Policía Judicial y Custodios de Prevención y Readaptación Social.
+I.- EN EL PODER EJECUTIVO: el Secretario General de Gobierno, el Oficial Mayor, los Secretarios de Desarrollo, Finanzas, y Asentamientos Humanos y Obras Públicas, Subsecretarios, Contralores, Directores y Subdirectorios, Secretarios Particulares y Empleados de los mismos, los Procuradores y Sub-procuradores, Agentes del Ministerio Público, Asesores, Registradores, Jefes de Departamento, Cajero, Recaudadores y Sub-recaudadores de Rentas, Inspectores, Encargados directos de Adquisiciones y Compras, Auditores, Presidentes y Secretarios de Acuerdos de Juntas de Conciliación y Arbitraje, Jefes de Archivo, Museos y Bibliotecas, Personal del Centro de Cómputo, Pilotos y Personal de Aeronáutica, Patrones de Embarcaciones, Policías Judiciales y Custodios de Prevención y Readaptación Social.
 
 II.- EN EL PODER LEGISLATIVO: El Oficial Mayor, el Contador Mayor de Hacienda, los Auditores, los Asesores, el Pagador General.
 
@@ -205,13 +205,13 @@ Por cada cinco días de trabajo disfrutará el trabajador de dos días de descan
 
 Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos después del mismo. Durante la lactancia tendrá un descanso extraordinario por día de una hora para amamantar a sus hijos, a solicitud de la empleada.
 
+> <small>(REFORMADO, B.O. 10 DE FEBRERO DE 1983)</small>
+
 ###### ARTICULO 29.
 
-Serán días de descanso obligatorio:
+Serán días de descanso obligatorios:
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1979)</small>
-
-Primero de enero, 5 de febrero, 21 de marzo, primero de abril, 5 de abril de cada seis años, primero de mayo, 5 de mayo, primero de septiembre, 16 de septiembre, 12 de octubre, 20 de noviembre, primero de diciembre de cada seis años y 25 de diciembre.
+El 1º de Enero, 5 de Febrero, 21 de Marzo, 1º y 5 de Mayo, 1º de Septiembre, 16 de Septiembre, 12 de Octubre, 20 de Noviembre y 25 de Diciembre. Asimismo, serán días de descanso obligatorios, el primer día del Primer Período Ordinario de Sesiones del Congreso Local, de cada año, el 5 de Abril y el 1º de Diciembre de cada seis años, con motivo de la Toma de Posesión de los Titulares del Poder Ejecutivo Estatal y Federal, respectivamente.
 
 > <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1979)</small>
 
@@ -833,9 +833,11 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 TRIBUNAL DE CONCILIACION Y ARBITRAJE PARA LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
+> <small>(REFORMADO, B.O. 10 DE FEBRERO DE 1983)</small>
+
 ###### ARTICULO 115.
 
-El Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y de los Municipios, será colegiado y estará integrado de la siguiente manera: un Arbitro representante del Estado y Municipios, designado de común acuerdo por los tres Poderes del Estado y los Municipios del mismo; un Arbitro representante de los trabajadores que será designado por el Sindicato de Trabajadores al Servicio del Estado; habrá un tercer Arbitro que será Licenciado en Derecho, preferiblemente especializado en Derecho del Trabajo, que nombrarán los Arbitros representantes citados y éste fungirá como Presidente.
+El Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y Municipios, será colegiado y estará integrado de la siguiente manera: un Arbitro representante del Estado y Municipios, designado de común acuerdo por los tres Poderes del Estado y Municipios del mismo; un Arbitro representante de los Trabajadores que será designado por el Sindicato de Trabajadores al Servicio del Estado y Municipios, habrá un tercer Arbitro que será licenciado en Derecho preferentemente, especializado en Derecho de Trabajo que nombrará los Arbitros representantes citados y éste fungirá como Presidente.
 
 ###### ARTICULO 116.
 
@@ -853,9 +855,11 @@ III.- No haber sido condenado por delito intencional.
 
 El representante de los trabajadores al servicio del Estado o en su caso de los Municipios, deberá haber servido a éste por un período no menor de cinco años, precisamente anteriores a la fecha de la designación.
 
+> <small>(REFORMADO, B.O. 10 DE FEBRERO DE 1983)</small>
+
 ###### ARTICULO 118.
 
-El presidente del Tribunal durará en su encargo 5 años y los demás representantes podrán ser removidos libremente por quienes los designaron; los emolumentos de los árbitros, serán fijados, al igual que el de los empleados, por los presupuestos respectivos.
+El Presidente del Tribunal durará en su encargo cinco años, pudiendo ser reelecto y los demás representantes podrán ser removidos libremente por quienes los designaron; los emolumentos de los Arbitros serán fijados, al igual que el de los empleados, en los presupuestos respectivos.
 
 ###### ARTICULO 119.
 
@@ -1034,3 +1038,9 @@ B.O. 20 DE DICIEMBRE DE 1979.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día primero de enero de 1980.
+
+B.O. 3 DE FEBRERO DE 1983.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
