@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-pago-de-cuotas-del-seguro-social-10904"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-06-30"
-last_updated: "1997-06-30"
+last_updated: "2002-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10904&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1997-06-27"
 
 REGLAMENTO PARA EL PAGO DE CUOTAS DEL SEGURO SOCIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACION, CLASIFICACION DE EMPRESAS, RECAUDACION Y FISCALIZACION, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 1 DE NOVIEMBRE DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación el lunes 30 de Junio de 1997.
 
@@ -786,3 +788,17 @@ Por lo que se refiere a trabajadores asalariados de las sociedades mencionadas, 
 > <small>(F. DE E., D.O.F. 1 JULIO DE 1997)</small>
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de junio de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Guillermo Ortiz Martínez.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Javier Bonilla García.- Rúbrica".
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 1 DE NOVIEMBRE DE 2002.
+
+UNICAMENTE DE TRANSCRIBEN LOS ARTICULOS DEL DECRETO QUE SE RELACIONAN CON EL REGLAMENTO.
+
+Primero. Este Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A la entrada en vigor del presente Reglamento, se abrogan los Reglamentos de Afiliación; de la Seguridad Social para el Campo; del Seguro de Salud para la Familia; para el Pago de Cuotas del Seguro Social y para la Imposición de Multas por Infracción a las Disposiciones de la Ley del Seguro Social y sus Reglamentos, publicados en el Diario Oficial de la Federación el día 30 de junio de 1997, así como el Reglamento para la Clasificación de Empresas y Determinación de la Prima en el Seguro de Riesgos de Trabajo, publicado en el Diario Oficial de la Federación el día 11 de noviembre de 1998.
+
+Los procedimientos o instancias iniciados bajo la vigencia de los reglamentos que se abrogan, seguirán tramitándose hasta su conclusión en los términos previstos del reglamento que corresponda.
+
+Se derogan todas aquellas disposiciones de carácter administrativo y técnico que se opongan al presente Reglamento.
