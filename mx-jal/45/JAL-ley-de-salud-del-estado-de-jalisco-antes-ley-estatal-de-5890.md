@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "1986-12-30"
+last_updated: "1990-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 1990.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -151,13 +151,17 @@ XVI. Las demás materias que determine esta Ley y otras disposiciones legales ap
 
 I. El Gobernador del Estado;
 
-II. El Departamento de Salud Estado; y
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 1990)</small>
+
+II. La Secretaría de Salud y Bienestar Social del Estado; y
 
 III. Los Ayuntamientos en los términos de los convenios que celebren con el Gobierno del Estado, de conformidad con esta Ley y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 5.
 
-° Corresponde al Titular del Ejecutivo del Estado por conducto del Departamento de Salud:
+° Corresponde al Titular del Ejecutivo del Estado, por conducto de la Secretaría de Salud y Bienestar Social del Estado:
 
 A. En materia de salubridad general:
 
@@ -181,9 +185,11 @@ II. Promover, orientar, fomentar y apoyar las acciones en materia de salubridad 
 
 Tanto en materia de salubridad general, cuanto en la de salubridad local, vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente Ley y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 6.
 
-° Para los efectos de esta Ley, se entiende por norma técnica el conjunto de reglas científicas y tecnológicas de carácter obligatorio, emitidas por el Departamento de Salud del Estado, que establezcan los requisitos que deben satisfacerse, en materia de salubridad local, con el objeto de uniformar principios, criterios, políticas y estrategias.
+° Para los efectos de esta Ley, se entiende por norma técnica el conjunto de reglas científicas y tecnológicas de carácter obligatorio, emitidas por la Secretaría de Salud y Bienestar Social del Estado, que establezcan los requisitos que deben satisfacerse, en materia de salubridad local, con el objeto de uniformar principios, criterios, políticas y estrategias.
 
 ###### Art. 7.
 
@@ -247,9 +253,11 @@ VI. Impulsar, en el ámbito estatal, un sistema racional de administración y de
 
 VII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 15.
 
-La coordinación del Sistema Estatal de Salud estará a cargo del Departamento de Salud del Estado, el que tendrá las atribuciones siguientes:
+La coordinación del Sistema Estatal de Salud estará a cargo de la Secretaría de Salud y Bienestar Social del Estado, la cual tendrá las atribuciones siguientes:
 
 I. Establecer y conducir la política estatal en materia de salud en los términos de esta Ley, demás disposiciones legales aplicables, y congruentes con las políticas del Sistema Nacional de Salud y con lo dispuesto por el Ejecutivo Estatal;
 
@@ -285,27 +293,37 @@ XV. Impulsar la permanente actualización de las disposiciones legales en materi
 
 XVI. Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 16.
 
-El Departamento de Salud del Estado promoverá la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se expidan.
+La Secretaría de Salud y Bienestar Social del Estado promoverá la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se expidan.
 
 Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 17.
 
-La concertación de acciones entre el Departamento de Salud del Estado, y los integrantes de los sectores social y privado se realizará, mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
+La concertación de acciones entre la Secretaría de Salud y Bienestar Social del Estado, y los integrantes de los sectores social y privado se realizará, mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
 
 I. Se establecerán las responsabilidades que asumirán los integrantes de los sectores social y privado;
 
-II. Se determinarán las acciones de orientación, estímulo y apoyo que llevará a cabo el Departamento de Salud del Estado;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 1990)</small>
 
-III. Se especificará el carácter operativo de la concertación de acciones, con reserva de las funciones del Departamento de Salud del Estado; y
+II. Se determinarán las acciones de orientación, estímulo y apoyo que llevará a cabo la Secretaría de Salud y Bienestar Social del Estado;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 1990)</small>
+
+III. Se especificará el carácter operativo de la concertación de acciones, con reserva de las funciones de la Secretaría de Salud y Bienestar Social del Estado; y
 
 IV. Se expresarán las demás estipulaciones que, de común acuerdo, establezcan las partes.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 18.
 
-El Titular del Poder Ejecutivo del Estado por conducto del Departamento de Salud y con la participación que corresponda al Comité de Planeación para el Desarrollo Estatal, elaborará el Programa Estatal de Salud, tomando en cuenta las prioridades y los servicios de los Sistemas Nacional y Estatal de Salud.
+El Titular del Poder Ejecutivo del Estado por conducto de la Secretaría de Salud y Bienestar Social, y con la participación que corresponda al Comité de Planeación para el Desarrollo Estatal, elaborará el Programa Estatal de Salud, tomando en cuenta las prioridades y los servicios de los Sistemas Nacional y Estatal de Salud.
 
 ## TITULO TERCERO. Servicios de salud
 
@@ -393,13 +411,17 @@ III. Orientar y capacitar a la población, preferentemente, en materia de nutric
 
 Las autoridades sanitarias estatales, en coordinación con las autoridades federales competentes, propondrán y desarrollarán programas de educación para la salud, procurando optimizar los recursos y alcanzar la cobertura total de la población.
 
-El Gobierno del Estado, por conducto del Departamento Salud, en coordinación con las autoridades competentes, promoverá programas de educación para la salud, que puedan ser difundidos por los medios masivos de comunicación social en el Estado.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
+El Gobierno del Estado, por conducto de la Secretaría de Salud y Bienestar Social, en coordinación con las autoridades competentes, promoverá programas de educación para la salud, que puedan ser difundidos por los medios masivos de comunicación social en el Estado.
 
 #### SECCION TERCERA. De la nutrición
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 28.
 
-El Gobierno del Estado, por conducto del Departamento de Salud, elaborará y desarrollará programas de nutrición estatales, promoviendo la participación de los organismos cuyas atribuciones tengan relación con los mismos, así como de los sectores social y privado.
+El Gobierno del Estado, por conducto de la Secretaría de Salud y Bienestar Social, elaborará y desarrollará programas de nutrición estatales, promoviendo la participación de los organismos cuyas atribuciones tengan relación con los mismos, así como de los sectores social y privado.
 
 ###### Art. 29.
 
@@ -407,13 +429,17 @@ En los programas a que se refiere el artículo anterior, se incorporarán accion
 
 #### SECCION CUARTA. De los efectos del ambiente en la salud
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 30.
 
-El Departamento de Salud del Estado será la autoridad que tome las medidas y realice las actividades a que se refiere esta Ley, tendientes a la protección de la salud humana, ante los riesgos y daños derivados de las condiciones del ambiente, sin perjuicio de la competencia que corresponda a otras autoridades.
+La Secretaría de Salud y Bienestar Social del Estado será la autoridad que tome las medidas y realice las actividades a que se refiere esta Ley, tendientes a la protección de la salud humana, ante los riesgos y daños derivados de las condiciones del ambiente, sin perjuicio de la competencia que corresponda a otras autoridades.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
 
 ###### Art. 31.
 
-Corresponde al Departamento de Salud del Estado:
+Corresponde a la Secretaría de Salud y Bienestar Social del Estado:
 
 I. Desarrollar investigación permanente y sistemática de los riesgos y daños que, para la salud de la población, origina la contaminación del ambiente;
 
@@ -421,9 +447,11 @@ II. Vigilar la calidad del agua para el uso y consumo humano, y
 
 III. Vigilar la seguridad radiológica para el uso y aprovechamiento de fuentes de radiación, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 32.
 
-El Departamento de Salud del Estado, en el ámbito de su competencia, se coordinará con las autoridades federales correspondientes para la prestación de los servicios a que se refiere el artículo anterior.
+La Secretaría de Salud y Bienestar Social del Estado, en el ámbito de su competencia, se coordinará con las autoridades federales correspondientes para la prestación de los servicios a que se refiere el artículo anterior.
 
 ###### Art. 33.
 
@@ -435,15 +463,19 @@ Queda prohibida la descarga de aguas residuales o de contaminantes en cualquier 
 
 Los usuarios que aprovechen en su servicio aguas que posteriormente serán utilizadas para uso o consumo de la población, estarán obligados a darles el tratamiento correspondiente, a fin de evitar riesgos para la salud humana, de conformidad con las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 35.
 
-El Departamento de Salud del Estado, en coordinación con las autoridades federales competentes, municipales, ejidales y comunales correspondientes, y con la dependencia encargada de la administración del distrito de riego, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por los plaguicidas, substancias tóxicas y desperdicios o basuras.
+La Secretaría de Salud y Bienestar Social del Estado, en coordinación con las autoridades federales competentes, municipales, ejidales y comunales correspondientes, y con la dependencia encargada de la administración del distrito de riego, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por los plaguicidas, substancias tóxicas y desperdicios o basuras.
 
 #### SECCION QUINTA. De la salud ocupacional
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 36.
 
-El Departamento de Salud del Estado ejercerá el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales para el cumplimiento de los requisitos que deben reunir, de conformidad con lo que establezcan los reglamentos respectivos.
+La Secretaría de Salud y Bienestar Social del Estado ejercerá el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales para el cumplimiento de los requisitos que deben reunir, de conformidad con lo que establezcan los reglamentos respectivos.
 
 ###### Art. 37.
 
@@ -503,11 +535,11 @@ VII. La inspección de pasajeros que puedan ser portadores de gérmenes, así co
 
 VIII. Las demás que determine esta Ley, sus reglamentos y la Secretaría de Salud.
 
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
 
 ###### Art. 44.
 
-Las autoridades no sanitarias cooperarán en el ejercicio de las acciones para Combatir las enfermedades transmisibles, adoptando las medidas resultantes de las normas técnicas que dicte el Departamento de Salud del Estado.
+Las autoridades no sanitarias cooperarán en el ejercicio de las acciones para combatir las enfermedades transmisibles, adoptando las medidas resultantes de las normas técnicas que dicte la Secretaría de Salud y Bienestar Social del Estado.
 
 ###### Art. 45.
 
@@ -641,9 +673,11 @@ II. La atención del niño y la vigilancia de su crecimiento y desarrollo, inclu
 
 III. La promoción de la integración y el bienestar familiar.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 63.
 
-En la realización de acciones tendientes a la prevención de la mortalidad materno-infantil, los Sistemas para el desarrollo Integral de la Familia, Estatal y Municipales, observarán las instrucciones que, sobre esta materia, reciban del Departamento de Salud del Estado.
+En la realización de acciones tendientes a la prevención de la mortalidad materno-infantil, los Sistemas para el Desarrollo integral de la Familia, Estatal y Municipales, observarán las instrucciones que, sobre esta materia, reciban de la Secretaría de Salud y Bienestar Social del Estado.
 
 ###### Art. 64.
 
@@ -701,9 +735,11 @@ El Gobierno del Estado coadyuvará con la Secretaría de Salud, en las acciones 
 
 La prevención de las enfermedades mentales tiene carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 73.
 
-Para la promoción de la salud mental, el Departamento de Salud impulsará la coordinación entre el organismo estatal que atienda o maneje la asistencia social y las instituciones de salud, con las autoridades competentes, en cada materia, para fomentar y apoyar:
+Para la promoción de la salud mental, la Secretaría de Salud y Bienestar Social del Estado, impulsará la coordinación entre el organismo estatal que atienda o maneje la asistencia social y las instituciones de salud, con las autoridades competentes, en cada materia, para fomentar y apoyar:
 
 I. El desarrollo de actividades educativas, socioculturales y recreativas, que contribuyan a la salud mental, preferentemente, de la infancia, y de la juventud;
 
@@ -725,9 +761,11 @@ El Ejecutivo del Estado, conforme a las normas técnicas básicas que establezca
 
 Al efecto, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 76.
 
-El internamiento de personas con padecimientos mentales en establecimientos destinados a tal efecto, se ajustará a los requisitos científicos y legales que determine el Departamento de Salud y las disposiciones legales aplicables. Así como a principios éticos y sociales.
+El internamiento de personas con padecimientos mentales en establecimientos destinados a tal efecto, se ajustará a los requisitos científicos y legales que determine la Secretaría de Salud y Bienestar Social y las disposiciones legales aplicables, así como a principios éticos y sociales.
 
 ###### Art. 77.
 
@@ -763,9 +801,11 @@ El Gobierno del Estado, de conformidad con las disposiciones legales aplicables,
 
 El Gobierno del Estado coadyuvará con las autoridades federales competentes, para que se garantice a la población la disponibilidad de medicamentos esenciales.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 83.
 
-El Departamento de Salud del Estado coadyuvará con las entidades públicas correspondientes, para que los establecimientos de los sectores público, social y privado, dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a lo que al efecto establezcan las leyes aplicables.
+La Secretaría de Salud y Bienestar Social del Estado coadyuvará con las entidades públicas correspondientes, para que los establecimientos de los sectores público, social y privado, dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a lo que al efecto establezcan las leyes aplicables.
 
 ###### Art. 84.
 
@@ -809,11 +849,13 @@ Son servicios de salud de carácter social los que preste directamente o mediant
 
 El Ejecutivo Estatal y los Ayuntamientos podrán convenir con las instituciones federales de seguridad social la prestación de servicios de salud para sus servidores públicos, en los términos de la Ley de la materia.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 #### SECCION PRIMERA. Del programa contra el alcoholismo y el abuso de bebidas alcohólicas
 
 ###### Art. 91.
 
-El Departamento de Salud del Estado, en coordinación con la Dirección de Profesiones, vigilará el ejercicio de los profesionales, técnicos y auxiliares de la salud, en la prestación de los servicios respectivos procurando la coordinación con las autoridades educativas, estatales y federales.
+La Secretaría de Salud y Bienestar Social del Estado, en coordinación con la Dirección de Profesiones, vigilará el ejercicio de los profesionales, técnicos y auxiliares de la salud, en la prestación de los servicios respectivos procurando la coordinación con las autoridades educativas, estatales y federales.
 
 ### CAPITULO XII. De los usuarios de los servicios de salud y participación de la comunidad
 
@@ -831,9 +873,11 @@ Los usuarios tienen derecho a obtener servicios de salud con oportunidad y a rec
 
 Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios de salud, y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 95.
 
-El Departamento de Salud del Estado establecerá los procedimientos para regular las modalidades de acceso a los servicios públicos de la población en general y a los servicios sociales y privados.
+La Secretaría de Salud y Bienestar Social del Estado establecerá los procedimientos para regular las modalidades de acceso a los servicios públicos de la población en general y a los servicios sociales y privados.
 
 ###### Art. 96.
 
@@ -871,17 +915,21 @@ VI. Información a las autoridades competentes de las irregularidades o deficien
 
 VII. Otras actividades que coadyuven a la protección de la salud.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 101.
 
-El Departamento de Programación y Desarrollo Económico y el Departamento de Salud del Estado, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar, organizadamente, en los programas de promoción y mejoramiento de la salud individual o colectiva, así como los de prevención de enfermedades y accidentes; de invalidez y rehabilitación de inválidos.
+Las Secretarías de Promoción y Desarrollo Económico y de Salud y Bienestar Social del Estado, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar, organizadamente, en los programas de promoción y mejoramiento de la salud individual o colectiva, así como los de prevención de enfermedades y accidentes; de invalidez y rehabilitación de inválidos.
 
 ###### Art. 102.
 
 Con sujeción a la Ley Orgánica Municipal, en las Cabeceras, Delegaciones y Agencias Municipales, podrán constituirse Comités de Salud, que tendrán como objetivo participar en el mejoramiento y Vigilancia de los servicios de salud de su localidad y promover la mejoría de las condiciones ambientales que favorezcan la salud de la población.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 103.
 
-Corresponderá a los Cabildos Municipales, en coordinación con los Departamentos de Programación y Desarrollo de Salud del Estado, la organización de los Comités a que se refiere el Artículo anterior, y la vigilancia en el cumplimiento de los fines para los que sean creados.
+Corresponderá a los Cabildos Municipales, en coordinación con las Secretarías de Promoción y Desarrollo Económico y de Salud y Bienestar Social del Estado, la organización de los comités a que se refiere el artículo anterior, y la vigilancia en el cumplimiento de los fines para los que sean creados.
 
 ###### Art. 104.
 
@@ -979,9 +1027,11 @@ Las autoridades sanitarias estatales recomendarán normas y criterios, para la f
 
 Las autoridades sanitarias del Estado, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las instituciones de salud, establecerán las normas y criterios para la capacitación y actualización de los recursos humanos para la salud.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 116.
 
-Corresponde al Gobernador, por conducto del Departamento de Salud del Estado, sin perjuicio de las atribuciones de las autoridades educativas en la materia y en coordinación con éstas:
+Corresponde al Gobernador, por conducto de la Secretaría de Salud y Bienestar Social del Estado, sin perjuicio de las atribuciones de las autoridades educativas en la materia, y en coordinación con éstas:
 
 I. Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del Estado, en materia de salud;
 
@@ -991,19 +1041,21 @@ III. Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro 
 
 IV. Promover la participación voluntaria de profesionales, técnicos y auxiliares de la salud, en actividades docentes o técnicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 117.
 
-El Departamento de Salud del Estado coadyuvará con las autoridades e instituciones educativas, cuando éstas lo soliciten, en:
+La Secretaría de Salud y Bienestar Social coadyuvará con las autoridades e instituciones educativas, cuando éstas lo soliciten, en:
 
 I. Los requisitos para la apertura y funcionamiento de instituciones dedicadas a la formación de recursos humanos para la salud, en los diferentes niveles académicos y técnicos, y
 
 II. La definición del perfil de los profesionales para la salud, en sus etapas de formación.
 
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
 
 ###### Art. 118.
 
-El Departamento de Salud del Estado, en coordinación con las autoridades federales competentes, impulsará y Fomentará la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los Sistemas Nacional y Estatal de Salud, de los programas educativos y de las necesidades de salud en el Estado.
+La Secretaría de Salud y Bienestar Social del Estado, en coordinación con las autoridades federales competentes, impulsará y fomentará la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los Sistemas Nacional y Estatal de Salud, de los programas educativos y de las necesidades de salud en el Estado.
 
 ###### Art. 119.
 
@@ -1016,6 +1068,8 @@ La operación de los programas correspondientes en los Establecimientos de salud
 ## TITULO QUINTO. Investigación para la salud
 
 ### CAPITULO UNICO. De su captación y suministro
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
 
 ###### Art. 120.
 
@@ -1033,9 +1087,11 @@ V. Al estudio de técnicas y métodos que se recomienden y empleen, para la pres
 
 VI. A la producción nacional de insumos para la salud.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 121.
 
-El Departamento de Salud del Estado apoyará y estimulará la promoción, constitución y funcionamiento de establecimientos destinados a la investigación para la salud.
+La Secretaría de Salud y Bienestar Social del Estado apoyará y estimulará la promoción, constitución y funcionamiento de establecimientos destinados a la investigación para la salud.
 
 ###### Art. 122.
 
@@ -1069,7 +1125,7 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ###### Art. 125.
 
-El Departamento Programación y Desarrollo de conformidad con la Ley de Información Estadística y Geográfica y con los criterios de carácter general que emita el Ejecutivo Federal, capturará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control de los Sistemas Nacional y Estatal de Salud, así como sobre el estado y evolución de la salud pública en la entidad.
+La Secretaría de Promoción y Desarrollo Económico, de conformidad con la Ley de Información Estadística y Geográfica y con los criterios de carácter general que emita el Ejecutivo Federal, capturará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control de los Sistemas Nacional y Estatal de Salud, así como sobre el estado y evolución de la salud pública en la entidad.
 
 La información se referirá fundamentalmente, a los siguientes aspectos:
 
@@ -1086,6 +1142,8 @@ Los establecimientos que presten servicios de salud y los profesionales, técnic
 ## TITULO SEPTIMO. Programas contra las adicciones
 
 ### CAPITULO UNICO. De los expendios de alimentos, bebidas no alcohólicas y alcohólicas
+
+(REFORMADO, P.O. 7 DE ABRIL DE 1990) (F. DE E., P.O. 31 DE MAYO DE 1990)
 
 ###### Art. 127.
 
@@ -1119,11 +1177,13 @@ A los establecimientos que vendan o utilicen substancias inhalantes que no se aj
 
 ###### Art. 131.
 
-De conformidad con las normas técnicas que expida la Secretaría de Salud, corresponde al Departamento de Salud del Estado, autorizar el funcionamiento de los establecimientos que expendan o suministren al público alimentos, bebidas no alcohólicas, y alcohólicas en estado natural, mezcladas, preparadas, adicionadas o acondicionadas para su consumo dentro o fuera de los mismos.
+De conformidad con las normas técnicas que expida la Secretaría de Salud y Bienestar Social del Estado, autorizar el funcionamiento de los establecimientos que expendan o suministren al público alimentos, bebidas no alcohólicas, y alcohólicas en estado natural, mezcladas, preparadas, adicionadas o acondicionadas para su consumo dentro o fuera de los mismos.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
 
 ###### Art. 132.
 
-Los Ayuntamientos, en el ámbito de su competencia, en coordinación con el Departamento de Salud del Estado y en los términos de esta Ley y demás disposiciones aplicables, autorizarán la ubicación, el funcionamiento y los horarios de los establecimientos a que se refiere este Capítulo.
+Los Ayuntamientos, en el ámbito de su competencia, en coordinación con la Secretaría de Salud y Bienestar Social del Estado, y en los términos de esta Ley y demás disposiciones aplicables, autorizarán la ubicación, el funcionamiento y los horarios de los establecimientos a que se refiere este Capítulo.
 
 ###### Art. 133.
 
@@ -1141,9 +1201,11 @@ Corresponde la regulación y el control sanitarios de las materias a que se refi
 
 La regulación y control sanitarios comprende la autorización, vigilancia, aplicación de sanciones y medidas de seguridad, de la salubridad local, a que alude el artículo anterior.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 136.
 
-El Departamento de Salud del Estado emitirá las normas técnicas a que quedará sujeto el control sanitario en materia de salubridad local.
+La Secretaría de Salud y Bienestar Social del Estado emitirá las normas técnicas a que quedará sujeto el control sanitario en materia de salubridad local.
 
 ###### Art. 137.
 
@@ -1157,9 +1219,11 @@ II. Contar, en su caso, con un responsable que reúna los requisitos que se esta
 
 III. Contar, en su caso, con los auxiliares de responsable (sic) que determinen los Reglamentos aplicables, tomando en cuenta la cantidad de productos de que se trata, la diversidad de líneas de producción y el horario de las operaciones. La autoridad sanitaria competente podrá dispensar este requisito previo estudio fundado y motivado.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 138.
 
-Todo cambio de propietario, de razón o denominación social de un establecimiento, autorizado por el Ayuntamiento y la oficina hacendaria respectiva, deberá ser comunicado por el peticionario al Departamento de Salud del Estado, en un plazo no mayor de 30 días (sic) partir de la fecha en que se hubiese realizado, sujetándose el trámite correspondiente a las disposiciones reglamentarias aplicables.
+Todo cambio de propietario, de razón o denominación social de un establecimiento, autorizado por el Ayuntamiento y la oficina hacendaria respectiva, deberá ser comunicado por el peticionario a la Secretaría de Salud y Bienestar Social del Estado, en un plazo no mayor de 30 días a partir de la fecha en que se hubiese realizado, sujetándose el trámite correspondiente a las disposiciones reglamentarias aplicables.
 
 ###### Art. 139.
 
@@ -1235,9 +1299,11 @@ Los propietarios o responsables de las construcciones de edificios o locales, de
 
 Los edificios y locales terminados podrán dedicarse al uso que se destinen, una vez inspeccionados y otorgada la autorización de parte de la autoridad sanitaria competente, en su caso.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 152.
 
-Los edificios locales, construcciones o terrenos urbanos, podrán ser inspeccionados por las autoridades competentes, bajo la norma técnica del Departamento de Salud del Estado, quienes ordenarán las obras necesarias para satisfacer las condiciones higiénicas, en los términos de esta Ley, los Reglamentos respectivos y otras disposiciones legales aplicables.
+Los edificios, locales, construcciones o terrenos urbanos, podrán ser inspeccionados por las autoridades competentes, bajo la norma técnica de la Secretaría de Salud y Bienestar Social del Estado, quienes ordenarán las obras necesarias para satisfacer las condiciones higiénicas, en los términos de esta Ley, los Reglamentos respectivos y otras disposiciones legales aplicables.
 
 ###### Art. 153.
 
@@ -1265,17 +1331,21 @@ II. Crematorio: Las instalaciones destinadas a la incineración de cadáveres o 
 
 III. Funeraria: Establecimiento al que acuden los deudos, a rendir honores póstumos a un ser que ha perdido la vida.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 157.
 
-Para establecer un nuevo cementerio o crematorio, se necesita licencia expedida por la autoridad municipal correspondiente, quien la concederá, previa opinión que emita el Departamento de Salud del Estado.
+Para establecer un nuevo cementerio o crematorio, se necesita licencia expedida por la autoridad municipal correspondiente, quien la concederá, previa opinión que emita la Secretaría de Salud y Bienestar Social del Estado.
 
 ###### Art. 158.
 
 El funcionamiento de los cementerios y crematorios estará sujeto a esta Ley y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 159.
 
-El traslado de cadáveres de un municipio a otro dentro del Estado, sólo podrá hacerse mediante autorización del Departamento de Salud o de los Ayuntamientos, en los términos de los convenios que se celebren, cumpliendo con los requisitos sanitarios que a juicio de la misma dependencia deban de cumplirse y previo el pago de los derechos fiscales respectivos.
+El traslado de cadáveres de un municipio a otro dentro del Estado, sólo podrá hacerse mediante autorización de la Secretaría de Salud y Bienestar Social o de los Ayuntamientos, en los términos de los convenios que se celebren, cumpliendo con los requisitos sanitarios que a juicio de la misma dependencia deban de cumplirse y previo el pago de los derechos fiscales respectivos.
 
 ### CAPITULO VI. De los rastros
 
@@ -1331,15 +1401,17 @@ El funcionamiento, aseo y conservación de los rastros municipales, estará a ca
 
 Los Gobiernos Estatal y Municipales procurarán, coordinadamente y de conformidad con la Ley Orgánica Municipal, que las poblaciones tengan servicio regular, de aprovisionamiento y distribución de agua potable.
 
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
 
 ###### Art. 172.
 
-Los proyectos de abastecimiento de agua potable deberán ser sometidos a la Consideración del Departamento de Salud del Estado, para el análisis de las aguas.
+Los proyectos de abastecimiento de agua potable deberán ser sometidos a la consideración de la Secretaría de Salud y Bienestar Social del Estado, para el análisis de las aguas.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
 
 ###### Art. 173.
 
-Las autoridades municipales o los Sistemas Estatal, Municipales o Intermunicipal de los servicios de Agua Potable y Alcantarillado, en su caso, realizarán análisis periódico para comprobar la potabilidad de las aguas destinadas al consumo humano, bajo la supervisión y de acuerdo a las normas técnicas que, para el efecto, fije o establezca el Departamento de Salud.
+Las autoridades municipales o los Sistemas Estatal, Municipales o Intermunicipales de los Servicios de Agua Potable y Alcantarillado, en su caso, realizarán análisis periódicos para comprobar la potabilidad de las aguas destinadas al consumo humano, bajo la supervisión y de acuerdo a las normas técnicas que, para el efecto, fije o establezca la Secretaría de Salud y Bienestar Social.
 
 ###### Art. 174.
 
@@ -1349,9 +1421,11 @@ En las poblaciones sin sistema de agua potable no podrá utilizarse, para consum
 
 Todas las poblaciones del Estado deberán contar con sistemas para el desagüe rápido e higiénico de sus desechos, preferentemente, por medio de alcantarillado.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 176.
 
-En las poblaciones donde no haya sistema de alcantarillado, en tanto se establece éste se autorizará, por la autoridad municipal y previo control; la construcción de fosas sépticas de acuerdo a las normas técnicas que determine el Departamento de Salud.
+En las poblaciones donde no haya sistema de alcantarillado, en tanto se establece éste, se autorizará, por la autoridad municipal y previo control, la construcción de fosas sépticas de acuerdo a las normas técnicas que determine la Secretaría de Salud y Bienestar Social.
 
 ###### Art. 177.
 
@@ -1477,7 +1551,9 @@ Para la construcción o acondicionamiento de un inmueble que se pretenda destina
 
 Para los efectos de esta Ley se entiende por medio de servicio de transporte, todo vehículo destinado al traslado de carga o pasajeros, sea cual fuere su medio de propulsión.
 
-Los transportes de carga deberán contar con la autorización sanitaria correspondiente, que será expedida por el Departamento de Salud del Estado, una vez cubiertos los requisitos que marca esta Ley y normas técnicas correspondientes.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
+Los transportes de carga deberán contar con la autorización sanitaria correspondiente, que será expedida por la Secretaría de Salud y Bienestar Social del Estado, una vez cubiertos los requisitos que marca esta Ley y normas técnicas correspondientes.
 
 ### CAPITULO I. De las autorizaciones
 
@@ -1511,7 +1587,9 @@ I. Licencia Sanitaria: El documento que autoriza legalmente el funcionamiento de
 
 II. Permiso: El documento expedido por la autoridad sanitaria para que una persona física o moral realice legalmente actividades que representan un riesgo para la salud, y
 
-III. Tarjeta de control sanitario: La autorización expedida por el Departamento de Salud del Estado a aquella persona que, por su trabajo o actividad, pudiere propagar alguna de las enfermedades transmisibles a que se refieren los Arts. 134 de la Ley General de Salud y 40 de esta Ley.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 1990)</small>
+
+III. Tarjeta de control sanitario: La autorización expedida por la Secretaría de Salud y Bienestar Social del Estado a aquella persona que, por su trabajo o actividad, pudiere propagar alguna de las enfermedades transmisibles a que se refieren los Arts. 134 de la Ley General de Salud y 40 de esta Ley.
 
 ###### Art. 202.
 
@@ -1519,11 +1597,11 @@ Las autoridades sanitarias del Estado Expedirán las autorizaciones respectivas,
 
 Quedan exceptuadas del pago de derechos las dependencias del Gobierno Estatal, de los Municipios, los establecimientos educativos del sector público y las instituciones de asistencia social privada.
 
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
 
 ###### Art. 203.
 
-Las Autorizaciones sanitarias serán otorgadas por el Departamento de Salud con las excepciones que establezca esta Ley, serán por tiempo determinado y podrán ser prorrogadas.
+Las autorizaciones sanitarias serán otorgadas por la Secretaría de Salud y Bienestar Social con las excepciones que establezca esta Ley; serán por tiempo determinado y podrán ser prorrogadas.
 
 Las autoridades sanitarias del Estado, mediante campañas, llevarán a cabo actividades de censos, vigilancia y promoción de estas autorizaciones.
 
@@ -1531,9 +1609,11 @@ Las autoridades sanitarias del Estado, mediante campañas, llevarán a cabo acti
 
 Las autorizaciones sanitarias podrán revalidarse de conformidad con los términos que al efecto fijen las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 205.
 
-El Departamento de Salud del Estado expedirá la licencia sanitaria para el funcionamiento de establecimientos que presten servicios de asistencia social.
+La Secretaría de Salud y Bienestar Social del Estado expedirá la licencia sanitaria para el funcionamiento de establecimientos que presten servicios de asistencia social.
 
 ###### Art. 206.
 
@@ -1554,6 +1634,8 @@ Cuando los establecimientos a que se refiere el Art. 137 cambien de ubicación, 
 Las autorizaciones a que se refiere esta Ley podrán ser revisados (sic) por la autoridad sanitaria competente en los términos de las disposiciones legales aplicables.
 
 ### CAPITULO I. De las medidas de seguridad sanitaria
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
 
 ###### Art. 210.
 
@@ -1711,7 +1793,7 @@ La negativa a firmar el acta o recibir copia de la misma o de la orden de visita
 
 ###### Art. 231.
 
-Se consideran medidas de seguridad, aquellas disposiciones de inmediata ejecución que dicte el Departamento de Salud del Estado y las autoridades municipales, de conformidad con los preceptos de esta Ley y demás disposiciones y convenios aplicables, para proteger y preservar la salud de la población. Las medidas de seguridad se aplicarán, sin perjuicio de las sanciones que, en su caso, correspondieren.
+Se consideran medidas de seguridad, aquellas disposiciones de inmediata ejecución que dicte la Secretaría de Salud y Bienestar Social del Estado y las autoridades municipales, de conformidad con los preceptos de esta Ley y demás disposiciones y convenios aplicables, para proteger y preservar la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que, en su caso, correspondieren.
 
 ###### Art. 232.
 
@@ -1765,19 +1847,25 @@ II. En caso de epidemia grave; y
 
 III. Si existiera peligro de invasión de dichos padecimientos, en el Estado.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 237.
 
-El Ejecutivo del Estado por conducto del Departamento de Salud, podrá ordenar o proceder a la vacunación de animales que puedan convertirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
+El Ejecutivo del Estado, por conducto de la Secretaría de Salud y Bienestar Social podrá ordenar o proceder a la vacunación de animales que puedan convertirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
 
 ###### Art. 238.
 
-El Departamento de Salud del Estado y las autoridades municipales en los términos del Art. 4.º de esta Ley, ejecutarán las medidas necesarias para la destrucción o control de insectos u otra fauna transmisora y nociva, cuando representen un peligro grave para la salud de las personas.
+La Secretaría de Salud y Bienestar Social del Estado, y las autoridades municipales, en los términos del Art. 4.° de esta Ley, ejecutarán las medidas necesarias para la destrucción o control de insectos u otra fauna transmisora y nociva, cuando representen un peligro grave para la salud de las personas.
 
 En todo caso, se dará a las dependencias, encargadas de la sanidad animal la intervención que corresponda.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 239.
 
-El Departamento de Salud del Estado y las autoridades municipales, podrán ordenar la inmediata suspensión de trabajos o de servicios o la prohibición de actos de uso, cuando de continuar aquellos, se ponga en peligro la salud de las personas.
+La Secretaría de Salud y Bienestar Social del Estado y las autoridades municipales, podrán ordenar la inmediata suspensión de trabajos o de servicios o la prohibición de actos de uso, cuando de continuar aquellos, se ponga en peligro la salud de las personas.
 
 ###### Art. 240.
 
@@ -1915,9 +2003,11 @@ X. Jerarquía; y
 
 XI. Buena fe.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+
 ###### Art. 257.
 
-El Departamento de Salud del estado y las autoridades municipales que se encuentren en el supuesto previsto en la frac. III, del Art. 4.º de esta Ley, con base al resultado de inspección, dictarán las medidas necesarias para corregir, en su caso, las irregularidades que se hubiesen encontrado, notificando al interesado y dándole un plazo adecuado para su cumplimiento.
+La Secretaría de Salud y Bienestar Social del Estado y las autoridades municipales que se encuentren en el supuesto previsto en la frac. III, del Art. 4.° de esta Ley, con base al resultado de inspección, dictarán las medidas necesarias para corregir, en su caso, las irregularidades que se hubiesen encontrado, notificando al interesado y dándole un plazo adecuado para su cumplimiento.
 
 ###### Art. 258.
 
@@ -2068,3 +2158,9 @@ Lic. Enrique Alvarez del Castillo
 El Secretario General de Gobierno
 
 Lic. Héctor F. Castañeda Jiménez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE ABRIL DE 1990.
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial El Estado de Jalisco.
