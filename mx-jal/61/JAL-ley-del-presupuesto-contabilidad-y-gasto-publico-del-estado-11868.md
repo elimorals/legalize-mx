@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2001-02-03"
+last_updated: "2002-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2002.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -157,6 +157,10 @@ El Poder Legislativo de conformidad a lo dispuesto por el artículo 26 de la Con
 
 El pleno del Supremo Tribunal, el del Tribunal de lo Administrativo y el Tribunal Electoral, elaborarán sus propios proyectos de Presupuestos. Su Consejo General, lo hará para el resto del Poder Judicial, conforme lo establece el artículo 57 de la Constitución Política de la entidad. Con ello, se integrará el Presupuesto del Poder Judicial, que será remitido por el Presidente del Supremo Tribunal al titular del Poder Ejecutivo, para su inclusión en el proyecto de Presupuesto de Egresos del Estado. Una vez aprobado, será ejercido con plena autonomía.
 
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2002)</small>
+
+Los proyectos de presupuestos a que se refiere el párrafo anterior deben contener las plantillas de personal en las que se especifiquen todos los empleos públicos, con inclusión de los magistrados que integran dichos Tribunales, así como las remuneraciones que, por concepto de salarios o cualquier otro, les sean asignadas a estos servidores públicos.
+
 A la Iniciativa de Presupuesto de Egresos del Estado que presente el titular del Poder Ejecutivo ante el Congreso, se deberá adjuntar para su valoración, invariablemente, los proyectos de presupuesto elaborados por los Poderes Legislativo y Judicial.
 
 En ningún caso, los Presupuestos de los Poderes Legislativo y Judicial podrán ser inferiores al ejercido el año inmediato anterior actualizado con base en la cifra oficial de inflación que publique el Banco de México.
@@ -164,6 +168,14 @@ En ningún caso, los Presupuestos de los Poderes Legislativo y Judicial podrán 
 ###### Artículo 18.
 
 Los Poderes Legislativo y Judicial, al formular sus respectivos proyectos de presupuestos, lo harán con criterios de racionalidad, austeridad y disciplina presupuestal, atendiendo en todo momento las previsiones del ingreso y prioridades del Estado, enviándolos en la fecha que señala el artículo 29 de esta Ley, al titular del Poder Ejecutivo para su consideración e inclusión en la iniciativa de presupuesto de egresos del Estado.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2002)</small>
+
+Los proyectos de presupuestos a que se refiere el presente artículo deben contener las plantillas de personal en las que se especifiquen todos los empleos públicos, con inclusión de los diputados, magistrados y consejeros del Poder Judicial, según corresponda, así como las remuneraciones que, por concepto de salarios o cualquier otro, les sean asignadas a estos servidores públicos.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2002)</small>
+
+Los proyectos de presupuesto deben contener el desglose de los diferentes rubros en que se dividan, así como de las partidas que representen las autorizaciones específicas del presupuesto.
 
 > <small>(ADICIONADO, P.O. 27 DE JULIO DE 2000)</small>
 
@@ -218,6 +230,10 @@ La Secretaría fijará anualmente, de acuerdo a las instrucciones del titular de
 ###### Artículo 29.
 
 Para la formulación del proyecto de Presupuesto de Egresos del Gobierno del Estado, las Dependencias y Entidades elaborarán sus anteproyectos con base en los programas respectivos, ajustándose a las normas y montos que establezca el titular del Poder Ejecutivo, por conducto de la Secretaría, remitiéndolos, en el caso de las dependencias, directamente a la Secretaría, a más tardar el día 1º de Septiembre de cada año. Por lo que respecta a las Entidades sectorizadas, éstas lo harán por conducto y con la validación de la Dependencia coordinadora del sector correspondiente, en el mismo plazo.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2002)</small>
+
+Los proyectos de presupuesto a que se refiere el presente artículo deben contener las plantillas de personal en las que se especifiquen todos los empleos públicos, con inclusión de los titulares de las dependencias y entidades de que se traten, así como las remuneraciones que, por conceptos de salarios o cualquier otro, les sean asignadas a dichos titulares.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
@@ -379,15 +395,11 @@ Aprobado el presupuesto de Egresos del Estado, éste regirá para el ejercicio f
 
 En caso de que para el día 31 de diciembre no sea aprobado el Presupuesto de Egresos correspondiente, se aplicará el ejercido el año inmediato anterior, incluyendo sus modificaciones.
 
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2002)</small>
 
-Artículo 46 bis.- El presupuesto que apruebe el Congreso deberá especificar el sueldo mensual bruto que corresponda a cada uno de los servidores públicos de los tres poderes del Estado, así como de sus respectivas entidades y dependencias. Las partidas destinadas al pago de prestaciones económicas distintas al sueldo se aplicarán atendiendo lo previsto en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios y demás normatividad aplicable.
+Artículo 46 bis.- El presupuesto que apruebe el Congreso debe especificar el sueldo y demás percepciones que por cualquier concepto les corresponda al Gobernador, Secretarios, Subsecretarios, Titulares de las dependencias y entidades del Poder Ejecutivo, diputados, magistrados del Poder Judicial, magistrados del Tribunal de Arbitraje y Escalafón, consejeros del Consejo General del Poder Judicial, consejeros electorales, Presidente de la Comisión Estatal de Derechos Humanos y demás servidores públicos, atendiendo lo previsto en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios y demás normatividad aplicable.
 
-El Congreso del Estado aprobará las remuneraciones de los diputados con base a los criterios de racionalidad, austeridad y disciplina fiscal. Las remuneraciones que correspondan a los magistrados del Poder Judicial y a los consejeros del Consejo General del mismo poder, serán iguales a las correspondientes a los diputados.
-
-La remuneración de los secretarios del Poder Ejecutivo será fijado entre el 80 y 150 por ciento de la que corresponda a los diputados.
-
-La remuneración que corresponda al Gobernador no podrá ser inferior al ciento cincuenta por ciento ni superior al doscientos por ciento de la que le corresponda a los diputados.
+El Titular del Poder Ejecutivo del Estado publicará, en el Periódico Oficial "El Estado de Jalisco", el presupuesto de egresos aprobado por el Congreso del Estado, con las plantillas de personal en las que se especifiquen los sueldos y demás percepciones que por cualquier concepto les corresponda al Gobernador, Secretarios, Subsecretarios, Titulares de las dependencias y entidades del Poder Ejecutivo, Diputados, Magistrados, Consejeros del Consejo General del Poder Judicial y Consejeros Electorales. Se publicarán de igual forma, los incrementos o ampliaciones que se autoricen en el transcurso del año.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
@@ -878,3 +890,11 @@ P.O. 23 DE ENERO DE 2001.
 P.O. 3 DE FEBRERO DE 2001.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE FEBRERO DE 2002.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- Para el ejercicio fiscal del 2002, el Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios, será convocado de inmediato, para que a más tardar el 31 de marzo del 2002, evalúe las percepciones aprobadas en los presupuestos respectivos, sin que esta evaluación pueda afectar las prestaciones ya aprobadas.
