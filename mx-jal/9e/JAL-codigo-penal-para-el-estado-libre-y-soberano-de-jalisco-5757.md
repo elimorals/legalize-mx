@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2000-09-23"
+last_updated: "2000-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2000.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -2141,7 +2141,7 @@ Se impondrán de seis meses a seis años de prisión al que exija para sí o par
 
 Si lo que se exigió fue la entrega de numerario, uno o más objetos o documentos y ésta se realiza, se impondrá la pena del delito de extorsión.
 
-### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
+### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2151,7 +2151,7 @@ Se impondrán de seis meses a dos años de prisión al que, sin motivo justifica
 
 Si en el allanamiento media la furtividad, el engaño o la violencia, la pena aplicable será de uno a tres años de prisión.
 
-### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
+### CAPITULO I. De las Definiciones
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2161,7 +2161,7 @@ Se impondrán de uno a ocho años de prisión y multa por el importe de cinco a 
 
 Las sanciones a que se refiere este artículo se impondrán independientemente de las penas que procedan por los demás delitos que resulten.
 
-### CAPITULO I. De las Definiciones
+### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2175,7 +2175,7 @@ II. Al que obligue a otro a prestar trabajos o servicios personales, ya sea empl
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ENERO DE 1999)</small>
 
-### CAPITULO IV. Delitos Cometidos por Representantes de Partido
+### CAPITULO VI. Disposiciones Comunes
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2269,7 +2269,7 @@ V. Efectúe el cambio de moneda nacional por divisas, sabiendo que es con el pro
 
 VI. Intimide a la víctima, a sus familiares hasta el segundo grado o a sus representantes o gestores durante o después del secuestro, para que no colaboren con las autoridades competentes.
 
-### CAPITULO VI. Disposiciones Comunes
+### CAPITULO IV. Delitos Cometidos por Representantes de Partido
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2647,11 +2647,15 @@ III. Se cometa aprovechando alguna relación de servidumbre, trabajo, hospedaje,
 
 IV. Se cometa en lugar cerrado o en edificio, vivienda, aposento o cuarto que estén destinados para habitación, comprendiéndose en esta denominación no solo los que estén fijos en la tierra, sino también movibles, sea cual fuere la materia de que estén construidos;
 
-V. Se cometa, aprovechando la falta de vigilancia, el desorden o confusión que se produzca por incendio, naufragio, inundación, accidente o delito en el tránsito de vehículos o aeronaves, o por cualquier siniestro;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
+V. Se cometa por medio de la acechanza o aprovechando la falta de vigilancia, el desorden o confusión que se produzca por incendio, naufragio, inundación, accidente o delito en el tránsito de vehículos o por cualquier siniestro;
 
 VI. El objeto del robo sean tubos, conexiones, tapas de registro o cualquier otro implemento de un servicio público u otros que estén bajo la salvaguarda pública;
 
-VII. Cuando los responsables lleven armas, sin que en el caso hagan uso de ellas;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
+
+VII. Los responsables lleven armas, sin que en el caso hagan uso de ellas;
 
 VIII. El objeto, del robo sean postes, alambres y otros materiales de las cercas de los sembradíos y potreros, dejando éstos desprotegidos en todo o en parte; sean bombas, motores, o partes de estos implementos, o cualquier objeto o aparato que esté usándose en la agricultura o en la ganadería;
 
@@ -2661,77 +2665,23 @@ IX. Recaiga sobre vehículos automotores;
 
 X. Se cometa en edificio, vivienda, apartamiento o cuarto que, en el momento de ocurrir el delito, se encuentren ocupados, comprendiéndose en esta denominación no sólo los que estén fijos en la tierra, sino también los movibles, sea cual fuera la materia de que estén construidos;
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
 
-XI. Cuando la violencia a que se refiere la fracción I de este artículo se ejerza valiéndose de armas o en el caso de que el sujeto activo fuere diestro en artes marciales o la víctima u ofendido fuere menor de edad tenga algún problema de discapacidad física o psíquica o los activos sean dos o más y generen una desproporción física del pasivo hacia los activos;
+XI. La violencia a que se refiere la fracción I de este artículo se ejerza valiéndose de armas o en el caso de que el sujeto activo fuere diestro en artes marciales o la víctima u ofendido fuere menor de edad tenga algún problema de discapacidad física o psíquica o los activos sean dos o más y generen una desproporción física del pasivo hacia los activos;
 
 XII. (DEROGADA, P.O. 27 DE DICIEMBRE DE 1997)
 
 XIII. Se cometa valiéndose de la nocturnidad, o llevándolo a cabo mediante fractura, o forzándolo de cualquier manera, horadación, excavación o escalamiento, sean los sujetos tres o más, se finjan servidores públicos o supongan una orden de alguna autoridad;
 
-XIV. Cuando los responsables sean miembros de un cuerpo de seguridad pública, aún cuando no estén en servicio; y
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
 
-XV. Cuando se ejecute a bordo de un vehículo de transporte público en servicio.
+XIV. Los responsables sean miembros de un cuerpo de seguridad pública, aun cuando no estén en servicio;
 
-Al responsable del delito de robo calificado se le sancionara, de acuerdo con la reglas que se consignan en los siguientes apartados:
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
 
-A) Si interviene algunas de las calificativas que se consignan en la frac. I a la IX del presente articulo, la sanción será:
+XV. Se ejecute a bordo de un vehículo de transporte público en servicio; y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 1989)</small>
-
-A) Si interviene algunas de las calificativas que se consignan en las fracs. I, II, III. IV, V, VI, y VIII del presente artículo, la sanción será:
-
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 1989)</small>
-
-I. De dos a cinco años de prisión y multa por el importe de cinco a treinta días de salario, cuando el valor de lo robado no exceda de trescientos sesenta días de salario;
-
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 1989)</small>
-
-II. De tres a ocho años de prisión y multa por el importe de quince a sesenta días de salario, cuando el valor de lo robado exceda del monto señalado en la fracción anterior, pero no del que se establece en la siguiente;
-
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 1989)</small>
-
-III. De cuatro a once años de prisión y multa por el importe de veinte a noventa días de salario, cuando el valor de lo robado exceda del monto de mil días de salario; y
-
-IV. De tres a seis años de prisión, cuando no pudiera determinarse el valor de lo robado o, si por su naturaleza, no fuere estimable en dinero.
-
-(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 1989) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 1989)
-
-B) Si interviene algunas de las calificativas que se consignan en las fracs. VII, X, XIII, XIV y XV, del presente artículo, la sanción será:
-
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 1989)</small>
-
-I. De tres a ocho años de prisión y multa por el importe de quince a sesenta días de salario, cuando el valor de lo robado no exceda del importe de trescientos sesenta días de salario.
-
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 1989)</small>
-
-II. De cuatro a nueve años de prisión y multa por el importe de veinte a ochenta días de salario, cuando el valor de lo robado exceda del monto señalado en la fracción anterior, pero no del que se establece en la siguiente;
-
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 1989)</small>
-
-III. De cinco años seis meses a doce años de prisión y multa por el monto de treinta a cien días de salario, cuando el valor de lo robado exceda del importe de mil días de salario; y
-
-IV. De tres años seis meses a siete años de prisión, cuando no pudiere determinarse el valor de lo robado, o, si por su naturaleza, no fuere estimable en dinero.
-
-(ADICIONADO, P.O. 29 DE JULIO DE 1989) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 1989)
-
-c) Si interviene alguna de las calificativas que se consignan en las fracs. IX, XI y XII, del presente artículo, la sanción será:
-
-I. De cuatro a nueve años de prisión y multa por el importe de veinte a ochenta días de salario, cuando el valor de lo robado no exceda del monto de trescientos sesenta días de salario;
-
-II. De cinco años seis meses a once años de prisión y multa por el importe de treinta a cien días de salario, cuando el valor de lo robado exceda del monto señalado en la fracción anterior, pero no del que se establece en la siguiente;
-
-III. De siete a trece años de prisión y multa por el importe de cuarenta a ciento veinte días de salario, cuando, el valor de lo robado exceda del monto de mil días de salario;
-
-IV. De cuatro a ocho años de prisión, cuando no pudiere determinarse el valor de lo robado, o si por su naturaleza no fuere estimable en dinero.
-
-> <small>(ADICIONADA, P.O. 5 DE MARZO DE 1998)</small>
-
-XVI. Cuando recaiga sobre cosa mueble y se cometa por dos o más sujetos por medio de la violencia, la asechanza o cualquier otra circunstancia que disminuya las posibilidades de defensa de la víctima o la coloque en condiciones de desventaja, sin importar el monto de lo robado.
-
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
-
-En todos los casos de robo, para estimar su cuantía o determinar que no es estimable en dinero, se atenderá únicamente al valor intrínseco de la cosa robada, fijado primordialmente por perito.
+XVI. (DEROGADA, P.O. 2 DE DICIEMBRE DE 2000)
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -3207,7 +3157,7 @@ XII. Impida en forma violenta la instalación o cierre de una casilla; y
 
 XIII. Se presente en la casilla en plan intimidatorio, portando armas.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 268.
 
@@ -3253,7 +3203,7 @@ V. Propale dolosamente noticias falsas en torno al desarrollo de la jornada elec
 
 VI. Impida con violencia la instalación; apertura o cierre de una casilla.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 270.
 
@@ -3526,5 +3476,9 @@ P.O. 27 DE JULIO DE 2000.
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 23 DE SEPTIEMBRE DE 2000.
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 2 DE DICIEMBRE DE 2000.
 
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
