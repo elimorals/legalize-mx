@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1993-del-tribunal-pleno-de-la-suprema-63013"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1993-01-27"
-last_updated: "1996-06-19"
+last_updated: "1996-10-31"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63013&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-01-13"
 
 ACUERDO No. 1/1993, DEL TRIBUNAL EN PLENO DEL DIA TRECE DE ENERO DE MIL NOVECIENTOS NOVENTA Y TRES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JUNIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE OCTUBRE DE 1996.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 27 de enero de 1993.
 
@@ -49,7 +49,9 @@ I.- PRIMER CIRCUITO:
 
 I.- Cuatro tribunales colegiados en materia penal, seis tribunales colegiados en materia administrativa, nueve tribunales colegiados en materia civil, nueve tribunales colegiados en materia de trabajo y cuatro tribunales unitarios, con residencia en la Ciudad de México;
 
-2.- Treinta juzgados de Distrito en el Distrito Federal, con residencia en la Ciudad de México.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL NUMERO 22/1996 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 1996)</small>
+
+2.- Treinta y dos juzgados de distrito en el Distrito Federal, con residencia en la Ciudad de México.
 
 II.- SEGUNDO CIRCUITO:
 
@@ -523,7 +525,9 @@ XLI.- El Juzgado Primero de Distrito en el Estado de Quintana Roo, con residenci
 
 XLII.- El Juzgado Segundo de Distrito en el Estado de Quintana Roo, con residencia en Cancún, ejercerá jurisdicción en los municipios de Benito Juárez, Cozumel, Isla Mujeres, Lázaro Cárdenas y Solidaridad.
 
-CUARTO.- Los treinta juzgados de Distrito con residencia en el Distrito Federal serán especializados: doce en materia penal, diez en materia administrativa, seis en materia civil y dos en materia de trabajo.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL NUMERO 22/1996 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 1996)</small>
+
+CUARTO.- Los treinta y dos juzgados de distrito con residencia en el Distrito Federal serán especializados: doce en materia penal, diez en materia administrativa, ocho en materia civil y dos en materia de trabajo.
 
 QUINTO.- Los catorce juzgados de Distrito en el estado de Jalisco serán especializados: nueve en materia penal, tres en materia administrativa y dos en materia civil.
 
@@ -624,6 +628,18 @@ QUINTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el
 D.O.F. 19 DE JUNIO DE 1996.
 
 PRIMERO.- Este Acuerdo entrará en vigor el día tres de julio de mil novecientos noventa y seis.
+
+SEGUNDO.- Se modifica el Acuerdo 1/1993 del Pleno de la Suprema Corte de Justicia de la Nación, de fecha trece de enero de mil novecientos noventa y tres, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+CUARTO.- El Pleno del Consejo de la Judicatura Federal resolverá cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente Acuerdo.
+
+QUINTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
+
+D.O.F. 31 DE OCTUBRE DE 1996.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se modifica el Acuerdo 1/1993 del Pleno de la Suprema Corte de Justicia de la Nación, de fecha trece de enero de mil novecientos noventa y tres, en los términos señalados en el presente Acuerdo.
 
