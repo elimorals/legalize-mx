@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1993-del-tribunal-pleno-de-la-suprema-63013"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1993-01-27"
-last_updated: "1998-02-13"
+last_updated: "1998-02-20"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63013&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-01-13"
 
 ACUERDO No. 1/1993, DEL TRIBUNAL EN PLENO DEL DIA TRECE DE ENERO DE MIL NOVECIENTOS NOVENTA Y TRES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE FEBRERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE FEBRERO DE 1998.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 27 de enero de 1993.
 
@@ -97,9 +97,9 @@ IV.- CUARTO CIRCUITO:
 
 V.- QUINTO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 5/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 20 DE FEBRERO DE 1998)</small>
 
-1.- Dos tribunales colegiados y tres tribunales unitarios, con residencia en la ciudad de Hermosillo, Sonora;
+1.- Tres tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Hermosillo, Sonora;
 
 > <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
@@ -748,3 +748,13 @@ SEGUNDO.- Se modifica el Acuerdo 1/1993 del Pleno de la Suprema Corte de Justici
 TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este acuerdo.
 
 CUARTO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 20 DE FEBRERO DE 1998.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se modifica el Acuerdo 1/1993 del Pleno de la Suprema Corte de Justicia de la Nación, de fecha trece de enero de mil novecientos noventa y tres, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+CUARTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
