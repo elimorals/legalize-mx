@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-armada-de-mexico-81"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-12-24"
-last_updated: "1995-12-12"
+last_updated: "1998-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAM"
 
 LEY ORGANICA DE LA ARMADA DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el día viernes 24 de diciembre de 1993.
 
@@ -580,9 +580,11 @@ XI.- Otros que se establezcan por el Alto Mando.
 
 ### CAPITULO III. RECLUTAMIENTO
 
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
 ###### Artículo 57.
 
-Para ingresar a la Armada se requiere ser mexicano por nacimiento y reunir los requisitos que establece la presente ley y el reglamento respectivo.
+Para ingresar a la Armada se requiere ser mexicano por nacimiento, que no se adquiera otra nacionalidad, estar en pleno goce y ejercicio de sus derechos civiles y políticos y reunir los requisitos que establece la presente ley y el reglamento respectivo.
 
 ###### Artículo 58.
 
@@ -1104,6 +1106,10 @@ C.- Declarado prófugo de la justicia, tratándose de Almirantes, Capitanes y Of
 
 D.- Por faltar tres días consecutivos el personal de la milicia auxiliar, constituyendo este hecho además una causal de rescisión del contrato respectivo, sin perjuicio del proceso que se les siga.
 
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
+E.- Cuando se adquiera otra nacionalidad.
+
 II.- Por acuerdo del Alto Mando en los siguientes casos:
 
 A.- Desaparición durante un periodo mayor de dos meses, comprobada mediante los partes oficiales; en caso de que apareciera y justifique su ausencia podrá ser reincorporado al servicio activo a juicio del Alto Mando.
@@ -1297,3 +1303,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El personal del Servicio de Cultura Física y Deportes, quedará integrado al Servicio Docente, conservando sus derechos.
 
 TERCERO.- Se derogan todas las disposiciones legales, que se opongan al presente Decreto.
+
+D.O.F. 23 DE ENERO DE 1998.
+
+ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
