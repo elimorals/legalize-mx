@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1997-09-13"
+last_updated: "1997-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1997.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -4899,95 +4899,53 @@ Los fondos serán cuidadosamente guardados y administrados, al término del año
 
 En todo caso, las cooperativas quedarán sujetas a los reglamentos oficiales en vigor.
 
+> <small>(DEROGADO CON EL TITULO, CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
 # LIBRO SEGUNDO
 
+> <small>(DEROGADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
 ## TITULO UNICO. DEL EJERCICIO DE LAS PROFESIONES
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO II. CONDICIONES QUE DEBEN LLENARSE PARA OBTENER UN TITULO PROFESIONAL
 
 ###### ARTICULO 861.
 
-Se entiende por título profesional el documento expedido por instituciones autorizadas legalmente para ello y mediante los requisitos que se exigen en este Código y en las demás leyes relativas, a favor de la persona que ha comprobado haber concluido los estudios correspondientes para ejercer una de las profesiones a que se refiere el artículo siguiente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 862.
 
-Las profesiones que necesitan título para su ejercicio son las siguientes:
-
-Actuario
-
-Agrónomo
-
-Arquitecto
-
-Bacteriólogo
-
-Biólogo
-
-Cirujano Dentista
-
-Contador Público
-
-Enfermera
-
-Enfermera y Partera
-
-Ingeniero en sus diversas ramas profesionales: Agronomía, Ingeniería Civil, Hidráulica, Mecánica, Electricista, Industrial, Forestal, Fruticultura, Minera, Municipal, Sanitaria, Petrolera, Química Bromatológica y las demás ramas que comprendan o hayan comprendido los planes de estudio de las escuelas superiores, técnicas o universitarias oficialmente reconocidas por el Estado, de la Universidad Autónoma de México y del Instituto Politécnico Nacional u otras instituciones de estudios profesionales reconocidas por el propio Estado.
-
-Licenciado en Administración
-
-Licenciado en Derecho
-
-Licenciado en Economía
-
-Licenciado en Filosofía
-
-Licenciado en Letras
-
-Médico en sus diversas ramas profesionales
-
-Médico Veterinario
-
-Metalúrgico
-
-Piloto Aviador
-
-Profesor de Educación Preescolar, Primaria y Secundaria
-
-Químico en sus diversas ramas profesionales: Farmacia - (Químico-Farmacéutico y Químico Farmacéutico Biólogo, Químico Zimólogo y Químico Bacteriólogo y Parasitólogo), (Químico-Bromatólogo, Químico Fruticultor)
-
-Topógrafo- Hidrógrafo
-
-Trabajador Social
-
-Las demás profesiones que se consideren y reconozcan oficialmente como carreras completas dentro de los planes de estudio de las escuelas superiores, técnicas o universitarias. Estas profesiones serán determinadas por las leyes que expidan las autoridades competentes con relación a los planes de estudio de dichas escuelas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 863.
 
-El Ejecutivo del Estado, previo dictamen de la Oficina Estatal de Profesiones y oyendo el parecer de los colegios de profesionistas, expedirá los reglamentos que delimiten los campos de acción de cada profesión, así como el de las ramas correspondientes y los límites para el ejercicio de las mismas profesiones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 864.
 
-Para el ejercicio de una o varias especialidades se requiere autorización de la Oficina Estatal de Profesiones, debiendo comprobarse previamente:
-
-I.- Haber obtenido título relativo a la profesión en los términos de este Código.
-
-II.- Comprobar, en forma idónea haber realizado estudios especiales de perfeccionamiento técnico y científico en la ciencia o rama de la ciencia de que se trate.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 865.
 
-En caso de conflicto entre los intereses individuales de los profesionistas y los de la sociedad, el presente Código será interpretado en favor de esta última, si no hubiere precepto expreso para resolver el conflicto. Por lo que se refiere a las profesiones que implican el ejercicio de una función pública, se sujetarán a este Código y a las leyes que regulen su actividad.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO III. INSTITUCIONES AUTORIZADAS PARA EXPEDIR TITULOS PROFESIONALES
 
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 866.
 
-Para obtener un título profesional es requisito indispensable cursar y ser aprobado en los estudios de educación primaria, secundaria o prevocacional, y en su caso y de acuerdo con los planes y programas escolares, en los estudios preparatorios o vocacionales, normales y profesionales, en los grados y términos que establezcan las leyes.
-
-Los planes de estudio comprenderán la forma como deba prestarse el servicio social.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 867.
 
-Las escuelas o instituciones dedicadas a la educación superior profesional se organizarán sobre la base de que es requisito para el ingreso a las mismas haber cursado íntegramente, cuando así se requiera en los planes de estudio, la educación vocacional o el bachillerato universitario que corresponda a su función educativa específica.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO IV. DE LA OFICINA ESTATAL DE PROFESIONES
 
@@ -4995,431 +4953,303 @@ Las escuelas o instituciones dedicadas a la educación superior profesional se o
 
 ###### ARTICULO 868.
 
-Solamente la Universidad Autónoma de Chihuahua, la Universidad Autónoma de Cd. Juárez y el Gobernador del Estado podrán expedir títulos profesionales en el Estado de Chihuahua; pero para hacerlo éste último, el título deberá ser autorizado previamente por el director de la institución docente respectiva y por el Director de Educación, quienes deberán sujetarse en todo caso a lo dispuesto en los artículos 866 y 867 del presente Código.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
+
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 #### SECCION II. TITULOS EXPEDIDOS POR LAS AUTORIDADES FEDERALES
 
 ###### ARTICULO 869.
 
-Se reconoce como planteles de enseñanza preparatoria y profesional de las profesiones enumeradas en el artículo 862 de este Código y por tanto deberán registrarse los títulos que expidan las universidades, tecnológicos, escuelas, el Politécnico Nacional y demás institutos profesionales, incorporados o dependientes del Gobierno Federal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 #### SECCION III. TITULOS EXPEDIDOS EN LOS ESTADOS Y EN EL DISTRITO Y TERRITORIOS FEDERALES
 
 ###### ARTICULO 870.
 
-Los títulos profesionales expedidos por las autoridades de un Estado serán reconocidos, siempre que su otorgamiento se haya sujetado a sus leyes respectivas, de conformidad con la fracción V del Artículo 121 de la Constitución Federal.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE DICIEMBRE DE 1974)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 871.
 
-También serán reconocidos los títulos que expidan las escuelas, facultades e institutos incorporados o dependientes de la Universidad Autónoma de México y las demás universidades, escuelas e instituciones que hayan obtenido reconocimiento o autorización de la Secretaría de Educación Pública, y en su caso, de las autoridades competentes de los Estados, del Distrito y de los Territorios Federales.
-
-El Ejecutivo del Estado podrá celebrar un convenio de coordinación con el Ejecutivo Federal, por conducto de la Secretaría de Educación Pública, para unificar el registro profesional entre esta Entidad y el Distrito Federal, de acuerdo con las siguientes bases:
-
-I.- Instituir un solo servicio de registro de títulos profesionales y grados académicos para la expedición de cédulas personales con efectos de patente para el ejercicio profesional y de identidad en las actividades profesionales.
-
-II.- Reconocer para el ejercicio profesional en el Estado, la cédula expedida por la Secretaría de Educación Pública;
-
-III.- Intercambiar la información que se requiera; y
-
-IV.- Las demás que tiendan al debido cumplimiento del objeto del convenio.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 872.
 
-Para el efecto del reconocimiento, y por tanto del registro de los títulos a que se refieren los dos artículos anteriores, la Oficina Estatal de Profesiones exigirá la comprobación de:
-
-I.- La existencia del plantel;
-
-II.- La identidad del profesionista;
-
-III.- Haber cursado y aprobado el profesionista, los estudios primarios, secundarios y preparatorios en su caso, y profesionales, y
-
-IV.- Haber sido aprobado en el examen profesional, cuando así se establezcan en el plan de estudios respectivo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 873.
 
-Por ningún concepto se registrarán títulos ni se revalidarán estudios de aquellos Estados que no tengan los planteles profesionales correspondientes.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 #### SECCION IV. TITULOS EXPEDIDOS EN EL EXTRANJERO
 
 ###### ARTICULO 874.
 
-Ningún extranjero podrá ejercer en el Estado las profesiones técnico-científicas que son objeto de este Título, con las excepciones determinadas en este Código.
-
-Los mexicanos naturalizados que hubieren hecho todos los estudios superiores en los planteles que autoriza este Título, quedarán en igualdad de condiciones, para el ejercicio profesional, a los mexicanos por nacimiento.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 875.
 
-Los títulos expedidos en el extranjero a mexicanos serán reconocidos por la Oficina Estatal de Profesiones siempre que los estudios que comprenda el título profesional sean iguales o similares a los que se imparten en los planteles dependientes de la Universidad Autónoma de Chihuahua o de las demás instituciones reconocidas por el Estado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
-En los casos en que resulte imposible establecer la igualdad o similitud de estudios en la forma prevista en los términos del párrafo anterior, se establecerá un sistema de equivalencia de estudios, sometiendo, en su caso, a los interesados a pruebas o exámenes para la comprobación de sus conocimientos.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO V. DEL EJERCICIO PROFESIONAL
 
 ###### ARTICULO 876.
 
-Dependiente del Ejecutivo del Estado y a través de la Dirección de Educación, se establece un organismo denominado Oficina Estatal de Profesiones, que se encargará de la vigilancia del ejercicio profesional y será el órgano de conexión entre el Estado y los colegios de profesionistas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 877.
 
-La Oficina se integrará con un profesionista representante del Ejecutivo del Estado que fungirá como Presidente y con un representante de cada uno de los colegios de profesionistas que hayan sido debidamente reconocidos. También tendrán derecho de designar representante las escuelas profesionales que funcionen en el Estado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 878.
 
-Son facultades y obligaciones de la Oficina Estatal de Profesiones:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
-I.- Registrar los títulos de los profesionistas a que se refiere este Código, de conformidad con los artículos precedentes;
-
-II.- Llevar la hoja de servicios de cada profesionista, cuyo título registre; anotar en el propio expediente las sanciones que se impongan al profesionista o que impliquen la suspensión del ejercicio profesional y publicar éstas últimas, en el caso de suspensión;
-
-III.- Autorizar para el ejercicio de una especialidad;
-
-IV.- Expedir al interesado la cédula personal correspondiente, con efectos de patente para el ejercicio profesional y para su identidad en todas sus actividades profesionales;
-
-V.- Llevar la lista de los profesionistas que declaren no ejercer la profesión;
-
-VI.- Publicar en los periódicos de mayor circulación todas las resoluciones de registro y denegatorias de registro de títulos;
-
-VII.- Cancelar el registro de títulos de los profesionistas, condenados judicialmente a inhabilitación definitiva en el ejercicio y publicar, profusamente, dicha cancelación;
-
-VIII.- Determinar, de acuerdo con los colegios de profesionistas, el lugar y forma como éstos desean cumplir el servicio social;
-
-IX.- Sugerir la distribución de los profesionistas conforme a las necesidades y exigencias de cada localidad;
-
-X.- Llevar un archivo con los datos relativos a la enseñanza preparatoria, normal y profesional que se imparta en cada uno de los planteles educativos;
-
-XI.- Anotar los datos relativos a las universidades o escuelas profesionales extranjeras;
-
-XII.- Llevar una lista de los profesionistas titulados en los planteles de preparación profesional durante el año anterior;
-
-XIII.- Proporcionar los informes que se le soliciten en los asuntos de su competencia; y
-
-XIV.- Las demás que fijen las leyes y reglamentos.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO VI. DE LOS COLEGIOS DE PROFESIONISTAS
 
 ###### ARTICULO 879.
 
-Se entiende por ejercicio profesional, para los efectos de este Código, la realización habitual a título oneroso o gratuito de todo acto o la prestación de cualquier servicio propio de cada profesión, aunque sólo se trate de simple consulta o de la ostentación de carácter de profesionista por medio de tarjetas, anuncios, placas, insignias o de cualquier otro modo. No se reputará ejercicio profesional a cualquier acto realizado en los casos graves con propósito de auxilio inmediato.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 880.
 
-Para ejercer en el Estado de Chihuahua cualquiera de las profesiones técnico-científicas a que se refiere el artículo 862 se requiere:
-
-I.- Poseer título legalmente expedido y debidamente registrado en la Oficina Estatal de Profesiones; y
-
-II.- Obtener de la Oficina Estatal de Profesiones patente de ejercicio.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 881.
 
-Los extranjeros y los mexicanos por naturalización que posean título expedido en el extranjero de cualquiera de las profesiones que comprende este Código sólo podrán ejercer temporalmente en el Estado en los casos y condiciones que fijen las leyes federales aplicables en la materia.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 882.
 
-Las autoridades judiciales y las que conozcan de asuntos contencioso-administrativos rechazarán la intervención, en calidad de patronos o asesores técnicos del o de los interesados, de persona que no tenga título profesional registrado.
-
-El mandato para asunto judicial o contencioso-administrativo determinado, sólo podrá otorgarse en favor de profesionistas con título debidamente registrado en los términos de este Código.
-
-Se exceptúan los casos de los gestores o apoderados en asuntos obreros, agrarios, cooperativos y penales.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 883.
 
-La representación jurídica en los casos de excepción a que se refiere el último párrafo del artículo anterior se regirá por las normas específicas de las leyes aplicables en cada materia, y en su defecto, por las disposiciones conexas del derecho común.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 884.
 
-En materia penal, el acusado podrá ser oído en defensa por sí o por medio de persona de su confianza o por ambos, según su voluntad. Cuando la persona o personas de la confianza del acusado, designadas como defensores, no sean abogados, se le invitará para que designe, además, un defensor con título o práctico autorizado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 885.
 
-Las personas que sin tener título profesional legalmente expedido actúen habitualmente como profesionistas, incurrirán en las sanciones que establece este Código, con excepción de aquéllos a que se refieren los tres artículos precedentes.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 886.
 
-La Oficina Estatal de Profesiones podrá extender autorización a los pasantes de las diversas profesiones para ejercer la práctica respectiva por un término no mayor de un año.
-
-Para obtener la autorización a que se refiere el párrafo anterior, los pasantes justificarán este carácter, su conducta y su capacidad, con informes de la Facultad o Escuela en que hayan hecho sus estudios. En cada caso se extenderá al interesado una credencial que precise el tiempo en que gozará de la autorización. Al concluir dicho término quedará automáticamente anulada la credencial. En casos especiales podrá el interesado obtener permiso de la Oficina Estatal para prorrogar la autorización por otro año.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 887.
 
-El profesionista está obligado a poner todos sus conocimientos científicos y recursos técnicos al servicio de su cliente, así como en el desempeño del trabajo convenido. En caso de urgencia inaplazable, los servicios que se requieran al profesionista se prestarán en cualquier hora y en el sitio que sean requeridos, siempre que éste último no exceda de cinco kilómetros de distancia del domicilio del profesionista y se le cubran sus justos honorarios anticipadamente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 888.
 
-Para trabajos no comprendidos en los aranceles, el profesionista deberá celebrar contrato con su cliente a fin de estipular los honorarios y las obligaciones mutuas de las partes.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 889.
 
-Cuando hubiere inconformidad por parte del cliente respecto al servicio realizado, el asunto se resolverá mediante juicio de peritos titulados en la materia de que se trate, ya sea en el terreno judicial, ya en privado si así convinieren las partes. Los peritos deberán tomar en consideración para emitir su dictamen, las circunstancias siguientes:
-
-I.- Si el profesionista procedió correctamente dentro de los principios y técnica aplicable al caso y generalmente aceptados dentro de la profesión de que se trate;
-
-II.- Si dispuso de los instrumentos, materiales y recursos de otro orden que debieron emplearse, atendidas las circunstancias del caso y el medio en que se prestó el servicio;
-
-III.- Si en el curso del trabajo se tomaron todas las medidas indicadas para obtener buen éxito;
-
-IV.- Si se dedicó el tiempo necesario para desempeñar correctamente el servicio convenido; y
-
-V.- Cualquiera otra circunstancia que en el caso especial pudiera haber influido en la deficiencia o fracaso del servicio prestado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 890.
 
-Si el laudo arbitral o la resolución judicial, en su caso, fueren adversos al profesionista, no tendrá derecho a cobrar honorarios y deberá, además, indemnizar al cliente por los daños y perjuicios que sufriere. En caso contrario, el cliente pagará los honorarios correspondientes, los gastos del juicio o procedimiento convencional y los daños que en su prestigio profesional hubiere causado al profesionista. Estos últimos serán valuados en la propia sentencia o laudo arbitral.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 891.
 
-Todo profesionista estará obligado a guardar estrictamente el secreto de los asuntos que se le confíen por sus clientes, salvo los informes que obligatoriamente establezcan las leyes.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 892.
 
-Los profesionistas que ejerzan su profesión en calidad de asalariados, quedan sujetos por lo que a su contrato se refiere, a los preceptos de la Ley Federal del Trabajo y de la Primera Parte de este Código.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 893.
 
-Los profesionistas podrán prestar sus servicios mediante iguala que fijen libremente con las partes con quienes contraten.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 894.
 
-Los profesionistas que desempeñen cargos públicos podrán pertenecer a las organizaciones profesionales sin perjuicio de las obligaciones y derechos que les reconozcan las leyes especiales que los comprendan.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 895.
 
-Los profesionistas podrán asociarse para ejercer, ajustándose a las prescripciones de las leyes relativas, pero la responsabilidad en que incurran será siempre individual. Las personas físicas o morales y las sociedades de fines profesionales que tengan a su servicio a profesionistas sujetos a sueldo, están obligadas a hacerlos participar en las utilidades.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 896.
 
-Las personas que hayan obtenido títulos de alguna de las profesiones a que se refiere el artículo 862 de este Código y que presten sus servicios al Gobierno Federal o del Estado, podrán ejercer su profesión, salvo que dicho ejercicio les esté vedado por la ley.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 897.
 
-El anuncio o la publicidad que un profesionista haga de sus actividades no deberá rebasar los conceptos de ética profesional que establezca el colegio respectivo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 898.
 
-Para los efectos a que se contrae la fracción VII del artículo 878 de este Código, las autoridades judiciales deberán comunicar oportunamente a la Oficina Estatal de Profesiones las resoluciones que dicten sobre inhabilitación o suspensión en el ejercicio profesional, cuando éstas hubieren causado ejecutoria.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO VII. DEL SERVICIO SOCIAL DE ESTUDIANTES Y PROFESIONISTAS
 
 ###### ARTICULO 899.
 
-Todos los profesionistas de una misma rama podrán constituir uno o dos colegios por cada rama profesional y en cada Distrito Judicial, gobernada por un Consejo compuesto cuando menos por un Presidente, un Vicepresidente, un Secretario y tres Vocales, que durarán un año en el ejercicio de su encargo.
-
-El Consejo será electo por mayoría del voto directo individual, que podrá emitirse personalmente o por medio de carta poder.
-
-Las asociaciones se denominarán: "Colegio de . . . . . ", indicándose la rama profesional que corresponda.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 900.
 
-Para constituir y obtener el registro del colegio profesional respectivo deberán reunirse los siguientes requisitos:
-
-I.- Tener diez socios como mínimo en la Capital y cinco en las demás poblaciones del Estado. Cuando se trate de profesiones nuevas no clasificadas en el artículo 862, la Oficina Estatal de Profesiones autorizará discrecionalmente la constitución del Colegio;
-
-II.- Que se reúnan los requisitos establecidos en el Título Décimo Primero, Capítulo I, Libro Cuarto del Código Civil;
-
-III.- Para los efectos del registro del Colegio deberán exhibirse los siguientes documentos:
-
-a).- Testimonio de la escritura pública de protocolización de acta constitutiva y de los estatutos que rijan, así como una copia simple de ambos documentos;
-
-b).- Un directorio de sus miembros; y
-
-c).- Nómina de socios que integren el Consejo Directivo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 901.
 
-Los colegios de profesionistas constituidos de acuerdo con los requisitos anteriores, tendrán el carácter de personas morales con todos los derechos y obligaciones que señala la ley.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 902.
 
-La capacidad de los colegios para poseer, adquirir y administrar bienes raíces se ajustará a lo que previenen el artículo 27 de la Constitución General de la República y sus leyes reglamentarias.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 903.
 
-Estos colegios serán ajenos a toda actividad político-electoral o religiosa, quedándoles prohibido tratar asuntos de esa naturaleza en sus asambleas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 904.
 
-Cada colegio se dará sus propios estatutos, sin contravenir las disposiciones del presente Código.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 905.
 
-Los colegios de profesionistas tendrán los siguientes propósitos:
-
-a).- Vigilar el ejercicio profesional con objeto de que éste se realice dentro del más alto plano legal y moral;
-
-b).- Promover la expedición de leyes, reglamentos y sus reformas, relativos al ejercicio profesional;
-
-c).- Auxiliar a la administración pública, con capacidad para promover lo conducente a la moralización de la misma;
-
-d).- Denunciar a la Oficina Estatal de Profesiones o directamente ante las autoridades penales, las violaciones al presente Código;
-
-e).- Proponer los aranceles profesionales;
-
-f).- Servir de árbitro en los conflictos entre profesionales o entre éstos y sus clientes, cuando acuerden someterse unos y otros a dicho arbitraje;
-
-g).- Fomentar la cultura y las relaciones con las asociaciones similares del país o extranjeras;
-
-h).- Prestar la más amplia colaboración al Poder Público como cuerpos consultores;
-
-i).- Representar a sus miembros o asociados ante la Oficina Estatal de Profesiones;
-
-j).- Formular los estatutos del colegio depositando un ejemplar en la propia oficina;
-
-k).- Colaborar en la elaboración de los planes de estudios profesionales;
-
-l).- Hacerse representar en los congresos relativos al ejercicio profesional;
-
-m).- Formar lista de sus miembros por especialidades para llevar el turno conforme al cual deberá prestarse el servicio social;
-
-n).- Anotar anualmente los trabajos desempeñados por los profesionistas en el servicio social;
-
-o).- Formar listas de peritos profesionales, por especialidades, que serán las únicas que sirvan oficialmente;
-
-p).- Velar porque los puestos públicos en que se requieran conocimientos propios de determinada profesión estén desempeñados por los técnicos respectivos con título legalmente expedido y debidamente registrado;
-
-q).- Expulsar de su seno, por el voto de la mitad de sus miembros, como mínimo, a los que ejercen actos que desprestigien o deshonren la profesión. Será requisito en todo caso el oír al interesado y darle plena oportunidad de rendir las pruebas que estime conveniente, en la forma que lo determinen los estatutos del colegio.
-
-r).- Establecer y aplicar sanciones contra los profesionistas que faltaren al cumplimiento de sus deberes profesionales, siempre que no se trate de actos u omisiones que deban sancionarse por las autoridades; y
-
-s).- Gestionar el registro de los títulos de sus componentes.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 906.
 
-Todos los miembros de un colegio están obligados a cubrir las cuotas que fijen sus estatutos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO VIII. DE LOS PRACTICOS
 
 ###### ARTICULO 907.
 
-Los profesionistas no mayores de sesenta años, no impedidos por enfermedades graves y los estudiantes de los planteles profesionales existentes en el Estado deberán prestar el servicio social en los términos de este Código.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 908.
 
-Se entiende por servicio social el trabajo de carácter temporal y mediante retribución que ejecuten y presten los profesionistas y estudiantes en interés de la sociedad y del Estado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 909.
 
-Los colegios de profesionistas, con el consentimiento expreso de cada asociado, comunicarán a la Oficina Estatal de Profesiones la forma como prestarán sus miembros el servicio social.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 910.
 
-Los planes de preparación profesional, según la naturaleza de la profesión y de las necesidades sociales que se trate de satisfacer, exigirán a los estudiantes de las profesiones a que se refiere este Código, como requisito previo para otorgarles el título, que presten servicio social durante un tiempo no menor de seis meses ni mayor de dos años.
-
-No se computará en dicho término el tiempo que por enfermedad u otra causa grave, el estudiante permanezca fuera del lugar en que deba prestar el servicio social.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 911.
 
-Los profesionistas prestarán por riguroso turno, a través del colegio respectivo, servicio social consistente en la resolución de consultas, ejecución de trabajos y aportación de datos obtenidos como resultado de sus investigaciones o del ejercicio profesional.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 912.
 
-Los profesionistas están obligados a servir como auxiliares de las instituciones de investigación científica, proporcionando los datos o informes que éstas soliciten.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 913.
 
-Los profesionistas están obligados a rendir cada tres años, al colegio respectivo, un informe sobre los datos más importantes de su experiencia profesional o de su investigación durante el mismo período, con expresión de los resultados obtenidos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 914.
 
-Cuando el servicio social absorba totalmente las actividades del estudiante o del profesionista, la remuneración respectiva deberá ser suficiente para satisfacer decorosamente sus necesidades.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 915.
 
-En circunstancias de peligro estatal derivadas de calamidades públicas, todos los profesionistas quedarán a disposición del Gobierno del Estado, para que éste utilice sus servicios, en los términos de las leyes respectivas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO IX. DE LAS INFRACCIONES DE LOS PROFESIONISTAS Y DE LAS SANCIONES POR INCUMPLIMIENTO A ESTE CODIGO
 
 ###### ARTICULO 916.
 
-En las municipalidades donde no residan y ejerzan técnicos debidamente titulados y registrados de las profesiones reglamentadas por este Código, o los que ejerzan no basten para satisfacer las necesidades de la misma Municipalidad, a juicio de la Oficina Estatal de Profesiones, que deberá oír previamente al colegio respectivo, aquélla podrá autorizar, para que lo hagan como prácticos, a las personas que, careciendo de título, llenen los siguientes requisitos:
-
-I.- Haber cursado la instrucción primaria;
-
-II.- Ser de reconocida buena conducta;
-
-III.- Haber sido examinados y aprobados de conformidad con los artículos siguientes.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 917.
 
-El examen a que se refiere el artículo anterior consistirá en una prueba teórico-práctica en que los interesados demostrarán tener conocimientos elementales en las materias que para cada profesión señale la Oficina Estatal de Profesiones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 918.
 
-El Jurado se integrará por tres técnicos en la profesión de que se trate, con título debidamente registrado, nombrados por la Oficina Estatal de Profesiones, previa propuesta del o de los colegios respectivos. Estos, en todo caso, tendrán derecho a opinar sobre la conveniencia de conceder las autorizaciones o permisos a que se refiere el presente Capítulo y sobre si los aspirantes reúnen los requisitos del artículo 916, pero la resolución correspondiente será de la exclusiva competencia de la Oficina Estatal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 919.
 
-Las autorizaciones se concederán únicamente para una sola Municipalidad y serán temporales, no pudiendo exceder de dos años. El solo vencimiento del plazo para el cual sean concedidas, será suficiente para que la persona autorizada cese de ejercer la profesión de que se trate. La Oficina Estatal podrá conceder una o varias prórrogas cuando a su juicio subsistan las condiciones que motivaron la expedición del permiso.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 920.
 
-Las mencionadas autorizaciones podrán revocarse por la Oficina Estatal cuando a juicio de la misma así convenga al interés social, sin que los beneficiarios puedan alegar que dichos permisos constituyen derechos adquiridos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 921.
 
-Siempre serán revocadas las autorizaciones a que se refiere el presente Capítulo:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
-I.- Cuando los titulares de ellas sean condenados por delito que merezca pena corporal;
-
-II.- Por notoria mala conducta, a juicio de la Oficina Estatal de Profesiones;
-
-III.- Por incompetencia comprobada en el ejercicio de la profesión;
-
-IV.- Por manifiesta inmoralidad en dicho ejercicio.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 922.
 
-Las infracciones antisociales que cometan los profesionistas en el ejercicio de la profesión serán castigadas por las autoridades competentes con arreglo al Código de Defensa Social vigente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 923.
 
-El hecho de que alguna persona se atribuya el carácter de profesionista o ejerza los actos propios de la profesión sin tener título legal registrado, se castigará con la sanción que establezca en su caso el Código de Defensa Social vigente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 924.
 
-Al que ofrezca públicamente sus servicios como profesionista, o en cualquier otra forma se anuncie y se ostente con dicho carácter, sin serlo, se le castigará con la misma sanción que establece el artículo anterior.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 925.
 
-Se sancionará con multa de cincuenta pesos, por primera vez, duplicándose en cada caso de reincidencia, al que contravenga lo dispuesto en la parte final del artículo 887 de este Código.
-
-La Oficina Estatal de Profesiones, previa comprobación de la infracción, impondrá la multa de referencia sin perjuicio de las sanciones penales en que se hubiere incurrido.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 926.
 
-La violación del artículo 907 será sancionada con multa de cien a quinientos pesos, que se duplicará en caso de reincidencia. Si el profesionista o estudiante, a pesar de las sanciones impuestas, no prestare el servicio social, la Oficina Estatal, a la cual incumbe aplicarlas, podrá suspenderlo hasta por seis meses en el ejercicio profesional.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 927.
 
-La Oficina Estatal de Profesiones sólo podrá cancelar el registro de los títulos cuando por resolución judicial se ordene dicha cancelación o cuando se declare que quien se ostenta como profesionista debe ser sancionado por ilegalidad de su título.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 928.
 
-Las personas que ejerzan actividades profesionales sin título y sin la correspondiente autorización, o con título, pero que carezcan del requisito del registro, no podrán cobrar honorarios de ninguna clase.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 929.
 
-Queda prohibido a los profesionistas el empleo del término "Colegio" fuera de las agrupaciones expresamente autorizadas por este Código. La infracción de esta disposición será castigada con multa hasta de mil pesos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 930.
 
-Los profesionistas serán civilmente responsables de las contravenciones que cometan en el desempeño de trabajos profesionales los auxiliares o empleados que estén bajo su inmediata dependencia y dirección, siempre que no hubieran dado las instrucciones adecuadas o sus instrucciones hubieren sido la causa del daño, en los términos de los preceptos aplicables del Código Civil.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 931.
 
-Son aplicables a los prácticos autorizados en sus respectivos casos, las disposiciones y sanciones contenidas en los artículos 887, 888 y 930 de este ordenamiento.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 932.
 
-No se sancionará a las personas que ejerzan en asuntos estrictamente propios. Tampoco se aplicará sanción a los dirigentes de los sindicatos cuando ejerciten actividades de índole profesional dentro de los términos prevenidos por la Ley Federal del Trabajo.
-
-Se exceptúan también de las sanciones que impone este Capítulo las demás personas a que se refieren los artículos 884, 885 y 916 de este Código.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 933.
 
-Se concede acción pública para denunciar a los Individuos que sin título legalmente expedido y debidamente registrado, ejerzan cualquiera de las profesiones que este Código reglamenta.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)
 
 QUINTA PARTE
 
@@ -10672,3 +10502,11 @@ PRIMERO.- La presente Ley entrará en vigor a los veinte días siguientes a su p
 SEGUNDO.- Se deroga el Libro Tercero, de la Séptima Parte, del Código Administrativo del Estado, publicado en el Periódico Oficial del Estado el 21 de agosto de 1974, y sus posteriores reformas.
 
 CUARTO.- Hasta en tanto se expida el Reglamento de esta Ley, seguirán en vigor los artículos 1335 y 1336 del Código Administrativo del Estado, y los artículos 11 al 15 de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con los Bienes Muebles del Estado de Chihuahua.
+
+P.O. 27 DE DICIEMBRE DE 1997.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- Esta ley entrará en vigor en todo el Estado de Chihuahua, a los treinta días posteriores al de su publicación en el Periódico Oficial del Estado, con excepción de las facultades conferidas a la Oficina Estatal de Profesiones para registrar títulos profesionales y grados académicos, así como para expedir cédulas o patentes de ejercicio; dichas facultades entrarán en vigor ciento ochenta días después al en que el Poder Ejecutivo publique en el Periódico Oficial del Estado el aviso de terminación del convenio celebrado con la Secretaría de Educación Pública en 1974 y publicado en el Diario Oficial de la Federación el viernes 25 de enero de 1975.
+
+TERCERO.- Esta ley deroga el Libro Segundo, Título Unico del Código Administrativo del Estado, relativo al ejercicio de las profesiones.
