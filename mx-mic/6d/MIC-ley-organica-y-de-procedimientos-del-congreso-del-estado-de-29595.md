@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-295
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-03-13"
-last_updated: "2003-03-13"
+last_updated: "2003-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán, el jueves 13 de marzo de 2003.
 
@@ -1415,9 +1415,11 @@ El Titular del Ejecutivo debe rendir personalmente ante el Pleno o por escrito e
 
 El Congreso procederá a realizar el análisis de su contenido en comisiones y emitirán el Dictamen respectivo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 156.
 
-En la última sesión del año legislativo, que es solemne y con la presencia de los otros dos Poderes, el Presidente de la Mesa Directiva, luego de rendir el informe de las actividades realizadas por el Congreso, clausurará diciendo: ''Hoy (fecha) la (número ordinal de la Legislatura) clausura su (primer, segundo o tercer) año legislativo de ejercicio legal''.
+En la última sesión del año legislativo, el Presidente de la Mesa Directiva, luego de rendir el informe de las actividades realizadas por el Congreso, clausurará diciendo: ''Hoy (fecha) la (número ordinal de la Legislatura) clausura su (primer, segundo o tercer) año legislativo de ejercicio legal''.
 
 ###### Artículo 157.
 
@@ -1544,3 +1546,9 @@ PALACIO DEL PODER LEGISLATIVO, Morelia, Michoacán, a 12 de marzo de 2003.- DIPU
 En cumplimiento a lo dispuesto por el artículo 65 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 12 doce días del mes de marzo de año 2003 dos mil tres.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ANTROPÓLOGO LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- MAESTRO LEONEL GODOY RANGEL. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 2003.
+
+Artículo Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
