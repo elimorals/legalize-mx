@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-civil-del-estado-de-zacatecas-8277"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-24"
-last_updated: "1996-09-14"
+last_updated: "2001-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO CIVIL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 2001.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 1986.
 
@@ -627,9 +627,9 @@ Tiene también la obligación impuesta por la fracción II del artículo 115.
 
 127.- Posesión continua es la que no ha sido interrumpida por algunos de los medios enumerados en el Capítulo Quinto, Título Séptimo de este Libro.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2001)</small>
 
-128.- La posesión pública es la que se disfruta de manera que pueda ser conocida por todos aquéllos que tengan interés en interrumpirla. También la que está legalmente inscrita en el Registro Público de la Propiedad.
+128.- La posesión pública es la que se disfruta de manera que pueda ser conocida por todos aquéllos que tengan interés en interrumpirla y que la misma se encuentre inscrita en el Registro Público de la Propiedad.
 
 129.- Posesión cierta es la que se tiene por una causa que no da lugar a dudas respecto al concepto originario o derivado de la misma posesión. Posesión equívoca es la que se tiene por un hecho o acto jurídico que dé lugar a duda respecto del concepto originario o derivado de la misma posesión.
 
@@ -785,7 +785,7 @@ Esta trasmisión sólo se reconoce por el presente Código en los casos de heren
 
 167.- Es lícito a los propietarios o poseedores destruir a los animales salvajes o feroces que sean sorprendidos perjudicando sus sementeras o plantaciones, hecha excepción de vacunos, equinos, ovicaprinos, que puedan reputarse como domésticos.
 
-168.- Se prohibe terminantemente y en forma absoluta destruir en predios ajenos los nidos, huevos y crías de aves de cualquier especie.
+168.- Se prohíbe terminantemente y en forma absoluta destruir en predios ajenos los nidos, huevos y crías de aves de cualquier especie.
 
 169.- La pesca en las aguas del dominio del poder público, que sean de uso común, se regirán por lo que dispongan las leyes y reglamentos respectivos.
 
@@ -1243,7 +1243,7 @@ IX.- Por no dar garantía el usufructuario a título gratuito si el dueño o pos
 
 346.- Si el usufructo está constituido sobre un inmueble y éste se arruina en un incendio, por vetustez o por algún otro accidente, el usufructuario no tiene derecho a gozar del solar ni de los materiales; más si estuviese constituido sobre una finca rústica de que sólo forme parte el inmueble arruinado, el usufructuario podrá continuar usufructuando el solar y los materiales.
 
-347.- Si el bien usufructuado fuere expropiado por causa de utilidad pública, el propietario o poseedor está obligado, bien a sustituirlo con otro de igual valor y análogas condiciones, o bien a abonar al usfructuario el interés legal del importe de la indemnización por todo el tiempo que debía durar el usufructo. Si el propietario optare por lo último, deberá garantizar el pago de los réditos.
+347.- Si el bien usufructuado fuere expropiado por causa de utilidad pública, el propietario o poseedor está obligado, bien a sustituirlo con otro de igual valor y análogas condiciones, o bien a abonar al usufructuario el interés legal del importe de la indemnización por todo el tiempo que debía durar el usufructo. Si el propietario optare por lo último, deberá garantizar el pago de los réditos.
 
 348.- Si el edificio es reconstruido por el dueño o por el usufructuario, se estará a lo dispuesto en los artículos 323, 324, 325 y 326.
 
@@ -1289,7 +1289,7 @@ El que reporta la obligación real se denomina predio sirviente y aquel en cuyo 
 
 Las servidumbres originan relaciones jurídicas, entre los dueños o poseedores de los predios mencionados, siendo sujeto activo de las mismas el dueño o poseedor del predio dominante y sujeto pasivo el dueño o poseedor del predio sirviente.
 
-363.- Las servidumbres son positivas o negativas: por las primeras se permite al dueño o poseedor del predio dominante realizar ciertos actos en el predio ajeno, y negativas por las que se prohibe al poseedor o propietario del predio sirviente hacer algo que le sería lícito si no existiera la obligación real.
+363.- Las servidumbres son positivas o negativas: por las primeras se permite al dueño o poseedor del predio dominante realizar ciertos actos en el predio ajeno, y negativas por las que se prohíbe al poseedor o propietario del predio sirviente hacer algo que le sería lícito si no existiera la obligación real.
 
 La servidumbre consiste en no hacer o en tolerar. Para que al dueño del predio sirviente pueda exigirse la ejecución de un hecho es necesario que esté expresamente determinado por la ley, o por el acto en que se constituyó la servidumbre.
 
@@ -1655,7 +1655,7 @@ Empezará a contarse el nuevo término de la prescripción en caso de reconocimi
 
 Si se renueva el documento, desde la fecha del nuevo título; si se hubiere prorrogado el plazo del cumplimiento de la obligación, desde que éste hubiere vencido.
 
-476.- Las causas que interumpen la prescripción respecto de uno de los deudores solidarios o varios, la interrumpen también respecto de los otros.
+476.- Las causas que interrumpen la prescripción respecto de uno de los deudores solidarios o varios, la interrumpen también respecto de los otros.
 
 477.- Si el acreedor, consintiendo en la división de la deuda respecto de uno de los deudores solidarios, sólo exigiere de él la parte que le corresponda, no se tendrá por interrumpida la prescripción respecto de los demás.
 
@@ -1749,7 +1749,7 @@ En caso de duda sobre la inteligencia o interpretación de una disposición test
 
 ### CAPITULO SEGUNDO. DE LA CAPACIDAD PARA TESTAR
 
-511.- Pueden testar aquéllos a quienes la ley no prohiba expresamente el ejercicio de ese derecho.
+511.- Pueden testar aquéllos a quienes la ley no prohíba expresamente el ejercicio de ese derecho.
 
 512.- Están incapacitados para testar:
 
@@ -2157,7 +2157,7 @@ Cualquiera otra carga, perpetua o temporal, a que se halle afecto el bien legado
 
 668.- El legado de pensión, sean cuales fuere la cantidad, el objeto y los plazos, corre desde la muerte del testador, es exigible al principio de cada período y el legatario hace suya la que tuvo derecho de cobrar, aunque muera antes de que termine el período comenzado. La pensión se entiende vitalicia si el testador no dispusiere otra cosa.
 
-669.- Los legados de usufructo, uso, habitación o servidumbre, subsistirán mientras viva el legatario, a no ser que el testador dispuesiere que duren menos.
+669.- Los legados de usufructo, uso, habitación o servidumbre, subsistirán mientras viva el legatario, a no ser que el testador dispusiere que duren menos.
 
 670. - Sólo durarán veinte años los legados de que trata el artículo anterior, si fueren dejados a alguna persona colectiva con capacidad para adquirirlos.
 
@@ -2359,7 +2359,7 @@ Si el testador no puede o no sabe leer, dictará en su idioma el testamento a un
 
 744.- Si no pudieren comparecer todos los testigos por muerte, enfermedad, ausencia o cualquier otra causa, bastará el reconocimiento de la mayor parte, siempre que vaya acompañado del reconocimiento del Notario.
 
-745.- Si por igual causa no pudieren comparecer el Notario, la mayor parte del los testigos o ninguno de ellos, el Juez lo hará constar así por información como también la autenticidad de las firmas y que en la fecha que lleva el testamento se encontraban aquéllos en el lugar que éste se otorgó.
+745.- Si por igual causa no pudieren comparecer el Notario, la mayor parte de los testigos o ninguno de ellos, el Juez lo hará constar así por información como también la autenticidad de las firmas y que en la fecha que lleva el testamento se encontraban aquéllos en el lugar que éste se otorgó.
 
 746.- En todo caso, los que comparecieren reconocerán sus firmas.
 
@@ -2399,7 +2399,7 @@ En caso de que intervengan testigos de identificación, también firmarán.
 
 760.- El que guarde en su poder el duplicado de un testamento o cualquiera que tenga noticia de que el autor de una sucesión ha depositado algún testamento ológrafo lo comunicará al Juez competente, quien pedirá al Oficial de la oficina del Registro Público de la Propiedad en que se encuentre el testamento, que se le remita.
 
-761.- Recibido el testamento, el Juez examinará la cubierta que lo contiene para cerciorarse de que no ha sido violada, hará que los testigos de identificación que residieren en el lugar, reconozcan sus firmas y la del testador, y en presencia del Ministerio Público, de los que se hayan presentado como interesados y de los mencionados testigos, abrirá la cubierta que contiene el testamento. Si éste llena los requisitos mencionados en el artículo 751, y queda comprobado que es el mismo que depositó el testador, se declarará existente y válido el testamento de éste.
+761.- Recibido el testamento, el Juez examinará la cubierta que lo contiene para cerciorarse de que no ha sido violada, hará que los testigos de identificación que residieren en el lugar, reconozcan sus firmas y la del testador, y en presencia del Ministerio Público, de los que se hayan presentado como interesados y de los mencionados testigos, abrirá la cubierta que contiene el testamento. Si ésta llena los requisitos mencionados en el artículo 751, y queda comprobado que es el mismo que depositó el testador, se declarará existente y válido el testamento de éste.
 
 762.- Sólo cuando el ejemplar depositado e inscrito haya sido destruido o robado, se tendrá como testamento el duplicado, procediéndose para su apertura como se dispone en el artículo que precede.
 
@@ -2727,7 +2727,7 @@ VI.- Los mayores de setenta y cinco años.
 
 874.- El albacea que estuviere ejerciendo el cargo mientras se decide sobre su excusa, debe desempeñarlo, bajo la pena establecida en el artículo 871.
 
-875.- El albacea no podrá delegar el cargo que ha recibido, ni por su muerte pasa a sus herederos; pero no está obligado a obrar personalmente, ya que puede hacerlo por mandatarios que obren bajo sus órdenes, respondiendo de los actos de éstos.
+875.- El albacea no podrá delegar el cargo que ha recibido, ni por su muerte pasa a sus herederos; pero no está obligado a obrar personalmente, ya que puede hacerlo por mandatarios que obren bajo sus órdenes, respondiendo de los actos de éstos
 
 876.- El albacea universal está obligado a entregar al especial las cantidades o bienes necesarios para que cumpla la parte del testamento que estuviere a su cargo.
 
@@ -2855,7 +2855,7 @@ Se exceptúan de lo dispuesto en el párrafo anterior, los casos previstos en lo
 
 922.- Si fueren varios y obran conjuntamente los albaceas, la retribución se repartirá entre todos ellos; si fueren sucesivos, la repartición se hará en proporción al tiempo que cada uno haya administrado y al trabajo que hubiere tenido en la administración.
 
-923.- Si el testador legó conjuntamente a los albaceas algún bien, por el desempeño de su cargo, la parte de los que no admiten éste, acrecerá a los que lo ejerzan.
+923.- Si el testador legó conjuntamente a los albaceas algún bien, por el desempeño de su cargo, la parte de los que no admiten éste, acrercerá a los que lo ejerzan.
 
 924.- Los cargos de albacea e inventor acaban:
 
@@ -2977,7 +2977,7 @@ III.- Cuando la pérdida fuere ocasionada por culpa del heredero que la sufra.
 
 965.- Por los créditos incobrables, no hay responsabilidad.
 
-966.- El heredero cuyos bienes hereditarios fueren embargados, o contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de exigir a sus coherederos que caucionen la responsabilidad que pueda resultarles, y en caso contrario, que se les prohiba enajenar los bienes que recibieron.
+966.- El heredero cuyos bienes hereditarios fueren embargados, o contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de exigir a sus coherederos que caucionen la responsabilidad que pueda resultarles, y en caso contrario, que se les prohíba enajenar los bienes que recibieron.
 
 ### CAPITULO OCTAVO. DE LA RESCISION Y NULIDAD DE LAS PARTICIONES
 
@@ -3191,7 +3191,7 @@ III.- Analfabetos que no sepan leer ni escribir, cuando se justifique que estamp
 
 1039.- La anulación del acto obliga a las partes a restituirse mutuamente lo que han recibido o percibido en virtud o por consecuencia del acto anulado.
 
-1040.- Si el acto fuera bilateral y las obligaciones correlativas consisten ambas en sumas de dinero o en bienes productivos de frutos, no se hará la restitución respectiva de intereses o de frutos sino desde el día de la demanda de nulidad. Los intereses y los frutos percibidos hasta esa época se compensan entre sí.
+1040.- Si el acto fuera bilateral y las obligaciones correlativas consisten ambas en sumas de dinero, o en bienes productivos de frutos, no se hará la restitución respectiva de intereses o de frutos sino desde el día de la demanda de nulidad. Los intereses y los frutos percibidos hasta esa época se compensan entre sí.
 
 1041.- Mientras una de las partes en los actos plurilaterales, no cumpla con la devolución de aquello que en virtud de la declaración de nulidad del acto está obligada a restituir, no puede ser compelida la otra parte a restituir lo que hubiere recibido.
 
@@ -3283,7 +3283,7 @@ Los derechos personalísimos no son transmisibles ni por contrato ni por sucesi�
 
 1074.- Son contratos consensuales aquéllos que se perfeccionan por el mero consentimiento de las partes y la ley no exige que se prueben por escrito ni que se entregue el bien objeto del contrato para la constitución de éste.
 
-Se llaman formales los contratos que, perfeccionándose por el mero consentimiento de las partes, deben probarse mediante prueba documental , sea pública o privada, según determine la ley.
+Se llaman formales los contratos que, perfeccionándose por el mero consentimiento de las partes, deben probarse mediante prueba documental, sea pública o privada, según determine la ley.
 
 El contrato será real cuando la ley exija, para su constitución, que al celebrarse se entregue el bien o bienes que sean objeto de las obligaciones creadas por el contrato.
 
@@ -3785,11 +3785,11 @@ El perjudicado podrá escoger entre exigir el cumplimiento o la resolución de l
 
 También podrá pedir la resolución aún después de haber optado por el cumplimiento, cuando éste resultare imposible.
 
-1240.- La resolución del contrato fundada en falta de pago por parte del adquiriente de la propiedad de bienes inmuebles u otro derecho real sobre los mismos, no surtirá efecto contra tercero de buena fe, si no se ha estipulado expresamente y ha sido inscrito en el Registro Público en la forma prevenida por la ley.
+1240.- La resolución del contrato fundada en falta de pago por parte del adquiriente de la propiedad de bienes inmuebles u otro derecho real sobre los mismos, no surtirá efecto contra tercero de buena fe, si no se ha estipulado expresamente y ha sido inscrito en el Reglamento Público en la forma prevenida por la ley.
 
 1241.- Respecto de bienes muebles no tendrá lugar la rescisión, salvo lo previsto para las ventas en las que se faculte al comprador a pagar el precio en abonos.
 
-1242.- Si la rescisión del contrato dependiere de un tercero y éste fuere dolosamente inducido a rescindirlo, se tendrá por no rescindido.
+1242.- Si la rescisión del contrato dependiere de un tercero y éste fuera dolosamente inducido a rescindirlo, se tendrá por no rescindido.
 
 ### CAPITULO SEGUNDO. DE LAS OBLIGACIONES A PLAZO
 
@@ -3893,7 +3893,7 @@ La solidaridad no se presume; resulta de la ley o de la voluntad de las partes.
 
 1283.- El pago hecho a uno de los acreedores solidarios extingue totalmente la deuda.
 
-1284.- La novación, compensación, confusión o remisión hecha por cualquiera de los acreedores solidarios, con cualquiera de los deudores de la misma clase, extingue la obligación.
+1284.- La novación compensación, confusión o rescisión hecha por cualquiera de los acreedores solidarios, con cualquiera de los deudores de la misma clase, extingue la obligación.
 
 1285.- El acreedor que hubiese recibido todo o parte de la deuda, o que hubiese hecho quita o remisión de ella, queda responsable a los otros acreedores de la parte que a éstos corresponda, dividido el crédito entre ellos.
 
@@ -4635,7 +4635,7 @@ II.- Si la condición fuere resolutoria, la confusión que se hubiere hecho cesa
 
 ### CAPITULO TERCERO. DE LA REMISION DE LA DEUDA
 
-1550.- El acreedor puede por acto jurídico unilateral o por convenio con su deudor, renunciar a su derecho y remitir, en todo o en parte, las prestaciones que le sean debidas, excepto en aquellos casos en que la ley lo prohiba.
+1550.- El acreedor puede por acto jurídico unilateral o por convenio con su deudor, renunciar a su derecho y remitir, en todo o en parte, las prestaciones que le sean debidas, excepto en aquellos casos en que la ley lo prohíba.
 
 1551.- Una vez hecha la declaración unilateral de remisión o de quita, éstas serán irrevocables.
 
@@ -4993,7 +4993,7 @@ G) En todo caso se inscribirán en el Registro Público de la Propiedad los cont
 
 Si el contrato no se inscribe dentro de los sesenta días después de celebrado, el vendedor pagará al comprador una pena equivalente al veinte por ciento del precio pactado y podrá el comprador gestionar su inscripción, bastando, para que el contrato surta efectos contra tercero desde la fecha del mismo contrato, que el comprador haga la solicitud de inscripción dentro de los treinta días siguientes a la expiración del plazo, concedido en este párrafo al comprador, para el mismo fin;
 
-H) Ninguna de estas disposiciones es renunciable; y el artículo entero deberá ser transcrito en los antecedentes del contrato, con caracteres tipográficos idénticos al clasulado del mismo. Su omisión acarrea una pena legal a cargo del vendedor y en beneficio del comprador, del veinte por ciento del precio pactado;
+H) Ninguna de estas disposiciones es renunciable; y el artículo entero deberá ser transcrito en los antecedentes del contrato, con caracteres tipográficos idénticos al clausulado del mismo. Su omisión acarrea una pena legal a cargo del vendedor y en beneficio del comprador, del veinte por ciento del precio pactado;
 
 I) Este artículo es aplicable a la compraventa de una casa aunque no sea vendida por un fraccionador, si la casa se adquiere por el comprador para habitarla y a plazo;
 
@@ -5265,9 +5265,9 @@ Se llama arrendador al que da el bien en arrendamiento y arrendatario el que lo 
 
 1760.- No puede arrendar el copropietario sin consentimiento de los otros copropietarios, o de quien los represente.
 
-1761.- Pueden arrendarse todos los bienes que puedan usarse sin consumirse; excepto aquellos que la ley prohibe arrendar y los derechos estrictamente personales. Asimismo puede arrendarse el usufructo.
+1761.- Pueden arrendarse todos los bienes que puedan usarse sin consumirse; excepto aquellos que la ley prohíbe arrendar y los derechos estrictamente personales. Asimismo puede arrendarse el usufructo.
 
-1762.- Se prohibe a los Magistrados, a los Jueces, a los encargados de los establecimientos públicos, tomar en arrendamiento los bienes que deban arrendarse en los negocios en que intervengan o que administren con ese carácter.
+1762.- Se prohíbe a los Magistrados, a los Jueces, a los encargados de los establecimientos públicos, tomar en arrendamiento los bienes que deban arrendarse en los negocios en que intervengan o que administren con ese carácter.
 
 1763.- La renta o precio del arrendamiento puede consistir en una suma de dinero o cualquiera otra cosa equivalente, con tal que sea cierta y determinada.
 
@@ -6545,9 +6545,7 @@ En este caso, se observará lo dispuesto por los dos artículos anteriores.
 
 ### CAPITULO SEGUNDO. DE LA RENTA VITALICIA
 
-2175.- La renta vitalicia es un contrato aleatorio por el cual el deudor se obliga a pagar periódicamente una pensión durante la vida de una o más personas determinadas, mediante la
-
-entrega de una cantidad de dinero o de un bien mueble o raíz estimados, cuyo dominio se le transfiere desde luego.
+2175.- La renta vitalicia es un contrato aleatorio por el cual el deudor se obliga a pagar periódicamente una pensión durante la vida de una o más personas determinadas, mediante la entrega de una cantidad de dinero o de un bien mueble o raíz estimados, cuyo dominio se le transfiere desde luego.
 
 2176.- La renta vitalicia puede también constituirse a título puramente gratuito, sea por donación o por testamento.
 
@@ -6843,7 +6841,7 @@ IV.- De los daños y perjuicios que haya sufrido por causa del deudor.
 
 2288.- Si el deudor, ignorando el pago por falta de aviso del fiador, paga de nuevo, no podrá éste repetir contra aquél, sino sólo contra el acreedor.
 
-2289.- Si el fiador ha pagado en virtud de fallo judicial, y por motivo fundado no puedo hacer saber el pago al deudor, éste quedará obligado a indemnizar a aquél y no podrá oponerle más excepciones que las que sean inherentes a la obligación y que no hubieren sido opuestas por el fiador, teniendo conocimiento de ellas.
+2289.- Si el fiador ha pagado en virtud de fallo judicial, y por motivo fundado no pudo hacer saber el pago al deudor, éste quedará obligado a indemnizar a aquél y no podrá oponerle más excepciones que las que sean inherentes a la obligación y que no hubieren sido opuestas por el fiador, teniendo conocimiento de ellas.
 
 2290.- Si la deuda fuere a plazo o bajo condición, y el fiador la pagare antes de que aquél o ésta se cumplan, no podrá cobrarla del deudor sino cuando fuere legalmente exigible.
 
@@ -6965,7 +6963,7 @@ Cuando la prenda sea constituida por un tercero se llamará a éste "deudor pren
 
 2324.- Las modalidades que afectan a la obligación principal afectarán a la prenda.
 
-2325.- Todos los muebles pueden darse en prenda salvo que la ley lo prohiba respecto de un bien determinado.
+2325.- Todos los muebles pueden darse en prenda salvo que la ley lo prohíba respecto de un bien determinado.
 
 Pero pueden darse en prenda los frutos pendientes de los bienes raíces, que deban ser recogidos en tiempo determinado y, en este caso, para que la prenda surta efectos contra tercero habrá de inscribirse en el Registro Público. El que dé los frutos en prenda se considerará como depositario de ellos. También podrá ser depositario de ellos un tercero; pero no podrá ser depositario de los mismos el acreedor.
 
@@ -7051,7 +7049,7 @@ La venta extrajudicial de la prenda se hará por conducto de corredor o de comer
 
 2351.- Es nula toda cláusula que autoriza al acreedor a apropiarse de la prenda, aunque ésta sea de menor valor que la deuda, o a disponer de ella fuera de la manera establecida en los artículos que preceden.
 
-Es igualmente nula la cláusula que prohibe al acreedor solicitar la venta del bien dado en prenda.
+Es igualmente nula la cláusula que prohíbe al acreedor solicitar la venta del bien dado en prenda.
 
 2352.- El derecho que da la prenda al acreedor se extiende sobre los siguientes bienes:
 
@@ -7803,29 +7801,31 @@ IV.- Mediante la inscripción del decreto publicado en el Periódico Oficial del
 
 V.- Mediante la inscripción del contrato privado de compraventa autenticado en los términos del artículo 2474, fracción III, acompañado de la certificación de no inscripción de la finca y de un plano de la misma.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2001)</small>
 
-2516.- El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos y no tenga documento de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción de prescripción positiva a que se refiere el artículo 463, podrá demostrar ante el Juez competente que ha tenido esa posesión, aportando la información testimonial respectiva en los términos que establezca el Código de Procedimientos Civiles y revelando la causa generadora de la posesión.
+2516.- El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos y no tenga documento de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción de prescripción positiva, por no estar inscrita en el Registro Público de la Propiedad del lugar de ubicación de los bienes a favor de persona alguna, podrá demostrar ante juez competente, que ha tenido esa posesión, rindiendo la información testimonial respectiva, suficiente para comprobar la causa generadora de la posesión, conforme lo establece el Código de Procedimientos Civiles.
 
 La información se recibirá con citación del Ministerio Público, al cual se le notificará el auto inicial del procedimiento; de la autoridad municipal; del respectivo registrador de la propiedad; de los colindantes y de las personas a cuyo nombre se expidan las boletas del impuesto predial. Los testigos deberán ser cuando menos tres, de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiere. Cualquiera de las personas indicadas podrá oponerse, con pruebas idóneas, al trámite del procedimiento.
 
-A su solicitud acompañará:
+A la información se le acompañarán los siguientes documentos:
 
-I.- Certificado de Registro Público que demuestre que los bienes no están inscritos;
+I.- Certificado del Registro Público que demuestre que los bienes no están inscritos;
 
-II.- Certificado actual del inmueble en los registros fiscales de las oficinas rentisticas del Estado;
+II.- Certificados del estado actual del inmueble en los registros fiscales de las oficinas rentísticas del Estado;
 
-III.- Un plano de la ubicación y localización del bien expedido y aprobado por las autoridades catastrales y municipales;
+III.- Dictamen de la oficina competente de la Secretaría de Obras Públicas del Gobierno del Estado, declarando procedente la solicitud en lo que a ella corresponda;
 
-IV.- Opinión del Ayuntamiento Municipal del lugar de ubicación del inmueble;
+IV.- Un plano de ubicación y localización del bien expedido y aprobado por las autoridades catastrales estatales y municipales;
 
-V.- Si se trata de predios rústicos se acompañará además, certificados del Registro Agrario Nacional y de la Dirección de Fraccionamientos del Gobierno del Estado, para acreditar que el o los inmuebles no se encuentran sujetos a las leyes correspondientes;
+V.- Opinión del H. Ayuntamiento Municipal de la ubicación del inmueble; y
 
-El juez que conozca del asunto solicitará directamente los certificados a que se refiere la fracción V, y las autoridades competentes los expedirán en un término no mayor de treinta días naturales contados a partir del día siguiente en que conste fue recibido el oficio de solicitud. Transcurrido el término sin que se hayan expedido, se tendrá por contestado en sentido negativo.
+VI.- Si se trata de predios rústicos, se acompañarán además, certificados del Registro Agrario Nacional y de la Dirección de Fraccionamientos Rurales del Gobierno del Estado, en las que se acredite que él o los inmuebles no se encuentran sujetos a las leyes correspondientes.
 
-De igual forma, el juez referido o secretario de acuerdos correspondiente, deberán practicar antes de recibir la información testimonial, inspección de los inmuebles de que se trate citando posteriormente a los colindantes.
+El Dictamen y Certificados a que se refieren las fracciones III y IV, los solicitará directamente el Juez que conozca del asunto y las autoridades involucradas lo expedirán en un término no mayor de 30 días naturales contados a partir del día siguiente en que conste que fue recibido el oficio de solicitud. Transcurrido el término sin que se haya expedido, se tendrá por contestado en sentido negativo.
 
-Comprobada debidamente la posesión, el juez declarará que el poseedor se ha convertido en propietario, en virtud de la prescripción y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público.
+El Juez o Secretario de Acuerdos correspondiente, deberán practicar antes de recibir la información testimonial, inspección de los inmuebles de que se trate citando posteriormente a los colindantes.
+
+Una vez debidamente comprobada la posesión, el Juez declarará que el poseedor se ha convertido en propietario, en virtud de la prescripción, y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público de la Propiedad.
 
 2517.- El que tenga una posesión apta para prescribir, de bienes inmuebles no inscritos en el Registro en favor de persona alguna, aún antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión mediante resolución judicial que dicte el Juez competente ante quien la acredite del modo que fije el Código de Procedimientos Civiles.
 
@@ -8056,3 +8056,9 @@ P.O. 14 DE SEPTIEMBRE DE 1996.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 SEGUNDO.- Los juicios de competencia local o concurrente que se hayan iniciado con anterioridad a la fecha de inicio de vigencia del presente Decreto se regirán por las normas vigentes a la fecha de su inicio.
+
+P.O. 21 DE ABRIL DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Las diligencias de jurisdicción voluntaria que se encuentren en trámite al inicio de vigencia de este Decreto, y en que tengan aplicación los artículos que se reforman, se tramitarán conforme a lo dispuesto por tales preceptos, antes de su reforma.
