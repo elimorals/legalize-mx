@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-7491"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-26"
-last_updated: "1989-06-26"
+last_updated: "2004-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de junio de 1989.
 
@@ -487,31 +487,33 @@ El Gobierno del Estado y los Municipios mantendrán un sistema permanente de inf
 
 ## TITULO CUARTO. PARTICIPACION SOCIAL
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEXTO TRANSITORIO DE LA LEY DE LA AGENCIA DE PROTECCION AL MEDIO AMBIENTE Y RECURSOS NATURALES, P.O. 26 DE FEBRERO DE 2004)</small>
+
 ### CAPITULO I. DE LA COMISION ESTATAL DE ECOLOGIA
 
 ###### ARTICULO 36.
 
-El Gobierno del Estado y de los Municipios promoverán la participación y responsabilidad de la sociedad en la formulación de la política ecológica, en la aplicación de sus instrumentos, en acciones de información, vigilancia y en general, en las acciones ecológicas que emprendan.
+(DEROGADO POR ARTICULO SEXTO TRANSITORIO DE LA LEY DE LA AGENCIA DE PROTECCION AL MEDIO AMBIENTE Y RECURSOS NATURALES, P.O. 26 DE FEBRERO DE 2004)
 
 ###### ARTICULO 37.
 
-Para los efectos del artículo anterior, se crea la COMISION ESTATAL DE ECOLOGIA DEL ESTADO DE NUEVO LEON, como órgano de coordinación entre las diferentes dependencias públicas Estatales y Municipales, así como de participación y concertación social en la elaboración de la política, planeación y criterios ecológicos particulares del Estado.
+(DEROGADO POR ARTICULO SEXTO TRANSITORIO DE LA LEY DE LA AGENCIA DE PROTECCION AL MEDIO AMBIENTE Y RECURSOS NATURALES, P.O. 26 DE FEBRERO DE 2004)
 
 ###### ARTICULO 38.
 
-La COMISION ESTATAL DE ECOLOGIA DEL ESTADO DE NUEVO LEON se integrará con representantes: de las Dependencias Estatales y Municipales correspondientes; de los grupos y organismos sociales de los diferentes sectores, e instituciones educativas y de servicio que se inviten a formar parte de ella; será presidida por el Gobernador del Estado o por quien éste designe y contará con un Secretario Técnico nombrado por aquél.
+(DEROGADO POR ARTICULO SEXTO TRANSITORIO DE LA LEY DE LA AGENCIA DE PROTECCION AL MEDIO AMBIENTE Y RECURSOS NATURALES, P.O. 26 DE FEBRERO DE 2004)
 
 ###### ARTICULO 39.
 
-La Comisión sesionará cuando menos dos veces al año a convocatoria de su Presidente o del Secretario Técnico. Las sesiones se llevarán a cabo si concurre la mayoría de sus miembros en primera convocatoria, y en segunda con los miembros que concurran.
+(DEROGADO POR ARTICULO SEXTO TRANSITORIO DE LA LEY DE LA AGENCIA DE PROTECCION AL MEDIO AMBIENTE Y RECURSOS NATURALES, P.O. 26 DE FEBRERO DE 2004)
 
 ###### ARTICULO 40.
 
-El Presidente de la Comisión, podrá invitar a participar a personas, organismos o instituciones cuando tengan interés directo en el asunto de que se trate.
+(DEROGADO POR ARTICULO SEXTO TRANSITORIO DE LA LEY DE LA AGENCIA DE PROTECCION AL MEDIO AMBIENTE Y RECURSOS NATURALES, P.O. 26 DE FEBRERO DE 2004)
 
 ###### ARTICULO 41.
 
-Será función de la Comisión participar a solicitud del Gobierno del Estado, en la planeación y formulación de la política, y criterios ecológicos; en la aplicación de los mismos y en la información y vigilancia de las acciones ecológicas que se emprendan.
+(DEROGADO POR ARTICULO SEXTO TRANSITORIO DE LA LEY DE LA AGENCIA DE PROTECCION AL MEDIO AMBIENTE Y RECURSOS NATURALES, P.O. 26 DE FEBRERO DE 2004)
 
 ### CAPITULO II. DE LA DIFUSION, INFORMACION Y PROMOCION DE ACCIONES ECOLOGICAS
 
@@ -1274,3 +1276,21 @@ LIC. JORGE A. TREVIÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JOSE N. GONZALEZ PARAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE FEBRERO DE 2004.
+
+Artículo Primero.- La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- La Junta de Gobierno de la Agencia deberá quedar instalada en un plazo no mayor a treinta días hábiles, contados a partir de la entrada en vigor de este ordenamiento jurídico.
+
+Artículo Tercero.- El Consejo de Participación Ciudadana de la Agencia deberá de quedar constituido en un plazo no mayor a treinta días hábiles, contados a partir de la instalación de la Junta de Gobierno.
+
+Artículo Cuarto.- La Junta de Gobierno aprobará el Reglamento Interior de la Agencia en un plazo no mayor de noventa días hábiles, contados a partir de la fecha de su instalación.
+
+Artículo Quinto.- Quedan vigentes todas las disposiciones legales y reglamentarias, en cuanto no se opongan a la presente Ley.
+
+Artículo Sexto.- Se deroga el Título Cuarto, Capítulo Primero, de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Nuevo León.
+
+Artículo Séptimo.- Cuando en otras leyes, reglamentos y demás ordenamientos, se haga referencia a la autoridad estatal en materia de medio ambiente y recursos naturales, la denominación y atribuciones inherentes se entenderán conferidas a la Agencia de Protección al Medio Ambiente y Recursos Naturales que por esta Ley se regula.
