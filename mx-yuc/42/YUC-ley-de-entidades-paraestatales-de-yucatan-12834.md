@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-entidades-paraestatales-de-yucatan-12834"
 country: "mx"
 rank: "ley"
 publication_date: "1988-08-04"
-last_updated: "1988-08-04"
+last_updated: "1990-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12834&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ENTIDADES PARAESTATALES DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE FEBRERO DE 1990.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 4 de agosto de 1988.
 
@@ -127,9 +127,11 @@ Cuando algún organismo descentralizado creado por el Ejecutivo, deje de cumplir
 
 La Administración de los organismos descentralizados estará a cargo de un Organo de Gobierno que podrá ser una Junta de Gobierno o su equivalente y un Director General.
 
+> <small>(REFORMADO, D.O. 7 DE FEBRERO DE 1990)</small>
+
 ###### ARTICULO 14.
 
-El Organo de Gobierno estará integrado por no menos de cinco ni más de quince miembros propietarios y de sus respectivos suplentes. Será presidido por el Gobernador del Estado, o por la persona que éste designe. En todo caso formarán parte de éste el Secretario de Gobierno, o el Secretario de Finanzas en los organismos de naturaleza financiera, quienes suplirán las ausencias del Presidente del Organo de Gobierno. Habrá también un secretario de actas y acuerdos, que será designado por el Secretario de Gobierno. En ningún caso existirá la función de Vice-Presidente.
+El Organo de Gobierno estará integrado por no menos de cinco ni más de quince miembros propietarios y de sus respectivos suplentes. Será presidido por el Gobernador del Estado o por la persona que éste designe. En todo caso formará parte de éste el Secretario de Gobierno, quien suplirá las ausencias del Presidente del Organo de Gobierno. Habrá también un Secretario de Actas y Acuerdos, que será designado por el Secretario de Gobierno. En ningún caso existirá la función de Vicepresidente.
 
 En todo caso, se procurará que los miembros del Organo de Gobierno pertenezcan a la Administración Pública Estatal.
 
@@ -488,3 +490,11 @@ LIC. VICTOR MANZANILLA SCHAFFER
 EL SECRETARIO DE GOBIERNO
 
 LIC. MARCO ANTONIO MARTINEZ ZAPATA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 7 DE FEBRERO DE 1990.
+
+PRIMERO.- Se derogan las disposiciones legales que contravengan a lo dispuesto en este Decreto.
+
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
