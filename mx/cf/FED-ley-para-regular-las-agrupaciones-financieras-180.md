@@ -4,7 +4,7 @@ identifier: "FED-ley-para-regular-las-agrupaciones-financieras-180"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2002-01-15"
+last_updated: "2002-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRAF"
 
 LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -542,12 +542,6 @@ Las sociedades controladoras deberán informar a la Comisión Nacional que las s
 
 > <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
-###### ARTICULO 26 Bis 1.
-
-El órgano de vigilancia de la controladora, estará integrado por lo menos por un comisario designado por los accionistas de la serie "O" y, en su caso, un comisario designado por los de la serie "L", así como de sus respectivos suplentes. El nombramiento de comisarios deberá hacerse en asamblea especial por cada serie de acciones. A las asambleas que se reúnan con este fin, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
-
 ###### ARTICULO 26
 
 Bis 1.- El órgano de vigilancia de la controladora, estará integrado por lo menos por un comisario designado por los accionistas de la serie "O" y, en su caso, un comisario designado por los de la serie "L", así como de sus respectivos suplentes. El nombramiento de comisarios deberá hacerse en asamblea especial por cada serie de acciones. A las asambleas que se reúnan con este fin, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
@@ -1030,9 +1024,15 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto el artículo 76 de la Ley de los Sistemas de Ahorro para el Retiro, que entrará en vigor el día primero de enero de 2001.
 
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO NOVENO.
 
-Los trabajadores que optaren por pensionarse conforme al régimen establecido en la Ley del Seguro Social vigente hasta el 31 de diciembre de 1996, tendrán el derecho a retirar en una sola exhibición los recursos que se hayan acumulado hasta esa fecha en las subcuentas del seguro de retiro y del Fondo Nacional de la Vivienda, incluyendo los rendimientos que se hayan generado.
+Los trabajadores que opten por pensionarse conforme al régimen establecido en la Ley del Seguro Social vigente hasta el 30 de junio de 1997, tendrán el derecho a retirar en una sola exhibición los recursos que se hayan acumulado hasta esa fecha en las subcuentas del seguro de retiro y del Fondo Nacional de la Vivienda, así como los recursos correspondientes al ramo de retiro que se hayan acumulado en la subcuenta del seguro de retiro, cesantía en edad avanzada y vejez, vigente a partir del 1o. de julio de 1997, incluyendo los rendimientos que se hayan generado por dichos conceptos.
+
+Igual derecho tendrán los beneficiarios que elijan acogerse a los beneficios de pensiones establecidos en la Ley del Seguro Social que estuvo vigente hasta el 30 de junio de 1997.
+
+Los restantes recursos acumulados en la subcuenta del seguro de retiro, cesantía en edad avanzada y vejez, previsto en la Ley del Seguro Social vigente a partir del 1o. de julio de 1997, deberán ser entregados por las administradoras de fondos para el retiro al Gobierno Federal.
 
 D.O.F. 19 DE ENERO DE 1999.
 
@@ -1091,3 +1091,9 @@ TERCERO.- El plazo de treinta días naturales a que se refiere el artículo 44 d
 CUARTO.- Los Usuarios que a la fecha de entrada en vigor de este decreto mantengan relaciones jurídicas con sus Clientes, podrán continuar realizando consultas periódicas a las Sociedades sobre el comportamiento crediticio de tales Clientes, hasta que dichas relaciones jurídicas terminen por cualquier causa.
 
 QUINTO.- Se derogan los artículos 33, 33-A y 33-B de la Ley para Regular las Agrupaciones Financieras, las Reglas generales a las que deberán sujetarse las sociedades de información crediticia a que se refiere el artículo 33 de la Ley para Regular las Agrupaciones Financieras, así como las demás disposiciones que se opongan a lo dispuesto por esta ley.
+
+D.O.F. 24 DE DICIEMBRE DE 2002.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
