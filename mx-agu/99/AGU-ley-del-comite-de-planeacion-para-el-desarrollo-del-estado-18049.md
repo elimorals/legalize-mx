@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-comite-de-planeacion-para-el-desarrollo-del-estado-1804
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-17"
-last_updated: "2000-07-17"
+last_updated: "2001-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de julio de 2000.
 
@@ -53,7 +53,9 @@ El Comité, para el adecuado cumplimiento de sus atribuciones, se integrará de 
 
 I.- Presidente, el C. Gobernador del Estado;
 
-II.- Coordinador General, será la persona que designe el C. Gobernador del Estado;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+II.- Coordinador General, será el Secretario de Planeación del Estado;
 
 III.- Secretario Técnico, el C. Delegado Estatal de la Secretaría de Desarrollo Social;
 
@@ -76,6 +78,10 @@ d) Los representantes de instituciones de educación superior y centros de inves
 e) Los representantes de organizaciones civiles legalmente constituidas.
 
 Por cada miembro propietario de los señalados en las fracciones III a VI, se designará un suplente.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+El Comité para su organización y funcionamiento podrá recibir aportaciones de los Gobiernos Federal y Estatal y de otros sectores de la comunidad.
 
 ### CAPITULO II. De las Funciones del Comité
 
@@ -107,109 +113,31 @@ XI.- Acordar el establecimiento de subcomités sectoriales, regionales y especia
 
 ### CAPITULO III. De la Coordinación General del Comité
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 4º.
 
-Corresponderá al Coordinador General del Comité, proponer, coordinar y ejecutar las actividades necesarias para dar cumplimiento a los fines y facultades del Comité contemplados en esta Ley, en la Ley de Planeación del Estado, en la Ley Orgánica del Poder Ejecutivo del Estado y en las demás leyes y reglamentos del Estado; para lo cual, contará con las funciones, estructura interna y presupuesto, que se especifica en este Capítulo.
+Corresponderá al Secretario de Planeación del Estado, fungir como Coordinador General del Comité; en el marco de sus atribuciones deberá proponer, coordinar y ejecutar las actividades necesarias para dar cumplimiento a los fines y facultades del Comité contemplados en esta Ley y en las demás leyes y reglamentos del Estado.
 
 ###### ARTICULO 5º.
 
-El Coordinador General del Comité, tendrá las siguientes funciones:
-
-I.- Coordinar las acciones en el proceso de la planeación del desarrollo del Estado;
-
-II.- Integrar, priorizar y encauzar la demanda social de obras y acciones al Gobierno del Estado;
-
-III.- Coordinar la Planeación Operativa anual;
-
-IV.- Proponer al Gobernador Constitucional del Estado la planeación de la obra pública;
-
-V.- Ejecutar acciones que procuren la congruencia de la planeación en los tres ámbitos de gobierno;
-
-VI.- Coordinar las acciones para la actualización permanente del Plan Estatal de desarrollo, involucrando a los tres ámbitos de gobierno y a la sociedad;
-
-VII.- Coordinar los trabajos de la Asamblea Plenaria, la Comisión Permanente y los Subcomités del Comité de Planeación para el Desarrollo del Estado de Aguascalientes, en los términos que se señalen en el Reglamento Interno del Comité;
-
-VIII.- Proponer al Comité, la creación de subcomités y grupos de trabajo sectoriales, regionales y especiales;
-
-IX.- Participar en los comités, comisiones, subcomisiones y órganos de gobierno de los organismos descentralizados, ya sea por disposición legal, o por invitación del C. Gobernador Constitucional del Estado;
-
-X.- Facilitar la celebración de acuerdos de cooperación entre la sociedad y las tres instancias de gobierno;
-
-XI.- Participar en las reuniones de los Comités de Planeación y organismos análogos de la región Centro-Occidente y en su caso, en las reuniones nacionales;
-
-XII.- Instaurar, operar y mantener actualizado el Sistema Estatal de Información Estadística y Geográfica del Estado, así como ejercer sus demás facultades en esta materia, en términos de lo dispuesto por las leyes y reglamentos federales y estatales;
-
-XIII.- Desarrollar estudios de diagnóstico para el desarrollo del Estado;
-
-XIV.- Generar, publicar y distribuir los productos estadísticos del Estado;
-
-XV.- Coordinar la relación institucional con el Instituto Nacional de Estadística, Geografía e Informática, en materia de Información, Estadística y Geográfica del Estado, en términos de lo dispuesto por las leyes y reglamentos federales y estatales;
-
-XVI.- Elaborar los anexos estadísticos de los informes de gobierno;
-
-XVII.- Proporcionar al Gobernador del Estado, los elementos e información, para la concertación del Convenio de Desarrollo Social;
-
-XVIII.- Coordinar la implementación de los programas derivados del Convenio de Desarrollo Social;
-
-XIX.- Someter al Comité, para su evaluación, las acciones y resultados del Convenio de Desarrollo Social;
-
-XX.- Emitir el Manual de Operación para la integración de expedientes y seguimiento de obras y acciones del Gobierno del Estado, hasta su finiquito;
-
-XXI.- Aprobar, controlar y validar los expedientes técnicos de las obras y acciones derivadas del Plan Estatal de Desarrollo, con cargo a los fondos federales y estatales;
-
-XXII.- Implementar y operar el Sistema de seguimiento y evaluación de los programas, obras y acciones derivadas del Plan Estatal de Desarrollo, tanto en lo físico como en lo financiero, informando las desviaciones localizadas y promoviendo las medidas conducentes a la corrección de las mismas;
-
-XXIII.- Instaurar y operar la unidad de evaluación socioeconómica de proyectos del Estado;
-
-XXIV.- Instaurar, operar y mantener actualizado el Sistema Estatal de Medición y Evaluación de la Gestión Gubernamental;
-
-XXV.- Coordinarse con la Secretaría de Finanzas del Estado, para realizar el cálculo de distribución a los Municipios, del Fondo para la Infraestructura Social Municipal y para convenir los procesos de cálculo y distribución con la Secretaría de Desarrollo Social, en términos de lo dispuesto por la Ley de Coordinación Fiscal;
-
-XXVI.- Buscar fuentes alternas de financiamiento para el desarrollo y la ejecución de proyectos contemplados en el Plan Estatal de Desarrollo;
-
-XXVII.- Asesorar a las Dependencias y organismos estatales, así como a los Municipios del Estado, previa solicitud de los mismos, en aspectos de planeación, información y estadística, integración de expedientes técnicos y en el manejo de programas federales;
-
-XXVIII.- Implementar al interior de la Coordinación General los procesos para la calidad total; y
-
-XXIX.- Las demás que le confieran la Ley de Planeación del Estado, la Ley Orgánica del Poder Ejecutivo del Estado, el Reglamento Interno del Comité de Planeación para el Desarrollo del Estado, otras leyes y reglamentos, así como aquéllas que de forma específica, le sean asignadas por el Comité de Planeación para el Desarrollo del Estado de Aguascalientes y por el Gobernador Constitucional del Estado de Aguascalientes.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 6º.
 
-El Coordinar General deberá dar cuenta al Comité, de los trabajos que realice en ejercicio de las facultades a que se refiere el artículo anterior.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 7º.
 
-El Coordinar General en el desempeño de sus funciones, contará con la siguiente estructura interna:
-
-I.- Un Coordinar de Planeación e Información Estadística;
-
-II.- Un Coordinador Operativo;
-
-III.- Un Coordinador de Evaluación;
-
-IV.- Un Coordinador de Demanda Social;
-
-V.- Un Coordinador de Integración Municipal;
-
-VI.- Un Secretario Particular;
-
-VII.- Un Coordinador Jurídico;
-
-VIII.- Un Coordinador de Informática; y
-
-IX.- Un Coordinador Administrativo.
-
-Cuyas facultades se especificarán en el Reglamento Interior de la Coordinación General del Comité de Planeación para el Desarrollo del Estado, que al efecto se expida.
-
-Contará, además, con los directores de área, subdirectores, jefes de departamento y demás personal técnico y administrativo que requiera para el cumplimiento de sus funciones y que esté autorizado en su presupuesto.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 8º.
 
-La Coordinación General del Comité de Planeación para el Desarrollo del Estado, contará para el desempeño de sus funciones con un presupuesto que le será asignado dentro del Presupuesto de Egresos del Estado para el ejercicio fiscal correspondiente, asimismo, para la organización y funcionamiento del Comité, podrá recibir aportaciones de los Gobiernos Federal y Estatal y de otros sectores de la comunidad.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 9º.
 
-El Coordinador General, será suplido en sus ausencias temporales y accidentales por su Secretario Particular y en ausencia de éste, por el Coordinador Jurídico.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2001)
 
 ARTICULOS TRANSITORIOS:
 
@@ -252,3 +180,9 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2001.
+
+UNICO.- El presente decreto entrará en vigor a partir del 1º. de enero del año 2002.
