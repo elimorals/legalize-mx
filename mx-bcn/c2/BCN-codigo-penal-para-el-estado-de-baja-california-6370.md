@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1997-01-03"
+last_updated: "1997-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 1997.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2139,9 +2139,13 @@ A los padres o tutores que acepten que los menores sujetos a su patria potestad,
 
 Para los efectos de este precepto, se considerará que es empleado el menor de dieciocho años que preste sus servicios por un salario, por cualquier prestación o gratuitamente.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 1997)</small>
+
 ###### Artículo 263.
 
-Agravación de pena.- Las sanciones que señalan los artículos anteriores se duplicarán cuando el delincuente sea ascendiente, padrastro o madrastra del menor, privando al reo de todo derecho a los bienes del ofendido y la patria potestad sobre todos sus descendientes hasta por cinco años.
+Agravación de la pena.- Las penas previstas en los artículos anteriores se duplicarán, cuando el delincuente sea ascendiente, padrastro o madrastra del menor, además se le privará de todo derecho a los bienes del ofendido y del ejercicio de la patria potestad de todos sus descendientes hasta por cinco años; o cuando el delito se cometa en centros educativos, de recreo, deportivos o en sus inmediaciones.
+
+Si se emplease violencia en la comisión de los delitos previstos en este capítulo, o el agente se valiese de la función pública que desempeñe o ejerza una profesión, oficio o cargo aprovechando los medios o circunstancias que ello le proporciona, la pena se agravará en una mitad más.
 
 ### CAPITULO VII. PECULADO
 
@@ -2163,11 +2167,15 @@ II.- El que induzca o solicite a una persona para que con otra comercie sexualme
 
 III.- Al que regentee, administre o sostenga directa o indirectamente prostíbulos, casas de cita o lugares de concurrencia expresamente dedicados a explotar la prostitución u obtenga cualquier beneficio con sus productos.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 1997)</small>
+
 ### CAPITULO VIII. CONCUSION
 
 ###### Artículo 267.
 
-Agravación de pena.- Cuando el sujeto pasivo cuyo cuerpo sea explotado por medio del comercio carnal, sea menor de edad, se aplicará al que oculte, concierte o permita dicho comercio, pena de cinco a diez años de prisión y de doscientos a quinientos días multa.
+Agravación de la pena.- Se aplicará una pena de cinco años a diez años de prisión, y multa de doscientos a quinientos días, cuando el sujeto pasivo del delito sea menor de edad, la misma pena se aplicará también cuando el delito se cometa en centros educativos, de recreo, deportivos o en sus inmediaciones.
+
+Si se emplease violencia en la comisión del delito previsto en este capítulo, o el agente se valiese de la función pública que desempeñe o ejerza una profesión, oficio o cargo aprovechando los medios o circunstancias que ello le proporciona, la pena se agravará en una mitad más.
 
 ###### Artículo 268.
 
@@ -2178,6 +2186,14 @@ I.- Al que fabrique, reproduzca o publique libros, escritos, imágenes u objetos
 II.- Al que publique por cualquier medio, ejecute o haga ejecutar por otro exhibiciones obscenas;
 
 III.- Al que de un modo escandaloso invite a otro al comercio carnal.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1997)</small>
+
+###### Artículo 268
+
+BIS.- Agravación de la pena.- Si la ejecución de los hechos al que se refiere el artículo anterior que se realiza en centros educativos, de recreo, deportivos o en sus inmediaciones, se le aplicará una pena de cinco años a diez años de prisión, y multa de doscientos a quinientos días.
+
+Si se emplease violencia en la comisión del delito previsto en este capítulo, o el agente se valiese de la función pública que desempeñe o ejerza una profesión, oficio o cargo aprovechando los medios o circunstancias que ello le proporciona, la pena se agravará en una mitad más.
 
 ## TITULO QUINTO. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESION
 
@@ -3108,5 +3124,9 @@ P.O. 4 DE AGOSTO DE 1995.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 P.O. 3 DE ENERO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+P.O. 6 DE JUNIO DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
