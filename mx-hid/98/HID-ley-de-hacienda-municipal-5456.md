@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-municipal-5456"
 country: "mx"
 rank: "ley"
 publication_date: "1982-12-31"
-last_updated: "1985-12-30"
+last_updated: "1986-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE HACIENDA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1985.
+> <small>N. DE E. LA PRESENTE LEY FUE REFORMADA POR EL ARTICULO SEGUNDO DEL DECRETO 167 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES FISCALES Y MUNICIPALES; TARIFAS PUBLICADAS EN LAS PAGINAS 1 A 33 DEL P.O. 31 DE DICIEMBRE DE 1986, PARA SU CONSULTA REMITIRSE AL PERIODICO OFICIAL.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1986.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 1982.
 
@@ -1674,3 +1676,7 @@ Se derogan todas las disposiciones que se opongan a la presente ley.
 ###### ARTICULO CUARTO.
 
 Cuando se de una denominación nueva o distinta a alguna unidad administrativa establecida con posterioridad a la vigencia de esta Ley, dicha unidad ejercerá la competencia que determine la presente.
+
+P.O. 31 DE DICIEMBRE DE 1986.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
