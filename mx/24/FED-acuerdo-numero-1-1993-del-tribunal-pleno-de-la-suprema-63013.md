@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1993-del-tribunal-pleno-de-la-suprema-63013"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1993-01-27"
-last_updated: "1998-02-20"
+last_updated: "1998-02-26"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63013&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-01-13"
 
 ACUERDO No. 1/1993, DEL TRIBUNAL EN PLENO DEL DIA TRECE DE ENERO DE MIL NOVECIENTOS NOVENTA Y TRES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE FEBRERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE FEBRERO DE 1998.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 27 de enero de 1993.
 
@@ -93,7 +93,9 @@ IV.- CUARTO CIRCUITO:
 
 1.- Cinco tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Monterrey, Nuevo León;
 
-2.- Seis juzgados de Distrito en el estado de Nuevo León, con residencia en la ciudad de Monterrey.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL NUMERO 7/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 1998)</small>
+
+2.- Siete juzgados de distrito en el Estado de Nuevo León, con residencia en la ciudad de Monterrey.
 
 V.- QUINTO CIRCUITO:
 
@@ -750,6 +752,16 @@ TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo q
 CUARTO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 D.O.F. 20 DE FEBRERO DE 1998.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se modifica el Acuerdo 1/1993 del Pleno de la Suprema Corte de Justicia de la Nación, de fecha trece de enero de mil novecientos noventa y tres, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+CUARTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 26 DE FEBRERO DE 1998.
 
 PRIMERO.- Este Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
