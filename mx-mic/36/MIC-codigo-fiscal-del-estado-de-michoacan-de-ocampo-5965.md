@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-del-estado-de-michoacan-de-ocampo-5965"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-27"
-last_updated: "2000-12-25"
+last_updated: "2003-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO FISCAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2003.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 27 de febrero de 1992.
 
@@ -733,25 +733,27 @@ A quien cometa cualquiera de las infracciones señaladas en el artículo anterio
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 68.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
+Las infracciones a las disposiciones fiscales relacionadas con el Impuesto sobre Erogaciones por remuneración al trabajo personal, prestado bajo la Dirección y Dependencia de un Patrón, son las siguientes:
+
+I. Omitir presentar oportunamente las declaraciones mensuales de pago provisional o presentarlas extemporáneamente a requerimiento de la autoridad; y
+
+II. Abstenerse de exhibir oportunamente las declaraciones del ejercicio o presentarlas extemporáneamente a requerimiento de la autoridad.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 69.
 
-Son infracciones a las disposiciones fiscales relacionadas con los servicios de control vehicular de servicio público, las siguientes:
+A quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo anterior, se le impondrán las multa siguientes:
 
-I. No tramitar el cambio de placas de vehículo de motor de autotransporte de servicio público, en el plazo que establezca la autoridad competente o hacerlo a requerimiento de la autoridad fiscal;
+I. Con el equivalente a 2 días de salario mínimo vigente en el Estado, a las personas físicas que se coloquen en el supuesto de la comprendida en la fracción I;
 
-II. No renovar la tarjeta de circulación y calcomanía anualmente;
+II. Con el equivalente a 5 días de salario mínimo vigente en el Estado, a las personas morales que se coloquen en el supuesto de la comprendida en la fracción I; y
 
-III. No registrar la sustitución de un vehículo por otro similar, para la prestación del servicio de que se trate, en el plazo que establecen las disposiciones fiscales;
-
-IV. No exhibir el documento que acredite la baja de las placas particulares al sustituir o incorporar al servicio público un vehículo;
-
-V. No revalidar las concesiones de servicio público; y
-
-VI. (DEROGADA, P.O. 30 DE DICIEMBRE DE 1993)
+III. Con el equivalente a 50% de las sanciones a que se refieren las sanciones (sic) I y II de este artículo, a las personas físicas y morales y demás obligados, cuando se coloquen en el supuesto de la comprendida en la fracción II.
 
 ###### ARTICULO 70.
 
@@ -803,9 +805,13 @@ VII. No presentar la baja del vehículo automotor o remolque.
 
 VIII. No tramitar el cambio de propietario o de domicilio dentro del plazo señalado en la fracción VI del artículo 190 de la Ley de Hacienda del Estado de Michoacán.
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DEL 2000)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-IX. Tramitar extemporáneamente la obtención original de placas de circulación de vehículos nuevos.
+IX. Tramitar extemporáneamente la obtención original de placas de circulación de vehículos nuevos, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+X. Colocar en los vehículos automotores, placas con características que no correspondan a las de las placas autorizadas por la autoridad competente o colocar placas distintas a las asignadas.
 
 ###### ARTICULO 72.
 
@@ -815,11 +821,17 @@ A quien cometa las infracciones señaladas en el artículo anterior, se impondr�
 
 I. Del equivalente a 4 días de salario mínimo vigente, a las comprendidas en las fracciones I, II, III, VIII Y IX;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-II. Del equivalente a 1 días (sic) de salario mínimo vigente, a las comprendidas en las fracciones IV, VI y VII; y
+II. Del equivalente a 1 día de salario mínimo vigente, a las comprendidas en las fracciones IV, VI y VII;
 
-III. Del equivalente de 2 a 4 días de salario mínimo vigente, a la comprendida en la fracción V incisos a) y b) respectivamente.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+III. Del equivalente de 2 a 4 días de salario mínimo vigente, a la comprendida en la fracción V incisos a) y b) respectivamente; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+IV. Del equivalente a 20 días de salario mínimo vigente, a la comprendida en la fracción X y en caso de reincidencia por el doble de la señalada en esta fracción.
 
 ###### ARTICULO 73.
 
@@ -1740,3 +1752,9 @@ Para los efectos de lo dispuesto por la fracción V del artículo 74 de la Ley d
 ###### ARTICULO TERCERO.
 
 Se derogan todas lasdisposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará entrará en vigor el día 1º de enero de 2004, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
