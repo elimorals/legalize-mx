@@ -4,7 +4,7 @@ identifier: "VER-ley-de-adquisiciones-arrendamientos-administracion-y-29503"
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-21"
-last_updated: "2003-11-25"
+last_updated: "2004-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACION Y ENAJENACION DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 21 de febrero de 2003.
 
@@ -735,9 +735,13 @@ Los proveedores, a través de una institución de fianzas legalmente autorizada 
 
 I. En los anticipos que se reciban, el cien por ciento más los costos financieros que resulten entre la entrega de anticipos hasta su total terminación; y
 
-II. Para el cumplimiento de los contratos, cuando menos el diez por ciento sobre la obligación total.
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2004)</small>
 
-Las garantías se constituirán a favor de las instituciones.
+II. Para el cumplimiento de los contratos, cuando menos el diez por ciento sobre la obligación total, sin incluir las contribuciones que se generen por la operación.
+
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
+En las operaciones financiadas con cargo total o parcial a recursos estatales que se efectúen al amparo de esta Ley, las garantías se constituirán a favor del Gobierno del Estado de Veracruz de Ignacio de la Llave; las operaciones que los Ayuntamientos efectúen con cargo exclusivo a los recursos que manejen como propios, deberán constituirse a favor de la Tesorería Municipal correspondiente.
 
 ###### Artículo 65.
 
@@ -1114,3 +1118,13 @@ G.O. 25 DE NOVIEMBRE DE 2003.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 10 DE AGOSTO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO.- Las pólizas de fianza no fiscales otorgadas a favor de las dependencias y entidades del Poder Ejecutivo del Estado en fecha anterior al inicio de vigencia de este Decreto, observarán las disposiciones legales aplicables al momento de su emisión.
+
+CUARTO.- Los Fideicomisos Públicos vigentes continuarán desempeñando las funciones que tienen encomendadas, bajo la dirección del Comité Técnico creado por virtud de su Decreto Constitutivo o, en su caso, de su Contrato de Fideicomiso.
