@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-la-ley-catastral-4849"
 country: "mx"
 rank: "reglamento"
 publication_date: "1933-11-18"
-last_updated: "1933-11-18"
+last_updated: "1934-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 REGLAMENTO DE LA LEY CATASTRAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1934.
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Chihuahua, 18 de noviembre de 1933.
 
@@ -33,51 +33,69 @@ REGLAMENTO DE LA LEY CATASTRAL
 
 ### CAPITULO I.. DECLARACIONES
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1934)</small>
+
 ###### Artículo 1.
 
-Los causantes del impuesto predial establecido en la Ley de Organización Fiscal del Estado, estarán obligados a presentar la declaración a que se refiere el Artículo 25, de la Ley que se reglamenta, de acuerdo con las siguientes instrucciones:
+Los causantes del Impuesto Especial predial establecido en la Ley de Organización Fiscal del Estado, están obligados a presentar la declaración y demás documentos a que se refiere el artículo 25o. de la Ley que se reglamenta de acuerdo con las siguientes instrucciones:
 
-I.- Las declaraciones deberán presentarse cada cinco y quince años según se trate de predios urbanos o rústicos respectivamente, en el mes de mayo.
+I.- Las operaciones para la formación del Catastro en cada Distrito Rentístico, se dividirán en tres periodos:
 
-II.- Las declaraciones deberán presentarse por triplicado, una por cada una de las propiedades del interesado. Al interesado se le deberá devolver una de las copias con el sello fechador de la Oficina respectiva, para que le sirva como comprobante de haber cumplido con esta obligación.
+a).- El de preparación durante el cual se obtendrán las declaraciones y planos de las propiedades, que serán hechos en su mayor parte por los propietarios y presentados a las Juntas Regionales de Catastro, de acuerdo con los modelos y prescripciones técnicas que aparecen en este Reglamento, con objeto de poder adaptarlos entre si y facilitar la formación de una carta del Estado, que pueda guiar a la Junta Central de Catastro para la estimación aproximada del valor y distribución de la propiedad en el Estado.
 
-III.- Deberán ser redactadas de acuerdo con los modelos que apruebe la Junta Central del Catastro.
+b).- El de formación que consistirá en el registro e inscripción de las propiedades, según las declaraciones presentadas por los interesados y aprobadas por la Junta Central y la concentración de los planos de los predios en planos generales de cada Distrito Rentístico que a su vez se recopilarán en las Oficinas de la Junta Central para la formación del plano General del Estado.
 
-IV.- Si el predio es rústico, las declaraciones contendrán:
+c).- EI de conservación durante el cual se anotarán en los registros y planos Catastrales los cambios sufridos por la propiedad rentística y Urbana.
 
-a) El nombre y domicilio del propietario o poseedor.
+II.- Las declaraciones deberán ser presentadas cada cinco o quince años, según se trate de predios Urbanos o rústicos respectivamente, en el mes de mayo, y deberán acompañarse de un plano de la propiedad, siempre que ésta haya sido fraccionada o se hayan unido dos o más en una sola. En el caso de la primera declaración al entrar en vigor la Ley Catastral y el presente Reglamento, invariablemente se hará la presentación del plano que representa la propiedad declarada.
 
-b) El nombre del predio.
+III.- Las declaraciones y el plano deberán presentarse por triplicado (el último en copias heliográficas) una por cada una de las propiedades del interesado, a quien se le deberá devolver una copia de la declaración y una del plano con la anotación de un número de orden y la fecha con el sello de la Oficina para que le sirva como comprobante de haber cumplido con esta obligación.
 
-c) La ubicación, colindancia y extensión total del predio.
+IV.- Las declaraciones deberán ser redactadas de acuerdo con los modelos que apruebe la Junta Central de Catastro y deberán contener, si el predio es rústico:
 
-d) La clase de tierras y en caso de no ser todas de una misma, también la superficie aproximada de cada clase.
+a).- Nombre y domicilio del propietario o poseedor y su nacionalidad.
 
-e) La naturaleza de los cultivos y plantaciones y la superficie aproximada que ocupa cada cultivo.
+b).- Nombre del predio.
 
-f) La clase y superficie aproximada de los pastos.
+c).- La ubicación, colindancias y extensión total del predio y demás datos que estime convenientes la Junta Central hacer figurar en el modelo respectivo, Nacionalidad.
 
-g) La extensión aproximada de los montes y bosques, señalando la clase de sus maderas y productos.
+d).- Copia simple de la Escritura que ampara Ia propiedad, de la última traslación de dominio.
 
-h) La extensión de campos destinados al cultivo de productos agrícolas de consumo necesario y de aquellos que en su mayor parte estén destinados a la exportación.
+V.- El plano que se acompañe a las declaraciones deberá llenar los requisitos siguientes:
 
-i) La superficie aproximada de las tierras ociosas y de las inaprovechables.
+a).- De terrenos cuya superficie sea menor de mil hectáreas, el levantamiento de dicho plano podrá hacerse por poligonales cerradas para lograr su absoluta comprobación, usando en este trabajo de preferencia cintas metálicas para medidas lineales, y sólo en caso de que la topografía del terreno impida el uso de éstas, se recurrirá al uso de la estadía.
 
-j) El precio anual del arrendamiento si el predio está arrendado en todo o en parte y en este último caso la extensión de la superficie arrendada.
+b).- Tratándose de terrenos cuya superficie exceda de mil hectáreas, será imprescindible la formación de una red trigonométrica, de acuerdo con la extensión de la superficie que se levanta, estas triangulaciones deberán llenar los requisitos por lo que a amplitud de los ángulos y tolerancias de cierre son usuales.
 
-k) El importe de las cantidades o valores que reciba anualmente el propietario o el poseedor en su caso, de las personas que usen, exploten o participen en el uso o explotación de las tierras, por un título distinto del de arrendamiento, y no siendo fijos esos valores o cantidades, el importe de los percibidos en el último año anterior a la declaración.
+c).- Deberán éstos planos llevar demarcados los perímetros que limiten las diferentes calidades de tierra, en el orden en que se citan en el artículo 3o. de la Ley que se reglamenta, y tendrán escrito los nombres de los colindantes actuales, así como las líneas que indiquen la división entre dos colindancias sobre un mismo lado del predio.
 
-l) El importe de los gastos anuales de explotación y conservación en todo el predio.
+d).- Siempre que dentro del perímetro o cerca del predio, exista algún monumento de triangulación, ya sea de la Comisión Geodésica, de la Comisión de Irrigación, o de cualquiera otra Institución que haya verificado trabajos de índole Geodésica o Topográfica dentro del Estado, deberá relacionarse con el levantamiento del plano del predio, haciéndolo figurar también en el plano respectivo.
 
-m) En general los demás datos que la Junta Central del Catastro estime pertinentes y haga figurar en el modelo respectivo.
+e).- La construcción gráfica de estos planos, se hará por el procedimiento de coordenadas rectangulares y cualquiera que sea la extensión de los terrenos planificados, se hará el cálculo analítico de sus triángulos, líneas y superficies; de estos cálculos conservarán los Ingenieros comisionados para la mensura, copia para en caso de que la Junta Regional o la Junta Central de Catastro lo soliciten, para la verificación o ratificación de algunas de las operaciones a ellos encomendadas. En el plano se hará figurar el cuadro de construcción, resultado de los cálculos antes citados.
 
-V.- Si el predio es urbano, contendrán:
+VI.- Si el predio es urbano las declaraciones deberán contener:
 
-a) Los datos a que se refieren los incisos a, b y c, de la fracción anterior.
+a).- EI nombre o domicilio del propietario o poseedor.
 
-b) La renta mensual que produzca o pueda producir en caso de rentarse.
+b).- La ubicación, colindancias y extensión total del predio.
 
-c) La clase y naturaleza de las mejoras en casó de existir.
+c).- La renta mensual que produzca o pueda producir en caso de rentarse.
+
+d).- La clase y naturaleza de las mejoras, en caso de existir.
+
+VII.- El plano que acompaña estas declaraciones deberá llenar los requisitos siguientes:
+
+a).- Deberá mostrar el perímetro ocupado por la finca y en caso de no estar edificado deberá tener expresión numérica de la longitud de sus lados y sus rumbos astronómicos. En caso de estar edificado las longitudes de sus lados exteriores y distancias diagonales, que formen triángulos y que ligarán todos los vértices de dicho perímetro, con objeto de que sea posible calcular la superficie y poder comprobar la construcción del plano.
+
+b).- En caso de que la finca conste de varios pisos se hará en dicho plano la representación de cada uno de ellos, mostrando su distribución, con puertas, ventanas espesores de muros y demás datos que estimen pertinente.
+
+VIII.- Las operaciones topográficas mencionadas en el presente Artículo se harán con relación absoluta del meridiano astronómico, desechándose las que no se hagan con referencia a él.
+
+IX.- Los planos de fincas rústicas o urbanas que hayan sido hechos con anterioridad a la publicación de este Reglamento y obren en los Archivos Catastrales o sean presentados en cumplimiento de lo dispuesto por la Ley y este Reglamento, serán objeto de estudios especiales de parte de las Juntas Regionales y Junta Central de Catastro Ias cuales los aprobarán o desecharán según estimen conveniente.
+
+X.- En caso de que el Ejecutivo del Estado lo estime conveniente, podrá celebrar con tratos con los Ingenieros, de acuerdo con los propietarios de cada Distrito Rentístico, para la Catastración, por lo que a la, parte topográfica y geométrica se refiere, en la jurisdicción de cada uno de dichos Distritos.
+
+XI.- Cuando en trabajos hechos por Ingenieros nombrados por particulares se encuentren en tres diferentes ocasiones, errores de orden técnico, o notoria parcialidad o mala fe, las Juntas Regionales y Central de Catastro, podrán rechazar todos los trabajos siguientes que presenten dichos profesionistas, haciéndolo conocer al público con anticipación para su protección.
 
 ###### Artículo 2.
 
@@ -346,3 +364,9 @@ RODRIGO M. QUEVEDO.
 El Secretario Gral. de Gobierno.
 
 LIC. ENRIQUE GONZÁLEZ FLORES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 21 DE JULIO DE 1934.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE DEL ESTADO DE CHIHUAHUA.
