@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1981-10-28"
+last_updated: "1982-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1982.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -445,15 +445,13 @@ II.- Tener veintiún años de edad cumplidos el día de la elección.
 
 III.- Ser originario del Distrito que lo elija o vecino de él, con residencia no menor de tres años inmediatamente anteriores al día de la elección.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 1981)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1982)</small>
 
 ###### ARTICULO 36.
 
 No pueden ser electos diputados:
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1981)</small>
-
-Los funcionarios federales, los miembros del Ejército y la Armada Nacional o de las fuerzas Publicas del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia, el Secretario de Gobierno, el Oficial Mayor, el Procurador General de Justicia, los Secretarios, los Coordinadores Generales, los Directores Generales, los Directores Generales de entidades paraestatales federales, estatales o municipales; los Agentes del Ministerio Público, y los Presidentes Municipales a menos que se separen definitivamente de sus funciones noventa días antes de la elección; y, en general, todas las demás personas impedidas por las leyes.
+Los funcionarios federales, los miembros del Ejército y la Armada Nacionales, de las fuerzas Publicas del Estado, los Magistrados del Tribunal Superior de Justicia y los Jueces de Primera Instancia, los funcionarios que señala la Ley Orgánica del Poder Ejecutivo y los Presidentes Municipales a menos que se separen definitivamente noventa días antes de la elección; y en general todas las demás personas impedidas por las leyes.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -535,15 +533,15 @@ El informe correspondiente al último año del ejercicio constitucional del Ejec
 
 Las sesiones tanto ordinarias como extraordinarias serán públicas; pero cuando se trate de asuntos que exijan reserva las habrá secretas, de conformidad con lo que establece la Ley Orgánica del Poder Legislativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1982)</small>
 
 ###### ARTICULO 45.
 
-El Secretario de Gobierno, el Oficial Mayor, el Procurador General de Justicia, los Secretarios, los Coordinadores Generales y los Directores Generales de entidades paraestatales del Estado, luego que esté abierto el período de sesiones darán cuenta al Congreso, por escrito, del estado que guardan sus respectivos ramos.
+Los funcionarios que se mencionan en la Ley Orgánica del Poder Ejecutivo, luego que esté sesionando el Congreso le darán cuenta por escrito del estado que guardan sus respectivos ramos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 1981)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1982)</small>
 
-El Congreso podrá citar a dichos funcionarios cuando se discuta una ley o se estudie un asunto relativo a su ramo, para que informen lo conducente.
+Dichos funcionarios podrán comparecer ante el Congreso, previa solicitud y con anuencia del Gobernador a informar sobre los motivos de las iniciativas de Ley o los asuntos concernientes a sus respectivas competencias.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 1981)</small>
 
@@ -637,9 +635,9 @@ XXXIII.- Cambiar la residencia de los Poderes del Estado.
 
 XXXIV.- Informar al Congreso de la Unión en los casos a que se refiere el Artículo 73, fracción III inciso 3o. de la Constitución General de la República y ratificar, previos los estudios y observaciones, la resolución que dicte el propio Congreso Federal, de acuerdo con los incisos 6o. y 7o. de la misma fracción III.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE AGOSTO DE 1981)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1982)</small>
 
-XXXV.- Recibir las denuncias en contra de los Diputados, Gobernador, Magistrados, Secretario General de Gobierno, Oficial Mayor de Gobierno, Procurador de Justicia y Secretarios, por delitos oficiales y comunes, procediendo en los términos de los artículos 111 y 112 de esta Constitución.
+XXXV.- Recibir las denuncias en contra del Gobernador del Estado, de los Diputados Locales, Magistrados y Funcionarios que establece la Ley Orgánica del Poder Ejecutivo, por delitos oficiales y comunes, procediendo en los términos de los artículos 111 y 112 de esta constitución.
 
 XXXVI.- Autorizar al Gobernador para realizar arreglos o celebrar convenios con la Federación, que sean necesarios para el buen funcionamiento de la administración general o para la mejor prestación de los servicios públicos.
 
@@ -735,11 +733,9 @@ Cuando un proyecto de ley o decreto fuere devuelto al Congreso con las observaci
 
 En los casos de urgencia notoria calificada por el voto de las dos terceras partes de los diputados presentes, el Congreso puede dispensar o abreviar los trámites reglamentarios, excepto en lo relativo al dictamen de la comisión de acuerdo con el artículo 50, el que sólo podrá suprimirse en los casos de obvia resolución.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1981)</small>
-
 ###### ARTICULO 55.
 
-El Secretario de Gobierno, el Oficial Mayor de Gobierno, el Procurador General de Justicia y los directores del ramo podrán asistir, cuando se trate de iniciativas del Ejecutivo, a las sesiones del Congreso con voz pero sin voto, previa cita del Congreso, para que expliquen los motivos de las leyes de su competencia.
+(DEROGADO, P.O. 2 DE ABRIL DE 1982)
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -801,9 +797,9 @@ II.- Tener treinta años cumplidos al tiempo de ser electo.
 
 III.- No pertenecer al estado eclesiástico ni ser ministro de algún culto.
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1982)</small>
 
-IV.- No ser funcionario de la Federación, ni militar en servicio activo o persona con mando de fuerzas dentro del Estado; ni Magistrado del Tribunal Superior de Justicia, Secretario de Gobierno, Oficial Mayor, Procurador General de Justicia, Secretario, Coordinador General, ni Director General de entidad paraestatal federal, estatal o municipal, a menos que se hubiere separado definitivamente del cargo tres meses antes de la elección o a mas tardar cinco días después de publicada la convocatoria cuando se trate de elecciones extraordinarias.
+IV.- No ser funcionario federal, militar en servicio activo, Magistrado del Tribunal Superior de Justicia, Presidente Municipal y no desempeñar cargo alguno de los que se estipulan en la Ley Orgánica del Poder Ejecutivo a menos que se hubiere separado definitivamente del cargo tres meses antes de la elección o a más tardar cinco días después de publicada la convocatoria cuando se trate de elecciones extraordinarias.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -997,11 +993,11 @@ XXXIX.- Las demás que se deriven de esta Constitución.
 
 DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1982)</small>
 
 ###### ARTICULO 74.
 
-Para el despacho de los asuntos del Poder Ejecutivo, habrá un Secretario de Gobierno, un Oficial Mayor, los Secretarios, Coordinadores Generales y Directores Generales que determine la Ley Orgánica de la Administración Pública del Estado de Guerrero y, en su caso, el Reglamento Interior que al efecto expida el Gobernador del Estado, los que serán nombrados y removidos libremente por el Ejecutivo del Estado.
+La Administración Pública Estatal, será centralizada y paraestatal, conforme a la Ley Orgánica del Poder Ejecutivo que expida el Congreso, la que distribuirá los negocios del orden Administrativo en dependencias y organismos, cuyas relaciones entre sí estarán definidas y reguladas por leyes y reglamentos.
 
 ### CAPITULO VII.
 
@@ -1013,11 +1009,11 @@ DEL MINISTERIO PUBLICO.
 
 (DEROGADO, P.O. 28 DE OCTUBRE DE 1981)
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1982)</small>
 
 ###### ARTICULO 76.
 
-Todos los reglamentos y acuerdos del Gobernador del Estado, deberán ser firmados invariablemente por el Secretario de Gobierno. El Oficial Mayor y los Secretarios los firmarán también cuando se refieran a materias que sean de su competencia. De no figurar esas firmas, los actos citados no surtirán efectos legales.
+Las leyes, decretos, reglamentos y demás disposiciones de carácter general que el Gobernador promulgue, expida o autorice deberán, para su validez y observancia, ser refrendados por el Secretario de Gobierno y por el Titular del Ramo a que el asunto corresponda. Cuando ésta sea de la competencia de dos o más dependencias deberán ser igualmente refrendados por los titulares de las mismas.
 
 ### CAPITULO I.
 
@@ -1139,9 +1135,9 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 Son atribuciones del Tribunal Superior de Justicia funcionando en Pleno:
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1982)</small>
 
-I.- Conocer como Tribunal de única Instancia de las causas seguidas por delitos oficiales y comunes en contra de los Diputados del Congreso, Gobernador del Estado, Magistrados, Secretario de Gobierno, Oficial Mayor, Procurador General de Justicia y Secretarios.
+I.- Conocer como Tribunal de única instancia de las causas seguidas por delitos oficiales y comunes en contra del Gobernador del Estado, Diputados Locales, Magistrados y Funcionarios que se estipulen en la Ley Orgánica del Poder Ejecutivo.
 
 II.- Suspender de sus cargos a los Jueces de Primera Instancia y Menores contra quienes el Ministerio Público haya ejercitado acción penal por delitos oficiales y comunes. La suspensión de sus cargos se acordará una vez que el Magistrado que conozca de la consignación haga la declaración de que ha lugar a la formación de causa. La suspensión será requisito indispensable para la ejecución de la orden de aprehensión dictada en contra de dicho funcionario.
 
@@ -1321,11 +1317,11 @@ III.- Con el producto de los ingresos que por concepto de contribuciones y otros
 
 La Hacienda Pública del Estado será administrada por el Jefe del Ejecutivo en los términos que señalen las leyes respectivas.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1982)</small>
 
 ###### ARTICULO 107.
 
-Ninguna cuenta perteneciente a caudales públicos dejará de concluirse y glosarse dentro del año siguiente a aquel en que corresponda. Para tal efecto la Dirección General de Hacienda del Estado enviará mensualmente a la Contaduría Mayor de Hacienda la documentación comprobatoria de los ingresos obtenidos y de los gastos ejercidos; así como la Cuenta Pública del Gobierno Estatal, correspondiente al ejercicio fiscal del año anterior. Este último documento deberá remitirse a más tardar el día 31 de mayo de cada año.
+Ninguna cuenta perteneciente a caudales públicos dejará de concluirse y glosarse dentro del año siguiente a aquél en que corresponda. Para tal efecto las Dependencias respectivas enviarán mensualmente a la Contaduría Mayor de Hacienda la documentación comprobatoria de los ingresos obtenidos y de los gastos ejercidos; asimismo, prepararán la Cuenta Pública del Gobierno Estatal correspondiente al ejercicio fiscal del año anterior. Este último documento deberá remitirse por el Jefe del Ejecutivo del Estado a más tardar el día 31 de mayo de cada año.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1349,7 +1345,7 @@ El sistema estatal de enseñanza ajustará sus planes y programas de estudio al 
 
 ###### ARTICULO 111.
 
-Los diputados al Congreso del Estado, los Magistrados del Tribunal Superior, el Secretario de Gobierno, el Oficial Mayor, el Procurador General de Justicia y los Secretarios son responsables de los delitos oficiales y comunes así como de las faltas u omisiones que cometan durante el tiempo en que desempeñen sus cargos.
+Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia y los Titulares de las dependencias que se mencionan en la Ley Orgánica del Poder Ejecutivo, son responsables de los delitos oficiales y comunes así como de las faltas u omisiones que cometan durante el tiempo en que desempeñen sus cargos.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1775,7 +1771,7 @@ DE LA EDUCACION PUBLICA DEL ESTADO.
 
 DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS PUBLICOS DEL ESTADO.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1982)</small>
 
 ## TITULO DECIMO CUARTO.
 
@@ -2284,3 +2280,7 @@ P.O. 28 DE OCTUBRE DE 1981.
 PRIMERO.- Se derogan los artículos 75 y 77 de la Constitución Política del Estado.
 
 SEGUNDO.- Estas reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE ABRIL DE 1982.
+
+UNICO.- Por haberse recibido la aprobación de los HH. Ayuntamientos del Estado de acuerdo con lo ordenado por el Artículo 125 Fracción III de la Constitución Política, éstas reformas surtirán sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
