@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "2001-12-13"
+last_updated: "2003-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -125,9 +125,11 @@ Las Leyes de Ingresos de los Municipios del Estado de Campeche establecerán anu
 
 Ningún gravamen podrá recaudarse si no está previsto por las correspondientes Leyes.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 15.
 
-Los HH. Ayuntamientos presentarán sus iniciativas de Leyes de Ingresos al H. Congreso del Estado, para su debida aprobación, en la primera quincena del mes de diciembre.
+Los Ayuntamientos presentarán la iniciativa de Ley de Ingresos de su Municipio al Congreso del Estado, para su aprobación, en su caso, dentro de los últimos diez días del mes de noviembre de cada año.
 
 ###### ARTICULO 16.
 
@@ -1515,6 +1517,10 @@ D.- Osario $ 75.00
 
 Por la inscripción de cambio de propietario de bienes inmuebles en panteones municipales se pagará un salario mínimo diario vigente de la zona económica correspondiente.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+En el caso del Grupo I, por este concepto se causará una tasa del diez por ciento sobre la tarifa prevista en el artículo 118 de esta Ley, en consideración al lugar de ubicación del bien.
+
 ###### ARTICULO 120.
 
 Los HH. Ayuntamientos podrán dar en arrendamiento sus bienes muebles e inmuebles, así como los bienes que administren, sujetándose para ello a las disposiciones de la Constitución Política del Estado de Campeche, del Código Civil y de la Ley Orgánica de los Municipios del Estado de Campeche, quedando establecido que el pago de las rentas respectivas no libera al contribuyente de otras obligaciones de tipo fiscal.
@@ -1665,9 +1671,11 @@ III.- Las subsecuentes
 
 .02 .01 .01
 
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
 IV.- Por día
 
-.47 .43 .43
+1.00 .43 .43
 
 ###### ARTICULO 123.
 
@@ -1884,3 +1892,9 @@ P.O. 13 DE DICIEMBRE DE 2001.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 24 DE DICIEMBRE DE 2003.
+
+PRIMERO.- El presente decreto entrará en vigor el día 1° de enero del 2004, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
