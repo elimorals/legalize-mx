@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1974-12-28"
+last_updated: "1975-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1975.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -114,6 +114,14 @@ III.- Sinfonolas, radiolas, tocadiscos, y en general aparatos electromecánicos 
 IV.- Aparatos mecánicos o electromecánicos, accionados con monedas o fichas, de los que se obtengan bebidas, refrescos, dulces, chicles, cigarros, comestibles o cualquier otra mercancía, excepto cuando los mismos no estén para el servicio del público en general.
 
 V.- Casa de asignación o de citas, prostíbulos, hoteles de paso y establecimientos similares.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+VI.- Granjas o instalaciones avícolas productoras de huevo comercial y de huevo fértil.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+VII.- Granjas o instalaciones avícolas productoras de pollo de engorda.
 
 ###### ARTICULO 15.
 
@@ -215,6 +223,40 @@ d) Los comprendidos en la Fracción (IV) pagarán una cuota de $ 30.00 a $ 60.00
 
 e) Los comprendidos en la Fracción (V) pagarán una cuota de $ 2,500.00 a $ 15,000.00 mensuales.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+f) Los comprendidos en la Fracción VI, en el mes de Enero de cada año liquidarán, según el número de aves que exploten en sus granjas o fincas avícolas, de acuerdo con la siguiente:
+
+TARIFA:
+
+NUMERO DE AVES: IMPUESTO FIJO ANUAL A
+
+PAGAR POR CADA AVE:
+
+De 1 a 200 Exentas
+
+" 200 " 5,000 $ 0.30
+
+" 5,000 " 15,000 " 0.35
+
+" 15,000 " 30,000 " 0.40
+
+" 30,000 " 50,000 " 0.45
+
+" 50,000 " 80,000 " 0.50
+
+" 80,000 a 100,000 " 0.55
+
+" 100,000 en adelante " 0.60
+
+Esta tarifa deberá aplicarse sin escalonamiento.
+
+Cuando en las mismas instalaciones se tengan en explotación conjunta aves productoras de huevo, propiedad de causantes registrados individualmente, esta tarifa se aplicará sobre el total de animales en explotación.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+g) Los comprendidos en la Fracción VII liquidarán bimestralmente la cantidad de $0.50 por cada pollo que se tenga en engorda en las referidas granjas o fincas avícolas. Dichos pagos se harán por bimestres anticipados los meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre, de cada año.
+
 Para fijar las cuotas anteriores, el Tesorero Municipal tomará en consideración, el capital invertido en los negocios, el volumen de las operaciones, el sector en que se encuentren ubicados y su categoría.
 
 ###### ARTICULO 18.
@@ -313,7 +355,9 @@ b) Las Juntas de Mejoramiento Moral, Cívico y Material, previa autorización de
 
 c) Los trabajadores al servicio del Estado, Federación o Municipio, siempre que habiten el inmueble objeto del Impuesto y no posean otro bien raíz en el Estado.
 
-d) Los entes u organismos creados por el poder público, para solucionar el problema de la vivienda y de la tenencia legal de la tierra, así como las personas que resulten directamente beneficiadas con sus programas.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+d) Los entes u organismos creados por el Gobierno del Estado de Nuevo León para solucionar el problema de la vivienda y de la tenencia legal de la tierra, así como las personas que resulten directamente beneficiadas con sus programas.
 
 e) Las operaciones realizadas por o con personas que lleven a cabo programas concretos, con finalidades y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey", para solucionar el problema de la vivienda y de la tenencia legal de la tierra, previa autorización del H. Congreso del Estado, a iniciativa del C. Gobernador, quien solicitará opinión del Presidente Municipal que corresponda.
 
@@ -360,6 +404,10 @@ IV.- El impuesto deberá quedar liquidado dentro de las 72 -setenta y dos- horas
 En caso de espectáculo o diversiones accidentales, se pagará de inmediato.
 
 V.- El Presidente Municipal queda facultado para establecer mediante convenio, una cantidad fija como importe del impuesto, cuando no sea posible su recaudación en la forma y términos de las fracciones anteriores, o cuando no compensen el sostenimiento de su interventor.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+ARTICULO 32 A.- EXENCION.- Queda exenta de este Impuesto la celebración de espectáculos en los establecimientos que cuenten con el certificado de calidad turística, expedido por la Delegación Estatal y Federal de Turismo.
 
 ### CAPITULO VI. DIVERSOS
 
@@ -501,7 +549,9 @@ d) Construcción de guarnición de concreto hidráulico.
 
 e) Instalación de alambrado público.
 
-Cuando se trate de predios ubicados en esquinas sólo se cobrará en proporción a los metros lineales del frente mayor tratándose de las obras referidas en los incisos a), b) y c).
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+Cuando se trate de predios ubicados en esquinas, solo se cobrará en proporción a los metros lineales del frente mayor tratándose de las obras referidas en los incisos a), b), c) y e).
 
 II.- Por metro cuadrado en función del frente o frentes de los predios beneficiados cuando se trate de las siguientes obras:
 
@@ -611,7 +661,9 @@ a) PRIMERA CATEGORIA.- Comprende edificios destinados a hoteles, salas de reuni�
 
 b) SEGUNDA CATEGORIA.- comprende construcciones comerciales o casa habitación, con muros de mampostería, pisos de mosaico de pasta o granito, estucado interior, así como construcciones industriales o bodegas con estructuras de concreto: $5.00 el metro cuadrado.
 
-c) TERCERA CATEGORIA.- Comprende casa habitación de tipo económico, así como los edificios industriales, comerciales y bodegas con estructura de acero o madera y techo de lámina, igualmente las construcciones con cubierta de concreto tipo cascarón: $4.00 el metro cuadrado.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+c) TERCERA CATEGORIA.- Comprende casa habitación, edificios o conjuntos multifamiliares, considerados dentro de la categoría denominada de interés social, así como los edificios industriales, comerciales y bodegas con estructura de acero o madera y techo de lámina, igualmente las construcciones con cubierta de concreto tipo cascarón $4.00 el metro cuadrado.
 
 d) CUARTA CATEGORIA.- Exenta, que comprende: construcciones de viviendas o cobertizos de madera de tipo provisional.
 
@@ -639,7 +691,9 @@ II.- Las nuevas construcciones individuales para casas habitación, que no exced
 
 III.- No causarán los derechos de las obras por arreglo reparación de fachadas, pinturas de edificios existentes, así como los permisos para bardeo de terrenos y construcción de banquetas que se ejecuten frente a las construcciones de banquetas que se ejecuten frente a las construcciones señaladas en las fracciones anteriores.
 
-IV.- Quedan exentos de los derechos señalados en el Artículo 52 de esta Ley, los entes u organismos creados por el Poder Público, para solucionar el problema de la vivienda y de la tenencia legal de la tierra, así como las personas que llevan a cabo programas concretos, con finalidad y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey ", respecto de los predios directamente destinados a esos programas.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+IV.- Quedan exentos de los Derechos señalados en el Artículo 52 de esta Ley, los entes u organismos creados por el Gobierno del Estado de Nuevo León, para solucionar el problema de la vivienda y de la tenencia legal de la tierra, así como las personas que llevan a cabo programas concretos, con finalidad y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey ", respecto de los predios directamente destinados a esos programas.
 
 ###### ARTICULO 55.
 
@@ -651,7 +705,13 @@ II.- Por construcción de fraccionamientos:
 
 a) Fraccionamientos de primera categoría, por metro cuadrado del predio vendible, $3.00.
 
-b) Fraccionamiento de segunda categoría, por metro cuadrado del predio vendible, $0.75.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+b) Fraccionamientos de segunda categoría, o sea aquellos cuya finalidad sea la construcción de viviendas de interés social de acuerdo con las normas que establece la Ley de Instituciones de Crédito y Organizaciones Auxiliares y la Comisión Nacional Bancaria, mediante programas de vivienda que realicen organismos oficiales o particulares, por metro cuadrado de predio vendible $1.50.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+c) Fraccionamientos de tercera categoría por metro cuadrado del predio vendible $0.75.
 
 III.- Ceder el 15% de la superficie urbanizada o fraccionada al municipio para escuelas parques u otros usos de interés social, sin que se pierdan las finalidades recreativas o educativas perseguidas, cuya ubicación se determinará por la autoridad competente del Gobierno del Estado. En dicha superficie no se computará la asignación a calles.
 
@@ -675,19 +735,13 @@ b) Cementerios de segunda categoría, por metro cuadrado del predio vendible, $0
 
 III.- Ceder al Municipio el 15% de la superficie destinada a reposos, jardines, lagos, y andadores, excepto calles, en terrenos urbanizados que puedan destinarse a escuelas, jardines u otros usos de interés social dentro del perímetro del Municipio, cuya ubicación se determinará por la Autoridad Estatal competente.
 
-A solicitud del fraccionador, la Autoridad competente del Estado, oyendo la opinión de la Autoridad Municipal, podrá autorizar que la cesión de terrenos urbanizados a que se ha hecho referencia, se sustituye por una superficie no urbanizada, equivalente en valor dentro del Municipio.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+A solicitud del fraccionador, la Autoridad competente del Estado, oyendo la opinión de la Autoridad Municipal, podrá autorizar que la cesión arriba señalada se sustituya por cesión de terrenos no urbanizados dentro del Municipio, con valor equivalente al porcentaje de superficie indicado en el párrafo anterior. La Oficina Técnica Catastral de la Secretaria de Finanzas y Tesorería General del Estado, será la Autoridad encargada de traducir en cantidad liquida el porcentaje de superficie urbanizada indicado.
 
 ### CAPITULO VIII. POR EXPEDICION DE LICENCIAS
 
-ARTICULO 74 (SIC).- Por la expedición de licencias se cobrará:
-
-I.- Para bailes, tertulias, cancioneros, variedades en casinos, clubes, restaurantes, centros sociales, terrazas, en lugares abiertos o cerrados de $20.00 a $500.00, por cada vez que se celebren.
-
-II.- Por cada corrida de toros, $500.00.
-
-III.- Por cada novillada, $200.00.
-
-IV.- Por temporada de atracciones, circos y demás espectáculos públicos de $100.00 a $500.00.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 57.
 
@@ -805,13 +859,29 @@ Si el servicio se presta al primer año del bienio, se pagará el bienio complet
 
 IV.- Por inscripciones que previene el Reglamento de Previsión y Seguridad Social, las cuotas serán fijadas por el Departamento de Obras Públicas Municipales, de $10.00 a $100.00 excepto por la inspección de polvorines, en que la cuota será de $1,000.00.
 
-V.- Por inspección de ganado o aves para los efectos de su traslado de la Municipalidad respectiva: $6.00 por cabeza de ganado vacuno, caballar, asnal, mular y porcino; $2.00 por cabeza de ganado cabrío o lanar, y $0.50 por cada ave.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+V.- Por servicios de inspección sanitaria de animales que se transporten en vehículos de cualquier índole: $6.00 por cabeza de ganado vacuno, caballar, asnal, mular y porcino; y $2.00 por cabeza de ganado cabrío o lanar.
 
 VI.- Por servicios que presten los Departamentos de Tránsito, Médicos, de Sanidad Municipal y otros, la cuota que fijen el C. Presidente Municipal, según la naturaleza del servicio de que se trate, de $20.00 a $500.00 en forma general.
 
 ###### ARTICULO 63.
 
 Los derechos por revisión, inspección y demás servicios que preste la Autoridad Municipal a través de sus Departamentos, en los diversos ramos de su competencia, que no estuvieren tasados en esta Ley, se fijarán mediante disposiciones de carácter general discrecionalmente por el C. Presidente Municipal, las cuales deberán ser previamente publicadas en el Periódico Oficial del Estado, para su validez.
+
+###### ARTICULO 64.
+
+Por la expedición de licencias se cobrará:
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+I.- Para bailes, tertulias, cancioneros, variedades en casinos, clubes, restaurantes, centros sociales, terrazas, en lugares abiertos o cerrados, en que se cobre derecho de admisión o se expida boletaje para la entrada, de $20.00 a $500.00 por cada ocasión que se celebren.
+
+II.- Por cada corrida de toros, $500.00.
+
+III.- Por cada novillada, $200.00.
+
+IV.- Por temporada de atracciones, circos y demás espectáculos públicos de $100.00 a $500.00.
 
 ###### ARTICULO 65.
 
@@ -833,11 +903,13 @@ III.- Por ocupar la vía pública con sillas, se pagará $0.20 diarios por unida
 
 IV.- Por ocupar la vía pública los propietarios de sitios y automóviles, de camiones y camionetas de carga o de pasajeros destinados al servicio público, pagarán $10.00 por unidad mensualmente.
 
-V.- Por ocupar la vía pública con cajones para estacionamiento de vehículos, en la extensión que señale el Departamento de Tránsito, de acuerdo con su Reglamento, se pagará una cuota mensual en la forma siguiente:
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1975)</small>
 
-a) Las empresas comerciales, $100.00 por metro cuadrado.
+V.- Por ocupar la vía pública con cajones para estacionamiento de vehículos, en la extensión que señale el Departamento de Tránsito, de acuerdo con su Reglamento, se pagará una cuota anual en la forma siguiente:
 
-b) Los particulares, $50.00 por metro cuadrado. Se exceptúan de lo anterior, los lugares en donde se encuentren instalados aparatos marcadores de tiempo (estacionómetros), en cuyo caso se pagará la cuota de $250.00 por cajón.
+a) Las empresas comerciales $500.00 por metro cuadrado.
+
+b) Los particulares $200.00 por metro cuadrado. Se exceptúan de lo anterior, los lugares en donde se encuentren instalados aparatos marcadores de tiempo (estacionómetros), en cuyo caso se pagará la cuota de $250.00 por cajón.
 
 VI.- Por créditos a favor del Municipio.
 
@@ -947,11 +1019,17 @@ Los causantes que inicien sus actividades sin haber solicitado y obtenido, en su
 
 Las infracciones a la presente Ley, que no estén consignadas en disposiciones especiales, se sancionarán en los términos del Código Fiscal del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 84.
 
-La morosidad en el pago de cualquier impuesto, derecho, producto o aprovechamiento, causará recargos al 2% por cada mes o fracción de retardo, a partir de la fecha en que aquellos sean exigibles, y siempre que el pago se realice espontáneamente.
+La morosidad en el pago de cualquier Impuesto, Derecho o Producto, causará recargos al 3% por cada mes o fracción de retardo, a partir de la fecha en que aquellos sean exigibles, y siempre que el pago se realice espontáneamente.
 
-Se considera que el pago es espontáneo, siempre que no haya mediado gestión de autoridad, o cuando se efectúe dentro de los diez días siguientes a la fecha de su exigibilidad, aún cuando exista requerimiento por parte de las autoridades. Si su pago no es espontáneo, el lugar de los recargos mensuales se aplicará una sanción de 8% por cada mes o fracción, sin que tal sanción exceda de tres tantos del importe del pago omitido.
+Los recargos no excederán del importe del crédito fiscal de que se trate.
+
+Se considera que el pago es espontáneo, cuando se realice sin haber mediado gestión de autoridad, o cuando se efectúe dentro de los diez días siguientes a la fecha de su exigibilidad, aún cuando exista requerimiento por parte de las autoridades.
+
+Si un pago no es espontáneo, además de los recargos mencionados se aplicará al causante la sanción que corresponda, en los términos del Código Fiscal del Estado.
 
 ###### ARTICULO 85.
 
@@ -1026,3 +1104,15 @@ PEDRO G. ZORRILLA MARTINEZ.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 LIC. CESAR SANTOS SANTOS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE DICIEMBRE DE 1975.
+
+###### ARTICULO PRIMERO
+
+- El presente decreto entrará en vigor el día 1o. de Enero de 1976.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan las disposiciones que se opongan al fiel y exacto cumplimiento de esta Ley.
