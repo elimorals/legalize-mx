@@ -4,7 +4,7 @@ identifier: "FED-ley-que-establece-las-normas-minimas-sobre-readaptacion-2572"
 country: "mx"
 rank: "ley"
 publication_date: "1971-05-19"
-last_updated: "1971-05-19"
+last_updated: "1974-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2572&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1971-02-08"
 
 LEY QUE ESTABLECE LAS NORMAS MINIMAS SOBRE READAPTACION SOCIAL DE SENTENCIADOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 19 de mayo de 1971.
 
@@ -47,9 +47,11 @@ Las presentes Normas tienen como finalidad organizar el sistema penitenciario en
 
 El sistema penal se organizará sobre la base del trabajo, la capacitación para el mismo y la educación como medios para la readaptación social del delincuente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 3o.
 
-La Dirección General de Servicios Coordinados de Prevención y Readaptación Social, dependiente de la Secretaría de Gobernación, tendrá a su cargo aplicar estas normas en el Distrito y Territorios Federales y en los reclusorios dependientes de la Federación. Asimismo, las normas se aplicarán, en lo pertinente, a los reos sentenciados federales en toda la República y se promoverá su adopción por parte de los Estados. Para este último efecto, así como para la orientación de las tareas de prevención social de la delincuencia, el Ejecutivo Federal podrá celebrar convenios de coordinación con los Gobiernos de los Estados.
+La Dirección General de Servicios Coordinados de Prevención y Readaptación Social, dependiente de la Secretaría de Gobernación, tendrá a su cargo aplicar estas normas en el Distrito Federal y en los reclusorios dependientes de la Federación. Asimismo, las normas se aplicarán, en lo pertinente, a los reos federales sentenciados en toda la República y se promoverá su adopción por parte de los Estados. Para este último efecto, así como para la orientación de las tareas de prevención social de la delincuencia, el Ejecutivo Federal podrá celebrar convenios de coordinación con los gobiernos de los Estados.
 
 En dichos convenios se determinará lo relativo a la creación y manejo de instituciones penales de toda índole, entre las que figurarán las destinadas al tratamiento de adultos delincuentes, alienados que hayan incurrido en conductas antisociales y menores infractores, especificándose la participación que en cada caso corresponde a los Gobiernos Federal y Locales.
 
@@ -198,3 +200,11 @@ Este Decreto entrará en vigor treinta días después de su publicación en el "
 México, D. F., a 4 de febrero de 1971.- Arnulfo Villaseñor Saavedra, D. P.- Raúl Lozano Ramírez, S. P.- Cuauhtémoc Santa Ana, D. S.- Florencio Salazar Martínez, S. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los ocho días del mes de febrero de mil novecientos setenta y uno.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Alfonso Martínez Domínguez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 23 DE DICIEMBRE DE 1974.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
