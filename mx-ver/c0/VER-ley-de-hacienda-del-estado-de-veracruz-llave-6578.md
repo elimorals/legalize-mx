@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-del-estado-de-veracruz-llave-6578"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1999-12-30"
+last_updated: "2001-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE ABRIL DE 2001.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -117,201 +117,131 @@ b).-Una cuota anual por unidad que la Secretaría de Finanzas y Planeación dete
 
 Estas disposiciones son aplicables exclusivamente a la prestación de servicios a que se refiere la fracción V del artículo 15 de la Ley del Impuesto al Valor Agregado.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 ### CAPITULO SEGUNDO. Del impuesto sobre honorarios por la prestación de servicios profesionales de medicina
 
 ###### ARTICULO 8.
 
-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 9.
 
-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 10.
 
-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
+(DEROGADO, G.O. 4 DE ABRIL DE 2001)
 
 ###### ARTICULO 11.
 
-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
+(DEROGADO, G.O. 4 DE ABRIL DE 2001)
 
 ###### ARTICULO 12.
 
-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 13.
 
-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 14.
 
-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 15.
 
-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 16.
 
-(DEROGADO, G.O. 31 DE DICIEMBRE DE 1985)
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 17.
 
-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 ### CAPÍTULO SEGUNDO BIS-I
 
 Del impuesto por la prestación de servicios de hospedaje.
 
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
 ###### ARTICULO 7-A.
 
-Es objeto de este impuesto la prestación de servicios de hospedaje proporcionados dentro del territorio del estado, ya sea de manera permanente o temporal por hoteles, moteles, albergues, campamentos, posadas, hosterías, mesones, villas, bungalows, suites, paraderos de casas rodantes, casa de huéspedes y otros establecimientos de similar naturaleza, incluyendo los que prestan estos servicios bajo la modalidad de tiempo compartido.
-
-Para efectos de este impuesto, se entiende por prestación de servicios de hospedaje, el otorgamiento de albergue o alojamiento a cambio de una contraprestación en dinero en especie.
-
-> <small>(ADICIONADO, G.O.30 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 7-B.
 
-Son sujetos de este impuesto las personas físicas o morales que presten los servicios a que se refiere el artículo anterior, incluyendo las agencias; sucursales cualquiera que sea la denominación que se le dé, aún cuando tengan su domicilio fiscal en lugar distinto al de la prestación del servicio.
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 7-C.
 
-Los contribuyentes sujetos al pago de este impuesto trasladarán su importe en forma expresa y por separado a las personas que reciban los servicios de hospedaje. Se entenderá por traslado del impuesto, el cobro o cargo que los contribuyentes sujetos a este impuesto efectúen a los usuarios del servicio de hospedaje por un monto equivalente al impuesto establecido en este capítulo.
-
-> <small>(ADICIONADO, G.O.30 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 7-D.
 
-Es base de esta contribución el monto total de las contraprestaciones causadas por los servicios de hospedaje. Cuando los contribuyentes convengan en la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como transportación, alimentos, uso de instalaciones, u otros similares y no desglosen y comprueben la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
-
-En ningún caso se considera que el Impuesto al Valor Agregado forma parte de este impuesto.
-
-Tratándose de servicios prestados bajo el régimen de tiempo compartido, se tomará como base del impuesto, el monto de las contraprestaciones que se reciban por concepto de hospedaje descrita en la factura o comprobante respectivo, cuando no se desglose este concepto, se considerará como base del impuesto el monto total que se pague.
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 7-E.
 
-El impuesto a que se refiere este capítulo, se causará al momento en que se hagan exigibles las contraprestaciones por los servicios de hospedaje.
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 7-F.
 
-Este impuesto se pagará y determinará aplicando la tasa del 2% a la base gravable a que se refiere el artículo 7-D de esta ley.
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 7-G.
 
-El 90% del ingreso que perciba el estado proveniente del impuesto a que se refiere este capítulo, se destinará al fomento, promoción y difusión de las actividades turísticas del estado, para lo cual el gobierno estatal constituirá con dichos recursos un fideicomiso que se encargará de administrar e invertirlos en dicho objetivo.
-
-El patrimonio del fideicomiso podrá ser incrementado con las aportaciones que realicen el gobierno federal a través de sus dependencias, así como las que hagan los integrantes del sector hotelero de la entidad de manera directa o a través de sus organizaciones.
-
-Para efectos del ejercicio de los recursos fideicomitidos se creará un comité en el que participen representantes del sector público estatal, federal y del sector hotelero del estado.
-
-El comité del fideicomiso estará integrado por un representante del sector privado de cada uno de los circuitos turísticos del estado definidos por la Secretaría de Desarrollo Económico en 7 regiones: Huasteco, que comprende los municipios de: Pánuco, Tamiahua y Tuxpan; Totonaca, que comprende los municipios de Tecolutla, Tlapacoyan, Gutiérrez Zamora, Papantla, Nautla y Poza Rica; Olmeaca, que comprende los municipios de Coatzacoalcos, Acayucan y Minatitlán, los Tuxtlas, que comprende los municipios de Alvarado, San Andrés Tuxtla, Catemaco y Santiago Tuxtla; Primeros Pasos de Cortés, que comprende los municipios de Veracruz y Boca del Río, Cultura y Aventura, que comprende los municipios de Xalapa, Actopan, Coatepec, Emiliano Zapata únicamente por cuando hace a la población de Carrizal, Jalcomulco, Teocelo, Perote y Xico; y Altas Montañas, que comprende los municipios de Córdoba, Coscomatepec, Fortín, Huatusco y Orizaba, un representante de las siguientes dependencias; de la federación: la Secretaría de Turismo; del gobierno estatal: Secretaría de Finanzas y Planeación, Contraloría General del Estado y Secretaría de Desarrollo Económico, quien presidirá el citado fideicomiso. En ningún caso los representantes del sector público podrán ser mayoría.
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 7-H.
 
-Los contribuyentes de este impuesto estarán obligados a lo siguiente:
-
-I. Inscribirse en el registro estatal de contribuyentes, ante la oficina de Hacienda del Estado que corresponda a la jurisdicción en donde se encuentre el inmueble destinado a la prestación de servicios de hospedaje, dentro de los primeros 30 días siguientes en que se coloquen en la hipótesis de causación del impuesto, utilizando para tal efecto las formas oficiales aprobadas por la Secretaría de Finanzas y Planeación.
-
-II. Trasladar a las personas usuarias del servicio de hospedaje el impuesto a que se refiere este capítulo, y enterarlo mediante declaración mensual definitiva a través de las formas autorizadas para tal efecto, ante las oficinas de Hacienda del Estado, cobradurías o instituciones bancarias que autorice la Secretaría de Finanzas y Planeación, en la jurisdicción en donde se encuentre el inmueble destinado a la prestación de los servicios de hospedaje, a más tardar el día 17 del mes siguiente al de la causación del impuesto.
-
-La obligación de presentar declaración mensual definitiva de este impuesto subsistirá aún cuando no hubiese cantidad de cubrir.
-
-III. Presentar ante la oficina de Hacienda del Estado que corresponda, los avisos respectivos, de cambio de nombre o razón social, domicilio fiscal, suspensión o reanudación de actividades, fusión o escisión, terminación de actividades, dentro del plazo de 15 días siguientes al que ocurra el hecho.
-
-IV. Expedir facturas, señalando en las mismas, además de los requisitos exigidos en las disposiciones fiscales federales, el impuesto por la prestación de servicios de hospedaje que se traslada en forma expresa y por separado a quien reciba los servicios que marca este capítulo.
-
-V. Llevar y conservar los registros contables o administrativos en los términos del artículo 87 del Código Fiscal para el Estado de Veracruz-Llave.
-
-VI. Proporcionar a la autoridad fiscal del estado, cuando así lo soliciten, la contabilidad, los avisos, declaraciones, datos, documentos e informes relacionados con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 7-I.
 
-Son responsables solidarios de este impuesto, las personas físicas o morales, señaladas en el artículo 18 del Código Fiscal para el estado.
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 7-J.
 
-La autoridad fiscal estatal estará facultada para estimar presuntivamente el impuesto por la prestación de servicios de hospedaje cuando:
-
-I. El sujeto de este impuesto, no presente sus declaraciones, las presente incompletas, se detecten alteraciones en la contabilidad tendientes a evadir el exacto cumplimiento de sus obligaciones fiscales.
-
-II. No lleve o no presente sus libros o registros de contabilidad, no expida recibos, facturas o cualquier otro recibo que señalen las leyes fiscales aplicables.
-
-III. No proporcione la información que la autoridad fiscal del estado le solicite, a efecto de verificar el cumplimiento de las obligaciones de este impuesto.
-
-IV. Para efectos de la determinación presuntiva del impuesto, la autoridad fiscal estimará los ingresos por la prestación de servicios de hospedaje que durante el mes hubieran obtenido los contribuyentes de este impuesto, considerando el total de cuartos, habitaciones o espacios destinados a la prestación de servicios de hospedaje y aplicando la tarifa más alta que se tenga establecida para cada uno de ellos, el importe que resulte será la base para determinar el impuesto a que se refiere este capítulo, significando que deberá seguir el mismo procedimiento tratándose de varios meses o por ejercicio fiscal.
-
-> <small>(ADICIONADO, G.O.30 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 7-K.
 
-No se considerará servicio de hospedaje el albergue o alojamiento prestado por hospitales, clínicas, sanatorios, asilos, conventos, seminarios, internados, instituciones de asistencia o beneficencia autorizadas por leyes de la materia ya sean públicos o privados, así como el prestado a estudiantes, cuyo servicio derive de contratos de habitación con una duración no menor de seis meses.
-
-> <small>(ADICIONADO, G.O.30 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 7-L.
 
-Las infracciones a las disposiciones de este capítulo así como las sanciones que correspondan, se encuentran establecidas en el Código Fiscal para el Estado.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 ### CAPÍTULO SEGUNDO BIS-II
 
 Del impuesto sobre loterías, rifas, sorteos y concursos.
 
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
 ###### ARTICULO 7-M.
 
-Es objeto del impuesto sobre loterías, rifas, sorteos y concursos la obtención de ingresos derivados de premios por loterías, rifas, sorteos y concursos que celebren los organismos públicos descentralizados de la administración pública federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública. Para los efectos de este impuesto, no se considera como premio el reintegro correspondiente al billete o el equivalente en pesos al valor del cupón o boleto que permitió participar en loterías.
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 7-N.
 
-Son sujetos de este impuesto las personas físicas o morales que obtengan ingresos derivados de premios por loterías, rifas, sorteos y concursos cuyo billete, boleto o contraseña o cualquier comprobante que permita participar en los eventos, le haya sido pagado dentro del territorio del estado.
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 7
 
-Ñ. Es base de este impuesto los ingresos por los premios obtenidos por las personas físicas o morales, correspondientes a cada boleto o billete entero, sin deducción alguna, que den derecho a participar en loterías, rifas, sorteos y concursos celebrados por los organismos a que se refiere el artículo 7-M de esta ley.
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
+Ñ. (DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 7-O.
 
-El impuesto a que se refiere este capítulo, se determinará aplicando la tasa del 6% a la base establecida en el artículo 7-Ñ de esta ley.
-
-El impuesto será retenido al momento de la entrega de los premios de que se trate por los organismos descentralizados a que se refiere el artículo 7-M de esta ley, quienes lo enterarán a la Secretaría de Finanzas y Planeación del Estado dentro de los primeros 15 días del mes siguiente a aquel en que se hayan cobrado.
-
-Para efectos del entero a que se refiere el párrafo anterior, los organismos descentralizados, formularán y proporcionaran a la Secretaría de Finanzas y Planeación del Estado, liquidaciones mensuales en las que señalen los datos relativos a la identificación de los premios pagados e impuestos retenidos en el territorio del estado.
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 7-P.
 
-Se exceptúa del pago del impuesto a que se refiere este capítulo por los ingresos que se obtengan por concepto de loterías, rifas, sorteos y concursos cuando el valor de cada premio no exceda de $ 1.00.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 ### CAPITULO TERCERO. DEL IMPUESTO SOBRE DIVERSIONES Y
 
@@ -319,605 +249,119 @@ ESPECTACULOS PUBLICOS PARA LA
 
 ASISTENCIA PUBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
 ###### ARTICULO 18.
 
-Son objeto de este impuesto la erogación que realicen personas que adquieran boletos para la asistencia a espectáculos públicos celebrados en territorio del Estado, así como por el uso en lugares públicos de aparatos electrónicos, mecánicos o electromecánicos con el propósito de diversión.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 19.
 
-Son sujetos de este impuesto, quienes efectúen las erogaciones a que se refiere el artículo anterior.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 20.
 
-La base del impuesto, será el importe total del boletaje adquirido o de la cuota pagada o que deba pagarse.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 21.
 
-Este impuesto se retendrá, liquidará y pagará conforme a la siguiente:
-
-T A R I F A
-
-I.-Carpas de representaciones teatrales, de fantoches, títeres, óptica, fenómenos animales, enanos, bufos, etc., sobre la entrada bruta, el 3%;
-
-II.-Cinematógrafos sobre la entrada bruta, el 3%;
-
-III.-Circos, sobre la entrada bruta, el 3%
-
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
-
-IV.- Espectáculos deportivos en vivo, los transmitidos por cable o vía satélite sobre la entrada bruta, el 10%
-
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
-
-V.-Corridas de toros, becerradas, novilladas, jaripeos, y otros espectáculos similares, sobre la entrada bruta, el 10%, con excepción de las peleas de gallos con o sin variedad, la tasa sobre entrada bruta, será del 20%;
-
-VI.-Representaciones teatrales de comedias, drama, opera, opereta, zarzuela, revista vodevil, variedades, ballet o revista sobre hielo o acuáticas, conciertos y conferencias sobre el precio de cada boleto, ficha o pase de cualquier clase que dé derecho a entrar al espectáculo el 3%;
-
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
-
-VII.-Exhibiciones, desfiles de modas y concursos, sobre el precio de cada boleto, ficha o pase de cualquier clase, que dé derecho a entrar al espectáculo, el 10%;
-
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
-
-VIII.-Bailes sobre la entrada bruta el 10%,
-
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
-
-IX.-Aparatos electromecánicos, de diversión instalados en lugares públicos, en fiestas titulares, carnavales, ferias tales como; caballitos, rueda de la fortuna, trabant, pulpo, martillo, y cualquier otro impulsado por fuerza motriz o electrónica; del total de los boletos vendidos el 10%, y
-
-> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
-
-X.-Los no comprendidos en las fracciones anteriores sobre el precio del total de los boletos vendidos, el 10%.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 22.
 
-Cuando además del espectáculo o diversión, se preste en el mismo local otro u otros servicios que no constituyan espectáculos o diversiones, el cobro de estos servicios se hará en forma independiente del cobro del precio de los boletos que den derecho a entrar al local, pero en ningún caso podrá ser obligatorio para el público, el pago de los mismos servicios como condición para la venta de esos boletos.
-
-El incumplimiento a estas disposiciones dará lugar a considerar que todas las cuotas se cobran por el espectáculo o diversión y, en consecuencia, a que el impuesto se cause y pague sobre el importe total de lo cobrado.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 23.
 
-Cuando por cualquier título se tenga derecho a asistir y presenciar diversiones o espectáculos, o para ocupar determinadas localidades, el impuesto se causa por cada asistente, aun cuando no haya venta de boletos.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 24.
 
-Las personas que organicen, exploten o patrocinen diversiones o espectáculos públicos, deberán retener el impuesto a que se refiere el artículo 18 de esta Ley y se consideran además como responsables solidarios por tales conceptos.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 25.
 
-Cuando las empresas de espectáculos u organizadores expidan pases, sobre éstos, pagarán el impuesto correspondiente, como si se hubiese cubierto el importe del boleto o cuotas respectivas, a menos que dichos pases estén autorizados con el sello de la Secretaría de Finanzas y Planeación, los pases que se autoricen, no podrán exceder del 2% del número total de las localidades.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 26.
 
-El impuesto a que se refiere este capítulo, deberá ser pagado en las Oficinas de Hacienda del Estado en cuya jurisdicción se hayan celebrado la diversión o los espectáculos públicos, como sigue:
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
-
-I.- Tratandose de retenedores habituales, debidamente organizados en empresas, que cuenten con local e instalaciones permanentes para la realización de los eventos, el pago será satisfecho en la exactora que corresponda al domicilio del propio retenedor. En estos casos, la retención total del mes se deberá enterar dentro de los veinte primeros días del mes siguiente, utilizando la forma utilizada por la Secretaría de Finanzas y Planeación;
-
-II.-Tratándose de retenedores habituales cuyas actividades se lleven a cabo en forma ambulante, el pago del impuesto se satisfará de la siguiente manera:
-
-a).-El impuesto retenido se enterará diariamente en la Oficina de Hacienda en cuya jurisdicción se realicen las actividades gravadas. Las exactoras cobrarán el impuesto en base al boletaje exhibido por el retenedor o cuota cobrada, sin perjuicio de allegarse otros medios de prueba;
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
-
-En dicha liquidación quedará consignado el impuesto total retenido durante un mes de calendario y se deducirán los pagos hechos en otras recaudadoras de la Entidad, enterándose desde luego la diferencia que resultare. Esta obligación será cumplida dentro de los primeros veinte días del mes inmediato posterior y con utilización de las formas oficiales autorizadas por la Secretaría de Finanzas y Planeación;
-
-En dicha liquidación quedará consignado el impuesto total retenido durante un mes de calendario y se deducirán los pagos hechos en otras recaudadoras de la Entidad, enterándose desde luego la diferencia que resultare. Esta obligación será cumplida dentro de los primeros 20 días del mes inmediato posterior y con utilización de las formas oficiales autorizadas por la Tesorería General del Estado;
-
-III.- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1991)
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 27.
 
-Las personas que habitualmente organicen, exploten o patrocinen diversiones o espectáculos públicos, estarán obligadas:
-
-> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 1997)</small>
-
-I. Inscribirse dentro de los 30 días siguientes al de iniciación de sus operaciones en el Registro Estatal de Contribuyentes ante la oficina de Hacienda del Estado del lugar donde realicen sus actividades de conformidad con el artículo 85 del Código Fiscal para el Estado;
-
-II.- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1991)
-
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-III.-A manifestar por escrito a la Oficina de Hacienda respectiva, la baja del espectáculo o diversión, cuando menos con tres días de anticipación, o por menor tiempo, si se presentare causa de fuerza mayor espontánea, donde se compruebe la necesidad de llevar a cabo dicha suspensión.
-
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-IV.- Retener y enterar en la Oficina de Hacienda correspondiente, el mismo día en que se realice la diversión o el espectáculo y al termino del evento, el importe de la retención conforme al boletaje exhibido o cuota cobrada y demás elementos de prueba de que disponga la Oficina Recaudadora.
-
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
-
-V.- A entregar boletos individuales de entrada y comprobantes de pago de cuotas, foliados consecutivamente y autorizados sellados por la Oficina de Hacienda del Estado correspondiente, en los que consten los siguientes datos:
-
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
-
-c).-Cuando se termine la totalidad del boletaje sellado o autorizado, podra utilizarse el talón para su venta, incluyéndose éstos como boletos vendidos para el cálculo del impuesto;
-
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
-
-d).-Señalar al momento de la autorización del boletaje, el número de boletos para preventa y taquilla, sin que interfieran unos de otros cuando sean agotados según su localidad; y
-
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
-
-e).-Monto del impuesto que se cause, o la mención de que este se encuentra incluido en el precio o cuota.
-
-> <small>(ADICIONADO, G.O.31 DE DICIEMBRE DE 1998)</small>
-
-Al término del espectáculo, los organizadores tendrán la obligación de entregar a la Oficina de Hacienda correspondiente, la totalidad de los talonarios de boletos sellados;
-
-VI.-Llevar libro de ingresos y egresos, donde se hagan constar sus actividades; y
-
-VII.-(DEROGAGA, G.O. 31 DE DICIEMBRE DE 1998)
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE DICIEMBRE DE 1997)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 28.
 
-Quienes organicen o exploten diversiones o espectáculos públicos de manera accidental tendrán las mismas obligaciones que establece el artículo anterior, además deberán cumplir lo siguiente:
-
-I.-Dar aviso a la Oficina de Hacienda o a su representante, cuando menos con tres días de anticipación, de la iniciación de la diversión o espectáculo público de que se trate;
-
-II.-Manifestar ante la misma autoridad, cuando menos con un día de anticipación, de la suspensión temporal o definitiva del espectáculo o diversión;
-
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
-
-III.-Deberá garantizar en los términos señalados en el articulo 15 del Código Fiscal para el Estado, el pago del impuesto a que se refiere este capítulo, y
-
-IV.-Retener y enterar en la Oficina de Hacienda correspondiente, el mismo día en que se realice la diversión o el espectáculo, el impuesto que este capítulo regula.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 29.
 
-En los casos en que legalmente proceda la devolución de la totalidad o de una parte del importe de las entradas a un espectáculo o diversión, no se causará el impuesto sobre las cantidades devueltas.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 30.
 
-Para el cumplimiento de las disposiciones de este Capítulo, los Inspectores o Interventores Fiscales y las empresas, se ajustarán a las disposiciones administrativas que expida la Secretaría de Finanzas y Planeación en las que se regulará la forma en que deberán practicarse las inspecciones, intervenciones y liquidaciones respectivas.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 31.
 
-Las autoridades municipales deberán dar aviso con la anticipación necesaria a la Oficina de Hacienda del Estado de su jurisdicción, de los permisos que otorguen para la celebración de diversiones y espectáculos públicos.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 32.
 
-Tratándose de diversiones, la Secretaría de Finanzas y Planeación del Estado podrá fijar cuotas mínimas cuando la cantidad retenida a pagar, al aplicar la tasa a que se refiere el artículo 21 fracción VIII de esta Ley, resulte inferior a la establecida en la siguiente:
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
-
-T A R I F A :
-
-1.-Futbolitos por mesa, mensualmente 1 salario mínimo
-
-2.-Tiro sport, tiro de arco, tiro de aros, frontón, carpas de promoción y similares, por cada uno y día de explotación.
-
-1 salario mínimo
-
-3.-Billares y boliches, por cada mesa mensualmente.
-
-1 salario mínimo
-
-4.-Romerías, por cada vez.
-
-4 salarios mínimos
-
-5.-Tómbolas, por cada vez.
-
-8 salarios mínimos
-
-6.-Aparatos mecánicos, y electromecánicos de música, instalados en lugares públicos por cada aparato mensualmente.
-
-1 salario mínimo
-
-7.-Aparatos electromecánicos infantiles, instalados en casas y centros comerciales, por cada aparato mensualmente.
-
-1 salario mínimo
-
-8.-Aparatos electromecánicos de diversión de otras clases, por aparato mensualmente.
-
-2 salarios mínimos
-
-9.-Aparatos de televisión, instalados en establecimientos comerciales o centro de diversión, por cada aparato mensualmente.
-
-1 salario mínimo
-
-10.-Otros análogos.
-
-2 salarios mínimos
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 33.
 
-o se pagará este impuesto, cuando por el mismo concepto, se cause el Impuesto al Valor Agregado.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 ### CAPITULO CUARTO. DEL IMPUESTO SOBRE ADQUISICION DE VEHICULOS
 
 AUTOMOTORES USADOS
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
-
 ###### ARTICULO 33-A.
 
-Es objeto de este Impuesto la Adquisición de Vehículos usados impulsados por motor, que sean enajenados por particulares y que deban registrarse en los padrones que lleva el Estado, independientemente de las características de los mismos.
-
-Para los efectos de este artículo se considera adquisición de Vehículos:
-
-I.-Toda transmisión honerosa de la propiedad sobre vehículos de motor aún en la que exista reserva de dominio.
-
-II.-Las adquisiciones por donación, legado, cesión de derechos, la aportación a una sociedad o asociación y con motivo de un sorteo o rifa.
-
-III.-Las adjudicaciones aun cuando se realicen por el acreedor y la dación en pago.
-
-IV.-La permuta.
-
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 33-B.
 
-Son sujetos de este impuesto, las personas físicas o morales que adquieran vehículos usados impulsados con motor, que deban ser registrados en los padrones a cargo del Estado.
-
-Se considera, salvo prueba en contrario que la adquisición se efectuó en el Estado de Veracruz, cuando al realizar trámites vehiculares de circulación se de alguno de los siguientes supuestos:
-
-I.-Que así conste en el endoso que aparece en el documento que ampare la propiedad del vehículo en cuestión.
-
-II.-Cuando el endoso a que se refiere el inciso anterior no contenga lugar de realización o se lleve a cabo en otra Entidad, siempre y cuando:
-
-a).-El vehículo en cuestión circule con placas del Estado de Veracruz; o
-
-b).-La documentación de pagos de otros impuestos y/o derechos a que este afecto el vehículo de que se trate, haya sido transmitidas ante autoridades domiciliadas en el Estado.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 33-C.
 
-La base de este Impuesto será el modelo y categoría del vehículo de motor objeto del mismo.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 33-D.
 
-El impuesto que se causará en la adquisición de vehículos de motor usados, será el que resulte de aplicar la siguiente:
-
-T A R I F A
-
-VEHICULOS COMPACTOS
-
-ANTIGÜEDAD SALARIOS MINIMOS APLICABLES
-
-Hasta 1 año 12
-
-2 años 11
-
-3 años 10
-
-4 años 09
-
-5 años 08
-
-6 años 07
-
-7 años 06
-
-8 años 05
-
-9 años 04
-
-10 años 03
-
-De 10 años en adelante 02
-
-VEHICULOS MEDIANOS
-
-ANTIGÜEDAD SALARIOS MINIMOS APLICABLES
-
-Hasta 1 año 15
-
-2 años 13
-
-3 años 11
-
-4 años 09
-
-5 años 08
-
-6 años 07
-
-7 años 06
-
-8 años 05
-
-9 años 04
-
-10 años 03
-
-De 10 años en adelante 02
-
-VEHICULOS GRANDES
-
-ANTIGÜEDAD SALARIOS MINIMOS APLICABLES
-
-Hasta 1 año 20
-
-2 años 18
-
-3 años 16
-
-4 años 14
-
-5 años 12
-
-6 años 10
-
-7 años 08
-
-8 años 07
-
-9 años 06
-
-10 años 05
-
-De 10 años en adelante. 04
-
-VEHICULOS DESTINADOS AL TRANSPORTE
-
-DE MAS DE 10 PERSONAS O EFECTOS (CARGA)
-
-C A T E G O R I A A
-
-ANTIGÜEDAD SALARIOS MINIMOS APLICABLES
-
-Hasta 1 año 20
-
-2 años 18
-
-3 años 16
-
-4 años 14
-
-5 años 12
-
-6 años 10
-
-7 años 08
-
-8 años 07
-
-9 años 06
-
-10 años 05
-
-De 10 años en adelante. 04
-
-C A T E G O R I A B
-
-ANTIGÜEDAD SALARIOS MINIMOS APLICABLES
-
-Hasta 1 año 20
-
-2 años 19
-
-3 años 18
-
-4 años 17
-
-5 años 16
-
-6 años 15
-
-7 años 14
-
-8 años 13
-
-9 años 12
-
-10 años 11
-
-De 10 años en adelante. 10
-
-C A T E G O R I A C
-
-ANTIGÜEDAD SALARIOS MINIMOS APLICABLES
-
-Hasta 1 año 25
-
-2 años 23
-
-3 años 21
-
-4 años 19
-
-5 años 17
-
-6 años 16
-
-7 años 15
-
-8 años 14
-
-9 años 13
-
-10 años 12
-
-De 10 años en adelante. 10
-
-MOTOCICLETAS CHICAS
-
-HASTA 250 C.C.
-
-ANTIGÜEDAD SALARIOS MINIMOS APLICABLES
-
-Hasta 1 año 10
-
-2 años 09
-
-3 años 08
-
-4 años 07
-
-5 años 06
-
-6 años 05
-
-7 años 04
-
-8 años 03
-
-9 años 02
-
-10 años 01
-
-De 10 años en adelante. 01
-
-MOTOCICLETAS MEDIANAS
-
-MAS DE 250 HASTA 500 C.C.
-
-Hasta 1 año 12
-
-2 años 11
-
-3 años 10
-
-4 años 09
-
-5 años 08
-
-6 años 07
-
-7 años 06
-
-8 años 05
-
-9 años 04
-
-10 años 03
-
-De 10 años en adelante. 02
-
-MOTOCICLETAS GRANDES
-
-MAS DE 500 C.C.
-
-ANTIGÜEDAD SALARIOS MINIMOS APLICABLES
-
-Hasta 1 año 15
-
-2 años 14
-
-3 años 13
-
-4 años 12
-
-5 años 11
-
-6 años 10
-
-7 años 09
-
-8 años 08
-
-9 años 07
-
-10 años 06
-
-De 10 años en adelante. 05
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 33-E.
 
-Para los efectos de aplicación de este Impuesto se consideran:
-
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-I.-VEHICULOS COMPACTOS.-Todos los automóviles que cuentan con 4 cilindros o menos.
-
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-II.-VEHICULOS MEDIANOS.-Todos los automóviles que cuentan con 6 cilindros.
-
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-III.-VEHICULOS GRANDES.-Todos los automóviles que cuentan con 8 cilindros o más.
-
-VEHICULOS COMPACTOS.-Tales como los de la Marca Volkswagen tipo: Sedan, Caribe, Golf, Brasilia; Marca Datsun tipo: Sedan, Guayin, Samurai, Ninja, Hatch-Back, Tsuru; Marca Renault tipo: Encore, Aliance, Renault 5 Mirage, Renault 12 Guayin, Renault 12 Routier, Renault 12 Routier Guayin, Renault 4, Renault 8 s, Renault 10 y Renault 12; y demás equiparables.
-
-VEHICULOS MEDIANOS.-Tales como los de Marca Volkswagen tipo: Combi, Atlantic, Corsar, Jetta; Marca Datsun tipo: Hicari Coupe, Ichi Van, Samurai-Tsuru; Marca Chrysler de México, S.A. tipo Shadow, Dart, Dart K., Volare, Dart Guayin; Marca Vehículos Automotores de México, S.A. tipo: Gremlin, AMX, Rally; Marca General Motors de México, S.A. de C.V. tipo: Citation Sedan; Marca Ford Motor Company, S.A. tipo: Topaz; y demás equiparables.
-
-VEHICULOS GRANDES.-Tales como los de la marca Chrysler de México, S.A. tipo: Spirit, Phantom, Ram Charger, Le Baron, Magnun, New Yorker, Córdoba; marca Vehículos Automotores de México, S.A. tipo: Lerma Lift Back; Marca General Motors, S.A. de C.V. tipo: Cutlass, Celebrity, Century, Citation Coupe, Montecarlo, Caprice, Malibu; Marca Ford Motor Company, S.A. tipo: Taurus, Thunderbid, Cougar, Mustang, Gran Marquis, Galaxie, Cuayin 8 Cil. y Fairmont; y demás equiparables.
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-a).-CATEGORIA A.-Camiones Pick-Up, estacas, Plataformas, Panel, hormiga, cualesquiera que sea su Marca, cuyo peso vehicular sea hasta 8,000 kgs., y además equiparables.
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-b).-CATEGORIA B.-Camiones de cualesquiera que sea su Marca y tipo cuyo peso vehicular sea mayor de 8,000 Kgs., y demás equiparables.
-
-CATEGORIA C
-
-Tractocamiones (tractores 5ª. rueda), microbuses, ómnibus y demás vehículos para el transporte de más de 10 pasajeros, de cualquier tipo y marca; y demás equiparables.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 33-F.
 
-Los sujetos de este Impuesto están obligados a exhibir ante las Oficinas Recaudadoras correspondientes, el documento original con una copia del mismo que ampare la propiedad del vehículo objeto de la adquisición, debiendo efectuar el pago del Impuesto dentro de los quince días siguientes a la adquisición del mismo.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 33-G.
 
-Para la recaudación de este Impuesto se observará lo siguiente:
-
-I.- Las personas que lleven a cabo las adquisiciones objeto de este Impuesto, deberán presentar una declaración en las formas oficialmente aprobadas por la Secretaría de Finazas y Planeación, a fin de proporcionar los datos y documentos relativos a la adquisición.
-
-II.-La Oficina Recaudadora al recibir el pago expedirá el comprobante respectivo para hacer constar que el Impuesto ha sido cubierto.
-
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 33-H.
 
-La Dirección General de Tránsito y Transporte, sus Delegaciones y las Oficinas de Hacienda del Estado, no tramitarán ninguna solicitud de alta o baja de vehículos por los cuales no se hubiese pagado el impuesto en los términos establecidos en este capítulo.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 33-I.
 
-Las Autoridades estarán facultadas para solicitar y requerir a los contribuyentes sujetos de este Impuesto que acrediten y realicen el pago correspondiente.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
-
-ARTICULO-33-J.-Son sujetos responsables solidarios de este Impuesto:
-
-I.-Los Funcionarios o Empleados Públicos que autoricen cualquier trámite relacionado con los vehículos de motor gravados por este Impuesto, sin haberse cerciorado de su pago.
-
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-II.-El adquiriente o enajenante de vehículos a que se refiere el artículo 33-A de esta Ley, por endosos anteriores; y
-
-III.-Los comisionistas o intermediarios que intervengan en las adquisiciones.
-
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
-
-Tienen obligación los adjudicantes de vehículos de motor, de endosar la factura a la persona física o moral a la que se adjudique, señalando la fecha en que esto suceda; en caso de no hacerlo incurrirá en responsabilidad solidaria, estando facultada la autoridad a cobrar indistintamente el impuesto correspondiente.
-
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
+ARTICULO-33-J.- (DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 33-K.
 
-Queda eximido del pago del impuesto sobre adquisición de vehículos automotores usados las enajenaciones que se realicen por empresas.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 ### CAPITULO V. DEL IMPUESTO ADICIONAL PARA EL FOMENTO
 
@@ -925,57 +369,33 @@ DE LA EDUCACION
 
 ###### ARTICULO 34.
 
-Es objeto de este impuesto, la realización de pagos por concepto de impuestos y derechos que establece esta Ley.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 35.
 
-Son sujetos de este impuesto, quienes realicen los pagos a que se refiere el artículo anterior.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 36.
 
-Es base de este impuesto el importe de los pagos por concepto de impuestos y derechos estatales.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 37.
 
-Este impuesto se causará y pagará a razón del 15% sobre su base.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 38.
 
-Este impuesto se liquidará formando parte de los Impuestos y Derechos Básicos sobre el que recae y su pago se hará en el momento en que se haga el entero de estos últimos.
-
-El ingreso que se perciba se aplicará íntegramente al fomento de la educación.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 39.
 
-Este impuesto no se causará por las siguientes contribuciones:
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-I.-Impuesto por la prestación de servicios de hospedaje;
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-II.-Impuesto sobre loterías, rifas, sorteos y concursos;
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-III.-Impuesto sobre diversiones y espectáculos públicos;
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-IV.-Por los derechos por servicios de tránsito y transporte por la expedición de licencias para conducir vehículos de motor;
-
-> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-V.-Por los derechos por servicios de la Secretaría de Finanzas y Planeación en materia de registro y control vehicular, relacionado con la dotación de placas, calcomanías y expedición de tarjetas de circulación de vehículos de motor, y
-
-> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-VI.-Las contribuciones por mejoras.
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 ## TITULO SEGUNDO
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 ### CAPITULO PRIMERO. DE LOS DERECHOS
 
@@ -983,881 +403,73 @@ DISPOSICIONES GENERALES
 
 ###### ARTICULO 40.
 
-Los derechos por la prestación de servicios públicos en el Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento en que se provoque por parte del Estado, el gasto que deba ser remunerado por aquél, salvo el caso en que la disposición que fije el derecho, señale cosa distinta.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 41.
 
-El importe de las tasas que para cada derecho señalan los siguientes capítulos, deberán ser cubiertos en las Oficinas de Hacienda de la jurisdicción donde se preste el servicio.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 42.
 
-La dependencia, funcionario o empleado que preste el servicio por el cual se paguen los derechos, procederá a la prestación del mismo, al presentar el interesado el recibo que acredite su pago ante la Oficina de Hacienda respectiva.
-
-Ningún otro comprobante justificará el pago correspondiente.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 43.
 
-En aquellos casos, en que por circunstancias especiales el Ejecutivo del Estado considere conveniente que el pago del servicio prestado, deba hacerse ante la propia dependencia o funcionario que lo prestó, deberá mediar acuerdo que se publicará en la 'Gaceta Oficial' previamente a la vigencia de la autorización respectiva.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 44.
 
-El funcionario o empleado público que preste algún servicio por el que se cause un derecho, en contravención a lo dispuesto anteriormente, serán responsables de su pago.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 ### CAPITULO SEGUNDO. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LA SECRETARIA GENERAL DE GOBIERNO
 
 ###### ARTICULO 45.
 
-(DEROGADO, G.O. 31 DE DICIEMBRE DE 1998)
-
-> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 46.
 
-Por servicios prestados por la Secretaría General de Gobierno, a través de las dependencias que se mencionan a continuación, se causarán y pagarán los derechos siguientes:
-
-A. Por servicios del Registro Público de la Propiedad:
-
-I. Por la inscripción de documentos que contengan actos jurídicos relativos a la adquisición, transmisión o modificación de la propiedad o posesión de bienes inmuebles o derechos reales sobre los mismos y que no estén comprendidos en las siguientes fracciones, se pagará tomando como base el mayor valor que resulte de comparar el valor catastral asignado por la oficina correspondiente con el consignado en la operación, por cada $ 10.00 o fracción:
-
-> <small>(REFORMADO, G.O.30 DE DICIEMBRE DE 1999)</small>
-
-$ 0.06
-
-Cuando se trate del derecho real de usufructo a que se refiere el artículo 1013 del Código Civil del Estado, el cálculo de los derechos se hará sobre el 75% del valor que sirva de base conforme al párrafo anterior.
-
-En ningún caso la cantidad a pagar podrá ser menor de 5 salarios mínimos, ni mayor de 100 salarios mínimos.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-a) Por la inscripción de documentos donde consten fraccionamientos, fusión de predios, lotificaciones, subdivisiones y servidumbres.
-
-6 salarios mínimos
-
-b) Por la inscripción de la división de copropiedad, del apeo y deslinde, de rectificación de medidas y linderos.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-6 salarios mínimos
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE1999)</small>
-
-c) Por la inscripción de capitulaciones matrimoniales y disolución de sociedad conyugal.
-
-10 salarios mínimos
-
-d) Por la inscripción de constitución de régimen de propiedad en condominio.
-
-Por cada vivienda local:
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-3 salarios mínimos
-
-II. Por la inscripción de documentos relativos a fianzas, hipotecas, reconocimientos de adeudos, créditos refaccionarios de habilitación o avío mutuo con interés simple y arrendamiento financiero, garantizados con prenda o hipoteca en el Registro Público de la Propiedad, por cada $ 10.00 o fracción.
-
-$ 0.02
-
-En ningún caso la cantidad a pagar podrá ser menor de 10 salarios mínimos, ni mayor de 100 salarios mínimos.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-III. Por el registro de actas de embargo, cédulas hipotecarias, providencias judiciales y demás diligencias decretadas por la autoridad judicial o administrativa sobre el monto total de las cantidades cuyo cobro se asegure por medio del procedimiento, por cada $10.00 o fracción.
-
-$ 0.10
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-a) Cuando en dichos autos se comprendan bienes de cualquier clase, correspondientes a dos o más entidades federativas, y no fuere posible establecer el valor proporcional de la cantidad asegurada respecto a los que se encuentren ubicados en el territorio veracruzano, se cobrará el 0.02% del valor de la suerte principal del embargo.
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-En ningún caso la cantidad a pagar podrá ser menor a 2 salarios mínimos ni mayor de 30 salario mínimos.
-
-IV. Por la inscripción del contrato de arrendamiento, sobre fincas urbanas o rústicas.
-
-5 salarios mínimos
-
-V. Por la inscripción del auto declaratorio de herederos y nombramiento de albacea, y cesión de derechos hereditarios si ésta no incluye bienes inmuebles.
-
-6 salarios mínimos
-
-VI. Por la inscripción de cualquier tipo de testamentos, contratos de depósito, comodato, prestación de servicios profesionales de obra a precio alzado, aparcería agrícola o ganadera, renta vitalicia y cualquier otro documento que, conforme a la ley, pueda ser inscrito.
-
-4 salarios mínimos
-
-VII. Por la inscripción de:
-
-a) Escrituras constitutivas de sociedades civiles o mercantiles.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-20 salarios mínimos
-
-b) Documentos en que se modifique el capital de dichas sociedades.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-15 salarios mínimos
-
-c) Actas y estatutos de sociedades cooperativas, cualquiera que sea su objeto o denominación siempre que su funcionamiento se ajuste a la Ley Federal relativa.
-
-10 salarios mínimos
-
-d) Documentos en que se modifique el acta constitutiva de la sociedad.
-
-10 salarios mínimos
-
-e) Actas constitutivas y modificación de asociaciones civiles, constituidas conforme a lo dispuesto en el artículo 2603 del Código Civil, siempre que no se aporten bienes inmuebles.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-10 salarios mínimos
-
-f) Cualesquiera actas de asamblea de las sociedades y asociaciones antes indicadas.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-12 salarios mínimos
-
-g) La disolución de cualquiera de las sociedades y asociaciones mencionadas anteriormente siempre y cuando no se adjudiquen bienes inmuebles.
-
-6 salarios mínimos
-
-h) Poderes y su cancelación.
-
-6 salarios mínimos
-
-i) Documentos relativos a la enajenación de bienes muebles.
-
-6 salarios mínimos
-
-VIII. Por inscripción de documentos constitutivos de Fideicomisos traslativos de dominio, se pagará por cada $10.00 o fracción.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-$ 0.06
-
-Por la inscripción de documentos en que se constituyan Fideicomisos de garantía, se pagará por cada $10.00 o fracción.
-
-$ 0.02
-
-Por la inscripción del documento en que se constituya cualquier otro tipo de Fideicomiso diferente a los señalados en los párrafos que anteceden.
-
-5 salarios mínimos
-
-En ningún caso la cantidad a pagar podrá ser menor de 5 salarios mínimos, ni mayor de 100 salarios mínimos.
-
-IX. (DEROGADO, G.O. 30 DE DICIEMBRE DE 1999)
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-X. Por la modificación o rectificación de documentos ya registrados que no implique el aumento del importe de las obligaciones pecuniarias, el 15% del total de los derechos que corresponderían al estado por la inscripción de las escrituras primordiales y de las que, en su caso, hubieren modificado aquellos en cualquier sentido aplicándose las cuotas vigentes.
-
-Cuando las rectificaciones sí impliquen aumento a las obligaciones contraídas con anterioridad, se cobrará el 20% sobre las diferencias en demasía que resulten de tales rectificaciones.
-
-XI. Por toda anotación o cancelación cuando no sea de las que deben hacerse al mismo tiempo como consecuencia de la inscripción.
-
-> <small>(REFORMADO, G.O.30 DE DICIEMBRE DE 1999)</small>
-
-2 salarios mínimo
-
-XII. Por la expedición de certificados de gravámenes o libertad de éstos, de inscripciones de inmuebles, de afectación agraria, de no inscripción de inmuebles y de limitación de dominio.
-
-4 salarios mínimos
-
-a) Por el de no poseer bienes.
-
-0.50 salario mínimo
-
-b) Por cualquier otro que se expida y que no esté comprendido anteriormente.
-
-4 salarios mínimos
-
-c) Por la expedición de copias certificadas, por cada hoja.
-
-0.25 salario mínimo
-
-XIII. Los documentos otorgados fuera del Estado pagarán un 25% adicional sobre las cuotas señaladas en este artículo.
-
-XIV. Por cada inscripción de documentos cuyo valor sea indeterminado, si la operación se refiere a inmuebles o derechos que tengan un valor fiscal, la cuota que en el caso corresponda se basará en éste y cuando el valor de las operaciones no pueda determinarse en esta forma.
-
-4 salarios mínimos
-
-a) Las certificaciones o copias certificadas que se expidan a solicitud de las autoridades judiciales para que obren en causas penales o para acreditar la solvencia de fiadores que propongan los procesados o sentenciados para obtener su libertad, pero en el segundo caso sólo se expedirán gratuitamente cuando los interesados, de manera notoria, carezcan de recursos.
-
-b) La expedición de certificados o copias certificadas sobre los bienes o derechos de la Federación, de los Estados, de los Municipios, o de sus dependencias, así como la inscripción o anotación de documentos relativos a bienes o derechos de las mismas entidades o de sus dependencias, siempre que ellas sean las directamente interesadas en asegurar para sí estos mismos bienes o derechos, excepto cuando tal servicio derive de la aplicación de la facultad económica-coactiva en el cobro de adeudos fiscales, en cuyo caso los gastos deberán ser a cargo de los contribuyentes remisos, si no ocurriese la adjudicación al fisco de los bienes embargados.
-
-c) Los certificados o copias certificadas que se expidan con relación a la anotación o restitución de ejidos, conforme a la Constitución General de la República y demás disposiciones concordantes.
-
-d) La inscripción de documentos relativos a las instituciones de beneficencia pública o privada, reconocidas por la ley, siempre que éstas sean las directamente interesadas.
-
-e) Los certificados que se expidan a los inquilinos para los efectos que la Ley del Inquilinato en vigor.
-
-f) Los certificados o copias certificadas que se expidan a los estudiantes o a los padres, tutores, representantes o fiadores de los mismos, para que hagan fe ante cualquier autoridad escolar.
-
-g) La inscripción de las Resoluciones Presidenciales sobre dotación o restitución de ejidos, dictadas de acuerdo con la Constitución General de la República.
-
-h) La inscripción de los contratos de arrendamiento de fincas urbanas que fijen una renta anual inferior a cinco salarios mínimos, en la inteligencia de que no será obligatoria la inscripción.
-
-i) Las inscripciones de los títulos a que se refiere el artículo siete del Decreto Presidencial del 9 de agosto de 1923, sobre ocupación y adquisición de terrenos nacionales y baldíos con fines agrícolas, y
-
-j) Las inscripciones preventivas a que se refiere el artículo 2951 del Código Civil del Estado.
-
-k) La inscripción de los contratos traslativos de dominio que en atención a los fines que persiguen, se otorguen por: La Comisión para la Regularización de la Tenencia de la Tierra (Corett), el Fondo de Vivienda para los Trabajadores al Servicio del Estado (Fovissste), el Instituto de Pensiones del Estado (IPE); el Instituto Veracruzano de la Vivienda (Invervi); y la Dirección General del Patrimonio del Estado.
-
-l) Los casos que señalen de manera específica las demás leyes.
-
-B. Por servicios de la Inspección y Archivo General de Notarías:
-
-I. Por la autorización de cada libro de Protocolo Notarial, incluyendo el de certificaciones.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-3 salarios mínimos
-
-II. Por cada inscripción de testamento en el Libro de Registro de Disposiciones Testamentarias.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-3 salarios mínimos
-
-> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-a) Cuando se trate de inscripción dictada fuera del estado.
-
-5 salarios mínimos
-
-III. Por la expedición de Patente de Aspirante al Ejercicio del Notariado.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-30 salarios mínimos
-
-IV. Por la expedición de autorización para ejercer como Notario Adscrito.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-15 salarios mínimos
-
-V. Por la expedición de Nombramiento de Notario Titular.
-
-50 salarios mínimos
-
-VI. Por la expedición de testimonios de los protocolos depositados.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-10 salarios mínimos
-
-VII. Por la expedición de copias certificadas de documentos de los protocolos depositados.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-4 salarios mínimos.
-
-C. Por servicios de la Editora de Gobierno del Estado:
-
-I. Por publicaciones de:
-
-a) Edicto de interés pecuniario, como: las prescripciones positivas, denuncias de juicio sucesorio, aceptación de herencia, remates, convocatorias para fraccionamientos.
-
-Palabra por inserción:
-
-0.033 salarios mínimos
-
-b) Edicto de interés social, como cambio de nombre, póliza de defunción.
-
-Palabra por inserción:
-
-0.022 salarios mínimos
-
-c) Cortes de caja, balances o cualquier documento de formación especial.
-
-Por plana:
-
-6.67 salarios mínimos
-
-II. Por ventas de:
-
-a) Gaceta extraordinaria de 1 a 24 planas.
-
-1 salario mínimo
-
-b) Número extraordinario.
-
-3 salarios mínimos
-
-c) Alcances de 1 a 24 planas.
-
-2 salarios mínimos
-
-d) Alcances de 24 a 72 planas.
-
-5 salarios mínimos
-
-e) Alcances de 72 a 216 planas.
-
-6 salarios mínimos
-
-f) Por copia de Gaceta.
-
-4 salarios mínimos
-
-g) Por un año de suscripción.
-
-13 salarios mínimos
-
-h) Por un año de suscripción foránea.
-
-16 salarios mínimos
-
-i) Por semestre de suscripción.
-
-7 salarios mínimos
-
-j) Por un semestre de suscripción foránea.
-
-9 salarios mínimos
-
-k) Por un ejemplar.
-
-0.133 salarios mínimos
-
-l) Por un ejemplar atrasado.
-
-0.70 salarios mínimos
-
-m) Sentencias, resoluciones, deslindes de carácter agrario y acuerdo de licitación de obra pública.
-
-Por plana:
-
-2 salarios mínimos
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-n) Por copia de la hoja de la Gaceta.
-
-0.50 salario mínimo
-
-XV.-Se exceptúan del pago de los derechos del Registro Público de la Propiedad a que se refiere este artículo:
-
-a).-Las certificaciones o copias certificadas que se expidan a solicitud de las autoridades judiciales para que se obren en causas penales o para acreditar la solvencia de fiadores que propongan los pocesados o sentenciados para obtener su libertad, pero en el segundo caso solo se expedirán gratuitamente cuando los interesados, de manera notoria, carezcan de recursos.
-
-b).-La expedición de certificados o copias certificadas sobre bienes o derechos de la Federación, de los Estados, de los Municipios, o de sus dependencias, así como la inscripción o anotación de documentos relativos a bienes o derechos de las mismas entidades o de sus dependencias, siempre que ellas sean las directamente interesadas en asegurar para sí estos mismos bienes o derechos, excepto cuando tal servicio derive de la aplicación de la facultad económica-coactiva en el cobro de adeudos fiscales, en cuyo caso los gastos deberán ser a cargo de los contribuyentes remisos, si no ocurriese la adjudicación al fisco de los bienes embargados.
-
-c).-Los certificados o copias certificadas que se expidan con relación a la anotación o restitución de ejidos, conforme a la Constitución General de la Republica y demás disposiciones concordantes.
-
-d).-La inscripción de documentos relativos a las instituciones de beneficencia pública o privada, reconocidas por la Ley, siempre que éstas sean las directamente interesadas.
-
-e).-Los certificados que se expidan a los inquilinos para los efectos de la Ley.
-
-f).-Los certificados o copias certificadas que se expidan a los estudiantes o a los padres, tutores, representantes o fiadores de los mismos para que hagan fe ante cualquier autoridad escolar.
-
-g).-La inscripción de las Resoluciones Presidenciales sobre dotación o restitución de ejidos, dictadas de acuerdo con la Constitución General de la Republica.
-
-h).-La inscripción de los contratos de arrendamiento de fincas urbanas que fijen una renta anual inferior a cinco salarios mínimos, en la inteligencia de que no será obligatoria la inscripción.
-
-i).-Las inscripciones de los títulos a que se refiere el artículo siete del Decreto Presidencial del 9 de agosto de 1923, sobre ocupación y adquisición de terrenos nacionales y baldíos con fines agrícolas.
-
-j).-Las inscripciones preventivas a que se refiere el artículo 2951 del Código Civil del Estado.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 46-A.
 
-(DEROGADO, G.O. 11 DE DICIEMBRE DE 1997)
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 46-B.
 
-(DEROGADO, G.O. 11 DE DICIEMBRE DE 1997)
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
-> <small>(REFORMADA SU DENOMINACION. G.O. 24 DE DICIEMBRED E 1991)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 ### CAPITULO TERCERO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DE GOBERNACION
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1998)</small>
-
 ###### ARTICULO 47.
 
-Por servicios prestados por la Secretaría General de Gobierno en materia de Gobernación, se causarán y pagarán los derechos siguientes:
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
-I.-Por legalización de firmas que comprenden:
-
-> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
-
-a) Certificados de Registro Civil.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-3 salarios mínimos
-
-b).-Testimonios notariales y escrituras públicas.
-
-> <small>(REFORMADO, G.O 30 DE DICIEMBRE DE 1999)</small>
-
-3 salarios mínimos
-
-c).-Firmas de funcionarios de Gobierno del Estado.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-3 salarios mínimos
-
-> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 1997)</small>
-
-II. Por registro o diligenciación de exhortos.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-4 salarios mínimos
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-a).-Registro 1 salario mínimo
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-b) Diligenciación 2 salarios mínimos
-
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-III.-Por actos realizadas por el Departamento Central del Registro Civil del Estado, como son:
-
-> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
-
-a) Expedición de copia certificada de acta del estado civil de las personas.
-
-1 salario mínimo
-
-> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
-
-b) Expedición de constancias o certificaciones.
-
-1 salario mínimo
-
-> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 1997)</small>
-
-IV. Por la autorización para la prestación de servicios de custodia y traslado de valores y de vigilancia de inmuebles pertenecientes a particulares realizada en el interior de los mismos.
-
-> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
-
-a) Por la autorización inicial
-
-500 salarios mínimos
-
-> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
-
-b) Por la revalidación anual.
-
-100 salarios mínimos
-
-V.-Por la conformidad para:
-
-A).-Que las personas morales adquieran, posean o administren fincas rústicas para el cumplimiento de su objeto social.
-
-30 salarios mínimos
-
-B).-El establecimiento de clubes de caza, tiro y otros de naturaleza similar.
-
-30 salarios mínimos
-
-C).-El uso y almacenamiento de explosivos.
-
-30 salarios mínimos
-
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-VI.-Por Adhesión de "Apostilla" en un documento que deba surtir efectos en un País afiliado a la Convención de la Haya de 1981.
-
-6 salarios mínimos
-
-> <small>(ADICIONADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
-
-No causarán los derechos a que se refiere este artículo, la legalización de firmas en materia penal y en otros casos previstos por la Ley.
-
-> <small>(REFORMADA SU DENOMINACION, G.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 ### CAPITULO CUARTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION
 
 GENERAL DE TRÁNSITO Y TRANSPORTE
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1998)</small>
+###### ARTICULO 48.
 
-###### Artículo 48.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
-Por los servicios prestados por la Secretaría General de Gobierno en materia de Tránsito y Transporte, se causarán y cobrarán los derechos siguientes:
-
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
-
-I.-Expedición de Licencia de chofer, tipo "A" para conducir vehículos de motor dedicados al Servicio Público de Pasajeros, de acuerdo con el Reglamento de Tránsito y Transporte, previo examen médico y pericial.
-
-12 Salarios Mínimos.
-
-Canje Trianual
-
-4.5 Salarios Mínimos.
-
-> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 1997)</small>
-
-II.- Expedición de Licencia de Chofer, tipo B para conducir toda clase de vehículos de motor de Servicios Públicos de Carga y Particular, de acuerdo con el Reglamento de Tránsito y Transporte, previo examen médico y pericial.
-
-11 salarios mínimos
-
-Canje Trianual
-
-4 salarios mínimos
-
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
-
-III.-Expedición de Licencia de Automovilista, tipo "C" para conducir únicamente automóviles de Servicio Particular, de acuerdo con el Reglamento de Tránsito y Transporte, previo examen médico pericial.
-
-9 Salarios Mínimos.
-
-Canje Trianual
-
-3 Salarios Mínimos.
-
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
-
-IV.-Expedición de Licencia de Motociclista, tipo "D" para conducir vehículos de dos o tres ruedas, de acuerdo con el Reglamento de Tránsito y Transporte, previo examen médico y pericial.
-
-6 Salarios Mínimos.
-
-Canje Trianual
-
-3 Salarios Mínimos.
-
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
-
-IV-BIS.- Expedición de licencias de motorista, para conducir maquinaria pesada para construcción:
-
-7 Salarios Mínimos
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
-
-V.-Expedición de Duplicados de cualquier tipo de Licencias de las señaladas en las fracciones anteriores de este artículo.
-
-4 salarios mínimos
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
-
-VI.-Por la expedición de los siguientes permisos:
-
-A).-Permisos especiales para conducir hasta por 180 días renovables, a personas mayores de 16 años y menores de 18.
-
-4 salarios mínimos.
-
-B).- (DEROGADA, G.O. 28 DE DICIEMBRE DE 1993)
-
-C).-Permiso para ocupar zonas para estacionamiento exclusivo en las Vías Públicas, cuando éstas resulten necesarias para la prestación de un Servicio Público, de acuerdo con el Reglamento de Tránsito y Transporte (Por vehículo).
-
-4 salarios mínimos
-
-Por revalidación anual
-
-2 salarios mínimos
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-D) Permiso para establecer el Servicio al Público de Estacionamiento de Vehículos en Propiedad Privada Estacionamientos Públicos de acuerdo con el Reglamento de Tránsito y Transporte.
-
-30 salarios mínimos
-
-Por revalidación anual
-
-15 salarios mínimos
-
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
-
-E).-Permiso particular para el transporte de carga especifica o personas
-
-Por un año
-
-10 salarios mínimos
-
-Por un día
-
-1 salario mínimo
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-F).-Permiso particular para circular vehículos nuevos sin placas ni tarjeta de circulación por 15 días.
-
-5 salarios mínimos
-
-G) (DEROGADA, G.O. 30 DE DICIEMBRE DE 1999)
-
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
-
-H).- Pemiso para establecer escuelas para la enseñanza del manejo de vehículos:
-
-100 Salarios Mínimos
-
-Por revalidación Anual
-
-50 Salarios Mínimos
-
-VII.- (DEROGADA, G.O. 31 DE DICIEMBRE DE 1998)
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1998)</small>
-
-VIII.- Por servicios de Transporte Público:
-
-A).-(DEROGADA, G.O. 31 DE DICIEMBRE DE 1998)
-
-B).-(DEROGADA, G.O. 31 DE DICIEMBRE DE 1998)
-
-> <small>(ADICIONADA, G.O. 10 DE AGOSTO DE 1999)</small>
-
-C). Expedición de tarjeta anual de identificación de operador de transporte público de pasajeros.
-
-4 salarios mínimos
-
-> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 1997)</small>
-
-D) Reposición de la Tarjeta Anual de Identificación de Operador de Transporte Público de Pasajeros.
-
-2 salarios mínimos
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
-
-E).-Expedición de Tarifa oficial para el Cobro de Servicio Público de Pasajeros.
-
-1 salario mínimo
-
-F).- (DEROGADA, G.O. 11 DE DICIEMBRE DE 1997)
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-G).- Expedición de permisos temporales por 15 días.
-
-1 salario mínimo
-
-H).- (DEROGADA, G.O. 31 DE DICIEMBRE DE 1998)
-
-I).- (DEROGADA, G.O. 31 DE DICIEMBRE DE 1998)
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
-
-IX.-Por la Prestación de otros Servicios:
-
-A).-(DEROGADA, G.O. 31 DE DICIEMBRE DE 1998)
-
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-B).-Expedición de Constancias y Certificados Médicos y de cualquier otra naturaleza.
-
-1 salario mínimo
-
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
-
-C).-Expedición de permisos diversos.
-
-Por día
-
-1 salario mínimo.
-
-D).-Por la utilización de grúas oficiales para el retiro de vehículos accidentados, infraccionados o por orden judicial, dentro de los limites de la ciudad de que se trate.
-
-4 salarios mínimos
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-E).-Por la utilización de servicio oficial de depósito y custodia de vehículos accidentados, infraccionados o por orden judicial.
-
-Por día 0.50 salario mínimo
-
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
-
-X.-Por el otorgamiento de una concesión o permisos en trámite para prestar el servicio público de transporte en las diferentes modalidades previstas en el artículo 177 del Reglamento de la Ley de Tránsito y Transporte.
-
-A).-Taxi y colectivo.
-
-200 salarios mínimos
-
-B).-Urbano, Suburbano y foráneo
-
-230 salarios mínimos
-
-C).-Carga, escolar, exclusivo de turismo y transporte de personal.
-
-125 salarios mínimos
-
-> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 1999)</small>
-
-XI. Por la transferencia por fallecimiento del titular de una concesión para prestar el servicio público en la modalidad de taxi, colectivo, urbano, suburbano, foráneo, carga, escolar, exclusivo turismo o transporte de personal.
-
-100 salarios mínimos
-
-XII.- (DEROGADA, G.O. 28 DE DICIEMBRE DE 1995)
-
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
-
-XIII.- Por la autorización para prestar el servicio de depósito y custodia de vehículos, de acuerdo con el Reglamento de Tránsito y Transporte: 150 salarios mínimos
-
-150 salarios mínimos
-
-Revalidación anual: salarios mínimos
-
-100 salarios mínimos
-
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
-
-XIV.-Por la transferencia por cesión de derechos de una concesión para prestar el Servicio Público de Transporte en las modalidades siguientes:
-
-A).-Taxi, colectivo, urbano, suburbano, foráneo, carga, escolar, exclusivo turismo y transporte de personal.
-
-150 salarios mínimos
-
-B).-Rural mixto
-
-100 salarios mínimos
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-No se causarán estos derechos cuando la transferencia se realice por personas físicas para constituir una moral, siempre y cuando la aportación a la sociedad sea la concesión. Cuando la persona física enajene o transfiere su titularidad en la sociedad, se generará el pago previsto en esta fracción.
-
-> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE DICIEMBRE DE 1991)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 ### CAPITULO QUINTO. DE LOS DERECHOS PRESTADOS POR
 
 LA SECRETARIA DE FINANZAS Y PLANEACION
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
 ###### ARTICULO 49.
 
-Por los servicios prestados por la Secretaría de Finanzas y Planeación del Estado, se causarán y pagarán los derechos siguientes:
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
-
-I.-La Dirección de Catastro
-
-a).-Por la expedición de una cédula catastral.
-
-3 salarios mínimos.
-
-b).-Por la expedición de un certificado de Valor Catastral o Catastral Provisional.
-
-5 salarios mínimos.
-
-c).-Por la expedición de una constancia de datos catastrales.
-
-3 salarios mínimos.
-
-d).-Por la certificación de cada plano expedido por la Dirección de Catastro.
-
-3 salarios mínimos.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE DICIEMBRE DE 1997)</small>
-
-II. Por la certificación de documentos públicos, por hoja.
-
-0.25 salario mínimo
-
-> <small>(REFORMADO, G.O.10 DE AGOSTO DE 1999)</small>
-
-Se exceptúan del pago de derechos por la expedición de la cédula catastral y el certificado de Valor Catastral Provisional.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
-
-a).-La Federación, el Estado y los Municipios, respecto de los bienes del dominio público, y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
-
-b).-Todos los sujetos pasivos del Catastro, cuando se trate de incorporaciones o revaluaciones masivas por la ejecución de programas de Catastro; y
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
-
-c).-Los cambios de registro originados por regularización de la nomenclatura Catastral, o de la circunscripción municipal.
-
-> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 1999)</small>
-
-d). A los poseedores de predios en las colonias populares, reservas territoriales y fundos legales, destinados a usos habitacionales y en proceso de regularización por parte de la Secretaría de Desarrollo Regional, con intervención de la Dirección General de Patrimonio del Estado, y el Instituto Veracruzano de Fomento al Desarrollo Regional.
-
-> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 1999)</small>
-
-e). A los adquirientes de vivienda de interés social y popular construidas en el estado, cuyos proyectos habitacionales estén autorizados por la Secretaría de Desarrollo Regional y coordinados por el Instituto Veracruzano de Fomento al Desarrollo Regional, así como por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (Infonavit), el Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (Fovissste), el Fideicomiso Fondo Nacional de Habitaciones Populares (Fonhapo), el Fondo de Operación y Financiamiento Bancario a la Vivienda (Fovi), y el Instituto de Pensiones del Estado (IPE):
-
-> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
-
-III.-Por servicios de Registro y Control vehicular:
-
-> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 1999)</small>
-
-a). Dotación de placas para todo tipo de vehículos:
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-b) Expedición anual del comprobante fiscal de control vehicular, el cual deberá pagarse en el mismo periodo establecido para el pago del Impuesto Federal sobre Tenencia o uso de vehículos.
-
-4 salarios mínimos
-
-> <small>(REFORMADO, G.O.10 DE AGOSTO DE1999)</small>
-
-1.- Para automóvil, camión, ómnibus, taxi, carga y pasaje:
-
-8 salarios mínimos
-
-> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 1999)</small>
-
-2. Para remolque:
-
-4 salarios mínimos
-
-3.-Para motocicleta:
-
-4 salarios mínimos
-
-b).-Expedición anual del comprobante fiscal de control vehicular, el cual deberá hacerse dentro de los primeros tres meses del año:
-
-4 salarios mínimos
-
-c) (DEROGADO, G.O.10 DE AGOSTO DE 1999)
-
-d).-Canje anual de tarjeta de circulación para motocicleta y remolque:
-
-2 salarios mínimos
-
-e).-Reposición de tarjeta de circulación por extravío:
-
-2 salarios mínimos
-
-> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 1999)</small>
-
-f). Baja de vehículos registrados y emplacados en el estado de Veracruz, servicio público y privado:
-
-1 salario mínimo
-
-g).-Baja de vehículos correspondientes a otra Entidad Federativa:
-
-8 salarios mínimos
-
-h).-Falta de entrega de placas en el trámite de baja definitiva:
-
-Por placa:
-
-2 salarios mínimos
-
-i).-No entregar la tarjeta de circulación en el trámite de baja definitiva o cambio de: domicilio; propietario; motor; servicio; entidad o de vehículo:
-
-2 salarios mínimos
-
-j) (DEROGADO, G.O. 10 DE AGOSTO DE 1999)
-
-k).-Alta o baja extemporánea del vehículo, previa comprobación de haber cubierto los adeudos anteriores por impuestos y derechos generados por la unidad:
-
-2 salarios mínimos
-
-l).-Alta de vehículos por cambio de propietario sin dotación de nuevas placas de circulación, previa comprobación de haber cubierto los adeudos anteriores por impuestos y derechos generados por la unidad:
-
-4 salarios mínimos
-
-m).-Canje Anual de Tarjeta de Circulación y expedición de comprobante fiscal de control vehicular de las unidades de automotor destinadas al transporte público:
-
-4 salarios mínimos
-
-> <small>(REFORMADA SU DENOMINCACION, G.O. 17 DE DICIEMBRE DE 1994)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 ### CAPITULO SEXTO
 
@@ -1865,331 +477,35 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE COMUNICACIONES.
 
 DIRECCION GENERAL DE TELECOMUNICACIONES.
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
 ###### ARTICULO 50.
 
-Por los servicios telegráficos telefónicos y radiotelefónicos que preste la Secretaría de Comunicaciones, a través de su red de telecomunicaciones del Estado, se causarán los derechos conforme a las siguientes tarifas:
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
-
-I.-Conferencias en casetas telefónicas con líneas comunales de magneto:
-
-> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
-
-a) 3 minutos.
-
-0.14 salarios mínimos
-
-> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
-
-b) Minuto excedente.
-
-0.05 salarios mínimos
-
-c).- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
-
-d).- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
-
-> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 1997)</small>
-
-II. Abonados.
-
-Telefónicos en línea comunal de magneto, mensualmente.
-
-1 salario mínimo
-
-a).- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
-
-b).- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
-
-III.- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
-
-a).- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
-
-b).- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
-
-c).- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
-
-d).- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 ### CAPITULO SEPTIMO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL
 
 PODER JUDICIAL DEL ESTADO
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
-
 ###### ARTICULO 51.
 
-Por los servicios prestados por el Tribunal Superior de Justicia, Juzgados de Primera Instancia, Juzgados Menores y Juzgados Municipales, se causarán y pagarán derechos, por la expedición de copias certificadas, por cada hoja o fracción 0.25 salario mínimo
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 ### CAPITULO OCTAVO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL
 
 DE ENSEÑANZA MEDIA
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
-
 ###### ARTICULO 52.
 
-Por los servicios prestados por la Secretaría de Educación y Cultura, se establece la siguiente tarifa para el pago de derechos:
-
-I.-Por trámite de inscripción y reinscripción en los siguientes niveles educativos:
-
-a).-Educación media superior: (semestral) 0.25 salario mínimo
-
-b).-Educación superior:
-
-1.-Normal básica (anual) 1.50 salarios mínimos
-
-2.-Normal superior (semestral) 1.50 salarios mínimos
-
-3.-Universidades Pedagógicas Licenciatura (semestral) 1.50 salarios mínimos
-
-Educación continua 3 salarios mínimos
-
-Postgrado (semestral) 6 salarios mínimos
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-c) Educación terminal:
-
-1 salario mínimo
-
-II.-Por exámenes:
-
-a).-A título de suficiencia para alumnos no promovidos de sexto grado de educación primaria: 0.50 salario mínimo
-
-b).-A título de suficiencia para alumnos que no cursaron alguna materia del Plan de Estudios del nivel medio superior vigente: 0.50 salario mínimo
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-c) De regularización para alumnos de los planteles de secundaria, bachillerato, de educación superior y educación terminal:
-
-1.-Primera oportunidad 0.25 salario mínimo
-
-2.-Segunda oportunidad 0.50 salario mínimo
-
-3.-Tercera oportunidad 0.75 salario mínimo
-
-d).-Examen profesional:
-
-1.-Profesor de Educación Preescolar o Primaria 1.75 salarios mínimos
-
-2.-Licenciatura 2.50 salarios mínimos
-
-3.-Postgrado 3 salarios mínimos
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-4. Educación terminal:
-
-0.25 salario mínimo
-
-e).-Admisión: Educación media superior 4.75 salarios mínimos
-
-Educación superior 2.50 salarios mínimos
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-1. Educación media superior:
-
-4.75 salarios mínimos
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-2. Educación superior:
-
-2.50 salarios mínimos
-
-> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-3. Educación terminal:
-
-4.75 salarios mínimos
-
-III.-Expedición y reexpedición de documentos:
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O.30 DE DICIEMBRE DE 1999)</small>
-
-a) Certificado de estudios de niveles de educación terminal, media superior y superior:
-
-1 salario mínimo
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-b) Duplicados de certificados de estudios de educación primaria, especial, secundaria, terminal, media superior y superior: 1 salario mínimo
-
-c).-Reposición de Kardex en secundarias: 3.25 salarios mínimos
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE1999)</small>
-
-d) Certificación de kardex de estudios de educación normal:
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-e) Duplicado de credencial de educación superior:
-
-0.50 salario mínimo
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-f) Constancia de calificaciones en el nivel superior:
-
-0.50 salario mínimo
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-g) Duplicado de boleta de calificaciones de estudios de educación superior:
-
-1 salario mínimo
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-h) Duplicado de constancia de servicio social:
-
-0.25 salario mínimo
-
-> <small>(REFORMADO, G.O.30 DE DICIEMBRE DE 1999)</small>
-
-i) Título profesional:
-
-2 salarios mínimos
-
-j).-A punto y raya de examen profesional: 1 salario mínimo
-
-k).-A punto y raya de título profesional: 1 salario mínimo
-
-IV.-Otorgamiento de autorización o de reconocimiento de validez oficial de estudios: 180 salarios mínimos
-
-V.-Cuota anual por alumno de las escuelas particulares con autorización o con reconocimiento de validez oficial de estudios: 0.50 salario mínimo
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-VI. Convalidación, revalidación y equivalencia de estudios en los niveles de educación primaria, secundaria, terminal, media superior y superior. 1 salario mínimo
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O.30 DE SEPTIEMBRE DE 1999)</small>
-
-VII. Cuota por otros servicios administrativos en los niveles terminal, media superior y superior.
-
-VIII.-Autorización de traslado de alumnos de educación superior de Estado a Estado: 1 salario mínimo
-
-> <small>(ADICIONADA, G.O. 11 DE DICIEMBRE DE 1997)</small>
-
-IX. Por los trámites relativos al ejercicio profesional.
-
-a) Registro de instituciones que imparten Educación Media Superior y Superior.
-
-45 salarios mínimos
-
-b) Registro de carreras.
-
-23 salarios mínimos
-
-c) Registro de firmas autorizadas para la expedición de documentos y/o sellos para cancelarlos.
-
-6 salarios mínimos
-
-d) Enmienda de los registros sobre instituciones que impartan educación profesional.
-
-18 salarios mínimos.
-
-> <small>(REFORMADO, G.O.30 DE DICIEMBRE DE 1999)</small>
-
-e) Registro de título profesional, de diploma, de especialidad y de grado académico:
-
-10 salarios mínimos
-
-f) Registro y autorización para colegios de profesionistas.
-
-45 salarios mínimos
-
-g) Enmienda en relación a colegios de profesionistas.
-
-10 salarios mínimos
-
-h) Inscripción de un asociado a un colegio de profesionistas que no figure en el registro original.
-
-2 salario mínimos
-
-i) Expedición a pasantes de credencial de autorización para ejercer la profesión.
-
-9 salarios mínimos
-
-j) Expedición a pasantes de segunda credencial de autorización para ejercer la profesión.
-
-11 salarios mínimos
-
-k) Expedición a pasantes de tercera credencial de autorización para ejercer la profesión.
-
-13 salarios mínimos
-
-l) Reposición de credencial de autorización a pasantes para ejercer la profesión.
-
-9 salarios mínimos
-
-m) Registro de instituciones que imparten Educación Profesional Técnica.
-
-23 salarios mínimos
-
-n) Enmiendas a los registros de instituciones que imparten Educación Profesional Técnica.
-
-18 salarios mínimos
-
-o) Enmienda en relación al título profesional, de diploma de especialidad y de grado académico.
-
-3 salarios mínimos
-
-p) Duplicado de cédula profesional.
-
-13 salarios mínimos
-
-q) Reposición de cédula profesional
-
-5 salarios mínimos
-
-> <small>(REFORMADO, G.O.30 DE DICIEMBRE DE 1999)</small>
-
-r) Registro de títulos profesionales de otras universidades del país:
-
-10 salarios mínimos
-
-s) Gestoría de tramitación de registros de títulos profesionales y expedición de cédula profesional ante la SEP México.
-
-7 salarios mínimos
-
-t) Pago por cotejo de documentos.
-
-4 salarios mínimos
-
-u) Expedición de constancias de registro.
-
-4 salarios mínimos
-
-v) Expedición de autorización provisional para ejercer, por encontrarse el título profesional en trámite.
-
-6 salarios mínimos
-
-w) Expedición de constancias de archivo.
-
-4 salarios mínimos
-
-No se cobrarán los derechos a que se refiere esta fracción cuando se dé cualquiera de los siguientes supuestos.
-
-1. Por los registros correspondientes a las instituciones que imparten educación profesional en el estado de Veracruz, que dependan de la Secretaría de Educación y Cultura.
-
-2. Por autorización para el ejercicio profesional, por registro de título profesional y por expedición de cédula profesional, a los maestros con título específico para enseñanza en cualquiera de sus grados.
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-X. Guías y cassettes de estudios de nivel medio superior y superior:
-
-0.70 salario mínimo
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 53.
 
-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 12 DE SEPTIEMBRE DE 1985)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 ### CAPITULO NOVENO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA
 
@@ -2197,791 +513,25 @@ DIRECCION GENERAL DE EDUCACION POPULAR
 
 ###### ARTICULO 53 -A.
 
-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
-T A R I F A S :
-
-1.- (DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-2.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-3.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-4.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-5.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-6.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-7.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-8.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-9.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-10.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-11.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-12.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-13.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-14.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-15.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-16.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-17.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-18.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-19.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-20.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-21.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-22.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-23.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-24.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-25.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-26.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-27.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-28.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-29.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-30.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-31.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-> <small>(REFORMADA SU DENOMINACION, G.O.30 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 ### CAPITULO DECIMO. De los derechos por los servicios prestados por la Secretaría de Desarrollo Regional
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE1999)</small>
-
 ###### ARTICULO 53-B.
 
-Por los servicios prestados por la Secretaría de Desarrollo Regional a través de la Dirección General del Patrimonio del Estado, se causarán y pagarán los siguientes derechos:
-
-I. Trabajo técnico.
-
-Por lote 3 salarios mínimos.
-
-II. Replanteo de linderos.
-
-Por lote 3 salarios mínimos.
-
-III. Elaboración de avalúos de lote.
-
-3 salarios mínimos.
-
-IV. Levantamiento de Poligonal envolventes a propietarios.
-
-Por hectárea 18 salarios mínimos.
-
-V. Subdivisión de lotes 2 salarios mínimos.
-
-VI Certificación de copias de documentos.
-
-Por hoja 0.25 salarios mínimos.
-
-VII. Certificación de copias de planos.
-
-4 salarios mínimos.
-
-VIII. Inspección técnica.
-
-Por lote 2 salarios mínimos.
-
-IX. Reproducción de planos.
-
-4 salarios mínimos.
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-X. Estudios socioeconómicos a solicitante de lote.
-
-0.16 salario mínimo.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 53-C.
 
-Por los servicios prestados por la Secretaría de Desarrollo Regional en materia de medio ambiente, se causarán y pagarán los derechos siguientes:
-
-I.- Por la verificación en materia de impacto ambiental para la autorización de los proyectos de obras o actividades.
-
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-A).- Por concepto de recepción, evaluación y autorización del informe preventivo.
-
-USO/RANGO
-
-De 1 a 5,000 M2
-
-Salarios mínimos.
-
-Habitacional Residencial 1°, 2° y 3° orden 15
-
-Interés social 10
-
-Popular 10
-
-Campestre Habitacional 10
-
-Industrial 30
-
-Comercial 30
-
-Servicios 20
-
-USO/RANGO
-
-De 5,001 a 10,000 M2
-
-Salarios mínimos
-
-Habitacional Residencial 1°, 2° y 3° orden 20
-
-Interés social 15
-
-Popular 10
-
-Campestre Habitacional 15
-
-Industrial 35
-
-Comercial 35
-
-Servicios 25
-
-USO/RANGO
-
-De 10 001 a 30,000 M2
-
-Salarios mínimos
-
-Habitacional Residencial 1°, 2° y 3° orden 25
-
-Interés social 20
-
-Popular 15
-
-Campestre Habitacional 20
-
-Industrial 40
-
-Comercial 40
-
-Servicios 30
-
-USO/RANGO
-
-De 30,001 a 50,000 M2
-
-Salarios mínimos
-
-Habitacional Residencial 1°, 2° y 3° orden 30
-
-Interés social 25
-
-Popular 20
-
-Campestre Habitacional 25
-
-Industrial 45
-
-Comercial 45
-
-Servicios 35
-
-USO/RANGO
-
-De 50,001 a 100,000 M2
-
-Salarios mínimos
-
-Habitacional Residencial 1°, 2° y 3° orden 35
-
-Interés social 30
-
-Popular 25
-
-Campestre Habitacional 30
-
-Industrial 50
-
-Comercial 50
-
-Servicios 40
-
-USO/RANGO
-
-Más de 100,000 M2
-
-Salarios mínimos
-
-Habitacional Residencial 1°, 2° y 3° orden 40
-
-Interés social 35
-
-Popular 30
-
-Campestre Habitacional 35
-
-Industrial 55
-
-Comercial 55
-
-Servicios 45
-
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-B).-Por concepto de recepción, evaluación y actualización de la manifestación de Impacto Ambiental.
-
-USO/RANGO
-
-De 1 a 5,000 M2
-
-Salarios mínimos
-
-Habitacional Residencial 1°, 2° y 3° orden 20
-
-Interés social 15
-
-Popular 15
-
-Campestre Habitacional 15
-
-Industrial 35
-
-Comercial 35
-
-Servicios 25
-
-USO/RANGO
-
-De 5,001 a 10,000 M2
-
-Salarios mínimos
-
-Habitacional Residencial 1°, 2° y 3° orden 25
-
-Interés social 20
-
-Popular 15
-
-Campestre Habitacional 20
-
-Industrial 40
-
-Comercial 40
-
-Servicios 30
-
-USO/RANGO
-
-De 10,001 a 30,000 M2
-
-Salarios mínimos
-
-Habitacional Residencial 1°, 2° y 3° orden 30
-
-Interés social 25
-
-Popular 20
-
-Campestre Habitacional 25
-
-Industrial 45
-
-Comercial 45
-
-Servicios 35
-
-USO/RANGO
-
-De 30,001 a 50,000 M2
-
-Salarios mínimos
-
-Habitacional Residencial 1°, 2° y 3° orden 35
-
-Interés social 30
-
-Popular 25
-
-Campestre Habitacional 30
-
-Industrial 50
-
-Comercial 50
-
-Servicios 40
-
-USO/RANGO
-
-De 50,001 a 100,000 M2
-
-Salarios mínimos
-
-Habitacional Residencial 1°, 2° y 3° orden 45
-
-Interés social 40
-
-Popular 35
-
-Campestre Habitacional 40
-
-Industrial 60
-
-Comercial 60
-
-Servicios 50
-
-> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-C).- Por la inscripción de prestadores de servicios que realicen estudios de impacto ambiental.
-
-40 salarios mínimos.
-
-> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-D).-Por refrendo anual de la inscripción al padrón de prestadores de servicios.
-
-20 salarios mínimos
-
-> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-E).- Por copia certificada de documentos.
-
-Por hoja 0.25 salario mínimo
-
-> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-F).- Por visita de inspección locales y/o foráneas con reporte fotográfico para emitir dictámenes técnicos en materia de impacto ambiental.
-
-USO/RANGO
-
-Salarios mínimos
-
-Zonas
-
-A B C
-
-Habitacional Residencial de 1°, 2° y 3° orden 8 10 12
-
-Interés Social 6 8 10
-
-Popular 4 6 8
-
-Campestre Habitacional 6 8 10
-
-Industrial 10 12 14
-
-Comercial 10 12 14
-
-Servicios 10 12 14
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-g) Por concepto de recepción, evaluación y autorización del proyecto de sistema de tratamiento de aguas residuales, independientemente del uso o rango.
-
-60 salarios mínimos.
-
-USO/RANGO
-
-De 5 a 50
-
-Lotes/Hab. Uni. o Multifam.
-
-Habitacionales Salarios mínimos
-
-Primer orden 20
-
-Segundo orden 15
-
-Tercer orden 15
-
-De interés social 15
-
-Populares 15
-
-USO/RANGO
-
-De 51 a 150
-
-Lotes/Hab. Uni. o Multifam.
-
-Habitacionales Salarios mínimos
-
-Primer orden 25
-
-Segundo orden 20
-
-Tercer orden 20
-
-De interés social 20
-
-Populares 20
-
-USO/RANGO
-
-De 151 a 300
-
-Lotes/Hab. Uni. o Multifam.
-
-Habitacionales Salarios mínimos
-
-Primer orden 30
-
-Segundo orden 25
-
-Tercer orden 25
-
-De interés social 25
-
-Populares 25
-
-USO/RANGO
-
-De 301 a 500
-
-Lotes/Hab. Uni. o Multifam.
-
-Habitacionales Salarios mínimos
-
-Primer orden 35
-
-Segundo orden 30
-
-Tercer orden 30
-
-De interés social 30
-
-Populares 30
-
-USO/RANGO
-
-De 501 a 1,000
-
-Lotes/Hab. Uni. o Multifam.
-
-Habitacionales Salarios mínimos
-
-Primer orden 40
-
-Segundo orden 35
-
-Tercer orden 35
-
-De interés social 35
-
-Populares 35
-
-USO/RANGO
-
-De más de 1,000
-
-Lotes/Hab. Uni. o Multifam.
-
-Habitacionales Salarios mínimos
-
-Primer orden 45
-
-Segundo orden 40
-
-Tercer orden 40
-
-De interés social 40
-
-Populares 40
-
-Fraccionamientos
-
-Salarios mínimos
-
-Campestres habitacionales 15
-
-Campestres Agropecuarios 20
-
-Industriales:
-
-Pequeña Industria 40
-
-Mediana Industria 50
-
-Gran Industria 60
-
-USO/RANGO
-
-De 1 a 5,000 M2
-
-Salarios Mínimos
-
-Comercial 35
-
-Servicios 25
-
-USO/RANGO
-
-De 5,001 a 10,000 M2
-
-Salarios Mínimos
-
-Comercial 40
-
-Servicios 30
-
-USO/RANGO
-
-De 10,001 a 30,000 M2
-
-Salarios Mínimos
-
-Comercial 45
-
-Servicios 35
-
-USO/RANGO
-
-De 30,001 a 50,000 M2
-
-Salarios Mínimos
-
-Comercial 50
-
-Servicios 40
-
-USO/RANGO
-
-De 50,001 a 100,000 M2
-
-Salarios Mínimos
-
-Comercial 55
-
-Servicios 45
-
-USO/RANGO
-
-Más de 100,000 M2
-
-Salarios Mínimos
-
-Comercial 60
-
-Servicios 50
-
-> <small>(ADICIONADA, G.O 30 DE DICIEMBRE DE 1999)</small>
-
-III. Verificación industrial de emisiones de contaminación atmosférica.
-
-Por concepto de recepción, evaluación y otorgamiento de licencia ambiental de funcionamiento.
-
-60 salarios mínimos.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 53-D.
 
-Por los servicios prestados por la Secretaría de Desarrollo Regional a través de la Dirección General de Ordenamiento Urbano y Regional en su Subdirección de Control Urbano, se causarán y cobrarán los siguientes derechos:
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-I. Certificación de documentos.
-
-Por hoja 0.25 salario mínimo
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-II. Certificación de copias de planos.
-
-2 salarios mínimos
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-III. Estudio y expedición de licencias de uso de suelo, actualización y reconsideración de las mismas, así como regularizaciones de uso del suelo.
-
-Uso pretendido Salarios mínimos
-
-Residencial 41
-
-Interés social 32
-
-Popular 22
-
-Comercial 60
-
-Turístico 60
-
-Industrial 60
-
-Agropecuario 41
-
-Servicios 32
-
-Mixto 60
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-IV. Dictaminación y trámite para la modificación de programa urbano.
-
-Uso pretendido Salarios mínimos
-
-Residencial 62
-
-Interés social 48
-
-Interés popular 33
-
-Comercial 90
-
-Turístico 90
-
-Industrial 90
-
-Reserva Ecológica 62
-
-Servicios 48
-
-Mixto 90
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-V. Elaboración de dictamen de desarrollo urbano integral.
-
-Uso pretendido Salarios mínimos
-
-Residencial 51
-
-Interés social 39
-
-Interés popular 27
-
-Comercial 75
-
-Turístico 75
-
-Industrial 75
-
-Agropecuario 51
-
-Servicios 40
-
-Mixto 75
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-VI. Elaboración de constancia de zonificación.
-
-2 salarios mínimos.
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-VII. Evaluación y dictaminación para la autorización o regularización de fusiones y subdivisiones. Por superficie de la o las fracciones que se desprenden o fusionan:
-
-Rango Salarios mínimos
-
-De 1 a 500 m2 6
-
-De 501 a 1000 m2 10
-
-De 1001 a 3000 m2 18
-
-De 3001 a 5000 m2 28
-
-De 5001 a 10,000 m2 45
-
-Por cada 10,000 m2 53
-
-Para las fracciones intermedias entre cada 1,000 m2, se sumará el pago de derechos que de acuerdo al rango de superficie le corresponda.
-
-> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-VIII. Evaluación y dictaminación para la autorización de publicación, proyecto de lotificación y relotificación, e inicio de obra parcial, así como la modificación o regularización del proyecto. Por superficie que se lotifica:
-
-Rango Salarios mínimos
-
-Hasta de 4,999 m2 21
-
-De 5,000 a 9,999 m2 26
-
-De 10,000 a 29,999 m2 31
-
-De 30,000 a 49,999 m2 36
-
-De 50,000 a 99,999 m2 41
-
-Por cada 100,000 m2 46
-
-Para las fracciones intermedias entre cada 100,000 m2, se sumará el pago de derechos que de acuerdo al rango de superficie le corresponda.
-
-> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-IX. Revisión y expedición del dictamen técnico-legal para la celebración del Convenio Notarial.
-
-Por trámite 33 salarios mínimos
-
-> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-X. Revisión y evaluación para la autorización de la preventa con reserva de dominio, así como traslado de dominio parcial y total. Por superficie se traslada:
-
-Rango Salarios mínimos
-
-Hasta de 4,999 m2 21
-
-De 5,000 a 9,999 m2 26
-
-De 10,000 a 29,999 m2 31
-
-De 30,000 a 49,999 m2 36
-
-De 50,000 a 99,999 m2 41
-
-Por cada 100,000 m2 46
-
-Para las fracciones intermedias entre cada 100,000 m2, se sumará el pago de derechos que de acuerdo al rango de superficie le corresponda.
-
-> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-XI. Evaluación, determinación y actualización del monto de fianza.
-
-Por trámite 10 salario mínimos
-
-> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-XII. Evaluación y dictaminación para la autorización o modificación del régimen de propiedad en condominio. Por metros cuadrados en construcción:
-
-Rango Salarios mínimos
-
-Hasta 100 m2 16
-
-De 101 a 200 m2 24
-
-De 201 a 300 m2 34
-
-De 301 a 400 m2 43
-
-De 401 a 500 m2 51
-
-De 501 a 1,000 m2 58
-
-Por cada 1,000 m2 de construcción 64
-
-Para las fracciones intermedias entre cada 1,000 m2, se sumará el pago de derechos que de acuerdo al rango de superficie le corresponda.
-
-> <small>(ADICIONADO. G.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 CAPITULO DECIMOPRIMERO
 
@@ -2989,309 +539,125 @@ DE LOS DERECHOS POR SERVICIOS
 
 DIVERSOS
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1985)</small>
-
 ###### ARTICULO 54.
 
-Por servicios diversos prestados por dependencias de los Poderes Legislativo y Ejecutivo, se causarán y pagarán los derechos siguientes:
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
-
-I.- Por copias certificadas de escrituras de protocolo por cada hoja o fracción.
-
-0.25 salario mínimo
-
-> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 1992)</small>
-
-III.-Por la expedición de certificados de sanidad animal otorgados por la Secretaría de Desarrollo Agropecuario y Pesquero.
-
-Por cada animal 7 salarios mínimos
-
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
-
-IV.- POR LA EXPEDICION DE COPIAS CERTIFICADAS DE DILIGENCIAS DE AVERIGUACIONES PREVIAS, POR CADA HOJA O FRACCION.
-
-0.25 SALARIO MINIMO
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 55.
 
-Las cuotas señaladas en este Título para certificados o copias certificadas se entienden referidas a documentos que se expiden en hojas de papel que no excedan de 35 centímetros de largo por 24 centímetros de ancho y no deben contener más de 80 renglones en junto, por ambos lados, los certificados o copias certificadas en hojas de mayor dimensión o mayor número de renglones, causarán doble cuota.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 ## TITULO TERCERO. DE LAS CONTRIBUCIONES POR MEJORAS
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 56.
 
-Los propietarios o en su caso los poseedores de bienes inmuebles beneficiados por la ejecución de obras públicas, están obligados a pagar las contribuciones que señala el presente capítulo de acuerdo con los siguientes conceptos:
-
-I.-Obras Públicas en regiones urbanas:
-
-a).-Redes de distribución de agua potable, ampliación y prolongación de las mismas, alcantarillado, desagüe y obras conexas, y entubamiento de aguas de ríos, arroyos y canales;
-
-b).-Las de construcción y reconstrucción de banquetas y alumbrado público;
-
-c).-Las de pavimentación de calles y avenidas;
-
-d).-Apertura, ampliación y prolongación de calles y avenidas; y
-
-e).-Apertura y ampliación de plazas, parques y obras similares.
-
-II.-Obras Públicas en regiones rústicas:
-
-a).-Construcción de vías de comunicación; y
-
-b).-Construcción de obras de regadío.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 57.
 
-Para que causen las contribuciones a que se refiere la fracción I incisos a), b) y c) del artículo anterior, será necesario que los bienes inmuebles beneficiados se encuentren en algunas de las siguientes circunstancias:
-
-I.-Si son exteriores, que tengan frente a la calle donde se hubieren ejecutado las obras; y
-
-II.-Si son interiores que tengan acceso a la calle donde se hubieren ejecutado las obras.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 58.
 
-Tratándose de las obras a que se refieren los incisos d) y e) de la fracción I y de la fracción II del artículo 56, se considerarán bienes inmuebles beneficiados y como consecuencia causarán las contribuciones correspondientes.
-
-I.-En obras de regadío los bienes inmuebles que reciben el beneficio de riego; y
-
-II.-En los demás casos los bienes inmuebles comprendidos dentro de la zona o región beneficiada, la que será determinada previamente en los planes y proyectos aprobados.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 59.
 
-Están obligados a pagar las contribuciones por mejoras:
-
-I.-Los propietarios de los bienes inmuebles a que se refieren los artículos anteriores;
-
-II.-Los poseedores de dichos bienes inmuebles, en los siguientes casos:
-
-a).-Cuando no exista propietario; y
-
-b).-Cuando la posesión del bien inmueble se derive de contratos de promesa de venta de certificados de participación inmobiliaria, mientras esos contratos están en vigor y no se traslada el dominio del bien inmueble.
-
-En los casos de nuevos fraccionamientos, si se trata de obras de conexión de redes de aguas potables o de sistemas de atarjeas, las contribuciones estarán a cargo de las empresas fraccionadoras de terrenos.
-
-Tratándose de bienes inmuebles propiedad de la Federación, del Estado o de los Municipios no se causarán dichas contribuciones por mejoras.
-
-No se concederá ninguna exención de pago por contribuciones por mejoras a los organismos públicos descentralizados o de participación estatal. En consecuencia estas entidades e instituciones están obligadas a su pago, aun cuando sus leyes especiales les concedan esta franquicia.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 60.
 
-Los planes o proyectos referentes a la realización de cualquiera de las obras mencionadas en el artículo 56, deberán ser publicadas por lo menos quince días antes de su inicio en la 'Gaceta Oficial' del Estado, para que los contribuyentes hagan valer sus derechos, conteniendo los siguientes datos:
-
-I.-Naturaleza de la obra, con especificación si se trata de construcción o ampliación de la ya existente;
-
-II.-Determinación del perímetro de la zona que se beneficia con la obra, en su caso;
-
-III.-Costo total de la obra;
-
-IV.-Deducciones, en su caso tales como:
-
-a).-Aportaciones de los gobiernos Federal y municipales;
-
-b).-Donativos de los particulares;
-
-c).-Recuperaciones por venta de excedentes de bienes inmuebles expropiados;
-
-V.-Costo neto;
-
-VI.-Relación de los bienes inmuebles beneficiados, señalando su propietario o poseedor; y
-
-VII.-Cuota unitaria correspondiente a cada bien inmueble beneficiado.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 61.
 
-El importe de una obra, que deberá derramarse en los términos del artículo anterior, estará formado por los conceptos que enseguida se mencionan, menos las deducciones a que se refiere la fracción IV de artículo 60:
-
-I.-El importe de los gastos de planeación entre los que se habrán de incluir: costos de estudios estadísticos, económicos, topográficos y de ingeniería en general:
-
-II.-Importe de indemnizaciones que deban cubrirse con motivo de la expropiación de bienes inmuebles para la realización de la obra;
-
-III.-Importe de todas las erogaciones inherentes a la ejecución material de la obra.
-
-En ningún caso el importe neto de la construcción podrá ser superior al resultado aritmético de los conceptos indicados.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 62.
 
-Tratándose de los casos comprendidos en la fracción I del artículo 56, excepto los incisos d) y e), para la determinación y cobro de las contribuciones por mejoras, se aplicarán las cuotas unitarias que se obtengan dividiendo el costo neto de la obra entre la suma de los metros lineales de los frentes de cada bien inmueble beneficiado, en los siguientes casos:
-
-I.-En materia de redes de distribución de agua potable, drenaje, y alcantarillado, son bienes inmuebles beneficiados los de ambas aceras si se trata de una o más tuberías instaladas en la calle, pero que presten servicio a las dos;
-
-II.-Si la tubería queda instalada en uno de los lados de la calle y sólo presta servicio a los predios de la acera más cercana, son inmuebles beneficiados los de ésta;
-
-III.-En los casos de banquetas, son bienes inmuebles beneficiados, los adyacentes a las banquetas construidas en cada acera;
-
-IV.-En los casos de alumbrado público son bienes inmuebles beneficiados los de ambas aceras, independientemente de donde se coloquen los postes y lámparas;
-
-V.-En los casos de pavimentación de calles y avenidas son inmuebles beneficiados:
-
-a).-Los de ambas aceras cuando la pavimentación cubra la totalidad del arroyo;
-
-b).-Los de la acera más cercana a la faja pavimentada partiendo del eje del arroyo, si ésta cubre la mitad o menos de la mitad; y
-
-c).-Los de ambas aceras cuando la obra de pavimentación cubra ambos lados del eje del arroyo, en función al número de metros cuadrados de pavimento que cubra cada mitad del arroyo.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 63.
 
-Tratándose de los casos comprendidos en los incisos d) y e) de la fracción I y a) de la fracción II del artículo 56, para la determinación y cobro de las contribuciones por mejoras se aplicará el factor que se obtendrá de acuerdo a lo siguiente:
-
-I.-Se determinará la zona beneficiada y los índices de influencia dentro de la zona; y
-
-II.-Se sumarán los valores que sirvan de base para el pago del Impuesto Predial de los bienes inmuebles ubicados en la zona de beneficio, ajustados con los índices de influencia respectivos. El costo neto de la obra se dividirá entre la suma anterior, el cociente será el factor aplicable.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 64.
 
-Tratándose de los casos comprendidos en el inciso b) de la fracción II del artículo 56, para la determinación y cobro de las contribuciones por mejoras, se obtendrá un factor de acuerdo a lo siguiente:
-
-Las tierras beneficiadas se clasificarán según la calidad y la categoría que vayan a adquirir con las obras de regadío. Se hará un cálculo pericial del valor que vayan a alcanzar con el beneficio de la obra; el costo de la obra se dividirá entre el mencionado valor pericial total de los bienes inmuebles beneficiados y el cociente será el factor aplicable.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 65.
 
-Las contribuciones por mejoras se causan al terminarse y ponerse en servicio las obras, y se liquidarán de acuerdo a lo siguiente:
-
-I.-Para los casos de las obras comprendidas en los incisos a), b) y c) de la fracción I del artículo 56, se multiplicará la cuota unitaria por el número de metros lineales de frente de cada bien inmueble beneficiado, el resultado será el importe de la contribución; y
-
-II.-Para los casos de las obras comprendidas en los incisos d) y e) de la fracción I y II del artículo 56, se multiplicará el factor obtenido por el valor que sirva de base para el pago del Impuesto Predial de los bienes inmuebles beneficiados, el resultado será el importe de la contribución.
-
-Las contribuciones por mejoras se pagarán en dos años que podrán ampliarse a 5 años cuando los deudores comprueben que su situación económica no les permite hacer el pago en el plazo señalado. Para las obras en regiones rústicas, el plazo máximo indicado podrá ampliarse de acuerdo con la magnitud de la obra.
-
-Para los efectos del pago de estas contribuciones, el adeudo que resulte a cada contribuyente se fraccionará en partes iguales que se pagarán bimestralmente en el curso del segundo mes de cada bimestre, debiéndose hacer el primer pago en el bimestre siguiente al que se notifique el adeudo.
-
-Los deudores tendrán una bonificación de un 20% del importe total de las contribuciones, cuando anticipen su pago total. Se tendrá como anticipado el pago, cuando se haga antes de que venza el plazo dentro del cual deba hacerse el primer pago parcial. En los casos de predios expropiados para la realización de una obra, los propietarios tendrán derecho a que se les compense la contribución que adeuden hasta el monto de la indemnización.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 66.
 
-Los notarios, corredores y funcionarios con fe pública, no autorizarán ningún contrato de compraventa, cesión o cualquier otro que tenga por objeto la enajenación de bienes inmuebles, si no se les demuestra por medio de recibos o boletas y constancias de no adeudo, que el bien inmueble de que se trata está al corriente del pago de las contribuciones que establece el título. En caso de que existan créditos no vencidos a la fecha de la escrituración, los fedatarios señalados anteriormente podrán autorizarla, siempre y cuando acepte el adquiriente dicho crédito y se haga constar en el texto de la misma.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 ## TITULO CUARTO. DE LOS PRODUCTOS
 
-### CAPITULO UNICO
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 1999)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 67.
 
-Quedan comprendidos como productos los ingresos que obtiene el estado por concepto de:
-
-I.-Venta de bienes muebles e inmuebles propiedad del Estado;
-
-II.-El importe del arrendamiento de bienes muebles o inmuebles propiedad del Estado;
-
-III.-La explotación o enajenación de cualquier naturaleza de los bienes propiedad del Estado;
-
-IV.-Los capitales y valores del Estado;
-
-V.-Los bienes de beneficencia;
-
-VI.-Los establecimientos y empresas del Estado;
-
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-VII.-Los productos provenientes de la "Gaceta Oficial" del Gobierno del Estado y Publicaciones de las mismas diferentes a los señalados en el artículo 46-B.
-
-VIII.-Los productos provenientes de la venta de impresos y papel especial;
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-IX. Almacenaje o guarda de bienes;
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-X. Provenientes de archivo;
-
-> <small>(REFORMADA, G.O.30 DE DICIEMBRE DE 1999)</small>
-
-XI. Los productos provenientes de la Dirección de Catastro;
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-XII. Venta de engomados de verificación vehicular;
-
-> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-XIII. Diversos.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 68.
 
-El importe de los productos señalados en el artículo anterior, será fijado por el Ejecutivo del Estado.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 69.
 
-Los productos por conceptos diversos a los señalados en el artículo 67, se cobrarán de acuerdo con los contratos celebrados al respecto o en los términos de las concesiones respectivas y de conformidad con las leyes o disposiciones aplicables.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 ## TITULO QUINTO. DE LOS APROVECHAMIENTOS
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 70.
 
-Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Estado por concepto de:
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
-I.-Recargos;
-
-II.-Reintegros e indemnizaciones;
-
-III.-Subsidios;
-
-IV.-Multas;
-
-V.-Cauciones cuyas pérdidas se declaren por resolución firme a favor del Estado;
-
-VI.-Bienes y Herencias vacantes, Tesoros ocultos, herencias, legados, donaciones y otros conceptos en favor del Estado;
-
-VII.-Honorarios;
-
-VIII.-(DEROGADA, G.O. 28 DE DICIEMBRE DE 1995)
-
-IX.-Aportaciones del Gobierno Federal y de terceros para obras y servicios públicos a cargo del Gobierno del Estado para obras de beneficio social;
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1999)</small>
-
-X. Los gastos de ejecución, en los términos del reglamento para el cobro y aplicación de honorarios por notificación de créditos y gastos de ejecución.
-
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-XI.-Ingresos causados en ejercicios fiscales anteriores, pendientes de liquidación o de pago.
-
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-XII.-Aprovechamiento diversos.
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
 ## TITULO SEXTO. DISPOSICIONES GENERALES
 
-### CAPITULO UNICO
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE, G.O. 3 DE ABRIL DE 2001)</small>
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 71.
 
-Las resoluciones que en relación con esta Ley dicte la Secretaría de Finanzas y Planeación, sólo podrán ser impugnadas en la forma y términos que señala el Código Fiscal del Estado.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 72.
 
-Las infracciones a las disposiciones de esta Ley serán sancionadas de conformidad con lo previsto por el Código Fiscal del Estado.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 73.
 
-Se faculta al Ejecutivo del Estado para:
-
-I.-Suprimir, modificar o adicionar las disposiciones relativas a la administración y control, sin variar las relativas al objeto, sujeto, base, cuota, tasa o tarifa del gravamen, infracciones o sanciones; y
-
-II.-Crear, suprimir, o modificar las tasas o tarifas de los productos.
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 74.
 
-Para los efectos de esta Ley, se entiende por salario mínimo, el salario mínimo diario general que esté vigente en la zona económica de que se trate.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ###### ARTICULO 75.
 
-Todos los ingresos que tenga derecho a percibir el Estado, deberán pagarse en las Oficinas de Hacienda, incluyendo las multas administrativas y judiciales.
+(DEROGADO, G.O. 3 DE ABRIL DE 2001)
 
 ## TRANSITORIOS
 
@@ -3455,4 +821,18 @@ Artículo tercero. Las personas físicas o morales, que con anterioridad al entr
 
 Artículo cuarto. Al entrar en vigor el impuesto por la prestación del servicio de hospedaje, éste no se causará durante el primer año de su vigencia, en los municipios afectados por las lluvias de octubre de 1999, que a continuación se mencionan:
 
-Alamo Temapache, Agua Dulce, Cazones de Herrera, Coahuitlán, Coxquihui, Coyutla, Chumatlán, Espinal, Filomeno Mata, Gutiérrez Zamora, Jáltipan, José Azuela, Las Minas, Martínez de la Torre, Minatitlán, Nautla, Papantla, Poza Rica, Santiago Tuxtla, Tamiahua, Tecolutla, Texistepec, Tihuatlán, Tlacotalpan, Tlapacoyan, Tuxpan, Xontecomatlán y Zozocolco de Hidalgo.
+Alamo Temapache, Agua Dulce, Cazones de Herrera, Coahuitlán, Coxquihui, Coyutla, Chumatlán, Espinal, Filomeno Mata, Gutiérrez Zamora, Jáltipan, José Azueta, Las Minas, Martínez de la Torre, Minatitlán, Nautla, Papantla, Poza Rica, Santiago Tuxtla, Tamiahua, Tecolutla, Texistepec, Tihuatlán, Tlacotalpan, Tlapacoyan, Tuxpan, Zontecomatlán y Zozocolco de Hidalgo.
+
+G.O. 3 DE ABRIL DE 2001
+
+PRIMERO. El presente Código entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del Estado, con excepción de lo dispuesto en el Capítulo Primero, del Título Primero, Libro Tercero, cuya entrada en vigor se sujetará a lo dispuesto en el siguiente artículo.
+
+SEGUNDO. Las disposiciones del Capítulo Primero, denominado Impuesto Sobre la Nóminas, del Título Primero, Libro Tercero de este Código, iniciarán su vigencia a partir del día siguiente al en que entren en vigor las modificaciones, reformas, adiciones y derogaciones a la Ley de Ingresos del Estado.
+
+TERCERO. Se derogan los siguientes ordenamientos legales:
+
+Código Fiscal para el Estado de Veracruz-Llave, Ley de Hacienda del Estado, con excepción del Capítulo Primero, del Título Primero, denominado Del Impuesto Sobre Transporte Público en Zonas Urbanas, Suburbanas y Foráneas, el cual estará vigente hasta en tanto no se reforme la Ley de Hacienda Municipal en lo relativo a este gravamen; Ley de Presupuesto, Contabilidad y Gasto Público del Estado y la Ley de Deuda Pública del Estado.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo previsto por este Código.
+
+QUINTO. Publíquese en la Gaceta Oficial del Estado para los efectos de su obligatoriedad.
