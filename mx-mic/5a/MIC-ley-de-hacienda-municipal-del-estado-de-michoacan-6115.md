@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-6115"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1989-12-28"
+last_updated: "1990-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1990.
 
 Ley publicada en Sección Segunda del Periódico Oficial del Estado de Michoacán, el sábado 31 de diciembre de 1983.
 
@@ -41,9 +41,11 @@ LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 1o.
 
-La Hacienda Pública de los Municipios del Estado de Michoacán, para cubrir los gastos de su administración y demás obligaciones a su cargo, percibirá en cada ejercicio fiscal los ingresos por concepto de impuestos, derechos, contribuciones especiales, productos y aprovechamientos que anualmente establezcan las leyes fiscales correspondientes, así como las participaciones en ingresos Federales y Estatales.
+La Hacienda Pública de los Municipios del Estado de Michoacán, para cubrir los gastos de su administración y demás obligaciones a su cargo, percibirá en cada ejercicio fiscal los ingresos por concepto de Impuestos, Derechos, Contribuciones Especiales, Productos y Aprovechamientos que anualmente establezcan las leyes fiscales correspondientes, así como las Participaciones en Ingresos Federales.
 
 ###### ARTICULO 2o.
 
@@ -57,9 +59,11 @@ La Ley de Ingresos que anualmente expide el Congreso del Estado, como ordenamien
 
 #### Sección Primera. Del Objeto
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 3o.
 
-Es objeto de este impuesto:
+Es objeto del Impuesto Predial:
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
@@ -83,9 +87,11 @@ c) (DEROGADA, P.O. 29 DE DICIEMBRE DE 1986)
 
 #### Sección Segunda. De los Sujetos
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 4o.
 
-Son sujetos de este impuesto:
+Son sujetos del Impuesto Predial:
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -123,39 +129,55 @@ VI.- Los funcionarios y empleados públicos que autoricen algún acto jurídico 
 
 #### Sección Tercera. De la Base
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 6o.
 
-La base de este impuesto será la siguiente:
+La base del Impuesto Predial será la siguiente:
 
-I.- Tratándose de predios urbanos o rústicos, el mayor de los siguientes:
+> <small>(REFORMADA, P.O 20 DE DICIEMBRE DE 1990)</small>
 
-a) El valor catastral;
+I. Tratándose de predios urbanos y rústicos, el mayor de los siguientes:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O 20 DE DICIEMBRE DE 1990)</small>
 
-b) El valor de la operación de transmisión de dominio si es posterior al señalamiento del valor catastral. Este valor tendrá carácter de provisional.
+a) El valor catastral registrado o el que se registre como consecuencia de avalúos que practique la Tesorería General del Estado, conforme a la Ley de Catastro del Estado de Michoacán.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O 20 DE DICIEMBRE DE 1990)</small>
 
-c) El valor del avalúo que al efecto practique la Tesorería General del Estado, donde se encuentre ubicado el predio, con base en la Ley de Catastro del Estado.
+b) El valor de la operación de transmisión de dominio si es posterior al señalamiento del valor catastral o el de avalúo que en su caso determine perito autorizado. En ambos casos este valor será ratificado o rectificado por la Tesorería General del Estado, en los términos de la Ley de Catastro del Estado de Michoacán, en un plazo que no excederá de cuatro meses, contados a partir de la fecha de su registro catastral.
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+c) (DEROGADA, P.O. 20 DE DICIEMBRE DE 1990)
 
-II. Tratándose de condominios, la Tesorería General del Estado determinará el valor catastral que le corresponda a cada apartamento, vivienda o local, con base en la ley de Catastro, y éste entrará en vigor a partir del bimestre siguiente a la fecha en que se haya autorizado preventivamente la escritura de constitución del condominio. Si éste se constituye sin estar terminadas las construcciones, el impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron o de sus causa-habientes.
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
-En estos casos la base se aplicará a cada uno de los apartamentos, viviendas o locales a partir del bimestre siguiente a la fecha de la terminación de los mismos o de la fecha en que sean ocupados sin estar terminados, y cada uno se empadronará por separado.
+II. Tratándose de condominios, la Tesorería General del Estado, determinará la base del impuesto, mediante avalúos catastrales que practique a cada apartamento, vivienda o local, conforme a la Ley de Catastro del Estado de Michoacán. Dichos avalúos podrán practicarse a partir de la fecha en que se haya autorizado preventivamente la escritura de constitución del condominio.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+
+Si los condominios se constituyen sin estar terminada su construcción la base de este impuesto será el valor catastral del total del terreno. A partir de la fecha de terminación de su construcción, la base de este impuesto se determinará conforme al primer párrafo de esta fracción.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+
+Los avalúos que practique la Tesorería General del Estado, para determinar la base de este impuesto, surtirán efectos a partir del siguiente bimestre a aquel en que se notifiquen y los valores catastrales que se determinen, tendrán vigencia de un año. Asimismo tendrá vigencia de un año, la base de este impuesto que se determine conforme al artículo 7o. de esta Ley y su vigencia iniciará a partir del siguiente bimestre a aquel en que haya vencido el avalúo que le dio origen o en que haya vencido la nueva base.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
 Independientemente de lo establecido en este artículo, la base para la determinación de este impuesto para el año de que se trate, en ningún caso podrá ser inferior al equivalente a 25 días del salario mínimo general vigente al 31 de diciembre del año anterior, tratándose de predios urbanos y de 12 días tratándose de predios rústicos.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 7o.
 
-Servirán de base para, el cobro de este impuesto, los avalúos practicados conforme a las disposiciones de la Ley de Catastro del Estado, a partir del bimestre siguiente de la fecha de su notificación.
+Independientemente del valor que se considere como base de este impuesto en los términos del artículo anterior, ésta se incrementará cada año, sin que ello constituya revaluación de los predios en los términos de la Ley de Catastro del Estado de Michoacán, y sin necesidad de que estos nuevos valores sean notificados a los contribuyentes, para que tengan previa validez, en la siguiente forma:
 
-No obstante lo establecido en el párrafo anterior, la base para el cobro de este impuesto se aumentará cada año aplicando el 50% del incremento al salario mínimo general del año inmediato anterior, sin que ello constituya revaluación de los predios en los términos de la Ley de Catastro del Estado, y sin necesidad de que estos nuevos valores sean notificados a los contribuyentes para que tengan plena validez.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+
+A lo que resulte de multiplicar dicha base, por el factor que se obtenga de dividir el Indice Nacional de Precios al Consumidor, que publique el Banco de México, del segundo mes del bimestre en que los avalúos hayan vencido, entre el Indice Nacional de Precios al Consumidor del segundo mes del bimestre en que hayan sido notificados.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+
+La base que resulte conforme al párrafo anterior, se incrementará cada año en los términos del primer párrafo de este artículo, a lo que resulte de multiplicar dicha base por el factor que se obtenga de dividir el lndice Nacional de Precios al Consumidor que publique el Banco de México, del mes del vencimiento, entre el Indice Nacional de Precios al Consumidor del mismo mes del año precedente.
 
 ###### ARTICULO 8o.
 
@@ -163,9 +185,9 @@ En los casos en que no sea posible determinar el valor catastral de los predios,
 
 ###### ARTICULO 9o.
 
-La nueva base surtirá efectos:
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 1990)
 
-I.- A partir del bimestre siguiente a aquel en que se produzca el hecho, acto o contrato que le dé origen.
+I.- A partir del bimestre siguiente a aquél en que se produzca el hecho, acto o contrato que le dé origen.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
@@ -199,15 +221,15 @@ A) Los predios destinados a planteles escolares donde se imparta enseñanza pree
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
-B) Los predios que perteneciendo a particulares, estén destinados a un servicio público gratuito autorizado por el Estado o por el Gobierno Municipal, siempre que por los mismos sus propietarios no perciban renta.
+B) Los predios que perteneciendo particulares, estén destinados a un servicio público gratuito autorizado por el Estado o por el Gobierno Municipal, siempre que por los mismos sus propietarios no perciban renta.
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
 C) Los predios propiedad de asociaciones, fundaciones e instituciones de beneficencia pública o privada y asociaciones deportivas o sociales que no tengan fines lucrativos, siempre que dichos inmuebles estén destinados directamente a los fines de las mismas.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
-D) Los predios cuyo valor catastral; no exceda del equivalente a 3,600 veces el salario mínimo general diario vigente al 31 de diciembre del año inmediato anterior, de la zona económica en la que se ubique el predio, y pertenezcan a:
+D) Los predios cuyo valor catastral no exceda del equivalente a 10 veces el salario mínimo general elevado al año, vigente al 31 de diciembre del año inmediato anterior, de la zona económica a que corresponda el Estado de Michoacán y pertenezcan a:
 
 a) Veteranos de la revolución
 
@@ -215,17 +237,21 @@ b) Personas incapacitadas físicamente para trabajar
 
 c) Jubilados y pensionados, siempre y cuando no perciban ingresos por otros conceptos.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+
+Para los efectos a que se refieren los subincisos a), b) y c) del inciso D) de este artículo, el pago de la cuota mínima anual, procederá siempre y cuando se trate de un solo precio.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 11.
 
-La tasa de este impuesto se modificará cuando:
+Las tasas del Impuesto Predial se modificarán cuando:
 
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
-I.- Se realice alguna de las causas que establece la Ley de Catastro para practicar nuevo avalúo; y
+I. Se realice alguna de las causas que establece la Ley de Catastro para practicar nuevo avalúo.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-II.- Cuando por cualquier circunstancia el predio no sea revaluado.
+II.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 1990)
 
 III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1988)
 
@@ -261,17 +287,17 @@ La Tesorería Municipal determinará el monto del impuesto, de conformidad con l
 
 Este impuesto es anual y se dividirá en seis partes iguales que se pagarán bimestralmente, dentro del bimestre que corresponda.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 18.
 
-El pago del impuesto podrá efectuarse totalmente durante los meses de enero y febrero, sin que ello libere del pago de las diferencias que resulten con motivo del cambio del valor catastral.
+El pago del Impuesto Predial podrá efectuarse totalmente, dentro de los meses de enero y febrero de cada año, sin que ello libere del pago de las diferencias que resulten con motivo del cambio de la base, como consecuencia de avalúo catastral o de su incremento en los términos de los artículos 6o. y 7o. de esta Ley.
 
-En el caso de la cuota mínima del impuesto que señale la Ley de Ingresos para los Municipios del Estado de Michoacán, el pago deberá efectuarse en una sola exhibición durante los meses de enero y febrero de cada año.
+En el caso de la cuota mínima del impuesto que señale la Ley de Ingresos para los Municipios del Estado de Michoacán, su pago deberá efectuarse en una sola exhibición dentro de los meses de enero y febrero de cada año.
 
 ###### ARTICULO 19.
 
-Tratándose de cementerios, el impuesto a pagar durante el año, se liquidará sobre el valor catastral de la parte que no hubiese sido enajenada, durante el mes de enero del ejercicio de que se trate. En el mismo período, los sujetos de este impuesto manifestarán la superficie o gavetas que hubieran vendido el año anterior.
+Tratándose de cementerios, el impuesto a pagar durante el año, se liquidará sobre el valor catastral y la parte que no hubiese sido enajenada, durante el mes de enero del ejercicio de que se trate. En el mismo período, los sujetos de este impuesto manifestarán la superficie o gavetas que hubieran vendido el año anterior.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -297,13 +323,13 @@ Las constancias de no adeudo que se expidan a los Notarios Públicos, tendrán v
 
 Los Notarios deberán dar aviso a la Tesorería Municipal correspondiente, cuando los predios de que se trata, reporten adeudos fiscales por conceptos distintos de este impuesto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 23.
 
-En los casos de predios no empadronados y de las construcciones o ampliaciones que no hayan sido manifestadas oportunamente en la Tesorería Municipal respectiva, conforme a la Ley de Catastro del Estado y sean manifestadas espontáneamente, se pagará el impuesto que corresponda con base al avalúo practicado, a partir del bimestre siguiente a la fecha de su notificación más el que debió haberse efectuado durante el año inmediato anterior.
+Tratándose de predios no registrados en el Catastro del Estado, de construcciones nuevas, ampliaciones o modificaciones a las construcciones existentes, así como la fusión o división de predios, no manifestados a la Tesorería General del Estado, en los términos de la Ley de Catastro del Estado de Michoacán y que sean manifestados espontáneamente, se pagará el impuesto que corresponda con base en el avalúo practicado por la Tesorería General, a partir del bimestre siguiente a la fecha de su notificación, mas el que debió haberse efectuado durante el año inmediato anterior.
 
-Cuando los hechos sean descubiertos por la autoridad, se pagará el impuesto correspondiente a partir del siguiente bimestre a la fecha de notificación del avalúo, más el correspondiente a los cinco años anteriores, salvo que el sujeto pruebe que tales hechos o actos datan de fecha posterior, sin perjuicio de que se apliquen las sanciones que determina el Código Fiscal Municipal.
+Cuando los hechos sean descubiertos por la autoridad catastral, se pagará el impuesto correspondiente a partir del siguiente bimestre a la fecha de notificación del avalúo, más el correspondiente a los cinco años anteriores, salvo que el sujeto pruebe que tales hechos o actos datan de fecha posterior, sin perjuicio de las sanciones previstas en la Ley de Catastro del Estado de Michoacán.
 
 ###### ARTICULO 24.
 
@@ -325,9 +351,11 @@ Para los efectos de este impuesto, se estará a las definiciones previstas en el
 
 #### Sección Octava. De las Obligaciones, Manifestaciones y Avisos
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 27.
 
-Las manifestaciones y avisos de los particulares y Notarios Públicos, que exigen esta Ley y los Ordenamientos relativos, para efectos de este impuesto, deberán hacerse en las formas oficiales que apruebe la Tesorería Municipal y se presentarán en las propias Tesorerías donde esté ubicado el predio.
+Los sujetos de este impuesto o en su caso, los fedatarios públicos, estarán obligados a presentar los avisos transmitivos de dominio, en que se haga constar el valor de la operación o el determinado por perito autorizado, en las formas oficiales que apruebe la Tesorería Municipal y se presentarán en la Tesorería Municipal correspondiente al Municipio donde se ubique el predio.
 
 ###### ARTICULO 28.
 
@@ -377,7 +405,7 @@ I.- Cuando haya parcelamiento ejidal de la tierra, provisional o definitivo, el 
 
 II.- Tratándose de posesiones provisionales, los ejidatarios pagarán en el primer año, el 25% del Impuesto Predial que les corresponda; y en los subsecuentes el Impuesto aumentará en un 10% cada año, hasta alcanzar la cuota total, o hasta que se ejecute la resolución presidencial, de acuerdo con los avisos que dén las autoridades agrarias;
 
-III.- Las sociedades, agrupaciones, empresas o personas que exploten bosques de comunidades agrarias o de sociedades cooperativas agrícolas, están obligadas a exhibir a las autoridades fiscales las guías, contratos o documentos que sean necesarios para definir el Impuesto Predial Ejidal que corresponda al fisco municipal y para calcular el monto del impuesto de dichas comunidades; en la inteligencia de que el valor de esta tributación predial, no será determinado sobre la base de contratos de arrendamiento, sino sobre el producto total que se obtenga. De no exhibir esos documentos serán sancionados de conformidad con el Código Fiscal vigente.
+III.- Las sociedades, agrupaciones, empresas o personas que exploten bosques de comunidades agrarias o de sociedades cooperativas agrícolas, están obligadas a exhibir a las autoridades fiscales las guías, contratos o documentos que sean necesarios para definir el impuesto Predial Ejidal que corresponda al fisco municipal y para calcular el monto del impuesto de dichas comunidades; en la inteligencia de que el valor de esta tributación predial, no será determinado sobre la base de contratos de arrendamiento, sino sobre el producto total que se obtenga. De no exhibir esos documentos serán sancionados de conformidad con el Código Fiscal vigente.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
@@ -445,7 +473,7 @@ X. Enajenación a través de fideicomiso;
 
 XI. La división de la copropiedad y Ia disolución de la sociedad conyugal, por la parte que se adquiera en demasía del porciento que le correspondía al copropietario o cónyuge;
 
-XII. La celebración de contratos de arrendamiento financiero y la cesión de derechos del arrendatario financiero.
+XII. (DEROGADA, P.O. 20 DE DICIEMBRE DE 1990)
 
 En las permutas se considerará que se efectúan dos adquisiciones;
 
@@ -459,17 +487,17 @@ XIV. Adjudicación de la propiedad de inmuebles en virtud de remate judicial o a
 
 #### Sección Segunda. De los Sujetos y Responsables Solidarios
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 40.
 
-Están obligadas al pago de este impuesto, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en el suelo y las construcciones adheridas a él, ubicadas en el territorio del Estado, así como los derechos relacionados con los mismos inmuebles a que se refiere este impuesto.
+Están obligados al pago del Impuesto Sobre Adquisición del Inmuebles, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en el suelo y las construcciones adheridas a él, ubicados en el territorio del Estado, así como los derechos relacionados con los mismos inmuebles a que se refiere este impuesto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 41.
 
-Son solidariamente responsables del pago de este impuesto y sus accesorios los siguientes:
+Son solidariamente responsables del pago del Impuesto sobre Adquisición de Inmuebles y sus accesorios, los siguientes:
 
 I.- Los transmitentes, cuando el adquirente lo haya eludido;
 
@@ -485,47 +513,61 @@ III. Los demás funcionarios y empleados que inscriban o registren esta clase de
 
 IV. Los peritos valuadores autorizados que no apliquen correctamente en la valuación de predios los valores unitarios aprobados, atendiendo a la clasificación del terreno y construcción de que se trate, por las cantidades dejadas de recaudar.
 
-> <small>(REFORMADO SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
-#### Sección Tercera. De la Base
+#### Sección Tercera. De la Base y Tasa
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 42.
 
-La base gravable de este impuesto será el valor que resulte mayor entre el del avalúo practicado por perito autorizado, el consignado en el acto transmitivo de dominio, o el catastral, deduciendo de dicho valor mayor, cinco veces el salario mínimo general de la zona económica donde se ubique el inmueble elevado al año. Tratándose de adquisiciones de vivienda con crédito de interés social, la deducción será de diez veces.
+La base gravable del Impuesto sobre Adquisición de Inmuebles, será el valor que resulte mayor entre el de avalúo practicado por perito autorizado, el consignado en el testimonio en que se haga constar el acto transmitivo del dominio, el catastral registrado o el que se registre como consecuencia de rectificación del valor de operación o el de avalúo practicado por perito autorizado, dentro de los cuatro meses siguientes, contados a partir de la fecha del registro catastral de éstos.
 
-AI valor que resulte se aplicará la tasa que fije la Ley de Ingresos para los Municipios del Estado de Michoacán.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+Para los efectos de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del 50% del valor de la propiedad, determinado conforme al párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+
+El impuesto se calculará aplicando la tasa del 2% al valor del inmueble después de reducirlo en una vez el salario mínimo general elevado al año, de la zona económica a que corresponda el Estado de Michoacán. Tratándose de adquisiciones de vivienda mediante crédito de interés social, la reducción será de dos veces el referido salario.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 43.
 
-Para efectuar la deducción a que se refiere el artículo anterior, se aplicará el salario mínimo vigente en la fecha en que se den los supuestos a que se refiere el artículo 38 de esta Ley.
+Para efectuar la reducción a que se refiere el artículo anterior, se aplicará el salario mínimo vigente en la fecha en que se den los supuestos a que se refiere el artículo 38 de esta Ley.
 
-La deducción se realizará conforme a lo siguiente:
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
-I. Se considerarán como un solo inmueble los bienes que sean o resulten colidantes adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios, únicamente se tendrá derecho a hacer una sola vez la deducción, la que se calculará al momento en que se realice la primera adquisición.
+La reducción se realizará conforme a lo siguiente:
 
-Asimismo sólo tendrán derecho a hacer una deducción las personas físicas o morales que dentro del período antes mencionado, adquieran lotes en un mismo fraccionamiento, sin importar la distancia que dichos lotes guarden entre sí.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
-El adquirente deberá manifestar bajo protesta de decir verdad, al fedatario ante quien formalice toda adquisición, si el inmueble objeto de la operación se encuentra comprendido en alguno de los supuestos de este artículo para que se ajuste el monto de la deducción, pagando en su caso las diferencias del impuesto que correspondan.
+I. Se considerarán como un solo inmueble los bienes que sean o resulten colindantes adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios, únicamente se tendrá derecho a hacer una sola vez la reducción la que se calculará al momento en que se realice la primera adquisición.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+Asimismo sólo tendrán derecho a hacer una reducción las personas físicas o morales que dentro del período antes mencionado, adquieran lotes en un mismo fraccionamiento, sin importar la distancia que dichos lotes guarden entre sí.
 
-II. Cuando se adquiera parte de los derechos de propiedad de un inmueble, la deducción se hará en la proporción que corresponda a dicha parte;
+El adquirente deberá manifestar bajo protesta de decir verdad, al fedatario ante quien formalice toda adquisición, si el inmueble objeto de la operación se encuentra comprendido en algunos de los supuestos; de este artículo para que se ajuste al monto de la reducción pagando en su caso las diferencias del impuesto que correspondan;
 
-III. Tratándose del usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la deducción por cada uno de ellos;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
-lV. Tratándose de condominios, la deducción se hará por cada uno de los apartamentos, locales o cajones de estacionamiento en su caso. Lo dispuesto esta fracción no es aplicable a hoteles;
+II. Cuando se adquiera parte de los derechos de propiedad de un inmueble, la reducción se hará en la proporción que corresponda a dicha parte;
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+
+III. Tratándose del usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos;
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+
+IV. Tratándose de condominios, la reducción se hará por cada uno de los apartamentos locales o cajones de estacionamiento en su caso. Lo dispuesto en esta fracción no es aplicable a hoteles, y;
 
 V. No se considerarán departamentos habitacionales los que, por sus características originales, se destinen a servicios domésticos o de portería, aún cuando se utilicen para otros fines.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 44.
 
-Los avalúos a que se refiere el artículo 42 de esta Ley, no podrán tener una antigüedad mayor de seis meses desde la fecha de su formulación.
+Para los efectos del Impuesto sobre Adquisición de Inmuebles, el avalúo que practique perito autorizado a que se refiere el artículo 42 de esta Ley, no podrá tener una antigüedad mayor de seis meses desde la fecha de su formulación.
 
 Dichos avalúos deberán comprender los valores tanto del terreno como de las construcciones y demás accesorios que tuviere en su caso, los que por ningún motivo serán inferiores a los que se refiere la Ley de Catastro del Estado.
 
@@ -579,9 +621,9 @@ A la declaración deberá anexarse, además de los documentos señalados en los 
 
 La manifestación de terminación de la obra a que se refiere el artículo 55 de la Ley de Catastro del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
-Asimismo deberá anexarse a la declaración el avalúo practicado por la Tesorería General del Estado.
+Asimismo deberá anexarse a la declaración, el avalúo practicado por la Tesorería General del Estado o perito autorizado.
 
 Cuando lo estime necesario, la Tesorería Municipal podrá solicitar de los notarios públicos o de los declarantes, que le proporcionen una copia autorizada de la escritura en que se hubiera hecho constar la transmisión de dominio de que se trate.
 
@@ -615,21 +657,25 @@ En los contratos celebrados fuera del Estado, pero en la República, en relació
 
 #### Sección Quinta. De las Exenciones
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 49.
 
-Están exentos del pago de este impuesto, las adquisiciones de bienes inmuebles que realicen la Federación, el Estado y los Municipios para formar parte del dominio público.
+Están exentos del pago del Impuesto sobre Adquisición de Inmuebles, las adquisiciones de bienes inmuebles que realice la Federación, el Estado y los Municipios para formar parte del dominio público; los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso, y los que adquieran los estados extranjeros en caso de reciprocidad.
 
 #### Sección Sexta. Disposiciones Generales
 
+(REFORMA PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)
+
 ###### ARTICULO 50.
 
-Las transmisiones de Dominio de bienes inmuebles que se hagan constar en escritura pública o privada, los Notarios, Jueces, Corredores y demás Fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto de que se trata bajo su estricta responsabilidad, conforme lo dispuesto en este Capítulo.
+Por los actos de transmisión de dominio de bienes inmuebles que se hagan constar en escritura pública o privada, los notarios, jueces, corredores y demás fedatarios, que por disposición legal tengan funciones notariales, calcularán el impuesto sobre adquisición de inmuebles, bajo su estricta responsabilidad, conforme a lo dispuesto en este Capítulo.
 
-Los Fedatarios no podrán autorizar definitivamente ninguna escritura en la que hagan constar actos o contratos transmitivos de dominio de bienes inmuebles, si no han obtenido la constancia de no adeudo a que se refiere el artículo 45 de esta Ley y el avalúo correspondiente. Tampoco podrán autorizar definitivamente ninguna escritura en la que se hagan constar esta clase de actos o contratos, mientras los interesados no les entreguen en (sic) comprobante de pago del impuesto que establece este Capítulo.
+Los Fedatarios no podrán autorizar definitivamente ninguna escritura en la que hagan constar actos o contratos transmitivos de dominio de bienes inmuebles, si no han obtenido la constancia de no adeudo a que se refiere el artículo 45 de esta Ley y el avalúo correspondiente. Tampoco podrán autorizar definitivamente ninguna escritura en la que se hagan constar esta clase de actos o contratos, mientras los interesados no les entreguen el comprobante de pago del impuesto que establece este Capítulo.
 
-En los testimonios que los Fedatarios expidan de escrituras públicas o privadas relativas a actos o contratos transmitivos de dominio, deberán hacer constar el número de recibo oficial del pago del impuesto sobre Transmisión de Dominio de bienes inmuebles, así como el importe del mismo y la fecha de expedición.
+(REFORMA, P.O. 20 DE DICIEMBRE DE 1990)
+
+En los testimonios que los fedatarios expidan, de escrituras públicas o privadas, relativas a actos o contratos transmitivos de dominio, deberán hacer constar el número de recibo oficial del pago del Impuesto sobre Adquisición de Inmuebles, así como el importe del mismo y la fecha de su expedición.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -637,9 +683,11 @@ En los testimonios que los Fedatarios expidan de escrituras públicas o privadas
 
 En el Registro Público de la Propiedad Raíz, no se inscribirá ningún acto, contrato o documento transmitivo de dominio de bienes inmuebles, mientras no le sea acreditado el registro de catastro correspondiente y le sea exhibido el comprobante de pago del impuesto que establece este capítulo, si se hubiere causado.
 
+(REFORMA, P.O. 20 DE DICIEMBRE DE 1990)
+
 ###### ARTICULO 52.
 
-En cualquier tiempo el Fisco Municipal a través de sus Tesorerías, podrán seguir el procedimiento administrativo de ejecución para hacer efectivo el adeudo que resulte sobre este impuesto en bienes inmuebles de que se trate.
+Para los efectos de rectificación en su caso, del valor de operación que se consigne en el testimonio en que se haga constar el acto transmitivo de dominio o el de avalúo que determina perito autorizado, la Tesorería General del Estado, estará facultada para llevar a cabo la valuación de los predios en los términos de la Ley de Catastro del Estado de Michoacán, y determinar las diferencias que resulten de este impuesto dentro de los cuatro meses siguientes a la fecha de presentación del aviso correspondiente. El monto de las diferencias que se determinen se hará efectivo por la Tesorería Municipal correspondiente.
 
 #### Sección Séptima. De las Infracciones y Sanciones
 
@@ -737,7 +785,7 @@ El impuesto se causará conforme a la tasa que señale la Ley de Ingresos y se h
 
 ###### ARTICULO 68.
 
-Son objeto de este impuesto, sobre lotes baldíos sin bardear o falta de banquetas, los terrenos, que carezcan en sus linderos a la vía pública de una cerca o tapía de adobe, ladrillo, material prefabricado u otros similares, de dos o más metros de altura, así como aquellos que no tengan banquetas o que teniéndola ésta se encuentre en mal estado, localizados dentro de la zona urbana de los Municipios del Estado.
+Son objeto de este impuesto, sobre lotes baldíos sin bardear o falta de banquetas, los terrenos, que carezcan en sus linderos a la vía pública de una cerca o tapia de adobe, ladrillo, material prefabricado u otros similares, de dos o más metros de altura, así como aquellos que no tengan banquetas o que teniéndola ésta se encuentre en mal estado, localizados dentro de la zona urbana de los Municipios del Estado.
 
 #### Sección Segunda. De los Sujetos
 
@@ -749,13 +797,13 @@ Son sujetos de este impuesto, los propietarios o poseedores de lotes baldíos si
 
 ###### ARTICULO 70.
 
-La base de este impuesto será cada metro lineal o fracción que permanezca en las condiciones especificadas en el artículo 68 de esta ley.
+La base de este impuesto será cada metro lineal o fracción que permanezca en las condiciones especificadas en el artículo 68 de esta Ley.
 
 #### Sección Cuarta. Del Pago
 
 ###### ARTICULO 71.
 
-El pago de este impuesto será anual y se calculará aplicando la cuota o tarifa que señale la Ley de Ingresos correspondiente, el que deberá cubrirse durante los primeros quince días hábiles del mes que corresponda, en la Tesorería Municipal del lugar donde se encuentre el inmueble.
+El pago de este impuesto será anual y se calculará aplicando la cuota o tarifa que señale la Ley de Ingresos correspondiente, el que deberá cubrirse durante los primeros quince días hábiles del mes que corresponda; en la Tesorería Municipal del lugar donde se encuentre el inmueble.
 
 #### Sección Quinta. De las Infracciones y Sanciones
 
@@ -833,7 +881,7 @@ Será base de este impuesto, el valor comercial de los premios y se recaudará a
 
 Este impuesto se cubrirá en la Tesorería Municipal correspondiente al lugar donde se celebre el evento, cuando menos cinco días antes de que se efectúe la rifa, sorteo, lotería o concurso.
 
-En caso de que celebrada la actividad gravada no se haya cubierto el impuesto en los términos de este artículo, el Tesorero Municipal deberá ordenar la retención del o los premios, declarándolos como garantía de pago del crédito fiscal, sin perjuicio de aplicar el procedimiento administrativo de ejecución.
+En caso de que celebrada la actividad gravada no se haya cubierto el impuesto en los términos de este artículo, el Tesorero Municipal deberá ordenar la retención del o los premios, declarándolos como garantía de pago del crédito fiscal, sin perjuicio se aplicará el procedimiento administrativo de ejecución.
 
 #### Sección Quinta. De las Infracciones y Sanciones
 
@@ -849,7 +897,7 @@ Las infracciones al presente Capítulo se sancionarán de conformidad con las di
 
 ###### ARTICULO 83.
 
-Es objeto de este derecho, el uso u ocupación de la vía pública, interior o exterior de los mercados, calles, jardines, plazas, portales u otros lugares del dominio municipal.
+Es objeto de este derecho, el uso u ocupación de la vía pública, interior o exterior de los mercados, calles, jardines, plazas, portales u otros lugares del dominio municipal.8
 
 #### Sección Segunda. De los Sujetos
 
@@ -913,17 +961,17 @@ Es objeto de este derecho, el otorgamiento por parte del Ayuntamiento, de licenc
 
 Son sujetos de este derecho, los propietarios o poseedores de fincas a quienes se otorgue licencia de construcción, reparación o restauración de sus bienes inmuebles.
 
-#### Sección Tercera. Del Pago del Derecho
+#### Sección Tercera. Del pago del Derecho
 
 ###### ARTICULO 94.
 
-El pago de este derecho, se cubrirá en la Tesorería Municipal correspondiente al lugar donde se localiza el bien en el momento de la autorización respectiva conforme a la tarifa que fije la Ley de Ingresos Municipal.
+El pago de este derecho, se cubrirá en la Tesorería Municipal correspondiente al lugar donde se localiza el bien en el momento de la autorización respectiva, conforme a la tarifa que fije la Ley de Ingresos Municipal.
 
 #### Sección Cuarta. De las Infracciones y Sanciones
 
 ###### ARTICULO 95.
 
-Las infracciones a las disposiciones del presente Capítulo se sancionarán conforme a lo dispuesto por el Código Fiscal Municipal.
+Las infracciones a las disposiciones del presente Capítulo, se sancionarán conforme a lo dispuesto por el Código Fiscal Municipal.
 
 ### CAPITULO IV. POR NUMERACION DE FINCAS URBANAS
 
@@ -949,7 +997,7 @@ El derecho por numeración de fincas urbanas se determinará y cubrirá en la Te
 
 ###### ARTICULO 99.
 
-Las infracciones a este Capítulo se sancionarán conforme a lo dispuesto por el Código Fiscal Municipal.
+Las infracciones a este Capítulo, se sancionarán conforme a lo dispuesto por el Código Fiscal Municipal.
 
 ### CAPITULO V. POR SERVICIOS DE ALUMBRADO PUBLICO
 
@@ -993,7 +1041,7 @@ El pago de este derecho, se hará a través de las Empresas suministradoras de e
 
 ###### ARTICULO 106.
 
-Las infracciones a este Capítulo se sancionarán conforme a lo dispuesto por el Código Fiscal Municipal.
+Las infracciones a este Capítulo, se sancionarán conforme a lo dispuesto por el Código Fiscal Municipal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -1043,7 +1091,7 @@ El régimen y reparto de las aguas propiedad de los Municipios, quedan sujetos a
 
 ###### ARTICULO 115.
 
-Los Notarios Públicos y quienes hagan sus veces, ante quienes otorguen escrituras de compraventa de predios urbanos o urbanizados, tienen estricta obligación de comprobar en la Tesorería Municipal correspondiente y antes de autorizar los títulos, que el inmueble materia de la operación está al corriente en los derecho (sic) de aguas o que no se causen tales derechos y dar aviso a la misma dependencia, por escrito, dentro de los tres días siguientes a la fecha en que sean autorizados los instrumentos, dando a conocer los nombres del vendedor y comprador, número de la cuenta y descripción del predio, a efecto de que se haga el cambio respectivo. El encargado del Registro Público de la Propiedad tampoco procederá al registro de ninguna escritura si no se le comprueba que se han pagado los derechos de servicio de agua; aún cuando su administración esté encargada a una Junta operadora, como órgano descentralizado.
+Los Notarios Públicos y quienes hagan sus veces, ante quienes otorguen escrituras de compraventa de predios urbanos o urbanizados, tienen estricta obligación de comprobar en la Tesorería Municipal correspondiente y antes de autorizar los títulos, que el inmueble materia de la operación está al corriente en los derechos de aguas o que no se causen tales derechos y dar aviso a la misma dependencia, por escrito, dentro de los tres días siguientes a la fecha en que sean autorizados los instrumentos, dando a conocer los nombres del vendedor y comprador, número de la cuenta y descripción del predio, a efecto de que se haga el cambio respectivo. El encargado del Registro Público de la Propiedad tampoco procederá al registro de ninguna escritura si no se le comprueba que se han pagado los derechos de servicio de agua; aun cuándo su administración esté encargada a una Junta operadora, como órgano descentralizado.
 
 ###### ARTICULO 116.
 
@@ -1073,7 +1121,7 @@ Son sujetos de este derecho, las personas físicas o morales que soliciten del A
 
 ###### ARTICULO 120.
 
-El derecho por expedición, revalidación y canje de permisos o licencias de funcionamiento o refrendo que el Ayuntamiento otorgue, se pagará en la Tesorería Municipal correspondiente de conformidad con la tarifa que determine la Ley de Ingresos Municipal vigente.
+El derecho por expedición, revalidación y canje de permisos o licencias de funcionamiento o refrendo que el Ayuntamiento otorgue, se pagará en la Tesorería Municipal correspondiente, de conformidad con la tarifa que determine la Ley de Ingresos Municipal vigente.
 
 #### Sección Cuarta. De las Disposiciones Complementarias
 
@@ -1139,11 +1187,11 @@ Las infracciones al presente Capítulo se sancionarán conforme las disposicione
 
 ### CAPITULO IX. POR EXPEDICION DE CERTIFICADOS, TITULOS, COPIAS DE DOCUMENTOS Y LEGALIZACION DE FIRMAS
 
-#### Sección Primera. De la Definición
+#### Sección Primera. De la definición
 
 ###### ARTICULO 129.
 
-Se entiende por certificación la legalicación (sic) de documentos solicitados a los Ayuntamientos en los que se hagan constar hechos, situaciones jurídicas o civiles, relacionados con personas que habitual o accidentalmente han residido o residen dentro del territorio del Municipio.
+Se entiende por certificación la legalización de documentos solicitados a los Ayuntamientos en los que se hagan constar hechos, situaciones jurídicas o civiles, relacionados con personas que habitual o accidentalmente han residido o residen dentro del territorio del Municipio.
 
 #### Sección Segunda. Del Objeto
 
@@ -1167,7 +1215,7 @@ El pago de este derecho deberá ser realizado por el contribuyente en la Tesorer
 
 ###### ARTICULO 133.
 
-Los certificados, certificaciones, actas, legalización y copias de documentos que expidan los funcionarios o empleados del Municipio, contendrán la razón de pago de los derechos o de haber quedado exentos si así procediere, suscrita por el Jefe de la oficina que lo expida, sin cuyo requisito, no surtirá efectos legales.
+Los certificados, certificaciones, actas legalización y copias de documentos que expidan los funcionarios o empleados del Municipio, contendrán la razón de pago de los derechos o de haber quedado exentos si así procediere, suscrita por el Jefe de la oficina que lo expida, sin cuyo requisito, no surtirá efectos legales.
 
 #### Sección Sexta. De las Excepciones
 
@@ -1179,7 +1227,7 @@ I.- Los núcleos de población para asuntos ejidales o comunales;
 
 II.- Los trabajadores de alguna entidad pública para acreditar sus servicios o su buena conducta;
 
-III.- Los empleados fiscales de cualquier entidad pública, para acreditar la solvencia de sus fiadores;
+III.- Los empleados fiscales de cualquier entidad pública para acreditar la solvencia de sus fiadores;
 
 IV.- Las personas, para acreditar la clausura de algún establecimiento mercantil o industrial de su propiedad;
 
@@ -1331,7 +1379,7 @@ Las infracciones al presente Capítulo se sancionarán de conformidad con las di
 
 ###### ARTICULO 152.
 
-Se establece por esta Ley la contribución especial de Aumento de Valor y Mejoría Específica de la Propiedad, que gravitará con carácter real sobre los predios que sean beneficiados por una obra de urbanización, por estimarse que su desarrollo y conclusión acrecentará necesariamente el valor de dichos predios, sin que éstos (sic) se deba al esfuerzo económico de sus propietarios o poseedores.
+Se establece por esta Ley la contribución especial de Aumento de Valor y Mejoría Específica de la Propiedad, que gravitará con carácter real sobre los predios que sean beneficiados por una obra de urbanización, por estimarse que su desarrollo y conclusión acrecentará necesariamente el valor de dichos predios, sin que esto se deba al esfuerzo económico de sus propietarios o poseedores.
 
 #### Sección Segunda. De los Sujetos
 
@@ -1353,7 +1401,7 @@ El monto total de la contribución, en cada caso de urbanización, no podrá exc
 
 ###### ARTICULO 156.
 
-El costo por derramar de una obra de urbanización, estará constituído por lo siguiente:
+El costo por derramar de la obra de urbanización, estará constituido por lo siguiente:
 
 I.- Importe del Anteproyecto y del Proyecto;
 
@@ -1397,7 +1445,7 @@ II.- El plano de conjunto del área de imposición, señalándose para cada pred
 
 ###### ARTICULO 162.
 
-Cuando la obra consista en la instalación o construcción de redes primarias o redes secundarias de distribución de agua potable, o redes de alcantarillado para los servicios de drenaje sanitario y drenaje pluvial, el área para la cual hayan sido calculadas, y a la que técnica y razonablemente deban servir aunque para ello puedan requerirse obras complementarias posteriores, será la que se tome como área de beneficio o área de influencia.
+Cuando la obra consista en la instalación y construcción de redes primarias o redes secundarias de distribución de agua potable, o redes de alcantarillado para los servicios de drenaje sanitario y drenaje pluvial, el área para la cual hayan sido calculadas, y a la que técnica y razonablemente deban servir aunque para ello puedan requerirse obras complementarias posteriores, será la que se tome como área de beneficio o área de influencia.
 
 ###### ARTICULO 163.
 
@@ -1431,7 +1479,7 @@ El contribuyente podrá inconformarse con la liquidación de la contribución si
 
 ###### ARTICULO 166.
 
-En lo no previsto por esta ley, la aplicación y recaudación de la contribución sobre Aumento de Valor y Mejoría Específica de la Propiedad, se hará con apego a las disposiciones del Código Fiscal Municipal.
+En lo no previsto por esta Ley, la aplicación y recaudación de la contribución sobre Aumento de Valor y Mejoría Específica de la Propiedad, se hará con apego a las disposiciones del Código Fiscal Municipal.
 
 ###### ARTICULO 167.
 
@@ -1481,7 +1529,7 @@ Son sujetos de la contribución de aportación de mejoras, los propietarios o po
 
 ###### ARTICULO 174.
 
-La contribución a que se refiere este capítulo se pagará al terminarse las obras que la generaron, conforme a las cuotas que apruebe el Ayuntamiento, tomando en cuenta el costo de los materiales y de la mano de obra.
+La contribución a que se refiere este Capítulo se pagará al terminarse las obras que la generaron, conforme a las cuotas que apruebe el Ayuntamiento, tomando en cuenta el costo de los materiales y de la mano de obra.
 
 ###### ARTICULO 175.
 
@@ -1491,15 +1539,15 @@ I.- Cuando se trate de obras de construcción o reparación de pavimentos del ar
 
 II.- Tratándose de construcción o reparación de banquetas, pagarán la contribución los propietarios o poseedores de predios ubicados en el lado de la calle en que se construya o repare la banqueta;
 
-III.- En el caso de instalación de tuberías de distribución de agua potable, la contribución la pagarán los propietarios o poseedores de los predios ubicados a uno y a otro lado de la calle, si la tubería presta servicios a ambas aceras. Si las tuberías instaladas solamente proporcionan servicio a los predios en una de las aceras de la calle solo los propietarios o poseedores de éstos están obligados a pagar la contribución, y
+III.- En el caso de instalación de tuberías de distribución de agua potable, la contribución la pagarán los propietarios o poseedores de los predios ubicados a uno y a otro lado de la calle, si la tubería presta servicios a ambas aceras. Si las tuberías instaladas solamente proporcionan servicio a los predios en una de las aceras de la calle, sólo los propietarios o poseedores de éstos están obligados a pagar la contribución, y
 
-IV.- Para el pago de otras construcciones o instalaciones de obras públicas de urbanización se aplicará la regla similar de las fracciones anteriores.
+IV.- Para el pago de otras construcciones o instalaciones de obras públicas de urbanización, se aplicará la regla similar de las fracciones anteriores.
 
 #### Sección Cuarta. Disposiciones Generales
 
 ###### ARTICULO 176.
 
-Los Notarios y demás funcionarios que tengan la fé pública, no podrán autorizar definitivamente ninguna operación de transmisión de dominio de predios urbanos sin antes comprobar que dichos predios no tienen adeudos por concepto de contribución de aportación de mejoras.
+Los Notarios y demás funcionarios que tengan la fe pública, no podrán autorizar definitivamente ninguna operación de transmisión de dominio de predios urbanos sin antes comprobar que dichos predios no tienen adeudos por concepto de contribución de aportación de mejoras.
 
 En los testimonios que los Notarios Públicos expidan de escrituras relativas a actos o contratos transmitivos de dominio de predios urbanos, deberán insertar el recibo oficial de pago o en su defecto el comprobante de no causación de este gravamen.
 
@@ -1561,7 +1609,7 @@ Los demás ingresos por actividades que no correspondan a funciones de derecho p
 
 ###### ARTICULO 187.
 
-Constituyen este ingreso las cantidades que perciban los Municipios del Estado de Michoacán de conformidad con la Ley de Coordinación Fiscal Federal y con las disposiciones legales del Estado, en materia de ingresos Federales y Estatales.
+Constituyen este ingreso las cantidades que perciban los Municipios del Estado de Michoacán, de conformidad con la Ley de Coordinación Fiscal Federal y con las disposiciones legales del Estado, en materia de ingresos Federales y Estatales.
 
 ## TITULO SEPTIMO. DE LOS APROVECHAMIENTOS
 
@@ -1670,3 +1718,21 @@ P.O. 28 DE DICIEMBRE DE 1989.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el día 1°. de enero de 1990, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 1990.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el día 1o. de enero de 1991; previa publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos a que se refiere el penúltimo párrafo del artículo 6o. de esta Ley, la vigencia de los avalúos notificados hasta diciembre de 1990, subsistirá hasta que hayan transcurrido dos años.
+
+###### ARTICULO TERCERO.
+
+Para los efectos de lo dispuesto en el Artículo 7o. de esta Ley, para los predios cuyos avalúos hayan sido notificados hasta diciembre de 1990, la base de este impuesto se incrementará a lo que resulte de multiplicar ésta, por lo que se obtenga de dividir el Indice Nacional de Precios al Consumidor del segundo mes del bimestre en que los avalúos hayan vencido, entre el Indice Nacional de Precios al Consumidor del mismo mes del año anterior. A partir del incremento a las bases, a que se refiere este Artículo, la vigencia de ésta será la que señala el Artículo 6o. de dicha Ley.
+
+###### ARTICULO CUARTO.
+
+Durante los años de 1991, 1992 y 1993, se aplicarán las tasas del 8%, 6% y 4% respectivamente, en lugar de la tasa establecida en el Artículo 42 de esta Ley. Durante los años referidos, la reducción del salario mínimo será de 4 veces, 3 veces y dos veces respectivamente, en lugar de la reducción establecida en dicho artículo 42. Tratándose de adquisición de vivienda mediante crédito de interés social, la reducción durante dichos años será de 8 veces, 6 veces y 4 veces respectivamente, en lugar de la establecida en dicho artículo.
