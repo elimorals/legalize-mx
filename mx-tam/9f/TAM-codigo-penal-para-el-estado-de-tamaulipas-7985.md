@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2003-12-10"
+last_updated: "2004-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -217,7 +217,7 @@ La ausencia de conducta y la atipicidad excluyen el delito.
 
 ###### ARTICULO 31
 
-Bis .- No habrá conducta punible:
+Bis.- No habrá conducta punible:
 
 I.- Si se obra impulsado por una fuerza física exterior irresistible; y
 
@@ -397,7 +397,7 @@ g).- Caución de no ofender;
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-h) .- Amonestación;
+h).- Amonestación;
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
@@ -1395,7 +1395,7 @@ A los extranjeros que cometan los delitos previstos en este capítulo se les apl
 
 No se aplicará sanción a los que depongan las armas antes de ser tomados prisioneros si no se hubiere cometido algún otro delito; en caso contrario se aplicarán las reglas del concurso.
 
-### CAPITULO IV. ASOCIACION DELICTUOSA Y PANDILLERISMO
+### CAPITULO IV. ASOCIACION DELICTUOSA, PANDILLERISMO Y DELINCUENCIA ORGANIZADA
 
 ###### ARTICULO 152.
 
@@ -1511,19 +1511,49 @@ Se aplicará de seis meses a tres años de prisión y multa de quince a cincuent
 
 Tratándose de las señaladas en la fracción II del artículo anterior, solo se sancionara cuando sean portadas en lugares o reuniones públicas y no se justifique su portación.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
 ### CAPITULO V. EXPENDIO ILICITO DE BEBIDAS ALCOHOLICAS
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 170.
 
 Se impondrá sanción de seis meses a seis años de prisión y multa de quince a ochenta días salario, al que forme parte de una asociación o banda de tres o más personas organizada para delinquir, por el sólo hecho de ser miembro de la asociación. En caso de haberse cometido otro delito se aplicarán las reglas del concurso.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+El Juez, en su sentencia, disminuirá la pena que corresponda por los delitos cometidos, de seis meses hasta en una mitad, siempre que, según le informe el titular de la Procuraduría General de Justicia de Tamaulipas o la persona a quien éste designe, el procesado haya proporcionado a la autoridad investigadora datos convincentes que conduzcan a la plena identificación y localización de cualquiera de los demás integrantes de la banda.
 
 ###### ARTICULO 171.
 
 Cuando se ejecuten uno o más delitos por pandilla se aplicarán a los que intervengan en su comisión, además de las penas que les corresponda por el o los delitos cometidos, la sanción de seis meses a tres años de prisión.
 
 Se entiende por pandilla, para los efectos de esta disposición, la reunión habitual, ocasional o transitoria de tres o más personas que sin estar organizadas con fines delictuosos, cometen en común algún delito.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 171 Bis.
+
+Cuando tres o más personas acuerden organizarse o se organicen para realizar, en forma permanente o reiterada, conductas que por sí o unidas a otras tengan como fin o resultado cometer alguno o algunos de los delitos siguientes previstos por este Código, serán considerados por ese solo hecho, como miembros de la delincuencia organizada:
+
+Evasión de presos, previsto en el artículo 158 en los casos a que se refiere la segunda parte del artículo 159 y el artículo 160; corrupción de menores e incapaces, previsto en el artículo 192 y 193 segundo párrafo; pornografía infantil, previsto en el artículo 194 Bis; prostitución sexual de menores, previsto en el artículo 194 Ter; lenocinio, previsto por el artículo 199; homicidio calificado, previsto en los artículos 329 y 335; secuestro, previsto por el artículo 391; robo, previsto en el artículo 405 y 407 fracciones I, IX, X, XII, XIII, XIV, XV y XVI; robo de semovientes, previsto en los artículos 410 y 411; y, operaciones con recursos de procedencia ilícita, previsto en el artículo 443 Bis.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 171 Ter.
+
+Sin perjuicio de las penas que correspondan por el delito o delitos que se cometan, al miembro de la delincuencia organizada se le aplicarán las penas siguientes:
+
+I.- A quien tenga funciones de administración, dirección o supervisión, de cinco a quince años de prisión y de quinientos a cuatro mil días de salario, o
+
+II.- A quien no tenga las funciones anteriores, de cuatro a ocho años de prisión y multa de doscientos cincuenta a dos mil días de salario.
+
+Las penas a que se refiere el párrafo anterior se aumentarán en una mitad más cuando:
+
+a) Se trate de cualquier servidor público que participe en la realización de los delitos previstos para la delincuencia organizada. Además se impondrán a dicho servidor público, destitución e inhabilitación para desempeñar cualquier cargo o comisión públicos, o;
+
+b) Se utilice a niños, niñas, adolescentes o a quienes no tienen la capacidad para comprender el significado del hecho, para cometer cualquiera de los delitos derivados de delincuencia organizada.
 
 ### CAPITULO I. ULTRAJES A LA MORAL PUBLICA E INCITACION A LA PROSTITUCION
 
@@ -1637,7 +1667,7 @@ ARTICULO 207 QUATER.- Al que sin autorización conozca o copié información con
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-ARTICULO 207 QUINQUIES .- Al que estando autorizado para acceder a sistemas y equipos de informática de alguna dependencia pública, indebidamente modifique, destruye o provoque pérdida de información que contengan se impondrá una sanción de tres a ocho años de prisión y multa de trescientos a ochocientos días salario.
+ARTICULO 207 QUINQUIES.- Al que estando autorizado para acceder a sistemas y equipos de informática de alguna dependencia pública, indebidamente modifique, destruye o provoque pérdida de información que contengan se impondrá una sanción de tres a ocho años de prisión y multa de trescientos a ochocientos días salario.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -1659,7 +1689,7 @@ Al que ultraje a cualquiera de los tres Poderes del Estado, a sus representantes
 
 ###### ARTICULO 189 Bis.
 
-Se aplicarán las sanciones de seis meses a tres años de prisión y multa de quince a cincuenta días salario, al que surta o expenda bebidas alcohólicas sin la autorización correspondientes, o sin sujetarse a las formalidades de ésta, en los términos de la ley de la materia.
+Se aplicarán las sanciones de tres a cinco años de prisión y multa de cien a quinientos días salario, al que surta o expenda bebidas alcohólicas sin la autorización correspondiente, o sin sujetarse a las formalidades de ésta, en los términos de la ley de la materia.
 
 ### CAPITULO II. EJERCICIO INDEBIDO Y ABANDONO DE FUNCIONES PUBLICAS
 
@@ -1679,9 +1709,11 @@ II.- El que publique por cualquier medio, ejecute o haga ejecutar por otro, exhi
 
 III.- El que de modo escandaloso invite a otro al comercio carnal.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 191.
 
-Al responsable de los delitos previstos en este capítulo, se le impondrá una sanción de uno a tres años de prisión y multa de treinta a cincuenta días salario.
+Al responsable de los delitos previstos en este capítulo, se le impondrá una sanción de tres a seis años de prisión y multa de cien a quinientos días salario.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -1693,11 +1725,11 @@ Al responsable de los delitos previstos en este capítulo, se le impondrá una s
 
 Comete el delito de corrupción de menores e incapaces el que procure o facilite la corrupción de un menor de dieciséis años de edad o de quien no tenga capacidad de comprender el significado del hecho, mediante actos de exhibicionismo corporal, lascivos o sexuales, o los induzca por cualquier medio a la práctica de la mendicidad, la ebriedad, la toxicomanía, la prostitución, al homosexualismo, a formar parte de una asociación delictuosa, o a cometer cualquier delito.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 193.
 
-Al responsable del delito a que se refiere el artículo anterior se le impondrá una sanción de tres a ocho años de prisión y multa de cien a trescientos días salario.
+Al responsable del delito a que se refiere el artículo anterior se le impondrá una sanción de cuatro a nueve años de prisión y multa de doscientos a quinientos días salario.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -1705,21 +1737,29 @@ Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor 
 
 Si además de los delitos previstos en este capítulo resultare cometido otro, se aplicarán las reglas del concurso.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 194.
 
-Queda prohibido emplear a menores de dieciséis años de edad en billares, cantinas, tabernas, giros mixtos y centros de vicio. Al que contravenga esta disposición, se impondrá una sanción de tres días a un año de prisión y multa de uno a treinta días salario y, además, con cierre definitivo del establecimiento en caso de reincidencia. Se impondrá la misma sanción privativa de la libertad y la multa señalada en el artículo anterior, a los padres o tutores que acepten que sus hijos o pupilos que estén bajo su guarda, se empleen en los establecimientos referidos.
+Queda prohibido emplear a menores de dieciséis años de edad en billares, cantinas, tabernas, giros mixtos, bares, boliche, cabaret, centro nocturno, café cantante, cervecería, discoteca, u otros centros de vicio. Al que contravenga esta disposición, se le impondrá una sanción de dos a cuatro años de prisión y multa de cien a trescientos días salario y, además, el cierre definitivo del establecimiento si reincidiere en su conducta.
 
-Para los efectos de este precepto se considerará como empleado en el billar, la cantina, taberna, giro mixto y centro de vicio, al menor que por un salario, por la sola comida, por comisión de cualquier índole, por cualquier otro estipendio, gaje o emolumento o gratuitamente preste sus servicios en tal lugar.
+Se impondrá de un mes a un año de prisión a los padres o quienes ejerzan la patria potestad, tutela o adopción de algún menor de edad, que acepten, toleren o consientan que sus descendientes, pupilos o adoptados que estén bajo su guarda, se empleen en los establecimientos referidos en el presente artículo.
+
+Para los efectos de este precepto se considerará empleado en el billar, cantina, taberna, giro mixto, bar, boliche, cabaret, centro nocturno, café cantante, cervecería, discoteca, o centro de vicio, al menor que por un salario, por la sola comida, por comisión de cualquier índole o especie, por cualquier otro estipendio, gaje o emolumento o gratuitamente preste sus servicios en tal lugar.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ARTICULO 194 BIS.- Comete el delito de pornografía infantil:
 
-I.- El que obligue o induzca a uno o mas menores de dieciséis años a realizar actos de exhibicionismo corporal, lascivos, sexuales o pornográficos con la finalidad de videogravarlos (sic), fotografiarlos o exhibirlos mediante anuncios impresos o electrónicos;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+I.- El que obligue o induzca a uno o más menores de dieciséis años a realizar actos de exhibicionismo corporal, lascivos, sexuales o pornográficos con la finalidad de videograbarlos, filmarlos, fotografiarlos o exhibirlos mediante anuncios impresos, electromagnéticos, electrónicos, o por vía internet, de telefonía o cualquiera otra similar;
 
 II.- Toda persona que procure, permita o facilite por cualquier medio el que uno o mas menores de dieciséis años con su consentimiento o sin él, realice cualquiera de los actos señalados en la fracción anterior con los mismos fines;
 
-III.- Al que fije, grabe e imprima actos de exhibicionismo corporal, lascivos, sexuales o pornográficos en que participen uno o mas menores de dieciséis años;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+III.- Al que fije, grabe, procese, elabore o imprima actos de exhibicionismo corporal, lascivos, sexuales o pornográficos en que participen uno o más menores de dieciséis años;
 
 IV.- Quien con fin de lucro o sin él, elabore, reproduzca, venda, arriende, exponga, exhiba, publicite o transmita material que contenga actos señalados en las fracciones anteriores; y
 
@@ -1727,11 +1767,15 @@ V.- La persona o personas que por si o través de terceros dirija, administre, s
 
 Para los efectos de éste artículo, se entiende por pornografía infantil, la representación, ejecución o simulación de actos sexuales, o desnudos corporales, en imágenes en que aparezcan menores de dieciséis años.
 
-Al responsable de los delitos señalados en las fracciones I, II y IV se le impondrá de cinco a diez años de prisión, y multa de mil a dos mil días salario.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+Al responsable de los delitos señalados en las fracciones I, II y IV se le impondrá de siete a diez años de prisión, y multa de mil a dos mil días salario.
 
 Al responsable de los delitos previstos en las fracciones III y V se les aplicará de ocho a dieciséis años de prisión y una multa de tres mil a diez mil días salario.
 
-Independientemente de las sanciones ante señaladas, a los responsables de estos delitos, les serán decomisados los objetos, instrumentos y productos relacionados con el delito, y serán inhabilitados para ejercer cargo de tutela, curatela y para adoptar.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+Independientemente de las sanciones señaladas, a los responsables de estos delitos les serán decomisados los objetos, instrumentos y productos relacionados con el delito, y serán suspendidos sus derechos para ejercer tutela, curatela o adopción por el término que corresponda hasta tres veces la sanción privativa de libertad que le fuere impuesta.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -1785,17 +1829,17 @@ II.- El que induzca o solicite a una persona para que, con otra, comercie sexual
 
 III.- El que regentee, administre o sostenga prostíbulos, casas de cita o lugares de concurrencia, en donde se practique la prostitución.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 200.
 
-Al responsable del delito de lenocinio se le impondrá una sanción de dos a nueve años de prisión y multa de cien a quinientos días salario. Si el responsable del delito de lenocinio realiza su conducta con una persona menor de dieciséis años de edad, o por conducto de esta, la sanción será de cuatro a diez años de prisión y multa de ciento cincuenta a seiscientos días salario.
+Al responsable del delito de lenocinio se le impondrá una sanción de cinco a diez años de prisión y multa de mil a dos mil días salario. Si el responsable del delito de lenocinio realiza su conducta con una persona menor de dieciséis años de edad, o por conducto de ésta, la sanción será de siete a doce años de prisión y multa de mil a dos mil días salario.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 201.
 
-Si el responsable del delito fuere ascendiente, tutor, cónyuge, concubino, concubina, o tuviere cualquier otra autoridad sobre la persona explotada, se le impondrá de cuatro a diez años de prisión y multa de doscientos a seiscientos días salario. Además, será privado, en su caso, de todos los derechos sobre los bienes de ésta, e inhabilitado para ser tutor, curador, para adoptar, para el ejercicio de la patria potestad o para ejercer las funciones o su ocupación en virtud de las cuales ejercía aquella autoridad.
+Si el responsable del delito fuere ascendiente, tutor, cónyuge, concubinario, concubina, o tuviere cualquier otra autoridad sobre la persona explotada, se le impondrá de siete a doce años de prisión y multa de mil a dos mil días salario. Además, será privado, en su caso, de todos los derechos sobre los bienes de ésta, y suspendidos sus derechos para ser tutor, curador, para adoptar, para ejercer la patria potestad o para ejercer las funciones o su ocupación en virtud de las cuales ejercía aquella autoridad.
 
 ### CAPITULO VI. COHECHO
 
@@ -1979,9 +2023,7 @@ I.- Cuando la cantidad o el valor de la dádiva o promesa no exceda de tres mil 
 
 > <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
 
-II.- Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de tres mil días de salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días
-
-de salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos.
+II.- Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de tres mil días de salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días de salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos.
 
 En ningún caso se devolverá a los responsables del delito de cohecho el dinero o dádivas entregadas, mismos que se aplicarán en beneficio del Estado.
 
@@ -2255,7 +2297,7 @@ En todos los delitos previstos en este capítulo, además de la sanción de pris
 
 ### CAPITULO II. ESTUPRO
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 235.
 
@@ -2559,15 +2601,21 @@ El delito de impudicia sólo se castigará cuando se haya consumado.
 
 ###### ARTICULO 270.
 
-Comete el delito de estupro, al que tenga cópula con persona mayor de doce y menor de dieciocho años de edad, empleando abuso de autoridad u obteniendo su consentimiento por medio de engaño.
-
-Este delito sólo podrá ser perseguido a petición de la parte ofendida o de sus padres y a falta de éstos, por su legítimo representante.
+Comete el delito de estupro quien tenga cópula con persona mayor de doce y menor de dieciocho años de edad, obteniendo su consentimiento por medio de engaño o mediante alguna maquinación.
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
+Este delito sólo podrá ser perseguido a petición de la parte ofendida o de sus padres y a falta de éstos, por su legítimo representante.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 271.
 
-Al responsable del delito de estupro, se le impondrá una sanción de tres a siete años de prisión y multa de setenta a cien días de salario.
+Al responsable del delito de estupro, se le impondrá una sanción de tres a siete años de prisión y multa de doscientos a cuatrocientos días salario, si la víctima fuere mayor de doce y menor de catorce años de edad.
+
+Si la víctima fuera mayor de catorce y menor de dieciséis años de edad, al responsable del delito se le impondrá una sanción de uno a cuatro años de prisión y multa de cien a doscientos días salario.
+
+Si la víctima fuera mayor de dieciséis y menor de dieciocho años de edad, al responsable del delito se le impondrá una sanción de tres meses a un año de prisión y multa de cien a doscientos días salario.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2003)</small>
 
@@ -2587,9 +2635,9 @@ Comete el delito de violación, el que por medio de la violencia física o moral
 
 Al responsable del delito de violación se le impondrá una sanción de diez a dieciocho años de prisión. Si la víctima fuere la esposa o concubina, sólo se perseguirá por querella de la parte ofendida.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-Para los efectos de éste capítulo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
+Para los efectos de este capítulo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal o bucal, independientemente de su sexo.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -2711,23 +2759,23 @@ A los ascendientes responsables del delito de incesto se les impondrá una sanci
 
 ###### ARTICULO 287.
 
-Comete el delito de adulterio el que encontrándose unido en matrimonio tenga cópula con persona distinta a su cónyuge, en el domicilio conyugal.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 288.
 
-Al responsable del delito de adulterio se le impondrá una sanción de tres días a dos años de prisión y suspensión de sus derechos civiles derivados del matrimonio hasta por seis años. Igual sanción se impondrá a la persona que tenga cópula con el cónyuge adúltero, en las circunstancias establecidas en el artículo anterior.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 289.
 
-Sólo se procederá contra los adúlteros a petición del cónyuge ofendido, pero cuando éste formule su querella contra uno solo de los culpables, se procederá contra los dos y los que aparezcan como copartícipes.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 290.
 
-Sólo se sancionará el adulterio consumado.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 291.
 
-El perdón del ofendido extingue la acción penal o la ejecución de la sanción impuesta, aun por sentencia firme, en favor de los adúlteros y demás partícipes.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
 ### CAPITULO VII. ABORTO
 
@@ -2941,9 +2989,9 @@ II.- Si se cometiere por conductores de transporte de servicio público o escola
 
 ## TITULO DECIMO SEXTO. DELITOS CONTRA LA VIDA Y LA SALUD DE LAS PERSONAS
 
-### CAPITULO II. RAPTO
+### CAPITULO II. SECUESTRO
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 319.
 
@@ -3005,13 +3053,13 @@ Si el ofendido fuere alguno de los parientes o personas a que se refieren los ar
 
 Al que ejerciendo la patria potestad o la tutela infiera lesiones a los menores o pupilos que estén bajo su guarda, además de la pena correspondiente a las lesiones se le suspenderá o privará en el ejercicio de sus derechos sobre aquéllos.
 
+### CAPITULO III. RAPTO
+
 ### CAPITULO I. ROBO
 
 ### CAPITULO II. ABUSO DE CONFIANZA
 
 ### CAPITULO III. FRAUDE
-
-### CAPITULO IV. USURA
 
 ###### ARTICULO 329.
 
@@ -3075,7 +3123,9 @@ El homicidio es calificado cuando se comete con premeditación, ventaja, alevos�
 
 Al autor de un homicidio calificado se le impondrá una sanción de veinte a cincuenta años de prisión.
 
-### CAPITULO V. CHANTAJE
+### CAPITULO IV. USURA
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 338.
 
@@ -3133,7 +3183,7 @@ I.- Declarar a los reos sujetos a la vigilancia de la policía; y
 
 II.- Prohibirles ir a determinado lugar, o municipio del Estado, o residir en él.
 
-### CAPITULO VI. EXTORSION
+### CAPITULO V. CHANTAJE
 
 ###### ARTICULO 348.
 
@@ -3143,7 +3193,7 @@ Al que prestare auxilio o indujere a otro para que se suicide hasta llegar a su 
 
 Se impondrán las sanciones de homicidio calificado al que induzca o auxilie al suicidio a un menor de dieciséis años o a una persona que no tuviera capacidad de comprensión. Si el suicidio no se consuma y sólo se causan lesiones, se impondrá al activo la sanción que corresponda a lesiones calificadas.
 
-### CAPITULO VII. DESPOJO DE COSAS INMUEBLES O DE AGUAS
+### CAPITULO VI. EXTORSION
 
 ###### ARTICULO 350.
 
@@ -3155,7 +3205,7 @@ Comete el delito de parricidio el que dolosamente prive de la vida a cualquier a
 
 Al que cometa el delito de parricidio se le impondrá una sanción de treinta a cincuenta años de prisión.
 
-### CAPITULO VIII. DAÑO EN PROPIEDAD
+### CAPITULO VII. DESPOJO DE COSAS INMUEBLES O DE AGUAS
 
 ###### ARTICULO 352.
 
@@ -3167,25 +3217,17 @@ Comete el delito de filicidio el que dolosamente prive de la vida a cualquier de
 
 Al responsable del delito de filicidio se le impondrá una sanción de treinta a cincuenta años de prisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
 ###### ARTICULO 354.
 
-A la madre que cause dolosamente la muerte de su hijo dentro de las setenta y dos horas siguientes a su nacimiento, se le impondrá una sanción de seis a diez años de prisión, siempre que concurran las siguientes circunstancias:
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
-I.- Que no tenga mala fama;
-
-II.- Que haya ocultado su embarazo;
-
-III.- Que el nacimiento del infante haya estado oculto y no se hubiere inscrito en el Registro Civil; y
-
-IV.- Que el infante no sea producto de unión matrimonial o concubinato.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 355.
 
-Si en el caso a que se refiere el artículo anterior tomare participación un médico, partero o enfermero, además de las sanciones privativas de libertad por homicidio, se le suspenderá de uno a seis años en el ejercicio de su profesión a juicio del juez.
+Si en la comisión del delito de filicidio participara un médico, partero o enfermero, además de imponérseles las sanciones privativas de libertad por homicidio, se le suspenderá hasta por veinte años en el ejercicio de su profesión.
 
-### CAPITULO IX. REGLAS COMUNES PARA LOS CAPITULOS PRECEDENTES
+### CAPITULO VIII. DAÑO EN PROPIEDAD
 
 ###### ARTICULO 356.
 
@@ -3223,7 +3265,7 @@ II.- Cuando el embarazo haya sido resultado de una violación; y
 
 III.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de un grave daño a su salud a juicio del médico que la asista, oyendo éste la opinión de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-### CAPITULO UNICO
+### CAPITULO IX. REGLAS COMUNES PARA LOS CAPITULOS PRECEDENTES
 
 ###### ARTICULO 362.
 
@@ -3249,9 +3291,11 @@ El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o ji
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO UNICO
+### CAPITULO I. ENCUBRIMIENTO
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
+### CAPITULO II. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 366.
 
@@ -3266,6 +3310,10 @@ El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o ji
 (DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRA, P.O. 5 DE JUNIO DE 1999)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
 
 ## TITULO DECIMO SEPTIMO. DELITOS CONTRA EL HONOR
 
@@ -3291,13 +3339,11 @@ Si el ofendido fuere ascendiente, se impondrá al responsable una sanción de un
 
 ###### ARTICULO 372.
 
-Comete el delito de injurias, el que profiera una expresión o ejecute una acción para manifestar desprecio a otro, o con el fin de hacerle una ofensa.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 373.
 
-Al responsable del delito de injurias se le impondrá una sanción de tres días a un año de prisión o multa de uno a treinta días salario o ambas sanciones, a juicio del Juez.
-
-Si las injurias fueren recíprocas, el Juez podrá declararlas exentas de sanción.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 374.
 
@@ -3395,9 +3441,11 @@ I.- El particular que ilegalmente prive a otro de su libertad; y
 
 II.- El que por cualquier medio prive con perjuicio de otro, de los derechos y garantías establecidos por la Constitución General de la República en favor de las personas, siempre que no tenga señalada pena especial en este Código u otras leyes.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 389.
 
-Al responsable del delito a que se refiere el artículo anterior, se le impondrá una sanción de un mes a tres años de prisión y multa de tres a cincuenta días salario.
+Al responsable del delito a que se refiere el artículo anterior, se le impondrá una sanción de uno a cinco años de prisión y multa de treinta a cien días de salario.
 
 ###### ARTICULO 390.
 
@@ -3407,99 +3455,119 @@ I.- Al que obligue a otro a prestarle trabajos o servicios personales sin la ret
 
 II.- Al que celebre con otro un contrato que prive a éste de la libertad, o le imponga condiciones que lo constituyan en una especie de servidumbre o se apodere de una persona y la entregue a otra con el objeto de que ésta celebre contrato.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 391.
 
-Al que prive de la libertad a otro, se le sancionará:
+Comete el delito de secuestro quien, por cualquier medio, prive de la libertad a otro, con alguno de los siguientes propósitos:
 
-I.- De quince a cuarenta años de prisión y multa de quinientos a dos mil días salario, si la privación se efectúa con alguno de los propósitos siguientes:
+I.- Obtener un beneficio económico para sí o para un tercero;
 
-a).- Obtener rescate;
+II.- Que la autoridad o un particular realice o deje de realizar un acto cualquiera;
 
-b).- Detener en calidad de rehén a una persona y amenazarla con privarla de la vida o con causarle daño, para que las autoridades o un particular realice o deje de realizar un acto cualquiera; y
+III.- Alterar la integridad física o mental del secuestrado o de cualquier otra persona relacionada con éste, ó
 
-c).- Causar un daño o perjuicio a la persona privada de la libertad o a cualquier otra; y
+IV.- Causar daño o perjuicio económico al secuestrado o a otra persona relacionada con éste.
 
-II.- De veinte a cuarenta años de prisión y multa de dos mil a cuatro mil días salario, si en la privación de la libertad concurre alguna de las circunstancias siguientes:
+Al que cometa el delito de secuestro, se le aplicarán de quince a cuarenta años de prisión y de quinientos a dos mil días de salario.
 
-a).- Que se realice en camino público o en lugar desprotegido o solitario;
-
-b).- Que el autor sea o haya sido integrante de alguna institución de seguridad pública o se ostente como tal, sin serlo;
-
-c).- Que quienes lo lleven a cabo lo realicen en grupo de dos o mas personas;
-
-d).- Que se realice con violencia; y
-
-e).- Que la víctima sea menor de dieciséis años o mayor de sesenta años de edad, o que por cualquier otra circunstancia se encuentre en inferioridad física o mental respecto de quien ejecuta la privación de la libertad.
-
-Si espontáneamente se libera al secuestrado dentro de las veinticuatro horas siguientes al de la privación de la libertad, sin lograr alguno de los propósitos a que se refiere la fracción I de este artículo y sin que se de alguna de las circunstancias de la fracción II, la pena será de uno a cuatro años de prisión y multa de cien a trescientos días salario.
-
-En los demás casos en que se libere espontáneamente al secuestrado sin lograr alguno de los propósitos señalados en la fracción I, la sanción será de tres a diez años de prisión y multa de trescientos a seiscientos días salario.
-
-En caso de que el secuestrado sea privado de la vida por su o sus secuestradores, la sanción será de cuarenta a cincuenta años de prisión.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 391
 
-Bis.- Se impondrá de uno a ocho años de prisión y multa de trescientos a mil días salario, al que en relación con las conductas sancionadas en el artículo anterior y fuera de los casos de exclusión del delito o de responsabilidad penal previstos por este Código:
+Bis.- Se impondrán de treinta a cincuenta años de prisión y multa de mil a tres mil días de salario y, en su caso, destitución e inhabilitación del servidor público por un tiempo igual al de la pena de prisión impuesta, cuando en la ejecución del delito de secuestro a que se hace referencia en el artículo 391 de éste Código, concurra alguna de las circunstancias siguientes:
 
-I.- Actúe como intermediario en las negociaciones de rescate, sin el acuerdo de quienes representen o gestionen a favor de la víctima;
+I.- Que el secuestrado sea menor de dieciocho o mayor de sesenta años o que tenga alguna discapacidad física o mental;
 
-II.- Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
+II.- Que el secuestrador tenga o haya tenido vínculos de parentesco, amistad, gratitud, confianza o relación laboral con el secuestrado o persona relacionada con éste;
 
-III.- Actúe como asesor, con fines lucrativos; A quienes representen o hagan gestiones a favor de la víctima; Evite informar o colaborar con las autoridades competentes en el conocimiento de la comisión del secuestro;
+III.- Que el secuestrador sea o haya sido servidor público o miembro de una corporación de seguridad privada;
 
-IV.- Aconseje el no presentar la denuncia del secuestro cometido, o bien aconseje el no colaborar con las autoridades o de obstruir la actuación de ésta;
+IV.- Que el secuestro se desarrolle en dos o más entidades federativas;
 
-V.- Efectué el cambio de moneda nacional por divisa, o dé ésta por aquella, sabiendo que es con el propósito directo de pagar el rescate a que se refiere la fracción I del artículo anterior; y
+V.- Que el secuestrador cause una mutilación física o extraiga alguno de los órganos del secuestrado;
 
-VI.- Intimide a la víctima, o a sus familiares, o a sus representantes o gestores, después del secuestro, para que no colaboren con la autoridad competente.
+VI.- Que el secuestrador altere la salud del secuestrado o de los familiares de éste en forma permanente o grave;
 
-Lo previsto en las fracciones I, III, IV, V y VI no será aplicable a los que tengan parentesco consanguíneo o por afinidad con la víctima o sus familiares, a los que se encuentren ligados con estos por lazo de amistad o de afecto, ni a los asesores contratados por los familiares de la victima. No operará esta excepción si demuestra que quien intervino por acuerdo con el o los autores o participes del delito.
+VII.- Que la víctima sea una mujer en estado de embarazo;
+
+VIII.- Que la víctima pierda la vida después de la cesación del delito, por una causa originada durante el mismo, o
+
+IX.- Que persona relacionada con el secuestrado por un vínculo de parentesco o afectivo pierda la vida como consecuencia del delito.
+
+En caso de que el secuestrado sea privado de la vida por sus secuestradores, la pena de prisión será de cuarenta y cinco a cincuenta años y multa de mil quinientos a tres mil quinientos días de salario.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 391 Ter.
+
+Si el secuestrador deja en libertad de manera espontánea al secuestrado dentro de los tres días siguientes a la comisión del delito, sin haber logrado alguno de los propósitos previstos en el artículo 391, se le impondrán de cuatro a doce años de prisión y multa de trescientos a mil días de salario. Se aplicará la penalidad prevista en el artículo 391 cuando exista alguna de las circunstancias señaladas en el artículo 391 Bis de este Código.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 392.
 
-(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
+Se impondrán de tres a diez años de prisión y multa de doscientos a quinientos días de salario al que, en relación con las conductas sancionadas en los artículos 391, 391 Bis y 391 Ter:
+
+I.- Aconseje o induzca a no presentar la denuncia del secuestro cometido, o bien a no colaborar u obstruir la actuación de las autoridades;
+
+II.- Realice la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
+
+III.- Actúe como intermediario en las gestiones de libertad, sin la autorización de los familiares directos o tutores de la víctima, o
+
+IV.- Actuando como asesor de quienes representan o gestionan a favor de la víctima, evite informar o colaborar con la autoridad competente en el conocimiento de la comisión del secuestro.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 392 Bis.
+
+Al que solicite u obligue al secuestrado a retirar dinero de los cajeros electrónicos y/o de cualquier cuenta bancaria a la que éste tenga acceso, se le impondrá de cinco a quince años de prisión.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 392 Ter.
+
+A quien simule encontrarse secuestrado, con amenaza de su vida o daño a su persona, con el propósito de obtener rescate o con la intención de que la autoridad o un particular realice o deje de realizar un acto cualquiera, se le impondrá de cuatro a diez años de prisión y multa de treinta a ciento cincuenta días de salario.
+
+La misma pena se aplicará a cualquiera que participe en la comisión de este delito.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 393.
 
-Comete el delito de rapto, el que sustraiga o retenga a una persona por medio de la violencia física o moral, o del engaño, para satisfacer algún deseo erótico sexual o para casarse.
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 394.
 
-Al responsable del delito de rapto se le impondrá una sanción de tres a seis años de prisión y multa de cuarenta a ochenta días salario.
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 395.
 
-Se impondrá la sanción del Artículo anterior aunque el raptor no emplee la violencia ni el engaño, y consienta en el rapto la persona, si ésta fuere menor de catorce años de edad. Si el medio empleado fuese la violencia la pena se aumentará hasta en una mitad más.
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 396.
 
-Si el autor del delito, sin haber practicado con la víctima acto sexual alguno, le restituye la libertad o la coloca en lugar seguro a disposición de su familia dentro de los tres días siguientes a la comisión del delito, podrá disminuirse la pena hasta la mitad.
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 397.
 
-El delito de rapto se perseguirá por querella de parte ofendida o de su legítimo representante.
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 398.
 
-Cuando con el rapto concurra otro delito perseguible de oficio, se aplicarán las reglas del concurso.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ## TITULO DECIMO NOVENO. DELITOS CONTRA EL PATRIMONIO DE LAS PERSONAS
+
+###### ARTÍCULO 443 Bis.
+
+Al que por sí o por interpósita persona adquiera, enajene, administre, custodie, cambie, deposite, dé en garantía, invierta, transporte o transfiera recursos, derechos o bienes de cualquier naturaleza que procedan o representen el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar, encubrir o impedir conocer el origen, localización, destino o propiedad de dichos recursos, derechos o bienes, o alentar alguna actividad ilícita, se le impondrán de cinco a quince años de prisión y multa de mil a cinco mil días de salario.
+
+Las penas previstas en el párrafo anterior serán aumentadas en una mitad cuando el delito se cometa por servidores públicos; además, se impondrá a dichos servidores, destitución e inhabilitación para desempeñar empleo, cargo o comisión públicos, hasta por un tiempo igual al de la pena de prisión impuesta.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 25 DE OCTUBRE DE 1995)</small>
 
 ###### ARTICULO 399.
 
@@ -3747,13 +3815,15 @@ Al responsable del delito de fraude laboral se le impondrá una sanción de seis
 
 ###### ARTICULO 422.
 
-Comete el delito de usura, el que abusando de la apremiante necesidad de una persona, realizare cualquier préstamo, aun encubierto con otra forma contractual, con intereses superiores al bancario, u obtenga otras ventajas evidentemente desproporcionadas para sí o para otro.
+Comete el delito de usura, el que realizare cualquier préstamo, aún encubierto en otra forma contractual, con intereses superiores al bancario, u obtenga otras ventajas evidentemente desproporcionadas para sí o para otro.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 423.
 
-Al responsable del delito previsto en el artículo anterior, se le impondrá de seis meses a ocho años de prisión y multa de quince a cien días salario.
+Al responsable del delito previsto en el artículo anterior se le impondrá de seis meses a ocho años de prisión y multa de 100 a 500 días salario.
 
-Igual sanción se aplicará al que abusando de la apremiante necesidad ajena, procurase un préstamo cualquiera cobrando una comisión evidentemente desproporcionada para sí o para otro.
+Igual sanción se aplicará al que procurase un préstamo cualquiera cobrando una comisión evidentemente desproporcionada para sí o para otro.
 
 ###### ARTICULO 424.
 
@@ -3845,6 +3915,8 @@ Los delitos de abuso de confianza, fraude, fraude laboral, chantaje, despojo de 
 
 ## TITULO VIGESIMO. ENCUBRIMIENTO
 
+> <small>(REFORMADA SU NUMERACION, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 439.
 
 Comete el delito de encubrimiento la persona que:
@@ -3885,7 +3957,7 @@ II.- Su cónyuge o parientes colaterales o por consanguinidad hasta el cuarto gr
 
 III.- Los que estén ligados con el acusado por respeto, gratitud, estrecha amistad o afecto íntimo.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 25 DE OCTUBRE DE 1995)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ## TITULO VIGESIMO PRIMERO. DELITOS ELECTORALES
 
@@ -4244,3 +4316,17 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 10 DE DICIEMBRE DE 2003.
 
 Artículo Unico:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2004.
+
+DECRETO No. LVIII -1130, POR EL QUE SE REFORMAN Y DEROGAN DIVERSOS ARTICULOS DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2004.
+
+DECRETO No. LVIII -1138, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
