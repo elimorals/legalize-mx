@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1973-05-09"
+last_updated: "1974-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1974.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -287,13 +287,13 @@ Cada Municipio será administrado por un Ayuntamiento de elección popular direc
 
 La Ley Electoral reglamentará la materia relativa a elecciones de Funcionarios Municipales.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1968)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1974)</small>
 
 ###### Artículo 23.
 
-Los Ayuntamientos estarán integrados por un número de miembros que estará en relación con el censo de la municipalidad, y que en ningún caso será menor de cinco si el censo del municipio excede de 10,000 habitantes, de siete si cuenta con un número mayor pero sin exceder de 80,000, y de nueve sin excede de 80,000 habitantes, sin incluir los supernumerarios respectivos.
+Los Ayuntamientos estarán integrados por un Presidente Municipal, un Síndico Procurador y tres Regidores. En los Municipios que no excedan de diez mil habitantes, de acuerdo al último censo de población, los Ayuntamientos se integrarán con un Presidente Municipal, un Síndico Procurador y un Regidor.
 
-El período de sus funciones será de 3 años y no podrán ser reelectos para el período inmediato.
+Los funcionarios Municipales durarán en su cargo tres años y no podrán ser reelectos para el período inmediato.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
 
@@ -349,7 +349,7 @@ No podrán reunirse dos o más de estos Poderes en una sola persona o Corporaci�
 
 El Poder Legislativo reside en una Cámara de Diputados que se denominará "CONGRESO DEL ESTADO", electos directa y popularmente del modo y en la forma que dispone la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1974)</small>
 
 #### SECCION III. DEL MINISTERIO PUBLICO
 
@@ -357,25 +357,27 @@ El Poder Legislativo reside en una Cámara de Diputados que se denominará "CONG
 
 ###### Artículo 31.
 
-Por cada Distrito Electoral se elegirán un Diputado Propietario y un Suplente.
+Por cada Distrito Electoral se elegirán un Diputado Propietario y un Suplente. La elección de diputados será directa y se complementará, además, con diputados de partido, apegándose a lo que al respecto disponga la Ley Electoral y, en el segundo caso, a las reglas siguientes:
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+I.- Todo partido político que hubiere obtenido su registro, cuando menos un año antes de la elección, tendrá derecho a que se le acredite un diputado de partido, si obtiene el cinco por ciento de la votación general en el Estado y hasta dos disputados de partido, en caso de que obtenga el diez por ciento o más de dicha votación.
+
+II.- Si logra la mayoría en un distrito electoral, tendrá derecho a que se le acredite un solo diputado de partido y, si obtuviere la mayoría en dos distritos electorales, no tendrá derecho a que le sean reconocidos diputados de partido.
+
+III.- Los diputados de partidos serán acreditados por riguroso orden, de acuerdo con el número decreciente de sufragios que hayan logrado en relación a los demás candidatos del mismo partido, en todo el Estado.
+
+IV.- Los diputados de mayoría y los de partido, tendrán la misma categoría e iguales derechos y obligaciones.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1974)</small>
 
 ###### Artículo 32.
 
-Para ser Diputado se requieren los siguientes requisitos:
+Para ser diputado se requieren los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1953)</small>
+I.- Ser ciudadano guerrerense por nacimiento, varón o mujer e hijo de padres mexicanos, en ejercicio de sus derechos.
 
-I.- Ser Ciudadano guerrerense por nacimiento, varón o mujer e hijo de padres mexicanos, también por nacimiento y en ejercicio de sus derechos.
+II.- Tener 21 años de edad cumplidos el día de la elección.
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 1973)</small>
-
-II.- Tener veintiún años de edad, cumplidos el día de la elección.
-
-III.- Tener la instrucción primaria elemental y superior.
-
-IV.- Ser nativo del Distrito que lo elija o vecino de él, con residencia, cuando menos, de seis meses, inmediatamente anteriores al día de la elección.
+III.- Ser nativo del Distrito que lo elija o vecino de él, con residencia cuando menos de seis meses inmediatamente anteriores al día de la elección.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
 
@@ -393,11 +395,15 @@ III.- Los Diputados al Congreso Local durante el período de su encargo.
 
 IV.- Los Diputados y Senadores en ejercicio al Congreso de la Unión.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1974)</small>
 
 ###### Artículo 34.
 
-Ningún ciudadano legalmente electo Diputado, podrá excusarse de ejercer este encargo, si no es por causa grave que calificará el Congreso.
+Ningún ciudadano legalmente electo diputado o acreditado como Diputado de Partido en la legislatura, podrá excusarse de ejercer este encargo si no es por causa grave que calificará el Congreso.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1974)</small>
+
+Artículo 31 (sic).- Se tendrá como legalmente electo diputado al individuo que haya obtenido la mayoría de votos emitidos en el Distrito electoral por el que fuere nombrado y declarado así por la Junta Revisora o por el Colegio Electoral, en su caso y a el o los que hayan sido acreditados como diputados de partido.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
 
@@ -590,6 +596,22 @@ XXVIII.- Determinar, según las necesidades locales, el número máximo de Minis
 XXIX.- Nombrar y remover a los empleados de sus Secretarías y de la Contaduría de Glosa de acuerdo con las Leyes relativas.
 
 XXX.- Ejercer todas las facultades propias de un Cuerpo Legislativo, en todo aquello que no pugne con esta Constitución o la General de la República.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 1974)</small>
+
+Artículo 50 "B" (sic).- Los diputados serán obligados gestores de la cooperación social y expositores de los problemas que confrontan las poblaciones del Distrito que representan, para lo cual deberán visitarlos en los recesos de la Cámara y se informarán:
+
+1o.- Del estado en que se encuentra la instrucción pública.
+
+2o.- Del progreso o decadencia en que se haya la industria, el comercio y las actividades agropecuarias.
+
+3o.- De los obstáculos que se opongan al adelanto de las poblaciones de su distrito y las medidas que deban tomarse para impulsar todos o algunos ramos de la riqueza pública.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 1974)</small>
+
+Artículo 50 "C" (sic).- Al abrirse el período de sesiones, posterior a la visita, los diputados presentarán a la Legislatura un informe por escrito del resultado de sus observaciones, proponiendo al mismo tiempo, soluciones para remediar los males que hayan notado.
+
+La falta de cumplimiento de las obligaciones que imponen este y el anterior artículo, será causa de inhabilidad por dos años para ejercer cargos de elección popular en el Estado.
 
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1950)</small>
 
@@ -1656,3 +1678,13 @@ UNICO.- Este Decreto surtirá sus efectos a partir de la fecha de su publicació
 P.O. 9 DE MAYO DE 1973.
 
 UNICO.- Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE AGOSTO DE 1974.
+
+###### ARTICULO PRIMERO.
+
+Se derogan los artículos de la Constitución Política Local a que se refiere el presente Decreto.
+
+###### ARTICULO SEGUNDO.
+
+Estas reformas y adiciones a la Constitución Política Local, entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
