@@ -4,7 +4,7 @@ identifier: "FED-ley-del-mercado-de-valores-476"
 country: "mx"
 rank: "ley"
 publication_date: "1975-01-02"
-last_updated: "1999-01-19"
+last_updated: "1999-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=476&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMV"
 
 LEY DEL MERCADO DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 2 de enero de 1975.
 
@@ -140,9 +140,9 @@ I.- Que cuando se trate de sociedades civiles o sociedades anónimas, tengan nac
 
 Asimismo, los socios administradores o miembros del Consejo de Administración, así como directivos, apoderados y empleados no deberán participar en el capital o en los órganos de administración, ni tener relación de dependencia con casas de bolsa, especialistas bursátiles, sociedades operadoras de sociedades de inversión, instituciones de crédito, instituciones calificadoras de valores y sociedades emisoras de valores que sean materia de intermediación en el mercado de valores. Estas restricciones también serán aplicables a las personas físicas que realicen el manejo de carteras de valores previsto en este artículo.
 
-II.- Las operaciones que se realicen con motivo de los servicios que presten invariablemente deberán quedar documentadas a nombre del cliente respectivo y se llevarán a cabo a través de casas de bolsa, especialistas bursátiles, sociedades operadoras de sociedades de inversión, o bien de instituciones de crédito, estando prohibido que perciban remuneraciones de cualquiera de las entidades financieras señaladas.
+II.- Las operaciones que se realicen con motivo de los servicios que presten invariablemente deberán quedar documentadas a nombre del cliente respectivo y se llevarán a cabo a través de casas de bolsa, especialistas bursátiles, sociedades operadoras de sociedades de inversión, o bien de instituciones de crédito, estando prohibido que perciban remuneraciones de cualquiera de las entidades financieras señaladas;
 
-III.- En ningún caso podrán recibir fondos o valores para su custodia o para la realización de sus actividades.
+III.- En ningún caso podrán recibir fondos o valores para su custodia o para la realización de sus actividades;
 
 IV.- La propaganda o publicidad dirigida al público estará sujeta a las previsiones contenidas en el artículo 5o. de la presente Ley.
 
@@ -648,25 +648,25 @@ La Comisión Nacional de Valores podrá suspender la inscripción en la Sección
 
 > <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
-I.- Dejen de satisfacer en cualquier tiempo los requisitos señalados en el artículo 17.
+I.- Dejen de satisfacer en cualquier tiempo los requisitos señalados en el artículo 17;
 
-II.- Incurran en violaciones a lo dispuesto en esta Ley o en sus disposiciones reglamentarias.
-
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
-
-III.- Realicen operaciones que impliquen conflictos de intereses, o intervengan en aquéllas que no se ajusten a los usos y sanas prácticas del mercado de valores.
-
-IV.- Dejen de realizar las funciones de intermediación que le son propias, en forma significativa.
+II.- Incurran en violaciones a lo dispuesto en esta Ley o en sus disposiciones reglamentarias;
 
 > <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-V.- Tratándose de casas de bolsa, intervengan en operaciones con valores no inscritos en el Registro Nacional de Valores e Intermediarios, salvo lo previsto en el artículo 13 de esta Ley.
+III.- Realicen operaciones que impliquen conflictos de intereses, o intervengan en aquéllas que no se ajusten a los usos y sanas prácticas del mercado de valores;
+
+IV.- Dejen de realizar las funciones de intermediación que le son propias, en forma significativa;
 
 > <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-VI.- Tratándose de especialistas bursátiles, realicen operaciones con valores fuera de bolsa, a menos que se cumpla con lo dispuesto en el artículo 31, fracción VIII, inciso f) de esta Ley.
+V.- Tratándose de casas de bolsa, intervengan en operaciones con valores no inscritos en el Registro Nacional de Valores e Intermediarios, salvo lo previsto en el artículo 13 de esta Ley;
 
-VII.- Falten por causa imputable a ellos al cumplimiento de obligaciones derivadas de las operaciones contratadas.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
+
+VI.- Tratándose de especialistas bursátiles, realicen operaciones con valores fuera de bolsa, a menos que se cumpla con lo dispuesto en el artículo 31, fracción VIII, inciso f) de esta Ley;
+
+VII.- Falten por causa imputable a ellos al cumplimiento de obligaciones derivadas de las operaciones contratadas;
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
 
@@ -678,11 +678,11 @@ La disolución y liquidación se regirá por lo dispuesto en los Capítulos X y 
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-a) La Comisión Nacional de Valores tendrá las mismas atribuciones que tiene la Comisión Nacional Bancaria y de Valores en la suspensión de pagos o quiebra de las instituciones de crédito.
+a) La Comisión Nacional de Valores tendrá las mismas atribuciones que tiene la Comisión Nacional Bancaria y de Valores en la suspensión de pagos o quiebra de las instituciones de crédito;
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
 
-b) El cargo de síndico y liquidador siempre corresponderá a una institución de crédito.
+b) El cargo de síndico y liquidador siempre corresponderá a una institución de crédito;
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
@@ -692,7 +692,7 @@ c) La Comisión Nacional de Valores ejercerá respecto a los síndicos y liquida
 
 d) La Comisión Nacional de Valores podrá solicitar la suspensión de pagos y la declaratoria de quiebra, en los términos de la Ley de Quiebras y Suspensión de Pagos.
 
-IX.- Proporcionen o hagan a la Comisión Nacional de Valores informaciones o declaraciones falsas o dolosas.
+IX.- Proporcionen o hagan a la Comisión Nacional de Valores informaciones o declaraciones falsas o dolosas;
 
 X.- Pierdan la mitad o más del capital social exhibido o reduzcan su capital social a una suma inferior a la que tenían cuando se inscribieron en el Registro Nacionales (sic) de Valores e Intermediarios.
 
@@ -1664,31 +1664,27 @@ Las sanciones que haya impuesto la Comisión Nacional de Valores a las personas 
 
 Las multas que la citada Comisión imponga deberán ser pagadas dentro de los quince días hábiles siguientes al de su notificación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 52.
 
-Serán sancionadas con prisión de dos a diez años y multa de mil doscientos a doce mil días de salario:
+Serán sancionados con prisión de cinco a quince años y multa de hasta cien mil días de salario:
 
 I.- Las personas que sin ser agentes de valores realicen actos de los reservados a éstos por la presente Ley.
 
 II.- Las personas que hagan oferta pública de los títulos o documentos a que se refiere el artículo 3o., cuando éstos no estén inscritos en el Registro Nacional de Valores e Intermediarios.
 
-III.- (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 1985)
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
-
-> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 52 Bis.
 
-Serán sancionadas con prisión de dos a diez años y multa de mil doscientos a doce mil días de salario, las personas que desempeñen funciones directivas, empleos, cargos o comisiones en una casa de bolsa o especialista bursátil, que intencionalmente dispongan de los fondos o de los valores, títulos de crédito o documentos a que se refiere el artículo 3o. de esta Ley, recibidos de la clientela, aplicándolos a fines distintos de los contratados por dicha clientela.
+Serán sancionadas con prisión de cinco a quince años y multa de mil a cincuenta mil días de salario, las personas que desempeñen funciones directivas, empleos, cargos o comisiones en una casa de bolsa o especialista bursátil, que intencionalmente dispongan de los fondos o valores, títulos de crédito o documentos a que se refiere el artículo 3o. de esta ley, recibidos de la clientela, aplicándolos a fines distintos a los contratados por dicha clientela.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 52 Bis 1.
 
-Serán sancionados con prisión de uno a diez años y multa de mil a diez mil días de salario, los miembros del consejo de administración, directivos, empleados, apoderados para celebrar operaciones con el público, comisarios o auditores externos, de una casa de bolsa o especialista bursátil:
+Serán sancionados con prisión de dos a diez años y multa de mil a cincuenta mil días de salario, los miembros del consejo de administración, directivos, funcionarios, empleados, apoderados para celebrar operaciones con el público, comisarios o auditores externos de una casa de bolsa o especialista bursátil:
 
 (ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 1985)(F. DE E., D.O.F. 23 DE ENERO DE 1987)
 
@@ -1698,29 +1694,39 @@ I.- Que, a sabiendas, omitan registrar en los términos del primer párrafo del 
 
 II.- Que intencionalmente inscriban u ordenen que se inscriban datos falsos en la contabilidad o que proporcionen o permitan que se incluyan datos falsos en los documentos o informes que deban proporcionarse a la Comisión Nacional de Valores, conforme a los artículos 25, 26 Bis 4, 26 Bis 6 y 27, fracciones I y II de esta Ley.
 
-III.- (DEROGADA, D.O.F. 23 DE JULIO DE 1993)
-
-> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 52 Bis 2.
 
-Serán sancionados con prisión de seis meses a cinco años y multa de dos a tres veces el beneficio obtenido o la pérdida evitada, los miembros del consejo de administración, directores, gerentes y factores de sociedades emisoras de los valores, títulos de crédito o documentos a que se refiere el artículo 3o. de esta Ley:
+Serán sancionados con prisión de dos a diez años y multa de dos a tres veces el beneficio obtenido o la pérdida evitada, los miembros del consejo de administración, directores, gerentes y factores de sociedades emisoras de los valores, títulos de crédito o documentos a que se refiere el artículo 3o. de esta ley.
+
+> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
 
 I.- Que, a sabiendas, en prospectos de información al público o por cualquier otra vía, mediante la difusión de información falsa relativa a la sociedad emisora con la que se encuentren vinculados, obtengan un lucro indebido o se eviten una pérdida, directamente o por interpósita persona, a través de la adquisición y/o enajenación de los valores, títulos de crédito o documentos a que se refiere el primer párrafo de este artículo, emitidos por la propia sociedad.
 
-II.- Que mediante el uso indebido de información privilegiada definida en el artículo 16 Bis de la presente Ley, proveniente de la sociedad emisora con la que se encuentren vinculados, obtengan un lucro indebido o se eviten una pérdida, directamente o por interpósita persona, a través de la adquisición y/o enajenación de los valores, títulos de crédito o documentos señalados en el primer párrafo de este artículo, emitidos por la propia sociedad, siempre que se produzca una variación igual o mayor al 10% entre los precios de compra o de venta de las operaciones efectuadas por cualquiera de las personas a que se refiere dicho primer párrafo, antes de que la información privilegiada sea hecha de conocimiento del público, y el precio de mercado de los valores, títulos de crédito o documentos emitidos por la sociedad con la que se tenga el vínculo.
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+II. Que mediante el uso indebido de información privilegiada proveniente de una sociedad emisora, obtengan un lucro indebido o se eviten una pérdida, directamente o por interpósita persona, a través de la adquisición y/o enajenación de los valores, títulos de crédito o documentos emitidos por la propia sociedad, antes de que la información privilegiada sea hecha del conocimiento del público, con respecto al precio de mercado de los valores, títulos de crédito o documentos emitidos por la sociedad de que se trate.
+
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
 Para los efectos de este delito, se considera precio de mercado al promedio del último precio de cierre registrado en bolsa, de los valores, títulos de crédito o documentos correspondientes, durante los diez días hábiles siguientes a la fecha en que la citada información privilegiada haya sido puesta en conocimiento del público.
 
-Las mismas penas consignadas en este precepto se impondrán a las personas que desempeñen funciones directivas, empleos, cargos o comisiones en las casas de bolsa u otras entidades que intervengan como asesores en operaciones de oferta pública de los valores, títulos de crédito o documentos de que se trata, cuando realicen las conductas tipificadas en las fracciones I y II, dentro de los treinta días hábiles previos y posteriores a la fecha en que concluya la oferta pública respectiva.
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
+Las mismas penas consignadas en este precepto se impondrán a las personas que desempeñen funciones directivas, empleos, cargos o comisiones en las casas de bolsa u otras entidades que intervengan como asesores en operaciones de oferta pública de los valores, títulos de crédito o documentos de que se trata, o a terceros que obtengan la información de éstos o de las personas que menciona el artículo 16 Bis 1, cuando realicen las conductas tipificadas en las fracciones l y II, dentro de los treinta días hábiles previos y posteriores a la fecha en que concluya la oferta pública respectiva.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 52 Bis 3.
 
-Los delitos previstos en los artículos 52, 52 Bis, 52 Bis 1 y 52 Bis 2, solamente se perseguirán a petición de la Secretaría de Hacienda y Crédito Público, previa opinión de la Comisión Nacional de Valores.
+Los delitos previstos en los artículos 52, 52 Bis, 52 Bis 1, 52 Bis 2, 52 Bis 5, 52 Bis 6, y 52 Bis 7 de esta ley, se perseguirán a petición de la Secretaría de Hacienda y Crédito Público, previa opinión de la Comisión Nacional Bancaria y de Valores; también se procederá a petición de la casa de bolsa o especialistas bursátiles ofendidos, o de quien tenga interés jurídico.
 
-Las multas previstas en los artículos 52, 52 Bis y 52 Bis 1 de esta Ley, se impondrán a razón de días de salario mínimo general vigente en el Distrito Federal en la fecha en que se realice la conducta sancionada.
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Las multas previstas en este capítulo, se impondrán a razón de días de salario. Para calcular su importe, se tendrá como base el salario mínimo general diario vigente en el Distrito Federal al momento de realizarse la conducta sancionada.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
 Lo dispuesto en los artículos citados en el primer párrafo, no excluye la imposición de las sanciones que conforme a otras leyes fueren aplicables.
 
@@ -1739,6 +1745,42 @@ Las disposiciones señaladas deberán ser observadas oportunamente por los miemb
 > <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 Tanto los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional Bancaria y de Valores, como los miembros de los consejos de administración, comisarios, auditores externos, funcionarios y empleados de los intermediarios financieros a que se refiere este artículo, deberán abstenerse de dar noticia o información de las operaciones previstas en el mismo a personas, dependencias o entidades, distintas a las autoridades competentes expresamente previstas. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+###### ARTICULO 52 Bis 4.
+
+La acción penal en los delitos previstos en esta ley, perseguibles por petición de la Secretaría de Hacienda y Crédito Público, de la casa de bolsa o especialistas bursátiles ofendidos, o de quién tenga interés jurídico, prescribirá en tres años contados a partir del día en que dicha Secretaría, la casa de bolsa o especialistas bursátiles tengan conocimiento del delito y del delincuente, y si no tiene ese conocimiento, en cinco años que se computarán a partir de la fecha de la comisión del delito. En los demás casos, se estará a las reglas del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+###### ARTICULO 52 Bis 6.
+
+Serán sancionados los servidores públicos de la Comisión Nacional Bancaria y de Valores, con la pena establecida para los delitos correspondientes más una mitad, según se trate de los delitos previstos en los artículos 52 al 52 Bis 2 de esta ley, cuando:
+
+a) Oculten al conocimiento de sus superiores hechos que probablemente puedan constituir delito;
+
+b) Permitan que los funcionarios o empleados de la casa de bolsa o especialistas bursátiles, alteren o modifiquen registros con el propósito de ocultar hechos que probablemente puedan constituir delito;
+
+c) Obtengan o pretendan obtener un beneficio a cambio de abstenerse de informar a sus superiores hechos que probablemente puedan constituir delito;
+
+d) Ordenen o inciten a sus inferiores a alterar informes con el fin de ocultar hechos que probablemente puedan constituir delito, o
+
+e) Incite u ordene no presentar la petición correspondiente, a quien esté facultado para ello.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+###### ARTICULO 52 Bis 5.
+
+Los consejeros, funcionarios, administradores, comisarios o accionistas que ordenen o insten a funcionarios o empleados de la casa de bolsa o especialista bursátil a la comisión de los delitos contenidos en los artículos 52 Bis, 52 Bis 1 y 52 Bis 2, serán sancionados hasta en una mitad más de las penas previstas en los artículos respectivos.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+###### ARTICULO 52 Bis 7.
+
+Se sancionará con prisión de tres a quince años al miembro del consejo de administración, funcionario o empleado de las casas de bolsa o especialistas bursátiles, que por sí o por interpósita persona, dé u ofrezca dinero o cualquier otra cosa a un servidor público de la Comisión Nacional Bancaria y de Valores, para que haga u omita un determinado acto relacionado con sus funciones.
+
+Igual sanción se impondrá al servidor público de la Comisión Nacional Bancaria y de Valores, que por sí o por interpósita persona solicite para sí o para otro, dinero o cualquier otra cosa, para hacer o dejar de hacer algún acto relacionado con sus funciones.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -2993,3 +3035,9 @@ SEXTO.- Las sociedades financieras de grupos financieros, instituciones de créd
 SÉPTIMO.- Las sociedades controladoras de grupos financieros, instituciones de banca múltiple, casas de bolsa, especialistas bursátiles y Filiales del tipo de las entidades financieras anteriores, tendrán un plazo de tres años contado a partir de la entrada en vigor de este Decreto, para que su consejo de administración y órgano de vigilancia se ajusten a lo dispuesto en los artículos 24 y 27-L de la Ley para Regular las Agrupaciones Financieras, 22, 26 y 45-K de la Ley de Instituciones de Crédito, y 17 bis 1 y 28 bis 11 de la Ley del Mercado de Valores, según corresponda.
 
 Los consejeros y comisarios de las series "A", "B" y "F" de las entidades financieras mencionadas, continuarán en el desempeño de sus funciones mientras no se realicen las designaciones que correspondan en términos de lo establecido en las disposiciones referidas en el párrafo anterior, y los designados tomen posesión de sus cargos.
+
+D.O.F. 17 DE MAYO DE 1999.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
