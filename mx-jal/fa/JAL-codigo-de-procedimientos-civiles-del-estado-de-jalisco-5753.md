@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "1985-01-17"
+last_updated: "1990-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 1990.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -342,9 +342,11 @@ Respecto de los poderes otorgados fuera del Estado, se observará lo dispuesto e
 
 De las Actuaciones y Resoluciones Judiciales.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 52.
 
-Las actuaciones judiciales y los ocursos deberán escribirse en idioma español. Los escritos ilegibles no serán admitidos. Los documentos redactados en idioma extranjero deberán acompañarse con la correspondiente traducción. Las fechas y cantidades se escribirán con letra.
+Las actuaciones Judiciales y los ocursos deberán escribirse en idioma español. Los escritos ilegibles y los que carezcan de firma sin ajustarse a lo establecido por el Art. 1755 del Código Civil, no serán admitidos. Los documentos redactados en idioma extranjero deberán acompañarse con la correspondiente traducción, de perito autorizado. Las fechas y cantidades se escribirán letra, las multas y sanciones serán conforme al salario mínimo vigente en el mes de enero del respectivo año, en el área geográfica en que se localice la autoridad que la imponga.
 
 ###### ARTICULO 53.
 
@@ -364,9 +366,13 @@ El acuerdo será reservado.
 
 Los Jueces y Magistrados, a quienes corresponda, recibirán por sí mismos las declaraciones y presidirán todos los actos de prueba, bajo pena de suspensión hasta de quince días, independientemente de otra responsabilidad que pudiera resultarles.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 57.
 
-Los Jueces y Magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y consideración debidos, corrigiendo en el acto las faltas que se cometieron, con multas que no podrán pasar; en los juzgados de paz, de cinco pesos; en los menores, de diez; y de cien en los de primera instancia y en el Supremo Tribunal. Podrán también emplear el uso de la fuerza pública. Si las faltas llegaren a constituir delitos, se procederá criminalmente contra los que los cometieron, consignando al culpable a la autoridad competente, con testimonio de lo conducente.
+Los jueces y Magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y consideración debidos, corrigiendo en el acto las faltas que se cometieron, con multas que no podrán pasar, en los juzgados de paz, del importe de tres días de salario mínimo; en los Juzgados Menores, del importe de siete días de salario mínimo; y en los Juzgados de Primera Instancia y en el Supremo Tribunal, del importe de setenta días de salario mínimo, tomando en cuenta la gravedad del caso y la situación económica de la persona a quien se imponga. Podrán también emplear el uso de la fuerza pública. Si las faltas llegaren a constituir delitos, se procederá criminalmente contra quienes los cometieron, consignando al culpable a la autoridad competente, con testimonio de lo conducente.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 58.
 
@@ -376,7 +382,7 @@ I.- El apercibimiento;
 
 II.- La amonestación;
 
-III.- La multa que no exceda de cien pesos, que se duplicará en caso de reincidencia; y
+III.- La multa que no excederá del importe de setenta días de salario mínimo; y
 
 IV.- La suspensión que no exceda de un mes.
 
@@ -400,9 +406,11 @@ Las copias simples de los documentos que se presenten, confrontadas y autorizada
 
 Los interesados podrán presentar copias simples de sus escritos, a fin de que se les devuelvan con la anotación de la fecha y hora de presentación, selladas y firmadas por el empleado que las reciba en el tribunal.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 62.
 
-El Secretario hará constar el día y hora en que se presente un escrito y si este contiene o no la firma del patrono, e inmediatamente dará cuenta con el, bajo la pena de diez pesos de multa, sin perjuicio de las demás que merezca conforme a las leyes.
+El Secretario hará constar el día y hora en que se presente un escrito y si éste contiene o no la firma del patrono, e inmediatamente dará cuenta con él, bajo la pena del importe de siete días de salario mínimo de multa, sin perjuicio de las demás que merezca conforme a las leyes.
 
 ###### ARTICULO 63.
 
@@ -434,19 +442,19 @@ Los tribunales no admitirán nunca incidentes ni recursos notoriamente frívolos
 
 Los incidentes ajenos al negocio principal deberán ser repelidos de oficio por los Jueces.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 68.
 
-Los Jueces, para hacer cumplir sus determinaciones, podrán emplear cualquiera de los siguientes medios de apremio que juzguen eficaces:
+Los Jueces, para hacer cumplir sus determinaciones, podrán emplear cualquiera de los de los siguientes medios de apremio que juzguen eficaces:
 
-I.- La multa de cinco hasta cien pesos, que se duplicará en caso de reincidencia;
+I.- La multa por el importe de siete a setenta días de salario mínimo;
 
 II.- El auxilio de la fuerza pública;
 
-III.- El cateo por orden escrita; y
+III.- La ejecución forzosa de sus resoluciones, bajo rigor constitucional; y
 
-IV.- La privación de la libertad hasta por quince días.
-
-Si el caso exige mayor sanción, se dará parte a la autoridad competente.
+IV.- La privación de la libertad hasta por treinta y seis horas. Si el caso exige mayor sanción, se dará parte a la autoridad competente.
 
 ###### ARTICULO 69.
 
@@ -462,11 +470,13 @@ Las notificaciones hechas en forma distinta a la prevenida en el Capítulo V del
 
 La nulidad de una actuación debe reclamarse en la actuación subsecuente en que intervenga el que la promueve; de lo contrario, aquella queda revalidada de pleno derecho, con excepción de la nulidad por defecto en el emplazamiento.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 72.
 
-Las nulidades a que se refiere el artículo anterior se promoverán ante el mismo Juez o Tribunal que conozca del negocio. Si la parte contraria estuviere conforme, se declarará desde luego la nulidad de lo actuado desde la notificación hecha indebidamente. Si no estuviere conforme, se convocará a una audiencia que tendrá verificativo a más tardar dentro de cinco días, en la que los interesados podrán presentar las pruebas que tuvieren. En la misma audiencia se resolverá lo que procediere en justicia, sin mas recurso que el de responsabilidad, salvo que se trate de nulidades por falta de emplazamiento, de citación para absolver posiciones o para reconocimiento de documentos, que serán apelables.
+Las nulidades a que se refiere el artículo anterior se promoverán ante el mismo juez o Tribunal que conozca del negocio. Si la parte contraria estuviere conforme, se declarará desde luego la nulidad de lo actuado desde la notificación hecha indebidamente. Si no estuviere conforme se convocará a una audiencia que tendrá verificativo a más tardar dentro de cinco días, en la que los interesados podrán presentar las pruebas que tuvieren. En la misma audiencia se resolverá lo que procediere en justicia, sin más recurso que el de responsabilidad, salvo que se trate de nulidades por falta de emplazamiento, de citación para absolver posiciones o para reconocimiento de documentos, que serán apelables.
 
-En el caso de que proceda la nulidad, se impondrá al responsable una multa de diez a veniticinco (sic) pesos y se la condenará al pago de los gastos y costas.
+En el caso de que proceda la nulidad, se impondrá al responsable una multa por el importe de siete a veinte días de salario mínimo y se le condenará al pago de los gastos y costas, si fuere parte.
 
 ###### ARTICULO 73.
 
@@ -656,9 +666,11 @@ Pueden los tribunales acordar que los exhortos y despachos que manden expedir se
 
 De las Notificaciones.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 105.
 
-Las notificaciones, emplazamientos, citaciones y entrega de expedientes se verificarán a más tardar al día siguiente del en que se dicten las resoluciones que las prevengan, siempre que el juez no disponga en éstas otra cosa. Se impondrá de plano a los infractores de éste artículo una multa que no exceda de veinticinco pesos.
+Las notificaciones, emplazamientos, citaciones y entrega de expedientes se verificarán a más tardar, el día siguiente del en que se dicten las resoluciones que las prevengan, siempre que el Juez no disponga en éstas otra cosa. Se impondrá de plano a los infractores de este Artículo una multa que no exceda del importe de quince días de salario mínimo.
 
 ###### ARTICULO 106.
 
@@ -690,7 +702,9 @@ IV.- El requerimiento de un acto a la parte que deba cumplirlo;
 
 V.- Cuando se haga saber el envío de los autos a otro tribunal o cuando el Juez lo estime pertinente y así lo ordene;
 
-VI.- En los demás casos que la ley lo disponga.
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1990)</small>
+
+VI.- La sentencia definitiva o interlocutoria, y los demás casos que la Ley lo disponga.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
 
@@ -716,13 +730,17 @@ En los casos de notificación por cédula, si después de que el notificador se 
 
 Si el notificador recibe informes del lugar en que habitualmente trabaja el notificado, sin necesidad de que el Juez dicte una determinación especial, pasará a darle conocimiento de la diligencia, asentando razón de ello en los autos.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 114.
 
-Cuando se ignore la casa en que tiene su domicilio la persona que deba ser notificada, podrá hacerse la notificación en el lugar en que se le encuentre. Si el notificado no supiere o no pudiere firmar, lo hará a su ruego la persona por él designada; y si no quisiere firmar o se rehusa a designar persona que lo haga por él, así lo hará constar el notificador ante dos testigos que requerirá para el efecto, los cuales no podrán negarse a intervenir en la diligencia bajo la pena de dos a diez pesos de multa.
+Cuando se ignore la casa en que tiene su domicilio la persona que deba ser notificada, podrá hacerse la notificación en el lugar en que se le encuentre. Si el notificado no supiere o no pudiere firmar, lo hará a su ruego la persona por él designada; y si no quiere firmar o se rehusa a designar persona que lo haga por él; y si no quisiere firmar o se rehusa a designar persona que lo haga por él, así lo hará constar el notificador, ante dos testigos que requerirá para el efecto, los cuales no podrán negarse a intervenir en la diligencia, bajo la pena de ser sancionados con una multa hasta por el importe de siete días de salario mínimo.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 115.
 
-Cuando por culpa del actor, no se emplace personalmente al demandado, se impondrá al responsable una multa de veinticinco a cien pesos, si el asunto fuere de la competencia de los Jueces de Primera Instancia o de las Salas de Tribunal; de cinco a veinte y cinco pesos, si lo fuere de la competencia de los Jueces Menores; y de uno a cinco pesos, si se trata de negocios de un Juzgado de Paz, sin perjuicio de las demás penas que correspondan por los delitos que resultaren cometidos.
+Cuando por culpa del actor, no se emplace personalmente al demandado, se impondrá al responsable una multa por el importe de diecisiete a setenta días de salario mínimo si el asunto fuere de la competencia de los jueces de Primera Instancia o de las Salas de Tribunal; de cuatro a diecisiete días de salario mínimo si lo fuere de la competencia de los Jueces Menores; y de uno a cuatro días de salario, si se trata de negocios de un Juzgado de Paz, sin perjuicio de las demás penas que correspondan por los delitos que resultaren cometidos.
 
 ###### ARTICULO 116.
 
@@ -742,13 +760,21 @@ III.- En todos los demás casos previstos por la Ley.
 
 En los casos de las fracciones primera y segunda los edictos se publicarán tres veces, de tres en tres días, en el Boletín Judicial y en otro periódico de los de mayor circulación, haciéndose saber que debe presentarse el citado dentro de un término que no bajará de quince ni excederá de sesenta días.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 118.
 
-La segunda y ulteriores notificaciones se harán personalmente a los interesados o a sus procuradores si concurren al tribunal o juzgado respectivo, hasta antes de las doce horas del tercer día, contado desde el mismo en que se dicten las resoluciones que hayan de notificarse.
+La segunda y ulteriores notificaciones se harán personalmente a los interesados o a sus abogados patronos si concurren al Tribunal o Juzgados respectivo, hasta antes de las doce horas del tercer día, contado desde el mismo en que se dicten las resoluciones que hayan de notificarse.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 119.
 
-También podrán hacerse notificaciones a los abogados de las partes, cuando en autos hayan sido facultados al efecto por sus clientes. La facultad de oír notificaciones autoriza al abogado para promover en contestación de las mismas que lo que no perjudique a su cliente, y para alegar o presentar alegatos.
+Las partes e interesados podrán designar por escrito, en cualquiera etapa procesal, abogado patrono legalmente autorizado para el ejercicio profesional.
+
+La designación aceptada faculta y obliga al abogado para recabar, ofrecer desahogar y objetar pruebas; interponer y continuar los recursos e incidentes; formular alegatos y en general, realizar todos los actos procesales que le correspondan a quien lo designó, exceptuando la transacción, el desistimiento y los actos personalísimos que la Ley o el juez señalen. Cuando hubiere varios designados, en la práctica de diligencias o audiencias solo uno podrá llevar la voz.
+
+El designado en los términos de este artículo tendrá las mismas obligaciones de un mandatario especial, con respecto a su patrocinado.
 
 ###### ARTICULO 120.
 
@@ -768,9 +794,11 @@ Por ningún motivo se incluirán en la lista los negocios o resoluciones que ten
 
 También se fijará diariamente en la puerta de las Secretarías de las Salas del Supremo Tribunal y en las de los Juzgados, un ejemplar del Boletín Judicial y se formará una colección de dicho diario para resolver toda duda que se suscite sobre la falta de alguna publicación. En el archivo del Supremo Tribunal se llevarán dos colecciones del mismo Boletín, una de las cuales estará siempre a disposición del público.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 124.
 
-En las Salas del Tribunal y en los Juzgados, las notificaciones harán constar en los autos respectivos el número y fecha del Boletín en que se ha hecho la publicación a que se refiere el artículo 122, bajo la pena de veinticinco pesos de multa por la primera falta, de cincuenta pesos por la segunda y de suspensión de empleo, hasta por tres meses, por la tercera; sin perjuicio de indemnizar debidamente a la persona que resulte perjudicada por la omisión.
+En las Salas del Tribunal y en los Juzgados, los notificadores harán constar en los autos respectivos el número y fecha del Boletín en que se ha hecho la publicación a que se refiere el Art. 122, bajo la pena de multa de hasta quince días de salario mínimo por la primera falta, hasta el importe de treinta días de salario mínimo por la segunda, y de suspensión del empleo, hasta por tres meses, por la tercera; sin perjuicio de indemnizar debidamente a la persona que resulte perjudicada por la omisión.
 
 ###### ARTICULO 125.
 
@@ -1096,11 +1124,13 @@ En ambos casos, recibidos los autos en el tribunal que deba dirimir la competenc
 
 Decidida la competencia el tribunal mandará sin retardo los autos al Juez declarado competente, con testimonio de la sentencia de la cual remitirá un tanto al estimado incompetente, si lo hubiere. De la resolución dictada en estos casos no procederá más recurso que el de responsabilidad.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 172.
 
 El litigante que hubiere optado por uno de los medios de promover una competencia, no podrá abandonarlo y recurrir al otro; tampoco podrá emplearlos sucesivamente.
 
-Cuando no proceda el conflicto de competencia, deberá pagar las costas el que la promovió y una multa hasta de trescientos pesos que, según la importancia del negocio, le impondrá el superior en favor del colitigante.
+Cuando no proceda el conflicto de competencia, deberá pagar las costas el que la promovió y una multa hasta por el importe de ciento ochenta días de salario mínimo, según la importancia del negocio, que le impondrá la autoridad a favor del Erario Estatal.
 
 ###### ARTICULO 173.
 
@@ -1140,17 +1170,25 @@ III.- Cuando los Juzgados que conozcan respectivamente de los Juicios pertenezca
 
 La excepción de conexidad con petición acumulatoria se opondrá como todas al contestar la Demanda o la Reconvención, en su caso, del Juicio nuevo, siempre que en el más antiguo no se haya pronunciado todavía sentencia, pues en caso contrario, la excepción sólo cabe para tomar en cuenta dicha Sentencia en el moderno litigio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 178.
 
-La parte que promueve la acumulación acompañará a su escrito copia autorizada de la Demanda y contestación que fijaron la litis del Juicio conexo, o pedirá si es más factible la inspección de los autos. Con esta prueba y la contestación de la parte contraria que producirá dentro del tercer día, el Juez fallará dentro de las 24 veinticuatro horas siguientes y si decreta la acumulación remitirá sus autos al Juez del Juicio más antiguo para que éste lo siga aunque sea por cuerda separada y resuelva ambos juicios en una sola Sentencia. Cuando estime que la acumulación puede ser maliciosa, podrá también exigir al promovente antes de tramitarla un certificado de depósito de $ 500.00 a $5,000.00 para garantizar los presuntos daños y perjuicios que se causen en su caso.
+La parte que promueve la acumulación acompañará a su escrito copia autorizada de la demanda y contestación que fijaron la litis del juicio conexo, o pedirá, si es más factible, la inspección de los autos. Con esta prueba y la contestación de la parte contraria que producirá dentro del tercer día, el Juez fallará dentro de las veinticuatro horas siguientes. Y si decreta la acumulación, remitirá sus autos al Juez del Juicio más antiguo para que éste lo siga aunque sea por cuerda separada y resuelva ambos juicios en una sola sentencia. Cuando estime que la acumulación puede ser maliciosa, podrá también exigir motivadamente al promovente, antes de tramitarla, un certificado de depósito por el importe de hasta ciento ochenta días de salario mínimo para garantizar los presuntos daños y perjuicios que se causen en su caso.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
 
 La resolución negativa de acumulación será apelable en el efecto devolutivo.
 
-La que la decrete no tiene más recurso que el de responsabilidad, y tampoco el Juez al que se remitan los autos acumulables podrá oponerse a ella pero si deberán:
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+
+La que la decrete no tiene más recurso que el de responsabilidad, y tampoco el Juez al que se remitan los autos acumulables podrá oponerse a ella, pero sí deberán:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1953)</small>
 
 I.- Dar cuenta al Superior en cualquier caso de improcedencia manifiesta para la responsabilidad del que hubiere declarado procedente la acumulación;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1953)</small>
 
 II.- Mandar hacer efectivos al fallar en el fondo, el depósito a que se refiere la parte anterior de este precepto, para que se aplique el importe a la parte contraria, siempre que resulte patente que la susodicha acumulación se planteó para procurar la suspensión o el retardo del juicio antiguo.
 
@@ -1356,11 +1394,13 @@ En el Tribunal, queda el Ministro recusado separado del conocimiento del negocio
 
 Contra las resoluciones que se dicten en los casos de los Artículos anteriores y 201, no habrá más recurso que el de responsabilidad.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 1967)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 205.
 
-Si se declara improcedente o no probada la causa de recusación se impondrá al recusante una multa de $ 1.00 a $ 5.00 si se trata de Juez de Paz; de $ 5.00 a $ 50.00 si fuere un Juez Menor; o de $ 50.00 a $ 300.00 si el recusado fuera un Juez de Primera Instancia o un Magistrado.
+Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa de uno a cuatro días de salario mínimo, si se trata de Juez de Paz; de cuatro a treinta y cinco días de salario mínimo, si fuere un Juez Menor; o de treinta y cinco a ciento ochenta días de salario mínimo si el recusado fuere un Juez de Primera Instancia o un Magistrado.
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1967)</small>
 
 No se dará curso a ninguna recusación, si no exhibe el recusante, al interponerla el certificado de depósito por el máximo de la multa, la que en su se aplicará al colitigante, si lo hubiere, por vía de indemnización, y en caso contrario, al Fisco del Estado.
 
@@ -1608,11 +1648,11 @@ Si lo debido fuese cosa cierta y determinada que debiera consignarse en el lugar
 
 Cuando el acreedor no haya estado presente en la oferta y depósito, debe ser notificado de esa diligencia entregándole copia simple de ella.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 1967)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 244.
 
-La consignación de dinero debe hacerse exhibiendo certificado de depósito que expidan la Tesorería General del Estado o Delegación de la misma ubicada en el lugar del juicio.
+La consignación de dinero debe hacerse exhibiendo certificado de depósito que expidan la Secretaría de Finanzas del Estado o Recaudaría de la misma ubicada en el lugar del juicio.
 
 ###### ARTICULO 245.
 
@@ -1864,7 +1904,7 @@ Los daños y perjuicios que se ocasionen a terceros por comparecer o exhibir cos
 
 ###### ARTICULO 286.
 
-El actor debe probar los hechos constitutivos de su acción y el reo (sic) los de sus excepciones.
+El actor debe probar los hechos constitutivos de su acción y el reo los de sus excepciones.
 
 ###### ARTICULO 287.
 
@@ -1968,9 +2008,11 @@ El término probatorio es ordinario o extraordinario. El ordinario será de trei
 
 El término probatorio se abrirá por proveído expreso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 300.
 
-Cuando las pruebas hubieren de practicarse fuera del Estado, a petición de parte, se concederá un término extraordinario, siempre que se llenen los siguientes requisitos:
+Cuando las pruebas hubieren de practicarse fuera del Estado, a petición de parte, se concederá un término extraordinario siempre que se llenen los siguientes requisitos:
 
 I.- Que se solicite durante el ofrecimiento de pruebas;
 
@@ -1978,11 +2020,15 @@ II.- Que se indiquen los nombres y la residencia de los testigos que han de ser 
 
 III.- Que se designe, en caso de ser prueba instrumental, los archivos públicos o particulares donde se hallen los documentos que han de testimoniarse o de presentarse originales.
 
-El Juez, al calificar la admisibilidad de las pruebas, resolverá sobre el término extraordinario y determinará el monto de la cantidad que el promovente deberá depositar para asegurar el pago de la multa que se le impondrá en caso de no rendirse la prueba. Sin este depósito no surtirá efectos el término extraordinario concedido.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+
+El Juez, al calificar la admisibilidad de las pruebas resolverá sobre el término extraordinario.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 301.
 
-El litigante a quien se hubiese concedido la dilación extraordinaria y no rindiere las pruebas que hubiere propuesto, sin justificar que tuvo para ello impedimento bastante, a juicio del Juez, será condenado, al concluir el período probatorio, a pagar una multa de cien a mil pesos y a la indemnización de daños y perjuicios.
+El litigante a quien se hubiese concedido la dilación extraordinaria y no rindiere las pruebas que hubiere propuesto, sin justificar que tuvo para ello impedimento bastante, a juicio del Juez, será condenado, al concluir el período probatorio, a pagar una multa hasta por el importe de ciento ochenta días de salario mínimo y a la indemnización de daños y perjuicios, a su contra parte que se fijará en el incidente respectivo.
 
 ###### ARTICULO 302.
 
@@ -2310,11 +2356,15 @@ VI.- Si el designado por los litigantes no se encontrare en el lugar del juicio 
 
 El Juez señalará lugar, día y hora para que la diligencia se practique, si debe presidirla o estima pertinente asistir a ella. En cualquier otro caso fijará a los peritos un término prudente para que presenten su dictamen. En todo caso las partes podrán formular a los peritos las cuestiones que sean pertinentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 356.
 
-En el caso de la primera parte del artículo anterior concurrirá el tercero en discordia y se observarán las reglas siguientes:
+En el caso de la primera parte del artículo anterior, concurrirá el tercero en discordia y se observarán las reglas siguientes:
 
-I.- El perito que dejare de concurrir sin causa justa, calificada por el Tribunal, incurrirá en una multa de diez a cincuenta pesos y será responsable de los daños causados por su culpa, sin perjuicio de lo que previene el artículo 354;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1990)</small>
+
+I.- El perito que dejare de concurrir sin causa justa, calificada por el Tribunal, se le impondrá una multa por el importe de hasta setenta días de salario mínimo, y será responsable de los daños causados por su culpa, son (sic) perjuicio de lo que previene el artículo 354;
 
 II.- Los peritos practicarán unidos la diligencia, pudiendo concurrir los interesados al acto y hacerles cuantas observaciones quieran, pero deberán retirarse para que los peritos discutan y deliberen solos;
 
@@ -2334,9 +2384,11 @@ El Juez calificará de plano la recusación y las partes deberán presentar las 
 
 Contra el auto en que se admita o deseche la recusación, no procederá recurso alguno. Una vez admitida, el Juez nombrará nuevo perito.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 358.
 
-En caso de ser desechada la recusación, se impondrá al recusante una multa que no excederá de veinte pesos, a favor del litigante.
+En caso de ser desechada la recusación, se impondrá al recusante una multa que no excederá del importe de setenta días de salario mínimo, en favor del erario estatal.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
 
@@ -2798,9 +2850,11 @@ Si se tratare de un auto o de interlocutoria, se remitirá al tribunal copia de 
 
 Si el apelante, dentro del tercer día de la admisión del recurso, no señala al juzgado las constancias que deban remitirse al Superior para sustanciar la alzada, el Juez declarara firme la resolución apelada, sin ulterior recurso.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 436.
 
-Salvo los casos expresamente exceptuados en este Código las sentencias son apelables en ambos efectos cuando el interés del negocio exceda de doscientos pesos.
+Salvo los casos expresamente exceptuados en este Código, las sentencias son apelables en ambos efectos, cuando el interés del negocio exceda del importe de ciento ochenta y dos días de salario mínimo, siempre que el asunto sea de exclusivo carácter patrimonial.
 
 ###### ARTICULO 437.
 
@@ -2970,9 +3024,11 @@ Será el acuerdo del Supremo Tribunal el que decida las quejas contra los Jueces
 
 La queja contra los Secretarios o ejecutores, será resuelta de plano por el Juez que conozca del asunto, oyendo el informe del acusado.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 467.
 
-Si la queja no resulta apoyada en hecho cierto, si no estuviere fundada en derecho o procediere recurso ordinario contra la resolución reclamada, será desechada por el Superior, el que impondrá al quejoso y a su abogado solidariamente, multa que no exceda de cien pesos.
+Si la queja no resulta apoyada en hecho cierto, si no estuviere fundada en derecho, o procediere recurso ordinario contra la resolución reclamada, será desechada por el Superior, el que impondrá al quejoso y a su abogado, solidariamente multa que no exceda del importe de cientos (sic) ochenta días de salario mínimo.
 
 ###### ARTICULO 468.
 
@@ -2992,9 +3048,11 @@ La responsabilidad civil en que puedan incurrir Jueces y Magistrados, cuando en 
 
 La demanda sólo podrá promoverse cuando hubiere quedado firme la resolución en que se estime causado el agravio.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 470.
 
-Cuando la demanda se dirija contra los Jueces Menores o de Paz, conocerá de ella, cualquiera que sea su cuantía, el Juez de Primera Instancia de la Jurisdicción. La sentencia que se pronuncie será apelable en ambos efectos cuando el interés del negocio exceda de doscientos pesos.
+Cuando la demanda se dirija contra los Jueces Menores o de Paz, conocerá de ella, cualquiera que sea su cuantía, el Juez de Primera Instancia de la Jurisdicción. La sentencia que se pronuncie será apelable en ambos efectos, cuando el interés del negocio exceda treinta días de salario mínimo.
 
 ###### ARTICULO 471.
 
@@ -3360,7 +3418,9 @@ Quedan exceptuados de embargo:
 
 I.- Los bienes que constituyan el patrimonio de la familia, desde su inscripción en el Registro Público de la Propiedad en los términos que establece el Código Civil;
 
-II.- Los vestidos y los muebles de uso ordinario del deudor cuyo valor no exceda de $ 3,000.00 tres mil pesos;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1990)</small>
+
+II.- Los vestidos y los muebles de primera necesidad;
 
 III.- Los instrumentos, aparatos y útiles necesarios para el arte u oficio a que el deudor esté dedicado;
 
@@ -3390,7 +3450,9 @@ XV.- Los ejidos de los pueblos y la parcela individual que en su fraccionamiento
 
 XVI.- Los demás bienes en que así lo prevenga la ley.
 
-En los casos de las fracciones III, IV, V y VII, el Juez, en caso de duda, oirá el informe de un perito designado por él.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+
+En los casos de las fracs. III, IV, V y VII, el juez, en caso de duda, oirá el informe de un perito designado por él.
 
 ###### ARTICULO 530.
 
@@ -3910,7 +3972,9 @@ Del Juicio Hipotecario.
 
 Se tramitarán como juicios sumarios:
 
-I.- Aquellos cuyo interés no exceda de cinco mil pesos;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1990)</small>
+
+I.- Aquellos cuyo interés no exceda de ciento ochenta y dos días de salario mínimo;
 
 II.- Los que versen sobre pago o aseguración de alimentos;
 
@@ -3948,11 +4012,13 @@ XVII.- Los demás en que así lo determine la ley.
 
 Para los efectos de la fracción I del artículo anterior, se estará a lo dispuesto en los artículos 182 y 163 de este Código. Si en la demanda no se fija el valor del negocio, se tendrá como tal el que aparezca de los documentos en que se funde la acción; y si tampoco aparece de ellos, el Juez prevendrá al actor que precise el interés de su reclamación, cuando éste sea susceptible de estimación pecuniaria, sin cuyo requisito no dará curso a la demanda.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 620.
 
-La tramitación de estos juicios se sujetará a las disposiciones especiales de este Título y, en lo no previsto a las reglas generales y disposiciones para el juicio ordinario.
+La tramitación de estos juicios se sujetará a las disposiciones especiales de este Título y, en lo no previsto, a las reglas generales y disposiciones para el juicio ordinario.
 
-En los negocios cuyo interés no exceda de cien pesos la tramitación se ajustará a las disposiciones relativas del Título Décimo Cuarto.
+En los negocios cuyo interés no exceda del importe de treinta días de salario mínimo, la tramitación se ajustará a las disposiciones relativas del Título décimo cuarto.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
 
@@ -4036,11 +4102,11 @@ Cualquier incidente o recurso de revocación que se suscite se decidirá de plan
 
 (DEROGADO, P.O. 27 DE AGOSTO DE 1970)
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 639.
 
-En estos juicios sólo será admisible la apelación cuando el interés del negocio exceda de mil pesos y se interponga contra la sentencia definitiva o contra la interlocutoria que decida sobre las excepciones de falta de personalidad o de capacidad. En ambos casos, el recurso se admitirá en el efecto devolutivo.
+En estos juicios sólo será admisible la apelación cuando el interés del negocio exceda del importe de cuarenta días de salario mínimo y se interponga contra la sentencia definitiva o contra la interlocutoria que decida sobre las excepciones de falta de personalidad o de capacidad. En ambos casos, el recurso se admitirá en el efecto devolutivo.
 
 ###### ARTICULO 640.
 
@@ -5968,7 +6034,9 @@ I.- Mientras no se pronuncie sentencia irrevocable, la tutela interina debe limi
 
 II.- El estado de demencia puede probarse por testigos o documentos; pero en todo caso se requiere certificación de tres médicos, por lo menos, que nombrará el Juez, sin perjuicio de la prueba pericial que las partes promuevan. El tutor puede nombrar un médico para que tome parte en el reconocimiento o reconocimientos que se practiquen, y se oiga su dictamen;
 
-III.- El que promueva dolosamente la interdicción incurrirá en las penas que la ley impone por falsedad y calumnia y sin perjuicio de la responsabilidad civil en que incurra, deberá pagar una multa de cincuenta a mil pesos, que se distribuirá por mitad entre el supuesto incapacitado y el tutor interino;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1990)</small>
+
+III.- El que promueva dolosamente la interdicción incurrirá en las penas que la Ley impone por falsedad y calumnia y, sin perjuicio de la responsabilidad civil en que incurra, deberá pagar una multa hasta por el importe de ciento ochenta días, a favor del erario estatal; y
 
 IV.- Luego que cause ejecutoria la sentencia de interdicción, el Juez llamará al ejercicio de la tutela a las personas a quienes corresponda conforme a la ley, o hará el nombramiento de tutor en los casos que para ello esté legalmente facultado. Cuando el cargo de tutor definitivo deba recaer en el tutor interino, bastará confirmar el nombramiento anterior; lo mismo se observará para el nombramiento de curador definitivo.
 
@@ -6308,6 +6376,8 @@ Cuando se apruebe la adopción o se deje sin efecto, el Juez cumplirá lo que pr
 
 ### CAPITULO UNICO.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 1032.
 
 La renuncia o excusa de la patria potestad se presentarán por escrito ante el Juez del domicilio del menor expresando los motivos en que se funden, y si hay otro ascendiente en quien deba recaer aquella o si el menor tiene otros parientes a quienes corresponda la tutela legítima.
@@ -6528,7 +6598,7 @@ La resolución que se dicte será apelable en ambos efectos.
 
 ###### ARTICULO 1065.
 
-Los Jueces de Paz, en los negocios de su competencia, o sean aquellos cuyo interés no exceda de cincuenta pesos, procederán con sujeción a las disposiciones especiales de este Título y, en lo no previsto, observarán las reglas generales y disposiciones de éste Código, para el juicio ordinario.
+Los Jueces de Paz, en los negocios de su competencia, o sean aquéllos cuyo interés no exceda de treinta días de salario mínimo, procederán con sujeción a las disposiciones especiales de este Título y, en lo no previsto, observarán las reglas generales y disposiciones de éste Código, para el Juicio Ordinario.
 
 ###### ARTICULO 1066.
 
@@ -6536,9 +6606,11 @@ Para estimar el interés del negocio se atenderá a lo que el actor demande. Los
 
 Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año a no ser que se trate de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este artículo.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 1067.
 
-No obstante lo que se dispone en el artículo anterior, si el Juez, en cualquier estado del juicio, encuentra que éste no es de su competencia por exceder su interés de cincuenta pesos o en razón de corresponder su conocimiento a Juez de distinta Jurisdicción o de otro fuero, suspenderá de plano el procedimiento y remitirá lo actuado al Juez correspondiente.
+No obstante lo que se dispone en el artículo anterior, si el Juez, en cualquier estado del Juicio, encuentra que éste no es de su competencia por exceder su interés de treinta días de salario, o en razón de corresponder su conocimiento a Juez de distinta jurisdicción o de otro fuero, suspenderá de plano el procedimiento y remitirá lo actuado al Juez correspondiente.
 
 ###### ARTICULO 1068.
 
@@ -6618,9 +6690,11 @@ Todas las acciones y excepciones o defensas se harán valer en el acto mismo de 
 
 Antes de pronunciar el fallo el Juez exhortará de nuevo a las partes a una composición amigable y si logra la avenencia, dará por terminado el juicio observando en lo conducente lo que dispone el artículo 1076.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 1082.
 
-Si a la hora señalada para la celebración de la audiencia a que se refieren los artículos 1071 y 1075, no estuviere presente el actor y sí el demandado, se impondrá a aquél una multa de uno a diez pesos, que se aplicará al reo por vía de indemnización y sin que se justifique haberse hecho el pago, no se citará de nuevo para el juicio.
+Si a la hora señalada para la celebración de la audiencia a que se refieren los artículos 1071 y 1075, no estuviere presente el actor y sí el demandado, se impondrá a aquél una multa de uno a siete días de salario, que se aplicará a favor del erario estatal, y sin que se justifique haberse hecho el pago, no se citará de nuevo para el juicio.
 
 ###### ARTICULO 1083.
 
@@ -6825,3 +6899,11 @@ Unico. La reforma al artículo de referencia empezará a regir el día de su pub
 P.O. 17 DE ENERO DE 1985.
 
 Artículo Primero. Este Decreto entrará en vigor el día 1.° (sic) de Febrero de 1985, previa su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 11 DE ENERO DE 1990.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+Artículo Segundo. Los juicios que se estén tramitando al entrar en vigor el presente Decreto, se regirán por las disposiciones anteriores.
+
+Artículo Tercero. Quedan derogadas todas las disposiciones que se contrapongan al presente Decreto.
