@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-la-procuraduria-social-del-distrito-158
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-03-28"
-last_updated: "2002-03-27"
+last_updated: "2003-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15888&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-02-09"
 
 REGLAMENTO DE LA LEY DE LA PROCURADURIA SOCIAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE MARZO DE 2003.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 28 de marzo de 2000.
 
@@ -86,7 +86,9 @@ b) Un Subprocurador de Concertación Social;
 
 c) Un Coordinador General de Recomendaciones y Asuntos Jurídicos;
 
-d) Oficinas Desconcentradas en cada Delegación, y
+> <small>(REFORMADO, G.O. 27 DE MARZO DE 2003)</small>
+
+d) Un Coordinador de Oficinas Desconcentradas
 
 e) Un Contralor Interno.
 
@@ -236,11 +238,27 @@ XIV. Apoyar al Procurador en la promoción, conducción, coordinación, vigilanc
 
 XV. Iniciar, vigilar, coordinar y controlar el procedimiento de conciliación en materia condominal;
 
-XVI Aplicar, dentro del ámbito de su competencia, los medios de apremio señalados en la ley;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE MARZO DE 2003)</small>
 
-XVII. Certificar y expedir copias de los documentos que obren en los archivos de la Subprocuraduria, y
+XVI. Iniciar, sustanciar y resolver el procedimiento de arbitraje que surja de las controversias derivadas del régimen en condominio;
 
-XVIII. Las demás atribuciones que le confieran otros ordenamientos jurídicos, las delegadas expresamente por el Procurador y las que correspondan a las unidades administrativas adscritas a la misma.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE MARZO DE 2003)</small>
+
+XVII. Emitir, dentro del ámbito de su competencia, los laudos correspondientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE MARZO DE 2003)</small>
+
+XVIII. Sustanciar las aclaraciones a instancia de parte, que surjan de los laudos;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 27 DE MARZO DE 2003)</small>
+
+XIX. Aplicar, dentro del ámbito de su competencia, los medios de apremio señalados en la Ley y en el artículo 68 de la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal;
+
+XX. Certificar y expedir copias de los documentos que obren en los archivos de la Subprocuraduría, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 27 DE MARZO DE 2003)</small>
+
+XXI. Las demás atribuciones que le confieran la ley, este Reglamento, otros ordenamientos jurídicos y las delegadas expresamente por el Procurador.
 
 > <small>(REFORMADO, G.O. 27 DE MARZO DE 2002)</small>
 
@@ -252,11 +270,15 @@ I. Recopilar la información que se requiera y formular los estudios tendentes a
 
 II. Someter a consideración del Procurador las recomendaciones y sugerencias , para la suscripción de las mismas;
 
-II. Realizar estudios sobre la problemática y repercusión social que tienen las acciones o programas aplicados por la Administración Pública del Distrito Federal, tomando como indicador las inconformidades de la población ante la Procuraduría;
+II. (SIC) Realizar estudios sobre la problemática y repercusión social que tienen las acciones o programas aplicados por la Administración Pública del Distrito Federal, tomando como indicador las inconformidades de la población ante la Procuraduría;
 
-III. Elaborar y suscribir dictámenes resultantes de las actuaciones que realicen y notificarlos a las autoridades competentes de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2003)</small>
 
-IV. Realizar sondeos de opinión y encuestas entre los habitantes del Distrito Federal, en las materias competencia de la Procuraduría;
+III. Realizar estudios sobre la problemática y repercusión social que tiene las acciones o programas aplicados por la Administración Pública del Distrito Federal, tomando como indicador las inconformidades de la población ante la Procuraduría; (sic)
+
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2003)</small>
+
+IV. Elaborar y suscribir dictámenes resultantes de las actuaciones que realicen y notificarlos a las autoridades competentes de la Administración Pública del Distrito Federal;
 
 V. Formular proyectos de convenios y mecanismos de colaboración con instituciones diversas;
 
@@ -266,11 +288,15 @@ VII. Atender y resolver las consultas jurídicas;
 
 VIII. Opinar sobre los actos jurídicos que pretenda realizar la Procuraduría para el cumplimiento de sus funciones;
 
-IX. Iniciar, sustanciar y resolver los procedimientos administrativos y de arbitraje del régimen de condominio;
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2003)</small>
+
+IX. Iniciar, sustanciar y resolver los procedimientos administrativos de aplicación de sanciones del régimen de condominio;
 
 X. Aplicar, dentro del ámbito de su competencia, los medios de apremio señalados en la Ley;
 
-XI. Atender los recursos de inconformidad y revisión de resoluciones administrativas, así como el de aclaración en el arbitraje;
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2003)</small>
+
+XI. Tramitar, sustanciar y resolver los recursos de inconformidad, interpuestos contra actos de la Procuraduría Social del Distrito Federal;
 
 XII. Substanciar el recurso de revisión previsto en el artículo 58 de la Ley;
 
@@ -300,13 +326,39 @@ V. Aplicar las líneas de trabajo y desarrollar los programas, subprogramas y pr
 
 VI. Elaborar el plan de trabajo trimestral y anual de las oficinas desconcentradas;
 
-VII. Reportar los asuntos atendidos de acuerdo a los sistemas de control de gestión interna que establezca la institución;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2003)</small>
+
+VII. Reportar los asuntos relativos a queja condominal y administrativa, así como los procedimientos atendidos de acuerdo a los sistemas de control de gestión interna que establezca la institución;
 
 VIII. Administrar los recursos humanos y materiales que le sean asignados para su operación regular y el desarrollo de programas;
 
 IX. Atender e informar a su superior jerárquico, sobre el cumplimiento de sus atribuciones y de los programas, y
 
-X. Las demás atribuciones que le confieran la Ley, este Reglamento, otros ordenamientos jurídicos, y las delegadas expresamente por el Procurador.
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2003)</small>
+
+X. Iniciar, vigilar, coordinar y controlar el procedimiento de conciliación en materia condominal;
+
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2003)</small>
+
+XI. Aplicar, dentro del ámbito de su competencia, los medios de apremio señalados en la Ley y en el artículo 68 de la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2003)</small>
+
+XII. Iniciar, sustanciar y resolver el procedimiento de arbitraje del régimen de condominio;
+
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2003)</small>
+
+XIII. Emitir, dentro del ámbito de su competencia, los laudos correspondientes;
+
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2003)</small>
+
+XIV. Sustanciar las aclaraciones a instancia de parte que surjan en los laudos;
+
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2003)</small>
+
+XV. Realizar las notificaciones necesarias para la sustanciación de los procedimientos que se ventilen en las oficinas a su cargo, así como las diligencias y demás actuaciones que se requieran; y
+
+XVI. Las demás atribuciones que le confieran la Ley, este Reglamento, otros ordenamientos jurídicos, y las delegadas expresamente por el Procurador.
 
 ###### Artículo 12.
 
@@ -512,6 +564,12 @@ Dado en la Residencia de la Jefa de Gobierno del Distrito Federal, en la Ciudad 
 
 G.O. 27 DE MARZO DE 2002.
 
-DECRETO QUE REFORMAN, ADICIONAN Y DEROGAN LOS ARTICULOS 3, 4, 6, 7, 8, 9, 12, 35, 37, 38, 39 Y CAPITULO IX DEL TITULO TERCERO, DEL REGLAMENTO.
+DECRETO QUE REFORMAN, ADICIONAN Y DEROGAN LOS ARTICULOS 3, 4, 6, 7, 8, 9, 12,, 35, 37, 38, 39 Y CAPITULO IX DEL TITULO TERCERO, DEL REGLAMENTO.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 27 DE MARZO DE 2003.
+
+DECRETO QUE REFORMAN Y ADICIONAN LOS ARTICULOS 3, 8, 9 Y 11 DEL REGLAMENTO.
+
+UNICO.- El presente decreto entrara en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
