@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1999-02-26"
+last_updated: "1999-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE FEBRERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE MARZO DE 1999.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -196,9 +196,9 @@ No se autoriza la celebración de tratados para la extradición de reos polític
 
 Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 1999)</small>
 
-No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia, acusación o querella de un hecho determinado que la ley señale como delito, sancionado cuando menos con pena privativa de libertad y existan datos que acrediten los elementos que integran el tipo penal y la probable responsabilidad del indiciado.
+No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho que la ley señale como delito, sancionado cuando menos con pena privativa de libertad y existan datos que acrediten el cuerpo del delito y que hagan probable la responsabilidad del indiciado.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
@@ -270,13 +270,21 @@ La Federación y los Gobiernos de los Estados establecerán instituciones especi
 
 Los reos de nacionalidad mexicana que se encuentren compurgando penas en países extranjeros, podrán ser trasladados a la República para que cumplan sus condenas con base en los sistemas de readaptación social previstos en este artículo, y los reos de nacionalidad extranjera sentenciados por delitos del orden federal en toda la República, o del fuero común en el Distrito Federal, podrán ser trasladados al país de su origen o residencia, sujetándose a los Tratados Internacionales que se hayan celebrado para ese efecto. Los gobernadores de los Estados podrán solicitar al Ejecutivo Federal, con apoyo en las leyes locales respectivas, la inclusión de reos del orden común en dichos Tratados. El traslado de los reos sólo podrán (sic) efectuarse con su consentimiento expreso.
 
-> <small>(REFORMADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE MARZO DE 1999)</small>
 
 ###### Art. 19.
 
-Ninguna detención ante autoridad judicial podrá exceder del término de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de formal prisión y siempre que de lo actuado aparezcan datos suficientes que acrediten los elementos del tipo penal del delito que se impute al detenido y hagan probable la responsabilidad de éste. La prolongación de la detención en perjuicio del inculpado será sancionada por la ley penal. Los custodios que no reciban copia autorizada del auto de formal prisión dentro del plazo antes señalado, deberán llamar la atención del juez sobre dicho particular en el acto mismo de concluir el término, y si no reciben la constancia mencionada dentro de las tres horas siguientes pondrán al inculpado en libertad.
+Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de formal prisión en el que se expresarán: el delito que se impute al acusado; el lugar, tiempo y circunstancias de ejecución, así como los datos que arroje la averiguación previa, los que deberán ser bastantes para comprobar el cuerpo del delito y hacer probable la responsabilidad del indiciado.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MARZO DE 1999)</small>
+
+Este plazo podrá prorrogarse únicamente a petición del indiciado, en la forma que señale la ley. La prolongación de la detención en su perjuicio será sancionada por la ley penal. La autoridad responsable del establecimiento en el que se encuentre internado el indiciado, que dentro del plazo antes señalado no reciba copia autorizada del auto de formal prisión o de la solicitud de prórroga, deberá llamar la atención del juez sobre dicho particular en el acto mismo de concluir el plazo y, si no recibe la constancia mencionada dentro de las tres horas siguientes, pondrá al indiciado en libertad.
+
+> <small>(REFORMADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
 Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de formal prisión o de sujeción a proceso. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto del que se persigue, deberá ser objeto de averiguación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
+
+> <small>(REFORMADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
 Todo maltratamiento que en la aprehensión o en las prisiones, toda molestia que se infiera sin motivo legal; toda gabela o contribución, en las cárceles, son abusos que serán corregidos por las leyes y reprimidos por las autoridades.
 
@@ -369,6 +377,10 @@ Quedan prohibidas las penas de mutilación y de infamia, la marca, los azotes, l
 > <small>(REFORMADO, D.O.F. 3 DE JULIO DE 1996)</small>
 
 No se considerará confiscación de bienes la aplicación total o parcial de los bienes de una persona hecha por la autoridad judicial, para el pago de la responsabilidad civil resultante de la comisión de un delito, o para el pago de impuestos o multas. Tampoco se considerará confiscación el decomiso que ordene la autoridad judicial, de los bienes, en caso del enriquecimiento ilícito, en los términos del artículo 109; ni el decomiso de los bienes propiedad del sentenciado, por delitos de los previstos como de delincuencia organizada, o el de aquéllos respecto de los cuales éste se conduzca como dueño, si no acredita la legítima procedencia de dichos bienes.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MARZO DE 1999)</small>
+
+No se considerará confiscación la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables. La autoridad judicial resolverá que se apliquen en favor del Estado los bienes que hayan sido asegurados con motivo de una investigación o proceso que se sigan por delitos de delincuencia organizada, cuando se ponga fin a dicha investigación o proceso, sin que haya un pronunciamiento sobre los bienes asegurados. La resolución judicial se dictará previo procedimiento en el que se otorgue audiencia a terceros y se acredite plenamente el cuerpo del delito previsto por la ley como de delincuencia organizada, siempre y cuando se trate de bienes respecto de los cuales el inculpado en la investigación o proceso citados haya sido poseedor, propietario o se haya conducido como tales, independientemente de que hubieran sido transferidos a terceros, salvo que éstos acrediten que son poseedores o adquirentes de buena fe.
 
 Queda también prohibida la pena de muerte por delitos políticos, y en cuanto a los demás, sólo podrá imponerse al traidor a la Patria en guerra extranjera, al parricida, al homicida con alevosía, premeditación o ventaja, al incendiario, al plagiario, al salteador de caminos, al pirata y a los reos de delitos graves del orden militar.
 
@@ -3058,15 +3070,19 @@ XII.- Los conflictos individuales, colectivos o intersindicales serán sometidos
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-Los conflictos entre el Poder Judicial de la Federación y sus servidores serán resueltos por el Consejo de la Judicatura Federal; los que se susciten entre la Suprema Corte de Justicia y sus empleados serán resueltos por esta última.
+Los conflictos entre el Poder Judicial de la Federación y sus servidores serán resueltos por el Consejo de la Judicatura Federal; los que se susciten entre la Suprema Corte de Justicia y sus empleados serán resueltos por esta última;
 
-> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE MARZO DE 1999)</small>
 
-XIII.- Los militares, marinos y miembros de los cuerpos de seguridad pública, así como el personal de servicio exterior se regirán por sus propias leyes;
+XIII.- Los militares, marinos, personal del servicio exterior, agentes del Ministerio Público y los miembros de las instituciones policiales, se regirán por sus propias leyes.
 
 > <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1972)</small>
 
 El Estado proporcionará a los miembros en el activo del Ejército, Fuerza Aérea y Armada, las prestaciones a que se refiere el inciso f) de la fracción XI de este Apartado, en términos similares y a través del organismo encargado de la seguridad social de los componentes de dichas instituciones; y
+
+> <small>(ADICIONADO, D.O.F. 8 DE MARZO DE 1999)</small>
+
+Los miembros de las instituciones policiales de los municipios, entidades federativas, del Distrito Federal, así como de la Federación, podrán ser removidos de su cargo si no cumplen con los requisitos que las leyes vigentes en el momento de la remoción señalen para permanecer en dichas instituciones, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la remoción y, en su caso, sólo procederá la indemnización. La remoción de los demás servidores públicos a que se refiere la presente fracción, se regirá por lo que dispongan los preceptos legales aplicables;
 
 > <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1993)</small>
 
@@ -4511,3 +4527,7 @@ QUINTO.- El último párrafo del apartado C) del artículo 37, entrará en vigor
 D.O.F. 26 DE FEBRERO DE 1999.
 
 UNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE MARZO DE 1999.
+
+Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
