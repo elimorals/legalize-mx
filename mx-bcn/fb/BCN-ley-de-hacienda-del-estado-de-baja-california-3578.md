@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1975-06-20"
+last_updated: "1976-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1976.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -133,11 +133,17 @@ III.- Cuando se dediquen a actividades distintas a la explotación agropecuaria 
 
 IV.- Cuando el predio se encuentre edificado con diversos departamentos propiedad de distintas personas, que a la vez sean copropietarios del terreno en que se encuentre construído el edificio, así como de sus escaleras, pasillos, jardines, muros medianeros, pisos y demás servicios e instalaciones, la Secretaría de Finanzas fijará el Impuesto de acuerdo con los valores catastrales, y entrará en vigor a partir del bimestre siguiente a la fecha en que se haya autorizado preventivamente la escritura de constitución del condominio. Si éste se constituye sin estar terminadas las construcciones, el Impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron. En estos casos, la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del bimestre siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; y cada predio, departamento, despacho o local se empadronará por separado, girándose a cada cual el recibo de pago correspondiente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
 ###### ARTICULO 8.
 
-La tasa inicial del impuesto que corresponde pagar a los propietarios o poseedores de predios urbanos que la Ley de Catastro Inmobiliario del Estado clasifica como no edificados o baldíos con servicio de agua, electricidad y drenaje, entre tanto conserven esa calidad, se enajenen o establezca en ellos alguna industria o comercio, será ascendente y aumentará automáticamente el 25% sobre dicha tasa a partir de enero de cada año hasta completar diez años, al final de los cuales se interrumpe. Los efectos de este artículo no serán aplicables a los predios destinados para su venta de los fraccionamientos debidamente autorizados ni a los predios no edificados que formen parte de una unidad comercial o industrial.
+La tasa inicial del impuesto que corresponde pagar a los propietarios o poseedores de predios urbanos que la Ley de Catastro Inmobiliario del Estado clasifica como no edificados o baldíos con servicio de agua, electricidad y drenaje, entre tanto conserven esa calidad, se enajenen o establezca en ellos alguna industria o comercio, será ascendente y aumentará automáticamente el 25% (veinticinco por ciento) cada año hasta completar diez años, al final de los cuales se interrumpe.
+
+Los efectos de este Artículo no serán aplicables:
+
+a).- A los predios destinados para su venta o que vendan los fraccionamientos debidamente autorizados en tanto no sean recibidos por el Gobierno del Estado.
+
+b).- Ni a los predios no edificados que formen parte de una unidad comercial o industrial.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -189,9 +195,11 @@ IV.- En todos los casos de operaciones en las que no se transmita el dominio, so
 
 V.- Los funcionarios y empleados del Gobierno del Estado, que dolosamente expidan constancias de que los causantes se encuentran al corriente en los pagos del Impuesto Predial.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+
 ###### ARTICULO 15.
 
-Las sociedades, agrupaciones, empresas agrícolas, avícolas o ganaderas, o personas físicas que maquilen o compren de primera mano productos naturales o de cultivos ejidales, que conforme a esta Ley, está (sic) afectos al pago de este Impuesto, exigirán al vendedor que compruebe, con anticipación a la operación que realicen, que ha sido cubierto este Impuesto y si no se acredita, deberán retener y enterar su importe en la Recaudación de Rentas que corresponda, durante los primeros diez días del siguiente mes.
+Las sociedades, agrupaciones, empresas agrícolas, avícolas o ganaderas, agentes aduanales, o personas físicas que maquilen, refaccionen o compren de primera mano productos naturales o de cultivo ejidales, que conforme a esta Ley están afectos al pago de este impuesto, exigirán al vendedor que compruebe, con anticipación a la operación que realicen, que ha sido cubierto este impuesto y si no se acredita, deberán retener y enterar su importe los días del primero al veinte del siguiente mes.
 
 ###### ARTICULO 16.
 
@@ -231,9 +239,11 @@ Los Notarios, jueces y demás funcionarios autorizados por la Ley para dar fé p
 
 Si por causas no imputables al enajenante, las autoridades fiscales del Estado no han empadronado o catastrado el predio, la Secretaría de Finanzas podrá permitir a los Notarios que otorguen la mencionada autorización definitiva, sin que le sea exhibido el certificado a que se refiere este Artículo.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+
 ###### ARTICULO 23.
 
-Los notarios o las autoridades ante quienes se celebren contractos o actos por virtud de los cuales se transmita la propiedad de un predio, están obligados a dar aviso a la Oficina de Catastro y a la Recaudación de Rentas del lugar de su ubicación, dentro del término de quince días siguientes a la fecha de la celebración del acto o contrato respectivo.
+Los Notarios o las autoridades ante quienes se celebren contratos o actos por virtud de los cuales se transmita la propiedad o la posesión de un predio, están obligados a dar aviso a la Oficina de Catastro y a la Recaudación de Rentas del lugar de su ubicación, dentro del término de treinta días siguientes a la fecha de la celebración del acto o contrato respectivo.
 
 ###### ARTICULO 24.
 
@@ -265,13 +275,13 @@ Son objeto del impuesto sobre Transmisión de Dominio los contratos de compraven
 
 Son sujetos de este impuesto las personas físicas, jurídicas o unidades económicas que contraten derechos reales o posesorios sobre bienes inmuebles por concepto de compraventa, actos constitutivos de fideicomiso, los de su ejecución, o cualquier otro acto que afecte o trasmita el dominio y los que los adquieran por prescripción.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1974)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
 ###### ARTICULO 30.
 
-Para los efectos de éste impuesto, la base gravable tratándose de bienes inmuebles urbanos y rústicos será el valor que resulte más elevado de los valores fiscal, contractual y de avalúo comercial que practique una Institución de Crédito autorizada, avalúo que no podrá tener antigüedad mayor de un año a partir de la fecha en que se practique.
+Para los efectos de este impuesto, la base gravable tratándose de bienes inmuebles urbanos y rústicos será el valor que resulte más elevado de los valores fiscal, contractual y de avalúo comercial que practique una institución de crédito autorizada, avalúo que no podrá tener antigüedad mayor de un año a partir de la fecha en que se practique.
 
-Tratándose de remates practicados por las autoridades judiciales del Trabajo o administrativas, la base gravable será el valor que resulte más elevado entre el fiscal y el pericial.
+Tratándose de remates de inmuebles urbanos o rústicos practicados por las autoridades judiciales del Trabajo o administrativas, la base gravable será el valor que resulte más elevado entre el fiscal y el pericial.
 
 ###### ARTICULO 31.
 
@@ -457,15 +467,17 @@ II.- Las sucursales, despachos, bodegas o dependencias que perciban ingresos, cu
 
 III.- Los almacenes o bodegas que no perciban ingresos, presentarán por una sola vez una declaración manifestando que no obtienen ingresos gravables, al momento de su registro en la Oficina Recaudadora correspondiente.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+
 ###### ARTICULO 53.
 
-El impuesto se causará y pagará conforme a las tasas y cuotas que fije anualmente la Ley de Ingresos del Estado.
+El impuesto se causará y pagará conforme a las tasas y cuotas que fije la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1973)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
 ###### ARTICULO 54.
 
-El Impuesto se causará y pagará mensualmente en razón de los ingresos gravables que obtengan los causantes.
+El impuesto se causará y pagará mensualmente en razón de los ingresos gravables que obtengan los causantes. Tratándose de ventas de primera mano de gasolina y otros productos derivados del petróleo distintos del gas doméstico, el impuesto se pagará en el momento en que el causante adquiera los productos siendo recaudado por Petróleos Mexicanos en los términos del Reglamento del Artículo 21 de la Ley del Impuesto Sobre Consumo de Gasolina.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1973)</small>
 
@@ -629,25 +641,47 @@ VI.- Recibir las visitas de investigación y proporcionar a los auditores o a lo
 
 VII.- Conservar cinco años la documentación y demás elementos contables y comprobatorios relativos a las operaciones efectuadas, para efectos de la prescripción que establece el Código Fiscal del Estado.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+
 ###### ARTICULO 72.
 
-Los causantes de este Impuesto deberán tener comprobada la totalidad de sus ingresos provenientes de sus operaciones diarias con el documento fuente de contabilización, como son: facturas, notas de ventas o cintas de máquina registradora. En caso de que los ingresos se controlen a través de máquinas registradoras, éstas deberán contener los dispositivos necesarios para ejercer un control efectivo de los mismos.
+Los causantes del Impuesto Sobre Actividades Mercantiles e Industriales en el Estado de Baja California, deberán observar las siguientes medidas de control de sus ingresos:
 
-El documento fuente de contabilización deberá llenar los siguientes requisitos:
+I.- Expedir diariamente facturas, notas de venta o cintas de máquina registradora que comprueben la totalidad de sus ingresos provenientes de sus operaciones.
 
-I.- Nombre y razón social del causante.
+> <small>(F. DE E., P.O. 20 DE MARZO DE 1976)</small>
 
-II.- Domicilio y fecha.
+El documento fuente de contabilización deberá llenar los siguientes requisitos.
 
-III.- Número de cuenta.
+a).- Nombre y razón social del causante;
 
-IV.- Folio progresivo. En los casos de facturas o notas de venta, deberá ser pre-numerado.
+b).- Domicilio y fecha;
 
-Es obligación de las personas que obtengan los bienes o servicios consignados en el Artículo 43 de esta Ley, recabar los documentos correspondientes que deberán reunir los requisitos antes mencionados.
+c).- Número de cuenta estatal;
 
-En los casos de compras de mercancías facturadas en el extranjero, éstas deberán estar amparadas con la correspondiente relación aduanal de importación o boleta en su caso, a nombre del causante.
+d).- Registro Federal de Causantes;
 
-En los casos en que no se recabe la documentación de referencia, el comprador deberá comunicarlo de inmediato a la Secretaría de Finanzas del Estado, y en caso de no hacerlo será solidariamente responsable del Impuesto omitido.
+e).- Número progresivo prenumerado.
+
+II.- Cuando se utilice únicamente máquina registradora y que expida comprobante al cliente, éste deberá llenar los mismos requisitos anteriores.
+
+III.- Cuando no se utilice máquina registradora, o ésta no expida comprobante al cliente y el monto de la operación sea superior a $50.00 la expedición de facturas o notas de venta con los requisitos mencionados en la Fracción I será obligatoria.
+
+Por las operaciones de $50.00 que no hayan sido facturadas deberá formularse una nota de venta o factura global al final de cada día.
+
+IV.- Las facturas o notas de venta deberán expedirse cuando menos por duplicado y deberán conservarse las copias en orden numérico sin interrupción.
+
+V.- Podrán usarse una o varias series de facturas, las cuales deberán identificarse por medio de letras y prenumerarse progresivamente. Si no se usa la totalidad, o alguna se cancela, se incluirán los originales con la anotación '"NO SE USARAN" o "CANCELADAS" en su caso.
+
+VI.- Las sucursales o dependencias de empresas del interior del país que realicen operaciones en el Estado de Baja California, deberán cumplir con los requisitos mencionados anteriormente y conservar en el domicilio de la sucursal o dependencia, las copias de las facturas o notas de venta expedidas, las cuales deberán contener folio progresivo independiente del que se lleve en la matriz u otros establecimientos de la misma negociación.
+
+Es obligación de las personas que obtengan los bienes o servicios consignados en el Artículo 42 de esta Ley, recabar los documentos correspondientes que deberán reunir los requisitos antes mencionados.
+
+> <small>(F. DE E., P.O. 20 DE MARZO DE 1976)</small>
+
+En los casos de compras de mercancías facturadas en el extranjero, éstas deberán estar amparadas con la correspondiente relación aduanal de importación o boletas en su caso, a nombre del causante.
+
+En los casos en que no se recabe la documentación de referencia, el comprador deberá comunicarlo de inmediato a la Secretaría de Finanzas del Estado, y en caso de no hacerlo será solidariamente responsable del impuesto omitido.
 
 ###### ARTICULO 73.
 
@@ -773,6 +807,20 @@ Cuando el causante carezca de contabilidad, no cuente con la documentación que 
 
 Los contribuyentes a quienes se les practique una auditoría deberán dar aviso por escrito a la Secretaría de Finanzas o a la autoridad fiscal correspondiente, de cualquier acto indebido que cometan o pretendan cometer los funcionarios designados para efectuarla.
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1976)</small>
+
+ARTICULO 88 BIS.- En el caso de que los contribuyentes se coloquen en alguna de las causales de estimativa a que se refieren las leyes fiscales y no puedan comprobar su ingreso por el período objeto de revisión, se presumirá que el ingreso es igual al resultado de alguna de las siguientes operaciones:
+
+A.- Si con base en la contabilidad y documentación del causante o información de terceros pudieran reconstruirse las operaciones normales correspondientes cuando menos a treinta días, el ingreso diario promedio que resulte se multiplicará por el número de días que corresponda al período objeto de revisión.
+
+> <small>(F. DE E., P.O. 20 DE MARZO DE 1976)</small>
+
+B.- Si la contabilidad y documentación del causante no permite reconstruir las operaciones de treinta días, la Secretaría de Finanzas a través de sus dependencias tomará como base los ingresos que observe durante tres días, cuando menos, de operaciones normales y el promedio diario resultante se multiplicará por el número de días que comprenda el período objeto de revisión.
+
+El ingreso estimado presuntivamente por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa impositiva que corresponda.
+
+Lo dispuesto en esta fracción no modifica los procedimientos para determinar o estimar los ingresos de los contribuyentes que contienen las diversas disposiciones fiscales.
+
 ###### ARTICULO 89.
 
 Cuando se solicite la suspensión provisional o definitiva de orden de clausura, además de garantizarse el interés fiscal, en algunas de las formas que establece el artículo 57 del Código Fiscal del Estado, la Secretaría de Finanzas podrá ordenar la inspección permanente del establecimiento, la que subsistirá hasta la terminación del juicio.
@@ -859,9 +907,11 @@ III.- Tratándose de producción avícola, deberá efectuarse el pago en forma m
 
 Por los productos en consignación, depósito o cualquier otra forma en la que no se transmita el dominio, deberá garantizarse el interés fiscal en la Recaudación de Rentas correspondiente en los términos que establece el Código Fiscal del Estado.
 
+(REFORMADO, P.O. 31 DE ENERO DE 1976) (F. DE E., P.O. 20 DE MARZO DE 1976)
+
 ###### ARTICULO 102.
 
-Son solidariamente responsables de este impuesto las personas físicas, morales o unidades económicas y agentes aduanales que operen o manejen productos gravados por este impuesto, quienes tendrán la obligación de cerciorarse de que los impuestos correspondientes han sido cubiertos, en caso contrario deberán retenerlos y enterarlos dentro de los días comprendidos del primero al quince de cada mes.
+Son solidariamente responsables de este impuesto las personas físicas, morales o unidades económicas y agentes aduanales que adquieran, operen, manejen o refaccionen los productos gravados por este impuesto, quienes tendrán la obligación de cerciorarse de que los impuestos correspondientes han sido cubiertos, y en caso contrario deberán retenerlos y enterarlos dentro de los días comprendidos del primero al veinte de cada mes.
 
 ###### ARTICULO 103.
 
@@ -875,21 +925,27 @@ Son obligaciones de los causantes:
 
 I.- Empadronarse en la oficina Recaudadora correspondiente.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 1974)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1976)</small>
 
-II.- Tratándose de producción avícola, efectuar el pago mensualmente presentando su declaración en las formas autorizadas por la Secretaría de Finanzas.
+II.- Tratándose de producción avícola, efectuar el pago mensualmente dentro de los días del primero al veinte de cada mes presentando su declaración en las formas autorizadas por la Secretaría de Finanzas.
 
-III.- Cumplir las que señale esta Ley y demás disposiciones fiscales relativas.
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 1976)</small>
+
+III.- Tratándose de producción ganadera presentar declaración mensual de movimiento de ganado y efectuar el pago del impuesto al momento de su sacrificio, del traslado de su dominio o de su transportación fuera del Estado.
+
+IV.- Cumplir las que señale esta Ley y demás disposiciones fiscales relativas.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
 ###### ARTICULO 105.
 
-Las personas físicas o morales que adquieran o manejen productos agropecuarios, o los reciban para su guarda, están obligados a:
+Las personas físicas o morales que adquieran, operen, manejen o refaccionen productos agropecuarios, o los reciban para su guarda, están obligados a:
 
-I.- Cerciorarse al recibir el producto, de que se ha pagado el Impuesto o a retenerlo y enterarlo a la oficina Recaudadora.
+I.- Cerciorarse al recibir el producto, de que se ha pagado el impuesto o a retenerlo y enterarlo en la oficina recaudadora de su jurisdicción.
 
 Tratándose de productos agrícolas de procedencia ejidal, que se produzcan en el Estado, deberá cerciorarse de que los productores sean ejidatarios.
 
-II.- A presentar a la Recaudación de Rentas de su Jurisdicción, dentro de los días comprendidos del primero al quince de cada mes, una declaración de los productos adquiridos o recibidos durante el mes anterior, enterando el importe del Impuesto retenido, expresando el nombre y número de registro del causante.
+II.- A presentar a la Recaudación de Rentas de su jurisdicción, dentro de los días comprendidos del primero al veinte de cada mes, una declaración de los productos adquiridos o recibidos durante el mes anterior, enterando el importe del impuesto retenido en las formas autorizadas por la Secretaría de Finanzas.
 
 ###### ARTICULO 106.
 
@@ -921,23 +977,31 @@ II.- Ante la primera autoridad fiscal que requiera de pago.
 
 Por los productos en consignación, depósito o cualquier otra forma en la que no se trasmita el dominio, deberá garantizarse el interés fiscal en la Recaudación de Rentas correspondiente en los términos que establece el Código Fiscal del Estado.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+
 ###### ARTICULO 112.
 
-Son solidariamente responsables del pago de este Impuesto las personas físicas, morales o unidades económicas y agentes aduanales que operen o manejen productos gravados por este Impuesto, quienes tendrán la obligación de cerciorarse de que los impuestos han sido cubiertos y en caso contrario deberán retenerlos y enterarlos dentro de los días comprendidos del primero al quince de cada mes.
+Son solidariamente responsables del pago de este impuesto las personas físicas, morales o unidades económicas y agentes aduanales que adquieran, operen, manejen o refaccionen productos gravados por este impuesto, quienes tendrán la obligación de cerciorarse de que los impuestos han sido cubiertos y en caso contrario deberán retenerlos y enterarlos dentro de los días comprendidos del primero al veinte de cada mes.
 
 ###### ARTICULO 113.
 
 Todo tenedor está obligado a comprobar el pago del Impuesto en el momento en que sea requerido por las autoridades fiscales y la falta de comprobación dará lugar al cobro del Impuesto y en caso de no liquidar su importe, se procederá a garantizar el interés fiscal.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+
 ###### ARTICULO 114.
 
-Son obligaciones de los causantes de este Impuesto:
+Son obligaciones de los causantes de este impuesto:
 
-I.- Empadronarse en la oficina Recaudadora correspondiente.
+I.- Empadronarse en la oficina recaudadora correspondiente.
 
-II.- Pagar el Impuesto conforme lo que señale la Ley de Ingresos del Estado.
+II.- Presentar el permiso del Ejecutivo del Estado para operar con productos agropecuarios.
 
-III.- Cumplir las demás que señalen esta Ley y demás disposiciones fiscales relativas.
+III.- Pagar el impuesto conforme lo señale la Ley de Ingresos del Estado.
+
+IV.- Presentar un declaración mensual de movimiento de productos agropecuarios en los días del primero al veinte de cada mes.
+
+V.- Cumplir las demás que señalen esta Ley y demás disposiciones fiscales relativas.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -963,25 +1027,33 @@ Son sujetos de este Impuesto las personas físicas, morales o unidades económic
 
 Este Impuesto se causará con base en el volumen de algodón despepitado y se pagará conforme a la cuota que fije la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 1974)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
 ###### ARTICULO 119.
 
-Los causantes de este Impuesto deberán pagarlo mensualmente dentro de los días del primero al veinte de cada mes, conforme al volumen despepitado en el mes inmediato anterior, mediante la presentación en la Recaudación de Rentas correspondiente, de una declaración, la que deberá contener el dato de los kilos de algodón en pluma despepitados.
+Los causantes de este impuesto deberán pagarlo mensualmente dentro de los días del primero al veinte de cada mes, conforme al volumen despepitado en el mes inmediato anterior mediante la presentación de una declaración en las formas autorizadas por la Secretaría de Finanzas en la Recaudación de Rentas correspondiente, la que deberá contener el dato de los kilos de algodón en pluma despepitados y el tonelaje de la semilla de algodón obtenida.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
 ###### ARTICULO 120.
 
-Las operaciones que grava este impuesto no son objeto del de actividades mercantiles e industriales a que se refiere el capítulo III de esta ley.
+Las operaciones que grava este impuesto, no causan el de actividades mercantiles e industriales a que se refiere el Capítulo III de esta Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1976)</small>
+
+###### ARTICULO 120
+
+1.- Este impuesto no será repercutible.
 
 (SIC)
 
 Impuesto Sobre Adquisición de Algodón
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+
 ###### ARTICULO 121.
 
-Son objeto del Impuesto Sobre Adquisición de Algodón las operaciones de compra-venta de algodón en pluma y semilla de algodón producido en el Estado.
+Son objeto del Impuesto Sobre Adquisición de Algodón las Operaciones de compra-venta de algodón en pluma y semilla de algodón que se realicen en el Estado.
 
 ###### ARTICULO 122.
 
@@ -991,15 +1063,17 @@ Son sujetos de este Impuesto las personas físicas, morales o unidades económic
 
 Este Impuesto se causará con base en el precio de la operación de adquisición de algodón en pluma y el volumen de semilla de algodón adquirida, y se pagará conforme a la tasa que fije la Ley de Ingresos del Estado.
 
+(REFORMADO, P.O. 31 DE ENERO DE 1976) (F. DE E., P.O. 20 DE MARZO DE 1976)
+
 ###### ARTICULO 124.
 
-Los causantes de este Impuesto deberán pagarlo mensualmente dentro de los días del primero al veinte de cada mes, conforme a las compras efectuadas en el mes inmediato anterior, mediante la presentación de una declaración en la Recaudación de Rentas correspondiente.
+Los causantes del impuesto deberán pagarlo mensualmente dentro de los días del primero al veinte de cada mes, conforme a las compras efectuadas en el mes inmediato anterior, mediante la presentación de una declaración ante la Recaudación de Rentas correspondiente en las formas autorizadas por la Secretaría de Finanzas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
 ###### ARTICULO 125.
 
-Son retenedores y responsables solidarios del pago de este impuesto, los despepitadores de algodón, los molinos de semilla y los intermediarios que intervengan en las operaciones de compraventa.
+Son retenedores y responsables solidarios del pago de este impuesto, los despepitadores de algodón, los molinos de semilla y cualesquiera otra persona física o moral o unidad económica que intervenga directa o indirectamente en las operaciones de compra-venta de algodón y semilla de algodón.
 
 ###### ARTICULO 126.
 
@@ -1041,19 +1115,19 @@ Las personas que presten los servicios a que se refiere el Artículo 127 de esta
 
 ###### ARTICULO 133.
 
-Son objeto de este Impuesto las ventas de primera mano de gasolina y demás derivados del petróleo realizadas en el Estado.
+(DEROGADO, P.O. 31 DE ENERO DE 1976)
 
 ###### ARTICULO 134.
 
-Son sujetos de este Impuesto los agentes o expendedores de gasolina y demás derivados del petróleo, establecidos en el Estado.
+(DEROGADO, P.O. 31 DE ENERO DE 1976)
 
 ###### ARTICULO 135.
 
-El Impuesto se causará con base en las ventas de primera mano de gasolina y demás derivados del petróleo, realizadas en el Estado y se pagará en el momento en que el causante adquiera los productos conforme a la tasa que establezca la Ley de Ingresos del Estado.
+(DEROGADO, P.O. 31 DE ENERO DE 1976)
 
 ###### ARTICULO 136.
 
-Este Impuesto será recaudado por Petróleos Mexicanos en los términos del reglamento del Artículo 21 de la Ley del Impuesto sobre Consumo de Gasolina.
+(DEROGADO, P.O. 31 DE ENERO DE 1976)
 
 ### CAPITULO X. Impuesto Sobre Diversiones y Espectáculos Públicos
 
@@ -1315,11 +1389,11 @@ II.- Dar aviso de altas y bajas de los sujetos a que se refiere la fracción ant
 
 22.- Las personas físicas, jurídicas o unidades económicas que hagan pagos a causantes que eventualmente sean sujetos de este impuesto dentro del Territorio del Estado, deberán retenerlo y enterarlo en la oficina Recaudadora correspondiente; utilizando las formas aprobadas por la Secretaría de Finanzas del Estado, dentro de los tres días siguientes al en que se cause, siendo en todo caso solidariamente responsables del pago del mismo.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
 ###### ARTICULO 151
 
-23.- Están exentos de este impuesto los sujetos que perciban un ingreso mensual hasta de $5,000.00.
+23.- Se considera ingreso exento para los efectos del pago de este impuesto, la cantidad hasta de $5,000.00 (Cinco Mil Pesos 00/100) de los ingresos que obtenga el causante mensualmente.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -1616,3 +1690,17 @@ CUARTO: La vigencia del presente Decreto empezará a partir del día siguiente a
 P.O. 20 DE JUNIO DE 1975.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 31 DE ENERO DE 1976.
+
+DECRETO NUMERO 100.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 31 DE ENERO DE 1976.
+
+DECRETO NUMERO 108.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
