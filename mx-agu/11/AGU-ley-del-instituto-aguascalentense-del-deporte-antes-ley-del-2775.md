@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-aguascalentense-del-deporte-antes-ley-del-277
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-18"
-last_updated: "1989-06-18"
+last_updated: "1993-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,66 +21,156 @@ state: "AGU"
 ---
 # LEY DEL INSTITUTO AGUASCALENTENSE DEL DEPORTE -ANTES LEY DEL INSTITUTO AGUASCALENTENSE DE LA JUVENTUD Y EL DEPORTE-
 
-ACUERDO GENERAL 33/2002, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA DE MANERA TEMPORAL LA COMPETENCIA DE LOS TRIBUNALES COLEGIADOS EN MATERIA PENAL, ASI COMO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO, CON RESIDENCIA EN GUADALAJARA, JALISCO; ESTABLECE LAS REGLAS DE RECEPCION Y TURNO DE ASUNTOS NUEVOS DE LOS TRIBUNALES COLEGIADOS EN MATERIA ADMINISTRATIVA, DE LOS TRIBUNALES COLEGIADOS EN MATERIA PENAL Y DE LOS TRIBUNALES COLEGIADOS EN MATERIA DE TRABAJO DEL REFERIDO CIRCUITO; ASI COMO LA EXCLUSION TEMPORAL DEL TURNO DE ASUNTOS NUEVOS AL SEGUNDO Y TERCER TRIBUNALES COLEGIADOS EN MATERIA ADMINISTRATIVA DEL MENCIONADO CIRCUITO Y SEDE
+LEY DEL INSTITUTO AGUASCALENTENSE DEL DEPORTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 1993.
 
-Acuerdo publicado en el Diario Oficial de la Federación, el lunes 15 de julio de 2002.
+Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 18 de junio de 1989.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
+INGENIERO MIGUEL ANGEL BARBERENA VEGA, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
 
-ACUERDO GENERAL 33/2002, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA DE MANERA TEMPORAL LA COMPETENCIA DE LOS TRIBUNALES COLEGIADOS EN MATERIA PENAL, ASI COMO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO, CON RESIDENCIA EN GUADALAJARA, JALISCO; ESTABLECE LAS REGLAS DE RECEPCION Y TURNO DE ASUNTOS NUEVOS DE LOS TRIBUNALES COLEGIADOS EN MATERIA ADMINISTRATIVA, DE LOS TRIBUNALES COLEGIADOS EN MATERIA PENAL Y DE LOS TRIBUNALES COLEGIADOS EN MATERIA DE TRABAJO DEL REFERIDO CIRCUITO; ASI COMO LA EXCLUSION TEMPORAL DEL TURNO DE ASUNTOS NUEVOS AL SEGUNDO Y TERCER TRIBUNALES COLEGIADOS EN MATERIA ADMINISTRATIVA DEL MENCIONADO CIRCUITO Y SEDE.
+Que por el H. Congreso del Estado, se me ha comunicado lo siguiente:
 
-CONSIDERANDO
+El H. Congreso del Estado en sesión extraordinaria celebrada hoy, tuvo a bien expedir el siguiente Decreto:
 
-PRIMERO.- Que por decretos publicados en el Diario Oficial de la Federación el treinta y uno de diciembre de mil novecientos noventa y cuatro, veintidós de agosto de mil novecientos noventa y seis, y once de junio de mil novecientos noventa y nueve, se reformaron, entre otros, los artículos 94, 99 y 100 de la Constitución Política de los Estados Unidos Mexicanos, modificando la estructura y competencia del Poder Judicial de la Federación;
+"NUMERO 109
 
-SEGUNDO.- Que en términos de lo dispuesto por los artículos 94, párrafo segundo, 100, párrafos primero y octavo, de la Carta Magna; 68 y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación, el Consejo de la Judicatura Federal es el órgano encargado de la administración, vigilancia y disciplina del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral; con independencia técnica, de gestión y para emitir sus resoluciones; además, está facultado para expedir acuerdos generales que permitan el adecuado ejercicio de sus funciones;
+La H. Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le concede el Artículo 27 de la Constitución Política Local, tuvo a bien expedir la siguiente:
 
-TERCERO.- Que el artículo 17 constitucional establece, entre otras disposiciones, que los tribunales estarán expeditos para impartir justicia en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa, imparcial y gratuita;
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE JUNIO DE 1993)</small>
 
-CUARTO.- Que el artículo 81, fracciones V y XXIV, de la citada Ley Orgánica del Poder Judicial de la Federación, otorga facultades al Consejo de la Judicatura Federal para determinar el número y, en su caso, especialización por materia de los tribunales colegiados en cada uno de los Circuitos, así como para dictar las disposiciones necesarias para regular el turno de los asuntos de la competencia de los citados tribunales, cuando en un mismo lugar haya varios de ellos, las cuales fueron delegadas en la Comisión de Creación de Nuevos Organos mediante el Acuerdo General 48/1998, del Pleno del propio Consejo;
+LEY DEL INSTITUTO AGUASCALENTENSE DEL DEPORTE
 
-QUINTO.- Que con motivo de las limitaciones presupuestales impuestas al Consejo de la Judicatura Federal y a fin de atender la dinámica de la sociedad actual y su demanda de acceso a la justicia, el Pleno de dicho Cuerpo Colegiado aprobó el Programa Alternativo de Apoyo a Organos Jurisdiccionales para el dos mil dos, en el que se previeron, entre otras acciones, la de realizar los estudios necesarios para equilibrar las cargas de trabajo, eficientar los recursos humanos y materiales, así como buscar el óptimo desempeño de tales órganos, con lo cual se pretende asegurar a los justiciables la garantía que en su favor establece el invocado artículo 17 constitucional;
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 1993)</small>
 
-SEXTO.- Que en cumplimiento del programa antes citado, la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos del Consejo de la Judicatura Federal, realizó el análisis de las estadísticas correspondientes a los asuntos que actualmente se tramitan en los Tribunales Colegiados del Tercer Circuito, con residencia en Guadalajara, Jalisco, y observó que el número de asuntos radicados en los tribunales colegiados en materia administrativa del mencionado Circuito, excede notoriamente de los existentes en los tribunales colegiados en materia penal y en materia de trabajo del Circuito y sede referidos.
+###### ARTICULO 1o.
 
-Con base en lo anterior, el Pleno del Consejo de la Judicatura Federal estima que los tribunales colegiados en materia penal y en materia de trabajo del Circuito de que se trata, están en condiciones de proporcionar el auxilio necesario para resolver la problemática que presentan los tribunales colegiados en materia administrativa del referido Circuito, para lo cual es conveniente modificar, de manera temporal, la competencia de los mencionados tribunales colegiados, así como las reglas de recepción y turno de asuntos nuevos entre éstos y los tribunales colegiados en materia administrativa; y excluir de manera temporal del turno de asuntos nuevos al Segundo y Tercer Tribunales Colegiados de esta materia, a fin de cumplir con lo establecido en el artículo 17 constitucional.
+El Instituto Aguascalentense del Deporte se crea con la presente Ley, será un organismo desconcentrado de la Administración Pública Estatal.
 
-En consecuencia, con fundamento en las disposiciones constitucionales y legales citadas, el Pleno del Consejo de la Judicatura Federal expide el siguiente
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 1993)</small>
 
-ACUERDO
+###### ARTICULO 2o.
 
-PRIMERO.- Se modifica temporalmente la competencia del Primer y Segundo Tribunales Colegiados en Materia Penal del Tercer Circuito, con residencia en Guadalajara, Jalisco; así como del Primer y Segundo Tribunales Colegiados en Materia de Trabajo del propio Circuito y sede, conservando dichos órganos jurisdiccionales la denominación y jurisdicción territorial que tienen asignadas.
+El Instituto Aguascalentense del Deporte tendrá a su cargo:
 
-SEGUNDO.- Los mencionados tribunales colegiados en materia penal y en materia de trabajo del Tercer Circuito, conocerán, además de los asuntos propios de la competencia que tienen asignada, de aquellos asuntos a que se refiere el artículo 37, fracciones I, inciso b), II, III, IV, V, VI, VII, VIII y IX, de la Ley Orgánica del Poder Judicial de la Federación, en materia administrativa, dentro del periodo comprendido del uno de agosto al treinta de septiembre de dos mil dos; en consecuencia, todos los asuntos de la referida materia que en dicho lapso se turnen a los tribunales colegiados en materia penal y a los tribunales colegiados en materia de trabajo del referido Circuito, aun cuando no se hayan radicado, permanecerán en ellos hasta su conclusión.
+I.- La promoción y el fomento del deporte y la cultura física; y
 
-TERCERO.- Durante la temporalidad señalada en el punto de acuerdo precedente, la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia Administrativa del Tercer Circuito, lo será también de los tribunales colegiados en materia penal y de los tribunales colegiados en materia de trabajo del mencionado Circuito, únicamente por cuanto hace a la recepción de asuntos de la materia administrativa.
+> <small>(REFORMADA, P.O. 06 DE JUNIO DE 1993)</small>
 
-CUARTO.- Los asuntos nuevos que se presenten en la mencionada Oficina de Correspondencia Común del uno de agosto al treinta de septiembre de dos mil dos, serán distribuidos por ésta conforme al sistema computarizado que se utiliza para esos efectos, entre el Primer Tribunal Colegiado en Materia Administrativa, los dos tribunales colegiados en materia penal y los dos tribunales colegiados en materia de trabajo, del Tercer Circuito, con excepción de aquellos asuntos que tengan relación con los que se encuentren en trámite en los tribunales colegiados en materia administrativa del mencionado Circuito, en cuyo supuesto se turnarán a dichos órganos, con el propósito de evitar el pronunciamiento de resoluciones contradictorias; y las demás excepciones que proceden conforme a lo dispuesto en el Acuerdo General 23/2002.
+II.- La promoción y el fortalecimiento del bienestar de la población a través del deporte.
 
-Del uno al treinta de septiembre de dos mil dos el Tercer Tribunal Colegiado en Materia Administrativa del Tercer Circuito entrará al turno de asuntos nuevos con las excepciones antes señaladas.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 1993)</small>
 
-Concluidos los periodos a que se refieren los párrafos anteriores, los tribunales colegiados en materia penal y los tribunales colegiados en materia de trabajo del Tercer Circuito, recobrarán la competencia originalmente establecida para ellos.
+###### ARTICULO 3o.
 
-QUINTO.- Para los efectos del turno de que se trata, la Dirección General de Informática del Consejo de la Judicatura Federal establecerá los módulos de configuración programáticos necesarios para la recepción y turno de las demandas, recursos y otros asuntos, y los instalará en el equipo de cómputo con el que cuenta la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia Administrativa del Tercer Circuito.
+Para los efectos del artículo anterior, el Instituto Aguascalentense del Deporte ejercerá las siguientes atribuciones:
 
-SEXTO.- Se excluye temporalmente del turno de asuntos nuevos por el lapso de dos meses al Segundo Tribunal Colegiado en Materia Administrativa, y por el lapso de un mes al Tercer Tribunal Colegiado en Materia Administrativa, ambos del Tercer Circuito, con residencia en Guadalajara, Jalisco.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 1993)</small>
 
-Los periodos de exclusión comprenderán del uno de agosto al treinta de septiembre de dos mil dos, y del uno al treinta y uno de agosto del mismo año, respectivamente, por ende, los asuntos nuevos que se reciban en el primer lapso en la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia Administrativa del Tercer Circuito, serán del conocimiento exclusivo del Primer Tribunal Colegiado en Materia Administrativa, del Primer y Segundo Tribunales Colegiados en Materia Penal, así como del Primer y Segundo Tribunales Colegiados en Materia de Trabajo, todos del Tercer Circuito; con excepción de aquellos asuntos que estén relacionados con los que se encuentren en trámite en el Segundo y Tercer Tribunales Colegiados en Materia Administrativa del Circuito y sede mencionados, en cuyo supuesto se turnarán a estos últimos, con el propósito de evitar el pronunciamiento de resoluciones contradictorias; y las demás excepciones que procedan conforme a lo dispuesto por el Acuerdo General 23/2002, del Pleno del Consejo de la Judicatura Federal.
+I.- Establecer y coordinar el sistema estatal del deporte con la participación que corresponda a las dependencias, entidades e instituciones de los sectores público, social y privado;
 
-Del primero al treinta de septiembre de dos mil dos, los asuntos nuevos que se reciban en la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia Administrativa del Tercer Circuito, se distribuirán entre los Tribunales Colegiados mencionados en el párrafo que precede y el Tercer Tribunal Colegiado en Materia Administrativa del propio Circuito, con las excepciones señaladas en el párrafo de referencia.
+II.- Establecer los mecanismos necesarios para la adecuada coordinación de acciones con las instituciones de educación superior estatales, en lo relativo a programas de investigación en ciencias y técnicas del deporte, particularmente en medicina preventiva, así como promover la concertación de acciones en materia deportiva con las instituciones de los sectores público, social y privado;
 
-SEPTIMO.- Una vez transcurridos los plazos señalados en los puntos cuarto y sexto, los asuntos nuevos se distribuirán entre los tres Tribunales Colegiados en Materia Administrativa del Tercer Circuito, con residencia en Guadalajara, Jalisco, con las salvedades apuntadas, conforme al sistema computarizado que se utiliza para esos efectos.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 1993)</small>
 
-OCTAVO.- Al finalizar los periodos de competencia compartida, así como de exclusión otorgados, los presidentes de los tribunales colegiados de que se trata, deberán informar sobre los resultados obtenidos a la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal.
+III.- Proponer los mecanismos de coordinación entre las Autoridades Estatales y los Gobiernos Municipales, a fin de impulsar el desarrollo y mejoramiento integral del deporte en el Estado;
 
-NOVENO.- La Comisión de Creación de Nuevos Organos analizará y resolverá todas las cuestiones administrativas que se susciten con motivo de la aplicación de este acuerdo, así como cualquier cuestión relacionada con la conclusión anticipada o extensión de los lapsos previstos en los puntos cuarto y sexto de este acuerdo.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 1993)</small>
+
+IV.- Coordinar con las Delegaciones de las Dependencias y Entidades Federales en el Estado, lo relativo al desarrollo del Deporte;
+
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 1993)</small>
+
+V.- Instalar las coordinaciones operativas municipales en el Estado y proponer la concertación de bases y criterios para el desarrollo de las acciones en materia del deporte;
+
+VI.- Proponer programas de capacitación en materia deportiva;
+
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 1993)</small>
+
+VII.- Fomentar la creación y mejoramiento de instalaciones y servicios para el Deporte;
+
+VIII.- Apoyar cuando se estime conveniente, a las universidades e instituciones que consideren dentro de sus programas, actividades de fomento al deporte;
+
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 1993)</small>
+
+IX.- Diseñar y proponer los criterios para asegurar la uniformidad y congruencia entre los programas de apoyo al deporte del sector público estatal y la asignación de recursos para los mismos fines, así como conocer y opinar sobre dichas asignaciones; y
+
+X.- Las demás que determine el Ejecutivo del Estado y las que le confiera el Secretario General de Gobierno.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 1993)</small>
+
+###### ARTICULO 4o.
+
+El Instituto Aguascalentense del Deporte, estará a cargo de un Director que será designado por el Gobernador del Estado.
+
+###### ARTICULO 5o.
+
+El Director del Instituto tendrá las siguientes atribuciones:
+
+I.- Planear, programar, coordinar y dirigir el funcionamiento del Instituto;
+
+II.- Elaborar y someter a la aprobación del Ejecutivo del Estado, los proyectos anuales de programas de actividades y operativos, así como los presupuestos del Instituto;
+
+III.- Presentar trimestral y anualmente a la Secretaría General de Gobierno, los estados financieros, balances e informes de actividades y avances de los programas, así como los que le solicite la propia Secretaría;
+
+IV.- Expedir los manuales necesarios para el cumplimiento de sus objetivos;
+
+V.- Administrar los recursos humanos, materiales y financieros que se le asignen al Instituto para la realización de sus objetivos; y
+
+VI.- Las demás que le confieran al Instituto las disposiciones legales aplicables y le señale el Ejecutivo del Estado.
+
+###### ARTICULO 6o.
+
+El Instituto tendrá el personal que se le asigne de acuerdo a los convenios que se celebren con la Federación o que le sean aplicables.
 
 ## TRANSITORIOS
 
-PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+SEGUNDO.- Se derogan:
 
-EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 33/2002, del Pleno del Consejo de la Judicatura Federal, Que Modifica de Manera Temporal la Competencia de los Tribunales Colegiados en Materia Penal, así como en Materia de Trabajo del Tercer Circuito, con Residencia en Guadalajara, Jalisco; Establece las Reglas de Recepción y Turno de Asuntos Nuevos de los Tribunales Colegiados en Materia Administrativa, de los Tribunales Colegiados en Materia Penal y de los Tribunales Colegiados en Materia de Trabajo del Referido Circuito; así como la Exclusión Temporal del Turno de Asuntos Nuevos al Segundo y Tercer Tribunales Colegiados en Materia Administrativa del Mencionado Circuito y Sede, fue aprobado por el propio Pleno, en sesión extraordinaria de ocho de julio de dos mil dos, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a ocho de julio de dos mil dos.- Conste.- Rúbrica.
+I.- El Decreto del Ejecutivo del Estado que crea el Consejo Estatal del Deporte de Aguascalientes como órgano de consulta del Gobierno del Estado, publicado en el Periódico Oficial del 28 de febrero de 1982;
+
+II.- La Ley que crea el Consejo Estatal de Recursos para la Atención de la Juventud, como organismo público descentralizado, publicada en el Periódico Oficial del 2 de diciembre de 1984; y
+
+III.- Las demás disposiciones que se opongan a lo dispuesto en el presente ordenamiento.
+
+TERCERO.- Los servidores públicos que a la fecha presten sus servicios en el Consejo Estatal del Deporte y en el Consejo Estatal de Recursos para la Atención de la Juventud, sin perjuicio de sus derechos laborales y previas las formalidades de ley que resulten aplicables, pasarán a formar parte del personal del Instituto Aguascalentense de la Juventud y el Deporte.
+
+CUARTO.- La Contraloría General del Gobierno del Estado, con la intervención de la Tesorería General y la Secretaría de Administración, proveerá lo conducente para la disolución y liquidación del Consejo Estatal del Deporte y del Consejo Estatal de Recursos para la Atención de la Juventud, transfiriendo sus bienes muebles y recursos al Instituto Aguascalentense de la Juventud y el Deporte para ser utilizados en el cumplimiento de su objeto.
+
+Al Ejecutivo para su sanción.
+
+Dado en el Salón de Sesiones del H. Congreso del Estado, a los ocho días del mes de junio de mil novecientos ochenta y nueve.- D.P., Ing. Víctor Manuel de Luna Alvarado.- D.S., Candelario Torres Villalpando.- D.S., Francisco Javier Contreras Colunga.- Rúbricas".
+
+Y tenemos el honor de comunicarlo a usted para su conocimiento y efectos legales consiguientes, reiterándole las muestras de nuestra consideración distinguida.
+
+SUFRAGIO EFECTIVO. NO REELECCION.
+
+DIPUTADO PRESIDENTE,
+
+Ing. Víctor Manuel de Luna Alvarado.
+
+DIPUTADO SECRETARIO,
+
+Candelario Torres Villalpando.
+
+DIPUTADO SECRETARIO,
+
+Francisco Javier Contreras Colunga.
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Aguascalientes, Ags., 9 de junio de 1989.
+
+Ing. Miguel Angel Barberena Vega.
+
+EL SECRETARIO GENERAL DE GOBIERNO,
+
+Lic. Héctor Valdivia Carreón.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE JUNIO DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
