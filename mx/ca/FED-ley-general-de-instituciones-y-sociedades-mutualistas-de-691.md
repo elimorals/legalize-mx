@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1997-05-07"
+last_updated: "1999-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -467,7 +467,7 @@ La Secretaría de Hacienda y Crédito Público podrá revocar discrecionalmente 
 
 Las instituciones de seguros deberán ser constituidas como sociedades anónimas de capital fijo o variable, con arreglo a lo que dispone la Ley General de Sociedades Mercantiles, en cuanto no esté previsto en esta Ley y, particularmente, a lo siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
 
 I.- Deberán contar con un capital mínimo pagado por cada operación o ramo que se les autorice, expresado en Unidades de Inversión, el cual se deberá cubrir en moneda nacional en el plazo previsto en esta fracción y que será determinado por la Secretaría de Hacienda y Crédito Público durante el primer trimestre de cada año, para lo cual deberán considerarse, entre otros aspectos, los recursos que sean indispensables para apoyar la adecuada prestación del servicio que representa la actividad aseguradora, la suma de los capitales pagados y reservas de capital con que opere el conjunto de instituciones que integren el sistema asegurador, la situación económica del país y el principio de procurar el sano y equilibrado desarrollo del sistema y una adecuada competencia.
 
@@ -577,7 +577,7 @@ h). Las personas que de manera discrecional, autorice la Secretaría de Hacienda
 
 i). Las Instituciones Financieras del Exterior, directa o indirectamente, o las Sociedades Controladoras Filiales que adquieran acciones de cualquier serie, conforme a programas aprobados por la Secretaría de Hacienda y Crédito Público, con la finalidad de convertir a la respectiva institución de seguros en una Filial.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 III.- Para participar en asambleas de accionistas de instituciones de seguros o de sociedades de las comprendidas en los incisos b) y g) de la fracción anterior, deberán cumplirse los siguientes requisitos:
 
@@ -617,7 +617,7 @@ VI.- Deberá celebrarse una asamblea general ordinaria cada año, por lo menos, 
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1997)</small>
 
-En las asambleas generales extraordinarias de accionistas las decisiones deberán tomarse cuando menos, por una mayoría del 80% del capital pagado con derecho a voto, salvo que se trate de segunda convocatoria, caso en el cual las resoluciones se adoptarán, por lo menos, con el voto del 30% del capital pagado con derecho a voto.
+En las asambleas generales extraordinarias de accionistas las decisiones deberán tomarse, cuando menos, por una mayoría del 80% del capital pagado con derecho a voto, salvo que se trate de segunda convocatoria, caso en el cual las resoluciones se adoptarán, por lo menos, con el voto del 30% del capital pagado con derecho a voto.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
@@ -2313,7 +2313,7 @@ I.- Se estimarán por su valor nominal los créditos y documentos mercantiles pe
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
 
-II.- Los bonos, obligaciones y otros títulos de naturaleza análoga, se valuarán tomando en consideración, entre otros elementos, la tasa de rendimiento, el plazo de su vencimiento y su liquidez.
+II.- Los bonos, obligaciones y otros títulos de naturaleza análoga, se valuarán tomando en consideración, entre otros elementos, la tasa de rendimiento, el plazo de su vencimiento y su liquidez;
 
 > <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
 
@@ -2501,9 +2501,7 @@ IX.- Formular anualmente sus presupuestos que someterá a la autorización de la
 
 X.- Rendir un informe anual de sus labores a la Secretaría de Hacienda y Crédito Público;
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
-
-XI.- Proveer las medidas que estime necesarias para que las instituciones y sociedades mutualistas de seguros cumplan con los compromisos contraídos en los contratos de seguro celebrados; y
+XI.- (DEROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, D.O.F. 18 DE ENERO DE 1999)
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -3916,3 +3914,17 @@ D.O.F. 7 DE MAYO DE 1997.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las disposiciones de carácter general que la Secretaría de Hacienda y Crédito Público haya emitido bajo la vigencia de los artículos que se reforman en este decreto, continuarán vigentes hasta en tanto no sean modificadas, abrogadas o derogadas por la misma dependencia.
+
+D.O.F. 18 DE ENERO DE 1999.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan los artículos 119 y 120 de la Ley de Instituciones de Crédito; 102 y 103 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 88 y 88 de la Ley del Mercado de Valores; 45 de la Ley de Sociedades de Inversión; la fracción XI del artículo 108 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros; la fracción XII del artículo V; 109 y 110 de la Ley de los Sistemas de Ahorro para el Retiro, y la fracción X del artículo 4º de la Ley de la Comisión Nacional Bancaria y de Valores, así como las demás disposiciones que se opongan a la presente Ley.
+
+TERCERO.- Para los efectos de los artículos 72 y 83 de esta Ley, las menciones a la Comisión Nacional de Seguros y Fianzas en los artículos 135 y 136 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, y 93 y 94 de la Ley Federal de Instituciones de Fianzas, se deberán entender referidas a la Comisión Nacional para la Defensa de los Usuarios de Servicios Financieros.
+
+...
+
+DECIMO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
