@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1991-12-26"
+last_updated: "1992-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 1992.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -364,7 +364,9 @@ VI.- Los Jefes Militares con mando de tropa, sean de la Federación o del Estado
 
 VII.- Los que hayan tomado parte directa o indirectamente en alguna asonada, motín o cuartelazo.
 
-VIII.- Los Ministros de cualquier culto.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 1992)</small>
+
+VIII.- Los Ministros de cualquier culto, salvo que hubieren dejado de serlo con la anticipación y en la forma que establezca la Ley Reglamentaria del artículo 130 de la Constitución Federal.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
 
@@ -516,21 +518,17 @@ XIV.- Autorizar la venta, hipoteca o cualquier otro gravamen de bienes raíces d
 
 XV.- Establecer las bases normativas sobre las que los Municipios podrán expedir sus Bandos de Policía y Buen Gobierno, así como los Reglamentos, Circulares y demás disposiciones administrativas de observancia general en el ámbito de sus jurisdicciones.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
-
-XVI.- Fijar, según las necesidades locales, el número máximo de Ministros de los cultos que pueden permitirse en el Estado.
+XVI.- (DEROGADA, P.O. 3 DE JUNIO DE 1992)
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 XVII.- Organizar el patrimonio de la familia determinando los bienes que deben constituirlo.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+XVIII.- (DEROGADA, P.O. 3 DE JUNIO DE 1992)
 
-XVIII.- Crear la deuda agraria del Estado, con arreglo a la Constitución Federal.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 1992)</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
-
-XIX.- Organizar la pequeña propiedad rural, fijando la extensión máxima de tierras de que pueda ser dueño un solo individuo o sociedad legalmente constituída.
+XIX.- Expedir leyes que establezcan los procedimientos para el fraccionamiento y enajenación de las extensiones de tierras que llegaren a exceder los límites señalados en el artículo 27 de la Constitución Federal.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -906,7 +904,9 @@ La elección de Gobernador será popular, directa en los términos que disponga 
 
 No pueden ser Gobernador del Estado:
 
-I.- Los que pertenezcan o hayan pertenecido al estado eclesiástico, o sean o hayan sido ministros de algún culto.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 1992)</small>
+
+I.- Los Ministros de algún culto, salvo que hubieren dejado de serlo con la anticipación y en la forma que establezca la Ley Reglamentaria del artículo 130 de la Constitución Federal.
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 1957)</small>
 
@@ -1020,7 +1020,9 @@ Superior de Justicia.
 
 VII.- Conceder o negar indulto con arreglo a la Ley, a los reos sentenciados por los Tribunales del Estado.
 
-VIII.- Imponer como corrección, arresto hasta por treinta y seis horas o multa; y en defecto de ésta, el arresto correspondiente, que no podrá exceder de quince días, de acuerdo con el artículo 21 de la Constitución Federal.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 1992)</small>
+
+VIII.- Imponer como corrección, arresto hasta por treinta y seis horas o multa; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas;
 
 > <small>(REFORMADA, P.O. 19 DE ABRIL DE 1989)</small>
 
@@ -1086,15 +1088,9 @@ XXVI.- Adoptar todas las medidas necesarias para la buena marcha de la Administr
 
 XXVII.- Solicitar al Congreso del Estado la declaración de desaparición de Ayuntamientos; la suspensión definitiva de un Ayuntamiento en su totalidad, la suspensión definitiva de uno de los miembros del Ayuntamiento en lo particular, la revocación del mandato conferido a alguno de los integrantes del Municipio, en los casos previstos por el Artículo 41 de este ordenamiento.
 
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 1992)</small>
 
-XXVIII.- Ejercer todos los derechos y facultades concurrentes que el Artículo 27 de la Constitución Federal no reserve a la Nación o los Municipios con las siguientes atribuciones específicas:
-
-a).- Dictar mandamiento para resolver en primera instancia los expedientes relativos a la restitución de tierras y aguas así como dotación complementaria y ampliación de ejidos;
-
-b).- Emitir opinión en los expedientes sobre creación de nuevos centros de población y en los de expropiación de tierras, bosques y aguas ejidales y comunales y,
-
-c).- Nombrar y remover libremente a los representantes del Gobierno a la Comisión Agraria Mixta; la que estará integrada en los términos que establece la Ley Federal de Reforma Agraria.
+XXVIII.- Ejercer todos los derechos y facultades concurrentes que el artículo 27 de la Constitución Federal no reserve a la Nación o a los municipios;
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -1154,9 +1150,11 @@ El Gobernador Provisional nombrado por el Senado en el caso del artículo 69 de 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE MAYO DE 1970)</small>
 
-### CAPITULO I.
+### CAPITULO VI.
 
-DISPOSICIONES PRELIMINARES.
+DE LA PROTECCION DE LOS DERECHOS HUMANOS.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1992)</small>
 
 ###### Artículo 74.
 
@@ -1206,11 +1204,11 @@ Los servidores públicos a que se refiere el Artículo 74, de ésta Constitució
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1988)</small>
 
-### CAPITULO II.
+### CAPITULO VII.
 
-DEL TRIBUNAL SUPERIOR DE JUSTICIA.
+DE LA PROCURADURIA ECOLOGICA.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1989)</small>
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1992)</small>
 
 ###### Artículo 79-A.
 
@@ -1238,9 +1236,9 @@ El Procurador General de Justicia será el Consejero Jurídico del Gobierno, y d
 
 > <small>(REFORMADO Y REUBICADO, P.O. 7 DE JULIO DE 1988)</small>
 
-### CAPITULO III.
+### CAPITULO I.
 
-DE LOS JUECES DE PRIMERA INSTANCIA Y JUECES INFERIORES.
+DISPOSICIONES PRELIMINARES.
 
 ###### Artículo 80.
 
@@ -1304,25 +1302,37 @@ El fenómeno de conurbación interestatal se presenta cuando dos o más centros 
 
 El fenómeno de conurbación intermunicipal, se presenta cuando dos o más centros urbanos formen o tiendan a formar una unidad demográfica, económica y social entre dos o más Municipios del Estado.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 1992)</small>
+
+### CAPITULO II.
+
+DEL TRIBUNAL SUPERIOR DE JUSTICIA.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1989)</small>
+
+###### Artículo 85-C.
+
+El Congreso del Estado establecerá un organismo autónomo de protección de los derechos humanos que otorga el orden jurídico mexicano, que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción del Poder Judicial del Estado, que violen estos derechos. Formulará recomendaciones públicas autónomas, no vinculatorias así como denuncias y quejas ante las autoridades respectivas. Este organismo no será competente tratándose de asuntos electorales, laborales y jurisdiccionales. En los términos del artículo 102, apartado B., de la Constitución Federal, el organismo que establezca el Congreso de la Unión conocerá de las Inconformidades que se presenten en relación con las recomendaciones, acuerdos u omisiones del organismo estatal.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 1992)</small>
+
+### CAPITULO III.
+
+DE LOS JUECES DE PRIMERA INSTANCIA Y JUECES INFERIORES.
+
+###### Artículo 85-D.
+
+La conservación del patrimonio natural de la Entidad, la protección del ambiente y la preservación y restauración del equilibrio ecológico a que tienen derecho los habitantes del Estado, estarán encomendadas a la Procuraduría Ecológica.
+
 ### CAPITULO IV.
-
-### CAPITULO V.
-
-DE LA DEFENSORIA PUBLICA.
-
-### CAPITULO I.
-
-DE LA ORGANIZACION DE LOS MUNICIPIOS.
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ## TITULO QUINTO.
 
 DEL PODER JUDICIAL.
 
-### CAPITULO II.
+### CAPITULO V.
 
-PRINCIPIOS GENERALES DE ADMINISTRACION PUBLICA.
+DE LA DEFENSORIA PUBLICA.
 
 ###### Artículo 86.
 
@@ -1337,6 +1347,12 @@ La Ley establecerá y organizará los Tribunales, garantizará la independencia 
 ###### Artículo 88.
 
 Los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia y sus respectivos Secretarios, no podrán desempeñar empleo o cargo de la Federación, del Estado, de los Municipios ni de particulares, por el que reciban alguna remuneración, a no ser que sean de Educación Pública o de Beneficencia y que no les impidan el expedito ejercicio de sus funciones. La infracción de esta disposición será castigada con la pérdida del cargo de Magistrado, Juez o Secretario.
+
+### CAPITULO I.
+
+DE LA ORGANIZACION DE LOS MUNICIPIOS.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 89.
 
@@ -1483,6 +1499,10 @@ VII.- No podrán ser objeto de estas controversias los actos de Congreso como Ju
 ###### Artículo 101.
 
 La Ley determinará los demás procedimientos que deban seguirse para el uso del recurso a que se refiere el artículo 99 fracción XII, sobre las bases contenidas en el anterior.
+
+### CAPITULO II.
+
+PRINCIPIOS GENERALES DE ADMINISTRACION PUBLICA.
 
 ###### Artículo 102.
 
@@ -1678,11 +1698,15 @@ III.- Saber leer y escribir.
 
 IV.- Los Presidentes Municipales regidores y síndicos del Ayuntamiento, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen funciones propias de estos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato, con el carácter de suplentes; pero los que tengan el carácter de suplentes, si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 1992)</small>
+
 ###### Artículo 117.
 
-No podrán ser miembros de un Ayuntamiento o ayudantes Municipales:
+No podrán ser miembros de un Ayuntamiento o Ayudantes Municipales:
 
-I.- Los que sean o hayan sido ministros de algún culto.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 1992)</small>
+
+I.- Los Ministros de algún culto, salvo que hubieren dejado de serlo con la anticipación y en la forma que establezca la Ley Reglamentaria del artículo 130 de la Constitución Federal.
 
 II.- Los empleados de la Federación, del Estado o del Municipio, si no se separan de sus respectivos cargos cuarenta y cinco días antes del fijado para la elección.
 
@@ -2295,3 +2319,21 @@ P.O. 26 DE DICIEMBRE DE 1991.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" Organo del Gobierno del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal para los efectos que señala la Fracción XVII de la Constitución Política Local.
+
+P.O. 3 DE JUNIO DE 1992.
+
+DECRETO NUMERO 222
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 3 DE JUNIO DE 1992.
+
+DECRETO NUMERO 223
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 3 DE JUNIO DE 1992.
+
+DECRETO NUMERO 224
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
