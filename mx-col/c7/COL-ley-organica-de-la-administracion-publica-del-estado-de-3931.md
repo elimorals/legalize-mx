@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-3931"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-11-16"
-last_updated: "1998-01-24"
+last_updated: "2003-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 1985.
 
@@ -53,13 +53,11 @@ La presente Ley establece las bases de la estructura orgánica de la Administrac
 
 El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien tendrá las atribuciones, funciones y obligaciones que le señalan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Colima, la presente Ley y los demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2003)</small>
+
 ###### ARTICULO 3o.
 
-La Administración Pública Centralizada se integra por la Gubernatura del Estado, las Secretarías, la Procuraduría General de Justicia y la Oficialía Mayor.
-
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1992)</small>
-
-El Titular del Poder Ejecutivo está facultado para expedir las disposiciones administrativas que sean necesarias para coordinar institucionalmente las actividades que realicen dichos organismos, de conformidad con las áreas específicas de la administración pública, asignando dicha coordinación a las Secretarías de Gobierno correspondientes.
+La Administración Pública Centralizada se integra por la Gubernatura del Estado, las Secretarías y la Procuraduría General de Justicia.
 
 ###### ARTICULO 4o.
 
@@ -87,9 +85,11 @@ Las Secretarías ejercerán las funciones de coordinadoras de sector de las enti
 
 Al frente de cada Secretaría habrá un Secretario, que será nombrado y removido libremente por el Gobernador y que para el despacho de los asuntos de su competencia se auxiliará de Directores, Subdirectores, Jefes de Departamento, de Oficina, de Sección y de Mesa y por los demás servidores públicos que requiera el desempeño de sus funciones, de acuerdo con lo que establezca el reglamento interior respectivo.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2003)</small>
+
 ###### ARTICULO 10o.
 
-La Procuraduría General de Justicia y la Oficialía Mayor dependerán directamente del Gobernador. Entre esas dependencias y las Secretarías se establecerá la comunicación y coordinación que determine el titular del Ejecutivo Estatal.
+La Procuraduría General de Justicia dependerá directamente del Gobernador. Entre esa dependencia y las Secretarías se establecerá la comunicación y coordinación que determine el titular del Ejecutivo Estatal.
 
 ###### ARTICULO 11o.
 
@@ -129,7 +129,7 @@ Las dependencias y entidades están obligadas a proporcionarse la información y
 
 DE LA COMPETENCIA DE LAS DEPENDENCIAS CENTRALIZADAS.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 19o.
 
@@ -139,7 +139,7 @@ Secretaría General de Gobierno.
 
 Secretaría de Finanzas.
 
-Secretaría de la Contraloría.
+Secretaría de Desarrollo Social.
 
 Secretaría de Desarrollo Urbano.
 
@@ -157,9 +157,9 @@ Secretaría de Cultura.
 
 Secretaría de Turismo.
 
-Procuraduría General de Justicia.
+Secretaría de Administración.
 
-Oficialía Mayor.
+Procuraduría General de Justicia.
 
 ###### ARTICULO 20o.
 
@@ -257,7 +257,9 @@ XVI.- Realizar el seguimiento de los avances financieros de los programas de inv
 
 XVII.- Intervenir en el otorgamiento de los subsidios que conceda el Gobierno del Estado.
 
-XVIII.- Efectuar los pagos conforme a los programas y presupuestos aprobados; operar los sistemas automatizados en materia fiscal, financiera y presupuestal; procesar la nómina de los servidores públicos del Estado; establecer y llevar los sistemas de contabilidad gubernamental; formular periódicamente los estados financieros; elaborar la Cuenta Pública, y mantener las relaciones con la Contaduría General de Glosa del Congreso del Estado.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2003)</small>
+
+XVIII.- Efectuar los pagos conforme a los programas y presupuestos aprobados; operar los sistemas automatizados en materia fiscal, financiera y presupuestal; procesar la nómina de los servidores públicos del Estado; establecer y llevar los sistemas de contabilidad gubernamental; formular periódicamente los estados financieros; elaborar la Cuenta Pública y mantener las relaciones con la Contaduría Mayor de Hacienda del Congreso del Estado.
 
 XIX.- Despachar los asuntos que en el área de su competencia, le encomiende el titular del Poder Ejecutivo.
 
@@ -265,39 +267,53 @@ XX.- Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le co
 
 XXI.- Los demás que le atribuyan las leyes y reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otra dependencia.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2003)</small>
+
 ###### ARTICULO 22o.
 
-A la Secretaría de la Contraloría corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Social corresponde el despacho de los siguientes asuntos:
 
-I.- Planear, organizar, operar, dirigir y coordinar el sistema de control gubernamental para efectos preventivos y correctivos.
+I.- Formular, conducir y evaluar la política estatal de desarrollo social y humano; así como las acciones necesarias para el combate efectivo a la pobreza, procurando el desarrollo de la población del Estado.
 
-II.- Expedir y vigilar que se cumplan las normas que regulen el funcionamiento de los órganos, instrumentos y procedimientos de control de la administración pública estatal en relación con bienes, servicios y obra pública.
+II.- Ejecutar los planes de desarrollo regional y los convenios de desarrollo social celebrados con la federación, municipios y grupos sociales, así como las obras de desarrollo social que favorezcan a las comunidades del Estado.
 
-III.- Establecer las bases generales para la realización de auditorías y practicarlas en relación al ejercicio presupuestal y avance programático.
+III.- Coordinar, conjuntamente con las dependencias respectivas de la federación, la promoción y vigilancia del desarrollo de la comunidad y la ejecución de acciones y programas tendientes al mejoramiento de las zonas con mayor rezago social y económico en el Estado.
 
-IV.- Realizar, por acuerdo del titular del Ejecutivo, a dependencias y a entidades del Gobierno del Estado auditorías específicas.
+IV.- Establecer con las autoridades competentes, los mecanismos de coordinación de apoyos institucionales para la población cuando sea afectada por la acción de desastres naturales y todo tipo de emergencias.
 
-V.- Elaborar el programa anual de auditoría gubernamental para su aprobación por el Titular del Poder Ejecutivo, informando al mismo sobre el avance y resultados correspondientes.
+V.- Impulsar la organización social para facilitar la participación en la toma de decisiones con respecto a su propio desarrollo.
 
-VI.- Asesorar a las dependencias y entidades sobre normas de contabilidad, sistemas de control, registros, afectación, enajenación y bajas de bienes muebles e inmuebles y demás activos y recursos materiales del Estado.
+VI.- Coordinar, concertar y ejecutar programas especiales para los sectores sociales más vulnerables, con la finalidad de elevar el nivel de vida de la población.
 
-VII.- Designar auditores externos y comisarios de las entidades paraestatales.
+VII.- Conducir y ejecutar políticas de creación y apoyo a empresas individuales o colectivas en los grupos de escasos recursos, con la participación de los sectores social y privado y de las dependencias del Gobierno del Estado.
 
-VIII.- Atender las quejas que presenten los particulares con motivo de acuerdos, convenios o contratos que celebren las dependencias y entidades de la Administración Pública Estatal.
+VIII.- Promover y convenir proyectos productivos y otras acciones para el desarrollo social en el Estado, en coordinación con las instancias competentes.
 
-IX.- Comunicar a los titulares de las dependencias y entidades las responsabilidades administrativas en que hayan incurrido sus servidores públicos y asesorarlos sobre la aplicación de sanciones e imputación de responsabilidades.
+IX.- Convenir con los municipios la elaboración, ejecución, registro y evaluación de los programas de inversión en materia de desarrollo social, así como los de combate a la pobreza.
 
-En el caso de servidores públicos superiores comunicará lo anterior al propio Gobernador.
+X.- Fomentar mecanismos de financiamiento para el desarrollo social, con la participación de las demás dependencias y entidades del Poder Ejecutivo del Estado, de las autoridades municipales, de las instituciones de crédito y de financiamiento del desarrollo y de los diversos sectores de la sociedad.
 
-X.- Vigilar la correcta aplicación de la Ley de Responsabilidades de los Servidores Públicos.
+XI.- Coordinar y vincular los programas de gobierno y sociedad civil para la inclusión del desarrollo.
 
-XI.- Informar al Ejecutivo sobre la existencia de algún ilícito cometido por los servidores públicos y en su caso hacer la denuncia ante el Ministerio Público, coadyuvando con la Procuraduría en la forma y términos que se le requiera.
+XII.- Crear mecanismos que capten fuentes alternas para la inversión social.
 
-XII.- Despachar los asuntos que en el área de su competencia, le encomiende el Titular del Poder Ejecutivo.
+XIII.- Coordinar y promover el empleo y la capacitación para el trabajo, en coordinación con el Gobierno Federal y los sectores social y privado en la entidad.
 
-XIII.- Refrendar las leyes, reglamentos y decretos del Ejecutivo Estatal que le corresponda.
+XIV.- Establecer programas especiales de desarrollo a las comunidades indígenas y rurales con el fin de consolidar su integración al desarrollo del Estado.
 
-XIV.- Los demás que le atribuyan las leyes y reglamentos vigentes siempre que esta Ley no los señale como exclusivos de otra dependencia.
+XV.- Vigilar y asegurar que los programas institucionales de las dependencias y entidades de la administración pública del Estado, se incorporen a los compromisos del Programa Sectorial de Desarrollo Social.
+
+XVI.- Dar seguimiento y evaluar los resultados de los programas de desarrollo social.
+
+XVII.- Promover la obtención de recursos públicos, privados y extranjeros, para la ejecución de programas de desarrollo social en el Estado.
+
+XVIII.- Fomentar la participación de instituciones académicas, de investigación, de organizaciones no gubernamentales y de la sociedad en general, en el desarrollo e instrumentación de estrategias para superar los rezagos sociales e impulsar el bienestar social de la población.
+
+XIX.- Despachar los asuntos que en el área de su competencia le encomiende el titular del Poder Ejecutivo.
+
+XX.- Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le correspondan, y
+
+XXI.- Las demás que le atribuyan las leyes y reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otra dependencia.
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 1993)</small>
 
@@ -331,7 +347,7 @@ XII.- Formular y vigilar el cumplimiento de la reglamentación estatal de constr
 
 XIII.- Obtener o, en su caso, prestar asesoría y trabajar en forma coordinada con los Ayuntamientos de la Entidad, con las dependencias y entidades del Ejecutivo Federal, en la realización de obras públicas, y de vivienda y demás actividades relacionadas con los asentamientos humanos y con la producción, distribución y el bienestar social;
 
-XIV.- Ejecutar y supervisar la remodelación y conservación de los edificios y en general bienes inmuebles propiedad del Estado;
+XIV.- (DEROGADA, P.O. 31 DE OCTUBRE DE 2003)
 
 XV.- Programar, controlar y supervisar el ordenamientos (sic) ecológico el territorio estatal, en coordinación con la Federación y los Municipios y fomentar la cultura ecológica en la población;
 
@@ -343,7 +359,9 @@ XVIII.- Ejecutar directamente o por contrato con particulares las obras pública
 
 XIX.- Expedir, de conformidad con la legislación aplicable al caso, las bases a que se deberán sujetar los concursos de obras públicas y, previo acuerdo del Ejecutivo Estatal, adjudicar los contratos relativos, en la esfera de su competencia;
 
-XX.- Administrar la maquinaria y equipo que para las obras posea el Gobierno del Estado. Para su registro e inventarios deberá existir coordinación con la Oficialía Mayor;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2003)</small>
+
+XX.- Administrar la maquinaria y equipo que para la ejecución de obras posea el Gobierno del Estado. Para su registro e inventarios deberá existir coordinación con la Secretaría de Administración;
 
 XXI.- Participar en coordinación con las autoridades federales y con el concurso de las Municipales, en los planes y programas para el abastecimiento y tratamiento de aguas, servicios de drenaje, alcantarillado y demás complementarios, en los centros de población;
 
@@ -523,9 +541,7 @@ V.- Coordinar la elaboración y actualización del Plan Estatal de Desarrollo, l
 
 VI.- Coordinar y orientar el proceso anual de programación-presupuestación, e integrar y evaluar los programas operativos anuales de inversión, gasto y financiamiento;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
-
-VII.- Gestionar, instrumentar, controlar y evaluar la operación de los programas derivados del Convenio de Desarrollo Social entre la Federación y el Estado;
+VII.- (DEROGADA, P.O. 31 DE OCTUBRE DE 2003)
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
 
@@ -541,9 +557,9 @@ X.- Participar en el levantamiento de los censos económicos y de población y v
 
 XI.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 1997)
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1993)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2003)</small>
 
-XII.- Promover y gestionar, en coordinación con las autoridades competentes, el financiamiento para impulsar el desarrollo económico y social de la Entidad;
+XII.- Promover y gestionar, en coordinación con las autoridades competentes, el financiamiento para impulsar el desarrollo de la Entidad;
 
 XIII.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 1997)
 
@@ -559,9 +575,7 @@ XVII.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 1997)
 
 XVIII.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 1997)
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
-
-XIX.- Promover la elaboración de proyectos de desarrollo social.
+XIX.- (DEROGADA, P.O. 31 DE OCTUBRE DE 2003)
 
 XX.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 1997)
 
@@ -599,7 +613,9 @@ VIII.- Coordinar, promover y apoyar los programas de investigación, desarrollo 
 
 IX.- Promover el establecimiento de parques y zonas industriales así como la consolidación de los existentes.
 
-X.- Coordinar y gestionar con las dependencias y organismos federales y municipales, la operación de los programas de empleo, desregulación y simplificación administrativa, y los demás que incidan en la competitividad y productividad de las empresas.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2003)</small>
+
+X.- Coordinar y gestionar con las dependencias y organismos federales y municipales programas de desregulación administrativa y demás aspectos que incidan en la competitividad y productividad de las empresas.
 
 XI.- Promover la elaboración de proyectos productivos que permitan el aprovechamiento racional de los recursos potenciales, la industrialización y adecuada comercialización de bienes y servicios, así como impulsar las actividades económicas del Estado.
 
@@ -709,11 +725,75 @@ XIX.- Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le c
 
 XX.- Las demás que le atribuyan las Leyes y Reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otras dependencias.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2003)</small>
+
 ###### ARTICULO 25o.
 
-A la Procuraduría General de Justicia corresponde, además de las facultades y obligaciones que específicamente le confieren la Constitución Política del Estado y demás leyes relativas, el despacho de los siguientes asuntos:
+A la Secretaría de Administración corresponde el despacho de los siguientes asuntos:
 
-I.- Asesorar jurídicamente al Gobernador y proponerle los anteproyectos de leyes y reglamentos que estime necesarios para la buena administración de la justicia.
+I.- Proporcionar a las dependencias del Poder Ejecutivo los elementos humanos, materiales, técnicos y de servicio que requieran para cumplir con las atribuciones establecidas en la presente Ley.
+
+II.- Establecer políticas, normas y lineamientos en materia de administración, remuneraciones y desarrollo del personal así como tramitar los nombramientos, remociones, licencias, renuncias y cualquier otra incidencia que modifique la relación jurídico-laboral entre el Estado y sus servidores públicos, incluyendo el control y elaboración de la nómina del personal del Gobierno del Estado.
+
+III.- Adquirir o contratar los bienes y servicios que se requieran para el adecuado funcionamiento del Ejecutivo Estatal y sus dependencias, así como proveerlas oportunamente de los mismos.
+
+IV.- Administrar, organizar y controlar los sistemas de transportes, intendencia, almacenes, archivo y correspondencia, impresión y fotocopiado, conservación y mantenimiento y, en general, aquellos que se requieran para el adecuado funcionamiento de las áreas sustantivas del gobierno estatal.
+
+V.- Someter a la aprobación del titular del Ejecutivo los programas de mejoramiento y reorganización administrativa y la creación, supresión o modificación que requieran las dependencias, así como formular y revisar los manuales de organización, procedimientos y de servicios al público y asesorar a las áreas en la formulación de sus anteproyectos de reglamentos interiores.
+
+VI.- Coordinar el desarrollo organizacional de las dependencias utilizando las metodologías y herramientas más actualizadas, con el fin de hacer eficiente su funcionamiento interno y elevar la calidad en los servicios y la atención que proporcionan a la ciudadanía.
+
+VII.- Elaborar el programa anual de compras y contratación de servicios en coordinación con las dependencias del Poder Ejecutivo, observando las disposiciones establecidas en la ley de la materia.
+
+VIII.- Administrar, asegurar, conservar e inventariar el patrimonio del Gobierno del Estado, aplicando sistemas electrónicos que garanticen su adecuado control y actualización permanente.
+
+IX.- Supervisar y coordinar con las áreas responsables, los eventos especiales en que el Ejecutivo Estatal participe a efecto de proporcionar todos los elementos necesarios para el adecuado desarrollo de los mismos.
+
+X.- Vigilar el cumplimiento de las disposiciones legales que rigen las relaciones de trabajo entre el gobierno y sus servidores públicos y, en su caso, aplicar las sanciones correspondientes.
+
+XI.- Coordinar la profesionalización y capacitación de los servidores públicos mediante la implementación del Servicio Civil de Carrera en las dependencias y organismos del Poder Ejecutivo del Estado.
+
+XII.- Establecer políticas para el desarrollo permanente del gobierno electrónico con la incorporación sistemática de las tecnologías de la información y comunicación en los procesos administrativos y de servicios del gobierno estatal.
+
+XIII.- Normar y coordinar la innovación para el desarrollo administrativo de las dependencias del Poder Ejecutivo.
+
+XIV.- Coadyuvar en la innovación administrativa de los Poderes Legislativo y Judicial del Estado así como de los Ayuntamientos, cuando así lo soliciten, observando para tal fin el respeto irrestricto a su autonomía.
+
+XV.- Establecer políticas y estrategias en materia de desarrollo telemático y de aplicación de las nuevas tecnologías de información y comunicación en la administración pública estatal.
+
+XVI.- Coordinar la organización y funcionamiento de la Oficina de la Representación del Estado en la Ciudad de México.
+
+XVII.- Coordinar al acceso a la información pública de las dependencias del Poder Ejecutivo que para tal efecto se establece en la Ley de Transparencia y Acceso a la Información Pública del Estado.
+
+XVIII.- Diseñar estrategias y acciones que permitan el acceso de las personas a las tecnologías de la información y comunicación, incorporando a la población estatal a la sociedad de la información.
+
+XIX.- Planear, organizar y coordinar el sistema de evaluación y control gubernamental para el desarrollo de la administración pública estatal.
+
+XX.- Recibir y registrar las declaraciones patrimoniales que deben presentar los servidores de la Administración Pública Estatal; así como verificar y practicar las investigaciones que fueren pertinentes de acuerdo a la legislación y reglamentación de la materia.
+
+XXI.- Coordinar el programa de contraloría social, orientado a promover y organizar la participación ciudadana en la planeación y evaluación de la administración pública estatal.
+
+XXII.- Evaluar sistemáticamente el funcionamiento y resultado de la administración pública e implementar sistemas de mejora continua tendientes a elevar la calidad de los servicios de gobierno.
+
+XXIII.- Expedir y vigilar que se cumplan las normas que regulen el funcionamiento de los órganos, instrumentos y procedimientos de control de la administración pública estatal en relación con bienes, servicios y obra pública, esta última en coordinación con la Secretaría de Desarrollo Urbano.
+
+XXIV.- Coordinar el mantenimiento y conservación de los edificios propiedad del Gobierno del Estado.
+
+XXV.- Normar y coordinar el proceso de entrega-recepción al término del periodo constitucional del Poder Ejecutivo Estatal, así como en los casos de sustitución de titulares de las dependencias y áreas de trabajo.
+
+XXVI.- Despachar los asuntos que en el área de su competencia le encomiende el titular del Poder Ejecutivo.
+
+XXVII.- Refrendar las leyes, reglamentos y decretos del Ejecutivo Estatal que le corresponda, y
+
+XXVIII.- Las demás que le atribuyan las leyes y reglamentos vigentes siempre que esta Ley no los señale como exclusivos de otra dependencia.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2003)</small>
+
+###### ARTICULO 26o.
+
+A la Procuraduría General de Justicia corresponde, además de las facultades y obligaciones que específicamente le confieren la Constitución Política del Estado y demás Leyes relativas, el despacho de los siguientes asuntos:
+
+I.- Asesorar jurídicamente al Gobernador y proponerle los anteproyectos de Leyes y Reglamentos que estime necesarios para la buena administración de la justicia.
 
 II.- Otorgar al Poder Judicial del Estado el auxilio que requiera para el debido ejercicio de sus funciones.
 
@@ -731,39 +811,13 @@ VIII.- Ordenar y controlar la estadística e identificación criminal.
 
 IX.- Intervenir en los asuntos judiciales en que el Estado sea parte, de acuerdo con su competencia.
 
-X.- Coadyuvar con las autoridades correspondientes para vigilar el ejercicio pacífico de los procesos electorales.
+X.- Coadyuvar con las autoridades correspondientes para vigilar el desarrollo pacífico de los procesos electorales.
 
-XI.- Despachar los asuntos que en el área de su competencia, le encomiende el Titular del Poder Ejecutivo.
+XI.- Despachar los asuntos que en el área de su competencia, le encomiende el titular del Poder Ejecutivo.
 
-XII.- Refrendar las leyes, reglamentos y decretos del Ejecutivo que le correspondan.
+XII.- Refrendar las leyes, reglamentos y decretos del Ejecutivo que le correspondan, y
 
 XIII.- Los demás que le atribuyan las leyes y reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otra dependencia.
-
-###### ARTICULO 26o.
-
-A la Oficialía Mayor le corresponde el despacho de los siguientes asuntos:
-
-I.- Proporcionar oportuna y eficazmente los servicios administrativos de apoyo que requieran todas las dependencias que conforman la Administración Pública Estatal.
-
-II.- Establecer políticas, normas y lineamientos en materia de administración, remuneraciones, capacitación y desarrollo del personal así como tramitar los nombramientos, remociones, licencias, renuncias y cualquier otra incidencia que modifique la relación jurídico-laboral entre el Estado y sus servidores públicos, incluyendo el control y elaboración de la nómina del personal del Gobierno del Estado.
-
-III.- Vigilar el cumplimiento de las disposiciones legales que rigen las relaciones de trabajo entre el Gobierno y sus servidores públicos y en su caso aplicar las sanciones correspondientes.
-
-IV.- Adquirir los bienes y servicios que requieran el adecuado funcionamiento del Ejecutivo Estatal y sus dependencias y proveerlas oportunamente de los mismos.
-
-V.- Administrar, asegurar, conservar e inventariar el patrimonio del Estado, y dar de baja en su caso, los bienes muebles e inmuebles.
-
-VI.- Administrar, organizar y controlar los sistemas de transportes, intendencia, almacenes, archivo y correspondencia, impresión y fotocopiado, conservación y mantenimiento y en general aquellos que se requieran para el adecuado funcionamiento de las áreas sustantivas del Gobierno Estatal.
-
-VII.- Someter a la aprobación del Ejecutivo los programas de mejoramiento y reorganización administrativa y la creación, supresión o modificación que requieran las dependencias, así como formular y revisar los manuales de organización de procedimientos y de servicios al público y asesorar a las áreas en la formulación de sus anteproyectos de reglamentos interiores.
-
-VIII.- Supervisar y coordinar con las áreas responsables, los eventos especiales en que el Ejecutivo Estatal participe a efecto de proporcionar todos los elementos necesarios para el adecuado desarrollo de los mismos.
-
-IX.- Despachar los asuntos que en el área de su competencia, le encomiende el Titular del Poder Ejecutivo.
-
-X.- Refrendar las leyes, reglamentos y decretos del Ejecutivo que le corresponda.
-
-XI.- Las demás que le atribuyan las Leyes y Reglamentos vigentes, siempre que esta Ley no los señale como exclusivas de otra dependencia.
 
 ### CAPITULO TERCERO.
 
@@ -880,3 +934,15 @@ QUINTO.- Los bienes muebles o inmuebles que sean propiedad o tengan en administr
 P.O. 24 DE ENERO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 31 DE OCTUBRE DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor el día primero de noviembre de 2003, y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- La Secretaría de Finanzas proveerá los recursos necesarios a las dependencias que se crean mediante este Decreto, con las provisiones presupuestales existentes, por todo el resto del ejercicio fiscal 2003.
+
+TERCERO.- Las menciones de otras leyes a la Oficialía Mayor y a la Secretaría de la Contraloría, se entenderán referidas a la Secretaría de Administración, de conformidad con la competencia que a dicha dependencia le señala el presente decreto.
+
+CUARTO.- La readscripción de los trabajadores de base de las Secretarías General de Gobierno, de Finanzas, de la Contraloría, de Fomento Económico y de Desarrollo Urbano a las dependencias que se crean de conformidad con el presente decreto, se hará con estricto apego a sus derechos laborales.
+
+QUINTO.- Se derogan todas las disposiciones legales o reglamentarias que se opongan al presente Decreto.
