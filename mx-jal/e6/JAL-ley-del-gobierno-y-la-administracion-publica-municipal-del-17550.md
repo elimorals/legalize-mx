@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2002-01-19"
+last_updated: "2002-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2002.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -1093,9 +1093,11 @@ Además de los ingresos que forman parte de la Hacienda Municipal, los municipio
 
 El ejercicio de las aportaciones federales para fines específicos debe preverse en los presupuestos de egresos de los municipios y formará parte de la cuenta pública municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2002)</small>
+
 ###### Artículo 79.
 
-El Congreso del Estado debe aprobar las leyes de Ingresos de los municipios y revisar y fiscalizar sus cuentas públicas. Los presupuestos de egresos deben ser aprobados por los Ayuntamientos, con base en sus ingresos disponibles, planes municipales de desarrollo y a las siguientes reglas:
+El Congreso del Estado debe aprobar las leyes de ingresos de los municipios y revisar y fiscalizar sus cuentas públicas. Los presupuestos de egresos deben ser aprobados por los Ayuntamientos, con base en sus ingresos disponibles, planes municipales de desarrollo, a los criterios de racionalidad, austeridad y disciplina presupuestal, a los principios de razonabilidad, motivación, certeza y proporcionalidad y a las siguientes reglas:
 
 I. Los Ayuntamientos deben elaborar y aprobar sus presupuestos de egresos, a más tardar, el día 15 de diciembre del año anterior al en que deben regir, considerando su actividad económica preponderante, la extensión de su territorio, las actividades prioritarias de sus habitantes, la amplitud de sus servicios públicos, la forma de distribución de la población, la prioridad de la obra pública y sus endeudamientos;
 
@@ -1138,6 +1140,10 @@ Si alguna de las asignaciones vigentes en el presupuesto de egresos resultan ins
 Si en el curso del ejercicio se observa que determinadas partidas tienen una asignación mayor de la que sea suficiente para la atención de las necesidades a que ellas se refieren hasta fin de año, en tanto que otras partidas acusen notorias deficiencias, en tal caso, el Presidente Municipal puede acordar, previa autorización del Ayuntamiento, que se hagan las transferencias, reducciones, cancelaciones o adiciones que se estimen necesarias en las partidas del presupuesto de egresos aprobado en la mejor forma posible.
 
 Estas modificaciones se deben hacer en forma compensatoria, de tal manera que no se llegue a aumentar la suma total del presupuesto, excepto que sus ingresos sean mayores a los previstos.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2002)</small>
+
+Para los efectos del inciso d) de la fracción II del presente artículo, los Ayuntamientos tomarán en cuenta las recomendaciones hechas por el Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios.
 
 ###### Artículo 80.
 
@@ -1870,3 +1876,9 @@ P.O. 28 DE JULIO DE 2001.
 P.O. 19 DE ENERO DE 2002.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE FEBRERO DE 2002.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
