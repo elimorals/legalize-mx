@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2002-03-02"
+last_updated: "2002-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2002.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -549,9 +549,13 @@ Siempre que la práctica de un acto judicial requiera citación de personas que 
 
 114.- Concluidos los términos concedidos, sin necesidad de instancia de parte ni de especial declaración, seguirá el juicio su curso y, en su caso, se tendrá por perdido el derecho que dentro de ellos debió ejercitarse salvo los casos en que la ley prevenga otra cosa.
 
-115.- Cuando este Código no señale términos para la práctica de algún acto judicial o para el ejercicio de algún derecho, se tendrán por señalados los siguientes:
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
 
-a).- Cinco días para interponer el recurso de apelación de sentencia definitiva, b).- Tres días para apelar de autos o sentencia interlocutoria; c).- Tres días para la celebración de juntas, reconocimientos de firmas, exhibición de documentos, dictamen de peritos, a no ser que por circunstancias especiales creyere justo el Tribunal ampliar el término, lo cual podrá hacer por tres días más; d).- Tres días para todos los demás casos.
+115.- Cuando este Código no señale términos para la práctica de algún acto judicial o para el ejercicio de un derecho, se tendrán por señalados los siguientes:
+
+a).- Tres días para la celebración de juntas, reconocimiento de firmas, exhibición de documentos y dictamen de peritos. Si por circunstancias especiales estima prudente el Tribunal ampliar el término, podrá hacerlo hasta por tres días más;
+
+b).- Tres días para todos los demás casos.
 
 ### CAPITULO VI. De las notificaciones
 
@@ -1117,15 +1121,15 @@ El dueño de la obra tiene derecho a pedir autorización para continuarla, mient
 
 El que haya obtenido la providencia de suspensión provisional de una obra nueva debe promover el juicio sobre suspensión definitiva o demolición de lo construido, en su caso, dentro del término de tres días, contados desde que se haya notificado la suspensión de la obra.
 
-## TITULO SEXTO. DEL JUICIO ORDINARIO
-
 > <small>(REFORMADA SU DENOMINACION, P.O. 10 DE FEBRERO DE 2001)</small>
+
+## TITULO SEXTO. DEL JUICIO ORDINARIO
 
 ### CAPITULO I. De la demanda, de su contestación, de la rebeldía, de la fijación de la litis, y de la audiencia de conciliación y depuración procesal
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
 
-248.- Todas las contiendas entre partes, que no tengan señalada en este Código tramitación especial, se ventilarán en proceso ordinario, siendo aplicables las disposiciones de este Capítulo a los demás procedimientos y procesos que establece este Código, en la reglamentación del procedimiento de depuración del proceso.
+248.- Todas las contiendas entre partes que no tengan señalada en este Código tramitación especial, se ventilarán en proceso ordinario. Las disposiciones de este Capítulo serán aplicables en lo conducente a los demás procesos que establece este Código cuando no exista previsión expresa, al igual que lo relativo al procedimiento de conciliación y depuración del proceso.
 
 249.- El juicio principiará por la demanda, en la cual se expresarán con claridad y precisión los hechos, los fundamentos de derecho, la acción que se intenta, la persona contra quien se promueve el juicio y la petición que se deduzca de los antecedentes referidos.
 
@@ -1399,7 +1403,9 @@ Las diligencias de prueba practicadas en otros juzgados, en virtud de requerimie
 
 288.- Sin perjuicio de lo dispuesto en la primera parte del artículo que antecede, el término de prueba se suspenderá de hecho:
 
-I.- Por la recusación del juez, mientras se substancia y resuelve, y por el cambio de la persona de aquél mientras el substituto se avoca el conocimiento del negocio;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+I.- Por el cambio de la persona del Juez, mientras el sustituto se avoca al conocimiento del negocio;
 
 II.- Por la promoción de cualquier otro incidente que, por disposición expresa de la ley, interrumpa el curso del procedimiento;
 
@@ -1875,7 +1881,9 @@ Son aplicables al juicio de divorcio las disposiciones contenidas en los artícu
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2001)</small>
 
-415.- Fijada la litis con la contestación de la demanda o haciendo efectivo el apercibimiento del artículo 413, el juez citará a la audiencia de conciliación y depuración procesal en los términos de los artículos 264 a y siguientes.
+415.- Fijada la litis con la contestación de la demanda o haciendo efectivo el apercibimiento del artículo 413, el juez citará a la audiencia de conciliación y depuración procesal en los términos de los artículos 264 a) y siguientes.
+
+El juez, de oficio o a petición de cualquiera de las partes, mandará recibir el juicio a prueba por un término que no exceda de veinte días.
 
 416.- Transcurrido el término probatorio, se citará para audiencia de alegatos, la que se verificará dentro de las veinticuatro horas siguientes, aunque no concurran las partes.
 
@@ -4498,3 +4506,15 @@ El presente Decreto entrará en vigor noventa días después de su publicación 
 ###### ARTÍCULO SEGUNDO.
 
 Corresponde a los Oficiales del Registro Civil de las cabeceras municipales de más de 75,000 habitantes llevar a cabo la tramitación del Divorcio Administrativo.
+
+P.O. 22 DE MAYO DE 2002.
+
+DECRETO NO. 242/02 II P.O.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y será aplicable según el estado del proceso correspondiente.
+
+P.O. 22 DE MAYO DE 2002.
+
+DECRETO NO. 243/02 II P.O.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
