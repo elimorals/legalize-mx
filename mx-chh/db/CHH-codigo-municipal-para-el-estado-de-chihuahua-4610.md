@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "1998-02-21"
+last_updated: "1998-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 1998.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -159,9 +159,9 @@ XV.- COYAME, con cabecera en el pueblo denominado Santiago de Coyame y las Secci
 
 XVI.- CUAUHTEMOC, con cabecera en la ciudad del mismo nombre y las Secciones Municipales de Colonia Anahuac, Colonia Obregón y Lázaro Cárdenas;
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 1998)</small>
 
-XVII.- CUSIHUIRIACHI, con cabecera en el pueblo denominado Cusihuiriachi de Salvador Zubirán, y las Secciones Municipales de Cerro Prieto, Coyachi y San Juan Bautista;
+XVII.- CUSIHUIRIACHI, con cabecera en el pueblo del mismo nombre, y las Secciones Municipales de Cerro Prieto, Coyachi y San Juan Bautista;
 
 XVIII.- CHIHUAHUA, con cabecera en la capital del Estado y las Secciones Municipales de Ciénega de Ortiz, Colonia Soto, El Charco, Guadalupe y El Sauz;
 
@@ -2778,3 +2778,7 @@ P.O. 21 DE FEBRERO DE 1998.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE MARZO DE 1998.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
