@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-administrativos-para-el-estado-de-2140
 country: "mx"
 rank: "codigo"
 publication_date: "2001-01-29"
-last_updated: "2004-02-02"
+last_updated: "2004-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2004.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 29 de enero de 2001.
 
@@ -2395,9 +2395,221 @@ VI. Si los hubiere, copia de la demanda, escrito de inconformidad o de cualquier
 
 VII. En su caso, comprobantes de entrega de anticipos, pago de estimaciones y demás comprobantes de información financiera.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 10 DE AGOSTO DE 2004)</small>
 
-### CAPÍTULO II. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
+### CAPÍTULO V. DE LA DACIÓN EN PAGO
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
+###### Artículo 259-I.
+
+Conforme a lo establecido por el Código Financiero para el Estado, la aceptación o negativa de la solicitud de dación en pago será facultad de la Secretaría, debiendo resolverse en un término que no excederá de treinta días hábiles contados a partir de que esté debidamente integrado el expediente y no podrá ser impugnada en recurso administrativo, ni en juicio contencioso administrativo. En caso de que en dicho término no se emita la resolución correspondiente, se tendrá por negada la solicitud.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
+###### Artículo 259-J.
+
+Las daciones en pago de bienes muebles o inmuebles a que se refiere el artículo anterior, se aceptarán al valor del avalúo emitido por institución de crédito, por corredor público, por perito autorizado o por la Dirección General de Catastro de la Secretaría.
+
+Tratándose de servicios, la Secretaría determinará los términos, las condiciones y el monto hasta por el cual podrá aceptarse el ofrecimiento del deudor para pagar el crédito, mediante la dación en pago de servicios.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
+###### Artículo 259-K.
+
+La aceptación de bienes o servicios a que se refiere el artículo anterior, suspenderá provisionalmente todos los actos tendientes al cobro del crédito respectivo, así como la actualización de su principal y accesorios. De no formalizarse la dación en pago, quedará sin efectos la suspensión del cobro del crédito, debiendo actualizarse las cantidades desde la fecha en que debió hacerse el pago y hasta que el mismo se efectúe, conforme a las disposiciones fiscales aplicables.
+
+La dación en pago de bienes o servicios se incoará siempre a petición del contribuyente y podrá proponerse por los deudores de toda clase de créditos a favor del Gobierno del Estado, debiendo, al presentarse la solicitud, cumplir con los requisitos y condiciones que se establecen en este Capítulo.
+
+Sólo se aceptarán en dación en pago bienes de fácil realización o aprovechables en los servicios públicos estatales, con excepción de los siguientes:
+
+I. Bienes de fácil descomposición o deterioro;
+
+II. Mercancías de procedencia extranjera, cuya legal estancia no esté acreditada en el país;
+
+III. Semovientes;
+
+IV. Armas prohibidas;
+
+V. Materias y sustancias inflamables, contaminantes, radioactivas o peligrosas;
+
+VI. Bienes que se encuentren embargados, ofrecidos en garantía o con algún gravamen o afectación;
+
+VII. Bienes muebles e inmuebles afectos a algún fideicomiso;
+
+VIII. Bienes muebles e inmuebles sujetos al régimen de copropiedad, cuando no sea posible que el Gobierno del Estado asuma de manera exclusiva la titularidad de todos los derechos; y
+
+IX. Bienes que por su naturaleza o por disposición legal estén fuera del comercio.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
+###### Artículo 259-L.
+
+La solicitud de dación en pago que presenten los deudores de toda clase de créditos, además de los requisitos previstos en el Libro Primero, Título Cuarto, Capítulo I del Código de Procedimientos Administrativos para el Estado, deberá contener:
+
+I. Importe total del adeudo, señalando, en caso de créditos fiscales, las contribuciones que lo integran, su monto y accesorios causados, periodo y actualización correspondientes a la fecha de presentación de la solicitud y número del crédito. Tratándose de créditos no fiscales, el monto del adeudo por principal e intereses ordinarios y moratorios, en su caso;
+
+II. Descripción y características de los bienes y servicios ofrecidos. En caso de bienes, declaración sobre el estado físico en que se encuentren, con especificación de ser nuevos o usados;
+
+III. Tratándose de servicios, el plazo durante el cual se prestarán los mismos, en el entendido de que dicha prestación no podrá exceder del plazo máximo a que se refiere el artículo 259-R de este Código, y
+
+IV. Declaración bajo protesta de decir verdad, que la dación en pago es la única forma que tiene el deudor para cumplir con la obligación a su cargo.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
+###### Artículo 259-M.
+
+A la propuesta de dación en pago se anexará la siguiente documentación:
+
+I. Constancia de la última notificación del importe adeudado si la autoridad ya ha determinado el crédito fiscal, o en su caso, notificación del estado actual del crédito, cuando éste no sea de carácter fiscal;
+
+II. Si el bien está a nombre de un tercero, oferta formalizada por éste.
+
+III. En el caso de personas morales, los estados financieros correspondientes al último ejercicio fiscal, incluyendo flujos de efectivo, así como los estados financieros más recientes, cuya antigüedad no sea mayor de tres meses anteriores a la solicitud;
+
+IV. En el caso de inmuebles, adicionalmente se requerirá la siguiente documentación:
+
+a) Avalúo emitido, según corresponda, por institución de crédito autorizada, por corredor público, por perito autorizado o por la Dirección General de Catastro de la Secretaría, con antigüedad no mayor a tres meses contados a partir de la fecha de solicitud;
+
+b) Primer testimonio o copia certificada de la escritura pública con la que se acredite la propiedad, debidamente inscrita en el Registro Público de la Propiedad,
+
+c) Certificado de libertad de gravámenes actualizado;
+
+d) Constancia de no adeudos fiscales federales y locales;
+
+e) Copia de los respectivos planos con colindancias y croquis de localización;
+
+f) Constancia de uso de suelo, y
+
+g) Fotografías recientes de los inmuebles.
+
+V. En el caso de muebles, adicionalmente se requerirá la siguiente documentación:
+
+a) Documento o factura original que acredite su propiedad, excepto cuando los bienes propuestos sean fabricados por el propio deudor, en cuyo caso deberá presentar precios de lista de los mismos y copias de la primera y última factura de venta de bienes iguales a los propuestos, expedidos por el deudor en cada uno de los seis meses anteriores a aquél en que se presente la solicitud, o cualquier otro elemento que permita determinar o precisar el valor de tales bienes, y
+
+b) Tratándose de bienes muebles de procedencia extranjera, se requerirá, además, los originales de la documentación que acredite la legal importación de los mismos, de conformidad con la Ley Aduanera.
+
+VI. En el caso de servicios, adicionalmente se requerirá su descripción detallada y características.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
+###### Artículo 259-N.
+
+La solicitud de propuesta de dación en pago con los respectivos documentos anexos, se recibirá para su integración y estudio, siempre y cuando reúna todos los requisitos a que se refiere este Capítulo.
+
+En caso de que, a juicio de la autoridad que reciba la solicitud, sea necesaria la presentación de documentación adicional o aclaración documental, contable o financiera, se requerirá al solicitante concediéndole un plazo de diez días hábiles, contados a partir de la fecha de recepción de la comunicación oficial correspondiente, para que cumpla con los requisitos solicitados, con el apercibimiento de que, de no cumplir en tiempo, se resolverá declarando que la solicitud se tendrá por no presentada, continuándose con el procedimiento de cobro correspondiente.
+
+La Secretaría estará facultada en todo momento para revisar y, en su caso, validar los avalúos que hayan sido presentados por los solicitantes, pudiendo requerir la práctica de uno nuevo con cargo al deudor, en caso de que cuente con elementos suficientes para determinar que el avalúo presentado no refleja el valor real del bien.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
+###### Artículo 259-O.
+
+Si a juicio de la autoridad, la solicitud no cumple total o parcialmente con los requisitos y condiciones necesarias para la aceptación de la dación propuesta, ya sea por no reunir los elementos esenciales o documentales para su procedencia o porque los bienes o servicios propuestos no sean de fácil realización o, en su caso, no sean aprovechables o de utilidad para los servicios públicos del Estado, se dictará resolución negando la solicitud de dación propuesta, notificándola al interesado para los efectos legales correspondientes.
+
+Si del análisis de la documentación presentada, se determina que el deudor tiene capacidad económica para cubrir una parte del adeudo con numerario, la Secretaría podrá resolver que una parte del mismo se cubra en efectivo y la diferencia con la dación de bienes o servicios en pago, indicando las circunstancias que tomó en cuenta para emitir esta resolución.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
+Artículo 259 P. En caso de que se acepte la dación en pago, la Secretaría emitirá la resolución correspondiente, suspendiéndose provisionalmente, a partir de la fecha de dicha resolución, todos los actos tendientes al cobro del crédito, así como la actualización de su principal y accesorios.
+
+De no formalizarse la dación en pago, la suspensión del cobro quedará sin efectos, como si nunca hubiera existido, actualizándose el adeudo y sus accesorios desde la fecha en que debió hacerse el pago y hasta que el mismo se efectúe.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
+Artículo 259 Q. En las resoluciones que acepten la dación en pago de bienes o servicios deberá asentarse:
+
+I. Los nombres y domicilios del deudor y de los representantes legales, en su caso;
+
+II. El concepto, importe y, en su caso, el número del crédito adeudado;
+
+III. Los datos de identificación del deudor o de su representante legal, así como de los bienes o servicios materia de la operación;
+
+IV. El valor en que se reciben los bienes muebles o inmuebles o, en su caso, el monto límite que se aceptará para que el importe del adeudo sea cubierto con servicios;
+
+V. Las condiciones de entrega de los bienes;
+
+VI. El plazo durante el cual el deudor podrá cubrir con los servicios el importe autorizado de su adeudo;
+
+VII. La obligación del deudor de cubrir las contribuciones, honorarios notariales, derechos y gastos que se generen con motivo de la formalización de la dación en pago, lo cual será un requisito indispensable para que surta efectos la misma;
+
+VIII. Lugar y fecha de la resolución, y
+
+IX. Las demás condiciones y términos que, según el caso, y conforme a las disposiciones legales, sean necesarias, a juicio de la Secretaría.
+
+En caso de que, en forma posterior a la formalización de la dación en pago, el Estado fuese privado total o parcialmente de los bienes motivo de la dación por evicción, defectos o vicios ocultos, utilización de documentos falsos, engaño o cualquier otra causa imputable al deudor.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
+Artículo 259 R. Una vez aceptado el ofrecimiento de la dación en pago de servicios, el deudor promoverá que le sea adjudicada la contratación de los servicios que ofrece ante las dependencias o entidades del Poder Ejecutivo del Estado, en estricto apego a las previsiones contenidas en las disposiciones legales aplicables.
+
+La dependencia o entidad que contrate dichos servicios, lo deberá comunicar por escrito a la Secretaría, de acuerdo con los procedimientos que para el efecto disponga la propia Secretaría. Dicho escrito deberá contener la autorización para que se lleve a cabo la afectación presupuestal correspondiente.
+
+La prestación de los servicios ofrecidos en dación en pago se deberá realizar en un plazo máximo de 18 meses, contados a partir de la fecha de aceptación a que se refiere el primer párrafo de este artículo. En el supuesto de que el deudor no preste los servicios a las dependencias o entidades en el plazo y condiciones establecidos, quedará sin efectos la suspensión del cobro del crédito, debiendo actualizarse el saldo remanente, desde la fecha en que debió hacerse el pago y hasta que él mismo se efectúe, conforme a las disposiciones fiscales.
+
+Las dependencias o entidades que aprovechen los servicios sujetos a las previsiones de este artículo, deberán informar periódicamente a la Secretaría de la contratación y del cumplimiento total o parcial de los mismos.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
+Artículo 259 S. En el supuesto de que los servicios se hayan prestado parcialmente al concluir el plazo otorgado en la resolución correspondiente, el crédito se extinguirá proporcionalmente y el deudor no quedará liberado del pago del saldo insoluto. El saldo se incrementará con los recargos generados desde la fecha en que debió hacerse el pago y hasta que el mismo se efectúe y se iniciarán o continuarán los actos tendientes a su cobro.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
+Artículo 259 T. La dación en pago quedará formalizada y el crédito extinguido de la siguiente manera:
+
+I. Tratándose de bienes inmuebles, a la fecha de firma de la escritura pública en que se transfiera el dominio del bien al Gobierno del Estado, misma que se otorgara dentro de los 45 días hábiles siguiente (sic) a aquél en que se haya notificado la aceptación. Los gastos de escrituración y las contribuciones que origine la operación, serán por cuenta del deudor al que se le haya aceptado la dación en pago;
+
+II. Tratándose de bienes muebles, a la fecha de firma del acta de entrega de los mismos, que será dentro de los cinco días hábiles siguientes a aquél en que se haya notificado la aceptación. Cualquier gasto que resulte de la entrega del bien que corresponda, correrá por cuenta del deudor; y
+
+III. Tratándose de servicios, en la fecha en que éstos fueron efectivamente prestados. Al efecto las dependencias o entidades del Poder Ejecutivo del Estado, deberán manifestar a la Secretaría que los servicios fueron aprovechados por las mismas.
+
+En caso de cumplimiento parcial se extinguirá proporcionalmente el crédito respectivo.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
+Artículo 259 U. Los bienes recibidos en dación en pago quedarán en custodia y administración de la Secretaría a partir de que ésta se formalice. La propia Secretaría tendrá plenas facultades para proceder a su enajenación, previa autorización del Poder Legislativo, o bien, podrá determinar su destino dentro del Poder Ejecutivo del Estado, debiendo tramitar, en su caso, la afectación presupuestal correspondiente.
+
+Para los efectos del párrafo anterior, la Secretaría podrá enajenar los bienes en los términos previstos por este Capítulo, siempre que el precio no sea en cantidad menor al del valor en que fueron recibidos, con adición de los gastos de administración o de venta generados, excepto cuando el valor del avalúo actualizado sea menor, en cuyo caso éste será el precio mínimo de venta.
+
+El precio base de venta de los bienes será determinado mediante avalúo que realice, a elección de la Secretaría, una institución de crédito autorizada, corredor público, perito autorizado, o la Dirección General de Catastro de la Secretaría.
+
+Los avalúos tendrán una vigencia de ciento ochenta días naturales contados a partir de su emisión.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
+Artículo 259 V. La Secretaría podrá enajenar los bienes recibidos mediante dación en pago, mediante el procedimiento de subasta pública, de conformidad con lo siguiente:
+
+I. La Secretaría publicará la lista de bienes a subastar;
+
+II. El día y hora fijado para la subasta, el órgano competente de la Secretaría seguirá el orden progresivo de la relación de los bienes, y mediante voz alta se expresarán sus características y su precio base de venta; los asistentes podrán de viva voz ofrecer posturas superiores al precio base; en este caso, habrá intervalos razonables con el fin de mejorar las posturas.
+
+Las proposiciones que presenten los interesados serán, cuando menos, las del precio base establecido en la convocatoria, incluidos los gastos debidamente justificados que se eroguen por la administración y venta de los bienes; en caso contrario, se descalificarán de plano;
+
+III. A quien haya formulado la postura más alta se le adjudicará el bien subastado.
+
+En el caso de que los bienes subastados no se adjudiquen, la Secretaría realizará un análisis de costo-beneficio, con la finalidad de efectuar una segunda subasta.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
+Artículo 259 W. Si la venta de los bienes no logra efectuarse, la Secretaría los pondrán a disposición de la dependencia que corresponda, conforme a las atribuciones señaladas en la Ley Orgánica del Poder Ejecutivo del Estado, para que éstos sean incorporados al inventario de bienes o al patrimonio inmobiliario del Gobierno del Estado, debiendo dicha dependencia tramitar la afectación presupuestal respectiva.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
+Artículo 259 X. En las ventas que lleve a cabo la Secretaría, deberá pactarse preferentemente el pago en una sola exhibición, salvo causa justificada y, en este caso, se establecerán los correspondientes intereses en condiciones de mercado.
+
+La Secretaría podrá establecer penas convencionales a cargo del adjudicatario por atraso en sus obligaciones de pago.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
+Artículo 259 Y. Para cubrir oportunamente los gastos debidamente justificados que se eroguen por la administración y venta de los bienes, su importe se cargará a la cuenta que al efecto se establezca, el cual se recuperará con el producto de su venta.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
+Artículo 259 Z. Los servidores públicos que participen en la realización de los procedimientos descritos en este Capítulo, serán responsables por la inobservancia de las disposiciones establecidas al efecto, en términos de la Ley de Responsabilidades de los Servidores Públicos, sin perjuicio de la responsabilidad penal que corresponda conforme a las leyes aplicables.
+
+Queda estrictamente prohibido a los servidores públicos de la Secretaría que hayan intervenido directamente en la operación, adquirir por sí o por interpósita persona los bienes recibidos con motivo de la dación en pago.
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ## TÍTULO CUARTO. DEL RECURSO DE REVOCACIÓN
 
@@ -2551,7 +2763,7 @@ Contra la resolución que recaiga al recurso de revocación procede el juicio co
 
 # LIBRO TERCERO. DEL JUICIO CONTENCIOSO
 
-### CAPÍTULO III. DE LA DEMANDA
+### CAPÍTULO II. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
 
 ###### Artículo 278.
 
@@ -2637,7 +2849,7 @@ II. Sentencias interlocutorias, las que no resuelven una cuestión principal; y
 
 III. Sentencias definitivas, las que resuelven el juicio o recurso en lo principal.
 
-### CAPÍTULO IV. DE LA CONTESTACIÓN DE DEMANDA
+### CAPÍTULO III. DE LA DEMANDA
 
 ###### Artículo 289.
 
@@ -2689,7 +2901,7 @@ El sobreseimiento del juicio podrá ser total o parcial.
 
 Contestada la demanda, el magistrado examinará el expediente y si encontrare acreditada alguna causa evidente de improcedencia a sobreseimiento, a petición de parte o de oficio, emitirá la resolución en la que se dé por concluido el juicio. En caso de que la causal no sea clara, ésta se decidirá en la sentencia definitiva.
 
-### CAPÍTULO V. DE LA SUSPENSIÓN DEL ACTO IMPUGNADO
+### CAPÍTULO IV. DE LA CONTESTACIÓN DE DEMANDA
 
 ###### Artículo 292.
 
@@ -2785,7 +2997,7 @@ El tercero perjudicado, dentro de los quince días siguientes al en que surta ef
 
 Deberá adjuntar a su escrito, el documento con el que acredite su personaría cuando no promueva en nombre propio, las pruebas documentales que ofrezca, el interrogatorio para los testigos y el cuestionario para los peritos. Es aplicable en lo conducente, lo dispuesto en el último párrafo de los artículos 293 y 295 del presente Código.
 
-### CAPÍTULO VI. DE LOS INCIDENTES
+### CAPÍTULO V. DE LA SUSPENSIÓN DEL ACTO IMPUGNADO
 
 ###### Artículo 300.
 
@@ -2837,7 +3049,7 @@ En la contestación de la demanda o antes del cierre de la instrucción, la auto
 
 Se dictará acuerdo sobre la contestación de demanda a más tardar al tercer día siguiente al de su presentación. En el mismo acuerdo se tendrán por admitidas o desechadas las pruebas ofrecidas; se ordenarán, en su caso, las providencias necesarias para su desahogo, señalando el derecho del demandante para ampliar su demanda y las consecuencias de no hacerlo, y se fijará fecha para la audiencia del juicio, la que deberá celebrarse dentro de los treinta días siguientes; o cuarenta y cinco días en el supuesto de ampliación de demanda, ambos plazos contados a partir de la fecha de emisión del acuerdo respectivo.
 
-### CAPÍTULO VII. DE LA AUDIENCIA
+### CAPÍTULO VI. DE LOS INCIDENTES
 
 ###### Artículo 305.
 
@@ -2885,7 +3097,7 @@ Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el i
 
 La Sala, dentro de los tres días siguientes, dará vista a las demás partes y citará a una audiencia de pruebas y alegatos que deberá celebrarse dentro de los cinco días siguientes, en la que dictará la resolución que corresponda.
 
-### CAPÍTULO VIII. DE LA SENTENCIA
+### CAPÍTULO VII. DE LA AUDIENCIA
 
 ###### Artículo 312.
 
@@ -2953,7 +3165,7 @@ Los magistrados que conozcan de una recusación serán irrecusables para ese só
 
 Las demás cuestiones que surjan dentro del juicio contencioso se decidirán de plano, salvo las que trasciendan al resultado del juicio, que se resolverán en la sentencia. Tales cuestiones se harán valer a petición de parte interesada dentro de los tres días siguientes a la notificación del acuerdo respectivo.
 
-### CAPÍTULO IX. DEL CUMPLIMIENTO DE LA SENTENCIA
+### CAPÍTULO VIII. DE LA SENTENCIA
 
 ###### Artículo 320.
 
@@ -2983,7 +3195,7 @@ Concluida la audiencia, los autos serán turnados para resolver, lo cual deberá
 
 En cualquier momento de la tramitación del juicio contencioso, hasta antes del cierre de la instrucción, las partes podrán llegar a arreglos conciliatorios que pongan fin al asunto, siempre que no sean contrarios a las normas. Los convenios respectivos aprobados por el magistrado de la Sala del conocimiento producirán todos los efectos jurídicos inherentes a una sentencia ejecutoria, con autoridad de cosa juzgada.
 
-### CAPÍTULO X. DE LOS RECURSOS
+### CAPÍTULO IX. DEL CUMPLIMIENTO DE LA SENTENCIA
 
 ###### Artículo 325.
 
@@ -3038,6 +3250,8 @@ I. Las que no admitan recurso alguno;
 II. Las que, admitiendo algún recurso, no fueren recurridas, o habiéndolas sido, se haya desechado o hubiese resultado infundado; y
 
 III. Las consentidas expresamente por las partes o sus representantes legales.
+
+### CAPÍTULO X. DE LOS RECURSOS
 
 ###### Artículo 330.
 
@@ -3234,3 +3448,13 @@ Primero. El presente decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Los procedimientos de rescisión de contratos de obra pública iniciados en fecha anterior a la entrada en vigor de este decreto deberán sustanciarse y concluirse conforme a las bases que los sustentaron.
 
 Tercero. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+G.O. 10 DE AGOSTO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO.- Las pólizas de fianza no fiscales otorgadas a favor de las dependencias y entidades del Poder Ejecutivo del Estado en fecha anterior al inicio de vigencia de este Decreto, observarán las disposiciones legales aplicables al momento de su emisión.
+
+CUARTO. Los Fideicomisos Públicos vigentes continuarán desempeñando las funciones que tienen encomendadas, bajo la dirección del Comité Técnico creado por virtud de su Decreto Constitutivo o, en su caso, de su Contrato de Fideicomiso.
