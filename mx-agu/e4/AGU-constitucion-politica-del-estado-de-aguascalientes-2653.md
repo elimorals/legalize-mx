@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1973-07-08"
+last_updated: "1974-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 1973.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 1974.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -177,23 +177,35 @@ Del Poder Legislativo.
 
 El Poder Legislativo se deposita en una corporación que se denomina Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1974)</small>
 
 ###### Artículo 16.
 
-El Congreso del Estado se integrará con Diputados electos cada tres años, por votación popular directa.
+El Congreso del Estado, se integrará con diputados electos cada tres años, por votación popular directa.
 
-Los ciudadanos a quienes las Juntas Computadoras de las Cabeceras del Distrito Electoral expidan credenciales por haber obtenido mayoría de votos para Diputados, instalados en Colegio Electoral, calificarán la elección, declarando quiénes son Diputados conforme a la Ley. Esta declaratoria y todos los demás actos del Congreso en funciones de Colegio Electoral son irrevocables.
+Los ciudadanos a quienes las Juntas Computadoras de las Cabeceras del Distrito Electoral expidan credenciales por haber obtenido mayoría de votos para diputados, instalados en Colegio Electoral, calificarán la elección, declarando quiénes son diputados mayoritarios y de partido conforme a la Ley. Esta declaratoria y todos los demás actos del Congreso en funciones de Colegio Electoral son irrevocables.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1973)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1974)</small>
 
 ###### Artículo 17.
 
 Por cada cincuenta mil habitantes o fracción mayor de veinticinco mil, se elegirán un diputado propietario y un suplente, tomando siempre como base el último censo nacional.
 
-Nunca el número de diputados será menor de ocho.
+Nunca el número de diputados será menor de once.
 
-El Ejecutivo fijará la circunscripción de los distritos electorales y sus cabeceras
+El Ejecutivo fijará la circunscripción de los Distritos Electorales y sus cabeceras.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 1974)</small>
+
+###### Artículo 17 Bis.
+
+La elección de diputados será directa, mayoritaria relativa y uninominal por Distritos Electorales, con sujeción a lo dispuesto en el artículo anterior y se complementará además, con diputados de partido, apegándose en ambos casos, a lo dispuesto por la Ley Electoral. En lo referente a diputados de partido, se sujetará a las reglas siguientes:
+
+I.- A todo partido político registrado en los términos de la Ley Federal Electoral, que no haya obtenido diputados de mayoría en la elección correspondiente, habiendo logrado el tres por ciento de la votación total del Estado, le será acreditado un diputado de partido;
+
+II.- Los diputados de partido serán acreditados, de acuerdo con el mayor número de sufragios que hayan logrado en relación a los demás candidatos del mismo partido;
+
+III.- Los diputados de mayoría y los de partido, tendrán la misma categoría e iguales derechos y obligaciones.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1171,7 +1183,7 @@ P.O. 23 DE MAYO DE 1954.
 
 DECRETO NÚMERO 18, POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 46 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 23 DE MAYO DE 1954.
 
@@ -1189,7 +1201,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 25 DE FEBRERO DE 1962.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 23 DE AGOSTO DE 1964.
 
@@ -1206,5 +1218,9 @@ P.O. 22 DE SEPTIEMBRE DE 1968.
 El presente Decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 8 DE JULIO DE 1973.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 25 DE AGOSTO DE 1974.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
