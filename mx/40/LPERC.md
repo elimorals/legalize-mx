@@ -4,7 +4,7 @@ identifier: "LPERC"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "1986-11-18"
+last_updated: "2002-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPERC"
 
 LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE NOVIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 2002.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 1975.
 
@@ -82,7 +82,7 @@ III-Bis.- De Demografía.
 
 IV.- de Deportes;
 
-V.- de Periodismo y de información;
+V.- (DEROGADA, D.O.F. 23 DE MAYO DE 2002)
 
 VI.- de Mérito Cívico;
 
@@ -492,55 +492,43 @@ Los premios se entregarán el 20 de noviembre.
 
 ###### ARTICULO 60.
 
-Podrá otorgarse un Premio Nacional de Periodismo impreso y de información por otros medios, en los siguientes campos.
-
-I.- Noticias;
-
-II.- Fotografía o filmes;
-
-III.- Reportajes, crónicas o entrevistas;
-
-IV.- Artículos de fondo o comentarios;
-
-V.- Caricaturas, portadas o cartones;
-
-VI.- Publicaciones o programas de divulgación cultural.
+(DEROGADO, D.O.F. 23 DE MAYO DE 2002)
 
 ###### ARTICULO 61.
 
-Los anteriores premios se concederán en concurso doble: por un lado las personas físicas y, por otro, las organizaciones responsables.
+(DEROGADO, D.O.F. 23 DE MAYO DE 2002)
 
 ###### ARTICULO 62.
 
-Merecerán estos premios quienes notoriamente se distingan, según lo exija la naturaleza de cada campo, por el uso correcto de los medios de expresión y la estética de la presentación; además, por la veracidad y objetividad de las informaciones, de los artículos y de los programas culturales, más el interés que susciten, así como por el efecto socialmente benéfico que produzcan. Esta última condición será la consideración básica para premiar publicaciones o programas destinados a la niñez y a la juventud. El otorgamiento de estos premios no estará condicionado por la mayor o menor amplitud del público del correspondiente órgano de difusión.
+(DEROGADO, D.O.F. 23 DE MAYO DE 2002)
 
 ###### ARTICULO 63.
 
-Los premios de que trata este Capítulo se tramitarán en la Secretaría de Gobernación, por conducto de un Consejo de Premiación integrado por el Secretario de dicho ramo, quien lo presidirá, más los correspondientes Subsecretarios de la Presidencia, de Educación Pública y de Comunicaciones y Transportes, más un representante que designe el Procurador General de la República.
+(DEROGADO, D.O.F. 23 DE MAYO DE 2002)
 
 ### CAPITULO XII. Premio Nacional de la Juventud
 
 ###### ARTICULO 64.
 
-Los premios consistirán en medalla. Tratándose de personas físicas, cada premio se acompañará de 50 mil pesos en efectivo.
+(DEROGADO, D.O.F. 23 DE MAYO DE 2002)
 
 ###### ARTICULO 65.
 
-Por cada año habrá una asignación de premios. Para el otorgamiento se tomarán en cuenta la actuación durante el último año y la trayectoria periodística de los candidatos.
+(DEROGADO, D.O.F. 23 DE MAYO DE 2002)
 
 ###### ARTICULO 66.
 
-Es libre el derecho a proponer candidaturas para los premios de que trata el presente Capítulo y el Consejo de Premiación procurará que los órganos de difusión así lo hagan saber al público; pero el propio Consejo solicitará a las organizaciones gremiales y sociales de periodistas, a más tardar en el mes de marzo de cada año, le presenten proposiciones. El registro de candidaturas del año de que se trate, se cerrará el 30 de abril.
+(DEROGADO, D.O.F. 23 DE MAYO DE 2002)
 
 ###### ARTICULO 67.
 
-Habrá un Jurado para los campos I, II y III; otro para los campos IV y V, y uno más para el campo VI. Para integrarlos, el Consejo tomará en cuenta a los representantes que al efecto designen, por solicitud del propio Consejo, las Universidades que cuenten con la de periodismo u otra semejante entre las carreras que tengan establecidas, las organizaciones gremiales o sociales de periodistas y las organizaciones empresariales del periodismo y del radio y la televisión; pero en todo caso se preferirá a quienes con anterioridad hayan sido premiados. Los Jurados deberán quedar integrados a más tardar en el mes de febrero de cada año.
+(DEROGADO, D.O.F. 23 DE MAYO DE 2002)
 
 ### CAPITULO XIII. Premio Nacional de Servicio a la Comunidad
 
 ###### ARTICULO 68.
 
-Los premios se entregarán el 7 de junio del año correspondiente. En lo demás se estará a lo dispuesto en el artículo 5o.
+(DEROGADO, D.O.F. 23 DE MAYO DE 2002)
 
 ###### ARTICULO 69.
 
@@ -714,6 +702,8 @@ g) Estudios y labores de exploración, descubrimiento, invención o creación en
 
 Los empleados de confianza podrán participar en los casos establecidos en los incisos b) a g) del presente artículo.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1980)</small>
 
 ###### ARTICULO 93.
@@ -829,3 +819,7 @@ D.O.F. 18 DE NOVIEMBRE DE 1986.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE MAYO DE 2002.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
