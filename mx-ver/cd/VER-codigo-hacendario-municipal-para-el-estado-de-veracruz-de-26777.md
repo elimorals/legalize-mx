@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2002-11-22"
+last_updated: "2003-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "VER"
 
 CODIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE FEBRERO DE 2003.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
-Al margen un sello que dice: Estados Unidos Mexicanos.-Poder Legislativo.-Estado Libre y Soberano de Veracruz-Llave. La Honorable Quincuagésima Novena Legislatura del Congreso del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 33 fracción I y 38 de la Constitución Política Local; 18 fracción I y 47 segundo párrafo de la Ley Orgánica del Poder Legislativo; 103 del Legislativo y en nombre del Pueblo, expide el siguiente:
+Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave. La Honorable Quincuagésima Novena Legislatura del Congreso del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 33 fracción I y 38 de la Constitución Política Local; 18 fracción I y 47 segundo párrafo de la Ley Orgánica del Poder Legislativo; 103 del Legislativo y en nombre del Pueblo, expide el siguiente:
 
 Código número 302
 
@@ -669,7 +669,7 @@ Las pólizas de fianza que se otorguen ante la Tesorería para garantizar obliga
 
 I. El nombre completo de la persona física o moral afianzada, el importe de la póliza y su vigencia, la mención expresa de que se garantiza el debido cumplimiento de las obligaciones fiscales que correspondan al fiado, así como todos y cada uno de sus accesorios legales;
 
-II. La anuencia de la compañía afianzadora para pagar hasta el importe total de la suma afianzada, en caso de que se actualice el incumplimiento de su afianzado a las obligaciones fiscales adquiridas ante la Tesorería, sin reservarse los beneficios de orden y excusión, y
+II. La anuencia de la compañía afianzadora para pagar hasta el importe total de la suma afianzada, en caso de que se actualice el incumplimiento de su afianzado a las obligaciones fiscales adquiridas ante la Tesorería, sin reservarse los beneficios de orden y excusión; y
 
 III. La aceptación expresa de la afianzadora de someterse a los procedimientos de ejecución reservados para fianzas que garantizan obligaciones fiscales, así como la aceptación de la afianzadora para seguir garantizando las obligaciones adquiridas por su afianzado, aun cuando la Tesorería le otorgue prórrogas o esperas, sin necesidad de aviso por escrito.
 
@@ -1821,9 +1821,11 @@ El Cabildo podrá autorizar el pago de cuotas fijas como impuesto, cuando no sea
 
 ### CAPÍTULO V. DEL IMPUESTO SOBRE JUEGOS PERMITIDOS
 
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2003)</small>
+
 ###### Artículo 161.
 
-Es objeto de este impuesto, la explotación comercial de los juegos siguientes: billar, dominó, dados, ajedrez, damas y juegos electrónicos, excepto cuando se trate de torneos, lo cual se notificará y comprobará previamente ante la Tesorería Municipal.
+Es objeto de este impuesto, la explotación comercial de los juegos siguientes: billar, dominó, dados, ajedrez, damas y juegos electrónicos, excepto cuando se trate de torneos gratuitos, lo cual se notificará y comprobará previamente ante la Tesorería Municipal.
 
 ###### Artículo 162.
 
@@ -2027,15 +2029,19 @@ Son sujetos de este derecho las personas físicas o morales que soliciten del Ay
 
 El Municipio, en términos de lo dispuesto por la Ley de Coordinación Fiscal y demás normatividad aplicable, ejercerá facultades operativas de verificación al momento de expedir las licencias a que se refiere este Código y deberá solicitar a los interesados la exhibición de su cédula de inscripción al Registro Federal de Contribuyentes.
 
-En términos de la normatividad aludida en el párrafo anterior, la licencia, permiso o autorización de funcionamiento, o el registro o refrendo anual en su caso, no causarán cuota alguna, pero cumplirán los requisitos que para su otorgamiento señalen los reglamentos municipales, incluyendo el pago de formas valoradas.
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2003)</small>
+
+En términos de la normatividad aludida en el párrafo anterior, la licencia, permiso o autorización de funcionamiento, o el registro o refrendo anual en su caso, no causarán cuota alguna, pero sus propietarios cumplirán los requisitos que para el otorgamiento de aquéllos señalen los reglamentos municipales y cubrirán, en su caso, el pago de las formas valoradas que correspondan, que no podrá exceder de un salario mínimo.
 
 Se exceptúan de la no causación los giros comerciales que enajenen o expendan bebidas alcohólicas en forma total o parcial al público en general, en cuyo caso deberán cubrir la cuota o tarifa establecida en el presente Código por el otorgamiento o refrendo de cada licencia, pero la omisión a dicha obligación se sancionará con multa equivalente a la cuota o tarifa señalada para el refrendo, según el caso y, de persistir la omisión dentro del término de quince días, se procederá a la clausura.
 
 #### SECCIÓN I. DE LOS ESTABLECIMIENTOS CUYO GIRO SEA LA ENAJENACIÓN DE BEBIDAS ALCOHÓLICAS REALIZADA TOTAL O PARCIALMENTE AL PÚBLICO EN GENERAL
 
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2003)</small>
+
 ###### Artículo 200.
 
-Las licencias, permisos o autorizaciones son intransferibles, otorgados para una persona física o moral y para un lugar determinado, por lo que no podrá cambiarse el domicilio señalado en los mismos.
+Las licencias, o permisos o autorizaciones son intransferibles, otorgados para una persona física o moral y para un lugar determinado, por lo que no podrá cambiarse el domicilio señalado en los mismos sin la autorización previa del cabildo, en términos de las disposiciones reglamentarias correspondientes.
 
 ###### Artículo 201.
 
@@ -2045,65 +2051,69 @@ Los permisos o autorizaciones de carácter temporal, para giros comerciales que 
 
 La expedición de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales con giros comerciales que enajenen o expendan bebidas alcohólicas, estará sujeta a los requisitos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo, mediante reglas o disposiciones de carácter general.
 
-Por la expedición de licencias a que este artículo se refiere, se pagarán las cuotas siguientes:
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2003)</small>
 
-Giro: Costo de la licencia en número
+Por la expedición de licencias a que este artículo se refiere se pagarán las cuotas siguientes:
 
-de salarios mínimos:
+Giro: Costo de la licencia
 
-Abarrotes con venta de cerveza 100
+en número de
+
+salarios mínimos:
+
+Abarrotes con venta de cerveza 35
 
 Abarrotes con venta de cerveza,
 
-vinos y licores 225
+vinos y licores 100
 
-Agencias 500
+Agencias 250
 
-Almacenes o Distribuidores 500
+Almacenes o Distribuidores 250
 
-Billares 400
+Billares 200
 
-Cantinas o bares 400
+Cantinas o bares 200
 
-Centros de eventos sociales 500
+Centros de eventos sociales 250
 
-Centros deportivos o recreativos 500
+Centros deportivos o recreativos 250
 
-Centros nocturnos y cabarets 2,000
+Centros nocturnos y cabarets 1,000
 
-Cervecerías 300
+Cervecerías 100
 
-Clubes sociales 375
+Clubes sociales 175
 
-Depósitos 225
+Depósitos 75
 
-Discotecas 1,250
+Discotecas 625
 
-Hoteles y moteles 400
+Hoteles y moteles 200
 
-Kermeses, ferias y bailes públicos 250
+Kermeses, ferias y bailes públicos 125
 
-Licorerías 225
+Licorerías 115
 
 Loncherías, taquerías, marisquerías,
 
-fondas, coctelerías, torterías,
+fondas,coctelerías, torterías,
 
-pizzerías y similares 225
+pizzerías y similares 75
 
-Minisúper 300
+Minisúper 150
 
 Peñas, canta bar, café bar, video
 
-bar y café cantante 300
+bar y café cantante 150
 
-Restaurante 300
+Restaurante 150
 
-Restaurante-bar 400
+Restaurante-bar 200
 
-Servicar 300
+Servicar 150
 
-Supermercados 500
+Supermercados 250
 
 Los derechos por refrendos anuales se calcularán a razón del diez por ciento del costo de la licencia.
 
@@ -3859,13 +3869,19 @@ Las personas que utilicen espacios en mercados, así como en tianguis, deberán 
 
 Los derechos por la ocupación de espacios, se calcularán y pagarán de conformidad con las cuotas siguientes:
 
-I. La ocupación de espacios en mercados municipales se pagará diariamente por metro cuadrado, a razón de 0.05 salarios mínimos;
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE FEBRERO DE 2003)</small>
+
+I. La ocupación de espacios en mercados municipales se pagará diariamente por metro cuadrado, de 0.01 a 0.05 salarios mínimos;
 
 Las altas, traspasos, cambios, ampliaciones de giro y arreglo o modificaciones de locales o áreas que ocupen, se efectuarán de conformidad con la normatividad aplicable, previa autorización del Ayuntamiento;
 
-II. La ocupación de espacios en vía pública o áreas municipales, exceptuando las áreas verdes, se pagará diariamente, por metro cuadrado o fracción, previa autorización correspondiente, a razón de 0.05 salarios mínimos;
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2003)</small>
 
-III. La ocupación temporal de la vía pública o áreas municipales, exceptuando las áreas verdes, por vehículos, aparatos mecánicos o electromecánicos, por tianguis, ferias o similares, se pagará diariamente, por metro cuadrado o fracción, a razón de 0.125 salarios mínimos; y
+II. La ocupación de espacios en vía pública o áreas municipales, exceptuando las áreas verdes, se pagará diariamente, por metro cuadrado o fracción, previa autorización correspondiente, a razón de 0.01 a 0.05 salarios mínimos;
+
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2003)</small>
+
+III. La ocupación temporal de la vía pública o áreas municipales, exceptuando las áreas verdes, por vehículos, aparatos mecánicos o electromecánicos, por tianguis, ferias o similares, se pagará diariamente, por metro cuadrado o fracción de 0.05 a 0.125 salarios mínimos; y
 
 IV. El estacionamiento en la vía pública se pagará, mediante utilización de parquímetros, a razón de 0.125 salarios mínimos por hora o fracción.
 
@@ -4067,7 +4083,7 @@ El Ayuntamiento tendrá los siguientes aprovechamientos:
 
 I. Multas administrativas: Todas las que no sean consideradas como multas fiscales en el presente Código;
 
-II. Reintegros e Indemnizaciones: Para el pago de reintegros e indemnizaciones se estará al dictamen de la autoridad correspondiente.
+II. Reintegros e Indemnizaciones: Para el pago de reintegros e indemnizaciones se estará al dictamen de la autoridad correspondiente;
 
 En el caso de que se cause un daño imprudencial o intencional a los bienes municipales, la autoridad determinará el monto de la indemnización atendiendo al valor comercial de los bienes dañados o al de su reparación;
 
@@ -4835,9 +4851,11 @@ Corresponde a las entidades consolidar la información contable, financiera, pre
 
 #### SECCIÓN V. DE LA PRESENTACIÓN DE LA CUENTA PÚBLICA AL CONGRESO
 
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2003)</small>
+
 ###### Artículo 378.
 
-La Tesorería será responsable de integrar la cuenta pública del Municipio, la cual será elaborada con la información que le remitan las dependencias y entidades.
+La Tesorería será responsable de integrar la cuenta pública del municipio, la cual será elaborada con la información que la misma genere y la que le remitan las entidades.
 
 ###### Artículo 379.
 
@@ -4851,7 +4869,9 @@ La Comisión de Hacienda, en coordinación con la Tesorería, someterá a la con
 
 El Ayuntamiento presentará al Congreso, para su estudio, dictamen y aprobación, la cuenta pública del ejercicio presupuestal inmediato anterior, en los plazos establecidos en la ley de la materia.
 
-De no presentar en tiempo la cuenta pública al Congreso, el Presidente y el Tesorero serán penalmente responsables por el delito de abuso de autoridad o incumplimiento del deber legal. La Dirección de Servicios Jurídicos del Congreso presentará de oficio la denuncia ante el Ministerio Público.
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2003)</small>
+
+De no presentar en tiempo la cuenta pública al Congreso, el presidente, los integrantes de la Comisión de Hacienda y el tesorero serán penalmente responsables por el delito de abuso de autoridad o incumplimiento del deber legal. La Dirección de Servicios Jurídicos del Congreso presentará de oficio la denuncia ante el Ministerio Público.
 
 ### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
 
@@ -5767,6 +5787,16 @@ Sexto. Las disposiciones relativas a la clasificación de predios suburbanos, de
 
 Séptimo. Por esta única y exclusiva vez, y sin que siente precedente, previo acuerdo de la Comisión Permanente de Vigilancia del Congreso del Estado, se autoriza a los Ayuntamientos a cubrir, con recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios del año 2002, la deuda pública documentada, aprobada por el Cabildo, siempre que ésta no haya excedido del cuarenta por ciento de aquel Fondo.
 
+> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2003)</small>
+
+Octavo.- En la aplicación de lo dispuesto por el artículo 202 de este Código, los Ayuntamientos cobrarán a los establecimientos que operaban con anterioridad a la entrada en vigor del mismo únicamente la cuota que corresponda a los derechos por el refrendo anual, previa comprobación de dicha circunstancia por parte de los interesados, mediante la exhibición de las cédulas de empadronamiento o de otros documentos probatorios.
+
 Dado en el salón de sesiones de la H. LIX Legislatura del Congreso del Estado, en la ciudad de Xalapa-Enríquez, Veracruz, a los catorce días del mes de noviembre del año dos mil dos.
 
 Felipe Amadeo Flores Espinosa, diputado presidente.- Rúbrica. Natalio Alejandro Arrieta Castillo, diputado secretario.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.O. 14 DE FEBRERO DE 2003.
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
