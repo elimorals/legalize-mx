@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-7578"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1987-01-06"
-last_updated: "1992-07-31"
+last_updated: "1992-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1992.
 
 Ley Publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla el martes 6 de enero de 1987.
 
@@ -453,9 +453,11 @@ XVI.- Las demás que le señalen las leyes y el reglamento del Tribunal, así co
 
 ### CAPITULO IV. DE LAS SALAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1992)</small>
+
 ###### ARTICULO 26.
 
-El Tribunal Superior se divide en siete Salas, tres de lo Civil, una de lo Familiar y tres de Defensa Social, formada cada una por numero igual e impar de Magistrados, no menor de tres ni mayor de cinco.
+El Tribunal Superior de Justicia, para su funcionamiento, se divide en siete Salas, cuatro de lo Civil y tres de Defensa Social, formada cada una por número igual e impar de Magistrados, no menor de tres ni mayor de cinco.
 
 En el primer Acuerdo Pleno que celebren los Magistrados que integren el Tribunal, después de tomar posesión de su cargo, se designará a cada uno de ellos la Sala que deberá integrar, pudiendo ser cambiada dicha adscripción, también por acuerdo del Pleno.
 
@@ -489,7 +491,9 @@ En los casos de faltas de un Magistrado, por menos de quince días, o impediment
 
 Corresponde a las Salas de lo Civil, por turno que llevará la Presidencia el Honorable Tribunal Superior de Justicia:
 
-I.- Conocer de los recursos de apelación, denegada apelación y queja que se interpongan en los asuntos del orden civil.
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1992)</small>
+
+I.- Conocer de los recursos de apelación, denegada apelación y queja que se interpongan en los asuntos del Orden Civil y Familiar.
 
 II.- Conocer de los recursos de apelación que se interpongan en asuntos del orden mercantil.
 
@@ -515,15 +519,7 @@ V.- De los demás asuntos de defensa social que las leyes les encomienden expres
 
 ###### ARTICULO 35.
 
-Corresponde a la Sala de lo Familiar:
-
-I.- Conocer de los recursos de apelación, denegación apelación y queja, que se interpongan en asuntos del orden de lo familiar.
-
-II.- Calificar, cuando medie oposición de parte, las inhibiciones por excusa o recusación de sus miembros, de sus subalternos y de los Jueces de lo Familiar, en los asuntos a que se refiere la fracción anterior.
-
-III.- Decidir todas las competencias respecto de los Jueces de lo Familiar; y
-
-IV.- Conocer de los demás asuntos que determinen las leyes.
+(DEROGADO, P.O. 4 DE AGOSTO DE 1992)
 
 ###### ARTICULO 36.
 
@@ -1680,5 +1676,9 @@ Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Pal
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 31 DE JULIO DE 1992.
+
+TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE AGOSTO DE 1992.
 
 TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
