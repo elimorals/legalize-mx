@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-acceso-a-la-informacion-publica-del-estado-de-durango-29
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-27"
-last_updated: "2003-02-27"
+last_updated: "2004-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2004.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 27 de febrero de 2003.
 
@@ -397,9 +397,33 @@ El ente público deberá adoptar medidas apropiadas para proteger la informació
 
 A LA INFORMACIÓN PÚBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2004)</small>
+
 ###### Artículo 38.
 
-Como ente público de autoridad, promoción, difusión e investigación sobre el derecho de acceso a la información pública, se crea un organismo con autonomía patrimonial, de operación y decisión que se denominará Comisión Estatal para el Acceso a la Información Pública la que estará integrada por tres comisionados, de los cuales uno será su Presidente. El Titular del Poder Ejecutivo, oyendo previamente las propuestas de Asociaciones y Colegios de Profesionistas, designará a los comisionados, quienes deberán en su caso ser ratificados por el Congreso del Estado por mayoría calificada.
+Como ente público de autoridad, promoción, difusión e investigación sobre el derecho de acceso a la información pública, se crea un organismo con autonomía patrimonial, de operación y decisión que se denominará Comisión Estatal para el Acceso a la Información Pública la que estará integrada por tres comisionados propietarios y sus respectivos suplentes; de los propietarios uno será su Presidente; los que serán designados por El Titular del Poder Ejecutivo del Estado, quien deberá publicar la lista de la designación en el Periódico Oficial del Estado y en dos periódicos de mayor circulación de la entidad, y quienes además deberán ser ratificados por el Congreso del Estado por mayoría calificada, conforme al siguiente procedimiento:
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2004)</small>
+
+I. Previo a la ratificación, el Titular del Poder Ejecutivo, oyendo previamente las propuestas de las Instituciones de Educación Superior y Colegios de Profesionistas, designará al Comisionado que corresponda y solicitará al Congreso del Estado su ratificación, 40 días antes de que concluya el periodo de ejercicio del comisionado en funciones;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2004)</small>
+
+II. El Congreso del Estado ratificará la designación por mayoría calificada dentro de los 10 días siguientes a la recepción de la misma;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2004)</small>
+
+III. En caso de no ratificación, el Titular del Poder Ejecutivo tendrá 10 días para efectuar una segunda designación, la cual deberá ser distinta de la primera, misma que será ratificada por el voto de la mayoría absoluta de los miembros del Congreso dentro de los 10 días siguientes a la recepción de la segunda designación;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2004)</small>
+
+IV. Si la segunda designación no reúne la votación prevista en la fracción anterior, en ese mismo acto, la aprobación se llevará a cabo mediante el voto secreto de cuando menos la mitad más uno de los diputados asistentes a la sesión.
+
+De no reunirse esa votación, el Titular del Poder Ejecutivo del Estado, realizará la designación del Comisionado que corresponda dentro de los diez días posteriores a la celebración de la sesión de la segunda designación; y
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2004)</small>
+
+V. Para el efecto de mantener integrada la Comisión, el comisionado que vaya a concluir su encargo continuará en forma interina el desempeño de su responsabilidad hasta en tanto el nuevo comisionado designado tome posesión de su cargo.
 
 La Comisión no será sectorizable en los términos de las leyes de la materia, pero para el mejor desempeño de sus funciones deberá establecer relaciones de cooperación y coordinación con cualquiera de los entes públicos.
 
@@ -415,7 +439,9 @@ III. Contar con título profesional de Licenciado en Derecho o de cualquier carr
 
 IV. Gozar de reconocido prestigio personal y profesional;
 
-V. No haber sido dirigente de ningún partido o asociación política ni ministro de ningún culto religioso, cuando menos cinco años antes; ni tampoco haber sido servidor público por lo menos dos años antes, en ambos casos al momento de su designación; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2004)</small>
+
+V. No haber sido dirigente de ningún partido o asociación política ni Ministro de ningún culto religioso, cuando menos cinco años antes de su designación; ni tampoco haber sido Servidor Público de la Federación, del Estado o de los Municipios, por lo menos dos años antes de su designación; y
 
 VI. No haber sido condenado por delito doloso.
 
@@ -425,7 +451,9 @@ Los comisionados durarán en su encargo un período de siete años y no serán r
 
 Este cargo es incompatible con cualquier otro empleo salvo la docencia, esta última siempre y cuando no se trate de tiempo completo.
 
-La comisión será presidida por un comisionado quien tendrá la representación legal de la misma. Durará en su encargo un período de dos años, renovable por una ocasión, y será elegido por los comisionados.
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2004)</small>
+
+Las ausencias temporales y definitivas de los comisionados propietarios serán cubiertas por los respectivos suplentes. En caso de falta definitiva de ambos se procederá a la designación de un nuevo comisionado para concluir el periodo respectivo en los términos previstos por esta ley.
 
 ###### Artículo 41.
 
@@ -595,9 +623,33 @@ Las responsabilidades administrativas que se generan por el incumplimiento de la
 
 Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, bajo las modalidades previstas en los artículos siguientes.
 
-Artículo Segundo.- Los miembros de la Comisión Estatal para el Acceso a la Información Pública serán nombrados dentro de los ciento ochenta días siguientes a la publicación de la presente Ley.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2004)</small>
 
-Para la integración inicial de la Comisión y por única vez, los comisionados serán elegidos por cinco, seis y siete años respectivamente, con el objeto de que al momento de la renovación de los mismos, siempre sea posible contar con una adecuada combinación de experiencia, conocimiento, prestigio personal y profesional. La Comisión expedirá su Reglamento Interior en un período no mayor de noventa días hábiles a partir de su constitución.
+Artículo Segundo.- Para la integración inicial de la Comisión, y por única vez, el nombramiento de los Comisionados se efectuará conforme al siguiente procedimiento:
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2004)</small>
+
+I. El Titular del Poder Ejecutivo designará a los Comisionados y solicitará al Congreso del Estado su ratificación dentro de los 15 días naturales siguientes a la fecha de publicación del presente Decreto. Para tal efecto, podrá oír de nueva cuenta o tomar en consideración las propuestas que a la fecha haya recibido de los colegios de profesionistas.
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2004)</small>
+
+II. Recibidas las designaciones, el Congreso del Estado deberá ratificarlas por mayoría calificada dentro de los 8 días siguientes a la recepción de las mismas.
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2004)</small>
+
+III. En caso de no ratificación de alguna o algunas de ellas, el Titular del Poder Ejecutivo dentro de los 5 días siguientes enviará al Congreso del Estado la nueva o nuevas designaciones, las cuales deberán ser distintas de la primera, mismas que serán ratificadas por mayoría absoluta de los miembros de la Legislatura dentro de los 5 días siguientes a la recepción de las mismas.
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2004)</small>
+
+IV. Si la segunda designación no reúne la votación prevista en la fracción anterior, en ese mismo acto, la aprobación se llevará a cabo mediante el voto secreto de cuando menos la mitad más uno de los diputados asistentes a la sesión.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2004)</small>
+
+De no reunirse esa votación, el Titular del Poder Ejecutivo del Estado, realizará la designación de los Comisionados que correspondan dentro de los diez días posteriores a la celebración de la sesión de la segunda designación.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2004)</small>
+
+Los miembros de la Comisión Estatal para el Acceso a la Información Pública, por única vez serán elegidos por cinco, seis y siete años respectivamente, con el objeto de que al momento de la renovación de los mismos, siempre sea posible contar con una adecuada combinación de experiencia, conocimiento, prestigio personal y profesional. La Comisión expedirá su Reglamento Interior en un periodo no mayor de noventa días hábiles a partir de su constitución.
 
 A partir de su nombramiento, los miembros de la Comisión Estatal para el Acceso de la Información Pública deberán instrumentar las acciones concernientes, para que la presente Ley sea conocida y difundida entre los diversos sectores sociales.
 
@@ -630,3 +682,15 @@ DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS VEIN
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. ANGEL SERGIO GUERRERO MIER. Rúbrica.
 
 EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE MIGUEL CASTRO CARRILLO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 4 DE MARZO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
