@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1989-02-11"
+last_updated: "1989-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE FEBRERO DE 1989.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 1989.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -555,11 +555,11 @@ Se entiende también que los diputados que falten diez días consecutivos sin ca
 
 El lugar de sesiones de la H. Legislatura, será la ciudad de Jalapa, en donde residirán los Poderes del Estado, los que sólo podrán transladarse a otro lugar, provisionalmente, por decreto de la Legislatura o de la Diputación Permanente.
 
-> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ###### Artículo 58.
 
-Las reuniones del Colegio Electoral que sean necesarias para calificar las elecciones de diputados, para excitar, a los ausentes a que concurran y para nombrar Presidente, Vicepresidente y Secretario de la Legislatura, se iniciarán diez días antes del fijado para la apertura de sesiones. Las credenciales que no fueren calificadas por el Colegio Electoral, lo serán por la Legislatura al presentarse los diputados.
+Las reuniones del Colegio Electoral que sean necesarias para calificar las elecciones de Diputados para excitar a los ausentes a que concurran y para nombrar Presidente, Vice-presidente, Secretario y dos Vocales de la Legislatura, se iniciarán diez días antes del fijado para la apertura de sesiones. Las credenciales que no fuesen calificadas por el Colegio Electoral, lo serán por la Legislatura al presentarse los Diputados.
 
 ###### Artículo 59.
 
@@ -617,7 +617,7 @@ Los Diputados, durante el período de su encargo, no podrán desempeñar, sin pe
 
 DE LA DIPUTACIÓN PERMANENTE.
 
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 1988)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ###### Artículo 67.
 
@@ -1583,7 +1583,7 @@ Las faltas temporales del Procurador General de Justicia, que no excedan de cinc
 
 ###### Artículo 80.
 
-La víspera del día en que deben terminar las sesiones ordinarias, la Legislatura mediante votación secreta nombrará para el tiempo de su receso una Diputación Permanente, compuesta por catorce Diputados en ejercicio, de los cuales siete funcionarán como propietarios y siete quedarán como suplentes.
+La víspera del día en que deben terminar las sesiones ordinarias, la Legislatura mediante votación secreta nombrará para el tiempo de su receso una Diputación Permanente, compuesta por dieciocho Diputados en ejercicio, de los cuales nueve funcionarán como propietarios y nueve quedarán como suplentes.
 
 ###### Artículo 115.
 
@@ -2092,3 +2092,13 @@ Las presentes reformas entrarán en vigor a (sic) día siguiente de su publicaci
 ###### ARTICULO SEGUNDO.
 
 Los Magistrados integrantes del Tribunal de lo Contencioso Administrativo, que designen antes del día 30 de noviembre de 1992, en esa fecha concluirán sus funciones.
+
+G.O. 30 DE DICIEMBRE DE 1989.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial " órgano del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente ordenamiento.
