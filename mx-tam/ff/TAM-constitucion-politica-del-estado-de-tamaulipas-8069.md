@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1934-08-29"
+last_updated: "1934-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 1934
-
-(DECRETO NUM. 86)
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 1934.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -213,7 +211,7 @@ La soberanía del Estado reside en el pueblo, y a nombre de este la ejerce el Po
 
 ###### Art. 21.
 
-El Estado adopta la forma de Gobierno establecida en el artículo 4° de esta Constitución.
+El Estado adopta la forma de Gobierno establecida en el artículo 4º de esta Constitución.
 
 ###### Art. 22.
 
@@ -513,7 +511,7 @@ XIX. Erigirse en Gran Jurado para declarar si hay o no lugar a formación de cau
 
 XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente a los tribunales del Estado.
 
-XXI. Nombrar a los Magistrados del Supremo Tribunal de Justicia.
+XXI.- Nombrar a los Magistrados del Supremo Tribunal de Justicia.
 
 XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
 
@@ -829,7 +827,9 @@ Las facultades y obligaciones del Gobernador son las siguientes:
 
 I. En el orden federal, las que determinen la Constitución y las Leyes Federales.
 
-II. Cuidar de la seguridad y tranquilidad del Estado según la Constitución y las leyes, para cuyo efecto podrá nombrar y remover libremente los Jefes de Policía Municipales.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1934)</small>
+
+II.- Cuidar de la seguridad y tranquilidad del Estado, según la Constitución y las leyes, para cuyo efecto podrá nombrar y remover libremente los Jefes, Oficiales y Sub-oficiales de Policía, Municipales.
 
 III. Impedir los abusos de la fuerza armada contra los ciudadanos y los pueblos, procurando que se haga efectiva la responsabilidad en que aquella incurriere.
 
@@ -1526,3 +1526,9 @@ TRANSITORIO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha 
 P.O. 29 DE AGOSTO DE 1934. (DECRETO NUM. 86)
 
 TRANSITORIO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 1934.
+
+(DEROGADO POR DECRETO No. 109, P.O. 8 DE DICIEMBRE DE 1934) (N. DE E. PERMANECE VIGENTE EL TEXTO DEL DECRETO DE FECHA 5 DE FEBRERO DE 1921)
+
+Este decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
