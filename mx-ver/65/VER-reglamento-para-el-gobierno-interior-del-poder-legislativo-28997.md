@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2003-02-17"
+last_updated: "2003-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ-LLAVE
+REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -35,7 +35,11 @@ Por el que se expide el Reglamento para el Gobierno Interior del Poder Legislati
 
 Se expide el siguiente
 
-REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ-LLAVE
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL DECRETO NO. 547 DE REFORMA CONSTITUCIONAL, PUBLICADO EN LA G.O. DE 18 DE MARZO DE 2003, LOS "... ORDENAMIENTOS ESTATALES DE OBSERVANCIA GENERAL, VIGENTES...Y QUE EN SU DENOMINACION CONTENGAN LA EXPRESION '... ESTADO DE VERACRUZ-LLAVE', SE ENTENDERAN REFERIDAS AL '... ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE'."</small>
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 18 DE MARZO DE 2003)</small>
+
+REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ## TÍTULO PRIMERO. De la Constitución del Congreso
 
@@ -169,9 +173,11 @@ XII. Los demás que les otorgue la Constitución, la Ley y este Reglamento.
 
 ### CAPÍTULO II. De las Obligaciones
 
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
+
 ###### Artículo 9.
 
-Son obligaciones de los diputados, además de las establecidas por el artículo 17 de la Ley y las relativas del artículo 46 de la Ley de Responsabilidades de los Servidores Públicos para el Estado Libre y Soberano de Veracruz-Llave, las siguientes:
+Son obligaciones de los diputados, además de las establecidas por el artículo 17 de la Ley y las relativas del artículo 46 de la Ley de Responsabilidades de los Servidores Públicos para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave, las siguientes:
 
 I. Rendir protesta conforme a lo establecido por el artículo 15 de la Ley;
 
@@ -803,17 +809,21 @@ Al efecto se declarará un receso en tanto las comisiones cumplen su cometido.
 
 Acto seguido, el Presidente, permaneciendo sentado, agradecerá la presencia de los representantes de los otros dos poderes y dirá, tras pedir a todos permanecer de pie:
 
-“LA HONORABLE (el número ordinal correspondiente) LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE, ABRE HOY (dirá la fecha) SU (número ordinal que corresponda) PERIODO DE SESIONES ORDINARIAS".
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
+
+“LA HONORABLE (el número ordinal correspondiente) LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, ABRE HOY (dirá la fecha) SU (número ordinal que corresponda) PERIODO DE SESIONES ORDINARIAS".
 
 En esta sesión no se abrirá ningún debate, ni se admitirán interpelaciones de ninguna especie.
 
 De no asistir los titulares referidos, el Presidente designará comisiones de cuando menos tres diputados cada una de ellas, para que les participen de la apertura del periodo anual de sesiones ordinarias que corresponda y, en su caso, de la clausura del mismo.
 
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
+
 ###### Artículo 92.
 
 Al concluir un período de sesiones, el Presidente hará la siguiente declaración:
 
-"LA HONORABLE (número ordinal que corresponda) LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE, CIERRA HOY (la fecha que corresponda) SU PERIODO (número ordinal que corresponda) DE SESIONES (ordinarias o extraordinarias) CORRESPONDIENTES AL (primer, segundo o tercer) AÑO DE SU EJERCICIO CONSTITUCIONAL".
+"LA HONORABLE (número ordinal que corresponda) LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, CIERRA HOY (la fecha que corresponda) SU PERIODO (número ordinal que corresponda) DE SESIONES (ordinarias o extraordinarias) CORRESPONDIENTES AL (primer, segundo o tercer) AÑO DE SU EJERCICIO CONSTITUCIONAL".
 
 ### CAPÍTULO IV. De las Votaciones
 
@@ -1405,7 +1415,7 @@ Las resoluciones que emita el Congreso, erigido en Colegio Electoral, serán def
 
 Primero. El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del estado, excepto el artículo 28 que entrará en vigor el cuatro de noviembre del año en curso.
 
-Segundo. Se abroga el Reglamento para el Gobierno Interior del Poder Legislativo del Estado Libre y Soberano de Veracruz-Llave, expedido el diecinueve de noviembre de mil novecientos noventa y seis y se derogan todas aquellas disposiciones que contravengan al presente Reglamento.
+Segundo. Se abroga el Reglamento para el Gobierno Interior del Poder Legislativo del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, expedido el diecinueve de noviembre de mil novecientos noventa y seis y se derogan todas aquellas disposiciones que contravengan al presente Reglamento.
 
 Tercero. El Congreso expedirá, en un plazo no mayor de ciento veinte días, contado a partir de la publicación del presente decreto, el Reglamento de los Servicios Administrativos del Congreso del Estado.
 
@@ -1414,3 +1424,23 @@ Dado en el salón de sesiones de la H. LIX Legislatura del Congreso del Estado, 
 Felipe Amadeo Flores Espinosa, diputado presidente.- Rúbrica.
 
 Natalio Alejandro Arrieta Castillo, diputado secretario.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "...Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "...Estado de Veracruz-Llave", se entenderán referidas al "...Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "...del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
