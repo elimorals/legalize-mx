@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "1994-08-06"
+last_updated: "1996-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1996.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -4227,11 +4227,11 @@ Sólo puede constituirse el patrimonio de la familia con bienes sitos en el muni
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1996)</small>
 
 ###### Artículo 718.
 
-El valor máximo de los bienes afectados al patrimonio de la familia, será la cantidad que resulte de multiplicar por 9,125 el importe del salario mínimo general vigente en el Estado de Nayarit, en la época en que se constituya el patrimonio.
+El valor de los bienes afectos al patrimonio de la familia será la cantidad que resulte de multiplicar hasta 20,000 veces el importe del salario mínimo general vigente en el Estado de Nayarit, en la época en que se constituya dicho patrimonio, con sujeción a avalúo realizado por perito oficial debidamente autorizado en el que se determinará el valor comercial de los bienes en cuestión.
 
 ###### Artículo 719.
 
@@ -9088,6 +9088,10 @@ El Estado y los Municipios establecerán en sus Leyes Fiscales, tasas preferenci
 ###### Artículo 1692.
 
 De conformidad con lo dispuesto en las normas sociales contenidas en la ley agraria, se autoriza al Registro Agrario Nacional, para que en los términos y condiciones que le son autorizados, expida títulos de propiedad en documentos privados de acuerdo a los requisitos exigidos por el programa de Certificación de Derechos Ejidales y Titulación de Solares Urbanos.
+
+(ADICIONADO, P.O. 7 DE AGOSTO DE 1996) (F. DE E., P.O. 14 DE AGOSTO DE 1996)
+
+Se autoriza al Instituto Promotor de la Vivienda en Nayarit, para que en los términos y condiciones que le fueron conferidos al Registro Agrario Nacional, expida títulos de propiedad para la regularización de asentamientos humanos considerados como de interés social.
 
 ###### Artículo 1693.
 
@@ -15490,3 +15494,15 @@ P.O. 6 DE AGOSTO DE 1994.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 7 DE AGOSTO DE 1996 SE REFORMA ARTICULO 718
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 7 DE AGOSTO DE 1996 SE ADICIONA ARTICULO 1692
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
