@@ -4,7 +4,7 @@ identifier: "CAM-codigo-fiscal-del-estado-de-campeche-3459"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-12-10"
-last_updated: "1995-06-26"
+last_updated: "1997-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3459&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO FISCAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1997.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el jueves 10 de diciembre de 1992.
 
@@ -77,15 +77,19 @@ I.- El Gobernador del Estado;
 
 II.- El Secretario de Finanzas;
 
-III.- El Tribunal de lo Contencioso Administrativo del Estado;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 1997)</small>
+
+III.- La Sala Administrativa del Tribunal Superior de Justicia del Estado;
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
 
 IV.- Y demás autoridades a quien sean delegadas las facultades en el Reglamento Interior de la Secretaría de Finanzas y Administración.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 5.
 
-Las controversias que surjan de la relación existente entre el fisco Estatal y los contribuyentes se instruirán y decidirán ante el Tribunal de lo Contencioso Administrativo del Estado.
+Las controversias que surjan de la relación existente entre el fisco Estatal y los contribuyentes se instruirán y decidirán ante la Sala Administrativa del Tribunal Superior de Justicia del Estado.
 
 ###### ARTICULO 6.
 
@@ -1335,9 +1339,11 @@ III.- Afecten el interés jurídico de terceros, en los casos a que se refiere e
 
 IV.- Determinen el valor de los bienes embargados a que se refiere el artículo 128 de este Código.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 78.
 
-La interposición del Recurso de Revocación será optativa para el interesado antes de acudir al Tribunal de lo Contencioso Administrativo. El de Oposición al Procedimiento Administrativo de Ejecución deberá agotarse antes de acudir en juicio ante dicho Tribunal.
+La interposición del Recurso de Revocación será optativa para el interesado antes de acudir a la Sala Administrativa del Tribunal Superior de Justicia del Estado. El de Oposición al Procedimiento Administrativo de Ejecución deberá agotarse antes de acudir en juicio ante dicho Tribunal.
 
 Cuando un recurso se interponga ante Autoridad Fiscal incompetente, ésta lo turnará a la que sea competente.
 
@@ -1399,7 +1405,9 @@ I.- Que no afecten el interés jurídico del recurrente;
 
 II.- Que sean resoluciones dictadas en recurso administrativo o en cumplimiento de éstas o de sentencias;
 
-III.- Que haya sido impugnado ante el Tribunal de lo Contencioso Administrativo;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 1997)</small>
+
+III.- Que haya sido impugnado ante la Sala Administrativa del Tribunal Superior de Justicia del Estado;
 
 IV.- Que se haya consentido, entendiéndose por consentimiento el de aquéllos contra los que no se promovió el recurso en el plazo señalado al efecto;
 
@@ -1411,9 +1419,11 @@ VII.- Si son revocados los actos por la autoridad.
 
 #### SECCION SEGUNDA. DEL RECURSO DE REVOCACION
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 84.
 
-El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente contra dicho acto, juicio ante el Tribunal de lo Contencioso Administrativo. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro, a excepción de resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos.
+El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente contra dicho acto, juicio ante la Sala Administrativa del Tribunal Superior de Justicia del Estado. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro, a excepción de resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos.
 
 #### SECCION TERCERA. DEL RECURSO DE OPOSICION AL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
@@ -1573,7 +1583,9 @@ Tratándose de fianza a favor de la Secretaría de Finanzas y Administración, o
 
 a).- La Autoridad Ejecutora requerirá de pago a la Afianzadora, acompañando copia de los documentos que justifiquen el crédito garantizado y su exigibilidad.
 
-Para ello la Afianzadora designará, en el lugar de residencia del Tribunal de lo Contencioso Administrativo, un apoderado para recibir requerimientos de pago y el domicilio para dicho efecto, debiendo informar de los cambios que se produzcan dentro de los quince días siguientes al en que ocurran.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1997)</small>
+
+Para ello la Afianzadora designará, en el lugar de residencia de la Sala Administrativa del Tribunal Superior de Justicia del Estado, un apoderado para recibir requerimientos de pago y el domicilio para dicho efecto, debiendo informar de los cambios que se produzcan dentro de los quince días siguientes al en que ocurran.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
 
@@ -1599,7 +1611,9 @@ En el supuesto del párrafo anterior, si el particular no presenta declaración 
 
 No se exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieran embargado bienes suficientes para garantizar el interés fiscal.
 
-En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán promover el incidente de suspensión de la ejecución ante el Tribunal de lo Contencioso Administrativo que conozca del juicio respectivo u ocurrir al superior jerárquico de la autoridad ejecutora, si se está tramitando recurso, acompañando los documentos en que consten el medio de defensa hecho valer y el ofrecimiento o, en su caso otorgamiento de la garantía del interés fiscal.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1997)</small>
+
+En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán promover el incidente de suspensión de la ejecución ante la Sala Administrativa del Tribunal Superior de Justicia del Estado que conozca del juicio respectivo u ocurrir al superior jerárquico de la autoridad ejecutora, si se está tramitando recurso, acompañando los documentos en que consten el medio de defensa hecho valer y el ofrecimiento o, en su caso otorgamiento de la garantía del interés fiscal.
 
 El Superior ordenará a la autoridad ejecutora que suspenda provisionalmente el procedimiento administrativo de ejecución y rinda informe en un plazo de tres días; debiendo resolver dentro de los cinco días siguientes a su recepción.
 
@@ -2019,569 +2033,273 @@ En caso de conflicto las cantidades de dinero o valores que constituyan el reman
 
 Queda estrictamente prohibido adquirir los bienes objeto de remate por sí o por medio de interpósita persona, a los jefes de las oficinas ejecutoras y personal de los mismos y a las personas que hubieren intervenido, por parte del fisco del estado, en los procedimientos de ejecución. El remate efectuado con infracción a este precepto será nulo y los infractores castigados conforme a las Leyes.
 
-## TITULO SEPTIMO. DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 1997)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+## TITULO SEPTIMO
+
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 1997)</small>
+
+### CAPITULO I
 
 ###### ARTICULO 150.
 
-Los juicios que se promuevan ante el Tribunal de lo Contencioso Administrativo, se sustanciarán y resolverán con arreglo al procedimiento que determine este Código, pudiendo aplicarse el Código de Procedimientos Civiles del Estado; a falta de disposición expresa y siempre que la disposición que se pretenda aplicar supletoriamente se avenga al procedimiento contencioso que establece este Código.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 151.
 
-Son partes en el juicio contencioso administrativo:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
-I.- El demandante;
+###### ARTICULO 151.
 
-II.- Los demandados. Tendrán ese carácter:
-
-a).- La autoridad que dictó la resolución impugnada.
-
-b).- El particular a quien favorezca la resolución cuya modificación o nulidad pida la autoridad administrativa;
-
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
-
-III.- El titular de la Secretaría de Gobierno del Estado u Organismo Descentralizado del que dependa la autoridad mencionada en la fracción anterior. En todo caso, la Secretaría de Finanzas y Administración será parte en los juicios en que se controvierta el interés fiscal del estado;
-
-IV.- El tercero que tenga un derecho incompatible con la pretensión del demandante.
-
-Podrá apersonarse en el juicio como coadyuvante de las autoridades administrativas, quien tenga interés directo en la modificación o anulación de un acto favorable a un particular o en la confirmación de uno que le es desfavorable.
-
-###### ARTICULO 152.
-
-Toda promoción deberá estar firmada por quien la formule y sin este requisito se tendrá por no presentada, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital y firmará otra persona a su ruego.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 153.
 
-Ante el Tribunal de lo Contencioso Administrativo del Estado no procederá la gestión de negocios. Quien promueva a nombre de otra deberá acreditar que la representación le fue otorgada a más tardar, en la fecha de la presentación de la demanda o de la contestación, en su caso.
-
-La representación de los particulares se otorgará en escritura pública o carta poder firmada ante dos testigos, ante notario o ante los secretarios del Tribunal de lo Contencioso Administrativo del Estado, sin perjuicio de lo que disponga la legislación de profesiones.
-
-La representación de las autoridades corresponderá a la unidad administrativa encargada de su defensa jurídica.
-
-Los particulares o sus representantes podrán autorizar por escrito al Licenciado en Derecho que a su nombre reciba notificaciones. La persona así autorizada podrá hacer promociones de trámite, rendir pruebas, presentar alegatos o interponer recursos. Las autoridades podrán nombrar delegados para los mismos fines.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 154.
 
-En los juicios que se tramiten ante el Tribunal de lo Contencioso Administrativo del Estado no habrá lugar a condenación en costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
-### CAPITULO II. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 1997)</small>
+
+### CAPITULO II
 
 ###### ARTICULO 155.
 
-Es improcedente el juicio ante el Tribunal de lo Contencioso Administrativo del Estado en los casos, por las causales y contra los actos siguientes:
-
-I.- Que no afecten los intereses jurídicos del demandante;
-
-II.- Cuya impugnación no corresponda conocer a dicho tribunal;
-
-III.- Que haya sido materia de sentencia pronunciada por el Tribunal de lo Contencioso Administrativo del Estado, siempre que hubiera identidad de partes y se trate del mismo acto impugnado, aunque las violaciones alegadas sean diversas;
-
-IV.- Respecto de las cuales hubiere consentimiento, entendiéndose que hay consentimiento únicamente cuando no se promovió algún medio de defensa en los términos de las leyes respectivas o juicio ante el Tribunal de lo Contencioso Administrativo del Estado en los plazos que señala este Código;
-
-V.- Que sean materia de un recurso o juicio que se encuentre pendiente de resolución ante una autoridad administrativa o ante el propio tribunal;
-
-VI.- Que puedan impugnarse por medio de algún recurso o medio de defensa;
-
-VII.- Conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente.
-
-Para los efectos de esta fracción, se entiende que hay conexidad siempre que concurran las causas de acumulación previstas en el artículo 172 de este Código;
-
-VIII.- Que hayan sido impugnados en un procedimiento judicial;
-
-IX.- Contra ordenamiento que den normas o instrucciones de carácter general y abstracto, sin haber sido aplicados concretamente al promovente;
-
-X.- Cuando no se haga valer agravio alguno;
-
-XI.- Cuando de las constancias de autos apareciere claramente que no existe el acto reclamado;
-
-XII.- En los demás casos en que la improcedencia resulte de alguna disposición de este Código o de las leyes fiscales especiales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 156.
 
-Procede el sobreseimiento del juicio:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
-I.- Por desistimiento del demandante;
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 1997)</small>
 
-II.- Cuando durante el juicio aparezca o sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior;
-
-III.- En el caso de que el demandante muera durante el juicio, si su pretensión es intransmisible o si su muerte deja sin materia el proceso;
-
-IV.- Si la autoridad demandada deja sin efecto el acto impugnado;
-
-V.- En los demás casos en que por disposición legal haya impedimento para emitir resolución en cuanto al fondo.
-
-El sobreseimiento del juicio podrá ser total o parcial.
-
-### CAPITULO III. DE LOS IMPEDIMENTOS Y EXCUSAS
+### CAPITULO III
 
 ###### ARTICULO 157.
 
-Los magistrados del Tribunal de lo Contencioso Administrativo del Estado estarán impedidos para conocer, cuando:
-
-I.- Tengan interés personal en el negocio;
-
-II.- Sean parientes consanguíneos, afines o civiles de alguna de las partes o de sus patronos o representantes, en línea recta sin limitación de grado y en línea transversal dentro del cuarto grado por consanguinidad y segundo por afinidad;
-
-III.- Hayan sido patronos o apoderados en el mismo negocio;
-
-IV.- Tengan amistad estrecha o enemistad con alguna de las partes o con sus patronos o representantes;
-
-V.- Hayan dictado el acto impugnado o hayan intervenido con cualquier carácter en la emisión del mismo o en su ejecución;
-
-VI.- Figuren como parte en un juicio similar, pendiente de resolución;
-
-VII.- Estén en una situación que pueda afectar su imparcialidad en forma análoga o más grave que las mencionadas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 158.
 
-Los magistrados tienen el deber de excusarse del conocimiento de los negocios en que ocurra algunos de los impedimentos señalados en el artículo anterior, expresando concretamente en qué consiste el impedimento.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 159.
 
-Manifestada por un magistrado la causa de impedimento, el Tribunal de lo Contencioso Administrativo del Estado, calificará la excusa y cuando proceda designará quien deba sustituir al magistrado impedido.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
-### CAPITULO IV. DE LA DEMANDA
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 1997)</small>
+
+### CAPITULO IV
 
 ###### ARTICULO 160.
 
-La demanda deberá ser por escrito y presentarse directamente ante el Tribunal, dentro de los cuarenta y cinco días siguientes a aquel en que haya surtido efectos la notificación del acto impugnado o en que el afectado, haya tenido conocimiento de él o de su ejecución, o se haya ostentado sabedor del mismo cuando no exista notificación legalmente hecha.
-
-La demanda podrá enviarse por correo certificado con acuse de recibo si el demandante tiene su domicilio fuera de la población donde esté la sede del Tribunal, siempre que el envío se efectúe en el lugar en que reside el demandante.
-
-Las autoridades podrán presentar la demanda y dentro de los cinco años siguientes a la fecha en que sea emitida la resolución, cuando se pida la modificación o nulidad de un acto favorable a un particular, salvo que haya producido efectos de tracto sucesivo, caso en el que se podrá demandar la modificación o nulidad en cualquier época sin exceder de los cinco años del último efecto, pero los efectos de la sentencia, en caso de ser total o parcialmente desfavorable para el particular, sólo retrotraerán a los cinco años anteriores a la presentación de la demanda.
-
-Cuando el interesado fallezca durante el plazo para iniciar juicio, el plazo se suspenderá hasta un año si antes no se ha aceptado el cargo de representante de la sucesión.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 161.
 
-La demanda deberá indicar:
-
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
-
-I.- El nombre, domicilio fiscal y, en su caso, clave del registro estatal de contribuyentes y domicilio para recibir notificaciones del demandante;
-
-II.- La resolución que se impugna;
-
-III.- La autoridad o autoridades demandadas o el nombre y domicilio del particular demandado cuando el juicio sea promovido por la autoridad administrativa;
-
-IV.- Los hechos que den motivo a la demanda;
-
-V.- Las pruebas que ofrezca.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 26 DE JUNIO DE 1995)</small>
-
-Sin estos señalamientos se tendrán por no ofrecidas;
-
-VI.- La expresión de los agravios que le cause el acto impugnado;
-
-VII.- El nombre y domicilio del tercer interesado, cuando lo haya.
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
-
-Cuando se omitan los datos previstos en las fracciones I, II y VI, el magistrado desechará por improcedente la demanda interpuesta. Cuando se omitan los datos previstos en las fracciones III, IV, V y VII, el magistrado requerirá al promovente para que los señale dentro del plazo de cinco días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la demanda o por no ofrecidas las pruebas, según corresponda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 162.
 
-El demandante deberá adjuntar a su instancia:
-
-I.- Una copia de la misma para cada una de las partes y una copia de los documentos anexos para el titular a que se refiere la fracción III del artículo 151 o en su caso, para el particular demandado;
-
-II.- El documento que acredite su personalidad o en el que conste que le fue reconocida por la autoridad demandada, cuando no gestione en nombre propio;
-
-III.- El documento en que conste el acto impugnado o, en su caso, copia de la instancia no resuelta por la autoridad;
-
-IV.- Constancia de la notificación del acto impugnado, excepto cuando el demandante declare bajo protesta de decir verdad que no recibió constancia o cuando hubiera sido por correo.
-
-Si la notificación fue por edictos deberá señalar la fecha de la última publicación y el nombre del órgano en que ésta se hizo;
-
-V.- El cuestionario que debe desahogar el perito, el cual deberá ir firmado por el demandante;
-
-VI.- Las pruebas documentales que ofrezca.
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
-
-Cuando no se adjunten a la demanda los documentos a que se refiere este precepto, el magistrado requerirá al promovente para que los presente dentro del plazo de cinco días. Si el promovente no los presenta dentro de dicho plazo y se trata de los documentos a que se refieren las fracciones I a IV, se tendrá por no presentada la demanda, o si se trata de las pruebas documentales o de los cuestionarios dirigidos a peritos a que se refieren las fracciones V y VI, las mismas se tendrán por no ofrecidas.
-
-Se entiende que el demandante tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias. En ningún caso se requerirá el envío de un expediente administrativo.
-
-Cuando no se adjunten a la demanda los documentos a que se refiere este precepto, el magistrado tendrá por no ofrecidas las pruebas, o si se trata de lo previsto en las fracciones I a IV, se tendrá por no presentada la demanda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 163.
 
-Cuando se alegue que el acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los impugnables en el juicio contencioso administrativo, se estará a las reglas siguientes:
-
-I.- Si el demandante afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer en la demanda, en la que manifestará la fecha en que lo conoció.
-
-En caso de que también impugne el acto administrativo, los conceptos de nulidad se expresarán en la demanda, conjuntamente con los que se formulen contra la notificación;
-
-II.- Si el actor manifiesta que no conoce el acto administrativo que pretende impugnar, así lo expresará en su demanda, señalando la autoridad a quien atribuye el acto, su notificación o su ejecución. En este caso, al contestar la demanda, la autoridad acompañará constancia del acto administrativo y de su notificación, mismos que el actor podrá combatir mediante ampliación de la demanda;
-
-III.- El Tribunal estudiará los conceptos de nulidad expresados contra la notificación, previo al examen de la impugnación del acto administrativo.
-
-Si resuelve que no hubo notificación o que fue ilegal, considerará que el actor fue sabedor del acto administrativo desde la fecha en que se le dio a conocer en los términos de la fracción II, quedando sin efectos todo lo actuado en base a aquélla, y procederá al estudio de la impugnación que, en su caso, se hubiese formulado contra dicho acto.
-
-Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello la demanda fue presentada extemporáneamente, sobreseerá el juicio en relación con el acto administrativo combatido.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 164.
 
-Se podrá ampliar la demanda, dentro de los cuarenta y cinco días siguientes al en que surta efectos la notificación del acuerdo que admita la contestación de la misma, en los casos siguientes:
-
-I.- Cuando se impugne una negativa ficta;
-
-II.- Contra el acto principal del que derive el impugnado en la demanda, así como su notificación, cuando se den a conocer en la contestación;
-
-III.- En los casos previstos por el artículo 163.
-
-El escrito de ampliación de demanda deberá indicar los datos previstos en el artículo 161 de este Código, siendo aplicable en lo conducente el último párrafo de dicho artículo. Asimismo se deberán adjuntar al escrito de ampliación de demanda, los documentos previstos en el artículo 162 de este Código, excepto aquéllos que ya se hubieran acompañado al escrito inicial de demanda, siendo aplicable en lo conducente lo dispuesto en el último párrafo del citado artículo 162.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 165.
 
-El tercero o el coadyuvante, dentro de los cuarenta y cinco días siguientes a aquél en que se corra traslado de la demanda, podrá apersonarse en juicio, mediante escrito que contendrá los requisitos de contestación o de la demanda, según sea el caso, así como la justificación de su derecho para intervenir en el asunto.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
-Deberá adjuntar a su escrito, el documento en que se acredite su personalidad cuando no gestione en nombre propio, las pruebas documentales que ofrezca y el cuestionario para los peritos. Son aplicables en lo conducente los dos últimos párrafos del artículo 162.
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 1997)</small>
 
-### CAPITULO V. DE LA CONTESTACION
+### CAPITULO V
 
 ###### ARTICULO 166.
 
-Admitida la demanda se correrá traslado de ella al demandado, emplazándolo para que la conteste dentro de los cuarenta y cinco días siguientes a aquél en que surta efectos el emplazamiento. El plazo para contestar la demanda será de cuarenta y cinco días siguientes al en que surta efectos la notificación del acuerdo que admita la ampliación de la demanda. Si no se produce la contestación en tiempo o ésta no se refiere a todos los hechos, se tendrán como ciertos los que el actor impute de manera precisa al demandado, salvo que por las pruebas rendidas o por hechos notorios resulten desvirtuados.
-
-Cuando alguna autoridad que deba ser parte en el juicio no fuese señalada por el actor como demandada, de Oficio se le correrá traslado de la demanda para que la conteste en el plazo a que se refiere el párrafo anterior.
-
-Cuando los demandados fueren varios el término para contestar les correrá individualmente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 167.
 
-El demandado en su contestación y en la contestación de la ampliación de la demanda, expresará:
-
-I.- Los incidentes de previo y especial pronunciamiento a que haya lugar;
-
-II.- Las consideraciones que a su juicio impidan se emita decisión en cuanto al fondo, o demuestren que no han nacido o se ha extinguido el derecho en que el actor apoya su demanda;
-
-III.- Se referirá concretamente a cada uno de los hechos que el demandante le impute de manera expresa, afirmándolos, negándolos, expresando que los ignora por no ser propios o exponiendo como ocurrieron, según sea el caso;
-
-IV.- Los argumentos por medio de los cuales se demuestre la ineficacia de los agravios;
-
-V.- Las pruebas que ofrezca.
-
-En caso de que se ofrezca prueba pericial o testimonial, se precisarán los hechos sobre los que deban versar y se señalarán los nombres y domicilios del perito o de los testigos. Sin estos señalamientos se tendrán por no ofrecidas dichas pruebas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 168.
 
-El demandado deberá adjuntar a su contestación:
-
-I.- Copias de la misma y de los documentos que acompañe para el demandante y para el tercero señalado en la demanda;
-
-II.- El documento en que acredite su personalidad cuando el demandado sea un particular y no gestione en nombre propio;
-
-III.- El cuestionario que debe desahogar el perito, el cual deberá ir firmado por el demandado;
-
-IV.- Las pruebas documentales que ofrezca.
-
-Para los efectos de este artículo, serán aplicables en lo conducente los dos últimos párrafos del artículo 162.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 169.
 
-En la contestación de la demanda no podrán cambiarse los fundamentos de derecho de la resolución impugnada.
-
-En caso de resolución negativa ficta, la autoridad expresará los hechos y el derecho en que se apoya la misma.
-
-En la contestación de la demanda o hasta antes del cierre de la instrucción la autoridad demandada podrá allanarse a las pretensiones del demandante o revocar la resolución impugnada.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 170.
 
-Cuando haya contradicciones entre los fundamentos de hecho y de derechos dados en la contestación de la autoridad que dictó la resolución impugnada y la formulada por el Superior Jerárquico de aquella, u organismo descentralizado, del que dependa la Autoridad que en primer lugar resolvió, únicamente se tomará en cuenta, respecto a esas contradicciones, lo expuesto por éstos últimos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
-### CAPITULO VI. DE LOS INCIDENTES
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 1997)</small>
+
+### CAPITULO VI
 
 ###### ARTICULO 171.
 
-En el procedimiento contencioso administrativo, sólo serán de previo y especial pronunciamiento:
-
-I.- El de acumulación de autos;
-
-II.- El de Nulidad de Notificaciones;
-
-III.- El de interrupción por causa de muerte o disolución.
-
-Mientras estén pendientes de resolución los demás incidentes a que se refiere este Capítulo, el juicio continuará hasta que se cierre la instrucción. Si el incidente hecho valer es notoriamente frívolo o improcedente se impondrá a quien lo promueva una multa hasta de 30 veces el salario mínimo general.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 172.
 
-Procede la acumulación de dos o más juicios pendientes de la resolución en los casos en que:
-
-I.- Las partes sean las mismas y se invoquen idénticos agravios;
-
-II.- Siendo diferentes las partes e invocándose distintos agravios, el acto impugnado sea uno mismo o se impugne varias partes del mismo acto;
-
-III.- Independientemente de que las partes y los agravios sean o no diversos, se impugnen actos que sean unos antecedentes o consecuencia de los otros.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 173.
 
-Las partes podrán hacer valer el incidente a que se refiere el artículo anterior, hasta antes de que se cierre la instrucción.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 174.
 
-La acumulación se tramitará ante el magistrado que esté conociendo el juicio en el cual la demanda se presentó primero. Dicho magistrado, en el plazo de diez días, formulará proyecto de resolución que someterá a la Sala, la cual dictará la determinación que proceda. La acumulación podrá tramitarse de oficio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 175.
 
-Las solicitudes de acumulación notoriamente infundadas, se desecharán de plano.
-
-Una vez decretada la acumulación, se turnarán los autos al magistrado que conoce el juicio más antiguo.
-
-Cuando no pueda decretarse la acumulación porque en alguno de los juicios se hubiese cerrado la instrucción o por encontrarse en diversas instancias, a petición de parte o de oficio, se decretará la suspensión del procedimiento en el juicio en trámite.
-
-La suspensión subsistirá hasta que se pronuncie la resolución definitiva en el otro negocio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 176.
 
-Las notificaciones que no fueren hechas conforme a lo dispuesto en este Código serán nulas. En este caso el perjudicado podrá pedir que se declare la nulidad dentro de los cinco días siguientes a aquél en que conoció el hecho ofreciendo las pruebas pertinentes en el mismo escrito en que se promueva la nulidad.
-
-Las promociones de nulidad notoriamente infundadas se desecharán de plano.
-
-Si se admite la promoción, se dará vista a las demás partes por el término de cinco días para que expongan lo que a su derecho convenga; transcurrido dicho plazo, el magistrado dictará resolución.
-
-Si se declara la nulidad, el Tribunal ordenará reponer el procedimiento desde la fecha de la notificación. Asimismo, se impondrá una multa al actuario, equivalente hasta diez veces el salario mínimo general, sin que exceda del 30% de su sueldo mensual. El actuario podrá ser destituido de su cargo, sin responsabilidad para el Estado en caso de reincidencia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 177.
 
-La interrupción por causa de muerte o disolución se tramitará ante el magistrado, y procederá antes de que en el juicio se cierre la instrucción u ocurra cualquiera de los siguientes supuestos:
-
-I.- Muera una persona que sea parte en el juicio;
-
-II.- Se presente cualquiera de las causales legales de disolución de una persona moral, siempre que sea particular y parte demandada.
-
-El incidente se tramitará aún de oficio.
-
-El procedimiento se reanudará cuando se apersone a juicio del causahabiente de la parte desaparecida o su representante, o si habiendo transcurrido un año a partir de la fecha en que se decretó la suspensión no se apersonan a juicio, caso en el cual las notificaciones se harán por lista.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 178.
 
-Las partes podrán recusar a los magistrados o a los peritos del Tribunal, cuando estén en alguno de los casos de impedimento a que se refiere el artículo 157 de este Código.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 179.
 
-La recusación de magistrados se hará valer hasta antes de que se cierre la instrucción en el juicio, mediante escrito dirigido al Presidente del Tribunal de lo Contencioso Administrativo del Estado y acompañando las pruebas que se ofrezcan. El Presidente dentro de los tres días siguientes a la fecha en que se presentó la promoción, pedirá un informe al magistrado recusado, quien deberá rendirlo en igual plazo; la falta de dicho informe establece la presunción de ser cierta la causa de recusación.
-
-Si se declara fundada la recusación, el magistrado será sustituido en los términos del Reglamento del Tribunal de lo Contencioso Administrativo del Estado.
-
-La Recusación a un perito del Tribunal se tramitará y resolverá en los términos de este artículo, promoviendo el escrito que se dirigirá al Presidente dentro de los seis días siguientes a aquél en que cada parte tenga conocimiento de que ha rendido su dictamen pericial.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 180.
 
-Los particulares podrán promover en cualquier tiempo, el incidente de suspensión de la ejecución, cuando la autoridad ejecutora niegue la suspensión, rechace la garantía ofrecida o reinicie la ejecución, ante el magistrado que esté conociendo del asunto acompañando copia del documento en que se haga constar la garantía y copia de aquellos en que conste la iniciación del juicio.
-
-Las autoridades fiscales podrán promover el mismo incidente en relación al otorgamiento de la suspensión cuando no se ajuste a la ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 181.
 
-En el auto que admita el incidente a que se refiere el artículo 180, el magistrado ordenará correr traslado a la autoridad a quien se impute el acto, pidiéndole un informe que deberá rendir en un plazo de tres días. Asimismo, podrá decretar la suspensión provisional de la ejecución. Si la autoridad ejecutora no rinde el informe o si éste no se refiere especificadamente a los hechos que le impute el promovente, se tendrán éstos por ciertos.
-
-Dentro del plazo de cinco días a partir de que haya recibido el informe, o de que haya vencido el término para presentarlo, la Sala dictará resolución en la que decrete o niegue la suspensión del procedimiento administrativo de ejecución o decida sobre la admisión de la garantía ofrecida.
-
-Si la autoridad no da cumplimiento a la orden de suspensión o de admisión de la garantía, la Sala declarará la nulidad de las actuaciones realizadas con violación a la misma e impondrá a la autoridad renuente una multa de treinta veces el salario mínimo general.
-
-Si el incidente es promovido por la autoridad por haberse concedido indebidamente una suspensión, se tramitará lo conducente en los términos de este precepto.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 182.
 
-Cuando alguna de las partes sostenga la falsedad de un documento, incluyendo las promociones y actuaciones en juicio, el incidente se podrá hacer valer ante el magistrado hasta antes de que se cierre la instrucción del juicio. El Tribunal resolverá sobre la autenticidad del documento exclusivamente para efectos de dicho juicio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
-### CAPITULO VII. DE LAS PRUEBAS
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 1997)</small>
+
+### CAPITULO VII
 
 ###### ARTICULO 183.
 
-En los juicios que se tramiten ante el Tribunal de lo Contencioso Administrativo del Estado, serán admisibles toda clase de pruebas, excepto la de confesión de las autoridades mediante absolución de posiciones.
-
-Las pruebas supervenientes podrán presentarse siempre que no se haya dictado sentencia. En este caso el magistrado ordenará dar vista a la contraparte para que en el plazo de cinco días exprese lo que a su derecho convenga.
-
-El magistrado podrá acordar la exhibición de cualquier documento que tenga relación con los hechos controvertidos o para ordenar la práctica de cualquier diligencia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 184.
 
-La Prueba Pericial se sujetará a lo siguiente:
-
-I.- En el auto que recaiga a la contestación de la demanda o de su ampliación, se requerirá a las partes para que dentro del plazo de diez días presenten a sus peritos, a fin de que acrediten que reúnen los requisitos correspondientes, acepten el cargo y protesten su leal desempeño, apercibiéndolas de que si no lo hacen sin causa justa, o la persona propuesta no acepte el cargo o no reúne los requisitos de Ley, sólo se considerará el peritaje de quien haya cumplimentado el requerimiento;
-
-II.- El Magistrado cuando a su juicio deba presidir la diligencia y lo permita la naturaleza de ésta, señalará lugar, día y hora para el desahogo de la prueba pericial pudiendo pedir a los peritos todas las aclaraciones que estime conducentes y exigirles la práctica de nuevas diligencias;
-
-III.- En los acuerdos por los que se discierna a cada perito, el Magistrado le concederá un plazo mínimo de quince días para que rinda su dictamen, con el apercibimiento a la parte que lo propuso de que únicamente se considerarán los dictámenes rendidos dentro del plazo concedido;
-
-IV.- Por una sola vez y por causa que lo justifique, comunicada al magistrado antes de vencer los plazos mencionados en este artículo, las partes podrán solicitar la sustitución de su perito, señalando el nombre y domicilio de la nueva persona propuesta.
-
-La parte que haya sustituido a su perito conforme a la fracción I, ya no podrá hacerlo en el caso previsto en la fracción III de este precepto;
-
-V.- El perito tercero será designado por el Tribunal de entre los que tenga adscritos. En el caso de que no hubiere perito adscrito en la ciencia o arte sobre el cual verse el peritaje, el Tribunal designará bajo su responsabilidad a la persona que debe rendir dicho dictamen y las partes cubrirán sus honorarios. Cuando haya lugar a designar perito tercero valuador, el nombramiento deberá recaer en una Institución Bancaria, debiendo cubrirse sus honorarios por las partes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 185.
 
-Para desahogar la prueba testimonial se requerirá a la oferente para que presente a los testigos y cuando ésta manifieste no poder presentarlos, el Magistrado los citará para que comparezcan el día y hora que al efecto señale. De los testimonios se levantará acta pormenorizada y podrán serles formuladas por el Magistrado o por las partes aquellas preguntas que estén en relación directa con los hechos controvertidos o persigan la aclaración de cualquier respuesta.
-
-Las autoridades rendirán testimonio por escrito.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 186.
 
-A fin de que las partes puedan rendir sus pruebas, los Funcionarios o Autoridades tienen obligación de expedir con toda oportunidad las copias de los documentos que les soliciten; si no se cumpliera con esa obligación la parte interesada solicitará al Magistrado que requiera a los omisos.
-
-Cuando sin causa justificada la autoridad demandada no expida las copias de los documentos ofrecidos por el demandante para probar los hechos imputados a aquélla y siempre que los documentos solicitados hubieran sido identificados con toda precisión tanto en sus características como en su contenido, se presumirán ciertos los hechos que pretendan probar con esos documentos.
-
-En los casos en que la autoridad no sea parte, el Magistrado podrá hacer valer como medida de apremio la imposición de multas de hasta el monto del equivalente de treinta veces el salario mínimo general, a los funcionarios omisos.
-
-Cuando se soliciten copias de documentos que po (sic) puedan proporcionarse en la práctica administrativa normal, las autoridades podrán solicitar un plazo adicional para hacer las diligencias extraordinarias que el caso amerite y si al cabo de éstas no se localizan, el Magistrado podrá considerar que se está en presencia de omisión por causa justificada.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 187.
 
-La valoración de las pruebas se hará de acuerdo con las siguientes disposiciones:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
-I.- Harán prueba plena la confesión expresa de las partes, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos; pero, si en estos últimos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 1997)</small>
 
-Tratándose de actos de comprobación de las autoridades administrativas, se entenderán como legalmente afirmados los hechos que constan en las actas respectivas;
-
-II.- El valor de las pruebas pericial y testimonial, así como el de las demás pruebas quedará a la prudente apreciación del Tribunal.
-
-Cuando por el enlace de las pruebas rendidas y de las presunciones formales, el tribunal adquiera convicción distinta acerca de los hechos materia de litigio, podrá valorar las pruebas sin sujetarse a lo dispuesto en las fracciones anteriores, debiendo fundar razonadamente esta parte de su sentencia.
-
-### CAPITULO VIII. CIERRE DE LA INSTRUCCION
+### CAPITULO VIII
 
 ###### ARTICULO 188.
 
-El Magistrado, diez días después de que haya concluido la sustanciación del juicio y no existiere ninguna cuestión pendiente que impida su resolución, notificará por lista a las partes que tienen un término de cinco días para formular alegatos por escrito. Los alegatos presentados en tiempo deberán ser considerados al dictar sentencia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
-Al vencer el plazo de cinco días a que se refiere el párrafo anterior, con alegatos o sin ellos, quedará cerrada la instrucción, sin necesidad de declaratoria expresa.
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 1997)</small>
 
-### CAPITULO IX. DE LA SENTENCIA
+### CAPITULO IX
 
 ###### ARTICULO 189.
 
-La sentencia se pronunciará por unanimidad o mayoría de votos de los Magistrados integrantes del Tribunal, dentro de los cuarenta y cinco días siguientes al cierre de instrucción. Para este efecto el Magistrado formulará el proyecto respectivo dentro de los treinta días siguientes al cierre de la instrucción. Para dictar resolución en los de sobreseimiento por alguna de las causas previstas en el artículo 156 de este Código, no será necesario que se hubiese cerrado la instrucción.
-
-Cuando la mayoría de los magistrados estén de acuerdo con el proyecto, el Magistrado disidente podrá limitarse a expresar que vota en contra del proyecto o formular voto particular razonado, pero lo deberá formular en un plazo que no excederá de diez días, transcurridos los cuales, si no lo hace perderá ese derecho y deberá devolver el expediente; en caso de que no lo devuelva incurrirá en responsabilidad.
-
-Si el proyecto del Magistrado no fue aceptado por los otros magistrados del Tribunal, el Secretario de aquélla engrosará el fallo con los argumentos de la mayoría y el proyecto podrá quedar como voto particular.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 190.
 
-Las sentencias del Tribunal de lo Contencioso Administrativo se fundarán en derecho y examinarán todos y cada uno de los puntos controvertidos del acto impugnado, teniendo la facultad de invocar hechos notorios.
-
-El Tribunal podrá corregir los errores que adviertan en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios y causales de ilegalidad, así como los demás razonamientos de las partes, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en la demanda y en la contestación. No se podrán anular o modificar los actos de las autoridades administrativas no impugnados de manera expresa en la demanda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 191.
 
-Se declarará que una resolución administrativa es ilegal cuando se demuestre alguna de las siguientes causales:
-
-I.- Incompetencia del funcionario que lo haya dictado u ordenado o tramitado el procedimiento del que deriva dicha resolución;
-
-II.- Omisión de los requisitos formales exigidos por las leyes, que afecte las defensas del particular y trascienda al sentido de la resolución impugnada, inclusive la ausencia de fundamentación o motivación, en su caso;
-
-III.- Vicios del procedimiento que afecten las defensas del particular;
-
-IV.- Si los hechos que la motivaron no se realizaron, fueron distintos o se apreciaron en forma equivocada, o bien si se dictó en contravención de las disposiciones aplicadas o dejó de aplicar las debidas;
-
-V.- Cuando la resolución administrativa dictada en ejercicio de facultades discrecionales no corresponda a los fines para los cuales la ley confiere dichas facultades.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 192.
 
-La sentencia definitiva podrá:
-
-I.- Reconocer la validez de la resolución impugnada;
-
-II.- Declarar la nulidad de la resolución impugnada;
-
-III.- Declarar la nulidad de la resolución impugnada para determinados efectos, debiendo precisar con claridad la forma y términos en que la autoridad debe cumplirla, salvo que se trate de facultades discrecionales.
-
-Si la sentencia obliga a la autoridad a realizar un determinado acto, o iniciar un procedimiento, deberá cumplirse en un plazo de cuatro meses aún cuando haya transcurrido el plazo que señala el artículo 29 de este Código.
-
-En caso de que se interponga recurso, se suspenderá el efecto de la sentencia hasta que se dicte la resolución que ponga fin a la controversia.
-
-El Tribunal de lo Contencioso Administrativo del Estado, declarará la nulidad para el efecto de que se emita nueva resolución cuando se esté en alguno de los supuestos previstos en las fracciones II y III, y en su caso V, del artículo anterior.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 193.
 
-Las partes podrán formular excitativa de justicia ante el Presidente del Tribunal, si el Magistrado no formula el proyecto respectivo dentro del plazo señalado en este Código.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 194.
 
-Recibida la excitativa de justicia el Presidente del tribunal de lo Contencioso Administrativo del Estado, solicitará informe al Magistrado que corresponda, quien deberá rendirlo en el plazo de cinco días.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
-El Presidente dará cuenta al Tribunal y si éste encuentra fundada la excitativa otorgará un plazo que no excederá de quince días para que el Magistrado formule el proyecto respectivo.
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 1997)</small>
 
-Si el mismo no cumpliera con dicha obligación será sustituido en los términos del Reglamento del Tribunal de lo Contencioso Administrativo del Estado.
-
-### CAPITULO X. DEL RECURSO DE RECLAMACION
+### CAPITULO X
 
 ###### ARTICULO 195.
 
-El Recurso de Reclamación procederá ante el Presidente del Tribunal en contra de las resoluciones del magistrado, que admitan o rechacen o nieguen el sobreseimiento del juicio o aquéllas que admiten o rechacen la intervención del coadyuvante o del tercero. La Reclamación se interpondrá dentro de los cinco días siguientes a aquél en que surta efectos la notificación respectiva y tendrá por objeto subsanar, en su caso, las violaciones cometidas y dictar la resolución que en derecho corresponda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 196.
 
-Interpuesto el recurso a que se refiere el artículo anterior, el Magistrado ordenará correr traslado a la contraparte en el término de cinco días, para que exprese lo que a su derecho convenga y sin más trámite dará cuenta a la Sala para que se resuelva en el término de cinco días. El Magistrado que haya dictado el acuerdo recurrido no podrá excusarse.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 197.
 
-Cuando la reclamación se interponga en contra del acuerdo que sobresea el juicio antes de que se hubiera cerrado la instrucción, en caso de desistimiento del demandante, no será necesario dar vista a la contraparte.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
-### CAPITULO XI. DE LAS NOTIFICACIONES Y DEL COMPUTO DE LOS TERMINOS
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 1997)</small>
+
+### CAPITULO XI
 
 ###### ARTICULO 198.
 
-Toda resolución debe notificarse, a más tardar, el tercer día siguiente a aquel en que el expediente haya sido turnado al actuario para ese efecto y se asentará la razón respectiva a continuación de la misma resolución.
-
-Al Actuario que sin causa justificada no cumpla con esta obligación se le impondrá una multa de hasta treinta veces el salario mínimo general, sin que exceda del 30% de su salario, en caso de reincidencia será destituido sin responsabilidad para el Estado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 199.
 
-En las notificaciones, el actuario deberá asentar razón del envío por correo o entrega de los oficios de notificación, así como de las notificaciones personales y por lista. Los acuses de recibo y las piezas certificadas devueltas se agregarán como constancia a dichas actuaciones.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 200.
 
-Las notificaciones que deban hacerse a los particulares se harán en los locales del Tribunal si las personas a quienes deba notificarse se presentan dentro de las veinticuatro horas siguientes a aquélla en que haya dictado la resolución. Cuando el particular no se presente se harán por lista autorizada que se fijará en sitio visible del local del Tribunal.
-
-Cuando el particular no se presente se harán personalmente o por correo certificado con acuse de recibo, siempre que se conozca su domicilio o que éste o el de su representante se encuentre en territorio del Estado, tratándose de los siguientes casos:
-
-I.- La que corra traslado de la demanda, de la contestación y, en su caso la ampliación;
-
-II.- La que mande citar a los testigos o a un tercero;
-
-III.- El requerimiento a la parte que debe cumplirlo;
-
-IV.- El auto que declare cerrada la instrucción;
-
-V.- La resolución del sobreseimiento;
-
-VI.- La sentencia definitiva;
-
-VII.- En todos aquellos casos en que el Magistrado así lo ordene.
-
-La lista a que se refiere este artículo contendrá nombre de la persona, expediente y tipo de acuerdo. En los autos se hará constar la fecha de la lista.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 201.
 
-Las notificaciones que deban hacerse a las autoridades administrativas se harán siempre por oficio o por vía telegráfica en casos urgentes.
-
-La notificación de la sentencia definitiva, así como de las resoluciones del Tribunal que decretan o nieguen sobreseimiento, además de efectuarse a los órganos representativos de la autoridad, se harán al titular de la Secretaría del Estado, u Organismos Descentralizados, precisamente en su sede.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 202.
 
-Las notificaciones surtirán sus efectos el día hábil siguiente a aquél en que fueren hechas. En los casos de notificaciones por lista se tendrá como fecha de notificación la del día en que se hubiese fijado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 203.
 
-Una notificación omitida o irregular se entenderá legalmente hecha a partir de la fecha en que el interesado se haga sabedor de su contenido.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ###### ARTICULO 204.
 
-El cómputo de los plazos se sujetará a las reglas siguientes:
-
-I.- Empezarán a correr a partir del día siguiente a aquél en que surta efectos la notificación;
-
-II.- Si están fijados en días, se computarán solo los hábiles entendiéndose por éstos aquéllos en que se encuentren abiertas al público las oficinas del Tribunal de lo Contencioso Administrativo durante el horario normal de labores. La existencia de personal de guardia no habilita los días en que se suspendan las labores;
-
-III.- Si están señalados en períodos o tienen una fecha determinada para su extinción, se comprenderán los días inhábiles; no obstante, si el último día del plazo o la fecha determinada es inhábil, el término se prorrogará hasta el siguiente día hábil;
-
-IV.- Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario se entenderá en el primer caso que el plazo vence en el mismo día del mes de calendario posterior a aquél en que se inició y en el segundo caso, el término vencerá el mismo día del siguiente año de calendario a aquél en que se inició. Cuando no exista el mismo día en los plazos que se fijen por mes, éste se prorrogará hasta el primer día hábil del siguiente mes de calendario.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 ## TRANSITORIOS
 
@@ -2595,7 +2313,7 @@ Quedan sin efectos las disposiciones que se opongan al presente Código Fiscal d
 
 ###### ARTICULO TERCERO.
 
-Mientras entra en funciones el Tribunal de lo Contencioso Administrativo del Estado, los jueces de primera instancia del ramo civil en esta capital, conocerán de los juicios que se promuevan en materia fiscal. En casos de recusación resolverá el asunto el Tribunal Superior en pleno, y en las excitativas de justicia el Presidente del indicado Tribunal. Cuando se interponga el recurso de reclamación conocerá del mismo el pleno del H. Tribunal Superior de Justicia del Estado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE CAMPECHE, P.O. 4 DE ENERO DE 1997)
 
 CUARTO.- Para los efectos del artículo 29, 32 y 38 Fracción V, el plazo por el cual se extinguirán las facultades y la determinación en relación al término por el cual se encuentran obligados a mantener su contabilidad respectivamente, será en ambos casos de ocho años para 1994 y nueve años en 1995.
 
@@ -2624,3 +2342,11 @@ Artículo Quinto.- Todas las referencias que en el texto del Código Fiscal del 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan a este decreto.
+
+P.O. 4 DE ENERO DE 1997.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- EL PRESENTE DECRETO ENTRARA EN VIGOR EL MISMO DIA DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO, POR CUANTO CONCIERNE A LAS MODIFICACIONES DEL CODIGO ELECTORAL DEL ESTADO Y LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO. EN CUANTO ATAÑE AL CODIGO DE PROCEDIMIENTOS CONTENCIOSO-ADMINISTRATIVOS ENTRARA EN VIGOR AL DIA SIGUIENTE DE QUE QUEDE INSTALADA LA SALA ADMINISTRATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA.
+
+SEGUNDO.- SE DEROGAN CUALESQUIERA DISPOSICIONES LEGALES, REGLAMENTARIAS O ADMINISTRATIVAS EN LO QUE SE OPONGAN AL CONTENIDO DEL PRESENTE DECRETO, ESPECIFICAMENTE EL TITULO SEPTIMO Y EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 42 DE FECHA 8 DE DICIEMBRE DE 1992, PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO EL DIA 10 DE ESE MISMO MES Y AÑO, POR EL CUAL LA LIV LEGISLATURA LOCAL EXPIDIO EL CODIGO FISCAL DEL ESTADO. ASIMISMO, TODAS LAS MENCIONES QUE EN DICHO CODIGO FISCAL SE HACEN CON RELACION AL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO, EN LO SUCESIVO SE ENTENDERAN COMO HECHAS A LA SALA ADMINISTRATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO.
