@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2000-12-03"
+last_updated: "2001-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2001.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1001,7 +1001,7 @@ Los Magistrados y Jueces que integran el Poder Judicial son absolutamente indepe
 
 ## TITULO SEPTIMO. DE LOS MUNICIPIOS
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 1984)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 51.
 
@@ -1115,39 +1115,31 @@ El Supremo Tribunal de Justicia del Estado residirá en la Capital del Estado, s
 
 ###### ARTICULO 58.
 
-La base de la división territorial y de la organización política y administrativa del Estado es el Municipio Libre.
+La base de la división territorial y de la organización política y administrativa del Estado de Chiapas es el Municipio Libre.
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1997)</small>
+Cada municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal, un Síndico y el número de Regidores que esta Constitución determina. La competencia que la misma otorga al Gobierno Municipal, se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el Gobierno del Estado.
 
-Para la administración de los municipios habrá Ayuntamientos electos en forma directa, periódica y mediante sufragio universal, libre, secreto y directo en los términos que disponga la Legislación Electoral. No habrá ninguna autoridad entre los municipios y el Gobierno del Estado.
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 59.
 
 Los Ayuntamientos estarán integrados por:
 
-Un Presidente, un Síndico y tres Regidores Propietarios y sus suplentes de mayoría relativa en aquellos municipios cuya población no exceda de 7,500 habitantes.
+Un Presidente, un Síndico y tres Regidores Propietarios y sus Suplentes de mayoría relativa en aquellos municipios cuya población no exceda de 7,500 habitantes.
 
-Un Presidente, un Síndico Propietario y un Suplente; seis regidores propietarios y tres suplentes de mayoría relativa en aquellos municipios cuya población sea de más de 7,500 habitantes y no exceda de 100,000 habitantes.
+Un Presidente, un Síndico propietario y un suplente; seis Regidores propietarios y tres suplentes de mayoría relativa en aquellos municipios cuya población sea de mas de 7,500 habitantes y no exceda de 100,000 habitantes.
 
-Un Presidente, un Síndico Propietario y un Suplente; ocho Regidores Propietarios y cuatro Suplentes de mayoría relativa en aquellos municipios cuya población sea de más de 100,000 habitantes.
+Un Presidente, un Síndico propietario y un Suplente; ocho Regidores propietarios y cuatro suplentes de mayoría relativa en aquellos municipios cuya población sea de más de 100,000 habitantes.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1995)</small>
+Además de los regidores electos por el sistema de mayoría relativa, en los municipios con población hasta de siete mil quinientos habitantes, los Ayuntamientos se integrarán con dos Regidores mas; de siete mil quinientos uno hasta cien mil habitantes, con cuatro Regidores mas y, de cien mil uno en adelante, con seis Regidores mas, los que serán electos según el principio de representación proporcional. La Ley Reglamentaria determinará las formulas y procedimientos para la asignación de estas Regidurías.
 
-Además de los regidores electos por el sistema de mayoría relativa, en los municipios con población hasta de siete mil quinientos habitantes, los ayuntamientos se integrarán con dos regidores más; más de siete mil quinientos uno hasta cien mil habitantes, con cuatro regidores mas y, de cien mil uno en adelante con seis regidores mas. Los que serán electos según el principio de representación proporcional. La Ley Reglamentaria determinará las fórmulas y procedimientos para la asignación de estas Regidurías.
+Los agentes y delegados municipales, serán nombrados y removidos en sesión plenaria por el Ayuntamiento del que dependan.
 
-Los agentes y delegados municipales serán nombrados y removidos en Sesión Plenaria por el Ayuntamiento del que dependan.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 60.
 
-La integración y atribuciones de los Ayuntamientos se sujetará a las siguientes bases:
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
-
-I.- Para ser miembro de un Ayuntamiento se requiere:
+Para ser miembro de un Ayuntamiento se requiere:
 
 A) Ser ciudadano chiapaneco por nacimiento en pleno goce de sus derechos;
 
@@ -1155,125 +1147,121 @@ B) Saber leer y escribir;
 
 C) No pertenecer al estado eclesiástico ni ser ministro de algún culto religioso;
 
-D) Ser originario del municipio, con residencia mínima de un año o ciudadano chiapaneco por nacimiento con una residencia mínima de 5 años en el municipio de que se trate;
+D) Ser originario del Municipio, con residencia mínima de un año o ciudadano chiapaneco por nacimiento con una residencia mínima de cinco años en el Municipio de que se trate;
 
-E) No prestar servicios a gobiernos o instituciones extranjeros; y
+E) No prestar servicios a Gobiernos o Instituciones Extranjeros; y
 
 F) Los demás que establezca la legislación respectiva.
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
-II.- Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa, durarán en su cargo tres años y no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación desempeñen las funciones propias de esos cargos, cualquiera que sea el nombre que se les dé, tampoco podrán ser electos para el siguiente período. Todos los funcionarios antes mencionados cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato como suplentes, pero los que tengan carácter de suplentes y no hayan estado en ejercicio podrán ser electos como propietarios para el siguiente período, los Ayuntamientos deberán tomar posesión el día primero de enero, siguiente a su elección. La prohibición anterior comprende a todos los miembros del Ayuntamiento sin importar el cargo que hayan desempeñado.
+###### ARTICULO 61.
 
-III.- (DEROGADA, P.O. 29 DE ABRIL DE 1995)
+Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa, durarán en su cargo tres años y no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación desempeñen las funciones propias de esos cargos, cualquiera que sea el nombre que se les dé, tampoco podrán ser electos para el siguiente período. Todos los funcionarios antes mencionados cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato como suplentes, pero los que tengan carácter de suplentes y no hayan estado en ejercicio podrán ser electos como propietarios para el siguiente período. La prohibición anterior comprende a todos los miembros del Ayuntamiento sin importar el cargo que hayan desempeñado.
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+Los Ayuntamientos deberán tomar posesión el día primero de enero, siguiente a su elección.
 
-IV.- Si por cualquier circunstancia no se hubiese efectuado la elección del Ayuntamiento en la fecha prevista o fuera declarada nula la elección, el Congreso del Estado tendrá la facultad para decidir la celebración de elecciones extraordinarias o para designar un Concejo Municipal integrado por un mínimo de tres y un máximo de cinco personas.
+Si por cualquier circunstancia no se hubiese efectuado la elección del Ayuntamiento en la fecha prevista o fuera declarada nula la elección, el Congreso del Estado tendrá la facultad para decidir la celebración de elecciones extraordinarias o para designar un Concejo Municipal integrado por un mínimo de tres y un máximo de cinco personas.
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar su desaparición y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves establecidas en la Ley Orgánica Municipal, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
-V.- El Congreso del Estado establecerá las bases normativas conforme a las cuales los Ayuntamientos ejercerán la facultad de expedir los bandos de policía y buen gobierno, así como los Reglamentos, Circulares y Disposiciones Administrativas de observancia general dentro de sus respectivas jurisdicciones.
+En caso de renuncia o falta definitiva de algunos de los miembros del Ayuntamiento, el congreso del estado designará, de entre los miembros del Ayuntamiento que quedaren, las sustituciones procedentes. En caso de declararse desaparecido un ayuntamiento o por renuncia o falta definitiva de la mayoría de sus miembros, el Congreso del Estado designará, un Concejo Municipal integrado por un mínimo de tres y un máximo de cinco personas que deberán cumplir los mismos requisitos señalados para ser miembro de un Ayuntamiento.
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+El Congreso del Estado designará de entre los vecinos que gocen de buena reputación y sobresalgan por sus méritos culturales y sociales a los integrantes de los Concejos Municipales encargados de concluir los períodos respectivos.
 
-VI.- Los Municipios de la entidad con el concurso del Poder Ejecutivo del Estado, cuando así sea necesario y lo establezcan las leyes, tendrán a su cargo los siguientes servicios públicos:
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
-A) Agua potable y alcantarillado;
+###### ARTICULO 62.
 
-B) Alumbrado publico;
+Los Ayuntamientos ejercerán sus atribuciones conforme a las siguientes bases:
 
-C) Limpia;
+I.- Tendrán facultades para aprobar, de acuerdo con la Ley, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
 
-D) Mercados y centrales de abasto;
+Conforme al párrafo anterior, la Ley establecerá las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad; asimismo, las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes.
+
+II.- Los municipios del Estado tendrán a su cargo las funciones y servicios públicos siguientes:
+
+A) Agua Potable, Drenaje, Alcantarillado, Tratamiento y Disposición de sus Aguas Residuales;
+
+B) Alumbrado Público;
+
+C) Limpia, Recolección, Traslado, Tratamiento y Disposición Final de Residuos;
+
+D) Mercados y Centrales de Abasto;
 
 E) Panteones;
 
 F) Rastro;
 
-G) Banquetas, calles, bardas, parques y jardines;
+G) Calles, Parques y Jardines y su Equipamiento;
 
-H) Seguridad pública; e
+H) Seguridad Publica, en los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, Policía Preventiva Municipal y Tránsito; e
 
-I) Los demás que determine el Congreso del Estado, tomando en cuenta las condiciones territoriales y socioeconómicas y la capacidad administrativa y financiera de cada municipio.
+I) Los Demás que el Congreso del Estado determine según las condiciones Territoriales y socio-económicas de los Municipios, así como su capacidad Administrativa y Financiera.
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+Cuando a juicio de un Ayuntamiento sea necesario, podrá celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de alguna de las funciones o servicios públicos previstos en esta fracción, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
 
-VII.- Los Municipios administrarán libremente su hacienda, la cual se integrará con los rendimientos de los bienes que les pertenezcan, así como con las contribuciones y demás ingresos que el Congreso del Estado establezca a su favor, y en todo caso:
+La Ley establecerá las normas generales para que el Gobierno del Estado asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, el Congreso del Estado considere que el Municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del Ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes.
 
-A) Percibirán las contribuciones, incluyendo las tasas adicionales que establezca el Congreso del Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles. Los Ayuntamientos podrán celebrar convenios de participación con el titular del Ejecutivo del Estado, con objeto de que éste ultimo se haga cargo de alguna de las funciones relacionadas con la administración de esas contribuciones;
+Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la mas eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En todo caso y tratándose de la asociación de Municipios del Estado y uno o más de otras entidades federativas, deberán contar con la aprobación de las Legislaturas respectivas.
 
-B) Las participaciones federales, que serán cubiertas por la Federación a los Municipios, con arreglo a las bases, montos y plazos que anualmente determine el Congreso del Estado; y
+Sin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios públicos señalados en esta fracción, los municipios observarán lo dispuesto por las Leyes Federales y Estatales.
 
-C) Los ingresos que se deriven de la prestación de los servicios públicos a su cargo.
+III.- Los municipios administrarán libremente su Hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que la Ley establezca a su favor, y en todo caso:
 
-El Congreso del Estado tendrá la facultad de establecer las contribuciones referidas en los incisos a) y c), sin que pueda en ningún caso concederse exenciones o subsidios a favor de personas físicas o morales, ni de instituciones oficiales o privadas, respecto de dichas contribuciones pues únicamente los bienes del dominio publico de la Federación, de los Estados o de los Municipios, estarán exentos del pago de las mencionadas contribuciones.
+A) percibirán las contribuciones, incluyendo tasas adicionales, que establezca el congreso del Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora así como las que tengan por base el cambio de valor de los inmuebles.
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+Los Municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.
 
-VIII.- Podrá igualmente el Congreso establecer las contribuciones sobre los servicios a que aluden los incisos a), b), c) y g) de la fracción VI de este Artículo;
+B) Las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las Bases, Montos Y Plazos que Anualmente determine el Congreso del Estado.
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+C) Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
-IX.- Para dar cumplimiento a las atribuciones contenidas en el presente Artículo, se celebrarán convenios de fortalecimiento municipal entre el titular del Ejecutivo Estatal y los Ayuntamientos de cada Municipio, los que deberán ser sancionados por el Congreso del Estado;
+Las Leyes Estatales no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de las contribuciones señaladas en los incisos a) y c). Sólo estarán exentos los bienes de dominio publico de la Federación, del Estado o del Municipio, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+Los Ayuntamientos, en el ámbito de su competencia, propondrán al Congreso del Estado las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
-X.- Los Municipios del Estado, previo acuerdo entre sus Ayuntamientos, con la sanción del Congreso del Estado y con sujeción a la Ley podrán coordinarse para mejorar la prestación de los servicios públicos que tengan a su cargo;
+El Congreso del Estado aprobará las leyes de ingresos de los Municipios, revisará, fiscalizará y en su caso aprobará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles.
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+Los recursos que integran la Hacienda Municipal serán ejercidos en forma directa por los Ayuntamientos, o bien, por quien ellos autoricen, conforme a la Ley.
 
-XI.- Es facultad del Congreso del Estado, aprobar las Leyes de Ingresos para los municipios y revisar sus cuentas públicas;
+IV.- El Congreso del Estado emitirá las normas que establezcan los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los municipios y el Gobierno del Estado, o entre aquellos, con motivo de los actos derivados de las fracciones II y III anteriores;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+V.- Los Municipios estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la Ley. La misma señalará los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento; asimismo, establecerá las normas de aplicación general para celebrar los convenios con el Estado en materia de servicios públicos y administración de contribuciones.
 
-XII.- Los Ayuntamientos tendrán la facultad de aprobar sus propios presupuestos;
+VI.- Los municipios, en los términos de las Leyes Federales y Estatales relativas, estarán facultados para:
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+A) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
 
-XIII.- Los Ayuntamientos deberán remitir cada año al Congreso del Estado, en su primer período de sesiones ordinarias, para su sanción y publicación en su caso, los presupuestos por programa que deban desarrollar en el siguiente ejercicio, y en el segundo período de sesiones ordinarias deberán enviar las cuentas del ejercicio anterior;
+B) Participar en la creación y administración de sus reservas territoriales;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+C) Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando el Estado elabore proyectos de desarrollo regional deberá asegurar la participación de los Municipios;
 
-XIV.- El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, o en su caso la Comisión Permanente podrán suspender Ayuntamientos, declarar su desaparición y suspender o revocar el mandato a algunos de sus miembros, por alguna de las causas graves establecidas en la Ley Orgánica Municipal;
+D) Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+E) Intervenir en la regularización de la tenencia de la tierra urbana;
 
-XV.- El caso de renuncia o falta definitiva de algunos de los miembros del Ayuntamiento, el Congreso del Estado o la Comisión Permanente designará, de entre los miembros del Ayuntamiento que quedaren, las sustituciones procedentes. En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta definitiva de la mayoría de sus miembros, el Congreso del Estado o la Comisión Permanente designará, de las propuestas que para tal efecto haga el Gobernador del Estado, un Consejo Municipal integrado por un mínimo de tres y un máximo de cinco personas que deberán cumplir los mismo (sic) requisitos señalados por este artículo; y
+F) Otorgar licencias y permisos para construcciones;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+G) Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
 
-XVI.- El Congreso del Estado designará entre los vecinos más sobresalientes por sus méritos morales, culturales y sociales los Consejos Municipales encargados de concluir los períodos respectivos.
+H) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial; e
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 1984)</small>
+I) Celebrar Convenios para la administración y custodia de las zonas federales.
 
-###### ARTICULO 61.
+En lo conducente y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
 
-Los Municipios en los términos de las Leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar los programas de desarrollo urbano municipal y la zonificación prevista en ellos; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales, intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad con los fines señalados en el párrafo tercero del Artículo 27, de la Constitución General de la República, expedirán los reglamentos y disposiciones administrativas que consideren necesarios.
+VII.- La policía preventiva municipal estará al mando del Presidente Municipal, en los términos del Reglamento correspondiente. Aquella acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que este juzgue como de fuerza mayor o alteración grave del orden público.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1988)</small>
+El Ejecutivo Federal tendrá el mando de la fuerza pública en los lugares donde resida habitual o transitoriamente.
 
-Los municipios conurbados en el ámbito de su competencia, planearán y regularán de manera conjunta y coordinada, sujetándose a las leyes del Estado y a las federales de la materia, el desarrollo de los centros urbanos que por encontrarse situados en dos o más territorios municipales, formen o tiendan a formar una continuidad geográfica y demográfica, y supervisarán la explotación y aprovechamiento racional de los recursos naturales a efecto de preservar, proteger y conservar el equilibrio ecológico y el medio ambiente, dictando las medidas administrativas pertinentes.
+VIII.- Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán por las leyes que expida el Congreso del Estado con base en lo dispuesto en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, y sus disposiciones reglamentarias.
 
-El Estado podrá asimismo, previo convenio con la federación en los términos de Ley el ejercicio de funciones, la ejecución y operación de obras y prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
-
-El Estado podrá a su vez celebrar convenios con los Municipios para el efecto de que estos, asuman la atención de funciones o la prestación de los servicios referidos en el párrafo anterior.
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
-
-###### ARTICULO 62.
-
-Las relaciones de trabajo entre los Poderes del Estado y los municipios con sus respectivos trabajadores, se regirán por las leyes que expida el Congreso del Estado, con base en lo dispuesto en el Artículo 123 apartado "B", de la Constitución General de la República y sus disposiciones reglamentarias.
-
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 1984)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 63.
 
-Los Municipios tienen personalidad jurídica para todos los efectos legales.
-
-En Ningún caso podrán hacerse incorporaciones o segregaciones de un Municipio a otro sin la aprobación de la mayoría de los Ayuntamientos del Estado, los que deberán emitir su aprobación dentro de los siguientes 60 días contados a partir de la fecha en que se les someta a su consideración el asunto, de conformidad con lo dispuesto por la Ley reglamentaria.
-
-Su abstención significará aprobación. Dicho tramite deberá contar previamente con la aprobación del congreso del estado después de haber oído a los ayuntamientos interesados.
+En ningún caso podrán hacerse incorporaciones o segregaciones de un municipio a otro sin la aprobación de la mayoría de los Ayuntamientos del Estado, los que deberán emitir su aprobación dentro de los siguientes 60 días contados a partir de la fecha en que se les someta a su consideración el asunto, de conformidad con lo dispuesto por la Ley Reglamentaria. Su abstención significará aprobación. Dicho trámite deberá contar previamente con la aprobación del Congreso del Estado después de haber oído a los Ayuntamientos interesados.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -2388,3 +2376,29 @@ Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 3 DE DICIEMBRE DE 2000.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JUNIO DE 2001.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CONSTITUCION.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigencia el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Una vez que se cuente con la aprobación de la mayoría de los Ayuntamientos a la presente reforma, la Sexagésima Legislatura Constitucional del Estado, integrará de manera plural una Comisión especial para la reforma a la legislación secundaria en materia municipal.
+
+###### ARTICULO TERCERO.
+
+Las reformas a la legislación secundaria señaladas en el artículo transitorio que antecede deberán entrar en vigencia sesenta días después de que la mayoría de los Ayuntamientos den su aprobación a las presentes reformas a la Constitución Política del Estado.
+
+###### ARTICULO QUINTO.
+
+El Gobierno del Estado y Municipios realizarán los actos conducentes a efecto de que los Convenios que, en su caso, hubiesen celebrado con anterioridad, se ajusten a lo establecido en este decreto y a la Constitución y Leyes Locales.
+
+P.O. 20 DE JUNIO DE 2001.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
