@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2003-06-27"
+last_updated: "2003-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987.
 
@@ -339,7 +339,7 @@ Cuando el sujeto haya sido sentenciado por un delito que obedezca a la inclinaci
 
 ###### ARTICULO 33.
 
-La semilibertad implica alternación de periodos de privación de la libertad y de tratamiento en libertad. Se aplicará, según las circunstancias del caso del siguiente modo: Externación durante la semana de trabajo o educativa, con reclusión de fin de semana; salida de fin de semana, con reclusión durante el resto de ésta; o salida diurna, con reclusión nocturna. La duración de la semilibertad no podrá exceder de la correspondiente a la pena de prisión substituída (sic).
+La semilibertad implica alternación de periodos de privación de la libertad y de tratamiento en libertad. Se aplicará, según las circunstancias del caso del siguiente modo: Externación durante la semana de trabajo o educativa, con reclusión de fin de semana; salida de fin de semana, con reclusión durante el resto de ésta; o salida diurna, con reclusión nocturna. La duración de la semilibertad no podrá exceder de la correspondiente a la pena de prisión substituída.
 
 ### CAPITULO V. MULTA
 
@@ -619,7 +619,7 @@ La caución de no ofender consiste en la garantía que el órgano jurisdiccional
 
 Si desde que cause ejecutoria la sentencia que impuso la caución transcurre un lapso de tres años sin que el inculpado haya repetido el daño, el órgano jurisdiccional ordenará de oficio, o a solicitud de parte, la cancelación de la garantía.
 
-Si el inculpado no puede otorgar la garantía, ésta será substituída (sic) por vigilancia de la autoridad durante un lapso que no excederá de tres años.
+Si el inculpado no puede otorgar la garantía, ésta será subsituída (sic) por vigilancia de la autoridad durante un lapso que no excederá de tres años.
 
 ### CAPITULO I. REGLAS GENERALES
 
@@ -1155,7 +1155,7 @@ Cuando en las lesiones concurra alguna de las circunstancias a que se refiere el
 
 ###### ARTICULO 130.
 
-Si las lesiones se infieren en agravio de un menor o incapaz sujeto a la patria potestad, tutela, custodia o guarda, se privará al agente en el ejercicio de sus derechos, independientemente de las penas que correspondan conforme a los artículos anteriores de este Código.
+Si las lesiones se infieren en agravio de un menor o incapaz sujeto a la patria potestad, tutela, custodia o guarda, se privará al agente en el ejercicio de sus derechos, independientemente de las penas que correspondan conforme a los Artículos anteriores de este Código.
 
 ### CAPITULO I. OMISIÓN DE AUXILIO
 
@@ -1349,13 +1349,21 @@ VI. Cuando de esta conducta resulten graves daños físicos o mentales al ofendi
 
 VII. Cuando quien participe de cualquier manera en la comisión de este ilícito, sea servidor público encargado de prevenir, denunciar, investigar o juzgar la comisión de delitos.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1999)</small>
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2003)</small>
+
+VIII.- Que el sujeto activo tenga vínculos de parentesco, amistad, gratitud, confianza o relación laboral con el secuestrado o personas relacionadas con éste.
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2003)</small>
+
+IX. Que el sujeto activo sea o haya sido servidor público o se ostente como tal, relacionado con la seguridad pública o privada.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2003)</small>
 
 Si espontáneamente se pone en libertad a la persona, en las veinticuatro horas siguientes a la comisión del hecho y sin haber causado perjuicio, se aplicará la sanción que corresponda por el delito de privación de la libertad personal.
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 150 BIS. Independientemente de las sanciones que correspondan en los términos del artículo 150 de este código y fuera de las causas de exclusión del delito previstas por la ley, se sancionará con una pena de uno a ocho años de prisión y de doscientos a setecientos cincuenta días multa, al que:
+ARTICULO 150 BIS.- Independientemente de las sanciones que correspondan en los términos del artículo 150 de este código y fuera de las causas de exclusión del delito previstas por la ley, se sancionará con una pena de uno a ocho años de prisión y de doscientos a setecientos cincuenta días multa, al que:
 
 I. Actúe como intermediario en las negociaciones del rescate, sin el acuerdo de quienes representen o gestionen en favor de la víctima;
 
@@ -1370,6 +1378,20 @@ V. Efectúe el cambio de moneda nacional por divisas, sabiendo que es con el pro
 VI. Intimide a la víctima, a sus familiares hasta el segundo grado o a sus representantes o gestores, durante o después del secuestro, para que no colaboren con las autoridades competentes.
 
 No se aplicará sanción alguna a quien, habiendo realizado las conductas previstas en las fracciones III y IV de este artículo, sea ascendiente o descendiente consanguíneo o por adopción, cónyuge, concubina o concubinario o pariente colateral por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo, o que esté ligado al secuestrado por amor, respeto, gratitud o estrecha amistad.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2003)</small>
+
+ARTICULO 150 BIS UNO.- A quién simule encontrarse secuestrado, con el propósito de obtener un beneficio económico o con la intención de que alguien realice o deje de hacer una conducta cualquiera, se le impondrán de dos a ocho años de prisión y de cien a quinientos días multa.
+
+Al que instigue o ayude a otro para simular secuestro se le impondrá la penalidad señalada en el párrafo anterior.
+
+La pena se agravará hasta en una mitad más, si se obtiene el beneficio pretendido.
+
+Si espontáneamente se deja de simular la conducta, en las veinticuatro horas siguientes a la comisión del hecho, no se impondrá pena ni medida de seguridad alguna a no ser que los actos ejecutados u omitidos, constituyan por si mismos el delito, en cuyo caso se impondrá la pena o medida señalada por éste.
+
+Las conductas previstas por este artículo, serán perseguibles por querella, cuando el sujeto activo sea ascendiente o descendiente consanguíneo o por adopción, cónyuge, concubina o concubinario o pariente colateral por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo.
+
+En los demás casos será perseguible por oficio.
 
 ### CAPITULO II. ABUSOS DESHONESTOS
 
@@ -1653,7 +1675,7 @@ VIII.- Quebrantando la confianza o seguridad derivada de una relación de servic
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1999)</small>
 
-ARTICULO 183 BIS. Se sancionará con pena de uno a cinco años de prisión y de 100 a 500 días multa, al que a sabiendas de que un vehículo es robado y con independencia de las penas que le correspondan por la comisión de otros delitos:
+ARTICULO 183 BIS.- Se sancionará con pena de uno a cinco años de prisión y de 100 a 500 días multa, al que a sabiendas de que un vehículo es robado y con independencia de las penas que le correspondan por la comisión de otros delitos:
 
 I.- Sin consentimiento del que tenga derecho a otorgarlo, desmantele alguno o varios vehículos o comercialice conjunta o separadamente sus autopartes;
 
@@ -2185,13 +2207,13 @@ ORDEN EN EL DESARROLLO URBANO
 
 > <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2002)</small>
 
-Artículo 246 E.- Al que por sí o por interpósita persona transfiera o prometa transferir la posesión, la propiedad o cualquier otro derecho sobre uno o más lotes resultantes de fraccionar un predio, para que sean o puedan ser destinados para vivienda, comercio o industria, sin contar con la autorización para transferir expedida por las autoridades competentes, se le aplicarán de 2 a 8 años de prisión y de 120 hasta 400 días multa.
+Artículo 246 E. Al que por sí o por interpósita persona transfiera o prometa transferir la posesión, la propiedad o cualquier otro derecho sobre uno o más lotes resultantes de fraccionar un predio, para que sean o puedan ser destinados para vivienda, comercio o industria, sin contar con la autorización para transferir expedida por las autoridades competentes, se le aplicarán de 2 a 8 años de prisión y de 120 hasta 400 días multa.
 
 No se considerará fraccionamiento Irregular, para los efectos de este título, cuando un ascendiente transfiera la propiedad o posesión de partes de un inmueble a sus descendientes, pero estos deberán cumplir las normas aplicables según el tipo de propiedad de que se trate, tanto para escriturarlas a su favor o para ceder sus derechos a terceros.
 
 > <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2002)</small>
 
-Artículo 246 F.- Se aplicarán de 4 a 10 años de prisión y de 180 hasta 500 días multa a los autores intelectuales y a quienes instiguen o dirijan la conformación de un asentamiento humano irregular o promuevan un fraccionamiento irregular o a los funcionarios públicos que realicen actos u omisiones para alentar o permitir un asentamiento irregular.
+Artículo 246 F. Se aplicarán de 4 a 10 años de prisión y de 180 hasta 500 días multa a los autores intelectuales y a quienes instiguen o dirijan la conformación de un asentamiento humano irregular o promuevan un fraccionamiento irregular o a los funcionarios públicos que realicen actos u omisiones para alentar o permitir un asentamiento irregular.
 
 Para los efectos de este Título, se entiende por asentamiento humano irregular un grupo de personas que se establezcan o pretendan establecerse en un inmueble dividido o lotificado para fines de vivienda, comercio o industria sin contar con las autorizaciones expedidas por las autoridades competentes y por fraccionamiento irregular cualquier división de un predio en lotes sin tener las autorizaciones administrativas correspondientes.
 
@@ -2242,6 +2264,24 @@ II.- Hiciere uso de un documento verdadero expedido en favor de otro, como si lo
 III.- Exhiba una certificación de enfermedad o impedimento que no tenga, para eximirse de un servicio debido legalmente o de una obligación que la Ley le imponga, o
 
 IV.- A sabiendas haga uso indebido de cualquier documento, copia, testimonio o transcripción del mismo.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2003)</small>
+
+ARTICULO 232 BIS.- Se impondrán de tres a nueve años de prisión y multa por el equivalente de doscientos a cuatrocientos días de salario mínimo general vigente en la época en que se cometa el delito, al que, sin consentimiento de quien esté facultado para ello:
+
+I.- Produzca, imprima, enajene, distribuya, altere o falsifique, aún gratuitamente, adquiera, utilice, posea o detente, sin tener derecho a ello, boletos, contraseñas, fichas, tarjetas de crédito o débito y otros documentos que no estén destinados a circular y sirvan exclusivamente para identificar a quien tiene derecho a exigir la prestación que en ellos se consignan u obtener cualquier beneficio.
+
+II.- Altere, copie o reproduzca, indebidamente, los medios de identificación electrónica de boletos, contraseñas, fichas u otros documentos a que se refiere la fracción I de este artículo.
+
+III.- Acceda, obtenga, posea, utilice o detente indebidamente información de los equipos electromagnéticos o sistemas de cómputo de las organizaciones emisoras del os boletos, contraseñas, fichas u otros documentos a los que se refiere la fracción I de este artículo o de módem o cualquier medio de comunicación remota y los destine a alguno de los supuestos que comprende el presente artículo, y
+
+IV. Adquiera, utilice o detente equipos electromagnéticos, electrónicos o de comunicación remota para sustraer en forma indebida la información contenida en la cinta magnética de los boletos, contraseñas, fichas, tarjetas de crédito, tarjetas de débito u otros documentos a los que se refiere este artículo o de archivos de datos de las emisoras de los documentos.
+
+Las mismas penas se impondrán a quién utilice o revele indebidamente información confidencial o reservada de la persona física o jurídica que legalmente esté facultada para emitir los boletos, contraseñas, fichas u otros documentos a los que se refiere la fracción I de este artículo, con el propósito de obtener beneficio aunque no sea económico y no autorizadas por la persona emisora o bien, por los titulares de los boletos, contraseñas, fichas u otros documentos a los que se refiere este artículo.
+
+Si el sujeto activo es empleado, dependiente del ofendido o servidor público las penas se aumentaran en una mitad.
+
+En el caso de que se actualicen otros delitos con motivo de las conductas a que se refiere este artículo se aplicarán las reglas del concurso.
 
 ###### ARTICULO 233.
 
@@ -2793,7 +2833,7 @@ Al que de palabra o de obra insulte o injurie a una autoridad en el ejercicio de
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 285 BIS. Al que cometa un delito en contra de un servidor público en el acto de ejercer sus funciones o con motivo de ellas, cuando se tenga conocimiento de esa circunstancia, se le aplicarán de uno a cinco años de prisión, además de la que le corresponda por el delito cometido.
+ARTICULO 285 BIS.- Al que cometa un delito en contra de un servidor público en el acto de ejercer sus funciones o con motivo de ellas, cuando se tenga conocimiento de esa circunstancia, se le aplicarán de uno a cinco años de prisión, además de la que le corresponda por el delito cometido.
 
 ###### ARTICULO 286.
 
@@ -3359,7 +3399,7 @@ P.O. 16 DE JULIO DE 1999
 
 ###### ARTICULO UNICO.
 
-La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+La presente Ley entrará en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"
 
 P.O. 15 DE OCTUBRE DE 1999
 
@@ -3468,3 +3508,9 @@ P.O. 27 DE JUNIO DE 2003
 PRIMERO.- La presente Ley entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
 
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+P.O. 3 DE OCTUBRE DE 2003.
+
+Primero.- La presente ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
