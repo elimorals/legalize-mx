@@ -4,7 +4,7 @@ identifier: "SON-ley-de-adquisiciones-arrendamientos-y-prestacion-de-15817"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-08"
-last_updated: "1988-12-08"
+last_updated: "1992-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACION PUBLICA ESTATAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE DICIEMBRE DE 1992.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 8 de diciembre de 1988.
 
@@ -61,17 +61,23 @@ III.- Sector: El agrupamiento de entidades coordinadas por la dependencia que, e
 
 IV.- Dependencia coordinadora de sector: Las dependencias a que se refiere la fracción anterior.
 
-V.- Adquisiciones, arrendamientos y servicios: Las adquisiciones de bienes muebles, los arrendamientos de bienes muebles y la prestación de servicios relacionados con dichos bienes, respectivamente; y
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 1992)</small>
 
-VI.- Bienes muebles: Los conceptualizados con este carácter en el Código Civil para el Estado de Sonora, con excepción de los señalados en los artículos 920, 922 y 925 del citado ordenamiento.
+V.- Adquisiciones, arrendamientos y servicios: las adquisiciones de bienes muebles, los arrendamientos de bienes muebles y la prestación de servicios relacionados con dichos bienes, respectivamente;
+
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+VI.- Bienes muebles: los conceptualizados con este carácter en el Código Civil para el Estado de Sonora, con excepción de los señalados en los artículos 920, 922 y 925 del citado ordenamiento; y
+
+> <small>(ADICIONADA, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+VII.- Secretaría: La Secretaría de Planeación del Desarrollo y Gasto Público.
+
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 3o.
 
-El Gobernador del Estado proveerá en la esfera administrativa, a la exacta observancia de la presente Ley, y aplicará la misma por conducto de Oficialía Mayor, sin perjuicio de la intervención que corresponda a otras dependencias del Poder Ejecutivo, conforme a éste o a otros ordenamientos legales.
-
-La Oficialía Mayor, en el ámbito de su competencia, queda facultada para interpretar la presente ley para efectos administrativos, así como para expedir, previo acuerdo del titular del Poder Ejecutivo, las disposiciones complementarias de carácter general que requiera la aplicación de este ordenamiento y de sus disposiciones reglamentarias.
-
-Previamente a la expedición de las disposiciones de carácter general a que se refiere el párrafo anterior, Oficialía Mayor deberá considerar la opinión que emita la Comisión Intersecretarial Consultiva de Adquisiciones, Arrendamientos y Servicios a que se refiere el artículo 11 de la presente Ley.
+La Secretaría, la Secretaría de Finanzas y la Secretaría de la Contraloría General del Estado, en el ámbito de sus respectivas competencias quedan facultadas para interpretar esta Ley, para efectos administrativos.
 
 ###### ARTICULO 4o.
 
@@ -83,9 +89,11 @@ Las adquisiciones, arrendamientos y servicios, que se realicen con cargo total o
 
 Para lo anterior, se especificará en los mencionados convenios, la intervención que corresponda a las dependencias y entidades respectivas y se pactará, en su caso, la participación de los grupos sociales interesados.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 6o.
 
-Las especificaciones técnicas para la selección, adquisición y arrendamiento de los equipos de computación, relacionados con el Sistema Estatal de Información, serán establecidos por la Secretaría de Planeación del Desarrollo, sujetándose la formalización de estas operaciones, a lo previsto por el presente ordenamiento y a las disposiciones que deriven de éste.
+Las especificaciones técnicas para la selección, adquisición y arrendamiento de los equipos de computación, relacionados con el Sistema Estatal de Información, serán establecidos por la Secretaría, sujetándose la formalización de estas operaciones, a lo previsto por el presente ordenamiento y a las disposiciones que deriven de éste.
 
 Asimismo, las adquisiciones de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble, necesarios para la realización de obras públicas por administración directa o los que suministren las dependencias y entidades de acuerdo a lo pactado en los contratos de obra pública, deberán realizarse conforme a lo establecido en esta Ley y en las normas que se dicten con base en ella.
 
@@ -95,11 +103,15 @@ Sin perjuicio de lo que esta Ley establece, el gasto de las adquisiciones, los a
 
 ###### ARTICULO 8o.
 
-Las dependencias y entidades, por conductos de sus órganos competentes y en los términos de la Ley General de Bienes del Estado de Sonora, deberán llevar y mantener permanentemente actualizados los catálogos e inventarios de los bienes muebles que tengan a su servicio. Dichos catálogos e inventarios deberán ser remitidos a la Oficialía Mayor, para la integración de los catálogos e inventarios generales de los bienes del dominio del Poder Ejecutivo.
+(DEROGADO, B.O. 28 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 9o.
 
 Las dependencias y entidades quedan obligadas a mantener los bienes muebles adquiridos en condiciones apropiadas de operación, mediante la práctica de acciones de mantenimiento y conservación, y a vigilar que los mismos se destinen al cumplimiento de los programas y acciones previamente determinados.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+Para los efectos del párrafo anterior, las dependencias y entidades, en los contratos respectivos, pactarán el suministro oportuno por parte del proveedor, de las piezas, repuestos, refacciones y, en general, de los elementos necesarios para mantener en operación permanente los bienes adquiridos o arrendados.
 
 ###### ARTICULO 10.
 
@@ -111,15 +123,21 @@ II.- El mejoramiento del sistema de adquisiciones, arrendamientos y servicios; y
 
 III.- Para cualquier otra actividad vinculada con el objeto de esta Ley.
 
-### CAPITULO II. DE LA COMISION INTERSECRETARIAL CONSULTIVA DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS
+> <small>(REFORMADA SU DENOMINACION, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+### CAPITULO II. DE LOS COMITES Y COMISIONES DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS
+
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 11.
 
-Se crea la Comisión Intersecretarial Consultiva de Adquisiciones, Arrendamientos y Servicios, como un órgano de asesoría y consulta para la aplicación de esta Ley. Dicha Comisión se integrará bajo la presidencia del titular de Oficialía Mayor y con los titulares de la Tesorería General del Estado y de las Secretarías de Planeación del Desarrollo y de la Contraloría General del Estado.
+Las dependencias establecerán comités que tendrán por objeto determinar las acciones tendientes a la optimización de recursos que se destinen a las adquisiciones, arrendamientos y servicios; coadyuvar a la observancia de esta Ley y demás disposiciones aplicables, así como que se cumplan las metas establecidas.
 
-La Comisión podrá invitar a sus sesiones a representantes de otras dependencias y entidades, a si como de los sectores social y privado, cuando por la naturaleza de los asuntos que deba tratar, se considere pertinente su participación.
+Los órganos de gobierno de las entidades establecerán dichos comités, cuando por la naturaleza de sus funciones o por la magnitud de sus operaciones, se justifique su instalación.
 
-El Gobernador del Estado establecerá, en el reglamento correspondiente, las bases para la organización y funcionamiento de esta Comisión.
+La Secretaría determinará que dependencias y entidades deberán instalar Comisiones Consultivas Mixtas de Abastecimiento, en función del volumen e importancia de las adquisiciones, arrendamientos y servicios, de procedencia extranjera que lleven a cabo o contraten aquéllas.
+
+En el reglamento se establecerán las bases de integración y funcionamiento de los comités y comisiones.
 
 ### CAPITULO III. DE LA PLANEACION, PROGRAMACION Y PRESUPUESTACION DE LAS ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS
 
@@ -165,15 +183,23 @@ X.- La inclusión, de preferencia, de insumos, material, equipo, sistemas y serv
 
 La elaboración de los programas de adquisiciones, arrendamientos y servicios se llevará a cabo con base en la información que, en forma obligatoria, deberán proporcionar las diversas unidades administrativas de las dependencias y entidades, sobre sus necesidades reales; dichos programas deberán contener la desagregación que sea necesaria, para incluir en ellos todos los bienes muebles que se proyecte adquirir o arrendar y los servicios relacionados con bienes muebles que se pretendan utilizar, así como las fechas en que se requieran los mismos.
 
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+Las entidades remitirán sus programas y presupuestos de adquisiciones, arrendamientos y servicios, a la dependencia coordinadora de sector en la fecha que ésta señale.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+Las dependencias coordinadoras de sector y, en su caso, las entidades que no se encuentren agrupadas en sector alguno, enviarán a la Secretaría los programas y presupuestos mencionados en la fecha que ésta determine, para verificar la relación que guarden dichos programas con los objetivos y prioridades del Plan y de los programas sectoriales, institucionales, regionales y especiales que, en su caso, les corresponda ejecutar.
+
 ###### ARTICULO 15.
 
-Las dependencias, una vez aprobado su presupuesto de egresos, enviarán a la Oficialía Mayor sus programas de adquisiciones, arrendamientos y servicios; dichos programas podrán modificarse por las causas que precise el Reglamento de la presente Ley, debiéndose comunicar tal circunstancia, en todos los casos, a la Oficialía Mayor.
+(DEROGADO, B.O. 28 DE DICIEMBRE DE 1992)
+
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 16.
 
-El titular del Poder Ejecutivo Estatal, con base en los programas de adquisiciones, arrendamientos y servicios de las dependencias, podrá determinar anualmente, previa opinión de la Oficialía Mayor y mediante acuerdo de carácter general, los bienes de uso generalizado o respectivo, cuya adquisición o contratación deberá llevarse a cabo por Oficialía Mayor, con el objeto de ejercer el poder de compra del sector público estatal, de apoyar las áreas prioritarias del desarrollo y de obtener las mejores condiciones en cuanto a precio, oportunidad, calidad y financiamiento.
-
-Previamente a la emisión de la opinión a que se refiere el párrafo anterior, la Oficialía Mayor deberá de someter la misma a la consideración de la Comisión Intersecretarial Consultiva de Adquisiciones, Arrendamientos y Servicios.
+La Secretaría, mediante disposiciones de carácter general, podrá determinar los bienes y servicios de uso generalizado, cuya adquisición o contratación, en forma consolidada, llevarán a cabo directamente las dependencias y entidades con objeto de ejercer el poder de compra del sector público, apoyar las áreas prioritarias del desarrollo y obtener las mejores condiciones en cuanto a precio y oportunidad.
 
 ###### ARTICULO 17.
 
@@ -185,21 +211,25 @@ Las dependencias y entidades se abstendrán de formalizar o modificar pedidos y 
 
 Las adquisiciones, según los requerimientos de cada caso, se llevarán a cabo mediante el fincamiento de pedidos o la adjudicación de contratos.
 
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 19.
 
-En la administración pública directa, los pedidos o contratos de adquisiciones se adjudicarán por Oficialía Mayor salvo las excepciones expresamente señaladas en este ordenamiento, a través de licitación pública, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado que será abierto públicamente a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo a lo que establece la presente Ley.
+Las adquisiciones se adjudicarán o llevarán a cabo a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado que será abierto públicamente a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo a lo que establece la presente Ley.
 
-En la administración pública paraestatal, las entidades, a través de las unidades administrativas que determinen sus órganos de gobierno, realizarán las licitaciones públicas a que se refiere este artículo.
+Se exceptúan de lo dispuesto en el párrafo anterior, los casos en que el pedido o contrato sólo pueda fincarse o celebrarse con una determinada persona, por ser ésta la titular de la o las patentes de los bienes de que se trate.
 
-Se exceptúan de lo dispuesto en el párrafo anterior, aquellos casos en que el pedido o contrato sólo pueda celebrarse con una determinada persona, por ser ésta la titular de la o las patentes de los bienes de que se trate.
+En ningún caso las dependencias o entidades podrán financiar a proveedores la adquisición de bienes cuando éstos vayan a ser objeto de adquisición por parte de las propias dependencias o entidades. No se considerará como operación de financiamiento el otorgamiento de anticipos, los cuales en todo caso, deberán garantizarse en los términos del artículo 22 de la presente Ley.
 
-La Oficialía Mayor deberá enviar copia de la convocatoria a la Secretaría de la Contraloría General del Estado, en el momento en que sea expedida, así como aquellos documentos complementarios que esta dependencia le requiera. Las entidades además de cumplir con la obligación anterior, deberán remitir dicha documentación a la dependencia coordinadora de sector que corresponda.
+Las dependencias deberán enviar copia de la convocatoria a la Secretaría de la Contraloría General del Estado, en el momento en que sea expedida, así como aquellos documentos complementarios que esta dependencia le requiera. Las entidades además de cumplir con la obligación anterior, deberán remitir dicha documentación a la dependencia coordinadora de sector que corresponda.
 
 ###### ARTICULO 20.
 
 Las convocatorias públicas, que podrán referirse a uno o varios pedidos o contratos, se publicarán, al menos, en uno de los periódicos de mayor circulación en el Estado y contendrán, enunciativamente:
 
-I.- El nombre de quien la expida.
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+I.- El nombre, denominación o razón social de la dependencia o entidad convocante.
 
 II.- La descripción general, cantidad y unidad de medida de cada uno de los bienes muebles que sean objeto de la licitación.
 
@@ -235,27 +265,29 @@ III.- El cumplimiento de los pedidos o contratos.
 
 Las garantías a que se refiere el artículo anterior se constituirán por el proveedor a favor y satisfacción de:
 
-I.- La Tesorería General del Estado, por pedidos o contratos que se celebren con la Oficialía Mayor o con las dependencias.
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+I.- La Secretaria de Finanzas, por actos o contratos que se celebren con las unidades adscritas directamente al Ejecutivo o a las dependencias de la administración pública directa.
 
 II.- Las entidades, cuando los pedidos o contratos se celebren con ellas; y
 
 III.- Las Tesorerías Municipales, en el supuesto a que se refiere el artículo 5o. de esta Ley.
 
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 24.
 
-La Oficialía Mayor y las entidades convocantes, con base en el análisis comparativo de las proposiciones emitidas y en su propio presupuesto, emitirán un dictamen que servirá como fundamento para el fallo, mediante el cual se adjudicará el pedido o contrato a la persona que, de entre los proponentes, reúna las condiciones legales, técnicas y económicas requeridas por la convocante y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
+La dependencia o entidad convocante, con base en el análisis comparativo de las proposiciones admitidas y en su propio presupuesto, emitirá un dictamen que servirá como fundamento para el fallo, mediante el cual se adjudicará el pedido o contrato a la persona que, de entre los proponentes, reúna las condiciones legales, técnicas y economices requeridas por la convocante y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
 
-La Oficialía Mayor, previamente a la emisión del dictamen a que se refiere el párrafo anterior, deberá recabar la opinión de la dependencia solicitante del bien mueble relativo cuando éste sea de uso especializado.
+Si resultare que dos o más proposiciones satisfacen los requerimientos de la convocante, el pedido o contrato se adjudicará a quien presente la proposición solvente más baja.
 
-Si resultare que dos o más proposiciones satisfacen los requerimientos de la convocante, el pedido o contrato se adjudicará a quien presente la postura más baja.
+El fallo de la licitación se hará saber a cada uno de los participantes en el acto de apertura de ofertas y salvo que esto no fuere factible, dentro de un término que no podrá exceder de 10 días hábiles, contados a partir de la fecha de celebración del acto de apertura de ofertas.
 
-El fallo de la licitación se hará saber a cada uno de los participantes dentro de un término que no podrá exceder de 10 días hábiles, contados a partir de la fecha de celebración del acto de apertura de ofertas.
+La dependencia o entidad convocante levantará acta circunstanciada del acto de apertura de ofertas, que firmarán las personas que en él hayan intervenido y en la que se hará constar el fallo de la licitación, cuando éste se produzca en el acto de apertura de ofertas. Se asentarán, asimismo, las observaciones que, en su caso, hubiesen manifestado los participantes.
 
-La Oficialía Mayor o las entidades convocantes deberán levantar acta circunstanciada del acto de apertura de ofertas, que firmarán las personas que en él hayan intervenido. Se asentarán, asimismo, las observaciones que, en su caso, hubiesen manifestado los participantes.
+Contra la resolución que contenga el fallo no procederá recurso alguno; pero los interesados podrán inconformarse ante la convocante o ante la Secretaria de la Contraloría General del Estado, en los términos del artículo 36 de esta Ley.
 
-Contra la resolución que contenga el fallo no procederá recurso alguno.
-
-La Oficialía Mayor y las entidades, no adjudicarán el pedido o contrato cuando las posturas presentadas no fueran aceptables y procederán a expedir una nueva convocatoria.
+La dependencia o entidad convocante, no adjudicarán el pedido o contrato cuando las posturas presentadas no fueran aceptables y procederán a expedir una nueva convocatoria.
 
 ###### ARTICULO 25.
 
@@ -271,61 +303,73 @@ I.- Los montos máximos de las operaciones que las dependencias y entidades podr
 
 II.- Los montos de las operaciones que, siendo superiores a los que se refiere la fracción anterior, las dependencias y entidades podrán adjudicar al proveedor que cuente con la capacidad de respuesta inmediata, habiendo considerado, previamente, por lo menos tres propuestas.
 
-III.- Los montos de las operaciones, superiores a los señalados en las fracciones anteriores, que las dependencias y entidades podrán adjudicar al proveedor que ofrezca las mejores condiciones en cuanto a precio, calidad, financiamiento y oportunidad en el cumplimiento del pedido o contrato, habiendo considerado previamente por lo menos cinco propuestas.
+III.- (DEROGADA, B.O. 28 DE DICIEMBRE DE 1992)
 
-Las dependencias y entidades no adjudicarán el pedido o contrato cuando no se pudiese considerar el número de propuestas a que se refieren las fracciones II y III que anteceden, ya sea porque no se presentaron las mismas, o bien, porque alguna de ellas fue desechada. En este caso, se deberán emitir nuevas invitaciones, e igualmente se procederá cuando las posturas presentadas no fueren aceptables.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+Las dependencias y entidades no adjudicarán el pedido o contrato cuando no se pudiese considerar el número de propuestas a que se refiere la fracción II que antecede, ya sea porque no se presentaron las mismas, o bien, porque alguna de ellas fue desechada. En este caso, se deberán emitir nuevas invitaciones, e igualmente se procederá cuando las posturas presentadas no fueren aceptables.
 
 En la aplicación de este precepto, cada operación deberá considerarse individualmente, a fin de determinar si queda comprendida dentro de los montos máximos y límites que establezca el presupuesto de egresos del Estado; en la inteligencia de que, en ningún caso, el importe total de la misma podrá ser fraccionado para que quede comprendido, en los supuestos a que se refiere este artículo.
 
 Los montos máximos y límites, se fijarán atendiendo a la cuantía de la adquisición, considerada individualmente y en función del presupuesto total autorizado a las dependencias y entidades.
 
-En el supuesto de las fracciones II y III de este artículo, la invitación que se realice a los proveedores para participar en el procedimiento de adjudicación deberá contener la información señalada en el artículo 20 de este ordenamiento, debiéndose sujetar, dicho procedimiento, a lo establecido en el último párrafo del artículo 20 y a los artículos 21, 22 y 23, así como, en lo conducente, al artículo 24 de esta Ley.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+En el supuesto de la fracción II de este artículo, la invitación que se realice a los proveedores para participar en el procedimiento de adjudicación deberá contener la información señalada en el artículo 20 de este ordenamiento, debiéndose sujetar, dicho procedimiento, a lo establecido en el último párrafo del artículo 20 y a los artículos 21, 22 y 23, así como, en lo conducente, al artículo 24 de esta ley.
+
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 27.
 
-El Ejecutivo del Estado, sin llevar a cabo las licitaciones señaladas en esta Ley, autorizará el fincamiento de pedidos o la adjudicación de contratos de adquisiciones y establecerá los medios de control que estime pertinentes, en los siguientes casos:
+Las dependencias y entidades, bajo su responsabilidad, podrán fincar pedidos o celebrar contratos, sin llevar a cabo las licitaciones que establece el artículo 19 de esta Ley, en los supuestos que a continuación se señalan:
 
-I.- Cuando existan condiciones o circunstancias extraordinarias o imprevisibles.
+I.- Cuando peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de una zona o región del Estado, como consecuencia de desastres producidos por fenómenos naturales; por casos fortuitos o de fuerza mayor, o cuando existan circunstancias que puedan provocar trastornos graves, pérdidas o costos adicionales importantes.
 
-II.- Cuando peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de una zona o región del Estado, como consecuencia de desastres producidos por fenómenos naturales; por casos fortuitos o de fuerza mayor, o cuando existan circunstancias que puedan provocar trastornos graves, pérdidas o costos adicionales importantes; y
+II.- Cuando se trate de adquisiciones de bienes perecederos, granos y productos alimenticios básicos o semiprocesados y, bienes usados. Tratándose de éstos últimos, el precio de adquisición no podrá ser mayor al que se determine mediante avalúo que practicarán las instituciones de banca y crédito u otros terceros capacitados para ello conforme a las disposiciones aplicables.
 
-III.- Cuando los bienes muebles a adquirir sean esenciales y prioritarios, para la prestación del servicio de seguridad pública.
+III.- Cuando no existan por lo menos tres proveedores idóneos, previa investigación del mercado que al efecto se hubiere realizado.
+
+IV.- Cuando se hubiere rescindido el contrato o pedido respectivo. En estos casos la dependencia o entidad verificará previamente, conforme al criterio de adjudicación que establece el tercer párrafo del artículo 31 de esta Ley, si existe otra proposición que resulte aceptable; en cuyo caso, el pedido o contrato se fincará o celebrará con el proveedor respectivo.
+
+V.- Cuando se trate de la adquisición de bienes mediante operaciones no comunes de comercio; y
+
+VI.- Cuando se trate de adquisiciones cuya contratación se realice con campesinos o grupos urbanos marginados y que la dependencia o entidad contrate directamente con los mismos o con las personas constituidas por ellos.
+
+Para los casos previstos en las fracciones anteriores, se convocará a la o a las personas que cuenten con la capacidad de respuesta inmediata y los recursos que sean necesarios.
+
+El titular de la dependencia o entidad o, si éste lo autoriza, el Comité a que se refiere el artículo 11 de esta Ley, en un plazo que no excederá de 5 días hábiles, contados a partir de la fecha en que se hubiere autorizado la operación, lo hará del conocimiento de la Secretaría de la Contraloría General del Estado de la Secretaría y del órgano de gobierno tratándose de entidades, acompañando la documentación que justifique la autorización en los términos establecidos en el artículo 25 de esta Ley.
 
 ###### ARTICULO 28.
 
-La Oficialía Mayor y las entidades, bajo su responsabilidad, podrán fincar pedidos o celebrar contratos, sin llevar a cabo las licitaciones señaladas en este Capítulo, en los supuestos que a continuación se señalan:
-
-I.- Cuando se presente el supuesto señalado en el tercer párrafo del artículo 19 de la presente Ley;
-
-II.- Cuando se hubiere rescindido el contrato o pedido respectivo.
-
-III.- Cuando se hubiere declarado desierto el concurso, por no haberse presentado proposiciones en el procedimiento de licitación pública señalado en el artículo 19 de esta ley.
-
-IV.- Cuando se trate de adquisiciones de bienes perecederos, granos y productos alimenticios y semiprocesados.
+(DEROGADO, B.O. 28 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 29.
 
-Las dependencias, bajo su responsabilidad, podrán fincar pedidos y celebrar contratos sin llevar a cabo las licitaciones señaladas en este Capítulo, en los supuestos señalados en las fracciones I, II y IV del artículo anterior.
+(DEROGADO, B.O. 28 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 30.
 
-Para los casos previstos en los artículos 28 y 29 del presente ordenamiento, los titulares de las dependencias y entidades, convocarán a la o las personas que cuenten con la capacidad de respuesta inmediata y los recursos que sean necesarios.
+(DEROGADO, B.O. 28 DE DICIEMBRE DE 1992)
 
-Asimismo, en un plazo que no exceda de cinco días hábiles, contados a partir de la fecha en que se hubiere autorizado la operación, lo harán del conocimiento de la Secretaría de la Contraloría General del Estado, acompañando la documentación que justifique la autorización.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 31.
 
-Los pedidos o contratos que deban formalizarse como resultado de su adjudicación deberán suscribirse en un término no mayor de diez días hábiles, contados a partir de la fecha en que se hubiese notificado al proveedor el fallo o decidido la adjudicación de aquéllos, salvo que la Oficialía Mayor, las dependencias y entidades consideren indispensable la celebración de contratos preparatorios, para garantizar la operación; en este caso, la formalización del contrato definitivo deberá llevarse a cabo en un plazo no mayor de treinta días hábiles, contados a partir de la fecha señalada.
+Los pedidos o contratos que deban formalizarse como resultado de su adjudicación deberán suscribirse en un término no mayor de diez días hábiles, contados a partir de la fecha en que se hubiese notificado al proveedor el fallo o decidido la adjudicación de aquéllos, salvo que la dependencia o entidad considere indispensable la celebración de contratos preparatorios, para garantizar la operación; en este caso, la formalización del contrato definitivo deberá llevarse a cabo en un plazo no mayor de treinta días hábiles, contados a partir de la fecha señalada.
 
 En los contratos o pedidos a que refiere este artículo, podrán incorporarse las modalidades que tiendan a garantizar al Estado las mejores condiciones en las adquisiciones.
 
-El proveedor a quien se hubiere adjudicado el pedido o contrato, como resultado de una licitación, perderá en favor de la convocante la garantía que hubiere otorgado, si por causas imputables a él la operación no se formaliza dentro de los plazos a que se refiere este artículo, pudiendo la Oficialía Mayor, las dependencias y las entidades, en este supuesto, adjudicar el contrato o pedido al participante siguiente en los términos del primero y tercer párrafos del artículo 24 de esta Ley.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+El proveedor a quien se hubiere adjudicado el pedido o contrato, como resultado de una licitación, perderá en favor de la convocante la garantía que hubiere otorgado, si por causas imputables a él la operación no se formaliza dentro de los plazos a que se refiere este artículo pudiendo las dependencias y las entidades, en este supuesto, adjudicar el contrato o pedido al participante siguiente en los términos del primero y segundo párrafos del artículo 24 de esta Ley.
 
 Los derechos y obligaciones que se deriven de los pedidos o contratos, una vez adjudicados, no podrán cederse, en forma parcial o total, en favor de cualquiera otra persona física o moral.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 32.
 
-Dentro de los presupuestos aprobados y disponibles, la Oficialía Mayor, las dependencias y las entidades podrán, bajo su responsabilidad y por razones fundadas, modificar sus pedidos o contratos, dentro del año fiscal en que se realizó la operación, siempre que el monto total de las modificaciones no rebase, en conjunto, el treinta por ciento de los conceptos y volúmenes establecidos originalmente en los mismos.
+Dentro de los presupuestos aprobados y disponibles, las dependencias y las entidades podrán, bajo su responsabilidad y por razones fundadas, modificar sus pedidos o contratos, dentro del año fiscal en que se realizó la operación, siempre que el monto total de las modificaciones no rebase, en conjunto, el treinta por ciento de los conceptos y volúmenes establecidos originalmente en los mismos.
 
 Tratándose de pedidos o contratos, en los que se incluyan bienes de diferentes características, el porcentaje se aplicará para cada bien de que se trate.
 
@@ -339,13 +383,17 @@ II.- Las que se encuentren en situación de mora, por causas imputables a ellas 
 
 III.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de la Ley.
 
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 34.
 
-En la administración pública directa, las dependencias deberán radicar en la Tesorería General del Estado, conforme a las disposiciones que esta emita, los documentos que permitan pagar a los proveedores el precio estipulados en los pedidos o contratos a más tardar dentro del término que se señale en los mismos.
+En la administración pública directa, las dependencias deberán tramitar ante la Secretaría, los documentos que permitan gestionar su pago ante la Secretaria de Finanzas, conforme a las disposiciones aplicables.
+
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 35.
 
-Los proveedores quedarán obligados ante la Oficialía Mayor ante la dependencia o entidad que corresponda, a responder de los defectos y vicios ocultos de los bienes y de cualquiera otra responsabilidad en que hubieren incurrido, en los términos señalados en el pedido o contrato respectivo y en el Código Civil para el Estado de Sonora.
+Los proveedores quedarán obligados ante la dependencia o entidad que corresponda, a responder de los defectos y vicios ocultos de los bienes y de cualquiera otra responsabilidad en que hubieren incurrido, en los términos señalados en el pedido o contrato respectivo y en el Código Civil para el Estado de Sonora.
 
 ###### ARTICULO 36.
 
@@ -367,9 +415,11 @@ Asimismo, podrán darse por terminados los actos mencionados, cuando concurran r
 
 ### CAPITULO V. DE LOS ARRENDAMIENTOS Y SERVICIOS
 
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 39.
 
-El arrendamiento de bienes muebles, sólo podrá celebrarse cuando se demuestre que no es posible o conveniente su adquisición y siempre que la renta no exceda de los importes máximos que autorice la Oficialía Mayor.
+El arrendamiento de bienes muebles, sólo podrá celebrarse cuando se demuestre ante la Secretaría de Finanzas, que no es posible o conveniente su adquisición y siempre que la renta no exceda de los importes máximos que autorice la misma.
 
 ###### ARTICULO 40.
 
@@ -389,77 +439,37 @@ Asimismo, los contratos a que se refiere el artículo 10 de este ordenamiento po
 
 Según los requerimientos de cada caso y atendiendo a criterios de economía, oportunidad, eficiencia, simplificación y agilización de procedimientos y trámites, el Reglamento correspondiente de la presente Ley determinará los requisitos y condiciones para la celebración de los contratos de arrendamiento, así como para el suministro de los servicios a que se refiere el presente Capítulo.
 
-### CAPITULO VI. DEL PADRON DE PROVEEDORES DEL ESTADO
+> <small>(DEROGADA SU DENOMINACION, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+### CAPITULO VI
 
 ###### ARTICULO 44.
 
-La administración pública estatal, a través de Oficialía Mayor, llevará el Padrón de Proveedores del Estado y fijará los criterios y procedimientos para clasificar a las personas inscritas en él, de acuerdo con su especialidad, capacidad técnica, económica y domicilio.
-
-El registro en el Padrón tendrá una vigencia indefinida.
-
-Las personas inscritas en el Padrón podrán comunicar en cualquier tiempo a Oficialía Mayor, las modificaciones relativas a su capacidad técnica o económica, cuando tales circunstancias puedan implicar un cambio en su clasificación.
-
-La clasificación a que se refiere este artículo deberá ser considerada por Oficialía Mayor y las entidades en la convocatoria y formalización de las operaciones que regula esta Ley.
-
-Para los efectos de este ordenamiento el carácter de proveedor se adquiere con la inscripción a que se refiere este artículo; en consecuencia Oficialía Mayor, las dependencias y las entidades se abstendrán de exigir a los proveedores el que éstos se encuentren inscritos en cualquier otro registro que les otorgue el mismo carácter.
+(DEROGADO, B.O. 28 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 45.
 
-Las dependencias y entidades sólo podrán fincar pedidos o celebrar contratos con las personas inscritas en el Padrón, excepto en los casos señalados en el artículo 47 de este ordenamiento.
+(DEROGADO, B.O. 28 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 46.
 
-Las personas interesadas en inscribirse en el Padrón de Proveedores del Estado deberán solicitarlo por escrito y satisfacer los requisitos que establezca el reglamento correspondiente de esta Ley.
-
-Oficialía Mayor, dentro de un término que no excederá de quince días hábiles contados a partir de la fecha de recepción de la solicitud, resolverá sobre la inscripción en el Padrón o la modificación de la clasificación; transcurrido este plazo, sin que haya respuesta, se tendrá por inscrito al solicitante o por modificada su clasificación.
+(DEROGADO, B.O. 28 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 47.
 
-Quedan exceptuados de la obligación del registro en el Padrón de Proveedores del Estado:
-
-I.- Las personas que provean de artículos perecederos, granos, productos alimenticios básicos o semiprocesados.
-
-II.- Quienes provean bienes o presten servicios en las situaciones previstas en el artículo 27 de esta Ley.
-
-III.- Los campesinos, comuneros o grupos urbanos que contraten con las dependencias y entidades; y
-
-IV.- Aquellos que, exclusivamente, lleven a cabo operaciones con las dependencias y entidades, en las condiciones que señalan las fracciones I y II del artículo 26 del presente ordenamiento, o en el supuesto del tercer párrafo del artículo 19 de esta Ley.
+(DEROGADO, B.O. 28 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 48.
 
-Oficialía Mayor esta facultada para suspender el registro del proveedor cuando:
-
-I.- Se le declare en estado de quiebra o, en su caso, sujeto a concurso de acreedores;
-
-II.- No cumpla en sus términos, por causas imputables a él, con algún pedido o contrato a que se hubiere comprometido y perjudique con ello los intereses de la dependencia o entidad de que se trate, y
-
-III.- Se negare a dar las facilidades necesarias para que la dependencia facultada para ello conforme a la Ley, ejerza sus funciones de comprobación y verificación.
-
-Cuando desaparezcan las causas que hubieren motivado la suspensión del registro, el proveedor lo acreditará ante la Oficialía Mayor, la que dispondrá lo conducente a fin de que el registro del interesado vuelva a surtir todos sus efectos legales.
+(DEROGADO, B.O. 28 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 49.
 
-Oficialía Mayor podrá cancelar el registro del proveedor cuando:
-
-I.- La información que hubiere proporcionado para la inscripción, resultase falsa o haya actuada con dolo o mala fe en alguna licitación, para que la adjudicación del pedido o contrato o en su celebración o en su cumplimiento.
-
-II.- No cumpla en sus términos con algún pedido o contrato por causas imputables a él, y perjudique con ello gravemente los intereses de la dependencia o entidad afectada.
-
-III.- Incurra en actos, prácticas u omisiones que lesionen el interés general o los de la economía del Estado.
-
-IV.- Se declare su quiebra fraudulenta.
-
-V.- Haya aceptado pedidos, órdenes de servicios o firmado contratos en contravención a lo establecido por esta Ley por causas que le fueren imputables.
-
-VI.- Se le declare incapacitado legalmente para celebrar actos o contratos de los regulados por esta Ley, o
-
-VII.- Deje de reunir los requisitos necesarios para estar registrado en el Padrón de Proveedores.
+(DEROGADO, B.O. 28 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 50.
 
-Para negar la inscripción o modificación de la especialidad o determinar la suspensión o cancelación del registro en el Padrón de Proveedores, Oficialía Mayor observará el procedimiento establecido en el artículo 62 de esta Ley.
-
-Contra las resoluciones de negativa, suspensión o cancelación, el interesado podrá interponer recurso de revocación en los términos de este ordenamiento.
+(DEROGADO, B.O. 28 DE DICIEMBRE DE 1992)
 
 ### CAPITULO VII. DE LA INFORMACION Y VERIFICACION
 
@@ -495,17 +505,19 @@ I.- Que se advierta que existan o pudieran existir los supuestos a que se refier
 
 II.- Que no se siga perjuicio al interés social y no se contravengan disposiciones de orden público, y siempre que, de cumplirse las obligaciones, pudieran producirse daños o perjuicios a la dependencia o entidad correspondiente.
 
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 57.
 
-Emitida la resolución a que se refiere el artículo 55 de este ordenamiento, y sin perjuicio del fincamiento de las responsabilidades que procedan respecto a los servidores públicos, las dependencias y entidades deberán proceder en los términos del artículo 30 de este ordenamiento.
+Emitida la resolución a que se refiere el artículo 55 de este ordenamiento, y sin perjuicio del fincamiento de las responsabilidades que procedan respecto a los servidores públicos, las dependencias y entidades deberán proceder en los términos del artículo 27 de este ordenamiento.
 
 ### CAPITULO VIII. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 58.
 
-Los proveedores que infrinjan las disposiciones contenidas en esta Ley, podrán ser sancionados por la Oficialía Mayor, con multa equivalente a la cantidad de diez a mil veces el salario mínimo general vigente en la capital del Estado, en la fecha de cometerse la infracción.
-
-Sin perjuicio de lo anterior. Según la gravedad del acto u omisión de que los proveedores fueran responsables, los mismos podrán ser sancionados por la Oficialía Mayor, con la suspensión o cancelación de su registro en el Padrón de Proveedores del Estado.
+Los proveedores que infrinjan las disposiciones contenidas en esta Ley, podrán ser sancionados por la Secretaría, con multa equivalente a la cantidad de diez a mil veces el salario mínimo general vigente en la capital del Estado, en la fecha de cometerse la infracción.
 
 ###### ARTICULO 59.
 
@@ -551,9 +563,11 @@ Las responsabilidades a que se refiere el presente Capitulo, son independientes 
 
 ### CAPITULO IX. DEL RECURSO DE REVOCACION
 
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 65.
 
-En contra de las resoluciones señaladas en los artículos 50 y 55 de la presente Ley y de aquéllas que impongan las sanciones previstas en el artículo 58 de este ordenamiento, los interesados podrán interponer, ante la autoridad que hubiere emitido las mismas, recurso de revocación, dentro del término de quince días hábiles, contados a partir del día siguiente al de la notificación.
+En contra de las resoluciones señaladas en el artículo 55 de la presente Ley y de aquéllas que impongan las sanciones previstas en el artículo 58 de este ordenamiento, los interesados podrán interponer, ante la autoridad que hubiere emitido las mismas, recurso de revocación, dentro del término de quince días hábiles, contados a partir del día siguiente al de la notificación.
 
 ###### ARTICULO 66.
 
@@ -614,3 +628,15 @@ RODOLFO FELIX VALDES.
 EL SECRETARIO DE GOBIERNO,
 
 FRANCISCO JAVIER ALDANA MONTAÑO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 28 DE DICIEMBRE DE 1992.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la aplicación de la presente Ley.
