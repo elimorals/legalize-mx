@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-penales-para-el-estado-de-hidalgo-5391
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "1995-12-04"
+last_updated: "1996-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 1996.
+
+(REPUBLICADO DEL DECRETO NO. 129, P.O. 29 DE AGOSTO DE 1994)
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990
 
@@ -137,7 +139,7 @@ El derecho de defensa es inviolable en todo grado y estado de los procedimientos
 
 El inculpado que fuere detenido o que comparezca ante el ministerio público, tendrá derecho a la asistencia de un defensor en los términos de este Código, desde que se inicie la averiguación previa; a ser informado, en el momento de su detención, de las razones de la misma y a que se le reciban, cuando sean posible desahogar dentro del plazo legal, las pruebas que ofrezca en relación con los hechos imputados.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 14.
 
@@ -151,13 +153,13 @@ I.- Inmediatamente que lo solicite será puesto en libertad provisional bajo cau
 
 II.- Se le hará saber en audiencia pública, y dentro de las cuarenta y ocho horas siguientes a su consignación a la autoridad judicial, el nombre de su acusador y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo, rindiendo en este acto su declaración preparatoria;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 III.- Siempre que lo solicite, será careado en presencia del juez con quienes depongan en su contra;
 
 IV.- Le serán facilitados todos los datos que solicite para su defensa; y
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 V.- A una defensa adecuada, por sí, por abogado o por persona de su confianza. Si no quiere o no puede nombrar defensor, después de haber sido requerido para hacerlo, el juez en el proceso o el ministerio público durante la averiguación previa, le designarán un defensor de oficio. También tendrá derecho a que su defensor comparezca en todos los actos procedimentales y éste tendrá obligación de hacerlo cuantas veces se le requiera.
 
@@ -167,11 +169,11 @@ Si el procesado no quiere nombrar defensor, después de ser requerido para hacer
 
 La persecución de los delitos incumbe al ministerio público y a la policía judicial, la cual estará baja la autoridad y mando inmediato de aquél, la imposición de las penas y medidas de seguridad es propia y exclusiva de la autoridad judicial.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 La policía judicial del Estado actuará bajo la autoridad y el mando inmediato del ministerio público, de conformidad con lo dispuesto por el artículo 21 de la Constitución Federal. De acuerdo con las instrucciones que por escrito le dicte el ministerio público, la policía judicial desarrollará las diligencias que deban practicarse durante la averiguación previa y exclusivamente para los fines de ésta; llevará a cabo las citaciones, notificaciones, presentaciones u órdenes de detención que aquél disponga. Asimismo, la policía judicial ejecutara las órdenes de aprehensión, de comparecencia, de cateo y demás mandamientos que emita la autoridad judicial.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 Los auxiliares del ministerio público, actuarán en acatamiento de las órdenes que les giren las autoridades de la institución, debiendo remitir las actuaciones que practicaren con motivo de su función auxiliar, en un plazo que no exceda de setenta y dos horas. Podrán actuar de oficio o a petición de parte ofendida, cuando en el lugar no exista un agente del ministerio público o existan detenidos en flagrante delito, poniendo a disposición de la autoridad ministerial más próxima a los detenidos y actuaciones sin demora alguna.
 
@@ -289,7 +291,7 @@ En la averiguación previa corresponderá al ministerio público:
 
 I.- Recibir las denuncias, acusaciones o querellas que se le presenten en forma verbal o por escrito sobre hechos que puedan constituir delito;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 II.- Llevar acabo u ordenar la práctica de todos los actos conducentes a la comprobación de los elementos del tipo penal y de la probable responsabilidad del indiciado;
 
@@ -297,23 +299,23 @@ III.- Dictar todas las medidas y providencias necesarias para proporcionar segur
 
 IV.- Solicitar las órdenes de cateo que sean necesarias;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 V.- Ordenar la detención o retención de los indiciados, en los casos previstos por los párrafos cuarto, quinto y séptimo del artículo 16 constitucional y de conformidad a las disposiciones de este Código;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 VI.- Ordenar la libertad del indicado, inmediatamente que tenga conocimiento de su ilegal detención o, cuando por cualquier otra causa, proceda conforme a la ley;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 VII.- Conceder la libertad caucional al indiciado, conforme a las disposiciones constitucionales y de este Código;
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(ADICIONADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 VIII.- Decretar la medida cautelar del arraigo, en los casos y circunstancias que prevé este Código;
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(ADICIONADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 IX.- Determinar conforme a las disposiciones de este Código el ejercicio o no ejercicio de la acción penal o, en su caso, la reserva de las diligencias de averiguación previa; y
 
@@ -359,7 +361,7 @@ Para los efectos de este Código, tiene carácter de inculpado la persona a quie
 
 El inculpado y su defensor gozarán de todos los derechos que establecen la Constitución Política de los Estados Unidos Mexicanos, la del Estado, este Código y demás leyes penales.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 36.
 
@@ -441,7 +443,7 @@ Cuando en el proceso el juzgador notare que el defensor incumpla alguna de las o
 
 ### CAPITULO IV. EL OFENDIDO
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 43.
 
@@ -467,7 +469,7 @@ IX.- A formular conclusiones e interponer los recursos que prevé este Código e
 
 X.- Los demás que señalen las leyes.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 44.
 
@@ -897,7 +899,7 @@ En vista de lo que exprese el interesado y de las pruebas aportadas, el funciona
 
 ### CAPITULO I. DETENCION
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 117.
 
@@ -915,7 +917,7 @@ a).- El inculpado es perseguido materialmente sin interrupción hasta lograr su 
 
 b).- Alguien lo señale como autor o partícipe del delito y se encuentre en su poder el objeto del mismo, el instrumento con que se haya cometido o bien huellas o indicios que hagan presumir fundadamente su responsabilidad.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 118.
 
@@ -927,7 +929,7 @@ II.- Exista el riesgo fundado de que el indiciado pueda sustraerse a la acción 
 
 III.- No se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar u otra circunstancia.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 119.
 
@@ -995,7 +997,7 @@ Además, se califica como delito grave el homicidio previsto por el primer párr
 
 Para los delitos contenidos en leyes especiales, se califican como graves aquéllos cuyo término medio aritmético de la pena privativa de libertad exceda de cinco años.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 120.
 
@@ -1011,7 +1013,7 @@ El ministerio público evitará que el indiciado sea incomunicado, intimidado o 
 
 El ministerio público solicitará y el juez librará orden de aprehensión contra el inculpado, cuando estén reunidos los requisitos que señala el artículo 16 Constitucional.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 122.
 
@@ -1061,7 +1063,7 @@ Los miembros de la policía o del ejército, que estuvieren sujetos a prisión p
 
 ### CAPITULO III. ARRAIGO
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 132.
 
@@ -1083,7 +1085,7 @@ Cuando el procesado no deba ser internado en prisión preventiva y existan motiv
 
 Cuando en la averiguación previa como en el proceso, hubieren de declarar testigos que conozcan de los hechos motivo del procedimiento penal y hubiere la necesidad o el temor fundado de que se ausenten antes de que se les pueda declarar, podrá decretarse su arraigo, sólo por el tiempo indispensable para la práctica de las diligencias en que se señale deben intervenir. Si resultare que la solicitud fue infundada y por lo mismo innecesario el arraigo, el testigo podrá exigir al que lo solicitó que lo indemnice de los daños y perjuicios ocasionados, no así cuando el arraigo haya sido decretado de oficio.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 135.
 
@@ -2031,11 +2033,11 @@ Transcurrido el plazo a que se refiere el párrafo anterior y recabas las consta
 
 El responsable de la pérdida o sustracción de algún expediente o constancia del mismo, tendrá la obligación de pagar los daños y perjuicios que se hayan ocasionado. Además se le impondrá la corrección disciplinaria que se estime procedente, sin perjuicio de la responsabilidad penal en que incurriere.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADA SU DENOMINACION, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ### CAPITULO IX. INCIDENTES DE REDUCCION DE CAUCION O AUMENTO DE LA GARANTIA DE LA REPARACION DEL DAÑO
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 288.
 
@@ -2053,7 +2055,7 @@ V.- Otras circunstancias que racionalmente conduzcan a tener la seguridad de que
 
 Hecha la solicitud de reducción de caución, el juez dará vista al ministerio público por un día, dictando su resolución dentro del mismo plazo.
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(ADICIONADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ARTICULO 288 BIS.- El ministerio público o su coadyuvante, podrán solicitar el aumento de la garantía prevista por la fracción I del artículo 297 de este Código, cuando por pruebas posteriores se demuestre que el monto de la reparación del daño se ha incrementado.
 
@@ -2095,7 +2097,7 @@ La solicitud de aclaración de la sentencia interrumpe el plazo señalado para l
 
 #### SECCION PRIMERA. LIBERTAD PROVISIONAL PREVIA
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 295.
 
@@ -2113,7 +2115,7 @@ Cuando el inculpado obtenga su libertad provisional previa, el ministerio públi
 
 #### SECCION SEGUNDA. LIBERTAD PROVISIONAL BAJO CAUCION
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 297.
 
@@ -2141,13 +2143,13 @@ La libertad caucional podrá solicitarse en cualquier tiempo, siempre que no se 
 
 Para la concesión de la libertad caucional se atenderá, según el caso, al o los delitos señalados en la consignación, en la orden de aprehensión, en el auto de formal prisión o en la sentencia condenatoria de primera instancia. En el caso de la libertad previa, el ministerio publico atenderá al delito o delitos que se desprendan de la averiguación, en el momento de la solicitud.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 299.
 
 Tratándose de los delitos de homicidio o lesiones, no calificados como graves, cuando el monto de la reparación del daño a que se refiere la fracción I del artículo 297 de este Código, no esté cuantificado en autos, se estará a lo previsto por el artículo 38 del Código Penal, en cuanto resulte aplicable.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 300.
 
@@ -2161,19 +2163,19 @@ III.- La magnitud de la lesión o puesta en peligro del bien jurídico tutelado 
 
 IV.- Sus circunstancias personales y las del ofendido.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 301.
 
 Las garantías exigidas en las fracciones I y II, así como la caución a que se refiere la fracción III, del artículo 297 de este Código, podrán consistir en depósito en efectivo, hipoteca o fianza. El inculpado o su defensor podrán elegir la naturaleza de aquéllas; el juez determinará si son o no idóneas y suficientes.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 302.
 
 La caución o garantía consistente en depósito en efectivo, será recibida por el juzgador quien, con toda oportunidad, la remitirá al Tribunal Superior de Justicia. El recibo oficial se hará constar en el expediente y se depositará en el secreto del juzgado, asentándose razón en autos.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 303.
 
@@ -2183,7 +2185,7 @@ Cuando la caución o garantía consista en hipoteca, el inmueble no deberá tene
 
 La fianza personal solamente podrá admitirse cuando el monto de la caución no exceda de diez veces el salario mínimo y el fiador acredite su solvencia e idoneidad.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 Cuando la fianza sea por cantidad mayor a diez veces el salario mínimo, se regirá por lo dispuesto en el Código Civil para los contratos de fianza legal o judicial, con la salvedad de que, tratándose de empresas afianzadoras legalmente constituidas y autorizadas, no será necesario que éstas tengan bienes raíces inscritos en el Registro Público de la Propiedad y del Comercio.
 
@@ -2213,7 +2215,7 @@ En la notificación se hará constar que se hicieron saber al inculpado las ante
 
 En el caso de la fracción I de este artículo, se entenderá que el inculpado se sustrae a la esfera de acción de la justicia, cuando deje de presentarse al juzgado por más de dos ocasiones a firmar el libro de caucionados, sin causa justificada. En tales circunstancias el secretario o los testigos de asistencia, en su caso, asentarán razón en autos y darán cuenta al juzgador, quien citará al procesado para oírlo, y en su caso resolverá hacer efectiva la caución y ordenará la reaprehensión del inculpado, suspendiendo el procedimiento por cuanto a él, en tanto se logra su captura.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 308.
 
@@ -2223,19 +2225,19 @@ I.- Cuando desobedeciere, sin causa justa y comprobada, las órdenes legítimas 
 
 II.- Cuando lo solicite el mismo inculpado y se presente a responder del proceso en prisión preventiva;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 III.- Cuando aparezca con posterioridad que se trata de un delito calificado como grave en el artículo 119 de este Código;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 IV.- Cuando en el proceso cause ejecutoria la sentencia condenatoria dictada en primera o segunda instancia; o
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 V.- En los demás casos expresamente previstos por la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 309.
 
@@ -2243,19 +2245,19 @@ Cuando un tercero haya garantizado la libertad del inculpado, ésta se revocará
 
 I.- En los casos que se mencionan en el artículo anterior;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 II.- Cuando el tercero pida que se le releve de la obligación y presente al inculpado;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 III.- Cuando con posterioridad, se demuestre la insolvencia del fiador; o
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(ADICIONADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 IV.- En el caso del artículo 312 de este Código, cuando no se obtenga la comparecencia del inculpado.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 310.
 
@@ -2263,7 +2265,7 @@ Al revocarse la libertad caucional, el juzgador mandará reaprehender al inculpa
 
 También se hará efectiva la caución exigida por la fracción III del artículo 297 de este Código, cuando el procesado o sentenciado no comparezca voluntariamente, previa citación a responder del proceso o de la pena impuesta, en los casos que prevén las fracciones III y IV del artículo 308 de este Código.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 311.
 
@@ -2275,13 +2277,13 @@ II.- Cuando el inculpado se encuentre detenido o comparezca voluntariamente, con
 
 Cuando resulte condenado el inculpado que se encuentre en libertad caucional y se presente a cumplir su condena, las garantías a que se refieren las fracciones I y II del artículo 297 de este Código, según corresponda, se aplicarán al pago de la reparación de los daños y perjuicios y al pago de la sanción pecuniaria. La caución relativa a la fracción III del artículo mencionado, se devolverá al sentenciado o a quien éste indique o, en su caso, se cancelará.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 312.
 
 Cuando un tercero haya garantizado la libertad provisional del inculpado, el juzgador podrá otorgarle un plazo hasta de treinta días para que lo presente. Si concluido el plazo concedido no se obtiene la comparecencia del inculpado, se hará efectiva la caución prevista por la fracción III del artículo 297 de este Código.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 313.
 
@@ -2303,15 +2305,15 @@ III.- Que tenga domicilio conocido en el lugar en donde se sigue o debe de segui
 
 IV.- Que su residencia en dicho lugar sea de un año por lo menos;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 V.- Que tenga profesión, oficio, ocupación o medio honesto de vivir;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 VI.- Que no exista motivo para temer se sustraiga a la acción de la justicia; y
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(ADICIONADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 VII. Que garantice en su caso, el monto estimado de la reparación del daño, conforme a lo estipulado por el artículo 297 de este Código.
 
@@ -2457,7 +2459,7 @@ En la audiencia se desahogarán las pruebas ofrecidas, se escucharán o recibir�
 
 #### SECCION PRIMERA. AUTO DE RADICACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 336.
 
@@ -2783,7 +2785,7 @@ Cuando el presunto responsable de un delito, fuere ascendiente del ofendido, o p
 
 El cuerpo del delito se integra por los elementos constitutivos del tipo penal de que se trate y se acreditará por cualquier de los medios probatorios que permita la ley.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 385.
 
@@ -2813,7 +2815,7 @@ Los elementos señalados en las fracciones V a X, sólo se tomarán en considera
 
 ### CAPITULO II. COMPROBACION DE LA PROBABLE RESPONSABILIDAD
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 386.
 
@@ -2829,7 +2831,7 @@ El ministerio público al ejercitar la acción penal o la autoridad judicial cua
 
 Para el ejercicio de la acción penal, el ministerio público, deberá tener por comprobado el cuerpo del delito y establecida la probable responsabilidad del indiciado.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 388.
 
@@ -2907,7 +2909,7 @@ I.- Lugar, hora, día, mes y año en que se dicta;
 
 II.- La orden de que se registre en el libro de gobierno con el número que le corresponda y de que se dé aviso del inicio al Tribunal Superior de Justicia;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 III.- Respecto de la recepción de la consignación:
 
@@ -2915,7 +2917,7 @@ a).- Si es con detenido, el juez resolverá de inmediato sobre la constitucional
 
 b).- Si fuese sin detenido, dentro del plazo de diez días, en resolución por separado, el juzgador dictaminará sobre el pedimento del ministerio público, ordenando o negando la orden de aprehensión o comparecencia; si se tratase de delito que el artículo 119 de este Código califica como grave, ordenará o negará la aprehensión solicitada, dentro de las veinticuatro horas contadas a partir del auto de radicación; y
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 IV.- La determinación sobre si están satisfechos o no los requisitos de procedibilidad para el ejercicio de la acción penal, cuando así sea exigido por la ley.
 
@@ -2955,11 +2957,11 @@ Dentro de las cuarenta y ocho horas siguientes al momento en que el inculpado es
 
 La declaración preparatoria comenzará por los generales del inculpado, en las que se incluirán también los apodos que tuviere. Acto seguido, el juez le hará saber:
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 I.- El nombre del denunciante o querellante y la naturaleza y causa de la imputación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo, leyendo o mostrándole, en su caso, las pruebas que existan en su contra;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 II.- El derecho que tiene a una defensa adecuada, por sí, por su abogado o por persona de su confianza, en los términos de este Código, aun cuando ya esté gozando de este derecho;
 
@@ -2969,7 +2971,7 @@ III.- Si aun no esta gozando de su libertad caucional y tiene derecho a ella, se
 
 IV.- El derecho que tienen para declarar con absoluta libertad o para abstenerse de hacerlo; y
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 V.- El derecho que tiene, si lo solicita, de carearse en presencia del juez con quienes depongan en su contra.
 
@@ -2997,15 +2999,15 @@ Dentro de las setenta y dos horas siguientes al momento en que el inculpado qued
 
 I.- Que se haya tomado declaración preparatoria del inculpado o bien que conste en el expediente que éste se rehusó a declarar;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 II.- Que estén comprobados los elementos del tipo penal del delito por el cual deba seguirse el proceso y éste, tenga señalada pena privativa de libertad;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 III.- Que no esté plenamente comprobada a favor del inculpado, alguna causa que excluya al delito, a la pena o que extinga la acción penal; y
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1994)</small>
+(REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 IV.- Que esté demostrada la probable responsabilidad del inculpado.
 
@@ -3640,3 +3642,19 @@ Cuando el Código de Procedimientos Penales se refiera a "cuerpo del delito", de
 P.O. 4 DE DICIEMBRE DE 1995.
 
 UNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
+
+P.O. 6 DE FEBRERO DE 1996.
+
+REPUBLICACION DEL DECRETO NUM. 129, P.O. 29 DE AGOSTO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el día tres de septiembre de mil novecientos noventa y cuatro, previa su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
+
+###### ARTICULO SEGUNDO.
+
+Si con motivo de las presentes reformas algún procesado recluido en prisión preventiva, alcanzará el beneficio de gozar de su libertad caucional, esta deberá otorgársele conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos y el artículo 297 del Código de Procedimientos Penales.
+
+###### ARTICULO TERCERO.
+
+Cuando el Código de Procedimientos Penales se refiera a "cuerpo del delito", deberá interpretarse como "elementos del tipo penal".
