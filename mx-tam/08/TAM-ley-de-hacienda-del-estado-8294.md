@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "1993-01-16"
+last_updated: "1993-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -243,7 +243,7 @@ N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE
 
 ###### ARTICULO 16o.
 
-Cuando sean personas distintas el propietario del predio y el de sus mejoras y construcciones, la cuenta de los impuestos sobre uno y otras estará a cargo del propietario del predio y a su nombre se expedirán los recibos correspondientes.
+Cuando sean personas distintas el propietario del predio y el de sus mejoras y construcciones, la cuenta de los impuestos sobre uno y otras estarán a cargo del propietario del predio y a su nombre se expedirán los recibos correspondientes.
 
 N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
@@ -1947,7 +1947,7 @@ El impuesto se causará al cosechar los frutos o productos agrícolas y deberá 
 
 Los frutos o producto agrícolas que se encuentren en el estado, sin acreditar que provienen de otra entidad mediante la documentación Fiscal expedida en el lugar de origen y sellada por la primera caseta o autoridad fiscal competente del estado que toque en su traslado, se presumirán producidos en Tamaulipas y estarán sujetos al pago de este Impuesto.
 
-Los retenedores del impuesto sobre frutos o productos agrícolas deberán enterarlo en las Oficinas Fiscales del Estado de la jurisdicción de cada uno de sus centros de recepción dentro de los cinco días siguientes a l a fecha en que reciben el producto.
+Los retenedores del impuesto sobre frutos o productos agrícolas deberán enterarlo en las Oficinas Fiscales del Estado de la jurisdicción de cada uno de sus centros de recepción dentro de los cinco días siguientes a la fecha en que reciben el producto.
 
 La Tesorería General del Estado, podrá autorizar a empresas establecidas si su solvencia lo justifica y a petición de estas, a liquidar el impuesto retenido dentro de los quince días siguientes al movimiento de recepción de la quincena inmediata anterior.
 
@@ -3181,9 +3181,95 @@ b).- Tratándose de terrenos, que éstos no excedan de 250 M2 y cuando incluyan 
 
 #### SECCION TERCERA. DEL REGISTRO PUBLICO DE COMERCIO
 
-###### ARTICULO 266o.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ABRIL DE 1993)</small>
 
-VEASE TABLA ANEXA
+###### ARTICULO 266.
+
+Los servicios que se presten en el Registro Público de Comercio, causarán derechos de acuerdo con la siguiente:
+
+TARIFA:
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+I.- El examen de todo documento, sea público o privado, que se presente al Registro para su inscripción, cuando se rehuse éste por no ser inscribible o cuando por otros motivos se devuelva sin inscribir un día de salario mínimo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADA], P.O. 24 DE ABRIL DE 1993)</small>
+
+II.- La inscripción de documentos cuyo tenor y autenticidad deban hacerse notorios en los términos que lo dispone el Artículo 16 Fracción II del Código de Comercio, será el equivalente a doscientos ocho días de salario mínimo.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+III.- La inscripción de las escrituras constitutivas de Sociedades Mercantiles, o de las relativas a aumento de su capital social, se cobrarán sobre el monto del capital social o de los aumentos del mismo 8 al millar.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+IV.- La inscripción de las modificaciones a la escritura constitutiva de sociedades mercantiles, siempre que no se refiera a aumento de capital social, con el importe de cuatro días de salario mínimo.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+V.- La inscripción de actas de asamblea de socios o de juntas de administradores con el importe de cuatro días de salario mínimo.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+VI.- El depósito del programa a que se refiere el Artículo 92 de la Ley General de Sociedades Mercantiles con el importe de cuatro días de salario mínimo.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+VII.- Por la inscripción del acta de emisión de bonos y obligaciones de Sociedades Anónimas, se cobrarán las cuotas que correspondan, conforme a la fracción III de esta Tarifa.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+VIII.- La inscripción de la liquidación de Sociedades Mercantiles con el importe de cuatro días de salario mínimo.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+IX.- La inscripción de la disolución de Sociedades Mercantiles con el importe de cuatro días de salario mínimo.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+X.- La inscripción de la liquidación y disolución de Sociedades Mercantiles, cuando se lleven a cabo un solo acto con el importe de cuatro días de salario mínimo.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+XI.- En los casos de las fracciones VIII, X y XI, si como consecuencia de la liquidación de la Sociedad se adjudican bienes inmuebles, los derechos se causarán sobre el valor en que se adjudiquen a los socios o a terceros en los términos de la fracción III de esta tarifa y teniendo en cuenta lo dispuesto en la fracción I del Artículo 264.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+XII.- Inscripción de poderes mercantiles y substitución de los mismos. Otorgados dentro o fuera del Estado por cada apoderado:
+
+a).- Si el poder es general o especial y consta en escritura pública con el importe de tres días de salario mínimo.
+
+b).- Si el poder es general o especial y consta en escritura privada con el importe de dos días de salario mínimo.
+
+El otorgamiento de poderes a los administradores o gerentes de Sociedades Mercantiles, en las escrituras constitutivas o modificatorias no causarán las cuotas de esta fracción.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+XIII.- Por la inscripción y revocación de poderes diferentes a los anteriores, con el importe de cuatro días de salario mínimo.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+XIV.- La inscripción de habilitación de edad, licencia y emancipación para ejercer el comercio, licencia marital o el requisito que, en su defecto necesite la mujer para los mismos fines, la revocación de unos y otros y las escrituras y documentos a que se refieren las fracciones X y XI del Artículo 21 del Código de Comercio con el importe de tres días del salario mínimo.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+XV.- La inscripción de contratos mercantiles de cualquier clase, derivados de los actos enumerados en el Artículo 75 del Código de Comercio, sobre el valor 8 al millar.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+XVI.- Por la inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío, otorgados por instituciones de crédito, de Seguros, de Fianzas, sobre el importe de la operación 4 al millar.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+XVII.- La inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial, con el importe de cuatro días de salario mínimo.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+XVIII.- Búsqueda de documentos, certificaciones o copia certificada 20% del importe de un día de salario mínimo por hoja.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+XIX.- Anotaciones de fianzas, contra fianzas, u obligaciones solidarias con el fiador, para el solo efecto de comprobar la solvencia del fiador, con fiador u obligado solidario, el importe de tres días de salario mínimo.
 
 ###### ARTICULO 267o.
 
@@ -3684,3 +3770,9 @@ P.O. 16 DE ENERO DE 1993
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE ABRIL DE 1993
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
