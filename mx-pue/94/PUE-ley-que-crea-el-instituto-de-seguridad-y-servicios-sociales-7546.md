@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-instituto-de-seguridad-y-servicios-sociales-754
 country: "mx"
 rank: "ley"
 publication_date: "1981-02-10"
-last_updated: "1983-12-13"
+last_updated: "1984-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY QUE CREA EL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO DE PUEBLA, COMO UN ORGANISMO PUBLICO DESCENTRALIZADO, CON PERSONALIDAD JURIDICA Y PATRIMONIO PROPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 1984.
 
 Ley publicada en el Suplemento Número 1 del Periódico Oficial del Estado de Puebla, el martes 10 de febrero de 1981.
 
@@ -195,19 +195,23 @@ I.- La Junta Directiva; y
 
 II.- El Director General.
 
+> <small>(REFORMADO, P. O. 21 DE FEBRERO DE 1984)</small>
+
 ###### ARTICULO 14.
 
-La Junta Directiva se compondrá de nueve miembros:
+La Junta Directiva es órgano supremo del Instituto y estará constituida por Nueve Miembros:
 
-I.- El Primero designado por el Gobernador del Estado, con el cargo expreso de Director General del Instituto;
+I.- El jefe de los Servicios Coordinados de Salud Pública en el Estado.
 
-II.- Cuatro miembros designados por el Gobierno del Estado;
+II.- Cuatro Miembros designados por el Gobierno del Estado.
 
-III.- Dos designados por el Sindicato de los Trabajadores al Servicio de los Poderes del Estado; y
+III.- Dos Miembros designados por el Sindicato de Trabajadores al Servicio de los Poderes del Estado; y
 
-IV.- Dos más designados por los Trabajadores de la Educación de la Sección LI del S.N.T.E.
+IV.- Dos Miembros designados por la Sección LI del Sindicato Nacional de Trabajadores de la Educación.
 
-El Director General fungirá como Presidente de la Junta Directiva.
+El Jefe de los Servicios Coordinados de Salud Pública en el Estado, será el Presidente de la Junta Directiva.
+
+Los demás miembros tendrán la categoría de Consejeros.
 
 ###### ARTICULO 15.
 
@@ -277,13 +281,19 @@ X.- Expedir los reglamentos interiores del Instituto;
 
 XI.- Promover las Iniciativas de Reformas a esta Ley; y
 
-XII.- Las demás que señalen esta Ley y sus Reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P. O. 21 DE FEBRERO DE 1984)</small>
+
+XII.- Rendir, por conducto de su Presidente un informe anual y detallado del estado que guarde el Instituto.
+
+XIII.- Las demás que señalen esta Ley y sus Reglamentos.
+
+> <small>(REFORMADO, P. O. 21 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 21.
 
-La Junta Directiva celebrará las sesiones que sean necesarias para el debido funcionamiento del Instituto, debiendo ser por lo menos una mensual ordinaria y extraordinarias las necesarias.
+La Junta Directiva celebrará las sesiones que sean necesarias para el debido funcionamiento del Instituto, debiendo ser por lo menos una mensual ordinaria y extraordinarias las necesarias. Serán convocadas por el Presidente de la misma.
 
-Las sesiones serán válidas con la asistencia por lo menos de cinco consejeros, tres de los cuales deberán ser representantes del Estado.
+Las sesiones serán válidas con la asistencia por lo menos de Cinco Consejeros, tres de los cuales deberán ser representantes del Estado.
 
 ###### ARTICULO 22.
 
@@ -293,21 +303,27 @@ Las votaciones de la Junta se tomarán por mayoría de votos de los miembros pre
 
 A falta del Presidente de la Junta, las sesiones serán presididas por uno de los presentes, elegido de entre ellos, en términos del Artículo anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, P. O. 21 DE FEBRERO DE 1984)</small>
+
 ###### ARTICULO 24.
 
-Son facultades y obligaciones del Director General las siguientes:
+El Director General será nombrado por la Junta Directiva a propuesta del Ejecutivo del Estado. Durará en su cargo seis años y tendrá las siguientes atribuciones:
 
-I.- Presidir las sesiones de la Junta;
+I.- (DEROGADA, P. O. 21 DE FEBRERO DE 1984)
 
-II.- Representar al Instituto y a la Junta;
+> <small>(REFORMADA, P. O. 21 DE FEBRERO DE 1984)</small>
+
+II.- Representar al Instituto como un mandatario general para pleitos y cobranzas y actos de administración;
 
 III.- Ejecutar los Acuerdos de la Junta;
 
-IV.- Rendir anual y públicamente un informe detallado del estado que guarda el instituto;
+IV.- (DEROGADA, P. O. 21 DE FEBRERO DE 1984)
 
 V.- Someter a la decisión de la Junta los asuntos que sean de su competencia;
 
-VI.- Resolver bajo su responsabilidad los asuntos de carácter urgente que sean competencia de la Junta, a reserva de dar cuenta de la misma a la brevedad posible;
+> <small>(REFORMADA, P. O. 21 DE FEBRERO DE 1984)</small>
+
+VI.- Resolver bajo su responsabilidad los asuntos de carácter urgente, a reserva de dar cuenta a la Junta a la brevedad posible;
 
 VII.- Formular y presentar para discusión y aprobación de la Junta, los balances, el Proyecto de Presupuesto de Ingresos y Egresos, así como el Proyecto del Plan de Labores del Instituto, correspondiente a cada ejercicio anual;
 
@@ -321,7 +337,7 @@ XI.- Vigilar las labores del personal, exigiendo su debido cumplimiento a impone
 
 XII.- Someter a consideración de la Junta, las reformas o adiciones que considere pertinentes a los reglamentos interiores del Instituto;
 
-XIII.- Convocar a sesiones ordinarias y extraordinarias a los miembros de la Junta Directiva y cuando proceda o a su juicio sea necesario, a los Comisarios;
+XIII.- (DEROGADA, P. O. 21 DE FEBRERO DE 1984)
 
 XIV.- Informar de la contabilidad y movimiento financiero;
 
@@ -329,7 +345,11 @@ XV.- Estudiar y proponer el otorgamiento de pensiones y demás prestaciones regl
 
 XVI.- Concurrir a la firma de escrituras públicas en que el Instituto intervenga; y
 
-XVII.- Las demás que señalen esta Ley y sus reglamentos.
+> <small>(ADICIONADA, P. O. 21 DE FEBRERO DE 1984)</small>
+
+XVII.- Asistir con voz a las sesiones de la Junta;
+
+XVIII.- Las demás que le señalen esta Ley y sus Reglamentos.
 
 ### CAPITULO TERCERO.
 
@@ -1308,6 +1328,16 @@ P. O. 13 DE DICIEMBRE DE 1983.
 ###### ARTICULO PRIMERO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
+
+P.O. 21 DE FEBRERO DE 1984.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
 
