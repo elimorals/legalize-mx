@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1938-04-20"
+last_updated: "1938-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 1938.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 1938.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -190,7 +190,7 @@ II. Asociarse pacíficamente para tratar de asuntos políticos del Estado y ejer
 
 ###### Artículo 20.
 
-El ejercicio de los derechos de ciudadanos coahuilense (sic) se suspenden:
+El ejercicio de los derechos de ciudadanos coahuilenses se suspenden:
 
 I. Por sentencia ejecutoria que condene a la suspensión de esos derechos, por el tiempo que ella fije.
 
@@ -294,11 +294,15 @@ Para la elección de diputados, el Estado se dividirá en Distritos Electorales.
 
 La elección para diputados será directa y en los términos que disponga la Ley Electoral.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 1938)</small>
+
 ###### Artículo 36.
 
-Para ser diputado propietario o Suplente se requiere:
+Para ser Diputado Propietario o Suplente se requiere:
 
-I. Ser ciudadano coahuilense por nacimiento o avecindado legalmente en el Estado cuando menos cinco años contínuos inmediatamente anteriores al día de la elección.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1938)</small>
+
+I. Ser ciudadano Coahuilense por nacimiento y avecindado en el Estado cuando menos tres años continuos inmediatamente anteriores al día de la elección.
 
 II. Tener veinticinco años cumplidos.
 
@@ -1074,11 +1078,11 @@ La elección de los Síndicos será también popular directa y se nombrarán en 
 
 Para que una población se erija en Municipalidad, se requiere que tenga más de mil quinientos habitantes y que cuente con los recursos necesarios para cubrir los gastos que demande su administración y para sostener, cuando menos una escuela de instrucción primaria para cada sexo y una escuela nocturna.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1938)</small>
+
 ###### Artículo 129.
 
-Para ser electo Munícipe se requiere:
-
-Ser ciudadano coahuilense en el ejercicio de sus derechos, vecino de la municipalidad, con residencia de tres años continuados anteriores al día de la elección, saber leer y escribir, tener modo honesto de vivir y los demás requisitos que exija la Ley Electoral.
+Para ser electo Munícipe se requiere: ser ciudadano coahuilense por nacimiento, en ejercicio de sus derechos y con residencia en el Estado, de tres años contínuos inmediatamente anteriores al día de la elección, saber leer y escribir, tener modo honesto de vivir y los demás que exija la Ley Electoral.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1938)</small>
 
@@ -1610,7 +1614,7 @@ Quedan derogadas las disposiciones legales que se opongan a la presente ley.
 
 P.O. 14 DE MAYO DE 1921.
 
-> <small>N. DE E. EL DECRETO DEL ORDENAMIENTO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.</small>
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 5 DE MAYO DE 1926.
 
@@ -1649,5 +1653,9 @@ P.O. 26 DE MARZO DE 1938.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 20 DE ABRIL DE 1938.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 15 DE JUNIO DE 1938.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
