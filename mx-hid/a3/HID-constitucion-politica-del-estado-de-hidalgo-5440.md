@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1957-01-08"
+last_updated: "1960-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1957.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 1960.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -159,6 +159,10 @@ P.O. 8 DE ENERO DE 1957.
 
 Único.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
+P.O. 1 DE NOVIEMBRE DE 1960.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
 ## TITULO II. DEL PODER PUBLICO Y DE LA FORMA DE GOBIERNO
 
 ### CAPITULO II. DE LOS CIUDADANOS DEL ESTADO
@@ -166,6 +170,8 @@ P.O. 8 DE ENERO DE 1957.
 ###### Artículo 4º.
 
 Son ciudadanos del Estado, los ciudadanos de la República que sean naturales o vecinos del Estado.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE NOVIEMBRE DE 1960)</small>
 
 ###### Artículo 4°.
 
@@ -196,6 +202,10 @@ P.O. 16 DE NOVIEMBRE DE 1927.
 ###### Artículo 5º.
 
 Son naturales del Estado los nacidos en su Territorio.
+
+###### Artículo 5°.
+
+Son naturales del Estado los nacidos en su territorio o los hijos de padres hidalguense por nacimiento, o de padre o madre hidalguense por nacimiento.
 
 ###### Artículo 6º.
 
@@ -299,11 +309,11 @@ Los Poderes Legislativo y Ejecutivo y el Tribunal Superior de Justicia, residir�
 
 El Poder Legislativo se deposita en una Asamblea que se denominará "Congreso del Estado de Hidalgo". Éste se compondrá de Diputados electos popularmente, uno por cada noventa y cinco mil habitantes o fracción que pase de cincuenta mil, en cada Distrito Electoral. Si con esta proporción no resultaren electos once Diputados por lo menos, la Ley Electoral dividirá al Estado en once circunscripciones de población, igual en lo posible, y cada una de ellas elegirá un Diputado.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 1947)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1960)</small>
 
 ###### Artículo 19.
 
-Para ser Diputado se requiere:- Ser Ciudadano del Estado en ejercicio de sus derechos políticos, nacido en el territorio del mismo y mayor de veinticinco años.
+Para ser Diputado se requiere: ser ciudadano del Estado en el ejercicio de sus derechos políticos, natural del mismo, mayor de 25 años y con vecindad efectiva no menor de tres años inmediatamente anteriores al día de la elección, cuando sean nativos del Estado y cinco años en las mismas circunstancias, cuando sean hijos de padres hidalguenses o de padre o madre hidalguense.
 
 ###### Artículo 20.
 
@@ -539,15 +549,15 @@ La Diputación Permanente dará cuenta en la segunda sesión del Congreso, del u
 
 Se deposita el ejercicio del Poder Ejecutivo del Estado, en un ciudadano que se denominara "Gobernador del Estado de Hidalgo."
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1960)</small>
+
 ###### Artículo 47.
 
-Para ser Gobernador, se requiere:
+Para ser Gobernador se requiere:
 
-I. Ser ciudadano del Estado en ejercicio de sus derechos políticos, nacido en el territorio del mismo y con vecindad no menor de tres años inmediatamente anteriores al día de la elección.
+I. Ser ciudadano del Estado en ejercicio de sus derechos políticos, natural del mismo y con vecindad efectiva no menor de tres años inmediatamente anteriores al día de la elección, cuando sea nativo del Estado y siete años en las mismas circunstancias, cuando sean hijos de padres hidalguenses, o de padre o madre hidalguense.
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 1932)</small>
-
-II.- Haber cumplido 30 años de edad al tiempo de la elección.
+II. Haber cumplido treinta años de edad al tiempo de la elección.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE OCTUBRE DE 1932)</small>
 
@@ -893,21 +903,27 @@ XIII. Formar su reglamento interior.
 
 Los Presidentes Municipales serán electos directa y popularmente cada tres años, por cada Propietario se elegirá un suplente. Pero todo grupo de ciudadanos que componga más del cincuenta por ciento de la población con capacidad electoral municipal, podrá pedir y gestionar la revocación del mandato, por medio del referéndum facultativo popular, cuyo procedimiento y autoridades competentes para verificarlo serán señalados por la Ley Reglamentaria respectiva.
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1960)</small>
+
 ###### Artículo 80.
 
-Para ser Presidente Municipal propietario o suplente, se requiere:
+Para ser Presidente Municipal propietario o suplente se requiere:
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1948)</small>
+I. Ser ciudadano del Estado en ejercicio de sus derechos.
 
-I. Ser ciudadano del Estado en ejercicio de sus derechos, y nacido dentro del territorio del mismo.
+II. Tener una vecindad efectiva mínima en el Municipio inmediatamente anterior a la fecha de las elecciones, como sigue:
 
-II. Ser vecino del Municipio.
+a). De dos años para los originarios del Municipio.
 
-III. No pertenecer al Estado eclesiástico.
+b). De tres para los originarios del Estado, y
 
-IV. Saber leer y escribir.
+c). De cuatro para los vecinos del Municipio.
 
-V. Tener mas de veinticinco años de edad.
+III. No pertenecer al Estado Eclesiástico.
+
+IV. Saber leer y Escribir.
+
+V. Tener más de 25 años de edad.
 
 ###### Artículo 81.
 
