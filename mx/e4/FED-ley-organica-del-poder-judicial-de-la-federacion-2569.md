@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2000-05-12"
+last_updated: "2000-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2000.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -620,9 +620,17 @@ i) Los perpetrados en contra del funcionamiento de un servicio público federal 
 
 j) Todos aquéllos que ataquen, dificulten o imposibiliten el ejercicio de alguna atribución o facultad reservada a la Federación;
 
-k) Los señalados en el artículo 389 del Código Penal, cuando se prometa o se proporcione un trabajo en dependencia, organismo descentralizado o empresa de participación estatal del Gobierno Federal, y
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
 
-l) Los cometidos por o en contra de funcionarios electorales federales o de funcionarios partidistas en los términos de la fracción II del artículo 401 del Código Penal;
+k) Los señalados en el artículo 389 del Código Penal cuando se prometa o se proporcione un trabajo en dependencia, organismo descentralizado o empresa de participación estatal del Gobierno Federal;
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+l) Los cometidos por o en contra de funcionarios electorales federales o de funcionarios partidistas en los términos de la fracción II del artículo 401 del Código Penal, y
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+m) Los previstos en los artículos 366, fracción III; 366 ter y 366 quáter del Código Penal Federal, cuando el delito sea con el propósito de trasladar o entregar al menor fuera del territorio nacional.
 
 II. De los procedimientos de extradición, salvo lo que se disponga en los tratados internacionales.
 
@@ -2941,3 +2949,15 @@ D.O.F. 12 DE MAYO DE 2000.
 ###### ARTÍCULO ÚNICO.
 
 La reforma al artículo 88 de la Ley Orgánica del Poder Judicial de la Federación entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE JUNIO DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En un plazo no mayor de seis meses, el Ejecutivo Federal deberá crear la estructura administrativa necesaria en la Procuraduría General de la República para la atención de los delitos previstos en los artículos 366, fracción III; 366 ter y 366 quáter previstos en este Decreto.
+
+Para los efectos del párrafo anterior, se autoriza al Ejecutivo Federal para hacer las adecuaciones presupuestarias que resulten necesarias.
+
+TERCERO.- Los delitos previstos en los artículos 366 ter y 366 quáter del Código Penal Federal vigentes con anterioridad a la fecha de entrada en vigor de este Decreto, seguirán aplicándose respecto de hechos cometidos durante su vigencia.
+
+CUARTO.- Se derogan las disposiciones que se opongan al presente Decreto.
