@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2001-04-27"
+last_updated: "2003-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 2003.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -955,9 +955,9 @@ El Estado podrá convenir con los municipios, en los términos del artículo 8 d
 
 Serán de carácter gratuito el empadronamiento, traspaso, cambio de actividades y de negociaciones mercantiles, industriales o de servicio.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2003)</small>
 
-En el caso de licencias para la venta de bebidas alcohólicas, por el cambio de titular de la licencia, cambio de domicilio o cambio de actividad, deberán cubrirse los derechos equivalentes al otorgamiento de licencia inicial; excepto en el caso de cesión de los derechos de licencia entre cónyuges o ascendientes y descendientes.
+En el caso de licencias para la venta de bebidas alcohólicas, por el cambio de titular de la licencia o cambio de actividad, deberán cubrirse los derechos equivalentes al otorgamiento de licencia inicial; excepto en el caso de cesión de los derechos de licencia entre cónyuges o ascendientes y descendientes.
 
 ###### ARTICULO 69.
 
@@ -1125,9 +1125,13 @@ b) En su modalidad intermedia, ciento tres; y
 
 c) En su modalidad específica, ciento cincuenta y seis.
 
-III. La verificación del cumplimiento de las medidas de prevención y mitigación será gratuita;
+III. La verificación del cumplimiento de las medidas de prevención y
 
-IV. Por la revalidación de evaluación de la autorización de impacto ambiental (artículo 55 de la Ley de Protección al Ambiente del Estado):
+mitigación será gratuita;
+
+IV. Por la revalidación de evaluación de la autorización de impacto
+
+ambiental (artículo 55 de la Ley de Protección al Ambiente del Estado):
 
 a) En su modalidad general, veintitrés;
 
@@ -1626,3 +1630,9 @@ P.O. 27 DE ABRIL DE 2001.
 PRIMERO. El presente Decreto entrará en vigor simultáneamente con la Ley de Catastro del Estado y Municipios de San Luis Potosí, publicada en la edición extraordinaria del Periódico Oficial del Estado, de fecha 22 de marzo de 2001.
 
 SEGUNDO. Se derogarán todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE FEBRERO DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
