@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1944-12-16"
+last_updated: "1948-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 1948.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -813,7 +813,9 @@ VII. Distraer las rentas públicas del Estado de los objetos a que estén destin
 
 VIII. Disponer en ningún caso y bajo ningún pretexto de las rentas municipales.
 
-IX. Disponer sin las formalidades legales y fuera de los casos que la Ley permita, de los bienes pertenecientes al Estado.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 1948)</small>
+
+IX. Enajenar o gravar los bienes raíces pertenecientes al Estado, sin autorización de la Legislatura, mediante la expedición del decreto respectivo.
 
 X. Disponer en ningún caso y por ningún motivo de los bienes que son propios de los Municipios.
 
@@ -895,9 +897,11 @@ Los Municipios tienen personalidad jurídica propia; pero la política y adminis
 
 La administración interior de los Municipios se hará por los Ayuntamientos, por los Presidentes Municipales y por los Alcaldes.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1948)</small>
+
 ###### ARTICULO 98.
 
-Los Ayuntamientos serán asambleas formadas por elección popular directa; se compondrán de un número variable de ciudadanos en razón del censo del Municipio; pero en ningún caso será menor de cinco y siempre en número impar. En la primera sesión que celebren los Ayuntamientos, la cual será presidida por el concejal de mayor edad, se elegirá a mayoría absoluta de votos un Presidente Municipal y uno o dos Síndicos Procuradores que deberán fungir durante el año de su elección. Los concejales restantes se denominarán Regidores.
+Los ayuntamientos serán asambleas formadas por elección popular directa, se compondrán de un número variable de concejales en razón del censo del Municipio; pero en ningún caso será menor de cinco y siempre en número impar. En las elecciones municipales participarán las mujeres, en igualdad de condición que los varones, con el derecho de votar y ser votadas. En la primera sesión que celebren los Ayuntamientos, la cual será presidida por el concejal de mayor edad, se elegirá a mayoría absoluta de votos un Presidente Municipal y uno o dos Síndicos Procuradores que deberán fungir durante el período de su elección. Los concejales restantes se denominarán Regidores.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1938)</small>
 
@@ -919,9 +923,11 @@ Todos los Concejales durarán en su encargo dos años, se renovarán totalmente 
 
 Los Ayuntamientos serán electos en una sola elección. Una vez elegidos el Presidente y el Síndico o Síndicos Procuradores, los Regidores se distinguirán por número de orden y de igual manera se distinguirán los Síndicos cuando sean dos. Habrá un Síndico para los Ayuntamientos que se compongan hasta de nueve miembros, y dos Síndicos para los que estén formados de once o más.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1948)</small>
+
 ###### ARTICULO 101.
 
-Para ser miembro de un Ayuntamiento se requiere: ser ciudadano mexicano en el ejercicio de sus derechos, vecino del Municipio y tener un modo honesto de vivir. Por cada miembro del Ayuntamiento que se elija como propietario se elegirá un suplente.
+Para ser miembro de un Ayuntamiento se requiere: ser mexicano en el ejercicio de sus derechos, haber cumplido 18 años siendo casado o 21 no siéndolo, ser vecino del Municipio y tener un modo honesto de vivir. Por cada miembro del Ayuntamiento que se elija como propietario se elegirá un suplente.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
@@ -962,6 +968,10 @@ IV. Comunicarse directamente, ni por conducto del Presidente Municipal, con cual
 ###### ARTICULO 108.
 
 Los Ayuntamientos administrarán libremente la Hacienda Municipal, la cual se compondrá de los bienes propios del Municipio y de los productos de las contribuciones impuestas por la Ley General de Ingresos Municipales, o por las especiales en el caso de la última parte del artículo 104.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 1948)</small>
+
+Los bienes raíces pertenecientes a los Ayuntamientos del Estado, no podrán ser enajenados o gravados en forma alguna sin la previa autorización de la Legislatura, mediante la expedición del decreto respecto.
 
 ###### ARTICULO 109.
 
@@ -1033,9 +1043,13 @@ En el Estado, la vagancia se considera como un delito; en consecuencia, todos su
 
 Los Ayuntamientos del Estado están obligados a mejorar y conservar los caminos carreteros construidos en el territorio de sus respectivos municipios y a proceder a la apertura de los que sean necesarios para facilitar las comunicaciones vecinales.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1948)</small>
+
 ###### ARTICULO 155.
 
-Los bienes raíces de beneficencia o instrucción pública que puedan conservar las corporaciones respectivas conforme a las leyes, así como los capitales impuestos pertenecientes a las mismas, no podrán ser enajenados ni de algún modo gravados sin decreto especial de la Legislatura del Estado. La infracción de este artículo hace nulo el acto, quedando, además, responsables solidariamente por el capital, intereses y perjuicios, tanto la autoridad o funcionarios que disponga de dichos bienes, como los que los reciban, endosen las escrituras o de cualquiera manera intervengan en su enajenación, siendo exigible la cosa enajenada de quienquiera que sea su poseedor.
+Los bienes raíces de beneficiencia (sic) o instrucción pública que puedan conservar las corporaciones respectivas conforme a las leyes, así como los capitales impuestos pertenecientes a las mismas; no podrán ser enajenadas ni de algún modo gravados sin decreto especial de la Legislatura del Estado.
+
+La infracción de éste y de los artículos 81, fracción IX y 108 de esta Constitución produce la nulidad del acto, quedando, además, responsables solidariamente por el capital, intereses y perjuicios, tanto la autoridad o funcionarios que dispongan de dichos bienes, como los que reciban, endosen las escrituras o de cualquier manera intervengan en su enajenación, siendo exigible la cosa enajenada de quien quiera que sea su poseedor.
 
 ###### ARTICULO 156.
 
@@ -1448,3 +1462,15 @@ Unico.- El presente Decreto surte sus efectos a partir de la fecha de su publica
 P.O. 16 DE DICIEMBRE DE 1944.
 
 UNICO.- El presente Decreto surte sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 1948.
+
+DECRETO No. 80, QUE MODIFICA LOS ARTICULOS 81 FRACCION IX, 108 Y 155 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+Unico.- Este decreto comenzará a surtir sus efectos a partir de su publicación en el Periódico Oficial.
+
+P.O. 27 DE NOVIEMBRE DE 1948.
+
+DECRETO No. 82, QUE MODIFICA LOS ARTICULOS 98 Y 101 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
