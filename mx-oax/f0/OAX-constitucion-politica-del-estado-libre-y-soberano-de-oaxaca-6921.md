@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1974-01-26"
+last_updated: "1978-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 1978.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -45,19 +45,15 @@ El Estado de Oaxaca declara que su organización gubernativa tiene por objeto el
 
 La Ley es una para todos y de ella emanan las facultades y los deberes de las autoridades, así como los derechos y las obligaciones de los individuos de la especie humana. Los Poderes Públicos, entidades morales, autoridades y funcionarios sólo tienen las facultades que les dá la ley. Los individuos pueden hacer todo lo que ésta no les prohibe.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
-
-ARTICULO 3° La manifestación de las ideas no puede ser objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque la ley o los derechos de tercero, provoque algún crimen o delito, o perturbe el orden público.
-
-En consecuencia, es inviolable la libertad de escribir y publicar escritos sobre cualquier materia. Ninguna ley ni autoridad puede establecer la previa censura, ni exigir fianza a los autores o impresores, ni coartar la libertad de imprenta, que no tiene más límite que el respeto a la vida privada, a la ley y a la paz pública. En ningún caso podrá secuestrarse la imprenta o cualquier otro medio que haya servido para hacer la impresión, como instrumento del delito.
-
-Las leyes orgánicas dictarán cuantas disposiciones sean necesarias para evitar que so pretexto de las denuncias por delitos de prensa, sean encarcelados los expendedores, voceadores de periódicos, operarios y demás empleados del establecimiento en que se haya impreso el escrito denunciado, a menos que se demuestre previamente la responsabilidad de aquéllos.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
 
 ###### ARTICULO 3°.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1940)
+La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque la moral, los derechos de terceros, provoque algún delito o perturbe el orden público el derecho a la información será garantizado por el Estado.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
+En consecuencia, es inviolable la libertad de escribir y publicar escritos sobre cualquier materia. Ninguna Ley ni autoridad puede establecer la previa censura, ni exigir a los autores o impresores ni coartar la libertad de imprenta, que no tiene más límite que el respeto a la vida privada, a la ley y a la paz pública. En ningún caso podrá secuestrarse la imprenta o cualquier otro medio que haya servido para hacer la impresión, como instrumento del delito.
+
+Las leyes orgánicas dictarán cuantas disposiciones sean necesarias para evitar que so pretexto de las denuncias por delitos de prensa, sean encarcelados los expendedores, voceadores de periódicos, operarios y demás empleados del establecimiento en que haya impreso el escrito denunciado, a menos que se demuestre previamente la responsabilidad de aquéllos.
 
 ###### ARTICULO 4°.
 
@@ -203,21 +199,23 @@ III. Contribuir para los gastos públicos de la Federación, del Estado y del Mu
 
 IV. Cooperar en la Campaña de Alfabetización.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
+
 ## TITULO SEGUNDO. Del Orden Público
 
 ###### ARTICULO 23.
 
-Son obligaciones del ciudadano:
+Son ciudadanos del Estado de Oaxaca, hombres y mujeres que hayan nacido en su territorio, quienes sean hijos de padres oaxaqueños, de padre o madre oaxaqueños y quienes teniendo una residencia mínima de 5 años en la Entidad, deseen ser considerados como tales, en los términos de Ley. Son obligaciones de los ciudadanos del Estado:
 
-I. Votar en las elecciones;
+I.- Votar en las elecciones populares;
 
-II. Inscribirse en los padrones electorales;
+II.- Inscribirse en los padrones electorales;
 
-III. Desempeñar los cargos de elección popular, las funciones electorales y las de jurado;
+III.- Desempeñar los cargos de elección popular, las funciones electorales y las de jurado que determinan la Ley y las autoridades competentes;
 
-IV. Opinar en asuntos políticos y tomar parte activa en la cosa (sic) pública, en la esfera de sus facultades y con las limitaciones que fije la ley;
+IV.- Dar la información verídica al Ejecutivo del Estado de las necesidades de la comunidad y proponer soluciones que mejoren el desarrollo económico del Municipio y del Estado;
 
-V. Formar parte de la Guardia Nacional para la defensa del territorio y de las instituciones de la República y del Estado, en los términos que prescriban las leyes.
+V.- Formar parte del Ejército Nacional para la defensa del territorio, de las instituciones de la República y del Estado, en los términos que prescriben las leyes.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 17 DE NOVIEMBRE DE 1956)</small>
 
@@ -241,9 +239,15 @@ Las elecciones deben ser enteramente libres, y todo ciudadano que reúna los req
 
 El Estado de Oaxaca es parte integrante de los Estados Unidos Mexicanos; pero es libre y soberano en todo lo que concierne a su régimen interior, conforme a los preceptos de la Constitución General de la República.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 7 DE OCTUBRE DE 1978)</small>
+
 ###### ARTICULO 27.
 
-La soberanía reside esencial y originariamente en el pueblo y se ejerce por medio de los Poderes del Estado, en lo relativo a su gobierno y administración interior, en los términos que establece esta Constitución. Todo poder público dimana del pueblo y se instituye para beneficio de éste.
+La Soberanía reside esencial y originariamente en el pueblo y se ejerce por medio de los Poderes del Estado, en lo relativo a su gobierno y administración interior, en los términos que establece esta Constitución. Todo Poder Público dimana del pueblo y se instituye para beneficio de éste.
+
+Los Partidos Políticos tienen como fin promover la participación del pueblo en la vida democrática y contribuir a la interpretación de la representación estatal de acuerdo con sus principios y programas y mediante el sufragio universal, libre, secreto y directo.
+
+Los Partidos Políticos podrán contar, en forma equitativa, con los elementos necesarios para sus actividades tendientes a la obtención del sufragio popular, por lo que debe garantizarse el libre uso de los medios de información, de acuerdo con los procedimientos que establezca la Ley, los Partidos Políticos son personas morales de interés público; la Ley determinará la forma de su intervención en el proceso electoral.
 
 ###### ARTICULO 28.
 
@@ -265,23 +269,39 @@ El Poder público del Estado se divide, para el ejercicio de sus funciones, en L
 
 #### SECCION PRIMERA. De la Legislatura
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
+
 ###### ARTICULO 31.
 
-El Poder Legislativo se ejerce por una Asamblea que se denominará Legislatura del Estado y estará integrada por Diputados electos directa y popularmente.
+El Poder Legislativo se ejerce por el Congreso del Estado, y estará integrado por Diputados que serán electos cada tres años por los ciudadanos Oaxaqueños; por cada Diputado Propietario se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1944)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
 
 ###### ARTICULO 32.
 
-La legislatura se renovará totalmente cada tres años, en los términos que dispone la Ley respectiva y de acuerdo con las bases que establece esta Constitución.
+Los Diputados Propietarios no podrán ser reelectos para el período inmediato ni con el carácter de suplentes. Los Diputados Suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hayan estado en ejercicio.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
 
 ###### ARTICULO 33.
 
-Se elegirá un Diputado por cada ciento treinta y cinco mil habitantes o fracción mayor de setenta mil. Por cada diputado propietario se elegirá un suplente.
+El Congreso del Estado estará integrado por 18 Diputados electos según el principio de votación mayoritaria relativa, en Distritos Electorales Uninominales y hasta 6 Diputados que serán electos según el principio de representación proporcional en una sola circunscripción Estatal.
 
-Los Diputados propietarios no podrán ser reelectos para el período inmediato ni con el carácter de suplentes. Los diputados suplentes podrán ser reelectos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio.
+La Ley secundaria reglamentará la forma y procedimiento para la elección de Diputados de Mayoría.
+
+La elección de Diputados según el principio de representación proporcional se sujetará a las Bases Generales siguientes y a lo que en particular disponga la Ley.
+
+1 (sic).- Solo se asignarán Diputados por el sistema de representación proporcional a los partidos que acrediten:
+
+A).- Haber participado con candidatos a Diputados por mayoría relativa cuando menos en doce distritos Uninominales y una lista de 6 candidatos para elegirse por representación proporcional;
+
+B).- Que alcanzó por lo menos el tres por ciento de la votación total emitida en la circunscripción plurinominal;
+
+C).- No haber obtenido tres o más Diputaciones de mayoría relativa.
+
+II.- La asignación de los Diputados se hará en los términos de la Ley secundaria y siempre en el orden que tuviesen los candidatos en la lista registrada.
+
+III.- Cuando en las elecciones contendieren únicamente dos Partidos, se repartirá sólo el 50 por ciento de las Diputaciones por el sistema de proporcionalidad, si concurriera sólo un Partido, no se asignará ninguna representación proporcional.
 
 > <small>(REFORMADO, 15 DE JULIO DE 1972)</small>
 
@@ -311,7 +331,13 @@ El ejercicio del cargo de Diputado es incompatible con cualquiera comisión o em
 
 ###### ARTICULO 39.
 
-Los presuntos diputados, propietarios y suplentes presentarán sus credenciales a la Secretaría de la Legislatura, para que sean registradas y se pase lista de ellas en la primera Junta Previa que deberá efectuarse el día primero de septiembre. En esta o en una segunda Junta Previa, se elegirá Mesa Directiva de las Juntas Preparatorias, con forme a la Fracción I del Artículo 41 de esta Constitución.
+La Nueva Legislatura calificará la elección de sus miembros a través del Colegio Electoral el que se integrará con los 7 Diputados de mayoría que hubieren obtenido la más alta votación y con tres de representación plurinominal y se seguirá el procedimiento siguiente:
+
+I.- Los presunto Diputados, propietarios y suplentes, presentarán sus credenciales a la Secretaria de la Legislatura, para que sean registradas y se pase lista de ellas en la primera Junta Previa, que deberá efectuarse el día primero de Septiembre. En ésta o en una segunda Junta Previa, se elegirá Mesa Directiva del Colegio Electoral, conforme a la Fracción l del Artículo 41 de esta Constitución;
+
+II.- Si la primera Junta Previa, ninguno de los presuntos propietarios y su correspondiente suplente no comparecieren, los presentes, cualquiera que sea su número, compelerán a las (sic) ausentes por documentos públicos a concurrir dentro de un plazo que no excederá de siete días, apercibiéndolos de que si no lo hacen, se entenderá que no aceptan el cargo y se convocará a nuevas elecciones por sus respectivos Distritos;
+
+II (SIC).- En la Segunda Junta Previa, que con este motivo se efectué o sea del día 8 de Septiembre, los presentes se declararán en Junta Permanente hasta completar el quórum necesario con los presuntos propietarios o suplentes, pero si llegare el día quince de Septiembre sin que ninguno de los presuntos se hubiere presentado, los presentes, si constituyeren quórum, harán la instalación de la Legislatura y convocarán a nuevas elecciones. En caso contrario, llamarán a sus propios suplentes sucesivamente y por el orden numérico de los Distritos representados, hasta constituir quórum y una vez constituido, procederán a la instalación de la Legislatura y a la convocatoria respectiva de nuevas elecciones.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1944)</small>
 
@@ -323,7 +349,7 @@ Dentro de los cinco días siguientes a la celebración de la primera Junta Previ
 
 #### SECCION SEGUNDA. De la Instalación de la Legislatura y su Funcionamiento
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1944)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
 
 ###### ARTICULO 41.
 
@@ -675,17 +701,27 @@ Las faltas temporales del Gobernador del Estado que excedan de treinta días ser
 
 Las faltas absolutas del Gobernador serán cubiertas con arreglo a las disposiciones siguientes:
 
-I. Si la falta ocurriere estando reunida la Legislatura en período ordinario o extraordinario de sesiones inmediatamente procederá a la elección de Gobernador substituto por mayoría absoluta de votos;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
+
+I. Si la falta ocurriere estando reunido el Congreso en período ordinario o extraordinario de sesiones, inmediatamente procederá a la elección de Gobernador Interino Constitucional por el voto de las dos terceras partes de la Asamblea. Se considerarán, como falta absoluta, los siguientes casos:
+
+A). Muerte, incapacidad grave y abandono del cargo por más de treinta días;
+
+B). Cargos de responsabilidad oficial o delitos del orden común calificados por el Congreso del Estado, erigido en Gran Jurado;
+
+C). Haber solicitado licencia por más de seis meses, salvo que ocupe otra función en el Gobierno Federal;
+
+D). Renuncia expresa por causa grave que será calificada por el Congreso del Estado;
 
 II. Si la falta ocurriere estando la Legislatura en receso, se reunirá a más tardar dentro de los siete días siguientes, sin necesidad de convocatoria, y sólo para el efecto de hacer la elección en los términos de la fracción anterior; presidirá las sesiones el Presidente de la Diputación Permanente;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1944)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
 
-III. Si la falta ocurriere durante los tres primeros años del período constitucional del Gobernador, el substituto convocará a elecciones, de manera que el nuevamente electo, para completar el período del substituido, tome posesión a más tardar a los tres meses de ocurrida la falta;
+III. El Gobernador Constitucional Electo conforme a la fracción I, convocará a elecciones de manera que el nuevamente electo para completar el término legal, tome posesión a más tardar a los seis meses de ocurrida la falta;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1944)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
 
-IV. Si la falta se presentare en los tres últimos años del período constitucional, el Gobernador substituto elegido en los términos de la Fracción l que precede, terminará el período del Gobernador substituido;
+IV. Si la falta se presentare en los últimos tres años del período constitucional, se elegirá Gobernador Constitucional en los términos de la Fracción Primera, el que deberá terminar el período respectivo;
 
 V. Si por cualquiera circunstancia, no pudieren reunirse la Legislatura o la Diputación Permanente y desaparecieren los Poderes Legislativo y Ejecutivo, el Presidente del Tribunal Superior de Justicia o el Magistrado que lo substituya, se hará cargo del Ejecutivo del Estado y convocará a elecciones de diputados y Gobernador, las cuales se efectuarán a los treinta días de que se haya producido la desaparición; los diputados electos instalarán la Legislatura a los quince días de efectuadas las elecciones, y el Gobernador tomará posesión a los quince días de instalada la Legislatura;
 
@@ -765,7 +801,9 @@ II. Cuidar del puntual cumplimiento de esta Constitución y de las leyes, decret
 
 III. Concurrir, el 16 de septiembre, a la apertura del Primer Período Ordinario de Sesiones, correspondiente al Primer Año de Ejercicio Legal de la Legislatura Local, a la de los extraordinarios que hubieren sido convocados a solicitud de Ejecutivo y a la Sesión Solemne a que se refiere el Artículo 43;
 
-IV. Presentar a la Legislatura antes del día veinticinco del mes de septiembre de cada año los proyectos de Ley de Ingresos y Presupuesto de Egresos generales del Estado, que deberán regir en el año inmediato siguiente;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
+
+IV. Presentar a la Legislatura dentro de los primeros cinco días del mes de diciembre de cada año los proyectos de Ley de Ingresos y Presupuesto de Egresos Generales del Estado, que deberán regir en el año inmediato siguiente;
 
 V. Presentar a la Legislatura en los primeros diez días del mes de abril de cada año, la Cuenta de inversión de las rentas generales del Estado correspondiente al año inmediato anterior;
 
@@ -923,17 +961,29 @@ Los Poderes del Estado son los únicos superiores jerárquicos de los Cuerpos Mu
 
 Los Municipios tienen personalidad jurídica propia; pero la política y administrativa de los mismos, fuera del territorio del Estado, corresponde al Ejecutivo, como representante de toda la Entidad.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
+
 ###### ARTICULO 97.
 
-La administración interior de los Municipios se hará por los Ayuntamientos, por los Presidentes Municipales y por los Alcaldes.
+La Administración interior de los Municipios se hará por los Ayuntamientos: El Presidente Municipal dirigirá las deliberaciones y será el ejecutor de los Acuerdos.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1948)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
 
 ###### ARTICULO 98.
 
-Los ayuntamientos serán asambleas formadas por elección popular directa, se compondrán de un número variable de concejales en razón del censo del Municipio; pero en ningún caso será menor de cinco y siempre en número impar. En las elecciones municipales participarán las mujeres, en igualdad de condición que los varones, con el derecho de votar y ser votadas. En la primera sesión que celebren los Ayuntamientos, la cual será presidida por el concejal de mayor edad, se elegirá a mayoría absoluta de votos un Presidente Municipal y uno o dos Síndicos Procuradores que deberán fungir durante el período de su elección. Los concejales restantes se denominarán Regidores.
+Los Ayuntamientos serán asambleas electas por el voto popular y directo de los ciudadanos de cada Municipio. Se integrarán de la siguiente forma:
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1952)</small>
+I.- Un Presidente Municipal que representará al Ayuntamiento en el orden político y lo dirigirá en lo administrativo y será quien esté en primer lugar de la lista de Concejales registrada ante la Comisión Estatal Electoral.
+
+II.- Un Síndico, si el Municipio es menor de 20 mil habitantes y dos si es mayor de dicho número El (sic) o los Síndicos Municipales tendrán la representación jurídica del Ayuntamiento.
+
+III.- Los Regidores en ningún caso, serán menos de cinco y siempre en número impar. Su número aumentará en razón al censo del Municipio, agregándose uno por cada diez mil habitantes hasta completar once regidores.
+
+En la Capital del Estado y en los Municipios cuya población sea de cien mil o más habitantes los Ayuntamientos se integrarán por quince concejales que serán electos de acuerdo al principio de representación proporcional.
+
+IV.- Los Concejales durarán en su encargo tres años y no podrán ser reelectos para el período inmediato.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
 
 #### SECCION SEGUNDA. Del Tribunal Superior de Justicia
 
@@ -945,19 +995,37 @@ Los ayuntamientos serán asambleas formadas por elección popular directa, se co
 
 ###### ARTICULO 99.
 
-Todos los Concejales durarán en su encargo tres años se renovarán totalmente cada tres años, y no podrán ser reelectos para el período inmediato.
+La ley establecerá las formulas electorales de acuerdo con las bases generales siguientes:
+
+I.- El Partido cuya planilla hubiere obtenido el mayor número de votos tendrá derecho a que se le acrediten a quienes establecen la lista como Presidente Municipal y Síndico del Ayuntamiento respectivamente;
+
+II.- La Regidurías que integren el Cabildo, se dividirán entre la votación obtenida por todas las planillas presentadas por los Partidos Políticos contendientes y que hubieren obtenido cuando menos el seis por ciento de la votación total emitida, a fin de obtener un cociente electoral;
+
+III.- Ningún Partido Político podrá obtener más de doce Regidurías.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
 
 #### SECCION CUARTA. Del Ministerio Público
 
 ###### ARTICULO 100.
 
-Los Ayuntamientos serán electos en una sola elección. Una vez elegidos el Presidente y el Síndico o Síndicos Procuradores, los Regidores se distinguirán por número de orden y de igual manera se distinguirán los Síndicos cuando sean dos. Habrá un Síndico para los Ayuntamientos que se compongan hasta de nueve miembros, y dos Síndicos para los que estén formados de once o más.
+La ley Reglamentaria determinará los procedimientos que se observarán en la asignación de los Regidores de representación proporcional.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1971)</small>
+En el caso de dos Síndicos Procuradores los Regidores de representación proporcional tendrán la misma calidad jurídica que los de mayoría.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
 
 ###### ARTICULO 101.
 
-Para ser miembro de un Ayuntamiento, se requiere: Ser mexicano en el ejercicio de sus derechos, haber cumplido 18 años, ser vecino del Municipio y tener un modo honesto de vivir. Por cada miembro del Ayuntamiento que se elija como Propietario se elegirá un Suplente.
+Para ser Concejal del Ayuntamiento se requiere:
+
+I.- Ser ciudadano del Estado, en ejercicio de sus derechos y haber cumplido 18 años de edad;
+
+II.- Ser vecino del Municipio donde se hace la elección o tener una residencia mínima de un año anterior al día de la elección;
+
+III.- Tener un modo honesto de vivir;
+
+IV.- Por cada miembro del Ayuntamiento que se elija como propietario, se elegirá un suplente.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
@@ -1369,7 +1437,7 @@ Dentro del término de quince días, a partir de la fecha en que entre en vigor 
 
 ###### ARTICULO 3°.
 
-El derecho de inamovilidad de los Magistrados y Jueces, sólo se adquirirá después de haber servido sucesivamente períodos de dos y cuatro años, los primeros; y de uno, dos y tres, los segundos. En caso de substitución definitiva de un Magistrado, ésta se hará por el Juez más antiguo.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1940)
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
@@ -1614,3 +1682,15 @@ Este Decreto entrará en vigor a partir de la fecha de su publicación en el Per
 P.O. 26 DE ENERO DE 1974.
 
 UNICO.- El presente decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado y no tendrá efecto retroactivo.
+
+P.O. 7 DE OCTUBRE DE 1978.
+
+DECRETO NUM. 78, QUE REFORMA LA FRACCION IV DEL ARTICULO 80 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+UNICO.- El presente decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE OCTUBRE DE 1978.
+
+DECRETO NUM. 79, QUE REFORMA LOS ARTICULOS 3o., 23, 27, 31, 32, 33, 39, 72, 97, 98, 99, 100 y 101 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+UNICO.- El presente decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
