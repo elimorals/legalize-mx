@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1988-03-18"
+last_updated: "1988-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1707 +21,1301 @@ state: "SIN"
 ---
 # LEY DE HACIENDA PARA EL ESTADO DE SINALOA
 
-LEY DE HACIENDA DEL ESTADO DE SINALOA
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 1988.
+LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO
 
-Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE JULIO DE 2020.
 
-El Ciudadano Alfonso G. Calderón, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, a sus habitantes hace saber:
+Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 26 de agosto de 2004.
 
-Que por el H. Congreso del mismo se le ha comunicado lo siguiente:
+DECRETO NÚMERO 69
 
-El Congreso del Estado Libre y Soberano de Sinaloa, representado por su XLIX Legislatura, ha tenido a bien expedir el siguiente:
+## TITULO PRIMERO
 
-DECRETO NUMERO 41
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-LEY DE HACIENDA DEL ESTADO DE SINALOA
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+###### Artículo 1.
 
-### CAPITULO I. De la Legislación Fiscal
+La presente Ley es de orden público e interés general y tiene por objeto regular la actuación del Órgano Superior de Fiscalización del Estado de México, como la Entidad Estatal de Fiscalización en términos de la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de México, competente en materia de revisión y fiscalización de los fondos, cuentas públicas, deuda pública y actos relativos al ejercicio y aplicación de los recursos públicos de las entidades fiscalizables del Estado de México, asimismo, regular su organización, funcionamiento y atribuciones.
 
-ART. 1.- Los ingresos públicos del Estado se rigen por las disposiciones de la Ley de Ingresos y Presupuesto de Egresos, de esta Ley de Hacienda y de las demás leyes fiscales.
+Adicionalmente, la evaluación y vigilancia por parte de la Legislatura; así como sus atribuciones para promover las responsabilidades que sean procedentes ante el Tribunal Estatal de Justicia Administrativa y la Fiscalía Especializada en Combate a la Corrupción y todas aquéllas que se establezcan en otras leyes aplicables.
 
-ART. 2.- La Legislación Fiscal se complementa con los reglamentos, convenios y demás actos jurídicos que en materia fiscal expidan, otorguen o celebren las autoridades competentes en ejercicio de las atribuciones que les confieran las leyes.
+###### Artículo 2.
 
-ART. 3.- Las normas de derecho tributario que establezcan cargas a los particulares y las que señalen excepciones a las mismas, serán de aplicación estricta.
+Para los efectos de la presente Ley, se entenderá por:
 
-ART. 4.- Fuera del caso del Artículo anterior, tendrán carácter supletorio las normas del derecho administrativo y el derecho común, pero su aplicación se hará teniendo en cuenta los principios y modalidades del derecho fiscal.
+I. Poderes Públicos del Estado: Los poderes Legislativo, Judicial y Ejecutivo comprendiendo sus unidades y dependencias;
 
-ART. 5.- En el orden administrativo, corresponde al Gobernador del Estado, directamente o por conducto de la Secretaría de Finanzas y sus dependencias, la interpretación y la aplicación de la Legislación Fiscal.
+II. Municipios: A los Municipios del Estado;
 
-ART. 6.- La ignorancia de las leyes, reglamentos y demás disposiciones fiscales de observancia general, debidamente promulgadas y publicadas no excusa de su cumplimiento. Sin embargo, en todos los casos en los que el cumplimiento de las obligaciones fiscales pueda atribuirse al alejamiento de las vías de comunicación, a incultura de los habitantes de una región, a insuficiencia económica y a otras causas excluyentes de mala fé, el Ejecutivo del Estado podrá conceder en forma general o en forma especial, términos adicionales para el cumplimiento de las obligaciones fiscales y podrá eximir a los infractores de las sanciones correspondientes o reducir éstas.
+III. Organo Superior: Al Organo Superior de Fiscalización del Estado de México;
 
-ART. 7.- Las leyes, reglamentos y demás disposiciones fiscales de observancia general, entran en vigor tres días después de su publicación en el Periódico Oficial del Estado, excepto cuando se exprese una fecha de vigencia diferente. En los plazos sobre vigencia de leyes y demás disposiciones a que este Artículo se refiere se computarán los días inhábiles.
+IV. Comisión: A la Comisión de Vigilancia de la Legislatura del Estado;
 
-ART. 8.- Las Leyes Fiscales son de orden público y su aplicación es de interés público. En consecuencia:
+> <small>(REFORMADA, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
-I.- Nadie podrá ostentarse como titular de derechos irrevocables frente a los preceptos de esas leyes;
+V. Entidades Fiscalizables: A los Poderes Públicos, Municipios, organismos autónomos, organismos auxiliares, fideicomisos públicos asimilados y simples, privados y en general cualquier entidad, persona física o jurídica colectiva, pública o privada, mandato, fondo u otra figura análoga que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente con recursos públicos del Estado o Municipios, o en su caso de la federación.
 
-II.- Ninguna autoridad podrá si no existe precepto legal que la faculte para ello, eximir de la observancia de esas leyes, ni otorgar cancelaciones, conceder condonaciones o dispensas de los créditos y demás obligaciones fiscales, ni celebrar transacciones o convenios, que tengan por objeto esos créditos, ni conceder privilegios, ventajas o subsidios, ni desistirse de las acciones o medios de defensa interpuestos para protección de los intereses fiscales;
+VI. Organismos Autónomos: A los organismos que por disposición constitucional estén dotados de autonomía;
 
-III.- Las autoridades fiscales ejercerán las facultades que las Leyes Fiscales les otorguen, de la manera más adecuada para que se alcancen las finalidades de interés público que la Ley se proponga con arreglo a los principios de igualdad y de equidad, sin crear indebidos privilegios o discriminaciones.
+> <small>(REFORMADA, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
-### CAPITULO II. De los ingresos del Estado
+VII. Organismos Auxiliares: A los organismos públicos descentralizados, empresas de participación estatal y fideicomisos públicos asimilados de la administración pública estatal y municipal.
 
-ART. 9.- Los ingresos del Estado se establecen por la Ley de Ingresos y Presupuesto de Egresos, correspondiente a cada ejercicio fiscal.
+VIII. Cuenta Pública: Los informes que rinden anualmente a la Legislatura, el Gobernador y los Presidentes Municipales, respecto de los resultados y la situación financiera del ejercicio fiscal inmediato anterior;
 
-ART. 10.- Son ingresos ordinarios los que en forma normal y permanente se autorizan para cubrir el costo de los servicios públicos regulares del Estado. Son ingresos extraordinarios aquellos cuya percepción se autoriza para promover el pago de gastos que obedezcan a una situación de emergencia del Gobierno del Estado.
+IX. Gestión Financiera: A la actividad de las Entidades Fiscalizables respecto de la administración, manejo, custodia y aplicación de los recursos públicos que utilicen para alcanzar los objetivos contenidos en sus planes y programas, en el periodo que corresponde a una cuenta pública;
 
-ART. 11.- Los ingresos ordinarios tienen la siguiente clasificación legal: Impuestos, Derechos, Productos, Aprovechamientos y Participaciones.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-ART. 12.- Son impuestos las prestaciones en dinero o en especie, que fija la ley con carácter general y obligatorio, a cargo de personas físicas, morales y unidades económicas, para cubrir los gastos públicos del Estado.
+X. Fiscalización: A la revisión que realiza el órgano Superior, conforme a esta Ley y las disposiciones constitucionales y legales aplicables.
 
-ART. 13.- Son contribuciones especiales las destinadas a la creación de fondos para fines específicos.
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
 
-ART. 14.- Son derechos las contraprestaciones establecidas por el poder público, conforme a la Ley, en pago de un servicio.
+XI. Informe Mensual: Al documento que mensualmente envían para su análisis al Órgano Superior de Fiscalización de la Legislatura, las Tesorerías Municipales y la Secretaría de Finanzas;
 
-ART. 15.- Son productos los ingresos que percibe el Estado por actividades que no corresponden al desarrollo de sus funciones propias de derecho público o por la explotación de sus bienes patrimoniales.
+XII. Informe de Resultados: Al documento que contiene el resultado de la fiscalización de las cuentas públicas, que el Organo Superior, por conducto de la Comisión, presenta a la Legislatura;
 
-ART. 16.- Son aprovechamientos los recargos, las multas y los demás ingresos de derecho público, no clasificables como impuestos, derechos, productos, participaciones y contribuciones especiales.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-ART. 17.- Las participaciones en ingresos federales se percibirán con arreglo a las leyes que las otorguen y a los convenios que se celebren sobre el particular.
+XIII. Informes de auditorías: Aquellos que emita el Órgano Superior, en su caso, derivados de denuncias y solicitudes de la Legislatura.
 
-ART. 18.- Los ingresos extraordinarios que tengan como fuente empréstitos públicos, se percibirán con arreglo a los convenios que celebre el Ejecutivo conforme a lo dispuesto por el Artículo 43, fracción XXIII, de la Constitución Política del Estado. Los demás ingresos extraordinarios se regirán por las leyes que los establezcan.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-ART. 19.- Todos los ingresos públicos del Estado se concentrarán a la Secretaría de Finanzas para cubrir los gastos públicos que autorice para cada ejercicio fiscal la correspondiente Ley de Ingresos y Presupuesto de Egresos. La Secretaría de Finanzas hará la provisión de fondos necesarios a las oficinas pagadoras. Sólo por disposición legal podrán afectarse determinados ingresos públicos a fines especiales, pero en todo caso, se harán los asientos correspondientes en la contabilidad de la Hacienda Pública.
+XIV. Informes Específicos: aquellos que rinda el Órgano Superior a la Legislatura en Pleno.
 
-### CAPITULO III. De las Autoridades Fiscales
+> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
 
-ART. 20.- La Dirección de la política Hacendaria del Estado corresponde al Gobernador del Estado, quien tendrá además, las atribuciones que en esta materia le otorgan la Constitución Política del Estado y las Leyes.
+XV. Revisiones contemporáneas: Aquellas que realice el Órgano Superior de Fiscalización del Estado de México de manera contemporánea a la ejecución de los actos de gobierno y la aplicación de fondos públicos federales, estatales o municipales, sin perjuicio de aquellas que realice de manera posterior a la presentación de cuentas públicas.
 
-ART. 21.- Son Autoridades Fiscales, además del Gobernador del Estado:
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 1983)</small>
+XVI. Auditoría de Desempeño: A la revisión sistemática, interdisciplinaria, organizada, objetiva, propositiva, independiente y comparativa del impacto social de la gestión pública, de los programas y de la congruencia entre lo propuesto y lo obtenido, conforme a los indicadores establecidos en los Presupuestos de Egresos aprobados para el ejercicio fiscal correspondiente y tomando en cuenta los planes de desarrollo.
 
-I.- El Secretario de Hacienda Pública y Tesorería;
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 1983)</small>
+XVII. Evaluación de desempeño: Al análisis y valoración del grado de eficacia, eficiencia, resultados e impacto de las políticas y programas públicos, conforme a los indicadores establecidos en los Presupuestos de Egresos y a los Planes de Desarrollo.
 
-II.- El Sub-Secretario de Hacienda Pública y Tesorería;
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 1983)</small>
+XVIII. Recomendaciones: A las sugerencias de acciones de mejora identificadas como áreas de oportunidad, con el objeto de lograr una adecuada administración de los recursos públicos.
 
-III.- El Sub-Secretario de Ingresos;
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 1983)</small>
+XIX. Recomendaciones de desempeño: A las sugerencias de acciones de mejora para el desempeño de las entidades fiscalizables y sus servidores públicos en el cumplimiento de objetivos y metas institucionales y programáticas, con énfasis en el diseño, instrumentación y resultado de indicadores estratégicos y de gestión.
 
-IV.- El Director de Fiscalización;
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 1983)</small>
+XX. Unidad: Unidad Técnica de Evaluación y Control.
 
-V.- El Director de Administración y Control Fiscal; y,
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE ENERO DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 1983)</small>
+###### Artículo 3.
 
-VI.- Las demás autoridades a que esta Ley y demás ordenamientos legales confieren atribuciones en materia hacendaria.
+La revisión y fiscalización de las cuentas públicas, es facultad de la Legislatura.
 
-ART. 22.- Son órganos auxiliares de las Autoridades Fiscales, todas las autoridades administrativas, judiciales y municipales del Estado, las que deberán prestar la colaboración que aquellas les soliciten, de acuerdo con la Legislación Fiscal.
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-ART. 23.- La competencia de las Autoridades Fiscales en razón del territorio, del grado y de la materia es la que determina la Legislación Fiscal.
+Para efectos de la fiscalización, se auxiliará del Órgano Superior, dotado de autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la legislación aplicable.
 
-ART. 24.- Las Autoridades Fiscales, dentro de su competencia, tendrán, independientemente de las facultades específicas que les otorguen las leyes, las siguientes:
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-I.- Exigir de los contribuyentes y de terceros, el cumplimiento de las respectivas obligaciones que les imponga la legislación fiscal.
+El Órgano Superior para su operación contará con un presupuesto que será no menor del 14 por ciento del presupuesto aprobado a la Legislatura.
 
-II.- Pedir a los contribuyentes que aclaren, aporten o comprueben los datos e informes que estimen pertinentes para la determinación de los créditos fiscales a su cargo.
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-III.- Practicar visitas en el domicilio o dependencias de los sujetos pasivos, de los responsables solidarios o de los terceros y revisar sus libros, documentos y correspondencia que tengan relación con las obligaciones fiscales y en su caso, asegurarlos, dejando en calidad de depositario al visitado, previo inventario que al efecto se formule.
+El Órgano Superior será vigilado y supervisado por una Comisión de la Legislatura, en los términos de la presente Ley.
 
-IV.- En las visitas domiciliarias se observará lo siguiente:
+###### Artículo 4.
 
-Sólo se practicarán por mandamiento escrito de autoridad fiscal competente que expresará:
+Son sujetos de fiscalización:
 
-a).- El nombre de la persona que debe recibir la visita y el lugar donde ésta deba llevarse a cabo.
+I. Los Poderes Públicos del Estado;
 
-Cuando se ignore el nombre de la persona que deba ser visitada se señalarán datos suficientes que permitan su identificación;
+II. Los municipios del Estado de México;
 
-b).- El nombre de la persona o personas que deban desahogar la diligencia, las cuales podrán ser substituidas, aumentadas o reducidas en su número por la autoridad que expidió la orden. En estos casos se comunicarán por escrito al visitado estas circunstancias, pero la visita podrá ser válidamente practicada por cualquiera de los visitadores;
+III. Los organismos autónomos;
 
-c).- Las obligaciones fiscales que vayan a verificarse, así como el período o aspectos que abarque la visita.
+IV. Los organismos auxiliares;
 
-V.- Al iniciarse la visita se entregará la orden al visitado o a su representante y si no estuvieren presentes a quien se encuentre en el lugar en que debe practicarse la diligencia. En el mismo acto se identificarán los visitadores;
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2018)</small>
 
-VI.- El visitado será requerido para que proponga dos testigos y en su ausencia o negativa de aquél, serán designados por el personal que practique la visita;
+V. Los fideicomisos previstos en el artículo 3 fracción XVII del Código Financiero del Estado de México y Municipios, y aquellos que manejen recursos del Estado, Municipios, o en su caso provenientes de la federación;
 
-VII.- El visitado deberá proporcionar y mantener a disposición de los visitadores, desde el momento de la iniciación de la diligencia hasta la terminación de ésta, sus libros principales, sociales, auxiliares, registros, documentos, correspondencia y demás efectos contables, los que serán examinados en el domicilio, establecimiento o dependencia del visitado. Los visitadores podrán sacar copias de la documentación del causante que estimen necesaria, para que previo cotejo con sus originales se certifique por aquellos y sea anexada a las actas finales o parciales que se levanten durante y con motivo de la visita;
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-Los libros, registros y documentos, sólo podrán asegurarse mediante la colocación de sellos o recogerse:
+VI. Cualquier entidad, persona física o jurídica colectiva, pública o privada, mandato, fondo u otra figura análoga que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente con recursos públicos del Estado o Municipios, o en su caso de la federación.
 
-a).- Cuando existan libros, registros o sistemas de contabilidad obligatoria que no estén autorizados;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE MAYO DE 2017)</small>
 
-b).- Cuando se encuentren libros, registros o sistemas de contabilidad cuyos asientos o datos no coincidan con los de los autorizados;
+###### Artículo 5.
 
-c).- Cuando no se hayan presentado declaraciones o manifestaciones fiscales, respecto del o los ejercicios objeto de la visita;
+La fiscalización superior se podrá realizar de manera contemporánea a la ejecución de actos de gobierno y la aplicación de recursos públicos en los casos que corresponda, así como de manera posterior al término de cada ejercicio fiscal y a la presentación de las cuentas públicas, de manera externa, independiente y autónoma de cualquier forma de control y evaluación internos de las entidades fiscalizables y de conformidad con lo establecido en la presente Ley.
 
-d).- Cuando los datos anotados en los libros, registros o sistemas de contabilidad autorizados no coincidan con los asentados en las declaraciones o manifestaciones presentadas;
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-e).- Cuando al inicio de una visita o durante el transcurso de ella, el visitado, su representante legal o quien se encuentre en el domicilio de la visita, se niegue a recibirla o impida el acceso a los visitadores a las oficinas, bodegas, locales, dependencias, cajas de valores o no ponga a disposición de los visitadores los libros, registros y documentos a que se refiere esta fracción, o bien imposibilite o dificulte por cualquier causa la realización de la visita;
+Para efectos del párrafo anterior, el Órgano Superior podrá solicitar la información que considere necesaria para la adecuada planeación de la fiscalización.
 
-f).- Cuando se violen los sellos que hubiesen sido colocados por los visitadores como medida precautoria;
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-En todos los casos en que se recojan libros, registros o documentos, este hecho se hará constar en acta.
+###### Artículo 6.
 
-VIII.- Los visitadores harán constar en el acta los hechos u omisiones observados y al concluir la visita, cerrarán el acta haciendo constar los resultados en forma circunstanciada. Las opiniones de los visitadores sobre el cumplimiento o incumplimiento de las disposiciones fiscales o sobre la situación financiera del visitado, no producirán efectos de resolución fiscal;
+El Órgano Superior en el ejercicio de sus atribuciones, desarrollará la función de fiscalización conforme a los principios de legalidad, definitividad, imparcialidad, confiabilidad y de máxima publicidad. Asimismo, deberá fiscalizar las acciones de las entidades fiscalizables en materia de fondos, recursos públicos y deuda pública de conformidad con las leyes aplicables.
 
-IX.- El visitado o la persona con la que se entienda la diligencia, los testigos y cualquiera de los visitadores que hayan terminado la visita firmarán el acta, lo que será suficiente para su validez. Si el visitado o los testigos se niegan a firmar, así lo harán constar el o los visitadores, sin que esta circunstancia afecte el valor probatorio del documento. Un ejemplar del acta se entregará en todo caso al visitado o a la persona con la que se entienda la diligencia;
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-X.- Con las mismas formalidades indicadas en la fracción anterior, se levantarán actas parciales o complementarias para hacer constar hechos concretos en el curso de una visita o después de su conclusión;
+###### Artículo 7.
 
-XI.- El visitado, o quien lo represente, podrá inconformarse con los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los veinte días siguientes a la conclusión de las mismas, ante la Secretaría de Finanzas, en el que expresará las razones de su inconformidad, y ofrecerá las pruebas documentales pertinentes que deberá acompañar a su escrito o rendir a más tardar dentro de los cuarenta y cinco días siguientes. En caso de que no se formule inconformidad, no se ofrezcan pruebas o no se rindan las ofrecidas, se perderá el derecho de hacerlo posteriormente y se tendrá al visitado conforme con los hechos asentados en las actas.
+A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria, la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado de México y Municipios, el Código Financiero del Estado de México y Municipios, el Código Administrativo del Estado de México, el Código de Procedimientos Administrativos del Estado de México, la Ley de Planeación del Estado de México y Municipios, las demás disposiciones relativas a los sistemas nacional y estatal anticorrupción y los principios generales de derecho.
 
-XII.- Ordenar la inspección de predios, establecimientos y otros lugares, cualquiera que sea su naturaleza, así como la inspección de vehículos, libros, documentos, mercancías u otros objetos, de cualquiera clase que sean, cuando lo estimen necesario para el conocimiento de hechos o circunstancias que sirvan de base para la aplicación de la Legislación Fiscal.
+### CAPITULO PRIMERO. DE LAS ATRIBUCIONES
 
-XIII.- Revisar, según proceda, las manifestaciones y declaraciones de impuestos y derechos y determinar los créditos fiscales respectivos;
+###### Artículo 8.
 
-XIV.- Determinar estimativamente los créditos fiscales, cuando no se aclaren o comprueben o no se aporten los datos comprobatorios dentro del término que la Ley señala, o cuando, como resultado de las auditorías, visitas e inspecciones practicadas se compruebe que los datos manifestados o declarados son inexactos.
+El Órgano Superior tendrá las siguientes atribuciones:
 
-Las autoridades fiscales podrán determinar estimativamente la base y el ingreso gravable de los causantes, en los siguientes casos:
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-a).- Cuando omitan presentar sus declaraciones hasta el momento de iniciación de una visita domiciliaria o de la solicitud de documentos, datos o informes relacionados con su revisión por parte de cualquier autoridad fiscal; se opongan u obstaculicen la iniciación o desarrollo de tales actividades, o se nieguen a recibir la orden o petición respectiva, según sea el caso;
+I. Fiscalizar en todo momento los ingresos y egresos de las entidades fiscalizables a efecto de comprobar que su recaudación, administración, desempeño, niveles de deuda y aplicación se apegue a las disposiciones legales, administrativas, presupuestales, financieras y de planeación aplicables;
 
-b).- Cuando no presenten los libros de contabilidad, documentación comprobatoria de los renglones de las declaraciones, o no proporcionen los informes que se les soliciten;
+> <small>(REFORMADA, G.G. 16 DE ENERO DE 2007)</small>
 
-c).- Cuando la contabilidad del negocio del causante adolezca de alguno de los siguientes vicios:
+II. Fiscalizar, en todo momento, el ejercicio, la custodia y aplicación de los recursos estatales y municipales así como los recursos federales en términos de los convenios correspondientes;
 
-1.- Que omita ingresos que excedan, del 3% de los declarados;
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-2.- Que omita o altere el registro de existencias que deban figurar en los inventarios, o registren dichas existencias a precios distintos de los de costo, siempre que en ambos casos, el importe exceda del 3% de los ingresos declarados;
+III. Revisar las cuentas públicas de las entidades fiscalizables y entregar a la Legislatura, a través de la Comisión, el informe de resultados y los informes de auditorías que correspondan.
 
-3.- Que aparezca con (sic)
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-4.- Que haga constar asientos, cuentas, cantidades o cualquier otro dato falso o inexacto; o
+IV. Requerir y revisar de manera casuística y concreta, la información y documentación relativa a ejercicios anteriores al de la cuenta pública en revisión, sin que con este motivo se entienda para todos los efectos legales, abierta nuevamente la cuenta pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión, abarque para su ejecución y pago diversos ejercicios fiscales, o se trate de revisiones sobre el cumplimiento de los objetivos de los programas estatales y municipales.
 
-5.- Que omita el registro de facturas de compras, cuyo monto exceda del 3% del importe total de las efectuadas en el ejercicio.
+V. Verificar que las entidades fiscalizables que hubieren recaudado, manejado, administrado o ejercido recursos públicos, se hayan conducido conforme a los programas aprobados y montos autorizados; y que los egresos se hayan ejercido con cargo a las partidas correspondientes y con apego a las disposiciones legales, reglamentarias y administrativas aplicables;
 
-d).- Si con base en la contabilidad, documentación del causante, e informes de terceros, no se puedan reconstruir las operaciones normales correspondientes, la Secretaría de Finanzas podrá determinar estimativamente el ingresos gravable, tomando en cuenta lo sigiente:(sic)
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-Importe de compras efectuadas, inventarios de mercancías, de maquinaria y equipo; monto de la renta del local en que estén establecidos los negocios; número de trabajadores que tengan a su servicio y sueldos de que disfruten; pagos de cuotas al Instituto Mexicano del Seguro Social; impuestos pagados a la Federación Estado o Municipio; cantidades que hayan cubierto por concepto de Energía Eléctrica y Teléfono; retiros en efectivo y en especie efectuados por el propietario del negocio para la atención de sus necesidades personales y de su familia, y en general, todos los elementos de juicio que puedan utilizarse en la determinación de ingresos gravables percibidos por estos causantes.
+VI. Practicar auditorías de desempeño en el cumplimiento de los objetivos contenidos en los programas, conforme a los indicadores que correspondan y evaluar la eficacia, eficiencia y economía en el uso de los recursos públicos por las entidades fiscalizables, la congruencia del ejercicio de los presupuestos con los programas y de estos con los planes y políticas públicas conforme a los estándares internacionales;
 
-e).- Si de acuerdo con el inciso anterior no se pueden reconstruir las operaciones del causante, la Autoridad Fiscal tomará como base los ingresos que observe durante tres días, cuando menos, de operaciones normales y el promedio diario resultante se multiplicará por el número de días que comprenda el periodo objeto de revisión. No se computarán los días inhábiles ni aquellos en que el causante compruebe no haber realizado operaciones.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-Al ingreso o base gravable estimado presuntivamente por alguno de los procedimientos anteriores se le aplicará la tasa o tarifa que corresponda;
+VII. Ejercer las atribuciones previstas en la legislación relativa a los sistemas nacional y estatal anticorrupción.
 
-XV.- Liquidar los créditos fiscales directamente, en los casos en que no se requiera la presentación de declaraciones o manifestaciones conforme a la Ley;
+VIII. Corroborar que las operaciones realizadas por las entidades fiscalizables sean acordes con las leyes de ingresos y presupuestos de egresos del Estado y municipios, y se hayan efectuado con apego a las disposiciones legales aplicables;
 
-XVI.- Pedir a los terceros que estén o hayan estado en relaciones de negocios con los contribuyentes, que les suministren los datos e informes necesarios para determinar la situación fiscal de éstos; así como ordenar, con el mismo fin, la práctica de visitas a dichos terceros, limitándose estas diligencias a la investigación de los datos relativos a las operaciones efectuadas entre dichos terceros y los contribuyentes cuya situación fiscal se investigue;
+IX. Revisar que los subsidios otorgados por las entidades fiscalizables, con cargo a sus presupuestos, se hayan aplicado a los objetivos autorizados;
 
-XVII.- Imponer sanciones en el orden administrativo, conforme a la Ley, por infracciones a la Legislación Fiscal y hacer las consignaciones procedentes al Ministerio Público en los casos de delitos cometidos en perjuicio de la Hacienda Pública del Estado;
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-XVIII.- Aplicar el procedimiento fiscal de ejecución, con arreglo a esta Ley.
+X. Realizar, de acuerdo con el programa anual de auditorías aprobado, las auditorías y revisiones, conforme a las normas profesionales homologadas emitidas por el Sistema Nacional de Fiscalización, el Sistema Estatal de Fiscalización y otras normas de auditoría, procedimientos de auditoría, métodos y sistemas de contabilidad y de archivo de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público, que le permitan la práctica idónea de las auditorias y revisiones, que respondan a los estándares internacionales, con apego a las disposiciones legales, reglamentarias y administrativas aplicables.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1983)</small>
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-ART. 25.- La Secretaría de Hacienda Pública y Tesorería, la Sub-Secretaría de Hacienda Pública y Tesorería y la Sub-Secretaría de Ingresos tienen la facultad y el deber de vigilar el exacto cumplimiento de las Leyes y demás disposiciones fiscales. Por lo tanto, investigarán por los medios legales, si los créditos fiscales han sido debidamente determinados y pagados; si los contribuyentes han presentado las declaraciones a que están obligados y si los datos que contienen corresponden a la realidad y, en general, si se ha dado oportuno cumplimiento a las obligaciones que imponga la Legislación Fiscal.
+XI. Establecer los lineamientos, criterios, procedimientos, métodos y sistemas para las acciones de control y evaluación, necesarios para la fiscalización de las cuentas públicas y los informes mensuales.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1983)</small>
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-ART. 26.- El Secretario de Hacienda Pública y Tesorería, el Sub-Secretario de Hacienda Pública y Tesorería y el Sub-Secretario de Ingreso son autoridades competentes para ordenar la práctica de visitas a que se refiere la fracción III del Artículo 24 de esta Ley.
+XII. Fiscalizar las obras públicas y servicios relacionados con las mismas que, por sí o por conducto de terceros realicen las entidades fiscalizables de conformidad con la ley de la materia.
 
-ART. 27.- Los funcionarios y empleados fiscales están obligados, bajo su inmediata responsabilidad personal, a guardar el secreto de la situación económica de los contribuyentes que haya llegado a su conocimiento en actos de servicio; les está prohibido explotar o aprovechar en cualquier forma, los secretos profesionales de negocios que en actos del servicio hayan llegado a su conocimiento, así como al suministrar datos fiscales relativos al empadronamiento y valor catastral de predios rústicos y urbanos, de negocios comerciales, industriales, agrícolas y de profesiones y oficios, salvo por orden de autoridad Judicial competente o a solicitud por escrito de Autoridad Federal o de los dueños, poseedores, arrendatarios o encargados de estos bienes y negocios.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1983)</small>
+XIII. Fiscalizar la adquisición, enajenación y arrendamiento de bienes, así como la contratación de servicios de cualquier naturaleza, que realicen las entidades fiscalizables de conformidad con la ley de la materia.
 
-ART. 28.- La determinación, revisión y recaudación de los impuestos y demás ingresos propios del Estado y los permisos, autorizaciones o registros que sean de la competencia de la Secretaría de Hacienda Pública y Tesorería, se harán por las Autoridades hacendarias, a través de la Sub-Secretaría de Hacienda Pública y Tesorería y de la Sub-Secretaría de Ingresos.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-ART. 29.- La obligación fiscal nace cuando se realizan las situaciones jurídicas o de hecho previstas en las leyes fiscales.
+XIV. Verificar que las cuentas públicas, los informes mensuales y la información financiera, se hayan presentado de conformidad con lo dispuesto en la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás disposiciones aplicables.
 
-ART. 30.- Dicha obligación se determinará y liquidará conforme a las disposiciones vigentes en el momento de su nacimiento; pero le serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-ART. 31.- El crédito fiscal es la obligación fiscal determinada en cantidad líquida y debe pagarse en la fecha o dentro del plazo señalado en las disposiciones respectivas. A falta de disposición expresa, el pago deberá hacerse:
+XV. Rendir los informes a la Comisión sobre el resultado de la revisión de los informes mensuales sobre los ingresos obtenidos y aplicación de recursos de las entidades fiscalizables, así como de las revisiones a las que se refieren las fracciones I y II del presente artículo.
 
-I.- Si es a las autoridades a las que corresponde formular la liquidación, dentro de los quince días siguientes a la fecha en que haya surtido efectos la notificación de la misma;
+XVI. Requerir, según corresponda, a los titulares de la Secretaría de la Contraloría del Poder Ejecutivo y de los demás órganos de control interno de las entidades fiscalizables, en términos de las disposiciones legales aplicables, los dictámenes de acciones de control y evaluación por ellos practicadas, relacionados con las cuentas públicas que el Organo Superior esté fiscalizando, así como las observaciones y recomendaciones formuladas, las sanciones impuestas y los seguimientos practicados;
 
-II.- Si es a los sujetos pasivos o responsables solidarios a quienes corresponda determinar en cantidad líquida la prestación, dentro de los veinte días siguientes al nacimiento de la obligación fiscal, y
+XVII. Requerir, según corresponda, por conducto de los titulares de la Secretaría de la Contraloría del Poder Ejecutivo y de los demás órganos de control interno de las entidades fiscalizables, a los profesionistas independientes y auditores externos que sean autorizados legalmente, los dictámenes de las auditorías y revisiones por ellos practicadas;
 
-III.- Si se trata de obligaciones derivadas de contratos o concesiones que no señalen la fecha de pago, este deberá hacerse dentro de los quince días siguientes a la fecha de su celebración u otorgamiento.
+XVIII. Requerir, en su caso, a los terceros que hubieren contratado obras, bienes o servicios, mediante cualquier título legal, con las entidades fiscalizables, la información relacionada con la documentación justificativa y comprobatoria de las cuentas públicas, con la única finalidad de realizar la compulsa correspondiente;
 
-### CAPITULO IV. De los Créditos Fiscales
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-ART. 32.- El monto del crédito se determina con arreglo a las bases legales correspondientes y a los procedimientos establecidos por cada especie de crédito.
+XIX. Requerir a las entidades fiscalizables la información y documentos necesarios para los actos de fiscalización, así como solicitar a otras autoridades el auxilio o colaboración para el cumplimiento de sus atribuciones.
 
-ART. 33.- Sujeto pasivo de un crédito fiscal es la persona física o moral que, de acuerdo con las leyes, está obligada al pago de una prestación determinada al fisco local.
+De no proporcionar la información, los responsables serán sancionados en los términos de la legislación aplicable.
 
-ART. 34.- También es sujeto pasivo cualquiera agrupación que constituya una unidad económica diversa de la de sus miembros. Para la aplicación de las Leyes Fiscales, estas agrupaciones se asimilan a las personas morales.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-ART. 35.- Cuando dos o más personas estén obligadas al pago de una misma prestación fiscal, tendrán la calidad de codeudores con responsabilidad solidaria.
+XX. Ejercer las atribuciones de la autoridad investigadora a que se refiere la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
-Esta regla se observará también en los casos de comunidad o copropiedad de bien y en aquéllos en que se posea en común un bien determinado, salvo los casos expresamente exceptuados por esta Ley u otras Leyes fiscales del Estado.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-ART. 36.- Los terceros que, sin tener calidad de deudores directos de un crédito fiscal, no den cumplimiento a determinadas obligaciones que les impongan las Leyes Fiscales, tendrán responsabilidad indirecta, cuando así lo establezca la Ley. Esta responsabilidad indirecta será solidaria con el deudor directo, salvo los casos en que la Ley dé la calidad de responsabilidad subsidiaria o substituta.
+XXI. Ejercer las atribuciones de la autoridad substanciadora a que se refiere la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
-ART. 37.- Si un tercero por voluntad propia se obliga al pago de una prestación fiscal en sustitución del deudor directo, éste no queda liberado por ese hecho de su obligación, pero el tercero adquirirá responsabilidad solidaria.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-ART. 38.- Están exentos del pago de impuestos: La Federación, Las Entidades Federativas, el Estado de Sinaloa y sus Municipios y las Instituciones de Beneficiencia (sic) Privada, previa declaratoria del Ejecutivo del Estado, tratándose de estas últimas.
+XXII. Promover ante las autoridades competentes el fincamiento e imposición de las responsabilidades a que se refiere el Título Séptimo de la Constitución Política del Estado Libre y Soberano de México, así como presentar las denuncias o querellas penales que correspondan, en cualquier momento cuando se cuenten con los elementos que establezcan las leyes de la materia, con sustento en un expediente técnico.
 
-ART. 39.- El pago de los créditos fiscales se harán dentro del plazo legal y contra recibo oficial de pago. Dicho pago se hará en las Oficinas Recaudadoras y en las Instituciones de crédito que al efecto señale la Secretaría de Finanzas. Los giros postales, telegráficos o bancarios y los cheques certificados se admitirán como efectivo.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-Los marbetes sólo se admitirán como medio de comprobar el pago de los créditos fiscales cuando las leyes así lo establezcan.
+XXIII. Conocer las denuncias presentadas en contra de los servidores públicos de las entidades fiscalizables o de los que hayan dejado de serlo, conforme a lo dispuesto en la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado de México y Municipios y previo análisis de procedencia, revisar los actos denunciados, durante el ejercicio fiscal en curso, así como de ejercicios anteriores o en su caso remitirlas a la autoridad competente.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-ART. 40.- Cuando no se paguen los créditos fiscales en la fecha o dentro del plazo señalado en las disposiciones fiscales respectivas, deberán cubrirse recargos, en concepto de indemnización al fisco estatal por la falta de pago oportuno.
+XXIV. Obtener derivado del ejercicio de las atribuciones previstas en esta Ley y otras disposiciones legales aplicables, copias de los documentos originales que se tengan a la vista y certificarlas a través de cotejo con sus originales, así como solicitar la documentación en copias certificadas.
 
-Dichos recargos se calcularán conforme a una tasa del 12.75% aplicable por cada treinta días naturales o fracción que transcurra a partir del día siguiente de aquel en que debió hacerse el pago y hasta que éste se efectúe.
+XXV. Conocer y en su caso formular recomendaciones sobre los sistemas, procedimientos, controles y métodos de contabilidad, normas de control interno y de registros contables de los libros y documentos justificativos y comprobatorios del ingreso y gasto público de las entidades fiscalizables;
 
-Los recargos se calcularán sobre el importe del crédito principal, excluyendo los demás conceptos que se deriven de dicho importe. El monto de los recargos aplicables no excederá del importe del crédito fiscal y cuando el pago hubiere sido menor al que corresponda, los recargos se computarán sobre la diferencia.
+XXVI. Asesorar y proporcionar asistencia técnica de manera permanente a las entidades fiscalizables, así como promover y realizar cursos y seminarios de capacitación y actualización;
 
-Los plazos para el pago de crédito (sic) fiscales, se suspenderán cuando por causas imputables a las autoridades fiscales estatales, el interesado no pueda hacer el pago dentro de esos plazos establecidos.
+XXVII. Establecer coordinación, en términos de esta Ley, con:
 
-No se causarán recargos cuando el causante, al hacer un pago extemporáneo compense su saldo anterior (sic) favor hasta por el monto de dichos saldo.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
-ART. 41.- Los recargos fiscales se aplicarán independientemente de las multas que establezca la Ley. Los recargos no tienen el carácter de sanción sino se (sic) indemnización al erario por la falta de pago oportuno de los adeudos respectivos. La tasa de los recargos fiscales podrá ser mayor hasta un 50% que la que se fije conforme al párrafo final del Artículo 42 de esta Ley.
+a. Las Secretarías de Finanzas y de la Contraloría, con las contralorías de los municipios y sus organismos auxiliares, órganos internos de control de los Poderes Legislativo y Judicial y de los organismos autónomos, a fin de determinar los procedimientos necesarios que permitan el eficaz cumplimiento de sus respectivas atribuciones.
 
-ART. 42.- La secretaría de Finanzas, podrá conceder prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades. La prórroga o el plazo dentro del cual deben pagarse las parcialidades, no excederá de un año.
+b. Los órganos de fiscalización dependientes de las legislaturas de las entidades federativas y del Congreso de la Unión, para lograr el mejor cumplimiento de sus respectivas atribuciones, gozando de facultades para celebrar convenios de cooperación técnica o administrativa y en los aspectos relacionados con la capacitación de su personal; y
 
-En los casos a que se refiere este precepto deberá garantizarse el interés fiscal salvo que, conforme a esta Ley, proceda su dispensa.
+c. Las demás dependencias y organismos públicos y privados que en la aplicación de las leyes deban coordinarse con el Organo Superior, así como aquellas personas físicas y jurídicas colectivas vinculadas a las entidades fiscalizables por virtud de cualquier acto jurídico.
 
-La Secretaría de Finanzas podrá dispensar la garantía del interés fiscal cuando, en relación con el monto del crédito respectivo, sean notorias la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
+XXVIII. Suscribir acuerdos y convenios de coordinación y de cooperación técnica, administrativa o de capacitación, con los órganos de fiscalización equivalentes, dependientes de las legislaturas de las entidades federativas y del Congreso de la Unión, así como con las demás dependencias y organismos públicos y privados, así como con aquellas personas físicas y jurídicas colectivas vinculadas con las entidades fiscalizables, informando de ello a la Comisión;
 
-Durante los plazos concedidos se causarán los recargos conforme la tasa que fije anualmente la Ley de Ingresos y Presupuesto de Egresos del Estado, tomando en cuenta el tipo de interés que rija en el mercado.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-ART. 43.- Cesará la prórroga o la autorización para pagar en parcialidades y el crédito fiscal será inmediatamente exigible.
+XXIX. Implementar los sistemas de información necesarios para el cumplimiento de sus atribuciones.
 
-I.- Cuando desaparezca o resulte insuficiente la garantía del interés fiscal;
+> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
 
-II.- Cuando el deudor sea declarado en quiebra o solicite su liquidación judicial, y
+XXX. Vigilar que las Remuneraciones de los servidores públicos del Estado y Municipios, se ajusten a lo establecido en los catálogos generales de puestos y tabuladores de remuneraciones aprobados por la Legislatura del Estado o por los ayuntamientos respectivos;
 
-III.- Cuando en su caso deje de cubrirse alguna de las parcialidades.
+> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
 
-ART. 44.- Habrá derecho a reclamar la devolución de las cantidades indebidamente pagadas o pagadas en cantidad mayor de la debida.
+XXXI. Proporcionar a solicitud de los Ayuntamientos, asesoría técnica, información y orientación en materia de catálogos generales de puestos y de tabuladores de remuneraciones;
 
-La solicitud de devolución se presentará por escrito, ante la Secretaría de Finanzas, debidamente motiva y fundada, acompañada de; documentos probatorios de los hechos aducidos y de los que acrediten el ingreso del pago indebido. La Secretaría de Finanzas formulará un dictamen sobre la procedencia o improcedencia de la devolución.
+> <small>(REFORMADA, G.G. 23 DE JULIO DE 2020)</small>
 
-Cuando se acuerde la devolución por la cantidad que proceda, deberá efectuarse en un plazo que no excederá de tres meses. En caso contrario se pagarán intereses a razón del 18% anual.
+XXXII. Proporcionar a la Comisión de Planeación y Gasto Público de la Legislatura, para el cumplimiento de sus atribuciones, la información, asesoría técnica, orientación y demás apoyo que le solicite en materia de catálogos generales de puestos y tabuladores de remuneraciones de los servidores públicos estatales y municipales;
 
-Tratándose de créditos fiscales cuyo importe hubiera sido efectivamente retenido a los sujetos pasivos, el derecho a la devolución sólo corresponderá a éstos.
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 2016)</small>
 
-No procederá la devolución de cantidades pagadas indebidamente cuando el crédito fiscal haya sido recaudado por terceros, o repercutido o trasladado a éstos por el causante que hizo el entero correspondiente. Sin embargo, si la repercusión se realizó en forma expresa mediante la indicación en el documento respectivo del monto del crédito fiscal cargado, el tercero que hubiere sufrido la repercusión tendrá derecho a reclamar la devolución.
+XXXIII. Verificar el cumplimiento de las disposiciones en materia de disciplina financiera, equilibrio presupuestario y responsabilidad hacendaria por parte de los entes públicos en términos de la legislación en la materia.
 
-ART. 45.- La condonación, sin exceder los límites que establece la Fracción XXIII del artículo 65, de la Constitución Política del Estado, podrá ser total o parcial a juicio del ejecutivo.
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
 
-La condonación que autoriza la Fracción XXV del artículo 43, de la propia Constitución, ya sea de parte de un adeudo o de la totalidad del mismo, se decretará siempre que se demuestre que de efectuarse el cobro, el causante quedará en notario (sic) estado de insolvencia, o cuando por causa de fuerza mayor o de calamidad pública ocurrida en el Estado o en alguna de sus regiones, los causantes de determinados impuestos de la zona afectada, hayan sufrido perjuicios que afecten seriamente su situación económica, a juicio del Congreso del Estado.
+XXXIV. Revisar la veracidad de la información enviada por la Secretaría de Finanzas o su equivalente para cada ente público, a la Secretaría de Hacienda y Crédito Público para la evaluación del Sistema de Alertas referido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1987)</small>
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
 
-ART. 46.- Las autoridades fiscales podrán cancelar o reducir las multas impuests (sic) por resolución definitiva, para lo cual apreciarán discrecionalmente las circunstancias y causas que motivaron la imposición de la sanción.
+XXXV. Verificar que la publicación de la información financiera de cada ente público se realice de conformidad con los principios establecidos en la Ley General de Contabilidad Gubernamental y por las normas y criterios contables expedidos por el Consejo Nacional de Armonización Contable.
 
-ART. 47.- Las condonaciones de que tratan los Artículos 45 y 46 implicará que los gastos y honorarios de ejecución queden sin efecto.
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
 
-ART. 48.- Cuando coexistan adeudos del Estado a favor de un particular y créditos fiscales a cargo de éste, se declarará la compensación de oficio o a solicitud del interesado, siempre que las deudas recíprocas sean igualmente líquidas y exigibles, observándose al respecto las disposiciones relativas del Código Civil del Estado.
+XXXVI. Ejercer las demás que expresamente señale la Constitución Política del Estado, la presente Ley, el Reglamento y las disposiciones aplicables.
 
-ART. 49.- En materia de impuestos que deban determinarse mediante la presentación de una declaración por el contribuyente, la facultad fiscal para exigir su presentación o para suplir la declaración, prescribe en 5 años, contados a partir de la fecha en que la declaración debió ser presentada.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-ART. 50.- Las facultades de la Secretaría de Finanzas para determinar la existencia de obligaciones fiscales, señalar las bases de su liquidación o fijarlas en cantidad líquida, para imponer sanciones por infracciones a las disposiciones fiscales, así como las facultades de verificar el cumplimiento o incumplimiento de dichas disposiciones, se extinguen en el término de 5 años, no sujeto a interrupción ni suspensión. Dicho término empezará a correr a partir:
+###### Artículo 9.
 
-I.- Del día siguiente al en que hubiere vencido el plazo establecido por las disposiciones fiscales para presentar declaraciones, manifestaciones o avisos;
+Los servidores públicos del Órgano Superior deberán observar las disposiciones en materia de transparencia y protección de datos personales, así como guardar reserva de sus actuaciones, documentos y observaciones, hasta que se rindan los informes de resultados. Igual obligación deberán cumplir los profesionistas independientes y auditores externos que contrate el Órgano Superior, con excepción de los requerimientos hechos por autoridades competentes.
 
-II.- Del día siguiente al en que se produjo el hecho generador del crédito fiscal si no existiera obligación de presentar declaraciones, manifestaciones o avisos, y
+Los servidores públicos, los profesionistas independientes y auditores externos, cuando incumplan la obligación de reserva, serán sancionados en términos de la legislación aplicable.
 
-III.- Del día siguiente al en que se hubiere cometido la infracción a las disposiciones fiscales, pero si la infracción fuere de carácter continuo el término correrá a partir del día siguiente al en que hubiere cesado.
+Los servidores públicos cuando incumplan con la obligación de reserva, serán sancionados con la destitución del cargo, independientemente de las responsabilidades administrativas o penales que resulten en términos de las disposiciones aplicables. Los profesionistas independientes y auditores externos, serán responsables de los daños y/o perjuicios que se ocasionen, sin perjuicio de las responsabilidades penales en que incurran.
 
-ART. 51.- Las facultades de la Secretaría de Finanzas para investigar hechos constitutivos de delito en materia fiscal, no se extinguirán en los términos del artículo anterior.
+### CAPITULO SEGUNDO. DEL AUDITOR SUPERIOR
 
-ART. 52.- Las obligaciones ante el fisco estatal y los créditos a favor de éste por impuestos, derechos, productos, aprovechamientos o contribuciones especiales, se extinguen por caducidad en el término de 5 años. En el mismo plazo se extingue, también por prescripción, la obligación del fisco de devolver las cantidades pagadas indebidamente.
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-ART. 53.- La prescripción del crédito principal extingue simultáneamente los recargos y los gastos de ejecución.
+###### Artículo 10.
 
-ART. 54.- La prescripción se inicia a partir de la fecha en que el crédito o el cumplimiento de la obligación pudieron ser legalmente exigidos y será reconocida o declaradas por la Secretaría de Finanzas, a petición de cualquier interesado.
+El Órgano Superior estará a cargo de un Auditor Superior, que será designado y removido por las dos terceras partes de los miembros presentes de la Legislatura, a propuesta de la Junta de Coordinación Política.
 
-ART. 55.- La prescripción se interrumpe con cada gestión de cobro del acreedor, notificada al deudor o por el reconocimiento de éste expreso o tácito, respecto de la existencia de la obligación de que se trate. De los requisitos señalados en éste Artículo deberá existir constancia por escrito.
+###### Artículo 11.
 
-ART. 56.- Podrá hacerse el pago de los créditos fiscales "bajo protesta" cuando la persona que lo haga se proponga intentar, en su oportunidad, los recursos o medios de defensa respectivos.
+Para ser Auditor Superior se requiere:
 
-El pago así efectuado extingue el crédito fiscal y no implica consentimiento con la disposición o resolución a que se dé cumplimiento.
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos, con una residencia efectiva en el Estado de México de por lo menos tres años anteriores a la fecha de la designación;
 
-Las autoridades, a solicitud del interesado expresada en el momento de hacer el pago, deberán hacer constar que éste se efectúa bajo protesta. A falta de esta constancia bastará que el interesado, previa o simultáneamente al pago, expreso por escrito, a la Oficina Recaudadora, que el pago se hace bajo protesta o que intenta el recurso o medio de defensa procedente.
+II. Tener más de treinta años de edad al día de su nombramiento;
 
-La protesta quedará sin efecto y el pago se considerará definitivo desde la fecha en que se hizo el entero respectivo, cuando no se promuevan los recursos o medios de defensa, o fueren rechazados o sobreseídos o cuando de la resolución que se dicte resultare la procedencia del pago.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2019)</small>
 
-### CAPITULO V. Disposiciones Diversas
+III. No haber sido, durante los tres años anteriores a su designación, titular de dependencias u organismos auxiliares del Poder Ejecutivo del Estado, Magistrado, Juez, Presidente Municipal, integrante de tribunales administrativos, organismos autónomos estatales o dirigente de partido político alguno;
 
-ART. 57.- Para hacer gestiones, en nombre ajeno, ante las autoridades fiscales del Estado, bastará carta poder autorizada con la firma del mandante y la de los testigos, o mediante otorgamiento de mandato en escritura pública. En todo caso el mandante y el mandatario acreditarán su representación de acuerdo con los preceptos relativos del Código Civil del Estado.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2019)</small>
 
-ART. 58.- Las personas que retengan impuestos estatales y no lo enteren en la oficina recaudadora que corresponda, dentro de los 15 días siguientes a la retención, serán responsables de los recargos que se produzcan y del delito de abuso de confianza, el que se castigará con la pena prevista en el Artículo 347 del Código Penal del Estado.
+IV. Poseer título y cédula profesional legalmente expedidos en cualquiera de las siguientes licenciaturas: Contaduría Pública, Derecho, Economía, Administración Pública, Administración de Empresas, o cualquier otra relacionada con las actividades de contraloría, transparencia o rendición de cuentas y contar con una experiencia mínima de cinco años en las mismas;
 
-ART. 59.- Se concede acción popular para denunciar las infracciones que se cometan a la Legislación Fiscal.
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-ART. 60.- Las denuncias deberán presentarse por escrito en el que se precisarán los hechos y circunstancias de la infracción denunciada, acompañándose con los documentos o pruebas que el denunciante tenga en su poder o conozca.
+V. Contar con experiencia de por lo menos cinco años en materia de control, auditoría financiera y evaluación;
 
-ART. 61.- La Secretaría de Finanzas practicará las investigaciones necesarias tendientes a la comprobación de las infracciones denunciadas.
+VI. Gozar de buena reputación y no haber sido condenado por sentencia ejecutoriada por delito doloso; y
 
-ART. 62.- En todo caso en que se compruebe la comisión de una infracción, la autoridad competente formulará la liquidación de los créditos fiscales que resulten omitidos, aplicará las sanciones correspondientes y exigirá el pago de los créditos fiscales respectivos y se (sic) sus accesorios legales correspondientes.
+VII. No haber sido destituido o inhabilitado para ocupar cargo público, como resultado de un procedimiento administrativo, cuya resolución haya quedado firme.
 
-ART. 63.- Para los efectos fiscales se considera domicilio de los sujetos pasivos o responsables solidarios, el que establezcan las leyes fiscales y, a falta de disposiciones en dichas leyes los siguientes:
+###### Artículo 12.
 
-I.- Tratándose de personas físicas:
+El Auditor Superior será nombrado de conformidad al procedimiento siguiente:
 
-a).- La casa en que habiten.
+I. La Comisión emitirá convocatoria pública abierta para que se presenten los profesionistas que aspiren a desempeñar el cargo de Auditor Superior;
 
-b).- El lugar en que habitualmente realicen actividades o tengan bienes que den lugar a obligaciones fiscales, en todo lo que se relacione con éstas. En dichos casos las autoridades fiscales podrán considerar también como domicilio, la casa habitación de la persona física.
+II. Concluido el plazo fijado en la convocatoria, la Comisión procederá a la revisión y análisis de cada una de las propuestas, para determinar las que cumplan con los requisitos establecidos en la presente Ley;
 
-c).- A falta de domicilio, en los términos indicados en los incisos anteriores, el lugar en el que se encuentren;
+III. La Comisión entrevistará por separado a los aspirantes que cumplan con los requisitos y los someterá a una evaluación integral;
 
-II.- Tratándose de personas morales:
+IV. Con base en las entrevistas y la evaluación practicada, la Comisión publicará los resultados en la Gaceta Parlamentaria y procederá a integrar, dentro de los cinco días hábiles siguientes a la evaluación, la terna que presentará a la Junta de Coordinación Política y ésta al Pleno de la Legislatura, debiendo establecer, para los efectos de la votación respectiva, el orden de prelación de los integrantes de la terna; y
 
-a).- El lugar en el que esté establecida la administración principal del negocio.
+V. El Pleno de la Legislatura elegirá de entre los integrantes de la terna en la siguiente sesión, a quien deba desempeñar el cargo de Auditor Superior. Cuando conforme al orden de prelación, alguno de los candidatos obtenga la aprobación de la mayoría establecida en la Constitución, se dará por concluida la votación. En caso de que ninguno de los aspirantes de la terna obtenga la aprobación de las dos terceras partes de los integrantes de la Legislatura, la Comisión presentará otra, con nuevas propuestas, y así sucesivamente hasta que se designe al Auditor Superior.
 
-b).- En defecto del indicado en el inciso anterior, el lugar en el que se encuentre el principal establecimiento.
+###### Artículo 13.
 
-c).- A falta de los anteriores el lugar en el que se hubiere realizado el hecho generador de la obligación fiscal;
+El Auditor Superior tendrá las siguientes atribuciones:
 
-III.- Si se trata de sucursales o agencias, de negociaciones extranjeras, el lugar donde se establezcan; pero si varias dependen de una misma negociación, deberán señalar a una de ellas para que haga las veces de casa matriz y, de no hacerlo en un plazo de quince días a partir de la fecha en que presenten su aviso de iniciación de operaciones, lo hará la Secretaría de Finanzas, y
+I. Representar legalmente al Organo Superior ante toda clase de autoridades y personas, tanto físicas como jurídicas colectivas, e intervenir en toda clase de juicios y recursos en que éste sea parte;
 
-IV.- Tratándose de personas físicas o morales, residentes en el extranjero, que realicen actividades gravadas en el Estado a través de representantes, se considerará como su domicilio el del representante.
+II. Ejercer las atribuciones del Organo Superior, en términos de la Constitución Política del Estado Libre y Soberano de México, la presente Ley, el Reglamento y demás disposiciones legales aplicables;
 
-ART. 64.- En los términos fijados en días por las disposiciones generales o por las autoridades fiscales, se computarán sólo los hábiles.
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-Los términos fijados por períodos y aquéllos en que se señalen una fecha determinada para su extinción comprenderán los días inhábiles.
+III. Emitir y entregar a la Legislatura, por conducto de la Comisión, los informes relativos a la revisión de las cuentas públicas, en los plazos y términos previstos por la Ley. Así mismo, deberá publicitar dicho documento de manera inmediatamente posterior a la entrega que realice a la Comisión;
 
-ART. 65.- Se consideran días hábiles aquéllos en que se encuentren abiertas al público las oficinas fiscales durante el horario normal. La existencia de personal de guardia no habilita los días en que se suspenden las labores.
+IV. Formular los pliegos de observaciones y recomendaciones necesarias a las entidades fiscalizables, así como verificar su debida cumplimentación;
 
-Las autoridades fiscales podrán habilitar, mediante acuerdo escrito, horas o días inhábiles para la práctica de actuaciones determinadas o para recibir pagos.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-En todos los plazos señalados por las leyes fiscales en que no se precisen día y fecha de su vencimiento, se computarán días naturales y cuando el último día sea inhábil, el vencimiento del plazo será el día hábil inmediato posterior.
+V. Substanciar los procedimientos de auditoría por denuncia conforme a lo establecido por la presente Ley y el Reglamento, dando informe del resultado a la Comisión;
 
-ART. 66.- La representación de las personas físicas o morales ante las autoridades fiscales, se acreditará en los términos de la legislación común.
+VI. Presentar denuncias y querellas penales en contra de servidores públicos y quienes hayan dejado de serlo, conforme a lo establecido por esta Ley y coadyuvar con el Ministerio Público en términos de la legislación penal, así como iniciar ante las autoridades competentes el fincamiento de otras responsabilidades;
 
-En ningún trámite administrativo se admitirá la gestión de negocios.
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-Los interesados podrán autorizar por escrito, en cada caso, a persona que en su nombre reciba notificaciones, ofrezca y rinda pruebas e interponga recursos dentro del procedimiento administrativo.
+El Auditor Superior estará obligado a guardar el sigilo de los procedimientos; así como a informar a la Junta de Coordinación Política el estado que guarden las denuncias;
 
-ART. 67.- Las notificaciones de los citatorios, emplazamientos, solicitudes de informes o documentos y las de acuerdos administrativos que puedan ser recurridos, se harán.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-I.- Personalmente;
+VII. Imponer medios de apremio y, promover la imposición de las responsabilidades administrativas que correspondan, en los casos establecidos por esta Ley, el Reglamento y demás ordenamientos jurídicos aplicables.
 
-II.- Mediante oficio entregado por mensajero, por correo certificado con acuse de recibo;
+VIII. (DEROGADA, G.G. 30 DE MAYO DE 2017)
 
-III.- Por edictos, únicamente en caso de que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal acreditado ante las autoridades fiscales.
+IX. Promover el fincamiento e imposición de las demás responsabilidades y sanciones a que hubiere lugar ante las instancias competentes;
 
-ART. 68.- Los acuerdos distintos de los señalados en el artículo anterior, podrán ser notificados por medio de oficio o telegrama.
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-ART. 69.- Las notificaciones personales se harán el último domicilio que la persona a quien se deba notificar, haya señalado ante las autoridades fiscales en el procedimiento administrativo de que se trate, a falta de señalamiento, se estará a las reglas del artículo 63 de ésta Ley.
+X. Establecer los criterios generales para contratar las cauciones o garantías que deben otorgar los servidores públicos obligados a ello. Dichas cauciones o garantías deberán mantenerse vigentes hasta tres años después de la conclusión de sus cargos;
 
-Se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que se le espere a una hora fija del día siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato o con un agente de policía.
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-Si la persona a quien haya de notificarse no atendiera el citatorio, la notificación se le hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla, se realizará por instructivo que se fijará en la puerta del domicilio.
+XI. Expedir el Reglamento Interior del Órgano Superior;
 
-En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación.
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-De las diligencias en que conste la notificación o cita, el ejecutor notificador tomará razón por escrito.
+XII. Expedir los manuales de organización y de procedimientos que se requieran;
 
-ART. 70.- Las notificaciones por oficio se harán en el domicilio que el interesado haya señalado para el efecto de iniciar alguna instancia, y sólo por lo que toca al trámite y resolución de ésta. Bastará para considerar que se ha señalado domicilio para recibir notificaciones en instancias administrativas, el que la dirección del interesado aparezca impresa en la promoción respectiva. A falta de domicilio designado se tendrá en cuenta el que resulte de las disposiciones fiscales.
+XIII. Elaborar el plan operativo anual del Organo Superior y hacerlo del conocimiento de la Comisión;
 
-ART. 71.- Las notificaciones por edictos se realizarán haciendo una publicación que contendrá un resumen de las resoluciones por notificar; dicha publicación deberá efectuarse en el Diario Oficial del Estado y en uno de los periódicos de mayor circulación en la Entidad.
+XIV. Presentar a la Comisión el anteproyecto de presupuesto anual del Organo Superior, conforme a las previsiones de gasto y recursos necesarios para el cumplimiento de las atribuciones de éste, a fin de que se integre a la iniciativa de presupuesto de egresos en los términos de la legislación aplicable;
 
-ART. 72.- Las notificaciones surtirán sus efectos el día hábil siguiente al en que fueren hechas o al de la publicación, en el caso del artículo que antecede.
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-ART. 73.- La manifestación que hagan el interesado o su representante legal, de conocer un acuerdo, surtirá efectos de notificación en forma, desde la fecha en que se manifieste haber tenido tal conocimiento, si éste es anterior a la en que debiera surtir sus efectos la notificación de acuerdo con el artículo precedente.
+XV. Administrar y ejercer el presupuesto aprobado, con sujeción a las disposiciones legales aplicables;
 
-ART. 74.- Para iniciar un procedimiento de cobro en contra de un responsable solidario del crédito fiscal, será necesario hacerle notificación, en la que se expresará:
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-I.- El nombre del causante;
+XVI. Informar a la Legislatura, por conducto de la Comisión, del presupuesto ejercido por el Órgano Superior, durante el primer trimestre del año siguiente al ejercido.
 
-II.- La resolución de la que se derive el crédito fiscal y el monto de éste;
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-III.- Los motivos y fundamentos por lo que se le considera responsable del crédito, y
+XVII. Nombrar y remover a los servidores públicos del Órgano Superior, de conformidad con lo previsto en el Reglamento y demás disposiciones aplicables, en el caso de los Auditores Especiales informar a la Comisión.
 
-IV.- El plazo para el pago que será de quince días Salvo que la Ley señale otro.
+XVIII. Autorizar, conforme al Reglamento, a profesionistas independientes y auditores externos, para auxiliar en el desahogo de las funciones sustantivas del Organo Superior;
 
-### CAPITULO VI. De la Hacienda Pública del Estado
+XIX. Solicitar a las autoridades correspondientes, el auxilio necesario para el ejercicio de sus funciones, en términos de esta Ley y la legislación aplicable;
 
-ART. 75.- La Hacienda Pública del Estado se integra:
+XX. Expedir certificaciones de los documentos que obren en sus archivos, que no estén clasificados conforme a la legislación aplicable, ni sean materia de reserva;
 
-I.- Con los impuestos, derechos, productos, aprovechamientos, tasas adicionales y contribuciones especiales que autorice la Ley de Ingresos y Presupuesto de Egresos de cada ejercicio fiscal;
+XXI. Promover acciones tendientes al establecimiento del servicio civil de carrera; y
 
-II.- Con las participaciones en ingresos federales otorgadas al Estado por las Leyes Federales y Convenios de Coordinación respectivos, y
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-III.- Con los bienes muebles e inmuebles del Patrimonio del Estado.
+XXII. Substanciar la etapa aclaratoria a que se refiere esta Ley.
 
-## TITULO SEGUNDO. DE LOS IMPUESTOS
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO I. Impuesto Predial
+XXIII. Rendir un informe anual de gestión a la Legislatura por conducto de la Comisión.
 
-ART. 76.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
 
-ART. 77.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
+XXIV. Dar seguimiento a la evolución de la deuda de las entidades fiscalizables;
 
-ART. 78.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
 
-ART. 79.- El impuesto se causará aplicando a las bases mencionadas en el Artículo anterior, la siguiente:
+XXV. Las demás que señalen las disposiciones legales aplicables y el Reglamento.
 
-T A R I F A
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-I.- Predios rústicos y urbanos:
+###### Artículo 14.
 
-a).- 10 al millar anual, para los predios cuyos valores fiscales se hayan fijado con base en tablas de valores catastrales.
+Corresponde originalmente al Auditor Superior, el trámite y resolución de los asuntos de su competencia, el cual podrá, para la mejor organización del trabajo, delegar en los servidores públicos subalternos cualquiera de sus atribuciones, excepto las señaladas en las fracciones VII, X, XIV, XVI y XXIII del artículo anterior y aquéllas que por disposición de la presente Ley y del Reglamento, deban ser ejercidas exclusivamente por él mismo.
 
-b).- 26 al millar anual, para los predios que no hayan sido valuados en avalúos definitivo, como lo determina las tablas de valores catastrales;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE MAYO DE 2017)</small>
 
-c).- En ninguno de los casos a que se refieren los incisos anteriores el impuesto será inferior a $ 35.00 por predio.
+###### Artículo 15.
 
-II.- Predios rústicos ejidales:
+Auditor Superior durará en su encargo ocho años, comenzando el 1 de enero siguiente al año de su elección y podrá ser nombrado nuevamente por una sola vez hasta por un período igual, por el voto de las dos terceras partes de los miembros presentes de la Legislatura.
 
-a).- Los utilizados en la agricultura pagarán con base en el volumen de la producción y la clase de producto cosechado, de acuerdo con las siguientes cuotas:
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
-Productos Cuota por Ton.
+Para ser nombrado nuevamente se deberá considerar el informe anual de gestión.
 
-1.- Ajonjolí $ 183.46
+###### Artículo 16.
 
-2.- Alfalfa 72.00
+El Auditor Superior requerirá de licencia de la Legislatura, o en su caso de la Diputación Permanente, para ausentarse temporal o definitivamente de su cargo.
 
-3.- Algodón 267.78
+Las faltas temporales que requieren licencia, serán mayores a los quince días naturales y no excederán de sesenta días naturales.
 
-4.- Alpiste 181.73
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-5.- Arroz Palay 104.59
+El Auditor Superior será suplido durante sus ausencias temporales por los Auditores Especiales de conformidad a lo establecido en el Reglamento.
 
-6.- Cacahuate 92.71
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-7.- Caña 1.88
+En caso de falta definitiva o remoción del Auditor Superior, ocurridas dentro de los siete primeros años del periodo, la comisión dará cuenta a la Legislatura para que conforme al procedimiento señalado en esta Ley, se nombre a quien concluirá el encargo por lo que reste del periodo.
 
-8.- Cártamo 158.44
+Si la falta definitiva o remoción del Auditor Superior, se presenta dentro del último año del periodo, la Legislatura nombrará sin mayor trámite a un Auditor sustituto que deberá concluir el periodo; quien así sea designado, podrá ser nombrado para el periodo inmediato siguiente, de conformidad con el procedimiento establecido en el artículo 12 de esta Ley.
 
-9.- Cebada 87.14
+El Auditor sustituto deberá reunir los mismos requisitos que la Ley exige para el Auditor Superior.
 
-10.- Frijol Mungo 150.95
+En cualquier caso, hasta en tanto se hace la designación de Auditor Superior, a propuesta de la Comisión, uno de los Auditores Especiales cubrirá la ausencia.
 
-11.- Frijol Soya 176.28
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE MAYO DE 2017)</small>
 
-12.- Frijol otras
+###### Artículo 17.
 
-variedades 144.26
+Queda prohibido al Auditor Superior y a los Auditores Especiales, durante el ejercicio de su cargo:
 
-13.- Garbanzo 966.50
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2019)</small>
 
-14.- Flor de
+I. Ser dirigente de partido político alguno;
 
-Zempoasuchitl 47.20
+II. Participar en actos políticos partidistas o hacer cualquier tipo de promoción o proselitismo político;
 
-15.- Henequén 68.96
+III. Desempeñar otro empleo, cargo o comisión en los sectores público, privado o social, salvo los no remunerados de carácter docente, artístico, de beneficencia y en asociaciones científicas; y
 
-16.- Kenaf 68.08
+IV. Hacer del conocimiento de terceros o difundir de cualquier forma, la información confidencial o reservada que tenga bajo su custodia, la cual sólo deberá utilizarse para los fines a que se encuentra afecta.
 
-17.- Linaza 125.06
+###### Artículo 18.
 
-18.- Maíz 55.20
+Son causas de remoción del Auditor Superior, las siguientes:
 
-19.- Maíz Mijo 164.74
+I. Ubicarse en los supuestos de prohibición establecidos en el artículo anterior;
 
-20.- Milo Maíz 57.81
+II. Incumplir con las atribuciones no delegables de su cargo;
 
-21.- Tabaco 74.02
+III. Utilizar en beneficio propio o de terceros, la documentación o información clasificada como confidencial o reservada en los términos de Ley;
 
-22.- Trigo 79.37
+IV. Sustraer, destruir, ocultar o utilizar indebidamente la documentación o información que por razón de su cargo, tenga a su cuidado o custodia o que exista en el Organo Superior, con motivo del ejercicio de sus atribuciones;
 
-23.- Producto
+V. Omitir formular pliegos para el fincamiento de responsabilidades resarcitorias, cuando corresponda fincarlas al Organo Superior y se tengan elementos para presumir la existencia de la responsabilidad y para identificar al presunto responsable;
 
-no especificado
+VI. Admitir la injerencia de agentes externos en los actos y resoluciones derivados del ejercicio de las atribuciones del Organo Superior;
 
-sobre valor en plaza 4.56
+VII. Dejar de señalar si existe responsabilidad sobre actos u omisiones derivadas del uso y manejo de recursos públicos, así como dejar sin causa justificada de determinar responsabilidades resarcitorias o de imponer medidas de apremio en el ámbito de su competencia y en los casos previstos en la presente Ley y disposiciones reglamentarias, cuando esté debidamente comprobado el daño patrimonial o el incumplimiento a sus determinaciones;
 
-Hortalizas y Cuota por Bulto
+VIII. Conducirse con parcialidad en el proceso de revisión de la cuenta pública y en los procedimientos de fiscalización e imposición de medidas de apremio a que se refiere esta Ley; y
 
-Frutas de Primera
+IX. Ausentarse por más de quince días naturales sin mediar licencia de la Legislatura o, en su caso, de la Diputación Permanente.
 
-24.- Berenjena
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
 
-Jaba Aambrada
+X. Incumpla con las disposiciones previstas en esta Ley.
 
-1 Bushel 0.84
+###### Artículo 19.
 
-Caja Alambrada
+Cuando la Comisión tenga conocimiento de alguna o algunas de las causas a que se refiere el artículo anterior, solicitará la remoción del Auditor Superior al Pleno de la Legislatura, por conducto de la Junta de Coordinación Política.
 
-de Madera 0.91
+###### Artículo 20.
 
-25.- Calabaza
+La remoción del Auditor Superior se sujetará al procedimiento siguiente:
 
-Caja de Madera
+I. La Junta de Coordinación Política citará al Auditor Superior a garantía de audiencia;
 
-Aserrada 1.21
+II. En el citatorio se expresará el lugar día y hora en que se realizará la audiencia, la causa o causas de remoción, el derecho del compareciente de aportar pruebas y de alegar en la audiencia por sí o por medio de defensor;
 
-Jaba Alambrada
+III. Entre la fecha de citación y de la audiencia, deberá mediar un plazo no menor de cinco días hábiles;
 
-1 1/9 Bushel 1.44
+IV. En la audiencia la Junta de Coordinación Política dará a conocer al compareciente las constancias que obran en el expediente respectivo; se admitirán y desahogarán las pruebas que éste ofrezca y se escucharán sus alegatos, levantándose el acta correspondiente;
 
-26.- Chile Bell Papper
+V. En el ofrecimiento, admisión y desahogo de pruebas, se aplicarán las reglas establecidas en el Código de Procedimientos Administrativos;
 
-Caja de Cartón
+VI. En caso de que el citado no comparezca en el día y hora señalados en el citatorio, se tendrá por satisfecha la garantía de audiencia;
 
-de 30 Lbs. 2.05
+VII. Dentro de los treinta días hábiles siguientes al desahogo de la garantía de audiencia, la Junta de Coordinación Política con auxilio de la Comisión, preparará un proyecto de resolución, para ser sometido al Pleno de la Legislatura en la siguiente sesión; y
 
-Jaba Alambrada
+VIII. En caso de que se acredite fehacientemente alguna o algunas de las causas establecidas en esta Ley, se requerirá del voto de las dos terceras partes de los integrantes de la Legislatura, para que proceda la remoción del Auditor Superior.
 
-1 Bushel 1.68
+### CAPITULO TERCERO. DE LA ORGANIZACION E INTEGRACION DEL ORGANO SUPERIOR
 
-Caja de
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-Madera Aserrada 2.40
+###### Artículo 21.
 
-Jaba Alambrada
+En el desempeño de sus funciones, el Auditor Superior será auxiliado por los Auditores Especiales, Titulares de Unidades, Directores, Auditores y demás servidores públicos que señale el Reglamento.
 
-1 1/9 Bushel 2.19
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-Otros Envases
+###### Artículo 22.
 
-no especificados 1.19
+Para ser Auditor Especial deberán reunirse los requisitos que esta Ley establece para el Auditor Superior, con excepción del plazo mínimo de experiencia en materia de control, auditoría financiera y evaluación, que será de dos años.
 
-Caja de
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-Cartón Encerada 1.61
+###### Artículo 23.
 
-27.- Chile Fresno
+Sin perjuicio del ejercicio directo por parte del Auditor Superior, los Auditores Especiales tendrán las facultades genéricas siguientes:
 
-Jaba Alambrada
+I. Planear, conforme a los programas aprobados por el Auditor Superior, las actividades relacionadas con la revisión de las cuentas públicas; y elaborar los análisis que sirvan para la preparación del informe de resultados;
 
-1 1/9 Bushel 2.40
+II. Requerir a las entidades fiscalizables y a los terceros que hubieren celebrado operaciones con aquéllas, la información y documentación que sea necesaria para realizar la función de fiscalización;
 
-Cartón Standard
+> <small>(REFORMADA, G.G. 16 DE ENERO DE 2007)</small>
 
-Tomatero 1.18
+III. Ordenar y practicar auditorias, visitas e inspecciones a las entidades fiscalizables, en todo momento y conforme al programa aprobado por el Auditor Superior;
 
-28.- Chile Caribe
+IV. Formular pliegos de observaciones, en los términos de esta Ley;
 
-Jaba Alambrada
+V. Determinar y cuantificar los daños y perjuicios causados a las haciendas públicas o al patrimonio de las entidades fiscalizables que detecten en ejercicio de sus funciones, y formular los pliegos correspondientes, para que se inicien los procedimientos resarcitorios a que haya lugar;
 
-1 1/9 Bushel 2.28
+VI. Preparar las denuncias y querellas penales, con los elementos y pruebas con que cuente respecto de hechos presuntamente constitutivos de delito, observados en ejercicio de sus funciones;
 
-Caja Standard
+VII. Informar al Auditor Superior, de las demás responsabilidades y sanciones a que hubiere lugar;
 
-Tomatera 1.31
+VIII. Designar al personal encargado de practicar las auditorías, visitas e inspecciones a su cargo o, en su caso, celebrar los contratos de prestación de servicios de conformidad con la presente Ley y el Reglamento;
 
-29.- Chile Anaheim
+IX. Revisar y analizar la información incluida en las cuentas públicas;
 
-Jaba alambrada
+X. Formular los proyectos de informes de resultados, así como los demás documentos que se les indique; y
 
-1 1/9 Bushel 2.13
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-30.- Chile Serrano
+XI. Realizar la evaluación de desempeño de los programas gubernamentales y municipales.
 
-Jaba Alambrada
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
 
-1 1/9 Bushel 1.44
+XII. Promover y coadyuvar a la generación de indicadores de las entidades fiscalizables.
 
-Jaba Chilera 1.24
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
 
-31.- Chile Jalapeño
+XIII. Solicitar en su caso, la información necesaria para el cumplimiento de sus atribuciones.
 
-Jaba Alambrada 1 1/9 2.47
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
 
-32.- Chile Morrón
+XIV. Formular las recomendaciones que deriven de los resultados de la revisión de los programas a cargo del Estado y de los Municipios, los cuales se notificarán a las entidades fiscalizables.
 
-Jaba Alambrada
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
 
-1 Bushel 1.19
+XV. Formular los proyectos de informes de resultados, así como los demás documentos inherentes a sus atribuciones.
 
-33.- Chile Cubanello
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
 
-Jaba Alambrada
+XVI. Dar seguimiento a la evolución de la deuda de las entidades fiscalizables.
 
-1 1/9 Bushel 2.08
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
 
-34.- Chile Húngaro
+XVII. Las demás que señale esta Ley, el Reglamento y demás disposiciones jurídicas aplicables.
 
-Jaba Alambrada
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-1 1/9 Bushel 2.19
+###### Artículo 24.
 
-35.- Chile Pasilla
+El Auditor Superior y los Auditores Especiales sólo estarán obligados a absolver posiciones o rendir declaración en juicio, en representación del Órgano Superior o en virtud de sus funciones, cuando las posiciones y preguntas se formulen por medio de oficio expedido por autoridad competente, misma que contestarán por escrito dentro del término establecido por dicha autoridad.
 
-Jaba Alambrada
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-1 Bushel 1.51
+###### Artículo 25.
 
-36.- Chile Pimiento Rojo
+Los Auditores Especiales tendrán las atribuciones de la autoridad investigadora, previstas en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
-Jaba Alambrada
+###### Artículo 26.
 
-1 Bushel 0.98
+El Organo Superior contará con una Unidad de Asuntos Jurídicos cuyo titular tendrá las siguientes facultades:
 
-37.- Chícharo
+I. Asesorar y representar en materia jurídica al Organo Superior;
 
-Canasta Chicharera
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-1 Bushel 1.13
+II. Substanciar el procedimiento de responsabilidad administrativa que proceda y remitirlo, en su caso, al Tribunal de Justicia Administrativa del Estado de México, conforme a lo previsto en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
-Jaba alambrada
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-1 1/9 Bushel 1.20
+III. Presentar las denuncias o querellas penales, en los casos que procedan.
 
-38.- Ejote
+IV. Ejercitar las acciones judiciales en los juicios en los que el Organo Superior sea parte, contestar demandas, presentar pruebas y alegatos, y actuar en defensa de los intereses jurídicos del propio Organo, dando el debido seguimiento a los procesos y juicios en que actúe;
 
-Jaba Alambrada
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-1 Bushel 2.30
+V. Dar respuesta a las consultas y solicitudes que realicen las entidades fiscalizables, otras autoridades y los particulares.
 
-Caja de Madera
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-Standard 2.36
+VI. Elaborar y someter a la consideración del Auditor Superior, los requerimientos relacionados con el cumplimiento de obligaciones periódicas de las entidades fiscalizables, así como los medios de apremio que, conforme a las disposiciones legales aplicables, proceda imponer a los servidores públicos de las entidades fiscalizables, diversas a las previstas en las (sic) Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
-Jaba Alambrada
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-1 1/9 Bushel 2.33
+VII. Conocer y substanciar el recurso de revisión, hasta ponerlo en estado de resolución para firma del Auditor Superior, en los casos que proceda.
 
-39.- Melón
+VIII. Las demás que le señale esta Ley, el Reglamento y las disposiciones legales y administrativas aplicables.
 
-Jaba Alambrada
+###### Artículo 27.
 
-Standard 1.15
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-Jaba Melonera
+###### Artículo 28.
 
-Jumbo 1.36
+Son causas de remoción de los Auditores Especiales y del Titular de la Unidad de Asuntos Jurídicos, además de las establecidas en esta Ley para el Auditor Superior, las siguientes:
 
-Jaba Melonera
+I. Incumplir con las atribuciones propias de su cargo; y
 
-1/2 Jumbo 0.68
+II. Ausentarse por más de quince días naturales, sin contar con la licencia del Auditor Superior.
 
-Caja Tomatera 0.42
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-Jaba de Madera
+###### Artículo 29.
 
-Aserrada 0.60
+El Organo Superior propondrá a la Comisión su proyecto de presupuesto anual, el cual será remitido por el Auditor Superior a más tardar el 15 de agosto de cada año, para su inclusión en el proyecto de presupuesto de egresos del Poder Legislativo.
 
-40.- Pepino
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-Jaba Alambrada
+### CAPITULO PRIMERO. DE LA NATURALEZA, OBJETO Y ATRIBUCIONES DE LA COMISION DE VIGILANCIA
 
-1 1/9 Bushel 1.72
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-Cartón de 24 piezas 0.70
+###### Artículo 30.
 
-Cartón de 36 piezas 0.62
+La Comisión coordinará las relaciones entre la Legislatura y el Órgano Superior, evaluará el desempeño de este último; constituirá el enlace que permita garantizar la debida coordinación entre ambos, y podrá solicitarle información sobre el seguimiento de los trabajos de fiscalización.
 
-Caja de Madera
+> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-Standard 1.79
+La Comisión a través de la Unidad realizará la evaluación de desempeño del Órgano Superior, la cual deberá entregar a la Legislatura a más tardar el 30 de abril.
 
-Pickle Jaba
+###### Artículo 31.
 
-Alambrada
+Son facultades de la Comisión, las siguientes:
 
-1 1/9 Bushel 1.13
+> <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-41.- Tomate Verde
+I. Revisar, analizar, aclarar y discutir la cuenta pública del Estado, municipios y demás entidades fiscalizables, así como examinar el Informe de Resultados de la Cuenta Pública elaborados por el Órgano Superior. Para tales efectos, deben realizarse reuniones de trabajo de la propia Comisión y con la presencia del Auditor Superior y el personal del propio Órgano Superior, que así se considere;
 
-Caja de Cartón
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-de 40 Lbs. 1.50
+II. Evaluar el cumplimiento del plan anual de metas del Órgano Superior;
 
-Caja de Cartón
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-de 30 Lbs. 1.14
+III. Evaluar el cumplimiento de los objetivos y metas de los programas del Órgano Superior;
 
-42.- Tomate Maduro
+IV. Proporcionar a los Diputados integrantes de la Legislatura, la información que requieran del Organo Superior en un plazo no mayor de diez días hábiles;
 
-Envase 3 Tandas 1.53
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-Envase 2 Tandas 1.23
+V. Ordenar la práctica de auditorías especiales que no formen parte de los programas anuales de auditorías y determinar sus alcances, y el resultado obtenido de las auditorias especiales, deberá ser entregado por el Órgano de Fiscalización a la Comisión de Vigilancia dentro de los diez días hábiles posteriores a la conclusión del mismo.
 
-Envase 30 Lbs. 1.53
+VI. Citar, por conducto de su Presidente, al Auditor Superior para conocer en lo específico los informes de las revisiones practicadas;
 
-43.- Tomate Roma
+VII. Proporcionar a los integrantes de la Legislatura del Estado, la información requerida por éstos, respecto de la integración, funcionamiento y ejercicio de atribuciones del Organo Superior, en un plazo no mayor a diez días hábiles;
 
-Caja de Cartón y Madera 0.95
+VIII. Recibir a más tardar el 15 de agosto, el proyecto del presupuesto anual del Organo Superior;
 
-44.- Tomate Cherry
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-Caja de Cartón y Madera 0.72
+IX. Recibir y enviar a la Junta de Coordinación Política el informe del ejercicio del presupuesto del Órgano Superior de Fiscalización del Estado de México para los efectos legales conducentes;
 
-Caja de Cartón y Madera 0.81
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-45.- Mango
+X. Evaluar la gestión y el desempeño del Órgano Superior respecto del cumplimiento de sus atribuciones, conforme lo establecido en la Constitución del Estado, esta Ley y el Reglamento que le correspondan; y proveer lo necesario para garantizar su autonomía técnica y de gestión.
 
-Caja de Cartón y Madera 0.56
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-46.- Toronja
+XI. Dar seguimiento a las observaciones y recomendaciones emitidas por el Órgano Superior, así como a los procedimientos y demás acciones promovidas, relacionadas con la revisión y fiscalización de las cuentas públicas.
 
-Envase no especificado 0.67
+XII. Dictaminar y turnar a la Junta de Coordinación Política la solicitud de licencia o remoción del Auditor Superior, de acuerdo con la presente Ley;
 
-47.- Jícama
+XIII. (DEROGADA, G.G. 21 DE DICIEMBRE DE 2016)
 
-Envase no especificado 0.80
+XIV. (DEROGADA, G.G. 21 DE DICIEMBRE DE 2016)
 
-48.- Repollo
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-Envase no especificado 0.83
+XV. Recibir y analizar las solicitudes de auditorías presentadas por la ciudadanía y acordar, de ser procedente, la instrucción al Órgano Superior para practicarlas, y
 
-49.- Nabo
+(REUBICADA, G.G. 1 DE OCTUBRE DE 2019)
 
-Envase no especificado 0.42
+XVI. Las demás que establezca esta Ley.
 
-50.- Col
+> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-Caja de Madera 0.40
+###### Artículo 31 Bis.
 
-51.- Papaya 58.11 Por Ton.
+La solicitud ciudadana para la práctica de auditorías a que se refiere la fracción XV del artículo anterior, deberá cumplir con los requisitos siguientes:
 
-52.- Aguacate 81.44 " "
+I. Solicitud de auditoría;
 
-53.- Naranja 23.68 " "
+II. Hechos, actos u omisiones que la motivan;
 
-54.- Sandía 15.21 " "
+III. Señalamiento de la autoridad a quien se atribuyan los hechos, actos u omisiones;
 
-55.- Otras Frutas 55.61 " "
+IV. Pruebas que justifican la acción;
 
-56.- Otras Hortalizas 55.61 " "
+V. Domicilio para recibir notificaciones, y
 
-Hortalizas y Frutas
+VI. Nombre y firma de la persona solicitante.
 
-de Segunda: Cuota por Tonelada
+La Unidad apoyará en la revisión y análisis técnico para desechar o confirmar la procedencia de dichas solicitudes de auditoría, en un plazo máximo de diez días hábiles posteriores a su recepción.
 
-57.- Aguacate 35.28
+La Comisión hará del conocimiento de la Junta de Coordinación Política la presentación de dichas solicitudes y deberá reunirse una vez que la Unidad entregue los resultados de su análisis de procedencia y en su caso solicitará las auditorías al Órgano Superior.
 
-58.- Berenjena 35.28
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-59.- Calabaza 35.28
+### CAPITULO SEGUNDO. DE LA UNIDAD TECNICA DE EVALUACION Y CONTROL
 
-60.- Cebolla 35.28
+> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-61.- Chícharo 45.08
+###### Artículo 31 Ter.
 
-62.- Chile Fresco 48.41
+Para el ejercicio de sus facultades, la Comisión se auxiliará de la Unidad, la cual estará encargada de vigilar el estricto cumplimiento de las atribuciones de los servidores públicos del Órgano Superior y que éstos se apeguen a lo establecido en la Ley de Responsabilidades Administrativas del Estado de México y Municipios y a las demás disposiciones legales aplicables.
 
-63.- Chile Seco 128.65
+> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-64.- Ejote 35.28
+###### Artículo 31 Quater.
 
-65.- Elote 35.28
+El Titular de la Unidad será designado por la Legislatura, por convocatoria emitida por la Junta de Coordinación Política en los términos del reglamento de la Unidad.
 
-66.- Lechuga 35.28
+Durará cuatro años en su encargo y podrá desempeñar nuevamente ese cargo por otro periodo igual.
 
-67.- Limón 35.28
+En caso de ausencia temporal del Titular de la Unidad, que exceda treinta días naturales, la Junta de Coordinación Política, a propuesta de la Comisión, designará a un encargado de despacho, el cual no podrá durar en su encargo más de ciento veinte días naturales.
 
-68.- Mango 35.28
+En caso de remoción o ausencia definitiva ocurrida durante la primera mitad de su encargo, se aplicará lo dispuesto en el primer párrafo del presente artículo, y si ocurriera en la segunda mitad, el Titular será designado por la Legislatura, a propuesta de la Junta de Coordinación Política.
 
-69.- Melón 35.28
+> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-70.- Naranja 35.28
+###### Artículo 31 Quinquies.
 
-71.- Papa 37.52
+Tratándose de posibles faltas no graves, graves o delitos, cometidos por servidores públicos del Órgano Superior, la Unidad actuará en términos de las disposiciones jurídicas aplicables.
 
-72.- Papaya 35.28
+> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-73.- Pepino 33.88
+###### Artículo 31 Sexies.
 
-74.- Repollo 35.28
+La Unidad tendrá las siguientes atribuciones:
 
-75.- Sandía 33.88
+I. Vigilar que el desempeño de los servidores públicos del Órgano Superior esté apegado a esta Ley y demás disposiciones aplicables;
 
-76.- Tomate 30.65
+II. Proponer a la Comisión los indicadores y métodos de evaluación del Órgano Superior, así como el sistema de seguimiento a los mismos e informar sus resultados a la Comisión;
 
-77.- Toronja 35.28
+III. Auxiliar a la Comisión en la elaboración de los análisis y las conclusiones del Informe de Resultados de las cuentas públicas y demás documentos que le envíe el Órgano Superior;
 
-78.- Otras Hortalizas 35.28
+IV. Recibir quejas por posibles faltas administrativas de los servidores públicos del Órgano Superior, iniciar investigaciones y proceder conforme a la Ley de Responsabilidades Administrativas del Estado de México y Municipios;
 
-79.- Otras Frutas 35.28
+V. Participar en los actos de entrega-recepción de los servidores públicos de mando superior del Órgano Superior;
 
-El monto a pagar derivado de la aplicación de las cuotas anteriores, en ningún caso excederá del 5% del valor de la producción anual comercializada, teniendo en cuenta los precios rurales de la producción de que se trate, en acatamiento a lo dispuesto por la fracción III del Artículo 106 de la Ley Federal de Reforma Agraria.
+VI. Proponer a la Comisión los indicadores y sistemas de evaluación del desempeño de la propia Unidad; así como los sistemas de seguimiento a las acciones y observaciones que promuevan tanto la Unidad como la Comisión, y
 
-El ingreso recaudado conforme a la aplicación de estas cuotas, se distribuirá de la siguiente forma;
+VII. Las demás que le atribuyan esta ley y las disposiciones legales y reglamentarias aplicables.
 
-1.- Para el Gobierno del Estado de Sinaloa 60 %
+> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-2.- Para el Municipio según lo generado en la circunscripción 10 %
+###### Artículo 31 Septies.
 
-3.- Para la Universidad Autónoma de Sinaloa 7 %
+Para el correcto ejercicio de sus funciones de la Unidad, dispondrá de los servidores públicos, unidades administrativas y áreas suficientes, en función del reglamento.
 
-4.- Para la Promoción de Servicios Ejidales 18 %
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-5.- Para la Investigación Agrícola 5 %
+## TITULO SEGUNDO. DEL ORGANO SUPERIOR DE FISCALIZACION
 
-b).- Los no destinados a la agricultura, el 10 al millar anual sobre el valor fiscal de los predios.
+### CAPITULO PRIMERO. DE LAS CUENTAS PUBLICAS
 
-ART. 80.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-ART. 81.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
+###### Artículo 32.
 
-ART. 82.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
+El Gobernador del Estado, por conducto del titular de la dependencia competente, presentará a la Legislatura la cuenta pública del Gobierno del Estado del ejercicio fiscal inmediato anterior, a más tardar el treinta de abril de cada año.
 
-ART. 83.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
+Los Presidentes Municipales presentarán a la Legislatura las cuentas públicas anuales de sus respectivos municipios, del ejercicio fiscal inmediato anterior, dentro de los quince primeros días del mes de marzo de cada año; asimismo, los informes mensuales los deberán presentar dentro de los veinte días posteriores al término del mes correspondiente.
 
-ART. 84.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-ART. 85.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
+Las cuentas públicas deberán presentarse conforme a lo establecido en la Ley General de Contabilidad Gubernamental, Ley de Disciplina Financiera delas (sic) Entidades Federativas y los Municipios y demás disposiciones aplicables.
 
-ART. 86.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
-ART. 87.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
+###### Artículo 33.
 
-ART. 88.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
+La Secretaría de Finanzas y las tesorerías municipales, en el ámbito de sus respectivas atribuciones, expedirán las bases y normas de carácter administrativo para la baja de documentos justificativos y comprobatorios para efecto de guarda o custodia de los que deban conservarse, microfilmarse o procesarse electrónicamente, sujetándose a las disposiciones legales establecidas en la materia.
 
-ART. 88 Bis.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
+Los microfilms y los archivos guardados mediante procesamiento electrónico a que se refiere el párrafo anterior, tendrán el valor que, en su caso, establezcan las disposiciones legales aplicables a las operaciones en que aquellos se apliquen.
 
-### CAPITULO II. Impuesto Estatal sobre Ingresos Mercantiles
+###### Artículo 34.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+El Organo Superior conservará en su poder las cuentas públicas del Estado y municipios de cada ejercicio fiscal y los informes de resultados de su revisión, en tanto no prescriban las responsabilidades derivadas de las irregularidades que se observen en las operaciones objeto de revisión. Asimismo, conservará las copias autógrafas de los pliegos que formulen y copias de los trámites que hubiere realizado ante las instancias competentes para la presentación de denuncias o querellas penales derivadas del ejercicio de sus funciones.
 
-ART. 89.- Son objeto de este Impuesto los ingresos que se obtengan en el Estado de Sinaloa, por los conceptos siguientes:
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-I.- Los obtenidos en los establecimientos que se enumeran a continuación por las operaciones propias de su ramo:
+### CAPITULO SEGUNDO. DE LA REVISION, FISCALIZACION Y CALIFICACION DE LAS CUENTAS PUBLICAS
 
-a).- Molinos productores de masa de nixtamal, expendios de masa de maíz, tortillerías y molinos maquileros de harina o masa de maíz;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-b).- Fábricas y expendios de pan;
+###### Artículo 35.
 
-c).- Carnicerías;
+La revisión, fiscalización y calificación de las cuentas públicas tiene por objeto determinar:
 
-d).- Pescaderías y expendios de mariscos; ventas de segunda o ulteriores manos de:
+I. Si los programas y su ejecución se ajustaron a los términos y montos aprobados;
 
-e).- Verdulerías y fruterías;
+II. Si las cantidades correspondientes a los ingresos o a los egresos, se ajustan o corresponden a los conceptos y a las partidas respectivas;
 
-f).- Molinos de trigo y de arroz;
+III. El cumplimiento de los programas autorizados;
 
-g).- Lecherías y plantas pasteurizadoras.
+IV. Si los recursos provenientes del financiamiento se obtuvieron en los términos autorizados y se aplicaron con la periodicidad y forma establecidas por la Ley y demás disposiciones aplicables, y si se cumplieron los compromisos adquiridos en los actos respectivos;
 
-II.- Los obtenidos en operaciones de:
+V. La gestión financiera de las entidades fiscalizables, en sus programas y procesos concluidos;
 
-a).- Maíz, Arroz, Frijol, trigo, milo maíz, garbanzo, café y cacahuate, así como otras semillas que se utilicen en la alimentación humana; siempre que no se modifique su forma, estado o composición;
+VI. Si la gestión financiera cumple con las leyes, decretos, reglamentos y demás disposiciones aplicables en materia de sistemas de registro y contabilidad gubernamental; contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
 
-b).- Pescado y mariscos en estado natural, frescos, refrigerados o congelados, siempre que no se consuman en el establecimiento que los expende;
+VII. Si se ajustan a la Ley la recaudación, administración, manejo y aplicación de recursos estatales y municipales, y los federales en términos de los convenios respectivos; los actos, contratos, convenios, concesiones u operaciones que las entidades fiscalizables celebraron o realizaron; y
 
-c).- Aves de corral y huevos;
+VIII. Las conductas que den lugar al fincamiento de responsabilidades administrativas y, en su caso, a la imposición de sanciones.
 
-d).- Legumbres, frutas, verduras y productos hortícolas en general, en estado natural;
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-e).- Ganado porcino, caprino, lanar, vacuno, equino y asnal;
+IX. Si se remitieron a la Legislatura en los plazos dispuestos en esta Ley.
 
-f).- Azúcar y sal;
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
+X. Si su contenido cumple con lo dispuesto en la Ley General de Contabilidad Gubernamental, el Código Financiero del Estado de México y Municipios, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás normatividad aplicable.
 
-g).- Maquinaria y equipo que únicamente sean susceptibles de ser utilizados en la agricultura y ganadería, así como los fertilizantes. No quedan comprendidos en este inciso, la maquinaria y equipo para industrializar los productos agrícolas y ganaderos.
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-III.- Los obtenidos en operaciones de venta de:
+XI. Si su contenido corresponde con el contenido del presupuesto de egresos del ejercicio fiscal respectivo.
 
-a).- Carnes en estado natural;
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-b).- Mascabado y piloncillo;
+XII. Si las entidades públicas presentaron en la cuenta pública información sobre la aplicación de los recursos de gestión y de origen federal de forma suficiente y transparente, en términos de los convenios y normatividad correspondiente.
 
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-c).- Transporte público de personas, siempre que no se requiera concesión o permiso federal para operar;
+XIII. Si las entidades públicas presentaron en la cuenta pública información sobre la aplicación de recursos destinados a programas sociales de forma suficiente y transparente, y con alusión a los resultados obtenidos.
 
-d).- Leche natural, pasteurizada, condensada, evaporada, deshidratada, rehidratada o enlatada;
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-e).- Tortillas, nixtamal, masa de nixtamal, harina de maíz, pan, galletas y pastel;
+XIV. Si los resultados de desempeño de todos los programas presupuestarios obtuvieron parámetros satisfactorios reflejados en la Matriz de Indicadores para Resultados.
 
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-f).- Semillas para siembra;
+###### Artículo 36.
 
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
+Las cuentas públicas serán remitidas a la Legislatura, su Presidente deberá hacerlas del conocimiento de sus integrantes y de la Comisión, quien la remitirá al Órgano Superior para su revisión y fiscalización superior en la forma y plazos establecidos por la Ley.
 
-g).- Libros, Periódicos y revistas;
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
+###### Artículo 37.
 
-h).- Carbón vegetal.
+Respecto de los informes mensuales el Órgano Superior podrá emitir los resultados de la fiscalización de acuerdo con lo que se señale en el Reglamento.
 
-i).- Libros, periódicos y revistas;
+###### Artículo 38.
 
-j).- Alimentos balanceados para animales y las materias primas necesarias para producirlos;
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-k).- Productos de medicina veterinaria;
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-l).- Gas para uso doméstico y carbón vegetal.
+###### Artículo 39.
 
-IV.- Los procedentes de espectáculos públicos, por el boleto de entrada.
+El Órgano Superior, en ejercicio de sus atribuciones de fiscalización, podrá realizar revisiones y auditorías en relación con el ejercicio fiscal sujeto a revisión.
 
-Se exceptúan de lo dispuesto en esta fracción, los ingresos que procedan de servicios prestados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos.
+> <small>(REFORMADO, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-V.- Aguas purificadas, destiladas o potables no gaseosas ni compuestas;
+###### Artículo 40.
 
-VI.- Los provenientes de otros actos o actividades por los que no deba pagarse el Impuesto al Valor Agregado.
+Revisados por la Comisión las Cuentas Públicas y el Informe de Resultados referido en el artículo 50 del presente ordenamiento, y una vez que se haya elaborado el dictamen de aquéllas, y que dicho dictamen sea votado por el Pleno, el Órgano Superior procederá en términos de lo dispuesto en esta Ley, en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
-ART. 90.- El impuesto se causará y pagará a razón del 1.8% sobre el monto total de los ingresos gravados que se obtengan dentro del territorio del Estado.
+El dictamen relativo a las Cuentas Públicas deberá contener un análisis pormenorizado y estar sustentado en las conclusiones técnicas de los Informes de Resultados de las Cuentas Públicas, recuperando las discusiones técnicas realizadas en la Comisión; su estructura considerará antecedentes, considerandos y resolutivos.
 
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
+Si el dictamen de la cuenta pública es aprobado por el Pleno de la Legislatura, quedará por concluida la revisión de la cuenta pública. De no aprobarse, la Comisión sesionará de forma extraordinaria para analizar y discutir nuevamente el contenido de la Cuenta Pública. Al efecto, la Comisión podrá solicitar mayor información al Órgano Superior, sobre la aplicación de los recursos públicos y los resultados obtenidos con ellos. Por consiguiente, formulará un nuevo dictamen que deberá presentar al Pleno de la Legislatura para su respectiva calificación.
 
-ART. 91.- Son sujetos del Impuesto las personas físicas o morales que obtengan ingresos por los conceptos especificados en el Artículo 89 de este Capítulo.
+###### Artículo 41.
 
-Los sujetos del Impuesto podrán trasladarlo expresamente al comprador o usuario del servicio, sin que en los casos de mercancías que tienen señalado el precio oficial, la traslación se considere como alteración de ese precio. Cuando lo hagan, consignarán por separado en las facturas o notas de venta que expidan, el importe de la operación y el monto del Impuesto que se calculará exclusivamente sobre dicho importe.
+Cuando conforme a esta Ley y demás disposiciones legales aplicables, los órganos de control interno de las entidades fiscalizables deban colaborar con el Organo Superior en lo que concierne a la revisión de las cuentas públicas, deberá establecerse una coordinación entre ésta y aquellos, a fin de garantizar el intercambio de información que sea necesario y otorgar las facilidades que permitan al Organo de Superior de Fiscalización el ejercicio de sus funciones.
 
-ART. 92.- Se considera como ingreso, toda percepción en efectivo, en bienes, en servicios, en valores, en títulos de crédito, en crédito en libros o en cualquier otra forma que se obtenga por los sujetos de este impuesto, como resultado de las operaciones gravadas por este Capítulo, aún cuando no constituya parte de su objeto habitual. Para este efecto, la operación se considera realizada en el Estado, cuando el pedido o la entrega de la mercancía o la recepción del servicio o el pago del precio sean efectuados dentro del territorio de Sinaloa.
+###### Artículo 42.
 
-El impuesto se causa sobre el ingreso total de las operaciones gravadas por este Capítulo en el monto en que se realicen aún cuando sean a plazo o a crédito, incluyéndose el sobreprecio, los intereses o cualquier otra prestación que lo aumente.
+La información que proporcionen las entidades fiscalizables al Organo Superior, sólo será utilizada para el cumplimiento de las disposiciones previstas en esta Ley.
 
-Se exceptúan de lo dispuesto en el párrafo anterior los ingresos por concepto de intereses ordinarios o moratorios obtenidos por empresas fraccionadoras de terrenos, empresas inmobiliarias o cualquier otro tipo de empresas que se dediquen a la compra-venta y administración de bienes inmuebles, los cuales quedarán gravados en el Capítulo correspondiente de esta Ley.
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+El Órgano Superior tendrá acceso a todo tipo de documentos, datos, libros, archivos físicos y electrónicos, así como a la documentación justificativa y comprobatoria y demás información que resulte necesaria para la revisión y fiscalización, sin importar el carácter de confidencial o reservado de la misma, quedando bajo su custodia y responsabilidad dicha información de conformidad con lo que establecen las leyes de la materia, que obren en poder de:
 
-Para la determinación del ingreso gravado por este impuesto, así como para los efectos de las deducciones y rectificaciones correspondientes, se sujetará a lo siguiente:
+I. Las entidades fiscalizables.
 
-I.- No se considerarán ingresos gravables:
+II. Los órganos internos de control.
 
-a).- Los reembolsos de pago hechos a terceros por concepto de gastos por seguro, acarreos, fletes, empaques, envolturas, envases exteriores, impuestos, derechos y otros semejantes que haga el vendedor con motivo del envío de las mercancías, siempre que éstos se agreguen al comprador, sin que se altere su monto y siempre que los importes se expresen específicamente en las facturas o notas de venta que se expidan. No se aplicará lo dispuesto en este inciso cuando el precio se pacte libre de gastos para el comprador.
+III. Los auditores externos de las entidades fiscalizables.
 
-Se considerarán ingresos gravables los derivados de la enajenación de empaques, envolturas y envases que sean necesarios para la enajenación o venta de mercancías al detalle;
+IV. Las instituciones de crédito, fideicomisos u otras figuras del sector financiero.
 
-b).- Los descuentos y bonificaciones hechos por el vendedor al comprador;
+V. Las autoridades hacendarias.
 
-c).- Los que se reintegren con motivo de la devolución de mercancías, en los casos en que las enajenaciones se rescindan total o parcialmente.
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
-II.- Los causantes que, como consecuencia de las operaciones que realicen, registren en sus libros autorizados, asientos que comprueben aumentos o disminuciones de los ingresos declarados, y, consecuentemente, afecten el monto del impuesto pagado, podrán hacer el aumento a su cargo o la disminución a su favor del impuesto rectificado en la declaración mensual siguiente al mes en que efectivamente hayan registrado dichos asientos.
+El Órgano Superior tendrá acceso a la información que las disposiciones legales consideren como de carácter reservado o confidencial cuando esté relacionada directamente con la captación, recaudación, administración, manejo, custodia, ejercicio, aplicación de recursos públicos y la deuda pública, estando obligado a mantener la misma reserva, en términos de las disposiciones jurídicas aplicables.
 
-También podrán hacer rectificaciones cuando descubran errores en las declaraciones presentadas que motiven una diferencia de más o de menos en el impuesto pagado, siempre que las hagan en la declaración mensual siguiente a aquélla que se rectifique.
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-Cumpliéndose con los requisitos establecidos no se cubrirán recargos ni se impondrán sanciones por los impuestos omitidos declarados;
+###### Artículo 43.
 
-III.- Cuando los causantes no hayan hecho uso de las prerrogativas que las concede la fracción anterior, si al finalizar su ejercicio fiscal determinan diferencias de impuesto pagadas tanto de más como de menos, podrán hacer las compensaciones correspondientes y si de ellas resulta diferencia a su cargo la cubrirán mediante declaración complementaria, con los recargos de ley, dentro de los tres meses siguientes al cierre del ejercicio; si por el contrario la diferencia fuere a su favor podrán solicitar su devolución.
+Las auditorías, revisiones, visitas e inspecciones que se efectúen en los términos de este título, se practicarán por el personal expresamente comisionado por el Órgano Superior, que estará formado por servidores públicos adscritos al Órgano o por profesionistas independientes y auditores externos.
 
-Fuera del Plazo señalado en el párrafo anterior, no podrán hacerse las compensaciones de que se trata y en este caso los causantes deberán pagar las omisiones y recargos y pedir por separado la devolución del impuesto cubierto en exceso;
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-IV.- Los causantes por iniciativa propia no podrán hacer las rectificaciones a que se refieren las fracciones anteriores, cuando se descubra falsedad en los asientos de su contabilidad, cuando la omisión del impuesto haya sido descubierta de antemano por alguna autoridad, funcionario o empleado, cuando la haya precedido denuncia, cuando con anterioridad se haya iniciado una auditoría al responsable o presunto responsable, o haya sido requerido de pago de alguna prestación fiscal derivada de este impuesto.
+###### Artículo 44.
 
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
+Las personas a que se refiere el artículo anterior, tendrán el carácter de representantes del Órgano Superior en lo concerniente a la comisión conferida. Para tal efecto, deberán presentar previamente la orden o el oficio de comisión respectivo e identificarse plenamente como personal actuante del mismo.
 
-ART. 93.- Los causantes presentarán declaración mensual de acuerdo con las formas aprobadas por la Secretaría de Finanzas del Estado y efectuarán el pago del Impuesto en la Oficina Recaudadora de su jurisdicción, dentro de los primeros veinte días del mes siguiente de aquel en que se hubieren obtenido los ingresos gravados. La declaración mensual deberá presentarse aún en el caso de que no se perciban ingresos gravados, expresandose el motivo de ello.
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-Tratándose de ingresos obtenidos en forma accidental por los que deba pagarse este Impuesto, el causante lo cubrirá mediante declaración que presentará en la Oficina Recaudadora de su jurisdicción dentro de los diez días hábiles siguientes.
+###### Artículo 45.
 
-ART. 94.- Los causantes del impuesto tienen las siguientes obligaciones:
+Durante sus actuaciones, los comisionados que hubieren intervenido en las revisiones, deberán levantar acta circunstanciada, en presencia de dos testigos, en la que harán constar los hechos u omisiones que hubieren encontrado. Las actas, declaraciones, manifestaciones o hechos en ellas contenidos, harán prueba en los términos de Ley. Asimismo, podrán solicitar la documentación en copias certificadas e integrarán el expediente técnico correspondiente.
 
-I.- Inscribirse en el registro de causantes del Estado y dar aviso de los cambios que se produzcan en los datos que el registro debe contener dentro de los 10 días siguientes a la fecha en que se asuma el carácter de causante o se produzca el cambio, utilizando las formas autorizadas por la Secretaría de Finanzas del Estado;
+### CAPITULO TERCERO. DE LAS CUENTAS PUBLICAS MUNICIPALES
 
-II.- Llevar los siguientes libros de contabilidad, que deberán ser autorizados por la Recaudación o Colecturía de Rentas de su juridicción (sic):
+###### Artículo 46.
 
-a).- Cuando sus ingresos anuales sean inferiores a $ 1´500,000.01 deberán llevar las personas físicas exclusivamente, un libro de ingresos y egresos;
+Sin perjuicio de las atribuciones que en materia de cuenta pública tienen conferidas los Presidentes Municipales, los municipios coordinarán sus acciones con el Organo Superior a través de sus Síndicos y Tesoreros.
 
-b).- Cuando sus ingresos anuales sean de $ 1´500,000.01 o mayores, deberán llevar un Mayor General, un Diario General y un libro de Inventarios y Balances. Estos libros de contabilidad pueden ser los mismos que autorice la Secretaría de Hacienda y Crédito Público, sin que en estos casos sea necesaria la autorización por parte de la Recaudación o Colecturía de Rentas del Estado;
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2012)</small>
 
-c).- En las sucursales, dependencias o agentes de los contribuyentes deberá llevarse el "Libro Especial del Ingreso".
+###### Artículo 47.
 
-III.- Registrar en los libros autorizados, dentro de los 60 días siguientes a la fecha en que hayan sido realizados, los asientos correspondientes a las operaciones efectuadas, designando las circunstancias y carácter de cada operación y el resultado que produzca a su cargo o descargo;
+Los Presidentes Municipales y los Síndicos estarán obligados a informar al Órgano Superior, a más tardar el 25 de febrero de cada año, el Presupuesto de Egresos Municipal que haya aprobado el Ayuntamiento correspondiente.
 
-Los ingresos obtenidos de las operaciones antes mencionadas deberán ser registrados en los libros autorizados dentro de los días primero al veinte del mes siguiente en que se han percibido;
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2012)</small>
 
-IV.- Conservar los libros de contabilidad y la documentación comprobatoria de las operaciones realizadas, por el término de cinco años, en el domicilio señalado en la solicitud de inscripción en el registro de causantes.
+###### Artículo 48.
 
-ART. 95.- En caso de falta de presentación de las declaraciones mensuales de ingresos, dentro del plazo establecido en el Artículo 93 de esta Ley, transcurridos 15 días a contar del 21 de cada mes, la Oficina Recaudadora requerirá al causante moroso para que presente en un plazo de 3 días la declaración o declaraciones omitidas.
+La cuenta pública de los municipios, deberá firmarse por el Presidente Municipal, él o los Síndicos según corresponda; el Tesorero y el Secretario del Ayuntamiento.
 
-Cuando el causante que haya sido requerido para presentar la declaración o declaraciones omitidas, no cumpla con esta prevención en el término que señala este Artículo, la Oficina Recaudadora procederá a formular una liquidación provisional del impuesto correspondiente, tomando como base el ingreso más alto declarado durante los tres últimos pagos y si en el término de 15 días no presenta su declaración, la liquidación provisional se considerará como formulada por el causante, para efectos de seguir el procedimiento de ejecución, sin perjuicio de la facultad de revisión de la Secretaría de Finanzas.
+Los informes mensuales deberán firmarse por el Presidente Municipal, el Tesorero y el Secretario del Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+Quienes firmen la cuenta pública o el informe de que se trate y no estén de acuerdo con su contenido, tendrán derecho a asentar las observaciones que tengan respecto del documento en cuestión en el cuerpo del mismo, debiendo fundar y motivar cada una de ellas.
 
-ART. 96.- Las obligaciones a que se refiere el Artículo 94 de esta Ley, no son aplicables a los causantes que obtengan ingresos en forma accidental, salvo la que se refiere a conservar la documentación comprobatoria de los ingresos percibidos por el término de cinco años, señalada en la fracción IV de dicho Artículo.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE OCTUBRE DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+###### Artículo 49.
 
-ART. 96 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+Los informes mensuales o la cuenta pública municipal, según corresponda, así como la documentación comprobatoria y justificativa que los ampare, quedarán a disposición de los sujetos obligados a firmarlos, para que puedan revisarlos y en su caso, anotar sus observaciones; así mismo, y en relación a los informes mensuales que no firman él o los Síndicos del Ayuntamiento, también recibirán dicha documentación.
 
-### CAPITULO III. Impuesto sobre Producto de Capitales
+Los tesoreros municipales deberán notificar por escrito esta situación a los sujetos obligados a firmar dichos documentos y apercibirlos de que en caso de que no acudan a hacerlo, se tendrá por aceptada la documentación de que se trate en los términos señalados en el informe o cuenta pública respectiva.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+Dichos documentos estarán disponibles en las oficinas de la Tesorería Municipal, cuando menos con cinco o con treinta días de anticipación a su presentación, según se trate de los informes o de la cuenta pública, respectivamente.
 
-ART. 97.- Son causantes de este impuesto, las personas físicas o jurídicas que obtengan en el Estado o de fuentes de riqueza ubicadas en él, o de créditos garantizados con bienes ubicados en su territorio, ingresos por los conceptos siguientes, siempre que el ingreso gravado no se derive de actos o actividades por los que deba pagarse el Impuesto al Valor Agregado:
+### CAPITULO CUARTO. DEL INFORME DE RESULTADOS
 
-I.- Intereses simples o capitalizados sobre préstamos en general;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-II.- Intereses sobre cantidades que se adeuden como precio en contratos de compraventa a plazos, compraventa con reserva de dominio o de promesa de compraventa.
+###### Artículo 50.
 
-III.- Intereses sobre cantidades anticipadas a cuenta de precio de toda clase de bienes o derechos;
+El Órgano Superior tendrá un plazo improrrogable que vence el 30 de septiembre del año en que se entreguen las cuentas públicas, para presentar el Informe de Resultados ante la Comisión de Vigilancia del Órgano Superior de Fiscalización, mismo que tendrá el carácter público y, en consecuencia, deberá ser publicado en medios electrónicos de manera inmediatamente posterior a la entrega que haga el Órgano Superior a la Comisión de Vigilancia; mientras ello no suceda, el Órgano Superior deberá guardar reserva de sus actuaciones e informaciones.
 
-IV.- Intereses provenientes del contrato de cuenta corriente;
+> <small>(REFORMADO, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-V.- Descuentos o anticipos sobre títulos o documentos;
+La revisión, análisis, aclaración y discusión del informe a que hace referencia el párrafo anterior, y el estudio del contenido de la cuenta pública, servirán como principal instrumento para que la Comisión de Vigilancia del Órgano Superior de Fiscalización elabore el dictamen de las cuentas públicas, el cual deberá presentarse ante el Pleno de la Legislatura para su votación y emisión del decreto que tenga por fiscalizadas las cuentas públicas del Estado y Municipios a más tardar el 05 de diciembre del año en que se presente dicho informe.
 
-VI.- Usufructos de capitales impuestos a rédito;
+> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-VII.- Arrendamiento de negociaciones agrícolas o ganaderas aún cuando se arrienden separadamente el inmueble y los bienes que constituyan la negociación;
+La calificación no suspende el trámite de las acciones promovidas o que se promuevan, por parte del Órgano Superior de Fiscalización del Estado de México, mismas que seguirán el procedimiento de acuerdo a las disposiciones legales aplicables.
 
-VIII.- Los réditos o intereses por préstamos prendarios otorgados por montepíos o casas de empeño;
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-IX.- Arrendamiento o subarrendamiento de los siguientes bienes inmuebles:
+La Comisión vigilara la publicación del Informe de Resultados, de todas y cada una de las reuniones de trabajo que realice para analizarlo y del decreto que emita la Legislatura, de manera inmediata a que cada uno acontezca.
 
-a).- El suelo;
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-b).- Fincas dedicadas o utilizadas solo a fines agrícolas o ganaderos;
+La Comisión dará seguimiento a los informes emitidos por el Órgano Superior, que incluirán de forma cualitativa y cuantitativa las observaciones y recomendaciones así como a los procedimientos resarcitorios y demás acciones promovidas, por el OSFEM de la siguiente forma:
 
-c).- Inmuebles destinados o utilizados exclusivamente para casa-habitación;
+a) Número de auditorías, tipo de auditoria, alcance y planeación de la misma.
 
-En el caso de arrendamiento de los inmuebles a que se refiere este inciso, el impuesto sólo se causará cuando el monto total de los ingresos mensuales que perciba el causante, exceda al equivalente mensual del 50% del salario mínimo general vigente en la zona económica respectiva del Estado.
+b) La identificación de la entidad fiscalizable.
 
-Si un inmueble tuviere varios destinos o usos, el impuesto sólo se pagará por la parte destinada o utilizada para casa-habitación.
+c) Las observaciones resarcitorias y el seguimiento de los mismos hasta su total conclusión.
 
-Lo dispuesto en este inciso no es aplicable a los inmuebles o parte de ellos que se proporcionen amueblados o se destinen o utilicen como hoteles o casas de hospedaje. No se considerará amueblada la casa habitación cuando se proporcione con muebles de cocina, de baño o para guardar ropa o los integrados a la construcción, así como aquéllos que determine la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general;
+d) El comportamiento de la entidad fiscalizable respecto a las observaciones realizadas.
 
-X.- Operaciones e inversiones de capital, cualquiera que sea la denominación que se le dé a los ingresos obtenidos, siempre que éstos no sean objeto de algún otro impuesto del Estado o que no estén expresamente exceptuados por una Ley local o federal aplicable.
+e) El cumplimiento de los programas auditados mediante auditoria del desempeño.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+###### Artículo 51.
 
-ART. 98.- El impuesto se causa, sin deducción alguna, sobre los ingresos que el acreedor perciba por los conceptos señalados en el artículo anterior, con arreglo a la siguiente:
+El informe a que se refiere el artículo anterior, deberá contener como mínimo lo siguiente:
 
-T A R I F A
+I. El resultado de la revisión de la respectiva cuenta pública;
 
-I.- En el caso de los ingresos gravables comprendidos en las fracciones I, II, III, IV, V y VI del Artículo 97, se aplicarán los siguientes porcientos:
+II. El apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, respecto de la consecución de sus objetivos y metas, así como de la satisfacción de las necesidades correspondientes;
 
-Interés, Tasa
+III. Los resultados de la gestión financiera;
 
-tipo de descuento Aplicable
+IV. La comprobación de que las entidades fiscalizadas, se ajustaron a lo dispuesto en las respectivas leyes de ingresos, presupuestos de egresos y en las demás normas aplicables en la materia;
 
-o rédito anual
+V. En su caso, el análisis de las desviaciones presupuestales;
 
-Hasta del 12% 11.2%
+VI. Los comentarios de los auditados;
 
-Hasta del 15% 14.0%
+VII. Las irregularidades que se detecten en el uso y manejo de los recursos; y
 
-Hasta del 18% 16.8%
+VIII. Las observaciones y recomendaciones que se deriven de la revisión.
 
-Mayor del 18% 21.0%
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-II.- En el caso de los ingresos gravables comprendidos en las fracciones VII, VIII y X del Artículo 97, se aplicará una tasa del 11.2%
+Para el caso de las revisiones especiales que puedan realizarse de manera contemporánea a la ejecución de actos de gobierno y la aplicación de fondos públicos federales, estatales o municipales de conformidad con los artículos 5 y 8 en sus fracciones I y II de esta Ley, el Órgano Superior de Fiscalización del Estado de México, deberá informar a la Comisión de la Legislatura, sobre los resultados obtenidos de la misma.
 
-III.- En el caso de los ingresos gravables comprendidos en la fracción IX del Artículo 97, se aplicarán los siguientes porcientos:
+El informe de resultados deberá elaborarse considerando los principios de contabilidad gubernamental y las disposiciones legales aplicables.
 
-a).- Si se trata de arrendamiento de los inmuebles a que se refieren los incisos a) y b) de dicha fracción, sobre el ingreso gravable 3.5%
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-b).- Si se trata de arrendamiento de los inmuebles a que se refiere el inciso c) de dicha Fracción, sobre el ingreso gravable:
+###### Artículo 52.
 
-I.- Hasta $ 3,000.00 2.0%
+El Órgano Superior en el informe de resultados, dará cuenta por medio de la Comisión, a la Legislatura de los pliegos de las observaciones que hubiere formulado, así como de los procedimientos que las autoridades competentes hubieren iniciado para el fincamiento de responsabilidades y la imposición de sanciones.
 
-II.- De $ 3,000.01 en adelante 2.5%
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 30 DE MAYO DE 2017)</small>
 
-c).- Si se trata de subarrendamiento, el impuesto se cubrirá sobre la base de la diferencia entre el precio del subarrendamiento y el del arrendamiento, aplicándose una tasa de 11.2%
+### CAPITULO PRIMERO. DE LA ETAPA DE ACLARACION
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-ART. 99.- Si los ingresos gravables a que se refiere la fracción I del artículo anterior, se derivan de créditos concedidos a una empresa o sociedad mercantil establecida en el Estado de Sinaloa y son destinados en forma específica al desarrollo o ampliación de sus actividades, se aplicará únicamente el 38% de las tasas de impuesto previstas por dicha Fracción.
+###### Artículo 53.
 
-ART. 100.- El impuesto que establece este Capítulo es a cargo del acreedor o persona que reciba los ingresos gravables, y no surte efectos fiscales cualquiera estipulación o convenio en sentido contrario.
+Si del ejercicio de las atribuciones de fiscalización del Órgano Superior, se observa o determina alguna irregularidad que implique daño a la hacienda pública estatal o municipal o al patrimonio de las entidades fiscalizables, se deberá iniciar una etapa de aclaración, previo a la calificación de las faltas administrativas y emisión del informe de presunta responsabilidad administrativa, que refiere la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
-ART. 101.- Los causantes presentarán declaración mensual de acuerdo con las formas oficiales aprobadas, y efectuarán el pago del impuesto en la Oficina Recaudadora de su jurisdicción, dentro de los primeros quince días del mes siguiente de aquél en que se hubieren obtenido los ingresos gravados. La declaración mensual deberá presentarse aún en el caso de que no se perciban ingresos gravados, expresando el motivo de ello.
+La etapa de aclaración tiene como finalidad dar oportunidad a los servidores públicos de la entidad fiscalizable o quienes hayan dejado de serlo, para solventar y aclarar el contenido de las observaciones o la determinación del daño y, en su caso, cubrir el monto a que ascienda y quede resarcido.
 
-ART. 102.- En el caso de arrendamiento de bienes inmuebles, se observarán las siguientes reglas:
+###### Artículo 54.
 
-I.- Si se trata de arrendamiento de bienes inmuebles urbanos:
+La etapa de aclaración se desarrollará de la siguiente manera:
 
-a).- El impuesto se cubrirá en los términos establecidos en el Artículo anterior;
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-b).- Dentro de los quince días siguientes a la fecha de celebración del contrato de arrendamiento, el causante o arrendador deberá presentar una manifestación por escrito, acompañando una copia del contrato respectivo.
+I. El Auditor Superior o el Auditor Especial correspondiente, notificará el contenido de las observaciones o la determinación del daño y concederá a los servidores públicos de la entidad fiscalizable o quienes hayan dejado de serlo un plazo de treinta días hábiles, para que las solvente o repare y manifieste lo que a su interés convenga.
 
-II.- Si se trata de arrendamiento de inmuebles rústicos, el impuesto deberá cubrirse a más tardar dentro de los quince días siguientes a la fecha de celebración del contrato, mediante la presentación de una sola declaración anual, en las formas oficiales aprobadas, que deberá acompañarse de una copia del contrato respectivo.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+II. Los servidores públicos de la entidad fiscalizable o quienes hayan dejado de serlo, dentro del plazo concedido, presentarán los elementos que consideren necesarios para justificar o aclarar las observaciones efectuadas, para acreditar la reparación o inexistencia del daño. En caso de no hacerlo, se entenderá que aceptan en sus términos lo expuesto por el Órgano Superior y éste procederá conforme a lo previsto en esta Ley, la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
-ART. 103.- Cuando los ingresos gravables pertenezcan a causantes domiciliados fuera del Estado, los deudores están obligados a retener el impuesto causado, descontándolo del pago que hagan al acreedor, y a enterar las cantidades retenidas en la Oficina Recaudadora correspondiente a su domicilio, en los términos que señalan los artículos inmediatos anteriores.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-ART. 104.- El deudor que no dé cumplimiento a la obligación de retener el impuesto en los términos del artículo anterior, responderá solidariamente de su pago y será sancionado como infractor.
+III. Si las observaciones han quedado debidamente solventadas o el daño reparado, el Órgano Superior dictará el acuerdo de conclusión y archivo del expediente, mismos que notificará a los servidores públicos de la entidad fiscalizable o quienes hayan dejado de serlo, así como a los denunciantes, en su caso, cuando proceda y éstos fueren identificables.
 
-ART. 105.- Para los efectos de este impuesto, las cantidades abonadas por el deudor, por concepto de pago parcial o total del adeudo, se aplican en igual proporción al principal y a intereses vencidos.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-ART. 106.- Quedan exentos del impuesto:
+IV. Si las observaciones no fueron debidamente solventadas o el daño reparado, las Auditorías Especiales, como autoridades investigadoras, calificarán las faltas administrativas y emitirán el informe de presunta responsabilidad administrativa, para que se presente ante la Unidad de Asuntos Jurídicos como autoridad substanciadora, a efecto de iniciar el procedimiento de responsabilidad administrativa, en términos de la Ley General de Responsabilidades Administrativas y de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
-I.- Los ingresos por aparcería de fincas rústicas y las rentas provenientes de contratos de arrendamiento prorrogados por disposiciones de la Ley (rentas congeladas);
+### CAPITULO SEGUNDO. DE LAS RESPONSABILIDADES
 
-II.- Los ingresos de instituciones de beneficencia pública o privada del Estado de Sinaloa, siempre que se demuestre que el monto total de los ingresos gravables por este impuesto se destina íntegramente a los fines de su instituto;
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-III.- Los productos de capitales que se destinen al ramo de Educación en el Estado;
+###### Artículo 55.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+La promoción del procedimiento de responsabilidad administrativa ante el Tribunal de Justicia Administrativa del Estado de México, tiene por objeto resarcir el monto de los daños y perjuicios estimables en dinero que se hayan causado a la Hacienda Pública o, en su caso, al patrimonio de las entidades fiscalizables.
 
-IV.- Los intereses por ventas a plazo y los intereses moratorios cuando se deriven de actos o actividades por los que deba pagarse el Impuesto al Valor Agregado, mientras esté vigente el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público.
+Para los efectos de esta Ley incurren en responsabilidad resarcitoria los servidores públicos de la entidad fiscalizable o quienes hayan dejado de serlo o las personas físicas o jurídicas colectivas que reciban, administren o manejen recursos del erario y quienes no manejen recursos cuyos actos u omisiones causen daño y/o perjuicio a las haciendas públicas o al patrimonio de las demás entidades fiscalizables, los cuales serán fijados en cantidad líquida.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+Lo anterior, sin perjuicio de las demás faltas administrativas a que se refiere la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México y Municipios y las sanciones administrativas que, en su caso, el Tribunal de Justicia Administrativa del Estado de México o los órganos internos de control, impongan a los responsables.
 
-V.- Los intereses de los bonos de la deuda pública mexicana, si los tenedores están exceptuados del pago de impuestos locales por alguna Ley Federal o Local;
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+###### Artículo 56.
 
-VI.- Los intereses que paguen u obtengan las instituciones u organizaciones auxiliares de crédito, nacionales o del extranjero, así como las instituciones de seguros o de fianzas, siempre que dichos intereses se deriven de operaciones propias del objeto de dichas instituciones.
+Las responsabilidades derivadas de la aplicación de la Ley General de Responsabilidades Administrativas, de la Ley de Responsabilidades Administrativas del Estado de México y Municipios y de esta Ley, se fincarán independientemente de las que siendo de naturaleza diversa, procedan con base en otras leyes y de las sanciones de carácter penal que imponga la autoridad judicial.
 
-La disposición contenida en el párrafo anterior se refiere exclusivamente a los casos en que los intereses y percepciones sean pagados u obtenidos por dichas instituciones afectando sus respectivos patrimonios, en su carácter de deudores o de acreedores, pero de ninguna manera comprenden los casos de fideicomisos o cualesquiera otras operaciones en las que intervengan dichas instituciones invirtiendo capitales propiedad de terceras, aún cuando el pago de estos intereses y percepciones se haga por conducto de las mismas instituciones. En estos casos las manifestaciones y avisos a que se refiere el Artículo 107 de esta Ley, deberán ser hechos por las propias instituciones.
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-VII.- Los ingresos gravados por este impuesto que perciban las entidades públicas comprendidas en el Artículo 38 de esta Ley;
+###### Artículo 57.
 
-VIII.- Los ingresos provenientes de intereses causados por los préstamos hechos para construcción de viviendas de interés social;
+El fincamiento de las responsabilidades resarcitorias a que haya lugar con motivo de la aplicación de esta Ley, se substanciará con arreglo al procedimiento previsto en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
-IX.- Ingresos provenientes de acciones, comanditas, participaciones, partes de fundador, bonos, obligaciones y cédulas;
+Lo anterior, sin perjuicio de la promoción de las demás responsabilidades administrativas que, en su caso, por faltas administrativas, se deriven de los actos de fiscalización.
 
-X.- Ingresos por intereses en caja de ahorros de los empleados, derivados de préstamos que se otorgan a ellos mismos.
+###### Artículo 58.
 
-ART. 107.- Los causantes de este impuesto tienen las siguientes obligaciones:
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-I.- Presentar ante la Oficina Recaudadora de su jurisdicción los documentos públicos o privados en que se consignen las operaciones, actos o contratos de los que deriven los ingresos gravables;
+###### Artículo 59.
 
-II.- Presentar ante la Oficina Recaudadora de su jurisdicción dentro del plazo establecido por esta Ley, las declaraciones derivadas de los ingresos gravables percibidos;
+El Organo Superior, para hacer cumplir sus determinaciones, podrá imponer de manera fundada y motivada, los medios de apremio siguientes:
 
-III.- Dar aviso a la Oficina Recaudadora de Rentas correspondiente a su domicilio, haciendo uso de las formas aprobadas por la Secretaría de Finanzas del Estado, dentro de los 10 días siguientes a la fecha en que ocurra cualquiera de los siguientes hechos:
+I. Amonestación por escrito;
 
-a).- De iniciación de operaciones;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-b).- De cambio o baja:
+II. Multa de 10 a 100 veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-1.- Cambio de denominación social;
+III. Auxilio de la fuerza pública; y
 
-2.- Cambio de actividad;
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-3.- Cambio de domicilio;
+IV. Apercibimiento que, en caso de no cumplir, se hará acreedor al procedimiento administrativo correspondiente, el cual procederá conforme a lo establecido por la Ley General de Responsabilidades de (sic) Administrativas y en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
-4.- Traspaso de la negociación;
+###### Artículo 60.
 
-5.- Suspensión temporal de actividades; y
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-6.- Clausura definitiva o cesación de actividades.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-IV.- Tratándose de contratos de promesa de compraventa, de compraventa con reserva de dominio o de compraventa a plazos, que celebren empresas inmobiliarias o fraccionadoras de terrenos, éstas deberán presentar una declaración mensual, en las formas que aprueben las autoridades fiscales, en la que se indique el nombre de los adquirentes, el importe del capital al iniciarse y al concluir el período de la declaración, el tipo de interés pactado, el tipo de interés compensatorio pactado y del interés moratorio, en su caso, y el monto total de los intereses percibidos en el mismo mes. Dicha declaración se presentará en la Oficina Recaudadora que corresponda al domicilio de las empresas mencionadas, dentro de los primeros quince días del mes siguiente de aquél en que se hubiere percibido los ingresos generados.
+### CAPITULO TERCERO. DEL PROCEDIMIENTO DE FINCAMIENTO DE RESPONSABILIDADES RESARCITORIAS
 
-ART. 108.- Los notarios y los jueces que actúen por receptoría, dentro de los quince días siguientes a la fecha en que se autoricen las escrituras en que consten operaciones, actos o contratos de los que se derive el derecho a percibir ingresos gravables con este impuesto, o los que modifiquen esas escrituras o por las que extingan las obligaciones contraídas en dichas operaciones o contratos, darán aviso de su otorgamiento a la Oficina Recaudadora de su residencia. Estos avisos se darán aún en los casos de que, en concepto del Notario o Juez, los ingresos estén exentos del impuesto.
+###### Artículo 61.
 
-ART. 109.- Los encargados del Registro Público de la Propiedad y del Comercio no inscribirán los títulos, contratos o documentos en que e hagan constar operaciones generadoras de ingresos gravables por este impuesto, si no se les acredita previamente, con la copia sellada por la autoridad fiscal competente o con otra constancia expedida por ésta, que los títulos, contratos o documentos fueron registrados ante dicha autoridad.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-ART. 110.- Los propios funcionarios tampoco podrán cancelar las inscripciones relativas a esos títulos, contratos o documentos, si no se les acredita con los respectivos recibos oficiales de pago de este impuesto o con otra constancia expedida por la autoridad fiscal competente, que se está al corriente en el pago de este impuesto.
+###### Artículo 62.
 
-ART. 111.- Para los efectos de este impuesto, las autoridades judiciales deberán:
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-I.- Dar aviso a la Oficina Recaudadora de su adscripción de las demandas, contra-demandas y excepciones y de cualesquiera otra promoción posterior cuando ésta implique desistimiento de alguna de las partes, así como de las transacciones o convenios a que éstas puedan llegar, si esos hechos ocurren dentro de un procedimiento seguido en relación con actos o contratos de los que se derive el derecho a obtener ingresos gravables con este impuesto;
+###### Artículo 63.
 
-II.- Dar a conocer a la Oficina Recaudadora de su adscripción de las resoluciones que dicten en los casos a que se refiere la fracción que antecede y de los recursos que contra ellas se promuevan, así como de las dictadas en el recurso.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-### CAPITULO IV. Impuesto sobre Producción de Alcohol
+###### Artículo 64.
 
-ART. 112.- Son causantes de este impuesto los productores de alcohol etílico en el Estado.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-ART. 113.- Este impuesto se causará cada año, sobre el total de la producción habida en este período, a razón de $0.40 por litro.
+###### Artículo 65.
 
-ART. 114.- Para el cobro del impuesto se tomará como base, provisionalmente, el número de litros de alcohol que autorice la Secretaría de Hacienda y Crédito Público en los permisos de elaboración correspondiente a cada año y la sobreproducción obtenida. El impuesto que resulte sobre la cantidad de libros, se dividirá entre los meses correspondientes al período de elaboración inmediato anterior, haciéndose el primer entero en el mes en que se dé el principio la elaboración y el último en el mes en que termine ésta.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-Cuando la elaboración corresponda a parte de un año y del siguiente, el impuesto total se dividirá entre los meses que correspondan al período de elaboración, y el cociente será la culta mensual que deba pagarse, haciéndose el primer entero en el mes en que se dé principio aquélla, y el último en el mes en que termine.
+###### Articulo 66.
 
-Si los productos obtienen permisos adicionales, la Secretaría de Finanzas formulará la liquidación en los términos ya expresados, según el caso.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-ART. 115.- El pago del impuesto se hará directamente en la Secretaría de Finanzas del Estado, por meses adelantados, dentro de los primeros quince días de cada mes.
+### CAPITULO CUARTO. DEL MEDIO DE IMPUGNACION
 
-ART. 116.- Dentro de los 10 días siguientes a la terminación de la elaboración, los causantes presentarán el aviso de clausura, manifestando la cantidad total de litros de alcohol que hubieren sido elaborados durante el período de producción. Si la Secretaría de Finanzas estima correcta la declaración, formulará la liquidación definitiva del impuesto, conforme a las siguientes reglas:
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-I.- En primer término, en vista del monto total de litros de alcohol elaborados, hará la determinación de los impuestos causados;
+###### Artículo 67.
 
-II.- Del monto de estos impuestos, hará la deducción de las cantidades pagadas provisionalmente;
+Procede el recurso de revisión, en contra de los actos y resoluciones del Órgano Superior, distintos a los que se rigen conforme a lo dispuesto en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
-III.- Si hecha ésta deducción, resulta saldo a cargo del causante, su importe deberá cubrirse dentro de los quince días siguientes a la fecha en que hubiere terminado la producción.
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-ART. 117.- Los causantes de este impuesto independientemente de la obligación del pago del mismo, deberán:
+###### Artículo 68.
 
-I.- Presentar ante la Secretaría de Finanzas del Estado, en la forma y términos que fija esta Ley, las declaraciones necesarias para la determinación del impuesto;
+El recurso de revisión se presentará por escrito ante el Órgano Superior, dentro del plazo de 15 días hábiles, contando a partir de la fecha en que el afectado haya tenido conocimiento del acto o resolución que se impugne.
 
-II.- Dar aviso a la secretaría de Finanzas del Estado, haciendo uso de las formas oficiales aprobadas, dentro de los 10 días siguientes a la fecha en que ocurra cualquiera de los siguientes hechos:
+###### Artículo 69.
 
-a).- De iniciación de operaciones;
+Con la interposición del recurso de revisión podrán suspenderse los actos o resoluciones impugnados, siempre que:
 
-b).- De cambio o baja;
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
-1.- Cambio de denominación o razón social;
+I. Lo solicite el recurrente y éste garantice, por cualquier medio, el monto correspondiente.
 
-2.- Cambio de actividad;
+II. Con la suspensión no se siga perjuicio al interés social ni se contravengan disposiciones de orden público.
 
-3.- Cambio de domicilio;
+###### Artículo 70.
 
-4.- Traspaso de negociación;
+El escrito de recurso contendrá:
 
-5.- Suspensión temporal de actividades; y
+I. Nombre y domicilio del recurrente, en su caso, la persona o personas que éste autorice para recibir notificaciones;
 
-6.- Clausura definitiva o cesación de actividades.
+II. Descripción del acto o resolución impugnado, autoridad que lo emitió y fecha en que se tuvo conocimiento del mismo;
 
-ART. 118.- Si los causantes de este impuesto omiten presentar sus declaraciones dentro de los plazos que fije esta Ley, la Secretaría de Finanzas del Estado hará la liquidación sobre la base de declaraciones suplidas, con los datos que posea y con los que le suministren las Oficinas Federales de Hacienda y con los que obtenga por otros medios.
+III. Razones o motivos de la inconformidad;
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+IV. Señalamiento de las pruebas que en su caso se ofrezcan; y
 
-ART. 118 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+V. Firma del recurrente, requisito sin el cual, no se dará trámite al recurso.
 
-### CAPITULO V. Impuesto sobre Producción de Azúcar y Mascabado
+Al escrito del recurso, deberán acompañarse copia del escrito que contenga el acto o resolución impugnado, así como las pruebas documentales ofrecidas.
 
-ART. 119.- Son causantes de este impuesto, los productores de azúcar y mascabado en el Estado.
+En materia de notificaciones y de pruebas, se aplicarán las reglas establecidas en el Código de Procedimientos Administrativos.
 
-ART. 120.- El impuesto se causará sobre el monto total de la producción de cada zafra, a razón de $0.03 por kilogramo.
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-ART. 121.- Para el cobro del impuesto se tomará como base, provisionalmente, el total de la producción obtenida durante el período de zafra inmediata anterior y se dividirá entre el número de meses correspondientes a ese período para obtener el promedio de producción mensual. Sobre esta base se calculará el impuesto respectivo, debiendo hacerse el primer pago adelantado en el mes en que dé principio la elaboración.
+###### Artículo 71.
 
-ART. 122.- El impuesto deberá pagarse directamente en la Secretaría de Finanzas del Estado, por meses adelantados, dentro de los primeros quince días de cada mes.
+El Órgano Superior o la autoridad que conozca del recurso de revisión, resolverá en definitiva dentro de un plazo de cuarenta y cinco días hábiles siguientes a la fecha de interposición del recurso.
 
-ART. 123.- Dentro de los 10 días siguientes a la terminación de la zafra, los causantes presentarán el aviso de clausura, anexando una declaración por triplicado en que se especifique la cantidad total de kilogramos de azúcar y mascabado elaborados por ese período. Si la Secretaría de Finanzas estima correcta la declaración, formulará la liquidación definitiva del impuesto, conforme a las reglas siguientes:
+###### Artículo 72.
 
-I.- En primer término, en vista del monto total de kilogramos de azúcar y mascabado elaborados, hará la determinación de los impuestos causados;
+Las resoluciones que se dicten en materia del recurso de revisión no admitirán medio de defensa ordinario alguno.
 
-II.- Del monto de estos impuestos, hará la deducción de las cantidades pagadas provisionalmente;
+###### Articulo 73.
 
-III.- Si hecha esta deducción, resulta saldo a cargo del causante su importe deberá cubrirse dentro de los quince días siguientes a la fecha de terminación de la zafra.
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2016)
 
-ART. 124.- Si la Secretaría de Finanzas del Estado no estima correcta la declaración a que se refiere el Artículo anterior, practicará las investigaciones procedentes y con el resultado formulará la liquidación definitiva del impuesto con arreglo al Artículo anterior.
+### CAPITULO QUINTO. DE LA PRESCRIPCION
 
-ART. 125.- Los causantes de este impuesto, independientemente de la obligación del pago del mismo, deberán:
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
-I.- Presentar ante la Secretaría de finanzas del Estado, en la forma y términos que fija esta Ley, las declaraciones necesarias para la determinación del impuesto;
+###### Artículo 74.
 
-II.- Dar aviso a la Secretaría de Finanzas del Estado, haciendo uso de las formas oficiales aprobadas, dentro de los 10 días siguientes a la fecha en que ocurra cualquiera de los siguientes hechos:
+Las facultades del Órgano Superior prescribirán en los términos que dispone la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
-a).- De iniciación de operaciones;
+###### Artículo 75.
 
-b).- De cambio o baja;
+Para el caso del procedimiento administrativo de ejecución, la prescripción será de cinco años. Cualquier gestión de cobro que haga la autoridad competente al responsable, interrumpe la prescripción, la que comenzará a computarse a partir de dicha gestión.
 
-1.- Cambio o denominación o razón social;
+T R A N S I T O R I O S
 
-2.- Cambio de actividad;
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
-3.- Cambio de domicilio;
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente en que la reforma constitucional cause sus efectos legales.
 
-4.- Traspaso de la negociación;
+TERCERO.- Se abroga la Ley Orgánica para la Contaduría General de Glosa del Poder Legislativo del Estado de México, publicada en el Periódico Oficial Gaceta del Gobierno el 15 de octubre de 1991.
 
-5.- Suspensión temporal de actividades; y
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en este decreto.
 
-6.- Clausura definitiva o cesación de actividades.
+QUINTO.- Toda referencia a la Contaduría General de Glosa en las disposiciones legales o administrativas, contratos, convenios o actos, expedidas o celebrados con anterioridad a la vigencia del presente decreto, se entenderá hecha al Organo Superior de Fiscalización del Estado de México.
 
-ART. 126.- Si se omite la presentación de declaraciones dentro de los plazos que fija esta Ley, los causantes serán calificados de oficio por la Secretaría con los datos que posea y con los que le suministren las Oficinas Federales de Hacienda y con los que obtenga por otros medios.
+SEXTO.- Los procedimientos iniciados por la Contaduría General de Glosa, que se encuentren en trámite al entrar en vigor este ordenamiento, se resolverán por el Organo Superior de Fiscalización, conforme a las disposiciones de la Ley Orgánica para la Contaduría General de Glosa del Poder Legislativo del Estado de México.
 
-ART. 127.- El impuesto se causará desde la fecha en que se inicie la elaboración de los productos gravados, hasta que ésta termine.
+> <small>(REFORMADO, G.G. 11 DE FEBRERO DE 2005)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+SEPTIMO.- Dentro de un plazo que no exceda al día 25 de septiembre del año dos mil cinco, la Legislatura del Estado designará al Auditor Superior del Estado de México, designación que deberá ser publicada en el periódico oficial "Gaceta del Gobierno" al día siguiente de efectuarse ésta, previa emisión de la convocatoria a que se refiere el artículo 12 fracción I de la Ley de Fiscalización Superior del Estado de México. En tanto se nombra al Auditor Superior, dicha función será ejercida, provisionalmente, por el Contador General de Glosa de la Legislatura.
 
-ART. 127 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+> <small>(REFORMADO, G.G. 11 DE FEBRERO DE 2005)</small>
 
-### CAPITULO VI. Impuesto sobre Producción de Mieles Incristalizables
+OCTAVO.- El Órgano Superior de Fiscalización dentro del plazo que no exceda de noventa días naturales, contados a partir de la vigencia del presente decreto, expedirá su reglamento interior y lo someterá a la consideración de la Comisión de Vigilancia del Organo Superior de Fiscalización.
 
-ART. 128.- Es objeto de este impuesto la producción de mieles incristalizables en el Estado, y se causará a razón de $ 0.02 por kilogramo de miel incristalizable que se produzca.
+NOVENO.- Las cuentas públicas del Estado y Municipios relativas al ejercicio fiscal de dos mil cuatro, serán revisadas, fiscalizadas y calificadas, de acuerdo con las disposiciones aplicables de la Ley Orgánica para la Contaduría General de Glosa del Poder Legislativo del Estado de México y demás leyes en la materia aplicables.
 
-Para los efectos del pago del impuesto los kilogramos deberán calcularse en su peso equivalente a 85 grados Brix.
+DECIMO.- La H. Legislatura del Estado de México proveerá lo necesario para determinar el presupuesto necesario para la operación del Organo Superior de Fiscalización.
 
-ART. 129.- Son sujetos de este impuesto los productores de mieles incristalizables en el Estado, siendo responsables solidarios en su pago los adquirentes de los productos gravados.
+DECIMO PRIMERO.- Los Diputados integrantes de la Comisión de Inspección de la Contaduría General de Glosa pasarán a formar parte de la Comisión de Vigilancia de la Legislatura del Estado.
 
-ART. 130.- El impuesto deberá pagarse por los productores, directamente en la Secretaría de Finanzas del Estado, dentro de los primeros quince días del mes siguiente de aquél en que las mieles incristalizables salgan por cualquier título o motivo del Ingenio Azucarero en que se produzcan, previa presentación de las declaraciones y demás documentación aprobadas por la Secretaría de Finanzas del Estado.
+DECIMO SEGUNDO.- El personal que labora actualmente en la Contaduría General de Glosa quedará adscrito al Organo Superior de Fiscalización, quedando a salvo sus derechos laborales.
 
-ART. 131.- No causan el impuesto, las mieles incristalizables:
+DECIMO TERCERO.- Los recursos financieros y materiales con que cuenta la Contaduría General de Glosa, así como los archivos, expedientes, documentos y papeles, pasarán al Organo Superior de Fiscalización, quedando destinados al cumplimiento de sus fines.
 
-I.- Transferidas de la fábrica de azúcar a la de alcohol o de aguardiente, siempre que la explotación de las fábricas la haga la misma persona;
+Dado en el Recinto Oficial del Poder Legislativo, Explanada del Palacio Municipal, en la cabecera municipal de Zacualpan, México, a los veintinueve días del mes de julio del año dos mil cuatro.
 
-II.- Destruidas con autorización de la Secretaría de Hacienda y Crédito Público, así como las mermas y pérdidas por causas de fuerza mayor o caso fortuito, debidamente reconocidas por la propia Secretaría.
+DIPUTADO PRESIDENTE
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+C. VICTOR HUMBERTO BENITEZ TREVIÑO
 
-ART. 131 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+(RUBRICA).
 
-### CAPITULO VII. Impuesto sobre la Producción Agrícola
+DIPUTADOS SECRETARIOS
 
-ART. 132.- Es objeto de este impuesto la producción de productos agrícolas en el Estado.
+C. JUAN DARIO ARREOLA CALDERON
 
-ART. 133.- Son causantes del impuesto los productores y solidariamente responsables de su pago los adquirentes de productos agrícolas. Las personas físicas o morales que por cualquier título funjan como intermediarios o mediadores entre los productores y los adquirentes, serán también responsables solidarios y asumirán las mismas obligaciones que se establecen para los adquirentes en el presente capítulo.
+(RUBRICA).
 
-ART. 134.- El impuesto se causará conforme a la siguiente:
+C. PAULINO COLIN DE LA O.
 
-T A R I F A
+(RUBRICA).
 
-Productos:
+C. CONSTANTINO ACOSTA DAVILA
 
-1.- Ajonjolí $ 86.16 Por Ton.
+(RUBRICA).
 
-2.- Alfalfa 30.00 " "
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-3.- Algodón 119.66 " "
-
-4.- Alpiste 90.25 " "
-
-5.- Arroz Palay 43.71 " "
-
-6.- Cacahuate 38.20 " "
-
-7.- Caña 1.12 " "
-
-8.- Cártamo 76.01 " "
-
-9.- Cebada 44.30 " "
-
-10.- Frijol Mungo 70.00 " "
-
-11.- Frijol Soya 94.26 " "
-
-12.- Frijol otras
-
-variedades 65.60 " "
-
-13.- Garbanzo 600.00 " "
-
-14.- Flor de
-
-Zempoasúchitl 22.37 " "
-
-15.- Henequén 28.00 " "
-
-16.- Kenaf 27.42 " "
-
-17.- Linaza 49.71 " "
-
-18.- Maíz 27.63 " "
-
-19.- Maíz Mujo 84.50 " "
-
-20.- Milo Maíz 28.69 " "
-
-21.- Tabaco 31.33 " "
-
-22.- Trigo 38.40 " "
-
-23.- Productos no especificados sobre el valor en plaza 3.0 %
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-HORTALIZAS Y FRUTAS Cuota
-
-DE PRIMERA por Bulto
-
-24.- Berenjena
-
-Jaba Alambrada 1 Bushel 0.55
-
-Jaba Alambrada Aserrada 0.59
-
-25.- Calabaza
-
-Caja de Madera Aserrada 0.79
-
-Jaba de Madera Alambrada
-
-1 1/9 Bushel 0.94
-
-26.- Chile Bell Pepper
-
-Caja de Cartón de 30 Lbs. 1.34
-
-Caja de Madera Alambrada
-
-1 Bushel 1.10
-
-Caja de Madera Aserrada 1.57
-
-Jaba Alambrada de Madera
-
-1 Bushel 1.43
-
-Otros Envases no especificados 0.78
-
-Caja de Cartón Encerada 1.05
-
-27.- Chile fresno
-
-Jaba Alambrada 1 Bushel 1.57
-
-Cartón Standard Tomatero 0.77
-
-28.- Chile Caribe
-
-Jaba Alambrada 1 Bushel 1.49
-
-Caja Standard Tomatera 0.86
-
-29.- Chile Anaheim
-
-Jaba Alambrada 1 Bushel 1.39
-
-30.- Chile Serrano
-
-Jaba Alambrada 1 Bushel 0.94
-
-Jaba Chilera 0.81
-
-31.- Chile Jalapeño
-
-Jaba Alambrada 1 bushel 1.62
-
-32.- Chile Morrón
-
-Jaba Alambrada 1 1/9 Bushel 1.57
-
-33.- Chile Cubanello
-
-Jaba Alambrada 1 Bushel 1.36
-
-34.- Chile Húngaro
-
-Jaba Alambrada 1 Bushel 1.43
-
-35.- Chile Pasilla
-
-Jaba Alambrada 1 Bushel 0.99
-
-36.- Chile Pimiento Rojo
-
-Jaba Alambrada 1 Bushel 1.18
-
-37.- Chícharo
-
-Canasta chicharera 1 Bushel 0.74
-
-Jaba Alambrada 1 1/9 Bushel 0.78
-
-Caja Madera 0.39
-
-Jaba Alambrada 1 Bushel 0.61
-
-38.- Ejote
-
-Jaba Alambrada 1 Bushel 1.51
-
-Caja Madera Alambrada Std. 1.55
-
-Jaba Madera Alambrada 1.55
-
-Jaba Alambrada 1 1/9 Bushel 1.53
-
-39.- Melón
-
-Jaba Alambrada Standard 0.74
-
-Jaba Melonera Jumbo 0.87
-
-Jaba Melonera Pony 0.43
-
-Caja Tomatera 0.27
-
-Jaba de Madera Aserrada 0.39
-
-40.- Nappa
-
-Jaba Madera Grande 2.01
-
-Jaba Madera Mediana 0.91
-
-Jaba Madera Chica 0.54
-
-41.- Pepino
-
-Jaba Alambrada 1 Bushel 1.13
-
-Cartón de 24 piezas 0.45
-
-Cartón de 36 piezas 0.88
-
-Caja Madera Standard 1.17
-
-Pickle Jaba Alambrada
-
-1 1/9 Bushel 0.74
-
-42.- Tomate Verde
-
-Caja de Cartón de 40 Lbs. 0.98
-
-Caja de Cartón de 30 Lbs 0.74
-
-43.- Tomate Maduro
-
-Envase de 3 tandas 1.00
-
-Envase de 2 tandas 0.80
-
-Envase de 30 Lbs. 1.00
-
-44.- Tomate Roma
-
-Caja de Cartón y Madera 0.62
-
-45.- Tomate Cherry
-
-Caja de Cartón y Madera 0.47
-
-Caja de Cartón o Madera 0.53
-
-46.- Tomatillo
-
-Envase no especificado 0.57
-
-47.- Otras Hortalizas
-
-Tonelada 35.93
-
-48.- Mango
-
-Caja de Cartón y Madera 0.36
-
-49.- Toronja
-
-Envase no especificado 0.43
-
-50.- Jicama
-
-Envase no especificado 0.51
-
-51.- Repollo
-
-Envase no especificado 0.53
-
-52.- Nabo
-
-Envase no especificado 0.27
-
-53.- Col
-
-Caja de Madera 0.26
-
-54.- Papaya
-
-Tonelada 37.57
-
-55.- Aguacate
-
-Tonelada 52.92
-
-Envase no especificado 0.63
-
-56.- Naranja
-
-Tonelada 14.92
-
-57.- Sandía
-
-Tonelada 9.35
-
-58.- Otras Frutas
-
-Tonelada 35.93
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-HORTALIZAS Y FRUTAS Cuota
-
-DE SEGUNDA p/TON.
-
-59.- Aguacate 47.37
-
-60.- Berenjena 17.76
-
-61.- Calabaza 14.92
-
-62.- Cebolla 17.76
-
-63.- Chícharo 17.76
-
-64.- Chile Fresco 17.11
-
-65.- Chile Seco 76.97
-
-66.- Ejote 14.92
-
-67.- Elote 17.76
-
-68.- Lechuga 14.92
-
-69.- Limón 35.53
-
-70.- Mango 26.05
-
-71.- Melón 14.92
-
-72.- Naranja 23.68
-
-73.- Papa 29.61
-
-74.- Papaya 29.61
-
-75.- Pepino 14.92
-
-76.- Repollo 14.92
-
-77.- Sandía 14.92
-
-78.- Tomate 29.43
-
-79.- Toronja 17.76
-
-80.- Otras Hortalizas 15.39
-
-81.- Otras frutas 23.68
-
-ART. 135.- El impuesto se pagará en la Oficina Recaudadora a cuya jurisdicción corresponda el lugar de procedencia de los productos agrícolas que lo generen, o en las Oficinas que la Secretaría de Finanzas del Estado designe para el efecto.
-
-ART. 136.- El impuesto deberá pagarse al salir los productos de la finca de origen o al efectuarse la primera venta. En caso de que los productos agrícolas se destinen para uso dentro de la propia finca o sean almacenados dentro de ésta, el impuesto deberá cubrirse en un plazo máximo de 30 días después de haberse efectuado la cosecha.
-
-ART. 137.- Los causantes de este impuesto y los responsables solidarios del mismo tienen las siguientes obligaciones:
-
-I.- Los productores agrícolas, deberán en todo caso, recabar, y conservar por el término de cinco años, los recibos o documentos mediante los cuales se compruebe que los impuestos causados sobre la producción agrícola por ellos generada, fueron debidamente cubiertos de conformidad con las demás disposiciones que se establecen en el presente Capítulo;
-
-II.- Los compradores de productos agrícolas, así como los intermediarios o mediadores entre éstos y los productores:
-
-a).- Deberán registrarse en las Oficinas Recaudadoras de su jurisdicción o en las que para el efecto señale la Secretaría de Finanzas del Estado, debiendo efectuar dicho registro a más tardar el décimo día posterior a la fecha de la iniciación de sus operaciones;
-
-b).- Presentar dentro de los primeros quince días de cada mes, una declaración de los productos comprados durante el mes inmediato anterior;
-
-c).- Acompañarán a la declaración a que se refiere el párrafo anterior, los recibos o constancias de pago de los impuestos respectivos, los cuales les serán devueltos por la Oficina Recaudadora una vez efectuada la verificación de los mismos y la certificación de la declaración correspondiente;
-
-d).- Dar de baja su registro ante las Oficinas Recaudadoras, dentro de los diez días siguientes a la fecha de terminación de sus operaciones.
-
-ART. 138.- Los compradores de productos agrícolas, los intermediarios o mediadores, previa autorización de la Secretaría de Finanzas del Estado, podrán realizar en una exhibición el pago del impuesto correspondiente al producto obtenido de varios productores. Cuando se siga este procedimiento, los compradores, los intermediarios o mediadores estarán obligados a proporcionar a cada uno de los productores constancia escrita del pago del impuesto; en dicha constancia deberá indicarse el número y la fecha del recibo de pago, así como el mes a que corresponda la declaración en que se certifica por la Oficina Recaudadora la presentación del mencionado recibo.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
-
-ART. 138 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE ENERO DE 1983)</small>
-
-### CAPITULO VIII. Impuesto sobre Adquisición de Inmuebles
-
-ART. 139.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 140.-(DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 141.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 142.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 143.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 144.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 145.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 146.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 147.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 148.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 149.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1983)</small>
-
-### CAPITULO VIII BIS. Impuesto Sobre Adquisición de Vehículos de Motor Usados
-
-> <small>(REFORMADO Y REUBICADO, P.O. 31 DE ENERO DE 1983)</small>
-
-ART. 150.- Están obligados al pago de este impuesto, quienes por cualquier título adquieran dentro del territorio del Estado, la propiedad o la posesión de vehículos de motor usados, siempre que la enajenación no sea objeto del Impuesto al Valor Agregado.
-
-Para los efectos de este Capítulo, se entiende por vehículos de motor usado aquel cuya propiedad sea transferida por segunda o ulteriores manos.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 31 DE ENERO DE 1983)</small>
-
-ART. 151.- Tratándose de vehículos de modelo anterior al año en curso, la base del impuesto será el valor que resulte mayor entre el precio consignado en la operación y el que se encuentre señalado en el tabulador oficial que anualmente autorice al efecto la Secretaría de Hacienda Pública y Tesorería, o el fijado por peritos cuando se trate de vehículos no clasificados en el tabulador, accidentados o en condiciones físicas anormales.
-
-Para vehículos cuyo modelo corresponda al año en curso, se tomará como base del impuesto el 90% del importe de la primera facturación.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 31 DE ENERO DE 1983)</small>
-
-ART. 152.- Para los efectos de este impuesto, salvo prueba en contrario a satisfacción de las autoridades fiscales, se considerará efectuada la operación dentro del Estado, por el solo hecho de dar de alta un vehículo en territorio del mismo.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 31 DE ENERO DE 1983)</small>
-
-ART. 153.- Este impuesto se causará y pagará con una tasa del 5% aplicable sobre la base gravable a que se refiere el Artículo 151 de esta Ley.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 31 DE ENERO DE 1983)</small>
-
-ART. 154.- El pago de este impuesto deberá efectuarse en la oficina recaudadora correspondiente, dentro de los quince días naturales siguientes a la fecha de celebración de la operación.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 31 DE ENERO DE 1983)</small>
-
-ART. 155.- Para los efectos del pago del impuesto, los adquirentes deberán presentar ante la oficina recaudadora correspondiente el original del documento que ampare la propiedad del vehículo materia de la operación, acompañado de tres copias del mismo y en el que se señale expresamente el precio y la fecha de la operación.
-
-La oficina recaudadora efectuará el cobro del impuesto expidiendo el recibo oficial respectivo, y sellará la factura o comprobante que ampare la propiedad del vehículo, para hacer constar que el impuesto ha sido cubierto.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 31 DE ENERO DE 1983)</small>
-
-ART. 156.- Las autoridades correspondientes del Estado, no darán trámite a ninguna solicitud de alta, baja o traspaso de vehículos si no se les comprueba previamente el pago del impuesto a que se refiere este capítulo.
-
-Las empresas dedicadas a la compraventa de vehículos de motor usados, deberán llevar un libro autorizado por la oficina recaudadora correspondiente, en el que anotarán en el acto de recibir cada vehículo las características del mismo, el nombre y domicilio del propietario anterior, o el del comitente o consignante.
-
-Son solidariamente responsables del pago de este impuesto los enajenantes y las demás personas que intervengan en las operaciones.
-
-(ABROGADO [N. DE E. DEROGADO] CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)
+G.G. 22 DE DICIEMBRE DE 2004.
 
 ### CAPITULO IX. ART. 157.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
 
@@ -2301,7 +1895,9 @@ b).- De cambio o baja;
 
 ART. 239 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
-## TITULO TERCERO. DE LOS DERECHOS
+## TITULO TERCERO. DE LA COMISION DE VIGILANCIA Y LA UNIDAD TECNICA DE EVALUACION Y CONTROL
+
+> <small>(REFORMADO, G.G. 1 DE OCTUBRE DE 2019)</small>
 
 ### CAPITULO II. Copias de Planos, Avalúos y Trabajos Catastrales
 
@@ -4569,7 +4165,7 @@ ART. 246.- En el caso de que se celebre y entre en vigor alguno de los arreglos 
 
 ART. 246 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
-## TITULO CUARTO. DE LOS PRODUCTOS
+## TITULO CUARTO. DE LAS CUENTAS PUBLICAS, SU REVISION, FISCALIZACION Y CALIFICACION
 
 ### CAPITULO I. Adicional para el Sostenimiento de la Universidad Autónoma de Sinaloa
 
@@ -4683,7 +4279,7 @@ III.- A llevar registro de entradas, salidas y existencias de productos a proces
 
 ART. 252 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacineda (sic) y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
-## TITULO QUINTO. DE LOS APROVECHAMIENTOS
+## TITULO QUINTO. DE LAS RESPONSABILIDADES
 
 ### CAPITULO II. Adicional Municipal
 
@@ -5819,41 +5415,27 @@ IV.- Los certificados de insolvencia.
 
 ## TRANSITORIOS
 
-###### ARTICULO PRIMERO.
+###### ARTÍCULO PRIMERO.
 
-Esta Ley entrará en vigor en todo el Estado de Sinaloa, quince días después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+Se expide la Ley de Fiscalización Superior del Estado de México, conforme al tenor siguiente:
+
+LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO.
 
 ###### ARTICULO SEGUNDO.
 
-A partir de la fecha indicada en el artículo anterior se derogan:
-
-1.- La Ley General de Hacienda del Estado, del 28 de Junio de 1961, expedida mediante decreto número 200 publicado en el Periódico Oficial "El Estado de Sinaloa", número 77, del 1o. de julio de ese mismo año, sus adiciones y reformas;
-
-2.- El Reglamento de la Ley General de Hacienda, del 28 de Agosto de 1956;
-
-3.- Las siguientes leyes:
-
-a).- Ley del Impuesto Especial a la Industria algodonera, decreto número 46, publicado en el Periódico Oficial Número 34 del 19 de Marzo de 1966;
-
-b).- Ley del Impuesto Especial a las Industrias Congeladoras de Mariscos, decreto Número 171 publicado en el Periódico Oficial Número 122 del 12 de Octubre de 1967;
-
-c).- Ley del Impuesto Especial a la Industria Harinera, decreto Número 111 publicado en el Periódico Oficial Número 41, del 4 de Abril de 1970;
-
-d).- Ley del Impuesto Especial a la Industria Arrocera, decreto Número 298, publicado en el Periódico Oficial Número 143, del 28 de Noviembre de 1968;
-
-e).- Ley del impuesto Especial sobre Ingresos por Venta de Primera Mano de Hortalizas y Fruta, decreto Número 140 publicado en el Periódico Oficial Número 107, del 6 de septiembre de 1973;
-
-f).- Ley del Impuesto sobre la Producción o Sacrificio de Ganado, decreto número 60, publicado en el Periódico Oficial Número 61, del 21 de Mayo de 1966.
-
-4.- Decreto Número 204 publicado en el Periódico Oficial Número 125 del 17 de Octubre de 1970, que establece la Cuota Cooperación Pro-Caminos Vecinales.
+La presente reforma entrará en vigor al día siguiente de su publicación.
 
 ###### ARTICULO TERCERO.
 
-Los créditos en contra del Estado, exigibles antes de que se inicie la vigencia de la presente Ley, prescribirán en cinco años; pero el tiempo transcurrido hasta el día anterior al en que entre en vigor esta Ley se ajustará proporcionalmente, multiplicando por 2.5 el número de días transcurridos desde que fueron exigibles o desde que se hubiera interrumpido la prescripción, hasta la fecha citada.
+Se derogan las disposiciones que se opongan al presente decreto.
+
+G.G. 11 DE FEBRERO DE 2005.
 
 ###### ARTICULO CUARTO.
 
-Los juicios de nulidad que a la fecha en que entra en vigor esta Ley se hubieren promovido contra resoluciones dictadas por autoridades administrativas se tramitarán y resolverán conforme a las disposiciones legales vigentes al iniciarse el respectivo juicio de nulidad.
+Para la integración del Primer Consejo Consultivo de Valoración Salarial, la Legislatura deberá expedir la convocatoria correspondiente, a más tardar el día 30 del mes de septiembre del año 2006.
+
+G.G. 14 DE SEPTIEMBRE DE 2006.
 
 ###### ARTICULO QUINTO.
 
@@ -5923,9 +5505,7 @@ P.O. 1 DE ENERO DE 1982.
 
 ###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-P.O. 31 DE ENERO DE 1983.
+Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
 
 ###### ARTICULO UNICO.
 
@@ -5975,29 +5555,31 @@ P.O. 13 DE ABRIL DE 1984.
 
 ###### ARTICULO PRIMERO.
 
-Se deroga el Decreto número 165 de fecha 31 de marzo de 1982, publicado en el Periódico Oficial "El Estado de Sinaloa" número 45 de 14 de abril de 1982.
+Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 ###### ARTICULO SEGUNDO.
 
-Las cantidades que el Estado haya entregado provisionalmente a los Municipios a cuenta de sus participaciones federales a partir del 1 de enero de 1984, hasta la fecha de su publicación, serán ajustadas conforme a los porcentajes de participación señalados en el presente Decreto.
+El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
 
 ###### ARTICULO TERCERO.
 
-El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+Se derogan las disposiciones que se opongan al presente decreto.
 
-P.O. 16 DE NOVIEMBRE DE 1984.
+G.G. 21 DE JULIO DE 2006.
 
 ###### ARTICULO PRIMERO.
 
-En los casos no comprendidos dentro de las exenciones al Impuesto sobre Remuneración del Trabajo Personal señalados en la vigente Ley y el presente Decreto, la tasa del 1.37% establecida por éste en el Artículo 166, solamente estará en vigor durante el resto del ejercicio fiscal del presente año y se reducirá en un 50% durante el ejercicio fiscal correspondiente al año de 1985.
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 ###### ARTICULO SEGUNDO.
 
-A partir del 1o. de Enero de 1986, quedará abrogado el Capítulo IX, denominado "Impuesto sobre Remuneración del Trabajo Personal", del Título Segundo, de la Ley de Hacienda del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 ###### ARTICULO TERCERO.
 
-Los adeudos que se hubieren causado por concepto del citado impuesto, cuyo pago esté pendiente a la fecha en que entre en vigor la presente reforma, se harán efectivos conforme a la vigente Ley de Hacienda. Los que se causen durante el resto del presente año, a partir de la vigencia del propio Decreto y durante el año de 1985, se harán efectivos con sujeción a la tasa que resulte conforme al Artículo Primero Transitorio mientras no prescriba la acción para su cobro.
+Se derogan las normas legales y reglamentarias de igual o menor jerarquía que sean contrarias al presente Decreto.
+
+> <small>(REFORMADO, G.G. 14 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO CUARTO.
 
@@ -6053,8 +5635,352 @@ P.O. 18 DE MARZO DE 1988.
 
 ###### ARTICULO PRIMERO.
 
-Publíquese en el Periódico Oficial "El Estado de Sinaloa".
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 ###### ARTICULO SEGUNDO.
 
-Las presentes Reformas entrarán en vigor a partir del 15 de abril del presente año.
+El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta de (sic) Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 24 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan los ordenamientos jurídicos de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 11 DE OCTUBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan los ordenamientos jurídicos de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 19 DE DICIEMBRE DE 2012.
+
+PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 15 DE JULIO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 21 DE ABRIL DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 14 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
+
+G.G. 16 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las presentes reformas deberán estar armonizadas en los reglamentos que correspondan, noventa días después de su publicación en el Periódico Oficial "Gaceta de Gobierno".
+
+G.G. 14 DE DICIEMBRE DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que contravengan o se opongan al presente Decreto.
+
+G.G. 11 DE OCTUBRE DE 2016 Y F. DE E., 11 DE OCTUBRE DE 2016.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.G. 16 DE ENERO DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 31 DE ENERO DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Las reformas a la Ley de Fiscalización Superior del Estado de México, contenidas en el presente Decreto, entrarán en vigor al día siguiente del inicio de la vigencia de la reforma al primer párrafo de la fracción XXXII del artículo 61 de la Constitución Política del Estado Libre y Soberano de México.
+
+TERCERO.- El presente Decreto será aplicable en la entrega, recepción, revisión y fiscalización de las cuentas públicas del Estado y los municipios correspondientes al ejercicio fiscal 2006.
+
+G.G. 12 DE MAYO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día hábil inmediato siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se revoca la autorización otorgada al Instituto de la Función Registral del Estado de México mediante los Artículos Octavo y Noveno del Decreto número 90 de la H. "LVI" Legislatura del Estado de México y publicado en la Gaceta del Gobierno el día 3 de diciembre de 2007 y se derogan los Artículos Transitorios Décimo Primero, Décimo Quinto, Décimo Sexto y Décimo Séptimo del Decreto antes mencionado.
+
+CUARTO.- El fideicomiso a que se refiere el Artículo Sexto del presente Decreto deberá inscribirse en el registro que al efecto lleve la Secretaría de Finanzas en los términos del Artículo 7 de la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+
+QUINTO.- En caso de que se modifique posteriormente el Código Financiero del Estado de México y Municipios con respecto al régimen aplicable al fideicomiso a ser constituido de conformidad con el presente Decreto, se deberán respetar los derechos de fideicomisarios, acreedores y terceros que hayan contratado con el fiduciario de dicho fideicomiso, o bien con el Instituto de la Función Registral del Estado de México o con el Estado, respectivamente, con relación a dicho fideicomiso, en los términos y condiciones pactados.
+
+SEXTO.- En caso de que se modifique posteriormente la Ley que Crea el Organismo Público Descentralizado Denominado Instituto de la Función Registral del Estado de México, se deberán respetar los derechos de los fideicomisarios, acreedores y terceros que hayan contratado con el fiduciario del fideicomiso que se constituya de conformidad con el presente Decreto o con el Instituto de la Función Registral del Estado de México, con relación a dicho fideicomiso, en los términos y condiciones pactados.
+
+SÉPTIMO.- En caso de que el patrimonio que sea afectado por el Instituto de la Función Registral del Estado de México al fideicomiso que se constituya de conformidad con el presente Decreto se revierta por cualquier motivo al patrimonio del Estado o sea asignado o reincorporado a otra entidad de la administración pública centralizada o de la administración pública paraestatal que sustituya al Instituto de la Función Registral del Estado de México, los derechos y las obligaciones que se deriven de los convenios, contratos, afectaciones, transmisiones y financiamientos celebrados por el Instituto de la Función Registral del Estado de México o bien, por el fiduciario del fideicomiso a que se refiere el presente Decreto, con respecto a dicho patrimonio y el fideicomiso, subsistirán en sus términos hasta en tanto se liquiden o sean cumplidas las obligaciones adquiridas con ese respecto. En este sentido, los acreedores del fideicomiso al cual se hubiere afectado una parte o la totalidad de los ingresos del Instituto de la Función Registral del Estado de México, seguirán teniendo el derecho a recibir el pago de las obligaciones que corresponda, de conformidad con los contratos que al efecto se hubieren celebrado, como si dicha reversión, asignación o reincorporación no hubiere tenido lugar.
+
+OCTAVO.- El Instituto de la Función Registral del Estado de México, deberá presentar a la Legislatura, por conducto de las Comisiones Legislativas de Planeación y Gasto Público, y de Finanzas Públicas, en un plazo que no excederá de treinta días hábiles, contados a partir de la entrada en vigor del presente decreto, un informe de las metas e indicadores de desempeño del programa de modernización del Instituto de la Función Registral del Estado de México, para los próximos tres años.
+
+G.G. 24 DE ABRIL DE 2012.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 136.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- El Presupuesto de Egresos y las Leyes de Ingresos deberán elaborarse de conformidad con las reglas y criterios de disciplina financiera, equilibrio presupuestario y responsabilidad hacendaria que al respecto se establecen en el presente Decreto y en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, atendiendo a los plazos establecidos en este último ordenamiento.
+
+CUARTO.- Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria a que se refiere el Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, entrarán en vigor para efectos del Estado y sus entes públicos en el ejercicio fiscal 2017, y para los Municipios y sus entes públicos en el ejercicio fiscal 2018, con las salvedades previstas en la citada Ley.
+
+QUINTO.- El porcentaje a que hace referencia el artículo 292 Ter del Código Financiero del Estado de México y Municipios, relativo a los adeudos del ejercicio fiscal anterior del Estado, será del 5 por ciento para el ejercicio 2017, 4 por ciento para el 2018, 3 por ciento para el 2019 y, a partir del 2020 se observará el porcentaje establecido en el artículo citado.
+
+Para el caso de los municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5 por ciento para el año 2020 y, a partir del año 2021 será hasta por el 2.5 por ciento.
+
+SEXTO.- Para la aplicación del artículo 292 Quáter del Código Financiero del Estado de México y Municipios, relativo al nivel de aportación al fideicomiso para realizar acciones preventivas o atender daños ocasionados por desastres naturales, corresponderá a un 2.5 por ciento para el año 2017, 5.0 por ciento para el año 2018, 7.5 por ciento para el año 2019 y, a partir del año 2020 será de 10 por ciento.
+
+SÉPTIMO.- La fracción I del artículo 292 Quintus del Código Financiero del Estado de México y Municipios, entrará en vigor para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal 2018.
+
+Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el artículo citado hasta el año 2020. En ningún caso, la excepción transitoria deberá considerar personal administrativo.
+
+Las nuevas leyes federales y estatales o reformas a las mismas, a que se refiere el último párrafo de la mencionada fracción serán aquéllas que se emitan con posterioridad a la entrada en vigor de este Decreto.
+
+OCTAVO.- Los ingresos excedentes derivados de ingresos de libre disposición a que hace referencia el artículo 317 Bis A Segundo Párrafo fracción I del Código Financiero del Estado de México y Municipios, podrán destinarse a reducir el balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de este Decreto y hasta el ejercicio fiscal 2022.
+
+En lo correspondiente a los ingresos excedentes derivados de ingresos de libre disposición del Estado, podrán destinarse a los rubros mencionados en el artículo 317 Bis A segundo párrafo, sin limitación alguna, siempre y cuando el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas; adicionalmente podrán destinarse a gasto corriente hasta el ejercicio fiscal 2018.
+
+NOVENO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto en este Decreto.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 186.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO Y DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno”
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Con fundamento en lo previsto por el artículo 61 fracción XXXII de la Constitución Política del Estado Libre y Soberano de México, en relación con lo dispuesto por los artículos 10 y 11 de la Ley de Fiscalización Superior del Estado de México y para efecto de lo dispuesto en el artículo 15 de este Decreto y demás relativos y aplicables, se designa como Auditor Superior de Fiscalización del Estado de México para el periodo del 1° de enero de 2017 al 31 de diciembre de 2024 al Contador Público Fernando Valente Baz Ferreira.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 30 DE MAYO DE 2017.
+
+[N DE E. TRANSITORIOS DEL “DECRETO NÚMERO 207.- POR EL QUE SE EXPIDE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno", con excepción de la Ley de Responsabilidades Administrativas del Estado de México y Municipios y la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, que entrarán en vigor el 19 de julio de 2017.
+
+TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, la Legislatura del Estado deberá designar a los integrantes de la Comisión Estatal de Selección.
+
+La Comisión Estatal de Selección, nombrará a los integrantes del Comité de Participación Ciudadana, en los términos siguientes.
+
+I. Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador.
+
+II. Un integrante que durará en su encargo dos años.
+
+III. Un integrante que durará en su encargo tres años.
+
+IV. Un integrante que durará en su encargo cuatro años.
+
+V. Un integrante que durará en su encargo cinco años.
+
+CUARTO. El Comité Coordinador del Sistema Estatal Anticorrupción, se instalará en un plazo no mayor a sesenta días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana.
+
+QUINTO. Dentro de los noventa días hábiles posteriores a su instalación el Comité Coordinador del Sistema Estatal Anticorrupción emitirá sus Reglas de Funcionamiento y Organización Interna, así como las bases a las que se ajustarán los Comités Coordinadores del Sistema Municipal Anticorrupción.
+
+SEXTO. La Secretaría Ejecutiva deberá iniciar operaciones a más tardar a los sesenta días naturales siguientes a la sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción.
+
+Para tal efecto, el Ejecutivo Estatal proveerá los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.
+
+SÉPTIMO. La Secretaría Técnica expedirá su estatuto orgánico dentro de los noventa días hábiles a partir del inicio de sus operaciones.
+
+OCTAVO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos del Estado deberán designar a los integrantes de la Comisión de Selección Municipal.
+
+La Comisión de Selección Municipal, nombrará a los Integrantes del Comité de Participación Ciudadana Municipal, en los términos siguientes.
+
+I. Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador, ambos del Sistema Municipal Anticorrupción.
+
+II. Un integrante que durará en su encargo dos años.
+
+III. Un integrante que durará en su encargo tres años.
+
+El Comité Coordinador Municipal, se instalará en un plazo no mayor a sesenta días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana Municipal.
+
+Una vez instalado el Comité Coordinador Municipal tendrá un plazo de noventa días para emitir las disposiciones relativas a su funcionamiento.
+
+NOVENO. Una vez que entre en vigor la Ley de Responsabilidades Administrativas del Estado de México y Municipios, se abrogará la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios publicada en el periódico oficial "Gaceta del Gobierno" el 11 de septiembre de 1990.
+
+Los procedimientos iniciados con anterioridad a la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, se substanciarán y serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+A la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, en todos los ordenamientos jurídicos donde se haga referencia a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, se entenderá por Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
+Hasta en tanto el Comité Coordinador del Sistema Estatal Anticorrupción, determina los formatos para la presentación de las declaraciones patrimonial y de intereses, los servidores públicos estatales y municipales, presentarán sus declaraciones en los formatos que, a la entrada en vigor del presente Decreto, se utilicen en la Entidad.
+
+DÉCIMO. Los procedimientos administrativos iniciados por el Órgano Superior de Fiscalización del Estado de México, que se encuentren en trámite o pendientes de resolución hasta antes de la entrada en vigor del presente Decreto, así como en los que se deriven de las atribuciones de fiscalización y revisión hasta la Cuenta Pública del año 2016, se aplicarán las disposiciones de la Ley de Fiscalización Superior del Estado de México y de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios vigentes con anterioridad a la entrada en vigor de este Decreto, hasta su conclusión definitiva.
+
+Los asuntos relacionados con la revisión y fiscalización de la Cuenta Pública 2017, que deriven en procedimientos administrativos, se tramitarán conforme al presente Decreto, la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
+Las atribuciones de fiscalización y revisión para el ejercicio del año en curso y de ejercicios anteriores, entrarán en vigor al día siguiente de la publicación del presente Decreto.
+
+El Órgano Superior de Fiscalización del Estado de México deberá realizar las adecuaciones a su estructura orgánica para desarrollar las atribuciones correspondientes a las autoridades investigadoras y substanciadoras a que se refieren Ley General de Responsabilidades Administrativas, la Ley de Fiscalización Superior del Estado de México y la Ley de Responsabilidades Administrativas del Estado de México y Municipios y emitir en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, las disposiciones necesarias.
+
+DÉCIMO PRIMERO. Los procedimientos penales que se encuentren en trámite, relacionados con las modificaciones a los preceptos legales contemplados en el presente Decreto, se resolverán de conformidad con las disposiciones que les dieron origen.
+
+DÉCIMO SEGUNDO. Una vez que entren en vigor las disposiciones del presente Decreto, en un término no mayor de treinta días hábiles, se deberá designar al Fiscal especializado en combate a la corrupción.
+
+DÉCIMO TERCERO. A partir de la entrada en vigor del presente Decreto, la Legislatura deberá designar o ratificar en un plazo de treinta días hábiles, al Titular del Órgano Interno de Control de la Fiscalía General de Justicia, mediante el procedimiento que previamente establezca para ello, de no cumplirse en tiempo, se entenderá por ratificado al servidor público en funciones.
+
+En tanto la Legislatura designa o ratifica al Titular del Órgano Interno de Control de la Fiscalía General de Justicia, quien se encuentre desempeñando dichas funciones, continuará en el encargo.
+
+DÉCIMO CUARTO. El Tribunal de Justicia Administrativa expedirá su Reglamento Interior dentro de los treinta días naturales siguientes a la publicación del presente Decreto.
+
+DÉCIMO QUINTO. Los procedimientos en curso anteriores a la entrada en vigor del presente Decreto, se substanciarán conforme a la legislación vigente al momento de su inicio.
+
+DÉCIMO SEXTO. El Gobernador del Estado de México hará los nombramientos de los Magistrados que integrarán las salas especializadas en materia de responsabilidades administrativas, así como de la Cuarta Sección de la Sala Superior, dentro de los sesenta días naturales siguientes a la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, para su aprobación por la Legislatura del Estado o la Diputación Permanente, en su caso.
+
+DÉCIMO SÉPTIMO. Los Magistrados del Tribunal de lo Contencioso Administrativo del Estado de México que hayan sido nombrados a la fecha de entrada en vigor del presente Decreto, continuarán como Magistrados del Tribunal de Justicia Administrativa del Estado de México, exclusivamente por el tiempo que hayan sido nombrados.
+
+DÉCIMO OCTAVO. Los servidores públicos del Tribunal de lo Contencioso Administrativo del Estado de México continuarán laborando en el Tribunal de Justicia Administrativa del Estado de México, sin perjuicio de la antigüedad de sus derechos laborales.
+
+DÉCIMO NOVENO. A la fecha de entrada en vigor de este decreto, todas las menciones que se hagan al Tribunal de lo Contencioso Administrativo del Estado de México, se entenderán referidas al Tribunal de Justicia Administrativa del Estado de México. Así mismo, las derogaciones al Código de Procedimientos Administrativos del Estado de México, contenidas en el presente decreto, entraran en vigor a partir de la vigencia de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México.
+
+VIGÉSIMO. Los servidores públicos que venían ejerciendo cargos administrativos, que se transforman conforme a lo dispuesto en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, continuarán desempeñando los mismos cargos hasta que el Pleno del Tribunal acuerde la creación de las nuevas unidades administrativas y decida sobre las designaciones específicas.
+
+VIGÉSIMO PRIMERO. Dentro del plazo de un año a partir del inicio de la vigencia de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, deberá instrumentarse el proceso de certificación a los servidores públicos obligados, conforme a las disposiciones reglamentarias que expida el Pleno de la Sala Superior, pudiendo contar con el apoyo de instituciones docentes afines a la actividad jurisdiccional, mediante los convenios de colaboración que para tal efecto se celebren.
+
+VIGÉSIMO SEGUNDO. Dentro de los ciento veinte días siguientes a la entrada en vigor del presente Decreto se deberán realizar las adecuaciones normativas correspondiente (sic) que permitan la implementación del objeto del presente Decreto.
+
+VIGÉSIMO TERCERO. Se derogan todas las disposiciones legales de menor o igual jerarquía que se opongan al presente Decreto.
+
+VIGÉSIMO CUARTO. La Legislatura del Estado proveerá los recursos presupuestales necesarios para la implementación del presente Decreto, conforme a la suficiencia presupuestal y disposiciones jurídicas aplicables.
+
+G.G. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 18.- POR EL QUE SE APRUEBA LA INICIATIVA QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY PARA LA COORDINACIÓN Y CONTROL DE ORGANISMOS AUXILIARES DEL ESTADO DE MÉXICO Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1 de enero de 2019.
+
+TERCERO.- Los contribuyentes propietarios de vehículos de servicio particular que porten placas de circulación expedidas en el ejercicio fiscal 2013 y anteriores, deberán realizar la renovación de placas en los meses de julio a diciembre de 2019 conforme a las reglas que para tal efecto publique la Secretaría de Finanzas, informando a la Legislatura por conducto de las comisiones de planeación y gasto público y de finanzas públicas. Las reglas de operación se publicarán a más tardar el 30 de junio de 2019, en el Periódico Oficial “Gaceta del Gobierno”, con la finalidad de ser sujetos a los beneficios fiscales que determinen a su favor en caso de regularización de adeudos pudiendo ser de hasta el cien por ciento de condonación, de conformidad con el artículo 10 de la Ley de Ingresos del Estado de México para el ejercicio fiscal de 2019.
+
+CUARTO.- Se considerarán vigentes durante el ejercicio 2019 las placas expedidas durante el ejercicio fiscal de 2014, mismas que deberán renovarse durante 2020.
+
+QUINTO.- Las placas expedidas en los ejercicios 2015 y posteriores deberán renovarse al vencimiento de los cinco años contados a partir de su expedición.
+
+SEXTO.- Los años de referencia contenidos en la tabla del segundo párrafo de la fracción I del artículo 63 del Código Financiero del Estado de México y Municipios se actualizarán, siendo aplicable para el primer año de antigüedad el 2019 y para el último año el 2010, conservando íntegros los factores respectivos.
+
+G.G. 1 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 85.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO Y DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Los recursos humanos, materiales y presupuestales de la Coordinación de Control y Auditoría Interna del Órgano Superior de Fiscalización del Estado de México se transferirán a la Unidad Técnica de Evaluación y Control de la Comisión de Vigilancia del Órgano Superior de Fiscalización.
+
+CUARTO.- El Órgano Superior de Fiscalización del Estado de México en un plazo máximo de noventa días naturales, contados a partir de la entrada en vigor del presente, modificará su normatividad interna a efecto de ajustar sus disposiciones con el contenido de este Decreto, siendo sometida a consideración de la Comisión de Vigilancia del Órgano Superior de Fiscalización.
+
+QUINTO.- El Reglamento de la Unidad Técnica de Evaluación y Control de la Comisión de Vigilancia del Órgano Superior de Fiscalización deberá publicarse a más tardar, en ciento veinte días naturales, después de la publicación de este Decreto.
+
+G.G. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 102.- POR EL QUE SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 11 Y LA FRACCIÓN I DEL ARTÍCULO 17 DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 23 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 118.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY PARA LA COORDINACIÓN Y CONTROL DE ORGANISMOS AUXILIARES DEL ESTADO DE MÉXICO Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO, ASÍ COMO LAS AUTORIZACIONES ESPECÍFICAS RELATIVAS AL ARTÍCULO 2 DE LA LEY DE INGRESOS DEL ESTADO DE MÉXICO PARA EL EJERCICIO FISCAL DEL AÑO 2020, ASÍ COMO LA AUTORIZACIÓN ESPECÍFICA DE REFINANCIAMIENTO DE CRÉDITOS ESTATALES”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1 de enero de 2020, con excepción de la reforma al párrafo décimo del artículo 32 del Código Financiero del Estado de México y Municipios, así como el Transitorio Séptimo de este Decreto, que entrarán en vigor el día de su publicación.
+
+TERCERO.- Los fideicomisos que integren recursos públicos y hayan sido constituidos con anterioridad a la entrada en vigor del presente Decreto, independientemente de la manera en que se hayan constituido y la fecha de su autorización, tendrán que inscribirse en el Registro de Fideicomisos del Estado de México, dentro de los 60 días hábiles siguientes a su entrada en vigor. De no cumplir con dicha obligación, la Secretaría de Finanzas podrá suspender la ministración de recursos que en su caso le corresponda, hasta en tanto cumpla con la obligación señalada, de acuerdo con las Reglas de Carácter General que al efecto emita la Secretaría.
+
+Para la constitución de fideicomisos públicos a partir de la entrada en vigor de este Decreto, se deberá contar como requisito previo, en todos los casos, con el visto bueno de la Secretaría de Finanzas, quien deberá verificar para tal efecto, el cumplimiento de lo previsto en la normatividad aplicable en cada caso.
+
+CUARTO.- Las autorizaciones para dictaminar emitidas hasta el 31 de diciembre de 2019, quedarán sin efectos a partir del 01 de enero de 2020. Los requisitos para obtener el registro a que se refiere el artículo 47-D del Código, entrarán en vigor a partir del 01 de enero del 2020 y será requisito para los dictámenes que se presenten a partir del año 2020, de conformidad con las Reglas Generales para dictaminar la determinación y pago del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal.
+
+QUINTO.- Con el fin de fortalecer las haciendas públicas municipales, con base en el mejoramiento de la recaudación de los ingresos propios, el Estado tendrá la facultad concurrente para la recaudación de contribuciones municipales y en general para todas las gestiones de cobro inherentes a dichas contribuciones.
+
+Los municipios conservarán en todo momento la facultad de administrar y recaudar libremente su hacienda, en términos de lo establecido en la fracción IV del artículo 115 de la Constitución Política de los Estado (sic) Unidos Mexicanos.
+
+La facultad concurrente a que se hace referencia en el primer párrafo, tendrá como fin la optimización del proceso tributario, facilitando el cumplimiento de las obligaciones a los contribuyentes, en beneficio de los municipios, al contar con una mejor recaudación de las contribuciones municipales y mayores recursos vía transferencias intergubernamentales.
+
+Conforme a la fracción IV del artículo 115 de la Constitución Política de los Estado (sic) Unidos Mexicanos, los municipios que decidan suscribir un convenio y lo formalicen a más tardar el 31 de marzo de 2020, percibirán, además de las participaciones estatales a que se refieren los incisos A), B), C) y D) de la fracción II del artículo 219 del citado Código, un 10% adicional de las participaciones que ordinariamente les son entregadas por concepto de la recaudación correspondiente al Impuesto sobre Tenencia o uso de Vehículos.
+
+Aquellos municipios que decidan no suscribir el convenio en cita, dejarán de percibir los recursos correspondientes a las participaciones de los ingresos ministrados por el Gobierno Estatal a que se refiere el párrafo anterior.
+
+De igual forma, los municipios que habiendo firmado algún convenio para la administración y recaudación de contribuciones, aprovechamientos e ingresos propios, decidan darlo por terminado en el transcurso del ejercicio fiscal correspondiente, dejarán de percibir el porcentaje extra de las participaciones de origen estatal a que se refiere el presente artículo a partir del mes inmediato posterior.
+
+> <small>(F. DE E., G.G. 20 DE FEBRERO DE 2020)</small>
+
+SEXTO.- La reforma al artículo 115 de este Código entrará en vigor a partir del día 01 de julio del año 2020.
+
+Durante el periodo del 01 de enero al 30 de junio del 2020, para determinar el Impuesto Sobre Adquisición de Inmuebles y otras Operaciones Traslativas de Dominio de Inmuebles, se utilizará la siguiente tabla:
+
+> <small>[N. DE E. VÉASE TABLA EN LA G.G. DE 23 DE DICIEMBRE DE 2019, PÁGINA 290.]</small>
+
+SÉPTIMO.- Las Instituciones que presenten adeudos por concepto de cuotas y aportaciones ante el Instituto de Seguridad Social del Estado de México y Municipios, podrán regularizarlos mediante convenio de pago en parcialidades hasta por ochenta y cuatro meses exceptuando lo previsto en el artículo 32 del Código Financiero del Estado de México y Municipios, y se les podrá condonar hasta el 100% de los recargos y multas que, en su caso, hubiesen generado, para tal efecto deberán suscribir el convenio respectivo dentro de los dos meses siguientes a la entrada en vigor del presente Decreto.
+
+OCTAVO.- Las Reglas Generales y Lineamientos Generales a que se refiere el presente Decreto, deberán emitirse dentro de los primeros 90 días a partir de la entrada en vigor de este Decreto.
+
+G.G. 23 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 158.- POR EL QUE SE REFORMA LA FRACCIÓN XXXII DEL ARTÍCULO 8 DE LA LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
