@@ -4,7 +4,7 @@ identifier: "NLE-codigo-penal-para-el-estado-de-nuevo-leon-7411"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-26"
-last_updated: "2004-07-28"
+last_updated: "2004-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO PENAL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de marzo de 1990.
 
@@ -1673,13 +1673,9 @@ SERA DE QUERELLA EL DELITO DESCRITO EN EL ARTICULO ANTERIOR, MISMA QUE SERA PRES
 
 AL QUE LESIONE O PRIVE DE LA VIDA A UN SERVIDOR PUBLICO CUANDO EJERZA SU CARGO O EMPLEO, O CON MOTIVO DE ESTOS, SE LE IMPONDRA ADEMAS HASTA UNA TERCERA PARTE DE LA SANCION QUE TAMBIEN CORRESPONDA POR EL DELITO O DELITOS COMETIDOS.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
-
 ###### ARTICULO 192.
 
-LOS ULTRAJES HECHOS A LOS ORGANOS DEL PODER LEGISLATIVO, EJECUTIVO O JUDICIAL, A CUALQUIERA DE SUS INTEGRANTES O A CUALQUIERA INSTITUCION PUBLICA, SE CASTIGARAN CON PENA DE TRES A CINCO AÑOS DE PRISION, Y MULTA DE CINCUENTA A DOSCIENTAS CUOTAS.
-
-PARA LOS EFECTOS DE ESTA DISPOSICION, ULTRAJE ES TODA EXPRESION PROFERIDA POR MEDIO DE PALABRAS, ACTOS, GESTOS O SONIDOS, DIRIGIDA PERSONALMENTE O POR ALGUN CONDUCTO PARA MANIFESTAR DESPRECIO, DESCREDITO O CON EL FIN DE AGRAVIAR U OFENDER.
+(DEROGADO, P.O. 18 DE AGOSTO DE 2004)
 
 ### CAPITULO III. LENOCINIO
 
@@ -4944,6 +4940,10 @@ Artículo Segundo.- Las disposiciones referentes al procedimiento abreviado, la 
 Artículo Tercero.- Las disposiciones del Juicio Oral Penal entrarán en vigor dentro de los 120 días siguientes a la publicación de este Decreto, previo acuerdo expedido por el Consejo de la Judicatura del Estado y publicado en su Órgano de difusión así como en el Periódico Oficial del Estado.
 
 Artículo Cuarto.- Los procedimientos que en cualquier instancia estén en trámite al iniciar la vigencia de este Decreto, se tramitarán con las disposiciones de carácter general que estuvieran vigentes al momento del inicio de dichos procedimientos.
+
+P.O. 18 DE AGOSTO DE 2004.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA, VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
