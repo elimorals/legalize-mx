@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1983-05-04"
+last_updated: "1983-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1983.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -478,7 +478,7 @@ XIII.- Decretar las contribuciones que deben formar la Hacienda Municipal, las q
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
 
-XIV.- Autorizar la venta, hipoteca o cualquier otro gravámen de bienes raíces del Estado o de los Municipios, así como todos los actos o contratos que comprometen dichos bienes en uso o concesión en favor de particulares y de organismos públicos.
+XIV.- Autorizar la venta, hipoteca o cualquier otro gravamen de bienes raíces del Estado o de los Municipios, así como todos los actos o contratos que comprometen dichos bienes en uso o concesión en favor de particulares y de organismos públicos.
 
 XV.- Fijar, según las necesidades locales, el número máximo de Ministros de los cultos que puede permitirse en el Estado.
 
@@ -682,7 +682,7 @@ Tampoco podrán hacerlas al Decreto de convocatoria que expida la Diputación Pe
 
 DE LOS SECRETARIOS.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1980)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1983)</small>
 
 ###### Artículo 53.
 
@@ -1006,7 +1006,7 @@ DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
 ###### Artículo 74.
 
-Para el despacho de los negocios encomendados al Ejecutivo habrá un Secretario de Gobierno, un Secretario de Finanzas, un Secretario de Programación y Presupuesto, un Secretario de Asentamientos Humanos y Obras Públicas, un Secretario de Desarrollo Agropecuario y un Secretario de Desarrollo y Fomento Industrial.
+Para el despacho de los negocios encomendados al Ejecutivo habrá un Secretario General de Gobierno, un Oficial Mayor, un Secretario de Programación y Presupuesto, un Secretario de Finanzas, un Secretario de la Contraloría General, un Secretario de Obras Públicas, un Secretario de Desarrollo Agropecuario y Forestal, un Secretario de Fomento del Empleo, un Secretario de Fomento y Desarrollo Industrial, un Secretario de Turismo y un Secretario de Educación, Cultura y Bienestar Social.
 
 La Ley correspondiente determinará las atribuciones y funciones de cada uno de los Secretarios del despacho.
 
@@ -1024,7 +1024,9 @@ I.- Ser ciudadano Morelense por nacimiento o ciudadano mexicano por nacimeinto, 
 
 II.- Ser mayor de 25 años de edad y,
 
-(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)III.- Tener la preparación necesaria a juicio del Gobernador del Estado, para el desempeño de su cargo.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
+
+III.- Tener la preparación necesaria a juicio del Gobernador del Estado, para el desempeño de su cargo.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -1656,7 +1658,7 @@ Todos los empleados y funcionarios públicos otorgarán la protesta respectiva, 
 
 Artículo Segundo.- El actual Congreso del Estado, por esta sola vez, comenzará su segundo período de sesiones ordinarias el día de la promulgación de la presente Constitución, y terminará el treinta y uno de diciembre del año actual.
 
-Artículo Tercero.- Dentro de los treinta días siguientes al señalado para que esta Constitución entre en vigor, el Congreso del Estado deberá erigirse en Colegio Electoral, para la elección de Magistrados del Tribunal Superior de Justicia en los términos de los artículos 40, fracción XXXVI, y 70, fracción VI, de esta misma Constitución.
+Artículo Tercero.- Dentro de los treinta días siguientes al señalado para que esta Constitución entre en vigor, el Congreso del Estado deberá erigirse en Colegio Electoral, para la elección de Magistrados del Tribunal Superior de Justicia en los términos que los artículos 40, fracción XXXVI, y 70, fracción VI, de esta misma Constitución.
 
 Artículo Cuarto.- Dentro del término de sesenta días, a partir de la fecha en que quede instalado el Tribunal Superior de Justicia, éste deberá hacer la designación de Jueces de Primera Instancia, conforme a la facultad que le confiere el artículo 99, fracción IX, de esta Constitución.
 
@@ -1863,3 +1865,9 @@ Tercero.- Salvo lo dispuesto en el Artículo primero transitorio, las reformas y
 Cuarto.- Una vez aprobado el presente Decreto de reformas y adiciones a la Constitución Política del Estado, envíese a los Ayuntamientos para los efectos constitucionales de los Artículos 147 y 148 de la propia Constitución.
 
 Quinto.- Remítase al Ejecutivo del Estado, para los efectos de la Fracción XVII del Artículo 70 de la Constitución Política Local.
+
+P.O. 20 DE JULIO DE 1983.
+
+Primero.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Remítase el presente Decreto al Ejecutivo para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución Política del Estado.
