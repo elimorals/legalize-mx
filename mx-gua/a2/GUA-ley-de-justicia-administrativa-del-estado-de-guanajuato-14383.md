@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-justicia-administrativa-del-estado-de-guanajuato-14383"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-18"
-last_updated: "1998-12-18"
+last_updated: "2000-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DEL 2000.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 diciembre de 1998.
 
@@ -1179,6 +1179,10 @@ Los asuntos que actualmente estén pendientes de resolver, se tramitarán con ba
 
 Para los efectos del artículo 41 de esta Ley, será optativo para el particular acudir ante los Juzgados Municipales o ante el Tribunal de lo Contencioso Administrativo, hasta el primero de julio del año dos mil.
 
+> <small>(ADICIONADO, P.O. 28 DE JULIO DEL 2000)</small>
+
+El Tribunal de lo Contencioso Administrativo, seguirá conociendo de los juicios que se promuevan en contra de autoridades de los municipios en los que todavía no se hayan establecido los correspondientes Juzgados Municipales, hasta el 31 de enero del año 2001.
+
 ###### ARTICULO QUINTO.
 
 Para el otorgamiento del fondo de retiro a que se refiere este ordenamiento, se tomará en cuenta el derecho de quienes hayan servido al Tribunal, a partir del 11 de septiembre de 1987.
@@ -1194,3 +1198,9 @@ VICENTE FOX QUESADA
 EL SECRETARIO DE GOBIERNO
 
 RAMON MARTIN HUERTA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE JULIO DEL 2000.
+
+Artículo Unico.- El presente decreto entrará en vigor, el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
