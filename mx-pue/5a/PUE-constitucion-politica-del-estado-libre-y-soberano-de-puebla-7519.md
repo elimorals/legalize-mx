@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "1917-10-02"
+last_updated: "1930-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 1930.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -215,13 +215,15 @@ Sólo podrán ejercer jurisdicción en el territorio del Estado las autoridades 
 
 El ejercicio de las funciones propias del Departamento Legislativo se encomienda a una corporación que se denominará "CONGRESO DEL ESTADO DE PUEBLA".
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1930)</small>
+
 ### CAPITULO QUINTO.
 
 De los ciudadanos poblanos.
 
 ###### Artículo 26.
 
-El Congreso se compondrá cuando menos de veintiún representante (sic) del Pueblo, electos respectivamente por los Distritos electorales que establezca la ley, conforme a lo dispuesto en el artículo 27. Por cada Diputado propietario se elegirá un suplente.
+El Congreso se compondrá cuando menos de dieciséis representantes del pueblo, electos respectivamente por los Distritos electorales que establezca la ley, conforme a lo dispuesto en el artículo 27. Por cada Diputado propietario se elegirá un suplente.
 
 ###### Artículo 27.
 
@@ -513,7 +515,7 @@ Las votaciones de Ley o Decretos serán nominales.
 
 Aprobada la Ley, se remitirá al Ejecutivo para su publicación inmediata.
 
-### CAPITULO TERCERO.
+### CAPITULO TERCERO
 
 De las facultades del Congreso.
 
@@ -1186,6 +1188,12 @@ Por tanto, mando se imprima, publique por bando solemne y circule para su debido
 CONSTITUCION Y REFORMAS.
 
 Palacio del Departamento Ejecutivo. Puebla de Zaragoza, 8 de septiembre de 1917.- El Gobernador del Estado.- Alfonso Cabrera,- El Srio. Gral. de Gob,- Lic. Miguel Moto.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
+
+P.O. 16 DE SEPTIEMBRE DE 1930.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 ###### Artículo 5°.
 
