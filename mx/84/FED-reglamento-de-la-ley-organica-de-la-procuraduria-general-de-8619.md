@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-861
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-08-27"
-last_updated: "1998-01-21"
+last_updated: "1999-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8619&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-08-26"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JULIO DE 1999.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el martes 27 de agosto de 1996.
 
@@ -101,7 +101,9 @@ Dirección General de Recursos Humanos.
 
 Dirección General de Recursos Materiales y Servicios Generales.
 
-Dirección General de Administración de Bienes Asegurados.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1999)</small>
+
+Dirección General de Control y Registro de Aseguramientos Ministeriales.
 
 Dirección General de Servicios Aéreos.
 
@@ -115,11 +117,17 @@ Dirección General de Quejas y Denuncias.
 
 Dirección General de Protección a los Derechos Humanos.
 
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1999)</small>
+
+Centro de Control de Confianza.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1999)</small>
+
+Oficina Central Nacional Interpol-México.
+
 Órganos desconcentrados:
 
 Delegaciones.
-
-> <small>(DEROGADO, D.O.F. 30 DE ABRIL DE 1997)</small>
 
 Instituto de Capacitación.
 
@@ -767,19 +775,27 @@ VI. Conservar, mantener y reaprovechar los bienes de la Procuraduría; integrar 
 
 VII. Ejecutar, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información de la Procuraduría, así como aplicar las normas que se emitan para la operación, desarrollo y vigilancia del programa.
 
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1999)</small>
+
 ###### Artículo 38.
 
-Al frente de la Dirección General de Administración de Bienes Asegurados habrá un Director General, quien tendrá las facultades siguientes:
+Al frente de la Dirección General de Control y Registro de Aseguramientos Ministeriales habrá un Director General, quien tendrá las facultades siguientes:
 
-I. Recibir las actas de aseguramiento, los inventarios y los bienes asegurados que para su administración le sean puestos a su disposición por los Agentes del Ministerio Público de la Federación;
+I. Para los efectos propios del Ministerio Público de la Federación, llevar el control, registro y clasificación internos de los bienes asegurados, de conformidad con las disposiciones administrativas aplicables;
 
-II. Realizar la clasificación definitiva de los bienes asegurados, con auxilio de la Dirección General de Coordinación de Servicios Periciales, cuando el caso lo requiera y actualizar permanentemente el registro de los referidos bienes;
+II. Fungir como enlace de la Procuraduría con las autoridades competentes en materia de administración de bienes asegurados, y establecer los mecanismos de coordinación necesarios para el mejor desempeño de sus funciones;
 
-III. Proponer, instrumentar y controlar los sistemas de administración, asignación y entrega de los bienes asegurados a las instancias administrativas que para su control, guarda, custodia y conservación se determine, así como otras facultades que específicamente le delegue el Oficial Mayor en Materia de otorgamiento de depositarías, devolución, subastas públicas y destrucción de bienes asegurados;
+III. Requerir a los agentes del Ministerio Público de la Federación informes sobre el aseguramiento de bienes y su situación jurídica, así como la documentación relacionada con el aseguramiento decretado y el estado de los bienes;
 
-IV. Tramitar, en su caso, el destino de los bienes asegurados, conforme a la resolución ministerial o judicial correspondiente, y
+IV. Verificar el estado material de los bienes asegurados y la información que hubieren proporcionado las autoridades respectivas;
 
-V. Fungir como Secretario Técnico del Consejo Técnico para la Supervisión y Control de la Administración de los Bienes Asegurados.
+V. Recibir los bienes asegurados que, conforme a las disposiciones aplicables, se otorguen en depósito a la Procuraduría; llevar el control y registro internos de los mismos, y rendir los informes que correspondan a la autoridad competente para su administración;
+
+VI. Asignar a las unidades administrativas que determine el Procurador los bienes asegurados que sean otorgados en depósito a la Institución;
+
+VII. En coordinación con las unidades administrativas competentes, llevar el control y registro de los seguros que contrate la Procuraduría para el caso de pérdida o daño de los bienes asegurados otorgados en depósito a la Institución, y
+
+VIII. Denunciar ante las autoridades correspondientes las irregularidades que detecte con motivo del ejercicio de sus funciones.
 
 ###### Artículo 39.
 
@@ -833,7 +849,9 @@ I. Efectuar las acciones de seguimiento para verificar la implantación de las r
 
 II. Supervisar los procesos de incineración de estupefacientes, psicotrópicos y sustancias nocivas o peligrosas para la salud, así como en bienes que por su naturaleza, características particulares u origen delictivo deban ser destruidos;
 
-III. Coadyuvar en la vigilancia y verificación de los procedimientos de control y administración de los bienes asegurados de la Institución, y asistir como observador en las subastas que lleve a cabo la Institución e intervenir en las actas de entrega-recepción, en los casos de cambio de servidores públicos, y
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1999)</small>
+
+III. Coadyuvar en la vigilancia y verificación de los procedimientos de control y registro internos de los bienes asegurados, e intervenir en las actas de entrega-recepción, en los casos de cambio de servidores públicos, y
 
 IV. Coordinar con el área competente la actualización del Padrón de Servidores Públicos de la Procuraduría con obligación de presentar declaración de situación patrimonial, en observancia a las disposiciones de la Secretaría de Contraloría y Desarrollo Administrativo, así como apoyar a esta dependencia en materia de presentación de declaración de situación patrimonial y la difusión de la normatividad vigente.
 
@@ -862,6 +880,70 @@ III. Iniciar el procedimiento de responsabilidad administrativa en contra de ser
 IV. Establecer las relaciones de la Institución con las Comisiones Estatales de Derechos Humanos y los Organismos No Gubernamentales, y
 
 V. Ejercer las atribuciones a que se refieren los artículos 8o. y 13 de la Ley Orgánica, en contra de los servidores públicos de la Institución, cuando derive de una recomendación de la Comisión Nacional de Derechos Humanos.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1999)</small>
+
+Artículo 44 bis. El Centro de Control de Confianza es la unidad administrativa encargada de comprobar que los servidores públicos de la Procuraduría General de la República dan debido cumplimiento a los principios de legalidad, eficiencia, profesionalismo, honradez, lealtad e imparcialidad señalados en los artículos 21, 109 y 113 de la Constitución Política de los Estados Unidos Mexicanos, 51 de la Ley Orgánica de la Procuraduría General de la República y 47 de la Ley Federal de Responsabilidades de los Servidores Públicos.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1999)</small>
+
+Artículo 44 bis-1. Al frente del Centro de Control de Confianza habrá un Director General Adjunto, quien tendrá las facultades siguientes:
+
+I. Llevar a cabo los procesos de evaluación a los aspirantes a ingresar a la Procuraduría General de la República, de conformidad con los requerimientos que le formulen las unidades administrativas, y determinar las causas de su aceptación o rechazo, sin perjuicio de las evaluaciones que sean competencia de otras unidades administrativas de la Institución;
+
+II. Dirigir, coordinar, llevar a cabo y calificar los procesos de evaluación periódicos de control de confianza a los Agentes del Ministerio Público de la Federación, de la Policía Judicial Federal y Peritos, así como a los demás servidores públicos de la Institución, de conformidad con lo dispuesto en el presente Reglamento y demás disposiciones aplicables;
+
+III. Comunicar los resultados de las evaluaciones que se practiquen al Procurador General de la República;
+
+IV. Proponer al Procurador General de la República las normas técnicas que rijan los procesos de evaluación;
+
+V. Vigilar que en los procesos de evaluación se observen los principios de legalidad, eficiencia, profesionalismo, honradez, lealtad e imparcialidad;
+
+VI. Establecer una base de datos que contenga los resultados de los procesos de evaluación de cada una de las personas que se hayan sometido al mismo, y
+
+VII. Recomendar la capacitación especializada que requiera el personal de la Procuraduría General de la República como consecuencia de las evaluaciones practicadas.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1999)</small>
+
+Artículo 44 bis-2. El Centro de Control de Confianza estará integrado por un Director General Adjunto, Coordinador, Directores y Subdirectores de Área, Jefes de Departamento, psicólogos, poligrafistas, médicos, trabajadores sociales y demás personal administrativo necesario, de acuerdo con la disponibilidad presupuestal, los manuales de organización y la estructura autorizada por la autoridad competente.
+
+Los servidores públicos que integren el Centro de Control de Confianza, deberán aprobar las evaluaciones a que se refieren los artículos 11 bis 1 y 11 bis 2 de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1999)</small>
+
+Artículo 44 bis-3. Los procesos de evaluación serán iniciales, permanentes, periódicos y obligatorios para todos los Agentes del Ministerio Público de la Federación, de la Policía Judicial Federal, Peritos, Pilotos Aviadores de la Institución, así como para el personal adscrito a la Dirección General de Servicios Aéreos que participe en las campañas de erradicación de narcóticos.
+
+El Procurador General de la República mediante Acuerdo, podrá determinar que los procesos de evaluación se apliquen a otros servidores públicos de la Institución, así como a las personas que pretendan ingresar o reingresar a prestar sus servicios en la misma.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1999)</small>
+
+Artículo 44 bis-4. Los procesos de evaluación a que se refiere el artículo que antecede, comprenderán las evaluaciones contenidas en los artículos 11 bis 1 y 11 bis 2 de este Reglamento.
+
+Los servidores públicos serán citados a la práctica de las evaluaciones respectivas. En caso de que no se presenten sin mediar causa justificada, dichas evaluaciones se tendrán por no aprobadas.
+
+Los servidores públicos que no aprueben cualquiera de las evaluaciones a las que se refiere este artículo, dejarán de prestar sus servicios en la Procuraduría General de la República.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1999)</small>
+
+Artículo 44 bis-5. Los resultados de las evaluaciones serán confidenciales, con excepción de lo que establezcan las disposiciones legales aplicables, así como en aquellos casos en que deban presentarse en procedimientos administrativos o judiciales.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1999)</small>
+
+Artículo 44 bis-6. Al frente de la Oficina Central Nacional Interpol-México habrá un Director General Adjunto, quien tendrá las facultades siguientes:
+
+I. Fungir como representante ante la Organización Internacional de Policía Criminal, las oficinas centrales nacionales de otros países y con las autoridades nacionales y extranjeras cuyas actividades se relacionen con el cumplimiento de los fines de la Organización Internacional de Policía Criminal;
+
+II. Intervenir y vigilar el cumplimiento de las solicitudes de asistencia recíproca de policía criminal y demás compromisos contraídos con la Organización Internacional de Policía Criminal, de conformidad con las disposiciones legales aplicables;
+
+III. Establecer mecanismos de coordinación con las instituciones policiales de la Federación, de los Estados, del Distrito Federal y de los Municipios, respecto de actividades relacionadas con el objeto de la Organización Internacional de Policía Criminal;
+
+IV. Coordinar las actividades que como Unidad de Enlace realiza la Oficina Central Nacional Interpol-México en materia de investigación de delitos con alcance internacional;
+
+V. Realizar las detenciones que con fines de extradición se lleven a cabo en México, en coordinación con las demás unidades administrativas competentes de la Procuraduría General de la República;
+
+VI. Intervenir, a petición del Ministerio Público, en las investigaciones de carácter internacional que resulten de su competencia, y
+
+VII. Coordinar y vigilar las comunicaciones con la Organización Internacional de Policía Criminal, las oficinas centrales nacionales y otras autoridades competentes.
 
 ### CAPÍTULO DÉCIMO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
 
@@ -1131,23 +1213,7 @@ El Consejo Técnico de Administración de la Policía Judicial Federal se integr
 
 ###### Artículo 55.
 
-El Consejo Técnico para la Supervisión y Control de la Administración de Bienes Asegurados, se integrará por el Procurador, quien lo presidirá, un Subsecretario por cada una de las Secretarías de Hacienda y Crédito Público y de Contraloría y Desarrollo Administrativo, así como el Oficial Mayor de la Procuraduría General de la República. Contará con un Secretario Técnico que tendrá voz pero no voto.
-
-Son facultades del Consejo Técnico para la Supervisión y Control de la Administración de los Bienes Asegurados las siguientes:
-
-I. Conocer sobre el aseguramiento, inventario y aplicación, de los bienes que sean objeto, instrumento o producto de algún delito;
-
-II. Aprobar el otorgamiento en depósito de bienes asegurados, así como su revocación;
-
-III. Autorizar las subastas públicas de bienes asegurados;
-
-IV. Acordar los criterios que regirán sobre la disposición de los semovientes y bienes perecederos asegurados;
-
-V. Recibir el informe sobre el estado que guarden las devoluciones ordenadas por autoridad competente;
-
-VI. Aprobar el informe mensual de administración de bienes asegurados, y
-
-VII. Recibir el informe sobre la aplicación del Fondo para Investigaciones Especiales, proveniente de bienes asegurados.
+(DEROGADO, D.O.F. 21 DE JULIO DE 1999)
 
 ###### Artículo 56.
 
@@ -1228,3 +1294,11 @@ D.O.F. 21 DE ENERO DE 1998.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Quedan sin efecto todas las disposiciones administrativas que contravengan las del presente Decreto.
+
+D.O.F. 21 DE JULIO DE 1999.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en el artículo transitorio siguiente.
+
+SEGUNDO. Las reformas a los artículos 2o., por lo que hace a la sustitución de la denominación de la Dirección General de Administración de Bienes Asegurados por la de Dirección General de Control y Registro de Aseguramientos Ministeriales; 38, y 42, fracción III, así como la derogación del artículo 55 del Reglamento de la Ley Orgánica de la Procuraduría General de la República, a que se refiere el presente Decreto, entrarán en vigor el día 18 de agosto de 1999.
+
+TERCERO. Una vez que entren en vigor las disposiciones a que se refiere el artículo transitorio anterior, las menciones a la Dirección General de Administración de Bienes Asegurados que contengan los acuerdos, circulares, instructivos y demás normas administrativas de la Procuraduría General de la República, se entenderán referidas a la Dirección General de Control y Registro de Aseguramientos Ministeriales.
