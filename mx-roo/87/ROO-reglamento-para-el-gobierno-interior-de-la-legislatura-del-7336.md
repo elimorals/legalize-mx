@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-para-el-gobierno-interior-de-la-legislatura-del-7336
 country: "mx"
 rank: "reglamento"
 publication_date: "1975-04-15"
-last_updated: "1981-11-23"
+last_updated: "1982-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1982.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de abril de 1975.
 
@@ -483,9 +483,11 @@ De las Comisiones.
 
 Para el despacho de los asuntos inherentes se nombrarán Comisiones Permanentes y Especiales, a fin de ser examinados e instruidos hasta ponerlos en estado de resolución. Las permanentes se eligirán (sic) en la Primera sesión que se verifique después de la apertura del primer periodo ordinarios (sic) de sesiones, para ejercer sus funciones durante todo el tiempo que dure la Legislatura.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+
 ###### Artículo 43.
 
-Las comisiones Permanentes serán: Puntos Constitucionales, Puntos Legislativos, Reglamentos, Inspectora de la Contaduría Mayor de Hacienda, Estudios de la Administración Pública, Industria y Comercio, Presupuesto y Cuenta, Corrección de Estilo, y las demás que a juicio de la Legislatura se estime conveniente integrar.
+Las Comisiones Permanentes serán: Puntos Constitucionales, Puntos Legislativos, Reglamentos, Inspectora de la Contaduría Mayor de Hacienda, Estudios de la Administración Pública, Industria y Comercio, Presupuesto y Cuenta, Educación, Salud y Bienestar Social, Corrección y Estilo, y las demás que a juicio de la Legislatura se estime conveniente integrar.
 
 ###### Artículo 44.
 
@@ -974,3 +976,7 @@ P.O. 23 DE NOVIEMBRE DE 1981.
 ###### ARTICULO UNICO.
 
 Este Reglamento comenzará a regir a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE ENERO DE 1982.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
