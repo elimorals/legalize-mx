@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-h-congreso-del-estado-libre-y-7786"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-28"
-last_updated: "1998-01-17"
+last_updated: "1998-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 1998.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 28 de agosto de 1993.
 
@@ -51,69 +51,69 @@ El Congreso tendrá la organización y funcionamiento que establece la Constituc
 
 Este reglamento y sus reformas o adiciones no podrán ser objeto de veto por el Ejecutivo del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1997)</small>
+### CAPITULO II. COLEGIO ELECTORAL
 
-### CAPITULO II. DE LA COMISION INSTALADORA
-
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 3.
 
-La Comisión Instaladora de la Cámara de Diputados tendrá a su cargo:
+La Junta Preparatoria de la Cámara de Diputados o en su caso la Junta Previa tendrá a su cargo:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1995)</small>
 
-I).- Recibir de la Oficialía Mayor de la propia Cámara, copias certificadas de las constancias de mayoría y validez de las fórmulas de candidatos a diputados de mayoría relativa que la hubiesen obtenido, así como un informe de los recursos que se hubieren interpuesto para cada una de las elecciones, de conformidad con lo prescrito en el Código de Instituciones y Procedimientos Electorales del Estado (COIPET);
+I).- Recibir de la Oficialía Mayor de la propia Cámara, los expediente provenientes de los Concejos Distritales relativos a cada cómputo Distritales, en los que contengan las actas originales y cualquier otra documentación; además de la copia certificada de la constancia de mayoría y validez de la fórmula de candidatos a Diputados de mayoría relativa que la hubiesen obtenido, así como un informe de los recursos que se hubieren interpuesto para (sic) una de las elecciones, de conformidad con lo prescrito en el Código de Instituciones y Procedimientos Electorales del Estado (COIPET);
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1995)</small>
 
 II).- Recibir de la Oficialía Mayor de la Cámara, el informe de las constancias de asignación proporcional que el Consejo del Instituto Estatal Electoral hubiese entregado a cada partido político de acuerdo con lo establecido en el Código de Instituciones y Procedimientos Electorales del Estado;
 
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1995)</small>
+
 III).- Recibir de la Oficialía Mayor de la Cámara, la notificación de las resoluciones del Tribunal Estatal Electoral, recaidas a los recursos que haya conocido conforme lo establece el Código de la materia;
 
-IV).- Citar a los Diputados electos a junta preparatoria, 25 días antes del inicio del primer período de sesiones ordinaria de la legislatura entrante.
+IV).- (DEROGADA, P.O. 7 DE MARZO DE 1998)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1995)</small>
 
-V).- Entregar a la primera mesa directiva de la Legislatura entrante, los documentos electorales a que se refieren las fracciones I, II y III de este artículo;
+V).- Entregar por inventario a la primera mesa directiva de la Legislatura entrante, la totalidad de los documentos electorales a que se refieren las fracciones I, II y III de este artículo;
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1995)</small>
 
 VI).- Dar cumplimiento en lo que corresponde al procedimiento establecido en el artículo siguiente.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1998)</small>
 
 ###### ARTÍCULO 4.
 
-En la fecha y hora en que hubieren sido convocados conforme lo previsto en la fracción IV del Artículo anterior, presente en el salón de sesiones, la Comisión Instaladora y los Diputados Electos, éstos últimos procederán a la Elección de su Primer Mesa Directiva al efecto.
+En la fecha y hora en que hubieren sido convocados conforme a lo previsto por el artículo 10 de la Ley Orgánica, presentes en el Salón de Sesiones, los Diputados electos procederán a la elección de la Junta Preparatoria o en su caso la Junta Previa.
 
-A).- La Comisión Instaladora por conducto de unos de sus secretarios, dará cuenta del ejercicio de las atribuciones establecidas en el artículo anterior, reservando la entrega de los documentos electorales a que se refiere la fracción VI de dicho artículo, a la Mesa Directiva que habrá de elegirse;
+a) La Junta Preparatoria o en su caso la Junta Previa, por conducto de uno de sus Secretarios, dará cuenta del ejercicio de las atribuciones establecidas en el artículo anterior, reservando la entrega de los documentos electorales a que se refieren las fracciones I, II y III de dicho artículo, a la primera mesa directiva del Congreso que habrá de elegirse.
 
-B).- Enseguida se pasará lista de presentes de los Diputados miembros de la nueva legislatura para, en su caso, declarar debidamente instalada la Cámara, los Diputados electos ausentes serán llamados en los términos del artículo 21 Constitucional.
+b) En la sesión a que se refiere el artículo 16 de la Ley Orgánica del Poder Legislativo, el Presidente de la Junta Preparatoria o en su caso de la junta previa, rendirá la protesta de Ley; estando de pie los Diputados, dirá: “Protesto guardar y hacer guardar la Constitución Política de los Estado Unidos Mexicanos, la particular del Estado y las Leyes que de ellas emanen, desempeñar leal y patrióticamente el cargo de diputado a la (número) Legislatura de la Cámara de Diputados del Honorable Congreso del Estado, que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado? si así no lo hiciere que la Nación y el Estado, me lo demanden”?
 
-C).- Acto continuo el Presidente de la Comisión Instaladora exhortará a los Diputados Electos a que en escrutinio secreto y por mayoría de votos elijan la primera Mesa Directiva de la nueva Legislatura, misma que se integrará conforme a lo dispuesto en la Ley Orgánica del Poder Legislativo.
+c) A continuación el Presidente de la Junta Preparatoria o en su caso de la junta previa, tomará la protesta a los demás miembros de la Cámara en los siguientes términos:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+“¿Protestan ustedes desempeñar leal y patrióticamente el cargo de Diputados a la (número) Legislatura del Honorable Congreso del Estado, que el pueblo les ha conferido, guardar y hacer guardar la Constitución Política de los Estado Unidos Mexicanos, la particular del Estado y las Leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Unión y del Estado?”
 
-D).- Realizada la elección de la primera mesa directiva de la Legislatura entrante, conforme a los correspondientes resultados que serán anunciados por los secretarios de la comisión instaladora. El Presidente de ésta invitará a los recién nombrados a tomar su lugar en el presidium.
+Los Diputados electos responderán:
 
-E).- El Presidente de la primera Mesa Directiva de la Legislatura entrante protestará su cargo, pidiendo a los Diputados asistentes que se pongan de pie y dirán: “PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS Y LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE ELLAS EMANEN, DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE DIPUTADO A LA (NUMERO) LEGISLATURA DE LA CAMARA DE DIPUTADOS DEL H. CONGRESO DEL ESTADO, QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DE LA UNION Y EL ESTADO SI ASI NO LO HICIERE QUE LA NACION Y EL ESTADO, ME LO DEMANDE”.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
-
-F).- El Presidente tomará la protesta a los demás miembros integrantes de la Cámara en los siguientes términos:
-
-“¿PROTESTAN USTEDES DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE DIPUTADOS A LA (NUMERO) LEGISLATURA DEL H. CONGRESO DEL ESTADO, QUE EL PUEBLO LES HA CONFIADO, GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE ELLAS EMANEN, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DE LA UNION Y DEL ESTADO?”;
-
-Los Diputados Electos responderán:
-
-“SI PROTESTO”.
+“Sí, protesto.”
 
 El Presidente proseguirá:
 
-“SI ASI LO HICIEREN QUE LA NACION Y EL ESTADO SE LOS PREMIE Y SI NO QUE SE LOS DEMANDE”.
+“Si así lo hicieren que la Nación y el Estado se los premie y sino (sic) que se los demande”.
 
-Enseguida, el Presidente de la Mesa Directiva dirá en voz alta:
+Seguidamente, el Presidente de la Junta Preparatoria o en su caso de la Junta Previa, pedirá a los diputados electos, que en escrutinio secreto y por mayoría de votos, elijan la primera mesa directiva de la nueva Legislatura, misma que se integrará conforme a lo dispuesto por el artículo 19 de la Ley Orgánica del Poder Legislativo.
 
-“LA (NUMERO) LEGISLATURA DE LA CAMARA DE DIPUTADOS DEL H. CONGRESO DEL ESTADO, SE DECLARA LEGALMENTE CONSTITUIDA”.
+d) Realizada la elección de la primera mesa directiva de la Legislatura entrante, conforme a los correspondientes resultados que serán anunciados por uno de los Secretarios de la Junta Preparatoria o en su caso de la junta previa, el Presidente de ésta invitará a los electos a tomar su lugar en el presidium y declarará concluidas las funciones de la junta preparatoria o en su caso de la junta previa.
 
-Por último, la Mesa Directiva nombrará en términos del artículo 60 de este Reglamento, comisiones de cortesía para despedir a la Comisión Instaladora y citará a la sesión solemne para la apertura de los trabajos de la nueva Legislatura.
+e) Acto seguido, el Presidente de la mesa directiva electa, hará la declaración solemne de quedar instalada la Legislatura respectiva y abierto su primer periodo ordinario de sesiones, de la siguiente manera:
+
+Pidiendo a todos ponerse de pie, el Presidente de la mesa directiva dirá en voz alta:
+
+“La Honorable (número) Legislatura del Estado Libre y Soberano del Estado de Tabasco, declara que hoy (día, mes y año) queda legalmente instalada y abierto el primer periodo ordinario de sesiones de su primer año del ejercicio constitucional”.
+
+f) (DEROGADO, P.O. 7 DE MARZO DE 1998)
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 1995)</small>
 
@@ -153,31 +153,31 @@ Conservarán su validez los Acuerdos y Resoluciones de la Cámara o de los órga
 
 (DEROGADO, P.O. 11 DE ENERO DE 1995)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1995)</small>
 
 ###### ARTICULO 14.
 
-La Legislatura en funciones expedirá el Bando solemne para dar a conocer en todo el Estado, la declaración de Gobernador Electo.
+La Legislatura en funciones se erigirá en Colegio Electoral, para hacer la calificación de la elección de Gobernador del Estado; asimismo para designar Gobernador en los términos que establece la Constitución del Estado.
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 15.
 
-El día uno de Enero siguiente a las elecciones, a las once horas, deberán reunirse los nuevos Diputados en el Recinto Oficial del Congreso del Estado o en lugar que se designe para tal efecto, para declarar legítimamente instalada la nueva Legislatura.
-
-El Presidente del Congreso hará la declaratoria de la apertura de los trabajos y de quedar legítimamente instalada utilizando la fórmula del artículo siguiente.
+El Presidente de la primera mesa directiva electa citará a los miembros de la nueva Legislatura para la Sesión solemne de inicio de su ejercicio constitucional, misma que se verificará en el recinto oficial del Congreso del Estado o en el lugar que para tal efecto designe el Congreso, el día y hora que acuerde la mayoría.
 
 ###### ARTICULO 16.
 
-El Presidente puesto de pie, leerá en voz alta: “La Honorable (el número que corresponda) Legislatura del Estado Libre y Soberano de Tabasco, declara que hoy (día, mes y año) queda legalmente instalada y abierto el Primer Período Ordinario de Sesiones de su primer año del ejercicio Constitucional”.
+(DEROGADO, P.O. 7 DE MARZO DE 1998)
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 17.
 
-Para esta ceremonia se nombrarán dos Comisiones compuestas de tres Diputados cada una, que se encargará de acompañar a la entrada y salida del Recinto Oficial a los Representantes de los Poderes Ejecutivo y Judicial; asimismo, otra Comisión en caso de que asista el Tribunal del Poder Ejecutivo Federal o su Representante, para iguales efectos.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+Para la sesión solemne a que se refiere el artículo 15 de este Reglamento, se nombrarán dos comisiones compuestas de tres Diputados cada una, que se encargarán de acompañar a la entrada y salida del recinto oficial a los representantes de los Poderes Ejecutivo y Judicial; asimismo en caso de asistencia del Titular del Poder Ejecutivo Federal o su representante, se nombrará otra comisión para los mismos efectos.
 
 ###### ARTICULO 18.
 
-Ningún diputado podrá entrar en funciones sin antes haber rendido su Protesta de Ley.
+Ningún diputado podrá entrar en funciones sin antes haber rendido su Protesta de Ley. El Presidente del Congreso tomará la Protesta en la forma siguiente: Presidente “¿Protesta (n) usted (es) desempeñar leal y patrióticamente el cargo de Diputado, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ellas emanen, mirando en todo por el bien y prosperidad, de la Unión y del Estado?”, Diputado (s) “Si Protesto”. Presidente: Si así lo hiciere (n) que la Nación y el Estado se lo (s) premie y si no que se lo (s) demande.
 
 ### CAPITULO IV. MESA DIRECTIVA
 
@@ -235,7 +235,7 @@ Igual procedimiento que el señalado en el artículo anterior se seguirá cuando
 
 ###### ARTICULO 31.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1997)
+En las Sesiones de apertura de los períodos Constitucionales y en los solemnes, los Diputados asistirán vestidos, de preferencia, de Guayabera blanca y las Diputadas del mismo color.
 
 ###### ARTICULO 32.
 
@@ -331,21 +331,19 @@ El Presidente de la Gran Comisión tendrá las facultades y obligaciones señala
 
 La Gran Comisión, con el objeto de agilizar y organizar los trabajos legislativos, podrá celebrar con los coordinadores de las Fracciones, los acuerdos parlamentarios que sean necesarios para el mejor desempeño de los trabajos camerales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
-
 ###### ARTICULO 52.
 
-Cuando por alguna de las causas señaladas en la Ley Orgánica, algún Diputado sea removido o se dispense temporal o definitivamente del desempeño de sus comisiones, la Gran Comisión propondrá al Diputado que deba sustituirlo.
+Cuando por alguna de las causas señaladas en la Ley Orgánica, algún Diputado sea removido o se dispense temporal o definitivamente del desempeño de sus comisiones, será propuesto por la Gran Comisión al Diputado que deba sustituirlo
 
 ###### ARTICULO 53.
 
 La Gran Comisión deberá establecer la política rectora para que los servicios administrativos y de gobierno se presten cabalmente, para el buen funcionamiento de los trabajos parlamentarios.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 54.
 
-Una vez por semana, cuando menos, el Presidente de la Gran Comisión tendrá acuerdos con los titulares de las Direcciones que integran el Congreso, para vigilar el correcto cumplimiento de sus funciones. De los resultados, deberá informar a los miembros de la Gran Comisión y a la Asamblea en sesión secreta, en caso de ser necesario.
+Una vez por semana, cuando menos, el Presidente de la Gran Comisión tendrá acuerdos con los titulares de los Órganos técnicos y administrativos que integran el Congreso, para vigilar el correcto cumplimiento de sus funciones. De los resultados, deberá informar a los miembros de la Gran Comisión y a la asamblea en sesión secreta, en caso de ser necesario.
 
 ###### ARTICULO 55.
 
@@ -355,9 +353,11 @@ Corresponde a la Gran Comisión proponer a la Asamblea en sesión secreta, la de
 
 La propuesta de la Gran Comisión para la integración de las comisiones permanentes, se hará en la tercera sesión del primer período ordinario de cada año.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 57.
 
-El Presidente de la Gran Comisión podrá delegar en el Secretario y los Vocales las facultades que estime necesarias, para dar una mayor eficiencia en el desarrollo de las funciones administrativas.
+El Presidente de la Gran Comisión podrá delegar en los Secretarios y los Vocales, las facultades que estime necesarias para dar una mayor eficiencia en el desarrollo de las funciones administrativas.
 
 ###### ARTICULO 58.
 
@@ -387,11 +387,17 @@ Las Comisiones Permanentes que a continuación se señalan, tendrán las faculta
 
 I. Petición, Gestoría y Quejas:
 
+> <small>(F. DE E., P.O. 1 DE ABRIL DE 1998)</small>
+
 a) Recibir y analizar las peticiones de particulares o de autoridades que no tengan derecho a presentar iniciativas de Leyes o Decretos, turnándolas, cuando las considere procedente, a la Comisión competente;
+
+> <small>(F. DE E., P.O. 1 DE ABRIL DE 1998)</small>
 
 b) Conocer y llevar a cabo las gestiones pertinentes de las solicitudes y quejas que presenten los particulares y autoridades, cuando a criterio del Presidente de la Mesa Directiva esta Comisión debe avocarse a la solución de esos asuntos; y
 
-c) Coordinar las actividades y funciones de la Dirección de Programación y Gestoría;
+> <small>(F. DE E., P.O. 1 DE ABRIL DE 1998)</small>
+
+c) Coordinar las actividades y funciones de la Dirección de Petición, Gestoría y Quejas;
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -412,6 +418,10 @@ f) De la solicitud para conceder al Ejecutivo, por tiempo limitado, las facultad
 g) De las iniciativas de reformas o adiciones a la Constitución General de la República y a la del Estado; y
 
 h) De las iniciativas de creación, reforma, adición y derogación de Leyes o Decretos, pudiendo para ello organizar foros de consulta popular;
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 1998)</small>
+
+i) Conocer junto con la Comisión de lo Contencioso Administrativo; de la integración del Tribunal de esta materia.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -679,15 +689,41 @@ XXVIII. Del Instituto de Investigaciones Legislativas:
 
 A T R I B U C I O N E S
 
-a) Establecer los criterios académicos de planeación, desarrollo y control de la operatividad del Instituto;
+a) (DEROGADO, P.O. 7 DE MARZO DE 1998)
 
-b) Coordinar y vigilar las actividades y funciones del Instituto;
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1998)</small>
+
+b) Supervisar las actividades y funciones del Instituto;
 
 c) Recibir las solicitudes de las Comisiones Permanentes y de los Diputados en particular para que el Instituto les preste asesoría y apoyo en materia legislativa;
 
 d) Autorizar los convenios de cooperación con otras Instituciones y Organismos;
 
-e) Revisar el plan anual de trabajo del Instituto que someta a su consideración el Director General.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1998)</small>
+
+e) Revisar el plan anual de trabajo del Instituto que someta a consideración del Consejo Académico, el Director General.
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 1998)</small>
+
+XXIX. Atención a los Jóvenes:
+
+a) Corresponde a la Comisión de Atención a los Jóvenes, el conocimiento y dictamen de los asuntos relacionados con los Programas y Acciones que ejecuten las Tres Instancias de Gobierno, para el Desarrollo Social, Económico, Cultural y Deportivo de la Población Juvenil.
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 1998)</small>
+
+XXX. Atención a la Mujer y Personas de la Tercera Edad:
+
+a) Corresponde a la Comisión de Atención a la Mujer y Personas de la Tercera Edad conocer y dictaminar en su caso, de todo lo relacionado con los Programas y Acciones que ejecuten el Gobierno Federal, Estatal y los Municipios para la atención y superación de las Mujeres y personas de la Tercera Edad, en lo Social, Económico y Cultural;
+
+b) Procurar y vigilar que las Mujeres y personas de la Tercera Edad, reciban de las instancias de Gobierno, el trato y respeto que merecen.
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 1998)</small>
+
+XXXI. De lo Contencioso Administrativo:
+
+a) Procurar y vigilar la estricta aplicación de la Ley de Justicia Administrativa para el Estado de Tabasco;
+
+b) Conocer junto con la Comisión de Gobernación y Puntos Constitucionales de la Integración del Tribunal de lo Contencioso Administrativo.
 
 ### CAPITULO XI. DE LAS SESIONES
 
@@ -903,49 +939,281 @@ Si algún Diputado, omiso en presentar su declaración, persistiera en tal actit
 
 La sanción pecuniaria que se fije deberá pagarse en la Dirección de Finanzas del Congreso.
 
-### CAPITULO XVIII. ORGANIZACION ADMINISTRATIVA DEL CONGRESO
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE MARZO DE 1998)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+### CAPITULO XVIII. ORGANIZACION TECNICA Y ADMINISTRATIVA
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 108.
 
-La Oficialía Mayor es el Órgano técnico-administrativo y de apoyo de la Legislatura, dependiendo de la Gran Comisión y coordinando sus actividades con la Mesa Directiva.
+La Contaduría Mayor de Hacienda es el Órgano Técnico del Congreso que depende de la Gran Comisión y coordina sus actividades con la mesa directiva y la Comisión Permanente Inspectora de Hacienda.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 1998)</small>
+
+###### ARTICULO 108
+
+BIS.- Son obligaciones y atribuciones del Contador Mayor de Hacienda:
+
+I. Llevar el registro y control de los bienes muebles e inmuebles propiedad del Estado, Municipios, Organismos e Instituciones que manejen fondos y valores públicos, así como de los nombramientos de los Servidores Públicos;
+
+II. Fijar las normas, procedimientos y sistemas internos para inspeccionar la Hacienda Pública del Estado y de los Municipios, a través de la revisión, glosa y Auditoría de las cuentas públicas. La auditoria, revisión y glosa se hará a los registros de las operaciones derivadas de la aplicación de las Leyes de Ingresos y del ejercicio de los Presupuestos de Egresos, de los Poderes del Estado y los Municipios;
+
+III. Controlar el ejercicio presupuestal de la Hacienda Estatal y Municipal; formular pliego de observaciones a los tres Poderes del Estado y a los Municipios que surjan del proceso de revisión, glosa y auditoría de las cuentas públicas y la supervisión física de inversiones en obras;
+
+IV. Practicar auditorías contables, presupuestales y administrativas en las oficinas de la Hacienda Pública Estatal y Municipal;
+
+V. Revisar la contabilidad de las dependencias del Estado, Organismos e Instituciones que manejen fondos públicos;
+
+VI. Participar en la evaluación y autoevaluación del ejercicio presupuestal que realicen los Ayuntamientos o Concejos Municipales;
+
+VII. Circularizar y verificar a Proveedores y Contratistas por adquisiciones y prestaciones de servicios, para conocer la legalidad de las operaciones;
+
+VIII. Supervisar que las entidades sujetas a cuenta pública realicen sus operaciones con estricto apego a las leyes de ingresos, presupuestos de egresos, programas y subprogramas aprobados;
+
+IX. Recibir del Estado, Municipios, Organismos e Instituciones que manejen fondos y valores públicos, la información relativa a las cuentas públicas;
+
+X. Presentar, en los términos del artículo 38 de la Ley Orgánica del Poder Legislativo, a la Comisión Inspectora de Hacienda del Congreso, los informes anuales de la revisión, glosa y auditoría de las cuentas públicas de los tres poderes del Estado y de los Municipios, para que, con fundamento en dichos informes técnico contables, la Comisión Inspectora de Hacienda rinda al Congreso, los dictámenes correspondientes a las cuentas públicas;
+
+XI. Para lo previsto en las fracciones II, III, IV y V se deberá contar con la autorización de la Comisión Inspectora de Hacienda, a la que informará de los resultados de la misma;
+
+XII. Acordar una vez por semana con el Presidente de la Gran Comisión sobre el desempeño de sus funcion; y
+
+XIII. Las demás que le competan conforme a las disposiciones legales, ó que le señale el Presidente de la Gran Comisión.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 1998)</small>
+
+###### ARTICULO 108
+
+BIS-1.- El Subcontador Mayor de Hacienda, tendrá las siguientes atribuciones:
+
+I. Coordinar y supervisar las funciones de las unidades administrativas dependientes de la Contaduría Mayor de Hacienda;
+
+II. Coordinar y supervisar la elaboración del anteproyecto de presupuesto de la Contaduría Mayor de Hacienda y remitirlo a la dirección de Finanzas del Congreso, para integrarse al proyecto anual de presupuesto del Poder Legislativo;
+
+III. Coordinar y supervisar los estudios y proyectos, así como la elaboración de los informes previos y de resultados sobre la revisión y glosa de las cuentas publicas;
+
+IV. Coordinar el programa de auditorias a las dependencias y entidades publicas;
+
+V. Editar el organo de información de la Contaduría Mayor de Hacienda, así como otras publicaciones; y
+
+VI. Las demás que le señale el Contador Mayor de Hacienda.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 1998)</small>
+
+###### ARTICULO 108
+
+BIS-2.- La Dirección de Desarrollo Técnico y Sistematización tendrá las siguientes atribuciones:
+
+I. Asesorar en materia Jurídica, financiera y contable a la Contaduría Mayor de Hacienda;
+
+II. Planear, programar y elaborar, los análisis temáticos para la elaboración de los informes previos y de resultados de la revisión y glosa de las cuentas públicas;
+
+III. Analizar el informe de gobierno y los informes financieros que conforme a la ley deben rendir las dependencias y entidades de la administración publica estatal y municipal;
+
+IV. Recabar, integrar y presentar al área jurídica, la documentación que sustente las irregularidades que se detecten en las visitas, inspecciones y auditorias que se practiquen;
+
+V. Presentar las recomendaciones que en el ámbito de su competencia, deban observar las entidades públicas sujetas a supervisión;
+
+VI. Integrar, mantener actualizado y custodiar el archivo permanente de las dependencias y entidades públicas sujetas a fiscalización;
+
+VII. Proponer y mantener actualizados los convenios de intercambio de documentación e información que convenga establecer con instituciones homologas, dependencias y entidades de la administración publica e instituciones académicas y de investigación locales o nacionales;
+
+VIII. Asesorar a los ayuntamientos en la operación de sus sistemas de control, fiscalización y evaluación, formulando y proponiendo los convenios de apoyo técnico que para tal efecto, fuere necesario suscribir entre el Congreso del Estado a través de la Contaduría Mayor de Hacienda y los Gobiernos Municipales;
+
+IX. Analizar los proyectos de normas de contabilidad y control en materia de programación, presupuestación y administración de recursos financieros que sean presentados a la Contaduría Mayor de Hacienda, que elaboren las dependencias y entidades de la administración publica estatal y municipal; y
+
+X. Las demás que le señale el Contador Mayor de Hacienda.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 1998)</small>
+
+###### ARTICULO 108
+
+BIS-3.- La dirección de evaluación y auditoria tendrá las siguientes atribuciones:
+
+I. Practicar auditorias, visitas e inspecciones directas a las entidades públicas sujetas a fiscalización, a fin de comprobar que la recaudación de los ingresos y su aplicación, así como las operaciones relacionadas con la deuda publica, se hayan realizado de acuerdo con la (sic) leyes aplicables en la materia;
+
+II. Elaborar las observaciones y recomendaciones que, en el ámbito de su competencia, se deben formular a las dependencias y entidades de la administración publica estatal y municipal, sujetas a fiscalización con las leyes aplicables;
+
+III. Planear el sistema de control y evaluación de la cuenta publica;
+
+IV. Elaborar en coordinación con las demás áreas de la Contaduría Mayor de Hacienda, los informes previos y de resultados de la cuenta publica;
+
+V. Establecer las bases generales para la realización de las auditorias en las entidades públicas sujetas a fiscalización, fijando el programa general y los programas mínimos para la ejecución de dichas auditorias;
+
+VI. Comprobar la observancia de las normas, procedimientos y programas expedidos por la propia Contaduría Mayor de Hacienda, e inspeccionar y vigilar que los órganos de control de las dependencias sujetas a fiscalizar cumplan con las normas y disposiciones legales; y
+
+VII. Las demás que le señale el Contador Mayor de Hacienda.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 1998)</small>
+
+###### ARTICULO 108
+
+BIS-4.- La Dirección de Supervisión y Auditoria de la Obra Pública tendrá las siguientes atribuciones:
+
+I. Practicar auditorias, visitas e inspecciones, a fin de comprobar que la planeación, adjudicación y ejecución de las obras publicas e inversión financiera, se hayan ajustado a la legislación y a la normatividad aplicables, que las erogaciones correspondientes hayan estado razonablemente comprobadas y justificadas, y que los trabajos se hayan efectuado con eficiencia, eficacia y economía;
+
+II. Recabar, integrar y presentar al área jurídica, la documentación que sustente las irregularidades que detecte en las visitas, inspecciones y auditorias;
+
+III. Presentar las observaciones y recomendaciones, que en el ámbito de su competencia deban observar las entidades sujetas a fiscalización;
+
+IV. Analizar y verificar el contenido de los informes que en materia de obras públicas presentan al Contador Mayor de Hacienda, las Dependencias y Entidades Estatales y Municipales; y
+
+V. Las demás que le señale el Contador Mayor de Hacienda.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 1998)</small>
+
+###### ARTICULO 108
+
+BIS-5.- La Dirección de Control de Bienes Patrimoniales y Nombramientos tendrá las siguientes atribuciones:
+
+I. Recibir y registrar las declaraciones patrimoniales que deben presentar los servidores públicos del Congreso del Estado, verificar y practicar las investigaciones que fueren pertinentes de acuerdo con las leyes y reglamentos establecidos;
+
+II. Verificar que se mantenga actualizado el inventario de los bienes muebles e inmuebles propiedad del Estado, municipios, organismos e instituciones que manejen fondos y valores públicos, así como de los nombramientos de los servidores públicos;
+
+III. Establecer y mantener actualizados los mecanismos y procedimientos para salvaguardar los bienes muebles e inmuebles propiedad de las entidades mencionadas en la fracción anterior;
+
+IV. Practicar visitas e inspecciones a fin de comprobar que la planeación y adjudicación de bienes y servicios, se hayan ajustado a las leyes respectivas? así como practicar auditorias de recursos humanos;
+
+V. Verificar que el procedimiento de enajenación de bienes se haya realizado de conformidad a las leyes aplicables,
+
+VI. Recibir y mantener actualizados los movimientos del personal al servicio de los tres poderes del Estado y Municipios;
+
+VII. Expedir constancia de antigüedad laboral a los empleados estatales y municipales que lo soliciten, y
+
+VIII. Las demás que le señale el Contador Mayor de Hacienda.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 109.
 
-Son atribuciones y obligaciones del Oficial Mayor:
+La Oficialía Mayor es el Órgano Técnico-Administrativo y de apoyo de la Legislatura, que depende de la Gran Comisión y coordina sus actividades con la Mesa Directiva, cuyas atribuciones y obligaciones son las siguientes:
 
-I. Auxiliar a la Mesa Directiva y a los Diputados en las funciones que legalmente le competen;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1998)</small>
 
-II. Apoyar a las Comisiones Permanentes para el adecuado cumplimiento de sus atribuciones;
+I. Formular un extracto de los documentos que deban darse cuenta en la sesión y ordenarlos debidamente;
 
-III. Asistir a las sesiones del Congreso y redactar las actas correspondientes;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1998)</small>
 
-IV. Revisar los proyectos de leyes, decretos, acuerdos y demás documentos que expida la Legislatura;
+II. Asistir a las reuniones públicas, secretas y previas de trabajo, para redactar las actas correspondientes, asistiéndose del personal, elementos e instrumentos técnicos necesarios;
 
-V. Cuidar el Salón de Sesiones, de acuerdo con las disposiciones que dicte el Presidente del Congreso;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1998)</small>
 
-VI. Vigilar que la Constitución Política del Estado se encuentre en su urna, antes del inicio de cada sesión;
+III. Revisar los proyectos de leyes, decretos, acuerdos, comunicaciones y demás documentos que se expidan, así como de las publicaciones cuya impresión se acuerde, cuidando de que unos y otros estén correctamente escritos;
 
-VII. Mantener actualizados los registros de leyes, decretos, acuerdos, actas de sesiones, asuntos turnados a las Comisiones, credenciales expedidas a los auxiliares de los Diputados y a los empleados administrativos, correspondencia y autorizaciones;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1998)</small>
 
-VIII. Coordinar y supervisar la elaboración del proyecto anual de presupuesto de egresos del Poder Legislativo;
+IV. Custodiar los libros siguientes, para:
 
-IX. Coordinar el desarrollo de los trabajos del personal administrativo del Poder Legislativo;
+1. Leyes y Decretos;
 
-X. Determinar los sistemas, procedimientos y técnicas adecuadas que permitan optimizar las funciones administrativas;
+2. Acuerdos;
 
-XI. Apoyar a cada una de las áreas que conforman la estructura orgánica del Congreso, en materia presupuestal y administrativa;
+3. Actas de sesiones públicas;
 
-XII. Coordinar las adquisiciones, servicios y suministros de las diversas dependencias y unidades administrativas del Congreso;
+4. Actas de sesiones secretas;
 
-XIII. Firmar los nombramientos que expida el Congreso a los auxiliares de los diputados y a los empleados administrativos;
+5. Los asuntos turnados a las Comisiones;
+
+6. Registros de credenciales expedidas a auxiliares y ayudantes de los Diputados, así como de los empleados administrativos;
+
+7. Entrega de correspondencia;
+
+8. Autorizaciones.
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1998)</small>
+
+V. Cuidar el Auditorio de acuerdo con las disposiciones que dicte el Presidente del Congreso;
+
+VI. (DEROGADA, P.O. 7 DE MARZO DE 1998)
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1998)</small>
+
+VII. Asistir a la Mesa Directiva durante las sesiones atendiendo a sus requerimientos conforme a las disposiciones de la Ley Orgánica y este Reglamento;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1998)</small>
+
+VIII. Apoyar a las Comisiones Permanentes para el adecuado cumplimiento de sus atribuciones;
+
+IX. (DEROGADA, P.O. 7 DE MARZO DE 1998)
+
+X. (DEROGADA, P.O. 7 DE MARZO DE 1998)
+
+XI. (DEROGADA, P.O. 7 DE MARZO DE 1998)
+
+XII. (DEROGADA, P.O. 7 DE MARZO DE 1998)
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1998)</small>
+
+XIII. Firmar los nombramientos que expida el Congreso a los auxiliares de los diputados por Acuerdo del Presidente de la Gran Comisión;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
 XIV. Coordinar las actividades con los titulares de otros organismos públicos o privados, cuando así lo requiera el funcionamiento de la Legislatura; y
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
 XV. Las demás que le señalen la Ley Orgánica este Reglamento y el Presidente de la Gran Comisión.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 1998)</small>
+
+###### ARTICULO 109
+
+BIS.- Son atribuciones y facultades del director General del instituto de investigaciones legislativas:
+
+I. Coordinar y vigilar las actividades y funciones del instituto y sus Unidades correspondientes;
+
+II. Recibir las solicitudes de las comisiones permanentes y de los Diputados en particular para que el Instituto les preste asesoría y apoyo en materia legislativa, con acuerdo del Presidente de la Gran Comisión;
+
+III. Investigar y difundir temas relacionados con el estudio de la Actividad legislativa.
+
+IV. Apoyar a las comisiones permanentes en el análisis de las Iniciativas de leyes, reformas o adiciones enviadas al H. Congreso del Estado;
+
+V. Proponer a la comisión permanente del instituto de Investigaciones legislativas, anteproyectos de iniciativas de leyes, reformas o adiciones, tendientes a actualizar la legislación vigente en el Estado;
+
+VI. Proponer las directrices de investigación, difusión, conservación de documentos, de intercambio bibliográfico y de experiencia en investigación con los congresos locales, Congreso de la Unión, instituciones académicas locales y nacionales;
+
+VII. Presidir el Consejo Académico del Instituto de Investigaciones Legislativas;
+
+VIII. Acordar una vez a la semana con el Presidente de la Gran Comisión;
+
+IX. Las demás que le señale el Presidente de la Gran Comisión.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 1998)</small>
+
+###### ARTICULO 109
+
+BIS-1.- Corresponde al Consejo Académico del Instituto:
+
+I. Establecer los criterios académicos de planeación, desarrollo y Control de la operatividad del Instituto;
+
+II. Autorizar los convenios de cooperación con otras instituciones y Organismos; y
+
+III. Revisar el plan anual de trabajo del instituto que someta a su consideración el Presidente del Consejo Académico;
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 1998)</small>
+
+###### ARTICULO 109
+
+BIS-2.- Corresponde a la dirección de investigaciones Legislativas del instituto:
+
+I. Ejecutar los criterios académicos de planeación, desarrollo y Control de la operatividad del instituto, que establezca el consejo Académico o el director general;
+
+II. Efectuar estudios comparativos de la legislación del estado con respecto a las entidades federativas y ámbito federal;
+
+III. Proponer al director general del instituto de investigaciones Legislativas, anteproyectos de iniciativas de leyes, reformas o Adiciones, tendientes a actualizar la legislación vigente en el Estado; y
+
+IV. Las demás que le encomiende el director general del instituto.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 1998)</small>
+
+###### ARTICULO 109
+
+BIS-3.- Corresponde a la dirección de Estudios Legislativos del Congreso:
+
+I.- Compilar las Leyes, códigos y reglamentos del fuero común vigentes en el Estado, para modernizar su archivo; analizar y estudiar las diferentes legislaciones, con la finalidad de actualizar, en su caso, nuestras leyes estatales; y,
+
+II.- Elaborar, analizar y formular comentarios sobre las iniciativas de leyes y decretos que presente algún Diputado, el Gobernador, el Tribunal Superior de Justicia, los Ayuntamientos o Concejos Municipales.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -959,167 +1227,175 @@ II. Auxiliar y brindar asesoría jurídica a los Diputados, Oficial Mayor, Conta
 
 III. Presentar al Presidente de la Gran Comisión y a los Diputados, propuestas de carácter legal que tengan como finalidad el estricto cumplimiento y mejor funcionamiento de las actividades del Congreso; y
 
-IV. Las demás que le señalen el Presidente de la Gran Comisión, la Mesa Directiva o el Oficial Mayor.
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1998)</small>
+
+IV. Las demás que le señale el Presidente de la Gran Comisión.
 
 ### CAPITULO XIX. DEL CEREMONIAL
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 111.
 
-En las sesiones el Presidente del Congreso ocupará el lugar central del presídium, a su izquierda tomará asiento el Secretario, a su derecha el Vice-Presidente y seguidamente el Pro-Secretario. Los demás Diputados ocuparán los curules sin preferencia alguna.
+Corresponde a la Dirección de Petición, Gestoría y Quejas:
+
+I. Gestionar ante las tres instancias de Gobierno, las peticiones y quejas de la ciudadanía, como apoyo a las actividades de los Diputados;
+
+II. Realizar todas las actividades encaminadas al cumplimiento de los Acuerdos de Coordinación, que celebren la Gran Comisión y los Diputados, con las dependencias del Gobierno Federal, Estatal y Municipal;
+
+III. Recopilar los programas operativos anuales, Estatales y Municipales, así como los diversos convenios celebrados por las instancias Federal, Estatal y Municipal del Gobierno; y
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1998)</small>
+
+IV. Las demás que le señale el Presidente de la Gran Comisión, la Mesa Directiva o la Comisión Permanente de Petición, Gestoría y Quejas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 112.
 
-Cuando asista el Presidente Constitucional de los Estados Unidos Mexicanos o su representante, ocupará el lugar situado a la derecha del Presidente del Congreso, y el Gobernador del Estado el de la izquierda; a la derecha del Presidente de la República, tomará asiento el Presidente del Tribunal Superior de Justicia y a la izquierda del Gobernador, el Diputado Secretario. El Vice-Presidente y el Pro-Secretario ocuparán sus lugares en el nivel superior del presídium o a los lados.
+Corresponde a la Dirección de Administración:
 
-Cuando sólo asista el Gobernador del Estado o su representante, ocupará el asiento ubicado a la derecha del Presidente del Congreso y el Presidente del Tribunal Superior de Justicia o su representante el de la izquierda.
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1998)</small>
+
+I. Seleccionar, contratar, tramitar nombramientos, renuncias y licencias; así como vigilar el desarrollo y tener el control Administrativo del personal que preste sus servicios al Congreso;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1998)</small>
+
+II. La realización de los trámites necesarios para el otorgamiento de las prestaciones económicas y sociales a que tengan derecho los empleados del Congreso;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1998)</small>
+
+III. Presentar a la consideración del Presidente de la Gran Comisión el Programa de Capacitación y Desarrollo Profesional del personal;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1998)</small>
+
+IV. La tramitación de adquisiciones, servicios y suministros a las áreas administrativas;
+
+V. Coordinar la prestación de los servicios de Correspondencia, Archivo, Transportación, Intendencia, Fotocopiado y Mensajería;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1998)</small>
+
+VI. Proporcionar mantenimiento y conservación de los bienes muebles e inmuebles propiedad del Congreso;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1998)</small>
+
+VII. Notificar al personal a través de circular, que la falta de asistencia injustificada y cualquier violación al contrato de trabajo, se sancionará, conforme a la Ley y que cuatro retardos durante un mes, se considera un día de falta injustificada, mismo que se descontará del sueldo;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1998)</small>
+
+VIII. Conceder a los empleados económicamente hasta nueve días de licencia al año;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 1998)</small>
+
+IX. Expedir y firmar por Acuerdo del Presidente de la Gran Comisión, los nombramientos de los empleados administrativos del Congreso;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 1998)</small>
+
+X. Las demás que le señale el Presidente de la Gran Comisión.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 113.
 
-Al entrar y salir del salón de sesiones el Presidente de la República o el Gobernador del EStado (sic) o ambos, el público asistente y los miembros del Congreso se pondrán de pie; excepto, el Presidente del Congreso que permanecerá en su asiento, salvo que se entone el Himno Nacional, en tal caso, deberá ponerse de pie.
+Corresponde a la Dirección de Finanzas:
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1998)</small>
+
+I. Elaborar el Presupuesto Anual del Poder Legislativo, bajo la supervisión del Presidente de la Gran Comisión;
+
+II. Tramitar ante la Secretaría de Planeación y Finanzas, el cobro de los fondos del Presupuesto;
+
+III. Recibir, proveer y controlar los recursos financieros;
+
+IV. Pagar los sueldos, salarios y demás prestaciones al personal que labora en el Congreso, así como efectuar los pagos a los Proveedores de artículos y servicios que se requieran;
+
+V. Elaborar la información correspondiente a la Cuenta Pública del Congreso y remitirla a la Contaduría Mayor de Hacienda;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1998)</small>
+
+VI. Informar mensualmente al Presidente de la Gran Comisión, el estado que guardan los recursos financieros; y
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1998)</small>
+
+VII. Las demás que le señale el Presidente de la Gran Comisión.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 114.
 
-Cuando se trate de la protesta constitucional que deba reunir algún funcionario ante el Congreso, los Diputados y demás asistentes permanecerán de pie.
+Corresponde a la Dirección de Comunicación Social y Relaciones Públicas:
+
+I. Diseñar el Proyecto de Programa de Comunicación Social del Congreso, para dar a conocer las actividades que se lleven a cabo y auxiliar a los Diputados en sus relaciones con los medios de comunicación;
+
+II. Proporcionar toda la información relacionada con las actividades legislativas que se le solicite, manteniendo al día el archivo correspondiente;
+
+III. Asistir a todas las reuniones y llevar un archivo de grabación magnetofónica, filmaciones, notas periodísticas y fotografías;
+
+IV. Reunir el material informativo necesario para la elaboración de la revista mensual del Congreso, así como la organización de exposiciones de carácter cultural;
+
+V. Dirigir las relaciones públicas de la Legislatura;
+
+VI. Contar con un directorio oficial actualizado;
+
+VII. Llevar a cabo eventos culturales, cívicos, sociales, homenajes y aniversarios luctuosos, que busquen el mantenimiento de las buenas relaciones públicas del Congreso; y
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1998)</small>
+
+VIII. Las demás que le señalen el Presidente de la Gran Comisión.
 
 ###### ARTICULO 115.
 
-Cuando algún integrante del Congreso enferme de gravedad, el Presidente nombrará una comisión de Diputados para que lo visiten cuantas veces sea necesario.
+(DEROGADO, P.O. 7 DE MARZO DE 1998)
 
 ###### ARTICULO 116.
 
-En caso de fallecimiento será trasladado el féretro al recinto del Congreso, en donde se instalará la capilla ardiente, obligándose todos los Diputados a hacer honores póstumos y asistir al sepelio. El Presidente y el Secretario harán circular esquelas luctuosas participándolo a los Poderes Ejecutivo y Judicial, para que concurran al acto; en los recesos corresponderá a la Comisión Permanente cumplir con la anterior.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE MARZO DE 1998)
 
 ###### ARTICULO 117.
 
-La Dirección de Desarrollo Técnico y Sistematización tendrá las siguientes atribuciones:
-
-I. Asesorar en materia jurídica, financiera y contable a la Contaduría Mayor de Hacienda;
-
-II. Planear, programar y elaborar, los análisis temáticos para la elaboración de los informes previos y de resultados de la revisión y glosa de las cuentas públicas;
-
-III. Analizar el informe de Gobierno y los informes financieros que conforme a la Ley deben rendir las dependencias y entidades de la Administración Pública Estatal y Municipal;
-
-IV. Recabar, integrar y presentar al área jurídica, la documentación que sustente las irregularidades que se detecten en las visitas, inspecciones y auditorías que se practiquen;
-
-V. Presentar las recomendaciones que en el ámbito de su competencia, deban observar las entidades públicas sujetas a fiscalización;
-
-VI. Integrar, mantener actualizado y custodiar el archivo permanente de las dependencias y entidades públicas sujetas a fiscalización;
-
-VII. Proponer y mantener actualizados los convenios de intercambio de documentación e información que convenga establecer con Instituciones homologas, dependencias y entidades de la Administración Pública e Instituciones Académicas y de Investigación Locales o Nacionales.
-
-VIII. Asesorar a los Ayuntamientos en la operación de sus sistemas de control, fiscalización y evaluación, formulando y proponiendo los convenios de apoyo técnico que para tal efecto, fuere necesario suscribir entre el Congreso del Estado a través de la Contaduría Mayor de Hacienda y los Gobiernos Municipales;
-
-IX. Analizar los proyectos de normas de contabilidad y control en materia de programación, presupuestación y administración de recursos financieros que sean presentados a la Contaduría Mayor de Hacienda, que elaboren las dependencias y entidades de la Administración Pública Estatal y Municipal; y
-
-X. Las demás que le señale el Contador Mayor de Hacienda.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE MARZO DE 1998)
 
 ###### ARTICULO 118.
 
-La Dirección de Evaluación y Auditoría tendrá las siguientes atribuciones:
-
-I. Practicar auditorias, visitas e inspecciones directas a las entidades públicas sujetas a Fiscalización a fin de comprobar que la recaudación de los ingresos y su aplicación, así como las operaciones relacionadas con la deuda pública, se hayan realizado de acuerdo con la (sic) Leyes aplicables en la materia;
-
-II. Elaborar las observaciones y recomendaciones que, en el ámbito de su competencia, se deben formular a las dependencias y entidades de la Administración Pública Estatal y Municipal, sujetas a Fiscalización con las Leyes aplicables;
-
-III. Planear el Sistema de Control y Evaluación de la Cuenta Pública;
-
-IV. Elaborar en coordinación con las demás áreas de la Contaduría Mayor de Hacienda, los informes previos y de resultados de la cuenta pública;
-
-V. Establecer las bases generales para la realización de las auditorias en las entidades públicas sujetas a fiscalización fijando el Programa General, y los programas mínimos para la ejecución de dichas auditorías.
-
-VI. Comprobar la observancia de las normas, procedimientos y programas expedidos por la propia Contaduría Mayor de Hacienda, e inspeccionar y vigilar que los órganos de control de las dependencias sujetas a fiscalizar cumplan con las normas y disposiciones legales; y
-
-VII. Las demás que le señale el Contador Mayor de Hacienda.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE MARZO DE 1998)
 
 ###### ARTICULO 119.
 
-La Dirección de Supervisión y Auditoría de la Obra Pública tendrá las siguientes atribuciones:
-
-I. Practicar auditorías, visitas e inspecciones, a fin de comprobar que la planeación, adjudicación y ejecución de las Obras Públicas e inversión financiera, se hayan ajustado a la Legislación y a la normatividad aplicables, que las erogaciones correspondientes hayan estado razonablemente comprobadas y justificadas, y que los trabajos se hayan efectuado con eficiencia, eficacia y economía;
-
-II. Recabar, integrar y presentar al área jurídica, la documentación que sustente las irregularidades que detecte en las visitas, inspecciones y auditorías;
-
-III. Presentar las observaciones y recomendaciones, que en el ámbito de su competencia deban observar las entidades sujetas a Fiscalización;
-
-IV. Analizar y verificar el contenido de los informes que en materia de obras públicas presentan al Contador Mayor de Hacienda, las dependencias y entidades Estatales y Municipales; y
-
-V. Las demás que le señale el Contador Mayor de Hacienda.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE MARZO DE 1998)
 
 ###### ARTICULO 120.
 
-La Dirección de Control de Bienes Patrimoniales y Nombramientos tendrá las siguientes atribuciones:
-
-I. Recibir y registrar las declaraciones patrimoniales que deben presentar los servidores públicos del Congreso del Estado, verificar y practicar las investigaciones que fueren pertinentes de acuerdo con las Leyes y Reglamentos establecidos;
-
-II. Verificar que se mantenga actualizado el inventario de los bienes muebles e inmuebles propiedad del Estado, Municipios, Organismos e Instituciones que manejen fondos y valores públicos, así como de los nombramientos de los servidores públicos;
-
-III. Establecer y mantener actualizados los mecanismos y procedimientos para salvaguardar los bienes muebles e inmuebles propiedad de las entidades mencionadas en la fracción anterior;
-
-IV. Practicar visitas e inspecciones a fin de comprobar que la planeación y adjudicación de bienes y servicios, se hayan ajustado a las Leyes respectivas; así como practicar auditorías de Recursos Humanos;
-
-V. Verificar que el Procedimiento de enajenación de bienes se haya realizado de conformidad a las Leyes aplicables;
-
-VI. Recibir y mantener actualizados los movimientos del personal al servicio de los Tres Poderes del Estado y Municipios;
-
-VII. Expedir constancia de antigüedad laboral a los empleados Estatales y Municipales que lo soliciten; y
-
-VIII. Las demás que le señale el Contador Mayor de Hacienda.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE MARZO DE 1998)
 
 ###### ARTICULO 121.
 
-Son atribuciones y facultades del Director General del Instituto de Investigaciones Legislativas:
-
-I. Ejecutar los criterios académicos de planeación, desarrollo y control de la operatividad del Instituto, que establezca el Consejo Académico;
-
-II. Coordinar y vigilar las actividades y funciones del Instituto;
-
-III. Recibir las solicitudes de las Comisiones Permanentes y de los Diputados en particular, para que el Instituto les preste asesoría y apoyo en materia legislativa;
-
-IV. Presentar al Consejo Académico el plan anual de trabajo del Instituto;
-
-V. Investigar y difundir temas relacionados con el estudio de la actividad parlamentaria;
-
-VI. Efectuar estudios comparativos de la Legislación del Estado con respecto a las Entidades Federativas y al ámbito Federal;
-
-VII. Apoyar a las Comisiones Permanentes en el análisis de las iniciativas de Leyes, reformas o adiciones enviadas al H. Congreso del Estado;
-
-VIII. Proponer a la Comisión Especial del Instituto de Investigaciones Legislativas, Anteproyectos de iniciativas de Leyes, reformas o adiciones, tendientes a actualizar la Legislación vigente en el Estado;
-
-IX. Proponer las directrices de Investigación, difusión, conservación de documentos, de intercambio bibliográfico y de experiencia en investigación con los Congresos locales, Congreso de la Unión, Instituciones Académicas Locales y Nacionales; e
-
-X. Impartir cursos de capacitación Parlamentaria.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE MARZO DE 1998)
 
 ###### ARTICULO 122.
 
-Corresponde al Consejo Académico:
-
-I. Establecer los criterios académicos de Planeación, Desarrollo y Control de la Operatividad del Instituto;
-
-II. Autorizar los convenios de cooperación con otras Instituciones y Organismos; y
-
-III. Revisar el plan anual de trabajo del Instituto que someta a su consideración el Director General.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE MARZO DE 1998)
 
 ###### ARTICULO 123.
 
-Corresponde a la Dirección de Investigación y Estudios Legislativos:
+(DEROGADO, P.O. 7 DE MARZO DE 1998)
 
-I. Compilar las Leyes, Códigos y Reglamentos del Fuero Común vigentes en el Estado, para modernizar su archivo; analizar, estudiar y comparar las diferentes legislaciones, con la finalidad de actualizar, en su caso, nuestras Leyes Estatales; y,
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 1998)</small>
 
-II. Elaborar, analizar y formular comentarios sobre las iniciativas de Leyes y Decretos que presente algún Diputado, el Gobernador, el Tribunal Superior de Justicia, los Ayuntamientos o Concejos Municipales.
+ARTICULO 123 BIS.- Corresponde a la Coordinación de Biblioteca y Videoteca Legislativa:
+
+a). Promover el mejoramiento de la Biblioteca y Sistemas de información bibliográfica, así como difundir el uso de la misma en la población del Estado;
+
+b). Dar cumplimiento a lo dispuesto por la Ley General de Bibliotecas; y
+
+c). Las demás que le señale el Presidente de la Gran Comisión.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 1998)</small>
+
+ARTICULO 123 BIS 1.- Corresponde a la Coordinación de Seguridad y Operación Logística:
+
+a). La vigilancia y protección de los bienes muebles e inmuebles propiedad del Congreso del Estado, así como la seguridad de los Diputados en el interior del Recinto oficial;
+
+b). Las demás que le encargue el Presidente de la Gran Comisión o la Mesa Directiva del Congreso.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -1226,3 +1502,9 @@ P.O. 17 DE ENERO DE 1998.
 ###### ARTICULO ÚNICO.
 
 La presente reforma entrará en vigor a partir del momento de su aprobación; publíquese en el Periódico Oficial del Estado.
+
+P.O. 7 DE MARZO DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del momento de su aprobación; publíquese en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+SEGUNDO.- Se derogan las disposiciones del Decreto número 203 del 9 de enero de 1997 publicado en el Periódico Oficial del Gobierno del Estado de Tabasco, número 5681 del 15 de febrero de ese mismo año, que se opongan a las del presente Decreto; así como cualquier otra disposición legal contraria al mismo.
