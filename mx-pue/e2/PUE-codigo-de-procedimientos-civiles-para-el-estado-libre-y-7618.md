@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-civiles-para-el-estado-libre-y-7618"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-18"
-last_updated: "1989-07-28"
+last_updated: "1990-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 1990.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 18 de noviembre de 1986.
 
@@ -6419,11 +6419,19 @@ b).- Hijos o nietos, tanto de más de catorce años, como de menos de esta edad.
 
 c).- Sólo hijos o nietos de más de catorce años de edad.
 
-II.- Si los cónyuges no tienen hijos o nietos bajo su patria potestad.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1990)</small>
+
+II.- Si ya terminó la patria potestad que ejercían los cónyuges sobre sus propios hijos o nietos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ABRIL DE 1990)</small>
+
+III.- Si los cónyuges no adoptaron ni procrearon hijos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ABRIL DE 1990)</small>
 
 ###### Artículo 1125.
 
-En el supuesto previsto en los apartados a) y b) de la fracción I del artículo anterior, además de lo dispuesto en el 1123, se aplicarán las siguientes disposiciones:
+En los supuestos previstos en los incisos a), b) y c) de la fracción I del Artículo anterior, además de lo dispuesto en el 1123, se aplicarán las siguientes disposiciones:
 
 I.- El Juez dispondrá que la esposa conserve la guarda de sus hijos o nietos sujetos a patria potestad; pero respecto a los que tengan más de catorce años podrá el Juez, oyendo a éstos, y a ambos cónyuges conferir la guarda de aquellos al padre o abuelo respectivamente.
 
@@ -6431,17 +6439,17 @@ II.- Ordenará el Juez al marido que se separe del domicilio familiar; y que se 
 
 III.- Ordenará también el Juez, se entreguen al marido, los bienes de los menores cuya guarda se le confiera a él, conforme a lo dispuesto en la última parte de la fracción I anterior.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1990)</small>
+
 ###### Artículo 1126.
 
-En el caso del apartado c) de la fracción I del artículo 1124:
+En el caso de la fracción II del artículo 1124, además de lo dispuesto por el Artículo 1123, ordenará el Juez al marido que se separe del domicilio familiar y que se le entreguen la ropa de él y en su caso los bienes necesarios, para el ejercicio de la profesión, arte u oficio a que esté dedicado.
 
-I.- El Juez, oyendo a ambos cónyuges, y a los menores sujetos a la patria potestad, y tomando en consideración las circunstancias existentes, confiará a uno de ellos la guarda de tales menores.
-
-II.- Ordenará el Juez que el cónyuge a quien no se confiera la guarda de los menores, se separe del domicilio familiar y que se le entreguen la ropa de él y en su caso los bienes necesarios, para el ejercicio de la profesión, arte u oficio a que este dedicado.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1990)</small>
 
 ###### Artículo 1127.
 
-En el caso de la fracción II del artículo 1124, deberá separarse del domicilio familiar, el cónyuge que intente o haya intentado el juicio civil o la denuncia penal, salvo que el domicilio familiar esté en un bien que pertenezca exclusivamente a uno de los cónyuges, cualquiera que sea el régimen económico del matrimonio, y en este supuesto deberá separarse del domicilio familiar, el cónyuge que no sea propietario de ese bien.
+En el caso de la fracción III del Artículo 1124, deberá separarse del domicilio familiar, el cónyuge que intente o haya intentado el juicio civil o la denuncia penal, salvo que el domicilio familiar esté en un bien que pertenezca exclusivamente a uno de los cónyuges, cualquiera que sea el régimen económico del matrimonio, y en este supuesto deberá separarse del domicilio familiar, el cónyuge que no sea propietario de ese bien.
 
 ###### Artículo 1128.
 
@@ -6708,6 +6716,18 @@ IV.- Que el adoptante o adoptantes tienen medios bastantes para proveer a la sub
 V.- Que el adoptante o adoptantes no tengan antecedentes penales.
 
 VI.- El consentimiento de la persona o personas que deben darlo, conforme al artículo 583 del Código Civil.
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 1990)</small>
+
+VII.- Su buen estado de salud.
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 1990)</small>
+
+VIII.- Su disponibilidad psicológica para desempeñar el papel de padre o madre, respectivamente.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1990)</small>
+
+Los requisitos señalados en las fracciones III, IV, VII y VIII deberán acreditarse ante el Consejo Técnico de Adopciones del Sistema para el Desarrollo Integral de la Familia, el que deberá presentar informe por escrito al Juez.
 
 ###### Artículo 1168.
 
@@ -8522,3 +8542,7 @@ P.O. 28 DE JULIO DE 1989.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los procedimientos judiciales que se hayan iniciado antes de la vigencia del presente, continuarán hasta su conclusión de acuerdo a la legislación bajo cuyo imperio se iniciaron.
+
+P.O. 27 DE ABRIL DE 1990.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
