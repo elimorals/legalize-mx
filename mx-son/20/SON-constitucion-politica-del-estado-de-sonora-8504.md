@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1991-12-19"
+last_updated: "1991-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1991.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -855,6 +855,8 @@ Instrucción Pública.
 
 Ministerio Público.
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
+
 ### CAPITULO IV.
 
 Poder Judicial.
@@ -1241,39 +1243,59 @@ Juzgados de Primera Instancia y Locales.
 
 ###### Artículo 95.
 
-La institución del Ministerio Público representa los intereses de la Sociedad conforme a las atribuciones que le confiere esta Constitución y demás leyes.
+La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial, la cual estará bajo la autoridad y mando inmediato de aquél.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 96.
 
-Son atribuciones del Ministerio Público:
+El Ministerio Público, como Institución de buena fe y en su carácter de representante de los intereses de la sociedad, tendrá las siguientes atribuciones:
 
-I. Ejercitar la acción penal.
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
-II. Cuidar de que se ejecuten las penas impuestas por los tribunales, exigiendo de quien corresponda y bajo su más estricta responsabilidad el cumplimiento de las sentencias recaídas.
+I. Perseguir los delitos del orden común cometidos en el territorio del Estado, con estricto respeto a las garantías individuales que precisa la Constitución Política de los Estados Unidos Mexicanos.
 
-III. Intervenir en los juicios hereditarios y en todos aquellos que afecten a las personas a quienes las leyes otorgan especial protección, y en los que se interese establecimiento de beneficencia pública, a los cuales representará velando por sus intereses.
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
-IV. Hacer efectiva la responsabilidad criminal de los funcionarios y empleados públicos.
+II. Velar por la legalidad, en la esfera de su competencia, como uno de los principios rectores de la convivencia social, y promover la pronta, completa e imparcial procuración e impartición de justicia.
+
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1991)</small>
+
+III. Proteger los intereses de los menores e incapaces, así como los individuales y sociales, en los términos que determinen las leyes.
+
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1991)</small>
+
+IV. Cuidar la correcta aplicación de las medidas de política criminal, en la esfera de su competencia.
+
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
 
 V. Defender a la Hacienda Pública del Estado en juicio, siempre que el Ejecutivo no provea a la procuración conforme a la Ley.
 
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
+
 VI. Cuidar de que se lleven conforme a las leyes los protocolos y libros de los notarios, los libros del Registro Público de la Propiedad y los del Registro Civil.
+
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
 
 VII. Intervenir en las juntas de vigilancia de cárceles para exigir que se cumpla con los reglamentos respectivos.
 
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
+
 VIII. Informar al Supremo Tribunal sobre los defectos que encontrare en las leyes, así como de las irregularidades o deficiencias que observare en las autoridades encargadas de aplicarlas.
+
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
 
 IX. Rendir a los Poderes del Estado los informes que le pidan sobre asuntos relativos a la institución.
 
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
+
 X. Las demás que le señalan las leyes, tanto federales como del Estado.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 97.
 
-El Ministerio Público será desempeñado por un funcionario que se denominará Procurador General de Justicia y por los agentes que determine la Ley.
+La Ley organizará al Ministerio Público, debiendo estar presidida la Institución por un Procurador General de Justicia del Estado, quien dependerá directamente del Gobernador del Estado.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1293,17 +1315,17 @@ Para ser Procurador General de Justicia se necesitan los mismos requisitos que p
 
 El Procurador General rendirá la protesta de la Ley ante el Gobernador del Estado.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 101.
 
-Para la investigación de los delitos existirá un cuerpo auxiliar denominado Policía Judicial, la cual estará bajo la autoridad y mando directo del Procurador.
+La Policía Judicial del Estado, como auxiliar directo del Ministerio Público y conforme a las instrucciones que se le dicten, desarrollará las diligencias que deban practicarse durante la averiguación previa y ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial.
 
-> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1928)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 102.
 
-Las faltas accidentales y temporales del Procurador General de Justicia, se suplirán en la forma que determine la Ley Orgánica del Ministerio Público.
+Las faltas accidentales y temporales del Procurador General de Justicia del Estado, se suplirán en la forma que determine la Ley.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1315,11 +1337,21 @@ Todas las autoridades del Estado tienen el deber, para facilitar las labores del
 
 Los Agentes del Ministerio Público serán nombrados por el Ejecutivo, a propuesta en terna del Procurador de Justicia.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 105.
 
-Para ser agente del Ministerio Público precisan los mismos requisitos que para ser Juez de Primera Instancia, los cuales serán calificados por el Procurador, con la misma salvedad de la fracción I del artículo 124, en su parte final.
+Para ser Agente del Ministerio Público, se requiere:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos.
+
+II. Acreditar que ha observado buena conducta y no haber sido condenado por sentencia ejecutoriada como responsable de delitos intencionales.
+
+III. Ser licenciado en derecho con título legalmente expedido.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
+
+Artículo 105 A. En el ejercicio de sus funciones, el personal de la Procuraduría General de Justicia del Estado observará las obligaciones inherentes a su calidad de servidores públicos, de acuerdo a sus obligaciones específicas, y actuará con la diligencia necesaria para una pronta y eficaz procuración e impartición de justicia.
 
 ###### Artículo 106.
 
@@ -1973,7 +2005,7 @@ Quienes teniendo la residencia y vecindad se ausentaren del lugar de su residenc
 
 ###### Artículo 157.
 
-Todo funcionario o empleado público, tiene el deber de protestar antes de encargarse de sus funciones, en la forma siguiente: La autoridad que deba recibir la protesta dirá: "Protestáis guardar y hacer guardar la Constitución de los Estados Unidos Mexicanos, la Constitución del Estado, la leyes que de ellas emanen, y cumplir leal y patrióticamente el cargo de ………. que el pueblo (o la autoridad que lo confiere) os ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado?" -El interpelado contestará: "Sí protesto". Acto contínuo dirá la persona ante quién se otorga la protesta: "Si no lo hiciereis así la Nación y el Estado os lo demanden".
+Todo funcionario o empleado público, tiene el deber de protestar antes de encargarse de sus funciones, en la forma siguiente: La autoridad que deba recibir la protesta dirá: "Protestáis guardar y hacer guardar la Constitución de los Estados Unidos Mexicanos, la Constitución del Estado, las leyes que de ellas emanen, y cumplir leal y patrióticamente el cargo de ………. que el pueblo (o la autoridad que lo confiere) os ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado?" -El interpelado contestará: "Sí protesto". Acto contínuo dirá la persona ante quien se otorga la protesta: "Si no lo hiciéreis así la Nación y el Estado os lo demanden".
 
 ###### Artículo 158.
 
@@ -2488,6 +2520,12 @@ B.O. 19 DE DICIEMBRE DE 1991.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 30 DE DICIEMBRE DE 1991.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
