@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "1990-11-01"
+last_updated: "1991-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 01 DE NOVIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 1991.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987.
 
@@ -625,7 +625,7 @@ MEDIDAS DE SEGURIDAD
 
 ###### ARTICULO 68.
 
-El Organo Jurisdiccional fijará la pena dentro de los límites señalados para cada delito, teniendo en cuenta los aspectos objetivos y subjetivos del hecho punible, la lesión o peligro del bien jurídico; las circunstancias de modo, tiempo y lugar; los motivos determinantes; las demás condiciones del sujeto activo y de la víctima, en la medida en que hayan influido en la comisión del delito, y las que determinen la gravedad del delito y la culpabilidad del sujeto.
+El Órgano Jurisdiccional fijará la pena dentro de los limites señalados para cada delito, teniendo en cuenta los aspectos objetivos y subjetivos del hecho punible, la lesión o peligro del bien jurídico; las circunstancias de modo, tiempo y lugar; los motivos determinantes; las demás condiciones del sujeto activo y de la víctima, en la medida en que hayan influido en la comisión del delito, y las que determinen la gravedad del delito y la culpabilidad del sujeto.
 
 El órgano jurisdiccional ordenará de oficio la realización de los estudios criminológicos interdisciplinarios del imputado y tomará conocimiento directo de éste, del ofendido y de la ejecución del hecho en la medida requerida para cada caso.
 
@@ -681,7 +681,7 @@ I.- Cuando la conducta culposa origine por cualquier medio daño en las cosas, c
 
 II.- Cuando la conducta culposa origine lesiones de las comprendidas en el artículo 127 fracción I, y III de este Código.
 
-Este artículo sólo se aplicará cuando el imputado no se encontrare al cometer el delito en estado de ebriedad o bajo los efectos de psicotrópicos, estupefacientes, substancias volátiles inhalantes o cualquier otra que produzca efectos análogos.
+Este artículo sólo se aplicará cuando el imputado no se encontrare al cometer el delito en estado de ebriedad o bajo los efectos de psicotrópicos, estupefacientes, substancias volátiles inhalables o cualquier otra que produzca efectos análogos.
 
 ###### ARTICULO 78.
 
@@ -783,7 +783,7 @@ I.- Que el reo haya delinquido por primera vez;
 
 II.- Que tenga modo honesto de vivir y haya observado buena conducta con anterioridad al delito, probada por hechos positivos.
 
-III.- Que durante el proceso no se haya sustraído a la acción judicial.
+III.- Que durante el proceso no se haya sustraido a la acción judicial.
 
 IV.- Que la duración de la pena no exceda de tres años.
 
@@ -1125,7 +1125,7 @@ V.- El delito se cometa dolosamente y no concurra ninguna de las circunstancias 
 
 ###### ARTICULO 132.
 
-La riña es la contienda de obra o la agresión física de una parte y la disposición material para contender de la otra, cualquiera que sea el número de contendientes, cuando actúen con el propósito de dañarse recíprocamente.
+La riña es la contienda de obra o la agresión física de una parte y la disposición material para contender de la otra, cualquiera que sea el número de contendientes, cuando actúen con el propósito de dañarse reciprocamente.
 
 Al responsable de homicidio o lesiones en riña, se le impondrá hasta la mitad de la pena de prisión señalada para el delito simple, si se trata del provocador, y hasta la tercera parte en el caso del provocado.
 
@@ -1214,6 +1214,8 @@ Al que omita prestar el auxilio necesario a quien se encuentre desamparado y en 
 Al que abandone a una persona incapaz de valerse por si misma, teniendo la obligación de cuidarla, se le aplicará prisión de tres meses a tres años.
 
 ### CAPITULO II. ASALTO
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 145.
 
@@ -1311,7 +1313,7 @@ Este delito sólo se perseguirá a petición del ofendido.
 
 ###### ARTICULO 156.
 
-Al que en lugar solitario o desprotegido haga uso de la violencia sobre una persona, con el propósito de causar un mal, obtener un lucro o exigir su asentamiento para cualquier fin se le sancionará con prisión de uno a seis años.
+Al que en lugar solitario o desprotegido haga uso de la violencia sobre una o más personas, con el propósito de causar un mal, obtener un lucro o exigir su asentamiento para cualquier fin, se le sancionará con prisión de uno a seis años.
 
 ###### ARTICULO 157.
 
@@ -1649,7 +1651,7 @@ XVI.- A los constructores o vendedores de edificios en condominio, casas o habit
 
 Es aplicable a lo dispuesto en esta fracción lo determinado en los párrafos segundo a cuarto de la fracción anterior.
 
-XVII.- Al que valiendose del cargo que ocupe en el Gobierno, en una empresa descentralizada o de participación estatal, o en cualquier agrupación de carácter sindical o de sus relaciones con los funcionarios o dirigentes de dichos organismos, obtengan dinero, valores, dádivas, obsequios o cualquier otro beneficio, a cambio de prometer o proporcionar un trabajo, un ascenso o aumento de salario en tales organismos;
+XVII.- Al que valiéndose del cargo que ocupe en el Gobierno, en una empresa descentralizada o de participación estatal, o en cualquier agrupación de carácter sindical o de sus relaciones con los funcionarios o dirigentes de dichos organismos, obtengan dinero, valores, dádivas, obsequios o cualquier otro beneficio, a cambio de prometer o proporcionar un trabajo, un ascenso o aumento de salario en tales organismos;
 
 XVIII.- Al que por si o por interpósita persona, cause perjuicio público o privado al fraccionar y transferir o prometer transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno urbano o rústico, propio o ajeno, con o sin construcciones, sin el previo permiso de las autoridades administrativas competentes o cuando existiendo éste no se hayan satisfecho los requisitos en el señalados. Este delito se sancionará aún en el caso de falta de pago total o parcial.
 
@@ -1657,7 +1659,7 @@ Para los efectos penales se entiende por fraccionar la división de terrenos en 
 
 XIX.- Al que altere por cualquier medio los medidores de algún fluído o líquido o las indicaciones registradas en esos aparatos para aprovecharse indebidamente de ellos en perjuicio del consumidor;
 
-XX.- Al que valiéndose de la ignorancia o de las malas condiciones económicas de un trabajador a su servicio le pague cantidades inferiores a las que legalmente le corresponden por las labores que ejecuta o le haga otorgar recibos o comprobantes de pago de cualquier clase que amparen sumas de dinero superiores a las que efectivamente entrega, y
+XX.- Al que valiendose de la ignorancia o de las malas condiciones económicas de un trabajador a su servicio le pague cantidades inferiores a las que legalmente le corresponden por las labores que ejecuta o le haga otorgar recibos o comprobantes de pago de cualquier clase que amparen sumas de dinero superiores a las que efectivamente entrega, y
 
 XXI.- Al que provoque deliberadamente cualquier acontecimiento que pudiera considerarse como fortuito o de fuerza mayor, para liberarse de obligación o cobrar fianzas o seguros.
 
@@ -2716,3 +2718,13 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Per
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a la presente.
+
+P.O. 10 DE ENERO DE 1991
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado, "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente.
