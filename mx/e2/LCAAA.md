@@ -4,7 +4,7 @@ identifier: "LCAAA"
 country: "mx"
 rank: "ley"
 publication_date: "1932-08-27"
-last_updated: "1932-08-27"
+last_updated: "1936-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1524&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LCAAA"
 
 LEY SOBRE ASOCIACIONES AGRICOLAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ASOCIACIONES GANADERAS, PUBLICADA EN EL D.O.F. DE 12 DE MAYO DE 1936, SE DEROGA LA LEY DE ASOCIACIONES AGRICOLAS UNICAMENTE POR LO QUE SE REFIERE A LA CONSTITUCION, ORGANIZACION Y FUNCIONAMIENTO GENERAL, DE LAS ASOCIACIONES E INSTITUCIONES FILIALES A ELLAS, QUE DEDIQUEN SUS ACTIVIDADES A LA INDUSTRIA ANIMAL.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 1936.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 27 de agosto de 1932.
 
@@ -139,6 +141,14 @@ Sufragio Efectivo. No Reelección.
 México D. F., a 24 de agosto de 1932.- El Secretario de Gobernación, Juan José Ríos.- Rúbrica.
 
 Al C..
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 12 DE MAYO DE 1936.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DE LA LEY QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+SEGUNDO.- Se derogan: la Ley de Asociaciones Agrícolas de 19 de agosto de 1932, únicamente por lo que se refiere a la constitución, organización y funcionamiento general, de las asociaciones e instituciones filiales a ellas, que dediquen sus actividades a la Industria Animal, así como todas las demás disposiciones que se opongan a los términos de la presente Ley.
 
 ###### ARTICULO 2º.
 
