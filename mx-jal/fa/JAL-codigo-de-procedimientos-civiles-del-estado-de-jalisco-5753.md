@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "1953-12-31"
+last_updated: "1955-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 1955.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -1604,8 +1604,6 @@ Cuando el acreedor se rehuse en el acto de la diligencia a recibir la cosa, con 
 
 El depositario que se constituya en estas diligencias será designado por el Juez si con intervención de él se practicaren. Si fueren hechas con intervención de notario, la designación se hará bajo la responsabilidad del deudor.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
-
 ARTICULO 248 bis.- En caso de que se hubiese promover el juicio a que se refiere el artículo 247, y durante la sustanciación de éste o con posterioridad, fuese necesario hacer nuevas consignaciones con relación al mismo negocio, se verificarán dentro del mismo expediente, y la sentencia en su caso, decidirá sobre todas.
 
 ### CAPITULO VI.
@@ -2796,11 +2794,13 @@ Llegados los autos al Supremo Tribunal o en su caso las constancias relativas pa
 
 Si declara inadmisible la apelación, en el mismo auto ordenará se devuelvan los autos al Inferior y declarará ejecutoriada la resolución apelada. Si se revoca la calificación de grado se procederá en consecuencia.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1955)</small>
+
 ###### ARTICULO 445.
 
-En el mismo auto en que se haga la calificación de grado, mandará el Tribunal poner a disposición del apelante los autos por seis días, en la Secretaría, para que exprese agravios. Del escrito de expresión se correrá traslado a la contraria si se hubiere presentado, por otros seis días, durante los cuales estarán los autos a disposición de ésta para que se imponga de éllos.
+En el mismo auto en que se haga la calificación de grado mandará el Tribunal poner a disposición del apelante los autos o el testimonio de constancias por seis días, para que exprese agravios. Del escrito de expresión se correrá traslado a la contraria si se hubiera presentado, por otros seis días, durante los cuales estarán los autos a disposición de ésta para que se imponga de ellos.
 
-Bastará la enumeración sencilla que haga la parte de los errores o violaciones de derecho que en su concepto se cometieron en la sentencia, para tener como expresados los agravios.
+Bastará la enumeración sencilla que haga la parte, de los errores o violaciones de derecho que en su concepto se cometieron en la sentencia, para tener por expresados los agravios.
 
 ###### ARTICULO 446.
 
@@ -2836,21 +2836,19 @@ De la Responsabilidad Civil.
 
 ###### ARTICULO 452.
 
-En los juicios extraordinarios la apelación se sustanciará con un solo escrito de cada parte y un informe en estrados. Los puntos resolutivos se dictarán en la misma audiencia y se completará la sentencia dentro del tercer día.
-
-Sólo en las causas en que se tuviere que examinar documentos voluminosos o las pruebas hubieren consistido exclusivamente en documentos, se dictará la resolución dentro de los ocho días que sigan a la celebración de la audiencia interrumpiéndola con tal objeto.
+(DEROGADO, P.O. 3 DE MARZO DE 1955)
 
 ###### ARTICULO 453.
 
-Para los efectos del artículo anterior, una vez que el Tribunal decida tramitar la apelación conforme al artículo 444, prevendrá a las partes que formulen su expresión y contestación de agravios y señalará día, dentro de los diez siguientes, para la celebración del informe. Si se promovieren pruebas, se recibirán las que corresponda con arreglo a las disposiciones de este Capítulo, en la misma audiencia, la que podrá transferirse por una sola vez, con ese objeto, si el Tribunal así lo estima pertinente y con un término que no exceda de ocho días.
+(DEROGADO, P.O. 3 DE MARZO DE 1955)
 
 ###### ARTICULO 454.
 
-Los agravios también podrán expresarse y contestarse en la diligencia del informe, siempre que no se promueva prueba; y si no llegan a expresarse, se procederá como se previene en el artículo 446.
+(DEROGADO, P.O. 3 DE MARZO DE 1955)
 
 ###### ARTICULO 455.
 
-Las apelaciones de interlocutorias o autos se sustanciarán conforme a los tres artículos anteriores.
+(DEROGADO, P.O. 3 DE MARZO DE 1955)
 
 ###### ARTICULO 456.
 
@@ -2866,33 +2864,23 @@ En toda sentencia de segunda instancia se declarará expresamente si hay condena
 
 ###### ARTICULO 458.
 
-En los negocios cuyo interés exceda de doscientos pesos, será admisible la apelación, dentro de los tres meses que sigan al día de la notificación de la sentencia:
-
-I.- Cuando se hubiere notificado el emplazamiento al reo por edictos y el juicio se hubiere seguido en rebeldía;
-
-II.- Cuando no estuvieren representados legítimamente el actor o el demandado o siendo incapaces, las diligencias se hubieren entendido con ellos;
-
-III.- Cuando no hubiera sido emplazado el demandado conforme a la ley;
-
-IV.- Cuando el juicio se hubiere seguido ante un Juez incompetente, no siendo prorrogable la jurisdicción.
+(DEROGADO, P.O. 3 DE MARZO DE 1955)
 
 ###### ARTICULO 459.
 
-En el caso de la fracción I del artículo anterior, la apelación se admitirá en ambos efectos y se sustanciará como previenen los artículos relativos del Capítulo anterior.
+(DEROGADO, P.O. 3 DE MARZO DE 1955)
 
 ###### ARTICULO 460.
 
-En los demás casos del artículo 458, interpuesto el recurso, el Juez, previo emplazamiento de las partes, remitirá desde luego los autos al Supremo Tribunal, y éste oirá a los interesados, siguiendo los trámites del juicio ordinario, para cuyo efecto servirá como demanda el escrito de interposición del recurso, que deberá llenar los requisitos del artículo 267.
-
-Declarada la nulidad, se remitirán los autos al Juez que corresponda para que reponga el procedimiento.
+(DEROGADO, P.O. 3 DE MARZO DE 1955)
 
 ###### ARTICULO 461.
 
-Cuando el padre que ejerza la patria potestad, el tutor o el menor en su caso, ratifiquen lo actuado, se sobreseerá el recurso, sin que pueda oponerse la contra parte.
+(DEROGADO, P.O. 3 DE MARZO DE 1955)
 
 ###### ARTICULO 462.
 
-No podrán intentar esta apelación el actor y el demandado capaces, que habiendo estado legítimamente representados en la demanda y contestación, después dejaren de estarlo.
+(DEROGADO, P.O. 3 DE MARZO DE 1955)
 
 ###### ARTICULO 463.
 
@@ -3704,7 +3692,7 @@ Vencido el término de la contestación, dentro de los tres días siguientes pod
 
 ###### ARTICULO 590.
 
-Promovida la prueba o transcurrido el término para ofrecerla, el Juez citará a las partes a un audiencia que se celebrará dentro de cinco días y en ella recibirá las ofrecidas, oirá los alegatos y pronunciará su resolución.
+Promovida la prueba o transcurrido el término para ofrecerla, el Juez citará a las partes a un (sic) audiencia que se celebrará dentro de cinco días y en ella recibirá las ofrecidas, oirá los alegatos y pronunciará su resolución.
 
 ###### ARTICULO 591.
 
@@ -6681,3 +6669,7 @@ Segundo.- La substanciación de los juicios promovidos antes de la vigencia del 
 P.O. 31 DE DICIEMBRE DE 1953.
 
 UNICO.- Estas reformas empezarán a surtir sus efectos, treinta días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 3 DE MARZO DE 1955.
+
+UNICO.- Las reformas anteriores comenzarán a surtir sus efectos treinta días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
