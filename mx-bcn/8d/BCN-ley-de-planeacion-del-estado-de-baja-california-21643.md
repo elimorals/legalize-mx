@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-planeacion-del-estado-de-baja-california-21643"
 country: "mx"
 rank: "ley"
 publication_date: "1983-06-30"
-last_updated: "1983-06-30"
+last_updated: "2001-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE PLANEACION DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PLANEACION PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL PERIODICO OFICIAL DEL 23 DE NOVIEMBRE DE 2001.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección I del Periódico Oficial, el 30 de junio de 1983.
 
@@ -480,3 +482,19 @@ DADA en el Salón de Sesiones del H. Poder Legislativo, en la ciudad de Mexicali
 DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCION I DEL ARTICULO 49 DE LA CONSTITUCION POLITICA DEL ESTADO, MANDO SE IMPRIMA, PUBLIQUE, OBSERVE Y SE LE DE EL DEBIDO CUMPLIMIENTO.
 
 MEXICALI, CAPITAL DEL ESTADO DE BAJA CALIFORNIA, A LOS VEINTIDOS DIAS DEL MES DE JUNIO DE MIL NOVECIENTOS OCHENTA Y TRES. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C. ROBERTO DE LA MADRID ROMANDIA. (Rúbrica) EL SECRETARIO GENERAL DE GOBIERNO, PROFR. MARCO ANTONIO BOLAÑOS CACHO. (Rúbrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 23 DE NOVIEMBRE DE 2001.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Planeación del Estado de Baja California, publicada en el Periódico Oficial, de fecha 30 de Junio de 1983.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
