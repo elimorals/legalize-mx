@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2004-02-17"
+last_updated: "2004-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -49,7 +49,9 @@ Los Impuestos, contribuciones especiales, derechos, productos y aprovechamientos
 
 La Ley de Ingresos establecerá anualmente los impuestos, contribuciones especiales, derechos, productos y aprovechamientos que deban recaudarse.
 
-Sólo por Ley que lo disponga expresamente, podrá dedicarse el rendimiento de un impuesto, derecho, producto o aprovechamiento, a un fin especial.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
+
+Sólo por Ley o Decreto del Congreso que así lo disponga expresamente, podrá destinarse un impuesto, derecho, producto o aprovechamiento, a un fin especial.
 
 ###### ARTICULO 3o.
 
@@ -3574,3 +3576,9 @@ P.O. 17 DE FEBRERO DE 2004.
 Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Las erogaciones a que se refiere esta reforma, que se hubieren efectuado entre el 1º de enero de 2004 y la fecha de entrada en vigor de esta reforma, quedarán sujetas a lo dispuesto por el presente Decreto.
+
+P.O. 3 DE SEPTIEMBRE DE 2004.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
