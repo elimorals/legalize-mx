@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2000-05-25"
+last_updated: "2000-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE JUNIO DE 2000.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -364,11 +364,13 @@ ARTICULO 45
 
 Por los que no se hallen en el caso del artículo anterior, comparecerán sus representantes legítimos, o los que deban suplir su incapacidad, conforme a derecho. Los ausentes e ignorados serán representados como se previene en el título XI, Libro Primero del Código Civil.
 
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, G.O. 1 DE JUNIO DE 2000)</small>
 
 ARTICULO 46
 
-Será optativo para las partes acudir asesoradas a las audiencias previas y de conciliación y de pruebas y alegatos, y en este supuesto los asesores necesariamente deberán ser licenciados en derecho, con cédula profesional y en legal ejercicio de su profesión. En caso de que una de las partes se encuentre asesorada y la otra no, el juez celebrará la audiencia correspondiente y suplirá la deficiencia de la parte que no se encuentre asesorada, procurando la mayor equidad, y lo hará del conocimiento de la defensoría de oficio para que provea a la atención de dicha parte en los trámites subsecuentes del juicio.
+Será optativo para las partes acudir asesoradas a las audiencias previas y de conciliación y de pruebas y alegatos, y en este supuesto los asesores necesariamente deberán ser licenciados en derecho, con cédula profesional y en legal ejercicio de su profesión. En caso de que una de las partes se encuentre asesorada y la otra no, el juez diferirá la audiencia correspondiente por una sola vez, y lo hará del conocimiento de la Defensoría de Oficio, para que provea a la atención de dicha parte en los trámites subsecuentes del juicio.
+
+No se requiere el diferimiento de la audiencia, cuando la audiencia sólo se refiera al desahogo de pruebas documentales, instrumentales o presuncionales.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -610,13 +612,17 @@ La reposición se substanciará incidentalmente y sin necesidad de acuerdo judic
 
 Quedan los jueces facultados para investigar de oficio la existencia de las piezas de autos desaparecidos, valiéndose para ello de todos los medios, que no sean contrarios a la moral o al derecho.
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
 ARTICULO 71
 
-El tribunal está obligado a expedir, a costa del solicitante, sin demora alguna, copia simple o fotostática de los documentos o resoluciones que obren en autos, bastando que la parte interesada lo solicite verbalmente, sin que se requiera decreto judicial, dejando constancia en autos de su recepción.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE JUNIO DE 2000)</small>
+
+El Tribunal esta obligado a expedir a costa del solicitante, sin demora alguna, copia simple o fotostática de los documentos o resoluciones que obren en autos, bastando que la parte interesada lo solicite verbalmente, sin que se requiera decreto judicial, dejando constancia en autos de su recepción. Cuando la parte que solicita lo haga a través de defensor de oficio, las copias de referencia se expedirán sin costo alguno.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
 Para obtener copia certificada de cualquier documento que obre en juicio, la parte interesada debe solicitarlo en comparecencia o por escrito, requiriéndose decreto judicial, y sólo se expedirá conforme a lo dispuesto en el artículo 331 de este código, cuando se pidiere copia o testimonio de parte de un documento o pieza. Cuando la parte interesada solicite copia certificada de uno o varios documentos completos, en ningún caso se dará vista a la contraria. Al entregarse las copias certificadas, el que las reciba debe dejar razón y constancia de su recibo, en el que señale las copias que reciba.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
 Para obtener copia o testimonio de cualquier documento que se encuentre en archivos o protocolos que no están a disposición del público, aquél que pretenda lograrlo y carezca de legitimación en el acto contenido en el documento, requiere de decreto judicial, que no se dictará sino con conocimiento de causa y audiencia de parte, procediéndose incidentalmente, en caso de oposición.
 
@@ -926,11 +932,13 @@ Si la parte a quien se le entregue un exhorto, para los fines que se precisan en
 
 ### CAPITULO V. De las notificaciones
 
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
-
 ARTICULO 110
 
-Los notificadores deberán practicar las notificaciones dentro de los tres días siguientes al en que reciban el expediente o las actuaciones correspondientes, salvo que el juez o la ley dispusieran otra cosa. Los infractores de esta disposición serán destituidos de su cargo cuando reincidan por más de tres ocasiones, sin responsabilidad para el Tribunal Superior de Justicia del Distrito Federal, previa audiencia de defensa ante el juez o magistrado correspondiente.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE JUNIO DE 2000)</small>
+
+Los notificadores deberán practicar las notificaciones apegándose a las disposiciones contenidas en el artículo 116 de este ordenamiento, dentro de los tres días siguientes al en que se reciban el expediente o las actuaciones correspondientes, salvo que el juez o la ley dispusiera otra cosa. Los infractores de esta disposición serán destituidos de su cargo cuando reincidan por más de tres ocasiones, sin responsabilidad para el Tribunal Superior de Justicia del Distrito Federal, previa audiencia de defensa ante el Consejo de la Judicatura.
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 Para los anteriores efectos, se llevará un registro diario de los expedientes o actuaciones que se les entreguen debiendo recibirlos bajo su firma y devolverlos dentro del plazo señalado.
 
@@ -1084,7 +1092,9 @@ Procede la notificación por edictos:
 
 I.- Cuando se trate de personas inciertas;
 
-II.- Cuando se trate de personas cuyo domicilio se ignora, previo informe de la policía preventiva; en este caso el juicio deberá seguirse con los trámites y solemnidades a que se refiere el Título Noveno de este código.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE JUNIO DE 2000)</small>
+
+II. Cuando se trate de personas cuyo domicilio se ignora, previo informe de una institución que cuente con registro oficial de personas; en este caso el juicio deberá seguirse con los trámites y solemnidades a que se refiere el título noveno de este código;
 
 En los casos de las dos fracciones que preceden, los edictos se publicarán por tres veces, de tres en tres días, en el Boletín Judicial y en el periódico local que indique el juez, haciéndose saber que debe presentarse el citado dentro de un término que no será inferior a quince días ni excederá de sesenta días; y
 
@@ -1940,11 +1950,11 @@ En la misma resolución ordenará la notificación al otro cónyuge, previniénd
 
 El juez, tomando en cuenta las circunstancias del caso, decretará quién de los cónyuges permanecerá en el domicilio conyugal.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, G.O. 1 DE JUNIO DE 2000)</small>
 
 ARTICULO 213
 
-El juez determinará la situación de los hijos menores atendiendo a las circunstancias del caso, tomando en cuenta las obligaciones señaladas en el artículo 165 del Código Civil, las propuestas de los cónyuges, si las hubiere y lo dispuesto por la fracción VI del artículo 282 del mismo Código Civil.
+El juez determinará la situación de los hijos menores atendiendo a las circunstancias del caso, tomando en cuenta las obligaciones señaladas en los artículos 303 y 311 Quáter del Código Civil, las propuestas de los cónyuges, si las hubiere y lo dispuesto en las fracciones V y VI del artículo 282, del mismo Código Civil.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -2862,7 +2872,7 @@ En caso de impugnación de falsedad de un documento, se observará lo dispuesto 
 
 ### CAPITULO V. De la forma escrita en la recepción de pruebas
 
-(DEROGADO, D.O.F. 14 DE MARZO DE 1973))
+> <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 #### SECCION IV. Prueba pericial
 
@@ -2900,7 +2910,9 @@ En el supuesto de que el perito designado por alguna de las partes, que haya ace
 
 En los casos a que se refiere el párrafo anterior, el juez sancionará a los peritos omisos con multa equivalente a sesenta días de salario mínimo general vigente en el Distrito Federal;
 
-VII.- Las partes quedan obligadas a pagar los honorarios de los peritos que hayan nombrado, así como a presentarlos cuantas veces sea necesario al juzgado. También quedarán obligadas a presentar el dictamen pericial dentro del plazo señalado, debiendo presentar los peritos el original de su cédula profesional, o de los documentos anexados a sus escritos de aceptación y protesta del cargo;
+> <small>(REFORMADA, G.O. 1 DE JUNIO DE 2000)</small>
+
+VIl.- Las partes quedan obligadas a pagar los honorarios de los peritos que hayan nombrado, a excepción de lo que establece el último párrafo del artículo 353, así como a presentarlos cuantas veces sea necesario al juzgado. También quedarán obligadas a presentar el dictamen pericial dentro del plazo señalado, debiendo presentar los peritos el original de su cédula profesional, o de los documentos anexados a sus escritos de aceptación y protesta del cargo;
 
 VIII.- Las partes en cualquier momento podrán convenir en la designación de un solo perito para que rinda su dictamen al cual se sujetarán, y
 
@@ -2988,7 +3000,13 @@ En el supuesto de que alguna de las partes no exhiba el avalúo a que se refiere
 
 Cuando el juez lo estime necesario, podrá designar a algún corredor público, institución de crédito, al Nacional Monte de Piedad o a dependencias o entidades públicas que practican avalúos.
 
-En todos los casos en que el tribunal designe a los peritos, los honorarios de éstos se cubrirán por mitad por ambas partes, y aquélla que no pague lo que le corresponde será apremiada por resolución que contenga ejecución y embargo en sus bienes. En el supuesto de que alguna de las partes no cumpla con su carga procesal de pago de honorarios al perito designado por el juez, dicha parte incumplida perderá todo derecho para impugnar el peritaje que se emita por dicho tercero.
+> <small>(REFORMADO, G.O. 1 DE JUNIO DE 2000)</small>
+
+En los casos en que el Tribunal designe a los peritos únicos o terceros en discordia, los honorarios de éstos se cubrirán por mitad por ambas partes, observando lo establecido en el párrafo siguiente, y aquella que no pague lo que le corresponde será apremiada por resolución que contenga ejecución y embargo en sus bienes.
+
+> <small>(ADICIONADO, G.O. 1 DE JUNIO DE 2000)</small>
+
+Cuando la parte que promueve lo haga a través de la Defensoría de Oficio y ésta no cuente con el perito solicitado, el juez previa la comprobación de dicha circunstancia, nombrará un perito oficial de alguna institución pública que cuente con el mismo; cuando dichas instituciones no cuenten con el perito requerido, el juez nombrará perito en términos del primer párrafo del presente artículo, proveyendo al perito lo necesario para rendir su dictamen, así como en el caso de que se nombre perito tercero.
 
 (REUBICADA, D.O.F. 14 DE MARZO DE 1973)
 
@@ -4640,7 +4658,7 @@ ARTICULO 603
 
 El juez que reciba despacho u orden de su superior para ejecutar cualquiera diligencia, es mero ejecutor y en consecuencia no dará curso a ninguna excepción que opongan los interesados, y se tomará simplemente razón de sus respuestas en el expediente, antes de devolverlo.
 
-> <small>(ADICIONADO Y SU DENOMINACION, D.O.F. 7 DE ENERO DE 1988)</small>
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
 ### CAPITULO I. Procedimiento estando ausente el rebelde
 
@@ -7286,11 +7304,13 @@ Esta disposición no es aplicable a los casos de divorcio o de pérdida de la pa
 
 Tratándose de violencia familiar prevista en el artículo 323 ter del Código Civil para el Distrito Federal en materia común y para toda la República en materia federal, el juez exhortará a los involucrados en audiencia privada, a fin de que convengan los actos para hacerla cesar y, en caso de que no lo hicieran, en la misma audiencia el juez del conocimiento determinará las medidas procedentes para la protección de los menores y de la parte agredida. Al efecto, verificará el contenido de los informes que al respecto hayan sido elaborados por las instituciones públicas o privadas que hubieren intervenido y escuchará al Ministerio Público.
 
-> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 1973)</small>
-
 ARTICULO 943
 
-Podrá acudirse al Juez de lo Familiar por escrito o por comparecencia personal en los casos urgentes a que se refiere el artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate. Con las copias respectivas de esa comparecencia y de los documentos que en su caso se presenten se correrá traslado a la parte demandada, la que deberá comparecer, en la misma forma dentro del término de nueve días. En tales comparecencias las partes deberán ofrecer las pruebas respectivas. Al ordenarse ese traslado, el juez deberá señalar día y hora para la celebración de la audiencia respectiva. Tratándose de alimentos, ya sean provisionales o los que se deban por contrato, por testamento o por disposición de la ley, el juez fijará a petición del acreedor, sin audiencia del deudor y mediante la información que estime necesaria, una pensión alimenticia provisional, mientras se resuelve el juicio.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE JUNIO DE 2000)</small>
+
+Podrá acudirse al juez de lo Familiar por escrito o por comparecencia personal en los casos urgentes a que se refiere el artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate. Las copias respectivas de la comparecencia y demás documentos, serán tomados como pruebas, debiendo relacionarse en forma pormenorizada con todos y cada uno de los hechos narrados por el compareciente, así como los medios de prueba que presente, haciéndole saber el Juez al interesado que puede contar con el patrocinio de un defensor de oficio para conocer de su procedimiento y como consecuencia, éste ordenará dar parte a la institución de Defensoría de Oficio para que, en su caso, asesore o patrocine a éste. Una vez hecho lo anterior se correrá traslado, a la parte demandada, la que deberá comparecer, en la misma forma dentro del término de nueve días. En tales comparecencias las partes deberán ofrecer las pruebas respectivas. Al ordenarse ese traslado, el juez deberá señalar día y hora para la celebración de la audiencia respectiva. Tratándose de alimentos, ya sean provisionales o los que se deban por contrato, por testamento, o por disposición de la ley, el juez fijará a petición del acreedor, sin audiencia del deudor y mediante la información que estime necesaria, una pensión alimenticia provisional, mientras se resuelve el juicio.
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 Será optativa para las partes acudir asesoradas, y en este supuesto, los asesores necesariamente deberán ser Licenciados en Derecho, con cédula profesional. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un Defensor de Oficio, el que deberá acudir, desde luego, a enterarse del asunto, disfrutando de un término que no podrá exceder de tres días para hacerlo, por cuya razón se diferirá la audiencia en un término igual.
 
@@ -8221,3 +8241,7 @@ G.O. 25 DE MAYO DE 2000.
 Artículo Primero.- El presente Decreto entrará en vigor el primero de junio del año 2000.
 
 Artículo Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 1 DE JUNIO DE 2000.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
