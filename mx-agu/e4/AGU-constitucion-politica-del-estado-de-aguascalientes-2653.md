@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1968-09-22"
+last_updated: "1973-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 1968.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 1973.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -131,19 +131,15 @@ Son habitantes del Estado, las personas que residen en su territorio.
 
 La residencia no se pierde por ausencia en el desempeño de cargos públicos de elección popular o de comisiones oficiales del Estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1973)</small>
 
 ###### Artículo 12.
 
 Son derechos de los habitantes del Estado, varones y mujeres:
 
-I.- Votar en las elecciones populares, si son ciudadanos mexicanos en ejercicio de sus derechos, a excepción de los ministros de algún culto o de los que pertenezcan al estado eclesiástico.
+I.- Votar en las elecciones populares, si son ciudadanos mexicanos en ejercicio de sus derechos y tienen una residencia en el Estado no menor de seis meses;
 
-Para el ejercicio de este derecho, los habitantes necesitan tener una residencia en el Estado, no menor de seis meses, y
-
-II.- Ser votado en las elecciones populares y desempeñar cualquier empleo del Estado, cuando, además de los requisitos que fija la fracción anterior, el individuo reúna las condiciones que esta Constitución o la Ley relativa, exijan para cada caso.
-
-Los originarios del Estado serán preferidos para el desempeño de cualquier empleo público.
+II.- Ser votado en las elecciones populares y desempeñar cualquier empleo del Estado, cuando, además de los requisitos que fija la fracción anterior, el individuo reúna las condiciones que esta Constitución o la ley relativa, exijan para cada caso.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -189,15 +185,15 @@ El Congreso del Estado se integrará con Diputados electos cada tres años, por 
 
 Los ciudadanos a quienes las Juntas Computadoras de las Cabeceras del Distrito Electoral expidan credenciales por haber obtenido mayoría de votos para Diputados, instalados en Colegio Electoral, calificarán la elección, declarando quiénes son Diputados conforme a la Ley. Esta declaratoria y todos los demás actos del Congreso en funciones de Colegio Electoral son irrevocables.
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 1962)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1973)</small>
 
 ###### Artículo 17.
 
-Por cada treinta mil habitantes o fracción mayor de quince mil, se elegirán un Diputado Propietario y un Suplente, tomando siempre como base, el último censo nacional.
+Por cada cincuenta mil habitantes o fracción mayor de veinticinco mil, se elegirán un diputado propietario y un suplente, tomando siempre como base el último censo nacional.
 
-Nunca el número de Diputados será menor de siete.
+Nunca el número de diputados será menor de ocho.
 
-El Ejecutivo fijará la circunscripción de los Distritos Electorales y sus Cabeceras
+El Ejecutivo fijará la circunscripción de los distritos electorales y sus cabeceras
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -207,17 +203,25 @@ Los diputados no podrán ser reelectos para el período inmediato.
 
 Los Suplentes podrán ser electos para el período inmediato, con el carácter de Propietarios, siempre que no hubieren estado en ejercicio; pero los Propietarios no podrán ser electos para el período inmediato, con el carácter de Suplentes.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 1973)</small>
 
 ###### Artículo 19.
 
-Para ser Diputado se requiere:
+Para ser diputado se requiere:
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 1950)</small>
 
 I.- Ser ciudadano mexicano, por nacimiento, en ejercicio de sus derechos.
 
-II.- Tener veinticinco años cumplidos el día de la elección.
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1973)</small>
+
+II.- Tener veintiún años cumplidos el día de la elección;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 1950)</small>
 
 III.- Haber terminado la instrucción primaria.
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 1950)</small>
 
 IV.- Ser originario del Estado o tener una residencia en él no menor de seis meses inmediatamente anteriores al día de la elección.
 
@@ -271,13 +275,13 @@ El Congreso tendrá cada año dos períodos ordinarios de sesiones, uno del diec
 
 El Congreso, fuera de los períodos que señala el artículo anterior, celebrará sesiones extraordinarias cuando para ello fuere convocado por la Diputación Permanente; pero se limitará a conocer de los asuntos comprendidos en la convocatoria.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1973)</small>
 
 ###### Artículo 26.
 
 El Congreso no podrá ejercer sus funciones sin la concurrencia de más de la mitad del número total de sus miembros.
 
-Los Diputados deben presentarse al Recinto Oficial el día señalado por la Ley, el Reglamento Interior del Congreso o la Convocatoria. Los que no se presenten serán conminados para que concurran dentro de un término de diez días, bajo el apercibimiento de cesar en sus cargos, previa declaración del Congreso, a menos que exista causa justificada que calificará el propio Congreso. En la hipótesis prevista, serán llamados los Suplentes a quienes podrá aplicarse la misma sanción si no concurren y en su caso se convocará a nuevas elecciones.
+Los diputados deben presentarse al recinto oficial el día señalado por la Ley o la convocatoria. Los que no se presenten serán conminados para que concurran dentro de un término de diez días, bajo el apercibimiento de cesar en sus cargos, previa declaración del Congreso, a menos que exista causa justificada que calificará el propio Congreso. En la hipótesis prevista, serán llamados los suplentes a quienes podrá aplicarse la misma sanción si no concurren y en su caso se convocará a nuevas elecciones.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -369,7 +373,9 @@ Durante los recesos del Congreso funcionará una Diputación Permanente, integra
 
 La Diputación Permanente tendrá las siguientes facultades:
 
-I.- Dictaminar sobre toods (sic) los asuntos que hayan quedado sin resolución en los expedientes, a fin de que en el inmediato período de sesiones sigan tramitándose.
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1973)</small>
+
+I.- Admitir los proyectos de ley o de decreto que se le presenten para que el Congreso les dé curso en el período inmediato.
 
 II.- Despachar los asuntos de mero trámite.
 
@@ -427,17 +433,17 @@ Las votaciones serán nominales.
 
 El Ejecutivo del Estado no podrá vetar las resoluciones del Congreso cuando éste actúe como Colegio Electoral o como Gran Jurado. Tampoco podrá hacerlo respecto de los Decretos que expida la Diputación Permanente convocando al Congreso a períodos extraordinarios de sesiones.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1973)</small>
 
 ###### Artículo 33.
 
-Todo proyecto de Ley o Decreto que fuere desechado por el Congreso, no podrá volver a presentarse sino después del período ordinario siguiente.
+La iniciativa que sea desechada por el Congreso, no podrá volver a presentarse sino hasta el siguiente período ordinario.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1973)</small>
 
 ###### Artículo 34.
 
-En casos urgentes a juicio del Congreso, podrán dispensarse los trámites que establezca el Reglamento Interior, procediéndose desde luego a la discusión y votación de la iniciativa.
+En casos urgentes a juicio del Congreso, sin omitir ningún trámite, las resoluciones sobre las iniciativas se darán en razón de la premura indicada.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -543,15 +549,21 @@ II.- Presentar cada año al Congreso a más tardar el día quince de diciembre, 
 
 III.- Asistir a la apertura de los períodos ordinarios de sesiones del Congreso;
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1964)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1973)</small>
 
-IV.- Informar anualmente al Congreso sobre el estado general de la Administración, en sesión especial convocada para ese objeto, dentro del término de cuarenta y cinco días contados a partir del día dieciséis de septiembre, en que se inicia el primer período ordinario de sesiones.
+IV.- Informar anualmente al Congreso al iniciarse el primer período ordinario de sesiones, sobre el estado general de la administración.
 
 V.- Pedir y dar informes al Congreso sobre cualquier ramo de la Administración, y al Supremo Tribunal sobre el de Justicia;
 
 VI.- Reconocer, cuando después de una elección se instale más de un Cuerpo Legislativo, cuál es el que representa la legalidad; y cuando estuviere dividido el Congreso en varios grupos, al que tenga quórum legal;
 
-VII.- Celebrar convenios, con aprobación del Congreso sobre límites con los Estados vecinos;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1973)</small>
+
+VII.- Celebrar convenios:
+
+a).- De coordinación con las Secretarías de Estado.
+
+b).- Sobre límites con los Estados vecinos previa aprobación del Congreso.
 
 VIII.- Concertar empréstitos en los términos de la fracción V del artículo 27 de esta Constitución;
 
@@ -657,11 +669,11 @@ Si fueren rechazados, el Gobernador, dentro de igual término, enviará ternas a
 
 Los Juzgados estarán a cargo de Jueces que nombrará el Supremo Tribunal de Justicia, en número, categoría y denominación que establezca la Ley Orgánica del Poder Judicial, la que también fijará los requisitos necesarios para ocupar esos cargos.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1973)</small>
 
 ###### Artículo 56.
 
-Los Magistrados y Jueces serán inamovibles. Sólo podrán ser privados de sus cargos por mala conducta debidamente comprobada en los términos de la Ley Orgánica del Poder Judicial, o previo juicio de responsabilidad.
+Los magistrados y jueces sólo podrán ser privados de sus cargos por mala conducta debidamente comprobada en los términos de la Ley Orgánica del Poder Judicial, o previo juicio de responsabilidad.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -763,19 +775,31 @@ El Municipio es libre en su régimen interior. Será administrado por un Ayuntam
 
 Los Ayuntamientos se compondrán del número de Regidores y Síndicos que prevenga la Ley; residirán en las cabeceras de los Municipios y serán presididos por el Primer Regidor, quien a la vez tendrá el carácter de Presidente Municipal. Este funcionario es política y administrativamente el representante del Ayuntamiento y del Municipio.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1973)</small>
 
 ###### Artículo 68.
 
-Para ser Regidor o Síndico de un Ayuntamiento se requiere:
+Para ser regidor o síndico de un ayuntamiento se requiere:
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 1950)</small>
 
 I.- Ser ciudadano mexicano por nacimiento, en ejercicio de sus derechos;
 
-II.- Tener veinticinco años cumplidos el día de la elección; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1973)</small>
 
-III.- Ser originario del Estado o tener una residencia en el Municipio correspondiente, no menor de dos años inmediatamente anteriores a la elección.
+II.- Tener veintiún años cumplidos el día de la elección.
 
-No podrán ser electos Regidor o Síndicos, las personas que se encuentren comprendidas en los casos a que se refiere el artículo 20 de esta Constitución.
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1973)</small>
+
+III.- Haber terminado la instrucción primaria.
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 1973)</small>
+
+IV.- Ser originario del municipio o tener una residencia en él no menor de dos años inmediatamente anteriores a la elección.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1973)</small>
+
+No podrán ser electas regidores o síndicos, las personas que se encuentren comprendidas en los casos a que se refiere el artículo 20 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1065,7 +1089,7 @@ El presente decreto surtirá sus efectos desde la fecha de su expedición.
 
 P.O. 8 DE DICIEMBRE DE 1929.
 
-DECRETO NÚMERO 192, POR EL QUE SE REFORMAN LOS ARTÍCULOS 15, 16 Y 30 DE LA CONSTITUCIÓN POLÍTICA LOCAL..
+DECRETO NÚMERO 192, POR EL QUE SE REFORMAN LOS ARTÍCULOS 15, 16 Y 30 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
 ###### Artículo 3o.
 
@@ -1147,7 +1171,7 @@ P.O. 23 DE MAYO DE 1954.
 
 DECRETO NÚMERO 18, POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 46 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 23 DE MAYO DE 1954.
 
@@ -1165,7 +1189,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 25 DE FEBRERO DE 1962.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 23 DE AGOSTO DE 1964.
 
@@ -1180,3 +1204,7 @@ P.O. 22 DE SEPTIEMBRE DE 1968.
 ###### Artículo 2o.
 
 El presente Decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JULIO DE 1973.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
