@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-6947"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-12-01"
-last_updated: "2001-07-20"
+last_updated: "2003-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6947&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,59 +21,271 @@ state: "OAX"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
+LEY DE FOMENTO AL TURISMO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2016..
 
-Ley publicada en el Periódico Oficial del Estado de Oaxaca, el 1° de diciembre de 1992.
+Ley publicada en la Sección Cuarta del Periódico Oficial del Gobierno del Estado de Nayarit, el miércoles 4 de mayo de 2005.
 
-DECRETO No. 20 APROBADO POR LA QUINCUAGESIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL ESTADO, QUE CONTIENE LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA.
+C.P. ANTONIO ECHEVARRÍA DOMÍNGUEZ, Gobernador Constitucional del Estado Libre y Soberano de Nayarit, a los habitantes del mismo, sabed:
 
-D E C R E T O No. 20
+Que el H. Congreso Local, se ha servido dirigirme para su promulgación, el siguiente:
 
-LIC. DIODORO CARRASCO ALTAMIRANO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
+Decreto numero 8627
 
-LA QUINCUAGESIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA.
+El H. Congreso del Estado Libre y Soberano de Nayarit representado por su XXVII Legislatura
 
-D E C R E T A :
+DECRETA:
 
-LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
+LEY DE FOMENTO AL TURISMO DEL ESTADO DE NAYARIT
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPÍTULO I. Disposiciones Generales
 
-###### ARTICULO 1.
+###### ARTICULO 1°.
 
-La presente Ley tiene por objeto, regular la Organización y Funcionamiento de la Administración Pública del Estado de Oaxaca.
+La presente ley es de orden público y de interés social, teniendo como objetivo primordial regular la organización, fomento y desarrollo de la actividad turística en el estado, con la intervención y coordinación que corresponda a las instituciones públicas estatales, municipales y federales, las organizaciones sociales del ramo y los particulares.
 
-###### ARTICULO 2.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
-Para el ejercicio de sus atribuciones el Poder Ejecutivo tendrá el auxilio de las Dependencias de la Administración Pública Centralizada y de las Entidades de la Administración Pública Paraestatal, previstas por la Constitución Política del Estado de Oaxaca, la presente Ley, el Presupuesto de Egresos y las demás disposiciones legales relativas.
+###### ARTICULO 2°.
 
-###### ARTICULO 3.
+La aplicación e interpretación de esta ley corresponde al Ejecutivo del Estado por conducto de la dependencia del ramo y a los ayuntamientos.
 
-Integran la Administración Pública Centralizada la Gubernatura del Estado, las Secretarías, la Procuraduría General de Justicia y la Contraloría General.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2012)</small>
 
-###### ARTICULO 4.
+###### ARTICULO 3°.
 
-La Administración Pública Paraestatal está formada por Organismos Descentralizados, Empresas de participación Estatal y aquellas entidades que por su naturaleza no están comprendidas dentro de la Administración Pública Centralizada.
+Esta Ley tiene como objeto general lo siguiente:
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 1996)</small>
+I. Aprovechar racionalmente los atractivos y recursos turísticos del estado, conservando y preservando, el medio ambiente, el equilibrio ecológico y la armonía social en beneficio de la población.
 
-###### ARTICULO 5.
+II. Lograr que la actividad turística contribuya al desarrollo del resto de las actividades económicas así como a la atención de las necesidades sociales y culturales de sus centros, áreas de influencia y en general del estado.
 
-Las Secretarías, la Procuraduría General de Justicia y la Controlaría General, tendrán igual rango y entre ellas no habrá preminencia (sic) alguna; sus titulares ejercerán las funciones de su competencia encomendadas por la Constitución Política del Estado, esta Ley, y demás que le señalen otros decretos, reglamentos, acuerdos y convenios, a partir de la fecha de la toma de posesión del cargo. Así también podrán suscribir los instrumentos jurídicos necesarios para el cumplimiento de sus atribuciones y las que por acuerdo del Ejecutivo del Estado les sean delegadas.
+III. Planificar y programar el desarrollo turístico de la entidad en el marco del sistema estatal de planeación.
 
-###### ARTICULO 6.
+IV. Establecer la coordinación con las entidades federativas y los municipios para la aplicación y cumplimiento de esta ley.
 
-El Gobernador del Estado podrá autorizar mediante Acuerdo o Decreto la creación, supresión o fusión de las Unidades Administrativas de las Dependencias Centrales que requiere la Administración Pública, asignándoles las funciones correspondientes.
+V. Orientar y auxiliar a los turistas nacionales y extranjeros.
 
-###### ARTICULO 7.
+VI. Optimizar la calidad de los servicios turísticos.
 
-El Ejecutivo del Estado, podrá convenir con el Ejecutivo Federal, con otras Entidades Federativas, con los Ayuntamientos y con los Particulares, la prestación de servicios, la ejecución de obras o la realización de cualquier otro propósito de beneficio colectivo, o bien concesionarlas a los sectores social o privado en los términos de las disposiciones legales aplicables.
+VII. Fomentar la inversión en esta materia, de capitales locales, y extranjeros en base a nuestro marco jurídico.
 
-###### ARTICULO 8.
+VIII. Estimular y apoyar a las empresas y prestadores de servicios turísticos que amplié y mejoren la calidad de sus servicios y que generen mayores empleos, así como a quienes realicen nuevas inversiones que impulsen al turismo.
 
-Los Titulares de las Dependencias y Entidades de la Administración Pública, se coordinarán con el Secretario General de Gobierno para proveer y dar cumplimiento, a los compromisos contraídos en la atención de los asuntos de Política Interna.
+IX. Propiciar los mecanismos para la participación del sector privado y social en el cumplimiento de esta ley.
+
+X. Establecer las medidas pertinentes para lograr que el gobierno del estado y los ayuntamientos cuenten con mayores recursos para impulsar el desarrollo turístico.
+
+XI. Garantizar a las personas con discapacidad la igualdad de oportunidades dentro de los programas de desarrollo del sector turismo.
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XII. Elaborar los planes y programas de uso del suelo, ordenamiento urbano y territorial, y los demás que sean necesarios para el desarrollo turístico sustentable, por los niveles de gobierno a que corresponda.
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XIII. Identificar y definir zonas y áreas sobre todo en las playas costeras, para el turismo social y el gran turismo, en el mismo tenor atendiendo la legislación aplicable y en coordinación con la autoridad competente garantizar los accesos correspondientes a los sitios antes referidos.
+
+XIV. Promover el turismo en general propugnando por la preservación de la riqueza turística, por la generación de empleo, por lograr una mayor captación de divisas y derrama económica, para el beneficio de la población en su conjunto, así como de las empresas y prestadores de servicios turísticos y por una mayor captación de recursos por parte del sector gobierno para el mejor cumplimiento de sus fines.
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XV. Impulsar el desarrollo sustentable a través del Turismo de Naturaleza y cultural atendiendo las modalidades de gran turismo, accesible y social;
+
+XVI. Propugnar por la implantación de estilos arquitectónicos armónicos en las zonas y centros de atracción turística.
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
+XVII. Establecer la participación estatal y de los Ayuntamientos en la operación de las Zonas de Desarrollo Turístico Sustentable, y
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
+
+XVIII. La capacitación de personas dedicadas a la prestación de servicios turísticos.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
+
+###### ARTICULO 4°.
+
+Para los efectos de esta Ley, se considera como:
+
+I. Consejo: El Consejo Consultivo Estatal de Turismo;
+
+II. Consejo Municipal: Los Consejos Consultivos Municipales de Turismo en el Estado;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+III. Desarrollo Sustentable: El proceso constante, sostenido y evaluable mediante criterios e indicadores de carácter ambiental, económico y social, que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, garantizando la funcionalidad ecosistémica de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
+
+IV. Prestadores de Servicios Turísticos: Las personas físicas o morales que proporcionen, intermedien o contraten con el turista la prestación de los servicios turísticos, considerados en esta Ley de Fomento al Turismo dentro del Estado;
+
+V. Recursos Turísticos: Son todos los elementos naturales o artificiales de un lugar o región que constituye un atractivo para la actividad turística;
+
+VI. Ruta Turística.- El circuito temático o geográfico que se basa en un patrimonio natural o cultural de una zona y se marca sobre el terreno o aparece en los mapas;
+
+VII. Secretaría: La Secretaría de Turismo del Estado de Nayarit;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+VIII. Turismo Sustentable.- Aquél que cumple con dar un uso sustentable a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos; aquel que respeta la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos naturales, culturales, sus valores tradicionales y arquitectónicos; y aquel, que asegura el desarrollo de las actividades económicas viables, que obtengan beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida de sus habitantes; con equilibrio entre economía-sociedad-ambiente, garantizando la funcionalidad ecosistémica;
+
+IX. Turista: La persona que temporalmente viaja fuera de su lugar de residencia habitual y que utiliza o disfruta dentro del estado algún servicio turístico referido en la presente ley, y
+
+X. Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio nacional, claramente ubicadas y delimitadas geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico y que se establecen mediante declaratoria específica emitida en los términos de la Ley General de Turismo.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
+
+ARTICULO 4° A.- Se consideran servicios turísticos los prestados por:
+
+I. Agencias, sub-agencias, operadores, comisionistas, mayoristas de viajes;
+
+II. Guías de turistas;
+
+III. Empresas de sistemas de intercambio de servicios turísticos;
+
+IV. Arrendadoras de automóviles y transportadoras terrestres exclusivas de Turismo;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+V. Empresas que ofrezcan actividades de ecoturismo;
+
+VI. Organizadores de congresos, convenciones, ferias, exposiciones y reuniones de grupos de trabajo o capacitación que generen flujos de Turismo;
+
+VII. Las personas o empresas que realicen actividades educativas y culturales que atiendan preponderantemente al turista, y
+
+VIII. Las personas o empresas que presten servicios turísticos en cualquiera de sus modalidades.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
+
+ARTICULO 4° B.- Se consideran servicios turísticos los prestados en:
+
+I. Hoteles, moteles, albergues, casas de huéspedes y demás establecimientos de hospedaje, así como campamentos y paradores de casas rodantes que presten servicios a Turistas;
+
+II.- Museos, galerías de arte, monumentos coloniales e históricos y zonas arqueológicas;
+
+III.- Parques acuáticos, parques temáticos, balnearios, clubes náuticos, playas y otros centros de recreación que presten servicios a Turistas, y
+
+IV.- Restaurantes, cafeterías, bares, centros nocturnos y similares, así como en terminales de transporte aéreas, terrestres y marítimas, zonas con atractivo natural y en general los que son ofrecidos dentro de cualquier zona turística.
+
+###### ARTÍCULO 5°.
+
+Las dependencias y entidades de la Administración Pública Estatal y Municipal participarán con la Secretaría en el cumplimiento y aplicación de esta Ley, cuando así se requiera.
+
+El ejecutivo, por medio de la secretaría, promoverá la difusión y promoción dentro o fuera del territorio de la entidad, de los atractivos, servicios, apoyos, estímulos y eventos turísticos que ofrece el estado.
+
+###### ARTICULO 6°.
+
+Con el objeto de apoyar la afluencia turística hacia el estado, así como el desarrollo de proyectos y la presentación de servicios de la materia, el Ejecutivo estatal promoverá la realización de las siguientes acciones:
+
+I. Implementación de programas y acciones específicas de promoción y difusión turística en el ámbito regional, nacional e internacional, a efecto de incrementar la afluencia turística a los centros y zonas de atracción turística del estado.
+
+II. Dotación de los servicios públicos y de la infraestructura necesaria
+
+III. Atención y gestión a las necesidades de vivienda, adiestramiento y capacitación de los empleados y trabajadores de centros turísticos.
+
+IV. Las demás que se consideren como necesarias o complementarias de las anteriores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+El Gobernador impulsará el desarrollo de programas específicos de turismo social y capacitación en desarrollo turístico sustentable, en coordinación con los gobiernos municipales.
+
+###### ARTICULO 7°.
+
+La Secretaría, además de las atribuciones señaladas en la Ley Orgánica del Poder Ejecutivo, tendrá las siguientes:
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+I. La Secretaría gestionará ante las autoridades correspondientes el otorgamiento de facilidades, beneficios y estímulos a los inversionistas de la actividad turística, aprovechando los mecanismos ya existentes, para aquellos prestadores de servicios turísticos que inviertan en la actividad, impulsando el desarrollo turístico sustentable;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
+II. Presentar ante la Secretaría de Turismo Federal proyectos de declaratoria de Zonas de Desarrollo Turístico Sustentable;
+
+III. Coadyuvar en las acciones de los sectores social y privado para la prestación de servicios turísticos;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
+IV. Diseñar y ejecutar el Plan Rector sectorial en materia Turística, en los términos de esta Ley y su Reglamento;
+
+V. Llevar el registro y control de los prestadores de servicios turísticos considerados en esta ley y expedir la Cédula Estatal de calidad turística;
+
+VI. Suscribir convenios de colaboración con otras dependencias y entidades públicas, con los sectores social y privado, para la realización de programas y acciones específicas relativas al objeto de esta ley;
+
+VII. Ejecutar los convenios que en materia turística celebre el estado con la Federación y los municipios:
+
+VIII. Regular, controlar y supervisar, de acuerdo con las leyes y reglamentos, los servicios turísticos no sujetos a la competencia de la Federación, respetando el ámbito de acción de los Ayuntamientos.
+
+IX. Proponer ante quien corresponda y previa elaboración de los proyectos, el otorgamiento de permisos y concesiones de acuerdo con la legislación vigente, para la explotación y establecimiento de negocios, centros, zonas y lugares turísticos;
+
+X. Coordinar las acciones de información y difusión turística que realice el estado y auxiliar a los organismos públicos, sociales y privados que lo soliciten en la preparación de materiales y difusión turística:
+
+XI. Realizar una labor permanente de edición, promoción y difusión tanto de los centros y lugares turísticos, como de los valores culturales del estado considerados estos como atractivos turísticos:
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XII. Promover el turismo en general que propicien el desarrollo económico, social y cultural de los centros y zonas turísticas de la Entidad, preservando el patrimonio turístico, el medio ambiente, la biodiversidad y la funcionalidad de los ecosistemas;
+
+XIII. Proponer a los gobiernos municipales convenios de colaboración conjunta en materia de promoción y fomento al turismo;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
+XIV. Proporcionar asesoría y apoyo a los Prestadores de Servicios Turísticos, así como a los ayuntamientos que lo soliciten;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XV. Facilitar la integración de las comunidades rurales y serranas a proyectos turísticos sustentables, de acuerdo con las propuestas que presenten los gobiernos municipales;
+
+XVI. Promover la señalización turística en las vías públicas y las carreteras, así como la difusión de imágenes turísticas en los vehículos del servicio público;
+
+XVII. Recibir quejas y sugerencias sobre la prestación de servicios turísticos en el estado y coadyuvar con los Ayuntamientos, en el propósito de mejorar la protección al turista;
+
+XVIII. Imponer las sanciones administrativas que esta ley señale sin perjuicio de las previstas en otros ordenamientos;
+
+XIX. Coordinar el programa sectorial, turístico, que se sujetará a lo previsto en el Plan Estatal de Desarrollo, cumpliendo con las tareas que le correspondan en el marco de la Ley de Planeación del Estado de Nayarit y en congruencia con el Plan Nacional de Desarrollo y el programa sectorial de turismo nacional, y (sic)
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XX. Promover en coordinación con la Secretaría de Educación, el patrimonio natural, histórico, artístico, arqueológico y cultural del Estado;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
+
+XXI. Coordinarse con la Secretaría de Turismo Federal y la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, para el desarrollo integral de la pesca deportivo-recreativa en el Estado, en términos de la legislación de la materia;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
+
+XXII. Requerir a los Ayuntamientos los datos económicos y demás información estadística que generen en materia de Turismo;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XXIII. Participar en la regulación, administración y vigilancia de las Zonas de Desarrollo Turístico Sustentable en los Municipios del Estado, conforme a los convenios que al efecto se suscriban;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XXIV. Coadyuvar con el titular del Poder Ejecutivo del Estado en la aplicación de los instrumentos de política ambiental y de cambio climático, en materia de turismo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XXV. Colaborar con la Secretaría del Trabajo, Productividad y Desarrollo Económico en las acciones tendientes a fortalecer y promover las micro, pequeñas y medianas empresas turísticas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XXVI. Participar con las dependencias y entidades de la Administración Pública, para impulsar proyectos productivos y de inversión turística, que cumplan con las disposiciones legales y normativas aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XXVII. Impulsar la elaboración del Índice de Competitividad Turística del Estado, en los términos de esta Ley y su Reglamento, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XXVIII. Las demás que señalen las leyes y reglamentos vigentes o que le encomiende el Gobernador, conforme a esta ley.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
+
+###### ARTICULO 8°.
+
+El Ejecutivo del Estado a través de la Secretaría y los Ayuntamientos, en coordinación con la Secretaría de Turismo Federal, formularán los programas de manejo correspondiente para cada Zona de Desarrollo Turístico Sustentable en el Estado, que de conformidad con la Ley General de Turismo hayan sido formalmente declaradas.
+
+ARTUCULO (SIC) 9 °.- Todo prestador de servicios turísticos y quien contrate con el en calidad de turista, quedará sujeto a los derechos y obligaciones que establece esta ley y demás normas aplicables.
 
 ###### ARTICULO 9.
 
@@ -81,753 +293,561 @@ Los Titulares de las Dependencias y Entidades tienen la obligación de coordinar
 
 ###### ARTICULO 10.
 
-Las Dependencias y Entidades de la Administración Pública, deberán conducir sus actividades con base en las Políticas y Estrategias definidas para el cumplimiento de los objetivos y metas del Plan Estatal de Desarrollo, acatando los términos de los Programas y asignación de recursos autorizados en el Presupuesto de Egresos.
+En la presentación de los servicios turísticos, queda estrictamente prohibido cualquier tipo de discriminación. La trasgresión a ésta disposición será sancionada por la ley.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 11.
 
-Las Dependencias y Entidades responsables de la ejecución de Programas contarán con una unidad de Planeación, responsable de coordinar internamente la Programación, Presupuestación, Control y Supervisión de los Proyectos de Inversión y Gasto Público. Estas oficinas se coordinarán con el Comité Estatal de Planeación para el Desarrollo de Oaxaca.
+Los prestadores de servicios turísticos tendrán los siguientes derechos:
+
+I. Ser incluidos en los catálogos, directorios, guías y programas que elabore la Secretaría con fines promocionales, informativos, estadísticos o de registro administrativo, por sí misma o en colaboración con otras instituciones públicas o privadas, siempre que cumplan con los requisitos establecidos en la reglamentación aplicable y los expedidos por la Secretaría;
+
+II. Recibir conforme las disposiciones aplicables el reconocimiento de la categoría que corresponda a la calidad de sus servicios, en el ámbito de la competencia estatal;
+
+III. Recibir la información y asesoría técnica de la Secretaría para elevar la calidad de sus servicios;
+
+IV. Participar en los programas de promoción y fomento al turismo que ejecuta la Secretaría;
+
+V. Acceder a los estímulos, incentivos y programas operativos que se establezcan en materia turística;
+
+VI. Participar en los programas de capacitación turística que lleve a cabo la Secretaría;
+
+VII. Intervenir en la conformación del Plan y Programas Sectoriales tanto del Estado como de los Ayuntamientos;
+
+VIII. Tener acceso, en igualdad de circunstancias, a los programas de fomento y estímulo a las actividades turísticas que realice el estado y los municipios;
+
+IX. Participar activa y económicamente en las promociones y paquetes de atracción al turismo que realice la Secretaría;
+
+X. Conocer oportunamente los proyectos de desarrollo turístico que lleve a cabo el Gobierno del Estado, y
+
+XI. Las demás contenidas en esta Ley y en otras disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
+
+ARTICULO 11 A.- Los prestadores de servicios turísticos tendrán las siguientes obligaciones:
+
+I. Prestar servicios sin violentar las disposiciones establecidas en esta Ley y en la normatividad vigente;
+
+II. Anunciar en los lugares de acceso al establecimiento sus precios, tarifas y los servicios que éstos incluyen;
+
+III. Informar sobre el lugar de destino turístico, las condiciones del viaje, la estancia y el costo del servicio a los turistas, de manera previa a la contratación;
+
+IV. Cumplir con las medidas de seguridad en materia de protección civil que emitan las autoridades;
+
+V. Cumplir los precios, tarifas, promociones, reservaciones, y demás prestaciones y servicios acordados, en los términos anunciados, ofrecidos y convenidos;
+
+VI. Implantar el sistema de quejas de Turistas en términos de lo que establezca el reglamento de esta Ley;
+
+VII. Garantizar el acceso a las instalaciones y trato equitativo a las personas con discapacidad, a los indígenas, personas de la tercera edad y demás individuos que se consideren parte de un grupo vulnerable;
+
+VIII. Mantener sus instalaciones en óptimas condiciones de servicio, seguridad e higiene, de acuerdo a la normatividad aplicable;
+
+IX. Proporcionar la información que en términos de esta Ley, le requiera la Secretaría o los municipios;
+
+X. Informar oportunamente a los turistas para prevenir actividades que degraden o pongan en peligro los ecosistemas, así como hacer del conocimiento de la autoridad competente de los daños ocasionados en su caso;
+
+XI. Inscribirse en el Registro Estatal de Turismo y obtener la cédula de calidad turística respectiva;
+
+XII. Atender la normatividad y las recomendaciones que formulen las autoridades competentes en materia de seguridad y protección civil;
+
+XIII. Respetar los usos y costumbres de los turistas, siempre que éstos no sean contrarios a las leyes;
+
+XIV. Coadyuvar a la preservación del medio ambiente y los recursos turísticos de conformidad con esta Ley y demás legislación de la materia;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XV. Procurar la buena imagen de los servicios turísticos que presten;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XVI. Prestar servicios atendiendo lo establecido en la presente Ley, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como la Ley General de Vida Silvestre, y demás legislación en la materia, y
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XVII. Las demás que establezcan esta Ley y otras disposiciones legales y reglamentarias aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 12.
 
-Para la eficaz y eficiente atención de los asuntos de su competencia, las Dependencias podrán contar con órganos administrativos desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades para resolver sobre materias específicas o dentro del Ambito Territorial que se determine en cada caso.
+El Consejo es un órgano de consulta de la Secretaría, que tendrá por objeto proponer la formulación de las estrategias y acciones de coordinación de las dependencias y entidades de la administración pública, con el fin de lograr un desarrollo integral y sustentable de las actividades turísticas en el estado, utilizando entre otros mecanismos foros de consulta y memorias publicadas.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
+
+El Consejo será presidido por el Titular del Ejecutivo del Estado, y estará integrado por aquellos que éste determine, incluyendo al Titular de la Secretaría, y por los Presidentes Municipales conforme lo dispuesto en el reglamento de la presente ley.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
+
+Podrán ser invitados al Consejo con derecho a voz, los representantes de instituciones públicas federales, locales o municipales, privadas, sociales, asociaciones y sociedades jurídicamente reconocidas relacionadas al turismo, así como al sector académico, entre otras que puedan hacer aportaciones a los temas que se traten.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 13.
 
-La Leyes, Decretos, Reglamentos, Circulares, Acuerdos, Ordenes, Despachos, Convenios y los demás documentos que el Ejecutivo suscriba en los términos señalados por la Constitución Política del Estado y demás ordenamientos legales aplicables, deberán, para su validez y observancia ser firmados por el Secretario respectivo, y cuando se refieran a la competencia de dos o más Secretarías, deberán ser refrendadas por los Titulares de las mismas, posteriormente serán registrados por el Secretario General de Gobierno y dados a conocer, por el encargado del ramo al que corresponde dicha materia.
+El Reglamento de esta Ley contendrá las disposiciones correspondientes al funcionamiento del Consejo e instrumentará mecanismos eficaces para lograr que las instituciones y los diversos sectores de la sociedad tengan la posibilidad de presentar propuestas y proyectos en la materia.
 
-Tratándose de los Decretos promulgatorios de las Leyes o Decretos expedidos por el Congreso, sólo se requerirá el refrendo del Titular de la Secretaría General de Gobierno.
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
+
+#### Sección Segunda. Consejo Consultivo Municipal de Turismo
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 14.
 
-De acuerdo con las disposiciones relativas, al tomar posesión de un cargo, los Servidores Públicos registrarán su firma en la Secretaría General de Gobierno y otorgarán Fianza cuando las Leyes así lo establezcan.
+Los ayuntamientos, en el ámbito de su competencia, podrán integrar su propio Consejo Municipal, como un organismo auxiliar, para cumplir las funciones relacionadas con la actividad turística municipal.
+
+El Consejo será presidido por el Presidente Municipal y estará integrado por los funcionarios que él mismo determine.
+
+Podrán ser invitados al Consejo Municipal con derecho a voz, representantes de instituciones públicas federales o locales, privadas, sociales, asociaciones y sociedades jurídicamente reconocidas relacionadas al Turismo, así como al sector académico, entre otras que puedan hacer aportaciones a los temas que se traten.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 15.
 
-La estructura interna y funciones de las Secretarías estarán definidas por el Reglamento Orgánico de la Administración Pública que para tal efecto emita el Ejecutivo Estatal.
+El Ayuntamiento deberá emitir las disposiciones reglamentarias correspondientes al funcionamiento del Consejo Municipal e instrumentar mecanismos eficaces para lograr que las instituciones y los diversos sectores de la sociedad del Municipio tengan la posibilidad de presentar propuestas y proyectos en la materia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 16.
 
-La información relativa a los sistemas de organización, funcionamiento, comunicación, coordinación y procedimientos administrativos, deberá estar contenida en los Manuales de Organización, de Procedimientos y servicios al Público, que para tal efecto emita el Ejecutivo Estatal.
+La planeación turística sustentable es la ordenación racional y sistemática de las acciones de promoción, fomento y desarrollo de las actividades turísticas cuyo objeto es consolidar al Estado en la materia turística, así como fortalecer la economía estatal, a través de procesos fundados en criterios de beneficio social, sustentabilidad, competitividad y desarrollo equilibrado.
 
-### CAPITULO II
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
-De la Organización de la Administración Pública Centralizada.
+Son objetivos de la planeación turística:
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1994)</small>
+I. Proteger y resaltar las expresiones históricas, artísticas, arquitectónicas, arqueológicas y culturales típicas del Estado;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+II. Garantizar la conservación, preservación y funcionalidad del patrimonio natural del Estado, de los ecosistemas, de la diversidad biológica, de la flora, de la fauna, de las especies en peligro de extinción y de los espacios particularmente vulnerables, tales como, regiones litorales o humedales, y
+
+III. Garantizar el acceso y trato equitativo de toda persona a las diferentes modalidades del turismo, en especial a aquellas que sufran algún tipo de discapacidad, a los indígenas y personas de la tercera edad, evitando cualquier trato discriminatorio.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
+
+### CAPÍTULO II. De los Consejos Consultivos
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
+
+#### Sección Primera. Consejo Consultivo Estatal de Turismo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 17.
 
-Para el ejercicio de sus atribuciones y el despacho de los asuntos que son de su competencia, el Titular del Poder Ejecutivo contará con el auxilio de las siguientes dependencias de la Administración Pública Centralizada:
+La planeación turística será acorde a lo establecido en el Plan Estatal de Desarrollo y tenderá a fomentar el desarrollo turístico sustentable.
 
-I.- SECRETARIA GENERAL DE GOBIERNO.
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE MARZO DE 2012)</small>
 
-II.- SECRETARIA DE PROTECCION CIUDADANA.
+#### Sección Segunda. Plan Rector Sectorial en materia de Turismo
 
-III.- PROCURADURIA GENERAL DE JUSTICIA.
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
 
-IV.- SECRETARIA DE FINANZAS.
+ARTICULO 17 A.- El Plan Rector Sectorial en materia de Turismo será de largo plazo y contendrá, cuando menos:
 
-V.- SECRETARIA DE ADMINISTRACION.
+I. Los objetivos, estrategias y metas en materia de fomento y desarrollo turístico;
 
-VI.- CONTRALORIA GENERAL.
+II. Las acciones a realizar para cumplir con los objetivos y metas establecidas, y
 
-VII.- SECRETARIA DE DESARROLLO INDUSTRIAL Y COMERCIAL.
+III. Las etapas de evaluación y demás elementos que se establezcan en el Reglamento.
 
-VIII.- SECRETARIA DE DESARROLLO TURISTICO.
+En la elaboración del Plan Rector Sectorial en materia de Turismo participarán los Prestadores de Servicios Turísticos, las cámaras empresariales legalmente constituidas que funcionen en el Estado, universidades, y demás instituciones públicas y privadas relacionadas a la materia turística que convoque la Secretaría.
 
-IX.- SECRETARIA DE DESARROLLO AGROPECUARIO Y FORESTAL.
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE MARZO DE 2012)</small>
 
-X.- SECRETARIA DE DESARROLLO URBANO, COMUNICACIONES Y OBRAS PUBLICAS.
+#### Sección Tercera. Programa Sectorial Turístico
 
-XI.- SECRETARIA DE SALUD.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 1996)</small>
+ARTICULO 17 B.- El Programa Sectorial Turístico, en concordancia con los contenidos del Plan Nacional de Desarrollo, el Programa Sectorial de Turismo Nacional, el Plan Rector Sectorial en materia de turismo y el Plan Estatal de Desarrollo, debe contener al menos:
 
-XII.- SECRETARIA TECNICA.
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 5 DE JULIO DE 1999)</small>
+I. Los objetivos y metas del Estado en materia de turismo, a corto, mediano y largo plazo;
 
-XIII.- SECRETARIA DE TRANSPORTE.
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE MARZO DEL 2001)</small>
+II. El diagnóstico y la prospectiva de la situación turística en el Estado;
 
-XIV.- SECRETARIA DE ASUNTOS INDIGENAS.
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1996)</small>
+III. Las acciones a través de las cuales, el Gobierno Estatal impulsará el crecimiento de las zonas turísticas de la entidad y así satisfacer la demanda de servicios turísticos;
 
-Al frente de cada una de las Dependencias a que se refiere este artículo habrá un servidor público que será su Titular y se denominará respectivamente Secretario, Procurador General de Justicia y Contralor General. Para el despacho de los asuntos de la competencia de sus respectivas Dependencias los Secretarios, el Procurador General de Justicia y el Contralor General se auxiliarán de Directores, Jefes de Departamento, Jefes de Oficina y demás servidores públicos que requieran para la eficaz atención y eficiente desempeño de sus atribuciones, en los términos prescritos por la Constitución Política del Estado, la presente Ley, el Presupuesto de Egresos y las demás disposiciones legales relativas.
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2001)</small>
+IV. La enumeración de los estudios ambientales y de las materias que las leyes determinen, de las áreas geográficas turísticas o que se pretendan convertir en tales, los cuales tendrán como fin motivar el cumplimiento de las disposiciones normativas aplicables y satisfacer las necesidades de los prestadores de servicios turísticos y turistas;
 
-Para auxiliar en sus funciones a los Secretarios y suplirlos en sus faltas temporales, a excepción de la Secretaría General de Gobierno, habrá en cada dependencia un Subsecretario. En el caso de la Secretaría General de Gobierno, habrá los Subsecretarios que se requieran para el cumplimiento de las atribuciones que a dicha dependencia competen y su nombramiento será ratificado por el Congreso del Estado, en los términos ordenados por la Constitución Política del Estado Libre y Soberano de Oaxaca.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1996)</small>
+V. El diagnóstico y prospectiva del impacto sinérgico y/o acumulativo del desarrollo turístico en el estado;
 
-Artículos (sic) 17 Bis.- Corresponde a los Titulares de las Dependencias a que se refiere el artículo anterior, el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo podrán delegar, mediante Acuerdo, en los servidores públicos subordinados, cualquiera de las facultades, que no estén expresamente señaladas como exclusivas de los propios Titulares, por la Constitución Política del Estado, las leyes y reglamentos. La anterior delegación de facultades, no limita el ejercicio directo de las mismas por parte de los Titulares de las respectivas Dependencias.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
-El Acuerdo de delegación de facultades a que se refiere el párrafo anterior deberá publicarse en el Periódico Oficial del Gobierno del Estado.
+VI. Acciones que impulsen el desarrollo de aquellas regiones en donde existan atractivos e intereses para la inversión turística;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+VII. El estudio comparativo de los principales indicadores del sector a nivel nacional e internacional;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+VIII. El desarrollo de las políticas públicas que la Secretaría pretenderá aplicar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+IX. Los mecanismos de evaluación de las políticas públicas, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA],P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+X. Descripción de los instrumentos de promoción del Sector Turístico.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+El Programa Sectorial propondrá acciones para fomentar la diversificación, consolidación y modernización del sector turístico, así como para desarrollar la competitividad de las regiones del Estado, de acuerdo a su vocación turística.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+El Programa Sectorial promoverá el financiamiento y crecimiento de la infraestructura turística, en coordinación con el sector privado y social.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+La Secretaría procurará que en la región que se pretenda desarrollar turísticamente, se realicen obras que satisfagan las necesidades fundamentales de los prestadores de servicios y de los turistas, para tal efecto se coordinará con las autoridades correspondientes.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
+
+ARTICULO 17 C.- El Programa Sectorial Turístico deberá ser aprobado por la Secretaría y publicado en el Periódico Oficial.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+La Secretaría se encargará anualmente de revisar, evaluar y en su caso actualizar el Programa Sectorial Turístico, para efectos de mantener vigentes las acciones y verificar el avance del cumplimiento de los objetivos a corto, mediano y largo plazo en el sector turístico. Los datos y la información obtenida serán publicados en la página de internet de la Secretaría.
+
+Los ayuntamientos podrán elaborar su Programa Sectorial Turístico Municipal, el cual deberá de ser acorde al Plan Municipal de Desarrollo. El programa, deberá aprobarse por el cabildo y publicarlo en la Gaceta Municipal.
+
+En todos los casos, los municipios deberán procurar la armonización con el Programa Sectorial Estatal.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE MARZO DE 2012)</small>
+
+#### Sección Cuarta. Cadenas Productivas
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
+
+ARTICULO 17 D.- La Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, promoverán entre la iniciativa privada y el sector social, la creación y fomento de cadenas productivas y redes de valor en torno a los desarrollos turísticos nuevos y existentes, con el fin de detonar la economía del Estado y de los municipios y con ello, buscar el desarrollo regional sustentable.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+Los instrumentos para promover el desarrollo regional sustentable realizarán estudios socioeconómicos, ambientales y de mercado turístico, tomando en cuenta la información disponible en el Registro Nacional de Turismo, el Atlas Turístico de México y el Atlas de Vulnerabilidad Hídrica en México ante el Cambio Climático.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE MARZO DE 2012)</small>
+
+#### Sección Quinta. Programa de Ordenamiento Turístico del Territorio
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
+
+ARTICULO 17 E.- La Secretaría después de analizar conjuntamente con los Ayuntamientos del Estado el ordenamiento de su territorio, propondrá al titular del Poder Ejecutivo del Estado el Programa de Ordenamiento Turístico Territorial para su aprobación, tomando en consideración los Programas de Ordenamiento General y Regional en la materia y ordenará su publicación en el Periódico Oficial.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
+
+ARTICULO 17 F.- El Programa de Ordenamiento Turístico deberá actualizarse dentro de los primeros treinta días de cada año y será congruente con los programas estatales y municipales de ordenamiento ambiental, desarrollo urbano y uso de suelo.
+
+El Programa de Ordenamiento preverá las disposiciones necesarias para la coordinación de las distintas autoridades involucradas en su formulación y ejecución.
+
+La Secretaría promoverá la participación de organizaciones sociales y empresariales, instituciones académicas, de investigación y demás personas interesadas en la materia, para la elaboración, ejecución, vigilancia y evaluación del Programa de Ordenamiento.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
+
+ARTICULO 17 G.- El Consejo podrá emitir sugerencias y observaciones a la Secretaría para la formulación del Programa de Ordenamiento.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
+
+ARTICULO 17 H.- El Programa de Ordenamiento Turístico del Territorio tendrá por objeto:
+
+I. Determinar el área territorial a ordenar;
+
+II. Describir sus recursos turísticos;
+
+III. Establecer su análisis de riesgos, y
+
+IV. Proponer los criterios para la determinación de los planes o programas de desarrollo urbano, así como del uso de suelo, con el propósito de preservar los recursos naturales y aprovechar de manera ordenada y sustentable los recursos turísticos respectivos.
+
+El Programa de Ordenamiento Turístico Territorial será evaluado anualmente por la Secretaría, la cual instrumentará los mecanismos necesarios que permitan determinar el impacto y avances en la implementación.
 
 ###### ARTICULO 18.
 
-Para la adecuada atención de los asuntos en materia educativa, el Ejecutivo Estatal determinará la dependencia o entidad a la que corresponderá la atención de dicha responsabilidad.
+El fomento al turismo es una función prioritaria del Estado y los Municipios, para ese efecto se impulsará la organización, planeación, ejecución, seguimiento y evaluación de las políticas públicas, las estrategias y acciones del sector que resulten aplicables. Los Ayuntamientos, en ejercicio de sus facultades, tendrán la intervención necesaria para establecer programas y acciones de fomento al turismo en sus respectivas demarcaciones, dentro del marco establecido en el Programa Sectorial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 19.
 
-El Gobernador del Estado dispondrá, además del apoyo de las siguientes oficinas auxiliares:
+Para ese efecto, el Estado y los ayuntamientos realizarán las siguientes funciones:
 
-I DELEGACIONES REGIONALES DE GOBIERNO
+I. Promover, planear, programar y elaborar estudios y proyectos, efectuar obras de infraestructura y urbanización y realizar edificaciones e instalaciones que incrementen y mejoren la oferta turística;
 
-II DIRECCION DE COMUNICACION SOCIAL
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
-III DIRECCION DE RELACIONES PUBLICAS
+II. Dotar, fomentar y promover los servicios públicos necesarios, así como el equipamiento urbano para las Zonas de Desarrollo Turístico Sustentable;
 
-IV REPRESENTACION DEL GOBIERNO DEL ESTADO EN EL DISTRITO FEDERAL
+III. Adquirir, fraccionar, vender, arrendar, administrar y, en general realizar cualquier tipo de enajenación de bienes que contribuyan a fomentar el turismo, con arreglo a las leyes;
 
-V LAS DEMAS UNIDADES DE ASESORIA, DE APOYO TECNICO Y DE COORDINACION QUE EL EJECUTIVO DETERMINE, DE ACUERDO CON EL PRESUPUESTO ASIGNADO A LA GUBERNATURA
+IV. Operar, administrar y mantener, por sí o a través de terceros, todo tipo de bienes relacionados con la actividad turística, cuando ello sea necesario;
 
-### CAPITULO III
+V. Realizar la promoción y la publicación de sus actividades;
 
-Del funcionamiento de la Administración Pública Centralizada.
+VI. Participar con los sectores públicos, social y privado en la constitución, fomento, desarrollo y operación de empresas, cualquiera que sea su naturaleza jurídica, dedicada a las actividades turísticas, cuando ello se juzgue necesario;
+
+VII. Participar en el desarrollo y cumplimiento de objetivos turísticos;
+
+VIII. Gestionar y obtener financiamientos para el desarrollo turístico, otorgando las garantías necesarias conforme los procedimientos y requisitos que legalmente se exijan;
+
+IX. Elaborar las guías turísticas municipales y estatales, con el objeto de proporcionar la información de los recursos, atractivos y servicios con que se cuenta;
+
+X. Asesorar a los inversionistas de los sectores social y privado en sus gestiones ante cualquier institución a efecto de obtener asistencia técnica, financiamiento y demás apoyos y estímulos;
+
+XI. Dictar las bases para los proyectos particulares de desarrollo turístico en concordancia con lo que establece esta ley;
+
+XII. Procurar que los desarrollos turísticos contribuyan a la preservación del medio ambiente y protección ecológica;
+
+XIII. Establecer programas y acciones tendientes a garantizar la prestación de servicios de seguridad a favor del turismo.
+
+XIV. Intervenir en la solución de necesidades de carácter social en las zonas de influencia de desarrollos turísticos, y (sic)
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
+XV. Impulsar la actividad turística en las Zonas de Desarrollo Turístico Sustentable, mediante el fomento a la inversión, el empleo y el ordenamiento territorial, conservando sus recursos naturales, históricos y culturales en beneficio de la población, y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
+
+XVI. En general, todas aquellas que permitan la realización de su objeto.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 19 A.- La Secretaría fomentará la actividad turística a través de programas y proyectos que tendrán por objeto el otorgamiento de financiamiento, estímulos e incentivos a los prestadores de servicios turísticos, con la finalidad de impulsar la inversión en infraestructura turística.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 19 B.- La Secretaría apoyará a los prestadores de servicios turísticos, ante las instancias respectivas, para que obtengan financiamiento para construir, mejorar o remodelar la infraestructura turística.
+
+Asimismo, la Secretaría coadyuvará en la gestión ante las autoridades correspondientes, para el otorgamiento de facilidades, incentivos y estímulos tendientes al desarrollo de la actividad turística.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 19 C.- La Secretaría será la encargada de impulsar la elaboración del Índice de Competitividad Turística del Estado, apoyándose en su caso en las instituciones educativas de la entidad, a efecto de medir la efectividad y competitividad, identificar fortalezas y áreas de oportunidad, permitiendo crear, ofrecer y sostener actividades, productos y servicios turísticos con valor añadido, capaces de generar desarrollo económico y social.
+
+El Índice de Competitividad Turística tomará en consideración los principios de rentabilidad, sustentabilidad, evaluación continua, los criterios y estándares establecidos por el Foro Económico Mundial, entre otros elementos que se consideren necesarios.
+
+### CAPÍTULO III. De la Planeación Turística, Cadenas Productivas y del Ordenamiento Turístico del Territorio
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
+
+#### Sección Primera. Planeación Turística
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 20.
 
-A la Secretaría General de Gobierno corresponde el despacho de los siguientes asuntos:
+El Gobernador y los Ayuntamientos, en ejercicio de sus atribuciones, celebrarán convenios con instituciones federales y municipales, así como con instituciones universitarias y tecnológicas, en materia de educación y capacitación para el turismo, concertando acciones con los particulares, el sector social y los empresarios para ese fin.
 
-I.- Conducir la Política interior del Estado y proveer lo necesario para mantener relaciones armónicas entre sus habitantes.
+> <small>(REFORMADO [ N. DE E. ADICIONADO], P.O. 3 DE DICIEMBRE DE 2016)</small>
 
-II.- Conducir las relaciones del Poder Ejecutivo con los Poderes Legislativo y Judicial y con los Ayuntamientos.
+La Secretaría, en coordinación con los Ayuntamientos, promoverán y fomentarán entre la población aquellos programas y actividades que difundan la cultura, con el fin de crear el conocimiento de los beneficios de la actividad turística.
 
-III.- Encargarse del Poder Ejecutivo en las ausencias temporales del Gobernador del Estado que no excedan de treinta días, en los términos del ARTICULO 70 Constitucional.
+> <small>(REFORMADO [ N. DE E. ADICIONADO], P.O. 3 DE DICIEMBRE DE 2016)</small>
 
-IV.- Ser el conducto para la presentación de iniciativas del Ejecutivo ante el Congreso Local y encargarse de publicar las disposiciones que sean expedidas por la Legislatura y el Gobernador del Estado.
+La Secretaría en coordinación con la Secretaría de Educación del Estado, impulsarán programas y acciones específicas que difundan la importancia de respetar y conservar el patrimonio natural, histórico, artístico, arqueológico y cultural, así como mostrar un espíritu de servicio y hospitalidad hacia el turista nacional y extranjero.
 
-V.- Fomentar el Desarrollo Político y cumplir las funciones Electorales en los términos de la Ley.
-
-VI.- Intervenir en auxilio del Ejecutivo, con la participación que la Ley señale, en la atención de asuntos de carácter Agrario.
-
-VII.- Vigilar el cumplimiento de la Legislación en materia de Culto Público, Iglesias y Agrupaciones Religiosas.
-
-VIII.- Tramitar excitativas para la pronta y expedita Administración de Justicia.
-
-IX.- Vigilar la observancia y aplicación de disposiciones en materia de trabajo y previsión social.
-
-X.- (DEROGADA, P.O. 10 DE JUNIO DE 1994)(REPUBLICADA, P.O. 28 DE MAYO DE 1996)
-
-XI.- (DEROGADA, P.O. 10 DE JUNIO DE 1994) (REPUBLICADA, P.O. 28 DE MAYO DE 1996)
-
-XII.- (DEROGADA, P.O. 5 DE JULIO DE 1999)
-
-XIII.- Organizar y dirigir el ejercicio de las funciones del Registro Civil y del Registro Público de la Propiedad y del Comercio.
-
-XIV.- Tramitar los Nombramientos que para el ejercicio de las Funciones Notariales expida el Gobernador del Estado y ordenar visitas periódicas de Inspección a las Notarías.
-
-XV.- Llevar el Libro de Registro de Notarios y organizar y controlar el Archivo General de Notarías.
-
-XVI.- (DEROGADA, P.O. 10 DE JUNIO DE 1994)(REPUBLICADA, P.O. 28 DE MAYO DE 1996)
-
-XVII.- (DEROGADA, P.O. 10 DE JUNIO DE 1994) (REPUBLICADA, P.O. 28 DE MAYO DE 1996)
-
-XVIII.- (DEROGADA, P.O. 10 DE JUNIO DE 1994) (REPUBLICADA, P.O. 28 DE MAYO DE 1996)
-
-XIX.- Proponer al Gobernador del Estado el otorgamiento de Pensiones de Gracia o Premios Extraordinarios en beneficio de Oaxaqueños distinguidos.
-
-XX.- Instaurar los expedientes de expropiación, ocupación temporal y limitación de dominio, en los casos de utilidad Pública.
-
-XXI.- Vigilar y controlar todo lo relativo a la demarcación y conservación de los límites del Estado y de sus Municipios.
-
-XXII.- Auxiliar a las Autoridades y a la Ciudadanía en la solución de conflictos de carácter Municipal. En su caso, intervenir ante las instancias competentes cuando los conflictos se relacionen con la realización de Obras o Servicios Públicos.
-
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 1996)</small>
-
-XXIII.- Fortalecer los procesos democráticos municipales.
-
-XXIV.- (DEROGADA, P.O. 28 DE MAYO DE 1996)
-
-XXV.- Promover la colaboración entre Municipios para la realización de Obras y Servicios Públicos de beneficio común.
-
-XXVI.- Intervenir en auxilio o coordinación con las Autoridades Federales, en los términos de las Leyes Relativas, en materia de pirotecnia y detonantes, loterías, rifas y juegos prohibidos, portación de armas y migración.
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE MARZO DE 1995)</small>
-
-XXVII.- Registrar los autógrafos, legalizar y certificar las firmas de los funcionarios estatales, de los municipales y demás funcionarios a quienes esté encomendada la fe pública, certificar todo tipo de documentos así como dar fe de todos los actos relativos al despacho de los asuntos del Ejecutivo del Estado.
-
-XXVIII.- Proporcionar Asesoría Jurídica a las Dependencias de la Administración Pública y revisar los Proyectos de disposiciones Legales que deban presentarse al Gobernador del Estado.
-
-XXIX.- Tramitar la expedición de Pasaportes a los Habitantes del Estado.
-
-XXX.- Auxiliar al Gobierno Federal en la conducción de las Relaciones con los Consulados Extranjeros radicados en la Entidad y llevar un registro de los mismos.
-
-XXXI.- Expedir, previo acuerdo del Gobernador del Estado las Licencias, Autorizaciones, Concesiones y Permisos cuyo otorgamiento no esté atribuido a otra Dependencia.
-
-XXXII.- Compilar y archivar la Legislación vigente en el Estado.
-
-XXXIII.- Publicar el Periódico Oficial del Estado.
-
-XXXIV.- Establecer anualmente el Calendario Oficial que regirá en el Estado.
-
-XXXV.- Tramitar lo relacionado con los Nombramientos, Licencias, Remociones y Renuncias de los Magistrados del Tribunal Superior de Justicia.
-
-XXXVI.- Los demás que le señalen las Leyes, Decretos y Reglamentos.
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 1994)</small>
-
-ARTICULO 20 BIS.- A la Secretaría de Protección Ciudadana corresponde el despacho de los siguientes asuntos:
-
-I.- Conducir la política del Estado en todo lo relacionado con la seguridad pública, la prevención de delitos y la readaptación de delincuentes con estricto respeto a los derechos humanos;
-
-II.- Capacitar, en los términos de Ley a los miembros de los cuerpos de seguridad pública estatal y municipal;
-
-III.- Implantar programas permanentes de protección civil, vigilancia del orden público y prevención de delitos;
-
-IV.- Coordinar e implantar todas las acciones relacionadas con la protección civil para casos de emergencia y de desastres;
-
-V.- (DEROGADA, P.O. 5 DE JULIO DE 1999)
-
-VI.- Elaborar y ejecutar los programas de readaptación social de los infractores;
-
-VII.- Administrar los centros de readaptación social y tramitar por acuerdo del Gobernador las solicitudes de extradición, amnistía, indulto, libertad anticipada y traslado de reos;
-
-VIII.- Vigilar las instituciones y la aplicación de las normas preventivas tutelares de menores infractores;
-
-IX.- Celebrar convenios con los sectores productivos, para el efecto de establecer centros de trabajo dentro y fuera de los centros de readaptación social, para beneficio de los procesados, sentenciados y liberados;
-
-X.- Celebrar convenios de coordinación con los municipios del Estado en materia de seguridad pública;
-
-XI.- Celebrar convenios de coordinación con el Ejecutivo Federal y con las Entidades Federativas en materia de seguridad pública con la debida intervención del Procurador General de Justicia del Estado; y
-
-XII.- Las demás que le encomiende expresamente el Titular del Ejecutivo Estatal.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 21.
 
-A la Procuraduría General de Justicia corresponde el despacho de los siguientes asuntos:
+En la Comisión de Fomento al Turismo habrá un Centro de Coordinación Turística que tendrá por objeto gestionar e impulsar programas que garanticen la formación, capacitación, adiestramiento y actualización de los técnicos y profesionales de la actividad turística, el fomento del desarrollo de la cultura turística local, de alta calidad y competitividad, así como promover investigaciones y estudios del sector. Dicho Centro se integrará con una directiva compuesta por un coordinador que será un representante del sector privado, un secretario y cinco vocales, dándose intervención a representantes de las instituciones de educación superior del estado.
 
-I.- Ejercer las atribuciones conferidas por las disposiciones Legales al Ministerio Público.
-
-II.- Representar a la Sociedad en los Asuntos Civiles y Penales en que ella esté interesada.
-
-III.- Intervenir como representante Jurídico en los Actos en que sean parte el Estado o su Gobierno.
-
-IV.- Fungir como Consejero Jurídico del Gobernador del Estado.
-
-V.- Vigilar la exacta observancia de las Leyes.
-
-VI.- Informar al Ejecutivo sobre las Leyes o Reglamentos que sean contrarios a la Constitución Federal o la Constitución del Estado y proponer las reformas necesarias.
-
-VII.- Iniciar e integrar averiguaciones previas de oficio a petición de parte ofendida, o de su representación legítima cuando se trate de delito cuya persecución requiera querella.
-
-VIII.- Establecer, Dirigir y Desarrollar los Servicios Periciales que requiera la investigación criminalística.
-
-IX.- Dictar las resoluciones procedentes en las averiguaciones.
-
-X.- Consignar al Tribunal correspondiente aquellas averiguaciones previas que se encuentren debidamente integradas, ejercitando la acción penal correspondiente.
-
-XI.- Intervenir por denuncia o de oficio, en los términos de la ley de Responsabilidades de los Servidores Públicos, en los casos de enriquecimiento inexplicable.
-
-XII.- Organizar, dirigir y controlar las actividades que permitan vigilar la secuela del procedimiento y llevar un control de la fase en que se encuentran los procesos que se instruyan en los Juzgados.
-
-XIII.- Dirigir y Organizar las actividades de la Policía Judicial y en su caso auxiliarse, para el ejercicio de sus funciones en los Cuerpos de Seguridad Pública y los demás que estén destinados a mantener la tranquilidad y el orden público.
-
-XIV.- Ejecutar las órdenes de presentación, comparecencias, aprehensión y cateo dictadas por Autoridades Judiciales, llevando un registro de las mismas.
-
-XV.- Coordinar su actuación con las Autoridades Federales en la persecución de los delitos de su competencia.
-
-XVI.- Prestar al Poder Judicial el auxilio conveniente para el debido ejercicio de sus funciones.
-
-XVII.- Ser el Representante Legal de la Beneficencia Pública.
-
-XVIII.- Llevar el control de la estadística e identificación criminal.
-
-XIX.- Ejercitar las acciones reivindicatorias y de cualquier otra índole civil que competan al Estado.
-
-XX.- Proponer al Ejecutivo el Nombramiento de los Agentes del Ministerio Público y removerlos o cambiarlos de adscripción cuando las necesidades del Servicio lo requieran.
-
-XXI.- Imponer al personal de la Procuraduría y al de la Policía Judicial las Sanciones disciplinarias a que den lugar por faltas cometidas en el desempeño de sus funciones.
-
-XXII.- Los demás que le señalen las Leyes, Decretos y Reglamentos.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 22.
 
-A la Secretaría de Finanzas corresponde el despacho de los siguientes asuntos:
+Para cumplir con su objetivo, el Centro de Coordinación Turística realizará las siguientes funciones:
 
-I.- Diseñar y Ejecutar las Políticas de Ingresos y Egresos Estatales, compatibilizando, estos, con los requerimientos del Gasto Público y procurando un sano equilibrio financiero.
+I. Detectar las necesidades de capacitación en la materia a través de reuniones con empresarios y representantes del sector de los diferentes municipios del estado;
 
-II.- Formular y Coordinar el Programa Estatal de Financiamiento para el Desarrollo.
+II. Gestionar, planear y programar cursos de información, capacitación, adiestramiento y actualización a técnicos y profesionales en la actividad turística, impartidos por instituciones o empresas públicas o privadas;
 
-III.- Formular los Proyectos Anuales de Ley de Ingresos y el Decreto de Presupuesto de Egresos, en los tiempos y forma que permitan al Gobernador del Estado, cumplir su responsabilidad Constitucional de presentar las iniciativas correspondientes ante el Congreso Local en los primeros cinco días del mes de Diciembre.
+III. Promover la realización de investigaciones y estudios del sector, vinculándose para ese fin con instituciones académicas, empresas públicas o privadas, así como con instancias especializadas;
 
-IV.- Recaudar los Impuestos, Productos, Derechos y Aprovechamientos, así como hacer cumplir las Disposiciones Fiscales.
+IV. Efectuar los trámites necesarios ante las instancias correspondientes para que los organismos públicos y privados del sector turístico que lo soliciten obtengan asesoría y asistencia técnica, y
 
-V.- Reglamentar y Autorizar el Ejercicio del Presupuesto de Egresos, así como efectuar los pagos correspondientes mediante ministraciones calendarizadas.
-
-VI.- Ejercer las atribuciones derivadas de los convenios, que en materia Fiscal celebre el Gobierno del Estado con la Federación o con los Ayuntamientos.
-
-VII.- Elaborar y mantener actualizado el Padrón Fiscal de Contribuyentes.
-
-VIII.- Administrar la Función de Catastro, formulando el Plano Catastral y el Padrón de la Propiedad Urbana y Rural en el Estado.
-
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 1996)</small>
-
-IX.- Intervenir en las operaciones en que el Estado haga uso del crédito público. Así como llevar un registro único de obligaciones y empréstitos.
-
-X.- Coordinar financieramente las operaciones de las Entidades de la Administración Pública Paraestatal y de todas aquellas que posean o exploten bienes del Estado.
-
-XI.- Practicar Auditorías a los Contribuyentes de la Hacienda Pública Estatal.
-
-XII.- Dirigir los servicios de Inspección y Vigilancia Fiscal.
-
-XIII.- Proponer al Gobernador del Estado, la cancelación de Cuentas Incobrables.
-
-XIV.- Proporcionar Asesoría a Instituciones Públicas y a los Particulares en materia de interpretación y aplicación de las Leyes Tributarias, así como realizar una campaña permanente de orientación y difusión Fiscal.
-
-XV.- Aclarar las observaciones que le finque el Congreso Local por conducto de la Contaduría Mayor de Hacienda.
-
-XVI.- Elaborar los Estados Financieros e Integrar la Cuenta Pública y someter esta a consideración del Gobernador del Estado, para la presentación correspondiente ante el Congreso Local en los primeros diez días del mes de Abril de cada año.
-
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 1996)</small>
-
-XVII.- Intervenir en los juicios de carácter fiscal que se ventilen ante cualquier tribunal, cuando tenga interés la Hacienda Pública del Estado.
-
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 1996)</small>
-
-XVIII.- Imponer las sanciones que correspondan por infracciones a la Ley de Hacienda y demás leyes fiscales.
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE MAYO DE 1996)</small>
-
-XIX.- Ejercitar las acciones y oponer las excepciones que procedan para la defensa administrativa y judicial de los derechos de la Hacienda Pública del Estado.
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE MAYO DE 1996)</small>
-
-XX.- Conocer, tramitar y resolver los recursos administrativos que por Ley o Decreto le correspondan en la esfera de su competencia.
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE MAYO DE 1996)</small>
-
-XXI.- Presentar, dentro del ámbito de su competencia, denuncias y formular querellas ante el Ministerio Público y ratificar las mismas. Recibir el pago por concepto de reparación del daño y, en su caso, sin perjuicio del Erario Estatal, otorgar el perdón del acusado cuando proceda.
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE MAYO DE 1996)</small>
-
-XXII.- Intervenir en los juicios y procedimientos relacionados con el cumplimiento de las obligaciones derivadas de las fianzas expedidas en favor del Estado.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 1996)</small>
-
-XXIII.- Ejercer la facultad económica coactiva en el ámbito de sus atribuciones fiscales.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 1996)</small>
-
-XXIV.- Establecer y operar y el Sistema de Contabilidad Gubernamental de la Administración Pública Estatal.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 1996)</small>
-
-XXV.- Formular mensualmente el estado de origen y aplicación de recursos, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 1996)</small>
-
-XXVI.- Los demás que señalen las Leyes, Decretos y Reglamentos.
+V. Impulsar programas que fomenten el desarrollo de la cultura turística local o nacional, de alta calidad y competitividad.
 
 ###### ARTICULO 23.
 
-A la Secretaría de Administración corresponde el despacho de los siguientes asuntos:
+Para los efectos de esta Ley, el turismo en general se subdivide en diversas vertientes o ramas como son: el turismo accesible, de compras, cultural, deportivo, gastronómico, de naturaleza, de negocios, religioso o espiritual, social, de salud y gran turismo.
 
-I.- Normar y controlar la Administración de los recursos humanos, recursos materiales y servicios de apoyo de la Administración Pública.
-
-II.- Aplicar y vigilar el cumplimiento de las disposiciones legales y estatutarias que rijan las relaciones entre el Gobierno del Estado y sus trabajadores.
-
-III.- Formular los Objetivos, Políticas, Procedimientos y Mecanismos de Administración de Recursos Humanos.
-
-IV.- Normar y dirigir la Administración de Sueldos y Salarios de los trabajadores al servicio del Gobierno del Estado.
-
-V.- Brindar seguridad y servicios sociales a los trabajadores al servicio del Gobierno del Estado.
-
-VI.- Tramitar los Nombramientos, Remociones, Renuncias, Licencias y Jubilaciones de los trabajadores de la Administración pública.
-
-VII.- Mantener al corriente el escalafón de los trabajadores de la Administración Pública.
-
-VIII.- Contratar los Servicios Personales necesarios para el funcionamiento de la Administración Pública Centralizada, en los términos del Presupuesto de Egresos Autorizado.
-
-IX.- Emitir las normas y disposiciones de la Administración Pública, para la adquisición, arrendamiento o enajenación de bienes y servicios.
-
-X.- Dirigir el Archivo General del Poder Ejecutivo.
-
-> <small>(F. DE E., P.O. 16 DE OCTUBRE DE 1993)</small>
-
-XI.- Administrar los Talleres Gráficos del Gobierno del Estado.
-
-> <small>(F. DE E., P.O. 16 DE OCTUBRE DE 1993)</small>
-
-XII.- Administrar los Almacenes Generales del Gobierno del Estado.
-
-> <small>(F. DE E., P.O. 16 DE OCTUBRE DE 1993)</small>
-
-XIII.- Organizar y controlar el servicio de mantenimiento del equipo de transporte de la Administración Pública Centralizada.
-
-XIV.- (DEROGADA, P.O. 28 DE MAYO DE 1996)
-
-> <small>(F. DE E., P.O. 16 DE OCTUBRE DE 1993)</small>
-
-XV.- Administrar y asegurar la conservación y el mantenimiento del patrimonio del Gobierno del Estado.
-
-XVI.- (DEROGADA, P.O. 28 DE MAYO DE 1996)
-
-> <small>(F. DE E., P.O. 16 DE OCTUBRE DE 1993)</small>
-
-XVII.- Coordinarse con las Dependencias de la Administración Pública Centralizada a través de sus Unidades de Apoyo Administrativo, para asegurar la adecuada administración de los recursos humanos y materiales, la conservación y el mantenimiento del patrimonio del Gobierno del Estado, y en general el suministro oportuno de los bienes y servicios que requiera la ejecución de los Programas de Trabajo.
-
-XVIII.- (DEROGADA, P.O. 28 DE MAYO DE 1996)
-
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 1996)</small>
-
-XIX.- Expedir los documentos, constancias o credenciales de identificación a los servidores públicos del Poder Ejecutivo del Estado que les permita acreditar tal carácter.
-
-> <small>(F. DE E., P.O. 16 DE OCTUBRE DE 1993)</small>
-
-XX.- Elaborar, controlar y mantener actualizado, en coordinación con la Contraloría General, el Inventario de Bienes Muebles e Inmuebles propiedad del Ejecutivo Local.
-
-> <small>(F. DE E., P.O. 16 DE OCTUBRE DE 1993)</small>
-
-XXI.- Los demás que le señalen las Leyes, Decretos y Reglamentos.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 24.
 
-A la Contraloría General corresponde el despacho de los siguientes asuntos:
+La conceptualización genérica de los tipos de turismo, es la siguiente:
 
-I.- Establecer y operar el Sistema de Control y Evaluación de la Gestión Pública Estatal.
+I. Turismo Accesible.- Es el que tiene por objeto promover la prestación de servicios turísticos con accesibilidad de toda naturaleza, para beneficiar a la población con alguna discapacidad, la Secretaría con apoyo y coordinación de las dependencias y entidades en el Estado, municipios y prestadores de servicios turísticos, deberán proveer lo necesario para garantizar que las personas con discapacidad cuenten con accesibilidad a los servicios turísticos;
 
-II.- Inspeccionar la aplicación del Gasto Público Estatal y su congruencia con el Presupuesto de Egresos.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
-III.- Realizar Auditorías y Evaluaciones a las Dependencias y Entidades de la Administración Pública, con el propósito de promover la eficiencia de sus operaciones y el cumplimiento de los objetivos contenidos en sus Programas.
+II. Turismo de Compras.- Es aquél que se encuentra vinculado a las compras o bienes exclusivos; como artículos de lujo, arte, artesanía y artículos de uso común, entre otros;
 
-IV.- Vigilar, a través del Programa de Contraloría Social, la correcta aplicación de los recursos provenientes del Programa Nacional de Solidaridad, incorporando la participación de los grupos sociales involucrados.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
-V.- Vigilar que los recursos Financieros destinados a la ejecución de Programas para el Desarrollo del Estado, sean enfocados a los objetivos propuestos y se apliquen con honestidad y transparencia.
+III. Turismo Cultural.- Son los viajes turísticos motivados por conocer, comprender y disfrutar el conjunto de rasgos y elementos distintivos espirituales, materiales, intelectuales y afectivos que caracterizan a una sociedad o grupo social de un destino específico;
 
-VI.- Vigilar que las Dependencias y Entidades cumplan con las normas y disposiciones en materia de contratación de Servicios, Obras Públicas, Adquisiciones, Arrendamientos, Conservación, Uso, Destino, Afectación, Enajenación y Baja de Bienes de la Administración Pública.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
-VII.- Participar en la formulación y ejecución de los Convenios que, en materia de control y evaluación de la Gestión Pública, celebre el Gobierno del Estado con la Federación o los Ayuntamientos.
+IV. Turismo Deportivo.- Es aquél cuya principal motivación es practicar algún deporte o presenciar algún evento deportivo;
 
-VIII.- Fiscalizar la Ejecución Física y Financiera de los Programas de Inversión Pública que se realicen en el Estado con recursos propios o provenientes de convenios con la Federación.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
-IX.- Coordinarse con la Contaduría Mayor de Hacienda para el cumplimiento de sus respectivas responsabilidades.
+V. Turismo Gastronómico.- Es aquél que se encuentra vinculado a la comida tradicional de la zona, o derivado de eventos realizados en el Estado;
 
-X.- Supervisar que los proveedores de Bienes y Servicios cumplan lo estipulado en los Contratos que celebren con las Dependencias y Entidades de la Administración Pública Estatal.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
-XI.- Participar en las licitaciones Públicas convocadas para seleccionar a los proveedores de Bienes y Servicios, con el propósito de vigilar que las adjudicaciones se asignen dentro de un procedimiento de legalidad y con estricto apego a los requerimientos de la Administración Pública Estatal.
+VI. Turismo de Naturaleza.- Los viajes que tienen como fin realizar actividades recreativas en contacto directo con la naturaleza y las expresiones culturales que le envuelven con una actitud y compromiso de conocer, respetar, disfrutar y participar en la conservación de los recursos naturales y culturales.
 
-XII.- Participar en la formulación de las normas de contabilidad y de control en materia de programación, presupuestación, administración de recursos humanos, materiales y financieros que elaboren las Dependencias normativas correspondientes.
+El Turismo de Naturaleza es dividido en tres grandes segmentos, cada uno compuesto por diversas actividades:
 
-XIII.- Recibir y registrar las declaraciones patrimoniales, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Oaxaca.
+a) Ecoturismo.- Es el que tiene como fin realizar actividades recreativas de apreciación y conocimiento de la naturaleza en sus diversas modalidades, aprovechando los elementos naturales, geográficos y de los ecosistemas que existen en el Estado.
 
-XIV.- Reglamentar y participar en el procedimiento de Entrega-Recepción de las oficinas de las Dependencias y Entidades de la Administración Pública Estatal.
+Quien preste algún servicio turístico que esté relacionado con el ecoturismo, o quien realice actividades en esta materia, está obligado a preservar los recursos naturales, a no alterar los procesos biológicos y ecológicos, así como a respetar las diversas expresiones históricas, artísticas, arquitectónicas, arqueológicas y culturales del Estado.
 
-XV.- Atender las quejas que presenten los particulares en relación con las responsabilidades de las Dependencias y Entidades de la Administración Pública.
+Las empresas que desarrollen actividades turísticas ecológicas, deberán realizarlas con apego a las leyes de la materia y se someterán a las limitaciones impuestas por la Secretaría y por aquellas autoridades que tengan competencia en materia ecológica y de protección al ambiente.
 
-XVI.- Vigilar e Investigar los Actos, Omisiones o Conductas de los Servidores Públicos para constituir responsabilidades Administrativas, aplicar las sanciones en los términos de las disposiciones legales, y en su caso, hacer la denuncia correspondiente ante el Ministerio Público.
+En el desarrollo del ecoturismo, la Secretaría deberá buscar acciones para minimizar el impacto negativo en el ambiente, así como para la comunidad que genera la actividad.
 
-XVII.- Designar Auditores Externos, así como normar y controlar su actividad con el propósito de efectuar revisiones periódicas de la situación financiera y contable de las Entidades Paraestatales.
+La Secretaría y los ayuntamientos tendrán la obligación de promover la educación y conciencia ambiental, como parte primordial de las actividades turísticas ecológicas, con el objeto de proporcionar experiencias positivas a los turistas y Prestadores de Servicios Turísticos;
 
-XVIII.- Establecer, coordinadamente con las Dependencias y Entidades, un Programa de Modernización Administrativa, con el propósito de promover la eficacia y eficiencia de la Administración Pública, en los términos de los objetivos, estrategias y líneas de acción del Plan Estatal de Desarrollo.
+b) Turismo de Aventura.- Son los viajes que tienen como fin realizar actividades recreativas, deportivas, asociadas a desafíos impuestos por la naturaleza y su conformación con diversas actividades agrupadas de acuerdo al espacio natural en que se desarrollan, y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE MAYO DE 1996)</small>
+c) Turismo Rural.- Son los viajes que tienen como fin realizar actividades de convivencia e interacción con una comunidad rural, en todas aquellas expresiones sociales, culturales y productivas cotidianas de la misma.
 
-XIX.- Proponer, previo Acuerdo del Gobernador del Estado, la organización interna de las Dependencias y entidades de la Administración Pública.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 1996)</small>
+VII. Turismo de Negocios.- Es el segmento de turismo cuyo motivo de viaje está vinculado con la realización de actividades profesionales y laborales, el cual abarca congresos, convenciones, ferias, exposiciones, viajes de incentivo y otros eventos de características similares;
 
-XX.- Elaborar y establecer programas de mejoramiento administrativo en coordinación con las dependencias y entidades de la Administración Pública, revisando permanentemente los sistemas, métodos y procedimientos de trabajo.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 1996)</small>
+VIII. Turismo Religioso o Espiritual.- Es aquél que se encuentra ligado a la oferta de lugares o acontecimientos de carácter religioso de relevancia, o bien de recogimiento y meditación;
 
-XXI.- Elaborar con la participación de las dependencias y entidades, el Manual General de Organización de la Administración Pública, así como los manuales de procedimientos y de servicios al público.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 1996)</small>
+IX. Turismo Social.- Es el conjunto de actividades que involucra familias y grupos sociales de jóvenes, adultos mayores, y personas con discapacidad, mediante el uso de instrumentos y programas que otorgan facilidades para permitirles viajar con fines recreativos, deportivos, educativos y culturales en condiciones adecuadas de accesibilidad económica, seguridad y comodidad.
 
-XXII.- Reglamentar el desarrollo de sistemas de informática.
+La Secretaría podrá coordinarse con las autoridades federales, estatales y municipales, así como con los sectores privado y social, para apoyar a los prestadores de servicios turísticos que se dediquen al turismo social y para promover la constitución de empresas que tengan por objeto la prestación de estos servicios accesibles a la población.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 1996)</small>
+Se consideran acciones primordiales para lograr el desarrollo del turismo social en el Estado, las siguientes:
 
-XXIII.- Los demás que le señalen las Leyes, Decretos y Reglamentos.
+a) Incrementar la participación de los prestadores de servicios turísticos, organismos públicos, privados y sociales para lograr una oferta razonable con tarifas y cuotas reducidas;
+
+b) Fomentar programas turísticos destinados al sector social, en los que se tomen en consideración necesidades, características específicas y periodos vacacionales;
+
+c) Estimular y apoyar las inversiones destinadas a programas de turismo social, a través de la formación de sociedades cooperativas, asociaciones, comités y patronatos, así como proporcionar la asesoría que requieran las personas físicas o morales interesadas en este tipo de inversiones;
+
+d) Orientar a quienes justifiquen el destino social de su inversión, en las acciones que realicen ante las autoridades competentes, con el fin de obtener un tratamiento crediticio preferencial;
+
+e) Propiciar la celebración de reuniones, congresos y seminarios regionales, estatales, nacionales e internacionales de turismo social, y
+
+f) Las demás que la Secretaría considere oportunas.
+
+La Secretaría en coordinación con la Secretaría de Educación y el Instituto Nayarita de la Juventud del Estado, elaborarán y ejecutarán de manera coordinada programas tendientes a fomentar el turismo social en el Estado de Nayarit.
+
+A los Ayuntamientos del Estado les corresponderán establecer programas municipales que impulsen y promuevan el turismo social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+X. Turismo de Salud.- Es el que tiene como fin que el turista puede realizar actividades de prevención y cuidado de la salud aprovechando los recursos, infraestructura y atención médica con que cuenta el Estado.
+
+La Secretaría deberá fomentar la coordinación con las autoridades federales, estatales y municipales, así como con los sectores privado y social, para incentivar, capacitar y desarrollar programas de promoción de prestadores de servicios turísticos que se dediquen al turismo de salud; así como promover y promocionar a las empresas y los avances en equipamiento que tengan por objeto la prestación de servicios de salud.
+
+Las entidades y organismos descentralizados de la administración pública municipal que tengan atribuciones en materia de turismo, están obligados a coordinarse en el ejercicio de sus funciones con el Ayuntamiento, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XI. Gran Turismo.- Es una categoría que se da en la clasificación hotelera siendo este el que se otorga con los estándares de la más alta calidad en el servicio y es reconocido en el ámbito nacional e internacional.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MARZO DE 2012)</small>
+
+### CAPÍTULO VII. Facultades de los Ayuntamientos en Materia Turística
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 25.
 
-A la Secretaría de Desarrollo Industrial y Comercial corresponde el despacho de los siguientes asuntos:
+Los Ayuntamientos, en el ámbito de sus respectivas competencias, tendrán en materia de turismo las siguientes facultades:
 
-I.- Planear, regular, fomentar y promover el Desarrollo Industrial y Comercial del Estado de Oaxaca, atendiendo las actividades productivas en materia de Industria, Comercio, Minería, Pesca y Artesanías, propiciando la creación de empleos.
+I. Elaborar, promover y ejecutar programas de desarrollo turístico municipal acordes al Programa Sectorial Estatal Turístico;
 
-II.- Formular los Programas de Desarrollo Industrial y Comercial y de Desarrollo Regional que correspondan al ámbito de sus atribuciones, en el marco de los objetivos y metas del Plan Estatal de Desarrollo.
+II. Celebrar acuerdos de coordinación y convenios de colaboración para el desarrollo y la promoción turística con las autoridades federales, estatales y de otros municipios del Estado en materia de Turismo, para la implementación de proyectos y programas turísticos;
 
-III.- Proponer Programas para el Financiamiento, Infraestructura, Desarrollo y Modernización de las actividades productivas en materia de Industria, Comercio, Minería, Pesca y Artesanías.
+III. Aplicar los instrumentos de política turística que les sean atribuidos por las leyes locales, así como la planeación, programación, fomento y desarrollo de la actividad turística en bienes y áreas de competencia municipal, en las materias que no estén expresamente atribuidas a la Secretaría o al Poder Ejecutivo Federal;
 
-IV.- Participar en la formulación y ejecución de los Convenios que en materia de Industria, Comercio, Minería, Pesca y Artesanías celebre el Gobierno del Estado con la federación, Entidades Federativas o con los Ayuntamientos.
+IV. Formular, ejecutar y evaluar el Programa Municipal de Turismo, el cual considerará las directrices previstas en el Plan Rector y el Programa Sectorial Turístico;
 
-V.- Promover, fomentar, orientar y estimular el establecimiento y desarrollo de la pequeña y mediana industria en el Estado.
+V. Promover, planear y ejecutar obras de infraestructura para el desarrollo de las actividades turísticas;
 
-VI.- Promover la realización de Ferias, Exposiciones y Congresos Industriales y Comerciales.
+VI. Gestionar ante las autoridades federales y estatales, los sistemas de financiamiento e inversión, para la creación de la infraestructura necesaria en las zonas turísticas;
 
-VII.- Vigilar que la exploración, explotación, beneficio y aprovechamiento de los recursos minerales del Estado, se realice de acuerdo con las disposiciones legales en la materia.
+VII. Establecer el Consejo Consultivo Municipal de Turismo que tendrá por objeto coordinar, proponer y formular las estrategias y acciones de la administración pública municipal, con el fin de lograr un desarrollo integral de la actividad turística en el Municipio;
 
-VIII.- Organizar y fomentar la producción artesanal y las Industrias Populares, promoviendo los estímulos necesarios para su desarrollo y comercialización.
+VIII. Concertar con los sectores privado y social, las acciones tendientes a detonar programas a favor de la actividad turística;
 
-IX.- Fomentar la producción, consumo y comercialización pesquera en las comunidades del Estado, realizando las tareas de Infraestructura, capacitación y enlace que para ello se requiera.
+IX. Impulsar las actividades turísticas, en el ámbito de su competencia, en las zonas de desarrollo turístico sustentable, fomentando la inversión, el empleo y el ordenamiento territorial, conservando sus recursos naturales en beneficio de la población;
 
-X.- Promover la instalación de Empresas de Producción Pesquera y la Organización de Asociaciones y Uniones de Pescadores, proporcionándoles el apoyo técnico necesario.
+X. Participar en los programas locales de ordenamiento turístico del territorio;
 
-XI.- Promover y orientar el crédito pesquero con la cooperación de las Instituciones Estatales y Federales competentes.
+XI. Participar en el diseño, instrumentación, ejecución y evaluación de los programas locales de investigación para el desarrollo turístico;
 
-XII.- Establecer, promover y concertar acciones dirigidas a garantizar el desarrollo de inversiones privadas aplicadas a actividades productivas en el Estado.
+XII. Formular y conducir la política municipal de información y difusión en materia turística;
 
-XIII.- Integrar y mantener actualizados el inventario Estatal de Proyectos Productivos y el Padrón de Empresas establecidas en el Estado.
+XIII. Coadyuvar en la instrumentación de las acciones de promoción de las actividades y destinos turísticos con que cuenta el municipio;
 
-XIV.- Promover y apoyar la capacitación y formación de los recursos humanos, que en materia de Industria, Comercio, Minería, Pesca y Artesanías, requiera el Desarrollo del Estado.
+XIV. Promover el impulso de las micro, pequeñas y medianas empresas turísticas;
 
-XV.- Realizar programas de promoción y fomento que tengan como propósito incrementar la productividad y la calidad de los productos, así como el impulso de las exportaciones.
+XV. Participar en los programas de prevención y atención de emergencias y desastres, así como en acciones para la gestión integral de los riesgos, conforme a las políticas y programas de protección civil que al efecto se establezcan;
 
-XVI.- Estimular la formación de Asociaciones, Comités o Patronatos de Carácter Público, Privado o Mixto cuyo propósito sea el Desarrollo Industrial y Comercial.
+XVI. Operar módulos de información y orientación al turista;
 
-XVII.- Vigilar que los Programas que se realicen en materia de Desarrollo Industrial y Comercial, contengan criterios Ecológicos para preservar y restaurar el medio ambiente.
+XVII. Recibir y canalizar las quejas de los turistas, para su atención ante la autoridad competente;
 
-XVIII.- Los demás que se (sic) señalen las Leyes, Decretos y Reglamentos.
+XVIII. Atender los asuntos que en materia de planeación, programación, fomento y desarrollo de la actividad turística les conceda esta Ley u otros ordenamientos legales en concordancia con ella y que no estén otorgados expresamente al Ejecutivo Federal o al Estado;
+
+XIX. Emitir opinión ante la Secretaría, en aquellos casos en que la inversión concurra en proyectos de desarrollo turístico o en el establecimiento de servicios turísticos dentro de su territorio;
+
+XX. Planificar el uso del suelo, el ordenamiento urbano y territorial, el equipamiento y regulación en las zonas y áreas con potencial turístico, así como en los asentamientos dedicados a las actividades turísticas;
+
+XXI. Presentar ante la Secretaría de Turismo Federal, proyectos de declaratoria de zonas de desarrollo turístico sustentable, de acuerdo al procedimiento y requisitos que establezca el reglamento de la Ley General de Turismo;
+
+XXII. Entregar a la Secretaría los datos económicos y estadísticos que generen en materia de Turismo; y
+
+XXIII. Las demás previstas en esta Ley y su reglamento.
 
 ###### ARTICULO 26.
 
-A la Secretaría de Desarrollo Turístico corresponde el despacho de los siguientes asuntos:
+Los Ayuntamientos, con apoyo del Estado, fomentarán el desarrollo cultural, la artesanía y la gastronomía de su región a través de campañas de publicidad y organización de ferias y exposiciones, así como de la participación de eventos turísticos regionales o nacionales.
 
-I.- Planear, regular, fomentar y promover el desarrollo de la actividad Turística en la Entidad, con la participación de los Sectores Social y Privado.
-
-II.- Participar en la formulación y ejecución de los Convenios de Desarrollo Turístico que celebre el Gobierno del Estado con la Federación, Entidades Federativas o con los Ayuntamientos.
-
-III.- Fomentar y promover el máximo aprovechamiento de los recursos Turísticos con que cuenta el Estado.
-
-IV.- Promover Nacional e Internacionalmente los atractivos Turísticos de la Entidad.
-
-V.- Realizar campañas que tengan como propósito incrementar la afluencia de visitantes, prolongar el tiempo de estadía y aumentar su derrama económica en el Estado.
-
-VI.- Vigilar en coordinación con las Autoridades Municipales, la correcta aplicación de los precios y tarifas autorizadas para la prestación de los servicios turísticos, en los términos de las disposiciones jurídicas relativas y de los Convenios celebrados con la Federación.
-
-VII.- Estimular la formación de Asociaciones, Comités o Patronatos de Carácter Público, Privado o Mixto cuyo propósito sea el Desarrollo Turístico del Estado.
-
-VIII.- Otorgar o revocar concesiones para la explotación de los recursos Turísticos del Estado.
-
-IX.- Orientar y estimular medidas de protección al Turismo y vigilar su cumplimiento en coordinación con las Autoridades Federales y Municipales.
-
-X.- Realizar Programas de auxilio e información Turística.
-
-XI.- Fomentar y mantener mecanismos de comunicación y consulta con Organizaciones Turísticas Estatales, Nacionales e Internacionales, con fines de promoción, difusión y cooperación técnica.
-
-XII.- Controlar, Supervisar y, en su caso, sancionar, de acuerdo a la Legislación en la materia y a los Convenios celebrados con la Federación, la prestación de servicios Turísticos en el Estado.
-
-XIII.- Fomentar y promover las inversiones para la construcción de Infraestructura y equipamiento para el desarrollo Turístico, así como asegurar su protección, conservación, mejoramiento y aprovechamiento.
-
-XIV.- Integrar y mantener actualizados, el inventario de recursos Turísticos y el Padrón Estatal de prestadores de servicios Turísticos.
-
-XV.- Vigilar que los Programas que se realicen en materia de Desarrollo Turístico, contengan criterios ecológicos para conservar y restaurar el medio ambiente.
-
-XVI.- Los demás que le señalen las Leyes, Decretos y Reglamentos.
-
-> <small>(ADICIONADO, P.O. 17 DE MARZO DEL 2001)</small>
-
-ARTICULO 26 bis.- A la Secretaría de Asuntos Indígenas corresponde el despacho de los siguientes asuntos:
-
-I.- Formular, organizar, promover y ejecutar las políticas y acciones para el cumplimiento de la Ley de Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca;
-
-II.- Investigar los problemas relativos a los pueblos y comunidades indígenas del Estado;
-
-III.- Estudiar, proponer y participar en las medidas de mejoramiento que requieren los pueblos y comunidades indígenas del Estado;
-
-IV.- Promover ante el Ejecutivo del Estado, la aprobación y aplicación de las medidas de mejoramiento, desarrollo, bienestar y defensa de los pueblos y comunidades indígenas del Estado;
-
-V.- Formular los programas de desarrollo coordinadamente con los pueblos y comunidades indígenas para la defensa de sus recursos naturales, conocimiento y preservación de sus sistemas normativos consuetudinarios, protección de las mujeres y niños indígenas, en congruencia con el Plan Estatal de Desarrollo;
-
-VI.- Organizar, dirigir y controlar la asistencia jurídica de personas que carezcan de defensor, así como la procuración jurídica de indígenas y los pueblos y comunidades indígenas;
-
-VII.- Intervenir en la realización de las medidas aprobadas para el mejoramiento de los pueblos y comunidades indígenas, coordinando la acción de los órganos gubernamentales competentes;
-
-VIII.- Fungir como órgano consultivo de las instituciones oficiales y privadas en las materias que, conforme a la presente Ley son de su competencia;
-
-IX.- Difundir, cuando lo estime conveniente y por los medios adecuados, los resultados de sus investigaciones, estudios, promociones y trabajos públicos;
-
-X.- Emprender las obras de mejoramiento de los pueblos y comunidades indígenas que le encomiende el Ejecutivo, en coordinación con las dependencias estatales y federales que actúen en la materia;
-
-XI.- Participar conjunta y coordinadamente con las dependencias estatales y federales competentes en la conciliación de los conflictos de límites comunales, ejidales, pequeña propiedad o municipales en donde exista interés de pueblos y comunidades indígenas;
-
-XII.- Promover la preservación del acervo cultural de las etnias y el desarrollo de las formas consuetudinarias de organización social y económica de las comunidades indígenas del Estado, en cumplimiento a las disposiciones de la Ley de Derechos de los Pueblos y Comunidades Indígenas del Estado; y
-
-XIII.- Las demás que le encomiende expresamente el Titular del Poder Ejecutivo Estatal y que le señalen Leyes, Decretos y Reglamentos.
+Para ese efecto los Ayuntamientos, con apoyo de la Secretaría, procurarán la creación de escuelas o centros artísticos en que preserve y mantengan el folklore, las costumbres y tradiciones que enaltezcan e identifiquen a la región.
 
 ###### ARTICULO 27.
 
-A la Secretaría de Desarrollo Agropecuario y Forestal corresponde el despacho de los siguientes asuntos:
+Los Ayuntamientos podrán declarar de interés público la conservación y protección de poblaciones o parte de ellas, a fin de mantener su carácter cultural propio o típico.
 
-I.- Planear, regular, fomentar y promover el Desarrollo Agrícola, Ganadero y Forestal del Estado, con la participación de los Sectores Social y Privado.
-
-II.- Participar en la formulación y ejecución de los Convenios de Desarrollo Agrícola, Ganadero y Forestal que celebre el Gobierno del Estado con la Federación, Entidades Federativas o con los Ayuntamientos.
-
-III.- Estimular la formación de Asociaciones, Comités o Patronatos de Carácter Público, Privado o Mixto cuyo propósito sea el Desarrollo Agrícola, Ganadero y Forestal.
-
-IV.- Investigar, determinar y aplicar los métodos y procedimientos técnicos que permitan incrementar la productividad de las actividades Agrícolas, Ganaderas y Forestales del Estado.
-
-V.- Fomentar y coordinar el aprovechamiento, conservación y mejoramiento de los suelos Agrícolas y los Bosques, mediante la aplicación de métodos y procedimientos adecuados; Así como cuidar de la conservación, fomento y desarrollo de la flora y la fauna de la Entidad, en coordinación con las Autoridades Federales competentes.
-
-VI.- Promover y asesorar la celebración de Convenios o Contratos por parte de los ejidos o Comunidades entre sí, o con terceros, para la explotación de sus frutos, recursos y aprovechamientos.
-
-VII.- Realizar los Estudios que permitan desarrollar Programas de Forestación y Reforestación en las Zonas Boscosas de la Entidad.
-
-VIII.- Asesorar y Organizar Técnicamente a los Ejidos, Comunidades y pequeños propietarios para el óptimo aprovechamiento de los recursos Forestales.
-
-IX.- Promover la investigación Agrícola, Ganadera y Forestal estableciendo para ello Laboratorios de Patología Animal, Experimentales, Postas de Producción, Centros de Desarrollo Genético, Campos Experimentales, Lotes Demostrativos, Semilleros y Viveros.
-
-X.- Promover y organizar Congresos, Seminarios y otros eventos similares que propicien el incremento e intercambio de conocimientos técnicos de los productores Agrícolas, Ganaderos y Forestales del Estado.
-
-XI.- Controlar el movimiento interno del Ganado y de los productos forestales, llevar estadísticas de la producción y tasas de extracción y dictar las Políticas de Inspección Ganadera y Forestal.
-
-XII.- Elaborar y ejecutar los Programas de organización, capacitación y asistencia técnica a los productores del medio rural en el Estado.
-
-XIII.- Proponer la ejecución de aquellas obras de infraestructura que se requieran para el desarrollo Agrícola, Ganadero y Forestal.
-
-XIV.- Coordinar y supervisar Programas de construcción de obras de pequeña irrigación, bordos, canales, abrevaderos y otras obras de infraestructura hidroagrícola, ganadera y forestal; así como promover su conservación en coordinación con Instituciones Públicas y con los particulares.
-
-XV.- Asesorar a las diversas comunidades respecto de la adquisición de insumos, maquinaria y equipo, procurando promover el máximo abatimiento de los costos.
-
-XVI.- Apoyar a los productores en la obtención y distribución oportuna de insumos, para prevenir plagas y enfermedades.
-
-XVII.- Promover y apoyar la ejecución de Programas para el combate y prevención de plagas.
-
-XVIII.- Fomentar, Organizar, Asesorar y Supervisar a las Comunidades para el establecimiento de Agroindustrias.
-
-XIX.- Evaluar técnica y administrativamente la ejecución de Programas y Proyectos de Fomento y Desarrollo Agroindustrial.
-
-XX.- Establecer, en coordinación con las Areas correspondientes, los procesos de comercialización de los productos Agrícolas, Ganaderos y Forestales.
-
-XXI.- Coordinar sus actividades con las Dependencias Públicas que participen en la ejecución de Programas Agroindustriales a fin de determinar las normas y criterios técnicos a seguir.
-
-XXII.- Vigilar que los programas que se realicen en materia Agrícola, Ganadera y Forestal, contengan criterios ecológicos para conservar y restaurar el medio ambiente.
-
-XXIII.- Los demás que le señalen las Leyes, Decretos y Reglamentos.
-
-> <small>(ADICIONADO, P.O. 5 DE JULIO DE 1999)</small>
-
-ARTICULO 27 BIS.- A la Secretaría de Transporte corresponde el despacho de los siguientes asuntos:
-
-I.- Formular, organizar y ejecutar los planes, programas y acciones en materia de tránsito vehicular y transportes terrestres, privados y públicos, de pasaje o carga, en las vías de jurisdicción estatal, con la intervención de los Municipios;
-
-II.- Desahogar los procedimientos jurídicos de todos aquellos asuntos que conforme a las disposiciones legales y reglamentarias demanden la aprobación o decisión del Ejecutivo del Estado, en materia de transporte;
-
-III.- Coordinar y promover la celebración de convenios de coordinación y colaboración con los Municipios del Estado, en los términos del artículo 115 de la Constitución Federal;
-
-IV.- Coordinarse con otras Entidades Federativas y las Autoridades Federales, previo acuerdo del Ejecutivo Estatal, con la finalidad de lograr eficiencia y seguridad en los servicios de tránsito y transportes públicos;
-
-V.- Elaborar y proponer, a las autoridades competentes, estudios y proyectos de infraestructura vial que se requieran en el Estado;
-
-VI.- Formular en el ámbito de su competencia, la reglamentación en materia de tránsito y transportes, así como aplicar las normas técnicas y operativas que de éstos emanen;
-
-VII.- Supervisar la correcta explotación de las concesiones y permisos de transporte público, de pasaje o carga, en cualquiera de sus modalidades, vigilando su funcionamiento y operación;
-
-VIII.- Instruir los procedimientos de revocación o suspención temporal de las concesiones y de transporte público de pasaje o carga en cualquiera de sus tipos y modalidades, así como para la aplicación de las sanciones correspondientes en los términos de la ley respectiva;
-
-IX.- Vigilar que los vehículos particulares y los destinados al servicio público de transporte de pasaje o carga, cumplan con las medidas y dispositivos que en materia ecológica dispongan las autoridades competentes, para la preservación del medio ambiente;
-
-X.- Aprobar las tarifas aplicables de los servicios públicos de transporte en el Estado;
-
-XI.- Ejercer la conducción y administración de la Dirección de Tránsito del Estado;
-
-XII.- Integrar, con la participación de los sectores público, social y privado, órganos colegiados de apoyo y asesoría técnica en materia de transporte, coordinando su funcionamiento; y
-
-XIII.- Las demás que le confieran las Leyes, Decretos y Reglamentos.
+En la declaratoria que se expida apoyada por las autoridades competentes, se establecerán las bases de urbanización, estilo arquitectónico, vegetación, anuncios, publicidad e instalaciones de todo tipo que garanticen las características de atracción para el turista, con sujeción a los planes estatales y municipales de desarrollo.
 
 ###### ARTICULO 28.
 
-A la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas corresponde el despacho de los siguientes asuntos:
-
-I.- Planear, regular y realizar actividades en materia de Asentamientos Humanos, desarrollo urbano, comunicaciones, obras públicas y vivienda.
-
-II.- Formular y Ejecutar Programas de regulación de los Asentamientos Humanos en el Estado, en coordinación con las Instituciones Públicas y Privadas competentes.
-
-III.- Coordinar la elaboración de los Planes de Ordenación y regulación de los Asentamientos Humanos en el Estado y promover la observancia y permanente actualización.
-
-IV.- Elaborar proyectos y planos urbanísticos en coordinación con los Ayuntamientos, relativos al desarrollo de los Centros de Población en la Entidad y establecer y regular la reserva territorial.
-
-V.- Promover y vigilar el equilibrado desarrollo de los Asentamientos Humanos en el Estado y proponer las medidas necesarias para el mejoramiento urbano de las zonas marginadas.
-
-VI.- Celebrar convenios con los particulares, respecto de las afectaciones que sufran sus predios con motivo de la ejecución de obras urbanas del Gobierno del Estado.
-
-VII.- Formular los proyectos y fijar las normas a que deben sujetarse los Programas de Vivienda Popular, coordinándose con los Organismos Públicos o Privados competentes.
-
-VIII.- Formular y realizar Programas que estimulen la construcción de Viviendas, mediante la obtención de estímulos financieros, fiscales y administrativos.
-
-IX.- Promover y fomentar el incremento de mecanismos de financiamiento destinados a la edificación, mejoramiento y rehabilitación de Vivienda.
-
-X.- Construir, conservar o modificar los bienes inmuebles destinados al servicio Público Estatal, en los términos de los objetivos, metas y previsiones del presupuesto de Egresos.
-
-XI.- Participar en la Programación Anual de la Obra Pública.
-
-XII.- Expedir las bases a que deben sujetarse los concursos para la adjudicación de Contratos de Obras Públicas, vigilar el cumplimiento de los mismos, de acuerdo a los requisitos técnicos de los proyectos y elaborar los informes que permitan conocer el avance y la calidad de la obra.
-
-XIII.- Participar, cuando así se convenga, con los Ayuntamientos, en el otorgamiento de permisos, alineamientos y licencias a personas físicas y morales para la construcción o reconstrucción de obras públicas o privadas en el Estado.
-
-XIV.- Efectuar, en el ámbito de su competencia, la remodelación y adaptación de Edificios Públicos, Monumentos, Plazas Públicas, Areas Verdes, Regeneración de Zonas y Areas de Estudio y reposición de Elementos Arquitectónicos, así como Areas de Conservación.
-
-XV.- Realizar los Estudios y Proyectos para la Construcción de Obras para la conservación y restauración de los Inmuebles de Valor Histórico o Artístico propiedad del Gobierno del Estado, de acuerdo con las disposiciones Legales aplicables al respecto.
-
-XVI.- Planear, coordinar y evaluar los Programas y Proyectos de Construcción de los Sistemas de Agua Potable, Drenaje y Alcantarillado que sean competencia del Gobierno Estatal.
-
-XVII.- Realizar Programas y Proyectos en materia de Construcción y Conservación de Carreteras y Caminos Estatales.
-
-XVIII.- Ejecutar y Evaluar los Programas y Proyectos de Construcción y Conservación de los Sistemas de Carreteras y Caminos Rurales de Jurisdicción Estatal.
-
-XIX.- Realizar los Estudios y Proyectos de las Obras de Caminos Rurales.
-
-XX.- Supervisar y proporcionar asesoría técnica a los trabajos de obras de Comunicación, realizados por medio de Sistemas tradicionales de ayuda comunitaria.
-
-XXI.- Administrar los Módulos de Maquinaria.
-
-XXII.- Asesorar técnicamente a las Poblaciones que lo soliciten, en materia de Asentamientos Humanos, Desarrollo Urbano, Comunicaciones, Obras Públicas y Vivienda.
-
-XXIII.- Vigilar que los programas que se realicen en materia de Asentamientos Humanos, Desarrollo Urbano, Comunicaciones, Obras Públicas y Vivienda, contengan criterios Ecológicos para conservar y restaurar el medio ambiente.
-
-XXIV.- Los demás que le señalen las Leyes, Decretos y Reglamentos.
+Para que una extensión geográfica determinada, o una población o parte de ésta sea declarada zona turística, se requerirá que tenga características de atracción para el turismo, tales como bellezas naturales o arquitectónicas, por sus monumentos arqueológicos, coloniales, valores artísticos, por sus condiciones climatológicas para la salud o esparcimiento, o que se tenga perspectivas de reunir alguna o algunas de esas cualidades.
 
 ###### ARTICULO 29.
 
-A la Secretaría de Salud corresponde el despacho de los siguientes asuntos:
+Los Ayuntamientos establecerán en sus Bandos Municipales, normas tendientes a la protección, conservación y mantenimiento de las poblaciones que sean declaradas culturalmente típicas que deberán referirse por lo menos a: anuncios, avisos, carteles, hilos telegráficos, telefónico, conductores de energía eléctrica, aparatos sonoros, establecimientos de garajes, sitios de automóviles, expendios de gasolinas y lubricantes, kioscos, templetes, juegos, puestos y toda construcción permanente o provisional que pueda demeritar la apariencia típica o tradicional del lugar.
 
-I.- Planear, coordinar y evaluar el Sistema Estatal de Salud de conformidad con el Plan Estatal de Desarrollo, las disposiciones legales en la materia y propiciando la participación de los Sectores Social y Privado.
-
-II.- Proporcionar servicios de salud a toda la población del Estado, en coordinación con las Autoridades Federales y Municipales competentes y en los términos del marco Jurídico relativo.
-
-III.- Realizar Programas de atención médica, preferentemente en beneficio de grupos vulnerables, así como los que se relacionen con la atención materno-infantil.
-
-IV.- Participar en la formulación y ejecución de los Convenios, que en materia de Salud, celebre el Gobierno del Estado con la Federación o con los Ayuntamientos.
-
-V.- Promover la capacitación y desarrollo de los recursos humanos para la Salud.
-
-VI.- Mantener actualizado el diagnóstico de Salud en la Entidad.
-
-VII.- Colaborar al bienestar social de la población del Estado, mediante servicios de Asistencia Social.
-
-VIII.- Impulsar el Desarrollo Integral de la Familia.
-
-IX.- Promover y Participar en las actividades de investigación para la Salud.
-
-X.- Adecuar y difundir las normas y procedimientos técnicos para la ejecución de Programas en materia asistencial y los de enseñanza, investigación y educación para la Salud.
-
-XI.- Controlar el ejercicio privado de la medicina y profesiones afines y promover su participación activa en acciones concretas de los programas establecidos.
-
-XII.- Supervisar las actividades que se realizan en los niveles jurisdiccionales y operativo para evaluar el cumplimiento de los programas de atención médica.
-
-XIII.- Organizar y fomentar la prestación de servicios de Planificación Familiar.
-
-XIV.- Ejecutar la dictaminación sanitaria en el Estado.
-
-XV.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente.
-
-XVI.- Tramitar y expedir registros, autorizaciones, permisos y licencias sanitarias.
-
-XVII.- Tramitar y ejecutar lo relativo a regulación sanitaria de importaciones y exportaciones.
-
-XVlll.- Vigilar y fomentar la regulación sanitaria de la publicidad.
-
-XIX.- Apoyar y supervisar el ejercicio de la Medicina Tradicional.
-
-XX.- Los demás que le señalen las Leyes, Decretos y Reglamentos.
-
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1996)</small>
+### CAPÍTULO VIII. Inversión Turística
 
 ###### ARTICULO 29 Bis.
 
@@ -851,224 +871,292 @@ VIII.- Definir previo Acuerdo del Gobernador del Estado los criterios y polític
 
 IX.- Los demás que le confieren las leyes, decretos, acuerdos, reglamentos u otras disposiciones jurídicas aplicables.
 
-### CAPITULO IV
+### CAPÍTULO IV. Promoción, Fomento y Desarrollo Turístico
 
-De las Delegaciones Regionales de Gobierno.
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 17 I.- Corresponde a la Secretaría la promoción turística de la Entidad, en los ámbitos local, nacional e internacional. Los Ayuntamientos deberán promover la actividad turística dentro de su ámbito territorial, en el marco de lo dispuesto en el Programa Sectorial.
+
+En el caso de la promoción internacional, esta se llevará a cabo en coordinación con las autoridades federales en la materia.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 17 J.- La Secretaría se encargará de expedir los lineamientos técnicos para el diseño y producción de las campañas turísticas publicitarias en la entidad.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 17 K.- La Secretaría promoverá el uso de las marcas y regiones turísticas de Nayarit en todos los materiales gráficos, visuales y electrónicos que se utilicen con fines de promoción y difusión turísticas.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 17 L.- La promoción turística nacional e internacional comprenderá entre otras, las siguientes actividades, estrategias y acciones:
+
+I. La participación de la Secretaría y de los prestadores de servicios turísticos en eventos, congresos y exposiciones turísticas nacionales e internacionales.
+
+La promoción de la oferta turística del Estado en mercados estratégicos nacionales o internacionales, en coordinación con instituciones, organismos oficiales, asociaciones, empresas y particulares que tengan relación directa con el sector turístico en la entidad;
+
+II. La publicación y distribución de libros, revistas, folletos y otros materiales audiovisuales o electrónicos, dedicados a la difusión de los atractivos naturales, el patrimonio cultural, así como las categorías y los servicios turísticos del Estado;
+
+III. La promoción de Nayarit como destino para la inversión entre empresarios nacionales y extranjeros;
+
+IV. La difusión de las marcas turísticas de Nayarit y sus regiones, imágenes y servicios turísticos, así como los atractivos naturales de Nayarit, en medios de comunicación masiva;
+
+V. El apoyo, información y asesoría a los turistas en la entidad;
+
+VI. La gestión para que espectáculos o eventos deportivos, culturales, turísticos, o de naturaleza similar que representen especial relevancia o alto impacto se desarrollen en los diferentes destinos turísticos del Estado, y
+
+VII. Cualquier otra actividad que tenga por objeto la comunicación persuasiva para incrementar la imagen, los flujos turísticos, la estadía y el gasto de los turistas en el Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 17 M.- La Secretaría difundirá la información turística a través de internet, centros y módulos de información turística, entre otros medios.
+
+La Secretaría determinará el sitio o sitios de Internet oficiales del Gobierno del Estado para la información y promoción turística de la Entidad.
+
+La dirección electrónica del sitio o sitios de Internet deberán aparecer en todos los materiales de promoción y oficiales de la Secretaría.
+
+Los centros de información turística ofrecerán información, orientación y asesoramiento acerca de los servicios y atractivos de interés de un sitio turístico y deberán estar en lugares estratégicos y visibles para facilitar su localización, para tal efecto deberán contar con personal capacitado en la materia.
 
 ###### ARTICULO 30.
 
-Con el propósito de atender de manera inmediata los asuntos que sean sometidos a su autoridad, coordinar los esfuerzos Gubernamentales y brindar apoyo a las organizaciones, ciudadanía y sus autoridades. El Gobernador del Estado contará con el auxilio de las Delegaciones Regionales de Gobierno.
+La Secretaría en coordinación con los organismos del sector serán los encargados de asesorar, fomentar, promover, y apoyar los proyectos de inversión turística, que se pretendan realizar en la entidad, así mismo, se coordinará con los tres niveles de gobierno, para la elaboración de estudios y proyectos de infraestructura turística.
 
 ###### ARTICULO 31.
 
-Las delegaciones Regionales de Gobierno funcionarán como órganos desconcentrados de la oficina del Gobernador del Estado.
+La Secretaría apoyará ante las dependencias respectivas y el gobierno federal, el otorgamiento de financiamientos para el desarrollo de proyectos y ejecución de obras de infraestructura turística.
+
+De la misma forma gestionará ante las autoridades correspondientes el otorgamiento de facilidades, beneficios y estímulos a los inversionistas de la actividad turística, aprovechando los mecanismos ya existentes, para aquellos prestadores de servicios turísticos que invierta en:
+
+I.- Remodelación, ampliación, equipamiento, rehabilitación y desarrollo de la infraestructura o servicios turísticos;
+
+II.- Adquisición de equipos que contribuyan al ahorro de energía eléctrica y agua, así como para el tratamiento de aguas de desecho o disposición final de residuos de cualquier tipo;
+
+III.- Promoción estatal, nacional o internacional de paquetes de atractivo turístico por cuenta propia;
+
+IV.- Mantenimiento de accesos, paradores, sitios de interés histórico de los alrededores del establecimiento en donde se presenten los servicios turísticos;
+
+V.- Realización o promoción de visitas a lugares de interés turístico dentro del municipio en donde se encuentre el prestador de servicios turísticos;
+
+VI.- Las demás que establezca la Secretaría o que tenga relación con las fracciones anteriores.
+
+Para el ejercicio de procedencia de lo señalado en este artículo, la Secretaría verificará física y documentalmente el monto y destino de las inversiones, sobre las cuales levantará acta circunstanciada a la que anexará los documentos o instrumentos que correspondan.
+
+El otorgamiento de los beneficios y estímulos que estipula este artículo no dará lugar al pago de contraprestación alguna a cargo del prestador de servicios turísticos, debiendo este último facilitar el acceso y la documentación que resulte pertinente.
 
 ###### ARTICULO 32.
 
-A las delegaciones Regionales de Gobierno corresponde el despacho de los siguientes asuntos:
-
-I.- Realizar las funciones que correspondan a las Coordinaciones de los Subcomités Regionales del COPLADE.
-
-II.- Coadyuvar en el cumplimiento de las funciones que están a cargo de las Dependencias y Entidades de la Administración Pública Estatal.
-
-III.- A solicitud de las Autoridades Municipales, auxiliarlas en los trámites y gestiones que deban realizar ante las oficinas de las Administraciones Públicas Federal y Estatal.
-
-IV.- Asesorar y apoyar a los Ayuntamientos cuando así lo soliciten, en las actividades de Programación, Presupuestación, Ejecución y Supervisión de Obras y Servicios de Desarrollo Municipal.
-
-V.- Participar en las actividades de desconcentración y descentralización de funciones que sean encomendadas por el Estado a los Municipios.
-
-VI.- Los demás que le señalen las Leyes, Decretos y Reglamentos.
+La Secretaría promoverá ante los sectores público, social y privado la creación de empresa dedicadas a la actividad turística, identificando las posibilidades de inversión, factibilidad económica y financiera para propiciar la creación de nuevos centros de desarrollo, buscando un balance con las necesidades específicas de la zona y la protección y conservación de los recursos naturales y culturales.
 
 ###### ARTICULO 33.
 
-El Gobernador del Estado determinará el Ambito Territorial y sede de las Delegaciones Regionales de Gobierno.
+Los turistas que permanezcan por más de siete días en el territorio del estado, se harán acreedores a obtener gratuitamente algunos de los servicios que para tal efecto se establezcan, para ser utilizados en su próxima visita. La Secretaría, con opinión de los Ayuntamientos y de los prestadores de servicios turísticos fijará las bases de dichas ofertas y vigilará el cumplimiento de esta disposición.
 
-### CAPITULO V. De la Coordinación para los procesos de Planeación, Finanzas y Administración
+### CAPÍTULO V. Capacitación y Cultura Turística
 
 ###### ARTICULO 34.
 
-Para coordinar la participación de los Sectores Público, Social y Privado en el cumplimiento de los objetivos y metas del Plan Estatal de Desarrollo; mejorar permanentemente la Administración Pública; y compatibilizar la Inversión, el Gasto Público y su Financiamiento, el Gobernador del Estado presidirá los siguientes organismos colegiados:
+Las dependencias y entidades de la Administración Pública Estatal y Municipal deberán:
 
-I.- COMITE ESTATAL DE PLANEACION PARA EL DESARROLLO DE OAXACA.
+I. Otorgar a los inversionistas y prestadores de servicios turísticos las facilidades necesarias, a fin de agilizar los trámites y procedimientos por ventanilla única para el cumplimiento de sus obligaciones; así como para la obtención de los apoyos a que se refiere esta Ley;
 
-II.- COMISION INTERNA DE ADMINISTRACION PUBLICA.
+II. Simplificar y, en su caso, adecuar los trámites de procedimientos que incidan en la instalación, funcionamiento y fomento de los servicios turísticos, en tanto basten para ello disposiciones administrativas o resoluciones de los titulares respectivos;
 
-III.- COMISION INTERSECRETARIAL DE GASTO FINANCIAMIENTO.
+III. Cuando dichos trámites deban cumplirse en varias unidades administrativas de una misma dependencia, ésta adoptará las medidas para establecer una sola ventanilla para su atención y despacho.
+
+### CAPÍTULO IX. Registro Estatal de Turismo
 
 ###### ARTICULO 35.
 
-El Comité Estatal de Planeación para el Desarrollo de Oaxaca es un organismo Público Descentralizado en el que participan Titulares de Dependencias y Entidades de las Administraciones Públicas Federal, Estatal y Municipales. El Coordinador General del Comité será designado por el Gobernador del Estado.
+La Secretaría organizará el Registro Estatal de Turismo, como un instrumento para la estadística, regulación y control tanto de los prestadores de servicios turísticos previstos en esta ley y disposiciones que de ella emanen, como de los apoyos y estímulos que se les otorguen. Para tal efecto, la Secretaría recabará la opinión de los Ayuntamientos a fin de que coadyuven en su implementación, actualización y control.
 
 ###### ARTICULO 36.
 
-Además de la organización y funciones que le confiere la Ley que determina su creación, la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, tendrá a su cargo el despacho de los siguientes asuntos:
+Los prestadores de servicios turísticos para poder recibir los apoyos y estímulos previstos en esta ley, tienen la obligación de inscribirse en el Registro Estatal de Turismo en los términos que prevea el reglamento respectivo, y cumplir con los requisitos para expedirle su cédula estatal de calidad turística. En el caso de inversionistas con nuevos proyectos turísticos que soliciten apoyos y estímulos, deberán registrarse y cumplir con las normas respectivas para extenderles la cédula de calidad turística.
 
-I.- Coordinar las actividades de Planeación para el Desarrollo de Oaxaca y formular el Plan Estatal de Desarrollo con la participación de los grupos sociales interesados.
+La inscripción es voluntaria para aquellos prestadores de servicios turísticos no sujetos a competencia federal.
 
-II.- Integrar el Convenio de Desarrollo Social, así como Supervisar y Evaluar su Ejecución.
+### CAPÍTULO X. Protección al Turista
 
-III.- Programar y Autorizar la Inversión Pública Estatal.
-
-IV.- Controlar y Evaluar la ejecución de Programas de Inversión Pública, en relación con el cumplimiento de los objetivos y metas del Plan Estatal de Desarrollo.
-
-V.- Reglamentar y coordinar el Sistema Unico de Información Geográfica y Estadística del Estado de Oaxaca.
-
-VI.- Los demás que le señalen las Leyes, Decretos y Reglamentos.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 37.
 
-La Comisión Interna de Administración Pública es un Organismo integrado por los Titulares de las Secretarías, de la Procuraduría General de Justicia, la Contraloría General y los demás Funcionarios que determine el Gobernador del Estado. El Secretario Técnico de la Comisión será el Secretario de Administración.
+Los turistas tendrán los siguientes derechos:
+
+I. Recibir servicios turísticos de calidad;
+
+II. Recibir de las autoridades competentes y organismos auxiliares, los servicios de seguridad, información y auxilio turístico;
+
+III. Recibir de forma clara información del precio y condiciones de servicio, uso y disfrute del mismo, antes de la contratación con los Prestadores de Servicios Turísticos;
+
+IV. Usar y recibir el servicio o bienes contratados en la forma, términos, condiciones y tiempo convenido, de acuerdo a la categoría con la que se ostenta el prestador de servicios turísticos;
+
+V. Presentar quejas y denuncias sobre la prestación de servicios turísticos ante las autoridades competentes, y
+
+VI. Hacer uso de las demás prerrogativas que establezcan esta Ley y otras disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
+
+ARTICULO 37 A.- Los turistas que se encuentren en el territorio del Estado, tendrán las obligaciones siguientes:
+
+I. Cumplir las condiciones establecidas por los prestadores de servicios turísticos para el adecuado uso y disfrute de los servicios contratados;
+
+II. Realizar el pago de los servicios contratados y en su caso recibidos, en los términos establecidos;
+
+III. Evitar cualquier daño al patrimonio natural del Estado, a los ecosistemas o a cualquier elemento de la diversidad biológica;
+
+IV. Respetar el entorno natural de los sitios en los que realicen actividades turísticas;
+
+V. Utilizar el agua, la energía y demás recursos naturales de manera moderada y responsable;
+
+VI. Minimizar la generación de residuos y desecharlos en los sitios que los prestadores de servicios turísticos destinen para ello o en lo que indiquen los señalamientos de las autoridades federales, estatales o municipales;
+
+VII. Respetar las tradiciones, costumbres, gastronomía y demás expresiones de la cultura local;
+
+VIII. Abstenerse de adquirir flora o fauna protegida por los convenios internacionales firmados por México, por la normatividad en materia de medio ambiente;
+
+IX. Evitar cualquier daño al patrimonio histórico y cultural del Estado, a los monumentos históricos, arquitectónicos, arqueológicos o a cualquier elemento de la riqueza cultural;
+
+X. Hacer del conocimiento de las autoridades competentes, el posible daño o perjuicio a una zona turística por la conducta negligente de los Prestadores de Servicios Turísticos, y
+
+XI. Las demás que establezcan esta Ley, su reglamento y demás normatividad aplicable.
 
 ###### ARTICULO 38.
 
-A la Comisión Interna de Administración Pública corresponde el despacho de los siguientes asuntos:
-
-I.- Efectuar acciones de Reforma Institucional que tengan como propósito poner en operación las disposiciones de esta Ley.
-
-II.- Decidir sobre los proyectos que tiendan a mejorar la organización y funcionamiento de la Administración Pública y establecer los mecanismos necesarios para llevarlos a cabo.
-
-III.- Captar y analizar las demandas y propuestas que para mejorar la Administración Pública efectúen los ciudadanos del Estado.
-
-IV.- Plantear y promover en su caso, las reformas necesarias a las estructuras formal, orgánica y de los sistemas y procedimientos que se crean convenientes, para mejorar la Administración Pública Estatal.
-
-V.- Proponer Reformas a la Ley Orgánica de la Administración Pública del Estado de Oaxaca, a sus reglamentos y al Manual General de Organización.
-
-VI.- Proponer los medios más adecuados para coordinar la actuación de la Administración Pública Estatal.
-
-VII.- Los demás que sean necesarios para el cumplimiento de sus responsabilidades.
+En caso de que el prestador del servicio turístico incumpla con uno de los servicios ofrecidos o pactados o con la totalidad de los mismos, tendrá la obligación de rembolsar, bonificar o compensar la suma correspondiente al servicio incumplido, o bien podrá prestar otro servicio de la misma calidad o equivalencia al que hubiere incumplido, a elección del turista.
 
 ###### ARTICULO 39.
 
-La Comisión Intersecretarial de Gasto-Financiamiento es un organismo integrado por los Secretarios de Finanzas y Administración, el Contralor General y los demás Funcionarios que determine el Gobernador del Estado. El señalado en primer término fungirá como Secretario Técnico del (sic) la Comisión.
+Para determinar si el servicio prestado cumple con la calidad ofrecida, se tomarán como referencia las normas mexicanas y a falta de éstas, las establecidas por organismos internacionales, salvo que el prestador de servicios haya descrito ostensiblemente las características y la forma en que se preste el servicio.
 
 ###### ARTICULO 40.
 
-A la Comisión Intersecretarial de Gasto-Financiamiento le corresponderá el despacho de los siguientes asuntos:
+Cuando el turista resida en la República Mexicana, podrá presentar su denuncia ante la Procuraduría Federal de Protección al Consumidor, en la oficina más cercana a su domicilio.
 
-I.- Recomendar que sean compatibles las decisiones que se tomen en materia de Gasto Público y su financiamiento y de los Programas correspondientes, así como sugerir medidas tendientes al mejoramiento del sistema de control y evaluación del ejercicio presupuestal.
+Si el turista reside en el extranjero, también podrá denunciar ante la Procuraduría Federal de Protección al Consumidor, las violaciones a la presente Ley por correo certificado y seguir el procedimiento de conciliación de arbitraje por ese mismo medio o por cualquier otro medio de comunicación que acuerden las partes y que permita hacer el procedimiento más expedito.
 
-II.- Analizar el comportamiento del Gasto Público y su financiamiento, para evitar desviaciones respecto a lo programado y sugerir las medidas correctivas, en su caso, recomendar los ajustes a los programas anuales de Gasto Financiamiento de la Administración Pública Estatal.
+La denuncia podrá presentarse también por conducto de las Representaciones de la Secretaría en el extranjero, a elección del afectado.”
 
-III.- Examinar la situación Financiera de las Empresas y Organismos Públicos, preferentemente la de aquellos que presenten condiciones críticas, en colaboración con los Coordinadores de Sector o Representantes de las propias Entidades, para proponer las medidas conducentes.
+### CAPÍTULO XI. De la Verificación
 
-IV.- Proponer un Calendario de Ingresos y Gastos para prever las necesidades de Financiamiento que, con la oportunidad requerida, permita contar con los recursos suficientes para lograr el debido cumplimiento de las obligaciones del Estado, cuidando que se armonice el ejercicio del Presupuesto de Egresos con los recursos provenientes de la Ley de Ingresos y del Financiamiento del Sector Público Estatal.
-
-V.- Promover mecanismos de comunicación permanente entre las Secretarías de Finanzas, de Administración y la Contraloría General, que permitan conocer con oportunidad y confiabilidad el ejercicio del Gasto Público y su financiamiento.
-
-VI.- Los demás que sean necesarios para el cumplimiento de su responsabilidad.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 41.
 
-El Gobernador del Estado podrá constituir Comisiones Intersecretariales, para el despacho de asuntos en que deban intervenir varias Secretarías.
+Es facultad de la Secretaría realizar visitas de verificación a los Prestadores de Servicios Turísticos, a efecto de constatar el debido cumplimiento de las obligaciones a su cargo establecidas en esta Ley, en su reglamento y en las normas oficiales mexicanas, así como coordinarse con las autoridades fiscales a efecto de que los prestadores de servicios turísticos informen sobre el efectivo cumplimiento al pago del Impuesto al Hospedaje.
 
-Las Entidades de la Administración Pública Paraestatal podrán integrarse a dichas Comisiones, cuando se trate de asuntos relacionados con su objeto.
+### CAPÍTULO VI. De las Ramas del Turismo
 
-Las Comisiones podrán ser transitorias o permanentes y serán presididas por quién determine el Gobernador del Estado.
-
-### CAPITULO VI. De la Administración Publica Paraestatal
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 42.
 
-Son Organismos Descentralizados las Entidades creadas, por Ley o Decreto de la Cámara de Diputados o por Decreto del Gobernador del Estado, con personalidad Jurídica y Patrimonio propios.
+La Secretaría y la Procuraduría Federal de Protección al Consumidor evitarán duplicaciones en sus programas de verificación para lo cual establecerán las bases de coordinación correspondientes.
 
 ###### ARTICULO 43.
 
-Son Empresas de participación Estatal las Sociedades de cualquier naturaleza, en las que el Gobierno del Estado aporte o sea propietario de un porcentaje del capital social.
+Las visitas de verificación que efectúe la Secretaría se rigen por ésta Ley y se practicarán en días y horas hábiles, por personal autorizados (sic) que exhiba identificación vigente y la orden de verificación respectiva, la que deberá ser expedida por la autoridad competente y en la que claramente se especifiquen las disposiciones cuyo cumplimiento habrá de verificarse y la manera de hacerse. Sin embargo, podrán practicarse visitas en días y horas inhábiles, en aquellos casos en que el tipo y la naturaleza de los servicios turísticos así lo requieran, pero dentro del horario de funcionamiento autorizado para el establecimiento.
 
 ###### ARTICULO 44.
 
-El Poder Ejecutivo intervendrá en las operaciones de las Entidades Paraestatales a través de una Coordinación Sectorial por parte de sus Dependencias, considerando la esfera de competencia de éstas y su relación con el objeto de dichas Entidades.
-
-> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1993)</small>
-
-La Comisión de Derechos Humanos del Estado Libre y Soberano de Oaxaca atendiendo a sus objetivos específicos y a la naturaleza de sus funciones, queda excluida de lo dispuesto en el párrafo anterior, sin perjuicio de lo establecido por los artículos 15, fracción IX y19, fracción VI de la Ley que la rige.
+Durante las visitas de verificación que se practiquen, los prestadores de servicios turísticos proporcionarán a la autoridad la información que les sea solicitada, siempre que se refiera a las disposiciones que expresamente se señalen en la orden de verificación.
 
 ###### ARTICULO 45.
 
-Corresponde a las Coordinadoras de Sector coordinar la Programación, Presupuestación y Operación, Evaluar los resultados y participar en los órganos de Gobierno de las Entidades Sectorizadas.
+A toda visita de verificación que se realice, corresponderá el levantamiento del acta respectiva, debidamente circunstanciada y elaborada en presencia de dos testigos propuestos por la persona que haya atendido la visita o por el verificador, si aquella se hubiere negado a designarlos.
 
 ###### ARTICULO 46.
 
-Sin menoscabo de lo dispuesto en el artículo anterior, las Entidades Paraestatales tendrán Autonomía de Gestión para el cabal cumplimiento de su objeto, así como de los objetivos y metas de los Programas a su cargo; al efecto contarán con una administración descentralizada, ágil y eficiente y se sujetarán a lo dispuesto por la Ley.
+En las actas que se levanten con motivo de una visita de verificación, se hará constar, por lo menos, lo siguiente:
 
-T R A N S I T O R I O S
+I.- Hora, día, mes y año en que se practicó la visita;
 
-PRIMERO.- Se abroga la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca, contenida en el decreto número 12, de fecha 28 de noviembre de 1986 y publicado en el Periódico Oficial número 49, del 1º de Diciembre de 1986, así como todas las disposiciones que se opongan a la presente Ley.
+II.- Objeto de la visita;
 
-SEGUNDO.- En todos los casos en que por aplicación de esta Ley se modifique la dependencia de adscripción de los trabajadores, sus correspondientes derechos laborales serán respetados en los términos de las disposiciones legales y estatutarias relativas.
+III.- Número y fecha de la orden de la verificación, así como de la identificación oficial del verificador;
 
-TERCERO.- Cuando una oficina pase de una dependencia a otra, el traspaso se hará incluyendo los recursos humanos y materiales que venía utilizando para la atención de los asuntos a su cargo.
+IV.- Ubicación física del establecimiento o de las instalaciones donde se presten los servicios turísticos que sean objeto de la verificación, la que incluirá calle, número, colonia, código postal, población y entidad federativa;
 
-CUARTO.- Cuando en esta Ley, se dé una denominación nueva o distinta, a alguna Dependencia que tenga la Titularidad de funciones establecidas en alguna disposición anterior, dichas atribuciones se entenderán concedidas a la Dependencia que determine esta Ley.
+V.- Nombre y carácter o personalidad jurídica de la persona con quien se entendió la visita de verificación;
 
-QUINTO.- La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial.
+VI.- Nombre y domicilio de las personas designadas como testigos;
 
-Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
+VII.- Síntesis descriptiva sobre la visita, asentando los hechos, datos y omisiones derivados del objeto de la misma;
 
-DADO EN EL SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Oaxaca de Juárez, a 1 de diciembre de 1992.
+VIII.- Declaración de la persona con quien se entendió la visita o su negativa a hacerla; y
 
-Lic. Melitón García López.- Diputado Presidente.- Rúbrica.- Juan Orozco Ibarra.- Diputado Secretario.- Rúbrica.- Enrique Martínez Hinojosa.- Diputado Secretario.- Rúbrica.
+IX.- Nombre y firma del verificador de quien atendió la visita y de las personas que hayan fungido como testigos.
 
-Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento.
+Una vez elaborada el acta, el verificador proporcionará una copia de la misma a la persona con quien entendió la visita, aun en el caso de que ésta se hubiera negado a firmarla, hecho que no desvirtuará su validez.
 
-Oaxaca de Juárez, a 1 de diciembre de 1992.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. DIODORO CARRASCO ALTAMIRANO.- EL SECRETARIO GENERAL DE GOBIERNO. LIC. AGUSTIN MARQUEZ URIBE.- Rúbricas
+Quienes realicen la verificación, por ningún motivo podrán imponer las sanciones a que se refiere esta Ley.
 
-y lo comunico a usted para su conocimiento y fines consiguientes.
+### CAPÍTULO XII. Sanciones y Recursos
 
-SUFRAGIO EFECTIVO. NO REELECCION.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, Oax., a 1 de diciembre de 1992.- El Secretario General de Gobierno.- Lic. Agustín Márquez Uribe.- Rúbrica
+###### ARTICULO 47.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+Los procedimientos y actos administrativos que dicten o ejecuten las autoridades estatales y municipales en materia turística, se sujetarán a lo dispuesto por la Ley de Justicia y Procedimientos Administrativos para el Estado de Nayarit.
 
-P.O. 2 DE OCTUBRE DE 1993.
+###### ARTICULO 48.
 
-UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+Contra los actos y resoluciones administrativas que dicten o ejecuten las autoridades estatales y municipales, en aplicación del presente ordenamiento y el reglamento que de él emane, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de Justicia Administrativa, conforme a las disposiciones de la Ley de Justicia y Procedimientos Administrativos para el Estado de Nayarit.
 
-P.O. 10 DE JUNIO DE 1994.
+###### ARTICULO 49.
 
-PRIMERO.- Se abrogan las disposiciones que se opongan al presente decreto.
+El Ejecutivo del Estado y los Ayuntamientos en lo que corresponda, podrá imponer las siguientes sanciones:
 
-SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+I. Amonestación;
 
-P.O. 25 DE MARZO DE 1995.
+II. Multa;
 
-UNICO.- El presente decreto entrará en vigor al día siguiente de su Publicación, en el Periódico Oficial del Estado.
+III. Clausura temporal;
 
-P.O. 28 DE MAYO DE 1996.
+IV. Clausura definitiva;
 
-PRIMERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+V. Cancelación de la Cédula Estatal de Calidad Turística.
 
-SEGUNDO.- Para efectos presupuestales y administrativos a que haya lugar, dentro del plazo de ocho días hábiles contados a partir de la vigencia de este Decreto, la Secretaría de Finanzas realizará los ajustes y traspasos presupuestales correspondientes.
+###### ARTICULO 50.
 
-TERCERO.- Los recursos humanos, financieros y materiales con que cuenta las Unidades Administrativas dependientes de la Secretaría de Administración, así como los de la Coordinación General de Comunicación Social y Relaciones Públicas y de la Secretaría Técnica del C. Gobernador, cuyas funciones se transfieren por virtud de este Decreto, a la Contraloría General y a la Secretaría Técnica del Poder Ejecutivo, pasarán a formar parte respectivamente de éstas últimas a fin de apoyar el cumplimiento de los programas y metas que le corresponden.
+La forma de determinar las sanciones previstas en el artículo anterior, así como los supuestos y procedimientos de aplicación serán conforme a lo establecido en la Ley de Justicia y Procedimientos Administrativos.
 
-De esta transferencia queda excluida la Dirección de Relaciones Públicas.
+Los Ayuntamientos están facultados para imponer sanciones por violaciones a esta ley y disposiciones que de ella emanen, en los términos de la Ley Municipal y los reglamentos municipales respectivos.
 
-CUARTO.- Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de la Secretaría de Administración, a la Contraloría General y de la Coordinación General de Comunicación Social y Relaciones Públicas y de la Secretaría Técnica del C. Gobernador a la Secretaría Técnica del Poder Ejecutivo, se respetarán conforme la Ley.
+## TRANSITORIOS
 
-QUINTO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+###### ARTÍCULO PRIMERO.
 
-P.O. 5 DE JULIO DE 1999.
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
-PRIMERO.- El Ejecutivo Estatal tendrá un plazo de seis meses, contados a partir de la vigencia de este Decreto, para elaborar y publicar los Reglamentos respectivos acordes con estas reformas legales.
+###### ARTÍCULO SEGUNDO
 
-SEGUNDO.- Continuarán aplicándose las disposiciones legales y reglamentarias vigentes hasta antes de la entrada en vigor del presente Decreto, en todos aquellos procedimientos administrativos y jurídicos que hayan iniciado antes de la publicación del mismo, hasta su resolución.
+Se abrogan y derogan todos aquellos ordenamientos y disposiciones que se opongan a la presente ley.
 
-TERCERO.- Las funciones que venía desempeñando la Coordinación de Servicios de Gobernación, de la Secretaría General de Gobierno, en materia de concesiones de servicios de transporte público de pasaje y de carga, serán asumidas por el área administrativa que determine la Secretaría de Transporte.
+###### ARTÍCULO TERCERO
 
-Los recursos humanos, presupuestales y materiales adscritos a las dependencias que ejercían las funciones otorgadas a la Secretaría de Transporte, pasarán íntegramente a esta última.
+El Ejecutivo, dentro de los 90 días siguientes a la entrada en vigor del presente ordenamiento, convocará y vigilará la debida integración de la Comisión de Fomento al Turismo en los términos previstos por este mismo ordenamiento.
 
-CUARTO.- El personal de las dependencias que en la aplicación de este Decreto sea transferido a la Secretaría de Transporte, se le respetarán íntegramente sus derechos laborales.
+###### ARTÍCULO CUARTO.
 
-QUINTO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+El Ejecutivo del Estado expedirá las disposiciones reglamentarias que requiera esta Ley.
 
-P.O. 17 DE MARZO DEL 2001.
+Dado en la Sala de Sesiones "Lic. Benito Juárez" de este Honorable Congreso del Estado Libre y Soberano de Nayarit, en Tepic, su Capital, a los veintiséis días del mes de abril del año dos mil cinco.
 
-PRIMERO.- El presente decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado.
+Dip. Presidente, Obdulia Delgado Delgado.- Rúbrica.- Dip. Secretario, Yolanda del Real Ureña.- Rúbrica.- Dip. Secretario, Juan Manuel Mier Pecina.- Rúbrica.
 
-SEGUNDO.- La Procuraduría para la Defensa del Indígena se integrará a la Secretaría de Asuntos Indígenas como un órgano administrativo, la reestructuración no afectará los derechos laborales de sus trabajadores.
+Y en cumplimiento a lo dispuesto de la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veintisiete días del mes de abril del año dos mil cinco.- C.P. ANTONIO ECHEVARRÍA DOMÍNGUEZ.- Rúbrica.- El Secretario General de Gobierno, Lic. Adán Meza Barajas.- Rúbrica.
 
-TERCERO.- El Gobernador del Estado dispondrá la dotación de recursos materiales, financieros y humanos para el funcionamiento de la Secretaría de Asuntos Indígenas, y a través de las dependencias competentes aprobará su estructura orgánica.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-P.O. 20 DE JULIO DE 2001.
+P.O. 24 DE MARZO DE 2012.
 
-ÚNICO.- Este Decreto entrará en vigor el día 1º de enero del año 2002, publíquese en el Periódico Oficial del Estado
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- El Gobernador del Estado, deberá emitir la reglamentación conducente, dentro de los 180 días naturales contados a partir del día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+Artículo Tercero.- El Gobernador del Estado y los ayuntamientos constituirán sus respectivos Consejos Consultivos, dentro de los 180 días naturales contados a partir del día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+P.O. 3 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA ARTÍCULOS DE LA LEY DE FOMENTO AL TURISMO DEL ESTADO DE NAYARIT”.]
+
+Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
