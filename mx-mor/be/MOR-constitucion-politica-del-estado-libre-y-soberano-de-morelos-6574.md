@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1989-11-15"
+last_updated: "1990-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1990.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -246,7 +246,7 @@ Los Poderes Públicos residirán en la Ciudad de Cuernavaca; pero por causas gra
 
 DE LA INSTALACION DEL CONGRESO Y DE LOS PERIODOS DE SUS SESIONES.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1990)</small>
 
 ###### Artículo 23.
 
@@ -262,7 +262,7 @@ III.- Para los procesos electorales, los partidos políticos deberán contar, en
 
 IV.- Los partidos políticos, en términos de la Ley respectiva, tendrán derecho a participar en las elecciones estatales y municipales.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1990)</small>
 
 ### CAPITULO III.
 
@@ -280,19 +280,27 @@ DE LA INICIATIVA Y FORMACION DE LAS LEYES.
 
 ###### Artículo 24.
 
-El Congreso del Estado estará integrado por doce diputados de mayoría relativa, mediante el sistema de distritos electorales uninominales, y por tres diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal. Por cada diputado propietario se elegirá un suplente.
+El Congreso del Estado estará integrado por doce Diputados electos por el principio de mayoría relativa mendiante (sic) el Sistema de Distritos Electorales Uninominales, cuya demarcación fijará la Ley, y hasta por seis Diputados que serán electos según el principio de representación proporcional, electos mediante el sistema de listas en una sola circunscripción territorial, por cada Diputado Propietario se elegirá un suplente.
 
-La Ley determinará la demarcación de cada uno de los distritos electorales uninominales.
+La elección de Diputados plurinominales se sujetará a lo que disponga la Ley y a las bases siguientes:
 
-La elección de los diputados conforme al prjncipio (sic) de representación proporcional y el sistema de listas regionales, se sujetará a las bases siguientes y a lo que en particular disponga la Ley:
+I.- Tendrán derecho a obtener Diputaciones plurinominales los Partidos Políticos que hayan cumplido los siguientes requisitos:
 
-I.- Para obtener el registro de sus listas regionales, el partido que lo solicite, deberá acreditar que participa con candidatos a diputados de mayoría relativa en lo menos la tercera parte de los distritos electorales uninominales.
+A).- Haber registrado candidatos en cuando menos la tercera parte de los Distritos Uninominales;
 
-II.- Tendrá derecho a que le sean atribuídos diputados electos según el principio de representación proporcional todo aquél partido que: a) no haya obtenido dos o más constancias de mayoría; y b), alcance por lo menos el 1.5% de total de la votación emitida para todas las listas regionales en las circunscripciones plurinominales.
+B).- Que hayan registrado oportunamente sus listas de candidatos a Diputados por representación proporcional;
 
-III.- Al partido que cumpla con los supuestos señalados en las fracciones que anteceden, les será asignado el número de diputados de su lista regional que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal de que se trate, la Ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, en las asignaciones se seguirá el orden que tuvieren los candidatos en las listas correspondientes.
+C).- Que hayan obtenido el 1.5% de la votación para Diputados en toda la Entidad.
 
-IV.- En el caso de que dos o más partidos con derecho a participar en la distribución de las listas regionales obtengan en su conjunto 3 o más constancias de mayoría, solo será objeto de reparto el 50% de las curules que deben asignarse por el principio de representación proporcional.
+II.- Para la asignación de las Diputaciones Plurinominales se aplicará el siguiente procedimiento:
+
+A).- Se sumarán los votos de los Partidos Políticos que habiendo alcanzado el 1.5% de la votación para Diputados en todo el Estado, cumplan con los requisitos exigidos en la Fracción I;
+
+B).- El resultado de la suma anterior se dividirá entre el número de curules a distribuir para obtener un factor común que servirá de base para asignar a cada partido tantas Diputaciones como factores alcance;
+
+C).- Si ningún Partido alcanza, con sus constancias de mayoría relativa, la mitad más uno de los miembros del Congreso, al Partido que obtenga mayoría de votos y de curules le serán asignados Diputados de representación proporcional, hasta alcanzar la mayoría absoluta del Congreso, sin que en ningún caso pueda obtener más de doce curules, sumados ambos principios; y
+
+D).- Si concluido el procedimiento anterior quedan Diputaciones por asignar, éstas se distribuirán en orden decreciente de acuerdo tanto con los mayores porcentajes de votación obtenidos por los Partidos Políticos restantes, como con los porcentajes excedentes de los Partidos que obtuvieron curules con la aplicación del factor común.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
 
@@ -311,6 +319,10 @@ IV.- Haber cumplido 21 años de edad.
 Para poder figurar en las listas de las circunscripciones electorales plurinominales como candidato a diputado, se requiere además de los requisitos comprendidos en las fracciones I, III y IV, tener una residencia efectiva por más de un año anterior a la fecha de la elección en alguno de los distritos que comprende la circunscripción electoral en la que se realice la elección.
 
 La vecindad no se pierde por ausencia en el desempeño de los cargos públicos de elección popular.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 1990)</small>
+
+Para poder figurar en las listas de la circunscripción plurinominal como Candidato a Diputado, la Residencia efectiva se referirá a cualquier lugar del Estado.
 
 ###### Artículo 26.
 
@@ -360,7 +372,7 @@ DE LA DIPUTACION PERMANENTE.
 
 ###### Artículo 30.
 
-El Congreso del Estado calificará la elección de sus miembros a través de un Colegio Electoral integrado por cuatro presuntos diputados que de acuerdo con las constancias de mayoría que registre la Comisión local electoral hubieren obtenido mayor número de votos y por un presunto diputado que resultare electo en la circunscripción plurinominal que obtuviera la votación más alta.
+Las elecciones de Diputados serán calificadas por un Colegio Electoral integrado por la totalidad de los presuntos Diputados electos según el principio de votación mayoritaria relativa y por un presunto Diputado de representación proporcional, que resultare electo en la circunscripción electoral que obtuviera la votación más alta.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -542,7 +554,7 @@ c).- Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproxi
 
 d).- Los familiares de los trabajadores tendrán derecho a asistencia médica y medicinas, en los casos y en la proporción que determine la Ley.
 
-e).- Se proporcionarán de acuerdo con las posibilidades propias del Estado y sus Municipios, habitaciones baratas en arrendamiento, venta, a los trabajadores conforme a los programas previamente aprobados.
+e).- Se proporcionarán de acuerdo con las posibilidades propias del Estado y sus Municipios, habitaciones baratas en arrendamiento, venta, alos trabajadores conforme a los programas previamente aprobados.
 
 l).- Los conflictos individuales, colectivos o intersindicales serán sometidos a un Tribunal de Arbitraje.
 
@@ -566,7 +578,7 @@ XXIV.- Expedir la ley relativa a la expropiación de la propiedad privada por ca
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XXV.- Excitar a los poderes de la Nación para que presten protección al Estado, en el caso previsto por el Artículo 122 de la Constitución Federal.
+XXV.- Excitar a los poderes de la Nación para que presten protección al Estado, en el o previsto por el Artículo 122 de la Constitución Federal.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -584,7 +596,7 @@ Asimismo, examinar y aprobar, en su caso, la cuenta Pública del año anterior q
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XXIX.- Aprobar la iniciativa de Ley de Ingresos Municipales autorizada en Sesión de Cabildo, y que cada año deben remitirle con toda oportunidad los Ayuntamientos en los términos del Artículo 32 Párrafo Tercero de esta Constitución.
+XXIX.- Aprobar la iniciativa de Ley de Ingresos Municipales autorizada en Sesión de Cabildo,y que cada año deben remitirle con toda oportunidad los Ayuntamientos en los términos del Artículo 32 Párrafo Tercero de esta Constitución.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -1562,23 +1574,23 @@ Los Municipios del Estado, previo acuerdo entre sus Ayuntamientos y con sujeció
 
 II.- Cada Municipio deberá tener una población mayor de 30 mil habitantes que pueda llenar las condiciones a que se refiere la fracción XI del Artículo 40 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1990)</small>
 
-III.- El Gobierno del Municipio se ejercerá por un Ayuntamiento de elección popular directa que se renovará en su totalidad cada 3 años, siendo el número de sus componentes proporcional al de sus habitantes siempre impares y nunca menor de tres, nombrándose por cada Regidor propietario un Suplente. El período de ejercicio de los Ayuntamientos se iniciará el 1o. de junio del año que corresponda.
+III.- El Gobierno del Municipio se ejercerá por un Ayuntamiento de Elección Popular Directa, que se renovará cada tres años.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+Los Ayuntamientos se integrarán con un Presidente Municipal y un Síndico; además con los Regidores electos en el número que determine la Ley, debiendo ser para cada Municipio proporcional al número de sus habitantes y nunca menor de tres.
 
-Los integrantes de los Ayuntamientos serán electos por el principio de mayoría relativa y en los casos de los Regidores la elección se hará de dos formas: Aquellos electos según el propio principio de votación mayoritaria relativa, en el número que determine la Ley y los electos según el principio de representación proporcional, conforme a las bases generales siguientes:
+Por cada Regidor propietario y Síndico, así como por el Presidente Municipal se elegirá un suplente.
 
-a).- Los Regidores de representación proporcional corresponderán al 25% más del total de Regidores del Ayuntamiento de que se trate. El número de Regidores que servirá de base será el señalado por la Ley Orgánica de los Municipios y si al aplicar el porcentaje resultan fracciones de la mitad de la unidad o mayores, se elevará el número al entero siguiente.
+El ejercicio de los Ayuntamientos electos se iniciará el 1o. de junio del año que corresponda a la elección, salvo lo que disponga la Ley para el caso de elecciones extraordinarias.
 
-b).- Para tener derecho a que le sean atribuidos Regidores electos según el principio de representación proporcional, el partido político que lo solicite, deberá registrar dos planillas o listas electorales en cada Municipio: Una deberá contener los candidatos a Presidente – Municipal, Síndico y Regidores de Mayoría relativa y, la Segunda, los candidatos a Regidores de Representación Proporcional. En ningún caso los Partidos Políticos podrán incluir candidatos de la lista electoral de mayoría relativa- en la lista electoral de candidatos a Regidores de representación proporcional.
+El Presidente Municipal y el Síndico de los Ayuntamientos serán electos conforme al principio de mayoría relativa; y los Regidores serán electos por el principio de representación proporcional.
 
-c).- Tendrá derecho a que le sean atribuidos Regidores electos según el principio de Representación porporcional (sic) todo aquel partido que:
+Los Partidos Políticos para participar en la integración del Ayuntamiento, deberán postular Planilla de Candidatos a Presidente y Síndico, así como lista de Regidores en número igual al previsto para ese Municipio.
 
-1.- Hubiere registrado fórmula de candidato en la elección municipal respectiva:
+Para la asignación de Regidores se sumarán los votos de los Partidos que hayan obtenido cuando menos el 1.5% del total de los sufragios emitidos en el Municipio correspondiente, el resultado se dividirá entre el número de Regidurías por atribuir para obtener un factor porcentual simple de distribución, asignándose a cada partido, el riguroso orden decreciente, tantas Regidurías como número de factores alcance hasta completar las Regidurías previstas.
 
-2.- Alcance por lo menos el 15% de la votación total emitida para todas las planillas locales presentadas por los Partidos Políticos contendientes.
+Si aplicado el factor de distribución quedan regidurías por atribuir, éstas se asignarán en orden decreciente de acuerdo tanto con los mayores porcentajes de votación obtenidos por los Partidos Políticos restantes como con los porcentajes excedentes de aquellos que obtuvieron Regidurías con la aplicación del factor común.
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -2251,3 +2263,9 @@ Para dar cumplimiento a lo que establece el artículo 147 de la Constitución Po
 ###### ARTICULO TERCERO.
 
 Una vez hecho el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la adición al artículo 40, de conformidad con lo que señala el artículo 148 de la constitución local, remítase al ejecutivo del Estado el presente decreto, para los efectos a que hace referencia la fracción XVII del artículo 70 de la Constitución Política del Estado.
+
+P.O. 8 DE AGOSTO DE 1990.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico "TIERRA Y LIBERTAD", Organo Oficial del Estado Libre y Soberano de Morelos.
