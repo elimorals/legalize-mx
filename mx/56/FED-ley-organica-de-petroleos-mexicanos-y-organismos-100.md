@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-petroleos-mexicanos-y-organismos-100"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-07-16"
-last_updated: "1993-12-22"
+last_updated: "2002-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-07-15"
 
 LEY ORGANICA DE PETROLEOS MEXICANOS Y ORGANISMOS SUBSIDIARIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ENERO DE 2002.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 16 de julio de 1992.
 
@@ -85,7 +85,9 @@ Petróleos Mexicanos será dirigido y administrado por un Consejo de Administrac
 
 El Consejo de Administración de Petróleos Mexicanos se compondrá de once miembros propietarios, a saber:
 
-Seis representantes del Estado designados por el Ejecutivo Federal y cinco representantes del Sindicato de Trabajadores Petroleros de la República Mexicana, que deberán ser miembros activos de dicho Sindicato y trabajadores de planta de Petróleos Mexicanos.
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2002)</small>
+
+Seis representantes del Estado designados por el Ejecutivo Federal, entre los que deberá estar el Secretario de Medio Ambiente y Recursos Naturales; y cinco representantes del Sindicato de Trabajadores Petroleros de la República Mexicana, que deberán ser miembros activos de dicho sindicato y trabajadores de planta de Petróleos Mexicanos.
 
 El Presidente del Consejo será el titular de la coordinadora del sector al que esté adscrito Petróleos Mexicanos y tendrá voto de calidad.
 
@@ -206,3 +208,9 @@ D.O.F. 22 DE DICIEMBRE DE 1993.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1994.
+
+D.O.F. 15 DE ENERO DE 2002.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
