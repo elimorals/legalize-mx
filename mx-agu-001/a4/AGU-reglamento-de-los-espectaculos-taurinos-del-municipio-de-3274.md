@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-los-espectaculos-taurinos-del-municipio-de-3274"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-04-08"
-last_updated: "1984-04-08"
+last_updated: "1989-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3274&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,9 +24,11 @@ state: "AGU"
 
 REGLAMENTO DE LOS ESPECTACULOS TAURINOS DEL MUNICIPIO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 97 PUBLICADO EN EL P.O. DE 5 DE MARZO DE 1989, SE DECLARA VIGENTE EL REGLAMENTO DE LOS ESPECTACULOS TAURINOS PUBLICADO EL DOCE DE MARZO DE MIL NOVECIENTOS SETENTA Y DOS.</small>
 
-Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 8 de abril de 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 1989.
+
+Reglamento publicado en el Suplemento al Periódico Oficial del Estado de Aguascalientes, el domingo 8 de abril de 1984.
 
 LIC. MIGUEL ROMO MEDINA, Presidente Municipal de Aguascalientes, a sus habitantes, sabed:
 
@@ -987,3 +989,13 @@ C. Reg. Nicolás Montoya Chávez
 C. Sind. Ma. del Carmen Martín del Campo Ramírez
 
 C. Sind. José. Antonio Aguilar Ramírez.
+
+> <small>N. DE E. A CONTINACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+SE TRANSCRIBE UNICAMENTE EL ARTICULO UNICO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL REGLAMENTO.
+
+###### ARTICULO UNICO.
+
+El Reglamento de los Espectáculos Taurinos expedido el treinta y uno de diciembre de mil novecientos setenta y uno y publicado en la edición del doce de marzo de mil novecientos setenta y dos del Periódico Oficial del Estado, es vigente en tanto no existan reglamentos de la materia expedidos por los Ayuntamientos de los Municipios del Estado. (sic)
