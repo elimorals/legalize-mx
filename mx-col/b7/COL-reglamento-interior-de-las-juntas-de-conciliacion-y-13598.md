@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-las-juntas-de-conciliacion-y-13598"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-03-21"
-last_updated: "2001-11-10"
+last_updated: "2001-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO INTERIOR DE LAS JUNTAS DE CONCILIACION Y ARBITRAJE DEL ESTADO DE COLIMA Y ESPECIALES DE TECOMAN Y MANZANILLO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2001.
 
 Reglamento publicado en el Periódico Oficial del Estado de Colima, el sábado 21 de marzo de 1998.
 
@@ -66,6 +66,8 @@ En las Juntas Especiales se designará por el Ejecutivo del Estado, los presiden
 El presidente de la Junta gestionará y tramitará los nombramientos, licencias, bajas y demás incidencias del personal jurídico y administrativo, que requiera la pronta y expedita administración de justicia.
 
 ### CAPÍTULO SEGUNDO. Del Presidente de la Junta
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO PUBLICADO EN EL P.O. DE 1 DE DICIEMBRE DE 2001, SE DEROGA EL DECRETO QUE REFORMO EL PRESENTE ARTICULO, PUBLICADO EL 10 DE NOVIEMBRE DE 2001; MOTIVO POR EL CUAL SE CONSERVA EL TEXTO ORIGINAL DEL MISMO.</small>
 
 ###### ARTÍCULO 6.
 
@@ -123,11 +125,9 @@ XXV.- Verificar antes de iniciar el trámite de cualquier emplazamiento a huelga
 
 XXVI.- Las demás que le confiere la Ley Federal del Trabajo y el presente Reglamento.
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2001)</small>
-
-El Presidente de la Junta será sustituido en sus faltas temporales por la persona que determine el Gobernador del Estado.
-
 ### CAPÍTULO TERCERO. De los Presidentes de las Juntas Especiales
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO PUBLICADO EN EL P.O. DE 1 DE DICIEMBRE DE 2001, SE DEROGA EL DECRETO QUE REFORMO EL PRESENTE ARTICULO, PUBLICADO EL 10 DE NOVIEMBRE DE 2001; MOTIVO POR EL CUAL SE CONSERVA EL TEXTO ORIGINAL DEL MISMO.</small>
 
 ###### ARTÍCULO 7.
 
@@ -179,10 +179,6 @@ XXII.- Dar cuenta al Director del Trabajo de las faltas de los representantes de
 
 XXIII.- Las demás que le confiera la Ley y el presente Reglamento.
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2001)</small>
-
-Los presidentes de las Juntas Especiales serán sustituidos en sus faltas temporales por la persona que determine el Gobernador del Estado.
-
 ### CAPÍTULO CUARTO. De los Representantes de los Trabajadores y Patrones
 
 ###### ARTÍCULO 8.
@@ -207,11 +203,13 @@ VIII.- Las demás que les sean conferidas por la Ley en la esfera de sus atribuc
 
 ### CAPÍTULO QUINTO. De los Secretarios Generales
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO PUBLICADO EN EL P.O. DE 1 DE DICIEMBRE DE 2001, SE DEROGA EL DECRETO QUE REFORMO EL PRESENTE ARTICULO, PUBLICADO EL 10 DE NOVIEMBRE DE 2001; MOTIVO POR EL CUAL SE CONSERVA EL TEXTO ORIGINAL DEL MISMO.</small>
+
 ###### ARTÍCULO 9.
 
 Los Secretarios Generales tienen las facultades y obligaciones siguientes:
 
-I.- (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2001)
+I.- Substituir al Presidente Titular de la Junta en sus faltas temporales y en las definitivas en tanto no se haga nuevo nombramiento.
 
 II.- Autorizar todos los acuerdos de la Junta en Pleno y los del Presidente dictados en aquellos negocios que conozca.
 
@@ -801,7 +799,7 @@ Las faltas que implique la comisión de algún delito deberá darse vista al Age
 
 Se faculta al Director del Trabajo del Gobierno del Estado, para que expida el Manual de Procedimientos Administrativos para el Trámite de Asuntos Individuales para las Juntas Local de Conciliación y Arbitraje del Estado de Colima y Especiales de Tecomán y Manzanillo.
 
-T R A N S I T O R I O (SIC):
+T R A N S I T O R I O:
 
 ###### ARTÍCULO 1.
 
@@ -819,8 +817,12 @@ Dado en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Colima, Co
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.
 
 P.O. 10 DE NOVIEMBRE DE 2001.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE DICIEMBRE DE 2001.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE COLIMA VIGENTE.
