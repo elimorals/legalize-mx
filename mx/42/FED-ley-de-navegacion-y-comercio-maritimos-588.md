@@ -4,7 +4,7 @@ identifier: "FED-ley-de-navegacion-y-comercio-maritimos-588"
 country: "mx"
 rank: "ley"
 publication_date: "1963-11-21"
-last_updated: "1985-12-23"
+last_updated: "1991-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=588&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LNCM"
 
 LEY DE NAVEGACION Y COMERCIO MARITIMOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JULIO DE 1991.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 21 de noviembre de 1963.
 
@@ -772,13 +772,13 @@ Por su objeto, instalaciones y servicios, los puertos pueden ser de altura, de c
 
 Por su régimen de funcionamiento, los puertos pueden ser administración estatal o de administración descentralizada, en los términos y con las limitaciones que establece esta ley.
 
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 45.
 
-En los puertos, los particulares podrán solicitar concesiones, para construir obras de atraque e instalaciones complementarias y para establecer la administración privada de las mismas, la cual se limitará a las operaciones para el manejo de los productos del concesionario.
+Los particulares mediante concesión otorgada por la Secretaría de Comunicaciones y Transportes, podrán construir y explotar obras de atraque e instalaciones de administración privada en los puertos. Las concesiones deberán incluir entre otras condiciones, las relativas a los programas de inversión, de desarrollo, de expansión, de calidad de servicio y aquellas bajo las cuales se llevará a cabo la construcción y explotación de dichas obras incluyendo, de ser el caso, la prestación de servicios portuarios y marítimos, públicos o a terceros mediante contrato.
 
-Las concesiones determinarán los requisitos, duración y causas de terminación de las mismas.
-
-Las autoridades competentes ejercerán sus funciones en el área concesionada.
+En todo caso, las autoridades competentes ejercerán sus funciones en el área concesionada conforme a la Ley.
 
 ###### ARTICULO 46.
 
@@ -2285,3 +2285,9 @@ Seguirán vigentes, en todo lo que no se oponga a la presente reforma, las dispo
 ###### ARTICULO SEGUNDO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE JULIO DE 1991.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las concesiones y los permisos para la construcción de obras de atraque e instalaciones en los puertos otorgados con anterioridad a la entrada en vigor del presente Decreto, continuarán en los términos y condiciones consignados en los mismos hasta el término de su vigencia, sin perjuicio de que sus titulares promuevan la autorización necesaria para prestar servicios marítimos y portuarios públicos o a terceros mediante contrato, previo cumplimiento de los requisitos respectivos.
