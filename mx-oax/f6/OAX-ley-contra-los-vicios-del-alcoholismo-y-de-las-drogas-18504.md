@@ -4,7 +4,7 @@ identifier: "OAX-ley-contra-los-vicios-del-alcoholismo-y-de-las-drogas-18504"
 country: "mx"
 rank: "ley"
 publication_date: "1922-07-06"
-last_updated: "1923-06-29"
+last_updated: "1934-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY CONTRA LOS VICIOS DEL ALCOHOLISMO Y DE LAS DROGAS HEROICAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 1923.
+> <small>N. DE E. EL TEXTO DE LA PRESENTE LEY SE REPUBLICO EN LOS P.O. DEL 16 Y 23 DE AGOSTO DE 1941, CON LAS REFORMAS Y ADICIONES, HASTA LA CORRESPONDIENTE PUBLICADA EN EL P.O. DEL 2 DE JUNIO DE 1934.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 1934.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca el jueves 6 de Julio de 1922.
 
@@ -73,9 +75,23 @@ En los expendios al menudeo de bebidas alcohólicas, sean naturales o producidas
 
 La autoridad municipal, previo acuerdo del Ejecutivo, podrá conceder licencias para vender a horas distintas de las indicadas, en casos extraordinarios; pero nunca se concederán a horas de trabajo. En este caso, el concesionario pagará por cada hora extraordinaria el duplo de lo que a igual tiempo corresponda del impuesto mensual.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1934)</small>
+
 ###### Artículo 8.
 
-Queda absolutamente prohibida la venta al menudeo de bebidas alcohólicas en los días en que hayan de efectuarse elecciones.
+La venta de bebidas alcohólicas se efectuará durante los días del lunes a sábado de cada semana.
+
+Los expendedores que deseen vender los domingos bebidas embriagantes al menudeo en sus establecimientos, solicitarán para ello permiso del Ejecutivo, quien podrá otorgarlo en los casos que lo estime conveniente; pero los interesados pagarán al Fisco del Estado una cuota especial, con sujeción a la siguiente
+
+TARIFA:
+
+Establecimientos de 1a. clase, por cada domingo, de $50.00 a $100.00;
+
+Establecimientos de segunda clase, por cada domingo, de $25.00 a $50.00; y
+
+Establecimientos de tercera clase, por cada domingo, de $5.00 a $20.00.
+
+Queda absolutamente prohibida la venta al menudeo de bebidas alcohólicas en los días en que hayan de efectuarse elecciones o plebiscitos.
 
 ###### Artículo 9.
 
@@ -117,7 +133,7 @@ Los Presidentes Municipales no expedirán la licencia si el local destinado a ta
 
 I.- Que esté situado en una fábrica que no sea de bebidas alcohólicas, hacienda de beneficio de metales o hacienda agrícola que dependa de un Municipio;
 
-II.- Que el número que corresponda a la licencia supere al número de planteles de enseñanza oficial, de la localidad; pero si solamente hubiere uno de éstos, se concederán licencias para la apertura de dos tabernas siempre que pertenezcan a distintos propietarios;
+II.- Que el número que corresponda a la licencia supere al número de planteles de enseñanza oficial, de la localidad; pero si sólamente hubiere uno de éstos, se concederán licencias para la apertura de dos tabernas siempre que pertenezcan a distintos propietarios;
 
 III.- Que el local diste menos de cien metros de otra taberna o de un plantel de enseñanza, cuartel de tropa u oficina pública que tenga más de quince empleados.
 
@@ -448,5 +464,9 @@ P.O. 23 DE NOVIEMBRE DE 1922.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
 
 P.O. 29 DE JUNIO DE 1923.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+
+P.O. 2 DE JUNIO DE 1934.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
