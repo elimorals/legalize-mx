@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2003-12-18"
+last_updated: "2004-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: VIERNES 31 DE DICIEMBRE DE 2004.
 
-Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
+Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
 LIC. ALEJANDRO CARRILLO MARCOR, Gobernador del Estado Libre y Soberano de Sonora, a sus habitantes, sabed:
 
@@ -65,21 +65,9 @@ Cuando las Autoridades Fiscales presuman fundadamente que el causante no ha decl
 
 #### Sección Primera. Objeto del Impuesto
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 27 DE JULIO DE 1977)</small>
-
 ###### Artículo 5o.
 
-Es objeto del impuesto predial:
-
-I.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
-
-II.- (DEROGADA CON SUS INCISOS A), B), C) Y D), POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
-
-> <small>(REFORMADA, B.O. 27 DE JULIO DE 1977)</small>
-
-III.- La propiedad o posesión de predios ejidales y comunales;
-
-IV.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
 ###### Artículo 6o.
 
@@ -87,23 +75,7 @@ IV.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL 
 
 ###### Artículo 10.
 
-El impuesto se causará:
-
-I.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
-
-II.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
-
-III.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
-
-IV.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
-
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1999)</small>
-
-V.- Tratándose de predios rústicos ejidales o comunales, aprovechados para la producción agropecuaria, silvícola o acuícola, la tarifa será del 3%;
-
-VI.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
-
-> <small>(DEROGADO ULTIMO PARRAFO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)</small>
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
 ###### Artículo 11.
 
@@ -119,73 +91,13 @@ VI.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL 
 
 #### Sección Segunda. Sujeto del Impuesto
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 27 DE JULIO DE 1977)</small>
-
 ###### Artículo 7o.
 
-Son sujetos del impuesto:
-
-I.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
-
-II.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
-
-III.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
-
-> <small>(REFORMADA, B.O. 27 DE JULIO DE 1977)</small>
-
-IV.- Los ejidatarios y comuneros si el aprovechamiento de los predios es individual y los núcleos de población ejidal o comunal, si es colectivo;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 31 DE DICIEMBRE DE 1992)</small>
-
-V.- El que explote o aproveche predios ejidales o comunales en calidad de asociado, usufructuario, arrendatario, acreedor pignoraticio, depositario u otro título análogo.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
 ###### Artículo 8o.
 
-Son responsables solidarios en el pago del impuesto:
-
-I.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
-
-II.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
-
-> <small>(REFORMADA, B.O. 27 DE JULIO DE 1977)</small>
-
-III.- Los núcleos de población ejidal o comunal y los ejidatarios o comuneros, los comisariados ejidales y de bienes comunales, los integrantes de colonias agrícolas, sociedades de crédito agrícola o ejidal y otras agrupaciones de ejidatarios, comuneros o colonos, respecto de los bienes que posean mancomunadamente;
-
-IV.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
-
-V.- Los empleados de la Tesorería General del Estado que dolosamente expidan certificados de no adeudo del Impuesto Predial;
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1992)</small>
-
-VI.- Los adquirentes de productos provenientes de terrenos ejidales o comunales y los intermediarios incluyendo a aquéllos que procesen, empaquen o proporcionen otro tipo de maquila relacionados con dichos productos, así como a los que realicen trámites para efectos de su exportación, quienes estarán obligados además a:
-
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1989)</small>
-
-A).- Registrarse en el Padrón Estatal de Contribuyentes en las oficinas recaudadoras de su jurisdicción.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
-
-B).- Verificar que se ha cubierto el impuesto y de no acreditarse su pago, retenerlo y expedir al productor el formato de retención de Impuesto Predial Ejidal autorizado por la Secretaría de Finanzas y enterarlo en la oficina recaudadora de su jurisdicción, debiendo acompañar las copias de los permisos de siembra que se relacionan en el citado formato.
-
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1989)</small>
-
-C).- Presentar en dicha oficina recaudadora, dentro de los días 1º al 20 de cada mes, una manifestación por cuadruplicado, enterando el importe del impuesto retenido, en su caso.
-
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1989)</small>
-
-Esta manifestación deberá contener los siguientes datos:
-
-1.- Fecha en que se recibieron los productos gravados o se realizó la prestación del servicio.
-
-2.- Nombre del propietario del producto.
-
-3.- Cantidad de kilogramo o unidad de medida que corresponda al producto.
-
-4.- Nombre y ubicación de los predios ejidales o comunales del que proceden, con expresión del Municipio en el que estén ubicados.
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
-
-5.- Número de permiso de siembra de donde proviene el producto.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
 ###### Artículo 14.
 
@@ -221,23 +133,9 @@ Esta manifestación deberá contener los siguientes datos:
 
 #### Sección Tercera. Base, Tasas, Exenciones y Reducciones
 
-> <small>(REFORMADO, B.O. 27 DE JULIO DE 1977)</small>
-
 ###### Artículo 9o.
 
-La base del impuesto será:
-
-I.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
-
-II.- Tratándose de predios rústicos:
-
-> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
-
-a).- El valor de la producción comercializada de cada cultivo por ciclo productivo, proveniente de terrenos ejidales o comunales aprovechados para la producción agropecuaria, silvícola o acuícola.
-
-b).- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE DICIEMBRE DE 1989)</small>
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
 #### Sección Cuarta. Definiciones
 
@@ -369,15 +267,13 @@ b).- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL 
 
 #### Sección Octava. Pago Del Impuesto
 
-> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
-
 ###### Artículo 52.
 
-Tratándose de predios ejidales aprovechados para la producción agropecuaria, silvícola o acuícola, el pago se hará al efectuarse la venta de los productos y en su defecto, dentro de los veinte días siguientes a la fecha en que éstos se hubieran cosechado, debiéndose anexar a la declaración de que se trate la copia del permiso de siembra y copia de la factura o liquidación correspondiente.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
 ###### Artículo 53.
 
-La forma y lugar de pago del impuesto predial se regirán por las disposiciones relativas del Título Segundo del Código Fiscal del Estado de Sonora.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
 ###### Artículo 54.
 
@@ -437,19 +333,9 @@ La forma y lugar de pago del impuesto predial se regirán por las disposiciones 
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 1980)</small>
-
 ###### Artículo 68.
 
-Para que la Tesorería pueda exigir (sic) certificados de no adeudo del Impuesto Predial, se requiere:
-
-a).- Que el predio esté al corriente en el pago del impuesto; y
-
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
-
-b).- Que no exista inconformidad alguna pendiente de resolver, en relación con los avalúos y, en general, con las bases del Impuesto Predial.
-
-> <small>(DEROGADO ULTIMO PARRAFO, B.O. 29 DE DICIEMBRE DE 1980)</small>
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -539,7 +425,7 @@ Son ingresos gravados en los términos de la Fracción II del artículo 69 de é
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-I.- Los obtenidos por la maquila de harina o masa, de maíz o trigo y los de pasteurización de leche;
+I.- Los obtenidos por la maquila de harina o masa, de maíz o trigo y los de pasteurización de leche.
 
 II.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
@@ -687,15 +573,17 @@ En los casos de cambio de objeto, giro, nombre o razón social, y en los traspas
 
 De las Declaraciones y Pago del Impuesto
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 93.
 
-El pago del Impuesto deberá hacerse dentro de los días 1o. al 20 de cada mes, mediante una declaración de los ingresos que se hayan obtenido en el mes inmediato anterior. El impuesto mínimo que deberán pagar los contribuyentes no podrá ser menor de $35.00 mensuales.
+El pago del impuesto deberá hacerse dentro de los días 1 al 20 de cada mes, mediante una declaración de los ingresos que se hayan obtenido en el mes inmediato anterior. El impuesto mínimo que deberán pagar los contribuyentes no podrá ser menor de $400.00 mensuales, excepto tratándose de contribuyentes que utilicen un solo vehículo para prestar el servicio público de transporte en sus sistemas de automóvil de alquiler, automóvil de alquiler colectivo, para trabajadores agrícolas y especializado para personas con discapacidad y de la tercera edad, cuyo mínimo a pagar no podrá ser menor a $150.00 mensuales.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 94.
 
-Los contribuyentes con ingresos anuales hasta de $700,000.00, podrán optar por cubrir el impuesto mediante la aceptación de una cuota fija mensual que determinará la Secretaría de Finanzas, en cuyo caso el impuesto se pagará dentro de los primeros veinte días del mes a que corresponda.
+Los contribuyentes con ingresos anuales hasta de $360,000.00, pagarán el impuesto mediante una cuota fija mensual que determinará la Secretaría de Hacienda, en cuyo caso el impuesto se pagará dentro de los primeros veinte días del mes a que corresponda.
 
 ###### Artículo 95.
 
@@ -711,7 +599,9 @@ I.- Registrarse, declarar y pagar el impuesto;
 
 II.- Llevar los libros, registros y documentos en los términos que señale el Código de Comercio y Leyes Fiscales Federales;
 
-III.- Las personas físicas con ingresos anuales hasta de $1'500,000.00 que opten por el sistema de cuota fija mensual a pagar, deberán llevar los registros simplificados que señale la Tesorería General del Estado.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+III.- Los contribuyentes con ingresos anuales hasta $360,000.00, sujetos al pago de cuota fija mensual deberán llevar un registro simplificado de ingresos y egresos.
 
 De las Obligaciones de terceros y de la Responsabilidad Solidaria
 
@@ -1561,43 +1451,71 @@ d).- El donatario en la donación.
 
 En tratándose de la Fracción II inciso a) del artículo anterior, la exención que goce en el pago del Impuesto uno de los sujetos, no beneficia al otro.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 188.
 
-La base del impuesto, será la siguiente:
+La base del impuesto, será la siguiente, salvo los supuestos a que se refiere el Artículo 188-Bis de esta Ley:
 
-I.- Para los bienes muebles: el valor mas alto entre el que tengan en el mercado y el de la factura o del acto o contrato del que derive la traslación de dominio; y
+I.- Para los bienes muebles distintos a los señalados en la fracción II de este artículo: el valor más alto entre el que tengan en el mercado y el de la factura o del acto o contrato del que derive la traslación de dominio; y
 
-II.- (DEROGADA, B.O. 29 DE DICIEMBRE DE 1983)
+II.- Para vehículos de propulsión mecánica:
 
-a).- (DEROGADO, B.O. 29 DE DICIEMBRE DE 1983)
+a).- El 80% del valor total del vehículo de la primera facturación, para vehículos cuyo modelo corresponda al año de aplicación de esta Ley;
 
-b).- (DEROGADO, B.O. 29 DE DICIEMBRE DE 1983)
+b).- El valor que se establezca en las diversas guías o publicaciones sobre precios de automóviles usados del mes de noviembre del año anterior al de aplicación de la Ley, para vehículos hasta 10 años modelo anteriores al año de aplicación de esta Ley;
 
-c).- (DEROGADO, B.O. 29 DE DICIEMBRE DE 1983)
+c).- El avalúo pericial presentado por el contribuyente cuando se trate de vehículos no clasificados en las Guías o Publicaciones a que se refiere el inciso anterior, accidentados o en condiciones de avanzado deterioro. Las autoridades fiscales estarán facultadas para revisar el peritaje presentado por el contribuyente y rechazarlo en caso de que no se apegue al valor real del vehículo. Esta revisión se efectuará como un requisito previo al pago del impuesto.
 
-> <small>(DEROGADO PENULTIMO PARRAFO, B.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, B.O. 29 DE DICIEMBRE DE 1983)</small>
+###### Artículo 188
 
-> <small>(ADICIONADA, B.O. 4 DE JUNIO DE 1977)</small>
+BIS.- Los vehículos de más de 10 años modelo anteriores al año de aplicación de esta Ley, pagarán el impuesto conforme a la siguiente:
 
-III.- Para los bienes que se permutan, cuando los valores resulten iguales, servirá de base el valor de cualesquiera de ellos;
+TARIFA
 
-> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
+TIPOS DE VEHÍCULO AÑOS DE ANTIGÜEDAD
 
-IV.- Tratándose del usufructo y nuda propiedad, la base del impuesto será para cada caso, el 50% del valor determinado conforme a la fracción II anterior.
+DE 11 A 15 DE 16 A 20 DE 21 AÑOS
+
+AÑOS AÑOS EN ADELANTE
+
+Automóviles:
+
+4 Cilindros. $450.00 $350.00 $200.00
+
+6 Cilindros. 550.00 450.00 250.00
+
+8 Cilindros. 650.00 550.00 300.00
+
+Camiones:
+
+Pick Up. 450.00 350.00 250.00
+
+Hasta 8 toneladas. 950.00 650.00 350.00
+
+Más de 8 toneladas. 1900.00 950.00 550.00
+
+Tractores no agrícolas
+
+5ta. rueda, autobuses,
+
+minibuses y microbuses: 2,800.00 1,900.00 1,000.00
+
+Motocicletas. 250.00 150.00 100.00
 
 ###### Artículo 189.
 
 La tasa del impuesto, será:
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-I.- Cuando por la naturaleza de la operación o por las condiciones pactadas no fuere posible determinar el valor de los bienes muebles, al realizarse la operación $1,000.00;
+I.- Cuando por la naturaleza de la operación o por las condiciones pactadas no fuere posible determinar el valor de los bienes muebles al realizarse la operación $1,000.00, salvo que se trate de vehículos de propulsión mecánica;
 
-> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-II.- Sobre la base determinada conforme a la fracción I del artículo anterior, el 2%;
+II.- Sobre la base determinada conforme a las fracciones I y II del Artículo 188 del presente ordenamiento, el 2%;
 
 III.- (DEROGADA, B.O. 29 DE DICIEMBRE DE 1983)
 
@@ -1605,9 +1523,9 @@ III.- (DEROGADA, B.O. 29 DE DICIEMBRE DE 1983)
 
 IV.- Cuando no sea posible especificar en forma separada el valor de los muebles e inmuebles: 3%.
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-Cuando el sujeto del impuesto acredite su calidad de jubilado, pensionado o persona adulta de 65 años o más edad, en los términos del Artículo 298, fracción II, del presente ordenamiento, se aplicará la tasa correspondiente, reducida en un 50%, siempre y cuando se trate de operaciones que no excedan de cuatro veces el salario mínimo general diario vigente en el área geográfica de que se trate, elevado al año.
+Cuando el sujeto del impuesto acredite su calidad de jubilado, pensionado o persona adulta de 65 años o más edad, en los términos del artículo 298, fracción II del presente ordenamiento, se aplicará la tasa correspondiente, reducida en un 50%, siempre y cuando se trate de operaciones que no excedan de seis veces el salario mínimo general diario vigente en el área geográfica de que se trate, elevado al año.
 
 ###### Artículo 189 Bis.
 
@@ -1827,113 +1745,33 @@ Los Notarios, Jueces y Encargados del Registro Público de la Propiedad que no d
 
 #### Sección Tercera. Impuesto Estatal Sobre Tenencia o Uso de Vehículos
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
+###### Artículo 212-A.
 
-Artículo 212 A.- Están obligados al pago de este impuesto, las personas físicas y las morales, tenedoras o usuarias de vehículos de más de diez años de fabricación anteriores al de aplicación de esta Ley.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
-Para los efectos de este impuesto, se presume que el propietario es tenedor o usuario del vehículo.
+###### Artículo 212-B.
 
-Los contribuyentes pagaran el impuesto por año del calendario durante los tres primeros meses ante las oficinas recaudadoras, no estando obligados a presentar por este impuesto la solicitud de inscripción, ni los avisos de Registro Estatal de Contribuyentes.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
-Para los efectos de este impuesto, también se consideran automóviles a los omnibuses, camiones y tractores no agrícolas tipo quinta rueda.
+###### Artículo 212-C.
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
-
-Artículo 212 B.- Son solidariamente responsables del pago del impuesto:
-
-I.- Quienes por cualquier titulo, adquieran la propiedad, tenencia o uso de vehículo, por el adeudo del impuesto que en su caso existiera, aun cuando se trate de personas que no están obligadas al pago de este impuesto.
-
-II.- Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que en su caso existiera.
-
-> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 2003)</small>
-
-III.- Las autoridades federales, estatales o municipales competentes en el Estado, que autoricen el registro de vehículos, altas, cambios o bajas de placas o realicen el canje de placas por el término de su vigencia, sin haberse cerciorado que no existan adeudos por este impuesto, correspondiente a los últimos 5 años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
-
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
-
-Artículo 212 C.- Los contribuyentes comprobaran el pago del impuesto con la copia de la forma por medio de la cual lo hayan efectuado.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
 ###### Artículo 212-D.
 
-Este impuesto se pagará conforme a la siguiente:
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
-TARIFA
+###### Artículo 212-E.
 
-TIPO DE VEHICULOS CUOTA
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
-AUTOMOVILES
+###### Artículo 212-F.
 
-4 CILINDROS $ 60.00
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
-6 CILINDROS $ 116.00
+###### Artículo 212-G.
 
-8 CILINDROS $ 144.00
-
-CAMIONES:
-
-- Pick up $ 60.00
-
-- Vehículos con peso vehicular y
-
-con capacidad de carga hasta 8
-
-toneladas. $ 72.00
-
-- Vehículos con peso vehicular y
-
-con capacidad de carga mayor a
-
-8 toneladas. $ 100.00
-
-- Tractores no agrícolas tipo quinta
-
-rueda incluyendo minibuses, microbuses,
-
-autobuses y demás vehículos destinados
-
-al transporte de carga y pasaje. $ 170.00
-
-MOTOCICLETAS:
-
-Hasta de 250 cm3 $ 3.00
-
-De 251 a 500 cm3 $ 14.00
-
-De 500(sic) a 750 cm3 $ 30.00
-
-De 751 a 1000 cm3 $ 56.00
-
-De 1001 en adelante $ 84.00
-
-Los montos de las cantidades establecidas en la tarifa anterior, se actualizarán en el mes de enero de cada año con el factor de ajuste que se obtenga de dividir el Indice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquél por el cual se efectúa el cálculo, entre el citado Indice correspondiente al mes de diciembre del segundo año inmediato anterior al de dicho cálculo.
-
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
-
-Artículo 212 E.- No se pagara el impuesto, en los términos de esta Sección, por la tenencia o uso de los siguientes vehículos:
-
-I.- Los importados temporalmente en los términos de la Legislación Aduanera.
-
-II.- (DEROGADA, B.O.18 DE DICIEMBRE DE 2003)
-
-III.- Los automóviles, que estén al servicio de los cuerpos diplomáticos y consulados extranjeros acreditados ante nuestro país.
-
-IV.- Los que tengan para su venta los distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación.
-
-> <small>(ADICIONADA, B.O. 23 DE DICIEMBRE DE 2002)</small>
-
-V.- Los vehículos de la Federación, del Estado y de los municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, limpia, recolección de basura, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos.
-
-Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo, deberá pagar el impuesto correspondiente dentro de los quince días siguientes a aquél en que tenga lugar el hecho de que se trata.
-
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
-
-Artículo 212 F.- Los tenedores o usuarios de los vehículos a que se refieren las fracciones I y V del Artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Hacienda que se encuentran comprendidos en dichos supuestos.
-
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
-
-Artículo 212 G.- Las oficinas recaudadoras no expedirán placas de circulación, si el tenedor o usuario del vehículo no comprueba el pago del impuesto o en su caso, acredita que se encuentra liberado de esta obligación.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -1973,9 +1811,9 @@ Los sujetos obligados al pago del impuesto realizarán el pago a más tardar el 
 
 Artículo 212 N.- Las personas físicas o morales que organicen, celebren, enajenen o vendan, directamente o a través de terceras personas, billetes, boletos, contraseñas o cualquier otro comprobante que permita participar en los eventos a que se refiere el objeto de este impuesto, deberán:
 
-I.- Solicitar su inscripción en el registro estatal de contribuyentes, utilizando para tales efectos las formas aprobadas.
+I.- Solicitar su inscripción en el registro estatal de contribuyentes, utilizando para tales efectos las formas aprobadas;
 
-II.- Presentar ante las autoridades fiscales, las declaraciones y pagos correspondientes, los avisos e informes dentro de los plazos y en los lugares señalados para tales efectos.
+II.- Presentar ante las autoridades fiscales, las declaraciones y pagos correspondientes, los avisos e informes dentro de los plazos y en los lugares señalados para tales efectos;
 
 > <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -2043,31 +1881,31 @@ III.- Los pagos por concepto de jubilaciones o pensiones, siempre que no excedan
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
-IV.- Contraprestaciones cubiertas por instituciones o asociaciones con fines no lucrativos que promuevan o realicen asistencia social en cualquiera de sus formas, así como las que lleven a cabo gratuitamente actividades sociales, deportivas o culturales.
+IV.- Contraprestaciones cubiertas por instituciones o asociaciones con fines no lucrativos que promuevan o realicen asistencia social en cualquiera de sus formas, así como las que lleven a cabo gratuitamente actividades sociales, deportivas o culturales;
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-V.- Contraprestaciones cubiertas por contribuyentes que tengan contratados un máximo de 20 trabajadores, a quienes se les exentará del pago de este impuesto por el monto equivalente a un salario mínimo elevado al mes por cada trabajador hasta un máximo de cinco trabajadores. Por el excedente se pagará el impuesto en los términos del Artículo 216 de este Capítulo. Para acogerse a este beneficio se deberá considerar la suma total de empleados contratados en cada una de las sucursales, en caso de que los hubiere.
+V.- Contraprestaciones cubiertas por contribuyentes que tengan contratados un máximo de 20 trabajadores, a quienes se les exentará del pago de este impuesto por el monto equivalente a un salario mínimo general del área geográfica "B" elevado al mes por cada trabajador hasta un máximo de cinco trabajadores. Por el excedente se pagará el impuesto en los términos del artículo 216 de este Capítulo. Para acogerse a este beneficio se deberá considerar la suma total de empleados contratados en cada una de las sucursales, en caso de que los hubiere;
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
-VI.- Contraprestaciones pagadas a personas con discapacidad.
+VI.- Contraprestaciones pagadas a personas con discapacidad;
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-VII.- Participación en las utilidades de los trabajadores.
+VII.- Participación en las utilidades de los trabajadores;
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-VIII.- Aportación por concepto de seguro de retiro y de INFONAVIT.
+VIII.- Aportación por concepto de seguro de retiro y de INFONAVIT;
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-IX.- Gastos funerarios.
+IX.- Gastos funerarios;
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-X.- Becas educacionales a favor de trabajadores y sus hijos, siempre y cuando sean en Instituciones con reconocimiento de validez oficial.
+X.- Becas educacionales a favor de trabajadores y sus hijos, siempre y cuando sean en Instituciones con reconocimiento de validez oficial;
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -2139,7 +1977,13 @@ II.- Retener el impuesto que se cause conforme a las disposiciones contenidas en
 
 III.- Las demás que impongan otras disposiciones fiscales.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+Artículo 221 BIS.- Las personas físicas o morales que contraten la prestación de servicios con empresas para que éstas les proporcionen a los trabajadores, deberán presentar dentro de los diez días siguientes a dicha contratación ante la oficina recaudadora que corresponda a su domicilio fiscal, aviso de inscripción al registro estatal de contribuyentes debiendo acompañar copia del contrato de prestación de servicios, e informar sobre el número de trabajadores que presten el trabajo subordinado y nombre, registro estatal de contribuyentes y domicilio de la prestadora de servicios de que se trate.
+
 > <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
+
+Las autoridades fiscales podrán requerir a las personas físicas o morales la presentación de la información a que se refiere el párrafo anterior, a fin de que en un plazo máximo de diez días cumplan con lo solicitado.
 
 ###### Artículo 221 Bis.
 
@@ -2467,9 +2311,9 @@ Tienen derecho a una reducción en la contribución para obras públicas:
 
 I.- Los propietarios de inmuebles que legalmente hubieren sido catalogados o declarados monumentos. Para calcular la reducción se observarán las siguientes reglas:
 
-1.- Los edificios declarados monumentos o catalogados por su planta o patio, se considerarán con una reducción del 50% del área homogénea de la parte catalogada o declarada monumento.
+1.- Los edificios declarados monumentos o catalogados por su planta o patio, se considerarán con una reducción del 50% del área homogénea de la parte catalogada o declarada monumento;
 
-2.- Los edificios no comprendidos en el inciso anterior que estén catalogados por poseer detalles arquitectónicos o artísticos que deban conservarse, se considerarán con una reducción del 10% de su área homogénea.
+2.- Los edificios no comprendidos en el inciso anterior que estén catalogados por poseer detalles arquitectónicos o artísticos que deban conservarse, se considerarán con una reducción del 10% de su área homogénea;
 
 II.- Los propietarios o poseedores de predios ubicados en colonias reconocidas oficialmente como proletarias, tendrán derecho a una reducción del 20% del importe de la cuota que les corresponda.
 
@@ -2541,9 +2385,9 @@ La cuota a cargo de cada causante será determinada teniendo en cuenta:
 
 I.- Si la contribución es para obras públicas:
 
-a) El beneficio directo que reciba el predio con la mejora; y
+a).- El beneficio directo que reciba el predio con la mejora; y
 
-b) El beneficio indirecto, en su caso.
+b).- El beneficio indirecto, en su caso;
 
 II.- Si la contribución es para servicios públicos, será general y equitativa.
 
@@ -2825,7 +2669,7 @@ Toda la recaudación que por concepto de ésta contribución se obtenga en cada 
 
 ### Capítulo Tercero. Servicios por la Expedición y Revalidación de Licencias para la Venta de Bebidas con Contenido Alcohólico
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ### Capítulo Cuarto. Servicios de Ganadería
 
@@ -2949,7 +2793,7 @@ Estas contribuciones se recaudarán en la misma forma y simultáneamente con los
 
 ## TITULO CUARTO. De los Derechos
 
-### Capítulo Sexto. Servicios de Legalización, Certificación de Firmas y otros Servicios
+### Capítulo Sexto. Otros Servicios
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -2967,7 +2811,9 @@ I.- Cuando el solicitante del servicio acredite su calidad de jubilado, pensiona
 
 a).- Derechos por expedición, transferencia, canje o revalidación de placas de transporte privado, para un solo vehículo de su propiedad.
 
-b).- Derechos por expedición de licencias para conducir con vigencia de dos años.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+b).- Derechos por expedición de licencias para conducir.
 
 c).- Derechos por los servicios que presta el Registro Público de la Propiedad, y
 
@@ -2975,13 +2821,13 @@ d).- En general por la legalización de firmas, expedición de certificados y ce
 
 II.- Para los efectos anteriores, se consideran jubilados, pensionados o persona adulta de 65 años o más edad, aquéllas que acrediten la calidad correspondiente mediante la documentación oficial expedida por las instituciones públicas de seguridad social que a continuación se señalan:
 
-a).- Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado de Sonora;
+a).- Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado de Sonora.
 
-b).- Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado;
+b).- Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado.
 
-c).- Instituto Mexicano del Seguro Social;
+c).- Instituto Mexicano del Seguro Social.
 
-d).- Instituto de Seguridad y Servicios Sociales de las Fuerzas Armadas Mexicanas, de Petróleos Mexicanos, de la Comisión Federal de Electricidad y de Ferrocarriles Nacionales de México;
+d).- Instituto de Seguridad y Servicios Sociales de las Fuerzas Armadas Mexicanas, de Petróleos Mexicanos, de la Comisión Federal de Electricidad y de Ferrocarriles Nacionales de México.
 
 e).- Instituto Nacional para las Personas Adultas Mayores, y
 
@@ -3037,171 +2883,83 @@ Los derechos por servicios de empadronamiento a que se refieren diversos precept
 
 ###### Artículo 302.
 
-Los servicios de expedición, cambios de domicilio y revalidación de licencias para la venta y consumo de bebidas con contenido alcohólico y expedición de licencias eventuales, causarán derechos atendiendo al tipo de giro, ubicación y capacidad económica del establecimiento conforme a las siguientes cuotas:
+Los servicios de expedición, cambios de domicilio, cambios de propietario y revalidación de licencias para la venta y consumo de bebidas con contenido alcohólico, causarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 I.- Por la expedición de licencias:
 
-MINIMO MAXIMO
+a).- Fábrica. $300,000.00
 
-a).- Distribuidora, Agencia o
+b).- Agencia distribuidora. $300,000.00
 
-Subagencia N$30,000.00 a N$100,000.00
+c).- Expendio. $300,000.00
 
-b).- Almacén 35,000.00 a 80,000.00
+d).- Cantina, billar o boliche. $200,000.00
 
-c).- Depósito 15,000.00 a 50,000.00
+e).- Restaurante. $50,000.00
 
-d).- Expendio 20,000.00 a 80,000.00
+f).- Restaurante con bar anexo. $80,000.00
 
-e).- Ultramarino 10,000.00 a 50,000.00
+g).- Tienda de autoservicio. $200,000.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+h).- Tienda departamental. $175,000.00
 
-f).- Cantina, bar o cervecería 60,000.00 a 120,000.00
+i).- Tienda de abarrotes. $200,000.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+j).- Centro nocturno. $300,000.00
 
-g).- fabrica 60,000.00 a 120,000.00
+k).- Centro de eventos o salón de baile. $200,000.00
 
-h).- Cabaret o Centro
+l).- Centro deportivo o recreativo. $80,000.00
 
-Nocturno 15,000.00 a 50,000.00
+m).- Hotel o motel. $100,000.00
 
-i).- Discoteca 25,000.00 a 100,000.00
+n).- Porteadora. $30,000.00
 
-j).- Restaurante 20,000.00 a 80,000.00
+ñ).- Autorizaciones con fines determinados. Por día. $1,500.00
 
-k).- Fonda, Taquería,
-
-Pizzería y similares 5,000.00 a 50,000.00
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
-
-l).- Envasadora 50,550.00 a 130,000.00
-
-m).- Supermercado 20,000.00 a 80,000.00
-
-n).- Casino 20,000.00 a 80,000.00
-
-ñ).- Club social 20,000.00 a 80,000.00
-
-o).- Salón de Baile y
-
-salón social 25,000.00 a 100,000.00
-
-p).- Salónde billar y
-
-boliche 20,000.00 a 80,000.00
-
-q).- Café cantante 15,000.00 a 50,000.00
-
-r).- Hotel o motel 25,000.00 a 100,000.00
-
-s).- Centro recreativo o
-
-deportivo 20,000.00 a 80,000.00
-
-t).- Abarrotes 2,000.00 a 10,000.00
-
-u).- Tienda de servicio 25,000.00 a 100,000.00
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
-
-v).- Bodega 53,500.00 a 130,000.00
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
-
-w).- Porteador de bebidas con
-
-contenido alcohólico 5,213.00 a 6,516.25
-
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 II.- Por la revalidación:
 
-a).- Distribuidora, Agencia
+a).- Fábrica. $45,000.00
 
-o Subagencia N$3,000.00 a N$10,000.00
+b).- Fábrica de producto regional típico. $3,000.00
 
-b).- Almacén 3,500.00 a 8,000.00
+c) Agencia distribuidora. $45,000.00
 
-c).- Depósito 1,500.00 a 5,000.00
+d).- Expendio. $35,000.00
 
-d).- Expendio 2,000.00 a 8,000.00
+e).- Cantina, billar o boliche. $15,000.00
 
-e).- Ultramarino 1,000.00 a 5,000.00
+f).- Restaurante. $5,000.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+f (sic)).- Restaurante con bar anexo. $8,000.00
 
-f).- Cantina, bar o cervecería 1,000.00 a 8,000.00
+g).- Tienda de autoservicio. $20,000.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+h).- Tienda departamental. $45,000.00
 
-g).- Fábrica 6,000.00 a 11,000.00
+i).- Tienda de abarrotes. $5,000.00
 
-h).- Cabaret o Centro
+j).- Centro nocturno. $45,000.00
 
-Nocturno 1,500.00 a 5,000.00
+k).- Centro de eventos o salón de baile. $17,500.00
 
-i).- Discoteca 2,500.00 a 10,000.00
+l).- Centro deportivo o recreativo. $10,000.00
 
-j).- Restaurante 1,000.00 a 8,000.00
+m).- Hotel o motel. $10,000.00
 
-k).- Fonda, Taquería,
+n).- Porteadora. $3,750.00
 
-Pizzería y similares 500.00 a 5,000.00
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+III.- Por expedición de guías para porteadores. $500.00
 
-l).- Envasadora 5,500.00 a 10,500.00
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-m).- Supermercado 2,000.00 a 8,000.00
-
-n).- Casino 1,000.00 a 8,000.00
-
-ñ).- Club Social 1,000.00 a 8,000.00
-
-o).- Salón de Baile y salón
-
-social 2,000.00 a 8,000.00
-
-p).- Salón de billar o
-
-boliche 500.00 a 5,000.00
-
-q).- Café cantante 1,500.00 a 5,000.00
-
-r).- Hotel o motel 2,500.00 a 10,000.00
-
-s).- Centro recreativo o
-
-deportivo 2,000.00 a 8,000.00
-
-t).- Abarrotes 100.00 a 1,000.00
-
-u).- Tienda de servicio 2,500.00 a 10,000.00
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
-
-v).- Bodega 5,000.00 a 9,000.00
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
-
-w).- Porteador 567.00 a 630.00
-
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2000)</small>
-
-III.- Cerfificación de licencias
-
-de alcohóles $257.00 $289.00
-
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
-
-IV.- Certificación de documento en que conste
-
-la revalidación $100.00 a $290.00
+IV.- Por cada certificación expedida por la Dirección General de Bebidas Alcohólicas. $320.00
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -3209,13 +2967,21 @@ V.- Por los servicios de expedición de licencia a favor del o de los herederos 
 
 Cuando en un solo trámite se realicen simultáneamente los cambios de domicilio y del nombre del establecimiento sin que implique cambio de propietario, se causará el pago de los derechos correspondientes por un solo concepto, pudiendo aplicarse la reducción a que se refiere el párrafo anterior.
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-VI.- Por los servicios de ampliación provicional de horario, se causarán los derechos establecidos en la fracción II de este artículo. La cuota que se determine podrá reducirse hasta en un 50% de acuerdo al giro de que se trate.
+VI.- Por los servicios de ampliación provisional de Horario, por hora, por día, se causarán los Siguientes derechos: $500.00
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+VII.- Durante el período correspondiente a los trámites administrativos relacionados con la obtención de la licencia de funcionamiento para la venta y consumo de bebidas con contenido alcohólico, a petición del solicitante y previa evaluación de los motivos que la justifiquen, la Secretaría de Hacienda podrá expedir permisos provisionales, previo pago de los derechos correspondientes, hasta por tres meses, renovable por una sola ocasión por el plazo solicitado inicialmente, sin que su expedición implique la autorización de la licencia definitiva.
+
+La expedición de estos permisos provisionales causará derechos por cada mes o fracción, a razón de una doceava parte de la tarifa establecida en la fracción I del presente artículo, para el giro correspondiente a la licencia en trámite.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 303.
 
-(DEROGADO, B.O. 28 DE DICIEMBRE DE 1995)
+Las personas físicas o morales titulares de licencias o permisos para operar alguno o algunos de los establecimientos a que se refiere el Artículo 302 de este Capítulo, deberán presentar el aviso de inscripción ante el registro estatal de contribuyentes en la oficina recaudadora que corresponda a su domicilio fiscal.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -3285,11 +3051,9 @@ del Estado Estado de Sonora
 
 N$ .030 N$ .020
 
-> <small>(ADICIONADA, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-IV.- Por la acreditación de expendios de carnes
-
-clasificadas. $ 400.00
+IV.- Por la acreditación anual de expendios de carnes clasificadas. $406.00
 
 ### Capítulo Décimo. Derechos por Servicios en materia de Autotransportes y Otros
 
@@ -3315,7 +3079,7 @@ cualquier profesión o especialidad. N$ 100.00
 
 del punto anterior, por cada prórroga. N$ 50.00
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ### Capítulo Décimo Primero. Servicios del Registro Público de la Propiedad y del Comercio
 
@@ -3325,17 +3089,17 @@ del punto anterior, por cada prórroga. N$ 50.00
 
 Los derechos por estos servicios se cobrarán conforme a las siguientes cuotas:
 
-1.- Por cada firma que legalice el c. Gobernador
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-Constitucional del Estado y Supremo Tribunal de
+1.- Por los servicios de expedición de cédula para
 
-Justicia. N$50.00
+acreditar la inscripción en el registro simplificado de
 
-2.- Por cada firma que legalicen o certifiquen los
+proveedores y prestadores de servicios del Gobierno
 
-C.C. Jueces de Primera Instancia o el Tesorero
+del Estado, a petición del solicitante. $50.00
 
-General del Estado. N$50.00
+2.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -3347,15 +3111,7 @@ a).- Copia simple. $20.00
 
 b).- Copia certificada. $50.00
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 18 DE DICIEMBRE DE 2003)</small>
-
-4.- Por la certificación de documentos que conforme
-
-a la Ley deban permanecer en lugar visible de los
-
-establecimientos, para ser utilizados en sustitución
-
-de los originales. $413.00
+4.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -3395,11 +3151,11 @@ adeudo fiscal y/o no inscripción en el registro estatal
 
 de contribuyentes. $50.00
 
-> <small>(ADICIONADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-11.- Por el servicio de vigilancia, inspección y control que las leyes de la materia encomiendan a la Secretaría de la Contraloría General, los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente al 2 al millar sobre el importe de cada una de las estimaciones de trabajo.
+11.- Por el servicio de vigilancia, inspección y control que las leyes de la materia encomiendan a la Secretaría de la Contraloría General, los proveedores y contratistas con quienes se celebren contratos de adquisiciones derivados de licitaciones públicas, de obra pública y de servicios relacionados con dichas materias, pagarán un derecho equivalente al 2 al millar sobre el importe de cada una de las estimaciones o adquisiciones derivadas de los contratos.
 
-La Secretaría de Hacienda y las entidades paraestatales de la administración pública estatal, al hacer el pago de las estimaciones de obra, retendrán el importe del derecho a que se refiere el párrafo anterior.
+La Secretaría de Hacienda y las entidades paraestatales de la administración pública estatal, al hacer el pago de las estimaciones de obra o adquisiciones, retendrán el importe del derecho a que se refiere el párrafo anterior.
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -3409,139 +3165,67 @@ La Secretaría de Hacienda y las entidades paraestatales de la administración p
 
 Los derechos por estos servicios, se cobrarán conforme a las siguientes cuotas.
 
-1.- Por expedición de testimonios de escrituras públicas
+1.- Por expedición de testimonios de escrituras públicas incluida su certificación. Por hoja de los testimonios. $137.00
 
-incluida su certificación.
+2.- Por expedición de documentos integrantes del apéndice (planos, colindancias, etc.), por cada hoja, incluida su certificación. $77.00
 
-Por hoja de los testimonios. $137.00
-
-2.- Por expedición de documentos integrantes del
-
-apéndice (planos, colindancias, etc.), por cada hoja,
-
-incluida su certificación. $77.00
-
-3.- Por expedición de copias de escrituras públicas,
-
-por cada hoja del libro o apéndice.
+3.- Por expedición de copias de escrituras públicas, por cada hoja del libro o apéndice.
 
 a).- Copia simple $17.00
 
 b).- Copia certificada. $64.00
 
-4.- Por rendir informe sobre existencia o no de
-
-testamento, a la autoridad judicial, por cada autor
+4.- Por rendir informe sobre existencia o no de testamento, a la autoridad judicial, por cada autor
 
 de la sucesión. $77.00
 
-5.- Por autorización de protocolos para uso de los
+5.- Por autorización de protocolos para uso de los notarios (sellado y certificado) por cada libro. $146.00
 
-notarios (sellado y certificado) por cada libro. $146.00
+6.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
-6.- Por certificación de firmas notariales. $104.00
+7.- Por la recepción de los libros y apéndices del protocolo notarial para su guarda y custodia en el archivo notarial, por cada volumen recibido. $77.00
 
-7.- Por la recepción de los libros y apéndices del
+8.- Por certificación de cierre de protocolos enviados por los notarios para tal fin, por cada libro. $137.00
 
-protocolo notarial para su guarda y custodia en el
+9.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
-archivo notarial, por cada volumen recibido. $77.00
+10.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
-8.- Por certificación de cierre de protocolos enviados
+11.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
-por los notarios para tal fin, por cada libro. $137.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-9.- Por cotejo de documento en la dirección por
+12.- Por la sola búsqueda y localización de información relativa a escrituras públicas y antecedentes notariales y brindar información al interesado sin que esto implique la expedición y cobro del documento correspondiente:
 
-parte legítima. $50.00
+a).- Por notario y por cada 2 años de búsqueda. $150.00
 
-10.- Por envío de testimonio y copias simples o
+13.- Por los servicios urgentes a petición del usuario se causará un derecho adicional equivalente al 50% sobre la cantidad fijada para el servicio que se solicita. Se considerarán servicios urgentes cuando se proporcione dentro de las veinticuatro horas siguientes.
 
-certificadas fuera de Hermosillo a cualquier lugar
+14.- Por presentación de examen de aspirante de notario. $5,297.00
 
-del Estado (incluyendo gastos de correo, transporte,
-
-etc.), por cada documento enviado. $176.00
-
-11.- Por la expedición de testimonios y copias
-
-certificadas de escrituras existentes en el archivo
-
-y cuya búsqueda y localización sea exhaustiva
-
-debido a la falta de alguno de los datos
-
-indispensables para ello:
-
-a).- Por cada hoja. $101.00
-
-b).- Por la búsqueda. $73.00
-
-12.- Por la sola búsqueda y localización de
-
-información relativa a escrituras públicas y
-
-antecedentes notariales y brindar información
-
-al interesado sin que esto implique la expedición
-
-y cobro del documento correspondiente:
-
-a).- Por la búsqueda en protocolos de diversos
-
-notarios, por cada uno de aquéllos. $73.00
-
-b).- Por cada año hasta llegar a tres. $49.00
-
-c).- Por cada año que exceda de los tres. $101.00
-
-13.- Por los servicios urgentes a petición del usuario
-
-se causará un derecho adicional equivalente al 50%
-
-sobre la cantidad fijada para el servicio que se solicita.
-
-Se considerarán servicios urgentes cuando se proporcione
-
-dentro de las veinticuatro horas siguientes.
-
-14.- Por presentación de examen de aspirante
-
-de notario. $5,297.00
-
-15.- Por presentación de examen de oposición
-
-para ser titular de una notaría pública. $10,593.00
+15.- Por presentación de examen de oposición para ser titular de una notaría pública. $10,593.00
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ### Capítulo Décimo Tercero. Servicios del Registro Civil
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 311.
 
 Los derechos por estos servicios se cobrarán conforme a las siguientes cuotas:
 
-1.- Por servicios de publicación y suscripciones
-
-en el Boletín Oficial, como sigue:
+1.- Por servicios de publicación y suscripciones en el Boletín Oficial, como sigue:
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
-I.- Por palabra, en cada publicación en menos de
-
-una página. $ 2.00
+I.- Por palabra, en cada publicación en menos de una página. $ 2.00
 
 II.- Por cada página completa en cada publicación. N$ 460.00
 
-III.- Por suscripción anual del Boletín Oficial,
+III.- Por suscripción anual del Boletín Oficial, sin entrega a domicilio. N$ 670.00
 
-sin entrega a domicilio. N$ 670.00
-
-IV.- Por suscripción anual del Boletín Oficial, al
-
-extranjero N$ 2,344.00
+IV.- Por suscripción anual del Boletín Oficial, al extranjero N$ 2,344.00
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -3553,77 +3237,47 @@ a).- Por cada hoja N$ 2.00
 
 b).- Por certificación del Boletín Oficial. N$ 10.00
 
-VII.- Por suscripción anual por correo dentro
-
-del país. N$ 1,300.00
+VII.- Por suscripción anual por correo dentro del país. N$ 1,300.00
 
 VIII.- Por número atrasado del Boletín. N$ 12.00
 
-Tratándose de publicaciones de convenios
+Tratándose de publicaciones de convenios autorización de fraccionamientos
 
-autorización de fraccionamientos
+habitacionales se aplicará la cuota correspondientemente reducida en un 75%.
 
-habitacionales se aplicará la cuota
-
-correspondientemente reducida en un 75%.
-
-2.- Por los demás servicios prestados por
-
-la Dirección General de Documentación
+2.- Por los demás servicios prestados por la Dirección General de Documentación
 
 y Archivo, como sigue:
 
-I.- Por la certificación de firmas autógrafas de
+I.- Por la certificación de firmas autógrafas de Constancias expedidas por centros educativos. N$ 10.00
 
-Constancias expedidas por centros educativos. N$ 10.00
+II.- Por legalización de actas de nacimiento, matrimonio y defunción. N$ 10.00
 
-II.- Por legalización de actas de nacimiento,
+III.- Por la certificación de firmas autógrafas que autoricen documentos públicos. N$ 35.00
 
-matrimonio y defunción. N$ 10.00
+IV.- Por la legalización de certificados de estudios: primaria, secundaria, preparatoria
 
-III.- Por la certificación de firmas autógrafas que
-
-autoricen documentos públicos. N$ 35.00
-
-IV.- Por la legalización de certificados de
-
-estudios: primaria, secundaria, preparatoria
-
-y profesional, constancias de servicio social
-
-y actas de examen profesional. N$ 15.00
+y profesional, constancias de servicio social y actas de examen profesional. N$ 15.00
 
 V.- Por la legalización de títulos profesionales. N$ 40.00
 
 VI.- Por la legalización de firmas de Notarios. N$ 50.00
 
-VII.- Por la legalización de exhortos. N$ 150.00
+VII.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-VIII.- Por apostillar documentos públicos para
+VIII.- Por apostillar documentos públicos para presentarse en países firmantes de la Convención de La Haya. $200.00
 
-presentarse en países firmantes de la
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-Convención de la Haya. $350.00
+IX.- Por copia simple de documentos del archivo histórico que sea posible su fotocopiado. $7.50
 
-IX.- Por la copia simple de documentos del
-
-Archivo Histórico que sea posible su fotocopiado. N$ 15.00
-
-X.- Por la certificación de constancias y copias de
-
-expedientes y documentos del Archivo Histórico. N$ 20.00
+X.- Por la certificación de constancias y copias de expedientes y documentos del Archivo Histórico. N$ 20.00
 
 > <small>(ADICIONADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
-XI.- Por la expedición de constancias del archivo
-
-administrativo de Servidores Públicos del Estado
-
-y copias de los documentos contenidos en el
-
-expediente, sin importar el número de documentos. $ 50.00
+XI.- Por la expedición de constancias del archivo administrativo de Servidores Públicos del Estado y copias de los documentos contenidos en el expediente, sin importar el número de documentos. $ 50.00
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 30 DE DICIEMBRE DE 1985)</small>
 
@@ -3643,9 +3297,9 @@ los vehículos de propulsión mecánica para uso
 
 particular.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-a).- Por expedición, transferencia o canje. $350.00
+a).- Por expedición, transferencia o canje. $382.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -3665,9 +3319,9 @@ para prestar servicios de transporte de personas o
 
 cosas dentro del Estado.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-a) Por expedición, transferencia o canje. $350.00
+a).- Por expedición, transferencia o canje. $382.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -3697,6 +3351,10 @@ placas o sin tarjeta de circulación y calcomanía,
 
 hasta por treinta días. N$ 60.00
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+Tratándose de permisos para circular sin placas por el traslado de vehículos en el Estado, hasta por diez días, se aplicará el equivalente al 35% de la tarifa a que se refiere este apartado.
+
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 7.- Por reposición de tarjetas de circulación. N$ 60.00
@@ -3723,9 +3381,15 @@ diariamente. $ 6.00
 
 Las autoridades estatales o municipales competentes en el Estado, en la actualización del registro de vehículos, por altas, cambios, bajas de placas o realicen el canje de placas por el término de su vigencia, deberán cerciorarse que no existan adeudos por concepto de derechos de placas o revalidaciones de las mismas, correspondientes a los últimos 5 años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 313.
 
-Los remolques y semiremolques deberán estar provistos de una placa en la parte posterior y causarán el 50% de la tarifa que corresponda, ya sea esta de transporte privado, de servicio local o de servicio público federal.
+Los remolques y semiremolques de transporte privado o de servicio público deberán estar provistos de una placa en su parte posterior, que causará los siguientes derechos:
+
+a).- Por la expedición, transferencia o canje. $191.00
+
+b).- Por revalidación anual. $283.00
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -3745,49 +3409,43 @@ La reposición de una placa implicará un juego completo y causará derechos com
 
 La expedición de licencias para conducir, así como los permisos para manejar sin licencia, causarán el pago de derechos, conforme a la siguiente tarifa:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 1.- Licencias:
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
-
 a).- De automovilista de acuerdo a su vigencia, como sigue:
 
-Por dos años $200.00
+Por dos años $190.00
 
-Por tres años $260.00
+Por tres años $255.00
 
-Por cuatro años $330.00
+Por cuatro años $325.00
 
-Por cinco años $380.00
-
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+Por cinco años $375.00
 
 b).- De chofer de acuerdo a su vigencia, como sigue:
 
-Por dos años $200.00
+Por dos años $190.00
 
-Por tres años $260.00
+Por tres años $255.00
 
-Por cuatro años $330.00
+Por cuatro años $325.00
 
-Por cinco años $380.00
+Por cinco años $375.00
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+c).- De operador de servicio público de transporte de acuerdo a su vigencia, como sigue:
 
-c).- De operador de servicio público de transporte
+Por un año $95.00
 
-(categoría única por 3 años) $260.00
+Por tres años $255.00
 
-d).- De motociclistas:
+d).- De motociclista como sigue:
 
-Por dos años $105.00
+Por dos años $120.00
 
-Por tres años $124.00
+Por tres años $140.00
 
-> <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
-
-Por los servicios a que se refieren los incisos a), b) y d), anteriores, la Secretaría de Finanzas del Estado cuando a su juicio existan circunstancias que así lo determinen, podrá expedir licencias para conducir con vigencia de un año, en cuyo caso se aplicarán las cuotas correspondientes a la vigencia de 2 años, reducidas en un 50%.
+Por los servicios a que se refieren los incisos a), b) y d) anteriores, la Secretaría de Hacienda cuando a su juicio existan circunstancias que así lo determinen, podrá expedir licencias para conducir con vigencia de un año, en cuyo caso se aplicarán las cuotas correspondientes a la vigencia de 2 años, reducidas en un 50%.
 
 2.- (DEROGADO, B.O. 30 DE DICIEMBRE DE 1982)
 
@@ -3819,9 +3477,9 @@ Por 1 año $454.00
 
 Por 2 años $726.00
 
-> <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-A las reposiciones de licencias se les aplicará el mismo importe de los derechos que cause la expedición de las licencias nuevas.
+A las reposiciones de licencias se les aplicará el mismo importe de los derechos que cause la expedición de licencias nuevas. Cuando por causas imputables al usuario se deba de reponer la licencia ya impresa se deberá pagar el derecho equivalente a la licencia de un año, siempre y cuando ésta se realice el mismo día de su expedición.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -3871,29 +3529,21 @@ La expedición, transferencia o canje, así como la expedición de las licencias
 
 La Secretaría de Hacienda podrá emitir normatividad simplificando los trámites o reduciendo los requisitos a que se refiere el párrafo anterior, a fin de facilitar el cumplimiento de las obligaciones de los solicitantes por los servicios, la cual deberá publicarse en el Boletín Oficial del Gobierno del Estado e iniciará su vigencia a partir del día hábil siguiente al de su publicación.
 
-> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 319.
 
-Los servicios relativos a información en materia vehicular proporcionada a los propios contribuyentes, causarán derechos conforme a las siguientes cuotas:
+Los servicios relativos a información en materia vehicular y de otros registros proporcionada a los propios contribuyentes, causarán derechos conforme a las siguientes cuotas:
 
-1.- Por expedición de constancias de adeudo o
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-de no adeudo de créditos fiscales $50.00
+1.- Por expedición de constancias de adeudo o de no adeudo de créditos fiscales. $80.00
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-2.- Por verificación y validación o certificación de
+2.- Por verificación y validación o certificación de pago del impuesto sobre tenencia o uso de vehículos, así como de documentación de archivo del Registro Estatal de Contribuyentes, vehicular y de licencias. $52.00
 
-pago del impuesto sobre tenencia o uso de
-
-vehículos, federal o estatal, así como de
-
-documentación de archivo del padrón vehicular. $51.00
-
-3.- Por confirmación de pagos y/o bajas relativas
-
-al padrón vehicular. $50.00
+3.- Por confirmación de pagos y/o bajas relativas al padrón vehicular. $50.00
 
 ### Capítulo Unico
 
@@ -3901,213 +3551,153 @@ al padrón vehicular. $50.00
 
 Los servicios que la Dirección General de Transporte del Estado, preste a los particulares, causarán el pago de derechos conforme a las especificaciones y tarifas siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-1.- Por la expedición o adjudicación de concesión
-
-para la explotación del servicio público de transporte,
-
-por unidad:
+1.- Por la expedición o adjudicación de concesión para la explotación del servicio público de transporte, por unidad.
 
 I.- De jurisdicción estatal:
 
-A).- Pasaje N$ 500.00
+a).- Pasaje. $3,300.00
 
-B).- Carga N$ 275.00
+b).- Carga. $1,800.00
 
-II.- De jurisdicción municipal.
+II.- De jurisdicción municipal;
 
-A).- Pasaje N$ 275.00
+a).- Pasaje. $1,800.00
 
-B).- Carga N$ 220.00
+b).- Carga. $1,450.00
 
-2.- Por revisión anual de las concesiones que
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-amparan la explotación del servicio público de
+2.- Por revisión anual de las concesiones que amparan la explotación del servicio público de transporte concesionado, de jurisdicción estatal o municipal, por unidad:
 
-transporte concesionado, tanto de jurisdicción
+a).- Pasaje. $800.00
 
-estatal como municipal, por unidad.
+b).- Carga. $500.00
 
-A).- Pasaje N$ 75.00
+Los derechos a que se refiere el párrafo anterior deberán cubrirse por los interesados, dentro del primer cuatrimestre de cada año.
 
-B).- Carga N$ 45.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+3.- Por la expedición de permisos eventuales para la explotación del servicio público de transporte de jurisdicción estatal o municipal, por unidad.
 
-3.- Por la expedición de permisos eventuales para
+a).- Pasaje. $800.00
 
-la explotación del servicio público de transporte
+b).- Carga. $500.00
 
-de jurisdicción estatal y municipal, por unidad:
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-A).- Pasaje N$ 75.00
+4.- Autorización de vehículos que prestan servicio de emergencia, de jurisdicción estatal o municipal, por unidad:
 
-B).- Carga N$ 75.00
+a).- Pasaje. $450.00
 
-4.- Autorización de vehículos de emergencia
+b).- Carga. $450.00
 
-tanto de jurisdicción estatal como municipal,
+5.- Autorización de alta y baja de la unidad para la explotación del servicio público de transporte
 
-por unidad.
+tanto de jurisdicción estatal, como municipal, por unidad:
 
-A).- Pasaje N$ 40.00
+a).- Pasaje N$ 30.00
 
-B).- Carga N$ 40.00
+b).- Carga N$ 30.00
 
-5.- Autorización de alta y baja de la unidad para
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-la explotación del servicio público de transporte
+6.- Por la expedición de permisos emergentes para la explotación del servicio público de transporte de jurisdicción estatal o municipal a vehículos no concesionados por reparación de unidades autorizadas, por unidad:
 
-tanto de jurisdicción estatal, como municipal,
+a).- Pasaje. $330.00
 
-por unidad:
+b).- Carga. $330.00
 
-A).- Pasaje N$ 30.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-B).- Carga N$ 30.00
+7.- Expedición de permisos que amparen el servicio particular de transporte, de jurisdicción estatal o municipal, por unidad:
 
-6.- Autorización temporal a vehículos no
+a).- Personas físicas. $300.00
 
-concesionados por reparación de unidades
+b).- Personas morales. $500.00
 
-autorizadas, de Jurisdicción Estatal o Municipal
+8.- Por estudios que realice el Departamento Técnico adscrito a la Dirección, a solicitud de
 
-por unidad:
-
-A).- Pasaje N$ 30.00
-
-B).- Carga N$ 30.00
-
-7.- Expedición de servicios que amparen el
-
-servicio particular de transporte, sean
-
-de jurisdicción estatal o municipal,
-
-por unidad:
-
-A).- Personas físicas N$ 45.00
-
-B).- Personas morales N$ 75.00
-
-8.- Por estudios que realice el Departamento
-
-Técnico adscrito a la Dirección, a solicitud de
-
-particulares para determinar las necesidades
-
-de servicio público de transporte de jurisdicción
+particulares para determinar las necesidades de servicio público de transporte de jurisdicción
 
 estatal o municipal.
 
-A).- Pasaje N$ 600.00
+a).- Pasaje N$ 600.00
 
-B).- Carga N$ 600.00
+b).- Carga N$ 600.00
 
-9.- Por la expedición de concesiones con motivo
+9.- Por la expedición de concesiones con motivo de ampliación de ruta o radios de jurisdicción en
 
-de ampliación de ruta o radios de jurisdicción en
-
-la explotación de servicio público de transporte
-
-de jurisdicción estatal o municipal.
+la explotación de servicio público de transporte de jurisdicción estatal o municipal.
 
 I.- Pasaje
 
-A).- Que exceda del 50% del kilometraje que
+a).- Que exceda del 50% del kilometraje que Tenga autorizado esta concesión, por unidad. N$ 275.00
 
-Tenga autorizado esta concesión, por unidad. N$ 275.00
-
-B).- Que no exceda del 50% del kilometraje
-
-que tenga autorizado en la concesión
+b).- Que no exceda del 50% del kilometraje que tenga autorizado en la concesión
 
 por unidad. N$ 150.00
 
 II.- Carga:
 
-A).- Que exceda del 50% del radio de acción
+a).- Que exceda del 50% del radio de acción Autorizado en la concesión, por unidad. N$ 150.00
 
-Autorizado en la concesión, por unidad. N$ 150.00
+b).- Que no exceda del 50% del radio de acción Autorizado en la concesión, por unidad. N$ 75.00
 
-B).- Que no exceda del 50% del radio de acción
+10.- Por expedición de concesiones para la explotación de centrales y terminales camioneras. N$ 1,500.00
 
-Autorizado en la concesión, por unidad. N$ 75.00
+11.- Por estudios técnicos y socioeconómicos que a solicitud de concesionario realice el Departamento Técnico adscrito a la Dirección, para la modificación de tarifas. N$ 800.00
 
-10.- Por expedición de concesiones para la
+12.- Por la expedición de certificados que acrediten el carácter de no concesionario del servicio público de transporte. N$ 45.00
 
-explotación de centrales y terminales camioneras. N$ 1,500.00
+13.- Por certificación de copias de cualquier documento existente en los archivos de la
 
-11.- Por estudios técnicos y socioeconómicos que
-
-a solicitud de concesionario realice el Departamento
-
-Técnico adscrito a la Dirección, para la modificación
-
-de tarifas. N$ 800.00
-
-12.- Por la expedición de certificados que acrediten
-
-el carácter de no concesionario del servicio público
-
-de transporte. N$ 45.00
-
-13.- Por certificación de copias de cualquier
-
-documento existente en los archivos de la
-
-Dirección General de Transporte a solicitud de
-
-parte o en cumplimiento de un mandato judicial
+Dirección General de Transporte a solicitud de parte o en cumplimiento de un mandato judicial
 
 gestionado por particulares.
 
-A).- Por cada hoja N$ 20.00
+a).- Por cada hoja N$ 20.00
 
-B).- Por la búsqueda N$ 20.00
+b).- Por la búsqueda N$ 20.00
 
-14.- Por la autorización de reubicación de lugar
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-de estacionamiento, para automóviles de alquiler
+14.- Por la autorización de reubicación del lugar de estacionamiento, para automóviles de alquiler, por unidad. $500.00
 
-por unidad. N$ 150.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
+15.- Por cesión de derechos de explotación de concesión del servicio público de transporte, estatal o municipal, por unidad:
 
-15.- Por cesión de derechos de explotación de
+a).- Pasaje:
 
-concesión del servicio público de transporte,
+Urbano, suburbano y foráneo. $4,850.00
 
-estatal o Municipal, por unidad:
+Taxi. $2,400.00
 
-a). Pasaje N$1,000.00
+b).- Carga. $2,650.00
 
-b). Carga 550.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
+16.- Por autorización para arrendamiento de derechos de explotación de concesión estatal o municipal, por unidad:
 
-16.- Por autorización para arrendamiento de derechos
+a).- Pasaje, por cada período de hasta 30 días. $800.00
 
-de explotación de concesión Estatal o Municipal, por
-
-unidad:
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
-
-a). Pasaje $148.00 por cada período hasta 30 días.
-
-b). Carga N$100.00 por cada período hasta 30 días.
+b).- Carga, por cada período de hasta 30 días. $800.00
 
 > <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
 
-17.- Por expedición de constancia e información
-
-contenida en el Registro Público de Transporte del Estado.
+17.- Por expedición de constancia e información contenida en el Registro Público de Transporte del Estado.
 
 a).- Por cada hoja $41.00
 
 b).- Por la búsqueda $41.00
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+18.- Por aplicación de examen psicométrico a operadores
+
+que presten el servicio público de transporte en la modalidad de pasaje. $50.00
 
 ### Capítulo Unico
 
@@ -4115,7 +3705,9 @@ b).- Por la búsqueda $41.00
 
 Por los servicios registrales que presta el Instituto Catastral y Registral del Estado de Sonora, se causarán los siguientes derechos que deberán pagarse previamente a la prestación del servicio:
 
-1.- Por las inscripciones relativas al registro de todo tipo de documentos públicos o privados en que se reconozca, adquiera, transmita, modifique, grave o extinga la propiedad originaria de bienes inmuebles o cualquier derecho real sobre los mismos, así como de los actos jurídicos o contratos de bienes muebles que deban registrarse conforme a la leyes, se causarán y pagarán los derechos conforme a la tasa del 5 al millar, por cada operación.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+1.- Por las inscripciones relativas al registro de todo tipo de documentos públicos o privados en que se reconozca, adquiera, transmita, modifique, grave o extinga la propiedad originaria de bienes inmuebles o cualquier derecho real sobre los mismos, o por contratos de arrendamiento, así como de los actos jurídicos o contratos de bienes muebles que deban registrarse conforme a las leyes, se causarán y pagarán los derechos conforme a la tasa del 5 al millar, por cada operación.
 
 En los contratos traslativos de dominio se deberá tomar como base el valor que resulte más alto entre:
 
@@ -4193,9 +3785,15 @@ se trate, las cuotas a que se refiere este punto se
 
 reducirán en un 50%.
 
-5.- Por inscripción de embargos laborales. $ 1,000.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-6.- Por el depósito de testamento ológrafo. $ 300.00
+5.- Por la inscripción de embargos laborales, se causarán y pagarán los derechos conforme a la tasa de 5 al millar, por cada operación, y si el importe a pagar es mayor a la cantidad de $1,500.00, deberá aplicarse esta última.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+6.- Por el depósito de testamento ológrafo. $304.00
+
+Se exceptúa del pago de derechos el registro de testamento público simplificado.
 
 7.- Por capitulaciones matrimoniales, su modificación,
 
@@ -4205,23 +3803,11 @@ o valores estimables en moneda nacional. $ 320.00
 
 8.- Por registro de cédula hipotecaria. $ 425.00
 
-9.- En los registros en que se haga reacomodo de
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-pasivos o se otorguen facilidades de pago,
+9.- En los registros en que se haga reacomodo de pasivos o se otorguen facilidades de pago, tratándose de créditos ya inscritos en la misma oficina y del mismo acreedor, sin cancelar el acto jurídico inscrito. $325.00
 
-tratándose de créditos ya inscritos en la misma
-
-oficina y del mismo acreedor. $ 320.00
-
-Tratándose de reconocimiento de adeudo de créditos
-
-ya inscritos en la misma oficina, se causarán derechos
-
-conforme a la tasa del 5 al millar, por la diferencia que
-
-resulte entre el crédito inscrito y la suma de dinero que
-
-se reconozca adeudar.
+Tratándose de reconocimiento de adeudo de créditos ya inscritos en la misma oficina, se causarán derechos conforme a la tasa del 5 al millar, por la diferencia que resulte entre el crédito inscrito y la suma de dinero que se reconozca adeudar y, en caso de novación, se cobrará la tasa de 5 al millar sobre el importe a inscribir.
 
 10.- Por convenio modificatorio, judicial, rectificación de
 
@@ -4233,15 +3819,9 @@ documentos o títulos públicos o privados no previstos
 
 en el Registro Público de la Propiedad. $ 410.00
 
-II.- Por fideicomiso en administración de bienes,
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-irrevocables de garantía en donde el fideicomitente
-
-se reserve el derecho a readquirir los bienes del
-
-fiduciario o cualquier otro tipo de fideicomiso
-
-no previsto. $ 525.00
+11.- Por fideicomiso en administración de bienes, irrevocables de garantía en donde el fideicomitente se reserve el derecho de readquirir los bienes del fiduciario o cualquier otro tipo de fideicomiso no previsto. $750.00
 
 12.- Por inscripciones de escrituras constitutivas de
 
@@ -4257,17 +3837,9 @@ b).- Por inscripciones de actas de sociedades que
 
 contengan aumento de capital. $ 1,500.00
 
-13.- Por cualquier modificación de escrituras constitutivas
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-de sociedades mercantiles o civiles, exceptuando al
-
-aumento de capital; o por la inscripción de poderes,
-
-sustitución de los mismos y cualquier otra inscripción
-
-no prevista en el Registro Público de Comercio, se
-
-cobrará por cada operación. $ 365.00
+13.- Por cualquier modificación de escrituras constitutivas de sociedades mercantiles o civiles, exceptuando al aumento de capital; o por la inscripción de poderes, sustitución de los mismos y cualquier otra inscripción no prevista en el Registro Público de Comercio, se cobrará por cada operación. $490.00
 
 14.- Por cancelación de inscripción o gravámenes
 
@@ -4295,11 +3867,9 @@ se reducirá en un 50%.
 
 sea simultánea la inscripción del primer ejemplar. $ 100.00
 
-16.- Ratificación de firmas por contratos privados de
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-prenda, habilitación o avío y refaccionarios y sus
-
-convenios modificatorios. $ 105.00
+16.- Por ratificación de firmas en contratos privados, convenios o de cualesquier otro tipo de acto o servicio proporcionado, se cobrará por cada operación. $250.00
 
 17.- Por el registro e inscripción de patentes, sellos
 
@@ -4323,17 +3893,33 @@ como las obligaciones, infracciones y sanciones, que
 
 sean aplicables a los peritos valuadores.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
 18.- Por la expedición de las siguientes certificaciones:
 
-a).- Información de antecedentes registrales,
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-por persona. $ 35.00
+a).- Información de antecedentes registrales, por cada persona. $36.00
 
-b).- Certificados de no-propiedad. $ 50.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-c).- Certificados de antecedentes registrales. $ 320.00
+b).- Certificados de no propiedad, por cada persona. $25.00
 
-d).- Todos los demás certificados. $ 138.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+c).- Certificados de historia de antecedentes registrales por predio, por el primer antecedente, se causará. $250.00
+
+Y por cada uno de los subsecuentes antecedentes registrales hasta la matriculación del predio, se cobrará. $100.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+d).- Por rendir informe sobre disposición testamentaria, por
+
+cada autor de la sucesión. $77.00
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+e).- Todos los demás certificados. $140.00
 
 Tratándose de operaciones relativas a vivienda de
 
@@ -4363,9 +3949,13 @@ d).- Certificadas, por cada una de las hojas
 
 subsecuentes. $ 19.00
 
-20.- Por los servicios urgentes a petición del usuario se causará un derecho adicional equivalente al 20% sobre la cantidad fijada para el servicio que se solicite, o cuando un documento tenga que registrarse en mas de una entidad federativa, se cobrará el 50% de los derechos por el servicio solicitado.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-La tasa expresada en 5 al millar, por los servicios a que se refiere este Capítulo, no excederá de la cantidad equivalente a 700 veces el salario mínimo general vigente correspondiente al área geográfica "A".
+20.- Por los servicios urgentes a petición del usuario se causará un derecho adicional equivalente al 50% sobre la cantidad fijada para el servicio que se solicite, los cuales se proporcionarán dentro de las 24 horas hábiles siguientes a su solicitud, de cuyos derechos se destinará el 40% como compensación al personal de la oficina y el restante 60% se aplicará para cubrir los gastos y erogaciones necesarios para la modernización de los servicios registrales.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+La tasa expresada en 5 al millar, por los servicios a que se refiere este Capítulo, no excederá de la cantidad equivalente a 800 veces el salario mínimo general vigente correspondiente al área geográfica "A".
 
 ###### Artículo 322.
 
@@ -4385,169 +3975,93 @@ Se exceptúan de los derechos a que se refiere este Capítulo, al Instituto de S
 
 ###### Artículo 325.
 
-Los servicios que se presten por las Oficialías del Registro Civil, causarán los siguientes derechos:
-
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
+Los servicios que se presten por las Oficialías del registro civil, causarán los siguientes derechos:
 
 I.- Por las inscripciones de:
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 23 DE DICIEMBRE DE 2002)</small>
 
 1.- Nacimientos.
 
 1.1.- Sin la entrega de la copia al interesado. Gratuita
 
-1.2.- Con la entrega de la copia al interesado. $32.00
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 23 DE DICIEMBRE DE 2002)</small>
+1.2.- Con la entrega de la copia al interesado. $50.00
 
 2.- Reconocimiento de hijos.
 
 2.1.- Sin la entrega de la copia al interesado. Gratuita
 
-2.2.- Con la entrega de la copia al interesado. $32.00
+2.2.- Con la entrega de la copia al interesado. $50.00
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 23 DE DICIEMBRE DE 2002)</small>
-
-3.- Defunciones
+3.- Defunciones.
 
 3.1.- Sin la entrega de la copia al interesado. Gratuita
 
-3.2.- Con la entrega de copia al interesado. $32.00
+3.2.- Con la entrega de copia al interesado. $50.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+4.- Matrimonios:
 
-4.- Matrimonios
+4.1.- Dentro de la oficina en horas hábiles. $319.99
 
-4.1.- Dentro de la oficina en horas hábiles $190.00
+4.2.- Fuera de la oficina en horas inhábiles (centros sociales y domicilios particulares). $1,409.00
 
-4.2.- Fuera de la oficina en horas inhábiles
-
-(centros sociales y domicilios particulares) $837.00
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
-
-5.- Actos del estado civil de los mexicanos
-
-realizados en el extranjero. N$ 150.00
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+5.- Actos del estado civil de los mexicanos realizados en el extranjero. $484.00
 
 6.- Resoluciones judiciales relativas a:
 
-6.1.- Adopciones N$ 100.00
+6.1.- Adopciones. $329.00
 
-6.2.- Divorcios N$ 150.00
+6.2.- Divorcios. $484.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+7.-Otras resoluciones judiciales que conforme al Código Civil deban registrarse. $329.00
 
-7.- Otras resoluciones judiciales que conforme
+II.- Por la expedición de actas del Registro Civil en las oficialías:
 
-al Código Civil deban registrarse. N$ 100.00
+1.- Servicio Ordinario.
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1992)</small>
+1.1.- Impreso del libro (medio electrónico). $50.00
 
-II.- Por la expedición de actas del Registro Civil en las Oficialías:
+1.2.- Transcripción del libro (mecanografiada). $50.00
 
-1.- Servicio ordinario
-
-1.1.- Impreso del libro
-
-(medio electrónico) N$ 15.00
-
-1.2.- Transcripción del libro
-
-(Mecanografiada) N$ 20.00
-
-> <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
-
-1.3.- Impreso del libro a través del servicio
-
-telefónico denominado Avitel (medio electrónico) $43.00
-
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+1.3.- Impreso del libro a través del servicio telefónico denominado Avitel (medio electrónico). $50.00
 
 III.- Por las anotaciones marginales:
 
-1.- De reconocimiento de hijos GRATUITA
+1.- De reconocimiento de hijos. Gratuita
 
-> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
+2.- Que ordena el artículo 213 del Código Civil. Gratuita
 
-2.- Que ordena el Art. 213 del Código Civil 0.50
+3.- De las resoluciones judiciales de complementación y rectificación de actas. $240.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+4.- Que se realicen en cumplimiento de disposiciones jurídicas o de resoluciones judiciales. $160.00
 
-3.- De las resoluciones judiciales de complementación
+Las inscripciones de cualquier acto que se celebre fuera de la oficina, en horas inhábiles, incluyendo los exentos, excepto el de matrimonio, causarán una cuota de: $484.00
 
-y rectificación de actas. N$ 75.00
+5.- Por la búsqueda que se efectúe para la localización de un acta, cuando el solicitante no aporte los datos necesarios, por cada 5 años de búsqueda. (Oficialías sin servicio de medios electrónicos). $50.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+6.- Por la expedición de certificados de inexistencia respectivo. $50.00
 
-4.- Que se realicen en cumplimiento de disposiciones
-
-jurídicas o de resoluciones judiciales. N$ 50.00
-
-Las inscripciones de cualquier acto que se celebre
-
-fuera de la oficina, en horas inhábiles, incluyendo los
-
-exentos, excepto el matrimonio, causarán una cuota
-
-de N$ 150.00
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
-
-5.- Por la búsqueda que se efectúe para la localización
-
-de un acta, cuando el solicitante no aporte los
-
-datos necesario, por cada 5 años de búsqueda.
-
-(Oficialías sin servicio de medios electrónicos) N$ 15.00
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
-
-6.- Por la expedición de certificados de inexistencia
-
-respectivo N$ 15.00
-
-El Ejecutivo del Estado por conducto de la
-
-Dependencia que corresponda, previo estudio
-
-socio-económico, podrá autorizar la exención de
-
-los derechos a que se refieren los puntos 1 y 6 de
-
-la Fracción I de este Artículo.
+El Ejecutivo del Estado por conducto de la dependencia que corresponda, previo estudio socioeconómico, podrá autorizar la exención de los derechos a que se refieren los puntos 1 y 6 de la fracción I de este artículo.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 Artículo 325 Bis A.- Los servicios que presta el Archivo Estatal del Registro Civil, causarán los siguientes derechos:
 
-I.- Por la expedición de actas.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-1.- Servicio Ordinario.
+I.- Por la expedición de actas:
 
-1.1.- Impreso del libro
+1.- Servicio ordinario.
 
-(Medio Electrónico) N$ 15.00
+1.1.- Impreso del libro (medio electrónico). $50.00
 
-1.2.- Transcripción del libro
+1.2.- Transcripción del libro (mecanografiada). $50.00
 
-(Mecanografiada) N$ 20.00
+1.3.- Impreso del libro a través del servicio telefónico denominado Avitel (medio electrónico). $50.00
 
-II.- Por la búsqueda que se efectúe para la
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-localización de un acta, cuando el solicitante
+II.- Por la búsqueda que se efectúe para la localización de un acta, cuando el solicitante no aporte los datos necesarios, por cada cinco años de búsqueda. $50.00
 
-no aporte los datos, por cada cinco años de
-
-búsqueda. N$ 15.00
-
-1.- Por la expedición de certificados de
-
-inexistencia respectivos. N$ 15.00
+1.- Por la expedición de certificados de inexistencia respectivo. $50.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -4559,107 +4073,59 @@ Artículo 325 Bis C.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 Quedan sujetos a las siguientes cuotas:
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-I.- Servicios Catastrales prestados por el Instituto Catastral y Registral del Estado de Sonora, respecto de:
+I.- Servicios catastrales prestados por el Instituto Catastral y Registral del Estado de Sonora, respecto de:
 
-1.- Por copia simple de antecedentes catastrales
+1.- Por copias de antecedentes catastrales y documentos de archivo, por cada hoja. $52.00
 
-y documentos de archivo, por cada hoja. N$ 20.00
+2.- Por certificación de copias de expedientes y documentos de archivo, catastrales, por cada hoja. $66.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1994)</small>
+3.- Por expedición de certificados catastrales. $75.00
 
-2.- Por certificación de copias de expedientes y
+4.- Por expedición de copias de planos catastrales de población, por cada hoja. $120.00
 
-documentos de archivo, catastrales, por cada hoja: N$ 20.00
+5.- Por certificación de copias de cartografía catastral, por cada hoja. $150.00
 
-3.- Por expedición de certificados catastrales
+6.- Por expedición de copias de cartografía catastral, por cada predio. $56.00
 
-simples. N$ 25.00
+7.- Por asignación de clave catastral a lotes de terreno de fraccionamientos, por cada clave. $22.00
 
-4.- Por expedición de copias de planos catastrales
+8.- Por certificación del valor catastral en la manifestación de traslación de dominio, por cada certificación. $75.00
 
-de población, por cada hoja. N$ 50.00 + .002 Por cm2.
+9.- Por expedición de certificados de no inscripción de bienes inmuebles. $75.00
 
-5.- Por certificación de copias de cartografía
+10.- Por inscripción de manifestaciones y avisos catastrales
 
-catastral, por cada hoja. N$ 50.00
+(manifestaciones de inmuebles de obra, fusiones y subdivisiones). $36.00
 
-6.- Por expedición de copias simples de cartografía
+11.- Por expedición de certificados de no propiedad y otros, por cada uno. $75.00
 
-catastral, por cada predio. N$ 20.00
+12.- Por expedición de certificados catastrales con medidas y colindancias. $150.00
 
-> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+13.- Por expedición de copias de cartografía rural, por cada hoja. $329.00
 
-7.- Por asignación de clave catastral a lotes de
+14.- Por expedición de planos de predios rurales a escala convencional. $260.00
 
-terreno de fraccionamientos, por cada clave. N$ 6.00
+15.- Por expedición de cartas geográficas para desarrollo, para uso particular, urbanas turísticas y de uso de suelo, por cada variante de información. $360.00
 
-8.- Por certificación del valor catastral en la
+16.- Por consulta de información catastral, por predio. $66.00
 
-manifestación de traslación de dominio, por
+17.- Por expedición de cédula de registro catastral. $120.00
 
-cada certificación. N$ 25.00
+18.- Por certificación del valor catastral en la manifestación de traslación de dominio para dependencias oficiales, por certificación. $36.00
 
-9.- Por expedición de certificados de no inscripción
+19.- Por la información que se genere por consulta en línea, de la siguiente manera:
 
-de bienes inmuebles. N$ 30.00
+a).- Certificado de valor catastral. $40.00
 
-10.- Por inscripción de manifestaciones y avisos
+b).- Ficha catastral. $40.00
 
-catastrales (Manifestaciones de inmuebles de obra,
+c).- Cartografía del predio. $40.00
 
-funciones y subdivisiones). N$ 10.00
+La información digitalizada que se produzca por el sistema estatal inmobiliario, podrá ser comercializada por el Instituto Catastral y Registral del Estado de Sonora, quien fijará las normas, medios y las bases de contratación.
 
-11.- Por expedición de certificados de no propiedad
-
-y otros, por cada uno. N$ 20.00
-
-12.- Por expedición de certificados catastrales con
-
-medidas y colindancias. N$ 60.00
-
-13.- Por expedición de copias de cartografía rural,
-
-por cada hoja. N$ 150.00
-
-14.- Por expedición de planos de predios rurales a
-
-escala convencional. N$ 100.00
-
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1994)</small>
-
-15.- Por expedición de cartas geográficas para
-
-desarrollo, para uso particular, urbanas turísticas
-
-y de uso de suelo, por cada variante de información N$ 50.00
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
-
-16.- Por consulta de información catastral, por predio $28.00
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
-
-17.- Por expedición de cédula de registro catastral $86.00
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
-
-18.- Por certificación del valor catastral en la
-
-manifestación de traslación de dominio para
-
-dependencias oficiales, por certificación $26.00
-
-El importe de las cuotas por la prestación de los anteriores servicios se reducirán en un 50 % cuando éstos sean solicitados por construcción o adquisición de vivienda.
-
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
-
-El importe de las cuotas por la prestación de los anteriores servicios se reducirá en un 75%, cuando estos sean solicitados para construcción o adquisición de vivienda de interés social y popular, cuyo valor al momento de la operación no exceda de la suma que resulte de multiplicar por 25 veces el salario mínimo general elevado al año, vigente en el área geográfica de que se trate. En el caso se de que el valor de las viviendas sea mayor a 25 veces el salario mínimo general elevado al año, vigente en el área geográfica de que se trate, el importe de las cuotas por la prestación de los anteriores servicios se reducirá en un 50%.
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
-
-El Estado procederá a cobrar los derechos enunciados en esta fracción, siempre que exista convenio expreso con el Municipio respectivo.
+El Estado procederá a cobrar los derechos enunciados en esta fracción, siempre que exista convenio expreso con el municipio respectivo.
 
 II.- Servicios Prestados por la Secretaría de Infraestructura Urbana y Ecología.
 
@@ -4719,7 +4185,7 @@ c).- Para lotes con superficie total a fusionar de
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-5.- Por reoltificación a desarrollos industriales,
+5.- Por relotificación a desarrollos industriales,
 
 turísticos o campestres ya autorizados por la
 
@@ -4727,15 +4193,15 @@ Secretaría de Infraestructura Urbana y Ecológica,
 
 por lote.
 
-a) Por el proceso de relotificación donde intervengan
+a).- Por el proceso de relotificación donde intervengan
 
 de 1 lote hasta 5 lotes. $350.00
 
-b) Por el proceso de relotificación donde intervengan
+b).- Por el proceso de relotificación donde intervengan
 
 de 6 lotes hasta 12 lotes. $175.00
 
-c) Por el proceso de relotificación donde intervengan
+c).- Por el proceso de relotificación donde intervengan
 
 12 (sic) lotes en adelante. $70.00
 
@@ -4827,7 +4293,9 @@ y dictamen para:
 
 a).- Otorgamiento de licencia de funcionamiento. $ 3,773.00
 
-b).- Actualización de la licencia de funcionamiento. $ 3,652.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+b).- Actualización de la licencia de funcionamiento $1,853.00
 
 c).- Actualización de la autorización en materia
 
@@ -4851,11 +4319,11 @@ ambiental. $ 2,366.00
 
 emisiones o concentración de:
 
-a) Contaminantes a la atmósfera de fuentes fijas. 4,600.00
+a).- Contaminantes a la atmósfera de fuentes fijas. 4,600.00
 
-b) Ruido y/o vibraciones de fuentes fijas. 2,300.00
+b).- Ruido y/o vibraciones de fuentes fijas. 2,300.00
 
-c) Contaminantes en aguas residuales. 750.00
+c).- Contaminantes en aguas residuales. 750.00
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -5017,9 +4485,9 @@ estudios. N$ 10.00
 
 6.- Exámenes a títulos de suficiencia:
 
-a) de educación primaria. N$ 3.00
+a).- de educación primaria. N$ 3.00
 
-b) de tipos media y superior por materia. N$ 3.00
+b).- de tipos media y superior por materia. N$ 3.00
 
 7.- Exámenes extraordinarios de tipo media y
 
@@ -5119,6 +4587,12 @@ V.- Servicios prestados por el Secretario Ejecutivo del Consejo Estatal de Segur
 
 El pago de estos derechos no implica la autorización para el funcionamiento de las empresas que realicen el entero.
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+3.- Por los servicios especiales de seguridad pública que preste el Estado de Sonora a particulares, se cobrará por semestre de calendario en forma anticipada, por cada elemento de seguridad en activo. $37,800.00
+
+Los ingresos que se perciban por los derechos a que se refiere el párrafo anterior, serán destinados exclusivamente para el fortalecimiento de los programas a cargo del Secretario Ejecutivo de Seguridad Pública y demás erogaciones necesarias para la adecuada y eficaz prestación del servicio.
+
 ## TITULO QUINTO. De los Productos y de los Aprovechamientos
 
 ###### Artículo 327.
@@ -5155,7 +4629,7 @@ Los contribuyentes o responsables solidarios que deban registrarse con motivo de
 
 > <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
 
-Las solicitudes de registro se presentarán por cuadruplicado ante la Oficina Receptora de la jurisdicción del interesado, quien conservará una copia; remitirá el original y una copia a la Tesorería General del Estado y, la copia restante, la entregará al interesado
+Las solicitudes de registro se presentarán por cuadruplicado ante la Oficina Receptora de la jurisdicción del interesado, quien conservará una copia; remitirá el original y una copia a la Tesorería General del Estado y, la copia restante, la entregará al interesado.
 
 ###### ARTICULO QUINTO.
 
@@ -5470,3 +4944,51 @@ B.O. 18 DE DICIEMBRE DE 2003.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del primero de enero de 2004, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE DICIEMBRE DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto en vigor a partir del 1º de enero de 2005, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Tratándose del impuesto predial sobre predios rústicos ejidales o comunales hasta en tanto los ayuntamientos envíen a este Poder Legislativo la propuesta de tasa o tarifa respectiva, la tasa aplicable será la del 3% sobre el valor de la producción comercializada.
+
+> <small>(F. DE E., B.O. 17 DE ENERO DE 2005)</small>
+
+###### ARTICULO CUARTO.
+
+Tratándose del impuesto municipal sobre tenencia o uso de vehículo, se pagará conforme la siguiente:
+
+TARIFA
+
+TIPO DE VEHÍCULOS AUTOMÓVILES CUOTA
+
+4 Cilindros $ 73.00
+
+6 Cilindros $ 140.00
+
+8 Cilindros $ 169.00
+
+Camiones pick up $ 73.00
+
+Vehículos con peso vehicular y con capacidad de carga hasta 8 toneladas $ 88.00
+
+Vehículos con peso vehicular y con capacidad de carga mayor a 8 toneladas $ 122.00
+
+Tractores no agrícolas tipo quinta rueda incluyendo minibuses, microbuses, autobuses y demás vehículos destinados al transporte de carga y pasaje $ 207.00
+
+Motocicletas hasta de 250 cm3 $ 3.00
+
+De 251 a 500 cm 3 $ 19.00
+
+De 500 a 750 cm 3 $ 36.00
+
+De 751 a 1000 cm 3 $ 68.00
+
+De 1001 en adelante $ 103.00
