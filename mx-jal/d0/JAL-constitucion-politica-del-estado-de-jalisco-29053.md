@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-29053"
 country: "mx"
 rank: "constitucion"
 publication_date: "1857-12-06"
-last_updated: "1870-05-30"
+last_updated: "1885-05-14"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO (1857)
 
-ULTIMA REFORMA PUBLICADA: 30 DE MAYO DE 1870
+ÚLTIMA REFORMA PUBLICADA: 14 DE MAYO DE 1885
 
 Constitución publicada el día 06 de diciembre de 1857
 
@@ -67,7 +67,9 @@ El Estado de Jalisco es libre, soberano é independiente en todo lo relativo á 
 
 I. Votar en las elecciones populares, siempre que en el individuo concurran las circunstancias siguientes: ser ciudadano mexicano y no tener causa criminal pendiente.
 
-II. Ser votado en toda eleccion popular y desempeñar cualquier empleo del Estado, cuando, además de las circunstancias que fija el párrafo anterior, concurran en el individuo las de tener la edad y requisitos que la ley determina para cada cargo; y si se tratare de algun cargo de eleccion popular, no ser ministro de algun culto ni pertenecer al estado eclesiástico, ni á la milicia permanente.
+> <small>(REFORMADA, 14 DE MAYO DE 1885)</small>
+
+II. Ser votados en toda elección popular y poder desempeñar cualquier empleo del Estado, cuando además de las circunstancias que fija el párrafo anterior, concurran en el individuo las de tener la edad y requisitos que la ley determine para cada cargo.- Una residencia en el Estado, cuando menos de dos años, á no ser que se trate de empleos facultativos.- No pertenecer al estado eclesiástico, ni tampoco, si se tratare de algunos de los empleos de que habla la Constitución, á la milicia activa.
 
 > <small>(REFORMADO, 06 DE DICIEMBRE DE 1857)</small>
 
@@ -297,31 +299,33 @@ I. Velar sobre la observancia de las leyes, dando cuenta al Congreso por conduct
 
 II. Consultar al Gobernador en los negocios en que le pida su dictámen é iniciarle todas las medidas que juzgue convenientes en los que sean del resorte del Gobierno.
 
-III. Proponer ternas para los empleos de Jefes políticos y Directores y declarar cuándo hay lugar á formacion de causa contra estos funcionarios, los Ayuntamientos y comisarios municipales por sus delitos comunes y de oficio en el órden administrativo.
+> <small>(REFORMADA, 14 DE MAYO DE 1885)</small>
+
+III. Declarar cuándo hay lugar á formación de causa contra los Jefes políticos, Directores, Ayuntamientos y Comisarios municipales por sus delitos comunes y de oficio en el orden administrativo.
 
 > <small>(REFORMADO, 06 DE DICIEMBRE DE 1857)</small>
 
 #### SECCION TERCERA. Del Gobierno político y económico
 
-> <small>(REFORMADO, 06 DE DICIEMBRE DE 1857)</small>
+> <small>(REFORMADO, 14 DE MAYO DE 1885)</small>
 
-33. Para la administracion de los pueblos habrá en la cabecera de cada Canton un Jefe político; en la de cada Departamento un Director; en los pueblos que, por sí, ó unidos con los inmediatos, en la forma que designe la ley, tengan seis mil habitantes, habrá Ayuntamientos electos popularmente, cuyos miembros no bajarán de cinco, ni excederán de nueve; en las demás poblaciones que no se hallen en el caso anterior, habrá un comisario municipal, tambien de nombramiento popular.
+33. Para la administración de los pueblos habrá en la cabecera de cada Cantón un Jefe político; en la de cada Departamento un Director; en los pueblos que por sí, ó unidos con los inmediatos en la forma que designe la ley, tengan seis mil habitantes, habrá Ayuntamientos electos popularmente; en las demás poblaciones que no se hallen en el caso anterior, habrá Comisarios municipales, también de nombramiento popular.
 
 > <small>(REFORMADO, 06 DE DICIEMBRE DE 1857)</small>
 
 34. Para desempeñar todos estos cargos se necesitan los mismos requisitos que para ser diputado, debiendo además los empleados municipales tener una residencia, cuando ménos de un año, en la Municipalidad.
 
-> <small>(REFORMADO, 06 DE DICIEMBRE DE 1857)</small>
+> <small>(REFORMADO, 14 DE MAYO DE 1885)</small>
 
-35. Los Jefes políticos y Directores serán nombrados por el Gobernador, á propuesta en terna del Consejo y prévias las formalidades que designa la ley. Durarán cuatro años en su encargo y uno los comisarios municipales. Los Ayuntamientos se renovarán por mitad todos los años.
+35. Los Jefes políticos y Directores serán nombrados por el Gobernador. Los Comisarios municipales durarán un año en su cargo. Los Ayuntamientos se renovarán por mitad cada año.
 
 > <small>(REFORMADO, 06 DE DICIEMBRE DE 1857)</small>
 
 ## TITULO VI. Del Poder judicial
 
-> <small>(REFORMADO, 06 DE DICIEMBRE DE 1857)</small>
+> <small>(REFORMADO, 14 DE MAYO DE 1885)</small>
 
-36. El Poder judicial se deposita en un Tribunal Supremo de justicia, nombrado por el Congreso jueces de primera instancia, nombrados por el Tribunal de justicia; alcaldes, electos cada año popularmente; comisarios municipales y jurados que se nombrarán en la forma que designe la ley.
+36. El Poder Judicial se deposita en un Tribunal Supremo de Justicia nombrado por el Congreso; Jueces de primera instancia nombrados por el Tribunal de Justicia; Alcaldes, electos cada año popularmente; Comisarios municipales y Jurados que se nombrarán en la forma que designe la ley. Los Magistrados y Jueces durarán cuatro años en sus cargos.
 
 > <small>(REFORMADO, 06 DE DICIEMBRE DE 1857)</small>
 
@@ -391,9 +395,9 @@ Iniciada la reforma, la adoptará el Congreso por acuerdo de las dos terceras pa
 
 47. Toda eleccion popular será directa. Una ley secundaria fijará el modo con que la eleccion deberá verificarse.
 
-> <small>(REFORMADO, 06 DE DICIEMBRE DE 1857)</small>
+> <small>(REFORMADO, 14 DE MAYO DE 1885)</small>
 
-48. Los empleados que no son de nombramiento popular ni tienen duracion fija por esta Constitucion, son inamovibles, salvo los casos en que conforme á las leyes deben ser destituidos.
+48. Los empleados que no son de nombramiento popular ni tienen duración fija por esta Constitución, son inamovibles.
 
 > <small>(REFORMADO, 06 DE DICIEMBRE DE 1857)</small>
 
@@ -412,5 +416,9 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Tomado de: Colección de los Decretos, Circulares y Ordenes de los Poderes Legislativo y Ejecutivo del Estado de Jalisco. 1ª. Serie. Tomo XIV. Tip. del Gob. a cargo de J. Guadalupe Montenegro (hijo). 1884. Págs. 382-398
 
 PUBLICADO 30 DE MAYO DE 1870
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 23 DE LA PRESENTE CONSTITUCION.
+
+PUBLICADO 14 DE MAYO DE 1885
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 23 DE LA PRESENTE CONSTITUCION.
