@@ -4,7 +4,7 @@ identifier: "COL-ley-de-presupuesto-contabilidad-y-gasto-publico-municipal-21156
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-14"
-last_updated: "2001-04-14"
+last_updated: "2004-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO MUNICIPAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2004.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 14 de abril de 2001.
 
@@ -117,7 +117,9 @@ II. Aprobar, por cuando menos las dos terceras partes de sus integrantes, la con
 
 III. Autorizar, por cuando menos las dos terceras partes de sus integrantes, que los recursos que integran la hacienda municipal sean ejercidos por persona distinta del Ayuntamiento, señalando en estos casos, los requisitos y condiciones relativos;
 
-IV. Autorizar las transferencias presupuestales entre partidas de un mismo ejercicio fiscal para otorgar suficiencia a las partidas agotadas;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+IV. Autorizar la creación de nuevas partidas, así como las transferencias presupuestales entre partidas de un mismo ejercicio fiscal para otorgar suficiencia a aquellas que lo requieran;
 
 V. Aprobar las ampliaciones de partidas presupuestales cuando los ingresos realmente obtenidos superen el gasto programado y sólo hasta por el monto en que los ingresos sean superiores a este gasto, observándose para ello el cumplimiento de las metas programadas;
 
@@ -127,7 +129,15 @@ VII. Remitir al Congreso, a más tardar el día 15 del mes siguiente, la cuenta 
 
 VIII. Analizar y presentar en forma trimestral al Congreso, dentro de los 30 días posteriores a cada trimestre, el informe que guardan las finanzas públicas del Ayuntamiento y de sus entidades, así como los resultados presupuestales de ingresos, gastos, el acervo de la deuda y la plantilla del personal por dependencia o entidad paramunicipal, así como el avance físico y financiero de los programas autorizados;
 
-IX. Aprobar, el dictamen de revisión de la cuenta pública municipal anual y remitirla, por conducto del Presidentes Municipal, al Congreso para su revisión y fiscalización, antes del último día de febrero; y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+IX.- Aprobar el dictamen de revisión de los resultados semestrales de la cuenta pública municipal que presenten conjuntamente la Comisión y Síndico Municipal, y remitirlo al Congreso, por conducto del Presidente Municipal, dentro de los 30 días naturales siguientes a la conclusión de cada semestre, para los efectos señalados en el artículo 33 fracción XI de la Constitución Local.
+
+Dichos resultados se elaborarán por los meses comprendidos de enero a junio y de julio a diciembre de cada año, debiendo integrar en este último periodo las cifras consolidadas anuales de los resultados de la gestión municipal. Respecto del primer semestre del año, los resultados tendrán carácter provisional, por lo que podrán sufrir ajustes durante el semestre siguiente, mismos que habrán de reflejarse en los resultados anuales.
+
+La aprobación del dictamen de revisión por el Cabildo no impide que se finquen responsabilidades a los servidores públicos que hayan incurrido en ellas, si del resultado de la revisión se determinan faltas administrativas, ello en los términos que establece la ley Estatal de Responsabilidades de los Servidores Públicos.
+
+Si de las faltas administrativas se desprendieran hechos constitutivos de delitos contra el Estado o la administración pública municipal, el Cabildo, el Síndico, la Comisión o la Contraloría Municipal deberán denunciarlos ante la autoridad competente;
 
 X. Las demás que determinen ésta y otras disposiciones legales y reglamentarias.
 
@@ -141,7 +151,13 @@ II. Autorizar el pago de la nómina del Ayuntamiento;
 
 III. Vigilar que las dependencias municipales den cabal cumplimiento a los programas autorizados en el presupuesto de egresos, en la forma y términos en que fueron aprobados por el Cabildo; y
 
-IV. Las demás que determinen ésta y otras disposiciones legales y reglamentarias.
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2004)</small>
+
+IV.- Vigilar que se entregue a la Comisión y Síndico Municipal, en tiempo y forma, el proyecto de los resultados semestrales de la cuenta pública municipal que elabore la Tesorería Municipal, así como el resultado de la revisión practicada por la Contraloría Municipal a las operaciones contables, financieras, presupuestales y de ejecución de obras públicas, las relativas a programas sociales y a todas las operaciones que afecten al patrimonio, la deuda pública municipal directa o indirecta y sobre las concesiones otorgadas por el Ayuntamiento, así como toda la documentación que solicite la Comisión, con el fin de que la misma elabore conjuntamente con el Síndico Municipal el dictamen de revisión de los resultados semestrales de las cuentas públicas municipales;
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+V. Las demás que determinen ésta y otras disposiciones legales y reglamentarias.
 
 ###### ARTICULO 10.
 
@@ -161,7 +177,9 @@ VI. Pagar los servicios personales de la planta laboral del Ayuntamiento;
 
 VII. Presentar a la Comisión la cuenta pública mensual y el informe trimestral a que se refieren las fracciones VII y VIII del artículo 8° de la presente Ley, en los términos autorizados;
 
-VIII. Elaborar el anteproyecto de dictamen de la cuenta pública municipal anual y remitirla a más tardar el 30 de enero, a la Comisión y al Síndico, para el dictamen correspondiente; y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+VIII.- Elaborar el proyecto de los resultados semestrales de la cuenta pública municipal y entregarlo dentro de los 20 días naturales siguientes a la conclusión de cada semestre a la Comisión y Síndico Municipal; y
 
 IX. Las demás que determinen ésta y otras disposiciones legales y reglamentarias.
 
@@ -177,13 +195,25 @@ III. Mantener un estricto control de la nómina, evitando las contrataciones que
 
 IV. Vigilar que las remuneraciones al personal se ajusten a los montos señalados en las partidas respectivas del presupuesto de egresos;
 
-V. Autorizar, previo acuerdo del Presidente Municipal, la contratación de plazas o creación de unidades administrativas que requieran las dependencias del Ayuntamiento, cuando exista disponibilidad presupuestal en la partida correspondiente;
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2004)</small>
 
-VI. Coadyuvar con la Tesorería Municipal en la elaboración del anteproyecto de presupuesto de egresos;
+V. Elaborar y remitir al Tesorero Municipal la nómina general de los servidores públicos municipales, así como la emisión del cálculo de las cuotas obrero-patronales de seguridad social, que resulten de la aplicación de las leyes correspondientes, el cálculo de las retenciones y demás deducciones que procedan;
 
-VII. Integrar y presidir el comité municipal de compras; y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
 
-VIII. Las demás que determinen ésta y otras disposiciones legales y reglamentarias.
+VI. Autorizar, previo acuerdo del Presidente Municipal, la contratación de plazas o creación de unidades administrativas que requieran las dependencias del Ayuntamiento, cuando exista disponibilidad presupuestal en la partida correspondiente;
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+VII. Coadyuvar con la Tesorería Municipal en la elaboración del anteproyecto de presupuesto de egresos;
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+VIII. Integrar y presidir el comité municipal de compras; y
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+IX. Las demás que determinen ésta y otras disposiciones legales y reglamentarias.
 
 ###### ARTICULO 12.
 
@@ -203,11 +233,15 @@ I. Vigilar el ejercicio del presupuesto y el cumplimiento de las metas estableci
 
 II. Analizar los anteproyectos de presupuesto de egresos y de ley de ingresos, así como elaborar los dictámenes de los proyectos correspondientes, para su aprobación, en su caso, del Cabildo;
 
-III. Elaborar los dictámenes de transferencias y/o ampliaciones de las partidas presupuestales originalmente autorizadas en los programas aprobados, atendiendo las previsiones que presente el Tesorero Municipal y las dependencias correspondientes para su presentación ante el Cabildo;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+III.- Elaborar los dictámenes de transferencias y/o ampliaciones de las partidas presupuestales originalmente autorizadas en los programas aprobados, así como de las creaciones de nuevas partidas, atendiendo a las justificaciones que presente el Tesorero Municipal y las dependencias correspondientes para su presentación ante el Cabildo;
 
 IV. Formular el dictamen para la autorización de empréstitos e instrumentos de deuda pública que comprometan los recursos patrimoniales y financieros del Ayuntamiento, en los términos de la Ley de Deuda Pública del Estado;
 
-V. Elaborar el dictamen de revisión de la cuenta pública municipal del ejercicio fiscal anterior, para la presentación al Cabildo antes del último día de febrero; y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+V.- Elaborar conjuntamente con el Síndico Municipal el dictamen de revisión de los resultados semestrales de las cuentas públicas municipales, para la presentación ante el Cabildo antes de terminar el plazo de los 30 días naturales siguientes a la conclusión de cada semestre;
 
 VI. Las demás que determinen ésta y otras disposiciones legales y reglamentarias.
 
@@ -219,9 +253,13 @@ I. Vigilar el ejercicio del presupuesto y el cumplimiento de las metas estableci
 
 II. Asistir a las visitas de inspección que se hagan a la tesorería municipal;
 
-III. Elaborar, conjuntamente con la Comisión, el dictamen de revisión de la cuenta pública municipal del ejercicio fiscal anterior, para la aprobación del Cabildo antes del último día de febrero;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
 
-IV. Vigilar que se remita al Congreso el dictamen de la cuenta pública anual para su revisión y fiscalización;
+III.- Elaborar conjuntamente con la comisión, el dictamen de revisión de los resultados semestrales de la cuenta pública municipal, para la presentación ante el cabildo antes de terminar el plazo de los 30 días naturales siguientes a la conclusión de cada semestre;
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+IV.- Vigilar que se presente al Congreso el dictamen de revisión de los resultados semestrales de la cuenta pública municipal, una vez aprobados por el cabildo, en las fechas que señala el artículo 95 de la Constitución del Estado;
 
 V. Vigilar que se presente ante el Congreso la cuenta pública mensual, así como el informe trimestral a que se refieren las fracciones VII y VIII del artículo 8° de esta Ley, en la forma y términos que prevé el presente ordenamiento;
 
@@ -235,7 +273,11 @@ Son atribuciones del Contralor Municipal:
 
 I. Presentar al Presidente Municipal el plan anual de trabajo, durante el mes de enero;
 
-II. Practicar revisiones a la contabilidad y al ejercicio presupuestal, para garantizar que el manejo de los fondos públicos del Ayuntamiento se realice con honestidad, transparencia y estricto apego al presupuesto de egresos;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+II.- Realizar auditorías preventivas a las dependencias y entidades de la administración pública municipal y paramunicipal.
+
+El ejercicio de esta atribución deberá abarcar, en lo posible, la revisión a las operaciones contables, financieras, presupuestales y de ejecución de obras públicas, las relativas a programas sociales y a todas las operaciones que afecten el patrimonio, la deuda pública municipal directa o indirecta y sobre las concesiones otorgadas por el ayuntamiento y elaborar el informe de resultados, mismo que será presentado a la comisión y síndico municipal;
 
 III. Vigilar el ejercicio presupuestal del Ayuntamiento;
 
@@ -247,7 +289,15 @@ VI. Participar con voz en las sesiones del comité municipal de compras;
 
 VII. Supervisar la inversión en obra pública; y
 
-VIII. Las demás que determinen ésta y otras disposiciones legales y reglamentarias.
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2004)</small>
+
+VIII.- Apoyar a la comisión y síndico municipal en la elaboración del dictamen de revisión de los resultados semestrales de la cuenta pública municipal, tomando como base el proyecto que presente el tesorero municipal, así como los resultados de la revisión practicada por la propia contraloría municipal de conformidad con lo establecido en el segundo párrafo de la fracción II de este artículo.
+
+Entregar a la comisión y síndico municipal el informe de los resultados semestrales de la revisión practicada a las operaciones de la gestión municipal correspondientes a los períodos enero junio y julio diciembre de cada año, a más tardar el día 20 del mes siguiente a la conclusión del semestre de que se trate, así como toda la documentación que soporte dichos resultados;
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+IX. Las demás que determinen ésta y otras disposiciones legales y reglamentarias.
 
 ### CAPITULO III. DEL PRESUPUESTO DE EGRESOS
 
@@ -397,7 +447,9 @@ I. Que se encuentren contabilizados al 31 de diciembre del año correspondiente 
 
 II. Que exista disponibilidad presupuestal para ello en la fecha en que se devengaron;
 
-III. Que se informe a la Tesorería Municipal antes del último día de enero del año siguiente al del ejercicio que corresponda el gasto, cuyo pago no se hubiere cubierto; y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+III.- Que se informe a la Tesorería Municipal dentro de los 7 días naturales siguientes a la conclusión de cada semestre que corresponda el gasto, cuyo pago no se hubiere cubierto; y
 
 IV. Que se radiquen en la Tesorería Municipal los documentos que justifiquen los pagos respectivos, a más tardar en la fecha que se precisa en la fracción anterior.
 
@@ -407,7 +459,9 @@ En caso de que no se cumpla con los requisitos anteriores, será responsable de 
 
 Si en el curso del ejercicio se observa que determinadas partidas tienen una asignación mayor de la que sea estrictamente suficiente para la atención hasta fin de año de las necesidades que a ellas se refieren, en tanto que otras acusen notorias insuficiencias, el Cabildo autorizará que se hagan las transferencias, reducciones, cancelaciones o adiciones que se estimen necesarias. Estas modificaciones se harán en forma compensatoria, de tal manera que no se aumente la suma total del presupuesto.
 
-Si algunas de las partidas vigentes resultan insuficientes para cubrir las necesidades que originen las funciones encomendadas al gobierno y a la administración pública municipal, el Cabildo podrá decretar las ampliaciones necesarias, previa justificación del Tesorero Municipal.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2004)</small>
+
+Si algunas de las partidas vigentes resultan insuficientes para cubrir las necesidades que originen las funciones encomendadas al gobierno y a la administración pública municipal o bien que no existan las partidas correspondientes, el Cabildo podrá decretar las ampliaciones y creación de partidas necesarias, previa justificación del Tesorero Municipal.
 
 ###### ARTICULO 37.
 
@@ -417,9 +471,11 @@ Los actos o contratos cuya celebración comprometan la hacienda pública municip
 
 El ejercicio del gasto público por concepto de adquisiciones, servicios, obras y arrendamientos, se realizará de acuerdo a las condiciones que se pacten en los contratos, cuya formulación se ajustará a lo que establezca la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 39.
 
-La Tesorería Municipal analizará mensualmente el comportamiento de cada una de las partidas que componen el presupuesto, tanto en lo autorizado como en lo ejercido, a fin de determinar conjuntamente con el titular de la dependencia, cuáles presentan ahorros y cuales se exceden en el gasto, para proponer al Cabildo las transferencias y ampliaciones que procedan, previo dictamen de la Comisión.
+La Tesorería Municipal analizará mensualmente el comportamiento de cada una de las partidas que componen el presupuesto, tanto en lo autorizado como en lo ejercido, a fin de determinar conjuntamente con el titular de la dependencia, cuáles presentan ahorros y cuales se exceden en el gasto y cuáles son de nueva creación. El Tesorero Municipal, dentro de los primeros diez días posteriores al cierre contable mensual, formulará y presentará un informe a la Comisión, la cual elaborará un dictamen que se someterá a la aprobación del Cabildo, con el propósito de que sean analizadas, y en su caso, autorizadas las transferencias, ampliaciones y creaciones de partidas que procedan.
 
 ###### ARTICULO 40.
 
@@ -451,9 +507,11 @@ La contabilidad se llevará con base acumulativa para determinar costos y facili
 
 Para los efectos de esta Ley, la cuenta pública del Ayuntamiento está constituida por los estados financieros, patrimoniales, presupuestales y programáticos que muestren el registro de las operaciones derivadas de la aplicación de las leyes de ingresos, presupuestos de egresos y demás ordenamientos aplicables en la materia; la incidencia de las mismas operaciones y de otras cuentas en el activo y pasivo totales de la hacienda municipal y en su patrimonio neto, incluyendo el origen y aplicación de los recursos; el resultado de las operaciones del Ayuntamiento; los estados detallados de la deuda pública municipal, así como la información estadística pertinente.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 47.
 
-El Tesorero Municipal formulará, dentro de los primeros 30 días del mes de enero de cada año, el proyecto de cuenta pública del ejercicio anterior, el cual, por conducto de la Comisión, someterá a la aprobación del Cabildo, durante el mes de febrero. Una vez aprobado el dictamen de revisión de la cuenta pública, el Presidente Municipal la remitirá para su revisión y fiscalización al Congreso antes del último día del mismo mes.
+Para los efectos de la revisión y fiscalización, la cuenta pública municipal se considerará en dos períodos semestrales, el primero que corresponderá a los meses de enero a junio y el segundo de julio a diciembre de cada año fiscal, debiendo integrar en este último período las cifras consolidadas anuales de los resultados de la gestión, teniendo el cabildo la obligación de remitir al Congreso el dictamen de revisión de los resultados semestrales de la cuenta pública municipal dentro de los 30 días naturales siguientes a la conclusión de cada semestre, en términos del artículo 33 fracción XI de la Constitución del Estado.
 
 ### CAPITULO VI. DEL CONTROL, VIGILANCIA Y EVALUACIÓN DEL GASTO PÚBLICO
 
@@ -534,3 +592,13 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 11 días del mes de abril del año dos mil uno.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE JULIO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+SEGUNDO.- La revisión y fiscalización de la cuenta pública municipal correspondiente al ejercicio fiscal 2003, se sujetará a las bases y disposiciones constitucionales del sistema anual de rendición de cuentas establecidas antes de la presente reforma.
+
+TERCERO.- Para el caso de la aprobación por el cabildo y su remisión al Congreso del dictamen de revisión de los resultados de la cuenta pública, correspondiente al primer semestre del 2004, por única vez se amplía el plazo al 31 de agosto de 2004. Sujetándose la Contaduría Mayor de Hacienda y el Congreso para su revisión fiscalización a la fecha establecida en el artículo 33 fracción XI de la Constitución del Estado.
