@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "1985-04-06"
+last_updated: "1987-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1987.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -121,7 +121,7 @@ Los Secretarios del Tribunal y las Salas, los Notificadores; y
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
-c) En el Tribunal de Arbitraje y Escalafón; Los Secretarios del tribunal, Notificadores, excepto actuarios, secretarias e intendentes.
+c) En el Tribunal de Arbitraje y Escalafón; Los Secretarios del Tribunal, Notificadores, excepto actuarios, secretarias e intendentes.
 
 De crearse categorías o cargos no comprendidos en este artículo, se hará constar en el nombramiento si es de base o de confianza.
 
@@ -245,6 +245,14 @@ X. Nombre y firma de quien lo expide.
 
 El nombramiento aceptado obliga al Servidor Público a regir sus actos por el más alto concepto de profesionalismo, y a cumplir con todos los deberes inherentes al cargo o empleo correspondiente.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1987)</small>
+
+Todo Servidor Público antes de tomar posesión de su cargo, rendirá la protesta de guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Jalisco y las Leyes que de ambas emanen.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1987)</small>
+
+La protesta de los servidores públicos se rendirá en los términos siguientes: El que tome la protesta interrogará como sigue: ¿ protesta usted desempeñar leal y patrióticamente el cargo de (el que se confiera al interesado) que se le confirió, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ella emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado? el interesado responderá: "Si protesto", la autoridad que tome la protesta añadirá: "Si no lo hiciere así que la Nación y el Estado se lo demanden".
+
 ###### Art. 19.
 
 Cuando el Servidor Público sea cambiado, previa su anuencia, en forma eventual o definitiva de una entidad pública a otra, conservará los derechos adquiridos con motivo de la relación de trabajo.
@@ -330,6 +338,10 @@ El servidor público podrá optar en ejercicio de las correspondientes acciones 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
 Si en el juicio correspondiente no comprueba la Entidad Pública la causa de terminación o cese, el Servidor Público tendrá derecho además a que se le paguen los sueldos vencidos, desde la fecha del cese hasta que se cumplimente el laudo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1987)</small>
+
+Lo dispuesto en este artículo no será aplicable a los Servidores Públicos del Poder Judicial del Estado, los que se sujetarán a lo que dispone el Capítulo XI de su Ley Orgánica.
 
 ### CAPITULO V. De las relaciones entre las entidades públicas y sus servidores
 
@@ -613,11 +625,11 @@ XII. Otorgar las jubilaciones conforme lo dispone la Ley de Pensiones para el es
 
 Para los efectos de este Ordenamiento, se entiende por escalafón el sistema organizado en cada Entidad Pública para efectuar las promociones de ascensos de los servidores, y todo aquello relacionado con los cambios y movimientos de los mismos, conforme a las bases establecidas en el Reglamento respectivo.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1985)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1987)</small>
 
 ###### Art. 58.
 
-En cada Entidad Pública, se constituirá una Comisión Mixta de Escalafón, que se integrará con un representante de la entidad; otro por el sindicato de la unidad burocrática que corresponda y un tercero que nombrarán los anteriores miembros. Si hubiere desacuerdo entre los integrantes de la Comisión, el Tribunal de Arbitraje y Escalafón resolverá en definitiva la controversia. Los integrantes de la Comisión durarán en su cargo tres años.
+En cada entidad pública se constituirá una comisión mixta de escalafón que se integrará con un representante de la entidad, otro por el sindicato de la unidad burocrática que corresponda y un tercero, que nombrarán los anteriores miembros. Si hubiere desacuerdo entre los integrantes de la Comisión, el Tribunal de Arbitraje y Escalafón resolverá en definitiva la controversia, con excepción de lo relativo a los servidores públicos que pertenezcan a los Tribunales a que se refiere el primer párrafo del art. 39, de la Constitución Política del Estado, toda vez que será el Pleno del Supremo Tribunal de Justicia del Estado quien las resuelva los Integrantes de la Comisión durarán en su encargo tres años.
 
 ###### Art. 59.
 
@@ -799,7 +811,7 @@ Las remuneraciones que se paguen a los Directivos y a los empleados de los sindi
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
-Los Sindicatos gozarán de la más amplia libertad para fijar el monto de las cuotas sindicales, pero éstas no podrán ser descontadas a los servidores públicos, cuando excedan del 1% de sus sueldos.
+Los Sindicatos gozarán de la más amplia libertad para fijar el monto de las cuotas sindicales, pero éstas no podrán ser descontadas a los servidores públicos cuando excedan del 1% de sus sueldos.
 
 ### CAPITULO IV. De las prescripciones
 
@@ -1003,15 +1015,13 @@ IV. Prestar servicio en alguna de las dependencias gubernamentales a que se refi
 
 V. Para tener el cargo de Magistrado representante de los Trabajadores al Servicio del Estado deberá, quien lo desempeñe, estar ocupando un puesto de base en alguno de los Poderes del Gobierno Estatal o de los Municipios y, quedará inhabilitado para desempeñar la Magistratura, si aceptare un cargo de confianza o fuere electo para ocupara alguno de elección popular.
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1987)</small>
 
 ###### Art. 114.
 
-El Tribunal de Arbitraje y Escalafón será competente para resolver las controversias que se susciten entre los Poderes del Estado, los Ayuntamientos, los Organismos Descentralizados, Empresas o asociaciones de participación mayoritaria Estatal o Municipal y sus servidores, así como de los conflictos que surjan entre la Federación de Sindicatos de Servidores Públicos y los Sindicatos que la integran, o solo entre éstos.
+El Tribunal de Arbitraje y Escalafón será competente para resolver las controversias que se susciten entre los Poderes del Estado, los Ayuntamientos los Organismos Descentralizados, empresas o asociaciones de participación mayoritaria estatal o municipal y sus servidores, así como de los conflictos que surjan entre la Federación de Sindicatos de Servidores Públicos y los Sindicatos que la integran, o sólo entre éstos. También será competente para invalidar las resoluciones de las Comisiones Mixtas de Escalafón, a instancia de uno o varios concursantes que consideren vulnerados sus derechos escalafonarios.
 
-> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 1985)</small>
-
-También será competente para invalidar las resoluciones de las Comisiones Mixtas de Escalafón, a instancia de uno o varios concursantes que consideren haberse lesionado sus derechos escalafonarios.
+Dicho Tribunal queda exceptuado para conocer y resolver de las controversias o conflictos en materia de relaciones de trabajo que se susciten entre los tribunales a que se refiere el primer párrafo del Art. 39, de la Constitución Política del Estado y sus dependencias, con sus servidores públicos.
 
 ###### Art. 115.
 
@@ -1230,3 +1240,11 @@ Lic. Eugenio Ruiz Orozco
 P.O. 6 DE ABRIL DE 1985.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial El Estado de Jalisco.
+
+P.O. 29 DE DICIEMBRE DE 1987.
+
+Primero.- Las reformas contenidas en el presente Decreto entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero.- Los procedimientos que se encuentren en trámite, ante el Tribunal de Arbitraje y Escalafón del Estado, relativos a Servidores Públicos pertenecientes a los Tribunales a que se refiere el Art. 39 de la Constitución Política del Estado, deberán ser concluidos en los términos de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
