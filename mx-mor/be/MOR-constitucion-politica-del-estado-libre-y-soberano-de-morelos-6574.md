@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1989-02-01"
+last_updated: "1989-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 1989.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -988,9 +988,9 @@ VII.- Conceder o negar indulto con arreglo a la Ley, a los reos sentenciados por
 
 VIII.- Imponer como corrección, arresto hasta por treinta y seis horas o multa; y en defecto de ésta, el arresto correspondiente, que no podrá exceder de quince días, de acuerdo con el artículo 21 de la Constitución Federal.
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1984)</small>
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 1989)</small>
 
-IX.- Visitar el Estado en sus correspondientes Municipios, ya sea personalmente o por medio de Representantes del Gobierno, realizando Reuniones periódicas de Consulta y Fortalecimiento Municipal con el concurso de los H.H. Ayuntamientos, en todas y cada una de sus localidades, instrumentando programas de apoyo en todo aquello que a criterio del Ejecutivo sea necesario, conforme a lo establecido por la fracción XII del Artículo 115 de esta Constitución, y con la participación de la ciudadanía por medio de comisiones que manejarán los recursos y fondos económicos del Estado, de acuerdo con las Leyes respectivas.
+IX.- Visitar el Estado en sus correspondientes Municipios, ya sea personalmente o por medio de Servidores Públicos en los que delegue su representación, realizando acciones de consulta popular dentro del sistema de Planeación democrática del Desarrollo Estatal, previsto en la Fracción III, del Artículo 119, de ésta Constitución. Los recursos que el Estado asigne para beneficio Municipal, serán manejados conforme a las Leyes aplicables; los recursos propios del Municipio se administrarán de acuerdo con lo que dispone la Fracción VI, del Artículo 115, de la presente Constitución.
 
 X.- Convocar a elecciones de Congreso, únicamente en los casos de los artículos 68 y 69 de esta Constitución.
 
@@ -1210,7 +1210,7 @@ I.- Por los bienes públicos y privados propiedad del Estado.
 
 II.- Por los ingresos previstos anualmente en la Ley correspondiente.
 
-III.- Por el gasto público, que estará contenido en el Presupuesto de Egresos que en Ley se expida anualmente.
+III.- Por el gasto público, que estará contenido en el Presupuesto de Egresos que en Ley se expida anualmente
 
 IV.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980)
 
@@ -1220,7 +1220,7 @@ VI.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980)
 
 VII.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980)
 
-VIII.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980)
+VIII.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980).
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 1988)</small>
 
@@ -1520,7 +1520,7 @@ I.- La circunscripción geográfica de cada Municipio deberá establecerse de ta
 
 Los Municipios del Estado, cuando así fuere necesario y lo determinen las Leyes, con el concurso del Estado, tendrán a su cargo los siguientes Servicios Públicos:
 
-a).- Agua Potable y Alcantarillado;
+a).- Agua Potable y Alcantarillado,
 
 b).- Alumbrado Público;
 
@@ -1612,11 +1612,9 @@ Si alguno de los miembros dejare de desempeñar su cargo, será sustituido por s
 
 XI.- Los Ayuntamientos, en los términos de las Leyes Estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano Municipal: Participar en la creación y administración de sus reservas territoriales; controlar y vigilar la optimización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones; y participar en la creación y administración de zonas de reservas ecológicas.
 
-> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 1984)</small>
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 1989)</small>
 
-XII.- Los Ayuntamientos Coordinarán sus acciones con el concurso del Gobierno del Estado a efecto de que se realicen periódicamente en los lugares en que sea necesario Reuniones de Consulta y Fortalecimiento Municipal, para la solución de todos los problemas que atañen a las Comunidades de los Municipios del Estado.
-
-Las Comisiones nombradas por los habitantes de las correspondientes localidades y con la participación de los H.H. Ayuntamientos, manejarán los recursos aportados por el Gobierno del Estado cuando se destinen a los fines que establece el Artículo 70 Fracción IX de esta Constitución.
+XII.- Los Ayuntamientos coordinarán sus acciones con el Gobierno del Estado, dentro del marco del desarrollo Estatal establecido en el Artículo 119, Fracción III, de ésta Constitución. Los recursos asignados por el Gobierno del Estado para la realización de Programas de beneficio Municipal serán manejados conforme a las Leyes aplicables; los recursos propios de los Municipios se administrarán de acuerdo con lo que dispone la Fracción VI, del presente Artículo.
 
 ###### Artículo 116.
 
@@ -2193,3 +2191,9 @@ Una vez que se haya dado cumplimiento a lo previsto por el Artículo 148, de nue
 ###### ARTICULO TERCERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado.
+
+P.O. 19 DE ABRIL DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico, "TIERRA Y LIBERTAD" Organo del Gobierno del Estado Libre y Soberano de Morelos.
