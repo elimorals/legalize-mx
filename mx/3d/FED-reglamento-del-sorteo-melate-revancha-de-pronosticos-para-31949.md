@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-melate-revancha-de-pronosticos-para-31949
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2003-07-31"
+last_updated: "2004-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31949&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL SORTEO MELATE-REVANCHA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 2004.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -39,17 +39,19 @@ El presente reglamento tiene por objeto regular el Sorteo Melate, de conformidad
 
 El sorteo consiste en la selección o pronóstico que haga el participante, de una combinación de números tomados del conjunto que determine Pronósticos para el sorteo, mediante el pago del precio correspondiente, y que le dará derecho a participar en el sorteo respectivo y a obtener, en el supuesto de que los números sorteados correspondan a la selección que hubiere hecho, premios en efectivo en los términos de este reglamento.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+
 ###### Artículo 3o.
 
 Para los efectos de este reglamento, se entenderá por:
 
 1.- Agente autorizado.- La persona física o moral que haya celebrado contrato de comisión mercantil con Pronósticos y cuya función consistirá en aceptar quinielas del público en la forma y términos señalados en las disposiciones reglamentarias.
 
-2.- Terminal.- Para los efectos de estas disposiciones se entenderá por terminal (dispositivo electrónico) el aparato electrónico cuya función consiste en captar los datos de la selección de números hecha por el concursante, bien sea por solicitud del mismo en una asignación automática de ellos, o por la lectura óptica del volante o por la digitación de los datos, para lograr tenerlos en su dispositivo de almacenamiento; de ahí emitir señales al computador central para el registro de las combinaciones, y expedir los boletos que comprueban la participación en el concurso. Pronósticos podrá definir otras modalidades y conductos de venta transcribiendo los datos de las combinaciones vendidas en el Registro General de combinaciones concursantes para un concurso determinado, previa verificación de que cumplen con los requisitos establecidos en este reglamento.
+2.- Terminal.- Para los efectos de estas disposiciones se entenderá por terminal (dispositivo electrónico) el aparato electrónico cuya función consiste en captar los datos de la selección de números hecha por el concursante, bien sea por solicitud del mismo en una asignación automática de ellos, o por la lectura óptica del volante o por la digitación de los datos, para lograr tenerlos en su dispositivo de almacenamiento; de ahí emitir señales al computador central para el registro de las combinaciones, y expedir los boletos que comprueban la participación en el sorteo. Pronósticos podrá definir otras modalidades y conductos de venta transcribiendo los datos de las combinaciones vendidas en el Registro General de combinaciones concursantes para un sorteo determinado, previa verificación de que cumplen con los requisitos establecidos en este reglamento.
 
-3.- Concurso.- El evento que tiene lugar desde la captación oficial de combinaciones, hasta la selección de ganadores.
+3.- Sorteo.- El evento que tiene lugar desde la captación oficial de combinaciones, hasta la selección de ganadores.
 
-4.- Volante.- El documento que contiene los números posibles de selección para un concurso, en donde el concursante anota sus preferencias.
+4.- Volante.- El documento que contiene los números posibles de selección para un sorteo, en donde el concursante anota sus preferencias.
 
 5.- Combinación.- El conjunto de los seis números asentados en un volante, pudiendo llegar hasta diez números, con las modalidades señaladas en el artículo 5o. del presente reglamento.
 
@@ -57,13 +59,13 @@ Para los efectos de este reglamento, se entenderá por:
 
 El boleto a que se refiere el párrafo anterior constituye un documento al portador comprendido en el artículo 6o. de la Ley General de Títulos y Operaciones de Crédito y no un título de crédito, ya que sirve únicamente para identificar a su tenedor. Dicho documento consigna un contrato de adhesión y sólo tendrá efectos probatorios cuando se corrobore que los códigos de seguridad y las numeraciones contenidas en él, sean legítimos.
 
-Con excepción de las causas señaladas en el presente reglamento, no será posible la cancelación de aquellos boletos en los que de manera simultánea y adicional se participe en el concurso SUPER de Pronósticos
+Con excepción de las causas señaladas en el presente reglamento, no será posible la cancelación de aquellos boletos en los que de manera simultánea y adicional se participe en el sorteo SUPER de Pronósticos
 
-7.- Registro de apuestas.- Es el proceso por el cual todas las combinaciones adquiridas por los concursantes quedan integralmente grabadas en el archivo de apuestas participantes para un concurso determinado.
+7.- Registro de apuestas.- Es el proceso por el cual todas las combinaciones adquiridas por los concursantes quedan integralmente grabadas en el archivo de apuestas participantes para un sorteo determinado.
 
-8.- Monto acumulativo (polla o bolsa).- La cantidad repartible correspondiente al primer lugar que se haya declarado vacante por falta de ganadores y que es adicionada al monto del primer premio del siguiente concurso.
+8.- Monto acumulativo (polla o bolsa).- La cantidad repartible correspondiente al primer lugar que se haya declarado vacante por falta de ganadores y que es adicionada al monto del primer premio del siguiente sorteo.
 
-9.- Selección de ganadores.- Es el evento mediante el cual se determinan en cada concurso mediante los sistemas electrónicos de computación instalados en las oficinas generales de Pronósticos los números de los boletos que obtuvieron premiación y el monto de la misma.
+9.- Selección de ganadores.- Es el evento mediante el cual se determinan en cada sorteo mediante los sistemas electrónicos de computación instalados en las oficinas generales de Pronósticos los números de los boletos que obtuvieron premiación y el monto de la misma.
 
 10.- Bolsa garantizada.- Es el monto mínimo que Pronósticos se compromete a entregar al primer lugar acorde con lo establecido en los artículos 18o. y 19o. del presente reglamento.
 
@@ -229,15 +231,21 @@ De no haber combinación ganadora al cuarto lugar lo asignado a esta categoría 
 
 De no haber combinación ganadora a los lugares segundo, tercero, cuarto y quinto, el total de los premios vacantes correspondientes a dichas categorías acrecentará el premio asignado al primer lugar del siguiente sorteo.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+
 ###### Artículo 21o.
 
-Concluida la celebración del sorteo e identificadas las combinaciones ganadoras, se levantará acta en la que se harán constar los antecedentes del sorteo, sus resultados y cualquier incidente que ocurriere durante el mismo. Dicha acta se elaborará con la participación del Inspector designado por la Secretaría de Gobernación y dos funcionarios que designe el Director General de la Institución, quienes deben intervenir y suscribir el documento, para todos los efectos legales.
+Concluida la celebración del sorteo e identificadas las combinaciones ganadoras, se levantará acta en la que se harán constar los antecedentes del sorteo, sus resultados y cualquier incidente que ocurriere durante el mismo. Dicha acta se elaborará con la participación del inspector designado por la Secretaría de Gobernación y un funcionario que designe el Director General de la institución, quienes deben intervenir y suscribir el documento, para todos los efectos legales.
 
-El Director General hará la designación de los funcionarios a que se hace referencia en el párrafo anterior atendiendo al siguiente criterio: el primero de ellos será designado de entre los servidores públicos que ocupan cargos de los dos niveles jerárquicos inmediatamente inferiores al Director General y el segundo de entre los servidores públicos que ocupen los niveles tercero y cuarto inferiores al del Director General.
+El Director General hará la designación del funcionario a que se hace referencia en el párrafo anterior entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al del Director General.
 
-Estarán presentes también en el desarrollo y la celebración del concurso, un representante de la Dirección Técnica, uno del órgano interno de Control y otro de la Gerencia de Sorteos, quienes también suscribirán el acta mencionada en el párrafo anterior.
+Estarán presentes también en el desarrollo y la celebración del sorteo, un representante de la Dirección Técnica y otro de la Gerencia de Sorteos, quienes también suscribirán el acta mencionada en el párrafo primero.
 
-Dichos funcionarios estarán presentes durante todo el desarrollo y celebración del concurso hasta el envío de resultados para su publicación.
+Dichos funcionarios estarán presentes durante todo el desarrollo y celebración del sorteo hasta el envío de resultados para su publicación.
+
+El representante de la Dirección Técnica hará entrega al inspector designado por la Secretaria de Gobernación de los dispositivos magnéticos que contengan el archivo de apuestas participantes, registradas en el sistema central de computo, previo a la celebración del sorteo.
+
+A través de los sistemas de seguridad implementados para tal efecto, el inspector designado por la Secretaría de Gobernación depositará, previo a la celebración del sorteo, los dispositivos magnéticos a los cuales exclusivamente tendrá acceso el Organo interno de Control para efectuar, después de la celebración del sorteo, la auditoría de la sección de ganadores.
 
 ### Capítulo IV. De las reclamaciones
 
@@ -369,15 +377,21 @@ De no haber combinación ganadora al segundo lugar lo asignado a esta categoría
 
 De no haber combinación ganadora ni en segundo ni en tercer lugar, lo asignado a estas categorías acrecentará en su totalidad el premio asignado al primer lugar del siguiente sorteo.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+
 ###### Artículo 41o.
 
-Concluida la celebración el sorteo e identificadas las combinaciones ganadoras, se levantará acta en la que se harán constar los antecedentes del sorteo, sus resultados, cualquier incidente que ocurriere durante el mismo, así como los pormenores correspondientes a la Revancha. Dicha acta se elaborará con la participación del Inspector designado por la Secretaría de Gobernación y dos funcionarios que designe el Director General de la Institución, quien debe intervenir y suscribir el documento, para todos los efectos legales.
+Concluida la celebración del sorteo e identificadas las combinaciones ganadoras, se levantará acta en la que se harán constar los antecedentes del sorteo, sus resultados y cualquier incidente que ocurriere durante el mismo, así como los pormenores correspondientes a la Revancha. Dicha acta se elaborará con la participación del inspector designado por la Secretaría de Gobernación y un funcionario que designe el Director General de la institución, quienes deben intervenir y suscribir el documento, para todos los efectos legales.
 
-El Director General hará la designación de los funcionarios a que se hace referencia en el párrafo anterior atendiendo al siguiente criterio: el primero de ellos será designado de entre los servidores públicos que ocupan cargos de los dos niveles jerárquicos inmediatamente inferiores al Director General y el segundo de entre los servidores públicos que ocupen los niveles tercero y cuarto inferiores al del Director General.
+El Director General hará la designación del funcionario a que se hace referencia en el párrafo anterior entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al del Director General.
 
-Estarán presentes también en el desarrollo y la celebración del concurso, un representante de la Dirección Técnica, uno del órgano interno de Control y otro de la Gerencia de Sorteos, quienes también suscribirán el acta mencionada en el párrafo anterior.
+Estarán presentes también en el desarrollo y la celebración del sorteo, un representante de la Dirección Técnica y otro de la Gerencia de Sorteos, quienes también suscribirán el acta mencionada en el párrafo primero.
 
-Dichos funcionarios estarán presentes durante todo el desarrollo y celebración del concurso hasta el envío de resultados para su publicación.
+Dichos funcionarios estarán presentes durante todo el desarrollo y celebración del sorteo hasta el envío de resultados para su publicación.
+
+El representante de la Dirección Técnica hará entrega al inspector designado por la Secretaría de Gobernación de los dispositivos magnéticos que contengan el archivo de apuestas participantes, registradas en el sistema central de cómputo, previo a la celebración del sorteo.
+
+A través de los sistemas de seguridad implementados para tal efecto, el inspector designado por la Secretaría de Gobernación depositará, previo a la celebración del sorteo, los dispositivos magnéticos, a los cuales exclusivamente tendrá acceso el Organo Interno de Control para efectuar, después de la celebración del sorteo, la auditoría de la selección de ganadores.
 
 ### Capítulo IX. Del pago de premios del promocional Revancha
 
@@ -420,6 +434,12 @@ Presidente Suplente del H. Consejo Directivo Lic. Luis Manuel Gutiérrez Levy R�
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 31 DE JULIO DE 2003.
+
+Primero.- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+
+D.O.F. 11 DE JUNIO DE 2004.
 
 Primero.- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
