@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2000-09-29"
+last_updated: "2001-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DEL 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DEL 2001.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -57,7 +57,7 @@ A ninguna ley ni disposición gubernativa se dará efecto retroactivo en perjuic
 
 ###### Art. 5.
 
-La voluntad de los particulares no puede eximir de la observancia de la ley, ni alterarla o modificarla. Sólo pueden renunciarse los derechos privados que no afecten al interés público, cuando la renuncia no perjudique derechos de tercero.
+La voluntad de los particulares no puede eximir de la observancia de la ley, ni alterarla o modificarla. Solo pueden renunciarse los derechos privados que no afecten al interés público, cuando la renuncia no perjudique derechos de tercero.
 
 ###### Art. 6.
 
@@ -727,7 +727,7 @@ El Oficial del Registro Civil que tenga conocimiento de que los pretendientes ti
 
 ###### Art. 109.
 
-Las denuncias de impedimento pueden hacerse por cualquier persona. Las que sean falsas sujetan al denunciante a las penas establecidas para el falso testimonio en materia civil. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios.
+Las denuncias de impedimento pueden hacerse por cualquier persona. Las que sean falsas sujetan al denunciante a las penas establecidas por el falso testimonio en materia civil. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios.
 
 ###### Art. 110.
 
@@ -1033,7 +1033,7 @@ II. La falta de consentimiento de quienes deban otorgarlo;
 
 III. El parentesco de consanguinidad legítima o natural, sin limitación de grado en la línea recta. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
-IV. El parentesco de abfinidad (sic) en línea recta, sin limitación alguna;
+IV. El parentesco de afinidad en línea recta, sin limitación alguna;
 
 V. El adulterio habido entre las personas que pretendan contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
 
@@ -1215,7 +1215,7 @@ I. La lista detallada de los bienes muebles e inmuebles que cada consorte lleve 
 
 II. La nota pormenorizada de las deudas que tenga cada esposo al celebrar el matrimonio, con expresión de si la sociedad ha de responder de ellas o únicamente de las que se contraigan durante el matrimonio, ya sea por ambos consortes o por cualquiera de ellos;
 
-III. La declaración expresa de si la sociedad conyugal ha de comprender todos los bienes de cada consorte, o solo parte de ellos;
+III. La declaración expresa de si la sociedad conyugal ha de comprender todos los bienes de cada consorte, o sólo parte de ellos;
 
 IV. La declaración explícita de si la sociedad conyugal ha de comprender los bienes de los consortes o solamente sus productos. En uno y en otro caso se determinará con toda claridad la parte que en los bienes o en sus productos corresponda a cada cónyuge;
 
@@ -1633,7 +1633,7 @@ Si al hacerse la donación no se formó inventario de los bienes del donador, no
 
 ###### Art. 283.
 
-Las donaciones antenupciales no necesitan para su validez de aceptación expresa ni se revocan por sobrevenir hijos al donante.
+Las donaciones antenupciales no necesitan para su validez de aceptación expresa ni se revocan por sobrevivir hijos al donante.
 
 ###### Art. 284.
 
@@ -1711,7 +1711,7 @@ La nulidad por falta de consentimiento del tutor o de las autoridades a que se r
 
 ###### Art. 297.
 
-Aunque el parentesco de consanguinidad no dispensado anula el matrimonio, si después de conocida la causa de nulidad se obtuviere dispensa y ambos cónyuges quisieren espontáneamente reiterar su consentimiento por medio de un acta ante el Oficial del Registro Civil, quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que primeramente se contrajo.
+Aunque el parentesco de consanguinidad no dispensado anula el matrimonio, si después de conocida la causa de nulidad se obtuviere dispensa y ambos cónyuges quisieren espontáneamente reiterar su consentimiento por medio de un acta ante el Oficial del Registro Civil, quedará revalidado el matrimonio y surtirá todos los efectos legales desde el día en que primeramente se contrajo.
 
 ###### Art. 298.
 
@@ -2767,15 +2767,19 @@ Los hijos menores de edad no emancipados están bajo la patria potestad mientras
 
 La patria potestad se ejerce sobre la persona y bienes de los hijos. Su ejercicio queda sujeto, en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las leyes aplicables.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
+
 ###### Art. 468.
 
-La patria potestad sobre los hijos de matrimonio se ejerce:
+La patria potestad sobre los hijos de matrimonio se ejerce por el padre y la madre o en su caso por el supérstite. A falta de padres, la patria potestad corresponde a los abuelos de acuerdo a las siguientes disposiciones:
 
-I. Por el padre y la madre;
+I. Cuando haya abuelos por ambas líneas, el juez los escuchará y decidirá lo que sea más conveniente a los menores, tomando en cuenta la mayor identificación afectiva, las condiciones físicas y morales de los abuelos, su estabilidad económica y siempre que fuere posible, la opinión del menor. El ejercicio de la acción respectiva corresponde a cualquiera de los abuelos y, en su defecto, al ministerio público.
 
-II. Por el abuelo y la abuela paternos;
+En cuanto tenga conocimiento del asunto el juez tomará las medidas necesarias en relación a la custodia de los menores, mientras se decide sobre la patria potestad;
 
-III. Por el abuelo y la abuela maternos.
+II. Cuando sean dos o más los menores de una misma familia que convivan juntos, el juez procurará la continuación de dicha convivencia, si ello fuere posible; y
+
+III. En todos los casos, para determinar a quién corresponde ejercer la patria potestad, el juez tendrá en cuenta el interés superior de los menores.
 
 ###### Art. 469.
 
@@ -2791,9 +2795,11 @@ En los casos previstos en los artículos 436 y 437, cuando por cualquiera circun
 
 Cuando los padres del hijo nacido fuera de matrimonio que vivían juntos se separen, continuará ejerciendo la patria potestad, en caso de que no se pongan de acuerdo sobre ese punto, el progenitor que designe el Juez, teniendo siempre en cuenta los intereses del hijo.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
+
 ###### Art. 472.
 
-A falta de padres, ejercerán la patria potestad sobre el hijo reconocido los demás ascendientes a que se refieren las fracciones II y lII del artículo 468.
+A falta de padres, ejercerán la patria potestad sobre el hijo reconocido los ascendientes a los que se refiere el artículo 468, siguiendo las disposiciones establecidas en ese mismo artículo.
 
 > <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
 
@@ -2805,9 +2811,11 @@ En la adopción plena, la patria potestad se ejerce en los términos señalados 
 
 La menor o incapacitada que procree un hijo, ejercerá la patria potestad a través de sus padres o tutor que la represente.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
+
 ###### Art. 474.
 
-Solamente por falta o impedimento de todos los llamados preferentemente entrarán al ejercicio de la patria potestad los que sigan en el orden establecido en los artículos anteriores. Si sólo faltare alguna de las dos personas a quienes corresponda ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
+Si sólo faltare alguna de las dos personas a quienes corresponda ejercer la patria potestad, la que quede continuará en ejercicio de ese derecho.
 
 ###### Art. 475.
 
@@ -14477,7 +14485,7 @@ En el caso del artículo que precede, la persona que haya rubricado y firmado po
 
 ###### Art. 2779.
 
-El papel en que este escrito el testamento o el que le sirva de cubierta, deberá estar cerrado o lo hará cerrar el testador en el acto del otorgamiento, y lo exhibirá al notario en presencia de tres testigos.
+El papel en que esté escrito el testamento o el que le sirva de cubierta, deberá estar cerrado o lo hará cerrar el testador en el acto del otorgamiento, y lo exhibirá al notario en presencia de tres testigos.
 
 ###### Art. 2780.
 
@@ -15982,3 +15990,7 @@ P.O. 29 DE SEPTIEMBRE DEL 2000.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2001.
+
+Artículo Unico.- El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
