@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1947-04-20"
+last_updated: "1948-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 1947.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 1948.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -56,6 +56,10 @@ El Tesorero General es el representante del Fisco del Estado, y, por lo mismo, c
 ###### Artículo 3°.
 
 El presente Decreto surte sus efectos a partir del día primero de enero del presente año.
+
+P.O. 29 DE ABRIL DE 1948.
+
+UNICO.- El presente Decreto surte sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 ###### Artículo 4°.
 
@@ -321,23 +325,13 @@ DEL ESTADO Y SU FORMA DE GOBIERNO.
 
 El Congreso del Estado determinará por ley especial que llevará el nombre de "Ley de Municipios del Estado," los estatutos económicos y administrativos a que deben sujetarse los Municipios en su régimen interior, y los cuales podrá el mismo Congreso alterar o modificar cuando el bien de la administración pública general o de los mismos Municipios lo hiciere necesario. Tanto en la Ley de Municipios, como en sus alteraciones o modificaciones en su caso, se atenderá siempre a mantener la unidad de gobierno, que necesariamente exige la Administración Pública General del Estado, en relación con el grado de libertad interior administrativa que les señala la Constitución Federal de la República. En consecuencia, los Municipios, sin infringir las leyes federales o del Estado, y sin excederse de sus presupuestos respectivos, tienen derecho de atender libremente, de la manera que juzguen más eficaz, todos los ramos de la Administración Pública interior de los mismos Municipios.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1946)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1948)</small>
 
 ###### Artículo 41.
 
-Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna Autoridad intermedia entre este y el Ejecutivo del Estado que será su superior jerárquico.
+El número de Regidores que deberá integrar cada Ayuntamiento será señalado por la Ley de Municipios. Para ser Regidor se requiere ser ciudadano mexicano en ejercicio de sus derechos e hijo de padres mexicanos por nacimiento, saber leer y escribir y tener residencia efectiva dentro del territorio del correspondiente Municipio, inmediata al día de la elección, cuando menos de dos años si es nativo del Estado y cinco si no lo es.
 
-El número de Regidores que deberán integrar cada Ayuntamiento será señalado por la Ley de Municipios. Para ser Regidor se requiere ser ciudadano mexicano en ejercicio de sus derechos e hijo de padres mexicanos por nacimiento; saber leer y escribir y tener residencia efectiva dentro del territorio del correspondiente Municipio, inmediata al día de la elección, cuando menos de dos años si no es nativo del Estado.
-
-No podrán ser electos:
-
-I.- Los ministros de culto alguno.
-
-II.- Los que hayan sido condenados por cualquier delito, excepto los de culpa, a más de un año de prisión; pero si hubieren sido condenados por robo, fraude, falsificación, abuso de confianza y en general, cualquier otro delito que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
-
-III.- Los funcionarios y los empleados públicos del Estado, del Municipio o de la Federación, si no se separan de sus cargos, cuando menos tres meses antes del día de la elección.
-
-Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos electos popularmente, no podrán ser reelectos para el período inmediato. Los miembros de la Junta Provisional de que habla el artículo 49 de la Constitución no podrán ser reelectos para el período inmediato. Todos los funcionarios municipales antes mencionados, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan carácter de suplentes, sí podrán ser electos para el período inmediato con el carácter de propietarios aunque hayan estado en ejercicio temporalmente.
+En las Elecciones Municipales participarán las mujeres en igualdad de condición que los varones con el derecho de votar y ser votadas.
 
 ###### Artículo 42.
 
