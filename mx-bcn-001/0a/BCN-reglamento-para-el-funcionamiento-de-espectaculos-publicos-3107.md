@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-funcionamiento-de-espectaculos-publicos-3107
 country: "mx"
 rank: "reglamento"
 publication_date: "1986-05-20"
-last_updated: "1986-05-20"
+last_updated: "2002-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE ESPECTACULOS PUBLICOS Y CENTROS DE REUNION PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el martes 20 de mayo de 1986.
 
@@ -391,9 +391,11 @@ Esta disposición tiene aplicación también en los lugares en que se desarrolle
 
 Cuando algún negocio de aquellos a los que se refiere este Reglamento, cambiare la situación del local o de empresarios o dueños, se dará aviso al Gobierno Municipal para que ordene la cancelación de la licencia y se expida la nueva.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2002)</small>
+
 ###### Artículo 34o.
 
-Los cafés cantantes, bares turísticos, salones de baile, cantinas con permiso para baile y eventos donde se presenten variedades artísticas y/o revistas musicales deben en todo caso, utilizar los servicios de músicos sindicalizados ó en su defecto pagar la cuota por desplazamiento. Pudiendo alternar con música mecánica o electrónica cuando se presenten variedades artísticas o musicales. En el entendido que cuando decidan contratar músicos, estos deberán ser, obligatoriamente, del Municipio, o en su defecto, pagar la cuota de desplazamiento en la sección que corresponda de acuerdo a la Secretaría del Trabajo. Cuando se trate de espectáculos como ópera, ballet o de otros similares en los que se requieran los servicios de música especial, nacional o extranjera; los empresarios quedarán relevados de la obligación de utilizar músicos que sean componentes de los conjuntos que visiten esta región.
+Los cafés cantantes, bares turísticos, salones de baile, cantinas con permiso para baile y eventos donde se presenten variedades artísticas y/o revistas musicales, podrán utilizar a su elección los servicios de músicos que pertenezcan o no a sindicatos o gremios, sin tener que pagar cuotas de ninguna especie. Pudiendo alternar con música mecánica o electrónica cuando se presenten variedades artísticas o musocales (sic). En el entendido que cuando decidan contratar músicos, estos deberán ser, obligatoriamente, del Municipio, o en su defecto, pagar la cuota de desplazamiento en la sección que corresponda de acuerdo a la Secretaría del Trabajo. Cuando se trate de espectáculos como ópera, ballet o de otros similares en los que se requieran los servicios de música especial, nacional o extranjera; los empresarios quedarán relevados de la obligación de utilizar músicos que sean componentes de los conjuntos que visiten esta región.
 
 ## TITULO CUARTO
 
@@ -882,3 +884,9 @@ C. ALFREDO ROSALES GREEN.
 LIC. GUILLERMO VILLAVICENCIO GONZALEZ.
 
 ( Rúbrica )
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 31 DE MAYO DE 2002.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
