@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-administracion-e-inversion-de-los-15096"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-13"
-last_updated: "1999-10-13"
+last_updated: "2004-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15096&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-10-12"
 
 REGLAMENTO PARA LA ADMINISTRACION E INVERSION DE LOS RECURSOS FINANCIEROS DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JULIO DE 2004.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 13 de octubre de 1999.
 
@@ -393,9 +393,11 @@ El Presidente presentará a la Comisión un informe sobre el desarrollo y result
 
 El Instituto sólo podrá efectuar inversiones en acciones y valores emitidos por sociedades o empresas mexicanas autorizadas conforme a la Ley del Mercado de Valores y por la Comisión Nacional Bancaria y de Valores. La Unidad deberá realizar una evaluación de la situación financiera de dichas sociedades o empresas, que se presentará a la consideración de la Comisión, la cual determinará lo procedente con base en las políticas y directrices establecidas anualmente por el Consejo Técnico.
 
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2004)</small>
+
 ###### Artículo 30.
 
-Las inversiones en acciones y valores emitidos por sociedades o empresas mexicanas no podrán rebasar, en ningún caso, el 5% del total de las reservas que se tengan constituidas al momento de realizar la operación.
+Las inversiones en acciones y valores emitidos por las sociedades o empresas mexicanas no podrán rebasar, en ningún caso, el 25% del total de las reservas y del fondo laboral a que se refiere el artículo 286 K, de la Ley del Seguro Social, que se tengan constituidos al momento de realizar la operación.
 
 ### CAPÍTULO X. DE LAS DISPOSICIONES GENERALES
 
@@ -410,3 +412,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su public
 SEGUNDO. Las modificaciones a las estructuras del Instituto Mexicano del Seguro Social que por virtud del presente Decreto se realicen, se harán de conformidad con los montos autorizados a dicho Instituto en el correspondiente Presupuesto de Egresos de la Federación.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de octubre de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría Treviño.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Mariano Palacios Alcocer.- Rúbrica.- El Secretario de Contraloría y Desarrollo Administrativo, Arsenio Farell Cubillas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO:</small>
+
+D.O.F. 21 DE JULIO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
