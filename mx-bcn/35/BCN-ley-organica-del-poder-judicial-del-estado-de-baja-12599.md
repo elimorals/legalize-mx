@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "1995-10-04"
+last_updated: "1997-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 1997.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -1209,6 +1209,8 @@ XVII.- Todo incumplimiento de los deberes propios del cargo.
 
 ### CAPITULO VI. DE LOS ORGANOS AUXILIARES DEL CONSEJO DE LA JUDICATURA
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 132.
 
 Las sanciones aplicables a las faltas administrativas consistirán en:
@@ -1567,6 +1569,8 @@ VII.- Las demás que determine esta ley y los correspondientes reglamentos y acu
 
 ### CAPITULO XI. DE LA CONTRALORIA DEL PODER JUDICIAL
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 173.
 
 El Secretario General del Consejo de la Judicatura del Estado tendrá las siguientes atribuciones:
@@ -1597,7 +1601,7 @@ El Secretario General del Consejo de la Judicatura deberá reunir los requisitos
 
 ###### ARTICULO 175.
 
-Para su adecuado funcionamiento, el Consejo de Judicatura del Estado contará cuando menos con los (sic) siguientes Unidades Administrativas: del Instituto de la Judicatura, del Archivo Judicial y de Notarías, del Boletín Judicial y Oficialía de Partes.
+Para su adecuado funcionamiento, el Consejo de la Judicatura del Estado contará cuando menos con las siguientes Unidades Administrativas: del Instituto de la Judicatura, del Archivo Judicial y de Notarios, del Boletín Judicial, Contraloría y Oficialía de Partes.
 
 ### CAPITULO I. DE LAS DESIGNACIONES
 
@@ -1745,19 +1749,39 @@ El Consejo de la Judicatura del Estado cuando tenga conocimiento de irregularida
 
 ###### ARTICULO 195.
 
-El Poder Judicial del Estado, deberá ser auditado por lo menos una vez al año, por el organismo público o privado que determine el Congreso del Estado o la Comisión Permanente.
+La Contraloría es el órgano dependiente y auxiliar del Consejo de la Judicatura, en cuanto a practicar auditorías y la aplicación de las disposiciones relativas al Registro Patrimonial y Responsabilidades Administrativas de los Servidores Públicos del Poder Judicial y como tal tendrá las siguientes atribuciones:
+
+I.- Verificar el cumplimiento de las normas de control de las Unidades Administrativas del Poder Judicial;
+
+II.- Comprobar el cumplimiento, por parte de las Unidades Administrativas del Poder Judicial, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, patrimonio y fondos y valores de la propiedad o al cuidado de las mismas;
+
+III.- Inspeccionar y vigilar directamente que las Unidades Administrativas del Poder Judicial, cumplan con las normas y disposiciones en materia de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
+
+IV.- Realizar auditorías a las Unidades Administrativas del Poder Judicial con el objeto de promover la eficiencia de sus procedimientos y verificar el cumplimiento de los objetivos contenidos en sus programas;
+
+V.- Establecer y mantener coordinación e intercambiar información y documentación con la Contaduría Mayor de Hacienda del Congreso del Estado, sobre las normas, procedimientos y sistemas de contabilidad y sobre los procedimientos de archivo contable de los libros o documentos justificatorios del ingreso y del gasto;
+
+VI.- Recibir y Registrar las declaraciones patrimoniales que deban presentar los servidores públicos del Poder Judicial, verificar y practicar las investigaciones que fueran pertinentes de conformidad con las leyes, reglamentos y acuerdos generales que emita el Consejo de la Judicatura;
+
+VII.- Recibir del Congreso del Estado, los pliegos de observaciones y recomendaciones sobre comprobaciones de gastos en los procedimientos y sistemas de Contabilidad que dictamine al revisar la Cuenta Pública del Poder Judicial para preparar las medidas de solventación que correspondan y presentarlas al Consejo de la Judicatura para su aprobación;
+
+VIII.- Recibir quejas y denuncias de la ciudadanía por el incumplimiento de las obligaciones de los servidores públicos mencionados en el artículo 115 de esta Ley, y
+
+Las demás que determinen las leyes, los reglamentos y acuerdos generales correspondientes.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 196.
 
-La auditoría a que se refiere el artículo anterior deberá comprender entre otras las siguientes
+Tienen obligación de presentar declaración de situación patrimonial bajo protesta de decir verdad: Magistrados del Tribunal Superior de Justicia, Jueces, Secretarios y Actuarios, Consejeros de la Judicatura, Secretarios Generales de Acuerdos, los Titulares de las Unidades Administrativas, Visitadores, Jefes de Departamento, y todos aquellos que por acuerdo determine el Consejo de la Judicatura, en los plazos siguientes:
 
-I.- El cumplimiento de las normas de control establecidas por el Consejo de la Judicatura del Estado.
+I.- Dentro de los sesenta días naturales siguientes a la toma de posesión;
 
-II.- El cumplimiento por parte de los órganos administrativos de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos.
+II.- Dentro de los treinta días naturales siguientes a la conclusión del encargo; y
 
-III.- El cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales del Poder Judicial, y
+III.- Durante el mes de mayo de cada año deberá presentarse la declaración de situación patrimonial, acompañada de una copia de la declaración anual presentada por personas físicas para los efectos de la Ley de Impuesto Sobre la Renta, salvo que en ese mismo año se hubiese presentado la declaración a que se refiere la Fracción I.
 
-IV.- Las demás que determinen las leyes, los reglamentos y acuerdos generales correspondientes.
+Si transcurrido el plazo a que hace referencia la Fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efecto el nombramiento respectivo. Lo mismo ocurrirá cuando se omita la declaración contemplada en la Fracción III.
 
 ### CAPITULO III. DE LOS INTERVENTORES DE CONCURSO
 
@@ -2150,3 +2174,23 @@ LIC. ERNESTO RUFFO APPEL.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RODOLFO VALDEZ GUTIERREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE MAYO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga la fracción VI del artículo 72 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, así como todas las disposiciones vigentes que se opongan y contravengan el contenido del presente decreto.
+
+###### ARTICULO TERCERO.
+
+El Consejo de la Judicatura y la Dirección de Control y Evaluación Gubernamental, en un plazo no mayor de 30 días, contados a partir de la fecha de publicación del presente decreto, establecerán los mecanismos y plazos para que le sean entregados a la Contraloría del Poder Judicial, los expedientes con las declaraciones de Situación Patrimonial de los servidores públicos obligados del Poder Judicial del Estado, así como, las reglas de coordinación en materia de inhabilitación.
+
+###### ARTICULO CUARTO.
+
+La Unidad Administrativa denominada Contraloría del Poder Judicial empezará a ejercer sus funciones una vez que se incluya en el presupuesto que corresponda en los términos de ley.
