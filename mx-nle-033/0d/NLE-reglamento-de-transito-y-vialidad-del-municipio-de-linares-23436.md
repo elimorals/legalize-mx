@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-linares-2343
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-08"
-last_updated: "2002-02-08"
+last_updated: "2002-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE LINARES, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 8 de febrero de 2002.
 
@@ -717,7 +717,15 @@ I.- Acomodar la carga de tal forma que no impida la visibilidad del conductor.
 
 II.- Cubrir o mojar y sujetar la carga que pueda esparcirse con el viento o movimiento del vehículo
 
-III.- Portar el permiso de las Autoridades correspondientes cuando se transporten explosivos o cualquier otra carga sujeta a regularización de cualquier Autoridad. Los explosivos o materiales peligrosos deberán transportarse solamente en los vehículos especialmente diseñados para ello, debiendo contarse para esto con la autorización de la Dirección de Tránsito y Vialidad,, (sic) para las asignaciones de ruta y horario; Además queda prohibido el tránsito de vehículos de carga en el primer cuadro de la Ciudad, que comprende de la calle Gral. Treviño al sur hasta la Avenida Doctor Carlos García Rodríguez al norte, y de la Avenida Jesús Ramal Garza al oriente hasta la Avenida Pablo Salce Arredondo al Poniente, para efectuar las maniobras de carga y descarga, deberá obtenerse un permiso el cual pagará en Tesorería Municipal, o en la Dirección de Tránsito y Vialidad Local.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2002)</small>
+
+III.- Portar el permiso de las autoridades correspondientes cuando se transporten explosivos o cualquier otra carga sujeta a regularización de autoridad. Los explosivos o materiales peligrosos deberán transportarse solamente en los vehículos especialmente diseñados para ello, debiendo contarse para esto con la autorización de la dirección de tránsito y vialidad, para las asignaciones de ruta y horario; además queda prohibido el tránsito de vehículos de carga en el primer cuadro de la ciudad, que comprende de la calle Gral. Treviño al sur hasta la Ave. Doctor Carlos García Rodríguez al norte, y de la Ave. Jesús Ramal Garza al oriente hasta la Ave. Pablo Salce Arredondo al poniente, para efectuar las maniobras de carga y descarga los vehículos foráneos exclusivamente deberá obtener un permiso el cual pagará en Tesorería Municipal, o en la Dirección de Tránsito y Vialidad Local a razón de lo siguiente:
+
+a) Lo equivalente a una cuota diaria del salario mínimo vigente para los vehículos con capacidad de 3,000 kg. a 3,500 kg.;
+
+b) Lo equivalente a dos cuotas diarias del salario mínimo vigente para los vehículos con capacidad de 3,501 kg. A los vehículos de tres ejes tortón;
+
+c) Y lo equivalente a tres cuotas diarias del salario mínimo vigente para los vehículos tráiler y tractocamiones.
 
 IV.- Sujetar debidamente al vehículo los cables, lonas y demás accesorios que sujeten la carga.
 
@@ -1049,7 +1057,7 @@ B.2.- VUELTA A LA DERECHA.- Sacarán su brazo izquierdo y formando un ángulo re
 
 B.3.- VUELTA A LA IZQUIERDA.- Extenderán horizontalmente su brazo izquierdo, con el puño cerrado y el dedo índice apuntando hacia la izquierda.
 
-B.4.- ESTACIONARSE.- Sacarán su brazo izquierdo extendido hacia abajo, con el puño cerrado y el dedo índice apuntando hacia abajo y harán un movimiento oscilatorio de adelante hacía atrás y viceversa.
+B.4.- ESTACIONARSE.- Sacarán su brazo izquierdo extendido hacia abajo, con el puño cerrado y el dedo índice apuntando hacia abajo y harán un movimiento oscilatorio de adelante hacia atrás y viceversa.
 
 Queda prohibido hacer estas señales cuando no se vaya a efectuar el cambio de dirección o movimiento indicado. En igual forma, está prohibido que hagan cualquier otra señal que pueda confundir a los demás usuarios, debiendo evitar por lo tanto sacar parle de su cuerpo si no es para hacer las señales aquí requeridas.
 
@@ -1608,3 +1616,9 @@ C. PROFR. ANGEL A. ALAMEDA PEDRAZA
 SECRETARIO DEL R. AYUNTAMIENTO DE LINARES
 
 RÚBRICA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2002.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
