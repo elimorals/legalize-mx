@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-sistema-de-seguridad-publica-del-estado-de-nuevo-10651"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-24"
-last_updated: "2000-10-18"
+last_updated: "2002-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10651&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 24 de mayo de 1996.
 
@@ -143,9 +143,9 @@ V.- El Director de la Policía Rural;
 
 VI.- Los representantes o Delegados en el Estado de la Secretaría de la Defensa Nacional, la Procuraduría General de la República y la Policía Federal Preventiva; y
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2002)</small>
 
-VII.- Un Secretario Ejecutivo, que será el Subsecretario de Seguridad de la Secretaría General de Gobierno.
+VII.- Un Secretario Ejecutivo, quien será el Servidor Público que designe el Presidente del Consejo.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1998)</small>
 
@@ -972,3 +972,7 @@ Se abroga la Ley Orgánica de los Cuerpos de Seguridad Pública del Estado de Nu
 ###### ARTÍCULO TERCERO.
 
 El Titular del Poder Ejecutivo del Estado expedirá el Reglamento de esta Ley, dentro de un plazo no mayor a ciento ochenta días naturales, contados a partir de la fecha de entrada en vigor de este Decreto.
+
+P.O. 30 DE OCTUBRE DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
