@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-de-veracruz-268
 country: "mx"
 rank: "codigo"
 publication_date: "1948-02-12"
-last_updated: "1995-11-21"
+last_updated: "1998-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE NOVIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE ENERO DE 1998.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave el jueves 12, sábado 14, martes 17, jueves 19, sábado 21, martes 24, jueves 26 y sábado 28 de febrero; martes 2, jueves 4, sábado 6, martes 9, jueves 11, sábado 13 y martes 16 de marzo de 1948.
 
@@ -315,9 +315,11 @@ Cuando cambiare el personal de un tribunal, no se proveerá auto alguno, haciend
 
 Cuando no tenga que dictarse resolución alguna anterior a la sentencia, sí se hará saber el cambio de personal.
 
+> <small>(REFORMADO, G.O. 24 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 43.
 
-Cuando esté plenamente comprobado en autos el delito de que se trata, el funcionario que conozca del asunto dictará las providencias necesarias, a solicitud del ofendido, para restituirlo en el goce de sus derechos, siempre que estén legalmente justificados. Si se tratare de cosas, únicamente podrán retenerse, esté o no comprobado el cuerpo del delito, cuando a juicio de quien practique las diligencias, la retención fuere necesaria para el éxito de la averiguación.
+Inmediatamente que conozca de los hechos delictivos, el Ministerio Público o el juez, dictarán las providencias necesarias, a solicitud del ofendido, para restituirlo en el goce de sus derechos, siempre que estén legalmente justificados. Si se tratare de cosas, únicamente podrán retenerse, estén o no comprobados los elementos del tipo penal, cuando a juicio de quien practique las diligencias, y bajo su más estricta responsabilidad, la retención fuere necesaria para la prosecución de la averiguación.
 
 ###### ARTICULO 44.
 
@@ -449,11 +451,15 @@ Fuera de los casos señalados en los artículos anteriores, los tribunales o jue
 
 ### CAPITULO VII. C a t e o s
 
-> <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
+> <small>(REFORMADO, G.O. 24 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 66.
 
-Cuando en la averiguación previa o habiéndose ejercitado la acción penal, el Ministerio Público estime necesaria la práctica de un cateo, acudirá al Juez que corresponda, a solicitar por escrito la diligencia, expresando su objeto y verificando su necesidad, así como la ubicación del lugar a inspeccionar y persona o personas que han de localizarse o de aprehenderse, y los objetos que se buscan o han de asegurarse, a lo que únicamente debe limitarse la diligencia.
+Cuando en la averiguación previa el Ministerio Público estime necesaria la práctica de un cateo para los fines de la indagatoria, acudirá al Juez que corresponda, a solicitar por escrito la diligencia, expresando su objeto y justificando su necesidad. El cateo se limitará al objeto que expresamente se determine en la orden respectiva.
+
+Cuando habiéndose ejercitado la acción penal, el Ministerio Público considere necesaria la práctica de un cateo, acudirá al Juez que corresponda a solicitar por escrito la diligencia, expresando su objeto y justificando su necesidad, así como la ubicación del lugar a inspeccionar y la persona o personas que deban localizarse o de aprehenderse, y los objetos que se busquen o deban asegurarse. El cateo se limitará a lo que expresamente se contenga en la orden respectiva.
+
+La autoridad judicial deberá resolver dentro de las setenta y dos horas posteriores a la solicitud correspondiente, pero en el caso de que el Ministerio Público argumente urgencia de la medida, resolverá de manera inmediata.
 
 Al concluirse el cateo se levantará acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o en su ausencia o negativa, por la autoridad judicial que practique la diligencia.
 
@@ -795,6 +801,10 @@ Las reglas anteriores también deberán observarse tratándose de delitos que so
 
 Queda prohibido detener a cualquier persona, sin orden de aprehensión librada por autoridad judicial competente, excepto cuando se trate de delito flagrante o de casos urgentes en que no haya en el lugar alguna autoridad judicial y siempre que se trate de delitos que se persiguen de oficio, conforme a lo dispuesto por el artículo 16 de la Constitución Política de los Estado Unidos Mexicanos. Sólo el Ministerio Público puede, con sujeción a este precepto, determinar qué personas quedarán en calidad de detenidas, sin perjuicio de las facultades que correspondan al Juez o tribunal de la causa. La violación de esta disposición hará penalmente responsable al Ministerio Público o funcionario de la policía que decrete la detención. La persona detenida en contravención a lo previsto en este artículo será puesta inmediatamente en libertad.
 
+> <small>(ADICIONADO, G.O. 24 DE ENERO DE 1998)</small>
+
+La autoridad competente estará obligada a atender las peticiones del Ministerio Público sobre los antecedentes penales del indiciado y entregarle sin dilación las constancias que los certifiquen. Si se formulara solicitud a la autoridad judicial respecto de datos o constancias que obren en los procesos estará obligada en iguales términos a obsequiar la petición. Toda autoridad está obligada a proporcionar la información que le solicite el Ministerio Público de la manera más oportuna posible cuando éste invoque en su petición que la misma se requiere para los efectos del primer párrafo de la fracción I del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
+
 > <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 125.
@@ -810,6 +820,32 @@ En la averiguación previa en contra de personas que no hablen o no entiendan su
 El Ministerio Público que inicie una averiguación previa podrá citar para que declaren sobre los hechos que se averigüen, a las personas que por cualquier concepto participen en ellos o aparezca tengan datos sobre los mismos. En el acta se hará constar quién mencionó a la persona que haya de citarse o por qué motivo el funcionario que practique las diligencias estimó conveniente hacer la citación.
 
 Toda persona que haya de rendir declaración, conforme a éste y el artículo anterior, tendrá derecho a hacerlo asistida por un abogado nombrado por ella.
+
+> <small>(ADICIONADO, G.O. 24 DE ENERO DE 1998)</small>
+
+ARTICULO 126 BIS.- Cuando con motivo de una averiguación previa, el Ministerio Público estime necesario el arraigo de una persona, mediante acuerdo fundado y motivado y tomando en cuenta la necesidad del mismo para los fines de la indagatoria, así como las condiciones personales de aquélla, podrá solicitarlo al juez que corresponda, para que éste acuerde el arraigo con vigilancia del propio Ministerio Público o sus auxiliares. El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, sin que pueda exceder de treinta días, prorrogables por igual término a petición del Ministerio Público. El juez resolverá escuchando al Ministerio Público y al arraigado sobre la subsistencia o el levantamiento del arraigo.
+
+Cuando en la averiguación previa o en el proceso deban declarar testigos que conozcan de los hechos presuntamente delictivos y hubiere la necesidad o el temor fundado de que se ausenten antes de que pudiesen declarar, podrá decretarse su arraigo, sólo por el tiempo indispensable para la práctica de las diligencias respectivas.
+
+Las personas sujetas a la medida cautelar de arraigo podrán realizar sus actividades normales, sin dejar de asistir diariamente a su domicilio, para lo cual el Ministerio Público o el juez dispondrán, si fuere necesario, de la vigilancia por parte de la fuerza pública. En todo caso, el Juez que decrete la medida le fijará un domicilio.
+
+> <small>(ADICIONADO, G.O. 24 DE ENERO DE 1998)</small>
+
+ARTICULO 126 TER.- Cuando en la etapa de averiguación previa el Procurador General de Justicia, a petición del Agente del Ministerio Público que corresponda, considere necesaria la intervención de comunicaciones privadas, lo solicitará al Juez de Distrito competente en el que expresará:
+
+a) Objeto y necesidad de intervención;
+
+b) Los hechos, circunstancias y demás elementos que se pretendan probar;
+
+c) Los indicios que hagan presumir fundadamente que la persona cuya comunicación privada se pretende intervenir se encuentra vinculada con el delito o delitos que se investigan;
+
+d) El tipo de comunicación privada a ser intervenida;
+
+e) La ubicación del lugar o la identificación del medio en que habrá de llevarse a cabo la intervención;
+
+f) Duración de la intervención.
+
+Podrán ser objeto de intervención las comunicaciones privadas que se realicen en forma oral, escrita, por signos, señales o mediante el empleo de aparatos eléctricos, mecánicos, alámbricos o inalámbricos, sistemas o equipos informáticos, así como cualquier otro medio o forma que permita la comunicación entre uno o varios emisores y uno o varios receptores.
 
 > <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
 
@@ -831,6 +867,10 @@ El inculpado podrá nombrar persona de su confianza que lo defienda, desde el mo
 
 El defensor a que se refieren el párrafo anterior y el artículo 126 de este Código, podrá impugnar las preguntas que se hagan al declarante, si éstas son inconducentes o contra derecho; pero no podrá producir ni inducir las respuestas de su asistido.
 
+> <small>(ADICIONADO, G.O. 24 DE ENERO DE 1998)</small>
+
+A las actuaciones de averiguación previa, sólo podrán tener acceso el inculpado, su defensor, la víctima u ofendido y su representante legal, únicamente en relación con los hechos imputados en su contra.
+
 El personal de las Agencias del Ministerio Público y de la Policía Judicial, en ningún caso ni por motivo alguno mantendrán incomunicados a los detenidos, ni permitirán que se les incomunique durante el período de averiguación previa. La violación de esta norma es causa de responsabilidad para quien la infrinja, de conformidad con lo dispuesto en el Código Penal.
 
 > <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
@@ -840,6 +880,10 @@ El personal de las Agencias del Ministerio Público y de la Policía Judicial, e
 En la averiguación previa, cuando haya detenidos y se trate de delitos culposos cometidos en el tránsito de vehículos o de delitos que sean de competencia de los juzgados municipales, se observarán las reglas siguientes:
 
 I.-Cuando se trate de delitos culposos motivados por el tránsito de vehículos y siempre y cuando, el presunto responsable no se hallare en estado de ebriedad o bajo el influjo de estupefacientes u otras substancias que produzcan efectos similares, o se hubiese dado a la fuga y no auxiliare a la víctima, el Ministerio Público dispondrá la libertad del inculpado, si éste mediante caución suficiente que fije dicha Autoridad, garantiza no sustraerse a la acción de la justicia, así como el pago de la reparación de los daños y perjuicios que pudieren serle exigidos.
+
+> <small>(ADICIONADO, G.O. 24 DE ENERO DE 1998)</small>
+
+El Ministerio Público podrá negar la libertad cuando el probable responsable haya sido condenado con anterioridad por algún delito calificado como grave o, cuando se cuente con elementos para establecer que su libertad representa, por su conducta precedente o por las circunstancias y características de la comisión del delito, un riesgo para el ofendido o para la sociedad. Las causas por las que se niegue la libertad caucional se expresarán en un acuerdo que funde y motive la negativa.
 
 Solicitada la libertad del presunto responsable, el Ministerio Público fijará de inmediato la garantía correspondiente, con los elementos existentes en la Averiguación Previa y basándose en las disposiciones de carácter general que haya fijado el Procurador.
 
@@ -961,7 +1005,9 @@ Cuando un delito merezca pena alternativa o no privativa de libertad, se dispond
 
 El ejercicio de la acción penal corresponde al Ministerio Público:
 
-I.- Promover la incoación del procedimiento judicial;
+> <small>(REFORMADA, G.O. 24 DE ENERO DE 1998)</small>
+
+I.- Promover la incoación del procedimiento penal y, de ser procedente, la negativa de la libertad provisional;
 
 II.- Solicitar las órdenes de comparecencia para preparatoria y las de aprehensión que sean procedentes;
 
@@ -1020,6 +1066,10 @@ La parte ofendida, también podrá proporcionar directamente al Juez respectivo,
 ###### ARTICULO 143.
 
 El tribunal ante el cual se ejercite la acción penal practicará sin demora alguna, todas las diligencias procedentes que promuevan las partes.
+
+> <small>(ADICIONADO, G.O. 24 DE ENERO DE 1998)</small>
+
+ARTICULO 143 BIS.- El juez comunicará la orden de aprehensión al agente del Ministerio Público que intervenga en el proceso y al Procurador General de Justicia, para que sea ejecutada.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JULIO DE 1991)</small>
 
@@ -1297,11 +1347,19 @@ Los funcionarios que practiquen diligencias de averiguación previa, están obli
 
 I.- En caso de flagrante delito;
 
-II.- En caso de notoria urgencia, por existir temor fundado de que el inculpado trate de ocultarse o de eludir la acción de la justicia, cuando no haya autoridad judicial en el lugar.
+> <small>(REFORMADA, G.O. 24 DE ENERO DE 1998)</small>
+
+II.- Cuando se trate de hechos que supongan la comisión de delito grave y ante el riesgo de que el inculpado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial, para obtener en lo inmediato orden de aprehensión por razón de la hora, lugar o circunstancia.
+
+> <small>(REFORMADO, G.O. 24 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 187.
 
-Para los efectos de la fracción I del artículo anterior, se entiende que el inculpado es aprehendido en flagrante delito no sólo cuando es detenido en el momento de estarlo cometiendo, sino cuando después de ejecutado, el delincuente es perseguido materialmente, o cuando inmediatamente después de haberlo cometido, alguien lo señala como responsable del mismo delito, y se encuentra en su poder el objeto del mismo, el instrumento con que aparezca cometido o huellas o indicios que hagan presumir fundadamente su culpabilidad.
+Para los efectos de la fracción I del artículo anterior, se entiende por flagrante delito cuando la persona es detenida en el momento de estarlo cometiendo, o bien, cuando el inculpado es perseguido material e inmediatamente después de ejecutado el delito.
+
+Se equiparará la existencia de delito flagrante cuando la persona es señalada como responsable por la víctima, algún testigo presencial de los hechos o quien hubiera participado con ella en la comisión del delito; o se encuentre en su poder el objeto, instrumento o producto del delito; o bien aparezcan huellas o indicios que hagan presumir fundadamente su participación en el delito; siempre y cuando se trate de un delito grave, no haya transcurrido un plazo de setenta y dos horas desde el momento de la comisión de los hechos delictivos, se hubiera iniciado la averiguación previa respectiva y no se hubiese interrumpido la persecución del presunto delincuente. No se considera interrumpida la persecución cuando el presunto autor se introduzca a un inmueble sin autorización o consentimiento de quien lo habita o de quien legalmente tiene derecho a decidir el ingreso de personas al mismo; en todo caso, no existirá interrupción cuando se trate de un inmueble público o al que, por su naturaleza, se tenga libre acceso.
+
+En esos casos el Ministerio Público decretará la retención del indiciado si están satisfechos los requisitos de procedibilidad y el delito merece pena privativa de libertad, o bien, ordenará la libertad del detenido, cuando la sanción sea no privativa de libertad o alternativa.
 
 ###### ARTICULO 188.
 
@@ -1309,11 +1367,13 @@ Cuando estén reunidos los requisitos del artículo 16 constitucional, el tribun
 
 La resolución respectiva contendrá una relación sucinta de los hechos que la motiven, sus fundamentos legales y la clasificación provisional que se haga del hecho delictuoso, y se transcribirá a la autoridad correspondiente, para que ésta proceda a su ejecución.
 
+> <small>(REFORMADO, G.O. 24 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 189.
 
-Cuando se trate de la aprehensión de alguna persona cuyo paradero se ignore, el tribunal que dicte la orden la comunicará a las autoridades que estimare convenientes para que localicen y aprehendan a dicha persona.
+Las órdenes de aprehensión que expidan las autoridades judiciales serán ejecutadas por el Ministerio Público por conducto de la policía bajo su mando. Las autoridades o corporaciones a quienes se les solicite, estarán obligadas a auxiliar al Ministerio Público en la ejecución de los mandamientos judiciales.
 
-Siempre que se lleve a cabo una aprehensión en virtud de orden judicial, o en algunos de los casos a que se refiere el artículo 186, quien la hubiere ejecutado deberá poner al detenido, sin demora alguna, a disposición de la autoridad competente, informando a ésta acerca de la hora en que se efectuó.
+La autoridad que ejecute una orden de aprehensión deberá poner al inculpado a disposición del juez, sin dilación alguna y bajo su más estricta responsabilidad. El aprehendido será internado en el centro de reclusión perteneciente a la jurisdicción del juez que la expidió, si no lo hubiera, se le internará en el centro de reclusión más cercano. Cuando medien razones de seguridad del detenido o exista la posibilidad de su evasión, se le pondrá a disposición del Juez en otro centro de reclusión próximo, a reserva de que dicha autoridad judicial dicte lo procedente con posterioridad.
 
 ###### ARTICULO 190.
 
@@ -1937,7 +1997,9 @@ III.- Los autos de formal prisión; los de sujeción a proceso, y los de falta d
 
 IV.- Los autos en que se conceda niegue o revoque la libertad provisional bajo caución y los que resuelvan algún incidente no especificado. Si la inconformidad versa únicamente sobre el monto de la caución en que se concedió la libertad, procede el recurso de revocación.
 
-V.- El auto en que se niegue la orden de aprehensión y el que niegue la citación para preparatoria. Estos autos sólo son apelables por el Ministerio Público;
+> <small>(REFORMADA, G.O. 24 DE ENERO DE 1998)</small>
+
+V.- El auto que niegue la orden de aprehensión o la ratificación de la detención y el que niegue la citación para preparatoria. Estos autos sólo son apelables por el Ministerio Público;
 
 VI.- Los autos en que un tribunal se niegue a declarar su incompetencia por declinatoria; o a librar el oficio inhibitorio a que se refiere el artículo 361; y
 
@@ -2059,7 +2121,9 @@ II.- Que garantice las sanciones pecuniarias que en su caso puedan imponérsele;
 
 III.- Que caucione el cumplimiento de las obligaciones a su cargo que la Ley establece en razón del proceso; y
 
-IV.- Que no se trate de alguno de los delitos señalados como graves en el artículo 13 del Código Penal.
+> <small>(REFORMADA, G.O. 24 DE ENERO DE 1998)</small>
+
+IV.- Que no se trate de alguno de los delitos señalados como graves en el artículo 13 del Código Penal y en el caso de los delitos no graves de alguna de las hipótesis comprendidas en la fracción I del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
 
 La caución a que se refiere la fracción III, y las garantías a que se refieren las fracciones I y II, podrán consistir en depósito en efectivo, fianza, prenda, hipoteca o fideicomiso formalmente constituido.
 
@@ -2908,3 +2972,7 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 24 DE ENERO DE 1998.
+
+ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
