@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1984-01-29"
+last_updated: "1985-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 1984.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 1985.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -753,11 +753,11 @@ DEL PODER JUDICIAL.
 
 El Poder Judicial es el encargado de impartir justicia, aplicando las leyes. Se deposita en el Supremo Tribunal de Justicia y en los Juzgados que la Ley Orgánica respectiva determine.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1985)</small>
 
 ###### Artículo 52.
 
-El Supremo Tribunal de Justicia se compondrá de tres Magistrados Propietarios y de tres Suplentes y funcionará en pleno, excepto al dictar resoluciones de mero trámite.
+El Supremo Tribunal de Justicia se compondrá de cinco Magistrados propietarios como mínimo, e igual número de suplentes, y funcionará en pleno o en salas.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -809,7 +809,7 @@ II.- Conocer, en los términos de esta Constitución de los procesos que por il�
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
-III.- Declarar si ha lugar a formación de causa en contra de los Jueces, por ilícitos oficiales o del orden común.
+III.- Declarar si ha lugar a formación causa en contra de los Jueces, por ilícitos oficiales o del orden común.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
@@ -953,9 +953,9 @@ Para ser Regidor o Síndico de un Ayuntamiento se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento, en ejercicio de sus derechos;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1973)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1985)</small>
 
-II.- Tener veintiún años cumplidos el día de la elección.
+II.- Tener 18 años cumplidos el día de la elección.
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 1973)</small>
 
@@ -1464,3 +1464,15 @@ SEGUNDO.- Dentro del término de un año contado a partir de la iniciación de v
 P.O. 29 DE ENERO DE 1984.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 2 DE JUNIO DE 1985.
+
+DECRETO NÚMERO 54, QUE REFORMA EL ARTÍCULO 68 FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 2 DE JUNIO DE 1985.
+
+DECRETO NÚMERO 55, QUE REFORMA EL ARTÍCULO 52 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
+
+Unico.- El Supremo Tribunal de Justicia, sin perjuicio de lo dispuesto en el Artículo 30, Fracciones I y II de la Constitución Política del Estado, deberá promover dentro del plazo de nueve meses contados a partir de la vigencia del presente Decreto, la reforma de la Ley Orgánica del Poder Judicial en la parte conducente para proveer al exacto cumplimiento del presente Decreto. Mientras transcurre dicho plazo el Supremo Tribunal de Justicia acordará sobre la forma de su funcionamiento.
