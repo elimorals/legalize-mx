@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-22748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-11-08"
-last_updated: "2004-06-07"
+last_updated: "2004-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2004.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el jueves 8 de noviembre de 2001.
 
@@ -159,7 +159,13 @@ VI. Secretaría de Desarrollo Económico;
 
 VII. Secretaría de Planeación; y
 
-VIII. Contraloría General del Estado.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+
+VIII.- Contraloría General del Estado; y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+
+IX.- Secretaría de Turismo.
 
 El Procurador General de Justicia es el consejero y representante jurídico del Gobierno del Estado, y ejercerá las funciones que la Constitución Política del Estado y demás disposiciones legales le confieren.
 
@@ -649,6 +655,112 @@ XXXII. Celebrar los convenios operativos derivados de los suscritos por el Gober
 
 XXXIII. Ejercer las atribuciones y facultades que le señalen las demás leyes, convenios, acuerdos, reglamentos y ordenamientos de carácter general.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+
+###### ARTICULO 42-A.
+
+La Secretaría de Turismo es la dependencia encargada de la planeación, programación, fomento, apoyo y vigilancia de la actividad turística del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+
+###### ARTICULO 42-B.
+
+La representación de la Secretaría de Turismo y el trámite y resolución de los asuntos de su competencia, corresponden originariamente al Secretario de Turismo, quien podrá delegar cualquiera de sus facultades, a los titulares de las Unidades Administrativas señaladas en el Artículo 47 Fracción VIII de esta Ley, excepto aquellas que por disposición legal deba ejercer directamente.
+
+Los Directores Generales, en la materia de su competencia, suplirán en sus ausencias temporales al Secretario de Turismo, y tendrán las atribuciones, funciones y obligaciones que el Secretario, las leyes estatales o los reglamentos les asignen, quienes además apoyarán al Secretario en la coordinación y seguimiento de los trabajos de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+
+###### ARTICULO 42-C.
+
+A la Secretaría de Turismo corresponde el despacho de los siguientes asuntos:
+
+I.- Proponer al Gobernador del Estado las políticas y programas relativos al fomento turístico del Estado;
+
+II.- Organizar, promover y coordinar las acciones necesarias para lograr el mejor aprovechamiento de los recursos turísticos del Estado;
+
+III.- Vigilar en la esfera de su competencia, el cumplimiento de la Ley Federal de Turismo, las disposiciones locales de la materia y demás ordenamientos legales aplicables;
+
+IV.- Proponer ante la Secretaría de Economía, la inversión extranjera que pudiera concurrir en proyectos de desarrollo o en el establecimiento de servicios en el Estado, en materia turística;
+
+V.- Participar coordinadamente en los diferentes trabajos turísticos que realicen las Autoridades Federales, los Ayuntamientos y los Sectores Social y Privado;
+
+VI.- Promover y estimular en coordinación con las autoridades competentes, la creación de empresas y desarrollos turísticos ejidales o comunales;
+
+VII.- Autorizar los reglamentos internos de los establecimientos turísticos de la Entidad;
+
+VIII.- Llevar un registro de los reglamentos internos de establecimientos de hospedaje, así como las especificaciones y características de los paquetes manejados por agencias de viajes;
+
+IX.- Celebrar, previa autorización del titular del Ejecutivo del Estado, Convenios y Acuerdos con la Federación y Municipios de la Entidad, así como los organismos de carácter privado nacionales e internacionales, para promover el desarrollo turístico;
+
+X.- Desempeñar y ejecutar las comisiones y encargos que sean conferidos por el Gobernador;
+
+XI.- Formular, planear y desarrollar programas locales de turismo, de conformidad con el Plan Nacional de Desarrollo, el Programa Sectorial y el Plan Estatal de Desarrollo;
+
+XII.- Establecer los medios para la coordinación con las demás Entidades Federativas y los Municipios del Estado, para la publicación y cumplimiento de los objetivos de la Ley Federal de Turismo, el Convenio de Coordinación que el Gobierno Federal suscribió con el Gobierno del Estado, así como las demás disposiciones legales aplicables;
+
+XIII.- Elaborar, recopilar, actualizar y registrar la información estadística de los servicios y centros turísticos locales;
+
+XIV.- Fomentar la creación, conservación mejoramiento y habilitación de los recursos naturales de zonas arqueológicas, obras y objetos artísticos, históricos o culturales, zonas de descanso, así como los atractivos turísticos del Estado, de acuerdo a las disposiciones legales aplicables;
+
+XV.- Promover e impulsar la infraestructura básica y de servicios urbanos en áreas de interés turístico;
+
+XVI.- Estimular la participación de los sectores social y privado con capitales nacionales y/o extranjeros, para el desarrollo y habilitación de centros y proyectos turísticos;
+
+XVII.- Proyectar, promover y apoyar el desarrollo de la infraestructura turística, con la participación de los sectores social y privado;
+
+XVIII.- Promover y fomentar la calidad en la prestación de servicios turísticos, impulsando la creación o mejoramiento de hoteles, restaurantes, balnearios, desarrollos náuticos de pesca, deportivos y recreativos, entre otros;
+
+XIX.- Gestionar e impulsar los servicios de transportación exclusiva para el turismo, en destinos y áreas naturales turísticas;
+
+XX.- Coordinar, apoyar y supervisar conjuntamente con los Municipios las zonas naturales y destinos turísticos locales;
+
+XXI.- Apoyar y gestionar ante las diferentes instancias al acceso oportuno y eficaz del turista a los servicios colaterales de Seguridad Pública, Transportación, Sanidad y Salud, entre otros;
+
+XXII.- Promover, apoyar y coordinar la organización de los prestadores de servicios turísticos en los diferentes giros, para integrar asociaciones, comités o patronatos de carácter público, privado, social y mixto, orientados a la promoción del turismo local, así como el fomento e impulso de su desarrollo cualitativo;
+
+XXIII.- Instrumentar y coordinar un sistema de auto evaluación para el otorgamiento de estímulos a los prestadores de servicios turísticos que destaquen en el desarrollo y mejoramiento continuo de la calidad de la prestación de los servicios turísticos;
+
+XXIV.- Apoyar la elaboración de programas educativos y de capacitación de la actividad turística, para la formación de profesionales y técnicos en turismo en coordinación con el Instituto de Educación de Aguascalientes y la Secretaría de Turismo;
+
+XXV.- Promover la capacitación de servidores públicos estatales y municipales vinculados alas actividades turísticas, de los sectores social y privado, sean personas físicas o morales;
+
+XXVI.- Otorgar asesoría y asistencia técnica a prestadores de servicios turísticos de los distintos giros, para la capacitación continua de sus empleados y operarios orientados a la calidad del servicio y atención personalizada del usuario;
+
+XXVII.- En coordinación con la Federación y los Ayuntamientos, proporcionar información y orientación al turista sobre los sitios de interés cultural, histórico y artístico, así como las zonas naturales del Estado;
+
+XXVIII.- Captar, organizar, difundir y validar todo tipo de información utilizada para el apoyo y orientación sobre los servicios turísticos que se ofrecen en la Entidad, así como registrar y actualizar el directorio estatal de servicios turísticos;
+
+XXIX.- Vigilar, organizar y verificar el cumplimiento de las medidas de asistencia, auxilio y protección de turista, así como participar en coordinación con las dependencias involucradas en acciones de auxilio a los turistas en caso de emergencia o desastre;
+
+XXX.- Coordinar el diseño y la preparación de la información y ejecución de campañas publicitarias para incrementar el turismo hacia los atractivos locales, y apoyar en este rubro a los prestadores de servicios turísticos, sean personas físicas o morales, públicas o privadas;
+
+XXXI.- Actualizar y operar el registro estatal de prestadores de servicios turísticos, otorgando una credencial que acredite al prestador de servicios la modalidad y calidad del mismo;
+
+XXXII.- Concertar con los prestadores de servicios turísticos, la integración de una oferta consolidada y continua para grupos organizados de vacacionistas nacionales y extranjeros, con garantía de tiempo, calidad y precio;
+
+XXXIII.- Participar conjuntamente con la Secretaría de Turismo Federal, las diversas acciones que se diseñen para alentar al turismo nacional y extranjero hacia los atractivos turísticos locales;
+
+XXXIV.- Difundir en los distintos medios masivos de comunicación los atractivos naturales, histórico-monumentales o culturales existentes en el Estado;
+
+XXV.- Organizar, coordinar, promover, fomentar y llevar a cabo espectáculos, congresos, ferias, exposiciones, convenciones, audiciones, excursiones, así como las actividades culturales, deportivas, folklóricas y de entretenimiento, orientadas a promover el turismo nacional y extranjero hacia el Estado;
+
+XXXVI.- Participar, apoyar y realizar estudios técnicos previos en zonas y áreas aptas para el desarrollo turístico, orientados a la preservación y protección del medio ambiente y la ecología del Estado;
+
+XXXVII.- Intervenir en la administración, coordinación y distribución de fondos mixtos de promoción y desarrollo turístico, así como los impuestos derivados de la prestación de servicios turísticos;
+
+XXXVIII.- Turnar sistemáticamente información dinámica del régimen estatal de prestadores de servicios turísticos, a la instancia competente de la Secretaría de Turismo Federal, para efecto de mantener integrado y actualizado el Registro Nacional de Turismo;
+
+XXXIX.- Atender y dar seguimiento a las quejas interpuestas por usuarios en contra de prestadores de servicios turísticos por infracciones a la normatividad turística federal, estatal y municipal;
+
+XL.- Controlar la prestación de los servicios turísticos, a través de visitas de verificación, vigilando que los establecimientos y los prestadores de servicios, cumplan con la Ley Federal de Turismo y demás disposiciones legales aplicables;
+
+XLI.- Aplicar las sanciones correspondientes a los prestadores de servicios turísticos, de acuerdo a los causales y el procedimiento establecido por las leyes vigentes;
+
+XLII.- Atender los recursos de revisión que se interpongan contra resoluciones referentes a sanciones dictaminadas localmente con apego al procedimiento previsto en las legislaciones aplicables; y
+
+XLIII.- Las demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
+
 ###### ARTICULO 43.
 
 La Contraloría General del Estado es la dependencia encargada de establecer normas para la realización de auditorías, así como la vigilancia, fiscalización y control de los ingresos, gastos, recursos y obligaciones de las dependencias y entidades de la Administración Pública Estatal, de los órganos autónomos que ejerzan presupuesto del Estado, exceptuando a los que de manera expresa determine la Ley, así como de lo relativo a la manifestación patrimonial y responsabilidad de los servidores públicos.
@@ -875,6 +987,22 @@ c) Dirección General de Responsabilidades; y
 
 d) Dirección General Jurídica.
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+
+VIII.- SECRETARIA DE TURISMO:
+
+a) Dirección de Promoción y Fomento;
+
+b) Dirección de Desarrollo, Capacitación y Asistencia Turística;
+
+c) Dirección de Asuntos Jurídicos;
+
+d) Dirección Administrativa;
+
+e) Dirección de Planeación e Informática; y
+
+f) Dirección de Comunicación y Difusión.
+
 ### CAPITULO QUINTO. De los Tribunales Laborales
 
 ###### ARTICULO 48.
@@ -952,3 +1080,17 @@ P.O. 7 DE JUNIO DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Congreso del Estado dentro del término de sesenta días contados a partir de la publicación en el Periódico Oficial del presente decreto, deberá realizar las reformas y adiciones necesarias a la Ley de Seguridad Pública del Estado de Aguascalientes a efecto de establecer las facultades y esfera de competencias del Centro de Control y Evaluación de la Actividad Policía.
+
+P.O. 30 DE NOVIEMBRE DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El titular del Poder Ejecutivo presentará en la iniciativa de Presupuesto de Egresos para el ejercicio fiscal del año 2005 las medidas convenientes para la creación reestructuración y operación de la Secretaría de Turismo propuesta en esta iniciativa.
+
+TERCERO.- Al crearse la Secretaría de Turismo, se transfieren a ésta, de la Coordinadora de Turismo para el Estado de Aguascalientes, el personal de base que continúe laborando a su servicio, sin perjuicio de sus derechos adquiridos, el mobiliario, los vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo que tal Coordinadora haya venido usando para la atención de los asuntos que tuviera encargados conforme a las modificaciones realizadas en este ordenamiento.
+
+CUARTO.- Cuando la competencia de alguna dependencia o entidad establecida con anterioridad a la vigencia del presente Decreto, deba ser ejercida por otra u otras de las que él mismo establece, pasarán los expedientes en trámite y el archivo a la dependencia o entidad competente que corresponda, y los asuntos que se encuentren en trámite competerá a la Secretaría de Turismo concluir la substanciación y dictar la resolución correspondiente.
+
+QUINTO.- El Poder Ejecutivo contará con ciento ochenta días naturales, contados a partir del día siguiente de la publicación de este Decreto, para la expedición del Reglamento Interior respectivo.
+
+SEXTO.- Las bases normativas, acuerdos, manuales de procedimientos utilizados y actos jurídicos celebrados por la Coordinadora de Turismo para el Estado de Aguascalientes, en materia de turismo, a la entrada en vigor del presente Decreto serán competencia exclusiva de la Secretaría de Turismo.
