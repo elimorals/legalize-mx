@@ -4,7 +4,7 @@ identifier: "GUA-codigo-fiscal-para-el-estado-de-guanajuato-12559"
 country: "mx"
 rank: "codigo"
 publication_date: "1978-12-31"
-last_updated: "1997-07-04"
+last_updated: "2001-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO FISCAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2001.
 
 Código publicado en la Segunda Parte Anexo del Periódico Oficial del Estado de Guanajuato, el domingo 31 de diciembre de 1978.
 
@@ -1109,223 +1109,133 @@ En el acto de clausura deberán observarse las mismas formalidades que establece
 
 Una vez clausurado un local o establecimiento, la Secretaría de Administración Financiera podrá levantar la clausura, en los casos que corresponda, o cuando exista resolución de autoridad judicial o laboral para tales efectos.
 
-## TITULO SEPTIMO. DE LOS DELITOS
+> <small>(DEROGADO CON EL CAPITULO, SECCIONES Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)</small>
+
+## TITULO SEPTIMO
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)</small>
 
 ### CAPITULO UNICO
 
-#### SECCION PRIMERA. Delito Fiscal
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO , P.O. 2 DE NOVIEMBRE DE 2001)</small>
+
+#### SECCION PRIMERA
 
 ###### ARTICULO 82.
 
-Delito Fiscal es la conducta típicamente antijurídica, imputable, culpable y punible.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 83.
 
-Son delitos fiscales los tipificados en este Código. Las penas aplicables son las previstas en este Ordenamiento.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 84.
 
-Los delitos fiscales sólo pueden ser de comisión intencional.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 85.
 
-El proceso penal será independiente del proceso administrativo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
-#### SECCION SEGUNDA. Reglas Generales
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO , P.O. 2 DE NOVIEMBRE DE 2001)</small>
+
+#### SECCION SEGUNDA
 
 ###### ARTICULO 86.
 
-Para proceder penalmente por los delitos fiscales previstos en este Código, será necesario:
-
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
-
-I.- Que la Secretaría de Administración Financiera formule, en los casos en que proceda, la querella correspondiente de conformidad con lo establecido en el Código de Procedimientos Penales del Estado; y
-
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
-
-II.- Que la Secretaría declare previamente que el Fisco ha sufrido o pudo sufrir perjuicio.
-
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
-
-Cuando los procesados por delitos a que se refiere este capítulo, paguen íntegramente las prestaciones fiscales originadas por los hechos imputados, o bien, a juicio de la Secretaría de Administración Financiera quede debidamente garantizado el interés fiscal, la misma Secretaría podrá solicitar el sobreseimiento del proceso por el delito fiscal, antes de que el Ministerio Público formule conclusiones.
-
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
-
-En los casos de delitos fiscales en que el daño patrimonial al Erario Estatal sea cuantificable, la Secretaría de Administración Financiera acompañará la documentación que acredite su monto en la propia querella, o bien durante la tramitación del proceso respectivo antes de que el Ministerio Público formule conclusiones.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 87.
 
-Para que proceda la condena condicional cuando se incurra en delitos fiscales, además de los requisitos señalados en el Código Penal del Estado, será preciso acreditar que el interés fiscal esté satisfecho o garantizado.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 88.
 
-En los delitos fiscales la autoridad judicial no impondrá sanción pecuniaria.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 89.
 
-Las autoridades administrativas con arreglo a las leyes fiscales, harán efectivos los gravámenes eludidos y las sanciones administrativas correspondientes.
-
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 90.
 
-La acción penal que nazca de delitos fiscales prescribirá en tres años, contados desde el día en que la Secretaría de Administración Financiera tenga conocimiento del delito y del responsable y si no tiene ese conocimiento, en cinco años, que se computarán a partir de la fecha de la comisión del delito.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 91.
 
-En todo lo no previsto respecto a los delitos fiscales, serán aplicables las disposiciones penales del Código Penal y de Procedimientos Penales del Estado.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 92.
 
-Es autor el que comete el delito fiscal por sí o por medio de otro que sea inimputable o inculpable y quedará sujeto a la sanción prevista para el delito fiscal cometido.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
-#### SECCION TERCERA. Delitos Fiscales
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO , P.O. 2 DE NOVIEMBRE DE 2001)</small>
+
+#### SECCION TERCERA
 
 ###### ARTICULO 93.
 
-Se impondrá prisión hasta de tres años a quien practique o pretenda practicar visitas domiciliarias sin mandamiento escrito de la autoridad fiscal competente.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 94.
 
-Se impondrá de 3 días a 5 años de prisión, a quien:
-
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
-
-I.- Grabe o manufacture, sin autorización de la Secretaría de Administración Financiera, matrices, punzones, dados, clichés o negativos, semejantes a los que la propia Secretaría use para imprimir, grabar o troquelar calcomanías, formas valoradas enumeradas, placas o tarjetones, así como falsificar firmas y sellos;
-
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
-
-II.- Imprima, grabe o troquele calcomanías, formas valoradas o numeradas, placas, tarjetones o cualquier comprobante de pago de prestaciones fiscales, sin la autorización de la Secretaría de Administración Financiera;
-
-III.- Altere en su valor, en el año de edición, en el resello, leyenda o clase, calcomanías, formas valoradas o numeradas, placas, tarjetones o comprobantes de pago de prestaciones fiscales, legalmente emitidos; y
-
-IV.- Posea, venda o ponga en circulación calcomanías, formas valoradas o numeradas, placas o tarjetones de emisión ya fenecida.
-
-Esta sanción se aplicará aún cuando el responsable no se haya propuesto obtener algún provecho.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 95.
 
-Comete delito de uso de calcomanías, formas valoradas o numeradas, placas, tarjetones o cualquier otro medio de control fiscal, falsificados:
-
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
-
-I.- Quien a sabiendas de que fueron impresos o grabados sin autorización de la Secretaría de Administración Financiera, los posea, venda, ponga en circulación o, en su caso los adhiera en objetos, documentos o libros, o use en cualquier otra forma para ostentar el pago de alguna prestación fiscal;
-
-II.- Quien los posea, venda, ponga en circulación o los utilice para el pago de alguna prestación fiscal, alterados en su valor, año de emisión, resello, leyenda o clase a sabiendas de ésta circunstancia;
-
-III.- Quien posea, venda, ponga en circulación o en alguna otra forma comercie con dichos objetos si son manufacturados con fragmentos o recortes de otros; y
-
-IV.- Quien utilice dichos objetos para pagar alguna prestación fiscal a sabiendas de que se trata de los manufacturados con fragmentos o recortes de otros.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 96.
 
-El delito tipificado en el artículo anterior, será sancionado con prisión de 3 días a tres años.
-
-Al funcionario o empleado público en que cualquier forma participe en el delito citado, se le impondrá de uno a cinco años de prisión.
-
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 97.
 
-Para la comprobación de los delitos previstos en los artículos 94 y 95, se deberá recabar en la averiguación previa, dictamen de peritos designados por la Secretaría de Administración Financiera.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 98.
 
-Comete el delito de defraudación fiscal, quien haga uso de engaños y aproveche errores para omitir total o parcialmente el pago de alguna prestación fiscal; para la determinación de la pena se atenderán las reglas establecidas que le correspondan conforme lo previenen los Artículos 282, 268 y 269 del Código Penal del Estado.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 99.
 
-La pena que corresponde al delito de defraudación fiscal, se impondrá también, a quien:
-
-I.- Mediante la simulación de actos jurídicos omita total o parcialmente el pago de los impuestos a su cargo;
-
-II.- Omita presentar las declaraciones o manifestaciones para efectos fiscales a que estuviere obligado o consigne en las que presente ingresos menores a los realmente percibidos;
-
-III.- Proporcione con falsedad a las autoridades fiscales que lo requieran, los datos que obren en su poder y que sean necesarios para determinar la producción, la base gravable o los impuestos que causen;
-
-IV.- Oculte a las autoridades fiscales, total o parcialmente la producción sujeta a impuestos o el monto de las ventas;
-
-V.- Como fabricante, porteador, comerciante o expendedor haga circular productos sin los requisitos de control fiscal;
-
-VI.- No entere a las autoridades fiscales, dentro del plazo del requerimiento que se le haga, las cantidades que haya retenido o recaudado de los causantes, por concepto de impuestos;
-
-VII.- Para registrar sus operaciones contables, fiscales o sociales, lleve dos o más libros similares con distintos asientos o datos, aún cuando se trate de libros no autorizados;
-
-VIII.- Destruya, ordene o permita la destrucción total o parcial, dejándolos ilegibles, de los libros de contabilidad que prevengan las Leyes Mercantiles o las disposiciones fiscales;
-
-IX.- Utilice pastas o encuadernaciones de los libros a que se refiere la fracción anterior para sustituir o cambiar las páginas foliadas;
-
-X.- Tenga doble juego de registros mecánicos y electrónicos;
-
-XI.- Confeccione o utilice facturas, notas o comprobantes apócrifos;
-
-XII.- Haga mal uso de los incentivos fiscales o los aplique para fines distintos del que fueron otorgados; y
-
-XIII.- Se acoja a los beneficios relativos a los causantes, sujetos a cuota fija, sin que su situación fiscal coincida con la de ellos.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 100.
 
-Para los fines del artículo que antecede se tomará en cuenta el monto de lo defraudado o que se haya intentado defraudar.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 101.
 
-Se impondrá prisión hasta de tres años, a quien:
-
-I.- Elabore productos gravados sin cumplir con las obligaciones que al efecto exijan las Leyes Fiscales;
-
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
-
-II.- Haga la elaboración de productos gravados con autorización legal, pero con equipo cuya existencia ignore la Secretaría de Administración Financiera o que sin esa autorización hayan sido modificados;
-
-III.- Efectúe la elaboración empleando materias primas distintas de las autorizadas;
-
-IV.- A las personas que después de haber dado aviso de suspensión de operaciones o de clausura, dentro del período que comprende la suspensión o con posterioridad a la fecha de la clausura, realicen operaciones de las señaladas en las fracciones anteriores; y
-
-V.- A las personas que después de haber dado aviso de traspaso o de cambio de nombre, continúen realizando las operaciones gravadas sin estar amparadas con una nueva autorización para operar o que realicen operaciones gravadas bajo el nombre anterior.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 102.
 
-Comete delito de Comercio Clandestino, quien se dedique al ejercicio del comercio por más de dos meses, sin cumplir con los requisitos que para iniciar esa actividad establezcan las Leyes Fiscales.
-
-En este caso, se impondrá al sujeto prisión hasta por tres años.
-
-Se equiparará al delito de comercio clandestino y se castigará con la misma pena, al hecho de que alguna persona se dedique por más de dos meses a cualquiera otra actividad que genere impuestos, sin cumplir los requisitos fiscales previstos para tales actividades.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 103.
 
-Son encubridores de los delitos tipificados en los dos artículos anteriores, quienes a sabiendas de que la elaboración o el comercio se realizan en las condiciones a que se refieren las disposiciones citadas, trasladen, adquieran o permitan el tráfico de los productos o mercancías.
-
-Los encubridores serán sancionados con prisión de tres días a cinco años.
-
-Los empleados y funcionarios públicos, incurrirán en el encubrimiento, si teniendo conocimiento no intervienen en el ejercicio de sus funciones.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 104.
 
-Comete el delito de rompimiento de sellos en materia fiscal, quien sin autorización legal altere o destruya los aparatos de control, sellos o marcas oficiales colocados con finalidad fiscal, o impida por medio de cualquier maniobra que se logre el propósito para el que fueron colocados.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 105.
 
-Al que cometa el delito de rompimiento de sellos, se le impondrá la pena de 3 meses a 3 años de prisión.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 106.
 
-Se sancionará de seis meses a tres años de prisión:
-
-I.- Al que sin causa justificada por vía de hecho se oponga o resista a las visitas de inspección o a proporcionar datos, informes o documentos que soliciten las autoridades fiscales en el desempeño de sus funciones; y
-
-II.- Al que agotados los medios legales de apremio indebidamente se rehusare a comparecer ante la autoridad o a cumplir un mandato legítimo de la misma.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 107.
 
-Se aplicará prisión de 6 meses a 10 años al funcionario o empleado público que disponga de un bien en razón de pago o depósito derivado de alguna prestación fiscal, que con motivo de sus funciones esté obligado a recibir.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 108.
 
-Se aplicará de 6 meses a 5 años de prisión:
-
-I.- Al funcionario o empleado público que solicite, reciba o acepte promesas de dinero, dádivas o ventajas pecuniarias, para hacer u omitir un acto que se traduzca o pueda traducirse en la evasión o incumplimiento de una prestación fiscal; y
-
-II.- Al que ofrezca o prometa dinero, dádivas o ventajas pecuniarias a un funcionario o empleado público para que haga u omita un acto que se traduzca o pueda traducirse en la evasión o incumplimiento de una prestación fiscal.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
 ## TITULO OCTAVO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
@@ -2242,3 +2152,11 @@ P.O. 4 DE JULIO DE 1997.
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO ENTRARA EN VIGOR EL CUARTO DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+P.O. 2 DE NOVIEMBRE DE 2001.
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON EL PRESENTE CODIGO.
+
+Artículo Primero.- Este Código entrará en vigor el 1º primero de enero del 2002 dos mil dos, previa publicación, junto con su dictamen, en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Cuarto.- Se deroga el Título Séptimo del Código Fiscal para el Estado de Guanajuato.
