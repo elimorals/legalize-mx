@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-agua-potable-alcantarillado-y-saneamiento-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-25"
-last_updated: "2001-03-20"
+last_updated: "2001-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AGUA POTABLE, ALCANTARILLADO, TRATAMIENTO Y DISPOSICION DE AGUAS RESIDUALES PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, PUBLICADA EN EL PERIODICO OFICIAL EL 29 DE DICIEMBRE DE 2001.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el jueves 25 de enero de 1996.
 
@@ -1514,3 +1516,75 @@ P.O. 20 DE MARZO DE 2001.
 PRIMERO. Lo dispuesto en el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2001.
+
+PRIMERO. La presente Ley entrará en vigor a los cinco días siguientes a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Agua Potable, Alcantarillado y Saneamiento del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el 25 de enero de 1996, y se derogan todas las disposiciones que se opongan a esta Ley.
+
+TERCERO. A partir de la entrada en vigor de la presente Ley, la Comisión Estatal de Agua Potable, Alcantarillado y Saneamiento del Estado de San Luis Potosí, se transforma en la Comisión Estatal del Agua y se sujetará a las disposiciones que se prevén en esta Ley, debiendo adecuar su estructura en un plazo de hasta cuarenta y cinco días naturales, contados a partir de la entrada en vigor de esta Ley.
+
+El Congreso del Estado convocará y constatará la integración de la Junta de Gobierno de la Comisión Estatal del Agua, misma que deberá entrar en funciones en un plazo de hasta diez días naturales, contados a partir de su entrada en vigor.
+
+CUARTO. Los integrantes del Consejo Consultivo de la Comisión Estatal del Agua serán designados por la Junta de Gobierno de la Comisión Estatal del Agua, la que sesionará válidamente con el resto de los miembros que prevé esta Ley, hasta en tanto se incorporen las personas del citado Consejo Consultivo que pasen a ser integrantes de la misma.
+
+QUINTO. A partir de la entrada en vigor de la presente Ley, subsistirán los siguientes organismos operadores, creados conforme a los decretos emitidos con base en la Ley de Agua Potable, Alcantarillado y Saneamiento del Estado; cuyas disposiciones son derogadas en los términos del artículo Transitorio Segundo de este Decreto.
+
+ORGANISMO SIGLAS MUNICIPIO
+
+1.- AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO. APASCAR CARDENAS
+
+2.- ORGANISMO PARAMUNICIPAL DE AGUA DRENAJE Y SANEAMIENTO. OPAC CEDRAL
+
+3.- DIRECCION DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO. DAPA CIUDAD VALLES
+
+4.- DIRECCION DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO. SAPASCH CHARCAS
+
+5.- SERVICIOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO. SAPSAM MATEHUALA
+
+6.- SISTEMA INTEGRAL DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO. SINAPAS EL NARANJO
+
+7.- DIRECCION DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO. DAPAS SAN CIRO DE ACOSTA
+
+8.- AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO. APAST TAMAZUNCHALE
+
+9.- ORGANISMO OPERADOR DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO. DAPAS EBANO
+
+10.- SERVICIOS DE AGUA Y SANEAMIENTO AMBIENTAL. SASAR RIOVERDE
+
+11.- ORGANISMO OPERADOR DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO. OOAPASR RAYON
+
+12.- DIRECCION DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO. DAPAT TAMUIN
+
+13.- AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO. APAS CIUDAD DEL MAIZ
+
+14.- ORGANISMO INTERMUNICIPAL METROPOLITANO, DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO Y SERVICIOS CONEXOS DE LOS MUNICIPIOS DE CERRO DE SAN PEDRO, SAN LUIS POTOSI Y SOLEDAD DE GRACIANO SANCHEZ. INTERAPAS CERRO DE SAN PEDRO SAN LUIS POTOSI SOLEDAD DE GRACIANO SANCHEZ
+
+15.- ORGANISMO OPERADOR Y ADMINISTRADOR DEL SERVICIO PUBLICO DE AGUA POTABLE Y ALCANTARILLADO. OOSAPA CIUDAD FERNANDEZ
+
+16.- ORGANISMO OPERADOR Y ADMINISTRADOR DEL SERVICIO PUBLICO DE AGUA POTABLE Y ALCANTARILLADO. SEPARAR EL REFUGIO, CIUDAD FERNANDEZ
+
+17.- ORGANISMO OPERADOR DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LA COMUNIDAD DE HUICHIHUAYAN. SEPAPCHI HUEHUETLAN
+
+SEXTO. Los organismos operadores mencionados en el artículo anterior, se sujetarán a las disposiciones que para los organismos operadores paramunicipales e intermunicipales, según sea el caso, prevé esta Ley, debiendo adecuar su estructura en un plazo de hasta cuarenta y cinco días naturales, contados a partir de la entrada en vigor de esta Ley.
+
+El Congreso del Estado convocará a los funcionarios que, en los términos de la presente Ley, deberán integrar las Juntas de Gobierno de los organismos operadores, mismas que deberán entrar en funciones en un plazo de hasta cuarenta y cinco días naturales, contados a partir de la entrada en vigor de esta Ley, realizándose durante dicho plazo la instalación y toma de posesión de las Juntas de Gobierno de los diferentes organismos operadores.
+
+SEPTIMO. Los integrantes de los Consejos Consultivos que correspondan a cada organismo operador, serán designados por su Junta de Gobierno, la que una vez integrada en los términos del artículo anterior, sesionará válidamente con el resto de sus miembros que prevé esta Ley, hasta en tanto se incorporen las personas del citado Consejo Consultivo que pasen a ser integrantes de la misma.
+
+OCTAVO. Quienes a la entrada de la presente Ley se desempeñen como Directores de los organismos a que se refiere el artículo Quinto Transitorio de este Decreto, continuarán fungiendo como tales, sin perjuicio de las facultades de remoción y nombramiento de las juntas de gobierno.
+
+NOVENO. En la adecuación de la estructura de la Comisión Estatal del Agua y de los organismos operadores paramunicipales e intermunicipales, deberá respetarse la Ley de Entrega-Recepción de los Recursos Públicos del Estado; en la inteligencia de que todo el proceso será vigilado por la Contaduría Mayor de Hacienda del Congreso del Estado, conforme a sus atribuciones.
+
+DECIMO. Los organismos operadores paramunicipales e intermunicipales y la Comisión Estatal del Agua, deberán publicar su reglamento interno dentro de un plazo no mayor de noventa días contados a partir de la entrada en vigor de esta Ley.
+
+DECIMO PRIMERO. El Ejecutivo del Estado expedirá el reglamento de la presente Ley, en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor de la misma.
+
+DECIMO SEGUNDO. En tanto se determinan las cuotas y tarifas por la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, en los términos previstos en la presente Ley, los prestadores de estos servicios públicos continuarán aplicando las cuotas y tarifas que hasta esta fecha se aplican.
+
+DECIMO TERCERO. En tanto se formalizan nuevos contratos entre concesionario y usuario para la prestación de los servicios conforme a esta Ley, seguirán vigentes los celebrados con el organismo operador, mismos que para los servicios futuros, se ajustarán a lo dispuesto en la presente Ley.
+
+Los usuarios están obligados a celebrar sin costo alguno, un nuevo contrato con el concesionario a partir de la fecha en que sean requeridos para ello.
+
+DECIMO CUARTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos por las autoridades y organismos competentes en los términos de la ley que se abroga.
