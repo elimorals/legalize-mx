@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-administracion-publica-del-21337"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-12-15"
-last_updated: "1999-04-04"
+last_updated: "2001-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE JESUS MARIA, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2001.
 
 Reglamento publicado en el Suplemento, Primera Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de diciembre de 1996.
 
@@ -59,7 +59,7 @@ Las dependencias municipales deberán apegarse a las políticas, prioridades y r
 
 Cuando exista confusión en las funciones de más de una dependencia para la atención de algún asunto, éstas se someterán a un análisis que determinará a quien corresponde la función respectiva. De persistir la duda, el Presidente Municipal resolverá en definitiva a cual dependencia será asignada la función, lo que deberá constar en el presente Reglamento.
 
-### CAPITULO ll. De las Autoridades del Gobierno Municipal
+### CAPITULO II. De las Autoridades del Gobierno Municipal
 
 ###### ARTICULO 6o.
 
@@ -93,31 +93,43 @@ VI.- Los Jefes de Manzana.
 
 ### CAPITULO III. De las Dependencias Municipales
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 9o.
 
 Para el estudio, planeación y despacho de los asuntos de su competencia la Administración Pública Municipal contará con las siguientes Dependencias:
 
-- Presidencia Municipal.
+I.- Presidencia Municipal;
 
-- Secretaría Particular.
+II.- Secretaría Particular;
 
-- Presidencia del Comité Municipal del Sistema para el Desarrollo Integral de la Familia y Voluntariado.
+III.- Presidencia del Comité Municipal del Sistema para el Desarrollo Integral de la Familia y Voluntariado;
 
-- Secretaria de Honorable Ayuntamiento y Dirección de Gobierno.
+IV.- Secretaría de Ayuntamiento y Dirección General de Gobierno;
 
-- Tesorería Municipal.
+V.- Tesorería Municipal;
 
-- Dirección de Obras Públicas y Planeación.
+VI.- Dirección de Planeación;
 
-- Dirección de Administración.
+VII.- Dirección de Obras Públicas;
 
-- Dirección de Servicios Públicos Municipales.
+VIII.- Direción de Administración;
 
-- Dirección de Seguridad Pública y Vialidad Municipal.
+IX.- Dirección de Desarrollo Social;
 
-- Dirección de Salud Municipal.
+X.- Dirección de Comunicación Social;
+
+XI.- Dirección de Servicios Públicos;
+
+XII.- Contraloría Municipal;
+
+XIII.- Dirección de Seguridad Pública;
+
+XIV.- Dirección de Asuntos Jurídicos;
+
+XV.- Dirección de Tránsito y Vialidad; y
+
+XVI.- Dirección de Salud Municipal.
 
 ###### ARTICULO 10.
 
@@ -151,7 +163,7 @@ XIII.- Los demás órganos que sean creados por el H. Ayuntamiento, que responda
 
 ### CAPITULO IV. De la Estructura de la Administración Pública Municipal
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 11.
 
@@ -159,117 +171,189 @@ Las Dependencias de la Administración Pública Municipal están estructuradas d
 
 PRESIDENCIA MUNICIPAL:
 
-- Secretaría Particular.
+I.- Secretaría Particular;
 
-- Presidencia del Comité Municipal del Sistema para el Desarrollo Integral de la Familia y Voluntariado.
+II.- Presidencia y Dirección del Comité Municipal del Sistema para el Desarrollo Integral de la Familia y Voluntariado;
 
-- Secretaria del H. Ayuntamiento.
+III.- Secretaría del Ayuntamiento y Dirección General de Gobierno;
 
-- Tesorería Municipal.
+IV.- Tesorería Municipal;
 
-- Dirección de Obras Públicas y Planeación.
+V.- Contraloría Municipal;
 
-- Dirección de Administración.
+VI.- Dirección de Planeación.
 
-- Dirección de Servicios Públicos Municipales.
+VII.- Dirección de Obras Públicas;
 
-- Dirección de Desarrollo Social.
+VIII.- Dirección de Administración;
 
-- Dirección de Seguridad Pública y Vialidad del Municipio.
+IX.- Dirección de Desarrollo Social;
 
-- Dirección de Salud Municipal.
+X.- Dirección de Comunicación Social;
+
+XI.- Dirección de Servicios Públicos;
+
+XII.- Dirección de Seguridad Pública;
+
+XIII.- Dirección de Tránsito y Vialidad;
+
+XIV.- Dirección de Asuntos Jurídicos;
+
+XV.- Dirección de Salud; y
+
+XVI.- Coordinaciones de Asesores, Administrativa y Operativa.
 
 SECRETARIA PARTICULAR:
 
-- Departamento de Giros y Eventos.
+I.- Departamento de Giros y Eventos; y
 
-- Departamento de atención Ciudadana y Comunicación Social.
+II.- Departamento de Atención Ciudadana.
 
-PRESIDENCIA DEL COMITE MUNICIPAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA Y VOLUNTARIADO.
+PRESIDENCIA DEL COMITE MUNICIPAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA Y VOLUNTARIADO:
 
-- Dirección del Comité para el Desarrollo Integral de la Familia.
+I.- Dirección del Comité Municipal del Sistema para el Desarrollo Integral de la Familia y Voluntariado;
 
-- Departamento Jurídico.
+II.- Departamento Jurídico.
 
-- Departamento de Trabajo Social.
+III.- Departamento de Trabajo Social.
 
-- Departamento del Servicio Médico.
+IV.- Departamento del Servicio Médico.
 
-- Departamento del Centro de Desarrollo Infantil.
+V.- Departamento del Centro de Desarrollo Infantil; y
 
-- Departamento Servicios Generales.
+VI.- Departamento Servicios Generales.
 
-SECRETARIA DEL H. AYUNTAMIENTO Y DIRECCION DE GOBERNACION:
+SECRETARIA DEL H. AYUNTAMIENTO Y DIRECCION GENERAL DE GOBIERNO:
 
-- Departamento de Reglamentos Municipales.
+I.- Subdirección de Reglamentos Municipales;
 
-- Departamento de Acción Cívica, Cultura y Deporte.
+II.- Unidad de Protección Civil Municipal;
+
+III.- Departamento de Acción Cívica, Cultura y Deporte; y
+
+V.- Departamento de Jueces Calificadores.
 
 TESORERIA MUNICIPAL:
 
-- Departamento de Ingresos.
+I.- Subdirección de Ingresos;
 
-- Departamento de Egresos.
+II.- Subdirección de Egresos;
 
-- Departamento de Contabilidad.
+III.- Departamento de Contabilidad; y
 
-DIRECCION DE OBRAS PUBLICAS Y PLANEACION:
+IV.- Departamento de Catastro.
 
-- Subdirección de Planeación.
+DIRECCION DE OBRAS PUBLICAS:
 
-- Subdirección de Obras Públicas.
+I.- Subdirección de Obras Públicas;
 
-- Departamento Administrativo.
+II.- Departamento de Proyectos;
+
+III.- Departamento de Control y Ejecución de Obra; y
+
+DIRECCION DE PLANEACION:
+
+I.- Departamento de Planeación Urbana y Rural;
+
+II.- Departamento de Control Urbano;
+
+III.- Departamento de Protección Ambiental;
+
+IV.- Departamento de Fraccionamientos y condominios.
 
 DIRECCION DE ADMINISTRACION:
 
-- Subdirección de Recursos Humanos.
+I.- Subdirección de Recursos Humanos;
 
-- Subdirección de Recursos Materiales.
+II.- Subdirección de Recursos Materiales; y
 
-- Subdirección de Servicios Generales.
+III.- Subdirección de Servicios Generales.
 
 DIRECCION DE SERVICIOS PUBLICOS:
 
-- Subdirección de Parques y Jardines.
+I.- Subdirección de Parques y Jardines;
 
-- Subdirección de Limpia y Aseo.
+II.- Subdirección de Limpia y Aseo.
 
-- Subdirección de Ecología y Protección al Ambiente.
+III.- Departamento de Alumbrado Público;
 
-- Departamento de Alumbrado Público.
+IV.- Departamento de Panteones;
 
-- Departamento de Panteones.
+V.- Departamento de Areas Comerciales; y
 
-- Departamento de Areas Comerciales.
-
-- Departamento de Rastro.
+VI.- Departamento de Rastro.
 
 DIRECCION DE DESARROLLO SOCIAL:
 
-- Subdirección de Concertación Social.
+I.- Subdirección de Educación, Cultura y Deportes;
 
-- Subdirección de Promoción Social.
+II.- Subdirección de Proyectos Especiales;
 
-- Subdirección de Educación, Cultura y Deporte.
+III.- Subdirección de Concertación Social;
 
-- Departamento Operativo Ramo XXXIII.
+IV.- Departamento Operativo Ramo XXXIII;
 
-- Departamento Educativo.
+V.- Departamento de Fondos Municipales;
 
-- Departamento de Estudios Sociales.
-
-- Departamento de Promoción Social.
-
-DIRECCION DE SEGURIDAD PUBLICA Y VIALIDAD DEL MUNICIPIO:
-
-- Subdirección de Seguridad Pública.
-
-- Subdirección de Tránsito Municipal y Comandancia.
+VI.- Departamento de Estudios Socioeconómicos;
 
 DIRECCION DE SALUD:
 
-- Departamento de Promoción y Coordinación.
+I.- Subdirección de Salud;
+
+II.- Jefe de Departamento de Regulación Sanitaria.
+
+DIRECCIÓN DE COMUNICACIÓN Y PROMOCION SOCIAL:
+
+I.- Subdirección de Comunicación;
+
+II.- Subdirección de Promoción.
+
+DIRECCION DE SEGURIDAD PUBLICA:
+
+I.- Subdirección de Seguridad Pública;
+
+II.- 1er. Comandante;
+
+III.- Comandantes de Grupo;
+
+IV.- Subcomandantes;
+
+V.- Agentes Operativos; y
+
+VI.- Agentes Auxiliares.
+
+DIRECCION DE TRANSITO Y VIALIDAD:
+
+I.- Subdirección de Tránsito y Vialidad;
+
+II.- 1er. Comandante;
+
+III.- Area Administrativa;
+
+IV.- Area Operativa.
+
+DIRECCION DE ASUNTOS JURIDICOS:
+
+I.- Asesor Jurídico.
+
+COORDINACIONES:
+
+A) DE ASESORES:
+
+a) Area Jurídica;
+
+b) Area Administrativa; y
+
+e) Atea Política.
+
+B) COORDINACION OPERATIVA.
+
+c) COORDINACION ADMINISTRATIVA.
+
+CONTRALORIA MUNICIPAL:
+
+I.- Asistente Contralor.
 
 ### CAPITULO V. De las Funciones y Atribuciones Generales de los Titulares de las Dependencias Municipales
 
@@ -527,25 +611,35 @@ XX.- Programar, dirigir, controlar y supervisar las áreas-del personal adscrito
 
 XXI.- Intervenir en el estudio y análisis previamente a la celebración de convenios con los Gobiernos Federal y Estatal.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 19.
 
-A la DIRECCIÓN DE OBRAS PUBLICAS Y PLANEACION, corresponde lo siguiente:
+A la Dirección de Planeación le corresponde lo siguiente:
 
-I.- Planear y ejecutar el Programa Municipal de Obra Pública, de acuerdo a los lineamientos directrices y prioridades que le señale el Presidente Municipal;
+I.- Autorizar las solicitudes de alineamiento y compatibilidad urbanística, fraccionamiento, relotificación, fusión y subdivisión de áreas y predios en el Municipio, de acuerdo a la legislación aplicable;
+
+II.- Asesorar y apoyar a la Junta General de Planeación y Urbanización del Estado, respecto de la procedencia o no de las solicitudes de fraccionamiento de predios en el Municipio;
+
+III.- Elaborar, proponer, evaluar y administrar los planes y programas de Desarrollo Urbano y Protección Ambiental del Municipio, acordes con el Plan de Desarrollo del Estado y el Plan Nacional de Desarrollo;
+
+IV.- Las demás que le confiera la Ley Orgánica Municipal del Estado de Aguascalientes y la Legislación aplicable en la materia.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2001)</small>
+
+###### ARTICULO 19 Bis.
+
+A la Dirección de Obras Públicas Municipales, le corresponde lo siguiente:
+
+I.- Planear y ejecutar el Programa Municipal de Obra Pública, de acuerdo a los lineamientos, directrices y prioridades que le señale la Presidencia Municipal;
 
 II.- Realizar directamente o a través de contratistas las obras públicas del Municipio, formulando los estudios, proyectos y presupuestos correspondientes;
 
-III.- Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas del Municipio;
+III.- Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas en el Municipio; y (sic)
 
-IV.- Autorizar las solicitudes de alineamiento y compatibilidad urbanística, fraccionamiento, relotificación, fusión y subdivisión de áreas y predios en el Municipio, de acuerdo con la legislación aplicable;
+IV.- Controlar las acciones y obras que se ejecuten en el Municipio para que sean compatibles con la legislación, planes y programas diseñados por la Dirección de Planeación; y
 
-V.- Asesorar y apoyar a la Junta General de Planeación y Urbanización del Estado. Respecto de la procedencia o no de las solicitudes de fraccionamiento de predios en el Municipio;
-
-VI.- Asesorar técnicamente los Comités de Desarrollo Municipal que lo requieren, en lo concerniente a la realización de las obras públicas municipales;
-
-VII.- Controlar las acciones y obras que se ejecuten en el Municipio para que sean compatibles con la legislación, planes y programas aplicables; y
-
-VIII.- Supervisar y controlar las actividades de las diferentes áreas que integran la Dirección.
+V.- Las demás que le confiera la Ley Orgánica Municipal del Estado de Aguascalientes y la legislación en la materia.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 1999)</small>
 
@@ -617,67 +711,39 @@ IX.- Expedir las convocatorias y bases a que deben ajustarse los concursos de ob
 
 X.- Participar en el Comité de Planeación para el Desarrollo Municipal como Secretario Técnico.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 23.
 
-A la Dirección de Seguridad Pública y Vialidad del Municipio, corresponde lo siguiente:
+A la Dirección de Seguridad Pública le corresponde lo siguiente:
 
-l.- Mantener la seguridad y el orden público del Municipio;
+I.- Mantener la tranquilidad, la seguridad y orden público dentro del Municipio;
 
-ll.- Prevenir la comisión de delitos y faltas administrativas;
+II.- Prevenir la comisión de delitos y proteger a las personas, a sus propiedades y derechos;
 
-Ill.- Proteger la vida, bienes y derechos de las personas que transitan y habitan en el Municipio, así como de las instituciones públicas o comerciales y centros fabriles ubicados en el Municipio;
+III.- Auxiliar al ministerio público, a las autoridades judiciales y a las administrativas cuando sea solicitado para ello;
 
-IV.- Vigilar que las actividades de los particulares se desarrollen dentro de los límites de respeto a la vida privada, a la paz y a la moral pública;
+IV.- Aprehender a los presuntos delincuentes en los casos de delito flagrante, poniéndolos sin demora a disposición del ministerio público;
 
-V.- Auxiliar al Ministerio Público, a las autoridades judiciales y a las administrativas cuando éstas lo requieran;
+V.- Y las demás que le confiera su Reglamento respectivo.
 
-VI.- Proporcionar el auxilio necesario en caso de siniestro;
-
-VII.- Observar estrictamente lo que el Bando de Policía y Buen Gobierno consigna en esta materia; y (sic)
-
-VIII.- Sancionar las faltas cometidas por los agentes de seguridad;
-
-> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 1999)</small>
-
-IX.- Vigilar el cumplimiento de los normas de tránsito de vehículos, semovientes y peatones dentro del municipio;
-
-> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 1999)</small>
-
-X.- Proponer al H. Ayuntamiento y a la Presidencia Municipal las medidas necesarias para mejorar la vialidad;
-
-> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 1999)</small>
-
-XI.- Realizar campañas permanentes para vigilar que los señalamientos de tránsito se encuentren en óptimas condiciones, reponer las destruidas e instalar las que resulten necesarias;
-
-> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 1999)</small>
-
-XII.- Aplicar las sanciones administrativas por infracción al. Reglamento de Tránsito;
-
-> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 1999)</small>
-
-XIII.- Promover las (sic) capacitación de los elementos de nuevo ingreso y fomentar el desarrollo de los que ya se encuentran en funciones;
-
-> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 1999)</small>
-
-XIV.- Sancionar las faltas cometidas por los agentes de tránsito;
-
-> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 1999)</small>
-
-XV.- Impartir educación vial a los distintos sectores de la población del municipio;
-
-> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 1999)</small>
-
-XVI.- Adoptar las medidas necesarias para prevenir y evitar la contaminación ambiental producida por los vehículos automotores que circulen en el Municipio; y
-
-> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 1999)</small>
-
-XVII.- Observar estrictamente lo que el Bando de Policía y Buen Gobierno consigna en esta materia.
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 24.
 
-(DEROGADO, P.O. 4 DE ABRIL DE 1999)
+A la Dirección de Tránsito y Vialidad Municipal, le corresponde lo siguiente:
+
+I.-Vigilar el cumplimiento de las normas de tránsito de vehículos, semovientes y peatones dentro del Municipio;
+
+II.- Presentar programas de mejoramiento de vialidad y tránsito en el Municipio al Ayuntamiento;
+
+III.- Realizar campañas permanentes para vigilar ·que los señalamientos de tránsito se encuentren en óptimas condiciones, reponer las destruidas e instalar las que resulten necesarias;
+
+IV.- Aplicar las sanciones administrativas por infracción al Reglamento de Tránsito;
+
+V.- Impartir la educación vial en las escuelas del Municipio;
+
+VI.- Capacitar y sancionar a los elementos de la corporación de acuerdo a las sanciones previstas en el Reglamento de Tránsito y Vialidad para el Municipio.
 
 ###### ARTICULO 25.
 
@@ -740,3 +806,7 @@ Profr. Antonio Olvera Morales.
 P.O. 4 DE ABRIL DE 1999.
 
 UNICO.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE MARZO DE 2001.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
