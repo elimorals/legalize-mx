@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-universidad-autonoma-de-nayarit-33691"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-23"
-last_updated: "2003-08-23"
+last_updated: "2003-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial el Sábado 23 de Agosto de 2003.
 
@@ -297,7 +297,9 @@ c) Poseer, al menos, título de licenciatura con antigüedad mínima de cinco a�
 
 d) Ser miembro del personal académico de la Universidad Autónoma de Nayarit, con una antigüedad no menor de tres años en la institución;
 
-e) No haber sido condenado por delitos intencionales graves; y
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2003)</small>
+
+e) Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal por más de un año de prisión, pero sí se tratase de robo, fraude, falsificación u otro que lastime seriamente la buena fama en el concepto público, le inhabilitará para el cargo, cualquiera que haya sido la pena.
 
 f) Los demás requisitos que se establecen en esta ley y el Estatuto de Gobierno.
 
@@ -530,3 +532,9 @@ b) Por lo que respecta a los directores que cubren su segundo periodo, al que se
 DADO en la Biblioteca Magna de la Universidad Autónoma de Nayarit, declarada recinto oficial del Poder Legislativo, a los diez días del mes de julio de dos mil tres.- Dip. Presidente, Enrique Mejía Pérez.- Dip. Secretario, Yolanda del Real Ureña.- Dip. Secretario, Juan Manuel Mier Pecina.- Rúbricas.
 
 Y en cumplimiento a lo dispuesto de la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic, su capital, a los diecinueve días del mes de agosto del año dos mil tres.- Antonio Echevarría Domínguez.- Rúbrica.- El Secretario General de Gobierno, Adán Meza Barajas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE NOVIEMBRE DE 2003.
+
+Artículo único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
