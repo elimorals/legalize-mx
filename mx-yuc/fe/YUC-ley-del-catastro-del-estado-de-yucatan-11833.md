@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-catastro-del-estado-de-yucatan-11833"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-11"
-last_updated: "1992-03-11"
+last_updated: "1998-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL CATASTRO DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE AGOSTO DE 1998.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 11 de Marzo de 1992.
 
@@ -67,9 +67,11 @@ II.- La forma, términos y procedimientos a que se sujetarán los trabajos catas
 
 III.- Las obligaciones que en materia de catastro tienen los propietarios o poseedores de bienes inmuebles, así como los servidores públicos del Estado, de los municipios, los notarios y escribanos públicos.
 
+> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 4.
 
-Las disposiciones contenidas en la presente Ley serán ejercidas por el Ejecutivo Estatal, por conducto de la dirección General del Catastro.
+Las disposiciones contenidas en la presente Ley serán ejercidas por el Gobernador del Estado por conducto del Director del Catastro del Estado, o por los Presidentes Municipales por conducto de sus direcciones del Catastro.
 
 ### CAPITULO SEGUNDO. DEFINICIONES E INTEGRACION DEL CATASTRO
 
@@ -95,7 +97,7 @@ IV.- Predio urbano.- El ubicado dentro de las zonas urbanas, así consideradas p
 
 V.- Predio rústico.- Todo aquel que este ubicado fuera de las zonas urbanas.
 
-VI.- Predio Baldío.- Es aquel que no tiene construcciones o que teniéndolas éstas se encuentran en estado ruinoso, abandonadas y en condiciones no habitables; por espacio de un año o más. Así como aquellos cuyos propietarios se niegan a participar en la proporción que les corresponda del costo total para la introducción de los servicios urbanos.
+VI.- Predio Baldío.- Es aquel que no tiene construcciones o que teniéndolas estas se encuentran en estado ruinoso, abandonadas y en condiciones no habitables; por espacio de un año o más. Así como aquellos cuyos propietarios se niegan a participar en la proporción que les corresponda del costo total para la introducción de los servicios urbanos.
 
 VII.- Manzana.- El área integrada por uno o varios terrenos colindantes delimitados por vías públicas.
 
@@ -103,7 +105,9 @@ VIII.- Lote.- La superficie de terreno que resulta de la división de una manzan
 
 IX.- Lote tipo.- La superficie de terreno que de acuerdo a su frecuencia en alguna sección catastral o localidad por características dimensionales o socioeconómicas, sea determinada por la autoridad catastral como unidad de valuación.
 
-X.- Construcciones provisionales.- Las que por su estructura sean fácilmente desmontables en cualquier momento. En los casos dudosos la Dirección General del Catastro, determinará si las construcciones son o no provisionales.
+> <small>(REFORMADA, D.O. 14 DE AGOSTO DE 1998)</small>
+
+X.- Construcciones provisionales.- Las que por su estructura sean fácilmente desmontables en cualquier momento. En los casos dudosos la Dirección del Catastro que corresponda, determinará si las construcciones son o no provisionales.
 
 XI.- Construcciones Permanentes.- Las que por su estructura y por su valor no pueden ser consideradas provisionales.
 
@@ -141,11 +145,11 @@ Aquel con densidad bruta de población de 100 a 150 habitantes por hectárea, qu
 
 XXIV.- Fraccionamiento Residencial Campestre:
 
-Aquél con densidad bruta de población no mayor de 50 habitantes por hectárea y que, por sus características de ubicación permite reducir la magnitud de los servicios con que debe contar. Las dimensiones mínimas de lote tipo son de 20 metros de frente por 50 metros de fondo, excepto los frentes de los lotes cabeceros.
+Aquel con densidad bruta de población no mayor de 50 habitantes por hectárea y que, por sus características de ubicación permite reducir la magnitud de los servicios con que debe contar. Las dimensiones mínimas de lote tipo son de 20 metros de frente por 50 metros de fondo, excepto los frentes de los lotes cabeceros.
 
 XXV.- Fraccionamiento social:
 
-Es aquél con densidad bruta de población de 150 a 300 habitantes por hectárea. La urbanización y la edificación de viviendas deberá siempre estar a cargo de una misma entidad pública, social o privada. Las dimensiones mínimas de lote son de 7 metros de frente por 18 metros de fondo, debiendo aumentar su superficie en relación al tipo de calle al que tenga frente.
+Es aquel con densidad bruta de población de 150 a 300 habitantes por hectárea. La urbanización y la edificación de viviendas deberá siempre estar a cargo de una misma entidad pública, social o privada. Las dimensiones mínimas de lote son de 7 metros de frente por 18 metros de fondo, debiendo aumentar su superficie en relación al tipo de calle al que tenga frente.
 
 XXVI.- Fraccionamiento Popular:
 
@@ -153,7 +157,7 @@ Aquel con densidad bruta de población de 150 a 300 habitantes por hectárea. Es
 
 XXVII.- Fraccionamiento Costero:
 
-Es aquél con densidad bruta de población de 120 a 150 habitantes por hectárea y con frente a la playa. Las dimensiones mínimas de lote son 10 metros de frente y 30 metros de fondo, excepto los lotes cabeceros.
+Es aquel con densidad bruta de población de 120 a 150 habitantes por hectárea y con frente a la playa. Las dimensiones mínimas de lote son 10 metros de frente y 30 metros de fondo, excepto los lotes cabeceros.
 
 XXVIII.- Fraccionamiento Agropecuario:
 
@@ -227,39 +231,57 @@ Son autoridades en materia de Catastro:
 
 I.- El Ejecutivo del Estado.
 
-II.- El Tesorero General del Estado.
+> <small>(REFORMADA, D.O. 14 DE AGOSTO DE 1998)</small>
 
-III.- La Dirección General del Catastro.
+II.- Los Presidentes municipales.
 
-IV.- Los Ayuntamientos.
+> <small>(REFORMADA, D.O. 14 DE AGOSTO DE 1998)</small>
+
+III.- La Secretaría de Hacienda y Planeación.
+
+> <small>(REFORMADA, D.O. 14 DE AGOSTO DE 1998)</small>
+
+IV.- Las Direcciones del Catastro.
+
+> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 10.
 
-El Catastro estará a cargo de la Tesorería General del Estado, por conducto de la Dirección General del Catastro.
+La Secretaría de Hacienda y Planeación y los presidentes municipales tendrán a su cargo el Catastro por conducto de sus direcciones respectivas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 11.
 
-Es competencia del Ejecutivo del Estado:
+Es competencia del Gobernador del Estado y de los presidentes municipales:
 
 I.- Determinar la política, normas y lineamientos generales del Catastro, así como evaluar su cumplimiento.
 
 II.- Recibir y evaluar las propuestas de zonificación catastral y los valores de suelo y construcción; y proponer al Congreso del Estado su aprobación.
 
-III.- Suscribir acuerdos de coordinación en materia de catastro con los municipios de la Entidad, así como con otras entidades federativas; y organismos del orden federal.
+> <small>(REFORMADA, D.O. 14 DE AGOSTO DE 1998)</small>
+
+III.- Suscribir acuerdos de coordinación en materia de Catastro; y
 
 IV.- Las demás que expresamente le determine esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 12.
 
-La Tesorería General del Estado tiene las siguientes atribuciones:
+La Secretaría de Hacienda y Planeación y los presidentes municipales tiene (sic) las siguientes atribuciones:
 
-I.- Administrar el Catastro de la Entidad de conformidad a lo establecido en esta Ley y su reglamento.
+> <small>(REFORMADA, D.O. 14 DE AGOSTO DE 1998)</small>
+
+I.- Administrar el Catastro de conformidad con lo establecido en esta Ley y los ordenamientos legales municipales.
 
 II.- Establecer, encausar y apoyar los programas tendientes a lograr los objetivos del Catastro.
 
 III.- Validar y aprobar las normas técnicas y administrativas aplicables a la ejecución de los trabajos catastrales.
 
-IV.- Remitir al Ejecutivo del Estado los proyectos de zonificación catastral y de valores unitarios de suelo y de construcción, sancionados por los ayuntamientos.
+> <small>(REFORMADA, D.O. 14 DE AGOSTO DE 1998)</small>
+
+IV.- Remitir al Gobernador del Estado los proyectos de zonificación catastral y de valores unitarios de suelo y de construcción, sancionados por los ayuntamientos, en los casos en que el Catastro no esté administrado por el municipio.
 
 V.- Expedir y publicar los edictos que notifican a los interesados el inicio masivo de las operaciones catastrales en las poblaciones que por primera vez se incorporan al Catastro.
 
@@ -267,9 +289,11 @@ VI.- Suscribir acuerdos de coordinación relativos al Catastro, con otras depend
 
 VII.- Las demás que determine la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 13.
 
-A las Dirección General del Catastro le corresponde:
+A las Direcciones del Catastro les corresponde:
 
 I.- Planear, coordinar, administrar y evaluar los programas que se elaboren en materia catastral.
 
@@ -329,37 +353,61 @@ XXVIII.- Remitir periódicamente la información catastral a los H. ayuntamiento
 
 XXIX.- Resolver las dudas que se susciten en la interpretación y aplicación de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 14.
 
-Corresponde a los ayuntamientos:
+Corresponde a los presidentes municipales, en los casos en que el Catastro esté administrado por el municipio:
 
-I.- Participar en la formulación de los proyectos de zonificación catastral y de valores unitarios, de suelo y construcción en el territorio de su jurisdicción, en coordinación con la Dirección General del Catastro.
+> <small>(REFORMADA, D.O. 14 DE AGOSTO DE 1998)</small>
 
-II.- Conservar la clave catastral a cada uno de los bienes inmuebles ubicados en el territorio de su jurisdicción determinada por la Dirección General del Catastro.
+I.- Formular los proyectos de zonificación catastral y de valores unitarios de suelo y, de construcción en el territorio de su jurisdicción, por conducto de su Dirección del Catastro.
+
+> <small>(REFORMADA, D.O. 14 DE AGOSTO DE 1998)</small>
+
+II.- Conservar las claves catastrales existentes de los bienes inmuebles ubicados en el territorio de su jurisdicción, determinadas por la Dirección del Catastro del Estado y aplicar la técnica vigente para otorgar las claves catastrales de los predios que incrementen su padrón.
 
 III.- Respetar los valores catastrales correspondientes a cada bien inmueble, en los términos de esta Ley.
 
-IV.- Proporcionar periódicamente a la Dirección General del Catastro la información relativa para integrar y actualizar el padrón catastral de cada uno de ellos.
+> <small>(REFORMADA, D.O. 14 DE AGOSTO DE 1998)</small>
+
+IV.- Proporcionar a la Dirección del Catastro del Estado, a más tardar dentro de los primeros cinco días de cada mes, la información respecto de las modificaciones de los bienes inmuebles que integren el padrón catastral o que se encuentren dentro de su circunscripción territorial, la cual deberá contener lo siguiente:
+
+a) Los datos contenidos en la cédula catastral;
+
+b) Los planos de los bienes inmuebles, que contengan, cuando menos las características especificadas en los formatos establecidos en el reglamento de la Ley del Catastro del Estado;
+
+c) Los estudios fotogramétricos que en su caso se realicen;
+
+d) La cartografía municipal y sus actualizaciones; y
+
+e) Los resultados de los trabajos a que se refiere la fracción XV del artículo 13 de la presente Ley.
 
 V.- Las demás que determine la presente Ley.
 
+> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 15.
 
-En el ejercicio de las atribuciones a que se refiere el artículo anterior, los ayuntamientos deberán observar las disposiciones del presente ordenamiento, así como las normas técnicas y administrativas en materia de catastro aprobadas por el Ejecutivo Estatal, el H. Congreso del Estado y el Tesorero General del Estado.
+En el ejercicio de las atribuciones que les corresponden, los presidentes municipales deberán observar las disposiciones del presente ordenamiento y su reglamento.
 
 ### CAPITULO CUARTO. DE LOS VALORES CATASTRALES
 
+> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 16.
 
-Para efectos fiscales la Dirección General del Catastro determinará las tablas de valores catastrales unitarios para los terrenos y construcciones en base a la zonificación correspondiente, los que aprobados por la Legislatura del Estado serán puestos en vigor por el Ejecutivo del Estado.
+para efectos fiscales, la Dirección del Catastro que corresponda determinará las tablas de valores catastrales unitarios para los terrenos y construcciones acorde con la zonificación correspondiente, los que aprobados por la Legislatura del Estado serán puestos en vigor por el Ejecutivo del Estado o el presidente Municipal en su caso.
 
 ###### ARTICULO 17.
 
 Las tablas de valores catastrales unitarios tendrán vigencia del primero de enero al treinta y uno de diciembre del año para el que fueran aprobadas por la Legislatura del Estado. En los años en que ello no se diera, se seguirá aplicando la última tabla aprobada.
 
+> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 18.
 
-En los casos en que no se pueda determinar el valor catastral al predio y sus construcciones la Dirección General del Catastro, con base en los elementos de que disponga, fijará un valor provisional para efectos fiscales asignando el valor al terreno y a las construcciones lo más aproximado al que se estime como valor catastral; según la zona de ubicación del inmueble y la clasificación de la construcción.
+En los casos en que no se pueda determinar el valor Catastral de un predio, la Dirección del Catastro que corresponda, con base en los elementos de que disponga, estimará el valor catastral aplicable para efectos fiscales, salvo prueba en contrario del propietario del inmueble.
 
 ###### ARTICULO 19.
 
@@ -391,31 +439,25 @@ II.- Costo y calidad de los materiales de construcción utilizados; y
 
 III.- Costo de la mano de obra empleada.
 
-La Dirección General del Catastro determinará una clasificación para los diversos tipos de construcción a los que corresponderán diferentes valores unitarios.
+> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
 
-R) REGIONAL R) REGIONAL
-
-E) ECONOMICO E) ECONOMICO
-
-TIPO M) MEDIANO TIPO M) MEDIANO
-
-ANTIGUO C) CALIDAD MODERNO C) CALIDAD
-
-S) SUPERIOR S) SUPERIOR
-
-L) REMODELADO L) DE LUJO
+La Dirección del Catastro que corresponda determinará una clasificación para los diversos tipos de construcción a los que se asignarán diferentes valores unitarios.
 
 ###### ARTICULO 22.
 
 La aprobación de la zonificación catastral del territorio estatal y de los valores unitarios de suelo y construcción se sujetarán a las normas siguientes:
 
-La Dirección General del Catastro, con la participación de los ayuntamientos, elaborará los proyectos de zonificación catastral y de valores unitarios de suelo y construcción.
+> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
+
+La Dirección del Catastro del Estado, con la participación de los H.H. Ayuntamientos, en los casos en que el Catastro no esté administrado por el municipio, elaborará los proyectos de zonificación catastral y de valores unitarios de suelo y, de construcción.
 
 Dichos proyectos serán prestados (sic) al Ejecutivo Estatal para su autorización, turnándolos al H. Congreso del Estado para su aprobación. El acuerdo correspondiente será publicado en el Diario Oficial del Estado.
 
+> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 23.
 
-En los casos de que algún sector del territorio de los municipios no se le hayan asignado valores unitarios de suelo o habiéndose asignado, hayan cambiado las características esenciales en el período de su vigencia, la Dirección General del Catastro podrá fijar provisionalmente valores unitarios, teniendo como base los aprobados para algún sector catastral con características similares. Dichos valores regirán hasta en tanto se apliquen los valores definitivos.
+En los casos en que, a algún sector del territorio de los municipios no se le hayan asignado valores unitarios de suelo o habiéndose asignado, hayan cambiado las características esenciales en el período de su vigencia, la Dirección del Catastro que corresponda podrá fijar provisionalmente valores unitarios, teniendo como base los aprobados para algún sector catastral con características similares. Dichos valores regirán hasta en tanto se apliquen los valores definitivos.
 
 ###### ARTICULO 24.
 
@@ -431,13 +473,21 @@ Todos los bienes inmuebles ubicados en el territorio del Estado se inscribirán 
 
 Al inscribirse el inmueble en el padrón catastral se le asignará la clave correspondiente, integrándose con el número de la zona catastral, de manzana y de lote; en casos de condominio se añadirá el número del edificio y el de la unidad condominal, cada departamento, despacho, vivienda o local, habrá de inscribirse por separado en el padrón, con diferente clave catastral.
 
+> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 27.
 
-La inscripción o actualización en el padrón catastral deberá ser solicitada por los propietarios o poseedores en los formatos correspondientes. Cuando éstos no presenten en tiempo la manifestación respectiva, la Dirección General del Catastro procederá de oficio a realizar la inscripción o actualización de que se trate, sin perjuicio de aplicar las sanciones que correspondan.
+La Dirección del Catastro que corresponda estará facultada para realizar de oficio la inscripción o actualización según se trate, en los siguientes casos:
+
+I.- Tratándose de inscripciones, cuando los obligados por el Artículo 34 no lo hicieren en los plazos establecidos en el propio Artículo.
+
+II.- Tratándose de actualizaciones, cuando los propietarios y/o los responsables solidarios no la solicitaren en los plazos establecidos en la presente Ley.
+
+> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 28.
 
-La Dirección General del Catastro, podrá mandar verificar mediante visitas de campo y estudios técnicos los datos asentados en la manifestación de que se trate. Cuando no coincidan dichos datos con las características reales del inmueble, se ejecutarán los trabajos catastrales a costa del interesado, imponiéndose las sanciones correspondientes.
+La Dirección del Catastro que corresponda podrá verificar mediante visitas de campo y estudios técnicos, los datos asentados en la manifestación de que se trate. Cuando no coincidan dichos datos con las características reales del inmueble, se ejecutarán los trabajos catastrales a costa del interesado, imponiéndose las sanciones correspondientes.
 
 ###### ARTICULO 29.
 
@@ -463,13 +513,19 @@ La persona encargada de la realización de las obras será responsable solidario
 
 Las entidades de la Administración Pública Federal, Estatal y Municipal, y los organismos auxiliares que realicen actividades relativas a la construcción de obras para el desarrollo urbano y la vivienda, así como a la regularización de la tenencia de la tierra, deberán informar al Catastro las características de dichas obras en un término no mayor de treinta días hábiles a partir de su inicio y terminación, acompañando los planos y demás documentos relativos, previo cumplimiento de los requisitos exigibles para el caso.
 
+> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 34.
 
-Los notarios y escribanos públicos, así como los organismos públicos que por disposición de la Ley intervengan en actos, contratos y operaciones que transmiten el dominio o modifiquen las características de un predio, deberán dar aviso a esta Dirección General del Catastro mediante las formas correspondientes, acompañadas necesariamente de la cédula catastral actualizada y vigente; dentro de un plazo de treinta días naturales contados a partir de la inscripción del acto o contrato en el Registro Público de la propiedad del Estado. El incumplimiento de esta disposición hará efectiva la sanción señalada en el capítulo respectivo de la presente Ley.
+Los notarios y escribanos públicos, así como los organismos públicos que por disposición de la ley intervengan en actos, contratos, y operaciones que transmiten el dominio o modifiquen las características de un predio, deberán dar aviso de dichos actos jurídicos a la Dirección del Catastro respectiva, mediante las formas correspondientes, acompañadas necesariamente de la cédula catastral actualizada y vigente, dentro de un plazo de treinta días naturales contados a partir de la inscripción del acto en el Registro Público de la Propiedad del Estado.
+
+El incumplimiento de esta disposición, dará lugar a la aplicación de la sanción señalada en el capítulo respectivo de la presente Ley.
+
+> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 35.
 
-El padrón catastral estará bajo el control y administración de la Dirección General del Catastro, y podrá ser consultado de acuerdo a lo establecido en el artículo 8 de la Constitución General de la República.
+El padrón catastral estará bajo el control y administración de la Dirección del Catastro que, en su caso, corresponda y podrá ser consultado de acuerdo a lo establecido en el artículo 8 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 36.
 
@@ -477,9 +533,11 @@ La autoridad catastral proporcionará información y expedirá constancias y cer
 
 ### CAPITULO SEXTO. "DE LA VALUACION, REVALUACION Y DESLINDES"
 
+> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 37.
 
-La Dirección General del Catastro asignará el valor catastral a los bienes inmuebles de acuerdo a la presente Ley y las normas técnicas y administrativas aplicables y emitirá una resolución del valor por escrito que será precisamente la cédula catastral.
+La Dirección del Catastro Respectiva asignará el valor catastral a los bienes inmuebles de acuerdo a la presente Ley y las normas técnicas y administrativas aplicables y emitirá una resolución del valor por escrito que será precisamente la cédula catastral.
 
 ###### ARTICULO 38.
 
@@ -495,9 +553,11 @@ El valor catastral que se determine para cada inmueble será el que se obtenga d
 
 Para los inmuebles que están sujetos al régimen de propiedad condominal, la valuación catastral, deberá hacerse respecto a cada uno de los departamentos, despachos, viviendas o cualquier otro tipo de locales, comprendiéndose en la valuación la parte proporcional indivisa de los bienes comunes.
 
+> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 41.
 
-La valuación y revaluación catastral de los inmuebles será realizada, en su caso, de acuerdo a los datos proporcionados por el interesado en la solicitud de inscripción o de actualización en el padrón catastral, en todos los casos, los valores serán aplicados por la Dirección General del Catastro, quien podrá realizar las visitas y estudios técnicos de campo que sean necesarios para verificar los datos proporcionados por el interesado.
+La valuación y revaluación catastral de los inmuebles serán realizadas en su caso, de acuerdo a los datos proporcionados por el interesado en la solicitud de inscripción o de actualización en el padrón catastral. En todos los casos, los valores serán aplicados por la Dirección del Catastro respectiva, la que podrá realizar las visitas y estudios técnicos de campo que sean necesarios para verificar los datos proporcionados por el interesado.
 
 ###### ARTICULO 42.
 
@@ -605,9 +665,11 @@ VI.- En los demás casos en que haya error o diferencia entre los datos asentado
 
 Los propietarios, poseedores o sus representantes legales podrán solicitar a la autoridad catastral la aclaración respecto de los datos asentados en el padrón catastral en todo tiempo y en caso de identificación, apeos y deslindes catastrales respecto del valor del inmueble, dentro de los quince días hábiles siguientes al levantamiento del acta circunstanciada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 51.
 
-La aclaración deberá ser solicitada por el o los que tengan interés jurídico, a la Dirección General del Catastro, acompañando los documentos, que la funden. La solicitud se formulará por escrito conteniendo los siguientes datos:
+La aclaración deberá ser solicitada por él o los que tengan interés jurídico, a la Dirección del Catastro que corresponda, acompañando los documentos que la funden. La solicitud se formulará por escrito conteniendo los siguientes datos:
 
 I.- Nombre y domicilio del solicitante.
 
@@ -619,27 +681,39 @@ IV.- Descripción de los errores o diferencias que existan en el padrón catastr
 
 Al escrito por el que se solicita la aclaración respectiva deberán acompañarse los documentos que la funden para los efectos de la presentación y resolución de este recurso, todos los propietarios o poseedores de predios tienen la obligación de señalar domicilio para recibir notificaciones en el lugar donde esté asentada la autoridad catastral.
 
+> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 52.
 
-Compete al Director General del Catastro, resolver la aclaración, en un término no mayor de treinta días hábiles contados a partir de la fecha de recepción de la solicitud.
+Compete al Director del Catastro que corresponda, resolver la aclaración en un término no mayor de treinta días hábiles, contados a partir de la fecha de recepción de la solicitud.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 53.
 
-Contra los acuerdos de la Dirección General del Catastro, procede el recurso de revocación que deberá ser interpuesto ante la propia oficina, en escrito por triplicado dentro del término de cinco días hábiles contados a partir de la fecha de notificación del acuerdo respectivo.
+Contra las resoluciones y acuerdos de la Dirección del Catastro del Estado, procede el recurso de revocación, que deberá ser interpuesto ante la propia Dirección, en escrito por triplicado y presentado en el término de cinco días hábiles contados a partir de la fecha de notificación del acuerdo respectivo.
 
 En dicho escrito el recurrente expresará las razones en que se funde y aportará las pruebas que estime convenientes.
 
-Admitido el recurso, si lo solicita la parte interesada se suspenderá la ejecución del acuerdo recurrido. Y si éste consiste en el cobro de alguna contribución, derecho, impuesto o en general alguna prestación de naturaleza económica a cargo del interesado, para garantizar el interés fiscal, se deberá otorgar fianza o depósito en la Tesorería General del Estado o en sus agencias; o bien en alguna institución legalmente autorizada por una suma equivalente a la prestación reclamada.
+> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
 
-> <small>(F. DE E., D.O. 20 DE MARZO DE 1992)</small>
+Admitido el recurso, si lo solicita la parte interesada, se suspenderá la ejecución de la resolución o acuerdo recurrido. Si éste consiste en el cobro de alguna contribución, derecho, impuesto o, en general, alguna prestación de naturaleza económica a cargo del interesado, para garantizar el interés fiscal, se deberá constituir depósito en la Secretaría de Hacienda y Planeación o, en su caso, en la Tesorería Municipal que corresponda, o bien, otorgar fianza de alguna institución legalmente autorizada por una suma equivalente a la prestación reclamada.
 
-En su caso, el Director General del Catastro fijará la cuantía de la fianza para garantizar los daños y perjuicios que la suspensión pudiera ocasionar, si el recurrente no obtuviera.
+> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
+
+En su caso, el Director del Catastro fijará la cuantía de la fianza para garantizar los daños y perjuicios que la suspensión pudiera ocasionar si el recurrente no obtuviera resolución favorable.
+
+> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 54.
 
-Contra la resolución que dicte el Director General del Catastro, en su caso con motivo del recurso de revocación, los interesados podrán interponer el de revisión ante el Gobernador del Estado, en escrito por triplicado y dentro de tres días hábiles contados a partir de la notificación de dicha resolución. Interpuesto el recurso de revisión, subsistirán los efectos de la suspensión concedida con anterioridad; y de no haberse pedido antes, tendrá derecho el recurrente a obtenerla llenando los mismos requisitos exigidos en el Artículo inmediato anterior, correspondiendo al Gobernador del Estado, en los términos de dicho artículo, fijar la cantidad que garantice el interés fiscal, en su caso fijará la cuantía de la fianza para garantizar daños y perjuicios si el recurrente no obtuviera.
+Contra la resolución que dicte el Director del Catastro del Estado, con motivo del recurso de revocación, los interesados podrán interponer el de revisión ante el Gobernador del Estado, en escrito por triplicado y dentro de tres días hábiles, contados a partir de la notificación de dicha resolución.
 
-El Gobernador del Estado, con el expediente que deberá remitir el Director del Catastro al interponerse el recurso, tomando en cuenta lo expuesto por el quejoso, dictará resolución dentro del término de treinta días hábiles a partir de la fecha de la interposición de este recurso.
+Interpuesto el recurso de revisión, subsistirán los efectos de la suspensión concedida con anterioridad y, de no haberlo hecho antes, el recurrente tendrá derecho a solicitarla, cumpliendo los mismos requisitos exigidos en el artículo inmediato anterior. Corresponderá al Director del Catastro del Estado fijar el monto de la fianza que garantice el interés fiscal, así como los daños y perjuicios que se causaren si el recurrente no obtuviera resolución favorable.
+
+El Gobernador del Estado basándose en el expediente que deberá remitir el Director del Catastro al interponer el recurso, tomando en cuenta lo expuesto por el quejoso, dictará resolución dentro de los treinta días hábiles siguientes a la fecha de interposición de este recurso.
+
+Contra los actos o resoluciones de las autoridades municipales en materia de catastro procederán los recursos previstos en la Ley Orgánica de los Municipios del Estado de Yucatán.
 
 ### CAPITULO OCTAVO. "DE LAS INFRACCIONES Y SANCIONES"
 
@@ -657,9 +731,11 @@ IV.- Oponerse o interferir en la valuación, revaluación o deslinde catastral; 
 
 V.- Realizar cualquier acción contraria o incurrir en omisiones a los preceptos de esta Ley, que sean distintas a las previstas en las fracciones anteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 56.
 
-Las infracciones a la presente Ley serán sancionadas por el Director General del Catastro con multas de:
+Las infracciones a la presente Ley serán sancionadas por el Director del Catastro que corresponda, con multas de:
 
 I.- Por presentar las manifestaciones con los siguientes retardos:
 
@@ -685,7 +761,7 @@ Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado c
 
 El monto de las multas a que se refieren las fracciones señaladas se aplicará en relación directa con el salario mínimo que corresponda a la zona económica en que está ubicado el municipio.
 
-TRANSITORIOS:
+T R A N S I T O R I O S :
 
 ###### ARTICULO PRIMERO.
 
@@ -726,3 +802,13 @@ LIC. DULCE MARIA SAURI RIANCHO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. ORLANDO A. PAREDES LARA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 14 DE AGOSTO DE 1998.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado y deroga todas las disposiciones legales que a él se opongan.
+
+SEGUNDO.- Los ayuntamientos que decidan administrar su Catastro dentro de sus circunscripciones territoriales, deberán formular su reglamento municipal del Catastro y celebrar los convenios de coordinación respectivos con el Ejecutivo del Estado, dentro de los treinta días siguientes a la publicación de dichos reglamentos en el Diario Oficial del Gobierno del Estado.
+
+En estos reglamentos los ayuntamientos crearán las Direcciones del Catastro Municipales y les otorgarán las atribuciones correspondientes.
