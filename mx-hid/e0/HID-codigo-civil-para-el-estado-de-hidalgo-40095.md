@@ -4,7 +4,7 @@ identifier: "HID-codigo-civil-para-el-estado-de-hidalgo-40095"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-08"
-last_updated: "1999-12-30"
+last_updated: "2000-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO CIVIL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2000.
 
 Código publicado en el Apéndice al Número 38 del Periódico Oficial del Estado de Hidalgo, el 8 de octubre de 1940.
 
@@ -14361,11 +14361,11 @@ Si alguno de los interesados se niega a firmar dicha solicitud, acudirá el otro
 
 Todo hecho o convenio entre las partes, que puede modificar o destruír la eficacia de una obligación hipotecaria anterior, no surtirá efecto contra tercero si no se hace constar en el registro por medio de una inscripción nueva, de una cancelación total o parcial o de una nota marginal, según los casos.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2000)</small>
 
 ###### Art. 2932.
 
-El acreedor podrá ceder sus créditos con garantía sin necesidad de notificación al deudor ni de escritura Pública, siempre que continúe llevando la administración de los créditos; en caso contrario la cesión del crédito deberá notificarse al deudor por escrito. En cualquier caso la cesión del crédito se inscribirá en el Registro Público de la Propiedad y del Comercio.
+El acreedor podrá ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, ni de escritura Pública, ni de inscripción en el Registro Público de la Propiedad, siempre que continúe llevando la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, deberá de notificarlo al deudor por escrito.
 
 ###### Art. 2933.
 
@@ -15788,3 +15788,13 @@ SEGUNDO.- Todos los créditos con garantía hipotecaria contraídos antes del in
 TERCERO.- No serán de observancia en el juicio hipotecario las disposiciones que se opongan al presente decreto.
 
 CUARTO.- Publíquese el presente decreto en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todos los créditos con garantía hipotecaria contraídos antes del inicio de vigencia de las presentes reformas, así como las reestructuraciones, negociaciones, o nuevos convenios de deuda o créditos, cualquiera que sea la forma que adoptaron para tal efecto, se regirán por las normas civiles vigentes al momento de la contratación y por lo que hace a los juicios que se encuentran en trámite, se regirán por las disposiciones aplicables al procedimiento con el que se inició.
+
+TERCERO.- No serán de observancia en el juicio hipotecario las disposiciones que se opongan al presente Decreto.
+
+CUARTO.- Publíquese el presente Decreto en el Periódico Oficial del Estado.
