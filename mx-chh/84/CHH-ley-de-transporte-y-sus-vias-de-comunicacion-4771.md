@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transporte-y-sus-vias-de-comunicacion-4771"
 country: "mx"
 rank: "ley"
 publication_date: "1994-01-29"
-last_updated: "1999-11-27"
+last_updated: "1999-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TRANSPORTE Y SUS VIAS DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 29 de enero de 1994.
 
@@ -587,7 +587,9 @@ CAMARA NACIONAL DE LA INDUSTRIA DE TRANSFORMACION;
 
 EMPRESAS MAQUILADORAS;
 
-INSTITUCIONES OFICIALES DE EDUCACION SUPERIOR QUE CONSIDERE LA DIRECCION;
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1999)</small>
+
+INSTITUCIONES OFICIALES DE EDUCACION MEDIA SUPERIOR Y SUPERIOR, QUE CONSIDERE LA SECRETARIA;
 
 FEDERACION DE ESTUDIANTES EN EL ESTADO;
 
@@ -864,3 +866,9 @@ P.O. 27 DE NOVIEMBRE DE 1999.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 1999.
+
+###### ARTÍCULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
