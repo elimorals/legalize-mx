@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-informacion-para-el-21904"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-30"
-last_updated: "2001-06-30"
+last_updated: "2003-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE INFORMACION PARA El DESARROLLO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO QUINTO DEL DECRETO GUBERNATIVO NÚMERO 173, PUBLICADO EN EL P.O. DE 25 DE NOVIEMBRE DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio de 2001.
 
@@ -542,3 +544,9 @@ GERARDO LUIS RODRÍGUEZ OROZCO.
 EL SECRETARIO DE DESARROLLO SOCIAL Y HUMANO
 
 ARTURO NÚNEZ SERRANO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE NOVIEMBRE DE 2003.
+
+Artículo Único.-El presente Decreto Gubernativo entrará en vigor el 1° primero de enero del año 2004 dos mil cuatro, previa su publicación en el Periódico Oficial del Gobierno del Estado.
