@@ -4,7 +4,7 @@ identifier: "SIN-ley-que-crea-el-instituto-de-vivienda-del-estado-de-sinaloa-984
 country: "mx"
 rank: "ley"
 publication_date: "1983-05-18"
-last_updated: "1983-05-18"
+last_updated: "1985-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY QUE CREA EL INSTITUTO DE VIVIENDA DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 1985.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el miércoles 18 de mayo de 1983.
 
@@ -257,6 +257,22 @@ I.- Determinar los grupos que deban considerarse como posibles adquirentes en lo
 
 II.- Seleccionar de entre los grupos y solicitantes individuales, a los adjudicatarios de los programas anteriormente mencionados.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE OCTUBRE DE 1985)</small>
+
+### CAPITULO VIII. DE LAS RELACIONES LABORALES
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 1985)</small>
+
+###### ARTICULO 21.
+
+Las relaciones de trabajo entre el Instituto y sus trabajadores se regirán por la Ley de los Trabajadores al Servicio del Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 1985)</small>
+
+###### ARTICULO 22.
+
+Serán trabajadores de confianza el Director, el Sub-Director, los Sub-Directores del área, Jefes de Departamento, Jefes de Area, Delegados de Zona, Jefes de Area de Delegación y de Unidades de Servicios, y los demás que desempeñan funciones de dirección, inspección, fiscalización y vigilancia, cuando tengan carácter general y los que se relacionen con trabajos personales del titular del organismo.
+
 TRANSITORIOS:
 
 ###### ARTICULO PRIMERO.
@@ -306,3 +322,11 @@ ARQ. JAIME SEVILLA POYASTRO
 El Secretario de Hacienda Pública y Tesorería
 
 LIC. JOSE RAMON FUENTEVILLA PELAEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE OCTUBRE DE 1985.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
