@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-del-estado-de-puebla-7540"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "2001-12-17"
+last_updated: "2003-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 1993.
 
@@ -67,11 +67,11 @@ LEY DE HACIENDA DEL ESTADO DE PUEBLA
 
 ### CAPITULO I. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. DE 11 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 1°.
 
-Es objeto de este impuesto la realización de pagos por concepto de remuneraciones por servicios personales subordinados a un patrón y las remuneraciones por servicios personales independientes, entregadas a miembros de consejos directivos, de vigilancia, consultivos o de cualquier otra índole, así como a comisarios, administradores, gerentes generales y personas que presten servicios preponderantemente a un prestatario, tratándose de estas últimas en términos de la Ley del Impuesto Sobre la Renta.
+Es objeto de este impuesto la realización de pagos por concepto de remuneraciones por servicios personales subordinados a un patrón y las remuneraciones por servicios personales independientes, entregadas a miembros de consejos directivos, de vigilancia, consultivos o de cualquier otra índole, así como a comisarios, administradores, gerentes generales y personas que presten servicios preponderantemente a un prestatario, tratándose de estas últimas en términos de la Ley del Impuesto Sobre la Renta y los retiros que mensualmente efectúen los contribuyentes que trabajen en su propia empresa, por un monto equivalente al salario del mercado que se pague por una actividad similar a los servicios que desarrollen en su empresa, este último en términos del Reglamento de la Ley del Impuesto Sobre la Renta.
 
 > <small>(ADICIONADO, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
 
@@ -105,7 +105,9 @@ B.- No se tomarán en cuenta para el cálculo de este impuesto dada su naturalez
 
 I.- Los instrumentos de trabajo tales como las herramientas, ropa y otros similares.
 
-II.- El ahorro cuando se integre por un depósito de cantidad igual del trabajador y de la empresa, pero si se constituye en forma diversa o puede el trabajador retirarlo más de dos veces al año, formará parte de la base de este impuesto; tampoco se tomarán en cuenta las cantidades otorgadas por el patrón para fines sociales de carácter sindical.
+> <small>(REFORMADA, P.O. DE 11 DE ABRIL DE 2003)</small>
+
+II.- El ahorro cuando el monto de las aportaciones no exceda del 13 % de los salarios de cada trabajador, considerando exclusivamente la parte que no exceda de diez veces el salario mínimo general del Estado y que se integre por un depósito de cantidad igual del trabajador y de la empresa, pero si se constituye en forma diversa o puede el trabajador retirarlo más de dos veces al año, formará parte de la base de este impuesto; tampoco se tomarán en cuenta las cantidades otorgadas por el patrón para fines sociales de carácter sindical.
 
 III.- Las aportaciones que el patrón otorgue a favor de sus trabajadores por concepto de cuotas de seguro de retiro.
 
@@ -147,13 +149,15 @@ El impuesto sobre erogaciones por remuneraciones al trabajo personal se determin
 
 El impuesto sobre erogaciones por remuneraciones al trabajo personal se causará en el momento en que se realicen las erogaciones a que se refiere el artículo 1° de esta Ley y se pagará a más tardar el día 17 de cada mes. Dicho pago se hará mediante declaración que contenga los datos relativos al objeto de este impuesto que correspondan al mes inmediato anterior.
 
-Cuando ocasionalmente se realicen las actividades que den lugar al pago de este impuesto, el contribuyente estará obligado a presentar declaraciones en los cinco días hábiles que le corresponda, dentro de los cinco días hábiles siguientes a aquel en que se cause dicho impuesto. En este caso los contribuyentes quedan relevados de cumplir con la obligación a que se refiere la fracción I del artículo 8° de esta Ley.
+> <small>(REFORMADO SEGUNDO PARRAFO, P.O. 11 DE ABRIL DE 2003)</small>
 
-> <small>(REFORMADO, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
+Cuando ocasionalmente se realicen las actividades que den lugar al pago de este impuesto, el contribuyente estará obligado a presentar declaraciones dentro de los cinco días hábiles siguientes a aquél en que se cause dicho impuesto. En este caso los contribuyentes quedan relevados de cumplir con la obligación a que se refiere la fracción I del artículo 8° de esta Ley.
+
+> <small>(REFORMADO, P.O. DE 11 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 6°.
 
-Los contribuyentes presentarán las declaraciones y efectuarán el entero del impuesto a que se refiere este Capítulo, en cualquiera de las Oficinas Recaudadoras u Oficinas Receptoras de Pago de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, en las Instituciones Bancarias que ésta autorice para tal efecto o a través de Internet, mediante las formas oficiales o medios electrónicos de pago que apruebe la propia Dependencia, en términos del Código Fiscal del Estado.
+Los contribuyentes presentarán las declaraciones y efectuarán el entero del impuesto a que se refiere este capítulo, en cualquiera de las Oficinas Recaudadoras u Oficinas Receptoras de Pago de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, en las Instituciones Bancarias que éste autorice para tal efecto, a través del Portal Digital del Estado de Puebla en Internet y cualquier otro lugar de pago, mediante las formas oficiales o medios electrónicos que apruebe la misma Dependencia, en términos del Código Fiscal del Estado.
 
 ###### ARTICULO 7°.
 
@@ -285,11 +289,11 @@ IV.- El origen o procedencia.
 
 El impuesto estatal sobre tenencia o uso de vehículos se causará y pagará conforme a la tarifa que anualmente señale la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. DE 11 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 15.
 
-Los sujetos del Impuesto Estatal Sobre Tenencia o Uso de Vehículos lo pagarán anualmente durante los primeros tres meses de cada ejercicio fiscal, a través de las formas oficiales autorizadas o medios electrónicos de pago aprobados, en cualquiera de las Oficinas Recaudadoras u Oficinas Receptoras de Pago de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, en las Instituciones Bancarias que ésta autorice para tal efecto, o a través de Internet, en términos del Código Fiscal del Estado.
+Los sujetos del Impuesto Estatal Sobre Tenencia o Uso de Vehículos lo pagarán anualmente durante los primeros tres meses de cada ejercicio fiscal, en cualquiera de las Oficinas Recaudadoras u Oficinas Receptoras de Pago de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, en las Instituciones Bancarias que ésta autorice para tal efecto, a través del Portal Digital del Estado de Puebla en Internet y cualquier otro lugar de pago, mediante las formas oficiales autorizadas o medios electrónicos que apruebe la misma Dependencia, en términos del Código Fiscal del Estado.
 
 ###### ARTICULO 16.
 
@@ -467,9 +471,9 @@ ARTICULO 26 E.- El impuesto a que se refiere este Capítulo se causará al momen
 
 ARTICULO 26 F.- Cuando ocasionalmente se realicen las actividades que den lugar al pago de este impuesto, el contribuyente deberá presentar declaración dentro de los cinco días hábiles siguientes a aquél en que se cause dicho impuesto. En este caso el contribuyente queda relevado de cumplir con la obligación a que se refiere la Fracción I del Artículo 26 I de esta Ley.
 
-> <small>(REFORMADO, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. DE 11 DE ABRIL DE 2003)</small>
 
-ARTICULO 26 G.- Los contribuyentes presentarán las declaraciones y efectuarán el pago del impuesto en cualquiera de las Oficinas Recaudadoras u Oficinas Receptoras de Pago de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, en las Instituciones Bancarias que ésta autorice para tal efecto o a través de Internet, mediante las formas oficiales o medios electrónicos de pago que apruebe la propia Dependencia, en términos del Código Fiscal del Estado.
+ARTICULO 26 G.- Los contribuyentes presentarán las declaraciones y efectuarán el pago del impuesto en cualquiera de las Oficinas Recaudadoras u Oficinas Receptoras de Pago de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, en las Instituciones Bancarias que ésta autorice para tal efecto, a través del Portal Digital del Estado de Puebla en Internet y cualquier otro lugar de pago, mediante las formas oficiales o medios electrónicos de pago que apruebe la misma Dependencia, en términos del Código Fiscal del Estado.
 
 > <small>(ADICIONADO P.O. 4 DE JUNIO DE 1996)</small>
 
@@ -567,9 +571,9 @@ ARTICULO 26 Ñ.- El impuesto estatal sobre loterías, rifas, sorteos y concursos
 
 ARTICULO 26 O.- El impuesto estatal sobre loterías, rifas, sorteos y concursos se causará en el momento que los sujetos reciban el pago o entrega del premio derivado de eventos organizados por organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos destinados a la asistencia pública.
 
-(REFORMADO, P.O. DE 17 DE DICIEMBRE DE 2001) (F. DE E. P.O.28 DE ENERO DE 2002)
+> <small>(REFORMADO, P.O. DE 11 DE ABRIL DE 2003)</small>
 
-ARTICULO 26 P.- El pago del Impuesto Estatal Sobre Loterías, Rifas, Sorteos y Concursos se realizará en cualquiera de la (sic) Oficinas Recaudadoras u Oficinas Receptoras de Pago de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, en Instituciones Bancarias que ésta autorice para tal efecto o a través de Internet, mediante las formas oficiales o medios electrónicos de pago que apruebe la propia Dependencia en términos del Código Fiscal del Estado, que presente el retenedor al que se refiere el artículo 26 Q de esta Ley, a más el día 17 del mes siguiente al de su causación.
+ARTICULO 26 P.- El pago del Impuesto Estatal Sobre Loterías, Rifas, Sorteos y Concursos se realizará en cualquiera de las Oficinas Recaudadoras u Oficinas Receptoras de Pago de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, en Instituciones Bancarias que ésta autorice para tal efecto, a través del Portal Digital del Estado de Puebla en Internet y cualquier otro lugar de pago, mediante las formas oficiales o medios electrónicos que apruebe la misma Dependencia, en términos del Código Fiscal del Estado que presente el retenedor al que se refiere el artículo 26 Q de esta Ley, a más tardar el día 17 del mes siguiente al de su causación.
 
 > <small>(ADICIONADO, P.O. 19 DE MARZO 1997)</small>
 
@@ -609,7 +613,7 @@ II.- El monto que resulte incrementará el Fondo de Desarrollo Municipal y se di
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 27.
 
@@ -659,13 +663,7 @@ ARTICULO 28 D.- Corresponde a las Autoridades Fiscales del Estado, establecer el
 
 ###### ARTICULO 29.
 
-Se concede la exención del pago de los derechos estatales previstos en la Ley de Ingresos del Estado y demás leyes tributarias del Estado, vinculados con la edificación o adquisición de vivienda de interés social o popular, a quienes la adquieran o construyan a través de la gestoría del Instituto Poblano de la Vivienda Popular.
-
-Para tal efecto se entiende por:
-
-- Vivienda de interés social.- Aquella cuyo valor al término de su edificación no exceda del producto de multiplicar por quince el salario mínimo general vigente en el Estado, elevado al año.
-
-- Vivienda Popular.- La que al término de su edificación, su valor no exceda del producto de multiplicar por veinticinco el salario mínimo general vigente en la Entidad, elevado al año.
+Las operaciones relativas a la adquisición o construcción de viviendas destinadas a casa habitación y las que se lleven a cabo a través de la gestoría del Instituto Poblano de la Vivienda, derivadas de acuerdos o convenios que en materia de vivienda suscriba el Ejecutivo del Estado, así como la regularización de inmuebles que se realice como consecuencia de la ejecución de Programas Federales, Estatales o Municipales, causarán el pago de los derechos estatales conforme a lo previsto en la Ley de Ingresos del Estado, que para cada Ejercicio Fiscal emita el Congreso del Estado, y demás ordenamientos de orden tributario.
 
 ## TITULO CUARTO. DE LOS APROVECHAMIENTOS
 
@@ -701,11 +699,11 @@ Son aprovechamientos, los ingresos ordinarios del Estado, no clasificables como 
 
 Las participaciones en ingresos federales, incentivos económicos, fondos de aportaciones federales, reasignaciones y demás ingresos que correspondan al Estado, se recibirán y ejercerán con arreglo a las disposiciones legales aplicables.
 
-REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 33.
 
-Son ingresos extraordinarios, los que se establezcan como consecuencia de nuevas disposiciones legislativas o administrativas, los que se ejercerán, causarán y cobrarán en los términos que decrete el Congreso Local o en su caso los que autorice el Ejecutivo del Estado.
+Son ingresos extraordinarios, aquéllos cuya percepción se decreta excepcionalmente como consecuencia de nuevas disposiciones legislativas o administrativas de carácter federal o estatal, los que se ejercerán, causarán y cobrarán en los términos que decrete el Congreso Local, o en su caso, los que autorice el Ejecutivo del Estado. Dentro de esta categoría quedan comprendidos los que se deriven de financiamientos que obtenga el Gobierno del Estado, así como de los programas especiales que instrumente el mismo.
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
@@ -894,3 +892,9 @@ P.O. 17 DE DICIEMBRE DE 2001.
 PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el primero de enero de dos mil dos.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE ABRIL DE 2003
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
