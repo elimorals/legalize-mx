@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1998-09-18"
+last_updated: "1998-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 1998.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -59,11 +59,11 @@ La porción del territorio nacional que corresponda al Estado, es la que ha sido
 
 La base de la división territorial y de la organización política y administrativa del Estado, es el Municipio Libre.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 4.
 
-El territorio del Estado comprende los Municipios que a continuación se expresan: Calakmul, Calkiní, Campeche, Carmen, Champotón, Escárcega, Hecelchakán, Hopelchén, Palizada y Tenabo, más el litoral que corresponde a las salinas denominadas Del Real, La Herradura y Las Desconocidas, Islas adyacentes sobre las que ejerce jurisdicción y cuanto de hecho y por derecho le pertenece a la Entidad, sin perjuicio de las divisiones que para su régimen judicial, fiscal y electoral determinen las leyes secundarias respectivas.
+El territorio del Estado comprende los Municipios que a continuación se expresan: Calakmul, Calkiní, Campeche, Candelaria, Carmen, Champotón, Escárcega, Hecelchakán, Hopelchén, Palizada y Tenabo, más el litoral que corresponde a las salinas denominadas Del Real, La Herradura y Las Desconocidas, islas adyacentes sobre las que ejerce jurisdicción y cuanto de hecho y por derecho le pertenece a la Entidad, sin perjuicio de las divisiones que para su régimen judicial, fiscal y electoral determinen las leyes secundarias respectivas.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1917,7 +1917,7 @@ ART. UNICO.- La presente reforma entrará en vigor al día siguiente de su publi
 
 P.O. 23 DE DICIEMBRE DE 1961.
 
-UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
 
 P.O. 14 DE JULIO DE 1964.
 
@@ -2074,3 +2074,7 @@ P.O. 18 DE SEPTIEMBRE DE 1998.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
