@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-instituto-campechano-3928"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1965-08-31"
-last_updated: "1965-08-31"
+last_updated: "1971-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DEL INSTITUTO CAMPECHANO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1971.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 31 de agosto de 1965
 
@@ -43,9 +43,11 @@ LEY ORGANICA DEL INSTITUTO CAMPECHANO
 
 Se restablece el Instituto Campechano, que desapareció al crearse la Universidad de Campeche.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1971)</small>
+
 ###### Artículo 2o.
 
-El Instituto Campechano es una institución pública, dotada de plena capacidad jurídica y organizada para impartir educación secundaria, formar maestros para las escuelas de educación primaria, capacitar a los jóvenes para el ejercicio de alguna actividad artística, y poner la cultura, con la mayor amplitud posible, al servicio de la colectividad.
+El Instituto Campechano es una institución pública, dotada de plena capacidad jurídica y organizada para impartir educación secundaria, formar maestros para las escuelas de educación primaria y de profesoras de enseñanza pre-escolar, capacitar a los jóvenes para el ejercicio de alguna actividad artística, y poner la cultura con la mayor amplitud posible, al servicio de la colectividad.
 
 ###### Artículo 3o.
 
@@ -69,7 +71,13 @@ I.- Escuela Secundaria (diurna y nocturna);
 
 II.- Escuela Normal de Profesores y escuela primaria anexa;
 
-III.- Escuela de Artes y Oficios.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1971)</small>
+
+III.- Escuela de Profesoras de Enseñanza Pre-escolar y jardín de niños anexo;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 1971)</small>
+
+IV.- Escuela de Artes y Oficios.
 
 ###### Artículo 6o.
 
@@ -129,7 +137,9 @@ VII.- Proponer al Consejo General, por medio de ternas, las personas que deben s
 
 VIII.- Nombrar a los secretarios de las escuelas y demás empleados del Instituto, removerlos de sus puestos, concederles licencias y aceptarles sus renuncias;
 
-IX.- Firmar en unión del Gobernador del Estado, el título de profesor de educación primaria que el propio funcionario otorgue;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1971)</small>
+
+IX.- Firmar en unión del Gobernador del Estado, el título de Profesor de Educación Primaria y el de Profesora de Enseñanza Pre-escolar, que el propio funcionario otorgue;
 
 X.- Firmar, en unión del Secretario, los certificados de estudios y diplomas que otorgue el Instituto;
 
@@ -139,7 +149,9 @@ XII.- Profesar una asignatura, cuando menos, en alguna de las escuelas del Insti
 
 XIII.- Aprobar los programas de exámenes ordinarios propuestos por los Directores de las escuelas;
 
-XIV.- Recibir la protesta de fiel cumplimiento de sus deberes sociales y del ejercicio honesto de su profesión, a las personas que sean aprobadas en el examen profesional en opción al título de profesor de educación primaria;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1971)</small>
+
+XIV.- Recibir la protesta de fiel cumplimiento de sus deberes sociales y del ejercicio honesto de su profesión, a las personas que sean aprobadas en los exámenes profesionales en opción al título de Profesor de Educación Primaria o el de Profesora de Enseñanza Pre-escolar;
 
 XV.- Presentar anualmente al Consejo General, en la última sesión del período escolar correspondiente, un informe por escrito acerca de las actividades del Instituto;
 
@@ -205,7 +217,9 @@ IX.- Conocer de todos los asuntos relacionados con los reglamentos y normas a qu
 
 X.- Nombrar, remover y conceder licencias de sus cargos, así como resolver acerca de sus renuncias, al personal docente de las escuelas del Instituto;
 
-XI.- Conceder el examen profesional de profesor de educación primaria;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1971)</small>
+
+XI.- Conceder exámenes profesionales de Profesor de Educación Primaria y de Profesora de Enseñanza Pre-escolar;
 
 XII.- Conceder exámenes a título de suficiencia;
 
@@ -439,7 +453,9 @@ e).- Exámenes a título de suficiencia;
 
 f).- Exámenes de regularización.
 
-II.- En la Escuela Normal de Profesores:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 1971)</small>
+
+II.- En la Escuela Normal de Profesores de Educación Primaria y en la de Profesoras de Enseñanza Pre-escolar:
 
 a).- Pruebas semestrales;
 
@@ -459,21 +475,29 @@ III.- En la Escuela de Artes y Oficios, pruebas bimestrales.
 
 En el reglamento correspondiente se establecerán los sistemas para realizar dichos medios de pruebas y exámenes, las condiciones a llenar para tener derecho a presentarlos, la escala de calificaciones y la manera de obtener los promedios de éstas y el contenido de las actas respectivas que se levantarán y de las constancias que se les entregarán a los examinados.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1971)</small>
+
 ###### Artículo 55.
 
-El título de profesor de educación primaria a que tengan derecho las personas que hayan aprobado el plan de estudio de la Escuela Normal de Profesores y hayan cumplido con los demás requisitos que para obtenerlo exija el reglamento de la misma Escuela, será expedido por el Ejecutivo del Estado.
+El título de Profesor de Educación Primaria y el de Profesora de Enseñanza Pre-escolar, a que tengan derecho las personas que hayan aprobado el plan de estudios correspondiente y que hayan cumplido con los demás requisitos que para obtenerlos exija el reglamento de sus respectivas escuelas, será expedido por el Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1971)</small>
 
 ###### Artículo 56.
 
-Para obtener dicho título, el interesado deberá solicitarlo por escrito al Gobernador del Estado, acompañado a su solicitud, copia certificada del acta de su examen profesional, librada por la Secretaría de la Escuela Normal de Profesores.
+Para obtener dichos títulos, los interesados deberán solicitarlos por escrito al Gobernador del Estado, acompañando a su solicitud, copia certificada del acta de examen profesional, librada por la Secretaría de la escuela respectiva.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1971)</small>
 
 ###### Artículo 57.
 
-El mencionado título será firmado por el Gobernador del Estado, el Secretario General de Gobierno y el Director del Instituto Campechano.
+Los mencionados títulos serán firmados por el Gobernador del Estado, el Secretario General de Gobierno y el Director del Instituto Campechano.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1971)</small>
 
 ###### Artículo 58.
 
-El título de referencia será registrado en la Secretaría General de Gobierno y en la Secretaría de la Escuela Normal de Profesores.
+Los títulos de referencia serán registrados en la Secretaría General de Gobierno y en la Secretaría de la escuela correspondiente.
 
 ###### Artículo 59.
 
@@ -561,13 +585,17 @@ Conocerán de las faltas de los profesores y de los alumnos; el Consejo General,
 
 Si al investigar una falta apareciesen responsabilidades penales, deberá hacerse la consignación respectiva a las autoridades que correspondan, sin perjuicio de imponer las sanciones señaladas.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1971)</small>
+
 ###### Artículo 73.
 
-La escuela primaria anexa a la Escuela Normal de Profesores, funcionará con sujeción al reglamento relativo y bajo el control de la misma Escuela Normal.
+La escuela primaria y el jardín de niños anexos a la Escuela Normal de Profesores y a la Escuela de Profesoras de Enseñanza Pre-escolar, respectivamente, funcionarán con sujeción a sus reglamentos y bajo el control de la escuela de que dependan.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1971)</small>
 
 ###### Artículo 74.
 
-La referida escuela primaria contará con el personal docente y administrativo que sea necesario, y deberá ser modelo de organización escolar y de realización técnica del trabajo docente.
+La referida escuela primaria y el jardín de niños, contará con el personal docente y administrativo que sea necesario, y deberán ser modelos de organización escolar y de realización técnica del trabajo docente.
 
 ###### Artículo 75.
 
@@ -602,3 +630,9 @@ Dado en el Palacio del Poder Legislativo del Estado, en Campeche, a los treinta 
 Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado, en Campeche, a los treinta días del mes de agosto del año de mil novecientos sesenta y cinco. El Secretario General de Gobierno, Encargado del Despacho del Poder Ejecutivo del Estado, Profr. Nicolás Canto Carrillo.- El Oficial Mayor Int. En Funciones de Secretario General, Lic. Mario Rivas Cervera.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE AGOSTO DE 1971.
+
+UNICO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
