@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2004-04-30"
+last_updated: "2004-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE AGOSTO DE 2004.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -269,9 +269,11 @@ Los nombramientos y licencias de los magistrados del Tribunal Superior de Justic
 
 La Legislatura recibirá en sesión solemne el 5 de septiembre de cada año, el informe del Gobernador, sobre el estado que guarde la administración pública de la entidad.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 35.
 
-La Legislatura recibirá anualmente para su revisión y calificación la cuenta de gastos del Estado, correspondiente al año inmediato anterior, a más tardar el 20 de julio.
+La Legislatura recibirá anualmente para su revisión y calificación las cuentas de gastos del Estado, correspondiente al año inmediato anterior, a más tardar el 15 de mayo, y de los municipios dentro de los primeros quince días del mes de marzo.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -351,7 +353,7 @@ La Directiva de la Legislatura estará integrada por un presidente, dos vicepres
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
-El Presidente será electo para todo el periodo ordinario de sesiones, los demás integrantes de la Directiva serán electos mensualmente. La elección se llevará a cabo mediante votación secreta. El Presidente fungirá en su encargo por todo el peíodo ordinario de sesiones, los demás integrantes fungirán por un mes. El Presidente no podrá ser electo para ocupar igual cargo durante el período de sesiones siguiente. Las mismas disposiciones regirán en la elección de la directiva de los períodos extraordinarios.
+El Presidente será electo para todo el periodo ordinario de sesiones, los demás integrantes de la Directiva serán electos mensualmente. La elección se llevará a cabo mediante votación secreta. El Presidente fungirá en su encargo por todo el período ordinario de sesiones, los demás integrantes fungirán por un mes. El Presidente no podrá ser electo para ocupar igual cargo durante el período de sesiones siguiente. Las mismas disposiciones regirán en la elección de la directiva de los períodos extraordinarios.
 
 El Presidente de la Directiva, lo será también de la Legislatura.
 
@@ -671,9 +673,9 @@ III.- Apoyar en el desarrollo de sus trabajos a las comisiones y comités;
 
 IV. Supervisar la edición del "Diario de Debates" y de la "Gaceta Parlamentaria";
 
-> <small>(REFORMADA, G.G. 19 DE AGOSTO DEL 2003)</small>
+> <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2004)</small>
 
-V. Proponer a la Asamblea la designación del Contador General de Glosa, del Secretario de Asuntos Parlamentarios, del Contralor, del Secretario de Administración y Finanzas, del Director General de Comunicación Social y del Vocal Ejecutivo del Instituto de Estudios Legislativos así mismo, informarle sobre la renuncia, remoción o licencia de éstos.
+V.- Proponer a la Asamblea la designación del Auditor Superior, del Secretario de Asuntos Parlamentarios, del Contralor, del Secretario de Administración y Finanzas, del Director General de Comunicación Social y del Vocal Ejecutivo del Instituto (sic) Estudios Legislativos; asimismo, informar sobre la renuncia, remoción o licencia de éstos.
 
 VI.- Establecer las bases para la elaboración y aplicación del presupuesto anual del Poder Legislativo;
 
@@ -943,9 +945,9 @@ A más tardar, en la tercera sesión del primer periodo de sesiones ordinarias, 
 
 - Asuntos Metropolitanos
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2004)</small>
 
-- Inspección de la Contaduría General de Glosa
+- Vigilancia
 
 > <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
@@ -1155,7 +1157,9 @@ La falta de respuesta de los ayuntamientos en el término indicado, será consid
 
 Para el ejercicio de sus funciones, la Legislatura contará con las Dependencias siguientes:
 
-I. Contaduría General de Glosa;
+> <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2004)</small>
+
+I. Organo Superior de Fiscalización;
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DEL 2003)</small>
 
@@ -1175,9 +1179,11 @@ VI. Instituto de Estudios Legislativos.
 
 Asimismo, podrá disponer la creación de otras que sean necesarias.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 95.
 
-Para el control, fiscalización, revisión y calificación del ingreso y del gasto público del Estado y municipios y de los organismos auxiliares, la Legislatura dispondrá de la Contaduría General de Glosa, cuya organización y funcionamiento se regirán por su ley orgánica y su reglamento.
+Para el control, fiscalización, revisión y calificación del ingreso y del gasto público de los Poderes del Estado, Organismos Autónomos, Organismos Auxiliares y demás entes públicos que manejen recursos del Estado y Municipios, la Legislatura dispondrá del Organo Superior de Fiscalización, cuya organización y funcionamiento se regirá por lo dispuesto en la Ley de Fiscalización Superior del Estado de México y el reglamento interior.
 
 (REFORMADO PRIMER PARRAFO, G.G. 19 DE AGOSTO DEL 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)
 
@@ -1400,3 +1406,31 @@ CUARTO.- La Gaceta Parlamentaria establecida en el presente Decreto, es de natur
 QUINTO.- Se derogan las disposiciones que se opongan al presente decreto.
 
 SEXTO.- Las disposiciones concernientes a la integración y periodo de duración de la Directiva, así como a la denominación del órgano Junta de Coordinación Política serán vigentes hasta en tanto entren en vigor las reformas a la Constitución Política del Estado Libre y Soberano de México, aprobadas por esta Legislatura.
+
+G.G. 26 DE AGOSTO DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente en que la reforma constitucional cause sus efectos legales.
+
+TERCERO.- Se abroga la Ley Orgánica para la Contaduría General de Glosa del Poder Legislativo del Estado de México, publicada en el Periódico Oficial Gaceta del Gobierno el 15 de octubre de 1991.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en este decreto.
+
+QUINTO.- Toda referencia a la Contaduría General de Glosa en las disposiciones legales o administrativas, contratos, convenios o actos, expedidas o celebrados con anterioridad a la vigencia del presente decreto, se entenderá hecha al Organo Superior de Fiscalización del Estado de México.
+
+SEXTO.- Los procedimientos iniciados por la Contaduría General de Glosa, que se encuentren en trámite al entrar en vigor este ordenamiento, se resolverán por el Organo Superior de Fiscalización, conforme a las disposiciones de la Ley Orgánica para la Contaduría General de Glosa del Poder Legislativo del Estado de México.
+
+SEPTIMO.- Dentro de un plazo, que no exceda de ciento veinte días naturales, contados a partir de la vigencia de la presente Ley, la Legislatura del Estado designará al Auditor Superior del Estado de México. En tanto se nombra al Auditor Superior, dicha función será ejercida de manera provisional por el Contador General de Glosa de la Legislatura.
+
+OCTAVO.- El Organo Superior de Fiscalización dentro del plazo que no exceda de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, expedirá su Reglamento interior y lo someterá a la consideración de la Comisión de Vigilancia.
+
+NOVENO.- Las cuentas públicas del Estado y Municipios relativas al ejercicio fiscal de dos mil cuatro, serán revisadas, fiscalizadas y calificadas, de acuerdo con las disposiciones aplicables de la Ley Orgánica para la Contaduría General de Glosa del Poder Legislativo del Estado de México y demás leyes en la materia aplicables.
+
+DECIMO.- La H. Legislatura del Estado de México proveerá lo necesario para determinar el presupuesto necesario para la operación del Organo Superior de Fiscalización.
+
+DECIMO PRIMERO.- Los Diputados integrantes de la Comisión de Inspección de la Contaduría General de Glosa pasarán a formar parte de la Comisión de Vigilancia de la Legislatura del Estado.
+
+DECIMO SEGUNDO.- El personal que labora actualmente en la Contaduría General de Glosa quedará adscrito al Organo Superior de Fiscalización, quedando a salvo sus derechos laborales.
+
+DECIMO TERCERO.- Los recursos financieros y materiales con que cuenta la Contaduría General de Glosa, así como los archivos, expedientes, documentos y papeles, pasarán al Organo Superior de Fiscalización, quedando destinados al cumplimiento de sus fines.
