@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2003-09-05"
+last_updated: "2003-09-12"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE SEPTIEMBRE DE 2003.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -127,9 +127,9 @@ I.- PRIMER CIRCUITO:
 
 2.- Seis tribunales unitarios especializados: cuatro en materia penal y dos en materias civil y administrativa, todos con residencia en el Distrito Federal.
 
-> <small>(REFORMADO POR EL PUNTO DECIMOCUARTO DEL ACUERDO GENERAL 62/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 55/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE SEPTIEMBRE DE 2003)</small>
 
-3.- Cincuenta juzgados de distrito en el Distrito Federal especializados: dieciocho en materia de procesos penales federales, seis de amparo en materia penal, once en materia administrativa, doce en materia civil y tres en materia de trabajo, todos con sede en el Distrito Federal.
+3.- Cincuenta y un juzgados de distrito en el Distrito Federal especializados: dieciocho en materia de procesos penales federales, seis de amparo en materia penal, once en materia administrativa, doce en materia civil y cuatro en materia de trabajo, todos con sede en el Distrito Federal.
 
 II.- SEGUNDO CIRCUITO:
 
@@ -307,7 +307,9 @@ XVII.- DECIMOSEPTIMO CIRCUITO:
 
 2.- Cuatro tribunales unitarios: dos con residencia en Chihuahua y dos con sede en Juárez.
 
-3.- Siete juzgados de distrito en el Estado de Chihuahua: tres con residencia en la ciudad del mismo nombre y cuatro con sede en Juárez.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 57/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE SEPTIEMBRE DE 2003)</small>
+
+3.- Nueve juzgados de distrito en el Estado de Chihuahua: cuatro con residencia en la ciudad del mismo nombre y cinco con sede en Juárez.
 
 XVIII.- DECIMOCTAVO CIRCUITO:
 
@@ -1098,6 +1100,30 @@ PRIMERO.- Este acuerdo entrará en vigor el uno de agosto de dos mil tres.
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 D.O.F. 5 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- Este acuerdo entrará en vigor el diecisiete de septiembre de dos mil tres.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 12 DE SEPTIEMBRE DE 2003.
+
+ACUERDO 55/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO I, NUMERO 3.
+
+PRIMERO.- Este acuerdo entrará en vigor el diecisiete de septiembre de dos mil tres.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 12 DE SEPTIEMBRE DE 2003.
+
+ACUERDO 56/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO XVII, NUMERO 3.
+
+PRIMERO.- Este acuerdo entrará en vigor el diecisiete de septiembre de dos mil tres.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 12 DE SEPTIEMBRE DE 2003.
+
+ACUERDO 57/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO XVII, NUMERO 3.
 
 PRIMERO.- Este acuerdo entrará en vigor el diecisiete de septiembre de dos mil tres.
 
