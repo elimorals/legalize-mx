@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1952-11-26"
+last_updated: "1953-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 1952.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 1953.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -425,13 +425,13 @@ No pueden ser electos Diputados Locales:
 
 I.- El Gobernador del Estado, los Senadores y Diputados Federales, aun cuando se separen definitivamente de sus puestos.
 
-> <small>(REFORMADA P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADA P.O. 24 DE JUNIO DE 1953)</small>
 
-II.- El Secretario General de Gobierno, el Oficial Mayor, los Magistrados del Tribunal Superior de Justicia, el Procurador General de Justicia, los empleados federales en funciones y el Tesorero General, sin que renuncien y se separen de sus cargos, noventa días antes de la elección.
+II.- El Secretario General de Gobierno, el Subsecretario de Gobierno, el Oficial Mayor de Gobierno, los Magistrados del Tribunal Superior de Justicia, el Procurador General de Justicia, los Empleados Federales en funciones y el Director General de Hacienda, sin que renuncien y se separen de sus cargos con noventa días antes de la elección.
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 1953)</small>
 
-III.- Tampoco pueden serlo, por el Distrito en que ejerzan jurisdicción, los Jueces de Primera Instancia, Administradores de Rentas, Presidentes Municipales y Jefes de Policía, a menos que renuncien y se separen de sus cargos, noventa días antes de la elección.
+III.- Tampoco pueden serlo por el Distrito en que ejerzan jurisdicción, los Jueces de Primera Instancia, Recaudadores de Hacienda, Presidentes Municipales y Director General de Seguridad Pública del Estado, a menos que renuncien o se separen de su cargo noventa días antes de la elección.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 1951)</small>
 
@@ -673,7 +673,7 @@ El Congreso, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar l
 
 ## TITULO SEXTO. De la Hacienda Pública
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1953)</small>
 
 ###### ARTICULO 36.
 
@@ -809,9 +809,9 @@ El Gobernador del Estado podrá ausentarse del territorio del mismo, hasta por e
 
 Son facultades y obligaciones del Gobernador:
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 1933)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 1953)</small>
 
-I.- Nombrar y remover libremente al Secretario General, Oficial Mayor, Tesorero General, Procurador General de Justicia, Agentes del Ministerio Público y demás funcionarios y empleados subalternos, en los ramos administrativo y hacendario, quienes no podrán estar afiliados o subordinados a organizaciones religiosas. Proponer terna al Tribunal Superior de Justicia para que nombre a los Jueces de Primera Instancia, Visitador Judicial y Asesores;
+I.- Nombrar y remover libremente al Secretario General de Gobierno, Subsecretario de Gobierno, Oficial Mayor de Gobierno, Director General de Hacienda, Procurador General de Justicia, Sub-Procurador General de Justicia y Empleados Subalternos, en los ramos administrativos y hacendarios, quienes no podrán pertenecer al Estado Eclesiástico o ser Ministros de algún culto;
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 1931)</small>
 
@@ -1049,13 +1049,15 @@ Los Municipios tienen personalidad jurídica para todos los efectos legales.
 
 ###### ARTICULO 71.
 
-La Tesorería General del Estado, estará a cargo de un Tesorero General y dependerá directamente del Ejecutivo.
+La Dirección General de Hacienda del Estado estará a cargo de un Director General y dependerá directamente del Ejecutivo.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1953)</small>
 
 ## TITULO OCTAVO. Prevenciones Generales
 
 ###### ARTICULO 72.
 
-La Dirección de Rentas del Estado estará a cargo del Tesorero General y dependerá directamente del Ejecutivo.
+El Director General de Hacienda presentará mensualmente al Gobierno los cortes de caja y balance de comprobación relativos al movimiento de fondos habidos en el mes anterior. Estos documentos se publicarán desde luego en el Periódico Oficial.
 
 > <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
 
@@ -1075,11 +1077,11 @@ Para la glosa de las cuentas de los caudales del Estado y Municipales, habrá un
 
 Para la glosa de las cuentas de los caudales del Estado y municipales, habrá una Contaduría General, que dependerá exclusivamente del Congreso o, en su receso, de la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1953)</small>
 
 ###### ARTICULO 76.
 
-Los Diputados, los Magistrados, el Secretario General, el Procurador de Justicia, el Tesorero General y el Contador Mayor de Glosa, son responsables de los delitos comunes que cometan mientras ejercen su encargo y por los delitos, faltas u omisiones en que incurran en el ejercicio de este mismo encargo. El Gobernador, durante el período de sus funciones, sólo podrá ser acusado por traición a la patria y delitos graves del orden común.
+Los Diputados, Los Magistrados, el Secretario General, el Subsecretario, el Oficial Mayor de Gobierno, el Procurador General de Justicia, el Director General de Hacienda y el Contador Mayor de Glosa son responsables de los delitos comunes que cometan mientras ejercen su encargo y por los delitos, faltas u omisiones en que incurren en el ejercicio de este mismo encargo. El Gobernador, durante el período de sus funciones, sólo podrá ser acusado por traición a la Patria y delitos graves del orden común.
 
 ###### ARTICULO 77.
 
@@ -1161,9 +1163,11 @@ Ningún individuo del Ejército o de la Policía, en servicio activo, podrá ser
 
 Los ministros de los cultos religiosos tienen incapacidad absoluta para desempeñar cargos públicos.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1953)</small>
+
 ###### ARTICULO 93.
 
-Los cargos de Gobernador, Diputados y Magistrados al Superior Tribunal de Justicia, sólo son renunciables por causa grave, calificada por el Congreso, ante el que se presentará la renuncia.
+El Secretario General, el Subsecretario y el Oficial Mayor de Gobierno no podrán ejercer la abogacía sino en causa propia. Tampoco pueden ejercer el Notariado, ni ser Albaceas, Depositario Judicial, Síndico, Administrador, Interventor de Concurso, Testamentarias o Intestado.
 
 ###### ARTICULO 94.
 
@@ -1478,3 +1482,13 @@ Quedan derogadas todas las Leyes, Decretos y demás disposiciones que se opongan
 ###### Artículo 2o.
 
 Este decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JUNIO DE 1953.
+
+###### Artículo 1o.
+
+Quedan derogadas todas las leyes, decretos y demás disposiciones que se opongan a las reformas a que se contrae este decreto.
+
+###### Artículo 2o.
+
+Este Decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
