@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2003-10-04"
+last_updated: "2005-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -537,9 +537,9 @@ SANCIONES A LAS PERSONAS MORALES.
 
 La amonestación consiste en la diligencia formal pública o privada en la que el Juez explicará a todo sentenciado las consecuencias del delito cometido, exhortándolo a la enmienda y previniéndolo de los efectos jurídicos que le acarrearía la comisión de un nuevo delito.
 
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2005)</small>
 
-El trabajo en favor de la comunidad consiste en la prestación de servicios no remunerados de hasta cien jornadas, a que es condenado por el Juez el sentenciado primodelincuente, que haya cubierto o garantizado la reparación del daño, que no revele temibilidad y en el caso de ser sustitución de prisión, que la pena privativa de la libertad impuesta no sea superior a cuatro años de prisión.
+El trabajo a favor de la comunidad consiste en la prestación de servicios no remunerados de hasta cien jornadas, a que es condenado por el Juez el sentenciado primodelincuente, que haya cubierto o garantizado la reparación del daño, que no revele temibilidad y, en el caso de ser sustitutivo de la prisión, que la pena privativa de la libertad impuesta no sea superior a cuatro años. En este último caso, los trabajos a favor de la comunidad podrán ser, a juicio del juez, tomando en consideración si el sentenciado ha cumplido o no parte de la prisión, de hasta trescientas jornadas.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -721,7 +721,7 @@ No se impondrá sanción a quien culposamente y con motivo del tránsito de veh�
 
 CONMUTACION Y SUSPENSION CONDICIONAL DE LA EJECUCION DE PENAS.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 72.
 
@@ -753,7 +753,7 @@ En caso de delito continuando, la sanción podrá aumentarse hasta una mitad má
 
 Cuando una conducta o hecho pueda ser considerado bajo dos o más tipos, y bajo cada uno de ellos merezca sanciones diversas, se impondrá la mayor.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE ABRIL DE 2005)</small>
 
 ### CAPITULO I.
 
@@ -761,17 +761,31 @@ PERDON DEL OFENDIDO.
 
 ###### ARTICULO 78.
 
-La pena de prisión no mayor de tres años impuesta al primodelincuente, podrá ser conmutada por multa, cuya cuantía será fijada en sentencia. También el Juez podrá suspender la prisión si la pena no exceda de cuatro años. Como condición para que operen estos beneficios, el sentenciado deberá pagar la reparación del daño y cumplir los siguientes requisitos:
+La pena de prisión no mayor de tres años impuesta al primodelincuente, podrá ser conmutada por multa, cuya cuantía será fijada en sentencia. También el Juez podrá substituir por trabajos a favor de la comunidad o suspender la prisión, según lo que corresponda, si la pena no excede de cuatro años.
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
 
 I.- Que no existan circunstancias que acrediten la temibilidad del sentenciado;
 
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+
 II.- Que se obligue ante la autoridad competente a comparecer cuantas veces sea requerido por ésta;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
 
 III.- Que se comprometa a desarrollar una ocupación lícita;
 
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+
 IV.- Que se abstenga del abuso de bebidas embriagantes y del empleo de drogas sin prescripción médica, y
 
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+
 V.- Que el condenado se abstenga de causar molestias al ofendido, a sus familiares o a las personas relacionadas con el proceso.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2005)</small>
+
+El Juez en la sentencia deberá dar a conocer al sentenciado estos beneficios y, en caso de que pueda operar al mismo tiempo tanto la conmutación como la sustitución de la pena, establecerá las condiciones de una y otra y será optativo para el sentenciado acogerse a uno u otro beneficio.
 
 > <small>(DEROGADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -783,7 +797,9 @@ MUERTE DEL DELINCUENTE.
 
 En caso de suspensión, el Juez fijará la garantía que estime necesaria para el cumplimiento de las obligaciones a que se refieren las fracciones del artículo anterior. En cuanto a las penas no privativas de libertad, el Juez resolverá discrecionalmente sobre la suspensión, salvo la reparación del daño y el decomiso.
 
-Son inconmutables y no podrán suspenderse las penas por los delitos de cohecho, peculado, violación y corrupción de menores.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2005)</small>
+
+Son inconmutables y no podrán sustituirse ni suspenderse las penas por los delitos de cohecho, peculado, violación y corrupción de menores.
 
 ###### ARTICULO 80.
 
@@ -2978,3 +2994,7 @@ P.O. 4 DE OCTUBRE DE 2003.
 ###### ARTÍCULO ÚNICO.
 
 El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado Colima".
+
+P.O. 2 DE ABRIL DE 2005.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
