@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1986-12-31"
+last_updated: "1987-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1987.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -358,6 +358,10 @@ II.- Se pague parcial o totalmente el precio, salvo en los casos que esta Ley se
 
 III.- Se expida el comprobante que ampare la enajenación.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
+Tratándose de certificados de participación, se considera que éstos se enajenan en el momento en que se entreguen materialmente al adquirente los bienes que estos certificados amparen. No quedan comprendidos en este párrafo los certificados de participación inmobiliaria.
+
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 12.
@@ -451,6 +455,10 @@ d) Paguen los trabajadores a sus patrones en operaciones de mutuo, así como los
 e).- Provengan de cajas de ahorro de los trabajadores, y de fondos de ahorro establecido por las empresas siempre que reúna los requisitos de deducibilidad en los términos de la Ley del Impuesto sobre la Renta.
 
 f).- Deriven de obligaciones emitidas conforme a lo dispuesto en la Ley General de Títulos y Operaciones de Crédito.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
+g).- Reciban o paguen las instituciones públicas que emitan bonos y administren planes de ahorro con la garantía incondicional de pago del Gobierno Federal, conforme a la Ley.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -590,13 +598,17 @@ I.- Las que, en los términos de la legislación aduanera, no lleguen a consumar
 
 II.- Las de equipajes y menajes de casa a que se refiere la legislación aduanera.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
-III.- Las de bienes cuya enajenación en el país y la de servicios por cuya prestación en territorio nacional, no den lugar al pago del impuesto al valor agregado o se les aplique la tasa del 0%. No quedan comprendidos en esta fracción los bienes muebles usados.
+III.- Las de bienes cuya enajenación en el país y las de servicios por cuya prestación en territorio nacional, no den lugar al pago del impuesto al valor agregado o se les aplique la tasa de 0% y las de bienes muebles usados, únicamente cuando éstos sean de los mencionados en los artículos 2o.-A, fracción I, inciso e) y 9o., fracción III, de esta Ley.
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 IV.- Las de bienes donados por residentes en el extranjero a la Federación, entidades federativas, municipios o a cualquier otra persona que mediante reglas de carácter general autorice la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
+V.- Las de obras de arte que por su calidad y valor cultural sean reconocidas como tales por las instituciones oficiales competentes, siempre que se destinen a exhibición pública en forma permanente.
 
 ###### ARTICULO 26.
 
@@ -628,15 +640,21 @@ El valor que se tomará en cuenta tratándose de importación de bienes o servic
 
 Tratándose de bienes exportados temporalmente y retornados al país con incremento de valor, éste será el que se utilice para los fines del impuesto general de importación, con las adiciones a que se refiere el primer párrafo de este artículo.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 28.
 
-Tratándose de la importación de bienes tangibles, el pago tendrá el carácter de provisional y se hará conjuntamente con el del impuesto general de importación, inclusive cuando el pago del segundo se difiera en virtud de encontrarse los bienes en depósito fiscal en los almacenes generales de depósito, sin que contra dicho pago se acepte el acreditamiento o compensación.
+Tratándose de importación de bienes tangibles, el pago tendrá el carácter de provisional y se hará conjuntamente con el del impuesto general de importación, inclusive cuando el pago del segundo se difiera en virtud de encontrarse los bienes en depósito fiscal en los almacenes generales de depósito, sin que contra dicho pago se acepte el acreditamiento.
+
+> <small>(REFORMADO, D.O.F. 3O DE DICIEMBRE DE 1980)</small>
 
 Cuando se trate de bienes por los que no se esté obligado al pago del impuesto general de importación, los contribuyentes efectuarán el pago del impuesto que esta Ley establece, mediante declaración que presentarán ante la aduana correspondiente.
 
+> <small>(REFORMADO, D.O.F. 3O DE DICIEMBRE DE 1980)</small>
+
 El impuesto al valor agregado pagado al importar bienes dará lugar a acreditamiento en los términos y con los requisitos del artículo 4o. de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 3O DE DICIEMBRE DE 1980)</small>
 
 No podrán retirarse mercancías de la aduana o recinto fiscal o fiscalizado, sin que previamente quede hecho el pago que corresponde conforme a esta Ley.
 
@@ -730,15 +748,29 @@ Cuando se trate de actos o actividades que se realicen con el público en genera
 
 En todo caso, los contribuyentes estarán obligados a trasladar el impuesto en forma expresa y por separado en la documentación a que se refiere esta fracción, cuando el adquirente, el prestatario del servicio o quien use o goce temporalmente el bien, así lo solicite.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
-IV.- Presentar en las oficinas autorizadas las declaraciones señaladas en esta ley. Si un contribuyente tuviera varios establecimientos, presentará por todos ellos una sola declaración, mensual o del ejercicio, según se trate, en las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente. Lo dispuesto en esta fracción no es aplicable a los casos señalados en los artículos 28 y 33 de esta Ley.
+IV.- Presentar en las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente, las declaraciones señaladas en esta Ley. Si el contribuyente tuviera varios establecimientos presentará por todos ellos una sola declaración, mensual o del ejercicio.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
-Los contribuyentes a que se refiere el párrafo anterior deberán conservar en cada uno de dichos establecimientos copia de la declaración mensual y del ejercicio, así como proporcionar copia de las mismas a las autoridades fiscales de las entidades federativas donde se encuentren ubicados esos establecimientos, cuando así se lo requieran.
+Si dichos establecimientos se encuentran en dos o más entidades federativas, la declaración de que se trate se presentará en la oficina autorizada dentro de la entidad federativa en la que el contribuyente tenga el mayor valor de activos fijos y de terrenos, afectos a los actos o actividades por los que deba pagar este impuesto. En caso de que no tenga dichos bienes, se presentará en la oficina autorizada de la entidad federativa donde se encuentre ubicado su domicilio fiscal.
 
-Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el país, con cuya intervención éstas efectúen actividades por las que deba pagarse impuesto conforme a esta Ley, están obligados a formular a nombre de sus representadas las declaraciones correspondientes y pagar el impuesto respectivo, por el que tendrán responsabilidad solidaria.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
+Si el contribuyente debe presentar la declaración en una oficina autorizada distinta de la que corresponda a su domicilio fiscal, dará aviso a las oficinas autorizadas correspondientes, en el que señale la ubicación del establecimiento en razón del cual hará la presentación de las declaraciones. En el citado aviso designará a su representante en dicho establecimiento.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
+Los contribuyentes que tengan varios establecimientos deberán conservar, en cada uno de ellos, copia de las declaraciones mensuales y del ejercicio, así como proporcionar copia de las mismas a las autoridades fiscales de las entidades federativas donde se encuentren ubicados esos establecimientos, cuando así se lo requieran.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
+Lo dispuesto en esta fracción no es aplicable a los casos señalados en los artículos 28 y 33 de esta Ley.
+
+> <small>N. DE E. EL PRESENTE PARRAFO FUE EXPRESAMENTE DEROGADO POR DECRETO PUBLICADO EN EL D.O.F. DE 31 DE DICIEMBRE DE 1981; SIN EMBARGO, EN EL DECRETO PUBLICADO EN EL D.O.F. DE 31 DE DICIEMBRE DE 1987, SE HACE MENCION DE LA FRASE INICIAL DEL MISMO COMO SI NO HUBIERA SIDO DEROGADO.</small>
+
+Los contribuyentes dedicados a…
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -814,6 +846,12 @@ VI.- Presentar declaración del ejercicio.
 
 Las personas físicas que siendo contribuyentes menores en los términos del artículo 35 de esta Ley, que hayan optado por pagar el impuesto conforme al régimen general de la Ley del Impuesto sobre la Renta, o bien dejen de estar en los supuestos para ser considerados como tales en los términos de dicha Ley, por el año en que ejerzan la opción o dejen de estar en los supuestos señalados, cumplirán con las obligaciones a que se refiere el artículo 32 de esta Ley. Cuando los contribuyentes dejen de ser menores y hubieran efectuado pagos conforme a la estimación del valor de sus actos o actividades, los mismos se considerarán para el pago del impuesto del ejercicio.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
+###### ARTICULO 35.-B.
+
+Cuando los contribuyentes que dejen de ser menores, dentro del año de calendario en que ello ocurra, aporten sus bienes en calidad de socios a una sociedad mercantil para formar parte de su activo fijo, no estarán obligados a pagar el impuesto al valor agregado por esa enajenación. Lo dispuesto en este artículo sólo será aplicable si el contribuyente dejó de ser menor sin que medie el ejercicio de las facultades de comprobación de las autoridades fiscales.
+
 (REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)(F. DE E. D.O.F. 24 DE ENERO DE 1986)
 
 ###### ARTICULO 36.
@@ -834,9 +872,11 @@ Las autoridades fiscales podrán incrementar la estimación del valor de los act
 
 Las estimaciones que realicen las autoridades fiscales se harán por ejercicios y se dividirán entre seis para los efectos del pago bimestral.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO DECIMOQUINTO, FRACCION II DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1987.</small>
 
-La estimación del impuesto acreditable, se hará conforme a los por cientos de acreditamiento que en cada caso señale la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
+La estimación del impuesto acreditable, se hará conforme a los porcientos de acreditamiento que en cada caso señale el Reglamento de esta Ley.
 
 ### CAPITULO IX. DE LAS PARTICIPACIONES A LAS ENTIDADES FEDERATIVAS
 
@@ -1155,3 +1195,37 @@ c).- Presentar la solicitud de devolución ante la autoridad fiscal competente q
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1987.
+
+D.O.F. 31 DE DICIEMBRE DE 1987.
+
+Disposiciones Transitorias
+
+ARTICULO DECIMOQUINTO.- Para los efectos de las reformas a la Ley del Impuesto al Valor Agregado establecidas conforme al ARTICULO DECIMOCUARTO anterior, se estará a las siguientes disposiciones transitorias:
+
+l.- La reforma a la fracción IV del artículo 32 de la Ley, excepto lo dispuesto en los dos últimos párrafos de la misma, se aplicará a los contribuyentes que a partir del 1o. de enero de 1988 inicien actividades, o bien que habiéndolas realizado con anterioridad a esa fecha, cambien su domicilio fiscal a otra entidad federativa.
+
+ll.- La reforma al último párrafo del artículo 37 de la Ley, entrará en vigor a partir del 1o. de marzo de 1988.
+
+ARTICULO DECIMOSEXTO.- Durante el año de 1988, los contribuyentes personas físicas que se dediquen a la agricultura, ganadería o pesca, podrán solicitar la devolución mensual del saldo a favor que resulte de su pago provisional mensual, sin que tengan que cumplir con las obligaciones a que se refiere el artículo 32 fracciones I, II y IV de la Ley del Impuesto al Valor Agregado, cuando:
+
+l.- Se encuentren en los supuestos que a continuación se mencionan:
+
+a).- Los contribuyentes que se dediquen a la agricultura o a la ganadería bovina, cuando la totalidad de ingresos obtenidos en el ejercicio de 1987, hubieran provenido exclusivamente de las actividades señaladas en esta fracción y no excedan de 300 veces la cuota diaria del salario mínimo general correspondiente al Distrito Federal el 1o. de enero de 1988, multiplicado por 365.
+
+b).- Los contribuyentes que se dediquen a la pesca o a la ganadería distinta de la mencionada en el inciso anterior, cuando los ingresos obtenidos en 1987, no excedan de 200 veces la cuota diaria del salario mínimo general correspondiente al Distrito Federal al 1o. de enero de 1988, multiplicado por 365.
+
+c).- En el caso de contribuyentes que se dediquen a actividades avícolas, cuando sus instalaciones les permitan tener en explotación permanente durante el año de 1988, hasta 100,000 aves. En el caso de contribuyentes que realicen actividades porcícolas, cuando sus instalaciones les permitan tener una producción permanente que en el citado año no rebase la cantidad de 5,000 cerdos, siempre y cuando no excedan el límite de 300 veces la cuota diaria a que se refiere el inciso a).
+
+ll.- Cumplan, además, con los siguientes requisitos:
+
+a).- Estar inscritos en el registro federal de contribuyentes ante la oficina recaudadora de la entidad federativa que le corresponda a su domicilio fiscal.
+
+b).- Presentar declaraciones mensuales manifestando el valor de las actividades que realicen.
+
+c).- Presentar la solicitud de devolución ante la autoridad fiscal competente que corresponda a su domicilio fiscal, acompañando la declaración mensual en la que se determine el saldo a favor, los documentos en que conste en forma expresa y por separado el impuesto al valor agregado que se haya trasladado al contribuyente por bienes o servicios estrictamente indispensable para realizar las actividades del contribuyente, y en su caso, los documentos comprobatorios del pago de dicho impuesto por la importación de bienes tangibles.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1988.
