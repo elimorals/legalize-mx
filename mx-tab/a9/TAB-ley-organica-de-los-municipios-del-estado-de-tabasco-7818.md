@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-7818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1984-02-04"
-last_updated: "1991-11-23"
+last_updated: "1998-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 4 de febrero de 1984.
 
@@ -525,7 +525,11 @@ IV. Examinar, discutir y aprobar la iniciativa de Ley de Ingresos Municipales qu
 
 V. Examinar, discutir y aprobar el presupuesto de egresos sobre la base de sus ingresos disponibles y de conformidad con el Programa Operativo Anual correspondiente y el Plan Municipal de Desarrollo;
 
-VI. Examinar y presentar anualmente dentro de los primeros 90 días del año a la Legislatura durante el primer periodo de sesiones, las cuentas públicas para su revisión, acompañadas del presupuesto de Egresos aprobado, con la documentación que acredite las erogaciones y con el avance de las metas propuestas en el Plan Municipal y en los Programas Operativos Anuales.
+> <small>(REFORMADA, P.O. 08 DE AGOSTO DE 1998)</small>
+
+VI. Enviar mensualmente a la Contaduría Mayor de Hacienda, dentro de los quince días del mes siguiente que corresponda, los informes que acrediten las erogaciones y el avance de las metas propuestas en el Plan Municipal y en el Programa Operativo Anual. Asimismo, remitirán trimestralmente a la mencionada Contaduría, dentro de los quince días siguientes del trimestre respectivo, la cuenta pública para su revisión y calificación trimestral.
+
+Al presentar el informe del primer mes del ejercicio, deberá adjuntarse el presupuesto de egresos aprobado para dicho ejercicio fiscal. Los ajustes presupuestales autorizados, deberán presentarse en el informe mensual correspondiente;
 
 VII. Aprobar los proyectos de contratación de empréstitos que afecten los ingresos de las futuras administraciones municipales, los cuales deberán ser enviados a la Legislatura Local a través del Ejecutivo del Estado, para su autorización;
 
@@ -687,7 +691,9 @@ VII. Vigilar que las multas que impongan las autoridades municipales y jueces ca
 
 VIII. Cerciorarse de que el Tesorero o Director de Finanzas Municipal haya otorgado la fianza respectiva, comprobando la existencia y la identidad del fiador, y su solvencia económica y moral;
 
-IX. Hacer que se remitan oportunamente a la Legislatura del Estado las cuentas de la Dirección de Finanzas o Tesorería Municipal para su revisión anual, cumpliéndose con los requisitos legales exigidos al respecto;
+> <small>(REFORMADA, P.O. 08 DE AGOSTO DE 1998)</small>
+
+IX. Supervisar que el Director de Finanzas ó Tesorero Municipal, en representación del Ayuntamiento ó Concejo Municipal, de cumplimiento a lo ordenado en los artículos 65, fracción VI, párrafos cuarto y quinto de la Constitución Política del Estado y 50, fracción VI de esta Ley;
 
 X. Asistir a las visitas de inspección que se hagan a la Dirección de Finanzas o Tesorerías;
 
@@ -733,7 +739,9 @@ I. Realizar las acciones necesarias para el desarrollo municipal, siguiendo los 
 
 II. Formular y someter a la aprobación del Ayuntamiento el Bando de Policía y Buen Gobierno, los Reglamentos, Circulares y demás disposiciones administrativas de observancia general, así como promulgarlos, publicarlos, vigilar y sancionar su cumplimiento;
 
-III. Formular los planes y programas municipales de acuerdo a las Leyes respectivas, así como los presupuestos de ingresos y egresos, a fin de someterlos a la consideración del Ayuntamiento.
+> <small>(REFORMADA, P.O. 08 DE AGOSTO DE 1998)</small>
+
+III. Elaborar los Planes y Programas Municipales de acuerdo a las Leyes respectivas, así como el Presupuesto de Ingresos y Egresos, sometiéndolos a la consideración del Ayuntamiento. Debiendo además publicar en el Periódico Oficial del Estado y en todo el Municipio por el medio de comunicación impreso que considere idóneo, el Plan Municipal de Desarrollo y el Programa Operativo Anual, publicando también de manera trimestral los resultados de sus revisiones y, en su caso, sus adecuaciones.
 
 IV. Ejecutar los planes y programas municipales a que hace referencia la fracción anterior, así como llevar los controles presupuestales correspondientes para formular la cuenta pública, que será sometida a la Legislatura Local por medio del Ayuntamiento;
 
@@ -981,35 +989,53 @@ XV. Proponer al Presidente Municipal la cancelación de créditos incobrable a f
 
 XVI. Formular mensualmente los estados financieros de la Hacienda Municipal, presentando anualmente al Presidente Municipal, en el mes de enero, un informe pormenorizado del ejercicio fiscal anterior;
 
-XVII. Solventar conjuntamente con la Contraloría Municipal, las observaciones de glosa que finque la Legislatura del Estado, a través de la Contaduría Mayor de Hacienda, en un plazo no mayor de 30 días.
+> <small>(REFORMADA, P.O. 08 DE AGOSTO DE 1998)</small>
+
+XVII. Coordinar conjuntamente con la Contraloría Municipal, que se efectúen las solventaciones por los titulares de las dependencias generadoras de ingresos y responsables del ejercicio del gasto público, sobre las observaciones a la cuenta pública que finque la Legislatura del Estado, a través de la Contaduría Mayor de Hacienda. Estas solventaciones deberán ser entregadas a dicha Contaduría, en un plazo de quince días, contados a partir de la fecha de notificación; y
 
 XVIII. Las demás que le atribuyan expresamente las Leyes y Reglamentos respectivos.
 
-###### Artículo 87.
+###### Artículo 86.
 
-Corresponde a la Dirección de Programación el despacho de los siguientes asuntos:
+A la Dirección de Finanzas o Tesorería corresponderá el despacho de los siguientes asuntos:
 
-I. Elaborar con la participación de las dependencias y entidades de la Administración Municipal, el Plan Municipal de Desarrollo y, en coordinación con el Comité de Planeación para el Desarrollo del Estado de Tabasco, los programas operativos anuales, el programa del gasto público del Municipio y los proyectos específicos que fije el Presidente Municipal;
+I. Elaborar y proponer al Presidente Municipal los proyectos de Reglamentos y demás disposiciones de carácter general que se requieran para el manejo de los asuntos financieros y tributarios del municipio;
 
-II. Establecer la coordinación de los programas del Municipio con los del Gobierno del Estado y los de los municipios de la Región en que se esté ubicado;
+II. Vigilar el cumplimiento de las Leyes, Reglamentos y demás disposiciones de carácter fiscal, aplicable en el Municipio;
 
-III. Diseñar, implantar y actualizar un sistema de presupuesto acorde con los objetivos y necesidades de la administración municipal y asesorar y apoyar a las dependencias y entidades en la integración de sus programas específicos;
+III. Ejercer las atribuciones y funciones que en materia de administración fiscal se contengan en los convenios firmados entre el Gobierno Estatal y el Ayuntamiento;
 
-IV. Formular y proponer al Presidente Municipal el anteproyecto del presupuesto de egresos del Municipio, de acuerdo con las disponibilidad de recursos que señale la Tesorería o Dirección de Finanzas;
+IV. Formular el proyecto de Ley de Ingresos Municipales e intervenir en la elaboración y glosa del Presupuesto de Egresos Municipal;
 
-V. Autorizar los actos o contratos que resulten de los programas de inversión del Municipio y vigilar su cumplimiento;
+V. Cobrar los impuestos, derechos, productos y aprovechamientos e ingresos extraordinarios municipales, así como los impuestos y aprovechamientos estatales en los términos de las Leyes y convenios de coordinación respectivos;
 
-VI. Coordinar la ejecución de los programas de inversión pública del Municipio;
+VI. Custodiar, resguardar, trasladar y administrar los fondos y valores propiedad del Municipio;
 
-VII. Vigilar que los programas de inversión pública de las dependencias y entidades de la Administración Municipal, se realicen conforme a los objetivos y políticas fijadas por el Ayuntamiento;
+VII. Elaborar y mantener actualizado el padrón municipal de causantes, y llevar la estadística de ingresos del Municipio;
 
-VIII. Establecer el seguimiento de conformidad con las Leyes y Reglamentos respectivos, del ejercicio del Gasto Público y del Presupuesto de Egresos del Municipio;
+VIII. Practicar auditoría a los causantes en relación con sus obligaciones fiscales municipales;
 
-IX. Establecer y llevar los sistemas de contabilidad municipal y de estadística general del Municipio, de común acuerdo con la Contraloría Municipal;
+IX. Imponer sanciones por infracciones a las Leyes y Reglamentos fiscales;
 
-X. Recabar los datos del seguimiento general de la administración municipal, que sirvan de base para el informe anual que debe rendir el Presidente Municipal;
+X. Ejercer la facultad económico-coactiva, conforme a las leyes relativas;
 
-XI. Los demás que le atribuya expresamente las Leyes y Reglamentos respectivos.
+XI. Dirigir la negociación y llevar el registro y control de la deuda pública del Municipio, informando al Presidente Municipal periódicamente sobre el estado de las amortizaciones de capital y pago de intereses;
+
+XII. Organizar y llevar la contabilidad de la Hacienda Municipal;
+
+XIII. Autorizar los actos y contratos de los que resulten derechos y obligaciones para el Ayuntamiento con la intervención de la Dirección de Programación en los casos previstos por esta misma Ley;
+
+XIV. Efectuar los pagos conforme a los programas presupuestales aprobados y formular mensualmente al estado de origen y aplicación de los recursos financieros y tributarios del Municipio;
+
+XV. Proponer al Presidente Municipal la cancelación de créditos incobrable a favor del Municipio dando cuenta inmediata al Síndico de Hacienda y a la Contraloría Municipal;
+
+XVI. Formular mensualmente los estados financieros de la Hacienda Municipal, presentando anualmente al Presidente Municipal, en el mes de enero, un informe pormenorizado del ejercicio fiscal anterior;
+
+> <small>(REFORMADA, P.O. 08 DE AGOSTO DE 1998)</small>
+
+XVII. Coordinar conjuntamente con la Contraloría Municipal, que se efectúen las solventaciones por los titulares de las dependencias generadoras de ingresos y responsables del ejercicio del gasto público, sobre las observaciones a la cuenta pública que finque la Legislatura del Estado, a través de la Contaduría Mayor de Hacienda. Estas solventaciones deberán ser entregadas a dicha Contaduría, en un plazo de quince días, contados a partir de la fecha de notificación; y
+
+XVIII. Las demás que le atribuyan expresamente las Leyes y Reglamentos respectivos.
 
 ###### Artículo 88.
 
@@ -1526,3 +1552,13 @@ P.O. 23 DE NOVIEMBRE DE 1991.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto surte sus efectos legales a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE AGOSTO DE 1998
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
