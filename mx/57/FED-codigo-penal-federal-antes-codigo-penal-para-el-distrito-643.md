@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1974-08-02"
+last_updated: "1974-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1931-08-13"
 ---
 # CODIGO PENAL FEDERAL -ANTES CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL-
 
-CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
+CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE AGOSTO DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -33,15 +33,19 @@ El C. Presidente Constitucional de los Estados Unidos Mexicanos, se ha servido d
 
 Que en uso de las facultades que le fueron concedidas por Decreto de 2 de enero de 1931, ha tenido a bien expedir el siguiente
 
-CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL.
 
 # LIBRO PRIMERO
 
 ## TITULO PRELIMINAR
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 1o.
 
-Este Código se aplicará en el Distrito y Territorios Federales, por los delitos de la competencia de los tribunales comunes; y en toda la República, para los delitos de la competencia de los tribunales federales.
+Este Código se aplicará en el Distrito Federal, por los delitos de la competencia de los tribunales comunes; y en toda la República, para los delitos de la competencia de los tribunales federales.
 
 ###### ARTICULO 2o.
 
@@ -419,11 +423,13 @@ II.- Para el pago que exceda de cien pesos, se podrá conceder un plazo hasta de
 
 Los instrumentos del delito y cualquiera otra cosa con que se cometa o intente cometer, así como las que sean objetos de él, se decomisarán si son de uso prohibido. Los objetos de uso lícito a que se refiere este artículo, se decomisarán al acusado solamente cuando fuere condenado por delito intencional. Si pertenecen a tercera persona, sólo se decomisarán cuando hayan sido empleados para fines delictuosos, con conocimiento de su dueño.
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1965)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 41.
 
-Todos aquellos objetos que se encuentren a disposición de las Autoridades Investigadoras y de las Autoridades Judiciales del orden penal, que no hayan sido y no puedan ser decomisadas y que en un lapso mayor de tres años no sean recogidas por quien tenga derecho para hacerlo, en los casos en que proceda su devolución se considerarán bienes mostrencos y se procederá a su venta, en los términos de las disposiciones relativas del Código Civil para el Distrito y Territorios Federales, teniéndose al Tribunal Superior de Justicia del Distrito y Territorios Federales, como denunciante para los efectos de la participación que concede el artículo 781 del propio Código Civil, participación que para dicha Institución se aumenta en un 50% y que se destinará al mejoramiento de la Administración de Justicia.
+Todos aquellos objetos que se encuentren a disposición de las autoridades investigadoras y de las Autoridades Judiciales del orden penal, que no hayan sido y no puedan ser decomisados y que en un lapso mayor de tres años no sean recogidas por quien tenga derecho para hacerlo, en los casos en que proceda su devolución se considerarán bienes mostrencos y se procederá a su venta en los términos de las disposiciones relativas del Código Civil para el Distrito Federal, teniéndose al Tribunal Superior de Justicia del Distrito Federal, como denunciante para los efectos de la participación que concede el artículo 781 del propio Código Civil, participación que para dicha Institución se aumenta en un 50% y que se destinará al mejoramiento de la Administración de Justicia.
+
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1965)</small>
 
 Cuando se trate de objetos que estén a disposición de Autoridades Penales Federales, éstos se remitirán a la Secretaría del Patrimonio Nacional para que proceda a su venta conforme a los términos y procedimientos aplicables a la enajenación de bienes muebles de la Federación. Su producto, deducidos los gastos que origine la venta, se entregará a la Secretaría de Gobernación para el mejoramiento de las Instituciones Federales destinadas al tratamiento de menores infractores de las Leyes Penales.
 
@@ -1153,7 +1159,9 @@ I.- Abolir o reformar la Constitución Política de los Estados Unidos Mexicanos
 
 II.- Reformar, destruir o impedir la integración de las instituciones constitucionales de la Federación, o su libre ejercicio; y
 
-III.- Separar o impedir el desempeño de su cargo a alguno de los altos funcionarios de la Federación mencionados en el artículo 2o. de la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación, del Distrito Federal y Territorios Federales y de los Altos Funcionarios de los Estados.
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+III.- Separar o impedir el desempeño de su cargo a alguno de los altos funcionarios de la Federación mencionados en el artículo 2o. de la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación, del Distrito Federal y de los Altos Funcionarios de los Estados.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
@@ -2025,9 +2033,7 @@ A los funcionarios y empleados públicos que cometan el delito de concusión, se
 
 Las sanciones del artículo anterior, se aplicarán también a los encargados o comisionados por un funcionario público que, con aquella investidura, cometan el delito de concusión.
 
-(REUBICADO [N. DE E. ANTES TITULO DECIMOSEGUNDO], D.O.F. 29 DE JULIO DE 1970)
-
-TITULO DECIMOPRIMERO
+(REUBICADO [N. DE E. ANTES TITULO DECIMOSEGUNDO], D.O.F. 29 DE JULIO DE 1970)TITULO DECIMOPRIMERO
 
 Delitos cometidos en la administración de justicia
 
@@ -2455,9 +2461,11 @@ En este caso se podrá decretar la suspensión o disolución de la sociedad a cu
 
 IV.- Los funcionarios o empleados públicos que autoricen, protejan o asistan a locales de juegos prohibidos.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 259.
 
-Para los efectos de este capítulo se considerarán ilícitos los juegos, loterías y rifas en los términos que fijen los reglamentos respectivos expedidos por las autoridades administrativas superiores del Distrito y Territorios Federales.
+Para los efectos de este capítulo se considerarán ilícitos los juegos, loterías y rifas en los términos que fijen los reglamentos respectivos, expedidos por las autoridades administrativas superiores del Distrito Federal.
 
 (REUBICADO [N. DE E. ANTES TITULO DECIMOSEXTO], D.O.F. 29 DE JULIO DE 1970)
 
@@ -3007,7 +3015,7 @@ Al que exponga en una casa de expósitos a un niño menor de siete años que se 
 
 Los ascendientes o tutores que entreguen en una casa de expósitos un niño que esté bajo su potestad, perderán por ese sólo hecho los derechos que tengan sobre la persona y bienes del expósito.
 
-(REUBICADO [N. DE E. ANTES TITULO VIGESIMO PRIMERO], D.O.F. 29 DE JULIO DE 1970)
+(REUBICADO [N. DE E. ANTES TITULO VIGESIMOPRIMERO], D.O.F. 29 DE JULIO DE 1970)
 
 ## TITULO VIGESIMO SEGUNDO. Delitos en contra de las personas en su patrimonio
 
@@ -3195,7 +3203,7 @@ Cuando el delito lo comete un familiar del menor que no ejerza sobre él la patr
 
 Si espontáneamente se pone en libertad a la persona antes de tres días y sin causar ningún perjuicio, sólo se aplicará la sanción correspondiente a la privación ilegal de la libertad de acuerdo con el artículo 364. Este beneficio no opera en el caso de la fracción III del presente artículo.
 
-(REUBICADO [N. DE E. ANTES TITULO VIGESIMO TERCERO], D.O.F. 29 DE JULIO DE 1970)
+(REUBICADO [N. DE E. ANTES TITULO VIGESIMOTERCERO], D.O.F. 29 DE JULIO DE 1970)
 
 ###### ARTICULO 367.
 
@@ -3513,8 +3521,6 @@ Si además de los daños directos resulta consumado algún otro delito, se aplic
 
 Cuando por cualquier medio se causen daño, destrucción o deterioro de cosa ajena, o de cosa propia en perjuicio de tercero, se aplicarán las sanciones del robo simple.
 
-(REUBICADO [N. DE E. ANTES TITULO VIGESIMOCUARTO], D.O.F. 29 DE JULIO DE 1970)
-
 TITULO VIGESIMOTERCERO
 
 Encubrimiento
@@ -3543,7 +3549,7 @@ IV.- Preste auxilio o cooperación de cualquier especie al autor de un delito, c
 
 > <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
 
-V.- Oculte al responsable de un delito, o los efectos objetos o instrumentos del mismo, o impida que se averigüe.
+V.- Oculte al responsable de un delito, o los efectos (sic) objetos o instrumentos del mismo, o impida que se averigüe.
 
 > <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 1967)</small>
 
@@ -3790,3 +3796,9 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 ###### ARTICULO 1o.
 
 Transitorio.- La presente Ley entrará en vigor a los treinta días de su publicación en el "Diario Oficial", y a partir de la misma fecha quedarán derogados los artículos 119 a 122 del Código Penal para el Distrito y Territorios Federales en materia del Fuero Común y para toda la República en materia del Fuero Federal, de 13 de agosto de 1931, sólo por lo que se refiere al Distrito y Territorios Federales, la Ley Orgánica y Normas de Procedimiento de los Tribunales de Menores y sus Instituciones Auxiliares en el Distrito y Territorios Federales, de 22 de abril de 1941 y las demás disposiciones que se opongan al presente Ordenamiento.
+
+D.O.F. 23 DE DICIEMBRE DE 1974.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
