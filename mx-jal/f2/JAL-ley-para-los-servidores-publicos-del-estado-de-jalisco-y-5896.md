@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2001-11-17"
+last_updated: "2001-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -205,6 +205,12 @@ IV. En los municipios, los Ayuntamientos representados por el Presidente Municip
 
 V. En los organismos descentralizados y empresas o asociaciones de participación Estatal o Municipal Mayoritaria, quien o quienes desempeñen el cargo de mayor jerarquía, de conformidad con los ordenamientos que los rijan.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
+
+###### Art. 9-A.
+
+Siempre que se vaya a instalar el procedimiento administrativo para imponer alguna sanción a un servidor público, el titular de la dependencia o entidad pública, podrá delegar, al funcionario encargado de recursos humanos, o quien haga sus veces, mediante acuerdo, la facultad de iniciar el procedimiento respectivo, quien una vez desahogado el mismo, remitirá las actuaciones al titular o encargado para que dicte la resolución respectiva.
+
 ###### Art. 10°.
 
 En lo no provisto por esta ley, se aplicarán supletoriamente, y en su orden:
@@ -323,7 +329,7 @@ Todo Servidor Público antes de tomar posesión de su cargo, rendirá la protest
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1987)</small>
 
-La protesta de los servidores públicos se rendirá en los términos siguientes: El que tome la protesta interrogará como sigue: ¿ protesta usted desempeñar leal y patrióticamente el cargo de (el que se confiera al interesado) que se le confirió, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ella emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado? el interesado responderá: "Si protesto", la autoridad que tome la protesta añadirá: "Si no lo hiciere así que la Nación y el Estado se lo demanden".
+La protesta de los servidores públicos se rendirá en los términos siguientes: El que tome la protesta interrogará como sigue: ¿ protesta usted desempeñar leal y patrióticamente el cargo de (el que se confiera al interesado) que se le confirió, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ella emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado? El interesado responderá: "Si protesto", la autoridad que tome la protesta añadirá: "Si no lo hiciere así que la Nación y el Estado se lo demanden".
 
 ###### Art. 19.
 
@@ -401,27 +407,23 @@ l) Por prisión que sea el resultado de una sentencia ejecutoriada siempre que l
 
 ll) Las análogas a las establecidas en los incisos anteriores.
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 23.
 
-Cuando el servidor público incurra en alguna de las causales de terminación a que se refiere la fracción V del artículo anterior, el Titular o Encargado de la Entidad Pública o Dependencia procederá a levantar acta administrativa en la que se otorgará derecho de audiencia y defensa al servidor público, en la que tendrá intervención la representación sindical si la hubiere y quisiera intervenir en ésta, con toda precisión se asentarán los hechos, la declaración del servidor afectado y la del representante sindical si intervino y quiso hacerlo, las de los testigos de cargo, y de descargo idóneos; asimismo se recibirán las demás pruebas que pertinentemente procedan, firmándose las actuaciones administrativas al término de las mismas por los interesados, lo que harán de igual forma dos testigos de asistencia.
+Cuando el servidor público incurra en alguna de las causales de terminación a que se refiere la fracción V del artículo anterior, el titular de la entidad pública o dependencia, o en su defecto, el funcionario que éste designe, procederá a levantar el acta administrativa en la que se otorgará derecho de audiencia y defensa al servidor público, en la que tendrá intervención la representación sindical si la hubiere y quisiera intervenir en ésta, con toda precisión se asentarán los hechos, la declaración del servidor afectado y la del representante sindical si intervino, las de los testigos de cargo, y de descargo idóneos; asimismo se recibirán las pruebas que procedan, firmándose las actuaciones administrativas al término de las mismas por los interesados, lo que harán de igual forma dos testigos de asistencia.
 
 De no querer firmar los intervinientes se asentará tal circunstancia, debiéndose entregar terminado el acto una copia de la actuación al servidor público, así como a la representación sindical si la solicitare.
 
-El servidor público que estuviera inconforme con la resolución emitida por la Entidad Pública al fin de la investigación administrativa que decreta la terminación de su nombramiento y de la relación de trabajo, tendrá derecho a acudir en demanda de justicia al Tribunal de Arbitraje y Escalafón en un término de 60 días contados a partir del siguiente a aquél en que se le haya dado a conocer por escrito la determinación que le afecte, lo cual se hará, dentro de los diez días que sigan a aquél en que se hubiera decidido la terminación de la relación de trabajo. La falta de oficio comunicando al servidor público la determinación que le afecte, hará presumir la injustificación del cese.
+Cuando el procedimiento administrativo hubiere sido desahogado por el funcionario que se haya designado para tal efecto, éste deberá remitir dichas actuaciones al titular o encargado de la entidad o dependencia pública para que sea éste último quien resuelva sobre la imposición o no de alguna sanción.
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+El servidor público que estuviera inconforme con la resolución emitida por la entidad pública al fin de la investigación administrativa que decreta la terminación de su nombramiento y de la relación de trabajo, tendrá derecho a acudir en demanda de justicia al Tribunal de Arbitraje y Escalafón en un término de 60 días contados a partir del siguiente a aquel en que se le haya dado a conocer por escrito la determinación que le afecte, lo cual se hará, dentro de los diez días que sigan a aquel en que se hubiera decidido la terminación de la relación de trabajo. La falta de oficio comunicando al servidor público la determinación que le afecte, hará presumir la injustificación del cese.
 
-El servidor público podrá optar en ejercicio de las correspondientes acciones ya sea por la reinstalación en el cargo o puesto que desempeñaba, con todas las prestaciones que disfrutaba y en las mismas, condiciones que lo venía desempeñando o por que se le indemnice con el importe de tres meses de sueldo.
+El servidor público podrá optar en ejercicio de las correspondientes acciones ya sea por la reinstalación en el cargo o puesto que desempeñaba, con todas las prestaciones que disfrutaba y en las mismas, condiciones que no (sic) venía desempeñando o por que se le indemnice con el importe de tres meses de sueldo.
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+Si en el juicio correspondiente no comprueba la entidad pública de la causa de terminación o cese, el servidor público tendrá derecho además a que se le paguen los sueldos vencidos, desde la fecha del cese hasta que se cumplimente el laudo.
 
-Si en el juicio correspondiente no comprueba la Entidad Pública la causa de terminación o cese, el Servidor Público tendrá derecho además a que se le paguen los sueldos vencidos, desde la fecha del cese hasta que se cumplimente el laudo.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1987)</small>
-
-Lo dispuesto en este artículo no será aplicable a los Servidores Públicos del Poder Judicial del Estado, los que se sujetarán a lo que dispone el Capítulo XI de su Ley Orgánica.
+Lo dispuesto en este artículo no será aplicable a los servidores públicos del Poder Judicial del Estado, los que se sujetarán a lo que dispone el Capítulo XI de su Ley Orgánica.
 
 ### CAPITULO V. De las relaciones entre las entidades públicas y sus servidores
 
@@ -429,21 +431,21 @@ Lo dispuesto en este artículo no será aplicable a los Servidores Públicos del
 
 Es facultad de los Titulares de las Entidades Públicas expedir todas las disposiciones reglamentarias que rijan el funcionamiento interno de las Oficinas de Servicio Público, oyendo al Sindicato correspondiente en su caso.
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 25.
 
-Es facultad de los mismos Titulares imponer en sus respectivos casos a los Servidores Públicos las correcciones disciplinarias y sanciones a que se hagan acreedores por el mal comportamiento, irregularidades o incumplimiento injustificado en el desempeño de sus labores, pudiendo consistir en amonestación, suspensión hasta por un mes en el empleo, cargo o comisión, y cese.
+Es facultad de los titulares de las dependencias o entidades públicas, imponer en sus respectivos casos a los servidores públicos las correcciones disciplinarias y sanciones a que se hagan acreedores por el mal comportamiento, irregularidades o incumplimiento injustificado en el desempeño de sus labores, pudiendo consistir en amonestación, suspensión hasta un mes en el empleo, cargo o comisión, destitución, destitución con inhabilitación en los términos de la Ley de Responsabilidades de los Servidores Públicos.
 
 En los casos de suspensión o cese se seguirá el procedimiento a que se refiere el siguiente artículo.
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 26.
 
-Ningún Servidor Público de base podrá ser sancionado en su empleo sino por causa justificada y plenamente comprobada. En su caso, los titulares de las Entidades Públicas instaurarán procedimiento escrito dentro del cual se otorgue el derecho de audiencia y defensa al trabajador y en el que, con vista de las pruebas rendidas, se dicte acuerdo fundado y motivado.
+Ningún servidor público de base podrá ser sancionado en su empleo sino por causa justificada y plenamente comprobada. En su caso, los titulares de las entidades o dependencias públicas instaurarán procedimiento escrito dentro del cual se otorgue el derecho de audiencia y defensa al servidor público y en el que, con vista de las pruebas rendidas, el titular o encargado dicte acuerdo fundado y motivado.
 
-En caso de que la falta pudiese ameritar el cese por su gravedad, se estará a lo dispuesto por el Art. 23, de esta ley.
+En caso de que la falta pudiese ameritar el cese por su gravedad, se estará a lo dispuesto por el artículo 23 de esta ley.
 
 ### CAPITULO I. De la jornada de trabajo
 
@@ -1940,5 +1942,9 @@ P.O. 28 DE JULIO DE 2001.
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 17 DE NOVIEMBRE DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 13 DE DICIEMBRE DE 2001.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
