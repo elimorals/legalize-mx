@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "1934-08-04"
+last_updated: "1934-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE AGOSTO DE 1934.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 1934.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -552,7 +552,9 @@ VI. Las empresas de construcciones, y trabajos públicos y privados;
 
 VII. Las empresas de fábricas y manufacturas;
 
-VIII. Las empresas de transportes de personas ó cosas, por tierra ó por agua;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 31 DE AGOSTO DE 1934)</small>
+
+VIII. Las empresas de transportes de personas o cosas, por tierra o por agua; y las empresas de turismo.
 
 IX. Las librerías, y las empresas editoriales y tipográficas;
 
@@ -3376,7 +3378,7 @@ De los capitanes.
 
 (DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
-## TITULO DECIMO TERCERO.
+## TITULO DÉCIMO TERCERO.
 
 DE LA MONEDA.
 
@@ -3412,9 +3414,7 @@ Las instituciones de crédito se regirán por una ley especial, y mientras ésta
 
 DEL COMERCIO MARÍTIMO.
 
-## TITULO PRIMERO.
-
-DE LAS EMBARCACIONES.
+## TITULO PRIMERO. DE LAS EMBARCACIONES
 
 ###### Art. 641.
 
@@ -7722,10 +7722,6 @@ Art. 1,413. Las partes, durante el juicio, podrán convenir en que los bienes em
 
 Art. 1,414. Cualquier incidente que se suscitare en el juicio mercantil ejecutivo, se decidirá por el juez sin sustanciar artículo, pero sin perjuicio del derecho de los interesados para que se les oiga en audiencia verbal siempre que así lo pidieren.
 
-TÍ¿ITULO CUARTO.
-
-DEL PROCEDIMIENTO ESPECIAL EN LAS QUIEBRAS.
-
 ## TITULO CUARTO.
 
 DEL PROCEDIMIENTO ESPECIAL EN LAS QUIEBRAS.
@@ -7801,6 +7797,10 @@ Las sociedades anónimas que al entrar en vigor la presente Ley estén constituy
 ###### ARTICULO 4°.
 
 Se derogan el Título Segundo del Libro Segundo del Código de Comercio de 15 de septiembre de 1889 y todas las disposiciones legales que se opongan a la presente Ley.
+
+D.O.F. 31 DE AGOSTO DE 1934.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 ###### ARTICULO 1°.
 
