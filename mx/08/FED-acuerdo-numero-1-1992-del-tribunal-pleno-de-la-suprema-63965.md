@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1992-del-tribunal-pleno-de-la-suprema-63965"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1992-03-16"
-last_updated: "1992-03-16"
+last_updated: "1992-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63965&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "1992-03-10"
 
 ACUERDO No. 1/1992 DEL TRIBUNAL EN PLENO DEL DIA DIEZ DE MARZO DE MIL NOVECIENTOS NOVENTA Y DOS
 
-TEXTO ORIGINAL.
-
-Acuerdo publicado en el Diario Oficial de la Federación, el lunes 16 de marzo de 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE JUNIO DE 1992.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.- Secretaría General de Acuerdos.
 
@@ -79,7 +77,9 @@ NOVENO.- Se reforman, modifican y adicionan los puntos Primero y Segundo, fracci
 
 "I.- ...
 
-1.- Tres tribunales colegiados en materia penal, seis tribunales colegiados en materia administrativa, nueve tribunales colegiados en materia civil, nueve tribunales colegiados en materia de trabajo y cuatro tribunales unitarios, con residencia en la ciudad de México;
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO NO. 2/1992 DEL TRIBUNAL EN PLENO DEL DIA DOS DE JUNIO DE MIL NOVECIENTOS NOVENTA Y DOS, D.O.F. 8 DE JUNIO DE 1992)</small>
+
+1.- Cuatro tribunales colegiados en materia penal, seis tribunales colegiados en materia administrativa, nueve tribunales colegiados en materia de trabajo y cuatro tribunales unitarios, con residencia en la ciudad de México;
 
 2.- ...”
 
@@ -182,3 +182,15 @@ LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA S
 CERTIFICA:
 
 Que este Acuerdo 1/1992, relativo a la creación de órganos jurisdiccionales, fue emitido por el Tribunal Pleno en Sesión Privada de diez de marzo de mil novecientos noventa y dos, por unanimidad de veinte votos de los señores ministros: Presidente Ulises Schmill Ordóñez, Carlos de Silva Nava, Ignacio Magaña Cárdenas, José Trinidad Lanz Cárdenas, Samuel Alba Leyva, Noé Castañón León, Felipe López Contreras, Luis Fernández Doblado, José Antonio Llanos Duarte, Victoria Adato Green, Santiago Rodríguez Roldán, Ignacio Moisés Cal y Mayor Gutiérrez, Clementina Gil de Lester, Atanasio González Martínez, José Manuel Villagordoa Lozano, Fausta Moreno Flores, Carlos García Vázquez, Mariano Azuela Güitrón, Juan Díaz Romero y Sergio Hugo Chapital Gutiérrez.- México, Distrito Federal, a diez de marzo de mil novecientos noventa y dos.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 8 DE JUNIO DE 1992.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- El nuevo Cuarto Tribunal Colegiado en materia penal, iniciará su funcionamiento en la fecha que, de conformidad con las circunstancias especificas del caso, determine la Comisión de Gobierno y Administración.
+
+TERCERO.- La Comisión de Gobierno y Administración y los ministros inspectores de los tribunales de Circuito comprendidos en este acuerdo, resolverán cualquier cuestión que pudiera suscitarse.
+
+CUARTO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, y hágase del conocimiento de todos los tribunales de Circuito y juzgados de Distrito del país, para su cumplimiento.
