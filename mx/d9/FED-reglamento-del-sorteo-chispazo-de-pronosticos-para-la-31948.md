@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-chispazo-de-pronosticos-para-la-31948"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2004-06-11"
+last_updated: "2005-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31948&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL CONCURSO CHISPAZO DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ABRIL DE 2005.
 
 Reglamento publicado en el Diario Oficial de la Federación el miércoles 18 de junio de 2003.
 
@@ -33,11 +33,11 @@ Reglamento publicado en el Diario Oficial de la Federación el miércoles 18 de 
 
 El presente Reglamento tiene por objeto regular el Sorteo Chispazo, de conformidad con el Decreto de Creación de Pronósticos para la Asistencia Pública de fecha 16 de agosto de 1984, publicado en el Diario Oficial de la Federación de fecha 17 de agosto del mismo año, que reformó y adicionó el de 14 febrero de 1978, publicado en el Diario Oficial de la Federación de fecha 24 del mismo mes y año, mismo que creó el Organismo Público Descentralizado denominado Pronósticos para la Asistencia Pública y al que en lo sucesivo se designará en este reglamento como Pronósticos.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL PRESENTE DECRETO, D.O.F. 6 DE ABRIL DE 2005)</small>
 
 ###### Artículo 2o.
 
-El sorteo Chispazo consiste en la selección o pronóstico que haga el concursante, de una combinación de 25 (veinticinco) números, de los cuales el participante podrá elegir 5 (cinco) en el caso de una combinación sencilla o 6 (seis) y 7(siete) en el caso de combinación múltiple, mediante el pago del precio correspondiente, y que le dará derecho a participar en el sorteo respectivo y a obtener, en el supuesto de que los números sorteados correspondan a la selección que hubiere hecho, premios en efectivo en los términos de este Reglamento.
+El sorteo Chispazo consiste en la selección o pronóstico que haga el participante, de una combinación de 25 (veinticinco) números, de los cuales el participante podrá elegir 5 (cinco) en el caso de una combinación sencilla o 6 (seis) y 7(siete) en el caso de combinación múltiple, mediante el pago del precio correspondiente, y que le dará derecho a participar en el sorteo respectivo y a obtener, en el supuesto de que los números sorteados correspondan a la selección que hubiere hecho, premios en efectivo en los términos de este Reglamento.
 
 > <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
 
@@ -47,49 +47,59 @@ Para los efectos de este reglamento, se entenderá por:
 
 1.- Agente autorizado.- La persona física o moral que haya celebrado contrato de comisión mercantil con Pronósticos y cuya función consistirá en aceptar quinielas del público en la forma y términos señalados en las disposiciones reglamentarias.
 
-2.- Terminal.- Para los efectos de estas disposiciones se entenderá por terminal (dispositivo electrónico) el aparato electrónico cuya función consiste en captar los datos de la selección de números hecha por el concursante, bien sea por solicitud del mismo en una asignación automática de ellos, o por la lectura óptica del volante o por la digitación de los datos, para lograr tenerlos en su dispositivo de almacenamiento; de ahí emitir señales al computador central para el registro de las combinaciones, y expedir los boletos que comprueban la participación en el sorteo. Pronósticos podrá definir otras modalidades y conductos de venta transcribiendo los datos de las combinaciones vendidas en el Registro General de combinaciones concursantes para un sorteo determinado, previa verificación de que cumplen con los requisitos establecidos en este Reglamento.
+> <small>(REFORMADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL PRESENTE DECRETO, D.O.F. 6 DE ABRIL DE 2005)</small>
+
+2.- Terminal.- Para los efectos de estas disposiciones se entenderá por terminal (dispositivo electrónico) el aparato electrónico cuya función consiste en captar los datos de la selección de números hecha por el participante, bien sea por solicitud del mismo en una asignación automática de ellos, o por la lectura óptica del volante o por la digitación de los datos, para lograr tenerlos en su dispositivo de almacenamiento; de ahí emitir señales al computador central para el registro de las combinaciones, y expedir los boletos que comprueban la participación en el sorteo. Pronósticos podrá definir otras modalidades y conductos de venta transcribiendo los datos de las combinaciones vendidas en el Registro General de combinaciones participantes para un sorteo determinado, previa verificación de que cumplen con los requisitos establecidos en este Reglamento.
 
 3.- Sorteo.- El evento que tiene lugar desde la captación oficial de combinaciones, hasta la Selección de Ganadores.
 
-4.- Volante.- El documento que contiene los números posibles de selección para un sorteo, en donde el concursante anota sus preferencias.
+> <small>(REFORMADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL PRESENTE DECRETO, D.O.F. 6 DE ABRIL DE 2005)</small>
+
+4.- Volante.- El documento que contiene los números posibles de selección para un sorteo, en donde el participante anota sus preferencias.
 
 5.- Combinación.- El conjunto de los cinco números asentados en un volante pudiendo llegar a ser hasta siete números con las modalidades señaladas en el artículo 5o. del presente Reglamento.
 
-6.- Boleto.- Es el documento impreso por la terminal por medio de la que fue vendida la apuesta, y que se entrega como comprobante al concursante, una vez cubierto el importe de las combinaciones que contenga.
+> <small>(REFORMADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL PRESENTE DECRETO, D.O.F. 6 DE ABRIL DE 2005)</small>
+
+6.- Boleto.- Es el documento impreso por la terminal por medio de la que fue vendida la apuesta, y que se entrega como comprobante al participante, una vez cubierto el importe de las combinaciones que contenga.
 
 El boleto a que se refiere el párrafo anterior constituye un documento al portador comprendido en el artículo 6o. de la Ley General de Títulos y Operaciones de Crédito y no un título de crédito, ya que sirve únicamente para identificar a su tenedor. Dicho documento consigna un contrato de adhesión y sólo tendrá efectos probatorios cuando se corrobore que los códigos de seguridad y las numeraciones contenidas en él, sean legítimos.
 
 Con excepción de las causas señaladas en el presente reglamento, no será posible la cancelación de aquellos boletos en los que de manera simultánea y adicional se participe en el sorteo Súper de Pronósticos
 
-7.- Registro de apuestas.- Es el proceso por el cual todas las combinaciones adquiridas por los concursantes quedan integralmente grabadas en el archivo de apuestas participantes para un sorteo determinado.
+> <small>(REFORMADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL PRESENTE DECRETO, D.O.F. 6 DE ABRIL DE 2005)</small>
+
+7.- Registro de apuestas.- Es el proceso por el cual todas las combinaciones adquiridas por los participantes quedan integralmente grabadas en el archivo de apuestas participantes para un sorteo determinado.
 
 8.- Selección de ganadores.- Es el evento mediante el cual se determinan en cada sorteo mediante los sistemas electrónicos de computación instalados en las oficinas generales de Pronósticos los números de los boletos que obtuvieron premiación y el monto de la misma.
 
 ### Capítulo II. De los procedimientos para concursar
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL PRESENTE DECRETO, D.O.F. 6 DE ABRIL DE 2005)</small>
 
 ###### Artículo 4o.
 
-Sólo se podrá participar en el sorteo Chispazo utilizando los volantes oficiales emitidos por Pronósticos para ser leídos mediante las terminales (dispositivo electrónico) aprobadas por Pronósticos y/o por dictado del concursante al agente, o si requiere una selección automática y aleatoria efectuada por la terminal (Chispático).
+Sólo se podrá participar en el sorteo Chispazo utilizando los volantes oficiales emitidos por Pronósticos para ser leídos mediante las terminales (dispositivo electrónico) aprobadas por Pronósticos y/o por dictado del participante al agente, o si requiere una selección automática y aleatoria efectuada por la terminal (Chispático).
 
-Sus agentes autorizados los proporcionarán a todo posible concursante.
+Sus agentes autorizados los proporcionarán a todo posible participante.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 2005)</small>
 
 ###### Artículo 5o.
 
-En el volante que emita Pronósticos, el concursante marcará de 5 (cinco) a 7 (siete) números seleccionados entre los 25 (veinticinco) impresos en el mismo volante, que constituirán su pronóstico sobre el resultado del sorteo respectivo.
+En el volante que emita Pronósticos, el participante marcará de 5 (cinco) a 7 (siete) números seleccionados entre los 28 (veintiocho) impresos en el mismo volante, que constituirán su pronóstico sobre el resultado del sorteo respectivo.
 
-Combinación sencilla es la selección de 5 (cinco) distintos números del 1 (uno) al 25 (veinticinco) determinados por Pronósticos.
+Combinación sencilla es la selección de 5 (cinco) distintos números del 1 (uno) al 28 (veintiocho) determinados por Pronósticos.
 
 Combinación múltiple es la selección de 6 (seis) a 7 (siete) números y da lugar a varias combinaciones sencillas; 6 (seis) números a 6 (seis) combinaciones y 7 (siete) números a 2l (veintiún) combinaciones.
 
+> <small>(REFORMADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL PRESENTE DECRETO, D.O.F. 6 DE ABRIL DE 2005)</small>
+
 ###### Artículo 6o.
 
-Pronósticos podrá facultar a sus agentes autorizados para recibir y captar la venta de Chispazo mediante el uso de terminales (dispositivo electrónico) que por lectura óptica del volante llenado por el concursante indicando su selección de números, o bien, mediante la digitación que haga el agente autorizado de estos datos en la terminal, ésta imprime, numera y expide el boleto que, contra su pago, será entregado al concursante como comprobante de su participación.
+Pronósticos podrá facultar a sus agentes autorizados para recibir y captar la venta de Chispazo mediante el uso de terminales (dispositivo electrónico) que por lectura óptica del volante llenado por el participante indicando su selección de números, o bien, mediante la digitación que haga el agente autorizado de estos datos en la terminal, ésta imprime, numera y expide el boleto que, contra su pago, será entregado al participante como comprobante de su participación.
 
-Los agentes autorizados recibirán de los concursantes el pago del precio correspondiente y lo remitirán a Pronósticos en las condiciones y términos que éste señale.
+Los agentes autorizados recibirán de los participantes el pago del precio correspondiente y lo remitirán a Pronósticos en las condiciones y términos que éste señale.
 
 > <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
 
@@ -99,7 +109,9 @@ El boleto deberá contener los siguientes datos:
 
 1.- Nombre, número y fecha del sorteo.
 
-2.- El registro de los números pronosticados por el concursante en su combinación.
+> <small>(REFORMADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL PRESENTE DECRETO, D.O.F. 6 DE ABRIL DE 2005)</small>
+
+2.- El registro de los números pronosticados por el participante en su combinación.
 
 3.- El número de identificación del boleto e importe pagado por él.
 
@@ -111,19 +123,19 @@ El boleto deberá contener los siguientes datos:
 
 ### Capítulo III. Del concurso y la asignación de premios
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 2005)</small>
 
 ###### Artículo 8o.
 
 Todos los sorteos se verificarán en un lugar en que tenga libre acceso el público.
 
-Pronósticos publicará en diarios de circulación importante, al siguiente día al que se hubiere verificado el sorteo, la combinación de números ganadora y el importe de la premiación por combinación sencilla correspondiente a cada una de las categorías establecidas.
+Pronósticos publicará en diarios de circulación importante, al siguiente día al que se hubiere verificado el sorteo, la combinación de números ganadora y el importe de la premiación por combinación sencilla correspondiente a cada una de las categorías establecidas, si hubiera alguna diferencia entre los resultados publicados y los oficiales, éstos últimos prevalecerán.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 2005)</small>
 
 ###### Artículo 9o.
 
-El día y hora fijados para el sorteo, ante la presencia del Inspector designado por la Secretaría de Gobernación, se procederá a introducir en una tómbola 25 (veinticinco) esferas iguales en todas sus características cada una identificada con un número diferente comprendido del 1 (uno) al 25 (veinticinco), inclusive.
+El día y hora fijados para el sorteo, ante la presencia del Inspector designado por la Secretaría de Gobernación, se procederá a introducir en una tómbola 28 (veintiocho) esferas iguales en todas sus características cada una identificada con un número diferente comprendido del l (uno) al 28 (veintiocho), inclusive.
 
 Ante la presencia del mismo Inspector se procederá a extraer de la tómbola, una a una y al azar, 5 (cinco) esferas, cuyos números integrarán la combinación de números ganadora.
 
@@ -143,15 +155,17 @@ Se considera fondo de cada sorteo el valor conjunto de todas las combinaciones q
 
 Dicho fondo se aplicará como sigue:
 
-El 50% destinado a premiación de los concursantes ganadores.
+> <small>(REFORMADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL PRESENTE DECRETO, D.O.F. 6 DE ABRIL DE 2005)</small>
+
+El 50% destinado a premiación de los participantes ganadores.
 
 De la cantidad restante se cubrirán las comisiones a los agentes autorizados, los gastos de administración de Pronósticos que apruebe su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para el sostenimiento de la Asistencia Pública.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 2005)</small>
 
 ###### Artículo 12o.
 
-Se instituyen 3 categorías de premios en cada sorteo:
+Se instituyen 4 categorías de premios en cada sorteo:
 
 a) A primer lugar, las combinaciones dentro de las cuales figuren los 5 (cinco) números extraídos al azar de la tómbola.
 
@@ -159,21 +173,17 @@ b) A segundo lugar, las combinaciones dentro de las cuales figuren 4 (cuatro) de
 
 c) A tercer lugar, las combinaciones dentro de las cuales figuren 3 (tres) de los 5(cinco) números extraídos al azar de la tómbola.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+d) A cuarto lugar, las combinaciones dentro de las cuales figuren 2(dos) de los 5(cinco) números extraídos al azar de la tómbola, y se le denominara reintegro.
+
+> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 2005)</small>
 
 ###### Artículo 13o.
 
-El importe destinado en cada sorteo Chispazo para premiación a los ganadores se asignarán en los siguientes términos:
-
-Un 37.64% a los ganadores del primer lugar.
-
-Un 37.64% a los ganadores del segundo lugar.
-
-Un 24.72% a los ganadores del tercer lugar.
+El Consejo Directivo de Pronósticos autorizará la asignación del porcentaje destinado a premiación de los participantes ganadores a cada categoría de la estructura de premios señalada en el artículo 12o., de este Reglamento y la dará a conocer previamente al público en los diarios de mayor circulación del país. Esta autorización tendrá vigencia hasta en tanto el propio Consejo Directivo no la modifique y le dé la publicidad señalada con antelación.
 
 El total para premiación asignado a cada una de las categorías, se prorrateará entre todas las combinaciones de números ganadores a la misma categoría de premiación, redondeando importes conforme a lo dispuesto en la Ley Monetaria de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 2005)</small>
 
 ###### Artículo 14o.
 
@@ -183,7 +193,9 @@ Cuando en un sorteo no hubiere ganador del segundo lugar, el premio asignado a e
 
 De no haber combinación ganadora a los lugares primero y segundo, el monto correspondiente, acrecentará el premio del tercer lugar.
 
-De no haber combinación ganadora a los lugares primero, segundo y tercero, la totalidad de los premios vacantes correspondientes a dichas categorías acrecentará en su totalidad el Fondo de Reserva.
+De no haber combinación ganadora a los lugares primero, segundo y tercero, la totalidad de los premios vacantes correspondientes a dichas categorías acrecentará en su totalidad el fondo de reserva.
+
+Los premios correspondientes a la categoría del cuarto lugar tendrán derecho a un único pago, equivalente al valor de una combinación sencilla.
 
 > <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
 
@@ -284,3 +296,13 @@ D.O.F. 11 DE JUNIO DE 2004.
 Primero.- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+
+D.O.F. 6 DE ABRIL DE 2005.
+
+Primero.- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se reforman los artículos 2o., 3o., 4o., 6o., 7o., y 11o. del Reglamento del Sorteo Chispazo de Pronósticos para la Asistencia Pública, cuando en ellos se haga referencia a la denominación "concursante" se entenderá como "participante".
+
+Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor de este Reglamento, serán resueltos conforme a lo dispuesto en el Reglamento del Sorteo Chispazo de Pronósticos para la Asistencia Pública, derogado.
+
+Cuarto.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
