@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2002-12-09"
+last_updated: "2003-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2003.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -1101,9 +1101,11 @@ De los Municipios.
 
 Para ser Gobernador del Estado se requiere:
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
 I. Ser mexicano por nacimiento y ciudadano tlaxcalteca en pleno ejercicio de sus derechos, con una residencia mínima de cinco años inmediatamente anteriores al día de la elección.
+
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
 II. Tener cuando menos treinta años cumplidos el día de la elección;
 
@@ -1739,7 +1741,9 @@ X. Practicar visitas a las Salas del Tribunal Superior de Justicia y a los juzga
 
 XI. Resolver, sobre licencias y permisos que le presenten los servidores públicos del Poder Judicial, informando al Congreso cuando se trate de los Magistrados, con excepción de los integrantes de la Sala Electoral-Administrativa;
 
-XII. Administrar el fondo auxiliar para la impartición de justicia, que se integrará con los productos y rendimientos que se generen por las inversiones de los depósitos de dinero o valores que se efectúen ante los Tribunales Judiciales, así como los ingresos por el pago de multas, cauciones o por cualesquiera otra prestación autorizada por la Ley, en ejercicio de las atribuciones del Poder Judicial, y que serán aplicados íntegramente al mejoramiento de la impartición de justicia; y,
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2003)</small>
+
+XII. Administrar el fondo auxiliar para la impartición de justicia, que se integrará con los productos y rendimientos que se generen por las inversiones de los depósitos de dinero o valores que maneje el fondo, y
 
 XIII. Las demás que señalen las Leyes.
 
@@ -2546,3 +2550,9 @@ Se abroga la Ley de Ciudadanía Tlaxcalteca publicada mediante Decreto 126, en e
 ###### ARTICULO TERCERO.
 
 Las disposiciones vigentes contenidas en las leyes secundarias que se opongan al presente Decreto, quedan derogadas a partir de que entre en vigor este Decreto.
+
+P.O. 12 DE MARZO DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
