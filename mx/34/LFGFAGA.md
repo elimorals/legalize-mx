@@ -4,7 +4,7 @@ identifier: "LFGFAGA"
 country: "mx"
 rank: "ley"
 publication_date: "1954-12-31"
-last_updated: "1954-12-31"
+last_updated: "1993-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1180&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFGFAGA"
 
 LEY QUE CREA EL FONDO DE GARANTIA Y FOMENTO PARA LA AGRICULTURA, GANADERIA Y AVICULTURA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 31 de diciembre de 1954.
 
@@ -37,6 +37,8 @@ DECRETO:
 "El Congreso de los Estados Unidos mexicanos, decreta:
 
 LEY QUE CREA EL FONDO DE GARANTIA Y FOMENTO PARA LA AGRICULTURA, GANADERIA Y AVICULTURA.
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTICULO DECIMO OCTAVO TRANSITORIO DE LA LEY DEL BANCO DE MEXICO, PUBLICADA EN EL D.O.F. 23 DE DICIEMBRE DE 1993, SE DEJA SIN EFECTO, EN LO REFERENTE AL BANCO DE MEXICO, LO PREVISTO EN EL PRESENTE ARTICULO.</small>
 
 > <small>(F. DE E., D.O.F. 4 DE MARZO DE 1955)</small>
 
@@ -66,7 +68,7 @@ VII.- Con los demás recursos con que resuelva incrementarlo el Ejecutivo Federa
 
 Dentro de las limitaciones establecidas en la presente ley y las que se establezcan en las reglas de operación respectivas y en el contrato de fideicomiso, el Fiduciario podrá realizar las siguientes operaciones:
 
-I.- Garantizar a las instituciones de crédito privadas, la recuperación de los préstamos que otorguen a la agricultura;
+I.- Garantizar a las instituciones de crédito privadas, la recuperación de los préstamos que otorguen a la agricultura.
 
 II.- Descontar en casos necesarios a las instituciones de crédito privadas títulos de crédito provenientes de préstamos otorgados a la agricultura.
 
@@ -108,6 +110,8 @@ La garantía del fondo no excederá del 60% del crédito otorgado o concertado, 
 
 El Fiduciario se subrogará en los derechos de la institución acreedora por las cantidades que les pague con motivo de la garantía otorgada y dichas instituciones suscribirán, con sujeción a las normas legales, los documentos que se requieran para que tales derechos queden a favor del mismo Fondo.
 
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTICULO DECIMO OCTAVO TRANSITORIO DE LA LEY DEL BANCO DE MEXICO, PUBLICADA EN EL D.O.F. 23 DE DICIEMBRE DE 1993, SE DEJA SIN EFECTO, EN LO REFERENTE AL BANCO DE MEXICO, LO PREVISTO EN EL PRESENTE ARTICULO.</small>
+
 ###### ARTICULO 8o.
 
 Se crea un Comité Técnico integrado por nueve miembros nombrados respectivamente por la Secretaría de Hacienda y Crédito Público, la Secretaría de Agricultura y Ganadería, el Banco de México, S. A., el Banco Nacional de Comercio Exterior, la Asociación de Banqueros de México, el Consorcio del Seguro Agrícola y un representante de los ejidatarios, otro de los pequeños agricultores y uno de los ganaderos que serán designados por el Ejecutivo. El Comité tendrá las siguientes facultades:
@@ -142,6 +146,8 @@ En la forma en que se determine en las reglas de operación, son susceptibles de
 
 El fiduciario, con cargo al Fondo, podrá efectuar las operaciones a que se refiere el párrafo anterior, por conducto del Banco Nacional de Comercio Exterior, S. A., exceptuándose en ese caso lo dispuesto en el artículo 10 de esta ley.
 
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTICULO DECIMO OCTAVO TRANSITORIO DE LA LEY DEL BANCO DE MEXICO, PUBLICADA EN EL D.O.F. 23 DE DICIEMBRE DE 1993, SE DEJA SIN EFECTO, EN LO REFERENTE AL BANCO DE MEXICO, LO PREVISTO EN EL PRESENTE ARTICULO.</small>
+
 ###### ARTICULO 14.
 
 Queda facultada la Secretaría de Hacienda y Crédito Público para fijar las normas complementarias en el contrato de fideicomiso que celebre con el Banco de México, S. A. El Ejecutivo expedirá el reglamento de esta ley.
@@ -163,3 +169,19 @@ Las garantías que estén en vigor en la fecha de esta ley, otorgadas con cargo 
 Rodolfo González Guevara, D. P.- Teófilo Borunda, S. P.- Ramón García Ruíz, D. S.- Efraín Brito Rosado, S. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos cincuenta y cuatro.- Adolfo Ruíz Cortines.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Carrillo Flores.- Rúbrica.- El Secretario de Agricultura y Ganadería, Gilberto Flores Muñoz.- Rúbrica.- El Secretario de Gobernación, Angel Carvajal.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 23 DE DICIEMBRE DE 1993.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- Esta Ley entrará en vigor el 1o. de abril de 1994, .
+
+QUINTO.- El Banco de México, organismo descentralizado del Gobierno Federal, se transforma en la nueva persona de derecho público a que se refiere esta Ley y conserva la titularidad de todos los bienes, derechos y obligaciones integrantes del patrimonio del primero.
+
+DECIMO OCTAVO.- .
+
+.
+
+Se deja sin efecto, en lo referente al Banco de México, lo previsto en la fracción VII del artículo 31 de la Ley Orgánica de la Administración Pública Federal, en los artículos 1o., 8o. y 14 de la Ley que crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, así como en los artículos 1o., 2o., 8o., y 21, fracción IV, del reglamento de dicha Ley.
