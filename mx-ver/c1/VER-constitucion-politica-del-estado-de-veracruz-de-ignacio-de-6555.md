@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1950-11-07"
+last_updated: "1956-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE NOVIEMBRE DE 1950.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE NOVIEMBRE DE 1956.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -118,6 +118,8 @@ G.O. 7 DE NOVIEMBRE DE 1950.
 El Ayuntamiento que esté funcionando al entrar en vigor esta Ley, terminará su gestión el 30 de noviembre del año en que finalice su período.
 
 ECONOMICO.- Publíquese la presente Ley en la "Gaceta Oficial" del Estado, y por Bando Solemne, el día 12 del mes de noviembre entrante.
+
+G.O. 6 DE NOVIEMBRE DE 1956.
 
 ### CAPITULO II.
 
@@ -225,13 +227,15 @@ El domicilio no dá derechos políticos, pero sí produce obligaciones civiles.
 
 Los domiciliados que no tengan suspensos o perdidos los derechos de ciudadano, están en el deber de cumplir sus respectivas obligaciones, sujetándose, en cuanto al derecho electoral, a lo que disponen los artículos 42, 43, 44 y 45 de esta Constitución.
 
+> <small>(REFORMADO, G.O. 6 DE NOVIEMBRE DE 1956)</small>
+
 ###### Artículo 25.
 
-Son ciudadanos veracruzanos los mexicanos por nacimiento o por naturalización que reúnan las siguientes cualidades:
+Son ciudadanos veracruzanos, los varones y mujeres mexicanos por nacimiento o por naturalización, que reunan además las siguientes cualidades:
 
 I. Vecindad en el Estado, con un año de residencia, por lo menos, dentro de su territorio;
 
-II. Haber cumplido la edad de 18 años, si son casados; o la de 21, si no lo son; y
+II. Haber cumplido la edad de 18 años, si son casados; o la de 21, si no lo son; y,
 
 III. Tener un modo honesto de vivir.
 
@@ -683,13 +687,11 @@ DE LOS MUNICIPIOS.
 
 La base de la división territorial y de la organización política del Estado es el Municipio Libre.
 
+> <small>(REFORMADO, G.O. 6 DE NOVIEMBRE DE 1956)</small>
+
 ###### Artículo 111.
 
-Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
-
-> <small>(ADICIONADO, G.O. 13 DE DICIEMBRE DE 1947)</small>
-
-En las elecciones municipales participarán las mujeres, en igualdad de condición que los varones, con el derecho de votar y ser votadas.
+Cada Municipio será administrado por un Ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
 ###### Artículo 112.
 
@@ -1426,3 +1428,7 @@ Es libre, independiente y soberano en su administración y gobierno interiores.
 ###### Artículo 3o.
 
 El territorio del Estado se dividirá en Municipios, sin perjuicio de las divisiones que por razones de orden establezcan las leyes orgánicas y reglamentarias de los distintos ramos en la administración. La ley orgánica de administración interior del Estado, fijará el mínimum de la población y los demás requisitos necesarios para erigir nuevos Municipios.
+
+###### ARTICULO UNICO.
+
+Las reformas mencionadas al principio, entrarán en vigor desde la fecha de su publicación, por Bando Solemne, en todas las poblaciones del Estado.
