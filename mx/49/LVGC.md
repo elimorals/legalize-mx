@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1940-06-17"
+last_updated: "1941-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JUNIO DE 1940.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE JULIO DE 1941.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -2888,6 +2888,30 @@ b).- La Lotería Nacional y sus corresponsales en la República, siempre que los
 
 Por causa de utilidad pública, la Secretaría de Comunicaciones podrá conceder franquicia telegráfica, parcial o totalmente, a instituciones culturales y científicas por tiempo limitado y señalando la clase de asuntos que comprende la franquicia.
 
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 1941)</small>
+
+X (sic).- Gozarán de franquicia en la red nacional, para toda clase de asuntos:
+
+a).- El Presidente de la República.
+
+b).- Los Secretarios Particulares, el Oficial Mayor y el Jefe de Ayudantes, cuando firmen por el Primer Magistrado.
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 1941)</small>
+
+XI (sic).- Disfrutarán de franquicia para asuntos particulares, limitada a cinco mensajes de veinticinco palabras cada uno diariamente, como máximo:
+
+a).- Los Secretarios y Subsecretarios de Estado.
+
+b).- Los Ministros de la Suprema Corte de Justicia de la Nación.
+
+c).- Los Jefes de Departamento Administrativo Autónomo.
+
+d).- El Procurador General de la República.
+
+e).- El Procurador General de Justicia del Distrito y Territorios Federales.
+
+f).- El Director General de Correos y Telégrafos.
+
 ###### ARTICULO 391.
 
 Las formas y sobres adoptados para la correspondencia que se curse por las comunicaciones eléctricas de la Red Nacional, sólo serán usados en dicho servicio. Quedan prohibidas, por tanto , la reproducción e imitación de dichas formas y sobres, o su uso para fines diferentes del expresado.
@@ -3287,6 +3311,10 @@ V.- Las de las Universidades Obreras de la República;
 VI.- Las que dirijan los médicos a las autoridades sanitarias dando aviso de enfermos contagiosos, y
 
 VII.- Las publicaciones periódicas que reúnan los requisitos especiales que fije el Reglamento.
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 1941)</small>
+
+VIII.- La correspondencia particular del Presidente de la República, Secretarios y Subsecretarios de Estado, Jefes de Departamentos Autónomos y Director General de Correos y Telégrafos.
 
 ###### ARTICULO 446.
 
@@ -4093,3 +4121,7 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 D.O.F. 17 DE JUNIO DE 1940.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 3 DE JULIO DE 1941.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
