@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2004-09-18"
+last_updated: "2005-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2005.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -311,15 +311,25 @@ VIII. Presentación según su clasificación: por unidad presupuestal, por objet
 
 IX. Ingresos y gastos estimados del ejercicio presupuestal en curso;
 
-X. Situación de la Deuda Pública al fin del ejercicio presupuestal en curso y estimación de la que se tendrá al cierre del que se propone; y
+(REFORMADA, P.O. 24 DE FEBRERO DE 2005) (F. DE E., P.O. 14 DE MAYO DE 2005)
+
+X. Situación de la deuda pública al fin del ejercicio presupuestal en curso y estimación de la que se tendrá al cierre del que se propone, incluyendo el saldo total de la deuda, condiciones de contratación calendario de vencimiento de las obligaciones contraídas en el ejercicio inmediato anterior y la aplicación de los recursos a proyectos de inversión, así como su impacto en relación con el Presupuesto de Egresos;
 
 XI. Desglose y justificación de las diferentes partidas del presupuesto;
 
 XII. Plantillas de personal por jornada y por nivel;
 
-XIII. Sueldo y demás prestaciones económicas asignadas a cada una de las plazas presupuestales, con inclusión de aquellas que ocupen los titulares de las dependencias u entidades de que se trate; y
+(REFORMADA, P.O. 24 DE FEBRERO DE 2005) (F. DE E., P.O. 14 DE MAYO DE 2005)
 
-XIV. En general, toda información que se considere útil para mostrar la propuesta en forma clara y completa.
+XIII. Sueldo y demás prestaciones económicas asignadas a cada una de las plazas presupuestales, con inclusión de aquellas que ocupen los titulares de las dependencias o entidades de que se trate;
+
+> <small>(REFORMADA P.O. 24 DE FEBRERO DE 2005)</small>
+
+XIV. Programas de obra pública o similar que detalle proyectos de obra, su ubicación, el costo por cada una y el número de habitantes que se verán beneficiados, así como la cantidad asignada para cada caso en el Presupuesto de Egresos; y
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2005)</small>
+
+XV. En general, toda información que se considere útil para mostrar la propuesta en forma clara y completa.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
@@ -986,5 +996,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente a la entrada en
 SEGUNDO. El Comité Técnico de Transparencia y Valoración Salarial, deberá reunirse de forma inmediata a fin de aprobar su reglamento interno. El reglamento deberá ser aprobado dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
 
 P.O. 18 DE SEPTIEMBRE DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 24 DE FEBRERO DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
