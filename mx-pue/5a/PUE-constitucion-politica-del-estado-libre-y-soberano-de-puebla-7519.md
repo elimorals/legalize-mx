@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "1977-08-19"
+last_updated: "1979-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 1977.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 1979.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -121,7 +121,7 @@ I.- Haber cumplido 18 años y
 
 II.- Tener modo honesto de vivir.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 1974)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 1974)</small>
 
 ###### Artículo 13.
 
@@ -133,7 +133,7 @@ I. Poder ser votados para todos los cargos de elección popular, y nombrados par
 
 II. Reunirse para tratar y discutir los negocios públicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 1974)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 1974)</small>
 
 ###### Artículo 14.
 
@@ -163,11 +163,11 @@ IV. Durante la extinción de una pena corporal.
 
 > <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
 
-V. Por vagancia o ebriedad consuetudinaria en los términos que prevengan las leyes.
+V.- Por vagancia o ebriedad consuetudinaria en los términos que prevengan las leyes.
 
 > <small>(ADICIONADA, P.O. 16 DE ABRIL DE 1974)</small>
 
-VI. Por estar prófugo de la justicia, desde que se dicte el auto de formal prisión, hasta que prescriba la acción penal.
+VI.- Por estar prófugo de la justicia, desde que se dicte el auto de formal prisión, hasta que prescriba la acción penal.
 
 ###### Artículo 16.
 
@@ -201,9 +201,17 @@ Las leyes determirán (sic) a qué autoridad corresponde decretar la suspensión
 
 La soberanía del Estado reside en el Pueblo y en nombre de éste la ejerce el Poder Público del modo y en los términos que establece esta Constitnción (sic) y la General de la República.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1979)</small>
+
 ###### Artículo 20.
 
-El Estado adopta para su régimen interior la forma de Gobierno republicano, representativo y popular, teniendo como base de su organización política y administrativa, la libertad del Munecipio (sic).
+El Estado adopta para su régimen interior la forma de gobierno republicano, representativo y popular, teniendo como base de su organización política y administrativa, la libertad del Municipio.
+
+Los Partidos Políticos son entidades de interés público: la Ley determinará las formas específicas de su intervención en el proceso electoral.
+
+Los Partidos Políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos; hacer posible el acceso de éstos al ejercicio del Poder Público, de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal, libre, secreto y directo.
+
+Los Partidos Políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
 
 > <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
 
@@ -241,7 +249,7 @@ Sólo podrán ejercer jurisdicción en el territorio del Estado las autoridades 
 
 El ejercicio de las funciones propias del Poder Legislativo se encomienda a una corporación que se denominará "CONGRESO EL (SIC) ESTADO".
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1977)</small>
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1979)</small>
 
 ### CAPITULO QUINTO.
 
@@ -251,15 +259,23 @@ De los ciudadanos poblanos.
 
 ###### Artículo 26.
 
-El Congreso se compondrá cuando menos de once representantes del pueblo, electos respectivamente por los Distritos Electorales determinados por la Ley Electoral. Por cada diputado propietario se elegirá un suplente. La elección de diputados será directa y se complementará, además, con diputados de partido apegándose, en ambos casos, a lo dispuesto por la Ley Electoral, y, en el segundo, a las reglas siguientes:
+El Congreso del Estado estará integrado por 20 Diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de Distritos Electorales Uninominales, y, hasta seis Diputados que serán electos de acuerdo con el principio de representación proporcional, conforme al sistema de listas votadas en una circunscripción plurinominal que corresponderá a la totalidad del Territorio del Estado. Por cada Diputado Propietario se elegirá un Suplente.
 
-I.- Todo partido político que hubiese obtenido su registro conforme a la Ley Estatal Electoral, por lo menos con un año de anterioridad al día de la elección, al obtener el uno y medio por ciento de la votación total en el Estado, en la elección de diputados respectiva, tendrá derecho a que se acredite un diputado, de entre sus candidatos, y a uno más si ha obtenido el tres por ciento o más de la votación total.
+I.- Para obtener la inscripción de sus listas, el Partido Político que lo solicite deberá acreditar su Registro definitivo y que participa con candidatos a diputados por mayoría relativa en por lo menos 7 de los Distritos Electorales Uninominales.
 
-II.- Si logra la mayoría en dos o más distritos electorales, no tendrá derecho a que le sean acreditados diputados de partido, pero si triunfa el menor número, siempre que logre el uno y medio por ciento mencionado en la fracción anterior, tendrá derecho a que le sean acreditados hasta dos diputados, sumando el electo por mayoría y el que obtuvo el triunfo por razón de porcentaje.
+II.- Tendrá derecho a que le sean asignados Diputados Electos según el principio de representación proporcional, todo aquel Partido que:
 
-III.- Los diputados de partido serán acreditados por riguroso orden, de acuerdo con el número decreciente de sufragios que hayan obtenido en relación a los demás candidatos del mismo partido, en sus respectivos distritos.
+a).- No haya obtenido 3 ó más constancias de mayoría.
 
-IV.- Los diputados de mayoría y los de partido, tendrán la misma categoría e iguales derechos y obligaciones.
+b).- Que alcance por lo menos el 1.5 por ciento de la votación emitida para el total de las listas.
+
+III.- Al Partido Político que satisfaga los requisitos señalados en las fracciones anteriores le serán asignados los Diputados que corresponda, de acuerdo al porcentaje de votos obtenidos para el total de dichas listas.
+
+La Ley determinará las fórmulas electorales y los procedimientos que se observarán para la asignación en la que, en todo caso, se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
+
+IV.- En caso de que los Partidos con derecho a participar en la distribución por listas, obtuviesen en su conjunto 4 ó más constancias de mayoría, sólo serán objeto de distribución la tercera parte de las curules que deban asignarse por el principio de representación proporcional.
+
+V.- Los Diputados de mayoría y los asignados conforme al principio de representación proporcional, siendo representantes del pueblo, tendrán la misma categoría e iguales derechos y obligaciones.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
@@ -287,11 +303,11 @@ II.- Haber cumplido veintiún años de edad.
 
 III. Saber leer y escribir.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. P.O. 4 DE MAYO DE 1979)</small>
 
 ###### Artículo 29.
 
-No pueden ser electos diputados propietarios o suplentes:
+No pueden ser electos Diputados Propietarios o Suplentes:
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 1977)</small>
 
@@ -301,9 +317,9 @@ I.- El Gobernador, el Secretario General, los Magistrados en ejercicio del Tribu
 
 II. Los Magistrados, Jueces y empleados Superiores de la Federación en el Estado.
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 1977)</small>
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1979)</small>
 
-III.- El Procurador General de Justicia, el Sub-Secretario General de Gobierno, el Secretario Particular del Gobernador, los Directores de las Dependencias del Poder Ejecutivo, el Presidente de la Junta Local de Conciliación y Arbitraje, el Secretario de la Comisión Agraria Mixta, los Militares en servicio activo y los Jefes de las Policías del Estado, si no se separan definitivamente de sus encargos, tres meses antes de la elección.
+III.- El Procurador General de Justicia, el Sub-Secretario General del Gobierno, el Oficial Mayor de Gobierno, el Secretario Particular del Gobernador, los Directores de las Dependencias del Poder Ejecutivo, el Presidente de la Junta Local de Conciliación y Arbitraje, el Secretario de la Comisión Agraria Mixta, los Militares en servicio activo y los Jefes de las Policías del Estado, si no se separan definitivamente de sus encargos, tres meses antes de la elección.
 
 IV. Los Ministros y Tesoreros de los cultos, cuando no hayan renunciado públicamente a su ministerio o cargo, cinco años, por lo menos, antes de la elección.
 
@@ -317,11 +333,13 @@ V.- Los Presidentes Municipales, los Jueces y Recaudadores de Rentas por la circ
 
 El cargo de diputado propietario o el de suplente en funciones, desde el momento en que se empiece a ejercer, será incompatible con cualquiera otro cargo o comisión de la Federación, del Estado o del Municipio, por los cuales se disfrute sueldo sin licencia previa del Congreso; y obtenida ésta, cesará el interesado en sus funciones representativas mientras desempeña la nueva ocupación que se le confiera. La infracción a esta disposición ocasionará la pérdida del carácter de diputado.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1977)</small>
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1979)</small>
 
 ###### Artículo 31.
 
-La Junta Preparatoria del Congreso, o este mismo, calificará las elecciones de los Diputados, acreditará a los diputados de partido que corresponda, y sus resoluciones serán definitivas e irrevocables.
+La Junta Preparatoria del Congreso, o éste mismo, calificará las elecciones de los diputados y sus resoluciones serán definitivas e irrevocables.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1979)</small>
 
 ## TITULO TERCERO
 
@@ -335,27 +353,33 @@ De la organización del Congreso.
 
 ###### Artículo 32.
 
-Los Diputados son inviolables por las opiniones que manifiesten en el ejercicio de su cargo.
+Los diputados son inviolables por las opiniones que manifiesten en el ejercicio de su cargo.
+
+El Presidente de la Legislatura velará por el respeto al fuero Constitucional de sus miembros y por la inviolabilidad del Recinto donde se reúnen a sesionar.
 
 ###### Artículo 33.
 
 El Congreso se renovará en su totalidad cada tres años y comenzará a funcionar cada trienio, el día quince de enero posterior a las elecciones.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1977)</small>
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1979)</small>
 
 ###### Artículo 34.
 
-La Junta Preparatoria para la instalación y para la apertura del Congreso y éste mismo, no pueden ejercer sus funciones sin la asistencia de más de la mitad del número total de diputados; pero los que asistan, cualquiera que sea su número deberán reunirse en los días señalados por la Ley y compeler a los ausentes a que concurran dentro de los diez días siguientes, con la advertencia de que si no lo hacen, se entenderá por ese solo hecho que renuncian al cargo sin causa justificada, llamándose luego a los suplentes, los que deberán presentarse en un plazo de veinte días, y si no lo hicieran se declararán vacante y el cargo y se convocará a nueva elección, siempre y cuando se trate de diputado de mayoría.
+La Junta Preparatoria para la instalación y para la apertura del Congreso y este mismo, no pueden ejercer sus funciones sin la asistencia de más de la mitad del número total de diputados, pero los que asistan, cualquiera que sea su número, deberán reunirse en los días señalados por la Ley y compeler a los ausentes a que concurran dentro de los diez días siguientes, con la advertencia de que si no lo hacen, se entenderá por ese solo hecho que renuncian al cargo sin causa justificada, llamándose luego a los suplentes, los que deberán presentarse en un plazo de veinte días, y si no lo hicieran, se declarará vacante el cargo y se convocará a nueva elección, siempre y cuando se trate de diputados de mayoría. En el caso de diputados electos por el principio de representación proporcional, se cubrirá la vacante con aquellos candidatos del mismo partido que hubieren quedado en lugar preferente en la lista respectiva.
+
+El diputado que falte quince días consecutivos sin causa justificada, o sin licencia previa, se entenderá que renuncia a concurrir hasta el período inmediato, llamándose desde luego al suplente.
+
+Si no hubiere la mayoría requerida para la instalación del Congreso, o para que ejerza sus funciones una vez instalados se llamará inmediatamente a los suplentes para que desempeñen su cargo, entre tanto transcurren los diez días señalados a los propietarios.
 
 ###### Artículo 35.
 
 Los Diputados que no concurran a una sesión, sin causa justificada, no tendrán derecho a la dieta correspondiente.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1977)</small>
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1979)</small>
 
 ###### Artículo 36.
 
-Diez días antes del fijado para la apertura del Congreso, los diputados deben reunirse y los que se hallen presentes, formarán desde luego la Junta Preparatoria la cual tendrá todas las reuniones que fueren necesarias para calificar las credenciales de los diputados, acreditar a los diputados de partido, excitar a los ausentes para que concurran y nombrar Presidente, Vice Presidente y Secretarios del Congreso. Una vez calificadas dichas credenciales en número suficiente, se procederá por el Presidente a hacer la declaración solemne de que queda instalada la Legislatura. Las credenciales que no fueren calificadas por la Junta Preparatoria, lo serán por el Congreso.
+Diez días antes del fijado para la apertura del Congreso, los presuntos diputados, tanto de mayoría como de representación proporcional, deben reunirse y los que se hallen presentes, formarán desde luego la Junta Preparatoria, la cual tendrá todas las reuniones que fueren necesarias para calificar sus propias credenciales, excitar a los ausentes para que concurran y nombrar Presidente, Vice-Presidente y Secretarios del Congreso. Una vez calificadas dichas credenciales en número suficiente, se procederá por el Presidente a hacer la declaración solemne de que queda instalada la Legislatura. Las credenciales que no fueren calificadas por la Junta Preparatoria, lo serán por el Congreso.
 
 ###### Artículo 37.
 
@@ -603,9 +627,9 @@ XXVI. Nombrar y remover a los empleados de su Secretaría y de la Contaduría Ge
 
 XXVII.- Recibir la protesta constitucional a los Diputados, al Gobernador de elección popular directa, al Interino o al Substituto, a los Magistrados del Tribunal Superior, a los suplentes de éstos y a todos los demás empleados de su nombramiento, que conforme a las Leyes no deban otorgar la protesta ante otra autoridad.
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1979)</small>
 
-XXVIII. Formar y modificar su reglamento interior.
+XXVIII.- Expedir y modificar la Ley que regulará su estructura y funcionamiento internos. Esta Ley no podrá ser votada ni necesitará de promulgación del Ejecutivo Estatal para tener vigencia.
 
 > <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
 
@@ -903,9 +927,25 @@ XXX. Organizar la Secretaría General de Gobierno, sin alterar los Presupuestos.
 
 XXXI.- Celebrar convenios con los Gobernadores de los Estados de la República, sujetándose a lo que establezcan las leyes locales respectivas, para que los reos sentenciados por delitos del orden común, de nacionalidad mexicana, sean trasladados al lugar de su origen o residencia para que cumplan su condena. El traslado de los reos solo podrá efectuarse con su consentimiento expreso.
 
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1979)</small>
+
+XXXII.- Promover el desarrollo económico del Estado, procurando que sea integral, equilibrado y conforme a los principios de la justicia social.
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1979)</small>
+
+XXXIII.- Crear previo Decreto, Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos, Comités y Comisiones, y asignarles las funciones que estime convenientes.
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1979)</small>
+
+XXXIV.- Promover, cuando sea necesario, la actualización y perfeccionamiento de la Administración Pública, adecuándola a las necesidades y recursos de la Entidad.
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1979)</small>
+
+XXXV.- Fomentar la creación de Industrias y Empresas Rurales, buscando la participación armónica de los factores de la producción.
+
 ###### Artículo 72.
 
-Para el despacho de los negocios oficiales del Poder Ejecutivo, habrá un Secretario General de Gobierno.
+Para el despacho de los negocios del Poder Ejecutivo habrá un Secretario General de Gobierno y los organismos que determine la Ley.
 
 ###### Artículo 73.
 
@@ -915,13 +955,15 @@ I. Ser ciudadano mexicano en ejercicio de sus funciones y mayor de treinta años
 
 II. No ser Militar, Ministro ni tesorero de ningún culto.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1979)</small>
+
 ###### Artículo 74.
 
-Los acuerdos, órdenes y disposiciones que dicte el Gobernador, así como los documentos que subscriba en el ejercicio de sus funciones constituciouales (sic), deberán ser autorizados por el Secretario, sin el cual requisito no surtirán efectos legales.
+Los acuerdos, órdenes y disposiciones que dicte el Gobernador, así como los documentos que suscriba en el ejercicio de sus funciones Constitucionales, deberán ser autorizados por el Secretario, sin el cual requisito no surtirán efectos legales.
 
-El Secretario General es el órgano de comunicación entre el Gobernador y las Autoridades y empleados inferiores del Estado y los particulares.
+El Secretario General es el órgano de comunicación entre el Gobernador y los demás Poderes y Ayuntamientos del Estado.
 
-Llevará la voz del Ejecutivo ante el Congreso en todos los casos, excepto cuando en la discusión de una Ley o Decreto el Gobernador comisione a otra persona.
+Llevará la voz del Ejecutivo ante el Congreso en todos los casos, excepto cuando la discusión de una Ley o Decreto el Gobernador comisione a otra persona.
 
 ###### Artículo 75.
 
@@ -959,7 +1001,7 @@ Los Magistrados Propietarios y los Suplentes de éstos, inegrantes (sic) del Tri
 
 Del Secretario General.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1979)</small>
 
 ###### Artículo 81.
 
@@ -1073,9 +1115,19 @@ El territorio del Estado para su administración política se divide en Municipi
 
 La Ley Orgánica Municipal, fijará el mínimun de la población, extensión, límites y demás requisitos para formarlos, para suprimir unos y para erigir otros. Su funcionamiento se sujetará a las bases establecidas en esta Constitución.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1979)</small>
+
 ###### Artículo 100.
 
-Cada Municipio será administrado por un Ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+Cada Municipio será administrado por un Ayuntamiento de elección popular directa, integrado por la Planilla que haya obtenido el mayor número de votos, y no habrá ninguna Autoridad intermedia entre éste y el Gobierno del Estado.
+
+I.- En el Municipio, Capital del Estado de Puebla, el Ayuntamiento se complementará además con 3 Regidores que le serán acreditados conforme al principio de representación proporcional.
+
+II.- En los demás Municipios que conforme al último Censo General de Población, tengan cien mil o más habitantes, el Ayuntamiento se complementará con 2 Regidores que serán acreditados de acuerdo con el mismo principio.
+
+III.- En los casos a que se refieren las dos fracciones anteriores, los Regidores se acreditarán de entre los Partidos Políticos Minoritarios que hayan obtenido por lo menos el 1.5 % de la votación total en el Municipio, de acuerdo con las fórmulas y procedimientos que establezca la Ley de la Materia.
+
+En todo caso, en la asignación de Regidores de representación proporcional se seguirá el orden que tuviesen los candidatos en las planillas correspondientes, con excepción de quienes hubiesen figurado como candidatos a Presidente Municipal o Primer Regidor y a Síndico.
 
 ###### Artículo 101.
 
@@ -1121,15 +1173,13 @@ V. En caso de desarrollo de alguna epidemia, el Gobernador del Estado podrá hac
 
 VI. Los Ayuntamientos están obligados a seguir los programas que en materia de Instrucción Pública establezcan las autoridades educativas del Estado.
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1979)</small>
 
-VII.- En caso de falta de los miembros de la asamblea, por más de dos sesiones consecutivas, los Regidores que asistan, procederán a llamar a los suplentes, a fin de que sea integrada, y si todos han dejado de concurrir, el Ejecutivo del Estado está facultado para llamar a los suplentes. Integrada así la asamblea, decretará la imposición de una multa de $200.00 (DOSCIENTOS PESOS) a los que hayan faltado sin causa justificada, y los consignará a la autoridad judicial correspondiente, para que, previos los procedimientos legales, se les imponga como pena la suspensión de derechos políticos durante tres años. Igual procedimiento se aplicará al Síndico Municipal.
+VII.- En caso de falta de los miembros de la Asamblea, por más de dos sesiones consecutivas, los Regidores que asistan, procederán a llamar a los suplentes, a fin de que sea integrada, y si todos han dejado de concurrir, el Ejecutivo del Estado está facultado para llamar a los suplentes. Integrada así la Asamblea, decretará la imposición de una multa de $200.00 (DOSCIENTOS PESOS) a los que hayan faltado sin causa justificada, y los consignará a la autoridad judicial correspondiente, para que, previos los procedimientos legales, se les imponga como pena la suspensión de derechos políticos durante tres años. Igual procedimiento se aplicará al Síndico Municipal.
 
-La propia asamblea dará cuenta al Ejecutivo de las faltas absolutas de uno o más de sus miembros propietarios y de sus respectivos suplentes, y éste convocará desde luego a elecciones para cubrir los puestos que hubieren quedado vacantes, salvo que falte por transcurrir un año o menos para completar su período y que haya el número suficiente de Regidores para integrar quórum, en cuyo caso se esperará a la nueva elección
+La propia Asamblea dará cuenta al Ejecutivo de las faltas absolutas de uno o más de sus miembros propietarios y de sus respectivos suplentes, y éste convocará desde luego a elecciones, que en todo caso serán conforme al principio de mayoría relativa, para cubrir los puestos que hubieren quedado vacantes, salvo que falte por transcurrir un año o menos para completar por su período y que haya el número suficiente de Regidores para integrar quórum, en cuyo caso se esperará a la nueva elección.
 
-.
-
-Si la falta absoluta del Presidente o del Síndico propietario y de sus respectivos suplentes, ocurriera faltando un año o menos para la terminación del período del ejercicio del Ayuntamiento, asumirán los cargos por el tiempo que falte para concluirlos y con el carácter de substitutos, el Regidor encargado de la Comisión de Gobernación y Policía, como Presidente, y la persona que de entre los vecinos del municipio designe el Gobernador, como Síndico.
+Si la falta absoluta del Presidente o del Síndico propietario y de sus respectivos suplentes, ocurriera faltando un año o menos para la terminación del período del ejercicio del Ayuntamiento, asumirán los cargos por el tiempo que falte para concluirlos y con el carácter de substitutos, el Regidor encargado de la Comisión de Gobernación y Policía, como Presidente y la persona que de entre los vecinos del Municipio designe el Gobernador como Síndico.
 
 > <small>(REFORMADA, P.O. 16 DE ABRIL DE 1974)</small>
 
@@ -1151,9 +1201,9 @@ XIV. Cuando a juicio del Congreso resulte, según los presupuestos o un informe 
 
 XV. El Ejecutivo nombrará Visitadores especiales para las Tesorerías Municipales, los cuales revisarán los libros e informarán después al Ejecutivo para que éste excite a los Ayuntamientos a recaudar los fondos públicos o bien corrija las deficiencias que se encuentren o se consignaren, si hubiere algún delito en el manejo de los fondos.
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1979)</small>
 
-XVI.- Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento del Gobernador desempeñen las funciones propias de sus cargos cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
+XVI.- Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento del Gobernador desempeñen las funciones propias de sus cargos cualquiera que sea la denominación que se les dé; no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
 ###### Artículo 105.
 
@@ -1471,7 +1521,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 17 DE NOVIEMBRE DE 1933.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 13 DE NOVIEMBRE DE 1936.
 
@@ -1507,6 +1557,10 @@ P.O. 19 DE AGOSTO DE 1977.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+P.O. 4 DE MAYO DE 1979.
+
+DECRETO QUE REFORMA ART. 72 Y 73 DE LA CONSTITUCION
+
 ###### Artículo 5°.
 
 Las leyes establecerán las sanciones correspondientes a los atentados en contra de estos derechos, los cuales tienen como límite el interés legítimo del Estado y los derechos iguales de los demás hombres, según se encuentren formulados en esta Constitución, en la de la República y en las leyes secundarias.
@@ -1522,3 +1576,13 @@ II. A contribuir para todos los gastos públicos de la manera proporcional y equ
 III. A prestar auxilio a las autoridades cuando para ello sean legalmente requeridos.
 
 IV. A recibir la educación primaria elemental en la forma prevenida por las leyes y conforme a los reglamentos y programas que de acuerdo con ellas expida el Gobernador.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MAYO DE 1979.
+
+DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN.
+
+Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
