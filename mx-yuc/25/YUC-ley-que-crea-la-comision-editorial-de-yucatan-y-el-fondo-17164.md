@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-crea-la-comision-editorial-de-yucatan-y-el-fondo-17164"
 country: "mx"
 rank: "ley"
 publication_date: "1977-09-14"
-last_updated: "1977-09-14"
+last_updated: "1983-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY QUE CREA LA COMISIÓN EDITORIAL DE YUCATÁN Y EL FONDO EDITORIAL DEL GOBIERNO DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 14 de septiembre de 1977.
 
@@ -45,45 +45,43 @@ Y EL FONDO EDITORIAL DEL GOBIERNO DEL ESTADO.
 
 ###### ARTICULO 1o.
 
-La Comisión Editorial de Yucatán es un organismo académico e independiente, cuyos objetivos fundamentales son la edición o reedición de obras relacionadas con la vida y problemas de la región, así como el fomento de las tareas de investigación científica y tecnológica y de estímulo a la creación artística y literaria.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LEY QUE CREA LA ACADEMIA YUCATANENSE DE CIENCIAS Y ARTES Y PROMOCION EDITORIAL, D.O. 19 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 2o.
 
-La Comisión estará integrada ad honorem por quince representantes de la intelectualidad yucateca, entre los de mayor prestigio y renombre, que serán designados en el momento de su constitución por el Ejecutivo del Estado, excepción hecha de los representantes de la Universidad de Yucatán, de los del Instituto Tecnológico Regional de Mérida y de los de la Escuela Normal Superior del Estado, quienes serán designados por dichas instituciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LEY QUE CREA LA ACADEMIA YUCATANENSE DE CIENCIAS Y ARTES Y PROMOCION EDITORIAL, D.O. 19 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 3o.
 
-El número de miembros de la Comisión podrá ampliarse por acuerdo de las dos terceras partes de sus integrantes, quienes tendrán la facultad de seleccionarlos sobre la base de los méritos que posean en su actividad profesional y en su aportación a la cultura de Yucatán.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LEY QUE CREA LA ACADEMIA YUCATANENSE DE CIENCIAS Y ARTES Y PROMOCION EDITORIAL, D.O. 19 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 4o.
 
-Para efectos de representación y coordinación fungirán un Presidente y un Secretario que ejercerán su encargo durante dos años. El primer Presidente y el primer Secretario de la Comisión serán designados por el Titular del Ejecutivo del Estado y los posteriores serán electos por el voto de las dos terceras partes de sus miembros.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LEY QUE CREA LA ACADEMIA YUCATANENSE DE CIENCIAS Y ARTES Y PROMOCION EDITORIAL, D.O. 19 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 5o.
 
-La Comisión deberá reunirse para el estudio y resolución de los asuntos de su objeto por lo menos una vez cada dos meses, previa convocatoria suscrita por el Presidente y el Secretario y, para la validez de sus acuerdos, que se adoptarán mediante el voto de la mayoría de los presentes, se requerirá la asistencia mínima de la mitad más uno de sus miembros.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LEY QUE CREA LA ACADEMIA YUCATANENSE DE CIENCIAS Y ARTES Y PROMOCION EDITORIAL, D.O. 19 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 6o.
 
-Para la selección de las obras que habrán de editarse, la Comisión recibirá propuestas de instituciones educativas y de asociaciones culturales y organismos oficiales, así como de sus propios integrantes.
-
-La obra sometida a consideración, una vez aprobada, será remitida para su publicación al Fondo Editorial del Gobierno del Estado o a la institución que tenga disponibilidad financiera para editarla.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LEY QUE CREA LA ACADEMIA YUCATANENSE DE CIENCIAS Y ARTES Y PROMOCION EDITORIAL, D.O. 19 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 7o.
 
-La Comisión podrá recomendar apoyo económico y técnico para la realización de trabajos de investigación a nivel estudiantil o profesional, así como para el incremento de publicaciones que contribuyan a enriquecer el acervo de la cultura yucateca.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LEY QUE CREA LA ACADEMIA YUCATANENSE DE CIENCIAS Y ARTES Y PROMOCION EDITORIAL, D.O. 19 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 8o.
 
-La Comisión deberá convocar en el mes de septiembre de cada año a un concurso de investigación sobre temas agropecuarios, industriales, literarios, artísticos, sociológicos y de otros aspectos básicos en la vida de la Península.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LEY QUE CREA LA ACADEMIA YUCATANENSE DE CIENCIAS Y ARTES Y PROMOCION EDITORIAL, D.O. 19 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 9o.
 
-El Jurado calificador del certamen a que se hace referencia en el artículo anterior podrá formarse con miembros de la Comisión o personas que sin pertenecer a ella resulten calificadas en la materia del concurso.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LEY QUE CREA LA ACADEMIA YUCATANENSE DE CIENCIAS Y ARTES Y PROMOCION EDITORIAL, D.O. 19 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 10o.
 
-:La Comisión para el cumplimiento de sus objetivos, podrá coordinarse con entidades privadas y oficiales del Estado, de la República Mexicana o del extranjero.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LEY QUE CREA LA ACADEMIA YUCATANENSE DE CIENCIAS Y ARTES Y PROMOCION EDITORIAL, D.O. 19 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 11.
 
@@ -126,3 +124,19 @@ DR. FRANCISCO LUNA KAN
 El Secretario de Gobierno.
 
 Lic. Gaspar Gómez Chacón.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 19 DE DICIEMBRE DE 1983.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan los artículos 1o., 2o., 3o., 4o., 5o., 6o., 7o., 8o., 9o. y 10o., del Decreto número 138 publicado en el "Diario Oficial", del Gobierno del Estado de fecha 14 de septiembre de 1977.
+
+###### ARTICULO TERCERO.
+
+Por esta única vez y para integrar y organizar la Academia, se designan como miembros de la misma a los señores: Profesor Antonio Betancourt Pérez, Licenciado Rodolfo Ruz Menéndez, Profesor Roldán Peniche Barrera, Licenciado Jaime Orosa Díaz, Profesor José González Beytia, Escritor Leopoldo Peniche Vallado, Cronista Renán Irigoyén, Licenciado Alberto Cervera Espejo, Historiador Juan Francisco Peón Ancona, Doctor Carlos Urzáiz Jiménez, Sociólogo José Luis Sierra, Profesor Adonay Cetina Sierra, Licenciado Raúl Vela Sosa, Antropólogo Salvador Rodríguez Losa, Antropólogo Carlos Bojórquez Urzáiz, Arqueólogo Alfredo Barrera Rubio, Antropólogo Juan Ramón Bastarrachea Manzano, Periodista Oswaldo Baqueiro López, Grabador Emilio Vera Granados, Ingeniero Alberto Gutiérrez Alcalá, Arquitecto Enrique Manero Peón, Doctor Gilberto Balam Pereira y Profesor William Brito Sansores, los cuatro primeros nombrados fungirán como Presidente, Secretario, Tesorero y Bibliotecario Archivista, respectivamente, por el primer período directivo de la Academia.
