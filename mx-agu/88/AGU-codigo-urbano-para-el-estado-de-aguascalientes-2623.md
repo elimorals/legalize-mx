@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-2623"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-05-29"
-last_updated: "2004-09-13"
+last_updated: "2005-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2005.
 
 Código publicado en la Sección Primera del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -375,7 +375,9 @@ Para la aplicación de este Código, son autoridades competentes:
 
 I.- El Gobernador Constitucional del Estado;
 
-II.- La SEDESO;
+> <small>(REFORMADA POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
+II.- La Secretaría de Planeación y Desarrollo Regional
 
 III.- La Secretaría de Finanzas del Estado;
 
@@ -453,13 +455,17 @@ XV.- Otorgar las concesiones en materia del servicio de transporte público de p
 
 XVI.- Aplicar y hacer cumplir el presente Código y las demás disposiciones que regulen la materia.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 20.
 
-Corresponde a la SEDESO y a la SOP Estatal ejercer las atribuciones que les delegue el Poder Ejecutivo, mismas que realizarán de conformidad con las facultades que les otorgan sus respectivos Decretos de Creación y los Reglamentos Internos de dichas dependencias; así como, las facultades que este Código les señala.
+Corresponde a la Secretaría de Planeación y Desarrollo Regional y a la SOP Estatal ejercer las atribuciones que les delegue el Poder Ejecutivo, mismas que realizarán de conformidad con las facultades que les otorgan sus respectivos Decretos de Creación y los Reglamentos Internos de dichas dependencias; así como, las facultades que este Código les señala.
+
+> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 21.
 
-La SEDESO tendrá las siguientes atribuciones:
+La Secretaría de Planeación y Desarrollo Regional tendrá las siguientes atribuciones:
 
 I.- Coordinar la elaboración, ejecución, control, modificación, actualización y evaluación de los Programas Estatales de Desarrollo Urbano y de Vivienda, así como de los demás que de éstos se deriven;
 
@@ -545,21 +551,25 @@ II.- Asesorar a los Ayuntamientos, cuando éstos lo soliciten, en la elaboració
 
 III.- Participar con las autoridades estatales y municipales en la elaboración, ejecución, control y evaluación de los programas de ordenación de zonas conurbadas, regionales y subregionales de desarrollo urbano;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
 
-IV.- Formular los programas estatales de obras públicas, en coordinación con la SEDESO, la Secretaría de Planeación y los Ayuntamientos;
+IV.- Formular los programas estatales de obras públicas, en coordinación con la Secretaría de Planeación y Desarrollo Regional, la Secretaría de Planeación y los Ayuntamientos;
 
 V.- Proyectar, ejecutar, mantener, conservar y operar, directamente o a través de terceros las obras y servicios públicos que realice la Administración Pública Estatal;
 
 VI.- Fomentar la construcción de obras públicas prioritarias formulando los estudios, proyectos y presupuestos de las mismas;
 
-VII.- Proponer, en coordinación con la SEDESO y los Ayuntamientos, la adquisición de reservas territoriales que correspondan a los programas de obras y servicios públicos;
+> <small>(REFORMADA POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
+VII.- Proponer, en coordinación con la Secretaría de Planeación y Desarrollo Regional y los Ayuntamientos, la adquisición de reservas territoriales que correspondan a los programas de obras y servicios públicos;
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
 VIII.- Coordinarse con las autoridades municipales y la Secretaría de Planeación a fin de realizar los programas estatales de obras públicas en los Municipios de la Entidad;
 
-IX.- Coordinarse con la SEDESO, así como con los Ayuntamientos de la Entidad, para la programación y presupuestación de obras y servicios públicos que se realicen en el Estado;
+> <small>(REFORMADA POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
+IX.- Coordinarse con la Secretaría de Planeación y Desarrollo Regional, así como con los Ayuntamientos de la Entidad, para la programación y presupuestación de obras y servicios públicos que se realicen en el Estado;
 
 X.- Registrar y clasificar los proyectos de inversión que se formulen, y el catálogo de las obras y servicios públicos que se ejecuten, con objeto de contar con el material idóneo que permita su adecuada programación, presupuestación, control y evaluación;
 
@@ -593,7 +603,9 @@ IV.- Coordinar el Programa Municipal con el Estatal y Nacional de Desarrollo Urb
 
 V.- Promover y determinar conjuntamente con el Gobierno del Estado, con base en los programas de desarrollo urbano y de vivienda, la adquisición y administración de reservas territoriales, para la ejecución de dichos programas;
 
-VI.- Coordinar con la SEDESO y la SOP Estatal la elaboración, ejecución, control y evaluación de los programas de ordenación de zonas conurbadas, regionales y subregionales de desarrollo urbano;
+> <small>(REFORMADA POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
+VI.- Coordinar con la Secretaría de Planeación y Desarrollo Regional y la SOP Estatal la elaboración, ejecución, control y evaluación de los programas de ordenación de zonas conurbadas, regionales y subregionales de desarrollo urbano;
 
 VII.- Controlar y vigilar el aprovechamiento del suelo en sus jurisdicciones territoriales;
 
@@ -633,7 +645,9 @@ XXIV.- Vigilar que en los fraccionamientos que no hayan sido municipalizados, lo
 
 XXV.- Promover o ejecutar fraccionamientos populares o de interés social y condominios de orden público;
 
-XXVI.- Impedir, en coordinación con la SEDESO, el establecimiento de asentamientos humanos irregulares y de fraccionamientos o condominios al margen de la Ley;
+> <small>(REFORMADA POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
+XXVI.- Impedir, en coordinación con la Secretaría de Planeación y Desarrollo Regional, el establecimiento de asentamientos humanos irregulares y de fraccionamientos o condominios al margen de la Ley;
 
 XXVII.- Controlar que el desarrollo urbano municipal sea equilibrado, para que beneficie en forma efectiva a las diferentes partes del Municipio, evaluando periódicamente los resultados obtenidos;
 
@@ -679,7 +693,9 @@ La Comisión Estatal se integra por:
 
 I.- Un Presidente, que será el Gobernador Constitucional del Estado;
 
-II.- Un Secretario Técnico, que será el Secretario de Desarrollo Social del Estado;
+> <small>(REFORMADA POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
+II.- Un Secretario Técnico, que será el Secretario de Planeación y Desarrollo Regional;
 
 III.- Los Presidentes Municipales cuando se analicen asuntos de sus municipios;
 
@@ -759,13 +775,17 @@ II.- Dictaminar sobre las provisiones, reservas, usos y destinos de áreas y pre
 
 III.- Evaluar las obras de infraestructura y equipamiento urbano que por su importancia deba conocer;
 
-IV.- Decidir en aquellos asuntos que se presenten a su consideración, cuando entre la SEDESO y/o SOP Estatal y los Ayuntamientos exista diferencia de criterio en cuanto al tratamiento de un asunto municipal, en materia de desarrollo urbano y vivienda;
+> <small>(REFORMADA POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
+IV.- Decidir en aquellos asuntos que se presenten a su consideración, cuando entre la Secretaría de Planeación y Desarrollo Regional y/o SOP Estatal y los Ayuntamientos exista diferencia de criterio en cuanto al tratamiento de un asunto municipal, en materia de desarrollo urbano y vivienda;
 
 V.- Autorizar los fraccionamientos de terrenos, así como la constitución del régimen de propiedad en condominio, en los casos establecidos por el presente Código;
 
 VI.- Crear para asesoramiento y apoyo, los grupos técnicos que sean necesarios;
 
-VII.- Analizar las observaciones o proposiciones que le formule la SEDESO, originadas por la demanda ciudadana, respecto al desarrollo urbano y la vivienda;
+> <small>(REFORMADA POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
+VII.- Analizar las observaciones o proposiciones que le formule la Secretaría de Planeación y Desarrollo Regional, originadas por la demanda ciudadana, respecto al desarrollo urbano y la vivienda;
 
 VIII.- Vigilar el buen funcionamiento del Sistema Estatal de Vivienda;
 
@@ -787,9 +807,11 @@ XVI.- Supervisar las actividades de los Ayuntamientos en materia de planeación 
 
 XVII.- Las demás que le señalen este Código y otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 34.
 
-La Comisión Estatal deberá de sesionar trimestralmente con la asistencia mínima del 50% más uno de sus miembros, y para tal efecto será la SEDESO, a través de la Secretaría Técnica de la Comisión, quien citará a sus miembros, informándoles con un mínimo de dos días hábiles de anticipación y sobre el orden del día.
+La Comisión Estatal deberá de sesionar trimestralmente con la asistencia mínima del 50% más uno de sus miembros, y para tal efecto será la Secretaría de Planeación y Desarrollo Regional, a través de la Secretaría Técnica de la Comisión, quien citará a sus miembros, informándoles con un mínimo de dos días hábiles de anticipación y sobre el orden del día.
 
 ###### ARTICULO 35.
 
@@ -1177,9 +1199,11 @@ e) Los servicios públicos fundamentales.
 
 10.- Los mecanismos e instrumentos financieros para el desarrollo urbano.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 58.
 
-El Programa Estatal de Desarrollo Urbano será elaborado, aprobado, ejecutado, controlado y evaluado por el Ejecutivo del Estado, a través de la coordinación que para el efecto establezca la SEDESO, con otras dependencias y entidades estatales y, en su caso federales, con los Ayuntamientos de la Entidad y la Comisión Estatal.
+El Programa Estatal de Desarrollo Urbano será elaborado, aprobado, ejecutado, controlado y evaluado por el Ejecutivo del Estado, a través de la coordinación que para el efecto establezca la Secretaría de Planeación y Desarrollo Regional, con otras dependencias y entidades estatales y, en su caso federales, con los Ayuntamientos de la Entidad y la Comisión Estatal.
 
 ###### ARTICULO 59.
 
@@ -1235,9 +1259,11 @@ IV.- La determinación de espacios dedicados a la fundación, conservación, mej
 
 V.- La zonificación primaria del territorio comprendido en la zona conurbada.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 64.
 
-Los programas de ordenación de zonas conurbadas intraestatales, serán elaborados por las comisiones de conurbación respectivas y aprobados, ejecutados, controlados y evaluados, por el Ejecutivo del Estado, a través de la coordinación que para el efecto establezca la SEDESO, con la Comisión de Desarrollo Urbano del Estado, la Comisión de Conurbación correspondiente y los Ayuntamientos involucrados.
+Los programas de ordenación de zonas conurbadas intraestatales, serán elaborados por las comisiones de conurbación respectivas y aprobados, ejecutados, controlados y evaluados, por el Ejecutivo del Estado, a través de la coordinación que para el efecto establezca la Secretaría de Planeación y Desarrollo Regional, con la Comisión de Desarrollo Urbano del Estado, la Comisión de Conurbación correspondiente y los Ayuntamientos involucrados.
 
 ###### ARTICULO 65.
 
@@ -1399,9 +1425,11 @@ Los programas regionales de desarrollo urbano serán elaborados, aprobados, ejec
 
 Los programas subregionales de desarrollo urbano, perseguirán los mismos objetivos y políticas que los programas regionales, con la excepción de que ordenarán y regularán los asentamientos humanos o las actividades socioeconómicas de una zona o región, que abarque únicamente Municipios del Estado. Estos programas contendrán en lo procedente, los elementos que se especifican en el Artículo 55 de este Código.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 77.
 
-Los programas subregionales de desarrollo urbano, serán elaborados, aprobados, ejecutados, controlados y evaluados por el Ejecutivo del Estado, a través de la coordinación que para el efecto establezca la SEDESO con los Ayuntamientos correspondientes, y la opinión de la Comisión Estatal y los Comités Municipales.
+Los programas subregionales de desarrollo urbano, serán elaborados, aprobados, ejecutados, controlados y evaluados por el Ejecutivo del Estado, a través de la coordinación que para el efecto establezca la Secretaría de Planeación y Desarrollo Regional con los Ayuntamientos correspondientes, y la opinión de la Comisión Estatal y los Comités Municipales.
 
 ###### ARTICULO 78.
 
@@ -1415,7 +1443,9 @@ III.- Las respuestas a los planteamientos improcedentes y las modificaciones del
 
 IV.- Cumplidas las formalidades para su aprobación, el programa respectivo o sus modificaciones serán publicadas en el Periódico Oficial del Gobierno del Estado y en un diario de mayor circulación; y
 
-V.- Los diversos programas una vez aprobados se inscribirán en la sección correspondiente del Registro Público de la Propiedad y en la SEDESO y oficina municipal correspondiente.
+> <small>(REFORMADA POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
+V.- Los diversos programas una vez aprobados se inscribirán en la sección correspondiente del Registro Público de la Propiedad y en la Secretaría de Planeación y Desarrollo Regional y oficina municipal correspondiente.
 
 #### SECCION SEGUNDA. La Administración de la Planeación del Desarrollo Urbano
 
@@ -1433,7 +1463,9 @@ La Comisión Estatal o el Comité Municipal respectivo pondrán a disposición d
 
 La Comisión Estatal o el Comité Municipal respectivo, habiendo recibido el proyecto del programa de desarrollo urbano para dar su opinión, tendrán 20 días hábiles para emitirla; en caso de no hacerlo en dicho término, se considerará que no tiene inconveniente en que el programa sea aprobado por la autoridad correspondiente.
 
-La SEDESO o la Dirección de (sic) Municipal que corresponda, serán las dependencias que coordinen la remisión de los proyectos de programas de desarrollo urbano a la Comisión Estatal o al Comité Municipal respectivo.
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
+La Secretaría de Planeación y Desarrollo Regional o la Dirección de (sic) Municipal que corresponda, serán las dependencias que coordinen la remisión de los proyectos de programas de desarrollo urbano a la Comisión Estatal o al Comité Municipal respectivo.
 
 ###### ARTICULO 82.
 
@@ -1441,7 +1473,9 @@ En el caso de que la opinión de la Comisión Estatal o del Comité Municipal re
 
 Tratándose de un programa municipal de desarrollo urbano, será el Ayuntamiento quien resuelva en definitiva, previo dictamen del Presidente Municipal.
 
-En el Programa Estatal de Desarrollo Urbano, será el Gobernador del Estado quien resuelva en definitiva, previo dictamen de la SEDESO.
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
+En el Programa Estatal de Desarrollo Urbano, será el Gobernador del Estado quien resuelva en definitiva, previo dictamen de la Secretaría de Planeación y Desarrollo Regional.
 
 Las resoluciones previstas en este Artículo, serán definitivas y con carácter de irrevocables.
 
@@ -1477,7 +1511,9 @@ El Registro Público de la Propiedad y del Comercio del Estado contará con una 
 
 Se establecen los registros estatal y municipales de la planeación del desarrollo urbano, en los que se inscribirán los programas y resoluciones de la materia para su difusión, consulta pública, control y evaluación.
 
-El Registro Estatal dependerá de la SEDESO. Los Registros Municipales dependerán del Ayuntamiento respectivo.
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
+El Registro Estatal dependerá de la Secretaría de Planeación y Desarrollo Regional. Los Registros Municipales dependerán del Ayuntamiento respectivo.
 
 ###### ARTICULO 90.
 
@@ -1501,7 +1537,9 @@ La modificación o cancelación, podrá ser solicitada ante la autoridad corresp
 
 I.- El Gobernador Constitucional del Estado;
 
-II.- La SEDESO;
+> <small>(REFORMADA POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
+II.- La Secretaría de Planeación y Desarrollo Regional;
 
 III.- Los Ayuntamientos;
 
@@ -1569,7 +1607,9 @@ Las comisiones de conurbación intraestatales, se integrarán por:
 
 I.- Un Presidente, que será el Gobernador del Estado;
 
-II.- Un Secretario Técnico, que será el Secretario de Desarrollo Social del Estado;
+> <small>(REFORMADA POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
+II.- Un Secretario Técnico, que será el Secretario de Planeación y Desarrollo Regional;
 
 III.- Los Presidentes Municipales de los Ayuntamientos del Estado, en donde se localice la zona conurbada;
 
@@ -1711,9 +1751,11 @@ I.- El Gobernador del Estado; y
 
 II.- Los H. Ayuntamientos.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 118.
 
-La Legislatura del Estado solicitará en todos los casos, la opinión del Gobierno del Estado, por conducto de la SEDESO y de la Comisión Estatal, así como del Ayuntamiento y de la Comisión Municipal correspondiente, respec-to (sic) de las iniciativas de fundación de centros de población.
+La Legislatura del Estado solicitará en todos los casos, la opinión del Gobierno del Estado, por conducto de la Secretaría de Planeación y Desarrollo Regional y de la Comisión Estatal, así como del Ayuntamiento y de la Comisión Municipal correspondiente, respec-to (sic) de las iniciativas de fundación de centros de población.
 
 ###### ARTICULO 119.
 
@@ -2123,9 +2165,11 @@ Las obras, construcciones, ampliaciones o modificaciones que se hagan sin autori
 
 La autoridad competente requerirá, en todo caso, a la persona que contravenga lo dispuesto en el artículo anterior, para que se ajuste al mismo; en caso de no hacerlo ésta en el plazo que le será previamente fijado, se procederá en los términos de dicho artículo.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 168.
 
-La SEDESO y los Ayuntamientos supervisarán la ejecución de los proyectos y vigilarán en todo tiempo que las obras públicas, privadas y demás actividades estén de acuerdo con los respectivos lineamientos señalados en la legislación correspondiente, en los programas de desarrollo urbano y en las constancias de compatibilidad urbanística.
+La Secretaría de Planeación y Desarrollo Regional y los Ayuntamientos supervisarán la ejecución de los proyectos y vigilarán en todo tiempo que las obras públicas, privadas y demás actividades estén de acuerdo con los respectivos lineamientos señalados en la legislación correspondiente, en los programas de desarrollo urbano y en las constancias de compatibilidad urbanística.
 
 ### CAPITULO V. De la Infraestructura, Equipamiento y Servicios Urbanos
 
@@ -2137,9 +2181,11 @@ Por equipamiento urbano, al conjunto de inmuebles, instalaciones, construcciones
 
 Por servicios urbanos, las actividades operativas públicas o concesionadas a particulares, para satisfacer necesidades colectivas, tales como: transportes, recolección de basura, distribución de agua, vigilancia, bomberos, jardines, cementerios, mercados y centros educativos.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 170.
 
-Los proyectos para la instalación, construcción o modificación de la infraestructura, del equipamiento urbano y prestación de servicios urbanos, serán autorizados por la SEDESO o el Ayuntamiento correspondiente, de acuerdo a lo dispuesto en este Código.
+Los proyectos para la instalación, construcción o modificación de la infraestructura, del equipamiento urbano y prestación de servicios urbanos, serán autorizados por la Secretaría de Planeación y Desarrollo Regional o el Ayuntamiento correspondiente, de acuerdo a lo dispuesto en este Código.
 
 ###### ARTICULO 171.
 
@@ -2365,11 +2411,15 @@ XII.- Construcciones provisionales para uso de oficinas, bodegas o vigilancia de
 
 XIII.- Obras similares a las anteriores cuando no afecten elementos estructurales.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 196.
 
-En los fraccionamientos y condominios el Ayuntamiento no expedirá licencias sin antes comprobar que el fraccionamiento o condominio ha sido autorizado por la Comisión Estatal o la SEDESO según corresponda.
+En los fraccionamientos y condominios el Ayuntamiento no expedirá licencias sin antes comprobar que el fraccionamiento o condominio ha sido autorizado por la Comisión Estatal o la Secretaría de Planeación y Desarrollo Regional según corresponda.
 
-Igualmente no se expedirá licencia de construcción para desarrollos habitacionales o comerciales cuando para la funcionalidad de los mismos se requiera realizar obras de urbanización o apertura de vialidades internas. En este caso, se requerirá la aprobación previa del conjunto por parte de la SEDESO.
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
+Igualmente no se expedirá licencia de construcción para desarrollos habitacionales o comerciales cuando para la funcionalidad de los mismos se requiera realizar obras de urbanización o apertura de vialidades internas. En este caso, se requerirá la aprobación previa del conjunto por parte de la Secretaría de Planeación y Desarrollo Regional.
 
 Esta aprobación será obligatoria además cuando se trate de desarrollos comerciales y de servicios que ocupen una superficie superior a 5000 m2. En los demás casos corresponderá al Ayuntamiento dictaminar lo conducente, para lo cual contará con un plazo máximo de 10 días hábiles.
 
@@ -2753,9 +2803,11 @@ El reglamento de construcciones que cada Ayuntamiento expida dispondrá que en u
 
 Cuando en la constancia de compatibilidad urbanística se marque una afectación o restricción al predio, esto no implica que el propietario o poseedor sea limitado en el dominio de la superficie señalada, únicamente se le informa sobre los elementos o características que debe respetar al realizar alguna construcción, fraccionamiento y condominio, o destinar un predio a uso determinado.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 232.
 
-El Ayuntamiento y la SEDESO establecerán las medidas de protección que, además de lo dispuesto en la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado, deberán cubrir las edificaciones cuando:
+El Ayuntamiento y la Secretaría de Planeación y Desarrollo Regional establecerán las medidas de protección que, además de lo dispuesto en la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado, deberán cubrir las edificaciones cuando:
 
 I.- Produzcan, almacenen, vendan o manejen objetos o sustancias tóxicas, explosivas, inflamables o de fácil combustión;
 
@@ -3115,7 +3167,7 @@ k) En los cerros, rocas, árboles, bordos de ríos o presas, etc., y en cualquie
 
 ###### ARTICULO 264.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001). N. DE E. EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005, MENCIONA QUE LAS FACULTADES Y REFERENCIAS CONFERIDAS A LA SECRETARIA DE DESARROLLO SOCIAL DEL ESTADO CITADAS EN ESTE ARTICULO, EN ADELANTE SE ENTENDERAN CONFERIDAS A LA SECRETARIA DE PLANEACION Y DESARROLLO REGIONAL; SIN EMBARGO, DICHO ARTÍCULO FUE DEROGADO EL 2 DE JULIO DE 2001.
 
 ###### ARTICULO 265.
 
@@ -3123,7 +3175,7 @@ k) En los cerros, rocas, árboles, bordos de ríos o presas, etc., y en cualquie
 
 ###### ARTICULO 266.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001). N. DE E. EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005, MENCIONA QUE LAS FACULTADES Y REFERENCIAS CONFERIDAS A LA SECRETARIA DE DESARROLLO SOCIAL DEL ESTADO CITADAS EN ESTE ARTICULO, EN ADELANTE SE ENTENDERAN CONFERIDAS A LA SECRETARIA DE PLANEACION Y DESARROLLO REGIONAL; SIN EMBARGO, DICHO ARTÍCULO FUE DEROGADO EL 2 DE JULIO DE 2001.
 
 ###### ARTICULO 267.
 
@@ -3147,7 +3199,7 @@ k) En los cerros, rocas, árboles, bordos de ríos o presas, etc., y en cualquie
 
 ###### ARTICULO 271.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001). N. DE E. EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005, MENCIONA QUE LAS FACULTADES Y REFERENCIAS CONFERIDAS A LA SECRETARIA DE DESARROLLO SOCIAL DEL ESTADO CITADAS EN ESTE ARTICULO, EN ADELANTE SE ENTENDERAN CONFERIDAS A LA SECRETARIA DE PLANEACION Y DESARROLLO REGIONAL; SIN EMBARGO, DICHO ARTÍCULO FUE DEROGADO EL 2 DE JULIO DE 2001.
 
 ###### ARTICULO 272.
 
@@ -3823,7 +3875,9 @@ Los adquirentes de lotes deberán cerciorarse de que la compra de lote o lotes q
 
 Los adquirentes de lotes en un fraccionamiento podrán constituirse legalmente en una asociación de colonos, la que deberá contar con su propio reglamento para el buen funcionamiento de la misma.
 
-El acta constitutiva y el reglamento de referencia, deberán inscribirse en la SEDESO y en el Ayuntamiento para efectos de ser integrados en el expediente del fraccionamiento respectivo, y a fin de que se reconozca la personalidad y capacidad de gestión de la organización correspondiente.
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
+El acta constitutiva y el reglamento de referencia, deberán inscribirse en la Secretaría de Planeación y Desarrollo Regional y en el Ayuntamiento para efectos de ser integrados en el expediente del fraccionamiento respectivo, y a fin de que se reconozca la personalidad y capacidad de gestión de la organización correspondiente.
 
 ### CAPITULO IV. De las Relotificaciones, Fusiones y Subdivisiones de Areas y Predios
 
@@ -3849,11 +3903,13 @@ En lo que se refiere a los sistemas de agua potable, cuando así le sea exigido,
 
 Habiéndose municipalizado un fraccionamiento, procederá la cancelación de la garantía a que se refiere el Artículo 452 de este Código hasta que transcurra un año con el objeto de garantizar las correcciones que sean necesarias por vicios ocultos.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 343.
 
-El Ayuntamiento respectivo recibirá el fraccionamiento mediante el levantamiento de un acta administrativa, en la que intervendrán el Presidente Municipal, el Director del Area Municipal correspondiente, el fraccionador, un representante de la SEDESO y un representante de la asociación de colonos si la hubiere, a fin de que previo dictamen técnico-jurídico se certifique que el fraccionador cumplió con todas las obligaciones, así como que se encuentran en buen funcionamiento y calidad las obras y servicios que se entreguen.
+El Ayuntamiento respectivo recibirá el fraccionamiento mediante el levantamiento de un acta administrativa, en la que intervendrán el Presidente Municipal, el Director del Area Municipal correspondiente, el fraccionador, un representante de la Secretaría de Planeación y Desarrollo Regional y un representante de la asociación de colonos si la hubiere, a fin de que previo dictamen técnico-jurídico se certifique que el fraccionador cumplió con todas las obligaciones, así como que se encuentran en buen funcionamiento y calidad las obras y servicios que se entreguen.
 
-El dictamen técnico-jurídico lo elaborará previamente la SEDESO y se insertará en la respectiva acta administrativa, que deberá anexarse al expediente del fraccionamiento.
+El dictamen técnico-jurídico lo elaborará previamente la Secretaría de Planeación y Desarrollo Regional y se insertará en la respectiva acta administrativa, que deberá anexarse al expediente del fraccionamiento.
 
 ###### ARTICULO 344.
 
@@ -3885,11 +3941,13 @@ El fraccionador deberá presentar ante el Ayuntamiento la solicitud de relotific
 
 Las relotificaciones sólo podrán ser autorizadas antes de la municipalización del fraccionamiento, y se requerirá que las áreas, lotes o predios sean propiedad del fraccionador.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 351.
 
 Las solicitudes de relotificación deberán ser presentadas por escrito, acompañadas de los planos y estudios correspondientes. Asimismo, deberá anexarse a la solicitud, la propuesta del plano general de lotificación del fraccionamiento, que contenga las modificaciones derivadas de la relotificación.
 
-Se deberá remitir a la SEDESO, al Registro Público de la Propiedad y al Catastro copia del plano autorizado que contenga la relotificación.
+Se deberá remitir a la Secretaría de Planeación y Desarrollo Regional, al Registro Público de la Propiedad y al Catastro copia del plano autorizado que contenga la relotificación.
 
 ###### ARTICULO 352.
 
@@ -3937,13 +3995,17 @@ VI.- Los predios suburbanos para uso agropecuario, podrán subdividirse siempre 
 
 VII.- Tratándose de lotes comerciales o de servicios, sus dimensiones podrán ser menores atendiendo a las características de la zona y al giro que pretenda dedicarse el predio. En cualquier caso deberá contar con el espacio suficiente para las instalaciones sanitarias, de ventilación o iluminación natural.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 357.
 
-El Ayuntamiento, de conformidad con los criterios que fije la Comisión Estatal, podrá autorizar subdivisiones de terrenos urbanos mayores de 5,000 m2, cuando éstas se deriven de afectaciones para la realización de obras públicas, o debido a las características que requiera la urbanización del centro de población que corresponda. En este caso se requerirá el visto bueno de la SEDESO.
+El Ayuntamiento, de conformidad con los criterios que fije la Comisión Estatal, podrá autorizar subdivisiones de terrenos urbanos mayores de 5,000 m2, cuando éstas se deriven de afectaciones para la realización de obras públicas, o debido a las características que requiera la urbanización del centro de población que corresponda. En este caso se requerirá el visto bueno de la Secretaría de Planeación y Desarrollo Regional.
 
 Asimismo, en las rancherías o poblaciones rurales podrán autorizarse subdivisiones de predios rústicos mayores de 5,000 m2, con el objeto de obtener solares para casa-habitación, previos los estudios técnicos que para tal efecto realice el Ayuntamiento.
 
-En el caso a que se refieren los párrafos anteriores, el Ayuntamiento remitirá una copia de la autorización de subdivisión a la SEDESO.
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
+En el caso a que se refieren los párrafos anteriores, el Ayuntamiento remitirá una copia de la autorización de subdivisión a la Secretaría de Planeación y Desarrollo Regional.
 
 ###### ARTICULO 358.
 
@@ -4339,25 +4401,33 @@ En caso de ruina del bien de que se trate, una mayoría de los condóminos que r
 
 ### CAPITULO II. De la Urbanización y Prestación de Servicios
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 411.
 
 La autorización de las solicitudes de fraccionamientos y para la constitución o extinción del régimen de propiedad en condominio cuando éste cuente con 50 o más viviendas, departamentos, locales, o una superficie mayor a 10,000 m2, será facultad exclusiva de la Comisión Estatal.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 412.
 
-La autorización para modificar el régimen de propiedad en condominio o constituirlo en terrenos menores de 10,000 m2, o con menos de 50 departamentos, locales o viviendas compete a la SEDESO.
+La autorización para modificar el régimen de propiedad en condominio o constituirlo en terrenos menores de 10,000 m2, o con menos de 50 departamentos, locales o viviendas compete a la Secretaría de Planeación y Desarrollo Regional.
+
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 413.
 
-La Comisión Estatal o la SEDESO autorizarán un fraccionamiento o condominio siguiendo las formalidades establecidas por el presente Código, una vez satisfechos todos los requisitos legales por parte del promovente y cubiertas las obligaciones fiscales que correspondan.
+La Comisión Estatal o la Secretaría de Planeación y Desarrollo Regional autorizarán un fraccionamiento o condominio siguiendo las formalidades establecidas por el presente Código, una vez satisfechos todos los requisitos legales por parte del promovente y cubiertas las obligaciones fiscales que correspondan.
 
 ###### ARTICULO 414.
 
 Será requisito para la autorización de un fraccionamiento o condominio que el promovente o propietario haya cumplido estrictamente con todas las especificaciones técnicas, jurídicas y fiscales en los fraccionamientos, condominios o desarrollos que se le hubieren autorizado con anterioridad. Asimismo, que posea solvencia moral y económica de tal manera que garantice la ejecución correcta del proyecto.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 415.
 
-La solicitud para la autorización de fraccionamiento, así como para la constitución, extinción o modificación del régimen de propiedad en condominio, deberá presentarse por escrito ante la SEDESO.
+La solicitud para la autorización de fraccionamiento, así como para la constitución, extinción o modificación del régimen de propiedad en condominio, deberá presentarse por escrito ante la Secretaría de Planeación y Desarrollo Regional.
 
 ###### ARTICULO 416.
 
@@ -4485,9 +4555,11 @@ V.- Establecimiento de especificaciones o características que a su juicio deban
 
 El dictamen a que se refiere el artículo anterior, deberá ser emitido en un plazo máximo de 10 días hábiles, contados a partir de la fecha de recepción del expediente respectivo; de no obtenerse la opinión en el plazo señalado, se entenderá que el Ayuntamiento respectivo no tiene objeción a que la solicitud sea presentada a la consideración de la Comisión Estatal.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 421.
 
-A fin de contar con los suficientes elementos que le permitan integrar el proyecto de dictamen sobre la solicitud de fraccionamiento o condominio, la SEDESO solicitará, en su caso, la opinión técnica de las autoridades u organismos competentes, en cada uno de los aspectos técnicos que se requieran incluir en el proyecto de dictamen mencionado.
+A fin de contar con los suficientes elementos que le permitan integrar el proyecto de dictamen sobre la solicitud de fraccionamiento o condominio, la Secretaría de Planeación y Desarrollo Regional solicitará, en su caso, la opinión técnica de las autoridades u organismos competentes, en cada uno de los aspectos técnicos que se requieran incluir en el proyecto de dictamen mencionado.
 
 ###### ARTICULO 422.
 
@@ -4497,21 +4569,29 @@ Las opiniones técnicas a que se refiere el artículo anterior, deberán ser pro
 
 Transcurrido el plazo antes señalado, sin que se hayan obtenido las opiniones técnicas mencionadas, se entenderá que dichas autoridades u organismos no tienen objeción a que la solicitud sea presentada a la consideración de la Comisión Estatal.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 424.
 
-El Ayuntamiento respectivo, habiendo emitido su dictamen, deberá remitirlo a la SEDESO, a efecto de que ésta la incorpore al proyecto de dictamen que someterá para su consideración a la Comisión Estatal.
+El Ayuntamiento respectivo, habiendo emitido su dictamen, deberá remitirlo a la Secretaría de Planeación y Desarrollo Regional, a efecto de que ésta la incorpore al proyecto de dictamen que someterá para su consideración a la Comisión Estatal.
+
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 425.
 
-Contando con el dictamen del Ayuntamiento respectivo y de los demás organismos competentes, la SEDESO integrará el proyecto de dictamen de la solicitud de fraccionamiento o condominio, mismo que se remitirá al interesado en caso de que se requiera realizar correcciones o modificaciones, con objeto de que éste se ajuste a los requisitos, especificaciones y obligaciones que se le establezcan en el proyecto de dictamen de referencia, disponiendo de un plazo no mayor de 10 días hábiles para contestar, contados a partir del día siguiente de la fecha en que se le notifique el requerimiento respectivo.
+Contando con el dictamen del Ayuntamiento respectivo y de los demás organismos competentes, la Secretaría de Planeación y Desarrollo Regional integrará el proyecto de dictamen de la solicitud de fraccionamiento o condominio, mismo que se remitirá al interesado en caso de que se requiera realizar correcciones o modificaciones, con objeto de que éste se ajuste a los requisitos, especificaciones y obligaciones que se le establezcan en el proyecto de dictamen de referencia, disponiendo de un plazo no mayor de 10 días hábiles para contestar, contados a partir del día siguiente de la fecha en que se le notifique el requerimiento respectivo.
+
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 426.
 
-Contando en su caso con los estudios o planos corregidos conforme al proyecto de dictamen, la SEDESO gestionará que la solicitud de referencia sea incluida en el orden del día de la siguiente sesión de la Comisión Estatal.
+Contando en su caso con los estudios o planos corregidos conforme al proyecto de dictamen, la Secretaría de Planeación y Desarrollo Regional gestionará que la solicitud de referencia sea incluida en el orden del día de la siguiente sesión de la Comisión Estatal.
+
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 427.
 
-La Comisión Estatal en sesión plenaria aprobará o rechazará el proyecto de dictamen que sea sometido a su consideración por la SEDESO.
+La Comisión Estatal en sesión plenaria aprobará o rechazará el proyecto de dictamen que sea sometido a su consideración por la Secretaría de Planeación y Desarrollo Regional.
 
 ###### ARTICULO 428.
 
@@ -4521,21 +4601,27 @@ Toda resolución de la Comisión Estatal en materia de fraccionamientos y condom
 
 El acta de la sesión de la Comisión Estatal en la cual se autoricen fraccionamientos o condominios, será publicada por una sola vez en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 430.
 
-La SEDESO notificará al interesado la resolución de la Comisión Estatal, indicándole en el caso de que le haya sido favorable, las obligaciones que deberá cumplir, relativas al pago de los derechos o cargas fiscales, estatales o municipales, al otorgamiento de donaciones, a las características y especificaciones de las obras de urbanización y a la constitución de las garantías para caucionar el cumplimiento de las disposiciones contenidas en la autorización.
+La Secretaría de Planeación y Desarrollo Regional notificará al interesado la resolución de la Comisión Estatal, indicándole en el caso de que le haya sido favorable, las obligaciones que deberá cumplir, relativas al pago de los derechos o cargas fiscales, estatales o municipales, al otorgamiento de donaciones, a las características y especificaciones de las obras de urbanización y a la constitución de las garantías para caucionar el cumplimiento de las disposiciones contenidas en la autorización.
+
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 431.
 
-El fraccionador o promovente del condominio entregará a la SEDESO, dentro de los 60 días naturales siguientes en que se le notificó la resolución favorable, el original y tres tantos del proyecto definitivo del fraccionamiento o condominio, conforme a los lineamientos, características y especificaciones que se deriven de este Código y de la autorización respectiva, a efecto de que le sea firmado y sellado por las autoridades correspondientes.
+El fraccionador o promovente del condominio entregará a la Secretaría de Planeación y Desarrollo Regional, dentro de los 60 días naturales siguientes en que se le notificó la resolución favorable, el original y tres tantos del proyecto definitivo del fraccionamiento o condominio, conforme a los lineamientos, características y especificaciones que se deriven de este Código y de la autorización respectiva, a efecto de que le sea firmado y sellado por las autoridades correspondientes.
 
 ###### ARTICULO 432.
 
 Una vez autorizados el fraccionamiento o condominio, se remitirá copia de los planos definitivos de lotificación o zonificación y de la memoria descriptiva de lotes o predios al Registro Público de la Propiedad y del Comercio y al Catastro correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 433.
 
-Los fraccionadores o promoventes podrán ceder sus derechos y obligaciones respecto a su fraccionamiento o condominio, mediante autorización de la SEDESO, cumpliendo con los requisitos legales conducentes.
+Los fraccionadores o promoventes podrán ceder sus derechos y obligaciones respecto a su fraccionamiento o condominio, mediante autorización de la Secretaría de Planeación y Desarrollo Regional, cumpliendo con los requisitos legales conducentes.
 
 La persona física o moral cesionaria, se subrogará en todos los derechos y obligaciones que le establecen este Código y la autorización respectiva al promovente original.
 
@@ -4555,7 +4641,7 @@ Los propietarios de fraccionamientos o condominios, de cualesquiera de los tipos
 
 ###### ARTICULO 437.
 
-La autorización de subdivisión, fraccionamiento o condominio, según sea el caso, incluirá autorización para urbanizar los predios correspondientes. Si se trata de proyectos de desarrollos comerciales, industriales, habitacionales o de servicios, que no constituyan un fraccionamiento o un condominio, los proyectos serán aprobados por la SEDESO o el Ayuntamiento según corresponda.
+La autorización de subdivisión, fraccionamiento o condominio, según sea el caso, incluirá autorización para urbanizar los predios correspondientes. Si se trata de proyectos de desarrollos comerciales, industriales, habitacionales o de servicios, que no constituyan un fraccionamiento o un condominio, los proyectos serán aprobados por la Secretaría de Planeación y Desarrollo Regional o el Ayuntamiento según corresponda.
 
 ###### ARTICULO 438.
 
@@ -4591,17 +4677,23 @@ La ejecución del proyecto definitivo del fraccionamiento o condominio, deberá 
 
 El perito designado para la ejecución de las obras de urbanización, será responsable solidario de todas las obligaciones que el fraccionador o promovente acepte, con relación a dichas obras, de acuerdo con este Código.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 444.
 
-El fraccionador o promovente solicitará por escrito a la SEDESO la autorización para iniciar las obras de urbanización, conforme al proyecto definitivo del fraccionamiento o condominio autorizado. Dicha solicitud es independiente de los trámites, que en su caso, se requieran para obtener la licencia de construcción de las obras de edificación.
+El fraccionador o promovente solicitará por escrito a la Secretaría de Planeación y Desarrollo Regional la autorización para iniciar las obras de urbanización, conforme al proyecto definitivo del fraccionamiento o condominio autorizado. Dicha solicitud es independiente de los trámites, que en su caso, se requieran para obtener la licencia de construcción de las obras de edificación.
+
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 445.
 
-La SEDESO autorizará el inicio total o parcial de las obras de urbanización, cuando el fraccionador o promovente haya cumplido con las obligaciones que le señala el Artículo 474 de este Código, y las demás que le hubiere establecido la resolución de fraccionamiento o condominio correspondiente.
+La Secretaría de Planeación y Desarrollo Regional autorizará el inicio total o parcial de las obras de urbanización, cuando el fraccionador o promovente haya cumplido con las obligaciones que le señala el Artículo 474 de este Código, y las demás que le hubiere establecido la resolución de fraccionamiento o condominio correspondiente.
+
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 446.
 
-La SEDESO deberá realizar la supervisión de la ejecución de las obras de urbanización que realicen los fraccionadores o promoventes, a efecto de verificar que se cumpla con las especificaciones y características autorizadas en el proyecto definitivo del fraccionamiento o condominio.
+La Secretaría de Planeación y Desarrollo Regional deberá realizar la supervisión de la ejecución de las obras de urbanización que realicen los fraccionadores o promoventes, a efecto de verificar que se cumpla con las especificaciones y características autorizadas en el proyecto definitivo del fraccionamiento o condominio.
 
 ###### ARTICULO 447.
 
@@ -4609,27 +4701,35 @@ El fraccionador o promovente contará con un plazo de 60 días naturales siguien
 
 En el caso de haberse autorizado la urbanización por etapas, las obligaciones fiscales se fijarán y cubrirán por cada una de éstas, tomando como base el presupuesto actualizado de las obras de urbanización de la etapa correspondiente.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 448.
 
-El fraccionador o promovente atenderá las indicaciones que se deriven de la correspondiente supervisión oficial; pero tendrá derecho a pedir por escrito a la SEDESO y al Ayuntamiento que se reconsideren las determinaciones tomadas por los supervisores, cuando pudieran implicar cambios en el proyecto, haciendo las observaciones que considere necesarias.
+El fraccionador o promovente atenderá las indicaciones que se deriven de la correspondiente supervisión oficial; pero tendrá derecho a pedir por escrito a la Secretaría de Planeación y Desarrollo Regional y al Ayuntamiento que se reconsideren las determinaciones tomadas por los supervisores, cuando pudieran implicar cambios en el proyecto, haciendo las observaciones que considere necesarias.
 
-Cuando existan razones técnicas fundadas y se requiera la modificación del proyecto en sus especificaciones, deberá el fraccionador o promovente, proponerlas por escrito ante la SEDESO, quien con el dictamen del Ayuntamiento resolverá según proceda.
+Cuando existan razones técnicas fundadas y se requiera la modificación del proyecto en sus especificaciones, deberá el fraccionador o promovente, proponerlas por escrito ante la Secretaría de Planeación y Desarrollo Regional, quien con el dictamen del Ayuntamiento resolverá según proceda.
+
+> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 449.
 
-El fraccionador o promovente realizará y reportará de inmediato las pruebas de calidad de los materiales, mano de obra y acabado de las obras de urbanización respectivas, de acuerdo al proyecto definitivo y a las que en su caso, les sean solicitadas por la SEDESO o el Ayuntamiento, a efecto de garantizar la buena calidad de las obras.
+El fraccionador o promovente realizará y reportará de inmediato las pruebas de calidad de los materiales, mano de obra y acabado de las obras de urbanización respectivas, de acuerdo al proyecto definitivo y a las que en su caso, les sean solicitadas por la Secretaría de Planeación y Desarrollo Regional o el Ayuntamiento, a efecto de garantizar la buena calidad de las obras.
 
 Los originales de los reportes de laboratorio, correspondientes a las pruebas mencionadas en el párrafo anterior, deberán anexarse a la bitácora.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 450.
 
-El fraccionador o promovente entregará a la SEDESO y al Ayuntamiento informes mensuales del avance físico de las obras de urbanización, con base en el proyecto definitivo y al calendario de obra autorizado.
+El fraccionador o promovente entregará a la Secretaría de Planeación y Desarrollo Regional y al Ayuntamiento informes mensuales del avance físico de las obras de urbanización, con base en el proyecto definitivo y al calendario de obra autorizado.
 
 Asimismo, en los informes que señala el párrafo anterior, deberá hacerse mención a las correcciones que en su caso, se hayan derivado de las observaciones comunicadas al fraccionador o promovente por los supervisores autorizados; así como deberá adjuntar copia de los reportes de laboratorio que garanticen la calidad de los materiales empleados, durante el período correspondiente.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 451.
 
-El fraccionador o promovente mantendrá en la obra, en lugar fijo y en forma permanente, el libro de bitácora debidamente foliado y autorizado por la SEDESO hasta la conclusión total de las obras de urbanización.
+El fraccionador o promovente mantendrá en la obra, en lugar fijo y en forma permanente, el libro de bitácora debidamente foliado y autorizado por la Secretaría de Planeación y Desarrollo Regional hasta la conclusión total de las obras de urbanización.
 
 ###### ARTICULO 452.
 
@@ -4675,19 +4775,25 @@ El Ayuntamiento, con los recursos derivados de las garantías, ejecutará direct
 
 En el caso de que dichos recursos sean insuficientes para ejecutar las obras de urbanización, el fraccionador o promovente estará obligado a sufragar los recursos que sean necesarios.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 458.
 
-La SEDESO deberá formular un dictamen técnico, previo a que se hagan efectivas las garantías de las obras de urbanización, a fin de fundamentar que el fraccionador o promovente incurrió en lo señalado en el Artículo 456 de este Código.
+La Secretaría de Planeación y Desarrollo Regional deberá formular un dictamen técnico, previo a que se hagan efectivas las garantías de las obras de urbanización, a fin de fundamentar que el fraccionador o promovente incurrió en lo señalado en el Artículo 456 de este Código.
 
 Para tales efectos, deberá conceder audiencia al fraccionador o promovente, para que alegue lo que a su derecho convenga.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 459.
 
-En caso de que el fraccionador o promovente no realice las obras de urbanización en el plazo autorizado, podrá solicitar a la SEDESO oportunamente y por escrito, la prórroga que considere necesaria, exponiendo los motivos que ocasionaron el retraso, la cual dictaminará sobre la procedencia de dicha petición.
+En caso de que el fraccionador o promovente no realice las obras de urbanización en el plazo autorizado, podrá solicitar a la Secretaría de Planeación y Desarrollo Regional oportunamente y por escrito, la prórroga que considere necesaria, exponiendo los motivos que ocasionaron el retraso, la cual dictaminará sobre la procedencia de dicha petición.
+
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 460.
 
-Cuando el fraccionador o promovente de condominio haya ejecutado obras, construcciones, instalaciones o servicios en contravención a lo dispuesto en este Código, en la legislación urbana, en los programas de desarrollo urbano o en la autorización respectiva, la SEDESO o el Ayuntamiento podrán ordenar la corrección de dichas obras, o bien, demolerlas total o parcialmente, sin ninguna obligación de pagar indemnización al fraccionador o promovente, quien deberá cubrir el costo de los trabajos efectuados, cuando éste no cumpla con el requerimiento de la autoridad competente.
+Cuando el fraccionador o promovente de condominio haya ejecutado obras, construcciones, instalaciones o servicios en contravención a lo dispuesto en este Código, en la legislación urbana, en los programas de desarrollo urbano o en la autorización respectiva, la Secretaría de Planeación y Desarrollo Regional o el Ayuntamiento podrán ordenar la corrección de dichas obras, o bien, demolerlas total o parcialmente, sin ninguna obligación de pagar indemnización al fraccionador o promovente, quien deberá cubrir el costo de los trabajos efectuados, cuando éste no cumpla con el requerimiento de la autoridad competente.
 
 ###### ARTICULO 461.
 
@@ -4695,17 +4801,21 @@ Cuando las obras de urbanización hayan de ejecutarse por etapas, los trabajos s
 
 Cuando en el fraccionamiento o condominio la primera etapa por urbanizar no colinde con zona urbanizada, los trabajos se iniciarán por la construcción de la calle de liga y por la conexión de los servicios públicos necesarios.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 462.
 
-Una vez concluida la totalidad de las obras de urbanización, el fraccionador o promovente solicitará por escrito a la SEDESO, el dictamen técnico de la ejecución de dichas obras.
+Una vez concluida la totalidad de las obras de urbanización, el fraccionador o promovente solicitará por escrito a la Secretaría de Planeación y Desarrollo Regional, el dictamen técnico de la ejecución de dichas obras.
 
 ###### ARTICULO 463.
 
 El dictamen técnico a que se refiere el artículo anterior, tendrá por objeto verificar que el fraccionador o promovente haya cumplido con todas las obligaciones que le señala este Código y ejecutado las obras de urbanización, conforme el proyecto definitivo del fraccionamiento o condominio autorizado.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 464.
 
-El dictamen técnico correspondiente será expedido conjuntamente por la SEDESO y el Ayuntamiento, debiéndose hacer del conocimiento del fraccionador o del promovente; además, en su caso, de la asociación de colonos o de la asamblea de condóminos.
+El dictamen técnico correspondiente será expedido conjuntamente por la Secretaría de Planeación y Desarrollo Regional y el Ayuntamiento, debiéndose hacer del conocimiento del fraccionador o del promovente; además, en su caso, de la asociación de colonos o de la asamblea de condóminos.
 
 En el caso de que el dictamen técnico no apruebe la totalidad de las obras de urbanización, el fraccionador o promovente deberá corregir a su costa, las anomalías que se desprendan de dicho dictamen, para que posteriormente solicite el dictamen definitivo.
 
@@ -4783,15 +4893,25 @@ IV.- Donar al Ayuntamiento, cuando así proceda, las superficies que les señale
 
 V.- Pagar en tiempo y forma, las cargas fiscales que les correspondan, de acuerdo con lo dispuesto en la legislación fiscal estatal y municipal;
 
-VI.- Iniciar en tiempo las obras de urbanización, previa autorización de la SEDESO;
+> <small>(REFORMADA POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
 
-VII.- Informar mensualmente a la SEDESO y al Ayuntamiento del avance en la ejecución de las obras de urbanización;
+VI.- Iniciar en tiempo las obras de urbanización, previa autorización de la Secretaría de Planeación y Desarrollo Regional;
 
-VIII.- Atender las observaciones y correcciones que los supervisores autorizados por la SEDESO o el Ayuntamiento, les hagan, respecto de la ejecución de las obras de urbanización o de la prestación de los servicios que les correspondan;
+> <small>(REFORMADA POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
 
-IX.- Informar por escrito a la SEDESO respecto de cualquier irregularidad o anomalía que se suscite en el fraccionamiento o condominio;
+VII.- Informar mensualmente a la Secretaría de Planeación y Desarrollo Regional y al Ayuntamiento del avance en la ejecución de las obras de urbanización;
 
-X.- Solicitar a la SEDESO la autorización para iniciar la promoción de venta de lotes, en el caso de fraccionamientos, así como de los departamentos, viviendas, casas, locales o áreas cuando se trate de condominios, y enajenarlos de acuerdo a las características que le establecen este Código y la autorización respectiva; y
+> <small>(REFORMADA POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
+VIII.- Atender las observaciones y correcciones que los supervisores autorizados por la Secretaría de Planeación y Desarrollo Regional o el Ayuntamiento, les hagan, respecto de la ejecución de las obras de urbanización o de la prestación de los servicios que les correspondan;
+
+> <small>(REFORMADA POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
+IX.- Informar por escrito a la Secretaría de Planeación y Desarrollo Regional respecto de cualquier irregularidad o anomalía que se suscite en el fraccionamiento o condominio;
+
+> <small>(REFORMADA POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
+X.- Solicitar a la Secretaría de Planeación y Desarrollo Regional la autorización para iniciar la promoción de venta de lotes, en el caso de fraccionamientos, así como de los departamentos, viviendas, casas, locales o áreas cuando se trate de condominios, y enajenarlos de acuerdo a las características que le establecen este Código y la autorización respectiva; y
 
 XI.- Las demás que le señalen este Código y otras disposiciones jurídicas aplicables.
 
@@ -4815,9 +4935,11 @@ IV.- Tratándose de condominios mixtos habitacionales, comerciales, industriales
 
 El fraccionador o promovente estará obligado a formalizar las donaciones a favor del Ayuntamiento correspondiente, en los lugares y superficies que de acuerdo al tipo de fraccionamiento o condominio autorizado le sean señalados, así como a escriturar las áreas destinadas a vías públicas, áreas verdes y equipamiento urbano.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 478.
 
-El fraccionador o promovente deberá obtener previamente, por parte de la SEDESO, la autorización respecto a la publicidad para promover la venta de lotes, o en su caso, de los predios, departamentos, viviendas, casas o locales; en caso de no hacerlo, se hará acreedor a las sanciones que establece este Código.
+El fraccionador o promovente deberá obtener previamente, por parte de la Secretaría de Planeación y Desarrollo Regional, la autorización respecto a la publicidad para promover la venta de lotes, o en su caso, de los predios, departamentos, viviendas, casas o locales; en caso de no hacerlo, se hará acreedor a las sanciones que establece este Código.
 
 ###### ARTICULO 479.
 
@@ -4899,9 +5021,11 @@ Están obligados a contribuir al financiamiento del desarrollo urbano, aquellas 
 
 Las obras y servicios a que se refiere el Artículo 487 de este Código, podrán ser realizados con apoyo en el sistema de cooperación, a través de los programas de solidaridad u otro tipo de programas promovidos por los Ayuntamientos o el Gobierno del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 490.
 
-Una vez realizados los estudios técnicos correspondientes sobre los diversos aspectos de la obra u obras, servicio, costo y repercusión, precios unitarios, bases para calcular la cuota que a cada cooperador corresponde, y en general, todos los aspectos relacionados a la obra o servicio como proyectos de contrato de obras, financiamiento y sus bases, el Municipio correspondiente escuchando la opinión de los Comités de Solidaridad o de Desarrollo Urbano y Rural correspondientes o el Gobierno del Estado por conducto de la SEDESO, emitirán su dictamen.
+Una vez realizados los estudios técnicos correspondientes sobre los diversos aspectos de la obra u obras, servicio, costo y repercusión, precios unitarios, bases para calcular la cuota que a cada cooperador corresponde, y en general, todos los aspectos relacionados a la obra o servicio como proyectos de contrato de obras, financiamiento y sus bases, el Municipio correspondiente escuchando la opinión de los Comités de Solidaridad o de Desarrollo Urbano y Rural correspondientes o el Gobierno del Estado por conducto de la Secretaría de Planeación y Desarrollo Regional, emitirán su dictamen.
 
 Aprobado el dictamen por el Municipio o por el Gobierno del Estado, se turnará al Ayuntamiento respectivo, o al Gobernador del Estado, para su consideración y aprobación definitiva en su caso.
 
@@ -4911,9 +5035,11 @@ Llenados los requisitos antes mencionados, las obras o servicios públicos será
 
 Los contratos para la ejecución de obras y servicios, incluirán las estipulaciones pormenorizadas sobre los precios y las bases que permitan su liquidación, forma de pago, especificaciones, calidad de materiales, tiempo de ejecución, cláusulas penales para el caso de incumplimiento y garantías que deben otorgar los contratistas para asegurar el cumplimiento de sus obligaciones.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 492.
 
-Las especificaciones y calidad de materiales incluidos en los contratos respectivos, serán acordes con las normas de calidad que deberá señalar el Gobierno del Estado a través de la SEDESO, o el Ayuntamiento respectivo, por conducto de la Dirección que corresponda.
+Las especificaciones y calidad de materiales incluidos en los contratos respectivos, serán acordes con las normas de calidad que deberá señalar el Gobierno del Estado a través de la Secretaría de Planeación y Desarrollo Regional, o el Ayuntamiento respectivo, por conducto de la Dirección que corresponda.
 
 ###### ARTICULO 493.
 
@@ -5119,7 +5245,7 @@ Los estudios técnicos y dictámenes sobre la conveniencia de llevar a cabo las 
 
 ###### ARTICULO 527.
 
-Si llegare el caso de que pudiera considerarse en los términos de este Código, que exista oposición solamente por los propietarios o poseedores vecinados en la jurisdicción territorial de uno de los Municipios, deberá tramitarse el recurso de inconformidad, de acuerdo a lo dispuesto en este Código.
+Si llegare el caso de que pudiera considerarse en los términos de este Código, que exista oposición solamente por los propietarios o poseedores vecinados (sic) en la jurisdicción territorial de uno de los Municipios, deberá tramitarse el recurso de inconformidad, de acuerdo a lo dispuesto en este Código.
 
 ###### ARTICULO 528.
 
@@ -5439,15 +5565,19 @@ A efecto de racionalizar las obras e inversiones destinadas a la dotación de in
 
 Corresponde a la Federación, a los gobiernos estatal y a los municipales, realizar las acciones que agilicen la adquisición de reservas territoriales, para la construcción de vivienda de interés social y popular y para la ejecución de obras públicas.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 570.
 
-La SEDESO, en coordinación con los Ayuntamientos, efectuará los estudios necesarios, a fin de determinar las necesidades que existen en el Estado de suelo urbano y reservas territoriales, para ser destinadas al desarrollo urbano y a la construcción de vivienda, tomando en cuenta las necesidades presentes y las del futuro inmediato, los que servirán de base para su adquisición y urbanización;
+La Secretaría de Planeación y Desarrollo Regional, en coordinación con los Ayuntamientos, efectuará los estudios necesarios, a fin de determinar las necesidades que existen en el Estado de suelo urbano y reservas territoriales, para ser destinadas al desarrollo urbano y a la construcción de vivienda, tomando en cuenta las necesidades presentes y las del futuro inmediato, los que servirán de base para su adquisición y urbanización;
 
 Igualmente, formulará un inventario de terrenos que puedan ser aprovechados en programas de desarrollo urbano y de vivienda, con base en las condiciones básicas de infraestructura y equipamiento urbano y la posibilidad de introducción de servicios públicos, con el menor costo y tiempo posible.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 571.
 
-Las dependencias o entidades de la administración pública estatal podrán adquirir y enajenar terrenos destinados a la realización de programas de desarrollo urbano, industrial y de vivienda, mediante la autorización de la SEDESO, y si se cumple con los requisitos siguientes:
+Las dependencias o entidades de la administración pública estatal podrán adquirir y enajenar terrenos destinados a la realización de programas de desarrollo urbano, industrial y de vivienda, mediante la autorización de la Secretaría de Planeación y Desarrollo Regional, y si se cumple con los requisitos siguientes:
 
 I.- Que en el programa operativo anual autorizado se prevea la enajenación o adquisición;
 
@@ -5541,23 +5671,29 @@ III.- Ninguna persona podrá resultar beneficiada por la regularización con má
 
 Para los efectos de este Código, se entiende por asentamientos humanos irregulares a los núcleos de población ubicados en áreas o predios fraccionados o subdivididos sin la autorización correspondiente, cualesquiera que sea su régimen de tenencia de la tierra.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 582.
 
-La SEDESO y los Ayuntamientos, dentro del ámbito de sus respectivas competencias, vigilarán el cumplimiento de las disposiciones de este Código, debiendo adoptar para tal efecto, las medidas de seguridad, así como imponer las sanciones administrativas que establece este Código, independientemente de los ilícitos en que se hubiere incurrido.
+La Secretaría de Planeación y Desarrollo Regional y los Ayuntamientos, dentro del ámbito de sus respectivas competencias, vigilarán el cumplimiento de las disposiciones de este Código, debiendo adoptar para tal efecto, las medidas de seguridad, así como imponer las sanciones administrativas que establece este Código, independientemente de los ilícitos en que se hubiere incurrido.
 
-La existencia de asentamientos humanos irregulares, o la gestación de éstos, podrán ser denunciados ante la SEDESO o los Ayuntamientos por cualquier persona, a efecto de que dichas autoridades procedan a coordinar las acciones administrativas correspondientes y promover las denuncias penales ante las autoridades competentes.
+La existencia de asentamientos humanos irregulares, o la gestación de éstos, podrán ser denunciados ante la Secretaría de Planeación y Desarrollo Regional o los Ayuntamientos por cualquier persona, a efecto de que dichas autoridades procedan a coordinar las acciones administrativas correspondientes y promover las denuncias penales ante las autoridades competentes.
 
 ###### ARTICULO 583.
 
 Tratándose de asentamientos humanos irregulares, ubicados en predios ejidales o comunales, se procederá conforme a lo previsto en este Código y en la Ley Agraria.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 584.
 
-La SEDESO y el Ayuntamiento respectivo, al tener conocimiento de un asentamiento humano irregular o la formación de éste, procederá a la suspensión de cualquier obra y/o venta de predios que se realicen ilícitamente, fijando en lugares públicos y visibles copias del ordenamiento que disponga tal situación, el cual deberá estar fundamentado en las disposiciones de este Código, así como publicado en los periódicos de mayor circulación de la localidad, como advertencia pública.
+La Secretaría de Planeación y Desarrollo Regional y el Ayuntamiento respectivo, al tener conocimiento de un asentamiento humano irregular o la formación de éste, procederá a la suspensión de cualquier obra y/o venta de predios que se realicen ilícitamente, fijando en lugares públicos y visibles copias del ordenamiento que disponga tal situación, el cual deberá estar fundamentado en las disposiciones de este Código, así como publicado en los periódicos de mayor circulación de la localidad, como advertencia pública.
+
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 585.
 
-En el caso de que el asentamiento humano irregular se encuentre en terrenos ejidales o comunales, y que estos terrenos o áreas estén contempladas como aptas para el uso habitacional, así como el que su regularización e incorporación al desarrollo urbano represente un beneficio social y público, la SEDESO o el Ayuntamiento respectivo analizarán tal situación, y promoverán en su caso, la solicitud de expropiación o aportación de dicho predio, para su regularización ante las autoridades competentes.
+En el caso de que el asentamiento humano irregular se encuentre en terrenos ejidales o comunales, y que estos terrenos o áreas estén contempladas como aptas para el uso habitacional, así como el que su regularización e incorporación al desarrollo urbano represente un beneficio social y público, la Secretaría de Planeación y Desarrollo Regional o el Ayuntamiento respectivo analizarán tal situación, y promoverán en su caso, la solicitud de expropiación o aportación de dicho predio, para su regularización ante las autoridades competentes.
 
 ###### ARTICULO 586.
 
@@ -5579,13 +5715,17 @@ IV.- Congruencia con los programas de desarrollo urbano aplicables.
 
 En caso de ser negativo el dictamen de regularización a que se refiere el artículo anterior, se procederá de inmediato al desalojo del asentamiento humano, independientemente de las sanciones civiles, administrativas o penales a que se hagan acreedores los asentados y/o promoventes de dicho asentamiento, en predios particulares, de propiedad pública, ejidal o comunal.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 589.
 
-Una vez que las autoridades competentes hayan ejecutado el decreto expropiatorio del predio a regularizar, el beneficiario de dicha expropiación en su calidad de fraccionador, integrará ante la SEDESO el expediente respectivo, para que en su caso, se autorice dicho fraccionamiento por regularización.
+Una vez que las autoridades competentes hayan ejecutado el decreto expropiatorio del predio a regularizar, el beneficiario de dicha expropiación en su calidad de fraccionador, integrará ante la Secretaría de Planeación y Desarrollo Regional el expediente respectivo, para que en su caso, se autorice dicho fraccionamiento por regularización.
+
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 590.
 
-La SEDESO solicitará a la Secretaría de la Reforma Agraria la constitución de las zonas de urbanización ejidal en todos y cada uno de los ejidos del Estado que lo requieran, de conformidad con los programas de desarrollo urbano.
+La Secretaría de Planeación y Desarrollo Regional solicitará a la Secretaría de la Reforma Agraria la constitución de las zonas de urbanización ejidal en todos y cada uno de los ejidos del Estado que lo requieran, de conformidad con los programas de desarrollo urbano.
 
 ###### ARTICULO 591.
 
@@ -6405,9 +6545,11 @@ En el caso de que el Gobierno del Estado o el Ayuntamiento respectivo, hubiere p
 
 Todas las resoluciones emitidas por las autoridades que señala este Código, deberán ser notificadas personalmente al interesado, entregándole copia de las mismas.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 660.
 
-La SEDESO, los Ayuntamientos, el Consejo Consultivo del Transporte Público y la Comisión del Patrimonio Cultural, serán las autoridades competentes para la inspección y supervisión del cumplimiento de las disposiciones de este Código.
+La Secretaría de Planeación y Desarrollo Regional, los Ayuntamientos, el Consejo Consultivo del Transporte Público y la Comisión del Patrimonio Cultural, serán las autoridades competentes para la inspección y supervisión del cumplimiento de las disposiciones de este Código.
 
 ###### ARTICULO 661.
 
@@ -6507,7 +6649,9 @@ Lo anterior, sin perjuicio de que las autoridades competentes, cuando proceda, i
 
 Las autoridades competentes a que se refiere este Código tendrán a su cargo la vigilancia del cumplimiento de las disposiciones del presente ordenamiento; para tal efecto, podrán adoptar y ejecutar las medidas de seguridad, determinar las infracciones e imponer las sanciones administrativas que correspondan.
 
-Se considerarán, entre otras, como autoridades competentes para adoptar y ejecutar medidas de seguridad, los inspectores, supervisores y verificadores, de la Comisión del Patrimonio Cultural, de la SEDESO y de los Ayuntamientos que lleven a cabo las diligencias a que se refiere el Artículo 664 de este Código.
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
+Se considerarán, entre otras, como autoridades competentes para adoptar y ejecutar medidas de seguridad, los inspectores, supervisores y verificadores, de la Comisión del Patrimonio Cultural, de la Secretaría de Planeación y Desarrollo Regional y de los Ayuntamientos que lleven a cabo las diligencias a que se refiere el Artículo 664 de este Código.
 
 ###### ARTICULO 673.
 
@@ -6573,7 +6717,9 @@ Cuando se estén llevando a cabo construcciones en fraccionamientos, que contrav
 
 Dicho derecho se ejercerá ante las autoridades competentes, quienes oirán previamente a los interesados y en su caso a los afectados, y deberán resolver lo conducente en un término no mayor de treinta días naturales, contados a partir de la fecha de recepción del escrito correspondiente.
 
-La SEDESO y el Ayuntamiento respectivo, al tener conocimiento de la ejecución de acciones, obras y servicios en materia de desarrollo urbano que contravengan lo dispuesto por este Código, así como la construcción de fraccionamientos o condominios no autorizados, ordenarán la suspensión inmediata de las obras, sin perjuicio de las responsabilidades civiles, penales y administrativas en que hubiere incurrido la persona física o moral, pública o privada, que las haya ejecutado.
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
+La Secretaría de Planeación y Desarrollo Regional y el Ayuntamiento respectivo, al tener conocimiento de la ejecución de acciones, obras y servicios en materia de desarrollo urbano que contravengan lo dispuesto por este Código, así como la construcción de fraccionamientos o condominios no autorizados, ordenarán la suspensión inmediata de las obras, sin perjuicio de las responsabilidades civiles, penales y administrativas en que hubiere incurrido la persona física o moral, pública o privada, que las haya ejecutado.
 
 ###### ARTICULO 679.
 
@@ -6585,17 +6731,21 @@ II.- Que dichas obras hubieren sido aprobadas en los términos de este Código.
 
 La nulidad que establece este Artículo, será independiente de las sanciones civiles, administrativas o penales a que se hiciere acreedor el infractor.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 680.
 
-La persona que ejecute alguna construcción en un inmueble, sin que previamente hayan sido aprobadas las obras de urbanización y los servicios urbanos correspondientes por la SEDESO, se hará acreedora a las medidas de seguridad y sanciones que prevé este Código.
+La persona que ejecute alguna construcción en un inmueble, sin que previamente hayan sido aprobadas las obras de urbanización y los servicios urbanos correspondientes por la Secretaría de Planeación y Desarrollo Regional, se hará acreedora a las medidas de seguridad y sanciones que prevé este Código.
 
 A las personas que realicen alguna obra de reparación o modificación en bienes que formen parte del patrimonio cultural del Estado, contraviniendo las disposiciones de este Código, se les ordenará la suspensión o demolición, según proceda.
 
 Los fraccionadores o promotores de vivienda que sean sancionados por incumplimiento en las especificaciones de construcción, o en la entrega de locales, lotes o viviendas, serán boletinados a sus contrapartes en toda la República sobre las faltas cometidas y las sanciones impuestas.
 
+> <small>(REFORMADO POR EL ARTICULO DECIMO SEPTIMO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 21 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 681.
 
-No se aplicará lo dispuesto en el Artículo 680, a quienes la SEDESO hubiere autorizado a ejecutar las obras de urbanización por etapas. En la autorización correspondiente, se determinarán las bases bajo las cuales dichas personas podrán enajenar los lotes del fraccionamiento, así como enajenar los departamentos, viviendas, casas, locales o áreas de que se componga el inmueble sujeto al régimen de propiedad en condominio.
+No se aplicará lo dispuesto en el Artículo 680, a quienes la Secretaría de Planeación y Desarrollo Regional hubiere autorizado a ejecutar las obras de urbanización por etapas. En la autorización correspondiente, se determinarán las bases bajo las cuales dichas personas podrán enajenar los lotes del fraccionamiento, así como enajenar los departamentos, viviendas, casas, locales o áreas de que se componga el inmueble sujeto al régimen de propiedad en condominio.
 
 ###### ARTICULO 682.
 
@@ -6988,3 +7138,17 @@ UNICO.- El presente decreto entrará en vigor a partir del 1o. de enero del año
 P.O. 13 DE SEPTIEMBRE DE 2004.
 
 UNICO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El titular del Poder Ejecutivo presentará en la iniciativa de Presupuesto de Egresos para el ejercicio fiscal del año 2005 las medidas convenientes para la creación reestructuración y operación de la Secretaría de Turismo propuesta en esta iniciativa.
+
+TERCERO.- Al crearse la Secretaría de Turismo, se transfieren a ésta, de la Coordinadora de Turismo para el Estado de Aguascalientes, el personal de base que continúe laborando a su servicio, sin perjuicio de sus derechos adquiridos, el mobiliario, los vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo que tal Coordinadora haya venido usando para la atención de los asuntos que tuviera encargados conforme a las modificaciones realizadas en este ordenamiento.
+
+CUARTO.- Cuando la competencia de alguna dependencia o entidad establecida con anterioridad a la vigencia del presente Decreto, deba ser ejercida por otra u otras de las que él mismo establece, pasarán los expedientes en trámite y el archivo a la dependencia o entidad competente que corresponda, y los asuntos que se encuentren en trámite competerá a la Secretaría de Turismo concluir la substanciación y dictar la resolución correspondiente.
+
+QUINTO.- El Poder Ejecutivo contará con ciento ochenta días naturales, contados a partir del día siguiente de la publicación de este Decreto, para la expedición del Reglamento Interior respectivo.
+
+SEXTO.- Las bases normativas, acuerdos, manuales de procedimientos utilizados y actos jurídicos celebrados por la Coordinadora de Turismo para el Estado de Aguascalientes, en materia de turismo, a la entrada en vigor del presente Decreto serán competencia exclusiva de la Secretaría de Turismo.
