@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-del-estado-de-guerrero-numero-428-22965"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2001-12-28"
+last_updated: "2002-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA DEL ESTADO DE GUERRERO, NUMERO 428
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE 2002.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -551,7 +551,9 @@ l) Prima de seguros por gastos médicos o de vida.
 
 m) Premios por asistencia.
 
-n) Aportaciones al Sistema de Ahorro para el Retiro.
+> <small>(REFORMADO, P.O. 24 DICIEMBRE 2002)</small>
+
+n).- Aportaciones al Sistema de Ahorro para el Retiro, así como los ingresos provenientes de cajas de ahorro de trabajadores y de fondos de ahorro establecidos por los patrones, cuando reúnan los requisitos de deducibilidad señalados en la Ley del Impuesto Sobre la Renta y su Reglamento.
 
 ñ) Instrumentos y materiales necesarios para la ejecución del trabajo.
 
@@ -1001,6 +1003,8 @@ Las autoridades fiscales estarán facultadas para verificar en cualquier tiempo,
 
 DERECHOS POR SERVICIOS EDUCATIVOS PARA LAS ESCUELAS OFICIALES, PARTICULARES, ACADEMIAS DE CAPACITACIÓN PARA EL TRABAJO Y EXPEDICIÓN DE DOCUMENTOS, ASÍ COMO POR LOS SERVICIOS PRESTADOS POR LA DIRECCIÓN DEL REGISTRO PÚBLICO PARA EL EJERCICIO TÉCNICO PROFESIONAL.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DICIEMBRE 2002)</small>
+
 ###### ARTICULO 84.
 
 Por legalización de firmas, certificaciones, expedición de copias de documentos y del Registro Civil, así como la expedición de otros documentos, por funcionarios o empleados del Estado, se causarán derechos conforme a la siguiente:
@@ -1101,9 +1105,9 @@ f).- Si se exceden de 10 hojas, por cada una excedente 0.16
 
 DERECHOS POR SERVICIOS DE SALUBRIDAD.
 
-###### ARTICULO 85.
+###### Artículo 85.
 
-Por el reconocimiento de estudios, grados académicos, expedición de títulos profesionales, de certificados de estudios y diplomas que expidan instituciones particulares incorporadas al Sistema Educativo Estatal, así como por los servicios prestados por la Dirección del Registro Público para el Ejercicio Técnico Profesional, se causarán los siguientes derechos.
+Por el reconocimiento de estudios, grados académicos, expedición de títulos profesionales, de certificados de estudios y diplomas que expidan instituciones particulares incorporadas al Sistema Estatal, así como por los servicios prestados por el Departamento de Profesiones y Servicio Social para el Ejercicio Técnico Profesional, se causarán los siguientes derechos:
 
 VEASE TABLA ANEXA
 
@@ -2240,3 +2244,11 @@ El Secretario de Finanzas y Administración.
 C. RAFAEL ACEVEDO ANDRADE
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE DICIEMBRE DE 2002.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día primero de enero del año dos mil tres.
