@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-intersecretarial-del-670"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-06-19"
-last_updated: "1984-06-19"
+last_updated: "2003-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=670&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1984-06-08"
 
 REGLAMENTO INTERIOR DE LA COMISION INTERSECRETARIAL DEL SERVICIO CIVIL.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO FUE ABROGADO POR EL ARTICULO SEPTIMO TRANSITORIO DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA EN LA ADMINISTRACION PUBLICA FEDERAL, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 10 DE ABRIL DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación el martes 19 de junio de 1984.
 
@@ -290,3 +292,19 @@ El Pleno de la Comisión Intersecretarial, se integra con todos los miembros de 
 UNICO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Ciudad de México, Distrito Federal, a los ocho días del mes de junio de mil novecientos ochenta y cuatro.- El Secretario de Programación y Presupuesto, Presidente de la Comisión Carlos Salinas de G.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett Díaz.- Rúbrica.- El Secretario de la Contraloría General de la Federación, Francisco J. Rojas Gutiérrez.- Rúbrica.- El Secretario de Educación Pública, Jesús Reyes Heroles.- Rúbrica.- Secretario del Trabajo y Previsión Social, Arsenio Farell Cubillas.- Rúbrica.- El Secretario General de la Federación de Sindicatos de Trabajadores al Servicio del Estado, Germán Parra Prado.- Rubrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 10 DE ABRIL DE 2003.
+
+UNICAMENTE SE TRANSCRIBEN LOS TRANSITORIOS DEL DECRETO DE REFORMA QUE SE RELACIONA CON EL REGLAMENTO.
+
+Artículo Primero.- Esta Ley entrará en vigor a partir de ciento ochenta días después de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- El Reglamento de la presente Ley deberá emitirse en un plazo no mayor a 180 días, contados a partir de la entrada en vigor de la misma.
+
+El Consejo deberá estar integrado a más tardar dentro de los 45 días siguientes a la entrada en vigor de la presente Ley.
+
+Artículo Séptimo.- Se derogan las disposiciones que se opongan al presente decreto.
+
+Se abroga el Acuerdo por el que se crea la Comisión Intersecretarial del Servicio Civil como un Instrumento de Coordinación y Asesoría del Ejecutivo Federal para la Instauración del Servicio Civil de Carrera de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 29 de junio de 1983 y el Reglamento Interior de la Comisión Intersecretarial del Servicio Civil publicado en el Diario Oficial de la Federación el 19 de junio de 1984. Las referencias a esta Comisión se entenderán realizadas a la Secretaría de la Función Pública.
