@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-4038"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-08-27"
-last_updated: "1997-11-08"
+last_updated: "2001-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2001.
 
 Reglamento publicado en el Periódico Oficial "El Estado de Colima" el sábado 27 de agosto de 1988.
 
@@ -519,9 +519,13 @@ El Presidente de cada Comisión será responsable de los documentos y expediente
 
 Se abstendrán de dictaminar los Diputados en los asuntos en que tengan interés personal, o que interesen de la misma manera a su cónyuge o a sus parientes consanguíneos, en línea recta, sin limitación de grado; a los colaterales, dentro del cuarto grado, y a los afines, dentro del segundo. El Diputado que contraviniere esta disposición incurrirá en responsabilidad.
 
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2001)</small>
+
 ###### Artículo 40.
 
-Las reuniones de las Comisiones Permanentes no serán públicas; sin embargo, podrán celebrar reuniones de información y audiencia, con representantes de grupos de interés, peritos u otras personas que puedan informar sobre determinados asuntos, debiendo extender invitación expresa. En este caso, las audiencias podrán ser públicas.
+Las reuniones de las Comisiones Permanentes serán públicas o privadas, según lo determinen las mismas; podrán celebrarse reuniones de información y audiencia, con funcionarios de los Poderes Ejecutivo y Judicial, con representantes de grupos de interés, peritos u otras personas que puedan informar sobre determinados asuntos, debiendo extender invitación expresa.
+
+No serán públicas aquellas reuniones que se sustenten fundamentalmente, en la protección de la seguridad estatal y el respeto tanto al interés social como el derecho a la vida o a la privacidad de los gobernados.
 
 ###### Artículo 41.
 
@@ -1556,3 +1560,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 8 DE NOVIEMBRE DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE SEPTIEMBRE DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
