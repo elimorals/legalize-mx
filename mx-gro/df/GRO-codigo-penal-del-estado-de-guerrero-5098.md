@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "2004-02-13"
+last_updated: "2004-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PENAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -177,9 +177,7 @@ No hay concurso cuando la conducta constituye un delito continuado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 1999)</small>
 
-###### ARTICULO 22.
-
-El delito se excluye cuando:
+22.- El delito se excluye cuando:
 
 I.- La actividad o inactividad del agente sean involuntarias;
 
@@ -879,7 +877,13 @@ Además de las penas previstas en las fracciones de la III a VIII, se impondrán
 
 El delito previsto en este artículo y sancionado en las fracciones I y II, se perseguirá a petición de la parte ofendida.
 
-106.- Cuando las lesiones sean inferidas por el agente en agravio de un menor o incapaz sujeto a su patria potestad, tutela o custodia, se aumentarán hasta en una tercera parte las penas que correspondan por las lesiones causadas.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2004)</small>
+
+106.- Cuando las lesiones sean inferidas por el agente activo en agravio de un menor, incapaz o adulto mayor, sujeto a su patria potestad, tutela o custodia, se aumentará hasta en una mitad más las penas que correspondan por las lesiones causadas.
+
+Para los efectos de este artículo se entiende como adulto mayor a la persona que ha rebasado los 65 años de edad.
+
+Si se tratare de un menor y éste, al sufrir el daño, se comprueba mediante dictamen médico y previa opinión de especialistas en la materia, que su desarrollo integral será afectado al agente activo se le aplicará lo establecido en el último párrafo de la fracción IV del artículo 108 de este ordenamiento.
 
 107.- Al que dolosamente lesione a su ascendiente o descendiente consanguíneo o línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado con conocimiento de ese parentesco o relación, se le impondrá hasta una mitad más de las penas aplicables por la lesión inferida.
 
@@ -2691,7 +2695,7 @@ VII.- Abandone una defensa o negocio sin motivo justificado y causando daño.
 
 289.- Al defensor de oficio que cometa alguno de los delitos a que se refiere el artículo anterior, se le sancionará, además, con privación del cargo e inhabilitación para ejercer otro cargo público hasta por dos años.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O.13 FEBRERO DE 2004)</small>
 
 ### CAPITULO UNICO
 
@@ -2811,11 +2815,11 @@ X.- Permita o tolere, a sabiendas, que un ciudadano emita su voto cuando no cump
 
 XI.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
 
-> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2004)</small>
+> <small>(ADICIONADA, P.O.13 FEBRERO DE 2004)</small>
 
 XII.- Retuviere la credencial de elector el día de las elecciones sin causa justificada; y
 
-> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2004)</small>
+> <small>(ADICIONADA, P.O.13 FEBRERO DE 2004)</small>
 
 XIII. Induzca la realización del escrutinio y cómputo en lugar distinto al señalado para tal efecto.
 
@@ -2835,7 +2839,7 @@ V.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada ele
 
 VI.- Impida con violencia la instalación, apertura o cierre de una casilla o la abra o cierre fuera de los tiempos previstos por la ley de la materia.
 
-> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2004)</small>
+> <small>(ADICIONADA, P.O.13 FEBRERO DE 2004)</small>
 
 VII.- Fije o haga propaganda electoral en lugares o días no permitidos por el Código Electoral del Estado.
 
@@ -2849,13 +2853,13 @@ II.- Condicione la prestación de un servicio público, el cumplimiento de progr
 
 III.- Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo tales como vehículos, inmuebles y equipos, al apoyo de un candidato o partido político, sin perjuicio de las penas que puedan corresponder por el delito de peculado; o proporcione ese apoyo a través de sus subordinados usando del tiempo correspondiente a sus labores para que éstos presten servicio a un partido político o a un candidato.
 
-297.- (DEROGADO, P.O. 13 DE FEBRERO DE 2004)
+297.- (DEROGADO, P.O.13 FEBRERO DE 2004)
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
 
 298.- Se impondrá prisión de uno a nueve años, al funcionario partidista o a los organizadores de actos de campaña que, a sabiendas aproveche ilícitamente fondos, bienes o servicios en los términos de la fracción III del artículo 296 de este Código.
 
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+> <small>(ADICIONADO, P.O.13 FEBRERO DE 2004)</small>
 
 299.- Se impondrá pena de 5 a 10 años de prisión y multa de 200 a 500 días de salario mínimo diario general vigente en el Estado, a quién:
 
@@ -2867,13 +2871,13 @@ Se aplicará hasta en una mitad más de la sanción contenida en este artículo,
 
 III.- Siendo servidor público ya sea estatal o municipal, realice proselitismo o participe en la apertura o cierre de campañas a favor de un partido político o candidato a ocupar un cargo de elección popular, en días u horas de jornada laboral, en las que esté obligado a permanecer en su oficina.
 
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+> <small>(ADICIONADO, P.O.13 FEBRERO DE 2004)</small>
 
 299 Bis.- Se impondrá multa de cien a doscientos días de salario mínimo diario general vigente en el Estado y suspensión de sus derechos ciudadanos por un año, a quien habiendo sido electo para desempeñar cargo de elección popular del Estado o del Municipio, no se presente a desempeñarlo, en los plazos, términos y condiciones que establecen la Constitución Política del Estado y las Leyes Secundarias respectivas.
 
 Igual pena se aplicará a quien sin mediar resolución de autoridad competente, impida por cualquier medio, que la persona electa popularmente inicie el desempeño de su cargo.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(ADICIONADA CON EL CAPITULO Y ARTICULO QUE LA INTEGRAN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO UNICO. DELITOS AMBIENTALES
 
@@ -2883,11 +2887,11 @@ Igual pena se aplicará a quien sin mediar resolución de autoridad competente, 
 
 ## TITULO V. DELITOS ELECTORALES
 
-> <small>(ADICIONADA CON EL CAPITULO Y ARTICULO QUE LA INTEGRAN, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA [N. DE E. DEROGADA] SU DENOMINACION, P.O. 13 FEBRERO DE 2004)</small>
 
 #### SECCION QUINTA
 
-> <small>(REFORMADA [N. DE E. DEROGADA] SU DENOMINACION, P.O. 13 DE FEBRERO DE 2004)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE ABRIL DE 1999)</small>
 
 ## ARTICULOS TRANSITORIOS
 
@@ -3010,3 +3014,7 @@ P.O. 13 DE FEBRERO DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para sus efectos constitucionales y publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE JULIO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
