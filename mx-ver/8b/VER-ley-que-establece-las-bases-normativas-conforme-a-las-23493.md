@@ -4,7 +4,7 @@ identifier: "VER-ley-que-establece-las-bases-normativas-conforme-a-las-23493"
 country: "mx"
 rank: "ley"
 publication_date: "1985-02-12"
-last_updated: "1985-02-12"
+last_updated: "2003-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "VER"
 
 LEY QUE ESTABLECE LAS BASES NORMATIVAS, CONFORME A LAS CUALES LOS AYUNTAMIENTOS DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE, DEBERAN EXPEDIR SUS BANDOS DE POLICIA Y BUEN GOBIERNO, REGLAMENTOS, CIRCULARES Y DISPOSICIONES ADMINISTRATIVAS DE OBSERVANCIA GENERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE ESTABLECE LAS BASES GENERALES PARA LA EXPEDICION DE BANDOS DE POLICIA Y GOBIERNO, REGLAMENTOS, CIRCULARES Y DISPOSICIONES ADMINISTRATIVAS DE OBSERVANCIA GENERAL DE ORDEN MUNICIPAL, PUBLICADA EN LA GACETA OFICIAL EL 23 DE ENERO DE 2003.</small>
 
-Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 12 de febrero de 1985.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
+
+Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el martes 12 de febrero de 1985.
 
 Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
 
@@ -146,3 +148,13 @@ Dada en el Salón de Sesiones de la Honorable Legislatura del Estado, en la ciud
 Por tanto mande se imprima, promulgue, circule y se le de el debido cumplimiento.
 
 Xalapa-Enríquez, Ver., a 4 de febrero de 1985.- Lic. AGUSTÍN ACOSTA LAGUNES.- El Secretario de Gobierno, Lic. FELIPE A. FLORES ESPINOSA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+G.O. 22 DE ENERO DE 2003.
+
+PRIMERO. La presente Ley iniciará su vigencia el día siguiente al de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO. Se abroga la Ley Número 71 que establece las Bases Normativas, conforme a las cuales los Ayuntamientos del Estado Libre y Soberano de Veracruz-Llave, deberán expedir sus Bandos de Policía y Buen Gobierno, Reglamentos, Circulares y Disposiciones Administrativas de Observancia General, promulgada el cuatro de febrero de mil novecientos ochenta y cinco.
+
+TERCERO. Dentro del plazo de noventa días contado a partir de la vigencia de esta Ley, los Ayuntamientos deberán expedir o reformar sus Bandos de Policía y Gobierno y demás reglamentación municipal, para adecuarlos a las disposiciones de la misma.
