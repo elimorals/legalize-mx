@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-9"
 country: "mx"
 rank: "ley"
 publication_date: "1936-01-10"
-last_updated: "1994-01-10"
+last_updated: "1999-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-12-30"
 
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 10 de enero de 1936.
 
@@ -145,7 +145,7 @@ Las personas morales oficiales estarán exentas de prestar las garantías que en
 
 El ofendido o las personas que conforme a la ley tengan derecho a la reparación del daño o a exigir la responsabilidad civil proveniente de la comisión de un delito, sólo podrán promover juicio de amparo contra actos que emanen del incidente de reparación o de responsabilidad civil. También podrán promover el juicio de amparo contra los actos surgidos dentro del procedimiento penal, relacionados inmediata y directamente con el aseguramiento del objeto del delito y de los bienes que estén afectos a la reparación o a la responsabilidad civil.
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 22 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 22 DE FEBRERO DE 1988)
 
 ###### ARTICULO 11.
 
@@ -291,7 +291,7 @@ Se exceptúan de lo previsto en el párrafo anterior, los términos relativos al
 
 Las resoluciones deben ser notificadas a más tardar dentro del día siguiente al en que se hubiesen pronunciado, y se asentará la razón que corresponda inmediatamente después de dicha resolución.
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 22 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 22 DE FEBRERO DE 1988)
 
 El agraviado y el tercero perjudicado podrán autorizar para oír notificaciones en su nombre, a cualquier persona con capacidad legal, quien quedará facultada para interponer los recursos que procedan, ofrecer y rendir pruebas, alegar en las audiencias, solicitar su suspensión o diferimiento, pedir se dicte sentencia para evitar la consumación del término de caducidad o sobreseimiento por inactividad procesal y realizar cualquier acto que resulte ser necesario para la defensa de los derechos del autorizante, pero no podrá substituir o delegar dichas facultades en un tercero. En las materias civil, mercantil o administrativa, la persona autorizada conforme a la primera parte de este párrafo, deberá acreditar encontrarse legalmente autorizada para ejercer la profesión de abogado, y deberán proporcionarse los datos correspondientes en el escrito en que se otorgue dicha autorización; pero las partes podrán designar personas solamente autorizadas para oír notificaciones e imponerse de los autos, a cualquier persona con capacidad legal, quien no gozará de las demás facultades a que se refiere este párrafo.
 
@@ -355,7 +355,7 @@ No obstante lo dispuesto en los artículos anteriores, la autoridad que conozca 
 
 Las notificaciones personales se harán conforme a las reglas siguientes:
 
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 22 DE FEBRERO DE 1988)
+(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 22 DE FEBRERO DE 1988)
 
 I.- Cuando deban hacerse al quejoso, tercero perjudicado o persona extraña al juicio, con domicilio o casa señalados para oír notificaciones en el lugar de la residencia del juez o tribunal que conozca del asunto, el notificador respectivo buscará a la persona a quien deba hacerse, para que la diligencia se entienda directamente con ella; si no la encontrare, le dejará citatorio para hora fija, dentro de las veinticuatro horas siguientes; y si no se espera, se hará la notificación por lista.
 
@@ -775,9 +775,9 @@ IX.- Contra actos consumados de un modo irreparable;
 
 X.- Contra actos emanados de un procedimiento judicial, o de un procedimiento administrativo seguido en forma de juicio, cuando por virtud de cambio de situación jurídica en el mismo deban considerarse consumadas irreparablemente las violaciones reclamadas en el procedimiento respectivo, por no poder decidirse en tal procedimiento sin afectar la nueva situación jurídica.
 
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1999)</small>
 
-Cuando por vía de amparo indirecto se reclamen violaciones a los artículos 16, 19 o 20 de la Constitución Política de los Estados Unidos Mexicanos, sólo la sentencia de primera instancia hará que se consideren irreparablemente consumadas las violaciones para los efectos de la improcedencia prevista en este precepto. La autoridad judicial que conozca del proceso penal suspenderá en estos casos el procedimiento en lo que corresponda al quejoso una vez cerrada la instrucción, y hasta que sea notificada de la resolución que recaiga en el juicio de amparo pendiente;
+Cuando por vía de amparo indirecto se reclamen violaciones a los artículos 19 o 20 de la Constitución Política de los Estados Unidos Mexicanos, exclusivamente la sentencia de primera instancia hará que se considere irreparablemente consumadas las violaciones para los efectos de la improcedencia prevista en este precepto. La autoridad judicial que conozca del proceso penal, suspenderá en estos casos el procedimiento en lo que corresponda al quejoso, una vez cerrada la instrucción y hasta que sea notificada de la resolución que recaiga en el juicio de amparo pendiente;
 
 XI.- Contra actos consentidos expresamente o por manifestaciones de voluntad que entrañen ese consentimiento;
 
@@ -1467,6 +1467,20 @@ III.- Que sean de difícil reparación los daños y perjuicios que se causen al 
 
 El juez de Distrito, al conceder la suspensión, procurará fijar la situación en que habrán de quedar las cosas y tomará las medidas pertinentes para conservar la materia del amparo hasta la terminación del juicio.
 
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1999)</small>
+
+###### ARTICULO 124 Bis.
+
+Para la procedencia de la suspensión contra actos derivados de un procedimiento penal que afecten la libertad personal, el juez de amparo deberá exigir al quejoso que exhiba garantía, sin perjuicio de las medidas de aseguramiento que estime convenientes.
+
+El juez de amparo fijará el monto de la garantía, tomando en cuenta los elementos siguientes:
+
+I. La naturaleza, modalidades y características del delito que se impute al quejoso;
+
+II. La situación económica del quejoso, y
+
+III. La posibilidad de que el quejoso se sustraiga a la acción de la justicia.
+
 ###### ARTICULO 125.
 
 En los casos en que es procedente la suspensión pero pueda ocasionar daño o perjuicio a tercero, se concederá si el quejoso otorga garantía bastante para reparar el daño e indemnizar los perjuicios que con aquélla se causaron si no obtiene sentencia favorable en el juicio de amparo.
@@ -1576,6 +1590,10 @@ Cuando haya temor fundado de que la autoridad responsable trate de burlar las ó
 ###### ARTICULO 138.
 
 En los casos en que la suspensión sea procedente, se concederá en forma tal que no impida la continuación del procedimiento en el asunto que haya motivado el acto reclamado, hasta dictarse resolución firme en él; a no ser que la continuación de dicho procedimiento deje irreparablemente consumado el daño o perjuicio que pueda ocasionarse al quejoso.
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1999)</small>
+
+Cuando la suspensión se haya concedido contra actos derivados de un procedimiento penal que afecten la libertad personal, el quejoso tendrá la obligación de comparecer dentro del plazo de tres días ante el juez de la causa o el Ministerio Público y, en caso de no hacerlo, dejará de surtir efectos la suspensión concedida.
 
 ###### ARTICULO 139.
 
@@ -1714,6 +1732,10 @@ Abierta la audiencia se procederá a recibir, por su orden, las pruebas, los ale
 El quejoso podrá alegar verbalmente cuando se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal, deportación, destierro o alguno de los prohibidos por el artículo 22 de la Constitución Federal, asentándose en autos extracto de sus alegaciones, si lo solicitare.
 
 En los demás casos, las partes podrán alegar verbalmente, pero sin exigir que sus alegaciones se hagan constar en autos, y sin que los alegatos puedan exceder de media hora por cada parte, incluyendo las réplicas y contrarréplicas.
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1999)</small>
+
+El Ministerio Público que actúe en el proceso penal, podrá formular alegatos por escrito en los juicios de amparo en los que se impugnen resoluciones jurisdiccionales. Para tal efecto, deberá notificársele la presentación de la demanda.
 
 > <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
@@ -2820,3 +2842,13 @@ SEGUNDO.- Con relación a los procedimientos que se sigan por delitos contra la 
 TERCERO.- A las personas que hayan cometido un delito, incluidas las procesadas o sentenciadas, con anterioridad a la entrada en vigor del presente decreto, les serán aplicables las disposiciones del Código Penal vigentes en el momento en que se haya cometido, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+D.O.F. 8 DE FEBRERO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A las personas que a la fecha de entrada en vigor del presente Decreto se encuentren sujetas a proceso penal por alguno de los delitos contenidos en las disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, mencionadas en el Artículo Primero de este Decreto, le serán aplicables las disposiciones de dichos artículos vigentes al momento de la comisión del delito.
+
+Los procedimientos penales y de amparo no concluidos en la fecha señalada en el transitorio anterior, seguirán tramitándose conforme a las disposiciones del Código Federal de Procedimientos Penales y de la Ley de Amparo vigentes con anterioridad a la fecha de entrada en vigor del presente Decreto.
+
+TERCERO.- La (sic) resoluciones de la autoridad judicial en las que se hubiere prorrogado el arraigo domiciliario decretado originalmente seguirán subsistiendo por todo el término que se hubiere señalado en la prórroga.
