@@ -1,0 +1,894 @@
+---
+title: "LEY DE SEGURIDAD PUBLICA DEL ESTADO DE YUCATAN"
+identifier: "YUC-ley-de-seguridad-publica-del-estado-de-yucatan-14428"
+country: "mx"
+rank: "ley"
+publication_date: "1999-05-15"
+last_updated: "1999-05-15"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14428&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-yuc"
+scjn_id: "14428"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "28877"
+reform_count: "3"
+scjn_last_update: "2016-05-02"
+issue_date: "1999-05-14"
+state: "YUC"
+---
+# LEY DE SEGURIDAD PUBLICA DEL ESTADO DE YUCATAN
+
+LEY DE SEGURIDAD PUBLICA DEL ESTADO DE YUCATAN
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 15 de mayo de 1999.
+
+DECRETO NUMERO 197
+
+CIUDADANO VICTOR MANUEL CERVERA PACHECO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE YUCATAN, A SUS HABITANTES HAGO SABER:
+
+"EL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATAN, DECRETA:
+
+LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATAN
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPÍTULO I. DE SU OBJETO
+
+###### ARTÍCULO 1.
+
+Las disposiciones de esta Ley son de orden público e interés general y tienen por objeto establecer las bases que regulen la función de garantizar la seguridad pública a los habitantes del Estado de Yucatán mediante la coordinación de los diferentes ámbitos de gobierno y el fomento de la participación social.
+
+###### ARTÍCULO 2.
+
+El Ejecutivo del Estado tendrá a su cargo la seguridad pública en el ámbito estatal, con base en la competencia y los mecanismos de coordinación que establezcan esta Ley y su reglamento, la fracción VII del artículo 115 Constitucional y demás ordenamientos legales aplicables.
+
+###### ARTÍCULO 3.
+
+Son objetivos de la seguridad pública:
+
+I. Proteger la integridad, el patrimonio y los derechos de las personas;
+
+II. Proteger la paz y el orden público;
+
+III. Prevenir la comisión de ilícitos, a través del combate a las causas que los generan;
+
+IV. Desarrollar políticas, programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la Ley; y
+
+V. Auxiliar a la población en casos de desastres y emergencias.
+
+### CAPÍTULO II. DE LAS AUTORIDADES DE SEGURIDAD
+
+PÚBLICA EN EL ESTADO
+
+###### ARTÍCULO 4.
+
+Son autoridades estatales en materia de seguridad pública:
+
+I. El Gobernador del Estado;
+
+II. El Secretario General de Gobierno;
+
+III. El Secretario de Protección y Vialidad;
+
+IV. El Procurador General de Justicia;
+
+V. El Director de Prevención y Readaptación Social;
+
+VI. El Director de la Escuela Social para Menores Infractores; y
+
+VII. Los Directores de los Centros de Readaptación Social.
+
+###### ARTÍCULO 5.
+
+Los Ayuntamientos tendrán las atribuciones que en la materia señala la Ley Orgánica de los Municipios, ajustándose a lo que establezca la fracción VII del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+
+### CAPÍTULO III. DE LAS FACULTADES Y OBLIGACIONES
+
+DE LAS AUTORIDADES ESTATALES
+
+###### ARTÍCULO 6.
+
+Son facultades y obligaciones del Gobernador del Estado en la materia de esta Ley:
+
+I. Establecer y ejecutar las medidas necesarias para mantener el orden público y preservar la paz social en el Estado;
+
+II. Celebrar convenios en materia de seguridad pública con la Federación, con los demás Estados de la República y con los Municipios de la Entidad;
+
+III. Ordenar la elaboración y vigilar el cumplimiento del Programa Estatal de Seguridad Pública;
+
+IV. Convocar a las autoridades de los tres ámbitos de gobierno y a los diversos sectores sociales del Estado, a participar en la búsqueda de opciones tendientes a mejorar la seguridad pública;
+
+V. Presidir el Consejo Estatal de Seguridad Pública;
+
+VI. Proveer la normatividad y disponer la implementación de medidas necesarias para la exacta observancia de esta Ley;
+
+VII. Proponer al Consejo Estatal de Seguridad Pública el nombramiento del Secretario Ejecutivo del mismo;
+
+VIII.- Incorporar a las instituciones, programas e instrumentos normativos de seguridad pública del Estado al Sistema Nacional de Seguridad Pública, en los términos que disponen las Leyes Federales, esta Ley y demás ordenamientos legales aplicables;
+
+IX.- Disponer las medidas conducentes para combatir el pandillerismo y la drogadicción; y
+
+X. Las que le confieran esta Ley y los demás ordenamientos legales aplicables en la materia.
+
+###### ARTÍCULO 7.
+
+Son facultades y obligaciones del Secretario General de Gobierno en la materia de esta Ley:
+
+I. Ejercer las funciones en materia de seguridad pública que correspondan al Titular del Ejecutivo del Estado, en las ausencias temporales de éste;
+
+II. Proponer al Titular del Ejecutivo del Estado los programas de coordinación en materia de seguridad pública, así como la instrumentación de acciones tendientes a disminuir la comisión de ilícitos en la entidad;
+
+III. Vigilar la ejecución de las políticas, lineamientos y acciones que dicte el Gobernador del Estado, para mejorar el funcionamiento de las instituciones de seguridad pública del Estado;
+
+IV. Coordinar las acciones que se convengan en materia de Seguridad Pública entre las instituciones estatales y municipales;
+
+V. Integrar y controlar el Registro Estatal del Personal de las Corporaciones de Seguridad Pública así como el de Armamento y Equipo; y
+
+VI. Las demás que le confiera el Gobernador del Estado, esta Ley y otros ordenamientos legales aplicables.
+
+###### ARTÍCULO 8.
+
+Son facultades y obligaciones del Secretario de Protección y Vialidad en la materia de esta Ley:
+
+I. Cumplir con los lineamientos y ejecutar las disposiciones que dicte el Titular del Ejecutivo en materia de seguridad pública;
+
+II. Participar en las actividades que se realicen para prevenir y combatir la comisión de ilícitos;
+
+III. Elaborar y actualizar los programas de profesionalización, dirigidos a los integrantes de la corporación a su cargo; así como vigilar su estricto cumplimiento;
+
+IV. Coordinar las acciones encaminadas al mantenimiento, del orden público en los términos de esta Ley y demás ordenamientos legales aplicables;
+
+V. Ordenar, en el ámbito de su competencia, el auxilio a las personas en caso de desastres o emergencias que pongan en peligro la seguridad de éstas;
+
+VI. Informar periódicamente al Registro Estatal del Personal de Seguridad Pública, así como al de Armamento y Equipo; de las altas, bajas, ascensos, estímulos, sanciones y demás movimientos de control e identificación de los recursos humanos a su cargo, así como de las altas, bajas y condición que guarde el armamento y equipo asignado a la dependencia a su cargo; y
+
+VII. Las demás que le confiera el Gobernador del Estado, esta Ley y otros ordenamientos legales aplicables.
+
+###### ARTÍCULO 9.
+
+Son facultades y obligaciones del Procurador General de Justicia en la materia de esta Ley:
+
+I. Cumplir con los lineamientos y ejecutar las disposiciones que dicte el Titular del Ejecutivo del Estado en materia de seguridad pública;
+
+II. Prevenir la comisión de ilícitos y participar en las actividades que realice el Ejecutivo del Estado en materia de seguridad pública;
+
+III. Elaborar y actualizar los programas de profesionalización dirigidos a los integrantes de la corporación a su cargo, así como vigilar su estricto cumplimiento;
+
+IV. Participar con las autoridades federales, estatales y municipales en las actividades que éstas realicen para prevenir y combatir la comisión de ilícitos;
+
+V. Informar periódicamente al Registro Estatal del Personal de Seguridad Pública, así como al de Armamento y Equipo; de las altas, bajas, ascensos, estímulos, sanciones y demás movimientos de control e identificación de los recursos humanos a su cargo, así como de las altas, bajas y estado que guarde el armamento y equipo asignado a la dependencia a su cargo; y
+
+VI. Las demás que le confiera el Gobernador del Estado, esta Ley y demás ordenamientos legales aplicables.
+
+###### ARTÍCULO 10.
+
+El Director de Prevención y Readaptación Social, los Directores de los Centros de Readaptación Social y el Director de la Escuela de Educación Social para Menores Infractores del Estado, tendrán las facultades y obligaciones establecidas en su reglamento con respecto a seguridad pública, así como las que le señalen otros ordenamientos legales aplicables.
+
+### CAPÍTULO IV. DE LAS OBLIGACIONES DE LAS CORPORACIONES
+
+DE SEGURIDAD PÚBLICA EN EL ESTADO
+
+###### ARTÍCULO 11.
+
+Son obligaciones de los integrantes de las corporaciones de seguridad pública en el Estado:
+
+I. Cumplir sus funciones con imparcialidad y sin discriminar a persona alguna por razón de su raza, religión, sexo, condición económica o social, ideología política o por algún otro motivo;
+
+II. Conducirse siempre con apego al orden jurídico y pleno respeto a las garantías individuales;
+
+III. Prestar auxilio a las personas amenazadas por algún peligro, que hayan sido víctimas de algún delito, así como brindar protección al patrimonio y derechos de las mismas;
+
+IV. Obedecer las órdenes de sus superiores jerárquicos y cumplir con todas sus obligaciones, siempre que estén apegadas a derecho;
+
+V. Abstenerse de aplicar, tolerar o permitir, actos de tortura u otros tratos o sanciones crueles, inhumanas o degradantes, aun cuando se trate de alguna orden superior o se argumenten circunstancias especiales;
+
+VI. Velar por la vida e integridad física de las personas detenidas, en tanto se les pone a disposición de la autoridad competente;
+
+VII. Preservar el secreto en los asuntos que conozcan por razón del desempeño de sus funciones, con las excepciones que determinen los ordenamientos legales aplicables;
+
+VIII. Participar en operativos con otras corporaciones policíacas, así como brindarles el apoyo que conforme a derecho proceda;
+
+IX. Vigilar que los vehículos a su servicio, ostenten visiblemente su denominación, logotipo o escudo y número que los identifique, debiendo portar placas de circulación;
+
+X. Portar las armas y uniformes que le sean asignados, únicamente durante el tiempo de sus funciones, o en su caso, para un horario, misión o condición determinados; y
+
+XI. Las que establezcan esta Ley y demás ordenamientos legales aplicables.
+
+###### ARTÍCULO 12.
+
+En los términos de los artículos 40 y 41 fracción I de esta Ley, los integrantes de corporaciones policiales que fueren a realizar actividades en materia de seguridad pública en el Estado, deberán registrarse y en su caso, presentar identificación de la corporación a la cual pertenezcan, cuando les sea requerida por alguna autoridad del Estado en el ejercicio de sus funciones.
+
+###### ARTÍCULO 13.
+
+Los elementos de las corporaciones de seguridad pública, en ejercicio de sus funciones, sólo deberán portar las armas que le hayan sido asignadas y estén registradas colectivamente en la corporación a la que pertenezcan, de conformidad con los ordenamientos legales aplicables.
+
+###### ARTÍCULO 14.
+
+El incumplimiento a lo dispuesto en el artículo anterior dará lugar a que la portación de armas se considere ilegal y sea sancionada en los términos de la normatividad aplicable.
+
+## TÍTULO SEGUNDO. DEL SISTEMA ESTATAL
+
+DE SEGURIDAD PÚBLICA
+
+### CAPÍTULO I. DEL OBJETO DEL SISTEMA ESTATAL
+
+###### ARTÍCULO 15.
+
+El Sistema Estatal de Seguridad Pública tiene por objeto planear y supervisar las actividades que se realicen en el territorio de la entidad en materia de seguridad pública y se integra con las instancias, instrumentos, políticas, servicios y acciones tendientes a cumplir con los propósitos en la materia.
+
+Las autoridades competentes alcanzarán los fines de la seguridad pública mediante la prevención, persecución y sanción de las infracciones y delitos, así como la reinserción social del delincuente y del menor infractor.
+
+### CAPÍTULO II. DE LA COORDINACIÓN EN MATERIA
+
+DE SEGURIDAD PÚBLICA
+
+###### ARTÍCULO 16.
+
+Las autoridades del Estado y de los Municipios se coordinarán entre sí y con las de la Federación en materia de seguridad pública, en los términos de lo dispuesto en el último párrafo del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, en esta Ley y en los demás ordenamientos legales aplicables.
+
+La coordinación entre las diversas corporaciones policiales que funcionan en el Estado, tendrá por objeto establecer uniformidad de criterios en materia de seguridad pública para lograr una mayor eficacia en el cumplimiento de sus funciones.
+
+Cuando las disposiciones de esta Ley comprendan materias y acciones que incidan en diversos ámbitos de competencia, se aplicarán y ejecutarán mediante convenios generales y específicos entre las partes componentes del Sistema Estatal.
+
+###### ARTÍCULO 17.
+
+Los convenios de coordinación que en materia de seguridad pública suscriba el Ejecutivo del Estado con los Municipios y estos con la Federación, señalarán entre otros aspectos, los mecanismos para el intercambio oportuno de información, la realización de acciones conjuntas de capacitación y las estrategias necesarias para combatir la comisión de infracciones y delitos.
+
+###### ARTÍCULO 18.
+
+En los casos de desastres y emergencias en el Estado, las instituciones de seguridad pública se coordinarán con las de protección civil, para salvaguardar con mayor oportunidad los intereses de la colectividad.
+
+###### ARTÍCULO 19.
+
+El Ejecutivo del Estado dispondrá lo necesario para que los habitantes de la Entidad, en casos de emergencia, establezcan contacto en forma rápida y eficiente con las Instituciones encargadas de brindarles seguridad.
+
+### CAPÍTULO III. DEL CONSEJO ESTATAL
+
+DE SEGURIDAD PÚBLICA
+
+###### ARTÍCULO 20.
+
+El Consejo Estatal de Seguridad Pública es un órgano que tiene por objeto desarrollar funciones de planeación, consulta, apoyo y seguimiento de las actividades en materia de seguridad pública.
+
+###### ARTÍCULO 21.
+
+El Consejo Estatal de Seguridad Pública se integra por:
+
+I. El Gobernador del Estado, quien lo presidirá;
+
+II. El Secretario General de Gobierno;
+
+III. El Secretario de Protección y Vialidad;
+
+IV. El Procurador General de Justicia;
+
+V. El Secretario de Hacienda y Planeación;
+
+VI. El Director de Vías Terrestres;
+
+VII. El Director de Prevención y Readaptación Social;
+
+VIII. Los Directores de los Centros de Readaptación Social del Estado;
+
+IX. El Presidente del Consejo Tutelar de Menores;
+
+X. El Director de la Policía Judicial;
+
+XI. El Director de la Unidad Estatal de Protección Civil;
+
+XII. El Comandante de la X Región Militar;
+
+XIII. El Comandante de la 32ª Zona Militar;
+
+XIV. El Comandante de la IX Zona Naval;
+
+XV. El Delegado de la Secretaría de Gobernación;
+
+XVI. El Director General del Centro S.C.T. Yucatán;
+
+XVII. El Comandante de Destacamento de la Policía Federal de Caminos;
+
+XVIII. El Capitán de Altura y el Capitán de Puertos;
+
+XIX. El Delegado de la Procuraduría General de la República;
+
+XX. El Administrador del Aeropuerto Internacional de Mérida;
+
+XXI. El Delegado del Instituto Nacional de Migración;
+
+XXII.- El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública; y
+
+XXIII. Los Servidores Públicos, y representantes de organizaciones del sector social y privado que el Presidente del Consejo convoque.
+
+###### ARTÍCULO 22.
+
+Es competencia del Consejo Estatal de Seguridad Pública:
+
+I. Establecer los mecanismos de coordinación entre las autoridades estatales, federales y municipales, con el fin de emprender acciones que fortalezcan la seguridad pública en la entidad;
+
+II. Promover la participación organizada de la sociedad, en actividades relacionadas con la seguridad pública;
+
+III. Establecer un sistema de información estadística sobre el índice estatal de delincuencia que apoye la implementación de programas destinados a prevenir y disminuir la comisión de los delitos;
+
+IV. Integrar un sistema de seguimiento y evaluación de las actividades que se realicen en el marco del Programa Estatal de Seguridad Pública;
+
+V. Establecer los mecanismos para la operación del Sistema Estatal de Seguridad Pública;
+
+VI. La formulación de propuestas para el Programa Estatal de Seguridad Pública, así como la evaluación periódica de éste y otros relacionados;
+
+VII. Revisar y aprobar el Programa Estatal de Seguridad Pública;
+
+VIII. Evaluar la situación de la seguridad pública en la entidad y proponer las acciones tendientes a su mejoramiento;
+
+IX. La elaboración de propuestas de reformas a leyes y reglamentos en materia de seguridad pública; y
+
+X. Ejercer las demás atribuciones que sean necesarias para cumplir los objetivos de esta Ley y las que les señalen otros ordenamientos legales aplicables.
+
+###### ARTÍCULO 23.
+
+Son funciones del Secretario Ejecutivo del Consejo Estatal:
+
+I. Levantar y certificar los acuerdos que se tomen en el Consejo y llevar el control de los mismos;
+
+II. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo;
+
+III. Informar periódicamente al Consejo de sus actividades;
+
+IV. Realizar estudios especializados sobre seguridad pública; y
+
+V. Las demás que determine el Consejo y le señalen los demás ordenamientos legales de la materia.
+
+###### ARTÍCULO 24.
+
+El Consejo Estatal de Seguridad Pública sesionará de manera ordinaria cada tres meses y extraordinariamente, cuando sea convocado por el Presidente del mismo.
+
+### CAPÍTULO IV. DE LOS CONSEJOS MUNICIPALES
+
+DE SEGURIDAD PÚBLICA
+
+###### ARTÍCULO 25.
+
+Los municipios integrarán Consejos Municipales de Seguridad Pública que serán órganos de coordinación con la finalidad de planear, elaborar, evaluar y supervisar las actividades en la materia que se lleven a cabo en sus respectivos ámbitos de competencia, de acuerdo con sus características y a lo que disponga el reglamento de esta Ley.
+
+### CAPITULO V. DEL PROGRAMA ESTATAL DE SEGURIDAD PÚBLICA
+
+###### ARTÍCULO 26.
+
+El Programa Estatal de Seguridad Pública tiene el propósito de llevar a cabo acciones encaminadas a mantener el orden y la paz social, a combatir la delincuencia a través de los órganos competentes, a prevenir la comisión de los delitos y aquellas otras que establezca el Consejo Estatal de Seguridad Pública.
+
+El Programa Estatal de Seguridad Pública será elaborado en concordancia con el Plan Estatal de Desarrollo y se revisará anualmente.
+
+###### ARTÍCULO 27.
+
+La elaboración del Programa antes citado estará a cargo del Ejecutivo del Estado y será sometido al Consejo Estatal de Seguridad Pública para su revisión y aprobación, debiendo ser publicado en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO 28.
+
+El Programa Estatal de Seguridad Pública contendrá al menos:
+
+I. El diagnóstico de la situación que guarda la seguridad pública en el Estado;
+
+II. Las acciones encaminadas a prevenir y disminuir la comisión de los delitos y de las infracciones;
+
+III. Los mecanismos de coordinación del Estado con la Federación, con otras Entidades Federativas y con los Municipios;
+
+IV. La integración de acciones dirigidas a prevenir y combatir el pandillerismo y la drogadicción;
+
+V. Las acciones tendientes a promover la participación de la sociedad para prevenir y combatir la comisión de delitos e infracciones;
+
+VI. Las estrategias para la capacitación y profesionalización de los integrantes de las corporaciones policiales; y
+
+VII. Las líneas de acción que sustenten el desarrollo de actividades de difusión en materia de seguridad pública.
+
+## TÍTULO TERCERO. DE LA PROFESIONALIZACIÓN DE LAS CORPORACIONES DE SEGURIDAD PÚBLICA
+
+### CAPÍTULO I. DEL INSTITUTO DE CAPACITACIÓN PROFESIONAL DE LAS CORPORACIONES DE SEGURIDAD PÚBLICA EN EL ESTADO
+
+###### ARTÍCULO 29.
+
+El Instituto de Capacitación Profesional de las Corporaciones de Seguridad Pública del Estado, es un organismo desconcentrado de la Secretaría de Protección y Vialidad, y tiene la finalidad de propiciar el desarrollo integral de los elementos de las corporaciones policíacas del Estado, sustentado en los principios de legalidad, eficiencia, profesionalismo y honradez, para mejorar la calidad del servicio que se brinda a la sociedad.
+
+###### ARTÍCULO 30.
+
+El Instituto tiene las siguientes funciones:
+
+I. Definir los lineamientos, programas y acciones encaminadas a la selección, ingreso, adiestramiento, promoción, desarrollo, actualización y adecuada formación de los integrantes de las corporaciones policiales;
+
+II. Elaborar el Plan de Estudios que incluya, además de las técnicas de adiestramiento, formación e investigación, contenidos de superación personal que tiendan a la profesionalización integral de los elementos de las corporaciones;
+
+III. Capacitar a los elementos que integran las corporaciones policiales del Estado;
+
+IV. Evaluar las aptitudes físicas y mentales de los integrantes de las corporaciones policiales del Estado;
+
+V. Expedir constancias al personal de las corporaciones policiales que reciban capacitación y adiestramiento en las instalaciones del Instituto y acrediten satisfactoriamente los contenidos de los programas respectivos; y
+
+VI. Las demás que sean necesarios para cumplir con los objetivos de esta Ley y las que le señalen otros ordenamientos legales aplicables.
+
+###### ARTÍCULO 31.
+
+El Titular del Ejecutivo del Estado designará y removerá libremente al Director del Instituto de Capacitación Profesional de las Corporaciones de Seguridad Pública del Estado.
+
+### CAPÍTULO II
+
+DE LAS CONDECORACIONES,
+
+ESTÍMULOS Y RECOMPENSAS
+
+###### ARTÍCULO 32.
+
+El Ejecutivo del Estado, dentro del ámbito de su competencia, podrá otorgar a los elementos de las diversas corporaciones de seguridad pública estatales, condecoraciones, estímulos y recompensas.
+
+###### ARTÍCULO 33.
+
+Los integrantes de las corporaciones de seguridad pública se harán acreedores, considerando su destacado desempeño, a condecoraciones, estímulos y recompensas por:
+
+I. Demostrar una actitud valerosa en el ejercicio de su labor cotidiana;
+
+II. Ser disciplinado y tener una antigüedad de diez o más años en el servicio;
+
+III. Sobresalir en su preparación académica y policial;
+
+IV. Participar notoriamente en la prestación de servicios sociales; y
+
+V. Las demás que señale el reglamento respectivo.
+
+###### ARTÍCULO 34.
+
+La denominación de las condecoraciones y los tipos de estímulos y recompensas que se otorguen a los integrantes de las corporaciones policiales, se establecerán en el reglamento respectivo.
+
+### CAPÍTULO III. DE LAS SANCIONES A LOS MIEMBROS
+
+DE LAS CORPORACIONES DE SEGURIDAD PÚBLICA
+
+###### ARTÍCULO 35.
+
+Los elementos de las corporaciones de seguridad pública, en el ejercicio de sus funciones, podrán hacerse acreedores de las siguientes sanciones administrativas, por infracciones a esta Ley, independientemente de lo dispuesto en otros ordenamientos legales aplicables:
+
+I. Amonestación;
+
+II. Arresto hasta por 36 horas;
+
+III. Multa de uno a cincuenta días de salario mínimo vigente en el Estado;
+
+IV. Inhabilitación hasta por un período de 15 años, para ingresar a cualquier corporación policial del Estado, dependiendo de la gravedad de la falta;
+
+V. Destitución del cargo; y
+
+VI. Las demás que señalen otros ordenamientos legales aplicables a la materia.
+
+###### ARTÍCULO 36.
+
+Corresponde a los titulares de las corporaciones de seguridad pública, aplicar las sanciones a que se refiere el artículo anterior, previo desahogo del procedimiento que establezca el reglamento respectivo.
+
+En los casos en los que los elementos de las corporaciones de seguridad pública incurran en algún ilícito tipificado como delito en la ley penal, los titulares de dichas corporaciones los pondrán a disposición de la autoridad correspondiente.
+
+### CAPÍTULO IV. DE LAS COMISIONES DE HONOR Y JUSTICIA
+
+###### ARTÍCULO 37.
+
+Las corporaciones de seguridad pública en el Estado podrán establecer Comisiones de Honor y Justicia, que serán cuerpos colegiados encargados de conocer y dictaminar sobre la actuación y comportamiento de cada uno de sus elementos, otorgar las condecoraciones, estímulos y recompensas, así como calificar las sanciones impuestas a sus integrantes por sus superiores jerárquicos, con motivo de las faltas cometidas en el ejercicio de sus funciones.
+
+###### ARTÍCULO 38.
+
+Compete a las Comisiones de Honor y Justicia:
+
+I. Analizar y determinar el otorgamiento de las Condecoraciones, Estímulos y Recompensas a que se hagan acreedores los integrantes de las Corporaciones Policiales;
+
+II. Hacer del conocimiento del titular de la corporación respectiva, los hechos que puedan constituir delito, cometidos por los integrantes de la corporación policial de que se trate;
+
+III. Conocer del recurso que interpongan los integrantes de la corporación policial respectiva, por las resoluciones que emitan las autoridades por infracciones cometidas por el personal en el ejercicio de sus funciones; y
+
+IV. Las demás que señalen otros ordenamientos legales aplicables.
+
+###### ARTÍCULO 39.
+
+Las Comisiones de Honor y Justicia estarán integradas por un Presidente, un Secretario y un Vocal. El reglamento interior de cada dependencia establecerá el procedimiento para formar su Comisión y las atribuciones y obligaciones que le correspondan.
+
+## TÍTULO CUARTO. DE LA INFORMACIÓN ESTATAL
+
+SOBRE SEGURIDAD PÚBLICA.
+
+### CAPÍTULO I. DEL REGISTRO ESTATAL DEL PERSONAL
+
+DE SEGURIDAD PÚBLICA
+
+###### ARTÍCULO 40.
+
+El Registro Estatal del Personal de Seguridad Pública se integra con información relativa a los elementos de las corporaciones de seguridad pública que operen en el Estado, con objeto de propiciar una mejor organización y funcionamiento de las actividades que desarrollen y de asegurar el ingreso de personal adecuado a dichas corporaciones.
+
+###### ARTÍCULO 41.
+
+El Registro Estatal del Personal de Seguridad Pública contendrá, por lo menos:
+
+I. Datos que permitan identificar plenamente al servidor público y localizarlo;
+
+II. Sus huellas dactilares, fotografía, escolaridad, antecedentes laborales y su trayectoria en instituciones de seguridad pública;
+
+III. Las condecoraciones, estímulos, reconocimientos y sanciones a que se haya hecho acreedor durante su desempeño como servidor público;
+
+IV. Cualquier cambio de adscripción, actividad o rango del servidor público, especificando los motivos de éstos;
+
+V. Las constancias de calificaciones obtenidas en los cursos de capacitación en los que haya participado;
+
+VI. Los cargos o comisiones que haya desempeñado;
+
+VII. Las sanciones disciplinarias que se les hayan impuesto, así como las causas de cada una de ellas; y
+
+VIII. Las demás que sean necesarios para cumplir con los objetivos de esta Ley y que señalen otros ordenamientos legales aplicables.
+
+###### ARTÍCULO 42.
+
+El Registro Estatal del Personal de Seguridad Pública también llevará el control de los aspirantes a ingresar a las corporaciones de seguridad pública que hayan sido rechazados y de quienes hayan desertado del servicio.
+
+###### ARTÍCULO 43.
+
+Cuando a los elementos de las corporaciones de seguridad pública, se les dicte cualquier auto de sujeción a proceso, sentencia condenatoria o absolutoria, sanción administrativa o resolución que modifique, confirme o revoque dichos actos, los titulares de las corporaciones lo notificarán inmediatamente al Registro Estatal del Personal de Seguridad Pública.
+
+###### ARTÍCULO 44.
+
+Las Autoridades competentes del Estado mantendrán actualizado el Registro Estatal a que se refiere este capítulo, en los términos de esta Ley y el reglamento correspondiente; con objeto de que dicha información se integre al Registro Nacional del Personal de Seguridad Pública.
+
+###### ARTÍCULO 45.
+
+Corresponde al Secretario General de Gobierno integrar el Registro Estatal del Personal de Seguridad Pública, mantenerlo actualizado e informar de sus modificaciones al Registro Nacional de la materia.
+
+###### ARTÍCULO 46.
+
+Previo al ingreso de toda persona a cualquier corporación de seguridad pública, se deberá consultar el Registro Estatal del Personal de Seguridad Pública con el fin de conocer si tiene algún impedimento para su ingreso.
+
+###### ARTÍCULO 47.
+
+El uso de la información contenida en el Registro Estatal del Personal de Seguridad Pública será de carácter confidencial y su consulta se realizará exclusivamente para el ejercicio de funciones de seguridad pública, por lo que el público no tendrá acceso a ella. Quienes contravengan lo señalado en este artículo incurren en el delito de violación de secretos y demás disposiciones aplicables.
+
+###### ARTÍCULO 48.
+
+Los titulares de las corporaciones de seguridad pública deberán vigilar bajo su más estricta responsabilidad que las credenciales de identificación de la corporación a su cargo, se expidan únicamente al personal en activo, quienes deberán portarlas durante el ejercicio de sus funciones.
+
+###### ARTÍCULO 49.
+
+La expedición de credenciales oficiales a personas que no pertenezcan a sus respectivas corporaciones, se sancionarán de acuerdo con lo que establezcan el reglamento de la corporación de que se trate y la Ley de Responsabilidades de los Servidores Públicos del Estado, sin perjuicio de los delitos que tipifique y sancione la legislación penal en el Estado y demás ordenamientos aplicables.
+
+### CAPÍTULO II. DEL REGISTRO ESTATAL
+
+DE ARMAMENTO Y EQUIPO
+
+###### ARTÍCULO 50.
+
+El Registro Estatal de Armamento y Equipo se integra con la finalidad de contar con información relativa a los bienes e instrumentos asignados a las corporaciones policiales, para el cumplimiento de sus labores de seguridad pública.
+
+Los titulares de las corporaciones de seguridad pública en el Estado, además de cumplir con lo dispuesto en otras leyes, deberán manifestar al Registro Estatal de Armamento y Equipo:
+
+I. Los vehículos que tuvieran asignados, especificando el número de matrícula, las placas de circulación, la marca, modelo, tipo, número de serie de motor y de carrocería del mismo;
+
+II. Las armas y municiones que les hayan sido entregadas por la corporación correspondiente, señalando el número de registro, la marca, modelo, calibre, matrícula y demás elementos de identificación que señale el reglamento respectivo;
+
+III. El equipo de comunicación y sus accesorios, precisando la marca, modelo, número de serie y demás características que permitan su identificación; y
+
+IV. Los demás equipos y accesorios que hayan sido asignados a la corporación para el adecuado cumplimiento de sus funciones.
+
+###### ARTÍCULO 51.
+
+En caso de que los elementos de seguridad pública aseguren armas y/o municiones, el titular de la corporación lo comunicará de inmediato al Registro de Armamento y Equipo y las pondrá a disposición de las autoridades correspondientes, en los términos dispuestos en la Ley de la materia.
+
+## TÍTULO QUINTO. DE LA JUSTICIA CÍVICA
+
+### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 52.
+
+Para efectos de esta Ley se entiende por justicia cívica aquélla que tiende a consolidar valores y conductas de los ciudadanos encaminadas a propiciar la convivencia pacífica de la sociedad.
+
+La justicia cívica, en este sentido, constituye el medio adecuado para dar mayor sustento a las políticas y medidas destinadas a garantizar la seguridad de los habitantes del Estado.
+
+###### ARTÍCULO 53.
+
+La justicia cívica tiene por objeto:
+
+I. Procurar la convivencia armónica entre los habitantes del Estado de Yucatán;
+
+II. Promover la participación de la sociedad en el desarrollo de estrategias y acciones que procuren la adquisición de hábitos, disciplinas y valores que contribuyan a fomentar el respeto a los bienes jurídicos tutelados por la Ley; y
+
+III. Establecer las sanciones por acciones u omisiones que alteren el orden público y la tranquilidad de las personas y que no constituyan delitos tipificados o sancionados por la legislación penal.
+
+###### ARTÍCULO 54.
+
+El reglamento relativo establecerá las bases normativas necesarias para la organización de la estructura orgánica, la implementación de los instrumentos jurídicos y de los procedimientos que se requieran para la aplicación de las disposiciones en materia de justicia cívica.
+
+###### ARTÍCULO 55.
+
+Corresponde a la Secretaría de Protección y Vialidad, en el ámbito de su competencia, la aplicación de las disposiciones relativas a la justicia cívica, así como de imponer las sanciones correspondientes por violaciones a las mismas, con apego a lo que establezca el reglamento respectivo y demás ordenamientos legales aplicables.
+
+###### ARTÍCULO 56.
+
+Las sanciones a que se refiere el artículo anterior son:
+
+I. Amonestación;
+
+II. Arresto hasta por 36 horas; y
+
+III. Multa de hasta cien días de salario mínimo vigente en el Estado.
+
+## TÍTULO SEXTO. DE LA PARTICIPACIÓN DE LA SOCIEDAD
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+###### ARTÍCULO 57.
+
+El Consejo Estatal establecerá mecanismos y procedimientos para la participación de la sociedad respecto de las funciones que realice y, en general, de las actividades de la seguridad pública en el Estado.
+
+###### ARTÍCULO 58.
+
+El Estado promoverá la participación de la comunidad, para:
+
+I. Conocer sobre políticas relacionadas con la seguridad pública;
+
+II. Sugerir medidas específicas y acciones concretas para mejorar esta función;
+
+III. Realizar labores de seguimiento;
+
+IV. Proponer reconocimientos por méritos o estímulos para los miembros de las instituciones policiales;
+
+V. Realizar denuncias o quejas sobre irregularidades; y
+
+VI. Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad pública.
+
+###### ARTÍCULO 59.
+
+El Consejo Estatal promoverá que las instituciones de seguridad pública en el Estado cuenten con una instancia de consulta y participación de la comunidad, para alcanzar los propósitos del artículo anterior.
+
+###### ARTÍCULO 60.
+
+Los particulares están obligados a colaborar con las autoridades competentes en las tareas vinculadas a la prevención y combate de la comisión de delitos e infracciones, así como de participar en los programas y actividades que las mismas realicen en materia de seguridad pública.
+
+### CAPÍTULO II. DE LOS SERVICIOS DE SEGURIDAD PRIVADA
+
+###### ARTÍCULO 61.
+
+Los particulares, tanto personas físicas como morales, podrán prestar servicios de seguridad privada, ajustándose a lo establecido en esta Ley y su reglamento.
+
+Se entiende por servicios de seguridad privada, el que prestan las personas físicas y morales, con objeto de brindar protección a los bienes de los particulares, custodia de personas y vigilancia a los establecimientos comerciales o de cualquier otra índole.
+
+###### ARTÍCULO 62.
+
+Para los efectos de esta Ley, los servicios de seguridad privada, únicamente podrán prestarse para:
+
+I. La protección y el traslado de fondos y valores;
+
+II. La vigilancia de bienes muebles e inmuebles;
+
+III. Investigaciones, siempre que no lesionen los derechos de los terceros;
+
+IV. La vigilancia que realicen personas o cuerpos de seguridad en instituciones públicas, organismos descentralizados, aeropuertos, de servicios bancarios, financieros o de seguros; y
+
+V. La custodia de personas.
+
+###### ARTÍCULO 63.
+
+Los prestadores de servicios de seguridad privada, para obtener su registro en el Estado deberán cumplir con los siguientes requisitos:
+
+I. Presentar solicitud de registro, en formatos que serán proporcionados por la autoridad competente;
+
+II. Presentar copia certificada de:
+
+a). Escritura constitutiva y sus últimas reformas, si es persona moral;
+
+b). Acta de nacimiento, si se trata de personas físicas;
+
+c). Decreto o acto jurídico constitutivo, si se trata de organismos descentralizados o empresas de participación estatal;
+
+d). Cédula de Registro Federal de Contribuyentes, expedida por la Secretaría de Hacienda y Crédito Público.
+
+e). En su caso, registro de cada arma que use en servicio así como la licencia de portación de armas expedidos por la Secretaría de la Defensa Nacional, de conformidad con lo señalado en la Ley Federal de Armas de Fuego y Explosivos y demás ordenamientos legales aplicables; y
+
+f). En su caso, permiso de instalación del equipo de radiocomunicación que se use en el servicio y del uso de la frecuencia respectiva, expedidos por la Secretaría de Comunicaciones y Transportes.
+
+III. Presentar modelo de contrato de prestación de servicios; aprobado por la Procuraduría Federal del Consumidor;
+
+IV. Presentar un ejemplar de su reglamento, manual o bases operativas;
+
+V. Presentar formato original de la credencial, que expidan para la identificación de su personal;
+
+VI. Indicar su domicilio y el de sus oficinas auxiliares o sucursales, en caso de tenerlas en el Estado;
+
+VII. En caso de tener su domicilio social en algún otro Estado de la República y pretenda prestar servicios en la entidad; deberán abrir una sucursal en el Estado y expresar su domicilio;
+
+VIII. Lista del personal conteniendo: nombre completo, domicilio, registro federal de contribuyentes del personal y certificado que acredite no estar sujeto o haber sido sentenciado por delito intencional;
+
+IX. Relación de bienes inmuebles y muebles que se empleen para el servicio, incluyendo vehículos expresando marca, tipo, modelo, números de serie del motor, de la carrocería y de la placa de circulación; armas, anotando el tipo, calibre modelo y matrícula, así como el equipo de radiocomunicación;
+
+X. Descripción de los colores e insignias y cualquier aditamento adicional que pretendan emplear en sus vehículos;
+
+XI. Fotografía a color de cada uno de los elementos que integran al personal, de frente, de perfil y de cuerpo entero, y del uniforme que se utilice en el servicio, así como sus accesorios; y
+
+XII. Los demás que señale el reglamento y otros ordenamientos legales aplicables.
+
+###### ARTÍCULO 64.
+
+La Procuraduría General de Justicia, recibirá la solicitud presentada por los prestadores de Servicios de Seguridad Privada para obtener su registro, mismo que otorgará en un plazo de 30 días a partir de la fecha de que se hayan satisfecho todos los requisitos.
+
+En caso contrario, se les notificará la negativa y se dará difusión pública a esta resolución después de haber causado ejecutoria.
+
+###### ARTÍCULO 65.
+
+Los prestadores de servicios de seguridad privada, a quienes se les haya otorgado su registro y la constancia del mismo, deberán cumplir con las siguientes obligaciones:
+
+I. Dar aviso por escrito de las modificaciones que se realicen a su acta constitutiva;
+
+II. Dar aviso por escrito de cualquier cambio de accionistas o socios en un plazo no mayor de treinta días naturales;
+
+III. Dar aviso de inmediato, por escrito o por medio de registros computarizados, de las altas y bajas mensuales del personal a su cargo, proporcionando la relación actualizada del mismo, con el registro federal de contribuyentes;
+
+IV. Comunicar semestralmente por escrito o por medio de registros computarizados, las altas y bajas del equipo y material que utilice en la prestación del servicio, proporcionando las principales características del mismo, incluyendo unidades móviles;
+
+V. Comunicar por escrito y acreditar cualquier modificación a los permisos, autorizaciones o licencias, que en su caso hayan expedido las Autoridades competentes, respecto del registro de portación de armas, traslado de fondos y valores, uso de frecuencia en equipos de radiocomunicación, capacitación y adiestramiento, así como cambios de domicilio;
+
+VI. Colaborar con la Procuraduría General de Justicia del Estado en el levantamiento de cuestionarios personales, identificación fotográfica y de dactiloscopía del personal operativo; así como proporcionar toda la información que le sea solicitada;
+
+VII. Comunicar por escrito cualquier suspensión de labores, así como la disolución o liquidación de la empresa, en su caso, anexando copia certificada de los avisos dados a las autoridades fiscales y laborales, según el caso;
+
+VIII. Permitir y facilitar las visitas domiciliarias y el levantamiento de las actas conducentes que, en cualquier caso, considere necesario efectuar la Procuraduría General de Justicia u otra dependencia competente, así como la Secretaría de Protección y Vialidad del Estado, con objeto de verificar el estricto cumplimiento de las disposiciones contenidas en esta Ley y en otros ordenamientos legales aplicables;
+
+IX. Colaborar con su personal de mando y operativo, así como con el equipo destinado a los servicios que presta, en la ejecución de acciones encaminadas a auxiliar a la población en caso de desastres o emergencias, y en otras tareas sociales que le encomiende la Procuraduría General de Justicia; y
+
+X. Las demás que le señalen esta Ley y demás ordenamientos legales aplicables.
+
+###### ARTÍCULO 66.
+
+Los prestadores de servicios de seguridad privada someterán a la aprobación de la Procuraduría General de Justicia, las solicitudes presentadas por las personas que pretendan ser contratadas por ellos. Tal aprobación se otorgará en los casos en que no se encuentren antecedentes penales por delitos intencionales de dichas personas.
+
+###### ARTÍCULO 67.
+
+La constancia de registro deberá colocarse en lugar visible de las oficinas e instalaciones principales del prestador de servicios, y tendrá la obligación de señalar el número de registro asignado en toda la documentación dirigida a los usuarios del servicio.
+
+###### ARTÍCULO 68.
+
+Los prestadores de servicios de seguridad privada que incurran en una omisión respecto de la entrega de la información o de la realización de una actividad solicitada por la Procuraduría General de Justicia, contarán con un plazo máximo e improrrogable de 30 días hábiles para entregar documentos o la información que obre o deba obrar en su poder. Tratándose de obligaciones de hacer, esto es rectificar, modificar, sustituir, o suprimir disposiciones contractuales o normativas de la operación cotidiana del prestador, o cualquiera otra actividad solicitada por la Procuraduría, ésta fijará el plazo para la realización, de acuerdo a la naturaleza de la actividad requerida.
+
+En caso de que los prestadores de servicios no proporcionen la colaboración e información requeridas se harán acreedores a las sanciones establecidas en esta Ley y otros ordenamientos legales aplicables.
+
+###### ARTÍCULO 69.
+
+Las personas físicas o morales que presten servicios de seguridad privada deberán sujetarse a los siguientes lineamientos:
+
+I. Queda estrictamente prohibida la realización de actividades propias de la Secretaría de Protección y Vialidad, de la Procuraduría General de Justicia del Estado y de las demás corporaciones policiales que funcionen en el Estado;
+
+II. No podrán utilizar las denominaciones de policía o agentes en su publicidad, documentos o bienes, debiendo identificarse únicamente como elementos de servicios de seguridad privada;
+
+III. Queda estrictamente prohibido a los elementos de servicios de seguridad privada, usar el escudo nacional, del Estado, y de los Municipios así como logotipo, lemas, uniformes e insignias de las corporaciones de seguridad pública del Estado;
+
+IV. Unicamente podrán prestar sus servicios a las personas que acrediten fehacientemente la legítima posesión o propiedad de los bienes sujetos a protección;
+
+V. Deberán de rendir un informe pormenorizado de sus actividades cuando sea requerido por la autoridad correspondiente; y
+
+VI. Deberán cumplir con todos los requisitos que marque esta Ley y demás ordenamientos legales aplicables.
+
+###### ARTÍCULO 70.
+
+La Procuraduría General de Justicia del Estado es la instancia facultada para vigilar que los prestadores de servicios de seguridad privada cumplan lo dispuesto en esta Ley y otros ordenamientos legales aplicables. Anualmente, en el mes de enero, estos prestadores deberán refrendar su registro en la Procuraduría General de Justicia.
+
+###### ARTÍCULO 71.
+
+El personal que preste servicios de seguridad privada en los casos de detención realizada en flagrante delito, durante el ejercicio de sus funciones, deberá poner sin demora a disposición de la autoridad competente al probable responsable y a sus cómplices, si los hubiere.
+
+###### ARTÍCULO 72.
+
+El incumplimiento de las obligaciones establecidas en esta Ley, por parte de los prestadores de servicios de seguridad privada, independientemente de las responsabilidades civiles o penales en que pudieran incurrir, dará lugar a las siguientes sanciones por parte de la Procuraduría:
+
+I. Amonestación;
+
+II. Suspensión temporal del registro hasta por un plazo de treinta días naturales.
+
+En los casos en que la autoridad competente lo estime conveniente, podrá difundir públicamente la sanción de suspensión temporal impuesta a los prestadores de servicios de seguridad privada; y
+
+III. Cancelación definitiva del registro, con difusión pública de dicha cancelación.
+
+###### ARTÍCULO 73.
+
+Las sanciones anteriormente señaladas, deberán tomarse en orden sucesivo. Detectada la anomalía, la Procuraduría, por escrito, la hará del conocimiento del prestador para que éste aporte en la fecha que se le señale las pruebas que estime conducentes y en un plazo de 10 días naturales, la Procuraduría dictará la resolución que proceda.
+
+###### ARTÍCULO 74.
+
+Los prestadores de servicios de seguridad privada, deberán elaborar cada año el Programa de Capacitación y Adiestramiento para su personal y presentarlo para su aprobación a la Procuraduría General de Justicia del Estado.
+
+### CAPITULO III. DE LOS COMITÉS CIUDADANOS Y LOS COMISARIOS DE MANZANA
+
+###### ARTÍCULO 75.
+
+En los centros de población se podrán organizar Comités Ciudadanos que promuevan la participación de la sociedad en las tareas de seguridad pública. Dichos Comités deberán presentar ante la Secretaría General de Gobierno su solicitud de registro.
+
+###### ARTÍCULO 76.
+
+Los integrantes de los Comités de Ciudadanos de Seguridad Pública, deberán ser personas de reconocido prestigio y solvencia moral y además:
+
+I. Ser ciudadanos mexicanos por nacimiento y tener la calidad de ciudadanos yucatecos en el ejercicio de sus derechos;
+
+II. Residir en el Municipio durante el año inmediato anterior; y
+
+III. No haber sido condenado por la comisión de delitos intencionales.
+
+###### ARTÍCULO 77.
+
+El registro, la operación y la supervisión de las actividades de los Comités Ciudadanos se ajustará a lo que establezca el reglamento de esta Ley.
+
+En ningún caso podrá haber más de un Comité Ciudadano por cada colonia, fraccionamiento o comisaría.
+
+###### ARTÍCULO 78.
+
+El Ejecutivo del Estado podrá otorgar reconocimientos y estímulos a las personas que por su destacado valor civil contribuyan con la autoridad correspondiente en la prevención, investigación y persecución de los delitos.
+
+###### ARTÍCULO 79.
+
+En los centros de población de la entidad se designarán Comisarios de Manzana, quienes fungirán como auxiliares en materia de seguridad pública de la corporación policial que corresponda.
+
+###### ARTÍCULO 80.
+
+Los Comisarios de Manzana serán nombrados por el Secretario de Protección y Vialidad o los Presidentes Municipales, según su ámbito de competencia y deberán ser personas de reconocida solvencia moral así como cumplir los siguientes requisitos:
+
+I. Ser vecino de la circunscripción territorial de que se trate;
+
+II. Saber leer y escribir;
+
+III. No haber sido condenado por delito doloso que merezca sanción privativa de libertad; y
+
+IV. Ser mayor de edad.
+
+###### ARTÍCULO 81.
+
+Los Comisarios de Manzana estarán facultados para realizar las siguientes funciones:
+
+I. Colaborar con las autoridades competentes en materia de seguridad pública en la prevención de los delitos, y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad pública;
+
+II. Denunciar ante las autoridades las infracciones a las disposiciones legales en materia de justicia cívica o hechos que pudieran constituir delitos;
+
+III. Promover la participación de la comunidad en las actividades que realicen las autoridades competentes en materia de seguridad pública;
+
+IV. Canalizar las demandas de la sociedad civil en materia de seguridad pública; y
+
+V. Proponer ante las autoridades competentes el otorgamiento de reconocimientos o estímulos a las personas que se destaquen por sus servicios prestados a favor de la comunidad en materia de seguridad pública.
+
+### CAPÍTULO ÚNICO
+
+## TÍTULO SÉPTIMO. DE LOS RECURSOS
+
+###### ARTÍCULO 82.
+
+Las resoluciones de las autoridades competentes en el ejercicio de las atribuciones que esta Ley les confiere podrán ser impugnadas mediante los recursos de inconformidad y de revisión que se tramitarán de conformidad con lo que establezca el reglamento de esta Ley.
+
+TRANSITORIOS:
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades competentes dispondrán de un plazo de ciento ochenta días naturales, a partir de la fecha en la que entre en vigor esta Ley, para expedir los reglamentos correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría General de Gobierno dispondrá de un plazo de ciento ochenta días naturales, a partir de la fecha en la que entre en vigor esta Ley, para integrar el Registro Estatal del Personal de las Corporaciones de Seguridad Pública del Estado así como el de Armamento y Equipo.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones de igual o menor rango a esta Ley que se opongan a lo establecido en la misma.
+
+###### ARTÍCULO QUINTO.
+
+Las personas físicas o morales que presten servicios de seguridad privada, al entrar en vigor de esta Ley, dispondrán de un plazo de ciento veinte días naturales para adecuar su funcionamiento a las disposiciones contenidas en la misma.
+
+DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO, EN LA CIUDAD DE MERIDA, YUCATAN, ESTADOS UNIDOS MEXICANOS, A LOS CATORCE DIAS DEL MES DE MAYO DEL AÑO DE MIL NOVECIENTOS NOVENTA Y NUEVE. PRESIDENTE DIP. C. LUIS EMIR CASTILLO PALMA.- SECRETARIO DIP. C. WILLIAM RENAN SOSA ALTAMIRA.- SECRETARIO DIP. C.P. ALFREDO RODRIGUEZ Y PACHECO.- RUBRICAS.
+
+Y POR TANTO MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU CONOCIMIENTO Y DEBIDO CUMPLIMIENTO.
+
+DADO EN LA SEDE DEL PODER EJECUTIVO, EN LA CIUDAD DE MERIDA, YUCATAN, ESTADOS UNIDOS MEXICANOS, A LOS CATORCE DIAS DEL MES DE MAYO DE MIL NOVECIENTOS NOVENTA Y NUEVE.
+
+C. VICTOR MANUEL CERVERA PACHECO
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+ABOG. R. CLEOMINIO ZOREDA NOVELO.
