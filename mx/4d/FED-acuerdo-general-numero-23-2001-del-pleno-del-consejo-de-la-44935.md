@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2004-06-04"
+last_updated: "2004-07-09"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JULIO DE 2004.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -209,9 +209,9 @@ VII.- SEPTIMO CIRCUITO:
 
 2.- Un tribunal unitario con residencia en Boca del Río.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 20/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 42/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2004)</small>
 
-3.- Nueve juzgados de distrito en el Estado de Veracruz: dos con sede en Xalapa, cuatro con residencia en Boca del Río, dos con sede en Tuxpan y uno con residencia en Poza Rica.
+3.- Diez juzgados de distrito en el Estado de Veracruz: dos con sede en Xalapa, cuatro con residencia en Boca del Río, dos con sede en Tuxpan, uno con residencia en Poza Rica y uno con sede en Córdoba.
 
 VIII.- OCTAVO CIRCUITO:
 
@@ -625,7 +625,13 @@ VII.- SEPTIMO CIRCUITO:
 
 Los juzgados de distrito en el Estado de Veracruz, con residencia en Xalapa, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acajete, Acatlán, Actopan, Alpatláhuac, Alto Lucero de Gutiérrez Barrios, Altotonga, Apazapan, Atzalan, Ayahualulco, Banderilla, Calcahualco, Chiconquiaco, Coacoatzintla, Coatepec, Colipa, Comapa, Cosautlán de Carvajal, Coscomatepec, Emiliano Zapata, Huatusco, Ixhuacán de los Reyes, Ixhuatlán del Café, Jalacingo, Jalcomulco, Jilotepec, Juchique de Ferrer, Landero y Coss, Las Minas, Las Vigas de Ramírez, Martínez de la Torre, Miahuatlán, Misantla, Naolinco, Nautla, Perote, Rafael Lucio, Sochiapa, Tatatila, Tenampa, Tenochtitlán, Teocelo, Tepatlaxco, Tepetlán, Tlacolulan, Tlacotepec de Mejía, Tlalnelhuayocan, Tlaltetela, Tlapacoyan, Tonayán, Totutla, Vega de Alatorre, Villa Aldama, Xalapa, Xico, Yecuatla y Zentla.
 
-Los juzgados de distrito en el Estado de Veracruz, con residencia en Boca del Río, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acula, Acultzingo, Alvarado, Amatitlán, Amatlán de los Reyes, Angel R. Cabada, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Boca del Río, Camarón de Tejeda, Camerino Z. Mendoza, Carlos A. Carrillo, Carrillo Puerto, Catemaco, Coetzala, Córdoba, Cosamaloapan, Cotaxtla, Cuichapa, Cuitláhuac, Chacaltianguis, Chocamán, Fortín, Hueyapan de Ocampo, Huiloapan de Cuauhtémoc, Ignacio de la Llave, Isla, Ixhuatlancillo, Ixmatlahuacán, Ixtaczoquitlán, Jamapa, José Azueta, Juan Rodríguez Clara, La Antigua, La Perla, Lerdo de Tejada, Los Reyes, Magdalena, Maltrata, Manlio Fabio Altamirano, Mariano Escobedo, Medellín, Mixtla de Altamirano, Naranjal, Nogales, Omealca, Orizaba, Otatitlán, Paso de Ovejas, Paso del Macho, Playa Vicente, Puente Nacional, Rafael Delgado, Río Blanco, Saltabarranca, San Andrés Tenejapan, San Andrés Tuxtla, Santiago Tuxtla, Soledad Atzompa, Soledad de Doblado, Tehuipango, Tequila, Texhuacán, Tezonapa, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tlaquilpan, Tlilapan, Tomatlán, Tres Valles, Tuxtilla, Ursulo Galván, Veracruz, Xoxocotla, Yanga y Zongolica.
+> <small>(REFORMADO POR EL PUNTO DECIMO DEL ACUERDO GENERAL 42/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2004)</small>
+
+Los juzgados de distrito en el Estado de Veracruz, con residencia en Boca del Río, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acula, Alvarado, Amatitlán, Angel R. Cabada, Boca del Río, Carlos A. Carrillo, Catemaco, Cosamaloapan, Cotaxtla, Chacaltianguis, Hueyapan de Ocampo, Ignacio de la Llave, Isla, Ixmatlahuacán, Jamapa, José Azueta, Juan Rodríguez Clara, La Antigua, Lerdo de Tejada, Manlio Fabio Altamirano, Medellín, Otatitlán, Paso de Ovejas, Playa Vicente, Puente Nacional, Saltabarranca, San Andrés Tuxtla, Santiago Sochiapan, Santiago Tuxtla, Soledad de Doblado, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tres Valles, Tuxtilla, Ursulo Galván y Veracruz.
+
+> <small>(ADICIONADO POR EL PUNTO DECIMO DEL ACUERDO GENERAL 42/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2004)</small>
+
+El Juzgado de Distrito en el Estado de Veracruz, con sede en Córdoba, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Acultzingo, Amatlán de los Reyes, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Camarón de Tejeda, Camerino Z. Mendoza, Carrillo Puerto, Coetzala, Córdoba, Cuichapa, Cuitláhuac, Chocamán, Fortín, Huiloapan de Cuauhtémoc, Ixhuatlancillo, Ixtaczoquitlán, La Perla, Los Reyes, Magdalena, Maltrata, Mariano Escobedo, Mixtla de Altamirano, Naranjal, Nogales, Omealca, Orizaba, Paso del Macho, Rafael Delgado, Río Blanco, San Andrés Tenejapan, Soledad Atzompa, Tehuipango, Tequila, Texhuacán, Tezonapa, Tlaquilpan, Tlilapan, Tomatlán, Xoxocotla, Yanga y Zongolica.
 
 > <small>(REFORMADO POR EL PUNTO DECIMO DEL ACUERDO GENERAL 20/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
 
@@ -1298,3 +1304,9 @@ D.O.F. 4 DE JUNIO DE 2004.
 PRIMERO.- Este acuerdo entrará en vigor el uno de julio de dos mil cuatro.
 
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 9 DE JULIO DE 2004.
+
+PRIMERO.- Este acuerdo entrará en vigor el once de julio de dos mil cuatro.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
