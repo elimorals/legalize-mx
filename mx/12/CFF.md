@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1983-12-30"
+last_updated: "1984-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 1983.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 1984.
 
 Código publicado en el Diario Oficial de la Federación el jueves 31 de diciembre de 1981.
 
@@ -446,9 +446,19 @@ II. Las personas que estén obligadas a efectuar pagos provisionales por cuenta 
 
 III. Los liquidadores y síndicos por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquéllas que se causaron durante su gestión.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
-No será aplicable lo dispuesto en esta fracción cuando la sociedad en liquidación garantice el interés fiscal por las contribuciones mencionadas en los términos del artículo 11 de este Código.
+No será aplicable lo dispuesto en el párrafo anterior, cuando la sociedad en liquidación garantice el interés fiscal por las contribuciones mencionadas en los términos del artículo 11 de este Código.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
+La persona o personas cualquiera que sea el nombre con que se les designe, que tengan conferida la dirección general, la gerencia general, o la administración única de las sociedades mercantiles, serán responsables solidarios por las contribuciones causadas o no retenidas por dichas sociedades durante su gestión, así como por las que debieron pagarse o enterarse durante la misma, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la sociedad que dirigen, cuando dicha sociedad incurra en cualquiera de los siguientes supuestos.
+
+a). No solicite su inscripción en el registro federal de contribuyentes.
+
+b). Cambie su domicilio sin presentar el aviso correspondiente en los términos del reglamento de este Código, siempre que dicho cambio se efectúe después de que se le hubiera notificado el inicio de una visita y antes de que se haya notificado la resolución que se dicte respecto de la misma, o cuando el cambio se realice después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya cubierto o hubiera quedado sin efectos.
+
+c). No lleve contabilidad, la oculte o la destruya.
 
 IV. Los adquirentes de negociaciones, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas en la negociación, cuando pertenecía a otra persona, sin que la responsabilidad exceda del valor de la misma.
 
@@ -477,6 +487,10 @@ Los fedatarios públicos exigirán a los otorgantes de las escrituras públicas 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 La Secretaría de Hacienda y Crédito Público llevará el registro federal de contribuyentes basándose en los datos que las personas le proporcionen de conformidad con este artículo y en los que la propia Secretaría obtenga por cualquier otro medio; asimismo asignará la clave que corresponda a cada persona inscrita, quien deberá citarla en todo documento que presente ante las autoridades fiscales y jurisdiccionales, cuando en este último caso se trate de asuntos en que la Secretaría de Hacienda y Crédito Público sea parte. Las personas inscritas deberán conservar en su domicilio la documentación comprobatoria de haber cumplido con las obligaciones que establecen este artículo y el Reglamento de este Código.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
+Tratándose de establecimientos para la realización de actividades empresariales, o de locales que se utilicen como base fija para el desempeño de servicios personales independientes, abiertos al público en general, los contribuyentes deberán conservar en ellos, copias de los avisos que por los mismos establecimientos o locales hayan presentando conforme a este artículo y al Reglamento de este Código, debiendo exhibirlos a las autoridades fiscales cuando éstas lo soliciten.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -510,7 +524,9 @@ Las personas obligadas a llevar contabilidad deberán conservarla en el lugar a 
 
 Las personas que no estén obligadas a llevar contabilidad deberán conservar en su domicilio a disposición de las autoridades, toda documentación relacionada con el cumplimiento de las disposiciones fiscales.
 
-La documentación a que se refiere el párrafo anterior de este artículo y la contabilidad, deberán conservarse durante cinco años contados a partir de la fecha en que se presentaron o debieron presentarse las declaraciones con ellas relacionadas. Tratándose de documentación correspondiente a actos cuyos efectos fiscales se prolonguen en el tiempo, el plazo de cinco años comenzará a computarse a partir del día en que se presente la declaración del último ejercicio en que se hayan producido dichos efectos. La documentación correspondiente a aquellos conceptos respecto de los cuales se hubiera promovido algún recurso o juicio, se conservarán durante un plazo de cinco años computado a partir de la fecha en que quede firme la resolución que les ponga fin.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
+La documentación a que se refiere el párrafo anterior de este artículo y la contabilidad, deberán conservarse durante el plazo en el que de conformidad con el artículo 67 de este Código se extingan las facultades de las autoridades fiscales, contado a partir de la fecha en que se presentaron o debieron haberse presentado las declaraciones con ellas relacionadas. Tratándose de documentación correspondiente a actos cuyos efectos fiscales se prolonguen en el tiempo, el plazo de referencia comenzará a computarse a partir del día en que se presente la declaración del último ejercicio en que se hayan producido dichos efectos. Cuando se trate de la documentación correspondiente a aquellos conceptos respecto de los cuales se hubiera promovido algún recurso o juicio, el plazo para conservarla se computará a partir de la fecha en que quede firme la resolución que les ponga fin.
 
 Las personas que dictaminen sus estados financieros por contador público autorizado en los términos del artículo 52 de este Código, podrán microfilmar la parte de su contabilidad que señale el reglamento y los microfilms tendrán el mismo valor que los originales, siempre que cumplan con los requisitos que al respecto establezca el propio reglamento; tratándose de personas morales, el presidente del consejo de administración o en su defecto la persona física que la dirija, será directamente responsable del cumplimiento.
 
@@ -535,6 +551,10 @@ Las declaraciones, avisos, solicitudes de inscripción en el registro federal de
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 Las oficinas a que se refiere el párrafo anterior, recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverán copia sellada a quien los presente. Unicamente se podrá rechazar la presentación cuando no contengan el nombre del contribuyente, su clave de registro federal de contribuyentes, su domicilio fiscal o no aparezcan debidamente firmados, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
+Cuando por diferentes contribuciones se deba presentar una misma declaración o aviso y se omita hacerlo por alguna de ellas, se tendrá por no presentada la declaración o aviso por la contribución omitida.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -589,6 +609,10 @@ Cuando la Secretaría de Hacienda y Crédito Público modifique las resoluciones
 ###### Artículo 37.
 
 Las instancias o peticiones que se formulen a las autoridades fiscales deberán ser resueltas en un plazo de cuatro meses; transcurrido dicho plazo sin que se notifique la resolución, el interesado podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa en cualquier tiempo posterior a dicho plazo, mientras no se dicte la resolución, o bien, esperar a que ésta se dicte.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
+Cuando se requiera al promovente que cumpla los requisitos omitidos o proporcione los elementos necesarios para resolver, el término comenzará a correr desde que el requerimiento haya sido cumplido.
 
 ###### Artículo 38.
 
@@ -1032,11 +1056,21 @@ III. El contribuyente no pague alguna de las parcialidades, con sus recargos, a 
 
 Las facultades de las autoridades fiscales, para comprobar el cumplimiento de las disposiciones fiscales, determinar las contribuciones omitidas y sus accesorios, así como para imponer sanciones por infracciones a dichas disposiciones, se extinguen en el plazo de cinco años contado a partir del día siguiente a aquél en que:
 
-I. Se presentó o debió presentarse la declaración del ejercicio, cuando se tenga obligación de hacerlo. En estos casos las facultades se extinguirán por ejercicios completos, incluyendo aquellas facultades relacionadas con la exigibilidad de obligaciones distintas de la de presentar la declaración del ejercicio. No obstante lo anteriores, cuando se presenten declaraciones complementarias el plazo empezará a computarse a partir del día siguiente a aquél en que se presenten, por lo que hace a los conceptos modificados en relación a la última declaración de esa misma contribución en el ejercicio.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
+I. Se presentó la declaración del ejercicio, cuando se tenga obligación de hacerlo. En estos casos las facultades se extinguirán por ejercicios completos, incluyendo aquellas facultades relacionadas con la exigibilidad de obligaciones distintas de la de presentar la declaración del ejercicio. No obstante lo anterior, cuando se presenten declaraciones complementarias el plazo empezará a computarse a partir del día siguiente a aquel en que se presentan, por lo que hace a los conceptos modificados en relación a la última declaración de esa misma contribución en el ejercicio.
 
 II. Se presentó o debió haberse presentado declaración o aviso que corresponda a una contribución que no se calcule por ejercicios o a partir de que se causaron las contribuciones cuando no exista la obligación de pagarlas mediante declaración.
 
 III. Se hubiere cometido la infracción a las disposiciones fiscales; pero si la infracción fuese de carácter continuo o continuado, el término correrá a partir del día siguiente al en que hubiese cesado la consumación o se hubiese realizado la última conducta o hecho, respectivamente.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
+El plazo a que se refiere este artículo será de diez años, cuando el contribuyente no haya presentado su solicitud en el registro federal de contribuyentes o no lleve contabilidad, así como por los ejercicios en que no presente alguna declaración del ejercicio, estando obligado a presentarlas; en este último caso el plazo de diez años se computará a partir del día siguiente a aquel en que se debió haber presentado la declaración del ejercicio. En los casos en que posteriormente el contribuyente en forma espontánea presente la declaración omitida y cuando ésta no sea requerida, el plazo será de cinco años, sin que en ningún caso este plazo de cinco años, sumado al tiempo transcurrido entre la fecha en que debió presentarse la declaración omitida y la fecha en que se presentó espontáneamente, exceda de diez años. Para los efectos de este artículo las declaraciones del ejercicio no comprenden las de pagos provisionales.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
+En los casos de responsabilidad solidaria a que se refiere el artículo 26 fracción III de este Código, el plazo será de tres años a partir de que la garantía del interés fiscal resulte insuficiente.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -1065,6 +1099,10 @@ Sólo por acuerdo expreso del Secretario de Hacienda y Crédito Público se podr
 ###### Artículo 70.
 
 La aplicación de las multas, por infracciones a las disposiciones fiscales, se hará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
+Tratándose de las multas que este Capítulo establece en cantidades determinadas o entre una mínima y otra máxima, dichas cantidades se incrementarán a la que resulte de multiplicarlas por los factores que en su caso señale, para estos efectos, el Congreso de la Unión. La Secretaría de Hacienda y Crédito Público calculará para las infracciones correspondientes, las cantidades que resulten de las operaciones anteriores y las publicará en el Diario Oficial de la Federación.
 
 ###### Artículo 71.
 
@@ -1500,13 +1538,13 @@ IX. Una aeronave con mercancías extranjeras aterrice en lugar no autorizado par
 
 El delito de contrabando se sancionará con pena de prisión:
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
-I. De tres meses a seis años, si el monto de los impuestos omitidos no excede de $300,000.00.
+I. De tres meses a seis años, si el monto de los impuestos omitidos no excede de $500,000.00.
 
-(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983) (F. DE E., D.O.F. 28 DE MARZO DE 1984)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
-II. De tres a nueve años de prisión, si el monto de los impuestos omitidos excede de $300,000.00.
+II. De tres a nueve años, si el monto de los impuestos omitidos excede de $500,000.00.
 
 III. De tres meses a nueve años, cuando se trate de mercancías cuyo tráfico haya sido prohibido por el Ejecutivo Federal en uso de las facultades señaladas en el segundo párrafo del artículo 131 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -1750,9 +1788,9 @@ Cuando las pruebas documentales no obren en poder del recurrente, si éste no hu
 
 La autoridad fiscal, a petición del recurrente, recabará las pruebas que obren en el expediente en que se haya originado el acto impugnado, siempre que el interesado no hubiere tenido oportunidad de obtenerlas.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
-En el caso de que no se acompañen al escrito de interposición del recurso los documentos a que se refiere la fracción IV de este artículo, se tendrán por no ofrecidas las pruebas respectivas. Cuando no se acompañen alguno de los documentos a que se refieren las demás fracciones de este precepto, la autoridad fiscal requerirá al promovente para que en el plazo de cinco días los presente, su falta de presentación dará lugar a que se tenga por no interpuesto el recurso.
+Cuando no se acompañe alguno de los documentos a que se refiere este precepto, la autoridad fiscal requerirá al promovente para que en el plazo de cinco días los presente y, en caso de que no lo haga, se tendrán por no ofrecidas las pruebas o, si se trata de los documentos mencionados en las fracciones I a III, se tendrá por no interpuesto el recurso.
 
 ###### Artículo 124.
 
@@ -1835,6 +1873,10 @@ El recurrente podrá decidir esperar la resolución expresa o impugnar en cualqu
 ###### Artículo 132.
 
 La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad la facultad de invocar hechos notorios; pero cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de dicho punto.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
+La autoridad podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso. Igualmente podrá revocar los actos administrativos cuando advierta una ilegalidad manifiesta y los agravios sean insuficientes, pero deberá fundar cuidadosamente los motivos por los que consideró ilegal el acto y precisar el alcance de su resolución.
 
 No se podrán revocar o modificar los actos administrativos en la parte no impugnada por el recurrente.
 
@@ -2436,11 +2478,11 @@ II. Se trate de bienes de fácil descomposición o deterioro, o de materiales in
 
 III. Se trate de bienes que habiendo salido a remate por lo menos en dos almonedas, no se hubieran presentado postores.
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 ###### Artículo 193.
 
-En el supuesto señalado en la fracción III del artículo anterior, las autoridades fiscales podrán hacer la enajenación directamente o en comendarla (sic) a empresas o instituciones dedicadas a la compraventa o subasta de bienes, considerando el precio que se determine de conformidad con el artículo 175 de este Código.
+En el supuesto señalado en la fracción III del artículo anterior, las autoridades fiscales podrán hacer la enajenación directamente o encomendarla a empresas o instituciones dedicadas a la compraventa o subasta de bienes, considerando como precio base, el que se haya fijado para el remate en la última almoneda en que no se presentaron postores.
 
 ###### Artículo 194.
 
@@ -2630,9 +2672,9 @@ VI. La expresión de los agravios que le cause el acto impugnado.
 
 VII. El nombre y domicilio del tercero interesado, cuando lo haya.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
-Cuando no se haga alguno de los señalamientos anteriores, el magistrado instructor requerirá mediante notificación personal al demandante para que en el plazo de cinco días proporcione los datos omitidos, apercibiéndole que de no hacerlo en tiempo se tendrá por no presentada la demanda.
+Cuando se omitan los datos previstos en las fracciones I, II, III y VII el magistrado instructor requerirá mediante notificación personal al demandante para que los proporcione en el plazo de cinco días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la demanda.
 
 ###### Artículo 209.
 
@@ -2660,9 +2702,9 @@ VII. Las pruebas documentales que ofrezca.
 
 Cuando las pruebas documentales no obren en poder del demandante o cuando no hubiera podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, éste deberá señalar el archivo o lugar en que se encuentren para que a su costa se mande expedir copia de ellos o se requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos y tratándose de los que pueda tener a su disposición, bastará con que acompañe copia de la solicitud debidamente presentada. Se entiende que el demandante tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias. En ningún caso se requerirá el envío de un expediente administrativo.
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
-Cuando no se adjunten a la demanda los documentos a que se refieren las fracciones V a VII de este artículo, se tendrán por no ofrecidas las pruebas respectivas. En los demás casos, el magistrado instructor requerirá mediante notificación personal al demandante para que presente las copias o documentos de que se trate en el plazo de cinco días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la demanda.
+Cuando no se adjunten a la demanda los documentos a que se refiere este precepto, el magistrado instructor requerirá, mediante notificación personal al demandante, para que los presenten en el plazo de cinco días, apercibiéndolo de que de no hacerlo se tendrán por no ofrecidas las pruebas respectivas, o si se trata de los previstos en las fracciones I a IV, se tendrá por no presentada la demanda.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -2940,6 +2982,10 @@ Si el proyecto del magistrado instructor no fue aceptado por los otros magistrad
 
 Las sentencias del Tribunal Fiscal se fundarán en derecho y examinarán todos y cada uno de los puntos controvertidos del acto impugnado, teniendo la facultad de invocar hechos notorios.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
+Las Salas podrán corregir los errores que adviertan en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios y causales de ilegalidad, así como los demás razonamientos de las partes, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en la demanda y en la contestación.
+
 No se podrán anular o modificar los actos de la (sic) autoridades administrativas no impugnados de manera expresa en la demanda.
 
 ###### Artículo 238.
@@ -3050,8 +3096,6 @@ Al recibirse el recurso se designará al magistrado instructor, el que admitirá
 
 #### Sección Cuarta. De la Revisión Fiscal
 
-> <small>N. DE E. PARA LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO REMITIRSE AL ARTICULO UNICO TRANSITORIO DEL DECRETO DE REFORMAS EN CITA.</small>
-
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 250.
@@ -3094,7 +3138,9 @@ La lista a que se refiere este artículo contendrá nombre de la persona, expedi
 
 Las notificaciones que deban hacerse a las autoridades administrativas se harán siempre por oficio o por vía telegráfica en casos urgentes.
 
-Las notificaciones de sentencia definitiva, además de efectuarse a los órganos representativos de la autoridad demandada, se notificarán al titular de la Secretaría de Estado, Departamento Administrativo u organismo descentralizado, precisamente en su sede.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
+La notificación de la sentencia definitiva, así como la de las resoluciones de las Salas Regionales que decreten o nieguen sobreseimientos, además de efectuarse a los órganos representativos de la autoridad, se harán al titular de la Secretaría de Estado, Departamento Administrativo u organismo descentralizado, precisamente en su sede.
 
 ###### Artículo 255.
 
@@ -3233,3 +3279,29 @@ La presente Ley entrará en vigor el día 1o. de enero de 1984.
 ###### ARTICULO SEGUNDO.
 
 Las autoridades fiscales por el año de 1984 no determinarán presuntivamente la utilidad fiscal de los contribuyentes, así como el valor de los actos o actividades por los que deban pagar contribuciones, cuando los contribuyentes no lleven procedimientos de control de inventarios o los lleven en forma distinta a lo establecido por las disposiciones fiscales.
+
+D.O.F. 31 DE DICIEMBRE DE 1984.
+
+Disposición Transitoria
+
+###### ARTICULO SEGUNDO.
+
+Las disposiciones de los artículos 30 y 67 del Código Fiscal de la Federación, relativas al plazo de diez años para la conservación de documentación y la contabilidad, así como para la extinción de las facultades de las autoridades fiscales, no serán aplicables a los ejercicios que se iniciaron antes del 1o. de enero de 1985.
+
+Disposiciones con Vigencia Durante el año de 1985
+
+###### ARTICULO TERCERO.
+
+Durante el año de 1985 se aplicarán respecto del Código Fiscal de la Federación, las siguientes disposiciones:
+
+I. Para los efectos del primer párrafo de la fracción I del artículo 41 del Código Fiscal de la Federación, la cantidad que conforme a dicha disposición las autoridades fiscales determinen en el año de 1985, como pago provisional a cargo de los obligados, se incrementará con la que resulte de aplicar a la misma el factor de 0.55.
+
+II. Para los efectos del segundo párrafo del artículo 70 del Código Fiscal de la Federación, se establece el factor de 1.25 que se aplicará a partir del 1o. de julio de 1985.
+
+## TRANSITORIO
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CODIGO.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1985...
