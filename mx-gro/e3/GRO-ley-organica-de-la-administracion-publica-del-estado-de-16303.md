@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-administracion-publica-del-estado-de-16303"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-10-12"
-last_updated: "1999-10-12"
+last_updated: "2000-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE GUERRERO NUMERO 433
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 12 de octubre de 1999.
 
@@ -163,9 +163,11 @@ Los Titulares de las dependencias y entidades a que se refiere esta Ley, podrán
 
 Para la eficiente atención y despacho de los asuntos de su competencia, las dependencias del Ejecutivo podrán contar con órganos administrativos desconcentrados, que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia, dentro del ámbito territorial que se determine en cada caso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 13.
 
-El Gobernador del Estado también podrá contar con las unidades necesarias para administrar programas prioritarios de Gobierno, atender los aspectos de comunicación social, hacer el seguimiento de los programas, dictar acciones para el fortalecimiento municipal, así como para establecer las medidas de coordinación de los servicios de apoyo técnico y logístico que requiera.
+El Gobernador del Estado también podrá contar con las unidades necesarias para administrar programas prioritarios de gobierno, hacer el seguimiento de los programas, dictar acciones para el fortalecimiento municipal, así como para establecer las medidas de coordinación de los servicios de apoyo técnico y logístico que requiera.
 
 Asimismo, autorizará la creación, transferencia, fusión o supresión de unidades administrativas internas o regionales, de las distintas dependencias y entidades, para el adecuado despacho de los asuntos públicos.
 
@@ -209,7 +211,9 @@ Para el estudio, planeación y despacho de los asuntos en los diversos ramos de 
 
 I.- Secretaría General de Gobierno;
 
-II.- Secretaría de Planeación y Presupuesto;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
+II.- Secretaría de Desarrollo Social;
 
 III.- Secretaría de Finanzas y Administración;
 
@@ -217,13 +221,15 @@ IV.- Secretaría de Desarrollo Urbano y Obras Públicas;
 
 V.- Secretaría de Seguridad Pública y Protección Ciudadana;
 
-VI.- Secretaría de Desarrollo Social;
+VI.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 2000);
 
 VII.- Secretaría de Educación Guerrero;
 
 VIII.- Secretaría de Salud;
 
-IX.- Secretaría de Desarrollo Económico y Trabajo;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
+IX.- Secretaría de Desarrollo Económico;
 
 X.- Secretaría de Fomento Turístico;
 
@@ -305,7 +311,13 @@ XXVI.- Organizar los actos cívicos del Gobierno del Estado, en cumplimiento al 
 
 XXVII.- Administrar y publicar el Periódico Oficial del Gobierno del Estado;
 
-XXVIII.- Participar en la formulación, regulación y conducción de la política de comunicación social del Gobierno del Estado y las relaciones con los medios masivos de información;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
+XXVIII.- Atender la formulación, regulación y conducción de la política de comunicación social del Gobierno del Estado y las relaciones con los medios masivos de información;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
+XXVIII bis.- Establecer y conducir las políticas de las estaciones de radio y televisión propiedad del Gobierno del Estado y vincularlas a las políticas y programas de bienestar social, atendiendo los principios contenidos en los artículos 3o. y 9o. de la Constitución Política de los Estados Unidos Mexicanos;
 
 XXIX.- Realizar las tareas de ingeniería de transporte y de señalización de la vialidad en el Estado;
 
@@ -317,45 +329,67 @@ XXXII.- Regular la concesión y explotación del servicio público de transporte
 
 XXXIII.- Reestructurar y autorizar, previo estudio, las tarifas del servicio público de transporte, sujeto a permiso o concesión del Gobierno del Estado, conjuntamente con la Secretaría de Finanzas y Administración;
 
-XXXIV.- Establecer y operar un sistema de seguimiento de los programas federales relativos al Estado, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado; y
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
 
-XXXV.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
+XXXIV.- Ejercer las atribuciones que en materia de trabajo y empleo competen al Gobierno del Estado, procurando armonizar los intereses de los obreros y los patrones y cuidando que éstos colaboren en los programas de producción y productividad;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
+XXXV.- Conducir la relación del Poder Ejecutivo con las Juntas Locales de Conciliación y Arbitraje y proporcionarles el apoyo material que requieran, así como representar al Gobierno del Estado en las comisiones respectivas que establecen la legislación laboral;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
+XXXVI.- Vigilar el cumplimiento de las normas relativas a la capacitación y adiestramiento de los trabajadores, así como en materia de seguridad e higiene en el trabajo en concordancia con las leyes laborales;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
+XXXVII.- Proporcionar elementos técnicos de asesoría y defensa jurídica a los trabajadores y sindicatos, en concordancia con las leyes laborales;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
+XXXVIII.- Establecer y operar un sistema de seguimiento de los programas federales relativos al Estado, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado de Guerrero; y
+
+XXXIX.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 21.
 
-La Secretaría de Planeación y Presupuesto, es el órgano encargado de dirigir la planeación, programación, presupuestación, seguimiento y evaluación de las actividades del Poder Ejecutivo para el desarrollo estatal, sectorial y regional, y le corresponde el despacho de los asuntos siguientes:
+La Secretaría de Desarrollo Social, es el órgano encargado de formular, coordinar y evaluar la política general de desarrollo social en la Entidad, y le corresponde el despacho de los asuntos siguientes:
 
-I.- Fijar y conducir la política para la instrumentación del proceso de planeación, programación, presupuestación, seguimiento y evaluación de las acciones del Gobierno en sus niveles Estatal, Sectorial y Regional;
+I.- Coordinar las acciones que incidan en el abatimiento de los niveles de pobreza y fomente un mejor nivel de vida de la población;
 
-II.- Establecer el Sistema Estatal de Planeación, que coordine la formulación de programas y proyectos, así como la realización de acciones para la modernización económica del Estado y elevar el bienestar de los guerrenses (sic);
+II.- Diagnosticar la problemática sectorial y regional a fin de proponer alternativas de solución y acciones para retroalimentar los programas anuales y especiales de gobierno;
 
-III.- Detectar, captar y diagnosticar la problemática local de cada sector económico y social en las regiones del Estado, a fin de proponer alternativas de solución y acciones para retroalimentar los programas anuales y especiales de gobierno;
+III.- Integrar y mantener actualizado el Sistema Estatal de Información geográfica, histórica, cultural y socioeconómica de la Entidad;
 
-IV.- Establecer la coordinación entre los tres niveles de gobierno para planear, programar, presupuestar, seguir y evaluar los programas de desarrollo estatal;
+IV.- Promover la creación de Comités de Desarrollo Comunitario, a fin de dar cauce legal a la participación ciudadana en la identificación, ejecución, seguimiento y evaluación de proyectos que incidan en el desarrollo estatal;
 
-V.- Promover la participación de los sectores social y privado en la elaboración de propuestas, planes, programas y acciones de gobierno;
+V.- Promover la participación de los sectores social y privado en el diseño e instrumentación de políticas públicas para el desarrollo de la Entidad;
 
-VI.- Concentrar, validar y clasificar los programas operativos anuales de las dependencias y entidades para formular el Programa-Presupuesto de Inversión de la Administración Pública Estatal, así como autorizar las transferencias de los recursos financieros programados para las entidades paraestatales, con base en los techos financieros establecidos por la Secretaría de Finanzas y Administración;
+VI.- Coordinar, concertar y ejecutar programas y proyectos especiales para el desarrollo social y productivo de la Entidad que garanticen una mejoría en los niveles de vida de los grupos de población más desprotegidos, con la participación que corresponda a las dependencias y entidades de la administración pública estatal, federal y municipal, así como la de los sectores social y privado;
 
-VII.- Proponer, para la aprobación y autorización del Ejecutivo, el presupuesto global, regional y sectorial del Gobierno del Estado, orientado a cumplir las prioridades marcadas en el Plan Estatal de Desarrollo;
+VII.- Coordinar la operación de programas para que la participación ciudadana se encauce hacía la realización de proyectos, obras y acciones de beneficio colectivo;
 
-VIII.- Analizar, dictaminar y autorizar las modificaciones y transferencias programáticas y presupuestales extraordinarias del presupuesto de inversiones, contando con la aprobación del Gobernador del Estado;
+VIII.- Establecer, coordinar y operar los programas de atención para la comunidad de guerrerenses que radican fuera del Estado, definiendo vínculos de comunicación y coordinación permanente, principalmente con los que residen en el extranjero;
 
-IX.- Planear, coordinar y evaluar los programas de inversión pública de las dependencias y entidades del Poder Ejecutivo, así como autorizar el ejercicio del presupuesto de inversión y emitir las órdenes de pago correspondientes;
+IX.- En coordinación con la Secretaría de Educación Guerrero, organizar y operar el Sistema Estatal de Becas del Gobierno del Estado;
 
-X.- Coordinar y vigilar el cumplimiento de los programas establecidos por las dependencias y entidades Federales y del Estado, vinculados a la realización de obras y servicios públicos que permitan un mayor desarrollo y progreso de las regiones de la Entidad;
+X.- Coordinar a las Unidades y Entidades de la Administración Pública Estatal, en la elaboración, ejecución y evaluación de sus programas, tomando en cuenta una perspectiva de género, eliminando cualquier forma de discriminación a grupos sociales marginados, mujeres, jóvenes, adolescentes, niñas y niños, con pleno respeto a sus derechos humanos;
 
-XI.- Integrar y mantener actualizado el Sistema Estatal de Información geográfica, histórica, cultural y socioeconómica de la Entidad;
+XI.- Coordinar las entidades paraestatales, órganos administrativos desconcentrados y establecimientos públicos de bienestar social, relacionados con la planeación del desarrollo estatal, la asistencia social y de fomento al sector social empresarial;
 
-XII.- Diseñar, instrumentar y operar mecanismos de coordinación y administración, que permitan llevar el seguimiento del Plan Estatal de Desarrollo, en sus aspectos programático y presupuestal;
+XII.- Promover la construcción de obras de infraestructura y equipamiento para el bienestar social en coordinación con las dependencias y entidades de la administración pública federal y municipal y con la participación de los sectores social y privado;
 
-XIII.- Coordinar y operar los diversos programas y proyectos especiales que se realicen para el desarrollo del Estado, previa autorización del Titular del Ejecutivo Estatal;
+XIII.- Establecer y operar un sistema de coordinación, seguimiento y evaluación de los programas federales relacionados con los asuntos de su competencia, en el marco del Comité de Planeación para el Desarrollo del Estado de Guerrero y conforme a lo que las leyes y acuerdos de coordinación establezcan;
 
-XIV.- Promover, la creación de comités de desarrollo comunitario, para la identificación, ejecución, seguimiento y evaluación de proyectos que incidan en el desarrollo estatal;
+XIV.- Desarrollar las relaciones de comunicación, coordinación y colaboración con las delegaciones y representaciones de las dependencias y entidades de la Administración Pública Federal cuyo ámbito de competencia sea coincidente;
 
-XV.- Establecer y operar un sistema de seguimiento y evaluación de los programas federales relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado; y
+XV.- Promover, coordinar y operar programas de distribución, comercialización y abasto de productos de consumo básico en beneficio de la población de escasos recursos, con la participación que corresponda a dependencias y entidades de la administración pública federal, estatal y municipal;
 
-XVI.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+XVI.- Instrumentar el sistema estatal de abasto, garantizando el suministro de básicos a la población de zonas marginadas y rurales, en coordinación con las dependencias federales del sector; y
+
+XVII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 22.
 
@@ -363,7 +397,9 @@ La Secretaría de Finanzas y Administración es el órgano encargado de la Admin
 
 I.- Elaborar y proponer al Ejecutivo, los proyectos de leyes, reglamentos, presupuestos y demás disposiciones de carácter general que se requieran para el manejo de los asuntos financieros, tributarios y de recursos humanos y materiales del Estado;
 
-II.- Proyectar y calcular los ingresos del Gobierno del Estado, considerando las necesidades del gasto público estatal, que prevea la Secretaría de Planeación y Presupuesto, así como definir y operar los mecanismos de financiamiento de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
+II.- Proyectar y calcular los ingresos del Gobierno del Estado considerando las necesidades del gasto público estatal, así como definir y operar los mecanismos de financiamiento de la administración pública estatal;
 
 III.- Recaudar los impuestos, derechos, productos y aprovechamientos que correspondan al Estado;
 
@@ -372,6 +408,10 @@ IV.- Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones de
 V.- Ejercer las atribuciones derivadas de los convenios fiscales que celebre el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público del Gobierno Federal y con los Municipios del Estado;
 
 VI.- Presentar al Ejecutivo el Proyecto de Ley de Ingresos y el Proyecto de Decreto del Presupuesto Anual de Egresos en sus presentaciones global y sectorial para cumplir las prioridades definidas en el Plan Estatal de Desarrollo, y la Cuenta Pública del Gobierno del Estado;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
+VI bis.- Proponer, para la aprobación y autorización del Ejecutivo, el presupuesto global, regional y sectorial del Gobierno del Estado, orientado a cumplir las prioridades marcadas en el Plan Estatal de Desarrollo;
 
 VII.- Vigilar la actualización permanente del Padrón Fiscal de Contribuyentes;
 
@@ -401,7 +441,13 @@ XIX.- Formular mensualmente los estados financieros de la Hacienda Pública, pre
 
 XX.- Efectuar la glosa preventiva de los ingresos y egresos, así como solventar las observaciones que sobre la materia finque la Legislatura Local;
 
-XXI.- Concentrar, integrar y elaborar la Cuenta Pública Anual y el Presupuesto de Egresos, con la participación que corresponda a la Secretaría de Planeación y Presupuesto y a la Contraloría General;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
+XXI.- Concentrar, integrar y elaborar la Cuenta Pública Anual y el Presupuesto de Egresos, considerando las propuestas formuladas en el seno del Comité de Planeación para el Desarrollo del Estado y la Contraloría General del Estado;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
+XXI bis.- Autorizar el ejercicio del presupuesto de inversión y emitir las órdenes de pago correspondientes, así como las transferencias de los recursos financieros programados para las entidades paraestatales, con base en los techos financieros establecidos. También estará facultada para analizar, dictaminar y autorizar las modificaciones programáticas y presupuestales extraordinarias del presupuesto de inversiones, contando con la aprobación del Gobernador del Estado;
 
 XXII.- Efectuar los pagos conforme a los programas y presupuestos aprobados, así como formular mensualmente el estado de origen y aplicación de los recursos financieros del Gobierno del Estado, informando de ello al Titular del Ejecutivo;
 
@@ -471,7 +517,9 @@ XI.- Proyectar, ejecutar, mantener y operar, en su caso, directamente o por adju
 
 XII.- Prestar asesoría a las dependencias y entidades públicas en la realización de obras públicas y demás actividades relacionadas con los asentamientos humanos;
 
-XIII.- Expedir, en coordinación con las Secretarías de Planeación y Presupuesto, de Finanzas y Administración y la Contraloría General del Estado, las bases a que deban sujetarse los concursos para la ejecución de obras en el Estado, así como adjudicar, cancelar y vigilar el cumplimiento de los contratos de obra celebrados por la Administración Pública del Estado;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
+XIII.- Expedir, en coordinación con las Secretarías de Desarrollo Social, de Finanzas y Administración, de Desarrollo Urbano y Obras Públicas y la Contraloría General del Estado, las bases a que deban sujetarse los concursos para la ejecución de obras en el Estado, así como adjudicar, cancelar y vigilar el cumplimiento de los contratos de obra celebrados por la administración pública del Estado;
 
 XIV.- Formular y coordinar los planes y programas específicos para el abastecimiento y tratamiento de aguas, electrificación y servicios de drenaje y alcantarillado;
 
@@ -533,6 +581,10 @@ XXII.- Diseñar e implantar un sistema de selección, reclutamiento, profesional
 
 Asimismo, podrá emitir las normas técnicas relativas a los instrumentos, equipos, instalaciones y recursos en general, que se destinen a los servidores públicos mencionados;
 
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
+XXII bis.- Coordinar las funciones de la Unidad de telecomunicaciones del Gobierno del Estado;
+
 XXIII.- Llevar las estadísticas de seguridad pública, tránsito, readaptación social y protección civil, que correspondan;
 
 XXIV.- Promover el establecimiento de mecanismos para que la sociedad participe en la planeación y supervisión de la seguridad pública;
@@ -543,37 +595,7 @@ XXVI.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 25.
 
-La Secretaría de Desarrollo Social es el órgano encargado de impulsar integralmente los programas de bienestar social, relacionados con la cultura, recreación, alimentación, deporte, radio y la televisión en el Estado, y le corresponde el despacho de los asuntos siguientes:
-
-I.- Formular y coordinar la política de desarrollo cultural, recreativo y deportivo;
-
-II.- Formular, organizar, dirigir y promover programas de rescate, preservación y desarrollo cultural para la identidad guerrerense en todo el Estado;
-
-III.- Levantar y actualizar el inventario del patrimonio arqueológico, histórico y artístico del Estado;
-
-IV.- Coordinar, organizar, dirigir y fomentar el establecimiento de bibliotecas, hemerotecas, casas de cultura y museos en la Entidad;
-
-V.- Coordinar, organizar y operar el Sistema Estatal de Becas Académicas, de Fomento Deportivo y de Creación Cultural del Gobierno del Estado;
-
-VI.- Operar y administrar los Centros Integrales de Convivencia Infantil del Gobierno del Estado y demás espacios recreativos que determine el Titular del Ejecutivo Estatal;
-
-VII.- Formular y coordinar la política de asistencia privada en el Estado de Guerrero, estableciendo de manera permanente, coordinación y comunicación con las instituciones dedicadas a ese objeto social, que operan en la Entidad;
-
-VIII.- Establecer y coordinar los programas de atención para la comunidad de guerrerenses que radican fuera del Estado, definiendo vínculos de comunicación y coordinación permanente, principalmente con los guerrerenses que radican en el extranjero;
-
-IX.- Coordinar la práctica de los deportes en el Estado;
-
-X.- Establecer y conducir la política de las estaciones de radio y televisión propiedad del Gobierno del Estado y vincularlas a las políticas y programas de bienestar social, atendiendo los principios contenidos en los artículos 3o. y 9o. de la Constitución Política de los Estados Unidos Mexicanos;
-
-XI.- Coordinar las entidades paraestatales, órganos administrativos desconcentrados y establecimientos públicos de bienestar social, cuyas actividades correspondan a los programas de esa naturaleza, así como en materia de cultura y recreación;
-
-XII.- Desarrollar las relaciones de comunicación, coordinación y apoyo mutuo con las delegaciones y representaciones de las dependencias y entidades de la Administración Pública Federal cuyo ámbito de competencia corresponda a los programas de bienestar social a su cargo;
-
-XIII.- Promover la participación de los sectores sociales en la elaboración de propuestas, planes y programas de gobierno, las que oportunamente enviará a la Secretaría de Planeación y Presupuesto para los efectos correspondientes;
-
-XIV.- Establecer y operar un sistema de seguimiento de los programas federales conforme a lo que las leyes y acuerdos de coordinación establezcan y en congruencia con el Comité de Planeación para el Desarrollo del Estado; y
-
-XV.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 26.
 
@@ -607,9 +629,29 @@ XIII.- Prestar directamente o a través de otras entidades y órganos, los servi
 
 XIV.- Fomentar la participación de la sociedad en el quehacer educativo;
 
-XV.- Establecer y operar un sistema de seguimiento de los programas federales, relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado; y
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
 
-XVI.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
+XV.- Formular y coordinar las políticas de desarrollo cultural y deportivo;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
+XVI.- Formular, organizar, dirigir y promover programas de rescate, preservación y desarrollo cultural para la identidad guerrerense en todo el Estado;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
+XVII.- Levantar y actualizar el inventario del patrimonio arqueológico, histórico y artístico del Estado;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
+XVIII.- Coordinar, organizar, dirigir y fomentar el establecimiento de bibliotecas, hemerotecas, casas de cultura y museos en la Entidad;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
+XIX.- Coordinar a las entidades, órganos administrativos desconcentrados y establecimientos públicos de bienestar social, cuyas actividades correspondan a la cultura y el deporte;
+
+XX.- Establecer y operar un sistema de seguimiento de los programas federales, relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado; y
+
+XXI.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 27.
 
@@ -637,19 +679,27 @@ X.- Promover las actividades científicas y tecnológicas en el campo de la salu
 
 XI.- Administrar y representar el interés del patrimonio de la beneficencia pública en todo juicio de carácter civil, familiar, mercantil y, en general, de cualquier índole, con la intervención que corresponda a la Contraloría General del Estado;
 
-XII.- Establecer y operar un sistema de seguimiento de los programas federales conforme a lo que las leyes y acuerdos de coordinación establezcan y en congruencia con el Comité de Planeación para el Desarrollo del Estado; y
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
 
-XIII.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
+XII.- Formular y coordinar la política de asistencia privada en el Estado de Guerrero, estableciendo de manera permanente, la coordinación y comunicación con las instituciones dedicadas a ese objeto social, que operan en la Entidad;
+
+XIII.- Establecer y operar un sistema de seguimiento de los programas federales conforme a lo que las leyes y acuerdos de coordinación establezcan y en congruencia con el Comité de Planeación para el Desarrollo del Estado; y
+
+XIV.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 28.
 
-La Secretaría de Desarrollo Económico y Trabajo, es el órgano encargado de planear, regular, promover y fomentar el desarrollo económico, industrial, agroindustrial, minero, artesanal, comercial y de abasto en el Estado, así como de ejercer las atribuciones que en materia de trabajo y empleo competen al Poder Ejecutivo, correspondiéndole el despacho de los asuntos siguientes:
+La Secretaría de Desarrollo Económico es el órgano encargado de planear, regular, promover y fomentar el desarrollo económico, industrial, agroindustrial, minero, artesanal y comercial en el Estado, correspondiéndole el despacho de los asuntos siguientes:
 
 I.- Proponer y aplicar las políticas y programas relativos al fomento de las actividades industriales, agroindustriales, mineras, artesanales, comerciales y de abasto;
 
 II.- Formular y promover programas de fomento a la comercialización de la producción local en el mercado interno y externo;
 
-III.- Coordinar la ejecución de las acciones que, en materia industrial, minera, artesanal, comercial y abasto, contengan los convenios firmados entre los Gobiernos Municipales y el Gobierno del Estado y entre éste y el Gobierno Federal;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
+III.- Coordinar la ejecución de las acciones que, en materia industrial, minera, artesanal y comercial, contengan los convenios firmados entre los gobiernos municipales y el Gobierno del Estado y entre éste y el Gobierno Federal;
 
 IV.- Servir como órgano de consulta y normatividad en materia de desarrollo económico a las dependencias públicas y a los sectores social y privado;
 
@@ -659,7 +709,7 @@ VI.- Promover y apoyar la creación y desarrollo de agroindustrias en el Estado 
 
 VII.- Establecer las políticas para fomentar la producción artesanal de la Entidad y promover su comercialización en el mercado nacional e internacional;
 
-VIII.- Instrumentar el Sistema Estatal de Abasto, garantizando el suministro de básicos a la población de zonas marginadas y rurales, en coordinación con las dependencias federales del sector;
+VIII.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 2000)
 
 IX.- Participar en la planeación y programación de las obras e inversiones tendientes a promover la explotación racional de los recursos minerales del Estado;
 
@@ -673,15 +723,15 @@ XIII.- Coordinar, vigilar, evaluar y dar seguimiento a la organización, funcion
 
 XIV.- Coordinarse con las entidades federales, estatales y municipales, así como con órganos administrativos descentralizados, desconcentrados y fideicomisos, para la promoción, planeación e instrumentación de políticas, programas y estrategias de desarrollo económico integral del Estado;
 
-XV.- Ejercer las atribuciones que en materia de trabajo y empleo competen al Gobierno del Estado, procurando armonizar los intereses de los obreros y los patrones y cuidando que éstos colaboren en los programas de producción y productividad;
+XV.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 2000)
 
-XVI.- Conducir la relación del Poder Ejecutivo con las Juntas Locales de Conciliación y Arbitraje y proporcionarles el apoyo material que requieran, así como representar al Gobierno del Estado en las Comisiones respectivas que establece la legislación laboral;
+XVI.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 2000)
 
 XVII.- Promover el incremento de las oportunidades de empleo, mediante políticas y líneas de acción que impulsen la ocupación en el Estado;
 
-XVIII.- Vigilar el cumplimiento de las normas relativas a la capacitación y adiestramiento de los trabajadores, así como en materia de seguridad e higiene en el trabajo, en concordancia con las leyes laborales;
+XVIII.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 2000)
 
-XIX.- Proporcionar elementos técnicos de asesoría y defensa jurídica a los trabajadores y sindicatos, en concordancia con las leyes laborales;
+XIX.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 2000)
 
 XX.- Establecer y operar un sistema de seguimiento de los programas federales relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado; y
 
@@ -867,7 +917,9 @@ IX.- Operar el Centro de Capacitación y Adiestramiento de la Mujer Guerrerense;
 
 X.- Proporcionar el servicio gratuito de asesoría y defensa de los derechos de la mujer;
 
-XI.- Emitir opinión ante la Secretaría de Planeación y Presupuesto, sobre la elaboración de aquellos programas y proyectos estatales que promuevan la incorporación de la mujer guerrerense al bienestar y a la actividad productiva;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
+XI.- Elaborar y proponer ante la Secretaría de Desarrollo Social, aquellos programas y proyectos estatales que promuevan la incorporación de la mujer guerrerense al bienestar social y a la actividad productiva;
 
 XII.- Establecer y operar un sistema de seguimiento de los programas federales relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado; y
 
@@ -951,9 +1003,13 @@ VI.- Formular recomendaciones en materia de modernización y desarrollo administ
 
 VII.- Coadyuvar en la elaboración e implantación de manuales de organización y de procedimientos para trámites y servicios al público, que impulsen de manera constante la sistematización y simplificación administrativa;
 
-VIII.- Apoyar a las Secretarías de Planeación y Presupuesto y de Finanzas y Administración, en el control y vigilancia de los recursos humanos, financieros y materiales asignados a las diversas dependencias y entidades de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
 
-IX.- Vigilar el proceso de adjudicación de contratos, participando en los actos de apertura de ofertas y fallos, previa revisión y validación de los documentos generados en los procesos, de conformidad con la normatividad aplicable;
+VIII.- Apoyar a la Secretaría de Finanzas y Administración y al COPLADEG, en el control y vigilancia de los recursos humanos, financieros y materiales asignados a las diversas dependencias y entidades de la administración pública estatal;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+
+IX.- Expedir, en coordinación con las Secretarías de Desarrollo Social, Desarrollo Urbano y Obras Públicas y de Finanzas y Administración, las bases a que deban sujetarse los concursos y contratos de la administración pública del Estado para la ejecución de obras y prestación de servicios, vigilando el proceso de adjudicación y cumplimiento de los mismos, cancelando, en su caso, aquellos que la normatividad prevea;
 
 X.- Verificar la congruencia entre el Gasto Público autorizado al Poder Ejecutivo con el presupuesto de egresos ejercido, recomendando medidas de austeridad y racionalización;
 
@@ -1246,3 +1302,23 @@ El Secretario General de Gobierno.
 C. FLORENCIO SALAZAR ADAME.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE DICIEMBRE DE 2000.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Cuando alguna unidad administrativa se reubique, conforme a este Decreto, de una dependencia del Ejecutivo a otra, la transferencia se hará incluyendo al personal a su servicio, tutelado por la Ley de Trabajo de los Servidores Públicos del Estado de Guerrero Número 248, sin perjuicio de sus derechos adquiridos, los recursos presupuestales, el mobiliario, los vehículos, instrumentos, aparatos, maquinaria, archivos, y, en general, el equipo que tales unidades hayan venido usando para la atención de los asuntos que tuvieron encomendados conforme a la ley, con la intervención que corresponda a la Secretaría de Finanzas y Administración y a la Contraloría del Estado.
+
+###### ARTICULO TERCERO.
+
+Los asuntos que con motivo de este decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzando hasta que las unidades administrativas que los tramitan se incorporen a la dependencia que señale este decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+###### ARTICULO CUARTO.
+
+Cuando en este Decreto se dé denominación nueva o distinta a alguna dependencia cuyas funciones estén establecidas por disposición legal anterior u otras leyes especiales, dichas atribuciones se entenderán concedidas a la dependencia que determine este Decreto.
