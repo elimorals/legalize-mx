@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "1999-07-14"
+last_updated: "2000-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2000.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1467,6 +1467,8 @@ En los casos previstos por este artículo, el tribunal dispondrá que el agente 
 
 ### CAPITULO IV. EXTORSION
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 137.
 
 Al que ilegítimamente prive a otro de su libertad se le aplicarán de seis meses a cuatro años de prisión.
@@ -1555,7 +1557,7 @@ Se procederá contra el raptor por querella de la persona ofendida o de su cóny
 
 ###### ARTICULO 146.
 
-Al que por cualquier medio ilícito ejerza coacción sobre una persona para que haga o deje de hacer algo, se le impondrá de seis meses a un año de prisión, sin perjuicio de la sanción aplicable para los demás delitos que resulten.
+Al que por cualquier medio ilícito ejerza coacción sobre una persona para que haga o deje de hacer algo, se le impondrá de diez a quince años de prisión, sin perjuicio de la sanción aplicable para los demás delitos que resulten.
 
 Si el autor de la extorsión obtiene lo que se propuso, la sanción se aumentará hasta en una mitad, sin perjuicio de las demás que resulten aplicables.
 
@@ -2391,9 +2393,11 @@ Los delitos previstos en los artículos 226, 227, 228, 230 y 231 de este Título
 
 Se impondrán de ciento veinte a ciento ochenta días de trabajo en favor de la comunidad y suspensión hasta por tres años o pérdida del derecho de conducir, a quien en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos, maneje un vehículo de motor e incurra en cualquier otra infracción de reglamentos en materia de tránsito de vehículos.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 239.
 
-Al que en la comisión de un delito de los previstos por este Código, maneje o utilice un vehículo de motor sin placas o permiso de circulación visibles, o con documentación que no corresponda a la autorizada oficialmente para dicha circulación, se le incrementará hasta en una quinta parte la sanción que corresponda al delito cometido.
+Al que en la comisión de un delito grave de los previstos por este Código, maneje o utilice un vehículo de motor sin placas o permisos de circulación visibles, o con documentación que no corresponda a la autorizada oficialmente para dicha circulación, se le incrementará hasta en una tercera parte la sanción que corresponda al delito cometido.
 
 ### CAPITULO IX. TRAFICO DE INFLUENCIA
 
@@ -3232,3 +3236,9 @@ PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 6 DE SEPTIEMBRE DE 2000.
+
+PRIMERO.- Túrnese al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículo (sic) 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
