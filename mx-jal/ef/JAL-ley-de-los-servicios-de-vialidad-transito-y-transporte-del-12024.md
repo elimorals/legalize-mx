@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2004-09-16"
+last_updated: "2004-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -2265,6 +2265,10 @@ XV. Estacionarse obstruyendo cochera o estacionamiento exclusivo; y
 
 XVI. Mover o trasladar maquinaria pesada con rodamiento neumático y equipo móvil especial, sin el permiso correspondiente.
 
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2004)</small>
+
+XVII. Transportar un menor de tres años de edad en los asientos delanteros, salvo en los vehículos que no cuenten con asientos traseros, en cuyo caso deberán transportar al menor en asientos de seguridad adecuados a su edad; y (sic)
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Artículo 164.
@@ -2291,7 +2295,9 @@ VIII. Circular sobre la banqueta o estacionarse en la misma, en forma tal, o en 
 
 IX. Conducir vehículo de motor, siendo menor de edad, son (sic) el permiso correspondiente señalado en el artículo 62 de esta ley;
 
-X. Estacionarse en zona prohibida sobre calzadas, avenidas, pares viales o vías rápidas;
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2004)</small>
+
+X. Estacionarse en zona prohibida sobre calzadas, avenidas, pares viales o vías rápidas; asimismo, en las zonas restringidas en los horarios y días que la autoridad determine con el señalamiento correspondiente o con una raya amarilla pintada a lo largo del machuelo o cordón;
 
 XI. No portar en forma visible el gafete de identificación como operador o conductor;
 
@@ -2320,6 +2326,10 @@ XIX. Cambiar de carril sin precaución; y
 > <small>(ADICIONADA, P.O. 13 DE MARZO DE 2003)</small>
 
 XX. A la persona que conduzca un vehículo de motor en ciclo pistas, zonas peatonales, jardines, plazas y pistas para uso exclusivo de peatones, pudiéndose aplicar sanción alternativa, a elección del infractor, consistente en una jornada de trabajo de índole social, en materia de vialidad y tránsito, a no ser que cuente con la autorización respectiva de la autoridad competente para circular por dichas zonas.
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2004)</small>
+
+XXI. Conducir vehículo de motor, haciendo uso de aparatos de telefonía móvil o similar, salvo que se utilicen aditamentos para manos libres.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -2854,5 +2864,25 @@ P.O. 16 DE SEPTIEMBRE DE 2004.
 PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes a su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Dentro de los treinta días que refiere el artículo anterior, el Poder Ejecutivo implementará una campaña de concienciación ciudadana.
+
+TERCERO. El titular del Poder Ejecutivo, en un plazo no mayor a 90 días naturales, deberá realizar las adecuaciones necesarias al Reglamento de la Ley para los Servicios de Vialidad, Tránsito y Transporte, derivadas de las disposiciones del presente decreto.
+
+P.O. 21 DE SEPTIEMBRE DE 2004.
+
+DECRETO NUMERO 20569 QUE REFORMA EL ARTICULO 163 FRACCIÓN XVII Y 164 en la fracción XXI DE LA LEY DE SERVICIOS DE VIALIDAD
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes a su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Dentro de los treinta días que refiere el artículo anterior, el Poder Ejecutivo implementará una campaña de concientización ciudadana.
+
+TERCERO. El titular del Poder Ejecutivo, en un plazo no mayor a 90 días naturales, deberá realizar las adecuaciones necesarias al Reglamento de la Ley para los Servicios de Vialidad, Tránsito y Transporte, derivadas de las disposiciones del presente decreto.
+
+P.O. 21 DE SEPTIEMBRE DE 2004.
+
+DECRETO NUMERO 20571 QUE REFORMA EL ARTICULO 164 FRACCIÓN X DE LA LEY DE SERVICIOS DE VIALIDAD
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes a su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Dentro de los treinta días que refiere el artículo anterior, el Poder Ejecutivo implementará una campaña de concientización ciudadana.
 
 TERCERO. El titular del Poder Ejecutivo, en un plazo no mayor a 90 días naturales, deberá realizar las adecuaciones necesarias al Reglamento de la Ley para los Servicios de Vialidad, Tránsito y Transporte, derivadas de las disposiciones del presente decreto.
