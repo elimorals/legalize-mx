@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1999-08-12"
+last_updated: "1999-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -277,9 +277,11 @@ Las atribuciones del Vice-Presidente y de los Pro-Secretarios serán, respectiva
 
 En caso de ausencia de los Secretarios y de los Pro-Secretarios a una sesión, quien funja como Presidente, designará de entre los Diputados a los que deban desempeñar dichos cargos, solamente durante el desarrollo de esa sesión.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+
 ###### Artículo 22.
 
-Cuando deba verificarse sesión y no concurriere el Presidente ni el Vice-Presidente que deba presidirla, al iniciarse ésta, los Diputados que hubieren concurrido designarán de entre ellos, a un Presidente y a un Vice-Presidente, quienes fungirán solamente en el desarrollo de esa sesión. La elección se hará con las mismas formalidades establecidas por el artículo 17 de esta Ley.
+Cuando deba verificarse sesión y no concurriere el Presidente ni alguno de los Vicepresidentes, al iniciarse ésta, los diputados que hubiesen concurrido designarán de entre ellos, a un Presidente y dos Vicepresidentes, quienes fungirán solamente en el desarrollo de esa sesión. La elección se hará con las mismas formalidades establecidas por el artículo 18 de esta Ley.
 
 Si la situación prevista antes, se presentara en la primera reunión mensual y la ausencia de Presidente y de Vice-Presidente tuviere por motivo la falta de la elección preceptuada por el Artículo 18 ya citado, la elección efectuada en los términos del presente artículo, será válida para todo el mes.
 
@@ -625,11 +627,11 @@ Con la formulación del Reglamento Interior de la Contaduría Mayor de Hacienda.
 
 Corresponde a la Comisión de Responsabilidades, el conocimiento de los asuntos en los que el Congreso deba resolver, erigiéndose en jurado de acusación y de sentencia, conforme a lo preceptuado por el artículo 91 de la Constitución Política del Estado; o en jurado de procedencia, conforme a lo dispuesto por el artículo 93 de la propia Constitución, de acuerdo a los procedimientos que establece el título noveno; así como el conocimiento, estudio y dictamen de los asuntos relacionados con las declaraciones de situación patrimonial.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
 
 ###### Artículo 39.
 
-Corresponde a la Comisión de Educación Pública, el conocimiento de los asuntos que se relacionen con la Educación Pública del Estado y con la Universidad de Guadalajara.
+Corresponde a la Comisión de Educación Pública, el conocimiento de los asuntos que se relacionen con la educación pública del Estado.
 
 ###### Artículo 40.
 
@@ -1039,9 +1041,15 @@ En cualquier sesión a que deban asistir, siempre se destinarán lugares prefere
 
 Siempre se destinará un lugar especial en el Recinto, a los Magistrados del Supremo Tribunal de Justicia, a los Jefes de Departamento e Instituciones Descentralizadas, a los representantes de los Ayuntamientos de la Entidad y a los integrantes de los Cuerpos Diplomáticos y Consular.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+
 ###### Artículo 75.
 
-Solo con acuerdo de la Cámara, se podrá permitir alguna curul a persona que no sea Diputado; pero expresamente y sin necesidad de cumplir con algún requisito, se faculta a los Legisladores Constituyentes de Querértaro que expidieron la Constitución General de la República y a los Constituyentes de Jalisco, que expidieron la Particular del Estado, paz ocupare curules en el Recinto Cameral, sin derecho a voz ni voto. Previo acuerdo de la Cámara se podrá permitir ocupar alguna curul a persona que no sea Diputado.
+Previo acuerdo de la Cámara se podrá permitir ocupar alguna curul a persona que no sea Diputado.
+
+Los ex diputados al Congreso del Estado tendrán derecho, siempre que ningún otro de legislatura anterior les sobreviva, a concurrir a cualesquier sesión pública y ocupar un lugar preferente en el recinto.
+
+Quienes ocupen una curul y fueren ajenos a la legislatura vigente, solo con previo acuerdo de la Asamblea, se les concederá el uso de la voz.
 
 ###### Artículo 76.
 
@@ -1753,7 +1761,7 @@ QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 1997)
 
 (DEROGADO, P.O. 29 DE ABRIL DE 1997)
 
-###### Artículo 187.
+###### Artículo 187
 
 (DEROGADO, P.O. 29 DE ABRIL DE 1997)
 
@@ -1976,5 +1984,19 @@ P.O. 12 DE AGOSTO DE 1999
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 12 DE AGOSTO DE 1999
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE SEPTIEMBRE DE 1999
+
+DECRETO QUE REFORMA ART. 36,
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+DECRETO QUE REFORMA ARTS. 11 Y 12, P.O. 28 DE SEPTIEMBRE DE 1999
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+DECRETO QUE REFORMA ARTS. 22, 39 Y 75, P.O. 28 DE SEPTIEMBRE DE 1999
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
