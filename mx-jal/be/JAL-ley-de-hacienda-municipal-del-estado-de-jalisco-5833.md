@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1998-12-31"
+last_updated: "1999-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,79 +21,29 @@ state: "JAL"
 ---
 # LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
+LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 1999.
 
-Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
+Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
-XICOTENCATL LEYVA MORTERA
+Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
 
-GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, A SUS HABITANTES SABED:
+Enrique Alvarez del Castillo, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber:
 
-QUE LA H. LEGISLATURA DEL ESTADO, ME HA DIRIGIDO PARA SU PROMULGACION, LA SIGUIENTE:
+Que por la Secretaría del H. Congreso del Estado se me ha comunicado el siguiente
 
-LEY:
+DECRETO
 
-LA H. XI LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 27, FRACCIONES I Y XXX DE LA CONSTITUCION POLITICA LOCAL, TIENE A BIEN EXPEDIR LA SIGUIENTE:
+Número 11558. El Congreso del Estado decreta:
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA.
+Ley de Hacienda Municipal del estado de Jalisco
 
 # LIBRO PRIMERO. Disposiciones Preliminares
 
-## TITULO PRIMERO. DE LA ADMINISTRACION PUBLICA ESTATAL
+## TITULO UNICO
 
-### CAPITULO UNICO
-
-DE LA ADMINISTRACION PUBLICA ESTATAL.
-
-###### ARTICULO 1o.
-
-La presente Ley fija la estructura y regula la función administrativa a cargo del Poder Ejecutivo del Estado de Baja California y define las bases de creación y vinculación con la Administración Pública Paraestatal.
-
-###### ARTICULO 2o.
-
-El Ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien tendrá las atribuciones, funciones y obligaciones que le señalan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Baja California y demás Disposiciones Legales aplicables.
-
-###### ARTICULO 3o.
-
-El Gobernador del Estado está facultado para resolver las dudas que surjan sobre la interpretación y aplicación de esta Ley, dictar los Reglamentos y Acuerdos necesarios y, en general, proveer en la esfera administrativa todo lo que estime conveniente para el más exacto y eficaz cumplimiento de sus atribuciones.
-
-Para el despacho de los asuntos que competen al Gobernador del Estado, este funcionario se auxiliará de las Dependencias y Organismos que señala la Constitución Política del Estado, la presente Ley, el Presupuesto de Egresos y demás Disposiciones Legales aplicables.
-
-Para el trámite de los asuntos que merezcan la atención directa del Gobernador del Estado, contará con la Secretaría Particular y las unidades de asesoría, de apoyo técnico y de coordinación que él mismo determine, de conformidad con el Presupuesto de Egresos que se le asigne.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1988)</small>
-
-###### ARTICULO 4o.
-
-Cuando la prestación de servicios públicos o sociales, la explotación de bienes o recursos propiedad del Estado, la investigación científica y tecnológica o la obtención y aplicación de recursos para fines de asistencia o seguridad social, que por su naturaleza y fines requieran ser atendidos de manera especial, el Gobernador del Estado podrá descentralizar sus funciones depositándolas en entidades de la Administración Pública Paraestatal.
-
-Los Organismos Descentralizados, Empresas de Participación Estatal y Fideicomisos que funcionen en el Estado, integran la Administración Pública Paraestatal y serán coordinados por las Dependencias del Ejecutivo, que por acuerdo especial convenga al Gobernador del Estado.
-
-Las Leyes, Decretos o Acuerdos especiales que establecen la creación de las entidades, determinarán claramente sus atribuciones, el grado de autonomía, normas de funcionamiento y las relaciones que deban darse entre éstas y el Poder Ejecutivo.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1988)</small>
-
-###### ARTICULO 5o.
-
-Las Dependencias de la Administración Pública Centralizada y las entidades de la Administración Pública Paraestatal, conducirán sus actividades en forma programada, basándose en las políticas que para el logro de objetivos y prioridades del desarrollo del Estado, establezca el Gobernador en cumplimiento de la Ley Estatal de Planeación.
-
-###### ARTICULO 6o.
-
-El Gobernador del Estado podrá convenir con el Ejecutivo Federal y con los Ayuntamientos de la Entidad, la prestación de servicios públicos, la ejecución de obras o la realización de cualquier otro propósito de beneficio colectivo.
-
-###### ARTICULO 7o.
-
-El Gobernador del Estado podrá decidir cuáles Dependencias del Ejecutivo Estatal deberán coordinarse tanto con las Dependencias y Entidades de la Administración Pública Federal, como con las Administraciones Municipales, para el cumplimiento de cualesquiera de los propósitos a que se refiere el Artículo anterior.
-
-###### ARTICULO 8o.
-
-Los Titulares de las Dependencias a que se refiere esta Ley, ejercerán sus funciones y dictarán las resoluciones que les competen, pudiendo delegar en sus subalternos cualesquiera de sus facultades salvo aquéllas que sean indelegables de acuerdo con la Constitución, las Leyes y los Reglamentos.
-
-###### ARTICULO 9o.
-
-Todas las Leyes, Decretos, Reglamentos y Disposiciones de carácter general que el Gobernador promulgue o expida, deberán ser firmados por el Secretario General de Gobierno; también deberá firmar de conocimiento el encargado del ramo a que el asunto corresponda.
+### CAPITULO I. Disposiciones Generales
 
 ###### Art. 1°.
 
@@ -205,11 +155,7 @@ Los impuestos, contribuciones especiales, derechos, aprovechamientos, participac
 
 Los productos se regularán por las disposiciones legales indicadas en el párrafo anterior o por lo que, en su caso, prevengan los contratos o concesiones respectivas.
 
-### CAPITULO I
-
-DE LA SECRETARIA GENERAL DE GOBIERNO, OFICIALIA MAYOR DE GOBIERNO, PROCURADURIA GENERAL DE JUSTICIA, SECRETARIAS Y DIRECCIONES DEL RAMO.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1988)</small>
+### CAPITULO II. De las Autoridades Fiscales, sus Atribuciones y del Procedimiento Administrativo
 
 ###### ARTICULO 10.
 
@@ -417,9 +363,7 @@ Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin
 
 El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones fiscales, estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados. Dicha reserva, no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los servidores públicos encargados de la administración y la defensa de los intereses fiscales del municipio, a las autoridades judiciales en proceso del orden penal o a los Tribunales competentes que conozcan de pensiones alimenticias.
 
-### CAPITULO II
-
-DE LA COMPETENCIA DE LA SECRETARIA GENERAL DE GOBIERNO.
+### CAPITULO III. De los Sujetos, sus Derechos y Obligaciones
 
 ###### ARTICULO 15.
 
@@ -667,9 +611,7 @@ En los casos de cambio de nombre, denominación o razón social, domicilio o act
 
 Cuando un establecimiento sea objeto de traspaso, simultáneamente al aviso correspondiente, el adquirente deberá cumplir con la obligación de registrarse o empadronarse.
 
-### CAPITULO III
-
-DE LA COMPETENCIA DE LA OFICIALIA MAYOR DE GOBIERNO.
+### CAPITULO IV. Del Nacimiento y Extinción de los Créditos Fiscales
 
 ###### ARTICULO 19.
 
@@ -1173,13 +1115,9 @@ Unicamente el Congreso del Estado, mediante disposición de carácter general, p
 
 # LIBRO SEGUNDO. De los Ingresos
 
-## TITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA CENTRALIZADA
+## TITULO PRIMERO. Impuestos
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE NOVIEMBRE DE 1988)</small>
-
-### CAPITULO IV
-
-DE LA COMPETENCIA DE LA PROCURADURIA GENERAL DE JUSTICIA.
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 26.
 
@@ -1507,11 +1445,7 @@ Los Impuestos se liquidarán y pagarán, de conformidad con las tarifas, tasas o
 
 En el caso de celebrarse convenios entre los gobiernos Estatal y Municipal para la recaudación de los Impuestos establecidos en este título se estará a lo señalado en los convenios respectivos.
 
-### CAPITULO V
-
-DE LA COMPETENCIA DE LA SECRETARIA DE PLANEACION Y FINANZAS.
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1998)</small>
+### CAPITULO II. Impuesto sobre Actividades Comerciales Industriales y de Prestación de Servicios
 
 ###### ARTICULO 34.
 
@@ -1929,11 +1863,7 @@ VIII. Las asociaciones de obreros y campesinos constituidas para la producción 
 
 IX. La enajenación de valores y de títulos de crédito.
 
-### CAPITULO VI
-
-DE LA COMPETENCIA DE LA DIRECCION DE CONTROL Y EVALUACION GUBERNAMENTAL.
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1998)</small>
+### CAPITULO III. Impuesto sobre Diversiones Públicas
 
 ###### Art. 74.
 
@@ -2009,11 +1939,7 @@ I. Los bienes inmuebles en que se exploten diversiones públicas, cuando sean pr
 
 II. El equipo y las instalaciones que se utilicen en la diversión.
 
-### CAPITULO VII
-
-DE LA COMPETENCIA DE LA SECRETARIA DE DESARROLLO SOCIAL.
-
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
+### CAPITULO IV. Impuesto sobre Matanza de Ganado, Aves y otras Especies Animales
 
 ###### Art. 81.
 
@@ -2037,11 +1963,7 @@ El pago de este impuesto se hará en forma anticipada, en la Tesorería Municipa
 
 Los contribuyentes de este impuesto están obligados a efectuar la matanza de animales en los Rastros Municipales o en los lugares que para ese efecto autorice el Presidente Municipal, debiendo dar aviso a la Tesorería Municipal. Asimismo, están obligados a comprobar la propiedad de los animales.
 
-### CAPITULO VIII
-
-DE LA COMPETENCIA DE LA SECRETARIA DE INFRAESTRUCTURA Y DESARROLLO URBANO.
-
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2003)</small>
+### CAPITULO V. Impuesto sobre Posesión y Explotación de Carros Fúnebres
 
 ###### Art. 86.
 
@@ -2067,9 +1989,9 @@ Estarán exentas del pago de este impuesto, las instituciones de asistencia y se
 
 Los contribuyentes de este impuesto, simultáneamente a la presentación de su solicitud de empadronamiento, deberán presentar a la Tesorería Municipal, una relación de las unidades que posean y exploten, así como todos los datos que ésta exija, manifestando las altas y bajas de dichas unidades cuando éstas ocurran.
 
-### CAPITULO IX
+### CAPITULO VI. Del Impuesto Predial
 
-DE LA COMPETENCIA DE LA SECRETARIA DE DESARROLLO ECONOMICO.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 54.
 
@@ -2138,294 +2060,6 @@ LIC. HUGO FELIX GARCIA.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 30 DE NOVIEMBRE DE 1988.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
-
-P.O. 31 DE MARZO DE 1989.
-
-LEY QUE CREA EL INSTITUTO DE CULTURA DE BAJA CALIFORNIA.
-
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
-
-###### ARTICULO PRIMERO.
-
-La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Se deroga la Fracción VIII del artículo 31 de la Ley Orgánica de la Administración Pública del Estado. Se abroga el Capítulo VII con todos sus artículos del Reglamento Interno de la Secretaría de Educación y Bienestar Social del Estado, para suprimir la referencia de la Dirección de Asuntos Culturales y en lo conducente las demás disposiciones que se opongan a lo dispuesto en la presente Ley.
-
-P.O. 31 DE DICIEMBRE DE 1989.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
-
-P.O. 10 DE JULIO DE 1990.
-
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-SEGUNDO.- Los trabajadores de base que prestan servicios a la Procuraduría de Protección al Turista del Estado de Baja California, serán reubicados en la Secretaría de Turismo del Estado con pleno respeto de sus derechos laborales, los trabajadores de confianza, podrán ser reubicados a juicio del titular de la Secretaría.
-
-TERCERO.- Los recursos materiales, financieros y archivos de la Procuraduría de Protección al Turista del Estado de Baja California pasarán a la Secretaría de Turismo del Estado con las formalidades jurídicas y administrativas que procedan.
-
-P.O. 31 DE MAYO DE 1991.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-P.O. 29 DE FEBRERO DE 1992.
-
-###### ARTICULO PRIMERO.
-
-Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Se derogan las disposiciones que contravengan lo dispuesto por las presentes reformas.
-
-P.O. 10 DE OCTUBRE DE 1992.
-
-DECRETO NUMERO 149.
-
-###### ARTICULO PRIMERO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Las atribuciones que en otras leyes, reglamentos o cualquier otro tipo de disposición jurídica, se otorgan a la Secretaría de la Contraloría General del Estado, serán conferidas a la Secretaría de Planeación y Presupuesto, las que ejercerá con base en lo que dispone el presente ordenamiento.
-
-###### ARTICULO TERCERO.
-
-Los asuntos a cargo de la Secretaría de la Contraloría General del Estado que se encontraren pendientes de resolución al momento de entrar en vigor este decreto, serán despachados por la Secretaría de Planeación y Presupuesto, conforme a las atribuciones asignadas por este mismo ordenamiento.
-
-CUARTO.- Los derechos laborales que pudieran verse afectados por virtud de lo dispuesto en el presente decreto, serán respetados conforme a la Ley del Servicio Civil y demás disposiciones legales vigentes.
-
-QUINTO.- Los bienes y recursos con que cuentan la Secretaría de la Contraloría General del Estado, se destinarán al cumplimiento de las atribuciones que a la Secretaría de Planeación y Presupuesto, señala el presente decreto.
-
-SEXTO.- Se derogan todas las disposiciones que se opongan a lo dispuesto por este decreto.
-
-P.O. 10 DE OCTUBRE DE 1992.
-
-DECRETO NUMERO 157.
-
-UNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano Informativo del Gobierno del Estado.
-
-P.O. 8 DE JULIO DE 1994.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
-
-###### ARTICULO SEGUNDO.
-
-Las atribuciones que la Ley de Responsabilidades de los Servidores Públicos confiere a la Secretaría de la Contraloría General del Estado y que se habían conferido a la Secretaría de Planeación y Presupuesto, serán ejercidas por la Dirección de Control y Evaluación Gubernamental.
-
-###### ARTICULO TERCERO.
-
-La Dirección de Control y Evaluación Gubernamental ejercerá en forma coordinada, las atribuciones que la Ley de Presupuesto, Contabilidad y Gasto Público y otros ordenamientos otorgan a la Secretaría de Planeación y Presupuesto y Secretaría de Finanzas.
-
-###### ARTICULO CUARTO.
-
-Los asuntos a cargo de la Secretaría de Planeación y Presupuesto que se encontraren en trámite y pendientes de resolución al momento de entrar en vigor el presente Decreto, serán resueltos por la Dirección de Control y Evaluación Gubernamental, conforme a las atribuciones que por este Decreto se le confieren.
-
-###### ARTICULO QUINTO.
-
-Los bienes y recursos que le fueron transferidos a la Secretaría de Planeación y Presupuesto de la Secretaría de la Contraloría General del Estado para el ejercicio de la fiscalización de la obra pública y de la Dirección de Responsabilidades por Decreto Número 149, de fecha 18 de agosto de 1992 de la Legislatura del Estado y publicado en el Periódico Oficial el 10 de octubre de 1992, se destinará a la Dirección de Control y Evaluación Gubernamental, que se crea mediante el presente Decreto.
-
-P.O. 8 DE NOVIEMBRE DE 1996.
-
-PRIMERO.- Remítase de nueva cuenta al Ejecutivo del Estado el Proyecto de Decreto ratificado que adiciona un segundo párrafo al artículo 16, un tercer párrafo con diez apartados al artículo 19, un último párrafo al artículo 33 y un segundo párrafo al artículo 37 de la Ley General de Bienes del Estado de Baja California, y modifica la fracción VII del artículo 20 de la Ley Orgánica de la Administración Pública del Estado de Baja California, para efectos de su promulgación en un término que no exceda de cinco días conforme al último párrafo del artículo 34 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-SEGUNDO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-TERCERO.- Se derogan las disposiciones que se opongan a las presentes adiciones.
-
-P.O. 21 DE FEBRERO DE 1997.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
-
-P.O. 31 DE DICIEMBRE DE 1997.
-
-###### ARTICULO PRIMERO.
-
-El personal de las dependencias que, en aplicación de esta reforma pase a la Secretaría Jurídica y Prevención Social, en ninguna forma resultará afectado en los derechos que haya adquirido, en virtud de su relación laboral con la administración pública del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Las referencias y atribuciones que en otras leyes y reglamentos, con anterioridad a la entrada en vigor de este decreto se entendían conferidas a la Dirección de Prevención y Readaptación Social, a la Dirección Jurídica del Estado y a la Defensoría de Oficio, se entenderán hechas y otorgadas a la Secretaría Jurídica y Prevención Social.
-
-###### ARTICULO TERCERO.
-
-Para efectos administrativos y presupuestales la Secretaría Jurídica y Prevención Social, recibirá a partir de la vigencia del presente decreto las partidas presupuestales, personal, mobiliario, vehículos, instrumentos, maquinaria, aparatos, archivos y, en general, el equipo que las dependencias afectadas hayan utilizado para la atención de los asuntos de su encargo.
-
-###### ARTICULO CUARTO.
-
-El presente decreto entrará en vigor el día primero de enero de 1998, con el Presupuesto de Egresos del Estado del mismo ejercicio fiscal. Publíquese en el Periódico Oficial, Órgano del Gobierno del Estado.
-
-P.O. 5 DE JUNIO DE 1998.
-
-###### ARTICULO PRIMERO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
-
-###### ARTICULO SEGUNDO.
-
-El personal de las dependencias fusionadas, que en observancia de este Decreto pase a las (sic) Secretaría de Planeación y Finanzas, en ninguna forma resultará afectado en los derechos laborales que haya adquirido, en virtud de su relación con la Administración Pública del Estado. La Secretaría de Planeación y Finanzas en coordinación con las autoridades competentes, establecerá mecanismos para que las percepciones de los trabajadores no sufran menoscabo en los términos de la Ley del Servicio Civil de los Trabajadores de los Poderes del Estado, Municipios e Instituciones Descentralizadas de Baja California.
-
-###### ARTICULO TERCERO.
-
-Las referencias que se hacen o se hagan y las atribuciones que se otorgan en otras leyes, reglamentos, decretos y demás disposiciones legales a las Secretarías de Finanzas y de Planeación y Presupuesto, se entenderán hechas a la Secretaría de Planeación y Finanzas, a partir de la entrada en vigor del presente Decreto.
-
-###### ARTICULO CUARTO.
-
-Los asuntos a cargo de las Secretarías de Finanzas y de Planeación y Presupuesto que se encontraren en trámite y pendientes de resolución al momento de entrar en vigor el presente Decreto, serán resueltos por la Secretaría de Planeación y Finanzas.
-
-###### ARTICULO QUINTO.
-
-Los bienes, recursos e información que las Secretarías de Finanzas y de Planeación y Presupuesto hayan utilizado para la atención de los asuntos de sus respectivas competencias, se destinarán a las funciones que se señalan en el presente Decreto a la Secretaría de Planeación y Finanzas.
-
-###### ARTICULO SEXTO.
-
-El Titular del Poder Ejecutivo dentro de los noventa días siguientes a partir de la vigencia del presente Decreto, expedirá el Reglamento Interior de la Secretaría de Planeación y Finanzas.
-
-En tanto no se expida el Reglamento a que se refiere el párrafo anterior, la Secretaría de Planeación y Finanzas seguirá aplicando los reglamentos interiores vigentes de las Secretarías de Finanzas y de Planeación y Presupuesto.
-
-P.O. 2 DE FEBRERO DE 2001.
-
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-SEGUNDO.- Se abroga el Acuerdo por el que se Crea la Coordinación General de la Política de Desarrollo Social del Ejecutivo, publicado en el Periódico Oficial del Estado, el día 8 de enero de 1993.
-
-TERCERO.- Los asuntos que tienen a su cargo la Coordinación general de la Política de Desarrollo Social del ejecutivo que se encontraren en trámite y pendientes de resolución al momento de entrar en vigor este Decreto, serán resueltos por la Secretaría de Desarrollo Social.
-
-CUARTO.- El personal, los bienes, recursos presupuestales e información que la Coordinación General de la Política de Desarrollo Social del ejecutivo haya utilizado o estén asignados para la atención de los asuntos de su competencia, se destinarán a las atribuciones y funciones de la Secretaría de Desarrollo Social que se crea con este Decreto.
-
-QUINTO.- Las referencias que se hacen o se hagan y las atribuciones que se otorguen en otras leyes, reglamentos, decretos y demás disposiciones legales a la Coordinación General de la Política de Desarrollo Social del Ejecutivo, se entenderán hechas a la Secretaría de Desarrollo Social, a partir de la entrada en vigor del presente Decreto;
-
-SEXTO.- El titular del Poder Ejecutivo, dentro de los noventa días siguientes a partir de la vigencia de este Decreto, expedirá el reglamento Interior de la Secretaría de Desarrollo Social.
-
-P.O. 29 DE JUNIO DE 2001.
-
-PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- Los derechos laborales de los servidores públicos y empleados de la actual Dirección del Trabajo y Previsión Social serán plenamente respetados, adecuando los puestos y nombramientos a las necesidades de la nueva Secretaría del Trabajo y Previsión Social, de conformidad con los reglamentos internos, manuales operativos y convenios laborales celebrados con la organización sindical que, para los objetivos de la nueva estructura administrativa se requieran de acuerdo a esta reforma.
-
-TERCERO.- Los recursos financieros, materiales y humanos, así como los archivos y asuntos en trámite de la Dirección del Trabajo y Previsión Social serán transferidos a la Secretaría del Trabajo y Previsión Social, observando los trámites administrativos y jurídicos que para el efecto disponga la Dirección de Control y Evaluación Gubernamental del Estado.
-
-CUARTO.- Hasta en tanto son reformados para actualizar el nivel de la dependencia, cuando las leyes y reglamentos se refieran a la Dirección del Trabajo y Previsión Social, se entenderá que se alude a la Secretaría del Trabajo y Previsión Social.
-
-QUINTO.- En un lapso de sesenta días naturales a partir de la vigencia de este Decreto, deberán modificarse o expedirse los reglamentos correspondientes para dar operatividad a los órganos de la Secretaría del Trabajo.
-
-SEXTO. Durante el ejercicio fiscal del año 2001, la Secretaría del Trabajo y Previsión Social funcionará con la misma estructura con la que ha venido funcionando la Dirección del Trabajo y Previsión Social, hasta en tanto no se hagan las adecuaciones presupuestales correspondientes.
-
-P.O. 31 DE OCTUBRE DE 2001.
-
-PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- Se otorgará un plazo de noventa días a partir de la entrada en vigor de las presentes reformas, a efecto de que se elabore el reglamento correspondiente y se adecuen todas aquellas normas jurídicas que impliquen impacto alguno en su contenido.
-
-P.O. 22 DE FEBRERO DE 2002.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Las menciones que en otras leyes se hagan a la Secretaría de Desarrollo Económico en torno al sector pesquero, se entenderán hechas a la Secretaría de Fomento Agropecuario.
-
-###### ARTICULO TERCERO.
-
-El Gobernador del Estado por conducto de la dependencia competente hará la entrega-recepción de los recursos humanos y materiales a cargo de la Secretaría de Desarrollo Económico para la atención de las facultades que este Decreto concede a la Secretaría de Fomento Agropecuario.
-
-P.O. 1 DE NOVIEMBRE DE 2002.
-
-UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
-
-P.O. 3 DE ENERO DE 2003.
-
-PRIMERO.- Las presentes reformas y adiciones entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
-
-SEGUNDO.- Las atribuciones que se otorgan en otras Leyes, reglamentos, decretos y demás disposiciones, a la Secretaría de Seguridad Pública en materia de las atribuciones que se adicionan al Artículo 19 de la Ley Orgánica de la Administración Pública del Estado, se entenderán echas (sic) a la Secretaría General de Gobierno, a partir de la entrada en vigor de las presentes reformas.
-
-TERCERO.- El titular del Poder Ejecutivo dentro de los treinta días siguientes a partir de la entrada en vigor de las presentes reformas, deberá realizar las adecuaciones al reglamento interno de la Secretaría de Seguridad Pública y de la Secretaría General de Gobierno.
-
-CUARTO.- El titular del Poder Ejecutivo, por conducto de las dependencias competentes, integrará una comisión intersecretarial, a efecto de realizar la transferencia de los recursos humanos, materiales y presupuestales de la Secretaría de Seguridad Pública a la Secretaría General de Gobierno, para atención de las atribuciones que se le confieren.
-
-P.O. 14 DE FEBRERO DE 2003.
-
-DECRETO NUMERO 147.
-
-PRIMERO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
-
-SEGUNDO.- Las referencias que se hacen o que se hagan y las atribuciones que se otorgan en otras leyes, reglamentos, decretos y demás disposiciones legales, a la Secretaría de Asentamientos Humanos y Obras Públicas, se entenderán hechas a la Secretaría de Infraestructura y Desarrollo Urbano, a partir de la entrada en vigor de las presentes reformas.
-
-TERCERO.- Los asuntos a cargo de la Secretaría de Asentamientos Humanos y Obras Públicas, que se encontraren en trámite y pendientes de resolución al momento de entrar en vigor de las presentes reformas, serán atendidos y resueltos por la Secretaría de Infraestructura y Desarrollo Urbano.
-
-CUARTO.- Los derechos laborales de los servidores públicos y empleados de la Secretaría de Asentamientos Humanos y Obras Públicas, serán plenamente respetados adecuando los puestos y nombramientos a las necesidades de la Secretaría de Infraestructura y Desarrollo Urbano, de conformidad con los reglamentos internos y manuales operativos, que para los objetivos de la nueva estructura administrativa se requieran de acuerdo a estas reformas.
-
-QUINTO.- Los recursos financieros, materiales y humanos, así como los archivos de la Secretaría de Asentamientos Humanos y Obras Públicas, se entenderán que son de la Secretaría de Infraestructura y Desarrollo Urbano, observando los trámites administrativos y jurídicos que para el efecto disponga la Dirección de Control y Evaluación Gubernamental del Estado.
-
-SEXTO.- El titular del Poder Ejecutivo dentro de los noventa días siguientes a partir de la entrada en vigor de las presentes reformas expedirá el reglamento interno de la Secretaría de Infraestructura y Desarrollo Urbano. En tanto no se expida el Reglamento a que se refiere el párrafo anterior, la Secretaría de Infraestructura y Desarrollo Urbano, deberá seguir aplicando el reglamento interno de la Secretaría de Asentamientos Humanos y Obras Públicas.
-
-P.O. 14 DE FEBRERO DE 2003.
-
-DECRETO NUMERO 148.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
-
-SEGUNDO.- Los asuntos que tiene a su cargo la Dirección de Informática de la Secretaría de Planeación y Finanzas que se encontraren en trámite y pendientes de resolución al momento de entrar en vigor este Decreto, serán resueltos por la Dirección General de Informática.
-
-TERCERO.- El personal, los bienes, recursos presupuestales e información que la Dirección de Informática de la Secretaría de Planeación y Finanzas haya utilizado o estén asignados para la atención de los asuntos de su competencia, se destinarán a las atribuciones y funciones de la Dirección General de Informática que se crea con este Decreto.
-
-CUARTO.- Las referencias que se hacen o se hagan y las atribuciones que se otorguen en otras leyes, reglamentos, decretos y demás disposiciones legales a la Dirección de Informática de la Secretaría de Planeación y Finanzas, se entenderán hechas a la Dirección General de Informática a partir de la entrada en vigor del presente Decreto.
-
-QUINTO.- La vigilancia del cumplimiento de las leyes y reglamentos en materia de Transporte Público, el otorgamiento de permisos y concesiones de servicio público para el arrastre, almacenamiento y guarda de vehículos, el control de vehículos accidentados o retenidos por violación de las leyes o reglamentos aplicables, el transporte de pasajeros y de carga, y demás para la prestación de servicios de transporte público, a que se refería el artículo 33 que se reforma, se entiende que corresponden a los ayuntamientos en sus respectivos ámbitos de competencia. Asimismo, las referencias hechas o que se hagan y las atribuciones otorgadas o que se otorguen en la Ley de Tránsito y Transportes del Estado de Baja California, otras leyes, reglamentos y demás disposiciones aplicables, a la Dirección de Tránsito y Transportes del Estado, o a cualquiera de sus unidades administrativas en materia de expedición, canje o revalidación de licencias para conducir vehículos, tarjetas de circulación, Placas o calcomanías del servicio particular y público, así como todos los trámites relacionados con dichos servicios, se entenderán referidos a la Secretaría de Planeación y Finanzas.
-
-SEXTO.- El Titular del Poder Ejecutivo, dentro de los noventa días siguientes a partir de la vigencia de este Decreto, expedirá el Reglamento Interno de la Dirección General de Informática.
-
-P.O. 28 DE OCTUBRE DE 2005.
-
-PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- Los derechos laborales de los servidores públicos y empleados de la actual Dirección General de Ecología serán plenamente respetados, adecuando los puestos y nombramientos a las necesidades de la nueva Secretaría de Protección al Ambiente, de conformidad con los reglamentos internos, manuales operativos y convenios laborales celebrados, para los objetivos que la nueva estructura administrativa requiera de acuerdo a esta reforma.
-
-TERCERO.- Los recursos financieros, materiales y humanos, así como los archivos y asuntos en trámite de la Dirección General de Ecología serán transferidos a la Secretaría de Protección al Ambiente observando los trámites administrativos y jurídicos que para el efecto disponga la Dirección de Control y Evaluación Gubernamental del Estado.
-
-CUARTO.- El Poder Ejecutivo, dentro de los noventa días siguientes contados a partir de la entrada de las presentes reformas, realizará las adecuaciones necesarias a los reglamentos correspondientes para la operatividad de los órganos de la Secretaría de Protección al Ambiente.
-
-QUINTO.- Durante el ejercicio fiscal del año 2005, la Secretaría de Protección al Ambiente funcionará con la misma estructura con la que ha venido funcionando la dirección General de Ecología, hasta que se realicen las adecuaciones presupuestales correspondientes.
-
-P.O. 27 DE OCTUBRE DE 2006.
-
-ÚNICO.- Las presentes reformas entrarán en vigor a partir del primero de marzo del año dos mil siete, previa publicación en el Periódico Oficial del Estado.
-
-P.O. 16 DE MAYO DE 2008.
-
-PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
-
-SEGUNDO.- Las menciones que en otras leyes se hagan a la Secretaría de Fomento Agropecuario en torno al sector pesquero, se entenderán hechas a la Secretaría de Pesca y Acuacultura.
-
-TERCERO.- Dentro de un plazo de sesenta días siguientes a la entrada en vigor de la presente reforma, deberán transferirse los recursos financieros y materiales de la Dirección de Pesca de la Secretaría de Fomento Agropecuario, a la Secretaría de Pesca y Acuacultura, observando los trámites administrativos y jurídicos que para el efecto dispongan la Secretaría de Planeación y Finanzas del Estado, Oficialía Mayor y la Dirección de Control y Evaluación Gubernamental del Estado.
-
-CUARTO.- El personal de la Dirección de Pesca de la Secretaría de Fomento Agropecuario, quedara adscrito a la Secretaría de Pesca y Acuacultura, sin perjuicio de los derechos laborales que hayan adquirido, en virtud de su relación laboral con la administración pública del Estado; lo anterior conforme al procedimiento administrativo que determine la Oficialía Mayor, con la participación de la Dirección de Control y Evaluación Gubernamental del Estado.
-
-QUINTO.- Los archivos y asuntos en trámite de la Dirección de Pesca de la Secretaría de Fomento Agropecuario, serán transferidos a la Secretaría de Pesca y Acuacultura.
-
-SEXTO.- El Titular del Ejecutivo, dentro de los treinta días siguientes a la entrada en vigor de la presente reforma, deberá nombrar al Titular de la Secretaría de Pesca y Acuacultura.
-
-SÉPTIMO.- El Titular del Ejecutivo, dentro de los noventa días siguientes a la entrada en vigor de la presente reforma, deberá expedir el Reglamento Interno de la Secretaría de Pesca y Acuacultura, y hacer las adecuaciones correspondientes al Reglamento Interno de la Secretaría de Fomento Agropecuario.
 
 ###### Art. 92.
 
@@ -2619,9 +2253,9 @@ Las autoridades judiciales o administrativas previamente al remate de inmuebles,
 
 Si del informe apareciese algún crédito fiscal insoluto, la autoridad retendrá del producto del remate la cantidad suficiente a cubrirlo, remitiéndola inmediatamente a la Tesorería Municipal para que ésta extienda y envíe el recibo correspondiente, que será entregado al adquirente del inmueble.
 
-### CAPITULO X
+### CAPITULO VII. Impuesto sobre Transmisiones Patrimoniales
 
-DE LA COMPETENCIA DE LA SECRETARIA DE FOMENTO AGROPECUARIO.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### Art. 112.
 
@@ -2669,7 +2303,9 @@ b) En el acto en que el fideicomitente ceda sus derechos, si entre éstos se inc
 
 XI. La división, liquidación de la copropiedad o de la sociedad conyugal o legal, por lo que se refiere a los excedentes del valor que le correspondería a la porción de cada copropietario o cónyuge;
 
-XII. Las transmisiones de la propiedad realizadas en procedimientos judiciales o administrativos;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 1999)</small>
+
+XII. Las transmisiones de la propiedad realizadas en procedimientos judiciales o administrativos, exceptuándose los casos previstos por el inciso b) de la fracción II del artículo 975 de la Ley Federal del Trabajo, en cuyo caso se les aplicará el factor 0.03 sobre el monto del impuesto de transmisiones patrimoniales que les corresponda pagar;
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
@@ -2807,9 +2443,7 @@ Tratándose de las partes que intervengan en la adquisición de bienes inmuebles
 
 Para enajenar cualquier inmueble o transmitir algún derecho real, el causante deberá presentar comprobante donde se acredite que no existe adeudo por concepto de impuesto predial en la fecha en que se autoricen las escrituras, actos o contratos.
 
-### CAPITULO XI
-
-DE LA COMPETENCIA DE LA SECRETARIA DE TURISMO.
+### CAPITULO VIII. Impuesto sobre Explotación de Semovientes
 
 ###### Art. 124.
 
@@ -2855,9 +2489,7 @@ V. Aves, 20 cabezas; y
 
 VI. Colmenas, 5 unidades.
 
-### CAPITULO XII
-
-DE LA COMPETENCIA DE LA SECRETARIA DE EDUCACION Y BIENESTAR SOCIAL.
+### CAPITULO IX. Impuestos Extraordinarios
 
 ###### Art. 129.
 
@@ -2873,15 +2505,9 @@ En la promoción con que se inicie la creación de un Impuesto Extraordinario, e
 
 El objeto, el sujeto, los responsables solidarios, la base, el pago y demás elementos constitutivos del impuesto, se determinarán en el decreto que en su caso expida el Congreso del Estado.
 
-### CAPITULO XIII
+### CAPITULO I. Disposiciones Generales
 
-DE LA COMPETENCIA DE LA SECRETARIA DE SALUD.
-
-### CAPITULO XIV
-
-DE LA COMPETENCIA DE LA DIRECCION GENERAL DE INFORMATICA.
-
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2003)</small>
+### CAPITULO II. Licencias, Permisos y Registros
 
 #### SECCION PRIMERA. Disposiciones Generales
 
@@ -2893,13 +2519,9 @@ DE LA COMPETENCIA DE LA DIRECCION GENERAL DE INFORMATICA.
 
 #### SECCION QUINTA. De las Tercerías
 
-## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
+## TITULO SEGUNDO. De los Derechos
 
-### CAPITULO XV
-
-DE LA COMPETENCIA DE LA SECRETARIA DEL TRABAJO Y PREVISION SOCIAL.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
+### CAPITULO III. Inspección y Vigilancia
 
 ###### Art. 132.
 
@@ -2945,9 +2567,7 @@ El servidor público que preste algún servicio por el que se cause un derecho, 
 
 En caso de discrepancia acerca de la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio o el desarrollo de una actividad, la consignación del importe fijado por el Tesorero Municipal, en los términos establecidos por las Leyes Fiscales, dará lugar a la prestación de dicho servicio o al desarrollo de la actividad.
 
-### CAPITULO XVI
-
-DE LA COMPETENCIA DE LA DIRECCION DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO.
+### CAPITULO IV. Inspección Sanitaria
 
 ###### Art. 138.
 
@@ -3009,9 +2629,7 @@ Se entiende por vivienda popular, aquella cuyo valor catastral no exceda de vein
 
 Se aplicará una reducción de cuando menos el ochenta por ciento en las cuotas o tarifas para determinar los derechos señalados en el artículo anterior, respecto de las acciones urbanísticas que se realicen en bienes inmuebles afectos al Patrimonio Cultural del Estado, encauzados a su conservación y rehabilitación.
 
-### CAPITULO XVII
-
-DE LA COMPETENCIA DE LA DIRECCION DE RELACIONES PUBLICAS.
+### CAPITULO V. Aseo Público
 
 ###### Art. 148.
 
@@ -3029,9 +2647,7 @@ a) Si es posible controlar los ingresos, mediante declaración que deberá prese
 
 b) Si el pago debe efectuarse a cuota fija, previamente al acto que lo motiva.
 
-### CAPITULO XVIII
-
-DE LA COMPETENCIA DE LA DIRECCION DE COMUNICACION SOCIAL.
+### CAPITULO VI. Agua y Alcantarillado
 
 ###### Art. 150.
 
@@ -3051,11 +2667,7 @@ Las Agencias de Inhumaciones serán solidariamente responsables de los Derechos 
 
 Para los efectos del cobro de los Derechos por este concepto, se entenderá por Establo, Granja y Apiario, lo que sobre el particular señale el Art. 143.
 
-### CAPITULO XIX
-
-DE LA COMPETENCIA DE LA SECRETARIA DE SEGURIDAD PUBLICA.
-
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+### CAPITULO VII. Rastro
 
 ###### Art. 154.
 
@@ -3069,11 +2681,7 @@ Los usuarios que requieran servicios especiales de aseo público en forma consta
 
 Los derechos por aseo público a que se refiere esta Ley, cuando no se presten en forma constante y bajo contrato, deberán pagarse en la Tesorería Municipal previamente a la prestación del servicio. En caso que el servicio se preste en rebeldía del usuario, se le notificará el costo del mismo para que, en un término de cinco días, realice el pago correspondiente.
 
-### CAPITULO XX
-
-DE LA COMPETENCIA DE LA SECRETARIA DE PROTECCION AL AMBIENTE.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2005)</small>
+### CAPITULO VIII. Registro Civil
 
 ###### Art. 157.
 
@@ -3097,11 +2705,7 @@ Los lotes baldíos propiedad de Fraccionamientos legalmente constituidos tendrá
 
 Los fraccionamientos comenzarán a cubrir sus cuotas a partir de la fecha de conexión a la red del Sistema y tendrán la obligación de entregar bimestralmente, a la Tesorería Municipal, una relación de los nuevos posesionarios de lotes para la actualización de su padrón de usuarios. En caso de no cumplirse esta obligación, se suprimirá la bonificación aludida.
 
-### CAPITULO XXI
-
-DE LA COMPETENCIA DE LA SECRETARIA DE PESCA Y ACUACULTURA.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE MAYO DE 2008)</small>
+### CAPITULO IX. Certificaciones
 
 ###### Art. 162.
 
@@ -3129,9 +2733,7 @@ La Autoridad Municipal queda facultada para retener carnes, cuando sea descubier
 
 Igualmente, queda facultada para confiscar carnes no aptas para el consumo humano, las cuales deberán ser incineradas de inmediato.
 
-### CAPITULO I
-
-DE LOS ORGANISMOS DESCENTRALIZADOS.
+### CAPITULO X. Seguridad Pública y Tránsito
 
 ###### Art. 168.
 
@@ -3147,9 +2749,7 @@ Los derechos que las Leyes de Ingresos Municipales fijen por este concepto, debe
 
 Los Oficiales del Registro Civil están obligados, en todos los casos, a consignar en las actas, el lugar y la hora en que se celebre el acto, así como el número del recibo oficial de pago de los derechos causados, cuando éste tenga verificativo en horas extraordinarias o a domicilio.
 
-### CAPITULO II
-
-DE LAS EMPRESAS DE PARTICIPACION ESTATAL.
+### CAPITULO XI. Derechos no Especificados
 
 ###### Art. 171.
 
@@ -3169,17 +2769,13 @@ II. Las que las autoridades municipales asienten en los expedientes de los negoc
 
 III. Los certificados de buena conducta o de insolvencia que expida la autoridad municipal, y que se destinen para realizar trámites relativos a la educación.
 
-### CAPITULO III
-
-DE LOS FIDEICOMISOS.
+### CAPITULO I. Disposiciones Generales
 
 ###### Art. 174.
 
 Los ingresos que por estos conceptos correspondan a los Municipios, se establecerán anualmente en las Leyes de Ingresos correspondientes.
 
-### CAPITULO UNICO
-
-DE LA SECTORIZACION.
+### CAPITULO II. Bienes Muebles e Inmuebles
 
 ###### Art. 175.
 
@@ -3189,7 +2785,7 @@ Causarán los derechos a que se refiere este Capítulo, aquellos otros servicios
 
 Los Derechos que las Leyes de Ingresos Municipales fijen por este concepto, deberán ser cubiertos en la Tesorería o en los lugares que ésta autorice para tal efecto, dentro de los plazos que se señalen.
 
-## TITULO IV. DE LA SECTORIZACION
+## TITULO TERCERO. De los Productos
 
 ### CAPITULO III. Cementerios
 
@@ -3297,6 +2893,8 @@ Quedan comprendidos dentro de este capítulo, los ingresos que obtenga el Erario
 
 Art. 194 bis. Las aportaciones federales para fines específicos que a través de los diferentes fondos le corresponden al Municipio, se percibirán en los términos que establezcan el Presupuesto de Egresos de la Federación, la Ley de Coordinación Fiscal y los convenios respectivos.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 1998)</small>
+
 ###### Art. 193.
 
 Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Municipio por concepto de:
@@ -3335,11 +2933,9 @@ XIII. Otros no especificados.
 
 Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Municipio por concepto de Participaciones Federales y Estatales, de conformidad a lo dispuesto en las Leyes que las concedan y en los convenios que, en su caso, se celebren o se hayan celebrado.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 1998)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 1998)</small>
 
 ## TITULO SEXTO. De las Aportaciones Federales para Fines Específicos
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 1998)</small>
 
 ### CAPITULO UNICO. Del Gasto Público
 
@@ -4601,9 +4197,9 @@ P.O. 28 DE JUNIO DE 1997.
 
 P.O. 9 DE DICIEMBRE DE 1997.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
-Primero.- El presente decreto entrará en vigor en su totalidad, el día primero de enero de 1998, para los municipios de Guadalajara y Zapopan, Jalisco. Para los demás municipios de la entidad, entrará en vigor el día primero de enero de mil novecientos noventa y ocho, salvo las disposiciones relativas al impuesto predial, que entrarán en vigor a partir del día primero de mil novecientos noventa y nueve.
+Primero.- El presente decreto entrará en vigor en su totalidad el día 1º de enero de 1998, para los municipios de Guadalajara y Zapopan. Para Los Municipios de Puerto Vallarta, Tepatitlán de Morelos, Tlaquepaque, Tonalá y Villa Corona, Jalisco, regirán a partir del día 1º de enero de 1998, salvo las disposiciones relativas al impuesto predial que entrarán en vigor el día 1º de enero de 1999. Para los demás municipios de la entidad empezarán a surtir efectos el día 1º de enero de 1998, salvo las disposiciones del impuesto predial que entrarán en vigor el día 1º de enero del año 2000.
 
 Segundo.- Se derogan todas aquellas disposiciones que se opongan a (sic) al presente decreto.
 
@@ -4622,3 +4218,11 @@ P.O. 19 DE FEBRERO DE 1998.
 P.O. 29 DE AGOSTO DE 1998.
 
 ÚNICO. Este decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 31 DE DICIEMBRE DE 1998.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE FEBRERO DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
