@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-del-distrito-federal-15306"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-30"
-last_updated: "2003-09-18"
+last_updated: "2003-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15306&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1999-11-29"
 
 REGLAMENTO DE TRANSITO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE SEPTIEMBRE DE 2003.
+> <small>N. DE E. ESTE REGLAMENTO FUE ABROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE TRANSITO DEL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL EL DIA 30 DE DICIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de noviembre de 1999.
 
@@ -1346,7 +1348,7 @@ VI. Deberán usar casco y anteojos protectores y, los acompañantes en su caso;
 
 VII. Señalar de manera anticipada cuando se vaya a efectuar una vuelta;
 
-VIII. Acatar estrictamente las disposiciones establecidas por el presente Reglamento, y Prohibiciones:
+VIII. Acatar estrictamente las disposiciones establecidas por el presente Reglamento, y Prohibiciones;
 
 IX. Circular en contraflujo o en sentido contrario;
 
@@ -1571,3 +1573,13 @@ G.O. 18 DE SEPTIEMBRE DE 2003.
 PRIMERO.- El presente ordenamiento entrara en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 30 DE DICIEMBRE DE 2003.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Reglamento entra en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se abroga el Reglamento de Tránsito del Distrito Federal, publicado en la Gaceta Oficial el 30 de noviembre de 1999 y sus reformas.
+
+CUARTO.- Las licencias de conducir tipo A, expedidas con anterioridad a la entrada en vigor de este Reglamento mantendrán la vigencia señalada en la misma. A su expiración el particular puede obtener la Licencia de conducir permanente previo pago de los derechos correspondientes.
