@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-los-municipios-del-estado-de-baja-2949"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1994-12-31"
+last_updated: "1995-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE OCTUBRE DE 1995.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1985.
 
@@ -409,6 +409,10 @@ Debe entenderse por diversiones los juegos mecánicos, juegos electrónicos trag
 
 Son causantes de este impuesto las personas físicas, morales o unidades económicas sin personalidad jurídica, que ordinaria o accidentalmente organicen o exploten espectáculos públicos o diversiones, con excepción de patronatos o sociedades de las instituciones educativas que promuevan estas actividades avaladas por la Dirección de la Institución correspondiente.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 1995)</small>
+
+Los sujetos pagarán por concepto de este impuesto el 8% de la entrada bruta que genere el espectáculo correspondiente.
+
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
 Los sujetos por concepto de diversiones, cubrirán el impuesto de la siguiente manera: los eventuales pagarán una cuota por día equivalente al importe de 3 a 10 días de salario mínimo general, a juicio de la autoridad municipal.
@@ -555,13 +559,11 @@ III.- Banqueta: Acera construida de mampostería o concreto o de una combinació
 
 IMPUESTO ADICIONAL.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 1995)</small>
 
 ###### ARTICULO 38.
 
-Sobre el monto de los Impuestos y Derechos que establece esta Ley, excepto Impuesto Predial y sobre adquisición de inmuebles, deberá cubrirse el 30% adicional que será pagado junto con el Impuesto o Derecho principal.
-
-Este ingreso adicional se aplicará preferentemente a la ejecución de obras y servicios públicos.
+Sobre el monto de los impuestos y derechos que establece esta Ley, excepto los impuestos predial, sobre adquisición de inmuebles y sobre diversiones y espectáculos públicos, deberá cubrirse el 30% adicional, que será pagado junto con el impuesto o derecho principal. Este ingreso adicional se aplicará preferentemente a la ejecución de obras y servicios públicos.
 
 ## TITULO SEGUNDO
 
@@ -2117,11 +2119,11 @@ PARTICIPACIONES.
 
 El incumplimiento del Artículo 110, será acrredor (sic) a una sanción de 3 a 50 días salario mínimo.
 
-### CAPITULO PRIMERO
+### CAPITULO SEGUNDO
 
-DISPOSICIONES GENERALES.
+DE LAS ACTIVIDADES COMERCIALES, INDUSTRIALES, MINERAS Y DE PRESTACION DE SERVICIOS.
 
-> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 1994)</small>
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 106-B.
 
@@ -2151,17 +2153,17 @@ La tasa de la contribución especial será el 1.3% sobre la base mencionada en e
 
 Los ingresos que se obtengan por la enajenación de los artículos integrantes de la canasta básica señalados por la Secretaría de Comercio y Fomento Industrial, estarán exentos al pago de la contribución especial.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE JUNIO DE 1991)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 30 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 112.
 
 Los giros que no estén inscritos en el padrón correspondiente o por los que no se hubiera obtenido licencia para su funcionamiento y operen infringiendo los términos de la licencia concedida, serán clausurados por las autoridades fiscales sin perjuicio de las sanciones correspondientes.
 
-### CAPITULO SEGUNDO
+### CAPITULO PRIMERO
 
-DE LAS ACTIVIDADES COMERCIALES, INDUSTRIALES, MINERAS Y DE PRESTACION DE SERVICIOS.
+DISPOSICIONES GENERALES.
 
-> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 1994)</small>
 
 ###### ARTICULO 106-G.
 
@@ -2295,7 +2297,7 @@ Los recargos y gastos de ejecución originados por la falta de pago de un crédi
 
 CONTRIBUCIONES ESPECIALES.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 30 DE JUNIO DE 1991)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE JUNIO DE 1991)</small>
 
 ### CAPITULO TERCERO
 
@@ -2431,15 +2433,15 @@ DURANTE LOS AÑOS DE 1991, 1992 Y 1993 SE APLICARAN LAS TASAS DEL 8%, 6% Y 4% RE
 
 EL PRESENTE DECRETO, SURTIRA EFECTOS A PARTIR DEL DIA PRIMERO DE JULIO DE 1991, PREVIA PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
 
+B.O. 10 DE DICIEMBRE DE 1993.
+
+UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR A PARTIR DEL DIA PRIMERO DE ENERO DE MIL NOVECIENTOS NOVENTA Y CUATRO.
+
 B.O. 31 DE DICIEMBRE DE 1991.
 
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
-
-B.O. 10 DE DICIEMBRE DE 1993.
-
-UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR A PARTIR DEL DIA PRIMERO DE ENERO DE MIL NOVECIENTOS NOVENTA Y CUATRO.
 
 B.O. 10 DE OCTUBRE DE 1994.
 
@@ -2472,3 +2474,9 @@ B.O. 31 DE DICIEMBRE DE 1994.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y cinco, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE OCTUBRE DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
