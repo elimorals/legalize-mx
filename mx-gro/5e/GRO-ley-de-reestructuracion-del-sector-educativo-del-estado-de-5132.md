@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-reestructuracion-del-sector-educativo-del-estado-de-5132
 country: "mx"
 rank: "ley"
 publication_date: "1996-02-16"
-last_updated: "1996-02-16"
+last_updated: "1997-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE REESTRUCTURACION DEL SECTOR EDUCATIVO DEL ESTADO DE GUERRERO NUM. 243
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 16 de febrero de 1996.
 
@@ -89,7 +89,9 @@ III.- Aprobar y publicar su Reglamento Interior de Trabajo, tomando en cuenta la
 
 La Secretaría de Educación (sic) Guerrero, para la Reestructuración Integral del Sector y para el estudio, planeación y despacho de los asuntos de su competencia, contará en su estructura con los Servidores Públicos y las Unidades de Administración siguientes:
 
-Secretario; Subsecretaría de Educación Básica; Subsecretaría de Educación Media Superior y Superior; Subsecretaría de Planeación Educativa; Coordinación General de Administración y Finanzas; Dirección General de Educación Primaria; Dirección General de Educación Superior; Dirección General de Investigación Educativa; Dirección General de Servicios Regionales; Dirección General de Planeación, Programación y Evaluación; Dirección de Planeación-Programación; Dirección de Seguimiento, Control y Evaluación; Dirección de Educación Elemental; Dirección de Educación Secundaria; Dirección de Educación Media Superior; Dirección de Personal; Dirección de Finanzas; Dirección de informática; Dirección de Extensión Educativa; Dirección de Recursos Materiales; Unidad de Organización y Sistemas; Unidad de Contraloría Interna; Unidad de Asuntos Jurídicos; Unidad de Control de Gestión; Consejo Estatal Técnico de la Educación; Consejo Editorial y; Organos Desconcentrados del Sector Educativo, los cuales tendrán las siguientes funciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 1997)</small>
+
+Secretario; Subsecretaría de Educación Básica; Subsecretaría de Educación Media Superior y Superior; Subsecretaría de Planeación Educativa; Coordinación General de Administración y Finanzas; Dirección General de Educación Primaria; Dirección General de Educación Superior; Dirección General de Investigación Educativa; Dirección General de Servicios Regionales; Dirección General de Planeación, Programación y Evaluación; Dirección de Planeación-Programación; Dirección de Seguimiento, Control y Evaluación; Dirección de Educación Elemental; Dirección de Educación Indígena; Dirección de Educación Secundaria; Dirección de Educación Media Superior; Dirección de Personal; Dirección de Finanzas; Dirección de Informática; Dirección de Extensión Educativa; Dirección de Recursos Materiales; Unidad de Organización y Sistemas; Unidad de Contraloría Interna; Unidad de Asuntos Jurídicos; Unidad de Control de Gestión; Consejo Estatal Técnico de la Educación; Consejo Editorial y; Organos Desconcentrados del Sector Educativo, los cuales tendrán las siguientes funciones:
 
 I.- Educación Básica.- Tendrá a su cargo la Coordinación de la Educación Inicial, Preescolar, Primaria, Secundaria, Indígena, Especial, para Adultos, Educación Física y Educación Artística en todas sus modalidades.
 
@@ -216,3 +218,9 @@ El Secretario General de Gobierno.
 C. PROFR. ZOTICO D. GARCIA PASTRANA.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE ENERO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
