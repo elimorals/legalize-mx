@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-del-estado-de-san-luis-7940
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-01"
-last_updated: "2001-07-19"
+last_updated: "2001-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2001.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSI, PUBLICADA EN EL PERIODICO OFICIAL EL 6 DE NOVIEMBRE DE 2001.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de San Luis Potosí, el 1o. de enero de 1988.
 
@@ -1558,3 +1560,13 @@ P.O. 19 DE JULIO DE 2001.
 PRIMERO.- El presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE NOVIEMBRE DE 2001.
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Esta Ley abroga a la Ley de Hacienda para los Municipios del Estado de San Luis Potosí, publicada el día uno de enero de 1988 en el Periódico Oficial del Estado.
+
+TERCERO. A partir de la entrada en vigencia de esta Ley, se derogan todas las disposiciones que se opongan a la misma.
+
+CUARTO. Los ayuntamientos que no cuenten con reglamentos que normen la prestación de los servicios por los que se cobra algún derecho, tendrán tres meses para elaborarlos a partir de la entrada en vigor de esta Ley.
