@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2002-11-23"
+last_updated: "2002-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -355,7 +355,11 @@ XIII.- Llamar al orden al que faltare a él, sea diputado o público asistente, 
 
 XIV.- Solicitar el auxilio de la fuerza pública cuando sea necesario para garantizar el buen funcionamiento del Congreso;
 
-XV.- Firmar con los secretarios las actas de las sesiones y las minutas de leyes y decretos que se aprueben y remitirlas al Ejecutivo para su promulgación, así como también los nombramientos o remociones que haya acordado el Congreso;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+XV.- Firmar con los Secretarios las actas de las sesiones y las minutas de leyes y decretos que se aprueben y remitirlas al Ejecutivo para su promulgación, dentro de los quince días hábiles siguientes a su aprobación, así como también los nombramientos o remociones que haya acordado el Congreso.
+
+La omisión de este requisito ocasionará las sanciones por el incumplimiento, sin afectar la validez del acto;
 
 XVI.- Representar al Congreso en juicio y fuera de él;
 
@@ -366,6 +370,12 @@ XVIII.- Contestar en términos generales, si le da lectura el Gobernador a su In
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2002)</small>
 
 XIX.- Informar al Congreso, en la última sesión ordinaria del Período Ordinario que le correspondió presidir, de las actividades realizadas durante su gestión.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+XX.- Dispensar parcialmente la lectura de dictámenes o documentos, a solicitud de los legisladores en el ejercicio de sus atribuciones, siempre y cuando los diputados tengan conocimiento previo de los mismos. Tratándose de iniciativas extensas, el Presidente podrá conceder la dispensa de su lectura, si el iniciador presenta un resumen sobre la sustancia del asunto.
+
+Invariablemente el texto íntegro motivo de la dispensa se insertará al Diario de los Debates de la Sesión que corresponda.
 
 Los Vicepresidentes auxiliarán al Presidente en el desempeño de sus funciones y lo suplirán en su ausencia en el orden en que hubieren sido electos.
 
@@ -1399,7 +1409,9 @@ VII.- Devolver un dictamen a comisiones;
 
 VIII.- Solicitar la inclusión en el orden del día de algún asunto especial o urgente;
 
-IX.- Dispensar la lectura de dictámenes presentados por las comisiones, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+IX.- Solicitar que, cuando el Presidente haya otorgado la dispensa de la lectura de dictámenes y documentos, se lean éstos por la importancia del asunto.
 
 X.- Hacer proposiciones análogas a las anteriores.
 
@@ -1475,7 +1487,7 @@ Una vez ratificadas las denuncias, la Oficialía Mayor las turnará al President
 
 El procedimiento para la elección de Gobernador interino, provisional o sustituto, en los casos previstos por la Constitución Política del Estado, se sujetará a lo establecido en la misma.
 
-La designación del Presidente de la Comisión Estatal de Derechos Humanos la hará el Congreso de entre una terna propuesta por la Junta de Coordinación Parlamentaria. La remoción la hará a propuesta del (sic) cualquier diputado aprobada por la mayoría de los diputados presentes.
+La designación del Presidente de la Comisión Estatal de Derechos Humanos la hará el Congreso de entre una terna propuesta por la Junta de Coordinación Parlamentaria. La remoción la hará a propuesta del ( sic) cualquier diputado aprobada por la mayoría de los diputados presentes.
 
 ###### Art. 150.
 
@@ -1746,3 +1758,21 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2002.
+
+DECRETO No. 423
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2002.
+
+DECRETO No. 466
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente decreto.
