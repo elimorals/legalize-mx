@@ -4,7 +4,7 @@ identifier: "LRMNYUT"
 country: "mx"
 rank: "ley"
 publication_date: "1950-01-26"
-last_updated: "1950-01-26"
+last_updated: "1972-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=867&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRMNYUT"
 
 LEY QUE DECLARA RESERVAS MINERAS NACIONALES LOS YACIMIENTOS DE URANIO, TORIO Y LAS DEMAS SUBSTANCIAS DE LAS CUALES SE OBTENGAN ISOTOPOS HENDIBLES QUE PUEDAN PRODUCIR ENERGIA NUCLEAR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE ENERO DE 1972.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 26 de enero de 1950.
 
@@ -56,7 +56,7 @@ Los titulares de concesiones mineras, cuando en ejercicio de sus derechos descub
 
 ###### ARTICULO 5°.
 
-El Ejecutivo Federal, o la institución designada al efecto, celebrarán con los concesionarios mencionados en el artículo anterior y en el caso previsto por el mismo, contrato de compraventa para la adquisición del uranio, el torio y las demás substancias de las que puedan obtenerse isótopos hendibles o materias radioactivas que puedan producir energía nuclear a base de conceder un precio razonable, que será fijado en los términos que señale el Reglamento de esta Ley.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL INSTITUTO NACIONAL DE ENERGIA NUCLEAR, D.O.F. 12 DE ENERO DE 1972)
 
 ###### ARTICULO 6°.
 
@@ -64,7 +64,7 @@ Sólo el Ejecutivo Federal, o la institución oficial, designada por éste, podr
 
 ###### ARTICULO 7°.
 
-El Ejecutivo Federal, o la institución oficial que éste designe, podrán autorizar, con los requisitos que fije el Reglamento, la posesión o el empleo de las substancias indicadas en el artículo 1° de esta Ley, y del plutonio Pu-239, siempre que sea para fines exclusivamente terapéuticos, industriales o científicos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL INSTITUTO NACIONAL DE ENERGIA NUCLEAR, D.O.F. 12 DE ENERO DE 1972)
 
 ###### ARTICULO 8°.
 
@@ -123,3 +123,27 @@ La presente Ley entrará en vigor tres días después al de su publicación en e
 Francisco Hernández y Hernández, D.P.- Gustavo A. Uruchurtu, S.P.- Rafael Suárez Ocaña, D. S.- Alfonso Corona del Rosal, S.S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida aplicación y observancia, expido la presente Ley, en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos cuarenta y nueve.- Miguel Alemán.- Rúbrica.- El Secretario de Economía, Antonio Martínez Báez.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Ramón Beteta.- Rúbrica.- El Subsecretario de Bienes Nacionales e Inspección Administrativa, Encargado del Despacho, Hugo Rangel Couto.- Rúbrica.- El Secretario de Salubridad y Asistencia, Rafael Pascasio Gamboa.- Rúbrica.- El Secretario de Gobernación, Adolfo Ruiz Cortines.- Rúbrica.- El jefe del Departamento del Distrito Federal, Fernando Casas Alemán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 12 DE ENERO DE 1972.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrara en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley que crea a la Comisión Nacional de Energía Nuclear de fecha 19 de diciembre de 1955, publicada el 31 de diciembre del mismo año en el "Diario Oficial" de la Federacion y se derogan las demás disposiciones en lo que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Se derogan los artículos 5o. y 7o. de la Ley que declara reservas mineras nacionales los yacimientos de uranio, torio y las demás sustancias de las cuales se obtengan isótopos hendibles que puedan producir energía nuclear, de fecha 31 de diciembre de 1949, publicada en el "Diario Oficial" de la Federación el 26 de enero de 1950.
+
+###### ARTICULO CUARTO.
+
+El Instituto Nacional de Energía Nuclear asumirá las atribuciones que confirieron a la Comisión Nacional de Energía Nuclear los reglamentos legales que ahora se derogan, y la subrogará en todos sus derechos y obligaciones, con intervención de la Secretaría del Patrimonio Nacional en el caso de bienes muebles e inmuebles, equipo e instalaciones.
+
+###### ARTICULO QUINTO.
+
+Los trabajadores al servicio de la Comisión Nacional de Energía Nuclear, pasarán con sus mismos derechos al Instituto Nacional de Energía Nuclear, rigiéndose por las disposiciones legales que actualmente le son aplicables.
