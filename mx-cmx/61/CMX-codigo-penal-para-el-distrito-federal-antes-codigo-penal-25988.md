@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1992-06-11"
+last_updated: "1992-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JULIO DE 1992.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -1289,6 +1289,10 @@ I.- Realice actos contra la independencia, soberanía o integridad de la Nación
 II.- Tome parte en actos de hostilidad en contra de la Nación, mediante acciones bélicas a las órdenes de un Estado extranjero o coopere con éste en alguna forma que pueda perjudicar a México.
 
 Cuando los nacionales sirvan como tropa, se impondrá pena de prisión de uno a nueve años y multa hasta de diez mil pesos;
+
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 1992)</small>
+
+Se considerará en el supuesto previsto en el primer párrafo de esta fracción, al que prive ilegalmente de su libertad a una persona en el territorio nacional para entregarla a las autoridades de otro país o trasladarla fuera de México con tal propósito.
 
 III.- Forme parte de grupos armados dirigidos o asesorados por extranjeros; organizados dentro o fuera del país, cuando tengan por finalidad atentar contra la independencia de la República, su soberanía, su libertad o su integridad territorial o invadir el territorio nacional, aun cuando no exista declaración de guerra;
 
@@ -4927,3 +4931,7 @@ D.O.F. 11 DE JUNIO DE 1992.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE JULIO DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
