@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1952-01-16"
+last_updated: "1953-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE ENERO DE 1952.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE OCTUBRE DE 1953.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -452,11 +452,13 @@ Los extranjeros no podrán de ninguna manera inmiscuirse en los asuntos polític
 
 DE LOS CIUDADANOS MEXICANOS.
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 1953)</small>
+
 ###### Art. 34.
 
-Son ciudadanos de la República todos los que, teniendo la calidad de mexicanos, reúnan, además, los siguientes requisitos:
+Son ciudadanos de la República los varones y las mujeres que, teniendo la calidad de mexicanos, reúnan, además, los siguientes requisitos:
 
-I.- Haber cumplido dieciocho años, siendo casados, o veintiuno si no lo son, y
+I.- Haber cumplido 18 años, siendo casados, o 21 si no lo son, y
 
 II.- Tener un modo honesto de vivir.
 
@@ -1544,21 +1546,17 @@ En demandas del orden civil, no hay fuero ni inmunidad para ningún funcionario 
 
 DE LOS ESTADOS DE LA FEDERACION.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE FEBRERO DE 1947)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE OCTUBRE DE 1953)</small>
 
 ###### Art. 115.
 
-Los Estados adoptarán, para su régimen interior, la forma de gobierno republicano, representativo, popular, teniendo como base de su división territorial y de su organización política y administrativa, el Municipio Libre, conforme a las bases siguientes:
+Los Estados adoptarán, para su régimen interior, la forma de gobierno republicano, representativo, popular, teniendo como base de su división territorial y de su organización política y administrativa, el Municipio Libre conforme a las bases siguientes:
 
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 1933)</small>
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 1953)</small>
 
 I. Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-> <small>(ADICIONADO, D.O.F. 12 DE FEBRERO DE 1947)</small>
-
-En las elecciones municipales participarán las mujeres, en igualdad de condición que los varones, con el derecho de votar y ser votadas.
-
-Los presidentes municipales, regidores y síndicos de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
+Los Presidentes Municipales, regidores y síndicos de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 1933)</small>
 
@@ -2339,3 +2337,7 @@ El Estado de Baja California tiene la extensión y límites que tenía el Territ
 ###### ARTICULO SEGUNDO.
 
 La presente reforma entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 17 DE OCTUBRE DE 1953.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
