@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1991-01-03"
+last_updated: "1993-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 1991.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 1993.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -255,7 +255,7 @@ II.- Aprobar, reformar, abrogar o derogar leyes y decretos en todos los ramos de
 
 III.- Ejercer el derecho de iniciativa ante el Congreso de la Unión;
 
-IV.- Aprobar leyes en materia de educación, de conformidad con los principios establecidos en el artículo 3º, de la Constitución Política de los Estados Unidos Mexicanos;
+IV.- Aprobar leyes en materia de educación, de conformidad con los principios establecidos en el artículo 3º., de la Constitución Política de los Estados Unidos Mexicanos;
 
 V.- Legislar en materia de preservación y restauración del equilibrio ecológico y protección al ambiente en la esfera de la competencia estatal, estableciendo las bases normativas de concurrencia entre Estado y municipios y los criterios conforme a los cuales se hará efectiva la participación social;
 
@@ -273,11 +273,15 @@ XI.- Legislar en materia de seguridad pública y tránsito;
 
 XII.- Convocar a elecciones en los términos de esta Constitución y demás normas aplicables;
 
-XIII.- Calificar las elecciones de sus miembros y la del Gobernador, declarando electos a quienes resultaren con derecho a ello, en la forma y con el procedimiento que al respecto establezcan ésta Constitución y las leyes de la materia. Sus decisiones serán definitivas e inatacables;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
+
+XIII.- Calificar la elección de Gobernador del Estado en la forma y procedimientos que señale la Ley. Su decisión será definitiva e inatacable;
 
 XIV.- Elegir al ciudadano que deba asumir el cargo de gobernador con el carácter de interino o sustituto, en los casos y términos que esta Constitución prescribe;
 
-XV.- Elegir y tomar protesta a los magistrados del Tribunal Superior de Justicia; a los magistrados del Tribunal de lo Contencioso Administrativo y a los magistrados del Tribunal de lo Contencioso Electoral;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
+
+XV.- Elegir y tomar la protesta a los magistrados del Tribunal Superior de Justicia; a los magistrados del Tribunal de lo Contencioso Administrativo y a los magistrados del Tribunal de Justicia Electoral;
 
 XVI.- Conceder licencia y admitir las renuncias de los diputados; del gobernador; de los magistrados del Tribunal Superior de Justicia y de los demás funcionarios cuya designación competa a la propia Legislatura;
 
@@ -389,7 +393,7 @@ Nunca podrán reunirse dos o más de estas funciones en una persona o grupo de p
 
 El poder Legislativo se deposita en una asamblea que se nombrará Legislatura del Estado, integrada por representantes populares denominados diputados, los que serán electos cada tres años. Por cada diputado propietario se elegirá un suplente.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
 #### SECCIÓN CUARTA. DE LA DIPUTACION PERMANENTE
 
@@ -467,15 +471,13 @@ Corresponde a la Legislatura designar al Contador Mayor de Hacienda.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
-###### ARTICULO 25°.
+###### ARTICULO 25.
 
-La Legislatura del Estado se integrará con 14 diputados electos por el principio de mayoría relativa en distritos electorales uninominales y hasta por siete diputados electos según el principio de representación proporcional.
+La Legislatura del Estado se integrará con el número de diputados electos por los principios de mayoría relativa y de representación proporcional que determine la Ley de la materia.
 
-La Ley señalará la demarcación territorial de los distritos uninominales y determinará la forma y procedimientos a que se sujetarán los partidos políticos para la asignación de los diputados de representación proporcional.
+La demarcación territorial de los distritos uninominales se determinará tomando en cuenta factores geográficos, demográficos y socioeconómicos de las distintas regiones y localidades del Estado.
 
-Ningún partido tendrá derecho a que le sean reconocidos mas de quince diputados de la integración total de la Legislatura.
-
-Los diputados por el principio de mayoría relativa o por el de representación proporcional tienen la misma categoría e iguales derechos y obligaciones.
+Los diputados por el principio de mayoría relativa o por el de representación popular tienen la misma categoría e iguales derechos y obligaciones.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -501,13 +503,11 @@ Los diputados en ejercicio, durante el periodo de su encargo, no podrán desempe
 
 Se exceptúan de ésta prohibición los cargos educativos y asistenciales.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
-###### ARTICULO 28°.
+###### ARTICULO 28.
 
-La Legislatura, constituida en colegio electoral, calificará la elección de sus miembros y la resolución que emita será definitiva e inatacable.
-
-La ley señalará el procedimiento para la integración del colegio y la forma de efectuar la calificación.
+La Legislatura del Estado se constituirá en Colegio Electoral para calificar la elección del Gobernador del Estado.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -789,7 +789,7 @@ Para ser magistrado se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento y en pleno ejercicio de sus derechos;
 
-II.- No tener mas de 65 años de edad ni menos de 35 el día de la designación ;
+II.- No tener mas de 65 años de edad ni menos de 35 el día de la designación;
 
 III.- Tener título de Licenciado en Derecho y 5 años cuando menos de práctica profesional; y
 
@@ -821,7 +821,7 @@ Los jueces del Estado serán nombrados por el Pleno del Tribunal Superior de Jus
 
 Los requisitos para ser Juez, así como las normas que regulen su formación y permanencia, sus atribuciones, competencias y obligaciones, serán los que señalen la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADA SU DENOMINACION, P. O. 28 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 34°.
 
@@ -849,7 +849,7 @@ Este Tribunal residirá en la ciudad de Querétaro y estará integrado por un ma
 
 Los magistrados del Tribunal de lo Contencioso Administrativo serán designados por la Legislatura y deberán satisfacer los mismos requisitos que se exigen a los magistrados del Tribunal Superior de Justicia.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADA SU DENOMINACION, P. O. 28 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 35°.
 
@@ -873,23 +873,23 @@ Las votaciones de las leyes o decretos serán siempre nominales.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
-## TITULO CUARTO. DE LOS TRIBUNALES ADMINISTRATIVOS
+## TITULO CUARTO. DE LOS TRIBUNALES DE LO CONTENCIOSO ADMINISTRATIVO, DE JUSTICIA ELECTORAL Y DE CONCILIACION Y ARBITRAJE
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
-### CAPITULO SEGUNDO. DEL TRIBUNAL DE LO CONTENCIOSO ELECTORAL
+### CAPITULO SEGUNDO. DEL TRIBUNAL DE JUSTICIA ELECTORAL
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
-###### ARTICULO 74°.
+###### ARTICULO 74o.
 
-El Tribunal de lo Contencioso Electoral del Estado es un organismo de carácter administrativo dotado de plena autonomía e independencia que tiene por objeto resolver los recursos en materia electoral que le señale la ley.
+El Tribunal de Justicia Electoral es un órgano jurisdiccional dotado de autonomía y personalidad jurídica que tiene por objeto la resolución de los recursos de su competencia para garantizar que los actos de los organismos electorales se apeguen a la Ley.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
-###### ARTICULO 75°.
+###### ARTICULO 75o.
 
-Este Tribunal se integrará cuando menos por tres magistrados numerarios y los correspondientes supernumerarios que serán designados por la Legislatura a propuesta de los Partidos Políticos en ella representados.
+El Tribunal de Justicia Electoral se integrará por el número de magistrados numerarios y supernumerarios que determine la Ley.
 
 La Ley Electoral establecerá los requisitos que deban satisfacer los magistrados y el procedimiento para la tramitación, integración y sustanciación de los expedientes relativos a los medios de impugnación que deba resolver el Tribunal.
 
@@ -939,27 +939,19 @@ Las personas que por elección indirecta, por nombramiento o por designación de
 
 Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan carácter de suplentes si podrán ser electos para el periodo inmediato como propietarios, a menos que hayan estado en ejercicio.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
-###### ARTICULO 80°.
+###### ARTICULO 80.
 
-El número de regidores que junto con el Presidente Municipal integren los ayuntamientos de cada municipio, será el que demande la eficaz atención de sus servicios públicos; pero no será menor de ocho en el Municipio de Querétaro; seis en los de San Juan del Río y Tequisquiapan, y cuatro en los demás Municipios.
+Los Ayuntamientos del Estado se integrarán con el número de regidores de mayoría relativa y de representación proporcional que determina la Ley.
 
-En el Municipio de Querétaro el ayuntamiento podrá tener cuatro regidores electos por el principio de representación proporcional; los ayuntamientos de San Juan del Río y Tequisquiapan, podrán tener tres; el resto de los ayuntamientos podrán tener dos.
+Los regidores por los principios de mayoría relativa y de representación proporcional tienen la misma categoría e iguales derechos y obligaciones.
 
-Cuando se incremente la población de un municipio en cien mil habitantes, se aumentará un regidor de mayoría relativa y por cada doscientos mil uno de representación proporcional en el ayuntamiento que corresponda.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
-La asignación de regidores de representación proporcional a los Partidos Políticos se hará en los términos de la Ley Electoral.
+###### ARTICULO 81.
 
-Los regidores electos por los principios de mayoría relativa o de representación proporcional tendrán la misma categoría e iguales derechos y obligaciones.
-
-Por cada regidor propietario se elegirá un suplente.
-
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
-
-###### ARTICULO 81°.
-
-Los ayuntamientos resolverán sobre la legalidad de la elección de sus miembros y sus resoluciones serán inatacables.
+La determinación del número de los regidores en cada ayuntamiento se basará en factores geográficos, demográficos y socioeconómicos de cada municipio.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -1265,9 +1257,7 @@ Las cuentas generales del Estado y las Municipales, correspondientes al período
 
 La presente Constitución substituye a la del Estado, promulgada el 16 de septiembre de 1879.
 
-###### Art. 10º.
-
-Se derogan las leyes, decretos y reglamentos vigentes en el Estado, en todo lo que se opongan al cumplimiento de la presente Constitución.
+Art.10º.- Se derogan las leyes, decretos y reglamentos vigentes en el Estado, en todo lo que se opongan al cumplimiento de la presente Constitución.
 
 > <small>(ADICIONADO, P.O. 2 DE JULIO DE 1987)</small>
 
@@ -1277,7 +1267,7 @@ Los diputados que se elijan a la Cuadragésima Novena Legislatura del Estado, du
 
 Dada en el Salón de Sesiones del H. Congreso, en Querétaro, a cuatro de septiembre de mil novecientos diez y siete.- Presidente, LIC. BENITO REYNOSO, 1er. Diputado por la Municipalidad de Querétaro.- Vice-presidente, LIC. ROBERTO NIETO, 1er. Diputado por la Municipalidad de Cadereyta.- JUVENTINO RUIZ ALFARO, Diputado por la Municipalidad de Amealco.- JOSE OROZCO, JR., 2º Diputado por la Municipalidad de Cadereyta.- JOSÉ F. MARROQUIN, 2º Diputado por la Municipalidad de Querétaro.- LIC. LUIS GOMEZ, 3er. Diputado por la Municipalidad de Querétaro.- MARIANO RETANA, 4º Diputado por la Municipalidad de Querétaro.- PEDRO ARGAIN, 2º Diputado suplente por la Municipalidad de San Juan del Río.- EUGENIO MENDOZA, 1er. Diputado por la Municipalidad de Tolimán.- Secretario, DR. CARLOS ALCOCER; 5º Diputado por la Municipalidad de Querétaro.- Secretario, GUILLERMO ALCANTARA, 1er. Diputado por la Municipalidad de San Juan del Río.- Prosecretario, JUAN B. MENDOZA, 3er. Diputado por la Municipalidad de San Juan del Río.- Prosecretario, ISMAEL M. UGALDE, 2º Diputado por la Municipalidad de Tolimán.
 
-Por tanto, mando se imprima, circule y publique por bando solemne, en todo el Estado, para su debido cumplimiento.- Dado en el Palacio de Gobierno, a nueve de septiembre de mil novecientos diez y siete.- El Gobernador Constitucional, ERNESTO PERUSQUIA.- El Srio. General de Gobierno, Lic. J. RODRIGUEZ DE LA FUENTE.
+Por tanto, mando se imprima, circule y publique por bando solemne, en todo el Estado, para su debido cumplimiento.- Dado en el Palacio de Gobierno, a nueve de septiembre de mil novecientos diez y siete.- El Gobernador Constitucional, ERNESTO PERRUSQUIA.- El Srio. General de Gobierno, Lic. J. RODRIGUEZ DE LA FUENTE.
 
 N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.
 
@@ -1625,7 +1615,7 @@ Publíquese la presente ley en el Periódico Oficial del Gobierno del Estado "La
 
 Aprobadas, en su caso, las reformas y adiciones propuestas al texto de la Constitución Política Local la presente ley entrará en vigor al día siguiente de la publicación de la declaratoria que al respecto emita el Congreso.
 
-P.O. 3 DE ENERO DE 1991.
+P.O. 3 DE ENERO DE 1991
 
 ###### ARTICULO PRIMERO.
 
@@ -1642,3 +1632,15 @@ La legislación secundaria deberá adecuarse a las modificaciones incorporadas e
 ###### ARTICULO CUARTO.
 
 Para los efectos de lo dispuesto en el tercer párrafo del artículo 80, de esta Constitución se empezará a contar a partir del censo de 1990.
+
+P.O. 28 DE DICIEMBRE DE 1993
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 28 DE DICIEMBRE DE 1993
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
