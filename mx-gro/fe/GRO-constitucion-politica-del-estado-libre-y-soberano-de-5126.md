@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1929-08-14"
+last_updated: "1930-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1929.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1930.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -173,6 +173,8 @@ La forma de Gobierno del Estado es la Republicana, representativa y popular.
 
 De la división del Poder Público.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 1930)</small>
+
 ###### Artículo 15.
 
 La Capital del Estado es la Ciudad de Chilpancingo de los Bravos, donde deben residir los Poderes del mismo, salvo el caso en que por circunstancias graves acuerde el Congreso su traslación accidental a otro lugar.
@@ -261,7 +263,9 @@ La ley orgánica electoral, reglamentará la materia relativa a elecciones de fu
 
 ###### Artículo 24.
 
-El Poder Público del Estado se divide para su ejercicio en Legislativo, Ejecutivo y Judicial. No se conferirá más de un poder a una sola persona o corporación, ni podrá depositarse el Legislativo en un solo individuo, salvo el caso de facultades extraordinarias al Ejecutivo, por causas excepcionales y graves, conforme a la fracción XVII del artículo 45 de esta Constitución.
+El Poder Público del Estado se divide para su ejercicio: en Legislativo, Ejecutivo y Judicial.
+
+No podrán reunirse dos o más de estos Poderes en una sola persona o Corporación, ni depositarse el Legislativo en un solo individuo, salvo el caso de facultades extraordinarias que para legislar se concedan al Ejecutivo conforme a la fracción XVII del artículo 45 de esta Constitución.
 
 ###### Artículo 25.
 
@@ -431,7 +435,9 @@ XV. Resolver sobre la validez o nulidad de las elecciones de Ayuntamientos, cuan
 
 XVI. Habilitar a los menores de edad, en quienes concurran los requisitos necesarios, para que administren libremente sus bienes.
 
-XVII. Conceder al Ejecutivo por tiempo limitado, a juicio de las dos terceras partes de los miembros de la Cámara, las facultades extraordinarias que necesiten para salvar la situación en los casos de invasión, alteración del orden o de peligro público.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 1930)</small>
+
+XVII. Conceder al Ejecutivo facultades extraordinarias para legislar en algunos de los ramos de la Administración Pública, por tiempo limitado y cuando las circunstancias lo exijan, a juicio de las dos terceras partes de los miembros de la Cámara.
 
 XVIII. Dictar las disposiciones necesarias a efecto de que se verifiquen las elecciones de miembros de la Cámara que hubieran dejado de hacerse.
 
@@ -571,15 +577,23 @@ La elección de Gobernador será directa y en los términos que disponga la ley 
 
 Para ser Gobernador del Estado se requiere:
 
-I. Ser ciudadano mexicano por nacimiento, en el pleno goce de sus derechos, nativo de él o con vecindad no menor de cinco años, inmediatamente anteriores al día de la elección.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 1930)</small>
+
+I. Ser Ciudadano Guerrerense por nacimiento, en pleno goce de sus derechos, e hijo de padres Mexicanos por nacimiento.
 
 II. Tener treinta y cinco años cumplidos al tiempo de ser electo.
 
-III. No pertenecer al estado eclesiástico, ni ser ministro de algún culto.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 1930)</small>
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1922)</small>
+III. No ser ministro de algún culto religioso, ni pertenecer a corporación o asociación del mismo carácter.
 
-IV. No ejercer cargo o empleo alguno de la Federación, ni ser Secretario General de Gobierno del Estado, Subsecretario, Procurador General de Justicia o Magistrado, a menos de haberse separado definitivamente de sus cargos 60 días antes de la fecha en que se verifique la elección.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 1930)</small>
+
+IV. No ejercer cargo alguno de la Federación, ni ser Secretario General del Gobierno del Estado, Sub-Secretario, o Procurador General de Justicia del mismo, a menos de haberse separado definitivamente de sus cargos seis meses antes de la fecha de la elección.
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1930)</small>
+
+V. No estar en servicio activo en el Ejército Nacional, ni en las fuerzas del Estado, seis meses antes del día de la elección.
 
 ###### Artículo 59.
 
@@ -637,7 +651,9 @@ XII. Resolver las dudas que se presenten a los funcionarios o empleados de la ad
 
 XIII. Dar informes al Congreso, cuando ésto lo pidiere, sobre cualquier ramo de la Administración.
 
-XIV. Mandar la terna al Congreso para el nombramiento de Tesorero General.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 1930)</small>
+
+XIV. Dar cuenta del uso que haga de las facultades extraordinarias que se le concedan, conforme al artículo 45, fracción XVII en la tercera sesión del siguiente período ordinario de sesiones del Congreso.
 
 ###### Artículo 65.
 
@@ -673,9 +689,9 @@ XIV. Mandar visitar los Ayuntamientos cuando notare irregularidades, faltas o gr
 
 Las visitas respectivas podrá encomendarlas a comisionados accidentales de reconocida justificación y probidad, los que se sujetarán en todo caso, a las instrucciones que por escrito les diere el Ejecutivo.
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 1923)</small>
+> <small>(REFORMADA P.O. 22 DE ENERO DE 1930)</small>
 
-XV. Nombrar y remover libremente al Secretario de Gobierno, al Procurador General de Justicia, y a los demás empleados que de ambos dependan.
+XV. Nombrar y remover al Secretario General del Gobierno, al Procurador General de Justicia, al Tesorero General y a los demás empleados que de él dependan.
 
 XVI. Conceder o negar licencias a los funcionarios y empleados de su dependencia, con goce de sueldo las que se soliciten con causa justificada, y por término que no pase de dos meses.
 
@@ -921,9 +937,11 @@ Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de J
 
 El Gobernador, durante el período de su encargo, sólo podrá ser acusado, por violación expresa de la Constitución General o de la particular del Estado, y delitos graves del orden común.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 1930)</small>
+
 ###### Artículo 105.
 
-Si el delito fuere común, el Congreso erigido en gran Jurado, declarará por mayoría absoluta de votos, si ha o no lugar a proceder contra el acusado. En caso negativo, no habrá lugar a ningún procedimiento ulterior. En el afirmativo, el acusado queda por el mismo hecho, separado de su encargo, y sujeto a la acción de los Tribunales comunes.
+El Gobernador del Estado, durante el período de su encargo, sólo podrá ser acusado por violación expresa de esta Constitución y por delitos graves del orden común, y para el efecto se seguirá el procedimiento indicado en el artículo anterior, con la salvedad de que, si la declaratoria fuere "de ha lugar a proceder," no surtirá efecto alguno mientras no sea revisada y aprobada por la siguiente Legislatura a la que hubiere hecho tal declaración.
 
 ###### Artículo 106.
 
@@ -1086,3 +1104,7 @@ Este Decreto surtirá sus efectos, a partir de la fecha de su publicación.
 P.O. 14 DE AGOSTO DE 1929.
 
 Este Decreto comenzará a surtir sus efectos, a partir de la fecha de su publicación.
+
+P.O. 22 DE ENERO DE 1930.
+
+Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación.
