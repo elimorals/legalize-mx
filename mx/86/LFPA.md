@@ -4,7 +4,7 @@ identifier: "LFPA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1994-08-04"
-last_updated: "1994-08-04"
+last_updated: "1996-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2570&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPA"
 
 LEY FEDERAL DE PROCEDIMIENTO ADMINISTRATIVO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de agosto de 1994.
 
@@ -44,7 +44,9 @@ LEY FEDERAL DE PROCEDIMIENTO ADMINISTRATIVO
 
 ART. 1.- Las disposiciones de esta ley son de orden e interés públicos, y se aplicarán a los actos, procedimientos y resoluciones de la Administración Pública Federal centralizada, sin perjuicio de lo dispuesto en los Tratados Internacionales de los que México sea parte.
 
-El presente ordenamiento no será aplicable a las materias de carácter fiscal, financiero, responsabilidades de los servidores públicos, electoral, competencia económica, justicias agraria y laboral, así como al Ministerio Público en ejercicio de sus funciones constitucionales.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+El presente ordenamiento no será aplicable a las materias de carácter fiscal, financiero, responsabilidades de los servidores públicos, electoral, justicia agraria y laboral, ni al Ministerio Público en ejercicio de sus funciones constitucionales. En relación con las materias de competencia económica y prácticas desleales de comercio internacional, únicamente les será aplicable el artículo 4 A de esta Ley.
 
 Para los efectos de esta Ley sólo queda excluida la materia fiscal tratándose de las contribuciones y los accesorios que deriven directamente de aquéllas.
 
@@ -66,7 +68,7 @@ IV. Hacer constar por escrito y con la firma autógrafa de la autoridad que lo e
 
 V. Estar fundado y motivado;
 
-VI. Estar fundado y motivado debidamente;
+VI. (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 1996)
 
 VII. Ser expedido sujetándose a las disposiciones relativas al procedimiento administrativo previstas en esta Ley;
 
@@ -76,7 +78,7 @@ IX. Ser expedido sin que medie dolo o violencia en su emisión;
 
 X. Mencionar el órgano del cual emana;
 
-XI. Ser expedido, en su caso, por órgano colegiado habiéndose satisfecho los requisitos exigidos por la ley o decreto, según sea el caso, para la expedición del acto;
+XI. (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 1996)
 
 XII. Ser expedido sin que medie error respecto a la referencia específica de identificación del expediente, documentos o nombre completo de las personas;
 
@@ -94,13 +96,21 @@ Cuando así lo establezcan las leyes, los proyectos de reglamentos, decretos, ac
 
 Los instructivos, manuales y formatos que expidan las dependencias de la Administración Pública Federal deberán publicarse previamente a su aplicación, en el Diario Oficial de la Federación.
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+ART. 4 A.- Cuando las dependencias de la Administración Pública Federal elaboren anteproyectos de disposiciones de carácter general o de reformas a éstas, con incidencia en la actividad económica a juicio de la Secretaría de Comercio y Fomento Industrial, presentarán a ésta una manifestación de impacto regulatorio que contenga los aspectos que dicha Secretaría determine en materia de desregulación económica, quien, cuando así lo considere, podrá emitir un dictamen público sobre la misma.
+
+La manifestación citada no será necesaria en materia de adquisiciones, arrendamientos, obra pública y contratación de servicios, por parte del Gobierno Federal, así como en lo relacionado con el patrimonio inmobiliario y mobiliario federal.
+
 ### CAPITULO SEGUNDO. DE LA NULIDAD Y ANULABILIDAD
 
 DEL ACTO ADMINISTRATIVO
 
 ART. 5.- La omisión o irregularidad de los elementos y requisitos exigidos por el Artículo 3 de esta Ley, o por las leyes administrativas de las materias de que se trate, producirán, según sea el caso, nulidad o anulabilidad del acto administrativo.
 
-ART. 6.- La omisión o irregularidad de cualesquiera de los elementos y requisitos establecidos en las Fracciones I a XI del Artículo 3 de la presente Ley, producirá la nulidad del acto administrativo.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+ART. 6.- La omisión o irregularidad de cualquiera de los elementos o requisitos establecidos en las fracciones I a X del artículo 3 de la presente Ley, producirá la nulidad del acto administrativo, la cual será declarada por el superior jerárquico de la autoridad que lo haya emitido, salvo que el acto impugnado provenga del titular de una dependencia, en cuyo caso la nulidad será declarada por el mismo.
 
 El acto administrativo que se declare jurídicamente nulo será inválido; no se presumirá legítimo ni ejecutable; será subsanable, sin perjuicio de que pueda expedirse un nuevo acto. Los particulares no tendrán obligación de cumplirlo y los servidores públicos deberán hacer constar su oposición a ejecutar el acto, fundando y motivando tal negativa. La declaración de nulidad producirá efectos retroactivos.
 
@@ -176,9 +186,23 @@ IX. Tratar con respeto a los particulares y a facilitar el ejercicio de sus dere
 
 X. Dictar resolución expresa sobre cuantas peticiones le formulen; así como en los procedimientos iniciados de oficio, cuya instrucción y resolución afecte a terceros, debiendo dictarla dentro del plazo fijado por la ley.
 
-ART. 17.- Salvo que las leyes específicas establezcan lo contrario u otro plazo, no podrá exceder de cuatro meses el tiempo para que la autoridad administrativa resuelva lo que corresponda; transcurrido el cual se entenderán las resoluciones en sentido negativo al promovente. La autoridad, a solicitud del interesado, deberá expedir constancia de tal circunstancia, en cuyo defecto, se fincará responsabilidad al encontrarlo responsable. Igual constancia deberá expedirse cuando las leyes específicas prevean la resolución en sentido favorable.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+ART. 17.- Salvo que en las disposiciones específicas se establezca otro plazo, no podrá exceder de cuatro meses el tiempo para que la autoridad administrativa resuelva lo que corresponda. Transcurrido el plazo aplicable, se entenderán las resoluciones en sentido negativo al promovente, a menos que en las disposiciones aplicables se prevea lo contrario. A petición del interesado, se deberá expedir constancia de tal circunstancia, dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante la autoridad que deba resolver; igual constancia deberá expedirse cuando las disposiciones específicas prevean que transcurrido el plazo aplicable la resolución deba entenderse en sentido positivo. De no expedirse la constancia mencionada dentro del plazo citado, se fincará la responsabilidad que resulte aplicable.
 
 En el caso de que se recurra la negativa por falta de resolución, y ésta a su vez no se resuelva dentro del mismo término, se entenderá confirmada en sentido negativo.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+ART. 17 A.- Cuando el escrito inicial no contenga los datos o no cumpla con los requisitos previstos en las disposiciones aplicables, la autoridad deberá prevenir al interesado, por escrito y por una sola vez, para que dentro del término de cinco días hábiles subsane la omisión. Salvo que en las disposiciones específicas se establezca otro plazo, dicha prevención deberá hacerse a más tardar dentro del primer tercio del plazo de respuesta de la autoridad y, cuando éste no sea expreso, dentro de los diez días hábiles siguientes a la presentación del escrito inicial.
+
+Notificada la prevención, se suspenderá el plazo para que la autoridad administrativa resuelva y se reanudará a partir del día hábil inmediato siguiente a aquél en que el interesado conteste. En el supuesto de que no se desahogue la prevención en el término señalado, la autoridad desechará el escrito inicial.
+
+Si la autoridad no hace el requerimiento de información dentro del plazo correspondiente, no podrá rechazar el escrito inicial por incompleto.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+ART. 17 B.- Salvo disposición expresa en contrario, los plazos para que la autoridad conteste empezarán a correr al día hábil inmediato siguiente a la presentación del escrito correspondiente.
 
 ART. 18.- El procedimiento administrativo continuará de oficio, sin perjuicio del impulso que puedan darle los interesados. En caso de corresponderles a estos últimos y no lo hicieren, operará la caducidad en los términos previstos en esta Ley.
 
@@ -268,7 +292,13 @@ II. Mediante oficio entregado por mensajero o correo certificado, con acuse de r
 
 III. Por edicto, cuando se desconozca el domicilio del interesado o en su caso de que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal.
 
-Tratándose de actos distintos a los señalados anteriormente, las notificaciones podrán realizarse por correo ordinario, mensajería, telegrama o telefax.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+Tratándose de actos distintos a los señalados anteriormente, las notificaciones podrán realizarse por correo ordinario, mensajería, telegrama o, previa solicitud por escrito del interesado, a través de telefax.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+Salvo cuando exista impedimento jurídico para hacerlo, la resolución administrativa definitiva deberá notificarse al interesado por medio de correo certificado o mensajería, en ambos casos con acuse de recibo, siempre y cuando los solicitantes hayan adjuntado al promover el trámite el comprobante de pago del servicio respectivo.
 
 ART. 36.- Las notificaciones personales se harán en el domicilio del interesado o en el último domicilio que la persona a quien se deba notificar haya señalado ante los órganos administrativos en el procedimiento administrativo de que se trate. En todo caso, el notificador deberá cerciorarse del domicilio del interesado y deberá entregar copia del acto que se notifique y señalar la fecha y hora en que la notificación se efectúa, recabando el nombre y firma de la persona con quien se entienda la diligencia. Si ésta se niega, se hará constar en el acta de notificación, sin que ello afecte su validez.
 
@@ -498,7 +528,9 @@ ART. 84.- La oposición a los actos de trámite en un procedimiento administrati
 
 ART. 85.- El plazo para interponer el recurso de revisión será de quince días contado a partir del día siguiente a aquél en que hubiere surtido efectos la notificación de la resolución que se recurra.
 
-ART. 86.- El escrito de interposición del recurso de revisión deberá presentarse ante la autoridad que emitió el acto impugnado y será resuelto por el superior jerárquico cuyo escrito deberá expresar:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+ART. 86.- El escrito de interposición del recurso de revisión deberá presentarse ante la autoridad que emitió el acto impugnado y será resuelto por el superior jerárquico, salvo que el acto impugnado provenga del titular de una dependencia, en cuyo caso será resuelto por el mismo. Dicho escrito deberá expresar:
 
 I. El órgano administrativo a quien se dirige;
 
@@ -609,3 +641,11 @@ CUARTO. Los procedimientos de conciliación y arbitraje previstos en los ordenam
 México, D.F., a 14 de julio de 1994.- Dip. Manuel Huerta Ladrón de Guevara, Presidente.- Sen. Ricardo Monreal Avila, Presidente.- Dip. José Raúl Hernández Avila, Secretario.- Sen. Antonio Melgar Aranda, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de julio de mil novecientos noventa y cuatro.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Jorge Carpizo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 24 DE DICIEMBRE DE 1996.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el artículo siguiente.
