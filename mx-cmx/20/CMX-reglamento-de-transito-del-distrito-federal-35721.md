@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-del-distrito-federal-35721"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-30"
-last_updated: "2004-04-13"
+last_updated: "2005-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35721&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-12-02"
 
 REGLAMENTO DE TRANSITO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE ENERO DE 2005.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2003.
 
@@ -280,11 +280,11 @@ V. A los conductores de vehículos del servicio público de transporte de pasaje
 
 VI. A los infractores de este Reglamento.
 
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 21.
 
-Los centros educativos que se dediquen a la formación, enseñanza y capacitación de conductores, se sujetarán a las disposiciones que emita la Secretaría sobre su funcionamiento. Ésta aprobará previamente los planes y programas de estudio que se impartan a los aspirantes a obtener una licencia o permiso para conducir. Lo anterior, sin perjuicio de poder instrumentar otros cursos que considere conveniente. Para la apertura de nuevas escuelas de conductores la Secretaría promoverá ante las autoridades correspondientes, que éstas cumplan con lo dispuesto en este artículo.
-
-Los concesionarios y permisionarios están obligados a la actualización permanente en materia de educación vial para el personal que se desempeñe como conductor de los vehículos que tengan bajo su responsabilidad, considerando los contenidos, la forma y periodicidad que establezca la Secretaría.
+Los centros educativos que se dediquen a la formación, enseñanza y capacitación de conductores de vehículos particulares, se sujetarán a las disposiciones que emita la Secretaría respecto de su funcionamiento y de la impartición de los cursos a que refiere la ley.
 
 ## TÍTULO TERCERO. DE LA REGULACIÓN, INSPECCIÓN Y VIGILANCIA
 
@@ -364,7 +364,9 @@ Los conductores a los que se les expidan licencias de conducir tipo B, C, D y E,
 
 Los menores de edad pueden conducir los vehículos automotores que requieran licencia tipo A, mediante permisos temporales de conducir, conforme a las condiciones siguientes:
 
-I. Sólo serán válidos en un horario comprendido entre las 05:00 y las 24:00 horas.
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2005)</small>
+
+I. Sólo serán válidos en un horario comprendido entre las 6:00 y las 22:00 horas.
 
 II. Queda prohibido conducir en manifestaciones, caravanas, procesiones, exhibiciones deportivas y demás tipos de concentraciones humanas; y
 
@@ -386,7 +388,9 @@ II. Identificación Oficial, del padre, madre o tutor;
 
 III. Acta de nacimiento del menor que acredite la edad cumplida de 16 años y una credencial de identidad;
 
-IV. Constancia médica que acredite la salud física y mental;
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2005)</small>
+
+IV. Protesta de decir verdad del padre, madre o tutor de que el menor es apto para conducir;
 
 V. Constancia de curso de manejo, impartido por un centro educativo autorizado por la Secretaría, y
 
@@ -558,9 +562,11 @@ II. Se adquiera un vehículo nuevo para adaptación sin carrocería, y
 
 III. Sea necesario trasladar a otra entidad federativa vehículos que anteriormente prestaban servicio de carga y/o pasajeros en sus distintas modalidades y que hayan sido dados de baja del padrón vehicular del Distrito Federal; en este caso la vigencia del permiso será por un máximo de 15 días naturales.
 
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 44.
 
-Para realizar cualquier trámite relativo al Control Vehicular, los propietarios de los vehículos o sus representantes legales deben cumplir con los requisitos marcados conforme a la tabla siguiente:
+Para realizar cualquier trámite relativo al control de vehículos particulares, los propietarios de los vehículos o sus representantes legales deben cumplir con los requisitos señalados en la tabla siguiente:
 
 (VEASE TABLA ANEXA)
 
@@ -568,11 +574,13 @@ Para realizar cualquier trámite relativo al Control Vehicular, los propietarios
 
 El refrendo de la vigencia de las placas de matrícula de los vehículos de transporte público de pasajeros y de transporte de carga, se realizará anualmente en los lugares y fechas que señale la Secretaría, previo el pago de los derechos establecidos en el Código Financiero del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 46.
 
-Para que el propietario de un vehículo que transfiera su propiedad a otra persona física o moral quede liberado de cualquier responsabilidad, deberá notificarlo a la Secretaría mediante formato que al efecto se proporcione dentro de los 15 días hábiles siguientes a la fecha de la transferencia, a efecto de que el movimiento sea registrado en el padrón de control vehicular administrativo y fiscal.
+Para que el propietario de un vehículo que transmita la propiedad a otra persona física o moral quede liberado de cualquier responsabilidad, debe dar aviso a la Secretaría mediante formato que al efecto se proporcione dentro de los 15 días hábiles siguientes a la fecha de la transmisión, acompañado de copias de la factura, la tarjeta de circulación y el documento soporte de la transmisión de la propiedad, a efecto de que el movimiento sea registrado en el padrón de control vehicular administrativo y fiscal.
 
-El adquirente deberá efectuar el cambio de propietario en un término máximo de 15 días hábiles a fin de actualizar el registro del control vehicular correspondiente.
+El adquiriente debe efectuar el cambio de propietario en un término máximo de 15 días hábiles a partir de la transmisión de la propiedad, a fin de actualizar el Padrón de Control Vehicular y el registro administrativo y fiscal de la Administración Pública del Distrito Federal. El incumplimiento de esta obligación será sancionado por la Secretaría con multa de 24 días de salario mínimo general vigente en el Distrito Federal.
 
 ### CAPÍTULO III. DE LAS DISPOSICIONES AMBIENTALES PARA FUENTES MÓVILES
 
@@ -672,7 +680,9 @@ III. Señalarán al conductor la infracción que cometió y le mostrarán el art
 
 IV. Solicitarán al conductor la licencia de conducir y la tarjeta de circulación, documentos que serán entregados para su revisión, y devueltos en el mismo sitio inmediatamente después de que los hubiese revisado;
 
-V. Si el vehículo se haya estacionado o no se encuentra persona que pueda o quiera atender el requerimiento del agente, éste elaborará la boleta de sanción con los requisitos del artículo siguiente;
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2005)</small>
+
+V. Si el vehículo se encuentra estacionado y no se encuentra persona que pueda o quiera atender el requerimiento del agente, éste elaborará la boleta de sanción con los requisitos del artículo siguiente;
 
 VI. Una vez efectuada la revisión de los documentos y de la situación en la que se encuentra el vehículo, si éstos están en orden, el agente procederá a llenar la boleta de sanción, de la que extenderá una copia al interesado. En caso de que existan irregularidades el agente procederá de conformidad a lo que establece el artículo 59 del presente Reglamento; y
 
@@ -1316,7 +1326,9 @@ SEGUNDO.- El presente Reglamento entra en vigor al día siguiente de su publicac
 
 TERCERO.- Se abroga el Reglamento de Tránsito del Distrito Federal, publicado en la Gaceta Oficial el 30 de noviembre de 1999 y sus reformas.
 
-CUARTO.- Las licencias de conducir tipo A, expedidas con anterioridad a la entrada en vigor de este Reglamento mantendrán la vigencia señalada en la misma. A su expiración el particular puede obtener la Licencia de conducir permanente previo pago de los derechos correspondientes.
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2005)</small>
+
+CUARTO.- El particular con licencia tipo "A" vigente expedida con anterioridad al 2004, puede obtener la licencia de conducir permanente previo pago de los derechos correspondientes.
 
 Dado en la Residencia Oficial del Jefe del Gobierno del Distrito Federal, en la Ciudad de México, dos de diciembre de dos mil tres.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, FRANCISCO GARDUÑO YAÑEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MARCELO EBRARD CASAUBÓN.- FIRMA.
 
@@ -1325,3 +1337,7 @@ Dado en la Residencia Oficial del Jefe del Gobierno del Distrito Federal, en la 
 G.O. 13 DE ABRIL DE 2004.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 19 DE ENERO DE 2005.
+
+ÚNICO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
