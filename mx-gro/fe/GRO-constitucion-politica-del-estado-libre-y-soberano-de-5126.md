@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1920-10-16"
+last_updated: "1922-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 1920.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 1922.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -275,7 +275,9 @@ Para ser Diputado se requiere, ser ciudadano del Estado, estar en el goce de sus
 
 No pueden ser electos Diputados:
 
-I. El Gobernador del Estado, los Magistrados del Tribunal Superior de Justicia, el Secretario General de Gobierno y el Tesorero General.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1922)</small>
+
+I. El Gobernador del Estado, los Magistrados del Tribunal Superior de Justicia, el Secretario General de Gobierno, el Subsecretario, el Procurador General de Justicia y el Tesorero General.
 
 II. Los empleados de la Federación de cualquier clase que sean.
 
@@ -283,9 +285,13 @@ III. Los Ministros de los cultos.
 
 IV. Los individuos que pertenezcan al Ejército Nacional, o a las fuerzas del Estado, y que estén en servicio activo.
 
-V. Los Jueces de 1ª. Instancia y los Presidentes Municipales en el Distrito en que ejerzan sus funciones, a no ser que estén separados 60 días antes de la elección.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1922)</small>
 
-VI. Los Diputados y Senadores al Congreso de la Unión.
+V. Los Jueces de primera Instancia, los Presidentes Municipales y Agentes del Ministerio Público, adscritos a los Juzgados de primera Instancia, en el Distrito en que ejerzan sus funciones, a no ser que estén separados definitivamente de sus cargos, 60 días antes de la elección.
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1922)</small>
+
+VI. Los Diputados y Senadores, en ejercicio al Congreso de la Unión.
 
 ###### Artículo 29.
 
@@ -340,6 +346,8 @@ El Reglamento interior de la Cámara señalará las formalidades con que deben c
 ### CAPITULO UNICO.
 
 De la responsabilidad de los funcionarios públicos del Estado.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1922)</small>
 
 ###### Artículo 39.
 
@@ -421,7 +429,9 @@ XXIII. Conceder jubilaciones a los empleados inutilizados en el servicio del mis
 
 XXIV. Erigirse en Colegio Electoral, con objeto de calificar las elecciones de Gobernador, declarando electo al que hubiere obtenido la mayoría de sufragios, o bien nombrar entre los que hayan tenido relativa, al que deba ser Gobernador.
 
-XXV. Erigirse en gran Jurado a efecto de declarar si ha lugar o no a la formación de causa, cuando por delitos oficiales o del orden común, fueren acusados, el Gobernador, los Diputados, los Magistrados y el Procurador del Tribunal Superior de Justicia, y el Secretario de Gobierno.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1922)</small>
+
+XXV. Erigirse en gran Jurado a efecto de declarar si hay lugar o no a la formación de causa, cuando por delitos oficiales o del orden común, fueron acusados, el Gobernador, los Diputados los Magistrados, Procurador General de Justicia y el Secretario de Gobierno.
 
 XXVI. Legislar en lo relativo a la organización del SISTEMA PENAL, teniendo por base indispensable el trabajo como medio de regeneración de los procesados o reos sujetos a condena.
 
@@ -467,7 +477,9 @@ Las atribuciones de la Diputación Permanente son:
 
 I. Velar el cumplimiento de la Constitución y demás leyes, dando cuenta al Congreso, en su próximo periodo de sesiones ordinarias, de las infracciones que hubiere notado.
 
-II. Ejercer en sus casos, las facultades a que se refieren las fracciones IX, XI y XIV del art. 45 de esta Constitución.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1922)</small>
+
+III (Sic). Ejercer en sus casos las facultades a que se refieren las fracciones IX, X, XI y XIV del artículo 45 de esta Constitución.
 
 III. Dictaminar sobre todos los asuntos que queden pendientes al cerrarse las sesiones, así como los nuevos que se presenten para que al reunirse el Congreso tenga desde luego en que ocuparse.
 
@@ -539,7 +551,9 @@ II. Tener treinta y cinco años cumplidos al tiempo de ser electo.
 
 III. No pertenecer al estado eclesiástico, ni ser ministro de algún culto.
 
-IV. No ejercer cargo o empleo alguno de la Federación, en la fecha en que se verifique la elección.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1922)</small>
+
+IV. No ejercer cargo o empleo alguno de la Federación, ni ser Secretario General de Gobierno del Estado, Subsecretario, Procurador General de Justicia o Magistrado, a menos de haberse separado definitivamente de sus cargos 60 días antes de la fecha en que se verifique la elección.
 
 ###### Artículo 59.
 
@@ -675,6 +689,8 @@ El Secretario General de Gobierno, será responsable de las disposiciones que au
 
 De la reforma e inviolabilidad de la Constitución.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1922)</small>
+
 ### CAPITULO II.
 
 De la Secretaría General y del Consejo de Gobierno.
@@ -701,9 +717,15 @@ II. Cuando tenga que tomar parte en la discusión de las leyes.
 
 III. Cuando fuere llamado por el Congreso para informar sobre algún negocio.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1922)</small>
+
 ###### Artículo 75.
 
-El Secretario General en unión del Procurador de Justicia del Tribunal Superior, del Tesorero General, Juez de 1ª. Instancia y Presidente del Ayuntamiento de la Capital del Estado, constituyen el Consejo de Gobierno; cuya Presidencia asumirá el primero. El Consejo dará dictamen al Gobernador, siempre que éste lo pida, procurando fundarlo en ley.
+El Secretario General en unión del Procurador General de Justicia, del Tesorero General, Juez de primera Instancia y Presidente del Ayuntamiento de la Capital del Estado, constituyen el Consejo de Gobierno; cuya Presidencia asumirá el primero. El Consejo dará dictamen al Gobernador siempre que éste lo pida, procurando fundarlo en la Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 1922)</small>
+
+Artículo 75 bis. El Ministerio Público es una institución que tiene por objeto velar por la exacta observancia de las leyes de interés general. Deberá ejercitar las acciones que correspondan contra los violadores de dichas leyes, hacer efectivos los derechos concedidos al Estado, e intervenir en los juicios que afecten a las personas a quienes la ley otorgue especial protección. Estará a cargo de un Procurador General y los Agentes que designe la ley respectiva.
 
 ###### Artículo 76.
 
@@ -853,9 +875,9 @@ Todos los funcionarios y empleados públicos del Estado y del Municipio, antes d
 
 ###### Artículo 104.
 
-Los Diputados al Congreso del Estado, los Magistrados y Procurador del Tribunal Superior de Justicia, y el Secretario de Gobierno, son responsables por los delitos comunes que cometan durante el tiempo de su encargo, y por los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones.
+Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, Procurador General y el Secretario de Gobierno, son responsables de los delitos comunes que cometan durante el tiempo de su encargo, y por los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones.
 
-El Gobernador, durante el periodo de su encargo, solo podrá ser acusado por violación expresa de la Constitución General o de la Particular del Estado, y delitos graves del orden común.
+El Gobernador, durante el período de su encargo, sólo podrá ser acusado, por violación expresa de la Constitución General o de la particular del Estado, y delitos graves del orden común.
 
 ###### Artículo 105.
 
@@ -887,7 +909,7 @@ En demandas del orden civil, no hay fueros ni inmunidad alguna.
 
 ###### Artículo 111.
 
-Esta Constitución podrá ser reformada o adicionada en cualquier tiempo, pero las proposiciones que al efecto se presenten, deberán ser hechas cuando menos, por dos Diputados, por iniciativa del Gobierno o de cualquiera de los Cuerpos que tengan este derecho, y no se discutirán sin aprobación de las dos terceras partes de los Ayuntamientos de las Cabeceras de los Distritos que establece el artículo 22. En ningún caso podrán alterarse los principios que establecen la Independencia, soberanía y libertad del Estado, su forma de Gobierno y división de Poderes.
+Esta Constitución podrá ser reformada o adicionada en cualquier tiempo, pero las proposiciones que al efecto se presenten, deberán ser hechas cuando menos, por dos Diputados, por iniciativa del Gobierno o de cualquiera de los Cuerpos que tengan este derecho; y no se discutirán sin aprobación de las dos terceras partes de los Ayuntamientos del Estado. En ningún caso podrán alterarse los principios que establecen la independencia, soberanía y libertad del Estado; su forma de Gobierno y división de Poderes.
 
 ###### Artículo 112.
 
@@ -988,3 +1010,7 @@ J. Adams.
 P.O. 16 DE OCTUBRE DE 1920.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE GUERRERO.
+
+P.O. 10 DE JUNIO DE 1922.
+
+Las anteriores adiciones y reformas a la Constitución, serán publicadas desde luego con la solemnidad debida en todas las poblaciones del Estado.
