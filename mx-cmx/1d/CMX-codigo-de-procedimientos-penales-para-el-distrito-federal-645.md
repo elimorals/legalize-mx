@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "1989-01-03"
+last_updated: "1989-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE OCTUBRE DE 1989.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -3862,9 +3862,7 @@ A su solicitud acompañará el condenado testimonio de la sentencia, y en su cas
 
 Si la conmutación se basare en alguno de los motivos enumerados en el artículo 75 del Código Penal, podrá otorgarse observando lo dispuesto en artículo 76 del mismo Código.
 
-### CAPITULO VI. Del indulto
-
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+### CAPITULO VI. Del indulto y del reconocimiento de inocencia
 
 ###### ARTICULO 603.
 
@@ -3906,23 +3904,29 @@ Concedida la rehabilitación por el Congreso, se comunicará al tribunal o juzga
 
 Al que una vez se le hubiere concedido la rehabilitación, nunca se le podrá conceder otra.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE OCTUBRE DE 1989)</small>
+
 ### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 611.
 
-El indulto es necesario o por gracia.
+(DEROGADO, D.O.F. 31 DE OCTUBRE DE 1989)
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 1989)</small>
 
 ###### ARTICULO 612.
 
-El indulto por gracia sólo se concederá de acuerdo con lo que disponen los artículos 94 y relativos del Código Penal, cuando el solicitante hubiere prestado servicios importantes a la Nación. En este caso, el condenado ocurrirá al Ejecutivo con su instancia y con los justificantes de los servicios prestados.
+Cuando se trate del indulto a que se refiere la fracción III del artículo 97 del Código Penal, el solicitante ocurrirá al Ejecutivo Federal con su petición, por conducto del Departamento del Distrito Federal, debiendo acompañar los justificantes de los servicios prestados a la Nación por el sentenciado.
 
 ###### ARTICULO 613.
 
 El Ejecutivo, en vista de los comprobantes o si así conviniere a la tranquilidad y seguridad públicas, concederá el indulto sin condición alguna, o con las restricciones que estime convenientes.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE OCTUBRE DE 1989)</small>
+
 ###### ARTICULO 614.
 
-El indulto es necesario cuando se basa en alguno de los motivos siguientes:
+El reconocimiento de la inocencia del sentenciado procede en los siguientes casos:
 
 I. Cuando la sentencia se funde en documentos o declaraciones de testigos que después de dictada fueren declarados falsos en juicio;
 
@@ -3930,13 +3934,21 @@ I. Cuando la sentencia se funde en documentos o declaraciones de testigos que de
 
 II. Cuando después de la sentencia aparecieren documentos que invaliden la prueba en que descanse aquélla o las presentadas al jurado y que sirvieron de base a la acusación y al veredicto;
 
-III. Cuando condenada alguna persona por homicidio de otro que hubiere desaparecido, se presentare éste o alguna prueba irrefutable de que vive, y
+III. Cuando condenada alguna persona por homicidio de otro que hubiere desaparecido, se presentare éste o alguna prueba irrefutable de que vive, y (sic)
 
-IV. Cuando el reo hubiere sido juzgado por el mismo hecho a que la sentencia se refiere en otro juicio en que también hubiere recaído sentencia irrevocable.
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 1989)</small>
+
+IV. Cuando el sentenciado hubiere sido condenado por los mismos hechos en juicios diversos. En este caso prevalecerá la sentencia más benigna;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 1989)</small>
+
+V. Cuando en juicios diferentes hayan sido condenados los sentenciados por el mismo delito y se demuestre la imposibilidad de que lo hubieren cometido.
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 1989)</small>
 
 ###### ARTICULO 615.
 
-El condenado que se crea con derecho para pedir el indulto necesario, ocurrirá por escrito al Tribunal Superior de Justicia, alegando la causa o causas, de las enumeradas en el artículo anterior, en que funde su petición y acompañando las pruebas respectivas o protestando exhibirlas oportunamente. Sólo se admitirá en estos casos la prueba documental, salvo lo previsto en la fracción III del artículo anterior.
+El sentenciado que se crea con derecho para pedir el reconocimiento de su inocencia, ocurrirá por escrito al Tribunal Superior de Justicia, alegando la causa o causas de las enumeradas en el artículo anterior en que funde su petición, acompañando las pruebas respectivas o protestando exhibirlas oportunamente. Sólo se admitirá en estos casos la prueba documental, salvo lo previsto en la fracción III del artículo anterior.
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -3955,6 +3967,14 @@ A los cinco días de celebrada la vista, la Sala declarará si es o no fundada l
 En el primer caso, remitirá las diligencias originales con informe al Ejecutivo, para que éste, sin más trámite, otorgue el indulto.
 
 En el segundo caso, se mandarán archivar las diligencias.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 1989)</small>
+
+###### ARTICULO 618 Bis.
+
+Todas las resoluciones en que se conceda indulto se publicarán en el Diario Oficial de la Federación y se comunicarán al tribunal que hubiese dictado la sentencia, para que haga la anotación respectiva en el expediente del caso.
+
+Las resoluciones relativas al reconocimiento de la inocencia se comunicarán al tribunal que hubiese dictado la sentencia, para que haga la anotación respectiva en el expediente del caso. A petición del interesado, también se publicarán en el Diario Oficial de la Federación.
 
 ## TITULO SEPTIMO. Organización y competencia
 
@@ -4575,3 +4595,13 @@ SEGUNDO.- Los individuos que se encuentren sujetos a proceso al momento de entra
 D.O.F. 3 DE ENERO DE 1989.
 
 UNICO.- El presente Decreto entrará en vigor el día 1o. de abril de 1989.
+
+D.O.F. 31 DE OCTUBRE DE 1989.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga el artículo 611 del Código de Procedimientos Penales para el Distrito Federal y las demás disposiciones que se opongan al presente Decreto.
