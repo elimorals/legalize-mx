@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-y-bases-de-coordinacion-para-el-12356"
 country: "mx"
 rank: "ley"
 publication_date: "1998-04-17"
-last_updated: "2003-01-10"
+last_updated: "2003-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD PUBLICA Y BASES DE COORDINACION PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 1998.
 
@@ -508,6 +508,10 @@ La Secretaría podrá solicitar a la Procuraduría y al Ayuntamiento que corresp
 ###### ARTÍCULO 51.
 
 En el Estado de Baja California, se establecerá y organizará un Consejo Ciudadano de Seguridad Pública como instancia colegiada de consulta y participación ciudadana. En cada uno de los municipios se deberá establecer un Comité Ciudadano de Seguridad Pública con la misma naturaleza.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE AGOSTO DE 2003)</small>
+
+Los Presidentes de los Comités, integrarán el Consejo en calidad de Consejeros Ciudadanos, en representación de sus respectivos Municipios.
 
 El Consejo y Comités se integrarán mayoritariamente por ciudadanos y con la representación del Estado y el Ayuntamiento respectivo, que determine el reglamento y el Ayuntamiento correspondiente.
 
@@ -1236,3 +1240,11 @@ UNICO: Las presentes reformas entrarán en vigor al día siguiente al de su publ
 P.O. 10 DE ENERO DE 2003.
 
 UNICO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE AGOSTO DE 2003.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Una vez que los actuales Consejeros Ciudadanos representantes de cada uno de los cabildos de los Municipios del Estado hayan terminado con su encargo, cualquiera que sea la causa de su separación, los Presidentes de los Comités respectivos, asumirán tal calidad ante el Consejo.
+
+TERCERO.- Los Ayuntamientos en un término no mayor de treinta días posteriores a la entrada en vigor de la presente reforma, deberán de realizar las adecuaciones necesarias a sus Reglamentos.
