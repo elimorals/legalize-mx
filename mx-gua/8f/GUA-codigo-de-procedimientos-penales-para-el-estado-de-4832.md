@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "2001-11-02"
+last_updated: "2003-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DEL 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DEL 2003.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -137,7 +137,9 @@ Es Tribunal competente para conocer de un delito, el del lugar en que se cometa.
 
 Si conforme a lo dispuesto por el Artículo 2 del Código Penal resultaran competentes dos o más Tribunales del Estado, conocerá del proceso el que haya prevenido.
 
-En los casos del Artículo 3 del Código Penal, es competente el Tribunal del lugar en que se cause o esté destinado a causar efectos el delito, o, en su defecto, cualquiera del Estado ante quien ejercite acción penal el Ministerio Público.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
+
+En el caso de delitos cometidos fuera del territorio del Estado, a que se refiere el Artículo 1º del Código Penal, es competente el Tribunal del lugar en que se cause o esté destinado a causar efectos el delito, o, en su defecto, cualquiera del Estado ante quien ejercite acción penal el Ministerio Público.
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
@@ -161,11 +163,13 @@ En material penal, no cabe prórroga ni renuncia de jurisdicción.
 
 Ningún tribunal puede promover competencia a su superior jerárquico.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
 
 ###### Art. 11.
 
-Los Jueces Menores conocerán de todos los delitos no patrimoniales que sólo sean perseguibles por querella de parte, y además, de los de bigamia y ultrajes a la moral pública.
+Los Jueces menores conocerán de los delitos que sólo sean perseguibles previa querella de parte, a excepción de los señalados en el siguiente párrafo. Conocerán también de los de bigamia, incumplimiento de las obligaciones de asistencia familiar y violación de correspondencia, aún cuando sean de persecución oficiosa.
+
+Los delitos patrimoniales, los de violencia intrafamiliar, los cometidos contra la hacienda pública, las lesiones culposas que dejen cicatriz permanente y notable en la cara, cuello o pabellón auricular, el homicidio y lesiones culposos cuando el pasivo sea pariente colateral hasta el cuarto grado o esté unido con estrecha amistad con el activo y el de violación entre cónyuges o concubinos, serán de la competencia de los Jueces de Partido.
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
 
@@ -993,13 +997,11 @@ En el pliego de consignación, el Ministerio Público hará expreso señalamient
 
 Al recibir el Ministerio Público diligencias de averiguación previa, si hubiere detenidos y la detención fuere legal, hará inmediatamente la consignación a los Tribunales. Si no lo fuere, ordenará su libertad.
 
-> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
 
-El Ministerio Público dispondrá la libertad del inculpado, en los supuestos y cumpliendo con los requisitos establecidos por el artículo 387 de este Código para los Jueces, sin perjuicio de solicitar su arraigo, en caso necesario. El Ministerio Público fijará la caución suficiente para garantizar que el detenido no se sustraerá a la acción de la justicia, ni al pago de la reparación de los daños y perjuicios que pudieran serle exigidos. Tratándose de delitos cometido con motivo del tránsito de vehículos, no se concederá este beneficio al inculpado que hubiere incurrido en el delito de abandono de personas o se encuentra en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o de cualquier otra substancia que produzca efectos similares. Cuando el delito merezca pena alternativa o no privativa de libertad, se dispondrá la libertad sin necesidad de caución y sin perjuicio de pedir el arraigo correspondiente.
+El Ministerio Público dispondrá la libertad provisional del inculpado, sujetándose a los principios y reglas contenidas en el Artículo 20, apartado A, fracción I de la Constitución Política de los Estados Unidos Mexicanos. La caución que se fije deberá ser suficiente para garantizar que el detenido no se sustraerá a la acción de la justicia y para cubrir el pago de la reparación de los daños y perjuicios que pudieran serle exigidos. Cuando el delito merezca pena alternativa o no privativa de libertad, se dispondrá la libertad sin necesidad de caución.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 1994)</small>
-
-En lo conducente, se aplicará lo dispuesto por el artículo 406 de este Código.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 16 DE MAYO DE 2003)</small>
 
 ## TITULO TERCERO.
 
@@ -1245,11 +1247,11 @@ En los casos en que el delito, por sancionarse con pena alternativa o no privati
 
 Si contra una orden de aprehensión no ejecutada o de comparecencia para preparatoria, se concede la suspensión definitiva por haber pedido amparo el inculpado, el tribunal que libró dicha orden procederá desde luego a solicitar del que concedió la suspensión que lo haga comparecer a su presencia dentro de tres días, para que rinda su declaración preparatoria y para los demás efectos del procedimiento.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
 
 ###### Art. 150.
 
-No pueden ser defensores quienes se encuentren procesados. Tampoco podrán serlo los que hayan sido condenados por alguno de los delitos señalados en el Capítulo I, Título Tercero del Libro Segundo II del Código Penal, ni los ausentes que, por el lugar en que se encuentren, no puedan acudir ante el Tribunal dentro de las veinticuatro horas en que debe hacerse saber su nombramiento a todo defensor.
+No pueden ser defensores quienes se encuentren procesados. Tampoco podrán serlo los que hayan sido condenados por alguno de los delitos previstos en el Artículo 265 del Código Penal, ni los ausentes que, por el lugar en que se encuentren, no puedan acudir ante el tribunal dentro de las veinticuatro horas en que debe hacerse saber su nombramiento a todo defensor.
 
 ### CAPITULO I.
 
@@ -1511,7 +1513,9 @@ La violación de esta disposición hará penalmente responsable al Ministerio P�
 
 Bis.- En los casos de delito flagrante y en los urgentes ningún indiciado podrá ser detenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en el que deberá ordenar su libertad o ponerlo a disposición de la autoridad judicial. Este plazo podrá duplicarse en los casos de delincuencia organizada.
 
-Se entiende por delincuencia organizada cuando tres o más personas se organizan bajo las reglas de jerarquía para cometer de modo violento o reiterado o con fines predominantemente lucrativos, cualquiera de los delitos considerados como graves por el artículo 183 de este Código.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
+
+Se entiende por delincuencia organizada cuando tres o más personas se organizan bajo las reglas de jerarquía para cometer de modo violento o reiterado o con fines predominantemente lucrativos, cualquiera de los delitos considerados como graves por el Artículo 11 del Código Penal.
 
 Si la integración de la averiguación previa requiriera mayor tiempo del señalado, el detenido será puesto en inmediata libertad, sin perjuicio de que el Ministerio Público en su oportunidad solicite orden de aprehensión.
 
@@ -1701,7 +1705,9 @@ En casos urgentes, la protesta la rendirán al producir o ratificar su dictamen.
 
 El funcionario que practique las diligencias fijará a los peritos el tiempo en que deban cumplir su cometido. Si transcurrido ese tiempo no rinden su dictamen, o si legalmente citados y aceptado el cargo, no concurren a desempeñarlo, se hará uso de alguno de los medios de apremio.
 
-Si a pesar de haber sido apremiado el perito no cumple con las obligaciones impuestas en el párrafo anterior, se hará su consignación al Ministerio Público, para que proceda por el delito a que se refiere el Artículo 151 del Código Penal.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
+
+Si a pesar de haber sido apremiado el perito no cumple con las obligaciones impuestas en el párrafo anterior, se hará su consignación al Ministerio Público, para que proceda por el delito a que se refiere el Artículo 255 del Código Penal.
 
 ###### Art. 217.
 
@@ -2125,13 +2131,9 @@ VI.- Cuando esté plenamente comprobado que en favor del inculpado existe alguna
 
 VII.- Cuando existan pruebas que acrediten fehacientemente la inocencia del acusado;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2003)</small>
 
-VIII.- Cuando, tratándose de los delitos previstos por los artículos 207 y 287 del Código Penal, cometidos culposamente, se haya cubierto la reparación del daño causado a la víctima u ofendido, y el activo no hubiere actuado en estado de ebriedad o bajo el efecto de narcóticos.
-
-> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 1991)</small>
-
-En los casos de sobreseimiento siempre será el Juez el que decida si procede o no.
+VIII.- Cuando, tratándose de los delitos previstos por los Artículos 143 y 210 del Código Penal, cometidos culposamente, se haya cubierto la reparación del daño causado a la víctima u ofendido, y el activo no hubiere actuado en estado de ebriedad o bajo el efecto de narcóticos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1994)</small>
 
@@ -2245,11 +2247,11 @@ Practicando el sorteo, el presidente de debates ordenará se dé lectura a las d
 
 No se aceptará en este caso, como motivo de impedimento, el de simple excusa que señale el mismo código.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
 
 ###### Art. 304.
 
-Cuando un jurado no manifestare el impedimento que crea tener al hacérsele la pregunta a que se refiere el artículo anterior, y apareciere en el acto o posteriormente que lo tiene, será consignado por el delito a que se refiere el Artículo 160 del Código Penal.
+Cuando un jurado no manifestare el impedimento que crea tener al hacérsele la pregunta a que se refiere el artículo anterior, y apareciere en el acto o posteriormente que lo tiene, será consignado por el delito a que se refiere el Artículo 253 del Código Penal.
 
 ###### Art. 305.
 
@@ -2795,9 +2797,9 @@ Tratándose de delitos que afecten la vida o la integridad corporal, el monto de
 
 II.- Que caucione el cumplimiento de las obligaciones a su cargo, que la Ley establece en razón del proceso; y
 
-> <small>(F. DE E., P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2003)</small>
 
-III.- Que no se trate de algunos de los delitos señalados como graves por el artículo 183 de este Código.
+III.- Que no se trate de algunos de los delitos señalados como graves por el Artículo 11 del Código Penal.
 
 La garantía a que se refiere la fracción I y la caución a que se refiere la fracción II, podrán consistir en depósito en efectivo, fianza, prenda o hipoteca formalmente constituída.
 
@@ -3411,7 +3413,7 @@ Serán aplicables las disposiciones de este capítulo a las averiguaciones que s
 
 Reparación del daño exigible a persona distinta del inculpado.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MAYO DE 2003)</small>
 
 ###### Art. 470.
 
@@ -3443,7 +3445,9 @@ Incidentes no especificados.
 
 ###### Art. 476.
 
-La acción para exigir la reparación del daño a personas distintas del inculpado, de acuerdo con el Artículo 56 del Código Penal, debe ejercitarse por quien tenga derecho a ello, ante el Tribunal que conozca de lo penal; pero deberá intentarse y seguirse ante los Tribunales del orden civil, en el juicio que corresponda, cuando haya recaído sentencia irrevocable en el proceso, sin haberse intentado dicha acción. Esto último se observará también cuando, concluída la instrucción, no hubiere lugar al juicio penal por falta de acusación del Ministerio Público y se promueva posteriormente la acción civil, y cuando se trate de infracciones de la competencia del Tribunal de Menores.
+La acción para exigir la reparación del daño a personas distintas del inculpado, de acuerdo con el Artículo 57 del Código Penal, debe ejercitarse por quien tenga derecho a ello, ante el Tribunal que conozca de lo penal; pero deberá intentarse y seguirse ante los Tribunales del orden civil, en el juicio que corresponda, cuando haya recaído sentencia irrevocable en el proceso, sin haberse intentado dicha acción. Esto último se observará también cuando, concluida la instrucción, no hubiere lugar al juicio penal por falta de acusación del Ministerio Público y se promueva posteriormente la acción civil, y cuando se trate de infracciones de la competencia de la autoridad encargada de conocer de las conductas a que se refiere el Artículo 1 de la Ley de Justicia para Menores.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 Cuando promovidas las dos acciones, hubiere concluído el proceso sin que el incidente de reparación del daño esté en estado de sentencia, continuará conociendo de él el tribunal ante quien se haya iniciado.
 
@@ -3465,7 +3469,7 @@ Las providencias precautorias que pudiere intentar quien tenga derecho a la repa
 
 ### CAPITULO PRIMERO. De las personas jurídicas
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
 
 ###### Art. 481.
 
@@ -3485,7 +3489,7 @@ Procedimientos relativos a las personas jurídicas colectivas y a los inimputabl
 
 ###### Art. 482.
 
-El procedimiento relativo a las personas jurídicas colectivas, a que se refiere el Artículo 15 del Código Penal, se tramitará como incidente no especificado, pero la extinción sólo podrá decretarse en la sentencia definitiva.
+El procedimiento relativo a las personas jurídicas colectivas, a que se refiere el Artículo 93 del Código Penal, se tramitará como incidente no especificado, pero la extinción sólo podrá decretarse en la sentencia definitiva.
 
 > <small>(ADICIONADO, P.O. 14 DE MAYO DE 1978)</small>
 
@@ -3501,7 +3505,9 @@ Para resolver sobre la inimputabilidad de un inculpado el Tribunal, si lo creyer
 
 Las partes tendrán también derecho a nombrar peritos.
 
-El Tribunal, con base en los dictámenes y con audiencia de las partes, decidirá la imputabilidad o inimputabilidad del inculpado y, en su caso, procederá en los términos del Artículo 35 del Código Penal, a decretar la medida de seguridad curativa que corresponda.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
+
+El Tribunal, con base en los dictámenes y con audiencia de las partes, decidirá la imputabilidad o inimputabilidad del inculpado y, en su caso, procederá a decretar la medida de seguridad que corresponda.
 
 La resolución que se dicte será apelable en el efecto devolutivo.
 
@@ -3549,11 +3555,11 @@ El Ministrio (sic) Público cumplirá con el deber que le impone el artículo an
 
 Pronunciada una sentencia condenatoria irrevocable, el tribunal que la dicte remitirá, dentro de tres días, dos testimonios de ella, con los datos de identificación del reo, al Ejecutivo del Estado, quien enviará a la autoridad encargada de la ejecución uno de los testimonios.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
 
 ###### Art. 491.
 
-El Ministerio Público solicitará de los Tribunales que, para los efectos del Artículo 72 del Código Penal, se envíe a la autoridad fiscal que corresponda, copia autorizada de la sentencia en que se condena a la sanción pecuniaria, para que se haga efectivo tal importe.
+El Ministerio Público solicitará de los Tribunales que, para los efectos del Artículo 75 del Código Penal, se envíe a la autoridad fiscal que corresponda, copia autorizada de la sentencia en que se condena a la sanción pecuniaria, para que se haga efectivo tal importe.
 
 ###### Art. 492.
 
@@ -3567,11 +3573,11 @@ El tribunal podrá aplicar a la autoridad fiscal el medio de apremio que estime 
 
 Cuando un reo sufra una enfermedad mental que perturbe gravemente su conciencia, después de dictarse en su contra sentencia irrevocable que lo condene a pena privativa de libertad, se suspenderán los efectos de ésta mientras sane, internándosele en un hospital público para su tratamiento.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
 
 ###### Art. 494.
 
-Cuando los Tribunales decreten el decomiso de instrumentos u objetos de delito, los remitirán al Ejecutivo del Estado, para los efectos de los Artículo 77 y 78 del Código Penal.
+Cuando los Tribunales decreten el decomiso de instrumentos u objetos de delito, los remitirán al Ejecutivo del Estado, para los efectos de los Artículos 80 y 81 del Código Penal.
 
 ###### Art. 495.
 
@@ -3595,13 +3601,13 @@ Libertad anticipada.
 
 (DEROGADO, P.O. 14 DE MAYO DE 1978)
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
 
 ###### Art. 499.
 
-Cuando por algunas de las causas señaladas en los Artículos 103 y 105 del Código Penal deba revocarse la libertad condicional y hacerse efectiva la sanción en suspenso, el Tribunal que la concedió procederá, con audiencia de las partes si esto fuere posible, a comprobar la existencia de dicha causa y, en su caso, ordenará la revocación de la libertad y la ejecución de la sanción.
+Cuando por encontrarse en el supuesto previsto en el Artículo 107 del Código Penal deba revocarse la libertad condicional y hacerse efectiva la sanción en suspenso, el Tribunal que la concedió procederá, con audiencia de las partes si esto fuere posible, a comprobar la existencia de dicha causa y, en su caso, ordenará la revocación de la libertad y la ejecución de la sanción.
 
-Si la causa fuere la comisión de un nuevo delito durante el término a que se refiere el Artículo 103 del Código Penal, deberá acreditarse siempre con testimonio de la de la sentencia irrevocable pronunciada en el segundo proceso.
+Si la causa fuere la comisión de un nuevo delito durante el término a que se refiere el Artículo 107 del Código Penal, deberá acreditarse siempre con testimonio de la sentencia irrevocable pronunciada en el segundo proceso.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MAYO DE 1978)</small>
 
@@ -3613,13 +3619,17 @@ Retención.
 
 Cuando algún reo que esté compurgando una pena privativa de libertad crea tener derecho a la libertad anticipada, la podrá solicitar, por sí o por persona de su confianza verbalmente o por escrito, ante el Juez de Primera Instancia que conoció del proceso, pudiendo aportar las pruebas que tuviere.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MAYO DE 2003)</small>
 
 ###### Art. 501.
 
-Recibida la solicitud, el Juez pedirá informes al Alcaide de la prisión donde se encuentre recluido el reo, sobre si ha observado buena conducta durante su reclusión y hará un análisis para determinar si en el caso se satisfacen los requisitos establecidos por las fracciones II y III del Artículo 106 del Código Penal.
+Recibida la solicitud, el Juez pedirá informes al Director o encargado de la prisión donde se encuentre recluido el reo, sobre si ha observado buena conducta durante su reclusión y hará un análisis para determinar si en el caso se satisfacen los requisitos establecidos por las fracciones I y II del artículo 34 de la Ley de Ejecución de Sanciones Privativas de la Libertad para el Estado.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1980)</small>
 
 El Juez remitirá su opinión, así como la documentación que la sustenta, al Ejecutivo del Estado, dando cuenta al Supremo Tribunal de Justicia.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1980)</small>
 
 La opinión del Juez no impide que el reo aporte pruebas directamente al Ejecutivo del Estado para corroborar o desvirtuar aquélla.
 
@@ -3645,17 +3655,17 @@ El salvoconducto a que se refiere el artículo anterior será entregado al inter
 
 (DEROGADO, P.O. 14 DE MAYO DE 1978)
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
 
 ###### Art. 506.
 
-Cuando el que goce de libertad anticipada se encuentre en alguno de los casos que menciona elA rtículo (sic) 107 del Código Penal, la autoridad municipal, o cualquiera otra que tenga conocimiento de ello, dará cuenta a la que le concedió la libertad para los efectos del mismo artículo.
+Cuando el que goce de libertad anticipada se encuentre en alguno de los casos que menciona el Artículo 35 de la Ley de Ejecución de Sanciones Privativas de la Libertad para el Estado, la autoridad municipal, o cualquiera que tenga conocimiento de ello, dará cuenta a la que le concedió la libertad para los efectos del mismo artículo.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
 
 ###### Art. 507.
 
-Cuando el reo cometiere un nuevo delito, el Tribunal que conozca de éste remitirá copia certificada de la sentencia que cause ejecutoria a la autoridad que concedió la libertad, quien de plano decretará la revocación, si procede, de conformidad con el Artículo 107 del Código Penal.
+Cuando el reo cometiere un nuevo delito, el Tribunal que conozca de éste remitirá copia certificada de la sentencia que cause ejecutoria a la autoridad que concedió la libertad, quien de plano decretará la revocación, si procede, de conformidad con el Artículo 35 de la Ley de Ejecución de Sanciones Privativas de la Libertad para el Estado.
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
@@ -3673,7 +3683,7 @@ Cuando hubiere expirado el término de la condena que debiera haberse compurgado
 
 Reducción y sustitución de sanciones.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
 
 ###### Art. 510.
 
@@ -3701,7 +3711,7 @@ Indulto y reconocimiento de la inocencia del sentenciado.
 
 ###### Art. 514.
 
-El que hubiere sido condenado por sentencia irrevocable y se encontrare en los casos del Artículo 6 del Código Penal, podrá solicitar del Poder Ejecutivo la reducción o la sustitución de la pena que se le hubiere impuesto, acompañando a su solicitud testimonio de la sentencia.
+El que hubiere sido condenado por sentencia irrevocable y se encontrare en el supuesto previsto por el artículo 4 del Código Penal, podrá solicitar del Poder Ejecutivo la reducción o la sustitución de la pena que se le hubiere impuesto, acompañando a su solicitud testimonio de la sentencia.
 
 ###### Art. 515.
 
@@ -3713,11 +3723,11 @@ Dictada la resolución se comunicará al tribunal que haya conocido del proceso 
 
 (DEROGADO, P.O. 14 DE MAYO 1978)
 
-> <small>(REFORMADO, P.O. 14 DE MAYO 1978)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
 
 ###### Art. 517.
 
-En los casos del Artículo 7 del Código Penal, el Tribunal que conozca del proceso decretará de plano la libertad del inculpado.
+En los casos del Artículo 5 del Código Penal, el Tribunal que conozca del proceso decretará de plano la libertad del inculpado.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MAYO DE 1978)</small>
 
@@ -3793,11 +3803,13 @@ Transcurrido el término a que se refiere el artículo anterior, se fallará el 
 
 Todas las resoluciones en que se reconozca la inocencia del sentenciado, se comunicarán al Ejecutivo y al Tribunal que hubiere dictado la sentencia.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MAYO DE 2003)</small>
 
 ###### Art. 528.
 
-El condenado que se encuentre dentro de lo dispuesto por el Artículo 7 del Código Penal, acudirá por escrito al Ejecutivo del Estado, solicitando declare sin efectos la sentencia correspondiente.
+El condenado que se encuentre dentro de lo dispuesto por el Artículo 5 del Código Penal, acudirá por escrito al Ejecutivo del Estado, solicitando declare sin efectos la sentencia correspondiente.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 El Ejecutivo, luego de recabar los documentos necesarios, resolverá sin más trámites.
 
@@ -4028,3 +4040,7 @@ Artículo Primero.- Este Código entrará en vigor el 1º primero de enero del 2
 Artículo Quinto.- Se deroga el penúltimo y último párrafos del artículo 183 ciento ochenta y tres del Código de Procedimientos Penales para el Estado de Guanajuato. Toda referencia al catálogo de delitos graves que alguna disposición realice se entenderá que se hace al artículo 11 once de este Código.
 
 Artículo Séptimo.- Quedan vigentes las disposiciones de carácter penal contenidas en otros ordenamientos, en todo lo que no se oponga a este Código.
+
+P.O. 16 DE MAYO DE 2003.
+
+Artículo Único.- El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
