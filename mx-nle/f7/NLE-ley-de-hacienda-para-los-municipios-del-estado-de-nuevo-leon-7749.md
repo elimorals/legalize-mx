@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1997-07-09"
+last_updated: "1997-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -727,15 +727,15 @@ Están obligados al pago del Impuesto Sobre Adquisición de Inmuebles, las perso
 
 Para los efectos de esta ley, se considera base del impuesto el valor gravable del inmueble, que será el que resulte mayor entre el de operación y el consignado en el certificado de valor actual real, que al efecto expida la Secretaría de Finanzas y Tesorería General del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 28 Bis 1.
 
-En la adquisición de viviendas cuyo valor más alto en los términos del artículo 28 bis-3, fracción I, no exceda de 25 cuotas elevadas al año y siempre que el adquirente sea persona física, cubrirá el impuesto aplicando la tasa del 2% al valor del inmueble, después de reducirlo en 15 cuotas elevadas al año.
+En la adquisición de viviendas cuyo valor más alto en los términos del Artículo 28 bis-3, fracción I, no exceda de 25 cuotas elevadas al año y siempre que el adquirente sea persona física y no sea propietario o poseedor de otro bien inmueble en el Estado, cubrirá el impuesto aplicando la tasa del 2% al valor del inmueble, después de reducirlo en 15 cuotas elevadas al año.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-El Impuesto Sobre Adquisición de Inmuebles se cubrirá a una tarifa única especial equivalente a seis cuotas, en los siguientes casos:
+El Impuesto Sobre Adquisición de Inmuebles se cubrirá a una tarifa única especial equivalente a siete cuotas, en los siguientes casos:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -785,9 +785,9 @@ X.- En las adquisiciones, derechos o renta a perpetuidad de los lotes en los pan
 
 XI.- En las adquisiciones de bienes del dominio privado que realicen el Estado, los Municipios y sus entidades paraestatales.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-XII.- En las adquisiciones de viviendas cuyo valor más alto entre el valor de adquisición y el indicado en el certificado de valor actual real, no exceda de 15 cuotas elevadas al año, siempre que el adquirente sea persona física.
+XII.- En las adquisiciones de viviendas cuyo valor más alto entre el valor de adquisición y el indicado en el certificado de valor actual real, no exceda de 15 cuotas elevadas al año, siempre que el adquirente sea persona física y no sea propietario o poseedor de otro bien inmueble en el Estado.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -899,9 +899,13 @@ b) Se presente ante la Dirección de Catastro de la Secretaría de Finanzas y Te
 
 c) Se inscriba el título de adquisición de dominio del inmueble en el Registro Público de la Propiedad y del Comercio.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-En caso de que no se realizarán estos trámites, las facultades de las autoridades fiscales mencionadas en el párrafo anterior se extinguirán en un plazo de diez años contados a partir de la fecha en que debió haber sido presentada la declaración.
+En caso de que no se realizaran estos trámites, las facultades de las autoridades fiscales mencionadas en el párrafo anterior, no se extinguirán.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+En el supuesto de que en la declaración del Impuesto Sobre Adquisición de Inmuebles, se hubiere omitido el pago correspondiente a la construcción, ya sea por causas imputables al enajenante o adquirente, se impondrá una multa al adquirente de tres cuotas hasta el 100% de la contribución omitida, determinando ésta sobre el valor de la construcción no declarada.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -945,9 +949,9 @@ El impuesto se cubrirá en efectivo o mediante cheque certificado ante las ofici
 
 La Tesorería Municipal recibirá la nota oficial del Impuesto Sobre Adquisición de Inmuebles y devolverá al contribuyente una copia en la que se haga constar su recepción, debiendo aceptarse o rechazarse en un plazo no mayor de diez días hábiles, contados a partir del día siguiente al de su presentación. Transcurrido dicho plazo sin que se notifique el rechazo, la nota se tendrá por aceptada, sin perjuicio de las facultades de fiscalización que conserva la autoridad. Cuando no se haya cumplido con lo estipulado por esta Ley para la presentación de la nota o se requiera al Notario ante el que se tramita la escrituración del inmueble o al contribuyente para que proporcione algún otro elemento necesario para resolver, el término comenzará a correr a partir de que satisfagan tales requisitos. Para tales efectos, al presentar la declaración de Impuesto Sobre Adquisición de Inmuebles, se deberá proporcionar un domicilio dentro del municipio en donde se encuentre el inmueble.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-La autoridad municipal no podrá exigir pago alguno, sea total o parcial, hasta en tanto no se haya autorizado la nota oficial.
+Cuando no se haya cumplido con lo estipulado en esta Ley, para la presentación de la nota o se requiera al Notario ante el que se tramita la escrituración del inmueble o al contribuyente para que proporcione algún otro elemento necesario para resolver, se tendrá un término de 30 días para proporcionar lo solicitado, transcurrido dicho plazo, sin que se cumpla con lo solicitado, la autoridad municipal podrá proceder a realizar la liquidación y cobro del impuesto correspondiente.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
@@ -1519,37 +1523,37 @@ La Tesorería Municipal formulará y notificará oportunamente al causante, la l
 
 RASTRO.- En los Municipios de Allende, Apodaca, Cadereyta Jiménez, García, General Escobedo, Guadalupe, Linares, Juárez, Montemorelos, Monterrey, Sabinas Hidalgo, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina y Santiago, en materia de rastro, se aplicarán las cuotas siguientes, incluyendo servicios de corrales, uso de maquinaria y edificios:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-I.- Por cabeza de ganado mayor con más de 500 kilogramos de peso $81.50
+I.- Por cabeza de ganado mayor con más de 500 kilogramos de peso 3.5 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-II.- Por cabeza de ganado mayor con peso de hasta 500 kilogramos $51.50
+II.- Por cabeza de ganado mayor con peso de hasta 500 kilogramos 2 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-III.- Por cabeza de ganado porcino con más de 100 kilogramos de peso $45.00
+III.- Por cabeza de ganado porcino con más de 100 kilogramos de peso 2 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-IV.- Por cabeza de ganado porcino con peso de hasta 100 kilogramos $ 30.00
+IV.- Por cabeza de ganado porcino con peso de hasta 100 kilogramos 1 .5 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-V.- Por cabeza de ganado ovicaprino $ 11.50
+V.- Por cabeza de ganado ovicaprino .5 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-VI.- Por cabrito $ 6.00
+VI.- Por cabrito $ 7.00
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-VII.- Por ave, con excepción de guajolotes $ .85
+VII.- Por ave, con excepción de guajolotes $ 1.00
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-VIII.- Por guajolote $ 1.30
+VIII.- Por guajolote $ 1.50
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
 
@@ -1561,77 +1565,77 @@ En los demás Municipios del Estado se pagará el 50% (cincuenta por ciento) de 
 
 REFRIGERACION.- Por el servicio de refrigeración de animales prestado en los rastros municipales, diariamente:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-I.- Por cabeza de ganado mayor con más de 500 kilogramos de peso $28.00
+I.- Por cabeza de ganado mayor con más de 500 kilogramos de peso 1.5 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-II.- Por cabeza de ganado mayor con peso de hasta 500 kilogramos $15.00
+II.- Por cabeza de ganado mayor con peso de hasta 500 kilogramos 0.75 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-III.- Por cabeza de ganado porcino con más de 100 kilogramos de peso $11.50
+III.- Por cabeza de ganado porcino con más de 100 kilogramos de peso 0.5 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-IV.- Por cabeza de ganado porcino con peso de hasta 100 kilogramos $7.50
+IV.- Por cabeza de ganado porcino con peso de hasta 100 kilogramos $.8.50
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-V.- Por cabeza de ganado ovicaprino $5.00
+V.- Por cabeza de ganado ovicaprino $5.75
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-VI.- Por cabrito $1.15
+VI.- Por cabrito $1.30
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-VII.- Por ave $ .45
+VII.- Por ave $.50
 
 Cuando se trate de animales incompletos se causarán los derechos que establece este artículo si la carne que se presenta corresponde a más del 50% del animal. Si es menor se cobrará el 50% de la cuota.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 51.
 
-Por servicios prestados en materia sanitaria por concepto de análisis y resello de carnes frescas o refrigeradas, de ganado o aves:
+Por servicios prestados en materia sanitaria por concepto de control de higiene de carnes frescas o refrigeradas, de ganado o aves:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-I.- Ganado mayor por canal $4.50
+I.- Ganado mayor por canal $5.00
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-II.- Ganado porcino por canal $3.20
+II.- Ganado porcino por canal $3.70
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-III.- Ganado ovicaprino por canal $1.30
+III.- Ganado ovicaprino por canal $1.50
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-IV.- Cabrito, por cada uno $.85
+IV.- Cabrito, por cada uno $1.00
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-V.- Aves, por cada una $.30
+V.- Aves, por cada una $.35
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-VI.- Guajolotes, por cada uno $.85
+VI.- Guajolotes, por cada uno $1.00
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-VII.- Cabeza de res o de cerdo $.85
+VII.- Cabeza de res o cerdo $1.00
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-VIII.- Asadura, por pieza $.30
+VIII.- Asadura, por pieza $.35
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-IX.- Menudo, por pieza $.30
+IX.- Menudo, por pieza $.35
 
 Cuando se trate de animales incompletos, se causarán los derechos que establece este Artículo si la carne que se presenta corresponde a más de 50% del animal, si es menor se cobrará el 50% de la cuota.
 
@@ -1647,21 +1651,21 @@ Servicios prestados por las oficinas competentes en materia de Obras Públicas y
 
 I.- Por examen y aprobación de planos de construcción se cobrará por metro cuadrado, en cada una de las plantas:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-a) PRIMERA CATEGORIA:- Comprende residencias con más de 500 metros cuadrados de construcción cerrada, oficinas y comercios, incluyéndose, entre otros, hoteles, cines, restaurantes y en general todo establecimiento en el que se desarrolle una actividad comercial, $2.70 el metro cuadrado.
+a) PRIMERA CATEGORÍA:- Comprende residencias con más de 500 metros cuadrados de construcción cerrada, oficinas y comercios, incluyéndose, entre otros, hoteles, cines, restaurantes y en general todo establecimiento en el que se desarrolle una actividad comercial, $3.50 el metro cuadrado.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-b) SEGUNDA CATEGORIA:- Comprende construcciones industriales y todo tipo de construcción no incluida dentro de la primera, tercera o cuarta categoría, $1.80 el metro cuadrado.
+b) SEGUNDA CATEGORÍA:- Comprende construcciones industriales y todo tipo de construcción no incluida dentro de la primera, tercera o cuarta categoría, $2.35 el metro cuadrado.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-c) TERCERA CATEGORIA:- Comprende casa-habitación y edificios o conjuntos multifamiliares con superficie de construcción cerrada no mayor de 150 metros cuadrados por vivienda, $.80 el metro cuadrado y $.40 el metro cuadrado de construcción abierta.
+c) TERCERA CATEGORÍA:- Comprende casa-habitación y edificios o conjuntos multifamiliares con superficie de construcción cerrada no mayor de 150 metros cuadrados por vivienda, $.95 el metro cuadrado y $.50 el metro cuadrado de construcción abierta.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-d) CUARTA CATEGORIA:- Comprende construcciones de bardas en cualquiera de las anteriores categorías, $1.00 por metro lineal.
+d) CUARTA CATEGORÍA:- Comprende construcciones de bardas en cualquiera de las anteriores categorías, $1.20 por metro lineal.
 
 Los derechos previstos en esta fracción, en ningún caso serán inferiores a 2.5 cuotas.
 
@@ -1685,35 +1689,57 @@ Por los predios resultantes de hasta 250 metros cuadrados de superficie y los qu
 
 Por información de factibilidad y lineamientos de los usos de suelo urbanos y de las edificaciones 2 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-II.- Por inicio de trámite de licencia de uso de suelo o de edificación, por metro cuadrado de construcción, conforme a la siguiente tarifa:
+II.- Por inicio de trámite de licencia de uso de suelo o de edificación, por unidad de edificación o vivienda o por superficie de terreno, conforme a la siguiente tarifa:
 
-a) Hasta 100 m2 6 cuotas
-
-b) Mayor de 100 m2 y hasta 250 m2 12 cuotas
-
-c) Mayor de 250 m2 y hasta 500 m2 18 cuotas
-
-d) Mayor de 500 m2 y hasta 1,000 m2 24 cuotas
-
-e) Mayor de 1,000 m2 30 cuotas
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-III.- Por la licencia de uso de suelo o de edificaciones, por metro cuadrado de construcción, excluyendo los estacionamientos, conforme a la siguiente tarifa:
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 a) Hasta 100 m2 6 cuotas
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
 b) Mayor de 100 m2 y hasta 250 m2 12 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 c) Mayor de 250 m2 y hasta 500 m2 18 cuotas
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
 d) Mayor de 500 m2 y hasta 1,000 m2 24 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 e) Mayor de 1,000 m2 30 cuotas
 
-Adicionalmente se cubrirá una cantidad adicional, por metro cuadrado de construcción, conforme a la siguiente tarifa:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+III.- Por la licencia de uso de suelo o de edificaciones, por unidad de edificación o vivienda o por superficie de terreno, conforme a la siguiente tarifa:
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+a) Hasta 100 m2 6 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+b) Mayor de 100 m2 y hasta 250 m2 12 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+c) Mayor de 250 m2 y hasta 500 m2 18 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+d) Mayor de 500 m2 y hasta 1,000 m2 24 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+e) Mayor de 1,000 m2 30 cuotas
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+Adicionalmente se cubrirá una cantidad complementaria, por metro cuadrado de construcción, excluyendo estacionamientos, conforme a la siguiente tarifa:
 
 a) Hasta 100 M2 $2.50
 
@@ -1771,17 +1797,21 @@ C.- Lotes con superficie mayor de 300 metros cuadrados $6.00
 
 3.- Industriales ubicados en los municipios de Apodaca, Escobedo, Guadalupe y Juárez $1.95
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-4.- Campestres ubicados en los Municipios de San Pedro Garza García, Monterrey y Santiago $3.75
+4.- Campestres ubicados en los Municipios de Monterrey, San Pedro Garza García, Santa Catarina y Santiago $3.75
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 5.- Campestres ubicados en el resto del Estado $.25
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-6.- Otros $3.75
+6. Otros ubicados en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santiago y Santa Catarina $3.75
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+7. Otros ubicados en el resto del Estado $.25
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -1853,25 +1883,25 @@ Quedan exentos de los Derechos señalados en el Artículo 52 de esta Ley, los en
 
 Por la inscripción de nuevos fraccionamientos o ampliaciones a los ya existentes, que apruebe el Gobierno del Estado, se cubrirán los siguientes derechos por metro cuadrado del área vendible:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-a) Fraccionamientos cuyos lotes tengan una superficie promedio mayor de 250 metros cuadrados $.55
+a) Fraccionamientos cuyos lotes tengan una superficie promedio mayor de 250 metros cuadrados $.65
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-b) Fraccionamientos cuyos lotes tengan una superficie promedio entre 150 metros cuadrados y 250 metros cuadrados $.30
+b) Fraccionamientos cuyos lotes tengan una superficie promedio entre 150 metros cuadrados y 250 metros cuadrados $.35
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-c) Fraccionamientos cuyos lotes tengan una superficie promedio menor de 150 metros cuadrados $.20
+c) Fraccionamientos cuyos lotes tengan una superficie promedio menor de 150 metros cuadrados $.25
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-d) Cementerios ubicados en los Municipios de Guadalupe, Monterrey, San Nicolás de los Garza y San Pedro Garza García $.30
+d) Cementerios ubicados en los Municipios de Guadalupe, Monterrey, San Nicolás de los Garza y San Pedro Garza García $.35
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-e) Cementerios ubicados en el resto de los Municipios del Estado $.20
+e) Cementerios ubicados en el resto de los Municipios del Estado $.25
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -3098,3 +3128,13 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 9 DE JULIO DE 1997.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 1° de Enero de 1998.
+
+SEGUNDO.- Durante el año de 1998, el Impuesto Sobre Adquisición de Inmuebles se cubrirá a una tarifa especial de 50 cuotas por cada inmueble, en las adquisiciones provenientes de Dación en Pago o Adjudicación Judicial o fiduciaria, tratándose de contribuyentes que por disposición legal no pueden conservar la propiedad de dichos bienes, tales como Instituciones Nacionales de Crédito, Organizaciones Auxiliares de Crédito y Casas de Bolsa.
+
+Esta tarifa sólo será aplicable siempre y cuando el inmueble se encuentre al corriente en el pago de los impuestos y derechos que le correspondan.
+
+TERCERO.- Los derechos previstos en el artículo 52 bis, fracción V, inciso b), numeral 7, se aplicarán exclusivamente a los trámites urbanísticos que se inicien a partir de la vigencia del presente Decreto.
