@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1971-07-03"
+last_updated: "1978-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1978.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -2479,7 +2479,7 @@ Es válido todo lo practicado por los jueces competentes antes de la acumulació
 
 Se tramitarán sumariamente:
 
-I. Los juicios de alimentos, ya sean provisionales o los que se deban con el carácter de estabilidad por contrato, por testamento o por disposición de la ley; ya tengan por objeto el pago o solo el aseguramiento;
+I. (DEROGADA, P.O. 23 DE DICIEMBRE DE 1978)
 
 > <small>(REFORMADA, P.O. 14 DE JULIO DE 1950)</small>
 
@@ -2489,11 +2489,11 @@ III. Los juicios que tengan por objeto la firma de una escritura, la elevación 
 
 IV. Los cobros judiciales de honorarios debidos a peritos y a los abogados, médicos, notarios, ingenieros y demás personas que ejerzan una profesión mediante título expedido por autoridad competente;
 
-V. La calificación de impedimentos de matrimonio;
+V. (DEROGADA, P.O. 23 DE DICIEMBRE DE 1978)
 
-VI. La constitución necesaria del patrimonio de familia y la oposición de terceros con interés legítimo para que se haga esa constitución y, en general, cualquier controversia que sobre dicho patrimonio se suscitare. No habiendo contienda, todo lo relativo al patrimonio familiar se sustanciará en jurisdicción voluntaria;
+VI. (DEROGADA, P.O. 23 DE DICIEMBRE DE 1978)
 
-VII. Las diferencias que surjan entre marido y mujer sobre administración de bienes comunes, educación de hijos, oposiciones de maridos, padres y tutores y, en general, todas las cuestiones familiares que reclamen la intervención judicial;
+VII. (DEROGADA, P.O. 23 DE DICIEMBRE DE 1978)
 
 VIII. La rendición de cuentas por tutores, administradores y por todas aquellas personas a quienes la ley o el contrato imponen esa obligación;
 
@@ -5361,6 +5361,10 @@ Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en 
 
 La impugnación de la adopción y su revocación, en los casos de los artículos 408 y 419, fracción II, del Código Civil, no pueden promoverse en diligencias de jurisdicción voluntaria.
 
+### CAPITULO UNICO. De las controversias de orden familiar
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
+
 ###### Artículo 918.
 
 La información ad-perpetuam podrá decretarse cuando se trate:
@@ -5639,6 +5643,120 @@ III. Llegado el caso, el ejecutor, asociado de la parte que obtuvo y sirviendo d
 
 El tercero que considere perjudicados sus derechos al ejecutarse la sentencia en estos juicios, ocurrirá al alcalde presentando sus pruebas, y éste con audiencia inmediata de las partes resolverá si subsiste o no el secuestro o el acto de ejecución practicado, sin decidir sobre la propiedad de la cosa ni sobre los derechos controvertidos.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1978)</small>
+
+TITULO DECIMOSEPTIMO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1978)</small>
+
+###### Artículo 962.
+
+Todos los problemas inherentes a la familia se consideran de orden público, por constituir aquella base de la integración de la sociedad.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
+
+###### Artículo 963.
+
+El Juez de lo familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores y de alimentos, decretando las medidas que tiendan a preservarla y a proteger a sus miembros.
+
+En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el Juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
+
+###### Artículo 964.
+
+No se requieren formalidades especiales para acudir ante el Juez de lo familiar cuando se solicite la declaración, preservación o constitución de un derecho o se alegue la violación del mismo o el desconocimiento de una obligación, tratándose de alimentos, de calificación de impedimentos de matrimonio, oposición de maridos, padres y tutores o de las diferencias que surjan entre marido y mujer sobre administración de bienes comunes, educación de hijos y en general todas las cuestiones familiares similares que reclamen la intervención judicial.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
+
+###### Artículo 965.
+
+Podrá acudirse al Juez de lo familiar por escrito o por comparecencia personal en los casos urgentes a que se refiere el artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate, con las copias respectivas de esa comparecencia y de los documentos que en su caso se presenten se correrá traslado a la parte demandada, la que deberá comparecer en la misma forma dentro del término de nueve días, en tales comparecencias las partes deberán ofrecer las pruebas respectivas. Al ordenarse ese traslado, el Juez deberá señalar día y hora para la celebración de la audiencia respectiva, tratándose de alimentos, ya sean provisionales o los que se deban por contrato, por testamento o por disposición de la Ley el Juez fijará a petición del acreedor, sin audiencia del deudor, y mediante la prueba que estime necesaria, una pensión alimenticia provisional, mientras se resuelve el juicio.
+
+Será optativo para las partes acudir asesoradas, y en este supuesto, los asesores necesariamente deberán ser Licenciados en Derecho, con título profesional legalmente expedido, en caso de que una de las partes se encuentre asesorada y la otra no, se solicitará de inmediato los servicios de un defensor de oficio, el que deberá acudir, desde luego, a enterarse del asunto, disfrutando de un término que no podrá exceder de tres días para hacerlo, por cuya razón se diferirá la audiencia en un término igual.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
+
+###### Artículo 966.
+
+En la audiencia las partes aportarán las pruebas que así procedan y que hayan ofrecido, sin más limitación que no sean contrarias a la moral o estén prohibidas por la ley.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
+
+###### Artículo 967.
+
+La audiencia se practicará con o sin la asistencia de las partes. El Juez, para resolver el problema que se le plantee, podrá cerciorarse personalmente o con el auxilio de trabajadoras sociales, médicos, psicólogos y en general de toda clase de peritos oficiales, de la veracidad de los hechos, quienes presentarán el trabajo que desarrollan en la audiencia, pudiendo ser interrogados por el Juez y por las partes. Su intervención tendrá el valor de un testimonio de calidad, quedando sujeta su evaluación a lo dispuesto por el Capítulo relativo a la valoración de la prueba. En el fallo se expresarán en todo caso los medios y pruebas en los que se haya fundado el Juez para dictarlo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
+
+###### Artículo 968.
+
+El Juez y las partes podrán interrogar a los testigos con relación a los hechos controvertidos, pudiéndoles hacer todas las preguntas que juzguen procedentes, con la sola limitación de que no sean contrarias a la moral.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
+
+###### Artículo 969.
+
+La audiencia se llevará a cabo dentro de los treinta días contados a partir del auto que ordene el traslado, en la inteligencia de que la demanda inicial deberá ser proveída dentro del término de tres días.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
+
+###### Artículo 970.
+
+Si por cualquier circunstancia la audiencia no pueda celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos, de manifestar bajo protesta de decir verdad no estar en aptitud de hacerlo, se impondrá al actuario de (sic) Juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos asimismo, para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación se hará con apercibimiento de arresto hasta por quince días, de no comparecer el testigo o el perito sin causa justificada y el promovente de la prueba, de imponerle una multa hasta de un mil pesos en caso de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante, las partes en caso de que se ofrezca la prueba confesional deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
+
+###### Artículo 971.
+
+La sentencia se pronunciará de manera breve y concisa, en el mismo momento de la audiencia de ser así posible o dentro de los ocho días siguientes.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
+
+###### Artículo 972.
+
+La apelación deberá interponerse en la forma y términos previstos por éste Código.
+
+Cuando la tramitación del juicio se haya regido por disposiciones generales de éste Código, igualmente se regirán por estas disposiciones, por lo que toca a los recursos: pero en todo caso, si la parte recurrente careciere de abogado, la propia sala solicitará la intervención de un defensor de oficio, quien gozará de un plazo de tres días más para enterarse del asunto a efecto de que haga valer los agravios o cualquier derecho a nombre de la parte que asesore.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
+
+###### Artículo 973.
+
+Salvo los casos expresamente previstos por la Ley en donde el recurso de apelación se admitirá en ambos efectos, en los demás casos, dicho recurso procederá en el efecto devolutivo.
+
+Las resoluciones sobre alimentos que fueren apeladas, se ejecutarán sin fianza.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
+
+###### Artículo 974.
+
+Son procedentes en materia de recursos, todos los previstos en este Código y su tramitación se sujetara a las disposiciones generales del mismo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
+
+###### Artículo 975.
+
+La recusación con causa o sin ella, no podrá impedir que el Juez adopte las medidas provisionales sobre depósito de persona, alimentos y menores.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
+
+###### Artículo 976.
+
+Ninguna excepción dilatoria podrá impedir que se adopten las referidas medidas, tanto en este caso como en el del artículo anterior, hasta después de tomadas dichas medidas se dará el tramite correspondiente a la cuestión planteada.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
+
+###### Artículo 977.
+
+Los incidentes se decidirán con un escrito de cada parte y sin suspensión del procedimiento. Si se promueve prueba, deberá ofrecerse en los escritos respectivos, fijando los puntos sobre que verse, y se citaran dentro de ocho días, para la audiencia indiferible, en que se reciba, se oigan brevemente las alegaciones, y se dicte la resolución dentro de los tres días siguientes.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
+
+###### Artículo 978.
+
+En todo lo no previsto, regirán las reglas generales de este Código de Procedimientos Civiles, en cuanto no se opongan a las disposiciones del presente Título.
+
 ## ARTICULOS TRANSITORIOS
 
 ###### Artículo 1º.
@@ -5716,3 +5834,17 @@ Unico.- La presente reforma a que se refiere el Artículo anterior entrará en v
 P.O. 3 DE JULIO DE 1971.
 
 UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE DICIEMBRE DE 1978.
+
+PRIMERO.- Los Juzgados denominados actualmente de lo civil, continuaran funcionando en la misma forma y seguirán conociendo hasta la sentencia definitiva de todos los asuntos de las materias Civil Patrimonial, Mercantil y de lo Familiar de que actualmente conocen.
+
+SEGUNDO.- Los mencionados Juzgados, así como los Mixtos de Primera Instancia, continuarán tramitando los asuntos de lo Familiar de que actualmente conocen conforme a la Legislación procesal civil del Estado antes de esta reforma.
+
+TERCERO.- Todos los asuntos de lo Familiar que se planteen ante los Juzgados de la materia y Mixtos de Primera Instancia a partir de la vigencia de las presentes reformas, serán tramitadas de acuerdo con lo dispuesto en el Título Decimoséptimo del Código de Procedimientos Civiles del Estado.
+
+CUARTO.- Se derogan las Fracciones I, V, VI y VII del Artículo 424 del Código de Procedimientos Civiles.
+
+QUINTO.- La creación de los Juzgados de los Familiar se hace, además con una contribución al "Año Internacional del Niño", declarado para 1979, por la O.N.U., en los (sic) 106 Asamblea General realizada en Diciembre de 1976, en la Ciudad de Nueva York.
+
+SEXTO.- El presente decreto entrará en vigor diez días después de su publicación en el Periódico Oficial del Estado.
