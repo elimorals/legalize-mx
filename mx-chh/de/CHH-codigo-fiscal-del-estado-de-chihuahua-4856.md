@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1988-09-21"
+last_updated: "1988-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1988.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1607,7 +1607,7 @@ VIII.- Naturaleza y valor de la operación;
 
 IX.- Fecha del otorgamiento y autorización de la escritura;
 
-X.- Nombre y numero del Notario o autoridad ante quien se celebre el contrato u operación.
+X.- Nombre y número del Notario o autoridad ante quien se celebre el contrato u operación.
 
 131.- Toda construcción, ampliación o modificación de la construcción ya existente, deberá ser manifestada por el sujeto del impuesto a la Tesorería General del Estado, en las formas que para el caso autorice la misma, dentro de los 15 días siguientes al de la terminación de la obra realizada.
 
@@ -2849,113 +2849,185 @@ VI.- Las demás que establezcan las leyes.
 
 ### CAPITULO XIV. DERECHOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-308.- Como contraprestación por los servicios de carácter administrativo prestados por los poderes del Estado, se causarán derechos por:
+308.- Los derechos por la prestación de servicios públicos que realicen las dependencias del Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento en que provoque por parte del Estado el gasto que deba ser remunerado por aquél, salvo que la disposición que fije el derecho señale algo distinto.
 
-I.- Legalización de firmas y por la expedición de certificaciones y copias certificadas;
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-II.- Expedición y registro de títulos profesionales;
+308-A.- Los derechos que señale la Ley de Ingresos del Estado deberán ser cubiertos en la Recaudación de Rentas de la jurisdicción donde se preste el servicio o en el lugar en que al efecto señale la Dirección General de Finanzas del Estado.
 
-III.- Registro y expedición de autorizaciones a prácticos de diversas profesiones;
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-IV.- Realización de examen teórico-práctico a los sujetos a que se refiere la fracción anterior;
+308-B.- El funcionario o empleado que preste el servicio procederá a su realización al presentarle el particular el recibo que acredite su pago ante la Recaudación de Rentas respectiva o Dirección General de Finanzas del Estado.
 
-V.- Autorización a Pasantes para el ejercicio de una profesión;
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-VI.- Revalidación de estudios profesionales;
+308-C.- El funcionario o empleado público que preste algún servicio por el cual se cause un derecho, en contravención a lo dispuesto en los artículos anteriores, será solidariamente responsable en su pago, sin perjuicio de las demás sanciones que procedan.
 
-VII.- Expedición de cédulas profesionales;
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-VIII.- Reposición de cédulas de registro profesional;
+308-D.- En caso de existir discrepancia en cuanto a la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio, la consignación del importe fijado por el órgano recaudador en los términos establecidos por las leyes fiscales, dará lugar a la prestación de dicho servicio.
 
-IX.- Expedición de títulos de carreras no profesionales;
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-X.- Registro de Colegios de profesionistas;
+308-E.- De los servicios prestados por el Departamento de Gobernación, se causarán derechos por:
 
-XI.- Registro de patente de aspirantes al ejercicio del Notariado;
+I.- Legalización de firmas, expedición de certificaciones, constancias y copias certificadas.
 
-XII.- Registro de nombramiento de Notario;
+II.- Opinión para la adquisición de muebles inmuebles (sic) conforme a la fracción IV del artículo 27 de la Constitución Federal.
 
-XIII.- Inscripciones en el Registro Público de la Propiedad y en el de Comercio;
+III.- Expedición de constancias de no antecedentes penales.
 
-XIV.- Actos del Registro Civil;
+IV.- Opinión para la autorización de usos de explosivos y sus artificios.
 
-XV.- Autorización de protocolos notariales;
+V.- Opinión para la realización de carreras de caballos, peleas de gallos y palenques.
 
-XVI.- Expedición de patentes sanitarias;
+VI.- Opinión para la realización de rifas y sorteos.
 
-XVII.- Publicaciones en el periódico Oficial del Estado;
+VII.- Opinión para la desincorporación de inmuebles del régimen de colonias para destinarlos a un fin distinto, a solicitud de parte interesada.
 
-XVIII.- Expedición de permisos para traslado y exhumación de cadáveres;
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1986)</small>
+308-F.- Por los servicios prestados por el Departamento del Registro Público de la Propiedad y del Notariado:
 
-XIX.- Por servicios de control vehicular;
+I.- Expedición de Patente de Aspirante al ejercicio del Notariado.
 
-XX.- Expedición de licencias para guiar vehículos;
+II.- Expedición de Patente de Notario.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
+III.- Autorización de Protocolos Notariales y Libros de Registro de actos fuera de protocolo.
 
-XXI.- Por expedición de engomados para revalidación de derechos por control vehicular;
+IV.- Inscripciones en el Registro Público de la Propiedad y del Notariado.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1986)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-XXII.- Examen médico que se practique a personas que soliciten licencias para guiar vehículos;
+308-G.- Por los servicios prestados por el Departamento del Registro Civil:
 
-XXIII.- Examen médico que se practique por infracciones a la Ley de Tránsito;
+I.- Actos del Registro Civil.
 
-XXIV.- Expedición de certificados para suplir tarjetas de circulación de vehículos;
+II.- Expedición de copia certificada.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1986)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-XXV.- Revisión mecánica de vehículos de servicio público local y otros servicios prestados por la Dirección General de Tránsito y sus dependencias;
+308-H.- Por los servicios prestados por el Departamento de Educación Pública:
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
+I.- Matrícula de Títulos Profesionales.
 
-XXVI.- Por presentación de servicios de grúa y hospedaje;
+II.- Expedición de certificados por estudios realizados en escuelas clausuradas que hayan estado incorporadas al Departamento de Educación.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
+III.- Revalidaciones, equivalencias y convalidaciones, por materia.
 
-XXVII.- Por el otorgamiento de permiso de ruta para explotar carreteras estatales, de permisos de establecimientos de sitios de autos, cargas ligeras, camiones materialistas, camiones de carga pesada, servicio vial, transporte de pasajeros, así como también transportes urbanos;
+IV.- Expedición de duplicado de la relación de estudios de escuelas a nivel elemental y medio básico.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
+V.- Matrícula anual de establecimientos educativos particulares autorizados.
 
-XXVIII.- Por la revalidación de permisos a que se refiere la fracción anterior, con una vigencia de cuatro años por cada unidad;
+VI.- Expedición de copias certificadas.
 
-XXIX.- Expedición de pasaportes;
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-XXX.- Empadronamiento de causantes de impuestos estatales;
+308-I.- Por los servicios prestados por la Oficina de Transporte:
 
-XXXI.- Reposición de cédulas de empadronamiento;
+I.- Otorgamiento de concesiones de ruta para explotar el servicio de autotransporte de pasajeros en carreteras estatales, transporte urbano, transporte de materiales para construcción, transporte de carga, establecimiento de sitio de autos, transporte de servicio de pasajeros cuando el concesionario sea persona distinta al público usuario, incluyendo vehículos para servicio especial de turismo y de grúa.
 
-XXXII.- Expedición y traspasos de licencias para expendios de bebidas alcohólicas y cerveza, y en general para cualquier lugar donde se vendan estos productos;
+II.- Supervisión de transferencia de concesiones entre particulares.
 
-XXXIII.- Certificación de la vigencia del registro de cantinas, cervecerías y expendios de vinos y licores;
+III.- Revalidación de concesiones.
 
-XXXIV.- Expedición de duplicados de las tarjetas de registro de cantinas, cervecerías y expendio de vinos y licores;
+IV.- Ampliación de ruta del servicio público de transporte de pasajeros.
 
-XXXV.- Aclaración del domicilio o cambio del nombre o del domicilio de las cantinas, cervecerías y expendios de vinos y licores;
+V.- Extensión o cambio de ubicación de sitio de autos o de carga.
 
-XXXVI.- Expedición de constancias certificadas por el Ejecutivo conforme a la fracción IV del Artículo 27 de la Constitución Federal;
+VI.- Sustitución de vehículos del servicio público con vigencia de quince días.
 
-XXXVII.- Inspecciones del Departamento de Trabajo para revisar y aprobar, en su caso, las condiciones de seguridad e higiene industrial;
+VII.- Expedición de tarjetón anual para concesionarios.
 
-XXXVIII.- Revisión y aprobación de planos de construcciones industriales e instalaciones de fuerza motriz, fuerza eléctrica y maquinaria;
+VIII.- Expedición de copias certificadas.
 
-XXXIX.- Certificación de facturas para hacer constar que los fierros de herrar se encuentran registrados en determinado Municipio;
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-XL.- Anotación de altas y bajas en los casos de traspaso de los derechos de fierros de herrar;
+308-J.- Por los servicios prestados directamente por la Dirección General de Comunicaciones y Obras Públicas:
 
-XLI.- Expedición y revalidación de registros ganaderos;
+I.- Inscripción en el Padrón de Contratistas.
 
-XLII.- Habilitación de edad en los términos de la fracción XXVII del artículo 64 de la Constitución Política del Estado; y
+II.- Modificación a los datos de inscripción.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
+III.- Expedición de copias certificadas.
 
-XLIII.- Expedición de certificados para el uso de explosivos y sus artificios; y
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-XLIV.- Los demás que señalen las leyes.
+308-K.- Por los servicios prestados por la Dirección General de Finanzas:
+
+I.- Reposición de cédulas de empadronamiento.
+
+II.- Expedición de copias certificadas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+308-L.- Por los servicios prestados por la Procuraduría General de Justicia del Estado:
+
+I.- Expedición de constancias de no antecedentes penales.
+
+II.- Expedición de copias certificadas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+308-M.- Por los servicios prestados por la Dirección General de Desarrollo Rural:
+
+I.- Expedición de constancias de control ganadero y de fierro de herrar.
+
+II.- Expedición de mica de control ganadero y de fierro de herrar.
+
+III.- Duplicado de mica de fierro de herrar.
+
+IV.- Expedición de copias certificadas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+308-N.- Por los servicios prestados por la Dirección General de Administración:
+
+I.- Inscripción en el Padrón de Proveedores.
+
+II.- Revalidación en el Padrón de Proveedores.
+
+III.- Expedición de certificados de inexistencia de registro de actos del estado civil por el Archivo General del Estado.
+
+IV.- Expedición de copias certificadas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+308-Ñ.- Por los servicios prestados por la Dirección General de Desarrollo Social:
+
+I.- Control del ejercicio de profesiones.
+
+II.- Expedición de constancias relativas al registro de títulos profesionales.
+
+III.- Matrícula a prácticos para ejercer una profesión en las localidades en donde no haya profesionistas titulados.
+
+IV.- Expedición de cédulas por estudios técnicos.
+
+V.- Duplicados de cédulas profesionales.
+
+VI.- Expedición de copias certificadas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+308-O.- Por los servicios prestados por la Imprenta de Gobierno:
+
+I.- Publicaciones en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+308-P.- Por los servicios prestados por las autoridades de Tránsito:
+
+I.- Expedición de licencias de manejo.
+
+II.- Exámenes médicos.
+
+III.- Control vehicular.
+
+IV.- Servicio de grúa para vehículos mal estacionados.
+
+V.- Certificación de documentos existentes en archivos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -4386,3 +4458,9 @@ P.O. 21 DE SEPTIEMBRE DE 1988.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor en todo el Estado a partir del día siguiente de su publicación (sic) el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor en todo el Estado a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
