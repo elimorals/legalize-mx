@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1976-05-01"
+last_updated: "1976-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1976.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -977,13 +977,19 @@ En ningún caso los trabajadores al servicio del Estado percibirán un salario i
 
 Se dará preferencia sobre cualquier otra erogación al pago de salarios de los trabajadores al servicio del Estado.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1976)</small>
+
 ###### ARTICULO 103.
 
-Los trabajadores del Estado en servicio activo, jubilados y pensionados disfrutarán de un seguro de vida por la cantidad de diez mil pesos; para tal efecto, el interesado hará manifestación expresa de sus beneficiarios ante la oficina administrativa que por la índole de su trabajo corresponda. Los trabajadores que sólo reciben gratificaciones por la prestación de sus servicios tendrán derecho a percibir sólo los gastos de defunción de que se habla más adelante.
+Al fallecer algún trabajador del Estado en servicio activo, jubilado o pensionado por el concepto anterior, tendrá derecho a un seguro de vida y a una ayuda para gastos funerarios en favor de sus beneficiarios.
 
-Los trabajadores del Estado que sufran enfermedades o lesiones que los imposibiliten para su trabajo, disfrutarán de licencia con goce de sueldo para no concurrir a sus labores por el tiempo que juzgue necesario un médico al servicio de Pensiones Civiles del Estado, de acuerdo a lo establecido por el artículo 147 de este Código.
+En caso de fallecimiento del empleado que perciba únicamente gratificación, así como los pensionados y jubilados que se encuentren en este caso, tendrán derecho sólo a los gastos funerarios.
 
-En caso de fallecimiento del empleado en servicio activo, jubilados y pensionados y trabajadores que sólo perciben gratificación se ministrará a sus deudos para gastos funerarios la cantidad de mil quinientos pesos.
+El importe de los derechos mencionados será fijado por acuerdo del Ejecutivo del Estado, que se publicará en el Periódico Oficial del Gobierno de la Entidad.
+
+Para los efectos de los párrafos anteriores, cada trabajador designará a sus beneficiarios ante la Oficialía Mayor de Gobierno.
+
+Los trabajadores del Estado que sufran enfermedades o accidentes que los imposibiliten para trabajar, disfrutarán de licencia con goce de sueldo por el tiempo que sea necesario según lo determine el médico de la Dirección de Pensiones Civiles que lo atienda, de acuerdo a lo establecido por el artículo 147 de este Código.
 
 ###### ARTICULO 104.
 
@@ -10640,3 +10646,7 @@ SEGUNDO.- La celebración del convenio entre el Ejecutivo del Estado y la Secret
 P.O. 1 DE MAYO DE 1976.
 
 ARTICULO TRANSITORIO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado.
+
+P.O. 10 DE JULIO DE 1976.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
