@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2004-03-20"
+last_updated: "2004-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2004.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -447,9 +447,9 @@ Compete a la Autoridad Administrativa la aplicación de las sanciones por las in
 
 Son obligaciones de los habitantes del Estado:
 
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2004)</small>
 
-I. Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación primaria y secundaria, y reciban la militar, en los términos que establezca la ley;
+I. Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación preescolar, primaria y secundaria y reciban la militar, en los términos que establezca la Ley;
 
 II. Inscribirse en el padrón de la localidad en que residan, manifestando la propiedad que tengan, la industria, profesión o trabajo de que subsistan;
 
@@ -803,11 +803,11 @@ Los diputados electos que cuenten con su constancia de mayoría y validez expedi
 
 Para tal efecto, deberán presentar dentro de los días siete a nueve de noviembre del año de la elección, ante el Oficial Mayor del Congreso del Estado, la constancia o resolución de referencia para su registro, toma de razón y entrega de la credencial de acceso a la sesión de instalación y toma de protesta, que tendrá verificativo el día trece de noviembre del año de la elección, en cuya fecha se hará la elección de los integrantes de la Mesa Directiva en los términos de la Ley Orgánica del Poder Legislativo y su Reglamento, empezando a fungir a partir del día quince de Noviembre.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 42.
 
-La Legislatura tendrá períodos ordinarios de sesiones dos veces al año; el primer período de sesiones dará principio el día quince de noviembre y concluirá el treinta y uno de marzo, y el segundo período, dará principio el primero de junio y concluirá el quince de julio.
+La Legislatura tendrá períodos ordinarios de sesiones dos veces al año; el primer período de sesiones dará principio el día quince de noviembre y concluirá el treinta y uno de marzo, y el segundo período, dará principio el primero de junio y concluirá el quince de agosto.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
@@ -1595,7 +1595,7 @@ El Gobernador no puede:
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
-I. Dejar de promulgar alguna ley o decreto que habiendo sido devuelto a la Legislatura con observaciones, ésta lo ratificare en los términos del artículo 53 de esta Constitución. Si el Ejecutivo no hiciere la promulgación a los cinco días de que la Legislatura le hubiere devuelto la ley o decreto ratificado, lo hará el Presidente de la Cámara, y la ley o decreto así promulgados surtirán todos sus efectos legales.
+I. Dejar de promulgar alguna ley o decreto que habiendo sido devuelto a la Legislatura con observaciones, ésta lo ratificare en los términos del artículo 53 de esta Constitución. Si el Ejecutivo no hiciere la promulgación a los cinco días de que la Legislatura le hubiere devuelto la ley o decreto ratificado, la hará el Presidente de la Cámara, y la ley o decreto así promulgados surtirán todos sus efectos legales.
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -2225,19 +2225,27 @@ Las declaraciones y resoluciones del Ayuntamiento son inatacables.
 
 El matrimonio es un contrato civil. El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. El matrimonio y los demás actos del estado civil de las personas, son de la exclusiva competencia de los servidores públicos y autoridades del orden civil, en los términos prevenidos por las leyes y tendrán la fuerza y validez que las mismas les atribuyan.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2004)</small>
 
 ### Capítulo I. De la Concesión Única
 
 ###### ARTICULO 126.
 
-En el Estado de Oaxaca, todo individuo tiene derecho a recibir educación. El Estado y los Municipios impartirán educación preescolar, primaria y secundaria. La educación primaria y secundaria es obligatoria.
+En el Estado de Oaxaca, todo individuo tiene derecho a recibir educación. El Estado y los Municipios impartirán educación preescolar, primaria y secundaria. La educación preescolar, primaria y secundaria es obligatoria.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 La educación seguirá las normas que sean precisadas en la Constitución General y se procurará que los sistemas, planes y métodos de enseñanza sean adaptados de manera que responda las necesidades del desarrollo integral del Estado.
 
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
+
 La educación que imparta el Estado tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria y la conciencia de la solidaridad internacional, en la independencia y la justicia.
 
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
+
 La educación de los alumnos para ser integral comprenderá además, la enseñanza de la historia, la geografía, la ecología y los valores tradicionales de cada región étnica y en general del Estado, se fomentará la impartición de conocimientos aplicables a la transformación política, social y económica para beneficio de los oaxaqueños.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 En las comunidades indígenas bilingües la enseñanza tenderá a conservar el idioma español y las lenguas indígenas de la región.
 
@@ -2251,13 +2259,15 @@ b) Será nacional, en cuanto sin hostilidades ni exclusivismos, atenderá a la c
 
 c) Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad, igualdad de derecho de todos los hombres, evitando los privilegios de razas, de región, de grupos, de sexos o de individuos.
 
-III.- Para dar cumplimiento al tercer párrafo y fracción II de este Artículo, el Ejecutivo Estatal, en coordinación con la Federación, determinarán los planes y programas de estudio de la educación primaria, secundaria y normal. Para tales efectos, considerará la opinión de los diversos sectores sociales involucrados en la educación, en los términos que la ley señale.
+III.- Para dar cumplimiento al tercer Párrafo y fracción II de este Artículo, el Ejecutivo Estatal, en coordinación con la Federación, determinarán los planes y programas de estudio de la educación primaria, secundaria y normal. Para tales efectos, considerará la opinión de los diversos sectores sociales involucrados en la educación, en los términos que la ley señale.
 
 IV.- Toda la educación que el Estado imparta será gratuita.
 
 V.- Además de impartir la educación preescolar, primaria y secundaria, señaladas en el primer Párrafo, el Estado promoverá y atenderá todos los tipos y modalidades educativos incluyendo la educación superior necesarios para el desarrollo de la Nación y el Estado; apoyará la investigación científica y tecnológica y alentará el fortalecimiento y difusión de nuestra cultura.
 
-VI.- Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares. En el caso de la educación primaria, secundaria y normal, los particulares deberán:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ABRIL DE 2004)</small>
+
+VI.- Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establece la Ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares. En el caso de la educación preescolar, primaria, secundaria y normal, los particulares deberán:
 
 a).- Impartir la educación con apego a los mismos fines y criterios que establece el segundo Párrafo y la fracción II, así como cumplir los planes y programas a que se refiere la fracción III, y
 
@@ -2893,19 +2903,35 @@ P.O. 20 DE MARZO DE 2004.
 
 DECRETO NO. 419 QUE REFORMA EL ART. 41 DE LA CONSTITUCION POLITICA DEL ESTADO DE OAXACA
 
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
 
 P.O. 20 DE MARZO DE 2004.
 
 DECRETO NO. 420 QUE REFORMA EL ART. 59 DE LA CONSTITUCION POLITICA DEL ESTADO DE OAXACA
 
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del de Oaxaca.
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
 
 P.O. 20 DE MARZO DE 2004.
 
 DECRETO NO. 421 QUE REFORMA EL ART. 59 DE LA CONSTITUCION POLITICA DEL ESTADO DE OAXACA
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE ABRIL DE 2004.
+
+DECRETO NO. 427 QUE REFORMA EL ART. 22 Y 126 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE OAXACA
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En términos del artículo transitorio quinto de la reforma a los artículos 3 y 31 de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 12 de noviembre de 2002, la educación preescolar será obligatoria para todos en los siguientes plazos: en el tercer año de preescolar a partir del ciclo 2004-2005; el segundo año de preescolar, a partir del ciclo 2005-2006; el primer año de preescolar, a partir del ciclo 2008-2009.
+
+TERCERO.- El presupuesto Estatal incluirá los recursos necesarios para: la construcción, ampliación y equipamiento de la infraestructura suficiente para la cobertura progresiva de los servicios de educación preescolar; con sus correspondientes programas de formación profesional del personal docente, así como de dotación de materiales de estudio gratuito para maestros y alumnos. Para las comunidades rurales alejadas de los centros urbanos y las zonas donde no haya sido posible establecer infraestructura para la prestación del servicio de educación preescolar, las autoridades educativas federales en coordinación con las locales, establecerán los programas especiales que se requieran y tomarán las decisiones pertinentes para asegurar el acceso de los educandos a los servicios de educación primaria.
+
+P.O. 3 DE ABRIL DE 2004.
+
+DECRETO NO. 428 QUE REFORMA EL ART. 42 DE LA CONSTITUCION POLITICA DEL ESTADO DE OAXACA
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
