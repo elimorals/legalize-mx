@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "1990-10-21"
+last_updated: "1991-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL DE 1986
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 1991.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
@@ -763,237 +763,229 @@ Si transcurrido dicho plazo, no se expresan los datos o no se presentan los docu
 
 ### CAPITULO II. Del Impuesto Sobre Adquisición de Inmuebles
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
+
+DEL OBJETO
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 62.
 
 Es objeto de este impuesto:
 
-I.- Todo acto por el que se trasmita la propiedad de bienes inmuebles incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal. Siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges;
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades a excepción de las que se realicen al construir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges;
 
-II.- La venta hecha con reserva de dominio o sujeta a condición de bienes inmuebles y los actos o contratos que impliquen la entrega de la posesión, como un acto previo a la traslación de dominio;
+II.- La compra-venta en la que el vendedor se reserva la propiedad, aun cuando la transferencia de ésta opere con posterioridad;
 
-III.- La trasmisión de los derechos derivados de las operaciones, actos o contratos a que se refiere la fracción anterior;
+III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él, antes de que se celebre el contrato prometido;
 
-IV.- La constitución y traslación del usufructo;
+IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que anteceden;
 
-V.- La traslación o promesa de cesión de derecho fiduciario y de participación inmobiliaria;
+V.- Fusión de sociedades;
 
-VI.- La trasmisión de la propiedad realizada en procedimientos judiciales o administrativos;
+VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles;
 
-VII.- Los actos constitutivos de fideicomiso, así como los actos de ejecución de los mismos que afecten derechos reales o posesorios sobre bienes inmuebles;
+VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal;
 
-VIII.- La división o liquidación de la copropiedad y la disolución de la sociedad conyugal por la parte que se adquiere en demasía del porciento que le correspondería al copropietario o cónyuge;
+VIII.- Prescripción positiva;
 
-IX.- La realización de la propiedad de bienes inmuebles a consecuencia de la revocación o rescisión voluntaria del contrato traslativo de dominio;
+IX.- La cesión de derechos del heredero, legatario o copropietario, en la parte relativa y en proporción a los inmuebles.
 
-X.-La permuta de bienes inmuebles en la cual se considerará que se efectúan dos adquisiciones;
+Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuada después de la declaratoria de herederos o legatarios;
 
-XI.- La cesión de derechos de bienes inmuebles;
+X.- Enajenación a través de fideicomiso, en los términos del Código Fiscal de la Federación; y
 
-XII.- La transmisión de lotes a perpetuidad en los panteones;
+XI.- La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía del porciento que le correspondía al copropietario o cónyuge.
 
-XIII.- La cesión y trasmisión de derechos hereditarios;
+En las permutas se considerará que se efectúan dos adquisiciones.
 
-XIV.- La cesión y transmisión de derechos del heredero, legatario o copropietario, en la parte relativa y en proporción a los inmuebles.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
-Se tendrá como cesión de derechos la renuncia a la herencia o legado efectuada después de la declaratoria de herederos o legatarios;
+DE LOS SUJETOS
 
-XV.- Fusión de sociedades;
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
-XVI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes o dividendos de asociaciones o sociedades civiles o mercantiles;
+CAPITULO (SIC) 63.- Están obligados al pago de este impuesto, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicados en el Municipios (sic), por cualesquiera de las figuras enumeradas en el Artículo 62 de esta Ley.
 
-XVII.- La celebración de contratos de arrendamiento financiero y la cesión de derechos de arrendamiento financiero.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
-En las permutas se considera que se efectúan dos adquisiciones; y
+DE LA BASE
 
-XVIII.- Cualquier acto o control que se trasmitan bienes inmuebles o derechos sobre los mismos.
-
-###### ARTICULO 63.
-
-En la transmisión de bienes y derechos que por rescición (sic) del contrato respectivo vuelven éstos al enajenante dentro de los sesenta días naturales siguientes al otorgamiento del contrato, no se cobrará este impuesto.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 64.
 
-Son sujetos de este impuesto las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en el suelo (sic) y las construcciones adheridas a él por cualquiera de las figuras enumeradas en el Artículo 62 de esta Ley.
+Será base para el pago de este impuesto: El valor de operación del inmueble, actualizado, desde la fecha de adquisición.
+
+Para actualizar el valor de operación, se dividirá el índice nacional de precios al consumidor del mes en que se otorgue la escritura o se requiera de pago, entre el índice nacional de precios al consumidor del mes en que efectuó la adquisición, la cantidad que resulte, se multiplicará por el precio pactado o valor de operación.
+
+Las autoridades fiscales estarán facultadas para practicar avalúo del inmueble referido, a la fecha de adquisición y compararlo con el valor de operación. En caso de resultar inferior el del precio pactado, el impuesto se calculará sobre el avalúo de la autoridad fiscal actualizado desde la fecha de adquisición.
+
+Cuando no se pacte el precio, el impuesto se determinará en base al avalúo que practique la autoridad fiscal.
+
+Para los fines de esta ley se considera que el usufructo y la nuda propiedad tiene (sic) un valor, cada uno de ellos, del 50% del valor de la propiedad.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
+
+DE LA TASA
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 65.
 
-Son responsables Solidarios:
+Este impuesto se liquidará y recaudará de conformidad con las cuotas y tasas que al efecto señale la Ley de Ingresos del Municipio.
 
-I.- Quienes trasmitan o adquieran según el caso los bienes y derechos a que se refiere este impuesto; y
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
-II.- Los funcionarios y empleados públicos, notarios y corredores que expidan testimonio o den trámite a algún documento en que se consignen actos, convenios, contratos u operaciones objeto de este impuesto, sin que éste se encuentre cubierto, independientemente de las sanciones por las infracciones en que se hubiere incurrido.
+DEL PAGO
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 66.
 
-Será base para el pago de este impuesto:
+El pago de este impuesto se hará dentro del plazo de treinta días, contados a partir de la fecha en que se hubiere celebrado el acto o contrato, protocolizado las diligencias o causado ejecutoria la resolución por virtud de la cual se adjudiquen los bienes. Si la operación se efectúa fuera del Estado, el plazo para el pago del impuesto será de sesenta días.
 
-I.- Tratándose de bienes inmuebles:
+El contribuyente podrá pagar el impuesto por anticipado.
 
-a) El valor que resulte más alto de entre:
+En caso de rescisión tendrá derecho a la devolución del impuesto.
 
-1.- El consignado en avalúos bancarios, que no podrá tener una antigüedad mayor de seis meses a partir de la fecha en que se practique.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
-2.- El de operación.
+DE LAS EXENCIONES
 
-3.- El catastral con que fiscalmente se encuentre empadronado el predio.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
-Si la Dirección de Finanzas advierte que los avalúos bancarios son notoriamente inferiores a los valores que rijan en el mercado, practicará avalúo en los términos de la Ley de Catastro del Estado, mismo que servirá de base para el pago del impuesto.
+###### ARTICULO 67.
 
-El impuesto se calculará aplicando la tasa que establece la Ley de Ingresos del Municipio, al valor del inmueble fijado en los términos de este artículo, después de deducirlo en diez veces el salario mínimo general elevado al año, de la zona económica en que se encuentre ubicado el inmueble.
+No se pagará el impuesto establecido en esta ley:
 
-Tratándose de predios sin construir se reducirá en cinco, veces el salario mínimo elevado al año, de la zona económica en que se encuentre el predio.
+1.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y Municipios para formar parte del dominio público, y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso.
 
-Cuando forman parte del inmueble departamentos habitacionales, la reducción se hará por cada uno de ellos; lo dispuesto en este párrafo no es aplicable a hoteles.
+2.- En las transmisiones de bienes y derechos que por rescisión del contrato vuelvan estos al enajenante.
 
-###### ARTÍCULO 67.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
-La reducción a que se refiere el artículo anterior, se realizará tomando en cuenta lo siguiente:
+DE LA RESPONSABILIDAD SOLIDARIA
 
-I.- Se considera como un solo inmueble los bienes que sean o resulten colindantes, adquiridos por la misma persona en un periodo de veinticuatro meses. De la suma de los precios o valores de los predios, únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquirente deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiere adquirido con anterioridad, para que se ajuste al monto de la reducción y pagará en su caso, las diferencias de impuesto que correspondan. Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte.
-
-II.- Cuando se adquiera parte de la propiedad o de los derechos a que se refiere el Artículo 22 de esta Ley, la reducción se hará en la proporción que corresponda a dicha parte.
-
-III.- Tratándose del usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos; y
-
-IV.- No se considerarán departamentos habtiacionales (sic) los que por sus características originales se destinen a servicios domésticos o guarda de vehículos aun cuando se utilicen para otros fines.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 68.
 
-Este impuesto se liquidará y recaudará de conformidad con las cuotas y tasas que al efecto señale la Ley de Ingresos del Municipio.
+En las adquisiciones que se hagan constar en escritura pública los notarios, jueces, corredores y demás fedatarios que por disposición legal tengan funciones notariales, harán contar (sic) el impuesto en la escritura y lo enterarán mediante declaración en la oficina autorizada que corresponda en el domicilio por todas las adquisiciones aun cuando no haya impuesto a enterar.
 
-###### ARTÍCULO 69.
+Los fedatarios no estarán obligados a enterar el impuesto cuando consignen en escrituras públicas operaciones por las que ya se hubiera pagado el impuesto y acompañen a su declaración copia de aquélla con la que se efectúo dicho pago.
 
-El pago de este impuesto se hará dentro del plazo de treinta días, contados a partir de la fecha en que se hubiere celebrado el acto o contrato, protocolizado las diligencias o causado ejecutoria la resolución por virtud de la cual se adjudiquen los bienes. Si la operación se efectúa fuera del Estado, el plazo para el pago del impuesto será de sesenta días.
+El enajenante responde solidariamente del impuesto que deba pagar el adquirente.
 
-###### ARTÍCULO 70.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
-El fideicomiso de bienes inmuebles se equipará para los efectos del pago de este impuesto, al de una trasmisión patrimonial.
+DE LAS OBLIGACIONES DE TERCEROS
 
-###### ARTICULO 71.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
-Los bienes materia del hecho, acto o contrato gravado con este impuesto, quedarán preferentemente afectados al pago del mismo.
+###### ARTICULO 69.
 
-#### SECCION PRIMERA. Del Objeto
-
-###### ARTICULO 72.
-
-Se exceptúan del pago de este impuesto, las adquisiciones que hagan la Federación, el Distrito Federal, los Estados, los Municipios para formar parte del dominio público.
-
-#### SECCION SEGUNDA. De los Sujetos
-
-###### ARTICULO 73.
-
-Tratándose de las partes que intervengan en la adquisición de bienes inmuebles, que hayan celebrado contrato de promesa de venta con reserva de dominio o sujeta a condición, será necesario que acrediten el pago del impuesto sobre adquisición de inmuebles.
-
-###### ARTICULO 74.
-
-Para enajenar cualquier bien inmueble o trasmitir algún derecho real, el contribuyente deberá demostrar mediante certificado expedido por las autoridades fiscales correspondientes que el inmueble objeto de la operación está al corriente en el pago del impuesto predial.
-
-###### ARTICULO 75.
-
-Las personas físicas o morales cuya actividad sea la venta de inmueble, tendrán las siguientes obligaciones:
-
-I.- Presentar para su autorización ante la Dirección de Finanzas, los contratos debidamente prenumerados;
-
-II.- Conservar copia de los contratos, facturas y recibos de cobranza que originen las ventas;
-
-III.- Llevar un registro por cada operación que consigne como mínimo los siguientes datos:
-
-a) Nombre del comprador.
-
-b) Domicilio.
-
-c) Número de contrato.
-
-d) Manzana y lote.
-
-e) Monto total de la operación e importe de cada una de las mensualidades.
-
-f) fecha y número del recibo de abono; y
-
-g) Saldo por amortizar, incluyendo capital e interés determinado mensualmente.
-
-IV.- Deberá formular una declaración mensual para el pago de este impuesto, en las formas aprobadas, dentro de los primeros quince días siguientes al mes en que se realizaron las operaciones. Estas declaraciones deberán presentarse en la Administración o receptoría de rentas que corresponda al contribuyente, adjuntando para el efecto, copia de los contratos celebrados.
-
-Las administraciones y receptorías de rentas, al recibir el pago del impuesto a que se refiere este capítulo, deberán entregar al contribuyente un recibo por cada predio, que contendrá el número de cuenta predial, la clave catastral, número de contrato, nombre del comprador, número de manzana, superficie e importe de la operación.
-
-Los fraccionadores que cumplan con lo establecido en la fracción anterior, dejarán de ser solidarios responsables del pago de Impuesto Predial de los inmuebles por ellos enajenados.
-
-#### SECCION TERCERA. De la Responsabilidad Solidaria
-
-###### ARTICULO 76.
-
-Para los efectos del Artículo 69, los notarios públicos o quienes hagan sus veces y los funcionarios públicos, deberán dar aviso a la Dirección de Finanzas de los actos o contratos en que intervengan y que resulten gravados con este impuesto.
+Para los efectos del Artículo 66, los notarios públicos o quienes hagan sus veces y los funcionarios públicos, deberán dar aviso a la Dirección de Finanzas y de los actos o contratos en que intervengan y que resulten gravados con este impuesto.
 
 Los particulares tendrán la misma obligación, tratándose de escrituras otorgadas fuera del Estado.
 
-###### ARTICULO 77.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
-Los avisos a que se refiere el artículo anterior, se harán en las formas aprobadas por la Dirección de Finanzas, debiendo proporcionar los datos que las mismas indiquen.
+###### ARTICULO 70.
 
-Tratándose de operaciones sobre inmuebles se acompañarán el plano catastral con superficie, medida y colindancia actualizadas, el avalúo bancario correspondiente y certificado que acredite que el inmueble se encuentra al corriente del pago de sus obligaciones fiscales.
+Los avisos a que se refiera el artículo anterior, se harán en las formas aprobadas por las autoridades fiscales, debiendo proporcionar los datos que las mismas indiquen.
 
-El deslinde catastral a que se refiere el párrafo anterior, tendrá vigencia por un año natural, contado a partir de la fecha de expedición.
+Tratándose de operaciones sobre inmuebles se acompañarán el plano catastral con superficie, medida y colindancias actualizadas y certificado que acredite que el inmueble se encuentra al corriente del pago de sus obligaciones fiscales.
 
-Estos documentos deberán contener los datos actualizados hasta el mes en que los jueces y notarios autoricen la escritura, actos o contratos.
+Estos documentos deberán contener los datos actualizados hasta el mes en que los jueces y notario autoricen la escritura, actos o contratos.
 
-Para el caso de que transcurrido un término de diez días hábiles, contados a partir de la presentación de la solicitud para la práctica del deslinde catastral, no se hubiere expedido éste, el contribuyente interesado podrá presentar tal documento practicado por terceros bajo su responsabilidad.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
-###### ARTICULO 78.
+###### ARTICULO 71.
 
-Los peritos valuadores, comisionados por la institución de crédito a fin de valorizar inmuebles o derechos reales, deberán presentar sus dictámenes de avalúo a la Dirección de Catastro del Estado, para fines de revisión y aprobación en su caso.
-
-Los peritos estarán obligados a presentar precisamente anexos al avalúo a que se refiere el párrafo anterior, los siguientes documentos:
-
-a) Si se trata de predios sin construcción, un plano que exprese superficie, medidas y colindancias; y
-
-b) Si se tratase de predios en los cuales existieran construcciones inconclusas o terminadas, deberán acompañar además plano descriptivo de las mismas.
-
-###### ARTICULO 79.
-
-El notario que al formalizar un negocio traslativo de dominio, lo hiciere sin exigir que el avalúo lleve la aprobación de la Dirección de Catastro del Estado, incurrirá en responsabilidad solidaria con quien resulte responsable de la omisión.
-
-###### ARTICULO 80.
-
-Los avisos deberán presentarse ante la Dirección de Finanzas, dentro de los treinta días siguientes a la fecha del documento en que se haga constar el acto o contrato.
+Los avisos deberán presentarse ante la autoridad fiscal dentro de los treinta días siguientes a la fecha del documento en que haga constar el acto o contrato.
 
 Cuando en los avisos o manifestaciones no se acompañe la documentación requerida, las autoridades fiscales concederán un término de quince días para que se corrija la omisión que se contará a partir de la fecha en que los interesados reciban el requerimiento.
 
 Si transcurrido dicho término no se presenta la documentación requerida, se tendrán por no presentadas dichas manifestaciones o avisos, sin perjuicio de imponer al infractor las sanciones que procedan.
 
+#### SECCION SEXTA (SIC). De las Exenciones
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
+
+###### ARTICULO 72.
+
+Los notarios o quienes hagan sus veces los registradores y las autoridades competentes, no expedirán testimonio, ni registrarán o darán trámite a actos o contratos en que intervengan, o documentos que se les presenten, si no se les comprueba el pago de este impuesto.
+
+En todo caso, al margen de la matriz y en los testimonios deberá asentarse la constancia de pago o la de que éste no se causa.
+
+#### SECCION SEPTIMA. De las Obligaciones de los Contribuyentes
+
+###### ARTICULO 73.
+
+(DEROGADO, P.O. 24 DE FEBRERO DE 1991)
+
+###### ARTICULO 74.
+
+(DEROGADO, P.O. 24 DE FEBRERO DE 1991)
+
+###### ARTICULO 75.
+
+(DEROGADO, P.O. 24 DE FEBRERO DE 1991)
+
+#### SECCION OCTAVA. De las Obligaciones de Terceros
+
+###### ARTICULO 76.
+
+(DEROGADO, P.O. 24 DE FEBRERO DE 1991)
+
+###### ARTICULO 77.
+
+(DEROGADO, P.O. 24 DE FEBRERO DE 1991)
+
+###### ARTICULO 78.
+
+(DEROGADO, P.O. 24 DE FEBRERO DE 1991)
+
+###### ARTICULO 79.
+
+(DEROGADO, P.O. 24 DE FEBRERO DE 1991)
+
+###### ARTICULO 80.
+
+(DEROGADO, P.O. 24 DE FEBRERO DE 1991)
+
 ###### ARTICULO 81.
 
-Los notarios o quienes hagan sus veces, los registradores y las autoridades competentes, no expedirán testimonio, ni registrarán o darán trámite a actos o contratos en que intervengan, o documentos que se les presenten, si no se les comprueba el pago de este impuesto.
-
-En todo caso, al margen de la matriz y en los testimonios deberán asentarse la constancia de pago o la de que éste no se acusa.
+(DEROGADO, P.O. 24 DE FEBRERO DE 1991)
 
 ### CAPITULO III. Del Impuesto Sobre Incremento de Valor y Mejoría Específica de la Propiedad
 
-#### SECCION CUARTA. De la Base
+#### SECCION PRIMERA. Del Objeto
 
 ###### ARTICULO 82.
 
 Es objeto de este impuesto, el incremento del valor y mejoría de la propiedad inmobiliaria, por obras de mejoramiento.
 
-#### SECCION QUINTA. Del Pago
+#### SECCION SEGUNDA. De los Sujetos
 
 ###### ARTICULO 83.
 
 Son sujetos de este impuesto los propietarios o poseedores de los predios o construcciones beneficiados en la ejecución de las obras de mejoramiento realizadas por el Municipio o por éste en coordinación con otra entidad.
 
-#### SECCION SEXTA. De las Exenciones
+#### SECCION TERCERA. De la Base
 
 ###### ARTICULO 84.
 
 Es base de este impuesto el valor del beneficio obtenido en proporción a la obra realizada determinada de conformidad con la Ley de Planeación y Urbanización del Estado.
 
-#### SECCION SEPTIMA. De las Obligaciones de los Contribuyentes
+#### SECCION CUARTA. Del Pago
 
 ###### ARTICULO 85.
 
 Este impuesto causará y pagará de conformidad con lo establecido en la Ley de Planeación y Urbanización del Estado.
 
-#### SECCION OCTAVA. De las Obligaciones de Terceros
+#### SECCION QUINTA. De las Exenciones
 
 ###### ARTICULO 86.
 
@@ -1039,7 +1031,7 @@ V.- Tratándose de contribuyentes habituales del presente impuesto el pago lo re
 
 VI.- Las cantidades que se paguen por el derecho a reservar localidades en los espectáculos gravados por este capítulo, se considerarán como sobre-precios de las entradas y causarán el impuesto de acuerdo con las tasas y cuotas que al efecto se fijen en la Ley de Ingresos del Municipio.
 
-#### SECCION QUINTA. De las Exenciones
+#### SECCION QUINTA. Obligaciones de los Contribuyentes
 
 ###### ARTICULO 91.
 
@@ -1051,7 +1043,7 @@ En caso de que se sorprenda un boletaje no autorizado por la Dirección de Finan
 
 Los contribuyentes que utilicen sistemas mecánicos o electrónicos para la venta del boletaje que se utilice para permitir el acceso del público están obligados a permitir la inspección de las mismas por parte de los Inspectores o Interventores nombrados por la Dirección de Finanzas.
 
-#### SECCION PRIMERA. Del Objeto
+#### SECCION SEXTA. De la Responsabilidad Solidaria
 
 ###### ARTICULO 93.
 
@@ -1063,7 +1055,7 @@ Los propietarios de los inmuebles donde se autorice a las empresas para celebrar
 
 > <small>(DEROGADA, P.O. 14 DE AGOSTO DE 1988)</small>
 
-#### SECCION SEGUNDA. De los Sujetos
+#### SECCION PRIMERA
 
 ###### ARTICULO 94.
 
@@ -1071,7 +1063,7 @@ Los propietarios de los inmuebles donde se autorice a las empresas para celebrar
 
 > <small>(DEROGADA, P.O. 14 DE AGOSTO DE 1988)</small>
 
-#### SECCION TERCERA. De la Base
+#### SECCION SEGUNDA
 
 ###### ARTICULO 95.
 
@@ -1079,7 +1071,7 @@ Los propietarios de los inmuebles donde se autorice a las empresas para celebrar
 
 > <small>(DEROGADA, P.O. 14 DE AGOSTO DE 1988)</small>
 
-#### SECCION CUARTA. Del Pago
+#### SECCION TERCERA
 
 ###### ARTICULO 96.
 
@@ -1087,7 +1079,7 @@ Los propietarios de los inmuebles donde se autorice a las empresas para celebrar
 
 > <small>(DEROGADA, P.O. 14 DE AGOSTO DE 1988)</small>
 
-#### SECCION QUINTA. Obligaciones de los Contribuyentes
+#### SECCION CUARTA
 
 ###### ARTICULO 97.
 
@@ -1103,7 +1095,7 @@ Los propietarios de los inmuebles donde se autorice a las empresas para celebrar
 
 > <small>(DEROGADA, P.O. 14 DE AGOSTO DE 1988)</small>
 
-#### SECCION SEXTA. De la Responsabilidad Solidaria
+#### SECCION PRIMERA
 
 ###### ARTICULO 99.
 
@@ -1111,7 +1103,7 @@ Los propietarios de los inmuebles donde se autorice a las empresas para celebrar
 
 > <small>(DEROGADA, P.O. 14 DE AGOSTO DE 1988)</small>
 
-#### SECCION PRIMERA
+#### SECCION SEGUNDA
 
 ###### ARTICULO 100.
 
@@ -1119,7 +1111,7 @@ Los propietarios de los inmuebles donde se autorice a las empresas para celebrar
 
 > <small>(DEROGADA, P.O. 14 DE AGOSTO DE 1988)</small>
 
-#### SECCION SEGUNDA
+#### SECCION TERCERA
 
 ###### ARTICULO 101.
 
@@ -1131,7 +1123,7 @@ Los propietarios de los inmuebles donde se autorice a las empresas para celebrar
 
 > <small>(DEROGADA, P.O. 14 DE AGOSTO DE 1988)</small>
 
-#### SECCION TERCERA
+#### SECCION CUARTA
 
 ###### ARTICULO 103.
 
@@ -1141,7 +1133,7 @@ Los propietarios de los inmuebles donde se autorice a las empresas para celebrar
 
 ### CAPITULO I. Por Empadronamiento, Expedición o Modificación de Licencias
 
-#### SECCION CUARTA
+#### SECCION UNICA
 
 ###### ARTICULO 104.
 
@@ -1159,7 +1151,7 @@ Las sucursales, agencias o bodegas con venta directa al público, también requi
 
 ### CAPITULO II. Los Servicios Prestados por Autoridades de Obras Públicas
 
-#### SECCION PRIMERA
+#### SECCION UNICA
 
 ###### ARTICULO 107.
 
@@ -1171,7 +1163,7 @@ Para que cualquier autorización obtenga plena validez, será requisito indispen
 
 Por los servicios Prestados por Subdivisión, Fusión y Relotificación.
 
-#### SECCION SEGUNDA
+#### SECCION UNICA
 
 ###### ARTICULO 108.
 
@@ -1183,7 +1175,7 @@ La prestación de este servicio apareja un derecho que deberá liquidarse en la 
 
 ### CAPITULO IV. De la Prestación del Servicio de Agua Potable
 
-#### SECCION TERCERA
+#### SECCION UNICA
 
 ###### ARTICULO 110.
 
@@ -1213,7 +1205,7 @@ Las personas físicas o morales, que en los términos del Bando Municipal, esté
 
 ### CAPITULO V. De Servicios por la Conexión de Albañales
 
-#### SECCION CUARTA
+#### SECCION UNICA
 
 ###### ARTICULO 116.
 
@@ -1268,6 +1260,8 @@ Los fraccionamientos tienen obligación de ceder a título gratuito al Municipio
 ### CAPITULO VIII. Por Servicios de Recepción de Basura en Contenedores y Transportación de Materiales
 
 #### SECCION UNICA
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1988)</small>
 
 ###### ARTICULO 125.
 
@@ -1357,8 +1351,6 @@ Los Derechos a que se refiere este capítulo se causarán y liquidarán de acuer
 
 #### SECCION UNICA
 
-#### SECCION UNICA
-
 ###### ARTICULO 139.
 
 Es objeto de los Derechos de Cooperación para Obras Públicas, la Realización por parte del Municipio, de las siguientes obras:
@@ -1445,17 +1437,11 @@ Estos Derechos por cooperación de Obras Públicas se determinará (sic) una vez
 
 #### SECCION UNICA
 
-#### SECCION UNICA
-
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1988)</small>
-
 ###### ARTICULO 148.
 
 Los servicios prestados por la Dirección de Seguridad Pública y Vialidad, serán retribuidos conforme a las tarifas que a efecto señale la Ley de Ingresos del Municipio.
 
 ### CAPITULO I
-
-#### SECCION UNICA
 
 #### SECCION UNICA
 
@@ -1482,8 +1468,6 @@ III.- Otros productos.
 La enajenación de los bienes muebles o inmuebles propiedad del Municipio; sólo podrá llevarse a cabo cuando se cumplan previamente los requisitos establecidos en la Constitución Política del Estado y lo aprueben el Ayuntamiento y el Congreso del Estado.
 
 ### CAPITULO IV. Otros Productos
-
-#### SECCION UNICA
 
 ###### ARTICULO 151.
 
@@ -1622,5 +1606,9 @@ P.O. 14 DE AGOSTO DE 1988.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 21 DE OCTUBRE DE 1990.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 24 DE FEBRERO DE 1991.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
