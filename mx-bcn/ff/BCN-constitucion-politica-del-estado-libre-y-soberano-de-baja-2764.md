@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2002-11-01"
+last_updated: "2003-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2003.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -223,7 +223,7 @@ V.- En su condición de padres, deben ser asistidos en la forma que la Legislaci
 
 ###### ARTICULO 9.
 
-Son obligaciones de los habitantes:
+Son obligaciones de los habitantes del Estado:
 
 I.- Si son mexicanos, las que se señalan en el artículo 31 de la Constitución General de la República y en la presente.
 
@@ -989,7 +989,9 @@ La Ley garantizará la independencia de los Magistrados, Consejeros y Jueces en 
 
 Corresponde al Tribunal de Justicia Electoral como máxima autoridad jurisdiccional electoral estatal, y órgano especializado del Poder Judicial garantizar el cumplimiento del principio de legalidad de los actos y resoluciones electorales.
 
-La remuneración de los Magistrados del Poder Judicial a excepción de los Magistrados electorales, así como de los jueces de primera instancia, Jueces de Paz, Jurados y Consejeros de la Judicatura del Estado, no podrá ser disminuida durante el tiempo de su gestión.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
+
+La remuneración de los Magistrados del Tribunal Superior de Justicia, la de los Magistrados del Tribunal de Justicia Electoral, así como la de los Jueces de Primera Instancia, Jueces de Paz, Jurados y Consejeros de la Judicatura del Estado, del Poder Judicial, no podrá ser disminuida durante el tiempo de su gestión.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 2002)</small>
 
@@ -1671,7 +1673,7 @@ Las sanciones económicas no podrán exceder de tres tantos de los beneficios ob
 
 ###### ARTICULO 95.
 
-No se requerirá declaración de procedencia del Congreso del Estado cuando alguno de los servidores públicos a que hace referencia el Párrafo Primero del Artículo 94, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
+No se requerirá declaración de procedencia del Congreso del Estado cuando alguno de los servidores públicos a que hace referencia el párrafo Primero del Artículo 94, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
 
 Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados por el Artículo 94, se procederá de acuerdo con lo dispuesto en dicho Precepto.
 
@@ -2470,3 +2472,7 @@ SEGUNDO.- Córrase el trámite que señala el artículo 112 de la Constitución 
 P.O. 1 DE NOVIEMBRE DE 2002.
 
 UNICO: Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 10 DE ENERO DE 2003.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
