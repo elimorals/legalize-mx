@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-los-municipios-del-estado-de-baja-2949"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1994-10-10"
+last_updated: "1994-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE OCTUBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1985.
 
@@ -144,6 +144,10 @@ a).- A razón de 6.5 al Millar Anual sobre el valor catastral de los predios des
 b).- A razón de 13 al Millar sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
 
 c).- A razón de 26 al Millar anual sobre el valor catastral de los predios no edificados o baldíos, incrementándose anualmente en un 2.6 al Millar hasta en tanto no sea construida una edificación. La tasa no excederá de 52 al Millar.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1994)</small>
+
+d).- A razón del 13 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta, con reserva de dominio o que sean materia de cualquier otro acto jurídico preparatorio similar o traslativo de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
 
 Se considerará lote baldío, aquél que teniendo construcciones, éstas representen menos del 50% del valor catastral del terreno.
 
@@ -571,11 +575,11 @@ REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO.
 
 REGISTRO PUBLICO DE LA PROPIEDAD.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 39.
 
-Los servicios que preste el Registro Público de la Propiedad causarán el pago de Derechos, conforme a la siguiente
+Los servicios que preste el Registro Público de la Propiedad causarán el pago de derechos, conforme a la siguiente:
 
 T A R I F A :
 
@@ -627,13 +631,21 @@ XIV.- Las inscripciones de fraccionamientos de terrenos, debidamente autorizados
 
 XV.- Ratificación de documentos privados ante el Registrador en el caso de la Fracción III del Artículo 3011 del Código Civil vigente y constancia del mismo 10 Días salario mínimo.
 
-XVI.- Para la expedición de certificados y constancias por cada persona y/o predio:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1994)</small>
+
+XVI.- Por la expedición de certificados por cada persona y/o predio:
 
 a).- Cuota fija por servicio hasta 10 años 5 Días salario mínimo.
 
 b).- Cuota fija por servicio de más de 10 años 5 Días salario mínimo.
 
 c).- Por cada hoja 25% salario mínimo diario.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1994)</small>
+
+XVI-Bis.- Por la expedición de constancias, por cada persona:
+
+Cuota fija por servicio 2 días salario mínimo.
 
 XVII.- Si las certificaciones o constancias son solicitadas con carácter de urgente, se causarán el doble de las cuotas aplicables, conforme a la Fracción anterior.
 
@@ -2229,7 +2241,7 @@ Todas las liquidaciones de créditos fiscales se elevarán a múltiples de $ 1.0
 
 El Tesorero Municipal tendrá todas las facultades para requerir a los contribuyentes el cumplimiento de los créditos y obligaciones fiscales, aplicar el procedimiento económico coactivo e imponer sanciones y todas las atribuciones que para el Secretario de Finanzas del Gobierno del Estado establece el Código Fiscal para el Estado y Municipios de Baja California Sur y demás Leyes tributarias.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 10 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 10 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 124.
 
@@ -2277,7 +2289,7 @@ Para aplicar las reducciones a las contribuciones de referencia, dentro de los l
 
 Los recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito por infracciones a las disposiciones fiscales a cargo de pensionados o jubilados, se reducirán conforme a los porcentajes y respecto de las contribuciones que se indican en los artículos 125 y 126 de esta Ley, en la misma proporción con que se haya beneficiado al pensionado o jubilado.
 
-T R A N S I T O R I O S :
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 10 DE DICIEMBRE DE 1993)</small>
 
 ## TITULO QUINTO BIS
 
@@ -2301,7 +2313,7 @@ Se establece en el Municipio de Los Cabos la contribución especial para la obte
 
 DE LAS REDUCCIONES PARA PENSIONADOS Y JUBILADOS.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 10 DE DICIEMBRE DE 1993)</small>
+T R A N S I T O R I O S :
 
 ### CAPITULO UNICO
 
@@ -2454,3 +2466,9 @@ Con motivo de la reforma que refiere el presente decreto, los créditos que lleg
 ###### ARTICULO SEXTO.
 
 El Honorable V Ayuntamiento de Los Cabos, deberá difundir ampliamente entre la población del Municipio de Los Cabos, el resultado de la auditoria que se realiza actualmente con relación a la captación y destino de la contribución especial del 1.3% a que se refiere el Título Quinto Bis, de la Ley de Hacienda para los Municipios del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y cinco, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
