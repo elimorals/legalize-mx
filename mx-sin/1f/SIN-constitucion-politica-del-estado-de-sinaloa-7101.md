@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2003-07-21"
+last_updated: "2003-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 2003.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -605,7 +605,9 @@ XXVII. Facultar al Ejecutivo del Estado para que con las limitaciones que sean n
 
 XXVIII. Conceder o no los premios y recompensas que proponga el Ejecutivo del Estado a los que hayan prestado servicios eminentes al mismo y jubilaciones que también sean previamente propuestas por el Ejecutivo a los servidores públicos de la manera que determinan las leyes.
 
-XXIX. Conceder amnistía por delitos políticos e indultos y conmutación de penas, en los del orden común.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2003)</small>
+
+XXIX. Conceder amnistía por delitos políticos, cuyo conocimiento pertenezca a los tribunales del Estado.
 
 XXX. Rehabilitar en los derechos de ciudadano a quienes tengan perdido o suspenso su ejercicio de acuerdo con las leyes.
 
@@ -693,7 +695,7 @@ Toda Ley o decreto será promulgada bajo la firma del Presidente y Secretario de
 
 ###### Art. 48.
 
-Las leyes y decretos son obligatorios desde el día siguiente al de su promulgación, a no ser que en sus mismo (sic) textos se designe la fecha en que deban comenzar a regir.
+Las leyes y decretos son obligatorios desde el día siguiente al de su promulgación, a no ser que en sus mismo (sic) mismos textos se designe la fecha en que deban comenzar a regir.
 
 #### SECCION IV. DE LA DIPUTACION PERMANENTE
 
@@ -895,7 +897,9 @@ XVI. Iniciar leyes y decretos ante el Congreso del Estado.
 
 XVII. Dictar las medidas urgentes que estime necesarias para la defensa de la salubridad pública del Estado.
 
-XVIII. Cuidar de que las sentencias ejecutoriadas dictadas por los Tribunales del Estado en materia penal, sean debidamente cumplidas.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2003)</small>
+
+XVIII. Cuidar que las sentencias ejecutoriadas dictadas por los Tribunales del Estado en materia penal, sean debidamente cumplidas; conceder indultos por delitos del orden común, así como proveer el cumplimiento del reconocimiento de inocencia de reos sentenciados, en los casos que el Supremo Tribunal de Justicia del Estado haya resuelto fundados.
 
 XIX. Velar por la moralidad pública, impidiendo enérgicamente el establecimiento de juegos de azar.
 
@@ -1320,6 +1324,10 @@ II. Resolver, como jurado de sentencia, de las acusaciones penales formuladas po
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
 III. Conocer y resolver las controversias de cualquier orden que se susciten, entre los Poderes del Estado, entre uno o más Poderes del Estado, y los Ayuntamientos, o entre éstos entre sí.
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2003)</small>
+
+III Bis. Conocer y resolver de las solicitudes de reconocimiento de inocencia de reos sentenciados por delitos del fuero común, en los términos de Ley;
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2878,6 +2886,10 @@ Este decreto entrará en vigor al día siguiente de su publicación en el Perió
 P.O. 21 DE JULIO DE 2003.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 17 DE SEPTIEMBRE DE 2003.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTÍCULO PRIMERO.
 
