@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1974-02-02"
+last_updated: "1975-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE FEBRERO DE 1974.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ENERO DE 1975.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -273,7 +273,7 @@ Los Diputados a la Legislatura del Estado, los Magistrados del Tribunal Superior
 
 Tratándose de los delitos del orden común a que se refiere el artículo anterior, la Legislatura erigida en Gran Jurado declarará, por mayoría absoluta de votos del número total de sus miembros, si ha lugar o no a proceder contra el acusado. En caso negativo, no habrá lugar a procedimiento ulterior; pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado haya dejado de tener fuero, salvo el caso de prescripción de la acción penal conforme a las leyes. En caso afirmativo, el acusado quedará por el mismo hecho separado de su encargo y sujeto a la acción de los Tribunales comunes. Si la decisión de éstos fuere condenatoria, el mismo acusado quedará separado definitivamente y en caso contrario, volverá al desempeño de sus funciones.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1975)</small>
 
 ###### Art. 128.
 
@@ -595,21 +595,23 @@ XI.- Erigirse en Colegio Electoral para nombrar Gobernador substituto en los cas
 
 Los nombramientos de Magistrados del Tribunal Superior de Justicia del Estado, y los nombramientos y ceses de los Jueces de Primera Instancia, serán hechos por el Gobernador del Estado y sometidos a la aprobación de la Legislatura, la que la otorgará o negará dentro del término improrrogable de diez días para los primeros, y de dos días hábiles para los segundos. Si la Cámara no resolviere dentro de dicho término se tendrán por aprobados los nombramientos y ceses. Sin la aprobación de la Cámara no podrán tomar posesión los Magistrados designados por el Gobernador. En el caso de que la Legislatura no apruebe dos nombramientos sucesivos respecto de la misma vacante, el ciudadano Gobernador hará un tercer nombramiento, que surtirá sus efectos desde luego y que será sometido a la aprobación de la Cámara en el siguiente período de sesiones; en este período, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado o Juez nombrado continuará en sus funciones, con el carácter de definitivo. Si la Cámara desecha el nombramiento cesará desde luego en sus funciones el Magistrado o Juez provisional, y el ciudadano Gobernador someterá nuevo nombramiento a la aprobación de la Cámara en los términos señalados. En los casos de faltas temporales por más de tres meses, de los Magistrados o Jueces, o en las definitivas por defunción; renuncia o incapacidad, el Gobernador someterá un nuevo nombramiento a la aprobación de la Legislatura y si ésta no estuviese en sesiones, a la Comisión Permanente, quien dará su aprobación provisional mientras se reúne aquélla y da la aprobación definitiva.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1970)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1975)</small>
 
-XI. Bis.- Los nombramientos de Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal Fiscal del Estado y los nombramientos y ceses de los jueces de Primera Instancia, serán hechos por el Gobernador del Estado y sometidos a la aprobación de la Legislatura la que la otorgará o negará dentro del término improrrogable de diez días hábiles para los primeros, y de dos para los segundos. Si la Cámara no resolviere dentro de dicho término se tendrán por aprobados tales nombramientos y ceses. Sin la aprobación de la Cámara no podrán tomar posesión los Magistrados designados por el Gobernador.
+XI.- Bis.- Los nombramientos de Magistrados del Tribunal Superior de Justicia del Estado y del Tribunal Fiscal del Estado, serán hechos por el Gobernador del Estado y sometidos a la aprobación de la Legislatura, la que otorgará o negará dentro del término improrrogable de diez días hábiles. Si la Cámara no resolviese dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación de la Cámara no podrán tomar posesión lo Magistrados designados por el Gobernador.
 
-Los casos especiales de nombramientos y cese se resolverán de acuerdo con lo previsto en los incisos siguientes:
+Los casos especiales de nombramientos se resolverán de acuerdo con lo previsto en los incisos siguientes:
 
-a).- En el caso de que la Legislatura no apruebe dos nombramientos sucesivos respecto de la misma vacante. El Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego.
+a) En el caso de que la Legislatura no apruebe los nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego.
 
-b).- En los casos de faltas temporales por más de tres meses de los Magistrados o Jueces o en las definitivas por defunción, renuncia o incapacidad, el Gobernador someterá el nombramiento de los substitutos a la aprobación de la Legislatura.
+b) En los casos de faltas temporales por más de tres meses de los Magistrados o en los definitivos por defunción, renuncia, incapacidad o inhabilitación, el Gobernador someterá el nombramiento de los sustitutos a la aprobación de la Legislatura.
 
-c).- En el período de recesos de la Legislatura, los nombramientos y ceses a que se refiere este precepto, serán aprobados provisionalmente por la Diputación Permanente, mientras no reanude aquella sus funciones y los apruebe en definitiva.
+c) En el período de receso de la Legislatura los nombramientos a que se refiere este precepto serán aprobados provisionalmente por la Diputación Permanente, mientras no reanude aquella sus funciones y los apruebe en definitiva.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 30 DE ENERO DE 1975)</small>
 
-XII.- Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, de los Jueces de Primera Instancia y del Contador de Glosa, con arreglo a las siguientes fórmulas:
+XII.- Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia y del Contador de Glosa, con arreglo a las siguientes formas:
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1941)</small>
 
 El Gobernador del Estado protestará en los siguientes términos:
 
@@ -623,13 +625,13 @@ Uno de los Secretarios de la Legislatura interrogará:
 
 XIII. Nombrar y remover a los empleados de su Secretaría y a los de la Contaduría General de Glosa;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1970)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1975)</small>
 
-XIV.- Resolver sobre las renuncias de sus propios miembros, del Gobernador, de los Magistrados del Tribunal Superior de Justicia, de los Magistrados del Tribunal Fiscal del Estado y de los Jueces de Primera Instancia.
+XIV.- Resolver sobre las renuncias de sus propios miembros, del Gobernador y de los Magistrados del Tribunal Superior de Justicia y Tribunal Fiscal del Estado.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1970)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1975)</small>
 
-XV.- Conceder licencias a sus propios miembros, al Gobernador, a los Magistrados del Tribunal Superior de Justicia, a los Magistrados del Tribunal Fiscal del Estado y a los Jueces de Primera Instancia.
+XV. – Conceder licencia a sus propios miembros, al Gobernador y a los Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal, cuando las de los funcionarios judiciales excedieren de tres meses y les sean sometidas por el Ejecutivo.
 
 XVI.- (DEROGADA, P.O. 17 DE OCTUBRE DE 1945)
 
@@ -967,13 +969,13 @@ XXV. Prestar al Poder Judicial los auxilios que necesite para el ejercicio exped
 
 XXVI. Hacer que las sentencias ejecutoriadas dictadas por los Tribunales en materia penal, sean debidamente ejecutadas, sin perjuicio de la facultad a que se refiere la fracción IX del artículo anterior.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1975)</small>
 
-XXVII.- Nombrar a los Magistrados del Tribunal Superior de Justicia y a los Jueces de Primera Instancia, sometiendo los nombramientos a la aprobación de la Legislatura o de la Diputación Permanente en su caso.
+XXVII.- Nombrar a los Magistrados del Tribunal Superior de Justicia, sometiendo los nombramientos a la aprobación de la Legislatura o de la Diputación Permanente en su caso,
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1975)</small>
 
-XXVIII.- Aceptar las renuncias de los Magistrados del Tribunal Superior de Justicia y de los Jueces de Primera Instancia, sometiéndolas a la aprobación de la Legislatura o de la Diputación Permanente en su caso, así como acordar las licencias de esos funcionarios cuando éstas excedan de tres meses, sometiendo su aprobación al mismo Cuerpo Legislativo.
+XXVIII. Aceptar la renuncia de los Magistrados del Tribunal Superior de Justicia, sometiéndola a la aprobación de la Legislatura o de la Diputación Permanente en su caso, así como acordar las licencias de esos funcionarios cuando éstas excedan de tres meses, sometiendo su aprobación al mismo Cuerpo Legislativo.
 
 > <small>(ADICIONADA, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -1073,6 +1075,12 @@ III. Cuando a solicitud de la Legislatura el Gobierno tenga que informar sobre a
 
 El Secretario General, mientras esté en ejercicio de sus funciones, no podrá desempeñar los oficios de apoderado o abogado en negocios ajenos, ante los Tribunales del Estado.
 
+###### Artículo 101.
+
+El Tribunal Superior de Justicia, se compondrá de doce Magistrados numerarios y tres supernumerarios los que serán designados en la forma que previenen los Artículos 70, Fracción XI Bis y 89 Fracción XXVII de esta Constitución.
+
+Los Magistrados del Tribunal Superior de Justicia serán inamovibles, sólo podrán ser privados de sus puestos, por faltas u omisiones graves el ejercicio de sus funciones o cuando observen mala conducta, previo juicio de responsabilidad; o por estar incapacitado física o mentalmente para el desempeño de las mismas.
+
 ###### Art. 102.
 
 Para ser Magistrado del Tribunal Superior de Justicia, se requiere:
@@ -1093,7 +1101,9 @@ III. Poseer título profesional de abogado, expedido por la autoridad o corporac
 
 IV.- No haber sido sentenciado ejecutoriamente por delito intencional que amerite pena privativa de libertad, ni en juicio de responsabilidad por delito de carácter oficial.
 
-V. Ser de una honradez y probidad notorias.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1975)</small>
+
+V.- ser de honradez y probidad notoria y estar capacitado física y mentalmente para el desempeño del cargo.
 
 ###### Art. 103.
 
@@ -1103,19 +1113,19 @@ No podrán reunirse en el Tribunal Superior de Justicia, dos o más Magistrados 
 
 (DEROGADO, P.O. 1 DE ENERO DE 1955)
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1975)</small>
 
-###### Art. 105.
+###### Artículo 105.
 
-Para cubrir las faltas absolutas de los Magistrados, los substitutos designados ocuparán el lugar y prerrogativas de los que substituyen y durarán en su encargo únicamente el tiempo que a éstos les faltare para completar el período constitucional.
+Para cubrir las faltas absolutas de los Magistrados, los substitutos designados ocuparán el lugar y prerrogativas de los que substituyeren.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
-
-###### Art. 106.
-
-Aunque los Magistrados nuevamente designados no se presenten a tomar posesión de sus cargos en el término en que deban hacerlo, cesarán sin embargo los anteriores, entrando desde luego en funciones los que se presenten y en lugar de aquellos, los suplentes respectivos con arreglo a las leyes relativas.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1975)</small>
 
 #### SECCION PRIMERA. DEL EJERCICIO DEL PODER JUDICIAL
+
+###### Artículo 106.
+
+Aunque los Magistrados no se presenten a tomar posesión de sus cargos en el término en que deban hacerlo, cesarán sin embargo los anteriores, entrando desde luego en funciones los que se presenten, y en lugar de aquellos, los suplentes respectivos con arreglo a las Leyes relativas.
 
 ###### Art. 107.
 
@@ -1137,9 +1147,13 @@ I.- Iniciar leyes en todo lo relativo a la Administración de Justicia.
 
 II. Declarar si ha o no lugar a formación de causa a los Secretarios del Tribunal y resolver, sin recursos ulterior, como Jurado de sentencia las causas de responsabilidad por delitos oficiales que hayan de formarse contra el Gobernador, Diputados, Magistrados, Jueces de primera Instancia, Procurador General de Justicia y Secretario General de Gobierno u Oficial Mayor en su caso, previa la correspondiente declaración de la Legislatura;
 
-III.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 1975)</small>
 
-IV.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
+III.- Nombrar a los Jueces de Primera Instancia y recibir la protesta a que se refiere el Artículo 171 de la presente Constitución.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 1975)</small>
+
+IV. Decretar los casos de los Jueces de Primera Instancia.
 
 V.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
 
@@ -1169,9 +1183,9 @@ IX. Ejercer las demás atribuciones que le señale la ley orgánica respectiva.
 
 X.- (DEROGADA, P.O. 2 DE OCTUBRE DE 1943)
 
-> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1975)</small>
 
-XI. Remover a los Jueces, acordar su traslado a otro Distrito Judicial, cuando así lo exija el servicio público, a juicio del Tribunal o lo solicite el Gobernador del Estado.
+XI.- Remover a los Jueces, acordando su traslado a otro Distrito Judicial, cuando así lo exija el servicio Público, a juicio del Tribunal.
 
 > <small>(ADICIONADA, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -1197,7 +1211,7 @@ IV.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
 
 V. Conocer de los demás asuntos que les confieran las leyes.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1947)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1975)</small>
 
 ###### Art. 111.
 
@@ -1275,7 +1289,7 @@ Para ser Procurador General, se requieren los mismos requisitos que para ser Mag
 
 #### SECCION SEGUNDA. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1975)</small>
 
 ###### Art. 101
 
@@ -1291,7 +1305,11 @@ Las Leyes del Estado podrán instituir Tribunales de lo contencioso-administrati
 
 #### SECCION TERCERA. DE LOS JUECES DE PRIMERA INSTANCIA
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1975)</small>
+
+###### Artículo 111.
+
+Para el mejor despacho de los asuntos de la competencia del Tribunal Superior de Justicia, la Primera y Segunda Salas conocerán de los asuntos civiles y la Tercera y Cuarta de los asuntos criminales de la competencia del propio Tribunal.
 
 ## TITULO UNICO. DE LA ADMINISTRACION INTERIOR DE LOS MUNICIPIOS
 
@@ -1306,6 +1324,12 @@ La Administración Pública interior de los Municipios se ejercerá por los Ayun
 ###### Art. 134.
 
 En ningún caso podrán desempeñar los Ayuntamientos como cuerpos colectivos, las funciones del Presidente Municipal, ni éste por sí solo las de los Ayuntamientos ni el Ayuntamiento o el Presidente Municipal, funciones judiciales.
+
+###### Artículo 115.
+
+Los Jueces de Primera Instancia serán nombrados por el Tribunal Superior de Justicia, serán inamovibles y sólo podrán ser privados de sus puestos cuando ocurra alguna de las causas señaladas en el segundo párrafo del Artículo 101 de esta propia Constitución.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
 
 ### CAPITULO SEGUNDO. DE LOS AYUNTAMIENTOS
 
@@ -1650,6 +1674,10 @@ II. De las contribuciones de carácter general que decrete la Legislatura.
 ###### Art. 182.
 
 (DEROGADO, P.O. 1 DE ENERO DE 1955)
+
+###### Artículo 128.
+
+De los delitos oficiales conocerán; la Legislatura, como jurado de acusación y el Tribunal Superior de Justicia del Estado, como órgano de sentencia. El jurado de acusación tendrá por objeto declarar a mayoría absoluta de votos, del número total de sus miembros, si el acusado es o no culpable. Si la declaración fuere absolutoria continuará el acusado en el ejercicio de su encargo; si fuere condenatoria quedará separado de dicho encargo y será puesto a disposición del Tribunal Superior de Justicia. Este en Tribunal Pleno y erigido en órgano de sentencia, con asistencia del reo, de su defensor y del Procurador General de Justicia, o de quien éste designe para el efecto, procederá a imponer por mayoría de votos, la pena que la Ley respectiva determine. El Gobernador del Estado cuando el caso lo amerite, podrá pedir ante la Legislatura, o en su caso ante la Diputación Permanente, la destitución por mala conducta, de los Magistrados del Tribunal Superior de Justicia. Si por mayoría absoluta de votos de una obra se declare justificada la petición, el funcionario acusado quedará privado desde luego de su puesto, independientemente de la responsabilidad en que hubiere incurrido, y se procederá a nueva designación. La Legislatura expedirá una Ley de Responsabilidades Oficiales para todos los Funcionarios y Empleados Públicos del Estado, de los Municipios y Organismos Descentralizados.
 
 ## TITULO SEGUNDO. BASES DE LA ORGANIZACION DE LA HACIENDA PUBLICA
 
@@ -2262,6 +2290,28 @@ G.G. 2 DE FEBRERO DE 1974.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+G.G. 30 DE ENERO DE 1975.
+
+###### ARTICULO 1o.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
+
+###### ARTICULO 2o.
+
+Los Magistrados del Tribunal Superior de Justicia actualmente en funciones quedarán sujetos a la inamovilidad a que se contraen las presentes reformas; para el efecto, el C. Gobernador del Estado hará las modificaciones conducentes en los nombramientos hechos a favor de aquéllos y aprobados por esta Legislatura.
+
+###### ARTICULO 3o.
+
+Los Jueces de Primera Instancia quedarán sujetos a inamovilidad a partir de los nombramientos que se hagan con posterioridad al término del actual período constitucional, que concluye el 31 de diciembre de 1975.
+
+###### ARTICULO 4o.
+
+En lo relativo a las faltas absolutas, temporales o accidentales, nombramientos y renuncias de Jueces, en el período comprendido de la fecha en que entren en vigor estas reformas hasta el 31 de diciembre de 1975 se sujetará a lo establecido por las disposiciones derogadas, en lo conducente.
+
+###### ARTICULO 5o.
+
+Las Salas de nueva creación del Tribunal Superior de Justicia del Estado de México, empezarán a funcionar el día 15 de febrero del presente año, y para el efecto el Ciudadano Gobernador del Estado proveerá lo conducente.
 
 ###### ARTICULO SEGUNDO.
 
