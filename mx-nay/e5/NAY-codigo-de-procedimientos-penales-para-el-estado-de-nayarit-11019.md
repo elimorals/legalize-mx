@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-penales-para-el-estado-de-nayarit-1101
 country: "mx"
 rank: "codigo"
 publication_date: "1969-11-29"
-last_updated: "1996-08-07"
+last_updated: "1996-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 1996.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1969.
 
@@ -1099,9 +1099,9 @@ C) Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda ocu
 
 La violación a esta disposición hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1996)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1996)</small>
 
-Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal: homicidio y lesiones graves previsto en el último párrafo del artículo 72; delitos contra el orden constitucional del Estado y su integridad territorial previsto en el artículo 127; rebelión, previsto en los artículos 130 y 131; sedición previsto en el artículo 140; terrorismo, previsto en el artículo 145; evasión de presos, previsto en los artículos 146 y 148; ataques a las vías de comunicación, previsto en el artículo 166 en relación con los artículos 170 y 171; corrupción de menores, previsto en el artículo 200 en relación con el 202; lenocinio, previsto en el artículo 203; violación en relación con el 206; tortura, previsto en el artículo 214; estupro en relación con el artículo 258 párrafo segundo; violación, en relación con el artículo 266; sustracción y tráfico de infantes, previsto en el artículo 265; amenazas graves, previsto en el último párrafo del artículo 276; asalto, previsto en los artículos 281 y 282; secuestro, previsto en el artículo 284; lesiones, previsto en los artículo (sic) 309, 310, 314 y 315; homicidio previsto en los artículos 317 en relación con el 321, 323, 330, 331 y 332; robo calificado, previsto en el artículo 343 en relación al 348, abigeato, previsto en el artículo 357 en relación al 358; Delito de Fraccionadores, previsto en el artículo 370-Bis; despojo, previsto en el artículo 373, penúltimo párrafo; daño en propiedad ajena, previsto en el artículo 375; encubrimiento previsto en el artículo 381 último párrafo.
+Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal: homicidio y lesiones graves previsto en el último párrafo del artículo 72; delitos contra el orden constitucional del Estado y su integridad territorial previsto en el artículo 127; rebelión, previsto en los artículos 130 y 131; sedición previsto en el artículo 140; terrorismo, previsto en el artículo 145; evasión de presos, previsto en los artículos 146 y 148; ataques a las vías de comunicación, previsto en el artículo 166 en relación con los artículos 170 y 171; corrupción de menores, previsto en el artículo 200 en relación con el 202; lenocinio, previsto en el artículo 203; violación en relación con el 206; tortura, previsto en el artículo 214; estupro en relación con el artículo 258 párrafo segundo; violación, en relación con el artículo 266; sustracción y tráfico de infantes, previsto en el artículo 265; amenazas graves, previsto en el último párrafo del artículo 276; asalto, previsto en los artículos 281 y 282; secuestro, previsto en el artículo 284; lesiones, previsto en los artículo (sic) 309, 310, 314 y 315; homicidio previsto en los artículos 317 en relación con el 321, 323, 330, 331 y 332; robo calificado, previsto en el artículo 343 en relación al 348, abigeato, previsto en el artículo 357 en relación al 358; Delito de Fraccionadores, previsto en el artículo 370-Bis; despojo, previsto en el artículo 373, penúltimo párrafo; daño en propiedad ajena, previsto en el artículo 375; encubrimiento previsto en el artículo 381 último párrafo, los delitos contra el desarrollo urbano, en sus artículos 393, 394 y 395.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -3092,3 +3092,9 @@ P.O. 7 DE AGOSTO DE 1996
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir de su publicación, en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 4 DE DICIEMBRE DE 1996.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
