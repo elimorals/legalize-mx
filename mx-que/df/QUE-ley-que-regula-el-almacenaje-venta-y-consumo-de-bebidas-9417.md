@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-regula-el-almacenaje-venta-y-consumo-de-bebidas-9417"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-31"
-last_updated: "1991-12-31"
+last_updated: "1992-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE REGULA EL ALMACENAJE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1992.
 
 Ley Publicada en el Periódico Oficial del Estado "La Sombra de Arteaga" el 31 de Diciembre de 1991
 
@@ -67,9 +67,11 @@ La aplicación de esta ley corresponde al Ejecutivo del Estado, por conducto de 
 
 Son objeto de regulación de esta ley las personas físicas, morales y unidades económicas distintas a sus miembros, que en el territorio del estado de Querétaro tengan establecimientos o locales dedicados al almacenaje, venta y consumo de debidas alcohólicas, excepto de alcohol no potable o aquel utilizado para fines cuyo consumo se haga por métodos distintos a su ingestión directa, o bajo receta médica.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 3.
 
-Para los efectos de esta ley se consideran bebidas alcohólicas los líquidos potables que a la temperatura de 15º centígrados tengan concentración alcohólica mayor de 4G.L.
+Para los efectos de esta ley se consideran bebidas alcohólicas los líquidos potables que a la temperatura de 15 grados centígrados tengan concentración alcohólica de 2 grados G. L. o mayor.
 
 ###### ARTICULO 4.
 
@@ -203,9 +205,11 @@ b).- AUTORIZACION: El documento expedido con carácter provisional para persona 
 
 Las licencias y autorizaciones a que se refiere esta ley son actos administrativos subordinados al interés público y se otorga con el carácter de personales, por tanto, en ningún caso podrán ser objeto de cesión, arrendamiento o gravamen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 21.
 
-Los interesados en obtener la licencia de almacenaje, venta y consumo para los establecimientos a los que se refiere esta Ley, deberán presentar solicitud por escrito ante la Secretaría de Gobierno, con los siguientes datos o documentos:
+Los interesados en obtener la licencia o autorización de Almacenaje, Venta y Consumo para los establecimientos a los que se refiere esta Ley, deberán presentar solicitud por escrito ante la Secretaría de Gobierno, con los siguientes datos o documentos:
 
 I. Nombre, razón o denominación social, denominación y nacionalidad del solicitante. Se prohibe emplear nombres de héroes o pronombres, así como denominaciones que lesionen la moral o las buenas costumbres. Si el solicitante es extranjero, deberá comprobar que está autorizado por la Secretaría de Gobernación para dedicarse a esa actividad en los términos de la Ley General de Población;
 
@@ -218,6 +222,10 @@ IV. Actividad o actividades que se pretendan proporcionar en el establecimiento,
 V. Dictamen de uso de suelo expedido por la autoridad competente;
 
 VI. La autorización de la Dirección de Salud del Estado respecto a las condiciones sanitarias del mismo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+Los requisitos a lo que se refieren las fracciones V y VI, solo serán exigibles tratándose de licencia de operación.
 
 ###### ARTICULO 22.
 
@@ -251,7 +259,9 @@ I.- El inspector deberá contar con orden por escrito que contendrá la fecha, u
 
 II.- Los Inspectores practicarán la visita dentro de las 24 horas siguientes a la expedición de la orden;
 
-III.- El inspector deberá identificarse con el propietario, encargado o su representante y mostrara la orden de inspección.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+III.- El inspector deberá identificarse con el propietario, encargado o su representante y le hará entrega de la orden de inspección.
 
 IV. De toda visita de inspección se levantará acta circunstanciada por triplicado, en formas numeradas y foliadas en las que se expresará lugar, fecha y nombre de la persona con quien se entienda la diligencia, así como el resultado de la misma; el acta deberá ser firmada por el inspector, por la persona con quien se entendió la diligencia, si desea hacerlo, y por dos testigos de asistencia, quienes estarán presentes durante el desarrollo de la misma, propuestos por esta o en su rebeldía por el inspector;
 
@@ -271,35 +281,155 @@ INFRACCIONES.
 
 Constituyen infracciones a la presente ley, las siguientes:
 
-I.- Almacenar, distribuir, vender, o consumir bebidas alcohólicas en los establecimientos y lugares que no cuenten con la licencia o el refrendo correspondiente.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-II.- Vender directamente al publico bebidas alcohólicas fuera del establecimiento autorizado.
+I.- Almacenar, vender, o consumir bebidas alcohólicas en los establecimientos y lugares que no cuenten con la licencia o el refrendo correspondiente.
 
-III.- Vender bebidas alcohólicas en lugares prohibidos por este ordenamiento, las autoridades competentes o las leyes y reglamentos de la materia
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-IV.- Tener el establecimiento vista del exterior al interior, o acceso por lugares distintos a la vía publica, o comunicación con viviendas o lugares ajenos al giro, cuando la venta sea en envase abierto sin alimentos; hecha excepción de los bares debidamente autorizados.
+II.- Distribuir bebidas alcohólicas particulares que no cuenten con licencia o autorización para vender o consumir en establecimientos
 
-V.- Dar en cesión, arrendamiento o permitir que se constituya algún gravamen sobre la licencia, así como cambiar el domicilio o titular de la misma.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-VII.- En general, la inobservancia de cualquiera de las disposiciones de esta Ley o las demás relativas a esta materia.
+III.- Transportar bebidas alcohólicas sin la autorización correspondiente.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+IV.- Vender bebidas alcohólicas en lugares prohibidos por este ordenamiento, las autoridades competentes o las leyes y reglamentos de la materia
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+V.- Vender directamente al publico bebidas alcohólicas fuera del establecimiento.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+VI.- Tener el establecimiento vista del exterior al interior, o acceso por lugares distintos a la vía publica, o comunicación con viviendas o lugares ajenos al giro, cuando la venta sea en envase abierto sin alimentos; hecha excepción de los bares debidamente autorizados.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+VII.- Dar en cesión, arrendamiento o permitir que se constituya algún gravamen sobre la licencia, así como cambiar el domicilio o titular de la misma.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+VIII.- No colocar en la portezuela del vehículo en el que se realiza el porteo, el nombre, domicilio, razón social y numero de registro de empadronamiento del contribuyente.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+IX.- Operar fuera del horario autorizado.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+X.- Vender bebidas alcohólicas, excepto en envase cerrado, a miembros uniformados de las corporaciones policiacas y militares, y a personas que porten armas o se encuentren en notorio estado de ebriedad o bajo la influencia de alguna droga enervante.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+XI.- Vender bebidas alcohólicas los días y horas en que exista prohibición expresa del Ejecutivo del Estado o de la autoridad municipal correspondiente.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+XII.- Vender bebidas alcohólicas distintas o en forma diversa a la que permita la licencia o autorización correspondiente.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+XIII.- Vender bebidas alcohólicas en cualquier forma y presentación a menores de edad.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+XIV.- Permitir menores de 16 años de edad atender los establecimientos regulados por esta Ley.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+XV.- Permitir el acceso a menores de edad a establecimientos donde se expendan predominantemente bebidas alcohólicas.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+XVI.- Negarse a mostrar al personal autorizado la licencia o autorización correspondiente, cuantas veces le sea requerida.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+XVII.- Obstaculizar o no permitir que se lleve a cabo la inspección ordenada por la autoridad competente.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+XVIII.- En general la inobservancia de cualquiera de las disposiciones de esta Ley y demás relativas en la materia.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 30.
 
 Las sanciones que se impondrán a los infractores de la presente ley, consistirán en:
 
-I.- Amonestación por escrito;
+I.- Multa hasta por una cantidad equivalente a dos mil veces el salario mínimo correspondiente a la zona económica de la Capital de Estado.
 
-II.- Multa hasta por una cantidad equivalente a 500 veces el salario mínimo correspondiente a la zona económica de la Capital de Estado.
+II.- Clausura;
 
-III. Suspensión de la licencia o autorización;
+III.- Suspensión de la licencia o autorización;
 
-IV. Revocación
+IV.- Revocación de la licencia o autorización.
 
 ###### ARTICULO 31.
 
 Contra el acuerdo del Secretario de Gobierno que niegue la expedición de la licencia o el refrendo de la misma o que revoque una que se encuentre en vigor, procederá el recurso de revocación en los términos previstos por el Código Fiscal del Estado.
 
 Dicho recurso procederá también en contra de la calificación de las sanciones.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+### CAPITULO SEPTIMO. DEL PORTEO
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 32.
+
+Se entiende por porteo, el transporte de bebidas alcohólicas en cantidades que excedan de diez litros.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 33.
+
+El porteo de bebidas alcohólicas se llevara a cabo por las personas, que, en términos de la presente Ley, cuenten con Licencia de operación o autorización, previo el pago de los derechos que establezcan las leyes fiscales. En todo caso debe contarse con la documentación que ampare el producto.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 34.
+
+Los porteadores tendrán las siguientes obligaciones:
+
+I.- Empadronarse en la Dirección de Ingresos, obteniendo la cédula empadronamiento correspondiente y registrar el vehículo autorizado para el porteo;
+
+II.- Colocar en la portezuela del vehículo, nombre domicilio, razón social y numero de registro de empadronamiento.
+
+III.- Comprobar mediante facturas la procedencia del producto.
+
+IV.- Dar aviso de cambio del vehículo utilizado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 35.
+
+La infracción a cualquiera de las disposiciones del articulo anterior dará lugar a las sanciones a que se refiere el Capitulo Sexto de esta Ley. Lo anterior sin perjuicio de que , al detectarse el porteo de bebidas alcohólicas sin la debida documentación que ampare el producto, la autoridad fiscal proceda de inmediato al decomiso del mismo, el cual garantizara el interés fiscal a pagar por el infractor.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+### CAPITULO OCTAVO. CLANDESTINAJE
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 36.
+
+Se entiende por clandestinaje, el almacenaje, distribución, venta y consumo de bebidas alcohólicas en los establecimientos y lugares que no cuenten con la licencia o autorización correspondiente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 37.
+
+Independientemente de la sanción que en términos de esta Ley corresponda al clandestinaje, se procederá de inmediato al decomiso del producto, el cual servirá como garantía de interés fiscal.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 38.
+
+Cuando el producto decomisado sea de fácil descomposición, la autoridad procederá de inmediato a venderlo y la cantidad que se obtenga de su venta garantizara el interés fiscal. De no ser posible su venta, se procederá a la destrucción del mismo, levantando acta circunstanciada en presencia de dos testigos.
 
 T R A N S I T O R I O S
 
@@ -348,3 +478,15 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 LIC. JESUS RODRIGUEZ HERNANDEZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+
+P.O. 30 DE DICIEMBRE DE 1992
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se oponga a la presente Ley.
