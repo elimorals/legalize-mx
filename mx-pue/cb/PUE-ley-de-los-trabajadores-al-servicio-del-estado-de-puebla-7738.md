@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-trabajadores-al-servicio-del-estado-de-puebla-7738"
 country: "mx"
 rank: "ley"
 publication_date: "1966-11-18"
-last_updated: "1972-10-17"
+last_updated: "1973-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 1973.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Puebla, el viernes 18 de noviembre de 1966.
 
@@ -77,115 +77,105 @@ Son trabajadores de base los que no son supernumerarios ni de confianza.
 
 Son trabajadores supernumerarios los que prestan sus servicios en forma transitoria o eventual o en cargos o empleos, no consignados específicamente en el Presupuesto de Egresos.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1973)</small>
+
 ###### ARTICULO 7o.
 
 Son trabajadores de confianza:
 
-I.- EN EL DEPARTAMENTO LEGISLATIVO:
+I.- En el Departamento Legislativo:
 
 El Oficial Mayor.
 
 El Contador General de Glosa.
 
-II.- EN EL DEPARTAMENTO EJECUTIVO:
+II.- En el Departamento Ejecutivo:
 
-El Secretario General de Gobierno.
+a).- El Secretario General de Gobierno.
 
-El Oficial Mayor de Gobierno.
+El Secretario Particular del Secretario General de Gobierno.
 
-El Procurador General de Justicia.
-
-Los Directores Generales.
-
-Los Sub-Directores Generales.
-
-El Tesorero General del Estado.
-
-El Secretario Particular del C. Gobernador.
-
-El Secretario Auxiliar de la Secretaría Particular.
-
-El Contador General de Hacienda.
-
-El Sub-Contador General de Hacienda.
-
-El Cajero General.
-
-Los Cajeros de las Recaudaciones de Rentas del Estado.
-
-El Jefe del Departamento Jurídico y los Abogados Consultores.
-
-El Jefe y el Abogado Consultor del Departamento Técnico.
-
-El Representante Fiscal del Gobierno ante la Federación y personal a su servicio.
-
-El Presidente, el Presidente Auxiliar y el Secretario de la Junta Central de Conciliación y Arbitraje.
-
-Los Presidentes de las Juntas Foráneas de Conciliación.
-
-El Secretario de la Comisión Agraria Mixta.
+El Registrador Público de la Propiedad y del Comercio.
 
 El Director del Instituto de Prevención Social para Menores.
 
-El Sub-Procurador General de Justicia.
+El Jefe de la Defensoría de Oficio y los Defensores de Oficio.
+
+El Secretario y el Segundo Vocal de la Comisión Agraria Mixta.
+
+b).- El Oficial Mayor de Gobierno.
+
+El Secretario Particular del Oficial Mayor de Gobierno.
+
+Los Directores Generales.
+
+Los Subdirectores Generales.
+
+El Jefe del Departamento Jurídico y los Abogados Consultores.
+
+Los Empleados que Manejen Fondos Públicos y que de acuerdo con la Constitución Política del Estado y el Código Fiscal del Estado deben causionar (sic) su manejo.
+
+Los Inspectores, Visitadores Especiales, Promotores, Consultores y Asesores de las distintas Dependencias del Ejecutivo.
+
+Los choferes al Servicio de las Dependencias del Poder Ejecutivo.
+
+El Personal de la Orquesta Típica del Estado.
+
+c).- El Secretario Particular del C. Gobernador.
+
+El Secretario Auxiliar de la Secretaría Particular.
+
+El Jefe de Ayudantes, los Ayudantes y Auxiliares del C. Gobernador.
+
+d).- El Tesorero General del Estado.
+
+El Subtesorero General del Estado.
+
+Los Directores y Jefes de Departamento de la Tesorería General.
+
+El Secretario Particular del Tesorero General del Estado.
+
+Los Consultores de la Tesorería General.
+
+Los Auditores y Ayudantes de Auditor de la Tesorería General.
+
+El Personal del Departamento de Procesamiento de Datos de la Tesorería General.
+
+Los Inspectores y Vigilantes del Departamento de Inspección Fiscal.
+
+Los Recaudadores, Contadores y Cajeros de las Oficinas Recaudadoras.
+
+El Representante Fiscal en la Ciudad de México y su Auxiliar.
+
+e).- El Presidente, el Presidente Auxiliar y los Secretarios de la Junta Central de Conciliación y Arbitraje.
+
+Los Presidentes de las Juntas Foráneas de Conciliación.
+
+f).- El Procurador General de Justicia.
+
+El Subprocurador General de Justicia.
 
 Los Agentes Auxiliares del Procurador.
 
 Los Agentes y Delegados del Ministerio Público.
 
-El Jefe de la Policía Estatal, el Jefe de Instrucción y los Instructores de la misma.
+El Secretario Particular del Procurador General de Justicia.
 
-El Jefe, el Sub-Jefe y Agentes de la Policía Judicial del Estado.
+El Jefe, el Subjefe y los Agentes de la Policía Judicial del Estado.
 
-El Jefe y Agentes del Servicio de Investigación.
+g).- El Jefe y Agentes del Servicio de Investigaciones.
 
-El Director y el Sub-Director de la Penitenciaría.
+El Jefe, el Jefe de Instrucción, los Instructores, los Comandantes, los Oficiales, Sargentos, Cabos y Agentes de la Policía Estatal.
 
-El Registrador Público de la Propiedad y del Comercio.
+Los Delegados de Tránsito, Comandantes de Agentes, Jefe de Peritos y Circulación y Conductores.
 
-El Jefe de la Ofcina (sic) de Alcoholes.
-
-El Oficial Mayor de la Tesorería General del Estado y los Oficiales Mayores de las Recaudaciones de Rentas del Estado.
-
-El Secretario Particular del Secretario General.
-
-El Secretario Particular del Oficial Mayor.
-
-El Secretario Particular del Tesorero General.
-
-Los Recaudadores de Rentas.
-
-Los empleados que de acuerdo con la Constitución Política del Estado y la Ley General de Hacienda tengan que causionar su manejo.
-
-El Jefe de la Defensoría de Oficio y los Defensores.
-
-Los ayudantes y choferes del C. Gobernador y de los Funcionarios del Departamento Ejecutivo.
-
-El Personal de Auditoría de la Tesorería General del Estado.
-
-El Jefe, del Departamento de Inspección Fiscal y los Jefes Inspectores de Zona.
-
-El Jefe del Departamento de Ingresos de la Tesorería.
-
-El Jefe del Departamento de Engresos (sic) de la Tesorería.
-
-El Jefe de la Policía Fiscal.
-
-Los Inspectores y Visitadores de las distintas Dependencias del Poder Ejecutivo.
-
-Los Delegados de Tránsito, Comandantes de Agentes, Jefe de Peritos y Circulación.
-
-El Secretario Particular del Procurador.
-
-Los Delegados de la Policía del Estado.
-
-III. EN EL DEPARTAMENTO JUDICIAL:
+III.- En el Departamento Judicial:
 
 El Secretario del Tribunal Superior de Justicia y los Secretarios de las Salas.
 
-El Chofer del Presidente del Tribunal.
+El Secretario Particular del C. Presidente del Tribunal.
 
-El Secretario Particular del Presidente del Tribunal.
+El Chofer del Presidente del Tribunal Superior.
 
 ###### ARTICULO 8o.
 
@@ -1016,3 +1006,7 @@ P.O. 17 DE OCTUBRE DE 1972.
 PRIMERO.- Este Decreto empezará a surtir sus efectos, hecha la publicación en el Periódico Oficial del Estado, inmediatamente después que se consume la cesión gratuita del Ejecutivo del Estado a favor de la Universidad Autónoma de Puebla de la Unidad Hospitalaria "Hospital Civil de Puebla".
 
 SEGUNDO.- Todas las disposiciones legales que se opongan al presente Decreto quedan derogadas y no producirán efecto alguno.
+
+P.O. 1 DE FEBRERO DE 1973.
+
+UNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
