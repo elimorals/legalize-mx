@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "2003-12-16"
+last_updated: "2004-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -95,7 +95,9 @@ II.- La propiedad de predios rústicos;
 
 III.- La propiedad ejidal urbana; y
 
-IV.- La posesión de predios urbanos y suburbanos en los casos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2004)</small>
+
+IV.- La posesión de predios, urbanos y suburbanos y rústicos en los casos siguientes:
 
 a).- Cuando no exista o se desconozca al propietario.
 
@@ -107,7 +109,9 @@ d).- Cuando exista desmembración de la propiedad de manera que una persona teng
 
 El objeto del impuesto predial incluye la propiedad o posesión de las construcciones permanentes.
 
-En los predios rústicos comprende solamente la propiedad o posesión de las construcciones permanentes que no sean utilizadas directamente para fines agropecuarios y ganaderos.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2004)</small>
+
+En los predios rústicos incluye la propiedad o posesión de las construcciones permanentes que no sean utilizadas directamente para fines agropecuarios y ganaderos.
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -209,7 +213,7 @@ c).- Predios rústicos:
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-5.- Predios rústicos clasificados como pequeña propiedad rural 9.2 al millar.
+5.- Predios rústicos clasificados como pequeña propiedad rural. 9.2 al millar.
 
 d).- Cuando alguno de estos predios, con excepción de los rústicos, no cuenten con banquetas, bardas o construcciones permanentes, en lugar de las tarifas que anteceden, pagarán las siguientes tarifas:
 
@@ -249,7 +253,7 @@ c).- Predios rústicos:
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-5.- Predios rústicos clasificados como pequeña propiedad rural 8 al millar.
+5.- Predios rústicos clasificados como pequeña propiedad rural. 8 al millar.
 
 d).- Cuando alguno de estos predios, con excepción de los rústicos, no cuenten con: banquetas, bardas o construcciones permanentes, en lugar de las tarifas que anteceden, pagarán las siguientes tarifas:
 
@@ -287,7 +291,7 @@ c).- Predios rústicos:
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-4.- Predios rústicos clasificados como pequeña propiedad rural 8 al millar
+4.- Predios rústicos clasificados como pequeña propiedad rural. 8 al millar
 
 d).- Cuando alguno de estos predios con excepción de los rústicos, no cuenten con: banquetas, bardas o construcciones permanentes, en lugar de las tarifas que anteceden, pagarán las siguientes tarifas:
 
@@ -361,17 +365,21 @@ Los Ayuntamientos del estado, por conducto de sus Tesorerías, determinarán el 
 
 ARTÍCULO 21 BIS.- Los contribuyentes de este impuesto, están obligados a manifestar en la Tesorería Municipal, la terminación de nuevas construcciones, de ampliaciones y de modificaciones a las construcciones que tenga cada predio.
 
-### CAPITULO II. DEL IMPUESTO SOBRE DIVERSIONES Y ESPECTÁCULOS PÚBLICOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE DICIEMBRE DE 2004)</small>
+
+### CAPITULO II. DEL IMPUESTO SOBRE DIVERSIONES, VIDEO JUEGOS Y ESPECTACULOS PUBLICOS
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 22.
 
-El objeto de este impuesto es la percepción de ingresos derivados de la explotación de diversiones y espectáculos públicos.
+El objeto de este impuesto es la percepción de ingresos derivados de video juegos o de explotación de diversiones y espectáculos públicos.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 23.
 
-Son sujetos de este gravamen las personas físicas o morales y unidades económicas que obtengan ingresos por la explotación de diversiones y espectáculos y eventos públicos en forma comercial.
+Son sujetos de este gravamen las personas físicas o morales y unidades económicas que obtengan ingresos por video juegos o la explotación de diversiones y espectáculos y eventos públicos, en forma comercial.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -411,11 +419,17 @@ II.-El 50% del impuesto, antes de recoger los boletos sellados, cuando el mismo 
 
 III.- Dentro de los tres días hábiles siguientes al de la fecha de notificación, cuando se trate de liquidaciones adicionales para rectificar errores de liquidaciones anteriores o por alguna otra causa.
 
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+
+IV. En el caso de ingresos derivados de video juegos ya sea preponderante o adicional, deberán efectuar su pago en los primeros cinco días de cada mes.
+
 ###### ARTÍCULO 27.
 
 Son obligaciones de los sujetos del impuesto:
 
-I.- Obtener ante la autoridad municipal competente el permiso correspondiente antes de anunciar una función o serie de éstas;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+
+I.- Obtener ante la autoridad Municipal competente, el permiso correspondiente antes de anunciar una función o serie de éstas; así como manifestar y obtener permiso de la autoridad Municipal para la actividad de los video juegos o similares, mediante escrito libre o en las formas autorizadas.
 
 II.- Anotar en la solicitud del permiso la naturaleza del espectáculo, días, fecha y lugar en que haya de efectuarse, la clasificación de asientos, el máximo de espectadores que podrá contener el local y acompañar tres ejemplares del programa respectivo;
 
@@ -445,7 +459,9 @@ X.- Garantizar el pago del impuesto. El tesorero Municipal podrá, si lo conside
 
 Las Autoridades Municipales deberán dar aviso a la Tesorería, con la anticipación necesaria, de los permisos o autorizaciones que otorguen para la celebración de espectáculos y diversiones públicas.
 
-El incumplimiento de las disposiciones establecidas con relación al Impuesto sobre Diversiones y Espectáculos Públicos, será sancionado con lo establecido en el Código Fiscal Municipal.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2004)</small>
+
+El incumplimiento de las disposiciones establecidas con relación al Impuesto sobre Diversiones, Video Juegos y Espectáculos Públicos, será sancionado con lo establecido en el Código Fiscal Municipal.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -1237,7 +1253,7 @@ Se entiende por este derecho la prestación de los servicios de vigilancia, admi
 
 ###### ARTICULO 80.
 
-Por los servicios de panteones que preste el Municipio, se cobrarán los derechos que señala la siguiente:
+Por los servicios de panteones que preste el municipio, se cobrarán los derechos que señala la siguiente:
 
 TARIFA
 
@@ -1987,7 +2003,7 @@ Por la expedición de licencias, permisos o autorizaciones que otorguen las auto
 
 TARIFA
 
-(VEASE ARCHIVO ANEXO)
+(VEASE ANEXO)
 
 ###### ARTÍCULO 108.
 
@@ -2135,7 +2151,7 @@ Este derecho deberá ser cubierto en la Tesorería Municipal en la forma siguien
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-I.- Personas físicas o morales con giros comerciales, industriales o de servicios en forma mensual dentro de los primeros 5 días de cada mes.
+I.- Personas físicas o morales con giros comerciales, industriales o de servicios en forma mensual dentro de los primeros 5 días de cada mes;
 
 II.- Personas físicas o morales con predio de uso habitacional, en forma mensual dentro de los primeros 5 días de cada mes.
 
@@ -2550,6 +2566,64 @@ RUSTICO BALDIO 3.45
 SEPTIMO.- En el momento en el quede (sic) sin efecto lo dispuesto en los artículo tercero, cuarto, quinto y sexto transitorios de esta Ley, los Municipios de Cozumel, Othón P. Blanco, Isla Mujeres y Benito Juárez deberán presentar un análisis del impacto que implique la utilización de las tasas establecidas en el artículo 13 de la presente Ley.
 
 OCTAVO.- Se derogan las disposiciones dictadas con anterioridad que se opongan al presente decreto.
+
+P.O. 20 DE DICIEMBRE DE 2004.
+
+PRIMERO.- En tanto el Estado y los Municipios permanezcan adheridos al Sistema Nacional de Coordinación Fiscal, quedan en suspenso los siguientes:
+
+I.- DERECHOS:
+
+A.- Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Por lo anterior, quedan en suspenso los siguientes numerales:
+
+1.- Licencias y refrendos de funcionamiento comercial, industrial y de servicios.
+
+2.- Licencias de funcionamiento en horas extraordinarias.
+
+3.- Rastro e inspección sanitaria.
+
+4.- Registro y búsqueda de fierros y señales para ganado.
+
+5.- Servicios de inspección y vigilancia.
+
+6.- Servicios de promoción y publicidad turística.
+
+B.- Asimismo, los que resulten a consecuencia de permitir o tolerar las excepciones a una disposición administrativa, tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+1.- Licencias de construcción.
+
+2.- Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+3.- Licencias para fraccionar o lotificar terrenos.
+
+4.- Licencias para conducir vehículos.
+
+5.- Expedición de placas y tarjetas para la circulación de vehículos.
+
+6.- Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales, cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+7.- Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto los que se realicen por medio de televisión, radio, periódicos y revistas.
+
+C.- Registro o cualquier acto relacionado con los mismos, a excepción del Registro Civil.
+
+D.- Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en este inciso los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos en la vía pública, ni por el uso o tenencia de anuncios.
+
+E.- Actos de inspección y vigilancia.
+
+Los derechos no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los que se refieren los numerales 1) al 7) del segundo párrafo del inciso B) y el inciso D).
+
+Los certificados de documentos así como la reposición de éstos por extravío o destrucción parcial o total, no quedarán comprendidos dentro de lo dispuesto en los incisos B) y C) de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las entidades federativas o a los municipios.
+
+En ningún caso lo dispuesto en este artículo, limitará la facultad de los Estados y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan las características de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+SEGUNDO.- Esta Ley entrará en vigor a partir del 1° de enero del año 2005, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
 
 ###### ARTÍCULO PRIMERO.
 
