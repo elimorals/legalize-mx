@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-registro-civil-del-distrito-federal-25421"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-30"
-last_updated: "2002-07-30"
+last_updated: "2004-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25421&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "2002-07-28"
 
 REGLAMENTO DEL REGISTRO CIVIL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE MARZO DE 2004.
 
-Reglamento publicado en la Gaceta Oficial del Distrito Federal el lunes 30 de julio de 2002.
+Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 30 de julio de 2002.
 
 (Al margen superior izquierdo un escudo que dice: CIUDAD DE MÉXICO.- JEFE DE GOBIERNO DEL DISTRITO FEDERAL)
 
@@ -38,7 +38,9 @@ REGLAMENTO DEL REGISTRO CIVIL DEL DISTRITO FEDERAL
 
 Las disposiciones del presente ordenamiento son de orden público e interés social y tienen por objeto regular la organización, funciones y procedimientos del Registro Civil del Distrito Federal, a cargo de la Administración Pública del Distrito Federal.
 
-El Registro Civil es la Institución que tiene como finalidad conocer, autorizar, inscribir, resguardar y dar constancia de los hechos y actos del estado civil de las personas, que dispone el Código Civil para el Distrito Federal, con legalidad, honradez, lealtad, imparcialidad y eficiencia, por conducto de los Jueces del Registro Civil, debidamente autorizados para dichos fines.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
+El Registro Civil es la Institución de buena fe, cuya función pública es conocer, autorizar, inscribir, resguardar y dar constancia de los hechos y actos del estado civil de las personas, que dispone el Código Civil para el Distrito Federal, con legalidad, honradez, lealtad, imparcialidad y eficiencia, por conducto de los Jueces del Registro Civil, debidamente autorizados para dichos fines.
 
 ###### Artículo 2º.
 
@@ -48,7 +50,9 @@ I. Acta: Forma debidamente autorizada por el Juez y firmada por quienes en ella 
 
 II. Archivo Judicial: al Archivo Judicial del Tribunal Superior de Justicia del Distrito Federal;
 
-III. Certificado de Nacimiento: al Certificado de Nacimiento para el Distrito Federal;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+III. Certificado de Nacimiento: el documento suscrito por médico autorizado para el ejercicio de su profesión o persona legalmente autorizada que haya asistido el parto, en el formato expedido por la Secretaría de Salud del Distrito Federal, en el que se hacen constar las circunstancias del nacimiento;
 
 IV. Código Civil: al Código Civil para el Distrito Federal;
 
@@ -58,15 +62,21 @@ VI. Delegación: a los Órganos Político-Administrativos de cada demarcación t
 
 VII. Dirección: a la Dirección General del Registro Civil del Distrito Federal;
 
-VIII. Formas: a las Formas donde se asientan los hechos y actos del estado civil;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+VIII. Formas: a las Formas del Registro Civil, impresas en papel seguridad, en las que se asientan los hechos y actos del estado civil y aquellas en las que se expiden las certificaciones de éstos;
 
 IX. Juez: al Juez del Registro Civil;
 
 X. Juzgado: a los Juzgados del Registro Civil del Distrito Federal;
 
-XI. Módulos Registrales: a los Módulos de Registro encargados de autorizar las Actas de Nacimiento y Defunción;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-XII. Oficina Central: a la Oficina Central del Registro Civil del Distrito Federal;
+XI. Módulo Registral: oficina dependiente de un Juzgado del Registro Civil, en la que se realizan registros de nacimiento y defunción;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+XII. Oficina Central: a la sede de la Dirección General del Registro Civil del Distrito Federal;
 
 XIII. Registro Civil: al Registro Civil del Distrito Federal;
 
@@ -74,13 +84,31 @@ XIV. Reglamento: al presente Reglamento del Registro Civil del Distrito Federal;
 
 XV. Secretario: al Secretario de Juzgado del Registro Civil; y
 
-XVI. Titular: al Director General del Registro Civil del Distrito Federal.
+XVI. Titular: al Director General del Registro Civil del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2004)</small>
+
+XVII. Copia Certificada de reciente expedición: A la certificación expedida, con antigüedad no mayor de un año a la fecha de su presentación, para realizar el trámite de que se trate;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2004)</small>
+
+XVIII. Extractos: constancias parciales de las actas registrales, con plena validez jurídica respecto de la información que contengan.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 3º.
 
-Los hechos que se declaren y actos que se realicen ante el Registro Civil, en las oficinas de la propia Institución, se efectuarán en días y horas hábiles. Son horas hábiles, las que medien desde las ocho hasta las quince horas. Son días hábiles todos los del año excepto los sábados, domingos y días festivos.
+Los hechos que se declaren y actos que se realicen ante el Registro Civil, en las oficinas de la propia Institución, se efectuarán en días y horas hábiles. Son horas hábiles, las que medien desde las ocho hasta las quince horas. Son días hábiles todos los del año, excepto los sábados, domingos y días festivos, así como aquellos en que las oficinas del Registro Civil suspendan sus labores por causas de fuerza mayor.
 
 Tratándose de nacimientos, reconocimientos y matrimonios, podrán celebrarse fuera de las oficinas del Registro Civil, cuando así sea requerido en términos de lo dispuesto por las disposiciones jurídicas aplicables. Por lo que hace a defunciones, éstas únicamente podrán ser tramitadas en las instalaciones del Registro Civil de conformidad con el presente Reglamento.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+Tratándose del levantamiento de actas de defunción y nacimiento, en los módulos y juzgados que cuenten con guardias para tal efecto, serán hábiles todos los días del año, con horario de atención de las ocho a las veinte horas.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+El Titular podrá habilitar días y horas para el desempeño de las funciones del Registro Civil, cuando las circunstancias lo ameriten.
 
 ###### Artículo 4º.
 
@@ -94,13 +122,19 @@ El Registro Civil tiene a su cargo, por conducto de los Jueces, el desempeño de
 
 Los hechos y actos registrales que se efectúen respecto del estado civil de las personas ante el Registro Civil, causarán los derechos que establezca el Código Financiero del Distrito Federal. Queda prohibido cobrar cualquier tipo de emolumento o pago que no esté previsto expresamente.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
 ###### Artículo 7º.
 
-Los pagos por concepto de derechos deberán efectuarse por el interesado a través de los formatos de pago de la Tesorería del Distrito Federal; por ningún motivo se harán a través de los empleados del Registro Civil. Toda infracción a lo dispuesto en el presente artículo, así como en el anterior, dará lugar a iniciar los procedimientos de responsabilidad que procedan conforme a lo establecido en las Leyes aplicables.
+Los pagos por concepto de derechos deben efectuarse por el interesado a través de los formatos de pago expedidos por la Tesorería del Distrito Federal, en los lugares designados previamente por la Secretaría de Finanzas del Distrito Federal; por ningún motivo se harán a través de los empleados del Registro Civil que no estén autorizados para ello.
 
-###### Artículo 8º.
+Toda infracción a lo dispuesto en el presente artículo, así como en el anterior, dará lugar a iniciar los procedimientos de responsabilidad que procedan conforme a las Leyes aplicables.
 
-Los servidores públicos del Registro Civil están impedidos para patrocinar juicios del estado civil por sí o por interpósita persona.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
+###### Artículo 8°.
+
+Los servidores públicos adscritos al Registro Civil están impedidos para patrocinar o asesorar, por sí o por interpósita persona, juicios respecto del estado civil.
 
 ### CAPÍTULO II. DE LA ORGANIZACIÓN Y ATRIBUCIONES DEL REGISTRO CIVIL
 
@@ -164,9 +198,13 @@ X. Distribuir a los Juzgados las Formas en que deban constar las actas del Regis
 
 XI. Nombrar y remover libremente a los supervisores de los Juzgados;
 
-XII. Rotar a los Jueces de adscripción, de conformidad a las normas y procedimientos aplicables;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-XIII. Rotar a los Secretarios de adscripción, de conformidad a las normas y procedimientos aplicables;
+XII. Rotar a los Jueces de adscripción, atendiendo a las necesidades del servicio;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+XIII. Rotar a los Secretarios de adscripción, atendiendo a las necesidades del servicio;
 
 XIV. Autorizar a los Jueces por escrito, en su caso, el registro de nacimiento, reconocimiento o la celebración de matrimonio fuera de su competencia territorial, siempre y cuando se cumpla con las disposiciones jurídicas aplicables;
 
@@ -180,11 +218,29 @@ XVIII. Conocer de las quejas sobre faltas u omisiones cometidas por los servidor
 
 XIX. Autorizar, en su caso, las ausencias o suplencias temporales que soliciten los Jueces. Para cubrir dichas inasistencias, la Dirección contará con el número de Jueces con carácter de interinos, atendiendo en todo momento a su disponibilidad presupuestal;
 
-XX. Sancionar las faltas u omisiones de los Jueces del Registro Civil;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+XX. Sancionar las faltas u omisiones de los Jueces y demás servidores públicos del Registro Civil, de conformidad con la normativa aplicable;
 
 XXI. Promover campañas tendientes a regularizar los diversos hechos y actos del estado civil, así como difundir el servicio del Registro Civil entre los habitantes del Distrito Federal; y
 
-XXII. Las demás que señale el presente Reglamento y otros ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+XXII. Emitir lineamientos y criterios operativos para el buen funcionamiento del Registro Civil, conforme a las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2004)</small>
+
+XXIII. Delegar sus atribuciones de Juez Central, en el Juez del Registro Civil que al efecto autorice, y
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2004)</small>
+
+XXIV. Las demás que establezca el presente Reglamento y otros ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+Artículo 12 bis. El Titular podrá representar al Registro Civil en los juicios y procedimientos relativos al Estado Civil en los que sea parte, sin perjuicio de las facultades de representación que otorga el Reglamento Interior de la Administración Pública del Distrito Federal al Director General de Servicios Legales.
+
+El Titular podrá delegar mediante oficio, en servidores públicos del registro civil, la facultad de representación a que se refiere la fracción que antecede, así como revocar dichas delegaciones en los casos que estime procedente.
 
 ###### Artículo 13.
 
@@ -192,21 +248,31 @@ Son atribuciones del Titular, en su carácter de Juez Central:
 
 I. Fungir como Juez Central dotado de competencia territorial en todo el Distrito Federal;
 
-II. Autorizar con firma autógrafa las actas del estado civil de los mexicanos y extranjeros residentes en el Distrito
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-Federal;
+II. Autorizar con firma autógrafa las actas del estado civil de los mexicanos y extranjeros en el Distrito Federal;
 
-III. Autorizar por escrito, la inhumación o cremación de los cadáveres que sean internados en el Distrito Federal, así como el levantamiento del Acta de Defunción respectiva de conformidad con las Leyes aplicables;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+III. Autorizar por escrito, por sí o por conducto de los jueces que para tal efecto autorice, la inhumación o cremación de los cadáveres que sean internados en el Distrito Federal, así como la inscripción respectiva de conformidad con las Leyes aplicables;
 
 IV. Autorizar la inscripción de los actos del estado civil que realicen en el extranjero los mexicanos residentes en los perímetros de las demarcaciones territoriales del Distrito Federal;
 
 V. Autorizar la inscripción de las resoluciones judiciales incidentales, provisionales o definitivas relativas a la separación de cuerpos; a la pérdida de patria potestad o tutela; otorgamiento, cesación, incremento o disminución de alimentos; celebración de convenios que regulen régimen de visitas; y, las que determinen los órganos jurisdiccionales competentes en materia del estado civil;
 
-VI. Autorizar la inscripción de las resoluciones judiciales que declaren la ausencia, la presunción de muerte, el divorcio judicial, la tutela o que se ha perdido la capacidad legal para administrar bienes;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-VII. Expedir las copias certificadas de las actas del estado civil de las personas que le soliciten, en un término máximo de dos días hábiles. Las copias podrán certificarse por medio de firma autógrafa, así como por los mecanismos que el avance tecnológico pudiera ofrecer;
+VI. Autorizar la inscripción de las resoluciones judiciales que declaren la ausencia, la presunción de muerte, el divorcio judicial, la tutela o que se ha perdido la capacidad legal para administrar bienes, así como la inscripción de anotaciones derivadas de instrumentos notariales o cualquier otra resolución que anule, revoque o modifique el estado civil, siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables;
 
-VIII. Efectuar las anotaciones que establece el Código Civil, en un término máximo de dos días hábiles, remitiéndolas dentro de los dos días hábiles siguientes a los archivos correspondientes, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+VII. Expedir las copias certificadas de las actas del estado civil de las personas que lo soliciten, o constancias parciales que contengan extractos de las actas registrales.
+
+Las copias o extractos podrán certificarse por medio de firma autógrafa o electrónica conforme al procedimiento que establezca el Titular de acuerdo a los avances tecnológicos;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+VIII. Efectuar las anotaciones que establece el Código Civil, y remitirlas a los archivos correspondientes, de conformidad con las disposiciones jurídicas aplicables;
 
 IX. Cuidar que las Formas en que se asienten los actos del estado civil, no lleven raspaduras, enmendaduras o tachaduras, procediendo en estos casos a testarlas y a levantar inmediatamente otra acta con el número consecutivo correspondiente;
 
@@ -214,9 +280,13 @@ X. Remitir, en términos de las disposiciones jurídicas aplicables, la informac
 
 XI. Responder las peticiones que se le formulen, inherentes a sus funciones y atribuciones;
 
-XII. Expedir copias certificadas de las actas del estado civil de las personas, así como de las constancias que obren en los expedientes del archivo del Registro Civil, y en su caso, a través de los medios que las contengan y que el avance tecnológico pudiera ofrecer, en un término no mayor de dos días hábiles;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-XIII. Expedir las constancias de inexistencia relativas a registro de nacimiento, registro de matrimonio, así como de extemporaneidad;
+XII. Expedir copias certificadas de las constancias que obren en los expedientes del archivo del Registro Civil, excepto de los documentos de carácter jurisdiccional, de los cuales únicamente podrá expedirse copia certificada por mandamiento de juez competente;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+XIII. Expedir las constancias de inexistencia de registros de nacimiento, matrimonio o defunción;
 
 XIV. Autorizar con firma autógrafa el cierre de los libros que se hayan integrado en el año inmediato anterior, relativos a los actos del estado civil pasados ante él;
 
@@ -242,7 +312,7 @@ V. No ser ministro de algún culto religioso.
 
 Para actuar fuera de su competencia territorial, los Jueces requerirán presentar por escrito al Titular, solicitud de autorización para desempeñar sus funciones en perímetro distinto al que se encuentren adscritos, siempre y cuando éste se ubique en el Distrito Federal.
 
-Para los casos de autorización de registro a domicilio de nacimiento, reconocimiento o de celebración de matrimonio , se deberá especificar en la solicitud la fecha de ésta; la clase de hecho o acto; el o los nombres de los interesados; y, el día, hora y ubicación específica del lugar en donde tendrá verificativo el mismo.
+Para los casos de autorización de registro a domicilio de nacimiento, reconocimiento o de celebración de matrimonio, se deberá especificar en la solicitud la fecha de ésta; la clase de hecho o acto; el o los nombres de los interesados; y, el día, hora y ubicación específica del lugar en donde tendrá verificativo el mismo.
 
 A la solicitud se adjuntará copia certificada del o los recibos oficiales que acrediten fehacientemente el o los pagos efectuados a la Tesorería del Distrito Federal.
 
@@ -252,23 +322,35 @@ La autorización para actuar fuera de competencia territorial se entenderá por 
 
 Para la autorización de registro de nacimiento a domicilio, cuando se imposibilite la presentación de la persona a registrar en algún Juzgado por causa debidamente justificada, se eximirá la presentación de la solicitud y aprobación de la prórroga de competencia territorial, debiendo en todo caso rendir informe por escrito al Titular.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2004)</small>
+
 ###### Artículo 16.
 
-Corresponde a los Jueces, desempeñar funciones de dirección, organización, coordinación e inspección en el Juzgado a su cargo, como consecuencia del ejercicio de sus atribuciones legales, que de manera permanente y general le confieren la representatividad e implican poder de decisión en el ejercicio del mando y dentro del perímetro de la Delegación en la cual se encuentre adscrito.
+Corresponde a los Jueces, desempeñar las funciones públicas del Registro Civil a que se refiere el artículo 35 del Código Civil para el Distrito Federal, así como realizar funciones de dirección, organización, coordinación e inspección en el Juzgado a su cargo, como consecuencia del ejercicio de sus atribuciones legales, que de manera permanente y general le confieren la representatividad e implican poder de decisión en el ejercicio del mando y dentro del perímetro de la Delegación en la cual se encuentre adscrito.
 
 Específicamente cuentan con las atribuciones siguientes:
 
 I. Autorizar con firma autógrafa las actas del estado civil de los mexicanos y extranjeros residentes en el Distrito Federal;
 
-II. Brindar asesoría al público en general, respecto de los actos del estado civil, cuando así se solicite;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+II. Proporcionar información al público en general, respecto de los actos del estado civil, cuando así se solicite;
 
 III. Coordinar y supervisar las funciones del personal a su cargo, de conformidad con la normatividad aplicable;
 
 IV. Autorizar la inscripción de las resoluciones judiciales incidentales, provisionales o definitivas relativas a la separación de cuerpos; a la pérdida de patria potestad o tutela; otorgamiento, cesación, incremento o disminución de alimentos; celebración de convenios que regulen régimen de visitas; y, las que determinen los órganos jurisdiccionales competentes en materia del estado civil;
 
-V. Autorizar la inscripción de las resoluciones jurisdiccionales que declaren la ausencia, la presunción de muerte, el divorcio judicial, la tutela o que se ha perdido la capacidad legal para administrar bienes;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-VI. Expedir copias certificadas de las actas del estado civil de las personas, así como de las constancias que obren en los expedientes del archivo a su cargo, y en su caso, a través de los medios que las contengan y que el avance tecnológico pudiera ofrecer, en un término no mayor de tres días hábiles;
+V. Autorizar la inscripción de las resoluciones jurisdiccionales que declaren la ausencia, la presunción de muerte, el divorcio judicial, la tutela o que se ha perdido la capacidad legal para administrar bienes, así como la inscripción de anotaciones derivadas de instrumentos notariales o cualquier otra resolución que anule, revoque o modifique el estado civil, siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+VI. Expedir copias certificadas de las actas del estado civil, o constancias parciales que contengan extractos de las actas regístrales, en un término máximo de tres días hábiles. Asimismo, expedir copias de los apuntes y los documentos relacionados con las actas del registro civil debidamente compulsados, excepto de los documentos de carácter jurisdiccional, de los cuales únicamente podrá expedirse copia certificada por mandamiento judicial:
+
+La emisión de copias certificadas o extractos de registros que obren en juzgados diferentes a aquel en que se emitan, será responsabilidad exclusiva del juez certificante.
+
+Las copias podrán certificarse por medio de firma autógrafa o electrónica conforme al procedimiento que establezca el Titular de acuerdo a los avances tecnológicos;
 
 VII. Expedir las constancias de inexistencia relativas a registro de nacimiento, registro de matrimonio, así como de extemporaneidad;
 
@@ -276,7 +358,9 @@ VIII. Custodiar los sellos oficiales del Juzgado;
 
 IX. Resguardar y disponer del papel seguridad en el que se expiden las copias certificadas de las actas del estado civil de las personas;
 
-X. Efectuar las anotaciones que establece el Código Civil en un término máximo de dos días hábiles y remitirlas a los archivos respectivos dentro de los dos días hábiles siguientes, de conformidad con las normas jurídicas correspondientes;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+X. Efectuar las anotaciones que establece el Código Civil y remitirlas a los archivos respectivos, de conformidad con las normas jurídicas correspondientes;
 
 XI. Cuidar que las Formas en que se asientan los hechos y actos del estado civil no lleven raspaduras, enmendaduras o tachaduras, procediendo en estos casos a testarlas y levantar inmediatamente otra acta con el número consecutivo correspondiente;
 
@@ -326,7 +410,9 @@ IV. Ordenar y organizar las formas que contengan las actas del estado civil de l
 
 V. Auxiliar al Juez para que en el mes de enero de cada año, sean remitidas las Formas que contengan las actas del estado civil de las personas, a los archivos Judicial y de la Oficina Central del Registro Civil, para su debido resguardo;
 
-VI. Dar cuenta al Juez de la correspondencia que sea remitida al Juzgado para su debido despacho;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+VI. Dar cuenta al Juez de la correspondencia que sea remitida al Juzgado para su debido despacho; así como revisar que los documentos presentados por los usuarios cumplan con las disposiciones legales para celebrar el acto o registrar el hecho que pretenden y dar cuenta al juez con los mismos, señalando en su caso, sus deficiencias;
 
 VII. Elaborar las estadísticas, informes y documentos relativos a los actos del estado civil de las personas que sean requeridos por las autoridades competentes;
 
@@ -464,6 +550,10 @@ VIII. No ser ministro de algún culto religioso; y
 
 IX. Aprobar los exámenes y el curso propedéutico a que se refiere el presente Reglamento.
 
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+El titular podrá otorgar dispensa del requisito señalado en la fracción VI, al personal del Registro Civil, siempre y cuando se aprueben las evaluaciones realizadas por el Titular y la Oficialía Mayor del Gobierno del Distrito Federal que acrediten los conocimientos teórico-prácticos de la materia y la aptitud para desempeñar el cargo.
+
 ###### Artículo 29.
 
 Los aspirantes a Secretario que cubran los requisitos antes señalados, presentarán un examen de conocimientos generales en Derecho y también deberán sustentar un examen psicométrico, los cuales serán elaborados, aplicados y evaluados por el Consejo.
@@ -512,9 +602,11 @@ En todos los casos a que se refiere el presente Capítulo, los Jueces también n
 
 ### CAPÍTULO V. DE LAS SUPERVISIONES
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
 ###### Artículo 35.
 
-El Titular ordenará las visitas de supervisión necesarias y se efectuarán, cuando menos, una vez al mes en cada Juzgado o Módulo Registral, así como en las diversas áreas de la Dirección; en aquellos actos que sean celebrados fuera de éstos, podrán ser realizadas en cualquier tiempo, con el objeto de verificar el debido cumplimiento de las obligaciones y facultades de los Jueces y demás personal a su cargo.
+Las visitas de supervisión se efectuarán, cuando menos, una vez al mes en cada juzgado, módulo registral y en las diversas áreas de la Dirección; en aquellos actos que sean celebrados fuera de éstos, podrán ser realizadas en cualquier tiempo, con el objeto de verificar el debido cumplimiento de las obligaciones y facultades de los jueces y demás personal a su cargo.
 
 ###### Artículo 36.
 
@@ -576,71 +668,109 @@ V. El Titular citará por escrito en la Dirección, al personal relacionado con 
 
 ### CAPÍTULO VI. DE LA AUTORIZACIÓN DEL ESTADO CIVIL
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
 ###### Artículo 40.
 
-Estará a cargo de los Jueces, la autorización de las actas del estado civil de las personas relativas al nacimiento, reconocimiento de hijos, adopción, matrimonio, Divorcio Administrativo y judicial, tutela y muerte de mexicanos y extranjeros residentes en el Distrito Federal, así como la inscripción de las ejecutorias que declaren la ausencia, presunción de muerte, el divorcio judicial, la tutela o que se ha perdido la capacidad legal para administrar bienes, sujetándose a lo dispuesto por el Código Civil y demás disposiciones jurídicas aplicables.
+Estará a cargo de los jueces, la autorización de las actas del estado civil de las personas relativas al nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio administrativo y defunción de mexicanos y extranjeros en el Distrito Federal; la inscripción de las ejecutorias que declaren la ausencia, presunción de muerte, el divorcio judicial, la tutela o que se ha perdido la capacidad legal para administrar bienes; así como autorizar la inscripción de anotaciones derivadas de instrumentos notariales o cualquier otra resolución que anule, revoque o modifique actos del estado civil, siempre y cuando se cumplan las formalidades exigidas por el Código Civil y por los ordenamientos jurídicos aplicables.
 
 ###### Artículo 41.
 
 La autorización de las actas del estado civil de las personas se efectuará en los Juzgados, Módulos Registrales, en las Oficinas Consulares del Servicio Exterior Mexicano, y en su caso, en el domicilio que para el efecto señalen las personas o autoridades de conformidad con las Leyes correspondientes.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
 ###### Artículo 42.
 
-Para la autorización de las actas del estado civil de las personas, se deberán satisfacer los requisitos y disposiciones jurídicas aplicables. El incumplimiento de lo anterior, dará lugar a la nulidad del acto en términos de lo dispuesto por el Código Civil.
+Para la autorización de las actas del estado civil de las personas, se deberán satisfacer los requisitos y disposiciones jurídicas aplicables. El incumplimiento de lo anterior, dará lugar a la nulidad del acto en términos de lo dispuesto por el Código Civil. Lo anterior, sin perjuicio de la responsabilidad penal o administrativa que resulte, conforme a la legislación aplicable.
 
 ###### Artículo 43.
 
 En la autorización de las actas del estado civil de las personas y antes de que sea firmada por los que en ella intervengan, el Juez o quien éste habilite deberá dar lectura en voz alta a dicha acta y pondrá a la vista del o los interesados la misma para su revisión; en caso de detectarse error ortográfico, gramatical o de omisión, se procederá a efectuar la corrección correspondiente. Quien o quienes hayan proporcionado los datos para el levantamiento del acta asentarán su firma o huella digital en un recibo de conformidad, respecto de los datos contenidos en el acta.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2004)</small>
+
 ###### Artículo 44.
 
-Cuando en las actas del estado civil de las personas se adviertan alteraciones, borraduras, tachaduras o enmendaduras, el Titular deberá ordenar el cotejo correspondiente con los tantos que obren en el Archivo Judicial o el Juzgado respectivo, procediendo a realizar la aclaración o reposición a que hubiere lugar, o en su caso, a hacerlo del conocimiento de las autoridades competentes, a fin de que éstas determinen las responsabilidades que procedan.
+Cuando en las actas del estado civil de las personas se adviertan alteraciones, borraduras, tachaduras o enmendaduras, deberá ordenarse el cotejo correspondiente con los tantos que obren en el Archivo Judicial o el Juzgado respectivo, procediendo a realizar la aclaración o reposición a que hubiere lugar, o en su caso, a hacerlo del conocimiento de las autoridades competentes, a fin de que éstas determinen las responsabilidades que procedan.
 
 En caso de que se presuma la existencia de falsificación de las actas del estado civil de las personas, por ningún motivo se expedirán copias certificadas de éstas, y se procederá a presentar denuncia ante el Ministerio Público, sin perjuicio de las responsabilidades que señalen las Leyes aplicables.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
 ###### Artículo 45.
 
-En cualquier acto del estado civil que intervenga algún extranjero será necesario que acredite su legal estancia en el país, así como su calidad migratoria.
+En cualquier acto del estado civil que intervenga algún extranjero será necesario que acredite su legal estancia en el país, así como su calidad migratoria; excepto el menor y el difunto, cuando se trate de registro de nacimiento de menor de seis meses de vida y levantamiento de acta de defunción de un extranjero, respectivamente.
 
 DE LAS ACTAS DE NACIMIENTO
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2004)</small>
+
 ###### Artículo 46.
 
-Para la autorización de las actas relativas al registro de nacimientos que se realicen dentro de los seis meses siguientes al alumbramiento, se requiere:
+Para la autorización de las actas relativas al registro de nacimientos que se realicen dentro de los seis meses siguientes al alumbramiento, los interesados deberán presentar:
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
 I. Solicitud de registro debidamente requisitada;
 
-II. La presentación del menor a registrar, por conducto de su padre y madre, o cualquiera de ellos; a falta de éstos o por imposibilidad debidamente acreditada, por los ascendientes sin distinción alguna;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-III. Certificado de Nacimiento en formato que contenga nombre completo de la madre; huella plantar del recién nacido, así como huella digital de pulgar de la madre; fecha y hora del nacimiento; domicilio y sello de la Institución pública, privada o social del Sector Salud; nombre y firma del médico, así como, número de cédula profesional de éste.
+II. El menor a registrar, por conducto de su padre y madre, o cualquiera de ellos, a falta de éstos, los abuelos y demás ascendientes en línea recta, los hermanos o los tíos;
 
-En su caso, Constancia de Parto que contenga el nombre del médico cirujano o partera que haya asistido el alumbramiento; lugar, fecha y hora de nacimiento; y nombre completo de la madre.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-Cuando no exista el certificado o la constancia antes señalada, se deberá presentar Denuncia de Hechos ante el Ministerio Público correspondiente;
+III. Certificado de Nacimiento en el formato que al efecto expida la Secretaría de Salud del Distrito Federal de conformidad con este reglamento, que contenga nombre completo de la madre; huella plantar del recién nacido, sexo del menor, así como huella digital del pulgar y firma de la madre; fecha y hora del nacimiento; domicilio en que ocurrió y sello de la Institución pública, privada o social del Sector Salud; nombre y firma del médico, así como, número de cédula profesional de éste.
 
-IV. Copia certificada del Acta de Matrimonio de los padres de expedición reciente; en caso de no ser casados, deberán presentar sus Actas de Nacimiento para el efecto de que se haga constar la filiación de ambos en el acta del registrado;
+Lo anterior sin perjuicio de los demás requisitos solicitados en el Código y demás normas aplicables.
+
+Para los efectos del artículo 75 del Código Civil, se exceptúa la obligación de estampar la huella digital en el acta de nacimiento del menor fallecido.
+
+En todos los casos en que se presente el certificado de nacimiento, éste hará prueba plena del día, hora y lugar en que ocurrió el nacimiento, del sexo del recién nacido y de la identidad de su madre.
+
+En su caso, Constancia de Parto que contenga el nombre y firma del médico cirujano o partera debidamente registrada ante la Secretaría de Salud, que haya asistido el alumbramiento; lugar, fecha y hora de nacimiento; y nombre completo de la madre;
+
+Cuando no exista el certificado o la constancia antes señalada, o por causas de fuerza mayor no se tuvieran, el declarante deberá presentar ante el Juez del Registro Civil denuncia de hechos realizada ante la Procuraduría de Justicia del Distrito Federal, en la que se haga constar la razón de la falta de documentos y las circunstancias en que ocurrió el nacimiento. Dicha denuncia se anexará al expediente.
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+IV. Copia certificada del Acta de Matrimonio de los padres; en caso de no ser casados, deberán presentar sus Actas de Nacimiento para el efecto de que se haga constar la filiación de ambos en el acta del registrado;
 
 V. Identificación oficial de los presentantes;
 
-VI. Dos testigos mayores de edad con identificación oficial; y
+VI. (DEROGADA, G.O. 11 DE MARZO DE 2004)
 
-VII. Comprobante de domicilio mediante el cual se acredite que el lugar de residencia habitual del o los presentantes se encuentra dentro de los perímetros de la Delegación en donde se localiza el Juzgado ante el que se efectuará el registro. En caso de que el registrado sea originario del Distrito Federal, bastará únicamente con la presentación del Certificado de Nacimiento respectivo donde se desprenda el lugar de nacimiento.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+VII. Comprobante del domicilio declarado por él o los presentantes del menor a registrar.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 47.
 
-Cuando la madre y/o el padre del registrado sean menores de edad, y exhiban los documentos señalados en el artículo 46 de este ordenamiento, pero carezcan del consentimiento de quienes ejerzan sobre ellos la patria potestad o tutela, el Juez, procederá a autorizar el registro, asentando el nombre del presentado con los apellidos que correspondan atendiendo al derecho superior del niño a tener nombre, nacionalidad y en la medida de lo posible a conocer a sus padres. Lo anterior, con fundamento a lo dispuesto por los artículos 133 de la Constitución Política de los Estados Unidos Mexicanos; 7º de la Convención sobre los Derechos del Niño y demás relativos.
+Para los efectos de los artículos 133 de la Constitución Política de los Estados Unidos Mexicanos; 3.1, 7.1, 8.1 de la Convención sobre los Derechos del Niño, 7, 22 A de la Ley para la Protección de Niñas, Niños y Adolescentes y 60 del Código Civil, cuando la madre y/o el padre del registrado, sean menores de edad no emancipados, y exhiban los documentos señalados en el artículo 46 de este ordenamiento, pero carezcan del consentimiento de quienes ejerzan sobre ellos la patria potestad o tutela, el Juez, procederá a autorizar el registro, asentando el nombre del presentado con los apellidos que correspondan atendiendo al derecho superior del niño a tener nombre, nacionalidad y en la medida de lo posible a conocer a sus padres.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 48.
 
-Tratándose de menores expósitos o abandonados, podrán ser presentados ante el Juez para la autorización del acta respectiva por el Ministerio Público, o en su caso, por el director, administrador o apoderado legal de la casa hogar donde se encuentre institucionalizado el menor para sus cuidados o atenciones.
+Tratándose de menores expósitos o abandonados, podrán ser presentados ante el Juez para la autorización del acta respectiva por el Ministerio Público, o en su caso, por el director, administrador, apoderado legal o responsable de la institución o casa de asistencia ya sea pública o privada, donde se encuentre institucionalizado el menor para sus cuidados o atenciones.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 49.
 
-En los casos en que uno o ambos padres del registrado, sean de nacionalidad distinta a la mexicana, además de dar cumplimiento a lo señalado para la autorización de los registros de nacimiento ordinario o extemporáneo que se regulan en el presente Reglamento, el Juez solicitará se acredite la nacionalidad e identidad del extranjero, y dará aviso a la Secretaría de Gobernación dentro de los tres días siguientes a la fecha en que se efectuó el registro para los efectos a que haya lugar.
+En los casos en que uno o ambos padres del registrado, sean de nacionalidad distinta a la mexicana, además de dar cumplimiento a lo señalado para la autorización de los registros de nacimiento ordinario o extemporáneo que se regulan en el presente Reglamento, el Juez solicitará se acredite la nacionalidad e identidad del extranjero, y dará aviso a la Secretaría de Gobernación dentro de los tres días hábiles siguientes a la fecha en que se efectuó el registro para los efectos a que haya lugar.
 
 ###### Artículo 50.
 
 El Juez deberá autorizar el registro de nacimiento, cuando los padres carezcan de Acta de Nacimiento y presenten los demás requisitos señalados en el artículo 46 del presente Reglamento; con la salvedad de que en el registro que se autorice no será asentada la filiación correspondiente a los abuelos y únicamente constará la de la madre y/o padre que comparezcan y se identifiquen en dicho acto. Lo anterior, sin perjuicio de que el Juez bajo su más estricta responsabilidad, tome las medidas jurídicas que sean necesarias, a efecto de que quien o quienes hayan presentado al registrado obtengan también el registro de su nacimiento.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+Artículo 50 bis. Si al dar aviso de un nacimiento, se comunica también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de defunción las cuales se correlacionarán entre sí.
+
+Lo anterior, sin perjuicio de los demás requisitos solicitados en el Código y demás normas aplicables.
 
 DEL REGISTRO EXTEMPORÁNEO DE NACIMIENTO
 
@@ -648,71 +778,103 @@ DEL REGISTRO EXTEMPORÁNEO DE NACIMIENTO
 
 Se considera registro extemporáneo de nacimiento aquél que se efectúe con posterioridad a los seis meses en que ocurrió el alumbramiento.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
 ###### Artículo 52.
 
 Para autorizar el registro extemporáneo de nacimiento de personas mayores de seis meses y menores de dieciocho años, se requiere lo señalado en el artículo 46 del presente Reglamento, así como:
 
-I. Constancia de inexistencia de registro de nacimiento emitida por la Oficina Central; en los casos en que en los archivos de dicha Oficina no se localicen los soportes documentales correspondientes, será necesaria la del Juzgado más cercano al lugar en donde ocurrió el nacimiento;
+I. Constancia de inexistencia de registro de nacimiento que comprenda por lo menos un año anterior a la fecha de nacimiento o en su caso, dos años posteriores a ésta como máximo, de acuerdo a la edad del menor, emitida por la Oficina Central. En los casos en que en los archivos de dicha Oficina no se localicen los soportes documentales correspondientes, será necesaria la del Juzgado más cercano al lugar en donde ocurrió el nacimiento;
 
-II. En caso de no ser originario del Distrito Federal, además, será necesaria la presentación de la Constancia de Inexistencia de Registro de Nacimiento emitida por el Juzgado u Oficialía del Registro Civil más cercano al lugar donde ocurrió el alumbramiento; y
+II. En caso de no ser originario del Distrito Federal, además, será necesaria la presentación de la Constancia de Inexistencia de Registro de Nacimiento, que comprenda por lo menos un año anterior a la fecha de nacimiento y dos años posteriores a ésta, como máximo, de acuerdo a la edad del menor, emitida por el Juzgado u Oficialía del Registro Civil más cercano al lugar donde ocurrió el alumbramiento, y
 
-III. Identificaciones y/o documentos públicos, así como aquellos complementarios, ya sean privados o de carácter religioso que acrediten el uso del nombre. Cuando exista duda fundada por parte del Juez, respecto de la idoneidad o suficiencia de los documentos presentados, será el Titular quien resuelva de manera inmediata sobre la procedencia del registro.
+III. En su caso, identificaciones y/o documentos públicos, así como aquellos complementarios, privados o de carácter religioso que acrediten el uso del nombre. Cuando exista duda fundada por parte del Juez, respecto de la idoneidad o suficiencia de los documentos presentados, será el Titular quien resuelva de manera inmediata sobre la procedencia del registro.
 
-En caso de que la persona a registrar carezca de Certificado de Nacimiento, se requerirá la Denuncia de Hechos rendida ante el Ministerio Público correspondiente.
+Cuando no exista el certificado de nacimiento o la constancia de parto antes señalada, o por causas de fuerza mayor no se tuvieran, el declarante deberá presentar ante el Juez del Registro Civil denuncia de hechos realizada ante la Procuraduría General de Justicia del Distrito Federal en la que se haga constar la razón de la falta de documentos y las circunstancias del nacimiento. Dicha denuncia se anexará al expediente.
+
+Las Constancias de Inexistencia de Registro tendrán vigencia de 3 meses contados a partir de la fecha de su expedición.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 53.
 
 Para autorizar el registro extemporáneo de nacimiento de mayores de dieciocho años y menores de sesenta años, se requiere lo señalado en las fracciones I, IV, VI y VII del artículo 46 del presente Reglamento, así como:
 
-I. Comparecencia de la persona a registrar, y en su caso, la de los presentantes con identificaciones oficiales;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-II. Constancia de inexistencia de registro de nacimiento emitida por la Oficina Central; en los casos en que en los archivos de dicha Oficina no se localicen los soportes documentales correspondientes, será necesaria la del Juzgado más cercano al lugar en donde ocurrió el nacimiento;
+I. Comparecencia de la persona a registrar, y en su caso, la de los presentantes con identificación oficial;
 
-III. En caso de no ser originario del Distrito Federal, además, será necesaria la presentación de la Constancia de Inexistencia de Registro de Nacimiento emitida por el Juzgado u Oficialía del Registro Civil más cercano al lugar donde ocurrió el alumbramiento;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-IV. Identificaciones y/o documentos públicos, así como aquellos complementarios, ya sean privados o de carácter religioso que acrediten el uso del nombre con el cual se pretende registrar. Cuando exista duda fundada por parte del Juez, respecto de la idoneidad o suficiencia de los documentos presentados por el solicitante a registrar, será el Titular quien resuelva de manera inmediata la procedencia del registro;
+II. Constancia de inexistencia de registro de nacimiento, que comprenda por lo menos un año anterior a la fecha de nacimiento y dos años posteriores a ésta, emitida por la Oficina Central; en los casos en que no se localicen los soportes documentales correspondientes en los archivos de dicha Oficina, será necesaria la del Juzgado más cercano al lugar en donde ocurrió el nacimiento;
 
-V. En caso de que la documentación presentada sea insuficiente para acreditar el uso del nombre de la persona a registrar, el Juez solicitará como documento complementario, la Información Testimonial rendida ante la autoridad jurisdiccional competente;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+III. En caso de no ser originario del Distrito Federal, además, será necesaria la presentación de la Constancia de Inexistencia de Registro de Nacimiento, que comprenda por lo menos un año anterior a la fecha de nacimiento y dos años posteriores a ésta, emitida por el Juzgado u Oficialía del Registro Civil más cercano al lugar donde ocurrió el alumbramiento;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+IV. En su caso, Identificaciones y/o documentos públicos, así como aquellos complementarios, privados o de carácter religioso que acrediten el uso del nombre con el cual se pretende registrar. Cuando exista duda fundada por parte del Juez, respecto de la idoneidad o suficiencia de los documentos presentados por el solicitante a registrar, será el Titular quien resuelva de manera inmediata la procedencia del registro;
+
+V. (DEROGADA, G.O. 11 DE MARZO DE 2004)
 
 VI. Denuncia de Hechos rendida ante el Ministerio Público correspondiente; y
 
-VII. Comprobante de domicilio mediante el cual se acredite que el lugar de residencia habitual de la persona a registrar se encuentra dentro de los perímetros de la Delegación en donde se localiza el Juzgado ante el que se efectuará el registro.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+VII. Comprobante del domicilio declarado.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 54.
 
 Para autorizar el registro extemporáneo de nacimiento de personas de sesenta años en adelante, se requiere lo señalado en las fracciones I y VI del artículo 46 del presente Reglamento, así como:
 
-I. Comparecencia de la persona a registrar con identificación oficial;
+I. Comparecencia de la persona a registrar con identificación oficial o, en su caso, constancia domiciliaria o equivalente, expedida por la Autoridad competente;
 
-II. Constancia de inexistencia de registro de nacimiento emitida por la Oficina Central; en los casos en que en los archivos de dicha Oficina no se localicen los soportes documentales correspondientes, será necesaria la del Juzgado más cercano al lugar en donde ocurrió el nacimiento;
+II. Constancia de inexistencia de registro de nacimiento, que comprenda por lo menos un año anterior a le fecha de nacimiento y dos años posteriores a ésta emitida por la Oficina Central; en los casos en que no se localicen los soportes documentales correspondientes en los archivos de dicha Oficina, será necesaria la del Juzgado más cercano al lugar en donde ocurrió el nacimiento;
 
-III. En caso de no ser originario del Distrito Federal, además, será necesaria la presentación de la Constancia de Inexistencia de Registro de Nacimiento emitida por el Juzgado u Oficialía del Registro Civil más cercano al lugar donde ocurrió el alumbramiento;
+III. En caso de no ser originario del Distrito Federal, además, será necesaria la presentación de la Constancia de Inexistencia de Registro de Nacimiento, que comprenda por lo menos un año anterior a la fecha de nacimiento y dos años posteriores a ésta, emitida por el Juzgado u Oficialía del Registro Civil más cercano al lugar donde ocurrió el alumbramiento;
 
-IV. Identificaciones y/o documentos públicos, así como aquellos complementarios, ya sean privados o de carácter religioso que acrediten el uso del nombre con el cual se pretenda registrar. Cuando exista duda fundada por parte del Juez, respecto de la idoneidad o suficiencia de los documentos presentados, será el Titular quien resuelva de manera inmediata la procedencia del registro;
+IV. Identificaciones y/o documentos públicos, así como aquellos complementarios, privados o de carácter religioso que acrediten el uso del nombre con el cual se pretenda registrar. Cuando exista duda fundada por parte del Juez, respecto de la idoneidad o suficiencia de los documentos presentados, será el Titular quien resuelva de manera inmediata la procedencia del registro;
 
-V. Denuncia de Hechos rendida ante el Ministerio Público correspondiente;
+V. Denuncia de hechos rendida ante el Ministerio Público correspondiente;
 
-VI. Comprobante de domicilio mediante el cual se acredite que el lugar de residencia habitual de la persona a registrar se encuentra dentro de los perímetros de la Delegación en donde se localiza el Juzgado ante el que se efectuará el registro; y
+VI. Comprobante del domicilio declarado.
 
-VII. En caso de que la documentación presentada sea insuficiente para acreditar el uso del nombre de la persona a registrar, el Juez solicitará, como documento complementario, la Información Testimonial rendida ante la autoridad jurisdiccional competente.
+VII. (DEROGADA, G.O. 11 DE MARZO DE 2004)
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 55.
 
 Para autorizar el registro extemporáneo de nacimiento de las niñas y niños en circunstancias de desventaja social, se requiere:
 
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
 I. Solicitud debidamente requisitada;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
 II. Presentación del menor de edad por el Ministerio Público, en coordinación con las Instituciones de carácter público que cuenten con programas de integración o reintegración social;
 
-III. Constancia de inexistencia de registro de nacimiento emitida por la Oficina Central; en los casos en que en los archivos de dicha Oficina no se localicen los soportes documentales correspondientes, será necesaria la del Juzgado más cercano al lugar en donde ocurrió el nacimiento;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-IV. En caso de no ser originario del Distrito Federal, además, será necesaria la presentación de la Constancia de Inexistencia de Registro de Nacimiento emitida por el Juzgado u Oficialía del Registro Civil más cercano al lugar donde ocurrió el alumbramiento;
+III. Constancia de inexistencia de registro de nacimiento, que comprenda por lo menos un año anterior a la fecha de nacimiento y como máximo dos años posteriores a ésta, dependiendo de la edad del menor emitida por la Oficina Central; en los casos en que no se localicen los soportes documentales correspondientes en los archivos de dicha Oficina, será necesaria la del Juzgado más cercano al lugar en donde ocurrió el nacimiento;
 
-V. Denuncia de Hechos ante la Procuraduría General de Justicia del Distrito Federal; y
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-VI. Dos testigos mayores de edad con identificación oficial.
+IV. En caso de no ser originario del Distrito Federal, además, será necesaria la presentación de la Constancia de Inexistencia de Registro de Nacimiento, que comprenda por lo menos un año anterior a le (sic) fecha de nacimiento y como máximo dos años posteriores a esta dependiendo de la edad del menor, emitida por el Juzgado u Oficialía del Registro Civil más cercano al lugar donde ocurrió el alumbramiento;
 
-Para los casos en que se exhiba Constancia de Alumbramiento, Constancia de Parto o Certificado de Nacimiento debidamente requisitado, se establecerá la filiación materna, dejando a salvo los derechos para demandar la paternidad.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+V. Denuncia de hechos ante la Procuraduría General de Justicia del Distrito Federal; y
+
+VI. (DEROGADA, G.O. 11 DE MARZO DE 2004)
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
+Para los casos en que se exhiba Certificado de Nacimiento, Constancia de Alumbramiento o Constancia de Parto debidamente requisitados, se establecerá la filiación materna, dejando a salvo los derechos para demandar la paternidad.
 
 Para los efectos del presente Reglamento, se entenderá por niñas y niños en circunstancias de desventaja social, aquellos menores de dieciocho años que dentro o fuera del ámbito familiar, y en especial por causas de pobreza o miseria, estén temporal o permanentemente sujetos a abandono; maltrato psicoemocional; desintegración familiar; enfermedades severas, físicas o emocionales; padezcan algún tipo de discapacidad; padres privados de la libertad; víctimas de cualquier abuso, explotación laboral o sexual; o cualquier otra situación, contingencia o actividad que ponga en riesgo o impida su desarrollo integral.
 
@@ -724,9 +886,13 @@ I. Solicitud de Registro debidamente requisitada;
 
 II. Comparecencia de la persona a registrar, y en su caso, la de los presentantes con identificación oficial;
 
-III. Constancia de inexistencia de registro de nacimiento emitida por la Oficina Central; en los casos en que en los archivos de dicha Oficina no se localicen los soportes documentales correspondientes, será necesaria la del Juzgado más cercano al lugar en donde ocurrió el nacimiento;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-IV. En caso de no ser originario del Distrito Federal, además, será necesaria la presentación de la Constancia de Inexistencia de Registro de Nacimiento emitida por el Juzgado u Oficialía del Registro Civil más cercano al lugar donde ocurrió el alumbramiento;
+III. Constancia de inexistencia de registro de nacimiento emitida por la Oficina Central que comprenda por lo menos un año anterior a le (sic) fecha de nacimiento y como máximo dos años posteriores a esta dependiendo de la edad del registrado; en los casos en que no se localicen los soportes documentales correspondientes en los archivos de dicha Oficina, será necesaria la del Juzgado más cercano al lugar en donde ocurrió el nacimiento;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+IV. En caso de no ser originario del Distrito Federal, además, será necesaria la presentación de la Constancia de Inexistencia de Registro de Nacimiento emitida por el Juzgado u Oficialía del Registro Civil más cercano al lugar donde ocurrió el alumbramiento que comprenda por lo menos un año anterior a le (sic) fecha de nacimiento y como máximo dos años posteriores a esta, dependiendo de la edad del registrado;
 
 V. Documentos que sirvan para acreditar la identidad de la persona, así como del lugar y fecha de nacimiento, los cuales podrán ser, indistintamente Certificado de Nacimiento, constancia de parto, constancia de origen o de identidad étnica; fe de bautismo; identificaciones oficiales diversas y demás constancias de las cuales se pueda desprender el uso del nombre; y
 
@@ -742,17 +908,23 @@ En todos los casos en que el Juez autorice el registro de nacimiento, la filiaci
 
 DE LAS ACTAS DE RECONOCIMIENTO
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2004)</small>
+
 ###### Artículo 58.
 
-Para autorizar el Acta de Reconocimiento ante el Juez, se requiere:
+Para autorizar un Reconocimiento ante el Juez, se requiere:
 
 I. Solicitud de registro de reconocimiento debidamente requisitada;
 
 II. Presentación del menor a reconocer. En caso de que se trate de mayor de edad, será necesaria la comparecencia de éste con el propósito de que exprese su consentimiento;
 
-III. Comparecencia de quien deba otorgar el reconocimiento;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-IV. En su caso, comparecencia de quien ejerza la patria potestad o tutela del menor a reconocer, a fin de que otorgue su consentimiento;
+III. Comparecencia de quien deba otorgar el reconocimiento con identificación oficial;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+IV. En su caso, comparecencia con identificación oficial de quien ejerza la patria potestad o tutela del menor a reconocer, a fin de que otorgue su consentimiento;
 
 V. En su caso, documento público o privado mediante el cual se acredite la personalidad del o los mandatarios, cuando el que deba otorgar el reconocimiento no pueda concurrir personalmente a celebrar el acto, firmado por el otorgante y dos testigos y ratificadas las firmas ante Notario Público o autoridad judicial;
 
@@ -760,9 +932,11 @@ VI. Copia certificada de reciente expedición del Acta de Nacimiento de la perso
 
 VII. Copia certificada del Acta de Nacimiento de la persona que va a efectuar el reconocimiento, con el fin de asentar la filiación correspondiente de la persona a reconocer;
 
-VIII. La presentación de dos testigos mayores de edad con identificación oficial; y
+VIII. (DEROGADA, G.O. 11 DE MARZO DE 2004)
 
-IX. Comprobante de domicilio mediante el cual se acredite que el lugar de residencia habitual de la persona a reconocer se encuentra dentro de los perímetros de la Delegación en donde se localiza el Juzgado ante el que se efectuará el registro.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+IX. Comprobante del domicilio declarado por él o los presentantes de la persona a reconocer.
 
 ###### Artículo 59.
 
@@ -772,15 +946,21 @@ Para el reconocimiento de un hijo, en la partida de nacimiento ante el Juez, se 
 
 En caso de que el reconocimiento se haga por escritura pública, por testamento o por confesión judicial directa y expresa para autorizar el acta respectiva, se requiere:
 
-I. Solicitud de registro de reconocimiento debidamente requisitada;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+I. Presentar ante el Juez del Registro Civil donde se levantó el acta de nacimiento, solicitud de registro de reconocimiento debidamente requisitada;
 
 II. Presentación de la persona reconocida;
 
-III. En su caso, comparecencia de quien ejerza la patria potestad o tutela del menor reconocido, a fin de que otorgue su consentimiento;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-IV. Copia certificada, de reciente expedición del Acta de Nacimiento de la persona que (sic) reconocida;
+III. En su caso, comparecencia de quien ejerza la patria potestad o tutela del menor reconocido, a fin de que otorgue su consentimiento; el compareciente deberá presentarse con identificación oficial;
 
-V. La presentación de dos testigos mayores de edad con identificación oficial; y
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+IV. Copia certificada, de reciente expedición del acta de nacimiento de la persona que va a ser reconocida;
+
+V. (DEROGADA, G.O. 11 DE MARZO DE 2004)
 
 VI. Copia certificada del documento respectivo, mediante el cual se haya hecho el reconocimiento.
 
@@ -788,21 +968,27 @@ VI. Copia certificada del documento respectivo, mediante el cual se haya hecho e
 
 Podrán reconocer a su hijo, el padre y la madre que no vivan juntos, conviniendo en el acto, cuál de los dos ejercerá la guarda y custodia.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
 ###### Artículo 62.
 
-Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matrimonio, más la edad del hijo que va a ser reconocido.
+Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matrimonio.
 
 ###### Artículo 63.
 
 El menor de edad podrá reconocer a un hijo, previo consentimiento de quien o quienes ejerzan sobre él la patria potestad, o de la persona bajo cuya tutela se encuentre; y a falta de dicha autorización, ésta será suplida por la autoridad jurisdiccional competente.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
 ###### Artículo 64.
 
-En el Acta de Reconocimiento levantada con posterioridad al Acta de Nacimiento, se hará mención de ésta asentando en ella la anotación correspondiente.
+En el caso de reconocimiento hecho con posterioridad al registro de nacimiento, se harán las anotaciones correspondientes en el acta de nacimiento primigenia y deberá levantarse nueva acta de nacimiento; por lo que, se hará en aquélla la anotación correspondiente, la cual quedará reservada y no se publicará ni se expedirá constancia alguna salvo mandato judicial.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 65.
 
-Si el reconocimiento se hiciere en Juzgado distinto de aquél en que se levantó el Acta de Nacimiento, el Juez que autorice el Acta de Reconocimiento, remitirá copia de ésta al Juez u Oficial que haya registrado el nacimiento, a la Dirección y al Archivo Judicial, para que efectúen la anotación en el acta respectiva.
+Si el reconocimiento se hiciere en lugar distinto de aquél en que se levantó el Acta de Nacimiento, el Juez que lo autorice, remitirá copia de ambas actas al Juez del Registro Civil que haya registrado el nacimiento, para que éste efectúe la anotación en el acta respectiva y haga la reserva a que se refiere el artículo anterior.
 
 DE LAS ACTAS DE ADOPCIÓN
 
@@ -812,7 +998,9 @@ Para autorizar el Acta de Adopción, se requiere:
 
 I. Solicitud de registro de adopción debidamente requisitada;
 
-II. Copia certificada de la sentencia definitiva, del auto que la declara ejecutoriada; y, oficio de autoridad jurisdiccional competente que ordene el levantamiento del acta correspondiente;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+II. Copia certificada de la sentencia definitiva y del auto que la declara firme; así como oficio de autoridad jurisdiccional competente que ordene el levantamiento del acta correspondiente;
 
 III. Copia certificada del Acta de Nacimiento del adoptado y del o los adoptantes; y
 
@@ -822,9 +1010,11 @@ Reunidos los requisitos para la autorización del acta, se harán las anotacione
 
 Se levantará el acta como si fuera de nacimiento en los mismos términos que la que se expide para los hijos consanguíneos.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
 ###### Artículo 67.
 
-Si la adopción se hiciere en el mismo Juzgado en que se autorizó el Acta de Nacimiento, se procederá de inmediato a hacer la anotación correspondiente. Si la adopción se hiciere en Juzgado distinto, se dará aviso mediante escrito al Juzgado en que se haya levantado el Acta de Nacimiento, para que se efectúe la reserva correspondiente. En ambos casos, se dará aviso también mediante escrito a la Dirección y al Archivo Judicial para los efectos anteriormente señalados.
+Si la adopción se hiciere en el mismo Juzgado en que se autorizó el Acta de Nacimiento, se procederá de inmediato a hacer la anotación correspondiente. Si la adopción se hiciere en Juzgado distinto, se dará aviso mediante escrito al Juzgado en que se haya levantado el Acta de Nacimiento, para que se efectúe la reserva correspondiente. En ambos casos, se dará aviso también mediante escrito a la Dirección y en su caso, al Archivo Judicial, para los efectos anteriormente señalados.
 
 ###### Artículo 68.
 
@@ -840,23 +1030,49 @@ DE LAS ACTAS DE MATRIMONIO
 
 Para contraer matrimonio se requiere:
 
-I. Solicitud de matrimonio debidamente requisitada ante el Juez del domicilio de cualquiera de los pretendientes, que exprese lo señalado por el artículo 97 del Código Civil;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+I. Presentar solicitud de matrimonio debidamente requisitada ante el Juez del Registro Civil de su elección, que exprese lo señalado por los artículos 97 y 98 del Código Civil;
 
 II. Copia certificada del Acta de Nacimiento de los pretendientes, y en su caso, dictamen médico que compruebe la edad del o los contrayentes, cuando por sus aspectos físicos sea notorio que son menores de dieciséis años;
 
-III. Certificado Médico Prenupcial con fotografía de los pretendientes, suscrito por médico con cédula profesional. Dicha constancia tendrá una vigencia de quince días naturales, contados a partir de la fecha de su expedición. Para el caso de los indigentes, tienen obligación de expedir este certificado gratuitamente las Instituciones públicas del Sector Salud del Distrito Federal;
+III. (DEROGADA, G.O. 11 DE MARZO DE 2004)
 
 IV. Convenio sobre el régimen patrimonial a que deberán sujetarse los bienes presentes y los que se adquieran durante el matrimonio;
 
-V. Comprobante de domicilio mediante el cual se acredite que el lugar de residencia de alguno de los contrayentes se encuentra dentro de los perímetros de la Delegación en donde se localiza el Juzgado ante el que se efectuará el acto;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+V. Comprobante del domicilio que declaren los contrayentes;
 
 VI. Cuando alguno o ambos contrayentes no puedan concurrir personalmente a la celebración del acto, se deberá exhibir documento público o privado, mediante el cual se acredite la representación del o los mandatarios; dicho documento deberá estar firmado por el otorgante, aceptante y dos testigos, ratificadas las firmas ante Notario Público, Embajador, Cónsul o autoridad judicial;
 
-VII. Dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Para el caso de no contar con dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos. Todos con identificación oficial;
+VII. (DEROGADA, G.O. 11 DE MARZO DE 2004)
 
-VIII. Cuando uno o ambos pretendientes hayan sido casados con anterioridad, exhibirán copia certificada del Acta de Matrimonio con la inscripción del divorcio, copia certificada del acta respectiva o copia certificada de la parte resolutiva de la sentencia de divorcio o nulidad de matrimonio. Para el caso de que alguno de los pretendientes sea viudo, deberá presentar copia certificada del Acta de Defunción correspondiente; y
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-IX. Cuando se trate de menores de edad, siempre que ambos hayan cumplido dieciséis años, deberán presentarse a otorgar su consentimiento quienes ejerzan la patria potestad o tutela; y a falta o por negativa o imposibilidad de éstos, la autoridad judicial suplirá dicho consentimiento.
+VIII. Cuando uno o ambos pretendientes hayan sido casados con anterioridad, exhibirán copia certificada del Acta de Matrimonio con la inscripción del divorcio, o copia certificada del acta respectiva o copia certificada de la parte resolutiva de la sentencia de divorcio o nulidad de matrimonio y del auto que la declare firme. Para el caso de que alguno de los pretendientes sea viudo, deberá presentar copia certificada del Acta de Defunción correspondiente; y
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+IX. Cuando se trate de menores de edad, siempre que ambos hayan cumplido dieciséis años, deberán presentarse a otorgar su consentimiento:
+
+a) El padre o la madre del menor;
+
+b) A falta de padres, el tutor;
+
+c) A falta, negativa o imposibilidad de las personas mencionadas en las fracciones anteriores, el Juez de lo familiar suplirá el consentimiento.
+
+En el caso de que la contrayente sea mayor de catorce años y se encuentre embarazada, acreditando a través de certificado médico esta última circunstancia, el Juez del Registro Civil, a petición del padre o la madre podrá dispensar el requisito de la edad para celebrar el matrimonio.
+
+Todos los comparecientes deberán presentar identificación oficial.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+Artículo 70 bis. Los contrayentes que así lo deseen podrán anexar voluntariamente a la solicitud de matrimonio, certificado médico en el que conste su estado de salud, el cual se agregará al apéndice que se integre con motivo de dicho matrimonio. La presentación de dicho certificado no es requisito para contraer matrimonio, por lo que queda prohibido al Juez exigir la presentación de certificado alguno, si los contrayentes no lo anexan voluntariamente.
+
+Se prohíbe absolutamente al Juez, al Secretario o a los comparecientes al acto, hacer inquisición sobre los resultados del certificado médico en caso de ser anexado.
+
+Los contrayentes que así lo deseen, podrán proponer voluntariamente la presencia de testigos de honor en la celebración del matrimonio; en tal caso éstos podrán asentar su nombre y firma en la hoja previa que se entregará en el momento de la celebración del acto, pero no aparecerán en el acta de matrimonio respectiva. El Juez no podrá exigir la presencia de testigos ni su falta afectará la validez del acto.
 
 ###### Artículo 71.
 
@@ -866,7 +1082,9 @@ I. Acta de nacimiento apostillada o legalizada; y en caso de que ésta se encuen
 
 II. Permiso vigente otorgado por la Secretaría de Gobernación; y
 
-III. Comprobante de su legal estancia en el país, así como su calidad migratoria.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+III. Comprobante de su legal estancia en el país, así como de su identidad y calidad migratoria.
 
 ###### Artículo 72.
 
@@ -880,11 +1098,13 @@ Cuando ambos pretendientes sean extranjeros, deberán presentar los requisitos q
 
 Cuando alguno o ambos contrayentes no hable o comprendan el idioma castellano, deberán presentarse acompañados por perito intérprete a su costa, que haga saber los derechos y obligaciones a que se hacen sujetos con la celebración del acto.
 
-Para el caso de los indigentes, tienen obligación de presentar al perito intérprete, las Instituciones del Gobierno del Distrito Federal correspondientes.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
+Para el caso de los indígenas, tienen obligación de presentar al perito intérprete, las Instituciones del Gobierno del Distrito Federal correspondientes.
 
 ###### Artículo 75.
 
-En las actas de matrimonio se relacionará el Acta de Nacimiento de los contrayentes, agregándose un extracto del acta de que se trate que indique el Juzgado, año de registro, partida, foja o número de acta en que conste la misma.
+(DEROGADO, G.O. 11 DE MARZO DE 2004)
 
 DE LAS ACTAS DE DIVORCIO ADMINISTRATIVO
 
@@ -906,17 +1126,25 @@ II. Copia certificada del Acta de Matrimonio de reciente expedición;
 
 III. Declaración por escrito, bajo protesta de decir verdad, de no haber procreado hijos durante el matrimonio, o teniéndolos, sean mayores de edad y no sean acreedores alimentarios, comprobando de manera fehaciente dicha circunstancia;
 
-IV. Constancia Médica a través de la cual la divorciante acredite que no se encuentra en estado de gravidez, o Constancia Médica que acredite que ha sido sometida a intervención quirúrgica que la imposibilite definitivamente procrear (sic) hijos;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-V. Comprobante de domicilio mediante el cual se acredite que el lugar de residencia de alguno de los divorciantes se encuentra dentro de los perímetros de la Delegación en donde se localiza el Juzgado ante el que se efectuará el acto;
+IV. Manifestación expresa y bajo protesta de decir verdad, que la divorciante no está embarazada, o Constancia Médica que acredite que ha sido sometida a intervención quirúrgica que la imposibilite definitivamente para procrear hijos;
 
-VI. Convenio de liquidación de la sociedad conyugal, si bajo ese régimen patrimonial contrajeron matrimonio, efectuado ante autoridad jurisdiccional competente o Notario Público en el que se acredite fehacientemente que no existe acreedor alimentario alguno. En el caso, de que los solicitantes manifiesten bajo protesta de decir verdad, que durante su matrimonio no adquirieron bienes, derechos, cargas u obligaciones susceptibles de liquidación, bastará con su manifestación firmada y ratificada ante el Juez; y
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+V. Comprobante del domicilio declarado por los divorciantes;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+VI. Si el matrimonio se contrajo bajo el régimen de sociedad conyugal y durante el matrimonio se adquirieron bienes, derechos, cargas u obligaciones, se debe presentar convenio de liquidación de la sociedad conyugal, efectuado ante autoridad jurisdiccional competente o Notario Público. En el caso, de que los solicitantes no hayan obtenido bienes, derechos, cargas u obligaciones susceptibles de liquidación lo manifestarán bajo protesta de decir verdad, bastará con su manifestación firmada y ratificada ante el Juez; y
 
 VII. En su caso, documento público mediante el cual se acredite la personalidad del o los mandatarios.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
 ###### Artículo 78.
 
-El Juez, previa identificación de los cónyuges, autorizará un acta en la que hará constar la Solicitud de Divorcio y citará a éstos para que la ratifiquen a los quince días naturales; si así lo hicieran, el Juez los declarará divorciados.
+El Juez, previa identificación de los cónyuges, levantará un acta en la que hará constar la Solicitud de Divorcio y citará a éstos para que la ratifiquen a los quince días hábiles contados a partir del día siguiente de la autorización del acta; si así lo hicieran, el Juez los declarará divorciados.
 
 ###### Artículo 79.
 
@@ -924,7 +1152,9 @@ Una vez ratificada la voluntad de los cónyuges divorciantes, el Juez procederá
 
 Si la autorización del Acta de Divorcio se hiciere en Juzgado distinto de aquél en que se levantó el Acta de Matrimonio, el Juez que declare el divorcio, remitirá copia del acta que autorice al Juez u Oficial que haya registrado el matrimonio para los efectos antes apuntados.
 
-En ambos casos, se remitirá copia a la Dirección y al Archivo Judicial, para que efectúen la anotación en el acta respectiva.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
+En ambos casos, se remitirá copia a la Dirección y, en su caso, al Archivo Judicial, para que fectúen (sic) la anotación en el acta respectiva.
 
 ###### Artículo 80.
 
@@ -942,7 +1172,7 @@ Los cónyuges que reiteren su decisión de divorciarse a través de la vía admi
 
 ###### Artículo 83.
 
-En las actas de divorcio, se relacionarán las Actas de Nacimiento y Matrimonio de los divorciados, agregándose un extracto de las actas de que se trate, indicando además el Juzgado, año de registro, partida, foja o número de acta en que conste la misma.
+(DEROGADO, G.O. 11 DE MARZO DE 2004)
 
 DE LAS ACTAS DE DEFUNCIÓN
 
@@ -952,9 +1182,17 @@ Para autorizar el Acta de Defunción, se requiere:
 
 I. Certificado de Defunción requisitado de conformidad con la normatividad aplicable en materia de Salud;
 
-II. Dos testigos con identificación oficial; y
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-III. Autorización por escrito del Ministerio Público para que se realice la inhumación, siempre que se trate de muerte violenta o en vía pública.
+II. Comparencia del interesado o mandatario, con identificación oficial;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+III. Autorización por escrito del Ministerio Público para que se realice la inhumación o cremación, siempre que se trate de muerte violenta o en vía pública;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2004)</small>
+
+IV. En su caso, autorización expedida por la Autoridad Sanitaria competente cuando así lo requiera la normativa aplicable.
 
 ###### Artículo 85.
 
@@ -964,17 +1202,27 @@ En toda autorización del Acta de Defunción, será competente el Juzgado más c
 
 En la autorización de las Actas de Defunción, los Juzgados o Módulos Registrales tendrán la competencia territorial y atribuciones que le confieran las normas jurídicas aplicables, y cuando menos existirá un Juzgado de turno en cada Delegación, de conformidad con las reglas que al efecto expida la Dirección, debiendo garantizar con dichas reglas, objetividad e imparcialidad en los turnos, así como el equilibrio en las cargas de trabajo entre los distintos Juzgados.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
 ###### Artículo 87.
 
-Ninguna inhumación o cremación se hará sin autorización escrita dada por el Juez, quien constatará el fallecimiento mediante Certificado de Defunción expedido por la Secretaría de Salud correspondiente.
+Ninguna inhumación o cremación se hará sin autorización escrita dada por el Juez, quien constatará el fallecimiento mediante Certificado de Defunción en formato expedido por la Secretaría de Salud y suscrito por médico legalmente autorizado.
 
-No se procederá a la inhumación o cremación, sino hasta después de que transcurran veinticuatro horas del fallecimiento, excepto en los casos que se ordene otra cosa por la autoridad que corresponda.
+Para autorizar la inhumación o cremación será necesaria autorización expedida por la Autoridad Sanitaria competente, cuando el cadáver se traslade a otra entidad federativa, a otro país, o se trate de la internación del cadáver al Distrito Federal.
 
-En el caso de que el fallecimiento se relacione con una averiguación previa, el Juez estará impedido de otorgar la autorización para cremar el cadáver, con la finalidad de no extinguir los elementos de prueba para el posterior esclarecimiento de los hechos que motivaron la muerte, excepto en los casos que se ordene otra cosa por la autoridad que corresponda.
+No se procederá a la inhumación o cremación, sino hasta después de que transcurran doce horas y hasta antes de las cuarenta y ocho horas del fallecimiento, excepto en los casos que se ordene otra cosa por la autoridad que corresponda.
+
+En el caso de que el fallecimiento se relacione con una averiguación previa, el juez estará impedido de otorgar la autorización para cremar el cadáver, con la finalidad de no extinguir los elementos de prueba para el posterior esclarecimiento de los hechos que motivaron la muerte, excepto en los casos que se ordene otra cosa por la autoridad que corresponda.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 88.
 
-Si al momento de autorizar el Acta de Defunción, se acredita con documentos públicos anteriores al deceso, que los datos contenidos en el Certificado de Defunción son incorrectos, se procederá a asentar los datos en el acta correspondiente, conforme a la documentación que se acompañe, la cual se integrará al expediente respectivo.
+El certificado de defunción hace prueba plena del día, hora, lugar y causas del fallecimiento, así como del sexo del fallecido.
+
+Si al momento de levantar el Acta de Defunción, se acredita con documentos públicos anteriores al deceso, que algún dato contenido en el certificado de defunción distinto de los mencionados en el párrafo anterior es incorrecto, se procederá a asentar el dato correcto en el acta correspondiente, conforme a la documentación que se acompañe, la cual se integrará al expediente respectivo.
+
+En caso de omisión de datos en el certificado de defunción, la manifestación de los datos al momento del levantamiento del acta será responsabilidad de quien los declare.
 
 ###### Artículo 89.
 
@@ -1010,17 +1258,55 @@ El término para la autorización del Acta Extemporánea de Defunción será de 
 
 Cuando una persona falleciere en lugar distinto a su domicilio, se remitirá al Juez u Oficial del Registro Civil más cercano a su domicilio copia certificada del acta para que se asiente en el libro respectivo.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
 ###### Artículo 95.
 
-En las Actas de Defunción a que se refiere el presente Capítulo se relacionarán las Actas de Nacimiento y/o Matrimonio del fallecido, agregándose un extracto del acta de que se trate, que indique el Juzgado, año de registro, partida, foja o número de acta en que conste ésta.
+Para autorizar la inscripción de un acta de defunción expedida en alguna Entidad Federativa de la República Mexicana se requiere:
 
-De manera conjunta, el Juez observará lo dispuesto en el artículo 57 del presente Reglamento.
+I. Copia certificada del acta de Defunción a inscribir;
+
+II. Autorización para el traslado del cadáver expedida por autoridad competente del lugar donde se levantó el acta a inscribir;
+
+III. Autorización para la internación a la Ciudad de México del cadáver, expedida por autoridad competente;
+
+IV. Identificación oficial del declarante, y
+
+V. Pago de los derechos correspondientes.
+
+En caso de no contar con la documentación anterior, el Juez se abstendrá de autorizar la inscripción e inhumación o cremación del cadáver y de advertirse algún ilícito, lo hará del conocimiento del Ministerio Público para los efectos legales a que haya lugar.
+
+El juez podrá autorizar el cambio de panteón, horno crematorio, inhumación o cremación del cadáver, siempre que medie solicitud por escrito de quien acredite interés jurídico, haciendo constar tal autorización en vía de nota en el acta de inscripción.
+
+Lo anterior, siempre y cuando la muerte no sea violenta o (sic) ocurrida en la vía pública; en tal caso, se requerirá autorización de la autoridad investigadora.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+Artículo 95 bis. Para autorizar la inscripción de una acta de defunción expedida en el extranjero, se requiere:
+
+I. Copia certificada del acta de Defunción a inscribir apostillada o legalizada; si está asentada en idioma distinto al castellano, deberá acompañarse su correspondiente traducción realizada por perito traductor autorizado por el Tribunal Superior de Justicia del Distrito Federal. En caso de que no exista perito traductor autorizado por el referido Tribunal, se estará a lo dispuesto en la Ley Orgánica de dicho órgano jurisdiccional;
+
+II. Autorización para el traslado del cadáver expedida por autoridad competente del lugar donde se levantó el acta a inscribir;
+
+III. Autorización para la internación a la Ciudad de México del cadáver expedida por autoridad competente;
+
+IV. Comparencia del interesado con identificación oficial, y
+
+V. Pago de los derechos correspondientes.
+
+De no contar con la documentación anterior, el Juez se abstendrá de autorizar la inscripción e inhumación o cremación del cadáver y de advertirse algún ilícito lo hará del conocimiento del Ministerio Público para los efectos legales a que haya lugar.
+
+El juez podrá autorizar el cambio de panteón, horno crematorio, inhumación o cremación del cadáver, siempre que medie solicitud por escrito de quien acredite interés jurídico, haciendo constar tal autorización en vía de nota en el acta de inscripción.
+
+Lo anterior, siempre y cuando la muerte no sea violenta o (sic) ocurrida en la vía pública, en tal caso se requerirá autorización de la autoridad investigadora.
 
 ### CAPÍTULO VII. DE LA ACLARACIÓN DE LAS ACTAS DEL ESTADO CIVIL
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
 ###### Artículo 96.
 
-La aclaración de las actas del estado civil de las personas, procede cuando en ellas existan errores mecanográficos, ortográficos o de otra índole que no afecten los datos esenciales de aquéllas y deberán tramitarse solamente ante la Oficina Central, de acuerdo a lo previsto por el artículo 138 Bis del Código Civil.
+La aclaración de las actas del estado civil de las personas, procede cuando en el levantamiento del acta correspondiente, existan errores mecanográficos, ortográficos, o de otra índole, que no afecten los datos esenciales de aquéllas. Debe tramitarse únicamente ante la Dirección, de conformidad con lo previsto por el artículo 138 Bis del Código Civil.
 
 ###### Artículo 97.
 
@@ -1048,23 +1334,81 @@ II. Errores ortográficos: Por regla general los nombres incorrectamente escrito
 
 III. Errores de otra índole:
 
-a) Las omisiones de: Fechas de nacimiento o de registro así como de nombres o apellidos que se adviertan del cotejo efectuado a los libros o expedientes que se encuentren en resguardo de los archivos del Registro Civil, o en su caso, mediante documental pública;
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
+a) Las omisiones o errores en: fechas de nacimiento, defunción, o de registro; así como de nombres, apellidos o preposiciones del nombre que se adviertan del cotejo efectuado con los expedientes formados con motivo del levantamiento del acta que se pretende aclarar que se encuentren en resguardo de los archivos del Registro Civil o con documental pública;
 
 b) Aquellos hechos o actos asentados de imposible realización en tiempo, lugar o circunstancia;
 
 c) La supresión o inclusión de la conjunción copulativa entre los apellidos paterno y materno de la persona de que se trate;
 
-d) La aclaración de cualquier dato esencial o no, en las actas del estado civil de los descendientes, cuando sus ascendientes hayan rectificado o aclarado sus actas respectivas;
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
-e) Cualquier error contenido en el Acta de Defunción, cuando se acredite con documentos públicos anteriores al deceso, que los datos contenidos en el Certificado de Defunción son incorrectos; y
+d) La aclaración en las actas del estado civil de los descendientes, cuando sus ascendientes hayan rectificado o aclarado sus respectivas actas de nacimiento, respecto de los datos aclarados o rectificados;
 
-f) Cuando en el Acta de Nacimiento aparezca una fecha distinta a la del alumbramiento.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
+e) Cualquier error contenido en el acta de defunción, cuando se acredite con documentos públicos anteriores al deceso, que los datos contenidos en el certificado de defunción son incorrectos;
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
+f) Cuando en el Acta de Nacimiento aparezca una fecha distinta a la del alumbramiento y se acredite con el certificado de nacimiento o la constancia de parto;
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+g) La indicación equivocada de sexo, cuando no haya duda sobre la identidad del nacido por las demás circunstancias de la inscripción y se acredite con el certificado de nacimiento o la constancia de parto;
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+h) La aclaración en las actas de matrimonio, divorcio administrativo o defunción, cuando el solicitante haya rectificado o aclarado su acta de nacimiento, respecto de los datos aclarados o rectificados;
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+i) Cuando se trate de meras discrepancias entre el duplicado y el libro original;
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+j) El uso de abreviaturas o guarismos no permitidos, el empleo de idioma distinto al español, la difícil legibilidad de caracteres, así como la defectuosa expresión de conceptos, cuando por el contexto de la inscripción o de otras inscripciones no haya duda de su contenido.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+Artículo 98 bis.- El trámite de aclaración de actas del registro civil se ajustará a lo siguiente:
+
+I. El interesado deberá llenar y suscribir el formato de solicitud de aclaración conforme al formato que le proporcione el Registro Civil.
+
+Tratándose de menores de edad la solicitud deberá suscribirse por quien ejerza la patria potestad o tutela. En caso de aclaración de actas de matrimonio, la solicitud deberá ser suscrita por ambos cónyuges.
+
+El formato de solicitud también podrá ser llenado y suscrito por mandatario especial cuyo mandato conste, al menos en carta poder firmada ante dos testigos.
+
+II. Presentar la solicitud, personalmente o por conducto de su mandatario en la Oficina Central del Registro Civil y anexar la siguiente documentación:
+
+a) Identificación oficial con fotografía del interesado y del mandatario, en su caso;
+
+b) En su caso, documento que acredite la calidad del Mandatario;
+
+c) Copia certificada de reciente expedición del acta que se desea aclarar, y
+
+d) La documentación probatoria de los datos que se quieren aclarar, enumerándola y describiéndola.
+
+III. Recibida la solicitud, se le asignará un número progresivo y se le entregará al solicitante citatorio para que comparezca a la Oficina a notificarse de la resolución el día y hora que al efecto se señale.
+
+Ningún servidor público encargado de la recepción de las solicitudes podrá negarse a recibirlas.
+
+IV. El Registro Civil procederá al análisis de la solicitud y sus anexos y de estimar procedente la aclaración proveerá lo conducente, dejando a salvo los derechos de terceros.
+
+En caso de que se estimara que falta algún requisito o documento para la procedencia de la aclaración, se requerirá al interesado o al mandatario por una sola vez, para que proporcione la información o documento faltante, debiendo señalar las razones del requerimiento y apercibiéndolo que de no presentar la documentación en un plazo que no exceda de diez días hábiles a partir de la notificación, se declarará improcedente la aclaración. Se le entregará copia del requerimiento y cumplido que sea, se proveerá lo conducente.
+
+En caso de que la aclaración se declare improcedente, se dejarán a salvo los derechos del interesado para hacerlos valer ante el juez de lo familiar competente.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 99.
 
-Los medios de prueba que se ofrezcan para el trámite de aclaración serán documentales públicas o privadas, que acrediten fehacientemente la procedencia de la aclaración.
+Sólo son admisibles como medios de prueba para el trámite de aclaración las documentales públicas o privadas, que acrediten fehacientemente la procedencia de la aclaración.
 
-En el caso de los medios de prueba documentales serán esenciales los documentos públicos, y complementarios los privados o religiosos, que el registrado haya utilizado en las diversas etapas de su vida.
+A efecto de mejor proveer, la Dirección queda facultada para allegarse de los elementos de convicción que estime pertinentes para determinar la procedencia de la aclaración.
+
+Con la resolución administrativa de aclaración de Acta, se ordenará que se hagan las anotaciones correspondientes.
 
 ###### Artículo 100.
 
@@ -1082,31 +1426,51 @@ Lo anterior, sin perjuicio de las responsabilidades que sean determinadas por la
 
 ### CAPÍTULO VIII. DE LAS INSCRIPCIONES
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
 ###### Artículo 103.
 
-Las inscripciones que señalan los artículos 35 y 180 del Código Civil, así como el numeral 166 de la Ley del Notariado del Distrito Federal, se tramitarán ante la Dirección, transcribiendo los puntos resolutivos de la sentencia judicial ejecutoriada o escritura pública que los contenga.
+Las inscripciones que señalan los artículos 35 y 180 del Código Civil, así como el numeral 166 de la Ley del Notariado del Distrito Federal, se tramitarán ante la Dirección, transcribiendo los puntos resolutivos de la sentencia judicial firme o la parte relativa de la escritura pública que los contenga.
 
 ###### Artículo 104.
 
 Se inscribirán ante la Dirección, la rectificación, modificación y aclaración de las actas del estado civil de las personas que señalan los artículos 134 y 138 Bis del Código Civil.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
 ###### Artículo 105.
 
-Las inscripciones de hechos o actos del estado civil de los habitantes del Distrito Federal, ocurridos en el extranjero, se inscribirán ante el Juez Central, mismas que deberán contener la transcripción íntegra del documento presentado; en caso de estar redactado éste en idioma distinto al castellano, se requerirá traducción realizada por perito autorizado por el Tribunal Superior de Justicia del Distrito Federal.
+Las inscripciones de hechos o actos del estado civil de los habitantes del Distrito Federal, ocurridos en el extranjero, se inscribirán ante el Juez Central, mismas que deberán contener la trascripción íntegra del documento presentado, el cual deberá presentarse debidamente apostillada o legalizada, en caso de estar redactado éste en idioma distinto al castellano, se requerirá traducción realizada por perito autorizado por el Tribunal Superior de Justicia del Distrito Federal.
+
+Tratándose de divorcios ocurridos en el extranjero, además de los requisitos antes señalados, la resolución que ordene el divorcio deberá presentarse debidamente homologada por el Tribunal Superior de Justicia del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 106.
 
-Una vez recibida por la Dirección la sentencia ejecutoriada que ordene la inscripción o anotación, se verificará que ésta cumpla con los requisitos de Ley, remitiéndose por escrito la misma al Juzgado respectivo para que el Juez, a su vez, efectúe la inscripción o anotación en el acta correspondiente y envíe un ejemplar a la Oficina Central y otro al Archivo Judicial para los efectos conducentes.
+Una vez recibida por la Dirección la sentencia firme que ordene la inscripción o anotación que corresponda, se verificará que ésta cumpla con los requisitos de Ley, remitiéndose por escrito la misma al Juzgado respectivo para que el Juez, de resultar procedente, efectúe la inscripción o anotación en el acta correspondiente y envíe un ejemplar a la Oficina Central y otro, en su caso, al Archivo Judicial para los efectos conducentes.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 107.
 
-El Juez dará aviso por escrito al órgano jurisdiccional competente y al Titular cuando se dé cumplimiento a la sentencia ejecutoriada relativa.
+El Juez dará aviso por escrito al órgano jurisdiccional competente y al Titular cuando se ejecute en lo conducente la sentencia firme.
+
+En el caso de que la inscripción o anotación que corresponda, no proceda o no pueda realizarse, el Juez dará aviso por escrito al órgano jurisdiccional competente y al Titular, señalando las causas por las cuales no pueda realizar la inscripción o anotación que corresponda.
 
 ###### Artículo 108.
 
 Las inscripciones de hechos o actos del estado civil de las personas, a que se refiere el presente Capítulo, se deberán relacionar y autorizar en las Actas a que se refiere el presente Reglamento.
 
 De manera conjunta, el Juez observará lo dispuesto en el artículo 57 del presente Reglamento.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+Artículo 108 BIS.- Para los efectos del artículo 89 del Código Civil, para realizar la anotación en las actas de nacimiento o matrimonio, si el pupilo es casado, se requiere:
+
+I. Copia certificada del auto de discernimiento de la tutela;
+
+II. Oficio por el cual, el juez que dicto el auto de discernimiento de la tutela, ordena el asentamiento de la inscripción en el acta de nacimiento o matrimonio del pupilo según sea el caso.
 
 ### CAPÍTULO IX. DE LA REPOSICIÓN DE LAS ACTAS DEL ESTADO CIVIL
 
@@ -1136,9 +1500,11 @@ Los archivos del Registro Civil, son considerados repositorios de la memoria de 
 
 Los archivos del Registro Civil se dividirán en sustantivos y de gestión; los sustantivos serán todas las actas del estado civil de las personas autorizadas por los Jueces, así como los documentos y apuntes que con ellas se relacionen; y de gestión, toda la documentación generada por las unidades administrativas de la Dirección y Juzgados, para este efecto se contará con instalaciones adecuadas para resguardar la documentación que conforman los fondos sustantivos y de gestión durante las tres edades del documento.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
 ###### Artículo 115.
 
-Toda persona puede pedir testimonio de las actas del estado civil de las personas, así como de los apuntes y documentos con ellas relacionados que obren en los archivos, y el Juez estará obligado a expedirlo.
+Toda persona puede pedir testimonio o extracto de las actas del estado civil de las personas, así como de los apuntes y documentos con ellas relacionados que obren en los archivos, y el Juez estará obligado a expedirlos; excepto de las resoluciones judiciales o instrumentos notariales, de los cuales únicamente se podrá expedir copia certificada mediante mandamiento Judicial.
 
 ###### Artículo 116.
 
@@ -1174,7 +1540,7 @@ PRIMERO.- El presente Reglamento entrará en vigor a los treinta días naturales
 
 SEGUNDO.- A la entrada en vigor del presente Reglamento queda abrogado el Reglamento del Registro Civil publicado en el Diario Oficial de la Federación el veintiuno de septiembre de mil novecientos ochenta y siete.
 
-TERCERO.- Se abrogan todas (sic) los ordenamientos jurídicos y administrativos de jerarquía igual o inferior y que se opongan al presente Reglamento.
+TERCERO.- Se abrogan todas(sic) los ordenamientos jurídicos y administrativos de jerarquía igual o inferior y que se opongan al presente Reglamento.
 
 CUARTO.- El Manual de Organización del Registro Civil, deberá expedirse dentro de los ciento veinte días siguientes a la entrada en vigor del presente Reglamento.
 
@@ -1191,3 +1557,17 @@ OCTAVO.- Los Secretarios, que a la entrada en vigor del presente Reglamento se e
 NOVENO.- Publíquese el presente Reglamento en la Gaceta Oficial del Distrito Federal.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los veintiocho días del mes de julio del año dos mil dos.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ AGUSTÍN ORTÍZ PINCHETTI.- FIRMA.- LA SECRETARIA DE SALUD, ASA EBBA CHRISTINA LAURELL.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 11 DE MARZO DE 2004.
+
+Primero.- El presente Decreto entrará en vigor el 13 de marzo de 2004.
+
+Segundo.- Se derogan todos los ordenamientos jurídicos y administrativos de jerarquía igual o inferior y que se opongan al presente decreto.
+
+Tercero.- La expedición de los extractos a que se refiere este Reglamento queda sujeta a los plazos y procedimientos que establezca el titular.
+
+Cuarto.- En tanto se realizan los cambios a las Formas del Registro Civil para adecuarse al contenido del presente decreto, continuarán utilizándose las existentes en el Registro Civil, debiéndose testar los espacios que ya no deban utilizarse en virtud de lo dispuesto por este decreto, sin que esto afecte la validez del hecho o acto registral.
+
+Quinto.- En los casos de reconocimientos realizados con anterioridad a la entrada en vigor del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Civil para el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal del día 13 de enero de 2004 y que estén pendientes de inscripción en el Registro Civil, los interesados podrán acogerse al beneficio que les otorga el texto del artículo 78 del Código Civil reformado en dicho decreto y solicitar la expedición de una nueva acta de nacimiento.
