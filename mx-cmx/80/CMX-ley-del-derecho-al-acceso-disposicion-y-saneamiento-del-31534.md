@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-derecho-al-acceso-disposicion-y-saneamiento-del-31534"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-27"
-last_updated: "2003-05-27"
+last_updated: "2004-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31534&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-05-09"
 
 LEY DE AGUAS DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ENERO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 27 de mayo de 2003.
 
@@ -880,7 +880,9 @@ b) Dentro de los 30 días siguientes a la fecha en que se notifique no haber lug
 
 c) Dentro de los 30 días siguientes a la fecha en que se notifique la revocación de la autorización para hacer uso del agua de un pozo particular; y
 
-II. Al momento de solicitar la licencia de construcción para edificaciones que se pretendan realizar sobre predios que no tengan instalado el servicio público de agua potable.
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+II. Al momento de solicitar la licencia de construcción o presentar la manifestación de construcción para edificaciones que se pretendan realizar sobre predios que no tengan instalado el servicio público de agua potable.
 
 ###### Artículo 67.
 
@@ -1248,7 +1250,7 @@ XVI. Impedir la instalación de los dispositivos necesarios para el registro o m
 
 XVII. Violar los sellos del aparato medidor, alterar el consumo, provocar que el medidor no registre el consumo de agua, así como retirar o variar la colocación del medidor de manera transitoria o definitiva, sin la autorización correspondiente;
 
-XVIII. Impedir la revisión de los aparatos medidores o la practica de visitas de verificación;
+XVIII. Impedir la revisión de los aparatos medidores o la práctica de visitas de verificación;
 
 XIX. Emplear mecanismos para succionar agua de las tuberías de conducción o de distribución, sin la autorización correspondiente;
 
@@ -1384,8 +1386,12 @@ DÉCIMO PRIMERO.- Para los efectos previstos en el artículo 7º de esta Ley, el
 
 Recinto Legislativo a 30 de abril de 2003
 
-PRESIDENTE, DIP. TOMÁS LÓPEZ GARCÍA.- SECRETARIO, DIP. CARLOS ORTIZ CHÁVEZ.-
-
-SECRETARIO, DIP. ROBERTO E. LÓPEZ GRANADOS.- (Firmas).
+PRESIDENTE, DIP. TOMÁS LÓPEZ GARCÍA.- SECRETARIO, DIP. CARLOS ORTIZ CHÁVEZ.-SECRETARIO, DIP. ROBERTO E. LÓPEZ GRANADOS.- (Firmas).
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los nueve días del mes de mayo del dos mil tres.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE SALUD, ASSA EBA CHRISTINA LAURELL.- FIRMA.- EL SECRETARIO DE FINAZAS (SIC), CARLOS MANUEL URZÚA MACÍAS.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 29 DE ENERO DE 2004.
+
+PRIMERO.- En tanto se expidan las disposiciones administrativas que deriven de las presentes adiciones y modificaciones seguirán en vigor aquellas que no las contravengan.
