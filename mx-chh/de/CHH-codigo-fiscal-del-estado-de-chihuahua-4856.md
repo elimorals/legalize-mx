@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1975-05-24"
+last_updated: "1975-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1975.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -231,7 +231,9 @@ V.- Verificar en tránsito o en los lugares de almacenamiento los vehículos o m
 
 VI.- Allegarse las pruebas necesarias para denunciar al Ministerio Público la posible comisión de delitos fiscales, o en su caso, para formular la querella respectiva. Las actuaciones que practique la Tesorería General del Estado tendrán el mismo valor probatorio que la Ley relativa concede a las actas de la policía judicial; y la propia Tesorería, a través de los agentes hacendarios que designe, será coadyuvante del Ministerio Público, en los términos del Código de Procedimientos en Materia de Defensa Social.
 
-37.- Las visitas domiciliarias para comprobar que se han acatado las disposiciones fiscales se sujetarán a lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+37.- Las visitas domiciliarias para comprobar, que se han acatado las disposiciones fiscales se sujetarán a lo siguiente:
 
 I.- Sólo se practicarán por mandamiento escrito de autoridad fiscal competente que expresará:
 
@@ -255,9 +257,9 @@ VII.- El visitado, los testigos y los visitadores firmarán el acta. Si el visit
 
 VIII.- Con las mismas formalidades indicadas en el inciso anterior, se levantarán actas previas, o complementarias para hacer constar hechos concretos en el curso de una visita o después de su conclusión;
 
-(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 1974) (F. DE E., P.O. 8 DE ENERO DE 1975)
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
-IX.- El visitado o quien lo represente deberá expresar dentro de los 15 días siguientes a la conclusión de las actas ante la Tesorería General del Estado, las razones de su inconformidad, en forma circunstanciada, ofreciendo las pruebas pertinentes. Para la substanciación del presente recurso, se estará a lo dispuesto en el Artículo 397 de este Código.
+IX.- El visitado o quien lo represente deberá expresar dentro de los 20 días siguientes a la conclusión de las actas ante la Tesorería General del Estado, las razones de su inconformidad en forma circunstanciada, ofreciendo las pruebas pertinentes. Para la substanciación del presente recurso, se estará a lo dispuesto en el artículo 397 de este Código.
 
 38.- Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente, a menos que la negativa implique la afirmación de otro hecho.
 
@@ -305,13 +307,19 @@ II.- Si es a los sujetos pasivos o responsables solidarios a quien corresponde d
 
 III.- Si se trata de obligaciones derivadas de contratos o concesiones que no señalen la fecha de pago, éste deberá hacerse dentro de los quince días siguientes a la fecha de su celebración u otorgamiento.
 
-44.- El pago de los créditos fiscales deberá hacerse precisamente en efectivo y en las Oficinas Recaudadoras del Estado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
-La Autoridad Fiscal recibirá el pago hecho por el sujeto pasivo, responsable solidario o por terceros reservándose la facultad de revisar, en el acto del entero o con posterioridad, la veracidad de los datos que se consignan y el efectivo cumplimiento de las obligaciones establecidas por este Código y demás disposiciones fiscales aplicables y en su caso formular las liquidaciones por concepto de los ingresos omitidos.
+44.- El pago de los créditos fiscales deberá hacerse precisamente en efectivo y en las Oficinas Recaudadores del Estado, salvo que las disposiciones aplicables establezcan que se hagan en especie.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+Los giros postales, telegráficos o bancarios y los cheques certificados se admitirán como efectivo.
 
-Las manifestaciones y declaraciones de los Notarios, jueces que actúen por receptoría y contadores, salvo el caso del Artículo 81, se entenderán hechas bajo su estricta responsabilidad, siendo solidariamente responsables del pago del impuesto omitido sin perjuicio de las sanciones a que se hagan acreedores en los términos de este mismo Código.
+También se admitirá como medio de pago, los cheques de cuentas personales de los causantes que cumplan con los requisitos que para hacer uso de esta forma de pago establezcan las disposiciones fiscales o en su defecto las que fije la Tesorería General del Estado.
+
+La falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal, por parte de la institución a cuyo cargo se hubiere librado, dará derecho a la Tesorería General del Estado a exigir del librador el pago del importe del mismo y una indemnización del 20% del valor del cheque. Esta indemnización y el cobro del cheque se notificará y se hará efectiva mediante los procedimientos establecidos en este Código, para los demás créditos fiscales.
+
+La autoridad fiscal recibirá el pago hecho por el sujeto pasivo, responsable solidario o por terceros reservándose la facultad de revisar, en el acto del entero o con posterioridad, la veracidad de los datos que se consignan y el efectivo cumplimiento de las obligaciones establecidas por este Código y demás disposiciones fiscales aplicables y en su caso formular las liquidaciones por concepto de los ingresos omitidos.
+
+Las manifestaciones y declaraciones de los notarios, jueces que actúen por receptoría y contadores, salvo el caso del artículo 81, se entenderán hechas bajo su estricta responsabilidad, siendo solidariamente responsables del pago del impuesto omitido sin perjuicio de las sanciones a que se hagan acreedores en los términos de este mismo Código.
 
 45.- La falta de pago de un crédito fiscal en la fecha o término establecido en las disposiciones respectivas, determina que el crédito sea exigible.
 
@@ -371,7 +379,9 @@ La devolución deberá hacerse a petición del interesado y dentro del término 
 
 Sin embargo de lo anterior, tratándose de derechos y de rezagos, o sea de ingresos que se perciben en años posteriores al en que el crédito se haya generado, el Gobernador del Estado y el Director General de Finanzas podrán condonarlos o reducirlos cuando lo consideren justo y equitativo en los términos de la fracción XXVI del Artículo 93 de la Constitución Política del Estado.
 
-54.- Las multas deberán ser condonadas totalmente si, por pruebas diversas de las presentadas ante las autoridades administrativas o jurisdiccionales en su caso, se demuestra que no se cometió la infracción o que la persona a la que se atribuye no es la responsable.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+54.- Las multas por infracciones fiscales deberán ser revocadas totalmente si por pruebas diversas de las presentadas ante las autoridades fiscales, se demuestra que no se cometió la infracción o que la persona a la que se le atribuye no es la responsable.
 
 Los recargos y las multas por infracción a las disposiciones fiscales podrán ser condonadas por el Tesorero General del Estado, quien apreciará discrecionalmente los motivos que tuvo la autoridad que impuso la sanción y las demás circunstancias del caso. Contra esta resolución no cabrá ningún recurso.
 
@@ -851,11 +861,11 @@ c).- Con multa de $1,000.00 a $10,000.00 en los casos de los incisos b), c), f) 
 
 III.- El inspector o auditor de la Tesorería General del Estado que encuentre un vehículo no registrado transportando alcohol o bebidas alcohólicas; que descubra a expendedores con bebidas alcohólicas a granel, en envases mayores de 5 litros o que carezcan del marbete que evidencíe el pago del impuesto, levantará acta para consignar los hechos y embargará precautoriamente el vehículo, el alcohol o las bebidas alcohólicas, depositándolos en las bodegas habilitadas al efecto por la autoridad. El Tesorero General del Estado, con base en el acta, podrá ordenar la clausura provisional del establecimiento durante 15 días o la definitiva en caso de reincidencia. También si lo juzga conveniente podrá autorizar que se nombre depositario al propietario o poseedor de los bienes secuestrados.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
-96.- La reincidencia en alguna infracción fiscal, en los casos en que no tenga sanción prevista en este Código, se castigará la primera vez con la multa prevista en este Código aumentada en un veinticinco por ciento; la segunda en un cincuenta por ciento, y así sucesivamente, aumentando un veinticinco por ciento en cada caso de reincidencia.
+96.- En los casos de reincidencia en alguna infracción fiscal, se aplicará la sanción que corresponde a dicha infracción más un veinticinco por ciento la primera vez, y así, sucesivamente, aumentando un veinticinco por ciento en cada caso de reincidencia, salvo que se encuentre establecida una sanción específica para el caso.
 
-Se entiende que hay reincidencia para los efectos del artículo anterior, cuando dentro del mismo año fiscal la misma persona incurriere por segunda o más veces en otra responsabilidad análoga o semejante a aquélla por la que se hubiere aplicado la sanción.
+Se entiende que hay reincidencia, cuando en el término de 5 años la misma persona incurriere por segunda o más veces en otra responsabilidad igual o análoga a aquella por la que se hubiere aplicado la sanción.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
@@ -967,31 +977,29 @@ II.- Por avalúos practicados por la Tesorería General del Estado, en los casos
 
 104.- La base del impuesto será el valor catastral:
 
-I.- Tratándose de predios urbanos el impuesto se causará conforme a las tasas de la siguiente
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975) (F. DE E., P.O. 21 DE ENERO DE 1976)
 
-TARIFA
+I.- Tratándose de predios urbanos el impuesto se causará conforme a las tasas de la siguiente:
+
+TARIFA:
 
 VALOR CATASTRAL TASA ANUAL
 
-Hasta $ 10,000.00 Exento
+Hasta $ 12,500.00 Exento
 
-Hasta $ 50,000.00 7.5 al millar
+" " 50,000.00 7.5 al millar
 
-Hasta $ 100,000.00 8.0 al millar
+" " 100,000.00 8.0 al millar
 
-Hasta $ 250,000.00 9.0 al millar
+" " 250,000.00 9.0 al millar
 
-Hasta $ 500,000.00 10.5 al millar
+" " 500,000.00 10.5 al millar
 
-Hasta $ 1,000,000.00 2.5 al millar
+" " 1´000,000.00 12.5 al millar
 
-Más de $ 1,000,000.00 15.0 al millar
+más de " 1´000,000.00 15.0 al millar
 
-Si el valor catastral total de un predio queda comprendido entre un renglón y otro de la anterior escala, el impuesto se causará con la tasa correspondiente al renglón inmediato de mayor valor.
-
-Tratándose de predios no edificados o cuya construcción tenga un valor inferior a la tercera parte del valor del terreno, el impuesto se causará conforme a la tarifa señalada en este artículo aumentando la tasa correspondiente en un 20%.
-
-Tratándose de predios urbanos no edificados propiedad de fraccionamientos autorizados, el aumento del 20% se causará dos años después de la enajenación a terceros, por cualquier título, de cada lote de terreno.
+La exención hasta de $12,500.00 que contiene la tarifa, sólo operará cuando el predio sea la única propiedad inmueble del causante. En caso de tener varias, con valores dentro del límite indicado, se aplicará la tasa mínima.
 
 II.- Tratándose de predios rústicos se aplicará una cuota de 6.25 al millar anual sobre el valor catastral.
 
@@ -1165,23 +1173,29 @@ Esta exención se concederá si se prueba:
 
 IV.- Los predios y edificios en que se encuentran establecidos consulados, cuando sean propiedad de sus respectivos gobiernos y siempre que exista reciprocidad de trato fiscal con nuestro país;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
-V.- Los inmuebles que los derechohabientes de la Dirección de Pensiones Civiles del Estado adquieran o construyan por conducto de dicha institución, en los términos de la Ley de la materia, sobre las bases siguientes:
+V.- Los inmuebles que los derechohabientes de la Dirección de Pensiones Civiles del Estado adquieran o construyan por conducto de dicha Institución en los términos de la Ley de la materia, sobre las bases siguientes:
 
-a).- Se concederá por una sola vez a cada beneficiario;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+a).- Se concederá por una sola vez a cada beneficiario. Cada casa será objeto de la exención por una sola vez;
 
 b).- La exención queda sin efecto aún cuando no haya transcurrido el lapso de la misma si se da alguna de las circunstancias que la Ley de Pensiones Civiles establece para el vencimiento anticipado del acto jurídico que le dió origen, sin que por situación posterior tenga derecho nuevamente a la exención. No se considera vencimiento anticipado el hecho de que el beneficiario cubra el total de su adeudo antes del plazo que le haya sido concedido para tal efecto;
 
 c).- El acuerdo de exención queda sin efecto de pleno derecho en el momento en que el derechohabiente realice cualquiera de los actos de vencimiento anticipado, haciéndose exigible el crédito fiscal y sus accesorios por concepto de este impuesto desde la fecha en que se haya dado la circunstancia que motivó la cancelación de la exención;
 
-d).- La exención solo comprende el inmueble hasta el valor de cien mil pesos. En caso de inmuebles de mayor valor, el impuesto se causará sobre el excedente de dicha cantidad;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
-VI.- Los predios pertenecientes a instituciones descentralizadas del Gobierno Federal, del Estado y de los Municipios, si están exceptuadas del pago de este impuesto por ley especial;
+d).- La exención solo opera cuando el valor del inmueble no exceda de $125,000.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+VI.- Los predios pertenecientes a Instituciones descentralizadas, estatales y Municipales;
 
 VII.- Los predios que sean propiedad de la Universidad Autónoma de Chihuahua y del Instituto Tecnológico Regional de Chihuahua;
 
-VIII.- Los Predios en que se establezcan industrias nuevas o necesarias gozarán de exención total o parcial del Impuesto Predial, por el tiempo y dentro de los requisitos que establezcan las disposiciones legales respectivas;
+VIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1975)
 
 IX.- Los predios construidos o en que se construyan habitaciones tipo vivienda popular, en la forma y términos de las disposiciones legales respectivas;
 
@@ -1195,7 +1209,9 @@ XI.- Los predios y edificios se destinan exclusivamente a fines deportivos, si s
 
 2o.- Que los usuarios no persigan fines de lucro.
 
-3o.- Que los ingresos que obtengan se destinen exclusivamente al mantenimiento de dichos predios y edificios.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+3o.- Que los ingresos que obtengan se destinen exclusivamente al mantenimiento de dichos predios y edificios y a la realización de sus finalidades deportivas.
 
 106.- Las exenciones se solicitarán por escrito a la Tesorería General del Estado, debiéndose acompañar todas las pruebas que demuestren su procedencia o, en su caso, ofrecer dichas pruebas.
 
@@ -1213,11 +1229,11 @@ La vigencia de las exenciones que se concedan de acuerdo con lo dispuesto por es
 
 #### SECCION QUINTA. AVALUOS
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
-111.- La valuación catastral de los predios será practicada en la forma y término que señale este capítulo y los reglamentos e instructivos correspondientes. Este valor se fijará cada dos años, de acuerdo con los valores unitarios de tierra y de construcción que la propia Tesorería aprueba para regir en el ejercicio fiscal correspondiente.
+111.- La valuación catastral de los predios será practicada en la forma y términos que señale este capítulo y los reglamentos e instructivos correspondientes. Este valor se fijará cada dos años, de acuerdo con los valores unitarios de tierra y de construcción que la propia Tesorería apruebe para regir en el ejercicio fiscal correspondiente.
 
-Para la actualización bienal de los valores catastrales de predios ya valuados, que no hayan sufrido modificación, no se requerirá valuación de los peritos valuadores de la Tesorería, pues bastará fijar los nuevos valores unitarios que menciona el párrafo anterior.
+Para la actualización bienal de los valores catastrales de predios ya valuados, que no hayan sufrido modificación, no se requerirá valuación de los peritos valuadores de la Tesorería, pues bastará fijar los nuevos valores unitarios que menciona el párrafo anterior. Las notificaciones de los valores catastrales en estos casos, podrán hacerse mediante dos publicaciones en el Periódico Oficial del Estado y dos más en los periódicos de mayor circulación en el lugar en que se encuentre ubicado el predio y en su defecto, en los de la Ciudad de Chihuahua.
 
 En los casos de reavalúos a que se refiere la Sección de Catastro, el nuevo valor entrará en vigor a partir del bimestre siguiente a la fecha del traslado de dominio, de la terminación de nuevas construcciones, de las ampliaciones de las construcciones ya existentes o de la notificación del avalúo en los demás casos, con excepción de lo relativo a avalúos provisionales.
 
@@ -1675,7 +1691,11 @@ En los fideicomisos en garantía sólo se causará el impuesto al transmitirse l
 
 133.- El Impuesto sobre Traslación de Dominio de Bienes Inmuebles se causa:
 
-I.- Por la transmisión de la propiedad de bienes inmuebles o de derechos de copropiedad sobre éstos, cualquiera que sea el título o causa incluyendo los casos de constitución o fusión de sociedades, aumento de capital social, adjudicación por disolución y liquidación de sociedades, sean civiles o mercantiles. Tratándose de división de la copropiedad o de la disolución de la sociedad conyugal, se causará el impuesto si el valor de la parte adjudicada a alguno de los copropietarios o cónyuges, en su caso, excede del valor de su respectiva porción. En estos casos el impuesto se causará sobre la diferencia que exista entre el valor de la porción que le corresponde al copropietario o al cónyuge, y el valor de la porción que adquiere.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+I.- Por la transmisión de la propiedad de bienes inmuebles o derechos de copropiedad sobre éstos, cualquiera que sea el título o causa incluyendo los casos de constitución o fusión de sociedades, aumento de capital social, adjudicación por disolución y liquidación de sociedades sean civiles o mercantiles. Tratándose de división de la copropiedad o de la disolución de la sociedad conyugal, se causará el impuesto si el valor de la parte adjudicada a alguno de los copropietarios o cónyuges en su caso, excede del valor de su respectiva porción. En estos casos el impuesto se causará sobre la diferencia que exista entre el valor de la porción que le corresponde al copropietario o al cónyuge, y el valor de la porción que adquiera.
+
+Para calcular esta diferencia se tomará en cuenta exclusivamente el valor de cada bien inmueble considerado aisladamente, de tal manera que si a uno de los copropietarios o cónyuge le es transmitido algo más de la porción que le corresponde en cada bien inmueble, se pagará el impuesto por ese excedente. En nada influirá para este cálculo la manera como se divida la totalidad del patrimonio de la sociedad conyugal;
 
 II.- Por la adquisición de bienes inmuebles o de derechos de copropiedad sobre éstos, en virtud de prescripción, remate judicial o administrativo.
 
@@ -1699,11 +1719,11 @@ V.- El fideicomitente en los casos de los párrafos segundo y tercero del artíc
 
 VI.- El cesionario de los derechos hereditarios en los casos de la fracción V del artículo anterior.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
-135.- El impuesto sobre Traslación de Dominio de Bienes Inmuebles se causará sobre el valor gravable determinado de conformidad con los artículos 136 y 137 conforme a la siguiente
+135.- El Impuesto sobre Traslación de Dominio de Bienes Inmuebles se causará sobre el valor gravable determinado de conformidad con los artículos 136 y 137 conforme a la siguiente:
 
-TARIFA:
+TARIFA
 
 Hasta $100,000.00 1%
 
@@ -1712,8 +1732,6 @@ De $100,000.01 a $250,000.00 1.5%
 De $250,000.01 a $500,000.00 2%
 
 Más de $500,000.00 3%
-
-Tratándose de adquisiciones en virtud de la prescripción, se causará el impuesto con la tasa del 10%, cualquiera que sea el valor gravable.
 
 136.- Será base gravable del Impuesto:
 
@@ -2003,7 +2021,9 @@ La Tesorería General del Estado está, a través del representante de la Hacien
 
 #### SECCION CUARTA. EXENCIONES
 
-201.- Están exentos del pago del impuesto a que se refiere este Capítulo:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+201.- Están exentos del pago del impuesto a que se refiere este capítulo:
 
 I.- Los intereses percibidos con motivo de aceptaciones, préstamos u otros créditos a cargo de instituciones de crédito o de organizaciones auxiliares, nacionales y del extranjero;
 
@@ -2021,7 +2041,11 @@ VII.- Los intereses que perciban las fundaciones de Asistencia Pública y Benefi
 
 VIII.- Los intereses obtenidos por la enajenación a plazo de inmuebles urbanos y rústicos;
 
-IX.- Los intereses, el sobreprecio, o cualquier otra prestación que aumente los ingresos gravados por el Impuesto sobre el Comercio y la Industria establecido en este Código.
+IX.- Los intereses, el sobreprecio, o cualquier otra prestación que aumente los ingresos gravados por el Impuesto sobre el Comercio y la Industria establecido en este Código;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+X.- Los intereses que perciba el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, con motivo de los financiamientos que otorgue a sus derechohabientes para construir, mejorar o ampliar sus viviendas, así como para pagar el pasivo de las mismas.
 
 ### CAPITULO IX. IMPUESTO SOBRE LA GANADERIA
 
@@ -2099,9 +2123,11 @@ IV.- Los contribuyentes radicados fuera del Estado manifestarán directamente o 
 
 #### SECCION TERCERA. GRUPOS Y TASAS
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
-212.- Los ingresos se clasificarán en seis grupos y causarán el impuesto conforme a las tasas que a continuación se indican:
+212.- Los ingresos se clasificarán en cinco grupos y causarán el impuesto conforme a las tasas que a continuación se indican:
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 PRIMER GRUPO.- 1.8 % sobre los ingresos provenientes de la presentación o enajenación de:
 
@@ -2129,7 +2155,13 @@ XI.- Medicinas, productos medicinales, químico-medicinales y farmacéuticos.
 
 XII.- Servicios prestados en restaurantes, cafés, fondas y loncherías. Si venden bebidas alcohólicas, sobre éstas pagarán el impuesto de acuerdo con las tasas que señala el segundo grupo; y
 
-XIII.- En general sobre todos los artículos, mercancías y servicios que no estén gravados en los grupos siguientes ni expresamente exentos.
+XIII.- En general sobre todos los artículos, mercancías y servicios que no estén gravados en los grupos siguientes ni expresamente exentos;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+XIV.- La explotación de aparatos fonoelectromecánicos de diversión y básculas que funcionen con monedas o sin ellas.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 SEGUNDO GRUPO.- El impuesto se causará a razón de:
 
@@ -2139,7 +2171,11 @@ II.- 1.8% sobre los ingresos correspondientes a las ventas de bebidas alcohólic
 
 III.- 2.5% cuando en un mismo negocio se vendan bebidas alcohólicas en botella cerrada y al copeo.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
 TERCER GRUPO.- 2% sobre la gasolina y demás derivados del petróleo en ventas de primera mano.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 CUARTO GRUPO.- Los ingresos procedentes de la venta de automóviles y camiones, causarán el impuesto conforme a las siguientes tasas:
 
@@ -2157,7 +2193,7 @@ Para los efectos de este grupo se considerarán ventas de primera mano, todas la
 
 QUINTO GRUPO.- $0.02 (Dos centavos) por kilo sobre las ventas de primera mano de azúcar realizadas por los productores, introductores y comerciantes mayoristas de ese producto.
 
-SEXTO GRUPO.- 3 % sobre los ingresos que se obtengan por concepto de la explotación de aparatos fonoelectromecánicos de diversión y básculas que funcionen con monedas o sin ellas.
+SEXTO GRUPO.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1975)
 
 213.- En todas aquellas operaciones que sean realizadas en forma accidental, por sujetos no empadronados, el impuesto se pagará aplicando la tasa que corresponda conforme al artículo anterior.
 
@@ -2179,9 +2215,9 @@ II.- Si los ingresos no son gravables, por razón de su diversa índole, de acue
 
 216.- No causan el impuesto:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
-I.- Las enajenaciones de maíz, frijol, tortillas, masa de maíz, pan, verduras, leche, pescados y mariscos, leña y carbón vegetal, así como la carne sin procesar vendida al menudeo en carnicerías.
+I.- Las enajenaciones de maíz, frijol, tortillas, masa de maíz, harian (sic) de maíz, pan, verduras, pescados y mariscos, leña y carbón vegetal, leche, así como la carne sin procesar vendida al menudeo en carnicerías. La exención no comprende la leche evaporada, condensada, en polvo o sujeta a procesamientos posteriores.
 
 II.- Las enajenaciones de primera mano que se verifiquen con algodón y su semilla o avena, cuyas operaciones son motivo de los impuestos especiales que establecen los capítulos respectivos del presente libro.
 
@@ -3061,11 +3097,13 @@ XLIII.- Los demás que señalen las leyes.
 
 309.- Por la prestación de los servicios indicados en el artículo anterior, se cobrarán las cuotas que fije el Gobernador del Estado en la tarifa que para el efecto expida, tomando en cuenta el valor de la erogación que los servicios ocasionen.
 
-310.- No causan los derechos a que se refiere este Capítulo:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+310.- No causan los derechos a que se refiere este capítulo:
 
 I.- La legalización de firmas y la expedición de certificados o certificaciones en los procesos civiles, penales y laborales, que lleven a cabo los tribunales judiciales o del trabajo;
 
-II.- Los certificados y copias certificadas de documentos pertenecientes a personas pobres de solemnidad, a juicio del Ejecutivo;
+II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1975)
 
 III.- La legalización de firmas y la expedición de certificados y certificaciones solicitadas por las Dependencias de la Federación, Estado o Municipios, para asuntos oficiales de su competencia, siempre que la solicitud no implique relevo de la obligación a cargo de un particular para exhibir el documento respectivo;
 
@@ -3081,7 +3119,9 @@ VIII.- Los certificados o copias certificadas del Registro Público de la Propie
 
 IX.- La inscripción en el Registro Público de la Propiedad de las resoluciones Presidenciales sobre dotación o restitución de Ejidos, y
 
-X.- Las inscripciones preventivas a que se refiere el artículo 295 del Código Administrativo.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+X.- Las inscripciones preventivas a que se refiere el artículo 309 del Código Administrativo.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
@@ -3339,9 +3379,11 @@ Cuando se haya iniciado el juicio de oposición o interpuesto los recursos que p
 
 ### CAPITULO I. MEDIOS DE IMPUGNACION
 
-394.- Los actos en materia fiscal pueden impugnarse mediante los recursos de revisión y reconsideración o por medio de juicio de oposición promovido ante la autoridad judicial, pudiendo elegirse cualquiera de esos medios. La resolución que se dicte en los recursos administrativos será también impugnable en el juicio de oposición.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
-Tratándose de nulidad de notificaciones, tercerías, prescripción y caducidad, es obligatorio para el particular agotar los procedimientos respectivos antes de iniciar el recurso o el juicio. Contra la resolución del caso previsto en el Artículo 127 sólo procederá el juicio de oposición.
+394.- Los actos en materia fiscal pueden impugnarse mediante los recursos de revisión y reconsideración o por medio del juicio de oposición promovido ante la autoridad judicial, pudiendo elegirse cualquiera de esos medios. La resolución que se dicte en los recursos administrativos será también impugnable en el juicio de oposición.
+
+Tratándose de nulidad de notificaciones, tercerías, prescripción y caducidad, es obligatorio para el particular agotar los procedimientos respectivos antes de iniciar el recurso o el juicio.
 
 El Tesorero General igualmente podrá impugnar mediante juicio de oposición, las resoluciones de las autoridades fiscales que hayan sido favorables a los particulares.
 
@@ -3425,11 +3467,11 @@ Cuando el deudor haga pago de su adeudo en la caja de la oficina recaudadora, se
 
 En los casos en que se ignore el domicilio del deudor; se encuentre fuera del Estado sin haber dejado representante legal acreditado ante las autoridades fiscales correspondientes; o hubiere fallecido y no tenga representante legal su sucesión; o se ignore quien es o donde tenga su domicilio, sin perjuicio de que las notificaciones que deban hacérsele en los términos que dispone el artículo 320, el requerimiento y, en su caso, el embargo, se entenderá con la autoridad municipal del lugar.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
-337.- El Tesorero General del Estado o el Jefe de la Oficina Recaudadora podrán ordenar que se practique embargo precautorio en el acto mismo de la notificación, siempre que hubiera peligro de que se ausente el deudor o de que enajene y oculte sus bienes, cuando se trate de exigir cualquier crédito fiscal.
+337.- El Tesorero General del Estado o el Jefe de la Oficina Recaudadora podrá ordenar que se practique embargo precautorio siempre que hubiere peligro de que se ausente el deudor o de que enajene u oculte sus bienes, cuando se trate de exigir cualquier crédito fiscal.
 
-La providencia para practicar este embargo se incluirá en forma expresa en el oficio de notificación.
+Las citadas autoridades deberán iniciar el procedimiento tendiente a determinar y liquidar el crédito en un plazo que no excederá de 30 días.
 
 338.- El deudor o la persona con quien se entienda la diligencia tendrá derecho a señalar los bienes que deban embargarse, en el orden siguiente:
 
@@ -3487,7 +3529,9 @@ X.- Las servidumbres, cuando no se embargue también el fundo en cuyo favor est�
 
 XI.- La renta vitalicia y la pensión alimenticia, en los términos establecidos en el Código Civil.
 
-XII.- Los ejidos de los pueblos y la parcela individual que en su fraccionamiento haya correspondido a cada ejidatario, pero no las cosechas o animales que pertenezcan personalmente a los ejidatarios, en los términos del Artículo 196 del Código Agrario.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+XII.- La producción agrícola ejidal sólo será embargable en los términos del artículo 106 fracciones VII y VIII de la Ley Federal de Reforma Agraria.
 
 XIII.- El salario mínimo de los trabajadores.
 
@@ -3691,11 +3735,15 @@ III.- En caso de posturas o pujas iguales, por la cantidad en que se haya produc
 
 La adjudicación regulada en este artículo, sólo será válida si la aprueba el Tesorero General del Estado.
 
-378.- Cuando no se hubiere fincado el remate en la primera almoneda, se fijará nueva fecha y hora para que, dentro de los treinta días siguientes, se lleve a cabo una segunda almoneda, cuya convocatoria se hará en los términos del artículo 361 con la salvedad de que la publicación se hará por una sola vez.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
-La base para el remate en la segunda almoneda se determinará deduciendo un 20% de la señalada para la primera.
+378.- Cuando no se hubiere fincado el remate en la Primera Almoneda, se fijará nueva fecha y hora para que, dentro de los treinta días siguientes se lleve a cabo una Segunda Almoneda, cuya convocatoria se hará en los términos del artículo 361 con la salvedad de que la publicación se hará por una sola vez.
 
-Si tampoco se fincare el remate en la segunda almoneda, se convocará a una tercera, conforme a las mismas reglas que la segunda. La base para el remate en tercera almoneda se hará sin sujeción a tipo.
+La base para el remate en la Segunda Almoneda se determinará deduciendo un 20% de la señalada para la primera.
+
+Si tampoco se fincare el remate en la Segunda Almoneda, se convocará a una tercera, conforme a las mismas reglas que la segunda.
+
+La base para el remate en Tercera Almoneda será el 20% menos del señalado para la segunda.
 
 379.- Las cantidades excedentes después de haber hecho la aplicación del producto del remate, venta fuera de subasta o adjudicación de los bienes secuestrados, se entregarán al embargado, salvo que medie orden escrita de autoridad competente o que el propio embargado acepte, también por escrito, que se haga entrega total o parcial del saldo a un tercero.
 
@@ -3705,7 +3753,11 @@ Cuando se trate de bienes raíces o de bienes muebles que habiendo salido a suba
 
 También procederá la venta fuera de subasta, cuando el embargado señale al presunto comprador y acepte el precio que dicho comprador proponga, siempre que lo que se pague de contado cubra cuando menos la totalidad de los créditos fiscales. Sin embargo si en el certificado de gravámenes aparecieren terceros, será indispensable su consentimiento para la enajenación.
 
-381.- Las disposiciones del Código de Procedimientos Civiles del Estado, relativas a remates, serán aplicables supletoriamente a lo dispuesto en el presente Código.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+381.- Las disposiciones del Código de Procedimientos Civiles del Estado, relativas a remate, serán aplicables supletoriamente a lo dispuesto en el presente Código.
+
+En caso de que los deudores de prestaciones fiscales tengan su residencia fuera del Estado, podrá el Tesorero General hacer efectivos los créditos fiscales mediante juicio ejecutivo civil que promoverá ante los Juzgados de Primera Instancia Civiles de la Ciudad de Chihuahua. En estos casos, la liquidación que formule la autoridad fiscal, se considerará un título ejecutivo.
 
 #### SECCION TERCERA. TERCERIAS
 
@@ -3911,7 +3963,9 @@ IV.- En los demás casos en que por disposición legal haya impedimento para emi
 
 #### SECCION CUARTA. DEMANDA
 
-414.- La demanda deberá presentarse directamente al Tribunal de Justicia o enviarse por correo certificado, dentro de los quince días siguientes al en que surta efectos la notificación del acto impugnado. Cuando la notificación no sea necesaria el plazo contará a partir del día siguiente al en que se haya practicado el requerimiento de pago.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+414.- La demanda deberá presentarse directamente al Tribunal de Justicia o enviarse por correo certificado dentro de los quince días siguientes al en que surta efectos la notificación del acto impugnado, al en que haya tenido conocimiento de ellos ó de su ejecución o al en que se hubiese ostentado sabedor de los mismos. Cuando la notificación no sea necesaria, el plazo contará a partir del día siguiente al en que se haya practicado el requerimiento de pago.
 
 En los casos de negativa ficta, el interesado no está obligado a interponer la demanda dentro del término a que se refiere este artículo, pudiendo presentarla en cualquier tiempo mientras no se dicte resolución expresa y siempre que haya transcurrido el término respectivo.
 
@@ -4197,15 +4251,19 @@ II.- Las personas físicas que construyan o adquieran viviendas destinadas a su 
 
 III.- El Instituto Nacional para el Desarrollo de la Comunidad Rural y de la Vivienda Popular;
 
-IV.- Los derechohabientes de Pensiones Civiles del Estado, de acuerdo con la ley que autorizó su creación.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+IV.- Los derechohabientes del Instituto del Fondo Nacional de la Vivienda para los Trabajadores con financiamiento de dicha Institución.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
 484.- Para los efectos de este capítulo las viviendas populares se clasifican como sigue:
 
-I.- De precio mínimo, aquellas cuyo valor no exceda de $40,000.00;
+I.- De precio mínimo aquellas cuyo valor no exceda de $50,000.00.-
 
-II.- De precio bajo, aquellas cuyo valor no exceda de $80,000.00;
+II.- De precio bajo aquellas cuyo valor no exceda de $100,000.00.-
 
-III.- De precio medio, aquellas cuyo valor no exceda de $100,000.00;
+III.- De precio medio aquellas cuyo valor no exceda de $125,000.00.-
 
 Los valores anteriormente citados, incluyen el costo del terreno donde se edifique la habitación.
 
@@ -4217,7 +4275,9 @@ I.- Impuesto Predial;
 
 II.- Impuesto sobre Traslación de Dominio de Bienes Raíces;
 
-III.- Impuesto sobre Instrumentos Públicos y Privados;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+III.- Impuesto sobre Actos Jurídicos;
 
 IV.- Derechos por inscripción en el Registro Público de la Propiedad.
 
@@ -4408,3 +4468,7 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor en todo el Estado d
 P.O. 24 DE MAYO DE 1975.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1975.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor en todo el Estado de Chihuahua, el día 1o. de Enero de mil novecientos setenta y seis.
