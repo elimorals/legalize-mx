@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1992-04-01"
+last_updated: "1992-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1992.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -179,11 +179,11 @@ Los Partidos Políticos son entidades de interés público. La Ley determinará 
 
 Los Partidos Políticos Nacionales que hayan obtenido su registro definitivo podrán participar en las elecciones estatales y municipales.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1989)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1992)</small>
 
 ###### Art. 15.
 
-Corresponde al Gobierno del Estado la preparación, desarrollo y vigilancia de los procesos electorales. La Ley determinará los organismos que tendrán a su cargo esta función y la debida corresponsabilidad de los partidos políticos y de los ciudadanos; además establecerá los medios de impugnación para garantizar que los actos de los organismos electorales se ajusten a lo dispuesto por esta Constitución y la (sic) Leyes que de ella emanen; instituirá un Tribunal Estatal de lo Contencioso Electoral que tendrá la competencia que determine la Ley; las resoluciones del Tribunal tendrán efectos declarativos respecto a la existencia o inexistencia de violaciones cometidas durante la jornada electoral y sólo podrán ser modificadas por el Colegio Electoral del Congreso del Estado o de los Ayuntamientos, quienes serán la última instancia en la calificación de las elecciones.
+Corresponde al Gobierno del Estado la preparación, desarrollo y vigilancia de los procesos electorales. La Ley determinará los organismos que tendrán a su cargo esta función y la debida corresponsabilidad de los partidos políticos y de los ciudadanos; además establecerá los medios de impugnación para garantizar que los actos de los organismos electorales se ajusten a lo dispuesto por esta Constitución y las leyes que de ella emanen; instituirá un Tribunal Estatal Electoral que tendrá la competencia que determina la Ley, sus resoluciones serán de pleno derecho, darán definitividad a las distintas etapas preparatorias del proceso electoral y tendrán efectos decisivos y serán inatacables respecto a la existencia o inexistencia de violaciones cometidas durante la jornada electoral y sólo podrán ser modificadas por el Colegio Electoral del Congreso del Estado o de los Ayuntamientos, mediante el voto de las dos terceras partes de sus miembros presentes, quienes serán la última instancia en la calificación de las elecciones.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1989)</small>
 
@@ -2440,3 +2440,9 @@ P.O. 1 DE ABRIL DE 1992.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 1 DE JUNIO DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
