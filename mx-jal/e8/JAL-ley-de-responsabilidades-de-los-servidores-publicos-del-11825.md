@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2004-11-23"
+last_updated: "2004-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -999,13 +999,15 @@ II. La anual, durante los meses de enero a mayo de cada año, salvo que en ese m
 
 III. La final, dentro de los treinta días naturales siguientes a la conclusión del encargo.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
 ### Capítulo III. AUTORIDADES COMPETENTES PARA IMPONER SANCIONES ADMINISTRATIVAS
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 82.
 
-En caso de incumplimiento de las obligaciones consignadas en las fracciones I y II del artículo anterior, el órgano correspondiente requerirá por oficio al superior jerárquico del omiso para que conmine de inmediato al servidor público a cumplir con su obligación en un término de quince días naturales, contados a partir del momento en que sea requerido. Si transcurrido ese término no cumple con la apuntada obligación, se le instaurará el procedimiento de responsabilidad a que alude el artículo 69 de esta ley, pudiendo ser sancionado con la destitución o con inhabilitación hasta por un año.
+En caso de incumplimiento de las obligaciones consignadas en las fracciones I y II del artículo anterior, el órgano correspondiente requerirá por oficio al superior jerárquico del omiso para que conmine de inmediato al servidor público a cumplir con su obligación en un término de quince días naturales, contados a partir del momento en que sea requerido. Si transcurrido dicho término el superior jerárquico o el servidor público omiso no cumplen con su correspondiente obligación, se le instaurará el procedimiento de responsabilidad a que alude el artículo 69 de esta ley, pudiendo ser sancionado con la destitución o con inhabilitación hasta por un año.
 
 ###### Artículo 83.
 
@@ -1041,7 +1043,9 @@ b) Los ingresos obtenidos y egresos efectuados por todo el período de tiempo qu
 
 c) El estado que guarden las cuentas bancarias, valores, así como los gravámenes o adeudos.
 
-Los formatos bajo los cuales se deba rendir la información a que se refiere este artículo, establecerán la forma y detalle en que se deben realizar.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+Los formatos bajo los cuales se deba rendir la información a que se refiere este capítulo, establecerán la forma y detalle en que se deben realizar.
 
 ###### Artículo 86.
 
@@ -1174,3 +1178,7 @@ P.O. 21 DE SEPTIEMBRE DE 2004.
 P.O. 23 DE NOVIEMBRE DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 9 DE DICIEMBRE DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor el día 1º de enero de 2005, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
