@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1946-10-02"
+last_updated: "1947-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE OCTUBRE DE 1946.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE OCTUBRE DE 1947.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -317,11 +317,11 @@ El Congreso no puede abrir sus sesiones ni ejercer su cargo sin la concurrencia 
 
 El Congreso tendrá cada año dos períodos de sesiones ordinarias prorrogables por el tiempo que, según las necesidades del servicio público, acuerde el Congreso. El primero comenzará el día primero de enero y terminará el treinta y uno de marzo; y el segundo comenzará el día primero de julio y concluirá el treinta de septiembre.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 8 DE OCTUBRE DE 1947)</small>
 
 ###### Artículo 28.
 
-A la apertura del primer periodo de sesiones de cada año, asistirá el Gobernador del Estado y rendirá al Congreso un informe acerca de la situación que guarden los diversos Ramos de la Administración Pública. El Presidente del Congreso contestará en términos generales.
+El Congreso celebrará el día 31 de enero de cada año, sesión solemne, en la cual el Gobernador del Estado deberá comparecer a rendir un informe acerca de la situación que guarden los diversos ramos de la Administración Pública. El Presidente del Congreso contestará dicho informe en términos generales.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1336,6 +1336,10 @@ Esta Ley comenzará a regir el día siguiente al de su publicación en el "Diari
 D.O. 2 DE OCTUBRE DE 1946.
 
 ARTICULO SEGUNNDO (SIC).- Esta Ley comenzará a regir al día siguiente de su publicación en el Diario Oficial del Estado.
+
+D.O. 8 DE OCTUBRE DE 1947.
+
+Esta Ley comenzará a regir al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
 
 ###### ARTICULO UNICO.
 
