@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1979-03-10"
+last_updated: "1981-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 1981.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -137,7 +137,11 @@ III.- De los militares en servicio activo, el lugar en que están destinados;
 
 IV.- De los empleados públicos, el lugar donde desempeñan sus funciones más de seis meses. Los que por tiempo menor desempeñen alguna comisión, no adquirirán domicilio en el lugar donde la cumplen, sino que conservarán su domicilio anterior;
 
-V.- De los sentenciados a sufrir una pena privativa de la libertad por más de seis meses, la población en que la extingan, por lo que toca a las relaciones jurídicas posteriores a la condena; en cuanto a las relaciones anteriores, los sentenciados conservarán el último domicilio que hayan tenido.
+V.- De los sentenciados a sufrir una pena privativa de la libertad por más de seis meses, la población en que la extingan, por lo que toca a las relaciones jurídicas posteriores a la condena; en cuanto a las relaciones anteriores, los sentenciados conservarán el último domicilio que hayan tenido;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 1981)</small>
+
+VI.- De la familia, el de la ubicación del hogar, entendiéndose el lugar donde conviven los cónyuges y los hijos, si los hubiere.
 
 33.- Las personas morales tienen su domicilio en el lugar donde se halla establecida su administración.
 
@@ -175,7 +179,9 @@ Los libros originales y los documentos correspondientes quedarán en el archivo 
 
 44.- No podrá asentarse en las actas, ni por vía de nota o advertencia, sino lo que debe ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en la ley.
 
-45.- Cuando los interesados no puedan concurrir personalmente, podrán hacerse representar por un mandatario especial para el acto, cuyo nombramiento conste por lo menos en instrumento privado otorgado ante dos testigos. En los casos de matrimonio o de reconocimiento de sus hijos, se necesita poder otorgado en escritura pública o mandato extendido en escrito privado firmado por el otorgante y dos testigos y ratificadas las firmas ante Notario Público, Juez de Primera Instancia, Menor o de Paz.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+45.- Cuando los interesados no puedan concurrir personalmente, podrán hacerse presentar por un mandatario especial para el acto, cuyo nombramiento conste por lo menos en instrumento privado otorgado ante dos testigos. En los casos de matrimonio o de reconocimiento de hijos, se necesita poder otorgado en escritura pública o mandato extendido en escrito privado firmado por el otorgante y dos testigos y ratificadas las firmas ante Notario Público, Juez de Primera Instancia o de lo Familiar, Menor, o de Paz.
 
 46.- Los testigos que intervengan en las actas del Registro Civil, serán mayores de edad, prefiriéndose a los que designen los interesados, aún cuando sean sus parientes.
 
@@ -201,15 +207,21 @@ La infracción de este artículo será causa de responsabilidad para los agentes
 
 54.- Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil, en su oficina o en la casa donde aquél hubiere nacido.
 
-55.- Los padres tienen la obligación de declarar el nacimiento dentro de los sesenta días de ocurrido.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
 
-Los médicos, matronas o personas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al encargado del Registro Civil dentro de los diez días siguientes. La misma obligación tiene el jefe de familia, en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
+55.- Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos, a falta de éstos, los abuelos paternos y, en su defecto, los maternos, dentro de los seis meses siguientes a la fecha en que ocurrió aquél.
+
+Los médicos cirujanos o matronas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil, dentro de las veinticuatro horas siguientes. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
+
+Si el nacimiento tuviere lugar en un sanatorio particular o del Estado, la obligación a que se refiere el párrafo anterior, estará a cargo del Director o de la persona encargada de la administración.
 
 Recibido el aviso, el Oficial del Registro Civil tomará las medidas legales que sean necesarias a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
 
 56.- Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán castigadas con una multa de cinco a cincuenta pesos, que impondrá la autoridad municipal del lugar donde se haya hecho la declaración extemporánea de nacimiento.
 
-En la misma pena incurrirán las personas que no cumplan la obligación de dar el aviso prevenido en el párrafo segundo del artículo anterior.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+En la misma sanción incurrirán las personas que no cumplan la obligación de dar el aviso prevenido en los párrafos segundo y tercero del artículo anterior.
 
 57.- En las poblaciones en que no haya Oficial del Registro Civil, el niño deberá ser presentado a la persona que ejerza la autoridad administrativa o sea el representante del Ejecutivo y éste dará la constancia respectiva que los interesados llevarán al Oficial del Registro que corresponda para que asiente el acta.
 
@@ -227,11 +239,11 @@ Además de los nombres de los padres se hará constar en el acta de nacimiento s
 
 61.- Si el padre o la madre no pudieren concurrir ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos, la presencia del Oficial del Registro, éste pasará al lugar en que se halle el interesado, y allí recibirá de él la petición de que se mencione su nombre; todo lo cual se asentará en el acta.
 
-62.- Si el hijo fuere adulterino, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere; pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, a no ser que éste haya desconocido al hijo y exista sentencia ejecutoria que declare que no es hijo suyo.
+62.- (DEROGADO, P.O. 30 DE MAYO DE 1981)
 
 63.- Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá el Oficial del Registro asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
 
-64.- Podrá reconocer al hijo incestuoso. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta; pero en ella no expresará que el hijo es incestuoso.
+64.- (DEROGADO, P.O. 30 DE MAYO DE 1981)
 
 65.- Toda persona que encontrare un recién nacido, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarle al Oficial del Registro Civil, con los vestidos, papeles o cualesquiera otros objetos encontrados con él, y declarará el día y lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido.
 
@@ -249,19 +261,25 @@ Además de los nombres de los padres se hará constar en el acta de nacimiento s
 
 72.- En el acta de nacimiento de gemelos, el Oficial del Registro Civil hará constar las particularidades que los distingan y quien nació primero, según las noticias que le comuniquen el médico, la matrona o las personas que hayan asistido al parto.
 
-### CAPITULO III. DE LAS ACTAS DE RECONOCIMIENTO DE HIJOS NATURALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE MAYO DE 1981)</small>
 
-73.- Si el padre o la madre de un hijo natural, o ambos, lo reconocieren al presentarlo dentro del término de ley, para que se registre su nacimiento, el acta de éste contendrá los requisitos establecidos en los artículos anteriores, con expresión de ser el hijo natural, y de los nombres del progenitor que lo reconozca. Esta acta surtirá los efectos del reconocimiento legal.
+### CAPITULO III. DE LAS ACTAS DE RECONOCIMIENTO DE HIJOS
 
-74.- Si el reconocimiento del hijo natural se hiciere después de haber sido registrado su nacimiento, se formará acta separada en la que, además de los requisitos a que se refiere el artículo que precede, se observarán los siguientes, en sus respectivos casos:
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
 
-I.- Si el hijo es mayor de edad, se expresará en el acta su consentimiento para ser reconocido;
+73.- Si el padre o la madre de un hijo, o ambos, lo reconocieren al presentarlo dentro del término de ley para que se registre su nacimiento, el acta de éste contendrá los requisitos establecidos en los artículos anteriores y los nombres del progenitor que lo reconozca. Esta acta surtirá los efectos del reconocimiento legal.
 
-II.- Si el hijo es menor de edad, pero mayor de catorce años, se expresará su consentimiento y el de su tutor;
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
 
-III.- Si el hijo es menor de catorce años, se expresará sólo el consentimiento del tutor.
+74.- Si el reconocimiento del hijo se hiciere después de haber sido registrado su nacimiento, se formará acta separada en la que, además de los requisitos a que se refiere el artículo que precede, se observarán los siguientes, en sus respectivos casos:
 
-75.- Lo dispuesto en el artículo anterior se observará también cuando se haya omitido la presentación para el registro del nacimiento del hijo natural, o esa presentación se haya hecho después del término de la ley.
+I.- Si el hijo es mayor de catorce años se expresará su consentimiento para ser reconocido.
+
+II.- Si el hijo es menor de catorce años se expresará el consentimiento de quien ejerza la patria potestad, o en su caso, la tutela.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+75.- Lo dispuesto en el artículo anterior se observará también cuando se haya omitido la presentación para el registro del nacimiento del hijo, o esa presentación se haya hecho después del término de ley.
 
 76.- Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará dentro del término de quince días, al encargado del Registro el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento, observándose las demás prescripciones contenidas en este capítulo y en el capítulo IV, del Título Séptimo de este Libro.
 
@@ -273,7 +291,9 @@ III.- Si el hijo es menor de catorce años, se expresará sólo el consentimient
 
 ### CAPITULO IV. DE LAS ACTAS DE ADOPCION
 
-80.- Dictada la resolución judicial definitiva que autorice la adopción, el adoptante, dentro del término de ocho días, presentará al Oficial del Registro Civil copia certificada de las diligencias relativas, a fin de que se levante el acta correspondiente.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+80.- Dictada la resolución judicial definitiva que autorice la adopción, el Tribunal, dentro del término de ocho días remitirá al Oficial del Registro Civil copia certificada de las diligencias relativas, a fin de que se levante el acta correspondiente.
 
 81.- La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el artículo 77.
 
@@ -285,7 +305,9 @@ III.- Si el hijo es menor de catorce años, se expresará sólo el consentimient
 
 ### CAPITULO V. DE LAS ACTAS DE TUTELA
 
-85.- Pronunciado el auto de discernimiento de la tutela y publicado en los términos que disponga el Código de Procedimientos Civiles, el tutor, dentro de setenta y dos horas de hecha la publicación, presentará copia certificada del auto mencionado al Oficial del Registro Civil, para que levante el acta respectiva. El curador cuidará del cumplimiento de este artículo.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+85.- Pronunciado el auto de discernimiento de la tutela y publicado en los términos que disponga el Código de Procedimientos Civiles, el Tribunal, dentro del término de ocho días de hecha la publicación, remitirá copia certificada del auto mencionado al Oficial del Registro Civil, para que levante el acta respectiva.
 
 86.- La omisión del registro de tutela no impide al tutor entrar en ejercicio de su cargo, ni puede alegarse por ninguna persona como causa para dejar de tratar con él; pero hace responsable al tutor y al curador en los términos que establece el artículo 77.
 
@@ -329,7 +351,9 @@ Este escrito deberá ser firmado por los solicitantes y si alguno no pudiere o n
 
 94.- Al escrito al que se refiere el artículo anterior, se acompañará:
 
-I.- El acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que el varón es mayor de 16 años y la mujer mayor de 14.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 1981)</small>
+
+I.- Copia certificada del acta de nacimiento de los pretendientes y en su defecto dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que el varón es mayor de dieciséis años y la mujer mayor de catorce.
 
 II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 137, 138 y 139.
 
@@ -341,7 +365,11 @@ Si de acuerdo con lo dispuesto en el artículo 173 fuere necesario que las capit
 
 V.- Copia certificada del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente.
 
-VI.- Copia certificada de la dispensa de impedimento si los hubo.
+VI.- Copia certificada de la dispensa de impedimento si los hubo;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 1981)</small>
+
+VII.- Constancia expedida por Institución Médica Oficial o Privada o bien por médico o enfermera autorizados, en que se acredite haber recibido orientación sobre planificación familiar, con el objeto de que los futuros contrayentes estén en condiciones de decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos, de conformidad con el segundo párrafo del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos.
 
 95.- En el caso de que los pretendientes, por falta de conocimientos, no puedan redactar el convenio a que se refiere la fracción IV del artículo anterior, tendrá obligación de redactarlo el Oficial del Registro Civil, con los datos que los mismos pretendientes le suministren.
 
@@ -352,6 +380,10 @@ VI.- Copia certificada de la dispensa de impedimento si los hubo.
 98.- En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes ante el Oficial del Registro Civil, los pretendientes o su apoderado especial constituido en la forma prevenida en el artículo 45 y dos testigos por cada uno de ellos, que acrediten su identidad.
 
 Acto continuo, el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la Ley y de la sociedad.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 1981)</small>
+
+Inmediatamente después, en los términos redactados y aprobados por el Organo Superior correspondiente, les hará saber la importancia de recibir orientación sobre la planificación de la familia, con el objeto de que estén en condiciones de decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos, de conformidad con el segundo párrafo del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos.
 
 99.- Se levantará luego el acta de matrimonio en la cual se hará constar:
 
@@ -371,19 +403,29 @@ VII.- La manifestación de los cónyuges de que contraen matrimonio bajo el rég
 
 VIII.- Los nombres, apellidos, edad, estado, ocupación y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes, y si lo son, en qué grado y en qué línea;
 
-IX.- Que se cumplieron las formalidades exigidas por el artículo anterior.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 1981)</small>
 
-El acta será firmada por el Oficial del Registro Civil, los contrayentes, los testigos y las demás personas que hubieren intervenido si supieren y pudieren hacerlo.
+IX.- Que se cumplieron las formalidades exigidas por el artículo anterior y las señaladas en la fracción VII del artículo 94 de este Ordenamiento.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+El Encargado del Registro Civil tendrá obligación de anotar las actas de nacimiento de los contrayentes, asentando la razón de que han contraído matrimonio. Si el matrimonio se hubiere asentado en Oficina distinta a aquélla en que se levantó el acta de nacimiento, el Encargado del Registro Civil que autoriza el matrimonio remitirá copia del acta relativa al Encargado de la Oficina que haya registrado el nacimiento para que se haga la anotación marginal correspondiente.
 
 100.- Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
 
-101.- El Oficial del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio levantará un acta, ante los testigos en la que hará constar los datos que le hagan suponer que existe el impedimento. Cuando haya denuncia se expresará en el acta el nombre, edad, ocupación, estado y domicilio del denunciante insertándose al pie de la letra la denuncia. El acta firmada por los que en ella intervinieron, será remitida al Juez de Primera Instancia que corresponda, para que haga la calificación del impedimento.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+101.- El Oficial del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio levantará una acta, ante dos testigos, en la que hará constar los datos que le hagan suponer que existe el impedimento. Cuando haya denuncia se expresará en el acta el nombre, edad, ocupación, estado y domicilio del denunciante insertándose al pie de la letra la denuncia. El acta firmada por los que en ella intervinieron, será remitida al Juez de Primera Instancia o de lo Familiar que corresponda, para que se haga la calificación del impedimento.
 
 102.- Las denuncias de impedimento pueden hacerse por cualquiera persona. Las que sean falsas sujetan al denunciante a las medidas de defensa social establecidas para el falso testimonio en materia civil. Siempre que se declare no haber impedimento el denunciante será condenado al pago de las costas, daños y perjuicios.
 
-103.- Antes de remitir el acta al Juez de Primera Instancia, el Oficial del Registro Civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
 
-104.- Las denuncias anónimas o hechas por cualquiera otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas. En este caso, el Oficial del Registro Civil dará cuenta a la autoridad judicial de Primera Instancia que corresponda, y suspenderá todo procedimiento hasta que ésta resuelva.
+103.- Antes de remitir el acta al Juez de Primera Instancia o de lo Familiar, el Oficial del Registro Civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+104.- Las denuncias anónimas o hechas por cualquier otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas. En este caso, el Oficial del Registro Civil dará cuenta al Juez de Primera Instancia o de lo Familiar que corresponda, y suspenderá todo procedimiento hasta que éste resuelva.
 
 105.- Denunciado un impedimento, el matrimonio no podrá celebrarse aunque el denunciante se desista, mientras no recaiga sentencia judicial que declare su inexistencia o se obtenga dispensa de él.
 
@@ -397,6 +439,10 @@ El acta será firmada por el Oficial del Registro Civil, los contrayentes, los t
 
 También podrá exigir declaración bajo protesta a los testigos que los interesados presenten y a las personas que figuren como padres o tutores de los pretendientes.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 1981)</small>
+
+Cuando el Encargado del Registro Civil tuviere conocimiento que los contrayentes procrearon hijos, les hará saber el contenido de los artículos 331 y 332 de este Código.
+
 ### CAPITULO VIII. DE LAS ACTAS DE DIVORCIO
 
 110.- La sentencia ejecutoria que decrete un divorcio se remitirá en copia certificada al Oficial del Registro Civil para que levante el acta correspondiente.
@@ -407,7 +453,9 @@ También podrá exigir declaración bajo protesta a los testigos que los interes
 
 ### CAPITULO IX. DE LAS ACTAS DE DEFUNCION
 
-113.- Ninguna inhumación se hará sin autorización escrita dada por el Oficial del Registro Civil, quien se asegurará suficientemente del fallecimiento. No se procederá a la inhumación sino hasta después de que transcurran veinticuatro horas del fallecimiento excepto en los casos en que se ordene otra cosa por la autoridad que corresponda.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+113.- Ninguna inhumación se hará sin autorización escrita del Oficial del Registro Civil, quien se asegurará del fallecimiento. Toda inhumación se hará dentro del término que establezca la Legislación Sanitaria Federal.
 
 114.- En el acta de fallecimiento se asentarán los datos que el Oficial del Registro Civil obtenga, o la declaración que se le haga y será firmada por dos testigos prefiriéndose para el caso los parientes, si los hay, o los vecinos. Si la persona ha muerto fuera de su habitación, uno de los testigos será aquel en cuya casa se haya verificado el fallecimiento, o alguno de los vecinos más inmediatos.
 
@@ -439,7 +487,7 @@ VI.- La hora de la muerte, si se supiere, y todos los informes que se tengan en 
 
 122.- El jefe de cualquier cuerpo o destacamento militar tiene obligación de dar parte al Oficial del Registro Civil, de los muertos que haya habido en campaña, o en otro acto del servicio, especificándose la filiación; el Oficial del Registro Civil observará en este caso lo dispuesto en el artículo anterior.
 
-123.- Los tribunales cuidarán de remitir dentro de las veinticuatro horas siguientes a la ejecución de la sentencia de muerte una noticia al Oficial del Registro Civil del lugar donde se haya verificado la ejecución. Esta noticia contendrá el nombre, apellido, edad, estado y ocupación que tuvo el ejecutado
+123.- (DEROGADO, P.O. 30 DE MAYO DE 1981)
 
 124.- En todos los casos de muerte violenta en las prisiones, no se hará en los registros mención de esta circunstancia y las actas solamente contendrán los demás requisitos que prescribe el artículo 115.
 
@@ -489,7 +537,9 @@ IV.- Los que según los artículos 325, 326 y 327 pueden continuar o intentar la
 
 137.- El hijo o hija que no hayan cumplido dieciocho años no pueden contraer matrimonio sin consentimiento de sus padres, si vivieran ambos, o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; o en su defecto se requiere el consentimiento de los abuelos maternos o del que sobreviva.
 
-138.- Faltando padres y abuelos, se necesita el consentimiento de los tutores; en defecto de éstos, el Juez de Primera Instancia de la residencia del menor suplirá el consentimiento.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+138.- Faltando padres y abuelos, se necesita el consentimiento de los tutores; en defecto de éstos, el Juez de Primera Instancia o de lo Familiar de la residencia del menor suplirá el consentimiento.
 
 139.- Los interesados pueden ocurrir al Presidente Municipal respectivo, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. La autoridad mencionada, después de levantar una información sobre el particular, suplirá o no el consentimiento.
 
@@ -539,9 +589,13 @@ Esta prohibición comprende también al curador y a los descendientes de éste y
 
 149.- Los cónyuges están obligados a contribuir cada uno por su parte a los fines del matrimonio y a socorrerse mutuamente.
 
-150.- La mujer debe vivir al lado de su marido. Los Tribunales, con conocimiento de causa, eximirán a la mujer de esta obligación cuando el marido traslade su domicilio a país extranjero, a no ser que lo haga en servicio de la patria, o cuando se establezca en un lugar insalubre o indecoroso.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
 
-151.- El marido debe dar alimentos a la mujer y hacer todos los gastos necesarios para el sostenimiento del hogar; pero si la mujer tuviere bienes propios o desempeñare algún trabajo, o ejerciere alguna profesión, oficio o comercio, deberá también contribuir para los gastos de la familia, siempre que la parte que le corresponda no exceda de la mitad de dichos gastos, a no ser que el marido estuviere imposibilitado para trabajar y careciere de bienes propios, pues entonces todos los gastos serán de cuenta de la mujer y se cubrirán con bienes de ella.
+150.- Mujer y marido deberán residir en el domicilio familiar. Los Tribunales de Primera Instancia o de lo Familiar eximirán de esta obligación, por causa justificada.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+151.- El marido debe dar alimentos a la familia y hacer todos los gastos necesarios para el sostenimiento del hogar; pero si la mujer tuviere bienes propios o desempeñare algún trabajo, o ejerciere alguna profesión, oficio o comercio, deberá también contribuir para los gastos de la familia, siempre que la parte que le corresponda no exceda de la mitad de dichos gastos, a no ser que el marido estuviere imposibilitado para trabajar y careciere de bienes propios, pues entonces todos los gastos serán de cuenta de la mujer y se cubrirán con bienes de ella.
 
 152.- La mujer tendrá siempre derecho preferente sobre los productos de los bienes del marido y sobre sus sueldos, salarios o emolumentos, por las cantidades que correspondan para alimentación de ella y de sus hijos menores. También tendrá derecho preferente sobre los bienes propios del marido para la satisfacción del mismo objeto. La mujer puede pedir el aseguramiento de bienes para hacer efectivos estos derechos.
 
@@ -549,27 +603,27 @@ Esta prohibición comprende también al curador y a los descendientes de éste y
 
 154.- El marido y la mujer tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, de común acuerdo arreglarán todo lo relativo a la educación y establecimiento de los hijos y la administración de los bienes que a estos pertenezcan.
 
-En caso de que el marido y la mujer no estuvieren conformes sobre alguno de los puntos indicados, el Juez de lo Civil correspondiente procurará avenirlos, y si no lo lograre, resolverá, sin forma de juicio, lo que fuere más conveniente a los intereses de los hijos.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
 
-155.- Estará a cargo de la mujer la dirección y cuidado de los trabajos del hogar.
+En caso de que el marido y la mujer no estuvieren conformes sobre alguno de los puntos indicados, el Juez de Primera Instancia o de lo Familiar correspondiente procurará avenirlos, y si no lo lograre, resolverá lo que fuere más conveniente a los intereses de los hijos.
 
-156.- La mujer podrá desempeñar un empleo, ejercer una profesión, industria, comercio u oficio, cuando ello no perjudique a la misión que le impone el artículo anterior.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
 
-157.- El marido podrá oponerse a que la mujer se dedique a las actividades a que se refiere el artículo anterior, siempre que subvenga a todas las necesidades del hogar y funde la oposición en causas graves y justificadas.
+155.- Estará a cargo de los cónyuges la dirección y administración del hogar, pudiendo ésta quedar a cargo de uno de ellos. La mujer podrá desempeñar cualquier trabajo que le acomode, siendo lícito.
 
-158.- En caso de que la mujer insista en usar de los derechos que le concede el artículo 156, no obstante de que el marido se los rehuse apoyado en lo dispuesto en el artículo anterior, el Juez respectivo resolverá lo que sea procedente.
+156.- (DEROGADO, P.O. 30 DE MAYO DE 1981)
+
+157.- (DEROGADO, P.O. 30 DE MAYO DE 1981)
+
+158.- (DEROGADO, P.O. 30 DE MAYO DE 1981)
 
 159.- El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa ni ésta de la autorización de aquél salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
 
 160.- El marido y la mujer, menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
 
-161.- La mujer necesita autorización judicial para contratar con su marido excepto cuando el contrato que celebre sea el de mandato.
+161.- (DEROGADO, P.O. 30 DE MAYO DE 1981)
 
-162.- También se requiere autorización judicial para que la mujer sea fiadora de su marido o se obligue solidariamente con él, en asuntos que sean del interés exclusivo de éste.
-
-La autorización, en los casos a que se refieren los dos artículos anteriores, no se concederá cuando notoriamente resulten perjudicados los intereses de la mujer.
-
-Esta no necesita autorización judicial para otorgar fianza a fin de que su esposo obtenga la libertad.
+162.- (DEROGADO, P.O. 30 DE MAYO DE 1981)
 
 163.- El contrato de compraventa sólo puede celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes.
 
@@ -591,7 +645,9 @@ DISPOSICIONES GENERALES
 
 ### CAPITULO IV. DE LA SOCIEDAD CONYUGAL
 
-170.- La sociedad conyugal se regirá por las capitulaciones matrimoniales que la constituyan y en lo que no estuviere expresamente estipulado o cuando no existieren, por las disposiciones de este Capítulo o, en su defecto, por las relativas al contrato de sociedad. La administración de los bienes de la sociedad conyugal estará a cargo del cónyuge que para el efecto se designe en las capitulaciones. Si se omitiere esta designación, o no existen las capitulaciones, el administrador será el marido, salvo que se determine otra cosa por sentencia, en casos de ausencia, impedimento o abandono injustificado del domicilio conyugal, por más de seis meses. El cónyuge administrador, podrá enajenar o gravar los bienes muebles de la sociedad, sin el consentimiento del otro cónyuge.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+170.- La sociedad conyugal se regirá por las capitulaciones matrimoniales que la constituyan y en lo que no estuviere expresamente estipulado o cuando no existieren, por las disposiciones de este Capítulo o, en su defecto, por las relativas al contrato de sociedad. La administración de los bienes de la sociedad conyugal estará a cargo del cónyuge que para el efecto se designe en las capitulaciones. Si se omitiere esta designación, o no existen las capitulaciones, el administrador será el marido, salvo que se determine otra cosa por sentencia, en casos de ausencia, impedimento o abandono injustificado del domicilio familiar, por más de seis meses. El cónyuge administrador podrá enajenar o gravar los bienes muebles de la sociedad, sin el consentimiento del otro cónyuge.
 
 171.- La sociedad conyugal nace al celebrarse el matrimonio o durante él. Puede comprender no sólo los bienes de que sean dueños los esposos al formarla, sino también los bienes futuros que adquieran los consortes.
 
@@ -645,13 +701,17 @@ IX.- Las bases para liquidar la sociedad.
 
 184.- El abandono injustificado por más de seis meses del domicilio conyugal por uno de los cónyuges, hace cesar para él desde el día del abandono los efectos de la sociedad conyugal en cuanto le favorezcan; éstos no podrán comenzar de nuevo sino por convenio expreso.
 
-185.- La sociedad conyugal termina por la disolución del matrimonio, por la voluntad de los consortes, por la sentencia que declare la presunción de muerte del cónyuge ausente y en los casos previstos en el artículo 177.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+185.- La sociedad conyugal termina por la disolución del matrimonio, por la voluntad de los consortes, por la sentencia que declare la presunción de muerte del cónyuge ausente y en los casos previstos en el artículo 176.
 
 186.- En los casos de nulidad, la sociedad se considera subsistente hasta que se pronuncie sentencia ejecutoria, si los dos cónyuges procedieron de buena fe.
 
 187.- Cuando uno solo de los cónyuges tuvo buena fe, la sociedad subsistirá también hasta que cause ejecutoria la sentencia, si la continuación es favorable al cónyuge inocente; en caso contrario se considerará nula desde un principio.
 
-188.- Si los dos cónyuges procedieron de mala fe, la sociedad se considera nula desde la celebración del matrimonio, quedando en todo caso a salvo los derechos que un tercero tuviere contra el fondo social.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+188.- Si los dos cónyuges procedieron de mala fe, la sociedad se considerará nula desde su celebración, quedando en todo caso a salvo los derechos que un tercero tuviere contra el fondo social.
 
 189.- Si la disolución de la sociedad procede de nulidad de matrimonio, el consorte que hubiere obrado de mala fe no tendrá parte en las utilidades. Estas se aplicarán a los hijos, y si no los hubiere, al cónyuge inocente.
 
@@ -783,7 +843,9 @@ La acción que nace de estas causas de nulidad sólo puede deducirse por el cón
 
 236.- El vínculo de un matrimonio anterior, existente al tiempo de contraerse el segundo, anula éste aunque se contraiga de buena fe, creyéndose fundadamente que el consorte anterior había muerto. La acción que nace de esta causa de nulidad puede deducirse por el cónyuge del primer matrimonio, por sus hijos o herederos, y por los cónyuges que contrajeron el segundo. No deduciéndola ninguna de las personas mencionadas, la deducirá el Ministerio Público.
 
-237.- La nulidad que se funde en la falta de formalidades esenciales para la validez del matrimonio, puede alegarse por los cónyuges y por cualquiera que tenga interés en probar que no hay matrimonio. También podrá declararse esa nulidad a instancia del Ministerio Público.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+237.- La nulidad que se funde en la falta de formalidades esenciales para la validez del matrimonio, puede alegarse por los cónyuges y por cualquiera que tenga interés en probarla. También podrá declararse a instancia del Ministerio Público.
 
 238.- No se admitirá demanda de nulidad por falta de solemnidades en el acta de matrimonio celebrado ante el Oficial del Registro Civil, cuando a la existencia del acta se una la posesión de estado matrimonial.
 
@@ -867,19 +929,29 @@ VI.- La violencia física o moral hecha por un cónyuge al otro para que cometa 
 
 VII.- Los actos de los cónyuges ejecutados con el fin de corromper a sus hijos así como la tolerancia de dicha corrupción;
 
-VIII.- La sevicia, las amenazas, las injurias graves, o los malos tratamientos de un cónyuge para el otro;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 1981)</small>
 
-IX.- Cometer, uno de los esposos, contra la persona o los bienes del otro, un acto que sería punible si se tratare de persona extraña, siempre que tal acto tenga señalada en la ley una medida de defensa social mayor de un año;
+VIII.- La sevicia, las amenazas y las injurias graves de un cónyuge para el otro;
 
-X.- La acusación calumniosa hecha por un cónyuge en contra del otro, por una infracción antisocial que merezca la sanción a que se refiere la fracción anterior;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 1981)</small>
 
-XI.- Haber cometido uno de los cónyuges una infracción antisocial infamante por la cual tenga que sufrir una medida de defensa social mayor de dos años, siempre que el otro no hubiere tenido participación en su comisión;
+IX.- Cometer uno de los cónyuges contra la persona del otro un acto que sería punible si se tratare de persona extraña;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 1981)</small>
+
+X.- La acusación calumniosa hecha por un cónyuge en contra del otro por la comisión de un delito;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 1981)</small>
+
+XI.- Haber cometido uno de los cónyuges un delito infamante, siempre que el otro no haya tenido participación en su comisión;
 
 XII.- La impotencia o la esterilidad incurables;
 
 XIII.- La enajenación mental;
 
-XIV.- Padecer uno de los cónyuges cualquier enfermedad crónica o incurable si es además contagiosa o hereditaria.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 1981)</small>
+
+XIV.- Padecer cualquiera de los cónyuges alguna enfermedad crónica e incurable que sea además contagiosa o hereditaria;
 
 XV.- El vicio del juego o de la embriaguez o el uso continuo de drogas enervantes;
 
@@ -891,7 +963,9 @@ XVIII.- La negativa de uno de los cónyuges a ministrar al otro los alimentos qu
 
 XIX.- La incompatibilidad de caracteres.
 
-257.- Los cónyuges divorciados podrán contraer nuevo matrimonio inmediatamente después de obtenido el divorcio; pero la mujer no podrá hacerlo si no tuviere trescientos días de separada físicamente de su esposo.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+257.- Los cónyuges divorciados podrán contraer nuevo matrimonio inmediatamente después de obtenido el divorcio; pero la mujer no podrá hacerlo si no tuviere trescientos días de separada físicamente de su esposo, o mediare examen médico que acredite que no está embarazada.
 
 258.- Las acciones de divorcio no podrán ejercitarse cuando haya mediado el perdón expreso o tácito debidamente comprobado.
 
@@ -903,7 +977,9 @@ XIX.- La incompatibilidad de caracteres.
 
 262.- El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijos.
 
-263.- El cónyuge inocente, cuando carezca de bienes propios bastantes para atender a su subsistencia, podrá exigir del culpable una pensión alimenticia independiente de la que corresponda a los hijos menores que tenga a su cuidado.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+263.- El cónyuge inocente, cuando carezca de bienes propios bastantes para atender a su subsistencia, podrá exigir del culpable una pensión alimenticia independiente de la que corresponda a los hijos menores o incapacitados que tenga a su cuidado.
 
 264.- El derecho a los alimentos cesará por muerte del que los recibe o por contraer la mujer nuevo matrimonio u observar mala conducta.
 
@@ -945,6 +1021,18 @@ El marido, en todo caso, sólo tendrá derecho a alimentos cuando esté imposibi
 
 279.- Los cónyuges deben darse alimentos. Las leyes determinarán cuándo queda subsistente esta obligación en los casos de disolución del matrimonio.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 1981)</small>
+
+El hombre tendrá obligación de proporcionar alimentos a la mujer con quien ha vivido como si fuera su esposa durante los últimos cinco años, o bien, con la que tenga hijos, siempre que ella permanezca libre de matrimonio y carezca de bienes propios para proveer a su subsistencia.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 1981)</small>
+
+En igual forma tendrán derecho de alimentos los hijos que de conformidad con el artículo 360 de este Código se presuma que han nacido de la mencionada unión si no han sido legalmente reconocidos.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 1981)</small>
+
+En caso de que fueren varias las concubinas, ninguna de ellas tendrá derecho a reclamar alimentos.
+
 280.- Los padres están obligados a dar alimentos a sus hijos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
 
 281.- Los hijos están obligados a dar alimentos a los padres, a falta o por imposibilidad de los hijos, lo están los descendientes más próximos en grado.
@@ -957,7 +1045,9 @@ Faltando los parientes a que se refieren las disposiciones anteriores, tienen ob
 
 284.- El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen el padre y los hijos.
 
-285.- Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad. Respecto de los menores los alimentos comprenden, además, los gastos necesarios para la educación primaria del alimentista, y para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+285.- Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad. Respecto de los menores los alimentos comprenden, además, los gastos necesarios para la educación primaria y secundaria o su equivalente y para proporcionarle algún oficio, arte o profesión lícitos y adecuados a su sexo y circunstancias personales.
 
 286.- El obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al Juez, según las circunstancias, fijar la manera de ministrar los alimentos.
 
@@ -989,6 +1079,10 @@ V.- El Ministerio Público.
 
 Durante la tramitación del juicio correspondiente, el Juez podrá decretar provisionalmente el pago de una pensión alimenticia a favor del acreedor alimentario, determinándola conforme a las necesidades de éste y a las posibilidades de quien debe otorgarla y establecer asimismo los medios que estime conducentes para el debido cumplimiento de tal medida.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 1981)</small>
+
+La pensión provisional alimenticia podrá ser modificada durante la tramitación del juicio, con base en el informe de la trabajadora social dependiente del Supremo Tribunal de Justicia del Estado, que de oficio se designará desde el auto que admita la demanda.
+
 295.- El tutor interino dará garantía por el importe anual de los alimentos. Si administrare algún fondo destinado a ese objeto, por él dará la garantía legal.
 
 296.- En los casos en que los que ejerzan la patria potestad gocen de la mitad del usufructo de los bienes del hijo, el importe de los alimentos se deducirá de dicha mitad, si ésta no alcanza a cubrirlos, el exceso será de cuenta de los que ejerzan la patria potestad.
@@ -1009,7 +1103,9 @@ V.- Si el alimentista, sin consentimiento del que debe dar los alimentos, abando
 
 299.- Cuando el marido no estuviere presente o estándolo rehusare entregar a la mujer lo necesario para los alimentos de ella y de los hijos, será responsable de las deudas que la esposa contraiga para cubrir esa exigencia; pero sólo en la cuantía estrictamente necesaria para ese objeto, y siempre que no se trate de gastos de lujo.
 
-300.- La esposa que, sin culpa suya, se vea obligada a vivir separada de su marido, podrá pedir al Juez de Primera Instancia del lugar de su residencia, que obligue a su esposo a darle alimentos durante la separación y a que le ministre todos los que haya dejado de darle desde que la abandonó. El Juez, según las circunstancias del caso, fijará la suma que el marido debe ministrar mensualmente dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el esposo pague los gastos que la mujer haya tenido que erogar con tal motivo.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+300.- La esposa que, sin culpa suya, se vea obligada a vivir separada de su marido, podrá pedir al Juez de Primera Instancia o de lo Familiar del lugar de su residencia, que obligue a su esposo a darle alimentos durante la separación y a que le ministre todos los que haya dejado de darle desde que la abandonó. El Juez, según las circunstancias del caso, fijará la suma que el marido debe ministrar periódicamente dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el esposo pague los gastos que la mujer haya tenido que erogar con tal motivo.
 
 ### CAPITULO I. DE LOS HIJOS DEL MATRIMONIO
 
@@ -1017,11 +1113,15 @@ V.- Si el alimentista, sin consentimiento del que debe dar los alimentos, abando
 
 I.- Los hijos nacidos después de 180 días contados desde la celebración del matrimonio;
 
-II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga ésta de nulidad del contrato, de muerte del marido o de divorcio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 1981)</small>
+
+II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga ésta de nulidad del contrato, de muerte del marido o de divorcio, salvo lo establecido en el artículo 257 de este Código. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
 
 302.- Contra esta presunción no se admite otra prueba que la de haber sido físicamente imposible al marido tener acceso carnal con su mujer, en los primeros 120 días de los 300 que han precedido al nacimiento.
 
-303.- El marido no podrá desconocer a los hijos, alegando adulterio de la madre, aunque ésta declare que no son hijos de su esposo, a no ser que el nacimiento se le haya ocultado, o que demuestre que durante los diez meses que precedieron al nacimiento no tuvo acceso carnal con su esposa.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+303.- El marido no podrá desconocer a los hijos, alegando adulterio de la madre, aunque ésta declare que no son hijos de su esposo, a no ser que el nacimiento se le haya ocultado, o que demuestre que durante los diez meses que precedieron al nacimiento no tuvo acceso carnal con su esposa o que había imposibilidad física para engendrar.
 
 304.- El marido podrá desconocer al hijo nacido después de 300 días contados desde que, judicialmente y de hecho, tuvo lugar la separación provisional, prescrita para los casos de divorcio y nulidad; pero la mujer, el hijo o el tutor de éste, pueden sostener en tales casos que el marido es el padre.
 
@@ -1037,7 +1137,9 @@ IV.- Si el hijo no nació capaz de vivir.
 
 306.- Las cuestiones relativas a la paternidad del hijo nacido después de 300 días de la disolución del matrimonio, podrán promoverse en cualquier tiempo por la persona a quien perjudique la filiación.
 
-307.- En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su acción dentro de sesenta días, contados desde el nacimiento, si está presente; desde el día en que llegó al lugar, si estuvo ausente; o desde el día en que descubrió el fraude, si se le ocultó el nacimiento.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+307.- En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su acción dentro de sesenta días, contados desde el nacimiento, si está presente; desde el día en que llegó al lugar, si estuvo ausente; o desde el día en que descubrió el engaño, si se le ocultó el nacimiento.
 
 308.- Si el marido estaba bajo tutela por causa de demencia, imbecilidad u otro motivo que lo prive de inteligencia, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
 
@@ -1047,9 +1149,13 @@ IV.- Si el hijo no nació capaz de vivir.
 
 311.- Si la viuda, la divorciada, o aquella cuyo matrimonio fuere declarado nulo, contrajere nuevas nupcias dentro del período prohibido por el artículo 146, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
 
-I.- Se presume que el hijo es del primer matrimonio si nace dentro de los 300 días siguientes a la disolución del primer matrimonio y antes de 180 días de la celebración del segundo.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 1981)</small>
 
-II.- Se presume que el hijo es del segundo si nace después de 180 días de la celebración del la celebración del segundo matrimonio, aunque el nacimiento tenga lugar dentro de los 300 días posteriores a la disolución del primer matrimonio.
+I.- Se presume que el hijo es del primer matrimonio si nace dentro de los trescientos días siguientes a su disolución y antes de ciento ochenta días de la celebración del segundo, salvo que al celebrarse éste se haya demostrado que la mujer no estaba embarazada.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 1981)</small>
+
+II.- Se presume que el hijo es del segundo si nace después de ciento ochenta días de la celebración de éste, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primero, salvo que se haya demostrado, con motivo de la celebración del segundo que la mujer se encontraba embarazada.
 
 El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar plenamente la imposibilidad física de que el hijo sea del marido a quien se atribuye.
 
@@ -1133,7 +1239,9 @@ También podrán contestar toda demanda que tenga por objeto disputarle la condi
 
 339.- El menor de edad no puede reconocer a un hijo sin el consentimiento del que o de los que ejerzan sobre él la patria potestad, o de la persona bajo cuya tutela se encuentre, o a falta de éste, sin la autorización judicial.
 
-340.- No obstante el reconocimiento hecho por un menor es revocable si prueba que sufrió engaño al hacerlo, pudiendo intentar la revocación hasta cuatro años después de la mayor edad.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+340.- No obstante, el reconocimiento hecho por un menor es anulable si prueba que sufrió engaño al hacerlo, pudiendo intentar la acción correspondiente hasta cuatro años después de cumplida la mayoría de edad.
 
 341.- Puede reconocerse el hijo que no ha nacido y al que ha muerto si ha dejado descendencia.
 
@@ -1159,17 +1267,27 @@ V.- Por confesión judicial directa y expresa.
 
 347.- Cuando el padre o la madre reconozcan separadamente a un hijo no podrán revelar en el acto del reconocimiento el nombre de la persona con quien fue habido, ni exponer ninguna circunstancia por donde aquélla pueda ser identificada. Las palabras que contengan la revelación, se testarán de oficio, de modo que queden absolutamente ilegibles.
 
-348.- El Oficial del Registro Civil, el Juez de Primera Instancia en su caso, y el Notario que consienta en la violación del artículo que precede serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro, por un término que no baje de dos ni exceda de cinco años.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
 
-349.- La mujer casada no podrá reconocer sin el consentimiento del marido a un hijo habido antes de su matrimonio.
+348.- El Oficial del Registro Civil, el Juez de Primera Instancia o de lo Familiar en su caso, y el Notario que consienta en la violación del artículo que precede serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro, por un término de cinco años.
 
-350.- El marido podrá reconocer a un hijo habido antes de su matrimonio o durante éste; pero no tendrá derecho de llevarlo a vivir a la habitación conyugal si no es con el consentimiento expreso de la esposa.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+349.- La mujer casada podrá reconocer sin el consentimiento del marido a un hijo habido antes de su matrimonio; pero no tendrá derecho a llevarlo a vivir al domicilio familiar si no es con el consentimiento expreso del esposo.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+350.- El marido podrá reconocer a un hijo habido antes de su matrimonio o durante éste, pero no tendrá derecho de llevarlo a vivir al domicilio familiar, si no es con el consentimiento expreso de la esposa.
 
 351.- El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo haya desconocido, y por sentencia ejecutoriada se haya declarado que no es hijo suyo.
 
-352.- EL hijo de mayor edad no puede ser reconocido sin su consentimiento, ni el menor sin el de su tutor si lo tiene, o el del tutor que el Juez le nombrará especialmente para el caso.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
 
-353.- Si el hijo reconocido es menor, puede reclamar contra del reconocimiento cuando llegue a la mayor edad.
+352.- El hijo mayor de catorce años no puede ser reconocido sin su consentimiento. El menor de esta edad, tampoco podrá serlo sin el del que ejerza la patria potestad o el del tutor si lo tiene, o el del tutor que el Juez le nombrará especialmente para el caso.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+353.- Si el hijo reconocido es menor de catorce años, puede reclamar contra el reconocimiento cuando llegue a la mayor edad.
 
 354.- El término para deducir esta acción será de dos años, que comenzarán a correr desde que el hijo sea mayor de edad, si antes de serlo, tuvo noticia del reconocimiento; y si no la tenía, desde la fecha en que la adquirió.
 
@@ -1177,9 +1295,13 @@ V.- Por confesión judicial directa y expresa.
 
 356.- Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquél sin efecto, y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
 
-357.- Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cual de los dos ejercerá sobre él la patria postestad; y en caso de que no lo hicieren el Juez de Primera Instancia del lugar, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses del menor.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
 
-358.- En el caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerá la patria potestad el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el Juez de Primera Instancia del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
+357.- Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cual de los dos ejercerá sobre él la guarda y custodia y en caso de que no lo hicieren el Juez de Primera Instancia o de lo Familiar del lugar, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses del menor.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+358.- En el caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerá la guarda y custodia el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el Juez de Primera Instancia o de lo Familiar del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
 
 359.- La investigación de la paternidad de los hijos nacidos fuera de matrimonio, está permitida:
 
@@ -1205,9 +1327,9 @@ II.- Los nacidos dentro de los trescientos días siguientes al en que cesó la v
 
 364.- El hecho de dar alimentos no constituye por sí solo prueba, ni aun presunción, de paternidad o maternidad. Tampoco puede alegarse como razón para investigar éstas.
 
-365.- Las acciones de investigación de paternidad o maternidad, sólo pueden intentarse en vida de los padres.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
 
-Si los padres hubieren fallecido durante la menor edad de los hijos, tienen estos derecho (sic) de intentar la acción antes de que se cumplan cuatro años de su mayor edad.
+365.- Las acciones de investigación de paternidad o maternidad, sólo pueden intentarse en vida de los padres o dentro del año posterior a su fallecimiento. Si los presuntos hijos fuesen menores de edad, el término será de cuatro años y empezará a contar a partir de que se cumpla su mayor edad.
 
 366.- El hijo reconocido por el padre, por la madre, o por ambos, tiene derecho:
 
@@ -1235,7 +1357,9 @@ III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
 374.- Para que la adopción pueda tener lugar deberán consentir en ella, en sus respectivos casos:
 
-I.- El que ejerce la patria potestad sobre el menor que se trata de adoptar;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 1981)</small>
+
+I.- Los que ejercen la patria potestad sobre el menor que se trata de adoptar, excepto el que haya incumplido con la obligación de suministrar alimentos;
 
 II.- El tutor del que se va a adoptar;
 
@@ -1287,7 +1411,9 @@ III.- Si el adoptado rehusa dar alimentos al adoptante que ha caído en pobreza.
 
 389.- Los hijos menores de edad no emancipados, están bajo la patria potestad mientras exista alguno de los ascendientes que deben ejercerla conforme a la ley.
 
-390.- La patria potestad se ejerce sobre la persona y los bienes de los hijos. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con las leyes relativas a la delincuencia infantil.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+390.- La patria potestad se ejerce sobre la persona y los bienes de los hijos. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con las leyes relativas a la rehabilitación de menores.
 
 391.- La patria potestad sobre los hijos de matrimonio se ejerce:
 
@@ -1447,7 +1573,9 @@ IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado d
 
 430.- El que se rehusare sin causa legal a desempeñar el cargo de tutor, es responsable de los daños y perjuicios que de su negativa resulten al incapacitado.
 
-431.- La tutela se desempeñará por el tutor con intervención del curador, del Juez de Primera Instancia y del Consejo Local de Tutela, en los términos establecidos en este Código.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+431.- La tutela se desempeñará por el tutor con la intervención del curador, del Juez de Primera Instancia o de lo Familiar y del Consejo Local de Tutelas, en los términos establecidos en este Código.
 
 432.- Ningún incapaz puede tener a un mismo tiempo más de un tutor y de un curador definitivos.
 
@@ -1459,7 +1587,9 @@ IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado d
 
 436.- No pueden ser nombrados tutores o curadores las personas que integren los Consejos Locales de Tutelas, ni quienes estén ligados con ellas con parentesco de consanguinidad, en la línea recta sin limitación de grados, y en la colateral dentro del segundo grado inclusive.
 
-437.- Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de Primera Instancia, dentro de ocho días, a fin de que se provea la tutela, bajo la pena de veinticinco a cien pesos de multa.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 1981)</small>
+
+437.- Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de Primera Instancia o de lo Familiar, dentro de ocho días, a fin de que se provea la tutela, bajo la sanción que podrá ser hasta de mil pesos de multa.
 
 Los Oficiales del Registro Civil, las autoridades administrativas y las judiciales tienen obligación de dar aviso al Juez que corresponda de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
 
@@ -1479,7 +1609,9 @@ Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva
 
 444.- La interdicción de que habla el artículo anterior no cesará sino por la muerte del incapacitado o por sentencia definitiva, que se pronunciará en juicio seguido conforme a las mismas reglas establecidas para el de interdicción.
 
-445.- Mientras que se nombra tutor, el Juez de Primera Instancia debe dictar las medidas necesarias para que el incapacitado no sufra perjuicios en su persona o en sus intereses.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+445.- Mientras que se nombra tutor, el Juez de Primera Instancia o de lo Familiar debe dictar las medidas necesarias para que el incapacitado no sufra perjuicios en su persona o en sus intereses.
 
 446.- El Juez que no cumpla las prescripciones relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
 
@@ -1549,9 +1681,15 @@ II.- Por falta o incapacidad de los hermanos, a los demás colaterales dentro de
 
 469.- La ley coloca a los expósitos bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores.
 
-470.- Los directores de las inclusas, hospicios y demás casas de beneficencia donde se reciban expósitos, desempeñarán la tutela de éstos, con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
 
-471.- En el caso del artículo anterior, no es necesario el discernimiento del cargo.
+470.- Los directores de los hospicios y demás casas de beneficencia donde se reciban expósitos, desempeñarán la tutela de éstos, con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento. En este caso no es necesario el discernimiento del cargo.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+471.- Los menores incapacitados que se encuentren bajo la patria potestad o la tutela en los términos de este Código y que hayan sido recogidos en hospicios y demás casas de beneficencia pública o privada, quedarán bajo la custodia y guarda de los directores de éstos, teniendo el derecho de asistirlos, educarlos y corregirlos convenientemente. Después de transcurridos seis meses, los que ejerzan la patria potestad o la tutela sólo podrán recuperar la guarda y custodia mediante resolución judicial, en el caso de negativa del establecimiento.
+
+En caso de adopción, independientemente del consentimiento regulado en el artículo 374 de este Código, deberá oírse a los directores o encargados de estos establecimientos.
 
 ### CAPITULO VI. DE LA TUTELA DATIVA
 
@@ -1561,9 +1699,13 @@ I.- Cuando no hay tutor testamentario ni persona a quien conforme a la ley corre
 
 II.- Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo, y no hay ningún pariente de los designados en el artículo 460.
 
-473.- El tutor dativo será designado por el menor si ha cumplido dieciséis años. El Juez confirmará la designación si no tiene justa causa para reprobarla. Para reprobar las ulteriores designaciones que haga el menor, el Juez oirá el parecer del Consejo Local de Tutelas. Si no se aprueba el nombramiento hecho por el menor, el Juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
 
-474.- Si el menor no ha cumplido dieciséis años, el nombramiento de tutor lo hará el Juez de entre las personas que figuren en la lista formada cada año por el Consejo Local de Tutelas, oyendo al Ministerio Público, quien debe cuidar de que quede comprobada la honorabilidad de la persona elegida para tutor.
+473.- El tutor dativo será designado por el menor si ha cumplido catorce años. El juez confirmará la designación si no tiene justa causa para reprobarla. Para reprobar las ulteriores designaciones que haga el menor, el juez oirá el parecer del Consejo Local de Tutelas. Si no se aprueba el nombramiento hecho por el menor, el Juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+474.- Si el menor no ha cumplido catorce años, el nombramiento de tutor lo hará el Juez de entre las personas que figuren en la lista formada cada año por el Consejo Local de Tutelas, oyendo al Ministerio Público, quien debe cuidar de que quede comprobada la honorabilidad de la persona elegida para tutor.
 
 475.- Si el Juez no hace oportunamente el nombramiento de tutor, es responsable de los daños y perjuicios que se sigan al menor por esa falta.
 
@@ -1701,7 +1843,9 @@ IV.- Los que acojan a un expósito, lo alimenten y eduquen convenientemente por 
 
 498.- Los comprendidos en la fracción I del artículo anterior, sólo estarán obligados a dar garantías cuando con posterioridad a su nombramiento haya sobrevenido causa ignorada por el testador que a juicio del Juez y previa audiencia del curador haga necesaria aquélla.
 
-499.- La garantía que presten los tutores no impedirá que el Juez, a moción del Ministerio Público, del Consejo Local de Tutelas, de los parientes próximos del incapacitado o de éste si ha cumplido dieciséis años, dicte las providencias que estime útiles para la conservación de los bienes del pupilo.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+499.- La garantía que presten los tutores no impedirá que el Juez, a moción del Ministerio Público, del Consejo Local de Tutelas, de los parientes próximos del incapacitado o de éste si ha cumplido catorce años, dicte las providencias que estime útiles para la conservación de los bienes del pupilo.
 
 500.- Cuando la tutela del incapacitado recaiga en el cónyuge, en los ascendientes o en los hijos, no se dará garantía; salvo el caso de que el Juez, con audiencia del curador y del Consejo de Tutelas lo crea conveniente.
 
@@ -1737,7 +1881,9 @@ IV.- En las negociaciones mercantiles o industriales, por el veinte por ciento d
 
 ### CAPITULO X. DEL DESEMPEÑO DE LA TUTELA
 
-512.- Cuando el tutor tenga que administrar bienes, no podrá entrar a la administración sin que antes se nombre curador, excepto en el caso del artículo 469.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+512.- Cuando el tutor tenga que administrar bienes, no podrá entrar a la administración sin que antes se nombre curador, excepto en los casos de los artículos 469 y 470.
 
 513.- El tutor que entre a la administración de los bienes sin que se haya nombrado curador, será responsable de los daños y perjuicios que cause al incapacitado y, además, separado de la tutela; mas ningún extraño puede rehusarse a tratar con él judicial o extrajudicialmente alegando la falta de curador.
 
@@ -1941,7 +2087,9 @@ II.- Cuando el incapacitado, sujeto a tutela entre a la patria potestad por reco
 
 ### CAPITULO XIV. DEL CURADOR
 
-595.- Todos los individuos sujetos a tutela, ya sea testamentaria, legítima o dativa, además del tutor tendrán un curador excepto en los casos de tutela a que se refiere el artículo 469.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+595.- Todos los individuos sujetos a tutela, ya sea testamentaria, legítima o dativa, además del tutor tendrán un curador excepto en los casos de tutela a que se refieren los artículos 469 y 470.
 
 596.- En todo caso en que se nombre al menor un tutor interino, se le nombrará curador con el mismo carácter, si no lo tuviere definitivo, o si teniéndolo se halla impedido.
 
@@ -2247,11 +2395,15 @@ IV.- Con la sentencia que cause ejecutoria, en el caso del artículo 684.
 
 ### CAPITULO UNICO
 
-698.- Es objeto del patrimonio familiar la casa habitación de la familia y en su caso la pequeña huerta o parcela anexa a la misma.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+698.- Es objeto del patrimonio familiar la casa habitación de la familia, su menaje y en su caso, el conjunto de bienes, que constituyan una unidad de producción de tipo familiar.
 
 699.- La constitución del patrimonio familiar no hace pasar la propiedad de los bienes que a él quedan afectos, del que lo constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho a disfrutar de esos bienes, según lo dispuesto en el artículo siguiente.
 
-700.- Tienen derecho de habitar la casa y de aprovechar los frutos de la parcela afecta al patrimonio familiar, el cónyuge del que lo constituye y las personas a quienes tiene obligación de dar alimentos. Ese derecho es intransmisible; pero debe tenerse en cuenta lo dispuesto en el artículo 711.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+700.- Tienen derecho de habitar la casa y de aprovechar los frutos de la unidad de producción afecta al patrimonio familiar, el cónyuge del que lo constituye y las personas a quienes tiene obligación de dar alimentos. Ese derecho es intransmisible; pero debe tenerse en cuenta lo dispuesto en el artículo 711.
 
 701.- Los beneficiarios de los bienes afectos al patrimonio familiar serán representados en sus relaciones con tercero, en todo lo que al patrimonio se refiere, por el que lo constituyó.
 
@@ -2261,7 +2413,9 @@ IV.- Con la sentencia que cause ejecutoria, en el caso del artículo 684.
 
 704.- Sólo puede constituirse un patrimonio familiar. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-705.- El valor máximo de los bienes afectos al patrimonio familiar será de cien mil pesos.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+705.- El valor de los bienes afectos al patrimonio familiar será el suficiente para satisfacer las necesidades de habitación y en su caso, el funcionamiento mínimo de la unidad de producción familiar.
 
 706.- El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al Registrador Público de la Propiedad del lugar en que se encuentre el bien, designando con toda precisión y de manera que puedan ser inscritos los bienes que van a quedar afectados.
 
@@ -2279,19 +2433,25 @@ V.- Que el valor de los bienes que van a constituir el patrimonio no excede del 
 
 707.- Si se llenan las condiciones exigidas en el artículo anterior, el Registrador aprobará la constitución del patrimonio familiar y hará la inscripción correspondiente en el Registro Público.
 
-708.- En las ventas, donaciones, permutas o adjudicaciones que hagan el Estado o los Municipios para la construcción de casas de vivienda popular se hará constar en forma expresa en los títulos respectivos, que el terreno y la finca que en él se construya quedarán sujetos al Régimen de Patrimonio Familiar, debiéndose inscribir en el Registro Público de la Propiedad la cláusula relativa a la constitución del Patrimonio Familiar para los efectos legales.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+708.- En las ventas, donaciones, permutas o adjudicaciones que hagan el Estado, los Municipios o los organismos descentralizados para la construcción de casas de vivienda popular, se hará constar en forma expresa en los títulos respectivos, a solicitud de parte interesada, que el terreno y la finca que en él se construya quedarán sujetos al régimen de patrimonio familiar, debiéndose inscribir en el Registro Público de la Propiedad la cláusula relativa a la constitución del patrimonio familiar para los efectos legales.
 
 709.- Cuando haya peligro de que quien tiene obligación de dar alimentos pierda sus bienes por mala administración o porque los esté dilapidando, los acreedores alimentistas y si éstos son incapaces, sus tutores o el Ministerio Público, tienen derecho de exigir judicialmente que se constituya el patrimonio familiar hasta por los valores fijados en el artículo 705. En la constitución de este patrimonio se observará, en lo conducente, lo dispuesto en los artículos 706 y 707.
 
 710.- La constitución del patrimonio familiar no puede hacerse en fraude de los derechos de los acreedores.
 
-711.- Constituido el patrimonio familiar, la familia tiene obligación de habitar la casa y de cultivar la parcela. La primera autoridad municipal del lugar en que esté constituido el patrimonio puede por justa causa, autorizar para que se dé en arrendamiento o aparcería, hasta por un año.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+711.- Constituido el patrimonio familiar, la familia tiene obligación de habitar la casa y de trabajar directamente la unidad de producción familiar. La primera autoridad municipal del lugar en que esté constituido el patrimonio puede por justa causa, autorizar para que se dé en arrendamiento o aparcería, hasta por un año.
 
 712.- El patrimonio familiar se extingue:
 
 I.- Cuando todos los beneficiarios cesen de tener derecho de percibir alimentos;
 
-II.- Cuando, sin causa justificada la familia deje de habitar por un año la casa que debe servirle de morada, o de cultivar por su cuenta y por dos años consecutivos la parcela que le esté anexa;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 1981)</small>
+
+II.- Cuando sin causa justificada la familia deje de habitar por un año la casa que debe servirle de morada, o de trabajar directamente la unidad de producción familiar;
 
 III.- Cuando se demuestre que hay gran necesidad o notoria utilidad para la familia, de que el patrimonio quede extinguido;
 
@@ -4135,13 +4295,23 @@ IV.- Por último, se ministrarán igualmente a prorrata, a los demás parientes 
 
 1318.- Si los bienes de la herencia no alcanzan para cubrir todos los legados, el pago se hará en el siguiente orden:
 
-I.- Legados remuneratorios;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 1981)</small>
 
-II.- Legados que el testador o la ley haya declarado preferentes;
+I.- Legados de alimentos o de educación.
 
-III.- Legados de cosa cierta y determinada;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 1981)</small>
 
-IV.- Legados de alimentos o de educación;
+II.- Legados remuneratorios.
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 1981)</small>
+
+III.- Legados que el testador o la ley haya declarado preferentes.
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 1981)</small>
+
+IV.- Legados de cosa cierta y determinada.
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 1981)</small>
 
 V.- Los demás a prorrata.
 
@@ -8936,3 +9106,9 @@ P.O. 10 DE MARZO DE 1979.
 DECRETO No. 306-79-4-6-P.E.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE MAYO DE 1981.
+
+PRIMERO.- Este Decreto entrará en vigor en toda la Entidad veinte días después de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Para los efectos del artículo 56-Bis de la Ley Orgánica del Poder Judicial del Estado, los Juzgados de Primera Instancia seguirán conociendo, hasta su conclusión, de las controversias del orden familiar conforme al procedimiento iniciado, siempre que en las mismas se haya practicado el emplazamiento al demandado o demandados. En caso contrario, remitirán los expedientes respectivos al Juez de lo Familiar que corresponda, para su tramitación conforme a las disposiciones del presente Decreto.
