@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-notariado-para-el-estado-de-guerrero-no-114-19432"
 country: "mx"
 rank: "ley"
 publication_date: "1967-09-06"
-last_updated: "1984-06-26"
+last_updated: "1988-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE GUERRERO NO. 114
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 1988.
 
 Ley publicada en los Periódicos Oficiales del Estado de Guerrero, el 6 de septiembre de 1967; el 13 de septiembre de 1967; el 20 de septiembre de 1967; y el 4 de octubre de 1967.
 
@@ -114,6 +114,10 @@ El notario no puede ejercer sus funciones fuera de los límites territoriales qu
 ###### Art. 9o.
 
 Los Notarios no serán remunerados por el erario, sino que tendrán derecho a cobrar a los interesados en cada caso los honorarios que devenguen conforme al Arancel so pena de devolución o en su caso de la responsabilidad en que incurran.
+
+> <small>(ADICIONADO, P. O. 5 DE AGOSTO DE 1988)</small>
+
+Cuando de acuerdo con las leyes, las constancias de propiedad inmobiliaria que expida el Gobierno del Estado, sean inscribibles en el Registro Público de la Propiedad, sin mayor trámite y sin necesidad de las formalidades que para las escrituras públicas consigna la ley, el Gobierno del Estado podrá señalar Notarios para protocolizar estos instrumentos, siempre que sus honorarios no sean superiores a las tarifas arancelarias que en función del interés social establezca el propio Ejecutivo Estatal.
 
 ###### Art. 10o.
 
@@ -619,11 +623,13 @@ La oficina de los Notarios se denominará "Notaría número ....estará abierta 
 
 De las Notarías y Demarcaciones Notariales.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1975)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1988)</small>
 
 ###### Art. 90.
 
-En el Estado de Guerrero habrá tantas Notarías como Distritos Judiciales existan; pero en caso de notoria necesidad a juicio del Ejecutivo del Estado, éste tiene facultad para designar tantos Notarios cuantos fueren necesarios, en la proporción aproximada de uno por cada 50 mil habitantes del Distrito Judicial de que se trate.
+En cada Distrito Judicial habrá por lo menos un Notario. En caso de notoria necesidad, a juicio del Ejecutivo del Estado, éste tiene la facultad de crear las Notarías que fuesen necesarias en la proporción aproximada de una por cada 50 mil habitantes del Distrito Judicial de que se trate.
+
+Para cubrir las Notarías a que se refiere el párrafo anterior, el Ejecutivo del Estado publicará la convocatoria en el Periódico Oficial del Estado, en 2 periódicos de circulación estatal y en el Boletín que al efecto edite el Colegio de Notarios.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1977)</small>
 
@@ -665,17 +671,37 @@ I.- Ser mexicano por nacimiento, tener veinticinco años cumplidos y no más de 
 
 II.- Ser abogado con título expedido por institución reconocida legalmente por el Estado y debidamente registrado en la Dirección General de Profesiones.
 
-III.- Comprobar que durante ocho meses ininterrumpidos ha practicado bajo la dirección y responsabilidad de algún Notario Titular, quien deberá cerciorarse de que el interesado posee al iniciar su práctica, título profesional de abogado.
+> <small>(REFORMADA, P. O. 5 DE AGOSTO DE 1988)</small>
+
+III.- Acreditar que durante 5 años ininterrumpidos ha laborado bajo la dirección y responsabilidad de un Notario Titular, quien deberá dar aviso a la Secretaría de Gobierno y al Consejo de Notarios del inicio de esta práctica, así como de la terminación de la misma, lo que podrá ser verificado por la Secretaría citada y el propio Consejo.
 
 IV.- No tener enfermedad habitual que impida el ejercicio de las facultades intelectuales, ni impedimento físico que se oponga a las funciones del Notariado.
 
 V.- Ser aprobado en el examen que establece esta Ley.
 
+> <small>(ADICIONADA, P. O. 5 DE AGOSTO DE 1988)</small>
+
+VI.- No ser o no haber sido servidor público por designación o elección popular durante los tres años inmediatos anteriores a su solicitud.
+
+> <small>(ADICIONADA, P. O. 5 DE AGOSTO DE 1988)</small>
+
+VII.- Haber terminado el curso básico de Derecho Notarial que imparta, en su caso, la Academia Mexicana de Derecho Notarial.
+
+> <small>(ADICIONADA, P. O. 5 DE AGOSTO DE 1988)</small>
+
+VIII.- No ser pariente en cuarto grado en línea recta o transversal del Gobernador del Estado, Secretarios de Despacho, Procurador de Justicia del Estado ni de Presidentes Municipales de las Cabeceras Distritales de que se trate.
+
+> <small>(ADICIONADA, P. O. 5 DE AGOSTO DE 1988)</small>
+
+IX.- No tener antecedentes penales, pero si los hubiere, que no se trate de delito intencional que merezca una pena superior a un año de prisión.
+
+> <small>(REFORMADO, P. O. 5 DE AGOSTO DE 1988)</small>
+
 ###### Art. 98.
 
 Los requisitos señalados en el artículo anterior se justificarán en la siguiente forma:
 
-El primero, con copia certificada del acta correspondiente del Registro Civil, por lo que hace a la nacionalidad y a la edad del interesado, y, por cuanto se refiere a los derechos de ciudadanía, al estado seglar y a la buena conducta, con los certificados relativos expedidos por el Presidente Municipal del lugar de la residencia del nuevo Notario, con fundamento en las actuaciones originales de la información testimonial de que trata el artículo siguiente, o con copia certificada de las mismas el segundo, con la presentación del título original el tercero, con el oficio original de contestación que al Gobierno del Estado dé el Notario con relación a la iniciación de la práctica hecha, por el aspirante en la Notaría, y con el certificado que otorgue el propio Notario; el cuarto, con el certificado de dos médicos legalmente autorizados para el ejercicio de su profesión y con título debidamente registrado por la Dirección de Profesiones; el quinto, con la copia certificada del acta de examen, expedida por el Consejo de Notarios.
+El primero y el octavo, con copia certificada del acta correspondiente del Registro Civil, por lo que hace a la nacionalidad, a la edad del interesado y al parentesco, y, por cuanto se refiere a los derechos de ciudadanía, al estado seglar y a la buena conducta, con los certificados relativos expedidos por el Presidente Municipal del lugar de la residencia del nuevo Notario, con fundamento en las actuaciones originales de la información testimonial de que trata el artículo siguiente, o con copia certificada de las mismas; el segundo con la presentación del título original, el tercero, con el oficio original de contestación que al Gobierno del Estado dé el Notario con relación a la iniciación de la práctica hecha por el aspirante en la Notaría, y con certificado que otorgue el propio Notario; el cuarto, con el certificado de dos médicos legalmente autorizados para el ejercicio de su profesión y con título debidamente registrado por la Dirección de Profesiones; el quinto, con la copia certificada del acta de examen, expedida por el Consejo de Notarios, el sexto con constancia expedida por la Oficialía Mayor del Gobierno del Estado y Presidente Municipal, el Congreso del Estado y en su caso por la autoridad competente de la Federación; el séptimo, con copia certificada del diploma expedido por la Academia Mexicana de Derecho Notarial y el noveno con la constancia de antecedentes expedida por autoridad competente.
 
 ###### Art. 99.
 
@@ -687,9 +713,13 @@ El que pretenda examen de aspirante deberá presentar su solicitud al Gobernador
 
 Hecho por el Gobieron (sic) del Estado el estudio de la documentación presentada por el solicitante, y aprobada que fuere, se señalará día y hora para que tenga lugar el examen.
 
+> <small>(REFORMADO, P. O. 5 DE AGOSTO DE 1988)</small>
+
 ###### Art. 101.
 
-El Jurado de examen se compondrá de cinco miembros; el Gobernador del Estado o el representante que designe; el Presidente del Consejo de Notarios y tres miembros más que nombrará el Consejo. Será Presidente del Jurado el Gobernador del Estado o quien lo sustituya y desempeñara las funciones de Secretario el Notario que el Jurado designe por mayoría de votos.
+El jurado de los aspirantes al ejercicio del Notariado se compondrá de siete miembros: cuatro representantes del Gobierno del Estado, que serán invariablemente servidores públicos; así como tres que señale el Consejo de Notarios del Estado.
+
+De entre los cuatro representantes oficiales, el Gobernador del Estado señalará al que funja como presidente, quien tendrá voto de calidad, y desempeñará las funciones de secretario el que designe el Jurado.
 
 ###### Art. 102.
 
@@ -779,9 +809,13 @@ El mismo anuncio se publicará también por tres veces en un periódico de mayor
 
 El Gobierno del Estado señalará días y horas para la celebración de los ejercicios de oposición. Este señalamiento lo dará a conocer el Consejo a los candidatos cuando menos con ocho días de anticipación por medio de oficio enviado por correo a la dirección que al efecto hubiere designado en su solicitud.
 
+> <small>(REFORMADO, P. O. 5 DE AGOSTO DE 1988)</small>
+
 ###### Art. 119.
 
-El Jurado de examen se compondrá de cinco miembros el delegado del Gobernador del Estado que éste designe, el Presidente y un vocal de Consejo de Notarios y dos abogados más en ejercicio que nombrará dicho Consejo. Será Presidente del Jurado el delegado del Gobernador del Estado y desempeñará las funciones de Secretario el Notario de menos edad. El Consejo designará, además, a tres notarios como vocales suplentes, o a tres delegados, a falta de éstos.
+El jurado de examen para obtener la patente de Notario se compondrá de siete miembros: cuatro representantes del Gobierno del Estado, que serán invariablemente servidores públicos, así como tres que señale el Consejo de Notarios del Estado.
+
+El jurado será presidido por quien designe el Gobernador del Estado de entre sus representantes y quien tendrá voto de calidad, y fungirá como secretario el mismo que designe el jurado.
 
 ###### Art. 120.
 
@@ -1196,3 +1230,15 @@ UNICO:- Este Decreto surtirá sus efectos a partir de su publicación en el Peri
 P.O. 26 DE JUNIO DE 1984.
 
 UNICO.- Las presentes reformas surtirán sus efectos, a partir de los quince días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE AGOSTO DE 1988.
+
+###### ARTICULO PRIMERO.
+
+Por única vez y en tanto pueda observarse el requisito de la fracción VI del artículo 97, por el mero transcurso del tiempo, podrá otorgarse patente de aspirante del ejercicio del Notariado a quien justifique tres años de práctica profesional, siempre y cuando el jurado apruebe al aspirante, cuando menos con seis de los siete votos.
+
+Para los efectos del párrafo anterior se tendrá por computados los tres años cuando se trate de Juez de Primera Instancia que haya ejercido por receptoría las funciones notariales y cuya designación haya sido anterior al primero de junio de 1987.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
