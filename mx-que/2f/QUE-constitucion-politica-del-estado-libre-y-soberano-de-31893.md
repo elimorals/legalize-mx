@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1997-09-19"
+last_updated: "1999-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 1999.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -411,7 +411,11 @@ XXII.- Crear nuevas municipalidades dentro de los límites de las ya existentes,
 
 XXIII.- Decretar la traslación provisional de los Poderes de la Entidad fuera de la ciudad de Santiago de Querétaro, en los casos y condiciones previstas en esta Constitución.
 
-XXIV.- Aprobar anualmente las leyes de ingresos y presupuesto de egresos del Estado, así como la Ley de Ingresos de cada Municipio;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+XXIV.- Aprobar anualmente la Ley de Ingresos y el Presupuesto de Egresos del Estado, así como la Ley de Ingresos de cada Municipio.
+
+En tanto no aprueben y entren en vigor alguna de las Leyes o el Presupuesto de Egresos a que se refiere esta fracción, continuarán vigentes de manera provisional para el siguiente ejercicio fiscal las leyes de ingresos estatal o municipal, y el presupuesto de egresos que en su caso correspondan;
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
 
@@ -423,9 +427,9 @@ XXVII.- Conceder al Ejecutivo por tiempo limitado y por voto de las dos terceras
 
 XXVIII.- Decretar amnistía por delitos de la competencia de los tribunales del Estado;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
-XXIX.- Sustituir a los Diputados en ejercicio cuando falten a tres sesiones consecutivas en un mes o cinco dentro de un período ordinario de sesiones, sin causa justificada a juicio de la Legislatura, entendiéndose que dichos Diputados renuncian a su cargo;
+XXIX.- Sustituir a los diputados en ejercicio, cuando sin causa justificada a juicio de la Legislatura, falten a tres sesiones ordinarias consecutivas en un mes, entendiéndose que dichos diputados renuncian a concurrir hasta el periodo ordinario inmediato, llamándose desde luego a los suplentes;
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
 
@@ -521,13 +525,11 @@ El poder Legislativo se deposita en una asamblea que se nombrará Legislatura de
 
 #### SECCION CUARTA. DE LA COMISION PERMANENTE
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 43º.
 
-La Comisión Permanente es el órgano electo por el Pleno de la Legislatura en la última sesión de los períodos ordinarios, compuesta por un presidente, un vicepresidente y dos secretarios; estos se nombrarán primero y segundo y tendrán sus respectivos suplentes. Su integración podrá ser renovada mensualmente.
-
-Conducirá los trabajos durante los períodos de enero a abril y agosto a septiembre, incluidas las Sesiones del Pleno de la Legislatura que se verifiquen, asimismo tendrá las funciones que señala el artículo 44 de la Constitución Política del Estado.
+La Comisión Permanente, es el órgano electo por el Pleno de la Legislatura en la última sesión de los periodos ordinarios, y ejercerá las facultades establecidas en el artículo 44 de esta Constitución. Se compondrá por un Presidente, un Vicepresidente, un Primer Secretario y un Segundo Secretario, teniendo estos últimos sus respectivos suplentes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
 
@@ -539,13 +541,13 @@ Las facultades y obligaciones de la Comisión Permanente son:
 
 I.- Conocer y desahogar los asuntos que no sean de competencia exclusiva del pleno de la Legislatura;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
-II. Acordar por sí o excitada por el Ejecutivo, convocar a la Legislatura obsesionar fuera del período ordinario, en los casos que prevé esta Constitución, señalando el día para la reunión de la Legislatura;
+II.- En los casos previstos por esta Constitución, acordar por si o a petición del Ejecutivo, la convocatoria a periodo extraordinario, determinando la fecha para el mismo;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
-III. Circular la convocatoria para que sesione la Legislatura fuera del período ordinario, por medio del diputado presidente, si después del tercer día de comunicar al gobernador del Estado el decreto respectivo, no lo hubiere cumplimentado;
+III.- Si después del tercer día de comunicar al Gobernador del Estado el decreto respectivo, éste no lo hubiere cumplimentado, el diputado presidente hará circular la convocatoria para que sesione la Legislatura en periodo extraordinario;
 
 > <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -587,13 +589,17 @@ XII.- Las demás que le asigna la presente Constitución y las leyes reglamentar
 
 #### SECCIÓN QUINTA. DE LOS PERIODOS EXTRAORDINARIOS
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 45º.
 
-(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1997)
+La Legislatura podrá celebrar periodos extraordinarios de sesiones cuando para ello fuera convocada por la Comisión Permanente.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 46º.
 
-(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1997)
+La Legislatura reunida en periodo extraordinario de sesiones sólo se ocupará del asunto para el cual fue convocada. Si llegado el tiempo de periodo ordinario hubiere sesión extraordinaria, ésta cesará; y el motivo que le dio origen se continuará en sesión ordinaria.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -697,9 +703,7 @@ La Legislatura velará por el respeto al fuero constitucional de los diputados y
 
 La Legislatura del Estado se instalará el 26 de septiembre del año que corresponda y tendrá durante cada año de ejercicio dos periodos ordinarios de sesiones. El primero se iniciará el 27 de septiembre y concluirá el 31 de diciembre; el segundo se iniciará el día 1° de mayo y terminará el día 31 de julio.
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
-
-Fuera de estos periodos sesionará por los menos una vez al mes.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -761,23 +765,25 @@ En las ausencias o faltas temporales del Gobernador del Estado se observarán la
 
 I. Las ausencias que excedan de treinta días pero no pasen de noventa, la suplencia la hará el Secretario del Gobierno con el carácter de encargado del despacho, pero el Gobernador solicitará la licencia respectiva a la Legislatura o Comisión Permanente según el caso; y
 
-> <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
-II. Si la falta temporal excede de noventa días la Legislatura o la Diputación Permanente, en su caso, designarán Gobernador interino o provisional respectivamente.
+II.- Si la falta temporal excede de noventa días, la Legislatura designará Gobernador Interino.
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
 
 El Gobernador, para poder ausentarse del territorio del Estado por más de treinta días, solicitará permiso a la Legislatura o Comisión Permanente según el caso.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
-###### ARTICULO 53°.
+III.- Tratándose de asuntos oficiales, el Gobernador del Estado no podrá ausentarse del territorio nacional sin previo aviso sobre su destino, a la Legislatura del Estado o a la Comisión Permanente, según el caso.
 
-La designación de gobernador que realice el Congreso se hará por mayoría de votos del número total de diputados.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+###### ARTICULO 53º.
 
-Si la Legislatura no estuviera en período ordinario de sesiones al ocurrir la ausencia, la Comisión Permanente nombrará uno Provisional y convocará a aquella para el solo efecto de designar al Gobernador Interino.
+La designación del Gobernador, que realice la Legislatura, se hará por mayoría absoluta de votos del número total de diputados.
+
+Si al ocurrir la ausencia del Gobernador, la Legislatura no se encuentra en período ordinario de sesiones, la Comisión Permanente convocará de inmediato a periodo extraordinario para el solo efecto de designar al Gobernador Interino.
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
 
@@ -1253,21 +1259,13 @@ Los regidores por los principios de mayoría relativa y de representación propo
 
 La determinación del número de los regidores en cada ayuntamiento se basará en factores geográficos, demográficos y socioeconómicos de cada municipio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
-###### ARTICULO 82º.
+###### ARTICULO 82.
 
-Las faltas temporales del Presidente serán suplidas por el regidor propietario que nombre el mismo ayuntamiento. Las faltas absolutas ocurridas en el primer año serán suplidas interinamente por el regidor que designe el ayuntamiento, debiendo la Legislatura o la Comisión Permanente, en su caso, convocar a elecciones para cubrir la vacante.
+Las faltas temporales del Presidente Municipal, serán suplidas por el regidor propietario que nombre el ayuntamiento. La falta absoluta ocurrida en el primer año, será suplida interinamente por el regidor que designe el mismo ayuntamiento, debiendo la Legislatura o la Comisión Permanente, en su caso, emitir el Decreto correspondiente, para que el Instituto Electoral del Estado organice la elección popular.
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1991)</small>
-
-Si la falta absoluta ocurriere del segundo año en adelante, el ayuntamiento elegirá de entre los regidores propietarios al que deba desempeñar la presidencia hasta terminar el periodo municipal.
-
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
-
-###### ARTICULO 82°.
-
-Las faltas temporales del presidente serán suplidas por el regidor propietario que nombre el mismo ayuntamiento. Las faltas absolutas ocurridas en el primer año serán suplidas interinamente por el regidor que designe el ayuntamiento, debiendo la Legislatura o Diputación Permanente, en su caso, convocar a elecciones para cubrir la vacante.
 
 Si la falta absoluta ocurriere del segundo año en adelante, el ayuntamiento elegirá de entre los regidores propietarios al que deba desempeñar la presidencia hasta terminar el periodo municipal.
 
@@ -2030,3 +2028,9 @@ Quedan derogadas las disposiciones que contravengan a las presentes reformas, ad
 ###### ARTICULO TERCERO
 
 Para efecto de las presentes reformas, adiciones y derogaciones, será necesaria la expedición de la reglamentación correspondiente, entendiéndose que no tienen un carácter auto aplicativo.
+
+P.O. 10 DE DICIEMBRE DE 1999
+
+Primero.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Segundo.- Se derogan todas las disposiciones que se opongan a la presente Ley.
