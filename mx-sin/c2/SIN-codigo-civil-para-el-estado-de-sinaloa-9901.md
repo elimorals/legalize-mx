@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1975-10-24"
+last_updated: "1981-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 1981.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -1361,7 +1361,7 @@ Las donaciones entre consortes pueden ser revocadas libremente y en todo tiempo 
 
 ###### Artículo 234.
 
-Estas donaciones no se anularán por la Supervivencia de los hijos, pero se reducirán cuando sean inoficiosas, en los mismos términos que las comunes
+Estas donaciones no se anularán por la Supervivencia de los hijos, pero se reducirán cuando sean inoficiosas, en los mismos términos que las comunes.
 
 ### CAPITULO IX.
 
@@ -1497,11 +1497,13 @@ Si la demanda de nulidad fuere entablada por uno sólo de los cónyuges, desde l
 
 Luego que la sentencia sobre nulidad cause ejecutoria, el padre y la madre propondrán la forma y términos del cuidado y la custodia de los hijos y el Juez resolverá a su criterio de acuerdo con las circunstancias del caso.
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1981)</small>
 
 ###### Artículo 260.
 
-El Juez en todo tiempo podrá modificar la determinación a que se refiere el artículo anterior, atento a las nuevas circunstancias y a lo dispuesto en los Artículos 423, 424 y 445, fracción III.
+El Juez en todo tiempo podrá modificar la determinación a que se refiere el Artículo anterior, atento a las nuevas circunstancias y a lo dispuesto en los Artículos 423, 424 y 445, Fracción III; pero siempre y aún tratándose de divorcio, los hijos e hijas menores de cinco años se mantendrán al cuidado de la madre hasta que cumplan esta edad, a menos que la madre se dedicare a actividades que atenten contra la moral, hubiere contraído el hábito de embriagarse, tuviere alguna enfermedad contagiosa, o por su conducta ofreciere peligro grave para la salud o la moralidad de sus hijos.
+
+Los convenios a que se refieren el Artículo anterior y los artículos 273 y 282 de este Código, no comprenderán a los hijos menores de cinco años.
 
 ###### Artículo 261.
 
@@ -1677,15 +1679,19 @@ V.- Dictar en su caso, las medidas precautorias que la ley establece respecto a 
 
 VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El Juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1981)</small>
+
 ###### Artículo 283.
 
-La sentencia de divorcio fijará la situación de los hijos, conforme a las reglas siguientes:
+Sin perjuicio de lo dispuesto por el Artículo 260 de este Código, la sentencia de divorcio fijará la situación de los hijos conforme a las reglas siguientes:
 
-PRIMERA.- Cuando la causa de divorcio estuviere comprendida en las fracciones I, II, III, IV, V, VIII, XIV y XV del artículo 267, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente que corresponda y si no lo hubiere se nombrará tutor.
+1ra.- Cuando la causa del divorcio estuviere comprendida en las fracciones I, II, III, IV, V, VIII, XIV, y XV del Artículo 267, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente que corresponda y si no lo hubiere se nombrará tutor.
 
-SEGUNDA.- Cuando la causa de divorcio estuviere comprendida en las fracciones IX, X, XI, XII, XIII y XVI del artículo 267, los hijos quedarán bajo la patria potestad del cónyuge inocente, pero a la muerte de éste, el cónyuge culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables, se les suspenderá en el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer ésta. Entre tanto, los hijos quedarán bajo la patria potestad del ascendiente que corresponda, y si no hay quien la ejerza, se les nombrará tutor.
+2da.- Cuando la causa del divorcio estuviere comprendida en las Fracciones X, XI, XII, XIII, y XVI del Artículo 267, los hijos quedarán bajo la patria potestad del cónyuge inocente, pero a la muerte de éste, el cónyuge culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables, se les suspenderá en el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer ésta. Entre tanto, los hijos quedarán bajo la patria potestad del ascendiente que corresponda, y si no hay quien la ejerza, se les nombrará tutor.
 
-TERCERA.- En el caso de la fracción VI y VII del artículo 267, los hijos quedarán en poder del cónyuge sano; pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de sus hijos.
+3ra.- En los casos de las fracciones VI y VII del Artículo 267, el cuidado y custodia de los hijos quedará a cargo del cónyuge sano; pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de sus hijos.
+
+4ta.- En el caso de la fracción IX y en el de impotencia incurable, el prudente arbitrio judicial decidirá a cargo de que cónyuge quedará el cuidado y custodia de los hijos con base en las circunstancias del caso y tomándose en consideración lo que sea más conveniente para los menores; pero el otro consorte conservará los demás derechos sobre la persona y bienes de sus hijos.
 
 > <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
 
@@ -5539,7 +5545,7 @@ I.- A formar a sus expensas, con citación del dueño, un inventario de todos el
 
 > <small>(F. DE E., P.O. 28 DE NOVIEMBRE DE 1940)</small>
 
-II.- A dar la correspondiente fianza de que disfrutará de las cosas con moderación, y las restituirá al propietario con sus accesiones, al extinguirse el usufructo, no empeoradas ni deterioradas por su negligencia, salvo lo dispuesto en el artículo 435.
+II.- A dar la correspondiente fianza de que disfrutará de las cosas con moderación, y las restituirá al propietario con sus accesiones, al extinguirse el usufructo no empeoradas ni deterioradas por su negligencia, salvo lo dispuesto en el artículo 435.
 
 ###### Artículo 1005.
 
@@ -14735,7 +14741,7 @@ El descubrimiento de nuevos títulos o documentos, no es causa para anular o res
 
 ###### Artículo 2839.
 
-Es nula la transacción sobre cualquier negocio que esté decidido judicialmente por sentencia irrevocable, ignorada por los interesados.
+Es nula la transación sobre cualquier negocio que esté decidido judicialmente por sentencia irrevocable, ignorada por los interesados.
 
 ###### Artículo 2840.
 
@@ -14987,7 +14993,7 @@ De las Oficinas del Registro.
 
 ###### Artículo 2877.
 
-Satisfechos los créditos de que ha (sic) habla anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
+Satisfechos los créditos de que ha habla (sic) anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
 ### CAPITULO II.
 
@@ -15169,7 +15175,7 @@ Si el documento en que conste alguna de las operaciones que se mencionan en el p
 
 ###### Artículo 2900.
 
-Los encargados del Registro son responsables, además de las penas en que pueden incurrir, de los daños y perjuicios a que dieren lugar:
+Los encargados del Registro son responsables, además de las penas en que pueden incurrir, de los daños y pefijuicios a que dieren lugar:
 
 I.- Si rehúsan sin motivo legal o retardan sin causa justificada la inscripción de los documentos que les sean presentados;
 
@@ -15486,3 +15492,9 @@ P.O. 24 DE OCTUBRE DE 1975.
 ###### ARTICULO UNICO.
 
 El presente Decreto empezará a surtir sus efectos legales correspondientes a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 8 DE ABRIL DE 1981.
+
+###### ARTICULO UNICO.
+
+El presente Decreto iniciará su vigencia diez días después de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
