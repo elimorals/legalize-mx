@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "1999-01-30"
+last_updated: "1999-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -351,33 +351,105 @@ Las penas aplicables por la comisión de delitos a quienes han cumplido diecisé
 
 a).- Prisión;
 
-b).- Sanción Pecuniaria;
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-c).- Inhabilitación, suspensión y privación de derechos;
+b).- Prisión intermitente;
 
-d).- Caución de no ofender;
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-e).- Amonestación;
+c).- Trabajo en favor de la comunidad;
 
-f).- Apercibimiento;
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-g).- Publicación especial de sentencia;
+d).- Régimen especial en libertad;
 
-h).- Confinamiento;
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-i).- Suspensión, disolución o intervención de sociedades o prohibiciones de realizar determinados actos;
+e).- Sanción Pecuniaria;
 
-j).- Pérdida de los instrumentos y objetos del delito;
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-k).- Confiscación de cosas peligrosas o nocivas;
+f).- Inhabilitación, suspensión y privación de derechos;
 
-l).- Decomiso de bienes correspondientes al enriquecimiento ilícito; y
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-Las demás que fijen las Leyes.
+g).- Caución de no ofender;
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+h) .- Amonestación;
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+i).- Apercibimiento;
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+j).- Publicación especial de sentencia;
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+k).- Confinamiento;
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+l).- Suspensión, disolución o intervención de sociedades o prohibiciones de realizar determinados actos;
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+m).- Pérdida de los instrumentos y objetos del delito;
+
+(ADICONADO, P.O. 5 DE JUNIO DE 1999)
+
+n).- Confiscación de cosas peligrosas o nocivas;
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+o).- Decomiso de bienes correspondientes al enriquecimiento ilícito;
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+p).- Las demás que fijen las leyes.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+Las penas señaladas en los incisos b), c), y d) tienen también la naturaleza de alternativas a la de prisión y podrán decretarse conjunta o separadamente con las medidas de seguridad a que se refieren los artículos 66 a 68 y la fracción IV del 108 de este Código, según lo determine la Ley o el Juez.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 46.
 
-La prisión consiste en la privación temporal de la libertad, durante un lapso no menor de tres días ni mayor de treinta años, de acuerdo con las penas que a cada delito fije la Ley y las reglas señaladas para su aplicación; se cumplirán en los lugares o establecimientos que fije el Ejecutivo, con la finalidad de ejercer sobre el condenado una acción readaptadora.
+La pena de prisión consiste en la privación de la libertad corporal del sentenciado, desde tres días hasta treinta años. Esta pena se cumplirá y se entiende impuesta bajo la normatividad y con las modalidades que, para su aplicación, se establecen en este Código y en la Ley para la Prevención de Conductas Antisociales, Auxilio a las Víctimas, Medidas Tutelares y Readaptación Social para el Estado de Tamaulipas, con la finalidad de ejercer sobre el condenado una acción readaptadora.
+
+En toda pena de prisión que se imponga por sentencia, se computará el tiempo de la detención preventiva.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+ARTICULO 46 BIS.- Las penas sustitutivas de prisión tienen por objeto la aplicación de medidas temporales privativas y restrictivas de la libertad, laborales, educativas y curativas autorizadas por la Ley, conducentes a la readaptación social del condenado, bajo la orientación y cuidado de la autoridad ejecutora, y son las siguientes:
+
+I.- La prisión intermitente, que consiste en la alternación de períodos de libertad y privación de la misma, según los casos, en las formas siguientes:
+
+a).- Excarcelación durante la semana y reclusión los días sábado y domingo de la misma;
+
+b).- Salida los días sábado y domingo, con reclusión durante el resto de la semana;
+
+c).- Salida diurna con reclusión nocturna; y
+
+d).- Salida nocturna con reclusión diurna.
+
+Quienes cumplan prisión intermitente, en los periodos que deban internarse permanecerán separados de los demás sentenciados. El incumplimiento de está obligación originará la destitución del responsable del establecimiento donde se extinga la sanción que lo hubiere autorizado o permitido durante su gestión. El superior de dicho responsable, al tener conocimiento de la infracción, procederá a destituirlo del cargo, sin perjuicio de las demás responsabilidades en que hubiere incurrido y, de no hacerlo el superior, será igualmente sancionado con la misma medida por el Ejecutivo del Estado. Los Jueces y Agentes del Ministerio Público, cuando tomen conocimiento directo del hecho, lo informarán al Supremo Tribunal de Justicia y al Procurador de Justicia del Estado, respectivamente, a fin de que procedan a solicitar al Ejecutivo las sanciones que aquí se establecen.
+
+II.- El trabajo en favor de la comunidad, que consiste en la prestación de servicios no remunerados, en instituciones públicas o privadas, si estas últimas son asistenciales o educativas. Sin perjuicio de las facultades del juez, este trabajo se llevará a cabo bajo la orientación y vigilancia de la dependencia del Ejecutivo encargada de la ejecución de la pena privativa de libertad, en jornadas distintas al horario de labores que represente la fuente de ingresos para la subsistencia del sentenciado y de su familia, sin exceder de la jornada extraordinaria que establece el artículo 66 de la Ley Federal del Trabajo.
+
+El trabajo en favor de la comunidad puede ser pena autónoma o sustitutiva de la prisión o de la multa.
+
+Cada día de prisión será sustituida por una hora de trabajo a favor de la comunidad, de acuerdo con las jornadas que fije el juzgador, según las circunstancias del caso.
+
+Por ningún concepto se desarrollará este trabajo en forma que resulte degradante o humillante para el condenado.
+
+III.- El régimen especial en libertad, que consiste en la aplicación de una o varias de las sanciones establecidas en los incisos f) y k) del artículo 45 de este Código.
+
+La duración de las penas sustitutivas no podrán exceder de la correspondiente a la pena de prisión sustituida. En todo caso en que proceda la substitución de la pena, al hacerse el cálculo de la sanción sustitutiva se disminuirá el tiempo durante el cual el sentenciado sufrió prisión preventiva.
 
 ###### ARTICULO 47.
 
@@ -391,7 +463,9 @@ La reparación del daño comprende:
 
 I.- La restitución de las cosas obtenidas por el delito y, de no ser posible, el pago del precio de las mismas;
 
-II.- La indemnización del daño material y moral causado a la víctima o a su familia;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
+
+II.- La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios contra la libertad y el normal desarrollo psicosexual y de violencia intrafamiliar, además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima; y,
 
 III.- Tratándose de los delitos comprendidos en el Título Octavo del Libro Segundo, la reparación del daño abarcará la restitución de la cosa o de su valor y, además, hasta dos tantos el valor de la cosa o los bienes obtenidos por el delito.
 
@@ -763,15 +837,149 @@ Tratándose de alcohólicos, toxicómanos, débiles mentales o degenerados que h
 
 Las medidas de vigilancia definidas en el segundo párrafo del artículo 68, deberán ser cumplidas estrictamente, salvo en los casos en que exista imposibilidad, y será la autoridad a quien corresponde su ejecución resolver sobre la petición de no residir en determinado sitio.
 
-### CAPITULO XIII. CONMUTACION DE SANCIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JUNIO DE 1999)</small>
+
+### CAPITULO XIII. SUSTITUCION Y CONMUTACION DE SANCIONES
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 108.
 
-Los jueces, apreciando las circunstancias personales del culpable, los móviles de su conducta, así como las circunstancias del hecho, podrán, a su prudente arbitrio, conmutar en la sentencia la pena de prisión, cuando ésta no exceda de dos años, por la multa que no podrá ser menor de veinte ni mayor de doscientos días de salario, según las condiciones económicas del delincuente y las circunstancias que antes se mencionan. En este caso quedará a elección del sentenciado compurgar la pena corporal o pagar la multa impuesta.
+La pena de prisión podrá ser sustituida, a juicio del juzgador, apreciando lo dispuesto por el artículo 69 de este Código, en los términos siguientes:
+
+I.- Cuando la pena de prisión impuesta sea superior a cuatro años y no exceda de cinco años, se podrá aplicar:
+
+a).- Prisión intermitente durante el primer año;
+
+b).- Trabajo a favor de la comunidad en el mismo periodo anterior y durante el resto de la condena;
+
+c).- Las medidas de seguridad previstas en la fracción IV de este artículo durante todo el tiempo de la condena; y
+
+d).- Las actividades obligadas que con el número 10 se refieren en el inciso b) de la fracción III de este mismo numeral, durante todo el tiempo de la condena.
+
+El Juez, al decretar la substitución, forzosamente impondrá todas las penas, medidas de seguridad y actividades obligadas antes referidas al beneficiado y que resulten adecuadas a su readaptación. Sólo en casos justificados se podrá hacer excepción de las actividades que se mencionan en el inciso d) anterior. El Ministerio Público vigilará el cumplimiento de esta obligación del Juez y en caso de incumplimiento, además de recurrir la resolución respectiva, informará al Supremo Tribunal de Justicia para los efectos legales que procedan.
+
+II.- Cuando la pena de prisión impuesta no exceda de cuatro años, se podrá sustituir por:
+
+a).- Trabajo en favor de la comunidad equivalente al tiempo de la condena;
+
+b).- Las medidas de seguridad previstas en la fracción IV de este artículo durante todo el tiempo que deba efectuar el trabajo a favor de la comunidad; y
+
+c).- Las actividades obligadas que con el número 10 se refieren en el inciso b) de la fracción III de este mismo numeral, durante todo el tiempo que deba efectuar el trabajo a favor de la comunidad.
+
+El Juez, al decretar la substitución, forzosamente impondrá todas las penas, medidas de seguridad y actividades obligadas antes referidas al beneficiado y que resulten adecuadas a su readaptación. Sólo en casos justificados se podrá hacer excepción de las actividades que se mencionan en el inciso c) anterior. El Ministerio Público vigilará el cumplimiento de esta obligación del Juez y en caso de incumplimiento, además de recurrir la resolución respectiva, informará al Supremo Tribunal de Justicia para los efectos legales que procedan.
+
+Para la procedencia de los sustitutivos mencionados en las fracciones I y II anteriores será necesario que el sentenciado opte por ellos y acredite la disponibilidad de la institución donde prestará sus servicios de carácter laboral.
+
+III.- Cuando la pena de prisión impuesta no exceda de tres años, se podrá sustituir por el régimen especial de libertad, observándose lo siguiente:
+
+a).- Para decidir e individualizar judicialmente el sustitutivo de régimen especial en libertad y determinar qué aspectos de los derechos del sentenciado se suspenderán y restringirán de conformidad a lo señalado en el párrafo precedente y el inciso siguiente, el Juez tomará en cuenta la naturaleza del delito, el bien jurídico lesionado y las circunstancias de hecho y personales del sentenciado, de tal modo que la suspensión que se decrete esté razonablemente relacionada con éstas, sirva asimismo como sanción y a la vez como medida preventiva y readaptadora que garantice el interés social;
+
+b).- En el caso de la modalidad consistente en la suspensión parcial o total de derechos, ésta podrá referirse a uno o la combinación de los aspectos siguientes:
+
+1).- La conducción de vehículos de motor;
+
+2).- La permanencia en el domicilio durante determinado horario, en uno o más días de la semana;
+
+3).- La residencia en una sola vivienda;
+
+4).- La posesión y portación de arma;
+
+5).- El consumo de bebidas alcohólicas en lugares públicos;
+
+6).- El ejercicio profesional;
+
+7).- La realización de determinadas ocupaciones;
+
+8).- La patria potestad, la custodia, la tutela, la adopción, la administración de la sociedad conyugal y de sus propios ingresos a favor de su cónyuge y de sus acreedores alimenticios, dejándole el numerario suficiente para sus gastos personales;
+
+9).- El albaceazgo; y
+
+10).- La asistencia obligatoria una vez por semana con su cónyuge o concubina, hijos y demás miembros de su familia que lo deseen, a lugares de sano esparcimiento, aquellos donde se practique el deporte o adquiera cultura tales como parques recreativos y deportivos, plazas públicas, cinematógrafo, zoológicos, museos, bibliotecas, conciertos, exposiciones y cualquiera otro a juicio del Juez o del Órgano de Ejecución que fomenten la unión, el respeto familiar, la convivencia social, el sano entretenimiento, el deporte y la cultura.
+
+Esta última medida se impondrá siempre al sentenciado con régimen especial en libertad. Sólo en casos justificados se podrá hacer excepción de las actividades que se mencionan en el punto 10 anterior. El Ministerio Público vigilará el cumplimiento de esta obligación del Juez y en caso de incumplimiento, además de recurrir la resolución respectiva, informará al Supremo Tribunal de Justicia para los efectos legales que procedan.
+
+c).- La autoridad judicial, al determinar el régimen especial en libertad, cuidará asimismo que la afectación al desarrollo personal del sentenciado sea la mínima posible, que se evite su reincidencia, que tenga un sentido formativo y que contribuya a la protección de la sociedad, y particularmente de las víctimas;
+
+d).- La duración del régimen especial en libertad será la misma que la de sanción de privación de la libertad a la que sustituye;
+
+e).- Son aplicables al sustitutivo del régimen especial en libertad, las previsiones relativas a la duración, extinción y revocación señaladas en las fracciones VII y VIII de este artículo; y
+
+IV.- Las penas sustitutivas a que se refieren las fracciones anteriores se aplicarán independientemente de las medidas educativas, laborales y curativas siguientes:
+
+a).- Recibir educación básica, entendiendo por ésta, la primaria y secundaria obligatorias para quienes no la tuvieren terminada;
+
+b).- Recibir capacitación para el trabajo y cursos de especialización en su ámbito laboral y profesional;
+
+c).- Someterse a tratamiento terapéutico contra vicios, adicciones y enfermedades físicas o mentales que el Órgano de Ejecución aconseje o que el Juez considere adecuado de conformidad con los datos que obren en la causa.
+
+Estas medidas serán obligatorias para el sentenciado que hubiere solicitado o aceptado la pena sustitutiva, y el Juez, al conceder la sustitución, determinará el o los establecimientos públicos o privados de asistencia donde recibirá el tratamiento, la educación y la capacitación para el trabajo, sin que la duración de estas medidas pueda exceder el máximo de prisión que se sustituyó o del máximo de la pena sustituida aplicada. El Órgano de Ejecución tendrá obligación de proporcionar al Juez, de oficio, toda la información conducente para la aplicación de estas medidas, mismas que recomendará el Consejo Técnico Interdisciplinario que corresponda, previo estudio biopsicosocial del inculpado. Si el Órgano de Ejecución no proporcionara dicha información al Juez, éste informará lo anterior al Supremo Tribunal de Justicia para que, a su vez, lo haga del conocimiento del Ejecutivo del Estado y se imponga la destitución y responsabilidades que procedan al Director del establecimiento y al Consejo Técnico Interdisciplinario competentes.
+
+V.- Para la aplicación de penas sustitutivas se requerirá, además, que:
+
+a).- La pena de prisión a substituir no se hubiere impuesto por delito que el artículo 109 del Código de Procedimientos Penales defina como grave;
+
+b).- El sujeto no haya sido condenado anteriormente en sentencia ejecutoriada por delito doloso o preterintencional que se persiga de oficio;
+
+c).- En su caso, pague o garantice el monto de la reparación del daño, en cualquiera de las formas previstas en las fracciones I a IV del artículo 401 del Código de Procedimientos Penales del Estado.
+
+Si la sentencia condena a la reparación del daño, pero sin fijar su monto en cantidad líquida, se aplicará desde luego el sustitutivo correspondiente si el sentenciado se encuentra detenido, quedando obligado a que, una vez hecha la liquidación, cubra el monto o garantice su pago, o se someta a las condiciones que se le fijen para pagarlo dentro del plazo o plazos que prudentemente fije el Juez. Si el sentenciado no satisface la obligación que en ese sentido le fuere impuesta y no acredita su imposibilidad para hacerlo dentro del plazo otorgado, se le revocará la sustitución concedida y se ordenará su aprehensión o reaprehensión, para que se ejecute la pena de prisión, en los términos del último párrafo del inciso b) de la fracción VIII de este artículo.
+
+Si el sentenciado no se encuentra detenido y se hubiere otorgado caución para reparar el daño, ésta se hará efectiva en las garantías exhibidas, lo anterior sin perjuicio de ulterior liquidación y pago de la diferencia resultante, que de no ser cubierta en el plazo o plazos que prudentemente fije el Juez y no acredite su imposibilidad para hacerlo dentro del plazo otorgado, motivará la revocación del sustitutivo concedido y se ordenará la aprehensión o reaprehensión en los términos del párrafo anterior;
+
+d).- La pena de prisión que no se estime como más adecuada que el sustitutivo. El sustitutivo se estimará como más adecuado que la pena de prisión, salvo que en atención a las circunstancias personales del sentenciado y a su comportamiento previo o en relación al proceso, se desprendan motivos razonables por los que el órgano jurisdiccional considere preferible la de prisión, para cumplir los fines de readaptación social; y
+
+e).- Otorgue caución para asegurar su presentación cuantas veces sea llamado por la autoridad.
+
+VI.- Como medidas de seguridad, cuando se aplique una pena sustitutiva, el sentenciado tendrá las siguientes obligaciones:
+
+a).- No podrá cambiar de residencia, sin autorización de la autoridad judicial;
+
+b).- Comparecer ante el Juez de la causa y ante la dependencia del Ejecutivo a la que corresponda la ejecución de la sanción privativa de la libertad, cuantas veces sea requerido, e informar a ésta mensualmente y por escrito, sobre el cumplimiento de la pena sustitutiva, adjuntando las constancias que así lo acredite y que le deberán expedir los establecimientos donde cumpla las medidas de seguridad y la que le deberá expedir su familia respecto a las actividades semanales que se le ordenaron; y
+
+c).- Deberá observar una actitud de respeto hacia la comunidad y de estricto cumplimiento a las leyes.
+
+Tanto el Código de Procedimientos Penales como la Ley para la Prevención de Conductas Antisociales, Auxilio a las Víctimas, Medidas Tutelares y Readaptación Social para el Estado, en lo conducente, reglamentarán las formas en que deberá cumplirse, por el sujeto, con los informes y constancias mensuales.
+
+De los informes y constancias que reciba el órgano encargado de la ejecución se llevará un expediente individualizado de control y vigilancia y tendrá dicho órgano la obligación de informar al Juez de la causa:
+
+1.- Cualquier dato que pudiera ocasionar la revocación de la pena sustitutiva; y
+
+2.- Cualquier informe o el desarrollo de actividad que sea competencia del órgano de ejecución, cuantas veces le requiera el juzgador.
+
+VII.- La duración de las sanciones de prisión intermitente y de trabajo en favor de la comunidad, será la misma que la de la sanción de privación de la libertad a la que sustituye, fijada previamente por el juzgador según sus equivalencias.
+
+Si el sentenciado cumple a satisfacción con la sanción sustitutiva, el Juez, al transcurrir su término y previos los informes de las instituciones públicas y privadas, declarará extinguida la sanción sustituida.
+
+VIII.- El Juez, a petición del Ministerio Público, podrá dejar sin efecto la sustitución y ordenará la aprehensión o reaprehensión del sentenciado, para que se ejecute la pena de prisión impuesta, en los casos siguientes:
+
+a).- Cuando al sentenciado se le condene por otro delito doloso o preterintencional;
+
+b).- Cuando el sentenciado incumpla con cualquiera de las condiciones o medidas de seguridad y actividades que le fueron impuestas; y
+
+c).- Cuando se demuestre posteriormente que el sentenciado no tenía derecho al sustitutivo.
+
+Cuando el Juez notifique personalmente a los responsables de los establecimientos donde el sentenciado recibirá el tratamiento, la educación, la capacitación y prestará su trabajo a favor de la comunidad, insertará en la cédula el texto del artículo 258 bis de este Código que contiene las penas para los responsables del delito de falsedad en esta clase de informes y les solicitará que en cada informe mensual que rindan deberán incluir la protesta de decir verdad. Cuando la autoridad tenga conocimiento de que pudo incurrir en falsedad alguno de los responsables de dichos establecimientos, pondrá los hechos en conocimiento del Ministerio Público y del Procurador de Justicia para los efectos legales que procedan. La víctima o el ofendido tendrá legitimación para acudir al Juez de la causa e informarle sobre cualquier incumplimiento del sentenciado o del responsable del establecimiento donde deba cumplir con las penas sustitutas. Ninguna autoridad estatal o municipal podrá negarse a cumplir la orden judicial de aplicar el tratamiento, la educación, la capacitación y demás medidas que se ordenen en substitución de la pena de prisión, salvo en casos justificados que se deberán acreditar por el servidor público respectivo, mediante incidente en que se oirá a su superior inmediato, a la Unidad de la Contraloría del Ejecutivo, al Ministerio Público, a la víctima u ofendido y al sentenciado.
+
+Asimismo, al decretar el Juez las penas sustitutivas, remitirá oficio con copia de la resolución donde las decida a la Secretaría General de Gobierno para que sea distribuida a los responsables de los cuerpos de seguridad estatal y municipales de la entidad. Toda autoridad que por virtud de su cargo tome conocimiento del incumplimiento de alguna de las medidas y penas sustitutas deberá informarlo a la Dependencia dicha para que a su vez lo comunique al Juez de la causa. Si alguna autoridad incumple esta obligación de informar, será destituido del cargo de inmediato, independientemente de otras sanciones que le correspondan.
+
+Para la revocación o modificación de las condiciones o medidas del sustitutivo, o su sustitución por otro, al igual que para su concesión, si no se otorgó en sentencia, se estará al incidente respectivo previsto en el Código de Procedimientos Penales.
+
+Si se revocaren las penas sustitutivas, el Juez dictará resolución a partir del internamiento del sentenciado en el Centro respectivo, en la que determinará el período compurgado a virtud del trabajo a favor de la comunidad, por la prisión intermitente, por el tiempo cumplido en el régimen de libertad o por la combinación de ambos, para efecto de señalar el tiempo de prisión restante por compurgar.
+
+En caso de que el sentenciado incumpliera sus obligaciones, independientemente de la revocación de la pena sustituida, se hará acreedor a las sanciones que le correspondan de conformidad con los artículos 164 a 167 de este Código o por algún otro delito que con tal conducta cometiere.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+ARTICULO 108 BIS.- Cuando por haber sufrido el sujeto activo consecuencias graves en su persona o por su senilidad o su precario estado de salud, fuere notoriamente innecesaria e irracional la imposición de una pena privativa y restrictiva de la libertad, el Juez, de oficio o a petición de parte, motivando su resolución, podrá sustituirla por la de confinamiento y por medidas de seguridad. En todo caso el juzgador se apoyará en dictámenes de peritos.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 109.
 
-Lo dispuesto en el artículo anterior, excluye la aplicación simultánea o sucesiva de la condena condicional, salvo que la capacidad económica no le permita de ningún modo cumplir con la pena conmutada.
+Los Jueces, apreciando las circunstancias personales del culpable, los móviles de su conducta, así como las circunstancias del hecho, podrán a su prudente arbitrio, conmutar en la sentencia la pena de prisión, cuando ésta no exceda de dos años, por la multa que no podrá ser menor de veinte ni mayor de doscientos días de salario, según las condiciones económicas del delincuente y las circunstancias que antes se mencionan. En este caso quedará a elección del sentenciado compurgar la pena corporal o pagar la multa impuesta.
+
+Este beneficio excluye la aplicación simultánea o sucesiva de la condena condicional, salvo que la capacidad económica no le permita de ningún modo cumplir con la pena conmutada.
 
 ###### ARTICULO 110.
 
@@ -1205,6 +1413,8 @@ Se entiende por pandilla, para los efectos de esta disposición, la reunión hab
 
 ### CAPITULO II. CORRUPCION DE MENORES
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 172.
 
 Comete el delito de ataques a las vías de comunicación:
@@ -1339,19 +1549,17 @@ Al responsable de los delitos previstos en este capítulo, se le impondrá una s
 
 ###### ARTICULO 192.
 
-Comete el delito de corrupción de menores:
+Comete el delito de corrupción de menores e incapaces el que procure o facilite la corrupción de un menor de dieciséis años de edad o de quien no tenga capacidad de comprender el significado del hecho, mediante actos de exhibicionismo corporal, lascivos o sexuales, o los induzca por cualquier medio a la práctica de la mendicidad, la ebriedad, la toxicomanía, la prostitución, al homosexualismo, a formar parte de una asociación delictuosa, o a cometer cualquier delito.
 
-I.- El que procure o facilite la depravación sexual de una persona mayor de doce y menor de dieciséis años de edad;
-
-II.- El que inicie en la vida sexual o en la depravación, a menores de doce años de edad; y
-
-III.- El que induzca, incite o auxilie a la práctica de la mendicidad, ebriedad, toxicomanía u otros hábitos viciosos, o a formar parte de una asociación delictuosa, a menores de dieciséis años de edad.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 193.
 
-Al responsable del delito a que se refiere el artículo anterior, se le impondrá una sanción de seis meses a cinco años de prisión y multa de quince a setenta días salario.
+Al responsable del delito a que se refiere el Artículo anterior se le impondrá una sanción de tres a ocho años de prisión y multa de cincuenta a doscientos días salario.
 
-Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor y debido a ello se adquieran los hábitos de alcoholismo, uso de substancias tóxicas u otras que produzcan efectos similares, se dedique a la prostitución o a las prácticas homosexuales o forme parte de una asociación delictuosa, la sanción a imponer será de cinco a diez años de prisión y multa de setenta a ciento veinte días salario.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+Cuanto (sic) los actos de corrupción se realicen reiteradamente sobre el mismo menor o incapaz y debido a ello se adquieran los hábitos de alcoholismo, uso de substancias tóxicas u otras que produzcan efectos similares, se dedique a la prostitución o a las prácticas homosexuales o forme parte de una asociación delictuosa, la sanción a imponer será de cinco a diez años de prisión y multa de cien a cuatrocientos días salario.
 
 Si además de los delitos previstos en este capítulo resultare cometido otro, se aplicarán las reglas del concurso.
 
@@ -1361,9 +1569,11 @@ Queda prohibido emplear a menores de dieciséis años de edad en billares, canti
 
 Para los efectos de este precepto se considerará como empleado en el billar, la cantina, taberna, giro mixto y centro de vicio, al menor que por un salario, por la sola comida, por comisión de cualquier índole, por cualquier otro estipendio, gaje o emolumento o gratuitamente preste sus servicios en tal lugar.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 195.
 
-La sanción señalada en el artículo 193, se aumentará con otro tanto más cuando el responsable sea ascendiente, padrastro o madrastra del menor, privándolo de todo derecho a los bienes del ofendido. En caso de reincidencia perderá, además, la patria potestad sobre todos sus descendientes.
+La sanción señalada en el Artículo 193 se aumentará con otro tanto más cuando el responsable tenga parentesco por consanguinidad, por afinidad o civil o habite en el mismo domicilio con la víctima, aunque no existiere parentesco alguno, así como por el tutor o curador; asimismo perderá la patria potestad respecto de todos sus descendientes, el derecho a alimentos que le correspondiera por su relación con la víctima y el derecho que pudiera tener respecto a los bienes de ésta.
 
 ###### ARTICULO 196.
 
@@ -1537,9 +1747,7 @@ Cometen el delito de coalición de servidores públicos los que teniendo tal car
 
 A los que cometan el delito de coalición a que se refiere el Artículo anterior, se les impondrá una sanción de dos a ocho años de prisión, multa de cien a cuatrocientos días de salario y destitución e inhabilitación de tres a nueve años para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPITULO II
-
-FALSIFICACION Y USO DE SELLOS, LLAVES, PUNZONES, MATRICES, MARCAS, SEÑALES, PLANCHAS, CONTRASEÑAS Y FIERROS.
+### CAPITULO II. FALSIFICACION Y USO DE SELLOS, LLAVES, PUNZONES, MATRICES, MARCAS, SEÑALES, PLANCHAS, CONTRASEÑAS Y FIERROS
 
 ###### ARTICULO 216.
 
@@ -1703,6 +1911,8 @@ Al responsable del delito de tráfico de influencia se le impondrá sanción de 
 
 ### CAPITULO I. IMPUDICIA
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 230.
 
 Se sancionará a quien, con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquéllos respecto de los cuales se conduzca como dueño en los términos de la Ley de Responsabilidades de los Servidores Públicos.
@@ -1726,6 +1936,8 @@ III.- Cuando el monto a que ascienda el enriquecimiento ilícito exceda de cinco
 ## TITULO NOVENO. DELITOS COMETIDOS EN EL DESEMPEÑO DE FUNCIONES JUDICIALES O ADMINISTRATIVAS
 
 ### CAPITULO II. ESTRUPO
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 232.
 
@@ -1783,11 +1995,61 @@ XXV.- Dar a conocer resoluciones que deban mantenerse en el secreto judicial por
 
 XXVI.- Nombrar síndico o interventor en un concurso o quiebra, a una persona que sea deudor, pariente o que haya sido abogado del fallido, o a persona que tenga con el funcionario relación de parentesco, estrecha amistad o esté ligado a él por negocios de interés común;
 
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
+
+XXVII.- Ordenar que una persona sujeta a prisión intermitente, en cumplimiento de dicha sanción se ha internado en lugares donde tenga contacto directo con otros sentenciados que se encuentren cumpliendo pena diversa;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
+
+XXVIII.- Negarse injustificadamente a ejecutar la orden judicial firme de impartir educación, capacitar para el trabajo o aplicar un tratamiento a un sentenciado al que se substituyó la pena de prisión por otras alternativas;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
+
+XXIX.- Abstenerse de informar a la autoridad competente, teniendo obligación legal de hacerlo, del incumplimiento de un sentenciado a sus obligaciones derivadas de una resolución donde se le hubiere concedido el beneficio de penas alternativas;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
+
+XXX.- No decretar en la resolución que substituya la pena de prisión por las demás alternativas, las medidas a que se refiere el número 10 del inciso b) de la fracción III del artículo 108 de este Código, salvo que dichas medidas perjudiquen a la familia del sentenciado o su readaptación;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
+
+XXXI.- Negarse injustificadamente los responsables de establecimientos públicos a expedir gratuitamente las constancias mensuales a los sentenciados que efectivamente hubieren acudido a recibir tratamiento, educación o capacitación para el trabajo, como medidas o penas decretadas en substitución de la de prisión y que el Juez respectivo les ordenó ejecutar;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
+
+XXXII.- Abstenerse la autoridad ejecutora, teniendo obligación legal de hacerlo, de llevar un expediente actualizado e individualizado de control, supervisión y vigilancia de cada sentenciado por penas y medidas de seguridad decretadas en substitución de la de prisión;
+
+> <small>(F. DE E., P.O. 19 DE JUNIO DE 1999)</small>
+
+XXXIII.- Abstenerse la autoridad ejecutora de proporcionar los informes que de oficio y de acuerdo con la ley deba rendir o que le solicite el Juez, para decretar éste en su caso penas alternativas, para modificarlas o para revocarlas.
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
+
+XXXIV.- Abstenerse de informar a la autoridad competente, teniendo obligación legal de hacerlo, del incumplimiento del Juez o del Ministerio Público o de los miembros de los consejos técnicos interdisciplinarios, a las leyes que rigen el otorgamiento, modificación y revocación de las penas alternativas a la de prisión;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
+
+XXXV.- No ordenar notificación personal, mediante cédula donde se inserte íntegramente el artículo 258 bis de este Código, a los responsables de los establecimientos donde deban cumplirse las penas y medidas substitutivas de la de prisión, u ordenarla omitiendo poner en conocimiento de los destinatarios de dicha notificación de su obligación legal de informar mensualmente bajo protesta de decir verdad y manifestar en cada informe mensual que tienen conocimiento del texto de dicha disposición legal;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
+
+XXXVI.- Tener por legalmente rendidos los informes mensuales de los responsables de los establecimientos públicos donde se cumplan las penas y medidas decretadas en substitución de la de prisión, sin exigir en ellos la protesta de decir verdad y la manifestación del conocimiento del texto del artículo 258 bis de este Código;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
+
+XXXVII.- Rendir dolosamente dos o más informes a la autoridad competente sin formularlo bajo protesta de decir verdad o sin la manifestación de tener conocimiento del delito y penas que establece el artículo 258 bis de este Código, teniendo obligación legal de hacerlo; y
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
+
+XXXVIII.- Abstenerse de informar a la Secretaría General de Gobierno del texto íntegro de las resoluciones donde se concedan penas alternativas, tendiendo obligación legal de hacerlo.
+
 ###### ARTICULO 233.
 
 Al responsable en la comisión de los delitos previstos en el artículo anterior, se le sancionará:
 
-I.- Si infringió las fracciones I, II, III, VII, VIII, IX, XXI, XXV o XXVI se le impondrá una pena de uno a seis años de prisión y multa de treinta a doscientos días salario;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
+
+I.- Si infringió las fracciones I, II, III, VII, VIII, IX, XXI, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII o XXXVIII se le impondrá una pena de prisión de uno a seis años de prisión y multa de cien a doscientos días salario; y
 
 II.- Si infringió las fracciones IV, V, VI, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXII, XXIII o XXIV, se le impondrá una sanción de dos a ocho años de prisión y multa de cien a doscientos días salario.
 
@@ -2003,6 +2265,26 @@ Al que soborne a un testigo, a un perito o a un intérprete para que se produzca
 
 Al testigo, perito, o intérprete que se retracte espontáneamente de sus falsas declaraciones rendidas en juicio, antes de que se pronuncie sentencia en la instancia en que las diere, sólo se le impondrá una multa de cinco a veinte días salario; pero si faltaren a la verdad al retractar sus declaraciones, se les aplicará la sanción que corresponda con arreglo a lo prevenido en este capítulo, que se podrá aumentar hasta un tercio de la sanción a imponer.
 
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+ARTICULO 258 BIS.- Comete el delito de falsedad en informes escritos dados a una autoridad, el que habiendo recibido la encomienda por un Juez:
+
+I.- Para aplicar tratamiento a un sentenciado, informe que dicho sentenciado acudió a recibir el tratamiento ordenado, no siendo cierto;
+
+II.- Para capacitar en el trabajo a un sentenciado, informe que dicho sentenciado adquirió o recibió la capacitación ordenada, sin ser cierto; y
+
+III.- Para impartir educación a un sentenciado, informe falsamente que dicho sentenciado cumplió con el aprendizaje ordenado.
+
+Para que se considere cometido este delito será necesario:
+
+I.- Que el responsable, previamente al informe falso, sea notificado personalmente del contenido de este artículo por el Juez que le encomendó el tratamiento, la capacitación o la educación; y
+
+II.- Que en el escrito donde informe falsamente lleve insertas la protesta de decir verdad y la manifestación textual de estar enterado de las penas que este artículo establece.
+
+(F. DE. E., P.O. 19 DE JUNIO DE 1999)
+
+A los responsables de los delitos a que se refiere este artículo se les impondrá una sanción de dos meses a dos años de prisión y si fuere servidor público se le impondrá además pena de destitución del cargo e inhabilitación para ejercer otro cualquiera durante diez años.
+
 ### CAPITULO V. EXPOSICION DE MENORES
 
 ###### ARTICULO 259.
@@ -2057,11 +2339,13 @@ Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en
 
 ###### ARTICULO 267.
 
-Comete el delito de impudicia el que sin consentimiento de una persona sea cual fuere su edad, o con el consentimiento de ésta si es menor de doce años o se trate de una persona que por cualquier causa no pudiere resistir, ejecute en ella o la haga ejecutar, un acto erótico sin el propósito directo e inmediato de llegar a la cópula.
+Comete el delito de impudicia el que sin consentimiento de una persona sea cual fuere su edad, o con el consentimiento de ésta si es menor de doce años o se trate de una persona que no tenga la capacidad de comprender el significado del hecho o que por cualquiera causa no pudiere resistirlo, ejecute en ella o la haga ejecutar, un acto erótico sin el propósito directo e inmediato de llegar a la cópula.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 268.
 
-Al responsable del delito de impudicia se le impondrá una sanción de dos meses a dos años de prisión y multa de cuatro a cuarenta días salario. Si el delito se ejecutare por medio de la violencia física o moral, se impondrá al responsable una sanción de dos a cuatro años de prisión y multa de cuarenta a sesenta días salario; si además de los simples tocamientos eróticos el activo hiciere ejecutar al pasivo actos depravados, la sanción será de dos a cinco años y multa de cuarenta días salario.
+Al responsable del delito de impudicia se le impondrá una sanción de seis meses a cuatro años de prisión y multa de cuarenta a sesenta días salario. Si el delito se ejecutare por medio de la violencia física o moral, el mínimo y el máximo de la pena se aumentará en una mitad. Si además de los simples tocamientos eróticos el activo hiciere ejecutar al pasivo actos depravados, la sanción será de dos a cinco años y multa de cuarenta días salario.
 
 ###### ARTICULO 269.
 
@@ -2071,13 +2355,15 @@ El delito de impudicia sólo se castigará cuando se haya consumado.
 
 ###### ARTICULO 270.
 
-Comete el delito de estupro, el que tenga cópula con mujer casta y honesta menor de dieciocho años de edad, obteniendo su consentimiento por medio de seducción o engaño.
+Comete el delito de estupro, al que tenga cópula con persona mayor de doce y menor de dieciocho años de edad, empleando abuso de autoridad u obteniendo su consentimiento por medio de engaño.
 
-Se presumirá que existió la seducción si la ofendida es menor de catorce años de edad.
+Este delito sólo podrá ser perseguido a petición de la parte ofendida o de sus padres y a falta de éstos, por su legítimo representante.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 271.
 
-Al responsable del delito de estupro, se le impondrá una sanción de dos a seis años de prisión y multa de cuarenta a ochenta días salario.
+Al responsable del delito de estupro, se le impondrá una sanción de tres a siete años de prisión y multa de setenta a cien días de salario.
 
 ###### ARTICULO 272.
 
@@ -2089,15 +2375,35 @@ No se procederá contra el responsable del delito de estupro, sino por queja de 
 
 Comete el delito de violación, el que por medio de la violencia física o moral, tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 274.
 
-Al responsable del delito de violación se le impondrá una sanción de seis a doce años de prisión si la persona ofendida es mayor de catorce años de edad; si no llegare a esa edad, la sanción a imponer será de siete a catorce años de prisión.
+Al responsable de delito de violación se le impondrá una sanción de ocho a catorce años de prisión, si la víctima fuere la esposa, solo se perseguirá por querella de parte ofendida.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+Se considerará también como violación y se sancionará con prisión de ocho a catorce años, al que introduzca por vía vaginal o anal cualquier elemento o instrumento distinto al miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
 
 Si la violación fuere precedida o acompañada de golpes o lesiones o se cometiere cualquier otro hecho delictuoso, se observarán las reglas del concurso real.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 275.
 
-Se equipara a la violación la cópula con persona que se halle sin sentido, no tenga expedito el uso de su razón, o por cualquier causa no pudiera resistir la conducta delictuosa, o fuera menor de doce años de edad.
+Se equipará a la violación y se sancionará con la misma pena.
+
+I.- Al que sin violencia realice cópula con persona menor de doce años de edad;
+
+II.- Al que sin violencia realice cópula con persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo; y,
+
+III.- Al que sin violencia y con fines lascivos introduzca por vía anal o vaginal cualquier elemento o instrumento distinto del miembro viril en una persona menor de doce años de edad o persona que no tenga capacidad de comprender el significado del hecho, o por cualquier causa no pueda resistirlo, sea cual fuere el sexo de la víctima.
+
+Si se ejerciere violencia física o moral, el mínimo y el máximo de la sanción se aumentarán en una mitad.
 
 ###### ARTICULO 276.
 
@@ -2124,6 +2430,10 @@ Los responsables a que se refiere el artículo anterior, quedarán privados de s
 ###### ARTICULO 279.
 
 La reparación del daño en los casos de estupro y violación, comprenderá el pago de alimentos a los hijos si los hubiere, y se hará en la forma y términos de la Ley Civil.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+ARTICULO 279 bis.- La reparación del daño como consecuencia de la comisión de los delitos previstos en este Título comprenderá el pago de los gastos médicos originados por el ilícito y el pago del tratamiento psicoterapéutico para el sujeto pasivo, y los intrafamiliares de éste que así lo requieran.
 
 ## TITULO DECIMO TERCERO. DELITOS CONTRA LA FAMILIA Y EL ESTADO CIVIL
 
@@ -2229,7 +2539,27 @@ El delito de abandono de familia sólo se perseguirá a petición del cónyuge o
 
 Para que el perdón concedido por el ofendido pueda extinguir la acción o la sanción impuesta aun por sentencia firme, deberá éste pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos, y otorgar fianza u otra caución de que en lo sucesivo pagará la cantidad que le corresponda.
 
-### CAPITULO I. GOLPES Y VIOLENCIAS FISICAS SIMPLES
+### CAPITULO X. VIOLENCIA INTRAFAMILIAR
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+ARTICULO 368 bis.- Por violencia intrafamiliar se considera el uso de la fuerza física o moral, así como la omisión grave, que de manera reiterada se ejerce en contra de un miembro de la familia por otro integrante de la misma contra su integridad física, psíquica o ambas, independientemente de que puedan producir o no lesiones.
+
+Comete el delito de violencia intrafamiliar el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, que habite en la misma casa de la víctima.
+
+A quien comete el delito de violencia intrafamiliar se le impondrá de seis meses a cuatro años de prisión y perderá el derecho de pensión alimenticia. Asimismo se le sujetará a tratamiento psicológico especializado.
+
+Este delito se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz, en que se perseguirá de oficio.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+ARTICULO 368 ter.- Se equipara a la violencia intrafamiliar y se sancionará con seis meses a cuatro años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentre unida fuera del matrimonio; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona, o de cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona, siempre y cuando el agresor y el agredido habiten en la misma casa.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+ARTICULO 368 quáter.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma.
+
+La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
 
 ###### ARTICULO 300.
 
@@ -2243,7 +2573,7 @@ A los responsables del delito a que se refiere el Artículo anterior se les impo
 
 ## TITULO DECIMO CUARTO. DELITOS CONTRA LA SALUBRIDAD Y SEGURIDAD EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
-### CAPITULO II. INJURIAS
+### CAPITULO I. GOLPES Y VIOLENCIAS FISICAS SIMPLES
 
 ###### ARTICULO 302.
 
@@ -2267,7 +2597,7 @@ II.- Al que profane un cadáver o restos humanos con actos de vilipendio, mutila
 
 ## TITULO DECIMO QUINTO. DELITOS CONTRA LA PAZ Y SEGURIDAD DE LAS PERSONAS
 
-### CAPITULO III. DIFAMACION
+### CAPITULO II. INJURIAS
 
 ###### ARTICULO 318 Bis.
 
@@ -2282,6 +2612,10 @@ Comete el delito a que se refiere este capítulo el que por cualquier medio inti
 ###### ARTICULO 306.
 
 Al responsable del delito de amenazas se le impondrá una sanción de tres días a un año de prisión y multa de uno a treinta días salario.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+Si el ofendido fuere alguno de los parientes o personas a que se refieren los artículos 368 bis y 368 ter, en este último caso siempre y cuando habiten en el mismo domicilio, se aumentará la sanción que corresponde hasta en una tercera parte en su mínimo y en su máximo.
 
 ###### ARTICULO 307.
 
@@ -2303,7 +2637,7 @@ Si el activo cumple su amenaza se acumulará la sanción de ésta y la del delit
 
 Si exigió que el amenazado cometiera un delito, se acumulará a la sanción de la amenaza la que le corresponda por su participación en el delito que resulte.
 
-### CAPITULO IV. CALUMNIA
+### CAPITULO III. DIFAMACION
 
 ###### ARTICULO 310.
 
@@ -2317,7 +2651,7 @@ Al responsable del delito de allanamiento de morada se le impondrá una sanción
 
 Se impondrá la misma sanción prevista en el artículo anterior, al que permanezca en los lugares señalados en el artículo 310, con engaño o contra la voluntad expresa de la persona autorizada para ello.
 
-### CAPITULO V. DISPOSICIONES COMUNES A LOS ARTICULOS PRECEDENTES
+### CAPITULO IV. CALUMNIA
 
 ###### ARTICULO 313.
 
@@ -2333,7 +2667,7 @@ Al responsable del delito de asalto, se le impondrá sanción de cuatro a siete 
 
 Si un grupo de tres o más personas, atacare un lugar poblado, se impondrá una sanción de diez a veinte años de prisión a los cabecillas o jefes; y de ocho a quince años de prisión a los demás.
 
-### CAPITULO I. PRIVACION ILEGAL DE LA LIBERTAD Y DE OTRAS GARANTIAS
+### CAPITULO V. DISPOSICIONES COMUNES A LOS ARTICULOS PRECEDENTES
 
 ###### ARTICULO 316.
 
@@ -2353,13 +2687,15 @@ II.- Si se cometiere por conductores de transporte de servicio público o escola
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE JUNIO DE 1988)</small>
 
+### CAPITULO I. PRIVACION ILEGAL DE LA LIBERTAD Y DE OTRAS GARANTIAS
+
 ### CAPITULO II. RAPTO
 
-### CAPITULO I. ROBO
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 ## TITULO DECIMO SEXTO. DELITOS CONTRA LA VIDA Y LA SALUD DE LAS PERSONAS
 
-### CAPITULO II. ABUSO DE CONFIANZA
+### CAPITULO I. ROBO
 
 ###### ARTICULO 319.
 
@@ -2411,21 +2747,23 @@ Si las lesiones fueren inferidas en riña, se impondrá al responsable de la ter
 
 Si las lesiones fueren cometidas bajo alguna de las circunstancias previstas en los artículos 341, 342, 343, 344, 345, se estimarán calificadas y al responsable se le impondrá hasta una mitad más de la sanción que le corresponda.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 327.
 
-Si el ofendido fuere ascendiente o descendiente del autor de una lesión y ésta sea dolosa, a la sanción que le corresponda se aumentará hasta dos años más de prisión.
+Si el ofendido fuere alguno de los parientes o personas a que se refieren los artículos 368 bis y 368 ter, en este último caso siempre y cuando cohabite con el ofendido se aumentará la sanción que corresponda hasta en una tercera parte en su mínimo y en su máximo, con arreglo a los artículos que preceden, salvo que también se tipifique el delito de violencia intrafamiliar.
 
 ###### ARTICULO 328.
 
 Al que ejerciendo la patria potestad o la tutela infiera lesiones a los menores o pupilos que estén bajo su guarda, además de la pena correspondiente a las lesiones se le suspenderá o privará en el ejercicio de sus derechos sobre aquéllos.
+
+### CAPITULO II. ABUSO DE CONFIANZA
 
 ### CAPITULO III. FRAUDE
 
 ### CAPITULO IV. USURA
 
 ### CAPITULO V. CHANTAJE
-
-### CAPITULO VI. EXTORSION
 
 ###### ARTICULO 329.
 
@@ -2487,7 +2825,7 @@ El homicidio es calificado cuando se comete con premeditación, ventaja, alevos�
 
 Al autor de un homicidio calificado se le impondrá una sanción de dieciséis a treinta años de prisión.
 
-### CAPITULO VII. DESPOJO DE COSAS INMUEBLES O DE AGUAS
+### CAPITULO VI. EXTORSION
 
 ###### ARTICULO 338.
 
@@ -2545,7 +2883,7 @@ I.- Declarar a los reos sujetos a la vigilancia de la policía; y
 
 II.- Prohibirles ir a determinado lugar, o municipio del Estado, o residir en él.
 
-### CAPITULO VIII. DAÑO EN PROPIEDAD
+### CAPITULO VII. DESPOJO DE COSAS INMUEBLES O DE AGUAS
 
 ###### ARTICULO 348.
 
@@ -2555,7 +2893,7 @@ Al que prestare auxilio o indujere a otro para que se suicide hasta llegar a su 
 
 Se impondrán las sanciones de homicidio calificado al que induzca o auxilie al suicidio a un menor de dieciséis años o a una persona que no tuviera capacidad de comprensión. Si el suicidio no se consuma y sólo se causan lesiones, se impondrá al activo la sanción que corresponda a lesiones calificadas.
 
-### CAPITULO IX. REGLAS COMUNES PARA LOS CAPITULOS PRECEDENTES
+### CAPITULO VIII. DAÑO EN PROPIEDAD
 
 ###### ARTICULO 350.
 
@@ -2565,7 +2903,7 @@ Comete el delito de parricidio el que dolosamente prive de la vida a cualquier a
 
 Al que cometa el delito de parricidio se le impondrá una sanción de veinte a treinta años de prisión.
 
-### CAPITULO UNICO
+### CAPITULO IX. REGLAS COMUNES PARA LOS CAPITULOS PRECEDENTES
 
 ###### ARTICULO 352.
 
@@ -2592,8 +2930,6 @@ IV.- Que el infante no sea producto de unión matrimonial o concubinato.
 Si en el caso a que se refiere el artículo anterior tomare participación un médico, partero o enfermero, además de las sanciones privativas de libertad por homicidio, se le suspenderá de uno a seis años en el ejercicio de su profesión a juicio del juez.
 
 ### CAPITULO UNICO
-
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
 
 ###### ARTICULO 356.
 
@@ -2631,6 +2967,10 @@ II.- Cuando el embarazo haya sido resultado de una violación; y
 
 III.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de un grave daño a su salud a juicio del médico que la asista, oyendo éste la opinión de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
+
 ###### ARTICULO 362.
 
 Comete el delito de abandono de personas, el que teniendo obligación de cuidarlos, abandone a un menor, a una persona enferma o a un anciano, incapaces de cuidarse a sí mismos.
@@ -2660,6 +3000,8 @@ Comete el delito de ataques peligrosos, quien en razón del arma empleada, de la
 A los responsables de los delitos señalados en los dos artículos anteriores, se les impondrá de tres días a dos años de prisión y multa de uno a cuarenta días salario.
 
 Si a consecuencia de las agresiones mencionadas se causaren lesiones u homicidio, sólo se aplicarán las sanciones que corresponda para estos delitos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRA, P.O. 5 DE JUNIO DE 1999)</small>
 
 ## TITULO DECIMO SEPTIMO. DELITOS CONTRA EL HONOR
 
@@ -2700,6 +3042,10 @@ Comete el delito de difamación, el que comunique a una o más personas, la impu
 ###### ARTICULO 375.
 
 Al responsable del delito de difamación se le impondrá una sanción de tres meses a dos años de prisión o multa de seis a cuarenta días salario, o ambas sanciones a juicio del Juez.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+Si el ofendido fuere alguno de los parientes o personas a que se refieren los artículo (sic) 368 bis y 368 quáter, en este último caso siempre y cuando habite en el mismo domicilio con la víctima, la sanción se aumentará en un tercio.
 
 ###### ARTICULO 376.
 
@@ -2815,33 +3161,49 @@ VI.- Si se detiene en calidad de rehén alguna persona y se amenaza con privarla
 
 Cuando el delito lo cometa un familiar del menor que no ejerza sobre él la patria potestad ni la tutela, la pena será de seis meses a cinco años de prisión.
 
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+ARTICULO 391 bis.- Cuando el ascendiente sin limitación de grado o pariente consanguíneo colateral o por afinidad hasta el cuarto grado de un menor, lo sustraiga o cambie del domicilio donde habitualmente reside, lo retenga o impida que regrese al mismo, sin la autorización de quienes ejercen la patria potestad o resolución de autoridad competente, no permitiendo a la madre o al padre convivir con el menor o visitarlo, se le aplicará una sanción de uno a tres años de prisión y de treinta a trescientos días multa.
+
+Este delito se perseguirá por querella de la parte ofendida.
+
 ###### ARTICULO 392.
 
 Si el responsable, en el caso del artículo anterior, espontáneamente pone en libertad al afectado antes de tres días, sin causar ningún daño, se le impondrá de un mes a tres años de prisión y multa de treinta a cincuenta días salario.
 
 ###### ARTICULO 393.
 
-Comete el delito de rapto, el que sustraiga o retenga a una mujer por medio de la violencia física o moral, o del engaño, para satisfacer algún deseo erótico sexual o para casarse.
+Comete el delito de rapto, el que sustraiga o retenga a una persona por medio de la violencia física o moral, o del engaño, para satisfacer algún deseo erótico sexual o para casarse.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 394.
 
-Al responsable del delito de rapto se le impondrá una sanción de uno a seis años de prisión y multa de treinta a ochenta días salario.
+Al responsable del delito de rapto se le impondrá una sanción de tres a seis años de prisión y multa de cuarenta a ochenta días salario.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 395.
 
-Se impondrá la sanción del artículo anterior, aunque el raptor no emplee la violencia ni el engaño, y consienta en el rapto la mujer, si ésta fuere menor de catorce años de edad.
+Se impondrá la sanción del Artículo anterior aunque el raptor no emplee la violencia ni el engaño, y consienta en el rapto la persona, si ésta fuere menor de catorce años de edad. Si el medio empleado fuese la violencia la pena se aumentará hasta en una mitad más.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 396.
 
-Cuando el raptor se case con la mujer ofendida, no se podrá proceder contra él ni contra sus cómplices.
+Si el autor del delito, sin haber practicado con la víctima acto sexual alguno, le restituye la libertad o la coloca en lugar seguro a disposición de su familia dentro de los tres días siguientes a la comisión del delito, podrá disminuirse la pena hasta la mitad.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 397.
 
-No se procederá contra el raptor sino por queja de la mujer ofendida o de su marido; pero si la raptada fuere menor de edad, por queja de quien ejerza la patria potestad o la tutela, o, en su defecto, por la misma menor.
+El delito de rapto se perseguirá por querella de parte ofendida o de su legítimo representante.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 398.
 
-Cuando con el rapto concurra otro delito perseguible de oficio, por este último si se procederá contra el raptor.
+Cuando con el rapto concurra otro delito perseguible de oficio, se aplicarán las reglas del concurso.
 
 ## TITULO DECIMO NOVENO. DELITOS EN RELACION CON EL PATRIMONIO
 
@@ -3484,3 +3846,27 @@ P.O. 30 DE ENERO DE 1999.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JUNIO DE 1999.
+
+DECRETO No. 23
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día treinta de junio de mil novecientos noventa y nueve, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+A las personas cuyo proceso judicial se encuentre en trámite a la fecha de iniciación de la vigencia de este Decreto, en la sentencia podrán aplicárseles las penas sustitutivas previstas en la presente reforma legislativa, en caso de ser procedente.
+
+###### ARTICULO TERCERO.
+
+Las personas que hubieren sido condenadas por sentencia ejecutoriada antes de la iniciación de vigencia de este Decreto y se encuentren en los supuestos de esta reforma legislativa, podrán promover la aplicación de penas sustitutivas mediante el incidente respectivo, en los términos del Código de Procedimientos Penales para el Estado.
+
+P.O. 5 DE JUNIO DE 1999.
+
+DECRETO No. 28
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
