@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-la-ley-catastral-y-registral-del-estado-de-8493"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-12-15"
-last_updated: "1994-12-15"
+last_updated: "2002-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO DE LA LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE ABRIL DE 2002.
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el jueves 15 de diciembre de 1994.
 
@@ -31,13 +31,19 @@ MANLIO FABIO BELTRONES RIVERA, Gobernador del Estado, en ejercicio de la faculta
 
 REGLAMENTO DE LA LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA
 
-## TITULO PRIMERO. DEL OBJETO Y DE LAS AUTORIDADES
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 1 DE ABRIL DE 2002)</small>
 
-### CAPITULO I. DEL OBJETO Y DEL INSTITUTO
+## TITULO PRIMERO. DEL OBJETO Y DEL INSTITUTO CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 1 DE ABRIL DE 2002)</small>
+
+### CAPITULO I. DEL OBJETO
 
 ###### ARTICULO 1o.
 
 El presente ordenamiento tiene por objeto reglamentar las disposiciones contenidas en la Ley Catastral y Registral del Estado de Sonora.
+
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 2o.
 
@@ -47,67 +53,115 @@ I.- Ley: Ley Catastral y Registral del Estado de Sonora;
 
 II.- Instituto: Instituto Catastral y Registral del Estado de Sonora;
 
-III.- Registro: el Registro Público de la Propiedad en el Estado; y
+III.- Consejo: Consejo Técnico Catastral;
 
-IV.- Registrador: el encargado de la oficina del registro público de la propiedad que corresponda.
+IV.- Ayuntamientos: Ayuntamientos de los municipios del Estado;
+
+V.- Registro: Registro Público de la Propiedad en el Estado;
+
+VI.- Registrador: El encargado de la Oficina del Registro Público de la Propiedad que corresponda; y
+
+VII.- Oficina: Oficina del Registro Público de la Propiedad en el Estado.
 
 ###### ARTICULO 3o.
 
 La aplicación y vigilancia de las disposiciones de este Reglamento, corresponden al Instituto.
 
-### CAPITULO II. DE LAS AUTORIDADES CATASTRALES Y REGISTRALES
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 1 DE ABRIL DE 2002)</small>
 
-###### ARTICULO 4º.
+### CAPITULO II. DEL INSTITUTO CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA
 
-El Instituto tendrá competencia en todo el Estado. El Instituto podrá celebrar convenios de coordinación con los ayuntamientos del Estado para la administración y prestación de información de los servicios catastrales, proporcionándoles asesoría técnica, fiscal, administrativa e informática, de conformidad a lo establecido en dichos convenios.
+> <small>(REFORMADO Y REUBICADO, B.O. 1 DE ABRIL DE 2002)</small>
 
-###### ARTICULO 5º.
+###### ARTICULO 4o.
 
-Para la prestación de los servicios registrales en el Estado, las oficinas se establecerán en las cabeceras de los distritos judiciales, que menciona la Ley Orgánica del Poder Judicial del Estado y tendrán la competencia territorial que para cada uno de dichos distritos se señalan en la misma Ley; dependientes en sus aspectos técnicos y operativos a la Dirección General de Servicios Registrales.
+El Instituto tendrá competencia en todo el Estado y, además de las atribuciones que le confiere el artículo 40 de la Ley, tendrá las siguientes funciones:
 
-En cada oficina habrá un Registrador, quien será responsable del cumplimiento de las disposiciones jurídicas que regulan la función registral, en el ámbito territorial del distrito judicial que le corresponda.
+I.- Establecer los mecanismos de coordinación necesarios con los Poderes Legislativo y Judicial y los ayuntamientos para proporcionar a éstos asesoría técnica, fiscal, administrativa e informática, en materia catastral; y
+
+II.- Proporcionar a los ayuntamientos cuando así lo soliciten o en los términos de los convenios que al efecto se celebren asesoría técnica, fiscal, administrativa e informática en materia catastral.
+
+> <small>(REFORMADO Y REUBICADO, B.O. 1 DE ABRIL DE 2002)</small>
+
+###### ARTICULO 5o.
+
+Para los efectos de la Ley y del presente Reglamento, son autoridades en el Instituto:
+
+I.- En materia de servicios catastrales, en el ámbito de sus respectivas competencias:
+
+a).- El Vocal Ejecutivo; y
+
+b).- El Director General de Servicios Catastrales.
+
+II.- En materia de servicios registrales, en el ámbito de sus respectivas competencias:
+
+a).- El Vocal Ejecutivo;
+
+b).- El Director General de Servicios Registrales; y
+
+c).- Los Registradores.
+
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 6o.
 
-El Instituto, órgano desconcentrado de la Secretaría de Finanzas, contará con las siguientes unidades:
+Para la prestación de los servicios registrales en el Estado, las oficinas se establecerán en las cabeceras de los distritos judiciales que menciona la Ley Orgánica del Poder Judicial del Estado y tendrán la competencia territorial que para cada uno de dichos distritos se señalan en la misma.
 
-I.- Vocal Ejecutivo;
+En cada oficina habrá un Registrador, quien será responsable del cumplimiento de las disposiciones jurídicas que regulen la función registral, en el ámbito territorial del distrito judicial que le corresponda.
 
-II.- Dirección General de Servicios Catastrales;
-
-III.- Dirección General de Servicios Registrales;
-
-IV.- Dirección General de Servicios Informáticos;
-
-V.- Dirección General de Enlace y Coordinación con Municipios; y
-
-VI.- Unidad de Servicios Administrativos.
-
-Las atribuciones de las unidades se establecerán en el Reglamento interno.
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 7o.
 
-Son autoridades de los servicios catastrales, en el ámbito de sus respectivas competencias, las siguientes:
+El Instituto contará con un Consejo que tendrá la naturaleza y la integración prevista en la ley:
 
-I.- El Vocal Ejecutivo; y
+El presidente del Consejo podrá invitar a funcionarios de la Administración Pública Federal, Estatal y Municipal, ligados a la materia del Instituto, a formar parte del Consejo o bien para que asistan a las reuniones, pudiendo opinar en relación con lo que en ella se trate.
 
-II.- El Director General de Servicios Catastrales.
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 8o.
 
-Son autoridades de los servicios registrales, en el ámbito de sus respectivas competencias, las siguientes:
+Para los efectos del artículo 41 de la Ley, los presidentes municipales que formarán parte del Consejo se designarán por los municipios de cada grupo que integre las siguientes regiones catastrales en el Estado:
 
-I.- El Vocal Ejecutivo;
+- Región I.- Alamos, Bácum, Benito Juárez, Cajeme, Etchojoa, Huatabampo, Navojoa, Quiriego, Rosario Tesopaco y San Ignacio Río Muerto.
 
-II.- El Director General de Servicios Registrales; y
+- Región II.- Empalme, Guaymas, Hermosillo, La Colorada, Onavas, San Javier, Suaqui Grande y Yécora.
 
-III.- Los Registradores.
+- Región III.- Altar, Atil, Caborca, Oquitoa, General Plutarco Elías Calles, Puerto Peñasco, Pitiquito, San Luis Río Colorado, Sáric, Trincheras y Tubutama
+
+- Región IV.- Bacadéhuachi, Bacerac, Bavispe, Cumpas, Divisaderos, Granados, Huachineras, Huásabas, Moctezuma, Nácori Chico, Nacozari de García, Tepache y Villa Hidalgo.
+
+- Región V.- Agua Prieta, Benjamín Hill, Cananea, Carbó, Cucurpe, Fronteras, Imuris, Magdalena, Naco, Nogales, Opodepe, Santa Ana, San Miguel de Horcasitas y Santa Cruz.
+
+- Región VI.- Aconchi, Arivechi, Arizpe, Bacanora, Bacoachi, Banámichi, Baviácora, Huépac, Mazatán, Rayón, San Felipe de Jesús, Sahuaripa, San Pedro de la Cueva, Soyopa, Ures y Villa Pesqueira.
+
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 9o.
 
-Podrán participar con voz en el Consejo Técnico Catastral, además de los integrantes que establece el artículo 5o. de la Ley, el Colegio de Notarios, los promotores inmobiliarios, los peritos valuadores y los organismos profesionales vinculados con la comercialización de inmuebles.
+El Presidente del Consejo convocará a los municipios integrantes de cada región, para que designen a su respectivo representante ante el Consejo.
 
-El Consejo Técnico Catastral, que se establece como órgano de apoyo del Instituto, tendrá la competencia y atribuciones que establece el artículo 6o. de la Ley.
+> <small>(ADICIONADO, B.O. 1 DE ABRIL DE 2002)</small>
+
+###### ARTICULO 9o.
+
+BIS.- El Consejo tendrá a su cargo, además de las atribuciones señaladas en el artículo 42 de la Ley, las siguientes:
+
+I.- El estudio, análisis, elaboración de dictámenes y propuestas de solución de los asuntos que someta a su consideración el Instituto; y
+
+II.- Opinar sobre los proyectos de instructivos y manuales catastrales formulados coordinadamente por el Instituto y los ayuntamientos.
+
+> <small>(ADICIONADO, B.O. 1 DE ABRIL DE 2002)</small>
+
+###### ARTICULO 9o.
+
+BIS A.- El Consejo contará con un Secretario Técnico que será el Vocal Ejecutivo del Instituto.
+
+> <small>(ADICIONADO, B.O. 1 DE ABRIL DE 2002)</small>
+
+###### ARTICULO 9o.
+
+BIS B.- Los integrantes del Consejo y el Secretario Técnico del mismo, tendrán las atribuciones y facultades previstas en el Reglamento Interior del Instituto.
 
 ## TITULO SEGUNDO. DE LOS SERVICIOS CATASTRALES
 
@@ -157,141 +211,105 @@ n).- Mixtos: habitacional-comercial, habitacional-servicios, habitacional-manufa
 
 ñ).- Campestres de producción (agropecuario, minera, acuícola o forestal).
 
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
+
 ###### ARTICULO 11.
 
 Para los efectos de la Ley y del presente Reglamento, deberá entenderse por:
 
-I.- Actualización de valores: el estudio contínuo de las acciones que modifican los valores unitarios para terrenos y construcciones que se fijan de acuerdo con la Ley y con este Reglamento;
+I.- Catastro.- El inventario de la propiedad raíz, estructurado por el conjunto de registros, padrones y documentos inherentes a la identificación, descripción, cartografía y valuación de los bienes inmuebles ubicados en el territorio del Estado de Sonora;
 
-II.- Modificación de la construcción: el aumento o disminución de la superficie construida de un predio;
+II.- Sistema Estatal de Información Catastral.- Es el conjunto de datos geográficos, alfanuméricos y documentos relacionados entre sí, que contienen los registros relativos a la identificación plena de los datos reales de inmuebles en el Estado;
 
-III.- Avalúo provisional: el que fija el Instituto con carácter de transitorio, de acuerdo a los elementos técnicos o administrativos de que se dispongan;
+IV (SIC).- Clave catastral.- El código que identifica al predio en forma única, para su localización, el cual será homogéneo en todo el Estado y deberá contener los dígitos de identificación de los predios, relativos a la región, manzana y lote en que se encuentren, así como los dígitos de identificación del municipio y la población al que correspondan;
 
-IV.- Aviso catastral: notificación, informe o anuncio para fines catastrales;
+V.- Valor catastral.- El asignado a cada uno de los bienes inmuebles ubicados en el territorio del Estado de acuerdo a los procedimientos a que se refiere la Ley;
 
-V.- Bienes del dominio público: aquellos que cumplan con los requisitos que establece la Ley de Bienes y Concesiones del Estado y la Ley Orgánica de Administración Municipal, en su caso;
+VII (SIC).- Actualización del valor catastral.- El conjunto de actividades técnicas realizadas para asignar un nuevo valor catastral a un bien inmueble;
 
-VI.- Bienes del dominio privado: aquellos que cumplan con los requisitos que establece la Ley de Bienes y Concesiones del Estado y la Ley Orgánica de Administración Municipal, en su caso;
+VIII.- Bandas de valor.- Cuando un valor unitario no se ajusta a la zona catastral homogénea, se podrá optar en forma complementaria por las bandas de valor, para particularizar las desviaciones del valor unitario de terreno en determinadas calles, que podrán ser mayores o menores al valor unitario de la zona homogénea.
 
-VII.- Bienes inmuebles: aquellos que no pueden trasladarse de un lugar a otro;
+La banda de valor estará identificada por un tramo que podrá abarcar una o varias calles de acuerdo a las características definidas y afectarán directamente a los predios que tenga frente a la misma;
 
-VIII.- Cartografías catastrales: el conjunto de planos o mapas en los que se localiza geográficamente el registro de predios;
+IX.- Valores unitarios:
 
-IX.- Catastro: el inventario de la propiedad raíz en el Estado, estructurado por el conjunto de registros o padrones inherentes a la identificación, registro y valuación de los bienes inmuebles ubicados en el territorio del Estado;
+a).- De suelo.- Los determinados por el suelo por unidad de superficie dentro de cada región catastral.
 
-X.- Clave catastral: la que identifique al predio en el catastro;
+b).- De construcción.- Los determinados por las distintas clasificaciones de construcción por unidad de superficie;
 
-XI.- Coeficiente de demérito: el factor o porcentaje que disminuye los valores unitarios de los predios;
+X.- Bienes del dominio público.- Aquellos que cumplan con los requisitos que establecen las leyes federales, estatales y municipales aplicables en la materia;
 
-XII.- Coeficiente de incremento: el factor o porcentaje que aumente los valores unitarios de los predios;
+XI.- Bienes del dominio privado.- Aquellos que cumplan con los requisitos que establecen las leyes federales, estatales y municipales aplicables en la materia;
 
-XIII.- Colindante: el predio contiguo a otro;
+XII.- Bienes inmuebles.- Aquellos que no pueden trasladarse de un lugar a otro;
 
-XIV.- Consejo Técnico Catastral: al organismo encargado de emitir opinión acerca de los estudios, proyectos, zonificación y productos de información geográfica-catastral, así como determinación de valores unitarios de suelo y construcción y adecuación a los derechos;
+XIII.- Cartografías catastrales.- El conjunto de planos o mapas en lo que se localiza geográficamente el registro de predios;
 
-XV.- Conservación del catastro: mantener actualizados los registros, la cartografía y los valores catastrales;
+XIV.- Coeficiente de demérito.- El factor o porcentaje que disminuye los valores unitarios de los predios;
 
-XVI.- Construcción provisional: la que por su estructura sea fácilmente desmontable en cualquier momento;
+XV.- Coeficiente de incremento.- El factor o porcentaje que aumente los valores unitarios de los predios;
 
-XVII.- Construcción permanente: la que está adherida a un predio de manera fija, en condiciones tales que no pueda separarse del suelo sin deterioro de la propia construcción o de los demás inmuebles unidos a aquel o a esta;
+XVI.- Conservación del catastro.- Mantener actualizado (sic) los registros, la cartografía y los valores catastrales;
 
-XVIII.- Construcción ruinosa: la que por deterioro físico o por sus malas condiciones de estabilidad representa un riesgo para ser habitada o utilizada;
+XVII.- Estadísticas y aprovechamiento de los registros catastrales.- Al agrupamiento y clasificación de la información catastral, para fines multiutilitarios con base en: las claves, los nombres de los propietarios o poseedores, ubicación de los predios, domicilios de notificación, superficie, valores, uso y demás datos que integran el registro;
 
-XIX.- Croquis de la localización: el apunte de ubicación de un predio que permite conocer su localización por referencias;
+XVIII.- Formación de catastro.- Integración de los registros catastrales;
 
-XX.- Cuotas por servicios catastrales: los montos autorizados que se deben cubrir por la prestación de un servicio catastral;
+XIX.- Poseedor.- Es la persona que ejerce un poder físico en forma directa, exclusiva e inmediata sobre un bien inmueble, para su aprovechamiento total o parcial;
 
-XXI.- Domicilio del propietario: el manifestado ante el Instituto para oir notificaciones;
+XX.- Predio construido.- El que tenga construcción permanente adherida al predio, en condiciones tales que no puedan separarse del suelo, sin deterioro de la propia construcción, y el valor de sus construcciones sea mayor al 20% del valor del terreno y que se encuentre en condiciones de ser habitable;
 
-XXII.- Domicilio de ubicación: el registrado ante el Instituto para la localización del predio conforme a la nomenclatura y numeración oficial de la localidad;
+XXI.- Predios no edificados o baldíos.- Predios urbanos sin construcción a excepción de:
 
-XXIII.- Estadísticas y aprovechamiento de los registros catastrales: al agrupamiento y clasificación de la información catastral, para fines multiutilitarios con base en: las claves, los nombres de los propietarios o poseedores, ubicación de los predios, domicilios de notificación, superficie, valores, uso, y demás datos que integran el registro;
+a).- Los bienes inmuebles que se ubiquen en las zonas designadas para la protección o conservación ecológica; las áreas verdes y espacios abiertos de uso público de acuerdo a la zonificación establecida en los programas de desarrollo urbano correspondientes.
 
-XXIV.- Estado de conservación: las condiciones físicas en que se encuentran los elementos constructivos de un bien inmueble;
-
-XXV.- Formación de catastro: integración de los registros catastrales;
-
-XXVI.- Fraccionamiento: la división, fusión y subdivisión de un predio en lotes, siempre que para ello se establezcan una o más vías públicas;
-
-XXVII.- Limite del centro de población: el que fija la autoridad municipal en el programa de Desarrollo Urbano del Centro de la población;
-
-XXVIII.- Lote: predio resultante de un fraccionamiento;
-
-XXIX.- Manzana: la superficie de terreno delimitada por vía pública;
-
-XXX.- Oficina catastral: área de atención al público establecida en la Agencia Fiscal o municipio, coordinada técnicamente por el Instituto y administrativamente por el Ayuntamiento, en su caso;
-
-XXXI.- Nuevas construcciones: las que se realizan o se captan por primera vez en un predio;
-
-XXXII.- Perímetro urbano: el que fija la autoridad catastral para aquellos centros de población que no cuenten con Programa de Desarrollo Urbano;
-
-XXXIII. - Poseedor: es la persona que ejerce un poder en forma directa e inmediata, sobre un bien inmueble, para su aprovechamiento total o parcial;
-
-XXXIV. - Predio: el terreno urbano o rural con o sin construcción cuyos linderos formen un perímetro contínuo;
-
-XXXV.- Predio construido: el que tenga construcción permanente mayor a la señalada en la siguiente fracción;
-
-XXXVI.- Predios no edificados o baldíos: predios urbanos sin construcción a excepción de:
-
-a).- Los bienes inmuebles que se ubiquen en las zonas designadas para la protección o conservación ecológica; las áreas verdes y espacios abiertos de uso público y aquellos que, de acuerdo con la zonificación establecida en los Programas de Desarrollo Urbano del Centro de Población y con los programas parciales que de ésta se deriven, se prevean como zonas de reserva al crecimiento para uso habitacional a corto plazo. Si transcurrido un año autorizados como fraccionamientos no se ha efectuado la urbanización correspondiente, se considerarán como predios baldíos;
-
-b).- Los campos deportivos o recreativos funcionando como tales;
+b).- Los campos deportivos o recreativos.
 
 c).- Los estacionamientos públicos concesionados y en operación;
 
-XXXVII.- Predios rurales: los que se encuentran ubicados fuera del perímetro determinado como zona urbana, y son susceptibles de aprovechamiento agropecuario, forestal, de agostadero y temporal;
+XXII.- Propietario.- Es la persona que ejerce un poder jurídico de uso, goce y disposición de un bien inmueble;
 
-XXXVIII.- Predios urbanos: los que se encuentran ubicados dentro del perímetro que determina la autoridad catastral o municipal como zona urbana;
+XXIII.- Red topográfica.- Conjunto de líneas y puntos establecidos topográficamente y referidos a la red geodésica nacional;
 
-XXXIX.- Propietario: titular del derecho de propiedad;
+XXIV.- Registros catastrales.- Los padrones en los que se inscriben características de los bienes inmuebles;
 
-XL.- Red topográfica: conjunto de líneas y puntos establecidos topográficamente y referidos a la red geodésica nacional;
+XXV.- Registro gráfico.- Conjunto de planos catastrales;
 
-XLI.- Región catastral: el área en que se divide la zona urbana de acuerdo a características;
+XXVI.- Registro de predios coordinados.- Predios catalogados con base en una clave catastral y registral única;
 
-XLII.- Registros catastrales: los padrones en los que se inscriben características de los bienes inmuebles;
+XXVII.- Terreno de cultivo.- El que por sus características y calidad de suelo, sea susceptible de destinarse a fines agrícolas;
 
-XLIII.- Registro gráfico: conjunto de planos catastrales;
+XXVIII.- Terreno de agostadero.- El que no siendo de cultivo, sea susceptible para pastoreo;
 
-XLIV.- Registro de predios coordinados: predios catalogados con base en una clave catastral y registral única;
+XXIX.- Terreno de temporal.- Terreno susceptible de ser aprovechado para fines agrícolas, sólo en determinada época del año;
 
-XLV.- Revaluación: la revisión de los valores catastrales de terreno y construcción para su actualización;
+XXX.- Terreno en greña o breña.- Terreno en estado natural no trabajado;
 
-XLVI.- subregión catastral: el área en que se subdivide la región catastral de acuerdo a las características físicas de los predios en ella comprendidos;
+XXXI.- Terreno forestal.- El que e (sic) encuentra poblado de árboles en espesura tal, que impida su aprovechamiento para fines agrícolas o de agostadero;
 
-XLVII.- Terreno: predio o lote; área de tierra o suelo;
+XXXII.- Terreno de acuacultura.- El que se encuentra en una franja adyacente del litoral del mar susceptible de ser aprovechado para el cultivo de productos marinos;
 
-XLVIII.- Terreno de cultivo: el que por sus características y calidad de suelo, sea susceptible de destinarse a fines agrícolas;
+XXXIII.- Tipo de construcción.- Clasificación de las construcciones, según sus características;
 
-XLIX.- Terreno de agostadero: el que no siendo de cultivo, sea susceptible para pastoreo;
+XXXIV.- Uso o destino del predio.- Actividad dominante a la que se (sic) dedica el predio su propietario o poseedor, de conformidad con la clasificación establecida en los Programas de Desarrollo Urbano de los Centros de Población;
 
-L.- Terreno de temporal: terreno susceptible de ser aprovechado para fines agrícolas, sólo en determinada época del año;
+XXXV.- Valuación.- La determinación del valor catastral, según los criterios establecidos en el presente Reglamento y en el manual de procedimientos técnicos catastrales;
 
-LI.- Terreno en greña o breña: terreno en estado natural no trabajado;
+XXXVI.- Zona Homogénea.- Es la delimitación de un área territorial de una localidad, cuyo ámbito lo constituyen básicamente inmuebles con o sin construcciones y en donde el uso del suelo actual o potencial, el régimen jurídico de la existencia y disponibilidad de los servicios públicos e infraestructura, tienen el nivel de homogeneidad cualitativa y cuantitativa requerido en los términos y condiciones que para el caso se establezcan;
 
-LII.- Terreno forestal: el que se encuentra poblado de árboles en espesura tal, que impida su aprovechamiento para fines agrícolas o de agostadero;
+XXXVII.- Zona catastral.- Conjunto de regiones catastrales;
 
-LIII.- Tipo de construcción: clasificación de las construcciones, según sus características;
+XXXVIII.- Zona Rural.- La que no se encuentra localizada dentro de las zonas delimitadas como urbanas; y
 
-LIV.- Uso o destino del predio: actividad dominante a la que dedica el predio su propietario o poseedor, de conformidad con la clasificación establecida en los Programas de Desarrollo Urbano de los Centros de Población;
-
-LV.- Valor catastral: el que fija a cada predio la autoridad catastral, conforme a las disposiciones de la Ley y del presente Reglamento, el cual deberá ser análogo al valor comercial que tenga el predio en la fecha de su avaluo;
-
-LVI.- Valuación: la determinación del valor catastral, según los criterios establecidos en el presente Reglamento y en el manual de procedimientos de el derivado;
-
-LVII.- Valor unitario: el que fija la autoridad catastral en función del valor por metro cuadrado para el terreno y la construcción en predios urbanos y el valor por hectárea en predios rurales;
-
-LVIII.- Zona catastral: conjunto de regiones catastrales;
-
-LIX.- Zona rural: la que no se encuentra localizada dentro de las zonas delimitadas como urbanas; y
-
-LX.- Zona urbana: la comprendida dentro del límite del centro de población o perímetro urbano.
+XXXIX.- Zona Urbana.- La comprendida dentro del límite del centro de población o perímetro urbano.
 
 ### CAPITULO II. DE LAS OPERACIONES CATASTRALES
 
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
+
 ###### ARTICULO 12.
 
-Todos los bienes inmuebles ubicados en la Entidad deberán inscribirse en el Instituto y figurar en los registros catastrales.
+Todos los bienes inmuebles ubicados dentro del territorio del Estado de Sonora, deberán estar inscritos en los registros catastrales del Instituto, los cuales integrarán el Sistema Estatal de Información Catastral.
 
 ###### ARTICULO 13.
 
@@ -299,99 +317,57 @@ La localización, mensura y descripción de atributos de los bienes inmuebles, s
 
 ###### ARTICULO 14.
 
-El registro gráfico se integra con los diferentes mapas y planos que conforman la cartografía catastral, los que deberán ser autorizados por el Instituto y que se integran por:
-
-I.- El plano general del territorio del Estado;
-
-II.- El plano de cada uno de los municipios que conforman la Entidad;
-
-III.- El plano de cada uno de los centros de población, con su división catastral, indicando el perímetro urbano que lo limita y las regiones catastrales en que se divida la zona urbana;
-
-IV.- El plano de cada uno de los centros de población con su división en regiones catastrales;
-
-V.- El plano de cada manzana, que contenga: las dimensiones de los precios, nombres y/o números de las vías públicas que la limitan, el número de la región catastral a que pertenece, el número de la manzana, los predios que contienen, la superficie del terreno y dibujo en planta de las construcciones, la numeración de cada predio, y el uso o destino de los mismos; estos planos deberán ser dibujados a la escala convencional y en el material más apropiado para su conservación; y
-
-VI.- Los planos de las zonas rurales en que se divida el Estado, con su sistema de coordenadas que permita la localización precisa y delimitación de los predios.
+(DEROGADO, B.O. 1 DE ABRIL DE 2002)
 
 ###### ARTICULO 15.
 
-Los registros catastrales estarán integrados de tal manera que permitan su aprovechamiento multifinalitario y se puedan generar agrupamientos, los que se clasificarán en:
+(DEROGADO, B.O. 1 DE ABRIL DE 2002)
 
-I.- Numéricos, en función de la clave catastral de cada predio;
-
-II.- Alfabéticos, en función del nombre del propietario o del poseedor, constituido éste por apellidos paterno y materno y nombre;
-
-III.- De ubicación, por la localización del predio, de acuerdo a los números o nombres de calles y número oficial; y
-
-IV.- Estadístico, en función del uso o destino del predio, que establezca el Programa de Desarrollo Urbano del Centro de Población y en las normas, criterios y zonificación que de éste se deriven.
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 16.
 
-Para proceder al registro o modificación de los datos de un bien inmueble ante la Dirección General de Servicios Catastrales, se usarán las formas especiales que para tal efecto autorice el Instituto.
+El Instituto formulará, en coordinación con los ayuntamientos, los formatos oficiales uniformes que se utilizarán en todo el Estado para el registro de las operaciones catastrales.
 
 ###### ARTICULO 17.
 
-A la solicitud de registro deberá anexarse los siguientes documentos:
-
-I.- Copia del título o documento que ampare la propiedad o posesión del bien inmueble; y
-
-II.- Un croquis de localización del bien inmueble dentro de la manzana, si es urbano; o copia del plano con referencias del poblado, carreteras, caminos o vías férreas más próximas, si es rural.
+(DEROGADO, B.O. 1 DE ABRIL DE 2002)
 
 ###### ARTICULO 18.
 
-El propietario o poseedor del predio está obligado, según la Ley, a entregar la solicitud del aviso o manifestación, pero en caso de no presentarlo en los términos de la misma o de este Reglamento, la Dirección General de Servicios Catastrales deberá suplirlo, mediante investigación directa.
+(DEROGADO, B.O. 1 DE ABRIL DE 2002)
 
 ###### ARTICULO 19.
 
-Cualquier modificación a las características de un bien inmueble o a su régimen legal, deberá ser comunicado por el propietario o poseedor del mismo, en un término no mayor de sesenta días hábiles a la Dirección General de Servicios Catastrales, o a la oficina catastral que le corresponda. En la solicitud de registro, aviso o manifestación a que aluden los artículos 37, 38, 39, 40 y 41 de la Ley, deberá hacerse mención de los motivos que dieron origen a dichas modificaciones, tales como:
-
-I.- Rectificación de las dimensiones del predio;
-
-II.- Subdivisión o fusión del predio;
-
-III.- Fraccionamiento del predio;
-
-IV.- Modificación de las construcciones existentes;
-
-V.- Demolición de construcciones;
-
-VI.- Terminación de nuevas construcciones;
-
-VII.- Traslación de dominio;
-
-VIII.- Expropiación total o parcial;
-
-IX.- Resoluciones derivadas de actos judiciales; y
-
-X.- Aquellas que, por cualquier otra causa, modifiquen las características físicas, jurídicas o económicas del bien y alteren su valor, quedando dentro de los casos previstos en el artículo 20 de la Ley.
+(DEROGADO, B.O. 1 DE ABRIL DE 2002)
 
 ###### ARTICULO 20.
 
-La Dirección General de Servicios Catastrales, al recibir una solicitud de aviso o manifestación, deberá ordenar la verificación o rectificación de los datos manifestados y, en su caso, el avalúo correspondiente.
+(DEROGADO, B.O. 1 DE ABRIL DE 2002)
 
 ###### ARTICULO 21.
 
-Las oficinas catastrales tendrán la obligación de remitir a la Dirección General de Servicios Catastrales, copia de los expedientes que se tramiten en su jurisdicción, dentro del término de quince días hábiles a partir de la fecha en que se hubiere efectuado la tramitación correspondiente.
+(DEROGADO, B.O. 1 DE ABRIL DE 2002)
 
 ###### ARTICULO 22.
 
-Para su correcta identificación, a cada nuevo predio se le asignará la clave catastral en los términos de la Ley, este Reglamento y el Manual de Procedimientos Catastrales.
+(DEROGADO, B.O. 1 DE ABRIL DE 2002)
 
 ###### ARTICULO 23.
 
-El personal de campo encargado de efectuar operaciones catastrales será acreditado con credencial, expedida y autorizada por el Instituto, que llevará la fotografía, nombre, cargo y firma del acreditado.
+(DEROGADO, B.O. 1 DE ABRIL DE 2002)
 
 ###### ARTICULO 24.
 
-Los encargados de las diferentes operaciones catastrales, practicarán éstas en días y horas hábiles, acreditándose con la credencial expedida para tal efecto.
+(DEROGADO, B.O. 1 DE ABRIL DE 2002)
 
 ###### ARTICULO 25.
 
-Si los propietarios u ocupantes se opusieren a la práctica de las operaciones catastrales, se dará cuenta inmediata al Instituto, a través de la Dirección General de Servicios Catastrales.
+(DEROGADO, B.O. 1 DE ABRIL DE 2002)
 
 ###### ARTICULO 26.
 
-El Instituto, al tener conocimiento de los hechos establecidos en el artículo anterior, requerirá, por escrito, a los propietarios o posesionarios del bien inmueble para que permitan efectuar las operaciones catastrales o justifiquen su negativa. Si no lo hacen dentro del término que se les fije, ordenará que se asienten los datos catastrales con los elementos de que se dispongan, los que serán considerados como definitivos, sin perjuicio de imponer a los infractores las sanciones correspondientes.
+(DEROGADO, B.O. 1 DE ABRIL DE 2002)
 
 ###### ARTICULO 27.
 
@@ -399,45 +375,55 @@ Para la formación y conservación del catastro del Estado, el Vocal Ejecutivo, 
 
 ###### ARTICULO 28.
 
-En los casos de tramitación, ante la Dirección General de Servicios Catastrales, de manifestaciones por modificación de las construcciones existentes; por demolición de construcciones; por nuevas construcciones; por traslaciones de dominio, expropiaciones totales o parciales; de las derivadas de actos judiciales o cualquier otra causa prevista en el artículo 19 de este Reglamento, se acompañará a la manifestación correspondiente, los documentos necesarios que demuestren o expresen las modificaciones físicas o jurídicas efectuadas, el plano con todos los datos necesarios para la descripción gráfica y los planos de las construcciones, en su caso.
-
-La Dirección General de Servicios Catastrales al recibir la manifestación, ordenará la verificación de los datos manifestados y la actualización correspondiente.
+(DEROGADO, B.O. 1 DE ABRIL DE 2002)
 
 ###### ARTICULO 29.
 
-La Dirección General de Servicios Catastrales llevará a cabo los trabajos de medición y de rectificación de linderos en un término de quince días.
+(DEROGADO, B.O. 1 DE ABRIL DE 2002)
 
-### CAPITULO III. DE LOS PLANOS Y TABLAS GENERALES DE VALORES
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 1 DE ABRIL DE 2002)</small>
+
+### CAPITULO III. DE LA VALUACION CATASTRAL
+
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 30.
 
-La valuación catastral de los predios de la Entidad se efectuará de conformidad con lo dispuesto en la Ley, este Reglamento y el Manual de Procedimientos Catastrales.
+La valuación catastral de los predios de la Entidad se efectuará de conformidad con lo dispuesto en la Ley, este Reglamento y el Manual de Procedimientos Técnicos Catastrales.
+
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 31.
 
-El proyecto de planos y tablas generales de valores unitarios será formulado por la Dirección General de Servicios Catastrales, tomando en cuenta los servicios públicos, tales como: alumbrado, agua potable y alcantarillado, electrificación, pavimentos u otros, y todos aquellos elementos físicos, sociales, económicos, históricos o cualquier otro que influyan en el valor de los predios; obteniendo todos los datos de información necesarios para una correcta clasificación y valuación.
+El Instituto asesorará a los ayuntamientos que así lo soliciten, para realizar los estudios de planos y tablas generales de valores unitarios de terrenos y construcción por zona, región y subregión catastral en zonas urbanas y, tratándose de predios rurales, por hectárea, atendiendo a su clase y categoría, para la elaboración de la propuesta que deberán presentar al Congreso.
+
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 32.
 
-El Vocal Ejecutivo del Instituto, una vez revisado y concentrado el análisis de los trabajos que constituyen el proyecto de tablas de valores unitarios y previa opinión del Consejo Técnico Catastral, lo someterá a la consideración y aprobación del Secretario de Finanzas y para producir efectos legales, solicitará sea publicado el acuerdo respectivo en el Boletín Oficial del Gobierno del Estado.
+La valuación de los predios se realizará con base a los planos y tabla de valores vigentes y a los incrementos que, en su caso, deberán aplicarse, de conformidad con lo dispuesto en la Ley.
+
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 33.
 
-Los planos y tablas generales de valores unitarios, por metro cuadrado para terreno y construcción, serán la base para la valuación de los predios urbanos. Para los predios rurales, se atenderá a su clasificación y calidad por hectárea, obteniendo los valores unitarios aplicables a cada predio.
+Los valores unitarios para las construcciones se fijarán por metro cuadrado de superficie construido y de acuerdo a las clasificaciones que sean necesarias, por tipo, calidad y estado de conservación de las construcciones, que agrupen en lo posible el mayor número de características de las mismas, tales como estructura, instalación y complementos.
+
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 34.
 
-Los valores unitarios para las construcciones se fijarán por metro cuadrado de superficie construido, se establecerán las clasificaciones que sean necesarias, por tipo, calidad y estado de conservación de las construcciones, que agrupen en lo posible el mayor número de características de las mismas; tales como: estructura, instalación y complementos.
+Los valores unitarios para los terrenos se fijarán por metro cuadrado de superficie si es urbano y por hectárea si es rural, atendiendo a su clase y categoría.
+
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 35.
 
-La aplicación de los valores unitarios en la valuación catastral de los terrenos en particular, deberá quedar contenida en el Manual de Procedimientos de Servicios Catastrales.
+La aplicación de los valores unitarios en la valuación catastral de los terrenos y de las construcciones en particular, deberá quedar contenida en el Manual de Procedimientos Técnicos Catastrales.
+
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 36.
-
-En tanto no existan los planos y tablas generales de valores unitarios debidamente aprobados y publicados para una zona, región o subregión urbana o rural, que permitan la aplicación o fijación del valor catastral de un predio, el Instituto podrá determinar un valor provisional del mismo, en los términos del artículo 22 de la Ley.
-
-###### ARTICULO 37.
 
 La valuación catastral de cada predio comprenderá:
 
@@ -447,61 +433,119 @@ II.- La mensura y clasificación de las construcciones;
 
 III.- Aplicación de los planos y tablas de valores aprobados por zona, región o subregión;
 
-IV.- Aplicación en su caso, de los coeficientes de demérito o incremento según corresponda a cada predio; y
+IV.- Aplicación en su caso, de los coeficientes de demérito o incremento según corresponda a cada predio: y
 
 V.- Valuación del predio mediante el cálculo aritmético correspondiente, por procesos manuales o sistematizados según determine el Instituto.
 
+> <small>(REFORMADO Y REUBICADO, B.O. 1 DE ABRIL DE 2002)</small>
+
+###### ARTICULO 37.
+
+Para obtener el valor catastral total de los predios, se formularán separadamente los avalúos del terreno y de las construcciones, con base en los valores unitarios aprobados y una vez aplicados, en su caso, los coeficientes de deméritos o incremento que correspondan y que se prevén en este Reglamento. La suma de los valores del terreno y de las construcciones constituirá el valor catastral del predio.
+
+> <small>(REFORMADO Y REUBICADO, B.O. 1 DE ABRIL DE 2002)</small>
+
 ###### ARTICULO 38.
 
-Todos los bienes inmuebles en el Estado deberán ser valuados por el Instituto, el que establecerá el valor catastral de los mismos que se utilizará de manera multifinalitaria en aplicaciones de planeación, programación, estadística, fiscales o de otro tipo.
+El Instituto formulará, en coordinación con los ayuntamientos y tomando en cuenta la opinión del Consejo, los instructivos, formatos y manuales de procedimientos técnicos y de valuación, con el objeto de que el registro de las operaciones catastrales de los inmuebles sea uniforme en todo el Estado.
 
-### CAPITULO IV. DE LA VALUACION
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 1 DE ABRIL DE 2002)</small>
+
+### CAPITULO IV. DEL SISTEMA ESTATAL DE INFORMACION CATASTRAL
+
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 39.
 
-La valuación catastral tanto de predios urbanos como rurales, se hará separadamente para el terreno y para las construcciones y será practicada por analistas de la Dirección General de Servicios Catastrales, conforme a los artículos 33, 34, 36, y 41 de este Reglamento y lo establecido en el Manual de Procedimientos Técnicos Catastrales.
+El Sistema Estatal de Información Catastral es el conjunto de datos geográficos, alfanuméricos y documentales relacionados entre sí, que contienen los registros relativos a la identificación plena y datos reales de los inmuebles en el Estado.
+
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 40.
 
-Los analistas formularán los avalúos catastrales aportando todos los datos exigidos en las formas oficiales aprobadas por el Instituto, mismas que suscribirán y someterán, una vez revisadas y aprobadas por la Dirección General de Servicios Catastrales, a la consideración del Vocal Ejecutivo del Instituto.
+Los registros catastrales estarán integrados de tal manera que permitan su aprovechamiento multifinalitario y se puedan generar agrupamientos, los que se clasificarán en:
+
+I.- Numéricos, en función de la clave catastral de cada predio;
+
+II.- Alfabéticos, en función del nombre del propietario o del poseedor, constituido éste por apellidos paterno y materno y nombre;
+
+III.- De ubicación, por la localización del predio, de acuerdo a los números o nombres de las calles y número oficial; y
+
+IV.- Estadístico, en función del uso o destino del predio, que establezcan los programas de desarrollo urbano correspondientes, y de las normas, criterios y zonificación que de estos se deriven.
+
+Por cada predio registrado, urbano o rural en el Estado, deberá existir un expediente que contenga:
+
+a).- Registros geográficos;
+
+b).- Registros alfanuméricos o padrón catastral, urbano y rural.
+
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 41.
 
-Para obtener el valor catastral total de los predios, se formularán separadamente los avalúos del terreno y de las construcciones, con base en los valores unitarios aprobados y una vez aplicados, en su caso, los coeficientes de demérito o incremento que correspondan y que se prevén en este Reglamento. La suma de los valores del terreno y de las construcciones constituirá el valor catastral del predio.
+El registro gráfico se integra con los diferentes mapas y planos que conforman la cartografía catastral, los que deberán ser autorizados por el instituto y que se integran por:
+
+I.- El plano general del territorio del Estado;
+
+II.- El plano de cada uno de los municipios que conforman la Entidad;
+
+III.- El plano de cada uno de los centros de población con su división catastral, indicando el perímetro urbano que lo limita y las regiones catastrales en que se divida la zona urbana;
+
+IV.- El plano de cada uno de los centros de población con su división en regiones catastrales;
+
+V.- El plano de cada manzana, que contenga: las dimensiones de los predios, nombres y/o número de las vías públicas que la limitan, los predios que contiene, la superficie del terreno y dibujo en planta de las construcciones, la numeración de cada predio, y el uso o destino de los mismos; estos planos deberán ser dibujados a la escala convencional y en el material más apropiado para su conservación; y
+
+VI.- Los planos de las zonas rurales en que se divida el Estado, con su sistema de coordenadas que permita la localización precisa y delimitación de los predios.
+
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 42.
 
-La Dirección General de Servicios Catastrales, elaborará los instructivos y manuales referentes a la valuación, los que deberán ser aprobados por el Vocal Ejecutivo del Instituto y expedidos por la propia Dirección General. Con base en ellos, se dictarán las disposiciones administrativas y técnicas a que deberán sujetarse los trabajos de valuaciones catastrales a que se refiere este capítulo.
+El Instituto solicitará a los ayuntamientos, de conformidad con lo dispuesto en la Ley, la información mensual sobre los cambios y modificaciones que sufra la propiedad inmobiliaria, la documentación y los planos catastrales necesarios para la ubicación de los inmuebles, para integrar y actualizar el Sistema Estatal de Información Catastral.
+
+> <small>(ADICIONADO, B.O. 1 DE ABRIL DE 2002)</small>
+
+ARTICULO 42 BIS.- El Instituto proporcionará a los ayuntamientos asesoría técnica y la información que estos soliciten sobre la operación óptima del Sistema de Información Catastral y la atención y solución de inconformidades en la materia de los propietarios o poseedores de bienes inmuebles.
 
 ### CAPITULO V. DE LA CONSERVACION DEL ARCHIVO CATASTRAL
 
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
+
 ###### ARTICULO 43.
 
-La Dirección General de Servicios Catastrales está obligada a mantener actualizado el Catastro, para lo cual realizará las investigaciones y estudios necesarios y deberá registrar en forma contínua las modificaciones que sufran los predios en el territorio del Estado, así como los cambios en la infraestructura y equipamiento urbano, que cambien las características de dichos predios.
+El Instituto mantendrá actualizado el catastro, para lo cual realizará investigaciones y estudios necesarios y deberá registrar en forma continua las modificaciones que sufran los predios en los municipios con base a la información que éstos remitan.
+
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 44.
 
-Para la conservación del Catastro, la Dirección General de Servicios Catastrales, desarrollará técnicas que permitan una captación metódica y dinámica de las modificaciones de los predios, de manera particular será responsable de procesar las altas y las modificaciones a los registros catastrales, así como de su validación y de que toda la información así generada, sea incorporada a las bases de datos gráficos y numéricos de los sistemas de información del Instituto.
+Para la elaboración y actualización estatal de la cartografía urbana y rural, el Instituto solicitará a los ayuntamientos, dentro del plazo que establece la Ley, la información suficiente de las modificaciones realizadas, para alimentar la base de datos con que se cuente.
+
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 45.
 
-Para la elaboración y actualización de la cartografía urbana y rural, la Dirección General de Servicios Catastrales suministrará la base de datos, el armado, dibujo y asiento definitivo de las modificaciones a la cartografía al Instituto, para la actualización del Sistema de Información Geográfica Urbana, para su digitalización y producción.
+Para una correcta formación y conservación del catastro, se captará el mayor número de datos o informaciones que permitan conocer el verdadero estado de los bienes inmuebles, tales como origen y antecedentes del predio, los distintos usos o destinos del mismo, así como cualquier otra circunstancia que influya en la configuración de la propiedad inmueble del Estado.
+
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 46.
 
-Para una correcta formación y conservación del Catastro, se captará el mayor número de datos o informaciones que permitan conocer el verdadero estado de los bienes inmuebles, tales como origen y antecedentes del predio; los distintos usos o destinos del mismo, así como cualquier otra circunstancia que influya en la configuración de la propiedad inmueble del Estado.
-
-La Dirección General de Servicios Catastrales establecerá las normas, técnicas y procedimientos administrativos para el funcionamiento de su sistema de archivo a efecto de que este guarde y conserve la información y permita obtenerla en cualquier momento para conocer la historia catastral de los predios.
+El Instituto, a través de la Dirección General de Servicios Catastrales, establecerá las normas, técnicas y procedimientos administrativos para el funcionamiento de su sistema de archivos a efecto de que ésta guarde y conserve la información y permita obtenerla en cualquier momento para conocer la historia catastral de los predios.
 
 ###### ARTICULO 47.
 
-Las autoridades federales, estatales o municipales y las dependencias o instituciones públicas o privadas, que intervengan, administren, construyan o realicen cualquier otra operación que afecte o sea susceptible de afectar a los bienes inmuebles de la Entidad, tendrán la obligación de proporcionar los informes y datos del caso o manifestar las operaciones que realicen a la Dirección General de Servicios Catastrales o a la oficina catastral, dentro de un plazo que no excederá de quince días, a partir de la fecha en que hubiesen efectuado dichas operaciones o que se les hubiese solicitado la información.
+(DEROGADO, B.O. 1 DE ABRIL DE 2002)
 
 ### CAPITULO VI. DE LAS OBLIGACIONES
 
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
+
 ###### ARTICULO 48.
 
-Los propietarios o poseedores de bienes inmuebles ubicados en la Entidad o sus representantes legales, los notarios y corredores públicos, los jueces y otros funcionarios que tengan fe pública y que intervengan en el otorgamiento de contratos que pretendan transmitir o modificar el dominio de un predio; así como las autoridades, dependencias o instituciones que intervengan o den autorización en aspectos que por cualquier motivo modifiquen las características de los bienes inmuebles o de un predio en particular, incluyendo, además, a las personas físicas y morales que lleven a cabo la elaboración de productos fotogramétricos en el territorio del Estado; se sujetarán a lo establecido en el Capítulo III del Título Tercero de la Ley.
+Los propietarios o poseedores de bienes inmuebles ubicados en la Entidad, los notarios y demás funcionarios que tengan fe pública y que intervengan en el otorgamiento de contratos que pretendan transmitir o modificar el dominio de un predio, así como las autoridades, dependencias o instituciones estatales que intervengan o den autorización en los aspectos que por cualquier motivo modifiquen las características de los bienes inmuebles o de un predio en particular, tendrán las obligaciones que en materia catastral establece la Ley.
+
+El Instituto requerirá a las personas físicas o morales que lleven a cabo la elaboración de productos fotogramétricos en el territorio del Estado, para que proporcionen a la autoridad catastral una copia de los trabajos realizados.
 
 ## TITULO TERCERO. DE LOS SERVICIOS REGISTRALES
 
@@ -1091,61 +1135,61 @@ Las cuotas, tarifas y cobros por la prestación de servicios de información que
 
 ### CAPITULO II. DE LAS SANCIONES
 
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
+
 ###### ARTICULO 155.
 
-Se sancionará de uno hasta cincuenta salarios mínimos vigentes a quien:
+El Instituto, en el ámbito de su competencia, aplicará las sanciones establecidas en la Ley a los infractores de la misma.
 
-I.- Sin autorización del Instituto, utilice, publique, distribuya o transfiera total o parcialmente la información, los trabajos, productos o el sistema integral de información del mismo;
-
-II.- Omita la fuente en la utilización de los productos generados por el Instituto; y
-
-III.- Cause daño económico al Instituto.
+Las sanciones que imponga el Instituto se harán efectivas por conducto de la autoridad fiscal correspondiente, mediante el procedimiento administrativo de ejecución.
 
 ## TITULO QUINTO. MEDIOS DE IMPUGNACION
 
 ### CAPITULO I. EN MATERIA DE SERVICIOS CATASTRALES
 
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
+
 ###### ARTICULO 156.
 
-Contra las resoluciones de los residentes de Catastro procede el recurso de reconsideración, en los siguientes casos:
+Los propietarios o poseedores de predios podrán impugnar, mediante el recurso de reconsideración, las resoluciones de la autoridad catastral en las que se fije el valor catastral definitivo, siempre que en relación al avalúo argumenten que existió:
 
-I.- Por error en las medidas tomadas como base para el cálculo del avalúo;
+I.- Error en las medidas tomadas como base;
 
-II.- Por aplicación errónea de los valores catastrales unitarios y de los factores de incremento;
+II.- Inexacta aplicación de las tablas de valores; y
 
-III.- Por error aritmético en la determinación del valor catastral;
+III.- Asignación de una extensión mayor o clase o tipo diverso de las que efectivamente tenga el predio.
 
-IV.- Por error en la estimación de las características predominantes en el predio; y
-
-V.- Por error en la aplicación de las tasas, incrementos y deducciones que le correspondan al predio.
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 157.
 
-El recurso de reconsideración, se interpondrá por escrito, anexando una copia, ante el residente de Catastro. El término para su interposición, será de tres días hábiles contados a partir del día siguiente de la fecha de notificación de la resolución recurrida.
+El recurso de reconsideración se interpondrá por escrito ante la autoridad catastral que haya emitido el acto o resolución, dentro de los tres días hábiles siguientes al en (sic) se hubiere efectuado la notificación de la resolución recurrida.
 
-Si el recurrente no anexa la copia a que se refiere el párrafo anterior, se requerirá para que la presente en el término de tres días hábiles.
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 158.
 
-En el escrito en que se interponga el recurso, se expresarán las razones de hechos y legales en que se funde ésta y se ofrecerán las pruebas pertinentes.
+En el escrito en que se interponga el recurso se expresarán las razones de hechos y legales en que se funde ésta y se ofrecerán las pruebas pertinentes.
 
-Es admisible toda clase de pruebas, excepto la testimonial, la confesional y las que fueren contrarias a la moral. La prueba de inspección solamente será admitida cuando sea indispensable.
+Es admisible toda clase de pruebas, excepto la testimonial, la confesional y las que fueren contrarias a la moral.
+
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 159.
 
-Se tendrá por no interpuesto el recurso de reconsideración, en los siguientes casos:
+Se tendrá por no interpuesto el recurso de reconsideración cuando no se ofrezcan las pruebas.
 
-I.- Cuando no se ofrezcan las pruebas pertinentes para resolver; y
-
-II.- Si no se exhibiere la copia a que se refiere el artículo 155 de este Reglamento.
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 160.
 
-Una vez admitido el recurso, el residente resolverá lo correspondiente dentro del término de treinta días.
+Una vez admitido el recurso, la autoridad catastral analizará y resolverá lo correspondiente dentro del término de treinta días.
+
+> <small>(REFORMADO, B.O. 1 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 161.
 
-Contra las resoluciones dictadas en los términos del artículo anterior y aquellas contra las cuales no exista recurso de reconsideración, procederá el juicio ante el Tribunal de lo Contencioso Administrativo del Estado.
+Contra las resoluciones dictadas en los términos del artículo anterior, procederá el juicio ante el Tribunal de lo Contencioso Administrativo del Estado.
 
 ### CAPITULO II. EN MATERIA DE SERVICIOS REGISTRALES
 
@@ -1186,3 +1230,11 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Quedan abrogadas todas las disposiciones que se opongan al presente Reglamento.
 
 Dado en la residencia del Poder Ejecutivo del Estado de Sonora, en la ciudad de Hermosillo, Sonora a los treinta días del mes de noviembre de mil novecientos noventa y cuatro.- EL GOBERNADOR DEL ESTADO.- MANLIO FABIO BELTRONES RIVERA.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- ROBERTO SANCHEZ CEREZO.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 1 DE ABRIL DE 2002.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
