@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1934-03-03"
+last_updated: "1934-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 1934.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL EL 3 DE MARZO DE 1934.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE MARZO DE 1934.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -338,21 +336,25 @@ En los casos de invasión, perturbación grave de la paz pública, o de cualquie
 
 DE LOS MEXICANOS.
 
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1934)</small>
+
 ###### Art. 30.
 
-La calidad de mexicano se adquiere por nacimiento o por naturalización.
+La nacionalidad mexicana se adquiere por nacimiento o por naturalización.
 
-I.- Son mexicanos por nacimiento, los hijos de padres mexicanos, nacidos dentro o fuera de la República, siempre que en este último caso los padres sean mexicanos por nacimiento. Se reputan mexicanos por nacimiento los que nazcan en la República de padres extranjeros, si dentro del año siguiente a su mayor edad manifiestan ante la Secretaría de Relaciones Exteriores, que optan por la nacionalidad mexicana y comprueban ante aquélla que han residido en el país los últimos seis años anteriores a dicha manifestación.
+A).- Son mexicanos por nacimiento:
 
-II.- Son mexicanos por naturalización:
+I.- Los que nazcan en territorio de la República, sea cual fuere la nacionalidad de sus padres.
 
-A.- Los hijos que de padres extranjeros nazcan en el país, si optan por la nacionalidad mexicana en los términos que indica el inciso anterior, sin haber tenido la residencia que se expresa en el mismo.
+II.- Los que nazcan en el extranjero de padres mexicanos; de padre mexicano y madre extranjera, o de madre mexicana y padre desconocido.
 
-B.- Los que hubiesen residido en el país cinco años consecutivos, tengan modo honesto de vivir y obtengan carta de naturalización de la citada Secretaría de Relaciones.
+III.- Los que nazcan a bordo de embarcaciones o aeronaves mexicanas, sean de guerra o mercantes.
 
-C.- Los indolatinos que se avecinen en la República y manifiesten su deseo de adquirir la nacionalidad mexicana.
+B).- Son mexicanos por naturalización:
 
-En los casos de estos incisos, la ley determinará la manera de comprobar los requisitos que en ellos se exigen.
+I.- Los extranjeros que obtengan de la Secretaría de Relaciones carta de naturalización.
+
+II.- La mujer extranjera que contraiga matrimonio con mexicano y tenga o establezca su domicilio dentro del territorio nacional.
 
 ###### Art. 31.
 
@@ -422,19 +424,33 @@ IV.- Desempeñar los cargos de elección popular de la Federación o de los Esta
 
 V.- Desempeñar los cargos concejiles del municipio donde resida, las funciones electorales y las de jurado.
 
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1934)</small>
+
 ###### Art. 37.
 
-La calidad de ciudadano mexicano se pierde:
+A).- La nacionalidad mexicana se pierde:
 
-> <small>(F. DE E., D.O.F. 6 DE FEBRERO DE 1917)</small>
+I.- Por adquisición voluntaria de una nacionalidad extranjera.
 
-I.- Por naturalización en país extranjero;
+II.- Por aceptar o usar títulos nobiliarios que impliquen sumisión a un Estado extranjero.
 
-> <small>(F. DE E., D.O.F. 6 DE FEBRERO DE 1917)</small>
+III.- Por residir, siendo mexicano por naturalización, durante cinco años continuos en el país de su origen.
 
-II.- Por servir oficialmente al gobierno de otro país, o admitir de él condecoraciones, títulos o funciones, sin previa licencia del Congreso Federal, exceptuando los títulos literarios, científicos y humanitarios, que pueden aceptarse libremente; y
+IV.- Por hacerse pasar en cualquier instrumento público, siendo mexicano por naturalización, como extranjero o por obtener y usar un pasaporte extranjero.
 
-III.- Por comprometerse en cualquiera forma ante ministros de algún culto o ante cualquiera otra persona, a no observar la presente Constitución o las leyes que de ella emanen.
+B).- La ciudadanía mexicana se pierde:
+
+I.- Por aceptar o usar títulos nobiliarios que no impliquen sumisión a un Gobierno extranjero.
+
+II.- Por prestar voluntariamente servicios oficiales a un Gobierno extranjero sin permiso del Congreso Federal o de su Comisión Permanente.
+
+III.- Por aceptar o usar condecoraciones extranjeras sin permiso del Congreso Federal o de su Comisión Permanente.
+
+IV.- Por admitir del Gobierno de otro país títulos o funciones, sin previa licencia del Congreso Federal o de su Comisión Permanente, exceptuando los títulos literarios, científicos o humanitarios que pueden aceptarse libremente.
+
+V.- Por ayudar en contra de la nación a un extranjero o a un Gobierno extranjero en cualquiera reclamación diplomática o ante un Tribunal Internacional.
+
+VI.- En los demás casos que fijan las leyes.
 
 ###### Art. 38.
 
@@ -476,9 +492,11 @@ El pueblo ejerce su soberanía por medio de los Poderes de la Unión, en los cas
 
 DE LAS PARTES INTEGRANTES DE LA FEDERACION Y DEL TERRITORIO NACIONAL.
 
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1934)</small>
+
 ###### Art. 42.
 
-El territorio nacional comprende el de las partes integrantes de la federación, y además el de las islas adyacentes en ambos mares. Comprende asimismo, la isla de Guadalupe, las de Revillagigedo y la de la Pasión, situadas en el Océano Pacífico.
+El territorio nacional comprende el de las partes integrantes de la Federación y además el de las islas adyacentes en ambos mares. Comprende, asimismo, la isla de Guadalupe, y las de Revillagigedo, situadas en el Océano Pacífico.
 
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 1931)</small>
 
@@ -511,6 +529,14 @@ Se amplía el territorio del Estado de Campeche, con una parte del Territorio de
 > <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 1931)</small>
 
 Partiendo del vértice del ángulo formado por la línea que divide los Estados de Yucatán y Campeche, cerca de Put, se seguirá una línea recta inclinada de NO a SE y hacia esta última dirección, hasta la intersección del meridiano de 89º (longitud Oeste de Greenwich) y al paralelo de 19º 30' latitud Norte, siguiendo por este mismo paralelo hacia el Este hasta encontrar el meridiano de 87º 50' (longitud Oeste de Greenwich) y de este punto a la bahía de La Ascensión en el punto interceptado por el paralelo de 19° 35' latitud Norte; de este punto sigue la costa Sur de la bahía de La Ascensión y el litoral Sur del Mar Caribe hasta la frontera con Belice; siguiendo la línea divisoria hasta la desembocadura del río Hondo continuando después por el mismo río y luego la línea divisoria con Belice y Guatemala, hasta encontrar la actual línea divisoria entre el Estado de Campeche y el Territorio de Quintana Roo, y de allí, siguiendo hacia el Norte la misma línea hasta llegar al punto de partida.
+
+> <small>(ADICIONADO, D.O.F. 22 DE MARZO DE 1934)</small>
+
+Las Islas de Cozumel, Cancum (sic), Mujeres, Blanca, Cantoy, Holbox y los cayos adyacentes situados desde la Bahía de la Ascensión al litoral Norte del Mar Caribe, partiendo del paralelo 19 grados 35 minutos, quedan sujetas a la jurisdicción del Estado de Yucatán, y su extensión superficial se considerará comprendida dentro de los límites de dicha entidad federativa.
+
+> <small>(ADICIONADO, D.O.F. 22 DE MARZO DE 1934)</small>
+
+Los islotes y cayos adyacentes situados desde la Bahía de la Ascensión hacia el Sur del Mar Caribe, partiendo del paralelo 19 grados 35 minutos, quedan sujetos a la jurisdicción del Estado de Campeche.
 
 ###### Art. 46.
 
@@ -802,9 +828,9 @@ VIII.- Para dar bases sobre las cuales el Ejecutivo pueda celebrar empréstitos 
 
 IX.- Para expedir aranceles sobre el comercio extranjero y para impedir que en el comercio de Estado a Estado se establezcan restricciones.
 
-> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 1933)</small>
+> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 1934)</small>
 
-X. Para legislar en toda la República sobre Minería, Comercio e Instituciones de crédito; para establecer el Banco de Emisión Unico, en los términos del artículo 28 de esta Constitución, y para expedir las leyes del trabajo reglamentarias del artículo 123 de la propia Constitución. La aplicación de las leyes del trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, excepto cuando se trate de asuntos relativos a la industria textil, ferrocarriles y demás empresas de transporte amparadas por concesión federal, minería e hidrocarburos y, por último, los trabajos ejecutados en el mar y en las zonas marítimas, en la forma y términos que fijen las disposiciones reglamentarias.
+X.- Para legislar en toda la República sobre Minería, Comercio, Instituciones de Crédito y Energía Eléctrica, para establecer el Banco de Emisión Unico, en los términos del artículo 28 de esta Constitución, y para expedir las leyes del trabajo reglamentarias del artículo 123 de la propia Constitución. La aplicación de las leyes del trabajo corresponde a las autoridades de los estados, en sus respectivas jurisdicciones, excepto cuando se trate de asuntos relativos a la industria textil, ferrocarriles y demás empresas de transporte amparadas por concesión federal, minería e hidrocarburos, los trabajos ejecutados en el mar y en las zonas marítimas, y, por último, las obligaciones que en materia educativa corresponden a los patrones, en la forma y términos que fijen las disposiciones reglamentarias. En el rendimiento de los impuestos que el Congreso Federal establezca sobre energía eléctrica en uso de las facultades que en materia de legislación le concede esta fracción, participaran los Estados y Municipios en la proporción que las autoridades federales y locales respectivas acuerden.
 
 XI.- Para crear y suprimir empleos públicos de la Federación y señalar, aumentar o disminuir sus dotaciones.
 
@@ -816,7 +842,9 @@ XIV.- Para levantar y sostener el Ejército y la Armada de la Unión, y para reg
 
 XV.- Para dar reglamentos con objeto de organizar, armar y disciplinar la Guardia Nacional, reservándose a los ciudadanos que la forman, el nombramiento respectivo de jefes y oficiales, y a los Estados la facultad de instruirla conforme a la disciplina prescrita por dichos reglamentos.
 
-XVI.- Para dictar leyes sobre ciudadanía, naturalización, colonización, emigración e inmigración y salubridad general de la República.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE ENERO DE 1934)</small>
+
+XVI.- Para dictar leyes sobre nacionalidad, condición jurídica de los extranjeros, ciudadanía, naturalización, colonización, emigración e inmigración y salubridad general de la República.
 
 1a.- El Consejo de Salubridad General dependerá directamente del Presidente de la República, sin intervención de ninguna Secretaría de Estado, y sus disposiciones generales serán obligatorias en el país.
 
@@ -1210,7 +1238,9 @@ III.- Por leyes o actos de las autoridades de éstos que invadan la esfera de la
 
 Corresponde a los tribunales de la Federación conocer:
 
-I.- De todas las controversias del orden civil o criminal que se susciten sobre cumplimiento y aplicación de leyes federales, o con motivo de los tratados celebrados con las potencias extranjeras. Cuando dichas controversias sólo afecten a intereses particulares, podrán conocer también de ellas, a elección del actor, los jueces y tribunales locales del orden común de los Estados, del Distrito Federal y Territorios. Las sentencias de primera instancia serán apelables para ante el superior inmediato del juez que conozca del asunto en primer grado. De las sentencias que se dicten en segunda instancia, podrán suplicarse para ante la Suprema Corte de Justicia de la Nación, preparándose, introduciéndose y substanciándose el recurso en los términos que determinare la ley.
+> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 1934)</small>
+
+I. De todas las controversias del orden civil o criminal que se susciten sobre el cumplimiento y aplicación de leyes federales o con motivo de los Tratados celebrados con las potencias extranjeras. Cuando dichas controversias sólo afecten intereses particulares podrán conocer también de ellas, a elección del actor, los jueces y Tribunales locales del orden común de los Estados, del Distrito Federal y Territorios. Las sentencias de primera instancia serán apelables para ante el superior inmediato del juez que conozca del asunto en primer grado.
 
 II.- De todas las controversias que versen sobre derecho marítimo.
 
@@ -1590,9 +1620,11 @@ Es facultad privativa de la federación, gravar las mercancías que se importen 
 
 Los fuertes, los cuarteles, almacenes de depósito y demás bienes inmuebles destinados por el Gobierno de la Unión al servicio público o al uso común, estarán sujetos a la jurisdicción de los Poderes Federales en los términos que establezca la ley que expedirá el Congreso de la Unión; mas para que lo estén igualmente los que en lo sucesivo adquiera dentro del territorio de algún Estado, será necesario el consentimiento de la legislatura respectiva.
 
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1934)</small>
+
 ###### Art. 133.
 
-Esta Constitución, las leyes del Congreso de la Unión que emanen de ella, y todos los tratados hechos y que se hicieren por el Presidente de la República, con aprobación del Congreso, serán la ley suprema de toda la Unión. Los jueces de cada Estado se arreglarán a dicha Constitución, Leyes y Tratados, a pesar de las disposiciones en contrario que pueda haber en las constituciones o leyes de los Estados.
+Esta Constitución, las leyes del Congreso de la Unión que emanen de ella y todos los Tratados que estén de acuerdo con la misma, celebrados y que se celebren por el Presidente de la República, con aprobación del Senado, serán la Ley Suprema de toda la Unión. Los jueces de cada Estado se arreglarán a dicha Constitución, leyes y tratados, a pesar de las disposiciones en contrario que pueda haber en las Constituciones o leyes de los Estados.
 
 ###### Art. 134.
 
@@ -1768,7 +1800,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 D.O.F. 19 DE DICIEMBRE DE 1931.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 D.O.F. 27 DE ABRIL DE 1933.
 
@@ -1790,6 +1822,34 @@ D.O.F. 10 DE ENERO DE 1934.
 
 UNICO.- Se abroga la Ley de 6 de enero de 1915, sus reformas y demás disposiciones legales que se opongan a la vigencia de la presente reforma.
 
+D.O.F. 18 DE ENERO DE 1934.
+
+DECRETO QUE REFORMA EL ARTICULO 42.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 18 DE ENERO DE 1934.
+
+DECRETO QUE REFORMA LOS ARTICULOS 30, 37, 73, FRACCION XVI Y 133.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 18 DE ENERO DE 1934.
+
+DECRETO QUE REFORMA LA FRACCION X DEL ARTICULO 73.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 18 DE ENERO DE 1934.
+
+DECRETO QUE REFORMA LA FRACCION I DEL ARTICULO 104.
+
 ###### ARTICULO UNICO.
 
 Los recursos de súplica que actualmente se encuentran en tramitación, habrán de seguirse y de sentenciarse de acuerdo con la legislación vigente cuando se promovieron.
+
+D.O.F. 22 DE MARZO DE 1934.
+
+UNICO.- La parte continental que anteriormente pertenecía al Territorio de Quintana Roo y que ha quedado anexada a los Estados de Yucatán y Campeche, queda libre de cualquier adeudo que pudiera existir a favor del comercio y empleados públicos que prestaron sus servicios en dicho Territorio hasta el 31 de diciembre de 1931, en que se anexó a los Estados de Yucatán y Campeche, pues la Federación liquidará y pagará dichos adeudos, debiendo quedar en consecuencia, a favor de la Federación, los créditos que hasta la fecha de la entrega de dicho Territorio existían por concepto de impuestos y demás aprovechamientos del Erario. En igualdad de circunstancias quedarán las islas y cayos que en lo futuro pertenecerán a Yucatán y Campeche.
+
+Los bienes muebles e inmuebles que estuvieron al servicio de las autoridades civiles, tanto en la parte continental como en las islas anteriormente mencionadas, pasarán a ser respectivas propiedades de las entidades federativas mencionadas.
