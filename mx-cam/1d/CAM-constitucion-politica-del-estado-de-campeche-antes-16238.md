@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1957-04-23"
+last_updated: "1961-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICO-SOCIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23, 24, 25, 26 Y 27 DE ABRIL DE 1957.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 1961.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -43,7 +43,7 @@ CONSTITUCION POLITICO-SOCIAL DEL ESTADO DE CAMPECHE
 
 > <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
 
-### CAPITULO II. De los campechanos
+### CAPITULO II. De los Campechanos
 
 > <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
 
@@ -619,11 +619,11 @@ Para ser secretario general se requiere ser ciudadano campechano y tener veintic
 
 Las faltas del secretario general serán suplidas por el oficial mayor de la secretaría, quien para serlo deberá tener los mismos requisitos que el secretario general.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 1961)</small>
 
 ###### Art. 64.
 
-La ley organizará el ministerio público en el Estado, y sus funcionarios serán nombrados y removidos libremente por el Ejecutivo, teniendo como jefe al procurador general, quien para serlo deberá reunir los mismos requisitos que para ser magistrado. El procurador general de justicia, será el consejero jurídico del Gobierno e intervendrá en todos los negocios en que el Estado sea parte. Tanto él como sus agentes se someterán estrictamente a las disposiciones de la ley, siendo responsables de toda falta, omisión o violación en que incurran con motivo de sus funciones.
+La Ley organizará el Ministerio Público en el Estado y sus funcionarios serán nombrados y removidos libremente por el Ejecutivo, teniendo como Jefe al Procurador General, quien para serlo deberá reunir los mismos requisitos que para ser Magistrado, salvo el de la edad, bastando para ello ser ciudadano en pleno ejercicio de sus derechos políticos y civiles. El Procurador General de Justicia, será el consejero jurídico del Gobierno e intervendrá en todos los negocios en que el Estado sea parte. Tanto él como sus agentes se someterán estrictamente a las disposiciones de la Ley, siendo responsables de toda falta, omisión o violación en que incurran con motivo de sus funciones.
 
 > <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
 
@@ -801,7 +801,7 @@ Pronunciada una sentencia de responsabilidad por delitos oficiales, no podrá co
 
 ###### Art. 85.
 
-La responsabilidad oficial de los presidentes de ayuntamiento y jueces de primera instancia, menores y de paz, se exigirá ante el Tribunal Superior de Justicia en la forma que establezcan las leyes respectivas y las faltas u omisiones que cometan en el ejercicio de su empleo, serán castigadas por sus respectivos superiores.
+La responsabilidad oficial de los presidentes de Ayuntamiento y jueces de primera instancia, menores y de paz, se exigirá ante el Tribunal Superior de Justicia en la forma que establezcan las leyes respectivas y las faltas u omisiones que cometan en el ejercicio de su empleo, serán castigadas por sus respectivos superiores.
 
 > <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
 
@@ -895,7 +895,7 @@ III.- Imponer contribuciones que no estén especificadas en la Ley de Hacienda M
 
 Necesitarán autorización del Ejecutivo para comprar, vender, hipotecar o gravar de cualquiera otra manera los bienes raíces del Municipio, así como para contratar empréstitos.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(ADICIONADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
 
 ### CAPITULO XIV. Prevenciones generales
 
@@ -1019,7 +1019,7 @@ Esta Constitución puede ser adicionada o reformada; pero para que las adiciones
 
 El Congreso del Estado hará el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
 
-> <small>(ADICIONADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
 
 ### CAPITULO XVI. De la inviolabilidad de la Constitución
 
@@ -1127,7 +1127,7 @@ C).- La familia gozará de protección para su integridad, especialmente cuando 
 
 D).- La juventud disfrutará de estímulos deportivos y de distracciones lícitas, para su elevación física, moral e intelectual.
 
-E).- Los estudiantes indigentes que se hayan distinguido por su aprovechamiento, obtendrán becas para continuar sus estudios y perfeccionarse en algún arte o ciencia.
+E).- Los estudiantes indigentes que se hayan distinguido por su aprovechamiento, obtendrán becas para continuar sus estudios y para perfeccionarse en algún arte o ciencia.
 
 F).- Todas las personas tienen derecho a una existencia digna, a la cultura y al trabajo. El Gobierno promoverá el mejoramiento moral, intelectual y socio-económico del pueblo, debiendo proporcionar empleo a los desocupados en las obras públicas.
 
@@ -1298,3 +1298,7 @@ La presente Constitución deroga todas las disposiciones anteriores que se opong
 ###### Art. 3.
 
 El próximo día 7 de agosto serán nombrados los magistrados del Tribunal Superior de Justicia que tendrán, desde luego, el carácter de inamovibles.
+
+P.O. 5 DE OCTUBRE DE 1961.
+
+ART. UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
