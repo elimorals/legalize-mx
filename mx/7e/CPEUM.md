@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1975-03-17"
+last_updated: "1976-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,29 +20,27 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-CÓDIGO NÚMERO 536 HACENDARIO PARA EL MUNICIPIO DE TIERRA BLANCA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE OCTUBRE DE 2019.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE FEBRERO DE 1976.
 
-Código publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 16 de febrero de 2009.
+Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
-Fidel Herrera Beltrán, Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, a sus habitantes sabed:
+El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
-Que la Sexagésima Primera Legislatura del Honorable Congreso del Estado se ha servido dirigirme el siguiente Código para su promulgación y publicación:
+VENUSTIANO CARRANZA, Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de los Estados Unidos Mexicanos, hago saber:
 
-Al margen un sello que dice: Estados Unidos Mexicanos.-
+Que el Congreso Constituyente reunido en esta ciudad el 1o. de diciembre de 1916, en virtud del decreto de convocatoria de 19 de septiembre del mismo año, expedido por la Primera Jefatura, de conformidad con lo prevenido en el artículo 4o. de las modificaciones que el 14 del citado mes se hicieron al decreto de 12 de diciembre de 1914, dado en la H. Veracruz, adicionando el Plan de Guadalupe, de 26 de marzo de 1913, ha tenido a bien expedir la siguiente:
 
-Poder Legislativo.- Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
-
-LA SEXAGÉSIMA PRIMERA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN USO DE LA FACULTAD QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN I Y 38 DE LA CONSTITUCIÓN POLÍTICA LOCAL; 18 FRACCIÓN I Y 47 SEGUNDO PÁRRAFO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; 75 Y 76 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO; Y EN NOMBRE DEL PUEBLO, EXPIDE EL SIGUIENTE:
-
-CÓDIGO NÚMERO 536 HACENDARIO PARA EL MUNICIPIO DE TIERRA BLANCA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, QUE REFORMA LA DE 5 DE FEBRERO DE 1857.
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES
 
-## TÍTULO ÚNICO
+## TITULO PRIMERO.
 
-### CAPÍTULO ÚNICO
+### CAPITULO I.
+
+DE LAS GARANTIAS INDIVIDUALES.
 
 ###### Artículo 1.
 
@@ -336,7 +334,9 @@ La propiedad de las tierras y aguas comprendidas dentro de los límites del terr
 
 Las expropiaciones sólo podrán hacerse por causa de utilidad pública y mediante indemnización.
 
-La Nación tendrá en todo tiempo el derecho de imponer a la propiedad privada las modalidades que dicte el interés público, así como el de regular el aprovechamiento de los elementos naturales susceptibles de apropiación, para hacer una distribución equitativa de la riqueza pública y para cuidar de su conservación. Con este objeto, se dictarán las medidas necesarias para el fraccionamiento de los latifundios; para el desarrollo de la pequeña propiedad agrícola en explotación; para la creación de nuevos centros de población agrícola con las tierras y aguas que les sean indispensables; para el fomento de la agricultura y para evitar la destrucción de los elementos naturales y los daños que la propiedad pueda sufrir en perjuicio de la sociedad. Los núcleos de población que carezcan de tierras y aguas o no las tengan en cantidad suficiente para las necesidades de su población, tendrán derecho a que se les dote de ellas, tomándolas de las propiedades inmediatas, respetando siempre la pequeña propiedad agrícola en explotación.
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 1976)</small>
+
+La Nación tendrá en todo tiempo el derecho de imponer a la propiedad privada las modalidades que dicte el interés público, así como el de regular, en beneficio social, el aprovechamiento de los elementos naturales susceptibles de apropiación, con objeto de hacer una distribución equitativa de la riqueza pública, cuidar de su conservación, lograr el desarrollo equilibrado del país y el mejoramiento de las condiciones de vida de la población rural y urbana. En consecuencia, se dictarán las medidas necesarias para ordenar los asentamientos humanos y establecer adecuadas provisiones, usos, reservas y destinos de tierras, aguas y bosques, a efecto de ejecutar obras públicas y de planear y regular la fundación, conservación, mejoramiento y crecimiento de los centros de población; para el fraccionamiento de los latifundios; para disponer, en los términos de la Ley Reglamentaria, la organización y explotación colectiva de los ejidos y comunidades; para el desarrollo de la pequeña propiedad agrícola en explotación; para la creación de nuevos centros de población agrícola con tierras y aguas que les sean indispensables; para el fomento de la agricultura y para evitar la destrucción de los elementos naturales y los daños que la propiedad pueda sufrir en perjuicio de la sociedad. Los núcleos de población que carezcan de tierras y aguas o no las tengan en cantidad suficiente para las necesidades de su población, tendrán derecho a que se les dote de ellas, tomándolas de las propiedades inmediatas, respetando siempre la pequeña propiedad agrícola en explotación.
 
 > <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1960)</small>
 
@@ -353,6 +353,10 @@ En los casos a que se refieren los dos párrafos anteriores, el dominio de la Na
 > <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 6 DE FEBRERO DE 1975)</small>
 
 Corresponde también a la Nación el aprovechamiento de los combustibles nucleares para la generación de energía nuclear y la regulación de sus aplicaciones en otros propósitos. El uso de la energía nuclear sólo podrá tener fines pacíficos.
+
+> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 1976)</small>
+
+La Nación ejerce en una zona económica exclusiva situada fuera del mar territorial y adyacente a éste, los derechos de soberanía y las jurisdicciones que determinen las leyes del Congreso. La zona económica exclusiva se extenderá a doscientas millas náuticas, medidas a partir de la línea de base desde la cual se mide el mar territorial. En aquellos casos en que esa extensión produzca superposición con las zonas económicas exclusivas de otros Estados, la delimitación de las respectivas zonas se hará en la medida en que resulte necesario, mediante acuerdo con estos Estados.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ENERO DE 1960)</small>
 
@@ -490,7 +494,11 @@ Tampoco constituyen monopolios las asociaciones o sociedades cooperativas de pro
 
 En los casos de invasión, perturbación grave de la paz pública, o de cualquiera otro que ponga a la sociedad en grande peligro o conflicto, solamente el Presidente de la República Mexicana, de acuerdo con el Consejo de Ministros, y con aprobación del Congreso de la Unión, y en los recesos de éste, de la Comisión Permanente, podrá suspender en todo el país, o en lugar determinado las garantías que fuesen obstáculo para hacer frente, rápida y fácilmente, a la situación; pero deberá hacerlo por un tiempo limitado, por medio de prevenciones generales y sin que la suspensión se contraiga a determinado individuo. Si la suspensión tuviese lugar hallándose el Congreso reunido, éste concederá las autorizaciones que estime necesarias para que el Ejecutivo haga frente a la situación. Si la suspensión se verificase en tiempo de receso, se convocará sin demora al Congreso para que las acuerde.
 
-### CAPÍTULO I. DE LAS LEYES Y AUTORIDADES FISCALES
+### CAPITULO II.
+
+DE LOS MEXICANOS.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1934)</small>
 
 ###### Artículo 3.
 
@@ -558,7 +566,9 @@ Los mexicanos serán preferidos a los extranjeros en igualdad de circunstancias,
 
 Para pertenecer a la Marina Nacional de Guerra o a la Fuerza Aérea, y desempeñar cualquier cargo o comisión en ellas, se requiere ser mexicano por nacimiento. Esta misma calidad será indispensable en Capitanes, Pilotos, Patrones, Maquinistas, Mecánicos y, de una manera general, para todo el personal que tripule cualquier embarcación o aeronave que se ampare con la bandera o insignia mercante mexicana. Será también necesaria la calidad de mexicano por nacimiento para desempeñar los cargos de Capitán de Puerto, y todos los servicios de practicaje y Comandante de Aeródromo, así como todas las funciones de Agente Aduanal en la República.
 
-### CAPÍTULO II. DE LOS INGRESOS
+### CAPITULO III.
+
+DE LOS EXTRANJEROS.
 
 ###### Artículo 8.
 
@@ -578,7 +588,11 @@ Son extranjeros los que no posean las calidades determinadas en el artículo 30.
 
 Los extranjeros no podrán de ninguna manera inmiscuirse en los asuntos políticos del país.
 
-### CAPÍTULO I. DE LOS SUJETOS
+### CAPITULO IV.
+
+DE LOS CIUDADANOS MEXICANOS.
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1969)</small>
 
 ###### Artículo 11.
 
@@ -682,9 +696,11 @@ VI.- Por sentencia ejecutoria que imponga como pena esa suspensión.
 
 La ley fijará los casos en que se pierden, y los demás en que se suspenden los derechos de ciudadano, y la manera de hacer la rehabilitación.
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+## TITULO SEGUNDO.
 
-### CAPÍTULO II. DEL NACIMIENTO Y EXTINCIÓN DE LAS OBLIGACIONES Y DE LOS CRÉDITOS FISCALES
+### CAPITULO I.
+
+DE LA SOBERANIA NACIONAL Y DE LA FORMA DE GOBIERNO.
 
 ###### Artículo 13.
 
@@ -720,7 +736,11 @@ Es voluntad del pueblo mexicano constituirse en una República representativa, d
 
 El pueblo ejerce su soberanía por medio de los Poderes de la Unión, en los casos de la competencia de éstos, y por los de los Estados, en lo que toca a sus regímenes interiores, en los términos respectivamente establecidos por la presente Constitución Federal y las particulares de los Estados, las que en ningún caso podrán contravenir las estipulaciones del Pacto Federal.
 
-### CAPÍTULO III. DE LA GARANTÍA DE LOS CRÉDITOS FISCALES
+### CAPITULO II.
+
+DE LAS PARTES INTEGRANTES DE LA FEDERACION Y DEL TERRITORIO NACIONAL.
+
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1960)</small>
 
 ###### Artículo 15.
 
@@ -772,9 +792,13 @@ El Estado del (sic) Nayarit tendrá la extensión territorial y límites que com
 
 Las islas, los cayos y arrecifes de los mares adyacentes que pertenezcan al territorio nacional, la plataforma continental, los zócalos submarinos de las islas, de los cayos y arrecifes, los mares territoriales, las aguas marítimas interiores y el espacio situado sobre el territorio nacional, dependerán directamente del Gobierno de la Federación, con excepción de aquellas islas sobre las que hasta la fecha hayan ejercido jurisdicción los Estados.
 
-## TÍTULO SEGUNDO. DE LOS CRÉDITOS FISCALES
+## TITULO TERCERO.
 
-### CAPÍTULO I. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES
+### CAPITULO I.
+
+DE LA DIVISION DE PODERES.
+
+> <small>(REFORMADO, D.O.F. 28 DE MARZO DE 1951)</small>
 
 ###### Artículo 16.
 
@@ -788,7 +812,9 @@ El Supremo Poder de la Federación se divide para su ejercicio en Legislativo, E
 
 No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo, salvo el caso de facultades extraordinarias al Ejecutivo de la Unión, conforme a lo dispuesto en el artículo 29. En ningún otro caso, salvo lo dispuesto en el segundo párrafo del artículo 131, se otorgarán facultades extraordinarias para legislar.
 
-### CAPÍTULO II. DE LAS ATRIBUCIONES DE LAS AUTORIDADES FISCALES MUNICIPALES
+### CAPITULO II.
+
+DEL PODER LEGISLATIVO.
 
 ###### Artículo 18.
 
@@ -818,7 +844,11 @@ II. Extraordinarios: los aprobados por el H. Congreso o los derivados de disposi
 
 El poder legislativo de los Estados Unidos Mexicanos se deposita en un Congreso general, que se dividirá en dos Cámaras, una de diputados y otra de senadores.
 
-#### SECCIÓN I. DE LOS ESTABLECIMIENTOS CUYO GIRO SEA LA ENAJENACIÓN DE BEBIDAS ALCOHÓLICAS REALIZADA TOTAL O PARCIALMENTE AL PÚBLICO EN GENERAL
+#### SECCION I.
+
+DE LA ELECCION E INSTALACION DEL CONGRESO.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
 
 ###### Artículo 17.
 
@@ -988,7 +1018,9 @@ A la apertura de sesiones ordinarias del Congreso asistirá el Presidente de la 
 
 Toda resolución del Congreso tendrá el carácter de ley o decreto. Las leyes o decretos se comunicarán al Ejecutivo firmados por los presidentes de ambas Cámaras y por un secretario de cada una de ellas, y se promulgarán en esta forma: "El Congreso de los Estados Unidos Mexicanos decreta: (texto de la ley o decreto)".
 
-#### SECCIÓN II. DE LOS DERECHOS POR ANUNCIOS COMERCIALES Y PUBLICIDAD
+#### SECCION II.
+
+DE LA INICIATIVA Y FORMACION DE LAS LEYES.
 
 ###### Artículo 132.
 
@@ -1036,7 +1068,11 @@ I (sic).- El Ejecutivo de la Unión no puede hacer observaciones a las resolucio
 
 Tampoco podrá hacerlas al Decreto de convocatoria a sesiones extraordinarias que expida la Comisión Permanente.
 
-#### SECCIÓN I. DE LA INTEGRACIÓN Y ESTRUCTURA DEL PRESUPUESTO DE EGRESOS
+#### SECCION III.
+
+DE LAS FACULTADES DEL CONGRESO.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE FEBRERO DE 1944)</small>
 
 ###### Artículo 133.
 
@@ -1234,6 +1270,10 @@ Las entidades federativas participarán en el rendimiento de estas contribucione
 
 XXIX-B.- Para legislar sobre las características y uso de la Bandera, Escudo e Himno Nacionales.
 
+> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 1976)</small>
+
+XXIX-C.- Para expedir las leyes que establezcan la concurrencia del Gobierno Federal, de los Estados y de los Municipios, en el ámbito de sus respectivas competencias, en materia de asentamientos humanos, con objeto de cumplir los fines previstos en el párrafo tercero del artículo 27 de esta Constitución.
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
 XXX.- Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
@@ -1318,7 +1358,9 @@ III.- Nombrar los empleados de su secretaría y hacer el reglamento interior de 
 
 IV.- Expedir convocatoria para elecciones extraordinarias, con el fin de cubrir las vacantes de sus respectivos miembros.
 
-#### SECCIÓN II. DE LA INICIATIVA, APROBACIÓN Y REFORMAS DEL PRESUPUESTO
+#### SECCION IV.
+
+DE LA COMISION PERMANENTE.
 
 ###### Artículo 134.
 
@@ -4224,8 +4266,6 @@ III. Si en el término de dos años, el adquirente no concluye el proceso de esc
 
 Los Notarios Públicos al otorgar las escrituras o instrumentos que contengan las enajenaciones de inmuebles, estipularán en las mismas las condiciones a que se refiere el artículo anterior. La infracción será sancionada conforme al procedimiento establecido en la Ley del Notariado y demás disposiciones legales aplicables, sin perjuicio de otras responsabilidades que pudieren resultarles. Para su ejercicio se otorga acción pública.
 
-#### SECCIÓN TERCERA. DE LOS INMUEBLES BALDÍOS
-
 ###### Artículo 480.
 
 Son terrenos baldíos, aquellos que ubicados en las zonas urbanas y suburbanas de los municipios, carecen de propietario, edificación y posesión particular.
@@ -4259,88 +4299,6 @@ I. La falsedad de los datos proporcionados por el adquirente en su solicitud;
 II. El incumplimiento de las disposiciones de este Libro o de alguna de las cláusulas del contrato; o
 
 III. Mantener el lote baldío por más de dos años, contándose este término a partir de la fecha de notificada la autorización por el H. Congreso.
-
-###### Artículo 484.
-
-Cuando el Ayuntamiento tenga conocimiento de alguna causa de rescisión administrativa de un contrato, a solicitud de parte o de oficio, sin mayor trámite el Síndico del Ayuntamiento procederá de la forma siguiente:
-
-I. Integrará un expediente con el nombre del beneficiario del inmueble, anotando el domicilio particular donde pueda ser notificado, la ubicación del lote, superficie y estado en que se encuentra, señalando la causal de que se trate, agregando copia certificada del contrato de compraventa, expedida por el Registro Público de la Propiedad;
-
-II. Integrado el expediente, dictará acuerdo de inicio del procedimiento administrativo de rescisión;
-
-III. El acuerdo recaído se notificará al propietario en su domicilio mediante instructivo de notificación o por edicto si se desconociere, publicándolo en la Gaceta Oficial del estado y en el periódico de mayor circulación en el lugar de ubicación del lote motivo del contrato, para que surta efectos de notificación personal;
-
-IV. El propietario del inmueble dispondrá del término de nueve días hábiles, contado a partir del en que surta efectos la notificación, para que por escrito manifieste lo que a su derecho convenga y para ofrecer pruebas, señalando domicilio para recibir notificaciones; de no hacerlo, las subsecuentes se harán en la tabla de avisos del Ayuntamiento;
-
-V. Hechas las manifestaciones y ofrecidas las pruebas, dentro de los tres días hábiles siguientes se señalará día y hora para su recepción. Las pruebas que sean admitidas serán recibidas y desahogadas en la misma audiencia, comparezca o no el oferente;
-
-VI. Si transcurrido el término a que se refiere la fracción IV de este artículo, el propietario no hiciere manifestación alguna, se practicará certificación de dicha circunstancia, turnándose el expediente al Cabildo, para resolver dentro de los tres días hábiles siguientes; y
-
-VII. Celebrada la audiencia, dentro de los tres días hábiles siguientes, el Cabildo dictará resolución conforme a derecho.
-
-Esta se notificará al interesado como se prevé en la fracción III de este artículo.
-
-###### Artículo 485.
-
-Al resolverse la rescisión administrativa de un contrato celebrado conforme a este Código, el interesado tendrá derecho a que se le reintegre únicamente la cantidad que hubiere pagado por el lote, solicitándolo por escrito al Ayuntamiento.
-
-###### Artículo 486.
-
-Contra la resolución de rescisión administrativa, el interesado podrá interponer dentro de los quince días hábiles siguientes a la fecha de la notificación de la misma, ante el propio Ayuntamiento, el recurso administrativo de revocación. Admitido el recurso deberá ser resuelto por votación mayoritaria de los miembros del cabildo dentro de igual término. La interposición del recurso suspenderá de plano la ejecución de la resolución.
-
-###### Artículo 487.
-
-Cuando no se haya hecho valer el recurso de revocación o haciéndolo, se confirme la resolución, se comunicará por oficio al Encargado del Registro Público de la Propiedad de la zona registral de la ubicación del lote, para que practique la anotación marginal correspondiente y el Ayuntamiento proceda a la recuperación física del predio y realice la variación del padrón catastral como consecuencia de la rescisión administrativa.
-
-###### Artículo 488.
-
-El Ayuntamiento, para recuperar los inmuebles como consecuencia de la rescisión administrativa prevista en este Título, se sujetará a las disposiciones del Código de Procedimientos Administrativos.
-
-T R A N S I T O R I O S
-
-Primero. El presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
-
-Segundo. En términos del artículo 1 del Código número 302 Hacendario Municipal para el Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del estado el 22 de noviembre de 2002, quedará sin aplicación dicho ordenamiento en el Municipio de Tierra Blanca, Veracruz, a partir de la vigencia del presente Código.
-
-Tercero. Las contribuciones, los créditos fiscales y los procedimientos administrativos generados bajo la vigencia del Código Hacendario Municipal para el Estado de Veracruz de Ignacio de la Llave se cobrarán, tramitarán y resolverán, conforme a dicho ordenamiento legal, hasta su conclusión.
-
-DADO EN EL SALÓN DE SESIONES DE LA LXI LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO, EN LA CIUDAD DE XALAPA-ENRÍQUEZ, VERACRUZ DE IGNACIO DE LA LLAVE, A LOS VEINTINUEVE DÍAS DEL MES DE ENERO DEL AÑO DOS MIL NUEVE.
-
-FERNANDO GONZÁLEZ ARROYO
-
-DIPUTADO PRESIDENTE
-
-RÚBRICA.
-
-HUGO ALBERTO VÁSQUEZ ZÁRATE
-
-DIPUTADO SECRETARIO
-
-RÚBRICA.
-
-Por lo tanto, en atención a lo dispuesto por el artículo 49 fracción II de la Constitución Política del Estado, y en cumplimiento del oficio SG/000404 de los diputados presidente y secretario de la Sexagésima Primera Legislatura del Honorable Congreso del Estado, mando se publique y se le dé cumplimiento.
-
-Residencia del Poder Ejecutivo Estatal, a los tres días del mes de febrero del año dos mil nueve.
-
-A t e n t a m e n t e
-
-Sufragio efectivo. No reelección
-
-Licenciado Fidel Herrera Beltrán
-
-Gobernador del Estado
-
-Rúbrica.
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-G.O. 13 DE MARZO DE 2015.
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
-
-Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
-
-G.O. 26 DE DICIEMBRE DE 2017.
 
 ###### Artículo 223.
 
@@ -5772,7 +5730,9 @@ VIII.- (REFORMADA [N. DE E. DEROGADA], D.O.F. 8 DE OCTUBRE DE 1974)
 
 IX.- (REFORMADA [N. DE E. DEROGADA], D.O.F. 8 DE OCTUBRE DE 1974)
 
-### CAPÍTULO I. DE LAS INFRACCIONES
+### CAPITULO III.
+
+DEL PODER EJECUTIVO.
 
 ###### Artículo 20.
 
@@ -5954,7 +5914,11 @@ Los Secretarios del Despacho y los Jefes de los Departamentos Administrativos, l
 
 Cualquiera de las Cámaras podrá citar a los Secretarios de Estado y a los Jefes de los Departamentos Administrativos, así como a los Directores y Administradores de los Organismos Descentralizados Federales o de las Empresas de Participación Estatal Mayoritaria, para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades.
 
-### CAPÍTULO II. DE LAS SANCIONES
+### CAPITULO IV.
+
+DEL PODER JUDICIAL.
+
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
 ###### Artículo 23.
 
@@ -6414,7 +6378,9 @@ También será consignado a la autoridad o Agente de ella, el que, realizada una
 
 Si la detención se verificare fuera del lugar en que reside el juez, al término mencionado se agregará el suficiente para recorrer la distancia que hubiere entre dicho lugar y el en que se efectuó la detención.
 
-## TÍTULO TERCERO. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES Y DE LAS ATRIBUCIONES DE LAS AUTORIDADES FISCALES MUNICIPALES
+## TITULO CUARTO.
+
+DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS PUBLICOS.
 
 ###### Art. 108.
 
@@ -6470,7 +6436,11 @@ La responsabilidad por delitos y faltas oficiales, sólo podrá exigirse durante
 
 En demandas del orden civil, no hay fuero ni inmunidad para ningún funcionario público.
 
-## TÍTULO CUARTO. DE LAS INFRACCIONES Y SANCIONES FISCALES
+## TITULO QUINTO.
+
+DE LOS ESTADOS DE LA FEDERACION.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE OCTUBRE DE 1953)</small>
 
 ###### Art. 115.
 
@@ -6525,6 +6495,14 @@ El número de representantes en las Legislaturas de los Estados será proporcion
 > <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
 
 Los diputados a las Legislaturas de los Estados no podrán ser reelectos para el período inmediato. Los diputados suplentes podrán se electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
+
+> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 1976)</small>
+
+IV.- Los Estados y Municipios, en el ámbito de sus competencias, expedirán las leyes, reglamentos y disposiciones administrativas que sean necesarias para cumplir con los fines señalados en el párrafo tercero del artículo 27 de esta Constitución en lo que se refiere a los centros urbanos y de acuerdo con la Ley Federal de la materia.
+
+> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 1976)</small>
+
+V.- Cuando dos o más centros urbanos situados en territorios municipales de dos o más Entidades Federativas formen o tiendan a formar una continuidad geográfica, la Federación, las Entidades Federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a la Ley Federal de la materia.
 
 ###### Art. 116.
 
@@ -6602,7 +6580,11 @@ V.- Los títulos profesionales expedidos por las autoridades de un Estado, con s
 
 Los Poderes de la Unión, tienen el deber de proteger a los Estados contra toda invasión o violencia exterior. En cada caso de sublevación o trastorno interior, les prestarán igual protección, siempre que sean excitados por la Legislatura del Estado o por su Ejecutivo, si aquélla no estuviere reunida.
 
-## TÍTULO QUINTO. DE LOS DELITOS FISCALES
+## TITULO SEXTO.
+
+DEL TRABAJO Y DE LA PREVISION SOCIAL.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
 ### CAPÍTULO I. DEL IMPUESTO PREDIAL
 
@@ -6908,9 +6890,9 @@ XXIX.- Es de utilidad pública la Ley del Seguro Social, y ella comprenderá seg
 
 XXX.- Asimismo serán consideradas de utilidad social, las sociedades cooperativas para la construcción de casas baratas e higiénicas, destinadas a ser adquiridas en propiedad, por los trabajadores en plazos determinados.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 6 DE FEBRERO DE 1975)</small>
+(ADICIONADA [N. DE E. REFORMADA], D.O.F. 6 DE FEBRERO DE 1975) (F. DE E., D.O.F. 17 DE MARZO DE 1975)
 
-XXXI.- La aplicación de las leyes de trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, pero es de la competencia exclusiva de las autoridades federales en asuntos relativos a la industria textil, eléctrica, cinematográfica, hulera, azucarera, minería, petroquímica, metalúrgica y siderúrgica, abarcando la explotación de los minerales básicos, el beneficio y la fundición de los mismos, así como la obtención de hierro metálico y acero a todas sus formas y ligas y los productos laminados de los mismos, hidrocarburos, cemento, industria automotriz, productos químicos farmacéuticos y medicamentos, celulosa y papel, aceites y grasas vegetales, empacado y enlatado de alimentos, bebidas envasadas, ferrocarriles y empresas que sean administradas en forma directa o descentralizada por el gobierno federal; empresas que actúan en virtud de un contrato o concesión federal y las industrias que sean conexas; empresas que ejecuten trabajos en zonas federales y aguas territoriales; a conflictos que hayan sido declarados obligatorios en más de una entidad federativa, y por último, las obligaciones que en materia educativa corresponden a los patrones, en la forma y término que fija la ley respectiva.
+XXXI.- La aplicación de las leyes de trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, pero es de la competencia exclusiva de las autoridades federales en asuntos relativos a la industria textil, eléctrica, cinematográfica, hulera, azucarera, minería, petroquímica, metalúrgica y siderúrgica, abarcando la explotación de los minerales básicos, el beneficio y la fundición de los mismos, así como la obtención de hierro metálico y acero a todas sus formas y ligas y los productos laminados de los mismos, hidrocarburos, cemento, industria automotriz, productos químico farmacéuticos y medicamentos, celulosa y papel, aceites y grasas vegetales, empacado y enlatado de alimentos, bebidas envasadas, ferrocarriles y empresas que sean administradas en forma directa o descentralizada por el gobierno federal; empresas que actúan en virtud de un contrato o concesión federal y las industrias que sean conexas; empresas que ejecuten trabajos en zonas federales y aguas territoriales; a conflictos que afecten a dos o mas entidades federativas; a contratos colectivos que hayan sido declarados obligatorios en más de una entidad federativa y, por último las obligaciones que en materia educativa corresponden a los patronos, en la forma y términos que fija la ley respectiva.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
@@ -7002,7 +6984,9 @@ El Estado proporcionará a los miembros en el activo del Ejército, Fuerza Aére
 
 XIV.- La ley determinará los cargos que serán considerados de confianza. Las personas que los desempeñen disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social.
 
-## TÍTULO PRIMERO. DE LOS IMPUESTOS
+## TITULO SEPTIMO.
+
+PREVENCIONES GENERALES.
 
 ### CAPÍTULO IV. DEL IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS Y CONCURSOS
 
@@ -7322,7 +7306,9 @@ Esta Constitución, las leyes del Congreso de la Unión que emanen de ella y tod
 
 Todos los contratos que el Gobierno tenga que celebrar para la ejecución de obras públicas, serán adjudicadas en subasta, mediante convocatoria, y para que se presenten proposiciones en sobre cerrado, que será abierto en junta pública.
 
-## TÍTULO SEGUNDO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LAS DEPENDENCIAS Y ENTIDADES MUNICIPALES
+## TITULO OCTAVO.
+
+DE LAS REFORMAS DE LA CONSTITUCION.
 
 ### CAPÍTULO II. DE LOS DERECHOS POR REGISTRO Y REFRENDO ANUAL DE TODA ACTIVIDAD ECONÓMICA
 
@@ -7650,7 +7636,9 @@ La presente Constitución puede ser adicionada o reformada. Para que las adicion
 
 El Congreso de la Unión o la Comisión Permanente en su caso, harán el cómputo de los votos de las Legislaturas y la declaración de haber sido aprobadas las adiciones o reformas.
 
-## TÍTULO TERCERO. DE LAS CONTRIBUCIONES POR MEJORAS
+## TITULO NOVENO.
+
+DE LA INVIOLABILIDAD DE LA CONSTITUCION.
 
 ### CAPÍTULO IX. DE LOS DERECHOS POR LIMPIEZA DE PREDIOS NO EDIFICADOS
 
@@ -8845,6 +8833,20 @@ En los juicios de amparo pendientes de resolución ante la Suprema Corte de Just
 ###### ARTICULO TERCERO.
 
 Se faculta a la Suprema Corte de Justicia de la Nación para dictar las medidas necesarias para la efectividad e inmediato cumplimiento de la presente reforma.
+
+D.O.F. 6 DE FEBRERO DE 1976.
+
+DECRETO QUE ADICIONA DESPUES DEL PARRAFO SEPTIMO EL ARTICULO 27.
+
+UNICO.- El presente Decreto entrará en vigor ciento veinte días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 6 DE FEBRERO DE 1976.
+
+DECRETO QUE REFORMA EL PARRAFO TERCERO DEL ARTICULO 27, SE ADICIONA LA FRACCION XXIX-C DEL ARTICULO 73 Y LAS FRACCIONES IV Y V DEL ARTICULO 115.
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+SEGUNDO.- El Congreso Federal y las Legislaturas Locales, deberán expedir en el plazo de un año, las leyes reglamentarias previstas en las anteriores reformas y adiciones.
 
 ###### ARTICULO UNICO.
 
