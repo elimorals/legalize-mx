@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-de-seguridad-social-para-las-fuerzas-535"
 country: "mx"
 rank: "ley"
 publication_date: "1976-06-29"
-last_updated: "1978-12-29"
+last_updated: "1981-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=535&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSFAM"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 1981.
 
 Ley publicada en el Diario Oficial de la Federación el martes 29 de junio de 1976.
 
@@ -92,7 +92,9 @@ II. Las cuotas que aporten los militares y sus familiares derechohabientes en lo
 
 III. Las aportaciones del Gobierno Federal señaladas en esta ley, para prestaciones específicas;
 
-IV. Una cantidad anual a cargo del Gobierno Federal, equivalente a un 10% de los haberes y haberes de retiro de los miembros de las Fuerzas Armadas para las demás prestaciones señaladas en esta ley; y
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1981)</small>
+
+IV. Una cantidad anual a cargo del Gobierno Federal, equivalente a un 10% de los haberes y haberes de retiro de los miembros de las Fuerzas Armadas para las demás prestaciones que conforme a esta Ley deba otorgar el Instituto; y
 
 V. Los bienes que por cualquier título adquiera el Instituto, así como los rendimientos y remanentes que obtenga por virtud de sus operaciones.
 
@@ -292,11 +294,11 @@ XXII. Servicio médico subrogado y de farmacias económicas.
 
 Las Secretarías de la Defensa Nacional y de Marina, afiliarán a los militares en situación de activo y de retiro, y las cédulas de identificación que expedirán serán válidas para ejercitar los derechos a las prestaciones a que se refiere el artículo anterior.
 
-> <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 1976)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 18.
 
-El Instituto expedirá a los demás beneficiarios de esta ley, una cédula de identificación a fin de que puedan ejercitar los derechos que la misma les confiere, según el caso. Lo anterior es sin perjuicio de presentar las pruebas que exijan la ley y el propio Instituto.
+El Instituto expedirá a los demás beneficiarios de esta Ley una cédula de identificación a fin de que puedan ejercitar los derechos que legalmente les corresponda. En caso de que el beneficiario carezca de esa cédula se proporcionará el servicio médico quirúrgico mediante la exhibición de una constancia provisional que expedirá el Instituto o las Secretarías de la Defensa Nacional y de Marina, en su caso, con la sola comprobación de la relación familiar, sin perjuicio de atender de inmediato los casos de extrema urgencia, a reserva de probar posteriormente el derecho que les asiste.
 
 ### CAPITULO SEGUNDO
 
@@ -308,7 +310,9 @@ Pagas de defunción y ayuda para gastos de sepelio
 
 Retiro es la facultad que tiene el Estado y que ejerce por conducto de las Secretarías de la Defensa Nacional y de Marina, para separar del activo a los militares al ocurrir alguna de las causales previstas en esta ley.
 
-Situación de retiro es aquélla en que son colocados, mediante órdenes expresas, los militares con la suma de derechos y obligaciones que fija esta ley, al ejercer el Estado la facultad que señala en el párrafo anterior. Los militares con licencia ilimitada, extraordinaria o especial para ser retirados, deberán presentar su solicitud ante las Secretarías de la Defensa Nacional o de Marina, en su caso.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
+Situación de retiro es aquella en que son colocados, mediante órdenes expresas, los militares con la suma de derechos y obligaciones que fija esta Ley, al ejercer el Estado la facultad que señala el párrafo anterior. Los militares con licencia ilimitada para ser retirados, deberán presentar su solicitud ante las Secretarías de la Defensa Nacional o de Marina, en su caso.
 
 > <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 1976)</small>
 
@@ -746,9 +750,11 @@ Esta prestación será cubierta por la oficina pagadora dependiente de la Tesore
 
 ### CAPITULO TERCERO. Fondo de Trabajo, Fondo de Ahorro y Seguro de Vida Militar
 
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 57.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
+El fondo de trabajo estará constituido con las aportaciones que el Gobierno Federal realice a favor de cada elemento de tropa, a partir de la fecha en que cause alta o sea reenganchado hasta que obtenga licencia ilimitada, quede separado del activo o ascienda a oficial. Este fondo será administrado por el Banco Nacional del Ejército, Fuerza Aérea y Armada, S. A., conforme a su Ley Orgánica.
 
 ###### ARTICULO 58.
 
@@ -758,9 +764,11 @@ Esta prestación será cubierta por la oficina pagadora dependiente de la Tesore
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
 
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 60.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
+El Banco Nacional del Ejército, Fuerza Aérea y Armada, S. A., con cargo a las utilidades del fondo de trabajo cubrirá mensualmente al Instituto el 25% de las primas del seguro de vida obligatorio del personal de tropa, de conformidad con lo establecido en el artículo 78 de esta Ley.
 
 ###### ARTICULO 61.
 
@@ -792,9 +800,11 @@ Esta prestación será cubierta por la oficina pagadora dependiente de la Tesore
 
 FONDO DE AHORRO
 
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 68.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
+Para constituir el fondo de ahorro, los Generales, Jefes y Oficiales en servicio activo, deberán aportar una cuota quincenal equivalente al 5% de sus haberes, y para el mismo fin, el Gobierno Federal efectuará una aportación de igual monto. Este fondo será administrado por el Banco Nacional del Ejército, Fuerza Aérea y Armada, S. A., conforme a su Ley Orgánica.
 
 ###### ARTICULO 69.
 
@@ -838,7 +848,9 @@ Se entenderá que los militares que disfruten de haber de retiro, quedan acogido
 
 Los militares que hubieren recibido compensación o que disfruten de licencia sin goce de haberes que quieran acogerse al beneficio del Seguro, deberán manifestarlo así al Instituto dentro de los 30 días siguientes a la fecha en que causen alta en situación de retiro o de la fecha de la licencia.
 
-Los mismos militares podrán en cualquier tiempo, cuando así lo deseen, dejar de participar en el Seguro notificándolo por escrito al Instituto. En este caso, el Seguro se extingue al concluir el periodo por el cual fue pagada la cuota o prima. Estos militares no podrán acogerse nuevamente al Seguro potestativo. También el Seguro se extingue cuando dejaren de pagar en cualquier tiempo cuatro cuotas quincenales consecutivas, por causas imputables al interesado.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
+Los mismos militares podrán en cualquier tiempo, cuando así lo deseen, dejar de participar en el Seguro, notificándolo por escrito al Instituto. En este caso, el Seguro se extingue al concluir el período por el cual fue pagada la cuota o prima. Estos militares no podrán acogerse nuevamente al seguro potestativo. También el Seguro se extingue cuando dejaren de pagar en cualquier tiempo ocho cuotas quincenales consecutivas por causas imputables al interesado.
 
 > <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
 
@@ -846,19 +858,19 @@ Los mismos militares podrán en cualquier tiempo, cuando así lo deseen, dejar d
 
 El importe del Seguro será de $50,000.00 para la tropa y $100,000.00 para los Generales, Jefes y Oficiales. Cada seis años se hará una revisión tanto de la suma asegurada como de las primas del Seguro. Y en caso de que proceda modificarlas se requerirá la aprobación de las Secretarías de Programación y Presupuesto y de Hacienda y Crédito Público.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 78.
 
-Las cuotas para el seguro de vida obligatorio, serán las que fije la Secretaría de Hacienda y Crédito Público.
+Las primas para el Seguro de Vida Obligatorio serán las que mediante estudios y cálculos actuariales fije la Junta Directiva del Instituto con la aprobación de la Secretaría de Programación y Presupuesto.
 
-Los Generales, Jefes y Oficiales del Ejército y Fuerza Aérea y sus equivalentes en la Armada, cubrirán las cuotas a que se refiere el párrafo anterior, en proporción de un 50% y con cargo al Gobierno Federal se pagará el 50% restante.
+Sobre la base de una prima mensual, ésta se cubrirá hasta por la cantidad de $25.00 de acuerdo con los porcentajes siguientes:
 
-Las cuotas del personal de tropa se pagarán en la forma siguiente:
+I. A cargo de los Generales, Jefes y Oficiales del Ejército y Fuerza Aérea y sus equivalentes en la Armada un 50% y el 50% restante se cubrirá por el Gobierno Federal.
 
-a). 50% por el Gobierno Federal, con cargo a las partidas correspondientes del Presupuesto de Egresos de la Federación.
+II. Si se trata del personal de tropa, un 25% con cargo a las utilidades del Fondo de Trabajo que entregará mensualmente el Banco Nacional del Ejército, Fuerza Aérea y Armada, S. A., al Instituto, y el 75% restante lo cubrirá el Gobierno Federal.
 
-b). 25% con cargo a las utilidades del Fondo de Trabajo.
-
-c). 25% con cargo al personal de tropa asegurado.
+Si el importe de la prima llegare a rebasar la cantidad de $25.00 el personal militar a que se refiere la fracción I de este artículo, en ningún caso pagará más de $12.50 al mes y la diferencia correspondiente será pagada íntegramente por el Gobierno Federal.
 
 ###### ARTICULO 79.
 
@@ -872,17 +884,23 @@ III. Con el producto de su inversión en los términos de esta ley; y
 
 IV. Con cualquiera aportación extraordinaria del Gobierno Federal.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 80.
 
-En el Seguro de Vida obligatorio, los militares deberán designar beneficiario libremente. Las designaciones se formularán en presencia de dos testigos que firmarán, para constancia, un escrito por duplicado dirigido al Instituto autorizado con la firma del asegurado y con sus huellas digitales, o sólo con éstas. Las designaciones de beneficiarios pueden hacerse también en testamento legalmente otorgado.
+En el Seguro de Vida tanto obligatorio como potestativo, los militares podrán designar beneficiarios libremente. Las designaciones se formularán en el documento de afiliación o en escrito por triplicado dirigido al Instituto, con las firmas de dos testigos y la del asegurado y su huella digital o sólo con ésta.
 
 ###### ARTICULO 81.
 
 Las designaciones de beneficiario pueden ser revocadas libremente, con las formalidades que se mencionan en el artículo anterior. Una designación posterior revoca la anterior.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 82.
 
-La calidad de beneficiario es estrictamente personal y no es transmitible por herencia.
+La calidad de beneficiario es personal e intransmisible por herencia.
+
+Los derechos del beneficiario sobre la suma asegurada, una vez ocurrido el siniestro si son transmisibles por herencia.
 
 ###### ARTICULO 83.
 
@@ -896,11 +914,21 @@ II. Por partes iguales, en caso de que el asegurado no hubiere hecho señalamien
 
 III. Si algún beneficiario muere o pierde sus derechos antes de que fallezca el asegurado, su parte acrecerá la del o la de los beneficiarios.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 84.
 
-Si al morir el militar no existiere designación de beneficiario conforme a esta ley, el Seguro se pagará a los familiares de acuerdo con la prelación establecida en el artículo 59.
+Si al morir el militar no existiere designación de beneficiarios conforme a esta Ley, el seguro se pagará a los familiares de acuerdo con la prelación siguiente:
 
-En este caso, la existencia de alguno o algunos de los familiares enumerados en cada fracción, excluye a los comprendidos en las siguientes; excepto cuando se trate de la concubina, quien concurrirá con los hijos que hubiere dejado el militar.
+1.- Al cónyuge o si no lo hubiere a la concubina o al concubinario en los términos de los artículos 37 fracción II inciso a), y b) y 170 de esta Ley, en concurrencia con los hijos del militar por partes iguales.
+
+2.- La madre.
+
+3.- El padre.
+
+4.- Los hermanos.
+
+La existencia de alguno o algunos de los beneficiarios mencionados en cada fracción, excluye a los comprendidos en las fracciones siguientes:
 
 ###### ARTICULO 85.
 
@@ -908,11 +936,11 @@ El Instituto, al tener conocimiento del fallecimiento del militar, deberá notif
 
 Cuando proceda el pago del Seguro a la esposa, los hijos, los padres o a la concubina del militar fallecido, el Instituto cubrirá su importe sin más requisitos que la presentación de la credencial correspondiente de afiliación. En cualquiera otro caso se comprobará la personalidad a satisfacción del propio Instituto.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 86.
 
-Las cuotas que deben pagar los militares del Seguro potestativo implícito, serán las que anualmente determine la Secretaría de Hacienda y Crédito Público, de acuerdo con la tabla de mortalidad que se aplique y que no será menos conservadora que la llamada Experiencia Americana, al 4.5% sobre la base de primas del Seguro temporal en un año y según las edades alcanzadas por estos asegurados.
-
-El Instituto en el mes de noviembre de cada año, someterá a la aprobación de la Secretaría de Hacienda y Crédito Público, los cálculos respectivos, y aprobadas las cuotas, entrarán en vigor a partir del 1o. de enero del año siguiente.
+El importe del seguro de vida potestativo y el de las primas serán los mismos que se fijen para el seguro de vida obligatorio. La prima del Seguro de Vida Potestativo, será cubierta íntegramente por el militar asegurado. Pero si su importe es mayor de la cantidad de $25.00 la diferencia correspondiente será pagada por el Gobierno Federal en términos del párrafo final del Artículo 78 de la presente Ley.
 
 ###### ARTICULO 87.
 
@@ -920,9 +948,11 @@ Las cuotas que deben cubrir los militares, serán descontadas quincenalmente en 
 
 Los asegurados potestativos que no disfruten de haber de retiro, cubrirán cada quincena sus cuotas directamente en las Oficinas del Instituto.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 88.
 
-Si al morir un asegurado potestativo quedare adeudando hasta cuatro cuotas quincenales, se descontará su importe de la suma asegurada.
+Si al morir un asegurado potestativo quedare adeudando hasta ocho cuotas quincenales consecutivas, se descontará su importe de la suma asegurada.
 
 ###### ARTICULO 89.
 
@@ -932,9 +962,11 @@ El Gobierno Federal cubrirá las cuotas que le corresponden, conforme al artícu
 
 Comprobada la muerte del militar y acreditada la calidad del beneficiario, deberá cubrirse la suma asegurada dentro de los treinta días siguientes.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 91.
 
-El Seguro obligatorio se suspende durante el tiempo en que se disfrute de licencia sin goce de haberes. Cesa la suspensión al término de dicha licencia, a menos que el interesado continúe cubriendo el importe de las primas del seguro.
+El seguro obligatorio se interrumpe durante el tiempo en que se disfrute de licencia sin goce de haberes, a menos que el interesado continúe cubriendo el importe de las primas del seguro.
 
 ###### ARTICULO 92.
 
@@ -942,13 +974,17 @@ El seguro se extingue treinta días después de la baja de los militares del ser
 
 La extinción o suspensión del seguro, en ningún caso dará derecho a devolución de las cuotas pagadas conforme a esta ley.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 93.
 
-Cuando con motivo de la reclamación de la suma asegurada, surja alguna controversia entre el Instituto y los presuntos beneficiarios, se podrá ocurrir ante la Secretaría de Hacienda y Crédito Público en inconformidad.
+Cuando con motivo de la reclamación de la suma asegurada surja alguna controversia entre el Instituto y los presuntos beneficiarios, se podrá ocurrir ante la Secretaría de Programación y Presupuesto en inconformidad.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 94.
 
-El derecho al pago de la suma asegurada prescribe en dos años, contados a partir de la muerte del militar.
+El derecho al pago de la suma asegurada prescribe en dos años, contados a partir de la muerte del militar para los beneficiarios designados por el asegurado y en tres años para todos los señalados en el Artículo 84 de esta Ley.
 
 ###### ARTICULO 95.
 
@@ -962,9 +998,11 @@ En ningún caso se podrá disponer, para fines distintos de los que expresamente
 
 Los ingresos y productos de las inversiones del Fondo del Seguro de Vida Militar, no estarán sujetos al pago de impuestos o derechos.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 98.
 
-El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, podrá dictar las disposiciones reglamentarias que estime convenientes para mejorar y regular el servicio del Seguro de Vida Militar.
+La Junta Directiva dictará las disposiciones administrativas internas que estimare convenientes para mejorar y regular el servicio del seguro de vida militar.
 
 ### CAPITULO CUARTO. Vivienda y Otras Prestaciones
 
@@ -996,7 +1034,9 @@ VII. Construir unidades habitacionales en lugares próximos a los campos militar
 
 Los recursos del Fondo de la Vivienda para los miembros del Ejército, Fuerza Aérea y Armada, se integrarán:
 
-I. Con las aportaciones del cinco por ciento sobre los haberes y asignaciones de técnico y de vuelo de los militares en activo que continúe proporcionando el Gobierno Federal.
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1981)</small>
+
+I. Con las aportaciones del cinco por ciento sobre los haberes y asignaciones de técnico, de técnico especial y de vuelo de los militares en activo del Ejército, Fuerza Aérea y Armada que los estén percibiendo y que continúe proporcionando el Gobierno Federal;
 
 II. Con los bienes y derechos adquiridos por cualquier título; y
 
@@ -1006,7 +1046,9 @@ III. Con los rendimientos que se obtengan de las inversiones de los recursos a q
 
 Los recursos del Fondo se destinarán:
 
-I. Al otorgamiento de créditos a los militares que sean titulares de depósitos constituidos a su favor en el Instituto. El importe de estos créditos deberá aplicarse:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1981)</small>
+
+I. Al otorgamiento de créditos a los militares en activo del Ejército, Fuerza Aérea y Armada que estén percibiendo haberes, que sean titulares de depósitos constituidos a su favor en el Instituto. El importe de estos créditos deberá aplicarse:
 
 a). A la adquisición en propiedad de habitaciones, incluyendo las sujetas al régimen de condominio.
 
@@ -1014,7 +1056,9 @@ b). A la construcción, reparación, ampliación o mejoramiento de habitaciones,
 
 c). Al pago de pasivos adquiridos por cualquiera de los conceptos anteriores.
 
-II. Al financiamiento de la construcción de conjuntos de habitaciones para ser adquiridas por militares, mediante créditos que les otorgue el Instituto con cargo al Fondo.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1981)</small>
+
+II. Al financiamiento de la construcción de conjuntos habitacionales para ser adquiridos por militares en activo del Ejército, Fuerza Aérea y Armada que estén percibiendo haberes, mediante créditos que les otorgue el Instituto con cargo al fondo.
 
 Estos financiamientos sólo se concederán por concurso tratándose de programas habitacionales aprobados por el Instituto y que se ajusten a las disposiciones aplicables en materia de construcción.
 
@@ -1044,13 +1088,17 @@ III. Una vez liquidado el crédito otorgado al miembro de las instituciones arma
 
 IV. El militar tendrá derecho a que se le haga entrega periódica del saldo de los depósitos que se hubieren hecho a su favor con diez años de anterioridad;
 
-V. Cuando el militar quede separado del activo o en caso de muerte, se entregará el total de los depósitos constituidos al militar o a sus beneficiarios, en los términos de la presente ley.
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1981)</small>
+
+V. Cuando el militar quede separado del activo, disfrute de licencia ilimitada o en caso de muerte, se entregará el total de los depósitos constituidos al militar o a sus beneficiarios en los términos de la presente Ley.
 
 VI. En el caso de que los militares hubieren recibido crédito hipotecario con recursos del Fondo de la Vivienda, la devolución de los depósitos se hará con deducción de las cantidades que se hubieren aplicado al pago del crédito hipotecario en los términos de las fracciones I y II de este artículo.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 103.
 
-La aportación del cinco por ciento que deberá enterar el Gobierno Federal se computará sobre el haber presupuestal y asignaciones de técnico y de vuelo en los miembros del Ejército, Fuerza Aérea y Armada.
+La aportación del cinco por ciento que deberá entregar el Gobierno Federal se computará sobre el haber presupuestal y asignaciones de Técnico, de Técnico Especial y de vuelo en los miembros del Ejército, Fuerza Aérea y Armada.
 
 ###### ARTICULO 104.
 
@@ -1088,43 +1136,57 @@ Para otorgar y fijar los créditos a los militares en el activo, en cada región
 
 Dentro de cada grupo de militares en una clasificación semejante, si hay varios con el mismo derecho, se asignarán entre éstos los créditos individuales mediante un sistema de sorteos ante Notario Público.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 108.
 
-La Junta Directiva determinara los montos máximos de los créditos que se otorguen, la relación de dichos montos con el haber y, en su caso, asignación de técnico y de vuelo de los acreditados, la protección de los préstamos, así como los precios máximos de venta de las habitaciones cuya adquisición o construcción pueda ser objeto de los créditos que se otorguen con cargo al Fondo.
+La Junta Directiva determinará los montos máximos de los créditos que se otorguen, la relación de dichos montos con el haber y, en su caso, asignación de técnico, Técnico Especial y de vuelo de los acreditados, la protección de los préstamos, así como los precios máximos de venta de las habitaciones cuya adquisición o construcción pueda ser objeto de los créditos que se otorguen con cargo al Fondo.
 
 ###### ARTICULO 109.
 
 Los créditos que se otorguen con cargo al Fondo, deberán darse por vencidos anticipadamente, si los deudores, sin el consentimiento del Instituto, enajenan las viviendas, gravan los inmuebles que garanticen el pago de los créditos concedidos o incurren en las causas de rescisión consignadas en los contratos respectivos.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 110.
 
-Los créditos que se otorguen con cargo al Fondo de la Vivienda estarán cubiertos por un seguro que libere al militar o a sus beneficiarios de las obligaciones derivadas del crédito para los casos de inutilización permanente y total para el servicio activo y para otras labores, así como para los casos de muerte.
+Los créditos que se otorguen con cargo al Fondo de la Vivienda, estarán cubiertos por un seguro que libere al militar o a sus beneficiarios de las obligaciones derivadas del crédito para los casos de inutilización permanente y total para el servicio activo y para otras labores, así como para los casos de muerte. El importe de las primas del Seguro señalado será cubierto con los intereses que devenguen los créditos otorgados.
 
-> <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 1976)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 111.
 
-En los casos de retiro del activo, en los términos de las disposiciones legales aplicables, se entregará al militar el total de los depósitos que tenga a su favor en el Fondo de la Vivienda. En caso de muerte del militar, dicha entrega se hará a sus beneficiarios o a sus causahabientes en el orden de prelación siguiente:
+En los casos de retiro del activo y de licencia ilimitada, en los términos de las disposiciones legales aplicables, se entregará al militar el total de los depósitos que tenga a su favor en el Fondo de la Vivienda. En caso de muerte del militar, dicha entrega se hará a sus beneficiarios o a sus causahabientes en el orden de prelación siguiente:
 
 I. Los que al efecto el militar haya designado ante el Instituto;
 
-II. La viuda, el viudo y los hijos que dependan económicamente del militar en el momento de su muerte;
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1981)</small>
 
-III. Los ascendientes concurrirán con las personas mencionadas en la fracción anterior, cuando dependan económicamente del militar;
+II. La viuda, el viudo y los hijos menores de edad o imposibilitados físicamente para trabajar e incapacitados legalmente;
+
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1981)</small>
+
+III. Los ascendientes concurrirán con las personas mencionadas en la fracción anterior. Si tales ascendientes son mayores de 55 años o se encuentran imposibilitados físicamente para trabajar o sufren una incapacidad legal;
 
 IV. A falta de viuda o viudo, concurrirán con las personas señaladas en las dos fracciones anteriores, el supérstite con quien el derechohabiente vivió como si fuera su cónyuge durante los cinco años que precedieron inmediatamente a su muerte o con el que tuvo hijos, siempre que el militar haya hecho designación del supérstite ante la Secretaría de la Defensa Nacional o de Marina, y además que ambos hubieran permanecido libres de matrimonio durante el concubinato;
 
-V. Los hijos que no dependan económicamente del militar; y
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1981)</small>
 
-VI. Los ascendientes que no dependan económicamente del militar.
+V. Los hijos sea cual fuere su edad o situación.
+
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1981)</small>
+
+VI. Los ascendientes sea cual fuere su edad o situación.
 
 ###### ARTICULO 112.
 
 Los créditos a los militares a que se refieren las fracciones I y II del artículo 101 de esta Ley, devengarán un interés del cuatro por ciento anual sobre saldos insolutos. Tratándose de créditos para la adquisición o construcción de habitaciones, su plazo no será menor de diez años, pudiendo otorgarse hasta un plazo máximo de veinte años. La Junta Directiva podrá autorizar créditos a plazo menor de diez años cuando se destinen a la reparación, ampliación o mejoramiento de las habitaciones, o al pago de pasivos en los términos del inciso c) de la fracción I del propio artículo.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 113.
 
-Los depósitos que se hagan para constituir el fondo de la vivienda en favor de los militares, estarán exentos de toda clase de impuestos.
+Los depósitos que se hagan para constituir el Fondo de la Vivienda en favor de los militares en activo del Ejército, Fuerza Aérea y Armada que estén percibiendo haberes, Asignaciones de Técnico, de Técnico Especial y de Vuelo, estarán exentos de toda clase de impuestos.
 
 ###### ARTICULO 114.
 
@@ -1150,9 +1212,11 @@ El Instituto sólo podrá realizar con cargo al fondo, las inversiones en los bi
 
 En caso de adjudicación o de recepción en pago de bienes inmuebles, el Instituto deberá venderlos en el término de seis meses.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 119.
 
-El Instituto cuidará que sus actividades en la administración del fondo de la vivienda para los militares se realicen dentro de una política integrada de vivienda y desarrollo urbano. Para ello podrá coordinarse con otros organismos del sector público.
+El Instituto cuidará que sus actividades en la Administración del Fondo de la Vivienda para los militares en activo del Ejército, Fuerza Aérea y Armada que estén percibiendo haberes se realicen dentro de una política integrada de vivienda y desarrollo urbano. Para ello podrá coordinarse con otros organismos del Sector Público.
 
 > <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
 
@@ -1186,17 +1250,17 @@ IV. Si la imposibilidad del pago ocurre dentro de los cinco primeros años, el i
 
 V. Los honorarios notariales por el otorgamiento de las escrituras serán cubiertos por mitad entre el Instituto y los militares. El pago de los impuestos y gastos serán por cuenta exclusiva del comprador.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 123.
 
-Los militares en servicio activo que renten las casas del Instituto, se obligarán a pagar mensualmente por concepto de renta un por ciento del total de las percepciones que obtengan en la Pagaduría de su adscripción, así como otro por ciento adicional de dichas percepciones por concepto de gastos de conservación de la unidad habitacional donde gocen de esta prestación.
+Los militares en servicio activo que renten las casas del Instituto, se obligarán a pagar mensualmente por concepto de renta un por ciento del total de las percepciones que obtengan en la Pagaduría de su adscripción. El por ciento será fijado por la Junta Directiva y lo revisará cada dos años para actualizarlo.
 
-Ambos por cientos serán fijados por la Junta Directiva, misma que los revisará cada dos años para actualizarlos.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 124.
 
-El producto del por ciento descontado por concepto de renta, se aplicará a la amortización del capital invertido en la construcción de las unidades habitacionales.
-
-El producto del por ciento descontado por concepto de gastos de conservación, se manejará en cuenta por separado y se aplicará única y exclusivamente a ese objeto y en su caso a la realización de ampliaciones en las unidades habitacionales que resulten insuficientes.
+El producto del concepto descontado señalado en el artículo anterior se aplicará un 50% a la amortización del capital invertido en la construcción de las unidades habitacionales y el otro 50% para gastos de conservación, mantenimiento y administración de las unidades habitacionales.
 
 ###### ARTICULO 125.
 
@@ -1208,9 +1272,11 @@ En caso de fallecimiento del militar arrendatario de una casa, la Junta Directiv
 
 PRESTAMOS HIPOTECARIOS Y A CORTO PLAZO
 
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 127.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
+Los militares retirados podrán obtener conforme a la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada, S. A., préstamos con garantía hipotecaria, en primer lugar, sobre inmuebles urbanos, en la medida de los recursos disponibles para este fin.
 
 ###### ARTICULO 128.
 
@@ -1228,19 +1294,23 @@ PRESTAMOS HIPOTECARIOS Y A CORTO PLAZO
 
 Tanto en la compra de casas habitación con garantía hipotecaria, como en los préstamos hipotecarios, los militares deberán tomar un seguro de vida a favor del Instituto, o del Banco, según el caso, a fin de que en caso de su fallecimiento queden liquidados los saldos insolutos del precio del inmueble o del monto del préstamo.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 132.
 
-Si por haber causado baja el militar o por causa grave, a juicio de la Junta Directiva del Instituto, o del Consejo de Administración del Banco, no pudiera cubrir los abonos del adeudo por compra de la casa o del préstamo hipotecario, podrá concedérsele un plazo de espera de seis meses. El adeudo correspondiente al lapso de espera lo pagará en el plazo y condiciones que señale la propia Junta.
+Si por haber causado baja el militar o por causa grave, a juicio de la Junta Directiva del Instituto, el militar no pudiera cubrir los abonos del adeudo por compra de la casa o del préstamo hipotecario, podrá concedérsele un plazo de espera de seis meses. El adeudo correspondiente al lapso de espera lo pagará en el plazo y condiciones que señale la propia Junta.
 
-> <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 1976)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 133.
 
-Las casas adquiridas o construidas por los militares para su habitación familiar con fondos suministrados por el Instituto o por el Banco, quedarán exentas, a partir de la fecha de su adquisición o construcción, de todos los impuestos federales y de los impuestos del Distrito Federal, por el doble del crédito y hasta por la suma de $400,000.00 de su valor catastral, y durante el término que el crédito permanezca insoluto. Gozarán también de exención los contratos en que se hagan constar tales adquisiciones o créditos. Este beneficio cesará cuando los inmuebles fueren enajenados o destinados a otros fines.
+Las casas adquiridas o construidas por los militares para su habitación familiar con fondos administrados por el Instituto, quedarán exentas, a partir de la fecha de su adquisición o construcción de todos los impuestos federales y de los impuestos del Distrito Federal, durante el término que el crédito permanezca insoluto. Gozarán también de exención los contratos en que se hagan constar dichas adquisiciones o créditos. Este beneficio cesará cuando los inmuebles fueren enajenados o destinados a otros fines.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 134.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S. A., D.O.F. 29 DE DICIEMBRE DE 1978)
+El Banco Nacional del Ejército, Fuerza Aérea y Armada, S. A., podrá otorgar préstamos a corto plazo a los militares con haber o haber de retiro y a los pensionistas de acuerdo con los recursos disponibles para ese fin y conforme a su Ley Orgánica.
 
 ###### ARTICULO 135.
 
@@ -1354,9 +1424,11 @@ El Instituto cooperará con las Secretarías de la Defensa Nacional y de Marina 
 
 La atención médica-quirúrgica es el sistema por el cual se trata de conservar la salud de las personas, entendiéndose por este concepto no sólo la ausencia de enfermedad, sino también el bienestar físico y mental.
 
-Este servicio se prestará gratuitamente a los militares en activo, por las Secretarías de la Defensa Nacional y de Marina, en sus hospitales, enfermerías y secciones sanitarias, de acuerdo con las leyes que los rigen.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 5 DE ENERO DE 1981)</small>
 
-La atención médica-quirúrgica a los militares en retiro y a los familiares de los militares en activo y en retiro, se prestará gratuitamente por el Instituto como servicio subrogado, o en sus propias instalaciones.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
+La atención médico quirúrgica a los militares con haber de retiro y a los familiares de los militares que perciban haberes y haber de retiro, se prestará por el Instituto en sus propias instalaciones o como servicio subrogado, con base en la aportación del Gobierno Federal especificada en el Artículo 229 de esta Ley.
 
 Los familiares de militares que tienen derecho a esta prestación son:
 
@@ -1378,11 +1450,17 @@ El cónyuge de la mujer militar sólo tendrá derecho a las prestaciones si est�
 
 El padre sólo tendrá derecho a las prestaciones cuando sea mayor de 55 años o esté inutilizado total y permanentemente, y la madre en cualquier edad.
 
-Para que la concubina con quien el militar haga vida marital tenga derecho a la atención médica-quirúrgica, será indispensable que haya sido designada como tal por el militar ante el Instituto y ambos estén libres de matrimonio. No podrá designar a otra antes de tres años, salvo el caso de muerte de la primera.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
+Para que la concubina con quien el militar haga vida marital tenga derecho a la atención médico quirúrgica, será indispensable que haya sido designada como tal por el militar ante este Instituto o las Secretarías de la Defensa Nacional o de Marina, y ambos estén libres de matrimonio. No podrá designar a otra antes de tres años, salvo el caso de muerte de la primera.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 154.
 
-Los familiares sólo podrán gozar del Servicio Médico, cuando estén en situación de dependencia económica respecto del militar.
+Los familiares sólo podrán gozar del servicio médico cuando estén en situación de dependencia económica respecto del militar.
+
+No se considerará que hay dependencia económica, cuando el familiar perciba una pensión militar.
 
 ###### ARTICULO 155.
 
@@ -1430,9 +1508,21 @@ El personal militar femenino y la esposa o la concubina en su caso, del individu
 
 El personal militar femenino tendrá derecho a disfrutar de un mes de licencia anterior a la fecha probable del parto, que se fijará de acuerdo con la consulta prenatal, y de dos meses posteriores al mismo para la atención del infante. En ambos casos con goce de haberes.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 163.
 
-Los pensionistas tendrán derecho a recibir el servicio médico gratuito, por un período de seis meses contado a partir de la fecha de la muerte del militar, y continuar gozando de esta prestación mediante el pago adelantado de las cuotas que fije el Instituto.
+Los familiares de un militar comprendidos en el artículo 152 de esta Ley, tendrán derecho a que se les proporcione gratuitamente el servicio médico, por un período de seis meses contados a partir de la fecha en que equél (sic) haya fallecido.
+
+El servicio médico para los pensionistas queda sujeto a las siguientes bases:
+
+a). En el escrito en que soliciten beneficio por muerte del militar, deberán expresar también su deseo de que se les proporcione el Servicio Médico y su anuencia para que del importe de sus pensiones se descuente la cuota de recuperación correspondiente. Esta misma manifestación podrán hacerla antes de que fenezca el plazo de seis meses en que tienen derecho al Servicio Médico gratuito y de no hacerlo así se entenderá que renuncian a dicha prestación, en la que no deberán después ser admitidos.
+
+b). El Servicio Médico será por un plazo mínimo de dos años, transcurridos los cuales, sin que el pensionista renuncie a él, se entenderá prorrogado por tiempo indefinido. El pensionista podrá renunciar en cualquier tiempo al servicio, pero en este caso ya no podrá ser readmitido.
+
+c). La Junta Directiva del Instituto queda facultada para fijar cada año el monto de las cuotas de recuperación.
+
+d). Todo lo relacionado con el Servicio Médico a los pensionistas se tramitará directamente ante el Instituto. En casos excepcionales los trámites podrán hacerse por conducto de las Secretarías de la Defensa Nacional o de Marina, según proceda.
 
 SERVICIO MEDICO SUBROGADO Y DE FARMACIAS ECONOMICAS
 
@@ -1448,9 +1538,11 @@ El Instituto de conformidad con sus posibilidades presupuestales, establecerá f
 
 ### CAPITULO PRIMERO. Pruebas
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 166.
 
-El estado civil y el parentesco de los familiares de un militar, será acreditado por los medios de prueba que establece el Código Civil para el Distrito Federal.
+El estado civil y el parentesco de los familiares de un militar serán acreditados con las constancias relativas del Registro Civil y, en los casos de reconocimiento de hijo nacido fuera de matrimonio, con los medios de prueba que reconozca la ley. La posesión de estado de hijo deberá ser declarada por sentencia de Tribunal competente.
 
 ###### ARTICULO 167.
 
@@ -1460,9 +1552,11 @@ La imposibilidad física para trabajar, será probada con dictamen pericial de m
 
 La incapacidad legal será probada con copia certificada de la sentencia ejecutoriada que se dicte en el juicio de interdicción.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 169.
 
-La dependencia económica será probada por los medios establecidos en el Código Federal de Procedimientos Civiles; pero siempre deberá exigirse un principio de prueba por escrito.
+La dependencia económica será probada con información testimonial, rendida bajo protesta de decir verdad, ante las Secretarías de la Defensa Nacional o de Marina, las cuales podrán completar la prueba, mandando practicar la investigación oficial del hecho. Las Secretarías de referencia podrán autorizar a los comandantes de zona, guarnición o unidades, directores o jefes de dependencias, para que practiquen las diligencias que procedan. Sólo en caso de litigio la dependencia económica será probada por los medios establecidos en el Código Federal de Procedimientos Civiles exigiéndose además un principio de prueba por escrito.
 
 ###### ARTICULO 170.
 
@@ -1698,7 +1792,9 @@ IV. Cuando por disposición legal o por compromiso suscrito por el militar, ést
 
 En los casos de retiro forzoso las dependencias encargadas del manejo del personal militar en las Secretarías de la Defensa Nacional o de Marina, informarán a la que corresponda tramitar el retiro, los casos en que se estime comprobada una causa de retiro, proporcionando la documentación comprobatoria. Cuando no se proceda de oficio, los interesados podrán solicitar su retiro en la forma antes establecida para el retiro voluntario.
 
-Los militares que se encuentren gozando de licencia ilimitada, especial o extraordinaria, formularán su pliego de solicitud de retiro ante la Secretaría que corresponda, y acompañarán la documentación comprobatoria de sus derechos.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
+Los militares que se encuentren gozando de licencia ilimitada, formularán su pliego de solicitud de retiro ante la Secretaría que corresponda y acompañarán la documentación comprobatoria de sus derechos.
 
 ###### ARTICULO 196.
 
@@ -1756,13 +1852,17 @@ Si los militares o los familiares manifestaren su conformidad a las declaracione
 
 Cuando en las declaraciones de las Secretarías se reconociere la procedencia del retiro del militar interesado, o se tuviere por probada la personalidad militar de la persona de que hacen derivar sus derechos los peticionarios, y el hecho de que su muerte haya ocurrido en el activo o en situación de retiro, se remitirá el incidente de retiro y el expediente militar al Instituto. En los casos en que la declaración fuere adversa, se notificará ésta a los interesados, dando aviso al Instituto y a la Secretaría de Programación y Presupuesto.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 204.
 
-Al recibir el Instituto la documentación proveniente de la Secretaría de que se trate, realizará el estudio de los antecedentes y formulará un dictamen sobre la procedencia del beneficio, su naturaleza y su monto, pudiendo solicitar los datos aclaratorios necesarios a la Secretaría remitente, a la autoridad que corresponda o al militar o familiares peticionarios.
+Al recibir el Instituto la documentación proveniente de la Secretaría de que se trate, realizará el estudio de los antecedentes y formulará un dictamen sobre la procedencia del beneficio, su naturaleza y su monto, pudiendo solicitar los datos aclaratorios necesarios a la Secretaría remitente, a la autoridad que corresponda o al militar o familiares peticionarios. En caso de que el Instituto advierta que la Secretaría remitente ha omitido formalidades de procedimiento que le correspondan y que pudieran dar lugar a reclamaciones ante los Tribunales, devolverá la documentación del caso a su lugar de origen para que se proceda legalmente.
 
 La Junta Directiva, con vista del dictamen y de toda la documentación relativa, dictará resolución, concediendo o negando el beneficio, especificando en el primer caso, su naturaleza, su cuantía y demás particularidades del mismo. El otorgamiento o la negativa se basarán en los hechos y circunstancias que aparezcan probados, hubieran sido o no alegados o impugnados por los promoventes; pero se hará referencia a todas las cuestiones planteadas y se valorará cada una de las pruebas presentadas por los interesados.
 
-La Junta del Instituto, en sus resoluciones, acatará las declaraciones definitivas de las Secretarías de la Defensa Nacional o de Marina, en cuanto reconozcan personalidad militar, determinen jerarquías al ocurrir el fallecimiento para efectos de retiro, y fijen situaciones dentro del activo o de retiro. También se sujetará a los cómputos de servicios formulados en dichas Secretarías.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
+
+La Junta del Instituto, en sus resoluciones, acatará las declaraciones definitivas de las Secretarías de la Defensa Nacional o de Marina, en cuanto reconozcan personalidad militar, determinen jerarquías en el activo o para efectos del retiro, precisen específicamente la causa o causas de retiro acreditadas y fijen situaciones dentro del activo o de retiro. También se sujetará a los cómputos de servicios formulados en dichas Secretarías.
 
 > <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 1976)</small>
 
@@ -1912,11 +2012,13 @@ El Gobierno Federal aportará al Instituto y al Banco Nacional del Ejército y l
 
 El Gobierno Federal destinará anualmente una cantidad equivalente al 10% de los haberes y haberes de retiro para las siguientes prestaciones:
 
-I. Para el Servicio Médico Integral.
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1981)</small>
+
+I. Para el Servicio Médico Integral que el Instituto debe prestar gratuitamente a los militares en retiro y a los familiares de los militares en activo y en retiro, conforme a lo dispuesto en el artículo 152 de esta Ley;
 
 II. Para las que no hubiese cuota específica;
 
-III. Para incrementar los recursos de los créditos hipotecarios y a corto plazo.
+III. (DEROGADA, D.O.F. 5 DE ENERO DE 1981)
 
 ###### ARTICULO 230.
 
@@ -2925,3 +3027,9 @@ Se derogan los Artículos 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70
 ###### ARTICULO CUARTO.
 
 La presente Ley entrará en vigor al día siguiente de la fecha de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 5 DE ENERO DE 1981.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+SEGUNDO.- Se derogan el segundo párrafo del Artículo 152 y la fracción III del Artículo 229, de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas, así como las disposiciones que se opongan a este decreto.
