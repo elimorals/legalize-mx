@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "1996-01-04"
+last_updated: "1998-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 4 DE ENERO DE 1996.
+ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 24 DE DICIEMBRE DE 1998.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -1321,9 +1321,11 @@ Cuando se revoque la tutela, se presente la persona declarada ausente o cuya mue
 
 De la Rectificación de las Actas del Estado Civil.
 
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1998)</small>
+
 ###### Art. 227.
 
-La rectificación o modificación de un acta del estado civil no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo el reconocimiento que voluntariamente haga un padre de su hijo, el cual se sujetará a las prescripciones de este Código.
+La rectificación o modificación de un acta del estado civil puede hacerse mediante sentencia que dicte la Autoridad Judicial, en los casos previstos en el Código de Procedimientos Civiles o, mediante resolución administrativa emitida por la Dirección General del Registro Civil en los supuestos y conforme a las reglas establecidas en este Código, salvo el reconocimiento que voluntariamente haga un padre de su hijo, el cual se sujetará a las prescripciones de este Código.
 
 ###### Art. 228.
 
@@ -1332,6 +1334,26 @@ Ha lugar a pedir la rectificación:
 I.- Por falsedad, cuando se alegue que el suceso registrado no paso;
 
 II.- Por enmienda, cuando se solicite variar algún nombre u otra circunstancia, sea esencial o accidental.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 1998)</small>
+
+Art. 228 BIS.- El procedimiento administrativo mediante el cual, la Dirección General del Registro Civil emitirá la resolución administrativa que ordene la rectificación de un acta del estado civil, se sustentará en solicitud que tenga como finalidad la aclaración del acta que corresponda para corregir en ella errores mecanográficos, gramaticales u ortográficos, que sean evidentes por sí mismos o, cuando se trate de complementar o ampliar los datos contenidos en la misma, siempre que las circunstancias origen de la aclaración aparezcan del contenido del propio instrumento, y no sean modificados sus elementos esenciales.
+
+El procedimiento administrativo ante la Dirección General del Registro Civil, se sujetará a las siguientes reglas:
+
+I.- Se iniciará con la sola comparecencia del interesado de manera verbal o por escrito, ante la Dirección General del Registro Civil o, ante la Oficialía del Registro Civil que corresponda, para lo cual será necesario exhibir el acta del estado civil respectiva, haciéndose constar la concurrencia del interesado;
+
+II.- En el caso de que comparezca ante la Oficialía a que se refiere la fracción anterior, ésta sin más trámite remitirá a la Dirección General del Registro Civil, a la mayor brevedad posible dependiendo de la facilidad en las comunicaciones o, dentro de las veinticuatro horas siguientes, la constancia de comparecencia del interesado junto con el acta cuya rectificación se solicita;
+
+III.- Recibida la solicitud, el Director General del Registro Civil resolverá lo que proceda dentro de un plazo de tres días hábiles, comunicándola de inmediato al Oficial del Registro Civil que corresponda para que realice las anotaciones marginales a que haya lugar dentro de veinticuatro horas siguientes y notifique al interesado;
+
+IV.- La resolución que se dicte podrá ser impugnada por el interesado, mediante la interposición del recurso de inconformidad ante la Dirección General del Registro Civil o, ante el Oficial del Registro Civil que corresponda, siendo éste sólo receptor de la solicitud. El término para interponer el recurso de inconformidad será de quince días hábiles contados a partir del día siguiente al en que surta sus efectos la notificación respectiva.
+
+El Oficial del Registro Civil que reciba el recurso de inconformidad, procederá a enviarlo para su resolución a la Dirección General del Registro Civil en la forma y términos a que se refiere la fracción II de este artículo y ésta deberá emitir la resolución dentro de los diez días hábiles siguientes, procediendo a comunicarla y notificarla conforme a lo previsto en la fracción anterior.
+
+La resolución que recaiga al recurso de inconformidad, podrá ser impugnada por el interesado ante el Tribunal de lo Contencioso Administrativo;
+
+V.- Cualquier tercero podrá demandar en juicio ordinario, en cualquier tiempo, del Oficial y el Director del Registro Civil involucrados y de quienes se hubiesen aprovechado de la aclaración o modificación del acta respectiva, la anulación de la resolución definitiva dictada en los términos del párrafo anterior. En estos casos, con la sola presentación de la demanda se suspenderán los efectos de la declaratoria administrativa y se mandará prevenir al interesado, bajo el apercibimiento de la pena que corresponda por el delito de desacato a la autoridad, que se abstenga de utilizar copias certificadas del acta respectiva donde no aparezca la anotación del juicio.
 
 ###### Art. 229.
 
@@ -4735,7 +4757,7 @@ El representante está obligado a promover la publicación de los edictos. La fa
 
 ### CAPITULO UNICO.
 
-> <small>(REFORMADO, B.O. 4 DE ENERO DE 1996)</small>
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 834.
 
@@ -5011,7 +5033,7 @@ Del Patrimonio de la Familia.
 
 ###### Art. 889.
 
-Son objeto del patrimonio de la familia: la casa en que ésta habita incluyendo el mobiliario y equipo de la vivienda; o dicha casa en la que se incluya el mobiliario y equipo mencionados y una fracción de terreno anexo o a distancia no mayor de un kilómetro, que sea cultivada por la misma familia.
+Son objeto del patrimonio de la familia: la casa en que ésta habita incluyendo el mobiliario y equipo de la vivienda; o dicha casa en la que se incluye el mobiliario y equipo mencionado y una fracción de terreno anexo o a distancia no mayor de un kilómetro, que sea cultivada por la misma familia y, además, un vehículo automotriz cuya propiedad esté debidamente acreditada y cumpla con los requisitos establecidos en la ley.
 
 ###### Art. 890.
 
@@ -5039,11 +5061,11 @@ Sólo puede constituirse el patrimonio de la familia con bienes sitos en el muni
 
 Cada familia sólo puede construir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, B.O. 4 DE ENERO DE 1996)</small>
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 896.
 
-El valor máximo de los bienes afectos al patrimonio de la familia será el equivalente a treinta mil veces el salario mínimo diario general vigente en la zona económica de que se trate, en la época en que se constituya dicho patrimonio.
+El valor máximo de los bienes afectos al patrimonio de la familia será el equivalente a treinta y cinco mil veces el salario mínimo diario general vigente en la zona económica de que se trate, en la época en que se constituya dicho patrimonio, quedando incluido dentro del valor antes mencionado, el del vehículo automotriz cuyo valor máximo será el equivalente a cinco mil veces el salario mínimo diario general vigente en la zona económica de que se trate.
 
 ###### Art. 897.
 
@@ -11495,7 +11517,7 @@ Si la elección es del deudor y una de las cosas se pierde por culpa del acreedo
 
 ###### Art. 2151.
 
-En el caso del artículo anterior, si la elección es del acreedor, con la cosa perdida quedará satisfecha la obligación.
+En el caso del artículo anterior, si la elección es del acreedor, con la cosa pérdida quedará satisfecha la obligación.
 
 ###### Art. 2152.
 
@@ -14711,7 +14733,7 @@ Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas o
 
 Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la cosa cuando le pareciere. En este caso, la prueba de haber convenido uso o plazo, incumbe al comodatario.
 
-El comandante (sic) odante podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o sí éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
+El comandante (sic) podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o sí éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
 
 ###### Art. 2785.
 
@@ -16127,7 +16149,7 @@ El cumplimiento voluntario de las deudas de juego o apuesta lícitos sobrepasand
 
 ###### Art. 3056.
 
-La deuda de juego o de apuesta prohibidos no puede comparar ni ser convertida por novación en una obligación civilmente eficaz.
+La deuda de juego o de apuesta prohibidos no puede compararse ni ser convertida por novación en una obligación civilmente eficaz.
 
 ###### Art. 3057.
 
@@ -17281,7 +17303,7 @@ La hipoteca subsistirá íntegra aunque se reduzca la obligación garantizada, y
 
 ###### Art. 3289.
 
-Cuando se hipotequen varias fincas para la seguridad de un crédito, es forzoso determinar por qué porción del crédito responde cada finca, y puede cada una de ellas ser redimida del gravamen pagándose la parte del crédito que garantiza.
+Cuando se hipotequen varias fincas para la seguridad de un crédito es forzoso determinar por qué porción del crédito responde cada finca, y puede cada una de ellas ser redimida del gravamen pagándose la parte del crédito que garantiza.
 
 Cuando una finca hipotecada susceptible de ser fraccionada convenientemente se divida, se repartirá equitativamente el gravamen hipotecario entre las fracciones. Al efecto, se pondrán de acuerdo el dueño de la finca y el acreedor hipotecario; y si no se consiguiere ese acuerdo, la distribución del gravamen se hará por decisión judicial, previa audiencia de peritos.
 
@@ -18544,3 +18566,9 @@ Los procedimientos que se encuentren en trámite relativos a la constitución, a
 ###### ARTICULO TERCERO.
 
 Todas aquéllas personas que adquirieron predios provenientes de enajenaciones de las dependencias y entidades de la Administración Pública Estatal y Federal podrán designar en escritura complementaria, él o los beneficiarios, en los términos del Artículo 1625 Bis del Código Civil para el Estado de Sonora, a través de Notario Público o ante la Comisión Estatal de Bienes y Concesiones o ante las oficinas registrales jurisdiccionales de la Dirección General de Servicios Registrales del Instituto Catastral y Registral de la Secretaría de Finanzas.
+
+B.O. 24 DE DICIEMBRE DE 1998.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
