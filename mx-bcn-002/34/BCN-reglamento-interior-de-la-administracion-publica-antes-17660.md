@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2002-10-18"
+last_updated: "2002-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2002.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -421,7 +421,7 @@ V.- Dirección de Obras Públicas;
 
 VI.- Dirección de Servicios Públicos;
 
-VIl.- Dirección de Desarrollo Urbano;
+VIl.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2002)
 
 VIII.- Dirección de Ecología;
 
@@ -433,9 +433,21 @@ XI.- Dirección de Comunicación Social;
 
 XII.- Dirección de Relaciones Públicas;
 
-XIII.- Dirección de Fomento Deportivo; y,
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
-XIV.- Dirección de Cultura.
+XIII.- Dirección de Fomento Deportivo;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
+XIV.- Dirección de Cultura;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
+XV.- Dirección de Administración Urbana; y,
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
+XVI.- Dirección de Planeación Urbana.
 
 ###### ARTICULO 31.
 
@@ -1281,183 +1293,37 @@ IV.- Efectuar el mantenimiento y sincronización de los semáforos instalados en
 
 V.- Instalar sistemas de alumbrado, decoraciones y adornos en la vía pública, en fiestas memorables promovidas por el gobierno municipal.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
 ### CAPITULO NOVENO. DE LA DIRECCION DE ECOLOGIA
 
 ###### ARTICULO 78.
 
-La Dirección de Desarrollo Urbano tendrá las siguientes atribuciones:
-
-I.- Las de orden ejecutivo que en materia de desarrollo urbano confieren las disposiciones legales al municipio;
-
-II.- Determinar las políticas de utilización de uso del suelo para el desarrollo urbano y la vivienda; y,
-
-III.- Promover con instancias u organizaciones, públicas o privadas, nacionales o extranjeras, el intercambio, cooperación o elaboración de información, estudios o proyectos de interés o beneficio municipal, dentro de la rama del desarrollo urbano.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2002)
 
 ###### ARTICULO 79.
 
-La Dirección de Desarrollo Urbano para el cumplimiento de sus atribuciones contará con una coordinación administrativa y una coordinación jurídica, y tendrá bajo su cargo los siguientes departamentos:
-
-I.- Catastro;
-
-II.- Control Urbano;
-
-III.- Proyectos de Equipamiento y Paisaje Urbano;
-
-IV.- Planeación Urbana; y,
-
-V.- Ingeniería de Tránsito.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2002)
 
 ###### ARTICULO 80.
 
-El Departamento de Catastro tendrá como función, integrar y administrar el catastro inmobiliario municipal, que se estructura con el conjunto de registros, padrones y documentos que permitan la identificación, localización, descripción, deslinde, cartografía, y valuación de todos los bienes inmuebles ubicados en el territorio municipal, por lo que encargará de:
-
-I.- Ejercer las atribuciones que se confieren al Ayuntamiento en la Ley de Catastro Inmobiliario del Estado de Baja California, así como las que le establece el reglamento municipal de la materia;
-
-II.- Fungir el titular del Departamento, como secretario técnico de Consejo Municipal del Catastro Inmobiliario, de conformidad con la ley respectiva;
-
-III.- Llevar a cabo las operaciones catastrales de identificación, localización, descripción, deslinde, registro, cartografía, valuación y actualización de valores de los bienes inmuebles ubicados dentro del territorio municipal;
-
-IV.- Solicitar y obtener de las autoridades, dependencias, instituciones públicas o privadas y de los particulares, los datos necesarios par (sic) integrar los registros y padrones catastrales;
-
-V.- Notificar a los interesados las operaciones catastrales y expedir las constancias o certificados relativas a éstas que les sean solicitadas;
-
-VI.- Elaborar e integrar los registros, padrones, y archivos documentales catastrales;
-
-VII.- Practicar levantamientos topográficos de los diferentes planos catastrales, así como los trabajos técnicos necesarios para la fijación de los límites dela (sic) propiedad pública o privada dentro del territorio municipal;
-
-VIII.- Intervenir en la delimitación de los límites municipales de los centros de población, de los perímetros urbanos, así como en la rectificación de los límites de propiedad pública y privada, practicando levantamiento de mapas y planos catastrales;
-
-IX.- Efectuar análisis y estudios técnicos para la determinación de las bases de valuación catastral;
-
-X.- Auxiliar a las dependencias, cuyas atribuciones en materia de obra pública, planificación y otros proyectos requieran datos contenidos en el patrón catastral;
-
-XI.- Registrar oportunamente los cambios que se operen en la propiedad raíz y que por cualquier concepto modifiquen los datos contenidos en los registros y padrones catastrales;
-
-XII.- Aplicar los valores catastrales unitarios que apruebe el Congreso del Estado;
-
-XIII.- Emitir avalúos catastrales de bienes inmuebles ubicados en el territorio municipal;
-
-XIV.- Establecer el control de todos los bienes inmuebles, asignándoles la clave catastral que los identifique y ubique, y el número oficial que les corresponda;
-
-XV.- Determinar en forma precisa la localización de los predios mediante deslinde, así como recabar los elementos jurídicos, económicos, sociales y estadísticos que los constituyen;
-
-XVI.- Expedir los certificados de alineamiento; y,
-
-XVII.- Autorizar los avalúos practicados por peritos oficiales registrados ante el Catastro Municipal.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2002)
 
 ###### ARTICULO 81.
 
-El Departamento de Control Urbano tendrá como función, conducir los procedimientos para la autorización de acciones de urbanización, emitir autorizaciones para la ejecución de edificaciones, la implementación del régimen de propiedad en condominio, y las que deriven en materia de imagen urbana, encargados de:
-
-I.- Vigilar que en el desarrollo de acciones de urbanización y edificaciones, que se lleven a cabo en predios urbanos ubicados dentro del territorio municipal, se respeten los usos de suelo previstos en los planes y programas de desarrollo urbano, así como en declaratorias correspondientes;
-
-II.- Otorgar o negar licencias de construcción, de movimientos de tierra, de reparación, modificación, ampliación, instalación o demolición de edificaciones; así como autorizaciones de uso de suelo;
-
-II.- Otorgar o negar licencias de construcción, de movimientos de tierra, de reparación, modificación, ampliación, instalación o demolición de edificaciones; así como autorizaciones de uso de suelo; (sic)
-
-III.- Coordinar los procedimientos que se sigan para la modificación de los usos de suelo aprobados;
-
-IV.- Operar el proceso de autorización de acciones de urbanización a desarrollarse en predios urbanos ubicados dentro del territorio municipal, vigilando que éstas se apeguen a los planes y programas de desarrollo urbano, así como a la normatividad municipal aplicable;
-
-V.- Emitir las autorizaciones para el desarrollo de acciones de urbanización que le competan de acuerdo con las disposiciones reglamentarias;
-
-VI.- Coordinar el procedimiento de incorporación municipal de predios en los que se hayan desarrollado acciones de urbanización para la expansión o renovación urbana;
-
-VII.- Observar y aplicar las disposiciones de la ley de edificaciones del Estado y el reglamento municipal de la materia;
-
-VIII.- Autorizar el régimen de propiedad en condominio, de acuerdo con la Ley correspondiente;
-
-IX.- Observar y aplicar las disposiciones municipales en materia de imagen urbana;
-
-X.- Conducir los procedimientos para la recuperación de vías públicas municipales;
-
-XI.- Otorgar o negar autorizaciones para el establecimiento de espacios de estacionamiento de vehículos en la vía pública, para uso exclusivo del permisionario, determinando las condiciones correspondientes;
-
-XII.- Realizar las inspecciones y verificaciones, así como emitir dictámenes técnicos y determinar e imponer las sanciones y medidas de seguridad que correspondan, a efecto de que las acciones de edificación y urbanización, así como los usos a que sean sometidos los predios y áreas ubicadas en el territorio municipal, cumplan con los requisitos reglamentarios y demás disposiciones normativas en materia de desarrollo urbano vigentes; y,
-
-XIII.- Desarrollar sistemas para llevar registros relativos al control urbano y el uso del suelo.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2002)
 
 ###### ARTICULO 82.
 
-El Departamento de Proyectos de Equipamiento y Paisaje Urbano se encargará de planear, coordinar, desarrollar y promover la elaboración de normas, estudios y proyectos derivados de la planeación urbana, relativos al equipamiento y paisaje urbano del ámbito municipal, para la cual le corresponderá:
-
-I.- Diseñar, integrar y verificar el cumplimiento de normas, políticas, lineamientos y especificaciones técnicas del equipamiento y paisaje urbano;
-
-II.- Diseñar y elaborar los estudios, anteproyectos y proyectos de equipamiento y paisaje urbano que deba formular la Dirección, así como aprobar los que sean contratados o realizados por la misma y las demás dependencias y entidades, vigilando la aplicación de normas y lineamientos establecidos;
-
-III.- Elaborar estudios de factibilidad básicos para la fundamentación o realización de proyectos de equipamiento y paisaje urbano, promovidos por la Dirección, dependencia, entidades, o particulares;
-
-IV.- Realizar o revisar para su aprobación, los cálculos estructurales, eléctricos, hidráulicos y mecánicos en general, relativos a los proyectos de equipamiento y paisaje urbano programados para ejecutarse por la Dirección y demás dependencias y entidades;
-
-V.- Elaborar expedientes técnicos sobre estudios y proyectos de equipamiento urbano mediante su representación documental y gráfica, para promover la autorización de recursos financieros para su ejecución;
-
-VI.- Dar seguimiento y supervisar las obras de equipamiento y paisaje urbano proyectadas, aprobando en su caso para su trámite, las estimaciones que se presenten por los consultores que las lleven a cabo;
-
-VII.- Formular dictámenes que fundamenten la declaratoria de utilidad pública en los casos de expropiación, ocupación temporal y limitación de dominio para la ejecución de obras de equipamiento y paisaje urbano;
-
-VIII.- Elabora estudios e investigaciones que fundamenten los peritajes técnicos de edificaciones que soliciten las dependencias para la aplicación de disposiciones reglamentarias municipales; y,
-
-IX.- Integrar, actualizar y resguardar los archivos de estudios y proyectos de equipamiento y paisaje urbano ejecutados y en proceso.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2002)
 
 ###### ARTICULO 83.
 
-El Departamento de Planeación Urbana tendrá como función, coordinar la formulación, revisión, y actualización de los planes y programas de desarrollo urbano, por lo que se encargará de:
-
-I.- Elaborar y actualizar los planes y programas de desarrollo urbano que se requieran para el crecimiento o renovación urbana de las poblaciones del municipio;
-
-II.- Proponer a la dirección, las políticas de desarrollo y crecimiento de los asentamientos humanos;
-
-III.- Definir y aplicar mecanismos de evaluación y seguimiento de los planes y programas de desarrollo urbano;
-
-IV.- Promover la participación ciudadana en la formulación de los planes y programas de desarrollo urbano;
-
-V.- Dictaminar las factibilidades y opiniones técnicas para la determinación de usos de suelo de desarrollos ubicados fuera de los centros de población;
-
-VI.- Elaborar estudios, dictámenes, diseños y proyectos relativos a la planeación urbana; y,
-
-VII.- Formular dictámenes técnicos que fundamenten declaratorias de utilidad pública en los casos de reservas territoriales, y usos y destinos de suelo.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2002)
 
 ###### ARTICULO 84.
 
-Al Departamento de Ingeniería de Tránsito le corresponderá elaborar y autorizar estudios y proyectos de ingeniería de tránsito, que tengan por objeto asegurar y mejorar la fluidez de las vialidades municipales, así como aumentar la seguridad de peatones y vehículos, encargándose de:
-
-I.- Elaborar estudios y proyectos integrales de vialidad y tránsito, y establecer los sistemas viales para cada una de las poblaciones del Municipio;
-
-II.- Dictaminar los proyectos de construcción, ampliación o reconstrucción de vialidades, a llevarse a cabo por cualquier orden de gobierno o por los particulares, en poblaciones del Municipio, a fin de asegurar el mantenimiento de los sistemas viales;
-
-III.- Autorizar la construcción de obras o la instalación de equipo y señalamiento, en bienes y vías públicas, que tengan por objeto influir en el flujo vehicular;
-
-IV.- Promover la regeneración de accesos, caminos y vialidades municipales;
-
-V.- Fomentar la elaboración y autorizar los planes, estudios y proyectos de los sistemas viales y de transporte público y privado, de pasajeros y carga;
-
-VI.- Promover que se regule el flujo del ferrocarril y aumentar las medidas de seguridad con los cruces viales;
-
-VII.- Analizar y autorizar los proyectos y estudios de acceso a fraccionamiento (sic) y desarrollos habitacionales, comerciales, industriales e institucionales, así como requerir cambios para mejorar las condiciones de los actuales o nuevos accesos;
-
-VIII.- Establecer las normas técnicas para el diseño de vialidades, la fijación de lineamientos viales, la construcción e instalación de dispositivos reductores de velocidad; así como fijar normatividad para la señalización y semaforización de vialidades;
-
-IX.- Diseñar y elaborar proyectos de semaforización y equipo para control del flujo vehicular;
-
-X.- Autorizar los planos y proyectos de señalización y semaforización a llevarse a cabo en poblaciones del Municipio;
-
-XI.- Emitir autorizaciones para la construcción o demolición de dispositivos reductores de velocidad;
-
-XII.- Emitir anuencia para la autorización de la ocupación de vialidades para el desarrollo de festejos o eventos;
-
-XIII.- Emitir lineamientos viales a que deberán sujetarse las acciones de urbanización o edificación que se lleven a cabo en las poblaciones del Municipio, a fin de asegurar la fluidez y seguridad en las vialidades, y el mantenimiento de los sistemas viales;
-
-XIV.- Normar el trazo de nuevas rutas de transporte público, paraderos, zonas de ascenso y descenso, sitios, así como derroteros y horarios para el transporte de carga pesada;
-
-XV.- Proyectar en coordinación con la entidad responsable del transporte público, las ubicaciones de bahías para ascenso y descenso de pasaje, revisando los proyectos de ubicación y diseño de cobertizos para usuarios de transporte público;
-
-XVI.- Normar y proyectar la solución de nodos conflictivos, mediante modificaciones geométricas, paso a desnivel, semaforización, señalización o cambio de sentidos viales;
-
-XVII.- Recabar los datos de estadística de accidentes de tránsito, aforos vehiculares, encuestas de origen y destino, a fin de tomar las medidas preventivas y correctivas de los nodos viales conflictivos de la ciudad;
-
-XVIII.- Normar y regular el establecimiento de espacios destinados a estacionamientos para personas con discapacidad, rampas para éstas, y áreas de seguridad para los peatones; y,
-
-XIX.- Realizar los dictámenes de factibilidad para el establecimiento de estacionamientos en áreas de la vía pública exclusivos para comercios, zonas de carga y descarga, así como los casos de áreas que se requieran para la introducción o construcción de vialidades o soluciones al tránsito de vehículos y peatones.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2002)
 
 ### CAPITULO DECIMO. DE LA DIRECCION DE SEGURIDAD PUBLICA MUNICIPAL
 
@@ -2347,6 +2213,10 @@ I.- Contraloría; y
 
 II.- Jurídica.
 
+### CAPITULO UNICO. DE LA DIRECCION DE PLANEACION URBANA
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 126.
 
 La Subdirección de Contraloría se encargará de vigilar el desempeño y actuación de los servidores públicos de la Administración Pública Municipal, así como revisar y verificar que las dependencias y entidades, administren y apliquen los recursos que les sean asignados, con eficiencia, eficacia y honradez, al logro de las metas y objetivos establecidos en sus programas, y en cumplimiento de la normatividad aplicable y encargándose de:
@@ -2397,6 +2267,10 @@ I.- Responsabilidades, el que tendrá las atribuciones previstas en el artículo
 
 II.- Fiscalización, el que tendrá las atribuciones previstas en el artículo anterior en sus fracciones XII a la XIX.
 
+### CAPITULO UNICO. DE LA DIRECCION DE ADMINISTRACION URBANA
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 128.
 
 La Subdirección Jurídica se encargará de brindar asesoría y asistencia legal en los litigios en los que sea parte o tenga alguna intervención el Municipio o el Ayuntamiento, para lo cual tendrá las siguientes atribuciones:
@@ -2424,6 +2298,228 @@ La Subdirección Jurídica para un mejor desempeño de sus atribuciones contará
 I.- De Atención Jurídica, el que tendrá las atribuciones previstas en el artículo anterior en sus fracciones de la I a la V; y,
 
 II.- De Capacitación Jurídica, el que tendrá las atribuciones previstas en el artículo anterior en sus fracciones de la VI a la VIII.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
+## TITULO QUINTO. DE LA DIRECCION DE PLANEACION URBANA
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 130.
+
+La Dirección de Planeación Urbana tendrá las siguientes atribuciones:
+
+I.- Las de orden ejecutivo que en materia de planeación, investigación, elaboración de proyectos de equipamiento y paisaje urbano le confieren las disposiciones legales a la administración pública municipal.
+
+II.- Promover con instancias y organizaciones, públicas o privadas, nacionales o extranjeras, el intercambio, cooperación o elaboración, estudios o proyectos de interés o beneficio municipal, dentro de la rama del desarrollo urbano.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 131.
+
+La Dirección de Planeación Urbana para el cumplimiento de sus atribuciones contará con una coordinación administrativa, y tendrá bajo su cargo los siguientes departamentos:
+
+I.- Planes y Programas Urbanos;
+
+II.- Estudios y Proyectos Estratégicos; y,
+
+III.- Proyectos de Equipamiento y Paisaje Urbano.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 132.
+
+El Departamento de Planes y Programas Urbanos tendrá como función, coordinar la formulación, revisión, y actualización de los planes y programas de desarrollo urbano, por lo que se encargará de:
+
+I.- Elaborar y actualizar los planes y programas de desarrollo urbano que se requieran para el crecimiento o renovación urbana de las poblaciones del municipio;
+
+II.- Proponer a la dirección, las políticas de desarrollo y crecimiento de los asentamientos humanos;
+
+III.- Definir y aplicar mecanismos de evaluación y seguimiento de los planes y programas de desarrollo urbano;
+
+IV.- Promover la participación ciudadana en la formulación de los planes y programas de desarrollo urbano;
+
+V.- Dictaminar las factibilidades y opiniones técnicas para la determinación de usos de suelo de desarrollos ubicados fuera de los centros de población;
+
+VI.- Formular dictámenes técnicos que fundamenten declaratorias de utilidad pública en los casos de reservas territoriales, y usos y destinos de suelo.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 133.
+
+El Departamento de Estudios y Proyectos Estratégicos tendrá como función visualizar, proponer, promover, impulsar y buscar las fuentes de financiamiento externo para proyectos municipales, para lo cual contará con las siguientes atribuciones:
+
+I.- Elaborar estudios, dictámenes, diseños y proyectos relativos al desarrollo y crecimiento urbano;
+
+II.- Elaborar, integrar y revisar los estudios y análisis para la implementación de los proyectos estratégicos municipales de mediano y largo plazo; y,
+
+III.- Elaborar y coordinar los estudios y análisis para la implementación de nuevas tecnologías en proyectos.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 134.
+
+El Departamento de proyectos de Equipamiento y Paisaje Urbano se encargará de planear, coordinar, desarrollar y promover la elaboración de normas, estudios y proyectos derivados de la planeación urbana, relativos al equipamiento y paisaje urbano del ámbito municipal, para la (sic) le corresponderá:
+
+I.- Diseñar, integrar y verificar el cumplimiento de normas, políticas, lineamientos y especificaciones técnicas del equipamiento y paisaje urbano;
+
+II.- Diseñar y elaborar los estudios, anteproyectos y proyectos de equipamiento y paisaje urbano que deba formular la Dirección; así como aprobar los que sean contratados o realizados por la misma y las demás dependencias y entidades, vigilando la aplicación de normas y lineamientos establecidos.
+
+III.- Elaborar estudios de factibilidad básicos para la fundamentación o realización de proyectos de equipamiento y paisaje urbano, promovidos por la Dirección, dependencia, entidades, o particulares;
+
+IV.- Realizar o revisar para su aprobación, los cálculos estructurales, eléctricos, hidráulicos y mecánicos en general, relativos a los proyectos de equipamiento y paisaje urbano programados para ejecutarse por la Dirección y demás dependencias y entidades;
+
+V.- Elaborar expedientes técnicos sobre estudios y proyectos de equipamiento urbano mediante su representación documental y gráfica, para promover la autorización de recursos financieros para su ejecución;
+
+VI.- Dar seguimiento y supervisar las obras de equipamiento y paisaje urbano proyectos, aprobando en su caso para trámite, las estimaciones que se presenten por los consultores que las lleven a cabo;
+
+VII.- Formular dictámenes que fundamenten la declaratoria de utilidad pública en los casos de expropiación, ocupación temporal y limitación de dominio para la ejecución de obras de equipamiento y paisaje urbano;
+
+VIII.- Elaborar estudios e investigaciones que fundamenten los peritajes técnicos de edificaciones que soliciten las dependencias para la aplicación de disposiciones reglamentarias municipales; y,
+
+IX.- Integrar, actualizar y resguardar los archivos de estudios y proyectos de equipamiento y paisaje urbano ejecutados y en proceso.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
+## TITULO SEXTO. DE LA DIRECCION DE ADMINISTRACION URBANA
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 135.
+
+La Dirección de Administración Urbana tendrá las siguientes atribuciones:
+
+I.- Las de orden ejecutivo que en materia de catastro, control urbano, e ingeniería de tránsito, confieren las disposiciones legales a la administración pública municipal; y,
+
+II.- Determinar las políticas de utilización de uso del suelo para el desarrollo urbano y la vivienda.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 136.
+
+La Dirección de Administración Urbana para el cumplimiento de sus atribuciones contará con una coordinación administrativa y una coordinación jurídica, y tendrá bajo su cargo los siguientes departamentos:
+
+I.- Catastro;
+
+II.- Control Urbano; e
+
+III.- Ingeniería de Tránsito.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 137.
+
+El Departamento de Catastro tendrá como función, integrar y administrar el catastro inmobiliario municipal, que se estructura con (sic) el conjunto de registros, padrones y documentos que permitan la identificación, localización, descripción, deslinde, cartografía, y valuación de todos los bienes inmuebles ubicados en el territorio municipal, por lo que se encargará de:
+
+I.- Ejercer las atribuciones que se confieren al Ayuntamiento en la Ley de Catastro Inmobiliario del Estado de Baja California, así como las que le establece el reglamento municipal de la materia;
+
+II.- Fungir el titular del Departamento, como secretario técnico de Consejo Municipal del Catastro Inmobiliario, de conformidad con la ley respectiva;
+
+III.- Llevar acabo (sic) las operaciones catastrales de identificación, localización, descripción, deslinde, registro, cartografía, valuación y actualización de valores de los bienes inmuebles ubicados dentro del territorio municipal;
+
+IV.- Solicitar y obtener de las autoridades, dependencias, instituciones públicas o privadas y de los particulares, los datos necesarios para integrar los registros y padrones catastrales;
+
+V.- Notificar a los interesados las operaciones catastrales y expedir las constancias o certificaciones relativas a éstas que les sean solicitadas;
+
+VI.- Elaborar e integrar los registros, padrones, y archivos documentales catastrales;
+
+VII.- Practicar levantamientos topográficos de los diferentes planos catastrales, así como los trabajos técnicos necesarios para la fijación de los límites de la propiedad pública o privada dentro del territorio municipal;
+
+VIII.- Intervenir en la delimitación de los límites municipales de los centros de población, de los perímetros urbanos, así como en la rectificación de los límites de propiedad pública y privada, practicando levantamiento de mapas y planos catastrales;
+
+IX.- Efectuar análisis y estudios técnicos para la determinación de las bases de valuación catastral;
+
+X.- Auxiliar a las dependencias, cuyas atribuciones en materia de obra pública, planificación y otros proyectos requieran datos contenidos en el padrón catastral;
+
+XI.- Registrar oportunamente los cambios que se operen en la propiedad raíz y que por cualquier concepto modifiquen lo (sic) datos contenidos en los registros y padrones catastrales;
+
+XII.- Aplicar los valores catastrales unitarios que aprueben el Congreso del Estado;
+
+XIII.- Emitir avalúos catastrales de bienes inmuebles ubicados en el territorio municipal;
+
+XIV.- Establecer el control de todos los bienes inmuebles, asignándoles la clave catastral que los identifique y ubique, y el número oficial que les corresponda;
+
+XV.- Determinar en forma precisa la localización de los predios mediante deslinde, así como recabar los elementos jurídicos, económicos, sociales y estadísticos que los constituyen;
+
+XVI.- Expedir los certificados de alineamientos; y,
+
+XVII.- Autorizar los avalúos practicados por peritos oficiales registrados ante el Catastro Municipal.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 138.
+
+El Departamento de Control Urbano tendrá como función, conducir los procedimientos para la autorización de acciones de urbanización, emitir autorizaciones para la ejecución de edificaciones, la implementación del régimen de propiedad en condominio, y las que deriven en materia de imagen urbana, encargándose de:
+
+I.- Vigilar que en el desarrollo de acciones de urbanización y edificaciones, que se lleven a cabo en predios urbanos ubicados dentro del territorio municipal, se respeten los usos de suelo previstos en los planes y programas de desarrollo urbano, así como en declaratorias correspondientes;
+
+II.- Otorgar o negar licencias de construcción, de movimientos de tierra, de reparación, modificación, ampliación, instalación o demolición de edificaciones; así como autorizaciones de uso de suelo;
+
+III.- Coordinar los procedimientos que se sigan para la modificación de los usos del suelo aprobados;
+
+IV.- Operar el proceso de autorización de acciones de urbanización a desarrollarse en predios urbanos ubicados dentro del territorio municipal, vigilando que éstas se apeguen a los planes y programas de desarrollo urbano, así como a la normatividad municipal aplicable;
+
+V.- Emitir las autorizaciones para el desarrollo de acciones de urbanización que le competan de acuerdo con las disposiciones reglamentarias;
+
+VI.- Coordinar el procedimiento de incorporación de predios en los que se hayan desarrollado acciones de urbanización para la expansión o renovación urbana;
+
+VII.- Observar y aplicar las disposiciones de la ley de edificaciones del estado y el reglamento municipal de la materia;
+
+VIII.- Autorizar el régimen de propiedad en condominio, de acuerdo con la ley correspondiente;
+
+IX.- Observar y aplicar las disposiciones municipales en materia de imagen urbana;
+
+X.- Conducir los procedimientos para la recuperación de vías públicas municipales;
+
+XI.- Otorgar o negar autorizaciones para el establecimiento de espacios de estacionamiento de vehículos en la vía pública, para usos (sic) exclusivo del permisionario, determinando las condiciones correspondientes;
+
+XII.- Realizar las inspecciones y verificaciones, así como emitir dictámenes técnicos y determinar e imponer las sanciones y medidas de seguridad que correspondan, a efecto de que las acciones de edificación y urbanización, así como los usos a que sean sometidos los predios y áreas ubicadas en el territorio municipal, cumplan con los requisitos reglamentarios y demás disposiciones normativas en materia de desarrollo urbano vigente; y
+
+XIII.- Desarrollar sistemas para llevar registros relativos al control urbano y el uso del suelo.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 139.
+
+Al Departamento de Ingeniería de Tránsito le corresponderá elaborar y autorizar estudios y proyectos de ingeniería de tránsito, que tengan por objeto asegurar la fluidez de las vialidades municipales, así como aumentar la seguridad de peatones y vehículos, encargándose de:
+
+I.- Elaborar estudios y proyectos integrales de vialidad y tránsito, y establecer los sistemas viales para cada una de las poblaciones del Municipio;
+
+II.- Dictaminar los proyectos de construcción, ampliación de vialidades, a llevarse a cabo por cualquier orden de gobierno o por los particulares, en poblaciones del Municipio, a fin de asegurar el mantenimiento de los sistemas viales;
+
+III.- Autorizar la construcción de obras o la instalación de equipo y señalamiento, en bienes y vías públicas, que tengan por objeto influir en el flujo vehicular;
+
+IV.- Promover la regeneración de accesos, caminos y vialidades municipales;
+
+V.- Fomentar la elaboración y autorizar los planes, estudios y proyectos de los sistemas viales y de transporte público y privado, de pasajeros y carga;
+
+VI.- Promover que se regule el flujo del ferrocarril y aumentar las medidas de seguridad con los cruces viales;
+
+VII.- Analizar y autorizar los proyectos y estudios de acceso a fraccionamientos y desarrollos habitacionales, comerciales, industriales e institucionales, así como requerir cambios para mejorar las condiciones de los actuales o nuevos accesos;
+
+VIII.- Establecer las normas técnicas para el diseño de vialidades, la fijación de lineamientos viales, la construcción e instalación de dispositivos reductores de velocidad; así como fijar normatividad para la señalización y semaforización de vialidades;
+
+IX.- Diseñar y elaborar proyectos de semaforización y equipo para control del flujo vehicular;
+
+X.- Autorizar los planos y proyectos de señalización y semaforización a llevarse a cabo en poblaciones del Municipio;
+
+XI.- Emitir autorizaciones para la construcción o demolición de dispositivos reductores de velocidad;
+
+XII.- Emitir anuencia para la autorización de la ocupación de vialidades para el desarrollo de festejos o eventos;
+
+XIII.- Emitir lineamientos viales a que deberán sujetarse las acciones de urbanización o edificación que se lleven a cabo en las poblaciones del Municipio, a fin de asegurar la fluidez y seguridad en las vialidades, y el mantenimiento de los sistemas viales;
+
+XIV.- Normar el trazo de nuevas rutas de transporte público, paraderos, zona de ascenso y descenso, así como derroteros y horarios para el transporte de carga pesada;
+
+XV.- Proyectar en coordinación con la entidad responsable del transporte público, las ubicaciones de bahías para ascenso y descenso de pasaje, revisando los proyectos de ubicación y diseño de cobertizos para usuarios de transporte público;
+
+XVI.- Normar y promover la solución de nodos conflictivos, mediante modificaciones geométricas, paso a desnivel, semaforización, señalización o cambio de sentidos viales;
+
+XVII.- Recabar los datos de estadísticas de accidentes de tránsito, aforos vehiculares, encuestas de origen y destino, a fin de tomar las medidas preventivas y correctivas de los nodos viales conflictivos de la ciudad;
+
+XVIII.- Normar y regular el establecimiento de espacios destinados a estacionamientos para personas con discapacidad, rampas para éstas, y áreas de seguridad para los peatones; y,
+
+XIX.- Realizar los dictámenes de factibilidad para el establecimiento de estacionamientos en áreas de la vía pública exclusivos para comercios, zonas de carga y descarga, así los casos de áreas que se requieran para la introducción o construcción de vialidades o soluciones al tránsito de vehículos y peatones.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -2480,3 +2576,7 @@ David Montaño Córdova
 P.O. 18 DE OCTUBRE DE 2002.
 
 TRANSITORIO UNICO: LA PRESENTE MODIFICACION ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL, ORGANO DEL GOBIERNO DEL ESTADO."
+
+P.O. 20 DE DICIEMBRE DE 2002.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
