@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-archivo-general-del-estado-y-la-biblioteca-1083
 country: "mx"
 rank: "ley"
 publication_date: "1978-09-08"
-last_updated: "1978-09-08"
+last_updated: "1980-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY QUE CREA EL ARCHIVO ADMINISTRATIVO E HISTORICO Y LA BIBLIOTECA PUBLICA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1980.
 
 Ley publicada en el Suplemento Número 1 del Periódico Oficial del Estado de Puebla, el viernes 8 de septiembre de 1978.
 
@@ -39,7 +39,7 @@ EL H. XLVII CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA,
 
 D E C R E T A :
 
-LEY QUE CREA EL ARCHIVO ADMINISTRATIVO E HISTÓRICO Y LA BIBLIOTECA PÚBLICA DEL ESTADO DE PUEBLA
+LEY QUE CREA EL ARCHIVO ADMINISTRATIVO E HISTORICO Y LA BIBLIOTECA PUBLICA DEL ESTADO DE PUEBLA.
 
 ### CAPITULO I
 
@@ -145,6 +145,14 @@ V.- Las demás que le confiera el Reglamento respectivo.
 
 El Gobernador expedirá los Reglamentos del Archivo Administrativo e Histórico y de la Biblioteca Pública del Estado.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1980)</small>
+
+###### ARTICULO 15o.
+
+El Archivo Administrativo e Histórico y la Biblioteca Pública del Estado de Puebla, tendrá como domicilio el antiguo Hospital de San Pedro que se encuentra ubicado en la casa marcada con el número 203 de la Calle 4 Norte de esta Ciudad, y que actualmente es conocida con el nombre de "Cancha de San Pedro".
+
+Dicho predio fué adquirido por compra al Ejecutivo Federal por escritura de fecha 27 de agosto de 1941, inscrita en el Registro Público de la Propiedad el día 23 de octubre del mismo año y tiene una superficie de 5,362.89 metros cuadrados y linda al Norte, con la Avenida 4 Oriente; al Sur, con la Iglesia de San Pedro; al Oriente, con la Avenida 4 Norte y al Poniente, con la casa número doscientos ocho de la Avenida 2 Oriente y con la 209 de la Avenida 4 Oriente de esta misma Ciudad.
+
 ## TRANSITORIOS
 
 ###### ARTICULO UNICO.
@@ -154,3 +162,9 @@ Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Heroica Ciudad de Puebla de Zaragoza, a los siete días del mes de septiembre de mil novecientos setenta y ocho.- Lic. Jesús Morales Flores, D.P.- Fausto Palomino Gazca, D.S.- Dr. Román de Ita Flores, D.S.- Rúbricas.
 
 Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza a ocho de septiembre de mil novecientos setenta y ocho.- El Gobernador Constitucional del Estado, Dr. Alfredo Toxqui Fernández de Lara.- Rúbrica.- El Secretario General de Gobierno, Lic. Carlos Trujillo Pérez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE DICIEMBRE DE 1980.
+
+UNICO.- Este artículo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
