@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "1933-11-17"
+last_updated: "1936-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 1933.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 1936.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -49,7 +49,7 @@ El territorio del Estado es el que de hecho y de derecho le pertenece dentro de 
 
 Son habitantes del Estado: todas las personas que estén en su territorio.
 
-###### Artículo 4.
+###### Artículo 4°.
 
 El Estado garantiza a sus habitantes, sea cual fuere su condición:
 
@@ -117,7 +117,7 @@ IV. Los mexicanos que adquieran vecindad en cualquier lugar del Estado y manifie
 
 ###### Artículo 12.
 
-Son ciudadanos del Estado: los poblanos de diez y ocho años si son casados y de veintiuno si no lo son, siempre que tengan un modo honesto de vivir.
+Son ciudadanos del Estado: los varones y las mujeres poblanos mayores de dieciocho años si son casados y de veintiuno si no lo son, siempre que tengan un modo honesto de vivir y no pertenezcan a ninguna orden monástica o desempeñen puesto alguno de carácter religioso.
 
 ###### Artículo 13.
 
@@ -220,6 +220,8 @@ El ejercicio de las funciones propias del Departamento Legislativo se encomienda
 ### CAPITULO QUINTO.
 
 De los ciudadanos poblanos.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1936)</small>
 
 ###### Artículo 26.
 
@@ -391,9 +393,13 @@ II. Legislar especialmente sobre las materias siguientes:
 
 1°. Fundos y Ejidos de los pueblos.
 
-2°. Creación de nuevos pueblos cuando así lo exijan las necesidades de una región.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1936)</small>
 
-3°. Montes, a fin de que pasen a ser propiedad pública aquellos cuya conservación interese al Estado y reglamentar la explotación de éstos y de los arbolados que permanezcan bajo la propiedad particular.
+2°. Creación y supresión de Municipios y pueblos, cuando así lo exijan las necesidades de una región, dándoles o cambiando su denominación.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1936)</small>
+
+3°. Montes, a fin de que pasen a ser propiedad pública aquellos cuya conservación interesa al Estado.
 
 4°. Aguas que queden bajo el régimen del Estado, conforme a la Constitución Federal.
 
@@ -421,9 +427,11 @@ II. Legislar especialmente sobre las materias siguientes:
 
 12°. Beneficencia, con la mira de facilitar la formación de asociaciones y la fundación de instituciones de Beneficencia Privada, motivadas por fines altruistas, sobre las bases de que serán laicas y que estarán bajo la vigilancia del Estado.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1936)</small>
 
-13°. Educación e Instrucción, procurando sean intensamente difundidas, con especialidad la educación Primaria rudimentaria y estableciendo para el más amplio desarrollo de la cultura técnica superior, la "Universidad de Puebla."
+13°. Educación e Instrucción, procurando sean intensamente difundidas, con especialidad la educación primaria rudimentaria y estableciendo para el más amplio desarrollo de la cultura técnica superior, la "Universidad de Puebla."
+
+La enseñanza rudimentaria , primaria, secundaría y normal que se imparta por el Estado o los particulares, sin distinción de grados ni sexos, se sujetará a lo preceptuado en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y a las leyes reglamentarias correspondientes.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
@@ -457,9 +465,9 @@ VI. Autorizar al Ejecutivo para que celebre contratos con los demás Estados o c
 
 VII. Revisar la cuenta general del Estado y de los Municipios, y decretar anualmente los presupuestos de ingresos y egresos del Estado, previa iniciativa del Ejecutivo.
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1936)</small>
 
-VIII. Decretar los presupuestos de ingresos de cada municipalidad.
+VIII. Decretar los presupuestos de ingresos de los Municipios del Estado y aprobar los contratos que celebren los Ayuntamientos y Juntas Auxiliares, cuando tengan una duración mayor de dos años.
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
@@ -501,9 +509,9 @@ XVII. Elegir a los Jueces de lo Civil y de lo Criminal a propuesta en terna del 
 
 XVIII. Aceptar las renuncias del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior y de los Jueces de lo Civil y de lo Criminal y conceder a los primeros licencia, en los términos que disponga la ley.
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1936)</small>
 
-XIX. Convocar a elecciones de Diputados cuando ocurra falta absoluta de Propietario y Suplente, si dicha falta ocurriere antes de los seis meses últimos del período.
+XIX. Convocar a elecciones de diputados cuando ocurra falta absoluta de propietario y suplente, si dicha falta ocurriera antes de los seis meses últimos del período, y llamar a los diputados suplentes en caso de muerte o por otra causa que inhabilita a los propietarios.
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
@@ -549,6 +557,10 @@ XXIX. Organizar en el territorio del Estado el sistema penal por colonias o pres
 
 XXX. Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y todas las concedidas a los otros Departamentos por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado.
 
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 1936)</small>
+
+XXXI. Erigirse en Colegio Electoral para cumplir con lo prevenido en el párrafo segundo del artículo 56 de la Constitución Política de los Estados Unidos Mexicanos.
+
 ###### Artículo 50.
 
 El Congreso, al decretar el presupuesto de egresos, no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la ley, y en caso de que se omita fijar tal remuneración, se entenderá señalada la última que hubiere tenido.
@@ -592,6 +604,10 @@ I. Cuando el Congreso funcione como Colegio Electoral o como Jurado.
 II. Cuando declare culpable a algún funcionario público por delitos oficiales, o que ha lugar a formación de causa en los delitos comunes.
 
 III. Cuando acepte la renuncia de funcionarios públicos.
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 1936)</small>
+
+IV.- Cuando el Congreso, por el voto de los dos tercios de los diputados presentes, dispense a cualquiera disposición que dicte, los trámites reglamentarios y constitucionales. En este caso la disposición será de obligada sanción para el Ejecutivo.
 
 ###### Artículo 55.
 
@@ -639,9 +655,13 @@ II. Convocar a la Legislatura a algún punto del Estado fuera de la Capital, si 
 
 III. Recibir la protesta del Gobernador, Diputados, Magistrados del Tribunal Superior y Jueces de Primera Instancia.
 
-IV. Conceder licencia al Gobernador del Estado y a los empleados de la Secretaría de la Legislatura y nombrar en calidad de provisionales Gobernador del Estado, Magistrados del Tribunal Superior, Jueces de Primera Instancia y empleados de la Secretaría de la Legislatura.
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1936)</small>
 
-V. Llamar a los Diputados suplentes en caso de muerte o por otra causa que inhabilite a los propietarios.
+IV. Conceder licencia al Gobernador del Estado, a los diputados cuando el número de éstas no exceda de la mitad de los que la integran y a los empleados de la Legislatura y Contaduría General de Glosa, y nombrar en calidad de provisionales, Gobernador del Estado, Magistrados del Tribunal Superior, Jueces de lo Civil y de lo Criminal y empleados de la Secretaría de la Legislatura y Contaduría General de Glosa.
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1936)</small>
+
+V. Llamar a los diputados suplentes en caso de muerte o por cualquiera otra causa que inhabilite a los diputados nombrados para integrarla, quienes sin, necesidad de previa designación del Congreso ocuparán los lugares destinados a los propietarios.
 
 VI. Dictaminar sobre todos los asuntos que queden sin resolución en los expedientes, a fin de que en el inmediato período de sesiones, sigan tramitándose o sean resueltos.
 
@@ -777,7 +797,9 @@ XXIII. Ejercer la superior inspección de todos los ramos de la Administración 
 
 XXIV. Conocer de las quejas que se interpongan contra los Ayuntamientos o sus Presidentes.
 
-XXV. Resolver los conflictos suscitados en los Ayuntamientos y los relativos a los Municipios, conforme lo determine esta Constitución y las Leyes Orgánicas.
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1936)</small>
+
+XXV. Autorizar y someter a la aprobación del Congreso, los contratos que celebren los Ayuntamientos y Juntas Auxiliares del Estado, cuando dichos contratos tengan una duración que exceda de dos años.
 
 XXVI. Recibir la protesta de todos los funcionarios y empleados de nombramiento del Gobernador que conforme a las Leyes no deban otorgarla ante otra autoridad.
 
@@ -959,9 +981,11 @@ Del Municipio Libre.
 
 Los Ayuntamientos, sin infringir las Leyes de la Federación o del Estado, tienen derecho de atender libremente de la manera que juzguen más eficaz, a todos los ramos de la administración pública del Municipio, sin excederse en los presupuestos.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1936)</small>
+
 ###### Artículo 103.
 
-Los Ayuntamientos se renovarán cada año en los términos que disponga la Ley.
+Los Ayuntamientos se renovarán en su totalidad cada dos años, en los términos que disponga la ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
@@ -971,9 +995,9 @@ La Ley Reglamentaria Municipal, se sujetará a las bases siguientes:
 
 I. Los Municipios administrarán libremente su hacienda, la cual se formará de las contribuciones que señale la Legislatura, del Estado, y en todo caso serán las suficientes para atender a sus necesidades.
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1936)</small>
 
-II. Los Ayuntamientos someterán a la aprobación de la Legislatura por conducto del Ejecutivo, quien informará, sus presupuestos de ingresos y sus cuentas anuales y no podrán contratar empréstitos, ni celebrar contratos que tengan una duración que exceda de un año, sin autorización del Ejecutivo.
+II. Los Ayuntamientos someterán a la aprobación de la Legislatura por conducto del Ejecutivo, quien informará sus presupuestos de Ingresos y sus cuentas anuales y no podrán contratar empréstitos, ni celebrar contratos que tengan una duración que exceda de dos años, sin autorización del Ejecutivo y aprobación del Congreso.
 
 III. El Ejecutivo Federal y el Gobernador del Estado tendrán el mando de la policía y fuerza pública de los Municipios donde residieren habitual o transitoriamente. Las mismas, policía y fuerza pública del Municipio auxiliarán a las fuerzas del Estado, y recíprocamente.
 
@@ -1314,6 +1338,10 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 P.O. 17 DE NOVIEMBRE DE 1933.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+P.O. 13 DE NOVIEMBRE DE 1936.
+
+Transitorio.- Esta disposición comenzará a surtir sus efectos desde la fecha de su publicación en el "Periódico Oficial" del Estado.
 
 ###### Artículo 5°.
 
