@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-3552"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-11"
-last_updated: "1998-12-16"
+last_updated: "1999-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 11 de diciembre de 1992.
 
@@ -385,7 +385,7 @@ El traslado del impuesto a que se refiere este artículo no se considerará viol
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION CUARTA. DE LA TASA
+#### SECCION TERCERA. DE LA BASE
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -399,7 +399,7 @@ En dicha contraprestación quedan incluidos los depósitos, anticipos, gastos de
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION QUINTA. DEL PAGO
+#### SECCION CUARTA. DE LA TASA
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -409,7 +409,7 @@ El monto del impuesto se determinará aplicando a la base gravable a que alude e
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION TERCERA. DE LA BASE
+#### SECCION QUINTA. DEL PAGO
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -1073,195 +1073,7 @@ b) Por inscripción y venta de bases 9 a 35
 
 II.- Por el ingreso que perciban por los servicios que prestan los organismos, de acuerdo a las cuotas o tarifas siguientes:
 
-> <small>(REFORMADO, P.O. 16 DICIEMBRE DE 1998)</small>
-
-a) HOSPITAL PSIQUIATRICO "DR. MANUEL CAMPOS"
-
-Las cuotas de recuperación del Hospital Psiquiátrico son:
-
-IMPORTES
-
-Pre-Consulta Grupos: B, C, D, E, F, y G $10.00
-
-Revaloraciones Grupos: B, C, D, E, F, y G 10.00
-
-Consulta Grupos:
-
-A Exento
-
-B $15.00
-
-C 20.00
-
-D 30.00
-
-E 40.00
-
-F 50.00
-
-G 60.00
-
-El grupo "A" señalado como exento en el cuadro anterior corresponde a las siguientes Instituciones: Preceptoría de Menores Infractores, Internos de los Centros de Readaptación Social de Campeche y Ciudad del Carmen, Hogar de Ancianos, Aldeas Infantiles, S.O.S., Casa Hogar, previo estudio socioeconómico que se realice al efecto.
-
-El área correspondiente de trabajo social del Hospital, para la asignación de pacientes en los grupos B, C, D, E, F y G evaluará los parámetros principales relativos a: ingresos (fijos o eventuales), egresos, número de miembros de la familia y número de hijos que se encuentren cursando estudios.
-
-CUOTAS DE RECUPERACION POR PRUEBAS PSICOLOGICAS
-
-B C D E F G
-
-1.- Bender/Benton
-
-$8.00 $12.00 $15.00 $18.00 $20.00 $30.00
-
-2.- Machover
-
-8.00 12.00 15.00 18.00 20.00 25.00
-
-3.- H.T.P.
-
-8.00 12.00 15.00 18.00 20.00 30.00
-
-4.- Goodenough
-
-8.00 12.00 14.00 17.00 20.00 25.00
-
-5.- Test de la familia
-
-8.00 12.00 14.00 17.00 20.00 25.00
-
-6.- Ejecución y discriminación
-
-8.00 12.00 14.00 17.00 20.00 30.00
-
-7.- Dislexia
-
-10.00 13.00 15.00 18.00 20.00 30.00
-
-8.- Frosting
-
-19.00 21.00 23.00 26.00 30.00 35.00
-
-9.- Sacks
-
-9.00 12.00 14.00 17.00 20.00 25.00
-
-10.- Inventario de Intereses Juveniles
-
-10.00 12.00 15.00 18.00 20.00 30.00
-
-11.- Intereses de Ansiedad: Edo-Rasgo
-
-10.00 12.00 15.00 18.00 20.00 25.00
-
-12.- M.M.P.I
-
-12.00 15.00 16.00 19.00 25.00 35.00
-
-13.- M.M.P.I.R.
-
-13.00 15.00 17.00 20.00 25.00 35.00
-
-14.- Geist (Intereses)
-
-10.00 12.00 15.00 18.00 20.00 25.00
-
-15.- Raven (Escala General)
-
-9.00 12.00 14.00 17.00 20.00 30.00
-
-16.- Raven (Escala Especial)
-
-9.00 12.00 14.00 17.00 20.00 30.00
-
-17.- Barsit
-
-10.00 13.00 15.00 18.00 20.00 25.00
-
-18.- Beta II-R
-
-12.00 14.00 16.00 19.00 22.00 25.00
-
-19.- Test de Anstey-Dominos
-
-9.00 12.00 14.00 17.00 20.00 25.00
-
-20.- Wais
-
-13.00 16.00 18.00 21.00 25.00 35.00
-
-21.- Wisc
-
-13.00 16.00 18.00 21.00 25.00 30.00
-
-22.- Wisc-RM
-
-14.00 16.00 18.00 21.00 25.00 30.00
-
-23.- WPPSI
-
-14.00 16.00 18.00 21.00 25.00 30.00
-
-24.- T.A.T.
-
-9.00 12.00 14.00 17.00 20.00 25.00
-
-25.- C.A.T.-A
-
-9.00 12.00 14.00 17.00 20.00 25.00
-
-26.- C.A.T.-H
-
-9.00 12.00 14.00 17.00 20.00 25.00
-
-27.- S.A.T.
-
-9.00 12.00 14.00 17.00 20.00 25.00
-
-28.- Purdue (Test No Verbal)
-
-10.00 12.00 14.00 18.00 22.00 30.00
-
-29.- Test de la Memoria Auditiva Inmediata
-
-13.00 15.00 17.00 20.00 24.00 30.00
-
-30.- Evaluación de la Afasia
-
-14.00 16.00 18.00 21.00 25.00 30.00
-
-31.- Kuder (Preferencias) Vocacionales
-
-13.00 16.00 18.00 20.00 24.00 30.00
-
-32.- D.A.T. (Vocacional)
-
-19.00 21.00 23.00 26.00 30.00 35.00
-
-33.- Batería de Aptitudes Generales
-
-10.00 12.00 15.00 18.00 20.00 25.00
-
-34.- Dominio-Sometimiento
-
-10.00 13.00 15.00 18.00 20.00 25.00
-
-35.- Angeline (Orientación Vocacional)
-
-9.00 12.00 14.00 17.00 20.00 25.00
-
-36.- Hereford (Interés Vocacional)
-
-9.00 12.00 14.00 17.00 20.00 25.00
-
-37.- Thurstone (Interés Vocacional)
-
-9.00 12.00 14.00 17.00 20.00 25.00
-
-38.- Rosenzwig (Frustación-Agresividad)
-
-9.00 12.00 14.00 17.00 20.00 25.00
-
-Asimismo, los ingresos que obtenga por la venta de fármacos, biológicos y material de curación, deberán ser concentrados en las oficinas recaudadoras de la Secretaría de Finanzas y Administración.
+a) (DEROGADO, P.O. 9 DE JUNIO DE 1999)
 
 > <small>(REFORMADO, P.O. 16 DICIEMBRE DE 1998)</small>
 
@@ -2034,3 +1846,9 @@ P.O. 16 DICIEMBRE DE 1998.
 Primero.- El presente decreto entrará en vigor el día 1 de enero de 1999.
 
 Segundo.- Se derogan todas aquellas disposiciones legales o reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 9 DE JUNIO DE 1999.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas aquellas disposiciones legales o reglamentarias en lo que se opongan al contenido del presente Decreto.
