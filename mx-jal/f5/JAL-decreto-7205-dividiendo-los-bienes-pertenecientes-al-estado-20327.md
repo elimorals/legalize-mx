@@ -4,7 +4,7 @@ identifier: "JAL-decreto-7205-dividiendo-los-bienes-pertenecientes-al-estado-203
 country: "mx"
 rank: "decreto"
 publication_date: "1957-12-14"
-last_updated: "1957-12-14"
+last_updated: "1998-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE DIVIDE LOS BIENES PERTENECIENTES AL ESTADO EN BIENES DE DOMINIO PUBLICO Y BIENES DE DOMINIO PRIVADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 14 de diciembre de 1957.
 
@@ -153,9 +153,11 @@ El destino de los bienes inmuebles podrá ser concedido por acuerdo del Ejecutiv
 
 INMUEBLES DE DOMINIO PRIVADO.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 1998)</small>
+
 ###### Artículo 16o.
 
-Los bienes de dominio privado podrán ser enajenados cuando no fueren necesarios para el Estado, previa autorización del Congreso del Estado. Los de las Instituciones Estatales o descentralizadas que estén sujetas a Ley Especial respecto al manejo de su patrimonio, continuarán bajo su propio régimen.
+Los bienes del dominio privado podrán ser enajenados cuando no fueren necesarios para el Estado, previa autorización del Congreso del Estado. Los de las Instituciones Estatales o descentralizadas que estén sujetas a Ley Especial o decreto emitido por el Congreso del Estado, respecto al manejo de su patrimonio, continuarán bajo su propio régimen.
 
 ###### Artículo 17o.
 
@@ -246,3 +248,9 @@ AGUSTÍN YÁÑEZ.
 El Srio. Gral. de Gob.
 
 LIC ALFONSO DE ALBA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE ENERO DE 1998.
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
