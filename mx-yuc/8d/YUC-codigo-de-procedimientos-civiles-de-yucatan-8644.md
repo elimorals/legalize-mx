@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-procedimientos-civiles-de-yucatan-8644"
 country: "mx"
 rank: "codigo"
 publication_date: "1941-12-24"
-last_updated: "1942-10-01"
+last_updated: "1946-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE OCTUBRE DE 1942.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JULIO DE 1946.
 
 Código publicado en el Diario Oficial los días 24, 26, 27, 29, 30 y 31 de Diciembre de 1941 y 5 de Enero de 1942.
 
@@ -387,11 +387,13 @@ III.- Los gastos por agencias y diligencias que hubiesen sido indispensables en 
 
 Los honorarios no podrán exceder de lo que fijen los aranceles, si los hubiere, y los gastos deberán estar justificados en concepto del tribunal que conoció del juicio.
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 1946)</small>
+
 ###### ARTICULO 64.
 
-El que resulte vencido en el juicio será siempre condenado en las costas.
+El que resulte vencido en el juicio será condenado en las costas. En los juicios de arrendamiento de predios urbanos destinados para habitación, escuelas o talleres no habrá condenación en costas.
 
-La condenación no comprenderá los honorarios del procurador ni del patrón, sino cuando fueren abogados recibidos con título legalmente registrado.
+La condenación no comprenderá los honorarios del Procurador ni del Patrón, sino cuando fueren abogados recibidos con título legalmente registrado.
 
 ###### ARTICULO 65.
 
@@ -3043,31 +3045,41 @@ III.- Por falta de pago de rentas, en la forma prevenida en la fracción I del a
 
 III.- En la infracción de cualquiera de las condiciones del contrato que, con arreglo del Código Civil, motivan rescisión.
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 1946)</small>
+
 ###### ARTICULO 564.
 
-Cuando la renta anual del predio cuya desocupación se pida, no exceda de quinientos pesos, conocerá del juicio en primera instancia, el Juez Menor, y a falta de éste el de Paz del municipio en que está ubicada la finca; si dicha renta excediere de quinientos pesos, conocerán los Jueces de lo Civil o Mixtos del Departamento a que la finca corresponda.
+Todos los juicios de arrendamiento se tramitarán con sujeción a las reglas de este capítulo.
+
+Cuando la renta anual del predio cuya desocupación se pida, no exceda de mil pesos, conocerá del juicio en primera instancia, el Juez Menor, y a falta de éste el de Paz del Municipio en que está ubicada la finca; si dicha renta excediere de mil pesos, conocerán los Jueces de lo Civil o Mixtos del Departamento a que la finca corresponda.
+
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 1946)</small>
 
 ###### ARTICULO 565.
 
-En el juicio de arrendamiento, la demanda, cualquiera que sea la causa en que se funde, sólo será aceptada cuando se presente aparejada con el contrato respectivo y con la constancia de que el propietario está al corriente en sus pagos de impuestos al Estado y al Municipio, en cuanto al predio que motiva el juicio.
+En el juicio de arrendamiento, la demanda, cualquiera que sea la causa en que se funde, sólo será aceptada cuando se presente aparejada con el contrato respectivo, el certificado del valor catastral del predio que motiva el juicio y la constancia de que el propietario está al corriente en sus pagos de impuestos al Estado y al Municipio, en cuanto a dicho predio.
+
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 1946)</small>
 
 ###### ARTICULO 566.
 
-Si la demanda se funda en la falta de pago de rentas a que se refiere la fracción II del artículo 563, el Juez correrá traslado de ella al demandado para que la conteste dentro de tres días, y le fijará diez días para que se ponga al corriente en el pago de rentas.
+Si la demanda se funda en la falta de pago de rentas a que se refiere la fracción II del artículo 563, el Juez correrá traslado de ella al demandado para que la conteste dentro de tres días.
+
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 1946)</small>
 
 ###### ARTICULO 567.
 
-Si al contestarse la demanda se ofrecieren pruebas que requieran perfeccionamiento ulterior, se concederá para ello un término que no exceda de diez días.
+Si en la demanda o en la contestación se ofrecieren pruebas, se concederá para su perfeccionamiento un término que no exceda de quince días.
 
 ###### ARTICULO 568.
 
-Si transcurriesen los términos fijados en el artículo 566 sin que el demandado se hubiere excepcionado ni satisfecho las rentas reclamadas, se dictará sentencia declarando rescindido el contrato y condenando al inquilino al pago de las rentas adeudadas.
+(DEROGADO, D.O. 12 DE JULIO DE 1946)
 
-> <small>(F. DE E., D.O. 15 DE ENERO DE 1942)</small>
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 1946)</small>
 
 ###### ARTICULO 569.
 
-Si el inquilino paga o prueba que estaban pagadas las rentas que se reclamaron, se dictará sobreseimiento declarando que continuará vigente el contrato de arrendamiento.
+Si durante la tramitación del juicio en cualquiera de sus instancias, el inquilino paga las rentas que legalmente adeudare, se dictará sobreseimiento declarando que continuará vigente el contrato de arrendamiento, siempre que al hacerse el pago no se hubiese consumado el desahucio.
 
 ###### ARTICULO 570.
 
@@ -3077,9 +3089,11 @@ Transcurrido el término a que se refiere el artículo 567, y hecha la publicaci
 
 Si la demanda de arrendamiento se funda en la fracción I del artículo 563, el Juez oirá al demandado previo traslado que le dé por tres días.
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 1946)</small>
+
 ###### ARTICULO 572.
 
-Si en la demanda o en la contestación se hubiesen ofrecido pruebas que necesiten perfeccionamiento ulterior, se concederá para ello un término que no exceda de cinco días.
+Si en la demanda o en la contestación se hubiesen ofrecido pruebas, se concederá para su perfeccionamiento un término que no exceda de quince días.
 
 ###### ARTICULO 573.
 
@@ -3093,9 +3107,11 @@ Si el juicio de arrendamiento se funda en la fracción III del artículo 563, se
 
 El desahucio únicamente procede en ejecución de sentencia que lo ordene con arreglo a este Capítulo.
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 1946)</small>
+
 ###### ARTICULO 576.
 
-En la sentencia de desahucio se concederá al inquilino el término de dos meses para que verifique la desocupación.
+En la sentencia de desahucio se concederá al inquilino el término de seis meses para que verifique la desocupación, salvo que el juicio se siguiere por la falta de pago de rentas, en cuyo caso, se concederá el término de dos meses.
 
 ###### ARTICULO 577.
 
@@ -3109,7 +3125,7 @@ Vencido el término que se fijó en la sentencia y la prórroga, en su caso, sin
 
 ###### ARTICULO 579.
 
-Si se siguiere juicio de arrendamiento por alguna o algunas de las causas expresadas en las fracciones I y III del artículo 563, y durante el juicio el inquilino dejare de pagar la renta, estipulada, a petición del actor se le concederá un término de diez días para que exhiba dichas rentas, y si no lo hiciere se dictará sentencia de desahucio.
+(DEROGADO, D.O. 12 DE JULIO DE 1946)
 
 ###### ARTICULO 580.
 
@@ -3385,13 +3401,17 @@ Si la sentencia declarase que no procede el juicio ejecutivo, reservará al acto
 
 ### CAPITULO V. Del juicio verbal
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 1946)</small>
+
 ###### ARTICULO 624.
 
-Serán objeto de juicio verbal las demandas cuya cuantía no exceda de quinientos pesos:
+Serán objeto de juicio verbal las demandas cuya cuantía no exceda de quinientos pesos.
 
 Para estimar el interés del negocio se atenderá a lo que el actor demande como suerte principal.
 
-Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año,. a no ser que se tratare de prestaciones vencidas, en cuyo caso, se estará a lo dispuesto en la primera parte de este artículo
+Cuando se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso, se estará a lo dispuesto en la primera parte de este artículo.
+
+Las demandas de arrendamiento nunca serán objeto de juicio verbal.
 
 ###### ARTICULO 625.
 
@@ -6139,8 +6159,20 @@ El Secretario General
 
 Gonzalo López M.
 
+}
+
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
 D.O. 1 DE OCTUBRE DE 1942.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LOS ARTICULOS 1 Y 2 DEL CODIGO CIVIL VIGENTE EN EL ESTADO DE YUCATAN.
+
+D.O. 12 DE JULIO DE 1946.
+
+Primero.- Las disposiciones del Código Civil reformadas por este Decreto se aplicarán desde luego a todos los contratos de arrendamiento vigentes que no hubieren sido materia de controversia judicial.
+
+Segundo.- Los avisos o notificaciones que se hubieren hecho de conformidad con el tenor de los artículos 1582, y 1595 del Código Civil antes de este Decreto, para la terminación de arrendamiento, no producirán este efecto sino hasta que se venza el nuevo término fijado en dichos preceptos legales como aparecen reformados por esta Ley.
+
+Tercero.- La substanciación de los procedimientos de arrendamiento pendientes se sujetará a las disposiciones del Código de Procedimientos Civiles vigente en la fecha de la publicación de este Decreto.
+
+Cuarto.- En aquellos juicios en que no se hubiere dictado aun sentencia de primera instancia se aplicará el artículo 576 del Código de Procedimientos Civiles en los términos en que queda concebido por virtud de la reforma de que ha sido objeto.
