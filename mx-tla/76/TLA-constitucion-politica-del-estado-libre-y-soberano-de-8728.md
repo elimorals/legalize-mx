@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2001-05-18"
+last_updated: "2002-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2002.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -305,7 +305,7 @@ II.- Por la pérdida de la ciudadanía mexicana; y,
 
 III.- Por sentencia ejecutoria que así lo declare en calidad de pena impuesta
 
-La Ley correspondiente señalará los términos y procedimientos para la declaratoria de la pérdida de la ciudadanía y la manera de hacer la rehabilitación.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -327,7 +327,7 @@ Las cuestiones que sobre la extensión y límites se presenten se arreglarán o 
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-### CAPITULO IV. DE LA INICIATIVA Y fORMACIÓN DE LAS LEYES
+### CAPITULO IV. DE LA INICIATIVA Y FORMACION DE LAS LEYES
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -539,7 +539,7 @@ Son habitantes quienes tienen su domicilio y residen en el territorio del Estado
 
 Son transeúntes las personas que, sin residir habitualmente en el Estado, permanezcan transitoriamente o viajen por su territorio.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 24.
 
@@ -547,11 +547,13 @@ Son tlaxcaltecas:
 
 I.- Los nacidos en el territorio del Estado;
 
-II.- Los mexicanos nacidos fuera del territorio del Estado, de padre o madre tlaxcalteca;
+II.- Los mexicanos nacidos fuera del territorio del Estado, de padre o madre tlaxcalteca.
 
-III. Los habitantes mexicanos que hayan residido por más de cinco años ininterrumpidamente dentro del Estado, y que lo soliciten conforme a ley de la materia; y,
+Podrán adquirir la calidad de tlaxcaltecas:
 
-IV. La persona de nacionalidad mexicana que contraiga matrimonio con tlaxcalteca, que establezca su residencia por el término de dos años consecutivos en el territorio del Estado y manifieste en términos de la ley correspondiente, su deseo de adquirir esta calidad.
+I. Los habitantes mexicanos que hayan residido por más de cinco años ininterrumpidamente dentro del Estado;
+
+II. La persona de nacionalidad mexicana que contraiga matrimonio con tlaxcalteca, que establezca su residencia por el término de dos años consecutivos en el territorio del Estado.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -987,7 +989,7 @@ XXXVIII. Erigirse en jurado de acusación, o en su caso, acusación y sentencia 
 
 XXXIX. Pedir informes a los Poderes Ejecutivo y Judicial, y a los órganos públicos autónomos sobre asuntos de su incumbencia, cuando para el mejor ejercicio de sus funciones lo estime necesario;
 
-XL. Legislar en materia de ciudadanía;
+XL. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2002)
 
 XLI. Otorgar reconocimiento a los mexicanos que hayan prestado servicios importantes a la Entidad;
 
@@ -1099,9 +1101,9 @@ De los Municipios.
 
 Para ser Gobernador del Estado se requiere:
 
-I. Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos y nativo del Estado, con una residencia mínima de dos años inmediatamente anteriores al día de la elección.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
-Si carece de la calidad de nativo del Estado, deberá tener una residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección;
+I. Ser mexicano por nacimiento y ciudadano tlaxcalteca en pleno ejercicio de sus derechos, con una residencia mínima de cinco años inmediatamente anteriores al día de la elección.
 
 II. Tener cuando menos treinta años cumplidos el día de la elección;
 
@@ -1469,9 +1471,11 @@ El Ministerio Público estará a cargo de un Procurador General de Justicia, cuy
 
 Para ser Procurador General de Justicia se cumplirá con los siguientes requisitos:
 
-I. Ser ciudadano tlaxcalteca o estar avecindado en el Estado por lo menos cinco años antes del nombramiento;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
-II. Estar en pleno goce de sus derechos políticos y civiles;
+I. Ser mexicano por nacimiento y ciudadano tlaxcalteca en pleno ejercicio de sus derechos, con una residencia mínima de cinco años en el Estado, antes del nombramiento;
+
+II. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2002)
 
 III. Tener cuando menos treinta y cinco años de edad el día del nombramiento;
 
@@ -1663,9 +1667,11 @@ La Sala Laboral-Burocrática se integrará por un Magistrado, conocerá de los c
 
 Para ser Magistrado o Juez, se requiere:
 
-I. Ser ciudadano mexicano por nacimiento y tlaxcalteca, o estar avecindado en el Estado cinco años antes del nombramiento;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
-II. Estar en pleno goce de sus derechos políticos y civiles;
+I. Ser mexicano por nacimiento y ciudadano tlaxcalteca en pleno ejercicio de sus derechos, con una residencia mínima de cinco años en el Estado, antes del nombramiento;
+
+II. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2002)
 
 III. Tener cuando menos treinta y cinco años de edad el día del nombramiento; o treinta años, si se trata de los jueces;
 
@@ -2526,3 +2532,17 @@ A más tardar el día treinta de mayo del año dos mil uno, se realizará la des
 ###### ARTICULO DUODECIMO.
 
 Las disposiciones vigentes de esta Constitución, de Leyes secundarias y de los Reglamentos que se opongan al presente Decreto, quedan derogados a partir de que entre en vigor la presente.
+
+P.O. 9 DE DICIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Ciudadanía Tlaxcalteca publicada mediante Decreto 126, en el Periódico Oficial del Gobierno del Estado de fecha 22 de octubre de 2001, en el Tomo LXXXI, Segunda Epoca, Número Extraordinario.
+
+###### ARTICULO TERCERO.
+
+Las disposiciones vigentes contenidas en las leyes secundarias que se opongan al presente Decreto, quedan derogadas a partir de que entre en vigor este Decreto.
