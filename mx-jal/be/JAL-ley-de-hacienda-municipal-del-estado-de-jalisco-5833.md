@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1991-06-29"
+last_updated: "1992-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 1992.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -633,7 +633,7 @@ Los contribuyentes sólo podrán recurrir a la compensación, para extinguir sus
 
 ###### Art. 61.
 
-Las obligaciones ante el fisco municipal y los créditos a favor de éste por impuestos, contribuciones especiales, derechos, productos o aprovechamientos, se extinguen por prescripción, en el término de cinco años. En el mismo plazo, se extingue también por prescripción, la obligación del fisco municipal de devolver las cantidades pagadas indebidamente.
+Las obligaciones ante el fisco municipal y los créditos a favor de éste por Impuestos, contribuciones especiales, derechos, productos o aprovechamientos, se extinguen por prescripción, en el término de cinco años. En el mismo plazo, se extingue también por prescripción, la obligación del fisco municipal de devolver las cantidades pagadas indebidamente.
 
 La prescripción del crédito principal extingue simultáneamente los recargos y gastos de ejecución.
 
@@ -929,6 +929,14 @@ d) Los no edificados o baldíos, que se localicen fuera del área metropolitana;
 
 e) Los que formen parte del patrimonio de escuelas y clubes deportivos.
 
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1992)</small>
+
+f) Los urbanos que, por estudio técnico realizado por la Secretaría de Finanzas, se desprenda que no pertenecen a alguno de los tipos o especies de fraccionamientos previstos en la Ley Estatal de Fraccionamientos, ni
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1992)</small>
+
+g) Los urbanos que se ubiquen dentro del área metropolitana y que no correspondan, conforme a la Ley Estatal de Fraccionamientos, a fraccionamientos habitacionales urbanos de primera, jardín o de tipo de medio.
+
 ###### Art. 100.
 
 En su caso, la progresividad de la tasa del 20% a que se refiere el artículo anterior, se aplicará al inicio del siguiente año de calendario a aquél en el que se hubiera afectado la adquisición del predio.
@@ -1067,9 +1075,13 @@ Son sujetos de este impuesto las personas físicas o morales que realicen cualqu
 
 Para efectos del cálculo del Impuesto, se deberán considerar los valores siguientes:
 
-(REFORMADA, P.O. 29 DE JUNIO DE 1991) (F. DE E., P.O. 29 DE JUNIO DE 1991)
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 1992)</small>
 
-I. El consignado en avalúo, ya sea bancario o el practicado por la Dirección de Catastro que, en ningún caso, podrá ser menor a seis veces el valor catastral, y que no podrá tener antigüedad mayor de un año a partir de la fecha en que se practique;
+I. El consignado en avalúo bancario o practicado por la Dirección de Catastro, que no podrá tener antigüedad mayor a un año y, en ningún caso, será menor a una vez el valor de las Tablas de Valores de terreno y construcción vigente para cada municipio, publicadas en el Periódico Oficial El Estado de Jalisco, a partir del mes de enero de 1992. En los municipios en que no se publiquen Tablas de Valores a partir del mes de enero de 1992, el valor de avalúo bancario o del practicado por la Dirección de Catastro mismo que, en ningún caso, podrá ser menor a seis veces el valor consignado en la (sic) Tablas de Valores de terreno y construcción vigentes para cada municipio.
+
+> <small>(F. DE E., P.O. 17 DE MARZO DE 1992)</small>
+
+Cuando el contribuyente considere que el valor asignado al inmueble con base en lo preceptuado en el párrafo anterior resulte superior al valor comercial del mismo, la Dirección de Catastro, y en su caso las oficinas de Recaudación Fiscal autorizadas, tendrán facultades para aprobar el avalúo correspondiente con los valores que rijan en el mismo mercado.
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 1991)</small>
 
@@ -1077,21 +1089,21 @@ II. El de Operación; y
 
 III. El catastral o con el que fiscalmente se encuentre empadronado el predio;
 
-(ADICIONADO, P.O. 29 DE JUNIO DE 1991) (F. DE E., P.O. 29 DE JUNIO DE 1991)
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1992)</small>
 
-Será base del impuesto el 40% cuarenta por ciento del valor que resulte más alto de entre los referidos anteriormente.
+Será base del impuesto el 33% del valor que resulte más alto entre los referidos anteriormente, siempre que las tablas de valores de terreno y construcción hayan sido publicadas a partir de enero de 1992 o en su caso, el 60% del valor que resulte más alto de los referidos anteriormente, cuando las de valores hayan sido publicadas antes del año de 1992.
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1992)</small>
 
-Tratándose de inmuebles destinados a vivienda cuya superficie de construcción no exceda de 65 sesenta y cinco metros cuadrados, será base de este impuesto el 40% cuarenta por ciento del avalúo que practique la Dirección de Catastro en los términos de la frac. I de este artículo y siempre que se acredite, ante la autoridad a quien competa la aplicación de esta Ley, que el adquirente no es propietario de otro inmueble.
+Tratándose de inmuebles destinados a vivienda cuya superficie construida no exceda de 65 sesenta y cinco metros cuadrados, será base de este impuesto el porcentaje que le corresponda de acuerdo con lo dispuesto en el párrafo anterior, respecto del avalúo bancario o el practicado por la Dirección de Catastro, en los términos de la fracción I de este artículo, siempre que el adquirente acredite no ser propietario de otro inmueble.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1992)</small>
 
-En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el valor que corresponda, en los términos de las fracs. I a III de este artículo. Para los fines de este Impuesto, se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% cincuenta por ciento del valor de la propiedad.
+En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el valor que corresponda, en los términos de las fracciones I a III, de este artículo. Para los fines de este Impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del 50% cincuenta por ciento del valor de la propiedad.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1991)</small>
+(REFORMADO, P.O. 16 DE ENERO DE 1992) (F. DE E., P.O. 17 DE MARZO DE 1992)
 
-Tratándose de permutas, será base de este impuesto el 40% cuarenta por ciento del valor de cada uno de los bienes permutados, determinado de conformidad con lo dispuesto en las fracciones I a III de este artículo. En los casos de transmisión o cesión de derechos hereditarios o de disolución de copropiedad, la base del impuesto será el 40% cuarenta por ciento del valor de la parte proporcional del bien o bienes que corresponda a los derechos que se transmitan, o en que se incrementen las correspondientes porciones de los copropietarios o coherederos, determinado de acuerdo con lo señalado en la fracciones I a III de este artículo. Si para la disolución de copropiedad o de sociedad legal se consideran valores pecuniarios, la Tesorería Municipal está facultada a exigir que se acredite su existencia para valorarlos.
+Tratándose de permuta, será base de este impuesto el valor consignado en los avalúos de los bienes permutados, cuando éste sea fijado en base a los valores consignados en las Tablas de Valores publicadas en el Periódico Oficial El Estado de Jalisco, a partir del mes de enero de 1992, o en su caso, el 33% treinta y tres por ciento, del valor que resulte más alto más de los referidos anteriormente, cuando las Tablas de Valores de terreno y construcción hayan sido publicadas antes del año de 1992. En los casos de transmisión, cesión de derechos hereditarios o de disolución de copropiedad, la base del impuesto será el 60% sesenta por ciento del valor de la parte proporcional entre el bien o bienes que correspondan a los derechos que se transmitan o en que se incrementen las correspondientes porciones de los copropietarios o coherederos, determinados con valores consignados en las Tablas de Valores publicados en el Periódico Oficial El Estado de Jalisco, a partir del mes de enero de 1992, o en su caso, el del valor que resulte más alto de los referidos anteriormente, cuando dichas tablas hayan sido publicadas antes del año de 1992. Si para la disolución de copropiedad o de sociedad legal se consideran valores pecuniarios, la Tesorería Municipal está facultada para exigir se acredite su existencia para proceder a su valuación.
 
 Cuando con motivo de la adquisición, el adquirente asume la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
 
@@ -2774,3 +2786,7 @@ P.O. 29 DE JUNIO DE 1991.
 Artículo Primero. Los predios cuyo valor se determine en operaciones translativas de dominio, a partir del 1.º de julio de 1991, pagarán el Impuesto Predial únicamente sobre el valor de tablas de terreno y construcción, vigentes para cada Municipio, y aprobado por las Juntas Tabuladoras correspondientes.
 
 Artículo Segundo. El presente Decreto entrará en vigor el día 1.º primero de julio de 1991 mil novecientos noventa y uno, previa su publicación en el Periódico Oficial El Estado de Jalisco".
+
+P.O. 16 DE ENERO DE 1992.
+
+Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
