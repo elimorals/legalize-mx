@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-armeria-colima-26733"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2004-10-30"
+last_updated: "2004-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE ARMERIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -955,7 +955,7 @@ e) Comercio y servicios 2.47
 
 f) Oficinas administrativas 2.47
 
-g) Abastos, almacenamientos y talleres especiales 1.85
+g) Abastos, almacenamientos y talleres especiales 0.36
 
 h) Manufacturas y usos industriales:
 
@@ -1583,7 +1583,7 @@ pública 2.00
 
 pública 2.00
 
-45.- Pintado en puesto semifijo en la vía pública 2.00
+45.- Pintado o en puesto semifijo en la vía pública 2.00
 
 46.- Adosado en puesto semifijo en la vía
 
@@ -1813,7 +1813,7 @@ término de ley (180 días) 0.00
 
 b).- Por registro extemporáneo de
 
-nacimiento 1a 5
+nacimiento 1 a 5
 
 c).- Registro de reconocimiento de hijos 3.00
 
@@ -2951,7 +2951,9 @@ En los predios con valor catastral de $264,000.01 en adelante, el impuesto que r
 
 Lo previsto en este artículo, no será aplicable respecto de los predios cuyo valor se hubiera modificado en el último bimestre del año que se trate, por motivos distintos a la publicación de las tablas de valores unitarios de terreno y de construcción.
 
-Los predios que con motivo del sismo ocurrido el día 21 de enero del año 2003, resultaron dañados, se clasifiquen actualmente, por haberse demolido, como lotes baldíos, el impuesto predial a cobrar, por el ejercicio fiscal 2004, no deberá de ser en ningún caso superior al que se cobró en el 2003.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+Los predios que con motivo del sismo ocurrido el día 21 de enero del año 2003, resultaron dañados, se clasifiquen actualmente, por haberse demolido, como lotes baldíos, el impuesto predial a cobrar, por el ejercicio fiscal 2005, no deberá de ser en ningún caso superior al que se cobró en el 2004, siempre y cuando continúen sin construir.
 
 ###### ARTICULO SEXTO.
 
@@ -2992,3 +2994,7 @@ P.O. 16 DE OCTUBRE DE 2004.
 P.O. 30 DE OCTUBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el periódico oficial "El Estado de Colima". El Gobernador del Estado dispondrá se publique circule y observe.
+
+P.O. 25 DE DICIEMBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor el 1º de enero de 2005, previa su publicación en el Periódico Oficial "El Estado de Colima".
