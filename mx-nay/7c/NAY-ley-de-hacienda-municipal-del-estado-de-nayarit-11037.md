@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-municipal-del-estado-de-nayarit-11037"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-28"
-last_updated: "1992-12-26"
+last_updated: "1993-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1993.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 28 de diciembre de 1983.
 
@@ -461,6 +461,10 @@ Están obligadas al pago del Impuesto sobre adquisición de Inmuebles establecid
 
 No se pagará este Impuesto en las adquisiciones de inmuebles que realicen la Federación, el Estado de Nayarit y los Municipios, para formar parte del dominio público y, los partidos Políticos, siempre y cuando dichos inmuebles sean para su propio uso.
 
+> <small>(ADICIONADA, P. O. 13 DE OCTUBRE DE 1993)</small>
+
+II(sic).- Tampoco se pagará el Impuesto establecido en este capítulo en las adquisiciones que realicen las asociaciones religiosas constituidas en los términos de la Ley de la materia, siempre que, en este último caso, la adquisición se realice dentro de los seis meses siguientes a su constitución.
+
 ###### ARTICULO 42.
 
 Para los efectos de este capítulo, se entiende por adquisición la que se derive de:
@@ -747,6 +751,8 @@ Las presentes disposiciones derogan todas aquellas que se opongan a los término
 
 Se derogan todas y cada una de las disposiciones que se opongan al contenido del presente Decreto. No obstante, los causantes podrán convenir con la autoridad fiscal competente el pago del Impuesto Predial sobre la base de la producción agropecuaria en la proporción al efecto se concerte.
 
+P.O. 13 DE OCTUBRE DE 1993.
+
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor el día 1º de Enero de 1993, previa publicación en el Periódico Oficial, Organo del Gobierno del Estado.
@@ -754,3 +760,11 @@ El presente Decreto entrará en vigor el día 1º de Enero de 1993, previa publi
 ###### ARTICULO SEGUNDO.
 
 Por lo que concierne al Impuesto sobre Adquisición de Bienes Inmuebles, en tratándose de operaciones traslativas de dominio de predios suburbanos o ubicadas en zonas turísticas, la autoridad competente mandará se practiquen avalúos especiales para los efectos procedentes.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Envíese un ejemplar del Periódico Oficial a la Coordinación General con Entidades Federativas dependiente de la Secretaría de Hacienda y Crédito Público.
