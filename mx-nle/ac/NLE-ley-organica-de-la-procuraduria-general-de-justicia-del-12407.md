@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-procuraduria-general-de-justicia-del-12407"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-09-14"
-last_updated: "1998-09-14"
+last_updated: "2002-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2002.
 
 Ley publicada en el Periódico Oficial, el 14 de septiembre de 1998.
 
@@ -535,7 +535,9 @@ I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civi
 
 II.- Acreditar ser de notoria buena conducta y reconocida solvencia moral, no haber sido condenado por sentencia irrevocable como responsable de delito doloso, o por delito culposo calificado como grave por la Ley, ni estar sujeto a proceso penal;
 
-III.- Ser Licenciado en Derecho, con título legalmente expedido y registrado en la Dirección General de Profesiones de la Secretaría de Educación Pública, con práctica de cuando menos cinco años antes de su designación. En el caso de los Delegados, podrán ser Pasantes de Derecho y no actuarán en los cuatro primeros Distritos Judiciales hasta en tanto obtengan su Título Profesional, el que deberán poseer dentro del plazo de dos años, contados a partir del día siguiente en que se les expida su nombramiento; de no cumplirse con lo anterior serán removidos de su cargo.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2002)</small>
+
+III.- Ser Licenciado en Derecho, con título legalmente expedido y registrado en la Dirección General de Profesiones de la Secretaría de Educación Pública, con práctica suficiente en la materia, evaluada en los términos de lo dispuesto por la Fracción IV de este mismo Artículo. En el caso de los Delegados, podrán ser Pasantes de Derecho y no actuarán en los cuatro primeros Distritos Judiciales hasta en tanto obtengan su Título Profesional, el que deberán poseer dentro del plazo de dos años, contados a partir del día siguiente en que se les expida su nombramiento; de no cumplirse con lo anterior serán removidos de su cargo;
 
 IV.- Aprobar el concurso de ingreso y los cursos de formación inicial o básica que imparta el Instituto de Formación Profesional u otras instituciones cuyos estudios sean reconocidos por el Instituto;
 
@@ -834,3 +836,9 @@ LIC. JOSE LUIS COINDREAU GARCIA
 EL C. PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 
 LIC. JOSE SANTOS GONZALEZ SUAREZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE OCTUBRE DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Estado
