@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-adjudicacion-de-obra-publica-para-el-5253"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-08-11"
-last_updated: "1995-08-11"
+last_updated: "2000-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 REGLAMENTO DE ADJUDICACION DE OBRA PUBLICA EN EL MUNICIPIO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2000.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 11 de agosto de 1995.
 
@@ -53,9 +53,13 @@ El presente reglamento es de orden público de interés social y tiene por objet
 
 Para los efectos de este Reglamento se considera obra pública municipal aquella que realiza el municipio conforme a los planes, programas y proyectos con cargo a su erario y que tengan por objeto crear, construir, conservar, demoler o modificar bienes inmuebles, que por su naturaleza o por disposición de la Ley, estén destinados a un servicio público o al uso común. Quedando comprendidos los que tiendan a mejorar y utilizar los recursos agropecuarios municipales, así como los trabajos que tengan por objeto la conservación y la preservación del entorno ecológico. De igual manera, aquellos trabajos cuyo propósito sea la explotación y desarrollo de los recursos naturales.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
+
 ###### Artículo 3.
 
-La aplicación del presente Reglamento compete al Comité de Adjudicación de Obras Públicas, cuando el monto sea superior al máximo fijado por el Congreso del Estado, en los términos del último párrafo del artículo 29 de la Ley de Obras Públicas para el Estado y los Municipios del Estado de Guanajuato, en el caso de la adjudicación de obra pública a través de licitación. En el supuesto de que el monto de la obra sea inferior al anteriormente señalado, será competente el Presidente Municipal en acuerdo con el Director General de Obras Públicas Municipales y el Tesorero Municipal, en los términos del artículo 15 fracción I del presente Reglamento para el caso de la adjudicación directa.
+La aplicación del presente Reglamento compete al Comité de Adjudicación de Obras Públicas, cuando el monto sea superior al limite máximo fijado por el Congreso del Estado para la Adjudicación directa, en los términos del Artículo 64 de la Ley de Obras Públicas para el Estado y los Municipios de Guanajuato.
+
+En el supuesto de que el monto de la obra sea inferior al anteriormente señalado, será competente el Presidente Municipal en acuerdo con el Director General de Obras Públicas Municipales y la asesoría en su caso del Tesorero Municipal, en los términos del artículo 15 fracción I del presente Reglamento para el caso de la adjudicación directa.
 
 ###### Artículo 4.
 
@@ -67,25 +71,29 @@ DE LA INTEGRACION Y FUNCIONAMIENTO DEL COMITE DE ADJUDICACION DE OBRAS PUBLICAS
 
 ### CAPITULO I. DE LA INTEGRACION
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
+
 ###### Artículo 5.
 
-El Comité de Adjudicación de Obras Públicas está integrado de la manera siguiente:
+El Comité de Adjudicación de Obras Públicas estará integrado por siete miembros, de la manera siguiente:
 
-I.- El Presidente Municipal;
+I. El Presidente Municipal;
 
-II.- El Tesorero Municipal;
+II. El Tesorero Municipal;
 
-III.- El Director de Obras Públicas;
+III. El Director de Obras Públicas;
 
-IV.- El Contralor Municipal; y
+IV. El Contralor Municipal; y
 
-V.- Un miembro del cabildo.
+V. Tres miembros del cabildo, uno por cada (sic) de las fracciones políticas con mayor responsabilidad, todos con derecho a voz y voto.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
 
 ###### Artículo 6.
 
-El Comité estará integrado por un Coordinador, que será el Tesorero Municipal; y un Secretario, que será el Director General de Obras Públicas Municipales. Todos los demás miembros tendrán el carácter de vocales.
+El Comité estará integrado por un Coordinador, que será el Director General de Obras Públicas Municipales; y un Secretario, que será el Tesorero Municipal. Todos los demás miembros tendrán el carácter de vocales.
 
-El representante del cabildo será designado por el mismo dentro de la primera sesión ordinaria del Ayuntamiento, al inicio de sus funciones. En el caso de los otros funcionarios municipales, serán designados por el Presidente Municipal; nombramientos que deberán darse a conocer al Ayuntamiento en pleno.
+Los representantes del cabildo serán designados por él mismo dentro de la primera sesión ordinaria del Ayuntamiento, al inicio de sus funciones. En el caso de los otros funcionarios municipales, serán designados por el Presidente Municipal nombramiento que deberá darse a conocer al Ayuntamiento en pleno.
 
 ###### Artículo 7.
 
@@ -97,9 +105,11 @@ Dentro de los primeros 60 días de cada administración, el Presidente Municipal
 
 El Comité funcionará bajo la dirección del Coordinador y todos sus integrantes tendrán voz y voto y sus acuerdos se tomarán por mayoría de votos.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
+
 ###### Artículo 9.
 
-Para que el Comité actúe válidamente, es precisa la presencia de todos y cada uno de sus miembros, pudiendo como única excepción, el Presidente Municipal designar a un representante para tal efecto.
+Para que el Comité actúe validamente, es necesaria la presencia de las tres cuartas partes de los integrantes, pudiendo como única excepción el Presidente Municipal, designar a un representante para tal efecto.
 
 ###### Artículo 10.
 
@@ -109,99 +119,127 @@ El Comité de Adjudicación de obras, sesionará cuantas veces sea necesario, pr
 
 Las sesiones serán publicas y tendrán verificativo en el lugar y hora en que se establezca en la convocatoria, debiendo levantar el Secretario acta circunstanciada para constancia, incorporando al acta los documentos relacionados con la misma.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
+
 ###### Artículo 12.
 
 Compete al Coordinador del Comité:
 
-I.- Convocar a las sesiones del Comité por conducto del Secretario;
+I. Convocar a las sesiones del Comité;
 
-II.- Conducir el desarrollo y funcionamiento de las sesiones del Comité;
+II. Conducir el desarrollo y funcionamiento de las sesiones del Comité;
 
-III.- Autorizar conjuntamente con el Presidente Municipal, la adjudicación de la obra pública, cuando el monto de ésta no rebase el monto establecido en el artículo 3 del presente Reglamento;
+III. Autorizar conjuntamente con el Presidente Municipal, la adjudicación de la obra pública, cuando el monto de ésta no rebase el monto establecido en el artículo 3 del presente Reglamento;
 
-IV.- Informar al Cabildo del funcionamiento del Comité, en forma mensual;
+IV. Dictar las medidas necesarias para el debido cumplimiento de los acuerdos resueltos por el Comité;
 
-V.- Dictar las medidas necesarias para el debido cumplimiento de los acuerdos resueltos por el Comité; y
+V. Proporcionar el Comité cuando sea necesario los datos de los miembros del Padrón de Contratistas registrados ante la Dirección General de Obras Públicas Municipales y;
 
-VI.- Las demás que le sean asignadas por la Ley, el Presidente Municipal, el Cabildo o por la Comisión.
+VI. Las demás que le sean asignadas por la Ley de Obra Pública para el Estado y los Municipios, el Presidente Municipal, el Cabildo o la Comisión.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
 
 ###### Artículo 13.
 
 Compete al Secretario del Comité:
 
-I.- Levantar actas circunstanciadas de cada sesión del Comité;
+I. Levantar actas circunstanciadas de cada sesión del Comité;
 
-II.- Convocar por su conducto a las sesiones del Comité cuando así lo disponga el Coordinador;
+II. Convocar por su conducto a las sesiones del Comité cuando así lo disponga el Coordinador;
 
-III.- Proporcionar al Comité los datos de los miembros del Padrón de Contratistas registrados ante la Dirección General de Obras Públicas Municipales; y
+III. Informar al Cabildo del funcionamiento del Comité, en forma mensual y;
 
-IV.- Las demás que les sean asignadas por el Presidente Municipal, el Cabildo o la Comisión.
+IV. Las demás que le sean asignadas por el Presidente Municipal, el Cabildo o la Comisión.
 
 T I T U L O I I I
 
 ### CAPITULO UNICO. FACULTADES DEL COMITE DE OBRAS PUBLICAS
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
+
 ###### Artículo 14.
 
-Son facultades del Comité de Adjudicación de Obras Públicas:
+Son facultades del Comité de adjudicación de Obras Públicas:
 
-I.- Seleccionar al Contratista o Contratistas para la ejecución de cada obra pública municipal de conformidad a los términos establecidos en el presente Reglamento, a través de la modalidad de licitación pública;
+I. Seleccionar al Contratista o Contratistas, para la ejecución de cada obra pública municipal o con participación de otros fondos, de conformidad a los términos establecidos en el presente Reglamento a través de la modalidad de licitación pública;
 
-II.- Aplicar los sistemas y procedimientos que regulen la asignación y adjudicación de la obra pública municipal, en concordancia a lo establecido por los artículos 2 y 3 del presente Reglamento;
+II. Aplicar los sistemas y procedimientos que regulen la asignación y adjudicación de la obra pública municipal o con participación de otros fondos, en concordancia a lo establecido por los artículos 2 y 3 del presente Reglamento;
 
-III.- Convocar a licitaciones públicas para adjudicación de contratos de obra pública, así como participarle de tales convocatorias a los Colegios de Ingenieros Civiles y Arquitectos locales;
+III. Convocar a licitaciones públicas para adjudicación de contratos de obra pública, así como participarle de tales convocatorias a los Colegios de Ingenieros Civiles y Arquitectos locales;
 
-IV.- Resolver en base al análisis comparativo de las proposiciones, emitiendo dictamen funcado (sic) y motivado sobre las consideraciones resueltas, de conformidad a lo establecido por la Ley de Obras Públicas para el Estado y los Municipios de Guanajuato, sobre la adjudicación para la ejecución de obras públicas; y
+IV. Resolver sobre la base del análisis comparativo de las proposiciones, emitiendo dictamen fundado y motivado sobre las consideraciones resueltas, de conformidad a lo establecido por la Legislación Federal o Estatal en materia de Obra Pública, dependiendo del origen de los recursos, sobre la adjudicación para la ejecución de obras públicas y;
 
-V.- Aprobar, en su caso, la adjudicación de las obras licitadas.
+V. Aprovechar, en su caso, la adjudicación de las obras licitadas.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
 
 ###### Artículo 15.
 
-Atendiendo a los montos de la obra, ésta podrá ser:
+Atendiendo a los montos de la obra, ésta podrá ser contratada:
 
-I.- De Adjudicación Directa, cuando su importe se sujete a lo previsto en el artículo 3 del presente Reglamento.
+I. En la modalidad de adjudicación Directa, cuando su importe se sujete a lo previsto en el segundo párrafo del artículo 3 del presente Reglamento, así como a los montos máximos y límites que se mencionan en el artículo 64 de la Ley de Obra Pública para el Estado y los Municipios de Guanajuato.
 
-En este caso y sin necesidad de convocatoria pública, el Presidente Municipal en acuerdo con el Director General de Obras Públicas Municipales y Tesorero Municipal, acordará la ejecución de la obra y gasto correspondiente estableciendo los medios de control pertinentes a fin de garantizar el destino de los recursos. Lo anterior se hará de conformidad a lo previsto por el artículo 17 del presente Reglamento.
+En este caso y sin necesidad de convocatoria pública, el Presidente Municipal en acuerdo con el Director General de Obras Públicas determinará la ejecución de la obra y el gasto correspondiente, estableciendo los medios de control pertinentes a fin de garantizar el destino de los recursos. Lo anterior se hará de conformidad a lo previsto por el artículo 17 del presente Reglamento.
 
-El Municipio bajo su responsabilidad podrá realizar o contratar las obras que se contemplan en los supuestos del artículo 49 de la Ley de Obras Públicas y los Municipios de Guanajuato.
+El Coordinador del Comité de Adjudicación de Obras Públicas deberá pasar un listado periódicamente al H. Ayuntamiento de las Obras asignadas bajo esta modalidad;
 
-II.- De Adjudicación por Licitación Pública, será cuando la cuantía de la obra presupuestada rebase la adjudicación directa, mediante convocatoria, para que libremente se presenten proposiciones en sobre cerrado y de acuerdo a las bases que aquella contenga, dicho sobre será abierto públicamente, a fin de asegurar al municipio las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+II. En la modalidad de adjudicación por invitación restringida, cuando su importe se sujete a los montos máximos y límites establecidos según las disposiciones del artículo 60 de la Ley de Obra Pública para el Estado y los Municipios de Guanajuato y;
+
+III. En la modalidad de adjudicación por licitación pública, cuando la cuantía de la obra presupuestada rebase la posibilidad de adjudicación mediante invitación restringida para que libremente se presente proposiciones en sobres cerrados y de acuerdo a las bases que aquella contenga, dichos sobres serán cubiertos en un acto de presentación de apertura de propuestas, a fin de asegurar al Municipio las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+El fallo mediante el cual se adjudicará el contrato respectivo, se dará a conocer en un (sic) junta a la que previamente serán convocados los participantes.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
 
 ###### Artículo 16.
 
-Cuando existan circunstancias extraordinarias o previsibles, producidas por fenómenos naturales o por caso fortuito o de fuerza mayor, las convocatorias para los concursos no requerirán de publicación y serán dirigidas hacia las personas que cuenten con la capacidad de respuesta inmediata y los recursos técnicos, financieros y demás requisitos necesarios para el caso previa resolución fundada que califique las razones y circunstancias que concurran, debiendo informar este hecho al cabildo dentro de un plazo de 10 días hábiles contados a partir de la fecha de iniciación de las obras.
+El Municipio podrá realizar o contratar las obras que se contemplan en los supuestos del artículo 62 de la Ley de Obra Pública para el Estado y los Municipios de Guanajuato, mediante la modalidad de Adjudicación directa sin perjuicio de lo establecido en los artículos 61 y 64 de la misma Ley.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
 
 ###### Artículo 17.
 
 El procedimiento para la adjudicación directa será el siguiente:
 
-I.- Se deberá hacer invitación formal a mínimo tres contratistas, sean personas físicas morales, las que deberán estar inscritas en el Padrón de Contratistas de obra municipal y acreditar pertenecer a los Colegios de Ingenieros Civiles o Arquitectos según sea el caso y pertenecer a la Cámara de la Industria de la Construcción;
+I. Se deberá hacer invitación formal a contratistas, sean personas físicas o morales, las que deberán estar inscritas en el padrón municipal de contratistas y acreditar tener representante técnico, que a la vez esté registrado como Director Responsable de Obra, en los términos de los artículos 11 y 12 del Reglamento de Construcción y Conservación de la Fisonomía para la capital del Estado de Guanajuato y su Municipio;
 
-II.- Los contratistas deberán presentar su oferta por escrito, previa entrega de la información técnica necesaria para elaborar presupuesto;
+II. Los contratistas deberán presentar su oferta por escrito, previo análisis de la información técnica necesaria que se les proporcionará para la elaboración del presupuesto y calendario de trabajo;
 
-III.- Una vez entregadas las propuestas, éstas serán analizadas por el Presidente Municipal, quien podrá asesorarse con el Tesorero y Director de Obras Públicas Municipales, a fin de adjudicarse la obra a quien garantice los principios de precio, calidad, financiamiento, oportunidad y puntualidad.
+III. En este procedimiento se requerirá enviar y recibir respuesta positiva de cuando menos tres contratistas, excepto cuando el importe del presupuesto base sea menor al 39% del monto máximo y límite señalado anualmente por el Congreso del Estado, atendiendo las disposiciones del artículo 64 de la Ley de Obra Pública para el Estado y los Municípios de Guanajuato, ocasión esta última donde bastará la aceptación positiva y presentación de propuesta económica por un solo contratista, considerando que tal forma es la más adecuada para cubrir los necesarios requerimientos de economía, eficiencia y eficacia, con objeto de ejercer con oportunidad y agilidad los recursos destinados a satisfacer los programas de obra pública del municipio, en acciones de bajo monto, conforme al espíritu de la Ley antes citada y;
+
+IV. Una vez entregadas las propuestas, estas serán analizadas comparativamente por el Presidente Municipal y el Director de Obras Públicas Municipales, a fin de adjudicar la Obra a quien garantice los principios de precio, calidad, financiamiento, oportunidad y puntualidad, asesorándose con el Tesorero Municipal de ser necesario.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
 
 ###### Artículo 18.
 
-Para la adjudicación de contratos de obra pública, a través de licitaciones públicas se estará atento a lo dispuesto por los artículos 25 y 26 de la Ley de Obras Públicas para el Estado y Municipios de Guanajuato.
+Para la adjudicación de contratos de obra pública a través de invitación restringida, se estará a lo dispuesto por los artículos 57, 58 y 60 de la Ley de Obra Pública para el Estado y los Municipios de Guanajuato.
+
+De la misma manera para la adjudicación de contratos de obra pública a través de licitaciones públicas, se estará a lo dispuesto por los artículos del 43 al 56 de la misma Ley.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
 
 ###### Artículo 19.
 
-Tendrán preferencia para ambas modalidades de adjudicación de obra, los contratistas en igualdad de circunstancias:
+Tendrán preferencia para cualquier modalidad de adjudicación de obra, en igualdad de circunstancias y siempre que tengan la capacidad jurídica, técnica y económica para ejecutar obra pública en el Municipio de Guanajuato, los siguientes:
 
-I.- Las dependencias, organismos y entidades municipales;
+I. Las dependencias, organismos y entidades municipales;
 
-II.- Entidades públicas estatales;
+II. Entidades públicas y estatales;
 
-III.- Sociedades cooperativas y empresas ejidales;
+III. Sociedades Cooperativas y empresas ejidales;
 
-IV.- Personas físicas o morales, privadas o mixtas Guanajuatenses; y
+IV. Personas físicas o morales, privadas y mixtas guanajuatenses;
 
-V.- Empresas nacionales o extranjeras.
+V. Empresas nacionales y;
+
+VI. Empresas extranjeras.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
 
 ###### Artículo 20.
 
-Los Contratistas a los cuales se adjudique la obra pública en los términos del presente Reglamento, deberán reunir los requisitos que establece la Ley de Obra Pública del Estado y los Municipios de Guanajuato, de conformidad con el artículo 20, en relación con el Capítulo III, del mismo ordenamiento.
+Los contratistas a los cuales se adjudique la obra pública en los términos del presente reglamento, deberán reunir los requisitos que establece la Ley de Obra Pública del Estado y los Municipios de Guanajuato, de conformidad con el artículo 30 en relación con el título tercero del mismo ordenamiento.
 
 T I T U L O V (SIC)
 
@@ -227,9 +265,11 @@ Si el infractor no tiene el carácter de servidor público, se le impondrán las
 
 Contra la resolución que contenga el fallo del Comité o del Presidente Municipal, según sea el caso, no procederá recurso alguno.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
+
 ###### Artículo 25.
 
-Contra cualquier acto de autoridad que se dicte con motivo de la aplicación del presente Reglamento, excepto el contenido en el artículo anterior, procederá el recurso de revocación en los términos previstos por el artículo 63 de la Ley de Obra Pública para el Estado y los Municipios de Guanajuato, dirigido al Ayuntamiento, el cual será competente para conocerlo y sustanciarlo.
+Contra cualquier acto de autoridad que se dicte con motivo de la aplicación del presente reglamento, excepto el contenido del artículo anterior, procederá el recurso de revocación en los términos previstos por los artículos 103 y 106 de la Ley de Obra Pública para el Estado y los Municipios de Guanajuato, mediante escrito que se sujete a los requisitos establecidos por el artículo 104 de la misma Ley, dirigido al H. Ayuntamiento, lo cual encuadra en los supuestos del artículo 18 del presente reglamento.
 
 T R A N S I T O R I O S
 
@@ -252,3 +292,15 @@ LIC. ARNULFO VAZQUEZ NIETO.
 EL SECRETARIO DEL H. AYUNTAMIENTO
 
 LIC. CARLOS TORRES RAMIREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 21 DE ENERO DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente acuerdo entrará en vigor al cuarto día de su publicación en el periódico oficial del Gobierno del Estado de Guanajuato.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan los artículos relacionados con las modificaciones del presente acuerdo, para quedar vigentes en los términos aquí expresados.
