@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "2000-08-25"
+last_updated: "2000-08-31"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-06-17"
 
 ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 2000.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -319,15 +319,19 @@ XX.- VIGESIMO CIRCUITO:
 
 1.- Dos tribunales colegiados y un tribunal unitario, con residencia en la ciudad de Tuxtla Gutiérrez.
 
-2.- Cuatro juzgados de distrito: dos con sede en la ciudad de Tuxtla Gutiérrez y dos con residencia en la ciudad de Tapachula.
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 62/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE AGOSTO DE 2000)</small>
+
+2.- Seis juzgados de distrito: tres con sede en la ciudad de Tuxtla Gutiérrez y tres con residencia en la ciudad de Tapachula.
 
 XXI.- VIGESIMO PRIMER CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 42/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, GUERRERO, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOCUARTO DEL ACUERDO GENERAL NUMERO 63/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE AGOSTO DE 2000)</small>
 
-1.- Tres tribunales colegiados y un tribunal unitario, con sede en la ciudad de Chilpancingo.
+1.- Dos tribunales colegiados y un tribunal unitario, con residencia en la ciudad de Chilpancingo, así como dos tribunales colegiados y un tribunal unitario con residencia en la ciudad de Acapulco.
 
-2.- Cinco juzgados de distrito: uno con residencia en la ciudad de Chilpancingo, tres con sede en la ciudad de Acapulco y uno con residencia en la ciudad de Iguala.
+> <small>(REFORMADO POR EL PUNTO DECIMOCUARTO DEL ACUERDO GENERAL NUMERO 63/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE AGOSTO DE 2000)</small>
+
+2.- Seis juzgados de distrito: uno con residencia en la ciudad de Chilpancingo, cuatro con sede en la ciudad de Acapulco y uno con residencia en la ciudad de Iguala.
 
 XXII.- VIGESIMO SEGUNDO CIRCUITO:
 
@@ -437,7 +441,13 @@ En relación con el tribunal unitario con sede en Ciudad Reynosa, su jurisdicci�
 
 XX.- VIGESIMO CIRCUITO: Estado de Chiapas.
 
+> <small>(REFORMADA POR EL PUNTO DECIMOQUINTO DEL ACUERDO GENERAL NUMERO 63/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE AGOSTO DE 2000)</small>
+
 XXI.- VIGESIMO PRIMER CIRCUITO: Estado de Guerrero.
+
+Respecto de los tribunales colegiados y del tribunal unitario con residencia en la ciudad de Chilpancingo, su jurisdicción territorial será igual a la establecida para los juzgados de distrito en el Estado de Guerrero, con sede en la citada ciudad y en la de Iguala.
+
+En cuanto a los tribunales colegiados y al tribunal unitario con residencia en la ciudad de Acapulco, su jurisdicción territorial será la misma que la establecida para los juzgados de distrito en el Estado de Guerrero, con sede en dicha ciudad.
 
 > <small>(REFORMADA POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 11/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2000)</small>
 
@@ -647,9 +657,13 @@ Los Juzgados Noveno y Décimo de Distrito en el Estado de Tamaulipas, con reside
 
 XX.- VIGESIMO CIRCUITO:
 
-Los Juzgados Primero y Segundo de Distrito en el Estado de Chiapas, con residencia en la ciudad de Tuxtla Gutiérrez, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Acala, Altamirano, Amatán, Amatenango del Valle, Angel Albino Corzo, Berriozábal, Bochil, Catazajá, Chalchihuitán, Chamula, Chanal, Chapultenango, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Chicomuselo, Chilón, Cintalapa, Coapilla, Comitán de Domínguez, Copainalá, El Bosque, Francisco León, Huitiupán, Huixtán, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, Larrainzar, La Concordia, La Libertad, Las Margaritas, La Trinitaria, La Independencia, Las Rosas, Mitontic, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Sabanilla, Salto de Agua, San Cristóbal de las Casas, San Fernando, San Juan Cancuc, San Lucas, Simojovel, Sitalá, Socoltenango, Solosuchiapa, Soyaló, Suchiapa, Sunuapa, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Totolapa, Tumbalá, Tuxtla Gutiérrez, Tzimol, Venustiano Carranza, Villa Corzo, Villaflores, Yajalón y Zinacantán.
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 62/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE AGOSTO DE 2000)</small>
 
-Los Juzgados Tercero y Cuarto de Distrito en el Estado de Chiapas, con residencia en la ciudad de Tapachula, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Acacoyahua, Acapetahua, Amatenango de la Frontera, Arriaga, Bejucal de Ocampo, Bella Vista, Cacahoatán, El Porvenir, Escuintla, Frontera Comalapa, Frontera Hidalgo, Huehuetán, Huixtla, La Grandeza, Mapastepec, Mazapa de Madero, Mazatán, Metapa, Motozintla, Pijijiapan, Siltepec, Suchiate, Tapachula, Tonalá, Tuxtla Chico, Tuzantán, Unión Juárez y Villa Comaltitlán.
+Los Juzgados de Distrito en el Estado de Chiapas, con residencia en la ciudad de Tuxtla Gutiérrez, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Acala, Altamirano, Amatán, Amatenango del Valle, Angel Albino Corzo, Berriozábal, Bochil, Catazajá, Chalchihuitán, Chamula, Chanal, Chapultenango, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Chicomuselo, Chilón, Cintalapa, Coapilla, Comitán de Domínguez, Copainalá, El Bosque, Francisco León, Huitiupán, Huixtán, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, Larrainzar, La Concordia, La Libertad, Las Margaritas, La Trinitaria, La Independencia, Las Rosas, Mitontic, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Sabanilla, Salto de Agua, San Cristóbal de las Casas, San Fernando, San Juan Cancuc, San Lucas, Simojovel, Sitalá, Socoltenango, Solosuchiapa, Soyaló, Suchiapa, Sunuapa, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Totolapa, Tumbalá, Tuxtla Gutiérrez, Tzimol, Venustiano Carranza, Villa Corzo, Villaflores, Yajalón y Zinacantán.
+
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 61/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE AGOSTO DE 2000)</small>
+
+Los Juzgados de Distrito en el Estado de Chiapas, con residencia en la ciudad de Tapachula, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Acacoyahua, Acapetahua, Amatenango de la Frontera, Arriaga, Bejucal de Ocampo, Bella Vista, Cacahoatán, El Porvenir, Escuintla, Frontera Comalapa, Frontera Hidalgo, Huehuetán, Huixtla, La Grandeza, Mapastepec, Mazapa de Madero, Mazatán, Metapa, Motozintla, Pijijiapan, Siltepec, Suchiate, Tapachula, Tonalá, Tuxtla Chico, Tuzantán, Unión Juárez y Villa Comaltitlán.
 
 XXI.- VIGESIMO PRIMER CIRCUITO:
 
@@ -657,7 +671,9 @@ XXI.- VIGESIMO PRIMER CIRCUITO:
 
 El Juzgado Primero de Distrito en el Estado de Guerrero, con residencia en la ciudad de Chilpancingo, ejercerá jurisdicción territorial en el distrito judicial conformado por los Municipios de: Acatepec, Ahuacotzingo, Alcozauca de Guerrero, Alpoyeca, Atlamajalcingo del Monte, Atlixtac, Copanatoyac, Cualác, Chilapa de Alvarez, Chilpancingo de los Bravo, Eduardo Neri, General Heliodoro Castillo, Huamuxtitlán, Leonardo Bravo, Malinaltepec, Metlatónoc, Mochitlán, Olinalá, Quechultenango, Tixtla de Guerrero, Tlacoapa, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Xalpatláhuac, Xochihuehuetlán, Zapotitlán Tablas y Zitlala.
 
-Los Juzgados Segundo, Tercero y Cuarto de Distrito en el Estado de Guerrero, con residencia en la ciudad de Acapulco, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Acapulco de Juárez, Atoyac de Alvarez, Ayutla de los Libres, Azoyú, Benito Juárez, Coahuayutla de José María Izazaga, Copala, Coyuca de Benítez, Cuajinicuilapa, Cuautepec, Florencio Villarreal, Igualapa, José Azueta, Juan R. Escudero, La Unión de Isidoro Montes de Oca, Ometepec, Petatlán, San Luis Acatlán, San Marcos, Tecoanapa, Tecpan de Galeana, Tlacoachistlahuaca y Xochistlahuaca.
+> <small>(REFORMADO POR EL PUNTO DECIMOSEXTO DEL ACUERDO GENERAL NUMERO 63/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE AGOSTO DE 2000)</small>
+
+Los Juzgados Segundo, Tercero, Cuarto y Sexto de Distrito en el Estado de Guerrero, con residencia en la ciudad de Acapulco, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Acapulco de Juárez, Atoyac de Alvarez, Ayutla de los Libres, Azoyú, Benito Juárez, Coahuayutla de José María Izazaga, Copala, Coyuca de Benítez, Cuajinicuilapa, Cuautepec, Florencio Villarreal, Igualapa, José Azueta, Juan R. Escudero, La Unión de Isidoro Montes de Oca, Ometepec, Petatlán, San Luis Acatlán, San Marcos, Tecoanapa, Tecpan de Galeana, Tlacoachistlahuaca y Xochistlahuaca.
 
 > <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL NUMERO 31/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 1998)</small>
 
@@ -823,7 +839,7 @@ TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en e
 
 D.O.F. 9 DE SEPTIEMBRE DE 1999.
 
-ACUERDO GENERAL NUMERO 24/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+ACUERDO GENERAL NUMERO 25/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
 
 PRIMERO.- Este Acuerdo entrará en vigor el día treinta de septiembre de mil novecientos noventa y nueve.
 
@@ -949,7 +965,7 @@ SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación
 
 D.O.F. 13 DE MARZO DE 2000.
 
-ACUERDO GENERAL NUMERO 9/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+ACUERDO GENERAL NUMERO 9/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
 
 PRIMERO.- Este Acuerdo entrará en vigor el día veintisiete de marzo del año dos mil.
 
@@ -957,7 +973,7 @@ SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en e
 
 D.O.F. 13 DE MARZO DE 2000.
 
-ACUERDO GENERAL NUMERO 10/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+ACUERDO GENERAL NUMERO 10/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
 
 PRIMERO.- Este Acuerdo entrará en vigor el día tres de abril del año dos mil.
 
@@ -965,7 +981,7 @@ SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación
 
 D.O.F. 13 DE MARZO DE 2000.
 
-ACUERDO GENERAL NUMERO 11/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+ACUERDO GENERAL NUMERO 11/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
 
 PRIMERO.- Este Acuerdo entrará en vigor el día tres de abril del año dos mil.
 
@@ -1057,7 +1073,7 @@ SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en e
 
 D.O.F. 16 DE AGOSTO DE 2000.
 
-ACUERDOGENERAL NUMERO 46/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+ACUERDO GENERAL NUMERO 46/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
 
 PRIMERO.- Este Acuerdo entrará en vigor el dieciocho de agosto de dos mil.
 
@@ -1134,3 +1150,27 @@ ACUERDO GENERAL NUMERO 55/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
 PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 31 DE AGOSTO DE 2000.
+
+ACUERDO GENERAL NUMERO 61/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 31 DE AGOSTO DE 2000.
+
+ACUERDO GENERAL NUMERO 62/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 31 DE AGOSTO DE 2000.
+
+ACUERDO GENERAL NUMERO 63/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
