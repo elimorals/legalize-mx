@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-informacion-estadistica-y-geografica-del-estado-de-20098
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-12"
-last_updated: "2001-02-12"
+last_updated: "2001-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INFORMACION ESTADISTICA Y GEOGRAFICA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el 12 de febrero de 2001.
 
@@ -79,7 +79,9 @@ B) Los Poderes Legislativo y Judicial del Estado;
 
 C) Las dependencias y entidades de la Administración Pública Federal, así como los Poderes Legislativo y Judicial de la Federación conforme a los convenios respectivos;
 
-V.- Sistema Estatal de Información, en lo sucesivo "Sistema Estatal": son las instituciones públicas a que se refiere la fracción anterior, así como las entidades particulares y los grupos sociales interesados, organizados bajo una estructura conceptual predeterminada, por la Coordinación General, que permite mostrar la situación e interdependencia de los fenómenos económicos, demográficos y sociales, así como su relación con el medio físico y el espacio territorial; sin perjuicio de las facultades que en esta materia correspondan a dichas dependencias conforme a ésta y otras leyes;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+V.- Sistema Estatal de Información, en lo sucesivo "Sistema Estatal": son las instituciones públicas a que se refiere la Fracción anterior, así como las entidades particulares y los grupos sociales interesados, organizados bajo una estructura conceptual predeterminada por la Secretaría de Planeación que permite mostrar la situación e interdependencia de los fenómenos económicos, demográficos y sociales, así como su relación con el medio físico y el espacio territorial; sin perjuicio de las facultades que en esta materia correspondan a dichas dependencias conforme a ésta y otras leyes;
 
 VI.- Informática: Tecnología para el procesamiento electrónico de datos;
 
@@ -93,9 +95,13 @@ X.- Dependencias y Entidades Estatales: Las que forman parte de la Administraci�
 
 XI.- Dependencias y Entidades Federales: Las que forman parte de la Administración Pública Federal;
 
-XII.- Coordinación General: La del Comité de Planeación para el Desarrollo del Estado de Aguascalientes; y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
-XIII. Coordinador del Sistema: Al titular de la Coordinación General.
+XII.- Secretaría: La Secretaría de Planeación del Estado de Aguascalientes; y
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+XIII. Coordinador del Sistema: Al titular de la Secretaría.
 
 ###### Artículo 4o.
 
@@ -103,17 +109,23 @@ Son autoridades en materia de información estadística y geográfica:
 
 I.- El Gobernador del Estado;
 
-II. El Coordinador General del Comité de Planeación para el Desarrollo del Estado; y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+II. El Secretario de Planeación del Estado; y
 
 III.- Las dependencias y entidades de la Administración Pública Estatal conforme a las facultades que ésta y otras leyes les confieran.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### Artículo 5o.
 
-Las facultades que la presente ley confiere al Ejecutivo Estatal se ejercerán por conducto de la Coordinación General, sin perjuicio de las que correspondan a otras dependencias de la Administración Pública Estatal conforme a otras disposiciones legales.
+Las facultades que la presente Ley confiere al Ejecutivo Estatal se ejercerán por conducto de la Secretaría, sin perjuicio de las que correspondan a otras dependencias de la Administración Pública Estatal conforme a otras disposiciones legales.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### Artículo 6o.
 
-Las Dependencias y Entidades Estatales que ejerzan funciones directamente relacionadas con la información estadística y geográfica, deben reportar sus cifras al Gobernador del Estado, a través de la Coordinación General a fin de que las mismas sean utilizadas por este último, dentro del Sistema Estatal. En la utilización de esta información, la Coordinación General, debe hacer mención de la dependencia o entidad fuente, dando el crédito de la información correspondiente.
+Las Dependencias y Entidades Estatales que ejerzan funciones directamente relacionadas con la información estadística y geográfica, deben reportar sus cifras al Gobernador del Estado, a través de la Secretaría a fin de que las mismas sean utilizadas por esta última, dentro del Sistema Estatal. En la utilización de esta información, la Secretaría debe hacer mención de la dependencia o entidad fuente, dando el crédito de la información correspondiente.
 
 ###### Artículo 7o.
 
@@ -133,7 +145,9 @@ I.- La generación de estadísticas respecto de hechos económicos, demográfico
 
 II.- La organización y el levantamiento de encuestas económicas y sociodemográficas, y la integración de las cuentas Estatales, las estadísticas y los indicadores derivados de la actividad económica y social;
 
-III.- Las estadísticas permanentes, básicas o derivadas, las cuentas estatales, los indicadores y la información geográfica que elaboren las dependencias y entidades, instituciones públicas, sociales y privadas y los poderes y los servicios que en esta materia dispongan los Municipios, cuando la información que generen resultare de interés público y sea necesaria por la Coordinación General para integrar el Sistema Estatal y para prestar el servicio público de información estadística y geográfica;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+III.- Las estadísticas permanentes, básicas o derivadas, las cuentas Estatales, los indicadores y la información geográfica que elaboren las dependencias y entidades, instituciones públicas, sociales y privadas y los poderes y los servicios que en esta materia dispongan los Municipios, cuando la información que generen resultare de interés público y sea necesaria por la Secretaría para integrar el Sistema Estatal y para prestar el servicio público de información estadística y geográfica;
 
 IV.- El levantamiento y la actualización del Inventario Estatal de Estadística, que se conforma con la base de datos actualizable de información estadística y geográfica en el Estado;
 
@@ -161,9 +175,11 @@ XII.- La realización de trabajos sociográficos o semiológicos, en los términ
 
 XIII.- La función de captación, procesamiento y divulgación de la información geográfica del Estado, a que se refiere este artículo;
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### Artículo 10.
 
-Las unidades económicas y las instituciones públicas o privadas están obligadas a inscribirse en el Registro Estatal de Información Estadística y Geográfica que al efecto implemente la Coordinación General.
+Las unidades económicas y las instituciones públicas o privadas están obligadas a inscribirse en el Registro Estatal de Información Estadística y Geográfica que al efecto implemente la Secretaría.
 
 ###### Artículo 11.
 
@@ -175,19 +191,25 @@ II.- La división territorial del Estado; y
 
 III.- La orografía, hidrografía, geología y climatología del Estado.
 
-La Coordinación General, tomando en consideración los acuerdos que emita el Subcomité de Información, establecerá las políticas, normas y técnicas para uniformar la información estadística y geográfica del Estado.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+La Secretaría, tomando en consideración los acuerdos que emita el Subcomité de Información, establecerá las políticas, normas y técnicas para uniformar la información estadística y geográfica del Estado.
 
 ### CAPITULO II. Del Sistema Estatal de Información
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### Artículo 12.
 
-Se declara de interés público la integración del Sistema Estatal de Información, cuya organización, funcionamiento, coordinación, planeación de actividades y evaluación de resultados, estarán sujetos a los procedimientos y normas que al efecto establezca el Gobernador del Estado en el reglamento de esta ley, así como a los que emita la Coordinación General, los que deben observarse por las dependencias y entidades. Los Poderes, en el ámbito de su competencia, colaborarán en la integración de dicho Sistema.
+Se declara de interés público la integración del Sistema Estatal de Información, cuya organización, funcionamiento, coordinación, planeación de actividades y evaluación de resultados, estarán sujetos a los procedimientos y normas que al efecto establezca el Gobernador del Estado en el reglamento de esta ley, así como a los que emita la Secretaría, los que deben observarse por las dependencias y entidades. Los Poderes, en el ámbito de su competencia, colaborarán en la integración de dicho Sistema.
 
 La ejecución de las actividades entre el Estado y la Federación y entre el Estado y sus Municipios, deberá ser objeto de los convenios y acuerdos que se celebren para el desarrollo integral del Estado y la coordinación de las acciones relativas, respectivamente.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### Artículo 13.
 
-La ordenación y regulación de las actividades necesarias para la debida integración del Sistema Estatal se llevará a cabo a través de los programas Estatales y sectoriales de desarrollo de información estadística y geográfica. La elaboración y revisión de éstos serán responsabilidad del Subcomité de Información, para su aprobación por la Coordinación General.
+La ordenación y regulación de las actividades necesarias para la debida integración del Sistema Estatal se llevará a cabo a través de los programas Estatales y Sectoriales de Desarrollo de Información Estadística y Geográfica. La elaboración y revisión de éstos serán responsabilidad del Subcomité de Información, para su aprobación por la Secretaría.
 
 ###### Artículo 14.
 
@@ -201,7 +223,9 @@ III.- Jerarquizará los objetivos y metas a alcanzar para el desarrollo del Sist
 
 IV.- Definirá la política a que deberán ceñirse las dependencias y entidades de la Administración Pública Estatal y los Poderes en la realización de actividades relacionadas con la información estadística y geográfica, sin menoscabo de las facultades con que cuente la autoridad catastral del Estado;
 
-V.- Fijará las bases generales conforme a las cuales se centralizarán las acciones de coordinación y de carácter normativo en la Coordinación General;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+V.- Fijará las bases generales conforme a las cuales se centralizarán las acciones de coordinación y de carácter normativo en la Secretaría;
 
 VI.- Tomará en consideración la participación de las dependencias y entidades, y de los Poderes e instituciones sociales y privadas en la elaboración del programa; y
 
@@ -209,9 +233,11 @@ VII.- Garantizará el servicio público de información estadística y geográfi
 
 En la elaboración del programa se observará el exacto cumplimiento del Plan Estatal de Desarrollo y su congruencia con el Programa Nacional de Desarrollo Estadístico.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### Artículo 15.
 
-Para la integración y el desarrollo del Sistema Estatal, la Coordinación General debe:
+Para la integración y el desarrollo del Sistema Estatal, la Secretaría debe:
 
 I.- Coordinar e integrar la captación, la producción, y el procesamiento de la información estadística y geográfica, sin perjuicio de las facultades atribuidas por ley a otras dependencias; y
 
@@ -241,27 +267,35 @@ IX.- Las encuestas económicas, sociales y demográficas; y
 
 X.- Los demás registros que se obtengan por otros métodos y que se requieran en los procesos de generación de información.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### Artículo 17.
 
-Para los efectos del artículo anterior, la Coordinación General, en coordinación con las dependencias a las que competa administrar directorios de personas físicas o morales, catastro, padrones, inventarios y demás registros administrativos, civiles o financieros, promoverá, sin menoscabo de las facultades que en estas materias les corresponda a dichas dependencias conforme a la ley, la adopción de métodos y normas técnicas en la captación de los datos objeto de registro.
+Para los efectos del artículo anterior, la Secretaría en coordinación con las dependencias a las que competa administrar directorios de personas físicas o morales, catastro, padrones, inventarios y demás registros administrativos, civiles o financieros, promoverá, sin menoscabo de las facultades que en estas materias les corresponda a dichas dependencias conforme a la ley, la adopción de métodos y normas técnicas en la captación de los datos objeto de registro.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### Artículo 18.
 
-Para los efectos de la debida integración del Sistema Estatal, la Coordinación General emitirá criterios de carácter general, a fin de dar unidad a los procesos de producción de información sobre estadísticas básicas y derivadas, así como también a las características y modalidades de presentación de la información. Para este efecto, normará y unificará las clasificaciones y procedimientos operativos que se utilicen para captar, organizar, procesar y divulgar datos estadísticos y geográficos.
+Para los efectos de la debida integración del Sistema Estatal, la Secretaría emitirá criterios de carácter general, a fin de dar unidad a los procesos de producción de información sobre estadísticas básicas y derivadas, así como también a las características y modalidades de presentación de la información. Para este efecto, normará y unificará las clasificaciones y procedimientos operativos que se utilicen para captar, organizar, procesar y divulgar datos estadísticos y geográficos.
 
-La Coordinación General vigilará el cumplimiento de estas normas y está facultada para autorizar la procedencia de los instrumentos de captación, el procesamiento y la publicación de información estadística y geográfica que utilice el Servicio Estatal y Municipal previo convenio, de conformidad con las disposiciones de esta ley y de su reglamento.
+La Secretaría vigilará el cumplimiento de estas normas y está facultada para autorizar la procedencia de los instrumentos de captación, el procesamiento y la publicación de información estadística y geográfica que utilice el Servicio Estatal y Municipal previo convenio, de conformidad con las disposiciones de esta Ley y de su reglamento.
 
-Con el objeto de garantizar la homogeneidad y la comparabilidad de la información, el Subcomité de Información debe proveer y generalizar, desde la captación y procesamiento de la información, hasta la etapa de su presentación, el uso de definiciones, términos, clases, grupos, nomenclaturas, signos, abreviaturas, indicadores, directorios, símbolos, delimitaciones geográficas y demás elementos que a estos fines sean indispensables, para su aprobación por la Coordinación General.
+Con el objeto de garantizar la homogeneidad y la comparabilidad de la información, el Subcomité de Información debe proveer y generalizar, desde la captación y procesamiento de la información, hasta la etapa de su presentación, el uso de definiciones, términos, clases, grupos, nomenclaturas, signos, abreviaturas, indicadores, directorios, símbolos, delimitaciones geográficas y demás elementos que a estos fines sean indispensables, para su aprobación por la Secretaría.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### Artículo 19.
 
-La información estadística y geográfica a que se refiere esta ley, sólo podrá proporcionarse a particulares u organismos por conducto de la Coordinación General o de las unidades que formen parte del servicio Estatal, que hubieran sido autorizados por aquél, salvo la que en cumplimiento de otras disposiciones legales pueda proporcionarse. Para tal efecto, dichas unidades deberán observar las normas técnicas establecidas para la integración y divulgación de tal información.
+La información estadística y geográfica a que se refiere esta Ley, sólo podrá proporcionarse a particulares u organismos por conducto de la Secretaría o de las unidades que formen parte del Servicio Estatal, que hubieran sido autorizados por aquella, salvo la que en cumplimiento de otras disposiciones legales pueda proporcionarse. Para tal efecto, dichas unidades deberán observar las normas técnicas establecidas para la integración y divulgación de tal información.
 
 ### CAPITULO III. De las Atribuciones de las Unidades que Integran el Sistema Estatal de Información
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### Artículo 20.
 
-La Coordinación General, las unidades de información estadística y geográfica de las dependencias y entidades de la Administración Pública Estatal, las de los Poderes, y las de los Municipios, en los términos convenidos y las demás instituciones, se integrarán al Sistema Estatal, bajo la coordinación, bases, principios y normas que para tales fines se establecen en esta ley y en su reglamento.
+La Secretaría, las unidades de información estadística y geográfica de las dependencias y entidades de la Administración Pública Estatal, las de los Poderes y las de los Municipios, en los términos convenidos y las demás instituciones, se integrarán al Sistema Estatal, bajo la coordinación, bases, principios y normas que para tales fines se establecen en esta ley y en su reglamento.
 
 ###### Artículo 21.
 
@@ -271,15 +305,21 @@ I.- Ejecutar los programas estatal y sectorial de desarrollo de información est
 
 II.- Impulsar el estudio y las investigaciones en el campo del conocimiento de la estructura, el funcionamiento y la evolución de la situación económica y social del Estado y de los fenómenos de esta índole que se presenten en la región y en el resto del país; y
 
-III.- Realizar las demás actividades complementarias para el cumplimiento de las previsiones anteriores, que le sean asignadas por la Coordinación General o sean sugeridas por el Subcomité de Información.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+III.- Realizar las demás actividades complementarias para el cumplimiento de las previsiones anteriores, que le sean asignadas por la Secretaría o sean sugeridas por el Subcomité de Información.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### Artículo 22.
 
-Las unidades de las entidades de la Administración Pública Estatal responsables de la captación, generación y presentación de los datos de carácter sectorial para el Sistema Estatal serán coordinadas en la ejecución de sus funciones por la Coordinación General, debiendo además apegarse a los lineamientos establecidos por el programa sectorial de desarrollo de información estadística y geográfica respectivo y a las normas y disposiciones técnicas aplicables.
+Las unidades de las entidades de la Administración Pública Estatal responsables de la captación, generación y presentación de los datos de carácter sectorial para el Sistema Estatal serán coordinadas en la ejecución de sus funciones por la Secretaría, debiendo además apegarse a los lineamientos establecidos por el Programa Sectorial de Desarrollo de Información Estadística y Geográfica respectivo y a las normas y disposiciones técnicas aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### Artículo 23.
 
-Para la elaboración y ejecución del programa Estatal y sectorial de desarrollo de información estadística y geográfica, se instituyen las siguientes instancias de participación:
+Para la elaboración y ejecución del Programa Estatal y Sectorial de Desarrollo de Información Estadística y Geográfica, se instituyen las siguientes instancias de participación:
 
 I.- El Subcomité de Información; y
 
@@ -289,13 +329,17 @@ El Subcomité y los grupos de trabajo a que se refieren las fracciones anteriore
 
 Al Subcomité de Información y a los Grupos de Trabajo se garantizará la concurrencia de los representantes de las instituciones sociales y privadas interesadas, en su carácter de proveedoras o usuarias de los propios sistemas.
 
-La Coordinación General fungirá como Coordinador del Subcomité de Información y como Secretario Técnico de Normas en los diferentes Grupos de Trabajo.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+El Secretario de Planeación del Estado fungirá como Coordinador del Subcomité de Información y como Secretario Técnico de Normas en los diferentes Grupos de Trabajo.
 
 El Director Regional del Instituto Nacional de Estadística, Geográfica e Informática fungirá como Secretario Técnico del Subcomité de Información.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### Artículo 24.
 
-Compete al Subcomité de Información, proponer a la Coordinación General criterios de carácter general, respecto de:
+Compete al Subcomité de Información, proponer a la Secretaría criterios de carácter general, respecto de:
 
 I.- Las prioridades a señalar por el Programa Estatal de Desarrollo de Información Estadística y Geográfica;
 
@@ -311,17 +355,23 @@ VI.- La creación, la integración y las normas de funcionamiento de los Grupos 
 
 VII.- Las demás que esta Ley y su reglamento le confieran.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### Artículo 25.
 
 Compete a los Grupos de Trabajo de Información Estadística y Geográfica:
 
-I.- Elaborar y vigilar la ejecución de los programas sectoriales de desarrollo de información estadística y geográfica para su aprobación por la Coordinación General; y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+I.- Elaborar y vigilar la ejecución de los Programas Sectoriales de Desarrollo de Información Estadística y Geográfica para su aprobación por la Secretaría; y
 
 II.- Ser el conducto para transmitir y vigilar el cumplimiento de las normas y disposiciones de carácter general que se expidan para captar, procesar y presentar la información estadística y geográfica que se produzca en el sector.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### Artículo 26.
 
-Corresponde al Coordinador General, como titular de la coordinación del Sistema Estatal, ejercer las siguientes atribuciones:
+Corresponde al Secretario de Planeación del Estado como titular de la coordinación del Sistema Estatal, ejercer las siguientes atribuciones:
 
 I.- Coordinar y desarrollar el Servicio Estatal y, en su caso, Municipal, previo convenio de coordinación;
 
@@ -341,21 +391,29 @@ VIII.- Declarar cual información cumple con las normas técnicas, y los procedi
 
 IX.- Las demás que conforme a esta ley y a su reglamento le correspondan y las que fueren necesarias para ejercer las anteriores mencionadas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### Artículo 27.
 
-Al formular el proyecto de presupuesto de egresos del Estado y en el ejercicio de las partidas presupuestales autorizadas, la Coordinación General verificará que los programas relativos a la información estadística y geográfica, observen las normas establecidas en los términos de esta ley.
+Al formular el proyecto de Presupuesto de Egresos del Estado y en el ejercicio de las partidas presupuestales autorizadas, la Secretaría verificará que los programas relativos a la información estadística y geográfica, observen las normas establecidas en los términos de esta Ley.
 
-Las dependencias y entidades de la Administración Pública Estatal, en forma previa a la realización o contratación de estudios materia de esta ley, solicitarán con la justificación que corresponda, la opinión de la Coordinación General, para llevarlos a cabo.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+Las dependencias y entidades de la Administración Pública Estatal, en forma previa a la realización o contratación de estudios materia de esta ley, solicitarán con la justificación que corresponda, la opinión de la Secretaría, para llevarlos a cabo.
 
 La Secretaría de Finanzas asignará los recursos para la realización de estos trabajos, una vez obtenida la opinión favorable correspondiente y que exista la partida presupuestal, en su caso.
 
-Al término de los trabajos que se autoricen, debe entregarse una copia a la Coordinación General, para su validación y registro oficial e integración al acervo de información de la entidad, previa verificación de las metodologías y los procesos utilizados para su desarrollo.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+Al término de los trabajos que se autoricen, debe entregarse una copia a la Secretaría, para su validación y registro oficial e integración al acervo de información de la Entidad, previa verificación de las metodologías y los procesos utilizados para su desarrollo.
 
 Las dependencias vigilarán que las entidades del sector que coordinen observen lo previsto en este artículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### Artículo 28.
 
-Cuando la Coordinación General solicite apoyos para captar, producir, procesar y divulgar información estadística y geográfica, deben colaborar con la misma:
+Cuando la Secretaría solicite apoyos para captar, producir, procesar y divulgar información estadística y geográfica, deben colaborar con la misma:
 
 I.- Las dependencias y entidades de la Administración Pública Estatal;
 
@@ -369,11 +427,13 @@ V.- Los particulares.
 
 ### CAPITULO IV. De los Derechos y Obligaciones de los Usuarios e Informantes
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### Artículo 29.
 
-Para los fines de la presente ley, son usuarios del Sistema Estatal las dependencias y entidades de la Administración Pública Estatal, los Gobiernos Federal y Municipales conforme a los convenios que se signen, los Poderes, las instituciones sociales y privadas, así como los particulares que utilicen el servicio público de información estadística y geográfica.
+Para los fines de la presente Ley, son usuarios del Sistema Estatal las dependencias y entidades de la Administración Pública Estatal, los Gobiernos Federal y Municipales conforme a los convenios que se signen, los Poderes, las instituciones sociales y privadas, así como los particulares que utilicen el servicio público de información estadística y geográfica.
 
-Las Dependencias y entidades de los ámbitos Federal, Estatal y Municipal a que se refiere esta ley, podrán consultar en forma gratuita la información estadística y geográfica en los centros de servicio que al efecto establezca la Coordinación General; los particulares podrán también realizar consultas a dicha información, previo pago de los derechos establecidos en la Ley de Ingresos del Estado.
+Las dependencias y entidades de los ámbitos Federal, Estatal y Municipal a que se refiere esta Ley, podrán consultar en forma gratuita la información estadística y geográfica en los centros de servicio que al efecto establezca la Secretaría; los particulares podrán también realizar consultas a dicha información, previo pago de los derechos establecidos en la Ley de Ingresos del Estado.
 
 ###### Artículo 30.
 
@@ -421,9 +481,11 @@ Las anteriores previsiones deberán aparecer en los cuestionarios y documentos q
 
 La información que sea obtenida mediante engaño o cualquier otro medio ilícito, carecerá de validez y por lo tanto los informantes de quienes bajo estas circunstancias se hubiere obtenido tal información, independientemente del ejercicio de las acciones penales que procedan, podrán exigir ante las autoridades administrativas competentes, que dejen sin efectos la información relativa.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### Artículo 35.
 
-La Coordinación General, cuando no cuente con otros medios técnicos de comprobación de la información, estará facultada para realizar las inspecciones de verificación a que se refieren los Artículos 39 y 40, en las cuales puede solicitar la exhibición de documentos que acrediten los datos estrictamente estadísticos y geográficos que los informantes hayan proporcionado. Cuando los datos consignados en la documentación elaborada para captarlos no se encuentren en los documentos exhibidos, debe señalarse la fuente o presentarse los antecedentes que hubieran servido de base para las informaciones suministradas.
+La Secretaría, cuando no cuente con otros medios técnicos de comprobación de la información, estará facultada para realizar las inspecciones de verificación a que se refieren los Artículos 39 y 40, en las cuales puede solicitar la exhibición de documentos que acrediten los datos estrictamente estadísticos y geográficos que los informantes hayan proporcionado. Cuando los datos consignados en la documentación elaborada para captarlos no se encuentren en los documentos exhibidos, debe señalarse la fuente o presentarse los antecedentes que hubieran servido de base para las informaciones suministradas.
 
 ###### Artículo 36.
 
@@ -431,17 +493,23 @@ Los informantes están obligados a proporcionar con veracidad y oportunidad los 
 
 Los ejidatarios, propietarios, poseedores o usufructuarios de predios rústicos ubicados en el territorio Estatal cooperarán en los trabajos de campo que realicen las autoridades para recabar y proporcionar información estadística o geográfica, de la forma en que se señale en el Reglamento de esta ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### Artículo 37.
 
-Todo informante que además sea funcionario o empleado público, así como de las entidades y dependencias de la Administración Pública Estatal, tienen la obligación de proporcionar la información estadística y geográfica que se le solicite por la Coordinación General, en los términos de la presente ley.
+Todo informante que además sea funcionario o empleado público, así como de las entidades y dependencias de la Administración Pública Estatal, tiene la obligación de proporcionar la información estadística y geográfica que se le solicite por la Secretaría, en los términos de la presente Ley.
 
-Igualmente, están obligados a recabar o producir en el ámbito de sus funciones, datos para el Sistema Estatal, cuando la propia Coordinación General lo requiera de forma justificada.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+Igualmente, están obligados a recabar o producir en el ámbito de sus funciones, datos para el Sistema Estatal, cuando la propia Secretaría lo requiera de forma justificada.
 
 En caso necesario dichos funcionarios y empleados prestarán auxilio en el desempeño de cualquier actividad relacionada con la captura, la producción, el procesamiento o la divulgación de la información necesaria para la integración y desarrollo del Sistema Estatal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### Artículo 38.
 
-Quienes capten, produzcan o procesen información estadística o geográfica relativa al Sistema Estatal que se menciona en el Artículo 3°, Fracción V de esta ley, la proporcionarán cuando les sea solicitada por la autoridad competente. En todo caso, la Coordinación General estará obligada a respetar el principio de confidencialidad de los datos estadísticos y a observar las demás reservas que como derecho u obligación establezca ésta y otras leyes para el informante.
+Quienes capten, produzcan o procesen información estadística o geográfica relativa al Sistema Estatal que se menciona en el Artículo 3o., Fracción V de esta Ley, la proporcionarán cuando les sea solicitada por la autoridad competente. En todo caso, la Secretaría estará obligada a respetar el principio de confidencialidad de los datos estadísticos y a observar las demás reservas que como derecho u obligación establezcan ésta y otras leyes para el informante.
 
 Los datos de carácter estrictamente estadístico que informen los partidos y asociaciones políticas a que se refieren los Códigos Federal de Instituciones y Procedimientos Electorales y Electoral del Estado de Aguascalientes, sólo serán los relativos a su registro o inherentes a éste y en ningún caso podrá la autoridad estadística inspeccionar o verificar estos datos.
 
@@ -449,9 +517,11 @@ El registro o la recolección de los datos que en cumplimiento de esta ley deban
 
 ### CAPITULO V. De los Procedimientos, Infracciones y Sanciones
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### Artículo 39.
 
-Para fines estadísticos, la información proporcionada por los informantes será utilizada bajo la observancia de los principios de confidencialidad y reserva. Sin perjuicio de lo anterior, la Coordinación General del COPLADE, en el ejercicio de las facultades que le confiere esta ley, puede efectuar inspecciones para llevar a cabo la verificación de la información estadística y geográfica cuando los datos proporcionados sean incongruentes o incompletos.
+Para fines estadísticos, la información proporcionada por los informantes será utilizada bajo la observancia de los principios de confidencialidad y reserva. Sin perjuicio de lo anterior, la Secretaría en el ejercicio de las facultades que le confiere esta Ley, puede efectuar inspecciones para llevar a cabo la verificación de la información estadística y geográfica cuando los datos proporcionados sean incongruentes o incompletos.
 
 ###### Artículo 40.
 
@@ -473,19 +543,25 @@ IV.- El informante será requerido para que proponga dos testigos y, en su ausen
 
 El informante o la persona con quien se entienda la diligencia, los testigos y los inspectores, firmarán el acta. Si el interesado o los testigos se niegan a firmar, así lo harán constar los inspectores, sin que esta circunstancia afecte el valor probatorio del documento. Un ejemplar del acta se entregará en todo caso a la persona con quien se entienda la diligencia.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### Artículo 41.
 
-Los informantes respecto de quienes se hubiesen practicado los actos a que se refiere el artículo anterior, podrán inconformarse con los hechos asentados en el acta correspondiente, mediante escrito que deberá presentarse ante la Coordinación General, dentro de los quince días siguientes a la fecha del cierre de la misma. En el escrito de referencia se expresarán las razones de inconformidad y se ofrecerán las pruebas pertinentes, mismas que se deberán acompañar a su escrito o rendirse a más tardar dentro de los treinta días siguientes. En caso de que no se formule inconformidad, ni se ofrezcan pruebas o no se rindan las ofrecidas, se perderá el derecho de hacerlo con posterioridad y se tendrá al interesado conforme con los hechos asentados en el acta.
+Los informantes respecto de quienes se hubiesen practicado los actos a que se refiere el artículo anterior, podrán inconformarse con los hechos asentados en el acta correspondiente, mediante escrito que deberá presentarse ante la Secretaría dentro de los quince días siguientes a la fecha del cierre de la misma. En el escrito de referencia se expresarán las razones de inconformidad y se ofrecerán las pruebas pertinentes, mismas que se deberán acompañar a su escrito o rendirse a más tardar dentro de los treinta días siguientes. En caso de que no se formule inconformidad, ni se ofrezcan pruebas o no se rindan las ofrecidas, se perderá el derecho de hacerlo con posterioridad y se tendrá al interesado conforme con los hechos asentados en el acta.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### Artículo 42.
 
-Cometen infracciones a lo dispuesto por esta ley, quienes en calidad de informantes:
+Cometen infracciones a lo dispuesto por esta Ley, quienes en calidad de informantes:
 
 I.- Se nieguen a proporcionar datos, informes o a exhibir documentos cuando deban hacerlo, dentro del plazo que se les hubiera señalado;
 
 II.- Suministren datos falsos o incompletos;
 
-III.- Se opongan a las visitas del personal facultado por la Coordinación General del COPLADE para la verificación sobre la confiabilidad de la información;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+III.- Se opongan a las visitas del personal facultado por la Secretaría para la verificación sobre la confiabilidad de la información;
 
 IV.- Participen deliberadamente en actos y omisiones que entorpezcan el desarrollo de los procesos de generación de información estadística y geográfica; y
 
@@ -517,11 +593,15 @@ I.- Se nieguen a cumplir con las funciones de levantamiento de información; y
 
 II.- Violen la confidencialidad de los datos estadísticos o revelen en forma nominativa o individualizada dichos datos.
 
-Para los efectos de este artículo, son considerados como recolectores las personas a las que la Coordinación General encomiende labores propias de recolección y recopilación de información estadística y geográfica en forma periódica, y como auxiliares, quienes desempeñen cualquier otra actividad relacionada con el proceso de elaboración de la estadística y la obtención de datos de carácter geográfico.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+Para los efectos de este artículo, son considerados como recolectores las personas a las que la Secretaría encomiende labores propias de recolección y recopilación de información estadística y geográfica en forma periódica, y como auxiliares, quienes desempeñen cualquier otra actividad relacionada con el proceso de elaboración de la estadística y la obtención de datos de carácter geográfico.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### Artículo 45.
 
-La comisión de cualesquiera de las infracciones a que se refieren los Artículos 42, 43, y 44 dará lugar a que la Coordinación General aplique sanciones administrativas, que consistirán en:
+La comisión de cualesquiera de las infracciones a que se refieren los Artículos 42, 43 y 44 dará lugar a que la Secretaría aplique sanciones administrativas, que consistirán en:
 
 I.- Multa de una hasta doscientas veces el Salario Mínimo General Vigente para el Estado de Aguascalientes en el momento de la comisión de la infracción, para los supuestos de infracción a que se refieren los Artículos 42 Fracción V; 43 Fracciones VI y VII; y 44 Fracción I de esta Ley;
 
@@ -529,15 +609,19 @@ II.- Multa de doscientos una hasta cuatrocientas veces el Salario Mínimo Genera
 
 III.- Multa de cuatrocientos una hasta seiscientas veces el Salario Mínimo General Vigente para el Estado de Aguascalientes en el momento de la comisión de la infracción, para los supuestos de infracción a que se refieren los Artículos 42 Fracciones I, II y III; 43 Fracciones I, II y III; y 44 Fracción II de esta Ley.
 
-En la imposición de estas sanciones, la Coordinación General tomará en cuenta la importancia de la infracción, las condiciones del infractor, si es la primera vez que se comete la infracción o ha reincidido en ésta y la conveniencia de evitar prácticas tendientes a contravenir las disposiciones de esta ley.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+En la imposición de estas sanciones, la Secretaría tomará en cuenta la importancia de la infracción, las condiciones del infractor, si es la primera vez que se comete la infracción o ha reincidido en ésta y la conveniencia de evitar prácticas tendientes a contravenir las disposiciones de esta Ley.
 
 La aplicación de las sanciones a que se refiere este artículo, se hará con independencia de las de orden penal o administrativo que llegaren a determinar las autoridades competentes y de que se constituyan y exijan las responsabilidades de carácter civil en que hubiere incurrido el infractor.
 
 ### CAPITULO VI. Del Recurso de Revisión
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### Artículo 46.
 
-En contra de las resoluciones que dicte la Coordinación General, el particular afectado podrá interponer ante éste el recurso de revisión contemplado en la Ley del Procedimiento Administrativo del Estado de Aguascalientes o intentar las vías judiciales correspondientes.
+En contra de las resoluciones que dicte la Secretaría, el particular afectado podrá interponer ante éste el recurso de revisión contemplado en la Ley del Procedimiento Administrativo del Estado de Aguascalientes o intentar las vías judiciales correspondientes.
 
 ARTICULOS TRANSITORIOS:
 
@@ -572,3 +656,9 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2001.
+
+UNICO.- El presente decreto entrará en vigor a partir del 1o. de enero del año 2002.
