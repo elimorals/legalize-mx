@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-tenencia-o-uso-de-vehiculos-618"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1986-12-31"
+last_updated: "1987-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=618&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1980-12-19"
 
 LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1987.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 30 de diciembre de 1980.
 
@@ -36,6 +36,8 @@ DECRETO:
 "El Congreso de los Estados Unidos Mexicanos, decreta:
 
 LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
+
+> <small>N. DE E. EL PRESENTE TEXTO LEGAL NO SUFRIO REFORMAS, UNICAMENTE CONTIENE DISPOSICIONES CON VIGENCIA ANUAL PARA EL AÑO DE 1988.</small>
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -539,7 +541,7 @@ I.- Vehículos a que se refiere el artículo 5o. apartados A, fracción I, y B d
 
 II.- Vehículos comprendidos en el artículo 5o. apartado A, fracciones II y III, así como los veleros .......... 4,000.00
 
-III.- Embarcaciones distintas de las comprendidas en la fracción II .......... 18,000.00
+III.- Embarcaciones distintas de las comprendidas en la fracción II.......... 18,000.00
 
 IV.- Aeronaves .......... 115,000.00
 
@@ -787,7 +789,7 @@ d).- Embarcaciones .......... $ 103,800.00
 
 e).- Aeronaves .......... $ 664,600.00
 
-f).- Motocicletas.......... $ 144,500.00
+f).- Motocicletas .......... $ 144,500.00
 
 II.- El precio de la unidad típica de los vehículos del año modelo de aplicación de la Ley, así como de los años modelos anteriores a que hace referencia el artículo 6o., Apartado A, fracción I, inciso b) de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, será el que resulte de aplicar los siguientes factores:
 
@@ -818,3 +820,55 @@ III.- Después de aplicar lo dispuesto en el artículo 5o., Apartado A, fracció
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1987.
+
+D.O.F. 31 DE DICIEMBRE DE 1987.
+
+Disposiciones de vigencia anual
+
+###### ARTICULO VIGESIMO.
+
+Durante el año de 1988 se aplicarán en materia del Impuesto sobre Tenencia o Uso de Vehículos, las siguientes disposiciones:
+
+I.- Para los efectos del cálculo del impuesto, se dan a conocer las siguientes cantidades:
+
+a).- Vehículos a que se refiere el artículo 5o. Apartado A, fracciones II y III de la Ley de la materia .......... $ 39,600.00
+
+b).- Vehículos a que se refiere el artículo 5o. Apartado B, de la Ley de la materia .......... 42,100.00
+
+c).- Veleros .......... 52,900.00
+
+d).- Embarcaciones .......... 238,700.00
+
+e).- Aeronaves .......... 1'528,600.00
+
+f).- Motocicletas .......... 332,400.00
+
+II.- El precio de la unidad típica de los vehículos del año modelo de aplicación de la Ley, así como de los años modelo anteriores a que hace referencia el artículo 6o., Apartado A, fracción I, inciso b) de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, será el que resulte de aplicar los siguientes factores:
+
+1988 1.00
+
+1987 2.30
+
+1986 4.73
+
+1985 7.74
+
+1984 12.32
+
+1983 22.27
+
+1982 44.27
+
+1981 56.98
+
+1980 73.96
+
+1979 88.75
+
+III.- Después de aplicar lo dispuesto en el artículo 5o. Apartado A, fracción I de la Ley de la materia para vehículos de año modelo 1987 inclusive, y de año modelo anterior a dicho año, el monto del impuesto que corresponda conforme al citado precepto, se reducirá en un 20%. La reducción a que se refiere esta fracción, es independiente de la que se establece en el penúltimo párrafo del artículo 1o. de la Ley.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1988.
