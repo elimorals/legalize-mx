@@ -4,7 +4,7 @@ identifier: "LSAR"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-23"
-last_updated: "1998-01-23"
+last_updated: "1999-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2613&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSAR"
 
 LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 1999.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de mayo de 1996.
 
@@ -118,7 +118,7 @@ X. Actuar como órgano de consulta de las dependencias y entidades públicas, en
 
 XI. Celebrar convenios de asistencia técnica;
 
-XII. Recibir y tramitar las reclamaciones que formulen los trabajadores o sus beneficiarios y patrones en contra de las instituciones de crédito y administradoras conforme al procedimiento de conciliación y arbitraje establecido en esta ley y su reglamento;
+XII. (DEROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, D.O.F. 18 DE ENERO DE 1999)
 
 XlII. Rendir un informe semestral al Congreso de la Unión sobre la situación que guardan los sistemas de ahorro para el retiro.
 
@@ -302,7 +302,7 @@ XI. Emitir opinión sobre el procedimiento de contratación de seguros de vida o
 
 XII. Conocer sobre los criterios generales para la supervisión de los participantes en los sistemas de ahorro para el retiro;
 
-XIlI. Emitir opinión sobre las reglas de carácter general que en materia de publicidad y comercialización expida la Comisión;
+XIII. Emitir opinión sobre las reglas de carácter general que en materia de publicidad y comercialización expida la Comisión;
 
 XIV. Emitir opinión sobre el establecimiento de criterios generales para la substanciación del procedimiento arbitral previsto en la presente ley;
 
@@ -432,7 +432,7 @@ Las inversiones con cargo al capital mínimo pagado exigido de las administrador
 
 I. No excederá del 40% del capital mínimo pagado exigido el importe de las inversiones en mobiliario y equipo, en inmuebles, en derechos reales que no sean de garantía o en gastos de instalación, más el importe de las inversiones en el capital de las empresas que les presten servicios complementarios o auxiliares; y
 
-II. El importe restante del capital mínimo pagado exigido deberá invertirse en acciones de las sociedades de inversión que administren.
+Il. El importe restante del capital mínimo pagado exigido deberá invertirse en acciones de las sociedades de inversión que administren.
 
 La Comisión podrá autorizar un porcentaje mayor al establecido en la fracción I de este artículo sin que pueda exceder del 60%.
 
@@ -688,7 +688,7 @@ La elección de administrador por los trabajadores, implica su aceptación expre
 
 Las sociedades de inversión tendrán prohibido lo siguiente:
 
-I. Emitir obligaciones;
+. Emitir obligaciones;
 
 II. Recibir depósitos de dinero;
 
@@ -884,9 +884,9 @@ La terminación de la concesión no extingue las obligaciones pendientes de cump
 
 Las concesiones para operar la Base de Datos Nacional SAR podrán ser revocadas, oyendo previamente a la empresa operadora de que se trate, por cualquiera de las causas siguientes:
 
-l. Por dejar de cumplir con cualesquiera de los requisitos que para el otorgamiento de la concesión establecen la presente ley y su reglamento;
+I. Por dejar de cumplir con cualesquiera de los requisitos que para el otorgamiento de la concesión establecen la presente ley y su reglamento;
 
-Il. Por dejar de cumplir con el fin para el cual fue otorgada la concesión;
+II. Por dejar de cumplir con el fin para el cual fue otorgada la concesión;
 
 III. Por dar a la información objeto de la concesión un uso distinto al autorizado;
 
@@ -1336,7 +1336,7 @@ Serán sancionados con prisión de dos a diez años y multa de dos mil a veinte 
 
 I. Que dolosamente omitan registrar las operaciones efectuadas por la administradora, sociedad de inversión o empresa operadora de que se trate, o que falsifiquen, simulen, alteren o permitan que se alteren los registros para ocultar la verdadera naturaleza de las operaciones realizadas, afectando la composición de activos, pasivos, cuentas de orden o resultados; y
 
-Il. Que intencionalmente inscriban u ordenen que se inscriban datos falsos en la contabilidad de la sociedad de que se trate, o que proporcionen o permitan que se incluyan datos falsos en los documentos o informes que deban proporcionar a la Comisión o que ésta les requiera.
+II. Que intencionalmente inscriban u ordenen que se inscriban datos falsos en la contabilidad de la sociedad de que se trate, o que proporcionen o permitan que se incluyan datos falsos en los documentos o informes que deban proporcionar a la Comisión o que ésta les requiera.
 
 ###### ARTICULO 106.
 
@@ -1364,61 +1364,11 @@ Lo dispuesto en el presente capítulo, no excluye la imposición de las sancione
 
 ###### ARTICULO 109.
 
-Los trabajadores titulares de cuentas individuales de los sistemas de ahorro para el retiro y sus beneficiarios, directamente o a través de sus apoderados o representantes sindicales debidamente autorizados, así como los patrones podrán, a su elección, presentar ante la Comisión sus reclamaciones en contra de las instituciones de crédito o administradoras, o bien, hacer valer sus derechos ante los tribunales competentes.
-
-Las instituciones de crédito y administradoras estarán obligadas a someterse al procedimiento de conciliación.
-
-Los institutos de seguridad social podrán recibir las reclamaciones a que se refiere el primer párrafo de este artículo con el objeto de turnarlas a la Comisión.
-
-La Comisión deberá suplir en beneficio de los trabajadores o de sus beneficiarios la deficiencia de la reclamación en cuanto a los beneficios que les corresponden de conformidad con las disposiciones aplicables a los sistemas de ahorro para el retiro. Para tal efecto la Comisión podrá hacer uso de la información contenida en sus registros y en la Base de Datos Nacional SAR. Asimismo, la Comisión desechará aquellas reclamaciones que sean notoriamente improcedentes o las que se hubieren promovido ante los tribunales competentes.
-
-En las controversias relacionadas con los sistemas de ahorro para el retiro, el tribunal competente deberá solicitar y tomar en cuenta el dictamen técnico de la Comisión, el cual se emitirá una vez concluida la junta de avenencia a que se refiere el artículo 110 de esta ley. Los trabajadores o sus beneficiarios, así como las instituciones de crédito o administradoras podrán exhibir en juicio el dictamen técnico antes mencionado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, D.O.F. 18 DE ENERO DE 1999)
 
 ###### ARTICULO 110.
 
-El procedimiento conciliatorio y el arbitraje previstos en este artículo se sujetarán a las reglas que a continuación se señalan:
-
-l. El procedimiento conciliatorio en la vía de reclamación se deberá agotar de conformidad con las reglas siguientes:
-
-a) El reclamante presentará mediante escrito por duplicado ante la Comisión su reclamación, precisando los actos, omisiones u operaciones que reclama y las razones que tiene para hacerlo.
-
-La Comisión podrá solicitar que la reclamación sea aclarada, cuando se presente de manera vaga, general o confusa, señalando al reclamante los defectos u omisiones en que haya incurrido previniéndolo para que los subsane en el término de diez días hábiles contados a partir de la fecha en que surta efectos la notificación de este hecho. En caso de que no sean subsanados los defectos u omisiones en el término señalado, la reclamación se tendrá por no presentada.
-
-La presentación de la reclamación interrumpirá la prescripción a que se encuentran sujetas las acciones de carácter mercantil o civil que sean procedentes;
-
-b) La otra parte, dentro del término de nueve días hábiles, contado a partir de la fecha en que surta efectos la notificación, rendirá un informe por escrito y por duplicado a la Comisión, en el que contestará en forma detallada todos y cada uno de los hechos a que se refiere la reclamación.
-
-Se impondrá multa de mil a tres mil días de salario mínimo general vigente en el Distrito Federal a la institución de crédito o administradora reclamada en el supuesto de que no presente en tiempo el informe correspondiente;
-
-c) La Comisión citará a las partes a una junta de avenencia, que se realizará dentro de los treinta y cinco días hábiles contados a partir de la fecha de presentación de la reclamación. Si por cualquier circunstancia la junta no puede celebrarse en la fecha indicada, se verificará dentro de los ocho días hábiles siguientes. En todo caso, la junta de avenencia no podrá diferirse más de una vez en caso de que las partes se encuentren debidamente notificadas.
-
-Si no comparece el reclamante, sin causa justificada, se entenderá que no desea la conciliación y que es su voluntad no someter sus diferencias a juicio arbitral, siendo improcedente presentar nueva reclamación sobre el mismo caso, dejando a salvo sus derechos para que concurra ante la instancia que considere conducente. Si no comparece la institución de crédito o la administradora, a pesar de haber sido debidamente notificada y apercibida, se señalará nuevo día y hora para la celebración de la junta de avenencia y se le impondrá una multa de mil a tres mil días de salario mínimo general vigente en el Distrito Federal.
-
-A toda reclamación, una vez substanciado el procedimiento conciliatorio ante la Comisión, deberá recaer un dictamen técnico que será elaborado por el conciliador que designe aquélla.
-
-En caso de que las partes decidan someterse al arbitraje, no se emitirá el referido dictamen técnico;
-
-d) El procedimiento conciliatorio se tendrá por agotado si el reclamante no concurre a la junta de avenencia, si al concurrir las partes a la junta relativa argumentan su voluntad de no conciliar, o bien, si concilian sus diferencias. La Comisión levantará el acta en la que se hará constar cualquiera de estas circunstancias y la terminación del procedimiento conciliatorio;
-
-e) En la junta de avenencia se exhortará a las partes a exponer sus argumentos de manera completa y a conciliar sus intereses, y si esto no fuera posible, la Comisión las invitará a que voluntariamente y de común acuerdo sometan su controversia al juicio arbitral previsto en esta ley. En caso de que las partes decidan someter su controversia a dicho juicio, la Comisión fungirá como árbitro.
-
-El compromiso arbitral se hará constar en el acta a que se refiere el inciso anterior;
-
-Il. El juicio arbitral será en amigable composición y en él, de manera breve y concisa, se fijarán ante la Comisión las cuestiones que deberán ser objeto de arbitraje las que deberán corresponder a los hechos controvertidos en la respectiva reclamación e informe presentados a la Comisión.
-
-La Comisión propondrá a las partes las reglas para la substanciación del juicio, respecto de las cuales las partes deberán manifestar su conformidad. No habrá incidentes y la resolución sólo admitirá aclaraciones de la misma, a instancia de parte, presentada dentro de los tres días hábiles siguientes al de la notificación.
-
-La Comisión resolverá en conciencia, a verdad sabida y buena fe guardada, sin sujeción a formalidades especiales, pero observando las esenciales del procedimiento;
-
-III. La Comisión tendrá la facultad de allegarse de todos los elementos de juicio que estime necesarios para resolver las cuestiones que se le hayan sometido a arbitraje;
-
-IV. La Comisión emitirá los laudos.
-
-El laudo que condene, otorgará para su cumplimiento un plazo de quince días hábiles a partir de su notificación. Cuando no sea impugnado, o siendo impugnado conforme a la legislación aplicable y la resolución judicial que lo confirme haya causado estado, persistiéndose en su incumplimiento, la Comisión impondrá una multa de tres mil a diez mil días de salario mínimo diario general vigente en el Distrito Federal; en caso de incumplimientos reiterados la propia Comisión incrementará el monto de la sanción hasta en un cincuenta por ciento sobre el límite máximo de la prevista en este artículo y en su caso podrá incluso suspender o revocar la autorización correspondiente;
-
-V. Cuando se faltare al cumplimiento voluntario de lo convenido en la conciliación o al laudo en la amigable composición, la parte afectada deberá acudir a los tribunales competentes, para efectos de la ejecución de una u otra resolución. En contra del laudo arbitral sólo procederá el juicio de amparo; y
-
-VI. El incumplimiento por parte de las instituciones de crédito y administradoras, a los convenios, laudos o acuerdos dictados por la Comisión dentro del procedimiento conciliatorio, se sancionará por la propia Comisión con multa administrativa de tres mil a diez mil días de salario mínimo general vigente en el Distrito Federal.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, D.O.F. 18 DE ENERO DE 1999)
 
 ### CAPITULO IX. De las Disposiciones Generales
 
@@ -1579,3 +1529,13 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 23 DE ENERO DE 1998.
 
 ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 18 DE ENERO DE 1999.
+
+DECRETO QUE CREA LA LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan los artículos 119 y 120 de la Ley de Instituciones de Crédito; 102 y 103 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 87 y 88 de la Ley del Mercado de Valores; 45 de la Ley de Sociedades de Inversión; la fracción XI del artículo 108 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros; la fracción XII del artículo 5o., 109 y 110 de la Ley de los Sistemas de Ahorro para el Retiro, y la fracción X del artículo 4o. de la Ley de la Comisión Nacional Bancaria y de Valores, así como las demás disposiciones que se opongan a la presente Ley.
