@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2001-09-28"
+last_updated: "2001-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2001.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -57,7 +57,7 @@ P.O. 30 DE NOVIEMBRE DE 1926.
 
 ### CAPITULO PRIMERO (SIC). DEL CONGRESO DEL ESTADO, DE SU ELECCION E INSTALACION
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 3.
 
@@ -297,7 +297,7 @@ No podrán reunirse dos o más de estos Poderes en una sola persona o corporaci�
 
 ###### ARTICULO 15.
 
-El Poder Legislativo se deposita en una Asamblea de Representantes del pueblo que se denominara Congreso del Estado de Chiapas.
+El Poder Legislativo se deposita en una Asamblea de Representantes del pueblo que se denominará Congreso del Estado de Chiapas, siendo la Comisión de Régimen Interno, su órgano de gobierno, que se integrará colegiadamente con los coordinadores de cada grupo parlamentario, quienes por mayoría determinarán el orden del ejercicio del presidente del régimen interno y cuyo funcionamiento, facultades y atribuciones, se determinarán en la ley y en el reglamento respectivo.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 1987)</small>
 
@@ -435,9 +435,9 @@ La ley respectiva tipificará los delitos y determinará las faltas y responsabi
 
 El Congreso se instalará y sesionará con la concurrencia además de la mitad del número total de sus miembros, si no hubiera quórum para instalar el Congreso el día señalado por la Ley, los presentes ahí reunidos compelerán a los ausentes a que concurran dentro de los diez días siguientes, con la advertencia de que si dejaren de asistir sin que medie causa justificada, se entenderá por ese solo hecho que no aceptan su cargo y se llamara desde luego a los suplentes. Estos deberán presentarse en un plazo igual y si tampoco concurren sin tener causa justificada, se declarara vacante el cargo y se convocara a nuevas elecciones.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2001)</small>
 
-Se entiende también que los diputados que faltaren a sesión por tres veces consecutivas sin causa justificada o sin previa licencia del Diputado Presidente del Congreso, renuncian a concurrir a las sesiones del año, por lo que deberá llamarse desde luego a los suplentes.
+Se entiende también que los Diputados que faltaren a sesión por tres veces consecutivas sin causa justificada o sin previa licencia del Diputado Presidente en turno, de la Comisión de Régimen Interno del Congreso, renuncian a concurrir a las sesiones del año, por lo que deberá llamarse desde luego a los suplentes.
 
 Si no hubiere quórum para instalar el Congreso o para que ejerza sus funciones una vez instalado, se convocara inmediatamente a los suplentes para que se presenten a la mayor brevedad a desempeñar su cargo, en el expresado plazo de diez idas.
 
@@ -445,11 +445,11 @@ Incurrirán en responsabilidad y se harán acreedores a las sanciones que la Ley
 
 También incurrirán en responsabilidad, que la misma Ley sancionara, los partidos políticos que habiendo postulado candidatos en una elección para diputados acuerden que sus miembros que resultaren electos, no se presenten a desempeñar sus funciones.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 21.
 
-Los Diputados que no concurran a una sesión sin causa justificada, o sin el permiso del Diputado Presidente del Congreso, no tendrán derecho a la dieta correspondiente.
+Los Diputados que no concurran a una sesión sin causa justificada, o sin el permiso del Presidente en turno, de la Comisión de Régimen Interno, no tendrán derecho a la dieta correspondiente.
 
 > <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1997)</small>
 
@@ -463,11 +463,11 @@ El Congreso del Estado deberá quedar instalado el día 16 de noviembre del año
 
 El Congreso tendrá sesiones extraordinarias cada vez que sea convocado por la Comisión Permanente, pero en tales casos solo podrá ocuparse del asunto o asuntos especificados en la Convocatoria respectiva.
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 24.
 
-Entre el dieciséis de noviembre y el dieciséis de diciembre de cada año, el Congreso del Estado, celebrará sesión solemne para el efecto de que el Gobernador del Estado presente su informe escrito acerca de la situación que guarden los diversos ramos de la administración pública; el Congreso determinará el día en que debe celebrarse dicha sesion. El Diputado Presidente del Congreso será quien conteste dicho informe, y su contenido será motivo de análisis en sesiones ordinarias subsecuentes en los términos de la Ley Orgánica del propio Congreso del Estado.
+Entre el dieciséis de noviembre y dieciséis de diciembre de cada año, el Congreso del Estado, celebrará sesión solemne para el efecto de que el Gobernador del Estado presente su informe escrito acerca de la situación que guarden los diversos ramos de la Administración Pública; el congreso determinará el día en que debe celebrarse dicha sesión. El Diputado Presidente en turno, de la Comisión de Régimen Interno del Congreso, será quien conteste dicho informe, y su contenido será motivo de análisis en sesiones ordinarias subsecuentes en los términos de la Ley Orgánica del propio Congreso del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -571,7 +571,7 @@ XIV.- Aprobar o desaprobar cualquier otro compromiso por el que se afecte el Pat
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1988)</small>
 
-XV.- Dictar leyes para la preservación, conservación y restauración del equilibrio ecológico del medio ambiente, de las riquezas naturales del estado y el aprovechamiento y explotación racional de esos recursos.
+XV.- Dictar leyes para la preservación, conservación y restauración del equilibrio ecológico del medio ambiente, de las riquezas naturales del estado y el aprovechamiento y explotación racional de esos recursos;
 
 XVI.- Conceder amnistía por delitos cuyo conocimiento corresponda a los Tribunales locales;
 
@@ -579,9 +579,9 @@ XVI.- Conceder amnistía por delitos cuyo conocimiento corresponda a los Tribuna
 
 XVII.- Expedir las leyes relativas a la relación del trabajo y seguridad social de los trabajadores al servicio de los Poderes del Estado y de los Municipios;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2001)</small>
 
-XVIII.- Expedir su Ley Orgánica y su respectivo Reglamento que regulará su estructura y funcionamiento interno, así como la Ley Orgánica de la Contaduría Mayor de Hacienda;
+XVIII.- Expedir su Ley Orgánica y su respectivo Reglamento que regulará su estructura y funcionamiento interno, así como expedir la Ley que regule la organización de la entidad de Fiscalización Superior del Estado;
 
 XIX.- Autorizar al Ejecutivo, en cada caso, para que enajene bienes propiedad del Estado y haga donaciones a instituciones de Interés público o de beneficencia, en los términos y condiciones que fije el mismo Congreso;
 
@@ -607,9 +607,9 @@ XXVII.- Fijar los ingresos que deban integrar la Hacienda de los Municipios, pro
 
 XXVIII.- Crear o suprimir Municipios dentro de los ya existentes, una vez que se hayan satisfecho los requisitos que la Ley Orgánica establece;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2001)</small>
 
-XXIX.- Examinar la cuenta pública que le presente el Ejecutivo y los Ayuntamientos, debiendo comprender dicho examen no solo la conformidad con las partidas gastadas según el presupuesto de egresos, sino también la exactitud y justificación de ellas;
+XXIX.- Para la revisión de la cuenta pública que presenten el Ejecutivo y los Ayuntamientos, el Congreso del Estado se apoyará en el órgano de fiscalización superior; examinará no sólo las partidas gastadas según el presupuesto de egresos, sino también la exactitud y justificacion de ellas;
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 1995)</small>
 
@@ -619,9 +619,9 @@ XXXI.- Pedir la protección de los Poderes de la Unión en caso de trastorno o s
 
 XXXII.- Disponer mediante decreto, el traslado de los Poderes a algún punto del Estado, fuera de la Capital, cuando las circunstancias lo exijan, bien sea por conmoción popular o para celebrar actos cívicos y conmemorativos;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2001)</small>
 
-XXXIII.- Recibir de la Contaduría Mayor de Hacienda las comprobaciones del Gasto Público y, en su caso, realizar las auditorías que estime necesarias a los órganos de Gobierno del Estado, de los Municipios y de las Instituciones que reciban subsidio Estatal o Municipal;
+XXXIII.- Recibir del órgano de Fiscalización Superior del Estado los informes a que se refiere la fracción segunda del artículo 30 de esta Constitución;
 
 XXXIV.- Publicar su Memoria anual de labores;
 
@@ -651,25 +651,57 @@ XLIV.- Citar a los Presidentes Municipales para que informen sobre el estado que
 
 XLV.- Sancionar las licencias mayores de quince días que soliciten los integrantes de los Ayuntamientos; y
 
-XLVI.- Expedir todas las leyes que sean necesarias con objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los otros Poderes del Estado.
+XLVI.- Expedir todas las leyes que sean necesarias con objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los otros Poderes del Estado;
 
 > <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-XLVII.- Instituir el Tribunal Electoral del Estado, así como el Instituto Estatal Electoral, en los términos de lo dispuesto por esta Constitución y el Código Electoral.
+XLVII.- Instituir el Tribunal Electoral del Estado, así como el Instituto Estatal Electoral, en los términos de lo dispuesto por esta Constitución y el Código Electoral;
 
 > <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-XLVIII.- Legislar en materia de plebiscito e iniciativa popular.
+XLVIII.- Legislar en materia de plebiscito e iniciativa popular;
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2001)</small>
+
+XLIX.- Los Diputados, en su carácter de representantes del pueblo, tienen derecho de opinar, discutir y defender los intereses que representan y jamás serán reconvenidos por las opiniones que emitan o las tesis que sustenten, ni se podrán entorpecer en sus gestiones cuando éstas se ajusten a la Ley;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2001)</small>
+
+L.- El Diputado Presidente en turno de la Comisión de Régimen interno del Congreso velará por el respeto al Fuero Constitucional de los miembros de dicho Congreso, y por la Inviolabilidad de su recinto.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 30.
 
-Los Diputados, en su carácter de representantes del pueblo, tienen derecho de opinar, discutir y defender los intereses que representan y jamas serán reconvenidos por las opiniones que emitan o las tesis que sustenten, ni se podrán entorpecer en sus gestiones cuando estas se ajusten a la Ley.
+El órgano de Fiscalización Superior del Estado, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+El Órgano de Fiscalización Superior tendrá a su cargo:
 
-El Diputado Presidente del Congreso velará por el respeto al fuero constitucional de los miembros de dicho Congreso, y por la inviolabilidad de su recinto.
+I.- Fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado, de los entes públicos estatales y de los municipios, incluyendo los recursos de origen federal, en su caso a través de los informes que se rendirán en los términos que disponga la Ley.
+
+II.- Sin perjuicio de los informes a que se refiere el párrafo anterior, en las situaciones excepcionales que determine la Ley, podrá requerir a los sujetos de fiscalización que procedan, a la revisión de los conceptos que estime pertinentes y le rindan informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, podrá dar lugar al fincamiento de responsabilidades que corresponda.
+
+> <small>(F. DE E., P.O. 23 DE OCTUBRE DE 2001)</small>
+
+III.- Entregar los informes del resultado de la revisión de las cuentas públicas, al Congreso del Estado, en los términos que establezca la Ley; dentro de los citados informes se incluirán los dictámenes de su revisión y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, que comprenderá los comentarios y observaciones de los auditados, mismo que tendrá carácter público.
+
+> <small>(F. DE E., P.O. 23 DE OCTUBRE DE 2001)</small>
+
+IV.- Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del estado y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas en ley.
+
+V.- Determinar los daños y perjuicios que afecten a la hacienda publica estatal y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el título noveno de esta Constitucion, y presentar las denuncias y querellas penales, en cuyos procedimientos tendrán la intervencion que señale la Ley.
+
+El órgano de Fiscalización Superior del Estado, deberá guardar reserva de sus actuaciones y observaciones, hasta que rinda los informes a que se refiere este artículo; la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+
+El Congreso del Estado designará al titular del órgano de Fiscalización Superior del Estado, con el voto de las dos terceras partes de los diputados presentes, la Ley determinará el procedimiento para su designación. Dicho titular durará en su cargo siete años, y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente por las causas graves que señale esta Constitución en su título noveno, con la misma votación requerida para su nombramiento.
+
+Para ser titular del Órgano de Fiscalización del Estado se requiere cumplir con los requisitos establecidos en el Artículo 43 de esta Constitución, además de los que señalen la Ley y el Reglamento respectivo.
+
+Durante el ejercicio de su encargo, no podrá formar parte de un Partido Político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados, en asociaciones científicas, docentes, artísticas o de beneficencia.
+
+Los Poderes del Estado y los sujetos de fiscalización, facilitarán los auxilios que requiera el Órgano de Fiscalización Superior del Estado para el ejercicio de sus funciones.
+
+El Poder Ejecutivo del Estado, aplicará el procedimiento administrativo de ejecución, para el cobro de las indemnizaciones y sanciones pecuniarias que se establezcan en los términos de la fracción IV del presente artículo.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1491,15 +1523,15 @@ El Estado y los Municipios se coordinarán en los términos que la ley señale p
 
 ###### ARTICULO 83.
 
-Para que las adiciones y reformas a la presente Constitución puedan ser parte de la misma, se requiere:
+Para que las adiciones y reformas a la presente Constitución puedan ser parte de la misma se requiere:
 
-I.- Que el Congreso, con la aprobación de la mayoría de los Diputados presentes admitan a discusión el proyecto; y
+I.- Que el Congreso del Estado con la aprobación de las dos terceras partes de los Diputados presentes admitan a discusión el proyecto.
 
-II.- Que el proyecto se publique en el Periódico Oficial del Estado.
+II.- Que el proyecto se publique en el Periódico Oficial.
+
+III.- Que la mayoría de los Ayuntamientos den su aprobación dentro de los noventa días siguientes a aquel en que se hubiere publicado el proyecto, a efecto de que éste sea analizado por el Congreso Local.
 
 La mayoría de los Ayuntamientos darán su aprobación dentro de los quince días de recibida la comunicación en que se les pida, entendiendo que su abstención significa aprobación.
-
-En caso de que hagan observaciones a las adiciones o reformas propuestas, el Congreso decidirá si son o no de tomarse en consideración, sujetándose el proyecto a los trámites preceptuados en el capítulo segundo del título cuarto. Con excepción de lo dispuesto en el Artículo 28.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1657,7 +1689,7 @@ Esta Constitución no perderá su fuerza y vigor aún cuando por alguna rebelió
 
 ## TITULO DECIMO PRIMERO. DE LAS REFORMAS A LA CONSTITUCION
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2001)</small>
 
 ## TITULO DECIMO SEGUNDO. DE LA INVIOLABILIDAD DE LA CONSTITUCION
 
@@ -2414,3 +2446,17 @@ El presente Decreto entrará en vigencia el día de su publicación en el Perió
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2001.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La entidad de Fiscalización Superior del Estado iniciará sus funciones a partir de su Constitución. Para tal efecto el H. Congreso del Estado deberá expedir la ley a que se refiere la fracción XVIII del artículo 29 de esta Constitución, a más tardar el 10 de noviembre del año en curso.
+
+TERCERO.- En tanto la entidad de Fiscalización Superior del Estado no empiece a ejercer las atribuciones a que se refiere este decreto, la Contaduría Mayor de Hacienda continuará ejerciendo las atribuciones que actualmente tiene de conformidad con el texto constitucional local y su ley orgánica, antes de la entrada en vigor del presente decreto.
+
+Los servidores públicos adscritos a la Contaduría Mayor de Hacienda no serán afectados en forma alguna en sus derechos laborales con motivo de la entrada en vigor de este decreto y de la ley que en consecuencia se emitan.
+
+Una vez creada la Entidad de Fiscalización Superior del Estado, todos los recursos humanos materiales y patrimoniales en general de la contaduría mayor de hacienda pasaran a formar parte de dicha entidad.
+
+CUARTO.- Conforme vayan entrando en vigor las disposiciones a que se refiere el presente decreto, se derogan todas aquellas que se opongan.
