@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-de-derechos-humanos-del-estado-de-26122"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-14"
-last_updated: "2002-10-14"
+last_updated: "2003-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26122&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL PERIODICO OFICIAL EL 10 DE FEBRERO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 14 de octubre de 2002.
 
@@ -928,3 +930,23 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE FEBRERO DE 2003.
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abrogan la Ley de la Comisión Estatal de Derechos Humanos, aprobada por la LVII Legislatura del Congreso del Estado y publicada mediante el decreto 208 en el Periódico Oficial y que entró en vigencia el 15 de enero de 2003.
+
+TERCERO. Los recursos humanos, materiales y presupuestales con que actualmente cuenta la Comisión Estatal de los Derechos Humanos creada mediante el decreto 208 y que entró en vigencia el 15 de enero de 2003 pasarán a la Comisión Estatal de Derechos Humanos que se crea mediante el presente Decreto.
+
+CUARTO. Los procedimientos de queja que se hayan iniciado con fecha anterior a la de la entrada en vigor de la presente Ley, se sujetarán a las disposiciones de la Ley de la Procuraduría de Protección Ciudadana, publicada en el Periódico Oficial del Estado el primero de mayo de 1994, y de la Comisión Estatal de Derechos Humanos que se creó conforme al Decreto 208 que entró en vigencia el 15 de enero de 2003, hasta su total conclusión, sin embargo, seguirá su trámite ante la Comisión Estatal de los Derechos Humanos.
+
+QUINTO. Los actuales servidores públicos de la Comisión Estatal de Derechos Humanos permanecerán en sus cargos, mientras no sean expresamente separados de ellos por su titular. El titular de la Comisión de Derechos Humanos continuará en su encargo conforme lo dispuesto en el Artículo Quinto Transitorio de la Ley de la Comisión de Derechos Humanos del Estado de Aguascalientes creada por Decreto 208 y que entró en vigencia el 15 de enero de 2003.
+
+SEXTO. El Reglamento Interior de la Comisión será expedido por su Consejo dentro de los seis meses siguientes a la entrada en vigor de esta Ley, y deberá ser publicado en el Periódico Oficial del Estado.
+
+SEPTIMO. La prestación del servicio de Defensoría de Oficio se regulará por lo dispuesto en el Capítulo Décimo Primero de la Ley de la Comisión de Derechos Humanos del Estado de Aguascalientes creada por Decreto 208 y que entró en vigencia el 15 de enero de 2003, hasta que sea aprobada la Ley respectiva del Instituto de Defensoría de Oficio.
+
+OCTAVO. El artículo 20 de la presente Ley entrará en vigor una vez que sea reformado el artículo 62 de la Constitución Política del Estado de Aguascalientes, para lo cual el Congreso procederá a su reforma en un plazo no mayor a veinte días contados a partir de la fecha de aprobación del presente dictamen.
