@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1944-03-21"
+last_updated: "1945-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE MARZO DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE SEPTIEMBRE DE 1945.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -54,9 +54,7 @@ Las únicas monedas circulantes serán:
 
 a). Los billetes del Banco de México, con las denominaciones que fijen sus Estatutos;
 
-( REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE AGOSTO DE 1943)
-
-b). Las monedas de plata de un peso y de cincuenta centavos y veinte centavos, con los tamaños, pesos, cuños, ley de 0.720 (setecientos veinte milésimos) y las características que se establecen en el decreto de 27 de octubre de 1919.
+b). (DEROGADO, D.O.F. 27 DE SEPTIEMBRE DE 1945)
 
 > <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1943)</small>
 
@@ -449,6 +447,12 @@ UNICO.- El presente decreto entrará en vigor el día de su publicación en el "
 D.O.F. 21 DE MARZO DE 1944.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 27 DE SEPTIEMBRE DE 1945.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
 
 ###### ARTICULO 3°.
 
