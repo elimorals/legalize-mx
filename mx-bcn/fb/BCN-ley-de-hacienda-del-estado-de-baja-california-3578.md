@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1980-12-31"
+last_updated: "1981-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 1981.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -111,29 +111,21 @@ III.- Los fideicomitentes, mientras sean poseedores del predio objeto del fideic
 
 IV.- Tratándose de predios ejidales, quien posea provisional o definitivamente el predio o en su caso, al núcleo de ejidatarios.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 7.
 
-La base del Impuesto es la siguiente:
+La base del impuesto predial se calcula sumando el valor fiscal de las construcciones y el valor fiscal del terreno, multiplicando éste por la tasa impositiva correspondiente de la Ley de Ingresos.
 
-I.- Tratándose de predios urbanos o rústicos, el mayor de los siguientes:
+El valor fiscal del terreno se determina mediante la deducción al valor catastral del mismo, el costo de urbanización correspondiente a éste, que se calcula a través del siguiente procedimiento aplicable exclusivamente a los predios sujetos a las tasas 8.5, 10.5 y 30 al millar que determina la Ley de Ingresos:
 
-a).- El valor catastral;
+I.- Mediante la multiplicación del factor 7 por el número de metros de frente y por los factores de urbanización que le correspondan al predio de conformidad con la tabla publicada en la Ley de Ingresos.
 
-b).- El valor de la operación de transmisión de dominio o posesión, si es posterior al señalamiento del valor catastral;
+II.- La deducción al valor catastral del terreno no deberá exceder del 30% del valor del mismo y en caso de ser así, se deducirá como máximo dicho porcentaje.
 
-c).- En ausencia del valor catastral, el valor del avalúo que al efecto ordene la Secretaría de Finanzas.
+III.- El valor fiscal del terreno en los casos de predios sin urbanización será igual al valor catastral del mismo.
 
-II.- Cuando el predio se encuentre edificado con diversos departamentos propiedad de distintas personas, que a la vez sean co-propietarios del terreno en que se encuentre construído el edificio, así como de sus escaleras, pasillos, jardines, muros medianeros, pisos y demás servicios e instalaciones, la Dirección de Catastro determinará el Valor Catastral que le corresponderá a cada uno y éste entrará en vigor a partir del bimestre siguiente a la fecha en que se haya autorizado previamente la escritura de constitución del condominio. Si éste se constituye sin estar terminadas las construcciones, el Impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron. En estos casos la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del bimestre siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; y cada predio, departamento, despacho o local se empadronará por separado.
-
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DE LA SIGUIENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1980.</small>
-
-III.- El valor a precio de venta de la producción agropecuaria, que se obtenga durante el año, de los predios ejidales ya sea que se exploten individual o colectivamente.
-
-En aquellos casos que se desconozca el precio de venta, el Ejecutivo del Estado podrá fijar el precio oficial de los diferentes productos en atención a sus calidades, el que servirá de base para los efectos de este Impuesto.
-
-Cuando los predios objeto de posesión ejidal se dediquen a actividades distintas a la explotación agropecuaria será aplicable lo señalado en la Fracción I de este Artículo.
+El valor fiscal de las construcciones será igual al valor catastral de las mismas.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
@@ -2067,10 +2059,16 @@ Las disposiciones que establece el presente Decreto entrarán en vigor a partir 
 
 P.O. 10 DE JUNIO DE 1980.
 
-UNICO.- El presente Decreto tendrá vigencia a partir del día 1o. de junio del año en curso, previa publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
+UNICO.- El presente Decreto tendrá vigencia a partir del 1o. de junio del año en curso, previa publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
 
 P.O. 31 DE DICIEMBRE DE 1980.
 
 PRIMERO.- Los efectos del presente Decreto se consideran a partir del día 1o. de Noviembre de 1980.
 
 SEGUNDO.- Publíquese en el Periódico Oficial Organo del Gobierno del Estado de Baja California.
+
+P.O. 10 DE DICIEMBRE DE 1981.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial y deroga todas aquellas disposiciones que se opongan a la misma.
