@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1995-12-28"
+last_updated: "1996-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -1911,13 +1911,59 @@ Artículo 212 F.- Los tenedores o usuarios de los vehículos a que se refieren l
 
 Artículo 212 G.- Las oficinas recaudadoras no expedirán placas de circulación, si el tenedor o usuario del vehículo no comprueba el pago del impuesto o en su caso, acredita que se encuentra liberado de esta obligación.
 
-#### Sección Primera. Del impuesto Sobre Remuneraciones al Trabajo Personal
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
+#### Sección Cuarta. Impuesto Estatal Sobre los Ingresos Derivados por la Obtención de Premios
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+Artículo 212 H.- Es objeto de este Impuesto la obtención de ingresos por premios derivados de loterías, rifas, sorteos y concursos de toda clase, cuando el premio haya sido pagado o entregado en el territorio del Estado, no obstante que el organizador y el evento mismo de cuyo resultado dependa la obtención del ingreso por premio, se encuentre y/o celebren dentro o fuera del territorio estatal.
+
+No se considerarán como ingresos por premios el reintegro correspondiente al comprobante que permitió participar en el evento de que se trate.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+Artículo 212 I.- Son sujetos de este Impuesto las personas físicas, morales o unidades económicas sin personalidad jurídica que obtengan ingresos por premios derivados de loterías, rifas, sorteos y concursos de toda clase, cuando el premio haya sido pagado o entregado en el territorio del Estado, no obstante que el organizador y el evento mismo de cuyo resultado dependa la obtención del ingreso por premio, se encuentren y/o celebren dentro o fuera del territorio estatal. Las personas o instituciones que organicen, vendan o enajenen los comprobantes que permitan participar en los eventos objeto de este impuesto, les deberán retener el impuesto que se cause.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+Artículo 212 J.- La base del Impuesto será el monto o valor del premio correspondiente a cada boleto o entero, derivados de loterías, rifas, sorteos y concursos de toda clase.
+
+Tratándose de premios en especie, será base del impuesto el valor con el que se promocione cada uno de los premios; en su defecto, el valor de facturación y en ausencia de ambos, el de avalúo comercial.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+Artículo 212 K.- Sobre la base gravable se aplicará la tasa del 6% sin deducción alguna.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+Artículo 212 L.- Este impuesto se causa en el momento en que los ingresos por premios sean pagados o entregados.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+Artículo 212 M.- Los sujetos obligados al pago del impuesto realizarán el pago a más tardar el día 15 del mes siguiente a aquel que corresponda el pago, presentándose la declaración aprobada en la oficina recaudadora que corresponda al domicilio en donde se hayan sido pagados o entregados los premios en el territorio del Estado. Dicho pago se entenderá definitivo.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+Artículo 212 N.- Las personas físicas o morales que organicen, celebren, enajenen o vendan, directamente o a través de terceras personas, billetes, boletos, contraseñas o cualquier otro comprobante que permita participar en los eventos a que se refiere el objeto de este impuesto, deberán:
+
+I.- Solicitar su inscripción en el registro estatal de contribuyentes, utilizando para tales efectos las formas aprobadas.
+
+II.- Presentar ante las autoridades fiscales, las declaraciones y pagos correspondientes, los avisos e informes dentro de los plazos y en los lugares señalados para tales efectos.
+
+III.- Retener y entregar, en su caso, el impuesto que se cause conforme a las disposiciones contenidas en esta Sección, y
+
+IV.- Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria del pago del impuesto que corresponda por retenciones.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+Artículo 212 Ñ.- La realización de pagos por concepto de este Impuesto no causarán el Impuesto Para el Sostenimiento de la Universidad de Sonora y las Contribuciones Para el Consejo Estatal de Concertación Para la Obra Pública, establecidos en la presente Ley.
 
 ### Capítulo Sexto. De los Impuestos Sobre Productos del Trabajo
 
-#### Sección Segunda. Del Impuesto a la Prestación de Servicios bajo la Dirección y Dependencia de un Tercero
+#### Sección Primera. Del impuesto Sobre Remuneraciones al Trabajo Personal
+
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ###### Artículo 213.
 
@@ -2021,9 +2067,7 @@ II.- Presentar las declaraciones correspondientes para el pago del impuesto dent
 
 III.- Las demás que impongan otras disposiciones fiscales.
 
-#### Sección Tercera. Del Impuesto al Ejercicio de Profesiones Liberales, Artísticas e Innominadas
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+#### Sección Segunda. Del Impuesto a la Prestación de Servicios bajo la Dirección y Dependencia de un Tercero
 
 ###### Artículo 222.
 
@@ -2126,6 +2170,10 @@ inferior
 ###### Artículo 235.
 
 (DEROGADO, B.O. 26 DE MAYO DE 1983)
+
+#### Sección Tercera. Del Impuesto al Ejercicio de Profesiones Liberales, Artísticas e Innominadas
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 236.
 
@@ -2893,7 +2941,9 @@ Los derechos por servicios de empadronamiento a que se refieren diversos precept
 
 Los servicios de expedición, cambios de domicilio y revalidación de licencias para la venta y consumo de bebidas con contenido alcohólico y expedición de licencias eventuales, causarán derechos atendiendo al tipo de giro, ubicación y capacidad económica del establecimiento conforme a las siguientes cuotas:
 
-I.- Por la expedición de licencias y para cambio de domicilio:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+I.- Por la expedición de licencias:
 
 MINIMO MAXIMO
 
@@ -3020,6 +3070,14 @@ III.- Por la expedición de
 licencias eventuales, por
 
 día, N$200.00 a N$10,000.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+IV.- Por los servicios de expedición de licencia a favor del o de los herederos por fallecimiento del titular de la licencia respectiva, por reposición de la licencia, por cambio de domicilio, por cambio del nombre del establecimiento sin que implique cambio de propietario, así como cualquier otra modificación previamente autorizada, se causarán los derechos establecidos en la fracción I de éste artículo. La cuota que se determine podrá reducirse hasta en un 75% de acuerdo al giro de que se trate.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+Cuando en un solo trámite se realicen simultáneamente los cambios de domicilio y del nombre del establecimiento sin que implique cambio de propietario, se causará el pago de los derechos correspondientes por un solo concepto, pudiendo aplicarse la reducción a que se refiere el párrafo anterior.
 
 ###### Artículo 303.
 
@@ -3833,13 +3891,25 @@ a) La inscripción de documentos públicos o privados en que se reconozca, adqui
 
 En la adquisición de vivienda o de la hipoteca que se constituya, así como los títulos que expidan la Nación, el Gobierno del Estado y H. Ayuntamiento, en lugar de la tasa señalada en el Punto 1 de este Artículo, se causarán y pagarán por cada operación:
 
-Vivienda de interés social y popular cuyo valor al momento de la operación no exceda de la suma que resulte de multiplicar por 25 el salario mínimo general elevado al año, vigente en el área geográfica de que se trate. N$ 100.00
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+Vivienda de interés social y popular cuyo valor al momento de la operación sea mayor a 15 veces y menor a 25 veces el salario mínimo general elevado al año, vigente en el área geográfica de que se trate. $ 148.00.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+En el caso de vivienda de interés social y popular cuyo valor al momento de la operación no exceda de la suma que resulte de multiplicar por 10 veces el salario mínimo general elevado al año, vigente en el área geográfica de que se trate, se aplicará la cuota a que se refiere el párrafo anterior reducida en un 75%. En el caso de que el valor de las viviendas sea mayor a 10 veces y menor a 15 veces el salario mínimo general elevado al año, vigente en el área geográfica de que se trate, se aplicará la cuota a que se refiere el párrafo anterior reducida en un 50%.
 
 En los demás tipos de vivienda. N$ 320.00
 
 Para la ubicación en el rango correspondiente de las cuotas anteriores se tomará como valor el que resulte más alto entre los señalados en el punto 1 anterior.
 
-Tratándose de título que expida la Nación, el Gobierno del Estado y el H. Ayuntamiento, para satisfacer necesidades del interés social. En estos casos se se (sic) exceptúan de la obligación de la presentación del avalúo. N$ 100.00
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+Tratándose de títulos que expida la nación, el Gobierno del Estado y los ayuntamientos. En estos casos se exceptúan de la obligación de la presentación del avalúo. $148.00.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+Se exceptúa del pago de los derechos correspondientes, cuando, los títulos a que se refiere el párrafo anterior, se expidan para satisfacer necesidades de vivienda.
 
 > <small>(ADICIONADO, B.O. 8 DE JULIO DE 1993)</small>
 
@@ -3925,9 +3995,13 @@ fusiones predios rústicos o urbanos o se
 
 constituya el régimen de condominio. N$ 120.00
 
-> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
-Tratándose de operaciones destinadas a edificación o adquisición de vivienda se aplicará la cuota reducida en un 50%.
+Tratándose de operaciones relativas a vivienda de interés social y popular cuyo valor al momento de la operación no exceda de la suma que resulte de multiplicar por 10 veces el salario mínimo general elevado al año, vigente en el área geográfica de que se trate, la cuota a que se refiere este punto se reducirá en un 100%. En el caso de que el valor de las viviendas sea mayor a 10 veces y menor a 15 veces el salario mínimo general elevado al año, vigente en el área geográfica de que se trate, el importe de la cuota a que se refiere este punto se reducirá en un 75%. En el caso de que el valor de las viviendas sea mayor a 15 veces el salario mínimo general elevado al año, vigente en el área geográfica de que se trate, el importe de la cuota a que se refiere este punto se reducirá en un 50%.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+Para la aplicación de la reducción de la cuota a que se refiere el párrafo anterior, deberá presentarse copia de la licencia de uso del suelo correspondiente, teniendo el solicitante del servicio el plazo de un año contado a partir de la fecha de inscripción, para edificar o desarrollar el predio, caso contrario deberá cubrir la diferencia que resulte de aplicar la cuota establecida en este punto.
 
 (REFORMADO, B.O. 8 DE JULIO DE 1993
 
@@ -3939,7 +4013,13 @@ Tratándose de lotes para construcción de vivienda:
 
 a) Tipo residencial, N$ 6.00
 
-b) Tipo de interés social y popular cuyo valor al momento de la operación no exceda de la suma de multiplicar por el 25 el salario mínimo general elevado al año, vigente en el área geográfica de que se trate, N$ 3.00.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+b) Tipo de interés social y popular cuyo valor al momento de la operación sea mayor a 15 veces y menor a 25 veces el salario mínimo general elevado al año, vigente en el área geográfica de que se trate. $ 5.00
+
+Tipo de interés social y popular cuyo valor al momento de la operación no exceda de la suma que resulte de multiplicar por 10 veces el salario mínimo general elevado al año, vigente en el área geográfica de que se trate, se aplicará la cuota a que se refiere el párrafo anterior reducida en un 75%. En el caso de que el valor de las viviendas sea mayor a 10 veces y menor a 15 veces el salario mínimo general elevado al año, vigente en el área geográfica de que se trate, se aplicará la cuota a que se refiere el párrafo anterior reducida en un 50%.
+
+Para la aplicación de la reducción de la cuota a que se refiere el inciso B) anterior, deberá presentarse copia de la licencia de uso del suelo correspondiente, teniendo el solicitante del servicio el plazo de un año contando a partir de la fecha de inscripción, para edificar o desarrollar el predio, caso contrario deberá cubrir la diferencia que resulte de aplicar la cuota establecida en el inciso B) de este punto.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -4035,23 +4115,35 @@ tratándose de créditos ya inscritos, del mismo
 
 acreedor se pagará. N$ 120.00
 
-> <small>(ADICIONADO, B.O. 8 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
-Los créditos hipotecarios para la adquisición de
+Tratándose de créditos hipotecarios para la
 
-terrenos destinados a edificación de vivienda de
+adquisición de terrenos destinados a edificación
 
-interés social y popular cuyo valor al momento
+de vivienda de interés social y popular cuyo
 
-de la operación no exceda de la suma que resulte
+valor al momento de la operación no exceda
 
-de multiplicar por 25 el salario mínimo general
+de la suma que resulte de multiplicar por
 
-elevado al año, vigente en el área geográfica de
+10 veces el salario mínimo general elevado
 
-que se trate, causarán sobre el importe de la
+al año, vigente en el área geográfica de que
 
-operación, 1.75 al millar.
+se trate, la cuota a que se refiere este punto
+
+se reducirá en un 75%. En el caso de que el
+
+valor de las viviendas sea mayor a 10 veces
+
+y menor a 25 veces el salario mínimo general
+
+elevado al año, vigente en el área geográfica
+
+de que se trate, la cuota a que se refiere este
+
+punto se reducirá en un 50%. 1.75 Al Millar
 
 > <small>(ADICIONADO, B.O. 8 DE JULIO DE 1993)</small>
 
@@ -4081,23 +4173,7 @@ de becas, N$ 10.00.
 
 16.- Certificados de no propiedad. N$ 40.00
 
-> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
-
-Tratándose de operaciones relativas a vivienda de
-
-interés social y popular cuyo valor al momento de
-
-la operación no exceda de la suma que resulte
-
-de multiplicar por 25 el salario mínimo general
-
-elevado al año, vigente en el área geográfica
-
-de que se trate, el importe de la cuota por la
-
-prestación de los servicios a que se refiere este
-
-punto se reducirá en un 75%.
+> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 > <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
 
@@ -4141,23 +4217,7 @@ o inmuebles, se pagarán por cada antecedente
 
 de las inscripciones. N$ 20.00
 
-> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
-
-Tratándose de cancelaciones de inscripciones o
-
-de gravámenes recaidos sobre bienes inmuebles
-
-destinados a vivienda de interés social y popular
-
-cuyo valor al momento de la operación no exceda
-
-de la suma que resulte de multiplicar por 25 el
-
-salario mínimo general elevado al año, vigente
-
-en el área geográfica de que se trate, la cuota se
-
-aplicará reducida en un 75%.
+> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -4167,25 +4227,7 @@ efectué al presentar cualquier documento
 
 público o privado para su registro. N$ 20.00
 
-(REFORMADO, B.O. 8 DE JULIO DE 1993
-
-Por cada anotación marginal que se efectúe al
-
-presentar cualquier documento público o privado
-
-para su registro relativo a adquisición de inmuebles
-
-destinados a vivienda de interés social y popular
-
-cuyo valor al momento de la operación no exceda
-
-de la suma que resulte de multiplicar por 25 el salario
-
-mínimo general elevado al año, vigente en el área
-
-geográfica de que se trate, la cuota se aplicará
-
-reducida en un 75%.
+> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -4215,19 +4257,7 @@ registrales N$ 50.00
 
 26.- Todos los demás certificados N$ 60.00
 
-Tratándose de operaciones relativas a vivienda de interés
-
-social y popular cuyo valor al momento de la operación
-
-no exceda de la suma que resulte de multiplicar por 25
-
-el salario mínimo general elevado al año, vigente en el
-
-área geográfica de que se trate, el importe de la cuota
-
-que resulte por la prestación del servicio señalado en
-
-este punto, se reducirá en un 50%.
+> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 > <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -4254,6 +4284,14 @@ acreditados o apoderados de instituciones bancarias,
 peritos valuadores, acreditados o apoderados,
 
 uniones de crédito y otros similares. N$ 1,500.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+Las cuotas por los servicios a que se refieren los puntos 16, 20, 21 y 26 de este Artículo, tratándose de operaciones relativas a viviendas de interés social y popular cuyo valor al momento de la operación no exceda de la suma que resulte de multiplicar por 10 veces el salario mínimo general elevado al año, vigente en el área geográfica de que se trate, se aplicará la cuota correspondiente reducida en un 100%. En el caso de que el valor de las viviendas sea mayor a 10 veces y menor a 25 veces el salario mínimo general elevado al año, vigente en el área geográfica de que se trate, se aplicará la cuota correspondiente reducida en un 75%.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+Para la aplicación de las reducciones a que se refiere el párrafo anterior deberá presentarse copia de la licencia de uso del suelo correspondiente, teniendo el solicitante del servicio el plazo de un año contado a partir de la fecha de inscripción, para edificar o desarrollar el predio, caso contrario deberá cubrir la diferencia que resulte de aplicar las cuotas correspondientes, establecidas en este Artículo.
 
 ###### Artículo 322.
 
@@ -4509,9 +4547,9 @@ y de uso de suelo, por cada variante de información N$ 50.00
 
 El importe de las cuotas por la prestación de los anteriores servicios se reducirán en un 50 % cuando éstos sean solicitados por construcción o adquisición de vivienda.
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
-La información digitalizada que se produzca por el sistema estatal inmobiliario, podrá ser comercializada por el Instituto Catastral y Registral del Estado de Sonora, quien fijará las normas, medios y las bases de contratación.
+El importe de las cuotas por la prestación de los anteriores servicios se reducirá en un 75%, cuando estos sean solicitados para construcción o adquisición de vivienda de interés social y popular, cuyo valor al momento de la operación no exceda de la suma que resulte de multiplicar por 25 veces el salario mínimo general elevado al año, vigente en el área geográfica de que se trate. En el caso se de que el valor de las viviendas sea mayor a 25 veces el salario mínimo general elevado al año, vigente en el área geográfica de que se trate, el importe de las cuotas por la prestación de los anteriores servicios se reducirá en un 50%.
 
 II.- Servicios Prestados por la Secretaría de Infraestructura Urbana y Ecología.
 
@@ -4624,6 +4662,12 @@ verificación vehicular obligatoria, respecto de
 vehículos destinados al servicio público de
 
 transporte concesionado por el Estado. N$ 3,000.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+10.- Por análisis y dictamen sobre aspectos de
+
+desarrollo urbano y usos de suelo 122.00
 
 III.- Servicios Prestados por la Secretaría de Salud Pública del Estado.
 
@@ -5072,3 +5116,13 @@ La Secretaría de Finanzas del Estado, podrá expedir las disposiciones necesari
 ###### ARTICULO SEXTO.
 
 Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+B.O. 30 DE DICIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del 1º de Enero de 1997, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la aplicación de la presente Ley.
