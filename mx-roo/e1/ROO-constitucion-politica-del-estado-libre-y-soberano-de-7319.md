@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1998-07-09"
+last_updated: "1999-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 1999.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -885,9 +885,13 @@ XLIII.- Legislar en materia de seguridad social, teniendo como objetivo la perma
 
 XLIV.- Legislar sobre la protección, conservación y restauración del patrimonio histórico, cultural y artístico del Estado.
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1999)</small>
 
-XLV.- Expedir todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores.
+XLV.- Designar, mediante el procedimiento que la ley determine, al Presidente y a los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1999)</small>
+
+XLVI.- Expedir todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores.
 
 #### SECCION QUINTA. De la Diputación Permanente
 
@@ -931,9 +935,13 @@ IX.- Recibir la protesta de Ley al Gobernador Interino, provisional, sustituto o
 
 X.- Recibir la protesta de ley y aprobar o rechazar el nombramiento de Procurador General de Justicia que otorgue el Gobernador del Estado.
 
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 1995)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1999)</small>
 
-XI. Las demás que le confiera expresamente esta Constitución.
+XI.- Designar mediante el procedimiento que la ley determine, al Presidente y a los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1999)</small>
+
+XII. Las demás que le confiere expresamente esta Constitución.
 
 #### SECCION SEGUNDA. De las Facultades y Obligaciones del Gobernador
 
@@ -1132,6 +1140,22 @@ Toda Ley o decreto será refrendada por el Secretario de Gobierno y por el funci
 La Legislatura Estatal, mediante la Ley o Decreto que al efecto expida, establecerá un Organismo de Protección de los Derechos Humanos, en el marco que otorga el orden jurídico vigente, el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier Autoridad o Servidor Público, del Estado o de los Ayuntamientos que violen estos derechos.
 
 Este Organismo formulará recomendaciones públicas autónomas no vinculatorias y denuncias y quejas ante las Autoridades respectivas, y no será competente tratándose de asuntos electos (sic), laborales o jurisdiccionales.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1999)</small>
+
+El Organismo que establezca la Legislatura se denominará Comisión de Derechos Humanos del Estado de Quintana Roo; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1999)</small>
+
+La Comisión de Derechos Humanos del Estado de Quintana Roo tendrá un Consejo Consultivo integrado por siete Consejeros que serán designados por el voto de las dos terceras partes de los miembros presentes de la Legislatura o, en sus recesos, por la Diputación Permanente, mediante el mismo sistema de votación. La ley de la materia determinará los procedimientos a seguir para la presentación de las propuestas por la propia Legislatura.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1999)</small>
+
+El Presidente de la Comisión de Derechos Humanos del Estado de Quintana Roo, quien lo será también del Consejo Consultivo, será designado en los mismos términos del párrafo anterior. Durará en su encargo cuatro años, pudiendo ser designado exclusivamente para un segundo período y sólo podrá ser removido de sus funciones en los términos del Título Octavo de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1999)</small>
+
+El Titular del citado Organismo presentará anualmente a la Legislatura en funciones un informe de actividades. Al efecto comparecerá ante la Comisión correspondiente en los términos que disponga la ley de la materia.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MARZO DE 1995)</small>
 
@@ -2346,3 +2370,13 @@ En un término de ciento ochenta días naturales, contados a partir de la entrad
 ###### ARTICULO QUINTO.
 
 Los recursos humanos, materiales y financieros, que de acuerdo a la presente reforma pasan a formar parte del Poder Judicial, se llevará a cabo mediante actas de entrega y recepción. La Secretaría de Hacienda dispondrá lo necesario en consulta con estos órganos, para que en el Presupuesto de Egresos del Estado, en el capítulo del Poder Judicial, se realice la ampliación de las partidas correspondientes integradas por las partidas que corresponden a los órganos que ahora forman parte del Poder Judicial.
+
+P.O. 29 DE OCTUBRE DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los actuales integrantes del Consejo Consultivo y la Titular de la Comisión Estatal de Derechos Humanos, continuará en el ejercicio de sus funciones hasta concluir el período para el que fueron designados, respectivamente, pudiendo en su caso, ser propuestos indistintamente para un segundo período, en términos del Sexto Párrafo del Artículo 94 que mediante este Decreto se reforma y conforme a las disposiciones de la ley de la materia.
+
+TERCERO.- En tanto la Legislatura en funciones expide las reformas al Decreto por el que se crea la Comisión de Derechos Humanos del Estado de Quintana Roo, ésta ejercerá sus atribuciones y competencias conforme a lo dispuesto por el presente Decreto y la ley reglamentaria vigente hasta dicha expedición.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
