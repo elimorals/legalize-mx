@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-los-tribunales-agrarios-120"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-05-13"
-last_updated: "1994-02-01"
+last_updated: "1994-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-05-08"
 
 REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE FEBRERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JULIO DE 1994.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 13 de mayo de 1992.
 
@@ -591,13 +591,19 @@ El Tribunal Superior hará la división del país en distritos de justicia agrar
 
 Los funcionarios y empleados de los tribunales unitarios estarán impedidos para desempeñar otro cargo o empleo público o de particulares, que sea incompatible con el que tienen en dichos tribunales; y estarán impedidos para realizar funciones que sean distintas a las que les corresponden conforme a su cargo, salvo los casos de habilitación o suplencia.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JULIO DE 1994)</small>
 
 ###### Artículo 48.
 
-Los secretarios de acuerdos de los tribunales unitarios tendrán las atribuciones que les concede la Ley Orgánica y las que, en lo conducente, se le otorgan a la Secretaría General de Acuerdos del Tribunal Superior en el presente Reglamento.
+Los Tribunales Unitarios contarán con secretarios de acuerdos "A" y "B".
 
-Los secretarios de los tribunales unitarios deberán hacer las notificaciones que, en cosos especiales, les ordene el magistrado.
+Los Secretarios de acuerdos "A" tendrán las atribuciones que les concede la Ley Orgánica y las que, en lo conducente, se le otorgan a la Secretaría General de Acuerdos del Tribunal Superior en el presente reglamento. Asimismo, serán los facultados para suplir las ausencias de los Magistrados, no mayores de 15 días, en términos del artículo 8o. fracción IV de la Ley Orgánica de los Tribunales Agrarios, cuando lo autorice el Tribunal Superior.
+
+Los secretarios de acuerdos "B", seleccionados por el Tribunal Superior entre los secretarios de estudio y cuenta adscritos que reúnan los requisitos del artículo 20 de la Ley Orgánica de los Tribunales Agrarios, sin modificación de sus ingresos, categoría y nivel presupuestal correspondientes, tendrán atribuciones para asistir al Magistrado en la celebración de la audiencia de ley y autorizar el acta correspondiente, investidos de fe pública, además de elaborar los proyectos de sentencias y de otras resoluciones que le encomiende el Magistrado, así como el cumplimiento de las atribuciones asignadas en las fracciones II y III del artículo siguiente.
+
+En ningún caso los secretarios de acuerdos "A" y "B" podrán presidir audiencias, por corresponder dicha obligación procesal, exclusivamente, al Magistrado titular, desde el inicio hasta la conclusión de la audiencia, con la única salvedad de los casos de suplencia legalmente autorizada por el Tribunal Superior.
+
+Los secretarios de los Tribunales Unitarios deberán hacer las notificaciones que, en casos especiales, ordene el Magistrado.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
@@ -974,3 +980,9 @@ D.O.F. 1 DE FEBRERO DE 1994.
 SEGUNDO.- La presente reforma entrará en vigor a partir de esta fecha.
 
 Publíquese en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE JULIO DE 1994.
+
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.</small>
+
+SEGUNDO. La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
