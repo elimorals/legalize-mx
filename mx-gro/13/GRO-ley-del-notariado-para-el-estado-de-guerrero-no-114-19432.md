@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-notariado-para-el-estado-de-guerrero-no-114-19432"
 country: "mx"
 rank: "ley"
 publication_date: "1967-09-06"
-last_updated: "1977-11-02"
+last_updated: "1979-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE GUERRERO NO. 114
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 1979.
 
 Ley publicada en los Periódicos Oficiales del Estado de Guerrero, el 6 de septiembre de 1967; el 13 de septiembre de 1967; el 20 de septiembre de 1967; y el 4 de octubre de 1967.
 
@@ -829,7 +829,9 @@ III.- Registrar el sello y su firma en el Gobierno del Estado, en el Archivo Gen
 
 IV.- Otorgar la protesta legal ante el Gobernador del Estado de acuerdo con lo establecido por la Ley, y en la forma en que es usual tomarla a los funcionarios públicos.
 
-V.- Protestar establecer su Oficina Notarial en el lugar en que va a desempeñar su cargo, dentro de los treinta días siguientes a la fecha de la protesta.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE MARZO DE 1979)</small>
+
+V.- Protestar establecer su oficina notarial en el lugar en que va a desempeñar su cargo, dentro de los 30 días siguientes a la fecha de la protesta, salvo el caso que se le haya concedido licencia en los términos del artículo 139, en cuya hipótesis y una vez concluida su licencia, asumirá su cargo dentro del término señalado.
 
 ###### Art. 128.
 
@@ -883,9 +885,11 @@ La publicación de "El Periódico Oficial", del Estado a que alude el artículo 
 
 Los Notarios podrán separarse del ejercicio de sus funciones o ausentarse del lugar de su residencia, en cada trimestre, por quince días sucesivos o alternados o en un semestre por un mes dando simplemente aviso al Gobierno del Estado. Se trata en estos casos de licencias de corta duración concedidas por la Ley.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 1979)</small>
+
 ###### Art. 139.
 
-Los Notarios tienen derecho a solicitar y obtener del Gobierno del Estado licencia para estar separados de su cargo, hasta por el término de un año renunciable.
+Los Notarios tienen derecho a solicitar al Gobierno del Estado dos licencias en forma consecutiva para separarse de su cargo, la primera por espacio de tres años y la segunda por igual período, mismas que serán renunciables en cualquier momento. Teniendo la obligación el notario de pedir la segunda licencia con treinta días de anticipación a la fecha del vencimiento de la primera, quedando al arbitrio del C. Gobernador conceder o no la segunda licencia.
 
 ###### Art. 140.
 
@@ -1182,3 +1186,7 @@ UNICO:- Este Decreto entrará en vigor a partir de la fecha de su publicación e
 P.O. 2 DE NOVIEMBRE DE 1977.
 
 UNICO:- Este Decreto entrará en vigor a partir de la fecha de su publicación en Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE MARZO DE 1979.
+
+UNICO:- Este Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
