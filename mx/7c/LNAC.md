@@ -4,7 +4,7 @@ identifier: "LNAC"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-23"
-last_updated: "1998-01-23"
+last_updated: "2004-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11167&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LNAC"
 
 LEY DE NACIONALIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 23 de enero de 1998.
 
@@ -304,7 +304,9 @@ TERCERO.- Las cartas y declaratorias de naturalización, los certificados de nac
 
 CUARTO.- Para beneficiarse de lo dispuesto por el artículo 37, apartado A de la Constitución Política de los Estados Unidos Mexicanos, el interesado deberá:
 
-I. Presentar solicitud por escrito a la Secretaría, Embajadas o Consulados de México, dentro de los cinco años siguientes al 20 de marzo de 1998;
+> <small>(REFORMADA, D.O.F. 2 DE DICIEMBRE DE 2004)</small>
+
+I. Presentar solicitud por escrito a la Secretaría de Relaciones Exteriores, Embajadas o Consulados Mexicanos, en cualquier tiempo;
 
 II. Acreditar su derecho a la nacionalidad mexicana, conforme lo establece esta Ley; y
 
@@ -317,3 +319,11 @@ Para los efectos del párrafo anterior, se presumirán concebidos los nacidos vi
 México, D.F., a 12 de diciembre de 1997.- Sen. Heladio Ramírez López, Presidente.- Dip. Luis Meneses Murillo, Presidente.- Sen. José Antonio Valdivia, Secretario.- Dip. Angelina Muñoz Fernández, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 2 DE DICIEMBRE DE 2004.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
