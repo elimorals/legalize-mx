@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2003-10-24"
+last_updated: "2003-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 2003.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -485,17 +485,25 @@ La ciudad de Chetumal es la capital del Estado y la residencia oficial de los Po
 
 ### CAPITULO I. Principios
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 49.
 
 El Supremo Poder del Estado se divide para su ejercicio en Legislativo, Ejecutivo y Judicial.
 
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2002)</small>
+
 Los poderes Legislativo y Ejecutivo del Estado se depositan en ciudadanos electos mediante sufragio universal, libre, secreto y directo, conforme a las leyes correspondientes.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2002)</small>
 
 La renovación de los Poderes Legislativo y Ejecutivo se realizará mediante elecciones libres, auténticas y periódicas, en las que podrán participar los partidos políticos nacionales y estatales, por sí mismos o en coaliciones. La Ley reglamentará estas participaciones.
 
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
+
 I.- El sufragio constituye la expresión soberana de la voluntad popular. Los ciudadanos, los partidos políticos y las autoridades velarán por su respeto y cuidarán que los procesos electorales sean preparados, organizados, desarrollados, vigilados y calificados por órganos profesionales conforme a los principios rectores de certeza, legalidad, independencia, imparcialidad y objetividad. La Ley establecerá las sanciones por violaciones al sufragio.
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
 
 II.- La preparación, organización, desarrollo y vigilancia de los procesos para las elecciones de Gobernador, Diputados a la Legislatura del Estado y Ayuntamientos, así como la instrumentación de las formas de participación ciudadana que señale la Ley, son una función estatal que se realizará a través del organismo público denominado Instituto Electoral de Quintana Roo, de cuya integración serán corresponsables el Poder Legislativo, los partidos políticos y los ciudadanos en los términos que disponga esta Constitución y la Ley. Este organismo será autoridad en la materia, tendrá personalidad jurídica y patrimonio propios, plena autonomía en su funcionamiento e independencia en sus decisiones, con el carácter de permanente y profesional en su desempeño.
 
@@ -509,7 +517,9 @@ Las sesiones de todos los órganos colegiados de dirección serán públicas, en
 
 El Tribunal Electoral de Quintana Roo, tendrá personalidad jurídica y patrimonio propios, autonomía en su funcionamiento e independencia en sus decisiones y será la máxima autoridad jurisdiccional en la materia, y tendrá el carácter de permanente; tendrá competencia y organización para funcionar en pleno y sus sesiones serán públicas. Las resoluciones del Tribunal serán emitidas con plenitud de jurisdicción en una sola instancia y sus fallos serán definitivos. Estará integrado por tres Magistrados Numerarios, uno de los cuales fungirá como Presidente, y durante los procesos electorales, además, por dos Magistrados Supernumerarios que harán las veces de jueces instructores.
 
-El Consejero Presidente y los Consejeros Electorales del Instituto Electoral de Quintana Roo, así como el Magistrado Presidente y los magistrados del Tribunal Electoral de Quintana Roo, serán elegidos por el voto de las dos terceras partes de los miembros de la Legislatura del Estado o de la Diputación Permanente, en los recesos de ésta, de entre las propuestas que formulen los grupos parlamentarios, en los términos que disponga la Ley. El Consejero Presidente, los Consejeros Electorales y los Magistrados Numerarios durarán en su encargo dos procesos electorales ordinarios y podrán ser ratificados de manera individual hasta por un proceso electoral ordinario más con la misma votación requerida para su nombramiento.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2003)</small>
+
+El Consejero Presidente y los Consejeros Electorales del Instituto Electoral de Quintana Roo, así como el Magistrado Presidente y los magistrados del Tribunal Electoral de Quintana Roo, serán elegidos por el voto de las dos terceras partes de los miembros de la Legislatura del Estado o de la Diputación Permanente, en los recesos de ésta, de entre las propuestas que formulen los grupos parlamentarios, en los términos que disponga la Ley. El Consejero Presidente, los Consejeros Electorales y los Magistrados Numerarios durarán en su encargo seis años y podrán ser ratificados de manera individual, hasta por un periodo mas de tres años con la misma votación requerida para su nombramiento.
 
 El Secretario General del Instituto Electoral de Quintana Roo, será electo por las dos terceras partes del Consejo General, a propuesta de su Consejero Presidente y durará en su encargo el tiempo que determine la Ley.
 
@@ -520,6 +530,8 @@ Los funcionarios señalados en el párrafo que antecede, no podrán, durante su 
 La retribución que perciban el Consejero Presidente y los Consejeros Electorales, así como el Magistrado Presidente y los Magistrados Electorales Numerarios y Supernumerarios, será la prevista en el presupuesto de egresos del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo, respectivamente. Durante los intervalos entre los procesos electorales estarán obligados a realizar tareas de investigación y difusión acerca de temas electorales.
 
 El Instituto Electoral de Quintana Roo y el Tribunal Electoral de Quintana Roo, presentarán sus respectivos presupuestos de egresos ante la instancia correspondiente para su inclusión en el Presupuesto de Egresos del Estado, del año que corresponda.
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
 
 III.- Los partidos políticos son entidades de interés público que tienen como fin promover la vida democrática, contribuir a la integración de la representación popular y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al poder público, de acuerdo con los programas, principios e ideas que postulan; su participación en los procesos electorales estará garantizada y determinada por la Ley. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos. La Ley reconocerá y regulará otras formas de organización política.
 
@@ -555,11 +567,17 @@ La ley fijará los criterios para determinar los límites a las erogaciones de l
 
 Los partidos políticos fijarán reglas claras que habrán de regir sus precampañas, así como determinar el tope máximo de gastos en las mismas.
 
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
+
 IV.- Las agrupaciones políticas estatales son formas de asociación ciudadana que coadyuvarán al desarrollo de la vida democrática y de la cultura política; su constitución, financiamiento y funcionamiento quedarán regulados en la Ley.
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2002)</small>
 
 V.- La Ley establecerá un sistema de medios de impugnación, para garantizar que los actos de los organismos electorales se ajusten invariablemente al principio de legalidad y a lo dispuesto por esta Constitución.
 
 Dicho sistema fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales. De las impugnaciones conocerán el Instituto Electoral de Quintana Roo y el Tribunal Electoral de Quintana Roo. En materia electoral la interposición de los medios de impugnación legales no producirán efectos suspensivos sobre la resolución o el acto impugnado.
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2002)</small>
 
 VI.- La Ley respectiva tipificará los delitos y determinará las faltas y responsabilidades en materia electoral, así como las sanciones que por ellos deban imponerse.
 
@@ -615,13 +633,11 @@ Los Diputados electos en elecciones extraordinarias concluirán el período de l
 
 ARTICULO 52 BIS.- (DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1995)
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 53.
 
-Para la elección de los diputados según el principio de mayoría relativa, el Consejo General del Instituto Electoral de Quintana Roo propondrá al Congreso del Estado la demarcación territorial correspondiente en distritos electorales, la cual deberá ser aprobada en el Pleno de la Legislatura por cuando menos las dos terceras partes de los diputados integrantes de la misma.
-
-La Ley de la materia fijará los criterios que tomará en cuenta la autoridad competente para establecer la demarcación, atendiendo a la densidad de población, las condiciones geográficas y las circunstancias socioeconómicas prevalecientes en las distintas regiones de la entidad.
+La Ley de la materia fijará los criterios que tomará en cuenta el Consejo General del Instituto Electoral de Quintana Roo, para establecer la demarcación, atendiendo a la densidad de población, las condiciones geográficas y las circunstancias socioeconómicas prevalecientes en las distintas regiones de la entidad.
 
 ARTICULO 53 BIS.- (DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1995)
 
@@ -2572,3 +2588,13 @@ Tratándose de funciones y servicios que conforme al presente decreto sean de co
 En el caso del inciso a) del Artículo 147 de la presente, dentro del plazo señalado en el párrafo anterior, el Gobierno del Estado podrá solicitar a la Legislatura del Estado, conservar en su ámbito de competencia los servicios a que se refiere el citado inciso, cuando la transferencia del Estado al Municipio afecte, en perjuicio de la población, su prestación. La Legislatura Estatal resolverá lo conducente.
 
 En tanto se realiza la transferencia a que se refiere el primer párrafo, las funciones y servicios públicos seguirán ejerciéndose o prestándose en los términos y condiciones vigentes.
+
+P.O. 28 DE NOVIEMBRE DE 2003.
+
+###### ARTICULO PRIMERO.
+
+Las reformas contenidas en el presente Decreto entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los actuales Consejero Presidente y los Consejeros Electorales Propietarios y Suplentes del Instituto Electoral de Quintana Roo, así como el Magistrado Presidente y los Magistrados Numerarios del Tribunal Electoral de Quintana Roo, continuarán en sus cargos en los términos previstos en la reforma al artículo 49, fracción II, párrafo séptimo, de la Constitución Política del Estado Libre y Soberano de Quintana Roo, contenida en el presente Decreto.
