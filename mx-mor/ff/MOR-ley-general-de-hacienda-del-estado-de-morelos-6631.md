@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-6631"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "1988-12-28"
+last_updated: "1990-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1990.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -59,23 +59,39 @@ LEY GENERAL DE HACIENDA 1984
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 1o.
 
-Los impuestos, derechos, productos, aprovechamientos, contribuciones especiales y demás ingresos que perciba el Gobierno del Estado de Morelos, conforme a la Ley de Ingresos respectiva, se causarán de acuerdo a las disposiciones de ésta y demás Leyes Fiscales aplicables.
+La Hacienda Pública del Estado de Morelos para cubrir el Gasto Público y demás obligaciones a cargo del Gobierno de la entidad percibirá en cada ejercicio fiscal los impuestos, derechos, productos, aprovechamientos, contribuciones especiales, participaciones e ingresos federales e ingresos extraordinarios, que se regularán por esta Ley y de las demás Leyes Fiscales Estatales, la Ley de Coordinación Fiscal y los convenios de coordinación celebrados o que celebre el ejecutivo del Estado de la Federación y los municipios.
 
-Las percepciones anteriormente señaladas se establecerán anualmente en la Ley de Ingresos del Estado.
+La Ley de Ingresos del Estado establecerá los impuestos, derechos, productos, aprovechamientos, contribuciones especiales, participaciones en ingresos federales e ingresos extraordinarios que anualmente deberán recaudarse o percibirse en el ejercicio fiscal que corresponda.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 2o.
 
-Son ingresos del Estado los percibidos por concepto de impuestos, derechos, productos, aprovechamientos, contribuciones especiales, participaciones, y cualquier otro que incremente su patrimonio.
+Los ingresos de la Hacienda Pública del Estado de Morelos se clasifican en ordinarios y extraordinarios.
+
+I.- Son ingresos ordinarios.- Los impuestos, derechos, productos, aprovechamientos, contribuciones especiales y participaciones en ingresos federales, los cuales se regularán por la presente Ley y demás Leyes Fiscales respectivas; supletoriamente se aplicará el derecho común.
+
+Los productos se sujetarán a las disposiciones indicadas y a lo que prevengan los contratos, convenios o concesiones correspondientes.
+
+Las participaciones se percibirán en los términos previstos por la Ley Federal de coordinación Fiscal y por los convenios de coordinación fiscal respectivos que se hayan suscrito o que se suscriban con la federación.
+
+II.- Son ingresos extraordinarios.- Los empréstitos, impuestos y derechos extraordinarios, expropiaciones, aportaciones del Gobierno Federal y de Terceros a Programas de Desarrollo, subsidios y apoyos, y aportaciones por cooperación a obras públicas derivadas de contribuciones causadas en ejercicios anteriores pendientes de liquidación o pago.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 3o.
 
-Son impuestos las prestaciones que fija la presente Ley con carácter obligatorio a las personas que concidan (sic) con el hecho generador del crédito fiscal.
+Los impuestos son prestaciones en dinero o en especie que la ley fija con carácter general y obligatorio a cargo de las personas físicas y morales cuya situación coincida con la hipótesis que la ley señala como hecho generador del crédito fiscal.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 4o.
 
-Son participaciones los ingresos que derivan del rendimiento de impuestos federales que corresponden al Estado, conforme a las Leyes Federales y convenios de coordinación impositiva, en vigor.
+Las participaciones son los ingresos que el Estado recibe provenientes de los ingresos federales, conforme a la ley de coordinación fiscal y a los convenios de coordinación respectivos que se hayan suscrito o se suscriban para tales efectos.
 
 ###### ARTICULO 5o.
 
@@ -83,13 +99,15 @@ Son contribuciones especiales las prestaciones que fija la Ley por el beneficio 
 
 Será contribución especial, los pagos que realicen los Ayuntamientos al Estado con motivo de los convenios de colaboración administrativa e impositiva para que éste último realice la función recaudatoria de contribuciones municipales en los términos de dichos convenios.
 
-###### ARTICULO 6o.
-
-Son derechos las contraprestaciones que se fijan conforme a esta Ley, en pago de servicios administrativos, o de otra índole que se presten.
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 6o.
 
-BIS.- Son productos los ingresos que el Estado percibe, derivados de la enajenación de bienes de su propiedad, así como las que provengan de las inversiones que el mismo realice en actividades económicas de Organismos Descentralizados o cuando actúe como persona de derecho privado, así como aquéllos derivados de la productividad que obtenga por inversiones en valores de renta fija.
+Los derechos son las contraprestaciones establecidas en la ley y a cargo de las personas que reciban de manera directa los servicios que el Estado presta en sus funciones de derecho público.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+
+ARTICULO 6o BIS.- Los productos son contraprestaciones por los servicios que presta el Estado en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de sus bienes.
 
 ###### ARTICULO 7o.
 
@@ -111,21 +129,27 @@ Cuanto (sic) el Congreso Local establezca un nuevo gravamen en este Ordenamiento
 
 La aplicación de las Leyes y demás disposiciones tributarias o fiscales estarán a cargo del Poder Ejecutivo Estatal, quien ejercerá estas facultades por conducto de la Secretaría de Finanzas del propio Estado.
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 11.
 
-Las Leyes tributarias expedidas por el Congreso del Estado, serán de aplicación estricta.
+Las disposiciones fiscales que establecen cargas a los particulares, las que señalan excepciones a las mismas y las que fijan infracciones y sanciones, son de aplicación estricta, se considera que establecen cargas a los particulares, cuando las normas imponen obligaciones a los mismos, en la forma y términos previstos en dichas disposiciones.
 
-Cuando las palabras que utilicen en la presente Ley y demás disposiciones fiscales o tributarias de carácter general, tengan más de una acepción se estará en primer término a la de carácter gramatical y a falta de ésta, a la de carácter técnico jurídico, buscando en todo caso, el equilibrio que debe existir entre los intereses del Estado y de los particulares.
+En los demás ordenamientos fiscales de carácter general, cuando las palabras tengan más de una acepción se estará en primer término a la interpretación de carácter gramatical y a falta de esta o cuando la norma fiscal no sea expresa, a la de carácter técnico jurídico.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 12.
 
-La ignorancia de las Leyes, Reglamentos, circulares y demás disposiciones fiscales debidamente promulgadas y publicadas, no servirán de excusa ni aprovechará a nadie; sin embargo, las autoridades fiscales en casos especiales podrán conceder a los interesados un plazo de gracia para el cumplimiento de las Leyes y disposiciones relativas.
+La ignorancia de las leyes, reglamentos, circulares y demás disposiciones fiscales debidamente sancionadas y publicadas, no servirá de excusa ni aprovechará a nadie; sin embargo, el gobernador y el secretario de Programación y Finanzas en aquellos casos de personas de escasa instrucción o de precaria situación económica podrán conceder a las mismas un plazo de gracia para que den cumplimiento a las disposiciones fiscales, así como eximirlas de las sanciones en que hubieran incurrido.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 13.
 
-Cuando en este Ordenamiento se tomen como base para el pago de los créditos a cargo de los sujetos pasivos los ingresos de éste, se entiende que quedan comprendidos tanto los que se perciben en efectivo como en especie, salvo que se exprese lo contrario.
+Cuando en este ordenamiento se tomen como base para el pago de los créditos a cargo de los sujetos pasivos los ingresos de estos, se entiende que quedan comprendidos los que se perciban en efectivo como en especie, salvo que se exprese lo contrario.
 
-Cuando se emplee el término "salario mínimo", se entenderá que es el salario general vigente que rige para la Zona Urbana en el Estado de Morelos.
+Cuando se utilice la palabra "salario" deberá entenderse que corresponde al salario mínimo general del área geográfica en la que está comprendido el Estado de Morelos.
 
 ## TITULO SEGUNDO. DE LAS OBLIGACIONES TRIBUTARIAS
 
@@ -165,11 +189,11 @@ X.- Los adquirentes de propiedades en fraccionamientos regulares;
 
 XI.- Las demás personas que señalen las Leyes.
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 16.
 
-Están exentos del pago de impuestos y contribuciones especiales:
-
-I.- Solo los bienes del dominio público de la Federacción (sic) de los Estados o de los Municipios.
+La federación, las entidades federativas y los municipios de la entidad están exentos del pago de impuestos contribuciones especiales, salvo que su actividad no corresponda a sus funciones de derecho público.
 
 ###### ARTICULO 17.
 
@@ -195,11 +219,13 @@ III.- Tratándose de personas físicas, morales, unidades económicas o agrupaci
 
 ### CAPITULO SEGUNDO. DEL NACIMIENTO DE LAS PRESTACIONES Y DETERMINACION DE LOS CREDITOS FISCALES
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 18.
 
-Las prestaciones fiscales nacen en el momento en que se realice el hecho previsto en esta Ley.
+La obligación fiscal nace cuando se realizan las situaciones jurídicas o de hecho que están previstas en las leyes fiscales.
 
-Dichas prestaciones se determinarán y liquidarán conforme a las disposiciones vigentes en el momento de su nacimiento, pero les serán aplicables las normas sobre procedimientos que se expidan con posterioridad.
+Las obligaciones fiscales se determinarán y liquidarán en su caso, conforme a las disposiciones vigentes en el momento de su nacimiento, pero le serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
 
 ###### ARTICULO 19.
 
@@ -393,9 +419,11 @@ Los interesados directamente en situaciones reales y concretas que planteen cons
 
 Toda consulta o petición que se formule a las Autoridades Fiscales deberá ser resuelta en el plazo que esta Ley fija, o a la falta de término establecido, en noventa días. El silencio de las autoridades se considera como resolución negativa cuando no den respuesta en el término que corresponda.
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 49.
 
-Las resoluciones a los particulares no podrán ser revocadas o nulificadas por las Autoridades en perjuicio de los interesados, salvo que expresamente se contemple en la resolución correspondiente, o que mediante disposiciones generales se revoquen resoluciones anteriores que afecten a la hacienda pública.
+Las resoluciones favorables a los particulares no podrán ser revocadas ni nulificadas por las autoridades administrativas; cuando dichas resoluciones deban ser nulificadas, se deberá promover juicio ante el tribunal de lo contencioso administrativo del Estado de Morelos.
 
 ###### ARTICULO 50.
 
@@ -441,7 +469,9 @@ Los avisos, declaraciones o manifestaciones se harán en las formas oficiales qu
 
 Los sujetos pasivos están obligados a llevar los libros de contabilidad y registro que satisfagan las siguientes reglas:
 
-I.- Los registros contables previamente a su utilización deberán estar autorizados por la Secretaría de Finanzas del Estado;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1990)</small>
+
+I.- Previamente a su utilización los libros deberán estar autorizados por la Secretaría de Programación y Finanzas del Estado, o por la Secretaría de Hacienda y Crédito Público, en el ámbito de sus respectivas competencias;
 
 II.- Los asientos en la contabilidad deberán efectuarse dentro de los sesenta días naturales siguientes a la fecha en que se realicen las operaciones;
 
@@ -515,9 +545,9 @@ b).- El nombre de la persona o personas que practicarán las diligencias, las cu
 
 c).- Las contribuciones de cuya verificación se trate y, en su caso los ejercicios, a los que deberá limitarse la visita. Esta, podrá ser de carácter general para verificar el cumplimiento de las disposiciones tributarias durante cierto tiempo o concretarse únicamente a determinados aspectos.
 
-II.- Al iniciarse la visita se entregará la orden al visitado o a su representante y si no estuvieren presentes, a quien se encuentre en el lugar en que debe practicarse la diligencia, se le dejará citatorio para que el mencionado visitado o su representante legal los espere a hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren, la visita se iniciará con quien se encuentre en el lugar visitado, los visitadores acreditarán su personalidad.
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1990)</small>
 
-Cuando exista peligro de que el visitado o su Representante legal se ausenten o puedan realizar maniobras para impedir el inicio o desarrollo de la diligencia, los visitadores podrán proceder al aseguramiento de la contabilidad;
+II.- Los visitadores al iniciar la visita en el domicilio fiscal, se identificarán ante la persona con quien deba entenderse la diligencia y le entregarán la orden de visita, requiriéndola para que designe dos testigos; si estos no son designados o los nombrados no aceptan, los visitadores los designarán haciendo constar esta circunstancia en el acta que levanten; si el contribuyente o su representante no estuvieren presentes, se dejará citatorio con quien se encuentre en el domicilio, para que el contribuyente o su representante los esperen a hora determinada del día hábil siguiente, para practicar la visita; si no los esperasen, la visita se efectuará con la persona que esté en el domicilio;
 
 III.- Los libros, registros y documentos serán examinados en los domicilios, indicados en la orden de visita. Para tal efecto, el visitado representante legal, deberá mantenerlos a disposición de los visitadores desde el momento de la iniciación de la visita hasta su terminación. La Secretaría de Finanzas del Estado tomará las medidas necesarias para el cumplimiento de este precepto, inclusive el secuestro de libros, registros y documentos para examinarlos en las oficinas de la autoridad fiscal cuando así se requiera. En este último caso, se levantará acta parcial al respecto.
 
@@ -553,9 +583,11 @@ III.- Que el Contador Público emita conjuntamente con su dictamen un informe so
 
 Las opiniones e interpretaciones contenidas en los dictámenes serán aceptados o rechazados razonada y fundadamente por la Secretaría de Finanzas o la Dirección de Auditoría fiscal de (sic) estado para determinar la situación de los sujetos pasivos o responsables solidarios y expedir las liquidaciones de impuestos omitidos que corresponden, en forma proporcional y equitativa.
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 64.
 
-Cuando el causante niegue lisa y llanamente los hechos que motiven los actos y resoluciones que dicte la autoridad fiscal, corresponde a ésta el allegarse las pruebas conducentes de acuerdo con las facultades que esta Ley le concede para precisar la situación del causante a fin de que pueda fundamentar sus determinaciones, a menos que la negativa implique una afirmación; en este caso, la carga de la prueba corresponde al causante.
+Los actos y resoluciones de las autoridades fiscales se presumirán ajustados a derecho; si embargo, cuando el contribuyente niegue lisa y llanamente los hechos que motivan los actos y resoluciones que dicte la autoridad fiscal, corresponderá a esta allegarse las pruebas conducentes de acuerdo con las facultades que esta Ley le concede, para precisar la situación del contribuyente a fin de que pueda fundamentar sus determinaciones, salvo que la negativa implique una afirmación, en cuyo caso, la carga de la prueba corresponderá al contribuyente.
 
 ###### ARTICULO 65.
 
@@ -657,7 +689,9 @@ VII.- Faltar en cualquiera otra forma no prevista en las fracciones anteriores, 
 
 VIII.- Son infracciones a cargo de personas que tengan fe pública:
 
-a).- Autorizar, asentar en el protocolo, en el libro de registro escrituras, minutas, actos o contratos, sin cumplir o cerciorarse previamente de que se han cumplido las disposiciones tributarias o sin dar los avisos que prevengan las leyes.
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+
+a).- Autorizar, asentar en el protocolo, en el libro de registro de escrituras, actos o contratos sin cumplir o cerciorarse previamente de que se han cumplido las disposiciones tributarias o sin dar los avisos que previenen las leyes.
 
 b).- Extender a las personas a que se refiere la fracción anterior constancia de haberse cumplido con las disposiciones tributarias en los actos en que intervengan, cuando no proceda su otorgamiento.
 
@@ -761,7 +795,9 @@ VI.- Cuando la infracción no haya tenido ni pueda haber tenido como consecuenci
 
 VII.- Cuando las infracciones consistan en hechos u omisiones semejantes, en documentos, o libros, y siempre que no hayan tenido como consecuencia la evasión del pago de créditos tributarios, se considerará el conjunto como una sola infracción y se impondrá una multa que no excederá del máximo que fija esta Ley para sancionar cada hecho u omisión;
 
-VIII.- Cuando se omite una prestación fiscal que corresponda a los actos y contratos que se hagan constar en escrituras públicas o minutas, la sanción se impondrá exclusivamente a los Notarios y Corredores, y los otorgantes solo quedarán obligados a pagar los créditos fiscales omitidos. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los interesados, la sanción se aplicará entonces solamente a éstos;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1990)</small>
+
+VIII.- Cuando se omita una prestación fiscal que corresponda a los actos y contratos en escrituras públicas, la sanción se impondrá exclusivamente a los notarios y corredores y los otorgantes solo quedarán obligados a pagar los créditos fiscales omitidos. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los interesados, la sanción se aplicará entonces solamente a estos;
 
 IX.- Cuando la liquidación de alguna prestación tributaria esté encomendada a servidores públicos del Estado o sus Municipios, éstos serán responsables de las infracciones que se cometan y se les aplicarán las sanciones que corresponda, quedando los sujetos pasivos únicamente obligados a pagar, la prestación fiscal omitida, excepto en los casos en que esta Ley o alguna otra Ley tributaria disponga que no se podrá exigir al sujeto pasivo dicho pago;
 
@@ -1591,37 +1627,31 @@ La base del impuesto es el valor catastral de los predios objeto del mismo.
 
 Cuando el avalúo catastral resulte inferior al avalúo bancario o al precio de enajenación, servirá de valor catastral del predio el que resulte más alto entre estos tres.
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 170.
 
-El impuesto se causará conforme a la siguiente:
+El impuesto se causará anualmente conforme a la siguiente:
 
 TARIFA
 
-PREDIAL URBANO
+I.- PREDIOS URBANOS.
 
-I.- Sobre el valor catastral provisional 11 al millar
+A).- Sobre los Primeros quince millones
 
-II.- Sobre el valor catastral definitivo;
+de pesos del valor catastral. 5% al millar
 
-a).- Sobre los primeros quinientos mil pesos 6 al millar
+B).- Sobre el excedente 7% al millar
 
-b).- Sobre el excedente 8 al millar
+II.- PREDIOS RUSTICOS 5% al millar
 
-III.- Bienes del dominio público de la Federación, del Estado, de los Municipios, instituciones de beneficiencia (sic) y quienes a juicio del Gobernador Constitucional del Estado deba ser concedido este beneficio. 0 al millar
+Los contribuyentes de este impuesto respecto a predios urbanos deberán pagar una cuota mínima anual hasta del 1.00% del salario mínimo anual vigente y por predios rústicos una cuota mínima anual hasta del 0.6% del salario mínimo anual vigente, aún cuando como consecuencia de alguna exención o aplicación de esta tarifa deban cubrir una cantidad menor.
 
-Predial rústico.
+Tratándose de predios rústicos, sólo deberá incluirse la propiedad o posesión de los terrenos y de las construcciones permanentes que no sean utilizadas directamente por propio destino en fines agrícolas, ganaderos o forestales para cuyos casos se estará a lo dispuesto en otros artículos de este ordenamiento así como a la Ley Federal de la Reforma Agraria.
 
-I.- Sobre el valor catastral provisional 11 al millar
+Los predios ubicados en zonas no catastradas serán objeto de avalúo por parte de la administración o recaudación de rentas que corresponda, el cual será provisional, sujeto a ratificación o rectificación de la Dirección General de Catastro del Estado. El contribuyente podrá inconformarse contra dicho avalúo, en un plazo que no excederá de diez días naturales posteriores a su notificación. Para el caso de que no se interponga el recurso de inconformidad o no se rectifique, el avalúo será definitivo.
 
-II.- Sobre el valor catastral definitivo. 6 al millar
-
-Los contribuyentes del impuesto, respecto de predios urbanos deberán pagar una cuota mínima anual de $250.00 y respecto de los predios rústicos $150.00 aún cuando como consecuencia de alguna exención o aplicación de esta tarifa resultaren a cubrir una cantidad menor.
-
-Tratándose de predios rústicos, solo deberá incluirse la propiedad o posesión de los terrenos y de las construcciones permanentes que no sean utilizadas directamente, por propio destino en fines agrícolas, ganaderos o forestales, para cuyos casos se estará a lo dispuesto en otros artículos de este ordenamiento así como a la Ley Federal de la Reforma Agraria.
-
-Las zonas no catastradas del Estado serán objeto de avalúos por parte de las oficinas receptoras de rentas y tendrán carácter provisional, sujeto a ratificación o rectificación de la Dirección General de Catastro en el Estado, dentro de los 60 días naturales posteriores a su elaboración.
-
-Estos avalúos que se denominan administrativos, entrarán en vigor a partir del bimestre siguiente a aquél en que se efectúen salvo que se trate de predios no registrados, los avalúos podrán abarcar los últimos 5 años.
+Estos avalúos se denominan administrativos y entrarán en vigor a partir del bimestre siguiente a aquel en que se haga la notificación.
 
 ###### ARTICULO 171.
 
@@ -3045,139 +3075,159 @@ Los propietarios de los vehículos a que alude este impuesto, o en su caso, los 
 
 ### CAPITULO OCTAVO. DE LOS IMPUESTOS A LA EXPLOTACION DE ESPECTACULOS, DIVERSIONES, BALNEARIOS, LOTERIA Y LA OBTENCION DE PREMIOS DE APUESTAS PERMITIDAS
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 325.
 
-Es objeto de los impuestos la explotación de espectáculos, diversiones, balnearios, loterías y la obtención de premios en apuestas permitidas.
+Es objeto de los impuestos los ingresos por la explotación de espectáculos, diversiones, balnearios, loterías y la obtención de premios en apuestas permitidas.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 326.
 
-Son sujetos de los impuestos quienes exploten los espectáculos, diversiones, balnearios y los que perciban los premios de loterías y apuestas permitidas.
+Son sujetos de los impuestos las personas que exploten los espectáculos, diversiones, balnearios y los que perciban los premios de loterías y apuestas permitidas.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 327.
 
-Tienen obligación de retener y enterar el impuesto, quienes hagan el pago del premio obtenido, en el caso de premios de loterías y apuestas permitidas y en los demás casos los que tengan a su cargo la administración.
+Tienen obligación de retener y enterar el impuesto, las personas que hagan el pago del premio obtenido, en el caso de premios de loterías y apuestas permitidas y en los demás casos las que tengan a su cargo la administración.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 328.
 
-Son responsables solidarios en el pago de los impuestos los que organicen, manejen, patrocinen o intervengan, sean cuales fuera el nombre y función con el que lo hagan, en las actividades comprendidas en el Artículo 325.
+Son responsables solidarios, en el pago de estos impuestos los que organicen, manejen, patrocinen o intervengan, sea cuales fuera el nombre y función con el que lo hagan, en las actividades comprendidas en el artículo 325, así como los propietarios de una empresa dedicada a otro giro, cuando permitan que en su local se exploten espectáculos o diversiones por los cuales se cobre al espectador una cantidad adicional al precio de los servicios que tiene autorizado el establecimiento.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 329.
 
-Es base del impuesto:
+Es base del Impuesto:
 
-TASA O CUOTA FIJA MENSUAL
+TASA O CUOTA
+
+FIJA O MENSUAL
 
 I.- De espectáculos.
 
-A).- Cinematógrafos:
+A).- Cinematógrafos.
 
-a).- Sobre el ingresos bruto 5%
+1).- Sobre el ingreso bruto percibido
 
-b).- Instalados en vehículos,
+por el boletaje vendido. 5%
 
-por función. De $50.00 a $300.00
+2).- Instalados en vehículos, por función, de .25 A .50%
 
-c).- Funciones Extraordinarias.
+B).- Teatro, variedades y otros Similares
 
-Sobre el ingreso bruto. 5%
+sobre el ingreso bruto percibido por el
 
-B.- Teatro, Variedades y otro (sic)
+boletaje vendido. 5%
 
-Similares por función sobre el ingreso bruto 5%
+C).- Circo.
 
-C.- Circo:
+Sobre el ingreso bruto percibido por el
 
-Por función sobre el ingreso bruto. 5%
+boletaje vendido. 5%
 
-D.- Festivales taurinos:
+D).- Festivales taurinos.
 
-a).- Corridas de toros,
+1).- Corridas de toros.
 
-sobre el ingreso bruto. 10%
+Sobre el ingreso bruto percibido por el
 
-b).- Novilladas, y charreadas
+boletaje vendido 10%
 
-sobre el ingreso bruto. 5%
+2).- Novilladas y charreadas.
 
-E.- Lucha libre y Box,
+sobre el ingreso bruto percibido por el
 
-sobre el ingreso bruto. 5%
+boletaje vendido 5%
 
-F.- Gallos de Pelea:
+E).- Lucha libre y box
 
-a).- Sobre la entrada bruta. 10%
+sobre el ingreso bruto percibido por el
 
-b).- Sobre apuestas liquidadas. 10%
+boletaje vendido. 10%
 
-G.- Deportivos, Fútbol, Béisbol y otros
+F).- Deportivos: Futbol, béisbol y otros
 
-Espectáculos similares,
+espectáculos similares sobre el ingreso
 
-sobre la entrada bruta. 10%
+bruto percibido por el boletaje vendido. 10%
 
-H.- Por la explotación de balnearios, se tomará como base el número de boletos vendidos, aplicándoles $10.00 por unidad, debiéndose enterar a la Recaudación de Rentas respectiva; dentro de los primeros quince días del mes siguiente.
+G).- Por la explotación de balnearios. 2%
 
-II.- De diversiones:
+Se tomará como base el ingreso bruto percibido por el boletaje vendido, debiéndose enterar a la recaudación de rentas respectiva, dentro de los primeros quince días del mes siguiente.
+
+II.- De Diversiones.
 
 A.- Bailes:
 
-a).- Cuando se celebren en lugares públicos o privados si se cobra por la entrada en cualquier forma de venta (boletos o de invitaciones, cuotas, donativos, cooperación, guardarropa, reservaciones de mesas, por piezas que se baile, por rifas, venta de objetos, etc.) 10% sobre los ingresos brutos que se estime obtener sin que el monto del impuesto sea inferior de $2,000.00.
+1).- Cuando se celebren en lugares públicos o privados si se cobra por la entrada en cualquiera forma de venta (boletos o de invitaciones, cuotas, donativos, cooperación, guardarropa, reservaciones de mesa, por pieza de baile, por rifas, venta de objetos), 10% sobre los ingresos brutos sin que el monto del impuesto sea inferior a siete días de salario.
 
-b).- Cuando se celebre en lugares públicos o privados si no se cobra por la entrada y los gastos se sufraguen por los organizadores o por los asistentes 15% sobre el total de los gastos, pero sin que el monto del impuesto sea inferior a $3,000.00.
+2).- Cuando se celebren en lugares públicos o privados si no se cobra por la entrada y los gastos se eroguen por los organizadores o por los asistentes: 15% sobre el total de los gastos, pero sin que el monto del impuesto sea inferior a siete días de salario.
 
-III.- Aparatos Fonoelectromecánicos:
+Cuando estas diversiones se realicen en restaurantes, centros nocturnos, cabarets, discotecas, salones de fiestas o bailes y bares y estén gravadas por el impuesto al valor agregado, no causaran este impuesto.
 
-A.- Por cada aparato, cuota anual. $2,000.00
+TASA O CUOTA FIJA MENSUAL.
 
-B.- Aparatos de sonido, cuota anual:
+IV (SIC).- Sorteos o rifas:
 
-a).- De instalación fija De $100.00 a 300.00
+Sobre el ingreso bruto percibido por
 
-b).- Instalación de vehículos De $100.00 a 300.00
+boletaje vendido. 10%
 
-c).- En ferias, Verbena, Etc., Cuota diaria de $100.00 a $300.00
+V.- Otros espectáculos, loterías, diversiones
 
-IV.- Sorteos o rifas.
+o juegos no especificados, sobre el ingreso
 
-Sobre el ingreso bruto 10%
+bruto percibido por el boletaje vendido. 10%
 
-V.- Otros espectáculos, Diversiones
+VI.- Por la obtención de premios en sorteos,
 
-o Jegos (sic) no especificados sobre sus
+loterías o rifa, sobre el ingreso bruto percibido
 
-ingresos brutos. de 10%
+en premios. 10%
 
-VI.- Loterías, instalados en locales
-
-permanentes o puestos semifijos diario de 75.00 a 300.00
-
-VII.- Por la obtención de premios en sorteos,
-
-loterías o rifas, sobre el ingreso bruto o valor
-
-del premio obtenido 10%
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 330.
 
-Los contribuyentes del impuesto fijado en el Artículo anterior comprendidos en las Fracciones I, inciso A subinciso a), lo pagarán dentro de los primeros quince días naturales del mes posterior; los comprendidos en las Fracciones I, incisos A subincisos b y c), B, C, D, E, F y G, II incisos A, III inciso B subinciso c), V y VI, lo cubrirán el día de la función, los comprendidos en la Fracción III inciso B subincisos a) y b) lo cubrirán en la primera quincena del respectivo mes; los comprendidos en la Fracción IV y VII, lo pagarán al inicio de la semana anterior a los sorteos (sic) rifas; y los comprendidos en la Fracción III inciso A) dentro de los primeros dos meses del año.
+Los contribuyentes del impuesto fijado en el artículo anterior lo enterarán en la forma siguiente:
+
+> <small>(F. DE E., P.O. 31 DE ENERO DE 1990)</small>
+
+I.- Los comprendidos en la fracción I inciso a) subinciso I, lo pagarán dentro del los primeros quince días naturales del mes posterior.
+
+> <small>(F. DE E., P.O. 31 DE ENERO DE 1990)</small>
+
+II.- Los comprendidos en las fracciones I inciso A), B), C), D), E), F) y G); II inciso A), y V lo pagarán el día de la función.
+
+III.- Los comprendidos en las fracciones IV y VI lo cubrirán dentro de la semana posterior a los sorteos o rifas.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 331.
 
-Los explotadores de juegos con apuestas deberán retener el impuesto a cargo de los sujetos que obtengan los premios, sea en dinero o en especie, y enterarlo dentro de los diez días siguientes a la celebración del evento.
+Los explotadores de juegos con apuestas liquidables en dinero o en especie, deberán retener el impuesto a cargo de los sujetos que obtengan dichos premios y enterarlo dentro de los diez días siguientes a la fecha de la celebración del evento.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 332.
 
-Los organizadores de sorteos, rifas o loterías al iniciar la distribución o venta de las participaciones, deberán presentar a la Secretaría de Finanzas una manifestación en la que comprobarán haber cumplido con los requisitos Federales y Locales.
+Los organizadores de sorteos, rifas o loterías, deberán presentar a la administración o recaudación de rentas que corresponda una manifestación en la que comprobarán que han cumplido con los requisitos federales y locales antes de iniciar la venta o distribución de las participaciones.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 333.
 
-Están exentos del pago:
+Están exentos de pago de este impuesto:
 
-La Lotería Nacional para la Asistencia Pública y quienes obtengan los premios que otorgue esta Institución.
+I.- La Lotería Nacional para la asistencia pública y quienes obtengan los premios que otorga la institución; y
 
-II.- (sic) Los que causen impuestos federales participables.
-
-Sin embargo deberán cumplir con las obligaciones de retención que a este u otros impuestos les imponga.
+II.- Los contribuyentes en impuestos federales participables, por estos conceptos.
 
 ### CAPITULO NOVENO. DEL IMPUESTO A LA AGRICULTURA
 
@@ -3557,65 +3607,77 @@ D E R O G A D O (SIC)
 
 ### CAPITULO DECIMO TERCERO. IMPUESTO AL EJERCICIO DE LAS PROFESIONES QUE NO CAUSEN EL IMPUESTO AL VALOR AGREGADO
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 370.
 
-Es objeto de este impuesto la percepción de ingresos dentro del territorio del Estado derivados del libre ejercicio de la profesión médica, bajo cualquier especialidad o denominación con que se le designe, inclusive aquellas ramas de atención bucodental.
+Es objeto de este impuesto la percepción de ingresos dentro del territorio del Estado derivados de la prestación de servicios profesionales de medicina cuando para su ejercicio se requiera Título Médico, bajo cualquier especialidad o denominación con que se le designe inclusive aquellas ramas de atención bucodental y veterinaria.
 
-Se exceptúa de lo anterior la profesión médica veterinaria, cuando se ejerza sin estar bajo la dirección y dependencia de un tercero.
+Para los efectos de este impuesto el ingreso se considera percibido en el Estado cuando el sujeto pasivo resida en el mismo o cuando residiendo fuera de este la fuente de ingreso se encuentre en la entidad.
 
-Para los efectos de este impuesto el ingreso se considera percibido en el Estado cuando el sujeto pasivo resida en el mismo o cuando residiendo fuera del Estado, la fuente de ingreso se encuentre en éste.
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 371.
 
-Son sujetos de este impuesto, las personas físicas que ejercen en forma independiente o cuando ejercen organizados en agrupaciones profesionales, sociedades o asociaciones civiles y realicen actividades comprendidas en el artículo anterior.
+Son sujetos de este impuesto, las personas físicas que ejercen en forma independiente o cuando ejerzan organizadas en sociedades civiles y realicen actividades comprendidas en el artículo anterior.
 
 Para los efectos de este impuesto se considerará el ingreso exclusivamente de quien lo perciba.
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 372.
 
-Es base del impuesto el ingreso bruto que mensualmente perciba la persona física que ejerce en forma independiente o que corresponda a cada persona cuando ejerce organizado en agrupaciones profesionales, sociedades o asociaciones civiles.
+Es base del impuesto el ingreso bruto que mensualmente perciba la persona física que ejerza en forma independiente o que corresponda a cada persona cuando ejerza organizada en sociedades civiles.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 373.
 
-A la base del impuesto determinada conforme al artículo anterior se aplicará la tasa del 2%.
+A la base del impuesto determinada conforme al artículo precedente, deberá aplicase la tasa del 2%.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 374.
 
-El pago de este impuesto debe cubrirse bimestralmente dentro de los primeros quince días de los meses de marzo, mayo, julio, septiembre, noviembre y enero de cada año mediante una declaración que contenga los datos relativos a los ingresos objeto de este impuesto obtenido durante el bimestre anterior.
+El pago de este impuesto deberá cubrirse mensualmente dentro de los primeros quince días del mes siguiente al de percepción de los ingresos, mediante una declaración que contenga los datos relativos a los ingresos objeto de este impuesto obtenido durante el mes anterior.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 375.
 
 Los sujetos de este impuesto están obligados a:
 
-I.- Empadronarse ante la Receptoría de Rentas de la de marcación (sic) correspondiente dentro de los diez días hábiles siguientes a la fecha de iniciación de sus operaciones, haciendo uso de las formas oficialmente aprobadas, con los datos que ellas exijan;
+I.- Empadronarse ante la Administración o Receptoría de Rentas correspondiente a su domicilio fiscal, dentro del mes siguiente a la fecha de inicio de operaciones, en las formas aprobadas por la Secretaría de Programación y Finanzas del Estado;
 
-II.- Presentar ante la Receptoría de Rentas correspondiente, al aviso respectivo en los casos de cambio de nombre o razón social, traspaso, o clausura dentro del mismo plazo establecido en la fracción anterior, así como el de cambio de domicilio;
+II.- Presentar ante la Administración o Receptoría de Rentas correspondiente a su domicilio fiscal, en su caso, los avisos siguientes:
 
-III.- Llevar los libros y expedir los documentos que establecen las disposiciones fiscales federales que les sean aplicables; y en todo caso los recibos de honorarios y servicios respectivos;
+Cambio de nombre, cambio de domicilio fiscal, cierre o apertura de sucursales o clausuras del establecimiento, dentro del mismo plazo establecido en la fracción anterior;
 
-IV.- Las demás que impongan las Leyes.
+III.- Llevar los libros y registros y expedir los recibos que establezcan las disposiciones fiscales federales que le sean aplicables; y
+
+IV.- Las demás que establezcan las leyes federales y locales.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 376.
 
-Están exentos de este impuesto:
+Están exentos de este impuesto las personas físicas cuyo ingreso bruto diario no exceda de dos veces el salario mínimo general y no realicen ninguna otra actividad gravada por esta Ley.
 
-I.- Las remuneraciones que perciban los sujetos que al día último del mes de la imposición tengan cumplidos más de 65 años de edad, su ingreso bruto no exceda de dos tantos del salario mínimo vigente y no realicen ninguna otra actividad gravada por esta Ley.
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 377.
 
-La Secretaría de Finanzas del Estado por conducto de su Dirección de Auditoría Fiscal, podrá determinar estimativamente el ingreso gravable de los sujetos de este impuesto, en los siguientes casos:
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+La Secretaría de Programación y Finanzas del Estado por conducto de la Dirección General de Ingresos, podrá determinar estimativamente el ingreso gravable de los sujetos de este impuesto, en los siguientes casos:
 
 I.- Cuando no se encuentren empadronados;
 
 II.- Cuando no se presenten declaraciones;
 
-III.- Cuando no lleven o no exhiban a requerimiento de la Autoridad competente, los libros o documentos que están obligados a llevar;
+III.- Cuando no lleven o no exhiban a requerimiento de la autoridad competente los libros o documentos que están obligados a llevar;
 
-IV.- Cuando los libros de contabilidad se encuentren en blanco o atrasados o no expidan los documentos que establecen las Leyes Fiscales Federales que les sean aplicables;
+IV.- Cuando los libros de contabilidad se encuentren en blanco o atrasados o no expidan los documentos que establecen las leyes fiscales que les sean aplicables.
 
-V.- Cuando se opongan u obstaculicen la iniciación o desarrollo de una visita domiciliaria ordenada por la Dirección de Auditoría Fiscal del Estado; y
+V.- Cuando se opongan u obstaculicen la iniciación o desarrollo de una visita domiciliaria ordenada por la Secretaría de Programación y Finanzas del Estado; y
 
 VI.- Cuando los signos externos de riqueza del contribuyente pongan de manifiesto un ingreso superior en más del 20% del declarado.
 
@@ -3685,9 +3747,13 @@ Este impuesto no será objeto de reducción, su aplicación se hará sobre la ba
 
 ### CAPITULO PRIMERO. DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+
 ## TITULO TERCERO. DE LAS CONTRIBUCIONES ESPECIALES
 
 ### CAPITULO SEGUNDO. POR REGISTRO PUBLICO DEL COMERCIO
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 385.
 
@@ -3768,6 +3834,8 @@ La Dirección de Contribuciones Estatales o la Tesorería Municipal correspondie
 D.- (sic) En los casos de fraccionamientos, condominios, conjuntos habitacionales, divisiones y subdivisiones, la cuota de cooperación será de $3,000.00 por cada lote, condominio, departamento, división y subdivisión que acuerde la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales.
 
 ### CAPITULO TERCERO. POR REGISTRO DE CONTRATOS DE ARRENDAMIENTO Y OTROS CONTRATOS RELATIVOS A INMUEBLES
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 386.
 
@@ -4043,449 +4111,329 @@ No habrá exención alguna de las contribuciones especiales que esta Ley estable
 
 ## TITULO CUARTO. DE LOS DERECHOS
 
-### CAPITULO CUARTO. POR REGISTRO DE TITULOS PROFESIONALES Y CONEXOS
+### CAPITULO CUARTO. DEL REGISTRO DE TITULOS PROFESIONALES, EXPEDICIÓN DE CEDULAS Y CONEXOS
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 414.
 
-Los servicios que se presten en el Registro Público de la Propiedad y del Comercio, causarán derechos y se pagarán previamente por los interesados conforme a la siguiente:
+Los servicios que se presten por el Registro Público de la Propiedad y del Comercio, causarán derechos y se pagarán previamente por los interesados conforme a los siguientes artículos:
 
-TARIFA:
-
-DE LA PROPIEDAD
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-I.- Por la calificación de todo documento que se devuelva sin cumplimiento por carencia u omisión de requisitos impedimento legal o a petición del interesado, cada vez el importe de un día y medio de salario mínimo general en el Estado de Morelos.
-
-II.- Por la inscripción de documentos, resoluciones judiciales administrativas o de cualquiera otro tipo, en virtud de los cuales, establezca, declare, adquiera, modifique o extinga el dominio o la posesión de bienes inmuebles o derechos reales, incluyendo los fideicomisos traslativos de dominio así como los relacionados con la propiedad o posesión de buques, aeronaves y, en general de bienes y derechos mercantiles, sobre el valor mayor que resulte entre el de operación catastral o de avalúo o de factura: 12 al millar;
-
-III.- Por la inscripción o anotación de gravámenes o limitaciones a la propiedad y a la posesión de bienes y actos y los contratos tendientes a la adquisición, transmisión, modificación de derechos reales, embargos, secuestros, así como de habilitación o avío celebrados entre particulares o sociedades nacionales de crédito, sobre el importe de la operación: 12 al millar;
-
-IV.- Por la substitución de deudor, en cualquier caso, el importe de cinco días de salario mínimo general en el Estado de Morelos;
-
-V.- Por la inscripción de contratos de crédito hipotecario, refaccionario o de habilitación o avío, celebrados por sociedades nacionales de crédito, instituciones de seguros o de fianzas conforme lo previsto en el Artículo 157 de la Ley General de Instituciones de Crédito y Organizaciones auxiliares, sobre el importe de la operación: 2.5 al millar.
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-La cancelación de los contratos a que se refiere esta Fracción, causará derecho equivalente a un día y medio de salario mínimo general en el Estado de Morelos;
-
-VI.- Constitución de Créditos no comprendidos en la Fracción anterior: 5 al Millar;
-
-VII.- Por la inscripción de documentos o resoluciones judiciales relativas a las sucesiones, independiente de los derechos que se causen por la inscripción de la transmisión de bienes hereditarios, el importe de cuatro días del salario mínimo general en el Estadode (sic) Morelos;
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-VIII.- Por la inscripción de la Constitución del patrimonio familiar el importe de 3 días del salario mínimo general en el Estado de Morelos;
-
-IX.- Por la cancelaci´on (sic) de la disposición del patrimonio familiar, el importe de dos días del salario mínimo general en el Estado de Morelos;
-
-X.- Por la inscripción de:
-
-a).- Fideicomiso de administración o de garantías: cuatro días de salario mínimo general en el Estado de Morelos;
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-b).- Cancelación de estos fideicomisos, el importe de dos días del salario mínimo general en el Estado de Morelos;
-
-c).- Contratos de arrendamiento cuando el término excede de seis años o haya anticipo de renta por más de tres años:
-
-6 Al millar.
-
-XI.- Por la inscripción de:
-
-a).- Actos, contratos, convenios o resoluciones judiciales o administrativas; por las que se constituya un fraccionamiento, se lotifique, relotifique, divida y sibdivida (sic) un inmueble, por cada lote el importe de cinco días de salario mínimo general en el Estado de Morelos;
-
-b).- Por la fusión de inmuebles, por cada uno de los lotes fusionados, el importe de cinco días del salario mínimo general en el Estado de Morelos;
-
-c).- Por la Constitución del régimen de propiedad en condominio con sus modificaciones, por cada unidad departamental, vivienda, casa, despacho o local, en el importe de cinco días del salario mínimo general en el Estado de Morelos.
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-XII.- Por las inscripciones de contratos de prenda, de arrendamiento de inmuebles, de comodato y de actos o contratos sobre muebles y aquellos sujetos a condición suspensiva, resolutoria, reserva de propiedad o cualquier otra modalidad, sobre el valor mayor que resulte entre el de la operación, catastral o de avalúo o de factura: 6 al millar;
-
-XIII.- Por la cancelación de los actos comprendidos en la fracción anterior, el importe de tres días del salario mínimo general en el Estado de Morelos;
-
-XIV.- Por la matricula de comerciante, persona física, el importe de cuatro días de salario mínimo general en el Estado de Morelos;
-
-XV.- XV.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 1988)
-
-XVI.- Por la inscripción del documento por los que se constituyen asociaciones o sociedades civiles sobre el monto de capita (sic) o de sus aumentos: 5 al millar;
-
-Si el capital es indeterminado, el importe de cuatro días de salario mínimo general en el Estado de Morelos.
-
-XVII.- Por la inscripción de:
-
-a).- Actas de asamblea, de socios, asociados, o sesiones de consejo de administración de juntas, (sic) directivas aún cuando se acuerden modificaciones al pacto social, que no implique aumento de capital, por cada una el importe de cinco días de salario mínimo general en el Estado de Morelos;
-
-b).- Hipotecas industriales, en los términos de la Ley general, Instituciones de crédito y organizaciones auxiliares: 7 al millar;
-
-c).- Poderes y substituciones de los mismos el importe de cuatro días de salario mínimo general en el Estado de Morelos;
-
-d).- Revocación de poderes, por cada una, el importe de dos días del salario mínimo general en el Estado de Morelos. ; (sic)
-
-e).- Por cada uno de los actos de disolución, liquidación o cancelación del asiento correspondiente a una persona moral, el importe de cinco días del salario mínimo general en el Estado de Morelos;
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-f).- Por el depósito del programa a que se refiere el Artículo 92 de la Ley General de Sociedades Mercantiles, de firmas autógrafos (sic), balances y demás documentos que requieran de esa modalidad conforme a la Ley, el importe de cinco días del salario mínimo general en el Estado de Morelos;
-
-g).- Acta de emisión de bonos u obligaciones de sociedades mercantiles, sobre el monto de la emisión: 6 al millar;
-
-h).- Fusión de sociedades mercantiles o civiles sobre el monto de capital social inscrito de la sociedad fusionada: 7 al millar;
-
-i).- Declaraciones judiciales de suspensión de pagos o sentencia del estado de quiebra, el importe de cinco días de salario mínimo general en el Estado de Morelos;
-
-j).- Convenios y contratos de corresponsalía mercantil el importe de cinco días de salario mínimo general en el Estado de Morelos;
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-k).- Rectificaciones relativas a inscripciones principales; cuando se refieran a modificaciones de plazo, intereses, garantías, datos equivocados o cualesquiera otras que no constituyan novación del contrato general en el Estado de Morelos. 3 días;
-
-l).- Inscripciones de fianzas, contrafianzas u obligaciones solidarias con el fiador, el importe de cuatro días de salario mínimo general en el Estado de Morelos;
-
-XVIII.- Por la expedición de certificados, copias certificadas o informes se causarán:
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-a).- Certificados de libertad o existencia de gravámenes hasta por un período de veinte años el importe de cuatro días del salario mínimo general en el Estado de Morelos.
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-Por un período de diez años, el importe de dos días del salario mínimo general en el Estado de Morelos;
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-b).- Por la certificación de actos o constancias registrales, por cada asiento inscrito o anotado en libros o legajos $250.00 por hoja;
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-c).- Certificados de no inscripción o no propiedad, el importe de quince días y cuatro días respectivamente de salario mínimo en el Estado de Morelos;
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-d).- Certificados de inscripción, el importe de tres días de salario mínimo General en el Estado de Morelos;
-
-e).- Por informes o constancias solicitadas por autoridades u organismos no exceptuados por la Ley, el importe de cuatro días del salario mínimo general en el Estado de Morelos;
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-f).- Por la búsqueda de antecedentes registrales omitidos o equivocados en un documento, el importe de cuatro días de salario mínimo general en el Estado de Morelos;
-
-c).- (sic) De $ 500,000.01 a $ 2´000,000.00: $ 7,900.00 más el 4 al millar sobre el exceso;
-
-d).- De $ 2´000,000.01 en adelante: $ 13´900.00 más el 3 al millar sobre el exceso.
-
-XXIV.- (sic) Cuando los actos y hechos contenidos con las escrituras o actas se refieran a pensiones, rentas, o cualquier otra prestación periódica de monto y plazo determinados, cuando los instrumentos se refieran a actos o hechos que contengan prestaciones periódicas de monto determinado y de plazo indeterminado se tomará como base su importe durante cinco anualidades y en ambos casos se aplicará la tarifa de la Fracción X, que antecede;
-
-XXV.- Cuando se trate de actas o escrituras de valor indeterminado, los derechos por autorización definitiva serán por una cantidad equivalente: al importe de dos días de salario mínimo general en el Estado de Morelos por cada hoja del instrumento;
-
-XXVI.- Por la autorización definitiva de escrituras que contengan diversos contratos o actos, los derechos se fijarán en su totalidad por cada uno de los contratos o actos principales y en una mitad por los accesorios o complementarios, de acuerdo con la cuota señalada en la Fracción anterior;
-
-XXVII.- Por el depósito de testamento (sic) ológrafos:
-
-a).- Si fueren hechos en los locales de las oficinas respectivas, en horas hábiles, el importe de cinco días del salario mínimo general en el Estado de Morelos;
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-b).- Si fueren hechos fuera de dichos locales o fuera de horas de despacho normal de la oficina, el importe (sic) siete días de salario mínimo general en el Estado de Morelos;
-
-XIX.- (sic) Por la búsqueda de antecedentes registrales:
-
-a).- Si se proporciona el número o folio: $180.00
-
-b).- Si se solicita la información por el nombre del propietario, razón social de la empresa o de la dirección del inmueble: $250.00
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-c).- Si se solicita la información por cualquier otra "llave de acceso" sea colonia, delegación, zona postal, antecedentes registrales o clave catastral: $400.00
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-XX.- Por certificación de documentos y firmas ante el registrador, el importe de tres días de salario mínimo general en el Estado de Morelos;
-
-XXI.- Por cancelación de embargos, hipoteca, cédulas hipotecarias, demandas, prenda, comodato y fianzas entre particulares, el importe de tres días del salario mínimo general en el Estado de Morelos;
-
-XXII.- Por inscripción, anotación depósito, cancelación o expedición de cualquier otro acto no especificado en este Artículo el importe de cuatro días del salario mínimo general en el Estado de Morelos;
-
-XXIII.- Por la autorización definitiva de las escrituras o actas notariales de valor determinado que no tenga cuenta especial en esta Ley:
-
-a).- Si el valor no excede de $100,000.00: $5,500.00
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-b).- De $100,000.00 a $ 500,000.00: $5,500.00 más el 6 al millar sobre el exceso;
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-c).- De $500,001.00 a $2,000,000.00: $7,900.00 más el 4 al millar sobre el exceso;
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-d) De 2,000,000.01 en adelante: $13,900.00 más el 3 al millar sobre el exceso;
-
-XXVIII.- (sic) Por el Registro de avisos de testamentos:
-
-a).- Si se hace dentro de horas de oficina, el importe de tres días del salario mínimo general en el Estado de Morelos;
-
-b).- Si se hace fuera de horas de oficina, el doble de cuota a que se refiere el inciso anterior;
-
-XXIX.- Por la expedición de informes respecto al registro o depósito de testamentos que se rindan a solicitud de jueces notarios, o partes interesadas, el importe de cinco días de salario mínimo general en el Estado de Morelos, para la búsqueda y el de tres días más de dicho importe, por la redacción de oficio;
-
-XXX.- Por la expedición de testimonios o copias certificadas:
-
-a).- Por la autorización del documento, un día del salario mínimo general en el Estado de Morelos;
-
-b).- Por los gastos del documento, a razón de un día del salario mínimo general en el Estado de Morelos, por cada hoja;
-
-XXXII.- (sic) Por la certificación y autorización de cada libro del protocolo notarial respectivo, el importe de dos días del salario mínimo general en el Estado de Morelos;
-
-XXXIII.- Por el registro anual de patente de notario, el importe de treinta días del salario mínimo general en el Estado de Morelos;
-
-XXXIV.- Por el registro de convenios de suplencia de notario, el importe de quince días del salario mínimo general en el Estado de Morelos;
-
-XXXV.- Por el registro de sello y firma de notarios el importe de tres días del salario mínimo general en el Estado de Morelos.
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 415.
 
-Para el cobro de los derechos que establece el Artículo anterior, se observarán las reglas siguientes:
+Los derechos por el registro público de la propiedad se causarán en los siguientes términos:
 
-I.- Con base en el valor mayor que resulte del de operación catastral o del avalúo o factura;
+I.- Por la calificación de todo documento que se devuelva sin que se preste el servicio solicitado por omisión de requisitos, impedimento legal, por contener datos incorrectos o a petición del interesado, por cada vez un día de salario;
 
-II.- Toda la transmisión de bienes y derechos reales que se realicen por contrato o por resolución judicial cuando en ellas queden comprendidos varios bienes, se pagará sobre el valor de cada uno de ellos conforme a la fracción anterior;
+II.- Por la inscripción de documentos, resoluciones judiciales o administrativas y testimonios notariales en los cuales se establezca, declare, transfiera, adquiera o modifique el dominio, o la posesión de bienes inmuebles o derechos reales incluyendo los fideicomisos traslativos de dominio, así como los relacionados con la propiedad o posesión de buques o aeronaves; sobre el valor mayor que resulte entre el de la operación, catastral, avalúo bancario o de factura: 12 al millar; en ningún caso el pago inferior a un día de salario mínimo;
 
-III.- Para la aplicación de las tasas de la fracción II del Artículo 414, la nuda propiedad se valuará conforme al setenta y cinco por ciento del valor del inmueble y al consolidarse sobre el veinticinco por ciento del mismos (sic);
+IV (SIC).- Por la sustitución de deudor o de acreedor, en cualquier caso: de cinco días de salario;
 
-IV.- Cuando se trate de contratos, demandas o resoluciones judiciales y administrativas que se refieran a prestaciones periódicas, el valor se determinará por la suma de éstas, en caso contrario se tomará como base la cantidad que resulte haciendo el cómputo por anualidades;
+V.- Por contratos de hipoteca celebrados por Instituciones Nacionales de Crédito, Instituciones de Seguros o de Fianzas, sobre el importe de las operaciones: 2.5 al millar.
 
-V.- No se causarán los derechos a que se refiere el Artículo 414:
+Por la inscripción de la cancelación de los contratos antes citados dos días de salario;
 
-a).- Cuando se trate de inscripciones relativas a transmisión o adquisición de bienes inmuebles o derechos reales en que intervengan la Federación, el Estado de Morelos o sus Municipios, ni los servicios prestados por la Oficina de Archivo de Notarías cuando lo solicitan los órganos centrales de la Federación, el Estado de Morelos o sus Municipios;
+VI.- Por el registro de cédulas hipotecarias; cinco días de salario mínimo;
 
-b).- Por los informes y certificados que soliciten las Autoridades correspondientes para asuntos penales, laborales o juicios de amparo.
+VII.- Por la inscripción de documentos o resoluciones judiciales relativas a las sucesiones, independientemente de los derechos que se causen por la inscripción de la transmición (sic) de bienes hereditarios; cinco días de salario;
+
+VIII.- Por la inscripción de la Constitución de patrimonio familiar: cinco días de salario;
+
+IX.- Por la inscripción de la cancelación del patrimonio familiar: tres días de salario;
+
+X.- Por la inscripción de:
+
+A).- Fideicomisos de administración o de garantía: quince días de salario mínimo;
+
+B).- Cancelación de estos fideicomisos: cinco días de salario;
+
+C).- Contratos de arrendamiento de inmuebles: quince días de salario.
+
+XI.- Por la inscripción de:
+
+A).- Contratos, convenios, resoluciones judiciales o administrativas por la que se constituya un fraccionamiento, lotificación, división o subdivisión de un inmueble, por cada lote o fracción: cinco días de salario;
+
+B).- Contratos, convenios o resoluciones judiciales o administrativas a consecuencia de los cuales se fusionen inmuebles, por cada uno de los predios fusionados: cinco días de salario;
+
+C).- Constitución del régimen de propiedad en condominio o, en su caso, de su modificación, por cada unidad departamental, vivienda, casa, despacho o local: cinco días de salario.
+
+XII.- Por la inscripción de contrato de prenda, de comodato, de aquellos que versen sobre bienes muebles o de los que establezcan condición suspensiva o resolutoria o de cualquiera otra modalidad, sobre el valor que resulte entre los de operación catastral factura o avalúo bancario: seis al millar;
+
+XIII.- Por la inscripción de documentos que extingan los actos mencionados en la fracción anterior: cuatro días de salario;
+
+XIV.- Por la inscripción de contratos de compraventa con reserva de dominio sobre bienes inmuebles, sobre el valor mayor que resulte entre los de operación, catastral o avalúo bancario: seis al millar;
+
+XV.- Por la inscripción de documentos en que se haga constar la cancelación de la reserva de dominio sobre bienes inmuebles, en los términos de la fracción anterior; seis al millar;
+
+XVI.- Por la inscripción de:
+
+A).- Documentos en que se constituya una asociación o sociedad civil, o de sus aumentos; se cobrará: quince días de salario;
+
+B).- Acta de asamblea de las personas morales mencionadas: cinco días de salario;
+
+C).- Fusión de sociedades y asociaciones civiles se cobrará: quince días de salario;
+
+D).- Cada uno de los actos de disolución, liquidación o cancelación del asiento correspondiente a una sociedad o asociación civil: diez días de salario.
+
+XVII.- Por la inscripción de:
+
+A).- Poderes o sustituciones de los mismos: cuatro días de salario por cada apoderado;
+
+B) Revocación de poderes, por cada una: dos días de salario.
+
+XVIII.- Por la inscripción de fianzas, contrafianzas u obligaciones solidarias con el fiador: cuatro días de salario;
+
+XIX.- Por la expedición de:
+
+A).- Certificados de libertad o existencia de gravámenes, por un período de diez años: dos días de salario; por un período de veinte años: cuatro días de salario;
+
+B).- Certificados de inexistencia de registro: veinte días de salario;
+
+C).- Certificados de no propiedad: medio día de salario;
+
+D).- Certificados de inscripción de propiedad: tres días de salario;
+
+E).- Informes y constancias solicitadas por autoridades y organismos no exceptuados por la ley: cuatro días de salario;
+
+F).- Certificados de búsqueda de antecedentes registrales: cuatro días de salario;
+
+G).- Copias certificadas de documentos registrales o que obren en el archivo: tres días de salario;
+
+H).- Copias transcritas: tres días de salario.
+
+XX.- Por la certificación de documentos y firmas: tres días de salario;
+
+XXI.- Por el depósito de testamentos ológrafos: cinco días de salario; si el depósito se hace en horas inhábiles: siete días de salario;
+
+XXII.- Por la expedición de informes respecto al registro o depósito de testamentos que se rindan a solicitud de jueces o notarios: cinco días de salario;
+
+XXIII.- Por la cancelación de embargos, hipotecas, cédulas hipotecarias y fianzas: tres días de salario;
+
+XXIV.- Por la anotación de los datos de registro en un testimonio notarial adicional: un día de salario;
+
+XXV.- Por la inscripción de testimonios notariales que rectifiquen o aclaren el registro de otro testimonio: cinco días de salario; y
+
+XXVI.- Por la inscripción, anotación, cancelación, expedición de documentos o informes de cualquier otro acto no especificado en este artículo, sobre el importe mayor del que resulte del de operación, catastral, bancario o de factura: diez al millar, si el acto no es determinable en dinero, se cobrará cinco días de salario.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 416.
 
-Cuando un instrumento origine dos o más inscripciones, causará los derechos que corresponden a cada una de ellas, excepto los de habilitación o avío y los que por Ley deben inscribirse también en el registro de comercio.
+Para el cobro de los derechos que establece el artículo anterior se observarán las siguientes reglas:
+
+I.- La base gravable será el valor mayor que resulte de operación, catastral, de factura o bancario;
+
+II.- Toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en estos actos queden comprendidos varios bienes, se pagará sobre la suma del valor de cada uno de ellos;
+
+III.- Para la aplicación de las tasas de la fracción II del artículo 415, la nuda propiedad se valuará conforme al 75% del valor del inmueble y al consolidarse, sobre el 25% del mismo;
+
+IV.- Cuando se trate de contratos, demandas o resoluciones judiciales o administrativas que se refieran a prestaciones periódicas, el valor se determinará por la suma de estas;
+
+V.- Tratándose de la inscripción de títulos translativos de dominio se aplicará la tasa correspondiente, pero en ningún caso la cantidad será inferior a un día de salario;
+
+VI.- Certificaciones de testimonios de escrituras públicas o contratos: cuatro días de salario; y
+
+VII.- La expedición de certificados y copias certificadas pueden solicitarse con carácter de urgente, en cuyo caso se duplicará la cuota que corresponda.
+
+Cuando un instrumento origine dos o más inscripciones, causará los derechos que correspondan a cada una de ellas, excepto los de habilitación o avío y los que por Ley deban inscribirse también en el Registro de Comercio… (sic)
+
+Las inscripciones de embargo y certificados de gravámenes solicitados por el Gobierno del Estado a consecuencia de procedimiento administrativo de ejecución por adeudos fiscales, causarán los derechos correspondientes pero no se cobrarán previamente, sino al hacer efectivo el crédito fiscal como parte del mismo.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 417.
 
-No se causarán (sic) derecho de inscripción a que se refiere el artículo anterior:
+No se causarán los derechos a que se refiere el artículo 415 de esta Ley, en los casos siguientes:
 
-I.- Cuando se trate de inscripciones relativas a bienes inmuebles o derechos reales pertenecientes a la Nación, a el Estado de Morelos o sus Municipios, cuando dichas Entidades lo soliciten;
+I.- Cuando se trate de inscripciones relativas a transmisión o adquisición de bienes inmuebles o derechos reales en favor de la federación, el Estado de Morelos o de sus municipios;
 
-II.- Por los informes o certificaciones que soliciten el Gobierno Federal o las Autoridades del Estado de Morelos o sus Municipios;
+II.- Cuando se trate de inscripciones de títulos que no impliquen transmisión de dominio a particulares, respecto de bienes inmuebles o derechos reales pertenecientes a la federación, al Estado de Morelos o a sus municipios;
 
-III.- Por los informes que se soliciten para asuntos penales o para juicios de amparo por parte de Autoridad competente; los certificados, inscripciones y demás servicios que se soliciten por las Autoridades Fiscales del Gobierno del Estado de Morelos, causarán los derechos que corresponden conforme a las disposiciones del Artículo anterior; pero estos se harán efectivos dentro del procedimiento administrativo de ejecución como parte del crédito fiscal.
+III.- Por los informes o certificaciones que soliciten las mismas entidades;
+
+IV.- Por los informes o certificaciones que soliciten las autoridades competentes tratándose de juicios penales, laborales o de amparo;
+
+V.- Los contratos y operaciones relacionados con bienes inmuebles que en cumplimiento de su objeto (sic) lleve al cabo el Instituto del Fondo Nacional de la Vivienda para los Trabajadores; y
+
+VI.- Los contratos y operaciones que respecto a bienes inmuebles realice el Instituto de Vivienda del Estado de Morelos.
 
 ### CAPITULO QUINTO. DE LOS DERECHOS POR SERVICIOS DE CONTROL VEHICULAR
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1986)</small>
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 418.
 
-Los derechos por el Registro Público de Comercio se causarán conforme a la siguiente:
+Los derechos por el Registro Público de Comercio se causarán en los siguientes términos:
 
-TARIFA:
+I.- Por la calificación de todo documento que se presente para su inscripción y se niegue esta por no ser inscribible o cuando se devuelva por resolución judicial o a petición del interesado: un día de salario;
 
-I.- Examen de todo documento sea público o privado, que se presente al Registro para su inscripción, cuando se rehúse ésta por no ser inscribible, o cuando se devuelva sin inscribirse a petición del interesado, o por resolución judicial: $500.00
+II.- Por la inscripción de matrícula:
 
-II.- Inscripción de matrícula: $500.00
+A).- De comerciante individual: un día de salario.
 
-A.- Por cada comerciante individual: $500.00
+B).- De sociedad mercantil: tres días de salario.
 
-B.- Por cada sociedad mercantil: $1,000.00
+III.- Por la inscripción de testimonio de la escritura relativa a la Constitución de una Sociedad Mercantil, o por el registro de testimonios que consignen aumentos de su capital social o por el registro de sociedades que tengan sucursales en esta entidad: quince días de salario;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1988)</small>
+IV.- Para la inscripción de las modificaciones a la escritura constitutiva de sociedades mercantiles y venta de acciones, siempre que no se refieran al aumento de su capital social: cinco días de salario;
 
-III.- Con la Inscripción del testimonio de la Escritura relativa a la Constitución de una Sociedad Mercantil o por el Registro de testimonios que consignen aumento de su Capital Social, se cobrará el equivalente a quince días de Salario Mínimo vigente en esta Entidad;
+V.- Por la inscripción de actas de asamblea de sociedades mercantiles: cinco días de salario;
 
-IV.- Inscripción de las modificaciones a la Escritura constitutiva de las sociedades mercantiles, siempre que no se refieran a aumento del capital social: $1,000.00;
+VI.- Por el depósito de programas a que se refiere el artículo 98 de la Ley General de Sociedades Mercantiles: cinco días de salario;
 
-V.- Inspección de actas de Asamblea de socios o de juntas de administración: $1,500.00;
+VII.- Por la inscripción del acta de emisión de bonos u obligaciones de sociedades anónimas: tres al millar sobre el valor de la emisión;
 
-VI.- Depósito de programa a que se refiere el artículo 92 de la Ley General de Sociedades Mercantiles: $2,000.00;
+VIII.- Por la inscripción de la disolución de sociedades mercantiles: diez días de salario;
 
-VII.- Inscripción del Acta de emisión de bonos y obligaciones de sociedades anónimas, el 75% de las cuotas que corresponden conforme a la fracción III;
+IX.- Por la inscripción de la liquidación de sociedades mercantiles: diez días de salario;
 
-VIII.- Inscripción de la disolución de sociedades mercantiles: $3,500.00;
+X.- Cuando las operaciones a que se refieren las dos fracciones que anteceden se realicen en un solo acto, su inscripción causará: quince días de salario;
 
-IX.- Inscripción de la liquidación de sociedades mercantiles: $3,500.00;
+XI.- Por la cancelación del registro de contrato de sociedad mercantil: diez días de salario;
 
-X.- Inscripción de la disolución y liquidación de sociedades mercantiles cuando se lleve a cabo en un sólo acto: $4,500.00;
+XII.- Por la inscripción de:
 
-XI.- Cancelación de la inscripción del contrato de sociedad: $3,500.00
+A).- Poderes o sustituciones de los mismos: cuatro días de salario por cada apoderado;
 
-En el caso de esta fracción y de las dos que anteceden, si como consecuencia de la liquidación de la sociedad se adjudican bienes inmuebles, los derechos se causarán sobre el valor en que se adjudiquen a los socios o terceros, aplicando la tarifa de la fracción III.
+B).- Revocación de poderes, por cada una: dos días de salario.
 
-XII.- Inscripciones de poderes y substitución de los mismos:
+Por otorgamiento de poderes a gerentes o administradores de sociedades mercantiles en las escrituras constitutivas o en sus modificaciones, no se causarán derechos.
 
-a).- Si se designa un solo apoderado: $1,000.00;
+XIII.- Por la inscripción relativa a habilitación de edad y licencia para ejercer el comercio, licencia marital o el requisito que necesite la mujer para los mismos fines, la revocación de unos y otros y las escrituras a que se refieren las fracciones X y XI del articulo 21 del Código de Comercio: cinco días de salario;
 
-b).- Por cada apoderado más que se designe, en el mismo poder: $500.00;
+XIV.- Por la inscripción de contratos de corresponsalía mercantil o por su cancelación: cinco días de salario, la primera y tres días la segunda;
 
-c).- Por cada poderante (sic), cuando aparezca en los poderes más de uno: $ 500.00;
+XV.- Por la inscripción de contratos de crédito refaccionario o de habilitación o avío, celebrados por sociedades nacionales de crédito, instituciones de seguros o de fianzas: sobre el importe de la operación, 2.5 al millar. La cancelación de la inscripción de los contratos mencionados causará: tres días de salario;
 
-El otorgamiento de poderes de los Administradores o Gerentes de Sociedades Mercantiles, en las Escrituras constitutivas o modificativas no causarán las cuotas a que esta fracción se refiere;
+XVI.- Por la inscripción de resoluciones judiciales que declaren la suspensión de pagos, quiebra, o admita una liquidación: cinco días de salario;
 
-XIII.- Inscripción de revocación de poderes, por cada apoderado: $1,000.00;
+XVII.- La certificación de documentos y firmas, así como la expedición de certificados y copias certificadas, se ajustarán a las cuotas establecidas en el capítulo relativo al Registro Público de la Propiedad;
 
-XIV.- Inscripciones relativas a habilitación de edad, licencias y emancipación de edad, para ejercer el comercio, licencia marital o el requisito que en su defecto necesite la mujer para los mismos fines, la revocación de unos y otros y las escrituras a que se refieren las fracciones X y XI del Artículo 21 del Código de Comercio: $1,000.00;
+XVIII.- Por la inscripción de hipotecas industriales otorgadas en garantía a sucursales nacionales de crédito o a las organizaciones auxiliares de crédito: 2.5 al millar; y
 
-XV.- La inscripción de contratos mercantiles de cualquier clase enumerados en el Artículo 75 del Código de Comercio, no especificados en esta tarifa sobre el importe de la operación: 4 al millar;
+XIX.- Por la inscripción de la fusión de sociedades mercantiles: sobre el monto del capital social inscrito de la sociedad fusionada: quince días de salario.
 
-XVI.- Inscripción de contratos de corresponsalía de sociedades nacionales de crédito:
-
-a).- Por la inscripción o cancelación: $5,000.00;
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-XVII.- Por la inscripción de contratos de créditos hipotecarios, refaccionarios y de habilitación o avío celebrado por Sociedad Nacional de Crédito, Instituciones de Seguros o de Fianzas, sobre el importe de la operación: 0.25%;
-
-En los casos a que se refiere esta fracción las cancelaciones causarán un derecho equivalente a un día y medio de salario mínimo general en el Estado de Morelos;
-
-XVIII.- Inscripción de resoluciones judiciales en que se declara una suspensión de pagos o una quiebra o se admita una liquidación judicial: $1,500.00;
-
-XIX.- Anotaciones relativas a inscripciones principales: $500.00;
-
-XX.- Depósito y guarda de cualquier documento: $1,000.00;
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-XXI.- Ratificaciones de documento y firma ante el Registrador: $500.00;
-
-XXII.- Expedición de certificados o certificaciones relativas a las constancias del Registro:
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-A).- De una a cuatro fojas, $440.00
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-B).- Por cada foja adicional, $110.00
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 419.
 
-Para el cobro de los derechos que establece la tarifa del artículo anterior, se observarán las siguientes reglas:
+Para el cobro de los derechos que establece el artículo anterior, se observarán las siguientes reglas:
 
-I.- Cuando un mismo título origina dos o más inscripciones los derechos se causarán por cada una de ellas, cotizándose separadamente; por tanto por los pagos de estos derechos, se expedirán tantas boletas o recibos como inscripciones se hagan tratándose de Sociedades Nacionales de Crédito, de Instituciones de Seguros o de Fianzas, las inscripciones que deban hacerse, causarán los mismos derechos; pero en su conjunto no podrán exceder del 0.25% sobre el importe de la operación.
+I.- Si un mismos título origina dos o más inscripciones, los derechos se causarán por cada una de ellas, cotizándose separadamente; por tanto para los pagos de estos derechos, se expedirán tantas boletas o recibos como inscripciones se hagan; tratándose de sociedades nacionales de crédito o de instituciones de seguros o de fianzas, las inscripciones que deban hacerse, causarán los mismos derechos, pero en su conjunto no podrán exceder del 2.5 al millar sobre el importe de la operación.
 
-Se exceptúan de esta disposición las inscripciones relativas a operaciones que se deriven de la constitución o disolución de una sociedad mercantil, en que sólo se cobrarán derechos por la inscripción que se haga en la sección de comercio;
+Se exceptúan de esta disposición las inscripciones relativas a operaciones que se deriven de la constitución o disolución de una sociedad mercantil en que sólo se cobrarán derechos por la inscripción que se haga en la sección de comercio;
 
-II.- En los contratos mercantiles en los que medie condición suspensiva, resolutotia (sic), reserva de propiedad o cualquiera otra modalidad que haya de dar lugar a una institución complementaria para su perfeccionamiento, pagará el 75% de lo que corresponda de acuerdo con el artículo anterior y al practicarse la inscripción complementaria el 25% restante;
+II.- En los contratos mercantiles en los que medie condición suspensiva, resolutoria, reserva de propiedad o cualquiera otra modalidad que haya de dar lugar a una inscripción complementaria para su perfeccionamiento, pagarán el 75% de lo que corresponda, de acuerdo con el artículo anterior y al practicarse la inscripción complementaria el 25% restante;
 
-III.- Los contratos que contengan prestaciones periódicas se valuarán en la suma de éstas, si se puede determinar exactamente su cuantía en caso contrario, por lo que resultare, haciendo el cómputo por un año;
+III.- En los contratos que contengan prestaciones periódicas, se cobrará con base en la suma de éstas, si se puede determinar exactamente su cuantía; en caso contrario por lo que resulte al hacer el cálculo por un año; en caso de que no pueda computarse, se cobrarán cinco días de salario;
 
-IV.- En los casos no previstos expresamente en el artículo anterior, los derechos por servicios que se presten en el Registro Público del Comercio se causarán por asimilación en los términos de las fracciones relativas a casos con los que guarden semejanza los no previstos expresamente;
+IV.- En los casos no previstos expresamente, los derechos por servicios que se presten en el Registro Público del Comercio, se causarán por asimilación en los términos de las fracciones relativas a casos con los que guarde semejanza del Registro Público de la Propiedad; y
 
-V.- Están exentos del pago de los derechos que establece el artículo anterior, la Federación, el Gobierno del Estado de Morelos, Los (sic) Estados y Municipios.
+V.- Están exentos del pago de los derechos que establece este capítulo: la Federación, el Gobierno del Estado y sus Municipios, siempre que hayan sido parte en la operación de que se trate.
 
-### CAPITULO SEXTO. DE INSPECCION Y VIGILANCIA
+### CAPITULO SEXTO. POR SERVICIOS DE SALUD
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 420.
 
-Los derechos por registro de Contratos de Arrendamiento de otros actos, contratos o convenios por lo que se refiere a un tercero el derecho al uso, usufructo o explotación de bienes inmuebles, se causarán por cada documento, contrato o acto, sin causa de adicionales, sobre la siguiente:
-
-T A R I F A
-
-a).- Hasta $1,000.00 $100.00
-
-b).- De $1,001.00 a $10,000.00 $150.00
-
-c).- De $10,000.00 en adelante $250.00
-
-d).- Por cualquier contrato
-
-no especificado % (sic) 250.00
-
-### CAPITULO SEPTIMO. POR LEGALIZACION DE FIRMAS, CERTIFICADOS, CERTIFICACIONES Y COPIAS CERTIFICADAS SIMPLES
-
-###### ARTICULO 421.
-
-Los derechos por servicios de Registro de Títulos Profesionales y otros servicios conexos, se causarán de acuerdo con la siguiente:
+Los derechos por la inscripción en el padrón de arrendadores que se lleva en las administraciones y receptorías de rentas, de los contratos de arrendamiento y de otros actos, contratos o convenios por los que se confiera a un tercero el derecho de uso, usufructo o explotación de bienes inmuebles, se causarán por cada documento, contrato o acto, conforme a la siguiente:
 
 TARIFA
 
-CUOTA FIJA
+DIAS DE SALARIO
 
-I.- Registro de Títulos Profesionales:
+I.- En los contratos de arrendamiento la renta mensual se convertirá a salarios mínimos de acuerdo a lo siguiente:
 
-A.- De carrera hasta dos años: $500.00;
+A).- Hasta diez días de salario 0.25
 
-B.- De carrera hasta cuatro años: $800.00;
+B).- De 11 hasta 20 días de salario 0.50
 
-C.- De carrera de más de cuatro años: $1,000.00;
+C).- De 21 hasta 30 días de salario 1
 
-II.- REGISTRO DE CEDULAS EXPEDIDAS EN
+D).- De 31 días de salario en adelante 2
 
-OTRAS ENTIDADES FEDERATIVAS: (SIC) $500.00;
+II.- Los actos, contratos y convenios no incluidos en la fracción anterior 1
 
-III.- REGISTRO DE COLEGIOS DE PROFESIONISTAS.
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
 
-A.- Colegios que agrupen Profesionistas cuyas
+### CAPITULO SEPTIMO. POR LEGALIZACION DE FIRMAS, CERTIFICADOS, CERTIFICACIONES Y COPIAS CERTIFICADAS
 
-carreras sean hasta de años: $1,000.00;
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
-B.- Colegios que agrupen Profesionistas cuyas
+###### ARTICULO 421.
 
-carreras sean hasta de cuatro años: $1,500.00;
+Los derechos por servicos (sic) de registro de títulos profesionales, expedición de cédulas y otros servicios conexos, se causarán de acuerdo con la siguiente:
 
-C.- Colegios que agrupen Profesionistas cuyas
+TARIFA:
 
-carreras sean de más de cuatro años: $2,000.00;
+I.- Registro de títulos profesionales:
 
-IV.- REGISTRO DE ESCUELAS Y PLANES DE ESTUDIOS:
+A). - De carrera hasta dos años, un día de salario.
 
-A.- Escuelas que impartan enseñanza Preparatoria,
+B).- De carrera hasta cuatro años; y de carreras técnicas cualquiera que sea su duración, dos días de salario.
 
-Vocacional, Normal o Profesional: $1,000.00;
+C).- De carreras de más de cuatro años, cuatro días de salario, este pago deberá efectuarse dentro de los noventa días siguientes a la fecha de expedición del título.
 
-B.- Inscripción de Planes de Estudio, por
+II.- Expedición de cédula profesional o duplicado dos días de salario;
 
-cada año; $250.00;
+III.- Registro de cédula profesional dos días de salario;
 
-V.- Autorizaciones Especiales:
+IV.- Registro de cédulas expedidas en otras entidades federativas: cinco días de salario;
 
-A.- Para el Ejercicio de una o varias especialidades:
+V. - Registro de colegios de profesionistas:
 
-a).- Para carreras hasta de dos años: $500.00;
+A).- Colegios que agrupen profesionistas cuyas carreras sean hasta de dos años, cinco días de salario.
 
-b).- Para carreras hasta de cuatro años: $800.00;
+B).- Colegios que agrupen profesionistas cuyas carreras sean hasta de cuatro años: Diez días de salario.
 
-c).- Para carreras de más de cuatro años: $1,000.00;
+C).- Colegios que agrupen profesionistas cuyas carreras sean más de cuatro años: Quince días de salario. Este pago deberá efectuarse dentro de los 45 días siguientes a la formación de los mismos.
 
-B.- A Pasantes:
+VI.- Registro de escuelas y planes de estudio:
 
-Por el término de un año: $500.00;
+A).- Escuelas que impartan enseñanza preparatoria, vocacional, técnica, normal o profesifonal (sic), cincuenta días de salario.
 
-C.- A Extranjeros y Mexicanos por naturalización
+B).- Inscripción anual de planes de estudio. Por cada materia, un día de salario. Este pago deberá efectuarse dentro de los 30 días previos al inicio de periodo escolar.
 
-que poseean (sic) Título expedido en el Extranjero,
+VII.- Autorizaciones especiales:
 
-en los términos de los Artículos 21 y 22 de la Ley
+A).- Para el ejercicio de una o varias especialidades:
 
-sobre el ejercicio de Profesiones en el Estado: $1,000.00;
+1).- Para carreras hasta de dos años, un día de salario.
 
-D.- A Extranjeros víctimas de persecuciones
+2).- Para carreras hasta de cuatro años, dos días de salario.
 
-políticas en su País de origen: $1,000.00;
+3).- Para carreras de más de cuatro años, cuatro días de salario, este pago deberá efectuarse dentro de los noventa días siguientes a la fecha (sic) expedición del título.
 
-VI.- Revalidación de Estudios Profesionales: $500.00;
+B).- A PASANTES:
 
-VII.- Inspección para comprobar el número de Socios de Colegios de Profesionistas por cada inscripción: tres días de salario mínimo general en el Estado de Morelos.
+Por el término de un año, un día de salario.
 
-VIII.- Expedición de la cédula de identificación y patente para el ejercicio profesional: tres días de salario mínimo general en el Estado de Morelos.
+A extranjeros y mexicanos por naturalización que posean título expedido en el extranjero, en los términos de la Ley sobre el ejercicio de profesiones en el Estado, cuatro días de salario.
+
+VIII.- Revalidación de estudios profesionales, un día de salario.
+
+IX.- Verificación del número de socios de colegios de profesionistas, por cada una, cinco días de salario.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 422.
 
-Están obligados al Registro de Títulos quienes ejerzan una Profesión en el Estado con arreglo a la Ley de la materia, mismos que deberán obtener una licencia anual para el ejercicio, previa comprobación de vigencia del Registro.
+Están obligados al registro de títulos, quienes ejerzan una profesión en el Estado con arreglo a la Ley de la Materia.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 423.
 
-No están obligados al pago de los derechos de Registro y Licencia los Profesores que ejerzan su actividad exclusivamente al servicio de establecimientos oficiales o incorporados a la Secretaría de Educación Pública del Estado.
+Están exentos del pago de derechos, los profesores que ejerzan su actividad, única y exclusivamente al servicio de establecimientos oficiales o incorporados a la Federación o al Estado.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE FEBRERO DE 1986)</small>
 
 ### CAPITULO OCTAVO. POR LOS SERVICIOS CATASTRALES
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 424.
 
@@ -4493,733 +4441,957 @@ Los servicios de control vehicular se causarán y pagarán conforme a la siguien
 
 TARIFA
 
+DIAS DE SALARIO
+
 I.- Licencias.
 
-A.- Por la expedición inicial de Licencia de manejo con vigencia de cinco años.
+A).- Por la expedición inicial y reexpedición de licencia de manejo con vigencia de cinco años:
 
-a).- Para chofer $ 5,400.00
+1).- Para chofer 2.5
 
-b).- Para automovilista $ 3,600.00
+2).- Para automovilista 2.0
 
-c).- Para motociclista $ 1,800.00
+3).- Para motociclista 1.0
 
-d).- Para turista $ 1,000.00
+4).- Turistas .5
 
-B.- Por la expedición de licencias de manejo de cualesquiera de las categorías, se cobrarán los derechos de acuerdo con lo establecido en el Inciso A):
+B).- Por el resello anual de licencias:
 
-C.- Por el resello anual de licencias:
+1).- Para choferes 1.5
 
-a).- Para choferes $ 1,800.00
+2).- Automovilistas 1.0
 
-b).- Automovilistas $ 1,400.00
+3).- Motociclistas .5
 
-c).- Motociclistas $ 900.00
+C).- Por la expedición de licencia provisional para manejar a menores:
 
-D.- Por la expedición de permisos provisionales por tiempo determinado para:
+1).- Automovilista 1.0
 
-a).- Manejar sin licencia hasta por un término de 30 días.
+2).- Motociclista .05
 
-1.- Chofer $ 1,200.00
+3).- Turistas .5
 
-2. - Automovilista $ 1,000.00
+II.- Expedición o refrendo de placas, calcomanías y tarjeta de circulación:
 
-3.- Motociclista $ 700.00
+A).- Auto particular 2.0
 
-B.- Manejar sin licencia hasta por un término de 20 días.
+B).- Camión particular 4.0
 
-1.- Chofer $ 800.00
+C).- Remolques con capacidad hasta
 
-2.- Automovilista $ 700.00
+de dos toneladas 2.0
 
-3.- Motociclista $ 500.00
+D).- Remolque con capacidad de más
 
-C.- Manejar sin licencia hasta por un término de 10 días.
+de dos toneladas 4.0
 
-1.- Chofer $ 700.00
+E).- Demostradoras 2.0
 
-2.- Automovilista $ 500.00
+F).- Transporte escolar 3.0
 
-3.- Motociclista $ 300.00
+G).- Motocicleta 1.5
 
-D.- Manejar sin licencia siendo menor de edad.
+H).- Vehículos de servicio público
 
-1.- Por noventa días $ 1,000.00
+1).- Automóvil de servicio público 3.0
 
-2.- Por ciento ochenta días $ 1,500.00
+2).- Combi de servicio público 4.0
 
-3.- Por trescientos sesenta días $ 2,000.00
+3).- VAM de servicio público 5.0
 
-II.- Placas, calcomanías y tarjeta de circulación:
+4).- Microbús de servicio público 6.0
 
-A.- Expedición de placas, calcomanías y tarjeta de circulación:
+I).- Combis de patrimonio comunal 3.0
 
-a).- Auto particular $ 3,760.00
+J).- Camión materialista 6.0
 
-b).- Camión particular $ 8,100.00
+K).- Camiones de carga en general 6.0
 
-c).- Remolques con capacidad hasta dos toneladas $ 3,760.00
+L).- Camiones de pasajeros urbanos
 
-> <small>(F. DE E., P.O. 5 DE MARZO DE 1986)</small>
+y suburbanos 10.0
 
-d).- Remolque con capacidad de más de dos toneladas $ 8,100.00
+M).- Bicicletas .25
 
-e).- Demostradoras $ 3,760.00
+III.- Otros servicios:
 
-f).- Transporte Escolar $ 5,500.00
+A).- Cambio de vehículo de servicio
 
-g).- Motocicleta $ 320.00
+público sin cambio de placas 1.5
 
-h) Bicicleta $ 320.00
+B).- Depósito por falta de baja 1.0
 
-i).- Auto de servicio público $ 5,600.00
+C).- Baja de placas .5
 
-j).- Combis de patrimonio comunal $ 5,600.00
+D).- Cambio de propietario de vehículo 1.0
 
-k).- Camión materialista $ 12,200.00
+IV.- Tarjetones para el servicio público de transporte:
 
-l).- Camiones de carga en general $ 12,200.00
+A).- Expedición de tarjetón: todos los
 
-m).- Camiones de pasajeros urbanos y suburbanos $ 25,000.00
+vehículos de servicio público 12.0
 
-B.- Refrendo anual de placas, calcomanías y tarjetas de circulación:
+B).- Canje anual de tarjetón:
 
-a).- Auto particular 2 días de salario
+1).- Camión materialista 6.0
 
-b).- Camión particular 4 días de salario
+2).- Camión de carga en general 5.0
 
-c).- Remolque con capacidad hasta dos toneladas 2 días de salario
+3).- Camión materialista y carga
 
-d).- Remolque con capacidad de más de dos toneladas4 días de salario
+en general 11.0
 
-e).- Demostradoras2 días de salario
+4).- Automóvil de servicio público 6.0
 
-f).- Transporte escolar3 días de salario
+5) Transporte escolar de empleados,
 
-g).- Motocicleta1.5 días de salario
+de turistas, artistas o deportistas 2.0
 
-h).- Bicicleta 0.15 día de salario
+6).- Autobuses de servicio público 6.0
 
-i).- Auto de servicio público3 días de salario
+7).- Grúas 4.0
 
-j).- Combis de Patrimonio Comunal3 días de salario
+8).- Combis de servicio público de
 
-k).- Camión materialista6 días de salario
+pasajeros 6.0
 
-l).-Camiones de carga en general 6 días de salario
+9).- VAM de servicio público 7.0
 
-m).- Camiones de pasajeros urbanos y suburbanos 9.5 días de salario
+10) Microbús de servicio público 8.0
 
-C.- otros:
+11).- Duplicado de tarjetón 2.0
 
-a).- Cambio de vehículo de servicio público sin cambio de placas $ 3,500.00
+C).- Cesión de derechos:
 
-b).- Depósito por falta de baja $ 2,500.00
+1.- Camión de carga en general 24.0
 
-c).- Autorización para circular con una sola placa $ 2,400.00
+2).- Camión materialista 36.0
 
-d).- Baja de placas $ 1,200.00
+3).- Automóvil de servicio público 48.0
 
-e).- Cambio de propietario de vehículo $ 2,400.00
+V).- Vehículos:
 
-> <small>(F. DE E., P.O. 5 DE MARZO DE 1986)</small>
+A).- Cambio 3.0
 
-III.- Concesiones.
+B).- Sustituciones
 
-A.- Expedición de tarjetón:
+1).- Local o foráneo por 30 días:
 
-Todos los vehículos de servicio público 12 días de salario
+Primera vez 3.0
 
-B.- Canje anual de tarjetón:
+Segunda vez 4.0
 
-a).- Camión materialista 6 días de salario
+Tercera vez 5.0
 
-b).- Camión de carga en general 5 días de salario
+2).- Local por 10 días 2.0
 
-c).- Camión materialista y carga 11 días de salario
+3).- Foránea por 10 días 1.0
 
-d).- Camión materialista a casa establecida 6 días de salario
+VI.- Servicios de control vehicular de carga, circular sin placas ni tarjeta de circulación y otros:
 
-e).- Camión para cargar plantas y tierra de monte 2 días de salario
+A).- Para camiones de carga con capacidad hasta 1,500 kilogramos:
 
-f).- Auto de servicio público 6 días de salario
+1).- Con un giro 9.0
 
-g).- Transporte Escolar de empleados o turismo 2 días de salario
+2).- Con dos giros 13.0
 
-h).- Autobuses 2 días de salario
+3).- Con tres giros 21.0
 
-i).- Grúas 6 días de salario
+4).- Con cuatro giros 27.0
 
-j).- Combis de servicio público de pasajeros 6 días de salario
+5).- Con cinco giros 36.0
 
-C.- Duplicado de tarjetón 2 días de salario.
+6).- Sin giro para carga por 30 días 6.0
 
-D.- Cesión de derechos:
+7).- Sin giro para carga por 15 días 3.0
 
-a).- Camión materialista 36 días de salario
+B).- Para camiones de carga con capacidad de más de 1,500 kilogramos:
 
-b).- Camión de carga en general 24 días de salario
+1).- Con un giro 17.0
 
-c).- Camión materialista y de carga en general 36 días de salario
+2).- Con dos giros 26.0
 
-d).- Auto de alquiler 48 días de salario
+3).- Con tres giros 36.0
 
-IV.- Vehículos:
+4).- Con cuatro giros 43.0
 
-A.- Cambio. 3 días de salario.
+5).- Con cinco giros 52.0
 
-B.- Sustituciones:
+C).- Para camiones de carga con conversión:
 
-a).- Local por treinta días:
+1).- Con un giro 14.0
 
-1.- Primera vez 3 días de salario
+2) Con dos giros 20.0
 
-2.- Segunda vez 4 días de salario
+3).- Con tres giros 26.0
 
-3.- Tercer vez 5 días de salario
+4).- Con cuatro giros 32.0
 
-B).- Local por diez días 2 días de salario.
+5).- Con cinco giros 40.0
 
-C).- Foránea por treinta días:
+D).- Servicios de control vehicular para circular sin placas y sin tarjeta de circulación:
 
-1.- Primera vez 3 días de salario
+1).- Para automóvil por treinta días 1.5
 
-2.- Segunda vez 4 días de salario
+2).- Para automóvil por quince días 1.0
 
-3.- Tercera vez 5 días de salario
+3).- Para camión por treinta días 3.0
 
-D.- Foránea por diez días 1 día de salario.
+4).- Para camión por quince días 2.0
 
-V.- Permisos y autorizaciones de carga:
+5).- Para camión o auto por tres días .5
 
-A.- Expedición para camiones con capacidad hasta 1,500 kilogramos:
+E).- Conversión 2.0
 
-a).- Con un giro 9 días de salario
+F).- Para remolque 2.0
 
-b) Con dos giros 13 días de salario
+G).- Para transporte de caña 1.0
 
-c).- Con tres giros 21 días de salario
+VII.- Servicios de control vehicular anual para terminales de línea (sic) de servicio urbano o inter urbano:
 
-d).- Con cuatro giros 27 días de salario
+A).- En Cuernavaca 36.0
 
-e).- Con cinco giros 36 días de salario
+B).- En Cuautla y Jojutla 36.0
 
-f).- Sin giro para carga por 30 días 6 días de salario
+C).- En otras poblaciones 12.0
 
-g) Sin giro para carga por 15 días 3 días de salario
+VIII.- Servicios de control vehicular de ruta:
 
-B.- Expedición para camiones capacidad de más de 1,500 kilogramos:
+A).- Por cada autobús urbano y
 
-a).- Con un giro 17 días de salario
+suburbano 59.0
 
-b).- Con dos giros 26 días de salario
+B).- Por cada camión materialista 40.0
 
-c).- Con tres giros 36 días de salario
+C).- Para camiones de carga en
 
-d).- Con cuatro giros 43 días de salario
+general 30.0
 
-e).- Con cinco giros 52 días de salario
+D).- Para combis del servicio público
 
-C.- Expedición para camiones de carga con conversión:
+con itinerario fijo 69.0
 
-a).- Con un giro 14 días de salario
+E).- Para taxis del servicio público sin
 
-b).- Con dos giros 20 días de salario
+itinerario fijo 69.0
 
-c).- Con tres giros 26 días de salario
+F).- Para VAM de servicio público con
 
-d).- Con cuatro giros32 días de salario
+itinerario fijo 69.0
 
-e).- Con cinco giros 40 días de salario
+G).- Para microbús de servicio público
 
-D.- Expedición de permisos provisionales para circular sin placas y sin documentación:
+con itinerario fijo 69.0
 
-a).- Para automóvil por treinta días 1.5 días de salario
+IX.- Las multas por infracciones cometidas a la Ley de Tránsito y Transporte o sus Reglamentos, se aplicarán discrecionalmente de acuerdo a lo previsto en los mismos. 1.0 a 300
 
-b).- Por automóvil por quince días 1 día de salario
+X.- Revisión mecánica:
 
-c).- Para camión por treinta días 3 días de salario
+Por la revisión semestral de vehículos
 
-d).- Para camión por quince días 2 días de salario
+de carga, particulares y todos los de
 
-e).- Para camión o auto por tres días 0.5 día de salario
+servicio público 3.0
 
-E.- Conversión 2 días de salario.
+XI.- Expedición de:
 
-F.- Para remolque 2 días de salario.
+A).- Duplicado de tarjeta de circulación
 
-G.- Para transporte de caña 1 días de salario.
+1.- Del servicio público 2.0
 
-H.- Permiso anual para terminales de línea:
+2.- Autos o camiones particulares
 
-a).- Servicio inter-urbano:
+y motos 1.0
 
-1.- En Cuernavaca 36 días de salario
+B).- Certificaciones 1.0
 
-2.- En Cuautla y Jojutla 36 días de salario
+XII.- Depósito y arrastre de vehículo:
 
-3.- En otras poblaciones 12 días de salario
+A).- Protección y control de vehículos
 
-b) Servicio Urbano:
+en depósito, pensión diaria; .5 a 1.0
 
-1.- En Cuernavaca 36 días de salario
+B).- Por arrastre de grúas en la vía
 
-2.- En Cuautla y Jojutla 36 días de salario
+pública o de un resguardo de vehículos
 
-3.- En otras poblaciones 12 días de salario
-
-I.- Concesiones de ruta:
-
-a).- Por cada autobús urbano y suburbano 59 días de salario
-
-b).- Por cada camión materialista 40 días de salario
-
-c).- Para camiones de carga en general 30 días de salario
-
-d).- Para combis del servicio público con itinerario fijo 69 días de salario
-
-e).- Para taxis del servicio público sin itinerario fijo 69 días de salario
-
-VI.- Inspección mecánica:
-
-a).- Por la revisión semestral de vehículos de carga particulares y todos los de servicio público 1 día de salario
-
-VII.- Expedición de:
-
-A.- Duplicado de tarjetas de circulación:
-
-a).- Del servicio público 2 días de salario
-
-b).- Autos o camiones particulares y motos 1 día de salario
-
-B.- Certificaciones 1 día de salario.
+a otro 2.0 a 10.0
 
 ###### ARTICULO 425.
 
-No procederá la reposición de placas, licencias y tarjetas de circulación o de identificación, cuando estén sirviendo como garantía de pago de multas por infracción.
+(DEROGADO, P.O. 3 DE ENERO DE 1990)
 
-Igualmente ningún permiso podrá otorgarse a vehículos no registrados en el Estado, excepto el provisional para transitar sin placas.
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
 
 ### CAPITULO NOVENO. POR APROBACION, AUTORIZACION Y SUPERVISION DE FRACCIONAMIENTOS, CONDOMINIOS Y CONJUNTOS HABITACIONALES
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 426.
 
-Los derechos por inspección y vigilancia, se causarán conforme a la siguiente:
+Los servicios que presten las autoridades de salud del Estado, por expedición de licencias, causaran anualmente los derechos siguientes:
 
-TARIFA
+DIAS DE SALARIO
 
-I.- En materia laboral.
+I.- Establecimientos de alimentos
 
-De motores y calderas se causará conforme lo que establece el Artículo 427.
+y bebidas 0.5 a 5.
 
-II.- Sobre franquicias fiscales:
+A).- INDUSTRIA DE ALIMENTOS O BEBIDAS
 
-Sobre el monto de los impuestos y contribuciones especiales que se dejen de cubrir en virtud de exenciones y otras franquicias fiscales otorgadas: 6%;
+1).- Planta elaboradora o empacadora de alimentos animales.
 
-III.- En materia industrial:
+2).- Fábrica de hielo.
 
-Para el cumplimiento del decreto número 22 del 10 de Septiembre de 1976, relativo a la certificación de la calidad de arroz súper extra producido en el Estado de Morelos: 0.02
+3).- Planta elaboradora o empacadora de refrescos o aguas gaseosas.
+
+4).- Planta procesadora o envasadora de agua purificada.
+
+5).- Planta productora de animales comestibles.
+
+6).- Empacadora de alimentos, frutas y legumbres.
+
+7).- Planta procesadora o empacadora de café y otros granos, semillas.
+
+8).- Fabrica de cajetas, mermeladas, ates y jaleas compactas.
+
+9).- Fábrica procesadora o empacadora de chiles molidos y en pasta.
+
+10).- Planta elaboradora o empacadora de productos encurtidos.
+
+11).- Fábrica elaboradora o empacadora de gelatina en polvo, gelatinas y flanes.
+
+12).- Fábrica de mieles y jarabes.
+
+13).- Obrador de carnes.
+
+14).- Planta elaboradora de paletas, helados y nieves.
+
+15).- Planta elaboradora o empacadora de pan y pastelería (panificadora).
+
+16).- Planta procesadora o empacadora de sal yodatada.
+
+17).- Planta elaboradora de tamales o atole.
+
+18).- Empacadora de thé y similares
+
+19).- Planta elaboradora o empacadora de tortillas.
+
+20).- Fábrica de vinagres.
+
+21).- Vehículos para el transporte de leche y derivados, pulque.
+
+22).- Establo productor de leche.
+
+23).- Rastros.
+
+B).- COMERCIO Y SERVICIO DE ALIMENTOS Y BEBIDAS 0.5 10
+
+1).- Cabarets o centros nocturnos, bares, cantinas o cervecerías.
+
+2).- Vinaterías y expendio de pulque.
+
+3).- Establecimientos de preparación de alimentos para banquete a domicilio y elaboración o expendio de barbacoa o carnitas o chicharrón.
+
+4).- Molino o tostador de café, otros granos y similares, molino de trigo.
+
+5).- Carnicerías y tocinerías; expendio de cocido de vísceras.
+
+6).- Bodega o expendio de frutas y legumbres.
+
+7).- Venta de alimentos frigorizados; expendio de alimentos preparados, café o cacao.
+
+8).- Elaboración o expendio de dulces en general; elotes o tamales y atole; materias primas y de alimentos.
+
+9).- Expendio de productos naturistas; pescados y mariscos, pollo entero y partido.
+
+10).- Elaboración y expendio de pan y pastelería.
+
+11).- Rosticerías.
+
+12).- Cámara de maduración o refrigeración o bodega de alimentos.
+
+13).- Expendio de carne de equino.
+
+14).- Venta de cerveza con envase cerrado o refrescos.
+
+15).- expendio (sic) de chiles secos, mole en pastas y especias.
+
+16).- Expendio de derivados de la leche o carnes frías.
+
+17).- Dulcerías o neverías.
+
+18).- Expendio o elaboración de frituras de harina.
+
+19).- Elaboración o expendio de gelatinas y flanes preparados.
+
+20).- Molino para granos, semillas y chiles secos.
+
+21).- Abarrotes, venta de hielos, expendio de huevo, expendio de leche, misceláneas o estanquillos.
+
+22).- Elaboración y expendio de paletas, helados y nieves.
+
+23).- Tiendas de autoservicio.
+
+24).- Tortillerías o molinos de nixtamal.
+
+25).- Ostionerías y marisquerías. (elaboración y venta de).
+
+26).- Cafeterías o salones de thé o fuentes de sodas.
+
+27).- Fondas, cocinas económicas con o sin servicios de comedor; loncherías, taquerias o torterias.
+
+28).- Elaboración o expendio de churros, buñuelos o donas.
+
+29).- Expendio de fruta partida, jugos o licuados.
+
+30).- Vehículos para transporte de carne, productos de pesca y hielo.
+
+31).- Restaurant.
+
+32).- Centro de abasto.
+
+33).- Mercados públicos.
+
+II.- ATENCIÓN Y/O APOYO MEDICO
+
+A).- COMERCIO DE PRODUCTOS QUIMICOS Y FARMACEUTICOS 0.5 A 5
+
+1).- Almacén de deposito o distribución de gases medicianales (sic).
+
+2).- Almacén de deposito o distribución de productos homeopáticos.
+
+3).- Almacén o expendio de plantas medicinales.
+
+4).- Farmacia alopática.
+
+5).- Farmacia homeopática.
+
+6).- Botica.
+
+7).- Botiquín.
+
+B) SERVICIO MEDICO Y PARA MEDICO (SIC) 1 a 10.
+
+1).- Laboratorio de análisis clínicos citología exfoliativa, gabinete de electrodiagnóstico y laboratorio de histopatología.
+
+2).- Clínica materno-infantil; de rehabilitación; sanatorios y hospitales de más de 25 camas.
+
+3).- Maternidades de más de 25 camas y policlínicas.
+
+4).- Servicios de diagnóstico, adaptación y reparación de aparatos auditivos.
+
+5).- Gabinete de rayos X.
+
+6).- Clínicas de estética.
+
+7).- Sanatorios, hospitales generales, maternidades hasta 25 camas.
+
+8).- Taller de reparación y venta de armazón de anteojos; taller mecánico dental.
+
+9).- Consultorios de especialidades en rehabilitación; de especialidades; de medicina general; de dental (sic) y veterinaria.
+
+10).- Opticas.
+
+11).- Servicio de pedicure.
+
+12).- Ambulancias para enfermos infecciosos y no infecciosos.
+
+III.- INDUSTRIAS
+
+A).- INDUSTRIA METALICA 0.5 a 7
+
+1).- Fábricas de bombas para agua y válvulas; de cables; de clavos, tornillos y tuercas; de elevadores y montacargas; de tubos o conexiones y de artículos o armadura de metálicos o refacciones.
+
+B).- INDUSTRIA TEXTIL Y DEL VESTIDO 0.5 a 5
+
+1).- Fábricas de textiles o acabados de accesorios para la industria del vestido y e alfombras y tapetes.
+
+2).- Fábricas de blancos; de borras de algodón, lana y guata y de colchones.
+
+3).- Fábricas de calzado y similares; de cortinas y persianas; petacas y velices y baúles.
+
+4).- Fábricas de artículos de piel y pelucas y pestañas postizas.
+
+5).- Fábricas de relojes, joyas y artículos similares.
+
+6).- Fábricas de ropa en general y de sombreros y similares.
+
+C).- INDUSTRIA MECANO-ELECTRICA 0.5 a 7
+
+1).- Fábricas de aparatos eléctricos o electrónicos y línea blanca para el hogar; y de acondicionadores de aire.
+
+2).- Fábricas de cables y conductores eléctricos; de equipos de sonido y accesorios electrónicos para la música; de focos y tubos luminosos y de instrumentos de precisión y aparatos de medición.
+
+D).- INDUSTRIA DE LA CONSTRUCCIÓN 0.5 a 7
+
+1).- Fábrica de artículos de arcilla, barro y similares de. (sic).
+
+2).- Fábrica de calentadores y calderas; de canceles, closets, puertas y ventanas.
+
+3).- Fábrica de chapas, cerraduras, candados herméticos; de muebles y accesorios sanitarios y de vidrio.
+
+4).- Quebradora de piedra.
+
+5).- Fábrica de tubos de albañal y agua potable.
+
+6).- Taller de mármol.
+
+E).- INDUSTRIA DE LA MADERA, PAPEL Y PLASTICO 0.5 a 7
+
+1).- Fábricas de accesorios para vehículos en general; de acrílicos o plásticos; de celulosa; de artículos escolares y de oficina; de muebles en general y de papel y cartón.
+
+2).- Planta tratadora o aglutinadora de madera.
+
+3).- Taller de molido de hule, plásticos y similares.
+
+4).- Aserraderos.
+
+5).- Fábrica de calcomanías o etiquetas; editoras, impresoras y ofsset.
+
+6).- Fábrica de pinceles, brochas, cepillos y similares.
+
+F).- INDUSTRIAS DE APOYO A LA PRODUCCIÓN 0.5 a 7
+
+1).- Fábricas de aceites o grasa no alimenticias; de fibras vegetales; de productos fotográficos y de llantas, cámaras y artículos varios de hule.
+
+2).- Fábrica de artículos de ingeniería, arquitectura y dibujo.
+
+G).- INDUSTRIA DE PRODUCTOS DOMESTICOS Y DE RECREACION 0.5 a 7
+
+1).- Fábrica de alfarería, loza o vidrio; de artículos deportivos y de veleros, lanchas y artículos marinos.
+
+2).- Fábricas de discos y cintas magnéticas; de instrumentos musicales y de juguetes.
+
+3).- Fábrica de velas, veladoras y ceras.
+
+4).- Fábrica de combustibles para baño.
+
+IV.- COMERCIO.
+
+A).- COMERCIO DE PRODUCTOS QUIMICOS 0.5 a 5
+
+1).- Expendio de pinturas, esmaltes, solventes, tintas y similares.
+
+2).- Expendio de fertilizantes y abonos naturales.
+
+3).- Distribución de gasolina.
+
+4).- Expendio de petróleo.
+
+5).- Venta o depósito, desperdicios en general.
+
+B).- COMERCIO DE PRODUCTOS DOMESTICOS, DE OFICINA Y RECREACIÓN 0.5 a 5
+
+1).- Tlapalerías y perfumerías.
+
+2).- Expendio de cigarros, puros y tabacos.
+
+3).- Expendio de plantas, flores naturales o artificiales y artículos de jardinería.
+
+C).- COMERCIO DE MAQUINARIA, HERRAMIENTA Y REFACCIONES 0.5 a 5
+
+1).- Ferreterías.
+
+D).- COMERCIO DE PRODUCTOS DE MADERA, PAPLE Y PLASTICOS 0.5 a 5
+
+1).- Expendio de carbón, leña y combustible.
+
+2).- Alquiler de madera o maderería.
+
+V.- SERVICIOS
+
+A).- SERVICIO DE TRANSPORTE 0.5 a 5
+
+1).- Embarcaciones, transporte terrestre y terminales de autotransporte.
+
+2).- Vehículo para el transporte de fertilizantes, para gas licuado.
+
+B).- SERVICIO DE REPARACION Y MANTENIMIENTO 0.5 a 7
+
+1).- Taller mecánico industrial, y taller automotriz de hojalatería y pintura, taller de troquelado y suspensiones.
+
+2).- Taller de reparación e instalación de aparatos mecánicos, eléctricos y electrónica en general; taller de reparación de veleros, lanchas y artículos marinos; bodegas (excepto de alimentos y productos químicos) y servicio de lavado y engrasado.
+
+3).- Taller de afiladoras o cortadoras de hacer; de electro-mecánico automotriz, de encuadernación; de grabado y estampado; de herrería y plomería, de rótulos y de tapicería, carpintería y ebanistería.
+
+4).- Servicio de jardinería.
+
+5).- Parchado de llantas y cámaras, alineación y balanceo.
+
+C).- SERVICIO DE ALOJAMIENTO 0.5 a 10
+
+1).- Casa de huéspedes, habitaciones amuebladas.
+
+2).- Hoteles, moteles y similares.
+
+D).- SERVICIOS DE ENSEÑANZA 0.5 a 1
+
+1).- Academias de belleza, deportivas, escuelas de cocina, escuelas de adiestramiento de animales, escuelas particulares con internado, escuelas e institutos y estancias infantiles, jardín de niños y guarderías.
+
+E).- SERVICIO PERSONAL 0.5 a 7
+
+1).- Boliches, billares.
+
+2).- Estacionamiento para casas rodantes.
+
+3).- Centros de espectáculos.
+
+4).- Centros de espectáculos, recreativos, circos, carpas y ferias.
+
+5).- Clubes y centros deportivos, estudios de cine y televisión, con asistencia de personal.
+
+6).- Ropa usada, venta o alquiler.
+
+7).- Salones para fiestas o banquetes.
+
+8).- Estacionamiento o pensión de vehículos.
+
+9).- Alquiler de vajillas y artículos para banquetes.
+
+G).- SERVICIOS FUNERARIOS 1 a 10
+
+1).- Agencia funeraria sin servicio de embalsamiento.
+
+2).- Cementerio con servicio de horno crematorio.
+
+3).- Servicio de horno crematorio.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 427.
 
-La inspección de calderas, calentadores y aparatos sujetos a presión o vacío, anualmente se causarán y pagarán, dentro de los primeros quince días del mes de enero de cada año, los derechos señalados en la siguiente:
+Los servicios de salud relativos a inspecciones sanitarias, causaran anualmente los derechos siguientes:
 
-TARIFA
+I.- Por vehículo de transporte de pasajeros.
 
-I.- De1 a 5 MTS, cuadrados de superficie. $80.00
+a).- Cupo hasta de diez personas 0.07.
 
-II.- De 6 a 10 MTS. cuadrados de superficie. 100.00
+b).- Cupo de más de diez pasajeros 0.13.
 
-III.- De 11 a 15 MTS. cuadrados de cuperficie (sic). 135.00
+II.- Por vehículos porteadores de aguardiente común, alcohol, bebidas alcohólicas, cerveza y pulque por cada uno 0.27.
 
-IV.- De 16 a 20 MTS. cuadrados de superficie. 160.00
+III.- Por vehículos que requieran inspección sanitaria de acuerdo a los ordenamientos sanitarios respectivos pro cada uno 0.22
 
-V.- De 21 a 25 MTS. cuadrados de superficie. 190.00
+IV.- Por servicios de inspección sanitaria en el sacrificio de animales.
 
-VI.- De 26 a 30 MTS. cuadrados de superficie. 220.00
+a).- Ganado mayor $10.00
 
-VII.- De 31 a 35 MTS. cuadrados de superficie. 240.00
+b).- Ganado menor $5.00
 
-VIII.- De 36 a 40 MTS. cuadrados de superficie. 270.00
+c).- Aves $1.00
 
-IX.- De 41 a 45 MTS. cuadrados de superficie. 290.00
-
-X.- De 46 a 50 MTS. cuadrados de superficie. 310.00
-
-XI.- De 51 a 55 MTS. cuadrados de superficie. 330.00
-
-XII.- De 56 a 60 MTS. cuadrados de superficie. 350.00
-
-XIII.- De 61 a 65 MTS. cuadrados de superficie. 380.00
-
-XIV.- De 66 a 70 MTS. cuadrados de superficie. 410.00
-
-XV.- De 71 a 85 MTS. cuadrados de superficie. 440.00
-
-XVI.- De 86 a 100 MTS. cuadrados de superficie. 465.00
-
-XVII.- De 101 a 125 MTS. cuadrados de superficie. 490.00
-
-XVIII.- De 126 a 150 MTS cuadrados de superficie. 525.00
-
-XIX.- De 151 a 175 MTS. cuadrados de superficie. 550.00
-
-XX.- De 176 a 200 MTS. cuadrados de superficie. 600.00
-
-XXI.- De 201 MTS. cuadrados de superficie en delante se pagarán los primeros 200 metros cuadrados de superficie la cuota anterior y demás por cada metro cuadrado excedente. 3.00
-
-Para recipientes a presión o vacío se calculará el pago del derecho por metros cuadrados de su envolvente expuesto a presión.
-
-A.- Por inspección de instalaciones de equipos de energía mecánica o eléctrica, anualmente se causarán o pagarán dentro de los primeros quince días del mes de enero de cada año, los derechos señalados en la siguiente:
-
-TARIFA
-
-I.- Hasta de 10 H.P. $60.00
-
-II.- De 10.25 a 20 H.P. 90.00
-
-III.- De 20.25 a 30 H.P. 120.00
-
-IV.- De 30.25 a 75 H.P. 150.00
-
-V.- De 75.25 a 100 H.P. 190.00
-
-VI.- De 100.25 a 125 H.P. 220.00
-
-VII.- De 125.25 a 150 H.P. 245.00
-
-VIII.- De 150.25 a 175 H.P. 270.00
-
-IX.- De 175.25 a 200 H.P. 295.00
-
-X.- De 200.25 a 225 H.P. 320.00
-
-XI.- De 225.25 a 250 H.P. 350.00
-
-XII.- De 250.25 a 275 H.P. 380.00
-
-XIII.- De 275.25 a 300 H.P. 420.00
-
-XIV.- De 300.25 a 300 H.P. 460.00
-
-XV.- De 325.25 a 350 H.P. 490.00
-
-XVI.- De 350.25 a 325 H.P. 510.00
-
-XVII.- De 375.25 a 400 H.P. 530.00
-
-XVIII.- De 400.25 a 425 H.P. 550.00
-
-XIX.- De 425.25 a 450 H.P. 575.00
-
-XX.- De 450.25 a 475 H.P. 600.00
-
-XXI.- De 475.25 a 500 H.P. 625.00
-
-XXII.- De 500.25 a 525 H.P. 650.00
-
-XXIII.- De 525.25 a 550 H.P. 680.00
-
-XXIV.- De 550.25 a 575 H:P. 700.00
-
-XXV.- De 275 a 600 H.P. 720.00
-
-XXVI.- De 600.25 a 625 H.P. 740.00
-
-XXVII.- De 625.25 a 650 H.P. 760.00
-
-XXVIII.- De 650.25 a 675 H.P. 780.00
-
-XXIX.- De 675.25 a 700 H.P. 810.00
-
-XXX.- De 700.25 a 725 H.P. 840.00
-
-XXXI.- De 725.25 a 725 H.P. 870.00
-
-XXXII.- De 750.25 a 775 H.P. 900.00
-
-XXXIII.- De775.25 a 800 H.P. 930.00
-
-XXXIV.- De 800.25 a 825 H.P. 950.00
-
-XXXV.- De 825 H.P. en adelante se pagará, por los primeros 825 H.P. la cuota anterior y además por cada H.P. o fracción excedente. 75.00
-
-B.- Por examen y registro de Jefe de Planta, Operador, o Fogonero, se causará y pagarán los derechos señalados en la siguiente:
-
-TARIFA
-
-I.- Jefes de Planta.
-
-a).- Examen $150.00
-
-b).- Registro 120.00
-
-II.- Operador
-
-a).- Examen 100.00
-
-b).- Registro 80.00
-
-III.- Fogoneros encargados de generadores.
-
-a).- Examen 100.00
-
-b).- Registro 80.00
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 428.
 
-Los causantes de los derechos citados por el artículo 426 fracción II los pagarán por anualidades dentro los primeros quince días del mes de enero de cada año.
+Los servicios de salud consistentes en la expedición de guías sanitarias para el transporte de carne en canal causaran derechos por vehículo 0.10.
 
-Al efecto cumplirán con todas las obligaciones accesorias y proporcionarán los datos e informes que les soliciten las Autoridades Fiscales tanto para la liquidación de estos derechos como de los impuestos adicionales a su cargo.
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 1990)</small>
 
-### CAPITULO DECIMO. POR SERVICIOS DE ARCHIVO
+ARTICULO 428 A.- Los servicios de salud para la expedición de tarjeta de salud exigidas por los ordenamientos sanitarios respectivos, causaran semestralmente un derecho de 0.40.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 1990)</small>
+
+ARTICULO 428 B.- Los servicios de salud relativos a revisión y aprobación de planos de los servicios sanitarios, se causarán los derechos siguientes:
+
+I.- Casa habitación, residencias unifamiliares 0.10 a 0.15.
+
+II.- Edificios de departamentos, de oficinas
+
+y comercios o mixtos y similares 0.30 A 0.45.
+
+III.- Edificaciones industriales y que no estén
+
+Comprendidas en las fracciones anteriores 1.00 a 1.25.
+
+IV.- De fraccionamientos 2.50 a 3.00.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 1990)</small>
+
+ARTICULO 428 C.- Los servicios de salud correspondientes a las autorizaciones de responsables y auxiliar de los establecimientos que se indican, causarán los derechos siguientes:
+
+I.- Farmacias, laboratorios médicos, sanatorios, hospitales y maternidades.
+
+a).- Responsables del servicio de atención de apoyo médico 0.5 a 1.
+
+b).- Auxiliares de responsables de atención de apoyo médico 0.25 a 0.5.
+
+II.- Gabinete de diagnóstico.
+
+a).- Responsable del servicio 1.00 a 2.00.
+
+b).- Auxiliar del servicio 0.5 a 1.00.
+
+III.- Establecimientos de la industria alimentaria.
+
+a).- Responsable del servicio 1.5 a 2.5.
+
+b).- Auxiliar del servicio 1.0 a 2.0.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
+
+### CAPITULO DECIMO. POR SERVICIOS DE ARCHIVO Y NOTARIALES
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 429.
 
-Los derechos por concepto de legalización de firmas, certificaciones y expedición de copias de documentos por funcionarios y empleados del Gobierno del Estado, se causarán conforme a la siguiente:
+Los derechos por concepto de legalización de firmas, certificaciones y expedición de copias y documentos por funcionarios y empleados del Gobierno del Estado, se causarán conforme a la siguiente:
 
-TARIFA:
+TARIFA
 
-I.- Legalización de firmas. $250.00;
+DIAS DE SALARIO
 
-II.- Certificaciones de firmas,
+I.- Legalización de firmas 1
 
-Actas Constitutivas de Sociedades
+II.- Certificación de firmas 1
 
-cooperativas. $250.00;
+III.- Por los servicios que preste la Procuraduría General de Justicia del Estado:
 
-III.- Certificaciones de estado regular. $250.00;
+A).- Copias certificadas de
 
-IV.- Certificados a ministros de las
+averiguaciones previas 1
 
-distintas Sectas Religiosas. $250.00;
+B).- Constancia de no antecedentes
 
-Si los ministros no estuviesen autorizados para oficiar, se negará la certificación solicitada, pero se pagará por gastos administrativos la misma cuota.
+Penales 1
 
-V.- Certificados del Estado de la
+IV.- Copias certificadas expedidas por el Poder Judicial y Tribunal de lo contencioso administrativo del Estado:
 
-Cuenta del Contribuyente por cada
+A).- Copias certificadas de sentencias
 
-impuesto derecho o contribución que
+dictadas en juicios de divorcio 1
 
-comprenda. $250.00;
+B).- Copias certificadas de sentencias
 
-VI.- Certificado de "NO ADEUDO" por
+en cualquier otro juicio no referente
 
-cada impuesto, derecho o contribución
+al divorcio 2
 
-que comprenda. $250.00;
+C).- Copias certificadas no comprendidas en los incisos anteriores:
 
-VII.- Certificados de "NO ADEUDO" por
+1.- Por la primera hoja .5
 
-concepto de multas. $250.00;
+2.- Por las siguientes .05
 
-VIII.- Certificados sobre producto de la propiedad raíz.
+V.- Certificado de "No adeudo" por
 
-A.- Por un período no mayor de
+Cada impuesto, derecho o contribución
 
-cinco años. $250.00;
+que comprenda .5
 
-B.- Por un período que exceda de cinco
+VI.- Certificados de fecha de pago
 
-años, por cada excedente. $100.00;
+de créditos fiscales .5
 
-IX.- Certificados de valor fiscal de predios:
+VII.- Cualquiera otra certificación que
 
-A.- Los expendios: Por las Oficinas
+se expida distinta de las anteriores .5
 
-Rentísticas o catastrales. $500.00;
+Para la legalización de firma y expedición de certificaciones, certificados y copias de documentos comprendidos en las fracciones anteriores, deberán cubrirse previamente los derechos respectivos.
 
-B.- Los expendios por las mismas
-
-Oficinas para acreditar valores o
-
-antecedentes fiscales de un predio en
-
-años anteriores. $500.00;
-
-En los casos comprendidos en este
-
-inciso se pagará además, por la
-
-búsqueda de datos para la expedición
-
-del certificado un derecho de: $250.00;
-
-X.- Certificados de fechas de pago de
-
-créditos fiscales. $250.00;
-
-XI.- Copias certificadas de documentos
-
-en tamaño que no exceda de 35
-
-centímetros de ancho, por plana:
-
-A.- A dos espacios. 250.00;
-
-B.- a un espacio. 300.00;
-
-XII.- Copias certificadas de documentos
-
-que excedan del tamaño indicado en la
-
-fracción anterior, por plana:
-
-A.- A dos espacios. 300.00;
-
-B.- A un espacio. 350.00;
-
-XIII.- Duplicados autógrafos, al carbón
-
-de los documentos mencionados, en
-
-las fracciones XI y XII, el 50% de las
-
-cuotas respectivas.
-
-XIV.- Copias certificadas de sentencias
-
-de divorcios . 1,000.00;
-
-XV.- Cualquiera otra certificación que se
-
-expida, distinta de las expresadas. 500.00;
-
-Para la legalización de firmas y expedición de certificaciones, certificados y copias de documentos comprendidos en las fracciones anteriores, deberán cubrirse previamente los derechos respectivos.
+(REFORMADO, P.O. 3 DE ENERO DE 1990) (F. DE E., P.O. 31 DE ENERO DE 1990)
 
 ###### ARTICULO 430.
 
-La legalización de firmas, certificadas (sic), certificaciones y copias certificadas que se soliciten con carácter de urgencia (menos de 24 horas), causarán el triple de la correspondiente cuota fija por la tarifa.
+La legalización de firmas, certificados, certificaciones y copias certificadas que se soliciten con carácter urgente (menos de 24 horas), causarán el doble de la correspondiente cuota fija por la tarifa.
 
 ###### ARTICULO 431.
 
 Los certificados, certificaciones y copias certificadas que expidan las Dependencias del Gobierno del Estado, deberán formularse en el papel especial autorizado.
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 432.
 
-No causarán los derechos fijados en la tarifa:
+Los certificados de insolvencia no causarán los derechos fijados en la tarifa.
 
-I.- Los Certificados de insolvencia.
+### CAPITULO DECIMO PRIMERO. POR DERECHOS DE INSCRIPCION DE AGRUPACIONES
 
-### CAPITULO DECIMO PRIMERO. POR OTROS SERVICIOS
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 433.
 
-Los derechos por servicios Catastrales se causarán conforme a la siguiente:
+Los derechos por servicios catastrales se causan conforme a la siguiente:
 
 TARIFA
 
-I.- AVALÚOS.
+DIAS DE SALARIO
 
-Sobre el valor
+I.- Avalúos catastrales.
 
-Porcentajes del excedente del límite inferior
+A).- Copia Certificada 1
 
-A.- Hasta $10,000.00 $80.00
+B).- Por la elaboración de avalúo, tasa del:
 
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+2.5 al millar sobre el valor total.
 
-B.- De $10,000.01 a (sic) 100,000.00 $80.00
+II.- Certificación de valores en zonas no
 
-MAS 2 AL MILLAR
+Catastradas que incluya: nombre del
 
-C.- De $100,001.00 a $ 500,000.00 $320.00
+propietario, ubicación, clave, superficie
 
-MAS 1 AL MILLAR
+y valor. 2
 
-D.- De $ 500,001.00 a $ 1,000,000.00 $620.00
+III.- Copias certificadas del plano catastral que conste de cuatro copias con anotaciones de clave nombre, ubicación, domicilio, valor y superficies:
 
-MAS 0.75 AL MILLAR
+Se cobrará por metro cuadrado
 
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+Hasta 5,000 M2 1
 
-E.- De $ 1,000,001.00 EN ADELANTE $1,100.00
+de 5,001 M2 a 10,000 M2 2
 
-MAS 0.50 AL MILLAR
+de 10,001 M2 a 15,000 M2 3
 
-II.- CERTIFICADOS.
+de 15,001 M2 a 30,000 M2 4
 
-A.- De concordancia de Nombre, Calle
+de 30,001 M2 a 50,000 M2 5
 
-y número de predio: $300.00
+de 50,001 M2 a 100,000 M2 6
 
-B.- De la superficie Catastral de
+Después de 10,000 M2 se aumentará un día de salario por cada 100,000 M2
 
-un predio: $300.00
+La escala representativa será:
 
-C.- Del valor catastral de un
+Hasta los 15,000 M2: 1:500.
 
-predio nuevo: $300.00
+de 15,001 M2 hasta los 5000,000 M2 1:100
 
-III.- COPIAS CERTIFICADAS.
+de 500,000 M2 en adelante 1:200
 
-A.- Del perímetro de Regiones
+IV.- Levantamientos, verificaciones y deslindes será de:
 
-Catastrales: $300.00
+0.00 M2 Hasta 1,000 M2 4
 
-B.- Juego de cuatro copias del plano de un predio a escala de regiones catastrales, con anotaciones de linderos y dimensiones (sic):
+1,001 M2 Hasta 5,000 M2 6
 
-a).- Predio hasta con cuatro vértices: $160.00
+5,001 M2 Hasta 10,000 M2 8
 
-b).- Por cada vértice adicional: $30.00
+10,001 M2 Hasta 15,000 M2 10
 
-c).- Por cada cien metros de
+15,001 M2 Hasta 20,000 M2 12
 
-perímetro o metro o fracción: $120.00
+20,001 M2 Hasta 25,000 M2 14
 
-d).- Por cada cien metros cuadrados: $30.00
+25,001 M2 Hasta 30,000 M2 16
 
-1.- Hasta 5,000 metros cuadrados: $30.00
+30,001 M2 Hasta 35,000 M2 18
 
-2.- Exceden de 5,000 metros
+35,001 M2 Hasta 40,000 M2 20
 
-cuadrados: $20.00
+Después de 40,000 M2 se aplicarán dos días de salario más, por cada 5,000 M2.
 
-e).- Por cada cien metros cuadrados
+En el caso de divisiones o notificaciones se considerará un día de salario más por cada lote.
 
-de construcción desarrollada o fracción: $100.00
+Cuando los trabajos anteriores deban realizarse en lugares en donde no haya delegación o representación del Catastro, deberá cubrirse por concepto de viáticos la cantidad que determine la dirección tomando en cuenta la distancia y el personal que se requiera.
 
-f).- Por valor catastral: $200.00
+V.- Servicios relacionados con condominios, unidades habitacionales y construcciones en general.
 
-g).- Por copias adicionales del plano,
+DIAS DE SALARIO
 
-cada una: $100.00
+Hasta 100 M2 3
 
-h).- Por certificación: $300.00
+101 M2 Hasta 200 M2 5
 
-IV.- DESLINDES.
+201 M2 Hasta 300 M2 7
 
-Con expedición de un juego de cuatro copias del plano del predio:
+301 M2 Hasta 400 M2 9
 
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+401 M2 Hasta 500 M2 11
 
-A.- Por la Inspección oc-lar (sic): $200.00
+Cuando exceda de 501 M2 se cobrará un día de salario por cada 50 M2.
 
-B.- Por la ejecución el (sic) equivalente a los sueldos presupuestales de un topógrafo, un dibujante, calculista y dos cadeneros, según el tiempo empleado, con mínimo de tres días del salario de cada uno.
+VI. Otros servicios:
 
-C.- Por las construcciones, si existieren
+A).- Registro de operaciones, toma de
 
-por cada 100 metros cuadrados
+nota de testimonio y sello que no causen
 
-o fracción: $100.00
+el impuesto de adquisición de bienes
 
-V.- Ejecución de Planos: (sic)
+Inmuebles. 2
 
-Por ejecución de un plano con base en datos proporcionados exclusivamente por el interesado, sin deslinde, expidiéndose un juego de tres copia heliográficas, se cobrará el sueldo correspondiente de Ingeniero y dos Cadeneros a su servicio, así como el del dibujante y el calculista que ejecuten el trabajo computado el tiempo empleado en la operación que nunca será menor de dos días del salario de cada uno más el importe de la inspección ocular.
+B).- Derechos de información, copias e inspecciones:
 
-VI.- OTROS SERVICIOS.
+1).- Ubicación del predio, clave castatral, nombre
 
-A.- Por otros servicios no especificados, se cotizará con fundamento en la Ley General del Catastro y el costo real del servicio a prestar.
+del propietario, domicilio, áreas u valores totales,
+
+medidas y colindancias. 1
+
+2).- Copia certificada de un plano catastral, en
+
+hoja tamaño carta u oficio. 1
+
+Doble carta y doble oficio 3
+
+En papel heliográfico hasta 60 x 90 4
+
+Por cada 25 centímetros extras 1
+
+3).- Copia certificada de documentos diversos
+
+en planos existentes en el expediente. 1
+
+4).- Antecedentes catastrales de un predio 1
+
+5).- Copia heliográfica de las regiones 4
+
+6).- Copia heliográfica del plano de cada municipio 5
+
+7).- Copia del plano del Estado de Morelos
+
+escala: 1:100000 6
+
+8).- Copia del plano del Estado de Morelos
+
+escala 1:500000 15
+
+9).- Inspección ocular dentro de la población sede
+
+de la oficina central de las delegaciones o de la
+
+cabecera municipal donde haya representación de
+
+Catastro. 2
+
+Cuando la inspección sea fuera de las poblaciones: un día de salario más por cada 10 kilómetros.
+
+VII.- Certificados de documentos y valor fiscal de predios:
+
+A).- Copia certificada en los casos comprendidos
+
+en este inciso se pagará, además por la búsqueda
+
+de datos para la expedición del certificado. 1
+
+Los derechos por servicios no especificados en esta
+
+Ley serán determinados por la dirección de
+
+Catastro. .5
+
+Están exentos del pago de estos derechos las
+
+dependencias del Gobierno del Estado, siempre
+
+y cuando la solicitud de su servicio sea
+
+mediante oficio.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 434.
 
-Causan los derechos fijados por la Fracción I de la tarifa preinserta, los avalúos practicados por la Dirección General del Catastro a petición de parte interesada.
+Los avalúos practicados por la Dirección del Catastro a solicitud de parte interesada causarán los derechos que establece el artículo anterior y también en los casos de omisión en la manifestación de construcción.
 
 ###### ARTICULO 435.
 
-Los trabajos de levantamiento y deslinde solicitado por los interesados en lugares donde no haya Delegación de la Dirección General del Catastro, causarán una cuota adicional por viáticos de acuerdo con la distancia y el personal que se utilice.
+(DEROGADO, P.O. 3 DE ENERO DE 1990)
 
-### CAPITULO DECIMO SEGUNDO. POR SERVICIOS DE INSPECCION Y VIGILANCIA QUE PRESTE LA SECRETARIA DE CONTRALORIA DEL ESTADO
+### CAPITULO DECIMO SEGUNDO. DE LOS SERVICIOS DE SUPERVISION DE LA SECRETARIA DE LA CONTRALORIA DEL ESTADO
 
 ###### ARTICULO 436.
 
@@ -5227,137 +5399,175 @@ Estos derechos se causarán conforme a la siguiente:
 
 TARIFA
 
-I.- Por tramitación y aprobación de anteproyectos y proyectos:
+I.- Por la revisión general del proyecto, el 1% sobre el presupuesto de las obras de urbanización autorizado por la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales;
 
-A.- De planos de condominios, por cada unidad: $2,000.00
+II.- Por tramitación, análisis, estudio y aprobación de proyectos:
 
-B.- De planos de fraccionamientos de terrenos con calles, sobre el importe del presupuesto de obras a ejecutar que apruebe la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales del Estado de Morelos:
+A).- De planos de condominios por cada unidad: 1 día de salario.
 
-a).- Residenciales urbanos: 3%
+B).- De planos de fraccionamientos de terreno con calles, sobre el importe del presupuesto de obras a ejecutar que apruebe la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales del Estado de Morelos: 3%
 
-b).- De otros tipos: 2%
+C.- De planos de conjuntos habitacionales por cada unidad: 1 día y medio de salario:
 
-c).- De Ciudades Industriales nuevas: 1.5%
+3 lotes 10 días de salario
 
-C.- De planos de Conjuntos
+4 lotes 20 días de salario
 
-Habitacionales por cada unidad: $500.00
+5 lotes o más 30 días de salario
 
-II.- Por autorizaciones:
+D).- De condominios: sobre el importe del presupuesto de las obras a realizar que apruebe la Comisión Reguladora o la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales: 3%
 
-A.- Para dividir un predio que requiera o no apertura de calle, por cada fracción resultante:
+E).- Por apertura de calles, de manzanas de la zona urbana de las poblaciones o en fraccionamientos: sobre el importe de la obra de urbanización determinada por la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales: 5%
 
-a).- En zona popular: $1,500.00
+F).- Por la ampliación del plano para la terminación de obras de urbanización y construcciones:
 
-b).- En zona residencial: $3,000.00
+Hasta 6 meses 10%
 
-B.- Para modificar la lotificación o formas de manzana en la zona urbana de las poblaciones o fraccionamientos requiera o no apertura de calle, por cada lote que resulte: $1,200.00;
+De más de 6 meses hasta un año 20%
 
-C.- Para fusionar lotes, por unidad:
+De más de 1 año hasta dos años 40%
 
-a).- En zona popular: $3,000.00
+III.- Por licencias:
 
-b).- En zona residencial: $6,000.00
+A).- De división por cada fracción: Separar en zona urbana 5 días de salario; en zona rural el 50% de la cuota anterior.
 
-D.- Por apertura de calles de manzanas de la zona urbana de las poblaciones o en fraccionamientos, sobre el importe de la obra de urbanización determinado por la Dirección de Fraccionamientos, Condominios y Conjuntos Habitacionales: 5%;
+B).- De relotificación de fraccionamientos: 3% sobre el importe de las obras de urbanización que al efecto determine la Comisión Reguladora de Fraccionamientos, Condominios y Conjuntos Habitacionales del Estado, y de acuerdo a la clasificación del uso del suelo que establezca el Plan de Desarrollo correspondiente.
 
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+C).- De fusión de lotes: por cada predio 5 días de salario.
 
-E.- De condominios y conjuntos habitacionales sobre el importe del presupuesto de las obras por ejecutar que determine la Comisión Reguladora o la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales: 2%;
+IV.- Por regularizaciones: se cobrará con base al dictamen de la Comisión Reguladora de Fraccionamientos, Condominios y Conjuntos Habitacionales, la que deberá considerar ubicación, valor, servicios municipales y capacidad económica;
 
-F.- De ampliación del plazo para la terminación de obras de urbanización y construcciones;
+V.- Construcción de casas en serie dentro de fraccionamientos sobre el importe del presupuesto de obras por ejecutar que determine la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales: 2%;
 
-Hasta seis meses 25%
+VI.- Por supervisión: Adicional a lo dispuesto en las anteriores fracciones sobre el importe del presupuesto de obras por ejecutar: el 1%;
 
-De más de seis meses hasta un año 50%
+VII.- Cooperación para aulas, por cada lote en fraccionamientos: 5 días de salario;
 
-De más de un año hasta dos años 75%
+VIII.- Cooperación para obras públicas; en los casos de regularización de fraccionamientos, condominios y conjuntos habitacionales, divisiones y subdivisiones, el 2% sobre el monto de las obras a realizar que determine la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales.
 
-Sobre el importe total de las contribuciones causadas por el mismo en la fecha de autorización original.
-
-Cuando la terminación de la obra no sea imputable al propietario, la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales, fijará las políticas a seguir respecto de la aplicación de este inciso.
-
-III.- Por regularizaciones, se observará lo dispuesto por esta Ley:
-
-IV.- Construcciones en casas en serie dentro de Fraccionamientos, sobre el importe del presupuesto de obras por ejecutar que determine la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales: 2%
-
-V.- Por supervisión, sobre el importe del presupuesto de obras por ejecutar que apruebe la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales: 1%
-
-VI.- Cooperación para aulas por cada fracción: $ 4,000.00.
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 437.
 
-Son causantes de los derechos referidos en las tarifas del Artículo anterior, las personas físicas o morales que soliciten y en su caso obtengan las aprobaciones y autorizaciones de los proyectos y obras solicitadas, conforme a las Leyes respectivas, los derechos se pagarán dentro de los diez días hábiles siguientes a la notificación de la liquidación que formulará la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales y cuyo importe será enterado a la Secretaría de Finanzas.
+Son contribuyentes de los derechos establecidos en el artículo anterior, las personas físicas o morales que soliciten y en su caso obtengan las aprobaciones y licencias de los proyectos de obras solicitadas, conforme a las leyes respectivas.
+
+Los derechos se pagarán dentro de los diez días hábiles siguientes a la notificación de la liquidación que formule la Secretaría de Programación y Finanzas, por conducto de su Dirección General de Ingresos y cuyo importe será enterado en la Administración de Rentas.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 438.
 
-En el supuesto caso de que la resolución se produjera en sentido negativo respecto de la aprobación de anteproyecto y proyectos de las obras que prevee (sic) la Ley correspondiente, las cantidades que se paguen como anticipo conforme a la Fracción I del Artículo 326, quedarán a beneficio del erario del Estado o del Municipio respectivo. De ser afirmativa la resolución, las cantidades entregadas como anticipo se tomaran a cuenta del pago definitivo que proceda.
+Cuando la resolución sea en sentido negativo, respecto de la aprobación de anteproyectos y proyectos de las obras que prevee (sic) la Ley correspondiente.
 
-### CAPITULO I (SIC)
+Las cantidades que se paguen como anticipo conforme al Artículo 385 de esta Ley, quedarán a beneficio del erario del Estado o del Municipio respectivo de conformidad con lo que se establece en la Ley de Coordinación Fiscal. De ser afirmativa la resolución, las cantidades enteradas como anticipo se tomarán a cuenta del pago definitivo que proceda.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
+
+### CAPITULO DECIMO TERCERO. DE LOS SERVICIOS DE POLICIA BANCARIA Y AUXILIAR
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 1990)</small>
+
+ARTICULO 440 A.- Quienes celebren contratos de obra pública y servicios relacionados con la misma, pagarán un derecho de 5 al millar sobre el importe de cada una de las estimaciones de trabajo, por la supervisión que realice la secretaría de la contraloría del estado.
+
+Las dependencias de la Administración Pública Estatal al hacer el pago de las estimaciones de obra, retendrán el importe de este derecho.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 1990)</small>
+
+ARTICULO 440 B.- Los derechos por servicios de la policía industrial bancaria y auxiliar del Estado, se causarán conforme a la siguiente:
+
+TARIFA
+
+DIAS DE SALARIO
+
+Por un policía en 8 horas de servicio 2.5
+
+Por un policía en 12 horas de servicio 3.25
+
+Por un policía en 24 horas de servicio 7.5
 
 ###### ARTICULO 439.
 
-Los derechos por servicio de Archivo, se causarán conforme a la siguiente:
+Los derechos por servicios de archivo y notariales, se causarán conforme a las siguientes:
 
-TARIFA
+TARIFAS
 
-I.- Por la búsqueda de:
+DIAS DE SALARIO
 
-a).- Documentos o escrituras, precisando la fecha un día y medio de salario mínimo en el Estado de Morelos.
+1.- Examen para aspirante a Notario 10
 
-b).- Documentos o escrituras de fecha no precisada, por cada año que comprenda la búsqueda, un día y medio de salario mínimo en el Estado de Morelos.
+2.- Examen para Notario 25
 
-II.- Por cada certificación del protocolo, tres días de salario mínimo en el Estado de Morelos.
+3.- Registro constancia de aspirante 25
 
-III.- Por cada anotación de testimonio y copias, un día y medio de salario mínimo en el Estado de Morelos.
+4.- Registro de la patente de Notario 100
 
-IV.- Por cada razón que se anote un día y medio de salario mínimo en el Estado de Morelos.
+5.- Registro del sello y firma del Notario 25
 
-V.- Por cotejo
+6.- Por la autorización de cada uno de los
 
-Por cada hoja, un día de salario mínimo en el Estado de Morelos.
+libros de protocolo respectivo 23
 
-VI.- Por informe de existencia o inexistencia de testamento tres días de salarios (sic) mínimo en el Estado de Morelos.
+7.- Por la certificación de la razón de
 
-### CAPITULO II (SIC). REDITOS DE CAPITALES IMPUESTOS
+cierre de cada uno de los libros del
+
+protocolo respectivo 23
+
+8.- Por convenios:
+
+A).- De suplencia 25
+
+B).- De asociación 10
+
+9.- Por la expedición de testimonios, copias certificadas y certificaciones:
+
+A).- Por la autorización de documento 3
+
+B).- Por cada hoja del mismo o fracción
+
+que exceda de la mitad 1
+
+10.- Por la búsqueda o informe de:
+
+A).- Documento o instrumento
+
+precisando la fecha 2
+
+B).- Documento o instrumento de fecha
+
+no precisada, por cada año que
+
+comprenda la búsqueda 3
+
+Se agregará un día más a dicho importe si éste se proporciona por oficio.
+
+II.- Por el informe sobre la existencia
+
+o inexistencia de testamento 5
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
+
+### CAPITULO I (SIC)
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 440.
 
-Por la prestación de otros servicios públicos o administrativos-suministrados por el Gobierno del Estado.
-
-I.- Los derechos por inscripción en la Dirección de trabajo y previsión social, oficina de Registro de Asociaciones de las Industrias Comercios, Servicios Públicos, Asociaciones Agrícolas, Sindicatos, Federaciones, Confederaciones Patronales y demás Organismos similares, se causarán conforme a la siguiente:
+Los derechos por la inscripción de asociaciones profesionales, comerciales, industriales, agrícolas, sindicales, patronales y similares en el registro de asociaciones profesionales, se causarán conforme a la siguiente.
 
 TARIFA
 
-Por capital en giro de:
+DIAS DE SALARIO
 
-$500.00 a $2,000.00 $140.00
+I.- Por la inscripción del acta constitutiva. 1
 
-Por capital en giro de.
+II.- Por la inscripción de cada acta que
 
-$2,001.00 a $15,000.00 $160.00
+tenga modificaciones de los estatutos. 5
 
-Por capital en giro de.
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
 
-$15,001.00 a $30,000.00 $200.00
-
-Por capital en giro de.
-
-$30,001.00 a $75,000.00 $250.00
-
-Por capital en giro de.
-
-$75,001.00 a $100,000.00 $300.00
-
-Por capital en giro de.
-
-$100,001.00 en adelante $500.00
-
-II.- Por la autorización de los registros de las Comisiones de Seguridad de Maquinarias, de recipientes sujetos a presión de generadores de vapor Etc., se causarán y pagarán por cada uno, un derecho de $180.00
-
-III.- Revisión de Planos Industriales $10.00 por M2. de superficie.
-
-### CAPITULO III (SIC). PRODUCTOS DE PUBLICACIONES
+### CAPITULO II (SIC). REDITOS DE CAPITALES IMPUESTOS
 
 #### SECCIÓN ÚNICA
 
@@ -5365,47 +5575,75 @@ ARTICULO 440 BIS.- Por el servicio de Vigilancia, Inspección y Control que las 
 
 Las Oficinas Pagadoras de las Dependencias de la Administración Pública Estatal, al hacer el pago de las estimaciones de obra, retendrán el importe del derecho a que se refiere el párrafo anterior.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE ENERO DE 1990)</small>
+
+### CAPITULO III (SIC). PRODUCTOS DE PUBLICACIONES
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+
 ### CAPITULO CUARTO. ALMACENAJE
 
-### CAPITULO UNICO
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ## TITULO QUINTO. DE LOS PRODUCTOS
 
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 441.
 
-La base para el cobro de los productos señalados en el Artículo 6 Bis de esta Ley, serán las que señale la Ley de Ingresos anual; como también la explotación o aprovechamiento de los bienes que constituyan su patrimonio, tales como:
+Los ingresos que reciba el Estado por concepto de productos serán los siguientes:
 
-I.- Venta de muebles e inmuebles propiedad del Estado.
+I.- Venta de bienes muebles e inmuebles.
 
-II.- El importe del arrendamiento de muebles e inmuebles propiedad del Estado.
+II.- Arrendamiento y explotación de bienes muebles e inmuebles.
 
-III.- La explotación o enajenación de cualquier naturaleza de los bienes propiedad del Estado.
+III.- Utilidad por acciones y participaciones en sociedades o empresas.
 
-IV.- Los capitales o valores del Estado.
+IV.- Rendimiento por otras inversiones en créditos y valores.
 
-V.- Los bienes de beneficencia.
+V.- Recuperaciones de inversiones en acciones, créditos y valores.
 
-VI.- Los establecimientos y empresas del Estado, así como proporcionalmente en aquellos que participe con otras Entidades.
+VI.- Publicaciones oficiales.
 
-VII.- Los productos provenientes del periódico oficial y publicaciones en el mismo.
+VII.- Impresos y papel especial.
 
-VIII.- Los productos provenientes de la venta de impresos y papel especial.
+VIII.- Bienes vacantes.
+
+IX.- De organismos descentralizados y empresas de participación estatal.
+
+X.- Otros no especificados.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 442.
 
-Los bienes inmuebles que forman el patrimonio del Estado y que no se encuentran al servicio público, serán administrados por la Dirección de Patrimonio del Gobierno del Estado y su producto ingresado en la Secretaría de Finanzas.
+La venta de bienes inmuebles propiedad del gobierno del estado y los organismos descentralizados del poder ejecutivo se deberá ajustar a las normas y procedimientos establecidos en la Ley General de Bienes del Estado de Morelos.
+
+La venta de bienes muebles propiedad del gobierno del Estado, y los de organismos descentralizados del poder ejecutivo, se sujetarán a las prevenciones de la Ley sobre adquisiciones, enajenaciones, arrendamientos y prestaciones de servicios del gobierno del Estado de Morelos.
+
+El precio de estos bienes tendrá como base el dictamen que formule la comisión de avalúos estatales y en ningún caso podrá ser inferior al señalado en el propio dictamen.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 443.
 
-Para el arrendamiento de los bienes antes citados, la Dirección de Patrimonio, seleccionará entre los solicitantes, al que mejores garantías ofrezca, tanto por su solvencia, como por condiciones del contrato, monto de la renta, uso del bien Etc., (sic)
+El arrendamiento de bienes inmuebles propiedad del gobierno del Estado de Morelos se otorgará por contrato, en los términos que establece la Ley General de Bienes, fijándose como precio del mismo la cantidad que corresponda al 5% anual del valor del inmueble, el cual se determinará por la comisión de avalúos estatales.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 444.
 
-La enajenación de inmuebles del Estado, sólo podrá realizarse con autorización del Poder Legislativo adjudicándose en subasta pública al mejor postor o propuesta de las Secretarías de Finanzas y General de la Contraloría, quienes integrarán y revisarán el expediente correspondiente, para aprobación del Poder Ejecutivo.
+Por el otorgamiento de licencia, concesión o contrato para el uso o goce de inmuebles propiedad del gobierno del Estado de Morelos, se pagará anualmente una cuota, por concepto de producto, de $ 5,000.00; esta cuota se cubrirá independientemente de la prevista en el artículo anterior.
+
+Los ingresos por productos, derivados del arrendamiento, uso o explotación de bienes de inmuebles del gobierno del estado se calculará por ejercicios fiscales. Los beneficiarios efectuarán pagos provisionales mensuales a más tardar el día 10 de cada mes, mediante declaración que presentarán en las oficinas autorizadas. El pago provisional será un doceava parte del monto del producto anual.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 445.
 
-El producto de estos bienes, que sean ocupados por licencia, concesión o contrato legalmente otorgado, se fijará en los términos que establece esta Ley. En caso de que no los establezca, el cobro se realizará de acuerdo con las estipulaciones hechas en los contratos que se celebren respecto al aprovechamiento de edificios, terrenos, plazas, jardines y demás bienes que formen parte del patrimonio del Estado, con sujeción a las bases generales que establecerá el Jefe del Ejecutivo, o en los términos que se fijen en las licencias o concesiones respectivas.
+Las utilidades por acciones y participaciones en sociedad o empresas, el rendimiento por otras inversiones en sociedades o empresas, el rendimiento por otras inversiones en créditos y valores, y las recuperaciones e inversiones en acciones, créditos y valores, se considerarán productos en su calidad de ingresos financieros del Estado, y su captación, manejo y administración será llevada a cabo por la secretaría de programación y finanzas, con base en la línea de política económica que dicte el ejecutivo del Estado.
 
 ###### ARTICULO 446.
 
@@ -5413,39 +5651,95 @@ Cada año, durante el mes de enero, la Secretaría de Finanzas, Presentará al J
 
 ###### ARTICULO 447.
 
-Los avisos e inserciones que se hagan en publicaciones sostenidas por el Gobierno del Estado, se cobrarán de acuerdo con la Ley de Ingresos anual.
+Por los servicios de publicaciones que preste el Gobierno del Estado, se pagarán las cuotas siguientes:
+
+A).- Venta de ejemplares.
+
+I.- Boletín judicial.
+
+1.- Suscripción semestral $25,000.00
+
+2.- Ejemplar de la fecha $500.00
+
+3.- Ejemplar atrasado del año $1,000.00
+
+4.- Ejemplar de años anteriores $2,000.00
+
+B).- Inserciones: Publicaciones de edictos, convocatorias, avisos etc.
+
+1).- De las autoridades judiciales, gobierno del Estado y municipales, por cada palabra $40.00
+
+Estos ingresos se administrarán por el tribunal superior de justicia, para cubrir los gastos de (sic) boletín.
+
+I.- Periódico Oficial “Tierra y Libertad”.
+
+A).- Venta de ejemplares.
+
+1).- Inscripción semestral $50,000.00
+
+2).- Ejemplar de la fecha $1,000.00
+
+3).- Ejemplar atrasado del año $2,000.00
+
+4).- Ejemplar de años anteriores $3,000.00
+
+5).- Ejemplar de edición especial
+
+por la publicación de leyes o
+
+reglamentos $5,000.00
+
+B).- INSERCIONES: Publicaciones de edictos, convocatorias, avisos, etc.
+
+1).- De las autoridades judiciales,
+
+gobierno del estado y municipales,
+
+por cada palabra $150.00
+
+2).- De particulares, por cada
+
+palabra $200.00
 
 ###### ARTICULO 448.
 
-Los productos de ingresos igualmente serán cobrados de conformidad con la Ley de Ingresos anual.
+(DEROGADO, P.O. 3 DE ENERO DE 1990)
 
 ###### ARTICULO 449.
 
-El Gobierno del Estado se reserva la impresión de los formularios a que se refiere la Ley de Ingreos (sic) anual, su reproducción o falsificación será penada.
+(DEROGADO, P.O. 3 DE ENERO DE 1990)
 
-La venta de dichos impresos se hará en las oficinas que designe la Secretaría de Finanzas.
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 450.
 
-Los productos no especificados se determinaran su monto por la Secretaría de Finanzas.
+El monto de los productos no especificados, se determinará por la Secretaría de Programación y Finanzas.
 
 ###### ARTICULO 451.
 
-Por almacenaje de bienes en bodegas o locales pertenecientes al Gobierno del Estado se pagará un mínimo de $25.00 diario por cada lote de bienes. Esta cuota se incrementará en $2.00 diarios después de transcurridos 30 días de la fecha de su depósito en dichas bodegas.
+Por los servicios de almacenaje de bienes en bodegas o locales pertenecientes al gobierno del Estado, distintos a los corralones de tránsito, se pagarán productos de almacenaje conforme a las siguientes cuotas:
+
+I.- Cuando los bienes ocupen hasta 3.00 M2. de superficie y hasta tres metros de altura por día $1,000.00.
+
+II.- Por cada metro o fracción que exceda de la superficie o de la altura mencionada por día $500.00
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 452.
 
-Tratándose de bienes que hubieren sido embargados y almacenados en dichas bodegas, y que hubieren sido rematados por autoridad administrativa o judicial, se pagará una cuota mínima de $25.00 diarios a partir del quinto día siguiente a la fecha en que se hubiere iniciado el procedimiento económico-coactivo.
+Por los bienes embargados y almacenados en las bodegas o locales del gobierno del Estado, que hubieren sido rematados por autoridad judicial o administrativa, se pagarán por concepto de productos de almacenaje una cuota mínima de $100.00 diarios, a partir del décimo primer día siguiente a la fecha en que se hubiere fincado el remate.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 453.
 
-No se cobrarán las citadas cuotas, tratándose de los bienes siguientes:
+No se pagará el producto de almacenaje en los siguientes casos:
 
-I.- Cuando su ingreso a las bodegas o locales se origine del cumplimiento de un contrato en el que sea parte el Gobierno del Estado, salvo que en dicho contrato se estipule la obligación de pagar esas cuotas.
+I.- Si los bienes son almacenados en cumplimiento de contrato celebrado por el gobierno del Estado, excepto cuando señale que se pagarán las cuotas de almacenaje, y
 
-II.- Cuando pertenezcan a la Federación o al Estado, las cuotas de almacenaje que establece este capítulo deberán pagarse por períodos de 30 días anticipados, pero si transcurridos cinco días después de su vencimiento no se hubieran liquidado totalmente, la Secretaría de Finanzas procederá a hacer efectivo el adeudo mediante el procedimiento administrativo de ejecución que establece esta Ley, afectándose de preferencia los mismos bienes almacenados.
+II.- Cuando los bienes almacenados pertenezcan a la federación, al Gobierno del Estado o a los municipios.
+
+Las cuotas de almacenaje que establece este capítulo deberán pagarse anticipadamente por periodos de treinta días, cuando hayan transcurrido cinco días después de su vencimiento y no se hubieren cubierto totalmente, la secretaría de programación y finanzas, previo acuerdo del ejecutivo del Estado, ordenará se proceda a la cobranza judicial, afectándose de preferencia los mismos bienes almacenados.
 
 ## TITULO SEXTO. APROVECHAMIENTOS
 
@@ -5453,17 +5747,27 @@ II.- Cuando pertenezcan a la Federación o al Estado, las cuotas de almacenaje q
 
 ###### ARTICULO 454.
 
-Como aprovechamientos se considerarán, los expresamente señalados por esta Ley en su Artículo 7 y se cobrarán aplicando las tarifas señaladas en la Ley de Ingresos anual.
+Los ingresos que perciba la Hacienda Pública del Estado por concepto de aprovechamientos serán los siguientes:
 
-Igualmente se considerarán aprovechamientos:
+I.- Rezagos.
 
-I.- Recuperación de egresos públicos.
+II.- Recargos.
 
-II.- Herencias, legados y donaciones a favor del Estado.
+III.- Multas.
 
-III.- Conmutación de penas.
+IV.- Reintegros.
 
-V (SIC).- Otros ingresos no comprendidos pendientes de pago causados en ejercicios anteriores.
+V. - Fianzas que se hagan efectivas.
+
+VI.- Conmutación de penas.
+
+VII.- Indemnizaciones.
+
+VIII.- Administración de impuestos federales.
+
+IX. - Administración de impuestos municipales.
+
+X.- Otros conceptos no especificados.
 
 TRANSITORIOS:
 
@@ -5518,3 +5822,29 @@ El presente Decreto iniciará su vigencia el día primero de enero de mil noveci
 ###### ARTÍCULO SEGUNDO.
 
 Remítase al Ejecutivo del Estado el presente Decreto, para su publicación en el Periódico Oficial, "Tierra y Libertad", órgano del Gobierno del Estado, y para los efectos a que hace referencia la Fracción XVII del Artículo 70 de la Constitución Política del Estado.
+
+P.O. 3 DE ENERO DE 1990.
+
+###### ARTICULO PRIMERO.
+
+Es de aprobarse y se aprueba el decreto que reforma, adiciona, deroga y suspende la vigencia de diversas disposiciones de la Ley General de Hacienda del Estado Libre y Soberano de Morelos.
+
+###### ARTICULO SEGUNDO.
+
+Las presentes reformas, derogaciones, adiciones y suspensión de vigencia entraran en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+###### ARTICULO TERCERO.
+
+El tribunal de lo contencioso administrativo del Estado de Morelos, conocerá de los asuntos de su competencia derivados de la Ley General de Hacienda una vez que quede legalmente instalado.
+
+###### ARTICULO CUARTO.
+
+Se suspende la vigencia de los artículos relativos a impuestos sobre adquisición de bienes inmuebles, del artículo 260 al 274; sobre vehículos de motor que no consuman gasolina, del artículo 319 al 324; otros servicios, artículo 440; inspección y vigilancia que preste la contraloría del Estado, artículo 440 Bis; registro de contratos de arrendamiento y otros contratos relativos a inmuebles artículo 420 por registro de títulos profesionales, artículo 421 fracciones de la I a la VII y IX, celebración de contratos de obra pública y servicios relacionados con la misma; artículo 440-A, dicha suspensión de vigencia estará vigente mientras tanto el gobierno del Estado de Morelos este coordinado mediante convenio con la Federación respecto de las materias a que se refieren las disposiciones legales mencionadas.
+
+###### ARTICULO QUINTO.
+
+El presente decreto entrará en vigor el 1° de enero de 1990.
+
+###### ARTICULO SEXTO.
+
+Túrnese al Ejecutivo del Estado para los efectos constitucionales a que haya lugar.
