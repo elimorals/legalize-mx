@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-penales-para-el-estado-de-sinaloa-6532
 country: "mx"
 rank: "codigo"
 publication_date: "1986-09-26"
-last_updated: "1999-07-09"
+last_updated: "2000-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2000.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el viernes 26 de septiembre de 1986.
 
@@ -61,9 +61,9 @@ Es facultad exclusiva del Ministerio Público, la persecución de los delitos y 
 
 El Ministerio Público, en el ejercicio de su actividad persecutoria y de preparación para el ejercicio de la acción penal, deberá:
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2000)</small>
 
-I.- Recibir denuncias o querellas; las denuncias podrán también formularse ante la Policía Judicial, que en todo caso estará a las órdenes del Ministerio Público;
+I.- Recibir denuncias o querellas; las denuncias podrán también formularse ante la Policía Ministerial, que en todo caso estará bajo las órdenes del Ministerio Público;
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
 
@@ -781,11 +781,11 @@ La falta de cumplimiento de esta disposición será sancionada por el Tribunal c
 
 REGLAS COMUNES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ABRIL DE 2000)</small>
 
 ###### ARTICULO 112.
 
-El Ministerio Público y la Policía Judicial, ésta sólo por órdenes de aquel, están obligados a proceder a la investigación de los delitos perseguibles de oficio de que tengan conocimiento. Cuando se trate de delitos perseguibles a petición de parte, solo se procederá a la investigación previa satisfacción de ese requisito de procedibilidad.
+El Ministerio Público y la Policía Ministerial, ésta sólo por órdenes de aquél, están obligados a proceder a la investigación de los delitos perseguibles de oficio de que tengan conocimiento, sin necesidad de que la denuncia haya sido ratificada ministerialmente. Cuando se trate de delitos perseguibles a petición de parte, solo se procederá a la investigación previa satisfacción de ese requisito de procedibilidad.
 
 Si el que inicia una investigación no tiene a su cargo la función de continuarla, dará inmediatamente cuenta al que corresponda legalmente practicarla.
 
@@ -813,9 +813,11 @@ Las querellas presentadas por las personas morales, podrán ser formuladas por s
 
 Para las querellas presentadas por personas físicas, será suficiente poder general para pleitos y cobranzas con cláusula especial, salvo en los casos de rapto, estupro o violación en los que sólo se tendrá por formulada directamente por alguna de las personas a que se refiere la parte final del párrafo segundo de este Artículo.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2000)</small>
+
 ###### ARTICULO 115.
 
-Al iniciar el procedimiento el Ministerio Público o la Policía Judicial, se trasladarán en su caso, inmediatamente al lugar de los hechos, lo identificarán con planos y fotografías y darán fe de las cosas y de las personas a quienes hubiera afectado el hecho delictuoso y tomarán los datos de las que lo hayan presenciado, procurando que declaren a la brevedad posible.
+Al iniciar el procedimiento el Ministerio Público o la Policía Ministerial, se trasladarán en su caso, inmediatamente al lugar de los hechos, lo identificarán con planos y fotografías y darán fe de las cosas y de las personas a quienes hubiera afectado el hecho delictuoso y tomarán los datos de las que lo hayan presenciado, procurando que declaren a la brevedad posible.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
 
@@ -951,11 +953,11 @@ Son auxiliares de la Procuraduría y Administración de Justicia y estarán obli
 
 I.- Los Presidentes Municipales;
 
-II.- El Director de la Policía Judicial del Estado y personal bajo su dependencia;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2000)</small>
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 1991)</small>
+II.- El Director de la Policía Ministerial del Estado y personal bajo su dependencia;
 
-III.- Los Directores de Seguridad Pública y Jefes de Policía Municipales y personal bajo su dependencia;
+III.- Los Directores de Seguridad Pública o Jefes de Policía Municipales y personal bajo su dependencia;
 
 IV.- El Director General de Tránsito del Estado o los Directores o Jefes Municipales y el personal dependiente de ellos;
 
@@ -1011,9 +1013,11 @@ Cuando la persona no sepa escribir o por cualquier motivo no formule su queja po
 
 Las actas se extenderán en papel oficio, autorizándose cada hoja con el sello de la oficina. Además se agregarán los documentos y papeles que se presenten.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2000)</small>
+
 ###### ARTICULO 132.
 
-En los Oficinas de Policía Judicial, se llevarán los libros necesarios para dar entrada a los asuntos que se tramiten. Se formará el expediente por duplicado con los demás documentos que se reciban, dejando copia de éstos últimos, cuando la averiguación se traslade a otra autoridad.
+En las Oficinas de Policía Ministerial, se llevarán los libros necesarios para registrar los asuntos que se tramiten. Se formará el expediente por duplicado con los demás documentos que se reciban, dejando copia de éstos últimos, cuando la averiguación se traslade a otra autoridad.
 
 ###### ARTICULO 133.
 
@@ -1037,9 +1041,11 @@ Cerrada el acta se tomará razón de ella y la autoridad procederá con arreglo 
 
 En los casos en que la Ley exija una declaración judicial previa, deberá presentarse copia de la sentencia irrevocable en que se haga dicha declaración.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2000)</small>
+
 ###### ARTICULO 138.
 
-El Ministerio Público y la Policía Judicial, asentarán en el acta que levanten todas las observaciones acerca de las circunstancias de tiempo, lugar y modo de la comisión del delito.
+El Ministerio Público y la Policía Ministerial, asentarán en el acta que levanten todas las observaciones acerca de las circunstancias de tiempo, lugar y modo de una comisión del delito.
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 1991)</small>
 
@@ -1051,9 +1057,11 @@ Se asentarán en el acta a que se refiere el artículo anterior, todas las obser
 
 ### CAPITULO II. ACREDITACION DEL CUERPO DEL DELITO Y DE LA PROBABLE RESPONSABILIDAD DEL INDICIADO
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2000)</small>
+
 ###### ARTICULO 140.
 
-Cuando el delito deje vestigios o indicios de su perpetración, el Ministerio Público o la Policía Judicial lo harán constar en el acta que levanten, recogiéndolos si fuere posible.
+Cuando el delito deje vestigios o indicios de su perpetración, el Ministerio Público o la Policía Ministerial lo hará constar en el acta que levanten, recogiéndolos si fuere posible.
 
 ###### ARTICULO 141.
 
@@ -1069,9 +1077,11 @@ Cuando el estado y circunstancias a que se refiere el Artículo anterior, no pud
 
 Si para la acreditación de la existencia del delito, de su corporeidad o de sus circunstancias, tuviere importancia el reconocimiento de un lugar, se ordenará se verifique haciendo constar en el acta la descripción del mismo y de todos los detalles que puedan tener significación para la apreciación de los hechos. Asimismo, se agregarán las fotografías correspondientes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ABRIL DE 2000)</small>
+
 ###### ARTICULO 144.
 
-La Policía Judicial, procederá a recoger en los primeros momentos de su investigación, las armas, instrumentos y objetos de cualquier clase, que pudieran tener relación con el delito y se hallaren en el lugar en que éste se cometió, en sus inmediaciones, en poder del inculpado o en otra parte, expresando cuidadosamente el lugar, tiempo y ocasión en que se encontraron y haciendo una descripción minuciosa de las circunstancias de su hallazgo.
+La Policía Ministerial, en los primeros momentos de su investigación, procederá a proteger el lugar de los hechos, así como las armas, instrumentos y objetos de cualquier clase, que pudieran tener relación con el delito y se hallaren en el lugar en que éste se cometió, en sus inmediaciones, en poder del inculpado o en otra parte, expresando cuidadosamente el lugar, tiempo y ocasión en que se encontraron y haciendo una descripción minuciosa de las circunstancias de su hallazgo.
 
 De todos estos objetos entregará recibo a la persona en cuyo poder se encuentren, la que expresará su conformidad o motivos de inconformidad. El duplicado se agregará al acta que se levante.
 
@@ -1291,9 +1301,11 @@ En caso de que la detención de una persona exceda los plazos señalados en el a
 
 En el pliego de consignación, el Ministerio Público hará expreso señalamiento de los datos reunidos durante la averiguación previa que, a su juicio, puedan ser considerados para los efectos previstos en el artículo 20 fracción I, de la Constitución Política de los Estados Unidos Mexicanos, y en los preceptos de este Código relativos a la libertad provisional bajo caución, tanto en lo referente a la determinación del cuerpo del delito y la probable responsabilidad, como por lo que respecta a los elementos que deban tomarse en cuenta para fijar el monto de la garantía.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ABRIL DE 2000)</small>
+
 ###### ARTICULO 181.
 
-Al recibir el Ministerio Público diligencias de Policía Judicial, si hubiere detenidos y la detención fuere justificada, hará inmediatamente la consignación a los Tribunales; si fuere injustificada ordenará que los detenidos queden en libertad.
+Al recibir el Ministerio Público diligencias de Policía Ministerial, si hubiere detenidos y la detención fuere justificada, dentro de los plazos constitucionales, hará la consignación a los Tribunales; si fuere injustificada ordenará que los detenidos queden en libertad.
 
 > <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1991)</small>
 
@@ -1308,8 +1320,6 @@ Cuando el Ministerio Público deje libre al indiciado, le prevendrá de que comp
 > <small>(F. DE E., P.O. 7 DE NOVIEMBRE DE 1986)</small>
 
 El Ministerio Público, en su caso, también podrá actuar en los términos del párrafo anterior, si el indiciado desobedeciere sin causa justificada, las órdenes que dictare.
-
-> <small>(F. DE E., P.O. 7 DE NOVIEMBRE DE 1986)</small>
 
 La garantía se cancelará y en su caso, se devolverá por el Ministerio Público, cuando resuelva el no ejercicio de la acción penal. Consignado el caso, la garantía seguirá operando hasta en tanto el Juez decida su confirmación, modificación o cancelación.
 
@@ -1527,9 +1537,11 @@ ARTICULO 202 BIS.- Durante la instrucción, el Tribunal que conozca del proceso 
 
 El auto de libertad o de no sujeción a proceso, se fundará en la no acreditación del cuerpo del delito o de la probable responsabilidad del indiciado; contendrá los requisitos señalados en las fracciones I, II y VIII del artículo 198 y no impedirá que posteriormente con otros datos se proceda en su contra, siempre que el Ministerio Público los aporte y solicite nuevamente la orden de aprehensión.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2000)</small>
+
 ###### ARTICULO 204.
 
-Cuando el auto de libertad o de no sujeción a proceso se dicte a virtud de omisiones del Ministerio Público o de agentes de la Policía Judicial, se mencionarán expresamente tales omisiones para que se exija a éstos la responsabilidad en que hubieran incurrido.
+Cuando el auto de libertad o de no sujeción a proceso se dicte a virtud de omisiones del Ministerio Público o de agentes de la Policía Ministerial, se mencionarán expresamente tales omisiones para que se exija a éstos la responsabilidad en que hubieran incurrido.
 
 SEGUNDA PARTE
 
@@ -1803,7 +1815,9 @@ El servidor público que practique una diligencia de inspección, deberá cumpli
 
 La inspección podrá tener el carácter de reconstrucción de hechos y tendrá por objeto apreciar las declaraciones que se hayan rendido y los dictámenes periciales que se hayan formulado.
 
-Se practicará en la averiguación únicamente cuando el funcionario que practique las diligencias de Policía Judicial o del Ministerio Público lo estimen necesario; en la instrucción, a solicitud de las partes, o antes de cerrarse la misma, si por la naturaleza del hecho delictuoso o de las pruebas rendidas proceda a juicio del Juez.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2000)</small>
+
+Se practicará en la averiguación únicamente cuando el funcionario que practique las diligencias de Policía Ministerial o del Ministerio Público lo estimen necesario; en la instrucción, a solicitud de las partes, o antes de cerrarse la misma, si por la naturaleza del hecho delictuoso o de las pruebas rendidas proceda a juicio del Juez.
 
 Podrá practicarse durante la vista del proceso, aún cuando no se haya practicado con anterioridad, a petición de las partes y a juicio del Juez o Tribunal, en su caso.
 
@@ -1869,7 +1883,9 @@ El cateo sólo podrá practicarse en virtud de orden escrita expedida por la aut
 
 Cuando el Ministerio Público actúe como investigador de delitos, podrá pedir a la autoridad judicial que practique cateos, proporcionando a ésta los datos que justifiquen el registro. Solicitada una orden de cateo el juez la decretará o negará dentro de las veinticuatro horas siguientes.
 
-Si dicha autoridad concede la práctica del cateo, señalará a los servidores públicos o agentes de la policía judicial que lo practiquen y una vez concluida la diligencia se enviará al Ministerio Público, en su caso, el acta correspondiente. La autoridad que concede el cateo, siempre designará a uno de sus servidores públicos para que asista a la diligencia.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2000)</small>
+
+Si dicha autoridad concede la práctica del cateo, señalará a los servidores públicos o gentes de la Policía Ministerial que lo practiquen y una vez concluida la diligencia se enviará al Ministerio Público, en su caso, el acta correspondiente. La autoridad que concede el cateo, siempre designará a uno de sus servidores públicos para que asista a la diligencia.
 
 > <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1991)</small>
 
@@ -2165,9 +2181,9 @@ La Policía Judicial podrá rendir informes pero no obtener confesiones; si lo h
 
 No podrá consignarse a ninguna persona si existe como única prueba la confesión.
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2000)</small>
 
-Las diligencias practicadas por agentes de la Policía Judicial tendrán valor de testimonios que deberán complementarse con otras diligencias de prueba que practique el Ministerio Público, para atenderse en el acto de la consignación, pero en ningún caso se podrán tomar como confesión lo asentado en aquéllas.
+Las diligencias practicadas por agentes de la Policía Ministerial tendrán valor de testimonios que deberán complementarse con otras diligencias de prueba que practique el Ministerio Público, para atenderse en el acto de la consignación, pero en ningún caso se podrán tomar como confesión lo asentado en aquéllas.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
 
@@ -2203,9 +2219,11 @@ Los Tribunales apreciarán los dictámenes periciales, aún los de los peritos o
 
 La inspección, el resultado de las visitas domiciliarias y cateos, harán prueba plena siempre que se practiquen con los requisitos de esta Ley.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2000)</small>
+
 ###### ARTICULO 321.
 
-Las diligencias practicadas por la Policía Judicial, el Ministerio Público y los Tribuanles (sic), tendrán valor probatorio pleno siempre que se ajusten a las reglas señaladas en este Código.
+Las diligencias practicadas por la Policía Ministerial, el Ministerio Público y los Tribunales, tendrán valor probatorio pleno siempre que se ajusten a las reglas señaladas en este Código.
 
 ###### ARTICULO 322.
 
@@ -3720,3 +3738,13 @@ P.O. 9 DE JULIO DE 1999.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 12 DE ABRIL DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Las referencias que en otras disposiciones jurídicas se hagan a la Policía Judicial, se entenderán hechas a la Policía Ministerial.
