@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-del-estado-de-puebla-7540"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "1996-12-06"
+last_updated: "1997-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 1993.
 
@@ -477,9 +477,71 @@ ARTICULO 26 J.- Las Autoridades Fiscales podrán estimar la base gravable de est
 
 ARTICULO 26 K.- Las infracciones al presente Capítulo serán sancionadas de conformidad a lo previsto por el Código Fiscal del Estado.
 
-### CAPITULO UNICO. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS DEPENDENCIAS Y ORGANISMOS AUXILIARES DE LA ADMINISTRACION PUBLICA DEL ESTADO
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE MARZO 1997)</small>
 
-### CAPITULO UNICO
+### CAPITULO V. DEL IMPUESTO ESTATAL SOBRE LOTERIAS, RIFAS, SORTEOS Y CONCURSOS
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO 1997)</small>
+
+ARTICULO 26 L.- Es objeto del impuesto estatal sobre loterías, rifas, sorteos y concursos, la obtención de ingresos por premios derivados de la celebración de loterías, rifas, sorteos y concursos organizados por organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos destinados a la asistencia pública.
+
+Cuando el organismo público organizador que otorgue el premio, pague por cuenta del contribuyente el impuesto que corresponde como retención, el mismo será enterado en términos del Artículo 26 Q de esta Ley.
+
+Para efectos de este impuesto no se considera como premio, el reintegro correspondiente al billete que permitió participar en loterías.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO 1997)</small>
+
+ARTICULO 26 M.- Están obligados al pago del impuesto estatal sobre loterías, rifas, sorteos y concursos, las personas físicas y morales, que obtengan ingresos por premios derivados de eventos organizados por organismos públicos descentralizados de la Administración Pública Federal cuyo objeto social sea la obtención de recursos destinados a la asistencia pública, en el caso de que reciban el premio en el territorio del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO 1997)</small>
+
+ARTICULO 26 N.- Es base del impuesto estatal sobre loterías, rifas, sorteos y concursos:
+
+I.- Tratándose de premios en efectivo, el monto total del ingreso por los premios obtenidos correspondiente a cada boleto o billete entero, sin deducción alguna.
+
+II.- Tratándose de premios en especie, el valor con el que se promocione cada uno de los premios o en su defecto:
+
+a) El valor de la facturación de compra tratándose de bienes muebles.
+
+b) El valor catastral vigente en el momento de su entrega, tratándose de inmuebles.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO 1997)</small>
+
+ARTICULO 26 Ñ.- El impuesto estatal sobre loterías, rifas, sorteos y concursos, se causará y pagará aplicando a la base a que se refiere el Artículo 26 N de esta Ley, la tasa que se establezca en la Ley de Ingresos del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO 1997)</small>
+
+ARTICULO 26 O.- El impuesto estatal sobre loterías, rifas, sorteos y concursos se causará en el momento que los sujetos reciban el pago o entrega del premio derivado de eventos organizados por organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos destinados a la asistencia pública.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO 1997)</small>
+
+ARTICULO 26 P.- El pago del impuesto estatal sobre loterías, rifas, sorteos y concursos, se realizará en la Oficina Recaudadora de la Secretaría de Finanzas en Puebla, mediante declaración que presente el retenedor al que se refiere el Artículo 26 Q de esta Ley, a más tardar el día 17 del mes siguiente al de su causación.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO 1997)</small>
+
+ARTICULO 26 Q.- El impuesto estatal sobre loterías, rifas, sorteos y concursos será retenido y enterado en el plazo, lugar y forma que establece el Artículo 26 P de esta Ley, por los organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos destinados a la asistencia pública.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO 1997)</small>
+
+ARTICULO 26 R.- Los organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos destinados a la asistencia pública, que celebren loterías, rifas, sorteos y concursos de toda clase, deberán retener y enterar a la Secretaría de Finanzas el impuesto que se cause. Tratándose de premios en especie, quienes los obtengan deberán enterar al retenedor los recursos necesarios para la retención del impuesto. Asimismo el organismo público descentralizado de que se trate, deberá proporcionar al interesado constancia de retención del impuesto, cuando así lo solicite el contribuyente de este impuesto.
+
+Los retenedores deberán solicitar ante la Secretaría de Finanzas, su inscripción en el registro estatal de contribuyentes de este impuesto, utilizando para tal efecto las formas aprobadas por la Secretaría de Finanzas.
+
+Se entenderá para efectos de este impuesto, que el domicilio fiscal del retenedor será el que se señale en el aviso de inscripción al que se refiere el párrafo segundo de este Artículo, por lo que los actos administrativos que se practiquen en el mismo se considerarán válidos para efectos legales.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO 1997)</small>
+
+ARTICULO 26 S.- Las infracciones al presente capítulo serán sancionadas de conformidad a lo previsto en el Código Fiscal del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO 1997)</small>
+
+ARTICULO 26 T.- El Estado distribuirá entre sus Municipios, parte de la recaudación del impuesto estatal sobre loterías, rifas, sorteos y concursos de conformidad con las siguientes bases:
+
+I.- Una vez que la Secretaría de Finanzas recaude el impuesto estatal sobre loterías, rifas, sorteos y concursos, separará un porcentaje igual al que corresponde recibir a los Municipios del Fondo General de Participaciones, de conformidad con el Decreto del H. Congreso del Estado, por el que se apruebe el Sistema para la Distribución de Participaciones a los Municipios del Estado de Puebla.
+
+II.- El monto que resulte incrementará el Fondo de Desarrollo Municipal y se distribuirá de conformidad con lo previsto en el Decreto del H. Congreso del Estado, por el que se apruebe el Sistema para la Distribución de Participaciones a los Municipios del Estado de Puebla.
+
+### CAPITULO UNICO. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS DEPENDENCIAS Y ORGANISMOS AUXILIARES DE LA ADMINISTRACION PUBLICA DEL ESTADO
 
 ## TITULO SEGUNDO. DE LOS DERECHOS
 
@@ -524,6 +586,8 @@ Los contratos de arrendamiento de bienes muebles e inmuebles, propiedad del Gobi
 Son aprovechamientos los ingresos ordinarios del Estado, no clasificables como impuestos, derechos y productos. Estos se pagarán de acuerdo a lo que establecen la Ley de Ingresos y el Código Fiscal del Estado vigentes.
 
 ## TITULO QUINTO. DE LAS PARTICIPACIONES
+
+### CAPITULO UNICO
 
 ###### ARTICULO 31.
 
@@ -636,3 +700,13 @@ PRIMERO.- El presente Decreto entrará en vigor el primero de enero de mil noven
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- El incumplimiento de la obligación consignada en el último párrafo del artículo 24 de esta Ley, solo será objeto de sanción a partir del primero de junio de mil novecientos noventa y siete.
+
+P.O. 19 DE MARZO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
