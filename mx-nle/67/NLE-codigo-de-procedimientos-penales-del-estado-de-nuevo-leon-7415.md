@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "1990-03-28"
+last_updated: "1990-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 1990.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -841,6 +841,10 @@ Cuando el probable responsable fuere detenido, se harán constar lugar, fecha y 
 
 Se le recogerán los objetos que se relacionen con el delito, y aquellos que no deban dejarse en su poder, por temor de que se pierdan o porque se estime inconveniente que los tenga en su posesión; en todo caso se entregará al detenido un recibo en el que se especifiquen los objetos recogidos, agregándose al acta un duplicado, que deberá llevar su firma o huella en su caso. Si se niega a ello, se hará constar su negativa.
 
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 1990)</small>
+
+Tratándose de los delitos culposos con motivo del tránsito de vehículos, en donde participen unidades de transporte urbano, o de transporte escolar, recibida por la autoridad garantía suficiente que cubra la reparación del daño para el caso de que resulte responsabilidad del inculpado, deberá hacer entrega del vehículo relacionado con el delito.
+
 ###### ARTICULO 138.
 
 Antes de trasladar al detenido, en los términos a que se refieren los artículos anteriores, al lugar de su detención preventiva, deberán ser verificados su identidad y su estado psicofisiológico, para los efectos de que sea precisamente la persona a la que se refiere la averiguación.
@@ -1517,7 +1521,7 @@ De las diligencias se levantará acta circunstanciada, que firmarán los que en 
 
 ###### ARTICULO 261.
 
-El funcionario que practique una diligencia de inspección deberá cumplir, en lo conducente con las reglas contenidas en los capítulos I, y II del Titulo Tercero de este código.
+El funcionario que practique una diligencia de inspección deberá cumplir, en lo conducente con las reglas contenidas en los capítulos I, y II del Título Tercero de este código.
 
 ###### ARTICULO 262.
 
@@ -3238,3 +3242,9 @@ LIC. JORGE A. TREVIÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JOSE N. GONZALEZ PARAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.</small>
+
+P.O. 20 DE JUNIO DE 1990.
+
+UNICO: El presente Decreto entrará en vigor al día siguiente de su publicación.
