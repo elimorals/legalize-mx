@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-documentos-administrativos-e-historicos-del-estado-5980"
 country: "mx"
 rank: "ley"
 publication_date: "1986-03-24"
-last_updated: "1986-03-24"
+last_updated: "1987-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE DOCUMENTOS ADMINISTRATIVOS E HISTORICOS DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE SEPTIEMBRE DE 1987.
 
 Ley publicada en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 24 de marzo de 1986.
 
@@ -91,11 +91,11 @@ PODER EJECUTIVO
 
 El Poder Ejecutivo Estatal en la Administración de Documentos, se sujetará a las disposiciones de la presente Ley y de las normas que se dicten al respecto.
 
-> <small>(F. DE E., P.O. 29 DE MAYO DE 1986)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1987)</small>
 
 ###### Artículo 10.
 
-El Archivo General del Poder Ejecutivo y el Archivo Histórico del Estado, funcionarán bajo la responsabilidad de la Secretaría de Administración.
+El Archivo General del Poder Ejecutivo, funcionará bajo la responsabilidad de la Secretaría de Administración, y el Archivo Histórico del Estado, será operado por el Instituto Mexiquense de Cultura.
 
 ###### Artículo 11.
 
@@ -415,7 +415,7 @@ El Ejecutivo del Estado, a través de la Secretaría de Administración, proveer
 
 LO TENDRA ENTENDIDO EL GOBERNADOR DEL ESTADO, HACIENDO QUE SE PUBLIQUE Y SE CUMPLA.
 
-Dado en el Palacio del Poder Legislativo, en Toluca de Lerdo, Méx., a los Dieciséis días del mes de Enero de Mil Novecientos Ochenta y Seis.-Diputado Presidente, Profr. Héctor Luna Camacho; Diputado Secretario, Lic. Gustavo Cárdenas Monroy; Diputado Secretario, Profr. Jorge Vázquez Hernández; Diputado Prosecretario, C. Gabriel Bravo Acuña; Diputado Prosecretario, Profr. Maximino Pérez Hernández.- Rúbricas.
+Dado en el Palacio del Poder Legislativo, en Toluca de Lerdo, Méx., a los Dieciséis días del mes de Enero de Mil Novecientos Ochenta y Seis.- Diputado Presidente, Profr. Héctor Luna Camacho; Diputado Secretario, Lic. Gustavo Cárdenas Monroy; Diputado Secretario, Profr. Jorge Vázquez Hernández; Diputado Prosecretario, C. Gabriel Bravo Acuña; Diputado Prosecretario, Profr. Maximino Pérez Hernández.- Rúbricas.
 
 Por tanto mando se publique, circule, observe y se le dé el debido cumplimiento.
 
@@ -438,3 +438,11 @@ EL SECRETARIO DE ADMINISTRACION
 Dr. Carlos F. Almada López
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE SEPTIEMBRE DE 1987
+
+###### ARTICULO UNICO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
