@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-15-1996-del-pleno-del-consejo-de-la-6361
 country: "mx"
 rank: "acuerdo"
 publication_date: "1996-08-14"
-last_updated: "2003-08-28"
+last_updated: "2005-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63615&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-08-14"
 
 ACUERDO GENERAL NUMERO 15/1996, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS BASES DE OPERACION Y FUNCIONAMIENTO DE LA COMISION MIXTA DE SEGURIDAD E HIGIENE EN EL TRABAJO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE MARZO DE 2005.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo IV, Septiembre de 1996, página. 783.
 
@@ -45,13 +45,17 @@ ACUERDO
 
 ### CAPITULO I. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 12/2005 QUE ESTABLECE LAS BASES DE OPERACION Y FUNCIONAMIENTO DE LA COMISION MIXTA DE SEGURIDAD, HIGIENE Y MEDIO AMBIENTE EN EL TRABAJO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE MARZO DE 2005)</small>
+
 ###### Artículo 1.
 
-Las presentes Bases fijan las normas de operación interna de la Comisión Mixta Central de Seguridad e Higiene del Consejo de la Judicatura Federal, y su observancia es obligatoria para sus integrantes.
+Las presentes Bases fijan las normas de operación interna de la Comisión Mixta Central de Seguridad, Higiene y Medio Ambiente en el Trabajo del Consejo de la Judicatura Federal, y su observancia es obligatoria para sus integrantes.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 12/2005 QUE ESTABLECE LAS BASES DE OPERACION Y FUNCIONAMIENTO DE LA COMISION MIXTA DE SEGURIDAD, HIGIENE Y MEDIO AMBIENTE EN EL TRABAJO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE MARZO DE 2005)</small>
 
 ###### Artículo 2.
 
-Estas Bases tienen su fundamento en lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos en el apartado "B" del artículo 123; en la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del apartado "B" del artículo 123 constitucional; en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; en la Ley Federal del Trabajo, de aplicación supletoria; en el Reglamento para la Promoción, Integración y Funcionamiento de las Comisiones Mixtas de Seguridad e Higiene en el Trabajo del Sector Público afiliado al Régimen de Seguridad Social del ISSSTE, y en las Bases para la Integración y Funcionamiento de las Comisiones Mixtas de Seguridad e Higiene en el Trabajo, aprobadas por el Pleno del Consejo de la Judicatura Federal.
+Estas Bases tienen su fundamento en lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos en el Apartado “B” del Artículo 123; en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado “B” del Artículo 123 constitucional; en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; en la Ley Federal del Trabajo, de aplicación supletoria; en el Reglamento de las Comisiones de Seguridad, Higiene y Medio Ambiente en el Trabajo del Régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
 ###### Artículo 3.
 
@@ -69,13 +73,17 @@ III. El ISSSTE
 
 Al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 12/2005 QUE ESTABLECE LAS BASES DE OPERACION Y FUNCIONAMIENTO DE LA COMISION MIXTA DE SEGURIDAD, HIGIENE Y MEDIO AMBIENTE EN EL TRABAJO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE MARZO DE 2005)</small>
+
 IV. La Comisión
 
-La Comisión Mixta Central de Seguridad e Higiene del Consejo de la Judicatura Federal.
+La Comisión Mixta Central de Seguridad, Higiene y Medio Ambiente en el Trabajo del Consejo de la Judicatura Federal.
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 12/2005 QUE ESTABLECE LAS BASES DE OPERACION Y FUNCIONAMIENTO DE LA COMISION MIXTA DE SEGURIDAD, HIGIENE Y MEDIO AMBIENTE EN EL TRABAJO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE MARZO DE 2005)</small>
 
 V. Las Comisiones Auxiliares
 
-Las Comisiones Mixtas Auxiliares de Seguridad e Higiene de los Centros de Trabajo ubicados en la zona metropolitana y en el interior de la República.
+Las Comisiones Mixtas Auxiliares de Seguridad, Higiene y Medio Ambiente en los centros de trabajo del Distrito Federal, la zona metropolitana y los Estados de la República.
 
 ### CAPITULO II. DEL OBJETO E INTEGRACION DE LA COMISION
 
@@ -97,13 +105,17 @@ a) El titular de la Secretaría Ejecutiva de Administración;
 
 b) El titular de la Secretaría Ejecutiva de Vigilancia;
 
-c) El director general de Seguridad y Protección Civil;
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 12/2005 QUE ESTABLECE LAS BASES DE OPERACION Y FUNCIONAMIENTO DE LA COMISION MIXTA DE SEGURIDAD, HIGIENE Y MEDIO AMBIENTE EN EL TRABAJO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE MARZO DE 2005)</small>
+
+c) El Director General de Seguridad y Protección Civil;
 
 d) El director general de Recursos Materiales y Servicios Generales; y,
 
 e) El director general de Inmuebles y Mantenimiento.
 
-Los titulares de la Dirección General de Recursos Humanos y de la Dirección General de Servicios Médicos y Desarrollo Infantil apoyarán, en todo momento, a los integrantes de la comisión.
+> <small>(ADICIONADO [N. DE E. REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 12/2005 QUE ESTABLECE LAS BASES DE OPERACION Y FUNCIONAMIENTO DE LA COMISION MIXTA DE SEGURIDAD, HIGIENE Y MEDIO AMBIENTE EN EL TRABAJO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE MARZO DE 2005)</small>
+
+Los titulares de la Dirección General de Recursos Humanos y de la Dirección General de Servicios Médicos y Desarrollo Infantil apoyarán, en todo momento, a los integrantes de la Comisión.
 
 ###### Artículo 7.
 
@@ -131,7 +143,9 @@ V. Coordinar los cursos de orientación y capacitación que en materia de seguri
 
 VI. Instalar, coordinar y supervisar el funcionamiento de las Comisiones Auxiliares en los centros de trabajo, a fin de detectar las necesidades en materia de seguridad e higiene.
 
-VII. Establecer control y seguimiento ante la Dirección General de Recursos Humanos, de los dictámenes de riesgos de trabajo emitidos por el ISSSTE.
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 12/2005 QUE ESTABLECE LAS BASES DE OPERACION Y FUNCIONAMIENTO DE LA COMISION MIXTA DE SEGURIDAD, HIGIENE Y MEDIO AMBIENTE EN EL TRABAJO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE MARZO DE 2005)</small>
+
+VII. Establecer el control y seguimiento ante la Dirección General de Seguridad y Protección Civil, de los dictámenes de riesgos de trabajo emitidos por el ISSSTE.
 
 VIII. Resolver, en segunda instancia, las inconformidades que presenten los trabajadores ante las Comisiones Auxiliares.
 
@@ -195,11 +209,11 @@ El presidente determinará el lugar y hora de las sesiones.
 
 ### CAPITULO VI. DEL SECRETARIO TECNICO DE LA COMISION
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 50/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 12/2005 QUE ESTABLECE LAS BASES DE OPERACION Y FUNCIONAMIENTO DE LA COMISION MIXTA DE SEGURIDAD, HIGIENE Y MEDIO AMBIENTE EN EL TRABAJO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE MARZO DE 2005)</small>
 
 ###### Artículo 19.
 
-Fungirá como secretario técnico de la comisión, el director general de Seguridad y Protección Civil, quien tendrá las siguientes funciones:
+Fungirá como Secretario Técnico de la Comisión el Director General de Seguridad y Protección Civil, quien tendrá las siguientes funciones:
 
 I. Formular el libro de acuerdos de los plenos ordinarios y extraordinarios de la Comisión y efectuar su desahogo mediante las gestiones administrativas necesarias para el cumplimiento de los mismos.
 
@@ -211,9 +225,13 @@ a) Lugar, fecha y hora de la reunión.
 
 b) Tipo de la Comisión que se constituye.
 
-c) Nombre de la dependencia.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 12/2005 QUE ESTABLECE LAS BASES DE OPERACION Y FUNCIONAMIENTO DE LA COMISION MIXTA DE SEGURIDAD, HIGIENE Y MEDIO AMBIENTE EN EL TRABAJO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE MARZO DE 2005)</small>
 
-d) Nombre completo y categoría o puesto de los representantes propietarios y suplentes, tanto de la dependencia como de los trabajadores.
+c) Nombre de El Consejo.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 12/2005 QUE ESTABLECE LAS BASES DE OPERACION Y FUNCIONAMIENTO DE LA COMISION MIXTA DE SEGURIDAD, HIGIENE Y MEDIO AMBIENTE EN EL TRABAJO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE MARZO DE 2005)</small>
+
+d) Nombre completo y categoría o puesto de los representantes propietarios y suplentes, tanto de El Consejo, como de los trabajadores.
 
 e) Número de trabajadores que lo integran.
 
@@ -263,13 +281,21 @@ VI. Las demás que les fijen el Reglamento de Seguridad e Higiene del Consejo y 
 
 Serán funciones de las Comisiones Auxiliares las siguientes:
 
-I. La operación de las Comisiones se ajustará a las disposiciones de la Ley del ISSSTE y del Reglamento para la Promoción, Integración y Funcionamiento de las Comisiones Mixtas de Seguridad e Higiene en el Trabajo del Sector Público afiliado al Régimen de Seguridad Social del ISSSTE.
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 12/2005 QUE ESTABLECE LAS BASES DE OPERACION Y FUNCIONAMIENTO DE LA COMISION MIXTA DE SEGURIDAD, HIGIENE Y MEDIO AMBIENTE EN EL TRABAJO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE MARZO DE 2005)</small>
 
-II. Elaborar su calendario anual de actividades, del que enviarán copia a la Comisión, con copia para la representación del ISSSTE en la entidad de su residencia.
+I. La operación de las comisiones se ajustará a las disposiciones de la Ley del ISSSTE y del Reglamento de las Comisiones de Seguridad, Higiene y Medio Ambiente en el Trabajo del Régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
-III. Efectuar recorridos trimestrales en sus centros de trabajo, para observar las condiciones y requerimientos de los mismos en materia de seguridad e higiene, a fin de verificar el estado físico de las instalaciones, y recorridos extraordinarios cuando se presenten situaciones de carácter especial que demanden corrección inmediata para preservar la vida y la integridad física de los trabajadores.
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 12/2005 QUE ESTABLECE LAS BASES DE OPERACION Y FUNCIONAMIENTO DE LA COMISION MIXTA DE SEGURIDAD, HIGIENE Y MEDIO AMBIENTE EN EL TRABAJO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE MARZO DE 2005)</small>
 
-IV. Informar periódicamente a los trabajadores sobre los riesgos propios de las actividades que les correspondan en función de la naturaleza de sus puestos y de la (sic) tareas inherentes, para que observen medidas para prevenir un riesgo.
+II. Elaborar su calendario anual de actividades, del que enviarán copia a la Comisión para su autorización, y una vez aprobado turnarán copia a la representación del ISSSTE en la Entidad Federativa de su residencia, dentro de los primeros treinta días naturales después de su constitución, y una vez constituida, los primeros treinta días del año que se inicia.
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 12/2005 QUE ESTABLECE LAS BASES DE OPERACION Y FUNCIONAMIENTO DE LA COMISION MIXTA DE SEGURIDAD, HIGIENE Y MEDIO AMBIENTE EN EL TRABAJO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE MARZO DE 2005)</small>
+
+III. Efectuar recorridos trimestrales en sus centros de trabajo, para observar las condiciones y requerimientos de los mismos en materia de seguridad e higiene, a fin de verificar el estado físico de las instalaciones, y recorridos extraordinarios cuando se presenten situaciones de carácter especial que demanden corrección inmediata para preservar la vida y la integridad física de los trabajadores, informando a la Delegación del ISSSTE correspondiente y a la Comisión de Seguridad, Higiene y Medio Ambiente en el Trabajo dentro de los quince días naturales posteriores a su realización.
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 12/2005 QUE ESTABLECE LAS BASES DE OPERACION Y FUNCIONAMIENTO DE LA COMISION MIXTA DE SEGURIDAD, HIGIENE Y MEDIO AMBIENTE EN EL TRABAJO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE MARZO DE 2005)</small>
+
+IV. Informar trimestralmente a los trabajadores sobre los riesgos propios de las actividades que les correspondan en función de la naturaleza de sus puestos y de las tareas inherentes, para que observen medidas para prevenir riesgos.
 
 V. Solicitar a la Comisión que provea lo necesario para la práctica de los estudios ambientales que correspondan para la determinación del grado de insalubridad de su centro de trabajo, incluyendo estados de emergencia circunstancialmente generados.
 
@@ -304,3 +330,9 @@ D.O.F. 28 DE AGOSTO DE 2003.
 PRIMERO.-El presente acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 11 DE MARZO DE 2005.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
