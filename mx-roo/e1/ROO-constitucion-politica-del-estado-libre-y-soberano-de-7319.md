@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2000-03-06"
+last_updated: "2001-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2001.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -51,9 +51,11 @@ Quintana Roo constituye un Estado Libre en tantos (sic) sus miembros determinan 
 
 De conformidad al pacto federal estipulado en la Constitución General de la República, Quintana Roo es parte integrante de la Federación que forman los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
+
 ###### ARTICULO 3o.
 
-El Estado de Quintana Roo se reserva el ejercicio soberano de todas las facultades que no están expresamente concedidas a los funcionarios federales.
+El Estado de Quintana Roo se reserva el ejercicio soberano de todas las facultades que no están expresamente concedidas a los funcionarios federales o a los Gobiernos Municipales.
 
 ###### ARTICULO 4o.
 
@@ -471,9 +473,11 @@ I.- La porción oriental de la Península de Yucatán, limitada por una línea d
 
 II.- Las islas de: Cozumel, Cancún, Mujeres, Blanca y Contoy, situadas en el Mar Caribe y la de Holbox en el Golfo de México, así como las islas, islotes, cayos y arrecifes adyacentes a su litoral.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
+
 ###### ARTICULO 47.
 
-La base de la división territorial y organización política y administrativa del Estado es el Municipio Libre. La Ley Orgánica determinará la estructura del régimen municipal conforme a las bases establecidas en la Constitución Política de los Estados Unidos Mexicanos y esta Constitución.
+La base de la división territorial y organización política y administrativa del Estado es el Municipio Libre. La Ley de los Municipios determinará la estructura del régimen municipal conforme a las bases establecidas en la Constitución Política de los Estados Unidos Mexicanos y esta Constitución.
 
 ###### ARTICULO 48.
 
@@ -843,7 +847,9 @@ XXVII.- Aprobar o rechazar las concesiones otorgadas por el ejecutivo.
 
 XXVIII.- Nombrar y remover libremente a sus empleados y a los de la Contaduría Mayor de Hacienda.
 
-XXIX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior que será representada(sic) dentro de los primeros 10 días de la apertura de sesiones.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2001)</small>
+
+XXIX.- Examinar y aprobar, en su caso, la cuenta pública del Gobierno del Estado, correspondiente al año anterior, que será presentada dentro de los primeros 10 días de la apertura del primer periodo ordinario de sesiones.
 
 > <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
@@ -853,9 +859,13 @@ XXXI.- Crear y suprimer (sic) empleos públicos y fijar sus emolumentos.
 
 XXXII.- Facultar al Ejecutivo a tomar medidas de emergencia en caso de calamidad y desastre.
 
-XXXIII.- Decretar las leyes de hacienda y de ingresos municipales.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2001)</small>
 
-XXXIV.- Decretar la Ley Orgánica Municipal.
+XXXIII.- Decretar las leyes de hacienda de los Municipios, así como revisar y fiscalizar sus cuentas públicas.
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2001)</small>
+
+XXXIV.- Decretar la Ley de los Municipios del Estado de Quintana Roo.
 
 XXXV.- Crear o suprimir municipios y reformar la división política del Estado, mediante el voto de las dos terceras partes de la totalidad de los diputados y la mayoría de los ayuntamiento (sic) en los términos del artículo 132 de esta Constitución.
 
@@ -1067,9 +1077,9 @@ VIII.- Solicitar la protección de los Poderes de la Unión, de conformidad con 
 
 IX.- Ejercer el derecho de veto en los términos de la Constitución.
 
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2001)</small>
 
-X.- Tener bajo su mando la fuerza de Seguridad Pública y Tránsito en los Municipios donde resida habitual o transitoriamente y expedir el reglamento respectivo;
+X.- Tener bajo su mando la fuerza de seguridad pública del Estado; así como el de la policía preventiva y tránsito municipal, estos últimos en aquellos casos en que juzgue como de fuerza mayor o alteración grave del orden público.
 
 XI.- Ejercer las facultades que le otorgue la Constitución Federal en relación a la Guardia Nacional.
 
@@ -1207,11 +1217,11 @@ Se deposita el ejercicio del Poder Judicial del Estado en el Tribunal Superior d
 
 El Sistema de Justicia Indígena se regirá en los términos establecidos por esta Constitución y la ley reglamentaria respectiva.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
 
 ###### ARTICULO 98.
 
-Corresponde a los Tribunales y Juzgados del Estado conocer en los términos de las leyes respectivas, con excepción de lo establecido en la Constitución General de la República, de las controversias jurídicas que se susciten entre el Estado y uno o más de sus municipios, entre los municipios, entre el Estado y sus Trabajadores, entre los municipios y sus trabajadores, entre el Estado y los particulares, entre los municipios y los particulares, y entre los particulares, así como sustanciar y resolver las impugnaciones y asuntos en materia electoral y de menores infractores.
+Corresponde a los Tribunales y Juzgados del Estado conocer en los términos de las leyes respectivas, con excepción de lo establecido en la Constitución Política de los Estados Unidos Mexicanos, de las controversias jurídicas que se susciten entre el Estado y uno o más de sus municipios, entre los municipios, entre el Estado y los particulares, entre los municipios y los particulares y entre los particulares, así como sustanciar y resolver las impugnaciones y asuntos en materia electoral.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1998)</small>
 
@@ -1353,7 +1363,9 @@ II.- Los inmuebles destinados por el gobierno del Estado, a un servicio público
 
 III.- Los muebles que normalmente sean insustituibles, tales como los expedientes de las oficinas, archivos, libros raros, piezas históricas o arqueológicas, obras de arte y demás que no sean del dominio de la Federación o los municipios.
 
-Estos bienes son inalienables imprescriptibles e inembargables y no están sujetos mientras no varíe su situación jurídica, a acción reivindicatoria o de posesión definitiva o interina.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
+
+Estos bienes son inalienables, imprescriptibles e inembargables y no están sujetos, mientras no varíe su situación jurídica, la cual sólo podrá autorizarse mediante Decreto de la Legislatura, a acción reivindicatoria o de posesión definitiva o interina.
 
 ###### ARTICULO 114.
 
@@ -1425,19 +1437,43 @@ El Secretario encargado de la hacienda pública del Estado remitirá anualmente 
 
 El Municipio Libre, es una entidad de carácter público dotada de personalidad jurídica y patrimonio propio, autónoma en su régimen interior y con libre administración de su hacienda.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
+
 ###### ARTICULO 127.
 
-Cada municipio será administrado por un ayuntamiento de elección popular directa en los términos de la Ley Electoral y no habrá ninguna autoridad intermedia entre éste y el gobierno del Estado.
+Cada municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de regidores y síndicos determinados en el Artículo 145 de esta Constitución. La competencia que la Constitución Política de los Estados Unidos Mexicanos y esta Constitución otorgan al Gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
 
 ###### ARTICULO 128.
 
-Los Municipios podrán tener representación en los organismos Oficiales, federales y estatales que realicen obras dentro de su circunscripción.
+Los Municipios podrán tener representación en los organismos oficiales, federales y estatales que realicen obras dentro de su circunscripción.
 
-Los Municipios, en los términos de las Leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana, otorgar licencias y permisos para construcciones, y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
+Los Municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para:
 
-Los Municipios en el ámbito de su competencia, sujetándose a las Leyes de la Materia, federales y estatales, planearán y regularán de manera conjunta y coordinada el desarrollo de los centros urbanos que por encontrarse situados en dos o más territorios municipales formen o tiendan a formar una continuidad geográfica y demográfica.
+a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal.
+
+b) Participar en la creación y administración de sus reservas territoriales.
+
+c) Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia.
+
+El Estado deberá asegurar la participación de los Municipios en la elaboración de los proyectos de desarrollo regional que lleve a cabo.
+
+d) Autorizar, controlar y vigilar la utilización del suelo en el ámbito de su competencia, en sus jurisdicciones territoriales.
+
+e) Intervenir en la regularización de la tenencia de la tierra urbana.
+
+f) Otorgar licencias y permisos para construcciones.
+
+g) Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia.
+
+h) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial; e
+
+i) Celebrar convenios para la administración y custodia de las zonas federales.
+
+En lo conducente y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, los Municipios expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
+
+Los Municipios en el ámbito de su competencia sujetándose a las leyes de la materia, federales y estatales, planearán y regularán de manera conjunta y coordinada el desarrollo de los centros urbanos que por encontrarse situados en dos o más territorios municipales formen o tiendan a formar una continuidad geográfica y demográfica.
 
 ###### ARTICULO 129.
 
@@ -1495,9 +1531,13 @@ III.- Delegaciones y,
 
 IV.- Subdelegaciones.
 
-La subdelegación y límites de las cabeceras, Alcaldías, Delegaciones y Subdelegaciones serán determinados por el Ayuntamiento respectivo en los términos que establezca la Ley Orgánica.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
 
-La Ley Orgánica Municipal determinará la forma de integración y elección de los Miembros de las Alcaldías y Titulares de las Delegaciones y Subdelegaciones.
+La extensión y límites de las cabeceras, alcaldías, delegaciones y subdelegaciones serán determinados por el ayuntamiento respectivo en los términos que establezca la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2001)</small>
+
+La Ley de los Municipios determinará la forma de integración y elección de los miembros de la (sic) alcaldías y titulares de las delegaciones y subdelegaciones.
 
 ###### ARTICULO 132.
 
@@ -1575,31 +1615,35 @@ III.- Los muebles normalmente insustituibles como son los expedientes de las ofi
 
 Son bienes del dominio privado los que le pertenecen en propiedad y los que en lo futuro ingresen a su patrimonio, no previstos en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
+
 ###### ARTICULO 141.
 
-Los bienes de dominio público municipal son inalienables, imprescriptibles e inembargables y no están sujetos, mientras no varíe su situación jurídica, a acción reivindicatoria o de posesión definitiva o interina.
+Los bienes de dominio público municipal son inalienables, imprescriptibles e inembargables y no están sujetos, a acción reivindicatoria o de posesión definitiva o interina, mientras no varíe su situación jurídica, la cual sólo podrá modificarse por Decreto de la Legislatura.
 
 ###### ARTICULO 142.
 
 Los bienes de dominio privado, podrán ser enajenados mediante acuerdo del ayuntamiento.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
 
 ###### ARTICULO 143.
 
-La Hacienda Pública de los Municipios se formará con los rendimientos de los bienes que le pertenezcan, las contribuciones y percepciones que establezca su Ley de Ingresos y demás disposiciones relativas, y las que adquieran por:
+La hacienda pública de los Municipios se formará con los rendimientos de los bienes que le pertenezcan, las contribuciones y percepciones que establezca su Ley de Ingresos y demás disposiciones relativas, y las que adquieran por:
 
-a) Contribuciones, incluyendo tasas adicionales, sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valos (sic) de los inmuebles.
+a) Contribuciones, incluyendo tasas adicionales, sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles. Los municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas funciones relacionadas con la administración de esas contribuciones.
 
-Los Municipios podrán celebrar convenios con el Estado para que ésta se haga cargo de algunas funciones relacionadas con la administración de esas contribuciones.
+Los ayuntamientos, en el ámbito de su respectiva competencia, propondrán a la Legislatura las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
 b) Los ingresos derivados de la prestación de los servicios públicos a su cargo.
 
-No se establecerán ni concederán exenciones o subsidios respecto de las anteriores contribuciones, en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo los bienes del dominio público de la Federación, de los Estados o de los Municipios estarán exentos de dichas contribuciones.
+No se establecerán exenciones o subsidios respecto de las anteriores contribuciones en favor de persona o institución alguna. Sólo estarán exentos los bienes del dominio público de la Federación, de los Estados o de los Municipios siempre y cuando tales bienes no sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-c) Las participaciones federales que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determinen por la Legislatura.
+c) Las participaciones federales que serán cubiertas por la Federación a los municipios con arreglo a las bases, montos y plazos que anualmente se determinen por la Legislatura.
 
-d) Subsidios, legados, donaciones, o por cualquier otra causa.
+d) Subsidios, legados, donaciones o por cualquier otra causa.
+
+Los recursos que integran la hacienda municipal serán ejercidos en forma directa por el ayuntamiento, o bien, por quien ellos autoricen, conforme a la ley.
 
 ###### ARTICULO 144.
 
@@ -1653,15 +1697,15 @@ II. El Partido Político que obtenga mayoría de votos acreditará a sus miembro
 
 III.- Los cargos de Regidores electos según el principio de representación proporcional, se asignarán a los Partidos Políticos que hayan obtenido por los menos el cuatro por ciento del total de votos válidos emitidos en los Municipios donde hubiere participado, excepto al Partido Político que haya obtenido mayoría de votos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 2001)</small>
 
 ###### ARTICULO 149.
 
-Para ser miembros de un Ayuntamiento se requiere:
+Para ser miembro de un Ayuntamiento se requiere:
 
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2001)</small>
 
-I.- Ser ciudadano quintanarroense en ejercicio de sus derechos políticos, con 6 años de residencia en el Estado.
+I.- Ser ciudadano quintanarroense en ejercicio de sus derechos políticos, con 5 años de residencia y de vecindad en el Municipio de que se trate.
 
 II.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 1983)
 
@@ -1711,73 +1755,31 @@ En las ausencias temporales del presidente municipal pasará a desempeñar sus f
 
 En caso de falta absoluta del Presidente Municipal, la Legislatura del Estado, o la Diputación Permanente, en su caso, designarán al ciudadano quintanarroense que deba sustituirlo. En todo caso, el designado deberá satisfacer los requisitos contenidos en el artículo 149 de esta Constitución y rendirá la Protesta de Ley.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
+
 ### CAPITULO VIII. De las Facultades y Obligaciones del Ayuntamiento
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
-
-ARTICULO 136 (SIC).- Son facultades y obligaciones del Ayuntamiento:
-
-I.- Cumplir y hacer cumplir las leyes, decretos y disposiciones federales, estatales y municipales.
-
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
-
-II.- Expedir su Reglamento Interior los Gubernativos y de policía, de acuerdo a las bases normativas establecidas en la Ley Orgánica Municipal.
-
-III.- Convocar a elecciones extraordinarias para cubrir las vacantes de sus miembros en los términos de esta Constitución y de la Ley Electoral.
-
-IV.- Nombrar y remover al secretario y tesorero, a propuesta del presidente municipal.
-
-V.- Conceder licencias a sus miembros hasta por treinta días y convocar a quienes deban suplirlos.
-
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
-
-VI.- Establecer en el Territorio del Municipio las Alcaldías, Delegacionales y Subdelegacionales necesarias y fijarles sus atribuciones, obligaciones y recursos presupuestales anuales correspondientes.
-
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
-
-VII.- Mantener los servicios de Seguridad Pública y Tránsito Municipal de conformidad al contenido de la Fracción VIII del Artículo 163.
-
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
-
-VIII.- Remover a los integrantes de las Alcadías (sic) de acuerdo a las disposiciones aplicables.
-
-IX.- Cooperar con las autoridades federales y estatales en las funciones de su competencia y planes de desarrollo dentro del municipio.
-
-X.- Proceder conforme a la Ley sobre Monumentos y Zonas Arqueológicas, Artísticas, e Históricas con auxilio del Instituto correspondiente, para ordenar la suspensión provisional de las obras de restauración y conservación de bienes declarados monumentos, y que se ejecuten sin la autorización o permiso correspondiente.
-
-XI.- Promover el mejoramiento de los servicios y acrecentamiento del patrimonio municipal.
-
-XII.- Formular anualmente su Presupuesto de Egresos.
-
-XIII.- Formular anualmente su proyecto de Ley de Ingresos que será cometido (sic) a aprobación de la Legislatura.
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1981)</small>
-
-XIV.- Rendir a la Legislatura del Estado, la cuenta anual del gasto público, en la forma establecida en la Ley Orgánica Municipal y las disposiciones legales conducentes.
-
-XV.- Promover el desenvolvimiento político, económico, social y cultural de la comunidad.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 2001)</small>
 
 ###### ARTICULO 155.
 
-En caso de falta absoluta del síndico o regidores, el ayuntamiento llamará a los suplentes respectivos, quienes rendirán la protesta y asumirán el desempeño del cargo.
+En caso de falta absoluta del síndico o de algún regidor, el ayuntamiento llamará a los suplentes respectivos, o en su defecto, procederá según lo disponga la Ley de los Municipios, quienes rendirán la protesta y asumirán el desempeño del cargo.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
 
 ###### ARTICULO 156.
 
-Cuando no se hubiere verificado la elección en la fecha que debe renovarse el Ayuntamiento, o efectuada ésta, no se presentaren sus miembros a tomar posesión de su cargo y conforme a la Ley no procediera que entraren en funciones los suplentes, la Legislatura del Estado o la Diputación Permanente, en su caso, nombrará un Concejo Municipal que asumirá provisionalmente las funciones del Ayuntamiento y convocará a elecciones extraordinarias, las que en todo caso, deberán celebrarse en un plazo no mayor de 45 días.
+Cuando no se hubiere verificado la elección en la fecha que debe renovarse el ayuntamiento, o efectuada ésta, no se presentaren sus miembros a tomar posesión de su cargo, o se diera la renuncia o falta absoluta de la mayoría de sus integrantes y conforme a la ley no procediera que entraren en función los suplentes, la Legislatura del Estado o la Diputación Permanente, en su caso, nombrará un Concejo Municipal que asumirá provisionalmente las funciones del ayuntamiento y convocará a elecciones extraordinarias, las que en todo caso, deberán celebrarse en un plazo no mayor de 45 días.
 
-El mismo procedimiento se seguirá cuando la elección se declare nula, o cuando por cualquier causa desaparezca el Ayuntamiento dentro del primer año de su ejercicio.
+El mismo procedimiento se seguirá cuando la elección se declare nula, o cuando por cualquier causa desaparezca el ayuntamiento dentro del primer año de su ejercicio.
 
-Cuando la desaparición de poderes se dé en los dos últimos años del período del Gobierno Municipal, la Legislatura del Estado o la Diputación Permanente, en su caso, nombrará entre los vecinos a un Concejo Municipal que concluirá el período de Gobierno.
+Cuando la desaparición del Ayuntamiento se dé en los dos últimos años del período del Gobierno Municipal, la Legislatura del Estado o la Diputación Permanente, en su caso, nombrará entre los vecinos a un Concejo Municipal que concluirá el período respectivo.
 
-En todo caso los miembros de los Concejos Municipales satisfarán los requisitos exigidos para ser miembros del Ayuntamiento y rendirán la protesta de Ley.
+En todo caso los miembros de los Concejos Municipales se integrarán por el número de miembros que determine la ley de la materia, quienes serán designados de entre los vecinos del municipio de que se trate, debiendo satisfacer los requisitos exigidos para ser miembros del ayuntamiento y rendirán la protesta de ley.
 
 ### CAPITULO IX. Del Gobierno Municipal y sus Titulares
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
 
 ###### ARTICULO 157.
 
@@ -1879,11 +1881,11 @@ Son facultades y obligaciones del Ayuntamiento:
 
 I.- Cumplir y hacer cumplir las leyes, decretos y disposiciones federales, estatales y municipales.
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2001)</small>
 
-II.- Expedir su Reglamento Interior los Gubernativos y de policía, de acuerdo a las bases normativas establecidas en la Ley Orgánica Municipal.
+II.- Aprobar. De acuerdo con las disposiciones legales expedidas al respecto por la Legislatura del Estado, los Bandos de Policía y Gobierno, Reglamentos, Circulares y disposiciones administrativas de observancia general dentro de su respectiva jurisdicción, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
 
-III.- Convocar a elecciones extraordinarias para cubrir las vacantes de sus miembros en los términos de esta Constitución y de la Ley Electoral.
+III.- (DEROGADA, P.O. 15 DE FEBRERO DE 2001)
 
 IV.- Nombrar y remover al secretario y tesorero, a propuesta del presidente municipal.
 
@@ -1891,9 +1893,9 @@ V.- Conceder licencias a sus miembros hasta por treinta días y convocar a quien
 
 VI.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 1983)
 
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2001)</small>
 
-VII.- Mantener los servicios de Seguridad Pública y Tránsito Municipal de conformidad al contenido de la Fracción VIII del Artículo 163.
+VII.- Mantener los servicios de seguridad pública, policía preventiva y tránsito municipal de conformidad al contenido de la fracción VIII, del Artículo 163 de esta Constitución.
 
 VIII.- Establecer en el territorio del municipio las delegaciones y subdelegaciones necesarias.
 
@@ -1907,9 +1909,9 @@ XII.- Formular anualmente su Presupuesto de Egresos.
 
 XIII.- Formular anualmente su proyecto de Ley de Ingresos que será cometido (sic) a aprobación de la Legislatura.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1981)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2001)</small>
 
-XIV.- Rendir a la Legislatura del Estado, la cuenta anual del gasto público, en la forma establecida en la Ley Orgánica Municipal y las disposiciones legales conducentes.
+XIV.- Rendir a la Legislatura del Estado, para su revisión y fiscalización, la cuenta anual del gasto público, en la forma establecida en la Ley de los Municipios y las disposiciones legales conducentes, y
 
 XV.- Promover el desenvolvimiento político, económico, social y cultural de la comunidad.
 
@@ -1917,23 +1919,31 @@ XV.- Promover el desenvolvimiento político, económico, social y cultural de la
 
 ###### ARTICULO 161.
 
-Los Municipios de la Entidad con el concurso del Poder Ejecutivo del Estado, cuando así fuere necesario y lo determinen las leyes, tendrá a su cargo los siguientes servicios públicos:
+Los Municipios tendrán a su cargo las funciones y servicios públicos siguientes:
 
-a).- Alumbrado Público.
+a).- Alumbrado público.
 
-b).- Limpia.
+b).- Limpia, recolección, traslado, tratamiento y disposición final de residuos.
 
-c).- Mercados y Centrales de Abasto.
+c).- Mercados y centrales de abasto.
 
 d).- Panteones.
 
 e).- Rastros.
 
-f).- Calles, Parques y Jardines.
+f).- Calles, parques y jardines y su equipamiento.
 
-g).- Seguridad Pública y Tránsito, y
+g).- Seguridad Pública, en los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, Policía Preventiva Municipal y Tránsito;
 
-h).- Las demás que la Legislatura determine de conformidad a las condiciones territoriales, socioeconómicas y de la capacidad administrativa y financiera en cada caso.
+h) Agua Potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, y
+
+i).- Las demás que la Legislatura determine de conformidad a las condiciones territoriales, socioeconómicas y de la capacidad administrativa y financiera en cada caso.
+
+Sin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios a su cargo, los Municipios observarán lo previsto en las disposiciones federales o estatales relativas.
+
+Los Municipios del Estado, previo acuerdo de sus respectivos Ayuntamientos, podrán coordinarse y asociarse entre sí para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. Tratándose de la asociación con municipios de otros Estados, para el mismo propósito, deberán contar con la aprobación de las Legislaturas de los Estados respectivas.
+
+Asimismo, con aprobación del Ayuntamiento podrán celebrar convenios con el Gobierno Estatal para que éste, de manera directa o mediante el organismo que prevea la ley de la materia, se haga cargo en forma temporal de alguno de los servicios a cargo del Municipio, o bien para que se presten o ejerzan de manera coordinada.
 
 > <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
@@ -1963,11 +1973,11 @@ VI.- Nombrar y remover a los delegados, subdelegados, alcaides y personal admini
 
 VII.- Convocar al ayuntamiento a sesiones de acuerdo con lo establecido en el reglamento interior.
 
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2001)</small>
 
-VIII.- Tener bajo su mando los cuerpos de Seguridad Pública y Tránsito para la conservación del orden público, con excepción de las facultades reservadas al Gobernador.
+VIII.- Tener bajo su mando los cuerpos de seguridad pública, policía preventiva y tránsito municipal para la conservación del orden público, con excepción de las facultades reservadas al Gobernador del Estado y al Ejecutivo Federal, de conformidad con el reglamento respectivo.
 
-Los Cuerpos de Seguridad Pública y Tránsito de los Municipios, coordinarán sus actividades con los de Seguridad Pública y Tránsito del Estado, de conformidad al Reglamento respectivo.
+Los cuerpos de seguridad pública y tránsito de los municipios coordinarán sus actividades con los correspondientes organismos del Estado y la Federación, en términos de las disposiciones aplicables.
 
 IX.- Solicitar la autorización del ayuntamiento para ausentarse del municipio por más de quince días.
 
@@ -2075,17 +2085,19 @@ II.- Tesorería.
 
 III.- Alcaldías, Delegaciones y Subdelegaciones.
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2001)</small>
 
-IV.- De seguridad pública y tránsito y
+IV.- De Seguridad Pública, Policía Preventiva y Tránsito;
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
 
 V.- Las demás Dependencias y Unidades Descentralizadas que el Ayuntamiento establezca en el reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
+
 ###### ARTICULO 169.
 
-La Ley Orgánica determinará la organización y funcionamiento de las dependencias administrativas del ayuntamiento y los requisitos, facultades y obligaciones de sus titulares.
+La Ley de los Municipios determinará la organización y funcionamiento de las dependencias administrativas del ayuntamiento y los requisitos, facultades y obligaciones de sus titulares.
 
 > <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
@@ -2351,6 +2363,30 @@ DECRETO QUE REFORMA A LA CONSTITUCION POLITICA DEL ESTADO (ARTS. 49 Y 54)
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
+DECRETO QUE REFORMA A LA CONSTITUCION POLITICA DEL ESTADO EN DIVERSOS ARTICULOS.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Magistrados del Tribunal Superior de Justicia que encontrándose en funciones hayan sido reelectos mediante nombramiento del Ejecutivo del Estado y aprobación de la Legislatura, sólo podrán ser removidos en los términos que señala el Título Octavo de esta Constitución. Los demás Magistrados podrán ser reelectos al cumplir seis años de ejercicio, contados a partir de la fecha de su designación y si lo fueren, solo podrán ser separados de su cargo en los mismos términos indicados en este artículo.
+
+ARTTICULO TECERO.-- Por esta única ocasión dentro de los noventa días contados a partir de la entrada en vigor del presente Decreto, el Pleno del Tribunal Superior de Justicia elegirá a quien se hará cargo de la Presidencia, en los términos del artículo 105 del presente Decreto. En tanto, el actual Presidente del Tribunal Superior de Justicia continuará en funciones hasta que se efectúe la elección correspondiente.
+
+###### ARTICULO TERCERO.
+
+Por esta única ocasión dentro de los noventa días contados a partir de la entrada en vigor del presente Decreto, el Pleno del Tribunal Superior de Justicia elegirá a quien se hará cargo de la Presidencia, en los términos del artículo 105 del presente Decreto. En tanto, el actual Presidente del Tribunal Superior de Justicia continuará en funciones hasta que se efectúe la elección correspondiente.
+
+###### ARTICULO CUARTO.
+
+En un término de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, se expedirá la nueva Ley Orgánica del Poder Judicial del Estado, mientras tanto, continuará en vigor la actual, en lo que no se contraponga con el presente Decreto.
+
+###### ARTICULO QUINTO.
+
+Los recursos humanos, materiales y financieros, que de acuerdo a la presente reforma pasan a formar parte del Poder Judicial, se llevará a cabo mediante actas de entrega y recepción. La Secretaría de Hacienda dispondrá lo necesario en consulta con estos órganos, para que en el Presupuesto de Egresos del Estado, en el capítulo del Poder Judicial, se realice la ampliación de las partidas correspondientes integradas por las partidas que corresponden a los órganos que ahora forman parte del Poder Judicial.
+
 P.O. 9 DE JULIO DE 1998.
 
 DECRETO QUE REFORMA A LA CONSTITUCION POLITICA DEL ESTADO EN DIVERSOS ARTICULOS.
@@ -2365,7 +2401,7 @@ Los Magistrados del Tribunal Superior de Justicia que encontrándose en funcione
 
 ###### ARTICULO TERCERO.
 
-Por esta única ocasión dentro de los noventa días contados a partir de la entrada en vigor del presente Decreto, el Pleno del Tribunal Superior de Justicia elegirá a quien se hará cargo de la Presidencia, en los términos del artículo 105 del presente Decreto. En tanto, el actual Presidente del Tribunal Superior de Justicia continuará en funciones hasta que se efectúe la elección correspondiente.
+El Gobierno del Estado y los Municipios realizarán los actos conducentes a efecto de que los convenios que, en su caso, hubiesen celebrado con anterioridad, se ajusten a lo establecido en este Decreto y a las leyes relativas.
 
 ###### ARTICULO CUARTO.
 
@@ -2388,3 +2424,25 @@ CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 6 DE MARZO DE 2000.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE FEBRERO DE 2001.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Tratándose de funciones y servicios que conforme al presente Decreto sean competencia de los municipios y que a su entrada en vigor sean prestados por el Gobierno del Estado, o de manera coordinada con los municipios, éstos podrán asumirlos, previa aprobación del Ayuntamiento. El Gobierno del Estado dispondrá de lo necesario para que la función o servicio público de que se trate se transfiera al municipio de manera ordenada, conforme al programa de transferencia que presente el Titular del Ejecutivo, en un plazo máximo de 90 días contados a partir de la recepción de la correspondiente solicitud. Cuando el Gobierno del Estado no procediera según lo dispuesto en este Artículo, el Ayuntamiento podrá comunicar su acuerdo a la Legislatura, para que ésta determine lo conducente.
+
+En el caso del servicio público de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, dentro del mismo plazo señalado en el párrafo anterior, el Gobierno del Estado podrá solicitar a la legislatura conservarlo en su ámbito de competencia, cuando la transferencia de Estado a municipio afecte, en perjuicio de la población, su prestación. La Legislatura resolverá lo conducente.
+
+En tanto se realiza la transferencia a que se refiere el primer párrafo de este Artículo, las funciones y servicios públicos seguirán ejerciéndose o prestándose en los términos y condiciones vigentes.
+
+###### ARTICULO CUARTO.
+
+Antes del inicio del ejercicio fiscal de 2002, la Legislatura del Estado en coordinación con los Municipios de la propia entidad, adoptarán las medidas conducentes a fin de que los valores unitarios de suelo que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria sean equiparables a los valores de mercado de dicha propiedad y procederán, en su caso, a realizar las adecuaciones correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
+
+###### ARTICULO QUINTO.
+
+En la realización de las acciones conducentes al cumplimiento del presente Decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores del Estado y Municipios.
