@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "1999-11-05"
+last_updated: "1999-11-08"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-06-17"
 
 ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE NOVIEMBRE DE 1999.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -49,9 +49,9 @@ En consecuencia, con fundamento en las citadas disposiciones constitucionales y 
 
 ACUERDO
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 22/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO DECIMO TERCERO DEL ACUERDO GENERAL NUMERO 49/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
 
-PRIMERO.- El territorio de la República se divide en veinticuatro circuitos, cuya circunscripción territorial es la siguiente:
+PRIMERO.- El territorio de la República se divide en veinticinco circuitos, cuya circunscripción territorial es la siguiente:
 
 I.- PRIMER CIRCUITO: Distrito Federal.
 
@@ -67,7 +67,9 @@ VI.- SEXTO CIRCUITO: Estados de Puebla y Tlaxcala.
 
 VII.- SEPTIMO CIRCUITO: Estado de Veracruz, con excepción de los Municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
 
-VIII.- OCTAVO CIRCUITO: Estados de Coahuila y Durango.
+> <small>(REFORMADA POR EL PUNTO DECIMO TERCERO DEL ACUERDO GENERAL NUMERO 49/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
+
+VIII.- OCTAVO CIRCUITO: Estado de Coahuila y los Municipios de Gómez Palacio, General Simón Bolívar, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
 
 IX.- NOVENO CIRCUITO: Estado de San Luis Potosí.
 
@@ -101,9 +103,13 @@ XXII.- VIGESIMO SEGUNDO CIRCUITO: Estados de Hidalgo y Querétaro.
 
 XXIII.- VIGESIMO TERCER CIRCUITO: Estados de Aguascalientes y Zacatecas.
 
-> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 22/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 1999)</small>
+> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 22/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, JALISCO, D.O.F. 25 DE AGOSTO DE 1999)</small>
 
 XXIV.- VIGESIMO CUARTO CIRCUITO: Estado de Nayarit.
+
+> <small>(ADICIONADA POR EL PUNTO DECIMO TERCERO DEL ACUERDO GENERAL NUMERO 49/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
+
+XXV.- VIGESIMO QUINTO CIRCUITO: Estado de Durango, con excepción de los Municipios de Gómez Palacio, General Simón Bolívar, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo.
 
 SEGUNDO.- Cada uno de los circuitos a que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de circuito y los juzgados de distrito que a continuación se precisan:
 
@@ -159,7 +165,9 @@ VI.- SEXTO CIRCUITO:
 
 2.- Seis juzgados de distrito con sede en la ciudad de Puebla.
 
-3.- Un juzgado de distrito en el Estado de Tlaxcala, con residencia en la ciudad del mismo nombre.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 44/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
+
+3.- Dos juzgados de distrito en el Estado de Tlaxcala, con residencia en la ciudad del mismo nombre.
 
 VII.- SEPTIMO CIRCUITO:
 
@@ -179,7 +187,7 @@ VIII.- OCTAVO CIRCUITO:
 
 2.- Seis juzgados de distrito: dos con sede en la ciudad de Saltillo, uno con residencia en la ciudad de Piedras Negras, uno con sede en la ciudad de Monclova y dos en La Laguna con residencia en la ciudad de Torreón.
 
-3.- Dos juzgados de distrito en el Estado de Durango, con sede en la ciudad del mismo nombre.
+3.- (DEROGADO POR EL PUNTO DECIMO TERCERO DEL ACUERDO GENERAL NUMERO 49/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)
 
 IX.- NOVENO CIRCUITO:
 
@@ -199,7 +207,9 @@ XI.- DECIMO PRIMER CIRCUITO:
 
 1.- Tres tribunales colegiados y dos tribunales unitarios, con sede en la ciudad de Morelia.
 
-2.- Cinco juzgados de distrito: tres con residencia en la ciudad de Morelia y dos con sede en la ciudad de Uruapan.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 47/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
+
+2.- Seis juzgados de distrito: cuatro con residencia en la ciudad de Morelia y dos con sede en la ciudad de Uruapan.
 
 XII.- DECIMO SEGUNDO CIRCUITO:
 
@@ -215,7 +225,9 @@ XII.- DECIMO SEGUNDO CIRCUITO:
 
 XIII.- DECIMO TERCER CIRCUITO:
 
-1.- Dos tribunales colegiados y dos tribunales unitarios, con sede en la ciudad de Oaxaca.
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 48/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
+
+1.- Tres tribunales colegiados y dos tribunales unitarios, con sede en la ciudad de Oaxaca.
 
 2.- Siete juzgados de distrito: cinco con residencia en la ciudad de Oaxaca y dos con sede en la ciudad de Salina Cruz.
 
@@ -229,7 +241,9 @@ XIV.- DECIMO CUARTO CIRCUITO:
 
 3.- Dos juzgados de distrito en el Estado de Campeche, con residencia en la ciudad del mismo nombre.
 
-4.- Dos juzgados de distrito en el Estado de Quintana Roo: uno con sede en Ciudad Chetumal y uno con residencia en la ciudad de Cancún.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 45/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
+
+4.- Tres juzgados de distrito en el Estado de Quintana Roo: uno con sede en Ciudad Chetumal y dos con residencia en la ciudad de Cancún.
 
 > <small>(REFORMADA POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 39/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
 
@@ -257,7 +271,9 @@ XVII.- DECIMO SEPTIMO CIRCUITO:
 
 1.- Tres tribunales colegiados y tres tribunales unitarios, con sede en la ciudad de Chihuahua.
 
-2.- Seis juzgados de distrito: tres con residencia en la ciudad de Chihuahua y tres con sede en Ciudad Juárez.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL NUMERO 46/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
+
+2.- Siete juzgados de distrito: tres con residencia en la ciudad de Chihuahua y cuatro con sede en Ciudad Juárez.
 
 XVIII.- DECIMO OCTAVO CIRCUITO:
 
@@ -285,7 +301,7 @@ XX.- VIGESIMO CIRCUITO:
 
 XXI.- VIGESIMO PRIMER CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 42/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, GUERRERO, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 42/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
 
 1.- Tres tribunales colegiados y un tribunal unitario, con sede en la ciudad de Chilpancingo.
 
@@ -301,9 +317,13 @@ XXII.- VIGESIMO SEGUNDO CIRCUITO:
 
 XXIII.- VIGESIMO TERCER CIRCUITO:
 
-1.- Un tribunal colegiado y un tribunal unitario, con residencia en la ciudad de Zacatecas, así como un tribunal colegiado con residencia en la ciudad de Aguascalientes.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 43/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
 
-2.- Dos juzgados de distrito con sede en la ciudad de Zacatecas.
+1.- Un tribunal colegiado y un tribunal unitario, con residencia en la ciudad de Zacatecas, así como dos tribunales colegiados, con residencia en la ciudad de Aguascalientes.
+
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 43/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
+
+2.- Dos juzgados de distrito en el Estado de Zacatecas, con sede en la ciudad del mismo nombre.
 
 3.- Dos juzgados de distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
 
@@ -314,6 +334,14 @@ XXIV.- VIGESIMO CUARTO CIRCUITO:
 1.- Un tribunal colegiado y un tribunal unitario, con residencia en la ciudad de Tepic.
 
 2.- Dos juzgados de distrito en el Estado de Nayarit, con sede en la ciudad de Tepic.
+
+> <small>(ADICIONADA POR EL PUNTO DECIMO TERCERO DEL ACUERDO GENERAL NUMERO 49/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
+
+XXV.- VIGESIMO QUINTO CIRCUITO:
+
+1.- Un tribunal colegiado y un tribunal unitario, con residencia en la ciudad de Durango.
+
+2.- Tres juzgados de distrito en el Estado de Durango, con sede en la ciudad de Durango.
 
 TERCERO.- La jurisdicción territorial de los tribunales colegiados y unitarios de circuito es la que en seguida se indica:
 
@@ -335,7 +363,9 @@ VI.- SEXTO CIRCUITO: Estados de Puebla y Tlaxcala.
 
 VII.- SEPTIMO CIRCUITO: Estado de Veracruz, con excepción de los Municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
 
-VIII.- OCTAVO CIRCUITO.- Estados de Coahuila y Durango.
+> <small>(REFORMADA POR EL PUNTO DECIMO TERCERO DEL ACUERDO GENERAL NUMERO 49/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
+
+VIII.- OCTAVO CIRCUITO: Estado de Coahuila y los Municipios de Gómez Palacio, General Simón Bolívar, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
 
 IX.- NOVENO CIRCUITO.- Estado de San Luis Potosí.
 
@@ -395,6 +425,10 @@ La jurisdicción territorial del tribunal unitario comprenderá los Estados de A
 
 XXIV.- VIGESIMO CUARTO CIRCUITO: Estado de Nayarit.
 
+> <small>(ADICIONADA POR EL PUNTO DECIMO TERCERO DEL ACUERDO GENERAL NUMERO 49/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
+
+XXV.- VIGESIMO QUINTO CIRCUITO: Estado de Durango, con excepción de los Municipios de Gómez Palacio, General Simón Bolívar, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo.
+
 CUARTO.- La jurisdicción territorial de los juzgados de distrito es la siguiente:
 
 I.- PRIMER CIRCUITO:
@@ -437,7 +471,9 @@ VI.- SEXTO CIRCUITO:
 
 Los Juzgados Primero, Segundo, Tercero, Cuarto, Quinto y Sexto en el Estado de Puebla, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-El Juzgado de Distrito en el Estado de Tlaxcala, con residencia en la ciudad del mismo nombre, ejercerá jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 44/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
+
+Los Juzgados Primero y Segundo de Distrito en el Estado de Tlaxcala, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
 VII.- SEPTIMO CIRCUITO:
 
@@ -461,7 +497,7 @@ El Juzgado Cuarto de Distrito en el Estado de Coahuila, con residencia en la ciu
 
 Los Juzgados Primero y Segundo de Distrito en La Laguna, con residencia en la ciudad de Torreón, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del Estado de Coahuila; y, Gómez Palacio, General Simón Bolívar, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
 
-Los Juzgados Primero y Segundo de Distrito en el Estado de Durango, con residencia en la ciudad de Durango, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Canatlán, Canelas, Coneto de Comonfort, Cuencamé, Durango, El Oro, Guadalupe Victoria, Guanaceví, Hidalgo, Indé, Mezquital, Nombre de Dios, Nuevo Ideal, Ocampo, Otáez, Pánuco de Coronado, Peñón Blanco, Poanas, Pueblo Nuevo, Rodeo, San Bernardo, San Dimas, San Juan del Río, Santa Clara, Santiago Papasquiaro, Súchil, Tamazula, Tepehuanes, Topia y Vicente Guerrero.
+> <small>(DEROGADO QUINTO PARRAFO POR EL PUNTO DECIMO TERCERO DEL ACUERDO GENERAL NUMERO 49/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
 
 IX.- NOVENO CIRCUITO:
 
@@ -475,9 +511,13 @@ Los Juzgados Octavo y Noveno de Distrito en el Estado de Veracruz, con residenci
 
 XI.- DECIMO PRIMER CIRCUITO:
 
-Los Juzgados Primero, Segundo y Tercero de Distrito en el Estado de Michoacán, con residencia en la ciudad de Morelia, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Acuitzio, Alvaro Obregón, Angamacutiro, Angangueo, Aporo, Ario, Carácuaro, Coeneo, Contepec, Copándaro, Cuitzeo, Charo, Chucándiro, Churintzio, Churumuco, Epitacio Huerta, Erongarícuaro, Hidalgo, Huandacareo, Huaniqueo, Huetamo, Huiramba, Indaparapeo, Irimbo, Jiménez, José Sixto Verduzco, Juárez, Jungapeo, Lagunillas, La Huacana, La Piedad, Madero, Maravatío, Morelia, Morelos, Nocupétaro, Nuevo Urecho, Numarán, Ocampo, Panindícuaro, Pátzcuaro, Penjamillo, Puruándiro, Queréndaro, Quiroga, San Lucas, Santa Ana Maya, Salvador Escalante, Senguio, Susupuato, Tacámbaro, Tarímbaro, Tiquicheo de Nicolás Romero, Tlalpujahua, Tlazazalca, Turicato, Tuxpan, Tuzantla, Tzintzuntzan, Tzitzio, Zacapu, Zináparo, Zinapécuaro y Zitácuaro.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 47/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
 
-Los Juzgados Cuarto y Quinto de Distrito en el Estado de Michoacán, con residencia en la ciudad de Uruapan, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Aguililla, Apatzingán, Aquila, Arteaga, Briseñas, Buenavista, Coahuayana, Coalcomán de Vázquez Pallares, Cojumatlán de Régules, Cotija, Charapan, Chavinda, Cherán, Chilchota, Chinicuila, Ecuandureo, Gabriel Zamora, Ixtlán, Jacona, Jiquilpan, Lázaro Cárdenas, Los Reyes, Marcos Castellanos, Múgica, Nahuatzen, Nuevo Parangaricutiro, Pajacuarán, Paracho, Parácuaro, Peribán, Purépero, Sahuayo, Tancítaro, Tangamandapio, Tangancícuaro, Tanhuato, Taretan, Tepalcatepec, Tingambato, Tingüindín, Tocumbo, Tumbiscatío, Uruapan, Venustiano Carranza, Villamar, Vista Hermosa, Yurécuaro, Zamora y Ziracuaretiro.
+Los Juzgados Primero, Segundo, Tercero y Cuarto de Distrito en el Estado de Michoacán, con residencia en la ciudad de Morelia, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Acuitzio, Alvaro Obregón, Angamacutiro, Angangueo, Aporo, Ario, Carácuaro, Coeneo, Contepec, Copándaro, Cuitzeo, Charo, Chucándiro, Churintzio, Churumuco, Epitacio Huerta, Erongarícuaro, Hidalgo, Huandacareo, Huaniqueo, Huetamo, Huiramba, Indaparapeo, Irimbo, Jiménez, José Sixto Verduzco, Juárez, Jungapeo, Lagunillas, La Huacana, La Piedad, Madero, Maravatío, Morelia, Morelos, Nocupétaro, Nuevo Urecho, Numarán, Ocampo, Panindícuaro, Pátzcuaro, Penjamillo, Puruándiro, Queréndaro, Quiroga, San Lucas, Santa Ana Maya, Salvador Escalante, Senguio, Susupuato, Tacámbaro, Tarímbaro, Tiquicheo de Nicolás Romero, Tlalpujahua, Tlazazalca, Turicato, Tuxpan, Tuzantla, Tzintzuntzan, Tzitzio, Zacapu, Zináparo, Zinapécuaro y Zitácuaro.
+
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 47/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
+
+Los Juzgados Quinto y Sexto de Distrito en el Estado de Michoacán, con residencia en la ciudad de Uruapan, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Aguililla, Apatzingán, Aquila, Arteaga, Briseñas, Buenavista, Coahuayana, Coalcomán de Vázquez Pallares, Cojumatlán de Régules, Cotija, Charapan, Chavinda, Cherán, Chilchota, Chinicuila, Ecuandureo, Gabriel Zamora, Ixtlán, Jacona, Jiquilpan, Lázaro Cárdenas, Los Reyes, Marcos Castellanos, Múgica, Nahuatzen, Nuevo Parangaricutiro, Pajacuarán, Paracho, Parácuaro, Peribán, Purépero, Sahuayo, Tancítaro, Tangamandapio, Tangancícuaro, Tanhuato, Taretan, Tepalcatepec, Tingambato, Tingüindín, Tocumbo, Tumbiscatío, Uruapan, Venustiano Carranza, Villamar, Vista Hermosa, Yurécuaro, Zamora y Ziracuaretiro.
 
 XII.- DECIMO SEGUNDO CIRCUITO:
 
@@ -505,7 +545,9 @@ Los Juzgados Primero y Segundo de Distrito en el Estado de Campeche, con residen
 
 El Juzgado Primero de Distrito en el Estado de Quintana Roo, con residencia en Ciudad Chetumal, ejercerá jurisdicción territorial en el distrito judicial conformado por los Municipios de: Felipe Carrillo Puerto, José María Morelos y Othón P. Blanco.
 
-El Juzgado Segundo de Distrito en el Estado de Quintana Roo, con residencia en la ciudad de Cancún, ejercerá jurisdicción territorial en el distrito judicial conformado por los Municipios de: Benito Juárez, Cozumel, Isla Mujeres, Lázaro Cárdenas y Solidaridad.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 45/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
+
+Los Juzgados Segundo y Tercero de Distrito en el Estado de Quintana Roo, con residencia en la ciudad de Cancún, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Benito Juárez, Cozumel, Isla Mujeres, Lázaro Cárdenas y Solidaridad.
 
 XV.- DECIMO QUINTO CIRCUITO:
 
@@ -531,7 +573,9 @@ XVII.- DECIMO SEPTIMO CIRCUITO:
 
 Los Juzgados Primero, Segundo y Tercero de Distrito en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Aldama, Allende, Aquiles Serdán, Bachíniva, Balleza, Batopilas, Bocoyna, Camargo, Carichi, Coronado, Coyame, Cuauhtémoc, Cusihuiriáchi, Chihuahua, Chínipas, Delicias, Doctor Belisario Domínguez, El Tule, Gómez Farías, Gran Morelos, Guachochi, Guadalupe y Calvo, Guazapares, Guerrero, Hidalgo del Parral, Huejotitán, Jiménez, Julimes, La Cruz, López, Madera, Maguarichi, Manuel Benavides, Matachi, Matamoros, Meoqui, Morelos, Moris, Namiquipa, Nonoava, Ocampo, Ojinaga, Riva Palacio, Rosales, Rosario, San Francisco de Borja, San Francisco de Conchos, San Francisco del Oro, Santa Bárbara, Santa Isabel, Satevó, Saucillo, Temósachi, Urique, Uruachi y Valle de Zaragoza.
 
-Los Juzgados Cuarto, Quinto y Sexto de Distrito en el Estado de Chihuahua, con residencia en Ciudad Juárez, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Ahumada, Ascensión, Buenaventura, Casas Grandes, Galeana, Guadalupe, Ignacio Zaragoza, Janos, Juárez, Nuevo Casas Grandes y Praxedis G. Guerrero.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL NUMERO 46/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
+
+Los Juzgados Cuarto, Quinto, Sexto y Séptimo de Distrito en el Estado de Chihuahua, con residencia en Ciudad Juárez, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Ahumada, Ascensión, Buenaventura, Casas Grandes, Galeana, Guadalupe, Ignacio Zaragoza, Janos, Juárez, Nuevo Casas Grandes y Praxedis G. Guerrero.
 
 XVIII.- DECIMO OCTAVO CIRCUITO:
 
@@ -584,6 +628,12 @@ Los Juzgados Primero y Segundo de Distrito en el Estado de Aguascalientes, con r
 XXIV.- VIGESIMO CUARTO CIRCUITO:
 
 Los Juzgados Primero y Segundo de Distrito en el Estado de Nayarit, con residencia en la ciudad de Tepic, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+
+> <small>(ADICIONADA POR EL PUNTO DECIMO TERCERO DEL ACUERDO GENERAL NUMERO 49/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
+
+XXV.- VIGESIMO QUINTO CIRCUITO:
+
+Los Juzgados Primero, Segundo y Tercero de Distrito en el Estado de Durango, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Canatlán, Canelas, Coneto de Comonfort, Cuencamé, Durango, El Oro, Guadalupe Victoria, Guanaceví, Hidalgo, Indé, Mezquital, Nombre de Dios, Nuevo Ideal, Ocampo, Otáez, Pánuco de Coronado, Peñón Blanco, Poanas, Pueblo Nuevo, Rodeo, San Bernardo, San Dimas, San Juan del Río, Santa Clara, Santiago Papasquiaro, Súchil, Tamazula, Tepehuanes, Topia y Vicente Guerrero.
 
 QUINTO.- El Pleno del Consejo de la Judicatura Federal interpretará y resolverá cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente Acuerdo.
 
@@ -719,7 +769,7 @@ TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en e
 
 D.O.F. 9 DE SEPTIEMBRE DE 1999.
 
-ACUERDO GENERAL NUMERO 25/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+ACUERDO GENERAL NUMERO 24/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
 
 PRIMERO.- Este Acuerdo entrará en vigor el día treinta de septiembre de mil novecientos noventa y nueve.
 
@@ -786,3 +836,59 @@ ACUERDO GENERAL NUMERO 42/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
 PRIMERO.- Este Acuerdo entrará en vigor el día quince de noviembre de mil novecientos noventa y nueve.
 
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 8 DE NOVIEMBRE DE 1999.
+
+ACUERDO GENERAL NUMERO 43/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día quince de noviembre de mil novecientos noventa y nueve.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 8 DE NOVIEMBRE DE 1999.
+
+ACUERDO GENERAL NUMERO 44/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día quince de noviembre de mil novecientos noventa y nueve.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 8 DE NOVIEMBRE DE 1999.
+
+ACUERDO GENERAL NUMERO 45/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día quince de noviembre de mil novecientos noventa y nueve.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 8 DE NOVIEMBRE DE 1999.
+
+ACUERDO GENERAL NUMERO 46/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día quince de noviembre de mil novecientos noventa y nueve.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 8 DE NOVIEMBRE DE 1999.
+
+ACUERDO GENERAL NUMERO 47/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día quince de noviembre de mil novecientos noventa y nueve.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 8 DE NOVIEMBRE DE 1999.
+
+ACUERDO GENERAL NUMERO 48/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día quince de noviembre de mil novecientos noventa y nueve.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 8 DE NOVIEMBRE DE 1999.
+
+ACUERDO GENERAL NUMERO 49/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día quince de noviembre de mil novecientos noventa y nueve.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
