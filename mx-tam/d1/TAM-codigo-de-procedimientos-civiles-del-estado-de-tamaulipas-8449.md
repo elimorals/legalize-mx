@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "2001-04-05"
+last_updated: "2002-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -433,11 +433,19 @@ c).- La sentencia firme producirá acción y excepción contra los terceros llam
 
 ###### ARTICULO 52.
 
-Las partes recurrirán al asesoramiento legal, éste deberá ser llevado a cabo por uno o más abogados con título legalmente expedido, y registrado, además, conforme a lo dispuesto por la Ley del Ejercicio Profesional en el Estado de Tamaulipas.
+Las partes recurrirán al asesoramiento legal; éste deberá ser llevado a cabo por uno o más abogados con título legalmente expedido, y registrado, además, conforme a lo dispuesto por la Ley del Ejercicio Profesional en el Estado de Tamaulipas.
 
 Para tal efecto, los jueces tienen obligación de exigir a los abogados patronos la certificación o constancia de haber cumplido con los requisitos de dicha Ley. Podrán solicitar al Juez con jurisdicción en su residencia, se tome nota de la referida certificación y de su firma en el Libro que al efecto se llevará en los Tribunales. Cumplido lo anterior no será necesario exhibir el comprobante para los futuros negocios en que se intervenga, pero quedará sin efecto la anotación si posteriormente se demuestra que la certificación no es auténtica o si por determinación judicial el interesado está inhabilitado para ejercer la profesión.
 
 Quedan exceptuados de la obligación anterior los abogados que no radiquen en el Estado, a quienes bastará presentar la cédula respectiva expedida por la Dirección General de Profesiones, o bien, comprobante del gobierno de la entidad de que proceden en el sentido de que el interesado tiene llenos los requisitos exigidos en aquélla para el ejercicio de la abogacía.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2002)</small>
+
+Los estudiantes en Derecho que tengan el sesenta por ciento de los créditos de la carrera y que conforme a la Ley del Ejercicio Profesional en el Estado de Tamaulipas cuenten con la autorización de pasantes, podrán oír y recibir notificaciones y examinar el expediente en cada caso, pero actuarán bajo la vigilancia y responsabilidad del respectivo abogado asesor o mandatario. Para efecto de lo anterior deberán acreditar y registrar su autorización como pasante ante la Secretaría de Acuerdos del Supremo Tribunal de Justicia del Estado; sin este requisito no podrán actuar en los términos previstos por este párrafo.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2002)</small>
+
+Los pasantes en Derecho podrán hacerse cargo, bajo la responsabilidad de un abogado que deberá firmar también todas las promociones, de cualquier negocio que se tramite ante los juzgados menores, en las condiciones lícitas previamente establecidas con el cliente.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -453,9 +461,11 @@ Las partes podrán revocar en cualquier momento la designación que hayan hecho 
 
 Lo anterior será sin perjuicio de lo establecido en el respectivo contrato de prestación de servicios profesionales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2002)</small>
+
 ###### ARTICULO 54.
 
-Son deberes de los abogados, ya obren como asesores o como mandatarios, los siguientes:
+Son deberes de los abogados, ya obren como asesores o como mandatarios, así como de los pasantes en derecho, los siguientes:
 
 I.- Poner sus conocimientos científicos y técnicos al servicio de su cliente para la defensa lícita de sus intereses;
 
@@ -467,7 +477,9 @@ IV.- Abstenerse de conducirse, y evitar que la parte que representen se conduzca
 
 V.- Obrar con lealtad para sus clientes.
 
-Los estudiantes y personas mencionadas en las disposiciones anteriores, se sujetarán a lo previsto en este artículo.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2002)</small>
+
+Las personas mencionadas en las disposiciones anteriores, se sujetarán a lo previsto en este artículo.
 
 ### CAPITULO IV. TERMINOS
 
@@ -1615,7 +1627,7 @@ Toda recusación se interpondrá ante el magistrado o juez que conozca del negoc
 
 Los magistrados y jueces que conozcan de una recusación, son irrecusables para ese solo efecto.
 
-El emplazamiento de que se habla en este artículo se considerará hecho directamente por el superior que deba sustanciar la recusación, por cuyo motivo cualquier notificación que deba hacerse al recusante, aun la radicación de los autos, surtirá efectos por medio de la listas de acuerdos, a menos que oportunamente ocurra personalmente, o designe abogado en el lugar donde radique el superior.
+El emplazamiento de que se habla en este artículo se considerará hecho directamente por el superior que deba sustanciar la recusación, por cuyo motivo cualquier notificación que deba hacerse al recusante, aun la radicación de los autos, surtirá efectos por medio de la lista de acuerdos, a menos que oportunamente ocurra personalmente, o designe abogado en el lugar donde radique el superior.
 
 ###### ARTICULO 220.
 
@@ -4783,7 +4795,7 @@ Si el embargo o ejecución afectare bienes de la sociedad legal, deberá reducir
 
 ###### ARTICULO 673.
 
-La oposición de tercero, cuando aleguen derechos de dominio o de preferencia sobre los bienes embargados, o resulten afectados por la ejecución, se sustanciarán en la forma prevista para las tercerías.
+La oposición de tercero, cuando aleguen derechos de dominio o de preferencia sobre los bienes embargados, o resulten afectados por la ejecución se sustanciarán en la forma prevista para las tercerías.
 
 ###### ARTICULO 674.
 
@@ -7227,7 +7239,7 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los dos días del mes de febrero de mil novecientos sesenta y uno.
 
-N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
 P.O. 18 DE SEPTIEMBRE DE 1963
 
@@ -7292,3 +7304,7 @@ P.O. 5 DE ABRIL DE 2001
 ###### ARTICULO UNICO.
 
 El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE MARZO DE 2002
+
+Artículo Unico.- El presente Decreto entrará en vigor a los noventa días de su publicación en el Periódico Oficial del Estado.
