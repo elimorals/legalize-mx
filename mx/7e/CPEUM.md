@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1960-12-05"
+last_updated: "1960-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE DICIEMBRE DE 1960.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE DICIEMBRE DE 1960.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -638,11 +638,11 @@ DE LA ELECCION E INSTALACION DEL CONGRESO.
 
 La Cámara de Diputados se compondrá de representantes de la Nación, electos en su totalidad cada tres años, por los ciudadanos mexicanos.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1960)</small>
 
 ###### Art. 52.
 
-Se elegirá un Diputado Propietario por cada ciento setenta mil habitantes o por una fracción que pase de ochenta mil, teniendo en cuenta el censo general del Distrito Federal y el de cada Estado y Territorio, pero en ningún caso la representación de un Estado será menor de dos diputados y la de un Territorio cuya población fuese menor de la fijada en este artículo, será de un diputado propietario.
+Se elegirá un diputado propietario por cada doscientos mil habitantes o por una fracción que pase de cien mil, teniendo en cuenta el Censo General del Distrito Federal y el de cada Estado y Territorio; pero en ningún caso la representación de un Estado será menor de dos diputados y la de un Territorio cuya población fuese menor de la fijada en este artículo, será de un diputado propietario.
 
 ###### Art. 53.
 
@@ -2423,3 +2423,7 @@ Esta reforma entrará en vigor al día siguiente de la publicación de esta ley 
 ###### ARTICULO SEGUNDO.
 
 Entretanto se expida la respectiva ley reglamentaria, continuará en vigor el Estatuto de los Trabajadores al Servicio de los Poderes de la Unión en cuanto no se oponga a la presente.
+
+D.O.F. 20 DE DICIEMBRE DE 1960.
+
+UNICO.- El presente decreto entrará en vigor quince días después de la fecha en que se publique en el "Diario Oficial" de la Federación.
