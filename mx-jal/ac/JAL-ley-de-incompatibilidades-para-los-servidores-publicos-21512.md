@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-incompatibilidades-para-los-servidores-publicos-21512"
 country: "mx"
 rank: "ley"
 publication_date: "1980-01-03"
-last_updated: "2001-07-21"
+last_updated: "2004-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INCOMPATIBILIDADES PARA LOS SERVIDORES PUBLICOS REGLAMENTARIA DEL ARTICULO 112 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 3 de enero de 1980.
 
@@ -205,6 +205,10 @@ Las incompatibilidades que surjan por cargos y empleos entre el Poder Judicial y
 
 En los municipios, las incompatibilidades serán analizadas por el Oficial Mayor Administrativo del Ayuntamiento, o quien haga sus veces, y el Ayuntamiento en pleno, resolverá lo que proceda.
 
+> <small>(REFORMADO [N. DE E., ADICIONADO], P.O. 12 DE OCTUBRE DE 2004)</small>
+
+Se exceptúan de las disposiciones contenidas en el párrafo anterior a los servidores públicos municipales de elección popular, los cuales, se sujetan a lo dispuesto por las normas legales aplicables.
+
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 1984)</small>
 
 ###### Artículo 24.
@@ -316,3 +320,7 @@ P.O. 11 DE JULIO DE 2000.
 P.O. 21 DE JULIO DE 2001.
 
 ÚNICO. El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE OCTUBRE DE 2004.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
