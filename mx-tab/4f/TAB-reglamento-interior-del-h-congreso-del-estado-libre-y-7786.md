@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-h-congreso-del-estado-libre-y-7786"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-28"
-last_updated: "1995-01-11"
+last_updated: "1995-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 1995.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 28 de agosto de 1993.
 
@@ -461,17 +461,17 @@ b) Imprimir un mayor dinamismo educativo, cultural, recreativo y deportivo, pres
 
 c) Promover ante los organismos correspondientes la creación de instalaciones educativas, culturales, de recreación y deporte y una vivienda digna para los maestros para procurar su permanencia en las comunidades;
 
-IX. Salud Pública, Ecología, Protección y Mejoramiento Ambiental:
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 1995)</small>
 
-a) Analizar y dictaminar sobre los asuntos encaminados a mejorar el nivel de salud de la población, procurando principalmente, fortalecer las acciones dirigidas a los grupos de escasos recursos económicos;
+IX.- Salud Pública:
 
-b) Fomentar que los médicos presten sus servicios en las comunidades rurales y que las unidades instaladas cuenten, por lo menos, con medicamentos de primer nivel y material de curación para atender las necesidades urgentes de los ciudadanos;
+A T R I B U C I O N E S
 
-c) Estudiar, y dictaminar en relación con la protección del ambiente, buscando siempre la preservación del equilibrio ecológico en lo que corresponde al ámbito estatal;
+a) Analizar y dictaminar sobre los asuntos encaminados a mejorar el nivel de salud de la población, procurando principalmente, fortalecer las acciones dirigidas a los grupos de escasos recursos económicos.
 
-d) Estudiar, recomendar y dictaminar sobre el control sanitario en expendios de alimentos, bebidas no alcohólicas y alcohólicas; y
+b) Fomentar que los médicos presten sus servicios en las comunidades rurales y que las unidades instaladas cuenten, por lo menos, con medicamentos de primer nivel y material de curación para atender las necesidades urgentes de los ciudadanos; y
 
-e) Coadyuvar en las acciones donde se involucre a la ciudadanía y a la población escolar, para que a través de medios masivos de comunicación dé a conocer, en coordinación con la dependencia del caso las campañas de concientización para la preservación del equilibrio ecológico y del medio ambiente;
+c) Estudiar, recomendar y dictaminar sobre el control sanitario en expendios de alimentos, bebidas no alcohólicas y alcohólicas.
 
 X. Asuntos Agrarios:
 
@@ -588,6 +588,22 @@ XXII. Asuntos Indígenas:
 a) Conocer, proponer, gestionar y dictaminar en todo lo relacionado con las comunidades y ciudadanos indígenas de nuestro Estado, y
 
 b) Llevar a cabo programas y acciones que beneficien social, económica y culturalmente a los indígenas tabasqueños, buscando y vigilando, además, que reciban el trato y respeto que se merecen.
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 1995)</small>
+
+XXIII. Ecología, Protección y Mejoramiento Ambiental:
+
+A T R I B U C I O N E S
+
+a) Estudiar y dictaminar en relación con la Protección del Ambiente, buscando siempre la preservación del equilibrio ecológico en lo que corresponde al ámbito estatal;
+
+b) Coadyuvar en las acciones donde se involucre a la ciudadanía y a la población escolar, para que a través de los medios masivos de comunicación dé a conocer en coordinación con la dependencia del ramo las campañas de concientización para la preservación del equilibrio ecológico y medio ambiente;
+
+c) Fomentar campañas con el apoyo de cuadros técnicos, científicos y académicos, que planteen soluciones a los problemas ambientales y la preservación de los ecosistemas.
+
+d) Pugnar por el aprovechamiento sustentable de bosques y selvas tropicales, tanto con fines de protección ecológica como comerciales, que permita desarrollar el potencial forestal con que cuenta el Estado, y
+
+e) Analizar y proponer medidas que impidan de manera estricta la comercialización, tráfico y caza de especies animales silvestres protegidas y pronunciarse sobre la restauración del habitat de aquellas que están en peligro de extinción.
 
 ### CAPITULO XI. DE LAS SESIONES
 
@@ -996,3 +1012,7 @@ DECRETO 004
 SE ADICIONA LA FRACCION IV DEL ARTICULO 63 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE TABASCO.
 
 UNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado.
+
+P.O. 8 DE MARZO DE 1995.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 6° DEL CODIGO CIVIL PARA EL ESTADO DE TABASCO.
