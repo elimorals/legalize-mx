@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-9735"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-18"
-last_updated: "1993-12-18"
+last_updated: "1995-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 18 de diciembre de 1993.
 
@@ -57,19 +57,27 @@ II.- 100% de los ingresos que perciba el Estado correspondientes al Fondo de Fom
 
 III.- 20% de los ingresos que correspondan al Estado derivado de participaciones en el Impuesto Federal sobre Tenencia o Uso de Vehículos.
 
-IV.- 90% del importe de las multas impuestas por las autoridades federales a infractores domiciliados dentro de la circunscripción territorial del Estado, con excepción de las que imponga la Secretaría de Hacienda y Crédito Público y sus organismos desconcentrados.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+IV.- Con el porcentaje del importe de las multas no fiscales impuestas por las autoridades federales a infractores domiciliados dentro de la circunscripción territorial de cada Municipio, de conformidad con los términos de los convenios que suscriban los Municipios con el Estado.
 
 V.- El 80% de los ingresos federales que obtengan los Municipios por los derechos de otorgamiento de concesiones por el uso o goce de la zona marítima-terrestre, así como el 100% de los gastos de ejecución y de las multas impuestas por los Ayuntamientos, en los términos del Código Fiscal de la Federación, relacionadas con esta materia.
 
-VI.- 100 % de las participaciones que perciba el Estado, conforme a los resultados de su colaboración en el Programa para el reordenamiento del comercio urbano, previsto en la Ley Federal de Coordinación Fiscal.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+VI.- El 20% de los ingresos que perciba el Estado por concepto de participación de la recaudación del impuesto especial sobre la producción y servicios en los términos del artículo 3o. A (sic) de la Ley de Coordinación Fiscal.
 
 VII.- 50% de los ingresos que correspondan al Estado por servicios de prevención y control de la contaminación del medio ambiente, previstos en la Ley de Hacienda del Estado.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+VIII.- 20% de los ingresos que perciba el Estado por concepto de incentivo por las acciones fiscalizadoras que éste realice de conformidad con el Anexo número 14 al Convenio de Colaboración Administrativa en materia fiscal federal celebrado por el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 3o.
 
-Las participaciones que corresponden a los Municipios, provenientes del Fondo General y del Fondo de Fomento Municipal, serán distribuídos de conformidad con el procedimiento que apruebe anualmente el Congreso del Estado.
-
-Las participaciones que corresponden al Estado de conformidad con la Ley de Coordinación Fiscal, condicionadas a los resultados de su colaboración en el Programa para el Reordenamiento del Comercio Urbano, serán entregadas íntegramente a los Municipios que suscriban con el Estado los convenios respectivos y de conformidad con el procedimiento señalado en el párrafo anterior.
+Las participaciones que corresponden a los Municipios, previstas en las fracciones I, II, VI y VIII del Artículo anterior, se aplicarán en proporción directa al número de habitantes que tenga cada Municipio, en el ejercicio de que se trate. El número de habitantes se tomará de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, al iniciarse cada ejercicio.
 
 ###### ARTICULO 4o.
 
@@ -89,13 +97,17 @@ Las participaciones que corresponden a los Municipios respecto a los derechos de
 
 Las participaciones que correspondan a los Municipios en los términos de esta Ley, se calcularán para cada ejercicio fiscal.
 
-La Secretaría de Hacienda del Estado, una vez determinada la asignación mensual que le corresponda a la Entidad en el Fondo General, en el Fondo de Fomento Municipal y en la participación que obtenga por su colaboración en el Programa de Reordenamiento del Comercio Urbano, previstos en la Ley Federal de Coordinación Fiscal, determinará las participaciones que correspondan a cada Municipio. En igual sentido procederá cuando tenga cuantificados los importes recaudados por concepto de Impuesto sobre Tenencia o Uso de Vehículos y los Derechos de Prevención y Control de la Contaminación del Medio Ambiente.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+La Secretaría de Hacienda del Estado, una vez determinada la asignación mensual que le corresponda a la Entidad en el Fondo General, en el Fondo de Fomento Municipal y las correspondientes a la recaudación del impuesto especial sobre producción y servicios previstos en la Ley Federal de Coordinación Fiscal determinará las participaciones que correspondan a cada Municipio y procederá a pagárselas dentro de los primeros cinco días hábiles del mes siguiente a aquél al que corresponda la determinación. En igual sentido procederá cuando tenga cuantificados los importes recaudados por concepto del Impuesto sobre Tenencia o uso de Vehículos y los derechos de prevención y control de la contaminación del medio ambiente.
 
 ###### ARTICULO 8o.
 
 Las participaciones que corresponden a los Municipios son inembargables y no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas por los mismos, con autorización del Congreso del Estado.
 
-No estarán sujetas a lo dispuesto en el párrafo anterior, las compensaciones que se requiera efectuar a los Municipios como consecuencia de ajustes en las participaciones en ingresos federales determinados, de conformidad con lo que establece la Ley Federal de Coordinación Fiscal.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+No estarán sujetos a lo dispuesto en el párrafo anterior, las compensaciones que se requieran efectuar a los Municipios como consecuencia de ajustes o de descuentos en las participaciones en ingresos federales determinados de conformidad con lo que establece la Ley Federal de Coordinación Fiscal. Así como los anticipos que reciban a cuenta de las participaciones que les corresponda en los términos de la presente Ley.
 
 ###### ARTICULO 9o.
 
@@ -137,7 +149,13 @@ h).- Servicio de limpieza, recolección y recepción de residuos sólidos no tó
 
 i).- De cooperación para la ejecución de obras de interés público.
 
-j).- Los demás que la Legislatura local determine a propuesta de los Ayuntamientos, siempre y cuando no se opongan a la coordinación en derechos pactada por el Estado con la Federación.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+j).- Por expedición de licencias, permisos o autorizaciones, para la colocación de anuncios y carteles o la realización de publicidad excepto los que se realicen por medio de la televisión, radio, periódicos y revistas.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+k).- Los demás que la Legislatura Local determine a propuesta de los Ayuntamientos, siempre y cuando no se opongan a la coordinación en derechos pactada por el Estado con la Federación.
 
 Los importes que se cobrarán por los derechos a que se refiere esta fracción serán autorizados, en su caso, por el Congreso a propuesta justificada de los Ayuntamientos, que considere el costo del servicio prestado.
 
@@ -163,9 +181,11 @@ b).- Multas impuestas por las autoridades municipales.
 
 VII.- Financiamientos que son los créditos que obtienen los Municipios en los términos de la legislación vigente.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 12.
 
-Cuando el Estado o algún Municipio contravenga lo establecido por esta Ley o por los convenios que de la misma se deriven, la parte afectada presentará inconformidad entre la Legislatura del Estado, a efecto de que ésta dictamine lo conducente.
+Cuando el Estado o algún Municipio contravenga lo establecido por esta Ley o por los convenios que de la misma se deriven, se estará a lo dispuesto por el artículo 114 fracción I de la Constitución Política del Estado de Tamaulipas.
 
 ## TRANSITORIOS
 
@@ -182,3 +202,9 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 10 de dicie
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Tamaulipas, a los catorce días del mes de diciembre de mil novecientos noventa y tres.- El Gobernador Constitucional del Estado. MANUEL CAVAZOS LERMA.- El Secretario General de Gobierno, JAIME RODRIGUEZ INURRIGARRO.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor el 1o. de Enero de 1996.
