@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-registro-civil-del-estado-de-baja-3232"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-05-10"
-last_updated: "2001-09-14"
+last_updated: "2002-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 10 de mayo de 1983.
 
@@ -365,7 +365,9 @@ X.- Rendir a las autoridades federales y estatales, los informes estadísticos q
 
 XI.- Informar semestralmente al Departamento del Registro Civil, sobre las labores de la Oficina, proponiendo en su caso, las medidas necesarias para el buen servicio;
 
-XII.- Coordinarse con el Ayuntamiento respectivo y otros Organismos interesados en el bienestar de la familia, a fin de obtener la difusión entre los habitantes, de la conveniencia de cumplir con el Registro Civil;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2002)</small>
+
+XII.- Celebrar todo tipo de jornadas tendientes a promover y efectuar el registro oportuno de menores, con relación al tiempo que refiere el artículo 55 del Código Civil para el Estado de Baja California y,
 
 XIII.- Fijar en lugar visible de la Oficialía, las tarifas que causen los derechos del Registro Civil;
 
@@ -648,3 +650,7 @@ UNICO.- La presente reforma entrará en vigor al día siguiente al de su publica
 P.O. 14 DE SEPTIEMBRE DE 2001.
 
 UNICO: Las presentes reformas entrarán en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 26 DE ABRIL DE 2002.
+
+UNICO: La presente reforma entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
