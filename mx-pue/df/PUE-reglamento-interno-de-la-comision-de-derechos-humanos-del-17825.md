@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interno-de-la-comision-de-derechos-humanos-del-17825
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-08-02"
-last_updated: "2000-08-02"
+last_updated: "2005-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2005.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 2 de agosto de 2000.
 
@@ -133,9 +133,11 @@ Las actas serán aprobadas, en su caso, por el Consejo Consultivo en la sesión 
 
 Para la realización de las sesiones ordinarias, el Secretario Técnico Ejecutivo enviará a los Consejeros, por lo menos con 72 horas de anticipación, el citatorio y el orden del día previsto para la sesión, así como los materiales que por su naturaleza deban ser estudiados por los Consejeros.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2005)</small>
+
 ###### ARTÍCULO 19.
 
-Se requerirá como quórum para llevar a cabo la Sesión del Consejo Consultivo, la asistencia de cuando menos seis de sus miembros.
+Para llevar a cabo la Sesión del Consejo Consultivo, se requerirá como quórum la asistencia de la mitad de sus miembros. Transcurrida media hora de la fijada para el inicio de la sesión, ésta comenzará válidamente con los miembros presentes. Las decisiones del Consejo Consultivo se tomarán por mayoría de votos de los miembros presentes.
 
 ###### ARTÍCULO 20.
 
@@ -850,3 +852,11 @@ PRIMERO.- Se abroga el Reglamento Interno de la Comisión Estatal de Defensa de 
 SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 H. Puebla de Zaragoza, a 18 de abril de 2000.- Presidente de la Comisión.- LIC JAIME JUÁREZ HERNÁNDEZ.- Rúbrica.- Consejeros: QUÍMICA MARINA SENTÍES LAVALLE.- Rúbrica.- LICENCIADO JOSÉ MANUEL RODOREDA ARTASÁNCHEZ.- Rúbrica.- LICENCIADO JUAN JOSÉ BARRIENTOS GRANDA.- Rúbrica.- PROFESORA HILDA LUISA VALDEMAR LIMA.- Rúbrica.- LICENCIADO ÁLVARO ZAMBRANO VÁZQUEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE ENERO DE 2005.
+
+Artículo Primero.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Cumplido lo anterior, publíquese en la Gaceta correspondiente, instrumento de difusión de este Organismo.
