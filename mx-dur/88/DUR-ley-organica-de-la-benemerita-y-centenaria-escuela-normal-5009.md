@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-benemerita-y-centenaria-escuela-normal-5009"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1977-07-03"
-last_updated: "1977-07-03"
+last_updated: "1987-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5009&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY ORGANICA DE LA BENEMERITA Y CENTENARIA ESCUELA NORMAL DEL ESTADO DE DURANGO - ANTES LEY ORGANICA DE LA ESCUELA NORMAL DEL ESTADO DE DURANGO -
 
-LEY ORGANICA DE LA ESCUELA NORMAL DEL ESTADO DE DURANGO
+LEY ORGÁNICA DE LA ESCUELA NORMAL DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 1987.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 3 de julio de 1977.
 
@@ -47,13 +47,21 @@ LEY ORGANICA DE LA ESCUELA NORMAL DEL ESTADO DE DURANGO.
 
 ### CAPITULO I. PERSONALIDAD Y FINES DE LA ESCUELA NORMAL DEL ESTADO
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1987)</small>
+
 ###### ARTICULO 1.
 
-La Escuela Normal del Estado es una Institución Pública encargada preferentemente de la preparación de Maestros de Primera Enseñanza sin detrimento de atender otros niveles en la Ciudad Magisterial; estará establecida en la Ciudad de Durango y será sostenida fundamentalmente por el Gobierno del Estado.
+La Escuela Normal del Estado de Durango es un organismo público con personalidad jurídica propia y capacidad para adquirir y administrar bienes, cuyo objeto es satisfacer los fines educativos a que se refiere esta Ley y estará establecida en la Ciudad de Durango y será sostenida fundamentalmente por el Gobierno del Estado.
 
 ###### ARTICULO 2.
 
 La Enseñanza que se imparta en la Escuela Normal del Estado seguirá los lineamientos marcados por el Artículo Tercero de la Constitución Política de los Estados Unidos Mexicanos, el Artículo cuarto de la Constitución Política del Estado, así como por las Leyes y Reglamentos que de ellas emanen.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1987)</small>
+
+###### ARTICULO 2o. Bis.
+
+En la Escuela Normal del Estado de Durango, se establece el Bachillerato Pedagógico, la carrera de Profesora de Educación Preescolar, las Licenciaturas en Educación Primaria y Educación Preescolar; así como Licenciaturas en Educación Especial, Postgrados y demás carreras cortas de tipo profesional o sub-profesional que de acuerdo a las necesidades en educación, decrete el Ejecutivo del Estado.
 
 ###### ARTICULO 3.
 
@@ -233,7 +241,7 @@ Para ser Subdirector Secretario serán necesarios los mismos requisitos que para
 
 Serán facultades y obligaciones del Subdirector Secretario:
 
-I.- Substituir al Director hasta por un período de tres meses con todas las fadultades (sic) inherentes al cargo.
+I.- Substituír al Director hasta por un período de tres meses con todas las fadultades (sic) inherentes al cargo.
 
 II.- Fungir como Secretario en las sesiones de la Junta Directiva.
 
@@ -401,7 +409,7 @@ La suspensión definitiva de los alumnos, personal docente y Administrativo, sol
 
 ###### ARTICULO 1o.
 
-Queda derogada la Ley Orgánica de Enseñanza Normal del Estado de Durango, expedida en el año de 1932.
+.- Queda derogada la Ley Orgánica de Enseñanza Normal del Estado de Durango, expedida en el año de 1932.
 
 ###### ARTICULO 2o.
 
@@ -418,3 +426,15 @@ Por tanto mando se imprima, publique, circule y comunique a quienes corresponda 
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los veinte días del mes de Junio del año de mil novecientos setenta y siete.
 
 El Gobernador Constitucional del Estado, HECTOR MAYAGOITIA DOMINGUEZ.- El Secretario General de Gobierno, LIC. CARLOS GALINDO MARTINEZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 1987.
+
+###### ARTICULO PRIMERO.
+
+Los efectos de este Decreto serán aplicables a las generaciones egresadas de la carrera de Profesora de Educación Preescolar de la Escuela Normal del Estado, durante los años de 1980, 1981, 1982, 1983, 1984, 1985, 1986 y 1987.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto surtirá sus efectos a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
