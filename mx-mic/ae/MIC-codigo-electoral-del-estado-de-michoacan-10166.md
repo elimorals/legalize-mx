@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-10166"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-05-04"
-last_updated: "2001-02-08"
+last_updated: "2005-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO ELECTORAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2005.
 
 Código publicado en la Sección Quinta del Periódico Oficial del Estado de Michoacán, el jueves 4 de mayo de 1995.
 
@@ -3247,7 +3247,7 @@ f) Se hará constar en el acta circunstanciada de la sesión el resultado del c�
 
 ## Título Primero. De los Medios de Impugnación
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LOS INTEGRAN, P.O. 8 DE FEBRERO DEL 2001.)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Segundo. De la Competencia
 
@@ -3307,6 +3307,10 @@ III. No desempeñar ni haber desempeñado en los últimos cinco años en partido
 
 Los magistrados serán designados para ejercer sus funciones para dos procesos electorales ordinarios sucesivos, pudiendo ser reelectos.
 
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2005)</small>
+
+En las elecciones extraordinarias conocerán y resolverán los recursos, los magistrados responsables en los procesos ordinarios de la Primera Sala Unitaria y de una de las Salas Colegiadas de Segunda Instancia, de manera sucesiva y alterna. La Sala Colegiada de Segunda Instancia que corresponda, deberá instalarse el día de la jornada electoral, debiendo concluir sus funciones cuando hayan quedado firmes sus resoluciones.
+
 > <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 205.
@@ -3364,6 +3368,10 @@ Son facultades del Presidente del Tribunal Electoral del Estado:
 I. Integrar el Pleno del Tribunal, con los otros seis magistrados numerarios;
 
 II. Convocar a los magistrados electorales a las sesiones del Pleno;
+
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2005)</small>
+
+II. bis. Convocar a los magistrados electorales integrantes de la Sala Colegiada de Segunda Instancia, que le corresponda conocer y resolver los recursos derivados de la elección extraordinaria;
 
 III. Presidir las sesiones del Pleno del Tribunal, dirigir los debates y conservar el orden durante las mismas; cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo de la Sala y la continuación de la sesión en privado;
 
@@ -3535,7 +3543,7 @@ En el tiempo que transcurre entre procesos electorales, únicamente funcionará 
 
 # Libro Octavo. De las Faltas y Sanciones Administrativas
 
-> <small>(DEROGADO CAPITULOS Y ARTICULOS QUE LOS INTEGRAN, P.O. 8 DE FEBRERO DEL 2001.)</small>
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ## Título Tercero. De las Faltas Administrativas y de las Sanciones
 
@@ -3565,13 +3573,13 @@ En el tiempo que transcurre entre procesos electorales, únicamente funcionará 
 
 ###### Artículo 221.
 
-. (DEROGADO, P.O. 8 DE FEBRERO DEL 2001)
+(DEROGADO, P.O. 8 DE FEBRERO DEL 2001)
 
 ###### Artículo 222.
 
 (DEROGADO, P.O. 8 DE FEBRERO DEL 2001)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LOS INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Quinto. De la Legitimación y Personería
 
@@ -3581,7 +3589,7 @@ En el tiempo que transcurre entre procesos electorales, únicamente funcionará 
 
 (DEROGADO, P.O. 8 DE FEBRERO DE 2001)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LOS INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Séptimo. De las Pruebas
 
@@ -3589,7 +3597,7 @@ En el tiempo que transcurre entre procesos electorales, únicamente funcionará 
 
 (DEROGADO, P.O. 8 DE FEBRERO DE 2001)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LOS INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Octavo. Reglas del procedimiento
 
@@ -3601,7 +3609,7 @@ En el tiempo que transcurre entre procesos electorales, únicamente funcionará 
 
 (DEROGADO, P.O. 8 DE FEBRERO DE 2001)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LOS INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Noveno. De la Acumulación
 
@@ -3613,7 +3621,7 @@ En el tiempo que transcurre entre procesos electorales, únicamente funcionará 
 
 (DEROGADO, P.O. 8 DE FEBRERO DE 2001)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LOS INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Décimo. De la Improcedencia y del Sobreseimiento
 
@@ -3633,7 +3641,7 @@ En el tiempo que transcurre entre procesos electorales, únicamente funcionará 
 
 (DEROGADO, P.O. 8 DE FEBRERO DE 2001)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LOS INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Décimo Primero. De las resoluciones
 
@@ -3697,7 +3705,7 @@ En el tiempo que transcurre entre procesos electorales, únicamente funcionará 
 
 (DEROGADO, P.O. 8 DE FEBRERO DE 2001)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LOS INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Décimo Segundo. De las Notificaciones
 
@@ -3705,7 +3713,7 @@ En el tiempo que transcurre entre procesos electorales, únicamente funcionará 
 
 (DEROGADO, P.O. 8 DE FEBRERO DE 2001)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LOS INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Primero. De los casos de nulidad
 
@@ -3721,7 +3729,7 @@ En el tiempo que transcurre entre procesos electorales, únicamente funcionará 
 
 (DEROGADO, P.O. 8 DE FEBRERO DE 2001)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LOS INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Segundo. De los Efectos de la Declaración de Nulidad
 
@@ -3753,7 +3761,7 @@ En el tiempo que transcurre entre procesos electorales, únicamente funcionará 
 
 (DEROGADO, P.O. 8 DE FEBRERO DE 2001)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LOS INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Unico
 
@@ -4026,3 +4034,9 @@ Los nombramientos a que se refiere el artículo 111 reformado mediante el presen
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE FEBRERO DE 2005.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Para la elección extraordinaria de ayuntamiento derivada del proceso electoral de 2004, se instalará la Primera Sala Colegiada de Segunda Instancia el día de la jornada electoral, correspondiendo a la Segunda Sala Colegiada de Segunda Instancia, instalarse el próximo proceso electoral del que deriven elecciones extraordinarias.
