@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1998-11-27"
+last_updated: "1999-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 1999.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -365,17 +365,23 @@ No pueden ser electos diputados:
 
 I.- El Gobernador del Estado, sea Provisional, Interino o Encargado del Despacho durante todo el período de su ejercicio, aún cuando se separe de su cargo;
 
-II.- Los Magistrados del Tribunal Superior de Justicia, el Secretario de Gobierno, el Procurador General de Justicia y el Tesorero General del Estado, a menos que se separen de sus cargos, en forma definitiva, noventa días antes de la elección;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
 
-III.- Los diputados y senadores al Congreso de la Unión durante el período de su ejercicio;
+II.- Los Magistrados y Jueces del Tribunal Superior de Justicia del Estado, el Secretario General de Gobierno, el Procurador General de Justicia y los Secretarios del Poder Ejecutivo, salvo que se separen de sus cargos, en forma definitiva, noventa días antes de la elección;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
+
+III.- Los Diputados y Senadores del Congreso de la Unión durante el período de su ejercicio constitucional, salvo que se separen de sus cargos en forma provisional noventa días antes de la elección;
 
 IV.- Los militares en servicio activo o las personas que tengan mando de policía, a menos que se separen de sus cargos noventa días antes de la elección;
 
-V.- Los Presidentes Municipales por los distritos en que ejerzan autoridad;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+V.- Los Presidentes Municipales por los distritos en que ejerzan autoridad, y los miembros de un Ayuntamiento, salvo que éstos últimos se separen de sus cargos en forma provisional noventa días antes de la elección;
 
-VI.- Quienes tengan cualquier empleo, cargo o comisión en el gobierno federal, estatal o municipal, así como los organismos descentralizados, excepto en las actividades docentes; salvo que se separen cuando menos noventa días antes del día de la elección;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
+
+VI.- Quienes tengan cualquier empleo, cargo o comisión en el Gobierno Federal, Estatal o Municipal, en los organismos descentralizados municipales o estatales, o Instituciones educativas públicas; salvo que se separen en forma provisional noventa días antes del día de la elección.
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
@@ -623,13 +629,15 @@ El Gobernador del Estado no podrá hacer observaciones sobre los decretos que ma
 
 Los asuntos que sean materia de acuerdo económico, se sujetarán a los trámites que fija el Reglamento Interior del Congreso.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1999)</small>
+
 ### CAPITULO I.. DEL PODER EJECUTIVO
 
 (REFORMADO, P.O. 31 DE DICIEMBRE DE 1985) (F. DE E. 20 DE MARZO DE 1986)
 
 ###### ARTICULO 37.
 
-Los proyectos de ley y los decretos aprobados por el Congreso, se remitirán al Ejecutivo firmados por el presidente y los secretarios del Congreso.
+Los proyectos de ley y los decretos aprobados por el Congreso, se remitirán al Ejecutivo firmados por el Presidente y el Secretario o los Secretarios del Congreso.
 
 ### CAPITULO II.. DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
@@ -645,23 +653,29 @@ I.- Convocar al Congreso a período extraordinario de sesiones en los casos que 
 
 II.- Conceder las licencias y permisos de la competencia del Congreso;
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
 
-III.- Dictaminar sobre las Modificaciones a los Presupuestos de Ingresos Municipales, que propongan los respectivos Ayuntamientos;
+III.- Recibir y turnar las modificaciones a los presupuestos de ingresos municipales, que propongan los respectivos Ayuntamientos;
 
-IV.- Otorgar o negar su aprobación a los nombramientos de los Magistrados que haga el Ejecutivo;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
 
-V.- Emitir dictamen sobre los asuntos que en las últimas sesiones ordinarias hayan quedado pendientes y sobre los que después se presenten para dar cuenta al Congreso;
+IV.- Entregar a la Mesa Directiva de la Legislatura entrante, el acta administrativa de entrega y recepción, en el que se describa el estado que guarden los recursos financieros, humanos y materiales que se les haya asignado para el ejercicio de sus atribuciones, sujetándose al procedimiento que establezca la ley de la materia;
 
-VI.- (DEROGADA, P.O. 6 DE OCTUBRE DE 1997)
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
+
+V.- Informar sobre los asuntos que en las últimas sesiones hayan quedado pendientes y sobre los que después se presenten para dar cuenta al Congreso;
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 1999)</small>
+
+VI.- Constituirse como Comisión Instaladora;
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
 VII.- Entregar credenciales de identificación y acceso, a más tardar el día 15 de septiembre del año de la elección, a los Diputados electos que integran la nueva Legislatura, cuyas constancias de mayoría y validez, de asignación por el principio de representación proporcional, o por resolución firme del Tribunal de Justicia Electoral, haya recibido el Congreso.
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
 
-VIII.- Citar a los Diputados electos a la junta previa el día anterior al inicio del primen período ordinario de la Legislatura entrante; y
+VIII.- Citar a los Diputados electos a la sesión previa el día anterior al inicio del primer Período Ordinario de la Legislatura entrante, y
 
 IX.- Las demás que le concede esta Constitución.
 
@@ -701,13 +715,17 @@ IV.- No ser ministro de cualquier culto religioso, a menos que se separe en los 
 
 V.- Estar en pleno goce de sus derechos Políticos.
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
 
-VI.- No tener empleo, cargo o comisión en el gobierno federal, estatal o municipal, así como en los organismos descentralizados, excepto en las actividades docentes; salvo que se separe cuando menos noventa días antes del día de la elección.
+VI.- No tener empleo, cargo o comisión en el Gobierno Federal, Estatal o Municipal, en los organismos descentralizados municipales o estatales, o Instituciones educativas públicas; salvo que se separen en forma provisional, noventa días antes del día de la elección.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 42.
 
-No podrán ser electos Gobernador del Estado: el Secretario de Gobierno, el Tesorero General del Estado, los Magistrados del Tribunal Superior de Justicia del Estado, los diputados locales, los diputados y senadores al Congreso de la Unión, los militares en servicio activo, los Jefes de policía del Estado y los Presidentes Municipales, a menos que se separen de sus cargos noventa días antes de la elección.
+No podrán ser electos Gobernador del Estado: el Secretario General de Gobierno, los Magistrados y Jueces del Tribunal Superior de Justicia del Estado, el Procurador General de Justicia y los Secretarios del Poder Ejecutivo, salvo que se separen de sus cargos en forma definitiva, noventa días antes de la elección.
+
+Los Diputados y Senadores del Congreso de la Unión, Diputados locales, Presidentes Municipales, Directores del Poder Ejecutivo, los militares en servicio activo y los Jefes de Policía, no podrán ser electos Gobernador del Estado, salvo que se separen de sus cargos en forma provisional, noventa días antes de la elección.
 
 ###### ARTICULO 43.
 
@@ -731,11 +749,15 @@ En las faltas temporales que excedan de treinta días el Congreso nombrará un G
 
 El nombramiento de Gobernador Interino lo hará el Congreso en escrutinio secreto y por mayoría absoluta de votos.
 
-En caso de falta absoluta del Gobernador ocurrida durante los dos primeros años del período, el Congreso designará un Gobernador Provisional que convoque a elecciones dentro de los dos meses siguientes, debiendo verificarse éstas en un término no mayor de cuatro meses posteriores a la convocatoria.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1999)</small>
+
+En caso de falta absoluta del Gobernador ocurrida durante los dos primeros años del período, el Congreso designará por mayoría absoluta de votos un Gobernador Provisional que convoque a elecciones dentro de los dos meses siguientes, debiendo verificarse éstas en un término no mayor de cuatro meses posteriores a la convocatoria. Si estuviere en receso, la Comisión Permanente convocará al Congreso dentro de las veinticuatro horas siguientes a un periodo extraordinario, para que designe al Gobernador Provisional.
 
 La persona que sea electa Gobernador Provisional, tomará posesión de su cargo dentro del término de diez días posteriores a la fecha en que se haga la declaratoria correspondiente.
 
-Si la falta absoluta ocurriere después de los dos primeros años, y el Congreso estuviere en funciones designará un Gobernador Substituto que termine el período. Si el Congreso no estuviere en funciones la Comisión Permanente nombrará un Gobernador Interino y convocará, desde luego, a un período extraordinario de Sesiones, para que el Congreso designe al Gobernador Substituto.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1999)</small>
+
+Si la falta absoluta ocurriere después de los dos primeros años, y el Congreso estuviere en funciones, designará por mayoría absoluta un Gobernador Sustituto que termine el periodo. Si el Congreso no estuviere en funciones, la Comisión Permanente nombrará mediante mayoría simple un Gobernador Interino y convocará, desde luego, a un periodo extraordinario de Sesiones, para que el Congreso designe al Gobernador Substituto.
 
 ###### ARTICULO 47.
 
@@ -795,7 +817,9 @@ XVII.- Decretar expropiación de bienes por causas de utilidad pública, en la f
 
 XVIII.- Tener el mando directo de la fuerza pública de los municipios cuando el Congreso del Estado suspenda o declare desaparecidos a los Ayuntamientos, y tomar en caso de invasión o de trastornos interiores, medidas extraordinarias para hacer respetar la soberanía del Estado y reestablecer el orden con la aprobación del Congreso del Estado.
 
-XIX.- Conceder licencias con goce de sueldo o sin él y aceptar las renuncias de los funcionarios y empleados del Ejecutivo;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
+
+XIX.- Conceder licencias de acuerdo a la Ley del Servicio Civil y demás disposiciones aplicables en la materia y aceptar las renuncias de los funcionarios y empleados del Ejecutivo;
 
 XX.- Proveer a la ejecución de las obras públicas;
 
@@ -1239,9 +1263,13 @@ La vecindad no se interrumpe cuando en el ejercicio de un cargo público, de un 
 
 III.- No ser ministro de cualquier culto religioso, a menos que se separe en los términos que establece la Ley de la materia;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
 
-IV.- No tener empleo, cargo o comisión en el gobierno federal, estatal o municipal, así como en los organismos descentralizados, excepto en las actividades docentes; salvo que se separe cuando menos noventa días antes del día de la elección;
+IV.- No tener empleo, cargo o comisión en el Gobierno Federal, Estatal o Municipal, en los organismos descentralizados municipales o estatales, e Instituciones educativas; salvo que se separen en forma provisional noventa días antes del día de la elección.
+
+No podrán ser electos miembros de un Ayuntamiento, el Gobernador del Estado sea provisional, interino, substituto o encargado del despacho, aún cuando se separe de su cargo, así como los Magistrados y Jueces del Tribunal Superior de Justicia, el Secretario General de Gobierno del Estado, el Procurador General de Justicia y los Secretarios del Poder Ejecutivo, salvo que se separen de sus cargos, en forma definitiva, noventa días antes de la elección.
+
+Los Diputados Locales, Diputados y Senadores del Congreso de la Unión, los militares en servicio activo y Jefes de Policía, salvo que se separen de sus cargos en forma provisional, noventa días antes de la elección.
 
 V.- Estar en pleno goce de sus derechos políticos.
 
@@ -1513,11 +1541,11 @@ En el Estado las mujeres tienen los mismos derechos civiles y políticos que los
 
 Las relaciones entre el Estado y sus servidores estarán reguladas por Ley del Servicio Civil que se sujetará a los siguientes principios:
 
-I.- Los trabajadores del Estado que sean de base, no podrán ser cesados sino por causa de incompetencia, mala conducta o de responsabilidad.
+I.- Los trabajadores del Estado que sean de base, no podrán ser cesados sino por causa de incompetencia, mala conducta o de responsabilidad;
 
-II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigüedad y antecedentes en el servicio.
+II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigiiedad (sic) y antecedentes en el servicio;
 
-III.- Serán preferidos en los empleos del Estado, en igualdad de circunstancias, las personas más necesitadas económicamente.
+III.- Serán preferidos en los empleos del Estado, en igualdad de circunstancias, las personas más necesitadas económicamente;
 
 IX (sic).- La Ley fijará cuáles son los empleados de confianza y cuáles los de base.
 
@@ -1611,6 +1639,10 @@ Si transcurriere un mes después de que se compruebe que ha sido recibido el pro
 
 Las reformas o adiciones efectuadas a esta Constitución, aprobadas de conformidad al procedimiento señalado, podrán ser sometidas a Referéndum, de conformidad a las disposiciones que la Ley establezca.
 
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 1999)</small>
+
+Las adiciones o reformas a la Constitución Política de los Estados Unidos Mexicanos que afecten a esta Constitución, serán inmediatamente adoptadas por el Congreso del Estado, mediante Dictamen, referente a la afectación del texto de ésta, y a la parte de su cuerpo en que deba de incorporarse, aprobado por mayoría calificada, produciendo una declaratoria de reforma o adición constitucional, que deberá promulgarse sin necesidad de ningún otro trámite.
+
 ###### ARTICULO 113.
 
 Esta Constitución no perderá su fuerza y vigor, aún cuando por alguna rebelión o estado grave de emergencia se interrumpa su observancia.
@@ -1630,6 +1662,10 @@ Esta Constitución entrará en vigor el mismo día de su publicación.
 ###### ARTICULO TERCERO.
 
 Dentro del término de 15 días, contados a partir de su vigencia, el Gobernador Provisional convocará a elecciones para Diputados a la Legislatura del Estado y para Gobernador Constitucional del mismo, las cuales tendrán verificativo el día 25 de octubre del presente año.
+
+###### ARTICULO CUARTO.
+
+Dichas elecciones se regirán por las disposiciones de esta Constitución y se sujetarán a las bases siguientes:
 
 I.- Se crea la Comisión Electoral del Estado que tendrá, para la Jurisdicción de la Entidad; las facultades que a la Comisión Federal Electoral y a las Comisiones Locales Electorales señala la Ley Electoral Federal, aplicando, en lo conducente, sus disposiciones.
 
@@ -1670,14 +1706,6 @@ XVII.- El siguiente domingo, después de la elección el Comité Electoral Distr
 XVIII.- Las constancias a que se refiere la base anterior deberán ser registradas ante la Comisión Electoral del Estado, la que otorgará registro si no encontrare que se hayan cometido durante el proceso electoral o en la elección actos capaces de viciar su validez. Esta facultad concedida a la Comisión Electoral del Estado no impedirá que la Legislatura del Estado haga la calificación de la elección de sus miembros en los términos del artículo 20 de esta Constitución.
 
 XIX.- Los Partidos Políticos a que se refiere la base IX y los candidatos que hayan obtenido el registro, podrán nombrar representantes ante todos los organismos electorales que funcionen en el Estado, si tienen interés jurídico.
-
-###### ARTICULO CUARTO.
-
-Deberán prorrogarse los actuales nombramientos de los Jueces del Estado, hasta el treinta de Noviembre de 1989.
-
-P.O. 30 DE SEPTIEMBRE DE 1989.
-
-DECRETO No. 193
 
 ###### ARTICULO QUINTO.
 
@@ -1875,9 +1903,13 @@ Los Magistrados nombrados por el Ejecutivo del Estado el primero de Noviembre de
 
 Los Magistrados nombrados por el Ejecutivo del Estado, aprobados por el Congreso y que aún no han sido ratificados en términos del Artículo 59 de la Constitución Política Local, ahora reformado, deberán completar un período de seis años a partir de la fecha de su nombramiento, y si son ratificados, también se considerarán inamovibles, con base en lo dispuesto por el Artículo 60 que se reforma.
 
-###### ARTÍCULO CUARTO.
+###### ARTICULO CUARTO.
 
-A más tardar el día 11 de Diciembre de 1997, deberán ser nombrados los Consejeros Ciudadanos Numerarios y Supernumerarios, que sustituirán a los actuales Consejeros Ciudadanos, conforme a esta reforma Constitucional, mediante el voto de las dos terceras partes de los Diputados integrantes del Pleno del Congreso del Estado.
+Deberán prorrogarse los actuales nombramientos de los Jueces del Estado, hasta el treinta de Noviembre de 1989.
+
+P.O. 30 DE SEPTIEMBRE DE 1989.
+
+DECRETO No. 193
 
 ###### ARTICULO UNICO.
 
@@ -2070,3 +2102,95 @@ Aprobado que sea el presente Dictamen, con el anexo del acta de debates correspo
 ###### ARTICULO SEGUNDO.
 
 En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, se envíe al Ejecutivo Estatal el Dictamen de la presente Reforma Constitucional para los efectos conducentes, la cual entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE ENERO DE 1999.
+
+DECRETO No. 32
+
+###### ARTÍCULO PRIMERO.
+
+Aprobado que sea el presente Dictamen, con el anexo del acta de debates correspondiente, remítase para consulta a los Ayuntamientos del Estado, a efecto de cumplimentar lo dispuesto en el párrafo primero del Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, se envíe al Ejecutivo el Dictamen de la presente reforma Constitucional para los efectos conducentes.
+
+###### ARTÍCULO TERCERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Baja California.
+
+P.O. 15 DE ENERO DE 1999.
+
+DECRETO No. 33
+
+###### ARTICULO PRIMERO.
+
+Aprobada que sea la presente Iniciativa, remítase a los Ayuntamientos, a fin de dar cumplimiento a lo dispuesto por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+Una vez agotado el procedimiento contemplado en el Artículo 112, remítase al Ejecutivo del Estado para su promulgación.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE ENERO DE 1999.
+
+DECRETO No. 34
+
+###### ARTICULO PRIMERO.
+
+Aprobada que sea la presente Iniciativa, remítase a los Ayuntamientos, a fin de dar cumplimiento a lo dispuesto por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+Una vez agotado el procedimiento contemplado en el Artículo 112, remítase al Ejecutivo del Estado para su promulgación.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE ENERO DE 1999.
+
+DECRETO No. 35
+
+###### ARTICULO PRIMERO.
+
+Aprobado que sea el presente Dictamen, con el anexo del acta de debates correspondiente, remítase para consulta a los Ayuntamientos del Estado, a efecto de cumplimentar lo dispuesto en el párrafo primero del Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, se envíe al Ejecutivo el Dictamen de la presente Reforma Constitucional para su publicación, la cuál entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE ENERO DE 1999.
+
+DECRETO No. 36
+
+###### ARTICULO PRIMERO.
+
+Aprobada que sea la presente Iniciativa, remítase a los Ayuntamientos, a fin de dar cumplimiento a lo dispuesto por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+Una vez agotado el procedimiento contemplado en el Artículo 112, remítase al Ejecutivo del Estado para su promulgación.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE ENERO DE 1999.
+
+DECRETO No. 37
+
+###### ARTICULO PRIMERO.
+
+Aprobado que sea el presente Dictamen, con el anexo del acta de debates correspondiente, remítase para consulta a los Ayuntamientos del Estado, a efecto de cumplimentar lo dispuesto en el párrafo primero del Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítase al Ejecutivo la presente Reforma Constitucional para los efectos conducentes.
+
+###### ARTICULO TERCERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
