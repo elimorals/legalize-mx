@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1987-12-09"
+last_updated: "1988-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 1988.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -147,7 +147,7 @@ VII.- Por separarse del territorio del Estado por un tiempo mayor de un año. En
 
 ### CAPITULO CUARTO. DE LA COMISION PERMANENTE
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 7º
 
@@ -367,11 +367,11 @@ El Congreso del Estado deberá quedar instalado el día primero de Noviembre del
 
 El Congreso tendrá sesiones extraordinarias cada vez que sea convocado por la Comisión Permanente, pero en tales casos solo podrá ocuparse del asunto o asuntos especificados en la Convocatoria respectiva.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 24.
 
-El Congreso celebrara Sesión Solemne para el efecto de que el Gobernador del Estado presente su informe escrito acerca de la situación que guarden los diversos ramos de la Administración Publica, el que podrá ser entre el veinticinco de noviembre y el tres de diciembre de cada año. El Presidente del Congreso será quien conteste el Informe del Gobernador.
+El Congreso celebrará sesión solemne para el efecto de que el Gobernador del Estado presente su informe escrito acerca de la situación que guarden los diversos ramos de administración publica; el que será el segundo sábado del mes de noviembre de cada año. El Presidente del Congreso será quien conteste el informe del Gobernador.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -463,9 +463,13 @@ XV.- Dictar Leyes para la conservación del equilibrio ecológico y de las rique
 
 XVI.- Conceder amnistía por delitos cuyo conocimiento corresponda a los Tribunales locales;
 
-XVII.- Instituir, cuando lo estime oportuno, Tribunales Administrativos con plena autonomía para dictar sus fallos; que tendran funcion de dirimir las controversias que se susciten entre la Administracion Publica del Estado y los particulares, estableciendo las normas para su organización y funcionamiento, asi como el procedimiento y los recursos contra sus resoluciones.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
 
-XVIII.- Expedir su Reglamento que regulara su estructura y funcionamiento interno, así como la Ley Orgánica de la Contaduría Mayor de Glosa;
+XVII.- Instituir, cuando lo estime oportuno, Tribunales de lo Contencioso Administrativo con plena autonomía para dictar sus fallos; que tendrán función de dirimir las controversias que se susciten entre la Administración Pública del Estado y los Particulares, estableciendo las normas para su organización y funcionamiento, así como el procedimiento y los recursos contra sus resoluciones.
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+XVIII.- Expedir su Ley Orgánica y su respectivo Reglamento que regulará su estructura y funcionamiento interno, así como la Ley Orgánica de la Contaduría Mayor de Hacienda;
 
 XIX.- Autorizar al Ejecutivo, en cada caso, para que enajene bienes propiedad del Estado y haga donaciones a instituciones de Interés público o de beneficencia, en los términos y condiciones que fije el mismo Congreso;
 
@@ -483,11 +487,15 @@ XXV.- Constituirse en Colegio Electoral para elegir al ciudadano que deba sustit
 
 XXVI.- Autorizar al Ejecutivo para que celebre arreglos sobre los límites del Estado y sancionar en su caso dichos arreglos, previamente a que sean sometidos a la aprobación del Congreso de la Unión;
 
-XXVII.- Fijar los ingresos que deban integrar la Hacienda de los Municipios, procurando que sean suficientes para cubrir sus necesidades; examinar y, en su caso, aprobar los Planes de Arbitrios y glosar mensualmente las cuentas que le presenten los Municipios;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+XXVII.- Fijar los ingresos que deban integrar la Hacienda de los Municipios, procurando que sean suficientes para cubrir sus necesidades; examinar y en su caso señalar las bases normativas conforme a las cuales elaborarán y aprobarán sus presupuestos de egresos y glosar mensualmente las cuentas que le presenten los municipios;
 
 XXVIII.- Crear o suprimir Municipios dentro de los ya existentes, una vez que se hayan satisfecho los requisitos que la Ley Orgánica establece;
 
-XXIX.- Examinar la cuenta pública que anualmente le presente el Ejecutivo y los Ayuntamientos, debiendo comprender dicho examen no solo la conformidad con las partidas gastadas según el Presupuesto de Egresos, sino también la exactitud y justificación de ellas;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+XXIX.- Examinar la cuenta pública que le presente el Ejecutivo y los Ayuntamientos, debiendo comprender dicho examen no solo la conformidad con las partidas gastadas según el presupuesto de egresos, sino también la exactitud y justificación de ellas;
 
 XXX.- Expedir convocatoria para elecciones extraordinarias a fin de cubrir las vacantes que ocurran en los Poderes del Estado que sean de elección popular, y en los Ayuntamientos cuando estos desaparecieren por alguna circunstancia.
 
@@ -495,13 +503,19 @@ XXXI.- Pedir la protección de los Poderes de la Unión en caso de trastorno o s
 
 XXXII.- Disponer mediante decreto, el traslado de los Poderes a algún punto del Estado, fuera de la Capital, cuando las circunstancias lo exijan, bien sea por conmoción popular o para celebrar actos cívicos y conmemorativos;
 
-XXXIII.- Recibir de la Contaduría Mayor de Glosa las comprobaciones del gasto público y, en su caso, realizar las auditorias que estime necesarias a los órganos de Gobierno del Estado, de los Municipios y de las Instituciones que reciban subsidio estatal o municipal;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+XXXIII.- Recibir de la Contaduría Mayor de Hacienda las comprobaciones del Gasto Público y, en su caso, realizar las auditorías que estime necesarias a los órganos de Gobierno del Estado, de los Municipios y de las Instituciones que reciban subsidio Estatal o Municipal;
 
 XXXIV.- Publicar su Memoria anual de labores;
 
 XXXV.- Dirimir los conflictos que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia, salvo que se trate de controversias sobre la constitucionalidad de sus actos, las que están reservadas a la Suprema Corte de Justicia de la nación;
 
-XXXVI.- Erigirse en Colegio Electoral para hacer el escrutinio y la declaración de las elecciones del Gobernador y de los Senadores al Congreso de la Unión;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+XXXVI.- Erigirse en Colegio Electoral para hacer la calificación de las Elecciones y declaración de electos de Diputados Locales y Gobernador.
+
+Asimismo hará la declaración de electos de los senadores al Congreso de la Unión en los términos de la Constitución General de la República y el Código Federal Electoral.
 
 XXXVII.- Otorgar o negar su aprobación a los nombramientos de Magistrados del Tribunal Superior de Justicia que le someta a su consideración el Gobernador;
 
@@ -541,7 +555,7 @@ El Presidente del Congreso velara por el respeto al fuero constitucional de los 
 
 ###### ARTICULO 31.
 
-La víspera del día en que deban terminar las sesiones ordinarias, el Congreso mediante votación secreta, nombrara para el tiempo de su receso, una Comisión Permanente, compuesta de ocho Diputados en ejercicio, de los cuales cuatro fungirán como Propietarios y cuatro quedaran como Suplentes.
+La víspera del día en que deban terminar las Sesiones Ordinarias, el Congreso mediante votación secreta, nombrará para el tiempo de su receso, una comisión permanente, compuesta de seis Diputados Propietarios y sus respectivos Suplentes.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -571,7 +585,9 @@ X.- Conceder licencia por mas de treinta días al Gobernador del Estado;
 
 XI.- Nombrar Gobernador Interino o Provisional en los supuestos a que se refiere esta Constitución; y
 
-XII.- Las demás que le asigna la presente Constitución.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+
+XII.- Revisar y aprobar los avances financieros de la Cuenta Pública que envíe el Ejecutivo del Estado; y las demás que le asigne la presente Constitución.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1836,5 +1852,9 @@ P.O. 25 DE NOVIEMBRE DE 1987.
 UNICO.- Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P. O. 9 DE DICIEMBRE DE 1987.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial.
+
+P.O. 22 DE JUNIO DE 1988.
 
 UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial.
