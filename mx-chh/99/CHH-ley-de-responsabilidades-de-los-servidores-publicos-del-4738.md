@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-responsabilidades-de-los-servidores-publicos-del-4738"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-17"
-last_updated: "2002-05-22"
+last_updated: "2002-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2002.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de mayo de 1989.
 
@@ -237,7 +237,7 @@ XI.- Abstenerse de intervenir o participar en la selección, nombramiento, desig
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-XII. Excusarse de intervenir, en cualquier forma, en asuntos en los que tenga interés personal, familiar o de negocios.
+XII.- Excusarse de intervenir, en cualquier forma, en asuntos en los que tenga interés personal, familiar o de negocios.
 
 Quedan exceptuados de lo anterior los casos a que se refiere el tercer párrafo del artículo 42 de la Ley de Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública del Estado de Chihuahua;
 
@@ -321,11 +321,13 @@ El Gobernador del Estado, así como la autoridad podrán establecer los órganos
 
 El Supremo Tribunal de Justicia establecerá los órganos y sistemas para identificar, investigar y determinar las responsabilidades de sus propios servidores públicos, derivadas del incumplimiento de las obligaciones establecidas en el Artículo 23, así como para aplicar las sanciones previstas en el presente capítulo, en los términos de su Ley Orgánica.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2002)</small>
 
-Lo propio hará, conforme a la legislación respectiva y por lo que hace a sus atribuciones, el Congreso del Estado, quien será competente para identificar, investigar, y determinar las responsabilidades de sus servidores públicos, así como para aplicar las sanciones respectivas tratándose de Presidentes Municipales, Regidores y Síndicos, previo el procedimiento correspondiente.
+Lo propio hará conforme a la legislación respectiva y por lo que hace a sus atribuciones, el Congreso del Estado, quien será competente para identificar, investigar y determinar las responsabilidades de sus servidores públicos y las de los Presidentes Municipales, Regidores y Síndicos, así como para aplicar las sanciones respectivas previo el procedimiento correspondiente. La petición para que el Congreso del Estado inicie el procedimiento podrá ser formulada por cualquier ciudadano, bajo su más estricta responsabilidad.
 
-Los Ayuntamientos establecerán los órganos y sistemas relativos, en los términos del primer párrafo de este artículo y aplicarán las sanciones respectivas consignadas en este capítulo a sus servidores públicos, previa instrucción del procedimiento disciplinario por el Presidente Municipal, quien impondrá dichas sanciones de acuerdo del Ayuntamiento.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2002)</small>
+
+Los Ayuntamientos establecerán los órganos y sistemas relativos, en los términos del primer párrafo de este artículo y aplicarán las sanciones respectivas consignadas en este capítulo a los servidores públicos municipales, con excepción de los Presidentes Municipales, Regidores y Síndicos, previa instrucción del procedimiento disciplinario por el Presidente Municipal, quien impondrá dichas sanciones por acuerdo del Ayuntamiento.
 
 ###### ARTICULO 30.
 
@@ -632,3 +634,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 22 DE MAYO DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE AGOSTO DE 2002.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor sesenta días después de su publicación en el Periódico Oficial del Estado.
+
+En lo relativo al artículo 6, fracción IV, primer párrafo, de la Ley de Catastro del Estado, la obligación de actualización entrará en vigor el 1 de enero del 2003.
