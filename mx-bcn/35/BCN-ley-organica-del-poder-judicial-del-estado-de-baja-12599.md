@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "1998-05-04"
+last_updated: "1998-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1998.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -45,43 +45,55 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA.
 
 Corresponde a los Tribunales de Justicia del Fuero Común del Estado de Baja California, dentro de los términos que establece la Constitución General de la República y la Constitución Política del Estado, la facultad de aplicar las leyes en los asuntos civiles, penales y familiares, que sean de su conocimiento, así como los casos en que las demás leyes les concedan jurisdicción.
 
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
-El Tribunal de Justicia Electoral, máxima autoridad jurisdiccional electoral estatal, y órgano especializado del Poder Judicial del Estado, garantizará el cumplimiento del principio de legalidad de los actos y resoluciones electorales, en los términos señalados por la Constitución Política del Estado y las leyes de la materia.
+La facultad a que se refiere el párrafo anterior se ejerce:
+
+I.- Por el Tribunal Superior de Justicia, actuando en Pleno o en Salas.
+
+II.- Por los Jueces de Primera Instancia en Materia Civil.
+
+III.- Por los Jueces de Primera Instancia de lo Familiar.
+
+IV.- Por los Jueces de Primera Instancia del Ramo Penal.
+
+V.- Por los Jueces de Primera Instancia de Jurisdicción Mixta.
+
+VI.- Por los Jueces de Paz.
+
+VII.- Por los Jurados Populares.
+
+VIII.- Por el Consejo de la Judicatura del Estado de Baja California.
+
+IX.- Por los demás Servidores Públicos y auxiliares de la administración de Justicia en los términos que establezca esta ley, los Códigos de Procedimientos y Leyes correspondientes.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+
+El Tribunal de Justicia Electoral, máxima autoridad jurisdiccional electoral estatal, y órgano especializado del Poder Judicial del Estado, garantizará el cumplimiento del principio de legalidad de los actos y resoluciones electorales, en los términos señalados por la Constitución Política del Estado y las Leyes de la materia.
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
 Las disposiciones cuya referencia sea "la administración de justicia", no serán aplicables al Tribunal de Justicia Electoral.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 2.
 
-Las facultades a que se refiere el Artículo anterior se ejercen:
+Son órganos jurisdiccionales del Poder Judicial.
 
-I.- Por el Tribunal Superior de Justicia, actuando en Pleno o en Salas.
+I.- El Tribunal Superior de Justicia, actuando en Pleno o en Salas;
 
-II.- Por los jueces de Primera Instancia en Materia Civil.
+II.- Los Juzgados de Primera Instancia en Materia Civil;
 
-III.- Por los jueces de primera Instancia de lo Familiar.
+III.- Los Juzgados de primera Instancia en Materia Familiar;
 
-IV.- Por los jueces de Primera Instancia del Ramo Penal.
+IV.- Los Juzgados de Primera Instancia del Ramo Penal;
 
-V.- Por los jueces de Primera Instancia de Jurisdicción Mixta.
+V.- Los Juzgados de Paz, y
 
-VI.- Por los jueces de Paz Civil.
+VI.- El Tribunal de Justicia Electoral.
 
-VII.- Por los jueces de Paz de lo Penal.
-
-VIII.- Por los jueces de Paz de Jurisdicción Mixta.
-
-IX.- Por el Consejo de la Judicatura del Estado de Baja California.
-
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
-
-X.- Por el Tribunal de Justicia Electoral.
-
-XI.- Por los demás Servidores Públicos y auxiliares de la administración de Justicia en los términos que establezca esta ley, los Códigos de Procedimientos y leyes correspondientes.
+Los órganos del Poder Judicial del Estado, funcionarán de modo permanente e ininterrumpido durante cada año de actividades. El Consejo de la Judicatura dictará las medidas correspondientes para la organización permanente de las actividades de los juzgados de conformidad con el Título Decimoprimero de esta Ley.
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -209,11 +221,11 @@ No podrá recaer ningún nombramiento de la Administración de Justicia en indiv
 
 ### CAPITULO I. DEL TRIBUNAL SUPERIOR
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 21.
 
-El Tribunal Superior de Justicia, estará integrado por trece Magistrados propietarios como mínimo y seis Suplentes. Funcionará en Pleno o en Salas y será representado por su Presidente.
+El Tribunal Superior de Justicia, estará integrado por trece magistrados propietarios y seis suplentes como mínimo y funcionará en Pleno o en Salas en forma permanente en los términos de su calendario anual de actividades colegiadas.
 
 ###### ARTICULO 22.
 
@@ -345,9 +357,13 @@ XIII.- Iniciar Leyes de Decretos ante al Congreso del Estado, en asuntos relacio
 
 Para que funcione el Tribunal en Pleno, se requiere de la concurrencia de la mayoría de los magistrados propietarios y la del Secretario General o de quien haga sus veces conforme a la Ley.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 31.
 
-Las sesiones del Tribunal en pleno ordinarias o extraordinarias, y en ambos casos, públicas o privadas. Las sesiones ordinarias se celebrarán semanalmente, el día y hora que señale el Presidente, y las extraordinarias, cuando sea necesario para tratar y resolver asuntos urgentes, previa convocatoria del Presidente del mismo, en la que se determinará si son privadas o públicas a iniciativa propia o a solicitud de alguno de los Magistrados.
+Las sesiones del Tribunal serán fijadas en el calendario anual que se apruebe a propuesta del Presidente o de los Magistrados, mismas que se celebrarán semanalmente el día y la hora preestablecido en la agenda, previa convocatoria del Presidente en la que determinará si son de carácter público o privado.
+
+Se podrá sesionar fuera de calendario, para tratar y resolver únicamente aquellos asuntos de carácter urgente o extraordinario, previa convocatoria del Presidente por iniciativa propia o de los Magistrados.
 
 ###### ARTICULO 32.
 
@@ -1479,9 +1495,11 @@ El Consejo de la Judicatura del Estado velará, en todo momento, por la autonom�
 
 El Consejo de la Judicatura del Estado, se integrará por siete Consejeros, en los términos del artículo 65 de la Constitución Política del Estado y funcionará en Pleno o a través de Comisiones, además contará con un Secretario General.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 157.
 
-El Consejo de la Judicatura del Estado, sesionará en la forma y términos que previene ésta ley, y conforme a los acuerdos generales que el propio Consejo llegare a dictar.
+El Consejo de la Judicatura del Estado, se integrará por siete Consejeros, en los términos del artículo 65 de la Constitución Política del Estado, y funcionará en Pleno o a través de Comisiones en forma permanente, en los términos de su calendario anual de actividades colegiadas que en Pleno aprobará a propuesta del Presidente o de sus Consejeros.
 
 ###### ARTICULO 158.
 
@@ -1493,9 +1511,13 @@ Las resoluciones del Consejo de la Judicatura del Estado y de sus organismos aux
 
 Cuando el Pleno del Consejo de la Judicatura del Estado, estime que sus reglamentos, acuerdos, resoluciones o de sus organismos auxiliares pudieran resultar de interés general, deberá ordenar su publicación en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 160.
 
-El Consejo de la Judicatura del Estado, sesionará en forma ordinaria y extraordinaria.
+El Consejo de la Judicatura del Estado, sesionará de acuerdo al calendario anual de actividades colegiadas aprobado, mismas que se celebrarán semanalmente el día y hora preestablecidos en la agenda, previa convocatoria del Presidente.
+
+Se podrá sesionar fuera de calendario, para tratar y resolver únicamente aquellos asuntos de carácter urgente, previa convocatoria del Presidente por iniciativa propia o de los Consejeros.
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -1503,11 +1525,11 @@ El Consejo de la Judicatura del Estado, sesionará en forma ordinaria y extraord
 
 El Pleno se integrará con los siete Consejeros; pero bastará la presencia de seis de ellos para sesionar.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 162.
 
-Las sesiones ordinarias del Pleno del Consejo de la Judicatura del Estado serán privadas.
-
-El Pleno del Consejo de la Judicatura del Estado, podrá sesionar de manera extraordinaria a solicitud de cualquiera de sus integrantes, dicha solicitud deberá presentarse al Presidente del propio Consejo a fin de que emita la convocatoria correspondiente.
+Las sesiones aprobadas en el calendario anual de actividades colegiadas aprobadas por el Consejo de la Judicatura, serán públicas.
 
 ###### ARTICULO 163.
 
@@ -2055,7 +2077,7 @@ Son obligaciones de los médicos municipales:
 
 I.- Proceder con oportunidad al reconocimiento y curación de los heridos que se reciban en la sección médica que esté a su cargo.
 
-II.- Asistir a las diligencias de fe de cadáveres y a todas las otras que a juicio de Ministerio Público que sean (sic) necesarias o útiles sus servicios.
+II.- Asistir a las diligencias de fe de cadáveres y a todas las otras que a juicio del Ministerio Público que sean (sic) necesarias o útiles sus servicios.
 
 III.- Redactar el parte médico legal, las actas de descripción de lesiones o heridas que se extiendan en las delegaciones o agencias del Ministerio Público y expedir las certificaciones médico legales conducentes a la comprobación del delito.
 
@@ -3098,3 +3120,13 @@ NOVENO.- La totalidad de los bienes muebles e inmuebles destinados al Tribunal d
 DECIMO.- Si a la entrada en vigor de este Decreto se encuentra en trámite algún medio de impugnación ante el Tribunal de Justicia Electoral, será resuelto conforme a las normas vigentes al momento de su interposición.
 
 DECIMO PRIMERO.- El Reglamento Interior del Tribunal de Justicia Electoral del Poder Judicial del Estado, deberá ser expedido a más tardar el día último del mes de Marzo de 1998.
+
+P.O. 28 DE AGOSTO DE 1998.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+En un plazo de treinta días siguientes a la entrada en vigor, el Poder Judicial del Estado, deberá adecuar el marco jurídico interior reglamentario de sus órganos jurisdiccionales y administrativos.
