@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "1998-08-05"
+last_updated: "2000-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2000.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -285,13 +285,27 @@ El concurso de méritos se sujetará a las siguientes reglas:
 
 I.- Será convocado, previo acuerdo del Pleno, por el Secretario General y lo llevará a cabo una comisión designada por aquél;
 
-II.- Se invitará a las asociaciones de abogados del distrito judicial donde se suscitó la vacante;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2000)</small>
 
-III.- El Pleno, previo dictamen de la Comisión, decidirá quien deberá ser designado como titular del juzgado, para lo que deberá tomar en cuenta:
+II.- Se escuchará la opinión de las asociaciones de abogados del Distrito Judicial donde se genere la vacante, para lo cual oportunamente se les comunicará la lista de aspirantes y la fecha del examen.
 
-a).- La honradez, la responsabilidad, y la experiencia profesional de los concursantes, especialmente la que hubieran obtenido en cargos judiciales y en la administración pública;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2000)</small>
 
-b).- Los cursos aprobados en el Centro de Formación y Capacitación Judicial, así como sus demás antecedentes académicos, Y
+III.- Al examen que deba realizarse para elegir magistrados o jueces, se aplicarán las siguientes bases:
+
+a).- El Jurado formulará y entregará a los sustentantes una guía respecto de las materias o aspectos sobre los que versará el examen que deban presentar;
+
+b).- En el caso de la elección de magistrados, los miembros del Jurado Calificador que designe el Poder Judicial, serán magistrados de la materia afín a la que deba conocer la Sala que se concursa. Tratándose de la designación de jueces, el Jurado se integrará por magistrados de la materia que deba conocer el Juzgado que se concursa; y
+
+c).- Si alguno de los miembros del Jurado tiene relación laboral o de parentesco con cualquiera de los sustentantes se excusará de formar parte del Jurado que lo examine, nombrándose en su lugar al magistrado sustituto que para tal efecto se designará en su oportunidad;
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2000)</small>
+
+IV.- El Pleno, previo dictamen de la Comisión, decidirá quien deberá ser designado como titular del juzgado, para lo que deberá tomar en cuenta:
+
+a).- La honradez, la responsabilidad y la experiencia profesional de los concursantes, especialmente la que hubieran obtenido en cargos judiciales y en administración pública;
+
+b).- Los cursos aprobados en el Centro de Información y Capacitación Judicial, así como sus demás antecedentes académicos, y
 
 c).- La capacidad y aptitud demostrada en los exámenes que se les hubieran aplicado.
 
@@ -771,7 +785,9 @@ La ausencia absoluta y la temporal que exceda de veinte días naturales, será c
 
 Los efectos del nombramiento, en el caso de ausencia absoluta, durarán hasta que se corra el procedimiento establecido por la ley para la designación del nuevo titular y tome posesión del cargo. Tratándose de ausencia temporal, hasta que cese la causa que la motivó.
 
-### CAPITULO VI. DEL SECRETARIO GENERAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ENERO DE 2000)</small>
+
+### CAPITULO VI. DE LA SECRETARIA GENERAL
 
 ###### ARTICULO 69.
 
@@ -853,9 +869,13 @@ XXVII.- Vigilar, organizar y controlar en los términos señalados por el Pleno,
 
 XXVIII.- Las demás que le confieran las leyes.
 
-### CAPITULO VII. DEL OFICIAL MAYOR
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2000)</small>
 
-#### SECCION PRIMERA. De la Integración del Fondo
+### CAPITULO VII. DEL CONTROL Y SUPERVISION ADMINISTRATIVO
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE ENERO DE 2000)</small>
+
+#### SECCION PRIMERA. De la Oficialia Mayor
 
 ###### ARTICULO 75.
 
@@ -915,11 +935,99 @@ XV.- Realizar todo aquello que le encomiende el Presidente o el Secretario Gener
 
 XVI.- Los demás que le confieran las leyes.
 
-#### SECCION SEGUNDA. De la Organización y Funcionamiento
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE ENERO DE 2000)</small>
 
-#### SECCION TERCERA. Del Destino de los Recursos del Fondo
+#### SECCION SEGUNDA. De la Contraloría General del Poder Judicial
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+ARTICULO 78 a.- La Contraloría General del Poder Judicial del Estado es el órgano interno encargado de coordinar, supervisar y evaluar la actividad de las diversas áreas administrativas del Poder Judicial, estará a cargo de un Contralor General que será designado por el Pleno, a proposición del Presidente.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+ARTICULO 78 b.- La Contraloría General, a fin de garantizar y mantener su criterio independiente en la evaluación de las operaciones sujetas a su revisión no participará en la mecánica operativa de las otras áreas.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+ARTICULO 78 c.- Para ser Contralor General, se requiere:
+
+I.- Ser Licenciado en Derecho, con título debidamente expedido, con experiencia mínima de diez años;
+
+II.- Ser de reconocida solvencia moral; y
+
+III.- No haber sido condenado por delito intencional que amerite pena privativa de libertad.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+ARTICULO 78 d.- Para la consecución de sus objetivos, la Contraloría General contará con el personal que sea necesario para llevar a cabo su función y para organizar el personal que preste auxilio a los magistrados que deban realizar las visitas conforme a la Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+ARTICULO 78 e.- A la Contraloría General corresponde:
+
+I.- Controlar, inspeccionar, investigar, vigilar, supervisar y evaluar la actividad administrativa del Poder Judicial;
+
+II.- Formular y actualizar los manuales de organización del Poder Judicial;
+
+III.- Intervenir en las juntas del Comité de Adquisiciones, Arrendamientos, Servicios y Obra Pública, en calidad de asesor, con derecho a voz pero no a voto; y
+
+IV.- Atender los asuntos que directamente le encomiende el Pleno o el Presidente.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+ARTICULO 78 f.- La Contraloría, con autorización expresa del Presidente podrá contratar los servicios profesionales de despachos privados de contabilidad, auditoria y fiscalización para coadyuvar en el cumplimiento de sus tareas o para encomendarles en forma integral alguna o algunas acciones de la competencia de la propia Contraloría. En este caso, se establecerá que el contenido de las diligencias tiene carácter confidencial y que sus autores tienen la obligación de guardar el secreto profesional y sus resultados deberán informarse al Pleno del Tribunal por conducto del Presidente.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE ENERO DE 2000)</small>
+
+#### SECCION TERCERA. De la Visitaduría
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+ARTICULO 78 g.- Los magistrados realizarán, cuando menos una vez al año, visita de inspección a los distritos que por sorteo les corresponda. Para el cumplimiento de las visitas de inspección, contarán con un equipo de visitadores que les auxiliarán en las tareas que aquellos les encomienden y estarán bajo sus órdenes y disposición. Administrativamente serán coordinados por la Contraloría.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+ARTICULO 78 h.- Los visitadores, indistintamente, acompañarán a los magistrados en las visitas que conforme a la Ley éstos deban hacer a los juzgados y realizarán durante el tiempo que resulte necesario, todas las actividades y actuaciones relevantes para examinar dichas oficinas en los términos establecidos por esta Ley y su Reglamento. Una vez concluidas sus labores darán cuenta al magistrado de los resultados del examen, a fin de que éste informe al Pleno; igualmente informarán al Contralor para los efectos del registro de actividades que se realicen.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+ARTICULO 78 i.- Durante el desempeño de su actividad, el visitador, en ausencia del magistrado visitante, podrá tomar las medidas urgentes que sean necesarias para hacer cesar los efectos de un delito, prevenir el que trate de cometerse, corregir las irregularidades cometidas por los jueces en el ejercicio de su cargo y que puedan desprestigiar a la administración de justicia o causar grave perjuicio a un tercero.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+ARTICULO 78 j.- Los magistrados informarán con la debida oportunidad al Presidente del Tribunal de las visitas ordinarias de inspección que vayan a practicar, a fin de que éste ordene que se dé la debida publicidad a la visita con una anticipación mínima de ocho días naturales, para el efecto de que las personas interesadas puedan acudir a ella y manifestar sus quejas, denuncias o inconformidades.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+ARTICULO 78 k.- La designación de los visitadores se hará por el Pleno, a proposición del Presidente. El Pleno, mediante acuerdos generales, establecerá los sistemas que permitan evaluar de manera periódica el desempeño y la honorabilidad de los visitadores para los efectos del adecuado cumplimiento de sus funciones.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE ENERO DE 2000)</small>
+
+#### SECCION CUARTA. Del Departamento de Auditoria
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+ARTICULO 78 l.- La Contraloría General contará con un departamento de Auditoría Financiera y Contable, para desarrollar las funciones de control y vigilancia en la ejecución del Presupuesto autorizado por el Congreso y del Fondo Auxiliar para la Administración de Justicia. Dicho departamento estará a cargo de un jefe y contará con el personal necesario, quienes serán designados por el Presidente, con aprobación del Pleno.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+ARTICULO 78 m.- Para ser Jefe del Departamento se requiere:
+
+I.- Ser Contador Público con título debidamente expedido;
+
+II.- Tener una edad mínima de veinticinco años al día de su nombramiento;
+
+III.- Contar con experiencia profesional en el ramo, de por lo menos tres años;
+
+IV.- No haber sido condenado por delito intencional que amerite pena privativa de libertad.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+ARTICULO 78 n.- El departamento de Auditoria Financiera y Contable realizará las siguientes funciones:
+
+I.- Controlar, vigilar y evaluar conforme a la normatividad legal vigente, la aplicación del Presupuesto autorizado por el Congreso del Estado y del Fondo Auxiliar para la Administración de Justicia, realizando las revisiones y auditorias que la Contraloría General le encomiende; y
+
+II.- Formular y actualizar los manuales de organización en el ámbito de su competencia, que la Contraloría General le encomiende.
 
 ### CAPITULO VIII. DE LOS SECRETARIOS, NOTIFICADORES Y DEMAS FUNCIONARIOS Y EMPLEADOS DEL SUPREMO TRIBUNAL
 
@@ -1373,6 +1481,8 @@ Los Sicólogos, Trabajadores Sociales y demás empleados deberán realizar todas
 
 ### CAPITULO XIV. DEL DEPARTAMENTO DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA
 
+#### SECCION PRIMERA. De la Integración del Fondo
+
 ###### ARTICULO 135.
 
 El Poder Judicial se auxiliará para el mejor ejercicio de las funciones que la ley le confiere, de un fondo económico que se integrará de la siguiente manera:
@@ -1390,6 +1500,8 @@ d).- Los intereses provenientes de los depósitos que se efectúen conforme a la
 e).- Los bienes o valores que por cualquier medio adquiera en propiedad el Fondo; y
 
 II.- Elementos ajenos, constituidos por los depósitos que se exhiban por los particulares, por cualquier causa, ante los Tribunales Judiciales del Estado.
+
+#### SECCION SEGUNDA. De la Organización y Funcionamiento
 
 ###### ARTICULO 136.
 
@@ -1479,6 +1591,10 @@ Para amparar las cantidades recibidas se emitirán certificados pagaderos a la v
 
 Las cantidades que fueran recibidas por los conceptos a que se refieren los artículos anteriores, serán reintegrados al depositante o persona autorizada. El Reglamento determinará todo lo relativo a este artículo.
 
+#### SECCION TERCERA. Del Destino de los Recursos del Fondo
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 145.
 
 El patrimonio del fondo se destinará a:
@@ -1495,6 +1611,118 @@ III.- La adquisición de bienes inmuebles e inversión en obra pública necesari
 
 IV.- Sufragar los gastos de los servicios y estudios técnicos que se vinculen con los conceptos a que se refieren las fracciones anteriores y, en general, las erogaciones que el Pleno estime necesarias y convenientes para la buena marcha de la administración de justicia.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE ENERO DE 2000)</small>
+
+### CAPITULO XV. DEL DEPARTAMENTO DE INFORMATICA
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+ARTICULO 145 a.- El departamento de Informática, estará a cargo de un Coordinador quien se auxiliará de un Director y del personal técnico-administrativo que señale el presupuesto.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+ARTICULO 145 b.- El personal adscrito al departamento será designado por el Presidente con aprobación del Pleno. Para ser Coordinador se requiere:
+
+I.- Ser Licenciado en Derecho con conocimientos de Informática;
+
+II.- Tener una edad mínima de veinticinco años al día de su nombramiento;
+
+III.- Contar con experiencia profesional en el ramo de por lo menos tres años; y
+
+IV.- No haber sido condenado por delito intencional que amerite pena privativa de la libertad.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+ARTICULO 145 c.- El departamento dependerá de la Presidencia del Supremo Tribunal de Justicia, y tendrá como funciones las siguientes:
+
+I.- Diseñar programas y sistemas informáticos de apoyo a las funciones de todas las áreas del Poder Judicial que permitan su constante desarrollo;
+
+II.- Establecer políticas de seguridad sobre información, sistemas y programas informáticos;
+
+III.- Elaborar, capturar y actualizar el programa de estadística judicial;
+
+IV.- Capacitar específicamente a los usuarios del Poder Judicial, en los sistemas avanzados en informática;
+
+V.- Proporcionar mantenimiento preventivo y correctivo de todos los recursos informáticos;
+
+VI.- Establecer las características técnicas de los productos o servicios informáticos que se deseen adquirir, así como su aprobación a la recepción de los mismos;
+
+VII.- Mantener una actualización constante sobre los avances tecnológicos y científicos que pudieran ser aplicables en los programas de modernización del Poder Judicial;
+
+VIII.- Computarizar las acciones del Supremo Tribunal de Justicia en áreas de administración, contabilidad, recursos humanos, materiales y otros que se requieran;
+
+IX.- Capturar datos procedentes de los juzgados de primera instancia y de las Salas del Supremo Tribunal de Justicia, relativos a los diversos juicios, procedimientos y procesos que ante ellos se tramiten, con el fin de estar en posibilidad de efectuar un seguimiento de los mismos, por medio del sistema de computación; Para tal efecto, los titulares de las instancias referidas tendrán la obligación de proporcionar oportunamente la información correspondiente;
+
+X.- Proporcionar a través de los medios electrónicos necesarios y previo acuerdo del Pleno, con base en los registros computarizados que se obtengan, información actualizada del estado procesal de los juicios a aquellas personas que sean partes o que legalmente puedan tener acceso a los mismos;
+
+XI.- Mantener y conservar actualizados registros estadísticos de juicios y procedimientos por materia, por juzgados, por salas y por naturaleza específica;
+
+XII.- Elaborar y mantener actualizado el registro computarizado de todas aquellas actividades de apoyo al servicio de la administración de justicia, que se determine por la Presidencia del Supremo Tribunal de Justicia;
+
+XIII.- Apoyar al departamento correspondiente en la elaboración del Boletín Judicial en el que se publicarán las listas de acuerdos dictados por el Pleno, la Presidencia, las Salas y los Juzgados de Primera Instancia que el Pleno determine y aquellas otras actividades que la ley señale deban incluirse en dicho instrumento;
+
+XIV.- Auxiliar por medio del procesamiento de datos a la Oficialía Mayor y a los departamentos de Presupuesto y Control Presupuestal, en la elaboración de patrones-nómina, plantillas, recibos y remuneraciones que otorgue el Tribunal por concepto de servicios personales, incapacidades, licencias u otros;
+
+XV.- Auxiliar en la elaboración del registro de adquisiciones y de almacén con el fin de programar los requerimientos del Poder Judicial;
+
+XVI.- Auxiliar en la elaboración de inventarios de mobiliario y equipos del Poder Judicial, así como en la programación de las necesidades de mantenimiento y reposición de los bienes muebles e inmuebles en general;
+
+XVII.- Elaborar y actualizar los programas necesarios para llevar el control de los recursos de apelación interpuestos en contra de las sentencias de primera instancia, la distribución equitativa de los tocas entre las Salas respectivas y el seguimiento del trámite de cada uno de ellos hasta sentencia;
+
+XVIII.- Mantener al día la información estadística del número de delitos cometidos en el Estado y que hayan sido consignados a los Juzgados;
+
+XIX.- Mantener actualizado un registro con:
+
+a).- El número de procesos con detenido;
+
+b).- Los detenidos que obtuvieron libertad bajo caución;
+
+c).- Número e importe de las fianzas y depósitos otorgados, regresados o cancelados;
+
+d).- Ordenes de aprehensión cumplidas y sin cumplir;
+
+e).- Objetos del delito decomisados o devueltos a los interesados, perdidos o no remitidos con la consignación;
+
+f).- Número de sentencias dictadas por día, mes y año, en los Juzgados;
+
+g).- El control de bajas de los expedientes y de su remisión al archivo;
+
+h).- Los demás datos necesarios al efecto; y
+
+XX.- Las demás que el Pleno o el Presidente asignen.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+ARTICULO 145 d.- Para una mejor eficacia, el Presidente del Supremo Tribunal de Justicia, podrá autorizar el establecimiento de las oficinas del departamento que fueren necesarias, tanto en la capital del Estado como en los distritos judiciales que lo requieran, de acuerdo con las posibilidades presupuestales, determinando en su caso, los lugares en donde técnicamente sea conveniente establecerlas según las necesidades del servicio y el volumen de trabajo.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+ARTICULO 145 e.- La información que registre el Centro de Cómputo será exclusiva del Poder Judicial y sólo el Presidente podrá autorizar el conocimiento de la misma a terceros, cuando la ley así lo determine o lo estime necesario.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+ARTICULO 145 f.- Para el cumplimiento de las atribuciones y obligaciones que corresponden al departamento, se elaborarán los programas que se consideren pertinentes.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+ARTICULO 145 g.- El personal que integre el departamento de informática tendrán el carácter de empleados de confianza y la obligación de guardar el secreto profesional respecto a toda clase de información a que tenga acceso con motivo de su función. Su incumplimiento será motivo de sanción tanto administrativa como penal y se regirá en su estructura interna por las disposiciones que al efecto se contengan en el Reglamento de la Ley Orgánica.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+ARTICULO 145 h.- El personal del departamento dentro del horario de sus labores, únicamente podrá realizar aquéllas que específicamente tenga encomendadas a su adscripción.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+ARTICULO 145 i.- Para ser Director del departamento de informática se requiere:
+
+I.- Contar con una edad mínima de 25 años al día de su designación;
+
+II.- Tener título de Ingeniero en Sistemas Computacionales, Licenciatura en Informática u otro título afín a esta materia;
+
+III.- Contar con experiencia profesional en el ramo de por lo menos tres años; y
+
+IV.- No haber sido condenado por delito intencional que amerite pena privativa de libertad.
+
 ### CAPITULO I. DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
 > <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
@@ -1503,13 +1731,9 @@ IV.- Sufragar los gastos de los servicios y estudios técnicos que se vinculen c
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-### CAPITULO III. DE LOS JUZGADOS DE PAZ
-
 ## TITULO QUINTO. DE LOS JUZGADOS DEL ESTADO
 
-### CAPITULO IV. DISPOSICIONES COMUNES A LOS JUZGADOS DEL ESTADO
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+### CAPITULO III. DE LOS JUZGADOS DE PAZ
 
 ###### ARTICULO 146.
 
@@ -1615,7 +1839,7 @@ III.- Si hubiere varios Jueces de Primera Instancia del mismo ramo, asesorarán 
 
 IV.- Si el Juez asesor es lego, podrá excusarse de asesorar pasando el negocio al Juez Letrado que corresponda de acuerdo con las disposiciones anteriores.
 
-### CAPITULO I
+### CAPITULO IV. DISPOSICIONES COMUNES A LOS JUZGADOS DEL ESTADO
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -1725,7 +1949,9 @@ XV.- Tomar la protesta de ley a los Jueces de Paz de su adscripción; y
 
 XVI.- Conocer de los demás asuntos que les faculten las leyes.
 
-### CAPITULO II
+### CAPITULO I. DE LAS FALTAS
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 164.
 
@@ -1765,9 +1991,9 @@ VI.- De la concesión de licencias al personal del juzgado hasta por diez días,
 
 Cuando un Juez de Paz se inhiba del conocimiento de un asunto, pasará al Juez de Paz más cercano de acuerdo con las reglas fijadas para los Jueces de Primera Instancia para el efecto.
 
-### CAPITULO II. DE LOS PROCEDIMIENTOS Y LOS CONTRATOS
+### CAPITULO II. DEL PROCEDIMIENTO DE QUEJA PARA SANCIONAR LAS FALTAS
 
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 169.
 
@@ -1987,7 +2213,7 @@ La misma regla que señala el párrafo anterior, se seguirá para el caso de las
 
 ## TITULO OCTAVO. DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS Y EMPLEADOS DEL PODER JUDICIAL Y DEL PROCEDIMIENTO PARA SANCIONAR SUS FALTAS
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1994) (F. DE E., P.O. 4 DE FEBRERO DE 1995)
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
 
 ### CAPITULO I. DE LAS BASES Y PROCEDIMIENTO
 
@@ -1997,69 +2223,71 @@ La misma regla que señala el párrafo anterior, se seguirá para el caso de las
 
 Los funcionarios y empleados del Poder Judicial serán responsables de las faltas oficiales en que incurran, independientemente de la responsabilidad penal o patrimonial que les pudiera resultar.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2000)</small>
+
 ###### ARTICULO 196.
 
-Son faltas oficiales:
+Son faltas:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2000)</small>
 
-I.- Abandonar el cargo o empleo;
+I.- El abandono del cargo o empleo;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2000)</small>
 
-II.- Actuar reiteradamente con ineficiencia e indisciplina en su ejercicio;
+II.- Actuar con ineficiencia e indisciplina en el ejercicio del cargo o empleo;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2000)</small>
 
-III.- Disminuir, los jueces que hubieren obtenido inamovilidad, la calidad y eficiencia de sus labores;
+III.- Tratándose de jueces inamovibles, la sensible baja en la calidad, eficiencia y disciplina que muestren en el desempeño del cargo;
 
 IV.- Solicitar o recibir dádivas, agasajos, préstamos, obsequios u obtener cualquier clase de percepciones provenientes, directa o indirectamente, de alguna de las partes o de sus representantes, en negocio sometido a su conocimiento o en el que hayan de intervenir conforme a la ley;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2000)</small>
 
-V.- Revelar datos sobre los que deba guardar reserva con motivo de la función;
+V.- Revelar los asuntos reservados de que se tenga conocimiento con motivo del ejercicio del cargo o empleo, causando con ello perjuicio económico o moral a alguna persona;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2000)</small>
 
-VI.- Desobedecer órdenes de sus superiores;
+VI.- Desobedecer sistemática o injustificadamente las órdenes que reciban de sus superiores;
 
 VII.- Incurrir en faltas de probidad y honradez en el desempeño del cargo o empleo;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2000)</small>
 
-VIII.- Realizar actos de violencia contra los demás servidores públicos con motivo de circunstancias relacionadas con el servicio;
+VIII.- Realizar actos de violencia, amagos, malos tratamientos o expresar por escrito o verbalmente críticas ofensivas o injuriosas contra los superiores o compañeros o contra los familiares de unos u otros, dentro o fuera de las horas de servicio;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2000)</small>
 
-IX.- Dañar intencionalmente o por descuido bienes del Estado o incurrir en imprudencia grave que pudiera comprometerlos;
+IX.- Ocasionar daños o destruir intencionalmente o por descuido o negligencia edificios, obras, documentos, maquinaria y demás propiedad del Estado o comprometer la seguridad de éstos;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 X.- Presentarse de manera reiterada al desempeño de sus labores bajo el influjo de alcohol, tóxicos, narcóticos o enervantes;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2000)</small>
 
-XI.- No presentarse al desempeño de su función o empleo al expirar su licencia, sin causa justificada;
+XI.- No presentarse, sin causa justificada, al desempeño de la función o empleo, al expirar una licencia;
 
 XII.- Faltar por más de tres días, sin causa justificada, dentro de un período de treinta días naturales.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2000)</small>
 
-XIII.- Intervenir indebidamente como gestores en procedimientos judiciales o administrativos;
+XIII.- Obtener o tratar de obtener por el desempeño de su cargo o empleo, beneficios adicionales a las prestaciones que reciban con cargo al erario público;
 
 XIV.- Desempeñar algún otro empleo, cargo o comisión oficial o particular, que la ley prohiba;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2000)</small>
 
-XV.- Obtener copias o documentos de expedientes, si no mediare autorización;
+XV.- Obtener copias o testimonios de constancias o documentos que obren en los expedientes, si no es por orden superior o lo autoriza expresamente la ley;
 
 XVI.- Ocuparse de negocios extraños al desempeño de sus cargos o empleos durante las horas de despacho;
 
 XVII.- Demorar indebidamente el despacho de los negocios, ya sea por falta de cumplimiento de las obligaciones que imponen las leyes o de las que se deriven de las órdenes que con arreglo a las mismas reciban de sus superiores;
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2000)</small>
 
-XVIII.- No cumplir, de manera reiterada, con el horario de servicio;
+XVIII. Faltar sin causa justificada a sus respectivas oficinas, llegar tarde a ellas, no permanecer en el despacho durante el tiempo establecido por la ley o por el Pleno como horario de oficina o cerrar el despacho de su oficina, limitando indebidamente las horas de trabajo;
 
 XIX.- Autorizar a un subordinado a no asistir a sus labores sin causa justificada u otorgarle indebidamente permisos, licencias, comisiones con goce parcial o total de sueldo, sin que lo requiera la prestación del servicio;
 
@@ -2067,9 +2295,9 @@ XX.- Extraer o permitir que se extraigan, en los casos en que la ley no lo autor
 
 XXI.- No atender con la debida corrección y diligencia a los litigantes y al público en general;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2000)</small>
 
-XXII.- Observar conducta inmoral durante el desempeño de su cargo;
+XXII.- Observar conducta inmoral, dentro o fuera de las horas de trabajo;
 
 XXIII.- No informar a su superior jerárquico o al titular de su oficina, de todo acto u omisión de los funcionarios y empleados sujetos a su dirección y que puedan implicar inobservancias de las obligaciones propias del cargo o empleo;
 
@@ -2077,13 +2305,21 @@ XXIV.- Expedir con conocimiento de causa, nombramiento en favor de quien se encu
 
 XXV.- Dar tratos preferenciales a algunas personas con perjuicio de otras, sea cual fuere el motivo para ello; y
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2000)</small>
 
-XXVI.- Las demás infracciones a los deberes impuestos por la ley o sus reglamentos;
+XXVI.- Resolver contrariamente al sentido de las resoluciones vinculatorias pronunciadas por sus superiores;
 
-La autoridad que deba corregir la falta determinará la gravedad de la misma, de acuerdo con las circunstancias que mediaren en cada caso concreto.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2000)</small>
 
-Las faltas contempladas de las fracciones I a la XIII son graves y su comisión ameritará el cese inmediato y definitivo del infractor en su cargo o empleo, sin responsabilidad para el Estado. La gravedad de las contempladas en el resto de la (sic) fracciones, será calificada por la autoridad para la aplicación de las correcciones disciplinarias que correspondan.
+XXVII.- Las demás infracciones u omisiones en que incurran respecto de los deberes que les imponen las disposiciones legales relativas.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2000)</small>
+
+Las faltas contempladas en las fracciones I a la XIII son graves y su comisión ameritará el cese inmediato y definitivo del infractor en su cargo o empleo, sin responsabilidad para el Estado.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2000)</small>
+
+La gravedad de las contempladas en el resto de las fracciones, será calificada por la autoridad que corresponda para la aplicación de las correcciones disciplinarias.
 
 ###### ARTICULO 197.
 
@@ -2115,87 +2351,119 @@ V.- La reincidencia; y
 
 VI.- Las demás circunstancias que se deriven del caso concreto.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 199.
 
-Las faltas oficiales de los funcionarios y empleados del Poder Judicial se investigarán de oficio o a petición de parte y serán sancionadas:
+Las correcciones disciplinarias podrán imponerse de plano al percatarse la autoridad de las faltas cometidas por sus subalternos o a través del procedimiento de queja respectivo.
 
-I.- Por el Pleno, las imputables a los magistrados. En este caso el Presidente del Supremo Tribunal desahogará el trámite relativo hasta dejar el asunto en estado de resolución y, si la queja fuera contra él, el procedimiento estará a cargo de quien deba sustituirlo;
-
-II.- Por el Presidente del Supremo Tribunal, las que se atribuyan a los jueces de primera instancia, funcionarios y empleados que dependan de la Presidencia, así como a los demás de servidores públicos que no estuvieren señalados de manera expresa en este artículo;
-
-III.- Por el magistrado, las atribuidas a los funcionarios y empleados de la sala correspondiente;
-
-IV.- Por el juez de primera instancia las atribuidas a los jueces menores o de paz del distrito judicial correspondiente. En caso de haber varios jueces la facultad de corrección corresponderá al juez de la materia con menor número de asignación;
-
-V.- Por los jueces las faltas atribuidas a los funcionarios y empleados del juzgado.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 200.
 
-El funcionario o empleado a quien se hubiere impuesto alguna corrección disciplinaria podrá solicitar su revisión ante el Pleno, por escrito que presentará dentro de los tres días siguientes a la fecha en que quedó notificado. Si la sanción la decretó el Pleno, éste conocerá del recurso.
+Cuando se imponga de oficio una corrección disciplinaria, el afectado podrá impugnar la resolución promoviendo el recurso de revisión por escrito ante el Pleno dentro de los tres días siguientes al en que se tenga por notificado de dicha sanción. El Pleno, recabando los datos necesarios, resolverá en definitiva sobre la impugnación.
 
-La autoridad revisora recabará si lo juzga pertinente mayor información y su resolución será inimpugnable.
+Si la sanción la decretó el Pleno, el medio de impugnación será la reconsideración ante dicha autoridad.
 
 ###### ARTICULO 201.
 
 Los Encargados de las Dependencias Administrativas del Supremo Tribunal, podrán imponer correcciones disciplinarias a sus subalternos cuando cometan faltas que no sean graves; si lo son, darán cuenta al Presidente del Tribunal para que intervenga con arreglo a sus facultades a fin de imponer las medidas disciplinarias procedentes.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2000)</small>
+
 ###### ARTICULO 202.
 
-Siempre que el Pleno, los Magistrados, Jueces o Encargados de la Dependencias Administrativas del Supremo Tribunal, impongan correcciones disciplinarias, enviarán la constancia relativa e informe por escrito al Secretario General del Tribunal para que la comunicación se agregue al expediente del funcionario o empleado y, en su caso, se haga efectiva la sanción impuesta.
+Siempre que el Pleno, los magistrados, jueces o encargados de la dependencias administrativas del Supremo Tribunal, impongan correcciones disciplinarias, enviarán la constancia relativa a la Secretaría General del Tribunal para que se agregue al expediente del funcionario o empleado y, en su caso, se haga efectiva la sanción impuesta.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 203.
 
-El Pleno determinará si procede la suspensión en su cargo del servidor público que resulte procesado penalmente y decidirá si la sentencia condenatoria firme por delito ajeno a sus funciones amerita la cesación de su empleo.
+La sentencia ejecutoria que condene a un funcionario o empleado por la comisión de un delito intencional con motivo del ejercicio de su cargo o empleo, determinará su cese definitivo.
 
-> <small>(DEROGADO, P.O. 28 DE DICIEMBRE DE 1998)</small>
+Si en la causa penal aún no ha sido dictaminada la responsabilidad, se podrá, a juicio del Tribunal Pleno, suspender al funcionario o empleado por todo el tiempo que dure el procedimiento respectivo.
 
-### CAPITULO III. DE LAS INCONFORMIDADES
+Tratándose de delitos cometidos fuera del desempeño del cargo o empleo que puedan dañar seriamente la reputación o confianza que el funcionario o empleado requiera para el ejercicio de aquéllos, se aplicará, en lo conducente, lo dispuesto en el párrafo anterior.
+
+El Pleno determinará si la comisión de delitos imprudenciales o la privación de la libertad del funcionario o empleado por cualquier causa, son motivo de suspensión de los efectos de su nombramiento.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
+### CAPITULO II. DEL PROCEDIMIENTO DE QUEJA PARA SANCIONAR LAS FALTAS
 
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 204.
 
-El procedimiento de queja para sancionar las faltas oficiales se iniciará a petición de parte.
+El procedimiento de queja para sancionar las faltas se iniciará a petición de parte. La autoridad que deba conocer y resolver las quejas, las desechará de plano cuando se refieran específicamente a cuestiones procedimentales que deban combatirse a través de los recursos impugnatorios que establezca la ley.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 205.
 
-Cuando el Presidente del Supremo Tribunal de Justicia instruya el procedimiento disciplinario podrá ordenar la separación provisional del cargo del servidor público a quien se atribuya una falta grave, si así conviene para el desarrollo de la indagación. Una vez tomada tal determinación la comunicará de inmediato al Pleno quien decidirá si debe ratificarse.
+Las quejas por faltas de los funcionarios o empleados que a continuación se mencionan, se tramitarán y corregirán como sigue:
 
-Cuando otro funcionario sea el que lleve ese trámite sólo con la autorización del Presidente del Tribunal podrá adoptar la medida apuntada, que quedará sujeta finalmente a la revisión del Pleno.
+I.- Las cometidas por los magistrados, por el Pleno, presentándose ante el Presidente quien las tramitará hasta dejar el asunto en estado de resolución, salvo el caso previsto en el artículo 181 de la Constitución Política del Estado;
 
-(F DE E., P.O. 4 DE FEBRERO DE 1995)
+II.- Las de los jueces de primera instancia, por el Presidente del Tribunal;
 
-Si se levanta la suspensión al servidor público sometido a investigación, o no resulta responsable, se le restituirá en sus funciones y recibirá las percepciones económicas que le correspondan.
+III.- Los de los jueces menores y de paz, por el juez de primera instancia del distrito judicial correspondiente.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+En los distritos en que haya más de uno, el procedimiento se seguirá ante el juez de la materia con menor número de asignación;
+
+IV.- Las del Secretario General, Secretarios del Tribunal adscritos a la Presidencia y empleados de esta dependencia o de la Secretaría General, así como de Notificadores y Ministros Ejecutores, por el Presidente del Supremo Tribunal;
+
+V.- Los de los Secretarios y empleados adscritos a las Salas, por el magistrado de la adscripción;
+
+VI.- Las de los Secretarios de Acuerdos, Proyectistas y empleados adscritos a los Juzgados del Estado, por el juez de la adscripción;
+
+VII.- En los casos de las fracciones II a VI de este artículo, si a juicio del funcionario que conozca de la queja, se amerita el cese definitivo del infractor, dará cuenta al Pleno para que resuelva lo procedente; y
+
+VIII.- En los demás casos no previstos en las fracciones anteriores, por el Presidente del Tribunal.
+
+Cuando simultáneamente se hagan valer reclamaciones en contra de dos o más personas, sean funcionarios o empleados y el conocimiento de las mismas corresponda a dos o más autoridades, la de mayor jerarquía conocerá de todas ellas, aplicando las sanciones que procedan en cada caso.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 206.
 
-Las quejas de las personas afectadas, o de quienes las representen, en las que soliciten la imposición de alguna corrección disciplinaria contra un servidor público, se diligenciarán conforme a las siguientes reglas:
+Recibida la queja por el funcionario que deba tramitarla, si estima que se trata de un caso en que fácilmente se puede hacer cesar las irregularidades reclamadas, recabará informe por la vía más rápida y sugerirá a su subordinado que tome las medidas necesarias para ello.
 
-I.- Deberán formularse por escrito en el que el promovente relate, bajo protesta de decir verdad, los hechos que la motivaren;
+Informado el funcionario que conozca de la queja que han cesado las irregularidades reclamadas, podrá dar por concluido el procedimiento después de dar vista a la parte quejosa para que exprese lo que a su derecho convenga.
 
-II.- Se desecharán las que sean de manifiesta improcedencia;
+Si lo estima oportuno aplicará la corrección disciplinaria que considere adecuada.
 
-III.- Si el funcionario a quien se planteó la queja estima que se trata de un caso en que fácilmente pueden hacerse cesar las irregularidades reclamadas, recabará informe por la vía mas rápida y sugerirá a su subordinado tomar las medidas necesarias para ello. Si así fuere, dará por concluido el procedimiento y, si lo estima oportuno, se concretará a llamarle la atención verbalmente;
-
-IV.- En caso contrario, formará expediente y solicitará del órgano de autoridad contra quien se planteó la queja un informe que deberá rendir en diez días. En seguida se recibirán las pruebas ofrecidas en los escritos iniciales y las que el funcionario instructor considere oportunas. Luego, a la mayor brevedad, se emitirá la resolución, misma que será irrecurrible.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 207.
 
-Cuando simultáneamente se hagan valer reclamaciones en contra de dos o más personas, sean funcionarias o empleados y el conocimiento de las mismas corresponda a dos o más autoridades, la de mayor jerarquía conocerá de todas ellas, aplicando las sanciones que procedan en cada caso.
+Fuera de la hipótesis anterior, se formará expediente pidiendo el informe a la autoridad o persona contra quien se interpone, la cual deberá rendirlo dentro de un plazo que no excederá de cinco días a partir de la fecha en que reciba la notificación.
+
+La omisión en la remisión de tal informe traerá como consecuencia que se tengan por ciertos los hechos de la queja y se proceda a aplicar la corrección disciplinaria correspondiente.
+
+Recibido el informe, si el caso lo amerita, se abrirá una dilación probatoria que no excederá de diez días comunes a las partes.
+
+Las partes deberán ofrecer desde sus escritos iniciales, las pruebas que pretendan desahogar.
+
+Si el quejoso omite tal ofrecimiento, se declarará la queja sin materia.
+
+Concluida la dilación probatoria, dentro de los tres días siguientes se resolverá lo procedente.
+
+Sólo serán partes en el procedimiento de queja el funcionario, empleado o persona en contra de quien se elevó la queja y el promovente de la misma.
+
+En la notificación de las resoluciones, desahogo de pruebas y su calificación se aplicara lo que disponga al respecto el Código de Procedimientos Civiles.
+
+Contra las resoluciones tomadas en el procedimiento de queja y las que pongan fin al mismo, no cabrá recurso alguno.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 208.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1994)
+En cualquier momento, antes o después de la iniciación del procedimiento disciplinario, se podrá acordar la suspensión temporal del presunto infractor en su empleo o comisión, si así conviniera para el desarrollo de la investigación y resolución respectivos.
+
+La suspensión temporal no prejuzga sobre la determinación final que se tome.
+
+Si la persona en contra de quien se interpuso la queja no resulta responsable de la falta, será restituida en el goce de sus derechos y se le cubrirán las percepciones que debió recibir durante el término de la suspensión.
 
 ###### ARTICULO 209.
 
@@ -2210,6 +2478,10 @@ Cuando una queja se interponga sin fundamento y así se declare por la autoridad
 ## TITULO NOVENO. DE LAS ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL PODER JUDICIAL
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE AGOSTO DE 1998)</small>
+
+### CAPITULO III. DE LAS INCONFORMIDADES
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 211.
 
@@ -2239,7 +2511,7 @@ La comisión se integrará por un Magistrado designado por el Pleno; el Secretar
 
 La comisión ejercerá las atribuciones necesarias para el cumplimiento de su (sic) cometidos, bajo la supervisión y vigilancia de los órganos superiores.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 216.
 
@@ -2410,3 +2682,9 @@ UNICO.- El presente decreto entrará en vigor el día siguiente de su publicaci�
 P.O. 5 DE AGOSTO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE ENERO DE 2000.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos que se encuentren en trámite a la entrada en vigor de las reformas y adiciones que el Decreto contiene, se ajustarán a la nueva tramitación en cuanto el estado procesal de los mismos lo permita.
