@@ -4,7 +4,7 @@ identifier: "FED-ley-de-presupuesto-contabilidad-y-gasto-publico-federal-14"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1985-01-14"
+last_updated: "1986-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1976-12-30"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ENERO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1986.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 31 de diciembre de 1976
 
@@ -65,7 +65,9 @@ VII. Las empresas de participación estatal mayoritaria,
 
 VIII. Los fideicomisos en los que el fideicomitente sea el Gobierno Federal, el Departamento del Distrito Federal o alguna de las entidades mencionadas en las fracciones VI y VII.
 
-A los poderes, instituciones, dependencias, organismos, empresas y fideicomisos antes citados se les denominará genéricamente en esta ley como "entidades", salvo mención expresa.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+
+Sólo para los efectos de esta Ley, a las instituciones, dependencias, organismos, empresas y fideicomisos antes citados se les denominará genéricamente como "entidades", salvo mención expresa.
 
 ###### Artículo 3o.
 
@@ -131,19 +133,21 @@ El Presupuesto de Egresos de la Federación comprenderá las previsiones de gast
 
 El Presupuesto de Egresos de la Federación comprenderá también, en capítulo especial, las previsiones de gasto público que habrán de realizar las entidades relacionadas en las Fracciones VI a VIII del propio Artículo 2o. de esta Ley, que se determine incluir en dicho presupuesto.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 17.
 
 Para la formulación del Proyecto de Presupuesto de Egresos de la Federación, las entidades que deban quedar comprendidas en el mismo, elaborarán sus anteproyectos de presupuesto con base en los programas respectivos.
 
-Las entidades con excepción del Poder Judicial, remitirán su respectivo anteproyecto a la Secretaría de Programación y Presupuesto, con sujeción a las normas, montos y plazos que el Ejecutivo establezca por medio de la propia Secretaría.
+Las entidades remitirán su respectivo anteproyecto a la Secretaría de Programación y Presupuesto, con sujeción a las normas, montos y plazos que el Ejecutivo establezca por medio de la propia Secretaría.
 
-El Poder Judicial, a través de su órgano competente formulará su respectivo Proyecto de Presupuesto y lo enviará oportunamente al Presidente de la República para que ordene su incorporación al Proyecto de Presupuesto de Egresos de la Federación, atendiendo a las previsiones del ingreso y del gasto público federal.
+La Secretaría de Programación y Presupuesto queda facultada para formular el proyecto de presupuesto de las entidades, cuando no le sea presentado en los plazos que al efecto se les hubiere señalado.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 18.
 
-La Secretaría de Programación y Presupuesto queda facultada para formular el Proyecto de Presupuesto de las entidades, cuando no le sea presentado en los plazos que al efecto se les hubiere señalado.
+Los órganos competentes de las Cámaras de Diputados y de Senadores del Congreso de la Unión, así como de la Suprema Corte de Justicia de la Nación, atendiendo a las previsiones del ingreso y del gasto público federal, formularán sus respectivos proyectos de presupuesto y los enviarán oportunamente al Presidente de la República, para que éste ordene su incorporación al Proyecto de Presupuesto de Egresos de la Federación.
 
 ###### Artículo 19.
 
@@ -175,7 +179,7 @@ El Proyecto de Presupuesto de Egresos de la Federación y el del Departamento de
 
 ###### Artículo 21.
 
-Las proposiciones que hagan los miembros de la Cámara de Diputados para modificar el proyecto de presupuesto de egresos presentado por el Ejecutivo, serán sometidas desde luego a las comisiones respectivas. A ninguna proposición de esta índole se dará curso una vez iniciada la discusión de los dictámenes de las comisiones.
+(DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1986)
 
 ###### Artículo 22.
 
@@ -301,13 +305,15 @@ A su vez, la Secretaría de Programación y Presupuesto, proporcionará a la Sec
 
 La Secretaría de Programación y Presupuesto girará las instrucciones sobre la forma y términos en que las entidades deban llevar sus registros auxiliares y contabilidad y, en su caso, rendirle sus informes y cuentas para fines de contabilización y consolidación. Asimismo, examinará periódicamente el funcionamiento del sistema y los procedimientos de contabilidad de cada entidad y podrá autorizar su modificación o simplificación.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 43.
 
-Los estados financieros y demás información financiera, presupuestal y contable que emanen de las contabilidades de las entidades comprendidas en el Presupuesto de Egresos de la Federación serán consolidados por la Secretaría de Programación y Presupuesto, la que será responsable de formular la Cuenta Anual de la Hacienda Pública Federal y someterla a la consideración del Presidente de la República, para su presentación a la Comisión Permanente del Congreso de la Unión, en los términos del artículo 74 Constitucional, dentro de los diez primeros días de junio del año siguiente al que corresponda.
+Los estados financieros y demás información financiera, presupuestal y contable que emanen de las contabilidades de las entidades comprendidas en el Presupuesto de Egresos de la Federación serán consolidados por la Secretaría de Programación y Presupuesto, la que será responsable de formular la Cuenta anual de la Hacienda Pública Federal y someterla a la consideración del Presidente de la República para su presentación en los términos del párrafo sexto de la fracción IV del artículo 74 Constitucional.
 
-El Departamento del Distrito Federal formulará su cuenta pública anual, la que se someterá al Presidente de la República por conducto de la Secretaría de Programación y Presupuesto para los fines señalados en el párrafo anterior.
+Los órganos competentes de las Cámaras de Diputados y de Senadores del Congreso de la Unión, así como de la Suprema Corte de Justicia de la Nación, remitirán oportunamente los estados e información a que se refiere el párrafo anterior, al Presidente de la República, para que éste ordene su incorporación a la Cuenta anual de la Hacienda Pública Federal.
+
+El Departamento del Distrito Federal formulará su cuenta pública anual, la que se someterá al Presidente de la República por conducto de la Secretaría de Programación y Presupuesto para los fines señalados en el primer párrafo.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -458,3 +464,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a lo dispuesto por este Decreto.
+
+D.O.F. 26 DE DICIEMBRE DE 1986.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga el artículo 21 de la Ley de Presupuesto, Contabilidad y Gasto Público Federal.
+
+###### ARTICULO TERCERO.
+
+Se derogan las demás disposiciones que se opongan a lo dispuesto por el presente Decreto.
