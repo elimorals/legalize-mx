@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-secretaria-general-de-gobierno-12393"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-01-23"
-last_updated: "2003-12-28"
+last_updated: "2004-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE AGOSTO DE 2004 EN EL P.O. DEL ESTADO DE SAN LUIS POTOSÍ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2004.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de San Luis Potosí, el viernes 23 de enero de 1998.
 
@@ -43,85 +45,85 @@ La Secretaría General de Gobierno, como dependencia del Poder Ejecutivo del Est
 
 La Secretaría General de Gobierno adecuará y ejecutará sus programas de acuerdo con sus atribuciones y con los objetivos y metas del Plan Estatal de Desarrollo, con base en las políticas y prioridades que establezca el Gobernador del Estado.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE AGOSTO DE 2004 EN EL P.O. DEL ESTADO DE SAN LUIS POTOSÍ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2004)</small>
+
 ###### ARTICULO 3.
 
-Para el despacho de los asuntos de su competencia, la Secretaría General de Gobierno contará con los siguientes servidores públicos y unidades administrativas:
+Para el despacho de los asuntos de su competencia, la Secretaría General de Gobierno, contará con los siguientes servidores públicos y unidades administrativas:
 
 I.- El Secretario.
 
 II.- La Subsecretaría de Gobernación, integrada por:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2002)</small>
+La Dirección General de Gobernación, de la que a su vez dependen:
 
-La Dirección General de Gobernación de la que a su vez dependen:
+a).- La Dirección de Desarrollo Político; y
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2002)</small>
-
-a).- La Dirección de Desarrollo Político.
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2002)</small>
-
-b).- La Dirección de Trabajo y Previsión Social.
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2002)</small>
-
-c).- La Unidad Estatal de Protección Civil, y
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2002)</small>
-
-d).- La Dirección de Enlace Internacional.
+b).- La Dirección de Enlace Internacional.
 
 III.- La Subsecretaría Jurídica y de Servicios, integrada por:
 
 La Dirección General de Asuntos Jurídicos, de la que a su vez dependen:
 
-a).- La Dirección Jurídica,
+a).- La Dirección Jurídica;
 
-b).- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL, P.O. 28 DE DICIEMBRE DE 2003)
+b).- La Dirección del Periódico Oficial del Estado;
 
-c).- La Dirección del Notariado,
+c).- La Dirección del Notariado;
 
-d).- La Dirección del Registro Público de la Propiedad y de Comercio,
+d).- La Dirección del Registro Público de la Propiedad y de Comercio; y
 
-e).- La Dirección del Registro Civil y
-
-f).- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL, P.O. 28 DE DICIEMBRE DE 2003)
+e).- La Dirección del Registro Civil.
 
 IV.- La Subsecretaría de Prevención y Readaptación Social, integrada por:
 
 La Dirección General de Prevención y Readaptación Social, de la que a su vez dependen:
 
-a).- Las Direcciones de los Centros de Readaptación Social de la capital, así como los regionales y
+a).- Las Direcciones de los Centros de Readaptación Social de la capital, así como los regionales; y
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2003)</small>
+b).- El Consejo Central Tutelar de Menores Infractores, de quien a su vez depende:
 
-b).- El Consejo Central Tutelar de Menores Infractores de quien a su vez depende:
-
-1. La Dirección de Área, Escuela “Profesor Ángel Silva”
-
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2002)</small>
+1.- La Dirección de Área, Escuela “Profesor Ángel Silva”.
 
 V.- Las Coordinaciones para Asuntos Especiales en la Zona Huasteca, y en la Zona Altiplano.
 
-VI.- La Dirección General de Protección Social y Vialidad, integrada por
+VI.- La Dirección General de Seguridad Pública del Estado, integrada por:
 
-a).- La Dirección de Estado Mayor,
+a).- La Dirección de Estado Mayor;
 
-b).- La Dirección de Operación,
+b).- La Dirección de Operación;
 
-c).- La Dirección de Inspección General y (sic)
+c).- La Dirección de Inspección General;
 
-d).- La Dirección de la Academia de Policía.
+d).- La Academia de Seguridad Pública; y
 
-> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2003)</small>
+e).- La Dirección Zona Huasteca.
 
-e).- Dirección Zona Huasteca.
+VII.- La Unidad Estatal de Protección Civil, integrada por:
 
-VII.- La Dirección de Informática y Sistemas.
+La Dirección General de Protección Civil, de la que a su vez dependen:
 
-VIII.- La Coordinación General de Apoyo Administrativo.
+a).- La Dirección de Coordinación;
 
-IX.- La Contraloría Interna.
+b).- La Dirección de Operación;
+
+c).- La Dirección de Capacitación;
+
+d).- La Coordinación de Zona Altiplano;
+
+e).- La Coordinación de Zona Centro;
+
+f).- La Coordinación de Zona Media; y
+
+g).- La Coordinación de Zona Huasteca.
+
+VIII.- La Dirección de Informática y Sistemas;
+
+IX.- La Coordinación General de Apoyo Administrativo; y
+
+X.- La Contraloría Interna.
 
 ###### ARTICULO 4.
 
@@ -303,9 +305,9 @@ ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES Y DE AREA.
 
 ###### ARTICULO 13.
 
-Compete a la Dirección General de Gobernación las siguientes atribuciones:
+Competen a la Dirección General de Gobernación las siguientes atribuciones:
 
-I.- Intervenir, en apoyo y coordinación con las autoridades federales, en la aplicación de las leyes en materia de asociaciones religiosas y culto pública, de juegos y sorteos, de armas de fuego y explosivos, de población, así como en las campañas de prevención, combate y extinción de catástrofes públicas y contra el narcotráfico;
+I.- Intervenir, en apoyo y coordinación con las autoridades federales, en la aplicación de las leyes en materia de asociaciones religiosas y culto público, de juegos y sorteos, de armas de fuego y explosivos, de población, así como en las campañas de prevención, combate y extinción de catástrofes públicas y contra el narcotráfico;
 
 II.- Instrumentar, coordinar, vigilar y evaluar el Sistema Estatal de Protección Civil, así como los relativos a la prevención y restablecimiento de zonas afectadas en caso de desastre, incorporando en ellos a la comunidad;
 
@@ -415,9 +417,7 @@ XVI.- Formular y ejecutar programas de protección al salario; y
 
 XVII.- Las demás que le señalen las leyes, reglamentos, decretos, acuerdos y manuales aplicables, así como aquéllas que le confiera la Superioridad.
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2002)</small>
-
-ARTICULO 15 BIS.- La Unidad Estatal de Protección Civil contará con las atribuciones que la Ley de Protección Civil del Estado de San Luis Potosí le confiere.
+ARTICULO 15 BIS.- (DEROGADO, P.O. 28 DE AGOSTO DE 2004)
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 2002)</small>
 
@@ -751,11 +751,11 @@ VIII.- Participar en todas aquellas acciones que contribuyan a promover el desar
 
 IX.- Las demás que les asigne el Secretario General de Gobierno.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2004)</small>
 
 ###### ARTICULO 26.
 
-Competen a la Dirección General de Protección Social y Vialidad, la cual esta integrada con las Direcciones de Estado Mayor, de Operaciones de Inspección General, de la Academia de Policía y Dirección Zona Huasteca, las siguientes atribuciones:
+Competen a la Dirección General de Seguridad Pública, la cual se integra con las Direcciones de Estado Mayor, de Operaciones, de Inspección General, de la Academia de Seguridad Pública, y Dirección Zona Huasteca, las siguientes atribuciones.
 
 I.- Garantizar que los actos de los particulares se desarrollen dentro de los límites de respeto a la vida privada, a la paz y a la moral pública, así como prevenir la comisión de conductas antisociales y proteger los derechos de las personas;
 
@@ -814,6 +814,58 @@ XXVII.- Mantener en buen estado los dispositivos y señalamientos para el tráns
 XXVIII.- Despachar en forma expedita y simplificada los requerimientos de trámite que le presenten las personas físicas o morales en relación con el tránsito, registro, autorización y control de vehículos, así como las licencias para conducirlos; y
 
 XXIX.- Las demás que le señalen las leyes, reglamentos, decretos, acuerdos y manuales aplicables, así como aquéllas que le confiera la Superioridad.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2004)</small>
+
+ARTICULO 26 BIS.- Competen a la Unidad Estatal de Protección Civil, las siguientes atribuciones:
+
+I.- Identificar y diagnosticar los riesgos a los que está expuesta la Entidad y sus habitantes, y elaborar el atlas estatal de riesgos;
+
+II.- Elaborar, instrumentar, coordinar y operar el Programa Estatal de Protección Civil;
+
+III.- Actualizar sistemáticamente los programas de protección civil, en su coordinación y operatividad, y atender específicamente el desarrollo de cada uno de los siguientes programas:
+
+a).- Programa Estatal para la prevención de fenómenos meteorológicos;
+
+b).- Programa Estatal para la prevención de fenómenos químicos;
+
+c).- Programa Estatal para la prevención de fenómenos sanitarios;
+
+d).- Programa Estatal para la prevención de fenómenos de origen social, y
+
+e).- Programa Estatal para la Prevención de fenómenos geológicos;
+
+IV.- Elaborar los programas especiales de protección civil;
+
+V.- Formular y elevar a la consideración del Ejecutivo Estatal el proyecto de reglamento respectivo para su expedición, así como las reformas que en su caso se requieran;
+
+VI.- Instrumentar el sistema de seguimiento y autoevaluación del Programa Estatal de Protección Civil e informar al Consejo Estatal de Protección Civil sobre su funcionamiento y avance;
+
+VII.- Establecer y mantener la coordinación con las unidades municipales y con las dependencias, instituciones y organismos involucrados en tareas de protección civil;
+
+VIII.- Promover la participación e integración de grupos voluntarios al Sistema Estatal de Protección Civil;
+
+IX.- Promover el establecimiento de las unidades internas y programas de protección civil respectivos, en las dependencias oficiales y en las instituciones y organismos de los sectores social y privado en las que haya afluencia de público;
+
+X.- Establecer un sistema de información que comprenda los directorios de personas e instituciones, los inventarios de recursos humanos y materiales disponibles en caso de emergencia, así como los mapas de riesgos y archivos históricos sobre desastres ocurridos en la Entidad;
+
+XI.- Establecer un sistema de comunicación con organismos especializados que realicen acciones de monitoreo, para vigilar permanentemente la posible ocurrencia de fenómenos destructivos;
+
+XII.- En caso de emergencia, formular el análisis y evaluación primaria de la magnitud de la misma, presentando de inmediato esta información al Consejo Estatal y al Centro de Comunicaciones de la Dirección General de Protección Civil;
+
+XIII.- Establecer y coordinar el funcionamiento del Centro Estatal de Comando de Operaciones;
+
+XIV.- Establecer los mecanismos de comunicación tanto en situación normal como en caso de emergencia con el Centro de Comunicaciones de la Dirección General de Protección Civil;
+
+XV.- Promover la realización de cursos, ejercicios y simulacros que permitan mejorar la capacidad de respuesta de los participantes en los sistemas estatal y municipales;
+
+XVI.- Fomentar la creación de una cultura de protección civil a través de la realización de eventos y campañas de difusión;
+
+XVII.- Registrar y expedir el certificado de autorización para el funcionamiento de los grupos de voluntarios, bomberos, paramédicos, organizaciones civiles lucrativas y no lucrativas y demás organismos afines, indicando el número del grupo voluntario, sus actividades, sus integrantes y la adscripción autorizada;
+
+XVIII.- Las demás atribuciones que le asigne el Consejo Estatal de Protección Civil, así como las previstas en su reglamento; y
+
+XIX.- Las demás atribuciones que disponga la Ley General de Protección civil, La Ley Estatal de Protección Civil, y demás normatividad aplicable.
 
 ###### ARTICULO 27.
 
@@ -1016,3 +1068,17 @@ Por lo que corresponde a la Dirección del Trabajo y Previsión Social a partir 
 ###### ARTICULO TERCERO
 
 Se derogan las fracciones b) y f) del artículo 3° y 21 Bis del Reglamento Interior de la Secretaría General de Gobierno.
+
+P.O. 28 DE AGOSTO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los recursos humanos, materiales, financieros, bienes muebles e inmuebles y, en general, el patrimonio que tiene asignado la Procuraduría de la Defensa del Trabajo y la Dirección del Trabajo y Previsión Social, con que contaba en la Secretaría General de Gobierno, pasarán a integrarse a la Secretaría del Trabajo y Previsión Social, para lo cual se instruye a la Oficialía Mayor para que haga los trámites para lograr tal propósito.
+
+De igual forma, los recursos humanos, materiales, financieros, bienes muebles e inmuebles y, en general, el patrimonio que tiene asignado la Dirección de Protección Civil, pasarán a formar parte de la Dirección General de Protección Civil.
+
+TERCERO.- Para los efectos del artículo anterior, los recursos humanos, materiales, financieros, bienes muebles e inmuebles y, en general, el patrimonio que tiene asignado la Procuraduría de la Defensa del Trabajo y Previsión Social, la Dirección del Trabajo y Previsión Social, y la Dirección de Protección Civil que se encuentran comisionados o bajo resguardo de alguna otra dependencia o entidad, deberán pasar a la Secretaría del Trabajo y Previsión Social, las dos primeras y a la Dirección General de Protección Civil, la tercera de ellas, dentro del término de un mes, contado a partir de la entrada en vigor del presente decreto.
+
+CUARTO.- Para efectos de establecer la normatividad interna de la Dirección General de Protección Civil, se concede un plazo que no deberá exceder de dos meses a partir de la entrada en vigor del presente decreto, para expedir su Reglamento Interior.
+
+QUINTO.- Se derogan todas las disposiciones legales de igual o menor rango que se opongan a la entrada en vigor del presente decreto.
