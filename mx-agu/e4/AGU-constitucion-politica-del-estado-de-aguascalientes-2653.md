@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2005-03-21"
+last_updated: "2005-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2005.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -83,7 +83,7 @@ La propiedad privada se respetará y garantizará en el Estado, con las modalida
 
 La educación es un derecho de todas las personas que atiende a las necesidades de su desarrollo y un proceso colectivo de interés general y público.
 
-Es deber jurídico del Estado y sus Municipios impartir la educación preescolar, primaria y secundaria, de conformidad con los principio de universalidad, gratuidad y laicidad.
+Es deber jurídico del Estado y sus Municipios impartir la educación preescolar, primaria y secundaria, de conformidad con los principios de universalidad, gratuidad y laicidad.
 
 El Estado deberá además promover y atender la educación media, la educación superior y otras modalidades educativas, como la formación y capacitación para el trabajo, la educación de adultos y la educación especial.
 
@@ -723,9 +723,9 @@ Son facultades y obligaciones del Gobernador:
 
 I.- Promulgar y ejecutar las Leyes que expida el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia.
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2005)</small>
 
-II.- Presentar cada año al Congreso del Estado a más tardar el 31 de octubre los proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, excepto cuando el Gobernador inicie su encargo en la fecha prevista en el Artículo 41, en cuyo caso el Gobernador entrante entregará los proyectos a más tardar el 15 de diciembre, mismos que deberán incluir: los ingresos que de sus actividades generen las dependencias definidas como tales en la Ley Orgánica de la Administración Pública del Estado, los organismos paraestatales, organismos autónomos, empresas de participación mayoritaria y fideicomisos pertenecientes a la Administración Pública Descentralizada del Gobierno del Estado; los presupuestos de egresos de cada uno de éstos y sus programas, debiendo comparecer el Secretario de Finanzas y Administración ante el Pleno y Comisiones a dar cuenta del mismo, y si lo considera conveniente la Comisión de Vigilancia de la Contaduría Mayor de Hacienda, también deberán comparecer ante ésta, los responsables del gasto de los Poderes del Estado, así como de los organismos y dependencias.
+II.- Presentar cada año al Congreso del Estado a más tardar el 31 de octubre los proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, excepto cuando el Gobernador inicie su encargo en la fecha prevista en el Artículo 41, en cuyo caso el Gobernador entrante entregará los proyectos a más tardar el 15 de diciembre, mismos que deberán incluir: los ingresos que de sus actividades generen las dependencias definidas como tales en la Ley Orgánica de la Administración Pública del Estado, los organismos paraestatales, organismos autónomos, empresas de participación mayoritaria y fideicomisos pertenecientes a la Administración Pública Descentralizada del Gobierno del Estado; los presupuestos de egresos de cada uno de éstos y sus programas, debiendo comparecer el Secretario de Finanzas ante el Pleno y Comisiones a dar cuenta del mismo, y si lo considera conveniente la Comisión de Vigilancia de la Contaduría Mayor de Hacienda, también deberán comparecer ante ésta, los responsables del gasto de los Poderes del Estado, así como de los organismos y dependencias;
 
 III.- (DEROGADA, P.O. 29 DE OCTUBRE DE 2001)
 
@@ -749,7 +749,9 @@ VIII.- Concertar empréstitos en los términos de la fracción IV del Artículo 
 
 IX.- Ejercer actos de dominio sobre los bienes de la propiedad del Estado, con autorización del Congreso, tratándose de inmuebles.
 
-X.- Nombrar y remover al Secretario General de Gobierno, al Secretario de Finanzas y Administración, y a los demás servidores públicos del Poder Ejecutivo Estatal; así como al Procurador General de Justicia del Estado cuyo nombramiento será ratificado por el Congreso del Estado.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2005)</small>
+
+X.- Nombrar y remover al Secretario General de Gobierno, al Secretario de Finanzas y a los demás servidores públicos del Poder Ejecutivo Estatal; así como al Procurador General de Justicia del Estado cuyo nombramiento será ratificado por el Congreso del Estado.
 
 XI.- Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales.
 
@@ -995,11 +997,11 @@ CAPITULO DECIMOCUARTO
 
 De la Hacienda Pública.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
 
 ###### Artículo 63.
 
-La Hacienda Pública se compone de los bienes y derechos pertenecientes al Estado y de las contribuciones que el Congreso decreta. Su administración estará a cargo del Ejecutivo y de la Secretaría de Finanzas y Administración; y de los Poderes Legislativo y Judicial, quienes serán responsables de su manejo en el ámbito de sus competencias.
+La Hacienda Pública se compone de los bienes y derechos pertenecientes al Estado y de las contribuciones que el Congreso decreta. Su administración estará a cargo del Ejecutivo y de la Secretaría de Finanzas, y de los Poderes Legislativo y Judicial, quienes serán responsables de su manejo en el ámbito de sus competencias.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1045,7 +1047,7 @@ En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absolu
 
 Para ser Presidente Municipal, Regidor o Síndico de un Ayuntamiento se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento, en ejercicio de sus derecho.
+I.- Ser ciudadano mexicano por nacimiento, en ejercicio de sus derechos.
 
 II.- Tener 18 años cumplidos el día de la elección; y
 
@@ -1377,7 +1379,7 @@ Por tanto, mando se imprima, publique por bando y se circule para los fines cons
 
 Sancionada en Aguascalientes, capital del Estado del mismo nombre, a los seis días del mes de septiembre de mil novecientos diecisiete.- Aurelio L. González.- Lic. A. Delgado, Srio.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
 
 P.O. 25 DE JUNIO DE 1919.
 
@@ -1865,7 +1867,7 @@ SEGUNDO.- Los Magistrados del Supremo Tribunal de Justicia actualmente en funcio
 
 TERCERO.- Los Jueces de Primera Instancia actualmente en funciones, que no resulten ascendidos en la carrera judicial, a la conclusión de su encargo, deberán sustituirse de manera sucesiva, en el orden que decida el Consejo de la Judicatura Estatal.
 
-CUARTO.- Con el fin de proveer una salida e ingreso alternado de los actuales Magistrados del Supremo Tribunal de Justicia del Estado, por única ocasión y al terminar su encargo de diez años, los dos magistrados mas antiguos en el Poder Judicial serán sustituidos. Cada seis meses se aplicará el mismo procedimiento hasta completar la renovación total de los actuales magistrados.
+CUARTO.- Con el fin de proveer una salida e ingreso alternado de los actuales Magistrados del Supremo Tribunal de Justicia del Estado, por única ocasión y al terminar su encargo de diez años, los dos magistrados más antiguos en el Poder Judicial serán sustituidos. Cada seis meses se aplicará el mismo procedimiento hasta completar la renovación total de los actuales magistrados.
 
 P.O. 11 DE NOVIEMBRE DE 2002.
 
@@ -1932,3 +1934,9 @@ P.O. 21 DE MARZO DE 2005.
 ###### ARTICULO UNICO.
 
 El presente decreto entrara en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE ABRIL DE 2005.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrara en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
