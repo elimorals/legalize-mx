@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1960-12-08"
+last_updated: "1965-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE DICIEMBRE DE 1960.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE ENERO DE 1965.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -14713,11 +14713,13 @@ ARTICULO 2950
 
 El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
 
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 1965)</small>
+
 ARTICULO 2951
 
-Una vez que se firme una escritura en que se adquiera, transmita, modifique o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el notario que la autorice dará al Registro un aviso en el que conste la finca de que se trate, la indicación de que se ha transmitido o modificado su dominio o se ha constituído, transmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo y sección en que estuviere inscripta la propiedad en el Registro. El registrador, con el aviso del notario y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro del mes siguiente a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efectos contra tercero desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
+Una vez que se firme una escritura en que se adquiera, transmita, modifique o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el Notario que la autorice dará al Registro un aviso en el que conste la finca de que se trata, la indicación de que se ha transmitido o modificado su dominio o se ha constituído transmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo y sección en que estuviere inscrita la propiedad en el Registro. El Registrador, con el aviso del Notario y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro de los noventa días siguientes a la fecha en que se hubiere firmado la escritura, se presentare el testimonio respectivo, su inscripción surtirá efectos contra tercero desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
 
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberán dar el aviso a que este artículo se refiere, las autoridades de que habla la fracción III del artículo 2944, y el mencionado aviso producirá los mismos efectos que el dado por el notario.
+Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberán dar el aviso a que este artículo se refiere, las Autoridades de que habla la fracción III, del artículo 2944 y el mencionado aviso producirá los mismos efectos que el dado por el Notario.
 
 ARTICULO 2952
 
@@ -15042,3 +15044,9 @@ Esta Ley comenzará a surtir sus efectos legales, a partir del día siguiente de
 G.O. 8 DE DICIEMBRE DE 1960.
 
 UNICO.- Esta Ley comenzará a surtir sus efectos a partir del 1° de marzo de 1961.
+
+G.O. 28 DE ENERO DE 1965.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor, a partir del día siguiente al de su publicación en la "Gaceta Oficial" del Estado.
