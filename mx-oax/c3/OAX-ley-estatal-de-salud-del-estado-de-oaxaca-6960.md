@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2004-04-12"
+last_updated: "2005-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -2957,11 +2957,11 @@ El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones q
 
 La vigilancia sanitaria se realizará mediante visitas de verificación a cargo de personal expresamente autorizado por la autoridad sanitaria estatal competente, el cual deberá realizar las respectivas diligencias de conformidad con las prescripciones de esta Ley y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 299.
 
-Las autoridades sanitarias competentes en el Estado podrán encomendar a sus verificadores, además, actividades de orientación, educativas y aplicación, en su caso, de las medidas de seguridad a que se refieren las fracciones VII, VIII y IX del artículo 277 de esta Ley.
+Las autoridades sanitarias competentes en el Estado podrán encomendar a sus verificadores, además, actividades de orientación, educativas y aplicación, en su caso, de las medidas de seguridad a que se refieren las fracciones VII, VIII y IX del artículo 308 de esta Ley.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3199,13 +3199,15 @@ V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
 Se sancionará con multa hasta mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 48, 49, 74, 89, 109, 110, 111, 123, 164, 165, 169, 171, 174, 178, 181, 187, 193, 194, 195, 197, 209, 241, 262 y 263 de esta Ley.
 
-La violación de las disposiciones en los artículos 270 y 284 de esta Ley, se sancionará con multa equivalente de cincuenta hasta quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+La violación de las disposiciones en los artículos 301 y 315 de esta ley, se sancionará con multa equivalente de cincuenta hasta quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 323.
 
-Se sancionará con multa de mil hasta cuatro mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación a las disposiciones contenidas en los artículos 101, 113, 119, 177, 180, 184, 203, 207, 223, 226, 238, 270 y 284 de esta Ley.
+Se sancionará con multa de mil hasta cuatro mi veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación a las disposiciones contenidas en los artículos 101, 113, 119, 177, 180, 184, 203, 207, 223, 226, 238, 301 y 315 de esta Ley.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3213,11 +3215,11 @@ Se sancionará con multa de mil hasta cuatro mil veces el salario mínimo genera
 
 Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 62, 87, 88 y 102 de esta Ley.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 325.
 
-Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo a las reglas de calificación que se establecen en el artículo 290 de esta Ley.
+Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo a las reglas de calificación que se establecen en el artículo 321 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3311,11 +3313,11 @@ X.- Jerarquía; y
 
 XI.- Buena fe.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 333.
 
-La Secretaría de Salud del Estado y los municipios, con base en los resultados de la visita o del informe de verificación a que se refiere el artículo 272 de esta Ley podrán dictar las medidas para corregir las irregularidades que se hubieren encontrado en los establecimientos a que se refiere la fracción XVIII del artículo 4°, apartado "A", así como los establecimientos y servicios a que se refiere el apartado "B" del mismo artículo de esta Ley, notificándolas al interesado y dándole un plazo adecuado para su realización.
+La Secretaria de Salud del Estado y los municipios, con base en los resultados de la visita o del informe de verificación a que se refiere el artículo 303 de esta Ley podrán dictar las medidas para corregir las irregularidades que se hubieran encontrado en los establecimientos a que se refiere la fracción XVIII del articulo 4°, apartado “A”, así como los establecimientos y servicios a que se refiere el apartado “B” del mismo artículo de esta Ley, notificándolas al interesado y dándole un plazo adecuado para su realización.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3343,11 +3345,11 @@ El cómputo de los plazos que señale la autoridad sanitaria competente para el 
 
 Una vez oído el presunto infractor o a su representante legal y desahogadas las pruebas que ofreciere y fueren admitidas, se procederá dentro de los cinco días hábiles siguientes a dictar por escrito, la resolución que proceda, la cual será notificada en forma personal o por correo certificado con acuse de recibo al interesado o a su representante legal.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 338.
 
-En caso de que el presunto infractor no compareciera dentro del plazo fijado por el artículo 304 se procederá a dictar, en rebeldía, la resolución definitiva y a notificarla personalmente o por correo certificado con acuse de recibo.
+En caso de que el presunto infractor no compareciera dentro del plazo fijado por el artículo 335 se procederá a dictar, en rebeldía, la resolución definitiva y a notificarla personalmente o por correo certificado con acuse de recibo.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3562,3 +3564,7 @@ TERCERO.- Se derogan todas aquellas disposiciones de igual o menor rango que con
 P.O. 12 DE ABRIL DE 2004.
 
 EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+
+P.O. 22 DE MARZO DE 2005.
+
+UNICO.-EI presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
