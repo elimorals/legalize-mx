@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1993-07-28"
+last_updated: "1994-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 1994.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -173,11 +173,39 @@ En los juicios del orden criminal nunca se impondrá por simple analogía ni aú
 
 En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra o a la interpretación jurídica de la ley, y en su deficiencia, ésta se fundará en los principios generales de derecho
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
 ###### ARTICULO 24.
 
-A nadie se afectará en su persona, familia, domicilio, papeles o posesiones, sino por mandamiento escrito de autoridad competente, que funde y motive la causa legal del procedimiento. No podrálibrarse (sic) orden de aprehensión o detención excepto por la autoridad judicial sin que preceda denuncia, acusación o querella de un hecho concreto castigado por la ley con pena corporal y sin estar apoyadas por declaración, bajo protesta, de persona digna de fe o por otros datos que hagan probable la responsabilidad del inculpado, hecha exclusión de los casos de flagrante delito en que cualquier persona puede aprehender al delincuente y a sus cómplices, para ponerlos sin demora a disposición de la autoridad inmediata.
+A nadie se afectará en su persona, familia, domicilio, papeles o posesiones, sino por mandamiento escrito de la autoridad competente que funde y motive la causa legal del procedimiento.
 
-Solamente en casos urgentes, cuando no haya en el lugar ninguna autoridad judicial y se trate de delitos perseguidos de oficio, podrála(sic) autoridad administrativa, bajo su más estrecha responsabilidad, decretar la detención de un acusado poniéndolo de inmediato a disposición de la autoridad judicial. En toda orden de cateo, que sólo la autoridad judicial podrá expedir, y por escrito, se expresaráel(sic) lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos buscados, a lo que únicamente debe limitarse la diligencia, levantándose al concluirla, un acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado, o en su ausencia o negativa, por la autoridad que practique la diligencia.
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+No podrá librarse orden de aprehensión o detención excepto por la autoridad judicial y sin que preceda denuncia, acusación o querella de un hecho determinado que, la ley señale como delito sancionado cuando menos con pena privativa de libertad, y existan datos que acrediten los elementos que integran el tipo penal y la probable responsabilidad del indiciado.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+La autoridad que ejecute una orden judicial de aprehensión, deberá poner al inculpado a disposición del juez sin dilación alguna y bajo su más estricta responsabilidad. La contravención a lo anterior será sancionado por la ley penal.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+En los casos de delito flagrante, cualquier persona puede detener al indiciado poniéndolo sin demora a disposición de la autoridad inmediata y ésta, con la misma prontitud, a la del Ministerio Público.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+Sólo en casos urgentes y cuando se trate de delito grave así calificado por la ley y ante el riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público podrá, bajo su responsabilidad, ordenar su detención, fundando y expresando los indicios que motiven su proceder.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+En casos de urgencia o flagrancia, el juez que reciba la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de ley.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+Ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial. Este plazo podrá duplicarse en aquellos casos que la ley prevea como delincuencia organizada. Todo abuso a lo anteriormente dispuesto, será sancionado por la ley penal.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+En toda orden de cateo, que sólo la autoridad judicial podrá expedir, y por escrito, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos buscados, a lo que únicamente debe limitarse la diligencia, levantándose al concluirla un acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado, o en su ausencia o negativa, por la autoridad que practique la diligencia.
 
 La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía, y exigir la exhibición de los libros y papeles indispensables para comprobar que han sido acatadas las disposiciones fiscales, sujetándose en estos casos a las leyes respectivas y a las formalidades prescritas para los cateos.
 
@@ -191,31 +219,45 @@ Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. E
 
 El Gobierno del Estado organizará el sistema penal sobre la base del trabajo, la capacitación para el mismo y la educación, como medios para la readaptación social del delincuente. Las mujeres compurgarán sus penas en lugares separados de los destinados a los varones para tal efecto. Asimismo, establecerá instituciones especiales para el tratamiento de menores infractores.
 
-> <small>(F. DE E., P.O. 13 DE ENERO DE 1975)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 27.
 
-En ningún caso, una detención podrá exceder del término de tres días, sin justificar su prolongación mediante auto de formal prisión en el que se exprese el delito imputado al acusado, los elementos que constituyen aquél lugar, tiempo y circunstancias de ejecución, y los datos que arroje la averiguación previa. Estos deberán ser bastantes para comprobar el cuerpo del delito y hacer probable la punibilidad (sic) del acusado. La contravención de esta disposición hace responsable a la autoridad que ordene la detención o la consienta, y a los agentes, alcaldes o carceleros que la ejecuten. Todo proceso se seguirá atendiendo únicamente al delito o delitos referidos en el auto de formal prisión. Si en la secuela del proceso apareciere que se ha cometido un delito distinto del que se persigue, deberá aquél ser objeto de acusación separada sin perjuicio de que después pueda decretarse la acumulación si fuere conducente.
+En ningún caso, una detención ante autoridad judicial podrá exceder del término de setenta y dos horas, computadas a partir de que el indiciado sea puesto a su disposición, sin justificar su prolongación mediante auto de formal prisión y siempre que en lo actuado aparezcan datos suficientes que acrediten los elementos del tipo penal del delito que se impute al detenido y hagan probable la responsabilidad de éste. La prolongación de la detención en perjuicio del inculpado será sancionada por la ley penal.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+Los custodios que no reciban la copia autorizada del auto de formal prisión dentro del plazo antes señalado, deberán llamar la atención del juez sobre dicho particular en el acto mismo de concluir el término, y si no reciben la constancia mencionada dentro de las tres horas siguientes, pondrán en libertad al inculpado.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+Todo proceso se seguirá forzosamente por el o los delitos señalados por el auto de formal prisión o de sujeción a proceso. Si en la secuela de un proceso apareciera que se ha cometido un delito distinto del que se persigue, deberá ser objeto de averiguación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
 
 Todo maltratamiento en la aprehensión o en las prisiones, toda molestia que se infiere sin motivo legal, toda gabela o contribución impuestas en las cárceles, son abusos que serán corregidos por las leyes y reprimidos por las autoridades.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
 ###### ARTICULO 28.
 
-En todo juicio del orden criminal tendrá el acusado las siguientes garantías:
+En todo proceso de orden penal, tendrá el inculpado las siguientes garantías:
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
-I.- Inmediatamente que lo solicite será puesto en libertad provisional bajo caución, que fijará el juzgador, previstas sus circunstancias personales y la gravedad del delito que se le impute, siempre que dicho delito, incluyendo sus modalidades, merezca ser castigado con pena cuyo término medio aritmético no sea mayor de cinco años de prisión y sin más requisitos que poner la suma de dinero respectiva, a disposición de la autoridad judicial u otorgar otra caución bastante para asegurarla, bajo la responsabilidad del juzgador en su aceptación.
+I.- Inmediatamente que lo solicite, el juez o tribunal deberá otorgarle la libertad provisional bajo caución, siempre y cuando se garantice el monto estimado de la reparación del daño y de las sanciones pecuniarias que en su caso puedan imponerse al inculpado y no se trate de delitos en que por su gravedad la ley expresamente prohiba conceder este beneficio.
 
-La caución no excederá de la cantidad equivalente a la percepción durante dos años del salario mínimo general vigente, en el lugar en que se cometió el delito. Sin embargo, la autoridad judicial, en virtud de la especial gravedad del delito, las particulares circunstancias personales del imputado o de la víctima, mediante resolución motivada, podrá incrementar el monto de la caución hasta la cantidad equivalente a la percepción durante cuatro años del salario mínimo vigente en el lugar en que se cometió el delito.
+El monto y la forma de caución que se fije deberán ser asequiables (sic) para el inculpado. En circunstancias que la ley determine, la autoridad judicial podrá disminuir el monto de la caución inicial.
 
-Si el delito es intencional y representa para su autor un beneficio económico o causa a la víctima daño y perjuicio patrimonial, la garantía será cuando menos tres veces mayor al beneficio obtenido o a los daños y perjuicios patrimoniales causados. Si el delito es preterintencional o imprudencial, bastará que se garantice la reparación de los daños y perjuicios patrimoniales, y se estará a lo dispuesto en los dos párrafos anteriores.
+El juez podrá revocar la libertad provisional cuando el procesado incumpla en forma grave con cualquiera de las obligaciones que en términos de ley se deriven a su cargo en razón del proceso.
 
-II.- No podrá ser compelido a declarar en su contra, por lo cual estáprohibida (sic) la incomunicación o cualquier otro medio que tienda a aquel objeto.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+II.- No podrá ser obligado a declarar. Queda prohibida y será sancionada por la ley penal toda incomunicación, intimidación o tortura. La confesión rendida ante cualquier autoridad distinta del Ministerio Público o del Juez, o ante éstos sin la asistencia de su defensor, carecerá de todo valor probatorio.
 
 III.- Se le hará saber en audiencia pública y dentro de las cuarenta y ocho horas siguientes a su consignación a la justicaia (sic), el nombre de su acusador y la naturaleza y causa de la acusación, a efecto de que conozca con amplitud el hecho punible que se le atribuye y pueda contestar al cargo, rindiendo en este acto su declaración preparatoria.
 
-IV.- Será careado con los testigos que depongan en su contra, los que declararán en su presencia si estuvieren en el lugar del juicio, para que estéen (sic) condición de hacerles todas las preguntas conducentes a su defensa.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+IV.- Siempre que lo solicite, será careado en presencia del juez con quienes depongan en su contra.
 
 V.- Se le recibirán los testigos y demás pruebas que ofrezca, concediéndosele para esto el tiempo que la ley determine necesario y se le auxiliará para lograr la comparecencia de las personas cuyo testimonio solicite, siempre que se encuentren en el lugar del proceso.
 
@@ -225,17 +267,27 @@ VI.- Será juzgado en audiencia pública por un juez o jurado de ciudadanos que 
 
 VII.- Le serán facilitados todos los datos que solicite para su defensa y que consten en el proceso.
 
-VIII.- Será juzgado antes de cuatro meses si se tratase de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena máxima excediera de ese tiempo.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
-IX.- Se le oirá en defensa por sí o por personas de su confianza, o por ambos, según su voluntad.
+VIII.- Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediera de ese término, salvo que solicite mayor plazo para su defensa.
 
-En caso de carecer de defensor se le presentará lista de los defensores de oficio para que escoja a uno o a los que le convengan. Si el acusado no quiere nombrar defensores, después de ser requerido para hacerlo, al rendir su declaración preparatoria el juez le señalará uno de oficio. El acusado podrá nombrar defensor desde el momento en que sea aprehendido, y tendráderecho(sic) a que éste se halle presente en todos los actos del juicio y hacerlo comparecer cuantas veces sea necesario.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+IX.- Desde el inicio de su proceso será informado de los derechos que en su favor consigna esta Constitución y tendrá derecho a una defensa adecuada, por sí, por abogado o por persona de su confianza. Si no quiere o no puede nombrar defensor, después de haber sido requerido para hacerlo, el juez o tribunal le designará un defensor de oficio. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera, y
 
 X.- En ningún caso podrá prolongarse la prisión o detención, por falta de pago de honorarios de defensores o por cualquiera otra prestación de dinero, por causa de responsabilidad civil o algún otro motivo análogo.
 
 Tampoco podrá prolongarse la prisión preventiva por más tiempo del máximo fijado en la ley para el delito que origine el proceso.
 
 En toda pena de prisión impuesta por una sentencia, se computará el tiempo de la detención.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+Las garantías previstas en las fracciones V, VII y IX también serán observadas durante la averiguación previa, en los términos y con los requisitos y límites que las leyes establezcan; lo previsto en las fracciones I y II no estará sujeto a condición alguna.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+En todo proceso penal, la víctima o el ofendido por algún delito tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando lo requiera y los demás que señalen las leyes.
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
@@ -973,6 +1025,8 @@ III.- Tener modo honesto de vivir.
 
 ### CAPITULO IV. Del Poder Judicial
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
 ###### ARTICULO 96.
 
 Para ser Procurador General de Justicia, se requiere:
@@ -989,11 +1043,15 @@ IV.- Tener modo honesto de vivir.
 
 ###### ARTICULO 97.
 
-Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y jueces del fuero común en los términos de esta Constitución.
+Se deposita el ejercicio del Poder Judicial del Estado en el Tribunal Superior de Justicia, en Tribunales Unitarios y Jueces del fuero común, en los términos de esta Constitución.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 98.
 
-Corresponde al Tribunal Superior de Justicia y jueces del Estado la función jurisdiccional en los asuntos del fuero común, lo mismo que en los del orden federal en los casos que expresamente se la conceden las leyes.
+Corresponde al Tribunal Superior de Justicia, Tribunales Unitarios y Jueces del Estado la función jurisdiccional en los asuntos del fuero común, lo mismo que en los del orden federal en los casos que expresamente se la conceden las leyes.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 99.
 
@@ -1001,17 +1059,15 @@ El desempeño de la función jurisdiccional corresponde a:
 
 I.- El Tribunal Superior de Justicia.
 
-II.- Los jueces de primera instancia de lo civil, de lo penal y de lo familiar.
+II.- Los Tribunales Unitarios.
 
-III.- Los jueces de primera instancia y menores de jurisdicción mixta.
+III. Los Juzgados de Primera Instancia.
 
-IV.- Los jueces de paz.
+IV.- Los Juzgados Menores Municipales.
 
 V.- Los árbitros.
 
-VI.- El Jurado Popular, y
-
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+VI.- Los Jurados Populares, y
 
 VII.- Los demás servidores públicos y auxiliares de la administración de justicia en los términos establecidos en las leyes y códigos relativos.
 
@@ -1063,33 +1119,43 @@ Si laLegislatura (sic) desecha el nombramiento, cesará desde luegoensus(sic) fu
 
 Los Magistrados del Tribunal Superior de Justicia durarán en su cargo seis años, podrán ser reelectos y si lo fueren, sólo podrán ser privados de sus puestos en los términos del Título Octavo de esta Constitución y de su Ley Reglamentaria.
 
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 104.
 
-Los magistrados del Tribunal Superior de Justicia ya sean definitivos o provisionales deberán otorgar la protesta de ley ante la Legislatura del Estado y en los recesos de ésta ante la Diputación Permanente.
+Los Magistrados del Tribunal Superior de Justicia, ya sean definitivos o provisionales, deberán otorgar la protesta de Ley ante la Legislatura del Estado y en los recesos de ésta ante la Diputación Permanente.
 
-Los jueces protestarán ante el Tribunal Superior de Justicia. Los demás servidores públicos y empleados de la administración de justicia rendirán la protesta ante la autoridad de quien dependan.
+Los Magistrados de los Tribunales Unitarios y los Jueces protestarán ante el Tribunal Superior de Justicia. Los demás servidores públicos y empleados de la administración de justicia rendirán la protesta ante la autoridad de quien dependan.
 
 ###### ARTICULO 105.
 
 El Pleno del Tribunal, en escrutinio secreto, en la primera sesión que se celebre durante el mes de abril del año de la designación, nombraráde (sic) entre los magistrados al Presidente del Tribunal Superior de Justicia. Este durarádos(sic) años en su cargo.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
 ###### ARTICULO 106.
 
-El Estado se dividirá en partidos judiciales que tendrán la delimitación, cabeceras y números de juzgados determinados en la Ley Orgánica respectiva.
+El territorio del Estado se dividirá en Distritos Judiciales que tendrán la delimitación, cabeceras y números de juzgados que determine la Ley Orgánica respectiva.
+
+La misma Ley señalará los Distritos Judiciales que estarán comprendidos dentro de la jurisdicción de los Tribunales Unitarios.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 107.
 
 Son facultades del Tribunal Superior de Justicia:
 
-I.- Nombrar, remover y adscribir a los jueces de los partidos judiciales y demás funcionarios y empleados del Poder Judicial del Estado.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
-II.- Discutir y aprobar o modificar, en su caso, los presupuestos de egresos que para el ejercicio anual proponga el Presidente del Tribunal, y por los conductos debido (sic) someterlos a la aprobación de la legislatura del Estado.
+I.- Nombrar, remover y remover a los Magistrados de los Tribunales Unitarios, a los Jueces y demás funcionarios y empleados del Poder Judicial del Estado;
 
-> <small>(F. DE E., P.O. 13 DE ENERO DE 1975)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
-III.- Solicitar al Ejecutivo el aumento de juzgados y de la planta de secretarios y empleados de la administración de justicia, cuando las necesidades del servicio lo requieran y lo permitan las condiciones del erario.
+II.- Acordar el aumento o supresión de los Tribunales Unitarios, Juzgados y de otros órganos del Poder Judicial, así como la planta de servidores públicos de la administración de justicia, cuando las necesidades del servicio lo requieran y lo permita la disponibilidad financiera.
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+III.- Discutir, aprobar o modificar, en su caso los presupuestos de egresos que para el ejercicio anual proponga el Presidente del Tribunal Superior de Justicia, y por los conductos debidos someterlos a la aprobación de la Legislatura del Estado.
 
 > <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
@@ -1101,15 +1167,17 @@ VI.- Conocer de las acusaciones o quejas presentadas en contra del Presidente de
 
 VII.- Las demás que le confiera esta Constitución y las leyes.
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 1988)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 108.
 
-La Ley Orgánica del Poder Judicial, regulará la organización y funcionamiento del Tribunal Superior de Justicia y de los Juzgados dependientes de éste, determinará los requisitos para ser Juez y las condiciones para el ingreso, formación y permanencia de su personal. Asimismo, establecerá los medios para garantizar la independencia de los Magistrados y Jueces, los cuales, en el ejercicio de sus funciones actuarán sin más sujeción que a las Leyes, la equidad y los principios generales del Derecho.
+La Ley Orgánica del Poder Judicial, regulará la organización y funcionamiento del Tribunal Superior de Justicia, de los Tribunales Unitarios y de los Juzgados, determinará los requisitos para ser Magistrado de Tribunal Unitario y Juez, así como las condiciones para el ingreso, formación y permanencia de su personal. Igualmente establecerá los medios para garantizar la independencia de los Magistrados y Jueces, los cuales, en el ejercicio de sus funciones, actuarán sin más sujeción que a las Leyes, la equidad y los principios generales del Derecho.
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 109.
 
-El Tribunal Superior de Justicia, de acuerdo con el Gobernador del Estado, determinará el número de jueces menores y de paz que deberán establecerse, su lugar de residencia y su jurisdicción territorial.
+El Tribunal Superior de Justicia determinará el número de Jueces Menores que deberán establecerse, su lugar de residencia y su jurisdicción territorial.
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
@@ -1119,11 +1187,13 @@ El Tribunal Superior de Justicia, de acuerdo con el Gobernador del Estado, deter
 
 Ningún Servidor Público del Poder Judicial podrá tener ocupación o empleo diverso, con excepción de los docentes, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 111.
 
-El Gobernador podrá pedir a la Legislatura del Estado o la Diputación Permanente, en su caso, la destitución por mala conducta, de cualquiera de los Magistrados del Tribunal Superior de Justicia, y de los Jueces del Orden Común. En estos casos, si la Legislatura del Estado declara por mayoría absoluta de votos justificada la petición, el servidor público acusado quedará privado desde luego de su puesto, independientemente de cualquiera responsabilidad legal en que hubiera incurrido, procediéndose a nueva designación.
+El Gobernador del Estado podrá pedir a la Legislatura o la Diputación Permanente, en su caso, la destitución, por mala conducta, de cualquiera de los Magistrados del Tribunal Superior de Justicia. En esos casos, si la Legislatura del Estado declara por mayoría absoluta de votos justificada la petición, el servidor público quedará privado, desde luego, de su puesto, independientemente de cualquier responsabilidad legal en que hubiere incurrido, procediéndose a nueva designación.
+
+El Gobernador del Estado, antes de pedir a la Legislatura la destitución de algún Magistrado del Tribunal Superior de Justicia, oirá a éste en lo privado, a efecto de poder apreciar la justificación de tal solicitud.
 
 ## TITULO QUINTO. De la División de Poderes
 
@@ -2048,3 +2118,9 @@ P.O. 28 DE JULIO DE 1993.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE SEPTIEMBRE DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
