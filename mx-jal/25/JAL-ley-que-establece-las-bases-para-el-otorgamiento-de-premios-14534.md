@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-establece-las-bases-para-el-otorgamiento-de-premios-145
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-12"
-last_updated: "2000-12-19"
+last_updated: "2003-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS, PRESEAS Y CONDECORACIONES POR PARTE DEL GOBIERNO DEL ESTADO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2000.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO, PUBLICADA EN EL PERIODICO OFICIAL EL 27 DE DICIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO DE JALISCO: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 12 de diciembre de 1991.
 
@@ -332,3 +334,13 @@ P.O. 19 DE DICIEMBRE DE 2000.
 PRIMERO.- La Comisión Dictaminadora, propone un Acuerdo Económico, en el cual se hará la propuesta el Ejecutivo para que al C. Octavio de la Vega Galindo, en su momento, se le otorgue la presea que propone en su iniciativa el Diputado Manuel Castelazo Mendoza.
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 27 DE DICIEMBRE DE 2003.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se abroga la Ley que Establece las Bases para el Otorgamiento de Premios, Preseas y Condecoraciones por parte del Gobierno del Estado, contenida en el Decreto 14411, publicada el 12 de diciembre de 1991.
+
+TERCERO.- El Ejecutivo del Estado, emitirá el reglamento correspondiente a los premios establecidos en la ley en un plazo no mayor de 60 días posteriores a su publicación.
+
+CUARTO.- Las comisiones de Educación Pública y Cultura de la LVI Legislatura del Estado, emitirán por única ocasión convocatoria para que se lleve a cabo la entrega de las condecoraciones señaladas en la presente ley, en sesión solemne que tendrá lugar en el mes de diciembre del año 2003, siguiendo el procedimiento señalado en esta ley.
