@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-procuraduria-general-de-justicia-del-2588"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-04-30"
-last_updated: "1996-04-30"
+last_updated: "1998-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2588&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "1996-04-26"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
-Ley publicada en la Primera Sección del Diario Oficial de la Federación el martes 30 de abril de 1996.
+Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 30 de abril de 1996.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -280,7 +280,9 @@ El Procurador será nombrado y removido en los términos que establezca la Const
 
 Para ser Procurador se requiere:
 
-I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+I. Ser mexicano por nacimiento que no adquiera otra nacionalidad, además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II. Ser originario o vecino del Distrito Federal, con residencia efectiva de dos años anteriores al día de su designación;
 
@@ -416,7 +418,9 @@ Para el caso de los agentes de la Policía Judicial, será aplicable, en lo cond
 
 Para ingresar y permanecer como agente del Ministerio Público se requiere:
 
-I. Ser mexicano, en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+I. Ser mexicano por nacimiento que no adquiera otra nacionalidad, además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II. Ser de notoria buena conducta y reconocida solvencia moral, no haber sido condenado por sentencia irrevocable como responsable de delito doloso, o por delito culposo calificado como grave por la ley, ni estar sujeto a proceso penal;
 
@@ -436,7 +440,9 @@ VIII. No estar suspendido ni haber sido destituido o inhabilitado por resolució
 
 Para ingresar y permanecer como agente de la Policía Judicial se requiere:
 
-I. Ser mexicano, en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+I. Ser mexicano por nacimiento que no adquiera otra nacionalidad, además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II. Ser de notoria buena conducta y reconocida solvencia moral;
 
@@ -615,3 +621,9 @@ En ningún caso podrán aplicarse en forma retroactiva normas que afecten su sit
 México, D.F., a 1o. de abril de 1996.- Dip. Ismael Orozco Loreto, Presidente.- Sen. Alvaro Vallarta Ceceña, Presidente.- Dip. Cruz Pérez Cuéllar, Secretario.- Sen. Pedro de León Sánchez, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de abril de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 23 DE ENERO DE 1998.
+
+ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
