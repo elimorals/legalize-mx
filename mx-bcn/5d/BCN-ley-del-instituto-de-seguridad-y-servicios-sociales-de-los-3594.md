@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-3594
 country: "mx"
 rank: "ley"
 publication_date: "1970-12-20"
-last_updated: "1979-06-30"
+last_updated: "1983-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL GOBIERNO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 1983.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 20 de diciembre de 1970.
 
@@ -181,13 +181,15 @@ Las controversias judiciales que surjan sobre la aplicación de esta Ley, así c
 
 De los Sueldos, Cuotas y Aportaciones.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1983)</small>
+
 ###### ARTICULO 15.
 
-El sueldo que se tomará como base para los efectos de esta Ley, se integrará con el sueldo presupuestal y los demás emolumentos de carácter permanente que el trabajador obtenga por disposición expresa de las Leyes respectivas con motivo de su trabajo.
+El sueldo que se tomará como base para los efectos de esta Ley, se integrará con el sueldo presupuestal, sobresueldo, compensaciones y demás emolumentos de carácter permanente que el trabajador obtenga por disposición expresa de las Leyes respectivas con motivo de su trabajo.
 
-El sueldo básico integrado por las prestaciones a que se refiere el párrafo anterior, estará sujeto a las cotizaciones establecidas en los Artículos 16 y 21 de esta Ley y se tomará en cuenta para la determinación del monto de los seguros, pensiones, subsidios y préstamos que la misma establece.
+El sueldo básico integrado por las prestaciones a que se refiere el párrafo anterior, estará sujeto a las cotizaciones establecidas en los Artículos 16 y 21 de esta Ley y se tomarán en cuenta para la determinación del monto de los Seguros, Pensiones, Subsidios y Préstamos que la misma establece.
 
-El sueldo básico de los trabajadores de los organismos públicos incorporados se determinará con sujeción a los mismos lineamientos que fija el presente artículo.
+El sueldo básico de los trabajadores de los organismos públicos incorporados se determinará con sujeción a los mismos lineamientos que fija el presente Artículo.
 
 ###### ARTICULO 16.
 
@@ -407,17 +409,21 @@ En el transcurso de este lapso, el Instituto podrá ordenar y, por su parte el a
 
 El incapacitado estará obligado en todo tiempo a someterse a los reconocimientos, tratamientos y exámenes médicos que determine el Instituto.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1983)</small>
+
 ###### ARTICULO 35.
 
-Cuando el trabajador fallezca a consecuencia de un riesgo profesional, los derechohabientes señalados en el Artículo 82 y en el orden que establece, gozarán por un año de una pensión íntegra, equivalente al cien por ciento del sueldo o sueldos que hubiese percibido el trabajador en el momento de ocurrir el fallecimiento, disminuyendo dicha pensión un diez por ciento el segundo año y así sucesivamente en los subsecuentes hasta llegar a la mitad de la pensión original.
+Cuando el trabajador fallezca a consecuencia de un riesgo profesional, los derechohabientes señalados en el Artículo 82 y en el orden que establece, gozarán de una pensión íntegra, equivalente al 100% del sueldo o sueldos que hubiese percibido el trabajador al momento de ocurrir el fallecimiento.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1983)</small>
 
 ###### ARTICULO 36.
 
-Ciando un pensionado por incapacidad permanente, sea total o parcial, fallezca, se aplicarán las siguientes reglas:
+Cuando fallezca una persona pensionada, por incapacidad permanente, sea total o parcial, se aplicarán las siguientes reglas:
 
-I.- Si el fallecimiento se produce como consecuencia directa de la incapacidad total permanente, los familiares derechohabientes señalados en esta Ley, y en el orden que la misma establece, continuarán percibiendo la pensión con cuota íntegra durante el primer año, diez por ciento menos el segundo año e igual deducción en los años sucesivos hasta llegar al cincuenta por ciento de la pensión original;
+I.- Si el fallecimiento se produce como consecuencia directa de la causa que originó la incapacidad total permanente, los familiares derechohabientes señalados en esta Ley, y en el orden que la misma establece, continuarán percibiendo la pensión con cuota íntegra; y
 
-II.- Si la muerte es originada por causas ajenas a la incapacidad permanente, sea total o parcial, se entregará a los derechohabientes, como única prestación el importe de seis meses de la cuota disfrutada por el pensionista.
+II.- Si la muerte es originada por causas ajenas a las que dieron origen a la incapacidad permanente, sea total o parcial, se entregará a los derechohabientes el importe de seis meses de la cuota disfrutada por el pensionista, sin perjuicio del derecho de disfrutar de la pensión que en su caso le otorgue esta Ley.
 
 ###### ARTICULO 37.
 
@@ -635,11 +641,15 @@ A los trabajadores que tengan derecho, tanto a pensión de vejez como a pensión
 
 Jubilación.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1983)</small>
+
 ###### ARTICULO 67.
 
-Tienen derecho a la jubilación, los trabajadores, cualquiera que sea su edad, con treinta años o más de servicios e igual tiempo de contribución al Instituto en los términos de esta Ley.
+Tienen derecho a la jubilación los trabajadores con 30 años de servicios e igual tiempo de contribución al Instituto, en los términos de esta Ley, cualquiera que sea su edad.
 
-La jubilación dará derecho al pago de una cantidad equivalente al cien por ciento de su sueldo regulador que se define en el Artículo 72 y su percepción comenzará a partir del día siguiente a aquel en que el trabajador hubiese disfrutado el último sueldo por haber causado baja.
+La jubilación dará derecho al pago de una cantidad equivalente al 100% del sueldo regulador que se define en el Artículo 72 y su percepción comenzará a partir del día siguiente a aquel en que el trabajador hubiese disfrutado el último sueldo por haber causado baja.
+
+Sin embargo, la cuota diaria máxima para las pensiones y jubilaciones nunca será mayor de veinte veces la cuota mínima vigente en el Instituto, a que se refiere el Artículo 71.
 
 #### SECCION III
 
@@ -693,15 +703,17 @@ TABLA DE COMPUTO
 
 30 años de servicios 100 %
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1983)</small>
+
 ###### ARTICULO 71.
 
-La pensión total por vejez que se conceda con cargo al Instituto en ningún caso podrá ser inferior a veinte pesos diarios.
+La pensión total por vejez que se conceda con cargo al Instituto en ningún caso podrá ser inferior a $32.47 diarios, o en su defecto a la cuota diaria mínima que en su caso establezca el Instituto, ni podrá exceder del 100% del sueldo regulador a que se refiere el Artículo 72, aún en el caso de la aplicación concomitante de otras Leyes.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1983)</small>
 
 ###### ARTICULO 72.
 
-Para calcular el monto de la pensión a que tengan derecho los trabajadores, se tomarán en cuenta exclusivamente el sueldo o sueldos percibidos.
-
-Para determinar el monto de las cantidades que correspondan por jubilación o por pensión en los términos de los Artículos 66 y 70 respectivamente, se tomará el promedio de los sueldos percibidos en cada uno de los cinco años inmediatos anteriores a la fecha del acuerdo por el que se conceda, sobre los que, hubiesen cubierto las aportaciones respectivas. Dicho promedio se denominará sueldo regulador.
+Para determinar el monto de la jubilación y de las pensiones a que se refiere este Capítulo, se tomará el último sueldo percibido por el trabajador, al cual se le denominará sueldo regulador.
 
 ###### ARTICULO 73.
 
@@ -1237,9 +1249,13 @@ Los servicios médicos que tienen encomendados el Instituto en los términos de 
 
 En tales casos, las empresas o instituciones que hubiesen suscrito esos contratos estarán obligados a proporcionar al Instituto, los informes y estadísticas médicas o administrativas que éste les pida, sujetándose a las instrucciones, normas técnicas, inspecciones y vigilancias prescritas por el mismo Instituto.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1983)</small>
+
 ###### ARTICULO 142.
 
-Cada seis años se hará una revisión de las cuantías de las jubilaciones y pensiones para mejorarlas en caso de aumento en el costo de la vida de acuerdo con los índices elaborados por el Banco de México, en proporción que no exceda del coeficiente de incremento que se observe en los mismos y siempre que los dictámenes actuariales lo determinen, basados en la valuación que se haga sexenalmente de las reservas del Instituto por la Tesorería General del Estado auxiliada por una Institución de Crédito en lo que se refiere a sus inversiones e inmuebles y demás activos.
+Las cuantías de las jubilaciones y pensiones aumentarán al mismo tiempo y en la misma proporción en que aumenten los sueldos de los trabajadores en activo.
+
+Los jubilados y pensionados tendrán derecho a una gratificación anual equivalente a cuarenta veces la cuota diaria de su pensión. Esta gratificación deberá pagarse en un cincuenta por ciento antes del día quince de diciembre y el otro cincuenta por ciento a más tardar el quince de enero, de conformidad con las disposiciones que dicte la Junta Directiva.
 
 ###### ARTICULO 143.
 
@@ -1356,3 +1372,15 @@ P.O. 30 DE JUNIO DE 1979.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 30 DE JUNIO DE 1983.
+
+DECRETO NUMERO 192.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 30 DE JUNIO DE 1983.
+
+DECRETO NUMERO 193.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
