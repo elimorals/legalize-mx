@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1944-01-08"
+last_updated: "1944-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE ENERO DE 1944.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE AGOSTO DE 1944.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -353,11 +353,11 @@ Durante los ocho días a que se refiere el artículo anterior, se tendrán las j
 
 La legislatura se reunirá en sesiones ordinarias una vez al año.
 
-> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 1944)</small>
 
 ###### Art. 48.
 
-El período anual de sesiones dará principio el día primero de septiembre y durará el tiempo necesario para que la Legislatura trate todos los asuntos de su competencia pendientes de resolución, pero no podrá prolongarse más que hasta el día treinta y uno de diciembre del mismo año.
+El Período Anual de Sesiones dará principio el día 5 de septiembre y durará el tiempo necesario para que la Legislatura trate todos los asuntos de su competencia pendientes de resolución, pero no podrá prolongarse más que hasta el 31 de diciembre del mismo año.
 
 ###### Art. 49.
 
@@ -1908,3 +1908,9 @@ DECRETO NUMERO 32, POR EL QUE SE REFORMAN LOS ARTICULOS 101 Y 104, ACTUALMENTE V
 ###### ARTICULO SEGUNDO.
 
 Este Decreto entrará en vigor en la fecha de su publicación en la "Gaceta del Gobierno".
+
+G.G. 26 DE AGOSTO DE 1944.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
