@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-16228
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2003-09-03"
+last_updated: "2004-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DEL 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE ABRIL DEL 2004.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -2027,9 +2027,15 @@ Si la apelación se declara admisible, se pedirá la causa o su duplicado al jue
 
 La revisión extraordinaria de sentencia ejecutoriada tendrá por objeto:
 
-I. Declarar, si procede, la inocencia del condenado y anular la sentencia condenatoria; y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DEL 2004)</small>
+
+I. Declarar, si procede, la inocencia del condenado y anular la sentencia condenatoria;
 
 II. Resolver sobre la reducción o sustitución de la pena en el caso de que se expida una ley posterior.
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DEL 2004)</small>
+
+III. Declarar la extinción de la potestad de ejecutar la pena, cuando al condenado se le otorgue el perdón, sin más trámite que la solicitud respectiva y la ratificación del perdón.
 
 ###### Artículo 307.
 
@@ -2878,3 +2884,11 @@ P.O. 3 DE SEPTIEMBRE DEL 2003
 PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 1 DE ABRIL DEL 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Las disposiciones contenidas en los artículos 91 y 295 del Código Penal del Estado de México, anteriores a esta reforma, se aplicarán respecto de los hechos u omisiones que hayan sido ejecutados durante su vigencia, a menos que los sujetos soliciten, en su beneficio, la aplicación de los preceptos normativos contenidos en el presente decreto.
