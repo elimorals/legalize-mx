@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1994-12-28"
+last_updated: "1995-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1995.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -1665,11 +1665,15 @@ ART. 166.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL
 
 ART. 167.- Son objeto de este impuesto los ingresos que se perciban por la prestación en forma independiente, de los siguientes servicios:
 
-I.- Los de carácter profesional, cuando su prestación requiera título conforme a las leyes o cuando el servicio profesional sea de los señalados en las listas que al efecto publique la Secretaría de Hacienda y Crédito Público, siempre que sean prestados por personas físicas, organizaciones profesionales, asociaciones o sociedades civiles;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+I.- Los de carácter profesional, cuando su prestación requiera título conforme a las leyes siempre que sean prestados por personas físicas, organizaciones profesionales, asociaciones o sociedades civiles, y no sean objeto de la Ley del Impuesto al Valor Agregado;
 
 II.- Los prestados por artistas, locutores, toreros o deportistas, cuando realicen actividades cinematográficas, teatrales, de radiodifusión, de variedades, taurinas o deportivas;
 
-III.- Los prestados por agentes de seguros, por las comisiones que perciban por el aseguramiento contra riesgos agropecuarios y por seguros de vida, así como por los reaseguros respectivos;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+III.- Los prestados por agentes de seguros, por las comisiones que perciban por el aseguramiento contra riesgo agropecuario y por seguros de vida;
 
 IV.- Los prestados por agentes y corresponsales de instituciones de crédito, por las comisiones que perciban en el ejercicio de su actividad;
 
@@ -1677,155 +1681,107 @@ V.- Los prestados por agentes y corredores de bolsa, que se encuentren al servic
 
 VI.- Los prestados por autores, a que se refiere la Ley Federal de Derechos de Autor.
 
-En el caso de que el servicio se preste a través de una agrupación profesional de carácter civil, se considera como ingreso la participación o retiros parciales que cada persona física obtenga de los ingresos de la agrupación después de efectuadas por éstas las deducciones que autoriza esta Ley. En estos casos será la propia agrupación la que presente las declaraciones mensuales y efectúe por cuenta de los profesionales el pago del impuesto, lleve los libros y expida los recibos. Si la asociación o sociedad no cumple con las obligaciones, los socios o asociados deberán cumplir con las mismas.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+En caso de que el servicio se preste a través de una agrupación profesional de carácter civil, se considerará como ingreso la participación o retiros parciales que cada persona física obtenga de los ingresos de la agrupación después de efectuadas por éstas, las deducciones que autoriza esta Ley. En estos casos será la propia agrupación la que presente las declaraciones mensuales y efectúe por cuenta de los profesionales el pago del impuesto, lleve los libros y expida los recibos de honorarios, si la asociación o sociedad no cumple con las obligaciones, los socios o asociados deberán cumplir con las mismas.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ART. 168.- Son sujetos del impuesto las personas físicas que obtengan los ingresos gravados a que se refiere el artículo anterior, por la prestación de sus servicios en el territorio del Estado de Sinaloa.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
-Para los efectos de este impuesto, sólo se considerará que ejercen sus actividades habitualmente en el Territorio del Estado, los causantes que tengan establecido en él una oficina, estudio, establecimiento o domicilio fijo, registrado como tal para fines fiscales y cuya ubicación puede ser comprobada por la Secretaría de Hacienda Pública y Tesorería. Dichos causantes deben acreditar ante la Oficina receptora que corresponda al lugar en que perciban los ingresos gravables, que prestan sus servicios a empresas o instituciones de carácter permanente, o bajo un contrato celebrado con ello, por períodos mayores de treinta días o a un mes de calendario y dentro de los cuales ejerzan su actividad por lo menos una vez por semana o cinco veces en el mes.
+Para los efectos de este impuesto, sólo se considerará que ejercen sus actividades habitualmente en el territorio del Estado, los contribuyentes que tengan establecidos en él una oficina, estudio, establecimiento o domicilio fijo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
-ART. 169.- Los sujetos de este impuesto podrán deducir de sus ingresos brutos mensuales, los gastos e inversiones necesarios para su obtención, que en lo conducente y en forma proporcional a un mes, autoriza la Ley del Impuesto sobre la Renta a los causantes que obtengan "ingresos por honorarios y en general por la prestación de un servicio personal independiente", siempre y cuando se reúnan los requisitos y se cumpla con las disposiciones que para cada deducción en particular establece dicha Ley Federal y su Reglamento. Se exceptúa de lo dispuesto en este artículo, la deducción por concepto del salario mínimo general que autoriza la Ley Federal mencionada.
+ART. 169.- Los sujetos de este impuesto podrán deducir de sus ingresos totales mensuales, los gastos e inversiones necesarios para su obtención, que en lo conducente y en forma proporcional a un mes, autoriza la Ley del Impuesto sobre la Renta a los contribuyentes que obtengan "ingresos por honorarios y en general por la prestación de un servicio personal independiente", siempre y cuando se reúnan los requisitos y se cumpla con las disposiciones que para cada deducción en particular establece dicha Ley Federal y su Reglamento.
 
-Las deducciones a que se refiere este artículo estarán sujetas a comprobación por parte de la autoridad fiscal.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
-ART. 170.- Las personas a que se refiere este Capítulo, deberán llevar un libro de ingresos y egresos y un registro de sus inversiones amortizables o depreciables, que deberán reunir los siguientes requisitos:
+ART. 170.- Los contribuyentes a que se refiere este Capítulo, deberán llevar un libro de ingresos y egresos y un registro de sus inversiones amortizables o depreciables.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+Las inversiones amortizables o depreciables deben registrarse con los siguientes datos: Descripción que identifique los bienes; año de adquisición; costo original y, en su caso, depreciaciones o amortizaciones acumuladas y saldos por redimir de los referidos bienes.
 
-I.- Las inversiones amortizables o depreciables deben registrarse con los siguientes datos: Descripción que identifique los bienes; año de adquisición; costo original y, en su caso, depreciaciones o amortizaciones acumuladas y saldos por redimir de los referidos bienes;
+Estos contribuyentes podrán llevar en un solo libro el registro de ingresos y egresos y el de las inversiones amortizables o depreciables, este libro o libros en su caso, podrán ser los mismos que se utilicen para efectos de cumplir con lo establecido por la Ley del Impuesto sobre la Renta, y no tendrán que autorizarse previamente.
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
-
-II.- Asimismo, estos causantes podrán llevar en un solo libro el registro de ingresos y egresos y el de las inversiones amortizables o depreciables, el cual será autorizado por la Secretaría de Hacienda Pública y Tesorería. Este libro o libros en su caso, podrán ser los mismos que haya autorizado la Secretaría de Hacienda y Crédito Público, y no tendrán que revalidarse periódicamente y en ellos se podrán registrar las operaciones relativas a varios años, hasta concluirlos. Los causantes que lo deseen, podrán llevar su contabilidad mediante el uso de los libros que estime convenientes, en cuyo caso deberán estar autorizados por lo menos el Diario y el Mayor, por la Secretaría de Hacienda Pública y Tesorería, pudiendo ser los mismos que autorice la Secretaría de Hacienda y Crédito Público.
-
-El libro o libros en su caso, a que se refiere el párrafo anterior deberán presentarse para su autorización, dentro de los diez días siguientes a la fecha de iniciación de operaciones.
+El libro o libros en su caso, a que se refiere este Artículo deberán de estar debidamente encuadernados, empastados y foliados.
 
 En dicho libro o libros se deberán anotar los ingresos que se perciban en efectivo o en especie, haciendo referencia al número del recibo que se haya expedido para amparar la percepción del ingreso.
 
-Los egresos se deberán clasificar por conceptos de acuerdo a la naturaleza de la erogación.
+Los egresos se deberán clasificar por concepto de acuerdo a la naturaleza de la erogación.
 
-Los ingresos y egresos relativos a cada mes deberán quedar registrados dentro de los 60 días siguientes a la operación respectiva.
+Los ingresos y egresos relativos a cada mes deberán quedar registrados dentro de los sesenta días siguientes a la fecha en que se realicen las operaciones respectivas.
 
-El registro de inversiones amortizables y depreciables, contendrá por los (sic) menos: Fecha de adquisición del bien; descripción de la inversión; costo de adquisición; e importe de la amortización o depreciación mensual.
+Los contribuyentes que sólo perciban ingresos como miembros de agrupaciones profesionales, asociaciones o sociedades civiles no están obligados a llevar en lo personal los registros a que se refiere este Artículo.
 
-Los causantes que solo perciban ingresos como miembros de agrupaciones profesionales, asociaciones o sociedades civiles no están obligados a llevar en lo personal los registros a que se refiere este Artículo.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+ART. 171.- Los contribuyentes que no deseen presentar comprobación relativa a las deducciones a que se refiere el Artículo 169 de este (sic) Ley, en sustitución de las mismas, podrán optar por deducir de sus ingresos totales mensuales, el 35% de deducción global no sujeto a comprobación.
 
-ART. 171.- Los causantes que no deseen presentar comprobación relativa a las deducciones a que se refiere el Artículo 169 de esta Ley, en substitución de las mismas, podrán optar por deducir de sus ingresos brutos mensuales, el 20% de deducción global no sujeto a comprobación.
+Los contribuyentes que ejerzan la opción a que se refiere el párrafo anterior, cumplirán con el pago mensual del impuesto continuado de manera uniforme con este procedimiento, hasta en tanto no den aviso a la Secretaría de Hacienda Pública y Tesorería que dejarán de ejercer dicha opción.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+Quienes obtengan en forma esporádica, eventual o accidentalmente ingresos de los señalados en el Artículo 167 de este Capítulo, tendrán derecho a deducir únicamente el 35% de los ingresos totales que perciban, no pudiendo hacer las deducciones a que se refiere el Artículo 169 de esta Ley.
 
-Los causantes que ejerzan la opción a que se refiere el párrafo anterior, cumplirán con el pago mensual del impuesto siguiendo de manera uniforme con este procedimiento, hasta en tanto no den aviso a la Secretaría de Hacienda Pública y Tesorería que dejarán de ejercer dicho (sic) opción.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
+ART. 172.- La Secretaría de Hacienda Pública y Tesorería podrá estimar los ingresos totales de los sujetos a que se refiere este Capítulo en base a lo establecido en el Código Fiscal del Estado de Sinaloa y deducir el 35% de deducción global sobre los ingresos no sujetos a comprobación, aplicando la tarifa correspondiente para el cálculo del impuesto.
 
-Quienes obtengan en forma esporádica, eventual o accidentalmente ingresos de los señalados en el Artículo 167 de este Capítulo, tendrán derecho a deducir únicamente el 20% de los ingresos brutos que perciban, no pudiendo hacer las deducciones a que se refiere el Artículo 169 de esta Ley.
+Para practicar las estimaciones a que se refiere este Artículo se tendrá en cuenta indistintamente las actividades realizadas por el contribuyente, los honorarios usuales por servicios similares, la renta del local que ocupe, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse para efectos de la estimación.
 
-> <small>(REFORMAD PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
+Con base en los datos a que se refiere el párrafo anterior, la Secretaría de Hacienda Pública y Tesorería podrá estimar un ingreso de hasta dos tantos del monto del gasto comprobado.
 
-ART. 172.- La Secretaría de Hacienda Pública y Tesorería podrá estimar los ingresos brutos de los sujetos a que se refiere este capítulo en los siguientes casos:
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
-
-I.- Cuando se opongan u obstaculicen la iniciación o desarrollo de una visita dimiciliaria (sic) ordenada por la Secretaría de Hacienda Pública y Tesorería o la Sub´Secretaría de Ingresos, se nieguen a recibir la orden respectiva, o cuando hasta el momento de su iniciación o de la recepción de la solicitud de documentos, datos o informes relacionados con su revisión, no hayan presentado sus declaraciones;
-
-II.- No llevar el libro y registro a que están obligados;
-
-III.- Cuando las informaciones que obtengan pongan de manifiesto la percepción de un promedio de ingresos brutos superior al declarado, en un 3%.
-
-Para practicar las estimaciones a que se refiere este Artículo, se tendrán en cuenta indistintamente las actividades realizadas por el causante, los honorarios usuales por servicios similares, la renta del local que ocupe, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse, así como los gastos de carácter privado en que haya incurrido el causante y constituyan un índice para los efectos de este Artículo.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-Con base en los datos a que se refiere el párrafo anterior, la Secretaría de Hacienda Pública y Tesorería podrá estimar un ingreso de hasta tres tantos del monto del gasto comprobado.
-
-A los ingresos estimados se aplicará un coeficiente del 90% a fin de determinar el ingreso neto, base del impuesto a que se refiere este Capítulo.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 173.- Para determinar la base del impuesto sobre Profesiones y Oficios, se sumarán los ingresos percibidos en un mes, por los conceptos mencionados en este capítulo, previa deducción de los conceptos señalados en los Artículos 169 o 171 y cuando proceda, los estimados por la Secretaría de Hacienda Pública y Tesorería, en los términos del Artículo anterior.
+ART. 173.- Para determinar la base del Impuesto sobre Profesiones y Oficios, se sumarán los ingresos percibidos en un mes, por los conceptos mencionados en este Capítulo, previa deducción de los conceptos señalados en los Artículos 169 o 171 de esta misma ley y cuando proceda, los estimados por la Secretaría de Hacienda Pública y Tesorería, en los términos del Artículo anterior y del Código Fiscal del Estado.
 
 El Impuesto sobre Profesiones y Oficios, se calculará aplicando a la base mensual determinada, a que se refiere el párrafo anterior, la siguiente:
 
-T A R I F A
+T A R I F A:
 
-LIMITE LIMITE CUOTA PORCENTAJE
+LIMITE LIMITE CUOTA PORCENTAJE PARA
 
-SUPERIOR INFERIOR FIJA PARA
+INFERIOR SUPERIOR FIJA APLICARSE SOBRE
 
-APLICARSE
+EL EXCEDENTE DEL
 
-SOBRE
+LIMITE INFERIOR
 
-EL EXCEDENTE
-
-DEL LIMITE
-
-INFERIOR.
-
-Hasta $ 3,000.00 $ 45.00 - o -
-
-De $ 3,000.01 a $ 4,000.00 62.50 1.75
-
-De $ 4,000.01 a $ 5,000.00 82.50 2.00
+De $ 0.01 $ 5,000.00 2.10
 
 De $ 5,000.01 a $ 6,000.00 105.00 2.25
 
 De $ 6,000.01 a $ 7,000.00 130.00 2.50
 
-De $ 7,000.01 a $ 8,000.00 157,50 2.75
+De $ 7,000.01 a $ 8,000.00 158.00 2.75
 
-De $ 8,000.01 a $ 9,000.00 187.50 3.00
+De $ 8,000.01 a $ 9,000.00 188.00 3.00
 
-De $ 9,000.01 a $ 10,000.0 220.00 3.25
+De $ 9,000.01 a $ 10,000.00 220.00 3.35
 
-De $ 10,000.01 en adelante 255.00 3.50
+De $10,000.01 en adelante 255.00 3.50
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+Los contribuyentes de este impuesto deberán presentar ante la Secretaría de Hacienda Pública y Tesorería, directamente o por conducto de la Oficina Recaudadora correspondiente a su domicilio fiscal, dentro de los primeros quince días del mes siguiente a aquél a que corresponda el pago, una declaración, en las formas autorizadas por la propia Secretaría.
 
-Los causantes de este impuesto deberán presentar ante la Secretaría de Hacienda Pública y Tesorería, directamente o por conducto de la Oficina Recaudadora correspondiente a su domicilio, dentro de los primeros diez días del mes siguiente de aquél a que corresponda el pago, una declaración, en las formas autorizadas por la propia Secretaría.
+Los contribuyentes pagarán el Impuesto dentro de los primeros quince días del mes siguiente a aquél a que corresponda el pago, en la Oficina Recaudadora de su jurisdicción, o en su caso en la oficina autorizada para tal efecto.
 
-Los causantes pagarán el Impuesto dentro de los primeros diez días del mes siguiente de aquél a que corresponda el pago, en la Oficina Recaudadora de su jurisdicción.
+ART. 173 Bis.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 1995)
 
-Cuando se trate de iniciación de operaciones, de cambio de domicilio, de suspensión temporal, de reanudación de actividades o de cesación definitiva de actividades en el ejercicio libre de la profesión, el causante deberá dar aviso a la Oficina Recaudadora correspondiente a su domicilio, dentro de los diez días hábiles siguientes a la fecha en que ocurra cualesquiera de los hechos mencionados.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
-La falta de presentación oportuna de la declaración mencionada en el párrafo anterior, dará lugar a que la autoridad fiscal imponga las sanciones previstas en esta Ley.
+ART. 173 BIS 1.- Los contribuyentes que habitualmente obtengan los ingresos gravados a que se refiere este Capítulo, podrán cubrir el impuesto a base de cuota fija en las condiciones y con las formalidades siguientes:
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+I.- Los contribuyentes que opten por el pago del impuesto a cuota fija, lo solicitarán por escrito a la Subsecretaría de Ingresos de la Secretaría de Hacienda Pública y Tesorería, ya sea directamente o por conducto de la Oficina Recaudadora correspondiente a su domicilio, de acuerdo a los ingresos manifestados en su declaración del ejercicio fiscal inmediato anterior, para efectos del Impuesto sobre la Renta;
 
-ART. 173 Bis- Quienes hagan pagos a causantes eventuales de este impuesto, o a causantes domiciliados permanentemente fuera del Estado que presten sus servicios dentro del territorio del mismo, estarán obligados a presentar a nombre del causante las manifestaciones que correspondan, a retener y enterar el impuesto causado ante la oficina recaudadora correspondiente a su domicilio, dentro de los diez días siguientes a la fecha en que se hagan los pagos, siendo solidariamente responsables del pago del impuesto. En estos casos el impuesto se cubrirá de acuerdo con la tarifa del artículo anterior, deduciendo de los ingresos totales percibidos por el contribuyente únicamente el 20% de deducción global a que se refiere el Artículo 171 de esta Ley. Estos contribuyentes quedan relevados de la obligación de llevar libros y registros.
+Los contribuyentes que inicien operaciones dentro del mismo año en que hagan su solicitud, sólo podrán presentar ésta después de los treinta días siguientes a la fecha de iniciación de sus operaciones, manifestando el ingreso mensual total que hubiesen obtenido en el mes o meses inmediatos anteriores;
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+II.- La Subsecretaría de Ingresos fijará la cuota que corresponda, aplicando la tarifa del Artículo 173 de esta Ley sobre la base del promedio de ingreso total mensual manifestado por el contribuyente, menos el 35% de deducción global a que se refiere el Artículo 171 de esta misma Ley;
 
-ART. 173 Bis 1.- Los causantes que habitualmente obtengan los ingresos gravados a que se refiere este Capítulo, podrán cubrir el impuesto a base de cuota fija, en las condiciones y con las formalidades siguientes:
+III.- La cuota podrá cubrirse por períodos bimestrales, dentro de los primeros quince días del mes siguiente a cada bimestre, o por bimestres adelantados;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+IV.- Los contribuyentes que tributen a base de cuota fija, no estarán obligados a presentar declaraciones mensuales ni a llevar los libros o sistemas contables establecidos en el Código Fiscal del Estado, pero si estarán sujetos a las demás disposiciones contenidas en esta Ley; y,
 
-I.- Los causantes que opten por el pago del impuesto a cuota fija, lo solicitarán por escrito a la Sub-Secretaría de Ingresos de la Secretaría de Hacienda Pública y Tesorería, ya sea directamente o por conducto de la oficina recaudadora correspondiente a su domicilio, manifestando, bajo su estricta responsabilidad y bajo protesta de decir verdad, el ingreso mensual bruto que hubieren obtenido en cada uno de los meses del año inmediato anterior.
-
-Los causantes que inicien operaciones dentro del mismo año en que hagan su solicitud, solo podrán presentar ésta después de los 30 días siguientes a la fecha de iniciación de sus operaciones, manifestando el ingreso mensual bruto que hubieren obtenido en el mes o meses inmediatos anteriores;
-
-II.- La Sub-Secretaría de Ingresos fijará la cuota que corresponda, aplicando la Tarifa del Artículo 173 de esta Ley sobre la base del promedio de ingreso bruto mensual manifestado por el causante, menos el 20% de deducción global a que se refiere el Artículo 171 de esta misma Ley;
-
-III.- La cuota asignada podrá cubrirse por períodos bimestrales, dentro de los primeros diez días del mes siguiente a cada bimestre, o por bimestres adelantados;
-
-IV.- Los causantes que tributen a base de cuota fija, no estarán obligados a presentar declaraciones mensuales ni a llevar los libros o registros que previene este Capítulo, pero sí estarán sujetos a las demás disposiciones contenidas en esta Ley;
-
-V.- La cuota asignada tendrá vigencia hasta el 31 de Diciembre de cada año independientemente de la fecha de su asignación o notificación;
-
-> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 1990)</small>
-
-VI.- Los contribuyentes que tributen a base de cuota fija, pagarán una cuota mínima de impuesto principal equivalente a 3 días de salario mínimo general, que esté vigente en el Estado de Sinaloa en el mes a que corresponda la cuota a pagar;
-
-> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 1990)</small>
-
-VII.- Cuando el ingreso efectivamente percibido resulte superior en más de un 20% al ingreso que se tomó como base para fijar la cuota, el contribuyente pagará la diferencia que resulte mediante una declaración complementaria que deberá presentar ante la Recaudación de Rentas de su domicilio dentro de los primeros 10 días del mes siguiente de aquél a que corresponda el ingreso percibido.
+V.- La cuota asignada por la autoridad tendrá vigencia de un año, independientemente de la fecha de asignación o notificación y una vez ejercida la opción a que se refiere este artículo, no podrá variar la forma de pago durante la vigencia de ésta. Para los efectos de lo señalado en este párrafo, el año de vigencia quedará comprendido del 1o. de mayo de un año hasta el 30 de abril del año siguiente.
 
 ### CAPITULO XI. Impuesto sobre Plantas de Beneficio y Establecimientos Metalúrgicos
 
@@ -2597,6 +2553,8 @@ DIARIO VIGENTE EN
 
 EL ESTADO DE SINALOA
 
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
 I.- Por la expedición de
 
 copias certificadas de
@@ -2605,55 +2563,63 @@ actas de Registro Civil,
 
 por cada hoja de papel
 
-autorizado 0.25
+autorizado 1.00
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
 II.- Por el Registro:
 
 a).- De nacimiento, fuera
 
-de la oficina del Registro Civil 1.50
+de la oficina del
+
+Registro Civil 5.00
 
 b).- Extemporáneo de
 
-nacimiento, tratándose de
+nacimiento, tratándose
 
-personas mayores de siete
+de personas mayores de
 
-años, en los términos de los
+7 años, en los términos de
 
-Artículos 40 y 42 del
+los Artículos 40 y 42 del
 
-Reglamento del Registro Civil
+Reglamento del Registro
 
-del Estado 2.00
+Civil del Estado 3.00
 
 c).- De Matrimonio:
 
 1.- En la Oficina del
 
-Registro Civil 1.50
+Registro Civil 3.00
 
-2.- Fuera de la Oficina del
+2.- Fuera de la Oficina
 
-Registro Civil 5.00
+del Registro Civil 15.00
 
 d).- De reconocimiento de hijos:
 
 1.- En la Oficina del
 
-Registro Civil 0.50
+Registro Civil 2.00
 
-2.- Fuera de la Oficina del
+2.- Fuera de la Oficina
 
-Registro Civil 1.00
+del Registro Civil 4.00
 
-e).- De adopción 0.50
+e).- De adopción 2.00
 
-f).- De tutela 0.50
+f).- De tutela 2.00
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
 III.- Por la anotación de
 
-Emancipación 0.50
+Emancipación 2.00
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
 IV.- Por la inscripción:
 
@@ -2663,23 +2629,43 @@ declaren la incapacidad legal
 
 para administrar bienes,
 
-la ausencia o la presunción de
+la ausencia o la presunción
 
-muerte 1.00
+de muerte 3.00
 
-b).- De rectificaciones de las
+b).- Por la cancelación de
 
-actas del estado Civil 1.00
+la inscripción a que se
 
-c).- De resoluciones judiciales
+refiere el inciso anterior 3.00
 
-que decreten el divorcio 1.50
+c).- De rectificaciones de
 
-V.- Por la certificación de la falta
+las actas del
 
-o la ilegibilidad de actas
+estado civil 3.00
 
-o libros del Registro Civil 0.25
+d).- De resoluciones
+
+judiciales que decreten el
+
+divorcio 2.00
+
+e).- De actas sobre el
+
+estado civil expedida por
+
+autoridades extranjeras 5.00
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+V.- Por la certificación de
+
+la falta o la ilegibilidad de
+
+actas o libros del
+
+Registro Civil 0.50
 
 ART. 298.- No causan los derechos a que se refiere este Capítulo:
 
@@ -2751,6 +2737,12 @@ de Ingreso y de las Oficinas de (sic)
 
 Recaudadoras, por plana 2.50
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+d).- Por la plana de
+
+Decretos Municipales 2.0
+
 II.- Por la suscripción:
 
 a).- De un año, en el País 20.00
@@ -2813,9 +2805,11 @@ La Secretaría de Hacienda Pública y Tesorería señalará la documentación qu
 
 ### CAPITULO VI. Legalización de Títulos Profesionales
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
-ART. 306.- Los derechos fiscales de legalización de títulos profesionales se causarán, por cada título que expidan las autoridades educativas competentes del Estado y que el Ejecutivo legalice con su firma, con una cuota equivalente a 0.25 veces el salario mínimo general que se encuentre vigente en el Estado de Sinaloa en la fecha de causación del Derecho correspondiente.
+ART. 306.- Los derechos fiscales de legalización de títulos profesionales se causarán, por cada título que expidan las autoridades educativas competentes del Estado y que el Ejecutivo legalice con su firma, con una cuota equivalente a 2.50 veces el salario mínimo general que se encuentre vigente en el Estado de Sinaloa en la fecha de causación del derecho correspondiente.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
 El contribuyente podrá hacer el pago de la cuota a que se refiere el párrafo anterior, en la Oficina Recaudadora de Rentas del Estado correspondiente, debiendo presentar en la Secretaría General de Gobierno, junto con el título cuya legalización se pretenda, el recibo oficial de pago correspondiente que le será devuelto con el título.
 
@@ -2873,289 +2867,323 @@ ART. 309 Bis.- Mientras se mantenga en vigor la Coordinación Fiscal con la Secr
 
 ### CAPITULO VIII. Licencias y Servicios de Tránsito
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
-ART. 310.- Los propietarios y conductores de vehículos de motor que circulen en cualquier lugar del territorio del Estado de Sinaloa, causarán los derechos fiscales correspondientes, de conformidad con la siguiente:
-
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+ART. 310.- Por los servicios prestados por las Autoridades de Tránsito, se causarán los derechos conforme a la siguiente:
 
 T A R I F A:
 
-CONCEPTO VECES EL SALARIO
+CONCEPTO CUOTA DE SALARIO
 
 MINIMO GENERAL
 
-VIGENTE EN SINALOA
+VIGENTE EN EL ESTADO
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+I.- Por expedición de licencias de manejo, vigencia de:
 
-I.- Por cada vehículo que se registre para su circulación y tránsito incluyendo el juego de placas aprobadas por la Secretaría de Comunicaciones y Transportes, tarjeta de circulación y calcomanías, por el período de vigencia autorizado por dicha Secretaría del Estado, se cubrirán las siguientes cuotas:
+a).- Dos años
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+1.- Chofer 5.50
 
-a).- Juego de placas de
+2.- Automovilista 5.30
 
-servicio particular por
+3.- Motociclista 5.00
 
-seis años 6.00
+4.- Aprendiz 5.30
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+b).- Cuatro años
 
-b).- Juego de placas de
+1.- Chofer 11.00
 
-servicio público local,
+2.- Automovilista 10.60
 
-por seis años 6.00
+3.- Motociclista 10.00
 
-(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991))
+c).- Seis años
 
-c).- Juego de placas de
+1.- Chofer 16.50
 
-servicio de demostración,
+2.- Automovilista 16.00
 
-por seis años 8.00
+3.- Motociclista 15.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+II.- Reposición de licencia por pérdida o deterioro
 
-d).- Por cada placa para
+con vigencia de:
 
-motocicleta, por un año 2.00
+a).- Dos Años
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+1.- Chofer 5.50
 
-e).- Para la circulación de
+2.- Automovilista 5.30
 
-maquinaria agrícola y equipo
+3.- Motociclista 5.00
 
-móvil diverso a los previstos
+4.- Aprendiz 5.30
 
-en los inciso anteriores
+b).- Cuatro años
 
-por día 0.40
+1.- Chofer 11.00
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+2.- Automovilista 10.60
 
-f).- Para la circulación de
+3.- Motociclista 10.00
 
-vehículos con peso y
+c).- Seis años
 
-dimensiones mayores a
+1.- Chofer 16.50
 
-las autorizadas, según lo
+2.- Automovilista 16.00
 
-previsto por el Artículo 63 de la
+3.- Motociclista 15.00
 
-Ley de Tránsito y Transportes
+III.- Por control vehicular:
 
-del Estado, por día 0.07
+a).- Por la expedición de placas de vigencia permanente,
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+tarjetas de circulación y calcomanía
 
-g).- Para circular con carga
+1.- Para vehículos de
 
-sobresaliente no autorizada,
+servicio particular 15.00
 
-por viaje, 0.10
+2.- Para vehículos de
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+servicio público estatal 17.00
 
-h).- Por el transporte nocturno
+3.- Para vehículo de
 
-de carga sobresaliente, por viaje 0.10
+demostración (placas y
 
-i).- Por la revalidación anual de
+tarjetas de circulación) 40.00
 
-los juegos de placas a que se refieren
+4.- Para remolques
 
-los inciso (sic) a), b) y c) de esta
+(placas y tarjeta de
 
-fracción 1.30
+circulación) 10.00
 
-(REFORMADO, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
+5.- Para motocicletas
 
-II.- Por cada licencia para manejar, por dos años:
+(placas y tarjeta de
 
-a).- Camiones y otros 1.50
+circulación) 10.00
 
-b).- Automóvil 1.30
+b).- Por reposición de juego de placas de vigencia permanente por pérdida o deterioro.
 
-c).- Motocicleta 0.65
+1.- Para vehículos de
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+servicio particular 15.00
 
-III.- Por expedición de nueva tarjeta
+2.- Para vehículo de
 
-de circulación por extravío, cambio
+servicio público estatal 17.00
 
-de domicilio, cambio de
+3.- Para vehículo de
 
-características del vehículo y
+demostración 40.00
 
-cualquier otra causa 0.35
+4.- Para remolques 10.00
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+5.- Para motocicletas 10.00
 
-IV.- Por reposición de cada licencia
+c).- Por reposición de tarjeta de circulación por pérdida, deterioro o cualquier otra causa 4.00
 
-para manejar 1.00
+d).- Por refrendo anual de placas y tarjeta de
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+circulación de vigencia permanente, con emisión
 
-V.- Por cada examen o certificado
+de calcomanía
 
-médico para la expedición o refrendo
+1.- Para vehículo de
 
-de licencia para justificar el estado
+servicio particular 6.00
 
-del conductor cuando sea necesario 0.25
+2.- Para vehículo de
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+servicio público estatal 8.00
 
-VI.- Por cada concesión de ruta
+3.- Para vehículos de
 
-o zona para camiones o automóviles
+demostración 20.00
 
-destinados al servicio público de
+4.- Para remolques 5.00
 
-pasaje y/o carga, de 7 a 50
+5.- Para motocicletas 3.00
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+e).- Por la baja de placas 1.00
 
-VII.- Por cada concesión de ruta
+f).- Por la expedición de
 
-o zona para explotar el servicio
+cada permiso para circular
 
-exclusivo de turismo, de 7 a 50
+sin placas en vehículos
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+de servicio particular,
 
-VIII.- Por cada concesión de ruta
+por día: 0.50
 
-o zona para el servicio de express,
+IV.- Por cada concesión de
 
-de 7 a 50
+servicio público de
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+transporte de pasaje
 
-IX.- Por cada concesión de ruta
+y/o carga de ruta o zona 40.00
 
-o zona para el transporte
+V.- Por cada cesión o transmisión de concesión y/o permiso de servicio público de transporte de pasaje y/o carga de ruta o zona determinada
 
-especial de carga peligrosa,
+a).- Por cada cesión de
 
-tales como explosivos u otros
+concesión y/o permiso 40.00
 
-similares en los denominados
+b).- Por cada cesión de
 
-"pipas" o "tanques", de 16 a 82
+concesión y/o permiso
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+entre cónyuges y
 
-X.- Por cada traspaso o
+ascendientes o descendientes
 
-transmisión de concesión de
+en línea recta
 
-ruta a zona cualquiera que
+en primer grado EXENTO
 
-sea la causa que la origine, de 16 a 82
+c).- Por cada transmisión
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+de concesión y/o
 
-XI.- La revalidación anual de cada concesión de ruta o zona determinada, se pagará conforme a las siguientes cuotas:
+permiso 40.00
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+d).- Por cada transmisión
 
-XII.- Por la licencia anual para el transporte previsto en el Artículo 184 de la Ley de Tránsito y Transportes:
+de concesión y/o permiso
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+entre cónyuges y
 
-XIII.- Por concesiones eventuales de servicio público, por día:
+ascendientes o descendientes
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+en línea recta
 
-XIV.- Para circular sin placas
+en primer grado EXENTO
 
-correspondiente a vehículos de
+VI.- Por el refrendo anual de cada concesión de servicio público de transporte de pasaje y/o carga de ruta o zona determinada:
 
-servicio particular o público,
+a).- Por cada unidad de servicio público de transporte de pasaje y/o carga de ruta o zona.
 
-por día 0.15
+1.- Si el pago se hace en el
 
-(REFORMADO, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
+mes de diciembre del año
 
-XV.- Por cada permiso para
+inmediato anterior a aquél
 
-manejar sin licencia de conductor
+a que corresponda la
 
-correspondiente a vehículos de
+revalidación. 15.00
 
-servicio particular o público, por día 0.15
+2.- Si el pago se hace en
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+los meses de enero
 
-XVI.- Por cada constancia que
+o febrero 20.00
 
-no esté comprendida en las
+La revalidación anual será obligatoria a partir del mes de enero del año siguiente a aquél en que haya sido otorgada la concesión o permiso.
 
-fracciones anteriores, que expidan las
+Si el pago se hace a partir del mes de marzo, se cubrirá la cuota a que se refiere el punto anterior, y se aplicarán las sanciones correspondientes de acuerdo a lo establecido en el Código Fiscal del Estado.
 
-autoridades de Tránsito del Estado,
+VII.- Por cada permiso eventual de servicio público, por día:
 
-por hoja 0.10
+1.- Para el transporte de
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+pasajeros 1.00
 
-XVII.- Por expedición de baja
+2.- Para transporte de
 
-de placas 0.50
+carga 1.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+3.- Para transporte de
 
-XVIII.- Por cada placa de remolque,
+carga mixta, entendiéndose
 
-por seis años 3.50
+de pasajeros y carga 1.00
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+4.- Para servicio exclusivo
 
-XIX.- Por cada estudio
+de turismo 1.50
 
-socio-económico que se efectúe
+VIII.- Por cada estudio
 
-de acuerdo con la Ley de Tránsito y
+socio-económico que se
 
-Transportes del Estado, se cobrará
+efectúe de acuerdo a lo
 
-una cuota de 0.65 a 3.30
+previsto por la Ley de
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+Tránsito y Transportes
 
-XX.- Por cada vehículo que se deposite en la pensión de Tránsito se cobrarán las siguientes cuotas, por día:
+del Estado. 35.00
 
-a).- Camiones y Ómnibuses 0.05
+IX.- Por cada examen o
 
-b).- Automóviles y Pick-Ups 0.03
+certificado médico para
 
-c).- Motocicletas 0.02
+justificar el estado del
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+conductor cuando sea
 
-XXI.- Por el servicio de la grúa de tránsito se pagarán las siguientes cuotas:
+necesario 5.00
 
-a).- Automóviles y camiones: 2.00
+X.- Por cada copia
 
-b).- Camiones, autobuses y similares: 3.00
+certificada de documentos
 
-> <small>(ADICIONADA P.O. 12 DE OCTUBRE DE 1990)</small>
+registrados en los archivos
 
-XXII.- Para el transporte de
+de la Dirección General de
 
-carga particular de 10 a 40
+Tránsito, por hoja 0.50
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+XI.- Por la guarda de vehículos en la pensión de Tránsito,
 
-El pago de los derechos a que se refiere este Capítulo deberá efectuarse en las fechas y dentro de los plazos establecidos por la Ley de Tránsito y Transportes, o en las fechas y plazos que para el efecto señalen las autoridades correspondientes, cuando las necesidades del servicio así lo requieran. El incumplimiento a los plazos establecidos ocasionará una multa equivalente a un tanto del derecho de que se trate, independientemente del pago de los recargos fiscales respectivos.
+por día:
 
-ART. 311.- Para la aplicación de las multas por violaciones a la Ley General de Tránsito y Transportes del Estado, se atendrá a lo dispuesto por dicha Ley.
+1.- Camiones y
+
+Omnibuses 1.00
+
+2.- Automóviles y
+
+camionetas 0.60
+
+3.- Motocicletas 0.35
+
+XII.- Por el traslado de vehículos automotores con grúa:
+
+a).- En zona urbana
+
+1.- Automóviles y
+
+camionetas 8.00
+
+2.- Camiones,
+
+omnibuses y similares 10.00
+
+Fuera de la zona urbana, además de la cuota señalada se pagará 0.50 salario mínimo general diario vigente en el Estado por cada kilómetro de arrastre.
+
+XIII.- Por revisión de
+
+las condiciones físicas
+
+de los vehículos de
+
+servicio público. 2.00
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+ART. 311.- Para la aplicación de las multas por violaciones a la Ley de Tránsito y Transportes del Estado, se atenderá a lo dispuesto por dicha Ley.
+
+El pago de los derechos a que se refiere este Capítulo deberá efectuarse en las fechas y dentro de los plazos establecidos por la Ley de Tránsito y Transportes, o en las fechas y plazos que para el efecto señalen las autoridades correspondientes, cuando las necesidades del servicio así lo requieran. El pago de los derechos a que se refiere este Capítulo, fuera de los plazos establecidos, ocasionará la aplicación de sanciones a que se refiere el Código Fiscal del Estado.
 
 ### CAPITULO IX. Expedición de Pasaportes
 
@@ -3171,367 +3199,561 @@ II.- Por la expedición de pasaportes para dos o más personas 400.00.
 
 ART. 313.- Los servicios que se presten en el Registro Público de la Propiedad, causarán derechos fiscales conforme a la siguiente:
 
+> <small>(REFORMADA LA TARIFA, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
 T A R I F A:
 
 CONCEPTO CUOTA SALARIO
 
 MINIMO GENERAL
 
-VIGENTE EN SINALOA
+VIGENTE EN EL
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+ESTADO
 
-I.- El examen de todo documento, sea público o privado, que se presente al registro para su inscripción, cuando se rehuse éste por no ser inscribible, cuando se devuelva sin inscribir a petición de interesados o por resolución judicial, se cobrará:
+I.- Cuando se rehuse
 
-(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991).
+la inscripción de un
 
-a).- Por las primeras
+documento, por la
 
-diez hojas 0.05
+inscripción preventiva
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+que establece el
 
-b).- Por cada hoja adicional 0.01
+Código Civil del Estado,
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+se causará 10.00
 
-II.- En la inscripción o registro de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier otra clase, por virtud de los cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, el cobro se hará sobre la base del valor que resulte mayor entre el declarado en la operación, el avalúo comercial o el valor catastral, aplicándose un porcentaje de 0.75% sobre dicho valor, sin que el importe de los derechos pueda exceder de 750 días de salario mínimo.
+En caso de resolución judicial que ordene la inscripción definitiva se compensará el pago efectuado de la inscripción preventiva al pago de la definitiva.
 
-Tratándose de adquisición de casa-habitación cuyo valor catastral en la fecha de la operación no exceda de 9,000 días de salario mínimo, los derechos correspondientes se causarán aplicando la tasa de 0.75% señalada en el párrafo anterior sobre la base del 50% del valor a que se refiere dicho párrafo;
+II.- Por la inscripción o registro de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier otra clase, por virtud de los cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, se aplicará la tasa de 0.75% sobre la base, del valor que resulte mayor entre el declarado en la operación, el avalúo comercial o el valor catastral, salvo en los siguientes casos:
 
-III.- En las operaciones en que medie condición suspensiva o resolutoria, reserva de propiedad o cualquier otra que haya de dar lugar a una inscripción complementaria para su perfeccionamiento, se pagará al hacerse la primera inscripción, con arreglo a la fracción II, y al practicarse la inscripción complementaria, se pagará el 25% de lo que corresponda con arreglo a dicha fracción II;
+a).- Tratándose de adquisición de casa habitación cuyo valor catastral en la fecha de la operación no exceda de 9,000 días de salario mínimo general diario vigente en el Estado, los derechos correspondientes se causarán aplicando la tasa de 0.75% señalada en el párrafo anterior sobre la base del 50% del valor a que se refiere dicho párrafo.
 
-IV.- La inscripción de gravámenes sobre bienes inmuebles sea por contrato, por resolución judicial o por disposición testamentaria y las de los títulos por virtud de los cuales se adquieran, transmitan, modifiquen o extingan derechos reales sobre inmuebles distintos del dominio, de limitación de dominio del vendedor, los embargos, las servidumbres y las fianzas, pagarán con arreglo a la fracción II;
+b).- Tratándose de adquisición
 
-V.- En las inscripciones de bienes o derechos reales cuya propiedad se transmita por herencia, se tomará como valor para la cotización el que resulte mayor entre el declarado por las partes, el avalúo comercial y el de valor catastral;
+de bienes por herencia o por
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+donación, entre cónyuges y
 
-VI.- Las células (sic) hipotecarias pagarán conforme a la tasa de 0.375%, sirviendo como base el monto del crédito hipotecario, sin que el importe de los derechos pueda exceder de 750 días de salario mínimo.
+entre ascendientes y
 
-VII.- La inscripción de las demandas a que se refiere el Artículo 67 del Reglamento del Registro Público de la Propiedad pagará el 35% de las cuotas de la Fracción II;
+descendientes en línea recta,
 
-VIII.- Las cancelaciones en los casos a que se refieren las fracciones IV y VI, pagarán el 35% de la cuota que señala la fracción II;
+en cualquier grado, por cada
 
-IX.- Los créditos hipotecarios y refaccionarios, así como los créditos de habilitación o avío, causarán por una sola vez sobre el Importe de la operación el 0.25%, sin que en estos casos el importe de los Derechos pueda exceder de la cantidad equivalente a 250 días de salario mínimo general vigente en Sinaloa al momento de hacerse el pago;
+uno de los inmuebles,
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+se causarán 10.00
 
-Tratándose de créditos destinados a la adquisición de casa-habitación cuyo valor catastral en la fecha de la operación no exceda de 9,000 días de salario mínimo, los derechos correspondientes se causarán aplicando la tasa del 0.25% señalada en el párrafo anterior sobre la base del 50% del importe a que se refiere dicho párrafo.
+El cobro de los derechos a que se refiere esta fracción, no deberá exceder de 750 días de salario mínimo general diario vigente en el Estado.
 
-X.- Tratándose de bienes muebles, las inscripciones de la condición resolutoria en los casos de venta del pacto de reserva de la propiedad, de la limitación del dominio del vendedor, de la prenda en general, de la prenda de frutos pendientes de bienes y raíces y de la prenda de título de créditos, causarán el 50% de la cuotas que señala la Fracción II;
+III.- Por cada inscripción de convenios de reestructuración o modificación de contratos de crédito, se causará una cuota de 10 días de salario mínimo general diario vigente en el Estado, salvo cuando se trate de ampliación de crédito se aplicará la tasa de 0.25 sobre el incremento del mismo, sin que el cobro de los derechos exceda de 250 días de salario mínimo general diario vigente en el Estado.
 
-XI.- El registro de testamento,
+IV.- Por la inscripción
 
-de autos de declaración de
+de contratos de
 
-herederos y nombramientos
+reconocimiento de
 
-de la albacea definitivo,
+adeudo, se causará 10.00
 
-independientemente de los
+V.- Por la inscripción
 
-derechos por depósitos y
+de contratos de compra
 
-por la inscripción de las
+de esperanza se causará 10.00
 
-transmisiones a que haya
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
-lugar, causarán la
+VI.- En las operaciones en que medie condición suspensiva o resolutoria, reserva de propiedad o cualquier otra que haya de dar lugar a una inscripción complementaria para su perfeccionamiento, se pagará el (sic) hacerse la primera inscripción con arreglo a la fracción II, y al practicarse la inscripción complementaria se pagará el 25% de lo que corresponda con arreglo a dicha fracción.
 
-cuota de 1.00
+VII.- La inscripción de gravámenes sobre bienes inmuebles sea por contrato, por resolución judicial o por disposición testamentaria, y las de los títulos por virtud de los cuales se adquieran, transmitan, modifiquen o extingan derechos reales distintos del dominio, de limitación de dominio del propietario, los embargos, los aseguramientos, las servidumbres y las fianzas, pagarán con arreglo a la fracción II.
 
-XII.- La inscripción de las
+VIII.- Por la inscripción de las cédulas hipotecarias se pagará conforme a la tasa de 0.375%, sirviendo como base el monto del crédito hipotecario, sin que el importe de los derechos deba exceder de 750 días de salario mínimo general diario vigente en el Estado.
+
+IX.- Por la inscripción de
+
+las demandas a que se
+
+refiere el Reglamento del
+
+Registro Público se
+
+Causará 3.00
+
+X.- Las cancelaciones en
+
+los casos a que se refieren
+
+las fracciones VII, VIII, XIII
+
+y XIV de este Artículo,
+
+causarán 2.00
+
+XI.- Por la inscripción de
+
+contratos de aparcería se
+
+causará 3.00
+
+XII.- Por la inscripción del
+
+contrato de copropiedad o
+
+por la división de ésta por
+
+cada inmueble que surja,
+
+se causará 10.00
+
+XIII.- Por la inscripción de
+
+embargos derivados de
+
+juicios por alimentos,
+
+laborales y fiscales
+
+se causará 2.00
+
+XIV.- Por la inscripción de créditos hipotecarios, refaccionarios, de habilitación o avío, así como cualquier otro crédito se causarán derechos, aplicando la tasa de 0.25% sobre el importe del crédito principal que se otorgue al acreditado, sin incluir los intereses por financiamiento, sin que el cobro de los derechos exceda de 250 días de salario mínimo general diario vigente en el Estado.
+
+Tratándose de créditos destinados a la adquisición de casa habitación cuyo valor catastral en la fecha de la operación no exceda de 9,000 días de salario mínimo general diario vigente en el Estado, los derechos correspondientes se causarán aplicando la tasa de 0.25 señalada en el párrafo anterior, sobre la base del 50% del importe a que se refiere dicho párrafo.
+
+XV.- Tratándose de bienes muebles, las inscripciones de la condición resolutoria en los casos de venta del pacto de reserva de la propiedad, de la limitación del dominio del vendedor, de la prenda en general, de la prenda en frutos pendientes de bienes raíces y de la prenda de título de crédito, se aplicará la tasa de 0.40% sobre la base que señala la fracción II, sin que el cobro de los derechos deba exceder de 750 días de salario mínimo general diario vigente en el Estado.
+
+XVI.- Por el registro de
+
+testamento, de autos de
+
+declaración de herederos
+
+y nombramientos de
+
+albacea definitivo,
+
+independientemente de
+
+los derechos por depósito
+
+y por la inscripción de las
+
+transmisiones a que
+
+haya lugar, se causará 10.00
+
+XVII.- Tratándose de
 
 asociaciones de carácter
 
-civil causarán una cuota
+civil, por la inscripción o
 
-fija de 1.00
+modificación del acta
 
-XIII.- Tratándose de sociedades civiles, se pagará:
+constitutiva, así como por
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+la extinción de la
 
-a).- La inscripción de la escritura constitutiva y de los aumentos de capital, causará la cuota de la Fracción II sobre el importe del capital social o de los aumentos, según el caso, sin que el importe de los derechos pueda exceder de 250 días de salario mínimo.
+asociación se causará 3.00
 
-b).- Cualquier modificación de
+XVIII.- Tratándose de sociedades civiles, se causará:
+
+a).- Por la inscripción de la escritura constitutiva y de los aumentos de capital, se aplicará la tasa de 0.75% sobre el importe del capital social o de los aumentos, según sea el caso, sin que el cobro de los derechos deba exceder de 500 días de salario mínimo general diario vigente en el Estado.
+
+b).- Por la inscripción de
+
+cualquier modificación a
 
 la escritura constitutiva,
 
-exceptuando el aumento de
+exceptuando el aumento
 
-capital social, causará una
+de capital social,
 
-cuota fija de 1.00
+causará 3.00
 
-c).- La cancelación del registro por extinción de la sociedad, causará el 35% de las cuotas de la Fracción II;
+c).- Por la inscripción de
 
-XIV.- Tratándose de fundaciones de beneficencia privada, se pagará el 50% de las cuotas que procedan, en los términos de la fracción anterior;
+la extinción de la sociedad,
 
-XV.- Por las constancias y
+causará 3.00
 
-ratificaciones a que se
+XIX.- Tratándose de
 
-refiere el Artículo 145 del
+fundaciones de beneficencia
+
+privada, por la inscripción o
+
+modificación de la escritura
+
+constitutiva, así como por la
+
+extinción de la fundación,
+
+se causará una cuota de 5.00
+
+XX.- Por las constancias y
+
+ratificaciones de documentos
+
+privados a que se refiere el
 
 Reglamento del Registro
 
-Público del Estado, se
+Público, se causará 2.00
 
-pagará una cuota de 0.65
-
-XVI.- Por el depósito de un testamento ológrafo:
+XXI.- Por el depósito de un testamento ológrafo:
 
 a).- Si el depósito se hace
 
 en la Oficina del Registro
 
-Público 1.00
+Público, se causará 3.00
 
 b).- Si el depósito se hace
 
 fuera de la Oficina del
 
-Registro Público 1.65
+Registro Público,
 
-XVII.- Por informes relativos
+se causará 6.00
+
+XXII.- Por informes relativos,
 
 al otorgamiento de
 
-testamentos ológrafos
+testamentos ológrafos,
 
-incluyendo la búsqueda 0.35
+incluyendo la búsqueda,
 
-XVIII.- Por la expedición de
+se causará 2.00
 
-copia certificada de cualquier
+XXIII.- Por la expedición
 
-documento que se encuentre
+de copia certificada de
 
-inscrito se pagará
+cualquier documento que
 
-independientemente de la
+se encuentre inscrito,
 
-búsqueda, por cada hoja 0.15
+se pagará por hoja 0.25
 
-XIX.- Por la búsqueda para
+XXIV.- Por la expedición de certificados de:
 
-la expedición de certificados
+a).- No propiedad 2.00
 
-o copias certificadas, por
+b).- Libertad de
 
-cada hoja 0.07
+gravamen 4.00
 
-XX.- Por la expedición de
+c).- Historia registral de
 
-certificados de libertad de
+los últimos 20 años 10.00
 
-gravámenes de inmuebles
+XXV.- Por las informaciones
 
-de derechos reales y
+ad-perpetuam se causarán 10.00
 
-cualquier otro certificado,
+XXVI.- Por la inscripción de
 
-independientemente de la
+rescisión de contrato,
 
-búsqueda, por cada hoja 0.50
+cualquiera que sea su
 
-XXI.- Las informaciones ad-perpetuam causarán los derechos de la Fracción II de acuerdo con el valor comercial o el catastral y tomando en cuenta lo dispuesto en el inciso e) de la fracción I del Artículo siguiente.
+naturaleza, se causar 3.00
 
-XXII.- En caso de rescisión de contrato, cualquiera que sea su naturaleza, se pagará el 25% de las cuotas a que se refiere la fracción II.
+XXVII.- Por la inscripción
 
-XXIII.- Por el registro de la constitución del patrimonio familiar, se cobrará conforme a la fracción II de este mismo Artículo.
+de la Constitución del
 
-XXIV.- Por la inscripción de títulos públicos o privados, de resoluciones judiciales, administrativas o de cualquiera otra clase por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de lotes o departamentos sujetos al régimen de condominio, se cobrará conforme a la fracción II de este Artículo.
+Régimen de Propiedad en
+
+Condominio causará 10.00
+
+a).- Por la inscripción de
+
+las actas de asamblea de
+
+condóminos y modificación
+
+del régimen de propiedad
+
+en condominio 5.00
+
+XXVIII.- Por el registro de
+
+la constitución del
+
+patrimonio familiar,
+
+se causará 10.00
+
+XXIX.- Por la inscripción
+
+o modificación a las
+
+capitulaciones
+
+matrimoniales, y
+
+liquidación de la sociedad
+
+conyugal, se causará 10.00
+
+XXX.- Por la inscripción de contratos de fideicomiso, se causará:
+
+a).- En los que el fideicomitente no tenga derecho a readquirir los bienes se pagará con arreglo a la fracción II.
+
+b).- Por los de garantía y administración en los que el fideicomitente tenga derecho a la reversión, el 0.25% sobre el monto de la obligación garantizada, sin que el cobro de los derechos deba exceder de 250 días de salario mínimo general diario vigente en el Estado.
+
+c).- Por la sustitución de
+
+fiduciario o
+
+fideicomisario 3.00
+
+d).- Por la reversión de
+
+cada uno de los bienes 2.00
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ABRIL DE 1987)</small>
 
 ART. 314.- Para el cobro de los derechos que establece el artículo anterior, se observarán las reglas siguientes:
 
-I.- En las cuotas señaladas sobre valor, se tendrá por valor en sus respectivos casos:
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
-a).- Tratándose de patrimonio familiar, el de los bienes que los (sic) constituyen;
+I.- Cuando se trate de tasas aplicables sobre el valor, se tendrá por valor en sus respectivos casos:
 
-b).- En los casos de arrendamiento de inmuebles por más de seis años o con anticipos de rentas por más de tres, el importe total de las rentas estipuladas que deban causarse por el término del contrato, o el monto de las rentas anticipadas;
+a).- En los casos de arrendamiento de inmuebles por más de seis años o con anticipo de rentas por más de tres, el importe total de las rentas estipuladas que deban causarse por el término del contrato, o el monto de las rentas anticipadas;
 
-c).- Cuando se trate de actos, contratos o resoluciones por lo que se transmita el dominio o la posesión de inmuebles o derechos reales se tomará como valor para la cotización el que resulte mayor entre el declarado por las partes, el de avalúo comercial y el de valor catastral;
+b).- Cuando se trate de actos, contratos o resoluciones por los que se transmitan el dominio o la posesión de inmuebles o derechos reales se tomará como valor para la cotización el que resulte mayor entre el declarado por las partes, el de avalúo comercial y el de valor catastral;
 
-d).- En los contratos de garantía, en los embargos y otros gravámenes, el valor de las obligaciones garantizadas, y en su defecto el valor determinado conforme al inciso c);
+c).- En los contratos de garantía, en los embarqos y otros gravámenes, el valor de las obligaciones garantizadas, y en su defecto el valor determinado conforme al inciso anterior;
 
-e).- El valor del inmueble en los casos de información ad-perpetuam, y en su defecto el valor determinado conforme al inciso c); y,
-
-f).- El valor aprobado por la autoridad fiscal competente al practicar la liquidación si se trata de inscripción de bienes o derechos reales que se transmitan por herencia, y en su defecto el valor determinado conforme al inciso c);
+d).- La consideración hecha en el inciso a) de la fracción II de Artículo anterior, se entenderá en favor de quienes vayan a habitar el inmueble;
 
 II.- En las emisiones de cédulas hipotecarias en que se constituya hipoteca en favor de una institución de crédito por las condiciones, cuotas, derechos otros conceptos cuyo importe no pueda determinarse al momento de realizarse la operación, se pagará por la inscripción que se haga de dicha hipoteca, independientemente de la que se constituya a favor de los tenedores de las cédulas, la cuota correspondiente por la cantidad determinada;
 
-III.- En toda transmisión de bienes o derechos reales que se realicen por contrato o resolución judicial, cuando en ellas queden comprendidos varios bienes, se pagará sobre el valor de cada uno de ellos. Si la transmisión comprende varios bienes, y se realiza por una suma alzada, los interesados determinarán el valor que corresponda a cada uno de dichos bienes, a efecto de que dicho valor sirva de base para el cobro de los derechos;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+III.- Cuando en un mismo instrumento conste la transmisión de dos o más bienes o derechos reales, se pagará sobre el valor de cada uno de ellos; si la transmisión se realiza por una suma alzada y los interesados no determinan el valor que corresponda a cada uno de dichos bienes, se tomará como base el que resulte mayor de entre el valor catastral y el valor comercial de los mismos, sin que el cobro exceda del límite establecido, aún cuando la suma de los derechos correspondientes por la inscripción de cada uno de los inmuebles resultase mayor;
 
 IV.- Para la aplicación de las tasas de la fracción II del artículo anterior, en su caso, la nuda propiedad se valuará en 75% del precio del inmueble y el usufructo en el 25% del mismo;
 
-V.- En los casos en que los servicios que preste el Registro Público de la Propiedad no se encuentren expresamente previstos en las tarifas del artículo anterior, los derechos que a ellos correspondan se causarán por asimilación, aplicando las disposiciones relativas a casos con los que guarden semejanza;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+V.- En los casos en que los servicios que preste el Registro Público de la Propiedad, no se encuentren expresamente previstos en las tarifas del artículo anterior, se pagará una cuota de 3 días de salario mínimo general diario vigente en el Estado;
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
 
 VI.- Cuando se trate de contratos, demandas o resoluciones que se refieran a prestaciones periódicas, el valor se determinará en la suma de éstos, si se puede determinar exactamente su cuantía; en caso contrario se tomará como base la cantidad que resulte haciendo el cómputo por un año;
 
-VII.- No causan los derechos a que se refiere este Capítulo:
+VII.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 1995)
 
-a).- Cuando se trate de inscripción relativa a bienes inmuebles o de dominio público o derechos reales pertenecientes a la federación, al Estado de Sinaloa y a sus municipios;
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
-b).- Por los informes o certificaciones que soliciten el Gobierno Federal o las autoridades del Estado de Sinaloa o de sus Municipios;
+VIII.- Los créditos con garantía hipotecaria, que deban inscribirse en distintos municipios, en virtud de la ubicación de los bienes, los derechos correspondientes, se causarán tomándose como base la porción del crédito por la que responda cada una de las garantías, si se determina; en caso contrario el pago se efectuará en porcentajes iguales en cada municipio que se registre.
 
-c).- Por los informes que se soliciten para asuntos penales o para juicios de amparo;
+Cuando una resolución de embargo de bienes o un Contrato de Fideicomiso deba inscribirse en distintos municipios en virtud de la ubicación de los mismos, el monto total de los derechos causados se dividirá entre el número de municipios en que corresponda inscribir, pagándose en cada uno de ellos la proporción que resulte.
 
-d).- En los casos de las inscripciones preventivas a que se refiere el Art. 2899 del Código Civil.
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
-e).- Cuando se trate de reinscripciones relativas a bienes inmuebles y derechos reales, si la misma se efectúa en una nueva oficina del Registro Público.
+ART. 314 Bis.- No causarán los derechos a que se refiere este Capítulo:
 
-> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1987)</small>
+a).- Cuando se trate de inscripción relativa a bienes inmuebles del dominio público o derechos reales pertenecientes a la Federación, al Estado de Sinaloa y sus Municipios;
 
-f).- La cancelación del registro de gravámenes sobre créditos hipotecarios, refaccionarios o de habilitación o avío.
+b).- Por los informes o certificaciones que soliciten el Gobierno Federal, las autoridades del Estado de Sinaloa o de sus Municipios;
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+c).- Por los informes que soliciten las autoridades administrativas y judiciales para asuntos penales o juicios de amparo;
 
-g).- Por la búsqueda y expedición de certificado de libertad de gravámenes o de no propiedad para la adquisición de casa-habitación cuyo valor catastral en la fecha de la operación no exceda de 9,000 días de salario mínimo.
+d).- En los casos de inscripciones preventivas a que se refiere el Artículo 2899 del Código Civil;
+
+e).- Cuando se trate de reinscripciones relativas a bienes inmuebles y derechos reales, si la misma se efectúa en una nueva oficina del registro público;
+
+f).- Por la búsqueda y expedición de certificados de libertad de gravámenes o de no propiedad para la adquisición de casa-habitación, cuyo valor catastral en la fecha de la operación no exceda de 9,000 días de salario mínimo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ART. 315.- Los servicios que se presten en el Registro Público de Comercio, causarán derechos fiscales de acuerdo con la siguiente:
 
+> <small>(REFORMADA LA TARIFA, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
 T A R I F A:
 
-(REFORMADO, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
-
-CONCEPTO VECES EL SALARIO
+CONCEPTO CUOTA DE SALARIO
 
 MINIMO GENERAL
 
-VIGENTE EN SINALOA
+VIGENTE EN EL ESTADO
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+I.- Por la inscripción de
 
-I.- La inscripción de contratos mercantiles de cualquier clase no especificados en otras fracciones de esta tarifa, causará los respectivos derechos de acuerdo con lo dispuesto en la fracción II del Artículo 313, sobre la base de valor de las operaciones;
+contratos de
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+arrendamiento financiero
 
-II.- Por la matrícula de cada comerciante individual, los derechos se pagarán con arreglo a lo dispuesto en la fracción II del Artículo 313, sobre la base del capital declarado;
+en cualquiera de sus
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 1988)</small>
+modalidades,
 
-III.- Tratándose de sociedades mercantiles la cotización de los servicios se hará en los términos siguientes:
+se causará 50.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+II.- Por la inscripción de actas constitutivas de sociedades cooperativas causará una cuota de 2 días de salario mínimo general diario vigente en el Estado si no hay capital, si lo hubiere, se aplicará la tasa del 0.25%, sin que el monto de los derechos exceda de 350 días de salario mínimo general diario vigente en el Estado.
 
-a).- La inscripción de la escritura constitutiva o de los aumentos de capital causará la misma cuota que establece la Fracción II del Artículo 313, sobre el importe del capital social o de los aumentos según sea el caso, sin que el importe de los derechos pueda exceder de 500 días de salario mínimo. Las sociedades de capital variable pagarán sobre el capital inicial. En caso de establecimientos de sucursales de sociedades mercantiles, se tomará como base el capital asignado a ellas;
+III.- Por la inscripción de contratos de factoraje, si son prendarios, se aplicará la tasa de 0.40% sobre el monto de la operación, sin que el cobro de los derechos deba exceder de 750 días de salario mínimo general diario vigente en el Estado y si son hipotecarios, se cubrirá una cuota del 0.25% sobre el monto de la misma, sin que el cobro de los derechos deba exceder de 250 días de salario mínimo general diario vigente en el Estado.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+IV.- Por la inscripción de la matrícula de cada comerciante individual, los derechos se pagarán con arreglo a lo dispuesto en la fracción II del artículo 313, sobre la base del capital declarado.
 
-b).- Cualquier modificación
+V.- Tratándose de sociedades mercantiles, los derechos correspondientes se causarán en los términos siguientes:
 
-a la escritura constitutiva,
+a).- Por la inscripción de la escritura constitutiva o de los aumentos de capital, se causará la misma cuota que establece la fracción II del artículo 313, sobre el importe del capital social o de los aumentos según sea el caso, sin que el importe de los derechos pueda exceder de 750 días de salario mínimo general diario vigente en el Estado. Las sociedades de capital variable, pagarán sobre el capital inicial fijo. En caso de establecimientos de sucursales de sociedades mercantiles, se tomará como base el capital asignado a ellas; si hay aportación de bienes inmuebles, se pagará con arreglo a la fracción II del Artículo 313.
+
+b).- En la fusión o escisión
+
+de sociedades por cada
+
+una que resulte,
+
+se causará: 10.00
+
+c).- Por la inscripción de
+
+cualquier modificación a la
+
+escritura constitutiva,
 
 exceptuando el aumento de
 
-capital social, causará
+capital social,
 
-una cuota de 1.00
+se causará 2.00
 
-(REFORMADO, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
+d).- Por la inscripción de la disolución de sociedades, si no hay bienes que se adjudiquen se causará una cuota equivalente a 2 días de salario mínimo general diario vigente en el Estado. Si hay bienes que se adjudiquen a terceros se pagará con arreglo a la fracción II del artículo 313, sobre la base del valor de los bienes adjudicados.
 
-c).- La inscripción de la disolución de las sociedades causará, si no hay bienes que se adjudiquen a los socios o terceros, una cuota equivalente a 0.50 veces el salario mínimo general que se encuentre vigente en el Estado de Sinaloa, en la fecha de causación del Derecho correspondiente. Si hay bienes que se adjudiquen a los socios o terceros, se causarán los derechos que correspondan con arreglo a la fracción II del Artículo 313, sobre la base del valor de los bienes adjudicados;
+e).- Por la inscripción de
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+actas de asamblea de
 
-d).- La cancelación de la
+accionistas, se causará
 
-inscripción del contrato social,
+una cuota de 2.00
 
-causará la cuota de 1.00
+f).- Por el depósito del
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+programa a que se refiere
 
-e).- La inscripción de actas
+el artículo 92 de la
 
-de asambleas de accionistas,
+Ley General de Sociedades
 
-pagará la cuota de 1.00
+Mercantiles,
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+se causará 1.00
 
-f).- El depósito del programa a
+VI.- Por la inscripción del acta de emisión de bonos u obligaciones de sociedades anónimas, se causarán los respectivos derechos con arreglo a la fracción II del Artículo 313.
 
-que se refiere el Artículo 92
+VII.- Por la inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío, se causarán los respectivos derechos de acuerdo con lo dispuesto en el primer párrafo de la fracción XIV del artículo 313.
 
-de la Ley General de Sociedades
+VIII.- Tratándose de poderes, se causará:
 
-Mercantiles, causará la cuota de 1.00
+a).- Por la inscripción y
 
-IV.- La inscripción del acta de emisión de bonos u obligaciones de sociedades anónimas causará los respectivos derechos de acuerdo con lo dispuesto en la fracción II del Artículo 313;
+sustitución 2.00
 
-V.- Los créditos hipotecarios, refaccionarios y habilitación o avío causarán los respectivos derechos de acuerdo con lo dispuesto en la fracción IX del Artículo 313;
+b).- Por la inscripción de
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+revocación 1.00
 
-VI.- La inscripción de poderes
+IX.- La habilitación de edad,
 
-y de las substituciones de los
+licencia y emancipación
 
-mismos pagarán una cuota
+para ejercer el comercio,
 
-de 1.00
+las revocaciones de unos y
 
-En el caso de revocación de
+otros y las escrituras a
 
-poder se pagarán una cuota de 0.65
+que se refieren las
 
-El otorgamiento de poderes a los administradores o gerentes de sociedades mercantiles, hecho en las escrituras constitutivas o en sus modificaciones, no causarán cuotas de inscripción;
+fracciones X y XI del
 
-(REFORMADA, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
+artículo 21 del Código de
 
-VII.- La habilitación de edad,
+comercio causarán 2.00
 
-licencia y emancipación para ejercer
-
-el comercio, las revocaciones de
-
-unos y otros, y las escrituras a que
-
-se refieren las Facciones X y XI del
-
-Artículo 21 del Código de Comercio 0.35
-
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
-
-VIII.- La inscripción de las
+X.- Por la inscripción de las
 
 resoluciones judiciales en
 
-que se declare una quiebra o
+las que se declare
 
-se admita una liquidación judicial 1.00
+suspensión de pagos,
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+quiebra o se admita
 
-IX.- Las anotaciones referentes
+liquidación judicial,
 
-a inscripciones principales 0.55
+se causará 2.00
 
-X.- Las certificaciones y certificados pagarán con arreglo a la fracción XVIII de la tarifa del Artículo 313;
+XI.- Las anotaciones
 
-XI.- Por la búsqueda se pagará con arreglo a la fracción XIX de la tarifa del Artículo 313;
+referentes a
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+inscripciones principales,
 
-XII.- Por el depósito y guarda
+se causará 1.00
 
-de documentos 0.35
+XII.- Por la expedición de
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+copia certificada de
 
-XIII.- Ratificaciones de documentos
+cualquier documento que
 
-y firmas ante el Registrador 0.35
+se encuentre inscrito,
+
+se pagará
+
+independientemente de la
+
+búsqueda, por cada hoja 0.25
+
+XIII.- Por la expedición de
+
+certificados de inscripción,
+
+se causará 2.00
+
+XIV.- Por el depósito de
+
+guarda de documentos,
+
+se causará 1.00
+
+XV.- Por las ratificaciones
+
+de documentos y firmas
+
+ante el Registrador,
+
+se causará 2.00
+
+XVI.- Por la inscripción de contratos de fideicomiso, se causará:
+
+a).- En los que el fideicomitente no tenga derecho a readquirir los bienes se pagará con arreglo a la fracción II.
+
+b).- Por los de garantía y administración en los que el fideicomitente tenga derecho a la reversión, el 0.25% sobre el monto de la obligación garantizada, sin que el cobro de los derechos deba exceder de 250 días de salario mínimo general diario vigente en el Estado.
+
+c).- Por la sustitución de
+
+fiduciario o fideicomisario 3.00
+
+d).- Por la reversión de
+
+cada uno de los bienes 2.00
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 1988)</small>
 
@@ -3541,37 +3763,33 @@ ART. 316.- Para el cobro de los derechos que establece la tarifa del Artículo a
 
 I.- Cuando un mismo documento origine dos o más inscripciones, lo (sic) derechos se causarán por cada inscripción;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 1987)</small>
-
-II.- Cuando deban hacerse inscripciones de distintas operaciones que se deriven de la constitución o disolución de una sociedad mercantil, los derechos se cobrarán exclusivamente por la inscripción que se haga en la sección de Comercio;
+II.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 1995)
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
 
 III.- Los contratos que contengan prestaciones periódicas se valuarán en las sumas de éstas si se puede determinar exactamente su cuantía; en caso contrario se tomará como base la cantidad que resulte, haciendo el cómputo por un año;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 1987)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
-IV.- En los casos no previstos expresamente en el Artículo anterior, los derechos por servicios que se presten en el Registro Público de la Propiedad y del Comercio, se causarán por asimilación en los términos de las fraccisones (sic) relativas a casos con los que tengan semejanza. Tendrán aplicación, en su caso, las reglas establecidas en el Artículo 314.
+IV.- En los casos en que los servicios que preste el Registro Público de Comercio, no se encuentren expresamente previstos en la tarifa del Artículo anterior, se causará una cuota de 3 días de salario mínimo general diario vigente en el Estado.
 
 ART. 317.- Las rectificaciones de inscripciones cuando el error sea imputable a los interesados y no al registrador causarán la mitad de los derechos asignados a las inscripciones.
 
-ART. 318.- Por cada certificación de escritura o de cualquier documento inscrito en la Sección de Comercio, se cobrará con arreglo a las Fracciones XVIII y XIX del Artículo 313.
+ART. 318.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 1995)
 
 ART. 319.- En toda constancia que salga de la Oficina del Registro se anotará al margen los derechos y gastos que haya originado, citándose la fracción correspondiente de la tarifa aplicada y del número y fecha del recibo expedido por la Oficina Recaudadora respectiva, debiendo hacerse también estas anotaciones al margen de la inscripción o documento que se conserve en la Oficina del Registro.
 
 ART. 320.- No se causarán derechos de registro por la certificación que se ponga al título o documento al ser presentado para su registro, ni por la certificación que se le ponga de haber quedado inscrito.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+ART. 321.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 1995)
 
-ART. 321.- Cuando se trate de inscripciones de gravámenes o cualquier otra resolución en materia laboral, se causarán los derechos con arreglos a la fracción II del Artículo 313.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
-###### Art. 322.
+ART. 322.- Los Oficiales Registradores, al solicitarseles un servicio de su competencia, formularán por triplicado una liquidación de los derechos causados, en las formas establecidas para tal efecto cuyo original y duplicado entregarán al contribuyente para que efectúe el pago en la Oficina Recaudadora o Institución autorizada correspondiente. Efectuado el pago, el interesado exhibirá al Oficial Registrador el recibo oficial para que tome nota en el triplicado de la liquidación que conservará en su poder. Sin estos requisitos no se hará la inscripción o servicio solicitado.
 
-Los Oficiales Registradores, al serles solicitado un servicio de su competencia, formularán por triplicado una liquidación de los derechos causados, en las formas que al afecto (sic) les proporcione la Oficina Recaudadora correspondiente, cuyo original y duplicado entregarán al causante para que efectúe el pago en la Oficina Recaudadora de la jurisdicción de la Oficina del Registro Público. Hecho el pago, el interesado exhibirá al Oficial Registrador el recibo oficial de pago para que tome nota en el triplicado de la liquidación que conservará en su poder. Sin estos requisitos no se hará la inscripción o servicio solicitado.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
-
-ART. 323.- De los ingresos percibidos en el cobro de los derechos a que se refiere este capítulo, el Oficial registrador participará en la proporción que al efecto señale la Secretaría de Hacienda Pública y Tesorería del Estado. El Oficial registrador deberá cubrir absolutamente todos los gastos de la oficina a su cargo, asegurando un servicio rápido y eficaz. Los Oficiales registradores cobrarán quincenalmente la participación que les corresponda, la que les será pagada por la Oficina Recaudadora correspondiente, previa liquidación y haciéndoles los descuentos respectivos.
+ART. 323.- De los ingresos percibidos en el cobro de los derechos a que se refiere este capítulo, el Oficial Registrador participará en la proporción que al efecto señale la Secretaría de Hacienda Pública y Tesorería del Estado. Los oficiales registradores asegurarán un servicio rápido y eficaz y cobrarán quincenalmente la participación que les corresponda, la que le será pagada por la Oficina Recaudadora correspondiente, previa liquidación y haciéndoles los descuentos respectivos.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 12 DE OCTUBRE DE 1990)</small>
 
@@ -3763,6 +3981,66 @@ ART. 334 Bis E.- Por el servicio de fiscalización y control que las leyes de la
 
 La oficina pagadora de la dependencia correspondiente del Gobierno del Estado, al hacer el pago de las estimaciones de obra, retendrá el importe del derecho a que se refiere el párrafo anterior.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+### CAPITULO XV. Derechos Ecológicos por Impacto Ambiental, Prevención y Control de la Contaminación
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+ART. 334 TER.- Para los efectos del cobro de los derechos a que se refiere este Capítulo se entenderán sujetos de los mismos quienes realicen actividades que se encuentren reguladas en la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Sinaloa y su reglamento.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+ART. 334 TER-A.- Por la recepción, evaluación y dictamen de estudios de manifestación de impacto ambiental, se pagará alguno de los derechos que a continuación se señalan, según corresponda:
+
+I.- Informe preventivo. 40.00 días de salario mínimo general vigente en el Estado.
+
+II.- Manifestación de impacto ambiental modalidad general. 80.00 días de salario mínimo general vigente en el Estado.
+
+III.- Manifestación de impacto ambiental modalidad intermedia. 120.00 días de salario mínimo general vigente en el Estado.
+
+IV.- Manifestación de impacto ambiental modalidad específica. 160.00 días de salario mínimo general vigente en el Estado.
+
+El proponente de la obra o proyecto, pagará los derechos por publicación de los avisos de presentación, de manifestación de impacto ambiental, en el Periódico Oficial "El Estado de Sinaloa".
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+ART. 334 TER-B.- Por la inscripción en el Registro Estatal de prestadores de servicios que realizan estudio de impacto ambiental, se pagará el derecho de impacto ambiental por cada campo de especialidad o refrendo anual correspondiente 70 días de salario mínimo general vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+ART. 334 TER-C.- Por la recepción evaluación y dictamen de estudios de riesgos ambiental, se pagarán los derechos que a continuación se señalan:
+
+I.- Informe preliminar de riesgo. 40.00 días de salario mínimo general vigente en el Estado.
+
+II.- Estudios de riesgo de modalidad análisis de riesgo. 80.00 días de salario mínimo general vigente en el Estado.
+
+III.- Por verificación del cumplimiento de las medidas de prevención y mitigación se pagará. 35.00 días de salario mínimo general vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+ART. 334 TER-D.- Por el funcionamiento de las fuentes fijas de jurisdicción estatal que emitan olores desagradables o dañinos, gases o partículas sólidas o líquidas a la atmósfera, se pagará anualmente el derecho de prevención y control de la contaminación, conforme a las siguientes cuotas:
+
+I.- Por la recepción, evaluación y resolución de funcionamiento. 80.00 días de salario mínimo general vigente en el Estado.
+
+II.- Por la verificación de cumplimiento de las condiciones derivadas de la resolución. 35.00 días de salario mínimo general vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+ART. 334 TER-E.- Por el otorgamiento del dictamen técnico para la obtención de estímulos fiscales o créditos de organismos financieros, en las actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente, se pagará el derecho de prevención y control de la contaminación por cada dictamen técnico 35 días de salario mínimo general vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+ART. 334 TER-F.- Por la evaluación para instalar y operar sistemas de recolección, almacenaje, transporte, alojamiento, reuso, tratamiento, reciclaje, incineración y disposición final de residuos no peligrosos, así como para prestar servicios en dichas operaciones, se pagará por cada evaluación el derecho de prevención y control de la contaminación 160 días de salario mínimo general vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+ART. 334 TER-G.- Por la verificación del funcionamiento de las empresas y particulares cuya actividad por su propia naturaleza, modifique o altere las condiciones naturales de las riberas de los ríos, contribuyendo con ello al desequilibrio o alteración ecológica 70 días de salario mínimo general vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+ART. 334 TER-H.- Para la restauración de las áreas alteradas en sus condiciones naturales de las riberas de los ríos, provocadas por el aprovechamiento de éstas, las empresas o particulares pagarán el derecho de restauración por metro cúbico, conforme a la cuota de 0.20 días de salario mínimo general vigente en el Estado.
+
 ### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
@@ -3786,6 +4064,44 @@ ART. 338.- Ingresarán también como productos los obtenidos de la venta de form
 ART. 339.- Ingresarán también por este concepto las recuperaciones de créditos otorgados por el Gobierno del Estado, así como los intereses devengados por los mismos siendo aplicable al respecto lo dispuesto para los contratos celebrados con bienes el Estado.
 
 ART. 340.- Igualmente ingresarán como productos los ingresos obtenidos de otras unidades de producción pertenecientes al Gobierno del Estado.
+
+### CAPITULO XVII. Impuesto sobre Primera Venta de Gasolina, Grasas Lubricantes y demás Derivados del Petróleo
+
+ART. 240.- Con fundamento en el Artículo 21 de la Ley Federal del Impuesto sobre Consumo de Gasolina, reformado por Decreto del 28 de Diciembre de 1953, se establece un impuesto sobre los ingresos obtenidos por las operaciones de primera venta de gasolina, grasas, lubricantes y demás derivados del petróleo que se efectúen en el Estado.
+
+Los ingresos obtenidos de las posteriores ventas no causan el impuesto.
+
+ART. 241.- Este impuesto se causará con la cuota del 2% sobre los ingresos brutos a que se refiere el Artículo anterior.
+
+ART. 242.- Ninguno de los impuestos adicionales vigentes o que en el futuro se establezcan, inclusive el impuesto adicional municipal, serán aplicables en relación con el impuesto que establece el Artículo 240.
+
+ART. 243.- Son causantes del impuesto los expendedores que efectúen las operaciones por primera venta de gasolina, grasas, lubricantes y demás derivados del petróleo en el Estado.
+
+ART. 244.- Se faculta el Gobernador del Estado, para que, con arreglo al Reglamento del Artículo 21 de la Ley Federal del Impuesto sobre Consumo de Gasolina, a su elección solicite del Gobierno Federal la autorización necesaria para que la Secretaría de Hacienda y Crédito Público autorice a Petróleos Mexicanos para que liquide al Gobierno del Estado el Impuesto que establece el Artículo 240, o bien, para que celebre directamente con Petróleos Mexicanos el Convenio correspondiente para que esta institución liquide al Gobierno del Estado el mencionado impuesto.
+
+ART. 245.- Mientras tanto que no se efectúe o entre en vigor alguno de los arreglos a que se refiere el Artículo anterior, los causantes señalados en el Artículo 243, lo pagarán en la Oficina Recaudadora de su domicilio mercantil, con arreglo a las siguientes normas:
+
+I.- Se empadronarán en dicha Oficina Recaudadora en la forma y términos que establezca esta Ley;
+
+II.- Presentarán en la propia Oficina Recaudadora, una declaración de los ingresos gravables obtenidos cada mes, dentro de los veinte primeros días del mes siguiente y pagarán el impuesto causado simultáneamente a la presentación de la declaración;
+
+III.- Darán cumplimiento a las demás obligaciones que establezca esta Ley;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+
+IV.- Las declaraciones que alude la fracción II se remitirán de inmediato por las Oficinas Recaudadoras a la Secretaría de Hacienda Pública y Tesorería, para que ésta las revise de oficio, verifique exactitud y, en caso de que compruebe omisiones en el pago del Impuesto, se exijan las diferencias por conducto de la respectiva Oficina Recaudadora; y,
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+
+V.- Cuando un causante no presenta oportunamente sus declaraciones, la Oficina Recaudadora respectiva, lo pondrá inmediatamente en conocimiento de la Secretaría de Hacienda Pública y Tesorería para que ésta las supla con los datos o informes que pueda obtener o estimar y se exija el pago del Impuesto omitido por conducto de la respectiva Oficina Recaudadora.
+
+ART. 246.- En el caso de que se celebre y entre en vigor alguno de los arreglos a que se refiere el Artículo 244, los causantes que no queden comprendidos en el mismo, por no ser distribuidores o agentes de Petróleos Mexicanos, sino personas que introduzcan por su cuenta gasolina, grasas, lubricantes y demás derivados del petróleo, al territorio del Estado y que efectúen en éste la venta de los citados productos, pagarán el impuesto, siendo aplicables las normas que establece el Artículo anterior.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 246 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+
+## TITULO CUARTO. DE LOS PRODUCTOS
 
 ### CAPITULO UNICO
 
@@ -3849,64 +4165,6 @@ ART. 363.- Cuando la caución se haya otorgado en forma de fianza o en cualquier
 
 ART. 364.- La devolución de los depósitos por cauciones, se harán en los casos previstos en el Artículo 399 del Código de Procedimientos Penales, dentro de los 60 días siguientes a la fecha en que se reciba la orden de devolución del Juez o Tribunal competente.
 
-### CAPITULO XVII. Impuesto sobre Primera Venta de Gasolina, Grasas Lubricantes y demás Derivados del Petróleo
-
-ART. 240.- Con fundamento en el Artículo 21 de la Ley Federal del Impuesto sobre Consumo de Gasolina, reformado por Decreto del 28 de Diciembre de 1953, se establece un impuesto sobre los ingresos obtenidos por las operaciones de primera venta de gasolina, grasas, lubricantes y demás derivados del petróleo que se efectúen en el Estado.
-
-Los ingresos obtenidos de las posteriores ventas no causan el impuesto.
-
-ART. 241.- Este impuesto se causará con la cuota del 2% sobre los ingresos brutos a que se refiere el Artículo anterior.
-
-ART. 242.- Ninguno de los impuestos adicionales vigentes o que en el futuro se establezcan, inclusive el impuesto adicional municipal, serán aplicables en relación con el impuesto que establece el Artículo 240.
-
-ART. 243.- Son causantes del impuesto los expendedores que efectúen las operaciones por primera venta de gasolina, grasas, lubricantes y demás derivados del petróleo en el Estado.
-
-ART. 244.- Se faculta el Gobernador del Estado, para que, con arreglo al Reglamento del Artículo 21 de la Ley Federal del Impuesto sobre Consumo de Gasolina, a su elección solicite del Gobierno Federal la autorización necesaria para que la Secretaría de Hacienda y Crédito Público autorice a Petróleos Mexicanos para que liquide al Gobierno del Estado el Impuesto que establece el Artículo 240, o bien, para que celebre directamente con Petróleos Mexicanos el Convenio correspondiente para que esta institución liquide al Gobierno del Estado el mencionado impuesto.
-
-ART. 245.- Mientras tanto que no se efectúe o entre en vigor alguno de los arreglos a que se refiere el Artículo anterior, los causantes señalados en el Artículo 243, lo pagarán en la Oficina Recaudadora de su domicilio mercantil, con arreglo a las siguientes normas:
-
-I.- Se empadronarán en dicha Oficina Recaudadora en la forma y términos que establezca esta Ley;
-
-II.- Presentarán en la propia Oficina Recaudadora, una declaración de los ingresos gravables obtenidos cada mes, dentro de los veinte primeros días del mes siguiente y pagarán el impuesto causado simultáneamente a la presentación de la declaración;
-
-III.- Darán cumplimiento a las demás obligaciones que establezca esta Ley;
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
-
-IV.- Las declaraciones que alude la fracción II se remitirán de inmediato por las Oficinas Recaudadoras a la Secretaría de Hacienda Pública y Tesorería, para que ésta las revise de oficio, verifique exactitud y, en caso de que compruebe omisiones en el pago del Impuesto, se exijan las diferencias por conducto de la respectiva Oficina Recaudadora; y,
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
-
-V.- Cuando un causante no presenta oportunamente sus declaraciones, la Oficina Recaudadora respectiva, lo pondrá inmediatamente en conocimiento de la Secretaría de Hacienda Pública y Tesorería para que ésta las supla con los datos o informes que pueda obtener o estimar y se exija el pago del Impuesto omitido por conducto de la respectiva Oficina Recaudadora.
-
-ART. 246.- En el caso de que se celebre y entre en vigor alguno de los arreglos a que se refiere el Artículo 244, los causantes que no queden comprendidos en el mismo, por no ser distribuidores o agentes de Petróleos Mexicanos, sino personas que introduzcan por su cuenta gasolina, grasas, lubricantes y demás derivados del petróleo, al territorio del Estado y que efectúen en éste la venta de los citados productos, pagarán el impuesto, siendo aplicables las normas que establece el Artículo anterior.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 246 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
-
-## TITULO CUARTO. DE LOS PRODUCTOS
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1980)</small>
-
-ART. 365.- Ingresarán por este concepto las participaciones otorgadas o que en lo futuro se otorguen al Estado en Impuestos y otros Ingresos Federales.
-
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1984)</small>
-
-De los ingresos que reciba el Estado por concepto de participaciones federales, corresponden a los Municipios:
-
-I.- El 20% de la suma de los Fondos General y Financiero Complementario de Participaciones;
-
-II.- El 20% de la cantidad que resulte de aplicar el 80% a la recaudación total que obtenga el Estado, por concepto del Impuesto Sobre Tenencia o Uso de Vehículos; y,
-
-III.- El 100% del ingreso que reciba el Estado de la Federación por concepto del Fondo de Fomento Municipal.
-
-> <small>(DEROGADO TERCER PARRAFO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COORDINACION FISCAL DEL ESTADO DE SINALOA, P.O. 15 DE ENERO DE 1990)</small>
-
-ART. 366.- La percepción de las participaciones se regirá por las leyes y convenios que la regulen.
-
 ### CAPITULO XVIII. Impuesto a la Industria Congeladora de Mariscos
 
 ART. 247.- Es objeto de este impuesto la congelación de pescados y mariscos.
@@ -3942,6 +4200,66 @@ III.- A llevar registro de entradas, salidas y existencias de productos a proces
 ART. 252 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacineda (sic) y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
 ## TITULO QUINTO. DE LOS APROVECHAMIENTOS
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1980)</small>
+
+ART. 365.- Ingresarán por este concepto las participaciones otorgadas o que en lo futuro se otorguen al Estado en Impuestos y otros Ingresos Federales.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1984)</small>
+
+De los ingresos que reciba el Estado por concepto de participaciones federales, corresponden a los Municipios:
+
+I.- El 20% de la suma de los Fondos General y Financiero Complementario de Participaciones;
+
+II.- El 20% de la cantidad que resulte de aplicar el 80% a la recaudación total que obtenga el Estado, por concepto del Impuesto Sobre Tenencia o Uso de Vehículos; y,
+
+III.- El 100% del ingreso que reciba el Estado de la Federación por concepto del Fondo de Fomento Municipal.
+
+> <small>(DEROGADO TERCER PARRAFO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COORDINACION FISCAL DEL ESTADO DE SINALOA, P.O. 15 DE ENERO DE 1990)</small>
+
+ART. 366.- La percepción de las participaciones se regirá por las leyes y convenios que la regulen.
+
+### CAPITULO XIX. Impuesto a la Industria Harinera
+
+ART. 253.- Es objeto de este impuesto la producción de harina que se obtenga de la transformación del trigo.
+
+ART. 254.- Son sujetos del impuesto las personas físicas o jurídicas que realicen el o los procesos industriales de transformación del trigo para obtener harina, independientemente de que el producto elaborado sea o nó de su propiedad. Este último caso, el propietario del producto responderá solidariamente del pago del impuesto.
+
+ART. 255.- El impuesto se causará con una cuota de $ 31.00 por tonelada de harina producida.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 256.- El pago del Impuesto será por períodos mensuales tomando como base el mes en que la harina sea elaborada y deberá entregarse dentro de los primeros veinte días del mes siguiente, en la Oficina Recaudadora en cuya jurisdicción tenga su domicilio el causante, presentando una declaración en las formas que para el efecto autorice la Secretaría de Hacienda Pública y Tesorería.
+
+Cuando un mismo causante opere más de una planta industrial harinera, las declaraciones y pagos correspondientes a cada período mensual se presentarán separadamente por cada una de las plantas.
+
+ART. 257.- Además de lo dispuesto en los artículos precedentes de este Capítulo, los causantes de este impuesto están obligados a:
+
+I.- Presentar avisos de iniciación de producción, dentro de los 5 días hábiles siguientes a la fecha de iniciación de cada ciclo productivo;
+
+II.- Presentar aviso de terminación de producción dentro de los 5 días hábiles siguientes a la fecha de terminación de cada ciclo productivo;
+
+III.- Presentar una declaración sobre los resultados de producción correspondientes a cada ciclo productivo, dentro de los 5 días hábiles siguientes a su terminación, acompañado de una relación que muestre la fecha y número de los recibos con que se comprueba el pago del impuesto causado;
+
+IV.- Llevar registro de entradas, salidas y existencias de trigo y de producción, entradas, salidas, ventas y existencias de harina elaborada;
+
+V.- Proporcionar a las autoridades fiscales todos los datos, libros, documentos e informes que les soliciten;
+
+VI.- Recibir las visitas de inspección e investigación así como proporcionar a los Inspectores y Auditores los datos, libros, documentos e informes que les soliciten.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+Los avisos, declaraciones y registros se formularán en las formas y de acuerdo con los instructivos que autorice la Secretaría de Hacienda Pública y Tesorería.
+
+ART. 258.- No se causará el impuesto Estatal sobre Ingresos Mercantiles por la operación de venta de harina que efectúe la planta industrial harinera, por la cual haya cubierto el impuesto a que se refiere este Capítulo. Esta exención no incluye los sub-productos que pudieren obtenerse del proceso industrial para obtener harina.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+
+ART. 258 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+
+## TITULO SEXTO. DE LAS PARTICIPACIONES
 
 ### CAPITULO I. Adicional para el Sostenimiento de la Universidad Autónoma de Sinaloa
 
@@ -4023,45 +4341,7 @@ ART. 370 Bis.- Mientras se mantenga en vigor el Convenio de Adhesión al Sistema
 
 ART. 370 Bis 1.- Mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en lo conducente, las disposiciones fiscales contenidas en los incisos c), d), e), f), m), n), ñ), o) y p) de la Fracc. I del Artículo 367, de este Capítulo, así como el inciso a), de la misma Fracción y Artículo, únicamente por lo que se refiere a los predios ejidales utilizados con fines agrícolas.
 
-### CAPITULO XIX. Impuesto a la Industria Harinera
-
-ART. 253.- Es objeto de este impuesto la producción de harina que se obtenga de la transformación del trigo.
-
-ART. 254.- Son sujetos del impuesto las personas físicas o jurídicas que realicen el o los procesos industriales de transformación del trigo para obtener harina, independientemente de que el producto elaborado sea o nó de su propiedad. Este último caso, el propietario del producto responderá solidariamente del pago del impuesto.
-
-ART. 255.- El impuesto se causará con una cuota de $ 31.00 por tonelada de harina producida.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 256.- El pago del Impuesto será por períodos mensuales tomando como base el mes en que la harina sea elaborada y deberá entregarse dentro de los primeros veinte días del mes siguiente, en la Oficina Recaudadora en cuya jurisdicción tenga su domicilio el causante, presentando una declaración en las formas que para el efecto autorice la Secretaría de Hacienda Pública y Tesorería.
-
-Cuando un mismo causante opere más de una planta industrial harinera, las declaraciones y pagos correspondientes a cada período mensual se presentarán separadamente por cada una de las plantas.
-
-ART. 257.- Además de lo dispuesto en los artículos precedentes de este Capítulo, los causantes de este impuesto están obligados a:
-
-I.- Presentar avisos de iniciación de producción, dentro de los 5 días hábiles siguientes a la fecha de iniciación de cada ciclo productivo;
-
-II.- Presentar aviso de terminación de producción dentro de los 5 días hábiles siguientes a la fecha de terminación de cada ciclo productivo;
-
-III.- Presentar una declaración sobre los resultados de producción correspondientes a cada ciclo productivo, dentro de los 5 días hábiles siguientes a su terminación, acompañado de una relación que muestre la fecha y número de los recibos con que se comprueba el pago del impuesto causado;
-
-IV.- Llevar registro de entradas, salidas y existencias de trigo y de producción, entradas, salidas, ventas y existencias de harina elaborada;
-
-V.- Proporcionar a las autoridades fiscales todos los datos, libros, documentos e informes que les soliciten;
-
-VI.- Recibir las visitas de inspección e investigación así como proporcionar a los Inspectores y Auditores los datos, libros, documentos e informes que les soliciten.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-Los avisos, declaraciones y registros se formularán en las formas y de acuerdo con los instructivos que autorice la Secretaría de Hacienda Pública y Tesorería.
-
-ART. 258.- No se causará el impuesto Estatal sobre Ingresos Mercantiles por la operación de venta de harina que efectúe la planta industrial harinera, por la cual haya cubierto el impuesto a que se refiere este Capítulo. Esta exención no incluye los sub-productos que pudieren obtenerse del proceso industrial para obtener harina.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
-
-ART. 258 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
-
-## TITULO SEXTO. DE LAS PARTICIPACIONES
+## TITULO SEPTIMO. TASAS ADICIONALES
 
 ### CAPITULO II. Adicional Municipal
 
@@ -4125,8 +4405,6 @@ ART. 378 Bis.- Mientras se mantenga en vigor el Convenio de Adhesión al Sistema
 
 ART. 378 Bis 1.- Mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en lo conducente, las disposiciones fiscales contenidas en las Fracciones II, III, IV, V, y XIII, del Artículo 371, de la Fracción II del Artículo 372, así como el Artículo 376, de este Capítulo.
 
-## TITULO SEPTIMO. TASAS ADICIONALES
-
 ### CAPITULO III. 21 y 22% Adicionales
 
 ART. 379.- En substitución de los varios impuestos adicionales que se venían cobrando, se establece uno equivalente a su suma, en proporción del 21%, que se causará sobre el monto de los impuestos sobre Productos de Capitales, sobre Producción de Alcohol y sobre Producción de Azúcar y Mascabado.
@@ -4144,6 +4422,10 @@ ART. 381 Bis.- Mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhes
 ### CAPITULO UNICO. ART. 382.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
 > <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+## TITULO OCTAVO
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ### CAPITULO UNICO. ART. 383.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
@@ -4163,9 +4445,9 @@ ART. 390.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL E
 
 > <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-## TITULO OCTAVO
+## TITULO NOVENO
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ### CAPITULO UNICO. ART. 391.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
@@ -4197,7 +4479,7 @@ TITULO ONCEAVO
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-## TITULO NOVENO
+## TITULO DECIMO
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -4210,10 +4492,6 @@ ART. 403.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL E
 ART. 404.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
 ART. 405.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-## TITULO DECIMO
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -4567,11 +4845,15 @@ ART. 292 Bis.- El impuesto contenido en este Capítulo, no se causará mientras 
 
 ART. 292 BIS A.- Se encuentran obligadas al pago de este impuesto, las personas físicas y morales que, aún teniendo su domicilio fuera del Estado, realicen en el mismo, erogaciones en dinero o en especie por concepto de remuneración al trabajo personal subordinado, independientemente de la designación que se le otorgue.
 
-Para los efectos de este impuesto se considerarán erogaciones destinadas a remunerar el trabajo personal subordinado, los salarios que se deriven de una relación laboral.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+Para los efectos de este impuesto se considerarán erogaciones destinadas a remunerar el trabajo personal subordinado, los salarios y demás prestaciones que se deriven de una relación laboral y cuando el servicio se preste en otro Estado no se causará este impuesto por los pagos que realicen por estas erogaciones.
+
+(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1995).
+
+ART. 292 Bis B.- El impuesto se determinará aplicando la tasa del 1.5% sobre el monto total de las erogaciones gravadas, realizadas por concepto de remuneración al trabajo personal subordinado.
 
 > <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
-
-ART. 292 Bis B.- El impuesto se determinará aplicando la tasa del 1.5% sobre el monto total de las erogaciones gravadas.
 
 Sobre el impuesto previsto en este Capítulo no se causará impuesto adicional alguno.
 
@@ -4587,19 +4869,21 @@ Aquellos contribuyentes cuyas erogaciones mensuales por concepto de remuneració
 
 ART. 292 Bis D.- Los contribuyentes de este impuesto podrán celebrar convenios respecto a la forma para el pago, en aquellas actividades cuyas características ameriten el control del gravamen en las formas indicadas, para cuyo efecto se faculta a las autoridades fiscales. En estos casos no será necesaria la presentación de la declaración a que se refiere el Artículo anterior.
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
-ART. 292 Bis E.- Son obligaciones de los contribuyentes de este impuesto, además de las señaladas en los Artículos que anteceden:
+ART. 292 Bis E.- Son obligaciones de los contribuyentes de este impuesto además de las señaladas en el Código Fiscal del Estado de Sinaloa las siguientes:
 
-I.- Presentar aviso de inscripción ante la Oficina Recaudadora de Rentas del Estado correspondiente a su domicilio, dentro de los diez días siguientes a la fecha en que inicien las actividades por las cuales deban efectuar el pago del impuesto a que se refiere este capítulo, haciendo uso de las formas oficialmente aprobadas.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
-Las sucursales, bodegas, agencias u otras dependencias de la matriz, deberán empadronarse por separado. En estos casos, previa solicitud del contribuyente, las autoridades fiscales podrán autorizar que el impuesto correspondiente a las sucursales sea pagado por conducto de la matriz, mediante la presentación de una sola declaración en la que se incluyan las erogaciones tanto de la matriz como de las sucursales o dependencias.
+I.- Solicitar la inscripción ante la Secretaría de Hacienda Pública y Tesorería;
 
-Para los efectos de este capítulo, se entiende como fecha de iniciación de operaciones aquella en que tenga lugar la apertura del establecimiento, existiendo la obligación de pago del impuesto en el momento en que el contribuyente efectúe la primera erogación gravada.
+II.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 1995)
 
-II.- Presentar ante la misma Oficina y dentro del plazo que señala la fracción anterior, los avisos de cambio de nombre o razón social, cambio de domicilio, actividad, traspaso de la negociación, suspensión temporal de actividades o clausura.
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 1990)</small>
 
-III.- Presentar las declaraciones correspondientes, aún cuando no se hubieren efectuado erogaciones gravadas.
+III.- Presentar las declaraciones correspondientes, aún cuando no se hubieren efectuado erogaciones gravadas;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 1990)</small>
 
 IV.- Proporcionar los documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
 
@@ -4625,7 +4909,13 @@ g).- Gastos de representación y viáticos efectivamente erogados por cuenta del
 
 h).- Pagos a trabajadores domésticos; y
 
-i).- Aguinaldo.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+i).- Aguinaldo y gratificaciones que perciban los trabajadores de sus patrones durante el año calendario, hasta el equivalente a un salario mínimo general del Estado de Sinaloa elevado a 30 días, cuando dichas gratificaciones se otorguen en forma general;
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+j).- Gastos de previsión social que sean considerados deducibles y exentos para efectos del Impuesto sobre la Renta.
 
 II.- Las erogaciones que efectúen:
 
@@ -4641,15 +4931,21 @@ d).- Instituciones educativas;
 
 e).- Clubes de servicio; y
 
-f).- Partidos y asociaciones políticas.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+f).- Partidos, Asociaciones Políticas y Asociaciones Religiosas.
 
-ART. 292 Bis G.- Las autoridades fiscales podrán estimar las erogaciones de los sujetos de este impuesto, en los siguientes casos:
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
-I.- Cuando no presenten sus declaraciones o registros a que legalmente están obligados.
+ART. 292 Bis- G.- Las autoridades fiscales podrán estimar las erogaciones de los sujetos de este impuesto, en base a lo establecido en el Código Fiscal del Estado de Sinaloa.
 
-II.- Cuando por los informes que se obtengan, se ponga de manifiesto que se han efectuado obligaciones gravadas que excedan del 10% de las declaradas por el contribuyente.
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+ART. 292 Bis- H.- Sin perjuicio de cumplir con las demás obligaciones que el Artículo 292 Bis- E les impone a los contribuyentes, no estarán obligados al pago de este impuesto las empresas de nueva creación durante el primer año de contratación de empleados.
+
+Se entiende para los efectos de esta Ley, como empresa de nueva creación aquella que se constituya por primera vez en el Estado de Sinaloa y que no provenga de la escisión o fusión de sociedades en términos del Código Fiscal de la Federación y Ley General de Sociedades Mercantiles.
+
+Para los efectos de este impuesto no será considerada empresa de nueva creación aquella que efectúe cambio de nombre o razón social, cambio de domicilio, actividad o traspaso de la empresa.
 
 ### CAPITULO I. Legalización de Firmas, Certificaciones y expedición de Copias de Documentos
 
@@ -4667,7 +4963,11 @@ MINIMOGENERAL
 
 VIGENTE EN SINALOA
 
-I.- Legalización de Firmas 0.25
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+I.- Legalización de
+
+Firmas 1.00
 
 II.- Certificaciones de firmas en
 
@@ -4693,9 +4993,11 @@ VI.- Certificados de fechas de pagos
 
 de créditos fiscales 0.25
 
-VII.- Copias certificadas de Documentos
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
-por hoja 0.07
+VII.- Copias certificadas
+
+de documentos por hoja 0.25
 
 VIII.- Copias simples de los
 
@@ -4725,11 +5027,27 @@ a que se refiere la fracción VII anterior
 
 por hoja 0.25
 
-XII.- Cualquiera otra certificación que
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
-se expida diferente de las ya
+XII.- Testimonios notariales
 
-expresadas 0.50
+por hoja 3.00
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+XIII.- Autorización libros
+
+Protocolo Notariales 5.00
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 1988)</small>
+
+XIV.- Cualquiera otra
+
+certificación que se expida
+
+diferente de las ya
+
+expresadas 1.00
 
 Para la legalización de firmas y expedición de certificados y copias de documentos comprendidos en las fracciones anteriores, deberán cubrirse previamente los derechos fiscales respectivos.
 
@@ -5045,9 +5363,7 @@ El Impuesto Sobre Nóminas se causará por las erogaciones que se realicen a par
 
 ###### ARTICULO CUARTO.
 
-Sin perjuicio de cumplir con las demás obligaciones que el Artículo 292 Bis-E les impone, no están obligados al pago de este impuesto las negociaciones de nueva creación durante su primer año de operación.
-
-Se entiende como negociación de nueva creación, aquella que ha contribuido a aumentar el capital social de la economía del Estado. Por lo que, para los efectos de este impuesto no será considerada negociación de nueva creación aquella que efectúe cambio de nombre o razón social, cambio de domicilio, actividad o traspaso de la misma.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO QUINTO.
 
@@ -5086,6 +5402,12 @@ Este Código entrará en vigor quince días después de su publicación en el Pe
 ###### ARTICULO TERCERO.
 
 A partir de la fecha en que entre en vigor el presente Código, quedarán derogados los artículos del 1o. al 75 contenidos en el Título Primero, y 382 al 452 comprendidos en los Títulos Octavo, Noveno y Décimo, Onceavo, Doceavo y Treceavo, de la Ley de Hacienda del Estado de Sinaloa, así como las disposiciones fiscales o administrativas que se opongan a lo preceptuado en este Código.
+
+P.O. 25 DE DICIEMBRE DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 136.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
 
