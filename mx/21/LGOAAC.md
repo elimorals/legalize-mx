@@ -4,7 +4,7 @@ identifier: "LGOAAC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1985-01-14"
-last_updated: "1993-07-15"
+last_updated: "1993-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGOAAC"
 
 LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1993.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -172,11 +172,15 @@ III. En ningún momento podrán participar en el capital social de las organizac
 
 1.- Gobiernos o dependencias oficiales extranjeros, entidades financieras del exterior, ni a personas físicas o morales extranjeras, sea cual fuere la forma que revistan, excepto en los casos previstos en el siguiente párrafo.
 
-La Secretaría de Hacienda y Crédito Público podrá, discrecionalmente, autorizar la participación en el capital pagado de los almacenes generales de depósito, arrendadoras financieras y empresas de factoraje financiero, a entidades financieras del exterior, así como a personas físicas y morales extranjeras. La autorización que se otorgue a un inversionista extranjero será intransmisible.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+La Secretaría de Hacienda y Crédito Público podrá, discrecionalmente, autorizar la participación en el capital pagado de los almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero y casas de cambio, a entidades financieras del exterior así como a personas físicas y morales extranjeras. La autorización que se otorgue a un inversionista extranjero será intransmisible.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 La inversión mexicana en todo caso tendrá que ser mayoritaria y deberá mantener la facultad de determinar el manejo y control efectivo de la empresa.
 
-Todo extranjero que, en el acto de la constitución o en cualquier tiempo ulterior, adquiera interés o participación social en la organización auxiliar de crédito se considerará, por ese solo hecho, como mexicano respecto de uno u otra, y se entenderá que conviene en no invocar la protección de su gobierno bajo la pena, en caso de faltar a su convenio, de perder dicho interés o participación en beneficio de la Nación.
+> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 > <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -672,7 +676,7 @@ Las arrendadoras financieras, sin perjuicio de mantener el capital mínimo previ
 
 > <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
 
-> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 199O)</small>
 
 Para efectos de este artículo, la Secretaría de Hacienda y Crédito Público, oyendo previamente a la Comisión Nacional Bancaria y al Banco de México, señalará los conceptos que se considerarán integrantes del capital contable de las arrendadoras financieras.
 
@@ -1218,7 +1222,7 @@ Las empresas de factoraje financiero, sin perjuicio de mantener el capital míni
 
 > <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
 
-> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 Para efectos de este artículo la Secretaría de Hacienda y Crédito Público, oyendo previamente a la Comisión Nacional Bancaria y al Banco de México, señalará los conceptos que se considerarán para determinar el capital contable de las empresas de factoraje financiero.
 
@@ -1286,11 +1290,127 @@ XI. Descontar, garantizar y en general, otorgar créditos distintos de los expre
 
 XII. Realizar las demás operaciones que no les están expresamente autorizadas.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+### CAPITULO III BIS-I. De las Filiales de Instituciones Financieras del Exterior
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45 Bis 1.
+
+Para efectos de esta Ley se entenderá por:
+
+I. Filial: La sociedad mexicana autorizada para constituirse y operar, conforme a esta Ley, como organización auxiliar del crédito o casa de cambio, y en cuyo capital participe una Institución Financiera del Exterior o una Sociedad Controladora Filial en los términos del presente capítulo;
+
+II. Institución Financiera del Exterior: La entidad financiera constituida en un país con el que México haya celebrado un tratado o acuerdo internacional en virtud del cual se permita el establecimiento en territorio nacional de Filiales; y
+
+III. Sociedad Controladora Filial: La sociedad mexicana autorizada para constituirse y operar como sociedad controladora en los términos de la Ley para Regular las Agrupaciones Financieras, y en cuyo capital participe una Institución Financiera del Exterior.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45 Bis 2.
+
+Las Filiales se regirán por lo previsto en los tratados o acuerdos internacionales correspondientes, el presente capítulo, las disposiciones contenidas en esta Ley aplicables a las organizaciones auxiliares del crédito o a las casas de cambio, según sea el caso, y las reglas para el establecimiento de Filiales que al efecto expida la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria.
+
+La Secretaría de Hacienda y Crédito Público estará facultada para interpretar para efectos administrativos las disposiciones sobre servicios financieros que se incluyan en los tratados o acuerdos internacionales a que hace mención el párrafo anterior, así como para proveer a su observancia.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45 Bis 3.
+
+Para constituirse y operar como Filial se requiere autorización del Gobierno Federal, que compete otorgar discrecionalmente a la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México tratándose de almacenes generales de depósito, arrendadoras financieras, sociedades de ahorro y préstamo, empresas de factoraje financiero y casas de cambio, o autorización de la Comisión Nacional Bancaria cuando se trate de Uniones de Crédito. Por su naturaleza estas autorizaciones serán intransmisibles.
+
+Las autorizaciones que al efecto se otorguen, así como sus modificaciones, se publicarán en el Diario Oficial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45 Bis 4.
+
+Las autoridades financieras, en el ámbito de sus respectivas competencias, garantizarán el cumplimiento de los compromisos de trato nacional que en su caso sean asumidos por México, en los términos establecidos en el tratado o acuerdo internacional aplicable.
+
+Las Filiales podrán realizar las mismas operaciones que las organizaciones auxiliares del crédito o las casas de cambio, según corresponda, a menos que el tratado o acuerdo internacional aplicable establezca alguna restricción.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45 Bis 5.
+
+Para invertir en el capital social de una Filial, la Institución Financiera del Exterior deberá realizar, en el país en el que esté constituida, directa o indirectamente, de acuerdo con la legislación aplicable, el mismo tipo de operaciones que la Filial de que se trate esté facultada para realizar en México, de conformidad con lo que señalen la presente Ley y las reglas a las que se refiere el primer párrafo del artículo 45 Bis 2.
+
+Se exceptúa de lo dispuesto en el párrafo anterior a las Filiales en cuyo capital participe una Sociedad Controladora Filial de conformidad con la Ley para Regular las Agrupaciones Financieras y las reglas mencionadas en el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45 Bis 6.
+
+La solicitud de autorización para constituirse y operar como Filial deberá cumplir con los requisitos establecidos en la presente Ley y en las reglas a las que se refiere al primer párrafo del artículo 45 Bis 2.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45 Bis 7.
+
+El capital social de las Filiales deberá estar integrado por una sola serie de acciones. Una Institución Financiera del Exterior, directa o indirectamente, o una Sociedad Controladora Filial deberá ser en todo momento propietaria de acciones que representen cuando menos el noventa y nueve por ciento del capital social de la Filial.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45 Bis 8.
+
+Las acciones de una Filial únicamente podrán ser enajenadas previa autorización de la Secretaría de Hacienda y Crédito Público.
+
+Salvo en el caso en que el adquirente sea una Institución Financiera del Exterior, una Sociedad Controladora Filial o una Filial, para llevar a cabo la enajenación deberán modificarse los estatutos sociales de la Filial cuyas acciones sean objeto de la operación, a efecto de cumplir con lo dispuesto en el Capítulo Unico del Título Primero de la presente Ley.
+
+Cuando el adquirente sea una Institución Financiera del Exterior, una Sociedad Controladora Filial o una Filial, deberá observarse lo dispuesto en las fracciones I, III, y IV del artículo 45 Bis 9.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45 Bis 9.
+
+La Secretaría de Hacienda y Crédito Público podrá autorizar a las Instituciones Financieras del Exterior, a las Sociedades Controladoras Filiales o a las Filiales, la adquisición de acciones representativas del capital social de una organización auxiliar del crédito o casa de cambio, siempre y cuando se cumplan los siguientes requisitos:
+
+I. La Institución Financiera del Exterior, la Sociedad Controladora Filial o la Filial, según sea el caso, deberá adquirir acciones que representen cuando menos el noventa y nueve por ciento del capital social;
+
+II. Deberán modificarse los estatutos sociales de la organización auxiliar del crédito o casa de cambio, cuyas acciones sean objeto de enajenación, a efecto de cumplir con lo dispuesto en el presente capítulo;
+
+III. Cuando el adquirente sea una Institución Financiera del Exterior o una Sociedad Controladora Filial que ya sea propietaria de acciones representativas del capital social de una Filial del mismo tipo, deberá fusionar ambas organizaciones auxiliares del crédito o casas de cambio, según corresponda, a efecto de controlar solamente una Filial del mismo tipo; y
+
+IV. Cuando el adquirente sea una Filial deberá fusionarse con la organización auxiliar del crédito del mismo tipo o casa de cambio, según corresponda, que haya sido adquirida.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45 Bis 10.
+
+Las Filiales no podrán emitir obligaciones subordinadas, salvo para ser adquiridas por la Institución Financiera del Exterior propietaria, directa o indirectamente, de las acciones representativas del capital social de la Filial emisora. Tampoco les estará permitido a las Filiales el establecimiento de sucursales o subsidiarias fuera del territorio nacional.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45 Bis 11.
+
+El consejo de administración de las Filiales estará integrado por lo menos por cinco consejeros, de entre los cuales la mayoría deberá residir en territorio nacional.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45 Bis 12.
+
+Los directores generales de las Filiales deberán residir en territorio nacional.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45 Bis 13.
+
+El órgano de vigilancia de las Filiales estará integrado por lo menos por un comisario nombrado por la Institución Financiera del Exterior o por la Sociedad Controladora Filial propietaria de las acciones representativas del capital social de la Filial.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45 Bis 14.
+
+Respecto de las Filiales, la Comisión Nacional Bancaria tendrá todas las facultades que le atribuye la presente Ley en relación con las organizaciones auxiliares del crédito o las casas de cambio, según sea el caso. Cuando autoridades supervisoras del país de origen de la Institución Financiera del Exterior propietaria de acciones representativas del capital social de una Filial o de una Sociedad Controladora Filial, según sea el caso, deseen realizar visitas de inspección, deberán solicitarlo a la Comisión Nacional Bancaria. En todo caso las visitas deberán hacerse por conducto de dicha Comisión la que establecerá los términos en que las visitas deban realizarse.
+
+La solicitud a que hace mención el párrafo anterior deberá hacerse por escrito, cuando menos con treinta días naturales de anticipación y deberá acompañarse de lo siguiente:
+
+I. Descripción del acto de inspección a ser realizado; y
+
+II. Las disposiciones legales pertinentes al acto de inspección objeto de la solicitud.
+
 ### CAPITULO IV. Disposiciones Comunes
-
-### CAPITULO I. De la Contabilidad
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 46.
 
@@ -1376,7 +1496,7 @@ Las hipotecas a que se refiere este artículo deberán ser inscritas en el Regis
 
 Será aplicable en lo pertinente a las hipotecas a que se refiere este artículo, lo dispuesto en el artículo 214 de la Ley General de Títulos y Operaciones de Crédito.
 
-> <small>(REFORMADO, D.O.F. 15 DE julio DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 51.
 
@@ -1388,7 +1508,7 @@ Las organizaciones auxiliares del crédito, sólo podrán descontar su cartera c
 
 Las organizaciones auxiliares del crédito y las casas de cambio, deberán presentar la información y documentación que en el ámbito de sus respectivas competencias, le soliciten la Secretaría de Hacienda y Crédito Público, el Banco de México y la Comisión Nacional Bancaria, dentro de los plazos que las mismas establezcan.
 
-> <small>(adicionado, D.O.F. 15 de julio de 1993)</small>
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 51-B.
 
@@ -1398,9 +1518,9 @@ Las organizaciones auxiliares del crédito y casas de cambio, deberán mantener 
 
 ## TITULO TERCERO. De la Contabilidad, Inspección y Vigilancia
 
-### CAPITULO II. De la Inspección y Vigilancia
+### CAPITULO I. De la Contabilidad
 
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 52.
 
@@ -1476,7 +1596,7 @@ Sin perjuicio de las normas establecidas en este artículo, la Comisión Naciona
 
 Cuando de los estados de situación mensual que las organizaciones están obligadas a presentar a la Comisión Nacional Bancaria, resulte que aquéllas no guardan las proporciones prescritas en esta Ley, no incurrirán en responsabilidad, cuando la divergencia no exceda de un 4% de dichas proporciones, y siempre que acrediten, además, con sus estados y apuntes de contabilidad, a satisfacción de la propia Comisión, que la infracción tiene carácter excepcional.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. De la Inspección y Vigilancia
 
 > <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -1568,9 +1688,9 @@ Los procedimientos de inspección, suspensión y clausura a que se refiere el p�
 
 ## TITULO CUARTO. De las Facultades de las Autoridades
 
-### CAPITULO II. De la Revocación y Liquidación
+### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 65.
 
@@ -1706,9 +1826,9 @@ La Comisión Nacional Bancaria podrá proveer lo necesario para que las organiza
 
 Bis.- (DEROGADO, D.O.F. 15 DE JULIO DE 1993)
 
-### CAPITULO UNICO. De la Compra Venta Habitual y Profesional de Divisas
+### CAPITULO II. De la Revocación y Liquidación
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 78.
 
@@ -1786,9 +1906,9 @@ III. La Comisión Nacional Bancaria podrá solicitar la suspensión de pagos en 
 
 ## TITULO QUINTO. De las Actividades Auxiliares del Crédito
 
-### CAPITULO I. De las Infracciones Administrativas
+### CAPITULO UNICO. De la Compra Venta Habitual y Profesional de Divisas
 
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 81.
 
@@ -1882,7 +2002,7 @@ Las casas de cambio deberán ajustarse a lo siguiente:
 
 I. Contarán con un local exclusivo para la realización de sus operaciones;
 
-II Deberán proporcionar a la Secretaría de Hacienda y Crédito Público o al Banco de México, su posición en divisas cuando le sea solicitada;
+II. Deberán proporcionar a la Secretaría de Hacienda y Crédito Público o al Banco de México, su posición en divisas cuando le sea solicitada;
 
 III. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
@@ -1956,11 +2076,11 @@ VI. Si la sociedad no realiza las funciones, ni lleva a cabo las operaciones par
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
-VII.- Si sus administradores han intervenido en operaciones que infrinjan las disposiciones financieras y cambiarias; y
+VII. Si sus administradores han intervenido en operaciones que infrinjan las disposiciones financieras y cambiarias; y
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
-VIII.- En cualquier otro establecido por la Ley.
+VIII. En cualquier otro establecido por la Ley.
 
 > <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -1988,15 +2108,21 @@ VI. Realizar operaciones que no les estén expresamente autorizadas, y
 
 VII. Celebrar operaciones en virtud de las cuales resulten o puedan resultar deudores de la casa de cambio, sus funcionarios y empleados, salvo que correspondan a prestaciones de carácter laboral otorgadas de manera general; los comisarios propietarios y suplentes, estén o no en funciones; los auditores externos de la casa de cambio; o los ascendientes o descendientes en primer grado o cónyuges de las personas anteriores.
 
-### CAPITULO II. De los Delitos
+ArtIculo 87-B.- (DEROGADO, D.O.F. 15 DE JULIO DE 1993)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+### CAPITULO I. De las Infracciones Administrativas
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 87-B.
 
 (DEROGADO, D.O.F. 15 DE JULIO DE 1993)
 
 ## TITULO SEXTO. De las Infracciones y Delitos
+
+### CAPITULO II. De los Delitos
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 88.
 
@@ -2367,3 +2493,41 @@ CUARTO.- Las arrendadoras y empresas de factoraje financiero que a la fecha de e
 QUINTO.- Las obligaciones subordinadas no susceptibles de convertirse en títulos representativos de capital o de conversión voluntaria en tales títulos, que las arrendadoras financieras y empresas de factoraje financiero hayan emitido en términos de las circulares 1/91 del Banco de México, continuarán rigiéndose hasta su vencimiento, conforme a los términos originalmente pactados, sin que proceda renovación alguna.
 
 SEXTO.- A las personas que hayan cometido infracciones o delitos, incluidas las procesadas o sentenciadas, con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las sanciones vigentes al momento en que se hayan realizado dichas conductas, sin perjuicio de aplicar, cuando proceda, lo dispuesto en el artículo 56 del Código Penal para el Distrito Federal en materia de Fuero Común, y para toda la República en materia de Fuero Federal.
+
+D.O.F. 23 DE DICIEMBRE DE 1993.
+
+PRIMERO.- El presente Decreto entrará en vigor el primero de enero de 1994.
+
+SEGUNDO.- La Secretaría de Hacienda y Crédito Público autorizará el límite de capital individual que podrá alcanzar cada Filial, así como el límite agregado que en su conjunto podrán alcanzar las Filiales del mismo tipo, de conformidad con los tratados o acuerdos internacionales aplicables.
+
+TERCERO.- Las adquisiciones por parte de Filiales, Instituciones Financieras del Exterior o Sociedades Controladoras Filiales de acciones de intermediarios financieros, en cuyo capital participen mayoritariamente inversionistas mexicanos, o de acciones de Filiales o Sociedades Controladoras Filiales, estarán sujetas a los límites de capital individuales y agregados que en su caso establezcan los tratados o acuerdos internacionales aplicables.
+
+CUARTO.- Cuando una Filial alcance el noventa por ciento del límite de capital individual autorizado, deberá notificar este hecho a la Secretaría de Hacienda y Crédito Público dentro de los cinco días hábiles siguientes.
+
+El incumplimiento de la obligación a que se refiere el párrafo anterior será sancionado por la Comisión Nacional competente, previa audiencia, con multa de hasta 2,500 días de salario mínimo por cada día de retraso en la notificación correspondiente.
+
+QUINTO.- Cuando una Filial exceda el límite de capital individual autorizado, la Secretaría de Hacienda y Crédito Público estará facultada para establecer un programa de reducción de capital a fin de que en un periodo determinado se ajuste a dicho límite. En todo caso, para cumplir con los requerimientos de capitalización aplicables se tomará en cuenta el menor entre el límite de capital individual autorizado y el capital real con que cuente la Filial de que se trate.
+
+Cuando se exceda el límite de capital individual autorizado, la Comisión Nacional competente estará facultada para remover, suspender o imponer veto a los miembros del consejo de administración, directores generales, comisarios, directores, gerentes y funcionarios que puedan obligar con su firma a la sociedad, previa audiencia, de conformidad con el procedimiento establecido en la ley aplicable.
+
+Si la infracción a lo dispuesto en el párrafo anterior es reiterada, o si la Filial no cumple con el programa de reducción de capital a que se refiere el primer párrafo del presente artículo, se podrá declarar la revocación de la autorización para constituir y operar una Filial o una Sociedad Controladora Filial, previa audiencia, en los términos establecidos en la ley aplicable.
+
+SEXTO.- El otorgamiento de autorizaciones para organizarse y operar como Filiales, así como para inscribirse en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios, se podrá suspender cuando se hayan alcanzado los límites agregados a la participación de Instituciones Financieras del Exterior, o procedan las cláusulas de salvaguarda que en su caso establezca el tratado o acuerdo internacional aplicable.
+
+SEPTIMO.- Los límites individuales y agregados aplicables a las Filiales que en su caso establezcan los tratados o acuerdos internacionales correspondientes, serán calculados con base en la información proporcionada por la Comisión Nacional competente y por el Banco de México, en los términos de las reglas para el establecimiento de Fiiiales (sic).
+
+OCTAVO.- Tratándose de instituciones de banca múltiple Filiales, los límites de capital individuales y agregados se fijarán con base en el capital neto de la totalidad de las instituciones de banca múltiple establecidas en México en la fecha de cálculo.
+
+NOVENO.- Tratándose de sociedades financieras de objeto limitado Filiales, los límites individuales y agregados se fijarán con base en la suma de los activos de la totalidad de las instituciones de banca múltiple y las sociedades financieras de objeto limitado establecidas en México en la fecha de cálculo.
+
+DECIMO.- Tratándose de las sociedades Filiales inscritas en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios, los límites de capital individuales y agregados se fijarán con base en el capital global de la totalidad de las instituciones del mismo tipo establecidas en México en la fecha de cálculo.
+
+DECIMO PRIMERO.- Tratándose de organizaciones auxiliares de crédito Filiales, casas de cambio Filiales e instituciones de fianzas Filiales, los límites de capital individuales y agregados se fijarán con base en la suma del capital contable de la totalidad de las instituciones del mismo tipo establecidas en México en la fecha de cálculo.
+
+DECIMO SEGUNDO.- Los límites de capital individuales y agregados aplicables a las instituciones de seguros se fijarán con base en la cantidad que como requerimiento bruto de solvencia, necesiten las instituciones de seguros. Dicho requerimiento bruto de solvencia corresponderá al capital mínimo de garantía que se establezca, de acuerdo a las reglas que conforme al artículo 60 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros compete emitir a la Secretaría de Hacienda y Crédito Público, y se considerará por separado para la realización de las operaciones de vida, accidentes y enfermedades por una parte y de daños, considerando cada uno de sus ramos, por la otra.
+
+DECIMO TERCERO.- No obstante lo dispuesto en el artículo 29 fracción II de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, las instituciones Financieras del Exterior podrán adquirir, previa autorización de un programa de inversiones por la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas, una participación accionaria en una institución de seguros de las previstas en el inciso a) de la fracción I Bis, del artículo 29 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, por constituirse o ya establecida, de conformidad con lo dispuesto en los tratados o acuerdos internacionales aplicables.
+
+Las Instituciones Financieras del Exterior que antes de la entrada en vigor del tratado o acuerdo aplicable tengan inversiones en instituciones de seguros, podrán incrementar éstas de conformidad con dicho tratado.
+
+A las inversiones señaladas en los dos párrafos anteriores no les serán aplicables los límites de capital individuales y agregados de conformidad con el tratado o acuerdo internacional aplicable.
