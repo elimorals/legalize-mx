@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1997-03-23"
+last_updated: "1998-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 1998.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -395,11 +395,13 @@ IV.- Autorizar al Ejecutivo y a los Ayuntamientos, para celebrar empréstitos so
 
 Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan incremento de los ingresos públicos.
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1998)</small>
 
-V.- Revisar y analizar las cuentas públicas que mensualmente deben presentarle el Gobernador y los Ayuntamientos dentro de los primeros diez días de cada mes. La ampliación del plazo de entrega de las cuentas públicas, estará sujeta a una solicitud justificada, a juicio del Congreso.
+V.- Recibir las cuentas públicas que mensualmente deben presentarle el Gobernador y los Ayuntamientos dentro de los primeros diez días de cada mes. La ampliación del plazo de entrega de las cuentas públicas, estará sujeta a una solicitud justificada, a juicio del H. Congreso.
 
-Las cuentas públicas se turnarán a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda. Esta, con el auxilio del órgano técnico, revisará los resultados de la gestión financiera, comprobará que los ingresos estén de acuerdo a la Ley de Ingresos, que las partidas gastadas están justificadas y son conformes con las normas de ejecución de los Presupuestos de Egresos.
+Las cuentas públicas se turnarán a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda. Esta, con el auxilio del órgano técnico, revisará los resultados de la gestión financiera, comprobará que los ingresos estén de acuerdo a la Ley de Ingresos, que las partidas gastadas estén justificadas y de conformidad con las normas de ejecución de los Presupuestos de Egresos.
+
+La cuenta pública deberá revisarse semestralmente por el Honorable Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1995)</small>
 
@@ -509,7 +511,7 @@ XXVIII.- Legislar en materia de responsabilidades de los servidores públicos.
 
 XXIX.- Expedir las leyes que regulen las relaciones del Estado y de los Municipios con sus trabajadores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 1995)</small>
 
 XXX.- Citar a solicitud de las dos terceras partes de sus miembros a los titulares de las dependencias del Poder Ejecutivo y a los de los Organismos Descentralizados o de empresas de participación estatal, para que informen sobre el estado que guardan sus respectivas dependencias, cuando se discuta una Ley que sea de su incumbencia o se estudie un negocio relativo a sus actividades.
 
@@ -733,7 +735,7 @@ I.- Promulgar y ejecutar las Leyes que expida el Congreso del Estado, proveyendo
 
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
-II.- Presentar cada año al Congreso a más tardar el día 15 de diciembre, los Proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, debiendo comparecer el Secretario de Finanzas a dar cuenta del mismo;
+II.- Presentar cada año al Congreso a más tardar el día 15 de diciembre, los Proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, debiendo comparecer el Secretario de Finanzas a dar cuenta del mismo.
 
 III.- (DEROGADA, P.O. 20 DE AGOSTO DE 1995)
 
@@ -1764,3 +1766,7 @@ En un término de ciento veinte días, contados a partir de la vigencia del pres
 P.O. 23 DE MARZO DE 1997.
 
 UNICO.- La presente reforma constitucional entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE AGOSTO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
