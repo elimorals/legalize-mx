@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2000-02-15"
+last_updated: "2000-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE FEBRERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE JUNIO DE 2000.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -4506,79 +4506,105 @@ La pena prevista en el párrafo anterior será aumentada en una mitad, cuando la
 
 Para efectos de este artículo se entiende que son producto de una actividad ilícita, los recursos, derechos o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito, y no pueda acreditarse su legítima procedencia.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADA SU DENOMINACION, G.O. 8 DE JUNIO DE 2000)</small>
 
 TITULO VIGESIMOCUARTO
 
-Delitos electorales y en materia de registro nacional de ciudadanos.
+Delitos Electorales
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE AGOSTO DE 1990)</small>
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 401.
 
 Para los efectos de este Capítulo, se entiende por:
 
-I.- Servidores Públicos, las personas que se encuentren dentro de los supuestos establecidos por el artículo 212 de este Código.
+I.- Servidores Públicos, las personas que se encuentren dentro de los supuestos establecidos por el artículo 212 de este Código;
 
-Se entenderá también como Servidores Públicos a los funcionarios y empleados de la Administración Pública Estatal y Municipal;
+II.- Funcionarios electorales, quienes en los términos de la legislación electoral del Distrito Federal integren los órganos que cumplen funciones electorales;
 
-II.- Funcionarios electorales, quienes en los términos de la legislación federal electoral integren los órganos que cumplen funciones electorales;
-
-III.- Funcionarios partidistas, los dirigentes de los partidos políticos nacionales y de las agrupaciones políticas, y sus representantes ante los órganos electorales, en los términos de la legislación federal electoral;
+III.- Funcionarios partidistas, los dirigentes de los partidos políticos nacionales y de las agrupaciones políticas locales, y sus representantes ante los órganos electorales, en los términos de la legislación electoral del Distrito Federal;
 
 IV.- Candidatos, los ciudadanos registrados formalmente como tales por la autoridad competente;
 
-V.- Documentos públicos electorales, las actas de la jornada electoral, las relativas al escrutinio y cómputo de cada una de las elecciones, paquetes electorales y expedientes de casilla, las actas circunstanciadas de las sesiones de cómputo de los consejos locales y distritales, y las de los cómputos de circunscripción plurinominal y, en general todos los documentos y actas expedidos en el ejercicio de sus funciones por los órganos del Instituto Federal Electoral; y
+V.- Documentos públicos electorales, las boletas electorales, las actas de la jornada electoral, las relativas al escrutinio y cómputo de cada una de las elecciones, paquetes electorales y expedientes de casilla, las actas circunstanciadas de las sesiones de cómputo de los consejos distritales, de los consejos que funjan como cabecera de delegación y, en general todos los documentos y actas expedidos en el ejercicio de sus funciones por los órganos del Instituto Electoral del Distrito Federal;
 
-VI.- Materiales electorales, los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadoras de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral.
+VI.- Materiales electorales, los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadores de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral o en los procesos de participación ciudadana.
 
-> <small>(REFORMADO, D.O.F. 25 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, G.O.8 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 402.
 
-Por la comisión de cualquiera de los delitos comprendidos en el presente Capítulo se podrá imponer además de la pena señalada, la inhabilitación de uno a cinco años, y en su caso, la destitución del cargo.
+Al serividor público que incurra en la comisión de cualquiera de los delitos comprendidos en el presente Capítulo se podrá imponer además de la pena señalada, la destitución del cargo y en su caso la inhabilitación de uno a cinco años para desempeñar u ocupar cualquier cargo, empleo o comisión dentro de la Administración Pública del Distrito Federal.
 
-> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 403.
 
-Se impondrán de diez a cien días multa y prisión de seis meses a tres años, a quien:
+Se impondrán de seis meses a tres años de prisión y de veinticinco a ciento cincuenta días multa, a quien en los procesos electorales o en los procesos de participación ciudadana del Distrito Federal:
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 I.- Vote a sabiendas de que no cumple con los requisitos de la ley;
 
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
 II.- Vote más de una vez en una misma elección;
 
-III.- Haga proselitismo o presione objetivamente a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes, con el fin de orientar el sentido de su voto;
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
 
-IV.- Obstaculice o interfiera dolosamente el desarrollo normal de las votaciones, el escrutinio y cómputo, el traslado y entrega de los paquetes y documentación electoral, o el adecuado ejercicio de las tareas de los funcionarios electorales;
+III.- Realice actos de campaña o presione a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes, con el fin de orientar el sentido de su voto;
 
-V.- Recoja en cualquier tiempo, sin causa prevista por la ley, credenciales para votar de los ciudadanos;
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
 
-VI.- Solicite votos por paga, dádiva, promesa de dinero u otra recompensa durante las campañas electorales o la jornada electoral;
+IV.- Obstaculice o interfiera dolosamente el desarrollo normal de las votaciones, el escrutinio y cómputo, o el adecuado ejercicio de las tareas de los funcionarios electorales;
 
-VII.- El día de la jornada electoral viole, de cualquier manera, el derecho del ciudadano a emitir su voto en secreto;
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
 
-VIII.- Vote o pretenda votar con una credencial para votar de la que no sea titular;
+V.- Recoja sin causa justificada por la ley, durante las campañas electorales o el día de la jornada electoral credenciales para votar.
 
-IX.- El día de la jornada electoral lleve a cabo el transporte de votantes, coartando o pretendiendo coartar su libertad para la emisión del voto;
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
 
-X.- Introduzca en o sustraiga de las urnas ilícitamente una o más boletas electorales, o se apodere, destruya o altere boletas, documentos o materiales electorales, o impida de cualquier forma su traslado o entrega a los órganos competentes;
+VI.- Solicite votos por paga, dádiva, promesa de dinero u otra recompensa durante las campañas electorales o durante la jornada electoral;
 
-XI.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que, mediante amenaza o promesa de paga o dádiva, comprometa su voto en favor de un determinado partido político o candidato;
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
 
-XII.- Impida en forma violenta la instalación de una casilla, o asuma dolosamente cualquier conducta que tenga como finalidad impedir la instalación normal de la casilla; o
+VII.- El día de la jornada electoral viole de cualquier manera, el derecho de otro a emitir su voto en secreto;
 
-XIII.- Durante los ocho días previos a la elección y hasta la hora oficial del cierre de las casillas que se encuentren en las zonas de husos horarios mas occidentales del territorio nacional, publique o difunda por cualquier medio los resultados de encuestas o sondeos de opinión que den a conocer las preferencias de los ciudadanos.
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
 
-> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+VIII.- Vote o pretenda votar con una credencial para votar con fotografía de la que no sea titular;
+
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
+
+IX.- El día de la jornada electoral organice la reunión y transporte de votantes con el objeto de llevarlos a votar y de influir en el sentido de su voto;
+
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
+
+X.- Introduzca o sustraiga de las urnas ilícitamente una o más boletas electorales, o se apodere, destruya o altere boletas, documentos o materiales electorales, o impida de cualquier forma su traslado o entrega a los órganos electorales;
+
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
+
+XI.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que, mediante amenaza o promesa de paga o dádiva, comprometa su voto en favor de un determinado partido político, candidato o planilla;
+
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
+
+XII.- Realice dolosamente cualquier conducta que tenga como finalidad impedir la instalación, apertura o cierre de una casilla;
+
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
+
+XIII.- Durante los ocho días previos a la elección y hasta la hora oficial del cierre de las casillas, publique o difunda por cualquier medio los resultados de encuestas o sondeos de opinión que den a conocer las preferencias de los ciudadanos; o
+
+> <small>(ADICIONADA, G.O. 8 DE JUNIO DE 2000)</small>
+
+XIV.- Viole o altere paquetes o sellos con los que se resguarden paquetes y documentos electorales.
 
 ###### ARTICULO 404.
 
-Se impondrán hasta 500 días multa a los ministros de cultos religiosos que, en el desarrollo de actos públicos propios de su ministerio, induzcan expresamente al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención del ejercicio del derecho al voto.
+(DEROGADO, G.O. 8 DE JUNIO DE 2000)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE MARZO DE 1994)</small>
 
@@ -4586,15 +4612,13 @@ Se impondrán hasta 500 días multa a los ministros de cultos religiosos que, en
 
 Se impondrá de cincuenta a doscientos días multa y prisión de dos a seis años, al funcionario electoral que:
 
-> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
+I.- (DEROGADA, G.O. 8 DE JUNIO DE 2000)
 
-I.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido de documentos relativos al Registro Federal de Electores;
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
 
-> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+II.- Se abstenga de cumplir, sin causa justificada, con las obligaciones propias de su cargo, en perjuicio del proceso electoral o de participación ciudadana que se trate;
 
-II.- Se abstenga de cumplir, sin causa justificada, con las obligaciones propias de su cargo, en perjuicio del proceso electoral;
-
-> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
 
 III.- Obstruya el desarrollo normal de la votación sin mediar causa justificada;
 
@@ -4602,17 +4626,17 @@ III.- Obstruya el desarrollo normal de la votación sin mediar causa justificada
 
 IV.- Altere los resultados electorales, sustraiga o destruya boletas, documentos o materiales electorales;
 
-> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
 
-V.- No entregue o impida la entrega oportuna de documentos o materiales electorales, sin mediar causa justificada;
+V.- Omita entregar o impida la entrega oportuna de documentos o materiales electorales, sin mediar causa justificada;
 
-> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
 
-VI.- En ejercicio de sus funciones ejerza presión sobre los electores y los induzca objetivamente a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+VI.- En ejercicio de sus funciones ejerza presión sobre los electores y los induzca objetivamente a votar por un candidato, partido o planilla determinada, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
 
-> <small>(REFORMADA, D.O.F. 25 DE MARZO DE 1994)</small>
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
 
-VII.- Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la ley de la materia, la instale en lugar distinto al legalmente señalado, o impida su instalación;
+VII.- Instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la ley de la materia, la instale en lugar distinto al legalmente señalado, o impida su instalación;
 
 > <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -4628,19 +4652,25 @@ X.- Permita o tolere que un ciudadano emita su voto a sabiendas de que no cumple
 
 XI.- Propale, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, G.O. 8 DE JUNIO DE 2000)</small>
+
+###### ARTICULO 405 Bis.
+
+Se impondrá de cuatro a nueve años de prisión y de doscientos cincuenta a cuatrocientos días multa al funcionario electoral que dolosamente altere, expida, destruya o haga mal uso de documentos públicos electorales o archivos oficiales computarizados o relativos al registro de lectores (sic) correspondientes.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 406.
 
-Se impondrán de cien a doscientos días multa y prisión de uno a seis años, al funcionario partidista o al candidato que:
+Se impondrán de cien a doscientos días multa y prisión de uno a seis años, al funcionario partidista, al candidato o al funcionario de las agrupaciones políticas que:
 
-> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
 
-I.- Ejerza presión sobre los electores y los induzca a la abstención o a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+I.- Ejerza presión sobre los electores o los induzca a la abstención o a votar por un candidato, partido o planilla determinada en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
 
-> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
 
-II.- Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
+II.- Realice propaganda electoral o actos de campaña mientras cumple sus funciones durante la electoral;
 
 > <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -4654,79 +4684,63 @@ IV.- Obstaculice el desarrollo normal de la votación o de los actos posteriores
 
 V.- Propale, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados;
 
-> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
 
-VI.- Impida con violencia la instalación, apertura o cierre de una casilla; o
+VI.- Impida con violencia la instalación, apertura o cierre de una casilla;
 
-> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2000)</small>
 
-VII.- Obtenga y utilice a sabiendas y en su calidad de candidato, fondos provenientes de actividades ilícitas para su campaña electoral.
+VII.- Obtenga y utilice a sabiendas, fondos provenientes de actividades ilícitas para su campaña electoral; o
 
-> <small>(REFORMADO, D.O.F. 25 DE MARZO DE 1994)</small>
+> <small>(ADICIONADA, G.O. 8 DE JUNIO DE 2000)</small>
+
+VIII. Se exceda en el monto de los topes para gastos de campaña establecidos de acuerdo a los criterios legalmente autorizados previo a la elección.
+
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 407.
 
-Se impondrán de doscientos a cuatrocientos días multa y prisión de uno a nueve años, al servidor público que:
+Se impondrán prisión de uno a nueve años y de doscientos a cuatrocientos días multa, al servidor público que en los procesos electorales del Distrito Federal:
 
-> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+I.- Obligue a sus subordinados, a emitir sus votos en favor de un partido político, candidato o planilla;
 
-I.- Obligue a sus subordinados, de manera expresa y haciendo uso de su autoridad o jerarquía, a emitir sus votos en favor de un partido político o candidato;
+II.- Condicione la prestación de un servicio público, el cumplimiento de programas, el otorgamiento de concesiones, permisos, licencias, autorizaciones, franquicias, excensiones o la realización de obras públicas, en el ámbito de su competencia, a la emisión de sufragio en favor de un partido político o candidato o planilla;
 
-> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+III.- Destine, de manera ilegal, fondos, bienes o servicios que tenga a su disposición en virtud de su cargo tales como vehículos, inmuebles y equipos, al apoyo de un partido político, candidato o planilla, sin perjuicio de las penas que pueda corresponder por el delito de peculado;
 
-II.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, en el ámbito de su competencia, a la emisión del sufragio en favor de un partido político o candidato;
+IV.- Proporcione apoyo o preste algún servicio a los partidos políticos, candidato o planilla, a través de sus subordinados, usando del tiempo correspondiente a sus labores; o
 
-> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
-
-III.- Destine, de manera ilegal, fondos, bienes o servicios que tenga a su disposición en virtud de su cargo tales como vehículos, inmuebles y equipos, al apoyo de un partido político o de un candidato, sin perjuicio de las penas que pueda corresponder por el delito de peculado; o
-
-> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
-
-IV.- Proporcione apoyo o preste algún servicio a los partidos políticos o a sus candidatos, a través de sus subordinados, usando del tiempo correspondiente a sus labores, de manera ilegal.
-
-> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 1990)</small>
+V.- Realice o permita cualquier acto de campaña electoral fuera de los casos permitidos por la ley o, instale, pegue, cuelgue, fije o pinte propaganda electoral en el interior o exterior de muebles o inmuebles pertenecientes a los Órganos de Gobierno del Distrito Federal.
 
 ###### ARTICULO 408.
 
-Se impondrá sanción de suspensión de sus derechos políticos hasta por seis años a quienes, habiendo sido electos diputados o senadores no se presenten, sin causa justificada a juicio de la Cámara respectiva, a desempeñar el cargo dentro del plazo señalado en el primer párrafo del artículo 63 de la Constitución.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE MARZO DE 1994)</small>
+(DEROGADO, G.O. 8 DE JUNIO DE 2000)
 
 ###### ARTICULO 409.
 
-Se impondrán de veinte a cien días multa y prisión de tres meses a cinco años, a quien:
-
-> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
-
-I.- Proporcione documentos o información falsa al Registro Nacional de Ciudadanos para obtener el documento que acredite la ciudadanía; y
-
-> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
-
-II.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido del documento que acredita la ciudadanía, que en los términos de la ley de la materia, expida el Registro Nacional de Ciudadanos.
-
-> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 1990)</small>
+(DEROGADO, G.O. 8 DE JUNIO DE 2000)
 
 ###### ARTICULO 410.
 
-La pena a que se refiere el artículo anterior se podrá incrementar en una cuarta parte si las conductas son cometidas por personal del órgano que tenga a su cargo el servicio del Registro Nacional de Ciudadanos conforme a la ley de la materia, o si fuere de nacionalidad extranjera.
+(DEROGADO, G.O. 8 DE JUNIO DE 2000)
 
-> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 411.
 
-Se impondrá de setenta a doscientos días multa y prisión de tres a siete años, a quien por cualquier medio altere o participe en la alteración del Registro Federal de Electores, de los listados nominales o en la expedición ilícita de credenciales para Votar.
+Se impondrá de setenta a doscientos días multa y prisión de cuatro a ocho años, a quien por cualquier medio falsifique o altere el Registro de Electores del Distrito Federal, de los listados nominales, y de Credenciales para votar.
 
-> <small>(ADICIONADO, D.O.F. 25 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 412.
 
-Se impondrá prisión de dos a nueve años, al funcionario partidista o a los organizadores de actos de campaña que, a sabiendas aproveche ilícitamente fondos, bienes o servicios en los términos de la fracción III del artículo 407 de este Código. En la comisión de este delito no habrá el beneficio de la libertad provisional.
+Se impondrá prisión de dos a nueve años, al funcionario partidista, funcionario de las agrupaciones políticas locales o a los organizadores de actos de campaña que, a sabiendas aproveche ilícitamente fondos, bienes o servicios en los términos de la fracción III del artículo 407 de este Código.
 
-> <small>(ADICIONADO, D.O.F. 25 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 413.
 
-Los responsables de los delitos contenidos en el presente capítulo por haber acordado o preparado su realización en los términos de la fracción I del artículo 13 de este Código no podrán gozar del beneficio de la libertad provisional.
+Al que se apodere, destruya, retire, borre, suprima, oculte o distorsione la propaganda de algún candidato, partido o planilla, en contravención a las normas de la materia, durante el proceso electoral, se le aplicará una pena de uno a cinco años de prisión y de cincuenta a trescientos días multa y, en su caso destitución e inhabilitación de uno a cinco años para desempeñar otro empleo, cargo o comisión en la Administración Pública del Distrito Federal.
 
 > <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -4736,53 +4750,71 @@ Los responsables de los delitos contenidos en el presente capítulo por haber ac
 
 ### CAPITULO UNICO. Delitos ambientales
 
-(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+> <small>(REFORMADO, G.O.8 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 414.
 
-Comete delito ambiental quien:
+Ecocidio es la conducta dolosa consistente en causar un daño grave al ambiente por la emisión de contaminantes, la realización de actividades riesgosas o la afectación de recursos naturales.
 
-I. Sin la autorización correspondiente, modifique la calidad de los suelos vertiendo contaminantes o depositando materiales en barrancas, humedales, áreas naturales protegidas o suelos de conservación;
-
-II. Sin la autorización correspondiente, realice obras o actividades que modifiquen la conformación topográfica o que provoquen la erosión, deterioro o degradación de los suelos de conservación, de las áreas naturales protegidas, de las barrancas, humedales o vasos de presas;
-
-III. Sin la autorización correspondiente desmonte, derribe o tale árboles, destruya o arranque la vegetación en áreas naturales protegidas y barrancas;
-
-IV. Violando las normas ambientales, realice aprovechamiento de recursos forestales en áreas naturales protegidas, barrancas, humedales o vasos de presas;
-
-V. Violando las normas ambientales, realice cambios de uso de suelo en áreas naturales protegidas y suelos de conservación;
-
-VI. Realice u ordene talas o podas, cuya finalidad sea permitir la visibilidad de publicidad;
-
-VII. Violando las normas ambientales, emita gases, humos, vapores, polvos, ruido, vibraciones, energía térmica o lumínica, que dañen la salud humana, los recursos naturales o los ecosistemas;
-
-VIII. Sin la autorización correspondiente realice, autorice u ordene la ejecución de obras o actividades consideradas por la legislación ambiental como riesgosas y que ocasionen daños a la salud humana, a los recursos naturales o a los ecosistemas, sin autorización;
-
-IX. Violando las normas ambientales, descargue, deposite o infiltre aguas residuales sin su previo tratamiento, líquidos químicos o bioquímicos, descargue o deposite desechos u otras substancias o materiales contaminantes, residuos sólidos o industriales no peligrosos en los suelos de conservación, áreas naturales protegidas, barrancas, áreas verdes en suelo urbano, vasos de presas, humedales, o cualquier cuerpo de agua, que dañen o puedan dañar la salud humana, los recursos naturales o los ecosistemas;
-
-X. Violando las normas ambientales, descargue, deposite, o infiltre en el sistema de drenaje y alcantarillado, aceites, gasolina u otros líquidos, desechos o sustancias químicas o bioquímicas con características de explosividad, corrosividad, toxicidad o inflamabilidad;
-
-XI. Ocasione incendios en bosques, parques, zonas forestales, áreas naturales protegidas, suelos de conservación, barrancas o áreas verdes en suelo urbano.
-
-XII. No acate las medidas de seguridad, dictadas por la autoridad competente para proteger la salud humana, la fauna, la flora, los recursos naturales, barrancas, humedales, áreas naturales protegidas, áreas verdes en suelo urbano, manantiales, canales, vasos de presas o cualquier cuerpo de agua;
-
-XIII. Realice el cambio provisional de aditamentos o equipos de vehículos automotores, especialmente de convertidores catalíticos, motores o cristales, con el solo objeto de obtener los certificados de verificación aprobatoria de emisiones; o
-
-XIV. Altere la operación de equipos o programas de cómputo utilizados para la verificación vehícular.
-
-A quien cometa los delitos previstos en las fracciones I, II, III, IV, VI, VII, VIII o XII se le impondrá de tres meses a seis años de prisión y multa de cien a quinientos días multa.
-
-A quien cometa los delitos previstos en las fracciones V, IX, X, XI, XIII o XIV, se le impondrá de tres a ocho años de prisión y multa de mil a veinte mil días multa.
-
-Además de las sanciones que correspondan de conformidad con los dos párrafos anteriores, a quien cometa un delito ambiental se le condenará, en los casos en que proceda, a la reparación del daño.
-
-(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+> <small>(REFORMADO, G.O.8 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 414 Bis.
 
-Se impondrá de tres a ocho años de prisión y multa de mil a veinte mil días multa, al que ocupe o participe en la ocupación de áreas naturales protegidas o suelos de conservación; en contraversión a las normas y ordenamientos de desarrollo urbano o en materia ambiental.
+Se le impondrá prisión de cinco a doce años de prisión y multa de dos mil a veinte mil días multa, al que:
 
-La pena prevista en el párrafo anterior se aumentará en una mitad, a los instigadores y a quienes dirijan la invasión, cuando la ocupación se realice por más de cinco personas o se ejerza violencia.
+I.- Ocupe, use, aproveche o deteriore sin derecho un área natural protegida de la competencia del Distrito Federal o el ecosistema del suelo de conservación;
+
+II.- No repare los daños ecológicos que ocasione al ambiente, recursos naturales, áreas naturales protegidas o al suelo de conservación, por contravenir lo dispuesto en la Ley Ambiental del Distrito Federal. Lo dispuesto en esta fracción será aplicable también a la exploración, explotación o manejo de minerales o de cualquier depósito del subsuelo, cuando no se reforeste el área o no se restaure el suelo, subsuelo, conos volcánicos y estructuras geomofológicas afectadas;
+
+III.- Trafique, en los asuntos no reservados a la Federación, con una o más especies o subespecies silvestres de flora o fauna terrestres o acuáticas en peligro de extinción, amenazadas, raras o sujetas a protección especial;
+
+IV.- En los casos no reservados a la Federación, transporte materiales o residuos peligrosos contraviniendo lo establecido en las disposiciones aplicables y se afecte con este motivo la integridad de las personas o del ambiente, y;
+
+V.- Por cualquier otro medio o actividad ponga en riesgo la salud de la población o la integridad de alguna especie animal o vegetal, de un área natural protegida o una zona considerable del ambiente rural o urbano del Distrito Federal.
+
+> <small>(ADICIONADO, G.O.8 DE JUNIO DE 2000)</small>
+
+###### ARTICULO 414 Ter.
+
+Se impondrá prisión de seis meses a seis años y multa de 1000 a 20000 días al que realice cualquiera de las conductas que a continuación se consignan:
+
+I.- Invada las áreas naturales protegidas, es decir, las zonas sujetas a conservación ecológica, los parques locales y urbanos establecidos en el Distrito Federal para la preservación, restauración y mejoramiento ambiental;
+
+II.- Atente contra las políticas y medidas de conservación, tales como las orientadas a mantener la diversidad genética y la calidad de vida, incluido el uso no destructivo de los elementos naturales, con el propósito de permitir la continuidad de los procesos evolutivos que les dieron origen;
+
+III.- Cause pérdida o menoscabo en cualquier elemento natural o en el ecosistema derivado del incumplimiento de una obligación establecida en la Ley Ambiental del Distrito Federal o en las normas oficiales mexicanas ambientales;
+
+IV.- Genere o descargue materia o energía, en cualquier cantidad, estado físico o forma, que al incorporarse, acumularse o actuar en los seres vivos, en la atmósfera, agua, suelo, subsuelo o cualquier elemento natural, afecte negativamente su composición o condición natural.
+
+V,- Contamine, destruya la calidad del suelo, áreas verdes en suelo urbano, humedales, áreas naturales protegidas, suelos de conservación o aguas en cualquier cuerpo de agua;
+
+VI.- Emita gases, humos, vapores o polvos de origen antropogénico que dañen o puedan dañar a la salud humana, la fauna, la flora, los recursos naturales, los ecosistemas o la atmósfera, por encima de lo establecido en la (sic) normas oficiales mexicanas;
+
+VII.- Descargue, deposite o infiltre aguas residuales sin su previo tratamiento, líquidos químicos o bioquímicos, descargue o deposite desechos u otras substancias o materiales contaminantes, residuos sólidos no peligrosos o industriales no peligrosos y peligrosos en los suelos de conservación, áreas naturales protegidas, barrancas, áreas verdes, en suelo urbano, manantiales, canales, vasos de presas, humedales o aguas, que dañen o puedan dañar a la salud humana la flora, la fauna, los recursos naturales o los ecosistemas;
+
+VIII.- Genere emisiones de energía térmica o lumínica, olores, ruidos o vibraciones que dañen la salud pública, la flora, la fauna o los ecosistemas, por encima de lo establecido por las normas oficiales mexicanas; así como la generación de contaminación visual;
+
+IX.- Cause la erosión, deterioro, degradación o cambio de las condiciones físicas naturales de los suelos de conservación, de las áreas naturales protegidas, de las barrancas, áreas verdes en suelo urbano, humedales o vasos de presas;
+
+X.- Desmonte o destruya la vegetación natural, corte, arranque, derribe, tale árboles, realice aprovechamientos de recursos forestales o haga indebidamente cambios de uso de suelo en suelos de conservación, áreas naturales protegidas, áreas verdes en suelo urbano, parques, jardines, y en áreas verdes en suelo urbano; sin contar con el permiso de la autoridad correspondiente;
+
+XI.- Al que ocasione incendios en bosques, parques, áreas forestales, áreas naturales protegidas, suelos de conservación, barrancas y áreas verdes en suelo urbano;
+
+XII.- Autorice, ordene o consienta la omisión de cualesquiera de las conductas descritas en las fracciones anteriores.
+
+> <small>(ADICIONADO, G.O.8 DE JUNIO DE 2000)</small>
+
+###### ARTICULO 414 Quater.
+
+Se impondrá de tres a ocho años de prisión y multa de 1000 a 20000 días, al que propicie, conduzca, incite o realice la ocupación de predios con fines diferentes a los señalados en los programas de desarrollo urbano.
+
+> <small>(ADICIONADO, G.O.8 DE JUNIO DE 2000)</small>
+
+ARTICULO 414 quintus.- Sin perjuicio de lo dispuesto en otros ordenamientos legales se impondrán de cinco a doce años de prisión y multa de 1000 a 20000 días, al que venda los predios situados en áreas naturales protegidas, suelos de conservación, zonas forestales, bosques, parques, áreas verdes en suelo urbano o barrancas.
+
+> <small>(ADICIONADO, G.O.8 DE JUNIO DE 2000)</small>
+
+ARTICULO 414 sextus.- Se impondrá multa de 1000 a 20000 días y de ocho meses a ocho años de prisión al que participe en ocupación de predios con usos diferentes al de su vocación o a los señalados en los programas de desarrollo urbano en áreas naturales protegidas, suelos de conservación, zonas forestales, bosques, parques, áreas verdes en suelo urbano o barrancas.
 
 ###### ARTICULO 415.
 
@@ -4826,23 +4858,59 @@ IV.- (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIE
 
 Para los efectos a que se refiere este artículo, el Juez deberá solicitar a la dependencia competente, la expedición del dictamen técnico correspondiente.
 
+> <small>(ADICIONADO, G.O.8 DE JUNIO DE 2000)</small>
+
+ARTICULO 421 bis.- Se impondrá multa de 1000 a 20000 días y de tres a ocho años de prisión a las Empresas o Industrias y a sus responsables, que realicen u omitan las conductas que a continuación se consignan:
+
+I. No utilice o deje de utilizar los equipos anticontaminantes en empresas, industrias o fuentes móviles que generen contaminantes;
+
+II. No instale o no utilice adecuadamente las plantas de tratamiento de aguas residuales y no reutilice las aguas tratadas; y
+
+III. No maneje adecuadamente los residuos producidos por las mismas o residuos industriales no peligrosos.
+
+> <small>(ADICIONADO, G.O.8 DE JUNIO DE 2000)</small>
+
+ARTICULO 421 ter.- Se impondrán de tres a ocho años de prisión y multa de 1000 a 20000 días, al que opere de forma indebida equipos y/o programas de computo utilizados para la verificación vehícular.
+
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 422.
 
 Las dependencias de la administración pública competentes, deberán proporcionar al juez los dictámenes técnicos o periciales que se requieran con motivo de las denuncias presentadas por la comisión de los delitos a que se refiere el presente Título.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, G.O.8 DE JUNIO DE 2000)</small>
+
+ARTICULO 422 bis.- Al servidor Público o persona autorizada, que indebidamente conceda licencia o autorización para el funcionamiento de industrias o cualquiera otra actividad reglamentada, en condiciones que causen contaminación o que sean nocivas a los recursos naturales, o con motivo de sus inspecciones hubiere silenciado la infracción de las normas respectivas, se le impondrá la pena señalada en los artículos anteriores y además, se le inhabilitará para desempeñar otro cargo o comisión públicos hasta por cinco años.
+
+> <small>(ADICIONADO, G.O.8 DE JUNIO DE 2000)</small>
+
+ARTICULO 422 ter.- Cuando intervenga en la comisión de un delito un servidor público en ejercicio, con motivo de sus funciones, o aprovechándose de su calidad de servidor, las penas de prisión aumentarán hasta en una mitad. Si el servidor público mantiene una calidad de garante respecto de los bienes tutelados la pena de prisión se aumentará hasta en otro tanto.
+
+> <small>(ADICIONADO, G.O.8 DE JUNIO DE 2000)</small>
+
+ARTICULO 422 quater.- En el caso de los delitos ambientales se observarán las siguientes reglas:
+
+I. Cuando la comisión del delito sea de manera culposa, la pena aplicable será únicamente la equivalente a la multa que le correspondería como delito doloso; y
+
+II. En el caso de que el inculpado carezca de los medios económicos para cumplir con la multa impuesta, este deberá realizar trabajos a favor de la comunidad, los cuales estarán relacionados con el medio ambiente o en la restauración de los recursos naturales cuando ello sea posible.
+
+> <small>(REFORMADO, G.O.8 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 423.
 
-Tratándose de los delitos ambientales, los trabajos en favor de la comunidad a que se refiere el artículo 24 de este ordenamiento, consistirán en actividades relacionadas con la protección al ambiente o la restauración de los recursos naturales.
+La reparación del daño ambiental es el restablecimiento del deterioro originado al suelo, agua, aire, flora y fauna. Consistente en el logro de las condiciones originales de los diferentes ecosistemas para propiciar el restablecimiento del suelo, agua, aire, flora y fauna que sufrieron alteraciones por la incidencia del hombre.
 
-(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+> <small>(REFORMADO, G.O.8 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 423 Bis.
 
-Al servidor público o persona autorizada, que indebidamente conceda licencia o autorización para el funcionamiento de industrias o cualquiera otra actividad reglamentada, en condiciones que causen contaminación o que sean nocivas a los recursos naturales, o con motivo de sus inspecciones hubiere ocultado la infracción de las normas respectivas, se le impondrá la pena señalada en el artículo 414 y, además, se le inhabilitará para desempeñar otro cargo o comisión públicos hasta por cinco años.
+Se impondrá multa de 1000 a 20000 días y de 6 meses a 6 años de prisión al que se niegue a la reparación del daño ocasionado al suelo, agua, aire, flora, y fauna.
+
+> <small>(ADICIONADO, G.O. 8 DE JUNIO DE 2000)</small>
+
+###### ARTICULO 423 Ter.
+
+Los delitos previstos en este capítulo también son punibles si se cometen en grado de tentativa.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -5429,3 +5497,17 @@ El presente Decreto entrará en vigor el 1° de octubre de 1999. Publíquese en 
 G.O. 15 DE FEBRERO DE 2000.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+G.O. 8 DE JUNIO DE 2000.
+
+DECRETO QUE DEROGA, REFORMA Y ADICIONA DIVERSOS ARTICULOS DEL TITULO VIGESIMOCUARTO DEL CODIGO PENAL PARA EL DISTRITO FEDERAL.
+
+UNICO.- El presente decreto de reformas y adiciones entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 8 DE JUNIO DE 2000.
+
+DECRETO DE REFORMAS Y ADICIONES AL CODIGO PENAL PARA EL DISTRITO FEDERAL.
+
+PRIMERO.- Estas reformas y adiciones entrarán en vigor a los treinta días siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación para su mayor difusión.
