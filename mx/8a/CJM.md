@@ -4,7 +4,7 @@ identifier: "CJM"
 country: "mx"
 rank: "codigo"
 publication_date: "1933-08-31"
-last_updated: "1942-06-26"
+last_updated: "1944-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2557&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CJM"
 
 CODIGO DE JUSTICIA MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JUNIO DE 1942.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE OCTUBRE DE 1944.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación el jueves 31 de agosto de 1933.
 
@@ -110,13 +110,13 @@ El Supremo Tribunal Militar funcionará siempre en pleno. Bastará la presencia 
 
 ### CAPITULO III. De los consejos de guerra ordinarios
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 1944)</small>
+
 ### CAPITULO IV. De los consejos de guerra extraordinarios
 
 ###### ARTICULO 10.
 
-Los consejos de guerra ordinarios, se integrarán con militares de guerra, y se compondrán de un presidente y cuatro vocales; el primero con grado de general y los segundos de este mismo grado o de coronel.
-
-Para cada consejo habrá tres miembros suplentes.
+Los Consejos de Guerra Ordinarios se integrarán con militares de guerra, y se compondrán de un presidente y cuatro vocales; el primero con grado de general o de coronel y los segundos desde el de mayor hasta coronel.
 
 ###### ARTICULO 11.
 
@@ -922,7 +922,7 @@ Es de imprudencia el que se comete por imprevisión, negligencia, impericia, fal
 
 ###### ARTICULO 102.
 
-La intensión (sic) delictuosa se presume, salvo prueba en contrario.
+La intensión delictuosa se presume, salvo prueba en contrario.
 
 La presunción de que un delito es intencional no quedará destruida, aunque el acusado pruebe alguna de las siguientes circunstancias:
 
@@ -1292,7 +1292,11 @@ I.- Si la pena fuere la capital se hará el cómputo, como si aquélla fuese la 
 
 II.- si la pena fuere la de suspensión de empleo o comisión o la de destitución de empleo, se aplicará proporcionalmente la de prisión, computada conforme a la mitad de la duración que hubieren debido tener la suspensión o la inhabilitación para volver a pertenecer al ejército.
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 1944)</small>
+
 ###### ARTICULO 152.
+
+Cuando los delitos especificados en este libro se cometan en campaña y no exista disposición que expresamente los sancione o no la presupongan, se aumentarán de una a tres cuartas partes las penas señaladas sin esa circunsancia (sic). En la misma proporción se aumentarán las demás penas susceptibles de agravación.
 
 En cualquier caso en que la pena que deba imponerse al responsable de un delito sea menor de dieciséis días de prisión, se aplicará este plazo.
 
@@ -1748,7 +1752,7 @@ El que violare la inmunidad personal o real de algún diplomático, será castig
 
 ## TITULO SEPTIMO. Delitos contra la seguridad interior de la nación
 
-### CAPITULO IV. Deserción
+### CAPITULO IV. Deserción e insumisión
 
 ###### ARTICULO 218.
 
@@ -2022,6 +2026,8 @@ Si el delito a que el presente artículo se contrae no hubiere sido perpetrado f
 
 La misma pena de ocho años de prisión se impondrá a todo el que dolosa o deliberadamente destruya, queme o inutilice los libros, cartas náuticas, planos, actas, archivos o instrumentos científicos pertenecientes al ejército.
 
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 17 DE OCTUBRE DE 1944)</small>
+
 ### CAPITULO I. Insubordinación
 
 ###### ARTICULO 255.
@@ -2096,15 +2102,17 @@ En los casos de las dos primeras fracciones del artículo anterior, si el que de
 
 El soldado que desertare estando de guardia o de centinela, o cuando esté formando parte de una escolta, si hubiere sido nombrado para alguno de esos servicios antes de haber cumplido cuatro meses de instrucción contados desde el día en que haya sentado plaza en su corporación, será castigado con el mínimo de la pena señalada en la disposición legal que, sin esa circunstancia, se le hubiere debido aplicar. De la misma manera será castigado el marino que en iguales condiciones desertare estando de guardia militar o de centinela, o formando parte de una escolta, o esquifazón de botes.
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 1944)</small>
+
 ###### ARTICULO 264.
 
 Cuando la deserción de los individuos de tropa se efectuare en campaña, se observarán las siguientes reglas:
 
-I. En los casos a que se contrae el artículo 256 se impondrá la penalidad establecida en ese precepto, duplicándose los términos señalados en él para la prisión.
+I.- En los casos a que se refieren los artículos 256, 257 y 263, se impondrá la penalidad establecida en esos preceptos, duplicándose los términos señalados en ellos para la prisión.
 
-Los sargentos y cabos serán además destituídos de sus empleos.
+Los sargentos y cabos serán además destituídos de su empleo.
 
-II.- En los casos previstos en los artículos 260, 261 y 262, se aumentarán en dos años las penas corporales respectivamente señaladas en esos preceptos.
+II.- En los casos previstos en los artículos 260, 261 y 262, se aumentarán en dos años, las penas corporales respectivamente señaladas en esos preceptos.
 
 ###### ARTICULO 265.
 
@@ -2198,13 +2206,19 @@ II.- a los que en ese mismo caso hubiere debido imponérseles una privativa de l
 
 III.- al que hubiere encabezado la reunión o grupo si fuere individuo de tropa se le castigará con la pena de trece años de prisión, siempre que conforme a lo prevenido en la fracción I, no debiere aplicársele la pena de muerte; pero si fuere oficial o el delito se hubiere cometido en campaña, se le aplicará en todo caso esa última pena.
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 1944)</small>
+
 ###### ARTICULO 275.
 
-Los que por causa legítima se hubieren dispersado del cuerpo de tropas o buque a que pertenezcan, serán castigados como desertores, según las circunstancias que hayan intervenido en su separación, si, tan luego como les fuere posible, no se presentaren a su mismo cuerpo de tropas o buque o a otras fuerzas o buques de guerra nacionales, o a la autoridad militar, marítima o consular más próxima.
+Los que por causa legítima se hubieren dispersado del cuerpo de tropas o buque a que pertenezcan, serán castigados como desertores, según las circunstancias que hayan intervenido en su separación, si tan luego como les fuere posible, no se presentaren a su mismo cuerpo de tropas o buque o a otras fuerzas o buques de guerra nacionales o a la autoridad militar, marítima o consular más próxima.
 
 Las mismas reglas se observarán respecto de los militares que habiendo caído prisioneros de guerra, no se presenten oportunamente a quien corresponda después de recobrada su libertad.
 
-Se impondrá la pena de un mes de prisión al miembro de las reservas del Ejército o de la Guardia Nacional que, sin impedimento justificado, no se presente al lugar que se le designe en el llamamiento, dentro del plazo correspondiente.
+Se impondrá la pena de un mes de prisión al miembro de las reservas del Ejército o de la Guardia Nacional, que, sin impedimento justificado, no se presente al lugar que se le designe en el llamamiento, dentro del plazo correspondiente.
+
+Comete el delito de insumisión el conscripto que por virtud del sorteo le corresponda prestar servicio activo, no se presente a la autoridad respectiva dentro del plazo señalado para ser encuadrado en las unidades del Ejército.
+
+A los infractores se les impondrá la pena de un mes de prisión. La pena corporal no releva de la obligación de prestar el servicio.
 
 ### CAPITULO II. Abuso de autoridad
 
@@ -6144,7 +6158,7 @@ México, D.F., a 29 de agosto de 1933.- El Secretario de Gobernación.- Eduardo 
 
 Al C....
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO</small>
 
 D.O.F. 29 DE SEPTIEMBRE DE 1937.
 
@@ -6153,3 +6167,13 @@ TRANSITORIO.- Este Decreto entrará en vigor desde la fecha de su publicación e
 D.O.F. 26 DE JUNIO DE 1942.
 
 ARTICULO TRANSITORIO.- Este Decreto entrará en vigor a partir de su publicación en el "Diario Oficial".
+
+D.O.F. 17 DE OCTUBRE DE 1944.
+
+###### ARTICULO 1°.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO 2°.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
