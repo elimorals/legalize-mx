@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-vialidad-comunicaciones-y-transportes-para-el-estado-121
 country: "mx"
 rank: "ley"
 publication_date: "1987-04-30"
-last_updated: "1988-12-04"
+last_updated: "1995-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12171&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE VIALIDAD, COMUNICACIONES Y TRANSPORTES PARA EL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 30 de abril de 1987.
 
@@ -771,9 +771,9 @@ f). Aprobar el examen de conducción respectivo;
 
 g). Proporcionar los datos que se soliciten para fines de identificación personal;
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1988)</small>
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 5 DE ENERO DE 1996)
 
-h). Otorgar una garantía de depósito en efectivo por la cantidad de diez veces el salario mínimo diario vigente aplicable en el Estado que responderá en su caso, inicialmente, de los daños que el menor pudiera ocasionar con motivo de la conducción;
+h). Otorgar una garantía de depósito en efectivo, en términos de lo establecido en la Ley de Hacienda del Estado, que responderá, en su caso, inicialmente de los daños que el menor pudiera ocasionar con motivo de la conducción. De no surtirse la hipótesis anterior, así como de no existir pendiente de pago alguna multa por infracción o infracciones en que haya incurrido el menor, la garantía se devolverá al otorgante al vencimiento de la vigencia de la licencia, en caso de no renovarse la misma;
 
 i). Constancia por escrito de que el padre o tutor del menor se hace responsable de la conducta y vigilancia de su representado, así como de reparar los daños que éste pudiera ocasionar en la conducción del vehículo;
 
@@ -1553,9 +1553,11 @@ La calificación de las infracciones es facultad exclusiva del mando de la autor
 
 El cobro y aprovechamiento de las multas corresponde a la autoridad municipal.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
 ###### Art. 199.
 
-Contra la sanción impuesta procede el recurso de inconformidad.
+Contra la sanción impuesta proceden los recursos establecidos en el Capítulo VI del Título IV de la Ley Orgánica de los Municipios del Estado de Campeche.
 
 ## TITULO TERCERO. De las comunicaciones y el transporte públicos
 
@@ -1769,7 +1771,9 @@ A). Si se trata de personas físicas:
 
 3.- Plena capacidad jurídica;
 
-4.- Formular la solicitud respectiva, cuya forma proporcionará la Secretaría de Gobierno, en la que se expresarán los siguientes datos y se acompañarán los documentos que a continuación se mencionan:
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+4.- Formular la solicitud respectiva, en la que se expresarán los siguientes datos y se acompañarán los documentos que a continuación se mencionan:
 
 a). Nombre completo, edad, estado civil y domicilio del peticionario;
 
@@ -1789,7 +1793,9 @@ h). La clase de servicio que se pretenda dar; y
 
 i). Tipo y número de vehículos que se pretenda utilizar.
 
-A la solicitud se acompañará un certificado de depósito, expedido por la Secretaría de Finanzas por la cantidad que fije la Ley de Hacienda del Estado, por cada concesión o permiso que se pretenda y que servirá de garantía de la formalidad de las gestiones del peticionario.
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 5 DE ENERO DE 1996)
+
+A la solicitud se acompañará un certificado de depósito, expedido por la Secretaría de Finanzas y Administración, por la cantidad que fije la Ley de Hacienda del Estado, por cada concesión o permiso que se pretenda y que servirá de garantía de la formalidad de las gestiones del peticionario. Esta garantía no se devolverá al otorgante en el caso previsto por el artículo 222 de esta Ley; si la concesión o permiso le fueren otorgados, la garantía se le devolverá cuando dentro del plazo señalado en el respectivo acuerdo de concesión o permiso, acredite a satisfacción de la autoridad que ya se encuentre prestando el servicio público de transporte, caso contrario la garantía quedará a beneficio del erario estatal sin perjuicio de la pérdida o cancelación de la concesión o permiso;
 
 5.- Satisfacer cualquiera otra condición especialmente señalada para el caso por el Gobernador del Estado;
 
@@ -1797,7 +1803,9 @@ B). Si se trata de personas morales:
 
 1.- Comprobar que están organizadas conforme a las leyes del país y constituidas exclusivamente por socios mexicanos de nacimiento; para lo cual deberá acompañar a su solicitud las bases constitutivas que justifiquen su existencia;
 
-2.- Formular la solicitud respectiva, cuya forma proporcionará la Secretaría de Gobierno, en la que se expresarán los datos y acompañarán los documentos, que sean conducentes, de aquéllos a los que se contrae el inciso "A" de esta fracción;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+2.- Formular la solicitud respectiva, en la que se expresarán los datos y acompañarán los documentos que sean conducentes, de aquellos a los que se contrae el inciso A) de esta fracción;
 
 3.- No cumplir con cualquiera otra condición señalada específicamente para el caso por el Gobernador del Estado.
 
@@ -1809,9 +1817,11 @@ Una vez presentada la solicitud con todos los requisitos a que se refiere el art
 
 Sólo cuando se hayan cumplido todos los requisitos de la solicitud se procederá a realizar los estudios técnicos y económicos que deban efectuarse previos a la declaratoria de existencia de necesidad pública de transporte, así como los que sirvan para determinar las rutas, itinerarios, territorios de operación, horarios y tarifas respectivas, mismos que deberán realizarse en un lapso no mayor de treinta días.
 
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 5 DE ENERO DE 1996)
+
 ###### Art. 222.
 
-Para el caso de que las necesidades de transporte público estuvieren satisfechas, según se desprenda de los estudios, se comunicará de inmediato la negativa correspondiente al solicitante, y se ordenará la inmediata devolución del depósito de garantía que se hubiere presentado con la solicitud.
+Para el caso de que las necesidades de transporte público estuvieren satisfechas, según se desprenda de los estudios, se comunicará de inmediato la negativa correspondiente al solicitante y se procederá en términos de lo previsto en el último párrafo del subinciso 4) del inciso A) de la fracción II del artículo 219.
 
 ###### Art. 223.
 
@@ -1903,6 +1913,18 @@ VII.- Someter a la inspección de las autoridades respectivas las unidades, inst
 
 VIII.- Establecer dentro del territorio del Estado su domicilio, preferentemente en sus terminales u oficinas administrativas;
 
+(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 5 DE ENERO DE 1996)
+
+VIII-A.- Proporcionar los informes que le soliciten el Gobernador del Estado, el Secretario de Gobierno, el Secretario de Finanzas y Administración y/o el Coordinador General de Seguridad Pública, Vialidad y Transporte, relativos o inherentes a su calidad de concesionario;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+VIII-B.- Informar a las mismas autoridades, por lo menos cada tres meses, de las altas y bajas de sus accionistas, tratándose de las personas morales;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+VIII-C.- Acreditar a las autoridades mencionadas si sus accionistas, tratándose de personas morales, choferes y además empleados, tienen o no antecedentes penales. Esta acreditación deberá tener lugar cada vez que haya movimientos en su plantilla de personal o ingresen nuevos accionistas, o a petición expresa de dichas autoridades;
+
 IX.- Cooperar con el Municipio y el Estado para el mantenimiento de los caminos, calzadas y calles por donde transiten; y
 
 X.- Abstenerse de realizar actos que impliquen competencia desleal a otros concesionarios o permisionarios.
@@ -1939,7 +1961,9 @@ II.- Carecer de personal capacitado para la operación del servicio;
 
 III.- Transferir la concesión sin permiso del Gobernador del Estado;
 
-IV.- Arrendar, dar en comodato o en usufructo la concesión y, en general, por no prestar los servicios en los términos del artículo 232 de esta ley;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+IV.- Arrendar, dar en comodato o en usufructo la concesión y, en general, por no proporcionar los informes o prestar los servicios en los términos del artículo 232 de esta Ley;
 
 V.- No prestar, sin causa justificada, el servicio concesionado por más de diez días;
 
@@ -2059,6 +2083,10 @@ Se entiende por tarifa la base escrita para el cobro de los servicios prestados 
 
 Las tarifas, horarios e itinerarios serán fijados por el Gobernador del Estado, el que procurará que correspondan siempre a un criterio técnico uniforme, tomando en cuenta la zona donde habrán de prestarse los servicios y las necesidades del mismo. La (sic) tarifas, horarios e itinerarios deberán ser fijados en el interior de los vehículos.
 
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 5 DE ENERO DE 1996)
+
+Cuando el concesionario o permisionario pretenda el incremento de la tarifa fijada en el acuerdo de concesión o permiso, hará la solicitud por escrito al Gobernador del Estado, acompañando a la misma los estudios técnicos que sustente dicha petición. El Gobernador procederá de inmediato a integrar una comisión encabezada por el Secretario de Gobierno, en la cual participarán un representante de la autoridad vial, un representante de la autoridad municipal, el solicitante o su representante y los representantes de los sectores social y privado que el titular del Ejecutivo determine, a efecto de que analicen los indicados estudios y dictaminen sobre la procedencia o improcedencia de la solicitud. A invitación del Ejecutivo, en la comisión podrán participar también miembros de los Colegios de Profesionales en materia contable. Bajo ningún pretexto el concesionario o permisionario podrá interrumpir la prestación del servicio público de transporte, alterar el orden o incrementar de motu proprio el costo de la tarifa, so pena de incurrir en la cancelación de la concesión o permiso. Exceptuado el servicio público, de automóviles de alquiler, de interrumpirse la prestación de los demás servicios de transporte público, queda facultado el Ejecutivo para ordenar, mediante la expedición del respectivo acuerdo, que se publicará en el Periódico Oficial del Estado, la requisición u ocupación temporal de los vehículos, instalaciones y demás equipos con los que se preste el servicio amparado por la concesión o permiso, para el efecto de que el Estado o el Municipio con personal propio lo continúen prestando. Si las circunstancias lo llegaren a ameritar el Ejecutivo podrá decretar la cancelación de la concesión o permiso y la expropiación de los bienes afectos a aquéllos. La requisición y la expropiación se sujetarán a los procedimientos que dispone la Ley de Expropiación y demás Limitaciones al Derecho de Propiedad del Estado de Campeche.
+
 ###### Art. 254.
 
 Los pasajeros de transporte público cubrirán la cuota o tarifa autorizada al transportista y abordarán los vehículos y descenderán de ellos en los lugares elegidos, acatando las disposiciones de esta Ley.
@@ -2122,3 +2150,11 @@ Dado en el Edificio de los Poderes del Estado, en Campeche, a los veintiocho dí
 P.O. 4 DE DICIEMBRE DE 1988.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1995.
+
+Primero.- El Presente decreto entrará en vigor el día primero de Enero de mil novecientos noventa y seis.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan a las contenidas en el presente decreto.
+
+Tercero.- Se faculta al Ejecutivo del Estado para que, en su oportunidad, expida la reglamentación que determine los procedimientos a que deberá sujetarse la comisión aludida en el segundo párrafo del artículo 253.
