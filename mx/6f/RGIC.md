@@ -4,7 +4,7 @@ identifier: "RGIC"
 country: "mx"
 rank: "reglamento"
 publication_date: "1934-03-20"
-last_updated: "1975-01-20"
+last_updated: "1975-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=586&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "RGIC"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE DICIEMBRE DE 1975.
 
 Reglamento publicado en el Diario Oficial de la Federación el martes 20 de marzo de 1934.
 
@@ -462,11 +462,11 @@ Para el despacho de los negocios se nombrarán, de cada una de las Cámaras, Com
 
 Las Comisiones Permanentes se elegirán en la primera sesión que verifiquen las Cámaras después de la apertura del período de sesiones de su primer año de su ejercicio.
 
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1940)</small>
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 66.
 
-Las Comisiones Permanentes serán: Agua o Irrigaciones Nacionales; Agricultura y Fomento; Asistencia Pública; Aranceles y Comercio Exterior; Asuntos Indígenas, Bienes y Recursos Nacionales; Colonización; Comercio Exterior e Interior; Corrección de Estilo; Correos y Telégrafos; Crédito Moneda e Instituciones de Crédito; Defensa Nacional, Departamento Agrario; Departamento del Distrito Federal; Economía y Estadística; Educación Pública; Ejidal; Ferrocarriles; Fomento Agrícola; Fomento Cooperativo; Gobernación; Gran Comisión; Hacienda; Impuestos; Industria Eléctrica; Industrias; Primera de Insaculación de Jurados; Segunda de Insaculación de Jurados; Justicia; Justicia Militar; Marina; Materiales de Guerra; Migración; Minas; Obras Públicas; Petróleo; Previsión Social; Puntos Constitucionales; Reglamentos; Relaciones Exteriores; Salubridad; Sanidad Militar; Seguros; Servicio Consular y Diplomático; Tierras Nacionales; Trabajo, Vías Generales de Comunicación.
+Las Comisiones Permanentes serán: Agricultura y Fomento; Asistencia Pública; Aranceles y Comercio Exterior; Asuntos Agrarios; Asuntos Indígenas; Bienes y Recursos Nacionales; Colonización; Comercio Exterior e Interior; Corrección de Estilo; Correos y Telégrafos; Crédito Moneda e Instituciones de Crédito; Defensa Nacional; Departamento del Distrito Federal; Economía y Estadística; Educación Pública; Ejidal; Ferrocarriles; Fomento Agrícola; Fomento Cooperativo; Gobernación; Gran Comisión; Hacienda; Impuestos; Industria Eléctrica; Industrias; Primera de Insaculación de Jurados; Segunda de Insaculación de Jurados; Justicia; Justicia Militar; Marina; Materiales de Guerra; Migración; Minas; Obras Públicas; Pesca; Petróleo; Planeación del Desarrollo Económico y Social; Previsión Social; Puntos Constitucionales; Reglamentos; Recursos Hidráulicos; Relaciones Exteriores; Salubridad; Sanidad Militar; Seguros; Servicio Consular y Diplomático; Tierras Nacionales; Trabajo; Turismo; y Vías Generales de Comunicación.
 
 ###### ARTICULO 67.
 
@@ -1243,3 +1243,7 @@ Estas reformas entrarán en vigor, en la misma fecha que las correlativas de los
 D.O.F. 20 DE ENERO DE 1975.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 11 DE DICIEMBRE DE 1975.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el "Diario Oficial" de la Federación.
