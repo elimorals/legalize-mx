@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-escuela-normal-superior-de-yucatan-8993"
 country: "mx"
 rank: "reglamento"
 publication_date: "1982-02-08"
-last_updated: "1985-07-30"
+last_updated: "1987-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8993&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE LA ESCUELA NORMAL SUPERIOR DE YUCATAN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE JULIO DE 1985.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE OCTUBRE DE 1987.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el lunes 8 de febrero de 1982.
 
@@ -871,9 +871,9 @@ PRIMERO.- Se abrogan los decretos Nos. 451 publicados en el Diario Oficial del G
 
 SEGUNDO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 30 DE JULIO DE 1985)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 23 DE OCTUBRE DE 1987)</small>
 
-TERCERO.- Los egresados de la Escuela Normal Superior de Yucatán que hubieren terminado sus estudios en los años de 1976,1977, 1979, 1980, 1981, 1982 y 1983 y que aún no hubieren obtenido el título profesional correspondiente, así como se encuentren prestando sus servicios en el Estado o fuera de él, podrán obtener el mismo, si reúnen los siguientes requisitos:
+TERCERO.- Los egresados de la Escuela Normal Superior de Yucatán que hubieren terminado sus estudios en los años de 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985 y 1986, que no hubieren obtenido el título profesional correspondiente, y que no se encuentren prestando sus servicios a la Federación o al Estado, podrán obtener el mismo, si reúnen los siguientes requisitos:
 
 a).- Haber cumplido cinco años de servicio en la especialidad respectiva;
 
@@ -928,3 +928,9 @@ D.O. 30 DE JULIO DE 1985.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 301 SE REFORMAN LOS ARTÍCULOS 1o., 2o., 3o., 6o., 8o., 21o., 38o., 39o., 42o., 43o., 44o., 45o., 59o., 60o., 63o., PÁRRAFO PRIMERO, 64o., 65o., 68o., 70o., 71o., 75o., 79o., Y 85o., DEL REGLAMENTO DE LA ESCUELA NORMAL SUPERIOR".]
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 23 DE OCTUBRE DE 1987.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 468 SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE LA ESCUELA NORMAL SUPERIOR DE YUCATÁN”.]
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
