@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1956-12-31"
+last_updated: "1961-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1956.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 1961.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -229,33 +229,59 @@ Cualquiera reforma en la constitución y funcionamiento de sociedades extranjera
 
 Son causas de revocación de las autorizaciones:
 
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 I.- No presentar para la aprobación de la Secretaría de Hacienda, el testimonio de su escritura constitutiva, dentro de los treinta días hábiles siguientes a la aprobación del proyecto o a las observaciones hechas en cumplimiento de las reglas segunda y tercera del artículo anterior.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 II.- No presentar para su aprobación a la misma Secretaría, los documentos a que se refiere el artículo 24, en el término de sesenta días hábiles siguientes a la fecha en que se comunique la aprobación de la escritura.
 
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 III.- No iniciar sus operaciones dentro de los sesenta días hábiles siguientes a la fecha en que se comunique la aprobación de los documentos a que se refiere el artículo 24.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 IV.- El hecho de no constituir dentro de los diez días de haber sido notificada, las reservas especiales para obligaciones pendientes de cumplir, que se ordenen de acuerdo con lo dispuesto por la parte final del artículo 135 de esta ley.
 
-> <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 1946)</small>
+(REFORMADA, D.O.F. 16 DE ABRIL DE 1946) (F. DE E., D.O.F. 2 DE AGOSTO DE 1946)
 
 V.- La falta de acatamiento a las observaciones de la Secretaría de Hacienda para que la institución no exceda los límites legales de las obligaciones que pueda contraer, para que no ejecute operaciones distintas de aquellas para las cuales está facultada por su autorización y por las disposiciones legales correspondientes, o bien que la sociedad no mantenga su capital mínimo y sus reservas o las inversiones respectivas, en los términos de esta ley.
 
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 VI.- Constituir alguna sucursal o agencia en el extranjero, sin la previa autorización de la Secretaría de Hacienda.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 VII.- La modificación por la sociedad de su forma de constitución o de las reglas de su funcionamiento, en contravención a las disposiciones legales.
 
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 VIII.- Las modificaciones que una sociedad extranjera haya introducido a su constitución o a su funcionamiento, siempre que la Secretaría de Hacienda considere inconveniente que la sucursal en México de dicha sociedad, continúe operando dentro del nuevo regimen de su matriz.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 IX.- El hecho de que la institución obre sin consentimiento de la Secretaría de Hacienda y Crédito Público, en los casos en que esta ley exija ese consentimiento.
 
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 X.- Que la institución se disuelva o entre en estado de liquidación.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 XI.- Cuando la institución quiebre, pero si el procedimiento termina en rehabilitación, la Secretaría de Hacienda podrá discrecionalmente, mantener en vigor, la autorización con las modalidades que estime a bien imponer.
 
-XII.- El hecho de que la mayoría de las acciones pase a poder de un gobierno extranjero.
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1961)</small>
+
+XII.- El hecho de que la mayoría de las acciones pase a poder de un gobierno extranjero, o tratándose de una sociedad mexicana, se establezcan relaciones evidentes de dependencia con empresas extranjeras que sean aseguradoras, reaseguradoras o se dediquen a actividades similares;
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 XIII.- Que la institución haga gestiones por conducto de una cancillería extranjera.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 XVI.- Cualquiera otra causa establecida en la ley.
 
@@ -931,9 +957,9 @@ d).- Si se trata del caso del artículo 135 la cantidad que designe la Secretar�
 
 III.- La reserva por obligaciones pendientes de cumplir por dividendos dejados en depósito, se calculará teniendo en cuenta los intereses acumulados hasta la fecha de la valuación.
 
-Las reservas para obligaciones pendientes deberán ser constituídas en efectivo o en valores de rápida realización a juicio de la Secretaría de Hacienda, inmediatamente después que se hayan hecho las estimaciones a que se refieren las fracciones I y II de este artículo. La propia Secretaría podrá en cualquier momento, avocarse de oficio al conocimiento de un siniestro y mandar constituir la reserva que corresponda.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1961)</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 16 DE ABRIL DE 1946)</small>
+Las reservas para obligaciones pendientes de cumplir deberán ser constituídas inmediatamente después de que se hayan hecho las estimaciones a que se refieren las fracciones I y II de este artículo y serán invertidas en los términos del primer párrafo del artículo 85. La Comisión Nacional de Seguros podrá, en cualquier momento, avocarse de oficio al conocimiento de un siniestro y mandar constituir la reserva que corresponda.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
@@ -957,29 +983,23 @@ Para el cálculo de la reserva de previsión en los términos del párrafo anter
 
 La reserva así constituída deberá incrementarse cada año hasta que llegue a tener un valor igual al 10% de las reservas medias de primas, más el 25% de las primas anuales de tarifas de las pólizas de seguro temporal renovable, vigente a la fecha de la valuación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1961)</small>
 
 ###### ARTICULO 77.
 
 La reserva de previsión para las demás operaciones y ramos se constituirá con el 3% de las primas correspondientes a las pólizas emitidas durante el año, menos las cedidas por concepto de reaseguro, las devoluciones y las cancelaciones.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
-
-Si el 20% de las utilidades que arroje el estado de pérdidas y ganancias es mayor que el importe que arroje el porcentaje a que se refiere el párrafo anterior, las instituciones deberán constituir la reserva de previsión precisamente con este 20% de utilidades.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
-
-Para el cálculo de la reserva de previsión en los términos del párrafo anterior, las compañías aseguradoras no deberán incluir como deducción en su estado de pérdidas y ganancias el 3% de las primas a que se refiere este artículo.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
+Si el 20% de las utilidades que arroje el estado de pérdidas y ganancias es mayor que el importe que arroje el porcentaje a que se refiere el párrafo anterior, las instituciones deberán constituir la reserva de precisión precisamente con este 20% de utilidades.
 
 La reserva así constituída deberá incrementarse cada año, hasta completar una suma igual al monto del capital mínimo o al 30% de las primas netas retenidas, si el importe de este porcentaje es mayor que el capital mínimo.
+
+Las instituciones autorizadas para operar exclusivamente en reaseguro estarán obligadas a constituir e incrementar la reserva a que se refiere este artículo, sólo en la medida en que no les origine o aumente las pérdidas en el ejercicio de que se trate.
 
 (ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1953) (F. DE E., D.O.F. 25 DE FEBRERO DE 1954)
 
 ARTICULO 77 bis.- La reserva de previsión constituída e incrementada en los términos de los dos artículos anteriores será acumulativa y no deberá ser disminuída aun cuando llegare a exceder los topes señalados. Esta reserva sólo podrá afectarse en los casos previstos en esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+(REFORMADO, D.O.F. 5 DE ENERO DE 1961) (F. DE E., D.O.F. 9 DE FEBRERO DE 1961)
 
 ## TITULO II. De las reservas y de su inversión
 
@@ -987,19 +1007,15 @@ ARTICULO 77 bis.- La reserva de previsión constituída e incrementada en los t�
 
 ###### ARTICULO 78.
 
-En las instituciones de seguros, la suma del capital pagado, las reservas de capital, las utilidades no distribuídas afectas a este fin y la reserva de previsión, nunca deberá ser menor del 10% de las reservas de riesgos en curso si se trata de las operaciones de vida y de accidentes y enfermedades y si la institución tiene hasta $10.000,000.00 de dichas reservas técnicas; del 9% en el caso de reservas técnicas que vayan de $10.000,000.00 a $25.000,000.00; del 8% si las reservas son de $25.000,000.00 a $50.000,000.00; del 7% si las reservas son de $50.000,000.00 a $75.000,000.00; del 6% si las reservas son de $75.000,000.00 a $100.000,000.00 y del 5% cuando las reservas alcancen $100.000,000.00 o más.
+En las instituciones de seguros, la suma del capital pagado, las reservas de capital, las utilidades no distribuídas afectas a este fin y la reserva de previsión, nunca deberá, ser menor del 10% de las reservas de riesgos en curso, si se trata de las operaciones de vida y de accidentes y enfermedades y si la institución tiene hasta $10,000,000.00 de dichas reservas técnicas; del 9% en el caso de reservas técnicas que vayan de $10.000,000.00 a $25.000,000.00; del 8% si las reservas son de $25.000,000.00 a $50.000,000.00; del 7% si las reservas son de $50.000,000.00 a $75.000,000.00; del 6% si las reservas son de $75.000,000.00 a $100.000,000.00; y del 5% cuando las reservas alcancen $100.000,000.00 o más.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+Tratándose de operaciones de daños, la suma de capital pagado, las reservas de capital, las utilidades no distribuidas afectas a este fin y la reserva de previsión será por lo menos igual al resultado de calcular el 20% de las primas directas más el 10% de las primas de reaseguro emitidas durante el año.
 
-Tratándose de las operaciones de daños, la suma del capital pagado, las reservas de capital, las utilidades no distribuídas afectas a este fin y la reserva de previsión, será por lo menos igual al resultado de calcular el 20% de las primas directas más el 10% de las primas de reaseguro emitidas durante el año.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1952) (F. DE E., D.O.F. 28 DE ENERO DE 1952)
+En operaciones de daños, si se trata de empresas autorizadas para operar exclusivamente en reaseguro, la suma a que se refiere el párrafo anterior, será por lo menos igual al 5% de las primas emitidas durante el año.
 
 Cuando a juicio de la Comisión Nacional de Seguros, tales proporciones no sean suficientes para garantizar las posibles pérdidas por desviaciones estadísticas, la propia Comisión determinará que sean aumentados el capital y las reservas de capital o de previsión, en los términos y condiciones que estime prudentes.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
-
-La falta de cumplimiento a lo dispuesto por este artículo, dará lugar a que la Secretaría de Hacienda y Crédito Público señale un plazo, que no excederá de un año, para que sean aumentados el capital, las reservas de capital o de previsión, y en caso de incumplimiento, transcurrido dicho plazo, se incurrirá en causa de revocación de la autorización.
+La falta de cumplimiento a lo dispuesto por este artículo, dará lugar a que la Secretaría de Hacienda y Crédito Público señale un plazo que no excederá de un año, para que sean aumentados el capital, las reservas de capital o de previsión, y en caso de incumplimiento, transcurrido dicho plazo, se incurrirá en causa de revocación de la autorización.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
@@ -1057,57 +1073,81 @@ II.- Las reservas para obligaciones pendientes de cumplir deberán registrarse e
 
 III.- Las reservas de previsión, calculadas en los términos de los artículos 76 y 77, se registrarán al 31 de diciembre de cada año. Estas reservas deberán encontrase íntegramente invertidas al 31 de enero siguiente en los bienes, créditos y valores que señala el artículo 85 y deberán ajustarse a las proporciones que fijan los artículos 86 y 87 dentro de un plazo que vencerá el 31 de marzo de cada año.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1961)</small>
 
 ###### ARTICULO 85.
 
-El importe total de las reservas a que se refiere la fracción II del artículo 64, deberá mantenerse precisamente en efectivo o invertirse en valores que a juicio de la Secretaría de Hacienda y Crédito Público sean de fácil realización.
+El importe total de las reservas a que se refiere la fracción II del artículo 64, deberá mantenerse precisamente en efectivo o invertirse en valores que a juicio de la Secretaría de Hacienda y Crédito Público, sean de fácil realización. Tratándose de obligaciones pendientes de cumplir que sean a plazo determinado, la inversión de sus reservas podrá realizarse en bienes distintos, los cuales serán determinados por la Secretaría de Hacienda y Crédito Público a través de disposiciones de carácter general.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 El importe total de las reservas para riesgos en curso, a que se refiere la fracción I del artículo 64, deberá invertirse precisamente en los siguientes bienes:
 
-> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
+(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)(F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
 I.- Primas retenidas correspondientes a reservas constituídas por operaciones de reaseguro celebradas con instituciones de seguros autorizadas o no autorizadas, por la parte retenida por la cedente, así como las inversiones hechas en el extranjero por reservas técnicas correspondientes a operaciones directas practicadas fuera del país por instituciones autorizadas, pero estas últimas inversiones sólo se computarán para los efectos de las operaciones realizadas por la sucursal o agencia correspondiente;
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
 II.- Bonos o títulos emitidos por el Gobierno Federal, por el del Distrito Federal y por instituciones nacionales de crédito, en los términos del artículo 86; así como valores emitidos por organismos públicos descentralizados de carácter federal, aprobados para este efecto por la Comisión Nacional de Valores;
 
-> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
+(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)(F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
 III.- Cédulas hipotecarias y bonos, garantizadas o emitidos por instituciones de crédito legalmente autorizadas;
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
 IV.- Acciones y obligaciones de compañías mexicanas que no sean mineras, petroleras o de seguros, aprobadas para este efecto por la Comisión Nacional de Valores, por medio de acuerdos generales;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 V.- Préstamos con garantía prendaria de las acciones, bonos, títulos o valores a que se refieren las tres fracciones anteriores. El importe del préstamo no excederá del 80% del valor de la prenda, estimado de acuerdo con el artículo 92 de esta ley;
 
-> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
+(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)(F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
 VI.- Préstamos con garantía de las reservas medias de primas, siempre que el importe del préstamo no exceda de la reserva terminal correspondiente;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 VII.- Préstamos hipotecarios sobre inmuebles urbanos que a juicio de la Comisión Nacional de Seguros se estimen de productos regulares, a plazos no mayores de diez años, siempre que el importe del préstamo no exceda del 50% del valor total de los inmuebles que queden afectos en garantía hipotecaria, ni del 30% de su valor, cuando se trate de inmuebles especializados, de acuerdo con las características que fije la Secretaría de Hacienda y Crédito Público.
 
 Cuando se trate de préstamos hipotecarios sobre inmuebles urbanos destinados a habitación, que reúnan las características que administrativamente fije la misma Secretaría, el plazo de amortización no excederá de quince años ni el importe del préstamo, del 65% del valor del inmueble.
 
-Los préstamos hipotecarios deberán tener garantía en primer lugar y se reembolsarán por pagos periódicos iguales de capital o de capital e intereses, anuales, semestrales o de más frecuente periodicidad. Los inmuebles dados en garantía deberán estar asegurados contra incendio, terremoto y explosión por su valor destructible. El valor de los inmuebles se determinará de acuerdo con las normas del artículo 92 de esta ley;
+Los préstamos hipotecarios deberán tener garantía en primer lugar y se reembolsarán por pagos periódicos iguales de capital o de capital de intereses, anuales, semestrales o demás frecuente periodicidad. Los inmuebles dados en garantía deberán estar asegurados contra incendio, terremoto y explosión por su valor destructible. El valor de los inmuebles se determinará de acuerdo con las normas del artículo 92 de esta ley;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 VIII.- Inmuebles urbanos de productos regulares, en territorio de la República, que deberán estar siempre asegurados contra incendio, explosión y terremoto por su valor destructible;
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
 IX.- Certificados de participación inmobiliaria emitidos en los términos de la Ley General de Títulos y Operaciones de Crédito, con fideicomiso de inmuebles que reúnan las características señaladas en la fracción anterior. Los contratos de fideicomiso deberán ser sometidos a la aprobación de la Comisión Nacional de Seguros. Estos certificados se computarán como inversiones en inmuebles;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 X.- Depósitos bancarios a la vista en instituciones de crédito legalmente autorizadas;
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
 XI.- Primas de renovación pendientes de cobro que no tengan más de treinta días de vencidas a la fecha del balance o de la estimación, cuando se trate de Instituciones que practiquen operaciones de vida;
 
-XII.- Descuentos y redescuentos a instituciones de crédito y créditos de habilitación o refaccionarios, de acuerdo con las disposiciones reglamentarias que dicte la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1961)</small>
 
-> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
+XII.- Crédito de habilitación o refaccionarios, descuentos y redescuentos a instituciones de crédito y a fondos permanentes de fomento económico destinados en fideicomiso por el Gobierno Federal en instituciones nacionales de crédito. Las operaciones mencionadas se practicarán de acuerdo con las disposiciones reglamentarias que dicte la Secretaría de Hacienda y Crédito Público.
+
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)(F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
 Las reservas de previsión a que se refiere la fracción III del artículo 64 deberán invertirse precisamente en cualquiera de los bienes, créditos o valores a que se refieren las fracciones II a X y la XII de este artículo.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
+
 No podrán considerarse como inversiones de las reservas técnicas, los intereses vencidos y pendientes de cobro de valores o préstamos, ni las rentas de bienes raíces.
 
-> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1957)</small>
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)(F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
 Las inversiones de las reservas técnicas estarán afectas a las obligaciones contraídas por la institución por las pólizas emitidas y no podrán disponer de ellas, total ni parcialmente sino para cumplir las obligaciones contraídas y las que resulten por virtud de sentencia ejecutoria de los tribunales de la República o por laudo de la Comisión Nacional de Seguros, a favor de los asegurados o beneficiarios, de acuerdo con esta ley. Por tanto, los bienes en que se encuentren invertidas las reservas enumeradas en las tres fracciones del artículo 64, son inembargables.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, podrá, mediante disposiciones de carácter general, modificar, reformar y variar los renglones, objetos y límites de inversión de las instituciones de seguros, así como señalar otros nuevos, para satisfacer necesidades de orden social o de interés público.
 
@@ -2152,3 +2192,9 @@ Las instituciones de seguros ajustarán sus inversiones a lo que dispone el art�
 Las instituciones de seguros que al entrar en vigor estas reformas tuvieren inversiones en exceso del límite del 30% establecido en la fracción I del artículo 87 reformado, podrán conservar los préstamos y valores a que esa fracción se refiere, hasta su amortización, pero no podrán renovar ni otorgar créditos hipotecarios ni adquirir nuevos valores de los antes mencionados mientras no se ajusten al nuevo límite.
 
 Las instituciones de seguros que al entrar en vigor estas reformas tuvieren inmuebles urbanos en exceso del 30% a que se refiere la fracción II del artículo 87 reformado, podrán conservar dichos inmuebles en los términos de las disposiciones legales vigentes en el momento de su adquisición, pero sólo podrán adquirir nuevos inmuebles hasta que tengan capacidad legal dentro del 30% mencionado.
+
+D.O.F. 5 DE ENERO DE 1961.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas entrarán en vigor a partir del día de su publicación en el "Diario Oficial" de la Federación.
