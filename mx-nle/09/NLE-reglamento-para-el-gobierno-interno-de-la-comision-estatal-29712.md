@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interno-de-la-comision-estatal-2971
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-05-07"
-last_updated: "2003-03-31"
+last_updated: "2004-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERNO DE LA COMISION ESTATAL ELECTORAL Y DE LAS COMISIONES MUNICIPALES ELECTORALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 7 de mayo de 1997.
 
@@ -75,7 +75,7 @@ X. Tribunal: El Tribunal Electoral del Estado; y
 
 XI. Pleno: El Pleno de la Comisión Estatal Electoral.
 
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2003)</small>
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2003)</small>
 
 ###### Artículo 2 Bis.
 
@@ -601,19 +601,27 @@ V. Los acuerdos que en la sesión se aprobaron.
 
 La Coordinación Técnica es un órgano profesional, que realiza las funciones técnico-administrativas de la Comisión y auxilia a los Comisionados en el desarrollo de sus actividades electorales; y contará con el personal necesario para su correcto funcionamiento.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JUNIO DE 2004)</small>
 
 ###### Artículo 52.
 
 De conformidad con el artículo 84 de la Ley, son dependientes y forman parte de la Coordinación Técnica las áreas siguientes:
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+
 I. El Secretariado;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 II. Comunicación Social;
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+
 III. Tecnología y Sistemas; y
 
-IV. Contraloría Interna.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2004)</small>
+
+IV. Planeación y del Servicio Profesional Electoral.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -687,33 +695,57 @@ El Coordinador Técnico podrá delegar o revocar las facultades contenidas en la
 
 #### SECCION PRIMERA. DEL SECRETARIADO
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JUNIO DE 2004)</small>
 
 ###### Artículo 58.
 
-El Secretariado es el área dependiente y auxiliar de la Coordinación Técnica, de conformidad con los artículos 81 fracción VII, 84, 86 y 87 de la Ley, cuyas funciones son:
+El Secretariado es la Unidad Técnica de apoyo a la Secretaría, dependiente y auxiliar de la Coordinación Técnica, de conformidad con los artículos 81 fracción VII, 84, 86 y 87 de la Ley, cuyas funciones son:
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 I. Elaborar los proyectos de las actas de las sesiones ordinarias y extraordinarias;
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+
 II. Colaborar en la elaboración del proyecto de calendario electoral, así como en el de sesiones ordinarias;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 III. Preparar y elaborar todo lo necesario para el desarrollo de las sesiones del Pleno;
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+
 IV. La elaboración del proyecto del Orden del Día de las sesiones;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 V. La elaboración de citatorios y convocatorias;
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+
 VI. Cuidar la circulación oportuna de los documentos y material sujeto a la aprobación del Pleno;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 VII. Preparación de los documentos que obran en archivo para su certificación;
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+
 VIII. Preparar la publicación oportuna de los acuerdos aprobados por el Pleno en el Periódico Oficial del Estado, cuando la Ley así lo disponga, y cuando lo ordene la Comisión;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 IX. Formar los expedientes de cada uno de los asuntos que se ventilen en el Pleno, así como auxiliar en el registro de los acuerdos y demás disposiciones aprobadas; y (sic)
 
-X. Auxiliar en la elaboración de los informes mensuales de la Coordinación Técnica, así como el Informe Anual del Servicio Profesional Electoral;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2004)</small>
+
+X. Auxiliar en la elaboración de los informes mensuales de la Coordinación Técnica y en el informe de cada proceso electoral;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 XI. Ser responsable de la Oficialía de Partes; y
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 XII. Las demás que le sean encomendadas por la Coordinación Técnica.
 
@@ -747,49 +779,83 @@ El Presidente es el vocero oficial de la Comisión y es responsable, con apoyo d
 
 Las actividades de difusión y comunicación social, deben preservar la naturaleza que señala el artículo 43 de la Constitución Política y los correlativos 3 y 68 de la Ley; es decir, será profesional y autónoma, cumpliendo con los principios de certeza, legalidad, independencia, equidad, imparcialidad y objetividad.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2004)</small>
 
 ###### Artículo 62.
 
-La Comisión fomentará el acercamiento permanente con los medios de comunicación, con la finalidad de garantizar la plena y oportuna información hacia la ciudadanía en general, de todos sus proyectos, planes, programas, campañas y de toda actividad que desarrolle la Comisión, las Comisiones Municipales, las Mesas Directivas de Casilla y las Mesas Auxiliares de Cómputo del Estado, estableciendo para tal efecto, un Departamento de Comunicación Social, dependiente de la Coordinación Técnica, de conformidad con lo establecido en los artículos 81 fracción VII, 84, 86 y 87 de la Ley.
+La Comisión fomentará el acercamiento permanente con los medios de comunicación, con la finalidad de garantizar la plena y oportuna información hacia la ciudadanía en general, de todos sus proyectos, planes, programas, campañas y de toda actividad que desarrolle la Comisión, las Comisiones Municipales, las Mesas Directivas de Casilla y las Mesas Auxiliares de Cómputo del Estado, estableciendo para tal efecto la Unidad Técnica de Comunicación Social, dependiente de la Coordinación Técnica, de conformidad con lo establecido en los artículos 81 fracción VII, 84, 86 y 87 de la Ley.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JUNIO DE 2004)</small>
 
 ###### Artículo 63.
 
-Son funciones del Departamento de Comunicación Social:
+Son funciones de la Unidad de Comunicación Social:
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 I. Proporcionar información oportuna a todos los medios de comunicación, y a la ciudadanía en general;
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+
 II. Fomentar la relación estrecha entre la Coordinación Técnica, las direcciones y los demás departamentos de la Comisión, a través de información generada por las mismas; además comunicar a las Comisiones Municipales la conformación de los integrantes y miembros de la Coordinación Técnica;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 III. Proporcionar oportunamente a los Comisionados la información que éstos le soliciten;
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+
 IV. Elaborar diariamente una síntesis de las notas e información relacionada con la Comisión, contenida en los medios de comunicación impresos;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 V. Elaborar diariamente, durante el proceso electoral respectivo, una síntesis de las notas e información relacionada con la Comisión, contendida en los medios de comunicación radiofónicos y televisivos;
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+
 VI. Difundir los valores cívico-políticos tendientes a impulsar el desarrollo de la vida democrática del pueblo;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 VII. Encargado de la preparación y realización de los debates entre los candidatos a las elecciones de Diputados Locales y Gobernador; así como apoyar y auxiliar a las 51 Comisiones Municipales en la organización de los debates municipales;
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+
 VIII. Encargado de los monitoreos de los medios de comunicación conforme a lo previsto por la fracción XXVI del artículo 81 de la Ley;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 IX. Responsable de los monitoreos de los medios de comunicación, Prensa, Radio y Televisión, sobre publicidad pagada de los partidos políticos y coaliciones, durante las campañas electorales;
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+
 X. Ser enlace entre los partidos políticos y la Radio y Televisión del Gobierno del Estado, de conformidad con lo establecido por el artículo 81 fracción XXIV de la Ley;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 XI. Diseñar y ejecutar las campañas de difusión institucional de la Comisión;
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+
 XII. Diseñar y colaborar en la campaña de difusión institucional de las Comisiones Municipales;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 XIII. Encargado de mantener la uniformidad de la imagen de la Comisión y de las Comisiones Municipales;
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+
 XIV. Responsable del funcionamiento, estructura y administración del portal electrónico de la Comisión en Internet;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 XV. Preparar y coordinar la sala de prensa que se utilizará el día de la jornada electoral y los días que sea necesarios;
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+
 XVI. Publicar en los periódicos locales lo así establecido por la Ley; así como los acuerdos, convocatorias y demás disposiciones que ordene la Comisión; y
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 XVII. Las demás que le sean encomendadas por la Coordinación Técnica.
 
@@ -821,63 +887,101 @@ VI. Determinación conjunta de los temas a tratar y la sujeción a los mismos.
 
 #### SECCIÓN TERCERA. DEL DEPARTAMENTO DE TECNOLOGÍA Y SISTEMAS
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2004)</small>
 
 ###### Artículo 66.
 
-Para la optimización y mejoramiento del desempeño de las actividades de la Comisión, se contará con un Departamento de Tecnología y Sistemas, dependiente de la Coordinación Técnica, encargado del diseño, construcción, mantenimiento, desarrollo y soporte de los sistemas computacionales y de informática que la Comisión y los demás organismos dependientes de ésta, de conformidad con los artículos 81 fracción VII, 84, 86 y 87 de la Ley.
+Para la optimización y mejoramiento del desempeño de las actividades de la Comisión, se contará con la Unidad Técnica de Tecnología y Sistemas, dependiente de la Coordinación Técnica, encargada del diseño, construcción, desarrollo, soporte, mantenimiento y seguridad de los sistemas de información computacionales y la infraestructura tecnológica de servicios de cómputo y telecomunicaciones de la Comisión y los demás organismos dependientes de ésta, de conformidad con los artículos 81 fracción VII, 84, 86 y 87 de la Ley.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JUNIO DE 2004)</small>
 
 ###### Artículo 67.
 
-Es responsabilidad del Departamento de Tecnología y Sistemas, la preparación y seguimiento de los siguientes programas:
+Es responsabilidad de la Unidad de Tecnología y Sistemas, la preparación y seguimiento de los programas y actividades siguientes:
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 I. La red de servicios de cómputo y telecomunicaciones de la Comisión;
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+
 II. La red de servicios de cómputo y telecomunicaciones de las Comisiones Municipales y de las Mesas Auxiliares de Cómputo, para el proceso electoral correspondiente;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 III. Los sistemas de información de apoyo a los procesos electorales;
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+
 IV. Apoya en el mantenimiento del portal electrónico de la Comisión en Internet;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 V. Encargado del mantenimiento del portal electrónico de la Comisión en Internet;
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+
 VI. El sistema de cómputo y difusión electrónica relativo a la información preliminar de resultados de las elecciones de Diputados, Gobernador y Ayuntamientos, de conformidad con el artículo 172-Bis de la Ley; y
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 VII. Las demás que le sean encomendadas por la Coordinación Técnica.
 
-> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE JUNIO DE 2004)</small>
 
-#### SECCIÓN CUARTA. DEL DEPARTAMENTO DE CONTRALORÍA INTERNA
+#### SECCIÓN CUARTA. DE LA UNIDAD DE PLANEACIÓN Y DEL SERVICIO PROFESIONAL ELECTORAL
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2004)</small>
 
 ###### Artículo 68.
 
-Para contribuir a un mejor uso y aprovechamiento de los recursos, al cumplimiento normativo y al desarrollo y consolidación de sistemas de control y evaluación que permitan lograr los objetivos y fines de la Comisión, se crea un Departamento de Contraloría Interna, dependiente y auxiliar de la Coordinación Técnica, de conformidad con lo establecido en los artículos 81 fracción VII, 84, 86 y 87 de la Ley, así como por los artículos 15, 16, 18, 25 y 27 de la Ley del Servicio Profesional Electoral.
+Para contribuir a un mejor uso y aprovechamiento de los recursos, al cumplimiento normativo y al desarrollo y consolidación de sistemas de control y evaluación que permitan lograr lo objetivos y fines de la Comisión, los proyectos y programas para organizar coordinar y desarrollar el Servicio Profesional Electoral, así como el Personal Administrativo de la Comisión, se crea la Unidad Técnica de Planeación y del Servicio Profesional Electoral.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JUNIO DE 2004)</small>
 
 ###### Artículo 69.
 
-Son funciones de la Contraloría Interna:
+Son funciones de la Unidad de Planeación y del Servicio Profesional Electoral:
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 I. Apoyar a la Coordinación Técnica en la elaboración y revisión de la planeación estratégica de la Comisión;
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+
 II. Definir la planeación operativa de la Comisión, y ponerla a consideración de la Coordinación Técnica para su aprobación;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 III. Establecer las normas, políticas y procedimientos de operación de la Comisión y supervisar que las áreas administrativas las lleven a cabo;
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+
 IV. Analizar y supervisar el cumplimiento a las observaciones realizadas por los órganos de control externo;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 V. Facilitar las operaciones entre las áreas de la Comisión, coadyuvando al establecimiento de los mecanismos para su realización en términos de eficiencia y eficacia;
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+
 VI. Proponer a la Coordinación Técnica alternativas de solución para las áreas de oportunidad detectadas en la operación y establecer los mecanismos para la aplicación de la medida seleccionada;
 
-VII. Establecer y aplicar los mecanismos de operación de la Ley del Servicio Profesional Electoral; y
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
-VIII. Las demás que le sean encomendadas por la Coordinación Técnica.
+VII. Establecer y aplicar los mecanismos de operación de la Ley del Servicio Profesional Electoral; y (sic)
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2004)</small>
+
+VIII. Auxiliar en la elaboración del informe anual del Servicio Profesional Electoral;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2004)</small>
+
+IX. Colaborar en la elaboración el (sic) informe de cada proceso electoral; y
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2004)</small>
+
+X. Las demás que le sean encomendadas por la Comisión o la Coordinación Técnica.
 
 > <small>(ADICIONADO, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -1105,7 +1209,7 @@ Todas las políticas, normas y disposiciones administrativas para el control, fu
 
 ### CAPITULO PRIMERO
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE MARZO DE 2003)</small>
 
 #### SECCIÓN PRIMERA. DE SU INTEGRACIÓN
 
@@ -1514,3 +1618,9 @@ Se reforma el Reglamento de fecha 1-primero de mayo de 1997-mil novecientos nove
 P.O. 31 DE MARZO DE 2003.
 
 Artículo Único.- Estas reformas entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE JUNIO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+Estas modificaciones entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
