@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "1991-10-11"
+last_updated: "1991-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "GRO"
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 1991.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE OCTUBRE DE 1991.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -1187,7 +1189,9 @@ IV.- El denunciante tendrá un plazo de 5 días naturales para rendir las prueba
 
 V.- La Comisión Instructora dispondrá de por lo menos un día natural para presentar su dictamen al Congreso.
 
-VI.- El Congreso resolverá en un plazo no mayor de tres días naturales si ha o no lugar a la suspensión o revocación, pudiendo desechar las pruebas que con motivo de su desahogo pudiesen propiciar una dilación que afecte el buen gobierno y la eficiente administración del Municipio.
+> <small>(F. DE E., P.O. 25 DE OCTUBRE DE 1991)</small>
+
+VI.- El Congreso resolverá en un plazo no mayor de tres días naturales si hay o no lugar a la suspensión o revocación, pudiendo desechar las pruebas que con motivo de su desahogo pudiesen propiciar una dilación que afecte el buen gobierno y la eficiente administración del Municipio.
 
 La suspensión a la que se refiere este Capítulo no podrá tener una duración de más de 180 días naturales y cesará en cuanto recaiga resolución inatacable en el Juicio de procedencia o en el Juicio político, en su caso.
 
@@ -2407,11 +2411,11 @@ Los inspectores de la Dirección de Espectáculos serán mayores de 25 años, si
 
 Cualquiera que se ostente como inspector de la Dirección de Espectáculos o servidor público de la misma cometerá el delito de usurpación de funciones a que se refiere el Artículo 267 del Código Penal del Estado, presumiéndose dicha comisión si se exhibe alguna identificación, solicite u obtenga servicios o prestaciones gratuitos derivados de dicha ostentación.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991) (F. DE E., P.O. 25 DE OCTUBRE DE 1991)
 
 ###### ARTICULO 264.
 
-Los ayuntamientos reglamentarán sobre el tipo de uniforme, credenciales e identificaciones visibles que habrán de portar los inspectores de la Dirección de Espectáculos invariablemente, salvo casos de extrema urgencia, los inspectores podrán realizar sus visitas siempre y cuando cuenten y exhiban al efecto una orden de inspección por escrito.
+Los ayuntamientos reglamentarán sobre el tipo de uniforme, credenciales e identificaciones visibles que habrán de portar los inspectores de la Dirección de espectáculos invariablemente. Salvo casos de extrema urgencia, los inspectores podrán realizar sus visitas siempre y cuando cuenten y exhiban al efecto una orden de inspección por escrito.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
