@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-municipal-numero-677-5151"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "1991-08-20"
+last_updated: "1994-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA MUNICIPAL NUMERO 677
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -382,6 +382,10 @@ a) El valor que resulte de actualizar el precio pactado por el factor que se obt
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 Tratándose de bienes inmuebles adquiridos con créditos de interés social, Fondo de la Vivienda del Banco de México, o construidos por créditos de INFONAVIT, FOVISSSTE, FONHAPO, Banco Nacional del Ejército y de la Armada o Instituciones similares, Federales, Estatales o Municipales, la reducción será de ocho veces el salario mínimo general, elevado al año, de la zona económica en la que se encuentre ubicado el inmueble.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
+a) BIS. El valor del inmueble podrá ser el valor de adquisición del mismo, disminuído con el valor que se tomó como base para calcular el impuesto en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto de referencia, caso contrario, se estará a lo dispuesto por el inciso A) de esta fracción.
 
 b) El 50 por ciento del valor determinado conforme al inciso a) cuando se transmita la nuda propiedad. El 50 por ciento restante, se pagará al ser transmitido el usufructo.
 
@@ -894,3 +898,7 @@ P.O. 20 DE AGOSTO DE 1991.
 ###### ARTICULO UNICO.
 
 El presente Decreto surtirá efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
