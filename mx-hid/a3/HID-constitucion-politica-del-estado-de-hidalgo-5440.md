@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1925-01-16"
+last_updated: "1927-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 1925.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 1927.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -43,9 +43,11 @@ CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
 ###### Artículo 3º.
 
-El Territorio del Estado, es el expresado en el supremo decreto de erección de 16 de enero de 1869 y se divide en 15 Distritos a los que corresponden los 73 Municipios que a continuación se expresan:
+El territorio del Estado es el expresado en el Supremo decreto de erección de 16 de Enero de 1869 y se divide en 15 Distritos, a los que corresponden los 74 Municipios que a continuación se expresan:
 
-Distrito de Actopan: Formado con los Municipios de Actopan, Mixquiahuala, el Arenal, San Salvador, Santiago y San Agustín Tlaxiaca.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 1927)</small>
+
+Distrito de Actopan: Formado con los Municipios de Actopan, Mixquiahuala, El Arenal, San Salvador, Santiago, San Agustín Tlaxiaca y Francisco I. Madero.
 
 Distrito de Apam: Formado con los Municipios de Apam, Tepeapulco y Tlanalapan.
 
@@ -75,7 +77,9 @@ Distrito de Zacualtipán: Formado con los Municipios de Zacualtipán y Tianguist
 
 Distrito de Zimapán: Formado con los Municipios de Zimapán, Tasquillo y Santa María Tepeji;
 
-Las Cabeceras, tanto de los Distritos y de los Municipios son las que corresponden a su denominación.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 1927)</small>
+
+Las Cabeceras de los Distritos y de los Municipios son los que corresponden a su denominación, con excepción del Municipio de Francisco I. Madero que tendrá por Cabecera el pueblo de Tepatepec.
 
 > <small>(ADICIONADO, P.O. 8 DE MAYO DE 1924)</small>
 
@@ -106,6 +110,10 @@ P.O. 8 DE MAYO DE 1924.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
 
 P.O. 16 DE ENERO DE 1925.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 16 DE MAYO DE 1927.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
 
@@ -249,7 +257,7 @@ Las resoluciones así dictadas y todas las que prevengan del Congreso erigido en
 
 ###### Artículo 25.
 
-El Congreso se reunirá en sesiones ordinarias y extraordinarias. Tendrá cada año dos períodos de sesiones ordinarias: el primero comenzará el 1º. de marzo y terminará el 15 de mayo, y el segundo comenzará el 1º. de septiembre y terminará el 15 de noviembre. Se reunirá en sesiones extraordinarias, cuando fuere convocado por la Diputación Permanente.
+El Congreso se reunirá en sesiones ordinarias y extraordinarias. Tendrá cada año dos periodos de sesiones ordinarias: el primero comenzará el 1º. de marzo y terminará el 15 de mayo, y el segundo comenzará el 1º. de septiembre y terminará el 15 de noviembre. Se reunirá en sesiones extraordinarias, cuando fuere convocado por la Diputación Permanente.
 
 ###### Artículo 26.
 
@@ -309,7 +317,7 @@ En todo caso se dará aviso al Ejecutivo, del día señalado para la discusión 
 
 ###### Artículo 35.
 
-Aprobado un proyecto de ley o de decreto por el Congreso, se remitirá al Gobernador para su sanción y publicación. El Gobernador puede dentro de diez días útiles, devolverlo con observaciones. El proyecto de ley o de decreto devueltos al Congreso, deberá ser discutido de nuevo y si fuese confirmado por las dos tercios del número total de Diputados, volverá al Gobernador, quien deberá promulgarlo sin más trámite.
+Aprobado un proyecto de ley o de decreto por el Congreso, se remitirá al Gobernador para su sanción y publicación. El Gobernador puede dentro de diez días útiles, devolverlo con observaciones. El proyecto de ley o de decreto devueltos al Congreso, deberá ser discutido de nuevo y si fuese confirmado por las dos tercios del número total de Diputados, volverá al Gobernador, quien deberá promulgarlo sin más tramite.
 
 ###### Artículo 36.
 
@@ -577,7 +585,7 @@ Se deposita el ejercicio del Poder Judicial en un Tribunal Superior y en los Tri
 
 ###### Artículo 61.
 
-El Tribunal Superior de Justicia estará formado por seis Magistrados que durarán en sus cargos cuatro años y tomaran posesión el día 5 de mayo.
+El Tribunal Superior de Justicia estará formado por seis Magistrados que durarán en sus cargos cuatro años y tomarán posesión el día 5 de mayo.
 
 ###### Artículo 62.
 
@@ -833,7 +841,7 @@ Cuando el mismo hecho tenga otra pena señalada en la ley, el propio Tribunal la
 
 ###### Artículo 93.
 
-De los delitos comunes y oficiales cometidos por los Jueces de Primera Instancia y agentes del Ministerio Público, el Tribunal Superior declarará en la forma que determine la ley, si ha o no lugar a proceder. En caso negativo, el acusado continuará en el ejercicio de su encargo, cesando todo procedimiento en su contra. En el afirmativo, quedará suspenso el acusado y sujeto a los Tribunales comunes.
+De los delitos comunes y oficiales cometidos por los Jueces de Primera Instancia y agentes del Ministerio Publico, el Tribunal Superior declarará en la forma que determine la ley, si ha o no lugar a proceder. En caso negativo, el acusado continuará en el ejercicio de su encargo, cesando todo procedimiento en su contra. En el afirmativo, quedará suspenso el acusado y sujeto a los Tribunales comunes.
 
 ###### Artículo 94.
 
@@ -858,8 +866,6 @@ Todos los funcionarios y empleados públicos sin excepción, antes de tomar pose
 ###### Artículo 99.
 
 Ninguna autoridad política o administrativa, dispondrá de manera alguna de las personas de los acusados o reos, mientras no le estén formalmente consignados, y entonces, sólo para el efecto de ejecutar la sentencia.
-
-úArtículo 100. Todo funcionario y empleado público, tendrá derecho a percibir el sueldo o emolumento que la ley señale, sin que pueda renunciarlo, y la ley que lo aumente o disminuya, no podrá tener lugar durante el período en que un funcionario ejerce el cargo.
 
 ###### Artículo 100.
 
@@ -895,6 +901,8 @@ En tanto se expiden las leyes orgánicas relativas, continuarán rigiendo en el 
 
 Las autoridades y funcionarios del Estado no tienen mas facultades que las que expresamente les concedan esta Constitución, la General de la República y las leyes que de ellas emanen.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MAYO DE 1927)</small>
+
 ###### Artículo 3°.
 
-El período Constitucional de la actual Legislatura, terminará el último día de febrero de 1921; el del Gobernador, el 31 de marzo del mismo año y el de los Magistrados del Superior Tribunal de Justicia, el 4 de mayo de 1923.
+El período Constitucional de la actual Legislatura, terminarrá el último día de febrero de 1921; el del Gobernador, el 31 de marzo del mismo año y el de los Magistrados del Superior Tribunal de Justicia, el 4 de mayo de 1923.
