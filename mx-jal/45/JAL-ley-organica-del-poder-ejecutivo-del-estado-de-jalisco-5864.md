@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "1992-08-20"
+last_updated: "1993-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -77,9 +77,11 @@ El Gobernador del Estado podrá nombrar y remover libremente a los servidores p�
 
 Las secretarías y dependencias del Ejecutivo, sus organismos auxiliares y los organismos paraestatales a que se refiere el Capítulo Cuarto de esta Ley deberán conducir sus actividades en forma programada y con base en las políticas, prioridades y restricciones que establezca el Gobierno del Estado, para el logro de los objetivos y metas de los planes de gobierno.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
+
 ###### Art. 9°.
 
-Las secretarías y dependencias del Ejecutivo, los organismos auxiliares y paraestatales estarán obligados a coordinar entre sí sus actividades, y a proporcionar la información que les sea requerida para el ejercicio de las funciones de la administración.
+Las Secretarías y Dependencias del Ejecutivo, sus organismos Auxiliares y Paraestatales coordinarán entre sí sus actividades y se proporcionarán la información necesaria para el ejercicio de las funciones de la Administración Pública Estatal.
 
 ###### Art. 10.
 
@@ -93,15 +95,17 @@ Para la eficaz atención y eficiente despacho de los asuntos de su competencia, 
 
 Los titulares de las secretarías del Ejecutivo formularán proyectos de iniciativas de ley; y proyectos de reglamentos, decretos y acuerdos en las materias que correspondan a su competencia y las remitirán al Ejecutivo, a través de la Secretaría General de Gobierno.
 
-> <small>(F. DE E., P.O. 16 DE MARZO DE 1989)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
 ###### Art. 13.
 
-El Gobernador del Estado dispondrá, mediante acuerdo administrativo, las Secretarías y Dependencias del Ejecutivo Estatal que deberán guardar relación permanente de coordinación; las que deberán coordinarse con la administración pública federal y con los ayuntamientos, así como las relaciones de coordinación sectorial que deberán guardar las entidades paraestatales con una o varias secretarías o dependencias de la Administración Pública.
+El Gobernador del Estado dispondrá, mediante Acuerdo administrativo, la coordinación que deberá existir entre las Secretarías y Dependencias del propio Ejecutivo, las que podrán a su vez, hacerla extensiva a la Administración Federal y Municipal, así como las relaciones de coordinación sectorial que deberán guardar las entidades paraestatales con una o varias Secretarías o Dependencias de la Administración Pública Estatal.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
 ###### Art. 14.
 
-El Gobernador del Estado podrá constituir organismos, dependencias o entidades para dar cumplimiento a los convenios que subscriba con el Ejecutivo Federal, con otras Entidades Federativas, con los Ayuntamientos de la Entidad, y con los sectores sociales y productivos, para la prestación de diversos servicios públicos, la ejecución de obras o la realización de cualquier otro propósito de beneficio colectivo.
+El Gobernador del Estado podrá constituir organismos, dependencias o entidades centralizadas o desconcentradas para dar cumplimiento a los convenios que suscriba con el Ejecutivo Federal, con otras Entidades Federativas, con los Gobiernos Municipales de la Entidad, con los sectores sociales y productivos, para la prestación de diversos servicios públicos, la ejecución de obras, o la realización de cualquier otro propósito de beneficio colectivo.
 
 ###### Art. 15.
 
@@ -133,11 +137,15 @@ I. Representante del Estado de Jalisco;
 
 II. Titular del Poder Ejecutivo; y
 
-III. Gestor de todos los negocios que, no siendo de la competencia del Poder Público, deban de ser tramitados ante la Federación, las demás Entidades Federativas, los otros Poderes del Estado, los Ayuntamientos y personas morales o físicas en su caso.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+III. Gestor de todos los negocios que, no siendo de la competencia del poder público, deban ser tramitados ante la Federación, las demás entidades federativas, los otros Poderes del Estado, los Gobiernos Municipales y personas morales o físicas en su caso.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
 ###### Art. 20.
 
-Compete al Gobernador de Jalisco, como Representante del Estado, llevar la dirección de las relaciones con la Federación, las demás Entidades Federativas, los otros poderes del Estado, y los Ayuntamientos.
+Compete al Gobernador de Jalisco, como Representante del Estado, llevar la dirección de las relaciones con la Federación, las demás entidades federativas, los otros Poderes del Estado y los Gobiernos Municipales.
 
 ###### Art. 21.
 
@@ -153,7 +161,9 @@ II. La administración de la hacienda y las finanzas públicas;
 
 III. La planeación, ordenación y regulación de los asentamientos humanos en el Estado;
 
-IV. La planeación del desarrollo económico y social;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+IV. La planeación, conducción, coordinación, fomento y orientación del desarrollo económico y social;
 
 V. La impartición y administración de la educación pública y la regulación de la que impartan los particulares;
 
@@ -163,7 +173,9 @@ VII. La procuración de la justicia;
 
 VIII. La conservación y mantenimiento del orden, la tranquilidad y seguridad pública en el Estado, así como la prevención social contra la delincuencia;
 
-IX. La construcción y supervisión de las obras públicas estatales, y de las federales, derivadas de convenios celebrados con la Federación, con las entidades federativas, los ayuntamientos, y demás organismos públicos o privados;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+IX. La construcción y supervisión de las obras públicas estatales y de las federales derivadas de convenios celebrados con la Federación, con las entidades federativas, los gobiernos municipales y demás organismos públicos o privados;
 
 X. La Atención de los asuntos del trabajo y la previsión social, conforme a lo que establecen las leyes;
 
@@ -179,7 +191,9 @@ XV. El cuidado de las relaciones públicas;
 
 XVI. La difusión de las actividades del poder público;
 
-XVII. La prevención del delito y el tratamiento del delincuente en todos los ámbitos, así como la prevención en relación con menores;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+XVII. La prevención del delito y de las infracciones penales, así como el tratamiento en todos los ámbitos, de los individuos que se encuentren internos en alguno de los centros de prevención y readaptación social en el Estado;
 
 XVIII. La administración de los recursos humanos y materiales del Gobierno del Estado;
 
@@ -191,6 +205,8 @@ XXI. La promoción de la participación social en asuntos de interés colectivo;
 
 XXII. Las demás atribuciones generales que le confieran las leyes, reglamentos y decretos vigentes.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
+
 ###### Art. 23.
 
 Las atribuciones que la Ley otorga al Gobernador de Jalisco, como Titular del Poder Ejecutivo, se encomendarán a las siguientes Secretarías y Dependencias:
@@ -199,39 +215,29 @@ I. Secretaría General de Gobierno;
 
 II. Secretaría de Finanzas;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
-
 III. Secretaría de Desarrollo Urbano;
 
-> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 1992)</small>
+IV. Secretaría de Desarrollo Rural;
 
-III Bis. Secretaría de Desarrollo Rural;
+V. Secretaría de Promoción Económica;
 
-IV. Secretaría de Promoción y Desarrollo Económico;
+VI. Secretaría de Turismo;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
+VII. Secretaría de Educación;
 
-V. Secretaría de Fomento Turístico y Artesanal;
+VIII. Secretaría de Cultura;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
+IX. Secretaría de Salud;
 
-VI. Secretaría de Educación;
+X. Secretaría de Vialidad y Transporte;
 
-> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 1992)</small>
+XI. Secretaría de Administración;
 
-VI Bis. Secretaría de Cultura;
+XII. Contraloría del Estado;
 
-VII. Secretaría de Salud y Bienestar Social;
+XIII. Procuraduría General de Justicia; y
 
-VIII. Secretaría de Vialidad y Transporte;
-
-IX. Secretaría de Administración;
-
-X. Contraloría del Estado;
-
-XI. Procuraduría General de Justicia; y
-
-XII. Universidad de Guadalajara.
+XIV. Universidad de Guadalajara.
 
 La Procuraduría General de Justicia y la Universidad de Guadalajara, se regirán por sus respectivas leyes.
 
@@ -247,13 +253,19 @@ En el Reglamento Interior de cada una de las Secretarías y Dependencias a que s
 
 En casos extraordinarios, o cuando exista duda sobre la competencia de alguna dependencia gubernamental para conocer de un asunto determinado, el Gobernador del Estado, por conducto de la Secretaría General de Gobierno, resolverá a qué secretaría o dependencia corresponde el despacho del mismo.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
+
 ###### Art. 27.
 
-Al frente de la Secretaría General de Gobierno, habrá un Secretario, tres sub-Secretarios, encargados de asuntos del gobierno interior, de asuntos jurídicos, y de promover y encauzar la participación social, tendrá un Jefe de Departamento de Servicios Coordinados de Prevención y Readaptación social; un Jefe del Departamento de Serguridad (sic) Pública del Estado; un Jefe de Departamento del Trabajo y Previsión Social, y un Oficial Mayor, así como el número de Directores y servidores públicos que ocupen otros cargos, de conformidad con lo que establezca el Presupuesto de Egresos.
+Al frente de la Secretaría General de Gobierno, habrá un Secretario, quien se auxiliará para el despacho de los asuntos de su competencia de tres Sub-Secretarios, encargados de Asuntos del Gobierno Interior; de Asuntos Jurídicos, y de promover y encauzar la Participación Social. Así como un Director General de Prevención y Readaptación Social; un Director General de Seguridad Pública del Estado; un Director General de Trabajo y Previsión Social y un Oficial Mayor.
+
+Contará además con los Directores de Area y el número de servidores públicos que ocupen otros cargos, de conformidad con lo que establezca el Presupuesto de Egresos. El sueldo de estos últimos servidores, no podrá ser superior al de los Directores Generales.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
 ###### Art. 28.
 
-Al frente de cada Secretaría o Dependencia Administrativa de las demás enlistadas en el Art. 23, de esta Ley, estarán los Sub-Secretarios, Jefes de Departamento, Coordinadores, Oficiales Mayores y Directores, que determinen los reglamentos interiores respectivos, y el Presupuesto de Egresos. La Secretaría de Finanzas contará, además, con un Procurador Fiscal y un Sub-Procurador.
+Al frente de cada Secretaría habrá un servidor público que se denominará Secretario y en las demás dependencias administrativas enlistadas en el artículo 23 de esta Ley, estarán sus respectivos Titulares, quienes se auxiliarán de los Directores Generales, Directores de Area y demás servidores públicos que determinen las Leyes y Reglamentos y que se autoricen en el Presupuesto de Egresos. Con excepción de los Titulares, se aplicará en lo conducente para los demás servidores, lo previsto en el segundo párrafo del artículo 27 de esta Ley.
 
 ###### Art. 29.
 
@@ -283,15 +295,21 @@ VI. Vigilar el cumplimiento de los preceptos constitucionales por parte de las a
 
 VII. El control del Registro Público de la Propiedad;
 
-VIII. Ser el conducto para las relaciones del Poder Ejecutivo con los Poderes de la Unión, los otros Poderes del Estado, los Gobiernos de las demás Entidades de la Federación, y los ayuntamientos;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+VIII. Ser el conducto para las relaciones del Poder Ejecutivo con los poderes de la Unión, los otros poderes del Estado, los Gobiernos de las demás entidades de la Federación, y los gobiernos municipales;
 
 IX. Otorgar al Poder Judicial del Estado el auxilio que requiera para el debido ejercicio de sus funciones;
 
 X. Tramitar lo relativo al ejercicio de las facultades que otorga al Ejecutivo la Constitución del Estado sobre nombramientos, renuncias y licencias de los Magistrados del Supremo Tribunal de Justicia, del Tribunal de lo Contencioso Administrativo, y aquellos otros de naturaleza análoga existentes o que en el futuro se creen, así como de las atribuciones que debe ejercitar el Gobernador en lo que respecta a la destitución de servidores públicos judiciales;
 
-XI. Tramitar lo relacionado con los nombramientos, renuncias y licencias de los Secretarios, Sub-Secretarios, Contralor, Jefes de Departamentos del Ejecutivo del Estado, del Rector de la Universidad de Guadalajara, del Procurador General de Justicia, y de los Jefes, Presidentes, Directores o encargados de los servicios de gestión;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
-XII. Llevar el registro de autógrafos de los Secretarios, Sub-Secretarios, Jefes, Sub-Jefes, Oficiales Mayores, Coordinadores Administrativos de Dependencias del Ejecutivo, del Rector, del Secretario y del Oficial Mayor de la Universidad de Guadalajara, de los Presidentes, Directores o encargado de los servicios descentralizados, del Presidente y Secretario de Acuerdos del Supremo Tribunal de Justicia, de los Presidentes y Secretarios de ayuntamientos y de los demás servidores públicos a quienes esté encomendada la fe pública, para la legalización de las firmas correspondientes;
+XI. Tramitar lo relacionado con los nombramientos, renuncias y licencias de los Titulares de las secretarías y dependencias enumeradas en el artículo 23 de la presente Ley; de los Sub-Secretarios; del Oficial Mayor de la Secretaría General de Gobierno; de los directores generales y de presidentes, directores o encargados de los servicios de gestión;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+XII. Llevar el registro de autógrafos para la legalización de las firmas de los titulares de las secretarías y dependencias enunciadas en el artículo 23 del presente ordenamiento; Sub-Secretarios; Oficial Mayor de la Secretaría General de Gobierno; directores generales; Secretario y Oficial Mayor de la Universidad de Guadalajara; presidentes, directores o encargados de los servicios descentralizados; Presidente y Secretario de Acuerdos del Supremo Tribunal de Justicia; Presidentes, Secretarios y de los síndicos de los gobiernos municipales existentes en la entidad y demás servidores públicos a quienes esté encomendada la fe pública;
 
 XIII. Intervenir en las funciones electorales conforme a las leyes;
 
@@ -319,7 +337,9 @@ XXIV. Asesorar en los problemas de tipo legal a las distintas dependencias admin
 
 XXV. (DEROGADA, 20 DE AGOSTO DE 1992)
 
-XXVI. El control de la Dirección del Patrimonio y Valores Artísticos e Históricos del Estado;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+XXVI. El Control de la Dirección del Patrimonio Inmobiliario del Estado;
 
 XXVII. El control del Archivo Histórico del Estado;
 
@@ -349,9 +369,13 @@ III. Elaborar los estudios de planeación financiera y hacendaria del Estado, y 
 
 IV. Vigilar el cumplimiento de las Leyes, Reglamentos y demás disposiciones de carácter fiscal aplicables en el Estado;
 
-V. Ejercer las atribuciones derivadas de los convenios fiscales que celebre el Gobierno del Estado con el Gobierno Federal, con las Entidades Federativas y los ayuntamientos;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
-VI. Presentar al Ejecutivo el proyecto de Iniciativa de Ley de Ingresos y participar, en el seno del Comité Interno de Presupuestación y en colaboración con el Coordinador General de Control Presupuestal, en la elaboración del Presupuesto de Egresos;
+V. Ejercer las atribuciones derivadas de los convenios fiscales que celebre el Gobierno del Estado con el Gobierno Federal, las entidades federativas y los gobiernos municipales;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+VI. Presentar al Titular del Ejecutivo Estatal, antes del 15 de octubre de cada año, los proyectos de iniciativas de Ley de Ingresos y de Presupuesto de Egresos del Gobierno del Estado, debiéndose formular este último, previo análisis en el seno del Comité Interno de Presupuestación, que será presidido por el Titular de esta Secretaría;
 
 VII. Practicar revisiones y auditorías a los contribuyentes;
 
@@ -359,7 +383,9 @@ VIII. Formular, mensualmente, los estados financieros de la Hacienda Pública, p
 
 IX. Ejercer la facultad económico-coactiva, conforme a las leyes relativas;
 
-X. Vigilar que se lleve al corriente el padrón fiscal de contribuyentes;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+X. Integrar y mantener al corriente el padrón fiscal de contribuyentes;
 
 XI. Cuidar que los servidores públicos que manejen fondos del Estado, otorguen fianza suficiente para garantizar su manejo en los términos que determine la Ley;
 
@@ -367,13 +393,17 @@ XII. Custodiar los documentos que constituyan o representen valores del Estado, 
 
 XIII. Dirigir la negociación y llevar el registro y control de la deuda pública del Estado, informando al Gobernador, mensualmente, o cuando así se le requiera, sobre el estado de la misma;
 
-XIV. Controlar las actividades de todas sus oficinas recaudadoras locales y foráneas;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+XIV. Controlar las actividades de todas sus oficinas de recaudación fiscal;
 
 XV. Efectuar los pagos conforme a los programas y presupuestos aprobados y formular, mensualmente, el estado de origen y aplicación de los recursos financieros y tributarios del Estado;
 
 XVI. Proponer al Gobernador del Estado la procedencia de la cancelación de cuentas incobrables, así como el otorgamiento de subsidios fiscales y subvenciones, en los casos en que se justifique;
 
-XVII. Proporcionar la asesoría en materia de interpretación y aplicación de las leyes tributarias del Estado, que le sea solicitada por los ayuntamientos y los particulares, y realizar una labor permanente de difusión y orientación fiscal;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+XVII. Realizar una labor permanente de difusión y orientación fiscal, así como proporcionar asesoría en la interpretación y aplicación de las leyes tributarias del Estado que le sea solicitada por los Gobiernos Municipales y los particulares;
 
 XVIII. Intervenir en los juicios de carácter fiscal que se ventilen ante cualquier tribunal, cuando tenga interés la hacienda pública del Estado;
 
@@ -383,7 +413,9 @@ XX. Administrar el catastro de la Entidad, de conformidad con lo establecido en 
 
 XXI. Interpretar, en la esfera administrativa, las disposiciones hacendarias, y tramitar y reconocer las exenciones fiscales autorizadas por el Gobernador del Estado;
 
-XXII. Intervenir en la celebración de convenios o contratos que celebre el Gobierno del Estado con el Gobierno Federal, organismo crediticios públicos y privados, con las Entidades Federativas o con los ayuntamientos del Estado;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+XXII. Intervenir en los convenios o contratos que celebre el Gobierno del Estado con el Gobierno Federal, organismos crediticios públicos y privados, entidades federativas y gobiernos municipales existentes en el Estado;
 
 XXIII. Estudiar y promover, en general, el mayor aprovechamiento de los arbitrios estatales;
 
@@ -393,11 +425,43 @@ XXV. Efectuar el inventario, valuación y actualización respecto de los inmuebl
 
 XXVI. Intervenir en la enajenación y adquisición de bienes del Estado;
 
-XXVII. Presentar denuncias y formular querellas ante el Ministerio Público a través de la Procuraduría Fiscal;
+XXVII . Presentar denuncias y formular querellas ante el Ministerio Público a través de la Procuraduría Fiscal;
 
-XXVIII. Proponer al Ejecutivo la concesión de perdón, una vez satisfecho el interés patrimonial de la Hacienda Pública; y
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
-XXIX. Los demás que señalen las Leyes y reglamentos vigentes en el Estado.
+XXVIII. Proponer al Ejecutivo Estatal la concesión de perdón por ilícitos fiscales, una vez satisfecho el interés patrimonial de la Hacienda Pública del Estado;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1993)</small>
+
+XXIX. Participar en la elaboración del Plan Estatal de Desarrollo, respecto a la definición de las políticas para la programación del gasto e inversión pública, así como evaluar los proyectos que se formulen, utilizando indicadores que muestren su factibilidad económica y social;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1993)</small>
+
+XXX. Revisar en el seno del Comité Interno de Presupuestación, los anteproyectos de Presupuestos de Ingresos y Egresos de los organismos del sector paraestatal para que sean congruentes con sus objetivos y posibilidades de desarrollo;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1993)</small>
+
+XXXI. Formular los estudios de planeación financiera de las dependencias del Gobierno del Estado y de los organismos del sector paraestatal;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1993)</small>
+
+XXXII. Coadyuvar con la Contraloría del Estado, en la vigilancia de las Dependencias del Gobierno Estatal y organismos del sector paraestatal, para que cumplan con los programas y respeten los presupuestos autorizados;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1993)</small>
+
+XXXIII. Vigilar, en coordinación con la Secretaría de Administración, las aplicaciones presupuestales de recursos humanos en todas las Secretarías y Dependencias del Ejecutivo;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1993)</small>
+
+XXXIV. Formular estudios sobre apoyos presupuestales y de descentralización de fondos a los municipios del Estado, de acuerdo a sus planes de desarrollo;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1993)</small>
+
+XXXV. Coadyuvar con el Secretariado Técnico del Gobernador, en el control de los presupuestos de programas y descentralizados de la Federación al Gobierno del Estado, a través del Convenio Unico de Desarrollo o instrumento similar; y
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+XXXVI. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 1992)</small>
 
@@ -415,9 +479,9 @@ I. Promover y vigilar el equilibrado desarrollo Urbano de las diversas comunidad
 
 II. Participar en la elaboración del Plan Estatal de Desarrollo, respecto de la definición de las políticas de asentamientos humanos, de regulación del desarrollo urbano y de la proyección y ejecución de las obras públicas y de infraestructura. Así mismo formular, revisar y ejecutar el programa estatal de desarrollo urbano, directa o concertadamente con los sectores interesados;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
-III. En forma coordinada con los Ayuntamientos tomar la participación que precisen las Leyes urbanísticas para elaborar, ejecutar, evaluar, revisar y vigilar el cumplimiento de los Programas Regionales y Municipales de Desarrollo Urbano, de acuerdo a las Políticas establecidas en el Plan Estatal de Desarrollo.
+III. En forma coordinada con los gobiernos municipales existentes en la entidad, llevar a cabo la participación que precisen las Leyes urbanísticas para elaborar, ejecutar, evaluar, revisar y vigilar el cumplimiento de los Programas Regionales y Municipales de Desarrollo Urbano, de acuerdo a las políticas establecidas en el Plan Estatal de Desarrollo;
 
 IV. Vigilar el cumplimiento y aplicación de las disposiciones legales y reglamentarias en materia de fraccionamientos, construcción y desarrollo urbano;
 
@@ -437,7 +501,9 @@ VIII. Proyectar, ejecutar, mantener y operar, en su caso, directamente o por adj
 
 IX. Diseñar y ejecutar el Programa Carretero Estatal, para la construcción, mantenimiento, conservación y modernización de la infraestructura de comunicaciones terrestres de la Entidad;
 
-X. Prestar asesoría y trabajar en forma coordinada con los ayuntamientos de la Entidad, con las dependencias y entidades del Ejecutivo Federal, en la realización de obras públicas y demás actividades relacionadas con los asentamientos humanos;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+X. Prestar asesoría y trabajar en forma coordinada con los gobiernos municipales, con las dependencias y entidades del Ejecutivo Federal, en la realización de obras públicas y demás actividades relacionadas con el desarrollo urbano;
 
 XI. Formular y operar en lo procedente, conjuntamente con la Federación los planes y programas específicos para el abastecimiento y tratamiento de aguas y servicios de drenaje y alcantarillado;
 
@@ -445,23 +511,21 @@ XI. Formular y operar en lo procedente, conjuntamente con la Federación los pla
 
 XI Bis. Evaluar los proyectos que se formulen, utilizando indicadores que muestren su factibilidad económica y social, así como su impacto ecológico y de riesgo para la población;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
-XII. Expedir conjuntamente con la Coordinación General de Control Presupuestal, las bases a que deban sujetarse los concursos para la ejecución de obras en el Estado, así como adjudicar, cancelar y vigilar el cumplimiento de los contratos de obra celebrados por la Administración Pública del Estado;
+XII. Evaluar los proyectos que se formulen utilizando indicadores que muestren su factibilidad económica y social, así como su impacto ecológico y de riesgo para la población;
 
-> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 1992)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
-XII Bis. En coordinación con la Secretaría de Desarrollo Rural y otorgando la participación que corresponda a los ayuntamientos, elaborar las declaratorias de áreas naturales protegidas de interés estatal y promover la autorización, registro y aplicación, conforme dispongan las leyes en materia de equilibrio ecológico y protección al ambiente;
+XIII. Expedir conjuntamente con la Secretaría de Finanzas y la Contraloría, ambas del Estado; las bases a que deban sujetarse los concursos para la ejecución de obras en la entidad, así como adjudicar, cancelar y vigilar el cumplimiento de los contratos de obra celebrados por la Administración Pública Estatal;
 
-XIII. (DEROGADA, 20 DE AGOSTO DE 1992)
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
-XIV. (DEROGADA, 20 DE AGOSTO DE 1992)
+XIV. En coordinación con la Secretaría de Desarrollo Rural y otorgando la participación que corresponda a los gobiernos municipales existentes en la entidad, elaborar las declaraciones de áreas naturales protegidas de interés estatal y promover la autorización, registro y aplicación conforme dispongan las leyes en materia de equilibrio ecológico y protección al ambiente; y
 
-XV. (DEROGADA, 20 DE AGOSTO DE 1992)
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
-XVI. (DEROGADA, 20 DE AGOSTO DE 1992)
-
-XVII. Las demás que le concedan las leyes.
+XV. Las demás que le concedan las leyes.
 
 > <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 1992)</small>
 
@@ -479,7 +543,9 @@ III. Elaborar y vigilar el cumplimiento de los Programas en materia de desarroll
 
 IV. Proyectar y ejecutar el programa de obra pública rural del Gobierno del Estado, con la participación de manera concertada con Municipios, Comunidades y Organizaciones;
 
-V. En coordinación con la Secretaría de Desarrollo Urbano y otorgando la participación que corresponde a los ayuntamientos, promover las declaratorias de áreas naturales protegidas de interés estatal conforme dispongan las leyes en materia de equilibrio ecológico y protección al ambiente;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+V. En coordinación con la Secretaría de Desarrollo Urbano y otorgando la participación que correspondan a los gobiernos municipales existentes en la entidad, promover las declaratorias de áreas naturales protegidas de interés estatal, conforme dispongan las leyes en materia de equilibrio ecológico y protección al ambiente;
 
 VI. Fomentar y ejecutar los programas de desarrollo agrícola, ganadero, forestal, de la fauna, pesquero y agroindustrial del Estado;
 
@@ -495,9 +561,11 @@ XI. Ejercer, previo acuerdo del Gobernador del Estado, las atribuciones y funcio
 
 XII. Las demás que le concedan las leyes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 1993)</small>
+
 ###### Art. 33.
 
-La Secretaría de Promoción y Desarrollo Económico es la dependencia facultada para promover y fomentar el desarrollo del Estado y su financiamiento, particularmente el desarrollo industrial y comercial, el abasto y las exportaciones de la Entidad. Cuenta al efecto con las siguientes atribuciones:
+La Secretaría de Promoción Económica es la dependencia facultada para promover, conducir, coordinar y fomentar el desarrollo del Estado, su planeación y financiamiento, particularmente del desarrollo industrial y comercial, el abasto y las exportaciones de la Entidad. Cuenta al efecto con las siguientes atribuciones:
 
 I. Formular, dirigir, coordinar y controlar en los términos de las leyes de la materia, la ejecución de las políticas y programas del Estado, relativas al fomento de las actividades industriales, mineras, comerciales, de abasto y de las exportaciones;
 
@@ -517,9 +585,13 @@ VIII. Apoyar los programas de investigación tecnológica industrial y fomentar 
 
 IX. Difundir las actividades industriales y comerciales, a través de ferias, exposiciones, convenciones y demás eventos promocionales;
 
-X. Promover, fomentar y participar, en su caso, en la creación de parques, corredores y ciudades industriales en el Estado;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
-XI. Elaborar, en coordinación con las Secretarías de Desarrollo Urbano y Rural, y con la Secretaría de Fomento Turístico, Artesanal y Pesquero, los programas de desarrollo de la agroindustria, silvicultura, piscicultura y otras actividades productivas, en el Estado;
+X. Promover, fomentar y participar, en su caso, en la creación de parques, corredores y ciudades industriales en el Estado, así como evaluar los proyectos que se formulen, utilizando indicadores que muestren su factibilidad económica y social, su impacto ecológico y de riesgo para la población;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+XI. Elaborar, en coordinación con las Secretarías de Desarrollo Rural y de Turismo, los programas de desarrollo de la agroindustria, silvicultura, piscicultura, turismo y otras actividades productivas en el Estado;
 
 XII. Ejercer, por acuerdo del Gobernador del Estado, las atribuciones y funciones que en materia industrial, comercial y de abasto, contengan los convenios celebrados con la administración pública federal;
 
@@ -531,11 +603,11 @@ XV. Participar, en coordinación con las autoridades competentes, en la planeaci
 
 XVI. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 1993)</small>
 
 ###### Art. 34.
 
-La Secretaría de Fomento Turístico y Artesanal, es la dependencia responsable de supervisar el debido cumplimiento de la regulación turística, de la promoción y desarrollo de nuevos proyectos, del fomento a la producción y comercialización artesanal.
+La Secretaría de Turismo, es la dependencia responsable de supervisar el debido cumplimiento de la regulación turística, así como de su promoción y desarrollo de nuevos proyectos.
 
 Corresponde a ésta Secretaría:
 
@@ -557,7 +629,9 @@ VI. Auxiliar en el control, vigilancia y funcionamiento del servicio de guías d
 
 VII. Participar en la dirección y administración de las escuelas para guías de turistas;
 
-VIII. Celebrar los convenios que sean necesarios con el gobierno de la Federación, y los Ayuntamientos, para incrementar el turismo y mejorar los servicios relativos;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+VIII. Celebrar convenios con el Gobierno de la Federación y los gobiernos municipales existentes en la entidad y demás organismos del ramo, para incrementar el turismo y mejorar los servicios relativos;
 
 IX. Estimular la formación de organismos de carácter social y privado que tiendan a fomentar el turismo;
 
@@ -591,9 +665,9 @@ I Bis. Participar en la elaboración del Plan Estatal de Desarrollo, respecto a 
 
 II. Planear, desarrollar, dirigir y vigilar la educación a cargo del Gobierno Estatal y de los particulares en todos los tipos, niveles y modalidades, en los términos de la legislación correspondiente, y sin perjuicio de la competencia concurrente que corresponde a la Universidad de Guadalajara, pero debiendo coordinarse, en todo caso, una con otra;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
-III. Elaborar y, en su caso, ejecutar los convenios de coordinación que en materia educativa celebre el Gobierno del Estado con el Gobierno Federal y los Ayuntamientos;
+III. Elaborar y en su caso ejecutar los convenios de coordinación que en materia educativa celebre el Gobierno del Estado con el Gobierno Federal y los gobiernos municipales existentes en la entidad;
 
 IV. Proponer al Ejecutivo la Expedición de los títulos, grados y diplomas que procedan, en los niveles de educación correspondientes;
 
@@ -629,7 +703,9 @@ XIV. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 La Secretaría de Cultura es el órgano de la Administración Pública Estatal, a quien compete formular y ejecutar la política cultural del Gobierno del Estado, contando para ello con las atribuciones siguientes:
 
-I. Formular los Programas y proyectos que den contenido a la acción cultural del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+I. Formular los programas y proyectos que den contenido a la acción cultural del Gobierno del Estado y evaluarlos utilizando indicadores que muestren su factibilidad económica y social;
 
 II. Participar en la elaboración del Plan Estatal de Desarrollo, respecto de la definición de la política Cultural;
 
@@ -651,13 +727,23 @@ X. El control de la Unidad Editorial del Estado;
 
 XI. Coordinar, organizar, dirigir y fomentar el establecimiento de bibliotecas y hemerotecas no escolares, videotecas, filmotecas y cualquier otro medio de divulgación cultural;
 
-XII. Las demás que le sean conferidas en los términos de otras disposiciones jurídicas o mediante acuerdo del Titular del Poder Ejecutivo del Estado.
+> <small>(ADICIONADA P.O. 11 DE MARZO DE 1993)</small>
+
+XII. El control de los valores artísticos e históricos del Estado;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+XIII. Las demás que le sean conferidas en los términos de otras disposiciones jurídicas o mediante Acuerdo del Titular del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
 ###### Art. 36.
 
-La Secretaría de Salud y Bienestar Social es la dependencia encargada de proporcionar y coordinar los servicios de salud, la regulación sanitaria y la asistencia pública, en el Estado, y le corresponde el despacho de los siguientes asuntos:
+La Secretaría de Salud es la dependencia encargada de proporcionar y coordinar los servicios de salud, la regulación sanitaria y la asistencia pública en el Estado y le corresponde el despacho de los siguientes asuntos:
 
-I. Coordinar el sistema estatal de salud;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+I. Coordinar el Sistema Estatal de Salud, formular, revisar y ejecutar el programa estatal que en dicha materia elabore y evaluar sus resultados;
 
 II. Ejercer las funciones que para las entidades federativas señale la Ley General de Salud, así como las que en virtud de convenios sean descentralizados por la federación al Gobierno del Estado;
 
@@ -667,7 +753,9 @@ IV. Planear, organizar, controlar y supervisar el sistema hospitalario estatal y
 
 V. Controlar y supervisar los centros hospitalarios privados, para el debido cumplimiento de las disposiciones y medidas sanitarias vigentes;
 
-VI. Realizar campañas tendientes a prevenir y erradicar enfermedades y epidemias en el territorio del Estado, coordinándose al efecto con los ayuntamientos del mismo;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+VI. Realizar campañas tendientes a prevenir y erradicar enfermedades y epidemias en el territorio del Estado, coordinándose al efecto con el Gobierno Federal, entidades federativas y con los gobiernos municipales existentes en el Estado, así como evaluar los proyectos respectivos, utilizando indicadores que muestren su factibilidad económica y social;
 
 VII. Estimular y evaluar las acciones y programas de las instituciones de beneficencia privada, así como asesorarlas en sus relaciones con las diversas autoridades estatales, para facilitar su desarrollo tal y como lo define la Ley del Instituto Jalisciense de Asistencia Social;
 
@@ -697,7 +785,9 @@ IV. Otorgar, revocar y modificar, de conformidad con lo dispuesto por la Secreta
 
 V. Proponer las políticas y programas relativos a la construcción y mantenimiento de obras de transporte y vialidad;
 
-VI. Dirigir, coordinar y controlar la ejecución de los programas relativos a la construcción y reparación de las obras de transporte y vialidad;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+VI. Dirigir, coordinar y controlar la ejecución de programas relativos a la construcción y reparación de las obras de transporte y vialidad, así como evaluar los proyectos que se formulen, utilizando indicadores que muestren su factibilidad económica y social, así como su impacto ecológico y de riesgo para la población;
 
 VII. Realizar los estudios necesarios sobre tránsito de vehículos, a fin de lograr una mejor utilización de las vías y de los medios de transporte correspondientes, que conduzcan a la más eficaz protección de la vida y a la seguridad, a la protección del ambiente, comodidad y rapidez en el transporte de personas y de carga;
 
@@ -705,7 +795,9 @@ VIII. Llevar a cabo los estudios para determinar, con base en ellos, las medidas
 
 IX. Determinar las características y la ubicación que deberán tener los dispositivos y señales para la regulación del tránsito en nuevas vías de circulación, entregándolos para su operación y mantenimiento a la dependencia correspondiente;
 
-X. Estudiar las tarifas para autobuses del servicio público de transporte de pasajeros, urbano, metropolitano y suburbano, de carga y taxis, así como proponer al Gobernador del Estado, y a los ayuntamientos las modificaciones pertinentes;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+X. Estudiar las tarifas para autobuses del servicio público de transporte de pasajeros, urbano, metropolitano y suburbano, de carga y taxis, así como proponer al Gobernador del Estado y a los Gobiernos Municipales, las modificaciones pertinentes;
 
 XI. Autorizar cambios de unidades y fijar frecuencias y horarios de los autobuses, revisar y opinar sobre nuevos tipos y características de los mismos;
 
@@ -777,13 +869,17 @@ I. Planear, organizar y coordinar el sistema de control y evaluación gubernamen
 
 II. Proponer al Ejecutivo anteproyectos de normas que regulen el funcionamiento de los instrumentos y procedimientos de control de la administración pública estatal;
 
-III. Practicar auditorías a las Dependencias del Ejecutivo que manejen fondos, bienes y valores del Estado, cuando menos, una vez al año;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+III. Practicar auditorías a las dependencias del Ejecutivo que manejen fondos, bienes y valores del Estado, cuando menos una vez al año, contando con las más amplias facultades legales para tal efecto;
 
 IV. Vigilar que el ejercicio del Presupuesto de Egresos se apegue a las normas, Leyes y Reglamentos;
 
 V. Efectuar la vigilancia de toda clase de subvenciones y subsidios otorgados por acuerdo del Ejecutivo, para el estricto cumplimiento de las condiciones establecidas en las resoluciones conforme a las cuales se otorguen;
 
-VI. Ejercer la vigilancia financiera y administrativa de organismos y empresas paraestatales que manejen, posean o exploten bienes del Estado, incluyendo la práctica de auditorías, cuando menos, una vez al año;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+VI. Ejercer la vigilancia financiera y administrativa de organismos y empresas paraestatales que manejen, posean o exploten bienes del Estado, incluyendo la práctica de auditorías cuando menos una vez al año, contando con las más amplias facultades legales para tal efecto;
 
 VII. Llevar el control y vigilancia de la inversión del Estado, mediante la verificación de presupuesto, contratación, avance y terminación de obras públicas;
 
@@ -803,7 +899,9 @@ XIV. Informar al Titular del Poder Ejecutivo sobre el resultado de la evaluació
 
 XV. Vigilar el cumplimiento de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado de las Secretarías y Dependencias del Ejecutivo y de las empresas paraestatales;
 
-XVI. Vigilar el cumplimiento de las normas y disposiciones en materia de registro, control, pago de personal adquisición, arrendamiento, conservación, uso, destino, afectación, enajenación, baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de las Secretarías y Dependencias del Ejecutivo y de las empresas paraestatales;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+XVI. Vigilar el cumplimiento de las normas y disposiciones en materia de registro, control, pago de personal, adquisición, arrendamiento, conservación, uso, destino, afectación, enajenación, baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de las Secretarías y dependencias del Ejecutivo y de las empresas y organismos paraestatales;
 
 XVII. Recibir y registrar las declaraciones de situación patrimonial que deban presentar los servidores de la administración pública, y verificar y practicar las investigaciones que procedan, de acuerdo con las Leyes; y
 
@@ -825,7 +923,9 @@ III. El ejercicio de las demás acciones públicas que competan al Estado;
 
 IV. La deducción de las acciones reivindicatorias, posesorias y demás de índole patrimonial que correspondan al Estado;
 
-V. El asesoramiento en el ejercicio de las acciones patrimoniales de tipo municipal, cuando los Ayuntamientos así lo soliciten;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
+V. El asesoramiento en el ejercicio de las acciones patrimoniales de tipo municipal, cuando los gobiernos municipales existentes en la entidad así lo soliciten;
 
 VI. El control de la legalidad;
 
@@ -905,9 +1005,11 @@ XXIX. La promoción de proyectos de investigación para el servicio de la comuni
 
 XXX. Las demás que le confieran las leyes y reglamentos vigentes en el Estado.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
+
 ###### Art. 42.
 
-Los Secretarios o titulares de dependencia deberán comparecer al Congreso del Estado, siempre que sean citados, para que informen, cuando se discuta una Ley o se estudie un negocio relativo a la rama administrativa que se les tiene encomendada.
+Los secretarios o titulares de las dependencias o entidades del Poder Ejecutivo, organismos y empresas paraestatales, deberán comparecer al Congreso del Estado, siempre que sean citados, para que informen, cuando se discuta una ley o se estudie un negocio relativo a la rama administrativa que se les tiene encomendada.
 
 ###### Art. 43.
 
@@ -923,35 +1025,7 @@ Se instituye el Consejo Estatal de Asesores Gubernamentales, organismo de asesor
 
 ###### Art. 46.
 
-El Gobernador del Estado delega en la Coordinación General de Control Presupuestal sus atribuciones en materia de elaboración del presupuesto de egresos. Al efecto, el coordinador responsable del área fungirá, a la vez, en calidad de Secretario del Comité de Presupuestación donde concurren todas las dependencias y entidades que participan en la formulación del presupuesto de egresos del Estado, y como titular de dependencia administrativa responsable de la evaluación del gasto público. Corresponde al coordinador el despacho de los siguientes asuntos:
-
-I. Formular, en coordinación con la Secretaría de Finanzas, el anteproyecto de la Ley de Ingresos del Gobierno del Estado;
-
-II. Formular, atendiendo a los acuerdos del Comité Interno de Presupuestación, el anteproyecto del presupuesto de egresos del Gobierno del Estado;
-
-> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 1992)</small>
-
-II Bis. Participar en la elaboración del Plan Estatal de Desarrollo, respecto a la definición de las políticas para la programación del gasto e inversión pública;
-
-III. Revisar los anteproyectos de presupustos (sic) de ingresos y egresos de los organismos del sector paraestatal, para que sean congruentes con sus objetivos y posibilidades de desarrollo;
-
-IV. Asesorar a los Ayuntamientos en la formulación de sus anteproyectos de presupuestos de ingresos y egresos, cuando así lo soliciten;
-
-V. Formular, en coordinación con la Secretaría de finanzas, los estudios de la planeación financiera de la dependencia del Gobierno y de los organismos del sector paraestatal;
-
-VI. Coadyuvar, con la Contraloría General del Estado, en la labor de vigilancia de la (sic) dependencias del Gobierno y organismos del sector paraestatal, para que cumplan con los presupuestos y programas autorizados por el Ejecutivo del Estado;
-
-VII. Vigilar, en coordinación con la Secretaría de Administración, las aplicaciones presupuestales de recursos humanos;
-
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
-
-VIII. Vigilar, en coordinación con las Secretarías de Educación, y de Cultura, las aplicaciones presupuestales de recursos humanos de los sectores educativo y cultural;
-
-IX. Formular, atendiendo a los acuerdos del Comité Interno de Presupuestación, estudios sobre los apoyos presupuestales y de descentralización de fondos a los municipios del Estado, de acuerdo a sus planes de desarrollo;
-
-X. Coadyuvar con la Secretaría de Finanzas, con el Secretariado Técnico del Gobernador, y en el seno del Comité Interno de Presupuestación, en el control de los presupuestos de programas federales descentralizados por la federación al Gobierno del Estado, a través del Convenio Unico de Desarrollo, o instrumento similar; y
-
-XI. Las demás que le asigne las leyes y reglamentos vigentes en el Estado.
+(DEROGADO, P.O. 11 DE MARZO DE 1993)
 
 ###### Art. 47.
 
@@ -1041,7 +1115,9 @@ El Gobernador del Estado podrá determinar agrupamientos de entidades de la admi
 
 Los organismos de la administración pública paraestatal deberán proporcionar a las demás entidades del sector donde se encuentren agrupados la información y datos que les soliciten.
 
-Los Consejos de Administración, Juntas Directivas o equivalentes, serán responsables de la programación normal de los organismos del sector paraestatal; os coordinadores del sector podrán, cuando lo juzguen necesario, establecer comités técnicos especializados dependientes de los Consejos de Administración, con funciones de apoyo en el desarrollo de estas actividades.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
+
+Los Consejos de Administración, Juntas Directivas o equivalentes, serán responsables de la programación normal de los organismos del sector paraestatal y podrán, cuando lo juzguen necesario, establecer comités técnicos especializados con funciones de apoyo en el desarrollo de estas actividades, sin crear nuevas plazas o remuneraciones especiales para ello.
 
 ###### Art. 55.
 
@@ -1129,103 +1205,143 @@ H) Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado de l
 
 I) Sistema para la Operación del Distrito de Control de la Contaminación del Agua, Ocotlán-Tequila, Jalisco; y
 
-J) Sistema para los Servicios de Agua Potable y Alcantarillado en el Estado de Jalisco.
+J) Sistema para los Servicios de Agua Potable y Alcantarillado en el Estado de Jalisco;
 
 > <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 1992)</small>
 
 K) Consejo de la Zona Metropolitana de Guadalajara.
 
-> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 1992)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
-II. Bis. Secretaría de Desarrollo Rural:
+III. Secretaría de Desarrollo Rural:
 
 A) Consejo Forestal y de la Fauna del Estado de Jalisco;
 
 B) Comité Estatal de Conservación de Reservas Ecológicas;
 
-C) Comité de Comunicaciones Vecinales del Estado de Jalisco, y
+C) Comité de Comunicaciones Vecinales del Estado de Jalisco; y
 
 D) Fideicomiso ante Banrural para el Desarrollo Agropecuario del Estado.
 
-III. Secretaría de Promoción y Desarrollo Económico:
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
-A) Fideicomiso de Administración y Traslativo de Dominio de El Salto, Jalisco;
+IV. Secretaría de Promoción Económica:
+
+A) Fideicomiso de Administración y Translativo de Dominio de El Salto, Jalisco;
 
 B) Fideicomiso Fondo Jalisco;
 
-C) Fondo Estatal de Apoyo a las Exportaciones;
+C) Fondo Estatal de Apoyo a las Exportaciones; y
 
-D) Fideicomiso de la Central de Abastos de Ciudad Guzmán; y
+D) Fideicomiso de la Central de Abastos de Ciudad Guzmán, Jalisco.
 
-E) (DEROGADO, P.O. 20 DE AGOSTO DE 1992)
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
+V. Secretaría de Turismo:
 
-IV. Secretaría de Fomento Turístico y Artesanal:
-
-A) Comisión del turismo del Estado; y
+A) Comisión de Turismo del Estado; y
 
 B) Instituto de la Artesanía Jalisciense.
 
-V. Secretaría de Finanzas:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 1993)</small>
+
+VI. Secretaría de Finanzas:
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
 A) Fondo de Auxilio Social.
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
-VI. Secretaría de Educación:
+VII. Secretaría de Educación:
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
 A) Consejo Jalisciense de Recursos para la Atención de la Juventud en el Estado de Jalisco;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1992)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
-B) Consejo Estatal de Educación;
+B) Consejo Estatal de Educación; y
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1992)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
-C) Organismo para la Integración Administrativa y Operativa de los Servicios de Educación Básica y Normal del Estado de Jalisco;
+C) Organismo para la Integración Administrativa y Operativa de los Servicios de Educación Básica y Normal del Estado de Jalisco.
 
-D) (DEROGADO, P.O. 20 DE AGOSTO DE 1992)
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 1992)</small>
+VIII. Secretaría de Cultura:
 
-VI Bis. Secretaría de Cultura:
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
 A) Instituto Cultural Cabañas;
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
+
 B) Instituto Jalisciense de Antropología e Historia;
 
-C) Orquesta Filarmónica de Jalisco, y
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
+
+C) Orquesta Filarmónica de Jalisco; y
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
 D) Consejo Estatal de la Cultura y las Artes.
 
-VII. Secretaría de Salud y Bienestar Social:
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1993)</small>
+
+IX. Secretaría de Salud:
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 1993)</small>
 
 A) Antiguo Hospital Civil;
 
+(ADICIONADO, P.O. 11 DE MARZO DE 1993
+
 B) Complejo Médico del Hospital Civil de Guadalajara;
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 1993)</small>
 
 C) Instituto Cabañas;
 
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 1993)</small>
+
 D) Instituto Jalisciense de Asistencia Social;
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 1993)</small>
 
 E) Patronato de Promotores Voluntarios; y
 
-F) Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco.
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 1993)</small>
 
-VIII. Secretaría de Vialidad y Transporte:
+F) Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1993)</small>
+
+X. Secretaría de Vialidad y Transporte:
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 1993)</small>
 
 A) Consejo Consultivo de Vialidad y Tránsito de Guadalajara;
 
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 1993)</small>
+
 B) Consejo Técnico Estatal de Tránsito;
 
-C) Contratauzome (sic);
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 1993)</small>
+
+C) Contratauzome;
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 1993)</small>
 
 D) Sistema de Transporte Colectivo de la Zona Metropolitana; y
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 1993)</small>
 
 E) Sistema de Tren Eléctrico Urbano.
 
 Las entidades que se creen en virtud de lo dispuesto por el Art. 48, de la presente ley, serán presididas por el C. Gobernador del Estado, y sus órganos de Gobierno serán los dispuestos por los ordenamientos que den base a su existencia, donde se dispondrá asimismo, lo conducente en materia de coordinación sectorial.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
 El ejecutivo se reserva, en los términos del Art. 44, de esta Ley, el gobierno y coordinación de las siguientes entidades:
 
@@ -1233,11 +1349,9 @@ A) Comité de Planeación del Desarrollo;
 
 B) Consejo Estatal de Asesores Gubernamentales;
 
-C) Inmobiliaria de Interés Público del Estado;
+C) Inmobiliaria y Promotora de Vivienda de Interés Público del Estado; y
 
-D) Instituto Promotor de la Vivienda; y
-
-E) Fideicomiso de la Orquesta Filarmónica de Jalisco.
+D) Fideicomiso de la Orquesta Filarmónica de Jalisco;
 
 Artículo Décimo. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
 
@@ -1274,3 +1388,9 @@ Lic. Enrique Romero González
 P.O. 20 DE AGOSTO DE 1992.
 
 Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 11 DE MARZO DE 1993.
+
+Primero. Se faculta al Ejecutivo del Estado para que realice las acciones que estime convenientes para dar cumplimiento a lo dispuesto en los Artículos 27 y 28 de este Ordenamiento, en tanto se reforma el Presupuesto de Egresos del Gobierno del Estado, para el Ejercicio Fiscal en vigor.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto y entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
