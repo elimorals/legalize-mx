@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-para-la-regularizacion-de-1633
 country: "mx"
 rank: "estatuto"
 publication_date: "2000-06-12"
-last_updated: "2000-06-12"
+last_updated: "2002-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16334&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,15 +19,15 @@ issue_date: "1999-07-01"
 ---
 # ESTATUTO ORGANICO DE LA COMISION PARA LA REGULARIZACION DE LA TENENCIA DE LA TIERRA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DEL SUELO SUSTENTABLE, PUBLICADO EN EL D.O.F. DE 26 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGANICO DE LA COMISION PARA LA REGULARIZACION DE LA TENENCIA DE LA TIERRA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE FEBRERO DE 2002.
 
 Estatuto publicado en el Diario Oficial de la Federación, lunes 12 de junio de 2000.
 
 SECRETARIA DE DESARROLLO SOCIAL
-
-ESTATUTO Orgánico de la Comisión para la Regularización de la Tenencia de la Tierra.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Desarrollo Social.- Comisión para la Regularización de la Tenencia de la Tierra.
 
@@ -131,9 +131,17 @@ II.- El Director General.
 
 Corett contará con un órgano de vigilancia integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de Contraloría y Desarrollo Administrativo, que tendrá las atribuciones que le confiere la Ley Federal de las Entidades Paraestatales, su Reglamento y demás disposiciones legales aplicables.
 
-Corett contará, asimismo, con una Contraloría Interna, órgano interno de control, al frente del cual habrá un Contralor Interno designado por la Secretaría de Contraloría y Desarrollo Administrativo, en los términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal.
+> <small>(REFORMADO, D.O.F. 28 DE FEBRERO DE 2002)</small>
 
-Los servidores públicos de la Contraloría Interna ejercerán, en el ámbito de sus respectivas competencias, las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo dispuesto por el Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+Corett contará, asimismo, con un Organo Interno de Control, al frente del cual el Titular del Organo Interno de Control designado por la Secretaría de Contraloría y Desarrollo Administrativo, en los términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, en ejercicio de sus facultades, se auxiliará por los titulares de las áreas de Auditoría Interna, de Auditoría de Control y Evaluación y de Quejas y Responsabilidades, designados en los mismos términos.
+
+> <small>(REFORMADO, D.O.F. 28 DE FEBRERO DE 2002)</small>
+
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades de los Servidores Públicos, y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el artículo 26 fracciones III y IV del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+
+> <small>(ADICIONADO, D.O.F. 28 DE FEBRERO DE 2002)</small>
+
+Las ausencias del Titular del Organo Interno de Control, así como las de los titulares de las áreas de auditoría, quejas y responsabilidades, serán suplidas conforme a lo previsto por el artículo 33 segundo y tercer párrafos, del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
 
 ### CAPITULO SEGUNDO. DEL CONSEJO DE ADMINISTRACION
 
@@ -335,9 +343,9 @@ VII.- Desempeñar las comisiones que el Director General les encomiende e inform
 
 VIII.- Realizar estudios y proponer proyectos para el cumplimiento del objeto de Corett;
 
-IX.- Atender oportunamente las observaciones determinadas por las diferentes instancias fiscalizadoras y procurar que se evite la recurrencia de las irregularidades que las generó.
+IX.- Atender oportunamente las observaciones determinadas por las diferentes instancias fiscalizadoras y procurar que se evite la recurrencia de las irregularidades que las generó;
 
-X.- Hacer del conocimiento de la Contraloría Interna en Corett, las quejas, denuncias e inconformidades que les sean presentadas por personas o grupos sociales.
+X.- Hacer del conocimiento de la Contraloría Interna en Corett, las quejas, denuncias e inconformidades que les sean presentadas por personas o grupos sociales;
 
 XI.- Las demás que les confieran otras disposiciones jurídicas aplicables, el Consejo o el Director General.
 
@@ -457,7 +465,7 @@ XIII.- Compilar, difundir y aplicar los instrumentos jurídicos y administrativo
 
 XIV.- Participar en la elaboración y fundamentar jurídicamente los acuerdos del Consejo, manuales, circulares, instructivos, y otras disposiciones administrativas del organismo,
 
-XV.- Gestionar y llevar el control de los poderes que otorgue el Director General.
+XV.- Gestionar y llevar el control de los poderes que otorgue el Director General;
 
 XVI.- Expedir, a petición de autoridad competente o persona física o moral que acredite su interés jurídico, copias certificadas de los documentos que obren en los archivos de la unidad administrativa a su cargo, y
 
@@ -549,6 +557,8 @@ I.- Representar a Corett ante las dependencias y entidades de los tres órdenes 
 
 II.- Expedir, a petición de autoridad competente o persona física o moral que acredite su interés jurídico, copias certificadas de los documentos que obren en los archivos de la unidad administrativa a su cargo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE FEBRERO DE 2002)</small>
+
 ###### Artículo 32.
 
 Corresponde a las delegaciones, en el ámbito de sus respectivas circunscripciones territoriales:
@@ -599,7 +609,9 @@ XXII.- Ejecutar los acuerdos que emanen de las unidades administrativas centrale
 
 XXIII.- Resguardar los registros documentales de los actos que realicen en cumplimiento de sus funciones;
 
-XXIV.- Proporcionar oportunamente al Organo Interno de Control, la información que le solicite y actuar a petición expresa, como su coadyuvante, en el procedimiento de responsabilidad administrativa, que establece la Ley Federal de Responsabilidades de los Servidores Públicos, y
+> <small>(REFORMADA, D.O.F. 28 DE FEBRERO DE 2002)</small>
+
+XXIV.- Proporcionar oportunamente al Organo Interno de Control, la información que le solicite;
 
 XXV.- Las demás que les confieran otras disposiciones jurídicas, el Consejo, el Director General o los titulares de las unidades administrativas centrales.
 
@@ -618,3 +630,11 @@ SEGUNDO.- Se abroga el Reglamento Interior de la Comisión para la Regularizaci�
 Aprobado por el Consejo de Administración de la Comisión para la Regularización de la Tenencia de la Tierra, en su sesión ordinaria número 69 celebrada en la Ciudad de México, D.F., el primero de julio de 1999.
 
 El Consejo de Administración de la Comisión para la Regularización de la Tenencia de la Tierra, con fundamento en las disposiciones contenidas en los artículos 90 de la Constitución Política de los Estados Unidos Mexicanos; 1o., 3o. fracción I, 9 y 45 de la Ley Orgánica de la Administración Pública Federal; 1o., 14, 15, 17, 18, 19, 20, 21, 22 y 58 de la Ley Federal de las Entidades Paraestatales y en cumplimiento a lo ordenado en el artículo transitorio segundo del decreto publicado en el Diario Oficial de la Federación el 26 de febrero de 1999, mediante el cual se reformaron diversos artículos del decreto por el que se reestructuró la Comisión para la Regularización de la Tenencia de la Tierra, publicado en el Diario Oficial de la Federación el 8 de noviembre de mil novecientos setenta y cuatro, con fecha primero de julio de mil novecientos noventa y nueve, expide el presente Estatuto Orgánico.- El Presidente Suplente y Subsecretario de Desarrollo Urbano y Vivienda de la Secretaría de Desarrollo Social, Roberto Salcedo Aquino.- Rúbrica.- Los Consejeros: el Subsecretario de Ordenamiento de la Propiedad Rural de la SRA, Héctor René García Quiñónes.- Rúbrica.- El Vocal Ejecutivo del FOVISSSTE, Eugenio Ruiz Orozco.- Rúbrica.- El Presidente de CABIN, Mario Rozenstein Sraiber.- Rúbrica.- El Director General y Delegado Fiduciario Especial de FIFONAFE, Héctor A. Oropeza García.- Rúbrica.- El Director General del FONHAPO, Arturo Díaz Camacho.- Rúbrica.- La Directora Gral. de Prog. y Pto. Agrop. de S.H.C.P., Evelyne Rodríguez Ortega.- Rúbrica.- La Directora General de Desarrollo Urbano de SEDESOL, Ligia González García de Alba.- Rúbrica.- El Director General de Política y Fomento a la Vivienda de SEDESOL, Miguel D. Hernández Contreras.- Rúbrica.- El Coordinador General del Area de Descentralización de SEMARNAP, Julio García Coll.- Rúbrica.- La Subdirectora General Técnica INFONAVIT, Belinda Ramírez Reyes.- Rúbrica.- El Comisario Público ante el Sector Desarrollo Social de SECODAM, José Mario Simón Mitre Salazar.- Rúbrica.- El Secretario Técnico y Coordinador General de la Unidad de Análisis Sectorial de SEDESOL, David Penchyna Grub.- Rúbrica.- El Director General de Corett, Salim Arturo Orcí Magaña.- Rúbrica.- La Prosecretaria y Directora de Planeación y Sistemas de Corett, Carmen Villavicencio Rivas.- Rúbrica.- La Directora de Asuntos Jurídicos de Corett, Cibeli Gabriela Marín Millán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 28 DE FEBRERO DE 2002.
+
+PRIMERO.- Publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
