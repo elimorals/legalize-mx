@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-los-servicios-de-seguridad-privada-para-el-22389"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-27"
-last_updated: "2001-10-27"
+last_updated: "2001-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LOS SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2001.
 
 Reglamento publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de octubre de 2001.
 
@@ -193,9 +193,13 @@ Los documentos originales solicitados en el artículo 12 de este Reglamento ser�
 
 Previamente a la expedición de la autorización y registro, la Dirección inspeccionará y registrará las instalaciones y supervisará el funcionamiento de la organización del prestador, con la finalidad de verificar si son adecuadas las condiciones para la prestación del servicio de seguridad privada solicitado, sujetándose a las formalidades del Capítulo V de este Reglamento.
 
+> <small>(REFORMADO, D.O. 15 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 16.
 
-La autorización y registro que se otorgue a los prestadores para funcionar como empresa de seguridad privada, es personal e intransferible, contendrá en forma detallada la actividad permitida y límites de operación, número y clave que se le otorgue y causará el pago de derechos correspondientes a que se refiere el artículo 4° de este ordenamiento, que deberán cubrirse dentro de las setenta y dos horas posteriores a su notificación.
+La autorización y registro que se otorgue a los prestadores para funcionar como empresa de seguridad privada, así como las credenciales que se expidan al personal a su servicio, serán personales e intransferibles. Tendrán vigencia para el ejercicio fiscal en el que fueron expedidas. las autorizaciones contendrán en forma detallada la actividad permitida y límites de operación, número y clave que se le otorgue y causará el pago de derechos correspondientes a que se refiere el artículo 4° de este ordenamiento, que deberán cubrirse dentro de las 72 horas posteriores a su notificación.
+
+Las autorizaciones de funcionamiento y las credenciales podrán ser revalidadas por períodos similares, dentro de los meses de enero y febrero de cada año, siempre que el titular acredite que al momento de solicitar la revalidación se satisfacen los requisitos exigidos por el artículo 12 de este ordenamiento.
 
 ###### Artículo 17.
 
@@ -654,3 +658,9 @@ La obligación de los prestadores de impartir los cursos de capacitación a que 
 Por lo tanto, mando se imprima, publique, circule y observe.
 
 Dado en la Residencia del Poder Ejecutivo, en Palacio de Gobierno, a los 26 días del mes de octubre del año 2001. Atentamente. SUFRAGIO EFECTIVO. NO REELECCION, EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE DICIEMBRE DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
