@@ -4,7 +4,7 @@ identifier: "LGSM"
 country: "mx"
 rank: "ley_general"
 publication_date: "1934-08-04"
-last_updated: "1992-06-11"
+last_updated: "1996-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=578&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSM"
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el sábado 4 de agosto de 1934.
 
@@ -30,7 +30,7 @@ Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.
 
 El C. Presidente Constitucional Substituto de los Estados Unidos Mexicanos, se ha servido dirigirme la siguiente Ley:
 
-"ABELARDO L. RODRIGUEZ, Presidente Constitucional Substituto de los Estados Unidos Mexicanos, a sus habitantes, sabed:
+"ABELARDO L. RODRIGUEZ, Presidente Constitucional Substituto de los Estados Unidos Mexicanos, a sus habitantes, sabed:"
 
 Que en uso de las facultades extraordinarias que me confiere el Decreto expedido por el Congreso de la Unión, con fecha 28 de diciembre de 1933, para expedir un nuevo Código de Comercio y las leyes especiales en materia de comercio y de derecho procesal mercantil, he tenido a bien expedir la siguiente
 
@@ -182,7 +182,7 @@ A pesar de cualquier pacto en contrario, el socio que aportare a la sociedad uno
 
 ###### ARTICULO 13.
 
-El nuevo socio de una sociedad ya constituída responde de todas las obligaciones sociales contraídas antes de su admisión, aun cuando se modifique la razón social o la denominación. El pacto en contrario no producirá efecto en perjuicio de terceros.
+El nuevo socio de una sociedad ya constituida responde de todas las obligaciones sociales contraídas antes de su admisión, aun cuando se modifique la razón social o la denominación. El pacto en contrario no producirá efecto en perjuicio de terceros.
 
 ###### ARTICULO 14.
 
@@ -442,6 +442,8 @@ Cualquiera persona extraña a la sociedad que haga figurar o permita que figure 
 
 Ninguna sociedad de responsabilidad limitada tendrá más de cincuenta socios.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 62.
@@ -614,6 +616,8 @@ Para proceder a la constitución de una sociedad anónima, se requiere:
 
 I.- Que haya dos socios como mínimo, y que cada uno de ellos suscriba una acción por lo menos;
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 1992)</small>
 
 II.- Que el capital social no sea menor de cincuenta millones de pesos y que esté íntegramente suscrito;
@@ -632,7 +636,7 @@ La escritura constitutiva de la sociedad anónima deberá contener, además de l
 
 I.- La parte exhibida del capital social;
 
-II.- El número, valor nominal y naturaleza de la acciones en que se divide el capital social, salvo lo dispuesto en el segundo párrafo de la fracción IV del artículo 125;
+II.- El número, valor nominal y naturaleza de las acciones en que se divide el capital social, salvo lo dispuesto en el segundo párrafo de la fracción IV del artículo 125;
 
 III.- La forma y términos en que deba pagarse la parte insoluta de las acciones;
 
@@ -1756,13 +1760,9 @@ Las sociedades extranjeras legalmente constituídas tienen personalidad jurídic
 
 Las sociedades extranjeras sólo podrán ejercer el comercio desde su inscripción en el Registro.
 
-La inscripción sólo se efectuará mediante autorización de la Secretaría de la Economía Nacional, que será otorgada cuando se cumplan los siguientes requisitos:
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
-I.- Comprobar que se han constituído de acuerdo con las leyes del Estado del que sean nacionales, para lo cual se exhibirá copia auténtica del contrato social y demás documentos relativos a su constitución y un certificado de estar constituídas y autorizadas conforme a las leyes, expedido por el representante diplomático o consular que en dicho Estado tenga la República;
-
-II.- Que el contrato social y demás documentos constitutivos no sean contrarios a los preceptos de orden público establecidos por las leyes mexicanas;
-
-III.- Que se establezcan en la República o tengan en ella alguna agencia o sucursal.
+La inscripción sólo se efectuará previa autorización de la Secretaría de Comercio y Fomento Industrial, en los términos de los artículos 17 y 17 A de la Ley de Inversión Extranjera.
 
 Las sociedades extranjeras estarán obligadas a publicar anualmente un balance general de la negociación visado por un Contador Público titulado.
 
@@ -1939,3 +1939,9 @@ TERCERO.- A las sociedades de responsabilidad limitada y sociedades anónimas ex
 CUARTO.- No se requerirá autorización judicial para la inscripción de escrituras de constitución o modificación de sociedades, aún cuando hayan sido otorgadas con anterioridad a la entrada en vigor del presente decreto.
 
 QUINTO.- Los poderes ya otorgados y los que se encuentren en trámite ante notario a la entrada en vigor de este decreto, que reúnan los requisitos que establece el artículo 10°. de la ley, serán plenamente válidos.
+
+D.O.F. 24 DE DICIEMBRE DE 1996.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación...
