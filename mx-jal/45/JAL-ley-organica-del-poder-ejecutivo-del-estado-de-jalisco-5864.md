@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "2001-12-29"
+last_updated: "2004-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -885,11 +885,13 @@ XI. Coordinar, organizar y fomentar la enseñanza y la práctica de los deportes
 
 XII. Vigilar la realización de los actos cívicos escolares, de acuerdo con el calendario oficial;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
 
-XIII. Promover coordinadamente con la Secretaría de Cultura la organización y desarrollo de la educación artística que se imparte en centros de enseñanza preescolar, primaria, secundaria y normal para la difusión de las bellas artes y de las artes populares;
+XIII. Promover, en el ámbito de su competencia, los principios de equidad y no discriminación entre las personas, así como vigilar en la observancia de tales principios al interior de la Secretaría y de los planteles educativos a su cargo.
 
-XIV. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+XIV. Las demás que le sean conferidas por otras disposiciones jurídicas o mediante acuerdo del titular del Poder Ejecutivo del Estado.
 
 > <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 1992)</small>
 
@@ -963,7 +965,13 @@ XI. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
 
 XII. Coordinar con las autoridades competentes la realización de campañas para prevenir y atacar la drogadicción, el alcoholismo, tabaquismo y otros hábitos que amenacen la salud; y
 
-XIII. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+XIII. Promover, en el ámbito de su competencia, los principios de equidad y no discriminación entre las personas, en el acceso a los servicios de salud y en la prestación de los mismos, así como cuidar que tales principios sean respetados en la actuación y en las relaciones laborales de los servidores públicos de la Secretaría.
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+XIII. Las demás que emanen de las leyes, reglamentos y demás disposiciones normativas vigentes en el Estado.
 
 ###### Art. 37.
 
@@ -1255,7 +1263,9 @@ XII. Coordinar la integración y establecimiento de la Junta Local de Conciliaci
 
 XIII. Promover las actividades culturales y la recreación entre los trabajadores y sus familias;
 
-XIV. Promover entre los empleadores la no discriminación por razón de edad, a la hora de ofertar empleos, salvo por requerimiento de la idoneidad del puesto que se ofrece; y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+XIV. Promover entre los empleadores la equidad y la no discriminación tanto en la oferta de empleos como en la estabilidad, remuneración y desarrollo laboral, así como vigilar la observancia de tales principios al interior de la propia Secretaría.
 
 XV. Las demás que le señalen las leyes y reglamentos vigentes.
 
@@ -1780,3 +1790,7 @@ Séptimo.- Los asuntos que correspondan y que se estén tramitando en la Subsecr
 Octavo.- Aquellas funciones que legalmente le han sido atribuidas a la Subsecretaría de Participación Social, a partir de la entrada en vigor del presente Decreto, serán competencia de la Secretaría de Desarrollo Humano, previo acuerdo con la Secretaría General de Gobierno.
 
 Noveno.- El Ejecutivo del Estado expedirá el Reglamento Interno de la Secretaría de Desarrollo Humano en un plazo no mayor de noventa días.
+
+P.O. 5 DE JUNIO DE 2004.
+
+ÚNICO.- Las reformas y adiciones contenidas en el presente, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
