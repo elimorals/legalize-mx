@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-consejo-de-salubridad-general-22225"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-30"
-last_updated: "2001-10-30"
+last_updated: "2004-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-10-25"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE SALUBRIDAD GENERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE AGOSTO DE 2004.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 30 de octubre de 2001.
 
@@ -223,7 +223,13 @@ El Consejo contará con las siguientes comisiones:
 
 I. Comisión Interinstitucional del Cuadro Básico y Catálogo de Insumos del Sector Salud, y
 
-II. Comisión para la Certificación de Establecimientos de Servicios de Salud.
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2004)</small>
+
+II. Comisión para la Certificación de Establecimientos de Servicios de Salud, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2004)</small>
+
+III. Comisión para Definir Tratamientos y Medicamentos Asociados a Enfermedades que Ocasionan Gastos Catastróficos.
 
 ###### Artículo 14.
 
@@ -232,6 +238,12 @@ La Comisión Interinstitucional del Cuadro Básico y Catálogo de Insumos del Se
 ###### Artículo 15.
 
 Corresponderá a la Comisión para la Certificación de Establecimientos de Servicios de Salud estudiar y proponer al Consejo los criterios para la evaluación de los establecimientos de servicios de salud, así como dictaminar las evaluaciones practicadas.
+
+> <small>(ADICIONADO, D.O.F. 2 DE AGOSTO DE 2004)</small>
+
+###### Artículo 15 Bis.
+
+Corresponderá a la Comisión para Definir Tratamientos y Medicamentos Asociados a Enfermedades que Ocasionan Gastos Catastróficos, estudiar, analizar y proponer, en el marco del Sistema Nacional de Protección Social en Salud, los tratamientos y medicamentos asociados que se considerarán gastos catastróficos por implicar un alto costo en virtud de su grado de complejidad o especialidad y el nivel o frecuencia con la que ocurren, con el objeto de someterlos a la aprobación y prioridad que determine el propio Consejo.
 
 ###### Artículo 16.
 
@@ -330,3 +342,11 @@ TERCERO. La Junta Ejecutiva emitirá su reglamento interno dentro de los noventa
 CUARTO. La Comisión Interinstitucional del Cuadro Básico y Catálogo de Insumos del Sector Salud expedirá, dentro de los noventa días siguientes a la entrada en vigor de este instrumento, su nuevo Reglamento, en tanto, continuará en vigor en lo que no se oponga al presente, el Reglamento publicado en el Diario Oficial de la Federación el 28 de mayo de 1997.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinticinco días del mes de octubre de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de la Defensa Nacional, Gerardo Clemente Ricardo Vega García.- Rúbrica.- La Secretaria de Desarrollo Social, Josefina Vázquez Mota.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Víctor Lichtinger Waisman.- Rúbrica.- El Secretario de Educación Pública, Reyes Tamez Guerra.- Rúbrica.- El Secretario de Salud, Julio Frenk Mora.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 2 DE AGOSTO DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Comisión para Definir Tratamientos y Medicamentos Asociados a Enfermedades que Ocasionan Gastos Catastróficos deberá emitir su Reglamento Interior en un plazo que no excederá de noventa días siguientes a la entrada en vigor del presente Decreto.
