@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-libro-quinto-del-codigo-administrativo-del-24562
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-13"
-last_updated: "2002-03-13"
+last_updated: "2004-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24562&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL LIBRO QUINTO DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE ABRIL DE 2004.
 
 Reglamento publicado en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el miércoles 13 de marzo de 2002.
 
@@ -49,9 +49,11 @@ Las presentes disposiciones son de orden público e interés general y tienen po
 
 DE LAS COMPETENCIAS.
 
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 2.
 
-La aplicación y vigilancia del cumplimiento de las disposiciones del presente Reglamento corresponde a la Secretaría de Desarrollo Urbano y Obras Públicas y a las unidades administrativas del Ejecutivo del Estado vinculadas con la materia del desarrollo urbano, en el ámbito de sus respectivas atribuciones.
+La aplicación y vigilancia del cumplimiento de las disposiciones del presente Reglamento corresponde a la Secretaría de Desarrollo Urbano y Vivienda y a las unidades administrativas del Ejecutivo del Estado vinculadas con la materia del desarrollo urbano, en el ámbito de sus respectivas atribuciones.
 
 DE LAS DENOMINACIONES.
 
@@ -59,7 +61,9 @@ DE LAS DENOMINACIONES.
 
 Para los efectos de este Reglamento se entenderá por:
 
-I. Secretaría, a la Secretaría de Desarrollo Urbano y Obras Públicas.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+I. Secretaría, a la Secretaría de Desarrollo Urbano y Vivienda.
 
 II. Municipio, al respectivo gobierno municipal ante el que se gestione, tramite o lleve a cabo el procedimiento administrativo de que se trate.
 
@@ -80,6 +84,10 @@ IX. Predio, al terreno sin construcción.
 X. Inmueble, al terreno y construcciones en él existentes.
 
 XI. Lote, a la fracción de terreno resultante de una autorización de fusión o división del suelo.
+
+> <small>(ADICIONADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+XII. Instituto: al Instituto Mexiquense de la Vivienda Social.
 
 DE LA OBLIGACION DE OBTENER AUTORIZACIONES.
 
@@ -229,31 +237,39 @@ La Comisión a que se refiere el artículo 5.11 del Código, será presidida por
 
 I. Las direcciones generales del Registro Público de la Propiedad y de Protección Civil, de la Secretaría General de Gobierno.
 
-II. La Dirección General de Planeación e Instrumentación de Proyectos de Simplificación Administrativa, de la Secretaría de la Contraloría.
+II. (DEROGADA, G.G. 16 DE ABRIL DE 2004)
 
-III. Las direcciones generales de Administración Urbana y de Operación Urbana, de la Secretaría de Desarrollo Urbano y Obras Públicas.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+III. Las direcciones generales de Administración Urbana y de Operación Urbana, de la Secretaría de Desarrollo Urbano y Vivienda.
 
 IV. La Dirección General de Ordenamiento e Impacto Ambiental, de la Secretaría de Ecología.
 
 V. La Dirección General de Vialidad, de la Secretaría de Comunicaciones y Transportes.
 
-VI. La Dirección General de Ingresos Coordinados y Política Fiscal, de la Secretaria de Finanzas y Planeación.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
 
-VII. La Dirección General de Organización y Documentación, de la Secretaría de Administración.
+VI. La Dirección General de Ingresos Coordinados y Recaudación, de la Secretaría de Finanzas, Planeación y Administración.
+
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+VII. Dirección General de Electrificación de la Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo.
 
 VIII. Los siguientes organismos:
 
 A) Comisión del Agua del Estado de México.
 
-B) Instituto de Acción Urbana e Integración Social.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
 
-C) Comisión para la Regulación del Suelo del Estado de México.
+B) Instituto Mexiquense de la Vivienda Social.
+
+C) (DEROGADO, G.G. 16 DE ABRIL DE 2004)
 
 D) Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México.
 
 E) Instituto de Salud del Estado de México.
 
-F) Junta de Electrificación del Estado de México.
+F) (DEROGADO, G.G. 16 DE ABRIL DE 2004)
 
 Contará con la intervención de los municipios respectivos, cuando se traten asuntos de su ámbito territorial de competencia, a través de representantes de la dependencia encargada del desarrollo urbano, el organismo operador de los servicios de agua potable y drenaje y la dependencia encargada del catastro.
 
@@ -525,7 +541,9 @@ X. Referencia al acuerdo de aprobación del plan y a la fecha de su publicación
 
 XI. Referencia a los datos de su inscripción en el Registro Público de la Propiedad y en el Registro Estatal de Desarrollo Urbano.
 
-XII. Nombre y firma de los titulares de las dependencias que intervengan en la elaboración de los planes. Los planos serán suscritos por el Gobernador del Estado y los titulares de la Secretaria General de Gobierno y de la Secretaría de Desarrollo Urbano y Obras Públicas.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+XII. Nombre y firma del titular de la Secretaría de Desarrollo Urbano y Vivienda.
 
 ### CAPITULO II. DE LOS PROGRAMAS DE DESARROLLO URBANO
 
@@ -725,17 +743,25 @@ V. Se permitirá una vivienda y sus instalaciones de apoyo por cada predio local
 
 VI. Las edificaciones habitacionales existentes en estas áreas, podrán ser sólo objeto de alguna o algunas de las obras menores para las cuales no se precise licencia de construcción, de conformidad con la reglamentación municipal respectiva.
 
-DE LAS NORMAS APLICABLES EN LAS AREAS CON USOS NO URBANOS UBICADAS FUERA DE LOS LIMITES DE LOS CENTROS DE POBLACION.
+> <small>(REFORMADA SU DENOMINACION, G.G. 16 DE ABRIL DE 2004)</small>
+
+DE LAS NORMAS APLICABLES EN LAS AREAS UBICADAS FUERA DE LOS LIMITES DE LOS CENTROS DE POBLACION.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 36.
 
-Las áreas ubicadas fuera de los límites de los centros de población con usos no urbanos y que no se trate de las clasificadas como no urbanizables, observarán las normas siguientes:
+Las áreas ubicadas fuera de los límites de los centros de población, siempre y cuando no se trate de las clasificadas como no urbanizables, a que se refiere el artículo 5.31 fracción III del Código, observarán las normas siguientes:
 
-I. Se permitirá la instalación de depósitos de combustible y de industrias de alto riesgo, en los términos que indique el respectivo dictamen de impacto regional, debiéndose prever un área de amortiguamiento en la que no se permitirá ningún tipo de construcción.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+I. Sólo se permitirán instalaciones para el depósito, procesamiento y distribución de combustibles, así como industrias de alto riesgo, en los términos que indique el respectivo dictamen de impacto regional, debiéndose prever un área de amortiguamiento al interior del predio correspondiente en la que no se permitirá ningún tipo de construcción, misma que se determinará de conformidad a lo que establezcan la normatividad aplicable y los planes de desarrollo urbano.
 
 II. Se permitirá la realización de subdivisiones, siempre y cuando se demuestre fehacientemente que no se aprovecharán con fines urbanos y cuenten con frente a vías públicas o frente a accesos que den a vías públicas.
 
-III. Se podrá autorizar la ejecución de conjuntos urbanos habitacional campestres.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+III. Se podrá autorizar la ejecución de conjuntos urbanos y lotificaciones para condominios, solamente cuando se trate del tipo habitacional campestre.
 
 IV. Se permitirá la construcción de edificios e instalaciones de apoyo a la explotación agrícola, forestal, pecuaria o minera, así como los indispensables para el aprovechamiento, mantenimiento y vigilancia de parques, áreas naturales protegidas o zonas de valor histórico, artístico y cultural o recreativas, siempre y cuando por sus dimensiones y características no impacten negativamente en su área de influencia.
 
@@ -745,7 +771,17 @@ VI. Se permitirán asimismo los cementerios y crematorios.
 
 VII. Las edificaciones habitacionales existentes en estas áreas, sólo podrán ser objeto de alguna o algunas de las obras menores para las cuales no se precise licencia de construcción, de conformidad con la reglamentación municipal respectiva.
 
-VIII. Las áreas fuera de los límites de los centros de población con usos no urbanos, quedarán sujetas en general a las políticas y normas de ordenamiento ecológico que se establezcan en los planes de desarrollo urbano.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+VIII. Las áreas fuera de los límites de los centros de población, quedarán sujetas en general a las políticas y normas de ordenamiento ecológico que se establezcan en los planes de desarrollo urbano.
+
+> <small>(ADICIONADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+IX. Se permitirán igualmente instalaciones y redes de infraestructura, así como obras de equipamiento de cobertura regional.
+
+> <small>(ADICIONADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Para los efectos de este Reglamento, se entenderá como límite de centro de población, a la poligonal envolvente de las áreas urbanas y urbanizables de los centros de población de la entidad.
 
 DE LA NORMATIVIDAD APLICABLE EN CENTROS DE POBLACION SIN PLAN DE DESARROLLO URBANO.
 
@@ -759,7 +795,9 @@ DE LOS CONVENIOS URBANISTICOS.
 
 Los convenios urbanísticos se sujetarán a lo siguiente:
 
-I. Tendrán por objeto precisar las bases para la incorporación de predios ubicados en áreas urbanizables no programadas al crecimiento de un centro de población o la modificación del uso y aprovechamiento del suelo de áreas ubicadas fuera de los límites de los centros de población con usos no urbanos.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+I. Tendrán por objeto precisar las bases para la incorporación de predios ubicados en áreas urbanizables no programadas al crecimiento de un centro de población o la modificación del uso y aprovechamiento del suelo de áreas ubicadas fuera de los límites de los centros de población.
 
 II. Se celebrarán entre la Secretaría y el Municipio respectivo, con propietarios de predios.
 
@@ -789,7 +827,9 @@ DE LAS REGLAS GENERALES PARA LOS CONJUNTOS URBANOS.
 
 En los conjuntos urbanos se observará lo siguiente:
 
-I. Previo a su autorización, se deberá obtener de la Secretaría el dictamen de factibilidad en términos de lo que establece el artículo 45 de este Reglamento.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+I. Previo a su autorización, se deberá integrar en el seno de la Comisión, el expediente de autorización relativo, en términos de lo que establece el artículo 45 de este Reglamento.
 
 II. Su dimensión y densidad estarán en función de la disponibilidad de agua potable.
 
@@ -819,7 +859,7 @@ B) Popular y medio: 6 y 9 metros de frente y 90 y 120 metros cuadrados de superf
 
 C) Residencial: 9 metros de frente y 150 metros cuadrados de superficie; y residencial alto: 9 metros de frente y 250 metros cuadrados de superficie.
 
-D) Campestre: 25 metros de frente y 1500 metros cuadrados de superficie.
+D) (DEROGADO, G.G. 16 DE ABRIL DE 2004)
 
 II. Las dimensiones mínimas de los lotes resultantes, con frente a vía pública en conjuntos urbanos de otros tipos, serán para:
 
@@ -829,7 +869,9 @@ B) Conjuntos urbanos de abasto, comercio y servicios: 7 metros de frente y 60 me
 
 III. Las secciones de las vías públicas del conjunto urbano deberán cumplir los mínimos fijados en este Reglamento, salvo las vías locales de los conjuntos urbanos industriales, que deberán tener como mínimo 20 metros de sección.
 
-IV. Las áreas de donación destinadas a equipamiento urbano a favor de los municipios en los conjuntos urbanos habitacionales social progresivo, de interés social y popular, se determinará sobre la base de 18 metros cuadrados por vivienda prevista.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+IV. Las áreas de donación destinadas a equipamiento urbano en los conjuntos urbanos habitacionales social progresivo, de interés social y popular, se determinarán sobre la base de 12 metros cuadrados por vivienda prevista a favor de los municipios para equipamiento local y de 6 metros cuadrados a favor del Estado para equipamiento regional.
 
 V. Las áreas de donación destinadas a equipamiento urbano en los conjuntos urbanos habitacionales de tipo medio, se establecerá sobre la base de 15 y 5 metros cuadrados por vivienda prevista, y en los de tipo residencial o residencial alto, sobre la base de 15 y 10 metros cuadrados por vivienda prevista, en favor del municipio y del Estado para dedicarse a equipamiento local y regional, respectivamente.
 
@@ -845,6 +887,10 @@ X. Contarán con áreas vendibles destinadas al comercio de productos y servicio
 
 XI. Las instalaciones, edificaciones y todo aquel mobiliario urbano que se hubiese utilizado para la promoción y venta de un conjunto urbano, deberán dedicarse definitivamente a dicho fin.
 
+> <small>(ADICIONADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+XII. Para la ejecución de un desarrollo habitacional campestre, se deberá contar con un programa para su desarrollo sustentable aprobado por la Secretaría y la Secretaría de Ecología del Gobierno del Estado de México, así como por el municipio correspondiente, debiendo observarse las siguientes reglas: contar con una superficie mínima de 20 hectáreas por desarrollo; concentrar las viviendas previstas, con densidad de una vivienda por hectárea, siempre y cuando las áreas privativas no rebasen el 20 % del área total a desarrollar y la superficie de desplante de las construcciones no sea superior al 5% de la superficie total a desarrollar; garantizar medidas de seguridad para mantener las características naturales y prevenir incendios; prever vialidades con materiales que permitan la infiltración del agua; y contar con sistemas eficientes para la recolección de basura.
+
 DE LOS COMPRADORES DE LOTES EN BLOQUE.
 
 ###### ARTICULO 43.
@@ -859,13 +905,19 @@ DE LAS RESPONSABILIDADES EN LOS FIDEICOMISOS.
 
 Cuando se lleve a cabo un conjunto urbano con el propósito de cumplir un fideicomiso, el titular del conjunto urbano lo será el fideicomitente, quien responderá del cumplimiento de las obligaciones que se contengan en el acuerdo de autorización.
 
-### CAPITULO II. DEL DICTAMEN DEF ACTIBILIDAD
+> <small>(REFORMADA SU DENOMINACION, G.G. 16 DE ABRIL DE 2004)</small>
 
-DE LOS DOCUMENTOS QUE SE DEBERAN ACOMPAÑAR A LA SOLICITUD DEL DICTAMEN DE FACTIBILIDAD.
+### CAPITULO II. DE LA INTEGRACION DEL EXPEDIENTE PARA LA AUTORIZACION DE CONJUNTOS URBANOS
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 16 DE ABRIL DE 2004)</small>
+
+DE LOS DOCUMENTOS QUE SE DEBERAN INTEGRAR AL EXPEDIENTE DE AUTORIZACION.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 45.
 
-En la solicitud de dictamen de factibilidad se señalará el tipo y características del conjunto urbano de que se trate, acompañándose lo siguiente:
+A la solicitud de integración del expediente para la autorización de conjuntos urbanos que presentarán los interesados a la Comisión y en la que se señalará el tipo y características del conjunto urbano de que se trate, se acompañarán los siguientes documentos:
 
 I. Documento que acredite la propiedad del predio, inscrito en el Registro Público de la Propiedad.
 
@@ -873,17 +925,23 @@ II. Documento que acredite la personalidad del solicitante o acta constitutiva d
 
 III. Aerofoto o cartografía actualizada en papel fotográfico, preferentemente a escala 1:5,000, de la ubicación del predio, precisándose el entorno del mismo, con un radio de cobertura de al menos 1,000 metros. En desarrollos social progresivos promovidos por organizaciones sociales, este requisito podrá acreditarse mediante cartografía legible en papel maduro.
 
-IV. Plano topográfico con altimetría y planimetría, que contenga las medidas y superficies reales del predio.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
 
-V. Resolución de apeo y deslinde catastral o judicial inscrita en el Registro Público de la Propiedad, cuando las medidas y superficies reales del predio sean menores a las contenidas en el documento con el que se acredite la propiedad; y resolución de apeo y deslinde judicial inscrita en el Registro Público de la Propiedad, cuando las medidas y superficies reales del predio sean mayores a las contenidas en dicho documento.
+IV. Plano topográfico con altimetría y planimetría, que contenga las medidas y superficies reales del predio, firmado por perito inscrito en el Registro Estatal.
+
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+V. Resolución de apeo y deslinde catastral o judicial inscrita en el Registro Público de la Propiedad, cuando las medidas y superficies reales del predio sean menores a las contenidas en el documento con el que se acredite la propiedad; y resolución de apeo y deslinde judicial inscrita en el Registro Público de la Propiedad, cuando las medidas y superficies reales del predio sean mayores a las contenidas en dicho documento. No se exigirá este requisito cuando las medidas y superficies reales del predio coincidan con las contenidas en el documento con el que se acredite la propiedad.
 
 VI. Memoria descriptiva del anteproyecto.
 
 VII. Reporte fotográfico del predio y sus colindancias, así como en su caso los prototipos de vivienda, tratándose de conjuntos urbanos habitacionales. Este requisito no se exigirá cuando se trate de desarrollos social progresivos promovidos por organizaciones sociales.
 
-VIII. Cédula informativa de zonificación.
+VIII. (DEROGADA, G.G. 16 DE ABRIL DE 2004)
 
-Al expediente se integrarán los siguientes documentos, que se emitirán en el seno de la Comisión, de conformidad con los requisitos específicos que para cada caso establezcan las disposiciones legales correspondientes:
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Al expediente se integrarán los siguientes documentos, que se emitirán por las instancias gubernamentales participantes en la Comisión, de conformidad con los requisitos específicos que para cada caso establezcan las disposiciones legales correspondientes:
 
 A) Dictamen de existencia y dotación de agua potable para el desarrollo que se pretenda, así como de incorporación a los sistemas de agua potable y alcantarillado, en el que se definan los puntos de conexión de agua potable y los de descargas de aguas residuales, tratadas o no, según el caso.
 
@@ -897,15 +955,25 @@ E) Dictamen, en su caso, de Petróleos Mexicanos, Comisión Federal de Electrici
 
 F) Certificación de clave catastral.
 
-G) Ficha técnica del Registro Público de la Propiedad, en la que se señalen los antecedentes registrales del predio o predios.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+G) Secuencia registral que emita el Registro Público de la Propiedad.
 
 H) Constancia de capacidad de suministro de energía eléctrica.
 
+> <small>(ADICIONADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+I) Licencia de uso del suelo, así como autorización de alineamiento y número oficial, cuando aquella no lo contenga.
+
 Si el interesado hubiese optado por recabar previamente una constancia de viabilidad respecto del predio materia del conjunto urbano de que se trate, las instancias gubernamentales participantes considerarán su contenido como corresponda, en la emisión de los respectivos dictámenes de su competencia.
 
-No será necesaria la ratificación o rectificación de las autorizaciones y dictámenes emitidos por las instancias gubernamentales que intervinieron en la integración del dictamen de factibilidad, por motivo de cambios de administración de gobierno.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
 
-No procederá la emisión del dictamen de factibilidad cuando alguno de los dictámenes fuera emitido en sentido negativo.
+No será necesaria la ratificación o rectificación de las autorizaciones y dictámenes emitidos por las respectivas instancias gubernamentales para la autorización de un conjunto urbano, por motivo de cambios de administración de gobierno.
+
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+No procederá la autorización de un conjunto urbano, cuando alguno de los dictámenes fuera emitido en sentido negativo.
 
 DEL CONTENIDO DE LA MEMORIA DESCRIPTIVA DEL ANTEPROYECTO.
 
@@ -915,55 +983,45 @@ La memoria descriptiva del anteproyecto a que se refiere la fracción VI del art
 
 I. Descripción de las características físicas del predio, superficie, ubicación, accesos, colindancias y, en su caso, antecedentes de restricciones y autorizaciones de fusión o división del suelo, si los hubiera.
 
-II. Anteproyecto de lotificación, que deberá contener las dimensiones del lote pretendido, número pretendido de viviendas y su tipo, altura de edificaciones, accesos que se plantean; y, propuesta de abastecimiento de agua potable y descargas de aguas residuales y pluviales.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+II. Anteproyecto de lotificación, que deberá contener los usos del suelo y sus superficies; el dimensionamiento de lotes, según el tipo de conjunto urbano de que se trate; el número pretendido de viviendas, en caso de desarrollos habitacionales; la altura de las edificaciones; los accesos que se plantean; y la propuesta de abastecimiento y sistemas de manejo y ahorro de agua potable y descargas de aguas residuales y pluviales, así como de energía eléctrica.
 
 III. Estudio del entorno de la zona donde se pretende llevar a cabo el desarrollo, que deberá comprender un radio de cobertura de al menos 1,000 metros a partir de las colindancias del predio. Se referirá al diagnóstico de los usos del suelo, la vialidad, el equipamiento urbano, la infraestructura primaria hidráulica y sanitaria e igualmente al análisis de los impactos del desarrollo sobre todos esos elementos.
 
 IV. Cuando corresponda, el estudio relativo a los futuros desarrollos que el mismo solicitante pudiera llevar a cabo en las áreas remanentes del predio o en otros colindantes con éste.
 
-DEL PROCEDIMIENTO PARA LA EMISION DEL DICTAMEN DE FACTIBILIDAD.
+> <small>(REFORMADA SU DENOMINACION, G.G. 16 DE ABRIL DE 2004)</small>
+
+DEL PROCEDIMIENTO PARA LA INTEGRACION DEL EXPEDIENTE DE AUTORIZACION.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 47.
 
-La solicitud de dictamen de factibilidad para los conjuntos urbanos, acompañada de los documentos a que se refieren las fracciones I a VIII del artículo 45 de este Reglamento se presentará a la Secretaría, para que por conducto de la Comisión, se integre el dictamen de referencia.
+La integración del expediente de autorización para los conjuntos urbanos se llevará a cabo en el seno de la Comisión.
 
 Las instancias gubernamentales que concurran a la Comisión, emitirán las autorizaciones y dictámenes de su competencia, en el plazo de los 15 días siguientes a la sesión de la Comisión en que se presente la solicitud respectiva.
 
-La Comisión, con las autorizaciones y dictámenes que en su seno emitan las instancias gubernamentales que intervengan, integrará el expediente respectivo y lo remitirá a la Secretaría, quien en su caso, dentro de los 15 días siguientes a su recepción, emitirá el dictamen de factibilidad, el cual será entregado al solicitante.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
 
-Tratándose de conjuntos urbanos, el dictamen de factibilidad comprenderá el de impacto regional, por lo que no se requerirá gestionar y obtener este último por separado.
+Una vez integrado el expediente, la Comisión procederá a emitir el correspondiente Informe Técnico debiendo remitir oficialmente ambos a la Secretaría y comunicando de ello al interesado.
 
-DEL CONTENIDO DEL DICTAMEN DE FACTIBILIDAD.
+> <small>(DEROGADO ULTIMO PARRAFO, G.G. 16 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 48.
 
-El dictamen de factibilidad del desarrollo contendrá lo siguiente:
-
-I. Determinación de la factibilidad del desarrollo y, en su caso, el señalamiento de las limitaciones y requisitos con que en su oportunidad podrá ser autorizado.
-
-II. Referencia a los documentos legales mediante los cuales se acredite la propiedad del predio a desarrollar, así como la personalidad del solicitante. Cuando se trate de personas morales, se hará mención del acta constitutiva correspondiente.
-
-III. Referencia a las autorizaciones y dictámenes que hayan sido emitidos por las instancias gubernamentales respectivas en el seno de la Comisión, para apoyar la factibilidad del desarrollo de que se trate.
-
-IV. Uso o usos del suelo; en su caso, número máximo de viviendas o superficie máxima de construcción de otros usos; altura máxima de edificaciones; dimensiones y ubicación de las áreas de donación destinadas a equipamiento urbano; obras de urbanización y equipamiento urbano y, en su caso, de infraestructura primaria que se deban construir de acuerdo al tipo y características del desarrollo.
-
-V. Señalamiento de las obras de infraestructura primaria necesarias para conectar el desarrollo con las redes y sistemas de infraestructura urbana de los centros de población.
-
-VI. Determinación, en su caso, de la obra u obras de equipamiento urbano básico que deba el titular de la autorización ejecutar o cubrir su costo.
-
-VII. Viabilidad para que las áreas de donación y la ejecución de obras de equipamiento urbano puedan ubicarse fuera del desarrollo y sustituirse éstas últimas.
-
-VIII. Restricciones federales, estatales y municipales que, en su caso, afecten el predio.
-
-IX. Plazo de vigencia del dictamen, que será de doce meses contados a partir del día siguiente hábil a la fecha de su expedición, el cual podrá ser prorrogado por una sola vez por un plazo de seis meses, a solicitud expresa del interesado.
+(DEROGADO, G.G. 16 DE ABRIL DE 2004)
 
 ### CAPITULO III. DE LA AUTORIZACION DE LOS CONJUNTOS URBANOS
 
 DEL PROYECTO DE LOTIFICACION Y MEMORIA DESCRIPTIVA DEL CONJUNTO URBANO.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 49.
 
-Previo a la autorización del conjunto urbano, el interesado deberá obtener de la Secretaría la aprobación del respectivo proyecto de lotificación, el cual se sujetará a los términos del dictamen de factibilidad.
+Previo a la autorización del conjunto urbano, el interesado deberá obtener de la Secretaría la aprobación del respectivo proyecto de lotificación, el cual se sujetará a los términos normativos de las autorizaciones y dictámenes integrados en el expediente de autorización, así como a lo previsto por este Reglamento y los planes de desarrollo urbano aplicables.
 
 El proyecto de lotificación y memoria descriptiva del conjunto urbano, deberán contener lo siguiente:
 
@@ -1029,9 +1087,17 @@ C) Cuadro resumen de manzanas y sus lotes, en que se indique: medidas y superfic
 
 D) Estructura vial interna y ubicación de las áreas de donación destinadas a equipamiento urbano con sus poligonales, así como el equipamiento urbano e infraestructura primaria, conforme a su existencia y necesidades en la zona.
 
-E) Cuadro de porcentajes que comprenda la superficie total del predio, la útil o enajenable, la de las vías públicas y privadas, la de las áreas de donación destinadas a equipamiento urbano y la afectada por restricciones estatales y federales, en su caso.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
 
-F) Programa de obra y presupuesto desglosado a costo directo de las obras de urbanización al interior del desarrollo, así como de las obras de equipamiento y, en su caso, de infraestructura primaria que le fueron señaladas en el dictamen de factibilidad respectivo.
+E) Cuadro de porcentajes que comprenda la superficie total del predio, la útil o enajenable, la de las vías públicas y privadas, la de las áreas de donación destinadas a equipamiento urbano y la afectada por restricciones federales, estatales y municipales, en su caso.
+
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+F) Programa de obra y presupuesto desglosado a costo directo de las obras de urbanización al interior del desarrollo, así como de las obras de equipamiento y, en su caso, de infraestructura primaria previstas para el desarrollo.
+
+> <small>(ADICIONADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+La Secretaría, en el seno de la Comisión, a solicitud del interesado y sin que ello implique su aprobación, podrá iniciar la revisión del proyecto de lotificación de manera paralela a la integración del expediente de autorización, siempre y cuando se cuente con los requisitos señalados en las fracciones I, III y VI y en los incisos A), B), C), I) y en su caso E) del artículo 45 de este Reglamento.
 
 DE LOS REQUISITOS PARA LA AUTORIZACION DE CONJUNTOS URBANOS.
 
@@ -1039,9 +1105,9 @@ DE LOS REQUISITOS PARA LA AUTORIZACION DE CONJUNTOS URBANOS.
 
 A la solicitud de autorización del conjunto urbano se deberán acompañar los documentos que a continuación se indican:
 
-I. Dictamen de factibilidad, expedido por la Secretaría.
+I. (DEROGADA, G.G. 16 DE ABRIL DE 2004)
 
-II. Licencia de uso del suelo y, en su caso, la autorización de cambio de usos del suelo, de densidad o intensidad de su aprovechamiento y de la altura máxima permitida, expedidas por el municipio respectivo.
+II. (DEROGADA, G.G. 16 DE ABRIL DE 2004)
 
 III. Proyecto de lotificación del conjunto urbano aprobado por la Secretaría, así como memoria descriptiva del mismo.
 
@@ -1075,7 +1141,9 @@ V. Datos de los documentos con los que se acreditó la personalidad del solicita
 
 VI. Datos del o los documentos legales con los que se haya acreditado la propiedad del o los predios objeto del desarrollo y de los datos de su inscripción en el Registro Público de la Propiedad.
 
-VII. Referencias al dictamen de factibilidad correspondiente, así como a los dictámenes de otras dependencias y organismos federales, estatales y municipales.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+VII. Referencias a las autorizaciones, licencias y dictámenes de otras dependencias y organismos federales, estatales y municipales.
 
 VIII. Datos de la superficie del desarrollo y la de sus lotes, número de lotes y uso que se les asigna.
 
@@ -1097,7 +1165,9 @@ XVI. Señalamiento de que la autorización no habilita llevar a cabo ninguno de 
 
 XVII. Orden de publicar el acuerdo de autorización respectivo en la Gaceta del Gobierno, a costa del solicitante.
 
-XVIII. Plazo de 60 días para inscribir el acuerdo de autorización, en el Registro Público de la Propiedad, debidamente protocolizado por notario público del Estado de México.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+XVIII. Plazo de 90 días para inscribir en el Registro Público de la Propiedad, debidamente protocolizado por notario público, el acuerdo de autorización con sus planos integrantes, plazo que se contará a partir de la fecha de su publicación en la Gaceta del Gobierno.
 
 XIX. Obligación de colocar una placa metálica en un murete, que identifique la fecha de publicación en la Gaceta del Gobierno del acuerdo de autorización, así como el tipo del desarrollo.
 
@@ -1105,7 +1175,25 @@ XX. Referencia al o los planos, tablas, anexos gráficos y demás elementos de r
 
 XXI. Referencia a la supervisión de las obras de urbanización, equipamiento y, en su caso de infraestructura primaria y al pago de los derechos correspondientes.
 
-XXII. Obligación de entregar las obras de urbanización, equipamiento y, en su caso de infraestructura primaria al municipio, una vez terminadas.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+XXII. Obligación de entregar las obras de urbanización, equipamiento y, en su caso de infraestructura primaria, al municipio o al Estado según corresponda, una vez terminadas.
+
+> <small>(ADICIONADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+XXIII. Obligación de suscribir el contrato de transferencia legal de las áreas de donación a favor del Estado, en el plazo de seis meses contados a partir de la fecha de autorización del inicio de la ejecución de las obras de urbanización y de equipamiento.
+
+> <small>(ADICIONADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+XXIV. Determinación, en su caso, de la obra u obras de equipamiento urbano básico que deba ejecutar el titular de la autorización.
+
+> <small>(ADICIONADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+XXV. Señalamiento, en su caso, de las áreas de donación y la ejecución de obras de equipamiento urbano que se ubicarán fuera del desarrollo, así como de las que se sustituyen.
+
+> <small>(ADICIONADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+XXVI. Constancia de que la autorización del desarrollo comprende el dictamen de impacto regional respectivo.
 
 DE LOS EFECTOS DE LA AUTORIZACION Y DE LA SUBROGACION.
 
@@ -1119,11 +1207,21 @@ La solicitud respectiva deberá presentarse ante la Secretaría y estar firmada 
 
 DE LAS AREAS DE DONACION DESTINADAS A EQUIPAMIENTO URBANO.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 54.
 
-La localización de las áreas de donación destinadas a equipamiento urbano en los conjuntos urbanos, se fijará por la Secretaría a propuesta del desarrollador. Dichas áreas se utilizarán para el equipamiento que se establezca en este Reglamento para cada tipo de conjunto urbano o se precise en el respectivo acuerdo de autorización y en los planos relativos.
+La localización de las áreas de donación a favor del Municipio destinadas a equipamiento urbano en los conjuntos urbanos, se fijará por la Secretaría a propuesta del desarrollador. Dichas áreas se utilizarán para el equipamiento que se establezca en este Reglamento para cada tipo de conjunto urbano o se precise en el respectivo acuerdo de autorización y en los planos relativos.
 
 Para el aprovechamiento de dichas áreas con equipamientos diferentes, se requerirá la autorización de la Secretaría, siempre y cuando exista causa justificada y lo solicite el municipio correspondiente.
+
+> <small>(ADICIONADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+La Secretaría podrá determinar que la localización de las áreas de donación a favor del Estado, se ubique en cualquier parte del territorio estatal, en superficie o valor equivalente a la establecida en el acuerdo de autorización del conjunto urbano. El suelo donado será administrado por:
+
+A) La Secretaría de Finanzas, Planeación y Administración a través de su unidad administrativa de control patrimonial, o
+
+B) El Instituto.
 
 DE LAS CARACTERISTICAS GENERALES DE LAS AREAS DE DONACION DESTINADAS A EQUIPAMIENTO URBANO.
 
@@ -1145,9 +1243,15 @@ V. Todos aquellos terrenos que por sus características, configuración y condic
 
 DE LA TRANSFERENCIA DE LAS SUPERFICIES DE TERRENO PARA VIALIDADES Y AREAS DE DONACION DESTINADAS A EQUIPAMIENTO URBANO.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 56.
 
-La transferencia de las áreas de donación destinadas a equipamiento urbano y a vialidades en favor del Estado y del municipio, según corresponda, deberá formalizarse por éstos mediante contrato que celebren con el titular del desarrollo, de conformidad a las disposiciones de la legislación aplicable de la materia. Dicho contrato se suscribirá a la entrega-recepción definitiva de las obras de urbanización, equipamiento y, en su caso de infraestructura primaria, debiendo las autoridades inscribirlo en el Registro Público de la Propiedad dentro de los 30 días siguientes.
+La transferencia legal de las áreas de donación destinadas a equipamiento urbano y a vialidades, deberá formalizarse mediante contrato que celebre el titular del desarrollo con las autoridades respectivas del Estado y municipios, según corresponda, de conformidad a las disposiciones de la legislación aplicable de la materia. Tratándose de las áreas de donación de los municipios, dicho contrato se suscribirá a la entrega-recepción definitiva de las obras de urbanización, equipamiento y, en su caso de infraestructura primaria, debiendo la autoridad municipal inscribirlo en el Registro Público de la Propiedad dentro de los 30 días siguientes.
+
+> <small>(ADICIONADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+En el caso de las áreas de donación a favor del Estado, el contrato se suscribirá dentro de los seis meses siguientes a la fecha de autorización del inicio de las obras de urbanización y equipamiento del conjunto urbano, debiendo la Secretaria de Finanzas, Planeación y Administración por conducto de su unidad administrativa encargada del control patrimonial, inscribirlo en el Registro Público de la Propiedad dentro de los 30 días siguientes. Una vez hecho lo anterior, tomará posesión de las mismas.
 
 Las superficies de terreno destinadas a vías públicas pasarán a ser del dominio público del municipio desde el momento en que se celebre el acta de entrega-recepción de las obras de urbanización y equipamiento urbano y, en su caso, de infraestructura primaria, debiendo inscribirla en el Registro Público de la propiedad, dentro de los treinta días siguientes.
 
@@ -1155,13 +1259,19 @@ Las mismas formalidades se observarán, en la proporción que corresponda, para 
 
 Tratándose de áreas de donación destinadas a equipamiento urbano cuya localización se autorice fuera del desarrollo de que se trate, su transferencia al municipio podrá formalizarse antes de la entrega-recepción final de las obras de urbanización y equipamiento urbano y, en su caso, de infraestructura primaria.
 
-La transmisión de la propiedad al Estado y a los municipios de las áreas de donación destinadas a equipamiento urbano y a vialidades, se formalizarán con notarios públicos del Estado de México.
+> <small>(DEROGADO ULTIMO PARRAFO, G.G. 16 DE ABRIL DE 2004)</small>
 
 DE LA LOCALIZACION DE LAS AREAS DE DONACION DESTINADAS A EQUIPAMIENTO URBANO FUERA DEL CONJUNTO URBANO.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 57.
 
-La Secretaría, de acuerdo al dictamen de factibilidad y a solicitud expresa del municipio respectivo podrá autorizar, para mejorar la cobertura de atención de los servicios públicos, que en el conjunto urbano habitacional medio, residencial y en el de tipo industrial, hasta un 80 por ciento del área de donación destinada a equipamiento urbano del predio o hasta el 100 por ciento en caso de conjuntos urbanos residencial alto y campestre, se localice fuera del inmueble objeto del desarrollo, siempre y cuando se trate de terrenos ubicados en áreas urbanas o urbanizables programadas, con superficie equivalente a la establecida en el acuerdo de autorización del conjunto urbano y se encuentren dentro del respectivo municipio.
+La Secretaria, a solicitud expresa del municipio respectivo podrá autorizar, para mejorar la cobertura de atención de los servicios públicos, que en el conjunto urbano habitacional medio, residencial y en el de tipo industrial, hasta un 80 por ciento del área de donación que corresponda al municipio destinada a equipamiento urbano del predio, o hasta el 100 por ciento en caso de conjuntos urbanos residencial alto y campestre, se localice fuera del inmueble objeto del desarrollo, siempre y cuando se trate de terrenos ubicados en áreas urbanas o urbanizables programadas, con superficie o valor equivalente a la establecida en el acuerdo de autorización del conjunto urbano y se encuentren dentro del respectivo municipio.
+
+> <small>(ADICIONADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Tratándose de las áreas de donación a favor del Estado, se estará a lo dispuesto en el artículo 54 de este Reglamento.
 
 DE LAS OBRAS DE URBANIZACION.
 
@@ -1169,13 +1279,19 @@ DE LAS OBRAS DE URBANIZACION.
 
 Las obras de urbanización en los conjuntos urbanos, comprenderán a lo menos:
 
-I. Red de distribución de agua potable.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
 
-II Red separada de drenaje pluvial y sanitario o el sistema que en su caso sea determinado por la Comisión del Agua del Estado de México o el correspondiente organismo operador municipal, atendiendo las características del desarrollo y su entorno.
+I. Red de distribución de agua potable y los sistemas que se emplearán para el ahorro, reuso y tratamiento del agua.
+
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+II. Red separada de drenaje pluvial y sanitario y los sistemas para su manejo y tratamiento, así como para la infiltración del agua pluvial al subsuelo, que sean aprobados por la autoridad competente respectiva.
 
 III. Red de distribución de energía eléctrica.
 
-IV. Red de alumbrado público.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+IV. Red de alumbrado público, debiéndose utilizar sistemas y elementos ahorradores de energía eléctrica.
 
 V. Guarniciones y banquetas.
 
@@ -1193,6 +1309,18 @@ XI. En su caso, el proyecto de las redes de alcantarillado debe prever la planta
 
 Las obras de urbanización al interior de los conjuntos urbanos, comprenderán igualmente las instalaciones y obras de infraestructura complementarias para su operación, tales como tanque elevado de agua potable, cárcamo, pozos de absorción y demás que sean necesarias.
 
+> <small>(ADICIONADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Los proyectos de abastecimiento de agua potable, así como de suministro de energía eléctrica, deberán observar las Normas Oficiales Mexicanas (NOM) correspondientes, para garantizar el ahorro en sus consumos.
+
+> <small>(ADICIONADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+El riego de parques, jardines y en general de áreas verdes, se deberá de realizar preferentemente con agua no potable, sea que provenga de plantas de tratamiento, suministrada por los sistemas propios de cada desarrollo o de otras fuentes.
+
+> <small>(ADICIONADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Cuando derivado de los estudios de mecánica de suelos se determine que existen las condiciones para ello, se procurará la infiltración al subsuelo de los efluentes provenientes de precipitaciones pluviales.
+
 DE LAS OBRAS DE EQUIPAMIENTO URBANO.
 
 ###### ARTICULO 59.
@@ -1200,6 +1328,8 @@ DE LAS OBRAS DE EQUIPAMIENTO URBANO.
 El titular de un conjunto urbano deberá construir las siguientes obras de equipamiento en las áreas de donación destinadas para tal efecto, las que se incrementarán o disminuirán proporcionalmente, atendiendo al número de viviendas o, en su caso, a la superficie de área vendible:
 
 I. En conjuntos urbanos habitacionales social progresivos, por cada 1,000 viviendas previstas:
+
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
 
 A) Jardín de niños de 3 aulas, con una superficie mínima de terreno de 966 metros cuadrados y de 345 metros cuadrados de construcción.
 
@@ -1209,7 +1339,9 @@ C) Jardín vecinal y área deportiva de 6,000 metros cuadrados de superficie.
 
 II. En conjuntos urbanos habitacionales de tipo interés social y popular, por cada 1,000 viviendas previstas:
 
-A) Jardín de niños de 3 aulas, con una superficie mínima de terreno de 996 metros cuadrados y de 345 metros cuadrados de construcción.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+A) Jardín de niños de 3 aulas, con una superficie mínima de terreno de 966 metros cuadrados y de 345 metros cuadrados de construcción.
 
 B) Escuela primaria o secundaria de 12 aulas, con una superficie mínima de terreno de 3,480 metros cuadrados y de 1,296 metros cuadrados de construcción, conforme se determine en el acuerdo de autorización respectivo.
 
@@ -1219,9 +1351,13 @@ D) Jardín vecinal y área deportiva de 8,000 metros cuadrados de superficie.
 
 III. En conjuntos urbanos habitacionales de tipo medio, residencial, residencial alto y campestre, por cada 1,000 viviendas previstas:
 
-A) Jardín de niños de 4 aulas.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
 
-B) Escuela primaria o secundaria de 16 aulas, conforme se determine en el respectivo acuerdo de autorización del desarrollo.
+A) Jardín de niños de 4 aulas, con una superficie mínima de terreno de 1,288 metros cuadrados y de 484 metros cuadrados de construcción.
+
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+B) Escuela primaria o secundaria de 16 aulas, con una superficie mínima de terreno de 4,640 metros cuadrados y de 1,728 metros cuadrados de construcción, conforme se determine en el acuerdo de autorización del desarrollo.
 
 C) Obra de equipamiento urbano básico en 250 metros cuadrados de construcción, conforme se determine en el respectivo acuerdo de autorización.
 
@@ -1251,11 +1387,15 @@ Las obras de equipamiento del conjunto urbano mixto, serán las que conjunta y a
 
 DE LAS OBRAS DE EQUIPAMIENTO URBANO BASICO.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 60.
 
-Las obras de equipamiento urbano básico serán determinadas en el acuerdo de autorización respectivo, con base en el dictamen de factibilidad del desarrollo, a propuesta del municipio correspondiente y de acuerdo a los equipamientos necesarios en la zona de ubicación del desarrollo.
+Las obras de equipamiento urbano básico se determinarán por la Secretaría, de acuerdo a las necesidades de la respectiva zona o región.
 
-Tales obras de equipamiento urbano básico podrán consistir en los siguientes, o la combinación de más de uno, siempre y cuando se ajusten a la superficie en metros cuadrados establecida en el artículo anterior de este Reglamento:
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Tales obras de equipamiento urbano básico podrán consistir en las siguientes, o la combinación de más de una, siempre y cuando se ajusten a la superficie en metros cuadrados establecida en el artículo anterior de este Reglamento:
 
 I. Unidad Médica.
 
@@ -1289,9 +1429,11 @@ XV. Escuela especial para atípicos
 
 XVI. Otros que al efecto se determinen.
 
-Cuando el municipio tenga previsto llevar a cabo obras de equipamiento urbano básico o en su caso de equipamiento regional, con dimensiones mayores a las resultantes de aplicar las reglas establecidas en el artículo anterior, la Secretaría podrá autorizar que la obligación del titular de un conjunto urbano de ejecutar dichas obras, sea permutada por la de cubrir en efectivo el costo de las mismas a la Tesorería municipal, previa aprobación del municipio respectivo. Dicho costo será calculado de acuerdo al Tabulador de Precios Unitarios de la Secretaría. En estos casos, el municipio adquiere la obligación de aplicar tales recursos a la obra de que se trate.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
 
-La Secretaría mantendrá actualizado el tabulador de precios unitarios y lo publicará periódicamente en la Gaceta del Gobierno.
+La Secretaría podrá autorizar que la obligación del titular de un conjunto urbano de ejecutar obras de equipamiento urbano básico, sea canalizada a la construcción del equipamiento urbano regional que se tenga previsto en el municipio o, en su caso, en la zona o región donde se localice el desarrollo, en la proporción que resulte.
+
+> <small>(DEROGADO ULTIMO PARRAFO, G.G. 16 DE ABRIL DE 2004)</small>
 
 DE LAS NORMAS PARA LAS OBRAS DE EQUIPAMIENTO URBANO.
 
@@ -1301,9 +1443,13 @@ Para la ejecución de las obras de equipamiento urbano, se estará a lo siguient
 
 I. Las obras de equipamiento urbano que el titular de la respectiva autorización está obligado a efectuar por su cuenta y cargo, se sujetarán a las normas técnicas que para tal efecto emita la Secretaría y a las siguientes reglas:
 
-A) Las aulas para jardín de niños tendrán capacidad para 35 alumnos con 115 metros cuadrados edificados como mínimo y las aulas para escuelas primarias o secundarias tendrán, al menos, capacidad para 50 alumnos con 108 metros cuadrados. Estas superficies incluyen la parte proporcional que les corresponde de sus elementos accesorios, como servicios sanitarios y dirección, entre otros.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
 
-B) Cuando de aplicarse las normas previstas en este Reglamento, resulte un jardín de niños o una escuela primaria con menos de 3 y 6 aulas, respectivamente, éstas serán ejecutadas, según lo resuelva el municipio que corresponda, previa aprobación de la Secretaría, en las instalaciones educativas existentes de los desarrollos habitacionales o colonias más próximas al mismo. El área de donación destinada a equipamiento urbano del desarrollo que no fue utilizada para dichos fines, podrá ser utilizada en la construcción de la obra de equipamiento básico que determine el municipio.
+A) Las aulas para jardín de niños tendrán capacidad para 35 alumnos con 115 metros cuadrados edificados como mínimo hasta 3 aulas, 121 metros cuadrados de 4 a 6 aulas y 132 metros cuadrados de 7 a 9 aulas; por su parte, las aulas para escuelas primarias o secundarias tendrán, al menos, capacidad para 50 alumnos con 108 metros cuadrados. Estas superficies incluyen la parte proporcional que les corresponde de sus elementos accesorios, como servicios sanitarios y dirección, entre otros.
+
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+B) Cuando de aplicarse las normas previstas en este Reglamento, resulte un jardín de niños o una escuela primaria con menos de 3 y 6 aulas, respectivamente, éstas serán ejecutadas, según lo resuelva el municipio que corresponda, previa aprobación de la Secretaría, en las instalaciones educativas existentes de los desarrollos habitacionales o colonias más próximas al mismo. El área de donación destinada a equipamiento urbano del desarrollo que no fue utilizada para dichos fines, podrá ser utilizada en la construcción de la obra de equipamiento básico que determine la Secretaría.
 
 C) En la construcción de las obras de urbanización y equipamiento urbano se deberán observar las previsiones relativas a las personas con capacidades diferentes que consigna el artículo 5.64 del Código.
 
@@ -1325,7 +1471,9 @@ Intendencia (casa de conserje).
 
 Bodega.
 
-Servicios sanitarios para alumnos hombres (2 excusados, un mingitorio, 2 lavabos y una tarja) y alumnos mujeres (3 excusados, 2 lavabos y una tarja), así como para maestros mujeres (un excusado y un lavabo).
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Servicios sanitarios para alumnos hombres (2 excusados y 2 lavabos, uno de cada uno de ellos para personas con capacidades diferentes, un mingitorio y una tarja) y alumnos mujeres (3 excusados y 2 lavabos, uno de cada uno de ellos para personas con capacidades diferentes y una tarja), así como para maestros mujeres (un excusado y un lavabo).
 
 Pórtico.
 
@@ -1343,15 +1491,29 @@ Arenero, chapoteadero y lavaderos.
 
 Mobiliario urbano: bancas, botes de basura, arbotantes y señalamientos.
 
-Cisterna (con capacidad de un metro cúbico por aula), solo en caso de no contar con tanque de regulación al interior del desarrollo.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
 
-De 4 a 6 aulas didácticas, añadir:
+Cisterna (con capacidad de un metro cúbico por aula).
 
-Servicios sanitarios para alumnos hombres (4 excusados, 2 mingitorios, 3 lavabos y una tarja) y alumnos mujeres (6 excusados, 3 lavabos y una tarja), así como para maestros mujeres (un excusado y un lavabo).
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
 
-De 7 a 9 aulas didácticas, añadir:
+De 4 a 6 aulas didácticas, sustituir:
 
-Servicios sanitarios para alumnos hombres (6 excusados, 3 mingitorios, 4 lavabos y una tarja) y alumnos mujeres (9 excusados, 4 lavabos y una tarja), así como para maestros mujeres (un excusado y un lavabo).
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Servicios sanitarios para alumnos hombres (6 excusados y 4 lavabos uno de cada uno de ellos para personas con capacidades diferentes, 3 mingitorios y una tarja) y alumnos mujeres (9 excusados y 4 lavabos, uno de cada uno de ellos para personas con capacidades diferentes y una tarja), así como para maestros mujeres (un excusado y un lavabo).
+
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+De 7 a 9 aulas didácticas, sustituir:
+
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Servicios sanitarios para alumnos hombres (6 excusados y 4 lavabos, uno de cada uno de ellos para personas con capacidades diferentes, 3 mingitorios y una tarja) y alumnos mujeres (9 excusados y 4 lavabos, uno de cada uno de ellos para personas con capacidades diferentes y una tarja) así como para maestros mujeres (un excusado y un lavabo).
+
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Y añadir:
 
 Salón de usos múltiples (equivalente a 2 aulas didácticas).
 
@@ -1367,7 +1529,9 @@ Intendencia (casa de conserje).
 
 Bodega.
 
-Servicios sanitarios para alumnos hombres (4 excusados, 2 mingitorios, 3 lavabos y una tarja) y alumnos mujeres (6 excusados, 3 lavabos y una tarja), así como para maestros hombres (un excusado y un lavabo) y maestros mujeres (un excusado y un lavabo).
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Servicios sanitarios para alumnos hombres (4 excusados y 3 lavabos, uno de cada uno de ellos para personas con capacidades diferentes, 2 mingitorios y una tarja) y alumnos mujeres (6 excusados y 3 lavabos, uno de cada uno de ellos para personas con capacidades diferentes y una tarja), así como para maestros hombres (un excusado y un lavabo) y maestros mujeres (un excusado y un lavabo).
 
 Pórtico.
 
@@ -1379,21 +1543,39 @@ Estacionamiento con cajones de 2.40 por 5.00 metros cada uno (un cajón por aula
 
 Áreas verdes (3 árboles por aula), así como barreras de plantas y arbustos.
 
-Multicancha de 22.00 por 30.00 metros como mínimo (podrá localizarse en área de plaza cívica).
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Cancha de 28.70 por 15.30 metros como mínimo (podrá localizarse en el área de plaza cívica).
 
 Mobiliario urbano: bancas, botes de basura, arbotantes y señalamientos.
 
-Cisterna (con capacidad de un metro cúbico por aula), solo en caso de no contar con tanque de regulación al interior del desarrollo.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
 
-De 8 a 12 aulas didácticas, añadir:
+Cisterna (con capacidad de un metro cúbico por aula).
 
-Servicios sanitarios para alumnos hombres (8 excusados, 4 mingitorios, 6 lavabos y una tarja) y alumnos mujeres (12 excusados, 6 lavabos y una tarja), así como para maestros hombres (un excusado y un lavabo) y maestros mujeres (un excusado y un lavabo).
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
 
-Multicancha de 22.00 por 30.00 metros como mínimo (independiente de plaza cívica).
+De 8 a 12 aulas didácticas, sustituir:
 
-De 14 a 18 aulas didácticas, añadir:
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
 
-Dos núcleos de servicios sanitarios para alumnos hombres (12 excusados, 6 mingitorios, 9 lavabos y una tarja) y alumnos mujeres (18 excusados, 9 lavabos y una tarja), así como para maestros hombres (un excusado y un lavabo) y maestros mujeres (un excusado y un lavabo).
+Dos núcleos de servicios sanitarios para alumnos hombres (4 excusados y 3 lavabos, uno de cada uno de ellos para personas con capacidades diferentes, 2 mingitorios y una tarja por cada núcleo) y para alumnos mujeres (6 excusados y 3 lavabos, uno de cada uno de ellos para personas con capacidades diferentes y una tarja por cada núcleo), así como para maestros hombres (un excusado y un lavabo por cada núcleo) y maestros mujeres (un excusado y un lavabo por cada núcleo).
+
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Dos canchas de 28.70 por 15.30 metros como mínimo cada una (podrán localizarse en área de plaza cívica).
+
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+De 14 a 18 aulas didácticas, sustituir:
+
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Tres núcleos de servicios sanitarios para alumnos hombres (4 excusados y 3 lavabos, uno de cada uno de ellos para personas con capacidades diferentes, 2 mingitorios y una tarja por cada núcleo) y para alumnos mujeres (6 excusados y 3 lavabos, uno de cada uno de ellos para personas con capacidades diferentes y una tarja por cada núcleo), así como para maestros hombres (un excusado y un lavabo por cada núcleo) y maestros mujeres (un excusado y un lavabo por cada núcleo), así como dos multicanchas de 22.00 por 30.00 metros como mínimo (podrán localizarse en área de plaza cívica).
+
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Y añadir:
 
 Servicio medico.
 
@@ -1473,11 +1655,17 @@ Mobiliario urbano: bancas, botes de basura, arbotantes y señalamientos.
 
 III. Los programas arquitectónicos de las obras de equipamiento urbano en desarrollos industriales o agroindustriales, considerarán según corresponda lo siguiente:
 
-A) Zona Deportiva: (Paquete básico funcional: 6,000 metros cuadrados)
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
 
-Una cancha de balompié con medidas de 90.00 por 50.00 metros.
+A) Zona Deportiva:
 
-Una multicancha de 22.00 por 30.00 metros.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Una cancha de balompié con medidas de 90.00 por 50.00 metros, por cada 20 hectáreas de la superficie total.
+
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Una multicancha de 22.00 por 30.00 metros, por cada 10 hectáreas de la superficie vendible.
 
 Áreas verdes (un árbol por cada 50 metros cuadrados de terreno), así como barreras de plantas y arbustos.
 
@@ -1519,7 +1707,9 @@ Estacionamiento con cajones de 2.40 por 5.00 metros cada uno (un cajón por cada
 
 Mobiliario urbano: bancas, botes de basura, arbotantes y señalamientos.
 
-Cisterna (con capacidad de 15 litros por infante), solo en caso de no contar con tanque de regulación al interior del desarrollo.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Cisterna (con capacidad de 15 litros por infante).
 
 C) Centro de Capacitación para el Trabajo (Paquete básico funcional: 400 metros cuadrados de construcción):
 
@@ -1539,7 +1729,9 @@ Estacionamiento con cajones de 2.40 por 5.00 metros cada uno (3 cajones por tall
 
 Mobiliario urbano: bancas, botes de basura, arbotantes y señalamientos.
 
-Cisterna (con capacidad de un metro cúbico por taller), solo en caso de no contar con tanque de regulación al interior del desarrollo.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Cisterna (con capacidad de un metro cúbico por taller).
 
 IV. Los programas arquitectónicos de las obras de equipamiento urbano en desarrollos de abasto, comercio y servicios, considerarán según corresponda lo siguiente:
 
@@ -1561,7 +1753,9 @@ Salón de usos múltiples.
 
 Lavandería.
 
-Servicios sanitarios (hombres y mujeres, con un excusado y un lavabo, cada uno).
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Servicios sanitarios para hombres y mujeres (con dos excusados, uno de ellos para personas con capacidades diferentes y un lavabo, cada uno).
 
 Cocina comedor.
 
@@ -1577,7 +1771,9 @@ Estacionamiento con cajones de 2.40 por 5.00 metros cada uno (un cajón por cada
 
 Mobiliario urbano: bancas, botes de basura, arbotantes y señalamientos.
 
-Cisterna (con capacidad de 15 litros por infante), solo en caso de no contar con tanque de regulación al interior del desarrollo.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Cisterna (con capacidad de 15 litros por infante).
 
 B) Centro de Servicios Administrativos (Paquete básico funcional: 50 metros cuadrados construidos):
 
@@ -1589,13 +1785,21 @@ B) Centro de Servicios Administrativos (Paquete básico funcional: 50 metros cua
 
 Vestíbulo y área de espera.
 
-Servicios sanitarios (hombres y mujeres, con un excusado y un lavabo cada uno).
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Servicios sanitarios para hombres y mujeres (con dos excusados, uno de ellos para personas con capacidades diferentes y un lavabo, cada uno).
 
 Estacionamiento con cajones de 2.40 por 5.00 metros cada uno (un cajón por oficina).
 
 Áreas verdes (un árbol por cada 50 metros cuadrados de terreno), así como barreras de plantas y arbustos.
 
-Cisterna (con capacidad de un metro cúbico por oficina), solo en caso de no contar con tanque de regulación al interior del desarrollo.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Cisterna (con capacidad de un metro cúbico por oficina).
+
+> <small>(ADICIONADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+V. Tratándose de las obras de equipamiento urbano básico señaladas en el artículo anterior de este Reglamento, los programas arquitectónicos correspondientes serán en cada caso determinados por la Secretaría.
 
 DE LA OCUPACION DEL EQUIPAMIENTO URBANO.
 
@@ -1615,11 +1819,15 @@ El equipamiento educativo en conjuntos urbanos habitacionales, a excepción del 
 
 DE LA SUSTITUCION DE LAS OBRAS DE EQUIPAMIENTO.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 64.
 
-Cuando en la zona circunvecina al predio por desarrollar exista suficiente equipamiento de alguna o algunas de las obras de equipamiento señaladas en este Reglamento, podrá autorizarse la sustitución de hasta un 50 por ciento de ellas, conforme a lo siguiente.
+Cuando en la zona circunvecina al predio por desarrollar exista suficiente equipamiento de alguna o algunas de las obras de equipamiento señaladas en este Reglamento, la Secretaría podrá autorizar su sustitución conforme a lo siguiente.
 
-I. La Secretaría, con base en el dictamen de factibilidad del desarrollo y a solicitud del municipio de que se trate o, en su caso, a petición del promotor del desarrollo con la aprobación del municipio, determinará la obra o las obras de equipamiento urbano que puedan sustituirse, siempre y cuando: sea de mayor beneficio para el desarrollo y su zona de influencia; tenga un costo equivalente a la que vaya a reemplazar; no se demerite la prestación de los servicios correspondientes, en particular los educativos; y se ubique dentro del respectivo municipio.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+I. La Secretaría, a solicitud del municipio de que se trate o, en su caso, a petición del promotor del desarrollo con la aprobación del municipio, determinará la obra o las obras de equipamiento urbano que puedan sustituirse, siempre y cuando: se justifique que sea de mayor beneficio para el desarrollo y su zona de influencia; tenga un costo equivalente a la que vaya a reemplazar; no se demerite la prestación de los servicios correspondientes, en particular los educativos; y se ubique dentro del respectivo municipio.
 
 II. Cuando la obra de equipamiento tuviere un costo mayor a la que reemplazaría, podrá llevarse a cabo si el municipio, los vecinos o un tercero cubren la diferencia de costos, situación que en su caso deberá formalizarse debidamente.
 
@@ -1627,9 +1835,11 @@ III. En su caso, en el acuerdo de autorización del desarrollo se deberá justif
 
 DE LA EJECUCION DE OBRAS DE EQUIPAMIENTO FUERA DE LOS DESARROLLOS.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 65.
 
-Tratándose de conjuntos urbanos del tipo habitacional medio, residencial o industrial, la Secretaría, con base en el dictamen de factibilidad del desarrollo y a solicitud del municipio respectivo, podrá autorizar que hasta un 80 por ciento del equipamiento correspondiente se construya en sitios fuera del desarrollo, preferentemente dentro del radio de influencia del desarrollo pero dentro del municipio. En el caso de los conjuntos urbanos residencial alto y campestre, se podrá autorizar hasta el 100 por ciento del equipamiento respectivo.
+Tratándose de conjuntos urbanos del tipo habitacional medio, residencial o industrial, la Secretaría, a solicitud del municipio respectivo, podrá autorizar que hasta un 80 por ciento del equipamiento correspondiente se construya en sitios fuera del desarrollo, preferentemente dentro del radio de influencia del desarrollo pero dentro del municipio. En el caso de los conjuntos urbanos residencial alto y campestre, se podrá autorizar hasta el 100 por ciento del equipamiento respectivo.
 
 La construcción de las obras de equipamiento urbano que se autoricen fuera del desarrollo de que se trate, no deberá exceder el plazo fijado en el acuerdo de autorización respectivo.
 
@@ -1655,7 +1865,9 @@ VI. Proyecto de contenido de la publicidad en prensa, radio, televisión o cualq
 
 Las obras podrán hacerse en su totalidad o por etapas, dependiendo del tamaño y características del conjunto urbano, debiendo el acuerdo de autorización correspondiente consignar en su caso los términos respectivos.
 
-La enajenación de lotes se autorizará por etapas, en porcentajes del 25 por ciento cada una, conforme el avance en la ejecución de las obras de urbanización, equipamiento y, en su caso de infraestructura primaria del desarrollo.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+La enajenación de lotes, tratándose de desarrolles industriales, de abasto, comercio y servicios, o de viviendas, en los casos de desarrollos habitacionales, se autorizará por etapas, en porcentajes del 25 por ciento cada una, conforme el avance en la ejecución de las obras de urbanización, equipamiento y, en su caso, de infraestructura primaria del desarrollo.
 
 Presentada la documentación, la Secretaría emitirá la autorización respectiva dentro de los 15 días siguientes y procederá a abrir la bitácora de supervisión correspondiente, debiendo notificar de tales actos al municipio y a las instancias gubernamentales que intervinieron en la integración del expediente y en la aprobación de los proyectos de obras del desarrollo.
 
@@ -1669,7 +1881,9 @@ I. Mención de las obras de urbanización y equipamiento que se autoriza ejecuta
 
 II. Fecha de vencimiento del plazo para la realización de las obras.
 
-III. Determinación de que se autoriza la primera etapa de venta de lotes o viviendas en un 25 por ciento del total de los mismos y especificación de aquellos cuya enajenación se autoriza, la cual será protocolizada por notarios públicos del Estado de México.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+III. Determinación de que se autoriza la primera etapa de venta de lotes o viviendas en un 25 por ciento del total de los mismos y especificación de aquellos cuya enajenación se autoriza, la cual será protocolizada por notario público.
 
 IV. Los contenidos de la promoción y la publicidad que se autoriza.
 
@@ -1707,7 +1921,9 @@ El titular de la autorización de un conjunto urbano está obligado a garantizar
 
 I. Para garantizar la construcción de las obras, otorgará a favor del Estado la correspondiente fianza o garantía hipotecaria o ambas, por un monto del cien por ciento del valor de las obras por realizar, ya sea por la totalidad del conjunto urbano o por la etapa o etapas del desarrollo cuya ejecución se autorice.
 
-II. Para garantizar por un período de dos años, contados a partir de la fecha del acta de entrega total y definitiva de las obras, que éstas hayan sido ejecutadas sin defectos ni vicios ocultos, la fianza o garantía hipotecaria o ambas se constituirán en favor del municipio, por un monto equivalente al veinte por ciento del valor que tengan las obras a la fecha de su recepción. Si las obras a reparar excedieran el monto garantizado, el titular del conjunto urbano cubrirá la diferencia.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+II. Para garantizar por un período de dos años, contados a partir de la fecha del acta de entrega total y definitiva de las obras, que éstas hayan sido ejecutadas sin defectos ni vicios ocultos, la fianza o garantía hipotecaria o ambas se constituirán en favor del municipio, o del Estado según corresponda, por un monto equivalente al veinte por ciento del valor que tengan las obras a la fecha de su recepción.
 
 III. Tratándose de garantías hipotecarias, los predios o inmuebles deberán ubicarse en el desarrollo respectivo o, en el caso de la fracción que antecede, podrán ubicarse fuera del desarrollo pero dentro del territorio del Estado, de preferencia dentro del propio municipio. El valor de los predios o inmuebles no podrá ser inferior al monto a garantizar, el cual se determinará mediante avalúo, con cargo al titular del desarrollo, emitido preferentemente por el Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México.
 
@@ -1729,9 +1945,9 @@ DE LA AUTORIZACION PARA FIDEICOMITIR, GRAVAR O AFECTAR PARA SI LOTES.
 
 La autorización para fideicomitir, gravar o afectar para sí en alguna forma los lotes vendibles de un conjunto urbano, se otorgará una vez que se hayan inscrito en el Registro Público de la Propiedad el acuerdo de autorización y sus planos respectivos, así como garantizado las obras de urbanización, equipamiento urbano y, en su caso, de infraestructura primaria.
 
-> <small>(F. DE E., G.G. 8 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
 
-La Secretaría, en su caso, emitirá la autorización dentro de los 10 días siguientes a la presentación de la solicitud. Dicha autorización se protocolizará por notarios públicos del Estado de México.
+La Secretaría, en su caso, emitirá la autorización dentro de los 10 días siguientes a la presentación de la solicitud. Dicha autorización se protocolizará por notario público.
 
 La autorización se podrá integrar a la del inicio de ejecución de obras, enajenación de lotes y promoción del desarrollo.
 
@@ -1759,9 +1975,11 @@ Si el titular de la autorización del conjunto urbano no realiza las obras de ur
 
 DE LA REPARACION DE DESPERFECTOS O VICIOS OCULTOS CON CARGO A LA GARANTIA CONSTITUIDA.
 
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 75.
 
-La autoridad municipal resolverá lo conducente para hacer efectivas las garantías otorgadas por defectos o vicios ocultos.
+La autoridad municipal o la Secretaría en su caso, resolverá lo conducente para hacer efectivas las garantías otorgadas por defectos o vicios ocultos, respecto de las obras a su cargo.
 
 ### CAPITULO VI. DE LA EXTINCION POR RENUNCIA DE LA AUTORIZACION DE UN CONJUNTO URBANO Y DE LA SUBROGACION
 
@@ -1811,9 +2029,13 @@ III. La persona a quien se subroguen los derechos y obligaciones, deberá manife
 
 IV. Para que proceda la subrogación será necesario que los derechos de propiedad del predio objeto de la solicitud y los derechos y obligaciones derivados del acuerdo de autorización respectivo, queden a favor del subrogatario.
 
-V. El acuerdo de la Secretaría que autorice la subrogación total o parcial de un conjunto urbano, se notificará al interesado; surtirá sus efectos al día siguiente de su publicación en la Gaceta del Gobierno, y se inscribirá en el Registro Público de la Propiedad. La publicación e inscripción correspondientes, serán a cargo del subrogatario.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
 
-VI. La escritura pública en que se formalice la transferencia de propiedad del inmueble objeto del desarrollo, deberá contener los datos de la autorización respectiva y ser protocolizada por notario público.
+V. El acuerdo de la Secretaría que autorice la subrogación total o parcial de un conjunto urbano, se notificará al interesado, surtirá sus efectos al día siguiente de su publicación en la Gaceta del Gobierno, y se inscribirá en el Registro Público de la Propiedad en el transcurso de los siguientes 60 días a su publicación. La publicación e inscripción correspondientes, serán a cargo del subrogatario.
+
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+VI. La escritura pública en que se formalice la subrogación, deberá contener los datos de la autorización respectiva y ser protocolizada por notario público.
 
 ### CAPITULO VII. DE LA RELOTIFICACION
 
@@ -1823,7 +2045,9 @@ DE LA RELOTIFICACION EN CONJUNTOS URBANOS.
 
 Las relotificaciones por modificación del trazo de las vías públicas o de las dimensiones de los lotes o de localización de las áreas de donación destinadas a equipamiento urbano en un conjunto urbano autorizado, se sujetarán a las normas siguientes:
 
-I. Se podrán llevar a cabo cuando no se haya emitido autorización de enajenación o venta de lotes en la parte o sección del desarrollo que se pretenda relotificar, aun cuando se hayan ejecutado las obras de urbanización y equipamiento urbano y, en su caso, de infraestructura primaria, siempre que no se hayan entregado al respectivo municipio.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+I. Se podrán llevar a cabo cuando no se haya efectuado enajenación o venta de lotes o viviendas en la parte o sección del desarrollo que se pretenda relotificar, aun cuando se hayan ejecutado las obras de urbanización y equipamiento urbano y, en su caso, de infraestructura primaria, siempre que no se hayan entregado al respectivo municipio.
 
 II. No podrán disminuirse las áreas de donación destinadas a equipamiento urbano ni las obras de equipamiento urbano, así como tampoco incrementarse la superficie enajenable o vendible o el número de viviendas fijadas en el acuerdo de autorización respectivo.
 
@@ -1839,7 +2063,9 @@ I. A la solicitud se deberá acompañar plano de la relotificación proyectada y
 
 II. Cuando ya se hubieren ejecutado obras de urbanización y no hayan sido entregadas al municipio, la relotificación podrá solicitarse:
 
-A) Respecto de los lotes que no hayan sido objeto de autorización para celebrar actos, convenios o contratos traslativos de dominio o promesa de los mismos.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+A) Respecto de los lotes que no hayan sido objeto de actos, convenios o contratos traslativos de dominio.
 
 B) Respecto de los lotes que presenten gravamen, siempre y cuando se cuente con la anuencia por escrito del acreedor.
 
@@ -1907,9 +2133,11 @@ DE LOS DOCUMENTOS PARA LA AUTORIZACION.
 
 Los documentos que deberán acompañarse a la solicitud de autorización de un conjunto urbano habitacional social progresivo, serán los siguientes:
 
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
 I. Acta constitutiva inscrita en el Registro Público de la Propiedad y poder otorgado a su representante legal, tratándose de organizaciones sociales.
 
-II. Dictamen de factibilidad expedido por la Secretaría.
+II. (DEROGADA, G.G. 16 DE ABRIL DE 2004)
 
 III. Proyecto de lotificación del conjunto urbano aprobado por la Secretaría.
 
@@ -1919,11 +2147,17 @@ V. Comprobante emitido por institución financiera de que la organización socia
 
 VI. Certificación de libertad o inexistencia de gravámenes; en su caso, anuencia del acreedor, quien deberá acreditar su personalidad.
 
+> <small>(ADICIONADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Los documentos a que se refiere este artículo, se acompañarán de los relativos que prevé el artículo 45 de este Reglamento, integrados al respectivo expediente en el seno de la Comisión.
+
 DE LA PROMOCION PARA LA EJECUCION DE CONJUNTOS URBANOS HABITACIONALES SOCIAL PROGRESIVOS.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 86.
 
-El Estado impulsará la celebración con otras instancias gubernamentales y personas físicas y morales en general, acuerdos de coordinación, convenios de concertación, contratos y demás actos que sean necesarios o convenientes para la mejor realización de los conjuntos urbanos habitacionales social progresivos.
+El Estado, tratándose de los conjuntos urbanos habitacionales social progresivos bajo la modalidad de lotes con servicios y lotes con pie de casa, podrá impulsar la celebración con otras instancias gubernamentales y personas físicas y morales en general, acuerdos de coordinación, convenios de concertación, contratos y demás actos que sean necesarios o convenientes para la mejor realización de dichos conjuntos urbanos.
 
 Tales actos se referirán a la disponibilidad, transferencia, destino o adquisición de predios o inmuebles; construcción de obras de urbanización y equipamiento urbano y, en su caso, de infraestructura primaria; edificación de viviendas; instalación de parques de materiales para la construcción; financiamiento y demás aspectos relacionados con la ejecución del conjunto urbano.
 
@@ -1949,25 +2183,37 @@ C) Construcción a nivel de sub base de las vías públicas, que permitan el tr�
 
 D) Suministro de agua, sea por hidrantes públicos o sistemas similares.
 
-E) Red separada de drenaje pluvial y sanitario, o el sistema que en su caso sea determinado por la Comisión de Agua del Estado de México, o el correspondiente organismo operador municipal, atendiendo las características del desarrollo y su entorno.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+E) Red separada de drenaje pluvial y sanitario y los sistemas para su manejo y tratamiento, así como para la infiltración del agua pluvial al subsuelo.
 
 F) Red primaria y acometida de energía eléctrica.
 
 G) Las siguientes obras de equipamiento por cada mil viviendas previstas:
 
-a) Jardín de niños de 3 aulas, con una superficie mínima de terreno de 996 metros cuadrados y de 345 metros cuadrados de construcción.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+a) Jardín de niños de 3 aulas, con una superficie mínima de terreno de 966 metros cuadrados y de 345 metros cuadrados de construcción.
 
 b) Escuela primaria de 12 aulas, con una superficie mínima de terreno de 3,480 metros cuadrados y de 1,296 metros cuadrados de construcción.
 
 V. Cuando el desarrollo sea realizado por personas distintas a las organizaciones sociales, las obras de urbanización y de equipamiento para la ocupación del conjunto urbano, serán:
 
-A) Pavimentación en arroyo de calles primarias y secundarias o colectoras y construcción a nivel de sub base del resto de las vías públicas.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
 
-B) Guarniciones.
+A) Pavimentación en arroyo de calles.
 
-C) Red de distribución de agua potable.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
 
-D) Red separada de drenaje pluvial y sanitario, o el sistema que en su caso sea determinado por la Comisión de Agua del Estado de México, o el correspondiente organismo operador municipal, atendiendo las características del desarrollo y su entorno.
+B) Guarniciones y banquetas.
+
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+C) Red de distribución de agua potable y los sistemas que se emplearán para el ahorro, reuso y tratamiento del agua.
+
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+D) Red separada de drenaje pluvial y sanitario y los sistemas para su manejo y tratamiento, así como para la infiltración del agua pluvial al subsuelo.
 
 E) Red primaria y acometida de energía eléctrica.
 
@@ -1997,15 +2243,73 @@ El titular de un conjunto urbano social progresivo, está obligado a cumplir los
 
 A quien habiendo obtenido la autorización para llevar a cabo un conjunto urbano habitacional social progresivo, promocione, ofrezca en venta o enajene las viviendas o lotes resultantes como si fuesen de interés social, popular, medio o residencial, se le aplicarán las sanciones conducentes, independientemente de que estará obligado a obtener la autorización respectiva y a realizar las obras de urbanización y equipamiento urbano y, en su caso, de infraestructura primaria, así como a cubrir el pago de los derechos e impuestos que correspondan a la modalidad de conjunto urbano habitacional en que se encuadre.
 
-### CAPITULO I. DE LA SUBDIVISION
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 16 DE ABRIL DE 2004)</small>
 
-DE LA DEFINICION DE SUBDIVISION.
+### CAPITULO IX. DE LOS LOTES CON SERVICIOS Y DE LOS LOTES CON PIE DE CASA
+
+> <small>(ADICIONADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+DE LA DEFINICION.
+
+ARTICULO 89 A.- Se entiende por lotes con servicios y lotes con pie de casa, a la modalidad de los conjuntos urbanos habitacionales social progresivos que se realicen bajo programas gubernamentales, para atender las necesidades de suelo y vivienda de la población con menores recursos.
+
+> <small>(ADICIONADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+DE LAS CARACTERISTICAS PARTICULARES.
+
+ARTICULO 89 B.- Los desarrollos de lotes con servicios o de lotes con pie de casa, observarán lo siguiente:
+
+I. Sólo podrán realizarse mediante programas que lleve a cabo o auspicie la Secretaria o el Instituto.
+
+II. Las empresas del sector privado interesadas en realizar este tipo de desarrollos, deberán suscribir convenio con la Secretaría o el Instituto, en el que se fijarán las bases correspondientes para su ejecución y enajenación.
+
+III. Se llevarán a cabo en desarrollos no mayores a 4,000 lotes.
+
+> <small>(ADICIONADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+DE LAS NORMAS TECNICAS ESPECIALES A APLICARSE.
+
+ARTICULO 89 C.- A los desarrollos de lotes con servicios o lotes con pie de casa, se les aplicarán las siguientes normas técnicas especiales:
+
+I. Las dimensiones mínimas de los lotes con servicios resultantes, con frente a vía pública, serán: 4.00 metros de frente y 60 metros cuadrados de superficie.
+
+II. Las dimensiones mínimas de los lotes con pie de casa resultantes, con frente a vía pública, serán: 3.00 metros de frente y 60 metros cuadrados de superficie, y 30 metros cuadrados de construcción.
+
+III. Las secciones de las vías públicas deberán cumplir los mínimos fijados en este Reglamento.
+
+IV. Las áreas de donación destinadas a equipamiento urbano se determinarán sobre la base de 10 metros cuadrados por vivienda prevista.
+
+V. Cantarán con áreas vendibles, destinadas al comercio de productos y servicios básicos, en al menos 0.50 metros cuadrados por lote autorizado.
+
+VI. Las obras de urbanización serán las señaladas en el artículo 87 fracción V de este Reglamento.
+
+VII. Los titulares del desarrollo, por cada mil viviendas previstas construirán las siguientes obras de equipamiento en las áreas de donación destinadas para tal efecto, las que se incrementarán o disminuirán proporcionalmente atendiendo al número de viviendas:
+
+A) Jardín de niños de tres aulas, con una superficie mínima de terreno de 966 metros cuadrados y de 345 metros cuadrados de construcción.
+
+B) Escuela primaria o secundaria de 6 aulas, con una superficie mínima de terreno de 1,740 metros cuadrados y de 688 metros cuadrados de construcción.
+
+> <small>(ADICIONADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+DE LOS DOCUMENTOS Y DEL PROCEDIMIENTO PARA LA AUTORIZACION.
+
+ARTICULO 89 D.- El solicitante de un conjunto urbano habitacional social progresivo, bajo la modalidad de lotes con servicios y lotes con pie de casa, podrá iniciar la elaboración del proyecto de lotificación respectivo, una vez obtenida la Constancia de Viabilidad respecto del predio a desarrollar.
+
+Para los efectos de este capítulo, la Constancia de Viabilidad se emitirá por la Comisión, con la presentación de los siguientes requisitos:
+
+A) Memoria descriptiva con croquis de localización y señalamiento del número de lotes pretendidos.
+
+B) Documento con el que se acredite la propiedad del predio y la personalidad del promovente.
+
+La Comisión emitirá la Constancia de Viabilidad respectiva dentro de los 15 días de recibida la solicitud correspondiente y contendrá la opinión técnica favorable de las dependencias y organismos participantes en las materias de usos del suelo, de infraestructura hidráulica y sanitaria, de vialidad, de protección civil, ecología y energía eléctrica.
+
+Con la Constancia de Viabilidad, el proyecto de lotificación y los documentos complementarios referidos en el artículo 85 de este Reglamento, la Secretaría emitirá la autorización del conjunto urbano en el término de los 10 días siguientes a su presentación.
 
 ## TITULO QUINTO. DE LOS DEMAS ACTOS DE DIVISION DEL SUELO Y DE LA FUSION
 
-### CAPITULO II. DE LA FUSION
+### CAPITULO I. DE LA SUBDIVISION
 
-DE LOS DOCUMENTOS QUE DEBEN ACOMPAÑARSE A LA SOLICITUD.
+DE LA DEFINICION DE SUBDIVISION.
 
 ###### ARTICULO 90.
 
@@ -2019,9 +2323,11 @@ Se requerirá la autorización de la Secretaría para llevar a cabo la subdivisi
 
 DE LOS SERVICIOS PUBLICOS MUNICIPALES MINIMOS QUE DEBERAN REUNIR LAS VIAS PUBLICAS PARA LA SUBDIVISION DE PREDIOS.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 92.
 
-Para que proceda autorizar una subdivisión la o las vías públicas que queden frente al predio que se pretenda subdividir, deberá contar con los servicios públicos municipales de suministro de agua potable y drenaje.
+Para que proceda autorizar una subdivisión, los lotes resultantes deberán tener frente a vía pública existente que cuente con los servicios públicos municipales de suministro de agua potable y drenaje, sea que los preste la autoridad municipal o los organismos competentes.
 
 En caso de que la vía pública no cuente con estos servicios, el interesado estará obligado a realizar las obras necesarias para la prestación de dichos servicios, conviniendo con el municipio la dotación de los mismos.
 
@@ -2029,9 +2335,11 @@ El convenio que celebren el municipio y el interesado, deberá dejar constancia 
 
 DE LAS OBLIGACIONES EN SUBDIVISIONES MAYORES DE 6,000 METROS CUADRADOS.
 
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 93.
 
-Los titulares de predios mayores de 6,000 metros cuadrados de superficie que lleven a cabo su subdivisión, estarán obligados a ceder áreas de donación y ejecutar obras de equipamiento urbano, así como a garantizarlas, en forma proporcional a los usos que se tengan previstos, de acuerdo a las normas que para los conjuntos urbanos se establecen en este Reglamento.
+Los titulares de predios mayores de 6,000 metros cuadrados de superficie que lleven a cabo su subdivisión, estarán obligados a ceder áreas de donación al Estado y al Municipio y ejecutar obras de equipamiento urbano, así como a garantizarlas, en forma proporcional a los usos que se tengan previstos, de acuerdo a las normas que para los conjuntos urbanos se establecen en este Reglamento.
 
 DE LA EXENCION DE OBLIGACIONES EN SUBDIVISIONES MAYORES DE 6,000 METROS CUADRADOS.
 
@@ -2039,15 +2347,23 @@ DE LA EXENCION DE OBLIGACIONES EN SUBDIVISIONES MAYORES DE 6,000 METROS CUADRADO
 
 No se estará obligado a ceder áreas de donación, ejecutar obras de equipamiento urbano, ni obtener el dictamen de impacto regional, cuando:
 
-I. El predio sea afectado por la apertura de una o más vías públicas realizadas por autoridades federales, estatales o municipales.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
 
-II. La subdivisión provenga de afectaciones por la introducción o existencia de líneas de infraestructura primaria.
+I. El predio sea subdividido en dos o más fracciones resultantes por la apertura o prolongación de una o más vías públicas realizadas por autoridades federales, estatales o municipales.
+
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+II. El predio sea subdividido en dos o más fracciones resultantes por la introducción o existencia de líneas de infraestructura primaria.
 
 III. La subdivisión sea resultado de transmisiones por vía sucesoria o por la disolución de la sociedad conyugal.
 
-IV. La subdivisión de un predio de 6,000 metros cuadrados o más de superficie, que dé como resultado hasta un máximo de 10 viviendas o 10 lotes para otros usos.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
 
-V. El predio a subdividir se ubique en áreas no urbanizables.
+IV. La subdivisión de un predio de 6,000 metros cuadrados o más de superficie, que dé como resultado hasta un máximo de 10 viviendas.
+
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+V. El predio a subdividir se ubique en áreas no urbanizables o se localice en áreas fuera de los límites de los centros de población, siempre y cuando no se dediquen a fines urbanos.
 
 VI. El predio sea afectado por límites estatales o municipales.
 
@@ -2071,11 +2387,15 @@ DE LA SUBDIVISION DE PREDIOS EN CENTROS DE POBLACION QUE NO CUENTEN CON PLAN O N
 
 Para los efectos de la subdivisión de predios en áreas urbanas de centros de población que no cuenten con plan de desarrollo urbano o con normatividad específica en materia de uso y división del suelo y en áreas urbanizables no programadas, la Secretaría resolverá considerando las características predominantes en cuanto a la dimensión de los predios de la zona. En todo caso, la dimensión y frente de los lotes resultantes de la subdivisión no podrán ser inferiores a los establecidos en este Reglamento para los conjuntos urbanos.
 
-DE LAS SUBDIVISIONES DE PREDIOS EN AREAS NO URBANIZABLES Y AREAS FUERA DE LOS LIMITES DE LOS CENTROS DE POBLACION CON USOS NO URBANOS.
+> <small>(REFORMADA SU DENOMINACION, G.G. 16 DE ABRIL DE 2004)</small>
+
+DE LAS SUBDIVISIONES DE PREDIOS EN AREAS NO URBANIZABLES Y EN AREAS FUERA DE LOS LIMITES DE LOS CENTROS DE POBLACION.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 97.
 
-Los predios con actividades productivas de carácter agrícola, forestal, pecuario o minero, situados en áreas no urbanizables o en áreas fuera de los límites de los centros de población de la entidad con usos no urbanos, podrán subdividirse siempre y cuando queden con frente o acceso a vía pública existente y no se dediquen a fines urbanos.
+Los predios con actividades productivas de carácter agrícola, forestal, pecuario o minero, situados en áreas no urbanizables o en áreas fuera de los límites de los centros de población de la entidad, podrán subdividirse siempre y cuando los lotes resultantes queden con frente o acceso a una o más vías públicas existentes, y no se dediquen a fines urbanos.
 
 La superficie mínima de los lotes resultantes en subdivisiones en estas áreas no será inferior al establecido en el plan de desarrollo urbano aplicable o, en su defecto, a 2,000 metros cuadrados.
 
@@ -2087,13 +2407,17 @@ A la solicitud para subdividir un predio, en la que se deberá manifestar el uso
 
 I. Documento que acredite la propiedad del predio, inscrito en el Registro Público de la Propiedad.
 
-II. Licencia de uso del suelo.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+II. Licencia de uso del suelo, así como autorización de alineamiento y número oficial, cuando aquella no lo contenga.
 
 III. Plano que contenga:
 
 A) Situación original del predio por subdividir.
 
-B) La subdivisión proyectada.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+B) La subdivisión proyectada, incluyendo en su caso, la ubicación de las áreas de donación.
 
 C) Las restricciones y afectaciones federales, estatales y municipales.
 
@@ -2113,15 +2437,21 @@ Uso del suelo y demás normatividad urbana aplicable, en su caso.
 
 Nombre, cargo y firma del funcionario que autoriza.
 
-IV. Resolución de apeo y deslinde catastral o judicial inscrita en el Registro Público de la Propiedad, cuando las medidas y superficies reales del predio sean menores a las contenidas en el documento con el que se acredite la propiedad; y resolución de apeo y deslinde judicial inscrita en el Registro Público de la Propiedad, cuando las medidas y superficies reales del predio sean mayores a las contenidas en dicho documento.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
 
-V. Certificado de libertad de gravámenes.
+IV. Resolución de apeo y deslinde catastral o judicial inscrita en el Registro Público de la Propiedad, cuando las medidas y superficies reales del predio sean menores a las contenidas en el documento con el que se acredite la propiedad; y resolución de apeo y deslinde judicial inscrita en el Registro Público de la Propiedad, cuando las medidas y superficies reales del predio sean mayores a las contenidas en dicho documento. No se exigirá este requisito cuando las medidas y superficies reales del predio coincidan con las contenidas en el documento con el que se acredite la propiedad.
+
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+V. Certificado de libertad de gravámenes y, en caso de que el predio a subdividir presente gravamen, la anuencia por escrito del acreedor, quien acreditará su personalidad.
 
 VI. Documento emitido por autoridad competente que acredite que el predio materia de subdivisión cuenta al menos con los servicios públicos de agua potable y drenaje para el total de viviendas o lotes resultantes o, en su caso, convenio para la realización de éstos, celebrado con la autoridad correspondiente.
 
 VII. Dictamen de impacto regional emitido por la Secretaría, cuando se trate de subdivisiones mayores de 6,000 metros cuadrados de superficie, que den como resultado más de 10 lotes con usos industrial, agroindustrial, abasto, comercio y servicios o más de 60 viviendas.
 
-Cuando se trate de subdivisión de predios en áreas no urbanizables o en áreas fuera de los límites de los centros de población con usos no urbanos, no se requerirán los requisitos señalados en las fracciones II, VI y VII de este artículo.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Cuando se trate de subdivisión de predios en áreas no urbanizables o en áreas fuera de los límites de los centros de población, no se exigirán los requisitos señalados en las fracciones II, VI y VII de este artículo.
 
 Cuando se trate de subdivisiones de predios que se encuentran exentas de obligaciones a que se refiere el artículo 94 fracciones I, II, VI, VII y VIII de este Reglamento, bastará con que a la solicitud se acompañe documento que acredite la propiedad del predio inscrito en el Registro Público de la Propiedad y plano de la subdivisión proyectada.
 
@@ -2147,9 +2477,13 @@ IV. Obligación de incluir, en su caso, en los contratos traslativos de dominio,
 
 V. Señalamiento de que se presentaron, en su caso, los respectivos proyectos arquitectónicos de equipamiento urbano, ya autorizados por las autoridades competentes, y de que en consecuencia procede el inicio de su construcción.
 
-VI. Orden de inscribir en el Registro Público de la Propiedad la autorización de la subdivisión y su respectivo plano, dentro de los 90 días siguientes a su emisión. La autorización y el plano deberán ser protocolizados por notarios públicos del Estado de México.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
 
-VII. Orden de formalizar la entrega de áreas de donación al Estado o al municipio, en su caso, dentro de los 90 días siguientes al de la fecha de la autorización de subdivisión.
+VI. Orden de inscribir en el Registro Público de la Propiedad la autorización de la subdivisión y su respectivo plano, dentro de los 90 días siguientes a su emisión. La autorización y el plano deberán ser protocolizados por notario público.
+
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+VII. Orden de formalizar la transferencia legal de áreas de donación al Estado o al municipio, en su caso, mediante contrato que celebre con las autoridades respectivas, dentro de los 90 días siguientes al de la fecha de la autorización de la lotificación, quienes lo inscribirán en el Registra Público de la Propiedad en el transcurso de los 30 días siguientes, a efecto de tomar posesión ad las mismas.
 
 VIII. Referencia al dictamen de impacto regional, que en su caso, hubiere emitido la Secretaría.
 
@@ -2161,25 +2495,39 @@ DE LAS AUTORIZACIONES DE SUBDIVISION DE PREDIOS PROVENIENTES DE INMATRICULACIONE
 
 Para los efectos de lo previsto por el artículo 5.48 fracción IV del Código, la Secretaría podrá emitir la autorización de subdivisión de predios que provengan de inmatriculaciones administrativas, informaciones de dominio, usucapiones u otras figuras jurídicas que den como resultado la división de predios, inscritas en el Registro Público de la Propiedad.
 
-Las autorizaciones que se emitan en términos de este artículo, deberán ser protocolizadas por notarios públicos del Estado de México e inscritas en el Registro Público de la Propiedad.
+> <small>(REFORMADO, G.G, 16 DE ABRIL DE 2004)</small>
+
+Las autorizaciones que se emitan en términos de este artículo deberán ser protocolizadas por notario público e inscribirse en el Registro Público de la Propiedad.
 
 DE CUANDO NO SON SUBDIVIDIBLES LOS PREDIOS.
 
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 102.
 
-Serán indivisibles aquellos predios en los que cualquiera de los lotes resultantes no cumpla con la dimensión o con la intensidad máxima de ocupación del suelo establecida en el plan de desarrollo urbano, excepción hecha de los previstos en los programas institucionales de regularización de tenencia de la tierra, por causas de utilidad pública y tratándose de los casos previstos por el artículo 94 fracciones I, II, y VI de este Reglamento.
+Serán indivisibles aquellos predios en los que cualquiera de los lotes resultantes no cumpla con las dimensiones y superficies mínimas o con la intensidad máxima de ocupación del suelo establecidas en el plan de desarrollo urbano aplicable, excepción hecha de los previstos en los programas institucionales de regularización de tenencia de la tierra, así como por causas de utilidad pública o cuando se trate de los casos previstos por el artículo 94 fracciones I, II, VI y VII de este Reglamento.
 
 DE LA CONMUTACION DE LAS AREAS DE DONACION DESTINADAS A EQUIPAMIENTO Y DE LAS OBRAS DE EQUIPAMIENTO URBANO.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 103.
 
-Cuando al aplicarse las normas establecidas por este Reglamento para el cálculo de las obligaciones en subdivisiones mayores de 6,000 metros cuadrados, las áreas de donación destinadas a equipamiento urbano resulten menores a 500 metros cuadrados de superficie o las obras equipamiento no alcancen una unidad básica de servicio, la Secretaría, salvo determinación expresa en contrario del municipio respectivo, podrá determinar que la obligación conducente se permute por la de cubrir en efectivo el costo de la misma ante la Tesorería municipal o la Receptoría de Rentas correspondiente según fuera el caso, o bien la de ejecutar las obras públicas que determine el municipio por el valor equivalente, el cual será calculado de acuerdo al Tabulador de Precios Unitarios de la Secretaría.
+Cuando de aplicarse las normas establecidas por este Reglamento para el cálculo de las obligaciones en subdivisiones mayores de 6,000 metros cuadrados, las áreas de donación destinadas a equipamiento urbano resulten menores a 500 metros cuadrados de superficie, la Secretaría, salvo determinación expresa en contrario y fundada del municipio respectivo, podrá determinar que la obligación conducente se cumpla por la de cubrir en efectivo el costo de la misma ante la Tesorería municipal o bien, la de ejecutar las obras públicas que determine el municipio por el valor equivalente, el cual será calculado de acuerdo al Tabulador de Precios Unitarios de la Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo.
+
+> <small>(ADICIONADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Tratándose de áreas de donación a favor del Estado, se estará a lo dispuesto en el artículo 54 de este reglamento.
 
 DE LA UBICACION DE LAS OBRAS DE AREAS DE DONACION Y DEL EQUIPAMIENTO URBANO FUERA DE LA SUBDIVISION.
 
 ###### ARTICULO 104.
 
 Tratándose de subdivisiones mayores de 6,000 metros cuadrados, la Secretaría podrá autorizar que las áreas de donación y el equipamiento correspondiente, se ubiquen en sitios fuera del desarrollo pero dentro del respectivo municipio y en el lugar que indiquen las autoridades municipales, siempre y cuando con ello se obtenga un mayor beneficio social.
+
+> <small>(ADICIONADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+En el caso de áreas de donación que correspondan al Estado, se estará a lo dispuesto en el artículo 54 de este Reglamento.
 
 DE LA EXTINCION DE LA AUTORIZACION DE UNA SUBDIVISION, POR RENUNCIA EXPRESA DE SU TITULAR.
 
@@ -2195,13 +2543,19 @@ DE LA RELOTIFICACION DE SUBDIVISIONES.
 
 La relotificación parcial o total de subdivisiones de predios, se sujetará a las reglas siguientes:
 
-I. No podrá modificarse el número de lotes originalmente autorizados.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
 
-II. Procederá a petición expresa del titular de la subdivisión o del propietario de los lotes objeto de la relotificación, siempre y cuando no se haya emitido la autorización de la enajenación o venta de lotes, se esté al corriente en el cumplimiento de las obligaciones derivadas de la autorización de subdivisión.
+I. No podrá incrementarse el número de lotes o viviendas originalmente autorizados.
+
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+II. Procederá a petición expresa del titular de la subdivisión o del propietario de los lotes objeto de la relotificación, siempre y cuando no se hayan vendido lotes o viviendas en la parte o sección de la subdivisión que se pretenda relotificar y se esté al corriente en el cumplimiento de las obligaciones derivadas de la autorización de subdivisión.
 
 III. No procederá la relotificación sobre lotes gravados o hipotecados, sin la autorización expresa del acreedor.
 
-IV. En el caso de que se estuviere obligado a ceder áreas de donación, se podrá modificar la ubicación de éstas, siempre y cuando no se hubieren entregado al municipio y/o ejecutado en ellas obras de equipamiento urbano.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+IV. En el caso de que se estuviere obligado a ceder áreas de donación, se podrá modificar la ubicación de éstas, siempre y cuando no se hubieren entregado al Estado o al municipio y/o ejecutado en ellas obras de equipamiento urbano. Tratándose de las áreas de donación municipales, se deberá contar con la opinión técnica favorable del municipio.
 
 V. A la solicitud respectiva se deberá acompañar plano de la relotificación proyectada, así como certificado de libertad de gravámenes de los lotes objeto de la relotificación.
 
@@ -2214,6 +2568,14 @@ B) La lotificación que se pretende.
 C) El cuadro comparativo de áreas entre la lotificación anterior y la propuesta.
 
 D) La descripción de los lotes resultantes de la relotificación proyectada.
+
+> <small>(ADICIONADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+VII. No podrán disminuirse las áreas de donación destinadas a equipamiento urbano ni las obras de equipamiento urbano, así como tampoco incrementarse la superficie enajenable o vendible o el número de viviendas fijadas en el acuerdo de autorización de la subdivisión.
+
+> <small>(ADICIONADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+VIII. Los lotes resultantes no podrán tener dimensiones o superficies inferiores a las establecidas en el plan de desarrollo urbano aplicable.
 
 La Secretaría, en su caso, emitirá la autorización de relotificación correspondiente dentro de los 15 días siguientes a la presentación de la solicitud y de los documentos establecidos en este artículo, previo el pago de los derechos respectivos.
 
@@ -2229,11 +2591,13 @@ II. La relación de los lotes resultantes con sus respectivas superficies, usos 
 
 III. El cambio de ubicación de las áreas de donación, en su caso.
 
-IV. La orden de inscribir en el Registro Público de la Propiedad, dentro de los 90 días siguientes a la fecha de su expedición, la autorización de relotificación y su plano, protocolizados por notarios públicos del Estado de México.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
 
-### CAPITULO III. DE LA LOTIFICACION PARA CONDOMINIOS
+IV. La orden de inscribir en el Registro Público de la Propiedad, dentro de los 90 días siguientes a la fecha de su expedición, la autorización de relotificación y su plano, protocolizados por notario público.
 
-DE LA DEFINICION DE LOTIFICACION PARA CONDOMINIOS.
+### CAPITULO II. DE LA FUSION
+
+DE LOS DOCUMENTOS QUE DEBEN ACOMPAÑARSE A LA SOLICITUD.
 
 ###### ARTICULO 108.
 
@@ -2241,11 +2605,15 @@ A la solicitud de fusión de predios, se deberán acompañar los documentos sigu
 
 I. Documento inscrito en el Registro Público de la Propiedad, que acredite la propiedad de cada uno de los predios o lotes que serán objeto de la fusión.
 
-II. Licencia de uso del suelo, excepto cuando se trate de lotes provenientes de conjuntos urbanos, subdivisiones o áreas privativas de terreno en condominios autorizados.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+II. Licencia de uso del suelo, así como autorización de alineamiento y número oficial, cuando aquella no lo contenga, excepto cuando se trate de lotes provenientes de conjuntos urbanos, subdivisiones o áreas privativas de terreno en condominios autorizados.
 
 III. Certificado de libertad de gravámenes.
 
-IV. Resolución de apeo y deslinde catastral o judicial inscrita en el Registro Público de la Propiedad, cuando las medidas y superficies reales del predio sean menores a las contenidas en el documento con el que se acredite la propiedad; y resolución de apeo y deslinde judicial inscrita en el Registro Público de la Propiedad, cuando las medidas y superficies reales del predio sean mayores a las contenidas en dicho documento.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+IV. Resolución de apeo y deslinde catastral o judicial inscrita en el Registro Público de la Propiedad, cuando las medidas y superficies reales del predio sean menores a las contenidas en el documento con el que se acredite la propiedad; y resolución de apeo y deslinde Judicial inscrita en el Registro Público de la Propiedad, cuando las medidas y superficies reales del predio sean mayores a las contenidas en dicho documento. No se exigirá este requisito cuando las medidas y superficies reales del predio coincidan con las contenidas en el documento con el que se acredite la propiedad.
 
 V. Plano que contenga:
 
@@ -2273,7 +2641,9 @@ Nombre, cargo y firma del funcionario que autoriza.
 
 En los condominios horizontales o mixtos, cuando se pretendan fusionar áreas privativas de terreno entre sí o con predios colindantes al condominio, siempre que no correspondan al caso previsto por el artículo 5.52 fracción II del Código, además de los documentos señalados en este artículo, a la solicitud se deberá acompañar la conformidad expresa de la mayoría de condóminos en asamblea. En tales casos no se modificarán los indivisos originales del condominio.
 
-Cuando se trate de fusiones de predios en áreas no urbanizables o en áreas fuera de los límites de los centros de población con usos no urbanos, no se requerirá alineamiento y número oficial.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Cuando se trate de fusiones de predios en áreas no urbanizables o en áreas fuera de los límites de los centros de población, no se requerirá de la autorización de alineamiento y número oficial.
 
 DEL PROCEDIMIENTO DE AUTORIZACION.
 
@@ -2283,11 +2653,13 @@ La autorización para fusionar predios, se sujetará al procedimiento siguiente:
 
 I. La Secretaría, en su caso, emitirá la autorización de fusión de predios correspondiente dentro de los 15 días siguientes a la presentación de la solicitud y de los documentos establecidos en el artículo anterior, previo el pago de los derechos respectivos.
 
-II. La autorización y el plano respectivo de la fusión, deberán inscribirse en el Registro Público de la Propiedad, dentro de los 90 días siguientes al de la fecha de la autorización, la que conjuntamente con el plano deberán ser protocolizados por notarios públicos del Estado de México.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
 
-### CAPITULO I. DE LA SUPERVISION DE LAS OBRAS
+II. La autorización y el plano respectivo de la fusión, deberán inscribirse en el Registro Público de la Propiedad, dentro de los 90 días siguientes al de la fecha de la autorización, la que conjuntamente con el plano deberán ser protocolizados por notario público.
 
-DEL OBJETO DE LA SUPERVISION.
+### CAPITULO III. DE LA LOTIFICACION PARA CONDOMINIOS
+
+DE LA DEFINICION DE LOTIFICACION PARA CONDOMINIOS.
 
 ###### ARTICULO 110.
 
@@ -2317,7 +2689,9 @@ C) En condominios de tipo habitacional residencial y residencial alto: 120 y 150
 
 III. En el condominio industrial, las áreas privativas deberán tener como mínimo 500 metros cuadrados y 20 metros de frente; las que se dediquen a micro y pequeña industria, habrán de tener 150 metros cuadrados de superficie y 10 metros de frente;
 
-IV. Cuando en el condominio de habitación campestre se proyecte concentrar las viviendas en una porción del predio, las áreas privativas podrán tener una superficie mínima de 240 metros cuadrados y 12 metros de frente, siempre que el número de viviendas se calcule a razón de una por cada 2,000 metros cuadrados de la superficie total del predio. La superficie de área común se destinará exclusivamente a jardines y áreas verdes;
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+IV. Para los condominios de habitación campestre, se estará a lo previsto en el artículo 42 fracción XII de este Reglamento;
 
 V. Las áreas de uso común destinadas a áreas verdes y recreativas no serán inferiores a 12 metros cuadrados por vivienda prevista en condominios habitacionales, salvo en condominios que se desarrollen en conjuntos urbanos y subdivisiones de tipo habitacional social progresivo, interés social y popular autorizados, que hayan cedido áreas de donación, en cuyo caso serán de 10 metros cuadrados por vivienda prevista; el 5 por ciento del área del predio en condominios industriales; y el 10 por ciento de la superficie construida hasta 2,500 metros cuadrados y del 5 por ciento en adelante, en condominios comerciales, de abasto y servicios, excluyéndose circulaciones y estacionamientos. Estas áreas de uso común deberán tener dimensiones apropiadas para su adecuado aprovechamiento.
 
@@ -2347,9 +2721,13 @@ DE LAS OBRAS DE URBANIZACION AL INTERIOR DE LOS CONDOMINIOS.
 
 Las obras de urbanización al interior de los condominios, comprenderán a lo menos:
 
-I. Red de distribución de agua potable.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
 
-II. Red separada de drenaje pluvial y sanitario o el sistema que en su caso sea determinado por la Comisión del Agua del Estado de México o el correspondiente organismo operador municipal, atendiendo las características del desarrollo y su entorno.
+I. Red de distribución de agua potable y los sistemas que se emplearán para el ahorro, reuso y tratamiento del agua.
+
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+II. Red separada de drenaje pluvial y sanitario y los sistemas para su manejo y tratamiento, así como para la infiltración del agua pluvial al subsuelo, que sean aprobados por la autoridad competente respectiva.
 
 III. Red de distribución de energía eléctrica.
 
@@ -2365,15 +2743,25 @@ VIII. Sistema de nomenclatura para las vías privadas.
 
 IX. Señalamiento vial.
 
-X. Cuando corresponda, las obras de infraestructura primaria que se requieran para incorporar el conjunto urbano a las áreas urbanas y sus servicios.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
 
-Concluidas las obras de urbanización al interior de los condominios, éstas deberán ser entregadas formalmente, mediante acta circunstanciada, por el titular de la autorización al comité de administración del condominio, una vez constituido, debiéndose entregar asimismo copias de las autorizaciones y planos correspondientes. De no constituirse, se levantará el acta respectiva entre la autoridad municipal correspondiente y el desarrollador, pasando las obras sin mayor trámite a la administración de los habitantes del condominio.
+X. Cuando corresponda, las obras de infraestructura primaria que se requieran para incorporar el condominio a las áreas urbanas y sus servicios.
+
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Concluidas las obras de urbanización al interior de los condominios, éstas deberán ser entregadas formalmente, mediante acta circunstanciada, por el titular de la autorización al comité de administración del condominio, una vez constituido, debiéndose entregar asimismo copias de las autorizaciones y planos correspondientes. De no constituirse, se levantará el acta respectiva entre la autoridad municipal correspondiente y el desarrollador, quedando, sin mayor trámite el mantenimiento de las obras, bajo la responsabilidad de los habitantes del condominio.
 
 DE LA CONMUTACION DE LAS AREAS DE DONACION DESTINADAS A EQUIPAMIENTO Y DE LAS OBRAS DE EQUIPAMIENTO URBANO.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 113.
 
-Cuando al aplicarse las normas establecidas por este Reglamento para el cálculo de las obligaciones en condominios, las áreas de donación destinadas a equipamiento urbano resulten menores a 500 metros cuadrados de superficie o las obras de equipamiento no alcancen una unidad básica de servicio, la Secretaría podrá determinar que la obligación conducente se permute por la de cubrir en efectivo el costo de la misma ante la Tesorería municipal correspondiente, o bien ejecutar las obras públicas que determine el municipio por el valor equivalente, el cual será calculado de acuerdo al Tabulador de Precios Unitarios de la Secretaría y se señalará en la autorización respectiva.
+Cuando al aplicarse las normas establecidas por este Reglamento para el cálculo de las obligaciones en condominios, las áreas de donación a favor del municipio destinadas a equipamiento urbano resulten menores a 500 metros cuadrados de superficie o las obras de equipamiento no alcancen una unidad básica de servicio, la Secretaría podrá determinar que la obligación conducente se cumpla cubriendo en efectivo el costo de la misma ante la Tesorería municipal correspondiente, o bien ejecutando las obras públicas que determine el municipio por el valor equivalente, el cual será calculado de acuerdo al Tabulador de Precios Unitarios de la Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo y se señalará en la autorización respectiva.
+
+> <small>(ADICIONADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Tratándose de áreas de donación a favor del Estado, se estará a lo dispuesto en el artículo 54 de este Reglamento.
 
 DEL PROCEDIMIENTO PARA LA AUTORIZACION DE LA LOTIFICACION PARA CONDOMINIOS.
 
@@ -2385,13 +2773,17 @@ I. A la solicitud deberá acompañarse:
 
 A) Documento que acredite la propiedad del predio a lotificar, inscrito en el Registro Público de la Propiedad.
 
-B) Licencia de uso del suelo, con alineamiento y número oficial.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+B) Licencia de uso del suelo, así como autorización de alineamiento y número oficial, cuando aquella no lo contenga.
 
 C) Plano que contenga:
 
 a) Situación original del predio por lotificar.
 
-b) La lotificación proyectada.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+b) La lotificación proyectada, incluyendo en su caso, la ubicación de las áreas de donación.
 
 c) Las restricciones federales, estatales y municipales.
 
@@ -2409,13 +2801,19 @@ Uso del suelo y demás normatividad urbana aplicable, en su caso.
 
 Nombre, cargo y firma del funcionario que autoriza.
 
-D) Resolución de apeo y deslinde catastral o judicial inscrita en el Registro Público de la Propiedad, cuando las medidas y superficies reales del predio sean menores a las contenidas en el documento con el que se acredite la propiedad; y resolución de apeo y deslinde judicial inscrita en el Registro Público de la Propiedad, cuando las medidas y superficies reales del predio sean mayores a las contenidas en dicho documento.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
 
-E) Certificado de libertad de gravámenes.
+D) Resolución de apeo y deslinde catastral o judicial inscrita en el Registro Público de la Propiedad, cuando las medidas y superficies reales del predio sean menores a las contenidas en el documento con el que se acredite la propiedad; y resolución de apeo y deslinde judicial inscrita en el Registro Público de la Propiedad, cuando las medidas y superficies reales del predio sean mayores a las contenidas en dicho documento. No se exigirá este requisito cuando las medidas y superficies reales del predio coincidan con las contenidas en el documento con el que se acredite la propiedad
+
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+E) Certificado de libertad de gravámenes y, en caso de que el predio a lotificar presente gravamen, la anuencia por escrito del acreedor, quien acreditará su personalidad.
 
 F) Documento emitido por autoridad competente que acredite que el predio a lotificar cuenta al menos con los servicios públicos de agua potable y drenaje para el total de viviendas o lotes resultantes o, en su caso, convenio para la realización de éstos, celebrado con la autoridad correspondiente.
 
-No se exigirán los requisitos señalados en los incisos D) y F) tratándose de lotes provenientes de conjuntos urbanos o subdivisiones ya autorizados, excepto cuando se pretenda cambiar el uso del suelo o aumentar el número de viviendas autorizadas por lote. Cuando ello corresponda, se adjuntará la autorización correspondiente que hubiere emitido el municipio en virtud del cambio de uso del suelo, de densidad o intensidad de su aprovechamiento o de la altura máxima permitida.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+No se exigirán los requisitos señalados en los incisos B), D) y F) tratándose de lotes provenientes de conjuntos urbanos o subdivisiones ya autorizados, excepto cuando se pretenda cambiar el uso del suelo o aumentar el número de viviendas autorizadas por lote. Cuando ello corresponda, se adjuntará la autorización correspondiente que hubiere emitido el municipio en virtud del cambio de uso del suelo, de densidad o intensidad de su aprovechamiento o de la altura máxima permitida.
 
 II. La Secretaría, en su caso, emitirá la autorización de lotificación para condominio correspondiente dentro de los 15 días siguientes a la presentación de la solicitud y de los documentos establecidos en este artículo, previo el pago de los derechos respectivos.
 
@@ -2435,9 +2833,21 @@ IV. Apercibimiento al titular de la autorización de que deberá obtener de la S
 
 V. Prevención de que el titular de la autorización o los adquirentes de las áreas privativas, no podrán llevar a cabo edificación alguna sin obtener previamente las correspondientes licencias y autorizaciones.
 
-VI. Establecimiento del plazo de 90 días para inscribir en el Registro Público de la Propiedad, la escritura pública de constitución del condominio horizontal o mixto que contenga la autorización y el plano respectivo de la lotificación. La escritura deberá realizarse por notarios públicos del Estado de México.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
 
-VII. Orden de formalizar la entrega de áreas de donación al Estado o al municipio, en su caso, dentro de los 90 días siguientes al de la fecha de la autorización de la lotificación.
+VI. Establecimiento del plazo de 90 días para inscribir en el Registro Público de la Propiedad, la escritura pública de constitución del condominio horizontal o mixto que contenga la autorización y el plano respectivo de la lotificación. La escritura deberá realizarse por notario público.
+
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+VII. Orden de formalizar la transferencia de áreas de donación al Estado o al municipio, en su caso mediante contrato que celebre con las autoridades respectivas, dentro de los 90 días siguientes al de la fecha de la autorización de la lotificación, quienes lo inscribirán en el Registro Público de la Propiedad en el transcurso de los 30 días siguientes, a efecto de tomar posesión de las mismas.
+
+> <small>(ADICIONADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+VIII. Señalamiento de la obligación de obtener la autorización para el inicio de las obras de urbanización al interior del condominio y en su caso, de las obras de equipamiento.
+
+> <small>(ADICIONADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+IX. Establecimiento del plazo de 90 días para presentar comprobantes de pago de los derechos de supervisión de obras, así como para presentar la fianza y/o hipoteca que se hubiere fijado para garantizar la ejecución de dichas obras.
 
 DE LA AUTORIZACION PARA LA ENAJENACION, PROMOCION Y PUBLICIDAD DE LAS AREAS PRIVATIVAS.
 
@@ -2459,9 +2869,9 @@ La ocupación de las áreas privativas objeto de la enajenación, procederá cua
 
 ## TITULO SEXTO. DE LA SUPERVISION Y LA ENTREGA DE OBRAS DE URBANIZACION, EQUIPAMIENTO URBANO Y, EN SU CASO, DE INFRAESTRUCTURA PRIMARIA
 
-### CAPITULO II. DE LA ENTREGA Y RECEPCION DE LAS OBRAS
+### CAPITULO I. DE LA SUPERVISION DE LAS OBRAS
 
-DE LA ENTREGA Y RECEPCION DE OBRAS.
+DEL OBJETO DE LA SUPERVISION.
 
 ###### ARTICULO 117.
 
@@ -2503,9 +2913,9 @@ La apertura de la bitácora deberá efectuarse a la fecha de autorización del i
 
 El cierre de la bitácora, que firmarán las respectivas autoridades estatales y municipales, así como el titular del desarrollo, procederá cuando se hayan cumplido todas y cada una de las obligaciones contenidas en el acuerdo de autorización respectivo y atendidas las observaciones formuladas por las instancias gubernamentales que hayan intervenido.
 
-### CAPITULO I. DE LA LICENCIA DE USO DEL SUELO
+### CAPITULO II. DE LA ENTREGA Y RECEPCION DE LAS OBRAS
 
-DE LA COMPETENCIA MUNICIPAL PARA EMITIR LA LICENCIA DE USO DEL SUELO.
+DE LA ENTREGA Y RECEPCION DE OBRAS.
 
 ###### ARTICULO 121.
 
@@ -2523,6 +2933,10 @@ III. Se haya otorgado la correspondiente fianza o hipoteca para garantizar las o
 
 IV. Tratándose de subdivisiones y condominios, se haya formalizado la entrega de las áreas de donación a favor del Estado y del municipio, según corresponda.
 
+> <small>(ADICIONADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Las obras de equipamiento urbano regional, a las que se canalicen las obligaciones establecidas en el artículo 60 de este Reglamento, se entregarán a la dependencia u organismo que determine la Secretaría, aplicándose al efecto las reglas previstas en este artículo.
+
 DEL PROCEDIMIENTO PARA LA ENTREGA Y RECEPCION DE OBRAS.
 
 ###### ARTICULO 122.
@@ -2535,21 +2949,27 @@ A) Plano actualizado del desarrollo, que contenga todas las modificaciones que e
 
 B) Determinación del costo total de construcción de las obras a la fecha de la solicitud de su entrega - recepción.
 
-II. Dentro de los 10 días siguientes a la recepción del aviso de terminación de las obras por parte del titular del desarrollo, la Secretaría le comunicará por oficio el monto de la garantía que deberá rendir en favor del municipio, para responder que las obras han sido ejecutadas sin defectos ni vicios ocultos.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
 
-III. Presentada la constancia de haberse constituido la garantía a que se refiere la fracción anterior, la Secretaría elaborará el proyecto del acta de entrega - recepción de las obras, la cual se turnará al municipio para que dentro de los 20 días siguientes a la recepción del acta, se suscriba con el titular del desarrollo y con la intervención de la Secretaría.
+II. Dentro de los 10 días siguientes a la recepción del aviso de terminación de las obras por parte del titular del desarrollo, la Secretaria le comunicará por oficio el monto de la garantía que deberá rendir en favor del municipio o del Estado, para responder que las obras han sido ejecutadas sin defectos ni vicios ocultos.
+
+> <small>(REFORMADA PRIMER PARRAFO, G.G. 16 DE ABRIL DE 2004)</small>
+
+III. Presentada la constancia de haberse constituido la garantía a que se refiere la fracción anterior, la Secretaría elaborará el proyecto del acta de entrega - recepción de las obras, la cual se turnará al municipio o a la dependencia u organismo estatal que determine la Secretaría, según corresponda, para que dentro de los 20 días siguientes a la recepción del acta, se suscriba con el titular del desarrollo y con la intervención de la Secretaría.
 
 Tratándose de la entrega - recepción de las obras de un conjunto urbano, su titular deberá formalizar simultáneamente la transferencia al municipio de las respectivas áreas de donación del desarrollo.
 
 IV. Si llegara a transcurrir el plazo a que se refiere la fracción III de este artículo sin que el municipio suscriba el acta de entrega - recepción de las obras, el titular del desarrollo solicitará la intervención de la Secretaría, quien fijará una fecha definitiva para su suscripción, informando de ello al municipio. En caso de que la autoridad municipal no concurra, se levantará el acta respectiva en la que se asentará dicha situación, procediendo la Secretaría a publicar dicha acta en la Gaceta del Gobierno, dejándose a salvo los derechos del titular de la autorización y de los adquirentes de lotes o viviendas para ejercitar las acciones correspondientes.
 
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
 En el caso de los conjuntos urbanos, una vez suscrita el acta de recepción - entrega, parcial o total, de las obras de urbanización y equipamiento urbano y, en su caso, de infraestructura primaria, a favor de los municipios, así como de las respectivas áreas de donación, el desarrollo de que se trate se entenderá incorporado al centro de población donde se ubique, para los efectos de la planeación y administración del desarrollo urbano, fecha a partir de la cual el municipio se encargará de su mantenimiento y de la prestación de los servicios públicos.
 
 ## TITULO SEPTIMO. DEL USO DEL SUELO Y DEL DICTAMEN DE IMPACTO REGIONAL
 
-### CAPITULO II. DEL DICTAMEN DE IMPACTO REGIONAL
+### CAPITULO I. DE LA LICENCIA DE USO DEL SUELO
 
-DEL CONCEPTO.
+DE LA COMPETENCIA MUNICIPAL PARA EMITIR LA LICENCIA DE USO DEL SUELO.
 
 ###### ARTICULO 123.
 
@@ -2559,9 +2979,15 @@ Tratándose de usos del suelo de impacto regional, se deberá recabar de la Secr
 
 DEL PROCEDIMIENTO PARA LA EMISION DE LA LICENCIA DE USO DEL SUELO.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 124.
 
-La solicitud de licencia de uso del suelo contendrá el croquis de localización del predio o inmueble objeto del trámite; señalará el uso actual del suelo y el pretendido y en su caso, la superficie construida o por construir, así como la clave catastral, si la hubiere. A la solicitud se acompañará el documento que acredite la propiedad del predio o inmueble, inscrito en el Registro Público de la Propiedad.
+La solicitud de licencia de uso del suelo centenera el croquis de localización del predio o inmueble objeto del trámite; señalará el uso actual del suelo y el pretendido y en su caso, la superficie construida o por construir, así como la clave catastral, si la hubiere. A la solicitud se acompañará el documento que acredite la propiedad del predio o Inmueble, inscrito en el Registro Público de la Propiedad, o la posesión del mismo.
+
+> <small>(ADICIONADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Para acreditar la posesión de predios e inmuebles, podrán presentarse los siguientes documentos: contratos de compra-venta o arrendamiento; recibo de pago del impuesto sobre traslación de dominio; acta de entrega, cuando se trate de inmuebles de interés social; y cédula de contratación de la Comisión para la Regularización de la Tenencia de la Tierra o del Instituto
 
 Tratándose de los usos del suelo de impacto regional a que se refiere el artículo 5.61 del Código, se acompañará del dictamen de impacto regional expedido por la Secretaría.
 
@@ -2605,6 +3031,16 @@ XIV. Lugar y fecha en que se expida.
 
 Tratándose de usos que generen impacto regional, el titular de la licencia deberá dar cumplimiento a la normatividad y obligaciones consignadas en el dictamen de impacto regional.
 
+> <small>(ADICIONADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+Las licencias de uso del suelo de impacto regional incluirán las siguientes previsiones para fomentar la cultura del ahorro del agua:
+
+A) Se utilizarán muebles sanitarios de bajo consumo de agua y se adoptarán otras medidas que permitan su ahorro;
+
+B) Se propiciará el reuso del agua, preferentemente para aquellos usos domésticos que no sean de consumo humano; y
+
+C) Se procurará la adopción de formas alternativas de captación de agua, principalmente para la pluvial.
+
 DE LA DETERMINACION DEL USO DEL SUELO EN CENTROS DE POBLACION QUE NO CUENTAN CON PLAN O NORMATIVIDAD ESPECIFICA.
 
 ###### ARTICULO 126.
@@ -2633,9 +3069,9 @@ DEL ALINEAMIENTO Y NUMERO OFICIAL.
 
 La licencia de uso del suelo podrá autorizar únicamente el alineamiento y número oficial, cuando así lo solicite el interesado.
 
-### CAPITULO III. DE LOS CAMBIOS DE USO DEL SUELO
+### CAPITULO II. DEL DICTAMEN DE IMPACTO REGIONAL
 
-DE LOS REQUISITOS PARA LA AUTORIZACION.
+DEL CONCEPTO.
 
 ###### ARTICULO 128.
 
@@ -2715,17 +3151,17 @@ VI. Lugar y fecha de expedición.
 
 El plazo de vigencia del dictamen será de un año, contado a partir del día siguiente al de la fecha de su notificación al solicitante.
 
-DE CUANDO SE SUBSUME EL PROCEDIMIENTO DE DICTAMEN DE IMPACTO REGIONAL A LA AUTORIZACION DE CONJUNTOS URBANOS.
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
+
+DE CUANDO SE SUBSUME El PROCEDIMIENTO DE DICTAMEN DE IMPACTO REGIONAL A LA AUTORIZACION DE CONJUNTOS URBANOS.
 
 ###### ARTICULO 133.
 
-No será necesario obtener por separado el dictamen de impacto regional, tratándose de las licencias de uso del suelo, así como de la autorización del cambio de uso del suelo, de la densidad e intensidad de su aprovechamiento o de la altura máxima permitida, cuando se trate de la tramitación de conjuntos urbanos. En estos casos, para todos los efectos legales, el dictamen de impacto regional se entenderá subsumido en el dictamen de factibilidad.
+No será necesario obtener el dictamen de Impacto regional, tratándose de conjuntos urbanos. En estos casos, para todos los efectos legales, el dictamen de impacto regional se entenderá subsumido en la autorización del conjunto urbano de que se trate.
 
-En consecuencia, el dictamen de factibilidad que emita la Secretaría deberá dejar constancia de que se comprende el dictamen de impacto regional respectivo.
+### CAPITULO III. DE LOS CAMBIOS DE USO DEL SUELO
 
-### CAPITULO IV. DE LA CEDULA INFORMATIVA DE ZONIFICACION
-
-DE LA CEDULA INFORMATIVA DE ZONIFICACION.
+DE LOS REQUISITOS PARA LA AUTORIZACION.
 
 ###### ARTICULO 134.
 
@@ -2777,9 +3213,9 @@ VI. Lugar y fecha de expedición.
 
 La autorización de cambio de uso del suelo, de densidad o intensidad de su aprovechamiento o el cambio de la altura máxima permitida de un predio o inmueble, produce los mismos efectos que la licencia de uso del suelo, y tendrá la vigencia que señala el artículo 5.59 fracción I del Código. En estos casos no será necesario obtener licencia de uso de suelo.
 
-### CAPITULO UNICO
+### CAPITULO IV. DE LA CEDULA INFORMATIVA DE ZONIFICACION
 
-DE LAS DEFINICIONES.
+DE LA CEDULA INFORMATIVA DE ZONIFICACION.
 
 ###### ARTICULO 137.
 
@@ -2789,9 +3225,9 @@ Para su obtención, se deberá presentar solicitud acompañada de croquis de loc
 
 ## TITULO OCTAVO. DE LAS VIAS PUBLICAS Y PRIVADAS
 
-### CAPITULO UNICO. DE LOS PERITOS
+### CAPITULO UNICO
 
-DEL PROCEDIMIENTO PARA ADQUIRIR LA CALIDAD DE PERITO.
+DE LAS DEFINICIONES.
 
 ###### ARTICULO 138.
 
@@ -2804,6 +3240,10 @@ Se presume vía pública, salvo prueba en contrario, todo inmueble que en calida
 II. Vía privada: es todo inmueble de propiedad privada destinado al tránsito y uso común de sus propietarios o de los habitantes de un agrupamiento de lotes, áreas privativas o viviendas.
 
 III. Sección: es el ancho de una vía pública o privada, medido de paramento a paramento, comprende las banquetas y el arroyo destinado al tránsito de vehículos.
+
+> <small>(ADICIONADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+IV. Carreteras: son las vías de comunicación vehicular que se encuentran al exterior de los límites de los centros de población de la entidad.
 
 DE LA COMPETENCIA DE LA SECRETARIA PARA AUTORIZAR VIAS PUBLICAS.
 
@@ -2869,9 +3309,9 @@ II. La Secretaría, en su caso, emitirá la autorización correspondiente dentro
 
 ## TITULO NOVENO
 
-### CAPITULO I. DEL REGISTRO ESTATAL
+### CAPITULO UNICO. DE LOS PERITOS
 
-DEL OBJETO DEL REGISTRO ESTATAL DE DESARROLLO URBANO.
+DEL PROCEDIMIENTO PARA ADQUIRIR LA CALIDAD DE PERITO.
 
 ###### ARTICULO 143.
 
@@ -2919,9 +3359,9 @@ IV. Los demás documentos que el solicitante considere pertinentes.
 
 ## TITULO DECIMO. DEL REGISTRO ESTATAL DE DESARROLLO URBANO
 
-### CAPITULO I. DE LAS MEDIDAS DE SEGURIDAD
+### CAPITULO I. DEL REGISTRO ESTATAL
 
-DE LAS NORMAS COMUNES PARA LA ADOPCION DE MEDIDAS DE SEGURIDAD Y SANCIONES.
+DEL OBJETO DEL REGISTRO ESTATAL DE DESARROLLO URBANO.
 
 ###### ARTICULO 147.
 
@@ -2999,9 +3439,9 @@ La inscripción de los peritos se regulará por la reglamentación respectiva.
 
 ## TITULO DECIMO PRIMERO. DE LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
-### CAPITULO II. DE LAS REGLAS GENERALES PARA LA IMPOSICION DE SANCIONES Y LA SUSPENSION DE OBRAS
+### CAPITULO I. DE LAS MEDIDAS DE SEGURIDAD
 
-DE LOS CRITERIOS GENERALES PARA LA IMPOSICION DE SANCIONES.
+DE LAS NORMAS COMUNES PARA LA ADOPCION DE MEDIDAS DE SEGURIDAD Y SANCIONES.
 
 ###### ARTICULO 151.
 
@@ -3049,6 +3489,10 @@ II. La autoridad correspondiente, en su caso, adoptará de inmediato y sin mayor
 
 III. Adoptadas las medidas de seguridad, se citará a garantía de audiencia al particular afectado, para que manifieste lo que a su derecho convenga, dictándose la resolución que corresponda, en la que en su caso podrá imponerse la sanción o sanciones procedentes.
 
+### CAPITULO II. DE LAS REGLAS GENERALES PARA LA IMPOSICION DE SANCIONES Y LA SUSPENSION DE OBRAS
+
+DE LOS CRITERIOS GENERALES PARA LA IMPOSICION DE SANCIONES.
+
 ###### ARTICULO 154.
 
 Las infracciones a las disposiciones del Código y de este Reglamento se sancionarán conforme a las reglas establecidas en el artículo 5.75 del Código y 137 del Código de Procedimientos Administrativos del Estado de México.
@@ -3057,11 +3501,15 @@ La autoridad estatal, en la imposición de las sanciones buscará primordialment
 
 DE LA SUSPENSION DE OBRAS EN LA APLICACION DE SANCIONES.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 155.
 
-Al iniciarse el procedimiento para la aplicación de sanciones, la autoridad competente podrá ordenar la suspensión temporal, total o parcial, de la respectiva construcción u obra, giro cuando éstas se estén llevando a cabo:
+Al iniciarse el procedimiento para la aplicación de sanciones, la autoridad competente podrá ordenar la suspensión temporal, total o parcial, de la respectiva construcción, obra, giro, actividad o servicio cuando éstos se estén llevando a cabo:
 
-I. En contravención a los usos establecidos por los planes de desarrollo urbano.
+> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+
+I. En contravención a los usos y aprovechamientos del suelo establecidos por los planes de desarrollo urbano.
 
 II. Sin contar con la autorización correspondiente.
 
@@ -3116,3 +3564,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 16 DE ABRIL DE 2004.
+
+PRIMERO.- Publíquese el presente acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Los asuntos que se encuentren en trámite al momento de entrar en vigor el presente acuerdo, se sustanciarán y resolverán conforme las disposiciones legales anteriores.
