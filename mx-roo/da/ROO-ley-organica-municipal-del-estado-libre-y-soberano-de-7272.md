@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-municipal-del-estado-libre-y-soberano-de-7272"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-06-09"
-last_updated: "1987-05-29"
+last_updated: "1992-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 9 de junio de 1986.
 
@@ -59,17 +59,19 @@ El Estado de Quintana Roo se divide territorialmente en los Municipios que se se
 
 La Legislatura del Estado es la única facultada para decretar la creación, cuando se dan los supuestos del Artículo 132 de la Constitución del Estado, la supresión o fusión de un Municipio. Para cambiar los límites de los Municipios del Estado y para aprobar los convenios que a este respecto acuerden los Ayuntamientos respectivos. Si el diferendo de límites se convierte en un asunto contencioso, la resolución le compete al Tribunal Superior de Justicia del Estado.
 
-###### ARTICULO 6°.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
 
-Los Municipios del Estado se podrán dividir en:
+###### ARTICULO 6.
 
-a) Cabecera; que será el lugar donde resida el Ayuntamiento.
+Los Municipios del Estado contarán con una Cabecera Municipal que será el lugar donde resida el Ayuntamiento, y podrán dividirse además en:
 
-b) Delegaciones; que se constituirán en las ciudades o villas donde se estime conveniente para el mejor funcionamiento del Municipio, debiendo estar previstas en el Presupuesto de Egresos.
+A) Alcaldías; que se constituirán en diversas localidades cuando en razón de su tamaño, nivel de las actividades económicas y localización geográfica (sic) así lo determine el Ayuntamiento y se prevea en el Presupuesto de Egresos;
 
-c) Subdelegaciones; que se constituirán en los pueblos, rancherías y congregaciones alejadas de la cabecera municipal, cuando así lo determine el Ayuntamiento y se prevean en el presupuesto de Egresos.
+B) Delegaciones; que se constituirán en las villas y pueblos, cuando así lo determine el Ayuntamiento y se prevea en el Presupuesto de Egresos; y
 
-La extensión y límites de cada una de las subdivisiones, serán determinadas por los propios Ayuntamientos mediante el acto que determine su creación.
+C) Subdelegaciones; que se constituirán en las rancherías y congregaciones, cuando así lo determine el Ayuntamiento y se prevea en el Presupuesto de Egresos.
+
+La extensión y límites de cada una de las subdivisiones, se ajustarán al contorno que determine la mancha poblacional y deberán plasmarse en un plano autorizado por el Ayuntamiento Municipal que se actualizará cada dos años.
 
 ###### ARTICULO 7°.
 
@@ -289,9 +291,11 @@ El propio Ayuntamiento por acuerdo de sus miembros podrá decidir celebrar algun
 
 Corresponde a los Ayuntamientos el ejercicio de facultades y la atención de las obligaciones que sean necesarias para conseguir el cabal cumplimiento de las atribuciones que les confiere la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que emanan de ellas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
 ###### ARTICULO 32.
 
-Los Ayuntamientos del Estado poseerán personalidad jurídica para todos los efectos legales y estarán facultados para:
+Los Ayuntamientos poseerán personalidad jurídica para todos los efectos legales y estarán facultados para:
 
 I.- En materia de Gobierno y Régimen Interior.
 
@@ -303,7 +307,9 @@ C) Expedir su Reglamento Interior, los Reglamentos, Acuerdos y demás disposicio
 
 D) Expedir las declaratorias que contengan la división municipal en Delegaciones y Subdelegaciones en la forma y número que estime necesaria.
 
-E) Convocar por conducto del Presidente Municipal a elección de Delegados y Subdelegados Municipales, en la forma que al efecto dicte el Reglamento correspondiente, asimismo convocar a las elecciones extraordinarias cuando se trate de cubrir las vacantes de sus Munícipes.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
+E) Convocar, por conducto del Presidente Municipal, a la elección de los integrantes de las alcaldías municipales, así como de los Delegados y Subdelegados Municipales que establezca el Ayuntamiento, en los términos dispuestos en la presente Ley; y convocar también a elecciones extraordinarias cuando se trate de cubrir las vacantes de Alcalde y demás Miembros de las Alcaldías y de los Ayuntamientos.
 
 F) Nombrar o remover, a propuesta del Presidente Municipal al Secretario y al Tesorero del Ayuntamiento.
 
@@ -390,6 +396,10 @@ D) Aprobar la creación de Fideicomisos o empresas municipales, sea que se const
 E) Aprobar la celebración de los convenios de desarrollo que el Presidente Municipal celebre con Dependencias, Entidades u Organismos Descentralizados del Ejecutivo del Estado o de la Administración Pública Federal.
 
 F) Auxiliar a las autoridades Estatales y Federales en la preservación del patrimonio arqueológico, histórico y de los atractivos naturales o turísticos del Municipio, así como decretar la suspensión provisional de las obras que a juicio del Presidente Municipal puedan deteriorarlo o destruirlo, o cuando se carezca de la autorización correspondiente para realizarlos.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
+V).- Decidir sobre la disolución de las Alcaldías, cuando se demuestre causa grave, calificada por el voto de las dos terceras partes de sus Miembros, y siempre que los integrantes de las Alcaldías hayan tenido oportunidad de ser escuchados.
 
 ###### ARTICULO 33.
 
@@ -1135,17 +1145,25 @@ Cuando dos o más centros urbanos situados en el Territorio de dos o más munici
 
 ### CAPITULO PRIMERO. DE LAS DEPENDENCIAS ADMINISTRATIVAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
 ###### ARTICULO 115.
 
-Para el despacho de los asuntos y el cumplimiento de las atribuciones y obligaciones del Municipio, el Presidente Municipal, como órgano del Ayuntamiento responsable de la administración pública municipal, se auxiliará de las unidades administrativas siguientes:
+Para el despacho y el cumplimiento de las atribuciones y obligaciones del Municipio, el Ayuntamiento tendrá, además de la presidencia Municipal, como Organo responsable de la Administración Pública Municipal, las unidades administrativas auxiliares siguientes:
 
 I.- Secretaría del Ayuntamiento.
 
 II.- Tesorería Municipal.
 
-III.- Dirección de Seguridad Pública y Tránsito.
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
 
-IV.- Las demás dependencias que el Ayuntamiento establezca en el reglamento respectivo.
+III.- Alcaldías, Delegaciones y Subdelegaciones.
+
+IV.- Dirección de Seguridad Pública y Tránsito.
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
+V.- Las demás Dependencias que el Ayuntamiento establezca en el Reglamento respectivo.
 
 El Presidente Municipal, Sindico y Regidores están impedidos para ejercer los cargos a que se refieren las fracciones anteriores y para ocupar cualquier otro cargo administrativo.
 
@@ -1185,7 +1203,9 @@ V.- Autorizar, por conducto del Oficial del Registro Civil en la jurisdicción d
 
 VI.- Organizar la junta local de reclutamiento.
 
-VII.- Asesorar a los Delegados y Subdelegados Municipales en los asuntos relativos a su función.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
+VII.- Asesorar a las Alcaldías, Delegacionales y subdelegacionales Municipales en los asuntos relativos a su función.
 
 VIII.- Inscribir en el registro de la municipalidad a los ciudadanos con sus propiedades, industrias, profesión y ocupación.
 
@@ -1291,17 +1311,167 @@ XI.- Celebrar convenios con las dependencias estatales afines, para la capacitac
 
 XII.- Las demás que le señalen las leyes o reglamentos vigentes o les encargue el Ayuntamiento.
 
-### CAPITULO QUINTO. DE LOS DELEGADOS Y SUBDELEGADOS MUNICIPALES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
+### CAPITULO QUINTO. DE LAS ALCALDIAS
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
 
 ###### ARTICULO 124.
 
-En las ciudades, villas o pueblos que no sean cabeceras municipales se elegirán Delegados, y en las rancherías y congregaciones Subdelegados, que tendrán a su cargo el desempeño de las tareas administrativas encomendadas por esta Ley.
+Las Alcaldías son Organos Descentralizados, auxiliares de la Administración Municipal, que dependerán directamente del Ayuntamiento, con las facultades y atribuciones que les sean concedidas en el ámbito de su jurisdicción y con el presupuesto que el propio Ayuntamiento les señale en los términos que establece la presenta ley.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
 
 ###### ARTICULO 125.
 
-Las Delegaciones y Subdelegaciones Municipales serán órganos desconcentrados de la Administración Municipal y como tales dependerán del Presidente Municipal, ejercerán las facultades y atribuciones que a aquél corresponden en el ámbito territorial que le sea asignado y contarán con el personal y presupuesto que el Ayuntamiento les señale.
+Las Alcaldías se integrarán con un Alcalde, un Tesorero y hasta tres concejales. El Alcalde tendrá la representación Legal del Organo y presidirá sus sesiones, las que se realizarán cuando menos una vez al mes. Los acuerdos se tomarán por mayoría de votos.
+
+El reglamento que al efecto expida el Ayuntamiento señalará las facultades y deberes de cada miembro de las Alcaldías, la frecuencia de las sesiones, los procedimientos para emitir sus acuerdos y cumplimiento.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
 
 ###### ARTICULO 126.
+
+Los Ayuntamientos, al acordar la creación de la Alcaldías, determinarán las facultades de las mismas, las que tendrán a su cargo el desempeño de tareas administrativas descentralizadas, de conformidad con lo dispuesto por esta ley.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
+###### ARTICULO 127.
+
+Las facultades y obligaciones de las Alcaldías serán las que el Ayuntamiento les confiera, y comprenderán, entre otras, las siguientes funciones:
+
+I.- Cumplir y hacer cumplir las Disposiciones legales y Reglamentarias dentro de la esfera de su competencia y jurisdicción.
+
+II.- Ejecutar las acciones necesarias para dar cumplimiento a los acuerdos y resoluciones del Ayuntamiento en su circunscripción territorial.
+
+III.- Cuidar el orden público y tránsito.
+
+IV.- Informar al Ayuntamiento, por conducto del Presidente Municipal, de todos los asuntos relacionados con su encargo.
+
+V.- Desempeñarse como conciliador y árbitro en controversias entre ciudadanos, cuando se lo pidan los interesados.
+
+VI.- Vigilar la correcta prestación de los Servicios Públicos que le encomiende el Ayuntamiento.
+
+VII.- Actuar como Oficial del Registro Civil, en lo (sic) casos, forma y términos que la ley establece.
+
+VIII.- Elaborar y mantener actualizado el censo de los contribuyentes de su Circunscripción, y actuar como auxiliares de la Hacienda Municipal, en las condiciones y términos que previamente acuerde el Ayuntamiento.
+
+IX.- Inscribir a los vecinos residentes en el Registro de Ciudadanos y mantenerlo actualizado, en el cual manifestarán sus propiedades, industrias, profesión u ocupación y hacerlo del conocimiento del Ayuntamiento.
+
+X.- Celebrar los contratos o convenios, que previamente autorice el Ayuntamiento, para el fiel cumplimiento de las obligaciones y funciones que la presente ley y el Ayuntamiento le confieran.
+
+XI.- Auxiliar a las autoridades de la Federación, del Estado y del propio Municipio en el desempeño de sus respectivas atribuciones.
+
+XII.- Coadyuvar en programas de alfabetización, de limpieza e higiene y de conservación de las vialidades y caminos de su jurisdicción.
+
+XIII.- Promover ante el Ayuntamiento la realización de inversiones para la ejecución de obras públicas dentro de su jurisdicción;
+
+XIV.- Procurar la participación de los habitantes de su jurisdicción en el planteamiento y solución de sus problemas y para el mejor desempeño de sus funciones.
+
+XV.- Las demás que se señalen en el Reglamento Interior que les apruebe el Ayuntamiento y en los acuerdos específicos del mismo.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
+###### ARTICULO 128.
+
+Además de las funciones establecidas en el Artículo 127 de esta ley, las Alcaldías tendrán como atribuciones específicas:
+
+A) Administrar y mejorar la calidad de los servicios públicos de:
+
+- Alumbrado;
+
+- Limpia;
+
+- Panteones;
+
+- Mercados;
+
+- Rastro;
+
+- Calles;
+
+- Parques; y
+
+- Jardines;
+
+B) Procurar el aprovechamiento, la preservación y la conservación de centros recreativos, culturales y deportivos, y de los lugares de interés turístico, histórico, arqueológico y ecológico;
+
+C) Preservar la seguridad pública y el tránsito en los términos acordados por el Ayuntamiento;
+
+D) Las demás que por acuerdo les delegue el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
+###### ARTICULO 129.
+
+Las Alcaldías concesionarán bajo su responsabilidad, los servicios públicos enunciados en el inciso A) del artículo anterior, mediante concursos y contratos debidamente aprobados por el Ayuntamiento respectivo.
+
+En estos casos, no se requerirá la aprobación de la Legislatura del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
+###### ARTICULO 130.
+
+Las Alcaldías contratarán para el mejor desempeño de su gestión, los apoyos y la asesoría jurídica, contable y administrativa que requieran, en los términos que apruebe el Ayuntamiento, así como el personal indispensable que el propio Ayuntamiento les apruebe en el Presupuesto de Egresos.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
+###### ARTICULO 131.
+
+Los miembros de las Alcaldías serán electos en forma directa en asambleas de vecinos de las comunidades correspondientes. La convocatoria, que será expedida por el Presidente Municipal dentro de los primeros 120 días de su gestión, señalará los términos, modalidades y formas de organización de la elección.
+
+Una vez electos, los miembros de las Alcaldías durarán en sus funciones el mismo período para el que fue electo el Ayuntamiento, debiendo permanecer en sus cargos hasta que entren en funciones los nuevos Miembros Electos.
+
+Los miembros de las Alcaldías no podrán ser reelectos para el período inmediato, cualquiera que haya sido el tiempo de su ejercicio.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
+###### ARTICULO 132.
+
+Para ser miembro de una Alcaldía se requiere, además de haber cumplido 21 años de edad y un mínimo de tres años de residencia en la localidad de que se trate, reunir los mismos requisitos que ésta Ley exige para ser Miembro del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
+###### ARTICULO 133.
+
+Las Alcaldías presentarán al Ayuntamiento respectivo, por conducto del Presidente Municipal, su Proyecto de Presupuesto de Ingresos y Egresos para su incorporación a los Presupuestos Anuales del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
+###### ARTICULO 134.
+
+El Ayuntamiento determinará el monto de las asignaciones presupuestales fijas que correspondan a las Alcaldías tomando como base los siguientes conceptos:
+
+A) La recaudación de los impuestos predial y de traslado de dominio dentro de la jurisdicción de la Alcaldía;
+
+B) La parte proporcional que les corresponda en los términos de su población, tomando como referencia los Egresos Municipales per-capita del año inmediato anterior;
+
+C) Los cobros que como contraprestaciones fiscales, en su jurisdicción deban percibir las Alcaldías por los servicios que presten;
+
+D) El apoyo extraordinario que les asigne el Ayuntamiento Municipal;
+
+E) El apoyo extraordinario que les asigne el Gobierno del Estado por conducto del Ayuntamiento; y
+
+F) Los demás ingresos lícitos que obtengan para la realización de los fines que les señala la presente ley.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
+###### ARTICULO 135.
+
+Las Alcaldías presentarán al Ayuntamiento, por conducto del Presidente Municipal, informes administrativos semestrales que serán sometidos a la consideración del Cabildo para su correspondiente aprobación, y que se difundirán en la localidad. La Contraloría Municipal vigilará la correcta aplicación de los recursos asignados a las Alcaldías.
+
+### CAPITULO SEXTO. DE LOS DELEGADOS Y SUBDELEGADOS MUNICIPALES
+
+###### ARTICULO 136.
+
+En las ciudades, villas o pueblos que no sean cabeceras municipales se elegirán Delegados, y en las rancherías y congregaciones Subdelegados, que tendrán a su cargo el desempeño de las tareas administrativas encomendadas por esta Ley.
+
+###### ARTICULO 137.
+
+Las Delegaciones y Subdelegaciones Municipales serán órganos desconcentrados de la Administración Municipal y como tales dependerán del Presidente Municipal, ejercerán las facultades y atribuciones que a aquél corresponden en el ámbito territorial que le sea asignado y contarán con el personal y presupuesto que el Ayuntamiento les señale.
+
+###### ARTICULO 138.
 
 Los Delegados y Subdelegados Municipales serán electos en forma directa en las asambleas de vecinos de las comunidades correspondientes, las cuales serán convocadas por el Presidente Municipal dentro de los primeros 180 días de su gestión. Las asambleas de vecinos serán presididas por el representante oficial que al efecto nombre el Presidente Municipal.
 
@@ -1309,7 +1479,7 @@ Cada ayuntamiento deberá acordar previamente la creación de Delegaciones y Sub
 
 El Delegado o Subdelegado, deberá reunir los mismos requisitos que esta Ley exige para ser miembro del Ayuntamiento.
 
-###### ARTICULO 127.
+###### ARTICULO 139.
 
 Las facultades y obligaciones del Delegado o Subdelegado Municipal serán los que el Ayuntamiento les confiera, las cuales serán:
 
@@ -1339,23 +1509,31 @@ XII.- Procurar todo aquello que tienda a realizar el bienestar de la comunidad; 
 
 XIII.- Las demás que le señale el reglamento interior o los acuerdos del Ayuntamiento.
 
-###### ARTICULO 128.
+###### ARTICULO 140.
 
 Los Delegados y Subdelegados Municipales ejercerán las atribuciones a que se refieren los artículos anteriores por acuerdo del Presidente Municipal respectivo, del que dependerán administrativamente.
 
-###### ARTICULO 129.
+### CAPITULO SEPTIMO. ORGANOS DE PARTICIPACION Y COLABORACION CIUDADANA
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
+
+###### ARTICULO 141.
 
 En los centros de población que por su diversidad demográfica o extensión territorial sean considerados como importantes por el Ayuntamiento, a propuesta del Presidente Municipal, se procurará que las delegaciones que se establezcan, procuren la participación de sus habitantes en el ámbito de la propia delegación, en el planteamiento y solución de sus problemas y para el eficaz cumplimiento de sus funciones.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE MAYO DE 1987)</small>
 
-###### ARTICULO 130.
+### CAPITULO OCTAVO. DE LA RELACION DEL TRABAJO EN LOS MUNICIPIOS
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
+###### ARTICULO 142.
 
 Este Capítulo regula las formas de participación y colaboración ciudadana que se instrumentarán en los centros de población de los Municipios del Estado, con el propósito de fortalecer el régimen de democracia participante, vincular permanentemente a gobernantes y gobernados y propiciar la colaboración directa y efectiva de los ciudadanos en la ejecución de programas de obras y servicios públicos.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
-###### Artículo 131.
+###### Artículo 143.
 
 Los ayuntamientos podrán establecer, con el fin mencionado en el artículo anterior, los siguientes órganos de participación y colaboración ciudadana.
 
@@ -1371,13 +1549,13 @@ CONSEJO CONSULTIVO
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
-###### ARTICULO 132.
+###### ARTICULO 144.
 
 El Consejo Consultivo podrá integrarse en cada localidad de los Municipios del Estado será un órgano de consulta del Presidente Municipal cuya finalidad primordial es el estudio de análisis de los asuntos que sean puestos a su consideración y la presentación al Presidente Municipal de Alternativas viables para el mejor desarrollo de la comunidad, así como para la solución de los problemas que eventualmente surjan en la propia localidad.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
-###### ARTICULO 133.
+###### ARTICULO 145.
 
 El Consejo Consultivo tendrá las siguientes funciones:
 
@@ -1395,55 +1573,49 @@ F) Aquellos que específicamente le señale el Presidente Municipal.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
-###### ARTICULO 134.
+###### ARTICULO 146.
 
 El Presidente Municipal recibirá opiniones, sugerencias y propuestas que le presente el Consejo Consultivo en calidad de alternativas y las tomará en cuenta como recomendaciones valiosas en el ejercicio de sus responsabilidades sin estar vinculado obligatoriamente a tales recomendaciones.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
-###### ARTICULO 135.
+###### ARTICULO 147.
 
 El Consejo Consultivo se integrará con un mínimo de 6 a un máximo de 12 miembros, tendrá una vigencia máxima de tres años y contará con un Presidente y un Secretario, electos por el propio Consejo, quienes durarán en su cargo un año y podrán ser reelectos cuando así lo decida la mayoría del Consejo.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
-### CAPITULO SEXTO. ORGANOS DE PARTICIPACION Y COLABORACION CIUDADANA
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
-
-###### ARTICULO 136.
+###### ARTICULO 148.
 
 El Presidente Municipal decidirá el número de integrantes de cada Consejo y otorgará la distinción ciudadana a quienes deban constituirlo. Los cargos serán honoríficos, gratuitos y a título personal, con independencia de la (sic) asociaciones, Cámaras o grupos constituidos a que en ese momento pertenezca el miembro del Consejo. En todo caso los integrantes del Consejo deberán residir en la localidad, no desempeñar algún cargo público, ser personas de reconocida calidad moral y destacarse por su espíritu de cooperación y colaboración en los asuntos comunitarios.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
-###### ARTICULO 137.
+###### ARTICULO 149.
 
 El Consejo Consultivo se reunirá mediante convocatoria del Presidente Municipal y sesionará cuando menos una vez al mes en el Palacio Municipal o en la Delegación de la localidad respectiva, el Consejo podrá celebrar reuniones de trabajo en otro lugar, cuando así se requiera por la índole de los asuntos a tratar.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
-###### ARTICULO 138.
+###### ARTICULO 150.
 
 El Presidente del Consejo Consultivo dialogará con el Presidente Municipal a fin de determinar el orden del día para las reuniones del Consejo y el Secretario se hará cargo de los citatorios correspondientes, de las minutas de las reuniones, de proporcionar a los miembros del Consejo los documentos que se requieran así como del registro, archivo y conservación de las actuaciones del Consejo.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
 
-###### ARTICULO 139.
+###### ARTICULO 151.
 
 El Presidente del Consejo conducirá las reuniones, asegurando que los puntos de vista de sus integrantes sean libremente expresados y escuchados, atendiendo en todo momento a la eficacia del Consejo, a fin de que éste órgano consultivo auxilie en forma debida al Presidente Municipal, proporcionándole oportunamente la asesoría que solicite.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
 
-###### ARTICULO 140.
+###### ARTICULO 152.
 
 Los períodos de tres años de los Consejos Consultivos corresponderán a los trienios de las administraciones municipales y cada Presidente Municipal al entrar en funciones podrán integrar los Consejos correspondientes. Sin embargo el Consejo Consultivo en funciones al inicio de su nueva administración municipal, permanecerá en su cargo el tiempo necesario para entregar los documentos y archivos relativos y sobre todo, proporcionar información y antecedentes generales sobre todos aquellos asuntos que sean de interés para el Presidente entrante.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
 
-### CAPITULO SEPTIMO. DE LA RELACION DEL TRABAJO EN LOS MUNICIPIOS
-
-###### ARTICULO 141.
+###### ARTICULO 153.
 
 Los integrantes del Consejo Consultivo dejarán de formar parte de él y serán sustituidos por quienes designe el Presidente Municipal en los siguientes casos:
 
@@ -1461,51 +1633,49 @@ COMITES DE PARTICIPACION CIUDADANA
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
 
-### CAPITULO PRIMERO. DE LAS GARANTIAS Y RECURSOS
-
-###### ARTICULO 142.
+###### ARTICULO 154.
 
 Los Comités de Participación Ciudadana son grupos específicamente integrados para organizar y hacer efectiva y directa la participación ciudadana en la ejecución de obras públicas o en la prestación de servicios a la comunidad.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
 
-###### ARTICULO 143.
+###### ARTICULO 155.
 
 Los Comités de Participación Ciudadana se integrarán previa aprobación del Cabildo, serán temporales y su duración estará determinada por el programa a realizar, al termino del cual, concluirán sus funciones.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
 
-###### ARTICULO 144.
+###### ARTICULO 156.
 
 La integración de los Comités podrá ser sugerida por asociaciones y grupos ya organizados, por cualesquiera de los tres niveles de gobierno o bien por ciudadanos interesados en la realización concreta de una obra o en la prestación de algunos de los servicios públicos de la localidad. Cada Comité tendrá, salvo lo previsto por el Artículo 149, entre 6 y 8 miembros y uno de ellos lo presidirá, haciéndose responsable de la acción conjunta del comité.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
 
-###### ARTICULO 145.
+###### ARTICULO 157.
 
 Las actividades de los Comités serán normadas por un convenio de Participación Ciudadana, mediante el cual se concertarán, las acciones a realizar. Este convenio será signado por los miembros del Comité, por el Presidente Municipal y por el representante de cada una de las instancias de gobierno que aporten recursos para la realización del programa concertado.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
 
-###### ARTICULO 146.
+###### ARTICULO 158.
 
 En el convenio de Participación Ciudadana se definirán con precisión las acciones a que se compromete cada una de las partes, en todo caso, el gobierno municipal y el gobierno estatal dentro de sus respectivas competencias, prestarán al Comité la asesoría técnica que requiera, lo auxiliarán en los trámites legales y oficiales que sean necesarios para la realización del programa y efectuarán las gestiones requeridas ante las autoridades competentes.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
 
-###### ARTICULO 147.
+###### ARTICULO 159.
 
 El contenido de la Participación Ciudadana será plasmado en el convenio y podrá consistir en una aportación de mano de obra, de materiales de construcción de estudios técnicos o financieros, de cooperación económica, de actividades de supervisión y vigilancia, de control de adquisiciones y pagos, de registro de los avances y cumplimiento del programa o de la obra, de intervención en la selección de los contratistas, y en general, cualquier otro tipo de colaboración que sea convenida.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
 
-###### ARTICULO 148.
+###### ARTICULO 160.
 
 El origen y la forma de distribución del presupuesto que se asigne a las obras y programas que se realicen a través de un Comité de Participación Ciudadana, deberán especificarse en el convenio y será responsabilidad de todas las partes que sean aplicados en la forma prevista.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
 
-###### ARTICULO 149.
+###### ARTICULO 161.
 
 Cuando la materia del convenio de Participación Ciudadana se relacione con la seguridad pública de la localidad, el Comité se integrará con un mínimo de 8 miembros y contará además del Presidente con un Secretario que lleve un control documental de las acciones del Comité en estos casos, el gobierno municipal designará un representante con conocimientos y experiencia en la materia que vincule el Comité con el área de seguridad pública municipal.
 
@@ -1515,51 +1685,59 @@ COMITES DE VECINOS
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
 
-###### ARTICULO 150.
+###### ARTICULO 162.
 
 Los Comités de Vecinos son órganos de colaboración ciudadana que podrán instalarse en las localidades de los municipios con el fin de propiciar una permanente comunicación entre gobernantes y gobernados, vinculando su intervención en los asuntos comunitarios.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
 
-###### ARTICULO 151.
+###### ARTICULO 163.
 
 Los Comités de Vecinos se integrarán, respetando en todo caso, las peculiaridades de cada municipio por barrios, manzanas, colonias, sectores, ejidos y rancherías y cada Ayuntamiento podrá determinar su temporalidad, el número de sus integrantes y las normas de funcionamiento.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
 
-###### ARTICULO 152.
+###### ARTICULO 164.
 
 La integración de estos órganos de Participación Ciudadana deberá facilitar los procesos de consulta popular permanente y propiciar una democracia más participativa, creando conciencia comunitaria de la responsabilidad conjunta de gobernantes y gobernados respecto a la buena marcha de la vida colectiva.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
 
-###### ARTICULO 153.
+###### ARTICULO 165.
 
 Los Comités de Vecinos tendrán como una de sus funciones primordiales el contribuir al mejoramiento de los servicios públicos en el área de su demarcación. Para ello, ejercerán una permanente vigilancia comunicando a la autoridad municipal cualquier irregularidad en sus funcionamientos y al mismo tiempo harán propuestas para extender los servicios o bien para mejorar su calidad.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
 
-###### ARTICULO 154.
+###### ARTICULO 166.
 
 Cuando estas propuestas impliquen acciones o programas específicos o bien conduzcan a la realización de una obra o a la prestación de un servicio la Participación de los Vecinos será encauzada a través de un Comité de Participación Ciudadana en los términos de los artículos 142 A 149 de esta misma Ley.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
 
-###### ARTICULO 155.
+###### ARTICULO 167.
 
 Los Comités de Vecinos tendrán así mismo la función de promover la mutua ayuda entre los residentes de su zona, previniendo también la forma de organizarse en caso de emergencias urbanas, incendios, ciclones y en general cualquier desastre que afecte la vida comunitaria.
 
-###### ARTICULO 156.
+### CAPITULO PRIMERO. DE LAS GARANTIAS Y RECURSOS
 
-Las relaciones laborales de los Municipios y sus trabajadores se regirán por la Ley que expida la Legislatura del Estado.
+###### ARTICULO 168.
 
-###### ARTICULO 157.
+Las Relaciones Laborales de los Municipios, incluyendo sus Organos Descentralizados, y sus trabajadores, se regirán por la Ley de los Trabajadores al Servicio de los Poderes Legislativo Ejecutivo y Judicial, de los Ayuntamientos y de los Organos Descentralizados del Estado de Quintana Roo.
+
+## TITULO IX. DE LAS GARANTIAS, RECURSOS, RESPONSABILIDADES Y SANCIONES
+
+### CAPITULO SEGUNDO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS Y EMPLEADOS MUNICIPALES
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
+###### ARTICULO 169.
 
 Contra los acuerdos del Ayuntamiento, relativos a calificaciones y sanciones por faltas a los reglamentos, procederá el recurso de reconsideración, el cual será interpuesto por el afectado dentro de los tres días siguientes a aquél en que se le haya notificado.
 
 Tratándose de multas por faltas a los reglamentos, sólo se dará curso a la reconsideración, si comprueba haber depositado en la Tesorería Municipal el importe de aquellas en calidad de garantía, hasta en tanto no se resuelva el recurso interpuesto.
 
-###### ARTICULO 158.
+###### ARTICULO 170.
 
 El Ayuntamiento, en cada sesión que celebre, conocerá de los recursos interpuestos; y considerando las razones del recurrente, procederá a confirmar, revocar o modificar el acuerdo o calificación recurrida, haciéndolo del conocimiento del interesado en un plazo no mayor de 3 días.
 
@@ -1567,25 +1745,27 @@ El Secretario del Ayuntamiento recibirá los recursos y de inmediato los hará d
 
 En caso de urgencia, el Presidente Municipal al conocer de los recursos, podrá convocar a sesiones extraordinarias.
 
-###### ARTICULO 159.
+### CAPITULO TERCERO. DE LAS SANCIONES
 
-Son Servidores Públicos: El Presidente Municipal, Síndico, Regidores Titulares, Secretario y Tesorero del Ayuntamiento, Titulares de los Cuerpos de Seguridad Pública y Tránsito, de Readaptación Social y Titulares de las Unidades y de los Servicios Públicos, los Alcaides y los Delegados, Subdelegados, y Servidores Públicos de confianza del Ayuntamiento.
+###### ARTICULO 171.
 
-Los Servidores Públicos serán responsables de los delitos, actos u omisiones o faltas oficiales que cometan en el ejercicio de sus funciones o con motivo de ellas y se estará a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Son Servidores Públicos Municipales: El Presidente Municipal, Síndico, Regidores, Secretario y Tesorero del Ayuntamiento, Titulares de los Cuerpos de Seguridad Pública y Tránsito, de Readaptación social y Titulares de las Unidades Administrativas y de los Servicios Públicos, los miembros de las Alcaldías, Delegados, Subdelegados Municipales y los Servidores Públicos de Confianza del Ayuntamiento.
 
-###### ARTICULO 160.
+Los Servidores Públicos Municipales serán responsables de los delitos, actos, omisiones o faltas oficiales que cometan en el ejercicio de sus funciones o con motivo de ellas. En estos casos, se aplicará lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo.
+
+###### ARTICULO 172.
 
 Las faltas de los miembros del Ayuntamiento podrán ser sancionados por el Ejecutivo del Estado con la aprobación de la Legislatura.
 
-###### ARTICULO 161.
+###### ARTICULO 173.
 
 Las faltas a los acuerdos y reglamentos, deberán ser calificadas o sancionadas por el servidor público designado por el Ayuntamiento, dentro de las 24 horas siguientes a la detención del infractor o del aseguramiento del instrumento y objeto de la infracción.
 
-###### ARTICULO 162.
+###### ARTICULO 174.
 
 Los Presidentes Municipales se sujetarán a las disposiciones contenidas en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y en el Artículo 29 de la Constitución Política del Estado, en relación a la fijación de multas o arrestos por faltas cometidas de que habla el artículo anterior.
 
-###### ARTICULO 163.
+###### ARTICULO 175.
 
 Las infracciones a los acuerdos y reglamentos municipales que no tengan establecidas sanciones, se sancionarán:
 
@@ -1607,7 +1787,7 @@ V.- Clausura.
 
 VI.- Pago al Municipio del daño causado, sin perjuicio de las demás sanciones que procedan conforme a las leyes.
 
-###### ARTICULO 164.
+###### ARTICULO 176.
 
 Los Ayuntamientos, para asegurar el cumplimiento de las leyes y evitar los daños inminentes o los ya perjudiciales, pueden adoptar y mandar ejecutar de inmediato contra los responsable, las medidas de seguridad siguientes:
 
@@ -1617,17 +1797,11 @@ II.- Desocupación o desalojo de personas y cosas de lugares públicos y bienes 
 
 III.- Cualesquiera que tiendan a proteger de inmediato a las personas, los bienes y la seguridad pública, en los casos de extrema urgencia.
 
-###### ARTICULO 165.
+###### ARTICULO 177.
 
 Podrán imponerse al infractor simultáneamente las sanciones y medidas de seguridad que establezcan las leyes, sin perjuicio de la responsabilidad penal en la que incurriere.
 
 TRANSITORIOS:
-
-### CAPITULO SEGUNDO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS Y EMPLEADOS MUNICIPALES
-
-## TITULO IX. DE LAS GARANTIAS, RECURSOS, RESPONSABILIDADES Y SANCIONES
-
-### CAPITULO TERCERO. DE LAS SANCIONES
 
 ###### ARTICULO PRIMERO.
 
@@ -1654,3 +1828,13 @@ En cumplimiento a lo dispuesto por la Fracción I del Artículo 91 de la Constit
 P.O. 29 DE MAYO DE 1987.
 
 Artículo único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 1992.
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Los primeros procesos para elegir a los miembros de las Alcaldías se realizarán durante los 30 días posteriores al establecimiento de las Alcaldías que hagan los Ayuntamientos, mismas que deberán renovarse al cambio de los Ayuntamientos, a partir del Período 1993-1996, en los términos de esta Ley.
+
+TERCERO.- Los Ayuntamientos que determinen crear Alcaldías para alguna de sus poblaciones, quedan facultados para determinar las asignaciones y, en su caso, las ampliaciones presupuestales proporcionales y necesarias para el período que falta del año fiscal 1992.
+
+CUARTO.- Los Ayuntamientos, incluirán en forma permanente en sus Respectivos Presupuestos, los correspondientes a las Alcaldías, a partir del ejercicio fiscal de 1993.
