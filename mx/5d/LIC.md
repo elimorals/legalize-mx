@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2002-12-24"
+last_updated: "2003-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -1206,13 +1206,21 @@ XXVII. Las análogas o conexas que autorice la Secretaría de Hacienda y Crédit
 
 La realización de las operaciones señaladas en las fracciones XXIV y XXVI de este artículo, así como el cumplimiento de las obligaciones de las partes, se sujetarán a lo previsto por esta Ley y, en lo que no se oponga a ella, por la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
 
-> <small>(REFORMADO, PRIMER PARRAFO D.O.F. 24 DE JUNIO DE 2002)</small>
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+###### ARTICULO 46 Bis.
+
+Las instituciones de crédito, conforme a las disposiciones de carácter general que al efecto expida la Comisión Nacional Bancaria y de Valores, podrán contratar con terceros e incluso con otras instituciones de crédito, la prestación de los servicios necesarios para su operación. A quienes presten los servicios referidos, les serán aplicables las disposiciones legales relativas a los secretos previstos en los artículos 117 y 118 de esta misma Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 47.
 
-Las instituciones de banca de desarrollo realizarán, además de las señaladas en el artículo anterior, las operaciones necesarias para la adecuada atención del correspondiente sector de la economía nacional y el cumplimiento de las funciones y objetivos que le sean propios, conforme a las modalidades y excepciones que respecto a las previstas en ésta u otras leyes, determinen sus leyes orgánicas. Por lo que corresponde a los sistemas de registro y contabilidad de las operaciones bancarias no será aplicable lo dispuesto en la fracción VIII del artículo 37 de la Ley Orgánica de la Administración Pública Federal.
+Las instituciones de banca de desarrollo realizarán, además de las señaladas en el artículo 46 de esta Ley, las operaciones necesarias para la adecuada atención del correspondiente sector de la economía nacional y el cumplimiento de las funciones y objetivos que les sean propios, conforme a las modalidades y excepciones que respecto a las previstas en ésta u otras leyes determinen sus leyes orgánicas. Por lo que corresponde a los sistemas de registro y contabilidad de las operaciones bancarias no será aplicable lo dispuesto en la fracción VIII de la Ley Orgánica de la Administración Pública Federal.
 
-Las operaciones a que se refieren las fracciones I y II del artículo anterior, las realizarán las instituciones de banca de desarrollo con vistas a facilitar a los beneficiarios de sus actividades, el acceso al servicio de banca y crédito y propiciar en ellos el hábito del ahorro y el uso de los servicios que presta el Sistema Bancario Mexicano, de manera que no se produzcan desajustes en los sistemas de captación de recursos del público.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Las operaciones a que se refieren las fracciones I y II del artículo 46 de esta Ley, las realizarán las instituciones de banca de desarrollo con vistas a facilitar a los beneficiarios de sus actividades el acceso al servicio de banca y crédito y propiciar en ellos el hábito del ahorro y el uso de los servicios que presta el Sistema Bancario Mexicano, de manera que no se produzcan desajustes en los sistemas de captación de los recursos del público.
 
 Los bonos bancarios que emitan las instituciones de banca de desarrollo, deberán propiciar el desarrollo del mercado de capitales y la inversión institucional.
 
@@ -1524,7 +1532,9 @@ Los contratos de crédito refaccionario y de habilitación o avío, que celebren
 
 I. Se consignarán, según convenga a las partes y cualquiera que sea su monto, en póliza ante corredor público titulado, en escritura pública o en contrato privado, que en este último caso se firmará por triplicado ante dos testigos y se ratificará ante notario público, corredor público titulado, juez de primera instancia en funciones de notario o ante el encargado del Registro Público correspondiente;
 
-II. Sin satisfacer más formalidades que las señaladas en la fracción anterior, se podrán establecer garantías reales sobre bienes muebles o inmuebles, además de los que constituyen la garantía propia de estos créditos, o sobre la unidad industrial, agrícola, ganadera o de servicios con las características que se mencionan en el artículo siguiente;
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+II. Sin satisfacer más formalidades que las señaladas en la fracción anterior, se podrán establecer garantías reales sobre bienes muebles o inmuebles, además de los que constituyen la garantía propia de estos créditos, o sobre la unidad agrícola, ganadera o de otras actividades primarias, industrial, comercial o de servicios, con las características que se mencionan en el artículo siguiente;
 
 III. Los bienes sobre los cuales se constituya la prenda, en su caso, podrán quedar en poder del deudor en los términos establecidos en el artículo 329 de la Ley General de Títulos y Operaciones de Crédito;
 
@@ -1532,9 +1542,11 @@ IV. El deudor podrá usar y disponer de la prenda que quede en su poder, conform
 
 V. No excederá del cincuenta por ciento la parte de los créditos refaccionarios que se destine a cubrir los pasivos a que se refiere el párrafo segundo el artículo 323 de la Ley General de Títulos y Operaciones de Crédito. La Comisión Nacional Bancaria podrá autorizar, en casos excepcionales, que se exceda este límite.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 67.
 
-Las hipotecas constituidas en favor de instituciones de crédito sobre la unidad completa de una empresa industrial, agrícola, ganadera o de servicios, deberán comprender la concesión o autorización respectiva, en su caso; todos los elementos materiales, muebles o inmuebles afectos a la explotación, considerados en su unidad. Podrán comprender además, el dinero en caja de la explotación corrientey (sic) los créditos a favor de la empresa, originados por sus operaciones, sin perjuicio de la posibilidad de disponer de ellos y de sustituirlos en el movimiento normal de las operaciones, sin necesidad del consentimiento del acreedor, salvo pacto en contrario.
+Las hipotecas constituidas a favor de las instituciones de crédito sobre la unidad completa de la empresa agrícola, ganadera o de otras actividades primarias, industrial, comercial o de servicios, deberán comprender la concesión o autorización respectiva, en su caso; todos los elementos materiales, muebles o inmuebles afectos a la explotación, considerados en su unidad. Podrán comprender además, el dinero en caja de la explotación corriente y los créditos a favor de la empresa, originados por sus operaciones, sin perjuicio de la posibilidad de disponer de ellos y de sustituirlos en el movimiento normal de las operaciones, sin necesidad del consentimiento del acreedor, salvo pacto en contrario.
 
 Las instituciones de crédito acreedoras de las hipotecas a que se refiere este artículo, permitirán la explotación de los bienes afectos a las mismas conforme al destino que les corresponda, y tratándose de bienes afectos a una concesión de servicio público, las alteraciones o modificaciones que sean necesarias para la mejor prestación del servicio público correspondiente. Sin embargo, las instituciones acreedoras podrán oponerse a la venta o enajenación de parte de los bienes y a la fusión con otras empresas, en caso de que se origine con ello un peligro para la seguridad de los créditos hipotecarios.
 
@@ -1546,11 +1558,13 @@ Será aplicable en lo pertiente (sic) a las hipotecas a que se refiere este art�
 
 Los contratos o las pólizas en los que, en su caso, se hagan constar los créditos que otorguen las instituciones de crédito, junto con los estados de cuenta certificados por el contador facultado por la institución de crédito acreedora, serán títulos ejecutivos, sin necesidad de reconocimiento de firma ni de otro requisito.
 
-El estado de cuenta certificado por el contador a que se refiere este artículo, hará fe, salvo prueba en contrario, en los juicios respectivos para la fijación de los saldos resultantes a cargo de los acreditados o de los mutuatarios, en todos los casos en que por establecerse así en el contrato:
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-I. El acreditado o el mutuatario pueda disponer de la suma acreditada o del importe de los préstamos en cantidades parciales o esté autorizado para efectuar reembolsos previos al vencimiento del plazo señalado en el contrato, y
+El estado de cuenta certificado por el contador a que se refiere este artículo, hará fe, salvo prueba en contrario, en los juicios respectivos para la fijación de los saldos resultantes a cargo de los acreditados o de los mutuatarios.
 
-II. Se pacte la celebración de operaciones o la prestación de servicios, mediante el uso de equipos y sistemas automatizados.
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+El estado de cuenta certificado antes citado deberá contener nombre del acreditado; fecha del contrato; notario y número de escritura, en su caso; importe del crédito concedido; capital dispuesto; fecha hasta la que se calculó el adeudo; capital y demás obligaciones de pago vencidas a la fecha del corte; las disposiciones subsecuentes que se hicieron del crédito, en su caso; tasas de intereses ordinarios que aplicaron por cada periodo; pagos hechos sobre los intereses, especificando las tasas aplicadas de intereses y las amortizaciones hechas al capital; intereses moratorios aplicados y tasa aplicable por intereses moratorios.
 
 ###### ARTICULO 69.
 
@@ -1574,7 +1588,7 @@ Salvo pacto en contrario y en los términos de los usos internacionales a este r
 
 ###### ARTICULO 72.
 
-Cuando el crédito tenga garantía real, el acreedor podrá ejercitar sus acciones en juicio ejecutivo mercantil, ordinario, o el que en su caso corresponda, conservando la garantía real y su preferencia aun cuando los bienes gravados se señalen para la práctica de la ejecución.
+(DEROGADO, D.O.F. 13 DE JUNIO DE 2003)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
@@ -1758,9 +1772,11 @@ Las acciones para pedir cuentas, para exigir la responsabilidad de las instituci
 
 En caso de renuncia o remoción se estará a lo dispuesto en el párrafo final del artículo 350 de la Ley General de Títulos y Operaciones de Crédito.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 85.
 
-Cuando se trate de operaciones de fideicomiso que constituya el Gobierno Federal o que el mismo, para los efectos de este artículo declare de interés público a través de la Secretaría de Hacienda y Crédito Público, no será aplicable el plazo que establece la fracción III del artículo 359 de la Ley General de Títulos y Operaciones de Crédito.
+Cuando se trate de operaciones de fideicomiso que constituya el Gobierno Federal o que él mismo, para los efectos de este artículo, declare de interés público a través de la Secretaría de Hacienda y Crédito Público, no será aplicable el plazo que establece la fracción III del artículo 394 de la Ley General de Títulos y Operaciones de Crédito.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
@@ -2028,9 +2044,9 @@ A las instituciones de crédito les estará prohibido:
 
 I. Dar en garantía sus propiedades;
 
-> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-II. Dar en prenda o caución bursátil los títulos o valores de su cartera, salvo que se trate de operaciones con el Banco de México, con las instituciones de banca de desarrollo, y los fideicomisos públicos constituidos por el Gobierno Federal para el fomento económico;
+II. Dar en garantía, incluyendo prenda, caución bursátil o fideicomiso de garantía, efectivo, derechos de crédito a su favor o los títulos o valores de su cartera, salvo que se trate de operaciones con el Banco de México, con las instituciones de banca de desarrollo, con el Instituto para la Protección al Ahorro Bancario o los fideicomisos públicos constituidos por el Gobierno Federal para el fomento económico;
 
 III. Dar en garantía títulos de crédito que emitan, acepten o conserven en tesorería;
 
@@ -2108,17 +2124,37 @@ XIX. En la realización de las operaciones a que se refiere la fracción XV del 
 
 a) Celebrar operaciones con la propia institución en el cumplimiento de fideicomisos, mandatos o comisiones. El Banco de México podrá autorizar, mediante disposiciones de carácter general, la realización de determinadas operaciones cuando no impliquen un conflicto de intereses;
 
-b) Responder a los fideicomitentes, mandantes o comitentes, del incumplimiento de los deudores, por los créditos que se otorguen o de los emisores, por los valores que se adquieran, salvo que sea por su culpa, según lo dispuesto en la parte final del artículo 356 de la Ley General de Títulos y Operaciones de Crédito, o garantizar la percepción de rendimientos por los fondos cuya inversión se les encomiende.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-Si al término del fideicomiso, mandato o comisión constituidos para el otorgamiento de créditos, éstos no hubieren sido liquidados por los deudores, la institución deberá transferirlos al fideicomitente o fideicomisario, según el caso, o al mandante o comitente, absteniéndose de cubrir su importe.
+b) Responder a los fideicomitentes, mandantes o comitentes, del incumplimiento de los deudores, por los créditos que se otorguen, o de los emisores, por los valores que se adquieran, salvo que sea por su culpa, según lo dispuesto en la parte final del artículo 391 de la Ley General de Títulos y Operaciones de Crédito, o garantizar la percepción de rendimientos por los fondos cuya inversión se les encomiende.
 
-Cualquier pacto contrario a lo dispuesto en los dos párrafos anteriores, no producirá efecto legal alguno.
+Si al término del fideicomiso, mandato o comisión constituidos para el otorgamiento de créditos, éstos no hubieren sido liquidados por los deudores, la institución deberá transferirlos al fideicomitente o fideicomisario, según sea el caso, o al mandante o comitente, absteniéndose de cubrir su importe.
 
-En los contratos de fideicomiso, mandato o comisión se insertarán en forma notoria los párrafos anteriores de este inciso y una declaración de la fiduciaria en el sentido de que hizo saber inequívocamente su contenido a las personas de quienes haya recibido bienes para su inversión;
+En los contratos de fideicomiso, mandato o comisión se insertará en forma notoria lo dispuesto en este inciso y una declaración de la fiduciaria en el sentido de que hizo saber inequívocamente su contenido a las personas de quienes haya recibido bienes o derechos para su afectación fiduciaria;
 
-c) Utilizar fondos o valores de los fideicomisos, mandatos o comisiones destinados al otorgamiento de créditos, en que la fiduciaria tenga la facultad discrecional, en el otorgamiento de los mismos para realizar operaciones en virtud de los cuales resulten o puedan resultar deudores sus delegados fiduciarios; los miembros del consejo de administración o consejo directivo, según corresponda, tanto propietarios como suplentes, estén o no en funciones; los empleados y funcionarios de la institución; los comisarios propietarios o suplentes, estén o no en funciones; los auditores externos de la institución; los miembros del comité técnico del fideicomiso respectivo; los ascendientes o descendientes en primer grado o cónyuges de las personas citadas, las sociedades en cuyas asambleas tengan mayoría dichas personas o las mismas instituciones, asimismo aquellas personas que el Banco de México determine mediante disposiciones de carácter general, y
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-d) Administrar fincas rústicas, a menos que hayan recibido la administración para distribuir el patrimonio entre herederos, legatarios, asociados o acreedores, o para pagar una obligación o para garantizar su cumplimiento con el valor de la misma finca o de sus productos, y sin que en estos casos la administración exceda del plazo de dos años.
+c) Actuar como fiduciarias, mandatarias o comisionistas en fideicomisos, mandatos o comisiones, respectivamente, a través de los cuales se capten, directa o indirectamente, recursos del público, mediante cualquier acto causante de pasivo directo o contingente, excepto tratándose de fideicomisos constituidos por el Gobierno Federal a través de la Secretaría de Hacienda y Crédito Público, y de fideicomisos a través de los cuales se emitan valores que se inscriban en el Registro Nacional de Valores de conformidad con lo previsto en la Ley del Mercado de Valores;
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+d) Desempeñar los fideicomisos, mandatos o comisiones a que se refiere el segundo párrafo del artículo 88 de la Ley de Sociedades de Inversión;
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+e) Actuar en fideicomisos, mandatos o comisiones a través de los cuales se evadan limitaciones o prohibiciones contenidas en las leyes financieras;
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+f) Utilizar fondos o valores de los fideicomisos, mandatos o comisiones destinados al otorgamiento de créditos, en que la fiduciaria tenga la facultad discrecional, en el otorgamiento de los mismos para realizar operaciones en virtud de las cuales resulten o puedan resultar deudores sus delegados fiduciarios; los miembros del consejo de administración o consejo directivo, según corresponda, tanto propietarios como suplentes, estén o no en funciones; los empleados y funcionarios de la institución; los comisarios propietarios o suplentes, estén o no en funciones; los auditores externos de la institución; los miembros del comité técnico del fideicomiso respectivo; los ascendientes o descendientes en primer grado o cónyuges de las personas citadas, las sociedades en cuyas asambleas tengan mayoría dichas personas o las mismas instituciones, asimismo aquellas personas que el Banco de México determine mediante disposiciones de carácter general, y
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+g) Administrar fincas rústicas, a menos que hayan recibido la administración para distribuir el patrimonio entre herederos, legatarios, asociados o acreedores, o para pagar una obligación o para garantizar su cumplimiento con el valor de la misma finca o de sus productos, y sin que en estos casos la administración exceda del plazo de dos años, salvo los casos de fideicomisos a la producción o fideicomisos de garantía.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Cualquier pacto contrario a lo dispuesto en los incisos anteriores, será nulo.
 
 > <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
 
@@ -3115,3 +3151,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 ...
 
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 13 DE JUNIO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Las disposiciones de este Decreto no serán aplicables a los créditos contratados con anterioridad a la fecha de entrada en vigor del mismo, ni aun tratándose de novación o reestructuración de créditos.
