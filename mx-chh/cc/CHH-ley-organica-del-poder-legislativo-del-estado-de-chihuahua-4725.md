@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2001-06-27"
+last_updated: "2002-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2002.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -681,11 +681,11 @@ Las comisiones, durante los recesos, continuarán el estudio de los asuntos pend
 
 Los dictámenes que se produzcan sobre asuntos que no llegue a conocer la Legislatura que los recibió, quedarán a disposición de la siguiente con el carácter de proyectos prioritarios.
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
 
 ###### Art. 62.
 
-Son comisiones de dictamen legislativo las siguientes:
+Son Comisiones de Dictamen Legislativo lo siguiente:
 
 I.- De Gobernación y Puntos Constitucionales;
 
@@ -731,9 +731,9 @@ XII.- De Participación Ciudadana;
 
 XVIII.- De Atención a Personas con Discapacidad y Grupos Vulnerables;
 
-> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
-XIV.- De Salud, Ecología y Medio Ambiente;
+XIV.- De Salud;
 
 > <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 1998)</small>
 
@@ -755,6 +755,10 @@ XVIII.- De Atención a Discapacitados y Grupos Vulnerables;
 
 XIX.- De Atención al Adulto Mayor.
 
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2002)</small>
+
+XX.- De Ecología y Medio Ambiente.
+
 Las comisiones tendrán a su cargo las cuestiones relacionadas con la materia propia de su denominación.
 
 La Junta de Coordinación Parlamentaria podrá proponer al pleno el aumento o la disminución del número de comisiones.
@@ -775,7 +779,9 @@ II.- Informar al Congreso o en su caso a la Diputación Permanente, sobre el man
 
 III.- Remitir a la Contaduría General, para su revisión y glosa, las cuentas públicas del Gobierno del Estado y de los municipios que le turne el presidente del Congreso;
 
-IV.- Ordenar a la Contaduría General del Congreso, cuando lo estime necesario para cumplir sus funciones, la práctica de visitas, inspecciones y auditorías;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
+IV.- Ordenar a la Contaduría General la práctica de visitas, inspecciones y auditorías, así como ampliaciones a las mismas, siempre que en este último caso se refieran a entes públicos cuyas cuentas públicas no hayan sido aprobadas o a los que se les haya negado su aprobación;
 
 V.- Emitir dictamen sobre la revisión y glosa de las cuentas públicas estatales y municipales practicadas por la Contaduría General del Congreso;
 
@@ -789,11 +795,11 @@ VII.- Las demás que le confieren esta Ley, la Ley Orgánica de la Contaduría G
 
 Las comisiones jurisdiccionales conocerán de las denuncias o acusaciones que se presenten contra los Servidores Públicos que gocen de Fuero Constitucional, así como de las solicitudes por parte del Ministerio Público para declarar si ha lugar a proceder penalmente en contra de aquéllos.
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
 
 ###### Art. 66.
 
-Las comisiones especiales se constituirán por aprobación del Pleno a propuesta de la Junta de Coordinación Parlamentaria para la realización de un trabajo específico y se extinguirán al término del mismo, o en todo caso, al concluir el último período de la Legislatura. Estas comisiones se ajustarán en su integración y funcionamiento a las disposiciones aplicables a las demás comisiones.
+Las Comisiones Especiales se constituirán por aprobación del Pleno a propuesta de la Junta de Coordinación Parlamentaria para la realización de un trabajo específico y se extinguirán al término del mismo, o en todo caso, al concluir el último período de la Legislatura. Estas Comisiones se ajustarán en su integración y funcionamiento a las disposiciones que para cada caso específico acuerde el Pleno a propuesta expresa de la Junta de Coordinación Parlamentaria. En lo no previsto expresamente se aplicarán las disposiciones relativas a las Comisiones de Dictamen Legislativo.
 
 Las comisiones especiales de cortesía a que se refiere el artículo 156 serán nombradas por el Pleno a propuesta del Presidente.
 
@@ -1684,3 +1690,17 @@ P.O. 27 DE JUNIO DE 2001.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE ENERO DE 2002.
+
+DECRETO No. 77
+
+ÚNICO.- El presente Decreto entrará en vigor inmediatamente después de su aprobación.
+
+P.O. 12 DE ENERO DE 2002.
+
+DECRETO No. 156
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Junta de Coordinación Parlamentaria, a efecto de cumplir lo dispuesto por el presente Decreto, someterá a la consideración del Pleno los cambios en los integrantes de las comisiones donde sea necesario, con fundamento en el artículo 45 de la Ley Orgánica del Poder Legislativo.
