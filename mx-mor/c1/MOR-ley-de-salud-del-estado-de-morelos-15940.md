@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-15940"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-19"
-last_updated: "2000-01-19"
+last_updated: "2002-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,959 +21,1391 @@ state: "MOR"
 ---
 # LEY DE SALUD DEL ESTADO DE MORELOS
 
-LEY DE SALUD DEL ESTADO DE MORELOS
+REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE ABRIL DE 2011.
 
-Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el 19 de enero de 2000.
+Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
-Al margen izquierdo un escudo del Estado de Morelos que dice.- La Tierra Volverá a Quienes la - Trabajan con sus Manos.- Poder Ejecutivo del Estado
+(Al margen superior izquierdo el escudo nacional que dice: ESTADOS UNIDOS MEXICANOS.- ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.- II LEGISLATURA)
 
-de Morelos.
+LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL,
 
-JORGE MORALES BARUD, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED
+II LEGISLATURA
 
-Que el H. Congreso del Estado se ha servido enviarme para su promulgación. lo siguiente:
+DECRETA:
 
-LA HONORABLE CUADRAGÉSIMA SÉPTIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 40 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS, Y
+REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-C O N S I D E R A N D O.
+## TITULO PRIMERO
 
-I.- Que sin duda alguna, el derecho a la salud se satisface con la atención médica, la prevención y control de enfermedades, educación a la población para preservar su salud, control sanitario, asistencia social y sobre todo el derecho a gozar de un ambiente sano y preservar el medio ambiente, ya que la salud no es solo ausencia de enfermedad sino un estado de completo bienestar físico y mental, en un contexto ecológico y social propicio para su sustento y desarrollo, acordes con el Plan Nacional y Estatal de Desarrollo 1995-2000 y 1994-2000.
-
-II.- Que el articulo 4º de la Constitución General de la República, establece la obligación del Estado de prestar, conforme a las Leyes correspondientes, los servicios necesarios para proteger la salud de los habitantes de la república y dispone que la Ley.
-
-III.- Mediante Decretos de fecha 11 de junio de 1991 y 7 de mayo de 1997, publicados en el Diario Oficial de la Federación el 14 de junio de 1991 y el 7 de mayo de 1997 respectivamente; el H. Congreso de la Unión reformó diversas disposiciones de la Ley General de Salud que afectan los rubros de la salubridad general y de su concurrencia por las Entidades Federativas, lo que hace necesario adecuar la legislación local para hacerla acorde con las reformas aprobadas por el H. Congreso de la Unión.
-
-IV.- En las últimas reformas a la Ley de Salud del Estado datan del 7 de julio de 1993, y que la mayoría de los conceptos y términos no corresponden a la situación actual, en tal virtud consideramos la conveniencia de expedir una nueva Ley de Salud, toda vez que ello permitirá la expedición, por parte de este Congreso de un ordenamiento en materia de salud, acorde con las actuales necesidades en salubridad local.
-
-V.- Considerándose los acuerdos Nacional para la Descentralización de los Servicios de Salud a los Estados publicado en el Diario Oficial el 25 de septiembre de 1996, de Coordinación para la Descentralización de los Servicios de Salud al Estado de Morelos publicado en el Diario Oficial el 16 de diciembre de 1996 y, el Decreto número Ochocientos Veinticuatro que crea el Organismo Público Descentralizado Denominado Servicios de Salud de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" con fecha 27 de noviembre de 1996, precedentes, que apoyan la necesidad de adecuar la presente Ley de Salud del Estado de Morelos.
-
-VI.- Tomando en cuenta que la Secretaria de Salud ha establecido con la federación y los Estados el compromiso de ejecutar el programa de reforma del sector salud y que por su parte, el Estado de Morelos ha iniciado el proceso de reforma mediante el acuerdo de descentralización de los servicios de salud, las modificaciones a la Ley de Salud vigente en la Entidad, resultan imperativas a efecto de establecer el adecuado marco jurídico que estos procesos conllevan.
-
-VII.- Esta Soberanía, consciente de la importancia que representa la descentralización de los servicios de salud; coincide con el iniciador en la conveniencia de establecer las bases, compromisos y responsabilidades para la organización de los servicios descentralizados a la Entidad que permitan al Gobierno del Estado contar con autonomía en el ejercicio de las facultades que le otorga la Ley General de Salud.
-
-VIII.- Por lo tanto fue necesario adecuar la Ley de Salud del Estado de Morelos, a fin de que el organismo público descentralizado denominado Servicios de Salud de Morelos, asuma las funciones transferidas por los acuerdos de descentralización de los servicios y de creación del propio organismo, así como a lo contemplado en la Ley General de Salud.
-
-IX.- Que el organismo descentralizado al poseer personalidad jurídica y patrimonios propios, tiene como objetivo, dirigir, administrar y supervisar los establecimientos, los servicios de salud y los recursos humanos, materiales y financieros que fueron transferidos al Gobierno del Estado por la Secretaria de Salud; igualmente prestará servicios de salud a la población abierta en la Entidad, dentro de la esfera de competencia y de conformidad con lo dispuesto por la Ley General de Salud y la Ley de Salud del Estado de Morelos.
-
-X.- Dentro de las disposiciones de la Ley de Salud del Estado que se analizan, deben destacarse los siguientes aspectos:
-
-a) Se regula ampliamente el sistema Estatal de salud, tanto en su integración como en sus objetivos.
-
-b) La iniciativa destaca la personalidad jurídica y funciones del organismo público descentralizado denominado "Servicios de Salud de Morelos" como autoridad sanitaria en el Estado.
-
-c) Se resalta el papel de coordinación del organismo público descentralizado "Servicios de Salud de Morelos" en el Sistema Estatal de Salud.
-
-d) Se reglamentan detalladamente las competencias del Gobierno del Estado por conducto del organismo publico descentralizado "Servicios de Salud de Morelos".
-
-e) Se consideró necesario incorporar la palabra "promoción" al concepto de "protección de la salud", en virtud de la obligación que el Estado asume de promover y proteger el nivel de salud de los individuos; condición que como derecho individual e inalienable del ser humano, establece para este, su propia responsabilidad para mantenerlo y mejorarlo.
-
-f) Se consideró necesario integrar a la Ley, el marco conceptual de un mínimo de satisfactores a proporcionar a la población, con una cobertura universal que operativamente se traduce en el paquete básico de servicios de salud, contemplado por los Programas Federal y Estatal de Reforma del Sector Salud.
-
-g) Se integró un Capítulo II dentro del Título Primero correspondiente a Disposiciones Generales, para establecer el carácter de autoridad sanitaria del organismo público descentralizado denominado "Servicios de Salud de Morelos".
-
-h) En materia de regulación, control y fomento sanitario; se amplían los aspectos regulatorios sobre el proceso de bebidas alcohólicas, haciendo énfasis en lo inherente a adulteraciones, contaminación o alteración, así como la proporción permitida de alcohol etílico.
-
-i) Es importante resaltar el control sanitario de la publicidad de la prestación de servicios de salud, como una medida precautoria contra fraudes en esta materia.
-
-j) Dentro de las atribuciones conferidas al Estado, según acuerdo de descentralización integral del 16 de diciembre de 1996, se efectuará el control sanitario del proceso se insumos para la salud, excepto la industria químico farmacéutica, marcando modalidades para la venta y suministro al público de medicamentos.
-
-k) En materia de salubridad local se determina la actividad de regulación, control y fomento sanitario, abriendo dos grandes rubros, uno que comprende algunos de los conceptos considerados en la Ley vigente, como competencia del Gobierno del Estado, en el que se incorpora el concepto de medicina alternativa, tradicional y herbolaria y, el otro, que comprende aspectos que en la Ley vigente están reservados para el Estado y que en la presente Ley se transfieren a los H. Ayuntamientos, otorgándoles competencia en la materia, en los rubros correspondientes a construcciones, limpieza pública, baños públicos y balnearios, centros de reunión y espectáculos, lavanderías, establecimientos para hospedaje, y granjas avícolas y porcícolas, apiarios y establecimientos similares, además se incorporan nuevos rubros, también dentro de la competencia municipal, tales como centro de acopio animal y control de fauna nociva, establecimientos semifijos y ambulantes que intervengan en cualquiera de la etapas del proceso de alimentos y sexo servicio, este último, tomando en consideración que el sexo servicio constituye un problema social que incide en la salud pública y como una medida para evitar en lo posible los riesgos en la propagación de enfermedades de transmisión sexual, principalmente y otras infectocontagiosas.
-
-l) Se crea el Consejo Estatal de Salud como un órgano de consulta y propuesta, y se establecen las bases para la creación de los consejos municipales de salud.
-
-m) Dentro del proceso de modernización y desregulación administrativa y operativa se prioriza el carácter sanitario, dando énfasis a las actividades, productos y servicios que infieren mayor riesgo a la salud y se desregulan tanto administrativa como operativamente aquellos que por iniciativa del Ejecutivo Federal y Estatal son considerados como de menor riesgo.
-
-n) Se consideró necesario incorporar en la Ley de Salud del Estado, los conceptos de atención a la salud del niño, la salud reproductiva, y la salud del adulto y del anciano, como actividades de carácter prioritario en la ejecución del Programa Estatal de Salud.
-
-o) Se ha substituido el capitulo correspondiente a planificación familiar a efecto de incorporar las acciones de este programa en un marco conceptual de mayor amplitud, identificado como salud reproductiva.
-
-p) Se incorpora el concepto de "Paquete Básico de Servicios de Salud" como un mínimo de satisfactores que habrá de garantizarse a la población usuaria de los servicios de salud, cuya composición deberá definirse en las aperturas programáticas del sistema Estatal de salud, teniendo como marco de referencia el programa de reforma del sector salud.
-
-q) Se considero necesario redefinir el concepto de población derechohabiente, especificando el esquema de cotización del usuario.
-
-r) Se incorporan los recursos humanos de carácter comunitario, estableciendo la necesidad de su reconocimiento por conducto de organizaciones o asociaciones reconocidas por los Servicios de Salud y se amplían los Capítulos correspondientes a la nutrición y a las enfermedades transmisibles.
-
-s) Se amplía el programa contra el tabaquismo, además de que se modifican los términos de farmacodependencia, por los de drogodependencia.
-
-t) Se incorpora un Capítulo referente al control sanitario de la disposición de órganos, tejidos, células y cadáveres de seres humanos.
-
-u) En el Titulo Décimo Quinto correspondiente a la salubridad local, se establecen los Capítulos correspondientes a las materias sobre las cuales los Servicios de Salud de Morelos y los H. Ayuntamientos ejercerán sus atribuciones.
-
-v) Se amplían las medidas de seguridad sanitaria y sanciones, particularmente en los aspectos procedimentales, y en lo concerniente a las sanciones, se actualizan conforme a las disposiciones reformadas de la Ley General de Salud y se adicionan las correspondientes a la competencia de los H. Ayuntamientos, en materia de salubridad local, y.
-
-w) En el apartado correspondiente a las disposiciones transitorias, se prevé que el Ejecutivo Estatal, deberá crear un organismo público descentralizado, cuyo objetivo sea coadyuvar al mejoramiento de la calidad de los servicios de salud, con autonomía técnica que garantice imparcialidad en la revisión, análisis, valoración y dictamen sobre las probables acciones y/o omisiones de los prestadores y usuarios de dichos servicios, así como para dilucidar sus diferencias, en el que se contemple la participación de los representantes de las dependencias e instituciones del sector salud en el Estado, de los colegios, asociaciones y organizaciones no gubernamentales vinculadas al sector.
-
-En la presente Ley queda incorporada la iniciativa de Ley que Protege la Salud de los No Fumadores en el Estado de Morelos, presentada por los Diputados integrantes del Grupo Parlamentario del Partido Acción Nacional el pasado 20 de abril del año en curso al incluir un Capitulo II denominado Programa Contra el Tabaquismo el cual retoma las principales inquietudes de la iniciativa referida, dando cumplimiento al acuerdo de esta asamblea en la fecha citada.
-
-Por lo anterior expuesto y fundado, esta Soberanía ha tenido a bien expedir la siguiente:
-
-LEY DE SALUD DEL ESTADO DE MORELOS.
-
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-### CAPÍTULO I
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
-La presente Ley regirá en el Estado de Morelos. Es de orden público e interés social y tiene por objeto la promoción y la protección de la salud, el establecimiento de las bases y modalidades para el acceso de la población a los servicios de salud y seguridad social proporcionados por el Estado y los Municipios en materia de salubridad local, en los términos que dispone el Artículo 4° de la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Salud.
+El presente Reglamento regula el funcionamiento y fija los procedimientos de deliberación y resolución de la Asamblea Legislativa del Distrito Federal y establece la organización de las unidades administrativas de la misma.
 
 ###### Artículo 2.
 
-El derecho a la promoción y la protección de la salud, tiene las siguientes finalidades:
+Las disposiciones del presente Reglamento son obligatorias para los Diputados a la Asamblea, la Mesa Directiva, la Comisión de Gobierno, la Diputación Permanente, las Comisiones y Comités y los Grupos Parlamentarios constituidos en el seno de la misma; así como para las unidades administrativas que determine su presupuesto.
 
-I.- El bienestar físico y mental de la persona para contribuir al ejercicio pleno de sus capacidades;
-
-II.- La prolongación y el mejoramiento de la calidad de la vida humana
-
-III.- La protección y el acrecentamiento de los valores que coadyuven a la creación, promoción, conservación y disfrute de condiciones de salud que contribuyan al bienestar y desarrollo social;
-
-IV.- La extensión de actitudes solidarias y responsables de la población, en la promoción, preservación, conservación, mejoramiento y restauración de la salud;
-
-V.- El disfrute de servicios de salud y asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
-
-VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud;
-
-VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud; y
-
-VIII.- Promover y desarrollar programas de seguridad alimentaria.
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 3.
 
-En los términos de la Ley General de Salud, los acuerdos para la descentralización de los servicios de salud y la presente Ley:
+Para la interpretación e integración de las normas de este Reglamento, se estará a los principios y prácticas que mejor garanticen y reflejen la integración y las decisiones plurales de la Asamblea, la libre expresión de todos los diputados, la participación de todos los grupos parlamentarios, la eficacia y eficiencia de los trabajos de la Asamblea y al principio de transparencia y rendición de cuentas de acuerdo con lo establecido en los ordenamientos de la materia.
 
-A).- Corresponde al Estado en materia de salubridad general:
-
-I.- La atención médica;
-
-II.- La atención a la salud del niño, incorporando las acciones consideradas en la atención materno-infantil contempladas en las fracciones IV y X del Artículo 3º de la Ley General de Salud;
-
-III.- La salud reproductiva, incorporando las acciones contempladas en la atención materno-infantil y de planificación familiar, contempladas en las fracciones IV y V del Artículo 3º de la Ley General de Salud;
-
-IV.- La salud mental;
-
-V.- La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas, auxiliares y tradicionales para la salud;
-
-VI.- La promoción de la formación de recursos humanos para la salud;
-
-VII.- La promoción y coordinación de la investigación para la salud y el control de ésta en los seres humanos;
-
-VIII.- La información relativa a las condiciones, recursos y servicios de salud;
-
-IX.- La promoción de la salud, incorporando las acciones de educación para la salud, contempladas en la fracción XI, del Artículo 3º de la Ley General de Salud;
-
-X.- La orientación y vigilancia en materia de nutrición;
-
-XI.- La prevención y el control de los efectos nocivos de los factores ambientales en la salud de las personas;
-
-XII.- La salud ocupacional y el saneamiento básico;
-
-XIII.- La prevención y el control de enfermedades transmisibles;
-
-XIV.- La prevención y el control de enfermedades no transmisibles y accidentes;
-
-XV.- La prevención de discapacidades y la rehabilitación de las personas con discapacidad;
-
-XVI.- La asistencia social;
-
-XVII.- La participación con las autoridades Federales en el desarrollo de los programas contra el alcoholismo, el tabaquismo y la drogodependencia, de conformidad con el acuerdo de coordinación específico que al efeoto (sic) se celebre;
-
-XVIII.- Ejercer la verificación y el control sanitario de los establecimientos que intervengan en cualquiera de las etapas del proceso de alimentos y bebidas no alcohólicas y alcohólicas, adicionadas o acondicionados, para consumo dentro y fuera del mismo establecimiento, basándose en las Normas Oficiales Mexicanas que al efecto se emitan;
-
-XIX.- Desarrollar programas de promoción, protección y atención de la salud y seguridad social, preferentemente en beneficio de grupos vulnerables;
-
-XX.- El control sanitario de la publicidad de las actividades, productos y servicios a que se refiere esta Ley;
-
-XXI.- El control sanitario del proceso de insumos para la salud;
-
-XXII.- Atención a la salud en situaciones de desastres;
-
-XXIII.- La atención a la salud del adulto y del anciano, preferentemente dirigida a la detección y control de enfermedades crónico-degenerativas;
-
-XXIV.- Con la participación del Sistema Estatal de Salud, establecer acuerdos, convenios y coordinaciones a fin de promover el acceso universal a los servicios médicos;
-
-XXV.- Elaborar y publicar un reglamento específico para normar los criterios que servirán de base para la determinación anual de las cuotas de recuperación o cobro de los servicios de salud, acordes a los parámetros que determine la Administración del Patrimonio de la Beneficencia Pública Estatal y, en su caso, la Nacional, en el que se contemplen los criterios a que deberán sujetarse los estudios socioeconómicos que apliquen las áreas de trabajo social; en el entendido de que dichas cuotas y criterios, deberán publicarse en el Periódico Oficial "Tierra y Libertad" del Gobierno del Estado, además de colocarse en lugar visible al público, en las instituciones donde se apliquen;
-
-XXVI.- El control sanitario de la disposición de órganos, tejidos y sus componentes, células y cadáveres de seres humanos; y
-
-XXVII.- Las demás atribuciones especificas que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
-
-B).- Corresponde al Estado en materia de salubridad local, la regulación, control y fomento sanitario de:
-
-I.- Mercados y centros de abasto;
-
-II.- Agua potable y alcantarillado;
-
-III.- Crematorios y funerarias;
-
-IV.- Rastros;
-
-V.- Establos;
-
-VI.- Reclusorios o centros de readaptación social;
-
-VII.- Peluquerías, salones de belleza, estéticas y establecimientos similares;
-
-VIII.- Prevención y control de la rabia en animales;
-
-IX.- Medicina alternativa, tradicional y herbolaria, y
-
-X.- Las demás materias que determine esta Ley, las disposiciones generales aplicables y las que, correspondiendo a los H. Ayuntamientos, estos no estén en posibilidad de efectuar por si mismos.
-
-C).- Corresponde al los H. Ayuntamientos en materia de salubridad local, el control y fomento sanitario en:
-
-I.- Construcciones, excepto las de los establecimientos de salud;
-
-II.- Cementerios;
-
-III.- Limpieza pública;
-
-IV.- Sexo servicio;
-
-V.- Baños públicos y balnearios;
-
-VI.- Centros de reunión y espectáculos;
-
-VII.- Lavanderías;
-
-VIII.- Establecimientos para el hospedaje;
-
-IX.- Centros de acopio animal y control de fauna nociva;
-
-X.- Establecimientos semifíjos y ambulantes que intervengan en cualquiera de las etapas del proceso de alimentos;
-
-XI.- Granjas avícolas y porcícolas, apiarios y establecimientos similares, y
-
-XII.- Las demás materias que determine esta Ley y las disposiciones generales aplicables.
+Se entiende como práctica parlamentaria, los principios generales del Derecho que se desarrollan en el desahogo de los procesos parlamentarios, que permiten la toma de decisiones para garantizar una conducción imparcial e institucional de los trabajos de la Asamblea, de sus Comisiones y Comités.
 
 ###### Artículo 4.
 
-Son autoridades sanitarias en el Estado:
+Para los efectos del presente ordenamiento se entenderá por:
 
-I.- El Gobernador del Estado;
+I.- ESTATUTO: al Estatuto de Gobierno del Distrito Federal;
 
-II.- El organismo público descentralizado denominado "Servicios de Salud de Morelos";
+II.- LEY ORGÁNICA: a la Ley Orgánica de la Asamblea Legislativa del Distrito Federal;
 
-III.- Los H. Ayuntamientos, en el ámbito de su respectiva competencia, de conformidad con las disposiciones que le confiere la presente Ley, así como de conformidad con los convenios, acuerdos, programas y lineamientos que se efectúen con las autoridades sanitarias Estatales.
+III.- ASAMBLEA: a la Asamblea Legislativa del Distrito Federal;
+
+IV. - MESA DIRECTIVA: a la Mesa Directiva de la Asamblea;
+
+V.- PRESIDENTE: al Presidente de la Mesa Directiva;
+
+VI.- PLENO: al Pleno de la Asamblea;
+
+VII.- DIPUTADO: a los Diputados miembros de la Asamblea; y
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+VIII.- UNIDADES ADMINISTRATIVAS: La Oficialía Mayor, la Tesorería, la Contraloría General, la Coordinación General de Comunicación Social, el Instituto de Investigaciones Legislativas, la Unidad de Estudios y Finanzas Públicas y la Coordinación de Servicios Parlamentarios;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2004)</small>
+
+IX.- CONTADURÍA: La Contaduría Mayor de Hacienda de la Asamblea Legislativa.
 
 ###### Artículo 5.
 
-Los H. Ayuntamientos deberán sujetarse a las Normas Oficiales Mexicanas de prevención, control y vigilancia epidemiológica.
+Cada Legislatura, antes de clausurar su último periodo de sesiones ordinarias, nombrará de entre sus miembros una Comisión denominada Instaladora, que estará integrada por cinco Diputados que fungirán: uno como Presidente, dos como Secretarios y dos como suplentes, quienes sólo entrarán en funciones en caso de falta absoluta de cualesquiera de los tres propietarios.
 
-### CAPÍTULO II. DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SERVICIOS DE SALUD DE MORELOS
+La Mesa Directiva comunicará el nombramiento de la Comisión Instaladora a los organismos electorales competentes.
+
+### CAPITULO I. DE LA INSTALACIÓN DE LA ASAMBLEA Y DE SUS GRUPOS PARLAMENTARIOS
+
+#### SECCIÓN 1. DE LA COMISIÓN INSTALADORA
 
 ###### Artículo 6.
 
-La estructura administrativa a que se refieren los Artículos 19 y 20 de la Ley General de Salud, se denomina Servicios de Salud de Morelos, que es un organismo público descentralizado, con personalidad jurídica, patrimonio propio y con facultades y atribuciones de autoridad, en los términos de la Ley, que tiene como objetivo la prestación de servicios de salud en la Entidad, tanto en materia de salud pública, como de atención médica; la promoción de una interrelación sistemática de acciones que en la materia se realicen entre la Federación y el Estado; ejercer el control sanitario en su ámbito de competencia, así como la realización de acciones que establezcan las disposiciones legales aplicables.
+Corresponde a la Comisión Instaladora:
+
+I.- Recibir las constancias de mayoría y validez que correspondan a las elecciones de Diputados electos según el principio de mayoría relativa;
+
+II.- Recibir las constancias de asignación de Diputados electos según el principio de representación proporcional;
+
+III.- Recibir las resoluciones del órgano jurisdiccional electoral, recaídas a las impugnaciones sobre las elecciones de Diputados;
+
+IV.- Verificar, una vez recibidas, que las constancias y resoluciones a que se refieren las fracciones anteriores se encuentren completas; y
+
+V.- Expedir las credenciales que acrediten a los Diputados electos, tomando en cuenta únicamente las constancias expedidas por el Instituto Electoral del Distrito Federal en las elecciones no impugnadas o en su caso las resoluciones expedidas por el órgano jurisdiccional electoral. Las credenciales serán firmadas por el Presidente y Secretarios de la Comisión.
 
 ###### Artículo 7.
 
-Los Servicios de Salud de Morelos, tendrán a su cargo la aplicación en el ámbito Estatal, de las legislaciones sanitarias Federal y Estatal y demás disposiciones legales aplicables, en los términos convenidos en el acuerdo de coordinación correspondiente, de creación del propio organismo, y de conformidad con los reglamentos y Normas Oficiales Mexicanas que al efecto se emitan.
+La Comisión Instaladora se reunirá, a más tardar tres días antes de que inicie el primer periodo de sesiones ordinarias del primer año de la Legislatura entrante, para realizar la verificación a que se refiere la fracción IV del artículo anterior.
 
 ###### Artículo 8.
 
-Cuando en este ordenamiento se haga mención al organismo público descentralizado, se entenderá hecho a los Servicios de Salud de Morelos.
+La Comisión Instaladora deberá citar a los Diputados electos para que concurran a las diez horas del día siguiente al de la verificación, para recibir sus credenciales, rendir la protesta constitucional, y elegir a la Mesa Directiva y proceder a declarar formalmente instalada la legislatura que corresponda de la Asamblea.
+
+Este acto será presidido por los miembros de la Comisión Instaladora y se desarrollarán conforme al siguiente procedimiento:
+
+I.- El Secretario de la Comisión dará lectura a la lista de los Diputados que hayan resultado electos y, comprobado que se tenga la debida integración del quórum, se dará la palabra al Presidente de la Comisión. En caso de no contarse con quórum, la Comisión los citará a una nueva reunión, la que se llevará a cabo dentro de las veinticuatro horas siguientes;
+
+II.- El Presidente de la Comisión pedirá a los Diputados presentes que se pongan de pie y les tomará la protesta de la siguiente forma:
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Presidente: "¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal y las leyes que de ellos emanen y desempeñar leal y patrióticamente el cargo de Diputado a la Asamblea Legislativa del Distrito Federal que el pueblo les ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Distrito Federal?".
+
+Diputados: "Sí, protesto"
+
+(REPUBLICADO, G.O. 30 DE MARZO DE 2005)
+
+Presidente: "Si no lo hiciereis así, que la Nación os lo demande"
+
+Igual protesta están obligados a hacer cada uno de los Diputados que se presentaren después.
+
+III.- Acto seguido, invitará a los Diputados a que elijan la Primera Mesa Directiva de la Legislatura entrante, en escrutinio secreto y por mayoría de votos;
+
+IV.- Dado a conocer el resultado del escrutinio por uno de los Secretarios de la Comisión, los integrantes de la primera Mesa Directiva pasarán a ocupar el asiento que les corresponda en el Salón de Sesiones y el Presidente de la Asamblea dirá en voz alta:
+
+"La Asamblea Legislativa del Distrito Federal, (número que corresponda) se declara legalmente instalada."
 
 ###### Artículo 9.
 
-La dirección y administración del organismo corresponderá a:
+El mismo día se notificará por escrito la instalación de la Legislatura al Presidente de la República, al Congreso de la Unión, a la Suprema Corte de Justicia de la Nación, al Jefe de Gobierno del Distrito Federal, al Tribunal Superior de Justicia del Distrito Federal y a las demás autoridades que determine la Mesa Directiva.
 
-I.- La Junta de Gobierno;
+También se nombrará una comisión especial, para acompañar a los Diputados integrantes de la Comisión Instaladora a su salida del Recinto, una vez concluida su tarea.
 
-II.- El Director General, quien deberá ser un profesional en materia de salud, con reconocida trayectoria en el ámbito de la salud pública.
+#### SECCIÓN 2. DE LOS GRUPOS PARLAMENTARIOS
 
 ###### Artículo 10.
 
-El organismo contará con un órgano de vigilancia, el cual estará integrado por un Comisario designado por la Contraloría General del Estado.
+La constitución de los Grupos Parlamentarios se hará dentro de los cinco días siguientes a la apertura del primer periodo de sesiones ordinarias del primer año de cada Legislatura, con por lo menos tres Diputados y mediante escrito dirigido por los integrantes de cada grupo a la Mesa Directiva, en el que se señalarán los nombres de los integrantes y la designación del Coordinador y Vicecoordinador del grupo.
+
+La Mesa Directiva hará del conocimiento del Pleno los Grupos Parlamentarios constituidos en la Asamblea.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Cada Grupo Parlamentario nombrará y denominará a una persona que cumplirá con las funciones de Enlace con la Comisión de Gobierno y los demás Grupos Parlamentarios. Dicho nombramiento deberá ser comunicado a la Comisión de Gobierno.
 
 ###### Artículo 11.
 
-La integración de los órganos de gobierno citados en el Artículo Noveno, así como sus funciones, se precisarán en el reglamento interno y en los manuales de organización específicos que correspondan a cada uno de ellos.
+Cuando un partido político cambie de denominación, el Grupo Parlamentario respectivo podrá también cambiar su denominación comunicándolo al Pleno.
 
 ###### Artículo 12.
 
-El organismo será consecuentemente el conducto de ejecución de todo lo contenido en los apartados A) y B) del Artículo Tercero de la presente Ley, por lo que para el debido cumplimiento de los actos de autoridad sanitaria, solicitará, en su caso, el apoyo de las autoridades competentes del Estado, quienes se lo brindarán en tanto aquellas estén debidamente motivadas y fundadas con base en la legislación aplicable.
+En el caso de que un Grupo Parlamentario se disuelva, el que fue coordinador informará a la Mesa Directiva o en los recesos a la Comisión de Gobierno, para que ésta informe al Pleno.
 
-## TÍTULO SEGUNDO. SISTEMA ESTATAL DE SALUD
+Los Diputados de un Grupo Parlamentario que se disuelva no podrán incorporarse a otro grupo, habiéndose separado del primero se considerará sin partido o independientes.
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Cuando de origen existan diputados pertenecientes a diferentes partidos políticos y que no alcancen el número mínimo para poder constituir un Grupo Parlamentario, éstos, podrán asociarse a efecto de conformar una Coalición Parlamentaria, en términos de lo que establezca la Ley Orgánica.
+
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+En el caso de que un Grupo Parlamentario se disuelva, el que fue coordinador informará a la Mesa Directiva o en los recesos a la Comisión de Gobierno, para que ésta informe al Pleno.
+
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Los Diputados de un Grupo Parlamentario que se disuelva no podrán incorporarse a un Grupo Parlamentario, sólo podrán incorporarse a una Coalición Parlamentaria o habiéndose separado del primero se consideraran sin partido o independientes. En todo caso los Diputados conservarán los derechos y obligaciones que establece la Ley Orgánica y el presente Reglamento.
+
+## TITULO SEGUNDO. DE LA INSTALACIÓN DE LA ASAMBLEA Y DE SU FUNCIONAMIENTO
+
+### CAPITULO II. DE LA DISCIPLINA PARLAMENTARIA
 
 ###### Artículo 13.
 
-El Sistema Estatal de Salud está constituido por las dependencias y Entidades públicas, así como por todas las personas físicas o morales de los sectores social y privado que presten servicios de salud en el Estado, así como por los mecanismos de coordinación de acciones, a fin de dar cumplimiento al derecho a la promoción y protección de la salud en el territorio del Estado.
-
-El Sistema Estatal de Salud, con la intervención que corresponda al Comité de Planeación Para el Desarrollo del Estado de Morelos y, en su caso, por el Consejo Estatal de Salud, definirá los mecanismos de coordinación y colaboración en materia de planeación de los servicios de salud en el Estado, de conformidad con las disposiciones de esta Ley y las que al respecto sean aplicables.
+Cuando un partido político que tenga grupo en la Asamblea se fusione con otro, se podrá integrar un Grupo Parlamentario con los Diputados que sean miembros del nuevo partido.
 
 ###### Artículo 14.
 
-El Sistema Estatal de Salud tiene los siguientes objetivos:
+La constitución, fusión e integración de un nuevo Grupo Parlamentario será notificado a la Mesa Directiva o, en los recesos a la Comisión de Gobierno, dentro de los cinco días siguientes en que haya tenido lugar, para que ésta informe al Pleno.
 
-I.- Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo los problemas sanitarios prioritarios del estado y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas;
-
-II.- Contribuir al desarrollo demográfico armónico del Estado;
-
-III.- Colaborar al bienestar social de la población del Estado de Morelos, mediante servicios de asistencia social, principalmente a menores en estado de abandono, adultos mayores desamparados y discapacitados, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y en lo social;
-
-IV.- Dar impulso al desarrollo de la familia y la comunidad, así como la integración social y crecimiento físico y mental de la niñez;
-
-V.-. Apoyar el mejoramiento de las condiciones sanitarias ambientales del Estado, que propicien el desarrollo satisfactorio de la vida;
-
-VI.- Impulsar, en el ámbito Estatal, un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud; y
-
-VII.- Fomentar estilos de vida saludables que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 15.
 
-La coordinación del Sistema Estatal de Salud estará a cargo de los Servicios de Salud de Morelos, correspondiéndole lo siguiente:
+Los Diputados que deseen abandonar el Grupo Parlamentario al que pertenezcan podrán integrarse a una Coalición Parlamentaria ya constituida, pero no podrán conformar un nuevo Grupo o Coalición.
 
-I.- Establecer y conducir la política Estatal en materia de salud, en los términos de esta Ley y demás disposiciones legales aplicables y de conformidad con las políticas del Sistema Nacional de Salud y con lo dispuesto por el Ejecutivo Estatal;
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
 
-II.- Coordinar los programas de servicios de salud, de las dependencias y entidades de la administración pública estatal;
+El diputado considerado independiente, no podrá presidir alguna Comisión o Comité de ésta Asamblea Legislativa.
 
-III.- Apoyar la coordinación de los programas y servicios de salud de toda dependencia y entidad pública estatal en los términos de la legislación aplicable y de los acuerdos de coordinación que en su caso se celebren;
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
-En el caso de los programas y servicios de instituciones federales de seguridad social, el apoyo se realizará tomando en cuenta lo que establezcan las Leyes que rigen el funcionamiento de éstas;
-
-IV.- Impulsar la desconcentración y descentralización de los servicios de salud del Estado a los municipios;
-
-V.- Promover, coordinar y realizar la evaluación a los H. Ayuntamientos, de programas y servicios de salud del Estado;
-
-VI.- Determinar la periodicidad y característica de la información que deberán proporcionar las dependencias y entidades de salud del Estado, con sujeción a las disposiciones generales aplicables;
-
-VII.- Coordinar el proceso de programación de las actividades de salud en el Estado sujetándose a lo que las Leyes aplicables dispongan;
-
-VIII.- Formular recomendaciones a las dependencias competentes sobre la asignación de los recursos que requieran los programas de salud del Estado;
-
-IX.- Impulsar, en el ámbito Estatal, las actividades científicas y tecnológicas en el área de la salud;
-
-X.- Coadyuvar con las dependencias Federales competentes a la regulación y control de la transferencia de tecnología en el área de salud;
-
-XI.- Promover el establecimiento de un sistema Estatal de información básica en materia de salud;
-
-XII.- Apoyar la coordinación entre las instituciones de salud y las educativas Estatales y Federales para formar y capacitar recursos humanos para la salud;
-
-XIII.- Coadyuvar a que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del Sistema Estatal de Salud;
-
-XIV.- Promover e impulsar la participación de la comunidad del Estado en el cuidado de su salud;
-
-XV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud;
-
-XVI.- Llevar el Registro de Agrupaciones para la Salud; y
-
-XVII.- Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+Los Diputados sin partido y los Diputados que sean la única representación del partido que los postuló, no podrán integrarse a un Grupo Parlamentario ya constituido después de haberse cumplido los supuestos señalados en el artículo 10 del presente Reglamento.
 
 ###### Artículo 16.
 
-Los Servicios de Salud de Morelos promoverán la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores publico, social y privado, así como sus trabajadores y de los usuarios de los mismos, en términos de las disposiciones que al efecto se expidan.
+Atendiendo al número de integrantes de cada Grupo Parlamentario, la Asamblea, con cargo a su presupuesto, pondrá a disposición de éstos, espacios físicos dentro de sus inmuebles, recursos materiales, recursos humanos y recursos económicos los cuales deberán ser suficientes para el buen funcionamiento de cada Grupo Parlamentario y en su caso, el desempeño de las funciones legislativas de cada Diputado.
 
-Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Para el buen funcionamiento de lo estipulado en el párrafo anterior, la Oficialía Mayor deberá dar a conocer a los Grupos Parlamentarios, el inventario de muebles e inmuebles con que cuenta en un plazo no mayor a un mes contados a partir de la apertura del primer periodo de Sesiones Ordinarias del primer año de cada legislatura, mediante escrito dirigido a la persona responsable de la función administrativa y financiera de cada Grupo.
+
+A más tardar en el plazo de dos meses, la Oficialía Mayor de acuerdo a sus disponibilidades deberá atender los requerimientos de personal, recursos materiales y espacios físicos dentro de sus inmuebles, que requieran los Grupos Parlamentarios para el buen desempeño de sus funciones.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Lo señalado en este artículo también será aplicable a los Diputados Independientes, en cuyo caso la comunicación será directa.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+La persona responsable de la función administrativa y financiera a que se refiere el párrafo segundo de este artículo, será nombrado y denominado como lo determine cada Grupo Parlamentario, lo cual será comunicado a la Comisión de Gobierno.
 
 ###### Artículo 17.
 
-La concertación de acciones entre los Servicios de Salud de Morelos, y los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se ajustaran a las siguientes bases:
-
-I.- Definición de las responsabilidades que asuman los integrantes de los sectores social y privado;
-
-II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo los Servicios de Salud de Morelos; y
-
-III.- Expresión de las demás estipulaciones que de común acuerdo establezcan las partes.
+Cada Grupo Parlamentario tendrá derecho durante las sesiones a que sus miembros se ubiquen en el Salón de Sesiones en asientos contiguos, ubicación que deberá acordar la Comisión de Gobierno.
 
 ###### Artículo 18.
 
-La competencia de las autoridades sanitarias en la planeación, regulación, organización y funcionamiento del Sistema Estatal de Salud, se regirá por las disposiciones de esta Ley y demás normas aplicables.
+Los Diputados guardarán el debido respeto y compostura en el interior del Recinto Oficial, en las sesiones y en cualquier acto de carácter oficial.
 
 ###### Artículo 19.
 
-El Gobierno del Estado, con la participación que corresponda al Comité de Planeación del Desarrollo Estatal, elaborará el Programa Estatal de Salud, tomando en cuenta las prioridades y los servicios del Sistema Estatal de Salud.
+Los Diputados observarán las normas de cortesía y el respeto parlamentario.
 
-### CAPÍTULO II. DEL CONSEJO ESTATAL DE SALUD Y LOS CONSEJOS MUNICIPALES DE SALUD
+### CAPITULO III. DE LAS COMISIONES Y COMITÉS DE LA ASAMBLEA Y DE SUS UNIDADES ADMINISTRATIVAS
+
+PRIMERA PARTE
+
+DE LAS COMISIONES Y COMITÉS DE LA ASAMBLEA Y DE SUS UNIDADES ADMINISTRATIVAS
+
+#### SECCIÓN 1. DE LAS COMISIONES Y COMITÉS
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 20.
 
-Se crea el Consejo Estatal de Salud como órgano de consulta y propuesta, según lo establezca el reglamento de esta Ley.
+Los Diputados en el ejercicio de sus funciones en el Recinto Oficial observarán una conducta y comportamiento en congruencia con la civilidad política, tolerancia y respeto en su carácter de representantes ciudadanos.
 
 ###### Artículo 21.
 
-El Consejo Estatal de Salud se integrará por:
-
-I.- El Gobernador del Estado, quien lo presidirá;
-
-II.- El Secretario del ramo;
-
-III.- El Director de los Servicios de Salud en Morelos, quien fungirá como Secretario Técnico;
-
-IV.- Los representantes de las instituciones públicas en el Estado, encargadas de la investigación, atención o servicios de salud;
-
-V.- Los Regidores de Salud de los H. Ayuntamientos del Estado de Morelos; y
-
-VI.- Los representantes de los colegios, asociaciones y organizaciones no gubernamentales vinculadas al sector salud, inscritos en el Registro de Agrupaciones para la Salud.
+Los Diputados, durante sus intervenciones en la tribuna o en cualquier acto oficial, procurarán no afectar o lesionar la dignidad de cualquier compañero, funcionario o ciudadano.
 
 ###### Artículo 22.
 
-El Consejo Estatal de Salud se reunirá en sesión ordinaria cuando menos una vez cada seis meses y en sesión extraordinaria cuantas veces sea necesario con la asistencia de la mayoría de sus integrantes. Los acuerdos se tomarán por mayoría de votos; en caso de empate, el presidente tendrá voto de calidad. El cargo de consejero será honorífico.
+Las sanciones disciplinarias que podrán aplicarse a los Diputados son:
 
-El Consejo Estatal de Salud podrá invitar a sus sesiones a los Diputados que conformen la Comisión Legislativa encargada de los asuntos del sector, así como a las personas que para el cumplimiento de sus objetivos se estime conveniente.
+I.- Apercibimiento;
+
+II.- Amonestación;
+
+III.- Amonestación con constancia en el acta; y,
+
+IV.- Disminución de la dieta, sólo en términos de las disposiciones legales aplicables.
 
 ###### Artículo 23.
 
-El Consejo Estatal de Salud tiene los siguiente objetivos y facultades:
-
-I.- Proponer al Ejecutivo Estatal y, en su caso, al Comité de Planeación para el Desarrollo Estatal, el desarrollo de programas especiales en materia de salud;
-
-II.- Impulsar la firma de convenios y acuerdos para la coordinación de los programas de servicio de salud de las instituciones, organismos, dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal;
-
-III.- Promover la participación de la sociedad en la planeación, desarrollo y aplicación de los programas de salud;
-
-IV.- Proponer recomendaciones al H. Congreso del Estado sobre la asignación de los recursos que requieran los programas de salud del Estado;
-
-V.- Fungir como organismo consultivo en materia de salud ante el Ejecutivo Estatal;
-
-VI.- Promover la coordinación interinstitucional para el desarrollo de bancos de datos, estadísticas e información en salud;
-
-VII.- Procurar el desarrollo prioritario de los programas para la salud, salubridad general, local, municipal y seguridad alimentaria;
-
-VIII.- Apoyar la coordinación entre las instituciones de salud y las educativas Estatales y Federales en la formación y capacitación de recursos humanos para la salud, y
-
-IX.- Promover la creación de los Consejos Municipales de Salud.
+Los Diputados serán apercibidos por el Presidente de la Mesa Directiva o en los recesos por el Presidente de la Diputación Permanente, quienes valorarán la propuesta y determinarán su procedencia, en su caso, por si mismo o a moción de cualquiera de los Diputados cuando no guarden el orden o compostura en la sesión, cuando dejaren de asistir por tres veces consecutivas a las sesiones sin causa justificada o a las reuniones de las Comisiones o Comités que pertenezcan.
 
 ###### Artículo 24.
 
-Los Bandos de Policía y Buen Gobierno de los Municipios del Estado, establecerán los Consejos Municipales de Salud en términos de la presente Ley y en el ámbito de sus respectivas competencias.
+Los Diputados serán amonestados por el Presidente de la Mesa Directiva, en su caso cuando:
 
-### CAPÍTULO III. DISTRIBUCIÓN DE COMPETENCIAS
+I.- Un Diputado sin justificación perturbe al Presidente de la Mesa Directiva en el desarrollo de la sesión;
+
+II.- Un Diputado con interrupciones altere el orden en las sesiones; y,
+
+III.- Un Diputado, agotado el tiempo y número de sus intervenciones continuara haciendo el uso indebido de la tribuna.
+
+#### SECCIÓN 1
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
+
+### CAPITULO IV. DE LA ORGANIZACIÓN DE LA ASAMBLEA
+
+#### SECCIÓN 1. DE LA COMISIÓN DE GOBIERNO
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 77], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 25.
 
-Corresponde al Gobierno del Estado, por conducto de los Servicios de Salud de Morelos:
+Los Diputados serán amonestados por el Presidente de la Mesa Directiva del Pleno o por el Presidente de la Mesa Directiva de la Diputación Permanente en los recesos de la Asamblea, con constancia en el acta:
 
-A.- EN MATERIA DE SALUBRIDAD GENERAL:
+I.- Cuando en la misma sesión en la que se le aplicó una amonestación, incurra de nueva cuenta en alguna de las causas previstas en el artículo anterior;
 
-I.- Aplicar y vigilar el cumplimiento de las Normas Oficiales Mexicanas que emita la Secretaria de Salud del Gobierno Federal;
+II.- Cuando portare armas dentro del recinto parlamentario; y,
 
-II.- En coordinación con el Ejecutivo Federal: organizar, operar, supervisar y evaluar los servicios de salud a que se refiere el apartado "A" del Artículo 3 de esta Ley;
+III.- Cuando profiere amenazas a uno o varios Diputados.
 
-III.- Coordinar el Sistema Estatal de Salud y coadyuvar en el funcionamiento y consolidación del Sistema Nacional de Salud;
+Cuando se produzca el supuesto a que hace referencia la fracción anterior, el Presidente de la Mesa Directiva requerirá al Diputado para que retire las amenazas proferidas. De acatarlo, el Presidente ordenará que sus declaraciones no consten en el diario de debates.
 
-IV.- Formular y desarrollar programas locales de salud en el marco del Sistema Estatal y Nacional de Salud y de acuerdo con los principios y objetivos de la planeación nacional y Estatal;
-
-V.- Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente Ley y demás disposiciones aplicables;
-
-VII.-(sic) Celebrar convenios con los H. Ayuntamientos para la prestación de los servicios sanitarios locales o la atención de las funciones de salud, y
-
-VIII.- Las demás atribuciones que le otorguen esta Ley y otras disposiciones generales aplicables.
-
-B) EN MATERIA DE SALUBRIDAD LOCAL:
-
-I.- Ejercer el control sanitario de los establecimientos y servicios a que se refiere el Artículo 3, apartado B de esta Ley y verificar su cumplimiento;
-
-II.- Dictar disposiciones administrativas y regulatorias en materia de salubridad local y municipal;
-
-III.- Establecer las acciones sanitarias en los límites territoriales con otras Entidades Federativas;
-
-IV.- Llevar a cabo los programas y acciones que en materia de salubridad local se implanten;
-
-V.- Promover, orientar, fomentar y apoyar las acciones en materia de salubridad local a cargo de los H. Ayuntamientos, con sujeción a las políticas nacional y Estatal de salud y a los convenios que al efecto se celebren;
-
-VI.- Vigilar, en la esfera de su competencia el cumplimiento de esta Ley y demás disposiciones legales aplicables;
-
-VII.- Crear un Comité de Evaluación y Selección de Prácticas Médicas Alternativas, Tradicionales y/o Herbolaria, para promover su incorporación a los servicios de salud, con el propósito de ampliar las opciones de atención a los usuarios y que establezca las bases para la práctica y operación de los servicios que presten; y
-
-VIII.- Las demás atribuciones que establezcan esta Ley y otras disposiciones legales aplicables.
+#### SECCIÓN 2. SANCIONES
 
 ###### Artículo 26.
 
-El Ejecutivo Estatal podrá convenir con los H. Ayuntamientos, la desconcentración o descentralización por parte de estos, de la prestación de los servicios de salubridad general y de salubridad local cuando su desarrollo económico y social lo haga necesario, solicitando en su caso la asesoría de la Secretaria de Salud del Gobierno Federal, así como para ejercer aquellas que siendo competencia de los H. Ayuntamientos no pudiesen ejercer por sí mismos.
+La dieta de los Diputados será disminuida cuando se actualice algunos de los siguientes supuestos;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
+I.- El Diputado que no concurra a una sesión del Pleno, sin causa justificada o sin permiso de la Presidencia, no tendrá derecho de la dieta correspondiente al día en que falte.
+
+II.- El Diputado que no concurra a una sesión de Comisión o Comité, sin causa justificada o sin permiso de la Presidencia de la Comisión o Comité, el cual será otorgado únicamente por tratarse de causas graves o en razón de propios compromisos inherentes a la legislatura y la diputación no tendrá derecho al cincuenta por ciento de la dieta correspondiente al día en que falte.
+
+Lo anterior no aplicara cuando haya una sesión del pleno, cuando se realicen de forma simultánea reuniones de Comisión de la que el diputado forma parte o que se encuentre en el cumplimiento de alguna encomienda Oficial.
 
 ###### Artículo 27.
 
-Corresponde a los H. Ayuntamientos:
+Tratándose de disminución de la dieta se observará lo siguiente:
 
-I.- Asumir sus atribuciones en los términos de esta Ley y de los convenios que suscriban con el Ejecutivo del Estado;
+I.- La sanción será aplicada por la Tesorería, a petición del Presidente de la Mesa Directiva, o del Presidente de la Comisión o Comité respectivo, debiendo informar de su aplicación;
 
-II.- Garantizar la calidad del agua para uso y consumo humano, en los términos de los convenios que celebre con el Ejecutivo del Estado y de conformidad con la normativa que emita la Secretaría de Salud del Gobierno Federal y otras dependencias del gobierno Federal y Estatal;
+II.- Para la aplicación de la sanción correspondiente a descuento por inasistencia, el Presidente respectivo, deberá enviar a la Tesorería copia simple, con su firma autógrafa de la lista de asistencia que corresponda al descuento que habrá de aplicarse.
 
-III.- Formular y desarrollar programas municipales de salud en el marco de los Sistemas Nacional y Estatal de Salud;
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
-IV.- Vigilar y hacer cumplir en la esfera de su competencia los ordenamientos legales correspondientes;
+Durante los primeros cinco días de cada mes, la Coordinación General de Servicios Parlamentarios, con base en la información que remitan los Presidentes de las Comisiones y Comités, así como de la información que obtenga de las versiones estenográficas del Pleno y de la Diputación Permanente, enviará a la Coordinación General de Comunicación Social, las listas de asistencias de los Diputados que hayan concurrido a éstas para que las publique en la página de internet de la Asamblea Legislativa.
 
-V.- Ejercer las actividades de control y fomento sanitario a que se refiere el apartado "C" del Artículo 3° de esta Ley, con apego a la normatividad de la Ley General de Salud, la presente Ley y sus disposiciones administrativas y reglamentarias en la materia; y
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
-VI.- Las demás atribuciones que esta Ley y otros ordenamientos legales les otorguen.
+Durante los primeros 15 días del mes de septiembre, la Coordinación General de Servicios Parlamentarios, hará un balance general de asistencia de los Diputados a la Asamblea Legislativa del último año, mandando a publicarla en cuando menos, dos diarios de circulación nacional.
 
 ###### Artículo 28.
 
-El Ejecutivo Estatal y los H. Ayuntamientos, de conformidad con las disposiciones legales aplicables, aportarán los recursos humanos, materiales y financieros que sean necesarios para la operación de los servicios de salubridad local en el ámbito de sus respectivas competencias, así como las que queden comprendidos en los convenios que ambos celebren.
+El despacho de los asuntos de la Asamblea comprende el examen e instrucción de éstos hasta su dictamen u opinión, que deberá elaborar la Comisión o Comisiones a las que les sea turnado para su trámite.
 
-Los recursos que aporten las partes quedarán expresamente destinados a los fines del convenio respectivo y sujetos al régimen legal que les corresponda.
+Las Comisiones son órganos internos de organización para el mejor y más expedito desempeño de las funciones legislativas, políticas, administrativas, de fiscalización e investigación de la Asamblea.
+
+Las Comisiones se integrarán por los diputados electos por el pleno a propuesta de la Comisión de Gobierno, debiéndose reflejar la pluralidad de la Asamblea en la integración de las mismas.
+
+Las Comisiones conocerán en el ámbito de su competencia, de las Iniciativas, Proyectos, Proposiciones con ó sin puntos de acuerdo, excitativas, deliberaciones, avisos y pronunciamientos ó asuntos que le sean turnados por la Mesa Directiva.
+
+Las Comisiones podrán efectuar directamente investigaciones, foros y consultas legislativas sobre los asuntos a su cargo; así como coadyuvar con el Comité de Atención, Orientación y Quejas Ciudadanas en la gestión de los asuntos que se les encomienden.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
+
+En los casos de las investigaciones se estará a lo dispuesto por el artículo 61 de la Ley Orgánica.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
+
+El plazo para la entrega de los proyectos de investigación al Instituto de Investigaciones Parlamentarias será al inicio del primer periodo de cada año legislativo, con excepción del año de inicio de la Legislatura.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
+
+Cada Comisión conformará un nuevo acervo sistematizado y ordenado de la información que generen para su consulta.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 29.
 
-Los ingresos que se obtengan por los servicios de salubridad local que se presten en los términos de los convenios a que se refiere el artículo anterior, se afectarán a los mismos conceptos en la forma que se establezca en la legislación fiscal aplicable.
+El Presidente de la mesa directiva podrá turnar un asunto, propuesta o iniciativa, en razón de su naturaleza, preferentemente a un máximo de dos Comisiones para que lo estudien y dictaminen en forma conjunta.
+
+Igualmente, cualquier Comisión podrá reunirse con otra cuando el asunto en estudio se encuentre vinculado con las materias de esa Comisión.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Cuando un asunto haya sido turnado a dos o más Comisiones, corresponderá a las mesas directivas de las Comisiones involucradas, coordinar la integración de un sólo dictamen a fin de que emitan un dictamen en conjunto.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Cuando se efectúen reuniones de trabajo en Comisiones Unidas, se requerirá de la asistencia de la mitad más uno de los Diputados que integren cada Comisión, a efecto de poder conformar el quórum.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Se aplicará el mismo criterio para aprobar o desechar las propuestas planteadas al interior de las Comisiones Unidas.
 
 ###### Artículo 30.
 
-El Gobierno del Estado y los H. Ayuntamientos, en el ámbito de sus respectivas competencias y, en su caso, en los términos de los convenios que celebren, darán prioridad a los siguientes servicios sanitarios:
+Los trabajos de las Comisiones serán coordinados por su Mesa Directiva, la cual se integrará por un Presidente, un Vicepresidente y un Secretario.
 
-I.- Proporcionar el suministro de agua potable para el uso y consumo humano y garantizar su calidad, de conformidad con la normativa que emita la Secretaría de Salud del Ejecutivo Federal y otras dependencias del Gobierno Federal y Estatal;
+En las ausencias del Presidente, será sustituido en sus funciones por el Vicepresidente de la Comisión de que se trate.
 
-II.- Instalar sistemas de drenaje, alcantarillado y plantas de tratamiento de aguas residuales;
+Cada Comisión contará con una Secretaría Técnica, la que apoyará los trabajos de la Comisión y coordinará el trabajo de los asesores que tenga asignados la misma.
 
-III.- Prestar servicios de limpieza publica, y la eliminación de desechos sólidos y líquidos; y
+La Secretaría Técnica estará bajo la dirección del Presidente de la Comisión, y deberá prestar servicio a todos los integrantes de la misma en los asuntos que a ésta atañan, fundamentalmente para la elaboración de los dictámenes que correspondan.
 
-IV.- Servicio de rastros y vigilar su calidad.
+Corresponderá a la Secretaría Técnica de cada comisión brindar la información que le requiera la gaceta parlamentaria y el organismo oficial de difusión para el cumplimiento de sus funciones de difusión.
 
 ###### Artículo 31.
 
-Los H. Ayuntamientos, conforme a las Leyes aplicables, promoverán la desconcentración de los servicios sanitarios básicos de su competencia, a sus correspondientes delegaciones, intendencias y ayudantías municipales.
+Los Diputados integrantes de las Comisiones no tendrán ninguna retribución extraordinaria por el desempeño de las mismas.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 32.
 
-El Gobierno del Estado podrá celebrar convenios de coordinación y cooperación sanitaria con los gobiernos de los Estados circunvecinos, sobre aquellas materias que sean de su interés común.
+Toda Comisión deberá presentar su dictamen en los asuntos de su competencia, dentro de los treinta días siguientes al de la fecha en que los hayan recibido. Todo dictamen estará compuesto de cuatro partes fundamentales: un preámbulo, los antecedentes, los considerandos y los resolutivos. Deberá estar debidamente fundado y motivado y contendrá las modificaciones que en su caso se hayan realizado, concluyendo con proposiciones claras y sencillas que puedan sujetarse a votación.
+
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Cuando la Comisión no pueda dictaminar dentro del plazo fijado, expondrá por escrito los motivos a la Mesa Directiva para que ésta consulte al Pleno si procede ampliarlo. Durante los recesos de la Asamblea corresponderá a la Diputación Permanente aprobar la ampliación del plazo. Tratándose de dictámenes que contengan proposiciones, la ampliación no podrá exceder de sesenta días más, contados a partir de que se venza el plazo regular; cuando se trate de dictámenes que contengan iniciativas, la ampliación no podrá exceder de noventa días más, contados a partir de que se venza el plazo regular.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+
+En caso de negativa respecto a la ampliación, el Presidente hará una excitativa para que se elabore el dictamen y si pasados cinco días de ésta, no se hubiere hecho el mismo, el Presidente enviará la iniciativa a la Comisión de Normatividad Legislativa, Estudios y Prácticas Parlamentarias, consultándole al Presidente de dicha Comisión el término en que se contará con el dictamen en materia.
+
+Lo anterior sin detrimento de lo que dispone el artículo 89 del presente Reglamento.
 
 ###### Artículo 33.
 
-Los H. Ayuntamientos del Estado, en el ámbito de su competencia, podrán celebrar entre sí, convenios de coordinación y cooperación sobre materia sanitaria.
+Para que haya dictamen de Comisión, el mismo deberá presentarse firmado por la mayoría de los Diputados que la componen. Si alguno o algunos de ellos disintiesen del parecer de dicha mayoría, podrán presentar voto particular por escrito.
+
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Las Comisiones deberán remitir el dictamen de manera impresa y por medio electrónico, magnético, óptico u otros, a la Mesa Directiva el (sic) Pleno para su discusión dentro de las siguientes cuarenta y ocho horas posteriores a su distribución.
 
 ###### Artículo 34.
 
-El Gobierno del Estado podrá celebrar con el Ejecutivo Federal, acuerdos de coordinación a fin de que asuma la prestación de servicios de salud en el Estado, en los términos que en los acuerdos se convengan.
+Las Comisiones, previo acuerdo de sus miembros, podrán solicitar de la Administración Pública del Distrito Federal la información que precisen para el desarrollo de sus trabajos.
 
-## TÍTULO TERCERO
+Podrán igualmente solicitar la presencia ante ellas de servidores públicos del Gobierno del Distrito Federal, para que informen sobre asuntos relacionados con sus respectivas competencias.
 
-PRESTACIÓN DE LOS SERVICIOS DE SALUD.
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
-### CAPÍTULO I
+La solicitud relativa a la presencia de servidores públicos en Comisiones, que deberá ser firmada por el Presidente de la Comisión respectiva, será remitida al Jefe de Gobierno por el Presidente de la Mesa Directiva o, en los recesos, por el Presidente de la Comisión de Gobierno. La solicitud hará mención al motivo o asunto sobre el que la Comisión desea se informe.
 
-DISPOSICIONES COMUNES.
+Las Comisiones podrán igualmente invitar a estar presentes en sus sesiones de trabajo a personas que por razón de su oficio, ocupación o profesión posean conocimientos útiles para el mejor cumplimiento de las tareas propias de la Comisión. En estos casos, el Presidente de la Comisión extenderá directamente las invitaciones.
+
+## TITULO TERCERO. DEL PROCEDIMIENTO LEGISLATIVO EN LA ASAMBLEA
+
+### CAPITULO I. DEL PROCEDIMIENTO LEGISLATIVO
+
+#### SECCIÓN 1. DE LAS INICIATIVAS
+
+(REUBICADO [N. DE E. ANTES ARTICULO 82], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 35.
 
-Se entenderá por servicio de salud, todas aquellas acciones que se realicen con el fin de proteger, promover y restaurar la salud de la persona y de la colectividad.
+En las reuniones de trabajo de las Comisiones a que concurran servidores públicos y expertos, la Comisión formulará una agenda y las reglas conforme a las que se desarrollará la sesión.
 
 ###### Artículo 36.
 
-Los servicios de salud se clasifican en tres tipos que son:
+A las sesiones de las Comisiones asistirán sus miembros y cualquier Diputado que desee hacerlo. La convocatoria para la reunión deberá expedirse cuando menos con cuarenta y ocho horas de anticipación por el Presidente y Secretario, salvo los casos considerados urgentes en los que podrá convocar sólo el primero.
 
-I.- De atención médica;
+En las deliberaciones de las Comisiones sólo podrán participar los Diputados. Únicamente votarán quienes sean miembros de la Comisión.
 
-II.- De salud pública; y
+> <small>(ADICIONADO, G.O. 18 DE ABRIL DE 2011)</small>
 
-III.- De asistencia social.
+El diputado proponente que haya presentado la iniciativa o proposición con o sin punto de acuerdo, aún sin ser miembro de la comisión, deberá ser convocado, en los términos del presente artículo, para asistir a la sesión en que se vaya a discutir o dictaminar su propuesta.
 
 ###### Artículo 37.
 
-Conforme a las prioridades del Sistema Estatal de Salud y al Programa Estatal de Reforma del Sector Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente en beneficio de grupos vulnerables.
+Cuando uno o más integrantes de una Comisión tuvieran interés personal en algún asunto que se remita al examen de ésta, se abstendrán de votar y firmar el dictamen y lo avisarán por escrito al Presidente de la misma.
+
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 38.
 
-Para la organización y administración de los servicios de salud, se definirán los criterios de distribución de universos de usuarios, de regionalización y de escalonamiento de los servicios, así como de universalización de cobertura y de colaboración institucional.
+Los presidentes de las Comisiones y Comités son responsables de los expedientes que en su caso, pasen por su estudio y, a este efecto, deberán firmar el recibo de ellos en el correspondiente libro de conocimientos. Dicha responsabilidad cesará cuando sean entregados, los dictámenes, a la Coordinación de Servicios Parlamentarios y enviados al Archivo Histórico de la Asamblea al término de cada legislatura.
+
+Previo al término de la Legislatura, los Presidentes de Comisión y Comité presentarán un informe de las principales actividades desarrolladas por ésta, así como una memoria de las reuniones de trabajo y los principales resolutivos o acuerdos, los cuales serán enviados a la Coordinación de Servicios Parlamentarios, en 2 ejemplares, de manera impresa y por medio electrónico, magnético, óptico u otros. Dicho informe se entregará a la Comsisón (sic) de la Legislatura entrante y al Archivo Histórico, debiendo publicarse en el sitio oficial de Internet de la Asamblea Legislativa.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 39.
 
-Para los efectos del derecho a la promoción y protección de la salud, se consideran servicios básicos los siguientes:
+Las Comisiones sesionarán por lo menos una vez al mes. Podrán igualmente hacerlo en fechas diversas, previa convocatoria de su Presidente y de su Secretario.
 
-I.- La educación para la salud, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias ambientales;
+Para llevarse a cabo las sesiones de las Comisiones se deberá de contar con el servicio de estenografía, salvo acuerdo en contrario en virtud de que exista causa justificada y se decida por la mayoría de los integrantes de la Comisión.
 
-II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
+La versión estenográfica será puesta a consideración de la Comisión en la siguiente sesión, en su caso tendrá valor probatorio pleno, salvo lo anterior, sin perjuicio de que los acuerdos adoptados por la Comisión en la sesión respectiva obliguen desde el momento que fueron tomados.
 
-III.- La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias;
-
-IV.- La atención a la salud del niño;
-
-V.- La salud reproductiva;
-
-VI.- La atención a la salud del adulto y del anciano;
-
-VII.- La salud mental;
-
-VIII.- La prevención y el control de las enfermedades bucodentales;
-
-IX.- La disponibilidad de un cuadro básico de los servicios de salud, conforme a los niveles de atención médica;
-
-X.- La promoción del mejoramiento de la nutrición;
-
-XI.- La asistencia social a los grupos más vulnerables;
-
-XII.- La atención a las víctimas de la violencia intrafamiliar y de abandono; y
-
-XIII.- Las demás que establezcan esta Ley y otras disposiciones legales aplicables.
+Cualquier Diputado podrá solicitar copia de las versiones estenográficas de las Comisiones o Comités, aún y cuando no sea integrante de las mismas, excepto cuando se trate de sesiones secretas. La Asamblea a través de las unidades administrativas competentes, garantizará que los Diputados y la población en general tenga acceso a esta información a través de sistemas de cómputo, mecanismos, instrumentos expeditos, ágiles, eficientes y económicos.
 
 ###### Artículo 40.
 
-El Gobierno del Estado, de conformidad con las disposiciones legales aplicables, vigilara que las instituciones que presten servicios de salud en la Entidad se ajusten al Cuadro Básico de Insumos para el Primer Nivel de Atención Médica y al Catalogo de Insumos para el Segundo y Tercer Nivel elaborados por el Consejo de Salubridad General. Asimismo, convendrá con el Ejecutivo Federal, los términos en que las dependencias y Entidades del Estado que presten servicios de salud puedan participar en la elaboración del mencionado cuadro y catalogo.
+La temática de las reuniones de Comisiones se dará a conocer con cuarenta y ocho horas de anticipación por lo menos, publicándose el Orden del Día en la Gaceta Parlamentaria de la Asamblea. Se exceptúa de lo anterior las reuniones urgentes.
 
 ###### Artículo 41.
 
-El Gobierno Estatal coadyuvará con las autoridades Federales competentes, para:
+Las Comisiones seguirán funcionando durante el receso de la Asamblea para el despacho de los asuntos a su cargo. El Presidente de cada Comisión tendrá a su cargo coordinar el trabajo de los miembros de la Comisión y citarlos cuando sea necesario, durante los recesos, para el despacho de los asuntos pendientes.
 
-I.- Que se garantice a la población del Estado la disponibilidad de medicamentos básicos; y
+Los dictámenes que emitan las Comisiones durante los recesos serán listados en el programa de trabajo del periodo de sesiones ordinarias siguiente.
 
-II.- Que los establecimientos de los sectores público, social y privado, dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a los preceptos legales aplicables.
+### CAPITULO II. DE LAS COMPARECENCIAS DE SERVIDORES PÚBLICOS
 
-### CAPÍTULO II. ATENCIÓN MÉDICA
+(REUBICADO [N. DE E. ANTES ARTICULO 144], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 42.
 
-Se entiende por atención médica, el conjunto de servicios que se proporcionan al individuo con el fin de proteger, promover y restablecer su salud.
+Dentro de la última semana de cada receso, las Comisiones deberán presentar a la Comisión de Gobierno, un informe por escrito de las actividades desarrolladas durante el receso y un listado de los asuntos dictaminados, así como las iniciativas y actividades pendientes o en proceso de Dictamen.
+
+Los informes servirán para programar los trabajos de los periodos de sesiones.
+
+> <small>(ADICIONADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+###### Artículo 42 Bis.
+
+La Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales tendrá las siguientes atribuciones:
+
+I. Fijar criterios generales para la vigilancia y evaluación de los programas sociales que permitan mejorar su funcionamiento y operación;
+
+II. Elaborar los lineamientos para la vigilancia y evaluación de las políticas y programas sociales;
+
+III. Emitir sugerencias y recomendaciones sobre la operación de las políticas y programas sociales ante las instancias correspondientes;
+
+IV. Vigilar que ningún servidor público del Distrito Federal que se desempeñe en alguna dependencia que implemente y opere programas sociales utilice recursos del erario para beneficio propio y de grupo, o para fines distintos a los establecidos;
+
+V. Promover una cultura de rendición de cuentas de los programas sociales;
+
+VI. Requerir toda información de los entes públicos que considere necesaria para el correcto funcionamiento de los planes y programas sociales y el desempeño de sus tareas, incluyendo aquella que se refiera a la adquisición o contratación de bienes y servicios con fines de desarrollo social;
+
+VII. Citar a comparecer a los servidores públicos del Distrito Federal para que informen sobre el diseño, implementación, criterios de operación y de evaluación interna de los planes y programas sociales a su cargo;
+
+VIII. Atender e investigar quejas y denuncias presentadas sobre la aplicación y ejecución de los programas;
+
+IX. Presentar ante la autoridad competente las quejas y denuncias que puedan derivar en el fincamiento de responsabilidades administrativas, civiles o penales relacionadas con los programas sociales;
+
+X. Emitir convocatoria y designar a la institución académica o de investigación que llevará a cabo la evaluación del programa social correspondiente;
+
+XI. Coadyuvar con las instancias correspondientes en la vigilancia y revisión periódica del uso de los recursos presupuestales y administrativos destinados al diseño, implementación y evaluación de las políticas y programas sociales;
+
+XII. Presentar los resultados obtenidos de las evaluaciones a las políticas y programas sociales, y
+
+XIII. Las demás que en el marco de la legislación vigente, acuerden el Pleno o la Comisión de Vigilancia y Evaluación de la Política de Desarrollo Social, para el cumplimiento de sus objetivos.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 43.
 
-Las actividades de atención médica son:
+La Comisión Jurisdiccional elaborará el dictamen conforme al procedimiento que establezca la Ley de la materia, respecto de los casos que la misma prevea.
 
-I.- Preventivas, que incluyen las de promoción general y las de protección específica;
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
 
-II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno; y
+### CAPITULO III. SERVICIOS DE LOS DIPUTADOS A LA CIUDADANÍA
 
-III.- De rehabilitación, que incluyen acciones tendientes a corregir la discapacidad física y mental.
+#### SECCIÓN 1. DE LA GESTIÓN SOCIAL
 
-### CAPÍTULO III
-
-PRESTADORES DE SERVICIOS DE SALUD.
+(REUBICADO [N. DE E. ANTES ARTICULO 148], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 44.
 
-Para los efectos de esta Ley, los servicios de salud, atendiendo a los prestadores de los mismos, se clasifican en:
+Las Comisiones de Investigación podrán abocarse a investigar todo lo relacionado con las dependencias y entidades de la administración pública central, desconcentrada y paraestatal del Distrito Federal, así como con los órganos políticos administrativos.
 
-I.- Servicios públicos a la población en general;
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
-II.- Servicios a derechohabientes de instituciones públicas de seguridad social mediante esquemas de cotización, o los que con sus propios recursos o por encargo del Ejecutivo Federal y Estatal, presten las mismas instituciones a otros grupos de usuarios; y
+Podrán constituirse por acuerdo del Pleno de la Asamblea Legislativa a propuesta de cuando menos 17 Diputados a la Asamblea y se integrará con los Diputados que apruebe el pleno, en los términos de lo establecido en la Ley Orgánica.
 
-III.- Servicios sociales y/o privados, sea cual fuere la forma en que se contraten.
+Dependiendo de la naturaleza de la investigación a realizar, se le deberá dotar de los recursos suficientes para cumplir eficazmente con su cometido, de acuerdo a la disponibilidad presupuestal de la Asamblea.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+
+El resultado de su investigación consistirá en un informe por escrito, el cual deberá contener los requisitos establecidos en el Reglamento Interior de las Comisiones y ser presentado ante el Pleno o durante los recesos a la Diputación Permanente quienes deberán hacer llegar dicho informe al Jefe de Gobierno.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 45.
 
-Son servicios públicos a la población en general, los que se presten en establecimientos públicos de salud a los habitantes del Estado que así lo requieran, regidos por criterios de universalidad y de gratuidad fundada en las condiciones socioeconómicas de los usuarios.
+Las Comisiones de Investigación contarán con las siguientes facultades:
+
+I.- Solicitar a las autoridades competentes la información necesaria para esclarecer el asunto objeto de investigación;
+
+II.- Citar por conducto del Presidente de la Mesa Directiva o de la Comisión de Gobierno, en los recesos, a los servidores públicos de la Administración Pública del Distrito Federal, que a su juicio puedan aportar mayores elementos para esclarecer la investigación;
+
+III.- Invitar por conducto del Presidente de la Mesa Directiva o de la Comisión de Gobierno, en los recesos, a los particulares involucrados en el caso, que a su juicio puedan aportar mayores elementos para esclarecer la investigación realizada, y
+
+IV.- Colaborar con las demás comisiones cuando el asunto se encuentre vinculado con las materias de la comisión.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 46.
 
-Las cuotas de recuperación que en su caso se recauden por la prestación de servicios de salud, se ajustarán a lo que disponga el tabulador de la Beneficencia Pública Estatal y, en su caso la Nacional.
+El informe de resultados que presente la Comisión deberá contener por lo menos, sin perjuicio de lo que disponga el Reglamento Interior de las Comisiones, lo siguiente:
 
-Para la determinación de las cuotas de recuperación se tomará en cuenta el costo de los servicios y las condiciones socioeconómicas del usuario.
+I.- Una relación de los hechos que dieron lugar a la constitución de la Comisión de Investigación;
 
-Las cuotas de recuperación se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del cobro a quien carezca de recursos para cubrirlas, o radique en las zonas de escaso desarrollo económico y social, conforme a las disposiciones del Gobierno del Estado.
+II.- Un listado de las reuniones celebradas por la Comisión, la fecha y el asunto abordado;
+
+III.- Un listado de toda la información y documentación que se allegó para sustentar la conclusión, y
+
+IV.- Las conclusiones y en su caso, las medidas que la Asamblea Legislativa en el ámbito de sus atribuciones emprenderá o se deban de emprender con motivo de los resultados.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 47.
 
-Son servicios a derechohabientes:
+Las Comisiones Especiales, se constituyen con carácter transitorio, por acuerdo del Pleno; funcionan en términos de lo dispuesto por la Ley Orgánica de la Asamblea, las disposiciones legales de la materia y, cuando así lo acuerde la Asamblea conocerán específicamente de los hechos que hayan motivado su integración y dejarán de existir cuando hayan cumplido el objeto para el que fueron creadas o bien por determinación del Pleno; su constitución deberá proponerse por la Comisión de Gobierno a petición de cualquiera de los Diputados a la Asamblea.
 
-I.- Los prestados por las instituciones a que se refiere la fracción II del Artículo 44 de esta Ley, a las personas que cotizan o a las que hubieren cotizado en las mismas conforme a sus Leyes y a sus beneficiarios; y
-
-II.- Los que con sus propios recursos, o por encargo del Ejecutivo Estatal, presten dichas instituciones a otros grupos de usuarios.
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 48.
 
-Los servicios de salud que presten las unidades públicas Estatales y empresas privadas, a sus empleados y a los beneficiarios de los mismos, con recursos propios o mediante la contratación de seguros individuales o colectivos, se regirán por las convenciones celebradas entre prestadores y usuarios, sin perjuicio de lo que establezcan las disposiciones de esta Ley y demás normas aplicables a las instituciones de salud.
+Además de este reglamento las comisiones se regirán por el Reglamento Interior de las Comisiones.
+
+#### SECCIÓN 2. DE LOS COMITÉS
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 47], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 49.
 
-Los trabajadores de los establecimientos Estatales de salud podrán participar en la gestión de los mismos, de conformidad con las disposiciones generales aplicables, así como opinar y emitir sugerencias tendientes al mejoramiento de los servicios de salud.
+Los Comités se integrarán por los Diputados que el Pleno determine, a propuesta de la Comisión de Gobierno, debiéndose reflejar en su integración la pluralidad de la Asamblea.
+
+Las disposiciones relativas a las Comisiones se observarán para los comités en lo que les sean aplicables. Cada Comité deberá expedir su Reglamento Interior y someterlo a aprobación del Pleno.
+
+La Secretaría Técnica estará bajo la dirección del Presidente del Comité, la cual deberá prestar servicio a todos los integrantes del mismo en los asuntos que a éste le atañen.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 48], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 50.
 
-El Gobierno del Estado y los municipios podrán convenir con las instituciones Federales de seguridad social, la prestación de servicios de salud para sus trabajadores.
+Corresponde al Comité de Administración:
+
+I.- Cumplimentar los acuerdos que emita el órgano de gobierno de la Asamblea en materia de planeación, organización, dirección y control de las actividades de las unidades administrativas;
+
+II.- Fijar los objetos, metas y políticas que deban cumplir las unidades administrativas, así como evaluar las actividades de las mismas;
+
+III.- Expedir los manuales de organización y procedimientos de las unidades administrativas;
+
+IV.- Formular las condiciones generales de trabajo de los servidores públicos de la Asamblea;
+
+> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+V.- Elaborar, en los términos del artículo 51 del presente Reglamento, el Programa Operativo Anual y con base en éste, el anteproyecto del Presupuesto de Egresos de la Asamblea;
+
+VI.- Elaborar y difundir los criterios para otorgar el apoyo a los Grupos Parlamentarios, a las Comisiones y a los Comités, así como a los Diputados Independientes;
+
+VII.- Elaborar los criterios a que se sujetarán los contratos y convenios que se celebren con terceros en las materias de obras públicas, adquisiciones, arrendamientos y prestaciones de servicios relacionados con bienes muebles e inmuebles. Dichos criterios señalarán los contratos y convenios que por su monto deberán ser aprobados por el propio Comité;
+
+VIII.- Proponer a la Comisión de Gobierno la creación de órganos de apoyo administrativo que coadyuven al desempeño de la administración de la Asamblea;
+
+IX.- Rendir anualmente al Pleno un informe de las actividades desarrolladas;
+
+X.- Conocer y analizar el informe mensual que rinda el Tesorero sobre el ejercicio presupuestal de la Asamblea;
+
+> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+XI.- Aprobar el Programa Operativo Anual y el programa para el ejercicio del gasto anual, a propuesta de la Tesorería;
+
+XII.- Fungir como instancia de gestión, apoyo y consulta de los Diputados, Grupos Parlamentarios, Comisiones y Comités, para sus requerimientos de recursos humanos, financieros, materiales y de servicios, y
+
+XIII.- Elaborar y publicar las convocatorias al concurso de oposición para los titulares de las unidades administrativas, de acuerdo con lo que establece el Reglamento del Concurso de Oposición para los Titulares de las unidades administrativas de la Asamblea Legislativa del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 51.
 
-El Gobierno del Estado y la Secretaría de Salud del Gobierno Federal, en el ámbito de sus respectivas competencias y en coordinación con las autoridades educativas, vigilarán el ejercicio de los profesionales, técnicos y auxiliares de la salud, en la prestación de los servicios respectivos.
+Para la elaboración del Programa Operativo Anual y del proyecto de presupuesto que se someterán a la aprobación del Pleno de la Asamblea, el Comité de Administración remitirá sus criterios al Tesorero, quien será responsable de preparar los anteproyectos respectivos, mismos que una vez sometidos a la consideración del Comité se presentarán a la Comisión de Gobierno para los efectos del Artículo 44, fracción III de la Ley Orgánica.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 50], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 52.
 
-Los Servicios de Salud de Morelos coadyuvarán con las autoridades educativas competentes para la promoción de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud; así mismo estimulará la participación de éstos en el Sistema Estatal de Salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando estas lo requieran.
+Para la elaboración de los criterios relacionados con el apoyo a los Grupos Parlamentarios, el Comité de Administración recabará el punto de vista de la Comisión de Gobierno, quien finalmente lo presentará al Pleno.
 
-### CAPÍTULO IV
+(REUBICADO [N. DE E. ANTES ARTICULO 51], G.O. 30 DE MARZO DE 2005)
 
-USUARIOS DE LOS SERVICIOS DE SALUD Y PARTICIPACIÓN DE LA COMUNIDAD.
+### CAPÍTULO I
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 53.
 
-Para los efectos de esta Ley, se considera usuario de servicios de salud a toda persona que requiera y obtenga los que presten los sectores público, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables.
+El informe anual del ejercicio del gasto que el Comité de Administración debe presentar al Pleno, será elaborado por el Oficial Mayor y por el Tesorero de la Asamblea, en la esfera de sus respectivas competencias. Dicho informe se presentará al Pleno durante el mes de marzo siguiente a la conclusión del ejercicio respectivo.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 52], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 54.
 
-Los usuarios tendrán derecho a obtener prestaciones de salud oportunas y de calidad idónea y a recibir atención profesional y éticamente responsable, así como trato respetuoso y digno por parte de los profesionales, técnicos y auxiliares.
+Corresponde al Comité de Asuntos Editoriales:
+
+I.- Nombrar al Director Editorial del Órgano Informativo denominado "Asamblea";
+
+II.- Convocar a estudiosos en las diversas ramas del conocimiento relacionadas con asuntos competencia de la Asamblea y los reservados al Congreso de la Unión en materia del Distrito Federal a fin de realizar coloquios, intercambios, seminarios y, en general, eventos culturales, cursos y conferencias;
+
+III.- Editar y publicar el órgano informativo denominado "Asamblea";
+
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
+
+IV.- Editar las leyes aplicables en el Distrito Federal así como publicaciones con temas relacionados con el Distrito Federal;
+
+V.- Fomentar el análisis y estudio de temas relacionados con el Distrito Federal a través de foros, convenios con instituciones educativas de investigación o entidades privadas dedicadas a labores específicas;
+
+VI.- (DEROGADA, G.O. 9 DE JULIO DE 2007)
+
+VII.- Difundir los temas más trascendentes para la vida política y social del Distrito Federal, a través de medios escritos, electrónicos o cualquier otro que sirva al propósito;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VIII.- Celebrar convenios con casas editoriales para la presentación de fondos y novedades editoriales;
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IX.- Fomentar y utilizar papel reciclado en todas las publicaciones en que intervenga, ya sea directa o por medio de terceros, y
+
+X.- Los demás asuntos inherentes al tema editorial.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 52 BIS], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 55.
 
-Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios de salud y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
+Corresponde al "Comité de la Biblioteca Francisco Zarco":
+
+I.- Administrar la biblioteca de la Asamblea en los términos del propio reglamento de la Biblioteca;
+
+II.- Mantener actualizadas y vigentes las colecciones bibliográficas de la Asamblea y otorgar las facilidades a los Diputados, autoridades y público en general para su consulta;
+
+III.- Promover el estudio de los temas referentes al Distrito Federal y auspiciar la consulta bibliográfica de la población sobre dichos temas;
+
+IV.- Custodiar en la biblioteca la información que pongan a su disposición las demás comisiones para consulta pública;
+
+V.- Impulsar que la Biblioteca de la Asamblea sea un espacio de producción de conocimientos sobre la ciudad y sus temas legislativos;
+
+VI.- Celebrar convenios interbibliotecarios con otros órganos legislativos e institucionales de educación superior y centros de investigación, y
+
+VII.- Difundir en el interior de la Asamblea el acervo con que cuenta la Biblioteca "Francisco Zarco", así como las próximas adquisiciones."
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 53], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 56.
 
-Los Servicios de Salud de Morelos establecerán los procedimientos para regular las modalidades de acceso a los servicios públicos de la población en general y a los sociales y privados en el Estado.
+Corresponde al Comité de Atención, Orientación y Quejas Ciudadanas, atender y tramitar las demandas o peticiones individuales o colectivas referentes a un problema concreto y particular, así como dar seguimiento a aquellas gestiones o peticiones realizadas por el Pleno, de conformidad con las siguientes atribuciones:
+
+I.- Coadyuvar en la difusión, promoción y ejecución de programas de beneficio social;
+
+II.- Emitir opinión a las autoridades de la administración pública local en la proyección de programas de beneficio social inmediato a las comunidades;
+
+III.- Instalar, instrumentar e integrar de manera pluripartidista, módulos de atención, orientación y quejas ciudadanas en lugares en donde se consideren estratégicos, los cuales estarán bajo la dirección del Comité;
+
+IV.- Proponer la celebración de convenios entre la Asamblea y las autoridades de la administración pública local para la instalación de los módulos a que se refiere la fracción anterior;
+
+V.- Realizar visitas y giras de trabajo, por sí o conjuntamente con las autoridades de la administración pública local, para supervisar los avances y terminación de las obras de beneficio social, o programas sociales que instrumente el Gobierno del Distrito Federal;
+
+VI.- Informar, semestralmente y por escrito, a la Comisión de Gobierno sobre las peticiones y quejas presentadas por los ciudadanos y del trámite que les dio a las mismas;
+
+VII.- Actuar de forma conjunta con las Comisiones correspondientes, para la solución de los problemas que se le presenten, y
+
+VIII.- Solicitar a las autoridades del Distrito Federal la información que considere procedente para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 56 Bis.
+
+Corresponde al Comité de Asuntos Internacionales:
+
+I. Coadyuvar en la difusión, promoción y ejecución de Convenios y Tratados Internacionales signados por los Estados Unidos Mexicanos, en los que tenga intervención el Distrito Federal;
+
+II. Emitir opinión a las autoridades de la Administración Pública Local, respecto de las materias en que tenga injerencia el Distrito Federal dentro de los Convenios Internacionales;
+
+III. Proponer la celebración de Convenios Internacionales con autoridades relacionadas con la Seguridad Pública, Desarrollo Social, Desarrollo Urbano, Medio Ambiente, y otras dependencias y autoridades, de las cuales se desprenda la necesidad de la celebración y vinculación de los mismos; asimismo, apoyar y dar atención a las observaciones que deriven de la aplicación a la normatividad en materia internacional, relacionadas con el Distrito Federal;
+
+IV. Realizar visitas y giras de trabajo, por si o conjuntamente con las autoridades de la administración pública local, y/o comisiones de la Asamblea Legislativa para supervisar el cumplimiento de la normatividad y los Convenios celebrados en materia internacional, y en los cuales tenga competencia el Distrito Federal;
+
+V. Informar, semestralmente y por escrito, a la Comisión de Gobierno sobre las peticiones y quejas presentadas por los ciudadanos y las gestiones realizadas ante los Órganos Internacionales y otras autoridades en los cuales tenga competencia el Distrito Federal;
+
+VI. Actuar de forma conjunta con las Comisiones correspondientes integrantes de la Asamblea, para la solución de los problemas en materia internacional que se le presenten, y
+
+VII. Solicitar a las autoridades Delegacionales y demás dependencias del Gobierno del Distrito Federal, así como Organismos Desconcentrados y Autónomos de la Ciudad, información sobre el cumplimiento de la normatividad en materia internacional, en los cuales tenga injerencia el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 56 Ter.
+
+Corresponde al Comité de Capacitación:
+
+I. Ser el órgano administrativo que vincule la búsqueda de herramientas teórico-formativas para el adecuado desempeño de las funciones de esta Asamblea;
+
+II. Proponer a la Comisión de Normatividad Legislativa, Estudios y Practicas Parlamentarias la implementación de programas institucionales de capacitación, para formar servidores públicos profesionales, a partir de la definición de las temáticas, contenidos, espacios y niveles de capacitación, que conllevan al desarrollo institucional;
+
+III. Generar en coordinación con la Comisión de Normatividad Legislativa, Estudios y Practicas Parlamentarias mecanismos de vinculación con instituciones educativas, áreas de investigación y especialistas en la problemática de la ciudad, que coadyuven la creación y promoción de cursos, talleres y conferencias para la formación y el desarrollo institucional de la Asamblea, y
+
+IV. Informar, semestralmente y por escrito, a la Comisión de Gobierno sobre la organización y resultados de los programas ejercidos en materia de capacitación.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 56 Quater.
+
+Corresponde al Comité para la promoción y seguimiento de la Cultura de la Legalidad:
+
+I. Actuar como un canal de comunicación con las Comisiones de la Asamblea, para atender las quejas referentes a la inobservancia de la normatividad aplicable en el Distrito Federal;
+
+II. Cumplir con los mandatos y apoyos necesarios que emitan las Comisiones de la Asamblea sobre el cumplimiento de la normatividad aplicable en el Distrito Federal;
+
+III. Llevar a cabo y proponer recorridos, por instrucciones de las Comisiones correspondientes de esta Asamblea, para indagar sobre el cumplimiento de la legislación vigente;
+
+IV. Promover y fomentar entre la ciudadanía y las dependencias y órganos de gobierno, la cultura de la corresponsabilidad en la observancia de las leyes que emita la Asamblea;
+
+V. Mantener una vinculación y comunicación estrecha con el Comité de Atención, Orientación y Quejas Ciudadanas a fin de atender los asuntos que se presenten derivados de la inobservancia de la normatividad aplicable en el Distrito Federal, y (sic)
+
+VI. Informar, semestralmente y por escrito, a la Comisión de Gobierno sobre las peticiones y quejas presentadas por los ciudadanos y las gestiones realizadas ante las autoridades;
+
+> <small>(ADICIONADA, G.O. 9 DE JULIO DE 2007)</small>
+
+VII.- Proponer al Comité de Asuntos Editoriales la edición de leyes o documentos que coadyuven a la difusión de la cultura de la legalidad.
+
+> <small>(ADICIONADO, G.O. 22 DE OCTUBRE DE 2009)</small>
+
+Artículo 56 Quintus.- Corresponde al Comité de Estudios y Estadística sobre la Ciudad de México:
+
+I. Producir Información relativa a la Ciudad de México;
+
+II. Vincular a la Asamblea Legislativa del Distrito Federal con instituciones, dependencias, centros o institutos de investigación, universidades, así como cualquier organismo que produzca, genere o detente información relativa al Distrito Federal, con el objeto de allegarse de estudios y estadísticas de la Ciudad de México;
+
+III. Difundir oportunamente la Información a través de mecanismos que faciliten su consulta;
+
+IV. Promover el conocimiento y uso de la Información relativa a la Ciudad de México;
+
+V. Coordinarse con el Comité de la Biblioteca “Francisco Zarco” para conservar la información que se genere en torno a la Ciudad de México, así como facilitar su difusión y consulta;
+
+VI. Proponer a la Comisión de Gobierno la elaboración de estudios sobre la Ciudad de México, y;
+
+VII. Proporcionar a las Comisiones de la Asamblea Legislativa del Distrito Federal la información que requieran para sustentar sus dictámenes.
+
+> <small>(ADICIONADO, G.O. 22 DE OCTUBRE DE 2009)</small>
+
+Artículo 56 Sextus.- Corresponde al Comité de Asuntos Interinstitucionales:
+
+I. Auxiliar a la Comisión de Desarrollo Metropolitano en el enlace con los Congresos de los Estados.
+
+II. Solicitar a los Congresos de los Estados, así como a sus Diputados, la información relevante que pueda ser útil para su aplicación en la Ciudad.
+
+III. Actuar de forma conjunta con la Comisión de Gobierno y la Comisión de Desarrollo Metropolitano a efecto de proponer encuentros entre Congresos Locales con el objeto de enriquecer el trabajo legislativo.
+
+IV. Emitir opiniones sobre asuntos legislativos que se discutan en los Estados.
+
+SEGUNDA PARTE
+
+DE LAS UNIDADES ADMINISTRATIVAS Y SUS FUNCIONES
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 54], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 57.
 
-Las autoridades sanitarias del Estado y las instituciones de salud establecerán sistemas de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran, así como procedimientos para que presenten sus quejas, reclamaciones y sugerencias respecto a la prestación de los servicios de salud y en relación a la falta de probidad, en su caso, de los servidores públicos.
+Para su función, organización y operación, la Asamblea contará con Unidades Administrativas, las que dependerán directamente, en su desempeño y el ejercicio de sus funciones, de la Comisión de Gobierno.
+
+Las Unidades Administrativas realizarán anualmente informes por escrito sobre el cumplimiento de las metas y objetivos planteados en sus programas de trabajo, dicho informe será remitido a la Contraloría Interna para su evaluación.
+
+El informe que al efecto elabore la Contraloría será evaluado por la Comisión de Gobierno y el Comité de Administración.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 55], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 58.
 
-Las personas o instituciones públicas o privadas que tengan conocimiento de accidentes o de que alguna persona requiera de la prestación urgente de servicios de salud, estarán obligados a trasladar, por los medios a su alcance, a los accidentados o enfermos a los establecimientos de salud más cercanos, en los que puedan recibir atención inmediata, sin perjuicio de su posterior remisión a otras instituciones.
+Las áreas administrativas que se creen, dependerán jerárquica y funcionalmente de las Unidades Administrativas especificadas en el presente Reglamento y tendrá las funciones que les señale el manual de organización y procedimiento que al efecto expida el Comité de Administración.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 56], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 59.
 
-De conformidad con lo que señalen las disposiciones generales aplicables, los Agentes del Ministerio Público que reciban informes o denuncias sobre personas que requieran de servicios de salud de urgencia, deberán disponer que éstas sean trasladadas de inmediato al establecimiento de salud más cercano.
+La Comisión de Gobierno presentará al Pleno la propuesta de los Titulares de cada una de las Unidades Administrativas para su ratificación; para este efecto será necesario el voto de la mayoría de los diputados presentes en la sesión respectiva.
+
+(REUBICADA, G.O. 30 DE MARZO DE 2005)
+
+#### SECCIÓN 1. DE LA OFICIALIA MAYOR
+
+(REUBICADO [N. DE E. ANTES ARTICULO 57], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 60.
 
-La participación de la comunidad en los programas de protección de salud, seguridad social y en la prestación de los servicios respectivos, tendrá por objeto fortalecer la estructura y funcionamiento de los sistemas de salud e incrementar el mejoramiento del nivel de salud de la población del Estado.
+Corresponde a la Oficialía Mayor de la Asamblea:
+
+I.- Administrar los bienes muebles e inmuebles asignados a la Asamblea;
+
+II.- Auxiliar a la Mesa Directiva en las funciones que le señala la Ley Orgánica y este Reglamento;
+
+III.- Coordinar los servicios administrativos de apoyo necesarios para la celebración de las sesiones del Pleno, de la Comisión de Gobierno, de las Comisiones y Comités;
+
+IV.- Coordinar los servicios de asistencia médica; servicios de personal; servicios generales y las demás áreas que el presupuesto autorice para el desarrollo de los trabajos de la propia Asamblea;
+
+V.- Fungir como apoderado de la Asamblea en los asuntos civiles, penales, mercantiles, laborales, administrativos, suscribir los convenios y contratos en los que la Asamblea sea parte;
+
+VI.- Editar el órgano informativo;
+
+VII.- Cumplimentar los acuerdos que de orden administrativo emita el Comité de Administración, derivado de lo dispuesto en el artículo 47 del presente Reglamento;
+
+VIII.- Publicar el Diario de los Debates;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE JULIO DE 2007)</small>
+
+IX.- Administrar y custodiar el Archivo Histórico de la Asamblea Legislativa y proponer a la Comisión de Gobierno para la aprobación, las normas de organización y gestión del mismo con base en el principio de transparencia y de conformidad con lo establecido en los ordenamientos jurídicos de la materia; y (sic)
+
+> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+X.- Ejecutar el Programa Operativo Anual aprobado por el Pleno de ésta Asamblea, así como emitir los lineamientos necesarios para su cumplimiento; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+XI.- Las demás que señale la Ley Orgánica y el presente Reglamento.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 58], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 61.
 
-La comunidad deberá participar corresponsablemente en los servicios de salud de los sectores públicos, social y privado, a través de las siguientes acciones:
+Para ser Oficial Mayor de la Asamblea se requiere:
 
-I.- Promoción de hábitos de conducta que contribuyan a proteger la salud o a solucionar problemas de salud e intervención en programas de promoción y mejoramiento de la salud y de prevención de enfermedades y accidentes;
+I.- Tener licenciatura o estudios de postgrado en el área económica-administrativa, jurídica o relacionada directamente con las funciones encomendadas;
 
-II.- Colaboración en la prevención o tratamiento de problemas ambientales vinculados a la salud;
+II.- Demostrar por los menos 3 años de ejercicio profesional y una experiencia laboral de la que se pueda inferir que posee los conocimientos y habilidades suficientes para cumplir con el perfil de este cargo;
 
-III.- Incorporación, como auxiliares voluntarios, en la realización de tareas simples de atención médica y asistencia social, y participación en determinadas actividades de operación de los servicios de salud, bajo la dirección y control de las autoridades correspondientes;
+III.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos, ni ser socio o accionista de sociedades en las que alguno de los Diputados forme o haya formado parte; y
 
-IV.- Notificación de la existencia de personas que requieran de servicios de salud, cuando éstas se encuentren impedidas para solicitar auxilio por si mismas;
+IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
 
-V.- Formulación de sugerencias para mejorar los servicios de salud;
+(REUBICADA, G.O. 30 DE MARZO DE 2005)
 
-VI.- Información a las autoridades sanitarias acerca de efectos secundarios y reacciones adversas por el uso de medicamentos y otros insumos para la salud o por el uso, desvío o disposición final de sustancias tóxicas o peligrosas y sus desechos;
+#### SECCIÓN 2. DE LA TESORERÍA
 
-VII.- Información a las autoridades competentes, de las irregularidades o deficiencias que se adviertan en la prestación de los servicios de salud; y
-
-VIII.- Otras actividades que coadyuven a la protección de la salud.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 59], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 62.
 
-Los Servicios de Salud de Morelos y demás instituciones de salud Estatales, promoverán y apoyaran la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades y accidentes, y de prevención de discapacidad y de rehabilitación de discapacitados.
+Corresponde a la Tesorería de la Asamblea:
+
+> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+I.- Preparar y remitir al Comité de Administración los anteproyectos del Programa Operativo Anual y de Presupuesto de Egresos de la Asamblea, en términos del artículo 51 del presente Reglamento;
+
+> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+II.- Administrar el presupuesto de la Asamblea de acuerdo a lo establecido en el Programa Operativo Anual aprobado por Pleno;
+
+III.- Gestionar ante las autoridades correspondientes, las ministraciones de los recursos económicos necesarios para cubrir el presupuesto de egresos de la Asamblea;
+
+IV.- Entregar las dietas a los Diputados, cubrir los sueldos y demás remuneraciones a los servidores públicos y empleados de la Asamblea, así como realizar los descuentos de carácter legal que se le ordenen;
+
+V.- Velar por el adecuado control y la exacta aplicación de los recursos presupuestales que sean proporcionados a la Asamblea para cubrir sus gastos de operación;
+
+VI.- Rendir cuentas al Comité de Administración respecto del ejercicio presupuestal a su cargo;
+
+VII.- Intervenir en los actos y contratos en los que la Asamblea sea parte y cuya celebración suponga una afectación directa al presupuesto de egresos de la propia Asamblea, y
+
+VIII.- Las demás que le confieran otras disposiciones legales o reglamentarias de la Asamblea, la Mesa Directiva y el Comité de Administración.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 60], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 63.
 
-Para los efectos del artículo anterior, en las cabeceras municipales y en las localidades en que se juzgue necesario, se constituirán comités de salud que podrán ser integrados por núcleos de población urbana, rural o indígena, los cuales tendrán como objetivo la participación en el mejoramiento y vigilancia de los servicios de salud en sus localidades y promover mejores condiciones ambientales que favorezcan la salud de la población, así como la organización de la comunidad para obtener su colaboración en la construcción de obras e infraestructuras básica y social y mantenimiento de unidades.
+Para ser Tesorero de la Asamblea se requiere:
+
+I.- Tener licenciatura o estudios de postgrado en el área económica-administrativa, jurídica o relacionada directamente con las funciones encomendadas;
+
+II.- Demostrar por lo menos 3 años de ejercicio profesional y una experiencia laboral de la que se pueda inferir que posee los conocimientos y habilidades suficientes para el perfil de este cargo;
+
+III.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos, ni ser socio o accionista de sociedades en las que alguno de los Diputados forme o haya formado parte; y
+
+IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
+
+#### SECCIÓN 3. DE LA CONTRALORÍA INTERNA
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 61], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 64.
 
-Los H. Ayuntamientos, con sujeción a las disposiciones legales aplicables, en coordinación con las instituciones de salud y las autoridades educativas competentes, tendrán la responsabilidad de organizar los comités a que se refiere el Artículo anterior y de que cumplan los fines para los que sean creados.
+La Contraloría General de la Asamblea tendrá a su cargo la auditoría interna del ejercicio del presupuesto de egresos de la Asamblea y de la Contaduría, incluyendo los recursos asignados a los grupos parlamentarios, los que deberán presentar un informe semestral a la contraloría con la debida justificación del uso y destino de los recursos que la Asamblea les otorgue. La contraloría auditara a los grupos parlamentarios respecto del ejercicio de los recursos que les sean asignados por la Asamblea.
+
+La Contraloría General presentará al pleno, por conducto de la Comisión de Gobierno, un informe semestral sobre el ejercicio del presupuesto de egresos de la Asamblea.
+
+Las resoluciones del Contralor se darán a conocer previamente a la Comisión de Gobierno.
+
+Además tendrá las siguientes atribuciones:
+
+I.- Apoyar, asistir y asesorar al Comité de Administración y a las demás Unidades Administrativas de la Asamblea y a la Contaduría en el ámbito de su competencia;
+
+II.- Conocer e investigar los actos u omisiones de los servidores públicos adscritos a las unidades administrativas de la Asamblea y de la Contaduría, que afecten la legalidad, honradez, lealtad, imparcialidad, confidencialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión; derivadas de quejas o denuncias presentadas por particulares, servidores públicos o aquellas relacionadas con auditorías y en especial las relacionadas con los procedimientos de adquisición de bienes, servicios, arrendamientos y contratación de obra pública, así como determinar e imponer las sanciones que correspondan en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos, las cuales se aplicarán a través del superior jerárquico del servidor público sancionado. Asimismo, le corresponderá sustanciar y resolver los recursos de revocación que se promuevan en contra de las resoluciones que impongan sanciones a los servidores públicos de la Asamblea y de la Contaduría, en términos de las disposiciones jurídicas y administrativas aplicables.
+
+Si las irregularidades detectadas constituyen delito promoverá las acciones legales que correspondan, informando de ello a la Comisión de Gobierno;
+
+III.- Verificar que las unidades administrativas que integran la Asamblea y la Contaduría cumplan con las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuesto, ingresos, egresos, financiamiento, inversión, deuda, fondos, valores y bienes del Distrito Federal en administración de la Asamblea Legislativa y de la Contaduría; así como las demás disposiciones relativas que dicte el Pleno de la Asamblea;
+
+IV.- Auxiliar a las Unidades Administrativas, en la elaboración y revisión de los manuales de organización y procedimientos, promoviendo y supervisando su difusión, aplicación y actualización, con énfasis en el aspecto preventivo;
+
+V.- Realizar dentro del ámbito de su competencia, todo tipo de auditorías y evaluaciones de las unidades administrativas que integran la Asamblea y la Contaduría, con el objeto de promover la eficiencia en sus operaciones;
+
+VI.- Verificar el cumplimiento de los objetivos contenidos en los Programas de la Asamblea y la Contaduría, formular, con base en los resultados de las auditorias, las observaciones y recomendaciones que de éstas se deriven, y establecer el seguimiento sistemático para el cumplimiento de las mismas, lo anterior sin perjuicio de lo dispuesto en la fracción II de este precepto;
+
+VII.- Presentar a la Comisión de Gobierno su Programa Anual de Auditorías y las que deba realizar fuera del mismo, para su aprobación;
+
+VIII.- Informar semestralmente a la Comisión de Gobierno sobre los resultados de las auditorías practicadas y las evaluaciones a las unidades administrativas que integran la Asamblea y la Contaduría, que hayan sido objeto de fiscalización, así como de las acciones que se indiquen para mejorar la gestión;
+
+IX.- Intervenir en los procesos de licitación, de adquisición de bienes, servicios, arrendamientos y de obra pública, para vigilar que se cumpla con las normas jurídicas y demás disposiciones técnicas o administrativas aplicables;
+
+X.- Supervisar la organización, sistemas, métodos y procedimientos que rigen la operación administrativa y el control de la gestión de la Asamblea y la Contaduría;
+
+XI.- Planear, Programar, organizar, coordinar y establecer el Sistema de Control y Evaluación de la Asamblea y la Contaduría en el ámbito administrativo, promoviendo permanentemente su actualización;
+
+XII.- Fiscalizar e Inspeccionar el ejercicio del gasto público y su congruencia con el Presupuesto de Egresos del Distrito Federal de la Asamblea y la Contaduría;
+
+XIII.- Participar en las transferencias formales de asuntos legislativos y administrativos al cierre de la gestión de la Asamblea y a la apertura de la Legislatura, así como en los cambios que en el transcurso de la misma se presenten;
+
+XIV.- Participar en los actos de entrega recepción de la Asamblea y de la Contaduría, en términos de la normatividad aplicable;
+
+XV.- Llevar el registro de los servidores públicos sancionados de las unidades administrativas de la Asamblea y de la Contaduría en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos;
+
+XVI.- Llevar el registro patrimonial de los servidores públicos de la Asamblea y de la Contaduría, y en su caso aplicar las sanciones que establezca la Ley de la materia;
+
+XVII.- Calificar los pliegos preventivos de responsabilidades que formulen las áreas contables de la Asamblea y de la Contaduría, de conformidad con la normatividad aplicable en la materia;
+
+XVIII.- Representar en el ámbito de su competencia a la Asamblea en términos de lo establecido por el Artículo 36 Fracción XVI de la Ley Orgánica, ante las autoridades administrativas o judiciales, en todos los asuntos en que ésta sea parte, o aquellos que se originen derivados del ejercicio de sus atribuciones legales;
+
+XIX.- Requerirá a las unidades administrativas de la Asamblea, de la Contaduría o a los particulares involucrados, la información necesaria para el desempeño de sus funciones;
+
+XX.- Certificar los documentos que se encuentren en sus archivos y los que genere en el ejercicio de sus atribuciones; y
+
+XXI.- Las demás que le sean atribuidas por la Ley y demás disposiciones normativas aplicables;
+
+El Subcontralor en la Contaduría Mayor de Hacienda de la Asamblea Legislativa en el Distrito Federal podrá ejercer, en su ámbito de competencia, todas las atribuciones listadas en el presente artículo, excepto las señaladas en las fracciones II, VII, VIII, XIII, XV, XVI y XVIII, las cuales serán ejercidas directamente por el titular de la Contraloría General de la Asamblea. No obstante, podrá ejercerlas en caso de que el Contralor General de la Asamblea se las delegue a través de un acuerdo general.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 62], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 65.
 
-Se concede acción popular para denunciar ante las autoridades sanitarias del Estado todo hecho, acto u omisión que represente un riesgo o provoque un daño a la salud de la población.
+Al frente de la Contraloría General habrá un Contralor, a quien corresponde la representación, trámite y resolución de los asuntos de la competencia de esa unidad administrativa, y para la mejor distribución y desarrollo del trabajo podrá auxiliarse de Subcontralores de Auditoría; de Legalidad y Responsabilidades; de Control y Evaluación; de la Contaduría Mayor de Hacienda de la Asamblea y de los servidores públicos subalternos establecidos en la estructura que apruebe la Comisión de Gobierno y/o el Comité de Administración, en el Manual de Organización y Procedimientos.
 
-La acción popular podrá ejercitarse por cualquier persona, bastando para darle curso, el señalamiento de los datos que permitan localizar la causa del riesgo.
+En el caso de ausencia del Contralor General de la Asamblea, será suplido por los Subcontralores de Auditoría; de la Contaduría Mayor de Hacienda de la Asamblea; de Legalidad y Responsabilidades; o de Control y Evaluación, en el orden citado.
 
-### CAPÍTULO V
+(REUBICADO [N. DE E. ANTES ARTICULO 63], G.O. 30 DE MARZO DE 2005)
 
-ATENCIÓN A LA SALUD DE LOS MENORES.
+### CAPÍTULO II. DE LA MEDALLA AL MÉRITO CIUDADANO
+
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 66.
 
-Se reconoce el derecho de los menores al disfrute del más alto nivel posible de salud y servicios para el tratamiento de enfermedades y la rehabilitación de la salud.
+Cuando en las auditorías se detecten irregularidades que afecten a la hacienda pública, deberá dar aviso inmediato a la Comisión de Gobierno.
 
-La atención a la salud de los menores tiene carácter prioritario, teniendo como objetivo general, mejorar sus actuales niveles de salud mediante la integración y desarrollo de programas de prevención y control de las enfermedades que más frecuentemente pueden afectarlos, comprendiendo las siguientes acciones:
+En caso de que las irregularidades detectadas puedan ser constitutivas de algún delito, la Comisión de Gobierno deberá hacerlo del conocimiento del Ministerio Público, y observar lo que establezcan las demás disposiciones normativas aplicables.
 
-I.- La atención al niño y la vigilancia de su crecimiento y desarrollo;
-
-II.- Promoción de un esquema básico de vacunación oportuno y gratuito, de cobertura Estatal;
-
-III.- La promoción de la integración y bienestar familiar;
-
-IV.- La prevención y control de las enfermedades más frecuentes;
-
-V.- La educación para su salud;
-
-VI.- Asegurar la prestación de la asistencia médica y la atención sanitaria que sean necesaria a todos los menores, haciendo hincapié en el desarrollo de la atención primaria de salud;
-
-VII.- Combatir las enfermedades y mal nutrición en el marco de la atención primaria de la salud, promoviendo la aplicación de tecnologías de fácil acceso y el suministro de alimentos nutritivos adecuados y agua potable salubre, teniendo en cuenta los peligros y riesgos de contaminación del medio ambiente; y
-
-VIII.- Adoptar las medidas eficaces y apropiadas posibles para abolir las prácticas tradicionales que sean perjudiciales para la salud de los menores.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 64], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 67.
 
-A efecto de conocer, sistematizar y evaluar el problema, para adoptar medidas conducentes, los Servicios de Salud de Morelos promoverán la organización sectorial de comités de prevención de la mortalidad infantil.
+Para ser Contralor General de la Asamblea Legislativa se requiere:
+
+I.- Tener Licenciatura o estudios de postgrado en el área económica-administrativa, jurídica o relacionada directamente con las funciones encomendadas;
+
+II.- Demostrar por lo menos 3 años de ejercicio profesional y una experiencia laboral de la que se pueda inferir que posee los conocimientos y habilidades suficientes para cubrir el perfil de este cargo;
+
+III.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos, ni ser socio o accionista de sociedades en las que alguno de los Diputados forme o haya formado parte;
+
+IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
+
+#### SECCIÓN 4. DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 65], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 68.
 
-La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, los tutores o quienes ejerzan la patria potestad sobre ellos, el Estado y la sociedad en general.
+Corresponde a la Coordinación General de Comunicación Social de la Asamblea:
+
+I.- Mantener contacto permanente con los medios de comunicación social, electrónicos y escritos, y sus representantes, a fin de garantizar la plena y oportuna información hacia los ciudadanos del Distrito Federal, acerca de las actividades y opiniones que se desarrollen en la Asamblea;
+
+II.- Fungir como instancia de apoyo al Pleno, a las Comisiones ordinarias y a los Comités, en lo que se refiere a la difusión social de sus acuerdos, labores y propuestas pluripartidistas, y
+
+III.- Reflejar en todo momento el carácter y composición plurales de la Asamblea, en lo que hace a la comunicación social, la que al mismo tiempo debe preservar las características de objetividad y de atención a la demanda ciudadana;
+
+IV.- Brindar a través de sus áreas, el apoyo institucional que los Diputados soliciten, en lo que corresponda a esta materia;
+
+V.- Fijar una política de comunicación social de acuerdo a los criterios que emita la Comisión de Gobierno y el Comité de Administración;
+
+VI.- Destinar de manera transparente y proporcional los recursos económicos, de tal forma que todos los Grupos Parlamentarios representados en la Asamblea tengan presencia en los medios de comunicación;
+
+VII.- Publicar en la página de internet de la Asamblea Legislativa y dos diarios de circulación nacional, la lista de asistencia de los Diputados en los términos que se establecen en el artículo 27 de este Reglamento;
+
+> <small>(ADICIONADA, G.O. 9 DE JULIO DE 2007)</small>
+
+VIII. Incluir en cualquier transmisión que se realice de las sesiones de la Asamblea, la imagen del interprete-traductor a que se refiere el artículo 35 párrafo cuarto de la Ley Orgánica, a fin de dar mayor difusión a algún tema solicitado con antelación por el diputado.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 66], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 69.
 
-En la organización y operación de los servicios de salud destinados a la atención de los menores, las autoridades sanitarias del Estado, establecerán:
+Los Grupos Parlamentarios acreditarán ante la Coordinación General de Comunicación Social dos profesionales de la comunicación, quienes constituirán un Consejo Asesor presidido por el Coordinador General de Comunicación Social, para garantizar el cumplimiento de lo establecido en el artículo anterior.
 
-I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los menores;
-
-II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional de los menores;
-
-III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarréicos y las infecciones respiratorias agudas en los menores de cinco años; y
-
-IV.- Acciones de coordinación con las instituciones del sector para extender la cobertura de los servicios de atención a los menores, con el objeto de alcanzar el acceso universal, eliminando barreras económicas para los cinco componentes de la atención a la salud de los menores.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 67], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 70.
 
-Las autoridades sanitarias, educativas y laborales, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
+Para ser Coordinador General de Comunicación Social de la Asamblea se requiere:
 
-I.- Los programas para padres, destinados a promover la atención a la salud de los menores;
+I.- Poseer y demostrar por lo menos 3 años de ejercicio profesional y una experiencia laboral en áreas de Comunicación o periodismo, de la que se pueda inferir que posee los conocimientos y habilidades suficientes para este cargo;
 
-II.- Las actividades recreativas, de esparcimiento y culturales, destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
+II.- No tener algún cargo directivo dentro de un Partido Político;
 
-III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
+III.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos, ni ser socio o accionista de sociedades en las que alguno de los Diputados forme o haya formado parte;
 
-IV.- Las acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excreta;
+IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
 
-V.- Los programas de prevención al maltrato infantil y de la violencia intrafamiliar; y
+#### SECCIÓN 5. DE LA COORDINACIÓN DE SERVICIOS PARLAMENTARIOS
 
-VI.- Las demás que coadyuven a la salud de los menores.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 68], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 71.
 
-En materia de higiene escolar, corresponde a las autoridades sanitarias del Estado, establecer las normas para proteger la salud del educando y de la comunidad escolar de los centros educativos de la Entidad. Las autoridades educativas y sanitarias Estatales se coordinarán para la aplicación de dichas normas.
+Corresponde a la Coordinación de Servicios Parlamentarios:
 
-La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias Estatales y educativas competentes.
+I.- Auxiliar a la Mesa Directiva en las funciones que le señala la Ley Orgánica y este Reglamento;
 
-### CAPÍTULO VI
+II.- Llevar los libros de control para el despacho de los asuntos que acuerde el Pleno para dar curso a los negocios que ordene el Presidente; así como libros de recepción y devolución de documentos a Comisiones y otro en el que se asienten los documentos recibidos por esta Unidad Administrativa;
 
-SERVICIOS DE SALUD REPRODUCTIVA.
+III.- Expedir en los recesos de la Asamblea, las copias y certificaciones de las actas y documentos relacionados con las sesiones del Pleno y Diputación Permanente, así como aquellas de los demás documentos emitidos por las comisiones y comités de la Asamblea que soliciten los Grupos Parlamentarios, los Diputados o cualquier autoridad competente;
+
+IV.- Apoyar al Presidente y a los Secretarios de la Mesa Directiva en el desahogo de las sesiones, y en lo que se refiere a dar trámite a los documentos que sean tratados por el pleno, en los términos previstos por la Ley Orgánica;
+
+V.- Coordinar la asesoría jurídica y legislativa que se brinde a los Diputados, Mesa Directiva, Comisión de Gobierno, Comisiones y Comités que así lo soliciten, para el buen desarrollo de sus actividades;
+
+VI.- Editar las memorias de la Asamblea y el Diario de los Debates;
+
+VII.- Editar y Publicar la Gaceta Parlamentaria;
+
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
+
+VIII. Coordinar los servicios de estenografía, grabación y sonido, debiendo conservar en el área correspondiente la grabación y versiones estenográficas de las sesiones de las Comisiones y Comités.
+
+> <small>(ADICIONADA, G.O. 9 DE JULIO DE 2007)</small>
+
+IX. Ser el órgano técnico responsable de llevar a cabo el Servicio Parlamentario de Carrera de conformidad con la ley Orgánica de la Asamblea y Ley del Servicio Parlamentario de Carrera de la Asamblea
+
+X.- Mandar a publicar las listas de asistencias de los Diputados en los términos previstos por el artículo 27 de este Reglamento; y
+
+XI.- Las demás que señale la Ley y el presente Reglamento.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 69], G.O. 30 DE MARZO DE 2005)</small>
+
+### CAPITULO III. DE LA DISTINCIÓN EN LAS CIENCIAS, LAS ARTES Y LA EJECUCIÓN MUSICAL Y ARTÍSTICA
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 72.
 
-La salud reproductiva tiene carácter prioritario. Tiene como objetivo general, proporcionar información y servicios de salud reproductiva a la población, incluyendo acciones de planificación familiar. En sus actividades se debe incluir información, orientación educativa y servicios para los adolescentes y jóvenes. Asimismo, para disminuir la morbilidad y mortalidad materna y perinatal, se debe contribuir a que los individuos y las parejas disfruten de una vida sexual y reproductiva satisfactoria, saludable y sin riesgos, con la absoluta libertad para decidir de manera libre, responsable y bien informada el número y espaciamiento de los hijos y, de esta forma, regular en forma armónica el crecimiento de la población.
+Para ser Coordinador de Servicios Parlamentarios se requiere:
 
-Los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre su vida sexual y reproductiva, con pleno respeto a su dignidad.
+I.- Tener licenciatura o estudios de postgrado en derecho o alguna rama relacionada directamente con las funciones encomendadas;
 
-En el ámbito de los servicios de salud reproductiva, quienes practiquen una esterilización o un método de planificación familiar, sin la voluntad del paciente, o ejerzan presión para que éste la admita, serán sancionados conforme a las disposiciones de esta Ley, independientemente de las responsabilidades penales en que incurran.
+II.- Demostrar por los menos 3 años de ejercicio profesional y una experiencia laboral de la que se pueda inferir que posee los conocimientos y habilidades suficientes para cumplir con el perfil de este cargo;
+
+III.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos, ni ser socio o accionista de sociedades en las que alguno de los Diputados forme o haya formado parte; y
+
+IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
+
+#### SECCIÓN 6. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
+
+(REUBICADO [N. DE E. ANTES ARTICULO 70], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 73.
 
-La atención a la salud reproductiva comprende las siguientes acciones:
+El Instituto de Investigaciones Parlamentarias, es un órgano administrativo de la Asamblea, cuyo objetivo es la investigación y difusión de temas relacionados con el estudio, historia, funciones, actividad y prácticas legislativas. El instituto estará a cargo de un director y contará con el personal administrativo que requiera para el desempeño de sus funciones de acuerdo al presupuesto que la Asamblea le asigne, teniendo las siguientes funciones:
 
-I.- Atención a la salud de la mujer, con énfasis a los padecimientos que más frecuentemente las afectan y los de mayor riesgo;
+I.- Elaborar un programa de actividades e investigaciones que establezca los criterios y acciones de investigación.
 
-II.- Atención a la salud de la mujer durante el embarazo, el parto y el puerperio;
+II.- Realizar las investigaciones legislativas que le sean solicitadas por el Pleno, la Comisión de Gobierno y las Comisiones de la Asamblea;
 
-III.- Servicios de planificación familiar, considerando los componentes señalados a este efecto por la Ley General de Salud;
+III.- Impartir cursos de capacitación en materias de técnica legislativa y prácticas parlamentarias;
 
-IV.- Promoción y desarrollo de programas de comunicación educativa en materia de salud reproductiva, con base en los contenidos y estrategias que establezcan los consejos nacional y Estatal de población;
+IV.- Realizar estudios para el perfeccionamiento de las prácticas parlamentarias de la Asamblea;
 
-V.- La asesoría para la prestación de servicios de salud reproductiva, a cargo de los sectores público, privado y social, y la supervisión y evaluación de su ejecución, de acuerdo con las políticas establecidas por los consejos nacional y Estatal de población;
+V.- Recopilar, ordenar y facilitar para su consulta, por parte del personal de la Asamblea y del público en general, la información, documentación y bibliografía útil en materia legislativa relativa al Distrito Federal;
 
-VI.- El apoyo y fomento de la investigación, desde la perspectiva de género en materia de salud reproductiva;
+VI.- Establecer los mecanismos de colaboración y coordinación con Instituciones afines para el cumplimiento de sus objetivos.
 
-VII.- La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas; y
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
 
-VIII.- La promoción de la participación del hombre en la toma de decisiones reproductivas responsables con su pareja, incorporando la perspectiva de género en el diseño y ejecución de programas y proyectos en ésta materia.
+VII.- Compilar leyes expedidas por la Asamblea y ponerlas a disposición de los interesados para su consulta. Asimismo, deberá determinar cuáles son las disposiciones legales vigentes en el Distrito Federal y resolver cuáles son las que quedan reformadas, derogadas o abrogadas, y
+
+> <small>(ADICIONADA, G.O. 9 DE JULIO DE 2007)</small>
+
+VIII. Recibir los proyectos de investigación de las Comisiones a que se refiere el artículo 61 de la Ley Orgánica, además de recopilarlos y ordenarlos en un acervo sistematizado.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 71], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 74.
 
-Los Servicios de Salud de Morelos, promoverán la organización sectorial de comités de prevención de la mortalidad materna, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
+El Instituto de Investigaciones Parlamentarias, es un órgano administrativo de la Asamblea, el cual estará a cargo de:
+
+a) Un Consejo Directivo, conformado por un diputado representante de cada uno de los Grupos Parlamentarios que representan la Asamblea Legislativa.
+
+b) Un Director General.
+
+c) Un Consejo Académico de carácter consultivo; formado de siete personalidades Académicas designadas por el Consejo Directivo.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 72], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 75.
 
-Los comités de salud a que se refiere el Artículo 63 de esta Ley, promoverán que en las poblaciones y comunidades semiurbanas y rurales del Estado, se impartan pláticas de orientación en materia de salud reproductiva.
+Para ser Director del Instituto de Investigaciones Parlamentarias se requiere:
 
-Las instituciones de salud y educativas otorgarán al efecto el apoyo necesario.
+I.- Tener licenciatura o estudios de postgrado en Derecho o alguna rama relacionada directamente con las funciones encomendadas;
+
+II.- Demostrar experiencia en materia jurídica o legislativa o en alguna rama de las ciencias sociales;
+
+III.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos, ni ser socio o accionista de sociedades en las que alguno de los Diputados forme o haya formado parte;
+
+IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
+
+#### SECCIÓN 6 (SIC). DE LA UNIDAD DE ESTUDIOS Y FINANZAS PUBLICAS DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
+
+(REUBICADO [N. DE E. ANTES ARTICULO 73], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 76.
 
-El Gobierno del Estado coadyuvará con la Secretaria de Salud en las acciones del Programa de Salud Reproductiva, incorporando en los programas Estatales de salud, las acciones que para el caso formulen los Consejos Nacional y Estatal de Población, así como las del Programa de Salud Reproductiva del Sector Salud.
+La Unidad de Estudios y Finanzas Públicas es el órgano de apoyo técnico de carácter institucional y no partidista, integrado por especialistas en el análisis, organización y manejo de información relacionada con las finanzas públicas del Distrito Federal.
 
-### CAPÍTULO VII
+La Unidad de Estudios y Finanzas Públicas se encargará de preparar y proporcionar elementos para el desarrollo de las tareas legislativas de las Comisiones, Grupos Parlamentarios y Diputados.
 
-ATENCIÓN A LA SALUD DEL ADULTO Y DEL ANCIANO.
+Estará a cargo de un Director y contará con el personal administrativo que se requiera para el desempeño de sus funciones de acuerdo al Presupuesto que la Asamblea le designe.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 74], G.O. 30 DE MARZO DE 2005)
+
+### CAPÍTULO IV. DE LA MEDALLA AL MÉRITO POLICIAL
+
+> <small>(REFORMADO, G.O. 4 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 77.
 
-La salud del adulto y del anciano tiene carácter prioritario; su objetivo general es la promoción y protección de la salud, la prevención, detección oportuna y control de las enfermedades crónico-degenerativas y, elevar la calidad de vida de la población adulta y de los ancianos.
+Las funciones de la Unidad de Estudios de Finanzas Públicas serán las siguientes:
+
+I.- Auxiliar y asesorar a las comisiones competentes en los trabajos de análisis de los informes sobre la situación económica, las finanzas públicas y la deuda que presenta trimestralmente el jefe de Gobierno a la Asamblea Legislativa;
+
+II.- Auxiliar y asesorar a las comisiones competentes en los trabajos de análisis del informe anual sobre las acciones y resultados de la ejecución del programa general de desarrollo del Distrito Federal;
+
+III.- Auxiliar y asesorar a las comisiones competentes en los trabajos de análisis de las iniciativas de Presupuesto, Ley de Ingresos y leyes fiscales que presente el Jefe de Gobierno a la Asamblea Legislativa;
+
+IV.- Elaborar análisis, estudios, proyecciones y cálculos sobre el tema de finanzas públicas, que le sean requeridas por las comisiones con competencia en las cuestiones de hacienda pública;
+
+V.- Proporcionar a las comisiones de la Asamblea Legislativa, a los Grupos Parlamentarios y a los Diputados la información que requieran para el ejercicio de sus funciones constitucionales en materia de finanzas públicas, esa información se presentaría previo su procesamiento adecuado;
+
+VI.- Recopilar, ordenar y facilitar para su consulta, por parte del personal de la Asamblea, la información, documentación y bibliografía útil en materia de finanzas públicas del Distrito Federal; y
+
+VII.- Diseñar, actualizar y operar el sistema de Cálculo Fiscal de la Asamblea, bajo los lineamientos que se establezcan en el Programa Estratégico.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 75], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 78.
 
-La atención a la salud del adulto y del anciano comprende las siguientes acciones:
+La Unidad no podrá entregar, por sí misma, información a entidades ajenas a la Asamblea Legislativa. Las opiniones públicas de los integrantes de la Unidad serán siempre a título estrictamente personal, pero deberán guardar la reserva que el ejercicio de sus funciones les impone.
 
-I.- Utilización de métodos sensibles y específicos para la detección temprana de enfermedades crónico-degenerativas;
+Los informes solicitados por las comisiones de la Asamblea Legislativa a la Unidad serán entregados siempre al Presidente de la Comisión correspondiente.
 
-II.- Desarrollo de programas de comunicación educativa dirigidos a la comunidad, con el propósito de informar sobre los factores de riesgo de las enfermedades crónico-degenerativas;
+Para el cumplimiento de sus funciones de apoyo y asesoría a las comisiones con competencia en las cuestiones de Hacienda Pública, a que se refiere la Ley Orgánica y este Reglamento, el titular de la Unidad mantendrá contacto permanente con éstas para prever sus necesidades.
 
-III.- Apoyo y fomento de la investigación en materia de enfermedades crónico-degenerativas; y
+La información que por este motivo reciba la Unidad, le será entregada por el Presidente de la Comisión respectiva al titular de la Unidad, en copia simple y no podrá usarse para fines diferentes a los solicitados por la comisión.
 
-IV.- Las demás que coadyuven a la salud del adulto y del anciano.
+> <small>(REFORMADO [N. DE E. ANTES ARTICULO 76], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 79.
 
-Los Servicios de Salud de Morelos promoverán la organización institucional de programas de atención a la salud del adulto y del anciano, a efecto de conocer, sistematizar y evaluar el problema de las enfermedades crónico-degenerativas, para adoptar las medidas conducentes.
+Para ser Director de la Unidad de Estudios y Finanzas Públicas, se requiere:
+
+I.- Ser ciudadano del Distrito Federal con una residencia efectiva mínima ininterrumpida de 6 años;
+
+II.- Tener cuando menos 30 años cumplidos al día de la designación;
+
+III.- Tener licenciatura en derecho, economía, contaduría pública, administración pública o carreras afines y directamente vinculadas a las finanzas públicas, con una antigüedad de por lo menos cinco años al día de la designación;
+
+IV.- Tener experiencia profesional demostrable en materia de finanzas públicas de por lo menos cinco años al día de la designación;
+
+V.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni de los miembros del órgano de Dirección de la Contaduría Mayor de Hacienda de la Asamblea Legislativa, ni haber tenido relaciones profesionales, laborales o de negocios con alguno de ellos durante el último año al día de su designación, ni ser socio o accionista de sociedad en los que alguno de ellos forme o haya formado parte;
+
+VI.- No haber sido condenado por delito doloso cualquiera que haya sido la pena;
+
+VII.- No haber sido empleado o funcionario de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal durante los 5 años anteriores a su designación; y
+
+VIII.- No haber sido postulado para cargo de elección popular en los 5 años anteriores a su designación.
 
 ###### Artículo 80.
 
-Los Servicios de Salud de Morelos establecerán y promoverán programas para la detección oportuna y atención del cáncer cérvico uterino y cáncer de mama.
+La Comisión de Gobierno es el órgano interno de gobierno permanente de la Asamblea encargado de optimizar el ejercicio de sus funciones legislativas, políticas y administrativas de la misma y tendrá las facultades que la Ley Orgánica y el presente Reglamento le otorguen.
+
+Cuando la Comisión de Gobierno se integre en términos de lo establecido por el párrafo segundo del artículo 41 de la Ley Orgánica, las determinaciones se tomarán por mayoría de votos de sus integrantes presentes.
+
+En el supuesto de integración de la Comisión de Gobierno conforme al párrafo tercero del artículo 41 de la Ley Orgánica y en caso de ausencia del Coordinador del Grupo Parlamentario en la sesión respectiva, el Vicecoordinador tendrá derecho a votar; voto que será ponderado con relación al número de integrantes que éste tenga en la Asamblea.
+
+En ausencia del Coordinador de algún Grupo Parlamentario, el Vicecoordinador asumirá las atribuciones correspondientes en las sesiones de la Comisión de Gobierno.
+
+#### SECCIÓN 2. DE LA DIPUTACIÓN PERMANENTE
+
+(REUBICADO [N. DE E. ANTES ARTICULO 78], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 81.
 
-Los Servicios de Salud de Morelos conforme a las Normas Oficiales Mexicanas que establezca la Secretaria de Salud del Gobierno Federal, prestará atención médica a los adultos y ancianos que presenten enfermedades crónico-degenerativas incluidas como prioritarias en el Programa Estatal de Salud.
+La Diputación Permanente es el órgano deliberativo de la Asamblea que durante los recesos de ésta, desempeña las funciones que le señala la Ley Orgánica y este Reglamento.
 
-### CAPÍTULO VIII. SALUD MENTAL
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 79], G.O. 30 DE MARZO DE 2005)</small>
+
+### CAPÍTULO V. DE LA MEDALLA AL MÉRITO DEPORTIVO
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 82.
 
-La prevención de las enfermedades mentales tiene carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
+La Diputación Permanente se integrará por el veinte por ciento del total de los Diputados del Pleno. Habrá en igual número y en forma proporcional, un listado de Diputados suplentes que actuarán en ausencia de algún integrante de la Diputación Permanente por orden de prelación por Grupo Parlamentario.
+
+La designación se hará en la víspera de la clausura de sesiones ordinarias y sus integrantes durarán todo el periodo de receso aún y cuando haya sesiones extraordinarias.
+
+La Diputación Permanente se integrará de manera proporcional conforme al número de Diputados que cada Grupo parlamentario posea en el pleno.
+
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Sólo podrán participar en las sesiones de la Diputación Permanente los diputados que hayan sido designados por el Pleno como titulares o sustitutos.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 80], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 83.
 
-Para la promoción de la salud mental, los Servicios de Salud de Morelos y las instituciones de salud, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
+La Diputación Permanente sesionará los días y la hora en que el Presidente señale en la convocatoria respectiva.
 
-I.- El desarrollo de actividades educativas, socio-culturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
 
-II.- La orientación para la promoción de la salud mental;
+La Diputación Permanente sesionará por lo menos una vez a la semana, salvo por caso fortuito o de fuerza mayor y siempre que así lo acuerde la mayoría de sus integrantes.
 
-III.- La realización de programas para la prevención del uso de sustancias psicotrópicas, estupefacientes, inhalantes y otras sustancias que puedan causar alteraciones mentales o dependencias; y
-
-IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+(REUBICADO [N. DE E. ANTES ARTICULO 81], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 84.
 
-La atención de las enfermedades mentales, comprende:
-
-I.- La atención de personas con padecimiento mentales, la rehabilitación de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o sustancias psicotrópicas; y
-
-II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
+Para el desarrollo de las sesiones de la Diputación Permanente se aplicará en lo conducente el Título Tercero, Capítulo I del presente ordenamiento.
 
 ###### Artículo 85.
 
-Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales.
+El derecho de iniciar las leyes o decretos ante la Asamblea compete:
 
-Para tal efecto podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
+I.- A los Diputados de la Asamblea;
+
+II.- Al Jefe de Gobierno, y
+
+III.- A los ciudadanos del Distrito Federal, de conformidad con la fracción IV del artículo 46 del Estatuto.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 83], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 86.
 
-Los Servicios de Salud de Morelos conforme a las Normas Oficiales Mexicanas que establezca la Secretaria de Salud, prestarán atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones Estatales no especializadas en salud mental.
+Las iniciativas de ley o decreto presentadas por uno o varios miembros de la Asamblea o por el Jefe de Gobierno, previo turno dado por el Presidente de la Mesa Directiva o de la Comisión de Gobierno pasarán desde luego a la comisión o comisiones procurando que no sean más de dos comisiones, mismas que deberán revisar, estudiar, analizar y reformar, en su caso, la iniciativa y formular su correspondiente dictamen.
 
-Para éstos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
 
-## TÍTULO CUARTO. RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
+Las iniciativas que presentes los diputados deberán ir de manera impresa y por medio electrónico, magnético, óptico u otros.
 
-### CAPÍTULO I. PROFESIONALES, TÉCNICOS Y AUXILIARES
+Las iniciativas populares serán turnadas a una comisión especial integrada por miembros de las comisiones competentes en la materia propuesta, para el efecto de que verifique que se cumple con los requisitos que señala el artículo 46 del Estatuto y la Ley de Participación Ciudadana, en cuyo caso remitirá a la Mesa Directiva o a la Comisión de Gobierno en los recesos, para que se turne a la comisión o comisiones que corresponda su análisis y dictamen. En caso contrario, se desechará de plano la iniciativa presentada.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 84], G.O. 30 DE MARZO DE 2005)</small>
+
+## TÍTULO CUARTO. DE LA ENTREGA DE PRESEAS Y RECONOCIMIENTOS DE LA ASAMBLEA LEGISLATIVA
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
+
+### CAPÍTULO VI. DEL PROCESO DE ELECCIÓN DE CANDIDATOS
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 87.
 
-En el Estado de Morelos, el ejercicio de las profesiones, de las especialidades, de las actividades técnicas, auxiliares y de las especialidades de la salud, estará sujeto a:
+La Comisión elaborará el dictamen respectivo para ser presentado ante el Pleno en un plazo no mayor de treinta días naturales a partir de su recepción en la Comisión, salvo prórroga debidamente fundamentada que apruebe el Pleno o en los recesos, la Diputación Permanente, a petición de la Comisión dictaminadora.
 
-I.- La Ley Sobre el Ejercicio de las Profesiones del Estado de Morelos;
+Todo dictamen estará integrado por una adecuada fundamentación, motivación, antecedentes, considerandos, las modificaciones que en su caso se hayan realizado y los puntos resolutivos.
 
-II.- Las bases de coordinación que, conforme a la Ley se definan entre las autoridades educativas y las autoridades sanitarias del Estado;
+La parte considerativa contendrá las modificaciones que en su caso se hayan realizado.
 
-III.- Los convenios que al efecto se suscriban entre el Gobierno del Estado y la Federación; y
+El dictamen de la Comisión deberá presentarse firmado por los miembros de la misma. Si alguno o algunos de los integrantes de la Comisión disienten del dictamen, se hará la anotación en contra, junto con la firma respectiva. Los Diputados podrán formular los votos particulares.
 
-IV.- Las disposiciones de esta Ley y demás normas jurídicas aplicables.
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Los dictámenes que se entreguen a la Mesa Directiva para su discusión en el Pleno de la Asamblea deberán estar acompañados de manera impresa y por medio electrónico, magnético, óptico u otros.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 85], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 88.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología y sus ramas y las demás que establezcan otras disposiciones legales aplicables, se requiere que los Títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Si la Asamblea se encuentra en periodo de sesiones ordinarias y hubiere transcurrido el plazo señalado en el artículo anterior, el Presidente hará una excitativa a la Comisión para que la dictamine, lo mismo se observará durante el periodo de receso por el Presidente de la Diputación Permanente.
 
-Para el ejercicio de las actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia de lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido expedidos y registrados por las autoridades educativas competentes.
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Si pasados cinco días a partir de la excitativa no se hubiere producido dictamen, el Presidente enviará la iniciativa a la Comisión de Normatividad Legislativa, Estudios y Prácticas Parlamentarias para que elabore el dictamen correspondiente en un plazo que en ningún caso podrá ser mayor a treinta días naturales.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 86], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 89.
 
-Las autoridades educativas del Estado proporcionarán a las autoridades sanitarias Estatales, la relación de Títulos, diplomas y certificados de área de la salud que hayan registrado y la de cédulas profesionales expedidas, así como la información complementaria sobre la materia que sea necesaria.
+Los Diputados integrantes de la Comisión que no hayan cumplido con los tiempos establecidos para la elaboración del dictamen, serán sujetos de amonestación, previo a ser escuchados por la Mesa Directiva en los siguientes casos:
 
-En tanto exista convenio entre el Gobierno del Estado y el Ejecutivo Federal en materia de registro profesional y expedición de cédulas profesionales, el Gobierno del Estado procurará que se proporcione la información a que se refiere el párrafo anterior.
+I.- Los Diputados competentes integrantes de la Mesa Directiva, por no convocar a las sesiones respectivas;
+
+II.- El o los Diputados a quienes se les hubiera encomendado la elaboración de un proyecto de dictamen y no lo hubieran cumplido, y ello fuera determinante para no observar los tiempos establecidos en el Artículo 32 del presente reglamento;
+
+III.- La totalidad de los integrantes de la Comisión.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 87], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 90.
 
-Quienes ejerzan las actividades profesionales, técnicas y auxiliares a que se refiere éste Capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el Título, diploma o certificado y, en su caso, el número de su correspondiente cédula profesional, iguales menciones deberán consignarse en los documentos y papeles que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
+La Asamblea tiene facultad de presentar iniciativas de leyes o decretos en materias relativas al Distrito Federal, ante el Congreso de la Unión.
+
+Las iniciativas correspondientes podrán ser presentadas por cualquier Diputado o grupo de Diputados.
+
+En caso de aprobarse el dictamen, la Asamblea decidirá, igualmente, ante cuál de las Cámaras del Congreso de la Unión deberá presentarse. La remisión se hará por conducto de la Mesa Directiva.
+
+Las iniciativas de leyes o decretos aprobados por el Pleno que se remitan al Congreso de la Unión, deberán contener el o los votos particulares, si los hubiere.
+
+La Comisión de la Asamblea que haya elaborado el dictamen de que se trate, acudirá ante la Cámara correspondiente, cuando ésta así lo solicite, para explicar o fundamentar la o las iniciativas de leyes o decretos en cuestión.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 88], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 91.
 
-Los Servicios de Salud en Morelos procuraran que en los Centros de Salud de las comunidades indígenas, si se requiere, cuenten con personal que conozca la lengua que se practique en ellas.
+Las iniciativas dictaminadas y no aprobadas por el Pleno, no podrán volver a presentarse sino hasta el siguiente periodo ordinario de sesiones.
+
+A tal efecto, la Comisión elaborará un nuevo dictamen en el que deberán tenerse en cuenta las observaciones hechas por los Grupos Parlamentarios o por los Diputados, si éstas proceden.
+
+#### SECCIÓN 2. DEL ORDEN DEL DIA
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 89], G.O. 30 DE MARZO DE 2005)</small>
 
 ### CAPÍTULO II
 
@@ -981,25 +1413,63 @@ SERVICIO SOCIAL DE PASANTES Y PROFESIONALES.
 
 ###### Artículo 92.
 
-Todos los pasantes de las profesiones para la salud y sus ramas deberán prestar el servicio social en los términos de las disposiciones legales aplicables en materia educativa y de las de esta Ley.
+Los asuntos a tratar en las sesiones ordinarias se listarán en el Orden del Día conforme a la siguiente preferencia:
+
+1.- Aprobación del Acta de la Sesión anterior.
+
+2.- Comunicaciones de los Diputados, de las Comisiones y de los Grupos Parlamentarios.
+
+3.- Comunicaciones de los Poderes de la Unión u órganos legislativos locales.
+
+4.- Comunicaciones de los órganos de gobierno del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+5. Acuerdos Parlamentarios.
+
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+6. Dictámenes para discusión y votación.
+
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+7. Iniciativas de ley o decreto.
+
+8.- Informe de las Comisiones y Comités.
+
+9.- Informe de peticiones formuladas por particulares.
+
+10.- Presentación de, propuestas, pronunciamientos, así como las denuncias que no comprendan la aprobación, reforma, derogación o abrogación de Leyes o Decretos.
+
+11.- Efemérides, y
+
+12.- Asuntos Generales.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 93.
 
-Los aspectos docentes de la prestación del servicio social se regularán por lo que establezcan las instituciones de educación superior, de conformidad con las atribuciones que les otorgan las disposiciones que rige su organización y funcionamiento y lo que determinen las autoridades
+Las iniciativas, peticiones, proposiciones o denuncias que algún Diputado desee someter a conocimiento del Pleno deberán inscribirse ante la Mesa Directiva para su inclusión en el Orden del Día, hasta las diecinueve horas del día hábil inmediato anterior del día fijado para la sesión, preferentemente a través del Coordinador del Grupo Parlamentario.
 
-educativas competentes.
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
-La operación de programas en los establecimientos de salud del Estado se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias Estatales.
+Sólo aquellas que revistan carácter de urgente, y así lo determine el pleno, podrán presentarse sin haber sido previamente inscritas y se desahogarán con posterioridad a las previamente registradas.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 91], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 94.
 
-Para los efectos de la eficiente prestación del servicio social de los pasantes de las profesiones para la salud se llevará a cabo mediante la participación de los mismos en las unidades aplicativas del primer nivel de atención, prioritariamente en áreas urbanas y rurales de menor desarrollo económico social del Estado.
+De las peticiones que los particulares formulen por escrito a la Asamblea, corresponderá al Presidente fijar el trámite que para su atención sea necesario, mismo del que se informará al peticionario, así como a la Comisión de Gobierno.
 
-Para los efectos del párrafo anterior, los Servicios de Salud de Morelos, en coordinación con las instituciones educativas, definirán los mecanismos para que los pasantes de las profesiones para la salud participen en la organización y operación de los comités de salud a que alude el Artículo 63 de esta Ley.
+(REUBICADO [N. DE E. ANTES ARTICULO 92], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 95.
 
-Los Servicios de Salud de Morelos, con la participación de las instituciones de educación superior, elaborará programas de carácter social para los profesionales de la salud en beneficio de la colectividad de conformidad con las disposiciones legales aplicables al ejercicio profesional.
+El Presidente deberá reunirse antes de cada sesión con los integrantes de la Mesa Directiva para complementar, en su caso, el Orden del Día elaborado en consulta con la Comisión de Gobierno y para ordenar el desahogo de los asuntos en el curso de la sesión.
+
+#### SECCIÓN 3. DE LAS SESIONES
+
+(REUBICADO [N. DE E. ANTES ARTICULO 93], G.O. 30 DE MARZO DE 2005)
 
 ### CAPÍTULO III
 
@@ -1007,95 +1477,115 @@ FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL.
 
 ###### Artículo 96.
 
-Las autoridades educativas, en coordinación con las autoridades sanitarias Estatales y con la participación de las instituciones de educación superior, recomendarán normas y criterios para la formación de recursos humanos para la salud.
+La Asamblea se reunirá a partir del 17 de septiembre de cada año para celebrar un primer periodo de sesiones ordinarias, el cual podrá prolongarse hasta el 31 de diciembre del mismo año.
 
-Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas en coordinación con ellas, así como la participación de las instituciones de salud, establecerán las normas y criterios para la capacitación y actualización de recursos humanos para la salud.
+El segundo periodo de sesiones ordinarias se iniciará a partir del 15 de marzo de cada año y podrá prolongarse hasta el 30 de abril del mismo año.
+
+Durante sus recesos, la Asamblea podrá celebrar periodos de sesiones extraordinarias, previa convocatoria formulada por la Comisión de Gobierno a solicitud de la mayoría de los integrantes de dicha Comisión o del Jefe de Gobierno. La convocatoria respectiva deberá publicarse en dos diarios de mayor circulación en el Distrito Federal y fijará la fecha de inicio y término del periodo y el o los asuntos exclusivos a ser tratados durante el mismo.
+
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Para el desarrollo de las sesiones, permanecerá en un lugar visible en el salón de sesiones del recinto de la Asamblea, un intérprete traductor de lenguaje dactilológico, solicitado a la Oficialía Mayor, con anterioridad por lo menos con 48 horas de anticipación por algún diputado, con el fin de traducir a la ciudadanía con discapacidad auditiva el asunto tratado en la misma.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 94], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 97.
 
-Corresponde a los Servicios de Salud de Morelos, sin perjuicio de las atribuciones de las autoridades educativas en la materia, y en coordinación con éstas:
+Las sesiones se celebrarán en el recinto que ocupa la Asamblea, salvo acuerdo expreso del Pleno. En dicho acuerdo se fijará el tiempo, lugar y sesiones que se celebrarán fuera del recinto y los motivos en que se apoye la decisión.
 
-I.- Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del Estado en materia de salud;
+Las sesiones no podrán realizarse fuera del Distrito Federal.
 
-II.- Apoyar la creación de centros de capacitación y actualización de los recursos humanos para la salud;
-
-III.- Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas que rigen el funcionamiento de los primeros; y
-
-IV.- Promover la participación voluntaria de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas.
+> <small>(REFORMADO, G.O.19 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 98.
 
-Los Servicios de Salud de Morelos sugerirán a las autoridades e instituciones educativas cuando éstas lo soliciten, criterios sobre:
+Las sesiones se desarrollarán de conformidad con el Orden del Día elaborado por la Mesa Directiva conjuntamente con la Comisión de Gobierno y se desahogarán, de igual manera, los asuntos que presentan los Diputados o los Grupos Parlamentarios con carácter de urgente o extraordinario y así sean aceptados por el Pleno.
 
-I.- Los requisitos para la apertura y funcionamiento de instituciones dedicadas a la formación de recursos humanos para la salud, en los diferentes niveles académicos y técnicos; y
-
-II.- El perfil de los profesionales para la salud en sus etapas de formación.
+(REUBICADO [N. DE E. ANTES ARTICULO 96], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 99.
 
-Los Servicios de Salud de Morelos, en coordinación con las autoridades federales competentes, impulsará y fomentará la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los Sistemas Nacional y Estatal de Salud, de los programas educativos y de las necesidades de salud del Estado.
+El día 17 de septiembre de cada año, la Asamblea se reunirá a partir de las once horas en el Salón de Sesiones para inaugurar el primer periodo ordinario de sesiones.
+
+En dicha sesión inaugural el Presidente declarará en voz alta:
+
+"La Asamblea Legislativa del Distrito Federal de los Estados Unidos Mexicanos abre hoy 17 de septiembre de (año) el primer periodo de sesiones ordinarias, correspondiente al (primero, segundo o tercero) año de ejercicio de la (número) Legislatura".
+
+El Presidente hará igual declaratoria antes de iniciar el segundo periodo de sesiones ordinarias, a las once horas del 15 de marzo de cada año.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 97], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 100.
 
-Las instituciones del sector salud del Estado, con base en las Normas Oficiales Mexicanas que emita la Secretaria de Salud del Gobierno Federal, establecerán las bases para la utilización de sus instalaciones y servicios en la formación de recursos humanos para la salud.
+La primera sesión del primer periodo de sesiones ordinarias de cada año, tendrá como propósito exclusivo recibir el informe ordenado por la fracción XVII del artículo 67 del Estatuto.
+
+Se exceptúa de lo anterior la sesión inicial del primer periodo de sesiones de cada Legislatura, en el cual se tratarán los asuntos señalados por la Ley Orgánica de la Asamblea, debiéndose recibir el informe a que se refiere el presente artículo en la siguiente sesión del citado periodo que deberá llevarse a cabo en la misma fecha.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 98], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 101.
 
-Los aspectos docentes del internado de pregrado y de las residencias de especialización, se regirá por lo que establezcan las instituciones de educación superior; deberán contribuir al logro de los objetivos de los Sistemas Nacional y Estatal de Salud, de conformidad con las atribuciones que le otorguen las disposiciones que rigen su organización y funcionamiento y lo que determine las autoridades educativas competentes.
+La Asamblea sesionará los días y a partir de la hora que el Presidente señale en la convocatoria respectiva.
 
-La operación de los programas correspondientes en los establecimientos de salud, se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias competentes.
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
 
-## TÍTULO QUINTO
+La Asamblea celebrará por lo menos dos sesiones a la semana y no podrá suspender sus sesiones salvo por caso fortuito, de fuerza mayor o a propuesta de la Comisión de Gobierno y siempre que así lo acuerde la mayoría de sus integrantes y se repongan las sesiones en las semanas subsecuentes.
 
-INVESTIGACIÓN PARA LA SALUD.
+(REUBICADO [N. DE E. ANTES ARTICULO 99], G.O. 30 DE MARZO DE 2005)
+
+## TÍTULO QUINTO. DE LA INSCRIPCIÓN CON LETRAS DE ORO EN EL MURO DE HONOR Y DENOMINACIÓN DE SALONES DE LA ASAMBLEA LEGISLATIVA
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ### CAPÍTULO ÚNICO
 
 ###### Artículo 102.
 
-La investigación para la salud comprende el desarrollo de acciones que contribuyan:
+Se requiere de la asistencia de la mitad más uno de los Diputados que integran la Asamblea para abrir cada sesión.
 
-I.- Al conocimiento de los procesos biológicos y psicológicos en los seres humanos;
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2008)</small>
 
-II.- Al conocimiento de vínculos entre las causas de enfermedad, la práctica médica y la estructura social;
+El Secretario de la Mesa Directiva pasará lista de asistencia al inicio de la sesión. Si al inicio de cada sesión no existe el quórum a que se refiere el párrafo anterior, lo informará al Presidente, quien deberá proceder a levantar la sesión y citar a los presentes y ausentes el día y hora que considere pertinente en atención a los asuntos a tratar.
 
-III.- A la prevención y control de los problemas de salud que se consideren prioritarios para la población;
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
 
-IV.- Al conocimiento y control de los efectos nocivos del ambiente en la salud;
+Se tomará en cuenta la asistencia de los diputados que se encuentren presentes en las reuniones de trabajo de las Comisiones o Comités de la Asamblea. Los Presidentes de los órganos de trabajo interno deberán notificar, por escrito, a la Mesa Directiva del Pleno, el nombre de los diputados que se encuentran en la reunión de trabajo o en su caso, la lista de asistencia de la reunión a realizarse a efecto de que sea considerada su asistencia a la sesión plenaria de la Asamblea.
 
-V.- Al estudio de las técnicas y métodos que se recomienden o empleen para la prestación de los servicios de salud; y
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
-VI.- A la producción nacional de insumos para la salud.
+Los Diputados que habiendo pasado lista de asistencia al inicio de la sesión, no se encuentren presentes en el pase de la lista de termino de la misma sin causa justificada, se harán acreedores al descuento a que se (sic) hace referencia el artículo 26 del presente Reglamento.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 100], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 103.
 
-Los Servicios de Salud de Morelos, apoyarán y estimularán la promoción, la constitución y el funcionamiento de establecimientos destinados a la investigación para la salud.
+Las sesiones podrán ser ordinarias, extraordinarias, privadas, permanentes o solemnes.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 101], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 104.
 
-La investigación en seres humanos se desarrollará conforme a las siguientes bases:
+Son ordinarias las sesiones que se celebran durante los periodos constitucionales y serán públicas, con excepción de los casos que establece el presente Reglamento.
 
-I.- Deberá adaptarse a los principios científicos y éticos que justifican la investigación médica, especialmente en lo referente a su posible contribución a la solución de los problemas de salud y al desarrollo de nuevos campos de la ciencia médica;
+Se iniciarán, salvo disposición del Presidente y por mediar causa que lo justifique, a las once horas y concluirán a más tardar a las diecisiete horas. Las sesiones podrán prolongarse o suspenderse por acuerdo del Pleno a solicitud de su Presidente.
 
-II.- Podrá realizarse solo cuando el conocimiento que pretenda producir no pueda obtenerse por otro método idóneo;
+En el caso de que la Asamblea acuerde citar a comparecer ante el Pleno a un Servidor Público de la Administración Pública del Distrito Federal, la Comisión de Gobierno propondrá al Pleno el formato conforme al cual se desarrollará la sesión.
 
-III.- Podrá efectuarse solo cuando exista una razonable seguridad de que no se expone a riesgos ni daños innecesarios al sujeto en experimentación;
-
-IV.- Se deberá contar con el consentimiento por escrito del sujeto en quien se realizará la investigación, o de su representante legal en caso de que se trate de un incapacitado por declaración judicial, a quien se enterará previamente de los objetivos de la experimentación y de las posibles consecuencias positivas o negativas para su salud;
-
-V.- Solo podrá realizarse por profesionales de la salud en instituciones médicas que actúen bajo la vigilancia de las autoridades sanitarias competentes;
-
-VI.- El profesional responsable suspenderá la investigación en cualquier momento, si sobreviene el riesgo de lesiones graves, discapacidad o muerte del sujeto en quien se realice la investigación, y
-
-VII.- Las demás que establezca la Ley General de Salud y la correspondiente reglamentación.
+(REUBICADO [N. DE E. ANTES ARTICULO 102], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 105.
 
-Quien realice investigación en seres humanos en contravención a lo dispuesto en esta Ley y demás disposiciones aplicables se hará acreedor de las sanciones correspondientes.
+Son extraordinarias las sesiones que se celebren fuera del periodo de sesiones ordinarias y tendrán lugar cuando así se determine de conformidad con lo dispuesto por el presente Reglamento.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 103], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 106.
 
-En el tratamiento de una persona enferma, el médico podrá utilizar nuevos recursos terapéuticos o de diagnóstico, cuando exista posibilidad fundada de salvar la vida, restablecer la salud o disminuir el sufrimiento del paciente, siempre que cuente con el consentimiento por escrito de éste, de su representante legal en su caso, o del familiar más cercano en vínculo, y sin perjuicio de cumplir con los demás requisitos que determine esta Ley y otras disposiciones aplicables.
+Al inicio de las sesiones, el Presidente ordenará pasar lista de presentes. Comprobando el quórum, abrirá la sesión con esta fórmula: "Se abre la sesión"; y la cerrará con la de "Se levanta la sesión". Durante el primer acto posterior a la declaratoria de inicio o cierre del periodo ordinario de sesiones, el Presidente ordenará que se proceda a rendir honores a la Bandera Nacional, mediante la entonación del Himno Nacional; excepto durante la sesión señalada por el párrafo primero del artículo 100 de este Reglamento, en que los honores referidos se efectuarán cuando el Jefe de Gobierno del Distrito Federal haya ingresado al recinto oficial, así como cuando se disponga a salir del mismo.
+
+Las sesiones ordinarias y extraordinarias se regirán por el Orden del Día que al efecto prepare la Mesa Directiva y la Comisión de Gobierno en los términos del presente Reglamento; será dado a conocer al Pleno una vez que se determine la existencia del quórum. Abierta la sesión se procederá a aprobar el Acta de la Sesión anterior.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 104], G.O. 30 DE MARZO DE 2005)
 
 ## TÍTULO SEXTO
 
@@ -1105,19 +1595,33 @@ INFORMACIÓN PARA LA SALUD.
 
 ###### Artículo 107.
 
-Los Servicios de Salud de Morelos, de conformidad con la Ley de Información Estadística y Geografía y con los criterios de carácter general que emita el Ejecutivo Federal, captará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control de los Sistemas Nacional y Estatal de Salud, así como sobre el Estado y evolución de la salud publica de la Entidad.
+De cada sesión se deberá levantar el acta correspondiente, misma que deberá contener las siguientes formalidades:
 
-La información se referirá fundamentalmente a los siguientes aspectos:
+I.- El nombre del Presidente o de quien presida la sesión;
 
-I.- Estadísticas de natalidad, mortalidad, morbilidad y discapacidad;
+II.- La hora de apertura y la de clausura;
 
-II.- Factores demográficos, económicos, sociales y ambientales vinculados a la salud; y
+III.- Las observaciones, correcciones y aprobación del acta anterior;
 
-III.- Recursos físicos, humanos y financieros disponibles para la protección de la salud de la población y su utilización.
+IV.- Una relación nominal de los Diputados presentes y de los ausentes, con permiso o sin él, y
+
+V.- Una relación sucinta, ordenada y clara de los asuntos tratados, expresando nominalmente a los Diputados que hayan intervenido; así como las incidencias producidas y los acuerdos tomados. Al margen de las actas se anotarán los asuntos de que traten.
+
+De la misma se entregará copia al Presidente, a los Coordinadores de los Grupos Parlamentarios, a quienes hubieren intervenido en la sesión y a los Diputados que expresamente y por escrito lo soliciten para que puedan, en su caso, pedir que se hagan las rectificaciones pertinentes.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 105], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 108.
 
-Los establecimientos que presten servicios de salud y los profesionales, técnicos y auxiliares de salud en el Estado, llevarán las estadísticas que en materia de salud le señalen las autoridades sanitarias locales, y proporcionarán a éstas y a las autoridades Federales competentes, la información correspondiente, sin perjuicio de las obligaciones de suministrar la información que señalen otras disposiciones legales aplicables.
+Se presentarán en sesión privada:
+
+I.- Los asuntos puramente económicos de la Asamblea;
+
+II.- Los que apruebe el Pleno a solicitud de uno o más Diputados, y
+
+III.- Los demás que determine la Mesa Directiva.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 106], G.O. 30 DE MARZO DE 2005)</small>
 
 ## TÍTULO SÉPTIMO. PROMOCIÓN DE LA SALUD
 
@@ -1125,21 +1629,23 @@ Los establecimientos que presten servicios de salud y los profesionales, técnic
 
 ###### Artículo 109.
 
-La promoción de la salud tiene por objeto crear, conservar y mejorar las condiciones deseables de salud para toda la población y propiciar en el individuo las actitudes, hábitos, valores y conductas adecuadas para motivar su participación en beneficio de la salud individual y colectiva.
+El acuerdo de la Mesa Directiva para llevar a cabo la sesión privada que se refiere el artículo anterior, deberá estar fundada y motivada y deberá constar por escrito. El presidente la pondrá a consideración del Pleno a fin de que éste decida por mayoría de votos de sus miembros presentes, si es que se encuentran los supuestos establecidos para que la sesión privada proceda.
+
+Durante la sesión privada permanecerán en el recinto únicamente los Diputados, los empleados y funcionarios administrativos de la Asamblea, y cualquier otra persona que el presidente de la Mesa Directiva autorice.
+
+Los concurrentes están obligados a guardar la más absoluta reserva sobre los asuntos tratados en la sesión.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 107], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 110.
 
-La promoción de la salud comprende:
+El Presidente declarará a la Asamblea en sesión permanente, cuando la naturaleza de los asuntos a tratar así lo amerite y lo apruebe el Pleno.
 
-I.- Educación para la salud;
+Durante la sesión permanente no podrá darse cuenta ni trámite a ningún asunto que no esté comprendido en el acuerdo; si se presentase alguno con el carácter de urgente, el Presidente consultará el voto de la Asamblea para tratarlo dentro de la sesión permanente o agendarlo para su conocimiento en sesión posterior.
 
-II.- Nutrición;
+La sesión permanente podrá tener los recesos que acuerde el Presidente en los términos de este Reglamento y se dará por concluida al agotarse los trabajos correspondientes.
 
-III.- Control de los efectos nocivos del ambiente en la salud;
-
-IV.- Salud ocupacional; y
-
-V.- Fomento Sanitario.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 108], G.O. 30 DE MARZO DE 2005)</small>
 
 ### CAPÍTULO II
 
@@ -1147,17 +1653,19 @@ EDUCACIÓN PARA LA SALUD.
 
 ###### Artículo 111.
 
-La educación para la salud tiene por objeto:
+La Asamblea puede llevar a cabo sesiones solemnes para honrar a los héroes nacionales, a personas físicas o morales que hayan prestado servicios eminentes a la comunidad del Distrito Federal, a la Nación o a la Humanidad; o bien para recibir a Jefes de Estado, altos dignatarios y representantes populares cuando la propia Asamblea así lo determine, a propuesta de la Comisión de Gobierno, o bien, o cualquier otro caso que el Pleno así lo determine.
 
-I.- Fomentar en la población el desarrollo de actitudes y conductas que le permita participar en la prevención de enfermedades individuales, colectivas y accidentes y proteger de los riesgos que pongan en peligro la salud;
+Las sesiones solemnes se desarrollarán con el propósito exclusivo que se fije en la propuesta al efecto aprobada y se desahogarán conforme a las reglas expresamente fijadas por el Pleno a propuesta de la Comisión de Normatividad Legislativa, Estudios y Prácticas Parlamentarias.
 
-II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud; y
-
-III.- Orientar y capacitar a la población, preferentemente, en materia de nutrición, salud mental, salud bucal, salud reproductiva, riesgos de automedicación, prevención de la drogodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la discapacidad y detección oportuna de enfermedades, así como respecto a los efectos negativos que sobre la salud tienen la violencia intrafamiliar y el maltrato de menores.
+(REUBICADO [N. DE E. ANTES ARTICULO 109], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 112.
 
-Las autoridades sanitarias estatales en coordinación con las autoridades municipales y federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
+Las personas que deseen asistir a las sesiones de la Asamblea tendrán acceso a las galerías del recinto.
+
+Los asistentes deberán guardar las normas de orden, respeto, silencio y compostura y no tomarán parte en los debates con ninguna clase de demostración.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 110], G.O. 30 DE MARZO DE 2005)
 
 ### CAPÍTULO III
 
@@ -1165,35 +1673,45 @@ NUTRICIÓN.
 
 ###### Artículo 113.
 
-Para la atención y mejoramiento de la nutrición de la población, los Servicios de Salud de Morelos participarán de manera permanente en los programas de alimentación del Gobierno del Estado.
+El acceso del público al recinto oficial será garantizado por personal administrativo de la Asamblea. No se permitirá la entrada a quienes se presenten armados; bajo el aparente influjo de alguna sustancia tóxica enervante; embozados; se nieguen a identificarse o pretendan introducir objetos extraños sin someterlos a su inspección por el personal encargado.
 
-El Gobierno del Estado, los Servicios de Salud de Morelos, las Entidades del sector salud y los H. Ayuntamientos del Estado, en sus respectivos ámbitos de competencia, formularán y desarrollarán programas de nutrición, promoviendo la participación en los mismos de los sectores social y privado.
+(REUBICADO [N. DE E. ANTES ARTICULO 111], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 114.
 
-En los programas a que se refiere el artículo anterior; se incorporarán acciones que promueva el consumo de alimentos de producción regional, se procurará al efecto la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
+Los asistentes que perturben el orden impidiendo el desarrollo normal de la sesión, podrán ser desalojados por disposición del Presidente. Si la falta lo amerita, quienes la cometan serán remitidos a las autoridades correspondientes.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 112], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 115.
 
-Los apoyos nutricionales que proporcionen las dependencias y Entidades de la administración pública estatal, serán entregadas previa la valoración del estado nutricional de los beneficiarios que realicen los Servicios de Salud en el Estado.
+La Mesa Directiva asegurará en todo tiempo el libre acceso de los medios de comunicación a las sesiones públicas de la Asamblea, a fin de garantizar que cumplan con su función.
+
+#### SECCIÓN 4. DE LOS DEBATES
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O.19 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 116.
 
-Los Servicios de Salud de Morelos tendrán a su cargo:
+Todo dictamen con proyecto de ley o decreto se discutirá primero en lo general y después en lo particular cada uno de sus artículos. Cuando conste de un solo artículo será discutido sólo en lo general.
 
-I.- Establecer un sistema permanente de vigilancia epidemiológica de la nutrición;
+Cuando un acuerdo de la Comisión de Gobierno sea presentado al Pleno para su conocimiento, cualquier Diputado podrá hacer uso de la palabra para solicitar alguna aclaración o mayor información, para lo cual un integrante de dicha Comisión realizará la aclaración correspondiente.
 
-II.- Normar el desarrollo de los programas y actividades de educación en materia de nutrición, encaminados a promover hábitos alimentarios adecuados, preferentemente en los grupos sociales más vulnerables;
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
 
-III.- Normar el establecimiento, operación y evaluación de servicios de nutrición en las zonas que se determinen, en función de las mayores carencias y problemas de salud;
+Los dictámenes que se refieren a puntos de acuerdo sólo podrán ser discutidos en lo general y no procederá en ningún sentido la discusión en lo particular, ni la reserva de sus resolutivos
 
-IV.- Normar el valor nutritivo y características de la alimentación en establecimientos de servicios colectivos;
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
 
-V.- Promover investigaciones químicas, biológicas, sociales y económicas, encaminadas a conocer las condiciones de nutrición que prevalecen en la población y establecer las necesidades mínimas de nutrimentos, para el mantenimiento de las buenas condiciones de salud de la población;
+###### Artículo 116 Bis.
 
-VI.- Recomendar dietas y procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimentos para la población en general y proveer en la esfera de su competencia a dicho consumo; y
+Cuando un acuerdo de la Comisión de Gobierno, o de cualquier otra Comisión o Comité, sea presentado al Pleno para su conocimiento, podrá ser sujeto a discusión participando de manera exclusiva hasta tres oradores en contra y tres oradores en pro.
 
-VII.- Establecer las necesidades nutritivas que deban satisfacer los cuadros básicos de alimentos y efectuar la valoración a que se refiere el artículo que antecede.
+Finalizada la lista de hasta seis oradores, se someterá a votación del Pleno el acuerdo respectivo.
+
+Sólo para el caso de que no hayan existido oradores en contra o en pro, el Presidente de la Mesa Directiva autorizará a los Grupos Parlamentarios a que razonen su voto por conducto de uno de sus integrantes.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 114], G.O. 30 DE MARZO DE 2005)
 
 ### CAPÍTULO IV
 
@@ -1201,51 +1719,103 @@ EFECTOS DEL AMBIENTE EN LA SALUD.
 
 ###### Artículo 117.
 
-Las autoridades sanitarias del Estado, en coordinación con otras instituciones de esta competencia, establecerán las normas, tomarán las medidas y realizarán las actividades a que se refiere esta Ley tendientes a la protección de la salud humana ante los riesgos y daños derivados de las condiciones del medio ambiente.
+Todo dictamen con proyecto de ley o decreto que conste de más de treinta artículos, podrá ser discutido y aprobado por los libros, títulos, capítulos, secciones o párrafos en los que lo dividieren sus autores o las Comisiones encargadas de su despacho, siempre que así lo acuerde el Pleno a moción de uno o más de sus miembros; pero se votará separadamente cada uno de los artículos o fracciones del artículo o de la sección que esté al debate, si lo pide algún Diputado y el Pleno aprueba la petición.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 115], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 118.
 
-Corresponde a los Servicios de Salud en Morelos:
+Para la discusión de cualquier dictamen, deberá haberse procedido a la distribución de copias del mismo a todos los miembros del Pleno con una anticipación mínima de cuarenta y ocho horas a la sesión en que habrá de discutirse.
 
-I.- Desarrollar investigación permanente y sistemática de los riesgos y daños que para la salud de la población originen la contaminación del ambiente;
+Los votos particulares que se hayan discutido en las Comisiones se deberán distribuir en los mismos términos. Con la misma anticipación deberá depositarse el dictamen ante la Secretaría de la Mesa Directiva.
 
-II.- Vigilar y certificar la calidad del agua para el consumo humano;
+Si no se cumple con este requisito, el dictamen no podrá ser discutido en la sesión respectiva, salvo que se dispense el procedimiento por el Pleno de la Asamblea.
 
-III.- Promover y apoyar el saneamiento básico;
-
-IV.- Disponer y verificar que se cuente con información de toxicología actualizada, en la que se establezcan las medidas de respuesta al impacto en la salud originado por el uso de sustancias tóxicas o peligrosas; y
-
-V.- En general, ejercer actividades similares a las anteriores ante situaciones que causen riesgos o daños a la salud de las personas como brotes epidémicos y desastres.
+(REUBICADO [N. DE E. ANTES ARTICULO 116], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 119.
 
-Los Servicios de Salud de Morelos se coordinarán con las dependencias Federales, Estatales y municipales para la prestación de los servicios a que se refiere este Capítulo.
+Intervendrán en el debate los Diputados que al efecto se hubiesen inscrito. Igualmente podrán hacerlo quienes soliciten y obtengan del Presidente autorización para hacer uso de la palabra, en los términos del presente Reglamento.
+
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+El presente artículo sólo será aplicable para la discusión de dictámenes y no se podrá invocar en la discusión de proposiciones consideradas de urgente y obvia resolución.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 117], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 120.
 
-Las personas que intervengan en el abastecimiento de agua no podrán suprimir la dotación de servicios de agua potable y avenamiento de los edificios habitados, excepto en los casos que determinen las disposiciones generales aplicables.
+El Presidente elaborará el registro de oradores que intervendrán en los debates cuando se presenten a discusión los dictámenes de las Comisiones. El orden se conformará de la siguiente manera:
+
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
+
+I.- Intervención de un miembro de la Comisión dictaminadora, fundando y motivando el dictamen, por un tiempo máximo de cinco minutos, en el caso de un dictamen a una iniciativa el tiempo máximo será de 10 minutos;
+
+II.- Lectura de votos particulares;
+
+III.- Discusión en lo general, en la que se concederá el uso de la palabra de manera alternada a los oradores en contra y a los oradores en pro, de modo que pueda hacer uso de la palabra por lo menos un Diputado miembro de cada uno de los Grupos Parlamentarios que deseen intervenir. Siempre se iniciará el debate con los oradores inscritos en contra; de no haberse registrado ninguno, no harán uso de la palabra los oradores en pro.
+
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+De no haber oradores en contra o en pro, o desahogadas dichas intervenciones los Grupos Parlamentarios podrán hacer uso de la palabra para razonar su voto por conducto de uno de sus integrantes. Sólo podrá participar un diputado por cada Grupo Parlamentario.
+
+IV.- Discusión en lo particular de los capítulos o artículos que al inicio del debate se hayan reservado.
+
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Esta fracción no será aplicable a los dictámenes que se refieren a proposiciones con puntos de acuerdo.
+
+La discusión en lo particular se ordenará de manera análoga a la establecida por la discusión en lo general.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 121.
 
-Las sustancias tóxico peligrosas, plaguicidas y nutrientes vegetales serán objeto de regulación y control sanitario, mediante los acuerdos de coordinación específicos efectuados con el Ejecutivo Federal. Los establecimientos, productos y servicios inherentes a éstos procesos deberán cumplir con los requisitos sanitarios establecidos en la Ley General de Salud, esta Ley y demás disposiciones reglamentarias aplicables.
+Las intervenciones se pronunciarán personalmente y de viva voz, en un término máximo de diez minutos. Se exceptúan del término anterior la presentación de dictámenes, de votos particulares, la presentación de artículos para ser discutidos en lo particular y aquellos casos que el Pleno expresamente así lo acuerde, los cuales tendrán una duración de hasta diez minutos, cinco minutos cuando se trate de puntos de acuerdo consideradas como de urgente y obvia resolución, conforme a lo establecido en el artículo 133 del Reglamento para el gobierno Interior y tres minutos cuando se trate de puntos de acuerdo conforme a lo establecido en el artículo 132 del Reglamento para el Gobierno Interior.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Cuando se trate de propuestas, pronunciamientos y denuncias a que se refiere el artículo 92 numeral 10 de este ordenamiento, los Diputados podrán solicitar la palabra sin estar registrados en el orden del día para hablar sobre el mismo tema hasta por diez minutos. Sólo podrá participar un Diputado por cada Grupo Parlamentario.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 119], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 122.
 
-Queda prohibida la descarga de aguas residuales a cuerpos de agua que se destinen para uso o consumo humano, sin el tratamiento para satisfacer los criterios sanitarios, que mediante las normas ecológicas emitan las autoridades Federales competentes, con el propósito de fijar las condiciones particulares de descarga, el tratamiento y uso de aguas residuales, así como de residuos peligrosos que conlleven riesgos para la salud pública.
+Ningún Diputado podrá ser interrumpido cuando se encuentre en uso de la palabra, salvo por el Presidente para advertirle que se ha agotado el tiempo; exhortarlo a que se atenga el tema de discusión; llamarlo al orden cuando ofenda a la Asamblea, a alguno de sus miembros o al público, o para preguntarle si acepta contestar alguna interpelación que desee formularle otro Diputado.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 120], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 123.
 
-Los Servicios de Salud de Morelos, en coordinación con las autoridades Federales y municipales competentes, y con la autoridad Estatal encargada de la administración de los distritos de riego, orientaran a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso domestico originada por plaguicidas, sustancias tóxicas o peligrosas y desperdicios o basura.
+Las interpelaciones que se formulen a los Diputados que estén en el uso de la palabra con el propósito de esclarecer la intervención o para pedir que ilustre la discusión con la lectura de algún documento, deberán ser solicitadas al Presidente.
+
+Quien solicite la interpelación lo hará desde su lugar y en forma que todos los asistentes puedan escucharle. Quedan absolutamente prohibidas las discusiones en forma de diálogo.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 121], G.O. 30 DE MARZO DE 2005)
 
 ### CAPÍTULO V. SALUD OCUPACIONAL
 
 ###### Artículo 124.
 
-Los Servicios de Salud de Morelos, tendrán a su cargo el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deban reunir, de conformidad con lo que establezca la normatividad respectiva.
+En cualquier estado del debate, un Diputado podrá pedir la observancia del Reglamento formulando una moción de orden. Al efecto deberá citar el precepto o preceptos reglamentarios cuya aplicación reclama.
+
+Escuchada la moción, el Presidente resolverá lo conducente.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 122], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 125.
 
-El Gobierno del Estado en coordinación con las dependencias y Entidades Federales competentes, desarrollarán y difundirán investigación interdisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características del ser humano.
+Ninguna discusión se podrá suspender, sino por las siguientes causas:
+
+I.- Por ser la hora en que el Reglamento fija hacerlo, a no ser que se prorrogue por acuerdo del Pleno;
+
+II.- Porque el Pleno acuerde dar preferencia a otro asunto de mayor urgencia o gravedad;
+
+III.- Por graves desórdenes en la Asamblea, a juicio del Presidente; y
+
+IV.- Por moción suspensiva que presente alguno o algunos de los miembros de la Asamblea y que ésta apruebe.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 123], G.O. 30 DE MARZO DE 2005)</small>
 
 ## TÍTULO OCTAVO
 
@@ -1257,13 +1827,11 @@ DISPOSICIONES COMUNES.
 
 ###### Artículo 126.
 
-El Gobierno del Estado, en coordinación con las autoridades e instituciones Federales competentes, realizará las siguientes acciones;
+En el caso de presentarse una moción suspensiva, ésta deberá ser por escrito oyendo a su autor si la quiere fundar. En este caso, el Presidente someterá a discusión de inmediato la proposición, pudiendo hacer uso de la palabra hasta dos oradores en contra y dos en pro, por un tiempo máximo de diez minutos cada uno. Agotada la discusión, la moción se someterá a votación del Pleno y, en caso de que ésta fuese negativa, se tendrá por desechada continuándose con el debate, en caso de que fuese fundada, el presidente ordenará la conclusión del debate del asunto que la originó, regresando el dictamen a la Comisión o Comisiones que hayan emitido el dictamen para atender lo que fue objeto de la moción.
 
-I.- Coadyuvar en la aplicación de las Normas Oficiales Mexicanas para la prevención y el control de enfermedades, accidentes y desastres, que dicte la Secretaria de Salud del Gobierno Federal.
+No podrá presentarse más de una moción suspensiva en la discusión de un asunto.
 
-II.- Apoyar en el Estado el Sistema Nacional de Vigilancia Epidemiológica, de conformidad con la Ley General de Salud, esta Ley y las demás disposiciones que al efecto se expidan; y
-
-III.- Coadyuvar en la aplicación de programas y actividades que establezca la Secretaria de Salud del Gobierno Federal, para la prevención y control de enfermedades, accidentes y desastres.
+(REUBICADO [N. DE E. ANTES ARTICULO 124], G.O. 30 DE MARZO DE 2005)
 
 ### CAPÍTULO II
 
@@ -1271,123 +1839,143 @@ ENFERMEDADES TRANSMISIBLES.
 
 ###### Artículo 127.
 
-El Gobierno del Estado en coordinación con las autoridades sanitarias Federales, elaborará programas o campañas temporales o permanentes para el control o erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la protección de salud general a la población.
+Si en el curso del debate alguno de los oradores hiciese alusiones sobre la persona, partido político o la conducta de un Diputado, éste podrá solicitar al Presidente hacer uso de la palabra, por un tiempo no superior a cinco minutos, para dar contestación a las alusiones formuladas. Cuando la alusión afecte a un Grupo Parlamentario, el Presidente podrá conceder a un Diputado del grupo aludido el uso de la palabra hasta por cinco minutos para contestar en forma concisa.
 
-Asimismo realizarán actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles:
+En estos casos el Presidente concederá el uso de la palabra inmediatamente después de que haya concluido el turno del Diputado que profirió las alusiones.
 
-I.- Cólera, fiebre tifoidea, paratifoidea, shigelosis, amibiasis, hepatitis vírales y otras enfermedades del aparato digestivo;
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
 
-II.- Influenza epidémica, otras infecciones agudas del aparato respiratorio, infecciones meningococcicas y enfermedades causadas por estreptococos;
+Las alusiones personales tienen preferencia sobre las alusiones de partido. No proceden las alusiones sobre alusiones.
 
-III.- Tuberculosis;
-
-IV.- Difteria, tosferina, tétanos, sarampión, poliomielitis, rubéola y parotiditis infecciosa;
-
-V.- Rabia, peste, brucelosis y otras zoonosis. En estos casos se coordinará con la Secretaría de Salud y con otras dependencias competentes en esta materia;
-
-VI.- Fiebre amarilla, dengue, y otras enfermedades vírales transmitidas por artrópodos.
-
-VII.- Paludismo, tifo, fiebre recurrente transmitida por piojo y otras rickettsiosis, leishmaniasis, tripanosomiasis, oncocercosis;
-
-VIII.- Sífilis, infecciones gonococcicas y otras enfermedades de transmisión sexual;
-
-IX.- Lepra y mal del pinto;
-
-X.- Micosis profundas;
-
-XI.- Helmintiasis intestinales y extraintestinales;
-
-XII.- Toxoplasmosis;
-
-XIII.- Infección de VIH, síndrome de inmunodeficiencia adquirida (SIDA); y
-
-XIV.- Las demás que determinen el Consejo de Salubridad General y los Tratados Y Convenciones Internacionales en los que los Estados Unidos Mexicanos sea parte.
+(REUBICADO [N. DE E. ANTES ARTICULO 125], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 128.
 
-Las personas que viven con enfermedades transmisibles, gozarán de igual protección ante la Ley en lo que respecta al acceso a la atención sanitaria y a la protección de la salud.
+En el curso de un debate los Diputados podrán rectificar hechos al concluir el orador, haciendo uso de la palabra y por un tiempo máximo de cinco minutos.
 
-Los Servicios de Salud en Morelos, establecerán por todos los medios a su alcance, los mecanismos de seguridad de las transfusiones y los productos sanguíneos que proporcione y vigilar que estos se apliquen y vigilar su aplicación.
-
-Asimismo, en coordinación con los grupos y organizaciones interesadas, promoverán la realización de actividades específicas para reducir los riesgos de transmisión de enfermedades transmisibles y apoyar la coordinación de las redes formadas por las personas que viven con VIH-SIDA y los movimientos asociativos vinculados con estos, permitiendo su plena y total participación en la respuesta común a la pandenia, en todos los niveles.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 126], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 129.
 
-Es obligatoria la notificación a la autoridad sanitaria más cercana, de las siguientes enfermedades y en los términos que a continuación se específica:
+Agotada la lista de oradores dada a conocer al inicio del debate y concluidas las alusiones personales o las rectificaciones a que se refieren los dos artículos anteriores, el Presidente preguntará al Pleno si el asunto se encuentra suficientemente discutido, en cuyo caso cerrará el debate y llamará de inmediato a votación.
 
-I.- Inmediatamente, en los casos individuales de enfermedades objetos de reglamento sanitario internacional: fiebre amarilla, cólera y peste;
-
-II.- Inmediatamente, en los casos de cualquier enfermedad que se presente en forma de brote o epidemia;
-
-III.- Inmediatamente, a la autoridad sanitaria más cercana, en los casos en que se detecte la presencia del virus de inmunodeficiencia humana (VIH) o de anticuerpos a dicho virus, en alguna persona, o un caso confirmado de Síndrome de Inmunodeficiencia Adquirida (SIDA);
-
-IV.- En un plazo no mayor de veinticuatro horas, en los casos individuales de enfermedades de vigilancia internacional: poliomielitis, meningitis meningococcica, tifo epidémico, fiebre recurrente transmitida por piojo, influenza viral, paludismo, sarampión, tosferina, así como los de difteria y los casos humanos de encefalitis equina venezolana; y
-
-V.- En un plazo no mayor de veinticuatro horas, de los primeros casos individuales de las demás enfermedades transmisibles que se presenten en un área no afectada.
+(REUBICADO [N. DE E. ANTES ARTICULO 127], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 130.
 
-Las personas que ejerzan la medicina o que realicen actividades afines, están obligadas a dar aviso a las autoridades sanitarias de los casos de enfermedades transmisibles, posteriormente a su diagnóstico o sospecha diagnóstica.
+Para que la Asamblea pueda adoptar sus acuerdos o resoluciones, deberá contar al momento de la votación, con la presencia de la mayoría de sus integrantes.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 128], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 131.
 
-Están obligados a dar aviso, en los términos del Artículo 129 de esta Ley, los jefes o encargados de laboratorios, los directores de unidades médicas, escuelas, fabricas, talleres, asilos, los jefes de oficina, establecimientos comerciales o de cualquier otra índole y, en general, toda persona que por circunstancias ordinarias o accidentales tengan conocimiento de alguno de los casos de enfermedades a que se refiere éste Capítulo.
+Al momento de cerrarse un debate y antes de proceder a la votación, el Presidente ordenará a la Secretaría y a la Coordinación de Servicios Parlamentarios, que hagan el anuncio correspondiente a fin de que todos los Diputados presentes en el Recinto pasen de inmediato a ocupar sus asientos para poder emitir su voto.
+
+En el caso de que no exista quórum al momento de iniciar una votación, el Presidente podrá suspender la sesión y tomar las medidas que sean necesarias para cumplir dicho requisito. Si aún así no se logra el quórum, deberá clausurar la sesión y citar para la próxima.
+
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+En caso de que algún Diputado objetara la existencia de quórum necesario dentro de alguno de los supuestos requeridos en el presente Reglamento, podrá solicitar al Presidente que constate el mismo, quien ordenará a la Secretaría pasar lista para verificar el número de Diputados presentes. De no existir el quórum, el Presidente levantará la sesión, procediendo a solicitar el descuento que se refiere (sic) el artículo 26 de este Reglamento.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 129], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 132.
 
-Las medidas que se requieran para la prevención y el control de las enfermedades que enumera el Artículo 127 de esta Ley, deberán ser observadas por los particulares, el ejercicio de ésta acción comprenderá una o más de las siguientes medidas según el caso de que se trate:
+Toda proposición deberá discutirse ante el Pleno conforme al siguiente procedimiento:
 
-I.- La confirmación de la enfermedad por los medios clínicos disponibles;
+I.- Deberá presentarse por escrito y firmada por su o sus autores al Presidente, y deberá ser leída ante el Pleno;
 
-II.- El aislamiento, por el tiempo estrictamente necesario, de los enfermos, de los sospechosos de padecer la enfermedad y de los portadores de gérmenes de la misma, así como la limitación de sus actividades, cuando así se amerite por razones epidemiológicas;
+II.- El Presidente turnará a la Comisión o Comisiones correspondientes, la propuesta presentada para su análisis y dictamen.
 
-III.- La observación, en el grado que se requiera de los contactos humanos y animales;
-
-IV.- La aplicación de sueros, vacunas y otros recursos preventivos y terapéuticos;
-
-V.- La descontaminación microbiana o parasitaria, desinfección y desinfectación de zonas habitaciones, ropas, utensilios y otros objetos expuestos a la contaminación;
-
-VI.- La destrucción o control de vectores y reservorios y fuentes de infección naturales o artificiales, cuando representen peligro para la salud.
-
-VII.- La inspección de pasajeros que puedan ser portadores de gérmenes así como la de equipajes, medios de transporte, mercancías y otros objetos que puedan ser fuentes o vehículos de agentes patógenos; y
-
-VIII.- Las demás que determine esta Ley, su reglamento y la Secretaría de Salud del Gobierno Federal.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 133.
 
-Las autoridades no sanitarias cooperaran en el ejercicio de la acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias, sin contravenir las disposiciones de la Ley General de Salud, esta Ley, las que expide el Consejo de Salubridad General y las Normas Oficiales Mexicanas que dicte la Secretaria de Salud del Gobierno Federal.
+Sólo podrán dispensarse del procedimiento a que se refiere la fracción segunda del artículo anterior, aquellos asuntos que sean presentados con veinticuatro horas de anticipación ante la Comisión de Gobierno y que la Asamblea califique de urgente y obvia resolución. En estos casos, la proposición se decidirá inmediatamente después de que su autor la haya presentado.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+
+De considerarse un asunto de urgente y obvia resolución, se pondrá a discusión inmediatamente pudiendo hacer uso de la palabra de manera exclusiva, hasta dos Diputados en contra y dos en pro e inmediatamente se preguntará al Pleno si se aprueba o no la proposición. De ser aprobada se le dará el trámite correspondiente y, en caso contrario, no se dará trámite ulterior, teniéndose por desechada.
+
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Si durante la discusión se profirieron alusiones, éstas deberán desahogarse inmediatamente. No proceden las alusiones sobre alusiones. El Presidente de la Mesa Directiva no podrá autorizar las rectificaciones de hechos, ni el uso de la palabra fundamentado en el artículo 119 del presente Reglamento.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Salvo la hipótesis planteada en este precepto, ninguna proposición podrá decidirse sin que primero pase a la Comisión o Comisiones correspondientes y éstas la hayan analizado y dictaminado.
+
+#### SECCIÓN 5. DE LAS VOTACIONES
+
+(REUBICADO [N. DE E. ANTES ARTICULO 131], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 134.
 
-Los profesionales, técnicos y auxiliares de la salud, al tener conocimiento de un caso de enfermedad transmisible, están obligados a tomar las medidas necesarias, de acuerdo con la naturaleza y las características del padecimiento, aplicando los recursos a su alcance, para proteger la salud individual y colectiva.
+La Asamblea adoptará sus resoluciones por medio de votaciones.
+
+Habrá tres clases de votaciones: nominal, por cédula y económicas.
+
+Todas las resoluciones se adoptarán por mayoría de votos de los Diputados presentes, excepto en aquellos casos en que las disposiciones legales aplicables señalen la aprobación por una mayoría calificada.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 132], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 135.
 
-Los trabajadores de salud, del Gobierno del Estado y de los municipios, así como los de otras instituciones autorizadas por las autoridades sanitarias Estatales, por necesidades técnicas de los programas específicos de prevención y control de enfermedades y por situaciones que pongan en peligro la salud de la población, podrán acceder al interior de todo tipo de local o casa habitación para el cumplimiento de las actividades encomendadas a su responsabilidad, para cuyo fin deberán estar debidamente acreditados por alguna de las autoridades sanitarias competentes, en los términos de las disposiciones aplicables.
+Se aprobará en votación nominal todo dictamen puesto a consideración del Pleno, ya sea de iniciativa de ley; las leyes o decretos en lo general y cada título, capítulo sección o artículo en lo particular según lo determine el Presidente.
+
+Igualmente podrá sujetarse a votación nominal un acuerdo o propuesta cuando lo solicite por escrito un Diputado.
+
+En caso de duda en el resultado de una votación nominal, por una sola ocasión, el Presidente de la Mesa Directiva a solicitud de algún Diputado, ordenará a la Secretaría realice de nueva cuenta la votación, dando a conocer de inmediato el resultado.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 133], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 136.
 
-Quedan facultadas las autoridades sanitarias competentes para utilizar como elementos auxiliares, en la lucha contra las epidemias, todos los recursos médicos y de asistencia social de los sectores público, social y privado existentes en las regiones afectadas y en las colindantes, de acuerdo con las disposiciones de la Ley General de Salud, de esta Ley y los reglamentos aplicables.
+El Presidente podrá reservar para el final de la discusión la votación en lo general y la de las modificaciones o adiciones que en lo particular se propongan a un artículo o fracción, a fin de preservar la continuidad del debate.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 134], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 137.
 
-Las autoridades sanitarias del Estado señalarán el tipo de enfermos o portadores de gérmenes que podrán ser excluidos de los sitios de reunión, tales como hoteles, restaurantes, fábricas, talleres, cárceles, oficinas, escuelas, dormitorios, habitaciones colectivas, centros de espectáculos y deportivos.
+La votación nominal se efectuará de la siguiente manera:
+
+I.- Cada miembro de la Asamblea, comenzando por el lado derecho del Presidente, dirá en voz alta su nombre y apellido, añadiendo la expresión en pro o en contra o abstención;
+
+II.- Un Secretario de la Mesa Directiva anotará a los Diputados que aprueben el dictamen correspondiente y otro a los que lo rechacen;
+
+III.- Concluido este acto, uno de los mismos Secretarios de la Mesa Directiva preguntará dos veces en voz alta si falta algún Diputado de votar y no faltando, se procederá a tomar la votación de los integrantes de la Mesa Directiva, y
+
+IV.- El Secretario hará enseguida el cómputo de los votos y dará a conocer el resultado.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 135], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 138.
 
-El aislamiento de las personas que padezcan enfermedades transmisibles se llevará a cabo en sitios adecuados, a juicio de las autoridades sanitarias.
+Las votaciones para elegir Diputados que ocuparán algún cargo en la Mesa Directiva, se realizará por medio de cédula que se depositará de manera personal en una ánfora transparente, colocada en la tribuna. Los Diputados serán llamados a depositar su voto en orden alfabético.
+
+Concluida la votación, los Secretarios sacarán las cédulas del ánfora, las clasificarán en paquetes que contengan los nombre (sic) iguales de las fórmulas votadas, harán el cómputo de los votos y lo darán a conocer al Presidente, quien hará la declaratoria correspondiente.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 136], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 139.
 
-Las autoridades sanitarias del Estado podrán ordenar, por causa de epidemia, la clausura temporal de los locales o centros de reunión de cualquier índole.
+Si hubiere empate en las votaciones, se repetirá la votación en la misma sesión; y si por segunda vez resultare empatada, se discutirá y votará de nuevo el asunto en la sesión inmediata, pudiendo inscribirse hasta cuatro oradores en pro y cuatro oradores en contra para hacer uso de la palabra por no más de quince minutos cada uno.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 137], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 140.
 
-El transporte de personas con enfermedades transmisibles deberá efectuarse en vehículos acondicionados al efecto; a falta de éstos deberán utilizarse los que autorice la autoridad sanitaria. Los vehículos podrán usarse posteriormente para otros fines, previa la aplicación de las medidas que procedan.
+Las votaciones para elegir Mesa Directiva de la Asamblea, se decidirán dentro de la misma sesión.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 138], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 141.
 
-Las autoridades sanitarias determinarán los casos en que deba procederse a la descontaminación microbiana o parasitaria, desinfección y desinfestación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
+Las resoluciones de la Asamblea diversas a las reguladas en los artículos 135 y 138 de este Reglamento, se obtendrán mediante votaciones económicas.
+
+Para llevar a cabo una votación económica, la Secretaría de la Mesa Directiva preguntará: "Por instrucciones de la Presidencia se pregunta a los señores Diputados si están a favor o en contra de la propuesta sometida a su consideración"; debiéndose poner de pie los Diputados para manifestar su determinación; primeramente los que estén a favor y en seguida los que estén en contra.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 139], G.O. 30 DE MARZO DE 2005)
 
 ### CAPÍTULO III
 
@@ -1395,25 +1983,25 @@ ENFERMEDADES NO TRANSMISIBLES.
 
 ###### Artículo 142.
 
-Las autoridades sanitarias del Estado realizarán actividades de prevención y control de las enfermedades no transmisibles que las propias autoridades determinen.
+Cualquier Diputado podrá solicitar la rectificación de una votación económica pidiendo al Presidente que ordene a la Secretaría de la Mesa Directiva realice de nueva cuenta la votación, dando a conocer de inmediato el resultado de la misma.
+
+Cuando algún Diputado objetare por más de dos ocasiones el resultado de la votación económica, el Presidente ordenará a la Secretaría de la Mesa Directiva que la efectúe de manera nominal.
+
+#### SECCIÓN 6. DE LA EXPEDICIÓN DE LAS LEYES
+
+(REUBICADO [N. DE E. ANTES ARTICULO 140], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 143.
 
-El ejercicio de la acción de prevención y control de las enfermedades no transmisibles comprenderá una o más de las siguientes medidas, según el caso de que se trate:
+Toda resolución de la Asamblea tendrá el carácter de ley o de decreto, será redactada con precisión y claridad, en la forma que hubiere sido aprobada, y al expedirse será autorizada por las firmas del Presidente y por lo menos un Secretario de la Asamblea.
 
-I.- La detección oportuna de las enfermedades no transmisibles y la evaluación del riesgo de contraerlas;
-
-II.- La divulgación de medidas higiénicas para el control de los padecimientos;
-
-III.- La prevención específica en cada caso y la vigilancia de su cumplimiento;
-
-IV.- La realización de estudios epidemiológicos; y
-
-V.- Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
+(REUBICADO [N. DE E. ANTES ARTICULO 141], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 144.
 
-Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria les requiera, acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
+Las leyes y decretos se comunicarán al Jefe de Gobierno por el Presidente y por un Secretario de la Asamblea en esta forma: "La Asamblea Legislativa del Distrito Federal decreta": (texto de la ley o decreto)."
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 142], G.O. 30 DE MARZO DE 2005)</small>
 
 ### CAPÍTULO IV
 
@@ -1421,61 +2009,69 @@ ACCIDENTES.
 
 ###### Artículo 145.
 
-Para los efectos de esta Ley se entiende por accidente el hecho súbito que ocasione daños a la salud y que se produzca por la concurrencia de condiciones potencialmente prevenibles.
+Las leyes y decretos que expida la Asamblea se asentarán, por orden cronológico y textualmente, en el libro que al efecto lleve un Secretario de la Asamblea.
+
+#### SECCIÓN 7. DEL DIARIO DE DEBATES
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 143], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 146.
 
-Las acciones en materia de prevención y control de accidentes comprenden:
+La Asamblea contará con una publicación oficial denominada "Diario de los Debates de la Asamblea Legislativa del Distrito Federal", la que deberá contener: la sesión, el sumario, nombre de quien la preside, copia fiel del acta de la sesión anterior, versión de las discusiones en el orden que se desarrollen e inserción de todos los documentos a los que se les dé lectura y de aquellos documentos que se dispense su lectura.
 
-I.- El conocimiento de las causas más usuales que generan accidentes;
+No se publicarán las discusiones y documentos relacionados con las sesiones privadas.
 
-II.- La adopción de medidas para prevenir accidentes;
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
 
-III.- El desarrollo de la investigación para la prevención de los mismos;
-
-IV.- El fomento, dentro de los programas de educación para la salud, de la orientación a la población para la prevención de accidentes;
-
-V.- La atención de los padecimientos que se produzcan como consecuencia de accidentes; y
-
-VI.- La promoción de la participación de la comunidad en la prevención de accidentes.
-
-Para la mayor eficacia de las acciones a las que se refiere éste artículo, se creará el Consejo Estatal para la Prevención de Accidentes, del que formarán parte representantes de los sectores público, social y privado del Estado
-
-Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes y dentro de los marcos de los Sistemas Nacional y Estatal de Salud.
+La Asamblea a través de las unidades administrativas competentes, garantizará que los Diputados y el público en general tengan acceso al Diario de los Debates, a las versiones estenográficas y a la información que se genere en las sesiones, a través del sitio oficial de Internet de la Asamblea Legislativa, de sistemas de cómputo, mecanismos e instrumentos expeditos, ágiles, eficientes y económicos. El Diario de los Debates de cada una de las sesiones deberá publicarse en el sitio oficial de Internet de la Asamblea Legislativa, a más tardar 10 días hábiles contados a partir del día siguiente a la celebración de cada sesión de Pleno. Para garantizar que lo anterior se cumpla, los diputados deberán entregar de manera impresa y por medio electrónico, magnético, óptico u otros, todo documento que dirijan al Pleno de la Asamblea Legislativa.
 
 ### CAPÍTULO V. DESASTRES
 
 ###### Artículo 147.
 
-Se entiende por desastre al evento o fenómeno natural y/o provocado por el hombre, que afecta en la salud, económica y socialmente al individuo o sociedad y cuyos efectos pueden ser prevenibles, mitigados o evitados.
+La Asamblea podrá citar a servidores públicos de la Administración Pública del Distrito Federal para que informen cuando se discuta una ley o se estudie un asunto concerniente a sus respectivos ramos o actividades.
+
+Los servidores públicos podrán ser igualmente citados a asistir a las sesiones del Pleno o de las Comisiones en que se discutan asuntos vinculados con la dependencia a su cargo.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 145], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 148.
 
-Los desastres por su origen pueden clasificarse en: geológicos, hidrometereológicos, físicos, químicos, sanitarios y socio-organizativos.
+Cuando los servidores públicos de la Administración Pública del Distrito Federal fueren llamados por la Asamblea para comparecer ante el Pleno, se les remitirá notificación respectiva, y en su caso, la documentación relativa al asunto a examinarse en la comparecencia.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 146], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 149.
 
-Los desastres de origen sanitario son: brotes, epidemias, contaminación e intoxicaciones.
+Las comparecencias de los servidores públicos a que se refiere las fracciones XVII del artículo 42 y XII del artículo 67 del Estatuto, se sujetarán a las normas que al efecto acuerde la Comisión de Gobierno.
+
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 150.
 
-Los Servicios de Salud de Morelos ejercerán acciones con el objetivo de prestar auxilio ante cualquier desastre en forma inmediata y obligada, tanto en unidades médicas de primer nivel de atención, como en las unidades médicas hospitalarias, a través de:
+Los servidores públicos que comparezcan ante el pleno, cuando se trate algún asunto relacionado con su ramo, deberán presentar un informe por escrito así como información general útil para el desarrollo de la comparecencia, con setenta y dos horas de anticipación a la celebración de la sesión correspondiente, para su distribución entre los Diputados. Quedarán exceptuados de lo anterior los servidores públicos que sean citados con extrema urgencia.
 
-I.- La coordinación del sector salud, basada en un programa integral de atención a la salud en caso de desastres; y
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
 
-II.- Participación del personal de los Servicios de Salud de Morelos que se encuentra comprometido a participar en acciones que les sean asignadas de acuerdo a sus funciones o profesiones.
+El servidor público que comparezca tendrá un tiempo máximo de 10 minutos para exponer su informe, de igual forma, el diputado que realice su posicionamiento a nombre del Grupo Parlamentario o Coalición Parlamentaria contará con un tiempo máximo de cinco minutos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
+
+El párrafo anterior no se aplicará cuando se realice el informe anual sobre el estado que guarda la Administración Pública del Distrito Federal, que presente el Jefe de Gobierno del Distrito Federal.
+
+La Asamblea, a través de sus unidades administrativas competentes, implementará los sistemas de cómputo, mecanismos e instrumentos que garanticen la más expedita, ágil, eficiente y económica distribución de los informes y la información a que se refiere al párrafo anterior entre los Diputados.
+
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Una vez rendido el informe se procederá a su discusión por los Diputados, quienes podrán formular al servidor público las preguntas que estimen convenientes, en una sola ronda, de acuerdo al formato que para tal efecto determine la Comisión correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 151.
 
-Ante un desastre, las actividades de los Servicios de Salud de Morelos son de prevención, atención prehospitalaria, atención hospitalaria y atención a la salud de damnificados en albergues:
+Cualquier Diputado podrá solicitar a los servidores públicos a través de los Presidentes de Comisiones, del Presidente de la Mesa Directiva del Pleno o del de la Diputación Permanente, según sea el caso, la información por escrito sobre los cuestionamientos que haya formulado y que no le fueron contestados durante la comparecencia respectiva.
 
-I.- Las actividades de prevención son: información sobre el fenómeno que se trate y sus consecuencias, fomentar medidas especificas para disminuir el daño a la salud, metodología para la detección de factores de riesgo en el, antes, durante y después del evento;
-
-II.- Ante un desastre la atención prehospitalaria debe ser a través de: instalación de puestos de triage (primera atención al paciente), referencia a hospitales por ambulancias;
-
-III.- La atención hospitalaria en caso de desastre debe ser otorgada por las unidades hospitalarias en el Estado, sin importar derechohabiencia, incluyendo los servicios particulares; y
-
-IV.- La atención a la salud de los damnificados en albergues será a través de: consulta, vigilancia epidemiológica, control de excretas, basura y agua, toma de muestras ambientales y humanas, y saneamiento del albergue posterior al desalojo del mismo.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE MARZO DE 2005)</small>
 
 ## TÍTULO NOVENO
 
@@ -1485,135 +2081,211 @@ ASISTENCIA SOCIAL, PREVENCIÓN DE DISCAPACIDADES Y REHABILITACION DE DISCAPACITA
 
 ###### Artículo 152.
 
-Para los efectos de esta Ley, se entiende por asistencia social, el conjunto de acciones tendientes a modificar y mejorar la circunstancias de carácter social, que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr incorporación a una vida plena y productiva.
-
-Serán objeto de esta Ley los servicios asistenciales que se presten tanto en las instituciones públicas como en las privadas.
+Las Mesas Directivas del Pleno, de la Diputación Permanente o de las Comisiones, podrán dirigirse mediante oficio en inconformidad ante el superior jerárquico del servidor público que no haya dado respuesta por escrito a los cuestionamientos formulados en la comparecencia respectiva y requerir que satisfaga dicha omisión.
 
 ###### Artículo 153.
 
-Son actividades básicas de asistencia social:
+La gestión social es la acción a través de la cual la Asamblea, por medio del Pleno, del Comité de Atención, Orientación y Quejas Ciudadanas, de los Módulos de Atención, Orientación y Quejas Ciudadanas o alguno de los Diputados, demanda de la autoridad administrativa competente la realización, continuación o suspensión de una acción pública relacionada con los intereses de la colectividad o con los derechos de los habitantes del Distrito Federal.
 
-I.- La atención a personas que por su carencias socioeconómicas o por problemas de discapacidad se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+La atención, orientación y asesoría de las demandas ciudadanas, así como las gestiones correspondientes, serán gratuitas.
 
-II.- La atención en establecimientos especializados, a menores y ancianos en Estado de abandono o desamparo, discapacitados sin recursos y receptores de violencia intrafamiliar;
-
-III.- La promoción del bienestar senescente y el desarrollo de acciones de preparación para la senectud;
-
-IV.- El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
-
-V.- La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, ancianos y discapacitados sin recursos;
-
-VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
-
-VII.- La promoción de la participación consciente y organizada de la población con carencias, en las acciones de promoción, asistencia y desarrollo social, que se lleven a cabo en su propio beneficio;
-
-VIII.- El apoyo a la educación y capacitación para el trabajo de personas con carencias socioeconómicas; y
-
-IX.- La prestación de servicios funerarios.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 149], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 154.
 
-Para fomentar el desarrollo de programas públicos de asistencia social, el Gobierno del Estado promoverá la canalización de recursos y apoyo técnico necesario.
+Las peticiones y quejas formuladas por los habitantes de Distrito Federal ante la Asamblea, respecto del cumplimiento, por parte de las autoridades del Distrito Federal, de las obligaciones que les señalan las disposiciones jurídicas en materia administrativa, de obras y servicios y defensa de los derechos ciudadanos, deberán sujetarse a los siguientes trámites:
 
-Asimismo procurará destinar los apoyos necesarios a los programas de asistencia social, públicos y privados, para fomentar su aplicación.
+I.- Toda petición o queja que los particulares presentan a la Asamblea, deberá hacerse por escrito y contener los datos que hagan posible la identificación del peticionario, a fin de que se le informe oportunamente sobre los trámites y resoluciones de que se objeto su petición; y
+
+II.- Las peticiones o quejas se presentarán ante la Oficialía de Partes o directamente al Comité de Atención, Orientación y
+
+Quejas Ciudadanas y los Módulos, quienes si puede satisfacerlas, las tramitarán de inmediato y haciéndoselo saber por escrito al peticionario. Cuando el Comité o los Módulos no puedan satisfacer la petición, la turnarán a la Comisión correspondiente.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 150], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 155.
 
-Los menores, en estado de desprotección social tienen derecho a recibir los servicios asistenciales que necesiten, en cualquier establecimiento público dependiente del Gobierno del Estado al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+El Comité de Atención, Orientación y Quejas Ciudadanas, así como las Comisiones a las que se turnen las peticiones o quejas, deberán acordar la acción correspondiente en un plazo máximo de quince días.
+
+La Comisión estudiará la petición o queja y, cuando la atención de la misma requiera su presentación al Pleno, elaborará la propuesta correspondiente.
+
+La Comisión, una vez realizadas las gestiones, informará al Comité de Atención, Orientación y Quejas Ciudadanas, de las acciones que se llevaron a cabo, para su control y seguimiento.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 151], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 156.
 
-Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e inmediata, a menores y ancianos sometidos a cualquier forma de maltrato, que pongan en peligro su salud física o mental, así mismo darán atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental, o el normal desarrollo psico-somático de los individuos.
+Para la gestión de las demandas de los habitantes del Distrito Federal, los Diputados a la Asamblea podrán dirigirse a las autoridades correspondientes, las que deberán atender la petición e informar al Diputado de los trámites o acciones que la autoridad administrativa hubiese acordado.
 
-En éstos casos, las instituciones del Estado podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores y ancianos, sin perjuicio de dar intervención a las autoridades competentes.
+Si la petición fue presentada en un Módulo, se le señalará copia para que pueda informar al interesado.
+
+#### SECCIÓN 2. DE LA CONSULTA PUBLICA
+
+(REUBICADO [N. DE E. ANTES ARTICULO 152], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 157.
 
-El Gobierno del Estado contará con un organismo que se denominará Sistema Para el Desarrollo Integral de la Familia en Morelos que tendrá entre sus objetivos, la promoción de la asistencia social, la prestación de los servicios en ese campo, y la realización de las demás acciones que en la materia lleven a cabo las instituciones públicas en el Estado, en coordinación con el organismo Federal encargado al efecto.
+La Asamblea, por acuerdo de la mayoría de sus miembros, podrá convocar a consulta pública sobre los asuntos de su competencia, cuando a juicio de ésta se requiera conocer la opinión de los habitantes del Distrito Federal sobre determinado asunto.
 
-Las atribuciones y funciones que correspondan al Sistema se regirán por las disposiciones legales aplicables.
+(REUBICADO [N. DE E. ANTES ARTICULO 153], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 158.
 
-El Gobierno del Estado y los H. Ayuntamientos, promoverán la creación de establecimientos en los que se dé atención a personas con padecimientos mentales, a niños desprotegidos y ancianos desamparados.
+La consulta pública a que convoque la Asamblea podrá abarcar todo el Distrito Federal o una de sus demarcaciones, podrá comprender uno o varios sectores de la población y una o varias materias específicas que estén vinculadas, de acuerdo con los objetivos que la propia Asamblea haya fijado en la convocatoria.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 154], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 159.
 
-El Gobierno del Estado y los H. Ayuntamientos, en coordinación con las dependencias y Entidades públicas correspondientes, distribuirán raciones alimenticias en aquellas zonas de agudo retraso socioeconómico, o en las que padezcan desastres originados por sequía, inundaciones, terremotos y otros fenómenos naturales o contingencias con efectos similares.
+La Comisión correspondiente fijará las bases de la consulta pública mediante convocatoria, llevará la conducción, realizará el análisis de los resultados y presentará las conclusiones al Pleno.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 155], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 160.
 
-El Gobierno del Estado podrá autorizar la constitución de instituciones privadas cuyo objeto sea la prestación de servicios asistenciales;
+Para la elaboración de la convocatoria, la Comisión tomará en consideración los siguientes elementos:
+
+I.- Considerandos y propósitos;
+
+II.- La materia objeto de la consulta;
+
+III.- La propuesta de los ciudadanos, organizaciones y agrupaciones convocadas;
+
+IV.- Las fechas y los lugares en que habrán de celebrarse las audiencias, y
+
+V.- Las normas que regirán el desarrollo de la consulta pública.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 156], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 161.
 
-Serán consideradas instituciones de asistencia privada, las que se constituyan conforme a esta Ley, al reglamento correspondiente y demás disposiciones aplicables, y cuyo objeto sea la prestación de servicios asistenciales, sin propósito de lucro y sin designar individualmente a los beneficiarios.
+Una vez conocidas las conclusiones de la consulta pública, el Presidente ordenará publicar los resultados de la misma, por lo menos en dos diarios de cobertura nacional, para dar a conocer a la ciudadanía del Distrito Federal las acciones que con esta base llevará a cabo la propia Asamblea. Simultáneamente, se enviará a la autoridad correspondiente para que sean aplicadas en el ámbito de su competencia.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 157], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 162.
 
-Se crea la Junta de Asistencia Privada, como órgano desconcentrado, jerárquicamente subordinado al Sistema para el Desarrollo Integral de la Familia en el Estado, a través del cual se ejercerá la vigilancia y promoción de las instituciones de asistencia privada.
+En los recesos del Pleno, la Comisión de Gobierno autorizará la consulta pública, a petición escrita de alguna Comisión donde se fijen los propósitos y objetivos de la misma.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 158], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 163.
 
-Serán consideradas instituciones de asistencia privada, los asilos, los hospicios, las casas de cuna y las demás que determinen otras disposiciones legales aplicables.
+La Asamblea instalará una red informática con terminales en cada Delegación Política que permita a los ciudadanos obtener información inmediata y detallada acerca del proceso legislativo, y a los Diputados conocer de manera directa las opiniones e iniciativas de los ciudadanos.
+
+#### SECCIÓN 3. LA AUDIENCIA PUBLICA
+
+(REUBICADO [N. DE E. ANTES ARTICULO 159], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 164.
 
-La integración, funcionamiento y facultades de la Junta de Asistencia Privada serán determinadas por las disposiciones legales aplicables que se expidan para tal efecto.
+Los Diputados deberán realizar audiencias en su distrito o circunscripción por lo menos una vez al mes.
+
+Los Diputados de mayoría relativa celebrarán audiencias en la demarcación del distrito electoral por el que resultaron electos y los de representación proporcional en cualquier lugar del Distrito Federal.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 160], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 165.
 
-Las instituciones de asistencia privada se consideran de interés público, estarán exceptuadas del pago de los impuestos, derechos y aprovechamientos que establezcan las Leyes del Estado.
+A las audiencias públicas podrán concurrir Diputados de diferentes partidos, siempre que éstos manifiesten interés en determinada problemática o atención a determinado núcleo poblacional.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 161], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 166.
 
-Las reglas de la constitución, operación, organización, liquidación y demás aspectos concernientes a las instituciones de asistencia privada, serán establecidas en la Ley específica que al efecto se expida.
+Los Diputados llevarán un registro de los asuntos que les sean planteados y darán a conocer al peticionario el resultado de su gestión por escrito.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 162], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 167.
 
-Los servicios y acciones que presten y realicen las instituciones de asistencia privada, se someterán a las disposiciones de esta Ley, a los Programas Nacional y Estatal de Salud y a las demás disposiciones legales aplicables.
+Las audiencias públicas se celebrarán, de preferencia, en plazas, jardines o locales de fácil acceso, a fin de propiciar el acercamiento con la población. Las autoridades de la Administración Pública local deberán proporcionar a los Diputados, a través de la Comisión de Gobierno, las facilidades necesarias para la celebración de estas audiencias.
+
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 168.
 
-Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus respectivas competencias, colaborarán para proporcionar atención rehabilitatoria, cuando así lo requieran.
+Cada Diputado presentará un informe semestral de manera impresa y por medio electrónico, magnético, óptico u otros, a la Comisión de Gobierno, durante los meses de febrero y agosto de cada año.
+
+Dicho informe deberá contener, al menos, los siguientes rubros:
+
+I. Comunicaciones, iniciativas, propuestas, pronunciamientos, denuncias y efemérides presentadas ante el Pleno, la Diputación Permanente o la Comisión de Gobierno, según sea el caso;
+
+II. Actividades legislativas realizadas dentro de las comisiones o comités:
+
+III. Gestiones realizadas y el estatus en el que se encuentra cada una de ellas al momento de presentar el informe;
+
+IV. Participaciones en foros, seminarios, mesas de trabajo, mesas redondas y demás actividades de contacto ciudadano;
+
+V. Viajes realizados que tengan relación con su labor parlamentaria; y
+
+VI. Cualquier otra información que considere relevante con base en los principios de máxima transparencia y rendición de cuentas.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 164], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 169.
 
-Los Servicios de Salud de Morelos en coordinación con otras instituciones públicas, promoverá que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas discapacitadas.
+Recibidos los informes por la Comisión de Gobierno, ésta los turnará al Comité de Asuntos Editoriales, a efecto de que éste programe la publicación de un informe anual consolidado de las acciones que en forma individual o colegiada se hayan realizado.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 170.
 
-Para los efectos de esta Ley, se entiende por discapacidad a la disminución que padece una persona, sea temporal o permanente en sus facultades físicas y/o mentales.
+De conformidad con lo señalado en el artículo 10 de la Ley Orgánica de la Asamblea Legislativa del Distrito Federal, la Asamblea otorgará las siguientes preseas y reconocimientos:
+
+I.- Al Mérito Ciudadano;
+
+> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+II.- Al mérito en Ciencias, Artes, Ejecución Musical y Artística;
+
+III.- Al Mérito Policial; y
+
+IV.- Al Mérito Deportivo.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 171.
 
-La atención en materia de prevención de discapacidad y rehabilitación de discapacitados comprende:
+Las preseas y los reconocimientos que confiera la Asamblea Legislativa del Distrito Federal, deberán sustentarse en un análisis objetivo de méritos a través de los cuales se realicen los grandes valores humanos.
 
-I.- La investigación de las causas de la discapacidad y los factores que la condicionan;
+Las preseas se otorgarán como reconocimiento público a una conducta o trayectoria vital, singularmente ejemplares, así como también a obras valiosas y actos relevantes, realizados en beneficio de la humanidad o del Distrito Federal.
 
-II.- La promoción de la participación de la comunidad en la prevención de las causas y factores condicionantes de las discapacidades;
-
-III.- La identificación temprana y la atención oportuna de procesos físicos, mentales o sociales, que puedan causar discapacidad;
-
-IV.- La orientación educativa en materia de rehabilitación a la colectividad en general, y en particular, a las familias en las que exista algún discapacitado, promoviendo al efecto la solidaridad social;
-
-V.- La atención integral de los discapacitados, incluyendo adaptación de la prótesis, ortesis y ayudas funcionales que requieran;
-
-VI.- La promoción para adecuar facilidades urbanísticas y arquitectónicas, a las necesidades de los discapacitados; y
-
-VII.- La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de rehabilitación.
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 172.
 
-Los servicios de rehabilitación que proporcionen los establecimientos dependientes del Sector Salud del Estado, estarán vinculados sistemáticamente a los de rehabilitación y asistencia social que preste el organismo a que se refiere el Artículo 157 de esta Ley.
+Para los efectos del presente título, se entenderá por:
+
+> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+I.- Medalla: Medalla al Mérito, ya sea Ciudadano, en Ciencias, Artes, Ejecución Musical y Artística, Policial o Deportivo de la Asamblea Legislativa del Distrito Federal;
+
+II.- Comisiones: Las diferentes Comisiones dictaminadoras de las medallas, que son:
+
+a) Comisión Especial para otorgar la Medalla al Mérito Ciudadano de la Asamblea Legislativa del Distrito Federal;
+
+b) Comisiones Unidas de Ciencia y Tecnología y de Cultura de la Asamblea Legislativa del Distrito Federal;
+
+c) Comisión de Seguridad Pública de la Asamblea Legislativa del Distrito Federal; y
+
+d) Comisión del Deporte de la Asamblea Legislativa del Distrito Federal.
+
+III.- Candidato: Toda persona propuesta para recibir la presea y el reconocimiento que otorga la Asamblea Legislativa, que actúe en forma individual o colectiva, ya sea en asociación o institución pública o privada propuesta.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 173.
 
-El Gobierno del Estado, a través del organismo a que se refiere el artículo 157 de la presente Ley, y en coordinación con las dependencias y Entidades Federales, promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional, para las personas que sufran cualquier tipo de discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, ortésis y ayudas funcionales.
+Los casos en que haya necesidad de interpretar los términos de las bases del presente reglamento, así como los aspectos no previstos en el mismo, en lo relativo a la entrega de preseas y reconocimientos, serán resueltos por la Comisión dictaminadora correspondiente.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 174.
 
-El organismo previsto en el Artículo 157 de esta Ley, tendrá entre sus objetivos operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de discapacidades y participar en programas de rehabilitación y educación especial.
+El reconocimiento consistirá de medalla metálica e implicará también el otorgamiento del diploma correspondiente.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ## TÍTULO DÉCIMO
 
@@ -1625,27 +2297,45 @@ PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE LAS BEBIDAS ALCOHOLICAS.
 
 ###### Artículo 175.
 
-El Gobierno del Estado se coordinará con las autoridades sanitarias Federales para la ejecución en el Estado, del programa contra el alcoholismo y el abuso de bebidas alcohólicas, que comprenda entre otras, las siguientes acciones:
+La medalla a que se refiere el artículo anterior tendrá las características que aquí se describen:
 
-I.- La prevención y el tratamiento de alcoholismo, y en su caso, la rehabilitación del alcohólico;
+I.- Medalla de material en plata, .999 ley, dos caras, terminada en oro de 14 quilates, o en su defecto de una aleación más valiosa;
 
-II.- La educación sobre los efectos del alcohol en la salud y en las relaciones sociales dirigida a toda la población, y especialmente a niños, adolescentes y mujeres gestantes, a través de métodos individuales, sociales o de comunicación masiva; y
+II.- En el anverso, el logotipo de la Asamblea Legislativa y la legislatura que corresponda en relieve;
 
-III.- El fomento de actividades cívicas, deportivas y culturales, que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en los grupos considerados de alto riesgo.
+III.- Al reverso, el grabado de la inscripción según sea el caso:
+
+a) "MEDALLA AL MÉRITO CIUDADANO"
+
+b) "MEDALLA AL MÉRITO EN CIENCIAS"
+
+c) "MEDALLA AL MÉRITO EN LAS ARTES"
+
+d) "MEDALLA AL MÉRITO POLICIAL"
+
+e) "MEDALLA AL MÉRITO DEPORTIVO"
+
+> <small>(ADICIONADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+f) “MEDALLA AL MÉRITO EN EJECUCIÓN MUSICAL Y ARTÍSTICA”
+
+En fondo opaco, el nombre de la persona condecorada y la disciplina, en su caso; y
+
+IV.- El listón del que penda la Medalla será de seda y con los colores patrios.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 176.
 
-Para obtener la información que oriente las acciones contra el alcoholismo y el abuso de bebidas alcohólicas, las autoridades sanitarias del Estado en coordinación con otras dependencias, y Entidades públicas, realizarán actividades de investigación en los siguientes aspectos:
+El Diploma tendrá las siguientes características:
 
-I.- Causas del alcoholismo y acciones para controlarlas;
+I.- Será de pergamino natural;
 
-II.- Efectos de la publicidad en la incidencia del alcoholismo y en los problemas relacionados con el consumo de bebidas alcohólicas;
+II.- En su texto deberá contener la leyenda "La Asamblea Legislativa del Distrito Federal, otorga el presente diploma a: (nombre del candidato electo) por su destacada labor en: (tipo de actividad), y en su caso: (de la disciplina); y
 
-III.- Hábitos de consumo de alcohol en los diferentes grupos de población; y
+III.- Nombre y firma del Presidente y Secretarios de la Mesa Directiva de la Asamblea Legislativa.
 
-IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar,
-
-social, deportivo, de los espectáculos, laboral y educativo.
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ### CAPÍTULO II
 
@@ -1653,67 +2343,83 @@ PROGRAMA CONTRA EL TABAQUISMO.
 
 ###### Artículo 177.
 
-El Gobierno del Estado se coordinará con las autoridades sanitarias Federales, para la ejecución en el Estado del programa contra el tabaquismo, que comprenderá, entre otras, las siguientes acciones:
+El diploma a entregarse será elaborado en tantos suficientes para las personas acreedoras a los reconocimientos y para integrar el Archivo Histórico de la Asamblea Legislativa del Distrito Federal.
 
-I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo;
+El Archivo Histórico será el facultado de integrar el archivo relacionado con cada una de las Medallas.
 
-II.- La educación sobre los efectos del tabaquismo en la salud, dirigida a toda la población y especialmente, a la familia, niños, adolescentes y mujeres, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares restringidos de conformidad con las disposiciones legales aplicables; y
-
-III.- La elaboración, emisión y aplicación de la reglamentación necesaria para la protección de los no fumadores en el ámbito territorial de su competencia.
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 178.
 
-Para poner en práctica las acciones contra el tabaquismo, se tendrá en cuenta los siguientes aspectos:
+Serán atribuciones de las Comisiones:
 
-I.- La investigación de las causas del tabaquismo y de las acciones para controlarlas;
+I.- Actuar en forma colegiada y entrar en función permanente, a partir de la fecha de su integración, hasta la elaboración del dictamen, conteniendo la propuesta debidamente analizada;
 
-II.- La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes; y
+II.- Planificar el desarrollo del proceso de la entrega del reconocimiento;
 
-III.- La definición de acciones tendientes a la protección de los no fumadores.
+III.- Solicitar el apoyo a la Oficialía Mayor de la Asamblea Legislativa para publicar la convocatoria y el dictamen correspondiente;
+
+IV.- Evaluar la trayectoria individual de cada uno de los candidatos a la entrega del reconocimiento;
+
+V.- Fundamentar en cada una de sus elecciones específicas, en estricta observancia de este reglamento; y
+
+VI.- Elaborar oportunamente para su aprobación por el Pleno, el dictamen con las propuestas analizadas que deberá contener el día y la hora para la celebración de la Sesión Solemne de entrega de reconocimiento.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 179.
 
-Para los efectos de esta Ley se consideran auxiliares de la autoridad sanitaria, las siguientes:
+La Oficialía Mayor de la Asamblea Legislativa otorgará la mayor difusión a las convocatorias que se expidan y, en todo caso, a petición de las Comisiones la hará llegar a las instituciones públicas y privadas para proponerse, o en su caso que pudieran tener interés en proponer candidatos.
 
-I.- Los particulares en su calidad de ciudadanos, en pleno uso de sus derechos,
-
-II.- Los servidores públicos de las oficinas en las que se proporcione atención directa al público;
-
-III.- Los propietarios, poseedores o responsables y empleados de los locales, establecimientos y medios de transporte a que se refiere este Capítulo; y
-
-IV.- Los maestros, las asociaciones de padres de familia y asociaciones de alumnos de escuelas e institutos públicos y privados, a través del personal administrativo y directivo de las mismas.
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 180.
 
-Se restringe el consumo de tabaco en:
+Toda persona, organismo, asociación o institución pública o privada cuyas actividades sean afines en la disciplina en la que participa, podrá proponerse o proponer por escrito, a los candidatos a recibir el reconocimiento y deberá ir acompañada de:
 
-I.- Los locales o establecimientos cerrados en los que se expendan al público alimentos para su consumo, los propietarios, poseedores o responsables de los mismos, deberán delimitar secciones reservadas para fumadores y para personas que no fumen durante su estancia en los mismos. Dichas secciones deberán estar identificadas con señalizaciones en lugares visibles al público asistente;
+I.- Datos generales de la persona o institución que realiza la propuesta;
 
-II.- Los cines, auditorios y teatros cerrados a los que tenga acceso el público en general, con excepción de las secciones indicadas como áreas de fumadores;
+II.- Nombre o nombres de los candidatos;
 
-III.- En los vehículos de servicio público de transporte colectivo y en los de transporte público foráneo que circulen en el Estado, a excepción de que tengan un área destinada para tal efecto, debiendo fijar en el interior de los mismos, letreros o emblemas que indiquen la prohibición de fumar. Los choferes no podrán fumar mientras lleven pasaje;
+III.- Domicilio;
 
-IV.- En las oficinas de atención al publico en general, del Gobierno del Estado y de los H. Ayuntamientos;
+IV.- Exposición de motivos en la que se deberá especificar aquellos méritos por virtud de los cuales se le considera merecedor del reconocimiento correspondiente;
 
-V.- En las tiendas de autoservicio, sucursales bancarias y financieras, industrias y en las oficinas comerciales o de servicio; y
+V.- Curriculum vitae de los candidatos, y
 
-VI.- En los salones, auditorios, bibliotecas y salas de usos múltiples de las escuelas oficiales y particulares de educación preescolar, primaria, secundaria, especial, media superior y superior.
+VI.- La información documental adicional de acuerdo con la disciplina de la especialidad referida en la convocatoria respectiva.
+
+La documentación completa de las candidaturas remitidas a la Comisión correspondiente, se considerará confidencial, por lo que éstas permanecerán bajo resguardo de la Comisión respectiva, en tanto ésta emita el dictamen correspondiente.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 181.
 
-En términos de la presente Ley, se establecerá un reglamento para la definición de áreas restringidas al consumo de tabaco, que tomará en cuenta el giro y opinión de los propietarios o responsables de los establecimientos.
+La Medalla al Mérito Ciudadano se otorgará dos veces al año como reconocimiento público a mexicanos y mexicanas que se han destacado en la realización de actividades cuyos resultados aporten singulares beneficios en las diversas áreas del conocimiento humano.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 182.
 
-Los Servicios de Salud de Morelos, en el ámbito de su competencia como autoridad sanitaria, vigilara la restricción de áreas para el consumo de tabaco en las unidades médicas del Sistema Estatal de Salud.
+El Pleno de la Asamblea Legislativa, a propuesta de la Comisión de Gobierno, nombrará una Comisión Especial, electa por voto mayoritario, la cual, deberá conocer y estudiar las propuestas de candidatos y candidatas a recibir el reconocimiento, así como elaborar los dictámenes correspondientes, debiendo distinguirse siempre la diferencia de género en un periodo y otro y que deberán ser presentados al Pleno para su aprobación.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+El dictamen se presentará al Pleno una vez que el mismo sea aprobado por consenso por la Comisión Especial.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 183.
 
-Para los efectos de la restricción a que se refiere el artículo anterior, se entienden como áreas restringidas en unidades médicas, aquellas en las que se desarrollan actividades preventivas, curativas y de rehabilitación dirigidas a mantener o reintegrar el estado de salud de las personas, incluyendo cualquier otro lugar cerrado de las instituciones médicas, así como en los vehículos destinados al traslado de pacientes.
+La integración de la Comisión Especial deberá reflejar la composición plural de la Asamblea Legislativa. Será electa dentro del primer periodo ordinario de sesiones de cada ejercicio de la Asamblea Legislativa.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 184.
 
-Las áreas restringidas para el humo del tabaco deberán estar plenamente identificadas con avisos visibles a los usuarios y al personal de las unidades médicas correspondientes.
+La Asamblea Legislativa convocará cada año a la población, organizaciones sociales, sociedades científicas, organizaciones académicas y demás instituciones que representen el ambiente cultural del Distrito Federal, para que propongan a candidatos que como resultado de sus actividades hayan aportado beneficios en las diversas áreas del conocimiento humano o realizado acciones de trascendencia social para la ciudad o la comunidad del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ### CAPÍTULO III
 
@@ -1721,27 +2427,15 @@ PROGRAMA CONTRA LA DROGODEPENDENCIA.
 
 ###### Artículo 185.
 
-El Gobierno del Estado coadyuvará con la Secretaría de Salud en la ejecución del Programa Nacional contra la Drogodependencia a través de las siguientes acciones:
+La convocatoria a que hace referencia el artículo anterior deberá ser elaborada y aprobada por la propia Comisión Especial a más tardar el quince de enero, así como el quince de julio de cada año que corresponda.
 
-I.- Prevención y tratamiento de la drogodependencia y, en su caso la rehabilitación de los farmacodependientes;
-
-II.- La educación sobre los efectos del uso de estupefacientes, substancias psicotrópicas y otras susceptibles de producir dependencia, así como sus consecuencias en las relaciones sociales; y
-
-III.- La educación y orientación a la familia y la comunidad sobre las formas para reconocer los síntomas de la drogodependencia y adoptar las medidas a su alcance para su prevención y tratamiento.
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 186.
 
-El Gobierno del Estado y los municipios, para evitar y prevenir el consumo de sustancias inhalantes, que produzcan efecto psicotrópicos en las personas, se ajustarán a lo siguiente:
+El periodo para el registro de candidatos a recibir la Medalla al Mérito Ciudadano queda comprendido del quince de enero al treinta y uno de marzo y del quince de julio al treinta de septiembre de cada año, observando en todo momento lo establecido en el artículo 180 del presente Reglamento.
 
-I.- Determinarán y ejercerán medios de control en el expendio de sustancias inhalables, para prevenir su consumo por parte de menores de edad e incapaces;
-
-II.- Establecerán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas sustancias, para evitar el empleo indebido de las mismas;
-
-III.- Brindarán la atención médica que se requiera, a las personas que realicen o hayan realizado el consumo de inhalantes; y
-
-IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público para la prevención de daños a la salud provocados por el consumo de sustancias inhalantes.
-
-A los establecimientos que vendan o utilicen sustancias inhalantes con efectos psicotrópicos que no se ajusten al control que disponga el Gobierno del Estado y los municipios, así como los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de la presente Ley.
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ## TÍTULO DÉCIMO PRIMERO
 
@@ -1751,53 +2445,145 @@ DE LOS ESTABLECIMIENTOS DEDICADOS A PROCESO DE ALIMENTOS, BEBIDAS ALCOHÓLICAS Y
 
 ###### Artículo 187.
 
-Para efectos de esta Ley, se entiende por proceso la o las actividades relativas a la obtención, elaboración, fabricación, preparación, conservación, mezclado, acondicionamiento, envasado, manipulación, transporte, distribución, almacenamiento y expendio o suministro al público de los productos sujetos a control sanitario.
+El reconocimiento de la Medalla al Mérito Ciudadano y el Diploma respectivo serán otorgados en Sesión Solemne que deberá celebrarse dentro del mes de abril y octubre de cada año respectivamente.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 188.
 
-Los Servicios de Salud de Morelos ejercerá la verificación y control sanitario de los establecimientos dedicados al proceso de alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, de conformidad con la Ley General de Salud, sus reglamentos y Normas Oficiales Mexicanas que al efecto emita la Secretaria de Salud del Gobierno Federal y otras disposiciones aplicables al respecto.
+El reconocimiento se otorgará a los ciudadanos que se hayan distinguido, en grado sobresaliente, en las ciencias, las artes o en la Ejecución musical y Artística.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+El reconocimiento se concederá:
+
+I.- En las Artes: A quienes hayan sobresalido en el dominio, dedicación, destreza, y cuya trayectoria sea sobresaliente en música, danza, teatro, pintura, escultura, arquitectura, dibujo y grabado.
+
+Se concederá el reconocimiento a la actividad en las artes a los ciudadanos que, con su trabajo creativo y trayectoria, hayan destacado en la producción de obras, aportaciones, trabajos docentes, de investigación o de divulgación, así como aquéllos que hayan contribuido a enriquecer el acervo cultural del Distrito Federal y del País y, en general, al progreso de las artes.
+
+II.- En las Ciencias: A aquellos que hayan destacado en cualquiera de los campos de la investigación científica, en el ámbito de las ciencias naturales, exactas y sociales.
+
+Se concederá a quien haya realizado estudios, descubrimientos, aportaciones o propuestas, producto de investigaciones en cualquier campo de la ciencia; así como proyectos o trabajos creativos que modifiquen o desarrollen el campo tecnológico, que se consideren como probada aportación a la ciencia y tecnología, y cuya conducta sea un ejemplo de fidelidad a su vocación científica.
+
+> <small>(ADICIONADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+III.- En la Ejecución Musical: A quienes hayan tenido una trayectoria sobresaliente en la interpretación de obras musicales.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+IV.- En la Interpretación Artística: A quienes hayan tenido una trayectoria sobresaliente en la representación de obras teatrales, literarias, de televisión o cinematograficas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+Se concederá el reconocimiento a la Ejecución Musical a los ciudadanos vivos que, con su trabajo creativo y trayectoria, hayan destacado en la reproducción de obras musicales que dignifiquen los valores culturales de la Ciudad de México o del País o bien que difundan éstos entre la población. Asimismo, se otorgará en forma póstuma a los ciudadanos que reúnan dichas características y que hayan fallecido en el periodo comprendido entre el 30 de agosto del año anterior y el 31 de agosto del año en que se entregará la presea.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+De igual forma, se concederá el reconocimiento a la interpretación artística a los ciudadanos vivos que, con su trabajo creativo y trayectoria, hayan destacado en la reproducción de obras teatrales, literarias, de televisión o cinematográficas, que dignifiquen los valores culturales de la Ciudad de México o del País o bien que difundan éstos entre la población. Asimismo, se otorgará en forma póstuma a los ciudadanos que reúnan dichas características y que hayan fallecido en el periodo comprendido entre el 30 de agosto del año anterior y el 31 de agosto del año en que se entregará la presea.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 189.
 
-Corresponde a los H. Ayuntamientos en los términos de esta Ley y demás disposiciones aplicables, autorizar la ubicación y los horarios de funcionamientos de los establecimientos a que se refiere este Capítulo y vigilar su cumplimiento.
+La convocatoria respectiva y el proceso de la elección de los candidatos a recibir el reconocimiento estará a cargo de las Comisiones unidas de Cultura y Ciencia y Tecnología de la Asamblea Legislativa.
+
+Las Comisiones Unidas emitirán el dictamen correspondiente y deberá ser presentado ante el pleno de la Asamblea Legislativa, una vez que éste sea aprobado al interior de las comisiones.
+
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 190.
 
-Para determinar la ubicación y horario de funcionamiento de los establecimientos dedicados a la venta de bebidas alcohólicas, los H. Ayuntamientos tomaran en cuenta la cercanía de unidades de atención médica centros de recreo, culturales, educativos y otros similares, a efecto de coadyuvar eficazmente con las acciones derivadas del Programa Nacional Contra el Alcoholismo.
+Si del análisis de las propuestas resultaren dos o más candidatos cada Comisión podrá presentar el dictamen correspondiente a su materia, debiendo firmar ambos dictámenes todos los integrantes de las Comisiones Unidas, y presentarse ante el Pleno de la Asamblea Legislativa cada uno por separado.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 191.
 
-Los propietarios, encargados o responsables de los establecimientos en que se elaboren, expendan o suministren bebidas alcohólicas, en ningún caso y de ninguna forma las expenderán o suministraran a menores de edad así como el limitar su consumo a toda persona que presente manifestaciones presumibles de intoxicación etílica.
+En caso de ser dos dictámenes cada presidente de la Comisión ya sea de Ciencia y Tecnología o de Cultura podrá hacer uso de la Tribuna para dar lectura al dictamen correspondiente.
+
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 192.
 
-El proceso de los productos a que se refiere este Título deberá realizarse en condiciones higiénicas sin adulteración, contaminación o alteración y de conformidad con las disposiciones de la Ley General de Salud, esta Ley, sus reglamentos, Normas Oficiales Mexicanas y demás disposiciones aplicables.
+Para conceder los Reconocimientos, las Comisiones unidas elaborarán, durante la primera quincena del mes de octubre del año que corresponda una sola convocatoria que contemple a las Ciencias, las Artes y la Ejecución Musical y Artística.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 193.
 
-Se considera adulterado un producto cuando:
+Las propuestas de candidatos a recibir el reconocimiento deberán ser entregadas a más tardar el día primero del mes de octubre siguiente por la sociedad en general, conforme al artículo 180, ante la Comisión respectiva.
 
-I.- Su naturaleza o composición no correspondan a aquellas con que se etiquete, anuncie, expenda y suministre; y
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
-II.- Haya sufrido tratamiento que disimule su alteración, encubran defectos en su proceso o en la calidad sanitaria de las materias primas utilizadas.
+A la Comisión de Ciencia y Tecnología le corresponde recibir las propuestas de candidatos al reconocimiento en las Ciencias.
+
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+A la Comisión de Cultura le corresponde recibir las propuestas de candidatos al reconocimiento relacionadas con las Artes y la Ejecución Musical y Artística.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 194.
 
-Se considera contaminado el producto o materia prima que contengan microorganismos, hormonas, bacteriostaticos, plaguicidas, partículas radiactivas, materia extraña, así como cualquier otra substancia en cantidades que rebasen los límites permisibles establecidos por la Secretaria de Salud.
+Además de los requisitos establecidos por el artículo 180, la Comisión de Cultura deberá observar lo siguiente:
+
+I.- Información sobre la obra del creador:
+
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+A. Letras: Obras publicadas o Ejecutadas;
+
+B. Artes visuales: (pintura, grabado, escultura, fotografía y diseño gráfico), exposiciones individuales y colectivas, en las que ha presentado su obra, y relación de obras que formen parte de colecciones de museos;
+
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+C. Creación e Interpretación de Artes Escénicas (dramaturgia, dirección escénica, teatral o escenografía y danza);
+
+D. Coreografía: Obras estrenadas;
+
+E. Dramaturgia: Obras representadas y/o publicadas;
+
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+F. Creación Musical: Copia de los manuscritos de las obras compuestas y/o publicadas;
+
+G. Arquitectura: Obras realizadas;
+
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+H. Música (Obras Ejecutadas, grabadas así como canto, instrumentistas y dirección, para el caso de la ejecución musical);
+
+I. Dirección en medios audiovisuales: Obras audiovisuales producidas.
+
+II.- Relación de premios o distinciones obtenidos;
+
+III.- Selección de las notas críticas nacionales o internacionales que se han publicado en torno a su obra;
+
+IV.- Información documental adicional de acuerdo con la disciplina de su especialidad que dé muestra de la trayectoria del creador;
+
+V.- Hayan contribuido al enriquecimiento del legado cultural de nuestro país; y
+
+VI.- Hayan participado en la formación de artistas de otras generaciones.
+
+Por cada una de las ramas anteriormente citadas se hará entrega de un sólo reconocimiento.
+
+> <small>(ADICIONADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+Los incisos A y H, se tomará en cuenta para el reconocimiento a la Ejecución Musical, en su caso; así como los incisos A y C se tomarán en cuenta para el reconocimiento a la Interpretación artística en su caso.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 195.
 
-Se considera alterado un producto o materia prima cuando, por la acción de cualquier causa, haya sufrido modificaciones en su composición intrínseca que:
+La Comisión al dictaminar, tomará en cuenta la exposición de méritos que se acompañe a cada propuesta, independientemente de los elementos de convicción que adquiera por sus propios medios.
 
-I.- Reduzcan su poder nutritivo;
-
-II.- Lo conviertan en nocivo para la salud; y
-
-III.- Modifiquen sus características, siempre que éstas tengan repercusión en la calidad sanitaria de los mismos.
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 196.
 
-Para los efectos de esta Ley se consideran bebidas alcohólicas aquellas que contengan alcohol etílico en una proporción del 2 al 55 por ciento en volumen. Cualquiera otra que contenga una proporción mayor no podrá comercializarse como bebida.
+No será necesario que las obras o actos que acrediten su merecimiento, se hayan realizado dentro del periodo de convocatoria, a menos, de que así lo establezca la misma, en particular sobre alguna de las ramas.
+
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
 
 ## TÍTULO DÉCIMO SEGUNDO
 
@@ -1807,31 +2593,49 @@ PUBLICIDAD.
 
 ###### Artículo 197.
 
-Con el fin de proteger la salud publica, es competencia de los Servicios de Salud de Morelos la autorización de la publicidad que se refiere a la salud, al tratamiento de las enfermedades, a la rehabilitación de los discapacitados, al ejercicio de las disciplinas para la salud y a los productos y servicios a que se refiere esta Ley. Esta facultad se ejercerá sin perjuicio de la atribuciones que en esta materia se confiera a otras dependencias del Ejecutivo Federal y Estatal.
+El reconocimiento al Mérito de la Ciencia y de las Artes se otorgará anualmente en sesión solemne que deberá celebrarse dentro de la primera semana del mes de diciembre del año que corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+La medalla al Mérito en Ejecución Musical se otorgará anualmente en sesión solemne que tendrá verificativo el 22 de noviembre del año que corresponda, en celebración del “Día del Músico”.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+El reconocimiento al Artista Intérprete se otorgará anualmente en sesión solemne que tendrá verificativo el 5 de diciembre del año que corresponda, en celebración del “Día del Artista Intérprete”.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 198.
 
-Será objeto de autorización por parte de los Servicios de Salud de Morelos, la publicidad que se realice sobre la existencia, calidad y características, así como para promover el uso, venta o consumo en forma directa o indirecta de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos; así como de la prestación de servicios de salud y de los servicios y procedimientos de embellecimiento y los demás que determine la Ley General de Salud y demás disposiciones aplicables.
+La Medalla al Mérito Policial, se concederá a los elementos de los Cuerpos de Seguridad Pública y de Policía de Investigación en activo que se distingan por su heroísmo, valor, dedicación, constancia, lealtad institucional, honestidad y/o eficiencia en el desempeño de su labor en beneficio de la comunidad, o en aquellos elementos que en ejercicio de sus funciones fallezcan en cumplimiento de su deber.
+
+Sólo podrá otorgarse a elementos de las corporaciones policiales federales, de la Policía Preventiva del Distrito Federal, con todas las unidades y agrupamientos, de la Policía Complementaria, que está integrada por la Policía Auxiliar y la Bancaria e Industrial, además de la Policía de Investigación, dependiente de la Procuraduría General de Justicia del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 199.
 
-La publicidad a que se refiere esta Ley se sujetará a los siguientes requisitos:
+El Reconocimiento se otorgará en los casos siguientes:
 
-I.- La información contenida en el mensaje sobre calidad, origen, pureza, conservación, propiedades nutritivas y beneficios de empleo deberá ser comprobable;
+I.- Por el salvamento de alguna persona, aún con riesgo de su vida;
 
-II.- El mensaje deberá tener contenido orientador y educativo;
+II.- Por la prevención de un grave accidente, aún con riesgo de su vida;
 
-III.- Los elementos que compongan el mensaje, en su caso, deberán corresponder a las características de la autorización sanitaria respectiva;
+III.- Por impedir la destrucción o pérdida de bienes importantes del Estado o de la Nación;
 
-IV.- El mensaje no deberá inducir a conductas, prácticas o hábitos nocivos para la salud física o mental que impliquen riesgos o atenten contra la seguridad o integridad física o dignidad de las personas;
+IV.- Por la persecución y captura de delincuentes, con riesgo de su vida; y
 
-V.- El mensaje no deberá desvirtuar ni contravenir los principios, disposiciones y ordenamientos que en materia de prevención, tratamiento de enfermedades o rehabilitación, establezca la secretaria de Salud del Gobierno Federal, y
+V.- Por la diligencia y cumplimiento demostrados en las comisiones conferidas.
 
-VI.- El mensaje publicitario deberá estar elaborado conforme a las disposiciones legales aplicables.
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 200.
 
-El ejercicio de las atribuciones en publicidad se circunscribirá a los acuerdos de descentralización y coordinación establecidos entre el Ejecutivo Federal y Estatal, apegados a las normas y procedimientos reglamentarios en la materia y a lo que marque esta Ley y demás disposiciones aplicables.
+Corresponderá a la Comisión de Seguridad Pública de la Asamblea Legislativa convocar y efectuar el proceso de la elección de los candidatos a recibir el reconocimiento y ponerlo a la consideración del Pleno de la Asamblea Legislativa para su aprobación.
+
+La Comisión de Seguridad Pública presentará ante el Pleno de la Asamblea Legislativa el dictamen correspondiente, una vez que éste sea aprobado por consenso al interior de la propia Comisión.
+
+> <small>(REFORMADO, G.O. 4 DE DICIEMBRE DE 2009)</small>
 
 ## TÍTULO DÉCIMO TERCERO
 
@@ -1841,15 +2645,25 @@ CONTROL SANITARIO DEL PROCESO DE INSUMOS PARA LA SALUD.
 
 ###### Artículo 201.
 
-Para los efectos de esta Ley se considera insumos para la salud los medicamentos, substancias psicotrópicas, estupefacientes y las materias primas y aditivos que intervengan para su elaboración; así como los equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnostico, insumos de uso odontológicos, materiales quirúrgicos, de curación y productos higiénicos.
+El reconocimiento se podrá otorgar hasta un máximo de seis elementos de los Cuerpos de Seguridad Pública y seis de la Policía de Investigación, o bien aumentar el número de galardonados, a consideración de la Comisión de Seguridad Pública, del cual se respetará que el 50% deba ser de un mismo sexo.
+
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 202.
 
-No podrán venderse medicamentos u otros insumos para la salud en puestos semifijos, módulos móviles o ambulantes.
+La Comisión de Seguridad Pública deberá formular la convocatoria correspondiente en la primera quincena del mes de octubre del año que corresponda, publicándose en por lo menos dos diarios de circulación nacional, con sujeción a las presentes bases.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 203.
 
-Los productos y servicios a que se refiere este Título deben cumplir con los requisitos sanitarios establecidos en la Ley General de Salud, esta Ley y demás disposiciones reglamentarias aplicables.
+Las propuestas y la documentación correspondiente de los candidatos para ser merecedores a la Medalla al Mérito Policial, serán presentadas por la comunidad, así como por los miembros en activo de los diversos cuerpos de seguridad pública, del dieciséis de octubre al quince de noviembre del año que corresponda, ante la Comisión de Seguridad Pública.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Además de los requisitos señalados en el artículo 180 se deberá tomar en cuenta a los elementos que se hayan distinguido por su asistencia, puntualidad, buena conducta, antigüedad, disposición y eficacia en el desempeño de sus funciones.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ### CAPÍTULO II
 
@@ -1857,33 +2671,23 @@ ESTABLECIMIENTOS DESTINADOS AL PROCESO DE MEDICAMENTOS.
 
 ###### Artículo 204.
 
-Corresponde al Gobierno del Estado por conducto de los Servicios de Salud de Morelos el control sanitario de los establecimientos que se destinen al proceso de los productos a que se refiere este Título. Para los efectos de esta Ley se clasifican en:
+La Sesión Solemne para entregar la Medalla al Mérito Policial se realizará en la fecha en que se conmemore el "Día del Policía" del año que corresponda.
 
-I.- Almacén de depósito y distribución de medicamentos herbolarios;
-
-II.- Almacén de depósito y distribución de medicamentos homeopáticos;
-
-III.- Almacén de depósito y distribución de medicamentos o productos biológicos para uso humano;
-
-IV.- Almacén de acondicionamiento, depósito y distribución de: instrumental y equipo médico, agente de diagnostico, gases medicinales, material de curación y prótesis, productos higiénicos y material, instrumental y equipo médico odontológico;
-
-V.- Droguería;
-
-VI.- Farmacia;
-
-VII.- Botica; y
-
-VIII.- Los demás establecimientos que determinen los acuerdos de descentralización.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 205.
 
-Los establecimientos citados en el artículo anterior cuando así proceda deberán contar con un responsable de la identidad, pureza y seguridad de los productos.
+La Medalla al Mérito Deportivo constituye el reconocimiento que a nombre de la Asamblea Legislativa otorga a todos aquellos deportistas mexicanos que en forma individual o colectiva, que por su dedicación y esfuerzo, hayan obtenido triunfos trascendentes, en las diferentes actividades deportivas de carácter regional, nacional o mundial.
 
-Los responsables deberán reunir los requisitos establecidos en las disposiciones aplicables y serán designados por los titulares de las licencias o propietarios de los establecimientos, quienes darán el aviso correspondiente a los Servicios de Salud de Morelos.
+Las actividades deportivas serán tomadas en cuenta de preferencia en eventos de alto nivel competitivo en cada una de sus respectivas disciplinas.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 206.
 
-Los establecimientos, productos y servicios a que se refiere este Título deberán cumplir con los requisitos sanitarios establecidos en la Ley General de Salud, esta Ley y demás disposiciones reglamentarias aplicables.
+Sólo serán consideradas para efecto del presente reconocimiento, las disciplinas oficialmente reconocidas por la Confederación Deportiva Mexicana.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ## TÍTULO DÉCIMO CUARTO. CONTROL SANITARIO DE LA DISPOSICIÓN DE ORGANOS, TEJIDOS, CÉLULAS Y CADÁVERES DE SERES HUMANOS
 
@@ -1891,19 +2695,31 @@ Los establecimientos, productos y servicios a que se refiere este Título deber�
 
 ###### Artículo 207.
 
-Los Servicios de Salud de Morelos ejercerán el control sanitario de la disposición de órganos, tejidos y sus componentes, células y cadáveres de seres humanos en los términos de la Ley General de Salud, esta Ley y demás disposiciones legales aplicables; de acuerdo a su ámbito de competencia y conforme a los convenios de descentralización que se efectúen con la Secretaría de Salud.
+La Comisión del Deporte de la Asamblea Legislativa del Distrito Federal podrá solicitar a las asociaciones deportivas del Distrito Federal, los calendarios de actividades que habrán de realizarse durante el año, a efecto de llevar a cabo un seguimiento de la labor desempeñada por los deportistas.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 208.
 
-Los Servicios de Salud de Morelos promoverán y propiciaran en la población en general un cambio de conducta y actitudes relativas a la disposición de la sangre, componentes sanguíneos y células progenitoras hematopoyéticas, así como de la obtención de órganos o tejidos de seres humanos con fines terapéuticos, tanto en disponentes originarios y secundarios como de donadores de sangre, componentes sanguíneos y células progenitoras.
+La Comisión del Deporte de la Asamblea Legislativa será el órgano competente, encargado de convocar y efectuar el proceso de la elección de los candidatos a recibir el reconocimiento y ponerlo a la consideración del Pleno de la Asamblea Legislativa para su aprobación.
+
+El dictamen se presentará ante el pleno de la Asamblea Legislativa para su aprobación una vez que el mismo sea aprobado por consenso al interior de la Comisión del Deporte.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 209.
 
-Los Servicios de Salud de Morelos promoverán y apoyarán la constitución del Comité Estatal para la Disposición de Organos, Tejidos, Células y Cadáveres de Seres Humanos en coordinación con los diferentes sectores que integran el Sistema Estatal de salud.
+La Comisión del Deporte será la encargada de realizar la convocatoria correspondiente y deberá ser emitida, a más tardar, en la primera quincena del mes de noviembre del año que corresponda, publicándose en por lo menos dos diarios de circulación nacional, con sujeción a las presentes bases.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 210.
 
-Se considerará disposición ilícita de órganos, tejidos, células y cadáveres de seres humanos, a aquella que se realice en contravención de esta Ley y demás disposiciones aplicables.
+Expedida la convocatoria, se recibirán las propuestas y sus anexos hasta el día quince del mes de enero siguiente ante la Comisión del Deporte.
+
+Las propuestas de los deportistas presentados como candidatos, deberán de contener las actividades deportivas en que participó en el tiempo comprendido del 31 de diciembre al año anterior, al 30 de diciembre del año en que se realiza la convocatoria correspondiente.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ## TÍTULO DÉCIMO QUINTO. SALUBRIDAD LOCAL
 
@@ -1911,41 +2727,63 @@ Se considerará disposición ilícita de órganos, tejidos, células y cadávere
 
 ###### Artículo 211.
 
-Compete al Gobierno del Estado y a los H. Ayuntamientos, en el ámbito de sus respectivas competencias, en los términos de esta Ley, de las demás disposiciones legales aplicables y los convenios que celebren en la materia, el control sanitario de las materias a que se refiere el Artículo 3º de esta Ley.
+Además de los requisitos señalados en el artículo 180 se deberán tomar en cuenta los siguientes requisitos:
+
+I.- Documentación para tomar en cuenta de los eventos en que participó, lugar que ocupó, número de participantes e importancia de los mismos; y
+
+II.- Características personales, aptitudes naturales y nivel deportivo.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 212.
 
-Para efectos de este Título, se entiende por control sanitario el conjunto de acciones de orientación educación, muestreo, verificación y, en su caso, aplicación de medidas de seguridad y sanciones, que se ejercen por los Servicios de Salud de Morelos y los H. Ayuntamientos, con la participación de los productores, comercializadores y consumidores, con base en lo que establece la legislación sanitaria vigente. El ejercicio del control sanitario en materia de salubridad local será aplicable a los establecimientos y servicios a que se refiere el Artículo 3º apartado "B" y "C" de esta Ley.
+La Sesión Solemne para la entrega del Reconocimiento al Mérito Deportivo se celebrará dentro de la segunda quincena del mes de marzo del año que corresponda.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 213.
 
-Los Servicios de Salud de Morelos emitirán las normas, reglamentos y disposiciones legales aplicables a que quedará sujeto el control sanitario de las materias de salubridad local.
+Cuando una persona o institución decida formular una candidatura, la misma se abstendrá de formular otra u otras con relación a la convocatoria del año que corresponda.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 214.
 
-Se entenderá por norma, el conjunto de reglas científicas o tecnológicas de carácter obligatorio, emitidas por los Servicios de Salud de Morelos, que establezcan los requisitos que deben satisfacerse en el desarrollo de actividades en materia de salubridad local, con el objeto de uniformar principios, criterios, políticas y estrategias.
+Solamente por causa de fuerza mayor, no imputable al interesado, previa justificación a entera satisfacción de la Comisión dictaminadora, podrán recibirse propuestas fuera del término señalado en la convocatoria respectiva, pero de ninguna manera una vez aprobadas por la Comisión dictaminadora.
 
-Por reglamento se entenderá al ordenamiento de carácter general que expidan las autoridades administrativas, respecto de las disposiciones de esta Ley.
-
-Por disposiciones legales se entenderá las que emita la autoridad administrativa con el fin de dar cumplimiento a las ordenamientos contenidos en esta Ley y sus reglamentarias.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 215.
 
-Los establecimientos que señala el Artículo 3º apartado "B" y "C" de esta Ley no requieren de autorización sanitaria, pero quedan sujetos al control sanitario, así como al cumplimiento de los requisitos establecidos en las disposiciones reglamentarias y normas que en materia de salubridad local se expidan por los Servicios de Salud de Morelos.
+Se tomará en cuenta de preferencia que los candidatos al reconocimiento respectivo sean habitantes del Distrito Federal.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 216.
 
-Los establecimientos a que se refiere el presente Título, para su funcionamiento, deberán presentar dentro de los 10 días posteriores al inicio de operaciones, el aviso de funcionamiento por escrito a los Servicios de Salud de Morelos o los H. Ayuntamientos, según sus respectivos ámbitos de competencia, de acuerdo a los lineamientos establecidos por la autoridad sanitaria Estatal.
+Si se excusare el candidato propuesto por la Comisión dictaminadora para recibir la medalla, o bien los familiares de éstos, en el caso del reconocimiento póstumo al ejecutor musical o al músico ejecutante, la Comisión elegirá y dictaminará de entre los demás candidatos propuestos, en un lapso no mayor de cinco días hábiles. El nuevo dictamen deberá ser sometido a la aprobación del Pleno de la Asamblea Legislativa.
 
-Los Servicios de Salud en Morelos o los H. Ayuntamientos, a petición de parte, prestarán el servicio de visita previa para la orientación sanitaria que se requiera.
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+En caso de declarar desierta el otorgamiento de la medalla, la Comisión dictaminadora deberá presentar el dictamen correspondiente ante el Pleno de la Asamblea Legislativa.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 217.
 
-Todo cambio de propietario de un establecimiento, de razón social o denominación, de domicilio, cesión de derechos de productos o en su caso la suspensión de actividades, trabajos o servicios, deberá ser comunicado a la autoridad sanitaria competente, en un plazo no mayor de treinta días hábiles, a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las disposiciones que al efecto se emitan.
+La decisión que se adopte será notificada al interesado, o bien a los familiares de éste, en el caso del reconocimiento póstumo al músico ejecutante o al artista intérprete, y dada a conocer oportunamente a través de los medios de comunicación.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+El Decreto por el que se otorga la Medalla correspondiente será publicado en la Gaceta Oficial del Distrito Federal, así como en, al menos, dos diarios de circulación nacional.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 218.
 
-Los Servicios de Salud de Morelos publicarán en el Periódico Oficial "Tierra y Libertad", órgano de Gobierno del Estado, la reglamentación en materia de salubridad local que se expida.
+La resolución que se tome y que formará parte del dictamen, tendrá efectos definitivos y por tanto será inatacable.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ### CAPÍTULO II
 
@@ -1953,33 +2791,129 @@ MERCADOS Y CENTROS DE ABASTO.
 
 ###### Artículo 219.
 
-Para los efectos de esta Ley se entiende por:
+La entrega de los reconocimientos respectivos deberán ser anuales y entregarse en Sesión Solemne de la Asamblea legislativa.
 
-I.- Mercados: es el sitio público destinado a la compra y venta de productos en general, preferentemente agrícolas y de primera necesidad, en forma permanente o en días determinados; y
-
-II.- Centros de abasto: el sitio destinado al servicio público en maniobras de carga y descarga, conservación, en frío y demás operaciones relativas a la compraventa, al mayoreo y medio mayoreo, de productos en general.
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 220.
 
-Los Servicios de Salud de Morelos y los H. Ayuntamientos, en el ámbito de sus respectivas competencias, verificarán que los mercados y centros de abasto, sean provisionales o permanentes, cumplan con los requisitos que establezca esta Ley y las disposiciones reglamentarias y las normas que se emitan para tal efecto.
+La Sesión Solemne deberá celebrarse con el único objeto de entregar el reconocimiento de la medalla y el diploma respectivo al candidato electo, o bien los familiares de éste, en el caso del reconocimiento póstumo al músico ejecutante o al Artista Intérprete.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 221.
 
-Los vendedores, locatarios y personas, cuya actividad este vinculada con los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales y en el ejercicio de sus actividades se sujetarán a lo que dispongan esta Ley, los reglamentos respectivos, y otras disposiciones legales aplicables.
+El Pleno de la Asamblea Legislativa establecerá las reglas para la Sesión Solemne, previa propuesta de la Comisión de Normatividad Legislativa, Estudios y Prácticas Parlamentarias.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ### CAPÍTULO III. AGUA POTABLE Y ALCANTARILLADO
 
 ###### Artículo 222.
 
-Los Gobiernos Estatal y Municipal, en sus respectivos ámbitos de competencia se coordinarán para procurar que las poblaciones tengan servicio regular de aprovisionamiento y distribución de agua potable.
+En la Sesión Solemne que deberá celebrarse, se invitarán como testigos de honor al Jefe de Gobierno del Distrito Federal y al Presidente del Tribunal Superior de Justicia del Distrito Federal, quienes ocuparán el lugar que le corresponde dentro de la Mesa Directiva de la Asamblea Legislativa.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 223.
 
-Los proyectos de sistemas de abastecimiento de agua potable deberán ser sometidos a la consideración de la autoridad sanitaria municipal, o estatal en su caso, para la aprobación del sistema adoptado y el análisis minucioso de las aguas.
+La inscripción en el Muro de Honor de la Asamblea Legislativa se hará conforme a lo siguiente:
+
+I.- Que la persona física haya aportado evidentes beneficios en diversas áreas del conocimiento humano o en acciones de trascendencia social preferentemente, para el Distrito Federal, o en su caso para la República;
+
+II.- Que se hayan registrado acontecimientos que hayan dado pauta para la transformación política y social, preferentemente del Distrito Federal o en su caso, del país;
+
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
+
+III. La solicitud de inscripción en letras de oro deberá suscribirse por al menos, el 33% de los diputados que integran la Legislatura. Dicha solicitud deberá justificar debidamente la inscripción solicitada, debiendo presentarse como una iniciativa con proyecto de Decreto, y
+
+IV.- La inscripción deberá ser aprobada por dos terceras partes de los integrantes de la legislatura.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 224.
 
-La autoridad municipal, y en su caso los Servicios de Salud de Morelos, realizarán periódicamente análisis de la potabilidad del agua conforme a esta Ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
+No se denominará, ni se redenominará, a los salones de la Asamblea Legislativa, sin el acuerdo de las dos terceras partes de los Diputados miembros de la Asamblea.
+
+## ARTÍCULOS TRANSITORIOS
+
+PRIMERO.- El presente Reglamento entrará en vigor al día 1ero. de mayo de 2003.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- Se abroga el Reglamento para el Gobierno Interior de la Asamblea Legislativa del Distrito Federal, publicado el 13 de septiembre de 1999 en la Gaceta Oficial del Distrito Federal.
+
+CUARTO.- La Unidad de Estudios y Finanzas Públicas se instalará según las disponibilidades presupuestales del 2003, de conformidad con el acuerdo que al respecto tome el Pleno de la Asamblea, respecto de la propuesta que le formule la Comisión de Gobierno.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE OCTUBRE DE 2005)</small>
+
+QUINTO.- Por única ocasión la Convocatoria que refiere el artículo 209 del presente Reglamento se publicará dentro de los primeros quince días del mes de octubre de 2005, se recibirán las propuestas y sus anexos hasta el 15 de noviembre del mismo año, y la sesión solemne que dispone el artículo 212 de este Reglamento, se llevará a cabo dentro de los primeros días del mes de diciembre del año 2005.
+
+SEXTO.- La disposición prevista por el artículo 158 de este reglamento, deberá entrar en vigor durante el ejercicio de la III Legislatura de la Asamblea Legislativa del Distrito Federal.
+
+Recinto Legislativo a 29 de abril de 2003
+
+PRESIDENTE, DIP. TOMÁS LÓPEZ GARCÍA.- SECRETARIO, DIP. ROBERTO E. LÓPEZ GRANADOS.- (Firmas).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 23 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión, publíquese también en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente a su aprobación por el Pleno de la Asamblea.
+
+G.O. 30 DE DICIEMBRE DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal únicamente para su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 13 DE ENERO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 30 DE MARZO DE 2005.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Envíese al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+TERCERO.- Se abroga el Reglamento para la Entrega de la Medalla al Mérito Policial de los Elementos de la Secretaría de Seguridad Pública del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 15 de noviembre de 2004.
+
+CUARTO.- Se abroga El Reglamento de la Medalla al Mérito Ciudadano de la Asamblea de Representantes del Distrito Federal, publicado en el Diario Oficial de la Federación el 23 de enero de 1991, a partir del 1º de mayo del 2005.
+
+Por lo que hace a la entrega de la Medalla al Mérito Ciudadano 2005, se continuará conforme al procedimiento iniciado con base en el Reglamento de la Medalla al Mérito Ciudadano de la Asamblea de Representantes del Distrito Federal.
+
+QUINTO.- Por única ocasión la convocatoria que refiere el artículo 209 del presente Reglamento, se publicará dentro de los primeros quince días del mes de abril de 2005 y se recibirán las propuestas y sus anexos como lo establece el artículo 210 de este ordenamiento, hasta el 31 de mayo del mismo año.
+
+SEXTO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 19 DE OCTUBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 29 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 9 DE JULIO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación ante el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Una vez aprobado el presente dictamen, la Comisión de Gobierno a la brevedad acordará resolver la disolución de los Grupos Parlamentarios que no cumplan con los requisitos establecidos en los artículos 85 de la Ley Orgánica y 10 del Reglamento para el Gobierno Interior, ambos de la Asamblea Legislativa del Distrito Federal, conforme al acuerdo y dadas las condiciones políticas que para el efecto determine dicha comisión, asimismo, acordará la nueva integración de las Presidencias de Comisiones o Comités que de ella deriven.
+
+TERCERO.- Las disposiciones contenidas en la fracción IV y penúltimo párrafo del artículo 61 de la Ley Orgánica de la Asamblea Legislativa del Distrito Federal, antepenúltimo y penúltimos párrafos del artículo 28 y la fracción VIII del artículo 73 del Reglamento para el Gobierno Interior de la Asamblea Legislativa del Distrito Federal, entrarán en vigor una vez que esté conformado el Instituto de Investigaciones Parlamentarias.
+
+CUARTO.- La Asamblea Legislativa del Distrito Federal, deberá expedir la Ley del Servicio Parlamentario de Carrera dentro de los 120 días naturales siguientes a la aprobación del presente decreto, por el Pleno.
+
+QUINTO.- Túrnese al Jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión, publíquese también en el Diario Oficial de la Federación.
+
+G.O. 12 DE SEPTIEMBRE DE 2008.
 
 ###### Artículo 225.
 
@@ -3130,3 +4064,75 @@ SECRETARIO GENERAL DE GOBIERNO
 JORGE ARTURO GARCÍA RUBÍ
 
 RÚBRICAS
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+###### ARTÍCULO TERCERO.
+
+Una vez instalada la Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales, sus integrantes contarán con 60 días naturales para la aprobación de los Lineamientos para la vigilancia y evaluación de las políticas y programas sociales.
+
+Dichos lineamientos tomaran en cuenta lo siguiente:
+
+La Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales contará con los siguientes objetivos:
+
+I. Colaborar con el Gobierno del Distrito Federal en la implementación y evaluación de los planes, programas, metas y acciones locales en materia de políticas y programas sociales;
+
+II. Vigilar la legalidad en cuanto al diseño e implementación de los planes, programas, metas y acciones locales en materia de políticas y programas sociales;
+
+III. Llevar a cabo la evaluación y seguimiento de los planes, programas, metas y acciones que en materia de políticas y programas sociales se lleve a cabo en el Distrito Federal, y
+
+IV. Proponer las acciones correctivas que se consideren necesarias en la implementación de los planes, programas, metas y acciones en materia de políticas y programas sociales.
+
+La Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales asegurará, por sí o a través de instituciones de educación superior e investigación científica u organizaciones de la sociedad civil, la vigilancia permanente y la revisión periódica, técnica y profesional del cumplimiento de objetivos, metas y acciones de las políticas de desarrollo social implementadas en el Distrito Federal.
+
+La evaluación que ordene o practique la Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales se centrará en la consistencia y el resultado de los programas de desarrollo sociales. Para tales efectos, generará indicadores de resultados, gestión y servicios que garanticen una medición técnica de la cobertura, operación, viabilidad, calidad e impacto social.
+
+###### ARTÍCULO CUARTO.
+
+Todos los asuntos que se encuentren en archivo pendientes de desahogar por la que fue la Comisión Especial que investiga la utilización de Programas Sociales o Recursos Públicos con fines Político Electorales, serán turnados a la Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales.
+
+###### ARTÍCULO QUINTO.
+
+En el caso de las reformas relativas a la conformación del Programa Operativo Anual, operarán a partir del ejercicio fiscal 2009.
+
+G.O. 31 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 22 DE OCTUBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE DICIEMBRE DE 2009.
+
+Primero. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 19 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 18 DE ABRIL DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor a partir de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal y para su mayor publicidad en el Diario Oficial de la Federación.
