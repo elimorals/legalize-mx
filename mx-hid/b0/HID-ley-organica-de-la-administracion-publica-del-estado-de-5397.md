@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-del-estado-de-5397"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-06-13"
-last_updated: "2003-08-25"
+last_updated: "2004-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 13 de junio de 1994.
 
@@ -249,6 +249,10 @@ XV.- Tramitar los recursos administrativos que competa resolver al Ejecutivo, cu
 
 XVI.- Dar trámite a las solicitudes que, para el otorgamiento de concesiones, permisos y licencias gubernamentales, presenten los particulares ante el Gobierno del Estado y que no estén reservadas a otras dependencias, así como lo relativo a la terminación, suspensión o revocación de las ya otorgadas;
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+
+Mancomunadamente con el Secretario de Finanzas y Administración, Otorgar, expedir, autorizar, revocar, cancelar, normar y regular concesiones y permisos en materia de servicio de transporte y de los servicios auxiliares y conexos de éste, cuando así lo acuerde el titular del Ejecutivo Estatal.
+
 XVII.- Realizar los actos jurídicos necesarios para reivindicar la propiedad del Estado;
 
 XVIII.- Ejecutar, por acuerdo del Gobernador y de conformidad con la legislación vigente, las expropiaciones, ocupaciones temporales y limitaciones de dominio, en los casos de utilidad pública;
@@ -376,6 +380,10 @@ XXXV.- Poseer, administrar y conservar los bienes que conforman el patrimonio de
 XXXVI.- Emitir opinión respecto a la procedencia del otorgamiento de concesiones para proyectar, construir, reconstruir, ampliar, modernizar, operar, administrar, explotar, rehabilitar y conservar obras públicas y servicios relacionadas con las mismas, cuando éstas sean financiadas por particulares; mediante dictamen de viabilidad relativo a la inversión que el concesionario aplicará, considerando que la tasa fija propuesta anual, en su caso, sea razonable y se encuentre dentro de los parámetros del mercado utilizados para proyectos de infraestructura en función del plazo; así como el tiempo de recuperación de dicha inversión y los montos estimados para ello;
 
 Analizar que se cumpla con los esquemas financieros proyectados para la obra materia de la concesión o los servicios que se relacionen, lo cual podrá hacer por sí o por conducto del Organismo Descentralizado correspondiente; requiriendo de aquél la información y documentación que se considere necesaria para tal fin.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+
+Mancomunadamente con el Secretario de Gobierno, otorgar, expedir, autorizar, revocar, cancelar, normar y regular concesiones y permisos en materia de servicio de transporte y de los servicios auxiliares y conexos de éste, cuando así lo acuerde el titular del Ejecutivo Estatal.
 
 XXXVII.- Ejercer actos de dominio sobre el patrimonio del Estado, previo acuerdo del Gobernador y con su representación; y ejercer el derecho de reversión sobre los concesionados con la intervención de las dependencias competentes y de acuerdo a la normatividad correspondiente;
 
@@ -952,3 +960,9 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 25 DE AGOSTO DE 2003.
 
 UNICO.- Este Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2004.
+
+Articulo Primero.- El Presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
