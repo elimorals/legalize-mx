@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-publica-para-el-estado-de-aguascalientes-22010
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-16"
-last_updated: "2001-07-16"
+last_updated: "2002-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de julio de 2001.
 
@@ -81,9 +81,13 @@ Estatales:
 
 2.- El Secretario General de Gobierno;
 
-3.- El Procurador General de Justicia; y
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-4.- El Director General de Seguridad Pública y Vialidad.
+3.- El Subsecretario de Seguridad Pública;
+
+4.- El Procurador General de Justicia; y
+
+5.- El Director General de Seguridad Pública y Vialidad.
 
 Municipales:
 
@@ -93,7 +97,9 @@ Municipales:
 
 3.- El titular de la dependencia que de acuerdo con la normatividad municipal realice las funciones de Policía Preventiva y Tránsito.
 
-El Secretario General de Gobierno, el Procurador General de Justicia, el Director General de Seguridad Pública y Vialidad y el titular de la dependencia que de acuerdo con la normatividad municipal realice las funciones de policía preventiva y tránsito, serán nombrados y removidos libremente por su superior jerárquico.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+El Secretario General de Gobierno, el Procurador General de Justicia, el Subsecretario de Seguridad Pública, el Director General de Seguridad Pública y Vialidad y el titular de la dependencia que de acuerdo con la normatividad municipal realice las funciones de policía preventiva y tránsito, serán nombrados y removidos libremente por su superior jerárquico.
 
 ###### ARTICULO 5o.
 
@@ -107,25 +113,29 @@ I.- Secretaría: a la Secretaría General de Gobierno del Estado de Aguascalient
 
 II.- Procuraduría: a la Procuraduría General de Justicia del Estado de Aguascalientes;
 
-III.- Dirección General: a la Dirección General de Seguridad Pública y Vialidad del Estado;
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-IV.- Ayuntamientos: a los Ayuntamientos del Estado de Aguascalientes;
+III.- Subsecretaría: a la Subsecretaría de Seguridad Pública de la Secretaría General de Gobierno;
 
-V.- Dirección: a la dependencia que de acuerdo con la normatividad municipal realice las funciones de Policía Preventiva y Tránsito;
+IV.- Dirección General: a la Dirección General de Seguridad Pública y Vialidad del Estado;
 
-VI.- Corporaciones de Seguridad: a las Corporaciones de Seguridad Pública a que se refiere el Artículo 7o. de la presente Ley;
+V.- Ayuntamientos: a los Ayuntamientos del Estado de Aguascalientes;
 
-VII.- Corporaciones Auxiliares: a las Corporaciones a que se refiere el Artículo 8o. de la presente Ley;
+VI.- Dirección: a la dependencia que de acuerdo con la normatividad municipal realice las funciones de Policía Preventiva y Tránsito;
 
-VIII.- Instituto: al Instituto Estatal de Seguridad Pública de Aguascalientes;
+VII.- Corporaciones de Seguridad: a las Corporaciones de Seguridad Pública a que se refiere el artículo 7° de la presente Ley;
 
-IX.- Personal de Seguridad Pública: al que se refiere el Artículo 11 de esta Ley;
+VIII.- Corporaciones Auxiliares: a las Corporaciones a que se refiere el artículo 8° de la presente Ley;
 
-X.- Consejo: al Consejo Estatal de Seguridad Pública de Aguascalientes;
+IX.- Instituto: al Instituto Estatal de Seguridad Pública de Aguascalientes;
 
-XI.- Consejos Municipales: a los Consejos Municipales de Seguridad Pública; y
+X.- Personal de Seguridad Pública: al que se refiere el artículo 11 de esta Ley;
 
-XII.- C-4: al Centro Estatal de Telecomunicaciones.
+XI.- Consejo: al Consejo Estatal de Seguridad Pública de Aguascalientes;
+
+XII.- Consejos Municipales: a los Consejos Municipales de Seguridad Pública; y
+
+XIII.- C-4: al Centro Estatal de Telecomunicaciones.
 
 ###### ARTICULO 7o.
 
@@ -175,7 +185,9 @@ No formarán parte de las Corporaciones de Seguridad quienes desempeñen funcion
 
 El personal de las Corporaciones de Seguridad tiene la obligación de portar los uniformes, insignias, divisas, armas y equipo reglamentarios que les corresponda en los actos y situaciones que requiera el servicio.
 
-La Secretaría, la Procuraduría, la Dirección General y los Ayuntamientos según sea el caso, establecerán las normas a que se sujetará el personal de sus Corporaciones de Seguridad en el uso de uniformes, insignias, divisas, armas y equipo reglamentarios.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+La Secretaría, la Procuraduría, la Subsecretaría, la Dirección General y los Ayuntamientos según sea el caso, establecerán las normas a que se sujetará el personal de sus Corporaciones de Seguridad en el uso de uniformes, insignias, divisas, armas y equipo reglamentarios.
 
 Los uniformes de cada Corporación deberán ostentar de manera visible la o las leyendas que las diferencie e identifique plenamente.
 
@@ -265,15 +277,19 @@ II.- El Secretario General de Gobierno del Estado;
 
 III.- El Procurador General de Justicia del Estado;
 
-IV.- El Director General de Seguridad Pública y Vialidad del Estado;
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-V.- El Director General de Prevención y Readaptación Social del Estado;
+IV.- El Subsecretario de Seguridad Pública del Estado;
 
-VI.- El Director General de la Policía Ministerial del Estado;
+V.- El Director General de Seguridad Pública y Vialidad del Estado;
 
-VII.- El Director General del Instituto Estatal de Seguridad Pública;
+VI.- El Director General de Prevención y Readaptación Social del Estado;
 
-VIII.- Los representantes en la Entidad de las siguientes Dependencias Federales:
+VII.- El Director General de la Policía Ministerial del Estado;
+
+VIII.- El Director General del Instituto Estatal de Seguridad Pública;
+
+IX.- Los representantes en la Entidad de las siguientes Dependencias Federales:
 
 a) Secretaría de Gobernación;
 
@@ -283,11 +299,11 @@ c) Procuraduría General de la República;
 
 d) Secretaría de Seguridad Pública;
 
-IX.- Los Presidentes Municipales de la Entidad;
+X.- Los Presidentes Municipales de la Entidad;
 
-X.- El Secretario Ejecutivo; y
+XI.- El Secretario Ejecutivo; y
 
-XI.- Quien, por razón de sus atribuciones, esté vinculado con los fines de la Seguridad Pública, a propuesta del Presidente del Consejo.
+XII.- Quien, por razón de sus atribuciones, esté vinculado con los fines de la Seguridad Pública, a propuesta del Presidente del Consejo.
 
 El Magistrado Presidente del Supremo Tribunal de Justicia del Estado y el Presidente de la Comisión correspondiente del Congreso del Estado, podrán asistir previa invitación del Consejo a sus sesiones, con derecho a voz.
 
@@ -343,27 +359,15 @@ Cuando para la aprobación y ejecución de las resoluciones o acuerdos se compre
 
 ### CAPITULO III. De la Secretaría Ejecutiva del Consejo Estatal de Seguridad Pública
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 28.
 
-El Consejo tendrá un Secretario Ejecutivo el cual será designado por el Presidente del Consejo, que participará sólo con voz en las sesiones del mismo.
+El Consejo tendrá un Secretario Ejecutivo que será el Subsecretario de Seguridad Pública de la Secretaría General de Gobierno, quien participará sólo con voz en las sesiones del mismo.
 
 ###### ARTICULO 29.
 
-El titular de la Secretaría Ejecutiva deberá cumplir con los siguientes requisitos:
-
-I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
-
-II.- Tener más de treinta años de edad;
-
-III.- Contar con título de Licenciado en Derecho;
-
-IV.- Ser de reconocida capacidad profesional y probidad;
-
-V.- No tener antecedentes penales;
-
-VI.- Tener experiencia en áreas relacionadas con la Seguridad Pública; y
-
-VII.- Contar con residencia mínima en el Estado de tres años.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2002)
 
 ###### ARTICULO 30.
 
@@ -373,7 +377,9 @@ I.- Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo;
 
 II.- Establecer enlaces de coordinación con los Consejos Municipales;
 
-III.- Supervisar el funcionamiento del Comité Técnico a que se refiere la fracción I del Artículo 31 del presente ordenamiento;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+III.- Coordinar el funcionamiento del Comité Técnico a que se refiere la fracción I del artículo 31 del presente ordenamiento;
 
 IV.- Cumplir con las facultades y obligaciones que le señale el reglamento de la presente Ley;
 
@@ -425,27 +431,33 @@ II.- El Secretario General de Gobierno del Estado;
 
 III.- El Procurador General de Justicia del Estado;
 
-IV.- El Director General de Seguridad Pública y Vialidad del Estado;
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-V.- El Director General de Prevención y Readaptación Social del Estado;
+IV.- El Subsecretario de Seguridad Pública;
 
-VI.- El Director General de Gobernación Estatal;
+V.- El Director General de Seguridad Pública y Vialidad del Estado;
 
-VII.- El Director General del Instituto Estatal de Seguridad Pública;
+VI.- El Director General de Prevención y Readaptación Social del Estado;
 
-VIII.- El Director General de la Policía Ministerial del Estado;
+VII.- El Director General de Gobernación Estatal;
 
-IX.- El titular de la dependencia que de acuerdo con la normatividad municipal realice las funciones de Policía Preventiva y Tránsito en el Municipio Aguascalientes;
+VIII.- El Director General del Instituto Estatal de Seguridad Pública;
 
-X.- El Coordinador del Centro Estatal de Telecomunicaciones C-4;
+IX.- El Director General de la Policía Ministerial del Estado;
 
-XI.- Los Representantes en el Estado de las Dependencias Federales que de conformidad con las leyes tengan atribuciones en materia de Seguridad Pública;
+X.- El titular de la dependencia que de acuerdo con la normatividad municipal realice las funciones de Policía Preventiva y Tránsito en el Municipio Aguascalientes;
 
-XII.- El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, quien hará las funciones de Secretario Técnico; y
+XI.- El Coordinador del Centro Estatal de Telecomunicaciones C-4;
 
-XIII.- Aquellos funcionarios que a juicio del Presidente deban participar.
+XII.- Los Representantes en el Estado de las Dependencias Federales que de conformidad con las leyes tengan atribuciones en materia de Seguridad Pública;
 
-El Magistrado Presidente del Supremo Tribunal de Justicia del Estado asistirá a invitación del Presidente, con derecho a voz.
+XIII.- El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, quien hará las funciones de Secretario Técnico; y
+
+XIV.- Aquellos funcionarios que a juicio del Presidente deban participar.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+El Magistrado Presidente del Supremo Tribunal de Justicia del Estado y el Presidente de la Comisión correspondiente del Congreso del Estado, podrán asistir a invitación del Presidente, con derecho a voz.
 
 ### CAPITULO V. De los Consejos Municipales de Seguridad Pública
 
@@ -565,21 +577,71 @@ En el marco del Programa Estatal de Seguridad Pública, los Ayuntamientos y el t
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 49.
 
-Las funciones de prevención del delito, vialidad y tránsito se regirán por lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, por la Constitución del Estado, la Ley de Vialidad, la Ley Orgánica del Poder Ejecutivo, la Ley Orgánica Municipal, el Código Municipal, los Bandos Municipales, la presente Ley y demás ordenamientos aplicables.
+Las funciones de prevención del delito, vialidad y tránsito se regirán por lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, por la Constitución del Estado, la Ley de Vialidad, la Ley Orgánica de la Administración Pública, la Ley Orgánica Municipal, el Código Municipal, los Bandos Municipales, la presente Ley y demás ordenamientos aplicables.
 
 ###### ARTICULO 50.
 
 La prevención del delito corresponde en forma coordinada al Estado y a los Municipios, cada uno con sus propios recursos en los términos de esta Ley.
 
-### CAPITULO II. De la Dirección General de Seguridad Pública y Vialidad del Estado
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO III. De las Direcciones de Prevención del Delito, Vialidad y Tránsito de los Municipios
+### CAPITULO II. De la Subsecretaría de Seguridad Pública
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 50 A.- La Subsecretaría de Seguridad Pública, adscrita a la Secretaría General de Gobierno del Poder Ejecutivo del Estado, es la autoridad intermedia entre el titular de la Secretaría y las Direcciones Generales, con funciones substantivas y operativas, y por ende el mando superior de éstas, a quien corresponde la organización de la defensa y prevención social contra la delincuencia, así como de la administración de los centros de reeducación social.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 50 B.- Son atribuciones de la Subsecretaría las siguientes:
+
+I.- Acordar con el Secretario General de Gobierno lo relacionado con el cumplimiento de los programas, objetivos y estrategias correspondientes a las unidades administrativas bajo su adscripción;
+
+II.- Formular, conducir, operar y evaluar la política en materia de seguridad pública y vialidad del Estado, a fin de salvaguardar la integridad y derechos de las personas, garantizando la tranquilidad social de sus habitantes;
+
+III.- Ordenar se preste auxilio a las Autoridades Judiciales, Administrativas, al Ministerio Público y a los Municipios, cuando sea requerida y proceda conforme a la Ley;
+
+IV.- Establecer las estrategias operativas para la prevención del delito conforme a las necesidades que generen los índices delictivos;
+
+V.- Coordinar las acciones que en materia de seguridad pública y vialidad el titular del Poder Ejecutivo del Estado convenga con los municipios, las autoridades federales, y las de otras Entidades Federativas, a efecto de cumplir con las disposiciones legales y programas aplicables;
+
+VI.- Participar, en su calidad de Secretaría Ejecutiva en el Consejo y en la Junta de Gobierno del Instituto;
+
+VII.- Autorizar a particulares la prestación de servicios de seguridad privada;
+
+VIII.- Coordinar y supervisar la prestación de servicios de Seguridad Privada en el Estado;
+
+IX.- Ordenar anualmente, la publicación en el Periódico Oficial del Estado la relación de las empresas de Seguridad Privada autorizadas;
+
+X.- Celebrar Convenios de Coordinación con las diferentes Instituciones relacionadas con la Seguridad Pública para el logro de sus objetivos; y
+
+XI.- Las demás que le confieran la presente Ley y otros ordenamientos jurídicos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 50 C.- El titular del Poder Ejecutivo del Estado en los casos que juzgue como de fuerza mayor o alteración grave del orden público en uno o varios Municipios, por sí o por medio de la Subsecretaría, podrá hacerse cargo de las fuerzas de prevención del delito existentes en los Municipios mientras prevalezca la causa que originó el conflicto, o se restablezca el orden y la tranquilidad pública.
+
+Del ejercicio de esta facultad el titular del Ejecutivo informará al Congreso del Estado.
+
+Esta misma facultad podrá ejercerla cuando exista manifiesta imposibilidad de algún Municipio para la prestación de la función de prevención del delito, a solicitud de los Ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 50 D.- Para efectos de los operativos que deban implementarse de manera conjunta entre las distintas Corporaciones de Prevención del Delito, el titular de la Subsecretaría tendrá a su cargo la coordinación en la materia, sin que ello implique subordinación. Asimismo, conocerá de los informes que diariamente deberán de presentarle sobre las novedades acontecidas en cada uno de los Municipios.
+
+Las Corporaciones de Prevención del Delito, con objeto de coordinar sus políticas operativas deberán reunirse por lo menos una vez dentro del mes.
+
+### CAPITULO III. De la Dirección General de Seguridad Pública y Vialidad del Estado
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 51.
 
-La Dirección General de Seguridad Pública y Vialidad es una Dependencia del Poder Ejecutivo del Estado, que tiene como objetivos prevenir la comisión de delitos y la violación a las leyes, reglamentos y demás disposiciones jurídicas en el ámbito estatal, con la coordinación y respeto a las competencias estatales y municipales que establecen la Constitución General de la República y la Constitución Política del Estado.
+La Dirección General de Seguridad Pública y Vialidad es una Dependencia del Poder Ejecutivo del Estado, adscrita a la Subsecretaría de Seguridad Pública de la Secretaría General de Gobierno, que tiene como objetivos prevenir la comisión de delitos y la violación a las leyes, reglamentos y demás disposiciones jurídicas en el ámbito estatal, con la coordinación y respeto a las competencias estatales y municipales que establecen la Constitución General de la República y la Constitución Política del Estado.
 
 La fuerza operativa de la Dirección General tendrá la denominación de Policía Estatal cuya función será la vigilancia y prevención del delito en las carreteras estatales y caminos vecinales, así como coadyuvar con los Municipios en la prestación de los servicios de prevención del delito, vialidad y tránsito en los casos en que los Municipios así lo soliciten.
 
@@ -587,35 +649,55 @@ La fuerza operativa de la Dirección General tendrá la denominación de Policí
 
 Son atribuciones de la Dirección General, sin perjuicio de las determinadas en esta y otras disposiciones legales, las siguientes:
 
-I.- Acordar con el Secretario, lo relacionado con los programas, objetivos, estrategias y acciones tendientes al buen funcionamiento administrativo y operativo;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+I.- Acordar con el Subsecretario de Seguridad Pública de la Secretaría General de Gobierno, lo relacionado con los programas, objetivos, estrategias y acciones tendientes al buen funcionamiento administrativo y operativo;
 
 II.- Vigilar y cuidar el orden público en el territorio del Estado para proteger la integridad, patrimonio y derechos de sus habitantes, en coordinación con las dependencias que de acuerdo con la normatividad municipal realicen las funciones de Policía Preventiva y Tránsito;
 
 III.- A través de la Policía Estatal prevenir el delito y vigilar el tránsito de vehículos en carreteras y caminos vecinales del Estado, quien será la encargada, de conformidad con la Ley de Vialidad, de levantar las boletas de infracción por la violación a las disposiciones de la Ley de Vialidad en el ámbito de su competencia;
 
-IV.- Auxiliar a las Autoridades Judiciales, Administrativas, al Ministerio Público y a los Municipios, cuando sea requerida;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-V.- Establecer las estrategias operativas para la prevención del delito conforme a las necesidades que generen los índices delictivos y sobrevigilar áreas de alto riesgo criminógeno;
+IV.- Auxiliar a las Autoridades Judiciales, Administrativas, al Ministerio Público y a los Municipios en casos urgentes, o en los términos de los convenios de colaboración respectivos;
 
-VI.- Coordinarse con otras Corporaciones de Seguridad Municipales, Estatales y Federales para prestarles auxilio cuando las necesidades del servicio así lo requieran;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-VII.- Participar, en su calidad de Secretaría Ejecutiva en la Junta de Gobierno del Instituto;
+V.- Proponer las estrategias operativas para la prevención del delito conforme a las necesidades que generen los índices delictivos;
 
-VIII.- Recibir, analizar y en su caso, autorizar, las solicitudes de la prestación de servicios de Seguridad Privada que personas físicas o morales presenten;
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-IX.- Coordinar y supervisar la prestación de servicios de Seguridad Privada en el Estado;
+VI.- Vigilar permanentemente áreas de alto índice de criminalidad;
 
-X.- Publicar anualmente en el Periódico Oficial del Estado la relación de las empresas de Seguridad Privada autorizadas;
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-XI.- Celebrar Convenios de coordinación con las diferentes Instituciones relacionadas con la Seguridad Pública para el logro de sus objetivos;
+VII.- Supervisar por instrucciones de la Subsecretaría la prestación de servicios de seguridad privada, a cargo de personas físicas o morales;
 
-XII.- Participar en la promoción de una Cultura de Prevención del Delito, siniestros y de Educación Vial;
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-XIII.- Expedir la acreditación de portación de arma de fuego al personal operativo de Seguridad Pública que se encuentra registrado bajo la licencia oficial colectiva número treinta autorizada por la Secretaría de la Defensa Nacional;
+VIII.- Ejercer el mando del H. Cuerpo de Bomberos del Estado;
 
-XIV.- Realizar acciones de auxilio a la población en caso de desastres, siniestros y accidentes en coordinación con Protección Civil; y
+IX.- Coordinarse con otras Corporaciones de Seguridad Municipales, Estatales y Federales para prestarles auxilio cuando las necesidades del servicio así lo requieran;
 
-XV.- Las demás que le confiera esta Ley y otros ordenamientos.
+X.- Participar, en su calidad de Secretaría Ejecutiva en la Junta de Gobierno del Instituto;
+
+XI.- Recibir, analizar y en su caso, autorizar, las solicitudes de la prestación de servicios de Seguridad Privada que personas físicas o morales presenten;
+
+XII.- Coordinar y supervisar la prestación de servicios de Seguridad Privada en el Estado;
+
+XIII.- Publicar anualmente en el Periódico Oficial del Estado la relación de las empresas de Seguridad Privada autorizadas;
+
+XIV.- Celebrar Convenios de coordinación con las diferentes Instituciones relacionadas con la Seguridad Pública para el logro de sus objetivos;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+XV.- Participar en la promoción de una Cultura de Prevención del Delito, Siniestros y de Educación Vial;
+
+XVI.- Expedir la acreditación de portación de arma de fuego al personal operativo de Seguridad Pública que se encuentra registrado bajo la licencia oficial colectiva número treinta autorizada por la Secretaría de la Defensa Nacional;
+
+XVII.- Realizar acciones de auxilio a la población en caso de desastres, siniestros y accidentes en coordinación con Protección Civil; y
+
+XVIII.- Las demás que le confiera esta Ley y otros ordenamientos.
 
 ###### ARTICULO 53.
 
@@ -625,17 +707,11 @@ Para el logro de sus objetivos, la estructura y funcionamiento de la Dirección 
 
 ###### ARTICULO 54.
 
-El titular del Poder Ejecutivo del Estado en los casos que juzgue como de fuerza mayor o alteración grave del orden público en uno o varios Municipios, por sí o por medio de la Dirección General, podrá hacerse cargo de las fuerzas de prevención del delito existentes en los Municipios mientras prevalezca la causa que originó el conflicto, o se restablezca el orden y la tranquilidad pública.
-
-Del ejercicio de esta facultad el titular del Ejecutivo informará al Congreso del Estado.
-
-Esta misma facultad podrá ejercerla cuando exista manifiesta imposibilidad de algún Municipio para la prestación de la función de prevención del delito, a solicitud de los Ayuntamientos.
+(DEROGADA, P.O. 30 DE DICIEMBRE DE 2002)
 
 ###### ARTICULO 55.
 
-Para efectos de los operativos que deban implementarse de manera conjunta entre las distintas Corporaciones de Prevención del Delito, el titular de la Dirección General tendrá a su cargo la coordinación en la materia, sin que ello implique subordinación. Asimismo, conocerá de los informes que diariamente deberán de presentarle sobre las novedades acontecidas en cada uno de los Municipios.
-
-Las Corporaciones de Prevención del Delito, con objeto de coordinar sus políticas operativas deberán reunirse por lo menos una vez dentro del mes.
+(DEROGADA, P.O. 30 DE DICIEMBRE DE 2002)
 
 ###### ARTICULO 56.
 
@@ -675,7 +751,7 @@ Las Dependencias registradas en la licencia oficial colectiva número treinta, e
 
 La Dirección General tendrá bajo su mando al Cuerpo de Bomberos del Estado, cuya integración, función y organización se regirá por el reglamento correspondiente.
 
-### CAPITULO I. Generalidades
+### CAPITULO IV. De las Direcciones de Prevención del Delito, Vialidad y Tránsito de los Municipios
 
 ###### ARTICULO 64.
 
@@ -705,7 +781,7 @@ IX.- Las demás que les asignen su Ley Orgánica, Código Municipal, Bando de Po
 
 ## TITULO CUARTO. DEL SISTEMA ESTATAL DE INFORMACION, TELECOMUNICACIONES EN SEGURIDAD PUBLICA Y SERVICIOS DE ATENCION A LA CIUDADANIA
 
-### CAPITULO II. Del Centro Estatal de Telecomunicaciones C-4
+### CAPITULO I. Generalidades
 
 ###### ARTICULO 67.
 
@@ -715,7 +791,7 @@ Se establece el Sistema Estatal de Información, Telecomunicaciones en Seguridad
 
 Este sistema tendrá como finalidad establecer la infraestructura necesaria para coadyuvar a la coordinación entre las instancias competentes en la toma de decisiones y en la respuesta oportuna y eficiente a la ciudadanía a partir de información confiable que permita optimizar los recursos disponibles en el Estado. Así como la coordinación con el resto de las Entidades Federativas en la prevención y persecución de los delitos, en los acontecimientos de protección civil y en la atención de emergencias.
 
-### CAPITULO III. De los Registros en Seguridad Pública
+### CAPITULO II. Del Centro Estatal de Telecomunicaciones C-4
 
 ###### ARTICULO 69.
 
@@ -747,11 +823,13 @@ X.- Procesar la información a fin de que cualquier Institución de Seguridad P�
 
 Estas funciones bajo ninguna circunstancia suplen ni limitan las atribuciones de las distintas Instituciones de los tres niveles de gobierno.
 
-### CAPITULO IV. De las Estadísticas
+### CAPITULO III. De los Registros en Seguridad Pública
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 71.
 
-La Secretaría, la Procuraduría, la Dirección General, los Municipios y las empresas de Seguridad Privada, en acuerdo con su ámbito de competencia, integrarán las bases de datos para la composición de los diversos registros del Sistema Estatal de Seguridad Pública en los siguientes rubros:
+La Secretaría, la Procuraduría, la Subsecretaría, la Dirección General, los Municipios y las empresas de Seguridad Privada, en acuerdo con su ámbito de competencia, integrarán las bases de datos para la composición de los diversos registros del Sistema Estatal de Seguridad Pública en los siguientes rubros:
 
 1. Personal de Seguridad Pública;
 
@@ -805,7 +883,7 @@ La consulta de los registros de personal será obligatoria y previa al ingreso d
 
 Las identificaciones oficiales de los integrantes de las Corporaciones de Seguridad deberán contener la Clave Unica de Identificación de Personal (CUIP) instituida nacionalmente.
 
-### CAPITULO V. Del Servicio Locatel
+### CAPITULO IV. De las Estadísticas
 
 ###### ARTICULO 77.
 
@@ -817,7 +895,7 @@ El C-4 recopilará diariamente la información que le sea proporcionada por las 
 
 Las estadísticas de Seguridad Pública proporcionadas al C-4 por cada Institución permitirán la sistematización de los datos y cifras relevantes sobre prevención del delito, procuración y administración de justicia, sistemas de prisión preventiva, ejecución de sentencias, tratamiento de menores, así como los factores asociados a la problemática de Seguridad Pública.
 
-### CAPITULO UNICO
+### CAPITULO V. Del Servicio Locatel
 
 ###### ARTICULO 79.
 
@@ -837,19 +915,23 @@ VI.- Asistencia ciudadana para orientación y enlace con las dependencias compet
 
 ## TITULO QUINTO. DE LOS SERVICIOS DE SEGURIDAD PRIVADA
 
-### CAPITULO I. Del Instituto Estatal de Seguridad Pública
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 80.
 
-Las personas físicas o morales que pretendan prestar servicios de seguridad, protección o vigilancia, sistemas de alarma, custodia de personas, lugares, establecimientos, bienes y valores, incluido su traslado en el Estado, deberán obtener autorización previa de la Dirección General y realizar el pago de derechos correspondiente.
+Las personas físicas o morales que pretendan prestar servicios de seguridad, protección o vigilancia, sistemas de alarma, custodia de personas, lugares, establecimientos, bienes y valores, incluido su traslado en el Estado, deberán obtener autorización previa de la Subsecretaría y realizar el pago de derechos correspondiente.
 
-Los prestadores de servicios a que se refiere el párrafo anterior, y que cuenten con autorización de la Secretaría de Seguridad Pública, en términos del Artículo 52 de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, además de sujetarse a las disposiciones legales del presente ordenamiento deberán notificar a la Dirección General, su operación dentro de los siguientes quince días naturales a su establecimiento en el Estado.
+Los prestadores de servicios a que se refiere el párrafo anterior, y que cuenten con autorización de la Secretaría de Seguridad Pública, en términos del Artículo 52 de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, además de sujetarse a las disposiciones legales del presente ordenamiento deberán notificar a la Subsecretaría, su operación dentro de los siguientes quince días naturales a su establecimiento en el Estado.
 
 ###### ARTICULO 81.
 
 Los prestadores de los servicios de Seguridad Privada, serán auxiliares a la función de Seguridad Pública, por lo que sus integrantes coadyuvarán con las autoridades y las Instituciones de Seguridad Pública cuando así se les requiera.
 
-Al efecto, la Secretaría, la Procuraduría, La Dirección General y los Municipios, signarán los convenios con los prestadores de estos servicios para establecer los requisitos y condiciones en que habrá de darse tal colaboración.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+Al efecto, la Secretaría, la Procuraduría, la Subsecretaría, y los Municipios, signarán los convenios con los prestadores de estos servicios para establecer los requisitos y condiciones en que habrá de darse tal colaboración.
 
 ###### ARTICULO 82.
 
@@ -877,15 +959,25 @@ I.- Ser de nacionalidad mexicana;
 
 II.- En el caso de las personas morales, demostrar que se encuentran constituidos legalmente conforme a las leyes mexicanas;
 
-III.- Presentar solicitud por escrito dirigida a la Dirección General;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-IV.- Presentar a la Dirección General, los informes y documentos que se le requieran para el registro de su personal y equipo;
+III.- Presentar solicitud por escrito dirigida a la Subsecretaría;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+IV.- Presentar a la Subsecretaría los informes y documentos que se le requieran para el registro de su personal y equipo;
 
 V.- Contar con domicilio legal en el Estado;
 
 VI.- Indicar denominación o razón social con la que pretenda prestar su servicio;
 
-VII.- Otorgar fianza mediante compañía debidamente constituida conforme a las leyes mexicanas, por el monto que fijen las autoridades en la materia;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+VII.- Otorgar fianza mediante compañía debidamente constituida conforme a las leyes mexicanas, por el monto que fijen las autoridades de la materia, misma que deberá garantizar:
+
+a).- Las obligaciones en materia de seguridad social y los adeudos que se contraigan con su personal, por la prestación del servicio; y
+
+b).- Las obligaciones civiles y administrativas derivadas de la prestación del servicio de seguridad privada, en términos de las leyes aplicables.
 
 VIII.- Las personas físicas deberán acreditar no tener antecedentes penales;
 
@@ -897,11 +989,17 @@ X.- Los demás que establezcan las disposiciones legales aplicables en la materi
 
 Los prestadores del servicio de Seguridad Privada a que se refieren las fracciones I, II, III y IV del Artículo 82 de esta Ley, deberán capacitar a sus elementos bajo los lineamientos y programas del Instituto, a efecto de que éstos cuenten con los conocimientos necesarios para el eficaz desempeño de su función.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+Otorgar al personal el equipo necesario para el desempeño de las funciones, así como asistirlo en caso de riesgo o accidentes que se generen por la naturaleza misma del servicio, desde que éste se origine hasta su total restablecimiento; de no ser posible, se indemnizará al afectado o a sus beneficiarios, de conformidad con lo previsto en la Ley Federal del Trabajo.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 85.
 
-Satisfechos los requisitos a que se refiere el artículo 83 del presente ordenamiento, la Dirección General dictaminará en un plazo no mayor de 30 días hábiles contados a partir de la integración del expediente, la procedencia de la solicitud y en su caso, expedirá al organismo o empresa de Seguridad Privada la autorización correspondiente en la que constará las características, vigencia y el tipo de servicio que prestará.
+Satisfechos los requisitos a que se refiere el artículo 83 del presente ordenamiento, la Subsecretaría dictaminará en un plazo no mayor de 30 días hábiles contados a partir de la integración del expediente, la procedencia de la solicitud y en su caso, expedirá al organismo o empresa de seguridad privada la autorización correspondiente en la que constará las características, vigencia y el tipo de servicio que prestará.
 
-En el caso de los vigilantes independientes a que se refiere el Artículo 82 fracción V, de esta Ley, la Dirección General expedirá la credencial que los identifique como prestador de servicios de Seguridad Privada.
+En el caso de los vigilantes independientes a que se refiere el Artículo 82 fracción V, de esta Ley, la Subsecretaría expedirá la credencial que los identifique como prestador de servicios de seguridad privada.
 
 ###### ARTICULO 86.
 
@@ -927,17 +1025,23 @@ IV.- Deberán utilizar uniformes, insignias, divisas o equipo diferente a los qu
 
 V.- Deberán cumplir con los requisitos de capacitación y certificación que al efecto se señala en el Artículo 100 del presente ordenamiento;
 
-VI.- Llevarán un registro de su personal en acuerdo con lo establecido en esta Ley, señalando todas las altas y bajas del personal, lo que deberá notificarse mensualmente a la Dirección General y al C-4;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-VII.- Brindarán las facilidades necesarias para que las autoridades de la Dirección General puedan ejercer las funciones de supervisión y verificación de sus actividades;
+VI.- Llevarán un registro de su personal en acuerdo con lo establecido en esta Ley, señalando todas las altas y bajas del personal, lo que deberá notificarse mensualmente a la Subsecretaría y al C-4;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+VII.- Brindarán las facilidades necesarias para que las autoridades de la Subsecretaría puedan ejercer las funciones de supervisión y verificación de sus actividades;
 
 VIII.- Deberán cumplir todas y cada una de las obligaciones que señale el Reglamento respectivo y la autorización correspondiente; y
 
 IX.- Responderán solidariamente de los daños y perjuicios que cause su personal al prestar sus servicios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 89.
 
-Corresponde a la Dirección General:
+Corresponde a la Subsecretaría:
 
 I.- Fijar los requisitos de forma para obtener la autorización e inscripción en el registro estatal;
 
@@ -967,21 +1071,25 @@ II.- Multa hasta de cinco mil veces el salario mínimo diario general vigente en
 
 III.- Suspensión temporal de actividades hasta que se subsane el incumplimiento, con difusión pública de dicha sanción; y
 
-IV.- Cancelación definitiva del registro a través de un procedimiento en acuerdo con lo estipulado en el reglamento correspondiente con difusión pública de la misma. En este caso la Dirección General notificará la cancelación a las autoridades correspondientes a efecto de que realicen en los términos de sus competencias, los actos que legalmente procedan.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+IV.- Cancelación definitiva del registro a través de un procedimiento en acuerdo con lo estipulado en el reglamento correspondiente con difusión pública de la misma. En este caso la Subsecretaría notificará la cancelación a las autoridades correspondientes a efecto de que realicen en los términos de sus competencias, los actos que legalmente procedan.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 93.
 
-La Dirección General podrá solicitar a la Procuraduría y al Municipio que corresponda, el auxilio necesario para la supervisión del funcionamiento de las empresas de Seguridad Privada.
+La Subsecretaría podrá solicitar a la Procuraduría y al Municipio que corresponda, el auxilio necesario para la supervisión del funcionamiento de las empresas de seguridad privada.
 
 ## TITULO SEXTO. DE LA PROFESIONALIZACION DEL PERSONAL DE SEGURIDAD PUBLICA
 
-### CAPITULO II. De la Selección, Formación, Actualización y Especialización
+### CAPITULO I. Del Instituto Estatal de Seguridad Pública
 
 ###### ARTICULO 94.
 
 El Instituto tendrá las atribuciones que enuncia la presente Ley, sin perjucio (sic) de contar con los órganos y ejercer las atribuciones que menciona la Ley Orgánica del Instituto Estatal de Seguridad Pública y su Reglamento Interior.
 
-### CAPITULO I. De los Principios de Actuación
+### CAPITULO II. De la Selección, Formación, Actualización y Especialización
 
 ###### ARTICULO 95.
 
@@ -1011,7 +1119,7 @@ Para fortalecer la profesionalización del personal de las Instituciones de Segu
 
 ## TITULO SEPTIMO. DE LAS BASES Y LINEAMIENTOS GENERALES DE LAS CORPORACIONES DE SEGURIDAD PUBLICA
 
-### CAPITULO II. Condecoraciones, Estímulos y Recompensas
+### CAPITULO I. De los Principios de Actuación
 
 ###### ARTICULO 101.
 
@@ -1075,7 +1183,7 @@ XXVI.- Actuar coordinadamente con otras Corporaciones, así como brindarles, en 
 
 XXVII.- Estudiar, conocer y respetar esta Ley, sus reglamentos y demás leyes aplicables y relativas al servicio de Seguridad Pública.
 
-### CAPITULO III. De los Derechos del Personal de las Corporaciones de Seguridad Pública
+### CAPITULO II. Condecoraciones, Estímulos y Recompensas
 
 ###### ARTICULO 103.
 
@@ -1121,7 +1229,7 @@ Los estímulos y recompensas se otorgarán al personal que se haya distinguido p
 
 Los reglamentos internos de las Instituciones determinarán las fechas en que se habrán de otorgar los estímulos y recompensas a que se refiere el presente capítulo.
 
-### CAPITULO I. De los Correctivos Disciplinarios
+### CAPITULO III. De los Derechos del Personal de las Corporaciones de Seguridad Pública
 
 ###### ARTICULO 110.
 
@@ -1157,7 +1265,7 @@ XIV.- Ser considerados para formar parte de la plantilla docente del Instituto e
 
 ## TITULO OCTAVO. DEL REGIMEN DISCIPLINARIO
 
-### CAPITULO II. De la Suspensión Temporal Preventiva
+### CAPITULO I. De los Correctivos Disciplinarios
 
 ###### ARTICULO 111.
 
@@ -1215,7 +1323,7 @@ La resolución que declare improcedente un cambio de adscripción, dejará sin e
 
 No procederá el Recurso de Rectificación contra un cambio de adscripción decretado en razón de las necesidades del servicio y que no tenga el carácter de sanción.
 
-### CAPITULO III. De las Causales de Destitución
+### CAPITULO II. De la Suspensión Temporal Preventiva
 
 ###### ARTICULO 118.
 
@@ -1225,7 +1333,7 @@ La suspensión terminará hasta que el asunto de que se trate, quede total y def
 
 En el caso de que el elemento resulte declarado sin responsabilidad en resolución ejecutoriada, se le reintegrarán los salarios y prestaciones que hubiese dejado de percibir hasta el momento con el motivo de la suspensión.
 
-### CAPITULO IV. De las Comisiones de Honor y Justicia
+### CAPITULO III. De las Causales de Destitución
 
 ###### ARTICULO 119.
 
@@ -1266,6 +1374,8 @@ XVI.- Negarse a la realización de pruebas médicas o de laboratorio, para evalu
 El cambio de mandos superiores o de autoridades de elección popular no será causa, bajo ninguna circunstancia, de destitución para ningún elemento de Seguridad Pública, salvo lo establecido en el Artículo 4o. de la presente Ley.
 
 Las Corporaciones de Seguridad elaborarán un registro de los elementos que hayan sido destituidos, especificando además la causa de la destitución.
+
+### CAPITULO IV. De las Comisiones de Honor y Justicia
 
 ###### ARTICULO 120.
 
@@ -1346,3 +1456,11 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 2002.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
