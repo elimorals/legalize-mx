@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-6113"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-26"
-last_updated: "1987-12-31"
+last_updated: "1988-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1988.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 26 de diciembre de 1983.
 
@@ -271,7 +271,7 @@ Este impuesto en ningún caso, deberá ser repercutido al espectador.
 
 Los funcionarios competentes, al otorgar permisos para la explotación de espectáculos, deberán dar aviso a la Tesorería General del Estado, o a sus oficinas de rentas, de las autorizaciones que otorguen, a más tardar el día anterior al en que vaya a realizarse o a principiar la explotación del espectáculo.
 
-#### Sección Sexta. De las Disposiciones Generales
+#### Sección Sexta. de las Disposiciones Generales
 
 #### Sección Séptima. De las Infracciones y Sanciones
 
@@ -285,6 +285,8 @@ II. El equipo y las instalaciones que se utilicen en la diversión o espectácul
 
 #### Sección Primera. Del Objeto
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 27.
 
 Las infracciones cometidas por los contribuyentes de este impuesto, se sancionarán conforme a lo dispuesto por el Código Fiscal del Estado.
@@ -295,19 +297,23 @@ Las infracciones cometidas por los contribuyentes de este impuesto, se sancionar
 
 ###### ARTICULO 28.
 
-Es objeto de este impuesto todo ingreso o hecho generador de un impuesto o derecho del Estado y Municipios, con las excepciones que esta ley establece.
+Es objeto de este impuesto, todo ingreso o hecho generador de un impuesto o derecho del Estado, con las excepciones que esta Ley establece.
 
 #### Sección Tercera. De la Base y de la Tasa
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 29.
 
 Son sujetos de este impuesto, las personas físicas o morales que realicen pagos por los conceptos a que se refiere el artículo anterior.
 
-#### Sección Cuarta. De las Exenciones
+#### Sección Cuarta
+
+De las Exenciones.
 
 ###### ARTICULO 30.
 
-La base de este impuesto es el importe de los pagos por concepto de impuestos y derechos.
+La base de este Impuesto es el importe de los pagos por concepto de Impuestos y Derechos, excepto del Impuesto sobre aumento de valor o mejoría específica de la propiedad, derechos por inscripción de nacimiento, defunciones y autorización de matrimonios celebrados en las oficinas del Registro Civil en horas hábiles.
 
 ###### ARTICULO 31.
 
@@ -321,31 +327,15 @@ El impuesto se causará conforme a la tasa que señale la Ley de Ingresos y se h
 
 ###### ARTICULO 32.
 
-Quedan exentos del pago de este impuesto, los siguientes conceptos:
-
-I. Impuesto Predial Rústico, Urbano, Ejidal y Comunal;
-
-II. Impuesto sobre Transmisión de bienes inmuebles;
-
-III. Impuesto por el ejercicio de Profesiones;
-
-IV. Impuesto sobre aumento de valor o mejoría específica de la propiedad;
-
-V. Derechos por inscripción de nacimientos o defunciones en las oficinas del Registro Civil;
-
-VI. Derechos por servicios y autorización de matrimonios celebrados en las oficinas del Registro Civil, en horas hábiles;
-
-VII. Derechos por servicios de panteones en tercera clase;
-
-VIII. Derechos por servicios de agua potable, y
-
-IX. Otros que determine el Ejecutivo del Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 33.
 
 Cualquier institución oficial a quien se conceda la facultad de recaudar alguna contribución y las Tesorerías Municipales, están obligadas a hacer efectivo este gravamen causado por impuestos y derechos, so(sic) pena de responsabilidad solidaria, debiendo entregar su importe completo directamente a la Tesorería General del Estado o por conducto de las oficinas recaudadoras de rentas, dentro de los primeros quince días del mes siguiente al en que se causa.
 
-#### Sección Tercera. De La Base
+#### Sección Tercera
+
+De La Base.
 
 #### Sección Cuarta. Del Pago
 
@@ -709,7 +699,7 @@ III. Prestación de servicios, aquéllas que sea de índole mercantil, y
 
 IV. Comisión mercantil, el mandato otorgado al comisionista para ejecutar actos de comercio por cuenta del comitente; y mediación mercantil, la actividad que desarrolla el mediador para relacionar a los contratantes.
 
-Quedan comprendidas en esta fracción entre otras, las actividades que desarrollan por cuenta ajena los consignatarios, agentes, representantes, corredores y distribuidores.
+Quedan comprendidas en esta fracción, entre otras, las actividades que desarrollan por cuenta ajena los consignatarios, agentes, representantes, corredores y distribuidores.
 
 #### Sección Séptima. De las Rectificaciones
 
@@ -1089,7 +1079,7 @@ IX. Dar aviso a la oficina de rentas correspondiente, a más tardar el mismo dí
 
 a) De la iniciación de la zafra;
 
-b)De la suspensión temporal y reanudación de la elaboración, indicando la causa;
+b) De la suspensión temporal y reanudación de la elaboración, indicando la causa;
 
 c) De la terminación de cada molienda o corrida en su caso, indicando la fecha probable de la iniciación de la siguiente;
 
@@ -1375,9 +1365,7 @@ III. Cualquier poseedor de alcohol, aguardientes u otras bebidas alcohólicas, s
 
 Para los efectos de este impuesto las operaciones de comisión se considerarán como compraventa, teniendo el comisionista las mismas obligaciones que la presente parte establece para los sujetos del impuesto.
 
-#### Sección Tercera
-
-De la Base y Tasa.
+#### Sección Tercera. De la Base y Tasa
 
 ###### ARTICULO 133.
 
@@ -1663,7 +1651,7 @@ Las obligaciones a que se refiere el presente artículo, deberán cumplirse dent
 
 Las infracciones cometidas por los contribuyentes de este impuesto, se sancionarán conforme a las disposiciones del Código Fiscal del Estado.
 
-### CAPITULO II. POR SERVICIOS PRESTADOS POR LA DIRECCION DE COMUNICACIONES Y TRANSPORTES
+### CAPITULO II. POR SERVICIOS PRESTADOS POR LA DIRECCION DE TRANSPORTES
 
 #### Sección Sexta. De las Infracciones y Sanciones
 
@@ -1717,7 +1705,9 @@ Las infracciones al presente capítulo, serán sancionadas de conformidad a lo p
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
-### CAPITULO III. POR SERVICIOS PRESENTADOS POR LA DIRECCION DE COMUNICACIONES ELECTRICAS
+### CAPITULO III. POR SERVICIOS PRESENTADOS POR LA SECRETARIA DE COMUNICACIONES Y OBRAS PUBLICAS
+
+REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 184.
 
@@ -1727,11 +1717,17 @@ I. Expedición de certificados o certificaciones de documentos;
 
 II. Expedición de copias certificadas;
 
-III. Revisiones de proyectos de fraccionamientos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-IV. Inspecciones a fraccionamientos, y
+III. Dictámenes del uso de suelo; y
 
-V. Las demás prestaciones que señale la Ley de ingresos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+IV. Las demás prestaciones que señale la Ley de Ingresos del Estado de Michoacán.
+
+V. (DEROGADA, P.O. 31 DE DICIEMBRE DE 1988)
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ### CAPITULO IV. POR SERVICIOS PRESTADOS POR LA DIRECCION DE SEGURIDAD PUBLICA
 
@@ -1739,7 +1735,9 @@ V. Las demás prestaciones que señale la Ley de ingresos.
 
 Se pagarán derechos al Estado por los servicios que proporcione la Dirección de Comunicaciones y Transportes sobre:
 
-I. Expedición y canje de placas para circulación de vehículos de servicio público;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+I. Expedición de placas para circulación de vehículos de servicio público;
 
 II. Permisos para prestar el servicio público;
 
@@ -1749,25 +1747,49 @@ IV. Permisos para excursión en camionetas cerradas y omnibus;
 
 V. Almacenaje de vehículos en los depósitos oficiales del Estado, y
 
-VI. La prestación de otros servicios que señale la Ley de Ingresos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-ARTICULO 187 (sic). En los casos de conje (sic) de placas y en revalida capítulo, serán cubiertos en las oficinas de rentas correspondientes, previa orden de entero que expida la Dirección del ramo.
+VI. Renovación anual de tarjeta de circulación y calcomanía; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+VII. La prestación de otros servicios que señale la Ley de Ingresos del Estado de Michoacán.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 186.
+
+Los derechos por los servicios a que se refiere este capítulo, serán cubiertos en las oficinas de Rentas correspondientes, previa orden de entero que expida la Dirección del ramo, en el plazo que para tal efecto ésta establezca.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 187.
 
-En los casos de canje de placas y en revalidaciones de permisos, que se hagan fuera de los plazos establecidos, se cobrarán además la sanción y recargos correspondientes, de conformidad a lo dispuesto en el Código Fiscal del Estado.
+En los casos de expedición de placas, renovación anual de tarjeta de circulación y calcomanía, y de permisos que se hagan fuera de los plazos establecidos, se cobrarán además la sanción y recargos correspondientes, de conformidad a lo dispuesto en el Código Fiscal del Estado de Michoacán.
+
+ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)
+
+ARTICULO 187 BIS. Por Cada cambio de vehículos de servicio público se pagará el costo de la tarjeta de control de servicios, de la tarjeta de circulación y de la calcomanía, establecido en al Ley de Ingresos del Estado. La prestación de este servicio se hará dentro del plazo de 2 meses a partir de la fecha de la cancelación del registro autorizado.
+
+La revalidación de concesiones deberá realizarse de acuerdo al calendario oficial que señale la Dirección.
+
+El incumplimiento a lo estipulado en este artículo se sancionará conforme al Código Fiscal del Estado de Michoacán.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ### CAPITULO V. POR SERVICIOS PRESTADOS POR LA DIRECCION DE TRABAJO Y PREVISION SOCIAL
 
 ###### ARTICULO 188.
 
-Los servicios prestados por la Dirección de Comunicaciones Eléctricas se causarán y pagarán de conformidad a lo que dispone la Ley de Ingresos.
+Los servicios prestados por esta Secretaría a través de la Dirección de Comunicaciones Eléctricas se causarán y pagarán de conformidad a lo dispuesto en la Ley de Ingresos del Estado.
+
+REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ### CAPITULO VI. POR SERVICIOS PRESTADOS POR LA DIRECCION DE PROFESIONES
 
 ###### ARTICULO 189.
 
-Los derechos que se causen por los diferentes servicios que proporcione esta Dirección y sus oficinas foráneas serán pagados directamente ante éstas, quienes expedirán recibo oficial a los interesados en las formas autorizadas por la Tesorería General del Estado.
+Los derechos que se causen por los diferentes servicios que proporcione la Dirección a que se refiere el artículo anterior y sus oficinas foráneas, serán pagados directamente ante éstas, quienes expedirán recibo oficial a los interesados en las formas autorizadas por la Tesorería General del Estado.
 
 Las citadas oficinas rendirán cuenta mensual de los ingresos obtenidos a la Tesorería o a sus oficinas de rentas, incluyendo a la misma copia de los recibos expedidos.
 
@@ -1795,9 +1817,9 @@ III. En los demás casos que señalen otras leyes y acuerdos del Gobernador.
 
 Se pagarán derechos al Estado por los servicios proporcionados por la Dirección de Seguridad Pública, en relación con la circulación y conducción de vehículos por:
 
-I.- Expedición y canje de placas para circulación de vehículos de servicio particular.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-El plazo para el canje de placas será durante los meses de enero y febrero del primer año del bienio correspondiente, o a los 15 días siguientes de la fecha de adquisición de vehículos.
+I. Expedición de placas para circulación de vehículos de servicio particular, durante los 15 días siguientes a la fecha de adquisición del vehículo;
 
 II. Permisos de circulación;
 
@@ -1805,19 +1827,29 @@ III. Licencias para conducir;
 
 IV. Almacenaje de vehículos en los depósitos oficiales del Estado, y
 
-V. La prestación de otros servicios que señale la Ley de Ingresos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+V. Renovación anual de tarjeta de circulación y calcomanía, durante el período comprendido de febrero a abril de cada año, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+VI. La prestación de otros servicios que señale la Ley de Ingresos del Estado de Michoacán.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ### CAPITULO IX. POR SERVICIOS PRESTADOS POR LOS CENTROS DE SALUD PUBLICA
 
 ###### ARTICULO 192.
 
-Los derechos por los servicios a que se refiere este capítulo, serán cubiertos en las oficinas de rentas correspondientes, previa comunicación que al efecto gire la autoridad competente dependiente de la Dirección de Seguridad Pública, o sus delegaciones en su caso.
+Los derechos por los servicios a que se refiere este capítulo, serán cubiertos en las oficinas de Rentas correspondientes.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ### CAPITULO X. POR SERVICIOS PRESTADOS POR LA DIRECCION DE CATASTRO
 
 ###### ARTICULO 193.
 
-En los casos de canje de placas y revalidación de licencias para conducir, fuera de los plazos establecidos, se cobrará además la sanción y recargos correspondientes conforme a lo dispuesto en el Código Fiscal del Estado.
+En los casos de expedición de placas, renovación anual de tarjeta de circulación y calcomanía, y de licencias para conducir, fuera de los plazos establecidos, se cobrará además la sanción y recargos correspondientes, conforme a lo dispuesto en el Código Fiscal del Estado.
 
 ###### ARTICULO 194.
 
@@ -2128,3 +2160,9 @@ P.O. 31 DE DICIEMBRE DE 1987.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el día 1o. de enero de 1988, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el 1o. de enero de 1989, previa publicación en el Periódico Oficial del Estado.
