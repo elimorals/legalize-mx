@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-tribunal-federal-de-justicia-fiscal-y-1776"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-12-15"
-last_updated: "1998-01-23"
+last_updated: "2000-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1776&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1995-12-13"
 ---
 # LEY ORGANICA DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA -ANTES LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION-
 
-LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION
+LEY ORGANICA DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de diciembre de 1995.
 
@@ -39,37 +39,49 @@ SE EXPIDEN NUEVAS LEYES FISCALES Y SE MODIFICAN OTRAS.
 
 Artículo Tercero. Se expide la siguiente
 
-Ley Orgánica del Tribunal Fiscal de la Federación
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa
 
 ### Capítulo I. De la integración del tribunal
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 1o.
 
-El Tribunal Fiscal de la Federación es un tribunal administrativo, dotado de plena autonomía para dictar sus fallos, con la organización y atribuciones que esta Ley establece.
+El Tribunal Federal de Justicia Fiscal y Administrativa es un tribunal administrativo, dotado de plena autonomía para dictar sus fallos, con la organización y atribuciones que esta Ley establece.
 
 ###### Artículo 2o.
 
 El Tribunal se integra por una Sala Superior y por las Salas Regionales.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 3o.
 
-El Presidente de la República, con la aprobación del Senado, nombrará a los magistrados del Tribunal Fiscal de la Federación para integrar la Sala Superior o las Salas Regionales.
+El Presidente de la República, con la aprobación del Senado, nombrará a los magistrados del Tribunal Federal de Justicia Fiscal y Administrativa para integrar la Sala Superior o las Salas Regionales.
 
 Los magistrados del Tribunal durarán seis años en el primer ejercicio de su encargo, los que se contarán a partir de la fecha de su designación. Al término del citado período:
 
-a) Los magistrados de la Sala Superior, podrán ser designados nuevamente, por única vez, por un período de nueve años; y
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-b) Los magistrados de las Salas Regionales podrán ser designados por un segundo período de seis años. Al final de este período, si fueren designados nuevamente, serán inamovibles.
+a) Los magistrados de la Sala Superior, podrán ser ratificados, por única vez, por un periodo de nueve años;
 
-Los magistrados del Tribunal Fiscal de la Federación únicamente podrán ser privados de sus puestos en los casos y de acuerdo con el procedimiento aplicable para los magistrados y los jueces inamovibles del Poder Judicial de la Federación.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+b) Los magistrados de las Salas Regionales podrán ser ratificados por un segundo periodo de seis años. Al final de este periodo, si fueren ratificados nuevamente, serán inamovibles.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+Los magistrados del Tribunal Federal de Justicia Fiscal y Administrativa únicamente podrán ser privados de sus puestos en los casos y de acuerdo con el procedimiento aplicable para los magistrados y los jueces inamovibles del Poder Judicial de la Federación.
 
 En los recesos de la Cámara de Senadores, los nombramientos que haga el Presidente de la República se someterán a la aprobación de la Comisión Permanente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 4o.
 
-Para ser magistrado del Tribunal Fiscal de la Federación se requiere ser mexicano por nacimiento, que no se adquiera otra nacionalidad, estar en pleno goce y ejercicio de sus derechos civiles y políticos, ser mayor de 35 años, de notoria buena conducta, licenciado en derecho con título registrado expedido cuando menos 10 años antes de dicha fecha y con 7 años de práctica en materia fiscal.
+Para ser magistrado del Tribunal Federal de Justicia Fiscal y Administrativa se requiere ser mexicano por nacimiento, que no se adquiera otra nacionalidad, estar en pleno goce y ejercicio de sus derechos civiles y políticos, ser mayor de 35 años, de notoria buena conducta, licenciado en derecho con título registrado expedido cuando menos 10 años antes de dicha fecha y con 7 años de práctica en materia fiscal.
 
 Es causa de retiro forzoso de un magistrado, padecer incapacidad física o mental para desempeñar el cargo y en el caso de los magistrados de las Salas Regionales, cumplir 70 años.
 
@@ -103,9 +115,11 @@ Los magistrados, los secretarios y los actuarios estarán impedidos para desempe
 
 ### Capítulo II. De la competencia material del tribunal
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 11.
 
-El Tribunal Fiscal de la Federación conocerá de los juicios que se promuevan contra las resoluciones definitivas que se indican a continuación:
+El Tribunal Federal de Justicia Fiscal y Administrativa conocerá de los juicios que se promuevan contra las resoluciones definitivas que se indican a continuación:
 
 I. Las dictadas por autoridades fiscales federales y organismos fiscales autónomos, en que se determine la existencia de una obligación fiscal, se fije en cantidad líquida o se den las bases para su liquidación.
 
@@ -117,7 +131,9 @@ IV. Las que causen un agravio en materia fiscal distinto al que se refieren las 
 
 V. Las que nieguen o reduzcan las pensiones y demás prestaciones sociales que concedan las leyes en favor de los miembros del Ejército, de la Fuerza Aérea y de la Armada Nacional o de sus familiares o derechohabientes con cargo a la Dirección de Pensiones Militares o al Erario Federal, así como las que establezcan obligaciones a cargo de las mismas personas, de acuerdo con las leyes que otorgan dichas prestaciones.
 
-Cuando el interesado afirme, para fundar su demanda que le corresponde un mayor número de años de servicio que los reconocidos por la autoridad respectiva, que debió ser retirado con grado superior al que consigne la resolución impugnada o que su situación militar sea diversa de la que le fue reconocida por la Secretaría de la Defensa Nacional o de Marina, según el caso; o cuando se versen cuestiones de jerarquía, antigüedad en el grado o tiempo de servicios militares, las sentencias del Tribunal Fiscal sólo tendrán efectos en cuanto a la determinación de la cuantía de la prestación pecuniaria que a los propios militares corresponda, o a las bases para su depuración.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+Cuando el interesado afirme, para fundar su demanda que le corresponde un mayor número de años de servicio que los reconocidos por la autoridad respectiva, que debió ser retirado con grado superior al que consigne la resolución impugnada o que su situación militar sea diversa de la que le fue reconocida por la Secretaría de la Defensa Nacional o de Marina, según el caso; o cuando se versen cuestiones de jerarquía, antigüedad en el grado o tiempo de servicios militares, las sentencias del Tribunal Federal de Justicia Fiscal y Administrativa sólo tendrán efectos en cuanto a la determinación de la cuantía de la prestación pecuniaria que a los propios militares corresponda, o a las bases para su depuración.
 
 VI. Las que se dicten en materia de pensiones civiles, sea con cargo al Erario Federal o al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
@@ -133,21 +149,41 @@ XI. Las que traten las materias señaladas en el artículo 94 de la Ley de Comer
 
 XII. Las que impongan sanciones administrativas a los servidores públicos en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos.
 
-XIII. Las que resuelvan los recursos administrativos en contra de las resoluciones que se indican en las demás fracciones de este artículo, inclusive aquéllos a que se refiere el artículo 83 de la Ley Federal de Procedimiento Administrativo.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-XIV. Las señaladas en las demás leyes como competencia del Tribunal.
+XIII. Las dictadas por las autoridades administrativas que pongan fin a un procedimiento administrativo, a una instancia o resuelvan un expediente, en los términos de la Ley Federal de Procedimiento Administrativo.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+XIV. Las que decidan los recursos administrativos en contra de las resoluciones que se indican en las demás fracciones de este artículo.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+XV. Las señaladas en las demás leyes como competencia del Tribunal.
 
 Para los efectos del primer párrafo de este artículo, las resoluciones se considerarán definitivas cuando no admitan recurso administrativo o cuando la interposición de éste sea optativa.
 
-El Tribunal Fiscal de la Federación conocerá de los juicios que promuevan las autoridades para que sean anuladas las resoluciones administrativas favorables a un particular, siempre que dichas resoluciones sean de las materias señaladas en las fracciones anteriores como de su competencia.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+El Tribunal Federal de Justicia Fiscal y Administrativa conocerá de los juicios que promuevan las autoridades para que sean anuladas las resoluciones administrativas favorables a un particular, siempre que dichas resoluciones sean de las materias señaladas en las fracciones anteriores como de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+También conocerá de los juicios que se promuevan contra una resolución negativa ficta configurada, en las materias señaladas en este artículo, por el transcurso del plazo que señalen las disposiciones aplicables o, en su defecto, por la Ley Federal de Procedimiento Administrativo. Asimismo, conocerá de los juicios que se promuevan en contra de la negativa de la autoridad a expedir la constancia de haberse configurado la resolución positiva ficta, cuando ésta se encuentre prevista por la ley que rija a dichas materias.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+No será aplicable lo dispuesto en el párrafo anterior en todos aquellos casos en los que se pudiere afectar el derecho de un tercero, reconocido en un registro o anotación ante autoridad administrativa.
 
 ### Capítulo III. De la Sala Superior
 
 #### Sección I. Del Pleno
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 12.
 
-La Sala Superior del Tribunal Fiscal de la Federación se compondrá de once magistrados especialmente nombrados para integrarla, de entre los cuales elegirán al Presidente del Tribunal. La Sala Superior del Tribunal actuará en Pleno o en dos Secciones.
+La Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa se compondrá de once magistrados especialmente nombrados para integrarla, de entre los cuales elegirán al Presidente del Tribunal. La Sala Superior del Tribunal actuará en Pleno o en dos Secciones.
 
 El Pleno se compondrá de los magistrados de la Sala Superior y del Presidente del Tribunal, bastando la presencia de 7 de sus miembros para que pueda sesionar.
 
@@ -167,7 +203,13 @@ Las sesiones del Pleno serán públicas. Cuando se designe Presidente, se ventil
 
 Es competencia del Pleno:
 
-I. Designar de entre sus integrantes al Presidente del Tribunal Fiscal de la Federación.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+I. Designar de entre sus integrantes al Presidente del Tribunal Federal de Justicia Fiscal y Administrativa.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+I-Bis. Proponer al Presidente de la República la designación o ratificación de magistrados seleccionados previa evaluación interna.
 
 II. Señalar la sede y el número de las Salas Regionales.
 
@@ -175,9 +217,9 @@ III. Resolver los conflictos de competencia que se susciten entre las Salas Regi
 
 IV. Fijar o suspender la jurisprudencia del Tribunal, conforme al Código Fiscal de la Federación, así como ordenar su publicación.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-V. Resolver por atracción los juicios con características especiales, en los casos establecidos por el artículo 239-A, fracción I, inciso b), del Código Fiscal de la Federación.
+V. Resolver por atracción los juicios con características especiales, en los casos establecidos por el artículo 239-A, fracción I, inciso b), del Código Fiscal de la Federación, así como los supuestos del artículo 20 de esta Ley, cuando, a petición de la Sección respectiva, lo considere conveniente.
 
 VI. Resolver los incidentes y recursos que procedan en contra de los actos y resoluciones del Pleno, así como la queja y determinar las medidas de apremio.
 
@@ -187,13 +229,19 @@ VIII. Dictar las medidas que sean necesarias para investigar las responsabilidad
 
 IX. Fijar y, en su caso, cambiar la adscripción de los magistrados de las Secciones y de las Salas Regionales.
 
-X. Expedir el Reglamento Interior del Tribunal y los demás reglamentos y acuerdos necesarios para su buen funcionamiento, teniendo la facultad de crear las unidades administrativas que estime necesarias para el eficiente desempeño de las funciones del Tribunal de conformidad con el Presupuesto de Egresos de la Federación.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-XI. Designar de entre los magistrados de la Sala Superior, a los magistrados que realicen visitas extraordinarias a las Salas Regionales. El Magistrado designado dará cuenta del funcionamiento de éstas al Pleno del Tribunal.
+X. Expedir el Reglamento Interior del Tribunal y los demás reglamentos y acuerdos necesarios para su buen funcionamiento, teniendo la facultad de crear las unidades administrativas que estime necesarias para el eficiente desempeño de las funciones del Tribunal de conformidad con el Presupuesto de Egresos de la Federación; así como fijar, acorde con los principios de eficiencia, capacidad y experiencia, las bases de la carrera jurisdiccional de Actuarios, Secretarios de Acuerdos de Sala Regional, Secretarios de Acuerdos de Sala Superior y Magistrados, los criterios de selección para el ingreso y los requisitos que deberán satisfacerse para la promoción y permanencia de los mismos, así como las reglas sobre disciplina, estímulos y retiro de los funcionarios jurisdiccionales.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+XI. Designar de entre sus miembros a los magistrados visitadores de las Salas Regionales, los que le darán cuenta del funcionamiento de éstas, así como dictar reglas conforme a las cuales se deberán practicar dichas visitas.
 
 XII. Designar al Secretario General de Acuerdos, al Oficial Mayor y al Contralor.
 
-XIII. Resolver todas aquellas situaciones que sean de interés para el Tribunal y cuya resolución no esté encomendada a algún otro de sus órganos.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+XIII. Resolver todas aquellas situaciones que sean de interés para el Tribunal y cuya resolución no esté encomendada a algún otro de sus órganos, así como ordenar la depuración y baja de los expedientes totalmente concluidos con tres años de anterioridad, previo aviso publicado en el Diario Oficial de la Federación dirigido a los interesados, para que, con base a éste, puedan recabar copias certificadas o documentos de los mismos.
 
 XIV. Las demás que establezcan las leyes.
 
@@ -217,7 +265,9 @@ Compete a las Secciones de la Sala Superior:
 
 I. Resolver los juicios en los casos siguientes:
 
-a) Los que traten las materias señaladas en el artículo 94 de la Ley de Comercio Exterior.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+a) Los que traten las materias señaladas en el artículo 94 de la Ley de Comercio Exterior, a excepción de los actos de aplicación de las cuotas compensatorias.
 
 b) En los que la resolución impugnada se encuentre fundada en un tratado o acuerdo internacional para evitar la doble tributación o en materia comercial, suscrito por México, o cuando el demandante haga valer como concepto de impugnación que no se hubiera aplicado en su favor alguno de los referidos tratados o acuerdos.
 
@@ -273,9 +323,11 @@ El Presidente del Tribunal en el caso de faltas temporales será suplido alterna
 
 El Presidente del Tribunal para el desempeño de las funciones que le corresponden, será auxiliado por la Oficialía Mayor, la Secretaría General de Acuerdos, la Contraloría Interna y las demás unidades administrativas que establezca el reglamento interior.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 26.
 
-Son atribuciones del Presidente del Tribunal Fiscal de la Federación:
+Son atribuciones del Presidente del Tribunal Federal de Justicia Fiscal y Administrativa:
 
 I. Representar al Tribunal ante toda clase de autoridades.
 
@@ -341,59 +393,33 @@ XXV. Supervisar la publicación de las jurisprudencias, tesis y precedentes del 
 
 El Tribunal tendrá Salas Regionales integradas por tres magistrados cada una. Para que pueda efectuar sesiones una Sala será indispensable la presencia de los tres magistrados y para resolver bastará mayoría de votos.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 28.
 
-El territorio nacional, para los efectos del artículo anterior, se divide en las siguientes regiones:
+Para los efectos del artículo anterior, el territorio nacional se dividirá en las regiones con los límites territoriales que determine la Sala Superior, conforme a las cargas de trabajo y los requerimientos de administración de justicia, mediante acuerdos que deberán publicarse en el Diario Oficial de la Federación.
 
-I. Del Noroeste, con jurisdicción en los Estados de Baja California, Baja California Sur, Sinaloa y Sonora.
-
-II. Del Norte-Centro, con jurisdicción en los Estados de Coahuila, Chihuahua, Durango y Zacatecas.
-
-III. Del Noreste, con jurisdicción en los Estados de Nuevo León y Tamaulipas.
-
-IV. De Occidente, con jurisdicción en los Estados de Aguascalientes, Colima, Jalisco y Nayarit.
-
-V. Del Centro, con jurisdicción en los Estados de Guanajuato, Michoacán, Querétaro y San Luis Potosí.
-
-VI. De Hidalgo-México, con jurisdicción en los Estados de Hidalgo y de México.
-
-VII. Del Golfo-Centro, con jurisdicción en los Estados de Tlaxcala, Puebla y Veracruz.
-
-VIII. De Guerrero, con jurisdicción en el Estado de Guerrero.
-
-IX. Del Sureste, con jurisdicción en los Estados de Chiapas y Oaxaca.
-
-X. Peninsular, con jurisdicción en los Estados de Campeche, Tabasco, Quintana Roo y Yucatán.
-
-XI. Metropolitana, con jurisdicción en el Distrito Federal y en el Estado de Morelos.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 29.
 
-En cada una de las regiones habrá el número de Salas que acuerde el Pleno de la Sala Superior, las cuales tendrán la sede que el mismo señale.
+En cada una de las regiones habrá el número de Salas que mediante acuerdo señale el Pleno de la Sala Superior, en donde se establecerá su sede, su circunscripción territorial, lo relativo a la distribución de expedientes y la fecha de inicio de funciones.
 
 ###### Artículo 30.
 
 Las Salas Regionales conocerán de los juicios que se señalan en el artículo 11 de esta Ley con excepción de los que corresponda resolver al Pleno o a las Secciones de la Sala Superior, de los cuales se encargarán de la instrucción.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 31.
 
-Las Salas Regionales conocerán de los juicios por razón del territorio respecto del lugar donde se encuentra el domicilio fiscal del demandante, excepto en los siguientes casos:
+Las Salas Regionales conocerán de los juicios por razón del territorio respecto del lugar donde se encuentra la sede de la autoridad demandada; si fueran varias las autoridades demandadas, donde se encuentre la que dictó la resolución impugnada. Cuando el demandado sea un particular, se atenderá a su domicilio.
 
-I. Se trate de empresas que formen parte del sistema financiero en los términos de la Ley del Impuesto sobre la Renta.
-
-II. Tengan el carácter de controladora o controlada en los términos de la Ley del Impuesto sobre la Renta y determinen su resultado fiscal consolidado.
-
-III. El demandante resida en el extranjero y no tenga domicilio fiscal en territorio nacional.
-
-IV. El demandante resida en México y no tenga domicilio fiscal.
-
-En los casos señalados en las tres primeras fracciones, será competente la Sala Regional dentro de cuya jurisdicción territorial se encuentre la sede de la autoridad que dictó la resolución impugnada. Tratándose de la fracción IV, se atenderá al domicilio del particular.
-
-Cuando la demandante sea una autoridad que promueva la nulidad de una resolución administrativa favorable a un particular, será competente la Sala Regional dentro de cuya jurisdicción se encuentre la sede de dicha autoridad.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 32.
 
-Cuando una ley otorgue competencia al Tribunal Fiscal de la Federación sin señalar el procedimiento o los alcances de la sentencia, se estará a lo que dispongan el Código Fiscal de la Federación y esta ley.
+Cuando una ley otorgue competencia al Tribunal Federal de Justicia Fiscal y Administrativa sin señalar el procedimiento o los alcances de la sentencia, se estará a lo que dispongan el Código Fiscal de la Federación y esta ley.
 
 ###### Artículo 33.
 
@@ -598,3 +624,21 @@ UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1997.
 D.O.F. 23 DE ENERO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 31 DE DICIEMBRE DE 2000.
+
+Disposiciones Transitorias de la Ley Orgánica del Tribunal Fiscal de la Federación
+
+Artículo Décimo Primero. En relación con las modificaciones a que se refiere el Artículo Décimo de este Decreto, se estará a lo siguiente:
+
+I. La reforma al artículo 28 de la Ley Orgánica del Tribunal Fiscal de la Federación, entrará en vigor el 1o. de febrero de 2001.
+
+II. Para los efectos del artículo 31 de la Ley Orgánica del Tribunal Fiscal de la Federación, las demandas presentadas antes del 1o. de enero de 2001, serán competencia de la Sala Regional que corresponda, de conformidad con el citado artículo 31, vigente hasta el 31 de diciembre de 2000.
+
+III. Se reforma la denominación del Tribunal Fiscal de la Federación por la de Tribunal Federal de Justicia Fiscal y Administrativa. En consecuencia, se reforma la Ley Orgánica del Tribunal Fiscal de la Federación tanto en su título como en sus disposiciones, así como en todas aquellas contenidas en el Código Fiscal de la Federación y en las demás leyes fiscales y administrativas federales, en las que se cite al Tribunal Fiscal de la Federación, para sustituir ese nombre por el de Tribunal Federal de Justicia Fiscal y Administrativa.
+
+## Transitorios
+
+Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
+
+Segundo. Las menciones hechas en el presente Decreto a las Secretarías cuyas denominaciones se modificaron por efectos del Decreto publicado en el Diario Oficial de la Federación el jueves 30 de noviembre de 2000, mediante el cual se reformó la Ley Orgánica de la Administración Pública Federal, se entenderán conforme a la denominación que para cada una se estableció en este último.
