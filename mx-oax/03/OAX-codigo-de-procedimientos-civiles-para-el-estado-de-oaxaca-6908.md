@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1961-11-11"
+last_updated: "1966-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 1961.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 1966.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -1095,9 +1095,11 @@ II. Cuando no se funde en alguna de las causas a que se refiere el artículo 161
 
 La recusación se interpondrá ante el juez o tribunal que conozca del negocio, expresándose con toda claridad y precisión la causa en que se funde.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1966)</small>
+
 ###### Artículo 177.
 
-La recusación debe decidirse sin audiencia de la parte contraria, y se tramita en forma de incidente. Las resoluciones que decidan éste, no admiten recurso alguno.
+La recusación debe decidirse con audiencia de las partes y se tramitará en forma de incidente. Las resoluciones que decidan éste no admite (sic) recurso alguno.
 
 ###### Artículo 178.
 
@@ -5702,3 +5704,7 @@ P.O. 11 DE NOVIEMBRE DE 1961.
 Primero.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- La substanciación de los negocios de jurisdicción contenciosa que estén pendientes al entrar en vigor el presente decreto, se sujetarán a las disposiciones anteriores al presente decreto hasta pronunciarse sentencia definitiva.
+
+P.O. 16 DE JULIO DE 1966.
+
+Unico.- La presente reforma a que se refiere el Artículo anterior entrará en vigor a partir de la fecha de la publicación del presente Decreto en el Periódico Oficial del Estado.
