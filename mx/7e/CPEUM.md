@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1977-12-06"
+last_updated: "1978-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ENERO DE 1978 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE DICIEMBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ENERO DE 1978.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1070,6 +1072,8 @@ XXVI.- Para conceder licencia al Presidente de la República y para constituirse
 
 XXVII.- Para aceptar la renuncia del cargo de Presidente de la República.
 
+(REUBICADA [N. DE E. ANTES FRACCION XXX], D.O.F. 20 DE AGOSTO DE 1928)
+
 XXVIII.- (DEROGADA, D.O.F. 6 DE DICIEMBRE DE 1977)
 
 > <small>(REFORMADA, D.O.F. 24 DE OCTUBRE DE 1942)</small>
@@ -1938,6 +1942,8 @@ Los Poderes de la Unión, tienen el deber de proteger a los Estados contra toda 
 
 DEL TRABAJO Y DE LA PREVISION SOCIAL.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ENERO DE 1978 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
 ###### Art. 123.
@@ -2008,7 +2014,17 @@ Se considera de utilidad social la expedición de una ley para la creación de u
 
 Las negociaciones a que se refiere el párrafo primero de esta fracción, situadas fuera de las poblaciones, están obligadas a establecer escuelas, enfermerías y demás servicios necesarios a la comunidad.
 
-XIII.- Además, en estos mismos centros de trabajo, cuando su población exceda de doscientos habitantes, deberá reservarse un espacio de terreno que no será menor de cinco mil metros cuadrados, para el establecimiento de mercados públicos, instalación de edificios destinados a los servicios municipales y centros recreativos. Queda prohibido en todo centro de trabajo el establecimiento de expendios de bebidas embriagantes y de casas de juego de azar.
+> <small>(ADICIONADO, D.O.F. 9 DE ENERO DE 1978)</small>
+
+Además, en esos mismos centros de trabajo, cuando su población exceda de dosicentos (sic) habitantes, deberá reservarse un espacio de terreno, que no será menor de cinco mil metros cuadrados, para el establecimiento de mercados públicos, instalación de edificios destinados a los servicios municipales y centros recreativos.
+
+> <small>(ADICIONADO, D.O.F. 9 DE ENERO DE 1978)</small>
+
+Queda prohibido en todo centro de trabajo, el establecimiento de expendios de bebidas embriagantes y de casas de juego de azar.
+
+> <small>(REFORMADA, D.O.F. 9 DE ENERO DE 1978)</small>
+
+XIII.- Las empresas, cualquiera que sea su actividad, estarán obligadas a proporcionar a sus trabajadores, capacitación o adiestramiento para el trabajo. La ley reglamentaria determinará los sistemas, métodos y procedimientos conforme a los cuales los patrones deberán cumplir con dicha obligación.
 
 XIV.- Los empresarios serán responsables de los accidentes del trabajo y de las enfermedades profesionales de los trabajadores, sufridas con motivo o en ejercicio de la profesión o trabajo que ejecuten; por lo tanto, los patronos deberán pagar la indemnización correspondiente, según que haya traído como consecuencia la muerte o simplemente incapacidad temporal o permanente para trabajar, de acuerdo con lo que las leyes determinen. Esta responsabilidad subsistirá aún en el caso de que el patrono contrate el trabajo por un intermediario.
 
@@ -2074,9 +2090,63 @@ XXIX.- Es de utilidad pública la Ley del Seguro Social, y ella comprenderá seg
 
 XXX.- Asimismo serán consideradas de utilidad social, las sociedades cooperativas para la construcción de casas baratas e higiénicas, destinadas a ser adquiridas en propiedad, por los trabajadores en plazos determinados.
 
-(ADICIONADA [N. DE E. REFORMADA], D.O.F. 6 DE FEBRERO DE 1975) (F. DE E., D.O.F. 17 DE MARZO DE 1975)
+> <small>(REFORMADA, D.O.F. 9 DE ENERO DE 1978)</small>
 
-XXXI.- La aplicación de las leyes de trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, pero es de la competencia exclusiva de las autoridades federales en asuntos relativos a la industria textil, eléctrica, cinematográfica, hulera, azucarera, minería, petroquímica, metalúrgica y siderúrgica, abarcando la explotación de los minerales básicos, el beneficio y la fundición de los mismos, así como la obtención de hierro metálico y acero a todas sus formas y ligas y los productos laminados de los mismos, hidrocarburos, cemento, industria automotriz, productos químico farmacéuticos y medicamentos, celulosa y papel, aceites y grasas vegetales, empacado y enlatado de alimentos, bebidas envasadas, ferrocarriles y empresas que sean administradas en forma directa o descentralizada por el gobierno federal; empresas que actúan en virtud de un contrato o concesión federal y las industrias que sean conexas; empresas que ejecuten trabajos en zonas federales y aguas territoriales; a conflictos que afecten a dos o mas entidades federativas; a contratos colectivos que hayan sido declarados obligatorios en más de una entidad federativa y, por último las obligaciones que en materia educativa corresponden a los patronos, en la forma y términos que fija la ley respectiva.
+XXXI.- La aplicación de las leyes del trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, pero es de la competencia exclusiva de las autoridades federales en los asuntos relativos a:
+
+a) Ramas industriales:
+
+1.- Textil;
+
+2.- Eléctrica;
+
+3.- Cinematográfica;
+
+4.- Hulera;
+
+5.- Azucarera;
+
+6.- Minera;
+
+7.- Metalúrgica y siderúrgica, abarcando la explotación de los minerales básicos, el beneficio y la fundición de los mismos, así como la obtención de hierro metálico y acero a todas sus formas y ligas y los productos laminados de los mismos;
+
+8.- De hidrocarburos;
+
+9.- Petroquímica;
+
+10.- Cementera;
+
+11.- Calera;
+
+12.- Automotriz, incluyendo autopartes mecánicas o eléctricas;
+
+13.- Química, incluyendo la química farmacéutica y medicamentos;
+
+14.- De celulosa y papel;
+
+15.- De aceites y grasas vegetales;
+
+16.- Productora de alimentos, abarcando exclusivamente la fabricación de los que sean empacados, enlatados o envasados o que se destinen a ello;
+
+17.- Elaboradora de bebidas que sean envasadas o enlatadas o que se destinen a ello;
+
+18.- Ferrocarrilera;
+
+19.- Madera básica, que comprende la producción de aserradero y la fabricación de triplay o aglutinados de madera;
+
+20.- Vidriera, exclusivamente por lo que toca a la fabricación de vidrio plano, liso o labrado, o de envases de vidrio; y
+
+21.- Tabacalera, que comprende el beneficio o fabricación de productos de tabaco;
+
+b) Empresas:
+
+1.- Aquéllas que sean administradas en forma directa o descentralizada por el Gobierno Federal;
+
+2.- Aquéllas que actúen en virtud de un contrato o concesión federal y las industrias que les sean conexas; y
+
+3.- Aquéllas que ejecuten trabajos en zonas federales o que se encuentren bajo jurisdicción federal, en las aguas territoriales o en las comprendidas en la zona económica exclusiva de la Nación.
+
+También será competencia exclusiva de las autoridades federales, la aplicación de las disposiciones de trabajo en los asuntos relativos a conflictos que afecten a dos o más Entidades Federativas; contratos colectivos que hayan sido declarados obligatorios en más de una Entidad Federativa; obligaciones patronales en materia educativa, en los términos de Ley; y respecto a las obligaciones de los patrones en materia de capacitación y adiestramiento de sus trabajadores, así como de seguridad e higiene en los centros de trabajo, para lo cual, las autoridades federales contarán con el auxilio de las estatales, cuando se trate de ramas o actividades de jurisdicción local, en los términos de la ley reglamentaria correspondiente.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
@@ -3063,3 +3133,21 @@ Dentro de los seis meses posteriores a la entrada en vigor del presente Decreto,
 ###### ARTICULO SEGUNDO.
 
 Las presentes adiciones y reformas entrarán en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 9 DE ENERO DE 1978.
+
+DECRETO ADICIONA LA FRACCION XII Y REFORMA LA FRACCION XIII, AMBAS DEL APARTADO "A" DEL ARTICULO 123.
+
+UNICO.- El Presente Decreto entrará en vigor al día siguiente del de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 9 DE ENERO DE 1978.
+
+DECRETO QUE REFORMA LA FRACCION XXXI, DEL APARTADO "A" DEL ARTICULO 123.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Los conflictos laborales que se hayan suscitado dentro de las ramas o en relación con las materias que se incorporen a la esfera exclusiva de la Federación y que se encuentren en trámite, continuarán siendo atendidos por las autoridades locales del trabajo, hasta la total terminación de los mismos.
