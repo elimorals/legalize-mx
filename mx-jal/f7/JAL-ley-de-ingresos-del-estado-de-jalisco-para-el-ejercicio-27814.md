@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-27814"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2002-12-24"
-last_updated: "2002-12-24"
+last_updated: "2003-08-19"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL DEL AÑO 2003
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2003.
 
 Ley publicada en el Periódico Oficial el martes 24 de Diciembre de 2003.
 
@@ -491,11 +491,11 @@ b) Expedición de permiso de manejo para menores de edad, hasta por seis meses d
 
 VIII. Por el servicio de curso, a petición de parte, para obtener licencia de manejo: $50.00
 
-IX. Otorgamiento de permisos, concesiones y autorizaciones provisionales, temporales o definitivos:
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2003)</small>
 
-a) Por el otorgamiento definitivo de permisos, concesiones y autorizaciones para prestar el servicio público de transporte en cualquiera de sus modalidades, así como la transmisión de los derechos que se origine de los mismos: $380.00
+IX. Otorgamiento de permisos provisionales o definitivos, autorizaciones y concesiones par (sic) explotar el servicio de transporte de pasajeros, mixto o de carga, ya sea foráneo, urbano y suburbano, incluyendo los vehículos del servicio subrogado o concesionado por el Estado, vehículos con características especiales, alquiler; de servicio exclusivo de turismo, de transporte escolar, transporte de materiales de construcción y transporte de grúas: $ 380.00
 
-b) Por el otorgamiento de permisos provisionales o temporales para la prestación del servicio público de transporte en cualquiera de sus modalidades y prórroga de los mismos, por cada día: $20.00
+Por la transmisión de derechos de los permisos, autorizaciones y concesiones de transporte, se cobrará una cantidad igual a la aplicable por el otorgamiento del permiso.
 
 X. Por la prórroga de permisos, concesiones y autorizaciones para prestar el servicio público de transporte en cualquiera de sus modalidades: $195.00
 
@@ -1016,3 +1016,9 @@ El Secretario General de Gobierno
 LIC. HÉCTOR PÉREZ PLAZOLA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE AGOSTO DE 2003.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
