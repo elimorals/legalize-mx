@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1948-01-09"
+last_updated: "1948-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ENERO DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1948.
 
-Ley publicada en la Segunda Sección del Diario Oficial de la Federación el lunes 19 de febrero de 1940.
+Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -2856,9 +2856,11 @@ Todos los aeródromos y aeropuertos estarán sujetos a la inspección de la Secr
 
 Para construir y explotar aeródromos o aeropuertos destinados al servicio público, se requerirá concesión otorgada por la Secretaría de Comunicaciones, la que no podrá exceder del término de veinte años. La Secretaría de Comunicaciones para el establecimiento de aeropuertos en el territorio nacional, tendrá presente lo prevenido en los artículos 3 y 8 de esta Ley e informará trimestralmente a la de la Defensa Nacional de los aeródromos que se construyan. La construcción y administración de aeropuertos para el acuatizaje, queda reservada a la misma Secretaría de Comunicaciones la que sólo en casos excepcionales autorizará a particulares para construirlos y explotarlos por un término que nunca excederá de cinco años.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1948)</small>
+
 ###### ARTICULO 363.
 
-Los aeropuertos y aeródromos que no sean oficiales, podrán establecer cuotas de aterrizaje y de servicio, de acuerdo con las tarifas aprobadas previamente por la Secretaría de Comunicaciones.
+Los aeropuertos y aeródromos construídos por el Gobierno Federal para usos civiles y los que operan al amparo de concesión otorgada en los términos de esta Ley, deberán estar abiertos al servicio público, cobrando los aterrizajes y servicios de acuerdo con las cuotas que previamente se aprueben por la Secretaría de Comunicaciones.
 
 ###### ARTICULO 364.
 
@@ -4299,6 +4301,10 @@ Satisfechos estos requisitos, los permisionarios tendrán derecho a que se les o
 6º.- Las personas que al entrar en vigor esta Ley estuvieren tramitando solicitudes de permisos para la explotación de servicios públicos de autotransporte en los caminos de jurisdicción federal, quedarán sujetos al régimen y condiciones establecidos en la misma.
 
 7º.- Entretanto se elabora el Reglamento de esta Ley, la Secretaría de Comunicaciones y Obras Públicas queda facultada para fijar, por acuerdos, las normas de aplicación de los preceptos contenidos en este Capítulo.
+
+D.O.F. 31 DE DICIEMBRE DE 1948.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 ###### ARTICULO 3.
 
