@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1975-12-22"
+last_updated: "1975-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1975.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -374,6 +374,10 @@ En las poblaciones en que no haya Juez del Registro Civil, el niño será presen
 El acta de nacimiento se extenderá con asistencia de dos testigos que pueden ser designados por las partes interesadas. Contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y apellido que se le ponga, sin que por motivo alguno puedan omitirse, y la razón de si se ha presentado vivo a (sic) muerto. Se tomará al margen del acta la impresión digital del presentado.
 
 Si éste se presenta como hijo de padres desconocidos, el Juez del Registro le pondrá nombre y apellido, haciéndose constar esta circunstancia en el acta.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+
+En los supuestos de los artículos 60 y 77 de este Código, el Juez del Registro Civil pondrá el apellido paterno de los progenitores; o los dos apellidos de quien efectúe el reconocimiento.
 
 ###### ARTICULO 59.
 
@@ -2295,9 +2299,13 @@ Si los padres hubieren fallecido durante la menor edad de los hijos, tienen ést
 
 El hijo reconocido por el padre, por la madre, o por ambos, tiene derecho:
 
-I.- A llevar el apellido del que lo reconoce;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
 
-II.- A ser alimentado por éste;
+I.- A llevar el apellido paterno de sus progenitores, o ambos apellidos del que lo reconozca;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+
+II.- A ser alimentado por las personas que lo reconozcan;
 
 III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
@@ -12096,3 +12104,7 @@ UNICO.- El presente Decreto entrará en vigor sesenta días después de su publi
 D.O.F. 22 DE DICIEMBRE DE 1975.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1975.
+
+UNICO.- El presente Decreto entrará en vigor a los treinta días de su publicación en el "Diario Oficial" de la Federación.
