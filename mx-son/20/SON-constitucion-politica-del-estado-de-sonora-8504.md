@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1942-06-24"
+last_updated: "1943-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE JUNIO DE 1942.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE FEBRERO DE 1943.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -273,11 +273,11 @@ El ejercicio del Poder Legislativo del Estado se depositará en una Asamblea de 
 
 Elección de Diputados.
 
-> <small>(REFORMADO, B.O. 29 DE ABRIL DE 1939)</small>
+> <small>(REFORMADO, B.O. 24 DE FEBRERO DE 1943)</small>
 
 ###### Artículo 30.
 
-Los Diputados al Congreso del Estado serán electos en su totalidad cada dos años.
+Los Diputados al Congreso del Estado serán electos en su totalidad cada tres años.
 
 > <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 1928)</small>
 
@@ -703,11 +703,13 @@ IX. No estar en servicio activo en el Ejército Nacional cuando menos seis meses
 
 Las funciones de Gobernador son incompatibles con cualquier cargo o empleo de la Federación o del Estado.
 
-> <small>(REFORMADO, B.O. 5 DE OCTUBRE DE 1932)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE FEBRERO DE 1943)</small>
 
 ###### Artículo 72.
 
-El ciudadano designado en elección popular para ocupar el puesto de Gobernador del Estado entrará a ejercer su encargo el primero de septiembre, durando en él cuatro años, y no podrá en el resto de su vida volver a ser electo para el mismo puesto ni desempeñarlo provisional o interinamente.
+El Ciudadano designado en elección popular para ocupar el puesto de Gobernador del Estado entrará a ejercer su encargo el primero de septiembre, durando en él seis años y no podrá en el resto de su vida volver a ser electo para el mismo puesto ni desempeñarlo provisional o interinamente.
+
+> <small>(REFORMADO, B.O. 5 DE OCTUBRE DE 1932)</small>
 
 Tampoco podrá en el resto de su vida ser electo ni desempeñar provisional o interinamente el puesto del Gobernador del Estado el ciudadano que resulte designado en elección extraordinaria a que convoque el Congreso para suplir la falta absoluta de Gobernador que ocurra conforme a lo prevenido en el artículo 73 o párrafo primero del Artículo 74 de esta Constitución.
 
@@ -1203,11 +1205,11 @@ Cada Municipio será administrado por un Ayuntamiento nombrado en elección popu
 
 Los Municipios tendrán personalidad jurídica para todos los efectos legales.
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1923)</small>
+> <small>(REFORMADO, B.O. 24 DE FEBRERO DE 1943)</small>
 
 ###### Artículo 131.
 
-Los miembros de los Ayuntamientos durarán, en su cargo dos años y comenzarán a funcionar el 16 de septiembre.
+Los miembros de los Ayuntamientos durarán en su encargo tres años y comenzarán a funcionar el 16 de Septiembre.
 
 > <small>(REFORMADO, B.O. 5 DE OCTUBRE DE 1932)</small>
 
@@ -1313,13 +1315,13 @@ Cuando en los inmuebles, establecimientos, o centros de trabajo se realicen acto
 
 Las Comisarías serán administradas por funcionarios que se denominarán "Comisarios de Policía".
 
-> <small>(REFORMADO, B.O. 19 DE ABRIL DE 1924)</small>
+> <small>(REFORMADO, B.O. 24 DE FEBRERO DE 1943)</small>
 
 ### CAPÍTULO XIII. DE LOS INSTRUMENTOS FINANCIEROS DE GESTIÓN DE RIESGOS
 
 ###### Artículo 139.
 
-Los Comisarios de Policía serán nombrados cada dos años en elección popular directa que calificará el Ayuntamiento de que dependan y que en caso de petición de nulidad resolverá definitivamente el Congreso. Los Comisarios no pueden ser reelectos en el período siguiente, entrando a ejercer su encargo el 16 de septiembre del año de la elección.
+Los Comisarios de Policía serán nombrados cada tres años en elección popular directa que calificará el Ayuntamiento de que dependan y que en caso de petición de nulidad resolverá definitivamente el Congreso. Los Comisarios no pueden ser reelectos en el período siguiente, entrando de ejercer su encargo el 16 de Sepbre. del año de la elección.
 
 ### CAPITULO XIV. DE LA TRANSFERENCIA Y REDUCCIÓN DE RIESGOS
 
@@ -1547,7 +1549,7 @@ B.O. 19 DE ABRIL DE 1924.
 
 Primeros (sic).- Los Comisarios de Policía y los Ayuntamientos que resulten electos el último domingo de abril de 1924, durarán en funciones hasta el 15 de septiembre de 1925, y en los períodos siguientes tendrán la duración que señala la Constitución Política Local.
 
-Segundo.- Sométanse las reformas que anteceden a la aprobación de los H. H. Ayuntamientos del Estado para los efectos legales correspondientes.
+Segundo.- Sométanse las reformas que anteceden a la aprobación de los H H. Ayuntamientos del Estado para los efectos legales correspondientes.
 
 Tercero.- Esta Ley entrará en vigor cuando sea aprobada por la mayoría de los H. H. Ayuntamientos del Estado y previa publicación en el Boletín Oficial.
 
@@ -1610,6 +1612,10 @@ B.O. 15 DE ENERO DE 1941.
 UNICO.- Esta Ley entrará en vigor a partir del día 14 del mes actual, previa su publicación en el Boletín Oficial del Estado.
 
 B.O. 24 DE JUNIO DE 1942.
+
+UNICO.- Esta Ley entrará en vigor a partir de su publicación en el Boletín Oficial del Estado.
+
+B.O. 24 DE FEBRERO DE 1943.
 
 UNICO.- Esta Ley entrará en vigor a partir de su publicación en el Boletín Oficial del Estado.
 
