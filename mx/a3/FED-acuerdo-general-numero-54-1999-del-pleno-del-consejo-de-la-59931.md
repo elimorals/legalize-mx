@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-54-1999-del-pleno-del-consejo-de-la-5993
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-11-22"
-last_updated: "1999-11-22"
+last_updated: "2003-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59931&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1999-11-10"
 
 ACUERDO GENERAL NUMERO 54/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL ARTICULO 22 DEL DIVERSO ACUERDO GENERAL 44/1998, MEDIANTE EL CUAL SE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DE LA VISITADURIA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO GENERAL 28/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 6 DE JUNIO DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 22 de noviembre de 1999.
 
@@ -76,3 +78,19 @@ PRIMERO.- Este acuerdo entrará en vigor a partir del primer día hábil de ener
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMÉNEZ, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General Número 54/1999, que modifica el artículo 22 del diverso Acuerdo General 44/1998, mediante el cual se regula la organización y funcionamiento de la Visitaduría Judicial del Consejo de la Judicatura Federal, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de diez de noviembre de mil novecientos noventa y nueve, por unanimidad de votos de los señores consejeros: presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Álvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a once de noviembre de mil novecientos noventa y nueve.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 6 DE JUNIO DE 2003.
+
+PRIMERO.- El presente acuerdo general entrará en vigor el uno de julio de dos mil tres.
+
+SEGUNDO.- Las visitas de inspección programadas para el segundo semestre del año dos mil tres, serán practicadas por los visitadores judiciales "B", de acuerdo al calendario aprobado por el Pleno. Las visitas serán reasignadas a los visitadores judiciales "B" por el Visitador General.
+
+TERCERO.- Se determina que el treinta de junio de dos mil tres cesarán en sus funciones los actuales visitadores judiciales y se reincorporarán a sus respectivas adscripciones; en caso de no tener alguna, la Comisión de Adscripción propondrá la correspondiente al Pleno. El día uno de julio del mismo año comenzarán a laborar los visitadores judiciales "B".
+
+CUARTO.- Con motivo de la reestructuración de la Visitaduría Judicial, los nombramientos del personal de confianza adscrito a los actuales visitadores y al Visitador General surtirán efectos hasta el treinta de junio de dos mil tres. Todos los nombramientos del personal de base y aquellos nombramientos del personal de os visitadores judiciales "A" continuarán surtiendo efectos.
+
+QUINTO.- Se abrogan los Acuerdos Generales 44/1998 y 54/1999, y se deroga cualquier otro acuerdo, disposición o circular emitidos por el Consejo de la Judicatura Federal, que se oponga a las disposiciones de este acuerdo general.
+
+SEXTO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
