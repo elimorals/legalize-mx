@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-6947"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-12-01"
-last_updated: "2003-12-27"
+last_updated: "2004-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6947&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el 1° de diciembre de 1992.
 
@@ -79,9 +79,11 @@ Los Titulares de las Dependencias y Entidades de la Administración Pública, se
 
 Los Titulares de las Dependencias y Entidades tienen la obligación de coordinar sus acciones entre sí, cuando el desempeño de sus funciones lo requiera.
 
-###### ARTICULO 10.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
 
-Las Dependencias y Entidades de la Administración Pública, deberán conducir sus actividades con base en las Políticas y Estrategias definidas para el cumplimiento de los objetivos y metas del Plan Estatal de Desarrollo, acatando los términos de los Programas y asignación de recursos autorizados en el Presupuesto de Egresos.
+###### ARTÍCULO 10.
+
+Las dependencias y entidades de la Administración Pública, deberán conducir sus actividades con base en las políticas y estrategias definidas para el cumplimiento de los objetivos y metas del Plan Estatal de Desarrollo, acatando los términos de los programas y asignación de recursos autorizados en el Presupuesto de Egresos, teniendo presente los principios de equidad y género.
 
 ###### ARTICULO 11.
 
@@ -177,15 +179,15 @@ Para la adecuada atención de los asuntos en materia educativa, el Ejecutivo Est
 
 El Gobernador del Estado dispondrá, además del apoyo de las siguientes oficinas auxiliares:
 
-I DELEGACIONES REGIONALES DE GOBIERNO
+I. DELEGACIONES REGIONALES DE GOBIERNO
 
-II DIRECCION DE COMUNICACION SOCIAL
+II. DIRECCION DE COMUNICACION SOCIAL
 
-III DIRECCION DE RELACIONES PUBLICAS
+III. DIRECCION DE RELACIONES PUBLICAS
 
-IV REPRESENTACION DEL GOBIERNO DEL ESTADO EN EL DISTRITO FEDERAL
+IV. REPRESENTACION DEL GOBIERNO DEL ESTADO EN EL DISTRITO FEDERAL
 
-V LAS DEMAS UNIDADES DE ASESORIA, DE APOYO TECNICO Y DE COORDINACION QUE EL EJECUTIVO DETERMINE, DE ACUERDO CON EL PRESUPUESTO ASIGNADO A LA GUBERNATURA
+V. LAS DEMAS UNIDADES DE ASESORIA, DE APOYO TECNICO Y DE COORDINACION QUE EL EJECUTIVO DETERMINE, DE ACUERDO CON EL PRESUPUESTO ASIGNADO A LA GUBERNATURA
 
 ### CAPITULO III
 
@@ -345,7 +347,13 @@ XX.- Proponer al Ejecutivo el Nombramiento de los Agentes del Ministerio Públic
 
 XXI.- Imponer al personal de la Procuraduría y al de la Policía Judicial las Sanciones disciplinarias a que den lugar por faltas cometidas en el desempeño de sus funciones.
 
-XXII.- Los demás que le señalen las Leyes, Decretos y Reglamentos.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+XXII.- Establecer y operar el sistema de atención a víctimas y ofendidos por los delitos;
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+XXIII.- Los demás que le señalen las leyes, decretos y reglamentos.
 
 ###### ARTICULO 22.
 
@@ -353,9 +361,15 @@ A la Secretaría de Finanzas corresponde el despacho de los siguientes asuntos:
 
 I.- Diseñar y Ejecutar las Políticas de Ingresos y Egresos Estatales, compatibilizando, estos, con los requerimientos del Gasto Público y procurando un sano equilibrio financiero.
 
-II.- Formular y Coordinar el Programa Estatal de Financiamiento para el Desarrollo.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+II.- Formular y coordinar el Programa Estatal de Financiamiento para el Desarrollo, con base en los principios de eficiencia, honestidad, equidad de género y sentido social;
 
 III.- Formular los Proyectos Anuales de Ley de Ingresos y el Decreto de Presupuesto de Egresos, en los tiempos y forma que permitan al Gobernador del Estado, cumplir su responsabilidad Constitucional de presentar las iniciativas correspondientes ante el Congreso Local en los primeros cinco días del mes de Diciembre.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+Los lineamientos del manual para la programación-presupuestación serán emitidos de acuerdo con los principios de igualdad de oportunidades para ambos géneros, honestidad y sentido social, y servirá de base a las dependencias y entidades para la incorporación de la perspectiva de género en la elaboración de sus anteproyectos de presupuesto de egresos conforme lo determina la Ley de Presupuesto, Gasto Público y su Contabilidad.
 
 IV.- Recaudar los Impuestos, Productos, Derechos y Aprovechamientos, así como hacer cumplir las Disposiciones Fiscales.
 
@@ -439,13 +453,19 @@ III.- Formular los Objetivos, Políticas, Procedimientos y Mecanismos de Adminis
 
 IV.- Normar y dirigir la Administración de Sueldos y Salarios de los trabajadores al servicio del Gobierno del Estado.
 
-V.- Brindar seguridad y servicios sociales a los trabajadores al servicio del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+V.- Brindar seguridad y servicios sociales a las trabajadoras y trabajadores al servicio del Gobierno del Estado, atendiendo al principio de equidad de género;
 
 VI.- Tramitar los Nombramientos, Remociones, Renuncias, Licencias y Jubilaciones de los trabajadores de la Administración pública.
 
-VII.- Mantener al corriente el escalafón de los trabajadores de la Administración Pública.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
 
-VIII.- Contratar los Servicios Personales necesarios para el funcionamiento de la Administración Pública Centralizada, en los términos del Presupuesto de Egresos Autorizado.
+VII.- Mantener al corriente el escalafón de los trabajadores de la Administración Pública, con observancia del principio de igualdad de oportunidades para ambos géneros;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+VIII.- Contratar los servicios personales necesarios para el funcionamiento de la Administración Pública Centralizada, en los términos del Presupuesto de Egresos autorizado, teniendo presente el principio de equidad de género;
 
 IX.- Emitir las normas y disposiciones de la Administración Pública, para la adquisición, arrendamiento o enajenación de bienes y servicios.
 
@@ -555,13 +575,19 @@ A la Secretaría de Desarrollo Industrial y Comercial corresponde el despacho de
 
 I.- Planear, regular, fomentar y promover el Desarrollo Industrial y Comercial del Estado de Oaxaca, atendiendo las actividades productivas en materia de Industria, Comercio, Minería, Pesca y Artesanías, propiciando la creación de empleos.
 
-II.- Formular los Programas de Desarrollo Industrial y Comercial y de Desarrollo Regional que correspondan al ámbito de sus atribuciones, en el marco de los objetivos y metas del Plan Estatal de Desarrollo.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
 
-III.- Proponer Programas para el Financiamiento, Infraestructura, Desarrollo y Modernización de las actividades productivas en materia de Industria, Comercio, Minería, Pesca y Artesanías.
+II.- Formular los programas de desarrollo industrial y comercial y de desarrollo regional que correspondan al ámbito de sus atribuciones, en el marco de los objetivos y metas del Plan Estatal de Desarrollo, atendiendo a los principios de equidad de género.
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+III.- Proponer programas para el financiamiento, infraestructura, desarrollo y modernización de las actividades productivas en materia de industria, comercio, minería, pesca y artesanías, garantizando la participación equitativa de las mujeres;
 
 IV.- Participar en la formulación y ejecución de los Convenios que en materia de Industria, Comercio, Minería, Pesca y Artesanías celebre el Gobierno del Estado con la federación, Entidades Federativas o con los Ayuntamientos.
 
-V.- Promover, fomentar, orientar y estimular el establecimiento y desarrollo de la pequeña y mediana industria en el Estado.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+V.- Promover, fomentar, orientar y estimular el establecimiento y desarrollo de la pequeña y mediana industria en el Estado, garantizando la participación equitativa de las mujeres.
 
 VI.- Promover la realización de Ferias, Exposiciones y Congresos Industriales y Comerciales.
 
@@ -579,7 +605,9 @@ XII.- Establecer, promover y concertar acciones dirigidas a garantizar el desarr
 
 XIII.- Integrar y mantener actualizados el inventario Estatal de Proyectos Productivos y el Padrón de Empresas establecidas en el Estado.
 
-XIV.- Promover y apoyar la capacitación y formación de los recursos humanos, que en materia de Industria, Comercio, Minería, Pesca y Artesanías, requiera el Desarrollo del Estado.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+XIV.- Promover y apoyar la capacitación y formación de los recursos humanos.
 
 XV.- Realizar programas de promoción y fomento que tengan como propósito incrementar la productividad y la calidad de los productos, así como el impulso de las exportaciones.
 
@@ -607,7 +635,9 @@ VI.- Vigilar en coordinación con las Autoridades Municipales, la correcta aplic
 
 VII.- Estimular la formación de Asociaciones, Comités o Patronatos de Carácter Público, Privado o Mixto cuyo propósito sea el Desarrollo Turístico del Estado.
 
-VIII.- Otorgar o revocar concesiones para la explotación de los recursos Turísticos del Estado.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+VIII.- Otorgar o revocar concesiones para la explotación de los recursos turísticos del Estado, garantizando el principio de equidad de género;
 
 IX.- Orientar y estimular medidas de protección al Turismo y vigilar su cumplimiento en coordinación con las Autoridades Federales y Municipales.
 
@@ -637,21 +667,31 @@ III.- Estudiar, proponer y participar en las medidas de mejoramiento que requier
 
 IV.- Promover ante el Ejecutivo del Estado, la aprobación y aplicación de las medidas de mejoramiento, desarrollo, bienestar y defensa de los pueblos y comunidades indígenas del Estado;
 
-V.- Formular los programas de desarrollo coordinadamente con los pueblos y comunidades indígenas para la defensa de sus recursos naturales, conocimiento y preservación de sus sistemas normativos consuetudinarios, protección de las mujeres y niños indígenas, en congruencia con el Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
 
-VI.- Organizar, dirigir y controlar la asistencia jurídica de personas que carezcan de defensor, así como la procuración jurídica de indígenas y los pueblos y comunidades indígenas;
+V.- Formular los programas de desarrollo coordinadamente con los pueblos y comunidades indígenas para la defensa de sus recursos naturales, conocimiento y preservación de sus sistemas normativos consuetudinarios, la tutela de los derechos de las mujeres, niñas y niños indígenas, en congruencia con el Plan Estatal de Desarrollo, incorporando la perspectiva de género en la formulación de estos programas;
 
-VII.- Intervenir en la realización de las medidas aprobadas para el mejoramiento de los pueblos y comunidades indígenas, coordinando la acción de los órganos gubernamentales competentes;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+VI.- Coordinar los servicios jurídicos de asistencia, asesoría, representación, patrocinio y coadyuvancia, dirigidos a pueblos y comunidades indígenas que lo requieran, en juicios de toda índole dando prioridad a las mujeres, las niñas y los niños;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+VII.- Intervenir en la ejecución de las medidas aprobadas para el mejoramiento de los pueblos y comunidades indígenas, coordinando la acción de los órganos gubernamentales competentes;
 
 VIII.- Fungir como órgano consultivo de las instituciones oficiales y privadas en las materias que, conforme a la presente Ley son de su competencia;
 
-IX.- Difundir, cuando lo estime conveniente y por los medios adecuados, los resultados de sus investigaciones, estudios, promociones y trabajos públicos;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+IX.- Difundir, cuando lo estimen conveniente y por los medios adecuados, los resultados de sus investigaciones, estudios, promociones y trabajos públicos. Cuando estas actividades involucren a las mujeres, la aprobación de las interesadas será requisito indispensable para efectos de difusión;
 
 X.- Emprender las obras de mejoramiento de los pueblos y comunidades indígenas que le encomiende el Ejecutivo, en coordinación con las dependencias estatales y federales que actúen en la materia;
 
 XI.- Participar conjunta y coordinadamente con las dependencias estatales y federales competentes en la conciliación de los conflictos de límites comunales, ejidales, pequeña propiedad o municipales en donde exista interés de pueblos y comunidades indígenas;
 
-XII.- Promover la preservación del acervo cultural de las etnias y el desarrollo de las formas consuetudinarias de organización social y económica de las comunidades indígenas del Estado, en cumplimiento a las disposiciones de la Ley de Derechos de los Pueblos y Comunidades Indígenas del Estado; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+XII.- Promover la preservación del acervo cultural de las etnias y el desarrollo de las formas consuetudinarias de organización social y económica de las comunidades indígenas del Estado, en cumplimiento a las disposiciones de la Ley de Derecho de los Pueblos y Comunidades Indígenas del Estado, garantizando el principio de equidad de género y especialmente el respeto de los derechos humanos de las mujeres y el interés superior de la infancia; y
 
 XIII.- Las demás que le encomiende expresamente el Titular del Poder Ejecutivo Estatal y que le señalen Leyes, Decretos y Reglamentos.
 
@@ -673,7 +713,9 @@ VI.- Promover y asesorar la celebración de Convenios o Contratos por parte de l
 
 VII.- Realizar los Estudios que permitan desarrollar Programas de Forestación y Reforestación en las Zonas Boscosas de la Entidad.
 
-VIII.- Asesorar y Organizar Técnicamente a los Ejidos, Comunidades y pequeños propietarios para el óptimo aprovechamiento de los recursos Forestales.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+VIII.- Asesorar y organizar, técnicamente a los ejidos, comunidades, y pequeños propietarios para el óptimo aprovechamiento de los recursos forestales, teniendo presentes los principios de equidad de género.
 
 IX.- Promover la investigación Agrícola, Ganadera y Forestal estableciendo para ello Laboratorios de Patología Animal, Experimentales, Postas de Producción, Centros de Desarrollo Genético, Campos Experimentales, Lotes Demostrativos, Semilleros y Viveros.
 
@@ -681,19 +723,27 @@ X.- Promover y organizar Congresos, Seminarios y otros eventos similares que pro
 
 XI.- Controlar el movimiento interno del Ganado y de los productos forestales, llevar estadísticas de la producción y tasas de extracción y dictar las Políticas de Inspección Ganadera y Forestal.
 
-XII.- Elaborar y ejecutar los Programas de organización, capacitación y asistencia técnica a los productores del medio rural en el Estado.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+XII.- Elaborar y ejecutar los programas de organización, capacitación y asistencia técnica dirigidos a los productores del medio rural en el Estado, cuidando que sus contenidos garanticen la igualdad de oportunidades para ambos sexos;
 
 XIII.- Proponer la ejecución de aquellas obras de infraestructura que se requieran para el desarrollo Agrícola, Ganadero y Forestal.
 
 XIV.- Coordinar y supervisar Programas de construcción de obras de pequeña irrigación, bordos, canales, abrevaderos y otras obras de infraestructura hidroagrícola, ganadera y forestal; así como promover su conservación en coordinación con Instituciones Públicas y con los particulares.
 
-XV.- Asesorar a las diversas comunidades respecto de la adquisición de insumos, maquinaria y equipo, procurando promover el máximo abatimiento de los costos.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
 
-XVI.- Apoyar a los productores en la obtención y distribución oportuna de insumos, para prevenir plagas y enfermedades.
+XV.- Proporcionar asesoría en igualdad de condiciones para ambos sexos, a los integrantes de las diversas comunidades respecto de la adquisición de insumos, maquinaria y equipo, procurando promover al máximo abatimiento de los costos;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+XVI.- Apoyar a los productores en la obtención y distribución oportuna de insumos, para prevenir plagas y enfermedades, debiendo ser este apoyo equitativo, tanto para hombres como para mujeres;
 
 XVII.- Promover y apoyar la ejecución de Programas para el combate y prevención de plagas.
 
-XVIII.- Fomentar, Organizar, Asesorar y Supervisar a las Comunidades para el establecimiento de Agroindustrias.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+XVIII.- Fomentar, organizar, asesorar y supervisar a las comunidades para el establecimiento de agroindustrias; garantizando en todas las actividades, la igualdad de oportunidades para ambos géneros;
 
 XIX.- Evaluar técnica y administrativamente la ejecución de Programas y Proyectos de Fomento y Desarrollo Agroindustrial.
 
@@ -743,7 +793,9 @@ I.- Planear, regular y realizar actividades en materia de Asentamientos Humanos,
 
 II.- Formular y Ejecutar Programas de regulación de los Asentamientos Humanos en el Estado, en coordinación con las Instituciones Públicas y Privadas competentes.
 
-III.- Coordinar la elaboración de los Planes de Ordenación y regulación de los Asentamientos Humanos en el Estado y promover la observancia y permanente actualización.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+III.- Coordinar la elaboración de los planes de ordenación y regulación de los asentamientos humanos en el Estado y promover la observancia y permanente actualización, garantizando que sus contenidos incluyan mecanismos que aseguren a las mujeres sus derechos de propiedad o posesión;
 
 IV.- Elaborar proyectos y planos urbanísticos en coordinación con los Ayuntamientos, relativos al desarrollo de los Centros de Población en la Entidad y establecer y regular la reserva territorial.
 
@@ -751,11 +803,15 @@ V.- Promover y vigilar el equilibrado desarrollo de los Asentamientos Humanos en
 
 VI.- Celebrar convenios con los particulares, respecto de las afectaciones que sufran sus predios con motivo de la ejecución de obras urbanas del Gobierno del Estado.
 
-VII.- Formular los proyectos y fijar las normas a que deben sujetarse los Programas de Vivienda Popular, coordinándose con los Organismos Públicos o Privados competentes.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+VII.- Formular los proyectos y fijar las normas a que deben sujetarse los programas de vivienda popular, coordinándose con los organismos públicos o privados competentes, e incorporando la perspectiva de género en la formulación de los proyectos, tomando en cuenta la participación equitativa de las mujeres;
 
 VIII.- Formular y realizar Programas que estimulen la construcción de Viviendas, mediante la obtención de estímulos financieros, fiscales y administrativos.
 
-IX.- Promover y fomentar el incremento de mecanismos de financiamiento destinados a la edificación, mejoramiento y rehabilitación de Vivienda.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+IX.- Promover y fomentar el incremento de mecanismos de financiamiento destinados a la edificación, mejoramiento y rehabilitación de vivienda, garantizando el acceso equitativo de las mujeres en igualdad de condiciones que los hombres.
 
 X.- Construir, conservar o modificar los bienes inmuebles destinados al servicio Público Estatal, en los términos de los objetivos, metas y previsiones del presupuesto de Egresos.
 
@@ -793,21 +849,33 @@ A la Secretaría de Salud corresponde el despacho de los siguientes asuntos:
 
 I.- Planear, coordinar y evaluar el Sistema Estatal de Salud de conformidad con el Plan Estatal de Desarrollo, las disposiciones legales en la materia y propiciando la participación de los Sectores Social y Privado.
 
-II.- Proporcionar servicios de salud a toda la población del Estado, en coordinación con las Autoridades Federales y Municipales competentes y en los términos del marco Jurídico relativo.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
 
-III.- Realizar Programas de atención médica, preferentemente en beneficio de grupos vulnerables, así como los que se relacionen con la atención materno-infantil.
+II.- Proporcionar servicios de salud a toda la población del Estado, en coordinación con las autoridades federales y municipales competentes, en los términos del marco jurídico relativo y en condiciones de calidad y calidez, atendiendo las necesidades particulares de mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+III.- Realizar programas de atención médica, preferentemente en beneficio de grupos vulnerables y en situación de desventaja. Así como los que se relacionen con los derechos reproductivos y la salud sexual de las mujeres, la atención materno-infantil y la responsabilidad paterna;
 
 IV.- Participar en la formulación y ejecución de los Convenios, que en materia de Salud, celebre el Gobierno del Estado con la Federación o con los Ayuntamientos.
 
-V.- Promover la capacitación y desarrollo de los recursos humanos para la Salud.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
 
-VI.- Mantener actualizado el diagnóstico de Salud en la Entidad.
+V.- Promover la capacitación y desarrollo de los recursos humanos para la salud, incorporando la perspectiva de género en el diseño y promoción de éstos, garantizado la igualdad de oportunidades para ambos sexos;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+VI.- Mantener actualizado el diagnóstico de salud en la entidad, estableciendo y coordinando el sistema de información en el Estado y supervisando que sea elaborado con base en estadísticas desagregadas por sexo, grupos de edad y tipo de localidad;
 
 VII.- Colaborar al bienestar social de la población del Estado, mediante servicios de Asistencia Social.
 
-VIII.- Impulsar el Desarrollo Integral de la Familia.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
 
-IX.- Promover y Participar en las actividades de investigación para la Salud.
+VIII.- Impulsar el desarrollo integral de la familia, considerando los distintos modelos existentes en nuestro Estado, mediante acciones basadas en el respeto irrestricto de los derechos humanos de sus integrantes;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+IX.- Promover y participar en las actividades de investigación de la salud, dando oportunidad al desarrollo de aquellas que se ocupen de problemáticas de salud sexual y salud reproductiva de las mujeres, poniendo énfasis en las adolescentes;
 
 X.- Adecuar y difundir las normas y procedimientos técnicos para la ejecución de Programas en materia asistencial y los de enseñanza, investigación y educación para la Salud.
 
@@ -815,7 +883,9 @@ XI.- Controlar el ejercicio privado de la medicina y profesiones afines y promov
 
 XII.- Supervisar las actividades que se realizan en los niveles jurisdiccionales y operativo para evaluar el cumplimiento de los programas de atención médica.
 
-XIII.- Organizar y fomentar la prestación de servicios de Planificación Familiar.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+XIII.- Organizar y fomentar la prestación de servicios de planificación familiar con respeto absoluto de los derechos humanos de las mujeres e incorporando a los hombres;
 
 XIV.- Ejecutar la dictaminación sanitaria en el Estado.
 
@@ -827,7 +897,9 @@ XVII.- Tramitar y ejecutar lo relativo a regulación sanitaria de importaciones 
 
 XVlll.- Vigilar y fomentar la regulación sanitaria de la publicidad.
 
-XIX.- Apoyar y supervisar el ejercicio de la Medicina Tradicional.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+XIX.- Apoyar y supervisar el ejercicio de la medicina tradicional, fomentando la cooperación interinstitucional para apoyo y financiamiento de programas;
 
 XX.- Los demás que le señalen las Leyes, Decretos y Reglamentos.
 
@@ -907,7 +979,9 @@ El Comité Estatal de Planeación para el Desarrollo de Oaxaca es un organismo P
 
 Además de la organización y funciones que le confiere la Ley que determina su creación, la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, tendrá a su cargo el despacho de los siguientes asuntos:
 
-I.- Coordinar las actividades de Planeación para el Desarrollo de Oaxaca y formular el Plan Estatal de Desarrollo con la participación de los grupos sociales interesados.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+I.- Coordinar las actividades de planeación para el desarrollo de Oaxaca y formular el Plan Estatal de Desarrollo con la participación de los grupos sociales interesados, incorporando la perspectiva de género, con base en los principios de equidad, justicia, transparencia y honestidad;
 
 II.- Integrar el Convenio de Desarrollo Social, así como Supervisar y Evaluar su Ejecución.
 
@@ -915,7 +989,9 @@ III.- Programar y Autorizar la Inversión Pública Estatal.
 
 IV.- Controlar y Evaluar la ejecución de Programas de Inversión Pública, en relación con el cumplimiento de los objetivos y metas del Plan Estatal de Desarrollo.
 
-V.- Reglamentar y coordinar el Sistema Unico de Información Geográfica y Estadística del Estado de Oaxaca.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+V.- Reglamentar y coordinar el Sistema Único de Información Geográfica y Estadística del Estado de Oaxaca, incorporando la perspectiva de género y vigilando que la información derivada sea desagregada por sexo, grupos de edad y tipo de localidad;
 
 VI.- Los demás que le señalen las Leyes, Decretos y Reglamentos.
 
@@ -1080,3 +1156,7 @@ P.O. 20 DE JULIO DE 2001.
 P.O. 27 DE DICIEMBRE DE 2003.
 
 UNICO.- Este Decreto entrará en vigor en vigor a partir del día 1º de enero del año 2004, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
