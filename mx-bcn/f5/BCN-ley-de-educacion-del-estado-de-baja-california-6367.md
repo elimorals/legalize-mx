@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "1995-09-29"
+last_updated: "1998-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1998.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -209,15 +209,21 @@ II.- Proporcionar en la medida de sus recursos, terrenos para la construcción d
 
 III.- Coadyuvar en la reparación de mobiliario, conservación y vigilancia de las casas de cultura y de los edificios escolares, sin perjuicio de la colaboración que aporte el Estado, cualquier otro organismo o los particulares.
 
-IV.- Cuidar que en su jurisdicción se establezcan y funcionen escuelas que cumplan con los requisitos de esta Ley, dando cuenta en su caso a la Secretaría de Educación y Bienestar Social.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+IV.- Promover y cuidar que en su jurisdicción se establezcan y funcionen escuelas en todos los niveles, que cumplan con los requisitos de esta Ley, dando cuenta en su caso a la Secretaría de Educación y Bienestar Social.
 
 V.- Promover permanentemente la investigación que sirva como base a la innovación educativa, así como impulsar el desarrollo de la enseñanza tecnológica y de la investigación científica y tecnológica.
 
-VI.- Apoyar la existencia de los patronatos para la construcción, conservación y funcionamiento de las escuelas, de acuerdo con las disposiciones respectivas.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+VI.- Apoyar el funcionamiento del Consejo Municipal de Participación Social previendo lo necesario a su integración oportuna y proveyéndolo de los recursos necesarios para el despacho de sus asuntos; así como la existencia de los patronatos para la construcción, conservación y funcionamiento de las escuelas, de acuerdo con las disposiciones respectivas.
 
 VII.- Establecer servicios bibliotecarios a través de bibliotecas públicas, a fin de apoyar el Sistema Educativo Estatal, y
 
-VIII.- Auxiliar al Ejecutivo del Estado en el cumplimiento de esta Ley y los reglamentos que de ella emanen.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+VIII.- Auxiliar al Titular del Poder Ejecutivo del Estado en el cumplimiento de esta Ley y los reglamentos que de ella emanen, vigilando que los servicios educativos que otorga el Estado guarden equilibrio y concuerden con las demandas que plantean las comunidades municipales.
 
 ###### ARTICULO 17.
 
@@ -259,9 +265,11 @@ La educación que impartan el Estado, los municipios, sus organismos descentrali
 
 11.- Las instituciones de formación para el trabajo o las de cualquier otro tipo y modalidad que se imparta de acuerdo con las necesidades educativas de la población y las características particulares de los grupos que la integran.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
 ###### ARTICULO 20.
 
-Las instituciones del Sistema Educativo Estatal, impartirán la educación de manera que ésta permita al educando incorporarse a la sociedad como un elemento positivo y, en su oportunidad, desarrollar una actividad productiva que le facilite superarse académicamente.
+Las instituciones del Sistema Educativo Estatal, impartirán la educación, basadas en normas de competencia internacional, de manera que ésta permita al educando incorporarse a la sociedad como un elemento positivo y competitivo para desarrollar una actividad productiva que le facilite superarse académicamente y culturalmente.
 
 ###### ARTICULO 21.
 
@@ -395,9 +403,11 @@ En la impartición de la educación para menores de edad se tomarán medidas que
 
 El tipo medio superior, tiene carácter formativo y terminal en su caso y comprende el nivel del bachillerato, los demás niveles equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalencias.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
 ###### ARTICULO 37.
 
-Las escuelas de educación media terminal o de enseñanza técnica, normarán sus trabajos de acuerdo a los programas que cubran las necesidades del alumnado y de la entidad, con el fin de preparar personal calificado en las diferentes actividades de la industria, del comercio y del trabajo en general.
+Las escuelas de educación media terminal o de enseñanza técnica, normarán sus trabajos de acuerdo a los programas que cubran las necesidades del alumnado y el desarrollo de la entidad, con el fin de preparar personal calificado en las diferentes actividades de la industria, del comercio y del trabajo en general, basados en normas de competencia internacional.
 
 ###### ARTICULO 38.
 
@@ -495,9 +505,11 @@ Para elevar el nivel social, cultural y educativo de la comunidad e impulsar la 
 
 El Ejecutivo del Estado por conducto de la Secretaría de Educación y Bienestar Social, administrará, planeará, organizará y vigilará el desarrollo educativo del Estado, en los términos de las normas federales y estatales sin menoscabo de la competencia que las leyes otorgan a otras autoridades.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
 ###### ARTICULO 51.
 
-Corresponde a la Secretaría de Educación y Bienestar Social formular un Proyecto Educativo del Estado que deberá sujetarse a los principios establecidos en el Artículo Tercero Constitucional y someterlo a la aprobación del Titular del Ejecutivo, considerando la opinión de los diversos sectores involucrados en los aspectos educativos.
+Corresponde a la Secretaría de Educación y Bienestar Social formular un Proyecto Educativo del Estado que deberá sujetarse a los principios establecidos en el Artículo Tercero Constitucional y someterlo a la aprobación del Titular del Ejecutivo, considerando la opinión de los Ayuntamientos, así como los demás sectores involucrados en los aspectos educativos.
 
 ###### ARTICULO 52.
 
@@ -645,7 +657,9 @@ En cada municipio operará un consejo municipal de participación social en la e
 
 Estos consejos gestionarán ante los ayuntamientos y las autoridades educativas el mejoramiento de los servicios educativos, la construcción y ampliación de escuelas y demás proyectos de desarrollo educativo en el municipio, conocerán de los resultados de las evaluaciones que realicen las autoridades educativas, llevarán a cabo labores de seguimiento de las actividades de las escuelas públicas de educación básica de su circunscripción, estimularán, promoverán y apoyarán actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos y sociales, establecerán la coordinación de escuelas con autoridades y programas de bienestar comunitario, harán aportaciones relativas a las particularidades del municipio, que contribuyan a la formulación de contenidos locales a ser propuestos para los planes y programas de estudio, podrán opinar en asuntos pedagógicos, coadyuvarán a nivel municipal en actividades de protección civil y emergencia escolar, promoverán la superación educativa en el ámbito municipal mediante certámenes interescolares, promoverán actividades de orientación, capacitación, y difusión dirigidas a padres de familia y tutores, para que cumplan cabalmente con sus obligaciones en materia educativa, podrán proponer estímulos y reconocimientos de carácter social a; alumnos, docentes, directivos y empleados escolares, procurarán la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública y, en general, podrán realizar actividades para apoyar y fortalecer la educación en el municipio.
 
-Será responsabilidad del Presidente Municipal que en los consejos se alcance una efectiva participación social que contribuya a elevar la calidad y la cobertura de la educación.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+Será responsabilidad del Presidente Municipal que en los Consejos se alcance una efectiva participación social que contribuya a elevar la calidad y la cobertura de la educación; para lo cual deberá apoyar el funcionamiento del Consejo Municipal con los recursos humanos y materiales que requieran el despacho oportuno de sus asuntos.
 
 ###### ARTICULO 72.
 
@@ -894,3 +908,11 @@ LIC. ERNESTO RUFFO APPEL
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. RODOLFO VALDEZ GUTIERREZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE NOVIEMBRE DE 1998.
+
+###### ARTÍCULO UNICO.
+
+Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
