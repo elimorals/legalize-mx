@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2002-12-31"
+last_updated: "2003-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,37 +18,75 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-DECRETO POR EL QUE SE ESTABLECE LA TASA APLICABLE DURANTE 2003, DEL IMPUESTO GENERAL DE IMPORTACION, PARA LAS MERCANCIAS ORIGINARIAS DE AMERICA DEL NORTE
+ACUERDO QUE ESTABLECE LOS CRITERIOS PARA OTORGAR PERMISOS PREVIOS POR PARTE DE LA SECRETARIA DE ECONOMIA, A LAS IMPORTACIONES DEFINITIVAS DE FRUCTOSA ORIGINARIAS DE LOS ESTADOS UNIDOS DE AMERICA
 
-Decreto publicado en la Edición Vespertina de el Diario Oficial de la Federación, el martes 31 de diciembre de 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR FRUCTOSA ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA Y SUS CRITERIOS, PUBLICADO EN EL D.O.F. DE 5 DE OCTUBRE DE 2006, EL PRESENTE ACUERDO HA SIDO ABROGADO.</small>
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 20 de marzo de 2003.
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89 fracción I de la Constitución Política de los Estados Unidos Mexicanos con fundamento en los artículos 131 de la propia Constitución, 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2, 4 fracción I y 14 de la Ley de Comercio Exterior, y
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+
+Fernando DE JESUS Canales Clariond, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III y X, 15, 16, 17, 20 y 21 de la Ley de Comercio Exterior; 36 fracción I inciso c) y 104 fracción II de la Ley Aduanera; artículo 4 de la Ley Federal de Procedimiento Administrativo; 17 al 22 del Reglamento de la Ley de Comercio Exterior; 1, 2 y 5 del Acuerdo sobre Procedimientos para el Trámite de Licencias de Importación; 1, 4 y 5 fracción XVI, del Reglamento Interior de la Secretaría de Economía,
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio de América del Norte (TLCAN) fue aprobado el 8 de diciembre de 1993 y promulgado el 20 de diciembre de 1993 respectivamente en el Diario Oficial de la Federación;
+Que la industria azucarera es una actividad de alto impacto social por su producción y por el empleo que crea en el campo mexicano; que el azúcar como producto generado por ella es un bien de consumo necesario y constituye un elemento básico para la alimentación de la población de bajos ingresos por su alto contenido energético; y que las actividades que comprende, como es el caso de la siembra, el cultivo, la cosecha y la industrialización de la caña de azúcar, son de interés público;
 
-Que en el TLCAN se establecieron calendarios para la eliminación de aranceles aduaneros para el comercio entre los Estados Unidos Mexicanos, los de Estados Unidos de América y Canadá, sobre mercancías originarias de América del Norte, con reglas de origen y mecanismos específicos para definir tales mercancías;
+Que de la industria azucarera dependen más de dos millones de mexicanos ya que genera empleos tanto en el campo como en las factorías dedicadas al procesamiento de la caña de azúcar;
 
-Que en el anexo 401 del TLCAN se establecen los requisitos específicos para que una mercancía califique como originaria de América del Norte de conformidad con el “Acuerdo por el que se adoptan las rectificaciones técnicas a los anexos 300-B, 401 y 403.1 del Tratado de Libre Comercio de América del Norte, para adecuarlos a las modificaciones al sistema armonizado de designación y codificación de mercancías de 2002, según acuerdo de la Comisión de Libre Comercio del propio Tratado” publicado el 21 de diciembre de 2001 en el Diario Oficial de la Federación;
+Que el 20 de diciembre de 1993, se publicó en el Diario Oficial de la Federación el Tratado de Libre Comercio de América del Norte (TLCAN);
 
-Que en el “Acuerdo por el que se Establecen Reglas de Marcado de País de Origen, para determinar cuándo una mercancía importada a territorio nacional se puede considerar una mercancía estadounidense o canadiense, de conformidad con el Tratado de Libre Comercio de América del Norte”, publicado en el Diario Oficial de la Federación el 7 de enero de 1994 y sus adecuaciones mediante diversos publicados en el Diario Oficial de la Federación el 24 de septiembre de 1997 y 9 de julio de 2002, contienen las reglas para determinar cuando un bien podrá ser considerado como “bien de una parte”;
+Que como resultado de la negociación TLCAN se buscó alcanzar un equilibrio en el sector de los edulcorantes con el fin de establecer condiciones para el acceso del azúcar originaria de los Estados Unidos Mexicanos y el jarabe de maíz de alta fructosa proveniente de los Estados Unidos de América hasta llegar al libre comercio en ambos productos en enero de 2008;
 
-Que se estableció el 1 de enero de 2003 como fecha máxima para la eliminación de los aranceles para la mayor parte del universo de mercancías que conforman el comercio trilateral de bienes originarios de América del Norte, salvo un número reducido de productos considerados altamente sensibles;
+Que los Estados Unidos de América se han negado a dar cumplimiento a las condiciones de acceso para el azúcar mexicano en los términos establecidos e el anexo 703 del TLCAN;
 
-Que resulta sumamente conveniente y necesario para operadores y autoridades aduaneras, conocer con claridad las condiciones que para tal efecto prevalecerán en México a partir del 1 de enero de 2003, incluyendo los mecanismos que regirán el comercio de bienes altamente sensibles, mismos que no estarán libres de arancel para dicho año;
+Que ante el incumplimiento de los Estados Unidos de América la situación de la industria azucarera nacional se ve seriamente amenazada por las importaciones de jarabe de maíz de alta fructosa originaria de ese país al amparo del TLCAN, toda vez que al ser el azúcar y la fructosa, sustitutos perfectos para ciertos usos industriales el azúcar de producción nacional se ve desplazada, sin que los excedentes puedan exportarse en las condiciones de equilibrio previstas en el TLCAN;
 
-Que es conveniente y necesario hacer del conocimiento del público en general, que las disposiciones del TLCAN establecen claramente que la desgravación descrita con anterioridad, no impide el establecimiento de nuevos aranceles para el comercio trilateral, cuando ello derive de una salvaguarda, de una compensación contra una salvaguarda legítima impuesta por otra de las partes o de una suspensión de beneficios contra una de las partes;
+Que los Estados Unidos de América se han negado a dirimir, a través de los canales apropiados previstos en el TLCAN, la controversia que se ha suscitado;
 
-Que resulta conveniente dar a conocer al público en general, que las disposiciones de la Ley de Comercio Exterior permiten el establecimiento de cuotas compensatorias contra prácticas desleales de comercio internacional, aún después del 1 de enero de 2003, ya sea para compensar daños causados por subsidios otorgados por otra de las partes, o para compensar daños causados por mercancías que ingresen por debajo de los precios de su mercado de origen;
+Que en tales circunstancias, la Convención de Viena sobre el Derecho de los Tratados, publicada en el Diario Oficial de la Federación el 14 de febrero de 1975, permite a las autoridades mexicanas adoptar las medidas necesarias para hacer frente a la situación;
 
-Que la desgravación pactada en el TLCAN, no exime de las restricciones ni libera del cumplimiento de regulaciones no arancelarias, así como tampoco de los requisitos previos de importación impuestos por la Secretaría de Economía, o cualquier otra dependencia en el ámbito de sus facultades; de los requisitos de Normas Oficiales Mexicanas (NOM´s), o para tramitar el despacho aduanero de mercancías, entre otras, siempre que estén de conformidad con los compromisos internacionales adquiridos por México, y
+Que la finalidad de tales medidas es restablecer el equilibrio que se negoció en el TLCAN en el sector de los edulcorantes, mediante la suspensión de concesiones otorgadas a las importaciones de jarabe de maíz de alta fructosa;
 
-Que las condiciones descritas anteriormente permitirán un comercio más libre y ordenado en Norteamérica a partir del 1 de enero de 2003, abriendo así un campo de retos y oportunidades que coadyuvarán al desarrollo de nuestro país, he tenido ha bien expedir el siguiente
+Que el 31 de diciembre de 2002, se publicó en el Diario Oficial de la Federación el Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte;
 
-DECRETO
+Que el artículo segundo transitorio del citado Decreto, establece que a partir del 1 de enero de 2003, la importación de mercancías originarias de Estados Unidos de América libres de arancel comprendidas entre otras, en la fracción arancelaria 1702.50.01 estará sujeta a un permiso de importación, que se otorgará en los términos y condiciones que establezca la Secretaría de Economía mediante acuerdo publicado en el Diario Oficial de la Federación, según las disposiciones legales aplicables;
+
+Que dicha disposición afecta a las industrias diferentes a la refresquera, que utilizan fructosa químicamente pura, la cual no se puede sustituir por azúcar, además de que no existe producción nacional de este tipo de fructosa ya que dichas industrias se han visto afectadas al importar fructosa químicamente pura a partir de octubre de 2002 con el pago de dicho arancel, provocando con esto, un incremento considerable a sus costos de producción afectando su competitividad, y
+
+Que la Comisión de Comercio Exterior conforme al procedimiento previsto en la Ley de la Materia, opinó favorable esta medida, he tenido a bien expedir el siguiente:
+
+ACUERDO QUE ESTABLECE LOS CRITERIOS PARA OTORGAR PERMISOS PREVIOS POR PARTE DE LA SECRETARIA DE ECONOMIA, A LAS IMPORTACIONES DEFINITIVAS DE FRUCTOSA ORIGINARIAS DE LOS ESTADOS UNIDOS DE AMERICA
+
+###### ARTICULO 1o.
+
+La autorización de los permisos previos que se tramiten ante la Secretaría de Economía, para la importación definitiva de las mercancías comprendidas en la fracción arancelaria 1702.50.01 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación y originarias de los Estados Unidos de América, de conformidad con el Tratado de Libre Comercio de América del Norte, se realizará conforme a los criterios siguientes:
+
+PRIMERO: Los promoventes deberán presentar la solicitud de permiso previo de importación definitiva en la ventanilla de Atención al Público de la Dirección General de Comercio Exterior o en la Representación Federal de la Secretaría de Economía de su localidad según corresponda, utilizando el formato “Solicitud de Permiso Importación o Exportación y de Modificaciones” (SE-03-018), el cual estará a disposición de los interesados en la DGCE y en las Representaciones Federales de la Secretaría o en la página de internet de la Comisión Federal de Mejora Regulatoria , en la dirección www.cofemer.gob.mx.
+
+SEGUNDO: En caso de que la solicitud sea procedente, será autorizada por la oficina receptora del trámite, en un término no mayor a 10 días hábiles contados a partir de la fecha de recepción. Al término de dicho plazo, las solicitudes que no hayan sido resueltas se entenderán aprobadas.
+
+TERCERO: Los permisos previos de importación definitiva, tendrán una vigencia máxima de treinta días naturales contados a partir del día de su autorización.
+
+CUARTO: El volumen por promovente que, en su caso, se otorgue, en ningún caso podrá ser mayor a 3,600 (tres mil seiscientas) toneladas.
+
+Los permisos subsecuentes se otorgarán cuando:
+
+i) La empresa haya importado totalmente el volumen autorizado en el permiso previo de importación definitiva inmediato anterior, o
+
+ii) La vigencia del permiso previo de importación definitivo inmediato anterior haya vencido.
+
+###### ARTICULO 2o.
+
+De conformidad con los derechos y obligaciones internacionales de México y hasta que existan las condiciones necesarias para tal efecto, se publicarán los criterios que se aplicarán para otorgar los permisos de importación correspondientes a las mercancías originarias de los Estados Unidos de América comprendidas en las fracciones arancelarias 1702.40.99, 1702.60.01, 1702.60.02 y 1702.60.99.
+
+###### ARTICULO 3o.
+
+Los permisos previos que se tramiten ante la Secretaría de Economía, para la importación temporal de las mercancías comprendidas en las fracciones arancelarias 1702.40.99, 1702.60.01, 1702.60.02 1702.60.99 y 1702.50.01 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación y originarias de los Estados Unidos de América, se continuarán autorizando de manera automática.
+
+###### ARTICULO 4o.
+
+Los permisos previos que se tramiten ante la Secretaría de Economía, para la importación de la mercancía comprendida en la fracción arancelaria 1702.90.99 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación y originarias de los Estados Unidos de América, se continuarán autorizando de manera automática.
 
 ###### ARTICULO PRIMERO.
 
@@ -438,10 +476,8 @@ Lo dispuesto en el presente ordenamiento no libera del pago de Cuotas Compensato
 
 Las disposiciones del presente Decreto no liberan del cumplimiento de las restricciones y regulaciones no arancelarias en los términos de la Ley de Comercio Exterior, la Ley Aduanera y demás disposiciones aplicables.
 
-## TRANSITORIOS
+## TRANSITORIO
 
-PRIMERO.- El presente Decreto entrará en vigor el 1 de enero de 2003.
+UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO.- De conformidad con los derechos y obligaciones internacionales de México, a partir del 1 de enero de 2003, la importación de mercancías originarias de Estados Unidos de América libres de arancel comprendidas en las fracciones arancelarias 1702.40.99, 1702.50.01, 1702.60.01, 1702.60.02 y 1702.60.99, estarán sujetas a un permiso de importación que se otorgará en los términos y condiciones que establezca la Secretaría de Economía mediante acuerdo publicado en el Diario Oficial de la Federación, según las disposiciones legales aplicables.
-
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Luis Ernesto Derbez Bautista.- Rúbrica.
+México, D.F., a 11 de marzo de 2003.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
