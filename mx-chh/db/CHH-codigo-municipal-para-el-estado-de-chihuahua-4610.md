@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2000-10-11"
+last_updated: "2000-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2000.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -263,7 +263,9 @@ LXII.- SATEVO; con cabecera en el pueblo denominado San Francisco Javier de Sate
 
 LXIII.- SAUCILLO; con cabecera en la ciudad del mismo nombre y las secciones municipales de Naica y las Varas;
 
-LXIV.- TEMOSACHI; con cabecera en el pueblo del mismo nombre y las secciones municipales de Cocomorachi, Tosanachi, Tutuaca, Yepachi y Yepomera;
+(REFORMADA, P.O. 25 DE OCTUBRE DE 2000) (F. DE E., P.O. 17 DE FEBRERO DE 2001) (F. DE E., P.O. 6 DE MARZO DE 2002)
+
+LXIV.- TEMOSACHI, con cabecera en el pueblo del mismo nombre y las secciones municipales de Babícora de Conoachi, Cocomórachi, Tosanachi, Tutuaca, Yepachi y Yepómera;
 
 > <small>(REFORMADA, P.O. 9 DE MARZO DE 1996)</small>
 
@@ -2976,3 +2978,7 @@ P.O. 11 DE OCTUBRE DE 2000.
 DECRETO No. 573-00 IV P.E.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE OCTUBRE DE 2000.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
