@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-responsabilidades-de-los-servidores-publicos-del-4738"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-17"
-last_updated: "2000-12-30"
+last_updated: "2002-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2002.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de mayo de 1989.
 
@@ -269,9 +269,15 @@ XXII.- Informar dentro de los quince días naturales siguientes a la fecha en qu
 
 De igual forma deberá de comunicar el sentido de la resolución dictada que ponga fin al procedimiento instaurado tendiente a fincar la responsabilidad civil, administrativa o penal, según corresponda.
 
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2002)</small>
+
+XXIII.- Proporcionar oportunamente y en forma veraz la información y datos solicitados por el Pleno, las comisiones o comités del Congreso del Estado, o por los diputados, que sean inherentes a su función y que tenga relación con algún asunto que deban resolver. en el caso de los diputados se estará a lo dispuesto por el artículo 65, fracción IV, de la Constitución Política del Estado. Dicha información se proporcionará de conformidad con las instrucciones que al efecto gire el superior jerárquico, previo acuerdo con el titular de la dependencia o entidad de la adscripción.
+
+Cuando la dependencia a quien se requiera la información tenga alguna razón justificada para rehusarla, lo hará saber por escrito al solicitante, fundando y motivando su negativa.
+
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-XXIII.- Las demás que le impongan otras leyes y reglamentos.
+XXIV.- Las demás que le impongan otras leyes y reglamentos.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2000)</small>
 
@@ -622,3 +628,7 @@ DECRETO No. 743/00 I P.O.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MAYO DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
