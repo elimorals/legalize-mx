@@ -4,7 +4,7 @@ identifier: "HID-codigo-fiscal-municipal-del-estado-de-hidalgo-5427"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-31"
-last_updated: "1985-12-30"
+last_updated: "1986-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1986.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1982.
 
@@ -569,11 +569,11 @@ La regla prevista en la fracción II del artículo anterior, sólo se aplicará 
 
 La cancelación de los créditos fiscales se sujetará a las normas generales que se dicten por conducto de cada Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 76.
 
-El pago de los créditos fiscales realizados fuera de los plazos señalados por las leyes fiscales del Municipio, siempre que dicho entero se efectúe en forma espontánea, solo dará lugar al cobro de recargos, de acuerdo con la tasa que fije la Ley de Ingresos de los Municipios. El monto de los mismos se calcularán por cada mes o fracción que transcurra sin hacerse el pago, sin que en ningún caso pueda exceder del 250% del importe de los impuestos, o derechos de que se trate.
+Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, deberán pagarse recargos en concepto de indemnización al fisco municipal, por la falta de pago oportuno, dichos recargos se calcularán conforme a la tasa que para tal efecto se establezca anualmente en la Ley de Ingresos de los Municipios. El monto de los mismos se calculará por cada mes o fracción que transcurra sin hacerse el pago, y se causará hasta por cinco años, calculándose sobre el total del crédito fiscal; excluyendo los propios recargos.
 
 ###### ARTICULO 77.
 
@@ -2522,3 +2522,7 @@ Se derogan todas las disposiciones que se opongan a la presente ley.
 ###### ARTICULO CUARTO.
 
 Cuando se de una denominación nueva o distinta a alguna unidad administrativa establecida con posterioridad a la vigencia de esta Ley, dicha unidad ejercerá la competencia que determine la presente.
+
+P.O. 31 DE DICIEMBRE DE 1986.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
