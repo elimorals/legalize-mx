@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-gobierno-municipal-38964
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-09"
-last_updated: "2004-04-09"
+last_updated: "2005-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE GOBIERNO MUNICIPAL DE TIJUANA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2005.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 9 de abril de 2004.
 
@@ -89,41 +89,57 @@ El Secretario, contará con las funciones y atribuciones que establece el Reglam
 
 ### CAPITULO III. ESTRUCTURA DE LA SECRETARIA GENERAL DE GOBIERNO MUNICIPAL
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 5.
 
 Para el desempeño de sus funciones, la Secretaría de Gobierno Municipal, tendrá bajo su cargo la siguiente estructura:
 
 I.- Dirección General de Gobierno;
 
-II.- Dirección Jurídica Municipal;
+II.- Dirección de Gestión Política;
 
-III.- Dirección de Protección Civil;
+III.- Dirección de Asuntos de Cabildo;
 
-IV.- Dirección de Regulación Municipal, y (sic)
+IV.- Dirección de Regulación Municipal;
 
-V.- Departamento de Proyectos de Cabildo;
+V.- Dirección de Protección Civil;
 
-VI.- Departamento Administrativo.
+VI.- Dirección de Vialidad y Transporte;
+
+VII.- Departamento Administrativo;
+
+VIII.- Coordinación de delegaciones, y
+
+IX.- Las Delegaciones Municipales.
+
+Entidades:
+
+A.- Comité de Planeación para el Desarrollo Municipal
 
 ## TITULO SEGUNDO. DE LAS RESPONSABILIDADES DE LAS DEPENDENCIAS DE LA SECRETARIA GENERAL DE GOBIERNO MUNICIPAL
 
 ### CAPITULO I. DE LA DIRECCIÓN GENERAL DE GOBIERNO
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 6.
 
-La Dirección General de Gobierno, contará con las funciones y atribuciones que establece el Reglamento de la Administración Pública del Municipio de B. C. y las demás que expresamente le encomienden las leyes, reglamentos y acuerdos del Ayuntamiento o le instruya el Presidente.
+La Dirección General de Gobierno, contará con las funciones y atribuciones que establece el Reglamento de la Administración Pública del Ayuntamiento de Tijuana, Baja California y las demás que expresamente le encomienden las leyes, reglamentos y acuerdos del Ayuntamiento o le instruya el Secretario de Gobierno Municipal.
 
 ###### ARTICULO 7.
 
 Para el desempeño de sus funciones, la Dirección General de Gobierno Municipal, tendrá bajo su cargo la siguiente estructura:
 
-I.- Sub Dirección de Gobierno;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2005)</small>
+
+I.- Subdirección de Gobierno;
 
 II.- Departamento Administrativo;
 
 III.- Oficialía del Registro Civil;
 
-IV.- Coordinación de Jueces Municipales;
+IV.- (DEROGADA, P.O. 4 DE FEBRERO DE 2005)
 
 V.- Junta Municipal de Reclutamiento;
 
@@ -295,75 +311,25 @@ XXXI. Las demás que le confieran otras Leyes y Reglamentos.
 
 ### CAPITULO I
 
-#### SECCION CUARTA. DE LA COORDINACION DE JUECES MUNICIPALES
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 4 DE FEBRERO DE 2005)</small>
+
+#### SECCION CUARTA
 
 ###### ARTICULO 15.
 
-La Coordinación de Jueces Municipales, tendrá a su cargo la coordinación, supervisión y evaluación del cuerpo de jueces municipales, de conformidad con lo que establezca el Reglamento de Justicia para el Municipio de Tijuana B. C.
+(DEROGADO, P.O. 4 DE FEBRERO DE 2005)
 
 ###### ARTICULO 16.
 
-La Coordinación de Jueces se integrará por:
-
-I. Un Coordinador general,
-
-II. Un encargado administrativo,
-
-III. Dos Jueces auxiliares, adscritos a las oficinas centrales de la Coordinación de Jueces,
-
-IV. Tres Jueces a disposición de la Coordinación para cubrir las necesidades que requiera el propio servicio.
+(DEROGADO, P.O. 4 DE FEBRERO DE 2005)
 
 ###### ARTICULO 17.
 
-Los Jueces Municipales son competentes para conocer de los siguientes asuntos:
-
-I. De las faltas administrativas por violaciones al Bando de Policía y Gobierno,
-
-II. De las infracciones al Reglamento de Tránsito Municipal,
-
-III. De las infracciones a los Reglamentos Municipales en general,
-
-IV. De la imposición de sanciones por infracciones a los reglamentos gubernativos municipales,
-
-V. De las inconformidades por multas impuestas por las autoridades municipales con respecto a los reglamentos municipales.
+(DEROGADO, P.O. 4 DE FEBRERO DE 2005)
 
 ###### ARTICULO 18.
 
-Es competente todo Juez Municipal para:
-
-l. Conocer de las faltas administrativas por violación al Bando de Policía y Gobierno, Reglamento de Tránsito Municipal y demás ordenamientos Municipales, de conformidad con el Articulo 21 y 115 de la Constitución Política de los Estados Unidos Mexicanos;
-
-II. Resolver sobre las faltas cometidas por los particulares al Bando de Policía y Gobierno y demás reglamentos municipales;
-
-III. Resolver sobre la infracción o no infracción de los presuntos infractores;
-
-IV. Aplicar las sanciones que para cada una de las infracciones establece el Bando y los demás ordenamientos municipales, y de las cuales le corresponda conocer;
-
-V. Dirigir administrativamente las labores del ejercicio de su función;
-
-VI. El envío puntual a la Coordinación de la estadística referente a los asuntos atendidos por cada Juez Municipal;
-
-VII. Resolver los recursos de reconsideración o inconformidad que sean sometidos al conocimiento, con arreglo a las disposiciones contenidas en el Reglamento de Justicia Municipal;
-
-VIII. Allegar a las partes en conflicto en cuestiones de reparación de daño; cuando se declare el ánimo de no querellarse;
-
-IX. Solicitar la prestación de servicios a las diferentes instituciones auxiliares de la Justicia Municipal en el ámbito de su competencia;
-
-X. Cuidar estrictamente que se respete la dignidad y los derechos humanos de los infractores; por tanto impedirá todo maltrato físico y moral; cualquier tipo de incomunicación, exacción o coacción en agravio de las personas presentadas o que comparezcan ante el;
-
-XI. Dar a conocer al infractor los derechos de que goza como tal;
-
-XII. Cuidar que tanto fuera como dentro de las instalaciones de sus oficinas se guarde el orden, respeto y consideración a la investidura del Juez Municipal, del Tribunal y de los Agentes de policía que intervengan en las actuaciones como parte del procedimiento; corrigiendo en el acto las faltas en razón de ello, haciendo uso de ser necesario de los medios de apremio y medidas disciplinarias consignadas en el Titulo Cuarto del Reglamento de Justicia Municipal;
-
-XIII. Acatar en su debida observancia las circulares y disposiciones administrativas emanadas de sus superiores jerárquicos;
-
-XIV. Si de los hechos que se presenten se presume la comisión de un delito, deberá remitir el asunto a la autoridad competente, de conformidad con el Articulo 67 del Reglamento de Justicia Municipal, debiendo incluir a todas las personas y objetos involucrados;
-
-XV. Prohibir las visitas sin asunto justificado en las oficinas de loso (sic) jueces municipales;
-
-XVI. Reducir proporcionalmente la multa impuesta al infractor durante el cumplimiento del arresto tomando en cuenta el tiempo que haya permanecido detenido;
-
-XVII. Las demás que se deriven del presente ordenamiento y del Reglamento de Justicia Municipal.
+(DEROGADO, P.O. 4 DE FEBRERO DE 2005)
 
 ### CAPITULO I
 
@@ -597,159 +563,33 @@ VI. Actualiza su manual operativo.
 
 VII. Realiza los informes de su área.
 
-### CAPITULO II. DE LA DIRECCIÓN JURÍDICA MUNICIPAL
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE FEBRERO DE 2005)</small>
+
+### CAPITULO II
 
 ###### ARTICULO 38.
 
-Corresponde a la Dirección Jurídica Municipal el despacho de los siguientes asuntos:
-
-I.- Dar asesoría y asistencia técnica jurídica al Presidente;
-
-II.- Proporcionar asesoría, asistencia técnica jurídica, atención de consultas y opiniones al Ayuntamiento, Sindicatura, Delegaciones, Dependencias y Entidades Municipales;
-
-III.- Asesorar, revisar, elaborar contratos y los diversos instrumentos jurídicos en los que intervengan el Ayuntamiento, el Presidente o las dependencias de la administración pública municipal;
-
-IV.- Emitir opinión jurídica, cuando así lo solicite el Secretario o el Director General de Gobierno, respecto de proyectos de reglamentación municipal;
-
-V.- Asesorar y patrocinar en las controversias en que tenga interés jurídico el Ayuntamiento y las diversas dependencias de la administración pública municipal, en los ámbitos civil, penal, laboral, amparo y contencioso administrativo;
-
-VI.- Participar en la elaboración y presentación de los informes previo y justificado e intervenir en los juicios de garantías en donde se señale como autoridades responsables a las dependencias de la administración pública municipal;
-
-VII.- Compilar la legislación federal, estatal y municipal que tenga vigencia en el municipio, y
-
-VIII.- Las demás que señalen expresamente las leyes y reglamentos o le encomiende el Ayuntamiento, el Presidente o el Secretario.
+(DEROGADO, P.O. 4 DE FEBRERO DE 2005)
 
 ###### ARTICULO 39.
 
-La Dirección Jurídica estará a cargo de un Director denominado Director Jurídico que tendrá las siguientes atribuciones:
-
-I.- Verificar que se siga el procedimiento de registro de consultas y oficios en el Libro de Gobierno, así como la rendición de los mismos;
-
-II.- La revisión de los asuntos en coordinación con las diversas unidades a efecto de que se provea de la asistencia técnica jurídica y se rindan las opiniones, informes y dictámenes con eficiencia;
-
-III.- Velar por el mantenimiento de la armonía en la Dirección;
-
-IV.- Establecer y mantener una adecuada correlación con la Secretaria y la Sindicatura Municipal a efecto de que fluya adecuadamente la información, se prevea de las opiniones en forma adecuada, y pueda la Sindicatura contar con la Asistencia Jurídica y la adecuada formulación de denuncias penales en contra de las personas que se presuma su intervención en la comisión de delitos oficiales;
-
-V.- Establecer una adecuada y permanente correlación con Presidencia Municipal, dado que esta Dirección se encuentra asignada al Secretario de Gobierno, a fin de apoyar en todo tiempo con asesoría oportuna al C. Presidente Municipal;
-
-VI.- Mantener un estrecho contacto con el Departamento de Contraloría a efecto de proveerles Asesoría Legal al momento de tender a establecer un dictamen con efectos y consecuencias legales;
-
-VII.- Establecer y mantener un estrecho contacto con la Oficialía Mayor, por cuanto se refiere a las Condiciones Generales de Trabajo y los aspectos de Derecho Burocrático - Sindical, y
-
-VIII.- Establecer y mantener una estrecha correlación con las Direcciones de Planeación del Desarrollo Urbano y Ecología por cuanto se refiere a los aspectos jurídicos de uso de suelo, recuperación de vías publicas y control urbano: y con la dirección de Obras y Servicios Públicos Municipales en todo lo concerniente a la Obra Publica y contratos: y de igual forma con las demás Direcciones que por sus actividades requieran de apoyo jurídico.
+(DEROGADO, P.O. 4 DE FEBRERO DE 2005)
 
 ###### ARTICULO 40.
 
-Para el adecuado desempeño de sus funciones, La Dirección Jurídica contará con las siguientes Unidad (sic):
-
-I).- Unidad a cargo de Dependencias, Delegaciones y asuntos de Regidores;
-
-II).- Unidad de Derecho Privado;
-
-III).- Unidad de Derecho Público;
-
-a).- Área de lo Contencioso Administrativa
-
-b).- Área de Amparo y asuntos Federales
-
-c).- Área de Derecho Penal
-
-d).- Área de Derecho Laboral y social
+(DEROGADO, P.O. 4 DE FEBRERO DE 2005)
 
 ###### ARTICULO 41.
 
-Son atribuciones del responsable de la Unidad a cargo de Dependencias, Delegaciones y asuntos de Regidores las siguientes:
-
-I. Suplir temporalmente las ausencias Director del (sic) hasta por 30 días;
-
-II. Autorizar con su firma o antefirma todos los documentos que expida la Dirección en ausencia de su Titular;
-
-III. Vigilar el buen funcionamiento de los departamentos y demás áreas de la Dirección Jurídica;
-
-IV. Asistir con la representación de la Dirección a las reuniones o eventos que se le comisionen;
-
-V. Intervenir para que los apoyos que requieran las Unidades de la Dirección se proporcionen con la debida oportunidad, para el mejor funcionamiento de los mismos, y (sic)
-
-VI. Informar a la Dirección de cualquier situación irregular que se presente en relación con el desempeño de las funciones que tiene encomendada el personal que integra la Dirección;
-
-VII. Coordinar, en su caso, los asuntos Jurídicos en los que sea parte el Ayuntamiento, con los asesores Jurídicos de las Dependencias Municipales;
-
-VIII. Coordinarse con las Unidades de la Dirección Jurídica en relación con todos los asuntos Jurídicos que se pongan a consideración de la Dirección, y (sic)
-
-IX. Rendir Informe mensual del estado que guardan los asuntos Jurídicos que se ventilan en cada Departamento;
-
-VI (SIC).- Compilar la legislación federal, estatal y municipal vigente.
+(DEROGADO, P.O. 4 DE FEBRERO DE 2005)
 
 ###### ARTICULO 42.
 
-Son atribuciones de la Unidad de Derecho Privado las siguientes:
-
-I. Elaboración y revisión de los contratos civiles;
-
-II. Estudio, análisis y formulación de las demandas civiles y contestaciones de demandas;
-
-III. Seguimiento a los juicios civiles instaurados por el Ayuntamiento y los que se instauren en su contra y se correlaciona con la sección del Contencioso Administrativo, Consultas;
-
-IV. Estudio y análisis de las consultas administrativas y oficios que se correlacionen con esta sección y;
-
-V. Las demás que establezca el Director y el Coordinador.
+(DEROGADO, P.O. 4 DE FEBRERO DE 2005)
 
 ###### ARTICULO 43.
 
-Son atribuciones de la Unidad de Derecho Público las siguientes:
-
-l.- El área de lo Contencioso Administrativo corresponde:
-
-a).- Control y selección de las consultas administrativas que recibe la Dirección Jurídica, provenientes de las diversas dependencias municipales, de particulares o de otros niveles de Gobierno;
-
-b).- Estudio, análisis y dictaminado de consultas administrativas;
-
-c).- Elaboración de contestaciones, promociones y oficios diversos que se relacionen con los juicios en materia de Tribunal de lo Contencioso Administrativo;
-
-d).- Fungir como Delegados de las Autoridades Administrativas Municipales en los Juicios de lo Contencioso Administrativo;
-
-e).- Estudio y análisis de los convenios, contratos, y consultas que se correlacionan con la Administración Publica Municipal.
-
-II.- Al área de Amparo y asuntos Federales corresponde las siguientes atribuciones:
-
-a).- Elaboración de Informes Previo y Justificado en los Amparos contra municipio; Promociones, y oficios en seguimiento de los Juicios de Garantías en que se señale a cualquiera de las dependencias municipales como Autoridad Responsable;
-
-b).- Consultoría y estudio en materia de los Juicios de Garantía que pudiesen afectar el patrimonio municipal o su erario publico;
-
-c).- Comparecencia y seguimiento de los Juicios de Garantías, y
-
-d).- Estudio, análisis y dictamen de los planteamientos o consultas que se correlacionen con el Orden Federal.
-
-III.- Al área de Derecho Penal corresponde:
-
-a).- Realizar los estudios y análisis previos a la elaboración de las denuncias, querellas y acusaciones penales que haya necesidad de presentar;
-
-b).- Dar seguimiento a la formulación de denuncias penales, querellas y acusaciones, su tramite en las Agencias Investigadoras, Mesas de Averiguaciones Previas y Juzgados Penales;
-
-c).- Actuar en asistencia técnica para la defensa de los intereses del Ayuntamiento y sus dependencias en los asuntos del orden penal, común o federal;
-
-d).- Formular las querellas por con (sic) daños a unidades bienes que forman el patrimonio municipal y realizar gestiones para la recuperación y pago de daños;
-
-e).- Auxilio en las consultas administrativas que se correlacionen con el ámbito penal, y
-
-f).- Asistencia técnica en correlación con las solicitudes que se correlacionan con la Posesión y Explotación Agraria.
-
-IV.- Son Atribuciones del área de Derecho Laboral:
-
-a).- Realizar los estudios y análisis necesarios en defensa de los intereses patrimoniales en el ámbito del Derecho Burocrático en favor del Ayuntamiento y la Administración Publica Municipal;
-
-b).- Proveer de asistencia técnica al Ayuntamiento y sus dependencias en materia laboral;
-
-c).- Dar contestación a las demandas que en contra del Ayuntamiento y sus dependencias planteen los empleados de confianza, de base o el Sindicato Único de Trabajadores al Servicio de los Poderes del Estado Municipios y Empresas Descentralizadas;
-
-d).- Dar seguimiento a las defensas laborales ante el Tribunal de Arbitraje, formular las promociones necesarias en defensa de los intereses del Ayuntamiento y sus dependencias;
-
-e).- Asistir técnicamente a oficialía mayor en los planteamientos que haga el sindicato de Burócratas, con relación a las Condiciones Generales de Trabajo y demás apartados del Derecho Burocrático;
-
-f).- Establecer correlación con la Sección Jurídica de Amparo en los asuntos laborales en que se toque dicho ámbito legal, y
-
-g).- Dictaminar e Intervenir en las consultas administrativas que se refieran al ámbito laboral de carácter burocrático.
+(DEROGADO, P.O. 4 DE FEBRERO DE 2005)
 
 ### CAPITULO III. DE LA DIRECCIÓN DE PROTECCIÓN CIVIL
 
@@ -811,7 +651,9 @@ I.- Realizar la vigilancia respecto del cumplimiento de los reglamentos municipa
 
 II.- Supervisar la inspección de los establecimientos comerciales, uso de la vía pública para el comercio ambulante y mercados sobre ruedas;
 
-III.- La autorización de los mercados sobre ruedas, previa autorización de la delegación municipal correspondiente;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2005)</small>
+
+III.- La autorización de los mercados sobre ruedas;
 
 IV.- Vigilar e inspeccionar el cumplimiento de los términos de los permisos otorgados para espectáculos públicos;
 
@@ -825,7 +667,13 @@ VIII.- Informar al Director General de Gobierno de las inspecciones a los establ
 
 IX.- Imponer y ejecutar sanciones que se deriven de la aplicación de los reglamentos de su competencia;
 
-X.- Las demás que le atribuyen expresamente las Leyes, los reglamentos y aquellos que le encomienden el Ayuntamiento, el Presidente o el Secretario de Gobierno Municipal.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2005)</small>
+
+X.- Optimizar tiempos y el desempeño de los recursos humanos, mediante la rotación anticipada de las adscripciones de trabajo del personal al servicio de la Dirección, y
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2005)</small>
+
+XI.- Las demás que le atribuyen expresamente las leyes, los reglamentos y aquellos que le encomienden el Ayuntamiento o el Secretario de Gobierno Municipal.
 
 ###### ARTICULO 51.
 
@@ -1021,7 +869,17 @@ VI. Elaborar las ordenes de pedido y requisiciones de material y equipo necesari
 
 ###### ARTICULO 60.
 
-El Departamento de Proyectos de Cabildo tendrá las atribuciones y funciones establecidas en el Reglamento Interno y de Cabildo del Ayuntamiento de Tijuana Baja California.
+(DEROGADO, P.O. 4 DE FEBRERO DE 2005)
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE FEBRERO DE 2005)</small>
+
+### CAPITULO V
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2005)</small>
+
+###### ARTICULO 61.
+
+La Dirección de Asuntos de Cabildo contará con las funciones y atribuciones que establece el Reglamento de la Administración Pública del Ayuntamiento de Tijuana, Baja California y las demás que expresamente le encomienden las leyes, reglamentos, acuerdos del Ayuntamiento y que le instruya el Secretario de Gobierno Municipal.
 
 ## TRANSITORIOS
 
@@ -1032,3 +890,13 @@ El presente reglamento iniciara su vigencia al día siguiente de su publicación
 ###### ARTICULO SEGUNDO.
 
 El Presente Reglamento deroga toda disposición en contrario contenida en la reglamentación Municipal de Tijuana y normas técnicas existentes.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE FEBRERO DE 2005.
+
+PRIMERO: Se derogan todas aquellas disposiciones que se opongan a la presente reforma y, se otorgan 90 días para que las áreas responsables propongan al Ayuntamiento la modificación de los reglamentos municipales para adecuarlos a la presente reforma.
+
+SEGUNDO: La presente reforma entrará en vigor al día siguiente de su Publicación en el Periódico Oficial órgano de Gobierno del Estado.
+
+TERCERO: Publíquese en un periódico de mayor circulación para conocimiento público.
