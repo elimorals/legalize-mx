@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-6680"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-02"
-last_updated: "1993-08-18"
+last_updated: "2004-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6680&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 1993.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SALUD DEL ESTADO DE SINALOA, PUBLICADA EN EL PERIODICO OFICIAL EL 3 DE SEPTIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el lunes 2 de noviembre de 1987.
 
@@ -2426,3 +2428,21 @@ P.O. 18 DE AGOSTO DE 1993.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 3 DE SEPTIEMBRE DE 2004.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- La presente Ley abroga la Ley de Salud del Estado, del día 30 de octubre de 1987, publicada en el Periódico Oficial "El Estado de Sinaloa", de fecha 2 de noviembre de 1987, así como sus reformas y adiciones publicadas en ese mismo medio.
+
+Artículo Tercero.- La presente Ley abroga el Decreto de creación de la Comisión de Arbitraje Médico, del 21 de octubre de 2000, publicado en el Periódico Oficial "El Estado de Sinaloa", de fecha 8 de noviembre de 2000.
+
+Artículo Cuarto.- Las disposiciones de esta Ley relativas a la integración de la Comisión de Arbitraje Médico del Estado de Sinaloa, continuará operando conforme al Decreto expedido por el Ejecutivo Estatal, hasta en tanto concluya el presente período.
+
+Artículo Quinto.- La presente Ley abroga el Decreto de creación del Consejo Estatal de Trasplantes de Órganos y Tejidos Humanos de Sinaloa, publicado en el Periódico Oficial "El Estado de Sinaloa", de fecha 7 de febrero de 2000. Los miembros actuales del Consejo realizarán sus actividades conforme a la presente Ley.
+
+Artículo Sexto.- El Consejo Estatal de Trasplantes deberá integrarse, conforme a lo previsto en esta Ley, dentro de los tres meses posteriores a su publicación.
+
+Artículo Séptimo.- El Ejecutivo del Estado, convocará para la conformación de la Comisión Interinstitucional que integrará el Consejo Estatal para la Prevención y el Control del Síndrome de Inmunodeficiencia Adquirida, dentro de los tres meses posteriores a la publicación de la presente Ley.
+
+Artículo Octavo.- Se derogan las disposiciones que se opongan a la presente Ley.
