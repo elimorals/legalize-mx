@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2000-07-24"
+last_updated: "2003-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 27 DE OCTUBRE DE 2003.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -1053,9 +1053,15 @@ Es obligatoria la instalación de aparatos medidores volumétricos para la verif
 
 Al efecto, las tomas deberán instalarse en la entrada de los predios o establecimientos, y los medidores en lugares accesibles, con vista al exterior, junto a dicha entrada, en forma tal que se puedan llevar a cabo sin dificultad las lecturas de consumo, las pruebas de funcionamiento de los aparatos y, cuando sea necesario, el cambio de los medidores. Los usuarios, bajo su estricta responsabilidad, cuidarán que no se deterioren los medidores.
 
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+En caso de propiedades en condominio, cualquiera de sus modalidades, si existe una toma que abastece a todas las viviendas o departamentos, el prestador del servicio estará obligado a efectuar las modificaciones necesarias para la instalación de aparatos medidores volumétricos, para cada una de las viviendas o departamentos que la componen, lo cual se efectuará en términos del párrafo anterior, previo acuerdo de las respectivas asambleas de condóminos.
+
+> <small>(REFORMADO PRIMER PARRAFO , P.O. 27 DE OCTUBRE DE 2003)</small>
+
 ###### ARTICULO 78.
 
-Instalada la toma y hechas las conexiones respectivas, el prestador de los servicios comunicará al propietario o poseedor del predio o establecimiento de que se trate, la fecha de la conexión y la apertura de su cuenta para efectos de cobro del servicio.
+Instalada la toma y hechas las conexiones respectivas, el prestador de los servicios comunicará al propietario o poseedor del predio condominio o establecimiento de que se trate, la fecha de la conexión y la apertura de su cuenta para efectos de cobro del servicio.
 
 En los casos en que, con motivo de la instalación de la toma o las descargas, se destruya el pavimento, la guarnición o la banqueta, el prestador de los servicios realizará de inmediato su reparación, en los términos de la presente Ley. Los trabajos deberán efectuarse en un plazo que no exceda de siete días hábiles contados a partir de la fecha en que se ordene su reparación.
 
@@ -1604,3 +1610,9 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE OCTUBRE DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor la (sic) día siguiente de su publicación en el Periódico Oficial del Estado.
