@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ejecucion-de-sanciones-privativas-de-la-libertad-7529"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-30"
-last_updated: "1975-12-30"
+last_updated: "1984-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS DE LA LIBERTAD PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 1984.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el martes 30 de diciembre de 1975.
 
@@ -33,11 +33,11 @@ ALFREDO TOXQUI FERNANDEZ DE LARA, Gobernador Constitucional del Estado Libre y S
 
 Que por la Secretaría del H. Congreso, se me ha dirigido el siguiente
 
-DECRETO
+D E C R E T O
 
 EL H. XLVI CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA,
 
-DECRETA:
+D E C R E T A :
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS DE LA LIBERTAD.
 
@@ -172,6 +172,10 @@ III.- Concesión de mayor libertad dentro del establecimiento;
 IV.- Traslado a la institución abierta; y
 
 V.- Permisos de salida de fin de semana o diaria con reclusión nocturna, o bien de salida en días hábiles con reclusión de fin de semana.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 1984)</small>
+
+Para poder iniciar el tratamiento preliberacional a que se refiere este artículo, se requiere, necesariamente, que el reo haya compurgado efectivamente, cuando menos, la tercera parte de la condena que se le impuso.
 
 ###### ARTICULO 20.
 
@@ -407,7 +411,7 @@ d).- Cesación del cargo.
 
 Las disposiciones de esta Ley se aplicarán a los procesados, en lo conducente.
 
-TRANSITORIOS:
+T R A N S I T O R I O S :
 
 ###### ARTICULO PRIMERO.
 
@@ -432,3 +436,15 @@ Esta ley entrará en vigor al día siguiente de su publicación en el Periódico
 El Gobernador hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los diecinueve días del mes de noviembre de mil novecientos setenta y cinco.- Dr. Fernando Salcido Argomedo. D.V.P.- Rúbrica.- Lic. Román Salazar Ramírez. D.S. Venustiano Andrade del Castillo, D.P.S.- Rúbricas.
 
 Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los treinta días del mes de diciembre de mil novecientos setenta y cinco.- El Gobernador Constitucional del Estado, Dr. Alfredo Toxqui Fernández de Lara.- Rúbrica.- El Secretario General de Gobierno, Lic. Carlos Trujillo Pérez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE JULIO DE 1984.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
