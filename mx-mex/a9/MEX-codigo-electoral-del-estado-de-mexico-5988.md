@@ -4,7 +4,7 @@ identifier: "MEX-codigo-electoral-del-estado-de-mexico-5988"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-03-02"
-last_updated: "2001-08-24"
+last_updated: "2002-01-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ELECTORAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE ENERO DE 2002.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el sábado 2 de marzo de 1996.
 
@@ -229,6 +229,10 @@ Los ciudadanos que reúnan los requisitos que establece el artículo 40 de la pr
 
 Los ciudadanos que reúnan los requisitos establecidos en el artículo 119 y que no se encuentren en cualesquiera de los supuestos previstos en el artículo 120 de la misma Constitución, son elegibles para ser miembros propietarios y suplentes de los ayuntamientos.
 
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2002)</small>
+
+Los ciudadanos que se hayan separado del cargo para contender en el proceso electoral, podrán reincorporarse al mismo una vez concluida la jornada electoral; en el caso de ser candidatos electos, deberán separarse en forma definitiva antes de asumir el cargo de elección popular por el cual fueron postulados.
+
 ###### Artículo 16.
 
 Además de los requisitos señalados en el artículo anterior, los ciudadanos que aspiren a ser candidatos a Gobernador, Diputado o miembro de Ayuntamiento, deberán satisfacer lo siguiente:
@@ -252,6 +256,10 @@ V. Ser electo o designado candidato, de conformidad con los procedimientos democ
 ###### Artículo 17.
 
 Conforme a lo dispuesto por la Constitución Política del Estado de México, el ejercicio del Poder Legislativo se deposita en una asamblea que se denomina Legislatura del Estado, que se integrará con cuarenta y cinco diputados electos en distritos electorales según el principio de votación mayoritaria relativa y treinta diputados electos según el principio de representación proporcional. Por cada diputado propietario se elegirá un suplente.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2002)</small>
+
+La demarcación de los cuarenta y cinco distritos electorales será modificada por el Consejo General cuando lo soliciten las dos terceras partes de los miembros presentes de la Legislatura del Estado.
 
 Los diputados electos en elecciones extraordinarias concluirán el período de la Legislatura respectiva.
 
@@ -287,9 +295,9 @@ Integración de la Legislatura del Estado
 
 Para tener derecho a la asignación de diputados de representación proporcional, el partido político de que se trate deberá:
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2002)</small>
 
-I. Acreditar la postulación de candidatos propios de mayoría relativa en, por lo menos, 15 distritos electorales, salvo que medie coalición, en cuyo caso, la obligación anterior se entenderá referida a la coalición de que se trate; y
+I. Acreditar, bajo cualquier modalidad, la postulación de candidatos de mayoría relativa, en por lo menos, treinta distritos electorales; y
 
 II. Haber obtenido, al menos, el 1.5% de la votación válida emitida en el Estado en la elección de diputados de mayoría relativa.
 
@@ -297,9 +305,9 @@ II. Haber obtenido, al menos, el 1.5% de la votación válida emitida en el Esta
 
 Para efectos de la elección de diputados por el principio de representación proporcional, se constituirá una circunscripción plurinominal que comprenderá los cuarenta y cinco distritos de mayoría relativa en que se divide el territorio del Estado.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2002)</small>
 
-Cada partido político deberá registrar una lista de 5 candidatos propietarios y suplentes, para la asignación de los diputados de representación proporcional se seguirá el orden que tuviesen los candidatos en las listas respectivas.
+Cada partido político en lo individual, independientemente de participar coaligado o postulando candidaturas comunes, deberá registrar una lista de ocho candidatos, propietarios y suplentes. Para la asignación de diputados de representación proporcional, se seguirá el orden que tuviesen los candidatos en la lista respectiva.
 
 La asignación de diputados según el principio de representación proporcional se realizará por el Consejo General del Instituto, siguiendo el procedimiento establecido en este Código.
 
@@ -349,7 +357,9 @@ VIII. Los regidores de representación proporcional se asignarán mediante el pr
 
 Las elecciones ordinarias de Gobernador se celebrarán cada seis años, el primer domingo de julio del año que corresponda.
 
-Las elecciones ordinarias de diputados a la Legislatura del Estado y de ayuntamientos se efectuarán cada tres años, el primer domingo de julio del año que corresponda.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2002)</small>
+
+Las elecciones ordinarias de diputados a la Legislatura del Estado y de ayuntamientos se efectuarán cada tres años, el segundo domingo de marzo del año que corresponda.
 
 ###### Artículo 26.
 
@@ -1049,7 +1059,9 @@ El Consejo General realizará monitoreos cuantitativos y cualitativos y el segui
 
 Dichos informes deberán contener una valoración de la actuación de los medios de comunicación monitoreados, así como las recomendaciones que se estimen conducentes. El Consejo General publicará los resultados de esta actividad en los principales diarios con circulación en el estado.
 
-### CAPITULO SEXTO. De las Coaliciones y Fusiones
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE ENERO DE 2002)</small>
+
+### CAPITULO SEXTO. De las Coaliciones, Candidaturas Comunes y Fusiones
 
 ###### Artículo 67.
 
@@ -1067,9 +1079,9 @@ III. Ninguna coalición podrá postular como candidato a quien ya haya sido regi
 
 IV. Los partidos políticos que se coaliguen para participar en las elecciones deberán celebrar y registrar el convenio correspondiente en los términos del presente capítulo;
 
-V. La coalición por la que se postulen candidatos a diputados por el principio de representación proporcional tendrá efectos en todo el estado y, en consecuencia, los partidos coaligados deberán registrar una sola lista de candidatos plurinominales y a un solo candidato de la coalición por el principio de mayoría relativa en cada uno de los distritos uninominales en donde participen.
+V. (DEROGADA, P.O. 1 DE ENERO DE 2002)
 
-VI. Los partidos que se coaliguen para la elección de diputados por el principio de mayoría relativa en la totalidad de los distritos uninominales, deberán coaligarse para la elección de diputados por el principio de representación proporcional;
+VI. (DEROGADA, P.O. 1 DE ENERO DE 2002)
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2001)</small>
 
@@ -1125,13 +1137,13 @@ El convenio de coalición contendrá los siguientes datos:
 
 I. El emblema y coloro colores del partido coaligado que la coalición decida, o con el formado con los de los partidos políticos integrantes de la coalición;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2002)</small>
 
-II. La elección que la motiva, haciendo señalamiento expreso del o de los distritos o municipios, o lista de representación proporcional;
+II. La elección que la motiva, haciendo señalamiento expreso del o los distritos o municipios;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2002)</small>
 
-III. Nombre, edad, lugar de nacimiento, clave de la Credencial para Votar, domicilio y consentimiento por escrito del o de los candidatos, tanto de mayoría relativa como de representación proporcional, éstos últimos en la lista única;
+III. Nombre, edad, lugar de nacimiento, clave de la Credencial para Votar, domicilio y consentimiento por escrito del o de los candidatos;
 
 IV. El cargo para el que se postula al o a los candidatos;
 
@@ -1143,9 +1155,21 @@ V. En su caso, la forma de distribución del financiamiento público que les cor
 
 VI. La aprobación del convenio por parte de los órganos directivos correspondientes a cada uno de los partidos coaligados, así como las firmas autógrafas de los representantes de los partidos suscribientes; y
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2002)</small>
 
-VII. El porcentaje de los votos que a cada partido político coaligado le corresponda, para efectos de la conservación del registro, la distribución del financiamiento público y, en su caso, para la asignación de diputados por el principio de representación proporcional, cuando no se hubieren coaligado para ese efecto.
+VII. El porcentaje de los votos que a cada partido político coaligado le corresponda, para efectos de la conservación del registro como partidos políticos locales, la distribución del financiamiento público y, en su caso, para la asignación de diputados por el principio de representación proporcional;
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2002)</small>
+
+VIII. La prelación para conservar el registro de los partidos políticos locales, en el caso de que el porcentaje obtenido por la coalición no sea superior o equivalente a la suma de los porcentajes mínimos que cada uno de los partidos políticos locales requiera;
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2002)</small>
+
+IX. Para el caso de coaliciones de diputados, el convenio deberá precisar a qué partido político de los coaligados le corresponderá la diputación; y
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2002)</small>
+
+X. La forma de designación de su representante autorizado ante los órganos electorales y para promover los medios de impugnación previstos en este Código.
 
 ###### Artículo 75.
 
@@ -1153,9 +1177,31 @@ El convenio de coalición deberá presentarse para su registro ante el Consejo G
 
 El Consejo General resolverá la procedencia del registro de la coalición dentro de los siete días siguientes a su presentación, en forma debidamente fundada y motivada. En caso de controversia, el Tribunal Electoral resolverá en un plazo no mayor a cinco días.
 
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2002)</small>
+
+Una vez registrado el convenio de coalición el Consejo General dispondrá su publicación en la Gaceta del Gobierno.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2002)</small>
+
 ###### Artículo 76.
 
-Una vez registrado el convenio de coalición, el Consejo General dispondrá su publicación en la Gaceta del Gobierno.
+Por candidatura común se entiende la postulación de un mismo candidato, por dos o más partidos políticos, sin mediar convenio.
+
+La candidatura común deberá sujetarse a las siguientes reglas:
+
+I. Deberá existir consentimiento escrito por parte del ciudadano postulado;
+
+II. Los partidos políticos que postulen candidatos comunes, conservarán cada uno de sus derechos, obligaciones y prerrogativas que les otorga este Código; y
+
+III. Por lo que se refiere al tope de gastos de campaña, el límite se fijará para cada partido político que la postule, en los términos del artículo 160 de este Código.
+
+La votación obtenida por el candidato común, se sujetará al siguiente procedimiento:
+
+A. Los votos se computarán a favor de cada uno de los partidos políticos y se sumarán a favor del candidato común; y
+
+B. Los votos obtenidos por cada partido político les serán computados para determinar el porcentaje de la votación total correspondiente, para los efectos legales a que haya lugar.
+
+Para los efectos de la asignación de diputados y miembros de los ayuntamientos por el principio de representación proporcional se estará a lo dispuesto por este Código.
 
 ###### Artículo 77.
 
@@ -1327,9 +1373,17 @@ Los Consejeros Electorales, el Consejero Presidente, el Director y el Secretario
 
 El Consejo General se reunirá en sesión ordinaria cada tres meses. Su presidente podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición de la mayoría de los Consejeros Electorales o de la mayoría de los representantes de los partidos políticos. Sus sesiones serán públicas.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2002)</small>
 
-Para la preparación del proceso electoral el Consejo General se reunirá el 27 de enero del año en que se celebren las elecciones ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Consejo General sesionará por lo menos una vez al mes.
+Para la preparación del proceso para elegir Gobernador del Estado, el Consejo General se reunirá la primera semana del mes de enero del año en que se celebre la elección.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2002)</small>
+
+Para el caso de diputados y miembros de los ayuntamientos, el Consejo General celebrará sesión para dar inicio al proceso electoral dentro de la primera semana del mes de septiembre del año anterior al de la elección.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2002)</small>
+
+A partir del inicio del proceso electoral y hasta la conclusión del mismo, el Consejo General sesionará por lo menos una vez al mes.
 
 Para que el Consejo General pueda sesionar, deberán estar presentes la mayoría de los Consejeros con derecho a voto, entre los que deberá estar el Presidente.
 
@@ -1437,13 +1491,17 @@ VII. Designar a los Directores de la Junta General, de entre las propuestas que 
 
 VIII. Designar a los titulares de las unidades administrativas del Instituto de entre las propuestas que al efecto le presente el Director General;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2002)</small>
 
-lX. Designar a los vocales de las Juntas Distritales en el mes de enero y Municipales en el mes de febrero del año en que se celebre la elección, de acuerdo a los lineamientos del Servicio profesional electoral;
+IX. Designar, para la elección de Gobernador del Estado, a los vocales de las juntas distritales en el mes de enero del año de la elección, de acuerdo a los lineamientos del Servicio Profesional Electoral.
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1999)</small>
+Designar, para la elección de diputados y miembros de los ayuntamientos, a los vocales de las juntas distritales en el mes de septiembre y municipales en el mes de octubre del año anterior al de la elección, de acuerdo a los lineamientos del Servicio Profesional Electoral;
 
-X. Designar, de entre las propuestas, de al menos el doble que al efecto realice la Junta General a los Consejeros Electorales de los Consejos Distritales en el mes de enero y Municipales en el mes de febrero del año de la elección. Por cada Consejero propietario habrá un suplente;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2002)</small>
+
+X- Designar para la elección de Gobernador del Estado, de entre las propuestas de al menos el doble que al efecto realice la Junta General, a los consejeros electorales de los consejos distritales en el mes de enero del año de la elección. Por cada Consejero propietario habrá un suplente.
+
+Designar, para la elección de diputados y miembros de los ayuntamientos, de entre las propuestas de al menos el doble que al efecto realice la Junta General, a los consejeros electorales de los consejos distritales en el mes de septiembre y municipales en el mes de octubre del año anterior al de la elección. Por cada Consejero propietario habrá un suplente;
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1999)</small>
 
@@ -1545,9 +1603,9 @@ XXXIV. Aprobar las políticas generales, los programas y los procedimientos admi
 
 XXXV. Supervisar el cumplimiento de los convenios suscritos con el Instituto Federal Electoral;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2002)</small>
 
-XXXVI. Ordenar los estudios para la división del territorio del Estado en distritos electorales, aprobarla demarcación que comprenderá cada uno y proveer su publicación en la Gaceta del Gobierno;
+XXXVI. A solicitud de las dos terceras partes de los miembros presentes de la Legislatura del Estado, ordenar los estudios para la división del territorio de la entidad en distritos electorales, aprobar la demarcación que comprenderá cada uno y proveer su publicación en la Gaceta del Gobierno;
 
 > <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1999)</small>
 
@@ -2035,9 +2093,11 @@ III. Un representante de cada uno de los partidos políticos con registro, quien
 
 Los Consejeros Electorales de los Consejos Distritales deberán satisfacer los mismos requisitos que los Consejeros Electorales del Consejo General, salvo el de residencia efectiva, que se entenderá referido al distrito de que se trate, y el de título profesional que no será necesario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2002)</small>
+
 ###### Artículo 115.
 
-Los Consejos Distritales iniciarán sus sesiones dentro de los 10 primeros días del mes de febrero del año de la elección.
+Para la elección de Gobernador del Estado, los consejos distritales iniciarán sus sesiones dentro de los 10 primeros días del mes de febrero del año de la elección. Para la elección de diputados, iniciarán sus sesiones dentro de los 10 primeros días del mes de octubre del año anterior al de la elección.
 
 A partir de su instalación y hasta la conclusión del proceso, los Consejos Distritales sesionarán por lo menos una vez al mes.
 
@@ -2187,11 +2247,11 @@ III. Un representante de cada uno de los partidos políticos con registro, quien
 
 Los Consejeros Electorales de los Consejos Municipales deberán satisfacer los mismos requisitos que los Consejeros Electorales del Consejo General, salvo el de residencia efectiva, que se entenderá referido al Municipio de que se trate, y el de título profesional que no será necesario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2002)</small>
 
 ###### Artículo 124.
 
-Los Consejos Municipales iniciarán sus sesiones durante los diez primeros días del mes de febrero del año de la elección.
+Los consejos municipales iniciarán sus sesiones durante los diez primeros días del mes de noviembre del año anterior al de la elección.
 
 A partir de su instalación y hasta la conclusión del proceso, los Consejos Municipales sesionarán por lo menos una vez al mes.
 
@@ -2369,11 +2429,13 @@ C. Las demás que le confiere este Código y las disposiciones relativas.
 
 ### CAPITULO CUARTO. Disposiciones comunes
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2002)</small>
 
 ###### Artículo 130.
 
-Los presidentes de los Consejos Distritates y Municipales electorales, convocarán por escrito en los primeros diez días del mes de febrero del año de la elección, a la sesión de instalación del órgano que presiden.
+Para la elección de Gobernador, los presidentes de los consejos distritales convocarán por escrito, en los primeros diez días del mes de febrero del año de la elección, a la sesión de instalación del órgano que presiden.
+
+Para la elección de diputados y miembros de los ayuntamientos, en los primeros diez días del mes de octubre del año anterior al de la elección para los consejos distritales, y dentro de los primeros diez días de noviembre del año anterior al de la elección para los consejos municipales electorales, los presidentes convocarán por escrito a la sesión de instalación del órgano que presiden.
 
 ###### Artículo 131.
 
@@ -2437,11 +2499,11 @@ II. Cuando a solicitud del presidente del Consejo Distrital o Municipal correspo
 
 El proceso electoral es el conjunto de actos ordenados por la Constitución Federal, por la Constitución Particular y este Código, realizados por las autoridades electorales, los partidos políticos y los ciudadanos, que tienen por objeto la renovación periódica de los integrantes del Poder Legislativo, del titular del Poder Ejecutivo y de los miembros de los ayuntamientos del Estado.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2002)</small>
 
 ###### Artículo 139.
 
-Los procesos electorales ordinarios para la elección de Gobernador y para las elecciones de diputados y ayuntamientos inician en el mes de enero del año de la elección y concluyen con los cómputos y declaraciones que realicen los consejos del Instituto, o con las resoluciones que, en su caso, pronuncie el Tribunal.
+El proceso electoral ordinario para la elección de Gobernador iniciará en el mes de enero del año que corresponda; para las elecciones de diputados y miembros de los ayuntamientos iniciará en el mes de septiembre del año anterior al de la elección; en ambos casos concluye con los cómputos y declaraciones que realicen los consejos del Instituto, o con las resoluciones que, en su caso pronuncie el Tribunal.
 
 ###### Artículo 140.
 
@@ -2457,15 +2519,17 @@ III. Resultados y declaraciones de validez de las elecciones de diputados y ayun
 
 IV. Resultados y declaraciones de validez de la elección de Gobernador electo.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2002)</small>
 
 ###### Artículo 141.
 
-La etapa de preparación de la elección se inicia con la primera sesión que el Consejo General del Instituto celebre el 27 de enero del año en que deban realizarse las elecciones ordinarias y concluye al iniciarse la jornada electoral.
+La etapa de preparación de la elección de Gobernador se inicia con la primera sesión que el Consejo General del Instituto celebre la primera semana del mes de enero del año en que deban realizarse las elecciones ordinarias; para la elección de diputados y miembros de los ayuntamientos inicia en el mes de septiembre del año anterior al de la elección; en ambos casos concluye al iniciarse la jornada electoral.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2002)</small>
 
 ###### Artículo 142.
 
-La etapa de la jornada electoral se inicia a las 8:00 horas del primer domingo de julio y concluye con la publicación de los resultados electorales en el exterior del local de la casilla y la remisión de la documentación y los expedientes electorales a los respectivos Consejos Distritales y Municipales.
+Para la elección de Gobernador, la etapa de la jornada electoral se inicia a las 8:00 horas del primer domingo de julio; para diputados y miembros de los ayuntamientos inicia a las 8:00 horas del segundo domingo de marzo del año de la elección; en ambos casos concluye con la publicación de los resultados electorales en el exterior del local de la casilla y la remisión de la documentación y los expedientes electorales a los respectivos consejos distritales y municipales.
 
 ###### Artículo 143.
 
@@ -2591,9 +2655,9 @@ Es propaganda electoral el conjunto de escritos, publicaciones, imágenes, graba
 
 La propaganda electoral y las actividades de campaña deberán propiciar la exposición, desarrollo y discusión ante el electorado de los programas y acciones fijados por los partidos políticos en sus documentos básicos y, particularmente, en la plataforma electoral que para la elección correspondiente hubiese registrado.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2002)</small>
 
-El Instituto organizará debates públicos entre los candidatos y proveerá lo necesario para la difusión de los mismos preferentemente en los medios electrónicos como radio y televisión. A tal efecto, deberá de emitir la convocatoria respectiva a más tardar en el mes de abril del año del proceso electoral.
+El Instituto organizará debates públicos entre los candidatos y proveerá lo necesario para la difusión de los mismos preferentemente en los medios electrónicos como radio y televisión. A tal efecto, deberá emitir la convocatoria respectiva a más tardar en el mes de abril para la elección de Gobernador y en el mes de diciembre para la elección de diputados y miembros de los ayuntamientos, del año anterior al de la elección.
 
 ###### Artículo 153.
 
@@ -2619,7 +2683,7 @@ La propaganda impresa que utilicen los candidatos deberá contener una identific
 
 La propaganda que sea utilizada por alguna coalición deberá ser identificada con el emblema y color o colores que haya registrado en el convenio de coalición correspondiente. Nunca deberán ostentarse en forma separada con los emblemas y los nombres de los partidos que la integran.
 
-(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)(F. DE E., P.O. 15 DE OCTUBRE DE 1998)
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)</small>
 
 La propaganda en cualquier medio que realicen los partidos políticos y sus candidatos deberá referirse a la difusión de su plataforma electoral, la promoción de sus candidatos, así como el análisis de los temas de interés y su posición ante ellos.
 
@@ -2699,11 +2763,15 @@ Las personas físicas o morales que pretendan llevar a cabo encuestas para dar a
 
 Quienes infrinjan las prohibiciones contenidas en este artículo, quedarán sujetos a las sanciones que este Código impone, así como a las penas que señala el Código Penal del Estado y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2002)</small>
 
 ###### Artículo 160.
 
-Los gastos que realicen los partidos políticos, las coaliciones y sus candidatos, en la actividad de campaña no podrán rebasar los topes que para cada elección de gobernador, de diputado en cada distrito y de ayuntamientos, en cada uno de los municipios, determinen el Consejo General, en todo caso, no podrán exceder de lo que resulte de multiplicar el 55 % del salario mínimo vigente en la capital del Estado, por el número de ciudadanos inscritos en el padrón electoral, con corte del 31 de diciembre del año inmediato anterior al de la elección.
+El tope de gastos de campaña, que determinará el Consejo General para cada partido político o coalición, será la cantidad que resulte de multiplicar el 55% del salario mínimo general vigente en la capital del Estado, por el número de ciudadanos inscritos en el padrón electoral del Estado, distrito o municipio de que se trate, con corte al último mes previo al inicio del proceso electoral.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2002)</small>
+
+Los gastos que realicen los partidos políticos o las coaliciones en la actividad de campaña, no podrán rebasar ese tope en cada una de las elecciones de Gobernador, diputados y miembros de los ayuntamientos, respectivamente.
 
 Los gastos que realicen los partidos para el sostenimiento de sus órganos directivos y sus organizaciones, no serán contabilizados para los efectos de la
 
@@ -2769,7 +2837,9 @@ Para facilitar el ejercicio del derecho al sufragio, el Consejo General podrá a
 
 El procedimiento para la integración de las Mesas Directivas de Casilla será el siguiente:
 
-El Consejo General procederá durante el mes de febrero del año de la elección a insacular de las listas nominales de electores a un 20% de ciudadanos por cada sección electoral, sin que en ningún caso el número de ciudadanos insaculados sea menor a cincuenta; para ello, el Consejo General podrá apoyarse en la información de los listados nominales del centro de cómputo del Instituto Federal Electoral, o en su caso, del Instituto Electoral del Estado. El Consejo General verificará que los ciudadanos que resultaron sorteados cumplan con los requisitos que exige el presente Código, no pudiendo ser ciudadanos nacidos en el mismo mes con respecto a la insaculación del proceso electoral inmediato anterior.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2002)</small>
+
+Para la elección de Gobernador durante el mes de febrero del año de la elección, y para la elección de diputados y miembros de los ayuntamientos durante el mes de octubre del año anterior al de la elección, el Consejo General procederá a insacular de las listas nominales de electores a un 20% de ciudadanos por cada sección electoral sin que en ningún caso el número de ciudadanos insaculados sea menor a cincuenta; para ello, el Consejo General podrá apoyarse en la información de los listados nominales de los centros de cómputo del Instituto Federal Electoral, o en su caso, del Instituto Electoral del Estado. El Consejo General verificará que los ciudadanos que resultaron sorteados cumplan con los requisitos que exige el presente Código, no pudiendo ser ciudadanos nacidos en el mismo mes con respecto a la insaculación del proceso electoral inmediato anterior.
 
 Las Juntas Distritales en coordinación con las Juntas Municipales, en su caso, impartirán un curso de capacitación a los ciudadanos sorteados que cumplan con los requisitos que les exige el presente código, dicho curso a impartir contendrá los temas y la información que el Consejo General apruebe, junto con el programa de capacitación y los materiales didácticos a utilizar, con el propósito de tener el número suficiente de ciudadanos que estén en condiciones de integrar a las Mesas Directivas de Casilla.
 
@@ -2821,9 +2891,13 @@ Para la ubicación de las casillas se dará preferencia a los edificios y escuel
 
 El procedimiento para determinar la ubicación de las casillas será el siguiente:
 
-I. En los meses de marzo y abril del año de la elección, los miembros de las Juntas Municipales recorrerán las secciones de los municipios respectivos con el propósito de localizar lugares que cumplan con los requisitos señalados en el artículo anterior;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2002)</small>
 
-II. En el mes de mayo del año de la elección, los Presidentes de los Consejos Municipales presentarán al Consejo una lista proponiendo los lugares en que habrán de ubicarse las casillas;
+I. En el mes de abril del año de la elección de Gobernador, y en el mes de diciembre del año anterior al de la elección de diputados y miembros de los ayuntamientos, los consejos distritales o municipales, según corresponda, recorrerán las secciones de los municipios respectivos con el propósito de localizar lugares que cumplan con los requisitos señalados en el artículo anterior;
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2002)</small>
+
+II. En el mes de mayo del año de la elección de Gobernador, y en el mes de enero del año de la elección de diputados y miembros de los ayuntamientos, los presidentes de los consejos distritales o municipales, según corresponda, presentarán al Consejo una lista proponiendo los lugares en que habrán de ubicarse las casillas;
 
 III. Recibidas las listas, los consejeros examinarán que los lugares propuestos cumplan con los requisitos señalados en el artículo anterior; y
 
@@ -3099,9 +3173,11 @@ Los Consejos Distritales y Municipales darán publicidad a la lista de los lugar
 
 Durante el día de la elección se levantará el acta de la jornada electoral, que contendrá los datos comunes a todas las elecciones y las actas relativas al escrutinio y cómputo de cada una de ellas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2002)</small>
+
 ###### Artículo 197.
 
-El primer domingo de julio del año de la elección ordinaria, a las 8:00 horas, el Presidente, Secretario y Escrutadores de las Mesas Directivas de Casillas nombrados como propietarios, procederán a la instalación de la casilla en presencia de los representantes de partidos políticos que concurran.
+El primer domingo de julio del año de la elección de Gobernador, y el segundo domingo de marzo del año de la elección de diputados y miembros de los ayuntamientos, a las 8:00 horas el presidente, secretario y escrutadores de las mesas directivas de casillas nombrados como propietarios, procederán a la instalación de la casilla en presencia de los representantes de partidos políticos que concurran.
 
 A solicitud de un partido político, las boletas electorales podrán ser rubricadas o selladas por uno de los representantes partidistas ante la casilla designado por sorteo, quien podrá hacerlo por partes para no obstaculizar el desarrollo de la votación. La falta de rúbrica o sello en las boletas no será motivo para anular los sufragios recibidos. Acto continuo, se iniciará el levantamiento del acta de la jornada electoral, llenándose y firmándose el apartado correspondiente a la instalación de la casilla.
 
@@ -3683,11 +3759,11 @@ II. Integrar el expediente del cómputo, que contendrá copias certificadas de l
 
 III. Remitir al Tribunal el expediente señalado en la fracción anterior, cuando se hubiere presentado el juicio de inconformidad contra el cómputo de la elección por el principio de representación proporcional.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2002)</small>
 
 ###### Artículo 263.
 
-El Consejo General hará la asignación de diputados de representación proporcional, una vez resueltos por el tribunal los recursos que se hayan interpuesto en los términos de este Código. En todo caso la asignación deberá realizarse a mas tardar el día tres de agosto del año de la elección.
+El Consejo General hará la asignación de diputados de representación proporcional, una vez resueltos por el Tribunal los juicios de inconformidad que se hayan interpuesto en los términos de este Código. En todo caso la asignación deberá realizarse a más tardar el día veintiséis de abril del año de la elección.
 
 ###### Artículo 264.
 
@@ -3695,45 +3771,53 @@ No tendrán derecho a la asignación de diputados de representación proporciona
 
 I. Haber obtenido el 51% o más de la votación válida emitida, y que su número de constancias de mayoría relativa represente un porcentaje del total de la Legislatura, superior o igual a su porcentaje de votos; y
 
-II. Haber obtenido menos del 51% de la votación válida emitida y que su número de constancias de mayoría relativa sea igual o mayor a la mitad más uno de los miembros de la Legislatura.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2001)</small>
+II. Haber obtenido menos del 51% de la votación válida emitida y que su número de constancias de mayoría relativa sea igual o mayor a treinta y ocho; y
 
-###### Artículo 265.
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2002)</small>
 
-La distribución y asignación de diputados de representación proporcional por parte del Consejo General se sujetará a las siguientes reglas:
+III. No obtengan por lo menos el 1.5% de la votación válida emitida.
 
-I. Tendrán derecho a la asignación de diputados de representación proporcional los partidos que hubieren obtenido al menos el 1.5 % de la votación total emitida y cuyo número de constancias de mayoría relativa represente un porcentaje del total de integrantes de la Legislatura menos a su porcentaje de votos.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2002)</small>
 
-II. Se asignarán de forma tal que el número de diputados de cada partido represente un porcentaje del total de integrantes de la Legislatura lo más cercano posible a su porcentaje de la votación valida emitida.
+###### Articulo 265.
 
-III. El número de diputados de representación proporcional a asignar a cada partido se calculará de la siguiente manera:
+Serán asignados a cada partido político, los diputados de representación proporcional que sean necesarios para que su porcentaje de diputados en la Legislatura por ambos principios, sea igual al porcentaje que les corresponda en la votación válida. Por lo anterior, el Consejo General deberá efectuar el siguiente procedimiento:
 
-a). Se calculará el cociente de unidad, el cual será el resultado de dividir la votación valida efectiva menos la votación obtenida por aquellos partidos que por el principio de mayoría relativa hubieran obtenido un porcentaje de integrantes del total de la Legislatura mayor o igual a su porcentaje de la votación valida emitida entre el número total de integrantes de la Legislatura menos el número de diputados obtenidos por aquellos partidos que por el principio de mayoría relativa hubieran obtenido un porcentaje de integrantes del total de la Legislatura mayor o igual a su porcentaje de la votación valida emitida.
+I. Determinar la votación válida de la elección;
 
-b). A la votación de los partidos que participen en la asignación de diputados de representación proporcional se deberá restar el producto de multiplicar el total de diputados de mayoría relativa obtenidos por el cociente de unidad.
+II. Establecer el porcentaje de la votación válida que le corresponda a cada partido político, de acuerdo al número total de votos que haya obtenido, independientemente de haber postulado candidaturas comunes, o haber integrado alguna coalición.
 
-c). A cada partido se asignarán tanto diputados como su votación, una vez realizadas las deducciones señaladas en el inciso anterior, contenga el cociente de unidad.
+Para el caso de los partidos políticos que hayan integrado coaliciones, se considerará como votación válida, la suma de votos obtenidos en los distritos en que haya participado como partido político en lo individual, más los votos obtenidos en los distritos en que se hubiera participado como partido coaligado,
 
-d). Si después de haber realizado dicha asignación quedaren diputaciones por distribuir esta se realizará por resto mayor entendiendo por éste último al remanente mas alto entre los restos de las votaciones de cada partido una vez hecha la distribución de diputados mediante el cociente de unidad.
+atendiendo a los porcentajes que establezcan los convenios de coalición;
+
+III. Precisar el número de diputados que debe tener cada partido, para que su porcentaje de representatividad en la Legislatura, sea lo más cercano a su porcentaje de la votación valida;
+
+IV. Restar al resultado de la fracción anterior, el número de diputados obtenido por cada partido político según el principio de mayoría relativa;
+
+V. Asignar a cada partido político los diputados de representación proporcional, conforme al número por unidad entera que haya resultado en la fracción anterior; y
+
+VI. En el caso de quedar diputados por asignar, se distribuirán entre los partidos políticos que tuviesen la fracción restante mayor, siguiendo el orden decreciente.
+
+Se entenderá por fracción restante mayor, el remanente más alto entre los restos de las votaciones de cada partido político.
 
 ###### Artículo 266.
 
 (DEROGADO, P.O. 24 DE AGOSTO DE 2001)
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2002)</small>
 
 ###### Artículo 267.
 
-Para la asignación de los diputados de representación proporcional, los partidos políticos harán una declaratoria respecto al orden en que deba efectuarse, optando por cualesquiera de las alternativas siguientes:
+La asignación de diputados de representación proporcional, que corresponda a cada partido político conforme al artículo anterior, se hará alternando el orden de los candidatos que aparezcan en la lista presentada por los partidos políticos y el orden de los candidatos que no habiendo obtenido la mayoría relativa, hayan alcanzado el porcentaje más alto de votación minoritaria de su partido por distrito. En el supuesto de candidaturas comunes, la asignación corresponderá al partido político que le otorgue el mayor porcentaje de votos a la candidatura.
 
-A). La primera diputación corresponderá a la fórmula de candidatos que no habiendo obtenido mayoría relativa haya alcanzado el porcentaje más alto de la votación minoritaria de su partido.
+Tratándose de partidos políticos que se hayan coaligado para la elección de diputados, se integrará una lista por partido político que incluya a los candidatos postulados en lo individual, en coalición de acuerdo a los convenios respectivos, y en candidatura común, que no habiendo obtenido la mayoría relativa logren el porcentaje más alto de votación minoritaria por distrito, ordenada en forma decreciente de acuerdo a los porcentajes de votación obtenidos. Acto seguido, se procederá a la asignación en términos del párrafo anterior.
 
-Las demás a que tenga derecho cada partido serán asignadas alternativamente a la fórmula que aparezca en las listas de candidatos y en orden descendente de acuerdo al porcentaje de votación más alto de quienes no hubieren obtenido constancia de mayoría; o
+En todo caso la asignación se iniciará con la lista registrada en términos del artículo 22 de este Código.
 
-B).La primera diputación corresponderá a la fórmula de candidatos que aparezca encabezando la lista a que se refiere el artículo 22 de este ordenamiento.
-
-Las demás a que tenga derecho cada partido, serán asignadas alternativamente entre las listas de candidatos y a las fórmulas que hayan obtenido el porcentaje de votación más alto de su partido en forma descendente y que no haya obtenido constancia de mayoría.
+En el supuesto de que no sean suficientes los diputados que no habiendo obtenido la mayoría relativa, logren el porcentaje más alto de votación minoritaria de su partido por distrito, la asignación se hará con los candidatos de la lista registrada de conformidad con el artículo 22 del presente Código.
 
 ###### Artículo 268.
 
@@ -3743,7 +3827,7 @@ El Presidente del Consejo General expedirá a cada partido político las constan
 
 de Representación Proporcional
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2002)</small>
 
 ###### Artículo 269.
 
@@ -3799,7 +3883,7 @@ II. Asimismo, enviará copia certificada del expediente al Director del Institut
 
 ###### Artículo 274.
 
-Una vez resueltos en definitiva por el Tribunal los juicios de inconformidad que hubieren sido interpuestos en contra de los resultados consignados en el acta de escrutinio y cómputo de la elección de ayuntamientos, y en todo caso a más tardar el día 20 de julio del año de la elección, los Consejos Municipales celebrarán reunión para realizar la asignación de regidores de representación proporcional y, en su caso, de síndico de representación proporcional, que se integrarán a los ayuntamientos.
+Una vez resueltos en definitiva por el Tribunal los juicios de inconformidad que hubieren sido interpuestos en contra de los resultados consignados en el acta de escrutinio y cómputo de la elección de miembros de los ayuntamientos, y en todo caso a más tardar el día tres de mayo del año de la elección, los consejos municipales celebrarán reunión para realizar la asignación de regidores de representación proporcional y, en su caso, de síndicos de representación proporcional, que se integrarán a los ayuntamientos.
 
 ###### Artículo 275.
 
@@ -3903,7 +3987,7 @@ Cuando se hubiere presentado el juicio de inconformidad en contra del cómputo d
 
 ### CAPITULO SEGUNDO. De la Integración del Tribunal
 
-> <small>(REFORMADO PRIMERO PARRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2002)</small>
 
 ###### Artículo 282.
 
@@ -3913,9 +3997,9 @@ El Tribunal es competente para conocer y resolver los medios de impugnación pre
 
 ### CAPITULO PRIMERO. De la Organización del Tribunal
 
-###### Articulo 283.
+###### Artículo 283.
 
-El Tribunal se integrará con tres magistrados numerarios y dos supernumerarios, electos por el voto de las dos terceras partes de los diputados presentes en la sesión correspondiente de la Legislatura, de entre los ciudadanos propuestos por el Consejo de la Judicatura del Tribunal Superior de Justicia. Esa sesión se realizará en la primera quincena del mes de octubre del año previo al de la elección de diputados y ayuntamientos o de Gobernador del Estado, según corresponda.
+El Tribunal se integrará con tres magistrados numerarios y dos supernumerarios, electos por el voto de las dos terceras partes de los diputados presentes en la sesión correspondiente de la Legislatura, de entre los ciudadanos propuestos por el Consejo de la Judicatura del Tribunal Superior de Justicia. En su caso, la sesión se realizará a más tardar tres meses antes del inicio del proceso electoral de que se trate.
 
 Las propuestas serán presentadas a la Legislatura y turnadas a la Comisión que corresponda, la que en un término de 10 días naturales presentará el dictamen en el que funde y proponga la elección de los integrantes del Tribunal.
 
@@ -3949,11 +4033,11 @@ Durante el tiempo en que ejerzan sus funciones, los magistrados no podrán, en n
 
 Los Magistrados del tribunal son recusables y deberán excusarse de conocer algún asunto en el que tengan interés personal, por relaciones de parentesco, negocios, amistad o enemistad, que pueda afectar su imparcialidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2002
 
 ###### Artículo 287.
 
-El Tribunal se instalará e iniciará sus funciones a más tardar el 7 de enero del año de la elección que corresponda y concluirá sus actividades al término del proceso electoral de que se trate.
+Para la elección de Gobernador, el Tribunal se instalará e iniciará sus funciones a más tardar la primera semana del mes de enero del año de la elección; para la elección de diputados y miembros de los ayuntamientos a más tardar en la primera semana del mes de septiembre del año anterior al de la elección; en ambos casos concluirá sus actividades al término del proceso electoral de que se trate.
 
 En caso de elecciones extraordinarias se estará a lo dispuesto en la convocatoria respectiva.
 
@@ -4801,17 +4885,17 @@ Los juicios de inconformidad serán resueltos por mayoría de los integrantes de
 
 I. El veinticuatro de julio del año de la elección en caso de que se impugne la elección de Gobernador;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2002)</small>
 
-II. El primero de agosto del año de la elección en el caso de que se refieran a la elección de diputados;
+II. El veinticuatro de abril del año de la elección en el caso de que se refieran a la elección de diputados;
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2002)</small>
 
-lII. El diecinueve de julio del año de la elección, en el caso de que se impugne la elección de ayuntamientos; y
+III. El dos de mayo del año de la elección, en el caso de que se impugne la elección de miembros de los ayuntamientos; y
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2002)</small>
 
-IV. El tres de agosto del año de la elección, en el caso de que se refieran al cómputo y asignación de regidores y síndico de representación proporcional.
+IV. El cinco de junio del año de la elección, en el caso de que se refieran al cómputo y asignación de regidores y síndicos de representación proporcional.
 
 ###### Artículo 342.
 
@@ -4981,7 +5065,7 @@ Para cumplir con los objetivos para los cuales fue creada, la comisión celebrar
 
 ###### Artículo 352.
 
-El Consejero presidente del Consejo General tomará conocimiento de las infracciones en que incurran los notarios públicos que sin causa justificada dejen de cumplir las obligaciones que les señala este Código sin perjuicio de la imposición de otras sanciones previstas en este Código y en la legislación penal.
+El Consejero Presidente del Consejo General tomará conocimiento de las infracciones en que incurran los notarios públicos que sin causa justificada dejen de cumplir las obligaciones que les señala este Código sin perjuicio de la imposición de otras sanciones previstas en este Código y en la legislación penal.
 
 Conocida la infracción, el Consejo General integrará un expediente, que remitirá al Ejecutivo del Estado, quien concediendo la garantía de audiencia al perjudicado, dictará la resolución que corresponda.
 
@@ -5206,3 +5290,13 @@ P.O. 24 DE AGOSTO DE 2001
 Artículo Primero.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno"
 
 Artículo Segundo.- Este decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno"
+
+P.O. 1 DE ENERO DE 2002
+
+PRIMERO. Publíquese el presente Decreto en la "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+TERCERO. La Legislatura que resulte electa en el año dos mil tres, iniciará su ejercicio constitucional el cinco de septiembre del mismo año, y concluirá el cuatro de septiembre del dos mil seis.
+
+CUARTO. Los ayuntamientos que resulten electos en el año dos mil tres, iniciarán su ejercicio constitucional el dieciocho de agosto del mismo año, y concluirán el diecisiete de agosto del año dos mil seis.
