@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-1-1998-del-pleno-de-la-scjn-para-regular-el-410
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-03-02"
-last_updated: "1998-03-02"
+last_updated: "2003-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41034&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-03-02"
 
 ACUERDO GENERAL 1/1998, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PARA REGULAR EL TURNO DE EXPEDIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION: TOMO XVII, ABRIL DE 2003, PAGINA 1167.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo VII, Marzo de 1998, página 841.
 
@@ -127,6 +127,10 @@ SEXTO.-Si lo estiman conveniente, el Tribunal Pleno o las Salas podrán decidir 
 
 SÉPTIMO.-Cuando se estime que algún asunto de la competencia de una Sala debe ser resuelto por el Tribunal Pleno, el Ministro designado como ponente en aquélla lo será también en este último. En igual sentido se procederá en la hipótesis inversa.
 
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO 7/2003 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, S.J.F.G., TOMO XVII, ABRIL DE 2003, PAGINA 1167)</small>
+
+OCTAVO.-Los amparos en revisión y los amparos directos en revisión, una vez agotado el trámite para su admisión, se clasificarán, además, de acuerdo con la materia a la que correspondan y se enviarán a las Salas especializadas respectivas, para el efecto de que su presidente los radique y los distribuya entre sus integrantes, conforme a las reglas previstas en este acuerdo, hecha excepción de los asuntos en materia administrativa, cuyo turno se continuará llevando a cabo en la Subsecretaría General de Acuerdos. En todo caso, esta última hará la compensación a que se refiere el punto quinto de este acuerdo, para que ambas Salas reciban igual número de asuntos.
+
 ## TRANSITORIOS
 
 PRIMERO.-Este acuerdo general entrará en vigor el día de su aprobación.
@@ -140,3 +144,13 @@ LICENCIADO JOSÉ JAVIER AGUILAR DOMÍNGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA
 CERTIFICA:
 
 Que este Acuerdo General 1/1998, para regular el turno de expedientes, fue emitido por el Tribunal Pleno en sesión privada de dos de marzo de mil novecientos noventa y ocho, por unanimidad de diez votos de los Ministros presidente en funciones Juventino V. Castro y Castro, Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Humberto Román Palacios, Olga María Sánchez Cordero y Juan N. Silva Meza.-México, Distrito Federal, a dos de marzo de mil novecientos noventa y ocho.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+S.J.F.G., TOMO XVII, ABRIL DE 2003, PAGINA 1167.
+
+PRIMERO.-Este acuerdo general entrará en vigor el primero de abril de dos mil tres.
+
+SEGUNDO.-Los amparos en revisión y los amparos directos en revisión que se encuentran radicados en las Salas sin corresponder a su especialidad deberán enviarse a la Sala especializada correspondiente y efectuarse las compensaciones respectivas.
+
+TERCERO.-Publíquese en el Semanario Judicial de la Federación y su Gaceta.
