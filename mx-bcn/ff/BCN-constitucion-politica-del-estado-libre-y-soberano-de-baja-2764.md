@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1979-02-10"
+last_updated: "1979-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE DICIEMBRE DE 1979 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 1979.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 1979.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el 16 de agosto de 1953.
 
@@ -129,57 +131,49 @@ No pueden reunirse dos o más poderes en una sola persona o corporación ni depo
 
 El ejercicio del Poder Legislativo se deposita en una Asamblea de representantes del pueblo, que se denomina Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1979)</small>
 
 ###### ARTICULO 14.
 
-El Congreso del Estado se compone de diputados electos cada tres años. Por cada diputado propietario se elegirá un suplente.
+El Congreso del Estado se compondrá de diputados electos cada tres años; doce en forma directa y mayoritaria, uno por cada Distrito Electoral y, en su caso, de dos diputados de minoría que serán electos por votación en una circunscripción electoral única que abarcará todo el Estado, de acuerdo con lo establecido por esta Constitución y la Ley respectiva.
 
-El Congreso del Estado se integrará por doce diputados electos según el principio de votación mayoritaria relativa mediante el sistema de distritos electorales uninominales y hasta dos diputados que serán electos según el principio de representación proporcional mediante el sistema de listas, votadas en una circunscripción plurinominal única que abarcará todo el Estado, de acuerdo con lo establecido por esta Constitución y la ley respectiva.
+Por cada diputado propietario se elegirá un suplente.
 
-Los diputados electos por uno y otro sistemas tendrán las mismas obligaciones y gozarán de las mismas prerrogativas.
+Los diputados de mayoría y de minoría tendrán las mismas obligaciones y gozarán de las mismas prerrogativas.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1979)</small>
 
 ###### ARTICULO 15.
 
-La elección para los dos diputados según el principio de representación proporcional se sujetará a las bases generales siguientes y a lo que en lo particular disponga la Ley:
+La elección para los diputados de minoría se sujetará a lo que en lo particular disponga la Ley, según las bases generales siguientes:
 
-I.- Para obtener el registro de su lista, el partido político que lo solicite deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos la tercera parte de los distritos uninominales.
+I.- Los Partidos Políticos deberán participar en la elección de diputados por mayoría en por lo menos la tercera parte de los Distritos Electorales;
 
-II.- Tendrá derecho a que le sean atribuidos diputados electos según el principio de representación proporcional todo aquél partido que: A) no haya obtenido 2 o más constancias de mayoría y B) que alcance por lo menos el 1.5% del total de la votación emitida para todas las listas.
+II.- Tendrá derecho a que le sean atribuidos diputados de minoría todo aquel Partido que: A) .- No haya obtenido dos o más constancias de mayoría y B) .- Que alcance por lo menos el 1.5% del total de la votación emitida en el Estado, en la elección de candidatos de mayoría; y
 
-III.- Al partido que cumpla con los supuestos señalados en las Fracciones I y II de este Artículo, le serán asignados por el principio de representación proporcional el número de diputados de su lista que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal.
+III.- Al Partido que cumpla con los supuestos señalados en las Fracciones I y II de este Artículo, le será asignado un diputado de minoría en favor del candidato que en su respectivo Distrito haya obtenido el mayor número de votos de entre todos los candidatos de ese Partido que hayan participado en el proceso electoral.
 
-En caso de que dos o más partidos se encuentren en las condiciones mencionadas, se atribuirá un diputado al que mayor número de votos alcance y uno al partido que le siga en votación.
+En caso de que dos o más Partidos se encuentren en las condiciones mencionadas en este Artículo, se atribuirá, en los términos del Párrafo anterior, un diputado al que mayor número de votos alcance y uno al Partido que le siga en votación.
 
-La Ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
+De no presentarse la situación a que se refiere el Párrafo Segundo de esta Fracción, al que se encuentre en las condiciones de que trata el Primer Párrafo de esta Fracción, se le atribuirá otro diputado de minoría en favor del candidato que en su respectivo Distrito haya obtenido el segundo lugar en número de votación de entre todos los candidatos de ese Partido que hayan participado en el proceso electoral.
 
-IV.- En el caso de que dos o más partidos con derecho a participar en la distribución de las listas, obtengan en su conjunto 2 o más constancias de mayoría, sólo se atribuirá una de las curules que deben asignarse por el principio de representación proporcional, al que obtenga mayor número de votos.
+La Ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación.
 
 ###### ARTICULO 16.
 
 Los diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1979)</small>
 
 ###### ARTICULO 17.
 
 Para ser electo diputado propietario o suplente se requiere:
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1979)</small>
-
 I.- Ser ciudadano mexicano, por nacimiento, en ejercicio de sus derechos.
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1974)</small>
+II.- Tener 21 años cumplidos el día de la elección; y
 
-II.- Tener 21 años cumplidos al día de la elección;
-
-III.- Ser nativo del Estado con residencia no menor de dos años en el Distrito por el que sea postulado, o vecino del mismo distrito o población cuando en ella haya dos o más distritos, por lo menos durante cuatro años anteriores a la elección.
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1979)</small>
-
-Para poder figurar en las listas de la circunscripción plurinominal como candidato a diputado se requiere ser nativo del Estado o vecino del mismo por lo menos durante cuatro años anteriores a la elección.
+III.- Ser nativo del Estado con residencia no menor de dos años en el Distrito por el que sea postulado, o vecino del mismo Distrito o población cuando en ella haya dos o más Distritos, por lo menos durante cuatro años anteriores a la elección.
 
 ###### ARTICULO 18.
 
@@ -203,11 +197,13 @@ VII.- Los ministros de cualquier culto.
 
 El Congreso se renovará totalmente cada tres años y se instalará el día 1ro. de octubre posterior a la elección.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1979)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE DICIEMBRE DE 1979 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1979)</small>
 
 ###### ARTICULO 20.
 
-El Congreso calificará la elección de sus miembros a través de un Colegio Electoral que se integrará con los 4 presuntos diputados que, de acuerdo con las constancias de mayoría que registre la Comisión Local Electoral, hubiesen obtenido mayor número de votos, y por un presunto diputado que hubiese resultado electo en la circunscripción plurinominal, con mayor número de votos.
+El Congreso calificará la elección de sus miembros a través de un Colegio Electoral que se integrará con los cuatro presuntos diputados que, de acuerdo con las constancias de mayoría que registre la Comisión Local Electoral, hubiesen obtenido mayor número de votos, y, en su caso, por un presunto diputado de minoría que hubiese obtenido mayor número de votos, de acuerdo con la constancia que expida la Comisión Estatal Electoral.
 
 ###### ARTICULO 21.
 
@@ -687,25 +683,31 @@ La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y d
 
 El Gobierno de los Municipios se ejercerá por los Ayuntamientos que radicarán en las cabeceras de las Municipalidades.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1979)</small>
+
 ###### ARTICULO 77.
 
-Los Ayuntamientos se compondrán de Munícipes nombrados en elección popular directa y no habrá ninguna autoridad intermedia entre estos organismos y el Gobierno del Estado.
+Los Ayuntamientos se compondrán de Munícipes electos por votación popular directa y no habrá ninguna autoridad intermedia entre estos organismos y el Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1979)</small>
 
 ###### ARTICULO 78.
 
-Los Ayuntamientos estarán formados por un Presidente Municipal, y uno o dos Síndicos y los Regidores que determine la Ley, los que tendrán sus respectivos suplentes.
+Los Ayuntamientos estarán formados por un Presidente Municipal y los demás Munícipes que determine la Ley, los que tendrán sus respectivos suplentes.
 
-En los Ayuntamientos de los Municipios cuya población sea de trescientos mil o más habitantes, habrá además un Regidor electo según el principio de representación proporcional. Para determinar el Regidor que resulte electo según el principio de representación proporcional, se tendrá en cuenta la votación obtenida por los partidos minoritarios que participen en la elección, y de la planilla que obtenga una mayor cantidad de votos, se tomará al candidato que figure en primer término entre los postulados para el cargo de Regidor.
+En los Ayuntamientos de los Municipios cuya población sea de trescientos mil o más habitantes, podrá haber además, un Regidor de minoría. Para determinar el regidor de minoría, se tendrá en cuenta la votación de los partidos minoritarios que participen en la elección, y de la planilla que resulte entre ellos con mayor cantidad de votos, se tomará al candidato que figure en primer término entre los postulados para el cargo de regidor.
 
-La Ley establecerá todo lo relativo al proceso para la elección de los Ayuntamientos.
+La Ley establecerá lo relativo al proceso para la elección de los Ayuntamientos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 1979)</small>
 
 ###### ARTICULO 79.
 
-Para ser miembro de un Ayuntamiento, se requiere:
+Para ser miembro de un Ayuntamiento, con la salvedad de que el Presidente Municipal debe tener 25 años de edad el día de la elección, se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento e hijo de padres mexicanos.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1979)</small>
+
+I.- Ser ciudadano mexicano por nacimiento.
 
 II.- Ser nativo del Estado, con residencia no menor de dos años en el Municipio, o vecino de él por más de tres años.
 
@@ -837,7 +839,7 @@ Las relaciones entre el Estado y sus servidores estarán reguladas por Ley del S
 
 I.- Los trabajadores del Estado que sean de base, no podrán ser cesados sino por causa de incompetencia, mala conducta o de responsabilidad;
 
-II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigiiedad y antecedentes en el servicio;
+II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigiiedad (sic) y antecedentes en el servicio;
 
 III.- Serán preferidos en los empleos del Estado, en igualdad de circunstancias, las personas más necesitadas económicamente;
 
@@ -941,9 +943,9 @@ IV.- Funcionará, en la ciudad de Mexicali, con delegados en las poblaciones del
 
 V.- La Oficina del Registro de Electores, teniendo en cuenta los datos del Censo Nacional de Población en 1950, y las disposiciones de esta Constitución, formulará un proyecto de la división territorial del Estado en Distritos Electorales para la elección de Diputados a la Legislatura Local y la someterá a la Comisión Electoral del Estado para su revisión y aprobación.
 
-VI.- En cada una de las cabeceras de Distrito Electoral funcionará un Comité Distrital Electoral, con jurisdicción en todo el Distrito y con las facultades que a los Comités Distritales Electorales señala la Ley Electoral Federal, aplicadas sus disposiciones en lo conducente.
+VI.- En cada una de las cabeceras, de Distrito Electoral funcionará un Comité Distrital Electoral, con jurisdicción en todo el Distrito y con las facultades que a los Comités Distritales Electorales señala la Ley Electoral Federal, aplicadas sus disposiciones en lo conducente.
 
-VII.- Los Comités Distritales Electorales estarán integrados por un presidente, un secretario y un vocal, que serán designados por la Comisión Electoral del Estado, debiendo recaer los nombramientos en personas que reúnan los requisitos del artículo 20 de la Ley Electoral Federal;
+VII.- Los Comités Distritales Electorales estarán integrados por un presidente, un secretario y un vocal, que serán designados por la Comisión Electoral del Estado, debiendo recaer los nombramientos en personas que reúnan los requisitos del artículo 20 de la Ley Electoral Federal.
 
 En cada Comité Distrital los Partidos Políticos a que se refiere la base IX podrán acreditar, cada uno de ellos, un representante propietario y un suplente. Los representantes serán citados a las sesiones que celebre el Comité y podrán intervenir, sin voto, en sus deliberaciones. Las designaciones de representantes ante los Comités Distritales serán registrados en la Comisión Electoral del Estado.
 
@@ -973,7 +975,7 @@ XIX.- Los Partidos Políticos a que se refiere la base IX y los candidatos que h
 
 ###### ARTICULO QUINTO.
 
-El día 5 de Noviembre del presente año, sin necesidad de previa citación, se reunirán, en el recinto que oficialmente se destine para ello, las personas que, habiendo obtenido mayoría de votos en las elecciones para diputados, hubieren obtenido también el registro de su constancia de mayoría. Una vez reunidos procederán, aplicando, en lo conducente, las disposiciones contenidas en el Reglamento para el Gobierno Interior del Congreso de la Unión, en cuanto no pugnen a las prevenciones de la presente, y procederán a constituirse en junta preparatoria del primer Congreso del Estado, nombrando para el efecto un presidente y dos secretarios.
+El día 5 de noviembre del presente año, sin necesidad de previa citación, se reunirán, en el recinto que oficialmente se destine para ello, las personas que, habiendo obtenido mayoría de votos en las elecciones para diputados, hubieren obtenido también el registro de su constancia de mayoría. Una vez reunidos procederán, aplicando, en lo conducente, las disposiciones contenidas en el Reglamento para el Gobierno Interior del Congreso de la Unión, en cuanto no pugnen a las prevenciones de la presente, y procederán a constituirse en junta preparatoria del primer Congreso del Estado, nombrando para el efecto un presidente y dos secretarios.
 
 ###### ARTICULO SEXTO.
 
@@ -1110,5 +1112,9 @@ P.O. 10 DE FEBRERO DE 1974.
 UNICO.- Esta reforma entrará en vigor treinta días después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 P.O. 10 DE FEBRERO DE 1979.
+
+UNICO.- Las reformas a que se refiere el presente Decreto entrarán en vigor una vez cumplido el procedimiento establecido en el Artículo 112 de la Constitución Política del Estado, y al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 20 DE NOVIEMBRE DE 1979.
 
 UNICO.- Las reformas a que se refiere el presente Decreto entrarán en vigor una vez cumplido el procedimiento establecido en el Artículo 112 de la Constitución Política del Estado, y al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
