@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-registro-civil-del-estado-de-baja-3232"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-05-10"
-last_updated: "2000-02-18"
+last_updated: "2001-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 10 de mayo de 1983.
 
@@ -39,23 +39,29 @@ LEY ORGANICA DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 1o.
 
-El Registro Civil, es Institución de Orden Público e Interés Social, que tiene efectos en toda la República por estar prevista en la Constitución General, por medio de la cual se hacen constar los actos y hechos relativos al registro civil de las personas físicas, mediante actas en que se consignen el nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, ocurridos en el territorio del mismo, la inscripción de sentencias ejecutorias referentes a declaración de ausencia, presunción de muerte o pérdida de la capacidad legal por interdicción.
+El Registro Civil, es una Institución de orden público e interés social, que tiene efectos en toda la República por estar prevista en la Constitución Política de los Estados Unidos Mexicanos, por medio de la cual se hacen constar los actos y hechos relativos al registro civil de las personas físicas, mediante actas en que se consignen el nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, y defunción de los mexicanos y extranjeros residentes en el territorio del mismo, así como la anotación de sentencias ejecutorias referentes a tutela, declaración de ausencia, presunción de muerte o pérdida de la capacidad legal para administrar bienes o interdicción.
 
 ###### ARTICULO 2o.
 
 La coordinación del Registro Civil, estará a cargo del Gobierno del Estado, ejercida a través de las Oficialías del Registro Civil, las cuales en su régimen administrativo, dependerán de la Secretaría General de Gobierno por conducto del Departamento del Registro Civil.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 3o.
 
-Sin perjuicio de lo dispuesto por el Artículo anterior, el personal de las Oficialías del Registro Civil será remunerado por el Ayuntamiento correspondiente, el que proporcionará todo lo necesario para la labor de las mismas.
+Sin perjuicio de lo dispuesto por el artículo anterior, el personal de las Oficialías del Registro Civil será remunerado por el Ayuntamiento correspondiente, el que proporcionará todo lo necesario para la labor de las mismas.
 
-Los derechos que se obtengan con motivo del servicio del Registro Civil, ingresarán al Erario de los Municipios respectivos.
+Los ingresos que se obtengan en concepto de derechos y sanciones con motivo del servicio que presten las Oficialías del Registro Civil, ingresarán al erario de los municipios respectivos.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 4o.
 
-En cada una de las cabeceras de los Municipios de Mexicali, Tijuana, Ensenada y Tecate, habrá una Oficialía del Registro Civil, las que ejercerán sus funciones en la jurisdicción que les corresponda.
+En cada una de las cabeceras de los Municipios del Estado, habrá por lo menos una Oficialía del Registro Civil, las que ejercerán sus funciones en la jurisdicción que les corresponda.
 
 ###### ARTICULO 5o.
 
@@ -93,29 +99,35 @@ El Jefe del Departamento del Registro Civil, será designado por el Ejecutivo de
 
 El Departamento del Registro Civil, radicará en la Capital del Estado.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 11.
 
-El Departamento del Registro Civil, tendrá las siguiente atribuciones:
+El Jefe del Departamento del Registro Civil, tendrá las siguientes atribuciones:
 
 I.- Coordinar y supervisar el funcionamiento de las Oficialías del Registro Civil;
 
-II.- Capacitar a los Oficiales y demás funcionarios y empleados del Registro Civil;
+II.- Capacitar e instruir a los Oficiales y demás funcionarios y empleados del Registro Civil;
 
 III.- Organizar y administrar el Archivo General del Registro Civil a su cargo;
 
-IV.- Proponer al Ejecutivo del Estado, el número y ubicación de las Oficialías del Registro Civil en cada Municipio de la Entidad, de acuerdo a las circunstancias socio-económicas del lugar, sus distancias, medios de comunicación y la población existente, considerando la opinión del Presidente Municipal;
+IV.- Proponer al Ejecutivo del Estado, el número y ubicación de las Oficialías del Registro Civil en cada Municipio de la Entidad, de acuerdo a las circunstancias socioeconómicas del lugar, sus distancias, medios de comunicación y la población existente, considerando las propuestas del Presidente Municipal;
 
-V.- Resolver sobre las aclaraciones de las actas del Registro Civil;
+V.- Resolver sobre las rectificaciones de las actas del Registro Civil;
 
 VI.- Llevar a cabo en coordinación con las Dependencias que correspondan, las acciones tendientes al mejoramiento de la Institución;
 
 VII.- Determinar el tipo de papelería oficial y formas de actas, que de manera uniforme se utilizarán en las Oficialías del Registro Civil;
 
-VIII.- Distribuir a los Oficiales del Registro Civil en el Estado, la Clave Unica del Registro de Población, y vigilar que se asigne dicha Clave en todas las actas de nacimiento, con arreglo al Manual de Procedimientos de la Dirección General del Registro Nacional de Población de la Secretaría de Gobernación;
+VIII.- Distribuir a los Oficiales del Registro Civil en el Estado, la Clave de Registro e Identificación Personal, y vigilar que se asigne dicha Clave en todas las actas de nacimiento, con arreglo al Manual de Procedimientos de la Dirección General del Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación;
 
 IX.- Girar las instrucciones e instructivos necesarios para el buen funcionamiento del Registro Civil;
 
-X.- Las demás que le confieran otras Leyes y Reglamentos.
+X.- Resolver sobre el procedimiento de cancelación de actas del Registro Civil que se les presenten;
+
+XI.- Expedir copia certificada de las actas y constancias que se encuentren en el Archivo General del Registro Civil; y
+
+XII.- Las demás que le confieren otras Leyes y Reglamentos.
 
 ### CAPITULO III. DEL ARCHIVO DEL REGISTRO CIVIL
 
@@ -123,23 +135,29 @@ X.- Las demás que le confieran otras Leyes y Reglamentos.
 
 En el Archivo General del Departamento del Registro Civil, se conservarán los ejemplares de las actas que se reciban de las Oficialías del Registro Civil, conforme lo dispuesto por el Artículo 43 del Código Civil.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 13.
 
-Los ejemplares de las actas a que se refiere el Artículo anterior, correspondientes a un mismo año, se encuadernarán en orden cronológico, formándose volúmenes que serán autorizados en su primera y última hoja, por el Jefe del Departamento del Registro Civil.
+Los ejemplares de las actas a que se refiere el Artículo anterior, correspondientes a un mismo año, una vez utilizadas se ordenarán cronológicamente con el sistema que autorice el Jefe del Departamento del Registro Civil.
 
 ###### ARTICULO 14.
 
 En la autorización se determinará, la naturaleza del acto o hecho a que se refiera el volumen respectivo, la Oficialía de la que se originen, número y fecha del acta con que empieza y termina, la fecha de la autorización y la firma del Jefe del Departamento del Registro Civil.
 
+> <small>(REFORMADO, P.O 14 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 15.
 
-Cuando no sea posible obtener copias certificadas de las actas existentes en la Oficialía del Registro Civil, el Departamento del Registro Civil las expedirá previo el pago de los derechos respectivos.
+El Departamento del Registro Civil expedirá copias certificadas de las actas y constancias que se encuentren en su Archivo General, previo pago de los derechos correspondientes.
 
 ### CAPITULO IV. DE LAS INSPECCIONES
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 16.
 
-El Departamento del Registro Civil, vigilará que las actas del Registro Civil se levanten y encuadernen conforme a las disposiciones del Código Civil en vigor y de esta Ley.
+El Jefe del Departamento del Registro Civil, vigilará que las actas del Registro Civil se levanten conforme a las leyes de la materia y demás disposiciones aplicables.
 
 ###### ARTICULO 17.
 
@@ -153,19 +171,23 @@ Las inspecciones podrán ser ordinarias o extraordinarias. Serán ordinarias las
 
 Las inspecciones se realizarán con la presencia del Oficial del Registro Civil y el resultado se consignará en una acta, la que deberá firmarse por el Inspector, dicho Oficial y, en su caso, por las demás personas que queden comprendidas en ellas.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 20.
 
-Con el resultado de la inspección, el Jefe del Departamento del Registro Civil, dará cuenta en su caso al Secretario General de Gobierno.
+Con el resultado de la inspección, el Jefe del Departamento del Registro Civil, dará cuenta al Secretario General de Gobierno y notificará al Secretario del Ayuntamiento respectivo.
 
 ### CAPITULO V. DE LA DOTACION DE FORMAS DE ACTAS
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 21.
 
-La dotación de las formas de las actas del Registro Civil, se hará para ser utilizadas por un año, en el número que sea necesario de acuerdo con el movimiento de la Oficialía.
+La dotación de las formas de las actas del Registro Civil, se hará (sic) para ser utilizadas por un año, en el número que sea necesario de acuerdo con el movimiento de la Oficialía.
 
 El Ayuntamiento respectivo, tendrá a su cargo la dotación de que se trata, así como el suministro del papel especial para copias certificadas.
 
-Para los efectos indicados, cada Oficialía en el mes de septiembre, solicitará el Ayuntamiento lo que sea necesario, para que sea entregado a más tardar en la segunda quincena del mes de diciembre.
+Para los efectos indicados, cada Oficialía en el mes de septiembre, solicitará al Ayuntamiento lo que sea necesario, para que sea entregado a más tardar el día quince de diciembre.
 
 Las formas no utilizadas que se hayan dotado, se remitirán al Departamento del Registro Civil, para el efecto de ser canceladas por el Jefe de dicha Dependencia.
 
@@ -183,9 +205,11 @@ Las formas del Registro Civil, serán autorizadas y foliadas para su utilizació
 
 Los documentos relacionados con las actas del Registro Civil, forman el apéndice de las mismas, el cual será integrado como suplemento referido a los datos que contienen.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 25.
 
-En el apéndice a que alude el Artículo anterior, se agregarán todos los documentos relativos a requisitos establecidos por la Ley, para el levantamiento de las actas del Registro Civil, lo cual se cumplirá sin excepción alguna.
+En el apéndice a que alude el Artículo anterior, se agregarán como mínimo las constancias relativas al acto o hecho objeto de registro, copias certificadas de las actas del estado civil de las personas que corresponda, copia de las identificaciones con fotografía, copia certificada de las resoluciones judiciales o administrativas correspondientes; información de hechos en vía de jurisdicción voluntaria y certificado de inexistencia.
 
 ###### ARTICULO 26.
 
@@ -193,23 +217,31 @@ El apéndice correspondiente a cada una de las actas del Registro Civil, quedar�
 
 ### CAPITULO VII. DE LAS ACTAS DEL REGISTRO CIVIL
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 27.
 
 Las actas del Registro Civil, se asentarán según su naturaleza en las formas autorizadas al efecto y su contenido se ajustará a las disposiciones de la Ley, debiendo quedar autorizadas el mismo día en que se consigne o se realice el acto a que se refieran.
 
-Los ejemplares de las actas de un mismo año correspondientes a la Oficialía, se encuadernarán en orden cronológico, formándose volúmenes que serán autorizados en su primera y última hoja por el Oficial del Registro Civil, en los términos del Artículo 14 de esta Ley.
+Los ejemplares de las actas de un mismo año correspondientes a la Oficialía, se ordenarán cronológicamente con el sistema que autorice el Jefe del Departamento del Registro Civil.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 28.
 
-Las formas a que se refiere el Artículo precedente, serán por cuadruplicado con el sistema de calca que se autorice, de tal manera que su contenido resulte exacto.
+Las formas a que se refiere el Artículo precedente, serán por triplicado con el sistema de calca que se autorice, de tal manera que su contenido resulte exacto.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 29.
 
-Los datos de cada acta, se anotarán con toda precisión a máquina, verificándose con los mismos interesados la exactitud de los nombres y apellidos en cuanto a su ortografía, si hay duda al respecto, así como cuando de no asentarse correctamente, signifiquen cambio en la realidad del contenido.
+Los datos de cada acta, se anotarán con toda precisión con el sistema que autorice el Jefe del Departamento del Registro Civil, verificándose con los mismos interesados la exactitud de los nombres y apellidos en cuanto a su ortografía, si hay duda al respecto, así como cuando de no asentarse correctamente, signifiquen cambio en la realidad del contenido.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 30.
 
-Los cuatro tantos de las actas se destinarán, el original para formar el volumen de la Oficialía, una copia para integrar el volumen duplicado del Archivo General del Departamento del Registro Civil, otra copia se remitirá a la Dirección General del Registro Nacional de Población de la Secretaría de Gobernación, por conducto del Departamento del Registro Civil, y la última copia, será para el interesado, previo el pago de los derechos correspondientes.
+De los tres tantos de las actas se destinará un ejemplar de ellas al interesado, otro quedará en el Archivo de la Oficialía y otro se remitirá al Departamento del Registro Civil. El Jefe del Departamento del Registro Civil, enviará la información relativa de las actas levantadas a la Dirección General del Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación y a cualquier dependencia que así lo solicite, mediante el sistema de reproducción que estime conveniente.
 
 ###### ARTICULO 31.
 
@@ -225,19 +257,25 @@ Los nombres y demás datos se escribirán completos, no se utilizarán abreviatu
 
 Queda prohibido a los Oficiales del Registro Civil, asentar en el acta de nacimiento o de reconocimiento, la condición de hijo natural, adulterino o incestuoso, de padre desconocido, ilegítimo o cualquier otra calificación, aunque así se declare al presentarlo. En cualquier acta que contenga alguna de tales calificaciones, se tachará de oficio por quien tenga a su cargo las actas.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 34.
 
-Tratándose de duplicidad de actas, en que se hagan constar datos distintos respecto de la misma persona a que se refiera el registro, se atenderá a la primera en fecha, y únicamente se expedirán copias certificadas respecto de ésta.
+Los Oficiales del Registro Civil o el Jefe del Departamento en su caso, tratándose de duplicidad de actas, en que se hagan constar datos distintos respecto de la misma persona a que se refiera el registro, se atenderá a la primera en fecha, y únicamente se expedirán copias certificadas respecto de ésta.
 
 Si se trata de duplicidad de actas y contengan los mismos datos, se cancelará la inscripción posterior.
 
-A quien dé lugar a la duplicidad de actas del registro en los términos de este Artículo, se le impondrá una multa de quinientos a mil pesos.
+En ambos casos el procedimiento iniciará a petición del interesado ante el Jefe del Departamento del Registro Civil por conducto del Oficial del Registro Civil.
+
+A quien dé lugar a la duplicidad de actas del Registro Civil en los términos de este Artículo, se le impondrá una multa de diez a cincuenta veces el salario mínimo general vigente en el Estado.
 
 ### CAPITULO VIII. DE LAS ANOTACIONES
 
+(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001
+
 ###### ARTICULO 35.
 
-Las anotaciones que ordene la autoridad judicial o administrativa correspondiente, comenzarán al calce del acta y continuarán al reverso de la misma.
+Las anotaciones que ordene la autoridad judicial o administrativa correspondiente, comenzarán al calce del acta y continuarán al reverso de la misma. En caso de que no sea posible, se adherirá una hoja, que contendrá la certificación del funcionario correspondiente, así como la referencia del acta a la cual pertenece.
 
 ###### ARTICULO 36.
 
@@ -253,9 +291,11 @@ Cada Oficialía del Registro Civil, contará con el local adecuado y los element
 
 Los empleados administrativos de la Oficialía, serán nombrados por el Presidente Municipal en los términos de la Ley Orgánica Municipal.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 39.
 
-Los empleados administrativos serán mexicanos, mayores de edad, preferentemente con instrucción secundaria como mínimo, escritura legible y ortográfica, de reconocida buena conducta, y de ser posible, vecinos de la jurisdicción municipal.
+Los empleados administrativos de las Oficialías del Registro Civil serán mexicanos, mayores de edad, preferentemente con instrucción preparatoria como mínimo, escritura legible y ortográfica, de reconocida buena conducta, y de ser posible, vecinos de la jurisdicción municipal.
 
 ###### ARTICULO 40.
 
@@ -265,9 +305,11 @@ Los empleados administrativos, al recabar la información para la confección de
 
 Los empleados administrativos dependerán, en cuanto a su labor, directamente del Oficial del Registro Civil, quien vigilará, bajo su responsabilidad, que el servicio se desempeñe con prontitud y eficacia.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 42.
 
-Queda prohibido a los empleados administrativos, intervenir como testigos en las actas de la Oficialía del Registro Civil en que laboren; demorar el despacho de los asuntos o condicionarlo a la percepción de gratificaciones de cualquier especie.
+Queda prohibido a los empleados administrativos, intervenir como testigos en las actas del Registro Civil en que laboran; excepto cuando tengan parentesco con cualquiera de los interesados del acto; demorar el despacho de los asuntos o condicionarlo a la percepción de gratificaciones de cualquier especie.
 
 ###### ARTICULO 43.
 
@@ -275,21 +317,27 @@ La titularidad de las Oficialías del Registro Civil, estará a cargo de los fun
 
 Los Oficiales del Registro Civil, serán designados por el Ejecutivo del Estado, a propuestas del Presidente Municipal respectivo.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 44.
 
 Para ser Oficial del Registro Civil, se requiere:
 
 I.- Ser mexicano, mayor de edad y con plena capacidad legal;
 
-II.- Haber concluído como mínimo, su instrucción secundaria, prefiriéndose a quienes sean Licenciados o Pasantes de Derecho;
+II.- Ser Licenciado en Derecho con título profesional registrado ante autoridad competente;
 
 III.- No ser Ministro de algún culto religioso; y
 
 IV.- No tener antecedentes penales por delitos dolosos y ser de reconocida buena conducta y probidad.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 45.
 
 Tratándose de nacimientos y defunciones ocurridos en una población en que no haya Oficial del Registro Civil, la inscripción se hará ante el Delegado Municipal que corresponda, el que para esos efectos ejercerá funciones de Oficial del Registro Civil.
+
+En el registro de defunciones a que se refiere el párrafo anterior, el Jefe del Departamento del Registro Civil tomando en consideración las necesidades de la población en cuestión y la seguridad de este registro, otorgará las facilidades que sean necesarias al Delegado Municipal para el cumplimiento de esta función.
 
 ###### ARTICULO 46.
 
@@ -361,19 +409,27 @@ XXXI.- Las demás que le confieran otras Leyes y Reglamentos.
 
 Los Oficiales del Registro Civil, no podrán desempeñar otro cargo o empleo en la administración pública federal, estatal o municipal.
 
-### CAPITULO X. DE LA ACLARACION DE ACTAS DEL REGISTRO CIVIL
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
+### CAPITULO X. DE LA RECTIFICACION DE LAS ACTAS DEL REGISTRO CIVIL
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 48.
 
-La aclaración de las actas del Registro Civil, corresponderá su conocimiento y su resolución, al Departamento del Registro Civil en los términos del Código Civil.
+La rectificación de las actas del Registro Civil, corresponderá su conocimiento y su resolución, al Departamento del Registro Civil en los términos del Código Civil.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 49.
 
-Si la solicitud de aclaración de acta que deba presentarse, no fuere clara o no se acompañase prueba, el Departamento del Registro Civil prevendrá, por una sola ocasión al promovente, para que la aclare o presente la prueba.
+Si la solicitud de rectificación de acta que deba presentarse, no fuere clara o no se acompañase prueba, el Departamento del Registro Civil prevendrá, por una sola ocasión al interesado por un término de treinta días, para que la aclare o presente la prueba.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 50.
 
-El Jefe del Departamento podrá recabar la información complementaria que sea menester, para resolver lo que corresponda.
+El Jefe del Departamento podrá recabar la información complementaria que sea menester, para resolver lo que corresponda y dará vista el Agente del Ministerio Público cuando lo considere necesario.
 
 ###### ARTICULO 51.
 
@@ -395,13 +451,15 @@ Los datos que aparezcan en la constancia y que no se requieran en el acta, no se
 
 La constancia debe anexarse al apéndice, relacionada con el acta.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 55.
 
-Para poder inscribir constancias relativas al Registro Civil, provenientes del Extranjero, se requiere:
+Para poder inscribir constancias relativas al Registro Civil, provenientes del extranjero, se requiere:
 
-I.- Que la constancia relativa sea debidamente legalizada por las autoridades diplomáticas o consulares, como lo dispone el Artículo 131 del Código Federal de Procedimientos Civiles; y
+I.- Que la constancia relativa sea debidamente legalizada por las autoridades diplomáticas o consulares, como lo dispone el artículo 131 del Código Federal de Procedimientos Civiles o en su caso la apostilla del país de procedencia del documento; y
 
-II.- En caso de que no exista traducción para la legalización del documento proveniente del Extranjero, se exigirá la traducción de la constancia por Perito Oficial.
+II.- En caso de que no exista traducción para la legalización del documento proveniente del extranjero, se exigirá la traducción de la constancia por Perito Oficial.
 
 ###### ARTICULO 56.
 
@@ -519,6 +577,12 @@ Los Oficiales del Registro Civil, serán suplidos en sus faltas temporales, que 
 
 Tratándose de faltas mayores de un mes del Jefe del Departamento del Registro Civil y de los Oficiales del Registro Civil, se requerirá licencia, la cual será concedida por el Ejecutivo del Estado, quien designará a la persona que los substituya en forma interina.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
+ARTICULO 69 BIS.- El Jefe del Departamento y las Oficiales del Registro Civil, para el buen ejercicio de sus funciones, podrán designar dentro de su personal administrativo quien los supla en programas, trabajos, o comisiones especiales, con las facultades que previamente le sean asignadas y con la autorización de la Secretaría General de Gobierno.
+
+El Oficial del Registro Civil dará cuenta de su designación al Secretario del Ayuntamiento respectivo, quien la notificará al Secretario General de Gobierno.
+
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE FEBRERO DEL 2000)</small>
 
 ### CAPITULO XIV. DE LAS ACTAS DE NACIMIENTO RELATIVAS A LA ADOPCION PLENA
@@ -580,3 +644,7 @@ PROFR. MARCO ANTONIO BOLAÑOS CACHO.
 P.O. 18 DE FEBRERO DEL 2000.
 
 UNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 14 DE SEPTIEMBRE DE 2001.
+
+UNICO: Las presentes reformas entrarán en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
