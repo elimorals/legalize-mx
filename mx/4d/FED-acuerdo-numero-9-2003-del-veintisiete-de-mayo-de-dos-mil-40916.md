@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-9-2003-del-veintisiete-de-mayo-de-dos-mil-40916"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-06-06"
-last_updated: "2003-06-06"
+last_updated: "2003-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40916&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-27"
 
 ACUERDO NUMERO 9/2003 DEL VEINTISIETE DE MAYO DE DOS MIL TRES, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, QUE ESTABLECE LOS ORGANOS, CRITERIOS Y PROCEDIMIENTOS INSTITUCIONALES, PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DE ESTE ALTO TRIBUNAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION Y SU GACETA: TOMO XVIII, DICIEMBRE DE 2003, PAGINA 1483.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XVII, Mayo de 2003, página 1319.
 
@@ -250,6 +250,10 @@ IX. Las demás necesarias para garantizar y agilizar el flujo de información en
 Las Unidades Departamentales y, en su caso, la de Enlace serán las responsables de clasificar la información en posesión de la Suprema Corte, de conformidad con los criterios establecidos en la Ley, este acuerdo y los lineamientos expedidos por la Comisión.
 
 La determinación sobre la naturaleza reservada o confidencial de un expediente jurisdiccional será realizada por el Presidente de la Suprema Corte o por el de la Sala correspondiente, una vez que el Pleno o éstas emitan la sentencia respectiva.
+
+> <small>(ADICIONADO, S.J.F.G., TOMO XVIII, DICIEMBRE DE 2003, PAGINA 1483)</small>
+
+Tratándose de las sentencias ejecutorias y demás resoluciones públicas que obran en los expedientes de los Tribunales de Circuito o de los Juzgados de Distrito que se encuentran archivados en las Casas de la Cultura Jurídica, en el Archivo Judicial de la Ciudad de México o en el Centro Archivístico Judicial, para los fines exclusivos de este acuerdo general, se faculta a los titulares de esas unidades departamentales para expedir copias certificadas de las referidas resoluciones, lo que implica, en su caso, suprimir los datos personales de las partes.
 
 ###### Artículo 15.
 
@@ -597,7 +601,13 @@ SEGUNDO.- El presente acuerdo entrará en vigor el doce de junio de dos mil tres
 
 TERCERO.- Se derogan todas las disposiciones administrativas que se opongan al presente acuerdo.
 
-CUARTO.- Los expedientes relativos a los asuntos de naturaleza penal o familiar que a la entrada en vigor de este acuerdo se encuentran bajo resguardo de la Suprema Corte constituyen Información Reservada por el plazo de doce años contado a partir de esa fecha, por lo que las sentencias respectivas se publicarán suprimiendo los datos personales de las partes. Tratándose de las sentencias ejecutorias correspondientes a los demás expedientes que se encuentran en esa situación, los datos personales de las partes que consten en ellas podrán adquirir el carácter de reservados, al tenor de los lineamientos que emita la Comisión, sin menoscabo de que, en un plazo de sesenta días naturales contado a partir de la entrada en vigor de este acuerdo, las partes puedan oponerse a que tales datos se hagan públicos, lo que provocará que adquieran el carácter de confidenciales.
+> <small>(REFORMADO, S.J.F.G. TOMO XVIII, DICIEMBRE DE 2003, PAGINA 1483)</small>
+
+CUARTO.- Los expedientes relativos a los asuntos penales o familiares que antes del doce de junio de dos mil tres se encontraban bajo resguardo de la Suprema Corte, son de consulta pública una vez que haya transcurrido el plazo de treinta y seis años, contado a partir de la fecha en que se haya ordenado su archivo; sin menoscabo de que, respecto de los que no haya fenecido ese plazo, al ser público el acceso a las sentencias ejecutorias y a las demás resoluciones públicas contenidas en todos esos expedientes, para la consulta de éstas deberá generarse una versión de la cual se supriman los datos personales de las partes.
+
+Es público el acceso a los expedientes de materias diversas a las señaladas en el párrafo que antecede, que en la misma fecha se encontraban bajo resguardo de este Alto Tribunal, sin menoscabo de que, en un plazo de sesenta días naturales contado a partir de la entrada en vigor de este acuerdo, las partes puedan oponerse a su publicidad, lo que impedirá la consulta del expediente respectivo por el plazo señalado en el párrafo primero de este numeral y provocará el carácter confidencial de los datos de las partes que consten en las sentencias ejecutorias y demás resoluciones públicas contenidas en ellos, por lo que para la difusión de éstas será necesario generar una versión de la cual se supriman esos datos.
+
+Para la consulta de los expedientes señalados en los párrafos primero y segundo de este artículo, el solicitante deberá suscribir un documento en el que se comprometa a no divulgar la información considerada legalmente como confidencial que contengan aquellos, excepto cuando cuente con autorización del titular de la misma o de los sucesores de éste.
 
 QUINTO.- La atribución conferida en el artículo 14 de este acuerdo al Presidente de la Suprema Corte y a los de las Salas que la integran se ejercerá respecto de los expedientes cuyas sentencias se dicten a partir del doce de junio de dos mil tres.
 
@@ -614,3 +624,13 @@ LICENCIADO JOSÉ JAVIER AGUILAR DOMÍNGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA
 CERTIFICA:
 
 Que este Acuerdo Número 9/2003, que establece los órganos, criterios y procedimientos institucionales, para la Transparencia y Acceso a la Información Pública de este Alto Tribunal, fue emitido por el Tribunal Pleno en sesión pública celebrada hoy veintisiete de mayo de dos mil tres, por unanimidad de diez votos de los señores Ministros presidente Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano, Genaro David Góngora Pimentel, Juventino V. Castro y Castro, Juan Díaz Romero, José Vicente Aguinaco Alemán, Guillermo I. Ortiz Mayagoitia, Humberto Román Palacios, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza.- México, Distrito Federal, a veintisiete de mayo de dos mil tres.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+S.J.F.G., TOMO XVIII, DICIEMBRE DE 2003, PAGINA 1483.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- En la medida en que beneficie a los solicitantes, este acuerdo rige la ejecución de las resoluciones emitidas por la comisión y por el comité antes de su entrada en vigor.
+
+TERCERO.- Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta, así como en el Diario Oficial de la Federación; y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública; asimismo, hágase del conocimiento de los servidores públicos a los que corresponda su aplicación.
