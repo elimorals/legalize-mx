@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "1985-02-08"
+last_updated: "1986-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1986.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 24 de abril de 1972.
 
@@ -230,7 +230,13 @@ El Director General tendrá las siguientes atribuciones y funciones:
 
 I.- Representar legalmente al Instituto con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranzas, actos de administración y de dominio, y las especiales que requieran cláusula especial conforme a la ley, en los términos de los tres primeros párrafos del artículo 2554 del Código Civil para el Distrito Federal. Estas facultades las ejercerá en la forma en que acuerde el Consejo de Administración.
 
-El Director General podrá otorgar y revocar poderes generales o especiales; pero cuando sean en favor de personas ajenas al Instituto, deberá recabar previamente el acuerdo del Consejo de Administración;
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
+
+El Director General podrá delegar la representación, incluyendo la facultad expresa para conciliar ante las Juntas de Conciliación y Arbitraje así como otorgar y revocar poderes generales o especiales, pero cuando sean en favor de personas ajenas al Instituto deberá recabar previamente el acuerdo del Consejo de Administración.
+
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1986)</small>
+
+Las facultades que corresponden al Instituto, en su carácter de organismo fiscal autónomo, de conformidad con el artículo 30 de esta Ley, se ejercerán por el Director General, el Subdirector Jurídico o los Delegados Regionales, en los términos que al efecto fije el Reglamento Interior del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
 
 II.- Asistir a las sesiones de la Asamblea General y del Consejo de Administración, con voz, pero sin voto;
 
@@ -352,9 +358,11 @@ Las aportaciones y las entregas de los descuentos, a que se refiere el artículo
 
 La Secretaría de Hacienda y Crédito Público entregará al Instituto, en un plazo no mayor de quince días, el importe total de las recaudaciones efectuadas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE ENERO DE 1986)</small>
+
 ###### ARTICULO 40.
 
-En los casos de jubilación o de incapacidad total permanente, se entregará al trabajador el total de los depósitos que tenga a su favor en el Instituto. En caso de muerte del trabajador, dicha entrega se hará a sus beneficiarios, en el orden de prelación siguiente:
+En los casos de jubilación, de incapacidad total permanente, de incapacidad parcial permanente, cuando ésta sea del 50% o más; o de invalidez definitiva, en los términos de la Ley del Seguro Social, se entregará al trabajador el total de los depósitos que tengan en su favor el Instituto. En caso de muerte del trabajador, dicha entrega se hará a sus beneficiarios, en el orden de prelación siguiente:
 
 a) Los que al efecto el trabajador haya designado ante el Instituto,
 
@@ -436,9 +444,11 @@ Los beneficios otorgados por el presente Artículo a los programas habitacionale
 
 El Instituto deberá mantener en efectivo o en depósitos bancarios a la vista las cantidades estrictamente necesarias para la realización de sus operaciones diarias. Los recursos del Fondo Nacional, en tanto se aplican a los fines señalados en el artículo anterior, deberán mantenerse en el Banco de México, S.A., invertidos en valores gubernamentales de inmediata realización.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE ENERO DE 1986)</small>
+
 ###### ARTICULO 44.
 
-Los créditos a los trabajadores a que se refiere la fracción I del artículo 42 devengarán un interés del cuatro por ciento anual sobre saldos insolutos. Tratándose de créditos para la adquisición o construcción de habitaciones, su plazo no será menor de diez años, pudiendo otorgarse hasta un plazo máximo de veinte años. Para los otros créditos mencionados en la citada fracción I, la Asamblea General podrá fijar plazos menores.
+Los créditos a los trabajadores a que se refiere la fracción I del artículo 42 devengarán un interés del 4% anual sobre saldos insolutos y se otorgarán a un plazo no menor de 10 años ni mayor de 20 años.
 
 Los financiamientos señalados en la fracción II del artículo 42 se otorgarán a la tasa de interés que fije la Asamblea General y a un plazo máximo de dieciocho meses.
 
@@ -500,7 +510,17 @@ El Instituto vigilará que los créditos y los financiamientos que otorgue, se d
 
 Los créditos que el Instituto otorgue a los trabajadores estarán cubiertos por un seguro para los casos de incapacidad total permanente o de muerte, que libere al trabajador o a sus beneficiarios de las obligaciones, gravámenes o limitaciones de dominio a favor del Instituto derivados de esos créditos.
 
-El costo de este seguro quedará a cargo del Instituto.
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1986)</small>
+
+Para estos efectos, se entenderá por incapacidad total permanente la pérdida de las facultades o aptitudes de una persona, que la imposibilite para desempeñar cualquier trabajo el resto de su vida, cualquiera que sea la naturaleza del riesgo que la haya producido.
+
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
+
+El costo del seguro quedará a cargo del Instituto.
+
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1986)</small>
+
+Tratándose de los casos de incapacidad parcial permanente, cuando ésta sea del 50% o más, o invalidez definitiva, en los términos de la Ley del Seguro Social, se liberará al trabajador acreditado del adeudo, los gravámenes o limitaciones de dominio a favor del Instituto, siempre y cuando no sea sujeto de una nueva relación de trabajo por un período mínimo de dos años, lapso durante el cual gozará de una prórroga, sin causa de intereses, para el pago de su crédito. La existencia de cualquiera de estos supuestos deberá comprobarse ante el Instituto del Fondo Nacional de la Vivienda para los Trabajadores dentro del mes siguiente a la fecha en que se determinen.
 
 Los trabajadores acreditados podrán manifestar expresamente su voluntad ante el Instituto, en el acto del otorgamiento del crédito o posteriormente, para que en caso de muerte, la liberación de las obligaciones, gravámenes o limitaciones de dominio que existan a favor del Instituto, así como la adjudicación del inmueble libre de aquéllos, se haga en beneficio de las personas que designen conforme a lo que señala el artículo 40 de esta Ley, con la prelación ahí establecida cuando así lo haya manifestado expresamente el trabajador, con sólo las formalidades previstas en el penúltimo párrafo del artículo 42 de esta misma Ley y la constancia que asiente el Instituto sobre la voluntad del trabajador y los medios con que se acrediten la capacidad e identidad de los beneficiarios. En caso de controversia, el Instituto procederá exclusivamente a la liberación referida y se abstendrá de adjudicar el inmueble.
 
@@ -687,3 +707,9 @@ TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 D.O.F. 8 DE FEBRERO DE 1985.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de la fecha de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE ENERO DE 1986.
+
+PRIMERO.- Las solicitudes de entrega de depósitos y de liberación de adeudos presentadas con anterioridad a estas reformas y las que se presenten posteriormente, pero cuyos hechos generadores del derecho hayan surgido antes de su vigencia, serán resueltas conforme a dichas reformas.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Diario Oficial de la Federación.
