@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2002-02-12"
+last_updated: "2002-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2002.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -343,19 +343,21 @@ V. Que cuente, cuando menos, con una escuela primaria en funciones; y
 
 VI. Que tenga capacidad suficiente para prestar los servicios mínimos municipales.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2002)</small>
+
 ###### Artículo 8.
 
 Los delegados municipales deben ser designados por el Ayuntamiento y removidos por éste mismo con causa justificada, previo respeto de su derecho de audiencia y defensa.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2002)</small>
+El Ayuntamiento debe reglamentar el procedimiento de designación de los delegados, sus requisitos, obligaciones y facultades.
 
 Para ser delegado municipal se requiere por lo menos cumplir con los siguientes requisitos:
 
-I. Tener 18 años cumplidos;
+I. Tener dieciocho años cumplidos;
 
 II. Tener un modo honesto de vivir;
 
-III. Tener su residencia en la Delegación correspondiente; y
+III. Tener su residencia en la delegación correspondiente;
 
 IV. No haber sido condenado por delito doloso.
 
@@ -375,7 +377,9 @@ El Ayuntamiento debe reglamentar los requisitos para ser agente municipal, así 
 
 Los Ayuntamientos de cada Municipio del Estado se integran por un Presidente Municipal, un Síndico y el número de regidores de mayoría relativa y de representación proporcional que se determinan en la ley estatal en materia electoral, quienes serán electos popular y directamente mediante planillas; y permanecen en sus cargos tres años y se renuevan en su totalidad al final de cada período.
 
-Todos los integrantes del Ayuntamiento tienen los mismos derechos y obligaciones.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
+Los integrantes del Ayuntamiento tienen los derechos y obligaciones que señala la presente Ley.
 
 ###### Artículo 11.
 
@@ -535,9 +539,11 @@ Las sesiones del Ayuntamiento son públicas, salvo aquellas que por causas justi
 
 Cuando el público asistente a las sesiones no guarde el orden debido, el Presidente Municipal puede auxiliarse de la fuerza pública para desalojar el recinto en donde sesione el Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### Artículo 31.
 
-La forma, periodicidad, ceremonial y demás asuntos que tengan que ver con el desarrollo de las sesiones, se deben establecer en el reglamento que para tal efecto expida el Ayuntamiento, con la obligación para éste de celebrar por lo menos una sesión al mes.
+La forma, periodicidad, ceremonial y demás asuntos que tengan que ver con el desarrollo de las sesiones, se deben establecer en el reglamento que para tal efecto expida el Ayuntamiento, con la obligación para éste de celebrar, por lo menos, dos sesiones ordinarias al mes.
 
 ###### Artículo 32.
 
@@ -829,9 +835,15 @@ III. Solicitar se cite por escrito a sesiones ordinarias y extraordinarias al Ay
 
 IV. Solicitar en sesión del Ayuntamiento cualquier informe sobre los trabajos de las comisiones, de alguna dependencia municipal, de los servidores públicos municipales, la prestación de servicios públicos municipales o el estado financiero y patrimonial del Municipio, así como obtener copias certificadas de los mismos;
 
-V. Solicitar y obtener copias certificadas de las actas de sesiones que celebre el Ayuntamiento; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
-VI. Las demás que establezcan las Constituciones Federal, Estatal y demás leyes y reglamentos.
+V. Solicitar y obtener copias certificadas de las actas de sesiones que celebre el Ayuntamiento;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2002)</small>
+
+VI. Tomar parte en las discusiones que se originen en las sesiones del Ayuntamiento con voz y voto; y
+
+VII. Las demás que establezcan las Constituciones Federal, Estatal y demás leyes y reglamentos.
 
 ###### Artículo 51.
 
@@ -955,7 +967,11 @@ a) En los Municipios en los que el Ayuntamiento esté integrado hasta por catorc
 
 b) En los Municipios en que el Ayuntamiento está integrado por más de catorce regidores, se requiere tener título profesional.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
 ###### Artículo 63.
+
+El funcionario encargado de la Secretaría del Ayuntamiento, es el facultado para formular las actas de las sesiones que celebre el Ayuntamiento y autorizarlas con su firma, recabando a su vez la firma de los regidores que hubieren concurrido a la sesión y procediendo al archivo de las mismas; este funcionario también es el facultado para expedir las copias, constancias, credenciales y demás certificaciones que le requieran los regidores de acuerdo a sus facultades, o las solicitadas por otras instancias, de acuerdo a las disposiciones aplicables en la materia.
 
 La Secretaría del Ayuntamiento puede recaer en el Síndico previa aprobación por mayoría absoluta del Ayuntamiento.
 
@@ -1007,7 +1023,7 @@ IV. Las demás que señale esta Ley, otras leyes y reglamentos.
 
 ### CAPITULO I. De la Hacienda Municipal
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### Artículo 68.
 
@@ -1051,7 +1067,7 @@ Las faltas de los demás servidores públicos municipales deben ser cubiertas co
 
 ###### Artículo 75.
 
-Para los efectos de la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y del artículo 81 de la Constitución Política del Estado, la hacienda municipal se forma con los impuestos, derechos, productos y aprovechamientos que anualmente propongan los Ayuntamientos y apruebe el Congreso del Estado; los ingresos que establezcan las leyes fiscales a su favor y en todo caso con:
+Para los efectos de la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y del artículo 88 de la Constitución Política del Estado, la Hacienda Municipal se forma con los impuestos, derechos, productos y aprovechamientos que anualmente propongan los Ayuntamientos y apruebe el Congreso del Estado; los ingresos que establezcan las leyes fiscales a su favor y en todo caso con:
 
 I. Las contribuciones sobre la propiedad inmobiliaria, incluyendo tasas adicionales que establezca el Congreso del Estado, de su fraccionamiento, división, consolidación, translación y mejora, así como las que tengan por base el cambio del valor de los inmuebles;
 
@@ -1197,7 +1213,9 @@ b) Los destinados por el Municipio a un servicio público, así como los equipar
 
 c) Las servidumbres en el caso de que el predio dominante sea alguno de los enunciados anteriormente;
 
-d) Los bienes muebles de propiedad municipal que por su naturaleza no sean normalmente sustituibles como los documentos y expedientes de las oficinas; los manuscritos, incunables, ediciones, libros, documentos, publicaciones periódicas, mapas, planos, folletos y grabados importantes, así como las colecciones de estos bienes; los archivos, las fonograbaciones, películas, archivos fotográficos, cintas magnetofónicas y cualquier otro objeto que contenga imágenes y sonidos;
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+
+d) Los bienes muebles de propiedad municipal, que por su naturaleza no sean normalmente sustituibles como los documentos y expedientes de las oficinas; los manuscritos, incunables, ediciones, libros, documentos, publicaciones periódicas, mapas, planos, folletos y grabados importantes, así como las colecciones de estos bienes; los especímenes tipo de la flora y de la fauna; las colecciones científicas o técnicas, de armas, numismáticas y filatélicas; los archivos, las fonograbaciones, películas, archivos fotográficos, cintas magnetofónicas y cualquier otro objeto que contenga imágenes y sonidos;
 
 e) Los monumentos históricos y artísticos de propiedad municipal;
 
@@ -1270,6 +1288,10 @@ Dentro de los treinta días posteriores a la adquisición o transmisión de domi
 El Ayuntamiento, a través de la dependencia que para tal efecto se autorice, debe llevar un registro público de los bienes que constituyan el patrimonio del Municipio y debe mantenerse actualizado.
 
 Respecto de los bienes inmuebles, en dicho registro debe constar el destino de cada uno de ellos.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
+
+Toda persona tiene derecho a consultar la información del registro público a que se refiere este artículo y obtener constancia del mismo, previa solicitud y pago de los derechos que correspondan, que para tal efecto se hará de conformidad con lo que establezca el reglamento que expida el Ayuntamiento.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ABRIL DE 2001)</small>
 
@@ -1882,3 +1904,7 @@ P.O. 12 DE FEBRERO DE 2002.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE JULIO DE 2002.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
