@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1997-04-25"
+last_updated: "1997-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -319,7 +319,7 @@ f) Los entes u organismos creados por el poder público, para solucionar el prob
 
 g) Las operaciones realizadas por o con personas que lleven a cabo programas concretos, con finalidades y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey", para solucionar el problema de la vivienda y de la tenencia legal de la tierra, previa autorización del H. Congreso del Estado, a iniciativa del C. Gobernador, quien solicitará opinión del Presidente Municipal que corresponda.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS Y SECCIONES QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 ### CAPITULO I BIS. IMPUESTO PREDIAL
 
@@ -395,7 +395,7 @@ VI.- Los usufructuarios, usuarios y habituarios.
 
 VII.- Los arrendatarios en contratos de arrendamiento financiero de predios en los que se establezca que al término del plazo pactado se le transferirá la propiedad del bien objeto de éstos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS Y SECCIONES QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION TERCERA. DETERMINACION DE LA BASE
 
@@ -1319,9 +1319,9 @@ Determinada dicha área de imposición se calculará el impuesto correspondiente
 
 a) Costo de la obra por derramar.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1997)</small>
 
-b) El plano de conjunto del área de imposición, señalándose para cada predio su ubicación, su área, la distancia de su centro de gravedad al eje de la mejora y sus características propias como son: su importancia actual y futura dentro de la zona en que esté ubicado, así como la proporcionalidad que existe actualmente y que vaya a existir en el futuro, respecto a la importancia entre él y los demás predios de su manzana, entre él y las demás manzanas de su zona y entre él y las demás zonas incluidas en el área de imposición en su caso. A fin de determinar la importancia y proporcionalidad de cada predio, se tomará en cuenta las características topográficas de cada predio en particular y los coeficientes de utilización del suelo y sus diferentes usos autorizados conforme a la Ley de Desarrollo Urbano del Estado y demás instrumentos contenidos en esa Ley, aplicables para cada zona, sector o municipio de conformidad a los factores que se establezcan en el Decreto Legislativo que apruebe la aplicación del impuesto.
+b) El plano de conjunto del área de imposición, considerándose para cada predio su ubicación, su área, la distancia de su centro de gravedad al eje de la mejora y sus características propias como son: Su importancia actual y futura dentro de la zona en que esté ubicado, así como la proporcionalidad que existe actualmente y que vaya a existir en el futuro, respecto a la importancia entre él y los demás predios de su manzana, entre él y las demás manzanas de su zona y entre él y las demás zonas incluidas en el área de imposición en su caso. A fin de determinar la importancia de cada predio y la proporcionalidad del impuesto, se tomará en cuenta las características topográficas de cada predio en particular, el uso o aprovechamiento del mismo, aplicables para cada zona, sector o municipio; o de conformidad a los factores que se establezcan en el Decreto Legislativo que apruebe la aplicación del impuesto.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -1340,6 +1340,10 @@ L1 L2 Ln
 En esta fórmula Ix representa el impuesto correspondiente a cada predio; C, el costo por derramar; A1, A2,...An, Las áreas de cada predio; L1, L2…Ln, las distancias más cortas de los centro de gravedad de cada predio al eje de la mejora y K1, K2,…Kn, el factor de proporcionalidad que caracteriza a cada predio y a que se refiere la última parte del inciso b) del Artículo anterior.
 
 Esta fórmula se ha deducido tomando en consideración que el impuesto correspondiente a cada predio o porción de predio debe ser inversamente proporcional a la distancia de su centro de gravedad al eje de la mejora.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1997)</small>
+
+Cuando el resultado de cada una de las operaciones que se realicen para la obtención de los factores y demás componentes de la fórmula a que se refiere este Artículo, arroje fracción de unidad, se expresará únicamente hasta la centésima.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -3090,3 +3094,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 25 DE ABRIL DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 1997.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
