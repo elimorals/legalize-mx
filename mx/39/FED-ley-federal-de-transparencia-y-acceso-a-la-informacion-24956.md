@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-transparencia-y-acceso-a-la-informacion-24956"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2002-06-11"
-last_updated: "2002-06-11"
+last_updated: "2004-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24956&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-06-10"
 
 LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE MAYO DE 2004.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 11 de junio de 2002.
 
@@ -289,7 +289,7 @@ Los sujetos obligados no podrán difundir, distribuir o comercializar los datos 
 
 No se requerirá el consentimiento de los individuos para proporcionar los datos personales en los siguientes casos:
 
-I. Los necesarios para la prevención o el diagnóstico médico, la prestación de asistencia médica o la gestión de servicios de salud y no pueda recabarse su autorización;
+I. (DEROGADA, D.O.F. 11 DE MAYO DE 2004)
 
 II. Los necesarios por razones estadísticas, científicas o de interés general previstas en ley, previo procedimiento por el cual no puedan asociarse los datos personales con el individuo a quien se refieran;
 
@@ -754,3 +754,9 @@ Undécimo. El Presupuesto de Egresos de la Federación para el año 2003 deberá
 México, D.F., a 30 de abril de 2002.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Adrián Rivera Pérez, Secretario.- Sen. Yolanda González Hernández, Secretaria.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de junio de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 11 DE MAYO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
