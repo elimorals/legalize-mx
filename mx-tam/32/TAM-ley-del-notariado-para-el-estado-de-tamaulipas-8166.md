@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-notariado-para-el-estado-de-tamaulipas-8166"
 country: "mx"
 rank: "ley"
 publication_date: "1993-01-30"
-last_updated: "1993-01-30"
+last_updated: "1998-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 30 de enero de 1993.
 
@@ -93,15 +93,17 @@ I.- Con todo empleo, comisión o cargo público, remunerados o no, distinto de l
 
 II.- Con los empleos o comisiones de particulares que pongan al Notario en dependencia de alguna persona, aun cuando el cargo no sea retribuido.
 
-III.- Con el ejercicio de la correduría y la agencia de cambios.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+III.- Con el ejercicio de la correduría, el comercio y la agencia de cambios.
 
 IV.- Con el Ministerio de cualquier culto.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 12.
 
 Cuando el Notario fuera electo para un cargo de elección popular o designado para el desempeño de un empleo, comisión o cargo público, cesará en sus funciones notariales a partir del momento en que los asuma. Deberá obtener previamente licencia del Ejecutivo para separarse de la Notaría antes de tomar posesión de su cargo. Dicha licencia no será negada. En el caso anterior, podrá actuar en la Notaría un adscrito si así lo deseara el titular, durante el tiempo en que ocupe el cargo, prorrogándose la licencia al Notario y la autorización al adscrito por 30 días más, sin que aquél pierda los derechos de Notario. Si no solicita licencia ni propusiera adscrito, la Notaría quedará vacante y se estará a los términos del Artículo 9o. de esta Ley.
-
-A ningún funcionario público se le podrá otorgar patente de Notario si no hasta después de 2 años de haber cesado de su cargo.
 
 DE LOS REQUISITOS PARA SER ASPIRANTE AL NOTARIADO Y NOTARIO
 
@@ -109,7 +111,9 @@ DE LOS REQUISITOS PARA SER ASPIRANTE AL NOTARIADO Y NOTARIO
 
 El Ejecutivo del Estado expedirá patente de aspirante al cargo de Notario a quien acredite las siguientes circunstancias:
 
-I.- Ser mexicano por nacimiento, con 28 años cumplidos, estar en ejercicio de los derechos de ciudadano y tener buena conducta.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+I.- Ser mexicano por nacimiento, con 25 años cumplidos, estar en ejercicio de los derechos de ciudadano y tener buena conducta.
 
 II.- Ser abogado con la correspondiente cédula profesional y acreditar cuando menos 3 años de práctica profesional, a partir de la fecha del examen de licenciatura; estar en pleno ejercicio de sus derechos profesionales y con residencia en el Estado de 3 años por lo menos.
 
@@ -267,7 +271,7 @@ Las atribuciones del Notario son:
 
 I.- Redactar los instrumentos relativos a los hechos y actos jurídicos y los hechos materiales pasados ante su fe.
 
-II.- Llevar el Protocolo en el que se contengan, firmados y autorizados, los instrumentos notariales a que se refiere la fracción anterior.
+II.- Llevar el Protocolo en el qse contengan, firmados y autorizados, los instrumentos notariales a que se refiere la fracción anterior.
 
 III.- Llevar el Apéndice del Protocolo formado con los anexos relativos a cada instrumento.
 
@@ -276,6 +280,14 @@ IV.- Dar fe de tener ante su vista situaciones de hecho a las que la Ley atribuy
 V.- Compulsar documentos, dar fe de su existencia y ratificar las firmas que calzan los documentos privados, siguiendo las formas que establece la presente Ley.
 
 VI.- Expedir testimonio de los instrumentos que obran en su protocolo.
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+VII.- Intervenir en la tramitación extrajudicial de sucesorios testamentarios, conforme a las disposiciones legales aplicables a cada caso.
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+VIII.- Actuar como árbitro o secretario en juicios arbitrales.
 
 ###### ARTICULO 33.
 
@@ -529,9 +541,15 @@ Los Notarios podrán llevar su Protocolo, a su elección, como Protocolo Cerrado
 
 Protocolo Cerrado es el libro o juego de libros encuadernados previamente a su autorización.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 75.
 
-Protocolo Abierto es el juego o juegos de hojas, foliadas progresivamente con impresión del volumen a que correspondan, autorizadas previamente a su utilización, que deberán ser encuadernadas en libro o juegos de libros, al cierre del Protocolo, con las mismas características de los libros de Protocolo Cerrado.
+Protocolo Abierto es el juego o juegos de hojas, foliadas progresivamente con la impresión del volumen a que correspondan, y el nombre del titular de la notaría y su número, autorizadas previamente a su utilización, que deberán ser encuadernadas en libro o juego de libros, al cierre del Protocolo. Los folios deberán utilizarse en forma progresiva por ambas caras y los instrumentos que se asienten en ellos se ordenarán en forma sucesiva y cronológica.
+
+Todo instrumento se iniciará al principio de un folio. Si al final del último folio empleado para éste queda espacio, después de las firmas y autorización, se empleará para asentar las notas complementarias consistentes en las que esta misma Ley señala que deben de hacerse marginalmente en el Protocolo Cerrado.
+
+Si en el último folio en donde conste el instrumento no hay espacio para las notas complementarias, se podrá utilizar el folio siguiente o se pondrá razón de que las notas complentarias se continuarán en hoja por separado, la cual se agregará al apéndice.
 
 ###### ARTICULO 76.
 
@@ -563,13 +581,21 @@ Los libros o juegos de hojas para el Protocolo los obtendrá directamente el Not
 
 Los libros para el Protocolo Cerrado estarán encuadernados y empastados sólidamente; constarán de ciento cincuenta fojas o sean trescientas páginas, y una hoja más al principio y sin numerar, destinada al título del libro.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 83.
 
-Los juegos de hojas para el Protocolo Abierto constarán de ciento cincuenta hojas o sean trescientas páginas, y una hoja más al principio y sin numerar, destinada al título del libro.
+Cada juego para el Protocolo Abierto constará de ciento cincuenta hojas o de trescientas páginas, y una hoja más al principio, sin numerar, destinada al título del libro.
+
+Las fojas o folios del Protocolo Abierto medirán treinta y cuatro centímetros de largo por veintiún centímetros y medio de ancho, aproximadamente. Al escribirse en ellas se dejará en blanco un espacio de cuatro y medio centímetros de ancho, aproximadamente, al margen izquierdo del anverso del folio, y de dos centímetros al margen derecho, para proteger lo escrito.
+
+Se dejará, asimismo, un espacio de dos centímetros por el margen izquierdo del reverso del folio y de cuatro centímetros y medio al margen derecho, para facilitar su encuadernación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 84.
 
-Las hojas del Protocolo tendrán 35 centímetros de largo por 25 de ancho en su parte utilizable, aproximadamente. Al escribirse en ellas se dejará en blanco una tercera parte, a la izquierda, separada por medio de una línea de tinta roja para poner las razones y anotaciones que legalmente deban hacerse. Cuando se agote esta parte se pondrá razón de que las anotaciones se continúan en hoja por separado agregada al Apéndice y destinada especialmente para ello.
+Las hojas del Protocolo Cerrado medirán treinta y cinco centímetros de largo por veinticinco de ancho en su parte utilizable, aproximadamente. Al escribirse en ellas se dejará en blanco una tercera parte, a la izquierda, separada por medio de una línea de tinta roja para poner las razones y anotaciones que legalmente deban hacerse. Cuando se agote ésta parte se pondrá razón de que las anotaciones se continúan en hoja por separado agregada al Apéndice y destinada especialmente para ello.
 
 Además, se dejará siempre en blanco una faja de 2.5 centímetros, aproximadamente, de ancho por el lado del doblez del libro y otra igual a la orilla para proteger lo escrito.
 
@@ -581,7 +607,13 @@ En la primera y en la última página útil el Director del Archivo General de N
 
 Los instrumentos se asentarán mediante cualquier procedimiento de impresión firme e indeleble.
 
-No se escribirán más de cuarenta líneas por página, a igual distancia una de las otras, salvo las que se escriban entre líneas para corregir lo testado.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+La parte utilizable, tanto en el Protocolo Abierto como en el Cerrado, deberá de aprovecharse al máximo posible, sin dejar espacios en blanco, y las líneas que se impriman deberán de estar a igual distancia unas de otras, salvo las que se escriban entre líneas para corregir lo testado.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+Cuando se inutilice un folio del Protocolo Abierto se cruzará con líneas de tinta y se colocará al final del respectivo instrumento. El Notario asentará la razón de la inutilización del folio, antes de las firmas.
 
 ###### ARTICULO 87.
 
@@ -595,9 +627,11 @@ El Notario abrirá cada volumen de su Protocolo cuando vaya a usar de él, ponie
 
 Cuando haya cambio de Notario titular en una Notaría después de asentar las razones a que se refiere el Artículo anterior, se hará constar el nombre del que va a actuar en cada uno de los volúmenes que estuvieren en uso, firmando el Notario que se separa y el nuevo titular.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 90.
 
-No se dejará más espacio entre cada instrumento que el indispensable para las firmas, autorizaciones y sellos; sin embargo, cuando el Notario quiera sacar testimonio fotográfico y utilice algún sistema de impresión que requiera usar desde el principio de una página iniciará sus escrituras y actas en esa forma, debiendo cruzar con líneas de tinta, fuertemente grabadas, el espacio que queda entre la terminación de la escritura y la parte inferior de la hoja.
+En el Protocolo Cerrado no se dejará más espacio entre cada instrumento que el indispensable para las firmas, autorizaciones y sellos; sin embargo, cuando el Notario quiera sacar testimonio fotográfico o utilice algún sistema de impresión que requiera usar desde el principio de una página iniciará sus escrituras y actas en esa forma, debiendo cruzar con líneas de tinta, fuertemente grabadas, el espacio que queda entre la terminación de la escritura y la parte inferior de la hoja.
 
 ###### ARTICULO 91.
 
@@ -635,15 +669,19 @@ Los Apéndices se encuadernarán ordenadamente y se empastarán en volúmenes a 
 
 Al principio y al fin de cada Apéndice se hará constar el número de legajos y el de documentos contenidos en él, así como el número del volumen del Protocolo al que pertenece.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 100.
 
-Cuando ya no se pueda dar cabida a otro instrumento más en el libro o juego de libros, se procederá a cerrar el Protocolo, poniendo el Notario razón de la clausura, con expresión del número de hojas utilizadas, instrumentos autorizados en el libro, lugar, días y fecha en que se cierre, así como razón de los instrumentos que no pasaron, los que estén pendientes de firma o autorización, enumerándolos y señalando el motivo por el que están pendientes. Después de que se ponga la razón autorizada con la firma y sello del Notario, llevará el libro o juego de libros al Archivo General de Notarías o Juzgados de Primera Instancia de su jurisdicción si ésta no fuera la capital del Estado, si hay varios de aquéllos, al número más bajo, y en todos ellos el Director o Juez extenderá certificación de cierre de cada libro, autorizándolo con su firma y sello y devolverá el libro o libros al Notario, inutilizando por medio de líneas cruzadas o perforaciones convenientes las hojas en blanco que hayan sobrado.
+Cuando ya no se pueda dar cabida a otro instrumento más en el libro o juego de libros, se procederá a inutilizar por medio de líneas cruzadas de tinta fuerte las hojas en blanco que hayan sobrado y a cerrar el Protocolo, poniendo el Notario razón de la clausura, con expresión del número de hojas utilizadas y las cruzadas, instrumentos autorizados en el libro, lugar y fecha en que se cierre, así como razón de los instrumentos que no pasaron, los que estén pendientes de firma o autorización, enumerándolos y señalando el motivo por el que están pendientes. Después de que se ponga la razón autorizada con la firma y sello del Notario, este comunicará el hecho al Archivo General de Notarías, con las expresiones antes mencionadas, agregando al apéndice del libro o del último libro del juego la copia sellada del comunicado.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 101.
 
-Cuando ya no se pueda dar cabida a otro instrumento más en el juego o juegos de hojas del Protocolo Abierto, se procederá a cerrar el Protocolo en los términos y con los requisitos establecidos en el Artículo anterior.
+Cuando ya no se pueda dar cabida a otro instrumento más en el libro o juego de libros del Protocolo Abierto, se procederá a cerrar el Protocolo en los términos y con los requisitos establecidos en la primera parte del Artículo anterior.
 
-Dentro de los 90 días hábiles siguientes a la fecha en que se cierre el Protocolo, se procederá a su encuadernación en libro o juego de libros, bajo la más estricta vigilancia del Notario, debiendo observarse que los libros queden encuadernados y empastados sólidamente.
+Dentro de los 90 días hábiles siguientes a la fecha en que se cierre el Protocolo, se procederá a su encuadernación en libro o juegos de libros, bajo la más estricta vigilancia del Notario, debiendo observarse que los libros queden encuadernados y empastados sólidamente. Después de que se ponga la razón a que se refiere el párrafo que antecede y que se encuadernen y empasten, se procederá de acuerdo a lo establecido en la parte final del Artículo anterior.
 
 ###### ARTICULO 102.
 
@@ -687,21 +725,29 @@ Los instrumentos relativos a hechos jurídicos y actuaciones notariales se denom
 
 Todos los instrumentos se numerarán progresivamente escribiéndose su número con letras.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 111.
 
-Al margen de los instrumentos se escribirá con guarismos su número y su fecha, se hará mención de la clase de hecho o nombre del acto a que se refiere y ses escribirán los nombres de los otorgantes.
+Al margen de los instrumentos consignados en el Protocolo Cerrado y después de las firmas y autorizaciones en el caso del Protocolo Abierto, se escribirá con guarismos su número y fecha, se hará mención de la clase de hecho o nombre del acto a que se refiere y se escribirán los nombres de los otorgantes.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 112.
 
-Se anotarán además marginalmente los avisos que se den de haber agotado el instrumento, los testimonios que se expidan, su fecha y causa que los motivó, modificaciones que sufra el acto por otro posterior o por orden judicial.
+Se anotarán además marginalmente en el Protocolo Cerrado y como notas complementarias en el Protocolo Abierto, los avisos que se den de haber otorgado el instrumento, los testimonios que se expidan, su fecha y causa que los motivó, modificaciones que sufra el acto por otro posterior o por orden judicial.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 113.
 
-Las anotaciones marginales llevarán la media firma del Notario.
+Las anotaciones marginales y complementarias llevarán la media firma del Notario.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 114.
 
-No se podrá revocar, rescindir, o modificar el contenido de una escritura notarial por simple razón al margen de ella, sino que habrá que extender nueva escritura y anotarse después de la antigua.
+No se podrá revocar, rescindir o modificar el contenido de una escritura notarial por simple razón al margen de ella o como nota complementaria, sino que habrá que extender nueva escritura y anotarse después en la antigua.
 
 ###### ARTICULO 115.
 
@@ -833,15 +879,19 @@ Las enajenaciones de bienes inmuebles cuyo valor según avalúo pericial catastr
 
 Cuando se trate de revocación o renuncia de poderes, que no hayan sido otorgados en su Protocolo, lo comunicará por correo certificado al Notario, a cargo de quien esté el Protocolo en el que se extendió el poder que se revoca o renuncia, aun cuando éste pertenezca a otra entidad federativa, para que dicho Notario se imponga de esa revocación y proceda conforme a Derecho.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 126.
 
-Cuando se revoque, rescinda o modifique un acto contenido en una escritura, al Notario le está prohibido hacerlo constar por simple razón al margen de ella. En estos casos, salvo prohibición expresa de la Ley, deberá extender una nueva escritura y notificar en los términos previstos en el Artículo anterior, para que se haga la anotación correspondiente.
+Cuando se revoque, rescinda o modifique un acto contenido en una escritura, al Notario le está prohibido hacerlo constar por simple razón al margen de ella o en nota complementaria. En estos casos, salvo prohibición expresa de la Ley, deberá extender una nueva escritura y notificar en los términos previstos en el Artículo anterior, para que se haga la anotación correspondiente.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 127.
 
-Siempre que se otorgue un testamento público abierto o cerrado, el Notario dará de inmediato aviso al Archivo General de Notarías, expresando la fecha del otorgamiento, el nombre y generales del testador. En caso de que el testador manifieste en su testamento el nombre de sus padres, también se dará este dato al Archivo General de Notarías. Este llevará un libro especialmente destinado a asentar las inscripciones relativas a los testamentos, con los datos que se mencionan.
+Siempre que se otorgue un testamento público abierto, cerrado o simplificado, el Notario dará aviso de inmediato al Archivo General de Notarías, expresando la fecha de otorgamiento, el nombre y generales del testador. En caso de que el testador manifieste en su testamento el nombre de sus padres, también se dará este dato al Archivo General de Notarías. Este llevará un libro especialmente destinado a asentar las inscripciones relativas a los testamentos, con los datos que se mencionan.
 
-Los jueces y los Notarios ante quienes se tramite una sucesión recabarán informes del Archivo General de Notarías, acerca de si tienen registrados testamentos otorgados por la persona de cuya sucesión se trate y, en su caso, la fecha, lugar y Notario ante quien se otorgó.
+Los Jueces y los Notarios ante quienes se tramite una sucesión, recabarán informes del Archivo General de Notarías y del Registro Público de la Propiedad del Estado, sobre si tienen registrados testamentos otorgados por la persona de cuya sucesión se trate y, en su caso, la fecha, lugar y Notario ante quien se otorgó.
 
 DE LAS ACTAS NOTARIALES
 
@@ -899,7 +949,11 @@ DE OTROS ACTOS EN QUE PUEDEN INTERVENIR LOS NOTARIOS
 
 Los Notarios, además de las Escrituras Públicas o Actas Notariales, podrán intervenir en los siguientes casos:
 
-I.- En el reconocimiento y certificación de firmas de toda clase de Contratos: tratándose de contratos respecto de inmuebles solo podrá reconocer y certificar firmas cuando el precio pactado y el avalúo catastral no exceda del importe de cien días de salario mínimo general vigente en la capital del Estado. Queda estrictamente prohibido a los Notarios certificar contratos de compraventa o promesas de venta de inmuebles urbanos en fraccionamientos no autorizados conforme a la Ley de la materia.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+I.- En el reconocimiento y certificación de firmas de toda clase de Contratos, salvo los que deban de otorgarse en instrumento público conforme a la Ley; tratándose de las enajenaciones de vivienda o de lotes de interés social que realicen el Estado o los Municipios, siempre que no requieran de escritura pública, sino únicamente de certificación notarial de las firmas que en ellas se contengan.
+
+Queda estrictamente prohibido a los Notarios autorizar contratos de compra-venta o certificar promesas de venta de inmuebles urbanos en fraccionamientos no autorizados conforme a la ley de la materia.
 
 II.- En el reconocimiento y certificación de firmas de cartas privada de otorgamiento, revocación o substitución de mandatos cuando la Ley lo permite; en el reconocimiento de autenticidad de escritos, firmas, pagarés o documentos que contengan una obligación y que emanen de particulares.
 
@@ -909,7 +963,9 @@ IV.- En expedir copias certificadas de documentos que tengan a la vista.
 
 V.- En certificar la autenticidad y existencia de actas parroquiales o la coincidencia de copias al carbón, fotográficas, fotostáticas o por cualesquiera otros sistemas de reproducción con documentos originales.
 
-VI.- En la tramitación extrajudicial de los procedimientos sucesorios en los casos establecidos en los Artículos 769 del Código de Procedimientos Civiles vigente en el Estado.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+VI.- En la tramitación extrajudicial de los procedimientos sucesorios en los casos establecidos en los Artículos 769 y 769-Bis del Código de Procedimientos Civiles.
 
 En todos los casos anteriores, exceptuando lo previsto en la fracción VI, los Notarios asentarán al pie del documento, o en hoja adherida al mismo, una constancia o razón sucinta que contenga el objeto de la certificación, así como el lugar, hora, día, mes y año en que la misma se verificó.
 
@@ -923,9 +979,19 @@ Cuando se realice el cotejo de una copia de partida parroquial con su original, 
 
 Cuando se trate de reconocimiento de firmas o de firmar un documento ante el Notario, éste hará constar que ante él se reconocieron o, en su caso, se pusieron las firmas o huella digital y que se aseguró de la identidad de la persona que la estampó.
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+El notario levantará el acta correspondiente, debiendo firmar o estampar la huella digital quienes comparecieron.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+Son aplicables, en lo conducente, lo dispuesto por la Fracción VIII del Artículo 118 y Fracción I, Incisos a), b), c), d) y e) del Artículo 119 de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 137.
 
-Para el cotejo de un documento con su copia escrita, fotográfica, fotostática o de cualquier otra clase, se presentará el documento y copia al Notario, quien, en su caso, hará constar en el acta que la copia es fiel reproducción del documento de que provenga. Este se devolverá con su copia debidamente certificada al interesado.
+Para el cotejo de un documento con su copia escrita, fotográfica, fotostática o de cualquier otra clase, se presentará el documento original y copia al Notario, quien en su caso, hará constar en el acta que la copia es fiel reproducción del documento de que provenga. Este se devolverá con su copia debidamente certificada al interesado.
 
 Otra copia del documento cotejado se agregará al Apéndice de Actos fuera del Protocolo.
 
@@ -947,9 +1013,15 @@ Testimonio es la copia en la que se transcribe íntegramente el instrumento nota
 
 Al final de cada Testimonio se hará constar su calidad de primero, o subsecuente en número ordinal, el nombre del interesado a quien se expida, a qué título, el número de hojas del Testimonio, y la fecha de su expedición, y se salvarán lo testado y lo entrelineado de la manera prescrita para los instrumentos notariales. El Testimonio estará autorizado por el Notario con su firma y sello, previa la mención de su cotejo con el original.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 142.
 
-Las hojas del Testimonio tendrán 35 centímetros de largo por 23 de ancho, aproximadamente, en su parte utilizable. Al escribirse en ellas se dejará en blanco una octava parte, a la izquierda, separada por medio de una línea de tinta roja, además se dejará siempre en blanco una faja de 1.5 centímetros de ancho, aproximadamente, en su margen derecho, y no podrán contener más de 40 renglones. Cada hoja del Testimonio llevará el membrete del Notario, el sello y media firma al margen.
+Las hojas del Testimonio medirán treinta y cuatro centímetros de largo por veintiún centímetros y medio de ancho, aproximadamente. Al escribirse en ellas se dejará en blanco un espacio de cuatro centímetros de ancho al margen izquierdo del anverso del folio, aproximadamente, y de dos centímetros y medio al margen derecho, para proteger lo escrito.
+
+Se dejará asimismo un espacio de dos centímetros y medio al margen izquierdo del reverso del folio, y de cuatro centímetros al margen derecho, aproximadamente.
+
+La parte utilizable de la hoja deberá de aprovecharse al máximo posible, sin dejar espacios en blanco, y las líneas que se impriman deberán de estar a igual distancia unas de otras. Cada hoja del Testimonio llevará el membrete del Notario, el sello y media firma al margen.
 
 ###### ARTICULO 143.
 
@@ -967,9 +1039,11 @@ Expedido el Primer Testimonio o los Testimonios que demande la escritura o acta 
 
 El Notario sólo puede expedir Testimonios de los actos que consten en su Protocolo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 147.
 
-Cuando se expida un Testimonio pondrá al margen del instrumento una anotación que contendrá la fecha de la expedición, el número de fojas de que conste el Testimonio, el número ordinal que corresponda a éste, para quien se expide, y a que título.
+Cuando se expida un testimonio se pondrá al margen del instrumento o en nota complementaria una anotación que contendrá la fecha de la expedición, el número de fojas de que conste el Testimonio, el número ordinal que corresponda a éste, para quien se expide, y a que título.
 
 Las constancias sobre los asientos de inscripción puestas por el Registro Público de la Propiedad y del Comercio al calce de los Testimonios, serán extractadas o transcritas por el Notario en una anotación que pondrá al margen de la escritura o acta notarial.
 
@@ -1067,9 +1141,15 @@ f).- Por recibir y conservar en depósito cantidades de dinero, en contravenció
 
 g).- Por negarse, sin causa justificada, al ejercicio de sus funciones, cuando hubiere sido requerido para ello.
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+h).- Por no encuadernar y empastar el libro o juego de libros del Protocolo Abierto, dentro del plazo establecido en el Artículo 101 de esta Ley.
+
 III.- Suspensión del cargo hasta por un año:
 
-a).- Por reincidir en alguno de los supuestos señalados en la fracción II, incisos b) y g) inclusive.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+a).- Por reincidir en alguno de los supuestos señalados en la fracción II, incisos b), g) y h), inclusive;
 
 b).- Por revelación injustificada y dolosa de datos.
 
@@ -1326,3 +1406,11 @@ Las facultades conferidas al Ejecutivo del Estado mediante la presente Ley, podr
 Por tanto, mando se imprima, publique, circule y se dé el debido cumplimiento.
 
 Dado en la residencia del Poder ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los veintitres días del mes de Diciembre de mil novecientos noventa y dos.- El Gobernador Constitucional del Estado, C. ING. AMERICO VILLARREAL GUERRA.- Rúbrica.- El Secretario General de Gobierno, LIC. ANIBAL PEREZ VARGAS.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 1998
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
