@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1988-11-05"
+last_updated: "1993-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 1993.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -579,17 +579,19 @@ Dictada la resolución judicial definitiva que autorice la adopción, el adoptan
 
 La falta de registro de la adopción no deja a ésta sin efectos legales. A los responsables se les impondrá una multa de quinientos a mil pesos, que hará efectiva el Oficial del Registro Civil correspondiente.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
 
 ###### Artículo 87.
 
-El acta de adopción contendrá los nombres, edad, domicilio y estado civil del adoptante o adoptantes y del adoptado, el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para obtener la adopción y los datos esenciales de la resolución judicial y del Tribunal que la haya dictado.
+El acta de adopción contendrá los nombres, edad, domicilio y estado civil y nacionalidad del o de los adoptantes, nombre y nacionalidad de los abuelos y nombre del adoptado, el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para obtener la adopción y los datos esenciales de la resolución judicial y del Tribunal que la haya dictado.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
 
 ###### Artículo 88.
 
-Extendida el Acta de adopción, se anotará la de nacimiento del adoptado y con la copia de las diligencias relativas se formará el apéndice conforme a las disposiciones del presente Código.
+Extendida el acta de adopción, se anotará la de nacimiento del adoptado y con la copia de las diligencias relativas se formará el apéndice conforme a las disposiciones del este Código.
+
+Las copias certificadas de nacimiento que en lo sucesivo se expidan no deberá (sic) contener ninguna anotación respecto a que se trata de un hijo adoptado, en los términos del artículo 915 bis del Código de Procedimientos Civiles del Estado.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -2417,17 +2419,29 @@ III. A percibir la porción hereditaria y los alimentos que fije la ley.
 
 ### CAPITULO V. De la adopción
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
+
 ###### Artículo 403.
 
-Adopción es el acto por el cual una persona mayor de edad, acepta a un menor o incapacitado como hijo, adquiriendo respecto de él todos los derechos que el padre tiene y contrayendo todas las responsabilidades que el mismo reporta respecto de la persona de un hijo natural.
+Adopción es el acto por el cual una persona mayor de veinticinco años en pleno ejercicio de sus derechos, acepta a uno o más menores o incapacitados como hijos adquiriendo respecto de él o ellos todos los derechos que los padres tienen y contrayendo todas las responsabilidades que el mismo reporta respecto de la persona de un hijo.
+
+El acto de adopción produce efectos legales entre los adoptantes y adoptados, así como entre éstos y la familia de los primeros, como si se tratara de un hijo consanguíneo, quedando extinguida la filiación entre el adoptado y sus progenitores.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
 
 ###### Artículo 404.
 
-Toda persona mayor de edad que no tenga descendientes bajo su patria potestad, en el momento de hacer la adopción, puede adoptar libremente a un menor o incapacitado siempre que entre el adoptante y el adoptado haya una diferencia no menor de diez años.
+Toda persona mayor de veinticinco años puede ejercer libremente el derecho de la adopción, siempre que entre el adoptante y el adoptado haya una diferencia de edad no menor de diez años.
+
+Podrán ser adoptados simultáneamente por un solo matrimonio o una sola persona, gemelos, mellizos, triates o múltiples y en general dos o más menores o incapacitados.
+
+Cuando se trate de hermanos de diferentes edades, quedará a juicio del Juez decidir sobre la conveniencia de la separación o no de éstos para darlos en adopción.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
 
 ###### Artículo 405.
 
-El marido y la mujer podrán adoptar cuando los dos estén conformes en considerar al adoptado como hijo.
+El marido y la mujer podrán adoptar cuando los dos estén conformes en considerar al adoptado o adoptados como sus hijos. En este caso, bastará que cualquiera de los dos cónyuges sea mayor de veinticinco años, pero deberá existir la diferencia de edad de diez años entre adoptantes y adoptado.
 
 ###### Artículo 406.
 
@@ -2449,19 +2463,41 @@ El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos d
 
 El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
+
 ###### Artículo 411.
 
-Para que la adopción pueda tener lugar deberán consentir en ella en sus respectivos casos:
+Para que la adopción pueda tener lugar, deberán consentir en ella, en sus respectivos casos las personas u organismo público que enseguida se indica:
 
-I. El que ejerce la patria potestad sobre el menor que se trate de adoptar;
+I. El que ejerce la Patria Potestad sobre el menor, menores, incapacitado o incapacitados, que se trate o traten de adoptar;
 
-II. El tutor del que se va a adoptar;
+II. El tutor de quien o quienes se van a adoptar;
 
-III. Las personas que hayan acogido al que se pretende adoptar y lo traten como a hijo cuando no hubiere quien ejerza la patria potestad sobre él, ni tenga tutor;
+III. Las personas que hayan acogido al o a los sujetos de adopción y tenga o tengan el trato como de hijo, cuando no exista titular que ejerza la Patria Potestad, ni tutor;
 
-IV. El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos ni tutor, ni persona que ostensiblemente le imparta su protección y lo haya acogido como hijo.
+IV. El organismo público descentralizado denominado "Sistema para el Desarrollo Integral de la Familia" cuando el menor o menores se encuentren bajo su cuidado;
 
-Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
+V. El Ministerio Público del domicilio del o de los adoptados cuando éstos no tengan padres conocidos, ni tutor, ni persona que ostensiblemente le imparta su protección y lo haya acogido como hijo.
+
+Si el sujeto o sujetos de la adopción tienen más de catorce años, también se necesita su consentimiento para ese efecto.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1993)</small>
+
+###### Artículo 411 Bis.
+
+Para llevar a cabo la adopción, deberán satisfacerse también los siguientes requisitos:
+
+I. Demostrar plenamente que es mayor de veinticinco años;
+
+II. Que el o los adoptantes tienen medios económicos bastantes para proveer a la subsistencia del incapacitado como hijo propio, según las circunstancias del sujeto o sujetos que tratan de adoptarse;
+
+III. Que el adoptante sea persona de buenas costumbres;
+
+IV. En el caso de menores que se encuentren bajo el cuidado del Sistema para el Desarrollo Integral de la Familia (D.I.F.), deberán colmarse, además, los requisitos que exija ese organismo público;
+
+V. Deberá justificar que la adopción sea benéfica para los menores o incapacitados que tratan de adoptarse;
+
+VI. Cuando el o los solicitantes sean extranjeros, además de cumplir con los requisitos que establecen los artículos anteriores, deberán acreditar su legal estancia en el País; y si no reside en éste, deberán contar además con la autorización del Tribunal de su país de origen para adoptar a un menor o incapacitado mexicano.
 
 ###### Artículo 412.
 
@@ -2495,9 +2531,15 @@ La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
 
 La adopción puede revocarse:
 
-I. Cuando las dos partes convengan en ello siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las mismas personas que prestaron su consentimiento conforme al artículo 411;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1993)</small>
 
-II. Por ingratitud del adoptado.
+I. Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad o haya desaparecido la incapacidad. Si no lo fuere o no haya recobrado su capacidad es necesario que consientan en la revocación las mismas personas que prestaron su consentimiento conforme al artículo 411 fracción II de este Código;
+
+II. Por ingratitud del adoptado;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 1993)</small>
+
+III. Por incumplimiento grave de las obligaciones del adoptante a juicio del Juez.
 
 ###### Artículo 420.
 
@@ -11337,7 +11379,7 @@ Revocada o reducida una donación por inoficiosa, el donatario sólo responderá
 
 ## TITULO QUINTO. Del mutuo
 
-### CAPITULO II. De los derechos y obligaciones del arrendador
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 2259.
 
@@ -11385,7 +11427,7 @@ En el caso de haberse pactado que la restitución se hará cuando pueda o tenga 
 
 No se declararán nulas las deudas contraídas por el menor para proporcionarse los alimentos que necesite, cuando su representante legítimo se encuentre ausente.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO II. De los derechos y obligaciones del arrendador
 
 ###### Artículo 2268.
 
@@ -14882,3 +14924,7 @@ Si no se violan derechos adquiridos, las disposiciones de esta Ley regirán los 
 ###### ARTICULO CUARTO.
 
 Esta Ley entrará en vigor al días (sic) siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE OCTUBRE DE 1993.
+
+UNICO.- Las presentes reformas y adiciones entrarán en vigor quince días después de su publicación en el Periódico Oficial del Estado.
