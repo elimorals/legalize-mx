@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2000-07-12"
+last_updated: "2000-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2000.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -285,9 +285,11 @@ En toda acta del estado civil, se anotará la clave única del registro de pobla
 
 48.- Los vicios y demás irregularidades que haya en las actas, cuando no sean sustanciales, se subsanarán a petición de parte interesada por el jefe de la oficina y cuando lo fueren, por resolución judicial, que será la única que pueda declarar la falsedad de lo asentado y la consecuente nulidad del acta.
 
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2000)</small>
 
-49.- Toda persona puede pedir copia certificada de las actas del Registro Civil, así como de los documentos con ellas relacionados y los Registradores están obligados a darlas. En el caso de los duplicados, la obligación recae en el Jefe del Departamento.
+49.- El Director, el Jefe del Departamento de Archivo Central, los Oficiales del Registro Civil y los Oficiales de Certificación del Registro Civil, con independencia del ámbito de sus respectivas jurisdicciones, deberán expedir toda clase de certificaciones, constancias y testimonios relativos a los actos y actas del estado civil de las personas.
+
+Los documentos antes señalados serán suficientes para comprobar el estado civil de las personas.
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 1989)</small>
 
@@ -431,33 +433,45 @@ Además de los nombres de los padres, se hará constar en el acta de nacimiento 
 
 73.- Si el padre o la madre de un hijo de ambos, lo reconocieren al presentarlo dentro del término de ley, para que se registre su nacimiento, el acta de éste contendrá los requisitos establecidos en los artículos anteriores y los nombres del progenitor que lo reconozca. Esta acta surtirá los efectos del reconocimiento legal.
 
-(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)(F. DE E., P.O. 3 DE OCTUBRE DE 1987)
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2000)</small>
 
-74.- Si el reconocimiento se hiciere después de haber sido registrado el nacimiento, se formará acta separada en la que, además de los requisitos a que se refiere el artículo que precede, se observarán los siguientes, en sus respectivos casos:
+74.- Si el reconocimiento se hiciere después de haber sido registrado el nacimiento, se asentará un acta distinta, cuyo formato no deberá hacer mención de que se refiere a un acta de reconocimiento. Además de los requisitos señalados por el Artículo 58 primer párrafo de este Código, contendrá los siguientes, en sus respectivos casos:
 
-I.- Si el hijo es mayor de catorce años, expresará su consentimiento para ser reconocido;
+I.- Datos del registro anterior, que se identificará utilizando la clave que para tal efecto precise el Registro Civil.
 
-II.- Si el hijo es menor de catorce años, se expresará el consentimiento de quien ejerza la patria potestad o la tutela.
+II.- Datos de los padres, abuelos paternos, abuelos maternos.
+
+III.- Datos de la persona que deba dar su consentimiento.
+
+a).- Consentimiento de quien se pretende reconocer si este fuere mayor de catorce años, además de quien ejerza la patria potestad o tutela.
+
+b).- Si el hijo es menor de catorce años, solo se expresará el consentimiento de quien ejerza la patria potestad o la tutela.
+
+IV.- Huella digital del reconocido, así como nombre, firma y sello del Oficial del Registro Civil correspondiente.
+
+Asentada el acta de reconocimiento en los términos de este artículo, deberá incluirse en el acta de nacimiento original, la anotación marginal correspondiente con los datos y circunstancias relativos.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
 75.- Lo dispuesto en el artículo anterior se observará también cuando se haya omitido la presentación para el registro del nacimiento del hijo o esa presentación se haya hecho después del término de la Ley.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2000)</small>
 
-76.- Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará dentro del término de quince días al jefe de la oficina el original o copia certificada del documento que lo compruebe.
+76.- Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará el original o copia certificada del documento que lo compruebe ante la Oficialía del Registro Civil a efecto de que se levante el acta correspondiente.
 
-En el acta se insertará la parte relativa de dicho documento, observándose las demás prescripciones contenidas en este capítulo y en el capítulo IV del Título Séptimo de este libro.
+En el acta de nacimiento se hará mención del acto relativo al reconocimiento a que se ha hecho referencia en el párrafo anterior, observándose las demás prescripciones contenidas en este capítulo y en el capítulo IV del Título Séptimo de este libro.
 
-(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)(F. DE E., P.O. 3 DE OCTUBRE DE 1987)
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2000)</small>
 
-77.- La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión serán sancionados por el jefe de la oficina con una multa de una a diez veces del salario mínimo vigente en la zona económica de la ubicación de la oficina, atendiendo las circunstancias de cada caso.
+77.- La omisión del registro, en el caso del artículo que precede, no evita los efectos legales del reconocimiento hecho conforme a las disposiciones de este Código; los responsables de la omisión serán sancionados en los términos que establezca el reglamento del Registro Civil del Estado.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2000)</small>
 
-78.- En el acta de reconocimiento hecha con posterioridad al acta de nacimiento, se hará mención de ésta, poniendo en ella la anotación marginal correspondiente.
+78.- El reconocimiento hecho con posterioridad al acta de nacimiento, obliga a la expedición de una certificación con características idénticas a la que se expide como acta de nacimiento.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+El acta de nacimiento original, se resguardará en el Archivo que corresponda a cada oficialía o en el Archivo Central del Registro Civil, órganos que se abstendrán de expedir copias certificadas de ésta, salvo que mediara solicitud expresa de parte interesada en la que justifique su petición, o bien por resolución judicial, o cuando el reconocido haya adquirido mayoría de edad o se trate de una cuestión de orden público.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2000)</small>
 
 79.- Si el reconocimiento se hiciere en oficina distinta de aquella en que se levantó el acta de nacimiento, quien autorice el acta de reconocimiento, remitirá copia certificada de ésta a la oficina que haya registrado el nacimiento para que se haga la anotación marginal en el acta respectiva.
 
@@ -5389,7 +5403,7 @@ II.- A falta de los anteriores, la Beneficencia Pública.
 
 1520.- El cónyuge recibirá las porciones que le correspondan conforme a los dos artículos anteriores, aunque tenga bienes propios.
 
-1521.- A falta de descendientes, ascendientes o hermanos, el cónyuge sucederá en todos los bienes.
+1521.- A falta de descendientes, ascendientes o hermanos, el cónyuge sucederá en todos lo bienes.
 
 ### CAPITULO V. DE LA SUCESION DE LOS COLATERALES
 
@@ -10036,5 +10050,9 @@ P.O. 15 DE ABRIL DE 2000.
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 12 DE JULIO DE 2000.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE AGOSTO DE 2000.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
