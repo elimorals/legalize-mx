@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2003-06-30"
+last_updated: "2004-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2004.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -87,9 +87,9 @@ Impuestos son las contribuciones establecidas en la Ley, que deben pagar las per
 
 Son derechos las contribuciones establecidas en ley por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado en sus funciones de derecho público, excepto cuando se permita el uso o aprovechamiento o se presten los servicios por organismos descentralizados. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado, y que se encuentren incluidos en la Ley de Ingresos del Estado.
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
-Los recargos, las sanciones, los gastos de ejecución y las indemnizaciones a que se refiere el segundo párrafo del Artículo 33, son accesorios de las contribuciones y participan de la naturaleza de éstas.
+Los recargos, las sanciones, los gastos de ejecución y las indemnizaciones a que se refiere el tercer párrafo del artículo 33, son accesorios de las contribuciones y participan de la naturaleza de éstas.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
@@ -103,7 +103,9 @@ Son productos, las contraprestaciones por los servicios que presta el Estado en 
 
 Son aprovechamientos los ingresos que percibe el Estado por funciones de derecho público, distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados.
 
-Los recargos, las sanciones, los gastos de ejecución e indemnizaciones a que se refiere el segundo párrafo del Artículo 33 de este Código, que se apliquen en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
+
+Los recargos, las sanciones, los gastos de ejecución e indemnizaciones a que se refiere el tercer párrafo del artículo 33 de este Código, que se apliquen en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1998)</small>
 
@@ -115,9 +117,9 @@ Son participaciones, aportaciones y reasignaciones, las cantidades que el Gobier
 
 Son créditos fiscales los que tenga derecho a percibir el Estado o sus Organismos Descentralizados que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven las responsabilidades que el Estado tenga derecho a exigir de sus servidores públicos o de los particulares, así como aquellos a los que las Leyes les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
-La recaudación proveniente de todos los ingresos del Estado aun cuando se destinen a un fin específico, se hará a través de la Secretaría de Finanzas y Desarrollo Social o por las oficinas que la misma designe.
+La recaudación proveniente de todos los ingresos del Estado aun cuando se destinen a un fin específico, se hará a través de la Secretaría de Finanzas y Administración o por las oficinas que la misma designe.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1991)</small>
 
@@ -141,9 +143,9 @@ VI.- La Ley para el Federalismo Hacendario del Estado de Puebla.
 
 VII.- Los demás ordenamientos que contengan disposiciones de carácter hacendario.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
-La aplicación de las leyes a que se refiere este artículo, le corresponderá al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Desarrollo Social y demás autoridades administrativas que prevengan las leyes.
+La aplicación de las leyes a que se refiere este artículo, le corresponderá al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Administración y demás autoridades administrativas que prevengan las leyes.
 
 ###### ARTICULO 10.
 
@@ -171,67 +173,63 @@ Son autoridades fiscales del Estado.
 
 I.- El Gobernador del Estado.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2004)</small>
 
-II.- El Secretario de Finanzas y Desarrollo Social.
+II.- El Titular de la Secretaría de Finanzas y Administración, así como los servidores públicos siguientes, adscritos a la misma:
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+a).- El Subsecretario de Ingresos, el Subsecretario de Egresos, el Subsecretario de Planeación e Inversión y el Subsecretario de Administración;
 
-III.- Los Subsecretarios de la Secretaría de Finanzas y Desarrollo Social.
+b).- El Director de Asuntos Jurídicos;
 
-IV.- (DEROGADA, P.O. 11 DE ABRIL DE 2003)
+c).- El Director de Ingresos;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+d).- El Director de Fiscalización;
 
-V.- El Director de Asuntos Jurídicos.
+e).- El Subdirector Técnico de Ingresos;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+f).- El Subdirector de Recaudación;
 
-VI.- El Director de Ingresos.
+g).- El Jefe del Departamento Técnico de Ejecución;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+h).- El Subdirector Técnico de Fiscalización;
 
-VII.- El Director de Fiscalización.
+i).- El Subdirector Operativo de Fiscalización; y
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+j).- Los Jefes de las Oficinas Recaudadoras del Estado.
 
-VIII.- El Director de Recaudación.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+III.- El Director del Instituto de Catastro del Estado.
 
-IX.- El Subdirector Técnico de Ingresos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+IV.- El Secretario Técnico del Instituto de Catastro del Estado.
 
-X.- El Subdirector Técnico de Recaudación
+V.- (DEROGADA, P.O. 27 DE FEBRERO DE 2004)
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+VI.- (DEROGADA, P.O. 27 DE FEBRERO DE 2004)
 
-XI.- El Subdirector Operativo de Recaudación.
+VII.- (DEROGADA, P.O. 27 DE FEBRERO DE 2004)
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+VIII.- (DEROGADA, P.O. 27 DE FEBRERO DE 2004)
 
-XII.- El Jefe del Departamento de Ejecución.
+IX.- (DEROGADA, P.O. 27 DE FEBRERO DE 2004)
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+X.- (DEROGADA, P.O. 27 DE FEBRERO DE 2004)
 
-XIII.- El Subdirector Técnico de Fiscalización.
+XI.- (DEROGADA, P.O. 27 DE FEBRERO DE 2004)
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+XII.- (DEROGADA, P.O. 27 DE FEBRERO DE 2004)
 
-XIV.- El Subdirector Operativo de Fiscalización.
+XIII.- (DEROGADA, P.O. 27 DE FEBRERO DE 2004)
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+XIV.- (DEROGADA, P.O. 27 DE FEBRERO DE 2004) (F. DE E., P.O. 15 DE MARZO DE 2004)
 
-XV.- Los Jefes de las Oficinas Recaudadoras del Estado.
+XV.- (DEROGADA, P.O. 27 DE FEBRERO DE 2004) (F. DE E., P.O. 15 DE MARZO DE 2004)
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+XVI.- (DEROGADA, P.O. 27 DE FEBRERO DE 2004) (F. DE E., P.O. 15 DE MARZO DE 2004)
 
-XVI.- El Director del Instituto de Catastro del Estado.
-
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
-
-XVII.- El Secretario Técnico del Instituto de Catastro del Estado.
+XVII.- (DEROGADA, P.O. 27 DE FEBRERO DE 2004) (F. DE E., P.O. 15 DE MARZO DE 2004)
 
 Los demás servidores públicos a los que las Leyes y Convenios confieren facultades específicas en materia hacendaria y las que reciban por delegación expresa de las autoridades señaladas en este artículo.
 
@@ -241,21 +239,21 @@ En contra de los actos que se realicen cuando actúen de conformidad con este pr
 
 ARTICULO 13 A.- (DEROGADO, P.O. 11 DE JUNIO DE 2003)
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 14.
 
-El Gobernador del Estado y el Secretario de Finanzas y Desarrollo Social podrán dictar disposiciones de carácter general, para modificar o adicionar el control, forma de pago y procedimiento, siempre que no varíe en forma alguna el sujeto, objeto, base, cuota, tasa o tarifa de los gravámenes, infracciones y sanciones.
+EL Gobernador del Estado y el Secretario de Finanzas y Administración podrán dictar disposiciones de carácter general, para modificar o adicionar el control, forma de pago y procedimiento siempre que no varíe en forma alguna el sujeto, objeto, base, cuota, tasa o tarifa de los gravámenes, infracciones y sanciones.
 
-De igual forma el Gobernador del Estado y el Secretario de Finanzas y Desarrollo Social quedan facultados para celebrar convenios con la Federación, así como con los Ayuntamientos de la Entidad, sobre la administración de las Contribuciones Federales o Municipales, según el caso.
+De igual forma el Gobernador del Estado y el Secretario de Finanzas y Administración quedan facultados para celebrar convenios con la Federación, así como con los Ayuntamientos de la Entidad, sobre la administración de las contribuciones Federales o Municipales, según el caso.
 
 ###### ARTICULO 15.
 
 Sólo podrá afectarse un ingreso estatal a un fin específico, cuando se cumpla lo que sobre este particular se establezca en las Leyes respectivas.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
-Los contratos, concesiones, acuerdos y cualesquiera otros actos en los que se afecte un ingreso estatal a un fin específico deberán ser autorizados por el Gobernador del Estado y dados a conocer por la Secretaría de Finanzas y Desarrollo Social.
+Los contratos, concesiones, acuerdos y cualesquiera otros actos en los que se afecte un ingreso estatal a un fin específico deberán ser autorizados por el Gobernador del Estado y dados a conocer por la Secretaría de Finanzas y Administración.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
@@ -279,9 +277,9 @@ En los plazos establecidos por períodos y aquéllos en que señale una fecha de
 
 También se prorrogará el plazo hasta el siguiente día hábil, cuando sea viernes el último día del plazo en que se deba presentar la declaración respectiva, ante las Oficinas Recaudadoras, Instituciones de Crédito autorizadas o se utilice algún otro medio de pago.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
-Las Autoridades Fiscales podrán habilitar los días y horas inhábiles; esta circunstancia deberá comunicarse a los particulares y no alterará el cálculo de plazos. También podrán ampliar el horario de atención al público en las Oficinas Recaudadoras, los días en que se venzan los plazos para la presentación de declaraciones; hecho que se dará a conocer mediante publicación que realice la Secretaría de Finanzas y Desarrollo Social.
+Las Autoridades Fiscales podrán habilitar los días y horas inhábiles; esta circunstancia deberá comunicarse a los particulares y no alterará el cálculo de plazos. También podrán ampliar el horario de atención al público en las Oficinas Recaudadoras, los días en que se venzan los plazos para la presentación de declaraciones; hecho que se dará a conocer mediante publicación que realice la Secretaría de Finanzas y Administración.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -453,13 +451,9 @@ Las Autoridades Fiscales podrán practicar diligencias en el lugar que conforme 
 
 Se considera que hay cambio de domicilio fiscal, cuando el contribuyente lo establezca en lugar distinto al que se tiene manifestado o cuando deba considerarse un nuevo domicilio en los términos del Código.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
-El aviso de cambio de domicilio fiscal deberá presentarse dentro del mes siguiente al día en que tenga lugar la situación jurídica o de hecho que corresponda, ante cualquiera de las Oficinas Recaudadoras de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, mediante las formas oficiales aprobadas por la propia dependencia.
-
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 11 DE ABRIL DE 2003)</small>
-
-> <small>(DEROGADO SEXTO PARRAFO, P.O. 11 DE ABRIL DE 2003)</small>
+El aviso de cambio de domicilio fiscal deberá presentarse dentro del mes siguiente al día en que tenga lugar la situación jurídica o de hecho que corresponda, ante cualquiera de las Oficinas Recaudadoras de la Secretaría de Finanzas y Administración del Gobierno del Estado, mediante las formas oficiales aprobadas por la propia Dependencia.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -499,17 +493,17 @@ Las personas domiciliadas fuera del Estado que causen gravámenes estatales debe
 
 Son obligaciones de los contribuyentes:
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2004)</small>
 
-I.- Inscribirse en los registros de contribuyentes que señalan las Leyes Fiscales del Estado, ante cualquiera de las Oficina Recaudadoras de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, dentro del mes siguiente a la fecha en que se coloquen en la situación jurídica o de hecho que dé origen a la causación de la contribución de que se trate.
+I.- Inscribirse en los registros de contribuyentes que señalan las Leyes Fiscales del Estado, ante cualquiera de las Oficinas Recaudadoras de la Secretaría de Finanzas y Administración del Gobierno del Estado, dentro del mes siguiente a la fecha en que se coloquen en la situación jurídica o de hecho que dé origen a la causación de la contribución de que se trate.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
 II.- Presentar los avisos, declaraciones normales, complementarias y provisionales, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las Leyes Fiscales del Estado, en las formas autorizadas y con los requisitos que en las mismas se señalen.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
-Los contribuyentes que en términos de las disposiciones fiscales federales hayan presentado dictamen formulado por Contador Público registrado, sobre estados financieros, y que sean sujetos del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal y Sobre Servicios de Hospedaje, tendrán la obligación de proporcionar, en la misma fecha en que hayan presentado el citado dictamen, un escrito a la Dirección de Fiscalización de la Secretaría de Finanzas y Desarrollo Social del Estado, en el que señalen mes a mes las bases gravables de los impuestos estatales a que se refiere esta fracción, causados por los meses y ejercicios que se señalen en dicho dictamen, indicando en el mismo, en su caso, los meses pendientes de pago.
+Los contribuyentes que en términos de las disposiciones fiscales federales hayan presentado dictamen formulado por Contador Público registrado, sobre estados financieros, y que sean sujetos del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal y Sobre Servicios de Hospedaje, tendrán la obligación de proporcionar, en la misma fecha en que hayan presentado el citado dictamen, un escrito a la Dirección de Fiscalización de la Secretaría de Finanzas y Administración del Estado, en el que señalen mes a mes las bases gravables de los Impuestos Estatales a que se refiere esta fracción, causadas por los meses y ejercicios que se señalen en dicho dictamen, indicando en el mismo, en su caso, los meses pendientes de pago.
 
 > <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
@@ -527,7 +521,9 @@ En caso de cancelación del registro estatal o suspensión de actividades, al pr
 
 VII.- Proporcionar a las Autoridades Fiscales los datos e informaciones que se le soliciten, dentro del plazo fijado para ello.
 
-VIII.- Señalar domicilio fiscal en el Estado.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2004)</small>
+
+VIII.- Señalar y comprobar el domicilio fiscal en el Estado.
 
 IX.- Liquidar, retener y enterar correctamente las contribuciones en términos de lo que dispone este Código y las Leyes Fiscales del Estado, en tratándose de fedatarios públicos.
 
@@ -643,7 +639,9 @@ El silencio de las Autoridades Fiscales durante el término a que se refiere el 
 
 La autoridad fiscal recibirá las declaraciones, avisos, solicitudes, manifiestos y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverá copia sellada y comprobante de pago en su caso, a quien los presente. Además de los casos que señalen las leyes fiscales, se podrá rechazar la presentación cuando no contenga o se anote de manera incorrecta el nombre, denominación o razón social del contribuyente, su número de registro estatal, su registro federal de contribuyentes y su domicilio fiscal o no aparezcan firmados por el contribuyente o su representante legal debidamente acreditado, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso la autoridad fiscal podrá cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
 
-En los casos en que las formas para la presentación de avisos, declaraciones, manifestaciones y cualquier otro de naturaleza análoga que prevengan las disposiciones fiscales, no hubieren sido aprobados y publicados por la Secretaría de Finanzas y Desarrollo Social, los obligados a presentarlas, las formularán en escrito por cuadruplicado que contenga los datos señalados en los artículos 25 y 26 de este Código. En caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
+
+En los casos en que las formas para la presentación de avisos, declaraciones, manifestaciones y cualquier otro de naturaleza análoga que prevengan las disposiciones fiscales, no hubieren sido aprobados y publicados por la Secretaría de Finanzas y Administración, los obligados a presentarlas, las formularán en escrito por cuadruplicado que contengan los datos señalados en los artículos 25 y 26 de este Código. En caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
 
 ## TITULO TERCERO. DEL NACIMIENTO Y PAGO DE LOS CREDITOS FISCALES
 
@@ -693,9 +691,9 @@ La falta de pago de un Crédito Fiscal en la fecha o plazo establecido en las di
 
 Pago es el cumplimiento de una obligación fiscal determinada en cantidad líquida, que deberá cubrirse en moneda nacional y podrá hacerse en efectivo, giro postal, telegráfico o bancario, cheque certificado, cheque de caja, tarjeta de crédito, cheque personal de la cuenta del contribuyente sin certificar, cuando sean expedidos por el mismo, los depósitos referenciados y las transferencias de fondos reguladas por el Banco de México, incluyendo las que se realicen de manera electrónica, o en especie en los casos que así lo prevengan las leyes fiscales.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
-Las Autoridades Fiscales podrán autorizar alguna otra forma o medio de pago de las anteriormente señaladas, a través de disposiciones de carácter general que emita la Secretaría de Finanzas y Desarrollo Social.
+Las Autoridades Fiscales podrán autorizar alguna otra forma o medio de pago de las anteriormente señaladas, a través de disposiciones de carácter general que emita la Secretaría de Finanzas y Administración.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1996)</small>
 
@@ -709,15 +707,15 @@ Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualqu
 
 En el caso de que se paguen contribuciones mediante cheque, éste solo podrá aplicarse a un contribuyente, debiendo librarse a cargo de Instituciones de Crédito que se encuentren dentro de la población donde esté establecida la oficina recaudadora de que se trate. Las autoridades fiscales, podrán autorizar mediante disposiciones de carácter general, que el cheque se libre a cargo de Instituciones de Crédito que se encuentren en poblaciones distintas a aquellas en donde esté establecida la autoridad.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
-El cheque mediante el cual se paguen las contribuciones y sus accesorios, deberá expedirse a nombre de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado de Puebla, además deberá tener la inscripción "para abono en cuenta". Dicho cheque no será negociable.
+El cheque mediante el cual se paguen las contribuciones y sus accesorios, deberá expedirse a nombre de la Secretaría de Finanzas y Administración del Gobierno del Estado de Puebla, además deberá tener la inscripción "para abono en cuenta". Dicho cheque no será negociable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE FEBRERO DE 2004)</small>
 
-###### ARTICULO 34.
+###### ARTÍCULO 34.
 
-El pago de las contribuciones y sus accesorios se realizará en cualquiera de las Oficinas Recaudadoras u Oficinas Receptoras de Pago de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, en las Instituciones Bancarias que ésta autorice para tal efecto, a través del Portal Digital del Estado de Puebla en Internet, y en cualquier otro lugar de pago, mediante las formas oficiales o medios electrónicos que emita o apruebe dicha Dependencia.
+El pago de las contribuciones y sus accesorios se realizará en cualquiera de las Oficinas Recaudadoras u oficinas Receptoras de Pago de la Secretaría de Finanzas y Administración del Gobierno del Estado, en las Instituciones Bancarias que ésta autorice para tal efecto, a través del Portal Digital del Estado de Puebla en Internet, y en cualquier otro lugar de pago, mediante las formas oficiales o medios electrónicos que emita o apruebe dicha Dependencia.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
@@ -731,11 +729,13 @@ Tratándose de los pagos efectuados en las oficinas de las Instituciones Bancari
 
 En el caso de pagos realizados a través del Portal Digital del Estado de Puebla en Internet o en cualquier otro lugar de pago por medios electrónicos, el contribuyente obtendrá el documento que emita el sistema de cómputo, en el que conste el número de referencia que se asigna a la operación autorizada. El contribuyente comprobará el cumplimiento de la obligación fiscal con dicho documento.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
-ARTICULO 34 A.- Los contribuyentes que estén obligados a realizar pagos de conformidad con las leyes fiscales respectivas, en lugar de utilizar las formas de declaración a que se refiere el artículo 24 fracción II de este Código, podrán presentarlas a través de medios electrónicos, en los términos que señale la Secretaría de Finanzas y Desarrollo Social mediante reglas de carácter general.
+###### ARTICULO 34-A.
 
-Opcionalmente, estos contribuyentes podrán solicitar en las Oficinas Recaudadoras de la Secretaría de Finanzas y Desarrollo Social, la certificación de las declaraciones y el pago efectuado, en los términos que señale la Ley de Ingresos del Estado, debiendo cumplir los requisitos que dicha Secretaría señale mediante reglas de carácter general.
+Los contribuyentes que estén obligados a realizar pagos de conformidad con las leyes fiscales respectivas, en lugar de utilizar las formas de declaración a que se refiere el artículo 24 fracción II de este Código, podrán presentarlas a través de medios electrónicos, en los términos que señale la Secretaría de Finanzas y Administración mediante reglas de carácter general.
+
+Opcionalmente, estos contribuyentes podrán solicitar en las Oficinas Recaudadoras de la Secretaría de Finanzas y Administración, la certificación de las declaraciones y el pago efectuado, en los términos que señale la Ley de Ingresos del Estado, debiendo cumplir los requisitos que dicha Secretaría señale mediante reglas de carácter general.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -743,7 +743,9 @@ Opcionalmente, estos contribuyentes podrán solicitar en las Oficinas Recaudador
 
 Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, además deberán pagarse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno. Dichos recargos se calcularán aplicando al monto de las contribuciones actualizadas por el período a que se refiere este párrafo, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de actualización de la contribución de que se trate. La tasa de recargos para cada uno de los meses de mora será la que resulte de incrementar el 50 % a la que mediante Ley fije anualmente el Congreso de la Unión.
 
-Los recargos se causarán hasta por 5 años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el párrafo segundo del artículo 33 de este Código, los gastos de ejecución y las multas por infracción a disposiciones fiscales.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
+
+Los recargos se causarán hasta por 5 años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el tercer párrafo del artículo 33 de este Código, los gastos de ejecución y las multas por infracción a las disposiciones fiscales.
 
 En los casos de garantía de obligaciones fiscales a cargo de terceros, los recargos se causarán sobre el monto de lo requerido y hasta el límite de lo garantizado, cuando no se paguen dentro del plazo legal.
 
@@ -779,9 +781,9 @@ En los casos en que el Indice Nacional de Precios al Consumidor del mes anterior
 
 Para efectos de aplicación, el factor de actualización deberá calcularse hasta el diezmilésimo.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
-En las contribuciones, la actualización se calculará de conformidad con lo dispuesto en este artículo sobre el total excluyendo los propios recargos, los gastos de ejecución y la indemnización a que se refiere el segundo párrafo del artículo 33 de este Código.
+En las contribuciones, la actualización se calculará de conformidad con lo dispuesto en este artículo sobre el total excluyendo los propios recargos, los gastos de ejecución y la indemnización a que se refiere el tercer párrafo del artículo 33 de este Código.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -945,9 +947,9 @@ XV.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 1991)
 
 XVI.- Elaborar los formularios de declaración en forma que puedan ser llenados fácilmente por los contribuyentes.
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2004)</small>
 
-XVII.- Conocer y resolver las solicitudes de condonación o exención total o parcial del pago de contribuciones, productos, aprovechamientos y sus accesorios.
+XVII.- Conocer y resolver las solicitudes de condonación o exención total o parcial del pago de contribuciones, productos, aprovechamientos y sus accesorios; y emitir en coordinación con la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, la normatividad para la depuración de los créditos a favor del Estado.
 
 XVIII.- Conceder subsidios o estímulos fiscales.
 
@@ -1099,7 +1101,7 @@ III.- Las autoridades Fiscales podrán solicitar a otras Autoridades competentes
 
 > <small>(REFORMADA, P.O. 11DE ABRIL DE 2003)</small>
 
-IV.- Los visitados, sus representantes o la persona con quien se entiendan las visitas, en el domicilio fiscal, están obligados a permitir a los visitadores designados por las autoridades fiscales, el acceso al lugar o lugares de la misma, así como mantener a su disposición la contabilidad y documentación que acredite el cumplimiento de las disposiciones fiscales, de las que los visitadores podrán obtener copias, las cuales previo cotejo con sus originales serán entregadas a los mismos, por escrito firmado por el contribuyente, representante legal o del tercero con quien se entienda la visita y podrán ser anexadas al acta final o a las parciales que levanten con motivo de la visita.
+IV.- Los visitados, sus representantes o la persona con quien se entiendan las visitas, en el domicilio fiscal, están obligados a permitir a los visitadores designados por las autoridades fiscales, el acceso al lugar o lugares de la misma, así como mantener a su disposición la contabilidad y documentación que acredite el cumplimiento de las disposiciones fiscales, de las que los visitadores podrán obtener copias, las cuales previo cotejo con sus originales serán entregadas a los mismos, por escrito firmado por el contribuyente, representante legal o del tercero con quien se entienda la visita y podrán ser anexadas al acta final o a las parciales que se levanten con motivo de la visita.
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -1241,15 +1243,25 @@ V.- Cuando el contribuyente, estando obligado a solicitar su inscripción en los
 
 En caso de que los contribuyentes se coloquen en alguna de las causales de estimativa y su base gravable sea el ingreso, la autoridad fiscal podrá aplicar indistintamente cualquiera de los siguientes procedimientos:
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2004)</small>
 
-I.- Si con base en la contabilidad y documentación del contribuyente, información de terceros y cualquier otro medio probatorio, pudieran reconstruirse las operaciones correspondientes cuando menos treinta días, el ingreso diario promedio que resulte se multiplicará por el número de días que corresponda al período, objeto de la revisión, el resultado de esta operación será la base gravable.
+I.- Si con base en la contabilidad y documentación del contribuyente, información de terceros y cualquier otro medio probatorio, pudieran reconstruirse las operaciones correspondientes cuando menos a treinta días, el ingreso diario promedio que resulte de dividir el ingreso obtenido con motivo de la reconstrucción entre el número de días reconstruidos, se multiplicará por el número de días que comprenda cada mes correspondiente al período objeto de la revisión, el resultado de esta operación será la base gravable, para cada uno de los meses.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
 II.- Si la contabilidad y documentación del contribuyente no permite reconstruir las operaciones de treinta días, la Secretaría de Finanzas y Desarrollo Social tomará como base los ingresos que observe durante cinco días, incluyendo los inhábiles cuando menos de operaciones normales y el promedio diario resultante se multiplicará por el número de días que comprenda cada mes correspondiente al período objeto de revisión, el resultado de esta operación será la base gravable para cada uno de los meses.
 
-A la base gravable estimada por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa impositiva que corresponda.
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2004)</small>
+
+III.- Tratándose de hoteles, moteles, casas de huéspedes, u otros que tengan por objeto la prestación de alojamiento o albergue temporal, se multiplicará el número de habitaciones o cuartos que se encuentren destinados a la prestación de alojamiento o albergue temporal de personas a cambio de un pago, por el costo promedio diario de la tarifa establecida o precio pactado, según sea el caso, por concepto de servicio de hospedaje de los meses objeto de la revisión.
+
+El producto obtenido de la operación anterior, se multiplicará por el número de días que corresponda al período objeto de la revisión. La cantidad resultante se multiplicará por el porcentaje de ocupación correspondiente a los meses objeto de la revisión, el resultado de esta operación será la base gravable estimada.
+
+El costo promedio diario a que se hace referencia anteriormente se determinará sumando la tarifa máxima establecida o precio máximo pactado, mas la tarifa mínima establecida o precio mínimo pactado y el resultado obtenido se dividirá en dos.
+
+El porcentaje de ocupación mencionado, se determinará con la información que otros organismos o entidades públicas determinen.
+
+En caso de que en la documentación comprobatoria, información de terceros y expedientes que se tengan a nombre del contribuyente, muestren cantidades relativas a la base para determinar el Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal y/o Impuesto Sobre Servicios de Hospedaje, se presumirá que corresponden a operaciones realizadas en el Estado de Puebla.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2003)</small>
 
@@ -1257,13 +1269,11 @@ A la base gravable estimada por alguno de los procedimientos anteriores, se le a
 
 En caso de que los contribuyentes se coloquen en alguna de las causales de estimativa y su base gravable sea diferente al ingreso, la autoridad fiscal podrá aplicar indistintamente cualquiera de los siguientes procedimientos:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2004)</small>
 
-I.- Tratándose del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal previsto en la Ley de Hacienda y de Ingresos del Estado de Puebla, se considerará que las erogaciones efectuadas a favor de los trabajadores son las que resulten de multiplicar cuatro veces el salario mínimo general diario vigente en el Estado en los meses o periodo que se revisen, elevado al mes o meses que se revisen por cada trabajador a su servicio.
+I.- Tratándose del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal previsto en la Ley de Hacienda y de Ingresos del Estado de Puebla, se considerará que las erogaciones efectuadas a favor de los trabajadores son las que resulten de multiplicar cuatro veces el salario mínimo general diario vigente en el Estado en los meses que se revisen, multiplicado por el número de días que comprende cada uno de los meses revisados; el resultado obtenido se multiplicará por el número mayor de trabajadores que hubiera tenido en cualquiera de los meses revisados.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1996)</small>
-
-En el caso de que se demuestre que el contribuyente tuvo trabajadores cuando menos por un día del período revisado, sin que pueda determinarse la duración de la relación laboral, se entenderá, para efectos fiscales, que dicho trabajador laboró todo el período revisado.
+El número de trabajadores podrá obtenerse de la información que conste en el expediente de las Autoridades Fiscales, abierto a nombre del contribuyente, o de la información proporcionada por otras autoridades, organismos públicos o terceros.
 
 > <small>(REFORMADA, P.O. 11 DE ABRIL DE 2003)</small>
 
@@ -1277,11 +1287,9 @@ El producto obtenido de la operación anterior se multiplicará por el número d
 
 El costo promedio diario a que se hace referencia anteriormente de determinará sumando la tarifa máxima establecida o precio máximo pactado, más la tarifa mínima establecida o precio mínimo pactado y el resultado obtenido se dividirá entre dos.
 
-En caso de que la documentación comprobatoria, información de terceros y expedientes que se tengan a nombre del contribuyente, en el que aparezcan cantidades relativas al Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal y/o Impuesto Sobre Servicios de Hospedaje, se presumirá que las mismas fueron causadas en el Estado de Puebla y pertenecen al mismo.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
-Si el contribuyente no manifiesta en alguna o varias declaraciones el número de trabajadores, se tomará para todos los meses el número de trabajadores mayor que se hubiera conocido, ya sea de las declaraciones o de los manifestados ante otras autoridades u Organismos Públicos.
-
-A la base gravable estimada por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa impositiva que corresponda.
+En caso de que la documentación comprobatoria, información de terceros y expedientes que se tengan a nombre del contribuyente, en el que muestren cantidades relativas a la base para la determinación del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal y/o Impuesto Sobre Servicios de Hospedaje, se presumirán que las mismas corresponden a operaciones efectuadas en el Estado de Puebla y pertenecen al mismo.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 1996)</small>
 
@@ -1297,9 +1305,9 @@ II.- Las manifestaciones hechas por la persona con quien se entienda la visita d
 
 Los actos y resoluciones de las autoridades fiscales se presumirán legales; sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el obligado los niegue lisa y llanamente, a menos que la negativa implique la afirmación de otro hecho.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
-Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien que consten en los expedientes o documentos que lleven o tengan en su poder las Autoridades Fiscales, podrán servir para motivar las resoluciones de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado y cualquier otra autoridad u organismo descentralizado en el área de su competencia.
+Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien que consten en los expedientes o documentos que lleven o tengan en su poder las Autoridades Fiscales, podrán servir para motivar las resoluciones de la Secretaría de Finanzas y Administración del Gobierno del Estado y cualquier otra autoridad u organismo descentralizado en el área de su competencia.
 
 Las copias de documentos que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias sean certificadas por funcionario competente para ello, sin necesidad de cotejo con los originales.
 
@@ -1329,9 +1337,9 @@ Corresponde a las Autoridades Fiscales declarar que se ha cometido una infracci�
 
 La aplicación de las sanciones administrativas se hará sin perjuicio de que se exija el pago de las prestaciones fiscales respectivas, de recargos en su caso y de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
-El monto de las sanciones que establece este capítulo en cantidades determinadas, se actualizará en forma semestral con el factor de actualización correspondiente al período comprendido desde el séptimo mes inmediato anterior hasta el último mes inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 35 A de este Código. La Secretaría de Finanzas y Desarrollo Social publicará semestralmente las sanciones que resulten una vez actualizadas.
+El monto de las sanciones que establece este capítulo en cantidades determinadas, se actualizará en forma semestral con el factor de actualización correspondiente al periodo comprendido desde el séptimo mes inmediato anterior hasta el último mes inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 35-A de este Código. La Secretaría de Finanzas y Administración publicará semestralmente las sanciones que resulten una vez actualizadas.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1433,7 +1441,9 @@ XIX.- Adquirir por cualquier título, tarjeta de circulación, placas metálicas
 
 XX.- No pagar los derechos derivados de los programas que se realicen en la Entidad por acuerdo de las Autoridades Fiscales, en el ejercicio fiscal en que éste se establezca, conforme a las disposiciones legales aplicables.
 
-XXI.- (DEROGADA, P.O. 11 DE DICIEMBRE DE 2000)
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2004)</small>
+
+XXI.- No proporcionar el escrito que señala el párrafo segundo de la fracción II del artículo 24 de este Código.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1461,9 +1471,9 @@ II.- De $ 113.00 a $ 230.00 a la comprendida en la fracción II.
 
 III.- De $ 153.00 a $ 305.00 a la comprendida en la fracción III.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2004)</small>
 
-IV.- De $ 190.00 a $ 380.00 a la establecida en la fracción V.
+IV.- De $163.00 a $326.00 a la establecida en la fracción V. Tratándose de declaraciones correspondientes al Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal, la multa impuesta se reducirá en un 50%, al momento de efectuar su pago, cuando el contribuyente demuestre que únicamente tiene a su servicio hasta dos trabajadores, siempre que las erogaciones efectuadas por remuneraciones al trabajo personal no excedan del equivalente a cuatro veces el salario mínimo vigente en el Estado.
 
 (MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
 
@@ -1504,6 +1514,10 @@ XIII.- De $ 1,905.00 a $ 3,813.00 a la comprendida en la fracción XIX.
 (MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
 
 XIV.- De $ 116.00 a $ 291.00 a quien cometa la comprendida en la fracción XX.
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2004)</small>
+
+XV.- De $1,000.00 a $2,000.00 a la señalada en la fracción XXI.
 
 B.- Cuando la comisión de la infracción señalada en el artículo 58-A sea descubierta por las Autoridades Fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes sanciones:
 
@@ -1743,9 +1757,9 @@ No se ejecutarán loa actos administrativos cuando se solicite la suspensión an
 
 El procedimiento administrativo quedará suspendido hasta que se haga saber la resolución definitiva que hubiere recaído en el recurso o juicio.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
-En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir ante el Secretario de Finanzas y Desarrollo Social, acompañando los documentos en que conste el medio de defensa hecho valer y la garantía del interés fiscal. El Secretario de Finanzas y Desarrollo Social ordenará a la autoridad ejecutora que suspenda provisionalmente el procedimiento administrativo de ejecución y rinda informe en un plazo de tres días, debiendo resolver la cuestión dentro de los diez días siguientes a su recepción.
+En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir ante el Secretario de Finanzas y Administración, acompañando los documentos en que conste el medio de defensa hecho valer y la garantía del interés fiscal. El Secretario de Finanzas y Administración ordenará a la autoridad ejecutora que suspenda provisionalmente el procedimiento administrativo de ejecución y rinda informe en un plazo de tres días, debiendo resolver la cuestión dentro de los diez días siguientes a su recepción.
 
 ## TITULO SEPTIMO. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
@@ -2109,6 +2123,28 @@ Cuando existan excedentes después de haberse cubierto el crédito, se entregar�
 
 Contra los actos de las Autoridades Fiscales del Estado, el afectado sólo podrá interponer el recurso administrativo de revocación que establece este capítulo.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2004)</small>
+
+El recurso de revocación procederá contra:
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2004)</small>
+
+I.- Las resoluciones definitivas dictadas por Autoridades Fiscales del Estado que:
+
+a) Determinen contribuciones, accesorios o aprovechamientos.
+
+b) Nieguen la devolución de cantidades que procedan conforme a la Ley.
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2004)</small>
+
+II.- Los actos de Autoridades Fiscales que:
+
+a) Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la autoridad ejecutora o se refiera a recargos, gastos de ejecución o a la indemnización a que se refiere el artículo 35 de este Código.
+
+b) Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la Ley.
+
+c) Determinen el valor de los bienes embargados a que se refiere el artículo 106 de este Código.
+
 ###### ARTICULO 130.
 
 El recurso administrativo de revocación deberá ser interpuesto ante la Autoridad Fiscal que emitió o ejecutó el acto impugnado, dentro de los cuarenta y cinco días siguientes a aquel en que haya surtido efectos la notificación del mismo.
@@ -2134,6 +2170,26 @@ V.- Acreditar la personalidad del recurrente, cuando no se gestione a nombre pro
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
 VI.- Acompañar copia del documento en que conste el acto impugnado; así como de la constancia de notificaciones de éste, excepto cuando el promovente declare bajo protesta de decir verdad que no recibió constancia o cuando la notificación se haya practicado por correo certificado con acuse de recibo o se trate de negativa ficta. Si la notificación fue por edictos, deberá señalar la fecha de la última publicación y el órgano en que ésta se hizo.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2004)</small>
+
+###### ARTICULO 131-A.
+
+Cuando se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los recurribles conforme al artículo 129, se estará a las reglas siguientes:
+
+I.- Si el particular afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer mediante la interposición del recurso administrativo a que se refiere este capítulo, en el que manifestará la fecha en que lo conoció.
+
+En caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen contra la notificación.
+
+II. Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso administrativo ante la Autoridad Fiscal que haya emitido o ejecutado el acto, la cual le dará a conocer el acto junto con la notificación que del mismo se hubiere practicado, para lo cual el particular señalará en el escrito del propio recurso, el domicilio en que se le debe dar a conocer y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la autoridad citada dará a conocer el acto y la notificación por estrados.
+
+El particular tendrá un plazo de cuarenta y cinco días a partir del siguiente al en que la autoridad se los haya dado a conocer, para ampliar el recurso administrativo, impugnando el acto y su notificación o sólo la notificación.
+
+III. La autoridad estudiará los agravios expresados contra la notificación, previamente al examen de la impugnación que, en su caso, se haya hecho del acto administrativo.
+
+IV. Si se resuelve que no hubo notificación o que fue ilegal, tendrá al recurrente como sabedor del acto administrativo desde la fecha en que manifestó conocerlo o en que se le dio a conocer en los términos de la fracción II, quedando sin efectos todo lo actuado en base a aquélla, y procederá al estudio de la impugnación que, en su caso, hubiese formulado en contra de dicho acto.
+
+Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, desechará dicho recurso.
 
 ###### ARTICULO 132.
 
@@ -2396,3 +2452,9 @@ SEGUNDO.- Se derogan las disposiciones que se opongan a lo dispuesto por el pres
 P.O. 30 DE JUNIO DE 2003.
 
 El presente Acuerdo entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo dispuesto por el presente Decreto.
