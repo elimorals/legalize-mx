@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-regular-las-actividades-que-realizan-los-2774"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-10-10"
-last_updated: "2001-10-26"
+last_updated: "2002-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA REGULAR LAS ACTIVIDADES QUE REALIZAN LOS COMERCIANTES AMBULANTES, DE PUESTOS FIJOS Y SEMI-FIJOS, Y LOS DE MERCADOS SOBRE RUEDAS PARA EL MUNICIPIO DE TIJUANA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 2002.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el sábado 10 de octubre de 1992.
 
@@ -95,13 +95,13 @@ Los comerciantes ambulantes, en puestos fijos o semifijos, y de los Mercados sob
 
 El Ayuntamiento ampliara o modificara las areas a que se refiere el articulo anterior, cuando lo requiera el interes publico.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE NOVIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 12.
 
-Considerando que la zona central de la ciudad constituye el patrimonio histórico de los Tijuanenses, se determina como primer cuadro de la ciudad para los efectos de aplicación del presente Reglamento, quedando establecida como ZONA RESTRINGIDA con relación a toda actividad comercial que se realice en la Vía Pública, salvo en la época decembrina y por tanto sujeta a las modalidades que dicte el interés público, y a los dictámenes y estudios que emita la Dirección de Planeación del Desarrollo Urbano y Ecología, y la Dirección de Obras y Servicios Públicos Municipales, comprendiendo este la demarcación en calles y avenidas siguiente: DE LA CALLE PRIMERA "ARTÍCULO 123" A LA CALLE DÉCIMA, Y DE LA AVENIDA MADERO A LA AVENIDA "F".
+Considerando que la zona central de la ciudad constituye el patrimonio histórico de los Tijuanenses, se determina como primer cuadro de la ciudad para los efectos de aplicación del presente reglamento, quedando establecida como ZONA PROHIBIDA, con relación a nuevos permisos en la vía pública salvo en la época decembrina, comprendiendo este la demarcación de calles y avenidas siguientes: De la Calle Primera "Articulo 123" a la Calle Décima, y de la Avenida Madero a la Avenida "F".
 
-Así mismo se consideran como ZONAS RESTRINGIDAS.
+Asimismo se consideran como ZONAS PROHIBIDAS, con respecto a la expedición de nuevos permisos, reubicación de los ya existentes y cambio de giro de los mismos, las siguientes áreas: Malecón Playas de Tijuana; los carriles de circulación de entrada y salida de la línea internacional, comprendiendo los puertos de Tijuana-Otay y Tijuana-San Isidro; el andador peatonal Turístico de acceso de la Garita Internacional Tijuana-San Isidro a la Avenida Revolución; la 1ra. Etapa de la Zona Urbana del Río Tijuana; así como el crucero peatonal y vehicular del Boulevard Díaz Ordaz desde la Avenida Mazatlán hasta la Avenida Baja California y Boulevard Lázaro Cárdenas, desde la Avenida San Martín hasta la Avenida Los Arboles, de la Delegación de la Mesa; en virtud de la necesaria planeación del desarrollo y crecimiento de nuestra ciudad, de acuerdo a los factores de Desarrollo Urbano, Vocación Turística del Municipio, las condiciones de seguridad de los peatones y automovilistas, e Imagen Urbana. Por lo que deberán sujetarse a las modalidades que dicte el interés público.
 
 ### CAPITULO SEGUNDO. DE LAS LICENCIAS O PERMISOS
 
@@ -532,3 +532,9 @@ SEGUNDO.- Se derogan todas aquellas disposiciones u ordenamientos que contraveng
 P.O. 26 DE OCTUBRE DE 2001.
 
 PRIMERO: La presente reforma entra en vigor al día siguiente de su publicación el (sic) Periódico Oficial del Estado y deberá publicarse en un periódico mayor (sic) circulación en la localidad para conocimiento de la población.
+
+P.O. 29 DE NOVIEMBRE DE 2002.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y publíquese en un periódico local de mayor circulación para conocimiento de la población.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones u ordenamientos que contravengan a la presente reforma.
