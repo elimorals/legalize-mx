@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "1997-01-17"
+last_updated: "1999-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JUNIO DE 1999.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -11153,17 +11153,21 @@ Tratándose de la enajenación de bienes inmuebles, está se celebrará en escri
 
 Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal.
 
+> <small>(REFORMADO, B.O. 14 DE JUNIO DE 1999)</small>
+
 ###### Artículo 2224.
 
-Los contratos por los que los gobiernos federal, estatal y municipales, así como sus dependencias o entidades enajenen terrenos o casas habitación para la constitución del patrimonio familiar o para personas de escasos recursos económicos, deberán otorgarse en escritura pública, de acuerdo con lo dispuesto en el artículo 2226.
+Los contratos por los que los gobiernos federal, estatal y municipales, enajenen terrenos o casas habitación para la constitución del patrimonio familiar o para personas de escasos recursos económicos, hasta por un valor máximo al que se estipula en el artículo 741 de este Código y, previo estudio socio-económico, podrán otorgarse en documento privado sin los requisitos de testigos o de ratificación de firmas.
+
+> <small>(REFORMADO, B.O. 14 DE JUNIO DE 1999)</small>
 
 ###### Artículo 2225.
 
-En los programas de regularización de tenencia de la tierra que realicen los gobiernos federal, estatal y municipales, así como sus dependencias o entidades sobre inmuebles de propiedad particular, los contratos que se celebren entre las partes podrán otorgarse en las mismas condiciones a que se refiere el artículo siguiente.
+En los programas de regularización de tenencia de la tierra que realicen los gobiernos federal, estatal y municipales, así como sus dependencias o entidades sobre inmuebles de propiedad particular, los contratos que se celebren entre las partes podrán otorgarse en las mismas condiciones a que se refiere el artículo anterior.
 
 ###### Artículo 2226.
 
-Para los efectos de lo dispuesto en los dos artículos anteriores, los Notarios reducirán sus aranceles de conformidad con los convenios que al efecto celebre el Ejecutivo del Estado con el Colegio de Notarios de Baja California Sur.
+(DEROGADO, B.O. 14 DE JUNIO DE 1999)
 
 ###### Artículo 2227.
 
@@ -15172,3 +15176,7 @@ LIC. RAUL ANTONIO ORTEGA SALGADO
 B.O. 17 DE ENERO DE 1997.
 
 ÚNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 14 DE JUNIO DE 1999.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
