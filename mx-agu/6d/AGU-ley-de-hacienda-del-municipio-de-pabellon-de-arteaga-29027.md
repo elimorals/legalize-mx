@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-pabellon-de-arteaga-29027"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1991-08-11"
+last_updated: "1994-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE PABELLON DE ARTEAGA, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1994.
 
 Ley publicada en el Alcance de la Sección Décima del Periódico Oficial del Estado de Aguascalientes, el martes 31 de diciembre de 1985.
 
@@ -261,8 +261,6 @@ XI.- La división de la copropiedad y la disolución de la sociedad conyugal, po
 
 En las permutas se considerará que se efectúan dos adquisiciones.
 
-> <small>N. DE E. EL PRESENTE ARTICULO NO SE MENCIONA EN EL DECRETO NUMERO 114, PUBLICADO EN EL P.O. DE FECHA 11 DE AGOSTO DE 1991; POR TAL MOTIVO, SE DEJA A CONSIDERACION DEL USUARIO.</small>
-
 ARTICULO 22 BIS.- En la transmisión de bienes y derechos que por rescisión del contrato vuelvan éstos al enajenante dentro de los sesenta días naturales siguientes al otorgamiento del contrato, no se cobrará el impuesto.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1991)</small>
@@ -297,19 +295,11 @@ Para los fines de esta ley se considera que el usufructo y la nuda propiedad tie
 
 DE LA TASA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 25.
 
-Al valor del inmueble actualizado, se le aplicarán las siguientes tasas, durante los años de:
-
-1991 8%
-
-1992 6%
-
-1993 4%
-
-1994 2%
+Será base de este impuesto:
 
 I.- Tratándose de bienes inmuebles:
 
@@ -325,7 +315,19 @@ Si la Tesorería Municipal advierte que los avalúos bancarios son notoriamente 
 
 El impuesto se calculará aplicando la tasa que establece la Ley de Ingresos, al valor del inmueble fijado en los términos de este artículo, después de reducirlo en 10 veces el salario mínimo general elevado al año, de la zona económica en que se encuentre ubicado el inmueble.
 
-Tratándose de predios sin construir se reducirá en 5 veces el salario mínimo general elevado al año, de la zona económica en que se encuentre ubicado el predio.
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 1994)</small>
+
+Para determinar el pago de este impuesto se aplicará una exención al valor que resulte del inmueble, en los siguientes casos:
+
+a).- De cinco veces el salario mínimo general vigente en el Estado de Aguascalientes, elevado al año, cuando el inmueble esté construido;
+
+b).- De dos y medio veces el salario mínimo general vigente en el Estado de Aguascalientes, elevado al año, cuando el inmueble no tenga construcción alguna o sólo se encuentra bardeado;
+
+c).- De quince veces el salario mínimo general vigente en el Estado de Aguascalientes, elevado al año, cuando se trate de un inmueble popular de uso habitacional.
+
+Para los efectos de esta Ley, se entiende por inmueble de tipo popular, aquél que se ubica en fraccionamientos autorizados de tipo popular o de interés social, cuya superficie de terreno sea inferior a ciento veinte metros cuadrados y la construcción no sea mayor de sesenta metros cuadrados; y
+
+d).- De cinco veces el salario mínimo general vigente en el Estado de Aguascalientes, elevado al año, cuando se trate de terrenos dedicados a la explotación agropecuaria.
 
 Cuando formen parte del inmueble, departamentos habitacionales, la reducción se hará por cada uno de ellos; lo dispuesto en este párrafo no es aplicable a hoteles.
 
@@ -443,9 +445,19 @@ En todo caso, al margen de la matriz y en los testimonios deberá asentarse la c
 
 #### SECCION NOVENA. De las Exenciones
 
+> <small>N. DE E. EL PRESENTE ARTICULO HABIA SIDO DEROGADO MEDIANTE DECRETO NUMERO 114, PUBLICADO EN EL P.O. DE 11 DE AGOSTO DE 1991, SIN EMBARGO, POR DECRETO NUMERO 106, PUBLICADO EN EL P.O. DE 3 DE JULIO DE 1994, ES ADICIONADO; MOTIVO POR EL CUAL, SE DEJA A CONSIDERACION DEL USUARIO.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 40.
 
-(DEROGADO, P.O. 11 DE AGOSTO DE 1991)
+Se exceptúa del pago del pago de este impuesto:
+
+I.- (DEROGADA, P.O. 11 DE AGOSTO DE 1991)
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 1994)</small>
+
+II.- Las asociaciones constituidas conforme a la Ley de Asociaciones Religiosas y Culto Público, siempre y cuando la adquisición se realice antes del 31 de diciembre de 1994.
 
 ### CAPITULO III. Del Impuesto Sobre Incremento de Valor y Mejoría Específica de la Propiedad
 
@@ -822,3 +834,7 @@ Lic. Joaquín Cruz Ramírez.
 P.O. 11 DE AGOSTO DE 1991.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 3 DE JULIO DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
