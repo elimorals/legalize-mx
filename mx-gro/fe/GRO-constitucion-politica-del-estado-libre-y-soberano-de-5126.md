@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1990-01-23"
+last_updated: "1990-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 1990.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -1151,6 +1151,20 @@ La Administración Pública Estatal, será centralizada y paraestatal, conforme 
 
 Las Leyes, decretos, reglamentos y demás disposiciones de carácter general que el Gobernador promulgue, expida o autorice, deberán para su validez y observancia, ser refrendados por el Secretario de Gobierno y por el titular del ramo a que el asunto corresponda. Cuando ésta sea de la competencia de dos o más dependencias deberán ser igualmente refrendados por los titulares de las mismas.
 
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 1990)</small>
+
+###### ARTICULO 76 Bis.
+
+Existirá una Comisión de Derechos Humanos dentro del Poder Ejecutivo para la defensa y promoción de las garantías constitucionales, vinculada directamente a su Titular. Una agencia del Ministerio Público estará radicada a esa Comisión, quien conocerá de toda violación a los Derechos Humanos que se presuma cometan servidores públicos locales.
+
+La Ley que cree y organice la Comisión garantizará su autonomía técnica; establecerá el procedimiento en materia de desaparición involuntaria de personas; regirá la prevención y castigo de la tortura cuando presuntamente sean responsables los servidores a los que se refiere el párrafo anterior; definirá las prioridades para la protección de los Derechos Humanos entratándose de indígenas; internos en centros de readaptación social; menores de edad y mujeres de extrema ignorancia o pobreza; e incapaces; y reglamentará el recurso extraordinario de exhibición de personas.
+
+Este Cuerpo podrá comunicarse con el Organismo Federal que conozca de la defensa y promoción de los Derechos Humanos, para actuar coordinadamente en sus respectivos ámbitos de competencia.
+
+El Presidente de la Comisión será nombrado por el Poder Ejecutivo, pero ese nombramiento deberá ser aprobado por el Congreso. El Presidente será innamovible (sic) hasta su jubilación, y sólo podrá ser removido conforme al régimen de responsabilidades de los servidores públicos.
+
+El Presidente presentará anualmente al Congreso un informe sobre las actividades de la Comisión, y al efecto, podrá comparecer ante el mismo.
+
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
@@ -1179,13 +1193,9 @@ Para ser Procurador de Justicia se deberán satisfacer los mismos requisitos que
 
 El Procurador y los Subprocuradores serán nombrados y removidos por el Gobernador del Estado. Los Agentes y demás servidores públicos de confianza de la Procuraduría y del Ministerio Público serán nombrados y removidos por el Gobernador a propuesta del Procurador.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
-
 ###### ARTICULO 80 Bis.
 
-Habrá un Visitador General, Licenciado en Derecho, mayor de 25 años y de reconocida honorabilidad, designado y removido libremente por el Titular del Poder Ejecutivo, quien, sin intermediación de ninguna especie, dependerá directamente del Procurador General de Justicia y tendrá a su cargo, en los términos de las disposiciones aplicables, la vigilancia y evaluación de los establecimientos destinados a la detención y custodia de indiciados, procesados, sentenciados, sujetos a arresto administrativo y menores infractores, gozando al efecto de todas las facilidades que requiera para el cumplimiento de sus cometidos. El Visitar General deberá dar cuenta al propio Procurador de cualquier violación a los derechos humanos y, particularmente, a los derechos individuales que otorga el régimen Constitucional.
-
-Ese funcionario velará, en particular por la protección de los indígenas y campesinos que se encuentren en los referidos establecimientos.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 1990)
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -2462,3 +2472,13 @@ La Sala Penal radicada en Acapulco de Juárez, Guerrero, deberá instalarse a m�
 ###### ARTICULO TERCERO.
 
 El Instituto para el Mejoramiento Judicial deberá ser instalado a más tardar el día 31 de mayo de 1990.
+
+P.O. 22 DE SEPTIEMBRE DE 1990.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto de reformas y adiciones entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+###### ARTICULO SEGUNDO.
+
+El Organismo que crea este Decreto deberá integrarse y entrar en operación, dentro de los ciento ochenta días siguientes a la puesta en vigor del mismo.
