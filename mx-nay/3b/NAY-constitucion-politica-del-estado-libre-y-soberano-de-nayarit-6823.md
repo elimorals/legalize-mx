@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1919-07-24"
+last_updated: "1922-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 1919.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1922.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -765,13 +765,17 @@ El Secretario General de Gobierno, en unión del Procurador General de Justicia,
 
 El ejercicio del Poder Judicial se deposita en un Cuerpo que se denominará "SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO", en Jueces de Primera Instancia, Menores y de Paz.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1922)</small>
+
 ###### Art. 82.
 
-El Supremo Tribunal de Justicia del Estado, constará de tres Magistrados Propietarios y tres Suplentes, siendo uno de ellos el Presidente del Tribunal Pleno.
+El Supremo Tribunal de Justicia del Estado, se compondrá de un Magistrado Propietario y tres Suplentes o supernumerarios.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1922)</small>
 
 ###### Art. 83.
 
-Los Magistrados del Supremo Tribunal de Justicia en el Estado, serán electos por el Congreso del mismo, constituido en Colegio Electoral, debiendo concurrir por lo menos a la sesión en que deba hacerse la elección, las dos terceras partes del número total de sus miembros y siendo indispensable que el electo obtenga mayoría absoluta de votos. La elección se hará en escrutinio secreto y la misma Legislatura designará al Presidente del Tribunal.
+Los Magistrados del Supremo Tribunal de Justicia en el Estado, serán electos por el Congreso del mismo, constituido en Colegio Electoral, debiendo concurrir por lo menos a la sesión en que deba hacerse la elección, las dos terceras partes del número total de sus miembros y siendo indispensable que el electo obtenga mayoría absoluta de votos. La elección se hará en escrutinio secreto.
 
 ###### Art. 84.
 
@@ -1007,9 +1011,11 @@ En los delitos del orden común que cometieren los Diputados, el Gobernador, los
 
 En caso afirmativo, el acusado, queda por el mismo hecho separado de su encargo y sujeto desde luego a la acción de los Tribunales comunes, a menos que se trate del Gobernador del Estado, pues, en tal caso, sólo habrá lugar a acusarlo como si se tratara de un delito oficial.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1922)</small>
+
 ###### Art. 124.
 
-De los delitos y faltas oficiales en que incurran los altos funcionarios a que se refiere el artículo anterior, conocerán: el Congreso como Jurado de acusación y el Supremo Tribunal de Justicia en acuerdo pleno como Jurado de Sentencia; y tratándose de responsabilidad oficial de los Magistrados del Supremo Tribunal de Justicia, será Jurado de Sentencia, el mismo Tribunal Superior integrado en los términos de la ley.
+De los delitos y faltas oficiales en que incurran los altos funcionarios a que se refiere el artículo anterior, conocerán: el Congreso como Jurado de acusación y el Supremo Tribunal de Justicia como Jurado de Sentencia; y tratándose de responsabilidad oficial de los Magistrados del Supremo Tribunal de Justicia, será Jurado de Sentencia el mismo Tribunal Superior integrado en los términos de la ley.
 
 ###### Art. 125.
 
@@ -1085,7 +1091,7 @@ J. TRINIDAD SOLANO.
 
 DIPUTADO POR EL 14º DISTRITO ELECTORAL.
 
-Pablo Retes, Z., Vice-Presidente, Diputado por el Primer Distrito Electoral.- Marcos Esmerio, Diputado por el Segundo Distrito Electoral.- M.L. Urbina, Diputado por el Tercer Distrito Electoral.- Francisco Amézquita, Diputado por el Cuarto Distrito Electoral.- F. R. Pérez, Diputado por el Quinto Distrito Electoral.- Manuel Guzmán, Diputado Suplente por el Sexto Distrito Electoral.- Fidencio Estrada, Diputado por el Séptimo Distrito Electoral.- José María Ledón, Diputado por el Octavo Distrito Electoral.- J. Aguiar Béjar, Diputado Suplente por el Décimo Distrito Electoral.- Francisco N. Arroyo, Diputado por el Décimosegundo Distrito Electoral.- Antonio de P. Monroy, Diputado por el Décimotercero Distrito Electoral.- Mig. C. Madrigal, Diputado por el Décimoquinto Distrito Electoral.- F.R. Corona, Primer Secretario, Diputado por el Noveno Distrito Electoral.- Alfredo Robles, Segundo Secretario, Diputado por el Décimo Primero Distrito Electoral.
+Pablo Retes, Z., Vice-Presidente, Diputado por el Primer Distrito Electoral.- Marcos Esmerio, Diputado por el Segundo Distrito Electoral.- M.L. Urbina, Diputado por el Tercer Distrito Electoral.- Francisco Amézquita, Diputado por el Cuarto Distrito Electoral.- F. R. Pérez, Diputado por el Quinto Distrito Electoral.- Manuel Guzmán, Diputado Suplente por el Sexto Distrito Electoral.- Fidencio Estrada, Diputado por el Séptimo Distrito Electoral.- José María Ledón, Diputado por el Octavo Distrito Electoral.- J. Aguiar Béjar, Diputado Suplente por el Décimo Distrito Electoral.- Francisco N. Arroyo, Diputado por el Décimosegundo Distrito Electoral.- Antonio de P. Monroy, Diputado por el Décimotercero Distrito Electoral.- Mig. C. Madrigal, Diputado por el Décimoquinto Distrito Electoral.- F. R. Corona, Primer Secretario, Diputado por el Noveno Distrito Electoral.- Alfredo Robles, Segundo Secretario, Diputado por el Décimo Primero Distrito Electoral.
 
 Por lo tanto mando se imprima, publique por Bando Solemne, circule y sé le dé el más exacto cumplimiento.
 
@@ -1106,6 +1112,10 @@ Este Decreto comenzará a surtir sus efectos desde el día de su promulgación.
 P.O. 24 DE JULIO DE 1919
 
 Este Decreto empezará a surtir sus efectos desde la fecha de su promulgación.
+
+P.O. 15 DE ENERO DE 1922
+
+El presente Decreto deroga todas las disposiciones que a él se opongan y empezará a surtir sus efectos legales, desde la fecha en que el Congreso del Estado tiene que elegir de acuerdo con la Ley, nuevo Tribunal, y desde la fecha en que el Tribunal actual cumpla el periodo de sus funciones y deba hacer entrega al Tribunal nuevamente electo.
 
 ###### Art. 1o.
 
