@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "1990-12-21"
+last_updated: "1991-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 1991.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -85,23 +85,27 @@ Son participaciones las cantidades que el Gobierno del Estado tiene derecho a pe
 
 Son créditos fiscales los que tenga derecho a percibir el Estado o sus Organismos Descentralizados que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven las responsabilidades que el Estado tenga derecho a exigir de sus servidores públicos o de los particulares, así como aquellos a los que las Leyes les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1991)</small>
+
 ###### ARTICULO 9.
 
-Son leyes fiscales del Estado de Puebla:
+Son leyes fiscales del Estado de Puebla.
 
-- El presente Código
+I.- El presente Código.
 
-- La Ley de Hacienda
+II.- La Ley de Hacienda del Estado de Puebla.
 
-- La Ley de Ingresos
+III.- La Ley de Ingresos del Estado de Puebla.
 
-- La Ley de Egresos
+IV.- La Ley de Egresos del Estado de Puebla.
 
-- La Ley de Catastro
+V.- La Ley de Catastro del Estado de Puebla.
 
-- Los demás ordenamientos de orden hacendario.
+VI.- La Ley de Coordinación Fiscal del Estado de Puebla.
 
-La aplicación de las leyes a que se refiere este artículo, le corresponderá al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y demás autoridades administrativas que prevengan las leyes.
+VII.- Los demás ordenamientos que contengan disposiciones de carácter hacendario.
+
+La aplicación de las leyes a que se refiere este artículo, le coresponderá (sic) al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y demás autoridades administrativas que prevengan las leyes.
 
 ###### ARTICULO 10.
 
@@ -119,29 +123,35 @@ Las otras disposiciones fiscales se interpretarán aplicando cualquier método d
 
 La ignorancia de las leyes, reglamentos y demás disposiciones de observancia general debidamente publicados, no servirá de excusa ni aprovechará a nadie.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1991)</small>
 
 ###### ARTICULO 13.
 
-Son Autoridades Fiscales del Estado:
+Son autoridades fiscales del Estado.
 
-- El Gobernador del Estado
+I.- El Gobernador del Estado.
 
-- El Secretario de Finanzas
+II.- El Secretario de Finanzas.
 
-- El Director de Asuntos Jurídicos
+III.- Los subsecretarios de la Secretaría de Finanzas.
 
-- El Director de Fiscalización
+IV.- El Director de Asuntos Jurídicos.
 
-- El Director de Ingresos
+V.- El Director de Ingresos.
 
-- El Director Central de Ejecución
+VI.- El Director de Fiscalización.
 
-- Los Jefes de las Oficinas Recaudadoras del Estado
+VII.- El Director Central de Ejecución.
 
-Las Autoridades mencionadas, además de las atribuciones que las leyes y reglamentos le señalen, tendrán las que les delegue el Secretario de Finanzas.
+VIII.- Los Jefes de las Oficinas Recaudadoras del Estado.
 
-Las Autoridades señaladas en este artículo se consideran Autoridades Fiscales Municipales en el ejercicio de las facultades a que se refieren los convenios que celebre el Estado y los Municipios en los términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+IX.- El Director del Instituto de Catastro.
+
+X.- El Secretario Técnico del Instituto de Catastro.
+
+Los demás servidores públicos a los que las Leyes y Convenios confieren facultades específicas en materia hacendaria y las que reciban por delegación expresa de las autoridades señaladas en este artículo.
+
+Las autoridades señaladas en este artículo se consideran autoridades fiscales municipales en el ejercicio de las facultades a que se refieren los Convenios que celebre el Estado y los Municipios, en los términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
 En contra de los actos que se realicen cuando actúen de conformidad con este precepto, sólo procederán los recursos y medios de defensa que establece este Código.
 
@@ -1392,3 +1402,7 @@ Las presentes Reformas y Adiciones, entrarán en vigor el día primero de enero 
 ###### ARTICULO SEGUNDO.
 
 A partir del inicio de la vigencia del presente Decreto, se derogan las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
+
+P.O. 2 DE AGOSTO DE 1991.
+
+UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
