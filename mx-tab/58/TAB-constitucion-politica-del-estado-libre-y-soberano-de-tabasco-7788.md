@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1983-07-13"
+last_updated: "1983-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1983.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -66,6 +66,8 @@ El Territorio del Estado es el que de hecho y por derecho le pertenece.
 El Estado de Tabasco se integra con los Municipios siguientes:
 
 Balancán, Cárdenas, Centla, Centro, Comalcalco, Cunduacán, Emiliano Zapata, Huimanguillo, Jalapa, Jalpa de Méndez, Jonuta, Macuspana, Nacajuca, Paraíso, Tacotalpa, Teapa, y Tenosique, con la extensión y límites que de hecho y por derecho les corresponde.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ### CAPITULO III. DE LOS TABASQUEÑOS
 
@@ -463,7 +465,9 @@ XXVII.- Citar al Secretario del Ramo que corresponda para que informe cuando se 
 
 XXVIII.- Expedir la Ley Orgánica Municipal y las bases de policía y Buen Gobierno a que deban sujetarse los Municipios para hacer las propias;
 
-XXIX.- Autorizar la enajenación o gravamen de los bienes de los Municipios;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1983)</small>
+
+XXIX.- Autorizar la enajenación o gravamen de bienes de los Municipios y del Estado;
 
 XXX.- Recibir la protesta constitucional a los Diputados, al Gobernador y a los Magistrados del Tribunal Superior de Justicia;
 
@@ -687,9 +691,9 @@ XV.- Coordinar la inversión pública estatal y municipal para los efectos de la
 
 XVI.- Promover la inversión de todos los sectores de acuerdo con el Programa de Gobierno, con sentido social que genere empleos y propicie el desarrollo económico;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1983)</small>
 
-XVII.- Presentar un informe escrito al Congreso del Estado, el día 14 de Diciembre de cada año de su ejercicio Constitucional, en el q. (sic) manifieste el estado general que guarde la Administración Pública del Estado, informe que contestará en el mismo acto el Presidente del Congreso;
+XVII.- Presentar un informe escrito al Congreso del Estado, el segundo domingo del mes de diciembre de cada año en su ejercicio Constitucional, en el que manifieste el Estado general que guarda la Administración Pública del Estado, informe que contestará en el mismo acto el Presidente del Congreso;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 1977)</small>
 
@@ -791,7 +795,13 @@ Los Magistrados del Tribunal Superior de Justicia al entrar a ejercer su cargo, 
 
 Será Presidente del Tribunal Superior de Justicia del Estado, el Magistrado Numerario que anualmente sea electo para ese efecto por el cuerpo Colegiado en Pleno. Cada Sala elegirá su propio Presidente en la primera sesión del año.
 
-El Presidente del Tribunal Superior de Justicia concurrirá al Congreso del Estado el día 18 de diciembre de cada año y rendirá ante la Representación Popular, un informe escrito acerca de la situación que guarda la administración de Justicia del Estado, cuyo informe será contestado en el mismo acto por el Presidente del Congreso.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1983)</small>
+
+El Presidente del Tribunal Superior de Justicia, concurrirá al Congreso del Estado en cualquier día hábil del mes de diciembre de cada año y rendirá ante la representación popular, un informe escrito acerca de la situación que guarda la Administración de Justicia del Estado, cuyo informe será contestado en el mismo acto por el Presidente del Congreso.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1983)</small>
+
+Actuando coordinadamente los dos organismos acordarán administrativamente cada año el día y hora precisos para la comparecencia.
 
 Las faltas temporales del Presidente serán suplidas por otro Magistrado Numerario designado en la misma forma que el anterior, y las de los Presidentes de las Salas por el que éstas elijan.
 
@@ -913,7 +923,7 @@ Una vez aprobado por el Ayuntamiento el Plan Municipal y los Programas que de el
 
 IV.- Los Municipios podrán convenir con el Gobierno del Estado, satisfaciendo las formalidades que en cada caso procedan, la coordinación que se requiera a efecto de que dichos Gobiernos participen en la Planeación Estatal de Desarrollo; coadyuven, en el ámbito de sus respectivas jurisdicciones, a la consecución de los objetivos de la planeación general; para que los planes Estatales y Municipales tengan congruencia entre sí y para que los programas operativos de ambos ámbitos de Gobierno guarden la debida coordinación.
 
-El Estado y los Municipios, en los términos de las Leyes aplicables, podrán celebrar convenios únicos de Desarrollo Municipales que comprendan todos los aspectos de carácter económico y social para el desarrollo integral de la comunidad, quedando especialmente comprendido en dichos convenios que el Estado podrá hacerse cargo de algunas de las funciones relacionadas con la administración de las contribuciones que de por Ley les corresponda a los Municipios; Planeación; Ejecución y Operación de Obras; Prestación de Servicios Públicos encomendados legalmente a los Municipios; funcionamiento; organización y dirección técnica de la fuerza Municipal.
+El Estado y los Municipios, en los términos de las Leyes aplicables, podrán celebrar convenios únicos de Desarrollo Municipales que comprendan todos los aspectos de carácter económico y social para el desarrollo integral de la comunidad, quedando especialmente comprendido en dichos convenios que el Estado podrá hacerse cargo de algunas de las funciones relacionadas con la administración de las contribuciones que de por Ley les corresponda a los Municipios; Planeación; Ejecución y Operación de Obras; Prestación de Servicios Públicos encomendados legalmente a los Municipios; funcionamiento, organización y dirección técnica de la fuerza Municipal.
 
 Podrá convenir, asimismo, la asunción por parte de los Municipios el ejercicio en funciones, la ejecución y operación de obras y la prestación de servicios públicos del ámbito del Estado, cuando el desarrollo económico y social lo haga necesario y la capacidad operativa de los Municipios garanticen eficiencia.
 
@@ -1518,3 +1528,23 @@ SEGUNDO.- La Legislatura del Estado y los Ayuntamientos, dentro del año contand
 TERCERO.- Las contribuciones locales y las participaciones a que se refieren los incisos A) al C) de la Fracción V del Artículo 65 de la Constitución Política del Estado que se reforma se percibirán por los Municipios a partir del 1° de Enero de 1984.
 
 CUARTO.- Estas reformas han sido aprobadas, en los términos del Artículo 83 de la Constitución Política del Estado, por la totalidad de los cabildos que integran los Ayuntamientos de esta Entidad Federativa.
+
+P.O. 30 DE NOVIEMBRE DE 1983.
+
+DECRETO NUMERO 0122.
+
+UNICO.- Esta Adición ha sido aprobada en los términos del artículo 83 de la Constitución Política Local y entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 1983.
+
+DECRETO NUMERO 0123.
+
+UNICO.- Esta reforma ha sido aprobada en los términos del artículo 83 de la Constitución Política Local, y entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 1983.
+
+DECRETO NUMERO 00124.
+
+PRIMERO.- Esta reforma ha sido aprobada en los términos del artículo 83 de la Constitución del estado y entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En sesión de la Cámara de Diputados y previo acuerdo con el Tribunal Superior de Justicia, se señalará la fecha y hora en que en el mes de diciembre de cada año, concurrirá el Presidente del Tribunal Superior de Justicia a rendir su informe.
