@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8258"
 country: "mx"
 rank: "codigo"
 publication_date: "1976-12-29"
-last_updated: "1978-12-09"
+last_updated: "1981-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO FISCAL DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 1978.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 1981.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de Diciembre de 1976.
 
@@ -1677,11 +1677,13 @@ En la misma escritura el adquirente otorgará garantía hipotecaria por la parte
 
 El deudor, aun cuando la escritura se hubiere firmado en su rebeldía responderá ante el adjudicatario del bien por la evicción y saneamiento del inmueble rematado.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1981)</small>
+
 ###### ARTICULO 184o.
 
-Los bienes inmuebles pasarán a ser propiedad del postor desde la fecha de aprobación del remate, libres de todo gravamen y a fin de que se cancelen los que reporten, con la autorización del Tesorero General. El Jefe de la Oficina Recaudadora que finque el remate deberá comunicar al Registro Público de la Propiedad la transmisión de dominio que se hubiere operado.
+Los bienes inmuebles pasarán a ser propiedad del postor desde la fecha de aprobación del remate, libres de todo gravamen y a fin de que se cancelen los que reporten, con la autorización del Tesorero General. Una vez aprobado, el Jefe de la Oficina Recaudadora que finque el remate deberá comunicar al Registro Público de la Propiedad la transmisión de dominio que se hubiere operado.
 
-Los encargados del Registro Público de la Propiedad deberán inscribir la transmisión de dominio de bienes inmuebles que resulten de los remates celebrados por las oficinas ejecutoras fiscales y procederán a hacer las cancelaciones de gravámenes.
+Los encargados del Registro Público de la Propiedad deberán inscribir la transmisión de dominio de bienes inmuebles que resulten de los remates celebrados por las oficinas fiscales y procederán a hacer las cancelaciones de gravámenes de este Código.
 
 ###### ARTICULO 185o.
 
@@ -1741,9 +1743,13 @@ Cuando se trate de bienes raíces o de bienes inmuebles que no se hubieren subas
 
 En los casos previstos en los dos párrafos anteriores, la venta fuera de la subasta se hará con la intervención de los representantes del Departamento de Auditoría de la Tesorería General del Estado.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1981)</small>
+
 ###### ARTICULO 192o.
 
 Los excedentes que hubiere en las ventas fuera de subasta se devolverán a quien en derecho proceda conforme a las disposiciones de este Código.
+
+Si transcurridos dos años, a partir de la fecha del remate, no se hubiere reclamado el remanente, se aplicará a la Hacienda Pública.
 
 ### CAPITULO V. DE LA SUSPENSION
 
@@ -2294,3 +2300,7 @@ P.O. 9 DE DICIEMBRE DE 1978.
 ###### ARTICULO UNICO
 
 - El Presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 1981.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
