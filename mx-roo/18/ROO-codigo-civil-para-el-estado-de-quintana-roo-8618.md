@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "1991-05-15"
+last_updated: "1992-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 1992.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -7159,7 +7159,7 @@ Si el bien legado estuviere sujeto a usufructo, uso habitación o servidumbre, e
 
 ###### Artículo 1405.
 
-Mediante la substitución vulgar puede el testador designar a una o más personas para substituir al heredero o herederos instituidos, para el caso de que éstos mueran antes que él, o de que no puedan o no quieran aceptar la herencia.
+Mediante la substitución vulgar puede el testador designar a una o más personas para subtituir al heredero o herederos instituidos, para el caso de que éstos mueran antes que él, o de que no puedan o no quieran aceptar la herencia.
 
 ###### Artículo 1406.
 
@@ -13247,9 +13247,11 @@ La compraventa se hace por un precio alzado, y por ello sin estimar especialment
 
 El contrato de compraventa no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble, en cuyo caso el contrato se perfeccionará y surtirá plenamente sus efectos, hasta que se inscriba en el Registro Público de la Propiedad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1992)</small>
+
 ###### Artículo 2599.
 
-Las enajenaciones de bienes inmuebles cuyo valor convencional sea hasta de cien mil pesos, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos, debiendo ser ratificadas todas las firmas ante notario, juez de primera instancia, menor o de paz, o director del Registro Público de la Propiedad y del Comercio.
+Las enajenaciones de bienes inmuebles cuyo valor catastral sea equivalente hasta 500 salarios mínimos vigentes en el Estado, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos, debiendo ser ratificadas todas las firmas ante Notario, Juez de Primera Instancia, o Mixto, o Menor, o de Paz.
 
 > <small>(F. DE E., P.O. 8 DE OCTUBRE DE 1980)</small>
 
@@ -13261,9 +13263,11 @@ Si alguno de los contratantes no supiera escribir, firmará a su nombre y a su r
 
 Se imprimirá en el documento la huella digital de cada contratante, sepa o no firmar, y de él se formarán dos originales, uno para el comprador y otro para el Registro Público.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1992)</small>
+
 ###### Artículo 2601.
 
-Si el valor del inmueble excede de cien mil pesos, su venta se hará en escritura pública.
+Si el valor catastral del inmueble excede del equivalente hasta de 500 salarios mínimos vigentes en el Estado, su venta se hará en escritura pública.
 
 ### CAPITULO TERCERO. De la revocación y reducción de las donaciones
 
@@ -16726,3 +16730,7 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Para todos los efecto (sic) legales, la declaración protocolizada a que se refiere el Artículo 2761 Bis, se inscribirá conforme a lo establecido por el Artículo 3199 del propio Código Civil.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 15 DE OCTUBRE DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
