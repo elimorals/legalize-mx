@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1926-03-06"
+last_updated: "1926-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 1926.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 1926.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1271,17 +1271,11 @@ En todas las Escuelas de Instrucción Primaria Elemental, Superior y Normal, ser
 
 ### CAPITULO I. De las reformas a la Constitución
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1926)</small>
+
 ###### Art. 165.
 
-Esta Constitución podrá ser reformada o adicionada, siempre que se llenen los siguientes requisitos:
-
-I. Para que sea tomada en cuenta la iniciativa de reforma o adición, es necesario que así lo declaren las dos terceras partes de los Diputados presentes.
-
-II. Tomada en consideración la iniciativa, se reservará para discutirse y aprobarse en el siguiente período de sesiones.
-
-III. Si la iniciativa hubiere sido presentada y tomada en consideración en un período de sesiones extraordinarias, no podrá ser votada antes de cuatro meses a contar desde la fecha de su presentación.
-
-IV. Las iniciativas de reforma o adiciones a la Constitución, para que lleguen a ser leyes, es necesario que sean aprobadas por las dos terceras partes de los miembros del Congreso.
+Esta Constitución podrá ser reformada y adicionada; pero para que las adiciones y reformas lleguen a ser parte de la misma, se requiere que previamente sea tomada en cuenta la iniciativa de reformas o adición por la declaratoria de las dos terceras partes de los Diputados presentes y que sea aprobada por las dos terceras partes de los miembros del Congreso.
 
 ### CAPITULO II. De la Inviolabilidad de la Constitución
 
@@ -1376,3 +1370,7 @@ Lic. Luis Ilizaliturri.
 P.O. 6 DE MARZO DE 1926.
 
 Este decreto comenzará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 1926.
+
+TRANSITORIO. Comenzará a surtir sus efectos desde la fecha de su promulgación.
