@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-instituciones-y-procedimientos-electorales-34
 country: "mx"
 rank: "codigo"
 publication_date: "1990-08-15"
-last_updated: "1994-06-03"
+last_updated: "1996-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1990-08-14"
 
 CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE JUNIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE OCTUBRE DE 1996.
 
 Código publicado en el Diario Oficial de la Federación, el miércoles 15 de agosto de 1990.
 
@@ -1459,53 +1459,43 @@ ARTICULO 73
 
 1. El Consejo General es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad y objetividad guíen todas las actividades del Instituto.
 
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 1996)</small>
+
 ARTICULO 74
 
-> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+1. El Consejo General se integra por un consejero Presidente, ocho consejeros electorales, consejeros del Poder Legislativo, representantes de los partidos políticos y el Secretario Ejecutivo.
 
-1. El Consejo General se integra por un consejero del Poder Ejecutivo, cuatro consejeros del Poder Legislativo, seis consejeros ciudadanos, y representantes de los partidos políticos nacionales.
+2. El consejero Presidente del Consejo General será elegido por las dos terceras partes de los miembros presentes de la Cámara de Diputados, de entre las propuestas que formulen los grupos parlamentarios. La designación será realizada conforme a la normatividad y procedimiento aplicable en materia de votación en la Cámara de Diputados.
 
-2. El consejero del Poder Ejecutivo será el Secretario de Gobernación quien fungirá como Presidente del Consejo General.
+3. El consejero Presidente del Consejo General del Instituto Federal Electoral, debe reunir los mismos requisitos que se establecen en el artículo 76 para ser consejero electoral. Durará en su cargo siete años.
 
-3. Los consejeros del Poder Legislativo serán dos diputados y dos senadores. Por cada propietario habrá dos suplentes. En cada Cámara la mayoría propondrá uno de esos consejeros; el otro será propuesto por la primera minoría. Ambas Cámaras contarán invariablemente con dos representantes propietarios y sus suplentes.
+4. Los consejeros del Poder Legislativo serán propuestos en la Cámara de Diputados por los grupos parlamentarios con afiliación de partido en alguna de las Cámaras. Sólo habrá un consejero por cada grupo parlamentario no obstante su reconocimiento en ambas Cámaras del Congreso de la Unión. Los consejeros del Poder Legislativo, concurrirán a las sesiones del Consejo General con voz, pero sin voto. Por cada propietario podrán designarse hasta dos suplentes.
 
-4. En caso de vacante de los consejeros del Poder Legislativo, el presidente del Consejo General se dirigirá a las Cámaras del Congreso de la Unión a fin de que hagan las designaciones correspondientes.
+5. Los consejeros electorales serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, de entre las propuestas que formulen los grupos parlamentarios. Asimismo, se designarán ocho consejeros electorales suplentes, en orden de prelación. La designación será realizada conforme a la normatividad y procedimiento aplicable en materia de votación en la Cámara de Diputados.
 
-> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+6. Los consejeros electorales propietarios y suplentes durarán en su cargo siete años.
 
-5. Los consejeros ciudadanos serán electos conforme a las bases siguientes:
+7. El Secretario Ejecutivo será nombrado y removido por las dos terceras partes del Consejo General a propuesta del consejero Presidente.
 
-a) Cada grupo parlamentario tendrá derecho a presentar hasta cuatro candidatos. La comisión correspondiente de la Cámara de Diputados integrará una lista de candidatos hasta por el doble del número a elegir, de entre las propuestas de los grupos parlamentarios;
+8. Durante los recesos de la Cámara de Diputados, la elección del consejero Presidente y de los consejeros electorales del Consejo General será realizada por la Comisión Permanente, por el voto de las dos terceras partes de sus miembros presentes.
 
-> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 1994)</small>
+9. Cada partido político nacional designará un representante propietario y un suplente con voz, pero sin voto.
 
-b) De esta lista, la comisión correspondiente elaborará dictamen individual en la que se contenga la fórmula de los consejeros ciudadanos propietario y suplente. La Cámara de Diputados eligirá (sic) a los consejeros ciudadanos por el voto de las dos terceras partes de sus miembros presentes. Las propuestas de los consejeros serán votadas conforme al procedimiento que se marque en el Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos en su Capítulo de Votaciones.
+10. Los partidos políticos podrán sustituir en todo tiempo a sus representantes, dando con oportunidad el aviso correspondiente al consejero Presidente.
 
-c) Si realizadas al menos tres rondas de votación no se cubriera la totalidad de consejeros a elegir, la comisión correspondiente deberá presentar una nueva lista hasta por el doble de los consejeros faltantes. En este último caso se seguirá el procedimiento señalado en los incisos anteriores;
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 1996)</small>
 
-d) (DEROGADO, D.O.F. 3 DE JUNIO DE 1994)
+ARTICULO 75
 
-e) Los consejeros ciudadanos propietarios y suplentes durarán en su cargo ocho años; y
+1. En caso de vacante de los consejeros del Poder Legislativo, el consejero Presidente se dirigirá a la Cámara de Diputados, o en su caso a la Comisión Permanente del Congreso de la Unión a fin de que se haga la designación correspondiente.
 
-f) Las reglas y procedimientos para verificar el cumplimiento de los requisitos serán los que establezca la propia Cámara en sus ordenamientos internos.
-
-> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
-
-6. Los partidos políticos nacionales designarán un representante con voz pero sin voto.
-
-> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
-
-7. Los partidos políticos podrán sustituir en todo tiempo a su representante, dando con oportunidad el aviso correspondiente al Presidente del Consejo General.
-
-8. (DEROGADO, D.O.F. 18 DE MAYO DE 1994) (REPUBLICADO, D.O.F. 3 DE JUNIO DE 1994)
-
-ARTICULO 75 (DEROGADO, D.O.F. 18 DE MAYO DE 1994)
+2. De producirse una ausencia definitiva, o en su caso, de incurrir los consejeros electorales propietarios en dos inasistencias consecutivas sin causa justificada, será llamado el suplente que corresponda según el orden de prelación en que fueron designados por la Cámara de Diputados para que concurra a rendir la protesta de ley.
 
 ARTICULO 76
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE MAYO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE OCTUBRE DE 1996)</small>
 
-1. Los consejeros ciudadanos deberán reunir los siguientes requisitos:
+1. Los consejeros electorales deberán reunir los siguientes requisitos:
 
 a) Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -1521,33 +1511,41 @@ d) Poseer el día de la designación título profesional o formación equivalent
 
 e) Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
 
-f) Haber residido en el país durante los últimos cinco años, salvo el caso de ausencia en servicio de la República por un tiempo menor de seis meses;
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 1996)</small>
+
+f) Haber residido en el país durante los últimos dos años, salvo el caso de ausencia en servicio de la República por un tiempo menor de seis meses;
 
 g) No desempeñar ni haber desempeñado el cargo de Presidente del Comité Ejecutivo Nacional o equivalente de un partido político;
 
-h) No tener ni haber tenido cargo alguno de elección popular en los últimos cinco años anteriores a la designación; e
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 1996)</small>
 
-> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+h) No haber sido registrado como candidato a cargo alguno de elección popular en los últimos cinco años anteriores a la designación;
 
-i) No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los tres años inmediatos anteriores a la designación.
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 1996)</small>
 
-> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+i) No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los cinco años inmediatos anteriores a la designación; y
 
-2. La retribución que reciban los consejeros ciudadanos será la prevista en el Presupuesto de Egresos de la Federación.
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 1996)</small>
+
+j) No ser Secretario de Estado, ni Procurador General de la República o del Distrito Federal, Subsecretario u Oficial Mayor en la administración pública federal, Jefe de Gobierno del Distrito Federal, ni Gobernador ni Secretario de Gobierno, a menos que se separe de su encargo con un año de anticipación al día de su nombramiento.
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 1996)</small>
+
+2. El Secretario Ejecutivo del Consejo General deberá reunir los mismos requisitos que se exigen para ser consejero electoral, con excepción del dispuesto en el inciso j) del párrafo 1 anterior.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 1996)</small>
+
+3. La retribución que reciban el consejero Presidente y los consejeros electorales será similar a la que perciban los Ministros de la Suprema Corte de Justicia de la Nación.
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 1996)</small>
 
 ARTICULO 77
 
-> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 1994)</small>
+1. El consejero Presidente, los consejeros electorales y el Secretario Ejecutivo del Consejo General, durante el período de su encargo, no podrán tener ningún otro empleo, cargo o comisión con excepción de aquellos en que actúen en representación del Consejo General y de los que desempeñe en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
 
-1. Los consejeros Ciudadanos miembros del Consejo General, durante el período de su encargo, no podrán desempeñar ninguna comisión o empleo de la Federación, los Estados, los Municipios o los Partidos Políticos. Tampoco podrán aceptar cargo o empleo remunerado de particulares que implique dependencia o subordinación.
+2. El consejero Presidente, los consejeros electorales y el Secretario Ejecutivo desempeñarán su función con autonomía y probidad. No podrán utilizar en beneficio propio o de terceros, la información confidencial de que dispongan en razón de su cargo, así como divulgarla sin autorización del Consejo General.
 
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 1994)</small>
-
-2. Los consejeros ciudadanos podrán recibir percepciones derivadas de la práctica libre de su profesión, de regalías, derechos de autor o publicaciones, siempre que no se afecte la independencia, imparcialidad y equidad que debe regir el ejercicio de su función; podrán ejercer cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 1994)</small>
-
-3. Para cualquier precisión sobre la interpretación de este artículo, se recurrirá el Tribunal Federal Electoral.
+3. El consejero Presidente, los consejeros electorales y el Secretario Ejecutivo estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en el Título Cuarto de la Constitución.
 
 ARTICULO 78
 
@@ -1557,15 +1555,19 @@ ARTICULO 78
 
 2. Para la preparación del proceso electoral el Consejo General se reunirá dentro de la primera semana del mes de noviembre del año anterior a aquel en que se celebren las elecciones federales ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Consejo sesionará por lo menos una vez al mes.
 
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 1996)</small>
+
 ARTICULO 79
 
-> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+1. Para que el Consejo General pueda sesionar es necesario que esté presente la mayoría de sus integrantes, entre los que deberá estar el consejero Presidente, quien será suplido en sus ausencias momentáneas por el consejero que él mismo designe. En el supuesto de que el consejero Presidente no asista o se ausente en forma definitiva de la sesión, el Consejo designará a uno de los consejeros electorales presentes para que presida.
 
-1. Para que el Consejo General pueda sesionar es necesario que esté presente la mayoría de sus integrantes, entre los que deberá estar el Presidente. Las resoluciones se tomarán por mayoría de votos.
+2. El Secretario Ejecutivo del Instituto Federal Electoral asistirá a las sesiones con voz, pero sin voto. La Secretaría del Consejo estará a cargo del Secretario Ejecutivo del Instituto. En caso de ausencia del Secretario a la sesión, sus funciones serán realizadas por alguno de los integrantes de la Junta General Ejecutiva que al efecto designe el Consejo para esa sesión.
 
-2. El Director General y el Secretario General del Instituto Federal Electoral concurrirán a las sesiones con voz pero sin voto. La Secretaría del Consejo estará a cargo del Secretario General del Instituto.
+3. En caso de que no se reúna la mayoría a la que se refiere el párrafo 1, la sesión tendrá lugar dentro de las veinticuatro horas siguientes, con los consejeros y representantes que asistan.
 
-3. En caso de que no se reúna la mayoría a la que se refiere el párrafo 1, la sesión tendrá lugar dentro de las veinticuatro horas siguientes, con los consejeros y representantes que asistan, entre los que deberá estar el Presidente.
+4. Las resoluciones se tomarán por mayoría de votos, salvo las que conforme a este Código requieran de una mayoría calificada.
+
+5. En el caso de ausencia definitiva del Presidente del Consejo, los consejeros electorales nombrarán, de entre ellos mismos, a quien deba sustituirlo provisionalmente, comunicando de inmediato lo anterior a la Cámara de Diputados o a la Comisión Permanente, en su caso, a fin de que se designe al consejero Presidente.
 
 ARTICULO 80
 
@@ -6872,3 +6874,17 @@ A los partidos políticos nacionales les será entregada la lista nominal de ele
 D.O.F. 3 DE JUNIO DE 1994.
 
 UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE OCTUBRE DE 1996.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO.- En tanto se realizan las reformas legales derivadas del Decreto de fecha veintiuno de agosto de mil novecientos noventa y seis, publicado en el Diario Oficial de la Federación el veintidós del mismo mes y año, mediante el cual se declaran reformados diversos artículos en materia electoral de la Constitución Política de los Estados Unidos Mexicanos, el Consejo General del Instituto Federal Electoral ejercerá las competencias y atribuciones que el Código Federal de Instituciones y Procedimientos Electorales le señala.
+
+CUARTO.- Para todos los efectos conducentes, la mención que de consejeros ciudadanos se haga en acuerdos y disposiciones legales y reglamentarias, se entenderá referida a los consejeros electorales regulados en este Decreto de Reformas y Adiciones.
+
+QUINTO.- Las funciones y atribuciones que el Código Federal de Instituciones y Procedimientos Electorales establece para ser ejercida por el Director General y el Secretario General del Instituto Federal Electoral, competerán al Secretario Ejecutivo que designe el nuevo Consejo General a más tardar el treinta y uno de octubre de mil novecientos noventa y seis por el voto de las dos terceras partes de sus miembros, conforme a la propuesta que haga su Presidente. En razón de lo anterior, los acuerdos y demás disposiciones en los que se haga mención al Director General y Secretario General del Instituto Federal Electoral que desaparecen, deberán entenderse referidas al Secretario Ejecutivo del Instituto Federal Electoral para todos los efectos conducentes.
+
+SEXTO.- En tanto se realizan las reformas legales derivadas del Decreto de fecha veintiuno de agosto de mil novecientos noventa y seis, publicado en el Diario Oficial de la Federación el veintidós del mismo mes y año, mediante el cual se declaran reformados diversos artículos en materia electoral de la Constitución Política de los Estados Unidos Mexicanos, el Tribunal Electoral del Poder Judicial de la Federación ejercerá las competencias y atribuciones que el Código Federal de Instituciones y Procedimientos Electorales le señala al Tribunal Federal Electoral. A tal efecto, la Sala Superior del Tribunal Electoral ejercerá las funciones y atribuciones que el mencionado Código otorga para su ejercicio a la Sala de Segunda Instancia y a la Sala Central del Tribunal Federal Electoral que no corresponda al funcionamiento de esta última como Sala Regional. Se instalarán cinco Salas Regionales con sede en cada una de las capitales cabecera de circunscripción plurinominal para la elección de diputados por el principio de representación proporcional.
