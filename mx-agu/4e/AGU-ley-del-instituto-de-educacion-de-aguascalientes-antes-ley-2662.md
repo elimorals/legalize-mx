@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-educacion-de-aguascalientes-antes-ley-2662
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-07"
-last_updated: "1993-01-17"
+last_updated: "2000-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE EDUCACION DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2000.
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -91,11 +91,11 @@ I.- El Consejo Interior; y
 
 II.- La Dirección General.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2000)</small>
+
 ###### ARTICULO 6o.
 
-El Consejo Interior se integrará por el Gobernador Constitucional del Estado, quien lo presidirá, un Vicepresidente y los Vocales que determine el titular del Ejecutivo Estatal de entre las personas que tengan a su cargo la prestación de servicios educativos básicos y de normal, así como el Tesorero General del Estado y el Director General Jurídico del Gobierno del Estado. Todos los titulares tendrán sus respectivos suplentes.
-
-El Consejo Interior designará a la persona que vaya a fungir como Secretario Técnico.
+El Consejo Interior se integrará por el Gobernador Constitucional del Estado quien lo presidirá, un Vicepresidente y los vocales que determine el titular del Ejecutivo Estatal de entre las personas que tengan a su cargo la prestación de servicios educativos básicos y de normal, así como el Secretario de Finanzas de Gobierno del Estado y el Director de Asuntos Jurídicos de Gobierno del Estado, todos los titulares tendrán sus respectivos suplentes.
 
 ###### ARTICULO 7o.
 
@@ -109,7 +109,9 @@ III.- Aprobar los planes de trabajo, informes de actividades presupuestales y es
 
 IV.- Aprobar el Reglamento Interior, la organización general del Instituto, así como los criterios básicos en la prestación de los servicios educativos;
 
-V.- Designar al Director General, así como a los servidores públicos que vayan a tener funciones de dirección, de área, de vigilancia, auditoría, control y manejo de fondos y valores en apoyo a las funciones del director;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2000)</small>
+
+V.- Designar al Director General, así como nombrar y remover a propuesta de éste, a los servidores públicos que ocupen cargos en los dos niveles jerárquicos inferiores al de aquél;
 
 VI.- Aprobar los proyectos de inversión que se propongan;
 
@@ -145,27 +147,41 @@ V.- Expedir los nombramientos del personal y llevar las relaciones laborales de 
 
 VI.- Planear, dirigir y controlar el funcionamiento del organismo en base a las instrucciones del Consejo Interior, por cuyo acuerdo podrá suscribir contratos y/o convenios con las dependencias federales, promover la participación de los padres de familia y los sectores sociales, en apoyo a los planteles educativos y supervisar y evaluar la operación de los mismos.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1993)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 11.
 
-Como auxiliares inmediatos del Director General existirán en el organismo las siguientes Direcciones, Subdirecciones y Unidades de Apoyo:
+Como auxiliares inmediatos del Director General existirán en el organismo las siguientes Direcciones y Unidades de Apoyo:
 
-I.- Dirección de Planeación y Evaluación.- La cual tendrá a su cargo dos Subdirecciones: la de Planeación y Programación y la de Evaluación Educativa;
+I.- Dirección de Planeación y Evaluación Educativa;
 
-II.- Dirección de Educación Básica.- La cual tendrá a su cargo tres Subdirecciones: la de Educación Inicial y Preescolar, la de Educación Primaria y Especial y de Educación Secundaria;
+II.- Dirección de Educación Básica;
 
-III.- Dirección de educación Media y Superior.- La cual tendrá dos Subdirecciones: la de Formación y Actualización de Docentes y la de Educación Media, Tecnológica y Universitaria;
+III.- Dirección de Educación Media y Superior;
 
-IV.- Dirección Jurídica;
+IV.- Dirección Jurídica (se crea la Subdirección de Profesiones);
 
-V.- Dirección de Servicios Administrativos;
+V.- Dirección Administrativa;
 
-VI.- Unidad de Contraloría Interna; y
+VI.- Dirección de Participación Social;
 
-VII.- Centro de Estudios de Investigación Educativa.
+VII.- Dirección de Finanzas;
 
-Los servidores públicos responsables de las áreas anteriores, así como los jefes de los departamentos dependientes de estas áreas, serán nombrados por el Consejo Interior del Instituto.
+VIII.- Dirección de Formación, Actualización, Capacitación y Superación Profesional del Magisterio;
+
+IX.- Dirección del Sistema Estatal de Becas;
+
+X.- Unidad de Contraloría Interna;
+
+XI.- Unidad de Información y Difusión;
+
+XII.- Unidad de Documentación y Análisis;
+
+XIII.- Unidad de Giras;
+
+XIV.- Unidad de Vinculación Institucional.
+
+Los servidores públicos responsables, así como los Jefes de los Departamentos dependientes de estas áreas serán nombrados por el Consejo Interior del Instituto.
 
 ###### ARTICULO 12.
 
@@ -185,11 +201,11 @@ El Instituto acepta que los planes y programas de estudio destinados a la educac
 
 Para el debido cumplimiento de los objetivos del Instituto, a través de sus representantes legales, solicitará el apoyo de las autoridades competentes del Estado y de sus Municipios, quienes lo brindarán cuando tales solicitudes estén debidamente fundadas y motivadas.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1993)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 15.
 
-El Control Escolar relativo a inscripciones, reinscripciones, registros, acreditación, certificación, y/o revalidación de estudios, así como la expedición de títulos profesionales en los niveles y modalidades educativas de formación y actualización de docentes, será responsabilidad del Instituto, a través de la Dirección de Planeación y Evaluación.
+El Control Escolar relativo a inscripciones, reinscripciones, registros, acreditación, certificación y/o revalidación de estudios, así como la expedición de títulos profesionales en los niveles y modalidades educativas de formación y actualización de docentes serán responsabilidad del Instituto.
 
 ### CAPITULO TERCERO. Organos de Vigilancia
 
@@ -284,3 +300,13 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- En tanto se expidan las disposiciones reglamentarias del presente Decreto serán aplicables las disposiciones que no se opongan a la Ley y al Reglamento vigente.
+
+P.O. 31 DE ENERO DE 2000.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se oponen al presente Decreto.
