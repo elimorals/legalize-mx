@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-del-estado-de-jalisco-17570"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-23"
-last_updated: "2003-05-01"
+last_updated: "2003-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 23 de septiembre de 2000.
 
@@ -87,7 +87,9 @@ III. Productos;
 
 IV. Aprovechamientos;
 
-V. Participaciones Federales; e
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2003)</small>
+
+V. Participaciones y aportaciones federales; y
 
 VI. Ingresos extraordinarios.
 
@@ -924,3 +926,7 @@ SEGUNDO.- Se abrogan las disposiciones legales y administrativas que contravenga
 P.O. 1 DE MAYO DE 2003.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 27 DE DICIEMBRE DE 2003.
+
+Único. La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
