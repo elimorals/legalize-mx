@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-procedimientos-civiles-de-yucatan-8644"
 country: "mx"
 rank: "codigo"
 publication_date: "1941-12-24"
-last_updated: "2004-07-06"
+last_updated: "2004-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE JULIO DE 2004.
 
 Código publicado en el Diario Oficial los días 24, 26, 27, 29, 30 y 31 de Diciembre de 1941 y 5 de Enero de 1942.
 
@@ -1285,9 +1285,11 @@ Se exceptúan de lo dispuesto en el artículo que precede, los casos previstos e
 
 El documento privado suscrito por uno de los interesados, presentado en juicio por vía de prueba, y no objetado por la parte contraria, se tendrá por admitido y surtirá sus efectos como si hubiera sido reconocido.
 
+> <small>(REFORMADO, D.O. 16 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 226.
 
-Para que en el Estado hagan fe los documentos públicos o auténticos del Distrito Federal o de cualquier otro Estado o Territorio de la República, deberán ser legalizados con la firma de la autoridad superior política de la Entidad federativa de que procedan.
+Para que en el Estado hagan fe los documentos públicos del Distrito Federal o de cualquier otro Estado de la República, bastará que cumplan con las formalidades necesarias para su expedición, sin necesidad de legalización.
 
 ###### ARTICULO 227.
 
@@ -1495,7 +1497,7 @@ También podrán concurrir a ella los testigos de identidad o peritos que fueren
 
 Del reconocimiento se levantará acta que firmarán los que a él concurran, asentándose los puntos que lo provocaron, las observaciones, declaraciones de peritos y todo lo necesario para esclarecer la verdad. Cuando fuere preciso se levantarán planos o se sacarán vistas fotográficas del lugar u objeto inspeccionado.
 
-> <small>(ADICIONADO, D.O. 6 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, D.O. 16 DE JULIO DE 2004)</small>
 
 Cuando una de las partes se oponga a la inspección o reconocimiento judicial ordenados por el tribunal, para conocer sus condiciones físicas o mentales, o no conteste las preguntas que le dirija el juez, deben de tenerse por ciertas las afirmaciones de la contraparte, salvo prueba en contrario. Lo mismo se hará si una de las partes no exhibe a la inspección del tribunal, la cosa o documento que tiene en su poder, siempre que esto esté debidamente acreditado, o que por disposición de la ley deba tenerlo.
 
@@ -6452,5 +6454,9 @@ D.O. 13 DE DICIEMBRE DE 1999.
 Este Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
 D.O. 6 DE JULIO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 16 DE JULIO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
