@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-contaduria-mayor-de-hacienda-de-14266
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-05-25"
-last_updated: "1999-05-25"
+last_updated: "2001-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14266&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-04-30"
 
 REGLAMENTO INTERIOR DE LA CONTADURIA MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE OCTUBRE DE 2001.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 25 de mayo de 1999.
 
@@ -100,7 +100,7 @@ Dirección General de Administración y Sistemas
 
 Dirección General de Programación y Control de Auditoría
 
-### CAPÍTULO II. DE LAS ATRIBUCIONES DEL ÓRGANO COLEGIADO DE LA CONTADURÍA
+### CAPITULO II. DE LAS ATRIBUCIONES DEL ÓRGANO COLEGIADO DE LA CONTADURÍA
 
 ###### Artículo 4.
 
@@ -160,7 +160,7 @@ Para el mejor desempeño de sus atribuciones el Órgano Colegiado contará con u
 
 ### CAPÍTULO III. DE LAS SESIONES DEL ÓRGANO COLEGIADO
 
-### CAPÍTULO I. DE LOS CONTADORES
+### CAPITULO I. DE LOS CONTADORES
 
 ###### Artículo 5.
 
@@ -177,6 +177,10 @@ El Órgano Colegiado sesionará por lo menos una vez al mes de manera ordinaria 
 Si a una convocatoria no acudiere alguno de los Contadores, el Órgano Colegiado no podrá sesionar, debiéndose emitir, de forma inmediata, una segunda convocatoria que deberá contener, además de los requisitos señalados en el artículo 5 de este Reglamento, la expresión de esta circunstancia.
 
 Si a una segunda convocatoria no acudiere alguno de los Contadores, el Órgano Colegiado podrá sesionar válidamente con la asistencia de dos Contadores.
+
+> <small>(ADICIONADO, G.O. 25 DE OCTUBRE DE 2001)</small>
+
+En los casos de ausencia definitiva a los que se refiere el artículo 10 y 12 de la Ley, Órgano Superior de Dirección podrá sesionar legalmente con la presencia de dos Contadores y las decisiones que tomen serán validas de pleno derecho, en tanto ocupe el cargo el Contador sustituto de aquel ausente.
 
 ###### Artículo 8.
 
@@ -202,7 +206,7 @@ De cada sesión, el Secretario Técnico levantará el acta correspondiente dando
 
 Los Contadores tendrán las siguientes atribuciones:
 
-I. Participar en la formulación de las estrategias y políticas para la integración de los programas anuales de trabajo, programas de auditoría y demás actividades de las Direcciones Generales;
+l. Participar en la formulación de las estrategias y políticas para la integración de los programas anuales de trabajo, programas de auditoría y demás actividades de las Direcciones Generales;
 
 II. Coordinar y supervisar las funciones de las Direcciones Generales y la ejecución de los respectivos programas de trabajo y de auditoría aprobados;
 
@@ -230,7 +234,7 @@ XIII. Coordinar y supervisar la atención, trámite y desahogo de las recomendac
 
 XIV. Las demás que le sean atribuidas por la Ley, el Reglamento, el Órgano Colegiado y otras disposiciones legales aplicables.
 
-### CAPÍTULO I. DE LOS TITULARES
+### CAPITULO I. DE LOS TITULARES
 
 ###### Artículo 13.
 
@@ -264,7 +268,7 @@ XIII. Las demás que le sean atribuidas por la ley, el Reglamento y otras dispos
 
 ## TITULO III. DE LAS DIRECCIONES GENERALES
 
-### CAPÍTULO II. DE LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES
+### CAPITULO II. DE LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES
 
 ###### Artículo 14.
 
@@ -308,7 +312,7 @@ XVI. Elaborar y proponer al Órgano Colegiado a través del Contador o Contadore
 
 XVII. Las demás que le sean atribuidas por la Ley, el Reglamento y otras disposiciones legales aplicables.
 
-### CAPÍTULO ÚNICO. DE LAS ATRIBUCIONES DEL CONTRALOR INTERNO
+### CAPITULO ÚNICO. DE LAS ATRIBUCIONES DEL CONTRALOR INTERNO
 
 ###### Artículo 16.
 
@@ -410,7 +414,7 @@ I. Integrar, con el apoyo de las distintas direcciones generales, los programas 
 
 II. Presentar al Contador o Contadores que corresponda, las propuestas que permitan alcanzar los propósitos, objetivos y metas establecidos en los programas de trabajo o en caso necesario para que dichos programas puedan ser modificados;
 
-III. Formular y mantener actualizados los sistemas y procedimientos que permitan elaborar los programas de trabajo de cada Dirección General, así como dar seguimiento y evaluar su ejecución;
+lll. Formular y mantener actualizados los sistemas y procedimientos que permitan elaborar los programas de trabajo de cada Dirección General, así como dar seguimiento y evaluar su ejecución;
 
 IV. Formular y proponer los métodos y procedimientos que considere más idóneos para el desempeño de las actividades sustantivas y adjetivas de la Contaduría;
 
@@ -488,7 +492,7 @@ XIII. Las demás que le sean atribuidas por la Ley, el Reglamento, y otras dispo
 
 ## TÍTULO IV. DEL CONTRALOR INTERNO
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPITULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 24.
 
@@ -518,7 +522,7 @@ XI. Las demás que le sean atribuidas por la Ley, el Reglamento y otras disposic
 
 ## TITULO V. DEL SERVICIO CIVIL DE CARRERA
 
-### CAPÍTULO ÚNICO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA CONTADURÍA
+### CAPITULO ÚNICO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA CONTADURÍA
 
 ###### Artículo 25.
 
@@ -579,3 +583,11 @@ SEXTO.- Las estructuras administrativas existentes no contempladas en este regla
 SEPTIMO.- Los procedimientos que se hubieran iniciado durante la vigencia del Reglamento Interior de la Contaduría Mayor de Hacienda de la Asamblea de Representantes del Distrito Federal, se continuarán de conformidad con las disposiciones del presente Reglamento.
 
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a treinta de abril de mil novecientos noventa y nueve.- POR LA MESA DIRECTIVA.- DIP. JOSE LUIS BENITEZ GIL, PRESIDENTE.- DIP. ESTEBAN DANIEL MARTÍNEZ ENRIQUEZ, SECRETARIO.- FIRMAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 25 DE OCTUBRE DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Publíquese en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Se instruye a la Comisión de Vigilancia a que por única vez dentro del término de quince días a partir del inicio de vigencia del presente Decreto, proponga al Pleno de la Asamblea al candidato para ocupar el cargo de Contador Sustituto.
