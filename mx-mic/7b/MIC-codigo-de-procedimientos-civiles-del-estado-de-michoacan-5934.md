@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-del-estado-de-michoacan-5934"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1970-12-17"
+last_updated: "1974-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 1974.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el 30 de julio de 1936.
 
@@ -487,11 +487,11 @@ Cuando se verifiquen estos cambios con infracción de los dispuesto en el párra
 
 Para la tramitación y resolución de los asuntos ante los tribunales ordinarios, se estará a lo dispuesto por este código, sin que por convenio de los interesados puedan renunciarse los recursos, ni el derecho de recusación, ni alterarse, modificar o renunciarse las normas del procedimiento, salvo en los casos y con las formalidades consignadas en el mismo.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1974)</small>
 
 ###### Artículo 51.
 
-Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año, menos el domingo y aquellos que las leyes declaren festivos. Son horas hábiles las comprendidas entre las ocho y las veinte horas.
+Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año, menos los de descanso legal, los que las leyes declaren festivos y aquellos en que el Supremo Tribunal acuerde suspender las labores. Son horas hábiles las comprendidas entre las ocho y las veinte horas.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -10542,3 +10542,9 @@ Esta Ley entrará en vigor a los diez días siguientes a la fecha de su publicac
 P.O. 17 DE DICIEMBRE DE 1970.
 
 UNICO.- El presente Decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial.
+
+P.O. 24 DE JUNIO DE 1974.
+
+###### ARTICULO UNICO.
+
+Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
