@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "1992-01-17"
+last_updated: "1992-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 1992.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -59,7 +59,7 @@ ART. 9.- Respecto de los bienes inmuebles sitos en el Estado, regirán las leyes
 
 ART. 10.- Respecto de la forma o solemnidades externas de los contratos, testamentos y de todo instrumento público, regirán las leyes del país en que se hubieren otorgado. Sin embargo, los mexicanos o extranjeros residentes fuera del Estado, quedan en libertad para sujetarse a las formas y solemnidades prescritas por la ley mexicana, en los casos en que el acto haya de tener ejecución en esta demarcación.
 
-ART. 11.- LaS leyes en que se interesan el derecho público y las buenas costumbres, no podrán alterarse o nulificarse en cuanto a sus efectos, por convenio celebrado entre particulares.
+ART. 11.- Las leyes en que se interesan el derecho público y las buenas costumbres, no podrán alterarse o nulificarse en cuanto a sus efectos, por convenio celebrado entre particulares.
 
 ART. 12.- Las obligaciones y derechos que nazcan de los contratos o testamentos otorgados en el extranjero, por mexicanos del Estado, se regirán por las disposiciones de este Código, en caso de que dichos actos deban cumplirse en la referida demarcación.
 
@@ -445,9 +445,9 @@ ART. 107.- Extendida el acta se anotarán las de nacimiento y matrimonio de los 
 
 ### CAPITULO IX. De las Actas de Defunción
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1992)</small>
 
-ART. 108.- Ninguna inhumación se hará sin autorización escrita dada por el Oficial del Registro Civil, quien se asegurará suficientemente del fallecimiento. No se procederá a la inhumación sino hasta después de que transcurran veinticuatro horas del fallecimiento, excepto en los casos en que se ordene otra cosa por la autoridad que corresponda. En los lugares que estén distantes más de cuatro kilómetros de la residenica (sic) del Oficial del Registro Civil, podrán los Jueces Auxiliares tomar nota de los actos de defunción en los términos del artículo 20o. de la Ley Reglamentaria.
+ART. 108.- El destino de los cadáveres, puede ser por inhumación, cremación, embalsamiento u otro que permita la Ley de Salud; pero en cualquiera de los casos señalados, será el Oficial del Registro Civil quien asiente el Acta de Defunción, el que disponga y dé por escrito la orden, para el tratamiento de los restos, y siempre, respetando los términos y condiciones que ordena la propia Ley de Salud.
 
 ART. 109.- En el acta de fallecimiento se asentarán los datos que el oficial del registro civil adquiera, o la declaración que se le haga, y será firmada por dos testigos, prefiriéndose para el caso los parientes, si los hay, o los vecinos. Si la persona ha muerto fuera de su habitación, uno de los testigos será aquél en cuya casa se haya verificado el fallecimiento, o alguno de los vecinos más inmediatos.
 
@@ -4989,12 +4989,6 @@ ART. 1632.- Los contratos se perfeccionan por el mero consentimiento; excepto aq
 
 ART. 1633.- La validez y el cumplimiento de los contratos no puede dejarse al arbitrio de uno de los contratantes.
 
-De la Capacidad
-
-ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
-
-ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
-
 Representación
 
 ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
@@ -5024,32 +5018,6 @@ ART. 1645.- Si al tiempo de la aceptación hubiere fallecido el proponente, sin 
 ART. 1646.- El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considerará como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
 
 ART. 1647.- La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
-
-Vicios del Consentimiento
-
-ART. 1648.- El consentimiento no es válido si ha sido dado por error, arrancando por violencia o sorprendido por dolo.
-
-ART. 1649.- El error de derecho o de hecho invalida el contrato cuando recae sobre el motivo determinante de la voluntad de cualquiera de los que contratan, si en el acto de la celebración se declara ese motivo o si se prueba por las circunstancias del mismo contrato que se celebró éste en el falso supuesto que lo motivó y no por otra causa.
-
-ART. 1650.- El error de cálculo sólo da lugar a que se rectifique.
-
-ART. 1651.- Se entiende por dolo en los contratos, cualquiera sugestión o artificio que se emplee para inducir a error o mantener en él a alguno de los contratantes, y por mala fe, la disimulación del error de uno de los contratantes, una vez conocido.
-
-ART. 1652.- El dolo o mala fe de una de las partes y el dolo que proviene de un tercero, sabiéndolo aquélla, anulan el contrato si ha sido la causa determinante de este acto jurídico.
-
-ART. 1653.- Si ambas partes proceden con dolo, ninguna de ellas puede alegar la nulidad del acto o reclamarse indemnizaciones.
-
-ART. 1654.- Es nulo el contrato celebrado por violencia, ya provenga ésta de alguno de los contratantes, ya de un tercero, interesado o no en el contrato.
-
-ART. 1655.- Hay violencia cuando se emplea fuerza física o amenaza que importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes del contratante, de su cónyuge, de sus ascendientes, de sus descendientes o de sus parientes colaterales dentro del segundo grado.
-
-ART. 1656.- El temor reverencial, esto es, el sólo temor de desagradar a las personas a quienes se debe sumisión y respeto, no basta para viciar el consentimiento.
-
-ART. 1657.- Las consideraciones generales que los contratantes expusieren sobre los provechos y perjuicios que naturalmente pueden resultar de la celebración o no celebración del contrato, y que no importen engaño o amenaza alguna de las partes, no serán tomadas en cuenta al calificar el dolo o la violencia.
-
-ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del dolo o de la violencia.
-
-ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
 
 Del objeto y del motivo o fin de los Contratos
 
@@ -5086,72 +5054,6 @@ ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que
 ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
 
 Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
-
-División de los Contratos
-
-ART. 1671.- El contrato es unilateral cuando una sola de las partes se obliga hacia la otra sin que ésta le quede obligada.
-
-ART. 1672.- El contrato es bilateral cuando las partes se obligan recíprocamente.
-
-ART. 1673.- Es contrato oneroso aquél en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente de una de las partes.
-
-ART. 1674.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas desde que se celebra el contrato, de tal suerte que ellas pueden apreciar inmediatamente el beneficio o la pérdida que les cause éste. Es aleatorio, cuando la prestación debida depende de un acontecimiento incierto que hace que no sea posible la elevación de la ganancia o pérdida, sino hasta que ese acontecimiento se realice.
-
-Cláusulas que pueden contener los Contratos
-
-ART. 1675.- Los contratantes pueden poner las cláusulas que crean convenientes; pero las que se refieren a requisitos esenciales del contrato o sean consecuencia de su naturaleza ordinaria, se tendrán por puestas aunque no se expresen, a no ser que las segundas sean renunciadas en los casos y términos permitidos por la Ley.
-
-ART. 1676.- Pueden los contratantes estipular cierta prestación como pena para el caso de que la obligación no se cumpla, o no se cumpla de la manera convenida. Si tal estipulación se hace, no podrá reclamarse, además, daños y perjuicios.
-
-ART. 1677.- La nulidad del contrato importa la de la cláusula penal; pero la nulidad de ésta no acarrea la de aquél.
-
-Sin embargo, cuando se promete por otra persona, imponiéndose una pena para el caso de no cumplirse por ésta lo prometido, valdrá la pena aunque el contrato no se lleve a efecto por falta del consentimiento de dicha persona.
-
-Lo mismo sucederá cuando se estipule con otro, a favor de un tercero, y la persona con quien se estipule se sujete a una pena para el caso de no cumplir lo prometido.
-
-ART. 1678.- Al pedir la pena, el acreedor no está obligado a probar que ha sufrido perjuicios, ni el deudor podrá eximirse de satisfacerla, probando que el acreedor no ha sufrido perjuicio alguno.
-
-ART. 1679.- La cláusula penal no puede exceder ni en valor ni en cuantía a la obligación principal.
-
-ART. 1680.- Si la obligación fuere cumplida en la parte, la pena se modificará en la misma proporción.
-
-ART. 1681.- Si la modificación no pudiere ser exactamente proporcional, el juez reducirá la pena de una manera equitativa, teniendo en cuenta la naturaleza y demás circunstancias de la obligación.
-
-ART. 1682.- El acreedor puede exigir el cumplimiento de la obligación o el pago de la pena, pero no ambos; a menos que aparezca haberse estipulado la pena por el simple retardo en el cumplimiento de la obligación, o porque ésta no se preste de la manera convenida.
-
-ART. 1683.- No podrá hacerse efectiva la pena cuando el obligado a ella no haya podido cumplir el contrato por hecho del acreedor, caso fortuito o fuerza insuperable.
-
-ART. 1684.- En las obligaciones mancomunadas con cláusula penal, bastará la contravención de uno de los herederos del deudor para que se incurra en la pena.
-
-ART. 1685.- En el caso del artículo anterior, cada uno de los herederos responderá de la parte de la pena que le corresponda, en proporción a su cuota hereditaria.
-
-ART. 1686.- Tratándose de obligaciones indivisibles, se observará lo dispuesto en el artículo 1840.
-
-Interpretación
-
-ART. 1687.- Si los términos de un contrato son claros y no dejan duda sobre la intención de los contratantes, se estará al sentido literal de sus cláusulas.
-
-Si las palabras parecieren contrarias a la intención evidente de los contratantes, prevalecerá ésta sobre aquéllas.
-
-ART. 1689 (SIC).- Cualquiera que se la generalidad de los términos de un contrato, no deberán entenderse comprendidos en él cosas distintas y casos diferentes de aquellos sobre los que los interesados se propusieron contratar.
-
-ART. 1689.- Si alguna cláusula de los contratos admitiere diversos sentidos, deberá entenderse en el más adecuado para que produzca efecto.
-
-ART. 1690.- Las cláusulas de los contratos deben interpretarse las unas por las otras, atribuyendo a las dudosas el sentido que resulte del conjunto de todas.
-
-ART. 1691.- Las palabras que pueden tener distintas aceptaciones serán entendidas en aquélla que sea más conforme a la naturaleza y objeto del contrato.
-
-ART. 1692.- El uso o la costumbre se tendrán en cuenta para interpretar las ambigüedades de los contratos.
-
-ART. 1693.- Cuando absolutamente fuere imposible resolver las dudas por las reglas establecidas en los artículos precedentes, si aquéllas recaen sobre circunstancias accidentales del contrato, y éste fuere gratuito, se resolverá en favor de la menor transmisión de derechos e intereses; si fuere oneroso se resolverá la duda en favor de la mayor reciprocidad de intereses.
-
-Si las dudas de cuya resolución se trata en este artículo recayesen sobre el objeto principal del contrato, de suerte que no pueda venirse en conocimiento de cual fue la intención o la voluntad de los contratantes, el contrato será nulo.
-
-Disposiciones Finales
-
-ART. 1694.- Los contratos que no están especialmente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
-
-ART. 1695.- Las disposiciones legales sobre contratos, serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
 
 ### CAPITULO II. De la declaración unilateral de la voluntad
 
@@ -5289,9 +5191,29 @@ ART. 1749.- Cuando una persona hace uso de mecanismos, instrumentos, aparatos o 
 
 ART. 1750.- Cuando sin empleo de mecanismos, instrumentos, etc., a que se refiere el artículo anterior y sin culpa o negligencia de ninguna de las partes se producen daños, cada una de ellas los soportará sin derecho a indemnización.
 
-ART. 1751.- La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando ello sea imposible, en el pago de daños y perjuicios.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1992)</small>
 
-ART. 1752.- Independientemente de los daños y perjuicios, el juez puede acordar en favor de la víctima de un hecho ilícito, o de su familia, si aquella muere, una indemnización equitativa, a título de reparación moral que pagará el responsable del hecho. Esa indemnización no podrá exceder de la tercera parte de lo que importe la responsabilidad civil. Lo dispuesto en este artículo no se aplicará al Estado en el caso previsto en el artículo 1764.
+ART. 1751.- La reparación del daño debe consistir a elección del ofendido en el restablecimiento de la situación anterior a él, cuando ello sea posible, o en el pago de daños y perjuicios.
+
+Cuando el daño cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal, el grado de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base el cuádruplo del salario mínimo diario y se extenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte la indemnización corresponderá a los herederos de la víctima.
+
+Los créditos por indemnización cuando la víctima fuere un asalariado son instransferibles (sic) y se cubrirán preferentemente en una sola exhibición, salvo pacto en contrario.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1992)</small>
+
+ART. 1752.- Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspecto físico o bien en la consideración que de sí misma tienen los demás.
+
+Cuando un hecho u omisión ilícitos produzcan un daño moral el responable del mimo (sic) tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado daño material, tanto en responsabilidad contractual como extracontractual. Igual obligación de reparar el daño moral tendrá quien incurra en responsabilidad objetividad (sic), conforme al Artículo 1749.
+
+La acción de reparación no es transmisible a terceros por acto entre vivos y sólo pasa a los herederos de la víctima cuando ésta haya intentado la acción en vida.
+
+El monto de la indemnización lo determinará el juez, tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable y la de la víctima, así como las demás circunstancias del caso.
+
+Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración, el Juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcances de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el Juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiera tenido la difusión original.
+
+No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información en los términos y con las limitaciones de los Artículos 6o. y 7o. de la Constitución General de la República.
+
+En todo caso, quien mande la reparación del daño moral por responsabilidad contractual o excontractual deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
 
 ART. 1753.- Las personas que han causado en común un daño, son responsables solidariamente hacia al víctima por la reparación a que están obligadas de acuerdo con las disposiciones de este Capítulo.
 
@@ -5436,6 +5358,104 @@ PRIMERA PARTE
 De las Obligaciones en General
 
 ## TITULO PRIMERO. Fuentes de las Obligaciones
+
+Vicios del Consentimiento
+
+ART. 1648.- El consentimiento no es válido si ha sido dado por error, arrancando por violencia o sorprendido por dolo.
+
+ART. 1649.- El error de derecho o de hecho invalida el contrato cuando recae sobre el motivo determinante de la voluntad de cualquiera de los que contratan, si en el acto de la celebración se declara ese motivo o si se prueba por las circunstancias del mismo contrato que se celebró éste en el falso supuesto que lo motivó y no por otra causa.
+
+ART. 1650.- El error de cálculo sólo da lugar a que se rectifique.
+
+ART. 1651.- Se entiende por dolo en los contratos, cualquiera sugestión o artificio que se emplee para inducir a error o mantener en él a alguno de los contratantes, y por mala fe, la disimulación del error de uno de los contratantes, una vez conocido.
+
+ART. 1652.- El dolo o mala fe de una de las partes y el dolo que proviene de un tercero, sabiéndolo aquélla, anulan el contrato si ha sido la causa determinante de este acto jurídico.
+
+ART. 1653.- Si ambas partes proceden con dolo, ninguna de ellas puede alegar la nulidad del acto o reclamarse indemnizaciones.
+
+ART. 1654.- Es nulo el contrato celebrado por violencia, ya provenga ésta de alguno de los contratantes, ya de un tercero, interesado o no en el contrato.
+
+ART. 1655.- Hay violencia cuando se emplea fuerza física o amenaza que importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes del contratante, de su cónyuge, de sus ascendientes, de sus descendientes o de sus parientes colaterales dentro del segundo grado.
+
+ART. 1656.- El temor reverencial, esto es, el sólo temor de desagradar a las personas a quienes se debe sumisión y respeto, no basta para viciar el consentimiento.
+
+ART. 1657.- Las consideraciones generales que los contratantes expusieren sobre los provechos y perjuicios que naturalmente pueden resultar de la celebración o no celebración del contrato, y que no importen engaño o amenaza alguna de las partes, no serán tomadas en cuenta al calificar el dolo o la violencia.
+
+ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del dolo o de la violencia.
+
+ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
+
+Disposiciones Finales
+
+ART. 1694.- Los contratos que no están especialmente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
+
+ART. 1695.- Las disposiciones legales sobre contratos, serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
+
+De la Capacidad
+
+ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
+
+ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
+
+División de los Contratos
+
+ART. 1671.- El contrato es unilateral cuando una sola de las partes se obliga hacia la otra sin que ésta le quede obligada.
+
+ART. 1672.- El contrato es bilateral cuando las partes se obligan recíprocamente.
+
+ART. 1673.- Es contrato oneroso aquél en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente de una de las partes.
+
+ART. 1674.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas desde que se celebra el contrato, de tal suerte que ellas pueden apreciar inmediatamente el beneficio o la pérdida que les cause éste. Es aleatorio, cuando la prestación debida depende de un acontecimiento incierto que hace que no sea posible la elevación de la ganancia o pérdida, sino hasta que ese acontecimiento se realice.
+
+Cláusulas que pueden contener los Contratos
+
+ART. 1675.- Los contratantes pueden poner las cláusulas que crean convenientes; pero las que se refieren a requisitos esenciales del contrato o sean consecuencia de su naturaleza ordinaria, se tendrán por puestas aunque no se expresen, a no ser que las segundas sean renunciadas en los casos y términos permitidos por la Ley.
+
+ART. 1676.- Pueden los contratantes estipular cierta prestación como pena para el caso de que la obligación no se cumpla, o no se cumpla de la manera convenida. Si tal estipulación se hace, no podrá reclamarse, además, daños y perjuicios.
+
+ART. 1677.- La nulidad del contrato importa la de la cláusula penal; pero la nulidad de ésta no acarrea la de aquél.
+
+Sin embargo, cuando se promete por otra persona, imponiéndose una pena para el caso de no cumplirse por ésta lo prometido, valdrá la pena aunque el contrato no se lleve a efecto por falta del consentimiento de dicha persona.
+
+Lo mismo sucederá cuando se estipule con otro, a favor de un tercero, y la persona con quien se estipule se sujete a una pena para el caso de no cumplir lo prometido.
+
+ART. 1678.- Al pedir la pena, el acreedor no está obligado a probar que ha sufrido perjuicios, ni el deudor podrá eximirse de satisfacerla, probando que el acreedor no ha sufrido perjuicio alguno.
+
+ART. 1679.- La cláusula penal no puede exceder ni en valor ni en cuantía a la obligación principal.
+
+ART. 1680.- Si la obligación fuere cumplida en la parte, la pena se modificará en la misma proporción.
+
+ART. 1681.- Si la modificación no pudiere ser exactamente proporcional, el juez reducirá la pena de una manera equitativa, teniendo en cuenta la naturaleza y demás circunstancias de la obligación.
+
+ART. 1682.- El acreedor puede exigir el cumplimiento de la obligación o el pago de la pena, pero no ambos; a menos que aparezca haberse estipulado la pena por el simple retardo en el cumplimiento de la obligación, o porque ésta no se preste de la manera convenida.
+
+ART. 1683.- No podrá hacerse efectiva la pena cuando el obligado a ella no haya podido cumplir el contrato por hecho del acreedor, caso fortuito o fuerza insuperable.
+
+ART. 1684.- En las obligaciones mancomunadas con cláusula penal, bastará la contravención de uno de los herederos del deudor para que se incurra en la pena.
+
+ART. 1685.- En el caso del artículo anterior, cada uno de los herederos responderá de la parte de la pena que le corresponda, en proporción a su cuota hereditaria.
+
+ART. 1686.- Tratándose de obligaciones indivisibles, se observará lo dispuesto en el artículo 1840.
+
+Interpretación
+
+ART. 1687.- Si los términos de un contrato son claros y no dejan duda sobre la intención de los contratantes, se estará al sentido literal de sus cláusulas.
+
+Si las palabras parecieren contrarias a la intención evidente de los contratantes, prevalecerá ésta sobre aquéllas.
+
+ART. 1689 (SIC).- Cualquiera que se la generalidad de los términos de un contrato, no deberán entenderse comprendidos en él cosas distintas y casos diferentes de aquellos sobre los que los interesados se propusieron contratar.
+
+ART. 1689.- Si alguna cláusula de los contratos admitiere diversos sentidos, deberá entenderse en el más adecuado para que produzca efecto.
+
+ART. 1690.- Las cláusulas de los contratos deben interpretarse las unas por las otras, atribuyendo a las dudosas el sentido que resulte del conjunto de todas.
+
+ART. 1691.- Las palabras que pueden tener distintas aceptaciones serán entendidas en aquélla que sea más conforme a la naturaleza y objeto del contrato.
+
+ART. 1692.- El uso o la costumbre se tendrán en cuenta para interpretar las ambigüedades de los contratos.
+
+ART. 1693.- Cuando absolutamente fuere imposible resolver las dudas por las reglas establecidas en los artículos precedentes, si aquéllas recaen sobre circunstancias accidentales del contrato, y éste fuere gratuito, se resolverá en favor de la menor transmisión de derechos e intereses; si fuere oneroso se resolverá la duda en favor de la mayor reciprocidad de intereses.
+
+Si las dudas de cuya resolución se trata en este artículo recayesen sobre el objeto principal del contrato, de suerte que no pueda venirse en conocimiento de cual fue la intención o la voluntad de los contratantes, el contrato será nulo.
 
 ### CAPITULO III. De las Obligaciones Conjuntivas y Alternativas
 
@@ -8858,3 +8878,15 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 17 DE ENERO DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 1992.
+
+DECRETO NUMERO 494.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 1992.
+
+DECRETO NUMERO 496.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
