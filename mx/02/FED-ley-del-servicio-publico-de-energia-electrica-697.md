@@ -4,7 +4,7 @@ identifier: "FED-ley-del-servicio-publico-de-energia-electrica-697"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-22"
-last_updated: "1992-12-23"
+last_updated: "1993-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=697&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1975-12-10"
 
 LEY DEL SERVICIO PUBLICO DE ENERGIA ELECTRICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 22 de diciembre de 1975.
 
@@ -171,7 +171,7 @@ V.- Designar a propuesta del Director General a los Directores o Gerentes de las
 
 VI.- Acordar las propuestas de ajuste a las tarifas, que deberán formularse de acuerdo con el estado patrimonial y financiero del Organismo;
 
-VII.- Aprobar, en su caso, la propuesta de reestructuración tarifaria;
+VII.- Aprobar, en su caso, la propuesta de reestructuración tarifaría;
 
 VIII.- Aprobar, en su caso, el programa de adiestramiento, capacitación y desarrollo de recursos humanos que proponga el Director General;
 
@@ -321,7 +321,7 @@ La Comisión Federal de Electricidad podrá ejecutar en las calles, calzadas, ja
 
 ###### ARTICULO 25.
 
-La Comisión Federal de Electricidad deberá suministrar energía eléctrica a todo el que lo solicite, salvo que exista impedimento técnico o razones económicas para hacerlo, sin establecer preferencia alguna dentro de cada clasificación tarifaria.
+La Comisión Federal de Electricidad deberá suministrar energía eléctrica a todo el que lo solicite, salvo que exista impedimento técnico o razones económicas para hacerlo, sin establecer preferencia alguna dentro de cada clasificación tarifaría.
 
 El reglamento fijará los requisitos que debe cumplir el solicitante del servicio, y señalará los plazos para celebrar el contrato y efectuar la conexión de los servicios por parte de la Comisión.
 
@@ -599,11 +599,13 @@ V.- Que la ejecución de la resolución recurrida produzca daños o perjuicios d
 
 La aplicación de la presente Ley y de sus disposiciones reglamentarias es de la competencia del Ejecutivo Federal, por conducto de las Secretarías de Energía, Minas e Industria Paraestatal y de Hacienda y Crédito Público, en los términos de esta propia Ley.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 45.
 
-En todos los actos, convenios y contratos en que intervenga la Comisión Federal de Electricidad, serán aplicables las leyes federales conducentes, y las controversias nacionales en que sea parte, cualquiera que sea su naturaleza, serán de la competencia exclusiva de los Tribunales de la Federación, quedando exceptuada de otorgar las garantías que los ordenamientos legales exijan a las partes, aun en los casos de controversias judiciales.
+Los actos jurídicos que celebre la Comisión Federal de Electricidad se regirán por las Leyes Federales aplicables y las controversias nacionales en que sea parte, cualquiera que sea su naturaleza, serán de la competencia de los tribunales de la Federación, salvo acuerdo arbitral, quedando exceptuada de otorgar las garantías que los ordenamientos legales exijan a las partes, aun en los casos de controversias judiciales.
+
+La Comisión podrá convenir la aplicación del derecho extranjero, la jurisdicción de tribunales extranjeros en asuntos mercantiles y celebrar acuerdos arbitrales cuando así convenga al mejor cumplimiento de su objeto.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -690,3 +692,9 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto. En tanto el Ejecutivo Federal expide el Reglamento de la presente Ley, se aplicarán, en lo que no se opongan a la misma, las disposiciones reglamentarias vigentes a la fecha de entrada en vigor del presente Decreto.
 
 TERCERO.- Para una mayor atención y eficiente despacho de los asuntos de la competencia de la Secretaría de Energía, Minas e Industria Paraestatal en materia de regulación de energía, el Ejecutivo Federal dispondrá la constitución de una Comisión Reguladora, como órgano desconcentrado de la citada Dependencia, con facultades específicas para resolver las diversas cuestiones que origine la aplicación de esta Ley o la de otros ordenamientos relacionados con los aspectos energéticos de todo el territorio nacional. Al crearse dicho órgano se establecerán, con arreglo a esta disposición, su estructura, organización y funciones, así como la participación de otras dependencias involucradas, para el adecuado cumplimiento de sus fines.
+
+D.O.F. 22 DE DICIEMBRE DE 1993.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY
+
+PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1994.
