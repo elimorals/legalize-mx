@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-civiles-para-el-estado-de-durango-4706
 country: "mx"
 rank: "codigo"
 publication_date: "1948-08-22"
-last_updated: "1982-01-17"
+last_updated: "1982-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 1982.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22, jueves 26 y domingo 29 de agosto; jueves 2, domingo 5, jueves 9, domingo 12, jueves 16, domingo 19, jueves 23, domingo 26 y jueves 30 de septiembre; domingo 3, jueves 7, domingo 10, jueves 14, domingo 17 y jueves 21 de octubre de 1948.
 
@@ -1053,7 +1053,11 @@ X.- En los negocios relativos a suplir el consentimiento de quien ejerce la patr
 
 II (SIC).- Para decidir las diferencias conyugales y los juicios de nulidad del matrimonio, lo es el del domicilio conyugal.
 
-III (SIC).- En los juicios de divorcio, el tribunal del domicilio conyugal y en caso de abandono de hogar, el del domicilio del cónyuge-abandonado
+III (SIC).- En los juicios de divorcio, el tribunal del domicilio conyugal y en caso de abandono de hogar, el del domicilio del cónyuge-abandonado.
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 1982)</small>
+
+XIII.- En los juicios de alimentos el del domicilio del acreedor alimentario.
 
 ###### ARTICULO 157.
 
@@ -6350,3 +6354,7 @@ Artículo Sexto.- Este Decreto entrará en vigor a los ocho días después de su
 P.O. 17 DE ENERO DE 1982.
 
 UNICO.- El presente Decreto surtirá sus efectos treinta días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE ABRIL DE 1982.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
