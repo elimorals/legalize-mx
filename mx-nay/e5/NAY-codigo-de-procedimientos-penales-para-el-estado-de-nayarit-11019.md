@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-penales-para-el-estado-de-nayarit-1101
 country: "mx"
 rank: "codigo"
 publication_date: "1969-11-29"
-last_updated: "2000-07-12"
+last_updated: "2000-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2000.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1969.
 
@@ -1011,11 +1011,9 @@ III.- Si la persona ofendida se hallaba en situación de poseer la cosa materia 
 
 Si de la comprobación de todas esas circunstancias, así como de los antecedentes morales, sociales y pecuniarios, tanto de la víctima como del inculpado, resultan indicios suficientes, a juicio del tribunal, para tener por comprobada la existencia del robo, esto será bastante para considerar comprobado el cuerpo del delito.
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2000)</small>
-
 ###### ARTICULO 139.
 
-Se dará por comprobado el cuerpo del delito a que se refiere el artículo 351 del Código Penal, cuando sin previo contrato con una empresa de energía eléctrica, de gas o de cualquier fluido, se encuentre conectada una instalación particular a las tuberías o líneas de la empresa respectiva, o cualquiera tubería o líneas particulares conectadas a las tuberías o líneas de dicha empresa.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 140.
 
@@ -2147,11 +2145,11 @@ Notificado el fallo a las partes se remitirá, desde luego, la ejecutoria al Juz
 
 Siempre que el tribunal de apelación encuentre que se retardó indebidamente el despacho del asunto o que se violó la ley durante el procedimiento judicial, si esas violaciones no ameritan que sea repuesto el procedimiento ni que se revoque o modifique la resolución de que se trate, llamará la atención al inferior y podrá imponerle una corrección disciplinaria o consignarlo al Ministerio Público si la violación constituye delito.
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 331.
 
-La misma multa a que se refiere el artículo anterior, se impondrá al defensor cuando el tribunal de apelación considere que faltó a sus deberes por no haber interpuesto los recursos procedentes o por haber abandonado los interpuestos. Si el defensor fuere de oficio, el Tribunal dará cuenta además al superior de aquél de su negligencia o ineptitud.
+La misma multa a que se refiere el artículo 306, se impondrá al defensor cuando el tribunal de apelación considere que faltó a sus deberes por no haber interpuesto los recursos procedentes o por haber abandonado los interpuestos. Si el defensor fuere de oficio, el Tribunal dará cuenta además al superior de aquél de su negligencia o ineptitud.
 
 ### CAPITULO I. LIBERTAD PROVISIONAL BAJO CAUCION
 
@@ -3228,3 +3226,7 @@ El presente Decreto entrará en vigor a partir del día siguiente de su publicac
 P.O. 12 DE JULIO DE 2000.
 
 UNICO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE SEPTIEMBRE DE 2000.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
