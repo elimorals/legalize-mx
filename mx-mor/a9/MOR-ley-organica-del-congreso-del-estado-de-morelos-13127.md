@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-congreso-del-estado-de-morelos-13127"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-11-12"
-last_updated: "2003-02-05"
+last_updated: "2003-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13127&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2003.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ORGANICA DEL CONGRESO DEL ESTADO PUBLICADA EN EL PERIODICO OFICIAL EL 27 DE AGOSTO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial, el día 12 de Noviembre de 1997.
 
@@ -1760,3 +1762,19 @@ P.O. 5 DE FEBRERO DE 2003.
 PRIMERO.- El presente Decreto iniciará su vigencia a partir de la misma fecha de su aprobación.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación correspondiente en el Periódico Oficial "Tierra y Libertad".
+
+P.O. 27 DE AGOSTO DE 2003.
+
+Artículo Primero.- La presente Ley entrará en vigor el mismo día de su aprobación por el Pleno del Congreso.
+
+Artículo Segundo.- Queda abrogada la Ley Orgánica del Congreso del Estado, publicada en el Periódico Oficial "Tierra y Libertad" de fecha 12 de noviembre de 1997.
+
+Las disposiciones contenidas en el artículo 77 fracción IV, entrará en vigor el 1º de septiembre del dos mil tres.
+
+Artículo Tercero.- Por esta única ocasión, a partir del inicio de la vigencia del artículo 25, la actual Mesa Directiva concluirá el Período Legislativo.
+
+Artículo Cuarto.- En tanto el Constituyente Permanente aprueba y emite el Decreto por el que se reforma la Constitución Política del Estado Libre y Soberano de Morelos, relativo a la creación del Órgano de Auditoría Superior Gubernamental, las atribuciones que a esta entidad se refieren en la presente Ley, serán ejercidas por el actual Contador Mayor de Hacienda.
+
+Artículo Quinto.- En tanto no esté en funciones el órgano de Auditoría Superior Gubernamental, las cuentas públicas trimestrales del Poder Legislativo serán dictaminadas por el Comité de Vigilancia.
+
+Artículo Sexto.- Remítase la presente Ley al Titular del Poder Ejecutivo del Estado, para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
