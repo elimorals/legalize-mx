@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-ejecucion-de-sanciones-privativas-y-restrictivas-de-7180
 country: "mx"
 rank: "ley"
 publication_date: "1970-09-29"
-last_updated: "2001-08-22"
+last_updated: "2001-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LIBERTAD DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2001.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA CONFORME A LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE EXPIDE LA LEY DE EJECUCION DE LAS CONSECUENCIAS JURIDICAS DEL DELITO DEL ESTADO DE SINALOA, PUBLICADA EN EL PERIODICO OFICIAL EL 14 DE SEPTIEMBRE DE 2001.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley publicada en el Periódico Oficial "Estado de Sinaloa", el martes 29 de septiembre de 1970.
 
@@ -606,3 +608,21 @@ P.O. 22 DE AGOSTO DE 2001.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 14 DE SEPTIEMBRE DE 2001.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+LEY DE EJECUCION DE LAS CONSECUENCIAS JURIDICAS DEL DELITO DEL ESTADO DE SINALOA
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor a los ciento ochenta días de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+...
+
+###### ARTÍCULO TERCERO.
+
+Se abrogan la Ley de Ejecución de Sanciones Privativas y Restrictivas de Libertad; la Ley Orgánica del Instituto de Readaptación Social; la Ley Orgánica de la Zona de Procesados del Instituto de Readaptación Social, así como la Ley que crea el Patronato para Reos Liberados del Estado de Sinaloa.
