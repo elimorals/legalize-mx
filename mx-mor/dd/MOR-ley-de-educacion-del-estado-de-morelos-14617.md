@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-14617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "1998-12-16"
+last_updated: "2000-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACION DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
@@ -923,6 +923,14 @@ III.- Proporcionar un mínimo de becas para alumnos destacados académicamente y
 
 El Reglamento respectivo determinará las atribuciones, organización y funcionamiento de la comisión a que se refiere esta fracción.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2000)</small>
+
+La Comisión Especial de Becas tendrá la obligación de remitir al inicio de cada ciclo escolar el listado oficial de becarios a la Institución Educativa respectiva; para que esté a disposición de los padres de familia, tutores o representantes legales en la Dirección de la Escuela, para su conocimiento.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2000)</small>
+
+El padre de familia, tutor o representante legal que detecte irregularidades en la selección de becarios, interpondrá su inconformidad ante la propia Comisión, para que de existir elementos, ésta modifique la lista respectiva.
+
 IV.- Rendir semestralmente a la Autoridad Educativa Estatal o Municipal, las estadísticas correspondientes a la organización, administración, escolaridad y aspectos técnicos de las Instituciones, y
 
 V.- Facilitar y colaborar en las actividades de evaluación, inspección y vigilancia que las autoridades competentes realicen u ordenen.
@@ -1170,3 +1178,9 @@ PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publica
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 TERCERO.- Remítase el presente decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales correspondientes.
+
+P.O. 28 DE JUNIO DE 2000.
+
+PRIMERO.- Aprobado que sea el presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales correspondientes.
