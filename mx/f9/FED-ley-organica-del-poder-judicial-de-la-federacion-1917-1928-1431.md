@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-1917-1928-1431
 country: "mx"
 rank: "ley_organica"
 publication_date: "1917-11-23"
-last_updated: "1920-10-12"
+last_updated: "1928-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1431&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1917-11-02"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION -(1917-1928)-
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO 12 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADA EN EL D.O. DE 12 DE DICIEMBRE DE 1928, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE OCTUBRE DE 1920.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE DICIEMBRE DE 1928 (DEROGADA).
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 23, el sábado 24, el lunes 26, el martes 27 y el miércoles 28 de noviembre de 1917.
 
@@ -554,3 +556,73 @@ CONSTITUCION Y REFORMAS.— México, noviembre
 D.O. 12 DE OCTUBRE DE 1920.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO REFORMANDO LOS ARTÍCULOS 5, 15 Y 21, DE LA LEY DE ORGANIZACIÓN DE LOS TRIBUNALES FEDERALES, DE 21 DE NOVIEMBRE DE 1917"; NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2º. DEL CÓDIGO CIVIL DEL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA VIGENTE.]
+
+D.O. 12 DE DICIEMBRE DE 1928.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+1o.- Esta ley comenzará a regir el 20 de diciembre del presente año.
+
+2o.- Los Juzgados de Distrito Supernumerarios existentes actualmente en la República, serán considerados como Numerarios, quedando bajo la designación y con la jurisdicción señalada en la presente ley.
+
+3o.- Los Tribunales de Circuito existentes actualmente en la República, deberán continuar en el ejercicio de sus funciones hasta el día 31 de enero de 1929. La Suprema Corte de Justicia dictará los acuerdos que fueren procedentes para la reducción de los Circuitos en la forma señalada en la presente ley, así como transladar la residencia de ellos a los lugares que se designen.
+
+4o.- Dentro del plazo señalado dictará igualmente la Suprema Corte de Justicia, los acuerdos que fueren conducentes a efecto de que los Juzgados de Distrito puedan funcionar el primero de febrero de 1929 en las jurisdicciones territoriales respectivas.
+
+5o.- Los Magistrados de Circuito y Jueces de Distrito, tan luego como entren en funciones, de acuerdo con lo dispuesto en la presente ley, deberán remitir a los Tribunales o Juzgados a que correspondan, los expedientes que fueren de sus respectivas competencias, dando a la Suprema Corte de Justicia, aviso de haberlo efectuado.
+
+6o.- Todas las facultades de la Suprema Corte de Justicia consignadas en la Ley de Amparo vigente y demás leyes relativas, se entenderá que las tendrán las Salas en los términos y en cuanto sea compatible con la disposición de la presente ley.
+
+7o.- Entre tanto se expide la Ley de Responsabilidades de Funcionarios y Empleados de la Federación a que se refiere el artículo 111 de la Constitución Federal serán causas de responsabilidad para los funcionarios y empleados del Poder Judicial Federal:
+
+I.- Faltar con frecuencia a sus respectivas oficinas sin causa justificada; llegar ordinariamente tarde a ellas o no permanecer en el despacho todo el tiempo prevenido por la ley;
+
+II.- Demorar indebidamente el despacho de los negocios, ya sea por falta de cumplimiento de las obligaciones que les impongan las leyes o por no cumplir las órdenes que reciban de sus superiores con arreglo a la ley;
+
+III.- Ejecutar hechos o incurrir en omisiones que tengan como consecuencia traspapelar los expedientes, extraviar escritos o documentos o dificultar el ejercicio de los derechos de las partes en toda clase de negocios;
+
+IV.- Ofender, denostar o tratar con descortesía a los abogados o litigantes que acudan a los Tribunales en demanda de justicia o a informarse del estado que guardan sus asuntos;
+
+V.- Sacar o permitir que se extraigan los expedientes de las oficinas respectivas, fuera de los casos en que la ley autorice discrecionalmente;
+
+VI.- Admitir recursos o promociones notoriamente frívolas o maliciosas o conceder términos notoriamente innecesarios o prórrogas indebidas;
+
+VII.- No acordar, no resolver o no fallar los asuntos de su conocimiento dentro de los términos legales, aun cuando sea con el pretexto de silencia, obscuridad o deficiencia de la ley o cualquiera otro;
+
+VIII.- Dar por probado un hecho que no lo esté legalmente en autos o tener por no aprobado un hecho que deba reputarse debidamente probado con arreglo a la ley;
+
+IX.- Fundar cualquiera resolución en consideraciones de derecho notoriamente inexactas o inconducentes o no fundarlas en las que legalmente debieron aplicarse, siempre que haya habido impericia notoria o mala fe.
+
+X.- Dictar alguna resolución contra texto expreso de la ley o contra las constancias de autos;
+
+XI.- Imponer pena aplicando la ley penal por analogía o por mayoría de razón;
+
+XII.- Expedir, a sabiendas, nombramientos en favor de personas a quienes no pueden nombrar con arreglo a esta ley o mediante el pacto de recibir todo o parte del sueldo o cualquiera otra remuneración;
+
+XIII.- Ejecutar cualquiera de los actos prohibidos por las disposiciones de esta ley;
+
+XIV.- Aceptar ofrecimientos o promesas, recibir dádivas o cualquiera otra remuneración por ejercer o haber ejercido las funciones de su encargo;
+
+XV.- Exigir de los litigantes, de sus Procuradores o patronos, aunque sea por concepto de gastos, dinero, promesas o cualquiera remuneración por ejercer o haber ejercido las funciones de su encargo, y
+
+XVI.- Las demás que expresamente determinan las leyes.
+
+8o.- Cuando las leyes vigentes no provean los casos a que se refiere el artículo anterior para la imposición de las penas que corresponda, se observarán las siguientes reglas:
+
+I.- En los casos de las fracciones I a VII, inclusive, se impondrá una multa de diez a quinientos pesos, por la primera vez, y en caso de reincidencia, destitución de empleo o inhabilitación para obtener otro en el ramo judicial por el término de cinco años;
+
+II.- Cuando se trate de las fracciones VIII y XIII, inclusive, la pena será de seis meses de arresto a dos años de prisión, destitución de empleo e inhabilitación para obtener otro en el ramo judicial por el término de cinco años;
+
+III.- En los casos de las fracciones XIV y XV del mismo artículo anterior, se impondrán de cincuenta a mil pesos de multa o arresto de ocho meses a tres años de prisión y, en todo caso, destitución de empleo e inhabilitación para obtener otro en el ramo judicial por cinco años, y
+
+IV.- En los casos a que se refiere la fracción XVI se aplicarán las penas señaladas en la fracción I de este artículo.
+
+9o.- Toda acusación o denuncia de delitos oficiales deberá dirigirse al Ministerio Público, quien, sin perjuicio de ejercer la acción que corresponda, remitirá copia del escrito de querella a la Suprema Corte de Justicia.
+
+10.- Mientras el Código Federal de Procedimientos Penales reglamenta el Jurado Popular Federal, se aplicará en todo lo que no pugne con la Constitución y con esta Ley, lo prevenido en el Código de Procedimientos Penales del Distrito y Territorios Federales; pero el veredicto del Jurado se limitará a resolver sobre la culpabilidad o inculpabilidad del acusado, correspondiendo al Juez, en caso de veredicto condenatorio, la imposición de la pena que corresponda.
+
+Se deroga el artículo 314 del Código de Procedimientos Penales del Distrito Federal y Territorios.
+
+11.- Mientras dura el recargo de trabajo en la Suprema Corte de Justicia, circunstancia ésta que calificará el Pleno, la primera Sala conocerá además de los asuntos que le señala el artículo 24 de la presente Ley, de incidentes de suspensión de amparos administrativos y civiles; de quejas en juicios de amparo civiles conforme a los artículos 23 y 52 de la Ley Reglamentaria de los artículos 103 y 104 de la Constitución General; de quejas en juicios de amparo, de carácter administrativo, conforme al artículo 23 de la Ley que reglamenta el amparo y de competencias entre jueces federales en asuntos civiles y administrativos.
+
+12.- Se deroga la Ley Orgánica del Poder Judicial de la Federación, de 2 de noviembre de 1917 y todas las disposiciones de las leyes vigentes que se opongan al cumplimiento de la presente.
