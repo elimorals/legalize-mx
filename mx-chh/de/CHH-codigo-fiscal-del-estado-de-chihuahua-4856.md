@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2004-10-02"
+last_updated: "2004-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2004.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1927,6 +1927,192 @@ Si los causantes no cumplen con los requisitos que establece el párrafo anterio
 
 185.- (DEROGADO, P.O. 29 DE DICIEMBRE DE 1990)
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+#### SECCION PRIMERA
+
+Disposiciones generales.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+186.- Están obligadas al pago de los impuestos cedulares establecidos en este capítulo, las personas físicas que en el territorio del Estado perciban ingresos:
+
+I.- Por el otorgamiento del uso o goce temporal de bienes inmuebles, ubicados en el territorio del Estado.
+
+II.- Por la enajenación de bienes inmuebles, ubicados en el territorio del Estado.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+#### SECCION SEGUNDA. Impuesto Cedular a los Ingresos por Arrendamiento y en General por Otorgar el Uso o Goce Temporal de Inmuebles
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+187.- Están obligados al pago del impuesto establecido en esta Sección, las personas físicas que perciban ingresos por otorgar el uso o goce temporal de bienes inmuebles, ubicados en territorio del Estado, con independencia de la Entidad ederativa (sic) en la que el contribuyente tenga su domicilio fiscal.
+
+Se consideran ingresos por otorgar el uso o goce temporal de bienes inmuebles los siguientes:
+
+I.- Los provenientes del arrendamiento o subarrendamiento y en general, por otorgar a título oneroso el uso o goce temporal de bienes inmuebles en cualquier otra forma.
+
+II.- Los rendimientos de certificados de participación inmobiliaria no amortizables.
+
+Para los efectos de esta Sección, se consideran ingresos los percibidos en efectivo, bienes, servicios y crédito.
+
+Los ingresos en crédito se declararán y se calculará el impuesto que les corresponda hasta el mes de calendario en el que sean cobrados.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+188.- Las personas que obtengan ingresos por los conceptos a que se refiere esta Sección, podrán efectuar las siguientes deducciones:
+
+I.- Los pagos efectuados por el Impuesto Predial correspondiente al año de calendario sobre dichos inmuebles, así como por las contribuciones especiales que afecten a los mismos; dichos pagos se prorratearán entre el número de meses del período que comprendan, deduciendo la parte proporcional al mes que corresponda el pago del impuesto cedular.
+
+II.- Los gastos de mantenimiento que no impliquen adiciones o mejoras al bien de que se trate y por consumo de agua, siempre que no los paguen quienes usen o gocen del inmueble.
+
+III.- Los intereses reales pagados por préstamos utilizados para la compra, construcción o mejoras de los bienes inmuebles.
+
+Se considera interés real, el monto en el que los intereses excedan al ajuste por inflación. Para estos efectos, el ajuste por inflación se determinará multiplicando el saldo promedio diario de la inversión del préstamo o financiamiento que genere los intereses, por el factor que se obtenga de restar la unidad del cociente que resulte de dividir el índice nacional de precios al consumidor del mes más reciente del período de la inversión, entre el citado índice correspondiente al primer mes del período. Cuando el cálculo a que se refiere este párrafo se realice por un período inferior a un mes o abarque fracciones de mes, el incremento porcentual del citado índice para dicho período o fracción de mes se considerará en proporción al número de días por el que se efectúa el cálculo.
+
+IV.- Los salarios, comisiones, honorarios, así como los impuestos, cuotas o contribuciones que conforme a la ley les corresponda cubrir sobre dichos salarios, efectivamente pagados y que sean relacionadas con las actividades que generan los ingresos gravados por el impuesto cedular.
+
+V.- El importe de las primas de seguros que amparen los bienes inmuebles.
+
+VI.- Las inversiones en construcciones, incluyendo adiciones y mejoras.
+
+Los contribuyentes podrán optar por deducir el 35% de los ingresos a que se refiere esta Sección, en substitución de las deducciones autorizadas por este artículo.
+
+Los contribuyentes que ejerzan la opción prevista en el párrafo anterior deberán hacerlo durante todo el año calendario y por todos los inmuebles por los que otorguen el uso o goce temporal, incluso por aquellos que tengan en copropiedad.
+
+Tratándose de subarrendamiento, sólo se deducirá el importe de las rentas que pague el arrendatario al arrendador.
+
+Cuando el contribuyente ocupe parte del bien inmueble del cual derive el ingreso por otorgar el uso o goce temporal del mismo u otorgue su uso o goce temporal de manera gratuita, no podrá deducir la parte de los gastos, así como tampoco el Impuesto Predial y contribuciones especiales que correspondan proporcionalmente a la unidad por él ocupada o de la otorgada gratuitamente. En los casos de subarrendamiento, el subarrendador no podrá deducir la parte proporcional del importe de las rentas pagadas que correspondan a la unidad que ocupe o que otorgue gratuitamente.
+
+La parte proporcional a que se refiere el párrafo que antecede, se calculará considerando el número de metros cuadrados de construcción de la unidad por él ocupada u otorgada de manera gratuita en relación con el total de metros cuadrados de construcción del bien inmueble.
+
+Las deducciones a que se refiere este artículo deberán estar relacionadas con los inmuebles por los que se obtengan los ingresos materia del impuesto cedular a que se refiere esta Sección y podrán efectuarse cuando las erogaciones en ellas comprendidas se hayan realizado en el mismo ejercicio fiscal al que corresponda el pago mensual del impuesto cedular, sin que en ningún caso el monto total de dichas deducciones exceda el 50% del impuesto a pagar.
+
+Cuando el uso o goce temporal del bien de que se trate no se hubiese otorgado por todo el año calendario, las deducciones a que se refieren las fracciones I a V de este artículo se aplicarán únicamente cuando correspondan al período por el cual se otorgó el uso o goce temporal del bien inmueble o a los tres meses inmediatos anteriores al en que se otorgue dicho uso o goce.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+189.- En las operaciones de fideicomiso por las que se otorgue el uso o goce temporal de bienes inmuebles, se considera que los rendimientos son ingresos del fideicomitente aun cuando el fideicomisario sea una persona distinta, a excepción de los fideicomisos irrevocables en los cuales el fideicomitente no tenga derecho a readquirir del fiduciario el bien inmueble, en cuyo caso se considera que los rendimientos son ingresos del fideicomisario desde el momento en que el fideicomitente pierda el derecho a readquirir el bien inmueble.
+
+La institución fiduciaria efectuará los pagos de este impuesto por cuenta de aquél a quien corresponda el rendimiento en los términos del párrafo anterior, mediante declaración mensual que presentará conforme al artículo siguiente.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+190.- Los contribuyentes que obtengan ingresos de los señalados en esta Sección efectuarán pagos mensuales a una tasa del 5%, que se aplicará a los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles, disminuyendo las deducciones autorizadas en esta Sección en el período declarado. La declaración y entero de los pagos se realizará en los términos del artículo 44 de este Código, teniendo como fecha límite el día 17 del mes inmediato siguiente al en que corresponda el pago.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+190-A.- Los contribuyentes que obtengan ingresos de los señalados en esta Sección, además de efectuar los pagos del impuesto, tendrán las siguientes obligaciones:
+
+I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes.
+
+II.- Llevar contabilidad.
+
+III.- Expedir comprobantes por las contraprestaciones recibidas.
+
+IV.- Presentar declaraciones en los términos de esta Sección.
+
+Cuando los ingresos a que se refiere esta Sección sean percibidos a través de operaciones de fideicomiso, será la institución fiduciaria quien lleve los libros, expida los recibos y efectúe los pagos de este impuesto.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+#### SECCION TERCERA. Del Impuesto Cedular a los Ingresos Derivados de la Enajenación de Inmuebles
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+190-B.- Pagarán este impuesto las personas físicas que perciban ingresos por la enajenación de inmuebles que se ubiquen en el territorio del Estado.
+
+Para los efectos de esta Sección, se consideran ingresos por enajenación de inmuebles, los que deriven de:
+
+I.- Toda transmisión de propiedad, aún en la que el enajenante se reserve el dominio del bien enajenado.
+
+II.- Las adjudicaciones, aún cuando se realicen a favor del acreedor.
+
+III.- La aportación a una sociedad o asociación.
+
+IV.- La que se realiza a través del fideicomiso, en los siguientes casos:
+
+a) En el acto en el que el fideicomitente designe o se obliga a designar fideicomisario diverso de él y siempre que no tenga derecho a readquirir del fiduciario los bienes.
+
+b) En el acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho.
+
+V.- La cesión de los derechos que se tengan sobre los bienes afectos al fideicomiso, en cualquiera de los siguientes momentos:
+
+a) En el acto en el que el fideicomisario designado ceda sus derechos o dé instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones.
+
+b) En el acto en el que el fideicomitente ceda sus derechos si entre éstos se incluye el de que los bienes se transmitan a su favor.
+
+VI.- Las transmisión de dominio de un bien tangible o del derecho para adquirirlo que se efectúe a través de enajenación de títulos de crédito, o de la cesión de derechos que los representen. Lo dispuesto en esta fracción no es aplicable a las acciones o partes sociales.
+
+En los casos de permuta se considerará que hay dos enajenaciones.
+
+Se considerará como ingreso el monto de la contraprestación obtenida en efectivo, bienes, servicio, inclusive en crédito, con motivo de la enajenación; cuando por la naturaleza de la transmisión no haya contraprestación, se atenderá al valor de avalúo practicado, previa autorización de las autoridades fiscales.
+
+No se considerarán ingresos por enajenación, los que deriven de la transmisión de propiedad de inmuebles por causa de muerte o por donación.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+190-C.- No se pagará este impuesto por los ingresos derivados de la enajenación de:
+
+I. La casa que haya habitado el contribuyente cuando menos durante el año inmediato anterior al de la fecha de enajenación.
+
+II.- Los que deriven de la enajenación de derechos parcelarios, de las parcelas sobre las que hubiera adoptado el dominio pleno o de los derechos comuneros, siempre y cuando sea la primera transmisión que se efectúe por los ejidatarios o comuneros y la misma se realice en los términos de la legislación federal de la materia.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+190-D.- Las personas físicas que obtengan ingresos por la enajenación de inmuebles podrán efectuar las siguientes deducciones:
+
+I.- El costo comprobado de adquisición que se actualizará en los términos del artículo 190-F de este Código y será cuando menos el 10% del monto de la enajenación de que se trate.
+
+II.- El importe de las inversiones hechas en construcciones, mejoras y ampliaciones, el cual se actualizará en los términos del artículo 190-F de este Código. Estas inversiones no incluyen los gastos de conservación.
+
+III.- Los gastos notariales, impuestos y derechos, por escrituras de adquisición y de enajenación, pagados por el enajenante, salvo el impuesto sobre la renta federal. Así mismo, serán deducibles los pagos efectuados con motivo del avalúo de los bienes inmuebles.
+
+IV.- Las comisiones y mediaciones pagadas por el enajenante, con motivo de la adquisición o de la enajenación del bien.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+190-E.- El costo de adquisición será igual a la contraprestación que se haya pagado por adquirir el bien sin incluir los intereses; cuando el bien se hubiese adquirido a título gratuito, se estará a lo dispuesto por el penúltimo párrafo del artículo 190-B de este Código.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+190-F.- Para actualizar el costo comprobado de adquisición y, en su caso, el importe de las inversiones deducibles, tratándose de bienes inmuebles, se procederá como sigue:
+
+I.- Se restará el costo comprobado de adquisición, la parte correspondiente al terreno y el resultado será el costo de construcción. Cuando no se pueda efectuar esta separación se considerará como costo del terreno el 20% del costo total.
+
+II.- El costo de construcción deberá disminuirse a razón del 3% anual por cada año transcurrido entre la fecha de adquisición y la de enajenación; en ningún caso dicho costo será inferior al 20% del costo inicial. El costo resultante se actualizará conforme al artículo 190-G de este Código, por el período comprendido desde el mes en el que se realizó la adquisición y hasta el mes inmediato anterior a aquél en el que se efectúe la enajenación. Las mejoras o adaptaciones que impliquen inversiones deducibles deberán sujetarse al mismo tratamiento.
+
+En el caso de terrenos, el costo de adquisición se actualizará conforme al artículo 190-G de este Código por el período comprendido desde el mes en el que se realizó la adquisición y hasta el mes inmediato anterior a aquél en el que se efectúe la enajenación.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+190-G.- Las actualizaciones a que se refieren la fracción II y el último párrafo del artículo 190-F de este Código se realizarán aplicando un factor de actualización a las cantidades que se deban actualizar, el cual se obtendrá dividiendo el Índice Nacional de Precios al Consumidor que al efecto publica el Banco de México, correspondiente al mes anterior al más reciente del período, entre el citado índice correspondiente al mes anterior al más antiguo de dicho período, sin que proceda la actualización por fracciones de mes; dicho factor de actualización deberá calcularse hasta el diezmilésimo.
+
+En los casos en que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no haya sido publicado por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
+
+Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización, por lo que el monto de ésta no será deducible.
+
+Cuando el resultado de la operación a que se refiere el primer párrafo de este artículo sea menor a 1, el factor de actualización que se aplicará al monto respectivo, será 1.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+190-H.- Tratándose de bienes inmuebles adquiridos por herencia, legado o donación, se considerará como costo de adquisición, el que haya pagado el autor de la sucesión o el donante, y como fecha de adquisición, la que hubiere correspondido a estos últimos. Cuando a su vez el autor de la sucesión o el donante hubieran adquirido dichos bienes a título gratuito, se aplicará la misma regla. Tratándose de la donación por la que se haya pagado el Impuesto Sobre la Renta federal, se considerará como costo de adquisición, el valor de avalúo que haya servido para calcular dicho impuesto y como fecha de adquisición aquélla en que se pagó el impuesto mencionado.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+190-I.- Los contribuyentes podrán solicitar la práctica de un avalúo por corredor público titulado o institución de crédito. La Secretaría de Finanzas estará facultada para practicar, ordenar o tomar en cuenta, el avalúo del bien objeto de enajenación.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+190-J.- Los contribuyentes que obtengan ingresos por la enajenación de bienes inmuebles, efectuarán el pago de este impuesto por cada una de las operaciones que realicen, el cual se determinará aplicando la tasa del 5% sobre la diferencia entre el ingreso obtenido por la enajenación y las deducciones a que se refiere esta Sección y se entenderá mediante declaración que presentarán dentro de los 15 días siguientes a la fecha de la enajenación, en los términos del artículo 44 de este Código.
+
+En el caso de operaciones consignadas en escritura pública, los notarios, corredores, jueces y demás fedatarios que por disposición legal tengan funciones notariales, bajo su responsabilidad calcularán el pago a que se refiere esta Sección y lo enterarán dentro de los 15 días siguientes a la fecha en que se firme la escritura o minuta, en los términos del artículo 44 de este Código.
+
+### CAPITULO VI. DE LOS IMPUESTOS CEDULARES A LOS INGRESOS DE LAS PERSONAS FISICAS
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
 #### SECCION PRIMERA. OBJETO Y SUJETO
 
 191.- Son objeto del impuesto a que se refiere este Capítulo, sin deducción alguna, los ingresos en efectivo o en especie que se perciban como productos o rendimientos de capitales invertidos, por los siguientes conceptos:
@@ -1971,35 +2157,7 @@ Las personas que efectúen retenciones harán los enteros relativos en el plazo 
 
 La Tesorería General del Estado está, a través del representante de la Hacienda Pública Estatal que se designe, facultada para intervenir en los juicios en que exista o se presuma la existencia de actos que generen créditos fiscales comprendidos en este Capítulo.
 
-### CAPITULO VI. IMPUESTO SOBRE ARRENDAMIENTO Y SUB-ARRENDAMIENTO DE BIENES MUEBLES E INMUEBLES
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-186.- Es objeto de este impuesto el ingreso que se estipule por concepto de arrendamiento y sub-arrrendamiento de bienes muebles o inmuebles ubicados dentro del Estado.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-187.- Son sujetos de este impuesto las personas físicas o morales, civiles o mercantiles, que obtengan ingresos gravados en este capítulo.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-188.- El impuesto sobre dichos ingresos se determinará tomando en cuenta el importe de las rentas mensuales estipuladas en el contrato, independientemente de la forma en que se pacten los pagos. El impuesto se causará a razón del 1% sobre el ingreso mensual.
-
-Están exentos del pago de este impuesto quienes perciban rentas mensuales inferiores a $200.00 por cada unidad o departamento, siempre que éstos no excedan de diez.
-
-189.- Los causantes de este impuesto están obligados a registrar los contratos de arrendamiento en la Recaudación de Rentas que corresponda, dentro de los quince días naturales siguientes a la fecha de su celebración.
-
-Así mismo, deberán dar aviso de las modificaciones o rescisiones de contratos dentro de los quince días naturales siguientes a la fecha en que éstas ocurran.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-190.- El impuesto se pagará por adelantado, de conformidad con las siguientes reglas:
-
-I.- Si el contrato es por tiempo definido que no exceda de un año, se cubrirá por el importe de las rentas correspondientes al tiempo estipulado. Si excede de un año, se pagará por anualidades que vencerán el 31 de diciembre.
-
-II.- Si el contrato es por término indefinido, se cubrirá por el importe de las rentas correspondientes al período que falte para terminar el año natural en que se celebre el contrato; concluido este período, si el contrato continúa en vigor deberá pagarse nuevamente el gravamen por cada año que transcurra, precisamente en el mes de Enero.
-
-III.- Tratándose de predios rústicos, los arrendatarios tienen responsabilidad solidaria en el pago del gravamen.
+### CAPITULO VII. IMPUESTO SOBRE PRODUCTOS O RENDIMIENTOS DE CAPITALES INVERTIDOS
 
 #### SECCION CUARTA. EXENCIONES
 
@@ -2101,8 +2259,6 @@ IV.- Los contribuyentes radicados fuera del Estado manifestarán directamente o 
 
 211.- En todas las operaciones gravadas por este capítulo en que intervengan personas físicas o morales no empadronadas para el pago del Impuesto, será responsable del pago el enajenante y solidariamente el adquiriente de los bienes o servicios.
 
-### CAPITULO VII. IMPUESTO SOBRE PRODUCTOS O RENDIMIENTOS DE CAPITALES INVERTIDOS
-
 #### SECCION TERCERA. GRUPOS Y TASAS
 
 > <small>(REFORMADO PARRAFO PRIMERO, P.O. 31 DE DICIEMBRE DE 1975)</small>
@@ -2192,6 +2348,8 @@ II.- Si los ingresos no son gravables, por razón de su diversa índole, de acue
 3.- Aplicarán el remanente de cada grupo las tasas del artículo 212 según proceda.
 
 215.- En caso de que el contribuyente no lleve la separación de ingresos, se causará íntegramente el impuesto sobre el total de los mismos, sin la deducción de los exentos, aplicando una sola tasa, que en el caso será la mayor de las aplicables.
+
+### CAPITULO VIII. IMPUESTO SOBRE EL COMERCIO Y LA INDUSTRIA
 
 #### SECCION CUARTA. INGRESOS EXENTOS
 
@@ -2340,8 +2498,6 @@ Este artículo tiene como excepción lo dispuesto por el artículo 231.
 227.- Los causantes del impuesto y los gerentes, administradores o apoderados y los contadores de las sociedades, declararán bajo protesta de decir verdad, al hacer las manifestaciones, que los ingresos que declaran son los realmente obtenidos en el período de que se trate, y se harán sabedores de que en caso de falsedad u ocultación incurrirán en las penas establecidas en este Código o, en su caso, en el de Defensa Social.
 
 228.- Las declaraciones de los causantes serán revisables en cualquier tiempo en los términos del artículo 239, y cuando aparezca que no se manifiestan los ingresos realmente percibidos, se procederá a hacer efectivas las diferencias que corresponda, sin perjuicio de las sanciones a que haya lugar.
-
-### CAPITULO VIII. IMPUESTO SOBRE EL COMERCIO Y LA INDUSTRIA
 
 #### SECCION SEPTIMA. OBLIGACIONES DE LOS CAUSANTES
 
@@ -2527,6 +2683,8 @@ III.- En las Recaudaciones de Rentas de Ciudad Juárez, Ciudad Ojinaga, Ascensi�
 
 El impuesto se pagará antes de realizar cualquiera de los actos a que se refiere el artículo 241.
 
+### CAPITULO IX. IMPUESTO SOBRE LA GANADERIA
+
 #### SECCION CUARTA. OBLIGACIONES DE LOS CAUSANTES
 
 246.- Al enterarse el impuesto, el causante deberá cumplir los siguientes requisitos:
@@ -2576,8 +2734,6 @@ Si existen pacas de algodón o semilla dentro de los límites de las plantas des
 254.- Son sujetos de este impuesto las personas físicas o morales que con establecimiento fijo o sin él verifiquen operaciones comerciales con el algodón y su semilla en los términos del artículo anterior.
 
 255.- La base de este impuesto será el valor de los productos, según las tarifas oficiales que para tal efecto apruebe el Ejecutivo del Estado para cada zona productora.
-
-### CAPITULO IX. IMPUESTO SOBRE LA GANADERIA
 
 #### SECCION SEGUNDA. TASA, PAGO Y OBLIGACIONES
 
@@ -2672,6 +2828,8 @@ VII.- A registrar en la Recaudación de Rentas respectiva, los vehículos que se
 VIII.- A recabar en cada caso un permiso de la Tesorería General del Estado a través de la Recaudación de Rentas correspondiente, para remitir o transportar bebidas alcohólicas en recipientes con capacidad mayor de cinco litros. Dicho transporte solo podrá ser realizado por personas y vehículos registrados como porteadores ante las autoridades fiscales estatales;
 
 IX.- A declarar en la Recaudación de Rentas de su jurisdicción dentro de los días 1o. al 20 de cada mes, las ventas en litros que de sus bebidas alcohólicas hayan llevado a cabo dentro de la Entidad, indicando el nombre y domicilio de los compradores y la graduación alcohólica del producto.
+
+### CAPITULO X. IMPUESTO SOBRE LA ENAJENACION DE ALGODON Y SU SEMILLA
 
 #### SECCION SEGUNDA. IMPUESTO SOBRE VENTA DE BEBIDAS ALCOHOLICAS
 
@@ -2889,6 +3047,26 @@ V.- No permitir, bajo su responsabilidad, que se altere la graduación del conte
 
 VI.- Las demás que establezcan las leyes.
 
+### CAPITULO XI. IMPUESTO SOBRE LA ENAJENACION DE AVENA
+
+261.- Es objeto de este impuesto la enajenación de primera mano que se realice con la avena ya sea en grano o achicalada. Para los efectos de esta disposición se consideran enajenaciones de primera mano las que realicen los productores. Toda enajenación se presume verificada dentro del Estado, sin que se admita prueba en contrario.
+
+262.- Son sujetos de este impuesto las personas físicas o morales que con establecimiento fijo o sin él verifiquen operaciones de enajenación con el citado producto.
+
+263.- La base de este impuesto será el valor del producto de acuerdo con las tarifas oficiales que para tal efecto apruebe el Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
+
+264.- El impuesto se causará a razón del 3% sobre el valor que tenga en el mercado o en su caso, sobre el valor oficial que al respecto se le fije.
+
+265.- El pago del impuesto deberá hacerse en la fecha en que se realice la operación gravada.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+
+266.- Los propietarios, administradores o encargados de las fábricas industrializadoras de la avena y las personas físicas o morales que comercien con este cereal, están obligados a retener el impuesto que establece este capítulo, en todos aquellos casos en que los productores de avena no les comprueben, con los recibos oficiales que al efecto les expidan las Recaudaciones de Rentas, haber pagado el tributo. En caso de que acrediten tal extremo, el adquiriente deberá recabar y conservar en su poder el recibo que se le expidió al propietario al momento de efectuar el pago.
+
+### CAPITULO XII. IMPUESTO SOBRE PRODUCCION Y VENTA DE BEBIDAS ALCOHOLICAS Y ALCOHOL
+
 #### SECCION CUARTA. DISPOSICIONES COMUNES A LA PRODUCCION Y VENTA DE BEBIDAS ALCOHOLICAS Y ALCOHOL
 
 298.- Se considera como producción y venta clandestina de bebidas alcohólicas y alcohol:
@@ -2918,8 +3096,6 @@ c).- Las bebidas que procedan de fuera del Estado de Chihuahua deberán venir am
 302.- Cualquiera infracción a lo dispuesto por este capítulo se regulará y sancionará en los términos del capítulo VII, Título Segundo de este libro.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-### CAPITULO X. IMPUESTO SOBRE LA ENAJENACION DE ALGODON Y SU SEMILLA
 
 #### SECCION PRIMERA. REQUERIMIENTO DE PAGO Y EMBARGO
 
@@ -3277,26 +3453,6 @@ También procederá la venta fuera de subasta, cuando el embargado señale al pr
 
 En caso de que los deudores de prestaciones fiscales tengan su residencia fuera del Estado, podrá el Tesorero General hacer efectivos los créditos fiscales mediante juicio ejecutivo civil que promoverá ante los Juzgados de Primera Instancia Civiles de la Ciudad de Chihuahua. En estos casos, la liquidación que formule la autoridad fiscal, se considerará un título ejecutivo.
 
-### CAPITULO XI. IMPUESTO SOBRE LA ENAJENACION DE AVENA
-
-261.- Es objeto de este impuesto la enajenación de primera mano que se realice con la avena ya sea en grano o achicalada. Para los efectos de esta disposición se consideran enajenaciones de primera mano las que realicen los productores. Toda enajenación se presume verificada dentro del Estado, sin que se admita prueba en contrario.
-
-262.- Son sujetos de este impuesto las personas físicas o morales que con establecimiento fijo o sin él verifiquen operaciones de enajenación con el citado producto.
-
-263.- La base de este impuesto será el valor del producto de acuerdo con las tarifas oficiales que para tal efecto apruebe el Ejecutivo del Estado.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
-
-264.- El impuesto se causará a razón del 3% sobre el valor que tenga en el mercado o en su caso, sobre el valor oficial que al respecto se le fije.
-
-265.- El pago del impuesto deberá hacerse en la fecha en que se realice la operación gravada.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
-
-266.- Los propietarios, administradores o encargados de las fábricas industrializadoras de la avena y las personas físicas o morales que comercien con este cereal, están obligados a retener el impuesto que establece este capítulo, en todos aquellos casos en que los productores de avena no les comprueben, con los recibos oficiales que al efecto les expidan las Recaudaciones de Rentas, haber pagado el tributo. En caso de que acrediten tal extremo, el adquiriente deberá recabar y conservar en su poder el recibo que se le expidió al propietario al momento de efectuar el pago.
-
-### CAPITULO XII. IMPUESTO SOBRE PRODUCCION Y VENTA DE BEBIDAS ALCOHOLICAS Y ALCOHOL
-
 #### SECCION TERCERA. TERCERIAS
 
 382.- Cuando se hubieren embargado bienes propiedad de tercero que no tenga responsabilidad solidaria en el adeudo por el que se siga el procedimiento de ejecución, podrá promoverse ante la autoridad ejecutora que siga dicho procedimiento, en cualquier tiempo, mientras no se haya fincado el remate, tercería excluyente de dominio.
@@ -3336,98 +3492,6 @@ Cuando la autoridad ejecutora encuentre que los documentos presentados por el te
 391.- Para que pueda cumplirse la resolución dictada por la autoridad ejecutora en una tercería, sea excluyente de dominio o de preferencia, es necesario, en todo caso que, previa revisión del expediente respectivo, la apruebe el Tesorero General del Estado.
 
 392.- Si la resolución del Tesorero General del Estado es contraria al tercerista podrá éste ocurrir ante el Supremo Tribunal de Justicia a promover el juicio de oposición a que se refiere este Código o interponer el recurso de reconsideración.
-
-#### SECCION CUARTA. SUSPENSION DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
-
-393.- Se suspenderá el procedimiento administrativo de ejecución durante la tramitación de los recursos administrativos, juicios de nulidad o tercerías, cuando lo solicite el interesado y garantice el crédito fiscal de que se trate y los posibles recargos, en alguna de las formas señaladas por el artículo 63 de este Código. Sin embargo cuando por la cuantía del crédito pueda afectarse el equilibrio del presupuesto a juicio del Tesorero General del Estado, podrá éste ordenar que se constituya depósito en la oficina Recaudadora.
-
-La suspensión podrá ser solicitada en cualquier tiempo ante la oficina ejecutora, acompañando copia del escrito con el que se hubiere iniciado el recurso administrativo o el juicio de que se trate. La autoridad ejecutora suspenderá provisionalmente el procedimiento y concederá un plazo de 15 días para el otorgamiento de la garantía. Constituída ésta la ejecutora suspenderá de plano el procedimiento hasta que se le comunique la resolución definitiva en el recurso o juicio respectivos.
-
-No se exigirá garantía adicional si en el procedimiento administrativo de ejecución se hubieren ya secuestrado bienes suficientes para garantizar los intereses fiscales.
-
-#### SECCION PRIMERA. DISPOSICIONES GENERALES
-
-398.- El Supremo Tribunal de Justicia del Estado conocerá en única instancia de los juicios de oposición.
-
-La tramitación de dichos juicios se llevará ante las Salas de lo Civil, por riguroso turno, en la forma y términos que especifica este Código.
-
-399.- Los magistrados del Supremo Tribunal de Justicia del Estado, no podrán ser recursados (sic) sin causa en los juicios de oposición, pero deberán excusarse y podrán ser recusados en la forma y términos que señala el Código de Procedimientos Civiles del Estado.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-400.- Serán partes en el procedimiento:
-
-I.- El actor, que podrá ser, según el caso, el Tesorero General o el particular afectado con el acto.
-
-II.- El demandado, teniendo tal carácter:
-
-a).- La Autoridad fiscal que dicte y ordene, ejecute o trate de ejecutar la resolución impugnada o la que legalmente la substituya.
-
-b).- El particular a quien favorezca la resolución, cuya nulidad pida el Tesorero General.
-
-III.- El tercero que aparezca como titular de un derecho incompatible con el que pretenda el actor.
-
-IV.- El Tesorero General del Estado, quien será representado en la forma que señalen los ordenamientos, aún cuando sea actor ni demandado.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-401.- Las autoridades que figuren como parte en los juicios de oposición, podrán acreditar delegados con facultades para ofrecer y rendir pruebas, interponer recursos y para alegar.
-
-402.- Las mismas facultades tendrá el abogado patrono que el particular autorice para oír notificaciones.
-
-403.- Las diligencias que deban practicarse fuera del local de la Sala, podrán encomendarse a los Secretarios de las mismas, o al Juez de Primera Instancia o Menor de la circunscripción, salvo cuando se trate de inspección judicial que deba de realizarse dentro de la Ciudad de Chihuahua.
-
-404.- En los juicios de oposición no habrá condenación en costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan. Los honorarios del perito tercero serán pagados por las partes.
-
-405.- Toda promoción será firmada por quien la formule y sin éste requisito se tendrá por no presentada, a menos que el promovente no sepa o no pueda firmar, caso en que se aplicará el derecho común.
-
-En el juicio de oposición no procederá la gestión de negocios.
-
-406.- Los juicios de oposición se substanciarán y resolverán con arreglo al procedimiento que determina este Código. A falta de disposición expresa se aplicarán las disposiciones del Código de Procedimientos Civiles del Estado.
-
-#### SECCION SEGUNDA. NOTIFICACIONES Y TERMINOS
-
-407.- Toda resolución debe ser notificada dentro de las veinticuatro horas siguientes a la en que fuere dictada y se asentará la razón respectiva en el expediente a que pertenezca, inmediatamente después de la resolución misma.
-
-408.- Las notificaciones se harán:
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
-
-I.- A las autoridades fiscales por oficio con acuse de recibo, o por oficio y telegrama a la vez en casos urgentes y cuando se trate de resoluciones que exijan cumplimiento inmediato;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-II.- Personalmente a los particulares, en la forma señalada por el Código de Procedimientos Civiles del Estado, o por correo registrado con acuse de recibo, cuando se trate de alguna de las siguientes resoluciones:
-
-a).- La que deseche la demanda;
-
-b).- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
-
-c).- La de sobreseimiento y la de la sentencia;
-
-d).- La que mande citar a un tercero, por lo que a éste se refiere;
-
-e).- El requerimiento de un acto a la parte que deba cumplirlo;
-
-f).- En cualquier otro caso, si así lo ordena la Sala.
-
-III.- Fuera de los casos señalados en la fracción anterior las notificaciones se harán personalmente en la Sala a los particulares, si se presentan dentro de las veinticuatro horas siguientes a la en que se haya dictado la resolución, y si no se presentan con oportunidad por lista autorizada que se fijará en sitio visible, al día siguiente del acuerdo.
-
-409.- Las notificaciones surtirán sus efectos al día hábil siguiente al en que se haya hecho la notificación personal, entregado el oficio que contenga copia de la resolución que se notifica, por el empleado del Tribunal o por el correo, o fijado la lista respectiva.
-
-410.- Las notificaciones que no fueren hechas en la forma que establecen las disposiciones precedentes, serán nulas. Las partes perjudicadas podrán pedir la nulidad a que se refiere este artículo, antes de dictarse resolución que ponga fin al negocio, para que se reponga el procedimiento desde el punto en que se incurrió en la violación correspondiente.
-
-Este incidente, que se considerará como de especial pronunciamiento, se substanciará en una sola audiencia en la que se recibirán las pruebas de las partes, se oirán sus alegatos que no excederán de media hora cada uno, y se dictará la resolución que fuere procedente.
-
-Las promociones de nulidad notoriamente infundadas se desecharán de plano.
-
-411.- Los términos serán improrrogables y su cómputo se sujetará a las reglas siguientes:
-
-I.- Se incluirá en ellos el día del vencimiento y empezará a correr el día siguiente al en que surta efectos la notificación, pero si fueren varias las partes los términos comunes correrán desde el día siguiente a la fecha en que haya surtido sus efectos la notificación a la última de ellas;
-
-II.- Se contarán los días naturales, excluyendo los inhábiles y aquellos en los que se suspendan las labores del Tribunal;
-
-III.- Los términos serán comunes con excepción de los que se conceden para la interposición de recursos y para contestar la demanda.
 
 ### CAPITULO XIII. IMPUESTO SOBRE ACTOS JURIDICOS
 
@@ -3863,6 +3927,98 @@ Cuando se haya iniciado el juicio de oposición o interpuesto los recursos que p
 
 ### CAPITULO II. PROCEDIMIENTO DE EJECUCION
 
+#### SECCION CUARTA. SUSPENSION DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
+
+393.- Se suspenderá el procedimiento administrativo de ejecución durante la tramitación de los recursos administrativos, juicios de nulidad o tercerías, cuando lo solicite el interesado y garantice el crédito fiscal de que se trate y los posibles recargos, en alguna de las formas señaladas por el artículo 63 de este Código. Sin embargo cuando por la cuantía del crédito pueda afectarse el equilibrio del presupuesto a juicio del Tesorero General del Estado, podrá éste ordenar que se constituya depósito en la oficina Recaudadora.
+
+La suspensión podrá ser solicitada en cualquier tiempo ante la oficina ejecutora, acompañando copia del escrito con el que se hubiere iniciado el recurso administrativo o el juicio de que se trate. La autoridad ejecutora suspenderá provisionalmente el procedimiento y concederá un plazo de 15 días para el otorgamiento de la garantía. Constituída ésta la ejecutora suspenderá de plano el procedimiento hasta que se le comunique la resolución definitiva en el recurso o juicio respectivos.
+
+No se exigirá garantía adicional si en el procedimiento administrativo de ejecución se hubieren ya secuestrado bienes suficientes para garantizar los intereses fiscales.
+
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
+
+398.- El Supremo Tribunal de Justicia del Estado conocerá en única instancia de los juicios de oposición.
+
+La tramitación de dichos juicios se llevará ante las Salas de lo Civil, por riguroso turno, en la forma y términos que especifica este Código.
+
+399.- Los magistrados del Supremo Tribunal de Justicia del Estado, no podrán ser recursados (sic) sin causa en los juicios de oposición, pero deberán excusarse y podrán ser recusados en la forma y términos que señala el Código de Procedimientos Civiles del Estado.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+400.- Serán partes en el procedimiento:
+
+I.- El actor, que podrá ser, según el caso, el Tesorero General o el particular afectado con el acto.
+
+II.- El demandado, teniendo tal carácter:
+
+a).- La Autoridad fiscal que dicte y ordene, ejecute o trate de ejecutar la resolución impugnada o la que legalmente la substituya.
+
+b).- El particular a quien favorezca la resolución, cuya nulidad pida el Tesorero General.
+
+III.- El tercero que aparezca como titular de un derecho incompatible con el que pretenda el actor.
+
+IV.- El Tesorero General del Estado, quien será representado en la forma que señalen los ordenamientos, aún cuando sea actor ni demandado.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+401.- Las autoridades que figuren como parte en los juicios de oposición, podrán acreditar delegados con facultades para ofrecer y rendir pruebas, interponer recursos y para alegar.
+
+402.- Las mismas facultades tendrá el abogado patrono que el particular autorice para oír notificaciones.
+
+403.- Las diligencias que deban practicarse fuera del local de la Sala, podrán encomendarse a los Secretarios de las mismas, o al Juez de Primera Instancia o Menor de la circunscripción, salvo cuando se trate de inspección judicial que deba de realizarse dentro de la Ciudad de Chihuahua.
+
+404.- En los juicios de oposición no habrá condenación en costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan. Los honorarios del perito tercero serán pagados por las partes.
+
+405.- Toda promoción será firmada por quien la formule y sin éste requisito se tendrá por no presentada, a menos que el promovente no sepa o no pueda firmar, caso en que se aplicará el derecho común.
+
+En el juicio de oposición no procederá la gestión de negocios.
+
+406.- Los juicios de oposición se substanciarán y resolverán con arreglo al procedimiento que determina este Código. A falta de disposición expresa se aplicarán las disposiciones del Código de Procedimientos Civiles del Estado.
+
+#### SECCION SEGUNDA. NOTIFICACIONES Y TERMINOS
+
+407.- Toda resolución debe ser notificada dentro de las veinticuatro horas siguientes a la en que fuere dictada y se asentará la razón respectiva en el expediente a que pertenezca, inmediatamente después de la resolución misma.
+
+408.- Las notificaciones se harán:
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
+
+I.- A las autoridades fiscales por oficio con acuse de recibo, o por oficio y telegrama a la vez en casos urgentes y cuando se trate de resoluciones que exijan cumplimiento inmediato;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+II.- Personalmente a los particulares, en la forma señalada por el Código de Procedimientos Civiles del Estado, o por correo registrado con acuse de recibo, cuando se trate de alguna de las siguientes resoluciones:
+
+a).- La que deseche la demanda;
+
+b).- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
+
+c).- La de sobreseimiento y la de la sentencia;
+
+d).- La que mande citar a un tercero, por lo que a éste se refiere;
+
+e).- El requerimiento de un acto a la parte que deba cumplirlo;
+
+f).- En cualquier otro caso, si así lo ordena la Sala.
+
+III.- Fuera de los casos señalados en la fracción anterior las notificaciones se harán personalmente en la Sala a los particulares, si se presentan dentro de las veinticuatro horas siguientes a la en que se haya dictado la resolución, y si no se presentan con oportunidad por lista autorizada que se fijará en sitio visible, al día siguiente del acuerdo.
+
+409.- Las notificaciones surtirán sus efectos al día hábil siguiente al en que se haya hecho la notificación personal, entregado el oficio que contenga copia de la resolución que se notifica, por el empleado del Tribunal o por el correo, o fijado la lista respectiva.
+
+410.- Las notificaciones que no fueren hechas en la forma que establecen las disposiciones precedentes, serán nulas. Las partes perjudicadas podrán pedir la nulidad a que se refiere este artículo, antes de dictarse resolución que ponga fin al negocio, para que se reponga el procedimiento desde el punto en que se incurrió en la violación correspondiente.
+
+Este incidente, que se considerará como de especial pronunciamiento, se substanciará en una sola audiencia en la que se recibirán las pruebas de las partes, se oirán sus alegatos que no excederán de media hora cada uno, y se dictará la resolución que fuere procedente.
+
+Las promociones de nulidad notoriamente infundadas se desecharán de plano.
+
+411.- Los términos serán improrrogables y su cómputo se sujetará a las reglas siguientes:
+
+I.- Se incluirá en ellos el día del vencimiento y empezará a correr el día siguiente al en que surta efectos la notificación, pero si fueren varias las partes los términos comunes correrán desde el día siguiente a la fecha en que haya surtido sus efectos la notificación a la última de ellas;
+
+II.- Se contarán los días naturales, excluyendo los inhábiles y aquellos en los que se suspendan las labores del Tribunal;
+
+III.- Los términos serán comunes con excepción de los que se conceden para la interposición de recursos y para contestar la demanda.
+
 #### SECCION TERCERA. CASOS DE IMPROCEDENCIA Y SOBRESEIMIENTO
 
 412.- Es improcedente el juicio de oposición ante el Supremo Tribunal de Justicia:
@@ -3896,6 +4052,72 @@ II.- Cuando durante el juicio apareciere o sobreviniese alguna de las causas de 
 III.- Cuando, cualquiera que sea el estado del juicio, no se haya efectuado ningún acto procesal durante el término de ciento ochenta días, incluyendo los inhábiles y el demandante no haya promovido en ese mismo lapso.
 
 IV.- En los demás casos en que por disposición legal haya impedimento para emitir resolución en cuanto al fondo.
+
+## TITULO SEGUNDO. DEFENSA JURIDICA DEL PARTICULAR EN MATERIA FISCAL Y PROCESO DE LESIVIDAD
+
+### CAPITULO I. MEDIOS DE IMPUGNACION
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+394.- Los actos en materia fiscal pueden impugnarse mediante los recursos de revisión y reconsideración o por medio del juicio de oposición promovido ante la autoridad judicial, pudiendo elegirse cualquiera de esos medios. La resolución que se dicte en los recursos administrativos será también impugnable en el juicio de oposición.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
+
+Tratándose de nulidad de notificaciones, tercerías, prescripción, caducidad e inconformidades contra las actas de visita, es obligatorio para el particular agotar los procedimientos respectivos antes de iniciar el recurso o el juicio.
+
+El Tesorero General igualmente podrá impugnar mediante juicio de oposición, las resoluciones de las autoridades fiscales que hayan sido favorables a los particulares.
+
+395.- El particular afectado podrá emplear cualesquiera de los medios de impugnación que establece el artículo anterior:
+
+I.- Contra las resoluciones y liquidaciones de las autoridades fiscales que determinen la existencia de un crédito fiscal, lo fijen en cantidad líquida o den las bases para su liquidación.
+
+II.- Contra el procedimiento administrativo de ejecución siempre que afirme:
+
+1o.- Que el crédito que se le exige se ha extinguido legalmente;
+
+2o.- Que el monto del crédito es inferior al exigido;
+
+3o.- Que no es deudor del crédito que se le exige o no es responsable de su pago;
+
+4o.- Que es propietario de los bienes embargados o acreedor preferente al Fisco, para ser pagado con el producto de los mismos;
+
+5o.- Que el procedimiento coactivo no se ha ajustado a la Ley. En este caso la oposición sólo podrá hacerse valer en contra de la resolución que apruebe el remate, salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación o de actos de ejecución sobre bienes legalmente inembargables.
+
+III.- Contra la negativa de una autoridad competente para ordenar la devolución de un impuesto, derecho o aprovechamiento ilegalmente percibido.
+
+IV.- Contra los acuerdos que impongan sanciones por infracción a las leyes fiscales.
+
+### CAPITULO II. RECURSOS DE REVISION Y RECONSIDERACION
+
+396.- El recurso será de revisión cuando el Tesorero General del Estado resuelva inconformidades de los particulares respecto a actos dictados por otras autoridades fiscales. Será de reconsideración cuando el Tesorero General del Estado resuelva inconformidades de particulares respecto de actos dictados por él mismo.
+
+397.- La tramitación de los recursos administrativos en materia fiscal se sujetará a las normas siguientes:
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+I.- Se interpondrán ante el Tesorero General del Estado precisamente por escrito, en el que se expresarán: El nombre del recurrente; domicilio para ser notificado en el Estado; el acto impugnado; los agravios que éste le cause y el ofrecimiento de las pruebas que pretende rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido, el interesado tuvo oportunidad razonable de rendir pruebas, sólo se considerarán en el recurso las que hubiere allegado en tal oportunidad y las supervenientes.
+
+II.- El escrito será presentado dentro de los quince días siguientes al en que surta efectos la notificación del acto que se impugna. Si el recurrente tiene su domicilio en población distinta del lugar de residencia de la Tesorería General del Estado, podrá enviar su escrito, dentro del mismo término, por correo certificado con acuse de recibo, o bien presentarlo ante la autoridad que le haya notificado la resolución. En estos casos, se tendrá como fecha de presentación del escrito respectivo, el del día en que se haga la entrega en la Oficina de Correos o a la autoridad que efectuó la notificación.
+
+III.- Recibida la instancia, el Tesorero General del Estado recabará de oficio las constancias necesarias para determinar la existencia del acto impugnado y la fecha de su notificación; en vista de lo anterior acordará si es de admitirse o desecharse el recurso, según que se haya interpuesto dentro o fuera del término legal.
+
+IV.- El Tesorero General del Estado, en su caso, proveerá desde luego a la recepción de las pruebas ofrecidas. Al efecto señalará un término de quince días dentro del cual los interesados deberán exhibir todos los documentos que hubieren ofrecido, presentar a sus testigos y peritos exhibiendo previamente los cuestionarios que éstos últimos deban resolver. Para el examen de los testigos sólo será necesario acompañar por escrito los interrogatorios, cuando residan fuera de la ciudad de Chihuahua, caso en el cual el Tesorero señalará la autoridad fiscal ante la que deba desahogarse la probanza.
+
+V.- Si por la naturaleza de las pruebas ofrecidas o porque su recepción dependa de terceros, el Tesorero considera insuficiente el término de quince días, podrá ampliarlo hasta por quince días más.
+
+VI.- Para la resolución del recurso, el Tesorero General del Estado pedirá, en su caso, a las autoridades fiscales que hayan intervenido en la formación del acto impugnado los informes que estime pertinentes y en general todos los elementos que sirvieron de base para dictarlo.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+VII.- Recibidas las pruebas y los informes se abrirá un período de alegatos de 5 días, dictándose resolución dentro de un término que no excederá de 30 días.
+
+VIII.- Los acuerdos que se dicten se notificarán por correo certificado con acuse de recibo o personalmente en la Tesorería si los interesados se presentan. Si no se hubiere señalado domicilio se tendrá por practicada la notificación el día siguiente en que se hubiere dictado el acuerdo.
+
+IX.- Los casos de improcedencia y causas de sobreseimiento previstos para el juicio de oposición, se aplicarán a los recursos administrativos en cuanto no se opongan a su naturaleza.
+
+X.- Contra los acuerdos dictados durante el procedimiento, no procederá ningún recurso. La resolución que le ponga fin será impugnable en el juicio de oposición.
+
+### CAPITULO III. JUICIO DE OPOSICION
 
 #### SECCION CUARTA. DEMANDA
 
@@ -3978,72 +4200,6 @@ El Tesorero General del Estado podrá promover el mismo incidente para combatir 
 426.- Promovido el incidente a que se refiere el artículo anterior, el magistrado instructor correrá traslado a la autoridad que haya negado la suspensión, rechazado la garantía o dictado la decisión impugnada por el término de tres días y citará, a una audiencia de pruebas y alegatos para dentro del decimoquinto día, en la que la sala dictará resolución que corresponda.
 
 Si la autoridad no contesta el traslado o no se refiere a todos los hechos en su contestación, se presumirán ciertos, salvo prueba en contrario, los hechos que el promovente le impute de manera precisa.
-
-## TITULO SEGUNDO. DEFENSA JURIDICA DEL PARTICULAR EN MATERIA FISCAL Y PROCESO DE LESIVIDAD
-
-### CAPITULO I. MEDIOS DE IMPUGNACION
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
-
-394.- Los actos en materia fiscal pueden impugnarse mediante los recursos de revisión y reconsideración o por medio del juicio de oposición promovido ante la autoridad judicial, pudiendo elegirse cualquiera de esos medios. La resolución que se dicte en los recursos administrativos será también impugnable en el juicio de oposición.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
-
-Tratándose de nulidad de notificaciones, tercerías, prescripción, caducidad e inconformidades contra las actas de visita, es obligatorio para el particular agotar los procedimientos respectivos antes de iniciar el recurso o el juicio.
-
-El Tesorero General igualmente podrá impugnar mediante juicio de oposición, las resoluciones de las autoridades fiscales que hayan sido favorables a los particulares.
-
-395.- El particular afectado podrá emplear cualesquiera de los medios de impugnación que establece el artículo anterior:
-
-I.- Contra las resoluciones y liquidaciones de las autoridades fiscales que determinen la existencia de un crédito fiscal, lo fijen en cantidad líquida o den las bases para su liquidación.
-
-II.- Contra el procedimiento administrativo de ejecución siempre que afirme:
-
-1o.- Que el crédito que se le exige se ha extinguido legalmente;
-
-2o.- Que el monto del crédito es inferior al exigido;
-
-3o.- Que no es deudor del crédito que se le exige o no es responsable de su pago;
-
-4o.- Que es propietario de los bienes embargados o acreedor preferente al Fisco, para ser pagado con el producto de los mismos;
-
-5o.- Que el procedimiento coactivo no se ha ajustado a la Ley. En este caso la oposición sólo podrá hacerse valer en contra de la resolución que apruebe el remate, salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación o de actos de ejecución sobre bienes legalmente inembargables.
-
-III.- Contra la negativa de una autoridad competente para ordenar la devolución de un impuesto, derecho o aprovechamiento ilegalmente percibido.
-
-IV.- Contra los acuerdos que impongan sanciones por infracción a las leyes fiscales.
-
-### CAPITULO II. RECURSOS DE REVISION Y RECONSIDERACION
-
-396.- El recurso será de revisión cuando el Tesorero General del Estado resuelva inconformidades de los particulares respecto a actos dictados por otras autoridades fiscales. Será de reconsideración cuando el Tesorero General del Estado resuelva inconformidades de particulares respecto de actos dictados por él mismo.
-
-397.- La tramitación de los recursos administrativos en materia fiscal se sujetará a las normas siguientes:
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
-
-I.- Se interpondrán ante el Tesorero General del Estado precisamente por escrito, en el que se expresarán: El nombre del recurrente; domicilio para ser notificado en el Estado; el acto impugnado; los agravios que éste le cause y el ofrecimiento de las pruebas que pretende rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido, el interesado tuvo oportunidad razonable de rendir pruebas, sólo se considerarán en el recurso las que hubiere allegado en tal oportunidad y las supervenientes.
-
-II.- El escrito será presentado dentro de los quince días siguientes al en que surta efectos la notificación del acto que se impugna. Si el recurrente tiene su domicilio en población distinta del lugar de residencia de la Tesorería General del Estado, podrá enviar su escrito, dentro del mismo término, por correo certificado con acuse de recibo, o bien presentarlo ante la autoridad que le haya notificado la resolución. En estos casos, se tendrá como fecha de presentación del escrito respectivo, el del día en que se haga la entrega en la Oficina de Correos o a la autoridad que efectuó la notificación.
-
-III.- Recibida la instancia, el Tesorero General del Estado recabará de oficio las constancias necesarias para determinar la existencia del acto impugnado y la fecha de su notificación; en vista de lo anterior acordará si es de admitirse o desecharse el recurso, según que se haya interpuesto dentro o fuera del término legal.
-
-IV.- El Tesorero General del Estado, en su caso, proveerá desde luego a la recepción de las pruebas ofrecidas. Al efecto señalará un término de quince días dentro del cual los interesados deberán exhibir todos los documentos que hubieren ofrecido, presentar a sus testigos y peritos exhibiendo previamente los cuestionarios que éstos últimos deban resolver. Para el examen de los testigos sólo será necesario acompañar por escrito los interrogatorios, cuando residan fuera de la ciudad de Chihuahua, caso en el cual el Tesorero señalará la autoridad fiscal ante la que deba desahogarse la probanza.
-
-V.- Si por la naturaleza de las pruebas ofrecidas o porque su recepción dependa de terceros, el Tesorero considera insuficiente el término de quince días, podrá ampliarlo hasta por quince días más.
-
-VI.- Para la resolución del recurso, el Tesorero General del Estado pedirá, en su caso, a las autoridades fiscales que hayan intervenido en la formación del acto impugnado los informes que estime pertinentes y en general todos los elementos que sirvieron de base para dictarlo.
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
-
-VII.- Recibidas las pruebas y los informes se abrirá un período de alegatos de 5 días, dictándose resolución dentro de un término que no excederá de 30 días.
-
-VIII.- Los acuerdos que se dicten se notificarán por correo certificado con acuse de recibo o personalmente en la Tesorería si los interesados se presentan. Si no se hubiere señalado domicilio se tendrá por practicada la notificación el día siguiente en que se hubiere dictado el acuerdo.
-
-IX.- Los casos de improcedencia y causas de sobreseimiento previstos para el juicio de oposición, se aplicarán a los recursos administrativos en cuanto no se opongan a su naturaleza.
-
-X.- Contra los acuerdos dictados durante el procedimiento, no procederá ningún recurso. La resolución que le ponga fin será impugnable en el juicio de oposición.
-
-### CAPITULO III. JUICIO DE OPOSICION
 
 #### SECCION SEPTIMA. RECURSOS
 
@@ -4197,6 +4353,16 @@ Si la sentencia declara la nulidad del acto impugnado, indicará las bases confo
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
+# LIBRO TERCERO. FOMENTO AL DESARROLLO SOCIO-ECONOMICO
+
+## TITULO UNICO. FOMENTO A LA INDUSTRIA Y VIVIENDA
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+### CAPITULO I. FOMENTO A LA INDUSTRIA
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
 #### SECCION CUARTA. OBLIGACIONES DE LOS BENEFICIARIOS
 
 469.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
@@ -4241,16 +4407,6 @@ Si la sentencia declara la nulidad del acto impugnado, indicará las bases confo
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-# LIBRO TERCERO. FOMENTO AL DESARROLLO SOCIO-ECONOMICO
-
-## TITULO UNICO. FOMENTO A LA INDUSTRIA Y VIVIENDA
-
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-### CAPITULO I. FOMENTO A LA INDUSTRIA
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
 #### SECCION SEGUNDA. EXENCIONES
 
 485.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
@@ -4282,44 +4438,6 @@ Si la sentencia declara la nulidad del acto impugnado, indicará las bases confo
 496.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
 497.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-#### SECCION QUINTA. INFRACCIONES Y SANCIONES
-
-477.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
-
-478.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
-
-479.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
-
-480.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
-
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-#### SECCION PRIMERA. DISPOSICIONES GENERALES
-
-481.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-482.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-483.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-484.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-#### SECCION SEGUNDA. EXENCIONES
-
-485.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-486.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-487.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-488.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-489.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ### CAPITULO UNICO. FOMENTO A LA VIVIENDA
 
@@ -4790,3 +4908,9 @@ P.O. 2 DE OCTUBRE DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día primero de enero del año 2005.
