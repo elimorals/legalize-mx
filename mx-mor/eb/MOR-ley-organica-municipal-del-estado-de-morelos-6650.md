@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-6650"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-11-04"
-last_updated: "2000-08-09"
+last_updated: "2000-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2000.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos el 4 de noviembre de 1992.
 
@@ -411,11 +411,13 @@ Instalado el Ayuntamiento, el Presidente Municipal comunicará la forma como que
 
 Al día siguiente de la toma de posesión, el Ayuntamiento celebrará su primera sesión ordinaria de cabildo, en la que se plantearán y resolverán los siguientes asuntos:
 
-I.- Designar al Secretario del Ayuntamiento, al Tesorero Municipal, al Oficial del Registro Civil y a los jefes de las dependencias; los nombramientos se harán por mayoría de votos de los miembros del Ayuntamiento a propuesta del Presidente Municipal, quien en los casos de empate tendrá voto de calidad; asimismo tomará la protesta de ley a los funcionarios designados.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2000)</small>
 
-Cuando el nombramiento de un funcionario del municipio se decida mediante el uso del voto de calidad por el Presidente Municipal, se considerará otorgado bajo la responsabilidad de éste.
+I.- Designar al Secretario del Ayuntamiento, al Tesorero, Contralor Municipal, al Oficial del Registro y a los titulares de las dependencias de la Administración Pública Municipal.
 
-Para la designación de los servidores públicos municipales a que se refiere esta fracción, deberá tomarse en cuenta su competencia, honorabilidad, profesionalismo y responsabilidad;
+Dichos servidores públicos serán nombrados por el Ayuntamiento, a propuesta del Presidente Municipal.
+
+En el caso del Contralor Municipal, se requerirá el voto de las dos terceras partes de los miembros del Ayuntamiento; y en los restantes, procederá el nombramiento por mayoría de votos; en los casos de empate, tendrá voto de calidad el Presidente Municipal, ante quien rendirán la protesta de Ley, al tomar posesión en el cargo, todos los designados.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2000)</small>
 
@@ -567,7 +569,15 @@ X.- Otorgar, con la previa aprobación del Congreso del Estado, la categoría y 
 
 XI.- Crear las dependencias u organismos para el despacho de los negocios del orden administrativo y para la eficaz prestación de los servicios públicos municipales;
 
-XII.- A propuesta del Presidente Municipal, nombrar al Secretario del Ayuntamiento, al Tesorero Municipal y a los demás servidores públicos municipales, así como removerlos por causa justificada;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2000)</small>
+
+XII.- A propuesta del Presidente Municipal, nombrar al Secretario del Ayuntamiento, Tesorero, Contralor Municipal y a los demás servidores públicos del Municipio, así como removerlos por causas justificadas;
+
+En el caso del Contralor Municipal, las causas justificadas deberán ser de tal manera graves, que impliquen una transgresión a los principios de legalidad, imparcialidad, objetividad y honestidad en el ejercicio de sus funciones, tales como: incurrir en abusos de autoridad; omitir determinar todas las observaciones que adviertan en los actos de fiscalización que realice y considerando la información y documentación de que disponga; omitir considerar a los servidores públicos titulares de las áreas que deben solventar observaciones resultantes de los actos de fiscalización o inspección que realice, o aquellos de los que se advierta alguna presunta responsabilidad jurídica, si ha dispuesto de todos los elementos normativos y documentales que en cada caso se requiere; recibir cualquier tipo de favor o beneficio personal, dádivas o retribuciones en numerario o en especie de los servidores públicos denunciados o auditados, ajenos a su ingreso salarial o a los recursos de que deben disponer para el ejercicio de su función; alterar constancias o cualquier otro tipo de documentos e información o destruirlas; entre otras análogas.
+
+La destitución también procederá cuando se advierta la comisión de irregularidades en el desempeño de este servidor público, que aún no siendo graves, sean continuas y quebranten los mismos principios señalados en el párrafo inmediato que antecede.
+
+En todo momento, al Contralor Municipal, le será respetado su derecho de audiencia y debido procedimiento, debiéndose dictar una resolución fundada y motivada.
 
 XIII.- Nombrar y suspender, a propuesta del Presidente Municipal, a los Delegados, previa auscultación de la opinión de los vecinos, así como remover con justa causa a los Intendentes y Ayudantes Municipales, nombrando a los sustitutos;
 
@@ -1194,6 +1204,68 @@ XXV.- Las demás que le asignen esta Ley, la de Hacienda Municipal y reglamentos
 ###### Artículo 99.
 
 Los Tesoreros serán responsables de las erogaciones que efectúen y que no estén comprendidas en los presupuestos aprobados y de las que no haya autorizado el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2000)</small>
+
+###### Artículo 99-A.
+
+Para ser Contralor Municipal se requiere:
+
+I.- No ser miembro del Ayuntamiento;
+
+II.- Ser ciudadano morelense en ejercicio de sus derechos civiles y políticos;
+
+III.- Disfrutar de buena fama y no estar procesado, ni haber sido sentenciado por delitos intencionales o inhabilitado como servidor público; sea en el ámbito federal, estatal o municipal;
+
+IV.- Contar con título y cédula profesional que lo acredite como Contador Público, Licenciado en Administración de Empresas o Licenciado en Derecho, cuando menos, con dos años anteriores a su designación;
+
+V.- Tener la experiencia y conocimiento suficientes para el desempeño de su cargo.
+
+El cargo de Contralor Municipal es incompatible con cualquier otro empleo, cargo o comisión de la Federación, del Estado o de los Municipios; excepto en tratándose de los servicios de docencia y de beneficencia pública, siempre que no menoscaben el ejercicio de su función.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2000)</small>
+
+###### Artículo 99-B.
+
+Son atribuciones del Contralor Municipal;
+
+I.- Realizar actos de inspección, supervisión o fiscalización, evaluación y control de los recursos humanos, materiales y financieros que por cualquier título legal tenga en administración, ejerza, detente o posea el Ayuntamiento por conducto de sus dependencias, sus órganos desconcentrados o descentralizados y demás organismos auxiliares del sector paramunicipal, sean de origen federal, estatal o del propio municipio, así como realizar la evaluación de los planes y programas municipales;
+
+II.- Como consecuencia de la fracción que precede, en el ejercicio de sus atribuciones, podrá realizar todo tipo de visitas, inspecciones, revisiones o auditorías; requerir informes, datos y documentos de todos los servidores públicos municipales relacionados con las funciones de éstos; levantar actas administrativas, desahogar todo tipo de diligencias, notificar el resultado de las revisiones o investigaciones que practique; determinar los plazos o términos perentorios en los que los servidores deberán solventar las observaciones o deban proporcionar la información o documentación que se les requiera y legalmente corresponda; que en este último caso, podrán ser de tres a cinco días hábiles, mismos que podrán prorrogarse en igual tiempo, a juicio del Contralor Municipal, e intervenir en forma aleatoria en los procesos de licitación, concurso, invitación restringida o adjudicación directa de las adquisiciones, contrataciones de servicios y obras públicas, así como en los procesos de entrega-recepción de estas últimas.
+
+El Contralor Municipal, en el desempeño de estas funciones, deberá guardar la debida reserva y no comunicar anticipadamente, ni adelantar juicios u opiniones antes de concluir la revisión, inspección o investigación, mismos que deberán estar sustentados; excepto en los casos en que intervenga en los procedimientos de todo tipo de concurso o adjudicación de las adquisiciones, contratación de servicios y de obra pública o su entrega-recepción, en los que formulará sus recomendaciones y en su caso, observaciones, también debidamente sustentados;
+
+III.- De la misma manera, queda facultado para solicitar información o documentación a las autoridades municipales, estatales o federales, legalmente competentes, que en el desempeño de los actos de investigación o auditoría que realice, sean necesarios para sus informes o determinaciones;
+
+IV.- Participar, cuando así se lo requieran los miembros del Cabildo, en las sesiones ordinarias o extraordinarias de éstos, para tratar algún tema o asunto en los que se le solicite su opinión;
+
+V.- Recibir quejas o denuncias en contra de los servidores públicos municipales y substanciar las investigaciones respectivas; vigilando en todo momento el cumplimiento de las obligaciones que impone el artículo 27 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos.
+
+En el caso que el servidor público denunciado sea de elección popular, turnará la denuncia o queja respectiva, a la Contraloría General del Estado y a la Contaduría Mayor de Hacienda del Poder Legislativo de Morelos, para los efectos legales respectivos.
+
+VI.- Para hacer cumplir sus determinaciones, podrá imponer las sanciones disciplinarias que correspondan; iniciará y desahogará el procedimiento administrativo de fincamiento de responsabilidades; emitirá las resoluciones administrativas absolutorias o sancionatorias a que aluden los numerales 31, 32, 34, 35, 36, 37, 40, 41 y 42 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos; siempre que se trate de servidores públicos que no sean de elección popular y cuando ello no corresponda a los superiores jerárquicos;
+
+Las sanciones que imponga en los términos de esta fracción, deberá hacerlas del conocimiento de los órganos de control de los Poderes Ejecutivo y Legislativo del Estado de Morelos.
+
+VII.- Coadyuvar con las labores de seguimiento, control y evaluación de la Contraloría General del Poder Ejecutivo y de la Contaduría Mayor de Hacienda del Poder Legislativo, ambos del Estado de Morelos, así como la Secretaría de la Contraloría y Desarrollo Administrativo del Gobierno Federal; y, en su caso solicitará el apoyo de dichos órganos de control para realizar visitas, inspecciones o auditoría sobre los recursos que administren el Ayuntamiento y los Poderes del Estado o de la Federación;
+
+VIII.- Elaborar y autorizar sus sistemas, métodos y procedimientos para las labores de inspección, vigilancia, supervisión y fiscalización que realice.
+
+IX.- Requerir información, documentación, apoyo y colaboración de los órganos de control interno de los organismos descentralizados y demás entidades del sector paramunicipal;
+
+X.- Las demás que le otorguen otros ordenamientos jurídicos o que el Ayuntamiento le confiera dentro del marco de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2000)</small>
+
+###### Artículo 99-C.
+
+El Contralor Municipal percibirá una remuneración adecuada, que no será menor a la que perciban los servidores públicos municipales titulares de las dependencias y contará con la estructura orgánica necesaria para el desempeño de sus atribuciones que el Presupuesto de Egresos municipales autorice.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2000)</small>
+
+###### Artículo 99-D.
+
+Se establece la coordinación institucional entre los Órganos de control del Poder Ejecutivo, del Poder Legislativo y de los Ayuntamientos, para unificar criterios en los métodos, procedimientos y alcances sobre las funciones de seguimiento, control y evaluación; instrumentar, participar y recibir la capacitación para el mejor desempeño de sus funciones, de las actualizaciones del marco normativo y de los sistemas de seguimiento y revisiones; formular consultas sobre aspectos operativos o normativos; intercambiar experiencias y elaborar propuestas de mejoramiento de la Administración Pública.
 
 ###### Artículo 100.
 
@@ -2042,3 +2114,13 @@ P.O. 9 DE AGOSTO DE 2000.
 PRIMERO.- Aprobado que sea el presente Decreto, túrnese al Titular del Poder Ejecutivo, a efecto de que sea publicado en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 30 DE AGOSTO DE 2000.
+
+PRIMERO.- Aprobado que sea el presente Decreto, túrnese al Titular del Poder Ejecutivo para los efectos de la fracción XVII del artículo 70 de la Constitución Política del Estado de Morelos.
+
+SEGUNDO.- El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Los Contralores Municipales de los Ayuntamientos, que con anterioridad a este Decreto ya hubieren sido nombrados por el Ayuntamiento y se encuentren en funciones; por esta única vez, no les será aplicable lo dispuesto en el artículo 99-A de este ordenamiento. En los subsecuentes casos, deberá observarse estrictamente la citada disposición.
+
+CUARTO.- Los Ayuntamientos del Estado de Morelos contarán con un plazo de noventa días hábiles, contados a partir del inicio de la vigencia de este Decreto, para emitir las reformas o adecuaciones a los ordenamientos administrativos que regulan su estructura orgánica municipal en los términos de este ordenamiento.
