@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "1992-12-25"
+last_updated: "1995-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -4047,7 +4047,7 @@ Si se declare infundada la oposición, el opositor será condenado en las costas
 
 DEL JUICIO DE MENOR CUANTIA.
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 1995)</small>
 
 ###### Artículo 692.
 
@@ -4285,8 +4285,6 @@ REGLAS COMUNES DEL DEUDOR.
 
 REGLAS GENERALES.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1983)</small>
-
 ###### Artículo 733.
 
 Todas las controversias que se susciten con motivo de lo dispuesto en el Título Sexto, Parte Segunda, Libro Cuarto, del Código Civil del Estado, se sujetarán al procedimiento que se establece en el presente capítulo.
@@ -4365,15 +4363,17 @@ En todo lo aquí no previsto, se estará a las reglas de este Código, en cuanto
 
 DE LAS TESTAMENTARIAS.
 
-###### ARTICULO 743.
+###### Artículo 743.
 
-Serán objeto del Juicio de menor cuantía:
+Serán objeto del juicio de menor cuantía:
 
-I.- Los negocios cuyo interés no exceda de ciento cincuenta cuotas diarias de salario mínimo general.
+I.- Los negocios cuyo interés no exceda de quinientas cincuenta cuotas de salario mínimo general.
 
-II.- Los que tengan por objeto el ejercicio de acciones derivadas de actos o contratos en que se pacten prestaciones o pensiones periódicas, excepto las que provengan de alimentos, con tal de que el monto anual de aquéllas no exceda de cien cuotas diarias de salario mínimo general. En los casos en que se demande solamente el pago o cumplimento de las prestaciones adecuadas, o del capital o gravamen por los que éstas se adeuden, se estará a lo dispuesto en la fracción I de este Artículo.
+II.- Los que tengan por objeto el ejercicio de acciones derivadas de actos o contratos en que se pacten prestaciones o pensiones periódicas, cuyo monto anual no exceda de quinientas cincuenta cuotas de salario mínimo general.
 
-Para determinar la cuantía de las cuotas diarias del salario mínimo general, se entenderá por éste, el más bajo de los diversos que puedan regir en la entidad.
+En los casos en que se demande solamente el pago o cumplimiento de las prestaciones adeudadas, o del capital o gravamen por lo que éstas se adeuden, se estará a lo dispuesto por la fracción I de este artículo.
+
+Para determinar la cuantía de las cuotas del salario mínimo general, se entenderá por éste, el más bajo de los diversos que puedan regir en la Entidad.
 
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
 
@@ -4615,7 +4615,7 @@ JUICIOS SUCESORIOS.
 
 ###### Artículo 779.
 
-Cuando el valor de los bienes hereditarios no exceda de la suma que establece el artículo 743 del Código de Procedimientos Civiles, conocerán del Juicio de Sucesión los Alcaldes Judiciales y de los demás juicios conocerán los Jueces de lo Civil o Mixtos, según corresponda.
+(DEROGADO, P.O. 28 DE JULIO DE 1995)
 
 ###### Artículo 780.
 
@@ -6265,17 +6265,17 @@ DECRETO NUM. 240, QUE REFORMA EL ARTICULO 935.
 
 UNICO:- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 21 DE ENERO DE 1987.
-
-###### ARTICULO UNICO
-
-- Este Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
-
 P.O. 25 DE FEBRERO DE 1985.
 
 ###### ARTICULO UNICO
 
 - Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE ENERO DE 1987.
+
+###### ARTICULO UNICO
+
+- Este Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
 
 P.O. 2 DE AGOSTO DE 1991.
 
@@ -6292,3 +6292,17 @@ SEGUNDO:- Todas las demandas ordinarias que estén radicados pero no notificadas
 TERCERO:- Los Juicios Ordinarios en trámite, se ajustarán al procedimiento señalado para ellos hasta su total conclusión.
 
 CUARTO:- Los Juicios Sumarios de Desahucio ya radicados o en trámite, seguirán ajustándose hasta su total conclusión a los preceptos que por este Decreto se modifican.
+
+P.O. 28 DE JULIO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas entrarán en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a la presente reforma.
+
+###### ARTICULO TERCERO.
+
+Los asuntos que se encuentren en trámite al entrar en vigor estas reformas, seguirán siendo competencia de los órganos jurisdiccionales que estén conociendo de los mismos.
