@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-administracion-publica-del-estado-de-16303"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-10-12"
-last_updated: "2002-06-11"
+last_updated: "2003-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE GUERRERO NUMERO 433
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 12 de octubre de 1999.
 
@@ -263,7 +263,9 @@ II.- Presentar ante el Congreso del Estado, las iniciativas de Leyes y decretos 
 
 III.- Refrendar, para que sean obligatorias, las leyes, decretos, reglamentos, acuerdos y demás disposiciones que el Gobernador promulgue, expida o autorice, sin perjuicio de que lo haga el titular del ramo al que corresponda el asunto;
 
-IV.- Vigilar el cumplimiento de los preceptos constitucionales por parte de las autoridades del Estado, especialmente en lo que se refiere a las garantías individuales y dictar las medidas administrativas necesarias para ese efecto;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2003)</small>
+
+IV.- Vigilar el cumplimiento de los preceptos constitucionales por parte de las autoridades del Estado, especialmente en lo que se refiere a las garantías individuales y dictar las medidas administrativas necesarias para ese efecto, asimismo, sobre el cumplimiento de las recomendaciones emitidas por los Organos Públicos de Defensa de los Derechos Humanos, en contra de servidores públicos de la administración pública centralizada y paraestatal del Estado;
 
 V.- Llevar el registro de autógrafos, legalizar y certificar las firmas de funcionarios estatales, de los presidentes y secretarios municipales y, en general, de aquellos servidores públicos a quiénes esté encomendada la fe pública, así como expedir las identificaciones correspondientes a los servidores públicos;
 
@@ -1005,31 +1007,35 @@ IV.- Realizar auditorías legales, técnicas, administrativas, de obra y de toda
 
 V.- Vigilar el cumplimiento de la Ley de Responsabilidades de los Servidores Públicos y, en general, de todo ordenamiento que rija el manejo y aplicación de recursos, entre ellos, los de adquisición de bienes, de obras públicas, endeudamiento y recursos humanos;
 
-VI.- Formular recomendaciones en materia de modernización y desarrollo administrativo, vigilando su estricto cumplimiento para una organización y funcionamiento más eficiente de la Administración Pública Estatal;
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2003)</small>
 
-VII.- Coadyuvar en la elaboración e implantación de manuales de organización y de procedimientos para trámites y servicios al público, que impulsen de manera constante la sistematización y simplificación administrativa;
+VI.- Aplicar la Ley de Responsabilidad de los Servidores Públicos cuando no se le dé cumplimiento a las recomendaciones aceptadas, emitidas por los Organos Públicos de Protección de los Derechos Humanos;
+
+VII.- Formular recomendaciones en materia de modernización y desarrollo administrativo, vigilando su estricto cumplimiento para una organización y funcionamiento más eficiente de la Administración Pública Estatal;
+
+VIII.- Coadyuvar en la elaboración e implantación de manuales de organización y de procedimientos para trámites y servicios al público, que impulsen de manera constante la sistematización y simplificación administrativa;
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
 
-VIII.- Apoyar a la Secretaría de Finanzas y Administración y al COPLADEG, en el control y vigilancia de los recursos humanos, financieros y materiales asignados a las diversas dependencias y entidades de la administración pública estatal;
+IX.- Apoyar a la Secretaría de Finanzas y Administración y al COPLADEG, en el control y vigilancia de los recursos humanos, financieros y materiales asignados a las diversas dependencias y entidades de la administración pública estatal;
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
 
-IX.- Expedir, en coordinación con las Secretarías de Desarrollo Social, Desarrollo Urbano y Obras Públicas y de Finanzas y Administración, las bases a que deban sujetarse los concursos y contratos de la administración pública del Estado para la ejecución de obras y prestación de servicios, vigilando el proceso de adjudicación y cumplimiento de los mismos, cancelando, en su caso, aquellos que la normatividad prevea;
+X.- Expedir, en coordinación con las Secretarías de Desarrollo Social, Desarrollo Urbano y Obras Públicas y de Finanzas y Administración, las bases a que deban sujetarse los concursos y contratos de la administración pública del Estado para la ejecución de obras y prestación de servicios, vigilando el proceso de adjudicación y cumplimiento de los mismos, cancelando, en su caso, aquellos que la normatividad prevea;
 
-X.- Verificar la congruencia entre el Gasto Público autorizado al Poder Ejecutivo con el presupuesto de egresos ejercido, recomendando medidas de austeridad y racionalización;
+XI.- Verificar la congruencia entre el Gasto Público autorizado al Poder Ejecutivo con el presupuesto de egresos ejercido, recomendando medidas de austeridad y racionalización;
 
-XI.- Proponer y dar seguimiento a los acuerdos, convenios y programas que suscriba el Titular del Ejecutivo Estatal con otros poderes y niveles de Gobierno, en materia de control, evaluación y desarrollo administrativo;
+XII.- Proponer y dar seguimiento a los acuerdos, convenios y programas que suscriba el Titular del Ejecutivo Estatal con otros poderes y niveles de Gobierno, en materia de control, evaluación y desarrollo administrativo;
 
-XII.- Promover la participación ciudadana en actividades de contraloría social, para vigilar las diferentes obras y acciones de Gobierno;
+XIII.- Promover la participación ciudadana en actividades de contraloría social, para vigilar las diferentes obras y acciones de Gobierno;
 
-XIII.- Participar como instancia normativa en el proceso de entrega-recepción, al cambio de Titular del Poder Ejecutivo del Estado, así como de las dependencias y entidades y demás organismos o unidades administrativas del Poder Ejecutivo, vigilando el cumplimiento de las normas técnicas y administrativas establecidas para ese propósito;
+XIV.- Participar como instancia normativa en el proceso de entrega-recepción, al cambio de Titular del Poder Ejecutivo del Estado, así como de las dependencias y entidades y demás organismos o unidades administrativas del Poder Ejecutivo, vigilando el cumplimiento de las normas técnicas y administrativas establecidas para ese propósito;
 
-XIV.- Registrar las manifestaciones patrimoniales de los servidores públicos y mantenerlas actualizadas, en los términos de la Legislación aplicable en el Estado;
+XV.- Registrar las manifestaciones patrimoniales de los servidores públicos y mantenerlas actualizadas, en los términos de la Legislación aplicable en el Estado;
 
-XV.- Establecer y operar un sistema de seguimiento de los programas federales relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado; y
+XVI.- Establecer y operar un sistema de seguimiento de los programas federales relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado; y
 
-XVI.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
+XVII.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 35.
 
@@ -1055,7 +1061,15 @@ IX.- Participar junto con las demás dependencias competentes, en la actualizaci
 
 X.- Establecer y operar un sistema de seguimiento de los programas federales relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado; y
 
-XI.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2003)</small>
+
+XI.- Dictar las medidas y providencias necesarias para proporcionar seguridad y protección a la víctima u ofendido del delito, así como a los servidores y exservidores públicos que por la naturaleza de sus funciones que desempeñen o hayan desempeñado lo requieran, por un tiempo igual al doble del lo que dure el proceso en el primer supuesto y por un término igual al doble del tiempo que dure en funciones en el segundo supuesto;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2003)</small>
+
+XII.- Instrumentar políticas, lineamientos y acciones en materia de prevención del delito, y
+
+XIII.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 36.
 
@@ -1332,3 +1346,13 @@ Cuando en este Decreto se dé denominación nueva o distinta a alguna dependenci
 P.O. 11 DE JUNIO DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE MARZO DE 2003.
+
+###### ARTICULO PRIMERO.
+
+Para dar cumplimento al artículo 53 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase al Gobernador del Estado para que ordene su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
