@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-aeropuertos-15558"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-17"
-last_updated: "2000-02-17"
+last_updated: "2000-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15558&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-02-15"
 
 REGLAMENTO DE LA LEY DE AEROPUERTOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE AGOSTO DE 2000.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 17 de febrero de 2000.
 
@@ -238,6 +238,10 @@ b) Declaración escrita, bajo protesta de decir verdad, en la que el peticionari
 II. Los documentos que acrediten la posibilidad de uso de suelo de los terrenos para utilizarlos como aeródromo civil, y
 
 III. En cuanto a los requisitos de viabilidad técnica, requisitos técnicos y disposiciones en materia de impacto ambiental, la documentación e información señalada en el artículo 9, fracción II, incisos c), d), e), f) y g) de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+En el caso de un permiso para administrar, explotar, operar y, en su caso, construir un helipuerto, el interesado deberá presentar la solicitud y los documentos señalados en los artículos 8 y 9 de este Reglamento, con excepción del subinciso iii) del inciso e) de la fracción II y la fracción IV), y un estudio operacional de trayectorias. Asimismo, tratándose de helipuertos mixtos, adicionalmente, se deberá anexar un manual de operaciones que contendrá el documento que acredite la posesión legal del buque y su capacidad para navegar en aguas nacionales; las características físicas y operaciones de la aeronave crítica; las limitaciones operacionales de la aeronave respecto del helipuerto, así como los procedimientos de entrada y salida a la red del espacio aéreo controlado y restringido, y los procedimientos y el equipo para sobrevuelo de áreas marítimas.
 
 ###### Artículo 18.
 
@@ -1926,3 +1930,9 @@ Aeropuertos y Servicios Auxiliares deberá adecuar sus programas al crecimiento 
 Todos los conflictos que surjan con motivo de la prestación de los servicios relativos a combustible, serán resueltos por la Secretaría.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de febrero de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de la Defensa Nacional, Enrique Cervantes Aguirre.- Rúbrica.- El Secretario de Marina, José Ramón Lorenzo Franco.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Carlos Ruiz Sacristán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 8 DE AGOSTO DE 2000.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
