@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-del-estado-de-puebla-7540"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "2000-12-11"
+last_updated: "2001-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 1993.
 
@@ -67,11 +67,17 @@ LEY DE HACIENDA DEL ESTADO DE PUEBLA
 
 ### CAPITULO I. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
 
-(REFORMADO, P.O. 02 DE AGOSTO DE 1994).
+> <small>(REFORMADO PRIMER PARRAFO, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 1°.
 
-Es objeto de este impuesto la realización de pagos por concepto de remuneraciones al trabajo personal subordinado a un patrón, prestado dentro del territorio del Estado de Puebla.
+Es objeto de este impuesto la realización de pagos por concepto de remuneraciones por servicios personales subordinados a un patrón y las remuneraciones por servicios personales independientes, entregadas a miembros de consejos directivos, de vigilancia, consultivos o de cualquier otra índole, así como a comisarios, administradores, gerentes generales y personas que presten servicios preponderantemente a un prestatario, tratándose de estas últimas en términos de la Ley del Impuesto Sobre la Renta.
+
+> <small>(ADICIONADO, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
+
+Los servicios a que se refiere el párrafo anterior, serán aquellos que se presten dentro del territorio del Estado de Puebla, independientemente de que el pago de las remuneraciones se efectúe fuera de dicho territorio.
+
+(REFORMADO, P.O. 02 DE AGOSTO DE 1994).
 
 A.- Para estos efectos quedan comprendidos los pagos que se realicen por los siguientes conceptos:
 
@@ -92,6 +98,8 @@ VII.- Comisiones.
 VIII.- Prestaciones en especie.
 
 IX.- Cualquier otra contraprestación que se entregue al trabajador por sus servicios.
+
+(REFORMADO, P.O. 02 DE AGOSTO DE 1994).
 
 B.- No se tomarán en cuenta para el cálculo de este impuesto dada su naturaleza, los siguientes conceptos:
 
@@ -115,6 +123,10 @@ VI.- Los premios por asistencia o por puntualidad, y
 
 VII.- Las cantidades aportadas para fines sociales, considerándose como tales las entregadas para constituir fondos de algún plan de pensiones establecido por el patrón o derivado de la contratación colectiva. Los planes de pensiones serán sólo los que reúnan los requisitos que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
+> <small>(REFORMADO, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
+
+Para que los conceptos mencionados en este precepto se excluyan como integrantes de la base de este impuesto, deberán estar registrados en la contabilidad del contribuyente, respecto a los conceptos señalados en las fracciones II, V, VI y VII; deberán cumplir además con los requisitos que establece la Ley del Impuesto Sobre la Renta.
+
 ###### ARTICULO 2°.
 
 Son sujetos de este impuesto las personas físicas y morales que realicen los pagos a que se refiere el artículo anterior.
@@ -137,11 +149,11 @@ El impuesto sobre erogaciones por remuneraciones al trabajo personal se causará
 
 Cuando ocasionalmente se realicen las actividades que den lugar al pago de este impuesto, el contribuyente estará obligado a presentar declaraciones en los cinco días hábiles que le corresponda, dentro de los cinco días hábiles siguientes a aquel en que se cause dicho impuesto. En este caso los contribuyentes quedan relevados de cumplir con la obligación a que se refiere la fracción I del artículo 8° de esta Ley.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 6°.
 
-Los contribuyentes presentarán las declaraciones y efectuarán el entero del impuesto a que se refiere este capítulo, en cualquiera de las Oficinas Recaudadoras de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado o en las Instituciones Bancarias que ésta autorice para tal efecto, mediante las formas oficiales o medios electrónicos de pago que apruebe la propia Dependencia, en términos del Código Fiscal del Estado.
+Los contribuyentes presentarán las declaraciones y efectuarán el entero del impuesto a que se refiere este Capítulo, en cualquiera de las Oficinas Recaudadoras u Oficinas Receptoras de Pago de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, en las Instituciones Bancarias que ésta autorice para tal efecto o a través de Internet, mediante las formas oficiales o medios electrónicos de pago que apruebe la propia Dependencia, en términos del Código Fiscal del Estado.
 
 ###### ARTICULO 7°.
 
@@ -151,13 +163,13 @@ Las declaraciones deberán de hacerse de acuerdo con las formas o sistemas ofici
 
 Los sujetos de este impuesto están obligados a:
 
-I.- Inscribirse en el registro de contribuyentes de este impuesto ante la oficina recaudadora correspondiente a su domicilio fiscal, dentro del mes siguiente a la fecha en que se coloquen en las hipótesis de causación del impuesto, haciendo uso de las formas oficiales y con los datos y documentos que en ellas se exijan.
+> <small>(REFORMADA, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+I.- Inscribirse en el registro de contribuyentes de este impuesto ante cualquiera de las Oficinas Recaudadoras de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, dentro del mes siguiente a la fecha en que se coloquen en la hipótesis de causación del impuesto, haciendo uso de las formas oficiales y con los datos y documentos que en ellas se exijan.
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
 
-II.- Presentar ante la Oficina Recaudadora que corresponda a su domicilio fiscal el aviso respectivo de cambio de nombre o razón social, de domicilio fiscal, actividad preponderante o registro estatal; así como de suspensión o reanudación de actividades, fusiones, escisiones y los de cancelación del registro de contribuyentes de este impuesto en matriz y sucursales domiciliadas en el Estado de Puebla, dentro del plazo señalado en la fracción anterior.
+II.- Presentar ante cualquiera de las Oficinas Recaudadoras de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, el aviso respectivo de cambio de nombre o razón social, de domicilio fiscal, de actividad preponderante, de modificación del registro estatal o del registro federal de contribuyentes; así como de suspensión o reanudación de actividades, fusiones, escisiones y los de cancelación del registro de contribuyentes de este impuesto en matriz y sucursales domiciliadas en el Estado de Puebla, dentro del plazo señalado en la fracción anterior.
 
 III.- Presentar los avisos, documentos, datos o información que les soliciten las autoridades fiscales en relación con este impuesto dentro de los plazos y lugares señalados al efecto.
 
@@ -201,19 +213,17 @@ II.- Jubilación y pensiones, en caso de invalidez, cesantía, y muerte.
 
 III.- Gastos funerales.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+IV.- (DEROGADA, P.O. DE 17 DE DICIEMBRE DE 2001)
 
-IV.- Contraprestaciones a que se refiere el artículo 1 de esta Ley, cubiertas por las Dependencias de la Administración Pública Centralizada del Estado, así como por los Municipios.
-
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
-
-V.- Contraprestaciones a que se refiere el artículo 1 de esta Ley, cubiertas por instituciones de enseñanza privada que tengan autorización o reconocimiento de validez oficial, en los términos de la Ley General de Educación, así como por las Instituciones de Cultura.
+V.- (DEROGADA, P.O. DE 17 DE DICIEMBRE DE 2001)
 
 VI.- Contraprestaciones a que se refiere el artículo 1º de esta Ley, cubiertas por instituciones que agrupen a empresarios.
 
 VII.- Contraprestaciones a que se refiere el artículo 1º de esta Ley, cubiertas por asociaciones y sociedades políticas debidamente registradas conforme a la Ley de la materia.
 
-VIII.- Contraprestaciones a que se refiere el artículo 1º de esta Ley, cubiertas por instituciones de asistencia o beneficencia, autorizadas conforme a la Ley de la materia.
+> <small>(REFORMADA, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
+
+VIII.- Contraprestaciones a que se refiere el artículo 1 de esta Ley, cubiertas por instituciones de asistencia o beneficencia, autorizadas conforme a la Ley de la materia, siempre y cuando sus servicios sean otorgados totalmente en forma gratuita.
 
 IX.- Contraprestaciones a que se refiere el artículo 1º de esta Ley, cubiertas a trabajadores domésticos.
 
@@ -275,11 +285,11 @@ IV.- El origen o procedencia.
 
 El impuesto estatal sobre tenencia o uso de vehículos se causará y pagará conforme a la tarifa que anualmente señale la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 15.
 
-Los sujetos del Impuesto Estatal Sobre Tenencia o Uso de Vehículos lo pagarán anualmente durante los primeros tres meses de cada ejercicio fiscal, a través de las formas oficiales autorizadas o medios electrónicos de pago aprobados, en cualquiera de las Oficinas Recaudadoras de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, o en las Instituciones Bancarias que ésta autorice para tal efecto, en términos del Código Fiscal del Estado.
+Los sujetos del Impuesto Estatal Sobre Tenencia o Uso de Vehículos lo pagarán anualmente durante los primeros tres meses de cada ejercicio fiscal, a través de las formas oficiales autorizadas o medios electrónicos de pago aprobados, en cualquiera de las Oficinas Recaudadoras u Oficinas Receptoras de Pago de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, en las Instituciones Bancarias que ésta autorice para tal efecto, o a través de Internet, en términos del Código Fiscal del Estado.
 
 ###### ARTICULO 16.
 
@@ -377,11 +387,11 @@ a) El vehículo en cuestión circule con placas del Estado de Puebla.
 
 b) La documentación de pago de otros impuestos y/o derechos a que esté afecto el vehículo de que se trate, haya sido tramitada ante las autoridades estatales.
 
-> <small>(F. DE E., P.O. 4 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 22.
 
-La base gravable a que se refiere el artículo 6 de la Ley de Ingresos del Estado de Puebla, será el resultado del cálculo del impuesto federal denominado Ley del Impuesto Sobre Tenencia o uso de vehículos.
+La base gravable a que se refiere la Ley de Ingresos del Estado de Puebla, será el resultado del cálculo del Impuesto Federal denominado Impuesto Sobre Tenencia o Uso de Vehículos.
 
 ###### ARTICULO 23.
 
@@ -457,9 +467,9 @@ ARTICULO 26 E.- El impuesto a que se refiere este Capítulo se causará al momen
 
 ARTICULO 26 F.- Cuando ocasionalmente se realicen las actividades que den lugar al pago de este impuesto, el contribuyente deberá presentar declaración dentro de los cinco días hábiles siguientes a aquél en que se cause dicho impuesto. En este caso el contribuyente queda relevado de cumplir con la obligación a que se refiere la Fracción I del Artículo 26 I de esta Ley.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
 
-ARTICULO 26 G.- Los contribuyentes presentarán las declaraciones y efectuarán el pago del impuesto en cualquiera de las Oficinas Recaudadoras de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, o en las Instituciones Bancarias que ésta autorice para tal efecto, mediante las formas oficiales o medios electrónicos de pago que apruebe la propia Dependencia, en términos del Código Fiscal del Estado.
+ARTICULO 26 G.- Los contribuyentes presentarán las declaraciones y efectuarán el pago del impuesto en cualquiera de las Oficinas Recaudadoras u Oficinas Receptoras de Pago de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, en las Instituciones Bancarias que ésta autorice para tal efecto o a través de Internet, mediante las formas oficiales o medios electrónicos de pago que apruebe la propia Dependencia, en términos del Código Fiscal del Estado.
 
 > <small>(ADICIONADO P.O. 4 DE JUNIO DE 1996)</small>
 
@@ -469,11 +479,15 @@ ARTICULO 26 H.- Las declaraciones deberán hacerse de acuerdo con las formas o s
 
 ARTICULO 26 I.- Los contribuyentes de este impuesto están obligados a:
 
-I.- Inscribirse en el registro de contribuyentes de este impuesto ante la Oficina Recaudadora correspondiente a su domicilio fiscal, dentro del mes siguiente a la fecha en que se coloquen en las hipótesis de causación del impuesto, haciendo uso de las formas oficiales y con los datos y documentos que en ellas se exijan.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
+
+I.- Inscribirse en el registro de contribuyentes de este impuesto ante cualquiera de las Oficinas Recaudadoras de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, dentro del mes siguiente a la fecha en que se coloquen en las hipótesis de causación del impuesto, haciendo uso de las formas oficiales y con los datos y documentos que en ellas se exijan.
 
 Los obligados al pago de este impuesto que no se hubieran inscrito en el registro de contribuyentes, que presenten una o más declaraciones, quedarán automáticamente inscritos en el mismo; con excepción de aquéllos a que se refiere el Artículo 26 F de esta Ley.
 
-II.- Presentar ante la oficina recaudadora que corresponda a su domicilio fiscal, el aviso respectivo de cambio de nombre o razón social, domicilio fiscal, actividad preponderante; así como la suspensión o reanudación de actividades y fusiones y los de cancelación del registro de contribuyentes de este impuesto, dentro del mismo plazo señalado en la Fracción anterior.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
+
+II.- Presentar ante cualquiera de las Oficinas Recaudadoras de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, el aviso respectivo de cambio de nombre a razón social, de domicilio fiscal, de actividad preponderante, de modificación de el registro estatal o del registro federal de contribuyentes; así como de suspensión o reanudación de actividades y fusiones y los de cancelación del registro de contribuyentes de este impuesto, dentro del mismo plazo señalado en la fracción anterior.
 
 III.- Presentar los avisos, documentos, datos o información que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y lugares señalados al efecto.
 
@@ -553,9 +567,9 @@ ARTICULO 26 Ñ.- El impuesto estatal sobre loterías, rifas, sorteos y concursos
 
 ARTICULO 26 O.- El impuesto estatal sobre loterías, rifas, sorteos y concursos se causará en el momento que los sujetos reciban el pago o entrega del premio derivado de eventos organizados por organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos destinados a la asistencia pública.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+(REFORMADO, P.O. DE 17 DE DICIEMBRE DE 2001) (F. DE E. P.O.28 DE ENERO DE 2002)
 
-ARTICULO 26 P.- El pago del Impuesto Estatal Sobre Loterías, Rifas, Sorteos y Concursos, se realizará en la Oficina Recaudadora de la Secretaría de Finanzas y Desarrollo Social en Puebla, mediante declaración que presente el retenedor al que se refiere el artículo 26 Q de esta Ley, a más tardar el día 17 del mes siguiente al de su causación.
+ARTICULO 26 P.- El pago del Impuesto Estatal Sobre Loterías, Rifas, Sorteos y Concursos se realizará en cualquiera de la (sic) Oficinas Recaudadoras u Oficinas Receptoras de Pago de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, en Instituciones Bancarias que ésta autorice para tal efecto o a través de Internet, mediante las formas oficiales o medios electrónicos de pago que apruebe la propia Dependencia en términos del Código Fiscal del Estado, que presente el retenedor al que se refiere el artículo 26 Q de esta Ley, a más el día 17 del mes siguiente al de su causación.
 
 > <small>(ADICIONADO, P.O. 19 DE MARZO 1997)</small>
 
@@ -719,9 +733,31 @@ VI.- Los aprovechamientos extraordinarios.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 35.
 
 Los contribuyentes realizarán el pago de las contribuciones en los plazos que sean previstos en las disposiciones fiscales, programas establecidos, acuerdos y decretos emitidos conforme a las leyes de la materia, los que estarán sujetos al cumplimiento de las obligaciones y condiciones que en los mismos se establezcan.
+
+> <small>(ADICIONADO, CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN P.O. DE 17 DE DICIEMBRE DE 2001)</small>
+
+## TITULO OCTAVO. DE LA COORDINACION HACENDARIA
+
+(ADICIONADO, CON LOS ARTICULOS QUE LO INTEGRAN P.O. DE 17 DE DICIEMBRE DE 2001).
+
+###### ARTICULO 36.
+
+Cuando el Estado suscriba convenios con los Municipios en el ámbito de la Coordinación Hacendaria y con apego a las disposiciones aplicables, éstos podrán ser para realizar acciones en materia de planeación, ingreso, gasto, patrimonio y deuda.
+
+> <small>(ADICIONADO, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 37.
+
+En los rubros señalados en el artículo anterior, los convenios que se celebren tendrán por objeto que el Estado o el Municipio asuman las funciones relacionadas con la administración y cobro de las contribuciones que aquéllos les correspondan; establecer bases que permitan la realización coordinada de funciones de planeación, programación, presupuestación y ejecución de los proyectos que permitan un eficaz aprovechamiento de los recursos que tengan asignados, a fin de detonar las regiones del Estado; así como definir estrategias financieras locales que conlleven a establecer mecanismos que les permitan obtener mejores condiciones en materia de deuda.
+
+Los convenios y anexos que se celebren, deberán establecer entre otros aspectos, las bases para la aportación de recursos humanos, financieros y materiales, destinados a la realización y ejecución coordinada de los proyectos, acciones, obras y servicios que se requieran para el cumplimiento de sus Planes de Desarrollo; además podrán acordar los mecanismos de participación social, información, evaluación, y seguimiento de las acciones y programas.
 
 ## TRANSITORIOS
 
@@ -850,3 +886,11 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Estado y ent
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2001.
+
+> <small>(F. DE E., P.O.28 DE ENERO DE 2002)</small>
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el primero de enero de dos mil dos.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
