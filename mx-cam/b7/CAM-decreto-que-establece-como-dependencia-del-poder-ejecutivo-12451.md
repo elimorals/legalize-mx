@@ -4,7 +4,7 @@ identifier: "CAM-decreto-que-establece-como-dependencia-del-poder-ejecutivo-1245
 country: "mx"
 rank: "decreto"
 publication_date: "1941-04-08"
-last_updated: "1941-04-08"
+last_updated: "1942-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 DECRETO NUMERO 67 QUE ESTABLECE COMO DEPENDENCIA DEL PODER EJECUTIVO EL ARCHIVO PUBLICO DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 1942.
 
 Decreto publicado en el Periódico Oficial del Estado de Campeche, el 8 de abril de 1941.
 
@@ -79,9 +79,11 @@ La vista o examen de libros, expedientes, documentos o papeles contenidos en el 
 
 Queda estrictamente prohibido facilitar a cada uno de los interesados o a sus amanuenses más de un volumen o expediente en cada ocasión.- Toda persona que fuere sorprendida en el acto de manchar, raspar, mutilar, alterar o extraer documentos será consignado a la autoridad judicial.
 
-###### Art. 7°.
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 1942)</small>
 
-Los propietarios, regentes o administradores de las imprentas establecidas en el Estado están obligados a enviar al Archivo Público dos ejemplares de todas las publicaciones, periódicos, folletos y obras que impriman.
+###### Artículo 7°.
+
+Los propietarios, regentes, administradores, arrendatarios o encargados por cualquier título de las imprentas establecidas en el Estado, están obligados a remitir dentro de los diez primeros días de cada mes, al Archivo Público del Estado, dos ejemplares de todos los periódicos, libros, folletos, volantes y publicaciones de toda índole que impriman durante el mes inmediato anterior. El incumplimiento de esta obligación será sancionado por el Gobernador del Estado con multa hasta de $50.00 (cincuenta pesos). El Director del Archivo Público comunicará al Ejecutivo, oficialmente, las infracciones para los efectos procedentes.
 
 ###### Artículo 8°.
 
@@ -102,3 +104,9 @@ Dado en el Palacio del Poder Legislativo del Estado, en Campeche, a los cinco d�
 Por tanto mando se imprima, publique y circule para su debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo del Estado, en Campeche, a los cinco días del mes de abril del año de mil novecientos cuarenta y uno.- El Gobernador Constitucional del Estado, Dr. Héctor Pérez Martínez.- Por el Secretario General de Gobierno, Funcionario, El Oficial Mayor, Joaquín R. Canabal L.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO.</small>
+
+P.O. 21 DE MARZO DE 1942.
+
+ÚNICO.- El presente Decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
