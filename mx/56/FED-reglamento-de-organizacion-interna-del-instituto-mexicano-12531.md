@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-organizacion-interna-del-instituto-mexicano-12531
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-11-11"
-last_updated: "1999-10-13"
+last_updated: "2001-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12531&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-11-04"
 
 REGLAMENTO DE ORGANIZACION INTERNA DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE OCTUBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2001.
 
 Reglamento Publicado en la Segunda Sección del Diario Oficial de la Federación el miércoles 11 de noviembre de 1998.
 
@@ -53,9 +53,17 @@ VI. Órganos Normativos:
 
 a) Las direcciones;
 
-b) Las coordinaciones generales, y
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
 
-c) Las coordinaciones.
+b) Las unidades;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+c) Las coordinaciones generales, y
+
+> <small>(ADICIONADO, [N. DE E. REUBICADO], D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+d) Las coordinaciones.
 
 VII. Órganos Regionales:
 
@@ -743,79 +751,71 @@ VI. Aprobar los Manuales de Organización de las Direcciones Normativas, Coordin
 
 VII. Las demás que le confieran la Ley, sus reglamentos y los acuerdos del Consejo Técnico.
 
-#### SECCIÓN SEGUNDA. DE LOS ÓRGANOS DE APOYO DE LA DIRECCIÓN GENERAL DE LA UNIDAD DE CONTROL TÉCNICO DE INSUMOS
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+#### SECCIÓN SEGUNDA. DE LOS ÓRGANOS DE APOYO DE LA DIRECCIÓN GENERAL
+
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 72.
 
-La Dirección General contará con una área de apoyo denominada Unidad de Control Técnico de Insumos, la que tendrá las facultades siguientes:
+La Dirección General contará con las áreas de apoyo denominadas Unidad de Vinculación Institucional y de Inversiones Financieras, las que tendrán las facultades a que se refiere el presente Reglamento en los artículos 73 y 73 bis.
 
-I. Coordinar la integración y funcionamiento de la Comisión y Comités Institucionales de Cuadros Básicos de Insumos tanto nacionales como delegacionales, con excepción de los correspondientes a los insumos para la salud y los relativos a dietología;
-
-II. Elaborar, con la participación de las direcciones normativas respectivas, la normatividad y los lineamientos generales que garanticen la calidad de los insumos y efectuar la difusión de los mismos;
-
-III. Identificar y seleccionar, en forma ordenada y lógica los insumos que se incluyan en los cuadros básicos institucionales, con excepción de los correspondientes a los insumos a la salud;
-
-IV. Participar, en coordinación con las áreas que deban intervenir, en los análisis de viabilidad tecnológica de nuevos productos para su posible desarrollo e incorporación al Instituto;
-
-V. Editar y difundir los cuadros básicos institucionales, con excepción de los correspondientes a los insumos para la salud;
-
-VI. Verificar y vigilar que los insumos en uso, o que se pretendan incluir en los cuadros básicos institucionales, cumplan con los estándares, normas y especificaciones de calidad;
-
-VII. Realizar la evaluación y supervisión de la calidad de los productos y los servicios de los proveedores;
-
-VIII. Realizar estudios de impacto económico sobre los insumos en uso, o que se pretendan incluir en los cuadros básicos institucionales, poniéndolos a consideración de las direcciones normativas que correspondan;
-
-IX. Evaluar la conveniencia y factibilidad de la celebración de convenios y contratos con la planta productiva nacional e internacional para el desarrollo de nuevos productos;
-
-X. Analizar el impacto en el presupuesto por la inclusión o exclusión de insumos en los cuadros básicos institucionales y ponerlo a la consideración de la Dirección correspondiente;
-
-XI. Modificar o cancelar, en coordinación con las áreas normativas correspondientes, en términos de la legislación de la materia, las Normas Mexicanas aplicables a los bienes y artículos necesarios para el Instituto, y
-
-XII. Las demás que le señale el Director General.
-
-DE LA DIRECCIÓN DE ORGANIZACIÓN Y CALIDAD
+> <small>(REFORMADO Y REUBICADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 73.
 
-La Dirección de Organización y Calidad tendrá las atribuciones siguientes:
+La Unidad de Vinculación Institucional tendrá las facultades siguientes:
 
-I. Normar, conducir y sancionar la actualización de instrumentos legales en materia de organización institucional, en coordinación con las dependencias normativas y la Dirección Jurídica, y someter a la consideración de la Dirección General las propuestas resultantes;
+I. Coordinar a los asesores de la Dirección General;
 
-II. Orientar, capacitar y coadyuvar con los órganos normativos y unidades administrativas del Instituto, en el desarrollo de propuestas de estructuras orgánicas, funciones, normas de operación, nuevos esquemas de funcionamiento y criterios de clasificación de delegaciones y unidades de servicio que garanticen la calidad de los servicios;
+II. Normar la planeación estratégica de actividades institucionales, así como vincular las relaciones tanto con el Congreso de la Unión como con los Sectores Económico y Social;
 
-III. Emitir lineamientos normativos para el mejoramiento y rediseño de los procesos y sistemas; identificar, en coordinación con las dependencias involucradas, áreas de oportunidad para la utilización óptima de los recursos y apoyar la implantación de proyectos de cambio en los procesos, con el objeto de validar resultados en el cumplimiento de estándares de calidad en los servicios;
+III. Planear y coordinar las giras que lleve a cabo el Director General, así como evaluar sus resultados;
 
-IV. Validar en campo los nuevos modelos de organización, en coordinación con los órganos normativos y unidades operativas, así como generalizar y normar aquellas acciones de calidad que se compruebe mejoran los procesos correspondientes;
+IV. Conducir las relaciones públicas institucionales;
 
-V. Planear, dirigir, evaluar y normar la capacitación y el fomento de la cultura de la calidad en el ámbito institucional y, asignar el presupuesto correspondiente;
+V. Elaborar los documentos técnicos que correspondan, de acuerdo con los requerimientos de la Dirección General;
 
-VI. Administrar los recursos financieros asignados a los proyectos de cambio, orientados a la satisfacción del usuario;
+VI. Dar seguimiento a los acuerdos y disposiciones de la Dirección General, y
 
-VII. Diseñar y operar, en coordinación con las Direcciones Normativas, Regionales, Delegaciones y Unidades Operativas, un sistema de seguimiento y evaluación de los procesos, con base en indicadores de dirección, desempeño y eficiencia;
+VII. Las demás que le señale el Director General.
 
-VIII. Consolidar con la participación de las Direcciones Normativas y Regionales, las acciones institucionales que impulsen de manera unificada la cultura de la calidad y garanticen el mejoramiento interno de las interrelaciones de los procesos, asegurando su inclusión en la normatividad y organización institucionales;
+> <small>(REFORMADO PRIMER PARRAFO Y REUBICADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
 
-IX. Asegurar la continuidad del cambio a través de la mejora de procesos, en coordinación con las dependencias normativas, regionales, delegacionales y unidades operativas, con base en el sistema de evaluación y el análisis de encuestas de opinión de los usuarios, y
+Artículo 73 bis. La Unidad de Inversiones Financieras tendrá las facultades siguientes:
 
-X. Las demás que le señale el Director General.
-
-> <small>(ADICIONADO, D.O.F. 13 DE OCTUBRE DE 1999)</small>
-
-Artículo 73 bis. La Dirección General contará con el área de apoyo denominada Unidad de Inversiones Financieras, la que tendrá las facultades siguientes:
+> <small>(ADICIONADA, D.O.F. 13 DE OCTUBRE DE 1999)</small>
 
 I. Realizar las operaciones de inversión de las reservas y de los excedentes de efectivo, de acuerdo a las políticas y directrices que dicte el Consejo Técnico;
 
+> <small>(ADICIONADA, D.O.F. 13 DE OCTUBRE DE 1999)</small>
+
 II. Proponer a la Comisión de Inversiones Financieras del Instituto las alternativas de inversión de los recursos financieros del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 13 DE OCTUBRE DE 1999)</small>
 
 III. Realizar las operaciones de inversión de las reservas y excedentes financieros del Instituto, aplicando en cada caso lo dispuesto en la Ley y las disposiciones que al respecto dicte el Consejo Técnico; informar sobre la valuación de los productos de la inversión de las reservas, mediante los métodos financieros previstos por el Consejo Técnico;
 
+> <small>(ADICIONADA, D.O.F. 13 DE OCTUBRE DE 1999)</small>
+
 IV. Aplicar las estrategias para cubrir el riesgo de inversión;
+
+> <small>(ADICIONADA, D.O.F. 13 DE OCTUBRE DE 1999)</small>
 
 V. Establecer y operar los sistemas de información para las operaciones de inversión de las reservas y de los excedentes de efectivo y sobre los factores de riesgo de inversión;
 
+> <small>(ADICIONADA, D.O.F. 13 DE OCTUBRE DE 1999)</small>
+
 VI. Elaborar un informe mensual pormenorizado de las operaciones y rendimientos obtenidos en la inversión de los excedentes de efectivo, y uno semestral, por las correspondientes a las reservas financieras del Instituto, y
 
+> <small>(ADICIONADA, D.O.F. 13 DE OCTUBRE DE 1999)</small>
+
 VII. Las demás que le señalen los reglamentos y acuerdos del Consejo Técnico y las que le encomiende la Dirección General.
+
+> <small>(DEROGADA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+DE LA DIRECCIÓN DE ORGANIZACIÓN Y CALIDAD
 
 ## TÍTULO TERCERO
 
@@ -1069,7 +1069,9 @@ I. Planear, dirigir y controlar la administración del marco financiero del Inst
 
 II. Elaborar el presupuesto de ingresos y egresos para cada ejercicio presupuestal, el balance contable, el estado de ingresos y gastos que se presenten al Consejo Técnico anualmente por el Director General, así como el balance actuarial trianual;
 
-III. (DEROGADA, D.O.F. 13 DE OCTUBRE DE 1999)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+III. Presupuestar los sueldos, prestaciones y los conceptos relativos a servicios generales;
 
 IV. (DEROGADA, D.O.F. 13 DE OCTUBRE DE 1999)
 
@@ -1101,11 +1103,15 @@ XVII. Elaborar y aplicar métodos de valuación actuarial adecuados a los regím
 
 XVIII. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico y las que le encomiende la Dirección General.
 
-### CAPÍTULO QUINTO. DE LA DIRECCIÓN ADMINISTRATIVA
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+### CAPÍTULO QUINTO. DE LA DIRECCIÓN DE ADMINISTRACIÓN, ORGANIZACIÓN Y CALIDAD
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 80.
 
-La Dirección Administrativa tendrá las facultades siguientes:
+La Dirección de Administración, Organización y Calidad tendrá las facultades siguientes:
 
 I. Planear, dirigir y controlar las acciones referidas a los recursos humanos y materiales del Instituto, los procesos de abastecimiento, obras, conservación y servicios generales, así como vigilar la estricta observancia de la normatividad aplicable en cada caso y evaluar sus resultados;
 
@@ -1113,19 +1119,27 @@ II. Atender los asuntos que le competen en coordinación con las unidades admini
 
 III. Vigilar, evaluar y emitir normas relativas a:
 
-a) La presupuestación y administración de sueldos y prestaciones;
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+a) La administración de sueldos y prestaciones;
 
 b) La planeación y dotación de fuerza de trabajo;
 
-c) El otorgamiento de becas al personal, así como la capacitación promocional en los términos que se establecen en el Contrato Colectivo de Trabajo y en los reglamentos respectivos, sin perjuicio de las facultades de la Dirección de Organización y Calidad;
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+c) El otorgamiento de becas al personal, así como la capacitación promocional en los términos que se establecen en el Contrato Colectivo de Trabajo y en los reglamentos respectivos;
 
 d) El trámite administrativo de finiquitos;
 
 e) El abastecimiento de bienes de consumo e inversión del Instituto;
 
-f) El mantenimiento y operación de equipos e instalaciones, y
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
 
-g) La presupuestación, administración, suministro, prestación y racionalización de los servicios generales.
+f) El mantenimiento y operación de equipos, inmuebles e instalaciones, y
+
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+g) La administración, suministro, prestación y racionalización de los servicios generales.
 
 IV. Llevar las relaciones contractuales laborales del Instituto, incluyendo la de rescisión de la relación laboral de los trabajadores adscritos a los órganos normativos, así como resolver respecto de las solicitudes de reconsideración de la rescisión de la relación laboral que les sean presentadas por el Sindicato Nacional de Trabajadores del Seguro Social, por los órganos normativos, por los órganos regionales y por los delegados, oyendo previamente la opinión de los directores regionales;
 
@@ -1139,13 +1153,107 @@ c) La conservación de bienes inmuebles.
 
 VI. Aplicar la normatividad y coordinar las acciones inherentes a la higiene, aprovechamiento y clasificación de desechos, y
 
-VII. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico y las que le encomiende la Dirección General.
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+VII. Normar, conducir y sancionar la actualización de instrumentos legales en materia de organización institucional, en coordinación con las dependencias normativas y la Dirección Jurídica, y someter a la consideración de la Dirección General las propuestas resultantes;
+
+> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+VIII. Orientar, capacitar y coadyuvar con los órganos normativos y unidades administrativas del Instituto, en el desarrollo de propuestas de estructuras orgánicas, funciones, normas de operación, nuevos esquemas de funcionamiento y criterios de clasificación de delegaciones y unidades de servicio que garanticen la calidad de los servicios;
+
+> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+IX. Emitir lineamientos normativos para el mejoramiento y rediseño de los procesos y sistemas relativos a administración de recursos humanos, abastecimiento, construcción, conservación, equipamiento, servicios generales y prestación de servicios médicos, así como identificar, en coordinación con las dependencias involucradas, áreas de oportunidad para la utilización óptima de los recursos y apoyar la implantación de proyectos de cambio en los procesos, con el objeto de validar resultados en el cumplimiento de estándares de calidad en los servicios;
+
+> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+X. Validar en campo los nuevos modelos de organización, en coordinación con los órganos normativos y unidades operativas, así como generalizar y normar aquellas acciones de calidad que se compruebe mejoran los procesos correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+XI. Planear, dirigir, evaluar y normar la capacitación y el fomento de la cultura de la calidad en el ámbito institucional y, asignar el presupuesto correspondiente;
+
+> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+XII. Administrar los recursos financieros asignados a los proyectos de cambio, orientados a la satisfacción del usuario;
+
+> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+XIII. Diseñar y operar, en coordinación con las Direcciones Normativas, Regionales, Delegaciones y Unidades Operativas, un sistema de seguimiento y evaluación de los procesos, con base en indicadores de dirección, desempeño y eficiencia;
+
+> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+XIV. Consolidar con la participación de las Direcciones Normativas y Regionales, las acciones institucionales que impulsen de manera unificada la cultura de la calidad y garanticen el mejoramiento interno de las interrelaciones de los procesos, asegurando su inclusión en la normatividad y organización institucionales;
+
+> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+XV. Asegurar la continuidad del cambio a través de la mejora de procesos, en coordinación con las dependencias normativas, regionales, delegacionales y unidades operativas, con base en el sistema de evaluación y el análisis de encuestas de opinión de los usuarios, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+XVI. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico y las que le encomiende la Dirección General.
 
 ### CAPÍTULO SEXTO. DE LA DIRECCIÓN JURÍDICA
 
-### CAPÍTULO ÚNICO. DE LA UNIDAD DE CONTRALORÍA INTERNA
+### CAPÍTULO SÉPTIMO. DE LA DIRECCIÓN DE INNOVACIÓN Y DESARROLLO TECNOLÓGICO
 
-> <small>(F. DE E., D.O.F. 13 DE NOVIEMBRE DE 1998)</small>
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+ARTÍCULO 81 bis. La Dirección de Innovación y Desarrollo Tecnológico tendrá las facultades siguientes:
+
+I. Elaborar e instrumentar la estrategia institucional en materia de tecnologías de la información y desarrollo tecnológico de los agentes del abasto institucional, en coordinación con las Direcciones Normativas del Instituto y de acuerdo con los lineamientos establecidos por la Presidencia de la República, la Secretaría de Hacienda y Crédito Público, y la Secretaría de Contraloría y Desarrollo Administrativo;
+
+II. Establecer y conducir la aplicación de las políticas, normas y programas en materia de tecnologías de la información, incluyendo el diseño, desarrollo, distribución, implantación, operación y mantenimiento de sistemas automatizados, administración del conocimiento, capacitación en informática, intercomunicación, telecomunicaciones, equipos médicos automatizados, equipos auxiliares, seguridad e integridad de la información, centros de servicio telefónico, de prestación de servicios de procesamiento electrónico de datos que contribuyan a la modernización de los procesos y flujos de trabajo del Instituto Mexicano del Seguro Social;
+
+III. Realizar los estudios necesarios a fin de llevar a cabo la contratación de servicios externos en materia de tecnologías de la información, así como la ejecución de las tareas de supervisión y evaluación de los mismos, de acuerdo con las políticas y lineamientos que rijan en la materia;
+
+IV. Mantener en óptimo estado la red de comunicación de datos, texto, video y voz del Instituto, así como todos aquellos elementos que intervienen directamente en su operación y funcionamiento; asimismo, supervisar que todos aquellos usuarios de la misma se apeguen a los lineamientos que permitan su conservación y correcto desempeño;
+
+V. Administrar los sistemas de información, bases de conocimientos y de datos que se generen a partir de los procesos inherentes al Instituto, así como vigilar su adecuado desempeño;
+
+VI. Integrar el presupuesto anual en materia de tecnologías de la información, y de control técnico de insumos del Instituto, adecuarlo y someterlo a la consideración de la Dirección de Planeación y Finanzas para los efectos conducentes;
+
+VII. Otorgar el soporte técnico especializado, así como la atención y solución oportuna de los aspectos operativos relacionados con la infraestructura de tecnologías de la información del Instituto, realizando la investigación y desarrollo de nuevas herramientas encaminadas al mejor desempeño;
+
+VIII. Suscribir los contratos y convenios relativos a su ámbito de competencia, así como los de colaboración e intercambio de información y tecnologías, con instancias tanto públicas como privadas, que incidan positivamente en el desempeño de las tareas propias del Instituto, así como en los recursos humanos que le asisten en sus funciones;
+
+IX. Analizar el desempeño de los sistemas de tecnologías de la información, con objeto de determinar y medir niveles de productividad en relación con las actividades encomendadas y, en su caso, realizar las actividades de rediseño necesarias para su optimización;
+
+X. Emitir lineamientos normativos para el mejoramiento y rediseño de los procesos y sistemas del instituto, con excepción de los que corresponden a la Dirección de Administración, Organización y Calidad conforme a lo dispuesto en la fracción IX del artículo 80 de este Reglamento;
+
+XI. Emitir, instrumentar y verificar el cumplimiento de las disposiciones técnicas en materia de telecomunicaciones que deben de observar todos los usuarios;
+
+XII. Sancionar el programa anual y requisiciones extraordinarias de bienes de inversión y recursos en materia de tecnologías de la información, necesarios para el adecuado funcionamiento de las áreas institucionales a nivel nacional;
+
+XIII. Emitir dictamen respecto de los contratos de servicios con consultores externos y por la adquisición, arrendamiento y mantenimiento de los equipos de cómputo, programas y paquetería de software que se pretendan celebrar;
+
+XIV. Determinar las necesidades de capacitación en materia de tecnologías de la información, desarrollando los programas necesarios para la actualización y capacitación al personal del Instituto, así como coordinar la impartición de dichos programas;
+
+XV. Coordinar la integración y funcionamiento de la Comisión y Comités Institucionales de Cuadros Básicos de Insumos, tanto nacionales como delegacionales, con excepción de aquellos que expresamente este Reglamento confiera a otras Unidades;
+
+XVI. Elaborar, con la participación de las Direcciones Normativas respectivas, la normatividad, así como los lineamientos generales que garanticen la calidad de los insumos y efectuar la difusión de los mismos;
+
+XVII. Identificar y seleccionar, en forma ordenada y lógica, los insumos que se incluyan en los cuadros básicos institucionales, con excepción de aquellos que expresamente este Reglamento confiera a otras Unidades;
+
+XVIII. Evaluar las propuestas que emitan las áreas correspondientes analizando la viabilidad y compatibilidad tecnológica de los nuevos productos y servicios para su posible desarrollo e incorporación al Instituto;
+
+XIX. Editar y difundir los cuadros básicos institucionales, con excepción de aquellos que expresamente este Reglamento confiera a otras Unidades;
+
+XX. Verificar y vigilar que los insumos en uso, o que se pretendan incluir en los cuadros básicos institucionales, cumplan con los estándares, normas y especificaciones de calidad;
+
+XXI. Evaluar y supervisar la calidad de los productos y los servicios de los proveedores, a que se refieren los incisos anteriores;
+
+XXII. Realizar estudios de impacto económico sobre los insumos en uso, o que se pretendan incluir en los cuadros básicos institucionales, sometiéndolos a consideración de las Direcciones Normativas que correspondan;
+
+XXIII. Evaluar la conveniencia y factibilidad de la celebración de convenios y contratos con la planta productiva nacional e internacional para el desarrollo de nuevos productos, de conformidad con legislación aplicable;
+
+XXIV. Analizar el impacto en el presupuesto por la inclusión o exclusión de insumos en los cuadros básicos institucionales y someterlo a la consideración de la Dirección correspondiente;
+
+XXV. Modificar o cancelar la normatividad aplicable a los bienes y artículos necesarios para el Instituto, en coordinación con las áreas normativas, en términos de la legislación de la materia, las Normas Oficiales Mexicanas y las Normas Mexicanas aplicables;
+
+XXVI. Coordinar las acciones para el cumplimiento de los compromisos del Instituto Mexicano del Seguro Social y de los programas especiales de carácter nacional, relacionados con la innovación, la aplicación de tecnologías de la información y el desarrollo tecnológico del Instituto y sus proveedores, y
+
+XXVII. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico y las que le encomiende la Dirección General.
 
 ###### ARTÍCULO 81.
 
@@ -1209,11 +1317,15 @@ XXII. La elaboración de estudios técnico jurídicos de los contratos colectivo
 
 XXIII. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico y las que le encomiende la Dirección General.
 
-### CAPÍTULO PRIMERO. DE LAS COORDINACIONES GENERALES
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+### CAPÍTULO ÚNICO. DE LA UNIDAD DE CONTRALORÍA INTERNA
+
+> <small>(F. DE E., D.O.F. 13 DE NOVIEMBRE DE 1998)</small>
 
 ## TÍTULO QUINTO
 
-### CAPÍTULO SEGUNDO. DE LAS COORDINACIONES
+### CAPÍTULO PRIMERO. DE LAS COORDINACIONES GENERALES
 
 ###### ARTÍCULO 82.
 
@@ -1231,7 +1343,9 @@ El Instituto proporcionará al Contralor Interno y a los titulares de las pareas
 
 ## TÍTULO SEXTO
 
-### CAPÍTULO PRIMERO. DE LOS CONSEJOS CONSULTIVOS REGIONALES
+### CAPÍTULO SEGUNDO. DE LAS COORDINACIONES
+
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
 
 #### SECCIÓN PRIMERA. DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL
 
@@ -1247,27 +1361,13 @@ III. Las demás que le asignen los reglamentos, instructivos, acuerdos del Conse
 
 ###### ARTÍCULO 84.
 
-La Coordinación General de Informática tendrá las facultades siguientes:
+(DEROGADO, D.O.F. 17 DE DICIEMBRE DE 2001)
 
-I. Definir la estrategia institucional en materia de informática en coordinación con las autoridades del Instituto y de acuerdo con los lineamientos establecidos por la Secretaría de Hacienda y Crédito Público;
+> <small>(REFORMADA SU DENOMINACION Y REUBICADA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
 
-II. Elaborar planes estratégicos a corto, mediano y largo plazo;
+#### SECCIÓN SEGUNDA. DE LA COORDINACIÓN GENERAL DE ATENCIÓN Y ORIENTACIÓN AL DERECHOHABIENTE
 
-III. Coordinar los servicios informáticos para que sean otorgados de acuerdo con la demanda y necesidades de las dependencias del Instituto, con el fin de optimizar y racionalizar su utilización;
-
-IV. Vigilar que se otorgue el soporte técnico especializado, así como la atención y solución oportuna de los aspectos operativos que se presenten derivados de la función de informática;
-
-V. Garantizar el establecimiento y cumplimiento de las normas y estándares requeridos para apoyar el desarrollo, la implantación y el mantenimiento de los sistemas IMSS de alcance nacional;
-
-VI. Definir los lineamientos para la evaluación permanente de los recursos de la Coordinación General de Informática y de las áreas de informática a nivel nacional a través de la actualización en materia de informática, que permita elevar el nivel de conocimientos y productividad de dicho personal;
-
-VII. Sancionar y aprobar los contratos de servicio con consultores externos y por la adquisición, arrendamiento y mantenimiento de los equipos de cómputo, programas y paquetería de software;
-
-VIII. Sancionar y autorizar la requisición anual y requisiciones extraordinarias de bienes de inversión y recursos informáticos necesarios para el buen funcionamiento de las áreas institucionales a nivel nacional, y
-
-IX. Coordinar las acciones para el cumplimiento a los Compromisos Presidenciales, a los del Director General del Instituto y programas especiales de carácter nacional, relacionados con informática.
-
-#### SECCIÓN SEGUNDA. DE LA COORDINACIÓN GENERAL DE INFORMÁTICA
+(REUBICADO, D.O.F. 17 DE DICIEMBRE DE 2001)
 
 ###### ARTÍCULO 85.
 
@@ -1285,17 +1385,19 @@ V. Aplicar en el ámbito de su competencia, el instructivo a que se refiere el a
 
 VI. Las demás que le confieran los reglamentos, instructivos, acuerdos del Consejo Técnico y las que le encomiende la Dirección General.
 
+> <small>(DEROGADA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
 #### SECCIÓN TERCERA. DE LA COORDINACIÓN GENERAL DE ATENCIÓN Y ORIENTACIÓN AL DERECHOHABIENTE
 
-### CAPÍTULO SEGUNDO. DE LAS DIRECCIONES REGIONALES
+### CAPÍTULO PRIMERO. DE LOS CONSEJOS CONSULTIVOS REGIONALES
 
 ###### ARTÍCULO 86.
 
-La Secretaría General, las Direcciones, la Unidad de Control Técnico de Insumos, la Contraloría Interna y las Coordinaciones Generales, para el eficaz desempeño de las atribuciones que les confieren la Ley, reglamentos y acuerdos del Consejo Técnico, así como las que les encomiende el Director General del Instituto, se integrarán con las Coordinaciones y unidades administrativas que sean autorizadas para el cumplimiento de sus funciones. Éstas tendrán a su cargo el desempeño de las atribuciones que les señalen los manuales de organización y operación.
+La Secretaría General, las Direcciones, las Unidades, la Contraloría Interna y las Coordinaciones Generales, para el eficaz desempeño de las atribuciones que les confieren la Ley, reglamentos y acuerdos del Consejo Técnico, así como las que les encomiende el Director General del Instituto, se integrarán con las Coordinaciones y unidades administrativas que sean autorizadas para el cumplimiento de sus funciones. Éstas tendrán a su cargo el desempeño de las atribuciones que les señalen los manuales de organización y operación.
 
 ## TÍTULO SÉPTIMO. DE LOS ÓRGANOS REGIONALES
 
-### CAPÍTULO PRIMERO. DE LOS CONSEJOS CONSULTIVOS DELEGACIONALES
+### CAPÍTULO SEGUNDO. DE LAS DIRECCIONES REGIONALES
 
 #### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES
 
@@ -1863,7 +1965,7 @@ En caso de duda sobre la aplicación de este Reglamento o de aspectos no previst
 
 #### SECCIÓN TERCERA. DE LA CIRCUNSCRIPCIÓN TERRITORIAL
 
-### CAPÍTULO SEGUNDO. DE LAS DELEGACIONES
+### CAPÍTULO PRIMERO. DE LOS CONSEJOS CONSULTIVOS DELEGACIONALES
 
 ###### ARTÍCULO 143.
 
@@ -1981,7 +2083,7 @@ XVIII. Las demás que le señalen la Ley, sus reglamentos, este Reglamento, los 
 
 Los delegados en su ámbito de competencia y circunscripción territorial, para la prestación de los servicios institucionales de manera operativa, ejercerán a través de sus unidades administrativas internas, las atribuciones conferidas en este Reglamento a las direcciones, y coordinaciones generales, salvo aquellas cuyo ejercicio expresamente limiten o se reserven éstas.
 
-### CAPÍTULO TERCERO. DE LOS ÓRGANOS OPERATIVOS
+### CAPÍTULO SEGUNDO. DE LAS DELEGACIONES
 
 ###### ARTÍCULO 152.
 
@@ -2703,7 +2805,7 @@ Tratándose de la incorporación voluntaria de las personas a que se refiere el 
 
 ## TÍTULO NOVENO. DE OTRAS UNIDADES ADMINISTRATIVAS
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO TERCERO. DE LOS ÓRGANOS OPERATIVOS
 
 ###### ARTÍCULO 161.
 
@@ -2716,6 +2818,8 @@ La creación de dichas unidades administrativas estará sujeta a la autorizació
 Las unidades administrativas contarán con los órganos de gobierno y decisión, gerencias, áreas administrativas, operativas y técnicas que establezca el Manual de Organización que apruebe el Consejo Técnico del Instituto.
 
 ## TÍTULO DÉCIMO. DE LAS SUPLENCIAS
+
+### CAPÍTULO ÚNICO
 
 ### CAPÍTULO ÚNICO
 
@@ -2776,3 +2880,9 @@ D.O.F. 13 DE OCTUBRE DE 1999.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Las modificaciones a las estructuras del Instituto Mexicano del Seguro Social que por virtud del presente Decreto se realicen, se harán de conformidad con los montos autorizados a dicho Instituto en el correspondiente Presupuesto de Egresos de la Federación.
+
+D.O.F. 17 DE DICIEMBRE DE 2001.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en el artículo siguiente.
+
+SEGUNDO. Las modificaciones a las estructuras del Instituto Mexicano del Seguro Social a que se refiere este Decreto, aprobadas por su Consejo Técnico mediante Acuerdos números 177/2001 de fecha 25 de abril de 2001 y 424/2001 del 22 de agosto del mismo año, se harán de conformidad con los montos autorizados a dicho Instituto en el correspondiente Presupuesto de Egresos de la Federación y la renivelación salarial correspondiente a dichas estructuras operará a partir de la fecha que fue autorizada por el Consejo Técnico de ese Instituto.
