@@ -4,7 +4,7 @@ identifier: "MOR-codigo-electoral-para-el-estado-de-morelos-10583"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-11-28"
-last_updated: "2002-09-27"
+last_updated: "2002-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10583&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 CODIGO ELECTORAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON LA ACCION DE INCONSTITUCIONALIDAD 31/2002, PUBLICADA EN EL P.O. DE 25 DE DICIEMBRE DE 2002, SE DECLARA LA INVALIDEZ DE LA REFORMA A LA FRACCION IV DEL ARTICULO 22, PUBLICADA EN EL P.O. DE 27 DE SEPTIEMBRE DEL MISMO AÑO, MOTIVO POR EL CUAL SE DEJA EL TEXTO VIGENTE A ESA FECHA.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el jueves 28 de noviembre de 1996.
 
@@ -365,13 +367,9 @@ II.- Ningún partido político podrá contar con más de 18 diputados electos po
 
 III.- Sólo tendrán derecho a participar en la asignación de diputados según el principio de representación proporcional, los partidos políticos que alcancen el 3% del total de la votación emitida en el Estado;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+> <small>N. DE E. DE CONFORMIDAD CON LA ACCION DE INCONSTITUCIONALIDAD 31/2002, PUBLICADA EN EL P.O. DE 25 DE DICIEMBRE DE 2002, SE DECLARA LA INVALIDEZ DE LA REFORMA A LA PRESENTE FRACCION, PUBLICADA EN EL P.O. DE 27 DE SEPTIEMBRE DEL MISMO AÑO, MOTIVO POR EL CUAL SE DEJA EL TEXTO VIGENTE A ESA FECHA.</small>
 
-IV.- Para asignar Diputaciones de representación proporcional aún pendientes de distribuir, se estará a lo siguiente:
-
-1.- De la votación total emitida se sumará el porcentaje obtenido por dichos Partidos Políticos y se dividirá entre el número total de diputaciones pendientes de asignar, el resultado que se obtenga será el cociente de distribución electoral.
-
-2.- Si después de efectuar la asignación prevista en el párrafo anterior, quedaren Diputaciones por asignar, se distribuirán a los Partidos Políticos que tengan en el orden decreciente el resto mayor.
+IV.- El cociente natural es el resultado de dividir la votación estatal efectiva entre el total de diputados integrantes del Congreso;
 
 V.- De la votación estatal efectiva que obtenga cada partido político, se deducirán los votos que resulten de multiplicar el cociente natural por el número de distritos de mayoría obtenidos por cada partido político, con el remanente de votos que resulte a cada partido, se procederá la distribución de diputaciones por representación proporcional, asignado (sic) tantas diputaciones como número de cociente naturales (sic) obtenga cada partido; y
 
@@ -5110,3 +5108,17 @@ QUINTO.- Los artículos 72 y 93 Bis 6, entrarán en vigor a partir del primer d�
 SEXTO.- Todas las disposiciones de este Código en las que se disponga "esta ley", se referirá a lo dispuesto en este ordenamiento.
 
 SÉPTIMO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+P.O. 25 DE DICIEMBRE DE 2002.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS PUNTOS RESOLUTORIOS DE LA ACCION DE INCONSTITUCIONALIDAD 31/2002 QUE DECLARA INVALIDA LA REFORMA A LA FRACCION IV DEL ARTICULO 22 DE FECHA 27 DE SEPTIEMBRE DE 2002.</small>
+
+PRIMERO.- Es procedente y fundada la presente acción de inconstitucionalidad, promovida por el Partido de la Revolución Democrática.
+
+SEGUNDO.- Se declara la invalidez de las reformas a la fracción IV del artículo 22, del Código Electoral para el Estado de Morelos, publicadas en el Periódico Oficial de dicha entidad, el veintisiete de septiembre de dos mil dos, en términos y para los efectos señalados en el considerando séptimo de esta ejecutoria.
+
+TERCERO.- Requiérase al Congreso del Estado de Morelos para que, en el ámbito de sus atribuciones, proceda a dar cumplimiento a la presente resolución conforme a los lineamientos dados en la parte considerativa de este fallo.
+
+CUARTO.- Esta Ejecutoria surtirá plenos efectos, al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+QUINTO.- Publíquese esta resolución en el Semanario Judicial de la Federación y su Gaceta, en el Diario Oficial de la Federación, y en el Periódico Oficial del Estado de Morelos.
