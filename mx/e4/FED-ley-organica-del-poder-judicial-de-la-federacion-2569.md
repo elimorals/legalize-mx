@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "1995-05-26"
+last_updated: "1996-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE NOVIEMBRE DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -611,6 +611,32 @@ k) Los señalados en el artículo 389 del Código Penal, cuando se prometa o se 
 l) Los cometidos por o en contra de funcionarios electorales federales o de funcionarios partidistas en los términos de la fracción II del artículo 401 del Código Penal;
 
 II. De los procedimientos de extradición, salvo lo que se disponga en los tratados internacionales.
+
+> <small>(ADICIONADA, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
+
+III.- De las autorizaciones para intervenir cualquier comunicación privada.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
+
+###### ARTICULO 50
+
+BIS.- En materia federal, la autorización para intervenir las comunicaciones privadas, será otorgada de conformidad con la ley federal en materia de delincuencia organizada.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
+
+###### ARTICULO 50
+
+TER.- Cuando la solicitud de autorización de intervención de comunicaciones privadas, sea formulada en los términos previstos en las legislaciones locales, por el titular del Ministerio Público de alguna entidad federativa, exclusivamente se concederá si se trata de los delitos de homicidio, asalto en carreteras o caminos, robo de vehículos, privación ilegal de la libertad o secuestro y tráfico de menores, todos ellos previstos en el Código Penal para el Distrito Federal en materia de fuero común y para toda la República en materia de fuero federal, o sus equivalentes en las legislaciones penales locales.
+
+La autorización se otorgará únicamente al titular del Ministerio Público de la entidad federativa, cuando se constate la existencia de indicios suficientes que acrediten la probable responsabilidad en la comisión de los delitos arriba señalados. El titular del Ministerio Público será responsable de que la intervención se realice en los términos de la autorización judicial. La solicitud de autorización deberá contener los preceptos legales que la fundan, el razonamiento por el que se considera procedente, el tipo de comunicaciones, los sujetos y los lugares que serán intervenidos, así como el periodo durante el cual se llevarán a cabo las intervenciones, el cual podrá ser prorrogado, sin que el periodo de intervención, incluyendo sus prórrogas, pueda exceder de seis meses. Después de dicho plazo, sólo podrán autorizarse nuevas intervenciones cuando el titular del Ministerio Público de la entidad federativa acredite nuevos elementos que así lo justifiquen.
+
+En la autorización, el juez determinará las características de la intervención, sus modalidades y límites y, en su caso, ordenará a instituciones públicas o privadas, modos específicos de colaboración.
+
+En la autorización que otorgue el juez deberá ordenar que, cuando en la misma práctica sea necesario ampliar a otros sujetos o lugares la intervención, se deberá presentar ante el propio juez, una nueva solicitud; también ordenará que al concluir cada intervención se levante un acta que contendrá un inventario pormenorizado de las cintas de audio o video que contengan los sonidos o imágenes captadas durante la intervención, así como que se le entregue un informe sobre sus resultados, a efecto de constatar el debido cumplimiento de la autorización otorgada.
+
+El juez podrá, en cualquier momento, verificar que las intervenciones sean realizadas en los términos autorizados y, en caso de incumplimiento, decretar su revocación parcial o total.
+
+En caso de no ejercicio de la acción penal y una vez transcurrido el plazo legal para impugnarlo sin que ello suceda, el juez que autorizó la intervención, ordenará que se pongan a su disposición las cintas resultado de las intervenciones, los originales y sus copias y ordenará su destrucción en presencia del titular del Ministerio Público de la entidad federativa.
 
 ###### ARTICULO 51.
 
@@ -1799,3 +1825,11 @@ DECIMO QUINTO. Las resoluciones del Pleno de la Suprema Corte de Justicia de la 
 México, D.F., a 19 de mayo de 1995.- Sen. Germán Sierra Sánchez, Presidente.- Dip. Alejandro Zapata Perogordo, Presidente.- Sen. Angel Ventura Valle, Secretario.- Dip. Anastacia Guadalupe Flores Valdez, Secretaria.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinticinco días del mes de mayo de mil novecientos noventa y cinco.- El Presidente Constitucional de los Estados Unidos Mexicanos.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Esteban Moctezuma Barragán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 7 DE NOVIEMBRE DE 1996.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los artículos 167, fracción IX, y 196 bis del Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal, vigentes hasta la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código Penal.
