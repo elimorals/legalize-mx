@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-municipal-del-estado-libre-y-soberano-de-7272"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-06-09"
-last_updated: "1995-09-20"
+last_updated: "2004-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1995.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL PERIODICO OFICIAL EL 20 DE DICIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 9 de junio de 1986.
 
@@ -1884,3 +1886,13 @@ P.O. 20 DE SEPTIEMBRE DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2004.
+
+PRIMERO.- La Presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley Orgánica Municipal del Estado Libre y Soberano de Quintana Roo, expedida mediante decreto 59 de la Honorable IV Legislatura del Estado de Quintana Roo.
+
+TERCERO.- Los Ayuntamientos contarán con el plazo de un año a partir de la entrada en vigor de la presente Ley, para expedir los reglamentos a que hace referencia la misma. Hasta en tanto, aquellos Municipios que no cuenten con una reglamentación, aplicarán la legislación estatal de la materia.
+
+CUARTO.- Se derogan todas aquellas disposiciones que contravengan a la presente Ley.
