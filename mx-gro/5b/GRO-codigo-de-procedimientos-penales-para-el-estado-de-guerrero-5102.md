@@ -4,7 +4,7 @@ identifier: "GRO-codigo-de-procedimientos-penales-para-el-estado-de-guerrero-510
 country: "mx"
 rank: "codigo"
 publication_date: "1993-02-05"
-last_updated: "1995-03-31"
+last_updated: "1999-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUERRERO, NUMERO 357
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 5 de febrero de 1993.
 
@@ -530,6 +530,10 @@ En estos supuestos el Ministerio Público, bajo su responsabilidad, ordenará su
 ###### Artículo 70.
 
 Se califican como delitos graves para todos los efectos legales, los siguientes: homicidio, previsto en los Artículos 103, 104 y 108; secuestro, señalado por los Artículos 128 y 129; asalto contra un poblado, a que se refiere el Artículo 136; violación, señalado por los artículos 139 al 142; robo, contenido en el Artículo 163 fracción III, en relación con el 164; extorsión, previsto por el Artículo 174 segundo párrafo, cuando sea cometido por agentes policiales; ataque a los medios de transporte, previsto en el Artículo 206; rebelión, previsto en los artículos del 229 al 232, con excepción de la parte final del Artículo 230; terrorismo, previsto en el Artículo 234 en su primer párrafo, y sabotaje, previsto en el Artículo 235 fracciones I, II y III, todos del Código Penal Vigente.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 1999)</small>
+
+También se califican como delitos graves para todos los efectos legales, los siguientes: Contra la Administración de Justicia cometidos por Servidores Públicos, previsto en la fracción XXIX del artículo 269; así como el delito de evasión de presos contenido en el artículo 273, ambos del Código Penal del Estado de Guerrero.
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 1995)</small>
 
@@ -1508,3 +1512,7 @@ Rúbrica.
 P.O. 31 DE MARZO DE 1995.
 
 UNICO.- El presente Decreto surtirá efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE SEPTIEMBRE DE 1999.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
