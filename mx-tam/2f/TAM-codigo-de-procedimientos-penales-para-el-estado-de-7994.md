@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "1999-06-05"
+last_updated: "1999-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -635,7 +635,9 @@ Si no cumplieren con lo anterior, cambien de domicilio sin dar aviso al Tribunal
 
 Los funcionarios a quienes se encomiende hacer las notificaciones no podrán delegar esa actividad y asentarán el día y hora en que se verifique, leyendo la resolución, asistiéndose del traductor si la persona por notificarse no habla o no entiende suficientemente el idioma español, y dando copia al interesado si la pidiere.
 
-Las notificaciones se practicarán por el Secretario del Tribunal que actúe.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1999)</small>
+
+Las notificaciones se practicarán por el actuario o secretario del tribunal que actúe.
 
 ###### ARTICULO 95.
 
@@ -723,15 +725,21 @@ Al iniciar el procedimiento el Ministerio Público o la policía judicial, se tr
 
 El Ministerio Público y la Policía Judicial a su mando están obligados a detener al responsable, sin esperar a tener orden judicial, en delito flagrante o en caso urgente.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 108.
 
-Se entiende que existe delito flagrante no solo cuando la persona es detenida en el momento de estarlo cometiendo, sino cuando después de ejecutado el hecho delictuoso, el inculpado es perseguido materialmente o cuando en el momento de haberlo cometido, alguien lo señala como responsable del delito, y se encuentra en su poder el objeto del mismo, el instrumento con que aparezca cometido o huellas o indicios que hagan presumir fundadamente su culpabilidad.
+Se entiende que existe flagrancia cuando:
 
-En esos casos el Ministerio Público iniciará desde luego la averiguación previa y bajo su responsabilidad, según proceda, decretará la retención del indiciado si están satisfechos los requisitos de procedibilidad y el delito merezca pena privativa de libertad, o bien ordenará la libertad del detenido, cuando la sanción sea no privativa de libertad, o bien alternativa.
+I.- El inculpado es detenido en el momento de estar cometiendo el delito;
 
-La violación de esta disposición hará penalmente responsable al Ministerio Público que decrete la indebida retención y el indiciado deberá ser puesto en inmediata libertad.
+II.- Inmediatamente después de ejecutado el delito, el inculpado es perseguido materialmente; o
+
+III.- El inculpado es señalado como responsable por la víctima, algún testigo presencial de los hechos o quien hubiere participado con él en la comisión del delito, o se encuentre en su poder el objeto, instrumento o producto del delito, o bien, aparezcan huellas o indicios que hagan presumir fundadamente su participación en el delito; siempre y cuando se trate de delito grave, así calificado por la ley, no haya transcurrido un plazo de cuarenta y ocho horas desde el momento de la comisión de los hechos delictivos y no se hubiere interrumpido la persecución del delito.
+
+En esos casos el Ministerio Público iniciará, desde luego, la averiguación previa si aún no lo ha hecho y bajo su responsabilidad, según proceda, decretará la retención del indiciado si están satisfechos los requisitos de procedibilidad y el delito merezca pena privativa de libertad, o bien, ordenará la libertad del detenido cuando la sanción sea no privativa de libertad o alternativa.
+
+La violación de esta disposición hará penalmente responsable a quien decrete la indebida retención y la persona detenida deberá ser puesta de inmediato en libertad.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
@@ -749,7 +757,13 @@ El Ministerio Público al emitir la orden de detención en caso urgente deberá 
 
 La orden mencionada será ejecutada por la Policía Judicial, quien deberá sin dilación alguna, poner al detenido a disposición del Ministerio Público que la haya librado.
 
-Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves, los siguientes: "Atentados a la soberanía del Estado previsto por el artículo 143; evasión de presos previsto por el artículo 158 en los casos a que se refieren la segunda parte del artículo 159 y el artículo 160; ataques a los medios de transporte previsto por el artículo 174; corrupción de menores en los casos del segundo párrafo del artículo 193 y en el artículo 195; tortura previsto por el artículo 213; cohecho previsto por los artículos 216 en relación con el 217 fracción II; peculado previsto por los artículos 218 en relación con el artículo 219 fracción II; concusión previsto por los artículos 220 en relación con el 221 fracción II; uso indebido de atribuciones y facultades previsto por los artículos 222 en relación con el 223 fracción II; ejercicio abusivo de funciones previsto por los artículos 226 en relación con el 227 fracciones II y III; enriquecimiento ilícito previsto por los artículos 230 en relación con el 231 fracción III; violación previsto en los artículos 273, 274, 275, 276, 277; asalto previsto en los artículos 313, 314 y 315; homicidio culposo previsto por el artículo 318; homicidio previsto en los artículos 329 con relación al 333, 335 fracción V, 336, 337, 349, 350 en relación con el 351, 352, en relación con el 353 y 354; secuestro previsto en el artículo 391 exceptuando el caso contemplado en el artículo 392; robo previsto por el artículo 399 cuando se realice en cualquiera de las circunstancias señaladas en los artículos 405, 406, 407 fracciones I, VIII, IX y X, 409 exceptuando de éste los casos en que por el valor de lo robado se esté en la hipótesis del artículo 402 fracción I, 410 exceptuando de éste el caso previsto en su última parte cuando el monto de lo robado no exceda del señalado en el artículo 402 fracción I, y 411; extorsión previsto por el artículo 426; y daño en propiedad en los casos previstos por el artículo 435, todos del Código Penal para el Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1999)</small>
+
+Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves, los siguientes: Atentados a la soberanía del Estado previsto por el artículo 143; evasión de presos previsto por el artículo 158 en los casos a que se refieren la segunda parte del artículo 159 y el artículo 160; ataques a los medios de transporte previsto por el artículo 174; corrupción de menores en los casos del segundo párrafo del Artículo 193 y en el artículo 195; tortura previsto por el artículo 213; cohecho previsto por los artículos 216 en relación con el 217 fracción II; peculado previsto por los artículos 218 en relación con el artículo 219 fracción II; concusión previsto por los artículos 220 en relación con el 221 fracción II; uso indebido de atribuciones y facultades previsto por los artículos 222 en relación con el 223 fracción II; ejercicio abusivo de funciones previsto por los artículos 226 en relación con el 227 fracciones II y III; enriquecimiento ilícito previsto por los artículos 230 en relación con el 231 fracción III; violación previsto en los artículos 273, 274, 275, 276 y 277; asalto previsto en los artículos 313 en relación con el 314 y 315; lesiones previsto por el artículo 319 en relación con el 322 fracción III; homicidio culposo previsto por el artículo 318; homicidio previsto en los artículos 329 con relación al 333, 335, 336, 337, 349; 350 en relación con el 351; 352 en relación con el 353 y 354; secuestro previsto en el artículo 391 exceptuando el caso contemplado en el artículo 392; robo previsto por el artículo 399 cuando se realice en cualquiera de las circunstancias señaladas en los artículos 405, 406, 407 fracciones I, VIII, IX y X, 409 exceptuando de éste los casos en que por el valor de lo robado se esté en la hipótesis del Artículo 402 fracción I; 410 exceptuando de éste el caso previsto en su última parte cuando el monto de lo robado no exceda del señalado en el Artículo 402 fracción I, y 411; extorsión previsto por el artículo 426; y daño en propiedad en los casos previstos por el artículo 435, todos del Código Penal para el Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 1999)</small>
+
+La tentativa punible de los ilícitos penales mencionados en el párrafo anterior, también se califica como delito grave.
 
 > <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1994)</small>
 
@@ -1257,11 +1271,11 @@ I.- Que el Ministerio Público la haya solicitado; y
 
 II.- Que se reúnan los requisitos fijados por el Artículo 16 de la Constitución Federal.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 172.
 
-La orden de aprehensión o comparecencia que el juez dicte, se entregará al Ministerio Público para su debido cumplimiento.
+La orden de aprehensión que el Juez dicte se entregará al Ministerio Público para su debido cumplimiento. Igualmente se procederá cuando el Juez autorice medios de apremio para ejecutar una orden de comparecencia en los términos del artículo 183 de este Código.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
@@ -1305,7 +1319,9 @@ El juez está obligado a hacer saber al detenido en ese acto:
 
 I.- El motivo de su detención, leyéndole la denuncia o la querella; el nombre de la persona o personas que le imputan la comisión del delito o delitos; su naturaleza y causa de la acusación, para que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo;
 
-II.- La garantía de libertad caucional en los casos en que proceda y el procedimiento para obtenerla;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 1999)</small>
+
+II.- La garantía de libertad caucional y el derecho al sustitutivo de la pena de prisión en los casos en que procedan, así como el procedimiento para obtenerlas, pudiendo hacerle las preguntas a que se refiere el artículo 336 bis de este código;
 
 > <small>(REFORMADA, P.O. 25 DE JUNIO DE 1994)</small>
 
@@ -1334,6 +1350,10 @@ Recibida la declaración preparatoria o, en su caso, la manifestación del incul
 ###### ARTICULO 183.
 
 En los casos en que el delito no merezca sanción privativa de libertad o por corresponderle sanción alternativa que incluya una no privativa de libertad, no dé lugar a aprehensión del inculpado, el Ministerio Público al ejercer la acción penal solicitará al juez competente que libre orden de comparecencia, para que el inculpado rinda su declaración preparatoria.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 1999)</small>
+
+Se entiende por orden de comparecencia el mandamiento mediante el cual el Juez requiere a un indiciado para que acuda al local del Tribunal en la fecha y hora indicada, a fin de hacerle saber el contenido del artículo 178 de este Código, en lo conducente, y rinda su declaración preparatoria, apercibiéndolo de que, de no comparecer, se usarán los medios de apremio para lograr su presentación. Sólo se despacharán los medios de apremio para lograr la presentación forzada de una persona cuando, después de haberla citado personalmente para que acuda en forma voluntaria, hubiere desatendido el mandamiento. En este último caso, quien ejecute el medio de apremio deberá presentar al indiciado, sin dilación alguna, ante el Juez respectivo.
 
 ###### ARTICULO 184.
 
@@ -2287,6 +2307,10 @@ En la audiencia, el Juez, después de recibir las pruebas que legalmente puedan 
 
 Contra los acuerdos que nieguen o admitan las pruebas a que se refiere el Artículo 333 o el desahogo de las mismas, no procede recurso alguno.
 
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 1999)</small>
+
+ARTICULO 336 BIS.- Cuando la pena a imponerse pueda ser sustituida por una no privativa de la libertad, desde la diligencia de la declaración preparatoria y hasta la audiencia de vista, el Juez y las partes podrán formular preguntas al procesado en relación con sus circunstancias personales y familiares, a efecto de que el juzgador tenga mejores elementos de juicio para la determinación de las modalidades del sustitutivo penal que, en su caso, se le puedan imponer, de encontrarlo culpable. De igual forma se escuchará a la víctima u ofendido y a los familiares del procesado, que podrán acudir si lo desean, para lo cual deberá citárseles oportunamente si tienen señalado su domicilio en autos, sin que la falta de citación a dichos terceros origine la reposición del procedimiento.
+
 ### CAPITULO III. SENTENCIA
 
 ###### ARTICULO 337.
@@ -2451,11 +2475,15 @@ III.- Los autos que concedan o nieguen la acumulación cuando los procesos se co
 
 IV.- Todas aquellas resoluciones contra las cuales se conceda expresamente el recurso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 364.
 
-Son apelables en ambos efectos solamente las sentencias definitivas en que se imponga alguna sanción, así como en los casos establecidos expresamente por la Ley. Las sentencias definitivas en que se imponga alguna sanción y de cuyo juicio hubiere conocido un Jurado Popular, serán apelables para el solo efecto de reponer el procedimiento en los casos previstos por el Artículo 381, fracciones de la VII a la XI, inclusive.
+Son apelables en ambos efectos las resoluciones que expresamente establezca la Ley, así como las sentencias definitivas en que se imponga alguna pena o medida de seguridad, hecha excepción de los casos en que, habiéndose impuesto una pena sustitutiva de prisión, sólo se impugnan sus modalidades.
+
+Son apelables en el efecto devolutivo los autos que resuelvan el incidente sobre la procedencia y ejecución de penas sustitutivas de prisión.
+
+Las sentencias definitivas en que se imponga alguna sanción y de cuyo juicio hubiere conocido un Jurado Popular, serán apelables para el solo efecto de reponer el procedimiento en los casos previstos por el artículo 381, fracciones de la VII a la XI, inclusive.
 
 El efecto devolutivo no suspende el procedimiento.
 
@@ -2715,6 +2743,10 @@ d).- La naturaleza de la garantía que se ofrezca.
 
 Cuando se trate de delitos calificados como graves, si la sentencia de primera instancia recurrida por el inculpado lo condena a una pena que no exceda de cinco años de prisión, tendrá derecho a ser puesto en libertad provisional bajo caución si se reúnen los requisitos señalados en las fracciones I, II y III de este artículo.
 
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 1999)</small>
+
+Aún tratándose de delitos no graves, a solicitud del Ministerio Público, el Juez podrá negar la libertad provisional cuando el inculpado haya sido condenado con anterioridad por algún delito calificado como grave por la Ley.
+
 ###### ARTICULO 396.
 
 La libertad bajo caución podrá pedirse en cualquier tiempo por el inculpado, por su defensor o por el legítimo representante de aquél.
@@ -2759,33 +2791,39 @@ La caución podrá consistir:
 
 I.- En depósito en efectivo hecho por el inculpado o por terceras personas en la Tesorería General del Estado o en la Oficina Fiscal del Estado que le corresponda, expidiéndose por tales autoridades el certificado o comprobante para ser entregado ante la autoridad que conozca el caso, tomándose razón de ello en autos; cuando por razón de la hora o por ser día inhábil no pueda constituirse el depósito directamente en la Tesorería General del Estado o en la Oficina Fiscal que corresponda, se recibirá la cantidad exhibida mandándose depositar en aquellas oficinas el primer día hábil siguiente;
 
-(REFORMADA, P.O. 25 DE JUNIO DE 1994) (F. DE E., P.O. 24 DE AGOSTO DE 1994)
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 1999)</small>
 
-II.- En hipoteca otorgada por el inculpado o por terceras personas, sobre inmuebles que no tengan gravamen alguno o cuyo valor catastral sea cuando menos el triple del monto de la suma fijada como caución;
+II.- En hipoteca otorgada en acta ante el propio Juez por el inculpado o por terceras personas sobre inmuebles ubicados en el Estado, que no tengan gravamen y cuyo valor comercial, fijado por un perito debidamente autorizado, sea cuando menos el doble del monto de la suma fijada como caución. En este caso sólo se tendrá por otorgada la caución, cuando se exhiba ante el Juez la copia certificada del acta correspondiente debidamente inscrita en el Registro Público de la Propiedad;
 
 > <small>(REFORMADA, P.O. 25 DE JUNIO DE 1994)</small>
 
 III.- En fideicomiso de garantía formalmente otorgado;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 1999)</small>
 
-IV.- En prenda, en cuyo caso el bien mueble deberá tener un valor de mercado de cuando menos tres veces el monto de la suma fijada como caución; y
+IV.- En prenda otorgada en acta ante el propio Juez por el inculpado o por terceras personas, en cuyo caso el bien mueble, a juicio del perito nombrado por el Juez, deberá tener un valor de mercado de cuando menos tres veces el monto de la suma fijada como caución; y no podrá acordarse que el otorgante quede como depositario del bien mueble. Todos los gastos originados con motivo del depósito serán por cuenta del otorgante; y
 
-> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 1999)</small>
 
-V.- En fianza personal bastante que podrá constituirse en el expediente;
+V.- En fianza personal bastante que podrá constituirse en el expediente, cuando el monto de la caución no exceda de cincuenta y tres días de salario.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 402.
 
-Cuando la fianza personal exceda de veinte días de salario el fiador deberá comprobar que tiene bienes raíces en el Estado, inscritos en el Registro Público de la Propiedad, cuyo valor sea cuando menos tres veces mayor al monto de lo señalado como garantía.
+Cuando la fianza sea personal, el fiador deberá comprobar que tiene bienes raíces en el Estado, inscritos en el Registro Público de la Propiedad, libres de gravamen, cuyo valor sea cuando menos tres veces mayor al monto de la suma fijada como caución.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 403.
 
-Cuando se ofrezca como garantía fianza personal por cantidad mayor de treinta días salario o hipoteca, se deberá presentar el certificado de libertad de gravámenes expedido por el Registro Público de la Propiedad, que comprenda un término de diez años y constancias de estar al corriente en el pago del impuesto predial, para que se califique la solvencia.
+Cuando se ofrezca como garantía fianza personal, se deberá presentar certificado de libertad de gravámenes expedido por el Registro Público de la Propiedad, que comprenda un término de diez años y constancias de estar al corriente en el pago del impuesto predial para que se califique la solvencia.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 404.
 
-El fiador propuesto, salvo cuando se trate de empresas afianzadoras, deberá declarar ante la autoridad correspondiente, bajo protesta de decir verdad, acerca de las fianzas judiciales que con anterioridad haya otorgado, así como de la cuantía y circunstancias de las mismas, para que esa declaración se tome en cuenta al calificar su solvencia.
+El fiador propuesto deberá declarar ante la autoridad correspondiente, bajo protesta de decir verdad, acerca de las fianzas judiciales que con anterioridad haya otorgado, así como de la cuantía y circunstancias de las mismas para que esa declaración se tome en cuenta al calificar su solvencia.
 
 ###### ARTICULO 405.
 
@@ -2837,9 +2875,11 @@ III.- Cuando con posterioridad se demuestre la insolvencia del fiador; y
 
 IV.- En los casos del Artículo 412 de este Código.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 409.
 
-En el caso de las fracciones I, II, III y VII del Artículo 407 se mandará reaprehender al inculpado y la caución se hará efectiva, a cuyo efecto se enviará el certificado de depósito a la oficina recaudadora que corresponda, y en su caso el testimonio de la hipoteca a la oficina administrativa correspondiente, para que ejerza las acciones relativas, a fin de hacer efectivo el crédito hipotecario.
+En los casos de las fracciones I, II, III y VII del artículo 407 se mandará reaprehender al inculpado y la caución se hará efectiva, a cuyo efecto se enviará el certificado de depósito a la oficina recaudadora que corresponda, o, en su caso, se sacarán a remate los bienes dados en prenda o hipoteca conforme a las disposiciones aplicables de la Ley Procesal Civil.
 
 ###### ARTICULO 410.
 
@@ -3157,7 +3197,9 @@ Una vez iniciado el procedimiento judicial, no se podrá suspender sino en los c
 
 I.- Cuando el responsable se hubiere sustraído a la acción de la justicia;
 
-II.- Cuando después de incoado el procedimiento se descubriere que el delito es de aquellos respecto de los cuales, conforme a la Ley, no se puede proceder sin que sean llenados determinados requisitos y éstos no se hubieren cumplido;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 19 DE JUNIO DE 1999)</small>
+
+II.- Cuando después de incoado el procedimiento se descubriere que el delito es de aquellos respecto de los cuales, conforme a la Ley, no se puede proceder sin que sean llenados determinados requisitos y éstos no se hubieren cumplido; en este caso la resolución correspondiente será apelable en el efecto devolutivo;
 
 III.- En el caso del Artículo 71 del Código Penal; y
 
@@ -3339,9 +3381,29 @@ El fallo condenatorio en este incidente será apelable en ambos efectos, pudiend
 
 La sentencia condenatoria será ejecutada por el propio Juez, ajustándose a las disposiciones sobre ejecución de sentencias del Código Procesal Civil.
 
-### CAPITULO IX. INCIDENTES NO ESPECIFICADOS
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE JUNIO DE 1999)</small>
 
-### CAPITULO UNICO
+### CAPITULO IX. SUSTITUCION DE SANCIONES
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 1999)</small>
+
+ARTICULO 495 BIS.- A petición de las partes, el Juez que conozca o hubiere conocido de la causa resolverá incidentalmente sobre cualquier cuestión relacionada con el otorgamiento, modificación, suspensión temporal, revocación y ejecución de las medidas sustitutivas de la pena de prisión. Dichos incidentes podrán promoverse antes y después de dictada la sentencia según el caso, y se substanciarán por separado y del modo siguiente:
+
+I.- Con la promoción del Ministerio Público o de la autoridad ejecutora por conducto de aquél, o bien del procesado o sentenciado, se dará vista a la parte contraria para que conteste en un término máximo de ocho días;
+
+II.- Si el tribunal lo creyere necesario o alguna de las partes lo pidiere, se abrirá un término de prueba que no exceda de diez días; y
+
+III.- Concluidos dichos plazos se citará a las partes, a la víctima u ofendido y a los familiares del inculpado si tienen señalado domicilio en autos, para una audiencia dentro de los tres días siguientes, en la que el tribunal resolverá después de escuchar a los comparecientes. En caso de haberse promovido el incidente antes de la sentencia, la resolución incidental se reservará para dictarse conjuntamente con la definitiva.
+
+Las partes podrán formular preguntas al inculpado en relación con sus circunstancias personales y familiares, a efecto de que el Juez tenga mejores elementos de juicio para la determinación de las modalidades del sustitutivo penal que, en su caso, se le puedan imponer, de encontrarlo culpable. De igual forma se escuchará a la víctima u ofendido y a los familiares del procesado que podrán acudir si lo desean, para lo cual deberá citárseles oportunamente.
+
+La falta de citación a la víctima, a los ofendidos y a los familiares del inculpado en ningún caso ocasionará la reposición del procedimiento.
+
+No se dará trámite a los incidentes notoriamente improcedentes.
+
+(REUBICADO, P.O. 19 DE JUNIO DE 1999)
+
+### CAPITULO X. INCIDENTES NO ESPECIFICADOS
 
 ###### ARTICULO 496.
 
@@ -3367,7 +3429,7 @@ Desahogada la vista a que se refiere el Artículo anterior o transcurrido el pla
 
 ## TITULO NOVENO. PROCEDIMIENTO PARA INIMPUTABLES
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO UNICO
 
 ###### ARTICULO 501.
 
@@ -3409,7 +3471,7 @@ No procederá recurso alguno contra cualquier auto o resolución distinta a los 
 
 ## TITULO DECIMO. PROCEDIMIENTO DE EJECUCION
 
-### CAPITULO II. CONDENA CONDICIONAL
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 507.
 
@@ -3447,7 +3509,7 @@ La ejecución de la sentencia en lo relativo a la reparación del daño a cargo 
 
 Cuando los tribunales decreten la pérdida, en favor del Estado, de instrumentos y objetos del delito, la confiscación de cosas peligrosas o nocivas o el decomiso de bienes pertenecientes al enriquecimiento ilícito a que se refieren los Artículos 63, 64 y 65 del Código Penal, se pondrán a disposición del Ejecutivo para los efectos a que se refieren las disposiciones legales citadas.
 
-### CAPITULO III. RECONOCIMIENTO DE INOCENCIA E INDULTO
+### CAPITULO II. CONDENA CONDICIONAL
 
 ###### ARTICULO 516.
 
@@ -3465,7 +3527,7 @@ Si el inculpado o su defensor no hubieren solicitado en sus conclusiones el otor
 
 Cuando por alguna de las causas que señala la Ley deba hacerse efectiva la sanción impuesta, el Tribunal que concedió la condena condicional, con audiencia del Ministerio Público, del reo y de su defensor, si fuera posible, procederá en vista de las pruebas existentes, a revocar el beneficio concedido, ordenando la ejecución de la sanción impuesta.
 
-### CAPITULO IV. REHABILITACION
+### CAPITULO III. RECONOCIMIENTO DE INOCENCIA E INDULTO
 
 ###### ARTICULO 520.
 
@@ -3511,7 +3573,7 @@ El indulto sólo se concederá de acuerdo con lo dispuesto por los Artículos 11
 
 El Ejecutivo, en vista de los comprobantes a que se refiere el Artículo anterior o si así conviniere a la tranquilidad y seguridad públicas, concederá o no el indulto.
 
-### CAPITULO V. CONMUTACION DE SANCIONES
+### CAPITULO IV. REHABILITACION
 
 ###### ARTICULO 528.
 
@@ -3547,7 +3609,7 @@ Concedida la rehabilitación por el Ejecutivo, se comunicará la resolución al 
 
 Al que una vez se le hubiere concedido la rehabilitación, no se le podrá conceder otra.
 
-### CAPITULO UNICO. DE LOS JUICIOS DE RESPONSABILIDAD
+### CAPITULO V. CONMUTACION DE SANCIONES
 
 ###### ARTICULO 535.
 
@@ -3565,9 +3627,7 @@ Para que pueda operar la conmutación, es indispensable cubrir o garantizar prev
 
 ## TITULO DECIMO PRIMERO
 
-### CAPITULO UNICO. PROCEDIMIENTO RELATIVO AL JURADO POPULAR
-
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+### CAPITULO UNICO. DE LOS JUICIOS DE RESPONSABILIDAD
 
 ###### ARTICULO 538.
 
@@ -3586,6 +3646,10 @@ Fuera de los servidores públicos a que se refiere el Artículo anterior ningún
 TITULO ESPECIAL
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 1988)</small>
+
+### CAPITULO UNICO. PROCEDIMIENTO RELATIVO AL JURADO POPULAR
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 541.
 
@@ -4012,3 +4076,13 @@ P.O. 5 DE JUNIO DE 1999
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+P.O. 19 DE JUNIO DE 1999.
+
+###### ARTICULO PRIMERO
+
+- El presente Decreto entrará en vigor el día treinta de junio de mil novecientos noventa y nueve, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO
+
+- Los que hubieren sido sentenciados antes de la entrada en vigor del presente Decreto a cumplir hasta cinco años de prisión y que reúnan los demás requisitos para que opere la substitución, en los términos del mismo, que hubieren compurgado prisión preventiva o definitiva por un lapso continuo o discontinuo de un año, no tendrán que someterse a prisión intermitente, debiendo aplicarse solo las demás penas, medidas y actividades que procedan según el caso, así como reunir las condiciones y garantías respectivas. A los demás sentenciados que hubieren compurgado prisión preventiva o definitiva por menor tiempo, se les aplicará prisión intermitente en cualquiera de sus modalidades según el prudente arbitrio judicial, por el lapso de tiempo que les falte para cumplir el término de un año, si fueron Sentenciados a Prisión por un lapso entre Cuatro y Cinco Años. Los sentenciados que hubieren cumplido mayor tiempo en prisión preventiva o definitiva, el lapso que les falte por compurgar se podrá substituir por las demás penas alternativas, según sea el caso.
