@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1935-12-26"
+last_updated: "1936-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 1935.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 1936.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -719,9 +719,11 @@ XI.- Ejercer las demás facultades que le estén cometidas por esta Constitució
 
 Del Poder Judicial.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1936)</small>
+
 ###### Art. 100.
 
-El Poder Judicial del Estado se deposita en un Tribunal Superior de Justicia, en los Juzgados de Primera Instancia, Menores y Municipales, y en los Jurados que establezca la ley.
+El Poder Judicial del Estado se deposita en un Tribunal Superior de Justicia, en un Tribunal para Menores, en los Juzgados de Primera Instancia, Menores y Mnicipales (sic) y en los Jurados que establezca la Ley.
 
 ###### Art. 101.
 
@@ -1608,3 +1610,7 @@ A efecto de que la H. Legislatura del Estado proceda a la reorganización del H.
 ###### Articulo 2°.
 
 Esta Ley entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 1936
+
+Esta Ley comenzará a surtir sus efectos legales, desde el día de su publicación en el Periódico Oficial del Estado.
