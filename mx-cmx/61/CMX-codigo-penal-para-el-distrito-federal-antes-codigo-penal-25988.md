@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1978-12-08"
+last_updated: "1979-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE DICIEMBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE DICIEMBRE DE 1979.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -1974,7 +1974,7 @@ Este artículo se entiende sin perjuicio de la destitución, de la inhabilitaci�
 
 ### CAPITULO I. Delitos contra el consumo y la riqueza nacionales
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 222.
 
@@ -2356,33 +2356,49 @@ Delitos contra la economía pública
 
 ###### ARTICULO 253.
 
-Son actos que afectan gravemente el consumo nacional, y se sancionarán con prisión hasta de 9 años y multa de cien a cincuenta mil pesos, los siguientes:
+Son actos u omisiones que afectan gravemente al consumo nacional y se sancionarán con prisión de dos a nueve años y multa de diez mil a doscientos cincuenta mil pesos los siguientes:
 
-I.- El acaparamiento de artículos de primera necesidad o de consumo necesario con el objeto de obtener una alza en los precios, su ocultación, así como la injustificada negativa para venderlos.
+I.- Los relacionados con artículos de consumo necesario o generalizado o con las materias primas necesarias para elaborarlos, así como con las materias primas esenciales para la actividad de la industria nacional, que consistan en:
 
-II.- Todo acto o procedimiento que dificulte o se proponga dificultar la libre concurrencia en la producción o en el comercio;
+a).- El acaparamiento, ocultación o injustificada negativa para su venta, con el objeto de obtener un alza en los precios o afectar el abasto a los consumidores.
 
-III.- La limitación de la producción de un artículo de consumo necesario, con el propósito de mantenerlo en elevado e injusto precio;
+b).- Todo acto o procedimiento que evite o dificulte, o se proponga evitar o dificultar la libre concurrencia en la producción o en el comercio.
 
-IV.- La exportación de artículos de primera necesidad sin permiso de la autoridad competente cuando éste sea necesario de acuerdo con la Ley.
+c).- La limitación de la producción o el manejo que se haga de la misma, con el propósito de mantener las mercancías en injusto precio.
 
-V.- La venta de un artículo de primera necesidad, con inmoderado lucro, por los productores, distribuidores, mayoristas o comerciantes en general; y
+d).- Todo acuerdo o combinación, de cualquier manera que se haga, de productores, industriales, comerciantes o transportistas, para evitar la competencia entre sí y traiga como consecuencia que los consumidores o usuarios paguen precios exagerados.
 
-V (sic).- Todo acto o procedimiento que de alguna manera viole las disposiciones del artículo 28 constitucional.
+e).- La suspensión de la producción, procesamiento, distribución, oferta o venta de mercancías o de la prestación de servicios, que efectúen los industriales, comerciantes, productores, empresarios o prestadores de servicios, con el objeto de obtener un alza en los precios o se afecte el abasto de los consumidores.
 
-En cualquiera de los casos antes señalados, el Juez podrá ordenar, además, la suspensión hasta por un año o la disolución de la empresa de la que el delincuente sea miembro o representante, si concurren las demás circunstancias mencionadas en el artículo 11 de este Código.
+Si se depone la conducta ilícita dentro de 24 horas hábiles siguientes al momento en que la autoridad administrativa competente lo requiera, la sanción aplicable sera de 6 meses a 3 años de prisión o multa de diez mil a cien mil pesos.
 
-Lo dispuesto en este artículo se aplicará sin perjuicio de las medidas y sanciones administrativas que establezcan las Leyes Orgánicas y Reglamentaria del artículo 28 constitucional, y de que en los términos del artículo 164 de este Código, se sancione a los productores o comerciantes cuando dos o más de ellos acuerden la realización de los actos antes enumerados.
+f).- La exportación, sin permiso de la autoridad competente cuando éste sea necesario de acuerdo con las disposiciones legales aplicables.
 
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1955)</small>
+g).- La venta o ventas con inmoderado lucro, por los productores, distribuidores o comerciantes en general. En los casos de operaciones en que el lucro indebido sea inferior al equivalente a 60 días del salario mínimo general vigente en la región y en el momento donde se consuma el delito, se sancionará con prisión de seis meses a seis años y multa de mil a cinco mil pesos.
 
-ARTICULO 253 bis.- Se aplicarán las sanciones a que se refiere el artículo anterior, a los comerciantes o industriales que por cualquier medio alteren las mercancías o productos o se reduzcan las propiedades que debieran tener. Si a consecuencia de la alteración resultaren cometidos lesiones u homicidio se aplicarán, además, las sanciones que por estos delitos corresponden.
+h).- Distraer, para usos distintos mercancías que hayan sido surtidas para un fin determinado, por una entidad pública o por sus distribuidores, cuando el precio a que se hubiese entregado la mercancía sea inferior al que tenga si se destina a otros usos.
 
-Lo mandado en este artículo se observará sin perjuicio de las medidas y sanciones que pueda tomar o imponer la autoridad administrativa en virtud de leyes especiales.
+II.- Envasar o empacar las mercancías destinadas para la venta, en cantidad inferior a la indicada como contenido neto y fuera de la respectiva tolerancia o sin indicar en los envases o empaques el precio máximo oficial de venta al público, cuando se tenga la obligación de hacerlo.
+
+III.- Entregar dolosa y repetidamente, cuando la medición se haga en el momento de la transacción, mercancías en cantidades menores a las convenidas.
+
+IV.- Alterar o reducir por cualquier medio las propiedades que las mercancías o productos debieran tener.
+
+V.- Revender a un organismo público, a precios mínimos de garantía o a los autorizados por la Secretaría de Comercio, productos agropecuarios, marinos, fluviales y lacustres adquiridos a un precio menor. Se aplicará la misma sanción al empleado o funcionario del organismo público que los compre a sabiendas de esa situación o propicie que el productor se vea obligado a vender a precios más bajos a terceras personas.
+
+En cualquiera de los casos señalados en las fracciones anteriores, el juez podrá ordenar, además, la suspensión hasta por un año o la disolución de la empresa de la que el delincuente sea miembro o representante, si concurren las circunstancias mencionadas en el artículo 11 de este Código.
+
+En los casos de los incisos a), f) y h), de la fracción I y de la IV de este artículo, la autoridad que tenga conocimiento de los hechos procederá de inmediato a depositar los artículos de consumo necesario o generalizado, las materias primas para elaborarlos o las materias primas esenciales para la actividad industrial nacional. El depósito se efectuará en un almacén general de depósito que sea organización nacional auxiliar de crédito y los bienes serán genéricamente designados, en los términos del artículo 281 de la Ley General de Títulos y Operaciones de Crédito; cuando se trate de bienes cuya especial naturaleza no permita el depósito genérico, se constituirá el específico, señalando asimismo, el plazo y condiciones en que habrá de procederse a su venta o destrucción conforme a lo que establece el artículo 282 de la misma Ley. El certificado de depósito que se expida tendrá el carácter de no negociable y será rimitido (sic) al Ministerio Público o, en su caso, al Juez que conozca del proceso, para los efectos que procedan.
+
+Lo dispuesto en este artículo se aplicará sin perjuicio de las medidas y sanciones administrativas que establezcan las leyes correspondientes.
+
+ARTICULO 253 bis.- (DEROGADO, D.O.F. 5 DE DICIEMBRE DE 1979)
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 254.
 
-Se aplicarán igualmente las sanciones mencionadas en el artículo anterior:
+Se aplicarán igualmente las sanciones del artículo 253:
 
 I.- Por destrucción indebida de materias primas, árboles, productos agrícolas o industriales o medios de producción, que se haga con perjuicio de la riqueza o del consumo nacionales;
 
@@ -3827,6 +3843,10 @@ D.O.F. 8 DE DICIEMBRE DE 1978.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 5 DE DICIEMBRE DE 1979.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
 ###### ARTICULO 2o.
 
