@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1947-10-14"
+last_updated: "1954-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE OCTUBRE DE 1947.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE SEPTIEMBRE DE 1954.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -97,15 +97,15 @@ III.- los extranjeros que se naturalicen con arreglo a las Leyes de la Repúblic
 
 ### CAPITULO II. De los ciudadanos yucatecos
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 11 DE SEPTIEMBRE DE 1954)</small>
 
 ###### Artículo 6.
 
-Son ciudadanos del Estado todos los que, teniendo la calidad de yucatecos, reúnan además las siguientes:
+Son ciudadanos del Estado los varones y las mujeres que, teniendo la calidad de yucatecos, reúnan además los siguientes requisitos:
 
-I.- haber cumplido dieciocho años siendo casados, o veintiuno si no lo son; y
+I.- haber cumplido dieciocho años siendo casados, y veintiuno si no lo son; y
 
-II.- tener modo honesto de vivir.
+II.- tener un modo honesto de vivir.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1344,6 +1344,10 @@ Esta Ley comenzará a regir al día siguiente de su publicación en el Diario Of
 D.O. 14 DE OCTUBRE DE 1947.
 
 Esta Ley comenzará a regir al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 11 DE SEPTIEMBRE DE 1954.
+
+Esta Ley comenzará a regir el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
 ###### ARTICULO UNICO.
 
