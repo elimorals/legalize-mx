@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2002-12-18"
+last_updated: "2003-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2003.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -1005,7 +1005,9 @@ I. Los sentenciados por alguno de los delitos previstos en este Código que a co
 
 a) Uso ilícito de instalaciones destinadas al tránsito aéreo, previsto en el artículo 172 bis, párrafo tercero;
 
-b) Contra la salud, previsto en el artículo 194, salvo que se trate de individuos en los que concurran evidente atraso cultural, aislamiento social y extrema necesidad económica;
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+b) Contra la salud, previsto en el artículo 194, salvo que se trate de individuos en los que concurran evidente atraso cultural, aislamiento social y extrema necesidad económica; y para la modalidad de transportación, si cumplen con los requisitos establecidos en los artículos 84 y 90, fracción I, inciso c), para lo cual deberán ser primodelincuentes, a pesar de no hallarse en los tres supuestos señalados en la excepción general de este inciso;
 
 c) Corrupción de menores o incapaces, previsto en el artículo 201;
 
@@ -1691,6 +1693,8 @@ Se aplicará pena de cinco a cuarenta años de prisión y multa de cinco mil a c
 
 ### CAPITULO I. Violación de los deberes de humanidad
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>N. DE E. REUBICADO, D.O.F. 20 DE ENERO DE 1967</small>
 
 ###### ARTICULO 146.
@@ -1745,7 +1749,7 @@ En el caso de la fracción III, y si las circunstancias lo ameritan, los jueces 
 
 > <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1986)</small>
 
-## TITULO TERCERO. Delitos contra la humanidad
+## TITULO TERCERO. Delitos contra la Humanidad
 
 > <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 1967)</small>
 
@@ -2141,7 +2145,7 @@ Al que quebrante los sellos puestos por orden de la autoridad pública se le apl
 
 Cuando de común acuerdo, quebrantaren las partes interesadas en un negocio civil los sellos puestos por la autoridad pública, pagarán una multa de veinte a doscientos pesos.
 
-### Capítulo II. Corrupción de menores e incapaces. Pornografía infantil y prostitución sexual de menores
+### CAPITULO II. Corrupción de menores e incapaces. Pornografía infantil y prostitución sexual de menores
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2000)</small>
 
@@ -2299,31 +2303,31 @@ Para la concesión de la condena condicional o del beneficio de la libertad prep
 
 > <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-ARTICULO 211 BIS 1.- Al que sin autorización modifique, destruya o provoque pérdida de información contenida en sistemas o equipos de informática protegidos por algún mecanismo de seguridad, se le impondrán de seis meses a dos años de prisión y de cien a trescientos días multa.
+ARTICULO 211 bis 1.- Al que sin autorización modifique, destruya o provoque pérdida de información contenida en sistemas o equipos de informática protegidos por algún mecanismo de seguridad, se le impondrán de seis meses a dos años de prisión y de cien a trescientos días multa.
 
 Al que sin autorización conozca o copie información contenida en sistemas o equipos de informática protegidos por algún mecanismo de seguridad, se le impondrán de tres meses a un año de prisión y de cincuenta a ciento cincuenta días multa.
 
 > <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-ARTICULO 211 BIS 2.- Al que sin autorización modifique, destruya o provoque pérdida de información contenida en sistemas o equipos de informática del Estado, protegidos por algún mecanismo de seguridad, se le impondrán de uno a cuatro años de prisión y de doscientos a seiscientos días multa.
+ARTICULO 211 bis 2.- Al que sin autorización modifique, destruya o provoque pérdida de información contenida en sistemas o equipos de informática del Estado, protegidos por algún mecanismo de seguridad, se le impondrán de uno a cuatro años de prisión y de doscientos a seiscientos días multa.
 
 Al que sin autorización conozca o copie información contenida en sistemas o equipos de informática del Estado, protegidos por algún mecanismo de seguridad, se le impondrán de seis meses a dos años de prisión y de cien a trescientos días multa.
 
 > <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-ARTICULO 211 BIS 3.- Al que estando autorizado para acceder a sistemas y equipos de informática del Estado, indebidamente modifique, destruya o provoque pérdida de información que contengan, se le impondrán de dos a ocho años de prisión y de trescientos a novecientos días multa.
+ARTICULO 211 bis 3.- Al que estando autorizado para acceder a sistemas y equipos de informática del Estado, indebidamente modifique, destruya o provoque pérdida de información que contengan, se le impondrán de dos a ocho años de prisión y de trescientos a novecientos días multa.
 
 Al que estando autorizado para acceder a sistemas y equipos de informática del Estado, indebidamente copie información que contengan, se le impondrán de uno a cuatro años de prisión y de ciento cincuenta a cuatrocientos cincuenta días multa.
 
 > <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-ARTICULO 211 BIS 4.- Al que sin autorización modifique, destruya o provoque pérdida de información contenida en sistemas o equipos de informática de las instituciones que integran el sistema financiero, protegidos por algún mecanismo de seguridad, se le impondrán de seis meses a cuatro años de prisión y de cien a seiscientos días multa.
+ARTICULO 211 bis 4.- Al que sin autorización modifique, destruya o provoque pérdida de información contenida en sistemas o equipos de informática de las instituciones que integran el sistema financiero, protegidos por algún mecanismo de seguridad, se le impondrán de seis meses a cuatro años de prisión y de cien a seiscientos días multa.
 
 Al que sin autorización conozca o copie información contenida en sistemas o equipos de informática de las instituciones que integran el sistema financiero, protegidos por algún mecanismo de seguridad, se le impondrán de tres meses a dos años de prisión y de cincuenta a trescientos días multa.
 
 > <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-ARTICULO 211 BIS 5.- Al que estando autorizado para acceder a sistemas y equipos de informática de las instituciones que integran el sistema financiero, indebidamente modifique, destruya o provoque pérdida de información que contengan, se le impondrán de seis meses a cuatro años de prisión y de cien a seiscientos días multa.
+ARTICULO 211 bis 5.- Al que estando autorizado para acceder a sistemas y equipos de informática de las instituciones que integran el sistema financiero, indebidamente modifique, destruya o provoque pérdida de información que contengan, se le impondrán de seis meses a cuatro años de prisión y de cien a seiscientos días multa.
 
 Al que estando autorizado para acceder a sistemas y equipos de informática de las instituciones que integran el sistema financiero, indebidamente copie información que contengan, se le impondrán de tres meses a dos años de prisión y de cincuenta a trescientos días multa.
 
@@ -2331,11 +2335,11 @@ Las penas previstas en este artículo se incrementarán en una mitad cuando las 
 
 > <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-ARTICULO 211 BIS 6.- Para los efectos de los artículos 211 Bis 4 y 211 Bis 5 anteriores, se entiende por instituciones que integran el sistema financiero, las señaladas en el artículo 400 Bis de este Código.
+ARTICULO 211 bis 6.- Para los efectos de los artículos 211 Bis 4 y 211 Bis 5 anteriores, se entiende por instituciones que integran el sistema financiero, las señaladas en el artículo 400 Bis de este Código.
 
 > <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-ARTICULO 211 BIS 7.- Las penas previstas en este capítulo se aumentarán hasta en una mitad cuando la información obtenida se utilice en provecho propio o ajeno.
+ARTICULO 211 bis 7.- Las penas previstas en este capítulo se aumentarán hasta en una mitad cuando la información obtenida se utilice en provecho propio o ajeno.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -2399,7 +2403,7 @@ Si además de los delitos previstos en este capítulo resultase cometido otro, s
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2000)</small>
 
-ARTICULO 201 BIS.- Al que procure o facilite por cualquier medio el que uno o más menores de dieciocho años, con o sin su consentimiento, lo o los obligue o induzca a realizar actos de exhibicionismo corporal, lascivos o sexuales, con el objeto y fin de videograbarlos, fotografiarlos o exhibirlos mediante anuncios impresos o electrónicos, con o sin el fin de obtener un lucro, se le impondrán de cinco a diez años de prisión y de mil a dos mil días multa.
+ARTICULO 201 bis.- Al que procure o facilite por cualquier medio el que uno o más menores de dieciocho años, con o sin su consentimiento, lo o los obligue o induzca a realizar actos de exhibicionismo corporal, lascivos o sexuales, con el objeto y fin de videograbarlos, fotografiarlos o exhibirlos mediante anuncios impresos o electrónicos, con o sin el fin de obtener un lucro, se le impondrán de cinco a diez años de prisión y de mil a dos mil días multa.
 
 Al que fije, grabe, imprima actos de exhibicionismo corporal, lascivos o sexuales en que participen uno o más menores de dieciocho años, se le impondrá la pena de diez a catorce años de prisión y de quinientos a tres mil días multa. La misma pena se impondrá a quien con fines de lucro o sin él, elabore, reproduzca, venda, arriende, exponga, publicite o transmita el material a que se refieren las acciones anteriores.
 
@@ -2409,15 +2413,15 @@ Para los efectos de este artículo se entiende por pornografía infantil, la rep
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2000)</small>
 
-ARTICULO 201 BIS 1.- Si el delito de corrupción de menores o de quien no tenga capacidad para comprender el resultado del hecho o el de pornografía infantil es cometido por quien se valiese de una función pública que tuviese, se le impondrá hasta una tercera parte más de las penas a que se refieren los artículos 201 y 201 bis y destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñarlo, hasta por un tiempo igual al de la pena impuesta para ejercer otro.
+ARTICULO 201 bis 1.- Si el delito de corrupción de menores o de quien no tenga capacidad para comprender el resultado del hecho o el de pornografía infantil es cometido por quien se valiese de una función pública que tuviese, se le impondrá hasta una tercera parte más de las penas a que se refieren los artículos 201 y 201 bis y destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñarlo, hasta por un tiempo igual al de la pena impuesta para ejercer otro.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2000)</small>
 
-ARTICULO 201 BIS 2.- Si el delito es cometido con un menor de dieciséis años de edad, las penas aumentarán hasta una tercera parte más de las sanciones a que se refieren los artículos 201 y 201 bis. Si el delito se comete con menor de doce años de edad, las penas aumentarán hasta una mitad de las sanciones a que se refieren los artículos 201 y 201 bis de esta Ley.
+ARTICULO 201 bis 2.- Si el delito es cometido con un menor de dieciséis años de edad, las penas aumentarán hasta una tercera parte más de las sanciones a que se refieren los artículos 201 y 201 bis. Si el delito se comete con menor de doce años de edad, las penas aumentarán hasta una mitad de las sanciones a que se refieren los artículos 201 y 201 bis de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2000)</small>
 
-ARTICULO 201 BIS 3.- Al que promueva, publicite, invite, facilite o gestione por cualquier medio a persona o personas a que viaje al interior o exterior del territorio nacional y que tenga como propósito, tener relaciones sexuales con menores de dieciocho años de edad, se le impondrá una pena de cinco a catorce años de prisión y de cien a dos mil días multa.
+ARTICULO 201 bis 3.- Al que promueva, publicite, invite, facilite o gestione por cualquier medio a persona o personas a que viaje al interior o exterior del territorio nacional y que tenga como propósito, tener relaciones sexuales con menores de dieciocho años de edad, se le impondrá una pena de cinco a catorce años de prisión y de cien a dos mil días multa.
 
 Las mismas penas se impondrán a quien realice las acciones a que se refiere el párrafo anterior, con el fin de que persona o personas obtengan relaciones sexuales con menores de dieciocho años.
 
@@ -2521,7 +2525,7 @@ Al que provoque públicamente a cometer un delito, o haga la apología de éste 
 
 > <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-ARTICULO 222 BIS.- Se impondrán las penas previstas en el artículo anterior al que con el propósito de obtener o retener para sí o para otra persona ventajas indebidas en el desarrollo o conducción de transacciones comerciales internacionales, ofrezca, prometa o dé, por sí o por interpósita persona, dinero o cualquiera otra dádiva, ya sea en bienes o servicios:
+ARTICULO 222 bis.- Se impondrán las penas previstas en el artículo anterior al que con el propósito de obtener o retener para sí o para otra persona ventajas indebidas en el desarrollo o conducción de transacciones comerciales internacionales, ofrezca, prometa o dé, por sí o por interpósita persona, dinero o cualquiera otra dádiva, ya sea en bienes o servicios:
 
 I. A un servidor público extranjero para que gestione o se abstenga de gestionar la tramitación o resolución de asuntos relacionados con las funciones inherentes a su empleo, cargo o comisión;
 
@@ -3179,9 +3183,7 @@ Al que introduzca en la República o pusiere en circulación en ella los documen
 
 > <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1999)</small>
 
-###### ARTICULO 240 Bis.
-
-Se impondrán de tres a nueve años de prisión y de ciento cincuenta a cuatrocientos cincuenta días multa al que, sin consentimiento de quien esté facultado para ello:
+ARTICULO 240 bis.- Se impondrán de tres a nueve años de prisión y de ciento cincuenta a cuatrocientos cincuenta días multa al que, sin consentimiento de quien esté facultado para ello:
 
 I. Produzca, introduzca al país, enajene, aun gratuitamente, o altere, tarjetas o documentos utilizados para el pago de bienes y servicios, para disposición de efectivo, o esqueletos de cheque;
 
@@ -4275,7 +4277,7 @@ Los ascendientes o tutores que entreguen en una casa de expósitos un niño que 
 
 ## TITULO VIGESIMO SEGUNDO. Delitos en contra de las personas en su patrimonio
 
-### CAPÍTULO I. De las actividades tecnológicas y peligrosas
+### CAPITULO I. De las actividades tecnológicas y peligrosas
 
 > <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
@@ -4306,6 +4308,8 @@ Los ascendientes o tutores que entreguen en una casa de expósitos un niño que 
 ###### ARTICULO 349.
 
 (DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 350.
 
@@ -4455,7 +4459,7 @@ Siempre que sea condenado el responsable de una injuria, de una difamación o de
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 6 DE FEBRERO DE 2002)</small>
 
-### CAPÍTULO V. Disposiciones comunes a los delitos contra el ambiente
+### CAPITULO V. Disposiciones comunes a los delitos contra el ambiente
 
 (REFOMADO, D.O.F. 6 DE FEBRERO DE 2002)
 
@@ -6150,3 +6154,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 D.O.F. 18 DE DICIEMBRE DE 2002.
 
 ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE JUNIO DE 2003.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
