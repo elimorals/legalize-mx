@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1965-05-15"
+last_updated: "1965-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 1965.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1161,11 +1161,17 @@ La autoridad administrativa podrá practicar visitas domiciliarias únicamente p
 
 Nadie puede ser preso por deudas de un carácter puramente civil. Nadie puede ejercer violencia para reclamar su derecho. Los tribunales estarán siempre expeditos para administrar justicia en los plazos y términos establecidos por la Ley. Esta será gratuita, que dado en consecuencia prohibidas las costas judiciales.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1965)</small>
+
 ###### Art. 17.
 
-Sólo habrá lugar a prisión preventiva por delitos que merezcan pena corporal. El lugar de ella será distinto y estará completamente separado del que se designare para la extinción de las penas.
+Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. El sitio de ésta será distinto del que se destinare para la extinción de las penas y estarán completamente separados.
 
-El Congreso expedirá las leyes relativas para la organización del sistema penal sobre la base del trabajo como medio de regeneración.
+El Ejecutivo del Estado organizará el régimen penitenciario sobre la base del trabajo, la capacitación para el mismo y la educación como medios para la readaptación social del delincuente. Las mujeres compurgarán sus sentencias en lugares separados de los destinados a los hombres para tal efecto.
+
+Se faculta al Gobernador del Estado para celebrar con la Federación convenios de carácter general, para que los reos sentenciados por delitos del orden común extingan su condena en establecimientos dependientes del Ejecutivo Federal.
+
+El Gobierno del Estado mantendrá establecimientos especiales para el tratamiento de menores infractores.
 
 ###### Art. 18.
 
@@ -1259,6 +1265,10 @@ En el Estado de Nuevo León la libertad del hombre no tiene más límite que la 
 
 Esta Ley comenzará a surtir sus efectos el día primero de enero de 1928.
 
+###### ARTICULO SEGUNDO
+
+En los Ayuntamientos donde faltare algún Regidor o Síndico, el día primero de enero de 1928, lo designarán los mismos, de conformidad con el artículo 124 de la Constitución Política Local, para estar en todo de acuerdo con el Art. 2° de la Ley de Gobierno Interior de los Municipios reformada.
+
 P.O. 28 DE ABRIL DE 1928.
 
 DECRETO NÚMERO 60
@@ -1341,54 +1351,6 @@ P.O. 15 DE MAYO DE 1965.
 
 UNICO:- Este decreto entrará en vigor el día de su publicación en el PERIODICO OFICIAL del Estado.
 
-###### ARTICULO SEGUNDO.
-
-Estas reformas empezarán a regir el día de su publicación en el Periódico Oficial del Estado.
-
-P.O. 30 DE DICIEMBRE DE 1942.
+P.O. 26 DE JUNIO DE 1965.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
-
-P.O. 23 DE JUNIO DE 1943.
-
-> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL "DECRETO No. 73 INTERPRETACIÓN AUTÉNTICA DEL INCISO b) DEL ARTÍCULO 84 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
-
-PRIMERO:— De los términos del Decreto Número 40 publicado en el Periódico Oficial de 22 de Julio de 1942, reformando los Artículos 46, 48, 49, 84, 90, 91 y 123 de la Constitución Política del Estado; de la redacción específica del Inciso b) del artículo 84 y del sentido general del Decreto, se entiende que la prohibición que establece dicha disposición legal se refiere a los períodos constitucionales de seis años que empezarán a contar a partir del 4 de Octubre de 1949; pues para el próximo que se inicie el 4 de Octubre de 1943 rigen las reglas contenidas en la Fracción III, Inciso b) del Artículo 115 de la Constitución General de la República.
-
-SEGUNDO: — En consecuencia: A contar del 4 de Octubre de 1946, nadie que haya ocupado el puesto de Gobernador provisional o interinamente, o con cualquier otro carácter durante los segundos tres años de un período Gubernamental podrá ser electo para ese mismo cargo en el período Constitucional inmediato.
-
-TERCERO :— En la forma que antecede queda interpretada Jurídicamente la disposición contenida en el Inciso b) del Artículo 84 de la Constitución Política del Estado y fijado su alcance por el H. Congreso Local.
-
-P.O. 30 DE ABRIL DE 1947.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
-
-P.O. 29 DE SEPTIEMBRE DE 1948.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
-
-P.O. 11 DE MAYO DE 1949.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
-
-P.O. 6 DE JUNIO DE 1951.
-
-(REPUBLICADO, P.O. 4 DE JULIO DE 1951)
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
-
-P.O. 30 DE ABRIL DE 1952.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
-
-P.O. 28 DE ABRIL DE 1954.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
-
-P.O. 21 DE MAYO DE 1960.
-
-UNICO.- Este decreto comenzará a surtir sus efectos el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 9 DE JUNIO DE 1962.
-
-UNICO:- Este Decreto comenzará a surtir sus efectos una vez hecha su publicación en el Periódico Oficial del Gobierno del Estado.
