@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2001-07-28"
+last_updated: "2002-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2002.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -347,7 +347,17 @@ VI. Que tenga capacidad suficiente para prestar los servicios mínimos municipal
 
 Los delegados municipales deben ser designados por el Ayuntamiento y removidos por éste mismo con causa justificada, previo respeto de su derecho de audiencia y defensa.
 
-El Ayuntamiento debe reglamentar el procedimiento de designación de los delegados, sus requisitos, obligaciones y facultades.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2002)</small>
+
+Para ser delegado municipal se requiere por lo menos cumplir con los siguientes requisitos:
+
+I. Tener 18 años cumplidos;
+
+II. Tener un modo honesto de vivir;
+
+III. Tener su residencia en la Delegación correspondiente; y
+
+IV. No haber sido condenado por delito doloso.
 
 ###### Artículo 9.
 
@@ -1856,3 +1866,7 @@ DECRETO 18990.
 P.O. 28 DE JULIO DE 2001.
 
 ÚNICO. El presente decreto que contiene reformas a la Ley del Gobierno y Administración Pública Municipal del Estado de Jalisco, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE ENERO DE 2002.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
