@@ -1,0 +1,142 @@
+---
+title: "LEY NUMERO 21 PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE"
+identifier: "VER-ley-numero-21-para-prevenir-y-sancionar-la-tortura-en-el-14132"
+country: "mx"
+rank: "ley"
+publication_date: "1999-04-17"
+last_updated: "1999-04-17"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14132&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-ver"
+scjn_id: "14132"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "46"
+reform_count: "2"
+scjn_last_update: "2003-03-18"
+issue_date: "1999-04-14"
+state: "VER"
+---
+# LEY NUMERO 21 PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+
+LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE VERACRUZ-LLAVE
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 17 de abril de 1999.
+
+(Republicada, G.O. 22 de abril de 1999)
+
+Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador Constitucional del Estado de Veracruz-Llave.
+
+Miguel Alemán Velazco, Gobernador Constitucional del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes sabed:
+
+Que la H. Legislatura del Estado se ha servido dirigirme la siguiente Ley para su promulgación.
+
+Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
+
+La Honorable Quincuagésima Octava Legislatura del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 68 fracción I de la Constitución Política local; 44 de la Ley Orgánica del Poder Legislativo, 103 del Reglamento para el Gobierno Interior del Poder Legislativo y en nombre del pueblo, expide la siguiente:
+
+LEY NÚMERO 21
+
+PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE VERACRUZ-LLAVE
+
+###### Artículo 1º.
+
+La presente ley tiene por objeto la prevención y sanción de la tortura. Se aplicará en el territorio del Estado en materia de fuero común.
+
+###### Artículo 2º.
+
+Los órganos de la administración pública del Estado y de sus municipios relacionados con la procuración de justicia y la seguridad pública, llevarán a cabo programas permanentes y establecerán los procedimientos, que se harán del conocimiento público por los medios de comunicación masiva idóneos, para:
+
+I. La orientación y asistencia a la población con la finalidad de vigilar la observancia exacta de las garantías individuales de aquellas personas involucradas en la comisión de algún ilícito penal;
+
+II. La organización de cursos de capacitación de su personal para que conozca y fomente el respeto a los Derechos Humanos, primordialmente los relativos a la vida, la libertad y la seguridad de las personas. El seguimiento y la aprobación de estos cursos son requisitos que deben cumplir previamente quienes pretenden ingresar a cualquiera de los cuerpos policiacos.
+
+III. La profesionalización de los cuerpos policiales, y
+
+IV. La profesionalización de los servidores públicos que participen en la custodia y tratamiento de toda persona sometida a aprehensión, arresto o prisión.
+
+###### Artículo 3º.
+
+Comete el delito de tortura, el que inflija dolosamente a cualquier persona dolores o sufrimientos graves, sean físicos o síquicos, con el fin de obtener de ella o de un tercero información o una confesión, o castigarla por un acto que haya cometido o se sospeche ha cometido, o coaccionarla para que realice o deje de realizar una conducta determinada.
+
+###### Artículo 4º.
+
+Son responsables del delito de tortura:
+
+a) Los miembros del Ministerio Público, de la Policía Judicial y los de cualquier otra corporación policiaca del Estado o de sus municipios;
+
+b) Los servidores públicos que ordenen, instiguen, compelan o induzcan a su comisión, la cometan directamente o pudiendo impedirla no lo hagan, y
+
+c) Los terceros instigados o autorizados implícita o explícitamente por alguno de los servidores públicos señalados en los incisos anteriores.
+
+###### Artículo 5º.
+
+A quien cometa el delito de tortura se le aplicarán de dos a doce años de prisión y multa de doscientos a quinientos días de salario mínimo vigente en la zona económica en la época de la comisión del ilícito.
+
+Atendiendo a la naturaleza del caso, también podrá imponerse la inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, en los términos prevenidos en el Código Penal.
+
+Para todos los efectos legales se califica como grave el delito de tortura a que se refieren los artículos 3º a 5º de esta Ley.
+
+###### Artículo 6º.
+
+No se considerará como tortura las molestias o sufrimientos que sean consecuencia únicamente de las sanciones legales o derivadas de un acto legítimo de autoridad.
+
+###### Artículo 7º.
+
+No son causas de justificación ni circunstancias atenuantes de las penas que se invoquen o existan situaciones excepcionales, como inestabilidad política, urgencia en la investigación, haber recibido la orden para aplicar la tortura de un superior jerárquico o de otra autoridad ni circunstancia alguna de naturaleza similar.
+
+###### Artículo 8º.
+
+En el momento que lo solicite cualquier detenido o reo deberá ser reconocido por perito médico; a falta de éste, o si además lo requiere, por un médico de su elección. El que practique el reconocimiento queda obligado a expedir inmediatamente el certificado correspondiente y, en caso de apreciar que se han infligido dolores o sufrimientos graves, lo hará del conocimiento de la autoridad competente.
+
+También puede solicitar el reconocimiento médico el defensor del detenido o reo.
+
+###### Artículo 9º.
+
+El responsable del delito previsto en esta ley estará obligado a cubrir los gastos de asesoría legal, atención médica, hospitalarios, funerarios, de rehabilitación o cualquiera otra índole erogados por la víctima, sus familiares o terceros, como consecuencia del delito.
+
+Asimismo, estará obligado a reparar el daño y a indemnizar por los perjuicios causados a la víctima o a sus dependientes económicos en los siguientes casos:
+
+I. Pérdida de la vida;
+
+II. Alteración de la salud;
+
+III. Pérdida de ingresos económicos;
+
+IV. Pérdida de la libertad;
+
+V. Incapacidad laboral;
+
+VI. Pérdida o daño a la propiedad; y
+
+VII. Menoscabo en la reputación.
+
+El Estado y los municipios estarán obligados a la reparación de los daños y perjuicios, en los términos de los artículos 1860 y 1861 del Código Civil del estado.
+
+Para fijar los montos correspondientes el juez tomará en cuenta la magnitud del daño causado.
+
+###### Artículo 10.
+
+El servidor público que en ejercicio de sus funciones conozca de un hecho de tortura está obligado a denunciarlo de inmediato; si no lo hiciere, se le impondrán de uno a cuatro años de prisión y multa de treinta a trescientos días de salario, sin perjuicio de lo que establezcan otras leyes y atendiendo a lo dispuesto en el artículo 5º de este ordenamiento.
+
+###### Artículo 11.
+
+En todo aquello no previsto en esta ley serán aplicables supletoriamente las disposiciones del Código Penal y del Código de Procedimientos Penales vigentes en el Estado.
+
+## TRANSITORIOS
+
+Primero. La presente ley entrará en vigor quince días después de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a las de esta ley.
+
+Tercero. A las personas que hayan cometido el delito de abuso de autoridad o incumplimiento de un deber legal en la modalidad prevista en la fracción VIII del artículo 254 del Código Penal con anterioridad a la entrada en vigor de la presente ley, les serán aplicadas las sanciones del Código Penal vigentes en el momento en que lo haya cometido, sin perjuicio de aplicar, cuando sea procedente, el artículo 4º del propio ordenamiento legal.
+
+Dada en el salón de sesiones de la H. LVIII Legislatura del Estado Libre y Soberano de Veracruz Llave, en la ciudad de Xalapa-Enríquez, Veracruz a los catorce días del mes de abril de mil novecientos noventa y nueve. Trinidad San Román Vera, diputado presidente.- Rúbrica. Edmundo Cristóbal Cruz, diputado secretario.- Rúbrica.
+
+En cumplimiento de lo dispuesto por el artículo 87 fracción I y 93 de la Constitución Política del Estado Libre y Soberano de Veracruz-Llave, mando se publique, circule y se le dé el debido cumplimiento, Residencia del Poder Ejecutivo Estatal, en la ciudad de Xalapa-Enríquez, Veracruz, a los quince días del mes de abril de mil novecientos noventa y nueve.
+
+Gobernador Constitucional del Estado, Miguel Alemán Velazco.- Rúbrica. Secretaria General de Gobierno, Nohemí Quirasco Hernández.- Rubrica.
