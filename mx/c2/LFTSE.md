@@ -4,7 +4,7 @@ identifier: "LFTSE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1963-12-28"
-last_updated: "1972-12-28"
+last_updated: "1974-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFTSE"
 
 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTICULO 123 CONSTITUCIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 28 de diciembre de 1963.
 
@@ -40,9 +40,11 @@ LEY FEDERAL DE LO (SIC) TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL A
 
 ## TITULO PRIMERO
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 1o.
 
-La presente ley es de observancia general para los titulares y trabajadores de las dependencias de los Poderes de la Unión, de los Gobiernos del Distrito y Territorios Federales; de las Instituciones que a continuación se enumeran: Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, Juntas Federales de Mejoras Materiales, Instituto Nacional de la Vivienda, Lotería Nacional, Instituto Nacional de Protección a la Infancia, Instituto Nacional Indigenista, Comisión Nacional Bancaria, Comisión Nacional de Seguros, Comisión Nacional de Valores, Comisión de Tarifas de Electricidad y Gas, Centro Materno-Infantil Maximino Avila Camacho, y Hospital Infantil; así como de los otros organismos descentralizados similares a los anteriores que tengan a su cargo función de servicios públicos.
+La presente Ley es de observancia general para los titulares y trabajadores de las dependencias de los Poderes de la Unión, del Gobierno del Distrito Federal, de las Instituciones que a continuación se enumeran: Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, Juntas Federales de Mejoras Materiales, Instituto Nacional de la Vivienda, Lotería Nacional, Instituto Nacional de Protección a la Infancia, Instituto Nacional Indigenista, Comisión Nacional Bancaria y de Seguros, Comisión Nacional de Valores, Comisión de Tarifas de Electricidad y Gas, Centro Materno-Infantil Maximino Avila Camacho y Hospital Infantil; así como de los otros organismos descentralizados, similares a los anteriores que tengan a su cargo función de servicios públicos.
 
 ###### ARTICULO 2o.
 
@@ -74,7 +76,9 @@ En la Contaduría Mayor de Hacienda: el Contador Mayor, el Oficial Mayor de la C
 
 En la Cámara de Senadores: Oficial Mayor, Tesorero y Subtesorero;
 
-IV.- En el Poder Judicial: los Secretarios de los Ministros de la Suprema Corte de Justicia de la Nación y en el Tribunal Superior de Justicia del Distrito y Territorios Federales, los Secretarios del Tribunal Pleno y de las Salas;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+IV.- En el Poder Judicial: los Secretarios de los Ministros de la Suprema Corte de Justicia de la Nación y en el Tribunal Superior de Justicia del Distrito Federal, los Secretarios del Tribunal Pleno y de las Salas;
 
 V.- En las Instituciones a que se refiere el artículo 1o.:
 
@@ -1209,3 +1213,9 @@ Las presentes reformas y adiciones entrarán en vigor el día de su publicación
 ###### ARTICULO SEGUNDO.
 
 La obligación de enterar las aportaciones a que se refiere el inciso h), de la fracción VI del artículo 43, empezará a cumplirse a partir del 1o. de septiembre de 1972.
+
+D.O.F. 23 DE DICIEMBRE DE 1974.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
