@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1975-12-30"
+last_updated: "1976-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JUNIO DE 1976.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -4173,11 +4173,11 @@ Sólo puede constituirse el patrimonio de la familia con bienes sitos en el luga
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
 
 ###### ARTICULO 730.
 
-El valor máximo de los bienes afectos al patrimonio de familia será de cincuenta mil pesos.
+El valor máximo de los bienes afectados al patrimonio de familia, conforme al artículo 723, será la cantidad que resulte de multiplicar por 3650 el importe del salario mínimo general diario vigente en el Distrito Federal, en la época en que se constituya el patrimonio.
 
 ###### ARTICULO 731.
 
@@ -9101,7 +9101,9 @@ ARTICULO 2,316.- El contrato de compra-venta no requiere para su validez formali
 
 ARTICULO 2,317.- Las enajenaciones de bienes inmuebles cuyo valor convencional no sea mayor de quinientos pesos y la constitución o transmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante Notario, juez de paz o Registro Público de la Propiedad.
 
-Los contratos por los que el Departamento del Distrito Federal enajene terrenos o casas para la constitución del patrimonio familiar o para personas de escasos recursos económicos hasta por un valor de ochenta mil pesos, podrán otorgarse en documento privado sin los requisitos de testigos y de ratificación de firmas.
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
+
+Los contratos por los que el Departamento del Distrito Federal enajene terrenos o casas para la constitución del patrimonio familiar o para personas de escasos recursos económicos, hasta por el valor máximo a que se refiere el artículo 730, podrán otorgarse en documento privado, sin los requisitos de testigos o de ratificación de firmas.
 
 ARTICULO 2,318.- Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, observándose lo dispuesto en el párrafo segundo del art. 1,834.
 
@@ -10883,7 +10885,9 @@ Puede también convenir con el deudor en que se le adjudique en el precio que se
 
 ARTICULO 2,917.- Para la constitución de créditos con garantía hipotecaria se observarán las formalidades establecidas en los artículos 2317 y 2320.
 
-Los contratos en los que se consigne garantía hipotecaria otorgada con motivo de la enajenación de terrenos o casas por el Departamento del Distrito Federal para la constitución del patrimonio familiar o para personas de escasos recursos, cuando el valor del inmueble hipotecado no exceda de ochenta mil pesos, se observarán las formalidades establecidas por el párrafo segundo del artículo 2317.
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
+
+Los contratos en los que se consigne garantía hipotecaria otorgada con motivo de la enajenación de terrenos o casas por el Departamento del Distrito Federal para la constitución del patrimonio familiar o para personas de escasos recursos, cuando el valor del inmueble hipotecado no exceda del valor máximo establecido en el artículo 730, se observarán las formalidades establecidas en el párrafo segundo del artículo 2317.
 
 ARTICULO 2,918.- La acción hipotecaria prescribirá a los diez años, contados desde que pueda ejercitarse con arreglo al título inscrito.
 
@@ -12108,3 +12112,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publica
 D.O.F. 30 DE DICIEMBRE DE 1975.
 
 UNICO.- El presente Decreto entrará en vigor a los treinta días de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 29 DE JUNIO DE 1976.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
