@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-regula-el-almacenaje-venta-porteo-y-consumo-de-26023"
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-30"
-last_updated: "2002-08-30"
+last_updated: "2004-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE REGULA EL ALMACENAJE, VENTA, PORTEO Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 30 de agosto del año 2002.
 
@@ -89,15 +89,37 @@ Reglamento: El que expida el ejecutivo del Estado para proveer la aplicación y 
 
 Venta: Comercialización de bebidas alcohólicas.
 
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+Licencia: Documento expedido por la Secretaría de Gobierno que permite, hasta por el término de un año, el almacenaje, venta, consumo o porteo de bebidas alcohólicas, a persona física o moral, en los establecimientos y lugares que ésta regula, sujeto a refrendo anual, y para un domicilio y giro específico. Las licencias terminarán su vigencia en el último día del mes de julio de cada año.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+Permiso: Documento expedido por la Secretaría de Gobierno, con carácter provisional, hasta por treinta días naturales improrrogables, a personas físicas o morales, para llevar a cabo la venta al menudeo de bebidas alcohólicas en envase abierto y al copeo y en lugar determinado, el cual puede ser revocado por violaciones a esta Ley u otros ordenamientos aplicables o porque así lo requiera el interés público.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+Refrendo: Acto administrativo emitido por la Secretaría de Gobierno, mediante el cual se prorroga la vigencia de las licencias expedidas, por el término de un año.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+Regularización de Licencia: Modificaciones efectuadas por la Secretaría de Gobierno a las licencias otorgadas, previa solicitud del interesado, una vez cubiertos los requisitos procedentes que señala el artículo 25 de la presente Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+Revocación: Acto administrativo público que declara extinguidos los derechos que se desprenden de las licencias, cuando así lo exija el interés público o cuando se contravenga la presente ley, debidamente fundado y motivado de manera suficiente, precisa y clara.
+
 ###### ARTÍCULO 5.
 
 En el Estado de Querétaro sólo se podrá almacenar y vender bebidas alcohólicas, en los establecimientos y lugares autorizados, de conformidad con las disposiciones de esta Ley. El porteo de las bebidas alcohólicas, requiere autorización en los términos establecidos en la presente. Su consumo quedará restringido en los casos a que la misma se refiere.
 
 ### CAPITULO SEGUNDO. DE LA COMPETENCIA DE LAS AUTORIDADES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 6.
 
-Es competencia de la Secretaría de Gobierno:
+Es competencia y obligación de la Secretaría de Gobierno:
 
 I. Expedir las licencias y permisos correspondientes, en términos de lo dispuesto en este ordenamiento;
 
@@ -105,17 +127,35 @@ II. Otorgar el refrendo de las licencias que expida en los términos de la prese
 
 III. Llevar a cabo el procedimiento de suspensión de los derechos y revocación de las licencias y permisos que haya expedido en los términos de la presente Ley, de conformidad con lo previsto en el Capítulo Décimo de la misma; y
 
-IV. Las demás que deriven de las disposiciones de esta Ley y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+IV. Verificar en relación con las licencias y permisos para el almacenaje, venta, porteo y consumo de bebidas alcohólicas, la vigencia de las mismas y el exacto cumplimiento de las obligaciones de quienes son titulares y el cumplimiento de requisitos por quienes las soliciten;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+V. Establecer el número de licencias o permisos que se podrán autorizar como máximo en una localidad o zona geográfica conforme a las disposiciones reglamentarias;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+VI. Hacer del conocimiento de los Municipios y, de considerarlo necesario, a las dependencias competentes, todas las irregularidades o violaciones a la presente Ley, dentro de los diez días siguientes a la fecha en que tenga conocimiento de éstas, con motivo de los actos de inspección que se practiquen; y
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+VII. Las demás que deriven de las disposiciones de esta Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 7.
 
-Es competencia de la Secretaría de Planeación y Finanzas:
+Es competencia y obligación de la Secretaría de Planeación y Finanzas:
 
 I. Expedir y ejecutar órdenes de inspección y verificación a los establecimientos y lugares previstos en este ordenamiento;
 
 II. Determinar e imponer las multas por infracciones que se conozcan con motivo de los actos de inspección y verificación, realizados por personal autorizado adscrito a esa Secretaría, salvo en los casos señalados en las fracciones XX y XXI del artículo 44 de este ordenamiento;
 
-III. Hacer del conocimiento de la Secretaría de Gobierno las irregularidades o violaciones a la presente Ley, que conozca con motivo de los actos de inspección o verificación que se practiquen;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+III. Hacer del conocimiento de la Secretaría de Gobierno, todas las irregularidades o violaciones a la presente Ley, dentro de los diez días siguientes a la fecha en que tenga conocimiento de éstas, con motivo de los actos de inspección que se practiquen;
 
 IV. Efectuar el cobro coactivo de las multas que impongan las autoridades competentes y que deriven de infracciones a la presente Ley; y
 
@@ -137,17 +177,21 @@ IV. Determinar e imponer las sanciones a que se refiere la fracción I del artí
 
 V. Proceder a la clausura inmediata cuando de inspección o verificación se observe que el establecimiento o lugar inspeccionado o verificado no cuenta con las condiciones y medidas que prevé el presente ordenamiento y las disposiciones legales aplicables;
 
-VI.- Hacer del conocimiento de la Secretaría de Gobierno las irregularidades o violaciones a la presente Ley, que conozca con motivo de los actos de inspección o verificación que se practiquen, y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+VI. Hacer del conocimiento de la Secretaría de Gobierno, todas las irregularidades o violaciones a la presente Ley, dentro de los diez días siguientes a la fecha en que tenga conocimiento de éstas, con motivo de los actos de inspección que se practiquen; y
 
 VII. Las demás que deriven de las disposiciones de esta Ley y otras disposiciones aplicables.
 
-###### ARTICULO 9.
+###### ARTÍCULO 9.
 
 En esta materia, la Secretaría de Educación del Estado deberá implementar campañas de orientación y prevención de adicciones, en sus programas educativos anuales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 10.
 
-Es competencia de las Autoridades Sanitarias Estatales:
+Es competencia y obligación de las Autoridades Sanitarias Estatales:
 
 I. Ejercer el control y regulación sanitaria de los establecimientos que produzcan, expendan o suministren bebidas alcohólicas en el Estado.
 
@@ -155,23 +199,27 @@ II. Vigilar que en los establecimientos que expendan bebidas alcohólicas, estas
 
 III. Coordinar con las autoridades sanitarias federales, la programación y ejecución de programas contra el alcoholismo;
 
-IV. Las demás que deriven de las disposiciones de la Ley de Salud del Estado y demás disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
-La Secretaría de Salud, Servicios de Salud del Estado de Querétaro y la Dirección de Fomento y Regulación Sanitaria, deberán remitir a la Secretaría de Gobierno y a la Secretaría de Planeación y Finanzas un informe sobre las irregularidades que se hayan observado con motivo de las inspecciones o verificaciones que se realicen en los establecimientos y lugares previstos en la presente Ley en el ejercicio de sus atribuciones, junto con copia del dictamen respectivo que hubiesen emitido.
+IV. Las demás que deriven de las disposiciones de la Ley de Salud del Estado de Querétaro y demás disposiciones legales aplicables.
+
+La Secretaría de Salud, Servicios de Salud del Estado de Querétaro y la Dirección de Fomento y Regulación Sanitaria, deberán remitir a la Secretaría de Gobierno y a la Secretaría de Planeación y Finanzas, dentro de los diez días siguientes a la fecha en que tenga conocimiento de las irregularidades que se hayan observado con motivo de las inspecciones o verificaciones, que se realicen en los establecimientos y lugares previstos en la presente Ley, en el ejercicio de sus atribuciones, un informe, acompañado de copia del dictamen que emita.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 11.
 
-Son atribuciones de la Unidad Estatal de Protección Civil:
+Es obligación y competencia de la Unidad Estatal de Protección Civil:
 
 I. Expedir y ejecutar órdenes de inspección o verificación para determinar si los establecimientos y lugares en donde se almacenen, vendan o consuman bebidas alcohólicas reúnen o no las condiciones y medidas de seguridad que establece la Ley de la materia y las disposiciones previstas en las Normas Oficiales Mexicanas correspondientes;
 
-II. Proceder a la clausura inmediata cuando de la inspección o verificación se observe que el establecimiento o lugar inspeccionado o verificado, no cuente con las condiciones y medidas de seguridad necesarias;
+II. Proceder a la Clausura inmediata cuando de la inspección o verificación se observe que el establecimiento o lugar inspeccionado o verificado, no cuente con las condiciones y medidas de seguridad necesarias.
 
-III. Remitir a la Secretaría de Gobierno el dictamen de la inspección o verificación que realice de acuerdo con lo previsto en la fracción I anterior; y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
-IV. Las demás que le confieren la presente Ley, la Ley de Protección Civil para el Estado de
+III. Remitir a la Secretaría de Gobierno, el dictamen de la inspección o verificación que realice, de acuerdo con lo previsto en la fracción I, dentro de los diez días siguientes a la fecha en que se lleve a cabo, y
 
-Querétaro y otras disposiciones aplicables.
+IV. Las demás que le confieren la presente Ley, la Ley de Protección Civil para el Estado de Querétaro y otras disposiciones aplicables.
 
 La Unidad Estatal de Protección Civil, se coordinará con las Unidades de Protección Civil Municipales, para vigilancia y aplicación de la presente Ley.
 
@@ -209,11 +257,13 @@ B. Con oferta de alimentos:
 
 10. Discoteca. Establecimiento con acceso únicamente para personas mayores de edad, que cuenta con pista para bailar y ofrece música continua, grabada o en vivo, en donde pueden venderse bebidas alcohólicas en envase abierto o al copeo, para su consumo dentro del mismo local.
 
-11. Bar. Establecimiento con acceso únicamente para personas mayores de edad, en donde de manera independiente o formando parte de otro giro, se venden preponderamente bebidas alcohólicas en envase abierto o al copeo, para consumirse dentro del mismo local.
+11. Bar. Establecimiento con acceso únicamente para persona mayores de edad, en donde de manera independiente o formando parte de otro giro, se venden preponderamente bebidas alcohólicas en envase abierto o al copeo, para consumirse dentro del mismo local.
 
 12. Centro nocturno. Establecimiento con acceso únicamente para personas mayores de edad, en donde se presentan espectáculos o variedades y cuenta con pista de baile, música en vivo o grabada, y se venden bebidas alcohólicas en envase abierto o al copeo, para su consumo dentro del mismo local.
 
-13. Centro social o Salón de Fiestas. Establecimiento en el cual se realizan eventos sociales de carácter privado y donde pueden consumirse bebidas alcohólicas al copeo y en envase abierto.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+13. Salón de Fiestas. Establecimiento en el cual se realizan eventos sociales de carácter privado y donde pueden consumirse bebidas alcohólicas al copeo y en envase abierto.
 
 TIPO III. Establecimientos autorizados en los que se expenden bebidas alcohólicas en envase cerrado, con prohibición de consumirse en el interior del mismo establecimiento y que pueden ser:
 
@@ -227,13 +277,15 @@ TIPO III. Establecimientos autorizados en los que se expenden bebidas alcohólic
 
 Los propietarios y encargados de los establecimientos señalados en los puntos 14, 15, 16 y 17 de éste artículo tendrán la obligación de proporcionar a la Secretaría de Gobierno, cada vez que ésta lo solicite, una copia de su declaración de clientes y proveedores que presente a la Secretaría de Hacienda y Crédito Público.
 
-TIPO IV. Lugares públicos o privados en los que se presenten eventos artísticos y deportivos, se celebren festividades cívicas o tradicionales, o se realicen eventos especiales, y cuenten con servicio temporal para la venta y consumo de bebidas alcohólicas, debiendo aquella efectuarse al menudeo, en envase de cartón, plástico o cualquier otro material blando o ligero.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+TIPO IV. Lugares públicos o privados en los que se presenten eventos artísticos y deportivos, se celebren festividades cívicas o tradicionales o se realicen eventos especiales y cuenten con permiso temporal para la venta y consumo de bebidas alcohólicas, debiendo aquella efectuarse al menudeo, en envase de cartón, plástico o cualquier otro material blando o ligero.
 
 Los establecimientos indicados en los puntos 1, 2, 3, 9, 10, 11, 12 y 13 de este artículo, deberán ofertar y promocionar el consumo de alimentos preparados al interior de los mismos, debiendo para ello incluir en su carta alimentos de precio igual o menor al de las bebidas alcohólicas ofertadas al precio más bajo.
 
 Para los efectos de ésta ley, no se consideran alimentos los siguientes: frituras, frutos secos y similares en cualquier presentación, aunque estos sean preparados dentro del mismo establecimiento.
 
-Los propietarios o encargados de los establecimientos y lugares comprendidos en los tipos I y II de este artículo deberán abstenerse de proporcionar a sus clientes recipientes de cualquier clase o material que les facilite a éstos la transportación de bebidas alcohólicas hacia el exterior de dichos establecimientos o lugares.
+Los propietarios o encargados de los establecimientos y lugares comprendidos en los tipos I y II de esta artículo deberán abstenerse de proporcionar a sus clientes recipientes de cualquier clase o material que les facilite a éstos la transportación de bebidas alcohólicas hacia el exterior de dichos establecimientos o lugares.
 
 ###### ARTÍCULO 13.
 
@@ -325,53 +377,97 @@ La Secretaría de Gobierno conjuntamente con los Municipios del Estado, las cám
 
 El Ejecutivo del Estado, a través de la Secretaría de Gobierno, podrá expedir de conformidad a la presente Ley, las licencias, permisos y refrendos, para el almacenaje, venta y consumo de bebidas alcohólicas, en los establecimientos y lugares que regula, así como para el porteo de las mismas.
 
-Las licencias, permisos y refrendos a que se refiere este ordenamiento son actos administrativos subordinados al orden público y al interés social, se otorgarán a favor del solicitante y sólo podrán ser objeto de concesión o arrendamiento, mediante autorización otorgada, por la Secretaría de Gobierno en los términos que establece el presente ordenamiento.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+Las licencias, permisos y refrendos a que se refiere este ordenamiento, son actos administrativos subordinados al orden público y al interés social, se otorgarán a favor del solicitante, tendrán carácter de intransferibles e inembargables y sólo podrán ser objeto de cesión a título gratuito y con el pago de los derechos correspondientes, mediante autorización expresa otorgada, por la Secretaría de Gobierno en los términos que establece el presente ordenamiento.
 
 ###### ARTÍCULO 24.
 
-Para efectos de esta Ley se considera como:
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2004)
 
-Licencia. Documento expedido por la Secretaría de Gobierno que permite el almacenaje, venta, consumo o porteo de bebidas alcohólicas, a persona física o moral, en los establecimientos y lugares que esta regula, sujeto a refrendo anual, y para un domicilio y giro específico;
-
-Permiso. Documento expedido por la Secretaría de Gobierno, con carácter provisional, hasta por treinta días naturales improrrogables, a personas físicas o morales, para llevar a cabo la venta al menudeo de bebidas alcohólicas en envase abierto y al copeo y en lugar determinado, el cual puede ser revocado por violaciones a esta Ley u otros ordenamientos aplicables o porque así lo requiera el interés público;
-
-Refrendo. Acto administrativo emitido por la Secretaría de Gobierno, mediante el cual se prorroga la vigencia de las licencias expedidas, por el término de un año fiscal; y
-
-Regularización de Licencia. Modificaciones efectuadas por la Secretaría de Gobierno a las licencias otorgadas, previa solicitud del interesado, una vez cubiertos los requisitos que señala el artículo 25 de la presente Ley y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 25.
 
-Los interesados en obtener licencia o permiso para el almacenaje, venta, consumo o porteo de bebidas alcohólicas a los que se refiere esta Ley, deberán presentar solicitud por escrito ante la Secretaría de Gobierno, con los siguientes datos y documentos:
+Los interesados en obtener licencia o permiso para el almacenaje, venta, porteo o consumo de bebidas alcohólicas a los que se refiere esta ley, deberán presentar solicitud por escrito, en los formatos que al efecto emita la Secretaría de Gobierno, con los siguientes datos y documentos:
 
-I. Nombre, razón social o denominación, registro federal de contribuyentes, domicilio y nacionalidad del solicitante. Si éste es extranjero, deberá comprobar que está autorizado por la Secretaría de Gobernación para dedicarse a la actividad para la cual solicita la licencia o permiso, en los términos de la Ley General de Población;
+I. Nombre, razón social o denominación del solicitante y, en su caso, de su representante legal;
 
-II. Croquis en donde se indique en forma clara y precisa la ubicación del lugar en donde se pretenda establecer;
+II. Número del Registro Federal de Contribuyentes;
 
-III. Tipo y denominación del establecimiento, no utilizando nombres de héroes, del país, estados, municipios o ciudades así como denominaciones o menciones que lesionen la moral o las buenas costumbres o que promuevan el consumo inmoderado de bebidas alcohólicas;
+III. Domicilio del solicitante y del establecimiento en donde operará la licencia correspondiente;
 
-IV. Actividad o actividades que se pretendan realizar en el establecimiento, así como información del capital invertido en infraestructura y mobiliario;
+IV. Nacionalidad del solicitante. En caso de tratarse de extranjero, deberá comprobar que está autorizado por la Secretaría de Gobernación del Gobierno Federal, para dedicarse a la actividad para la cual solicita la licencia, en los términos de la Ley General de Población;
 
-V. Dictamen de uso de suelo expedido por la autoridad municipal competente;
+V. Actividades y giros que se pretendan realizar en el establecimiento;
 
-VI. La opinión técnica favorable expedida por la Secretaría de Salud del Estado o Servicios de Salud del Estado de Querétaro, respecto a las condiciones sanitarias del establecimiento donde se realizará la actividad para la que se solicita la licencia o permiso;
+VI. Croquis donde se indique en forma clara y precisa, la ubicación del lugar donde se pretende llevar a cabo las actividades que ampare la licencia solicitada;
 
-VII. El dictamen favorable expedido por la Unidad Estatal de Protección Civil, el cual deberá señalar el aforo permitido y demás elementos correspondientes, de acuerdo con las características del establecimiento;
+VII. Tipo y denominación del establecimiento;
 
-VIII. Dictamen de factibilidad positivo otorgado por la autoridad municipal competente; y
+VIII. Capital invertido o a invertir, en infraestructura y mobiliario en el establecimiento;
 
-IX. Licencia o autorización de funcionamiento vigente, expedida por la autoridad municipal competente.
+IX. Constancias o dictámenes de la autoridad municipal competente, que acrediten:
 
-Los requisitos a que se refieren las fracciones V, VI, VII, y VIII, no serán aplicables tratándose de licencias para porteo. Los establecidos en las fracciones III y V no serán aplicables en casos de permisos.
+a) Uso de suelo que permita la actividad comercial y el giro que se pretende;
+
+b) Licencia de funcionamiento vigente;
+
+c) Factibilidad que establezca que las condiciones y ubicación del establecimiento, y en su caso, la actividad a realizar, cumplen con las disposiciones reglamentarias municipales aplicables.
+
+Los requisitos señalados en la fracción IX incisos a) y b), no serán aplicables, tratándose de licencias de porteo.
+
+Para el caso de permisos, se deberá cumplir con lo dispuesto por las fracciones I, III, IV, VIII y fracción IX inciso c).
+
+Recibida la solicitud, la Secretaría de Gobierno pedirá de la Secretaría de Salud o Servicios de Salud del Estado de Querétaro, así como de la Unidad Estatal de Protección Civil, opinión técnica respecto del establecimiento donde funcionaría la licencia solicitada, señalando el cumplimiento o incumplimiento de las normas y condiciones sanitarias y de protección civil.
 
 ###### ARTÍCULO 26.
 
 Satisfechos los requisitos del artículo anterior, el Ejecutivo del Estado, a través de la Secretaría de Gobierno, tomando en consideración el orden público y el interés social, podrá otorgar, en los casos que corresponda, la licencia, permiso o refrendo respectivo, debiendo el interesado cubrir el pago de los derechos correspondientes en los términos establecidos en las leyes de la materia.
 
-La determinación de otorgamiento o no de la licencia, permiso o refrendo respectivo, se hará del conocimiento del interesado, en el término de treinta días hábiles, posteriores a la fecha de realización de la solicitud respectiva.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+La determinación de otorgamiento o no de la licencia, permiso o refrendo respectivo, se hará del conocimiento del interesado, en el término de treinta días hábiles, contados a partir del día siguiente de la recepción de la solicitud respectiva. Transcurrido el plazo señalado sin que exista determinación por parte de la Secretaría de Gobierno, se entenderá rechazada la solicitud.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 27.
 
-No se otorgará licencia para la venta de bebidas alcohólicas a las personas que respecto de los establecimientos y lugares que destinen a ese fin, no cuenten con la licencia o autorización de funcionamiento vigente, expedido por la autoridad municipal competente.
+No se otorgará licencia, permiso o refrendo para la venta de bebidas alcohólicas o en su caso, se podrá revocar la que se hubiere otorgado, en los casos siguientes:
+
+I. Que los establecimientos, en donde funcionará la licencia, no cuenten con autorización de funcionamiento vigente;
+
+II. Que la ubicación del establecimiento no permita la venta de bebidas alcohólicas, de conformidad con el reglamento municipal correspondiente;
+
+III. Que el establecimiento no cuente con las medidas sanitarias que señalen las autoridades de salud en el Estado;
+
+IV. Que el establecimiento no cuente con las medidas de protección civil que señalen las autoridades competentes para ello;
+
+V. Que el solicitante haya sido sancionado reiteradamente por incumplimiento a las obligaciones que se señalan en la presente Ley;
+
+VI. Que el establecimiento lleve a cabo la venta de bebidas alcohólicas sin la autorización correspondiente;
+
+VII. Que la zona, en donde se ubicará el establecimiento, no cuente con uso de suelo para actividades comerciales;
+
+VIII. Que el número de autorizaciones previamente otorgadas en la zona, sea suficiente para atender la demanda de venta de bebidas alcohólicas;
+
+IX. Que en la zona, donde se ubicará el establecimiento, se presenten de manera grave y reiterada la incidencia de los conflictos, actividades delictivas o violaciones administrativas, aparejadas al consumo de alcohol;
+
+X. Que se considere que el impacto de la autorización de una licencia puede ser nocivo para la comunidad del lugar donde se ubique el establecimiento;
+
+XI. Que el establecimiento donde se pretende operar la licencia o permiso, se encuentre en alguno de los supuestos previstos en el artículo 19 de la presente Ley;
+
+XII. Que el otorgamiento de la licencia o permiso, se oponga al orden público y al interés social;
+
+XIII. Que no se lleve a cabo el refrendo de la licencia dentro de los treinta días posteriores al vencimiento del plazo legal para tal efecto y, en su caso, en el tiempo que la autoridad competente establezca al respecto;
+
+XIV. Que las opiniones técnicas de las autoridades de salud o de protección civil sean negativas;
+
+XV. Que se exceda el número de licencias o permisos, señalados para la población o zona donde se ubique el establecimiento donde operarán las mismas;
+
+XVI. Que se pretenda la acreditación de requisitos mediante documentos falsos o apócrifos; y
+
+XVII. Los demás casos que señale esta Ley o su Reglamento.
 
 ###### ARTÍCULO 28.
 
@@ -419,29 +515,49 @@ Cuando el producto asegurado sea de fácil descomposición, la autoridad procede
 
 ### CAPÍTULO OCTAVO. DE LAS INSPECCIONES Y VERIFICACIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 36.
 
-La Secretaría de Planeación y Finanzas y los Municipios del Estado, son autoridades competentes para inspeccionar, verificar y comprobar el exacto cumplimiento de las disposiciones de esta Ley, por lo cual están facultadas para realizar los actos y diligencias necesarias, en los términos previstos en la misma.
+La Secretaría de Gobierno, la Secretaría de Planeación y Finanzas y los Municipios del Estado, son autoridades competentes para inspeccionar, verificar y comprobar el exacto cumplimiento de las disposiciones de esta Ley, por lo cual, están facultadas para realizar los actos y diligencias necesarias, en los términos previstos en la misma.
 
 La Secretaría de Salud, Servicios de Salud del Estado de Querétaro, la Unidad Estatal de Protección Civil y las Unidades Municipales de Protección Civil, coadyuvarán con las autoridades señaladas en el párrafo anterior, efectuando inspecciones o verificaciones en el ámbito de su respectiva competencia, las que podrán realizarse en forma coordinada.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 37.
 
 Están facultados para expedir las órdenes de inspección o verificación previstas en la presente Ley, en el ámbito de sus respectivas competencias:
 
-a) El Secretario de Planeación y Finanzas;
+I. De la Secretaría de Planeación y Finanzas:
 
-b) El Secretario de Salud;
+a. El Secretario de Planeación y Finanzas;
 
-c) El Director de Fomento y Regulación Sanitaria de SESEQ;
+b. El Director de Ingresos;
 
-d) El Jefe del Departamento de Notificación, Cobranza e Inspección Fiscal, de la Dirección de Ingresos de la Secretaría de Finanzas;
+c. El Jefe del Departamento de Notificación, Cobranza e Inspección Fiscal de la Dirección de Ingresos;
 
-e) El Director de Ingresos de la Secretaría de Planeación y Finanzas;
+II. El Secretario de Salud;
 
-f) El Titular de la Unidad Estatal de Protección Civil; y
+III. El Director de Fomento y Regulación Sanitaria de SESEQ;
 
-g) El Secretario del Ayuntamiento, el Secretario de Gobierno Municipal, o en su caso el Titular de la Unidad Municipal de Protección Civil.
+IV. El Titular de la Unidad Estatal de Protección Civil;
+
+V. De la Secretaría de Gobierno:
+
+a. El Secretario de Gobierno;
+
+b. El Subsecretario de Gobierno;
+
+c. El Director de Gobierno.
+
+VI. De los Municipios:
+
+a. El Secretario del Ayuntamiento, o en su caso, el Secretario de Gobierno o el funcionario municipal competente, de acuerdo a los reglamentos municipales;
+
+b. El Titular de la dependencia encargada de las finanzas públicas Municipales; o
+
+c. El Titular de la Unidad Municipal de Protección Civil.
 
 ###### ARTÍCULO 38.
 
@@ -599,7 +715,7 @@ f) Se opere con la licencia o permiso suspendidos; y
 
 g) Cuando se reincida en el supuesto establecido en la fracción XXV del artículo 44 de este ordenamiento.
 
-V.- Clausura definitiva del establecimiento, cuando la resolución emitida dentro del Procedimiento Administrativo de Suspensión de los Derechos y Revocación las Licencias y Permisos, sea en el sentido de suspender o revocar los mismos.
+V. Clausura definitiva del establecimiento, cuando la resolución emitida dentro del Procedimiento Administrativo de Suspensión de los Derechos y Revocación las Licencias y Permisos, sea en el sentido de suspender o revocar los mismos.
 
 Se entiende por clausura el acto administrativo realizado por la autoridad competente, a través del cual se suspenden las actividades dentro de un establecimiento, en donde se almacenen, vendan o consuman bebidas alcohólicas, como medida cautelar al actualizarse cualquiera de las hipótesis establecidas en el artículo 11 fracción II, 41 y 42 de la presente Ley o como consecuencia de la imposición de alguna de las sanciones previstas en su artículo 45 fracciones II, III y IV.
 
@@ -763,7 +879,7 @@ La demás pruebas quedarán a la prudente apreciación de la autoridad.
 
 Si por relación de las pruebas rendidas y de las presunciones formadas, las autoridades adquieren convicción distinta acerca de los hechos materia del recurso, podrán valorar las pruebas sin sujetarse a lo dispuesto en este artículo, debiendo en ese caso fundar razonadamente esta parte de su resolución.
 
-###### ARTICULO 63.
+###### ARTÍCULO 63.
 
 La autoridad ante quien se interponga el recurso dictará resolución en un plazo que no excederá de treinta días hábiles contados a partir de la fecha de la interposición del recurso, ordenando la notificación personal al recurrente.
 
@@ -771,7 +887,7 @@ La autoridad ante quien se interponga el recurso dictará resolución en un plaz
 
 La resolución del recurso se fundará en derecho y examinará todos y cada uno de los motivos de inconformidad hechos valer por el recurrente examinando en su conjunto los agravios, a fin de resolver la cuestión efectivamente planteada.
 
-###### ARTICULO 65.
+###### ARTÍCULO 65.
 
 La resolución que ponga fin al recurso podrá:
 
@@ -862,3 +978,19 @@ LIC. BERNARDO GARCIA CAMINO
 SECRETARIO DE GOBIERNO
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE NOVIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+Las licencias o refrendos que se hayan expedido con anterioridad a la entrada en vigor de la presente Ley terminarán su vigencia en el mes de julio del año 2005, siempre que haya transcurrido un año desde (sic) expedición de la misma. Fuera de estos casos, el interesado podrá convenir con la autoridad estatal y municipal, que los meses no cubiertos por la anualidad de la licencia o refrendo, se tome en cuenta para el pago del refrendo correspondiente.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+La presente Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
