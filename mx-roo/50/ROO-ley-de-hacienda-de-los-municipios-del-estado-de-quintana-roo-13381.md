@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "1999-12-31"
+last_updated: "2000-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -89,11 +89,11 @@ El objeto del impuesto predial incluye la propiedad o posesión de las construcc
 
 En los predios rústicos comprende solamente la propiedad o posesión de las construcciones permanentes que no sean utilizadas directamente para fines agropecuarios y ganaderos.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTÍCULO 6º.
 
-No es objeto del Impuesto Predial la propiedad o posesión de bienes inmuebles del dominio público, de la Federación, del estado y de los municipios, siempre y cuando dichos inmuebles sean para su propio uso, de conformidad con la Ley General de Bienes Nacionales y demás disposiciones legales aplicables, del Estado y de los Municipios.
+No es objeto del Impuesto Predial la propiedad o posesión de bienes inmuebles del dominio público, de la Federación, del Estado y de los Municipios, siempre y cuando dichos inmuebles sean para su propio uso, de conformidad con la Ley General de Bienes Nacionales y demás disposiciones legales aplicables, del Estado y de los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
 SUJETOS DEL IMPUESTO
 
@@ -185,15 +185,17 @@ d).- Cuando alguno de estos predios, con excepción de los rústicos, no cuenten
 
 5.- Predios que no cuenten con bardas, banquetas y construcciones permanentes 30.9 al millar
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-III.- En los municipios de Benito Juárez y Solidaridad, se aplicarán las siguientes tasas por cada año:
+III.- En los Municipios de Benito Juárez y Solidaridad, se aplicarán las siguientes tasas por cada año:
 
-a).- Predios urbanos 6.9 al millar
+a).- Predios urbanos o rústicos que su valor catastral no exceda los $12,000.00 2.5 S.M.G.
 
-b).- Predios rústicos 8.0 al millar
+b).- Predios urbanos 6.9 al millar
 
-c).- Cuando alguno de estos predios con excepción de los rústicos no cuenten con banquetas, bardas o construcciones permanentes, en lugar de las tarifas que anteceden, pagarán las siguientes tarifas:
+c).- Predios rústicos 8.0 al millar
+
+d).- Cuando alguno de estos predios, con excepción de los rústicos no cuenten con banquetas, bardas o construcciones permanentes, en lugar de las tarifas que anteceden pagarán las siguientes tarifas:
 
 1.- Predios que no cuenten con banquetas 7 al millar
 
@@ -203,7 +205,7 @@ c).- Cuando alguno de estos predios con excepción de los rústicos no cuenten c
 
 4.- Predios que no cuenten con bardas y banquetas 7.5 al millar
 
-5.- Predios que no cuenten con bardas, banquetas y construcciones permanentes 19 al millar
+5.- Predios que no cuenten con bardas, banquetas y construcciones permanentes 19 al millar.
 
 ###### ARTÍCULO 14.
 
@@ -221,11 +223,17 @@ EXENCIONES
 
 Están exentos del pago del Impuesto Predial:
 
-I.- Los predios del dominio público de la Federación, del Estado y de los municipios.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1998)</small>
+I.- Los predios del dominio público de la Federación, del Estado, y de los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-II.- Los bienes destinados a servicios públicos ya sean propiedad del Gobierno federal, estatal o municipal o de otras instituciones en que éstas tengan interés patrimonial previa comprobación y cuando sean motivo de usufructo, siempre y cuando dichos inmuebles sean para su propio uso, de conformidad con lo dispuesto en la Ley General de Bienes Nacionales.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+II.- Los inmuebles pertenecientes a los institutos de vivienda del Estado o Municipios tratándose de reservas territoriales, lotificaciones no otorgadas; salvo que los inmuebles cumplan con lo establecido en el Artículo 5º Fracción IV de esta ley.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+III.- El fundo legal.
 
 ###### ARTÍCULO 17.
 
@@ -365,9 +373,13 @@ Están obligados al pago del Impuesto Sobre Adquisición de Inmuebles establecid
 
 El valor del inmueble podrá ser el valor de adquisición del mismo disminuido con el valor que se tomó como base para calcular el impuesto al que se refiere esta Ley, en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTÍCULO 30.
 
-No se pagará el impuesto establecido en el Artículo 29 de esta Ley en las adquisiciones de inmuebles que hagan la Federación, el Distrito Federal, los estados y los municipios para formar parte del dominio público, siempre y cuando dichos inmuebles sean para su propio uso. Tampoco se pagará el impuesto establecido en esta Ley en las adquisiciones de inmuebles que hagan arrendatarios financieros al ejercer la operación de compra en los términos de arrendamiento financiero; así como los que adquieran los estados extranjeros en caso de reciprocidad.
+No se pagará el impuesto establecido en el Artículo 29 de esta Ley en las adquisiciones de inmuebles que hagan la Federación, el Distrito Federal, los Estados y los Municipios para formar parte del dominio público, siempre y cuando dichos inmuebles sean para su propio uso. Salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+
+Tampoco se pagará el impuesto establecido en esta Ley en las adquisiciones de inmuebles que hagan arrendatarios financieros al ejercer la operación de compra en los términos de arrendamiento financiero; así como los que adquieran los Estados extranjeros en caso de reciprocidad.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 1998)</small>
 
@@ -683,9 +695,11 @@ En los casos de la construcción de bardas aplanadas y pintadas, los derechos se
 
 Los derechos de cooperación serán causados al terminarse las obras en cada tramo que se ponga en servicio y serán pagados en un plazo de dos años, que podrá ampliarse hasta cuatro, cuando los causantes comprueben que su situación económica no les permite hacer el pago en el plazo fijado, y siempre que la ampliación no exceda del término estipulado para la amortización del financiamiento, si lo hubo.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTÍCULO 57.
 
-Están exentos de pago de derechos de cooperación, los municipios, el estado y la Federación, por sus bienes de dominio público.
+Están exentos de pago de derechos de cooperación, los Municipios, el Estado y la Federación, por sus bienes de dominio público. Salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
 ### CAPITULO II. SERVICIO DE TRANSITO
 
@@ -971,6 +985,8 @@ Los Oficiales del Registro Civil que actúen sin que hayan sido cubiertos los de
 
 ### CAPITULO IV. LICENCIAS PARA CONSTRUCCIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTÍCULO 71.
 
 Toda licencia de construcción, sus refrendos y terminación causarán derechos y su pago se efectuará previa expedición, en base a los planos y cálculos a que deba someterse la construcción, una vez que hayan sido aprobados por la autoridad correspondiente de acuerdo a la tipología y aplicando la Tarifa siguiente:
@@ -991,23 +1007,23 @@ II.- Cuando se trate de construcciones destinadas a fines comerciales, industria
 
 Las licencias y refrendos de obras comprendidas en la fracción I, se expedirán por un período hasta de 180 días y las comprendidas en la II, por los plazos que fijen los ayuntamientos del estado, los que no serán menores que el anterior.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-III.- FRACCIONAMIENTO DE TERRENO; sobre el monto total del presupuesto de obras de urbanización por ejecutar en el fraccionamiento o en las zonas que van a desarrollarse 2%. En este caso los derechos comprenden los gastos de revisión y el estudio de planos y proyectos, así como la urbanización y se cobrarán en efectivo al quedar definidos los proyectos, antes de iniciar las obras.
+III.- FRACCIONAMIENTO DE TERRENO.- Sobre el monto total del presupuesto de obras de urbanización por ejecutar en el fraccionamiento o en las zonas que van a desarrollarse 2%. En este caso, los derechos comprenden los gastos de revisión y el estudio de planos y proyectos, así como la urbanización y se cobrará en efectivo al quedar definidos los proyectos antes de iniciar las obras.
 
 El fraccionamiento de terreno, cuando sea destinado a la vivienda de interés social y popular se cobrará el 1% en los mismos términos del párrafo anterior.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 IV.- Para la autorización del régimen de propiedad en condominio por tipo de construcción:
 
-a).- Interés social 1 S.M.G. por unidad privada
+a).- Interés social 1 S.M.G. por unidad privada.
 
-b).- Medio 2 S.M.G. por unidad privada
+b).- Medio 2 S.M.G. por unidad privada.
 
-c).- Residencial 4 S.M.G. por unidad privada
+c).- Residencial 4 S.M.G. por unidad privada.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 V.- Por la subdivisión de tipo general:
 
@@ -1015,13 +1031,17 @@ a).- Cuando resulten 2 lotes 4.60 S.M.G.
 
 b).- Cuando resulten más de 2 lotes, por cada lote excedente 4.03 S.M.G.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 VI.- Por la fusión de predios en general:
 
 a).- Por la fusión de 2 lotes 4.60 S.M.G.
 
 b).- Por cada lote que exceda de 2 4.03 S.M.G.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+Cuando el Municipio no pueda efectuar por sí mismo la función contenida en las fracciones III, IV, V y VI de este Artículo, podrá convenir con el Estado la mejor manera de llevarla a cabo, a fin de no ocasionar con su ejercicio afectación a la población.
 
 ###### ARTÍCULO 72.
 
@@ -2017,7 +2037,9 @@ Los Ayuntamientos podrán concertar con las organizaciones, empresarios y ciudad
 
 Este derecho deberá ser cubierto en la Tesorería Municipal en la forma siguiente:
 
-I.- Personas físicas o morales con giros comerciales, industriales o de servicios, en forma bimestral dentro de los primeros 5 días de los meses de enero, marzo, mayo, julio, septiembre y noviembre; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+I.- Personas físicas o morales con giros comerciales Industriales o de servicios en forma mensual dentro de los primeros días del mes; y
 
 II.- Personas físicas o morales con predio de uso habitacional, en forma mensual dentro de los primeros 5 días de cada mes.
 
@@ -2384,3 +2406,11 @@ P.O. 31 DE DICIEMBRE DE 1999.
 PRIMERO.- El presente decreto entrará en vigor a partir del primero del mes de Enero del año previa publicación el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones dictadas con anterioridad que se opongan al presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2000.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día primero del mes de Enero del año dos mil uno, previa publicación en el Periódico Oficial del Estado, con excepción de lo previsto en el Artículo Tercero Transitorio de este propio Decreto.
+
+SEGUNDO.- Se derogan todas las disposiciones dictadas con anterioridad que se opongan al presente decreto.
+
+TERCERO.- Por esta única ocasión la tasa aplicable para el pago del impuesto predial respecto de predios edificados en zonas urbanas, cuyo valor sea de $5,001.00 en adelante, exclusivamente del Municipio de Othón P. Blanco contenido en el inciso b) de la Fracción I del Artículo 13 de la Ley de Hacienda de los Municipios, será de 10.5 al millar, cobrando vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado y por todo el ejercicio fiscal del año 2001.
