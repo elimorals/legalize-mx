@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2003-12-16"
+last_updated: "2003-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -50,6 +50,8 @@ El Municipio libre es un nivel de gobierno, así como la base de la organizació
 ###### Artículo 3.
 
 Cada Municipio es gobernado por un Ayuntamiento de elección popular directa. Las competencias municipales deben ser ejercidas de manera exclusiva por el Ayuntamiento y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 4.
 
@@ -197,111 +199,113 @@ El Estado de Jalisco se divide en los municipios libres siguientes:
 
 71. San Gabriel,
 
-72. San Juan de los Lagos,
+72. San Ignacio Cerro Gordo,
 
-73. San Juanito de Escobedo,
+73. San Juan de los Lagos,
 
-74. San Julián,
+74. San Juanito de Escobedo,
 
-75. San Marcos,
+75. San Julián,
 
-76. San Martín de Bolaños,
+76. San Marcos,
 
-77. San Martín Hidalgo,
+77. San Martín de Bolaños,
 
-78. San Miguel el Alto,
+78. San Martín Hidalgo,
 
-79. San Sebastián del Oeste,
+79. San Miguel el Alto,
 
-80. Santa María de los Angeles,
+80. San Sebastián del Oeste,
 
-81. Santa María del Oro,
+81. Santa María de los Angeles,
 
-82. Sayula,
+82. Santa María del Oro,
 
-83. Tala,
+83. Sayula,
 
-84. Talpa de Allende,
+84. Tala,
 
-85. Tamazula de Gordiano,
+85. Talpa de Allende,
 
-86. Tapalpa,
+86. Tamazula de Gordiano,
 
-87. Tecalitlán,
+87. Tapalpa,
 
-88. Tecolotlán,
+88. Tecalitlán,
 
-89. Techaluta de Montenegro,
+89. Tecolotlán,
 
-90. Tenamaxtlán,
+90. Techaluta de Montenegro,
 
-91. Teocaltiche,
+91. Tenamaxtlán,
 
-92. Teocuitatlán de Corona,
+92. Teocaltiche,
 
-93. Tepatitlán de Morelos,
+93. Teocuitatlán de Corona,
 
-94. Tequila,
+94. Tepatitlán de Morelos,
 
-95. Teuchitlán,
+95. Tequila,
 
-96. Tizapán el Alto,
+96. Teuchitlán,
 
-97. Tlajomulco de Zuñiga,
+97. Tizapán el Alto,
 
-98. Tlaquepaque,
+98. Tlajomulco de Zuñiga,
 
-99. Tolimán,
+99. Tlaquepaque,
 
-100. Tomatlán,
+100. Tolimán,
 
-101. Tonalá,
+101. Tomatlán,
 
-102. Tonaya,
+102. Tonalá,
 
-103. Tonila,
+103. Tonaya,
 
-104. Totatiche,
+104. Tonila,
 
-105. Tototlán,
+105. Totatiche,
 
-106. Tuxcacuesco,
+106. Tototlán,
 
-107. Tuxcueca,
+107. Tuxcacuesco,
 
-108. Tuxpan,
+108. Tuxcueca,
 
-109. Unión de San Antonio,
+109. Tuxpan,
 
-110. Unión de Tula,
+110. Unión de San Antonio,
 
-111. Valle de Guadalupe,
+111. Unión de Tula,
 
-112. Valle de Juárez,
+112. Valle de Guadalupe,
 
-113. Villa Corona,
+113. Valle de Juárez,
 
-114. Villa Guerrero,
+114. Villa Corona,
 
-115. Villa Hidalgo,
+115. Villa Guerrero,
 
-116. Villa Purificación,
+116. Villa Hidalgo,
 
-117. Yahualica de González Gallo,
+117. Villa Purificación,
 
-118. Zacoalco de Torres,
+118. Yahualica de González Gallo,
 
-119. Zapotiltic,
+119. Zacoalco de Torres,
 
-120. Zapopan,
+120. Zapotiltic,
 
-121. Zapotitlán de Vadillo,
+121. Zapopan,
 
-122. Zapotlán del Rey,
+122. Zapotitlán de Vadillo,
 
-123. Zapotlán el Grande y
+123. Zapotlán del Rey,
 
-124. Zapotlanejo.
+124. Zapotlán el Grande, y
+
+125. Zapotlanejo.
 
 ###### Artículo 5.
 
@@ -1934,3 +1938,41 @@ P.O. 18 DE OCTUBRE DE 2003.
 P.O. 16 DE DICIEMBRE DE 2003.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 30 DE DICIEMBRE DE 2003.
+
+Artículo Primero. Publíquese íntegramente el presente decreto incluyendo sus consideraciones en el Periódico Oficial "El Estado de Jalisco".
+
+Artículo Segundo. El Presente decreto entrará en vigor el día 1º de septiembre del año 2005, salvo lo establecido en los siguientes transitorios.
+
+Artículo Tercero. El primer Ayuntamiento del Municipio de San Ignacio Cerro Gordo será electo en las elecciones ordinarias a celebrarse el primer domingo del mes de julio del año 2006 y entrará en funciones el 1º de enero del año 2007.
+
+Artículo Cuarto. Mientras entra en funciones el primer Ayuntamiento, el gobierno y administración del Municipio de San Ignacio Cerro Gordo se depositará en un Concejo Municipal designado por el Congreso del Estado e integrado por diez concejales y un síndico propietarios y sus respectivos suplentes que deberán reunir los mismos requisitos constitucionales y legales que se exigen para el cargo.
+
+La designación del Concejo Municipal deberá hacerse en Sesión Ordinaria del Congreso del Estado que se celebre previa convocatoria para que presenten propuestas a consejeros a los habitantes del nuevo municipio, a más tardar el 30 de noviembre del año 2005. El Congreso del Estado por dos terceras partes de los diputados que concurran a la Sesión nombrará a los concejales y a quien habrá de fungir como Presidente del Concejo Municipal.
+
+Artículo Quinto. Los miembros del Concejo Municipal de San Ignacio Cerro Gordo rendirán protesta el día 1º de enero de 2006, en sesión solemne de Ayuntamiento que se realizará en la cabecera municipal denominada San Ignacio Cerro Gordo, ante la representación del Congreso, con la presencia del ciudadano Gobernador Constitucional del Estado y del Presidente del Supremo Tribunal de Justicia.
+
+El Concejo Municipal iniciará sus funciones el día 1º de enero del año 2006. A partir de la instalación, el Delegado Municipal de San Ignacio Cerro Gordo cesará en sus funciones, mientras que los demás delegados y agentes municipales que funcionen dentro de la circunscripción del nuevo municipio continuarán en su cargo hasta su ratificación o remoción justificada por parte del propio Concejo.
+
+Artículo Sexto. En su primera sesión ordinaria el Concejo Municipal de San Ignacio Cerro Gordo deberá nombrar al servidor público encargado de la Secretaría del Ayuntamiento y al funcionario encargado de la Hacienda Municipal.
+
+Artículo Séptimo. El Ayuntamiento de Arandas seguirá ejerciendo sus funciones en la demarcación correspondiente al nuevo municipio, hasta la entrada en funciones del Concejo Municipal de San Ignacio Cerro Gordo.
+
+Artículo Octavo. Efectuada la designación por parte del Congreso del Estado, los integrantes del Concejo Municipal recibirán del Ayuntamiento de Arandas toda la información y documentación necesarias para el buen desempeño de la nueva administración municipal, incluyendo copias de los reglamentos municipales, padrones de contribuyentes, cuentas catastrales.
+
+Artículo Noveno. Una vez que entre en funciones el Concejo Municipal de San Ignacio Cerro Gordo, el Ayuntamiento de Arandas procederá a darle posesión y a transferirle los bienes muebles e inmuebles que estén destinados al servicio público del nuevo municipio.
+
+Artículo Décimo. A partir del día 1º de enero del año 2006, los residentes del territorio correspondiente al nuevo municipio se considerarán vecinos y habitantes del mismo, quedando sujetos a la jurisdicción de las autoridades de San Ignacio Cerro Gordo. Sólo para efectos de computar antigüedad de residencia se tomará en cuenta la que tuvieren en el lugar desde antes de la constitución del nuevo municipio.
+
+Artículo Décimo Primero. Las obligaciones de contenido económico suscritas por el Ayuntamiento de Arandas por obras de beneficio colectivo realizadas en el territorio del Municipio de San Ignacio Cerro Gordo, pasarán a cargo del nuevo municipio a partir del día 1º de enero del año 2006.
+
+Artículo Décimo Segundo. El Ayuntamiento de San Ignacio Cerro Gordo tendrá presupuesto propio. Para tal efecto su hacienda pública percibirá los ingresos derivados de los impuestos, contribuciones especiales, derechos, productos, aprovechamientos y participaciones establecidos en la Ley de Ingresos del Municipio de Cerro Gordo, la cual deberá ser expedida por el Congreso del Estado a más tardar el día 30 de noviembre del año 2005, para que entre en vigor el 1º del (sic) enero del año 2006.
+
+Serán aplicables en el Municipio de San Ignacio Cerro Gordo, en el ejercicio fiscal del año 2006, las Tablas de Valores vigentes en el Municipio de Arandas del ejercicio fiscal del año 2005.
+
+Artículo Décimo Tercero. Las obligaciones laborales del Municipio de Arandas con los trabajadores a su servicio en la Delegación Municipal de San Ignacio Cerro Gordo, serán asumidas por el nuevo municipio a partir del día 1º de enero del año 2006, el cual deberá respetar los derechos individuales y colectivos de dichos trabajadores, en los términos de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+Artículo Décimo Cuarto. En tanto entran en vigor las disposiciones reglamentarias expedidas por el Concejo Municipal de San Ignacio Cerro Gordo se observarán en lo conducente las correspondientes al municipio de Arandas.
+
+Artículo Décimo Quinto. El Congreso del Estado tendrá facultades para dictar las normas interpretativas y aclaratorias del presente Decreto necesarias para resolver cualquier controversia que su aplicación motive.
