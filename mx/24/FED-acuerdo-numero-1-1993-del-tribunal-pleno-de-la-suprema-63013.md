@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1993-del-tribunal-pleno-de-la-suprema-63013"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1993-01-27"
-last_updated: "1998-02-26"
+last_updated: "1998-03-09"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63013&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-01-13"
 
 ACUERDO No. 1/1993, DEL TRIBUNAL EN PLENO DEL DIA TRECE DE ENERO DE MIL NOVECIENTOS NOVENTA Y TRES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE FEBRERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE MARZO DE 1998.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 27 de enero de 1993.
 
@@ -95,7 +95,7 @@ IV.- CUARTO CIRCUITO:
 
 > <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL NUMERO 7/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 1998)</small>
 
-2.- Siete juzgados de distrito en el Estado de Nuevo León, con residencia en la ciudad de Monterrey.
+2.- Siete juzgados de distrito en el estado de Nuevo León, con residencia en la ciudad de Monterrey.
 
 V.- QUINTO CIRCUITO:
 
@@ -119,7 +119,9 @@ VI.- SEXTO CIRCUITO:
 
 1.- Cuatro tribunales colegiados y un tribunal unitario, con residencia en la ciudad de Puebla, Puebla;
 
-2.- Cinco juzgados de Distrito en el estado de Puebla, con residencia en la ciudad de Puebla;
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL NUMERO 8/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MARZO DE 1998)</small>
+
+2.- Seis juzgados de distrito en el Estado de Puebla, con residencia en la ciudad de Puebla;
 
 3.- Juzgado de Distrito en el estado de Tlaxcala, con residencia en la ciudad de Tlaxcala.
 
@@ -759,9 +761,19 @@ SEGUNDO.- Se modifica el Acuerdo 1/1993 del Pleno de la Suprema Corte de Justici
 
 TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
 
-CUARTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+CUARTO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 D.O.F. 26 DE FEBRERO DE 1998.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se modifica el Acuerdo 1/1993 del Pleno de la Suprema Corte de Justicia de la Nación, de fecha trece de enero de mil novecientos noventa y tres, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+CUARTO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 9 DE MARZO DE 1998.
 
 PRIMERO.- Este Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
