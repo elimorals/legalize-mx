@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-gobernacion-25369"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-30"
-last_updated: "2003-09-09"
+last_updated: "2004-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-07-29"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBERNACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE SEPTIEMBRE DE 2004.
 
 Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación el martes 30 de julio de 2002.
 
@@ -41,71 +41,75 @@ La Secretaría de Gobernación es una dependencia del Poder Ejecutivo Federal qu
 
 Al frente de la Secretaría de Gobernación habrá un Secretario del Despacho, titular de la misma quien, para el desahogo de los asuntos de su competencia, se auxiliará de:
 
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
+
 A. Los servidores públicos siguientes:
 
 I. Subsecretario de Gobierno;
 
 II. Subsecretario de Enlace Legislativo;
 
-III. Subsecretario de Desarrollo Político;
+III. Subsecretario de Asuntos Jurídicos y Derechos Humanos;
 
-IV. Subsecretario de Asuntos Jurídicos y Derechos Humanos;
+IV. Subsecretario de Población, Migración y Asuntos Religiosos;
 
-V. Subsecretario de Población, Migración y Asuntos Religiosos;
+V. Subsecretario de Normatividad de Medios, y
 
-VI. Subsecretario de Normatividad de Medios, y
+VI. Oficial Mayor.
 
-VII. Oficial Mayor;
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
 
 B. Las unidades administrativas siguientes:
 
 I. Coordinación General de Protección Civil;
 
-II. Dirección General de Comunicación Social;
+II. Unidad para el Desarrollo Político;
 
-III. Unidad de Gobierno;
+III. Dirección General de Comunicación Social;
 
-IV. Unidad de Enlace Federal;
+IV. Unidad de Gobierno;
 
-V. Unidad para la Atención de las Organizaciones Sociales;
+V. Unidad de Enlace Federal;
 
-VI. Dirección General de Coordinación con Entidades Federativas;
+VI. Unidad para la Atención de las Organizaciones Sociales;
 
-VII. Unidad de Enlace Legislativo;
+VII. Dirección General de Coordinación con Entidades Federativas;
 
-VIII. Dirección General de Estudios Legislativos;
+VIII. Unidad de Enlace Legislativo;
 
-IX. Dirección General de Información Legislativa;
+IX. Dirección General de Estudios Legislativos;
 
-X. Dirección General de Desarrollo Político;
+X. Dirección General de Información Legislativa;
 
-XI. Unidad de Asuntos Jurídicos;
+XI. Dirección General de Cultura Democrática y Fomento Cívico;
 
-XII. Unidad para la Promoción y Defensa de los Derechos Humanos;
+XII. Unidad de Asuntos Jurídicos;
 
-XIII. Dirección General de Compilación y Consulta del Orden Jurídico Nacional;
+XIII. Unidad para la Promoción y Defensa de los Derechos Humanos;
 
-XIV. Dirección General del Registro Nacional de Población e Identificación Personal;
+XIV. Dirección General de Compilación y Consulta del Orden Jurídico Nacional;
 
-XV. Dirección General de Asociaciones Religiosas;
+XV. Dirección General del Registro Nacional de Población e Identificación Personal;
 
-XVI. Dirección General de Radio, Televisión y Cinematografía;
+XVI. Dirección General de Asociaciones Religiosas;
 
-XVII. Dirección General de Medios Impresos;
+XVII. Dirección General de Radio, Televisión y Cinematografía;
 
-XVIII. Dirección General de Normatividad de Comunicación;
+XVIII. Dirección General de Medios Impresos;
 
-XIX. Dirección General de Programación y Presupuesto;
+XIX. Dirección General de Normatividad de Comunicación;
 
-XX. Dirección General de Recursos Humanos;
+XX. Dirección General de Programación y Presupuesto;
 
-XXI. Dirección General de Recursos Materiales y Servicios Generales;
+XXI. Dirección General de Recursos Humanos;
 
-XXII. Dirección General de Tecnologías de la Información;
+XXII. Dirección General de Recursos Materiales y Servicios Generales;
 
-XXIII. Dirección General de Protección Civil, y
+XXIII. Dirección General de Tecnologías de la Información;
 
-XXIV. Dirección General para el Fondo de Desastres Naturales;
+XXIV. Dirección General de Protección Civil, y
+
+XXV. Dirección General para el Fondo de Desastres Naturales.
 
 C. Los órganos administrativos desconcentrados a que se refiere el artículo 36 de este Reglamento y aquellos otros que le correspondan, por disposición legal, reglamentaria o determinación del Presidente de la República.
 
@@ -307,9 +311,11 @@ XXV. Las demás que le señalen otras disposiciones legales o reglamentarias o l
 
 El titular de la Coordinación General de Protección Civil, así como los de cada Unidad y Dirección General, podrán auxiliarse por los directores generales adjuntos, directores y subdirectores de área, jefes de departamento o sus similares y demás servidores públicos que se requieran para cubrir las necesidades del servicio y figuren en su estructura autorizada, conforme a las disposiciones normativas aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 9o.
 
-El Coordinador General de Protección Civil, los jefes de unidad y los directores generales tendrán las siguientes atribuciones genéricas:
+El Coordinador General de Protección Civil, el Comisionado para el Desarrollo Político, los jefes de unidad y los directores generales tendrán las siguientes atribuciones genéricas:
 
 I. Planear, programar y presupuestar las actividades a su cargo, así como formular, ejecutar, controlar y evaluar los programas y presupuestos necesarios para el ejercicio de sus atribuciones;
 
@@ -395,6 +401,42 @@ XXIV. Promover, conjuntamente con personas físicas y morales, la constitución 
 
 XXV. Las demás que señalen los ordenamientos aplicables o que le atribuya el Secretario dentro de la esfera de sus facultades.
 
+> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
+
+Artículo 10 bis. La Unidad para el Desarrollo Político estará a cargo de un Comisionado para el Desarrollo Político y tendrá, en el ámbito de la competencia de la Secretaría, las siguientes atribuciones:
+
+I. Apoyar al titular del ramo en las tareas de planeación del desarrollo político del país para que, en los términos de las disposiciones jurídicas aplicables, se mantengan las condiciones de gobernabilidad democrática;
+
+II. Elaborar y poner en práctica estrategias que contribuyan al fortalecimiento de las relaciones entre las organizaciones y agrupaciones políticas, sociales y civiles con la Administración Pública Federal;
+
+III. Auxiliar al titular del ramo en la conducción de las relaciones políticas del Poder Ejecutivo Federal con las organizaciones sociales y civiles y con las agrupaciones políticas nacionales y locales, salvo lo dispuesto por los artículos 12, fracción III, 14 y 21 de este Reglamento;
+
+IV. Fomentar, con otras instancias del Ejecutivo Federal, con los demás Poderes de la Unión, con los órganos constitucionales autónomos, con las entidades federativas y los municipios o delegaciones, con los partidos, agrupaciones y organizaciones políticos y sociales, con instancias del sistema educativo nacional, con los medios de comunicación, con instituciones de investigación y con la población en general, acciones que contribuyan al desarrollo político del país y a la promoción de los valores y principios democráticos;
+
+V. Analizar los procesos políticos y poner en práctica estrategias que contribuyan al desarrollo político, a la colaboración entre los Poderes de la Unión y demás órganos del Estado y entre ellos y las organizaciones políticas, sociales y civiles;
+
+VI. Apoyar las tareas que realice la Secretaría para el fortalecimiento y el rediseño institucional, así como para el desarrollo democrático del país; coadyuvar con otras dependencias y entidades de la Administración Pública Federal, así como con las instancias que lo soliciten, en la formulación de políticas públicas, programas y acciones dirigidos a fortalecer la vida democrática, a través del desarrollo de instituciones democráticas, de la promoción de la participación ciudadana y de otras vías que contribuyan a ese propósito;
+
+VII. Desarrollar programas tendientes a fomentar el desarrollo de la cultura política democrática y a incrementar los niveles y la eficacia de la participación ciudadana en el proceso de transformación política e institucional;
+
+VIII. Realizar, en coordinación con la Dirección General de Estudios Legislativos en su caso, estudios y diagnósticos que contribuyan a la modernización de las instituciones y órganos del Estado;
+
+IX. Ejercer las funciones a que se refiere el artículo 28 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+
+X. Proporcionar a las instituciones y organizaciones políticas, sociales y civiles la asesoría que requieran para su adecuada estructuración y funcionamiento, de conformidad con las disposiciones jurídicas aplicables;
+
+XI. Auxiliar y asesorar, previo acuerdo del Secretario, a las unidades administrativas de la Secretaría en materias de la competencia de la Unidad para el Desarrollo Político;
+
+XII. Desarrollar y administrar, sin perjuicio de la competencia que le corresponda a otras dependencias del Ejecutivo Federal, la base de datos que integre la Secretaría con relación a las organizaciones de la sociedad civil, haciendo constar particularmente aquello relacionado con la creación, modificación y cancelación de actos registrales, la consulta y estadística de los mismos y la expedición de constancias públicas;
+
+XIII. Desarrollar programas para promover la participación ciudadana en la elaboración, puesta en práctica y evaluación de políticas públicas;
+
+XIV. Integrar y sistematizar el acervo de información y documentación necesario para el mejor cumplimiento de sus funciones, y
+
+XV. Las demás que le señale el Secretario, dentro de la esfera de sus facultades.
+
+Sin perjuicio de lo dispuesto por los artículos 8o. y 34 de este Reglamento, para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus atribuciones, el Comisionado para el Desarrollo Político podrá auxiliarse, entre otros, por el director general adjunto de Relación con las Organizaciones Sociales, de Participación Ciudadana y de Transparencia.
+
 ###### Artículo 11.
 
 La Dirección General de Comunicación Social, tendrá las siguientes atribuciones:
@@ -456,6 +498,10 @@ XV. Tramitar la publicación de los reglamentos y demás disposiciones jurídica
 XVI. Organizar y publicar el Diario Oficial de la Federación, y
 
 XVII. Las demás que determine el Secretario dentro de la esfera de sus facultades.
+
+> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
+
+Sin perjuicio de lo dispuesto por los artículos 8o. y 34 de este Reglamento, para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus atribuciones, el Titular de la Unidad de Gobierno podrá auxiliarse, entre otros, por los directores generales adjuntos de Gobierno, de Juegos y Sorteos, y del Diario Oficial de la Federación.
 
 ###### Artículo 13.
 
@@ -563,37 +609,27 @@ V. Integrar, actualizar, mantener y sistematizar el acervo de información y doc
 
 VI. Las demás que le señale el Secretario, dentro de la esfera de sus facultades.
 
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 19.
 
-La Dirección General de Desarrollo Político tendrá las siguientes atribuciones:
+La Dirección General de Cultura Democrática y Fomento Cívico tendrá las siguientes atribuciones:
 
-I. Apoyar al titular del ramo en las tareas de planeación del desarrollo político del país para que, en los términos de las disposiciones jurídicas aplicables, se mantengan las condiciones de gobernabilidad democrática;
+I. Promover y realizar acciones que contribuyan al fortalecimiento de la cultura cívica y a la promoción de los valores y principios democráticos entre la población;
 
-II. Fomentar, con otras instancias del Ejecutivo Federal, con los demás Poderes de la Unión, con los órganos constitucionales autónomos, con las entidades federativas y los municipios o delegaciones, con los partidos, agrupaciones y organizaciones políticos y sociales, con instancias del sistema educativo nacional, con los medios de comunicación, con instituciones de investigación y con la población en general, acciones que contribuyan al desarrollo político del país y a la promoción de los valores y principios democráticos;
+II. Promover y realizar acciones tendientes a fomentar el desarrollo de la cultura política democrática del país;
 
-III. Analizar los procesos políticos y poner en práctica estrategias que contribuyan al desarrollo político, a la colaboración entre los Poderes de la Unión y demás órganos del Estado y entre ellos y las organizaciones políticas, sociales y civiles;
+III. Definir, editar y difundir el Calendario Oficial o Cívico destacando las efemérides y conmemoraciones cívicas;
 
-IV. Apoyar las tareas que realice la Secretaría para el fortalecimiento y el rediseño institucional, así como para el desarrollo democrático del país; coadyuvar con otras dependencias y entidades de la Administración Pública Federal, así como las instancias que lo soliciten, en la formulación de políticas públicas, programas y acciones dirigidos a fortalecer la vida democrática, a través del desarrollo de instituciones democráticas, de la difusión de la cultura democrática, de la promoción de la participación ciudadana y de otras vías que contribuyan a ese propósito;
+IV. Difundir y promover el culto al Escudo, la Bandera y el Himno Nacionales;
 
-V. Desarrollar programas tendientes a fomentar el desarrollo de la cultura política democrática y a incrementar los niveles y la eficacia de la participación ciudadana en el proceso de transformación política e institucional, así como participar, en coordinación con la Dirección General de Estudios Legislativos, en la realización de estudios y diagnósticos que contribuyan a la modernización de las instituciones del Estado, para fortalecer el equilibrio entre los Poderes y órganos del Estado y la eficacia del sistema federal;
+V. Vigilar el cumplimiento de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, y dictar las medidas que procedan;
 
-VI. Ejercer las funciones a que se refiere el artículo 28 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+VI. Regular, en el territorio nacional, el uso del escudo o emblema y de la bandera, así como la ejecución del himno nacional, de un país extranjero, en caso de reciprocidad;
 
-VII. Proporcionar a las instituciones y organizaciones políticas, sociales y civiles la asesoría que requieran para su adecuada estructuración;
+VII. Integrar y sistematizar el acervo de información y documentación necesario para el mejor cumplimiento de sus funciones;
 
-VIII. Auxiliar y asesorar, previo acuerdo del Secretario, a las unidades administrativas de la Secretaría en materias de la competencia de la Dirección General de Desarrollo Político;
-
-IX. Definir, editar y difundir el Calendario Cívico de Conmemoraciones;
-
-X. Difundir y promover el culto al Escudo, la Bandera y el Himno Nacionales;
-
-XI. Vigilar el cumplimiento de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, y dictar las medidas que procedan;
-
-XII. Regular, en el territorio nacional, el uso del escudo o emblema y de la bandera, así como la ejecución del himno nacional, de un país extranjero, en caso de reciprocidad;
-
-XIII. Integrar y sistematizar el acervo de información y documentación necesario para el mejor cumplimiento de funciones, y
-
-XIV. Las demás que le señale el Secretario, dentro de la esfera de sus facultades.
+VIII. Las demás que le señale el Secretario, dentro de la esfera de sus facultades.
 
 ###### Artículo 20.
 
@@ -625,7 +661,9 @@ XII. Apoyar a la Oficialía Mayor en la revisión de las Condiciones Generales d
 
 XIII. Intervenir en los juicios de amparo, en las controversias constitucionales, en las acciones de inconstitucionalidad y en los demás procedimientos constitucionales en los que el titular del ramo represente al Presidente de la República;
 
-XIV. Representar a la Secretaría ante los tribunales federales y del fuero común y ante toda autoridad en los trámites jurisdiccionales y cualquier otro asunto de carácter legal en que tenga interés e injerencia la Secretaría de Gobernación, sin perjuicio de las atribuciones que correspondan a la Procuraduría General de la República, con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, formular denuncias y querellas, desistirse, otorgar perdón, ofrecer y rendir toda clase de pruebas; recusar jueces inferiores y superiores, apelar, interponer juicio de amparo y los recursos previstos por la ley de la materia y, en general, para que promueva o realice todos los actos permitidos por las leyes, que favorezcan a los derechos de la Secretaría. Por virtud de esta disposición, se entenderá ratificado por el titular de la misma todo lo que se haga, en los términos de ley, por esta Unidad y los representantes que acredite, en cada uno de los casos en que intervengan;
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
+
+XIV. Representar a la Secretaría ante los Tribunales Federales y del fuero común y ante toda autoridad en los trámites jurisdiccionales y cualquier otro asunto de carácter legal en que tenga interés e injerencia la Secretaría de Gobernación, sin perjuicio de las atribuciones que correspondan a la Procuraduría General de la República, con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, nombrar peritos, reconocer firmas y documentos, redargüir de falsos a los que presente la contraparte, repregunten y tachen de falsos a testigos o ratificantes, articulen y absuelvan posiciones, formular denuncias y querellas, desistirse, otorgar perdón, ofrecer y rendir toda clase de pruebas; recusar jueces inferiores y superiores, apelar, interponer juicio de amparo y los recursos previstos por la ley de la materia y, en general, para que promueva o realice todos los actos permitidos por las leyes, que favorezcan a los derechos de la Secretaría, así como para sustituir poder en términos de ley a los representantes que para el efecto señale. Por virtud de esta disposición, se entenderá ratificado por el titular de la misma todo lo que se haga, en los términos de ley, por esta Unidad y los representantes que acredite, en cada uno de los casos en que intervengan;
 
 XV. Intervenir y rendir los informes en los juicios de amparo, en las controversias constitucionales, en las acciones de inconstitucionalidad y en los demás procedimientos constitucionales en que deba intervenir la Secretaría, así como ofrecer pruebas, formular alegatos, interponer toda clase de recursos y en general, vigilar y atender su tramitación y procurar que las demás unidades administrativas cumplan con las resoluciones que en ellos se pronuncien, prestando la asesoría que para tales efectos se le requiera;
 
@@ -653,7 +691,9 @@ XXVI. Participar, en los términos que señalen las leyes, en el ejercicio del d
 
 XXVII. Las demás que determine el Secretario, dentro de la esfera de sus facultades.
 
-Con independencia de lo dispuesto por los artículos 8o. y 34 de este Reglamento, para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus atribuciones, el Jefe de la Unidad de Asuntos Jurídicos podrá auxiliarse por los directores generales adjuntos de lo Contencioso, de Procedimientos Constitucionales, de Relaciones Jurídico Laborales, de Contratos y Convenios y de lo Consultivo.
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
+
+Sin perjuicio de lo dispuesto por los artículos 8o. y 34 de este Reglamento, para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus atribuciones, el Titular de la Unidad de Asuntos Jurídicos podrá auxiliarse por los directores generales adjuntos de lo Contencioso, de Procedimientos Constitucionales, de Contratos y Convenios y de lo Consultivo, así como por el Director de Relaciones Jurídico Laborales.
 
 ###### Artículo 21.
 
@@ -703,9 +743,21 @@ IX. Proponer a su superior jerárquico la normatividad técnica relativa a la in
 
 X. Proponer a su superior jerárquico, en coordinación con la Unidad de Asuntos Jurídicos, los acuerdos, convenios y demás instrumentos jurídicos relativos al cumplimiento de las atribuciones anteriores;
 
-XI. Formar parte del Comité Jurídico Interno de la Secretaría, y
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
 
-XII. Las demás que determine el Secretario, dentro de la esfera de sus facultades.
+XI. Administrar y dirigir la base de datos relativa al registro nacional de avisos de testamento de conformidad con los convenios y demás disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
+
+XII. Certificar el texto de la promulgación de las leyes y demás disposiciones jurídicas federales, a solicitud fundada y motivada de las autoridades y personas interesadas;
+
+> <small>(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
+
+XIII. Formar parte del Comité Jurídico Interno de la Secretaría, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
+
+XIV. Las demás que determine el Secretario, dentro de la esfera de sus facultades.
 
 ###### Artículo 23.
 
@@ -817,7 +869,9 @@ XIX. Autorizar la transmisión por radio y televisión de programas en idiomas d
 
 XX. Conceder permisos para la transmisión de programas de concursos, de preguntas y respuestas y de otros semejantes, en coordinación con la Unidad de Gobierno;
 
-XXI. Autorizar y vigilar la transmisión del Himno Nacional por estaciones de radio y televisión y la proyección por televisión del Escudo y de la Bandera Nacionales y los programas que versen sobre ellos, o que contengan motivos del Himno, en coordinación con la Dirección General de Desarrollo Político;
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
+
+XXI. Autorizar y vigilar la transmisión del Himno Nacional por estaciones de radio y televisión y la proyección por televisión del Escudo y de la Bandera Nacionales y los programas que versen sobre ellos, o que contengan motivos del Himno, en coordinación con la Dirección General de Cultura Democrática y Fomento Cívico;
 
 XXII. Proveer lo necesario para el uso del tiempo que corresponda al Estado en las estaciones de radio y televisión;
 
@@ -1009,7 +1063,9 @@ X. Vigilar el cumplimiento de los requisitos jurídicamente establecidos para da
 
 XI. Realizar y controlar el aseguramiento de bienes muebles e inmuebles al servicio de la Secretaría;
 
-XII. Proponer y vigilar la aplicación de normas y lineamientos para la prestación de los servicios de administración y distribución de documentos oficiales y el sistema de archivo de la Secretaría, de conformidad con las disposiciones del Archivo General de la Nación, así como determinar los esquemas para su control y supervisión, todo ello en coordinación con la Dirección General de Desarrollo Político, en términos de lo dispuesto por la fracción VI del artículo 17 del presente Reglamento;
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
+
+XII. Proponer y vigilar la aplicación de normas y lineamientos para la prestación de los servicios de administración y distribución de documentos oficiales y el sistema de archivo de la Secretaría, de conformidad con las disposiciones del Archivo General de la Nación, así como determinar los esquemas para su control y supervisión, todo ello en coordinación con la Unidad para el Desarrollo Político, en términos de lo dispuesto por la fracción VII del artículo 10 bis del presente Reglamento;
 
 XIII. Contratar y coordinar los servicios de vigilancia y seguridad de los inmuebles y sus contenidos, así como de los demás bienes y valores de la Secretaría;
 
@@ -1159,7 +1215,7 @@ VI. Secretaría General del Consejo Nacional de Población;
 
 VII. Coordinación General de la Comisión Mexicana de Ayuda a Refugiados;
 
-VIII. Secretaría Técnica de la Comisión para Asuntos de la Frontera Norte;
+VIII. (DEROGADA, D.O.F. 1 DE SEPTIEMBRE DE 2004)
 
 IX. Secretaría Técnica de la Comisión Calificadora de Publicaciones y Revistas Ilustradas;
 
@@ -1419,7 +1475,9 @@ IV. Aprobar los proyectos de manuales de organización, procedimientos y servici
 
 V. Evaluar y, en su caso, aprobar los informes periódicos de gestión, y
 
-VI. Las demás que le asignen el Ejecutivo Federal y el Secretario, a través del Subsecretario de Desarrollo Político, dentro de la esfera de sus facultades.
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
+
+VI. Las demás que le asignen el Ejecutivo Federal y el Secretario, a través del Comisionado para el Desarrollo Político, dentro de la esfera de sus facultades.
 
 ###### Artículo 51.
 
@@ -1431,9 +1489,11 @@ El Archivo General de la Nación estará a cargo de un Director General quien se
 
 El Instituto Nacional de Estudios Históricos de la Revolución Mexicana estará a cargo de un Director General designado por el Presidente de la República o, por acuerdo de éste, por el Secretario de Gobernación.
 
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 53.
 
-El Instituto tendrá un Consejo Técnico Consultivo integrado de manera honorífica por un número no menor de seis personas que se hayan distinguido en el estudio e investigación de las ciencias sociales, quienes serán designadas por el Secretario de Gobernación, o por acuerdo de éste, por el Subsecretario de Desarrollo Político.
+El Instituto tendrá un Consejo Técnico Consultivo integrado de manera honorífica por un número no menor de seis personas que se hayan distinguido en el estudio e investigación de las ciencias sociales, quienes serán designadas por el Secretario de Gobernación o, por acuerdo de éste, por el Comisionado para el Desarrollo Político.
 
 ###### Artículo 54.
 
@@ -1809,29 +1869,17 @@ XI. Ejecutar todas aquellas tareas que le encomiende el titular de la Secretarí
 
 XII. Informar periódicamente al Secretario y al Subsecretario de Población, Migración y Asuntos Religiosos sobre el desempeño de la Coordinación General y los resultados alcanzados para ayudar a los refugiados.
 
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
+
 #### Sección VIII.. De la Secretaría Técnica de la Comisión para Asuntos de la Frontera Norte
 
 ###### Artículo 80.
 
-La Comisión intersecretarial para Asuntos de la Frontera Norte contará, para apoyar el desarrollo de sus funciones, con un órgano administrativo desconcentrado de la Secretaría de Gobernación denominado Secretaría Técnica de la Comisión para Asuntos de la Frontera Norte, cuyo titular será designado o removido por el Secretario de Gobernación en su carácter de Presidente de la Comisión.
-
-La Secretaría Técnica tendrá las unidades de apoyo que requiera para el ejercicio de sus atribuciones y que figuren en su estructura autorizada.
+(DEROGADO, D.O.F. 1 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 81.
 
-Serán atribuciones de la Secretaría Técnica de la Comisión para Asuntos de la Frontera Norte:
-
-I. Formular los estudios y programas propios de los objetivos y funciones de la Secretaría Técnica;
-
-II. Contratar al personal técnico y administrativo necesario en los términos de las normas jurídicas aplicables;
-
-III. Establecer relaciones con otras dependencias y entidades, con el propósito de lograr su cooperación en la consecución de los objetivos de la Comisión para Asuntos de la Frontera Norte, así como coordinar los proyectos, programas y acciones que lleven a cabo las dependencias y entidades de la Administración Pública Federal en la frontera norte;
-
-IV. Administrar el Programa Regional para la Frontera Norte;
-
-V. Ejecutar todas aquellas tareas que le encomiende la Comisión para Asuntos de la Frontera Norte, el Secretario de Gobernación en su carácter de Presidente de la Comisión, el Comisionado Presidencial para Asuntos de la Frontera Norte o el Subsecretario de Población, Migración y Asuntos Religiosos, y
-
-VI. Informar periódicamente al Secretario de Gobernación, al Comisionado Presidencial para Asuntos de la Frontera Norte y al Subsecretario de Población, Migración y Asuntos Religiosos sobre el desempeño de la Secretaría Técnica.
+(DEROGADO, D.O.F. 1 DE SEPTIEMBRE DE 2004)
 
 #### Sección IX.. De la Secretaría Técnica de la Comisión Calificadora de Publicaciones y Revistas Ilustradas
 
@@ -2055,9 +2103,11 @@ La Secretaría y sus órganos administrativos desconcentrados proporcionarán al
 
 ### Capítulo VIII.. De la Suplencia de los Servidores Públicos de la Secretaría
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 101.
 
-El Secretario será suplido en sus ausencias por el Subsecretario de Gobierno; de Enlace Legislativo; de Desarrollo Político; de Asuntos Jurídicos y Derechos Humanos; de Población, Migración y Asuntos Religiosos, y de Normatividad de Medios, en el orden mencionado, y por el Oficial Mayor en ausencia de éstos.
+El Secretario será suplido en sus ausencias por el Subsecretario de Gobierno; de Enlace Legislativo; de Asuntos Jurídicos y Derechos Humanos; de Población, Migración y Asuntos Religiosos, y de Normatividad de Medios, en el orden mencionado, y por el Oficial Mayor en ausencia de éstos.
 
 En los procedimientos constitucionales en que deba intervenir el Secretario en representación del Presidente de la República o como titular de la Secretaría, podrá ser suplido indistintamente por el Jefe de la Unidad de Asuntos Jurídicos o por los servidores públicos antes señalados.
 
@@ -2098,3 +2148,19 @@ N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRET
 D.O.F. 9 DE SEPTIEMBRE DE 2003.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE SEPTIEMBRE DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los asuntos pendientes a la entrada en vigor del presente Decreto, que conforme al mismo deban pasar de un servidor público o unidad administrativa a otro u otra, continuarán su trámite y serán resueltos por aquella unidad administrativa a la que se le haya atribuido la competencia correspondiente en este Decreto.
+
+TERCERO. Las modificaciones que se lleven a cabo por el presente Decreto a la estructura orgánica de la Secretaría de Gobernación, deberán realizarse mediante movimientos compensados, sin que representen incremento alguno en el presupuesto regularizable de servicios personales aprobado para dicha dependencia por las instancias competentes.
+
+Lo anterior sin perjuicio de que en su momento la Secretaría de Gobernación realice los trámites correspondientes ante la Secretaría de la Función Pública respecto de la aprobación y registro de la modificación a su estructura orgánica y ocupacional, previo dictamen presupuestario favorable de la Secretaría de Hacienda y Crédito Público, en términos del artículo 37, fracción XVIII de la Ley Orgánica de la Administración Pública Federal.
+
+CUARTO. Las transferencias o cancelaciones de recursos, serán atendidas por las áreas competentes.
+
+QUINTO. Las menciones que los reglamentos y demás disposiciones jurídicas hagan del Subsecretario de Desarrollo Político de la Secretaría de Gobernación, se entenderán referidas al Comisionado para el Desarrollo Político a que se refiere el presente Decreto.
+
+SEXTO. Las menciones que en otros reglamentos y demás disposiciones jurídicas hagan de la Dirección General de Desarrollo Político de la Secretaría de Gobernación, se entenderán referidas a la Unidad para el Desarrollo Político o a la Dirección General de Cultura Democrática y Fomento Cívico, según corresponda a las atribuciones de una u otra.
