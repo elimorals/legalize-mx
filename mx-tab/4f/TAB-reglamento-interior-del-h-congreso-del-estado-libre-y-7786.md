@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-h-congreso-del-estado-libre-y-7786"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-28"
-last_updated: "2001-07-25"
+last_updated: "2002-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2002.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 28 de agosto de 1993.
 
@@ -53,7 +53,7 @@ Este reglamento y sus reformas o adiciones no podrán ser objeto de veto por el 
 
 ### CAPITULO II. COLEGIO ELECTORAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 3.
 
@@ -387,27 +387,17 @@ Cuando de un mismo asunto deban de conocer más de una Comisión, lo harán en f
 
 Las Comisiones Permanentes que a continuación se señalan, tendrán las facultades y obligaciones siguientes:
 
-I. Petición, Gestoría y Quejas:
+I. (DEROGADA, P.O. 2 DE FEBRERO DE 2002)
 
-> <small>(F. DE E., P.O. 1 DE ABRIL DE 1998)</small>
-
-a) Recibir y analizar las peticiones de particulares o de autoridades que no tengan derecho a presentar iniciativas de Leyes o Decretos, turnándolas, cuando las considere procedente, a la Comisión competente;
-
-> <small>(F. DE E., P.O. 1 DE ABRIL DE 1998)</small>
-
-b) Conocer y llevar a cabo las gestiones pertinentes de las solicitudes y quejas que presenten los particulares y autoridades, cuando a criterio del Presidente de la Mesa Directiva esta Comisión debe avocarse a la solución de esos asuntos; y
-
-> <small>(F. DE E., P.O. 1 DE ABRIL DE 1998)</small>
-
-c) Coordinar las actividades y funciones de la Dirección de Petición, Gestoría y Quejas;
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
 II. Gobernación y Puntos Constitucionales, dictaminará:
 
 a) De los conflictos políticos que surjan entre los Municipios y el Estado, y de aquellos que se relacionen con la división territorial de los Municipios;
 
-b) De las licencias, renuncias o faltas absolutas del Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia, Ayuntamientos o Concejeros Municipales y del Presidente de la Comisión Estatal de Derechos Humanos, las cuales se asentarán en el libro de registro;
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+b) De las licencias, renuncias o faltas absolutas del Gobernador, diputados, magistrados Numerarios del Tribunal Superior de Justicia, y del Tribunal de lo Contencioso Administrativo, Ayuntamientos o concejeros municipales y del presidente de la Comisión Estatal de Derechos Humanos, las cuales se asentarán en el correspondiente libro de registro;
 
 c) Lo relativo a los cambios de residencia de los Poderes Ejecutivo, Legislativo y Judicial, así como de los Ayuntamientos y Concejos Municipales;
 
@@ -417,13 +407,25 @@ e) De las Leyes o actos violatorios de la Constitución General de la República
 
 f) De la solicitud para conceder al Ejecutivo, por tiempo limitado, las facultades extraordinarias que necesite en casos de invasión, alteración del orden o peligro público;
 
-g) De las iniciativas de reformas o adiciones a la Constitución General de la República y a la del Estado; y
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
-h) De las iniciativas de creación, reforma, adición y derogación de Leyes o Decretos, pudiendo para ello organizar foros de consulta popular;
+g) De las iniciativas de reformas o adiciones a la Constitución General de la República, y a la del Estado, así como de las leyes orgánicas que de ella emanen;
 
-> <small>(ADICIONADO, P.O. 7 DE MARZO DE 1998)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
-i) Conocer junto con la Comisión de lo Contencioso Administrativo; de la integración del Tribunal de esta materia.
+h) De las iniciativas de creación, reforma, adición y derogación de leyes o decretos, no reservados expresamente a otra Comisión, pudiendo para ello organizar foros de consulta popular;
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+i) Conocer junto con la Comisión de Justicia y Gran Jurado, de la designación de los Magistrados de Número del Tribunal de lo Contencioso Administrativo;
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+j) La designación, de la terna, del ciudadano que en términos de ley, deba suplir al gobernador en sus faltas temporales o absolutas; y
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+k) De los asuntos relativos a la creación y sucesión de municipios.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -437,7 +439,7 @@ c) De la integración del Consejo Estatal Electoral y del Tribunal Electoral de 
 
 d) De la expedición del Bando solemne para declarar Gobernador electo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
 IV. Justicia y Gran Jurado, dictaminará sobre:
 
@@ -453,7 +455,19 @@ d) Las recompensas y honores que deban otorgarse a quienes presten servicios imp
 
 e) La integración de la terna que el Honorable Congreso, propondrá al Ejecutivo local, para que éste nombre al Procurador General de Justicia del Estado, pudiendo para ello, consultar mediante convocatoria pública a la sociedad.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+f) Procurará y vigilará la estricta aplicación de la Ley de Justicia Administrativa para el Estado de Tabasco;
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+g) Junto con la Comisión de Gobernación y Puntos Constitucionales de la designación de los Magistrados de Número del Tribunal de lo Contencioso Administrativo; y
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+h) Sobre la ratificación del Consejero propuesto por el Ejecutivo del Estado y sobre la designación que le corresponda al Congreso, para integrar ambos, el Consejo de la Judicatura del Poder Judicial del Estado.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
 V. Hacienda y Presupuesto, dictaminará sobre:
 
@@ -467,43 +481,89 @@ d) Las peticiones para enajenar bienes muebles propiedad del Estado o de los Mun
 
 e) La creación de impuestos extraordinarios o especiales, estatales o municipales;
 
-f) La aplicación del gasto público y partidas presupuestales, de acuerdo a lo establecido por el artículo 36, fracción XXXI de la Constitución Política del Estado; y
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
-g) El presupuesto de Egresos del Poder Legislativo;
+f) La aplicación del gasto público y partidas presupuestales, de acuerdo a lo establecido por el artículo 36, fracción XXXI, de la Constitución Política del Estado;
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+g) El presupuesto de egresos del Poder Legislativo;
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+h) Conocer y dictaminar, en unión con la Comisión de Gobernación y Puntos Constitucionales, sobre la creación o supresión de empleos públicos; e
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+i) Recopilar los programas operativos anuales del Estado así como los diversos convenios celebrados por el Ejecutivo estatal, con las instancias federal y municipal. Dichos programas y convenios, estarán en disposición de todos los diputados.
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2002)</small>
 
 VI. Inspectoras de Hacienda:
 
-a) Controlar y vigilar la Contaduría Mayor de Hacienda, proponiendo los medios pertinentes para su eficaz funcionamiento;
+1. La Primera Comisión Inspectora de Hacienda, tendrá las atribuciones siguientes:
 
-b) Aplicar las sanciones a que se hagan acreedores los Servidores Públicos que tengan la obligación de entregar a la Contaduría Mayor de Hacienda, los informes contables y financieros en los plazos señalados para la glosa de las cuentas y no lo hagan;
+a) Vigilar que las cuentas públicas de los tres poderes del Estado, queden concluidas y glosadas, así como, entregados los informes técnicos, financieros y los demás soportes documentales suficientes que en términos de ley, presente el órgano técnico al Congreso a más tardar el primero de agosto del año siguiente de que se trate. El incumplimiento de este precepto, imputable a los servidores públicos de la Contaduría Mayor de Hacienda, es causa de responsabilidad en los términos de las leyes aplicables;
 
-c) Ordenar a la Contaduría Mayor de Hacienda, cuando lo estime conveniente, practicar visitas, inspecciones y auditoría a quienes estén sujetos a cuenta pública;
+b) Examinar y dictaminar, con fundamento en los informes técnicos y financieros y demás soportes documentales que rinda la Contaduría Mayor de Hacienda, sobre las cuentas públicas de los tres poderes del Estado;
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+c) Ordenar a la Contaduría Mayor de Hacienda, cuando lo estime conveniente, practicar visitas, inspecciones y auditorías a los tres poderes del Estado, relacionadas con la cuenta pública;
 
-d) Vigilar que las cuentas públicas del erario estatal y municipal, queden concluidas y glosadas, por períodos trimestrales, a más tardar dentro del segundo mes siguiente al trimestre que corresponda. El incumplimiento de este precepto, imputable a los servidores públicos de la Contaduría Mayor de Hacienda, es causa de responsabilidad en los términos de las leyes aplicables;
+d) En el ámbito de su competencia, controlar y vigilar a la Contaduría Mayor de Hacienda, proponiendo los medios pertinentes para su eficaz funcionamiento;
 
-e) Examinar y dictaminar, con fundamento en los informes técnicos y financieros que rinda la contaduría Mayor de Hacienda, sobre las cuentas públicas del Estado y los Municipios; y
+e) Aplicar las sanciones a que se hagan acreedores los servidores públicos de los tres poderes del Estado, que tengan la obligación de entregar a la Contaduría Mayor de Hacienda, los informes contables y financieros en los plazos señalados para la glosa de las cuentas y no lo hagan;
 
-f). Comunicar al Presidente de la Gran Comisión, la omisión de los Diputados en presentar su declaración de situación patrimonial;
+f) Ordenar a la Contaduría Mayor de Hacienda, en los (sic) que respecta a los tres poderes del Estado, la depuración de los documentos de la cuenta pública, así como de los papeles de trabajo e informes resultantes de su revisión, glosa y auditoria con antigüedad de mas de 6 años; determinando los que deben destruirse o conservarse;
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+g) Comunicar al Presidente de la Gran Comisión, la omisión de los diputados en presentar su declaración de situación patrimonial; y
 
-g). Ordenar a la Contaduría Mayor de Hacienda, la depuración de los documentos de la cuenta pública, así como de los papeles de trabajo e informes resultantes de su revisión, glosa y auditoría con antigüedad de más de 12 años; determinándose los que deben destruirse o conservarse.
+h) Conocer y dictaminar, cuando la Contaduría Mayor de Hacienda, al realizar las evaluaciones señaladas en los tres últimos párrafos del artículo 41, de la Constitución local, correspondiente a los tres poderes del Estado, detecte irregularidades y las haga del conocimiento del Congreso.
 
-VII. Comunicaciones y Transportes:
+2. La Segunda Comisión Inspectora de Hacienda, tendrá las atribuciones específicas siguientes:
 
-a) Investigar y proponer soluciones sobre los asuntos relacionados con las vías de comunicaciones y transportes; así como con los medios y sistemas de comunicación, sus concesiones y funcionamiento; y
+a) Vigilar que las cuentas públicas de los municipios de Balancán, Centla, Emiliano Zapata, Jalapa, Jonuta, Macuspana, Tacotalpa, Teapa y Tenosique, del Estado de Tabasco, queden concluidas y glosadas, así como, entregados los informes técnicos, financieros y los demás soportes documentales suficientes que en términos de ley, presente el órgano técnico al Congreso a más tardar el primero de agosto del año siguiente de que se trate. El incumplimiento de este precepto, imputable a los servidores públicos de la Contaduría Mayor de Hacienda, es causa de responsabilidad en los términos de las leyes aplicables; y
 
-b) Mantener estrecha relación con todos los organismos de esta materia, para que en forma coordinada se logren la prestación de mejores servicios;
+b) Examinar y dictaminar, con fundamento en los informes técnicos y financieros y demás soportes documentales que rinda la Contaduría Mayor de Hacienda, sobre las cuentas públicas de los municipios señalados en el inciso anterior.
 
-VIII. Educación, Cultura, Recreación y Deporte:
+3. La Tercera Comisión Inspectora de Hacienda tendrá las atribuciones específicas siguientes;
 
-a) Estudiar y dictaminar en todo lo referente a educación, cultura, recreación y deporte, vigilando el correcto cumplimiento de lo dispuesto en el artículo tercero de la Constitución General de la República, con el fin de desarrollar y acrecentar las facultades intelectuales físicas del pueblo;
+a) Vigilar que las cuentas públicas de los municipios de Cárdenas, Centro, Comalcalco, Cunduacán, Huimanguillo, Jalpa de Méndez, Nacajuca y Paraíso, del Estado de Tabasco queden concluidas y glosadas, así como, entregados los informes técnicos, financieros y los demás soportes documentales suficientes que en términos de ley, presente el órgano técnico al Congreso a más tardar el primero de agosto del año siguiente de que se trate. El incumplimiento de este precepto, imputable a los servidores públicos de la Contaduría Mayor de Hacienda, es causa de responsabilidad en los términos de las leyes aplicables; y
 
-b) Imprimir un mayor dinamismo educativo, cultural, recreativo y deportivo, presentando para ello proyectos viables tendientes a lograr una mejor organización comunitaria; y
+b) Examinar y dictaminar, con fundamento en los informes técnicos y financieros y demás soportes documentales que rinda la Contaduría Mayor de Hacienda, sobre las cuentas públicas de los municipios señalados en el inciso anterior.
 
-c) Promover ante los organismos correspondientes la creación de instalaciones educativas, culturales, de recreación y deporte y una vivienda digna para los maestros para procurar su permanencia en las comunidades;
+4. Independientemente de las atribuciones específicas de las dos comisiones que anteceden, en lo que respecta a los municipios comprendidos dentro de la esfera de su competencia, tendrán las siguientes obligaciones genéricas:
+
+a) Ordenar a la Contaduría Mayor de Hacienda, cuando lo estime conveniente, practicar visitas, inspecciones y auditoría a los municipios, relacionadas con la cuenta pública;
+
+b) Controlar y vigilar a la Contaduría Mayor de Hacienda, proponiendo los medios pertinentes para su eficaz funcionamiento;
+
+c) Aplicar las sanciones a que se hagan acreedores los servidores públicos de los municipios, que tengan la obligación de entregar a la Contaduría Mayor de Hacienda, los informes contables y financieros en los plazos señalados para la glosa de las cuentas y no lo hagan;
+
+d) Ordenar a la Contaduría Mayor de Hacienda, en lo que respecta a los municipios, la depuración de los documentos de la cuenta pública, así como de los papeles de trabajo e informes resultantes de su revisión, glosa y auditoría con antigüedad de mas de 6 años; determinando los que deben destruirse o conservarse; y
+
+e) Conocer y dictaminar, cuando la Contaduría Mayor de Hacienda, al realizar las evaluaciones señaladas en los tres últimos párrafos del artículo 41, de la Constitución local, correspondiente a los municipios, detecte irregularidades y las haga del conocimiento del Congreso.
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2002)</small>
+
+VII. Comunicaciones, Transporte, Vialidad y Tránsito:
+
+a) Investigar y proponer soluciones sobre los asuntos relacionados con las vías de comunicaciones y transportes; así como con los medios y sistemas de comunicación, sus concesiones y funcionamiento;
+
+b) Mantener estrecha relación con todos los organismos de esta materia, para que en forma coordinada se logren la prestación de mejores servicios; y
+
+c) Conocer de los asuntos legislativos relacionados con las comunicaciones y transportes que sean de la competencia estatal, así como de las disposiciones de tránsito y vialidad, relacionadas con el control y el orden de la circulación vehicular y peatonal en las vías públicas del Estado y de los Municipios de la entidad; de los convenios que en estas materias celebre el gobierno del Estado con los Ayuntamientos o los concejos de los Municipios para asumir las funciones que les corresponden en la respectiva materia de las mencionadas, así como de los que impliquen modificaciones, reformas o adiciones a sus leyes.
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2002)</small>
+
+VIII. Educación, Cultura y Servicios Educativos:
+
+a) Estudiar y dictaminar en todo lo referente a educación, cultura, y servicios educativos, vigilando el correcto cumplimiento de lo dispuesto en los artículos 2°, inciso B), fracción II, y 3° de la Constitución General de la República, y de las disposiciones de las leyes federal y local en la materia con el fin de desarrollar y acrecentar las facultades intelectuales y el nivel educativo del pueblo;
+
+b) Imprimir un mayor dinamismo educativo y cultural, presentando para ello proyectos viables tendientes a lograr una mejor organización comunitaria;
+
+c) Promover ante los organismos correspondientes la creación de instalaciones educativas, y culturales, y una vivienda digna para los maestros a fin de procurar su permanencia en las comunidades; y
+
+d) Dictaminar en lo relativo a las reformas y adiciones de las leyes de Educación, de la de Profesiones, de instituciones educativas y, en general, de aquellas que tiendan a regular la educación en el ámbito de competencia estatal y municipal.
 
 > <small>(REFORMADA, P.O. 8 DE MARZO DE 1995)</small>
 
@@ -513,61 +573,121 @@ A T R I B U C I O N E S
 
 a) Analizar y dictaminar sobre los asuntos encaminados a mejorar el nivel de salud de la población, procurando principalmente, fortalecer las acciones dirigidas a los grupos de escasos recursos económicos.
 
-b) Fomentar que los médicos presten sus servicios en las comunidades rurales y que las unidades instaladas cuenten, por lo menos, con medicamentos de primer nivel y material de curación para atender las necesidades urgentes de los ciudadanos; y
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
-c) Estudiar, recomendar y dictaminar sobre el control sanitario en expendios de alimentos, bebidas no alcohólicas y alcohólicas.
+b) Fomentar que los médicos presten sus servicios en las comunidades rurales y que las unidades instaladas cuenten, por lo menos, con medicamentos de primer nivel y material de curación para atender las necesidades urgentes de los ciudadanos;
 
-X. Asuntos Agrarios:
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
-a) Estudiar y opinar en lo relativo a la tenencia de la tierra;
+c) Estudiar, recomendar y dictaminar sobre el control sanitario, en establecimientos que vendan alimentos, bebidas no alcohólicas y alcohólicas, así como lo relativo al control sanitario en el Estado en sus límites con otros Estados del país y, en su caso, de acuerdo a lo que establezca la ley federal de la materia, con la República de Guatemala; y
 
-b) Coadyuvar en la vigilancia de la aplicación del artículo 27 de la Constitución General de la República y demás Leyes y Reglamentos Agrarios;
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
-c) Colaborar con las dependencias correspondientes en las dotaciones o restitución de tierras y aguas en los diferentes núcleos de población del Estado;
+d) Conocer los programas de salud pública del Estado y de los Municipios, y fundamentalmente aquéllos que tiendan a combatir la drogadicción, el alcoholismo, la prostitución y el tabaquismo.
 
-d) Conocer de los asuntos referentes a límites y deslinde de tierras;
+X. (DEROGADA, P.O. 2 DE FEBRERO DE 2002)
 
-e) Cooperar con las autoridades competentes en la eficaz realización de los programas de conservación de tierras y aguas en los ejidos y comunidades; y
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2002)</small>
 
-f) Promover campañas para el uso eficiente de la tecnología y el incremento de la productividad;
-
-XI. Fomento Industrial, Desarrollo Económico, Social y Turístico:
+XI. Fomento y Desarrollo Industrial, Económico, Artesanal, Comercial y Turístico:
 
 a) Analizar y dictaminar sobre el fomento, regulación y promoción del desarrollo de la industria pequeña, mediana y rural, así como auspiciar la organización de productores industriales y la investigación técnico-industrial;
 
-b) Examinar e impulsar el desarrollo integral del Estado, teniendo como objetivo fundamental: la participación organizada de los núcleos sociales, la utilización racional de los recursos naturales y financieros y la realización de obras de infraestructura;
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
-c) Promover y realizar todas las gestiones necesarias para incrementar el turismo, coadyuvando para ello con los organismos del ramo; y
+b) Examinar e impulsar el desarrollo integral del Estado, teniendo como objetivo fundamental: la participación organizada de los núcleos sociales, la utilización racional de los recursos naturales y financieros, la realización de obras de infraestructura y la promoción de campañas para el uso eficiente de la tecnología y el incremento de la productividad;
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+c) Promover y realizar todas las gestiones necesarias para incrementar el turismo, coadyuvando para ello con los organismos del ramo;
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
 d) Coadyuvar con las dependencias respectivas para la correcta aplicación de los precios y tarifas autorizados en la prestación de los servicios turísticos;
 
-XII. Asentamientos Humanos y Obras Públicas:
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
-a) Conocer de los asuntos relacionados con las viviendas, asentamientos humanos y de constitución y ampliación de fundos legales; así como dictaminar sobre las solicitudes de: enajenación o gravamen de predios urbanos, suburbanos o rústicos propiedad del Estado o de los Municipios y la regularización o enajenación de terrenos del fundo legal;
+e)·Analizar y dictaminar sobre la legislación encaminada a fortalecer la actividad turística del Estado;
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+f) Conocer de los asuntos que se refieran a la normatividad y a los planes y programas para impulsar, ampliar y descentralizar la actividad artesanal a los Municipios de la entidad, o a las diversas regiones en que se divida el Estado; así como lo relativo a las reformas o adiciones a las normas sobre artesanías, que sean competencia de la entidad;
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+g) Conocer de los asuntos y acciones referentes al comercio interior y en su caso exterior, abasto, precios, distribución y consumo de los bienes y servicios;
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+h) Coadyuvar al desarrollo del pequeño comercio rural, urbano y artesanal, así como de los productores en general;
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+i) Las iniciativas relacionadas con el fortalecimiento, estímulo y desarrollo de los sectores productivos del estado, así como el desarrollo regional del mismo;
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+j) Conocer de las disposiciones relativas a la protección del consumidor;
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+k) Promover y realizar todas las gestiones necesarias para el desarrollo de las nuevas industrias agropecuarias, y
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+l) Analizar y dictaminar lo relativo a la creación de organismos que auxilien a la administración pública municipal o estatal, en el fomento y comercialización de las artesanías que se producen en el Estado y del estudio de todos aquellos proyectos y obras que puedan beneficiar a los artesanos de la entidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+XII. Desarrollo Urbano, Vivienda y Obras Públicas:
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+a) Conocer de los asuntos relacionados con el desarrollo urbano de la entidad las viviendas, asentamientos humanos, de Constitución y ampliación de fundos legales; así como dictaminar sobre las solicitudes de: enajenación o gravamen de predios urbanos, suburbanos o rústicos propiedad del Estado o de los Municipios y de las acciones tendentes a la regularización de la tenencia de la tierra urbana o enajenación de terrenos del fundo legal;
 
 b) Conocer y dictaminar en todo lo relacionado a los fundos de Ciudades, villas y Poblados, así como la creación de Centros de Población en cualesquiera de las categorías establecidas por la Ley Orgánica Municipal;
 
 c) Conocerá de las políticas y acciones inmobiliaria, construcción, reconstrucción y conservación de edificios públicos, monumentos, obras de ornato y las demás que realice el Estado, los Municipios o los particulares; y
 
-d) Tener y mantener actualizado un registro general de monumentos, edificios públicos y demás lugares de valor histórico en el Estado;
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+d) Conocer de los asuntos referentes a convenios sobre desarrollo urbano que celebre el Ejecutivo con las demás entidades federativas y con la federación;
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+e) Conocer y dictaminar todo lo relacionado con planes de urbanización estatales, regionales y municipales; y
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+f) Conocer y dictaminar, conjuntamente con la Comisión de Gobernación y Puntos Constitucionales, sobre las leyes y decretos, en su caso, relacionados con las obras públicas en el Estado.
 
 XIII. Trabajo y Previsión Social:
 
-a) Conocerá de todos los asuntos referentes a las relaciones obrero-patronales, mejoramiento de las clases trabajadoras y creación o supresión de empleos públicos; y
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+a) Conocerá de todos las asuntos referentes a las relaciones obrero-patronales, y mejoramiento de las clases trabajadoras; y
 
 b) Promoverá el equilibrio entre los factores de la producción, de conformidad con las disposiciones legales vigentes.
 
-XIV. Energéticos y Minas:
+XIV. (DEROGADA, P.O. 2 DE FEBRERO DE 2002)
 
-Coadyuvará en la investigación técnico industrial, en materia de energía y recursos naturales no renovables; promoverá el desarrollo de los energéticos, de la industria petrolera, petroquímica básica, minera, eléctrica y nuclear;
+> <small>(REFORMADA [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2002)</small>
 
 XV. Asuntos Agropecuarios, Recursos Hidráulicos, Forestales y Pesqueros:
 
 a) Conocer de los programas, métodos y procedimientos técnicos, encaminados a obtener un mejor rendimiento en la agricultura, silvicultura, ganadería, avicultura, apicultura y pesca, a efecto de promover los créditos destinados al sector por las diversas instancias de Gobierno;
 
-b) Conocer de los servicios de defensa agrícola, ganadera, agropecuaria y de la organización y regulación del aprovechamiento racional de los recursos forestales; y
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
-c) Coadyuvar con las autoridades correspondientes en la vigilancia de épocas y zonas de veda de las especies acuáticas, las actividades referentes a la acuacultura, piscicultura y de las sociedades cooperativas y de producción pesquera;
+b) Conocer de los servicios de defensa agrícola, ganadera, agropecuaria y de la organización y regulación del aprovechamiento racional de los recursos forestales;
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+c) Coadyuvar con las autoridades correspondientes en la vigilancia de épocas y zonas de veda de las especies acuáticas, las actividades referentes a la acuacultura, piscicultura y de las sociedades cooperativas y de producción pesquera; y
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+d) Conjuntamente con la Comisión de Fomento y Desarrollo Industrial, Económico, Artesanal, Comercial y Turístico, promover y realizar todas las gestiones necesarias para el desarrollo de industrias agropecuarias.
 
 XVI. Derechos Humanos:
 
@@ -589,65 +709,109 @@ h) Conocer y dictaminar, en unión de la Comisión de Justicia y Gran Jurado, so
 
 i) Conocer y dictaminar sobre el nombramiento de los integrantes del Consejo de la Comisión Estatal de los Derechos Humanos;
 
-XVII. Seguridad Pública, Prevención y Readaptación Social:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+XVII. Seguridad Pública, Protección Civil y Procuración de Justicia;
 
 a) Conocer, analizar, proponer y dictaminar, en su caso, en todo lo referente a las facultades y obligaciones de los organismos de seguridad pública;
 
-b) Conocer y dictaminar todo lo relacionado con la prevención de la delincuencia y readaptación social; y
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+b) Conocer y dictaminar todo lo relacionado con la prevención de la delincuencia y readaptación social;
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
 c) Promover programas y acciones que beneficien la seguridad pública, prevención de infracciones y delitos y la readaptación social de los procesados, sentenciados, reos y menores infractores;
 
-XVIII. Comercio:
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
-a) Conocer de los asuntos y acciones referentes al comercio interior y exterior, abasto, precios, distribución y consumo de los bienes y servicios;
+d) Conocer y dar seguimiento a los planes y programas que el consejo y la Unidad de Protección Civil del Estado de Tabasco, en el marco del Sistema Nacional de Protección Civil, han elaborado para responder a las contingencias y desastres naturales en Tabasco;
 
-b) Coadyuvar al desarrollo del pequeño comercio rural, urbano y artesanal, así como de los productores en general; y
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
-c) Conocer de las disposiciones relativas a la protección del consumidor;
+e) Coordinar, junto con la comisión permanente de Participación Ciudadana, la atención inmediata de todas las peticiones y propuestas que los ciudadanos formulen en torno a las medidas, planes y programas de protección civil en Tabasco;
 
-XIX. Biblioteca, Archivo e Informática:
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
-a) Promover el establecimiento, organización, mejoramiento y sostenimiento de bibliotecas; archivos e informática en todo el Estado;
+f) Coadyuvar junto con la Comisión Permanente de Fortalecimiento Municipal, en la difusión entre los Ayuntamientos de Tabasco, sobre la conveniencia de integrar el sistema municipal de protección civil;
 
-b) Conocer, difundir y dictaminar en todo lo concerniente a la Ley que crea el Sistema Estatal de Archivos en Tabasco;
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
-c) Organizar y supervisar la biblioteca, archivo e informática del Congreso solicitando, además, la adquisición de obras relativas a la actividad legislativa, historia, geografía, y a la cultura en general; y
+g) Fomentar, en coordinación con el consejo y la unidad de protección civil del Estado de Tabasco, la difusión de programas preventivos entre la población civil para actuar en caso de desastres;
 
-d) Colabora con las autoridades correspondientes para dar cumplimiento a todo lo dispuesto en la Ley General de Bibliotecas;
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
-XX. Editorial, Corrección de Estilo y Redacción:
+h) Gestionar ante el consejo y la unidad de protección civil y los organismos pertinentes, la realización de campañas escolares de educación para situaciones de emergencia, que informen y preparen a la juventud sobre los desastres naturales mas probables de ocurrir en el Estado y como actuar frente a ellos;
 
-a) Revisar simultáneamente el texto de las Leyes y Decretos que tenga que expedir el Congreso, para hacer las correcciones pertinentes de acuerdo a las reglas gramaticales;
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
-b) Promover la impresión y publicación de Leyes, así como de libros y folletos que sean útiles para incrementar el acervo cultural de la ciudadanía; y
+i) Investigar, en coordinación con las comisiones permanentes, en cuyo ámbito de competencias se vean involucrados, medidas y acciones que enriquezcan el marco normativo y los respectivos programas y planes de acción de protección civil en Tabasco;
 
-c) Elaborar, revisar y publicar el Diario de Debates;
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+j) Conocer y dictaminar de los asuntos tendentes a lograr una adecuada y eficaz procuración de justicia en el Estado y participar junto con la Comisión de Justicia y Gran Jurado en la integración de la terna que el Congreso del Estado propondrá al Ejecutivo local para que este designe al Procurador General de Justicia; y
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+k) Conocer y dictaminar acerca de los conveníos de coordinación en materia de seguridad pública que se celebren entre la federación, el gobierno del Estado y los Ayuntamiento (sic) o consejos municipales, o entre alguno de ellos.
+
+XVIII. (DEROGADA, P.O. 2 DE FEBRERO DE 2002)
+
+XIX. (DEROGADA, P.O. 2 DE FEBRERO DE 2002)
+
+XX. (DEROGADA, P.O. 2 DE FEBRERO DE 2002)
 
 XXI. Instructora de la Cámara:
 
 Conocerá y dictaminará de las denuncias, querellas, requerimientos del Ministerio Público o acusaciones que le turne el Congreso o las Comisiones unidas de Gobernación y Puntos Constitucionales y de Justicia y Gran Jurado, en los casos que ameriten la incoacción de procedimientos en materia de Juicio Político o de declaración de procedencia, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado; y
 
-XXII. Asuntos Indígenas:
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2002)</small>
 
-a) Conocer, proponer, gestionar y dictaminar en todo lo relacionado con las comunidades y ciudadanos indígenas de nuestro Estado, y
+XXII. Asuntos Indígenas y Agrarios:
 
-b) Llevar a cabo programas y acciones que beneficien social, económica y culturalmente a los indígenas tabasqueños, buscando y vigilando, además, que reciban el trato y respeto que se merecen.
+a) Conocer, proponer, gestionar y dictaminar en todo lo relacionado con las comunidades y ciudadanos indígenas de nuestro Estado;
 
-> <small>(ADICIONADA, P.O. 8 DE MARZO DE 1995)</small>
+b) Llevar a cabo programas y acciones que beneficien social, económica y culturalmente a los indígenas tabasqueños, buscando y vigilando, además, que reciban el trato y respeto que se merecen;
 
-XXIII. Ecología, Protección y Mejoramiento Ambiental:
+c) Conocer y dictaminar, en el ámbito de la competencia estatal, sobre los asuntos tendentes al cumplimiento de las disposiciones contenidas en los artículos 1, 2, 4, 18 y 115, de la Constitución Política de los Estados Unidos Mexicanos, en relación a las comunidades y pueblos indígenas existentes en la entidad;
+
+d) Opinar en lo relativo a la tenencia de la tierra en posesión de comunidades indígenas; y
+
+e) Coadyuvar en la vigilancia de la aplicación del artículo 27 de la Constitución General de la República y demás leyes y reglamentos agrarios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+XXIII. Ecología, Recursos Naturales y Desarrollo Sustentable:
 
 A T R I B U C I O N E S
 
-a) Estudiar y dictaminar en relación con la Protección del Ambiente, buscando siempre la preservación del equilibrio ecológico en lo que corresponde al ámbito estatal;
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
-b) Coadyuvar en las acciones donde se involucre a la ciudadanía y a la población escolar, para que a través de los medios masivos de comunicación dé a conocer en coordinación con la dependencia del ramo las campañas de concientización para la preservación del equilibrio ecológico y medio ambiente;
+a) Estudiar y dictaminar en relación al desarrollo sustentable, a la protección del ambiente, buscando siempre Ia preservación del equilibrio ecológico en lo que corresponde al ámbito estatal;
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+b) Coadyuvar en las acciones donde se involucre a la ciudadanía y a la población escolar, para que a través de los medios masivos de comunicación de a conocer, en coordinación con la dependencia del ramo las campañas de concientización para la preservación del equilibrio ecológico y del medio ambiente;
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 1995)</small>
 
 c) Fomentar campañas con el apoyo de cuadros técnicos, científicos y académicos, que planteen soluciones a los problemas ambientales y la preservación de los ecosistemas.
 
-d) Pugnar por el aprovechamiento sustentable de bosques y selvas tropicales, tanto con fines de protección ecológica como comerciales, que permita desarrollar el potencial forestal con que cuenta el Estado, y
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
-e) Analizar y proponer medidas que impidan de manera estricta la comercialización, tráfico y caza de especies animales silvestres protegidas y pronunciarse sobre la restauración del habitat de aquellas que están en peligro de extinción.
+d) Pugnar por el aprovechamiento sustentable de bosques y selvas tropicales, tanto con fines de protección ecológica como comerciales, que permita desarrollar el potencial forestal con que cuenta el Estado;
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+e) Analizar y proponer medidas que impidan de manera estricta la comercialización, tráfico y caza de especies animales silvestres protegidas y pronunciarse sobre la restauración del hábitat de aquellas que están en peligro de extinción;
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+f) Coadyuvará en la investigación técnico industrial, en materia de energía y recursos naturales no renovables; promoverá el desarrollo de los energéticos, de la industria petrolera, petroquímica básica, minera, eléctrica y nuclear; y
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+g) Conocer y dictaminar lo relativo a convenios sobre protección y mejoramiento ambiental, que, en su caso, celebre el Ejecutivo con las demás entidades federativas y con la Federación.
 
 > <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -663,7 +827,11 @@ c) Vigilar que los ayuntamientos den cabal cumplimiento como órgano colegiado a
 
 d) Coadyuvar para consolidar un nuevo régimen hacendario que contribuya al desarrollo municipal.
 
-REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1997)
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+e) Recopilar los programas operativos anuales, municipales, así como los diversos convenios celebrados entre los municipios entre sí y con las instancias federal y estatal. Dichos programas y convenios, estarán a disposición de todos los diputados.
+
+REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1997)
 
 XXV. Participación Ciudadana:
 
@@ -677,57 +845,53 @@ B).- Coadyuvar junto con las comisiones correspondientes, a la integración los 
 
 C).- Organizar junto con las comisiones pertinentes, audiencias públicas sobre problemas en la prestación de servicios públicos por parte de los tres niveles de Gobierno y concesionarios.
 
-D).- Concertar acciones desde el ámbito del Poder Legislativo, para fortalecer la participación de los ciudadanos y las organizaciones sociales en la vida institucional del Estado de Tabasco.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
-> <small>N. DE E. SE CARECE DE LA INFORMACIÓN QUE PRECISE CUANDO FUERON ADICIONADAS LAS FRACCIONES XXVI Y XVII. NO SE HA RECIBIDO PUBLICACIÓN OFICIAL AL RESPECTO. SE SUGIERE CONSULTAR LA PÁGINA ELECTRÓNICA DEL CONGRESO DEL ESTADO DE TABASCO.</small>
+D).- Concertar acciones desde el ámbito del Poder Legislativo, para fortalecer la participación de los ciudadanos y las organizaciones sociales en la vida institucional del Estado de Tabasco;
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+E).- Conocer de las iniciativas, reformas y adiciones a la Ley de la materia, y
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+F).- Escuchar y atender a las organizaciones no gubernamentales en los planteamientos que formulen a la Legislatura.
+
+> <small>N. DE E. SE CARECE DE LA INFORMACIÓN QUE PRECISE CUANDO FUERON ADICIONADAS LAS FRACCIONES XXVI Y XXVII. NO SE HA RECIBIDO PUBLICACIÓN OFICIAL AL RESPECTO. SE SUGIERE CONSULTAR LA PÁGINA ELECTRÓNICA DEL CONGRESO DEL ESTADO DE TABASCO.</small>
 
 XXVI. ....... (sic)
 
-XVII. Atención a la población con discapacidad:
+XXVII. Atención a la población con discapacidad:
 
 a) a la c). ............ (sic)
 
-> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
-
-XXVIII. Del Instituto de Investigaciones Legislativas:
-
-A T R I B U C I O N E S
-
-a) (DEROGADO, P.O. 7 DE MARZO DE 1998)
-
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 1998)</small>
-
-b) Supervisar las actividades y funciones del Instituto;
-
-c) Recibir las solicitudes de las Comisiones Permanentes y de los Diputados en particular para que el Instituto les preste asesoría y apoyo en materia legislativa;
-
-d) Autorizar los convenios de cooperación con otras Instituciones y Organismos;
-
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 1998)</small>
-
-e) Revisar el plan anual de trabajo del Instituto que someta a consideración del Consejo Académico, el Director General.
+XXVIII. (DEROGADA, P.O. 2 DE FEBRERO DE 2002)
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 1998)</small>
 
-XXIX. Atención a los Jóvenes:
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2002)</small>
 
-a) Corresponde a la Comisión de Atención a los Jóvenes, el conocimiento y dictamen de los asuntos relacionados con los Programas y Acciones que ejecuten las Tres Instancias de Gobierno, para el Desarrollo Social, Económico, Cultural y Deportivo de la Población Juvenil.
+XXIX. Infancia, Jóvenes, Recreación y Deporte:
 
-> <small>(ADICIONADA, P.O. 7 DE MARZO DE 1998)</small>
+a) Conocer y dictaminar de los asuntos relacionados con los programas y acciones que ejecuten las tres instancias de gobierno, para el desarrollo social, económico, cultural y deportivo de la población infantil y de la juventud del Estado;
 
-XXX. Atención a la Mujer y Personas de la Tercera Edad:
+b) Conocer y dictaminar en coordinación con las comisiones respectivas sobre las leyes, sus modificaciones y reformas, que tiendan a regular y proteger los derechos y obligaciones de los niños y jóvenes del Estado; y
 
-a) Corresponde a la Comisión de Atención a la Mujer y Personas de la Tercera Edad conocer y dictaminar en su caso, de todo lo relacionado con los Programas y Acciones que ejecuten el Gobierno Federal, Estatal y los Municipios para la atención y superación de las Mujeres y personas de la Tercera Edad, en lo Social, Económico y Cultural;
+c) Estudiar y dictaminar en todo lo referente a recreación y deporte.
 
-b) Procurar y vigilar que las Mujeres y personas de la Tercera Edad, reciban de las instancias de Gobierno, el trato y respeto que merecen.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2002)</small>
 
-> <small>(ADICIONADA, P.O. 7 DE MARZO DE 1998)</small>
+XXX. Equidad y Género:
 
-XXXI. De lo Contencioso Administrativo:
+a) Conocer y dictaminar de todo lo relacionado con los programas y acciones que ejecuten el gobierno federal, estatal y los municipios para la atención y superación de las mujeres, en lo social, económico y cultural;
 
-a) Procurar y vigilar la estricta aplicación de la Ley de Justicia Administrativa para el Estado de Tabasco;
+b) Procurar y vigilar que las mujeres, reciban de las instancias de gobierno, el trato y respeto que merecen;
 
-b) Conocer junto con la Comisión de Gobernación y Puntos Constitucionales de la Integración del Tribunal de lo Contencioso Administrativo.
+c) Corresponde a esta comisión conocer y dictaminar, de las iniciativas de ley, reformas o adiciones, relacionadas con la equidad y género de las personas; y
+
+d) Promover la equidad entre los géneros y conocer de asuntos que se relacionan con la discriminación y maltrato de la mujer y varón, por razones de sexo, raza, edad, credo político o religioso y situación socioeconómica entre otros.
+
+XXXI. (DEROGADA, P.O. 2 DE FEBRERO DE 2002)
 
 ### CAPITULO XI. DE LAS SESIONES
 
@@ -795,7 +959,9 @@ Las iniciativas de Leyes y Decretos deberán presentarse por escrito y firmadas,
 
 Ante (sic) de remitirse al Ejecutivo las leyes y decretos para su promulgación, deberán asentarse en el libro correspondiente.
 
-Después de aprobados los artículos de una Ley y antes de enviarlos al Ejecutivo para su promulgación, pasará el expediente a la Comisión de Editorial, Corrección de Estilo y Redacción, para subsanar o acendrar la redacción del dictamen y lo presente corregido, en su caso, a la mayor brevedad posible.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
+Después de dictaminados los artículos de una ley o decreto y antes de someterlos al pleno para su discusión y, en su caso, aprobación; pasará el expediente a la Oficialía Mayor, para revisar minuciosamente el texto, y sin variar el fondo, subsanar cualquier aspecto de la redacción del dictamen propuesto. Efectuado lo anterior, el titular de la Oficialía lo comunicara oportunamente al Presidente de la Comisión que corresponda, para los efectos legales correspondientes.
 
 ###### ARTICULO 76.
 
@@ -927,13 +1093,17 @@ Los Diputados no podrán penetrar al salón de sesiones armados y el Presidente 
 
 ### CAPITULO XVII. DECLARACION PATRIMONIAL
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 104.
 
-Transcurridos los plazos que señala la Ley Orgánica del Poder Legislativo, para la presentación de declaraciones iniciales o anuales de situación patrimonial, el Contador Mayor de Hacienda del Congreso del Estado, comunicará a la brevedad a la Comisión Inspectora de Hacienda el nombre de quienes no hayan cumplido con la obligación que corresponda.
+Transcurridos los plazos que señala la Ley Orgánica del Poder Legislativo, para la presentación de declaraciones iniciales o anuales de situación patrimonial, el Contador Mayor de Hacienda del Congreso del Estado, comunicará a la brevedad a la Primera Comisión Inspectora de Hacienda el nombre de quienes no hayan cumplido con la obligación que corresponda.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 105.
 
-La Comisión Inspectora de Hacienda, en base al informe del Contador Mayor de Hacienda, procederá según se trate de diputados o demás servidores públicos del Congreso, en los términos que dispone la Ley Orgánica, para que se inicien los procedimientos en ella señalados, correspondiéndole a esta Comisión declarar que quedarán sin efecto los nombramientos de quienes se hayan hecho acreedores a esta sanción, y en el caso de los Diputados las medidas correspondientes.
+La Primera Comisión Inspectora de Hacienda, en base al informe del Contador Mayor de Hacienda, procederá según se trate de diputados o demás servidores públicos del Congreso, en los términos que dispone la Ley Orgánica, para que se inicien los procedimientos en ella señalados; correspondiéndole a esta comisión declarar que quedarán sin efecto los nombramientos de quienes se hayan hecho acreedores a esta sanción, y en el caso de los diputados las medidas correspondientes.
 
 ###### ARTICULO 106.
 
@@ -943,15 +1113,15 @@ Si algún Diputado, omiso en presentar su declaración, persistiera en tal actit
 
 La sanción pecuniaria que se fije deberá pagarse en la Dirección de Finanzas del Congreso.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE MARZO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MARZO DE 1998)</small>
 
 ### CAPITULO XVIII. ORGANIZACION TECNICA Y ADMINISTRATIVA
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 1998)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 108.
 
-La Contaduría Mayor de Hacienda es el Órgano Técnico del Congreso que depende de la Gran Comisión y coordina sus actividades con la mesa directiva y la Comisión Permanente Inspectora de Hacienda.
+La Contaduría Mayor de Hacienda es el órgano técnico del Congreso que depende de la Gran Comisión y coordina sus actividades con la mesa directiva y con las Comisiones Permanentes Inspectoras de Hacienda.
 
 > <small>(ADICIONADO, P.O. 7 DE MARZO DE 1998)</small>
 
@@ -979,11 +1149,13 @@ VIII. Supervisar que las entidades sujetas a cuenta pública realicen sus operac
 
 IX. Recibir del Estado, Municipios, Organismos e Instituciones que manejen fondos y valores públicos, la información relativa a las cuentas públicas;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2002)</small>
 
-X. Presentar a la Comisión Inspectora de Hacienda del Congreso, los informes trimestrales de la revisión, glosa y auditoría de las cuentas públicas de los Tres Poderes del Estado y de los Municipios, para que con fundamento en dichos informes técnico contables, la Comisión Inspectora de Hacienda, rinda al Congreso, los dictámenes correspondientes a las cuentas públicas;
+X. Presentar a la Comisión Inspectora de Hacienda del Congreso, que corresponda, los informes trimestrales de la revisión, glosa y auditoría de las cuentas públicas de los tres poderes del Estado y de los municipios, para que con fundamento en dichos informes técnico contables, la Comisión Inspectora de Hacienda competente, rinda al Congreso, los dictámenes correspondientes a las cuentas públicas;
 
-XI. Para lo previsto en las fracciones II, III, IV y V se deberá contar con la autorización de la Comisión Inspectora de Hacienda, a la que informará de los resultados de la misma;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2002)</small>
+
+XI. Para lo previsto en las fracciones II, III, IV y V se deberá contar con la autorización de la Comisión Inspectora de Hacienda de que se trate, a la que informará de los resultados de la misma;
 
 XII. Acordar una vez por semana con el Presidente de la Gran Comisión sobre el desempeño de sus funciones; y
 
@@ -1091,7 +1263,7 @@ VII. Expedir constancia de antigüedad laboral a los empleados estatales y munic
 
 VIII. Las demás que le señale el Contador Mayor de Hacienda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 109.
 
@@ -1155,13 +1327,17 @@ XII. (DEROGADA, P.O. 7 DE MARZO DE 1998)
 
 XIII. Firmar los nombramientos que expida el Congreso a los auxiliares de los diputados por Acuerdo del Presidente de la Gran Comisión;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2002)</small>
 
-XIV. Coordinar las actividades con los titulares de otros organismos públicos o privados, cuando así lo requiera el funcionamiento de la Legislatura; y
+XIV. Coordinar las actividades con los titulares de otros organismos públicos o privados, cuando así lo requiera el funcionamiento de la Legislatura;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2002)</small>
 
-XV. Las demás que le señalen la Ley Orgánica este Reglamento y el Presidente de la Gran Comisión.
+XV. Elaborar, revisar y publicar el Diario de Debates; y
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2002)</small>
+
+XVI. Las demás que le señalen la Ley Orgánica, este Reglamento y el Presidente de la Gran Comisión.
 
 > <small>(ADICIONADO, P.O. 7 DE MARZO DE 1998)</small>
 
@@ -1177,7 +1353,9 @@ III. Investigar y difundir temas relacionados con el estudio de la Actividad leg
 
 IV. Apoyar a las comisiones permanentes en el análisis de las Iniciativas de leyes, reformas o adiciones enviadas al H. Congreso del Estado;
 
-V. Proponer a la comisión permanente del instituto de Investigaciones legislativas, anteproyectos de iniciativas de leyes, reformas o adiciones, tendientes a actualizar la legislación vigente en el Estado;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2002)</small>
+
+V. Proponer a la Gran Comisión anteproyectos de iniciativas de leyes, reformas o adiciones, tendientes a actualizar la legislación vigente en el Estado, para la oportuna presentación, en términos de ley de la iniciativa correspondiente;
 
 VI. Proponer las directrices de investigación, difusión, conservación de documentos, de intercambio bibliográfico y de experiencia en investigación con los congresos locales, Congreso de la Unión, instituciones académicas locales y nacionales;
 
@@ -1251,11 +1429,11 @@ I. Gestionar ante las tres instancias de Gobierno, las peticiones y quejas de la
 
 II. Realizar todas las actividades encaminadas al cumplimiento de los Acuerdos de Coordinación, que celebren la Gran Comisión y los Diputados, con las dependencias del Gobierno Federal, Estatal y Municipal;
 
-III. Recopilar los programas operativos anuales, Estatales y Municipales, así como los diversos convenios celebrados por las instancias Federal, Estatal y Municipal del Gobierno; y
+III. (DEROGADA, P.O. 2 DE FEBRERO DE 2002)
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 1998)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2002)</small>
 
-IV. Las demás que le señale el Presidente de la Gran Comisión, la Mesa Directiva o la Comisión Permanente de Petición, Gestoría y Quejas.
+IV. Las demás que le señale el Presidente de la Gran Comisión y la mesa directiva.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -1461,15 +1639,15 @@ LIC. ARNULEO CUEVA AGUIRRE.
 
 DIPUTADO SECRETARIO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 11 DE ENERO DE 1995.
 
 DECRETO No. 0771
 
-###### ARTICULO UNICO.
+###### ARTÍCULO ÚNICO.
 
-SE DEROGAN LOS ARTICULOS 6, 7, 8, 9, 10, 11, 12 Y 13 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL H. CONGRESO DEL ESTADO, Y SE REFORMAN LOS ARTICULOS 3, 4, 5, 14 Y 68.
+SE DEROGAN LOS ARTÍCULOS 6, 7, 8, 9, 10, 11, 12 Y 13 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL H. CONGRESO DEL ESTADO, Y SE REFORMAN LOS ARTÍCULOS 3, 4, 5, 14 Y 68.
 
 UNICO: Este Decreto entrará en vigor inmediatamente después de su aprobación.
 
@@ -1477,23 +1655,23 @@ P.O. 11 DE ENERO DE 1995.
 
 DECRETO 004
 
-###### ARTICULO UNICO.
+###### ARTÍCULO ÚNICO.
 
-SE ADICIONA LA FRACCION IV DEL ARTICULO 63 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE TABASCO.
+SE ADICIONA LA FRACCIÓN IV DEL ARTÍCULO 63 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE TABASCO.
 
 UNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado.
 
 P.O. 8 DE MARZO DE 1995.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 6° DEL CODIGO CIVIL PARA EL ESTADO DE TABASCO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 6° DEL CÓDIGO CIVIL PARA EL ESTADO DE TABASCO.
 
 P.O. 5 DE ABRIL DE 1995.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 6° DEL CODIGO CIVIL PARA EL ESTADO DE TABASCO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 6° DEL CÓDIGO CIVIL PARA EL ESTADO DE TABASCO.
 
 P.O. 22 DE ABRIL DE 1995.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 6° DEL CODIGO CIVIL PARA EL ESTADO DE TABASCO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 6° DEL CÓDIGO CIVIL PARA EL ESTADO DE TABASCO.
 
 P.O. 15 DE FEBRERO DE 1997.
 
@@ -1521,7 +1699,7 @@ SEGUNDO.- Se derogan las disposiciones del Decreto número 203 del 9 de enero de
 
 P.O. 8 DE AGOSTO DE 1998.
 
-###### ARTÍCULO UNICO.
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
 
@@ -1530,3 +1708,9 @@ P.O. 25 DE JULIO DE 2001.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las demás disposiciones de este reglamento que se opongan al presente decreto.
+
+P.O. 2 DE FEBRERO DE 2002.
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
