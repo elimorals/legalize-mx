@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1961-01-05"
+last_updated: "1963-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 1961.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1963.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -749,6 +749,14 @@ Las instituciones de seguros no podrán repartir a sus accionistas, asegurados, 
 
 Las provisiones que para castigos se establezcan, podrán ser ajustadas de un balance a otro, con aprobación de la Secretaría de Hacienda y Crédito Público, pero sólo en la medida en que se hayan modificado los hechos y factores que sirvieron de base para su cálculo, y respetando siempre las reglas de estimación del activo establecidas en esta ley.
 
+(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1963) (F. DE E., D.O.F. 4 DE FEBRERO DE 1964)
+
+###### ARTICULO 45 Bis.
+
+La suma total de primas por cobrar, saldos a cargo de agentes, y documentos por cobrar, cualquiera que sea su origen, sólo se aceptará como activo para los efectos de determinar la situación financiera de las instituciones de seguros y los resultados de cada ejercicio, hasta por el 40% del capital contable, en la inteligencia de que sólo se computarán los títulos de crédito que contengan la cláusula de “no negociable”. Además, para que se acepten los créditos y documentos derivados de primas por cobrar, deberán tener un plazo de vencimiento no mayor de 90 días, contado a partir de la fecha de la póliza o de los endosos correspondientes.
+
+Lo dispuesto en este artículo es sin perjuicio de los preceptos de esta Ley que establece el régimen de inversión del capital y de las reservas técnicas, así como del artículo 180 y demás relativos de la Ley Sobre el Contrato de Seguro.
+
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 ###### ARTICULO 46.
@@ -1073,11 +1081,15 @@ II.- Las reservas para obligaciones pendientes de cumplir deberán registrarse e
 
 III.- Las reservas de previsión, calculadas en los términos de los artículos 76 y 77, se registrarán al 31 de diciembre de cada año. Estas reservas deberán encontrase íntegramente invertidas al 31 de enero siguiente en los bienes, créditos y valores que señala el artículo 85 y deberán ajustarse a las proporciones que fijan los artículos 86 y 87 dentro de un plazo que vencerá el 31 de marzo de cada año.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1961)</small>
+(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1963) (F. DE E., D.O.F. 4 DE FEBRERO DE 1964)
 
 ###### ARTICULO 85.
 
-El importe total de las reservas a que se refiere la fracción II del artículo 64, deberá mantenerse precisamente en efectivo o invertirse en valores que a juicio de la Secretaría de Hacienda y Crédito Público, sean de fácil realización. Tratándose de obligaciones pendientes de cumplir que sean a plazo determinado, la inversión de sus reservas podrá realizarse en bienes distintos, los cuales serán determinados por la Secretaría de Hacienda y Crédito Público a través de disposiciones de carácter general.
+El importe total de las reservas a que se refiere la fracción II del artículo 64, deberá invertirse en valores que a juicio de la Secretaría de Hacienda y Crédito Público sean de fácil realización. Tratándose de obligaciones pendientes de cumplir que sean a plazo determinado, la inversión de sus reservas podrá realizarse en bienes distintos, los cuales serán determinados por la Secretaría de Hacienda y Crédito Público a través de disposiciones de carácter general.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
+
+Si la reserva fue constituida por orden de la Comisión Nacional de Seguros en el caso previsto en la fracción IV del artículo 135, los productos de la inversión de la reserva quedarán en beneficio del reclamante si el cobro resultare procedente.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
@@ -1401,7 +1413,7 @@ IV.- Hecho el depósito en la Nacional Financiera, S. A., esta institución remi
 
 ### CAPITULO I. De las relaciones fiscales
 
-> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 99.
 
@@ -1469,7 +1481,7 @@ La infracción a lo dispuesto en los párrafos anteriores así como la consignac
 
 ### CAPITULO II. De los procedimientos
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1954)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 106.
 
@@ -1591,11 +1603,11 @@ Por lo menos uno vez cada año, se practicará una visita minuciosa a las instit
 
 Cuando una institución, sucursal o agencia, se rehusare a recibir una visita o a facilitar los elementos indispensables que ajuicio del inspector sean necesarios para la práctica de ésta, dará lugar a la aplicación de una multa de $500.00 a $1,000.00. En caso de reincidencia, la Secretaría de Hacienda revocará la autorización para operar o la credencial respectiva, según sea el caso.
 
-> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 118.
 
-En cumplimiento de la función de vigilancia que esta ley confiere a la Secretaría de Hacienda y Crédito Público, ésta:
+En cumplimiento de la función de vigilancia que esta Ley confiere a la Secretaría de Hacienda y Crédito Público, ésta:
 
 > <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
@@ -1637,9 +1649,9 @@ IX.- Reglamentará el ejercicio de la actividad de agentes y ajustadores de segu
 
 X.- Formará y publicará las estadísticas relativas a la organización y al funcionamiento del seguro en la República;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
 
-XI.- Ordenará a las instituciones de seguros, a través de la Comisión Nacional de Seguros, la constitución de reservas por obligaciones pendientes de cumplir, en los casos de controversia a que se refiere la fracción III del artículo 135, siempre que las partes no se hubieren sometido al arbitraje de dicha Comisión y la misma hubiere encontrado, previa la investigación correspondiente, que existen suficientes elementos para presumir que la institución de seguros está obligada a cubrir las prestaciones exigidas por el reclamante. Si las partes se hubieren sometido al arbitraje a que se refiere la fracción II del mismo artículo, y la institución de seguros hubiere acudido a la vía de amparo, la Comisión Nacional de Seguros ordenará a la institución que constituya la reserva para obligaciones pendientes de cumplir;
+XI.- Ordenará a las instituciones de seguros, a través de la Comisión Nacional de Seguros, la constitución de reservas por obligaciones pendientes de cumplir, en los casos a que se refiere la fracción IV del artículo 135.
 
 > <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
@@ -1795,19 +1807,33 @@ Sus honorarios serán fijados en el momento de su designación por la Secretarí
 
 ###### ARTICULO 132.
 
-Las instituciones de seguros estarán sujetas únicamente al pago de los impuestos y derechos siguientes, de acuerdo con las leyes y reglamentos respectivos:
+Las instituciones de seguros estarán sujetas al pago de los impuestos y derechos siguientes, de acuerdo con las leyes y reglamentos respectivos:
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 I.- Predial, que se cause sobre los inmuebles de su propiedad, en las mismas condiciones que para los demás obligados al pago de este impuesto.
 
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 II.- Impuestos y derechos de carácter municipal que causen dichos inmuebles, por concepto de pavimentos, atarjeas y limpia, por su frente y la vía pública y por el agua potable de que disfruten; en las mismas condiciones en que deban pagar los demás causantes.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 III.- Los de patente o sobre giros comerciales, en la inteligencia de que este impuesto lo pagarán en el lugar de su domicilio y no en las agencias o sucursales que tengan en otros lugares.
 
-IV.- Impuesto federal sobre primas.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
+
+IV.- El Impuesto Federal sobre Primas y el del Timbre establecido por las fracciones II y VII inciso C de la Tarifa contenida en el artículo 4o., de la Ley General del Timbre, en los términos de las leyes respectivas.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 V.- Impuestos sobre utilidades líquidas anuales que causen los balances aprobados por la Secretaría de Hacienda, por conducto de su dependencia encargada del control y vigilancia de las instituciones de seguros, después de hechas las deducciones correspondientes a castigos directos o al establecimiento de fondos o reservas para castigos, para fluctuaciones o para otras provisiones similares que la propia Secretaría apruebe, o que establezca esta ley.
 
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 Los impuestos o derechos que hayan de ser pagados por las sucursales de empresas extranjeras por concepto de su capital, se calcularán sobre el que conforme a la ley conserven en la República dichas sucursales y no sobre el capital total que tenga la empresa matriz.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 VI.- El derecho de inspección y vigilancia, conforme a las siguientes normas:
 
@@ -1819,9 +1845,11 @@ c). El 20% restante, en relación con las utilidades y las instituciones naciona
 
 d). Las cuotas serán pagadas por mensualidades adelantadas en el Banco de México, S. A., y el fondo que con ellas se forme, será manejado por la Secretaría de Hacienda y Crédito Público en los términos del reglamento respectivo.
 
+(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1963) (F. DE E., D.O.F. 4 DE FEBRERO DE 1964)
+
 ###### ARTICULO 133.
 
-No causan el impuesto del Timbre los libros de contabilidad de las instituciones de seguros, ni los contratos que ellas celebren, ni los títulos o documentos que expidan o recaben, cualquiera que sea su carácter, y siempre que tales contratos, títulos o documentos sean propios del objeto de la institución, o se celebren o expidan con motivo de las operaciones que la institución está autorizada a realizar. La exención anterior comprende a todas las partes que intervengan en los contratos, títulos o documentos para los que la misma se concede.
+No causan el impuesto del timbre los libros de contabilidad de las instituciones a que se refiere el artículo anterior, ni los contrato que ellas celebren, ni los títulos o documentos que ellas expidan, cualquiera que sea su carácter y siempre que tales contratos, títulos o documentos sean propios de los servicios que la institución está autorizada a prestar, salvo los señalados en la fracción IV del artículo anterior. La exención señalada comprende a todas las partes que intervengan en los contratos, títulos o documentos para los que la misma se concede.
 
 ###### ARTICULO 134.
 
@@ -1831,33 +1859,33 @@ Lo dispuesto en este artículo aprovechará a las instituciones, a sus agentes y
 
 ###### ARTICULO 135.
 
-En caso de reclamación contra una institución de seguros, con motivo del contrato de seguros, deberán observarse las siguientes reglas:
+En caso de reclamación contra una institución de seguros, con motivo del contrato de seguro, deberán observarse las siguientes reglas:
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
 
 I.- El reclamante deberá ocurrir ante la Comisión Nacional de Seguros, la que pedirá un informe detallado a la Institución contra la que se hubiere presentado reclamación;
 
-(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1953)(F. DE E., D.O.F. 25 DE FEBRERO DE 1954)
+(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1963) (F. DE E., D.O.F. 4 DE FEBRERO DE 1964)
 
-II.- La Comisión Nacional de Seguros citará a las partes a una junta en la que las exhortará para que, voluntariamente y de común acuerdo, la designen árbitro. El compromiso arbitral se hará constar en acta ante la citada Comisión.
+II.- La Comisión Nacional de Seguros citará a las partes a una junta en la que las exhortará a conciliar sus intereses, y si esto no fuera posible, para que voluntariamente y de común acuerdo la designen árbitro. El compromiso arbitral se hará constar en acta ante la citada Comisión.
 
-El juicio arbitral se ajustará a esta ley y al procedimiento que convencionalmente fijen las partes en acta ante la Comisión Nacional de Seguros, de acuerdo con las disposiciones relativas del Código de Comercio, mismo que se aplicará supletoriamente; a falta de disposición en dicho código, serán aplicables las del Código de Procedimientos Civiles para el Distrito y Territorios Federales. Sin embargo, no tendrá aplicación lo dispuesto por los artículos 1247 y 1296 del Código de Comercio.
+> <small>(F. DE E., D.O.F. 4 DE FEBRERO DE 1964)</small>
 
-Antes de iniciarse formalmente el arbitraje, la Comisión tratará de avenir a las partes.
+El juicio arbitral se ajustará a esta Ley y al procedimiento que convencionalmente fijen las partes en acta ante la Comisión Nacional de Seguros, de acuerdo con las disposiciones relativas del Código de Comercio, mismo que se aplicará supletoriamente; a falta de disposición en dicho Código, serán aplicables las del Código de Procedimientos Civiles para el Distrito y Territorios Federales. Sin embargo, no tendrá aplicación lo dispuesto por los artículos 1247 y 1296 del Código de Comercio.
 
-> <small>(F. DE E., D.O.F. 25 DE FEBRERO DE 1954)</small>
+El laudo arbitral no admitirá más recurso o medio de defensa que el juicio de amparo. Todas las demás resoluciones del árbitro en el curso del procedimiento, admitirán como único recurso el de la revocación.
 
-El laudo arbitral no admitirá más recurso o medio de defensa que el juicio de amparo. Todas las demás resoluciones del árbitro en el curso del procedimiento, admitirán como único recurso el de revocación.
+> <small>(F. DE E., D.O.F. 4 DE FEBRERO DE 1964)</small>
 
-El laudo que condene a una institución de seguros a pagar, le otorgará para ello un plazo de quince días hábiles. Si no hiciere el pago, la Comisión ejecutará su resolución, para lo cual podrá disponer de las inversiones de las reservas técnicas de la Institución.
+El laudo que condene a una institución de seguros a pagar, le otorgará para ello un plazo de 15 días hábiles. Si no hiciere el pago, la Comisión ejecutará su resolución, para lo cual podrá disponer delas inversiones de las reservas técnicas de la institución.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
 
-III.- Si alguna de las partes no estuviere de acuerdo en designar árbitro a la Comisión Nacional de Seguros, ésta citará a una junta de avenencia para el arreglo de las dificultades surgidas. Si en el procedimiento conciliatorio no fuere posible terminar la controversia, las partes podrán ocurrir ante los tribunales competentes. El procedimiento conciliatorio no durará más de treinta días hábiles, a no ser que las partes de común acuerdo soliciten que continúe por mayor tiempo. El plazo de treinta días, se computará a partir de la fecha en que las partes se nieguen a designar árbitro a la Comisión Nacional de Seguros en la junta respectiva; y
+III.- Si alguna de las partes no estuviere de acuerdo en designar árbitro a la Comisión Nacional de Seguros, el reclamante podrá ocurrir desde luego ante los Tribunales competentes.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
 
-IV.- Cuando la Comisión no hubiere sido designada árbitro, podrá investigar administrativamente el fondo de la reclamación, aún durante el procedimiento judicial, a fin de ordenar la constitución e inversión de la reserva para obligaciones pendientes de cumplir, cuando a su juicio presuma que la Institución está obligada a cubrir las prestaciones que se le reclaman.
+IV.- Al recibo de la reclamación la Comisión Nacional de Seguros ordenará a la institución que constituya e invierta la reserva para obligaciones pendientes de cumplir, a menos que a juicio de dicha Comisión fuere notoriamente improcedente.
 
 > <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
@@ -2198,3 +2226,9 @@ D.O.F. 5 DE ENERO DE 1961.
 ###### ARTICULO UNICO.
 
 Las presentes reformas entrarán en vigor a partir del día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1963.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día 1o. de enero de 1964.
+
+SEGUNDO.- Las reclamaciones recibidas por la Comisión Nacional de Seguros hasta el 31 de diciembre del presente año se regirán por las disposiciones actualmente en vigor.
