@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-responsabilidad-administrativa-de-los-servidores-7834"
 country: "mx"
 rank: "ley"
 publication_date: "1983-07-13"
-last_updated: "1993-05-08"
+last_updated: "2002-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7834&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS QUE REGLAMENTA EL TITULO SEPTIMO DE LA LEY FUNDAMENTAL DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 13 de julio de 1983.
 
@@ -69,13 +69,23 @@ AER. (SIC) 3.- Las autoridades competentes para aplicar la presente Ley serán:
 
 I.- La Cámara de Diputados del Estado;
 
-II.- El Tribunal Superior de Justicia en el Estado;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2002)</small>
 
-III.- La Contraloría Geberal (sic) del Estado;
+II.- El Tribunal Superior de Justicia en el Estado, el Consejo de la Judicatura y la Contraloría Judicial;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2002)</small>
+
+III.- La Secretaría de Contraloría y Desarrollo Administrativo;
 
 IV.- Las dependencias del Ejecutivo Estatal, y
 
-V.- Los demás organismos Jurisdiccionales y Administrativos que determinen las Leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2002)</small>
+
+V.- Los Ayuntamientos, por conducto de sus órganos competentes, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE MARZO DE 2002)</small>
+
+VI.- Los demás órganos jurisdiccionales y administrativos que determinen las leyes.
 
 > <small>(REFORMADO, P.O. 8 DE MAYO DE 1993)</small>
 
@@ -335,6 +345,18 @@ ART. 48.- Para los efectos de esta Ley se entenderá por Contraloría a la Contr
 
 Para los mismos efectos, se entenderá por superior jerárquico al Titular de la Depeendencia (sic) y en el caso de las entidades, el Coordinador del sector correspondiente, el cual, aplicará las sanciones cuya imposición se le atribuya a través de la Contraloría Interna de su Dependencia.
 
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2002)</small>
+
+En el Poder Judicial, se considerará superior jerárquico al Pleno del Tribunal Superior de Justicia y al del Consejo de la Judicatura, en el ámbito de su respectiva competencia; una vez impuestas las sanciones serán aplicadas por sus respectivos Presidentes.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2002)</small>
+
+En el Poder Legislativo, para efectos de sanciones administrativas de los servidores públicos, con excepción de los diputados, será considerado superior jerárquico el presidente de la Gran Comisión.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2002)</small>
+
+En los municipios será considerado superior jerárquico, el Presidente Municipal o el Presidente del Concejo en su caso; tratándose de asuntos vinculados con éstos, o de cualquier regidor, con la salvedad a que se contrae el último párrafo parte in fine del artículo 60 de esta ley, se considerará como superior jerárquico al cabildo.
+
 ### CAPITULO II. SANCIONES ADMINISTRATIVAS Y PROCEDIMIENTOS PARA APLICARLAS
 
 ART. 49.- En las dependencias y entidades de la Administración Pública del Estado, Municipios y Organismos Paraestatales de éstos, se establecerán unidades específicas a las que el público tenga fácil acceso, para que cualquier interesado pueda presentar quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos, con la que iniciarán, en su caso, el procedimiento disciplinario correspondiente.
@@ -345,11 +367,15 @@ ART. 50.- La Contraloría, el Superior Jerárquico y todos los Servidores Públi
 
 Incurre en responsabilidad el servidor público que por sí o por interpósita persona, utilizando cualquier medio, inhiba al quejoso para evitar la formulación o presentación de quejas y denuncias o que con motivo de ellos realice cualquier conducta injusta u omita una justa que lesione los intereses de quienes las formulen o presenten.
 
-ART. 51.- El Tribunal Superior de Justicia establecerá los órganos y sistemas para identificar, investigar y determinar las responsabilidades derivadas del incumplimiento de las obligaciones establecidas en el Artículo 47, así como para aplicar las sanciones establecidas en el presente Capítulo, en los términos de su Ley Orgánica.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2002)</small>
+
+ART. 51.- El Tribunal Superior de Justicia y el Consejo de la Judicatura, dentro de sus respectivos ámbitos de competencia, establecerán los órganos y sistemas para identificar, investigar y determinar las faltas oficiales y las responsabilidades derivadas del incumplimiento de las obligaciones señaladas en el artículo 47 de esta Ley, así como para aplicar las sanciones establecidas en el presente Capítulo, en los términos de su Ley Orgánica.
 
 Lo propio hará conforme a la Legislación respectiva y por lo que hace a su competencia la Cámara de Diputados.
 
-Los Ayuntamientos procederán en la misma forma en los términos de su legislación.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
+
+Para los efectos de la aplicación en el ámbito municipal, los Ayuntamientos, procederán en la forma y términos de su legislación, y en lo conducente a lo establecido en la presente ley.
 
 ART. 52.- Los Servidores Públicos de la Contraloría que incurran en responsabilidad por incumplimiento de las obligaciones establecidas en el artículo 47 serán sancionados conforme al presente capítulo por la Contraloría Interna de dicha Contraloría. El titular de esta Contraloría será designado por el Gobernador del Estado y solo será responsable administrativamente ante él.
 
@@ -378,6 +404,10 @@ Para que una persona que hubiere sido inhabilitada en los términos de la presen
 > <small>(ADICIONADO, P.O. 8 DE MAYO DE 1993)</small>
 
 La contravención a lo dispuesto por el párrafo que antecede, será causa de responsabilidad administrativa en los términos de esta Ley, quedando sin efecto el nombramiento o contrato que en su caso se haya realizado.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2002)</small>
+
+Los puntos resolutivos de las resoluciones por las que se declare la destitución o inhabilitación de un servidor público, una vez que haya quedado firme, serán publicados en el Periódico Oficial del Estado, debiendo llevar los órganos de control correspondientes, los registros administrativos para ello, así como informar a los órganos de control de los poderes del Estado y de los municipios y al del Poder Ejecutivo Federal, el sentido de la resolución correspondiente.
 
 ART. 54.- Las sanciones administrativas se impondrán tomando en cuenta los siguientes elementos:
 
@@ -437,31 +467,53 @@ ART. 59.- Incurrirán en responsabilidad administrativa los servidores públicos
 
 ART. 60.- La Contraloría Interna si la hubiere, la Dirección o Departamento Jurídico en su caso, de cada Dependencia o Entidad, será competente para imponer, por acuerdo del superior jerárquico, sanciones disciplinarias, excepto las económicas cuyo monto sea superior a doscientas veces al salario mínimo mensual vigente en el Estado, las que están reservadas exclusivamente a la Contraloría, que comunicará los resultados del procedimiento al Titular de la Dependencia o entidad. En estos casos, la Contraloría Interna, Dirección o Departamento Jurídico en su caso, previo informe al superior jerárquico, turnará el asunto a la Contraloría.
 
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2002)</small>
+
+Tratándose de servidores públicos del Poder Judicial, las sanciones serán impuestas por el Pleno del Tribunal Superior de Justicia o por el del Consejo de la Judicatura y aplicadas por el superior jerárquico, según su competencia, acorde a lo establecido en la presente Ley y en la Orgánica del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2002)</small>
+
+En el caso de los Ayuntamientos las sanciones administrativas a los servidores públicos distintas de los regidores, se aplicarán en los términos de la Ley Orgánica de los Municipios y en lo que resulte aplicable la presente ley. Tratándose de los regidores las sanciones a que se hagan acreedores concernientes a la destitución e inhabilitación, se aplicarán en términos de la Constitución del Estado y en lo conducente por las leyes secundarias citadas.
+
 ART. 61.- Si la Contraloría Interna de la Dependencia tuviera conocimiento de hechos que impliquen responsabilidad penal, dará vista de ellos a la Contraloría y a la autoridad competente para conocer del ilícito.
 
 ART. 62.- Si de las investigaciones y auditorías que realice la Contraloría apareciera la responsabilidad de los servidores públicos, informará a la Contraloría Interna de la dependencia correspondiente o al coordinador sectorial de las entidades, para que proceda a la investigación y sanción disciplinaria por dicha responsabilidad, si fuera de su competencia, si se trata de responsabilidades mayores cuyo conocimiento sólo compete a la Contraloría, esta se evocará directamente al asunto, informando de ello al Titular de la dependencia y a la Contraloría Interna de la misma para que participe o coadyuve en el procedimiento de determinación de responsabilidades.
 
 ART. 63.- La Dependencia y la Contraloría en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez cuando lo estimen pertinente, justificando las causas de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por este no exceda de cien veces al salario mínimo diario vigente en el Estado.
 
-ART. 64.- La Contraloría impondrá sanciones administrativas a que se refiere este capítulo mediante el siguiente procedimiento:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2002)</small>
 
-I.- Citará al presunto responsable a una Audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día, hora en que tendrá verificativo dicha audiencia y su derecho de ofrecer pruebas y alegar en la misma lo que a su derecho convenga, por sí o por medio de un defensor.
+ART. 64.- Para la imposición de las sanciones administrativas a que se refiere este capítulo se estará al siguiente procedimiento:
 
-también asistirá a la Audiencia el representante de la Dependencia (sic) para tal efecto se designe.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2002)</small>
+
+I.- Se citará al presunto responsable a una audiencia haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día, hora en que tendrá verificativo la misma y su derecho de ofrecer pruebas y alegar en la misma lo que a su derecho convenga, por sí o por medio de un defensor:
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
+
+También asistirá a la audiencia el representante de la Dependencia o Entidad, que para tal efecto se designe.
 
 Entre la fecha de la citación y de la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles.
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2002)</small>
 
-II.- Desahogadas las pruebas, si las hubiere, la Contraloría resolverá dentro de los treinta días hábiles siguientes, sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes, y notificará la resolución al interesado dentro de los cinco días hábiles siguientes, a su jefe inmediato, al representante designado por la Dependencia o Entidad y al superior jerárquico;
+II.- Desahogadas las pruebas si las hubiere, la Contraloría, o el órgano competente del Poder o Municipio de que se trate, resolverá dentro de los treinta días hábiles siguientes, sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes, y notificará la resolución al interesado dentro de los cinco días hábiles siguientes, a su jefe inmediato, al representante designado por la Dependencia o Entidad y al superior jerárquico;
 
-III.- Si en la Audiencia la Contraloría encontrara que no cuenta con elementos suficientes para resolver o advierta elementos quee (sic) impliquen nueva responsabilidad administrativa a cargo del presunto responsable o de otras personas, podrá disponer la práctica dee (sic) investigaciones y citar para otra u otras audiencias; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2002)</small>
 
-IV.- En cualquier momento, previa o posteriormente al citatorio al que se refiere la fracción I del presente artículo, la Contraloría podrá determinar la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, si a su juicio así conviene para la conducción o continuación de las investigaciones. La suspensión temporal no prejuzga sobre la responsabilidad que se impute. La determinación de la Contraloría hará constar expresamente esta salvedad.
+III.- Si en la audiencia, la Contraloría, o el órgano competente del Poder o Municipio de que se trate, considera que no cuenta con elementos suficientes para resolver o advierta elementos que impliquen nueva responsabilidad administrativa a cargo del presunto responsable o de otras personas, podrá disponer la práctica de investigaciones y citar para otra u otras audiencias; y
 
-La suspensión temporal a que se refiere el párrafo anterior suspenderá los efectos del acto que haya dado origen a la ocupación del empleo, cargo o comisión, y regirá desde el momento en que sea notificada al interesado o éste quede enterado de la resolución por cualquier medio. La suspensión cesará cuando así lo resuelva la Contraloría, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo en relación con la presunta responsabilidad de los servidores públicos.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2002)</small>
 
-Si los servidores suspendidos temporalmente no resultaren responsables de la falta que se les imputa, serán restituídos en el goce de sus derechos y se les imputa (sic), cubrirán las percepciones que debieran percibir durante el tiempo en que se hallaron suspendidos, para dicha suspensión si el nombramiento del servidor público de que se trate incumbe al titular del Poder Ejecutivo. Igualmente se requerirá autorización de la Cámara de Diputados o en su caso, de la Comisión permanente, si dicho nombramiento requirió ratificación de ésta en los términos de la Constitución Local y de los Ayuntamientos si se trata de los servidores públicos municipales.
+IV.- En cualquier momento, previa o posteriormente al citatorio al que se refiere la fracción I del presente artículo, la Contraloría, o el órgano competente del Poder o Municipio de que se trate, podrá determinar la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, si a su juicio así conviene para la conducción o continuación de las investigaciones. La suspensión temporal no prejuzga sobre la responsabilidad que se impute. La determinación correspondiente hará constar expresamente esta salvedad.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
+
+La suspensión temporal a que se refiere el párrafo anterior interrumpirá los efectos del acto que haya dado origen a la ocupación del empleo, cargo o comisión, y regirá desde el momento en que sea notificada al interesado o éste quede enterado de la resolución por cualquier medio. La suspensión cesará cuando así lo resuelva la Contraloría, o el órgano competente del Poder o Municipio de que se trate, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo en relación con la presunta responsabilidad de los servidores públicos.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
+
+Si los servidores suspendidos temporalmente no resultaren responsables de la falta que se les imputa, serán restituidos en el goce de sus derechos y se les cubrirán las percepciones que dejaron de recibir durante el tiempo en que fueron suspendidos.
 
 ART. 65.- En los procedimientos que se sigan para la investigación y aplicación de sanciones ante las contralorías internas de las dependencias se observarán, en todo cuanto sea aplicable, las reglas contenidas en el artículo anterior.
 
@@ -469,9 +521,13 @@ ART. 66.- Se levantará acta circunstancia de todas las diligencias que se pract
 
 ART. 67.- El titular de la dependencia podrá designar un representante que participen en las diligencias. Se dará vista de todas las actuaciones a la dependencia en la que el presunto responsable preste sus servicios.
 
-ART. 68.- Las resoluciones y acuerdos de la Contraloría y de las dependencias durante el procedimiento al que se refiere este capítulo constarán por escrito, y se asentarán en el registro respectivo, que comprenderá las secciones correspondientes a los procedimientos disciplinarios y a las sanciones impuestas, en ellas, en todo caso, las de inhabilitación.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
 
-ART. 69.- La Contraloría expedirá constancias que acrediten la no existencia de registro de inhabilitación, que serán exhibidas para los efectos pertinentes, por las personas que sean requeridas para desempeñar un empleo, cargo o comisión en el servicio público.
+ART. 68.- Las resoluciones y acuerdos que durante el procedimiento al que se refiere este capítulo emitan la Contraloría, los órganos internos de control de las dependencias y entidades, así como los órganos competentes del Poder o Municipio de que se trate, constarán por escrito, y se asentarán en el registro respectivo, que comprenderá las secciones correspondientes a los procedimientos disciplinarios y las sanciones impuestas, en ellas, en todo caso, las de inhabilitación.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
+
+ART. 69.- La Contraloría, o el órgano competente del Poder o Municipio de que se trate expedirá constancias que acrediten la no existencia de registros de inhabilitación, que serán exhibidas para los efectos pertinentes, por las personas que sean requeridas para desempeñar un empleo, cargo o comisión en el servicio público.
 
 ART. 70.- Los sujetos sancionados podrán impugnar ante la Contraloría las resoluciones administrativas del superior jerárquico por los cuales se les impongan las sanciones previstas en el artículo 56, Fracción I, III y VI, primer párrafo de esta Ley.
 
@@ -490,6 +546,10 @@ Las pruebas admitidas se desahogarán en un plazo de cinco días hábiles, que a
 > <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
 
 III.- Desahogadas las pruebas si las hubiere, la autoridad emitirá resolución dentro de los treinta días hábiles siguientes, notificándolo al interesado en un plazo no mayor de setenta y dos horas.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2002)</small>
+
+Las resoluciones que dicte el presidente de la Gran Comisión del Congreso del Estado, por las que se impongan las sanciones administrativas previstas en el artículo 53, fracciones I, II, III y IV de la presente Ley, podrán ser recurridas por los sujetos sancionados, ante la Gran Comisión del Congreso del Estado, mediante el recurso de revocación, el cual se sujetará, en lo conducente, a lo establecido en el presente artículo y en los subsecuentes hasta el 78 de esta Ley. Las resoluciones que dicte la Gran Comisión al resolver la revocación y al imponer sanciones serán irrecurribles administrativamente.
 
 ART. 72.- La interposición del recurso suspenderá la ejecución de la resolución recurrida, si lo solicita el promovente, conforme a estas reglas:
 
@@ -543,13 +603,17 @@ En todos los casos, la prescripción a la que alude este precepto, se interrumpi
 
 ### CAPITULO UNICO. REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS
 
-ART. 79.- La Contraloría llevará el registro de la situación patrimonial de los servidores públicos de conformidad con esta Ley y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
 
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 1993)</small>
+ART. 79.- La Contraloría, llevará el registro de la situación patrimonial de los servidores públicos del Poder Ejecutivo, de conformidad con esta Ley y demás disposiciones aplicables.
 
-Los servidores públicos del Poder Legislativo del Estado, se regirán por las disposiciones de su Ley Orgánica.
+Los servidores públicos de los Poderes Legislativo o Judicial del Estado, se regirán por las disposiciones de sus Leyes Orgánicas y, de la presente ley, en lo que resulte aplicable.
 
-ART. 80.- Tienen la obligación de presentar declaración anual de situación patrimonial ante la Contraloría, bajo protesta de decir verdad:
+Tratándose de los Municipios, los servidores públicos obligados a ello, incluidos aquéllos que sus nombramientos emanen de elección popular, deberán presentar sus declaraciones de situación patrimonial, ante la Contraloría Interna del Municipio de que se trate, conforme a la Ley Orgánica de los Municipios, a los lineamientos que al efecto emitan o, en su defecto, a lo establecido en la presente ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2002)</small>
+
+ART. 80.- Tienen la obligación de presentar declaración inicial, anual de modificación y conclusión de situación patrimonial, ante los órganos competentes de los Poderes del Estado y de los Municipios, bajo protesta de decir verdad:
 
 I.- (DEROGADA, P.O. 8 DE MAYO DE 1993);
 
@@ -565,9 +629,9 @@ III.- En la Administración Pública Paraestatal: Directores Generales, Gerentes
 
 IV.- En la Procuraduría General de Justicia: Todos los servidores desde el nivel mencionado en la Fracción II hasta el Procurador General de Justicia, incluyendo a Agentes del Ministerio Público y Agentes de la Policía Judicial;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2002)</small>
 
-V.- En el Poder Judicial del Estado: Magistrados, Jueces, Secretarios Judiciales de cualquier categoría o designación y Actuarios Judiciales;
+V.- En el Poder Judicial del Estado, los servidores públicos señalados en su ley orgánica, así como, los Visitadores, Subdirectores, Coordinadores, Secretarios Particulares y los que determinen los superiores jerárquicos respectivos;
 
 > <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
 
@@ -577,9 +641,9 @@ VI.- En la Contraloría General: todos los servidores públicos de confianza;
 
 VII.- En los Ayuntamientos o Concejos Municipales: todos los servidores desde el nivel de Jefes de Oficina o Departamentos hasta Regidores, Síndicos de Hacienda y Presidentes Municipales, o en su caso, Concejeros Municipales.
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 1993)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
 
-Asimismo deberán presentar las declaraciones de que se trata en este precepto, los demás servidores públicos que determinen el Titular de la Contraloría General y el Procurador General de Justicia, mediante disposiciones debidamente motivadas y fundadas.
+Asimismo, deberán presentar las declaraciones de que se trata en este precepto, los demás servidores públicos que determinen el Titular de la Contraloría General y el Procurador General de Justicia, o los órganos competentes de los Poderes Legislativos, Judicial y los Cabildos o Concejos Municipales correspondientes, mediante disposiciones debidamente motivadas y fundadas, las que se darán a conocer mediante publicación en el Periódico Oficial del Estado.
 
 ART. 81.- La declaración de situación patrimonial deberá presentar en los siguientes plazos:
 
@@ -589,25 +653,35 @@ II.- Dentro de los treinta días naturales siguientes a la conclusión del encar
 
 III.- Durante el mes de mayo de cada año deberá presentarse la declaración de situación patrimonial, acompañada de una copia de la declaración anual presentada por personas físicas para los efectos de la Ley del impuesto sobre la renta salvo que en ese mismo año se hubiese presentado la declaración a que se refiere la Fracción I.
 
-Si transcurrido el plazo a que se hace referencia la fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efecto el nombramiento respectivo previa declaración de la Contraloría. Lo mismo ocurrirá cuando se omita la declaración contemplada en la Fracción III.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
+
+Si transcurrido el plazo a que se hace referencia en la fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efecto el nombramiento respectivo previa declaración de la Contraloría, o del órgano competente del Poder o Municipio de que se trate. Lo mismo ocurrirá cuando se omita la declaración contemplada en la fracción III. Se exceptúan de esas hipótesis, los servidores públicos que hayan obtenido su cargo por elección popular, y los Magistrados de Número del Tribunal Superior de Justicia; en los que se estará a lo establecido por la Constitución Política del Estado Libre y Soberano de Tabasco y a lo que sobre el particular establezcan las leyes secundarias aplicables.
 
 > <small>(ADICIONADO, P.O. 8 DE MAYO DE 1993)</small>
 
 Para el caso de omisión sin causa justificada, en la presentación de la declaración a que alude la Fracción II, se inhabilitará al infractor por un año.
 
-ART. 82.- La Contraloría expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
+
+ART. 82.- La contraloría, o el órgano competente del Poder o Municipio de que se trate, expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
 
 ART. 83.- En la declaración inicial y final de situación patrimonial se manifestarán los bienes inmuebles, con la fecha y valor de adquisición.
 
 En las declaraciones anuales se manifestarán solo las modificaciones al patrimonio, con fecha y valor de adquisición. En todo caso se indicará el medio por el que se hizo la adquisición.
 
-Tratándose de bienes muebles, la Contraloría decidirá mediante acuedo (sic) acuerdo general, las características que deba tener la declaración.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
 
-ART. 84.- Cuando los signos exteriores de riquezas sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, la Contraloría podrá ordenar, fundando y motivando su acuerdo, la práctica de visita de inspección y auditorías. Cuando estos actos requieran orden de autoridad judicial, la Contraloría hará ante esta la solicitud correspondiente.
+Tratándose de bienes muebles, la Contraloría, o el órgano competente del Poder o Municipio de que se trate, decidirá mediante acuerdo general, las características que deba tener la declaración.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2002)</small>
+
+ART. 84.- Cuando los signos exteriores de riquezas sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, la Contraloría o el órgano competente del Poder o Municipio de que se trate, podrá ordenar, fundando y motivando su acuerdo, la práctica de visitas de inspección y auditorías. Cuando estos actos requieran orden de autoridad judicial, se hará ante ésta la solicitud correspondiente.
 
 Previamente a la inspección o al inicio de la auditoría, se dará cuenta al servidor público de los hechos que motivan estas actuaciones y se le presentarán las actas en que aquellos consten, para que expongan lo que en derecho le convenga.
 
-ART. 85.- El servidor público a quien se practique visita de investigación o auditoría podrá interponer inconformidad ante la Contraloría contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cinco días siguientes a la conclusión de aquellas, en las que se expresará los motivos de inconformidad y ofrecerá las pruebas que considere necesario acompañar o rendir dentro de los treinta días siguientes a la presentación del recurso.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2002)</small>
+
+ART. 85.- El servidor público a quien se practique visita de investigación o auditoría podrá interponer inconformidad ante la Contraloría, o el órgano competente del Poder o Municipio de que se trate, contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cinco días siguientes a la conclusión de aquéllas, en el que expresará los motivos de inconformidad y ofrecerá las pruebas que considere necesario acompañar o rendir dentro de los treinta días siguientes a la presentación del recurso.
 
 Todas las actas que se levanten con motivo de la visita deberán ir firmadas por el servidor público y los testigos que para tal efecto designe. Si el servidor público o los testigos se negaren a firmar, el visitador lo hará constar, sin que estas circunstancias afecten el valor probatorio que, en su caso posea el documento.
 
@@ -623,9 +697,17 @@ En ningún caso se podrán recibir de dichas personas títulos, valor, bienes in
 
 Se castigarán como cohecho las conductas de los servidores públicos que violen lo dispuesto en este artículo y serán sancionadas en términos de la Legislación Penal.
 
-ART. 89.- Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se menciona en el artículo anterior y cuyo monto sea superior al que en el se establece o sean de los estrictamente prohibidos, deberán informar de ello a la autoridad que la Contraloría determine a fin de ponerlos a su disposición. La autoridad correspondiente llevará un registro de dichos bienes.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
 
-ART. 90.- La Contraloría General hará al Ministerio Público, en su caso, declaratoria de que el funcionamiento sujeto a la investigación respectiva, en los términos de la presente Ley, no justificó la procedencia lícita del incremento sustancial de su patrimonio de los bienes adquiridos o de aquellos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo.
+ART. 89.- Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se menciona en el artículo anterior y cuyo monto sea superior al que en el se establece o sean de los estrictamente prohibidos, deberán informar de ello a la autoridad que la Contraloría, o el órgano competente del Poder o Municipio de que se trate determine a fin de ponerlos a su disposición. La autoridad correspondiente llevará un registro de dichos bienes.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
+
+ART. 90.- La Contraloría, o el órgano competente del Poder o Municipio de que se trate, hará al Ministerio Público, en su caso, declaratoria de que el funcionario o servidor público sujeto a la investigación respectiva, en los términos de la presente Ley, no justificó la procedencia lícita del incremento sustancial de su patrimonio, de los bienes adquiridos o de aquellos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo. Lo mismo harán los titulares de las dependencias respectivas del Poder Judicial, del Poder Legislativo y de los Municipios, cuando en el ejercicio de sus atribuciones tengan conocimiento de situaciones similares.
+
+El Congreso del Estado, a través de su órgano técnico, previo acuerdo de la comisión competente para ello, podrá requerir a los órganos de control respectivos, de los Poderes Ejecutivo y Judicial, así como, de los distintos Ayuntamientos del Estado, la información relacionada con la situación patrimonial de los servidores públicos que considere necesaria, para el ejercicio de sus atribuciones legales.
+
+Los órganos de control de los Ayuntamientos locales, en el ejercicio de sus atribuciones y cumplimiento de sus obligaciones, sin perjuicio de lo que disponga el Cabildo, deberán informar al Congreso del Estado, cuando uno o varios regidores no presenten, dentro de los plazos establecidos en la presente ley, las distintas declaraciones de situación patrimonial a que se encuentran obligados.
 
 ## TRANSITORIOS
 
@@ -668,3 +750,15 @@ SECRETARIO DE GOBIERNO.
 P.O. 8 DE MAYO DE 1993.
 
 UNICO: El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MARZO DE 2002.
+
+PRIMERO. El correspondiente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales de igual naturaleza y aquéllas reglamentarias que se opongan al presente Decreto; consecuentemente, aquéllas prevenciones de las leyes orgánicas de los Poderes del Estado y la Ley Orgánica de los Municipios, que se relacionen con esta norma legal, se entenderán para su aplicación e interpretación armónicamente con las disposiciones de este Decreto.
+
+TERCERO. Cuando en esta ley o en alguna diversa legislación se cite al órgano rector de control preventivo del Poder Ejecutivo, con nombres diversos, tales como, Contraloría General, Contraloría del Poder Ejecutivo, etcétera, se entenderá que se trata de la Secretaría de Contraloría y Desarrollo Administrativo.
+
+CUARTO.- La Secretaría de Contraloría y Desarrollo Administrativo del Poder Ejecutivo, habrá de enviar a los respectivos Ayuntamientos en un término no mayor de cuarenta y cinco días hábiles, la documentación de la situación patrimonial de todos aquellos servidores públicos de su ámbito de control.
+
+QUINTO. En lo que respecta a las declaraciones de situación patrimonial del año 2002, que deberán presentar los regidores y demás servidores públicos de los Ayuntamientos, por esta ocasión podrán coordinarse con el Poder Ejecutivo, a través de la Secretaría de la Contraloría para la capacitación, y en su caso, elaboración de los formatos correspondientes. O en su defecto, podrán convenir sin necesidad de autorización del Congreso, la utilización de aquellos expedidos por la mencionada Secretaría, hasta en tanto elaboran los propios.
