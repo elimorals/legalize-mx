@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1968-02-24"
+last_updated: "1968-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 1968.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 1968.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -571,11 +571,9 @@ La Contaduría Mayor de Hacienda, como asesora técnica de la Comisión de Glosa
 
 Se deposita el ejercicio del Poder Ejecutivo del Estado, en un ciudadano que se denominará "GOBERNADOR CONSTITUCIONAL DEL ESTADO."
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1950)</small>
-
 ###### Art. 56.
 
-Para ser Gobernador del Estado se requiere:
+Para ser Gobernador del Estado, se requiere:
 
 > <small>(REFORMADA, P.O. 6 DE MARZO DE 1962)</small>
 
@@ -589,9 +587,9 @@ III. Haber conservado su domicilio en el Estado, seis meses al menos, inmediatam
 
 IV. Haber obtenido la mayoría de sufragios legales. En caso de empate en la votación, se convocará a nuevas elecciones.
 
-(REFORMADA, P.O. 7 DE ABRIL DE 1953) (F. DE E., P.O. 14 DE ABRIL DE 1953)
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1968)</small>
 
-V. No haber sido Secretario General de Gobierno del Estado, Tesorero General del mismo, miembro del Supremo Tribunal de Justicia del Estado, Juez de Primera Instancia, Recaudador de Rentas o Presidente Municipal, ni haber tenido mando de fuerzas de la Federación, del Estado o de algún Municipio dentro de los seis meses anteriores al día de la elección.
+V. No haber sido Secretario General de Gobierno del Estado, Tesorero General del mismo, miembro del Supremo Tribunal de Justicia del Estado, Juez de Primera Instancia, Recaudador de Rentas o Presidente Municipal, ni haber tenido mando de fuerzas de la Federación, del Estado o de algún Municipio dentro de los tres meses anteriores al día de la elección.
 
 VI. No haber sido convicto por ningún Tribunal, ni haber figurado directa o indirectamente en alguna azonada, motín a (sic) cuartelazo promovido contra las instituciones de la Nación o del Estado.
 
@@ -1127,9 +1125,9 @@ I. 25 años cumplidos en la fecha de la elección.
 
 II. Haber obtenido mayoría de sufragios legales.
 
-(REFORMADA, P.O. 7 DE ABRIL DE 1953) (F. DE E., P.O. 14 DE ABRIL DE 1953)
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1968)</small>
 
-III. No haber sido Secretario General de Gobierno, Tesorero General del Estado, miembro del Supremo Tribunal de Justicia del mismo, Juez de 1ra. Instancia, Recaudador de Rentas o Presidente Municipal, dentro de la juriscción (sic), ni haber tenido mando de fuerza de la Federación, del Estado o del Municipio dentro de los seis meses anteriores al día de la elección.
+III. No haber sido Secretario General de Gobierno, Tesorero General del Estado, miembro del Supremo Tribunal de Justicia del mismo, Juez de Primera Instancia, Recaudador de Rentas o Presidente Municipal, dentro de la Jurisdicción, ni haber tenido mando de fuerza de la Federación, del Estado o del Municipio dentro de los tres meses anteriores al día de la elección.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE ABRIL DE 1938)</small>
 
@@ -1844,3 +1842,9 @@ UNICO.- El Presente Decreto comenzará a surtir sus efectos legales; a partir de
 P.O. 24 DE FEBRERO DE 1968.
 
 UNICO. El presente Decreto comenzará a surtir sus efectos legales correspondientes a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE ABRIL DE 1968.
+
+###### ARTICULO UNICO.
+
+Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
