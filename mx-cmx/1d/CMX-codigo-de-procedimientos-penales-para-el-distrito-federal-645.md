@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "1991-01-21"
+last_updated: "1991-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1991.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -1094,7 +1094,7 @@ Cuando durante las diligencias de averiguación previa el Ministerio Público es
 
 > <small>(REFORMADO[N. DE E. ADICIONADO], D.O.F. 4 DE ENERO DE 1984)</small>
 
-Cuando sea el Ministerio Público quien practique el cateo, dará cuenta al Juez con los resultados del mismo
+Cuando sea el Ministerio Público quien practique el cateo, dará cuenta al Juez con los resultados del mismo.
 
 ###### ARTICULO 153.
 
@@ -4492,7 +4492,7 @@ El auto de sobreseimiento que haya causado estado, surtirá los efectos de una s
 
 ### CAPITULO X. De la Dirección General de Servicios Coordinados de Prevención y Readaptación Social y otras Dependencias
 
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+(N. DE E. DEROGADO UNICAMENTE POR LO QUE HACE A MENORES INFRACTORES EN ARTICULO TRANSITORIO TERCERO DEL DECRETO QUE CREA LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 1991).
 
 ###### ARTICULO 668.
 
@@ -4542,6 +4542,8 @@ Compete a la Dirección General de Servicios Coordinados de Prevención y Readap
 
 I. Dirigir y ordenar la prevención social de la delincuencia en el Distrito Federal, proponiendo a las autoridades competentes las medidas que juzgue necesarias;
 
+(N. DE E. DEROGADA UNICAMENTE POR LO QUE HACE A MENORES INFRACTORES EN ARTICULO TRANSITORIO TERCERO DEL DECRETO QUE CREA LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 1991).
+
 II. Orientar técnicamente la prevención de la delincuencia y el tratamiento de adultos delincuentes, alienados que hayan incurrido en conductas antisociales y menores infractores así como crear y manejar instituciones para el internamiento de estos sujetos;
 
 III. Investigar las situaciones en que queden los familiares y dependientes económicamente de quienes fueron sometidos a proceso o cumplieren sentencias y en su caso gestionar las medidas preventivas y asistenciales que procedieren;
@@ -4557,6 +4559,8 @@ VII. Crear, organizar y manejar el sistema de selección y formación del person
 VIII. Crear y organizar una o más sociedades que funjan como patronatos para liberados, o agencias de las mismas o procurarles corresponsales, sea por diversos partidos judiciales, sea por delegaciones, sea por municipios, así como una federación de dichas sociedades;
 
 IX. Conceder y revocar la libertad preparatoria; así como aplicar la disminución de pena privativa de la libertad o aplicar la retención, en uno y en otro (sic) casos, en los términos previstos por el Código Penal;
+
+(N. DE E. DEROGADA UNICAMENTE POR LO QUE HACE A MENORES INFRACTORES EN ARTICULO TRANSITORIO TERCERO DEL DECRETO QUE CREA LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 1991).
 
 X. Ejercer orientación y vigilancia sobre los menores externados, los enfermos mentales sometidos a medidas de seguridad por la jurisdicción penal y los sujetos a libertad preparatoria o a condena condicional;
 
@@ -4777,3 +4781,17 @@ UNICO.- El presente decreto entrará en vigor a partir del primero de febrero de
 D.O.F. 21 DE ENERO DE 1991.
 
 UNICO.- El Presente decreto entrará en vigor al día siguiente de la fecha su (sic) publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE DICIEMBRE DE 1991.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- La presente Ley entrará en vigor a los sesenta días siguientes a su publicación en el Diario Oficial de la Federación.
+
+...
+
+TERCERO.- Se derogan los artículos 119 a 122, del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal; 73 a 78 de la Ley Orgánica del Poder Judicial de la Federación, y 503 del Código Federal de Procedimientos Penales; así como los artículos 673 y 674, fracciones II y X, del Código de Procedimientos Penales para el Distrito Federal, únicamente por lo que hace a menores infractores.
+
+CUARTO.- Los asuntos que se encuentren en trámite en la fecha en que entre en vigor esta Ley, serán turnados a las áreas competentes que corresponda conocer de los mismos, conforme a la nueva determinación de competencia.
+
+...
