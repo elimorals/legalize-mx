@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1931-07-27"
+last_updated: "1932-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE MARZO DE 1932.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -90,13 +90,21 @@ Las piezas perforadas o recortadas, las que tengan marcas o contraseñas y las q
 
 La emisión de billetes del Banco de México se ajustará a lo dispuesto en la Ley de 25 de agosto de 1925 y en sus reformas y adiciones.
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 1932)</small>
+
 ###### ARTICULO 12.
 
-Queda estrictamente prohibida la acuñación de monedas de plata de un peso o de denominaciones superiores a la unidad, siendo causa de responsabilidad para el funcionario que la ordene y para los empleados que la ejecuten.
+Corresponderá privativamente al Banco de México ordenar la acuñación de monedas según lo exijan las necesidades monetarias de la República y estrictamente dentro de los límites de esas necesidades.
+
+(REFORMADO, D.O.F. 10 DE MARZO DE 1932) (F. DE E., D.O.F. 14 DE ABRIL DE 1932)
 
 ###### ARTICULO 13.
 
-La acuñación de monedas de plata de cincuenta, veinte y diez centavos, así como la acuñación de monedas de bronce, sólo podrá hacerse en los límites que estrictamente impongan las necesidades monetarias de la República y precisamente a cambio de monedas de plata de un peso, las cuales deberán fundirse, siendo causa de responsabilidad para los funcionarios que la ordenen y para los empleados que la ejecuten, el hacer dicha acuñación fuera de lo prescrito en este artículo.
+La acuñación de monedas de plata de un peso o de denominaciones superiores a la unidad, sólo podrá ser ordenada por el Banco México, en los términos de su ley constitutiva, por resolución que tome el Consejo de Administración en votación secreta, por mayoría de siete votos, cuando menos, quedando tal resolución sujeta al veto del Secretario de Hacienda y Crédito Público. La diferencia que resulte entre el costo y el valor monetario de las monedas de un peso o de denominaciones superiores a la unidad que sean acuñadas, será conservada por el Banco de México para el exclusivo fin de aumentar en cuanto sea necesario las reservas legales de la emisión de billetes, mientras no se aplique por ley definitivamente a la Reserva Monetaria. El Banco abonará al Estado intereses al tipo medio que cargue en sus operaciones de redescuento, sobre las cantidades que de esta diferencia utilice para el incremento de las reservas legales de su emisión y mientras tales cantidades se conserven formando parte integrante de dichas reservas.
+
+La acuñación de monedas de plata o bronce en denominaciones inferiores a la unidad, sólo podrá hacerse con los requisitos indicados en el párrafo que antecede y precisamente a cambio de monedas de plata de un peso, las cuales deberán ser fundidas para ese objeto.
+
+La acuñación que se haga en forma distinta a la prevenida en esta ley, será causa de destitución inmediata y de responsabilidad civil para los consejeros y funcionarios del Banco que la ordenen y para los funcionarios y empleados que la ejecuten.
 
 ### CAPITULO III. De la Reserva Monetaria
 
@@ -162,13 +170,9 @@ Las monedas de plata de dos pesos, creadas por Ley de 22 de septiembre de 1921, 
 
 Las demás monedas de plata y fraccionarias retiradas de la circulación, serán canjeadas por monedas de plata o fraccionarias, respectivamente, de los cuños que esta ley conserva, en los plazos y condiciones establecidos en los decretos correspondientes.
 
-> <small>(F. DE E., D.O.F. 28 DE JULIO DE 1931)</small>
-
 ###### ARTICULO 6°.
 
-Para el ejercicio de las funciones que al Banco de México confiere el artículo 10 de la Ley de 25 de agosto de 1925, así como para autorizar la emisión de billetes del propio Banco de México, en virtud de operaciones de redescuento, para administrar los fondos que constituyan la Reserva Monetaria, para determinar al momento de las reservas en efectivo que deban mantener los bancos e instituciones bancarias, en garantía de los depósitos a la vista o a plazo no mayor de treinta días vista, y para desempeñar las demás funciones que esta ley le confiere, se establece en el Banco de México una Junta Central Bancaria que estará formada por el Secretario de Hacienda, como Presidente, por un delegado que nombrará el Consejo de Administración del Banco de México y por cinco delegados que serán designados a mayoría de votos, por todas las instituciones bancarias del país.
-
-Provisionalmente, mientras es posible obtener la votación de todas las instituciones del país, los cinco delegados a que se refiere el párrafo anterior, serán nombrados a mayoría de votos por las instituciones bancarias domiciliadas en esta capital.
+(DEROGADO, D.O.F. 10 DE MARZO DE 1932)
 
 ###### ARTICULO 7°.
 
@@ -176,31 +180,27 @@ La obligación de pagar cualquier suma en moneda mexicana, se solventará entreg
 
 ###### ARTICULO 8°.
 
-Los fondos y valores que constituyan la Reserva Monetaria, en la parte en que se conserve en la República, serán guardados por el Banco de México en depósito, en cajas o bóvedas especiales, bajo el cuidado directo de la Junta Central Bancaria y con separación completa de las demás existencias, fondos y valores del Banco, quedando en todo caso afectos únicamente los fondos y valores de la Reserva que existan en poder del Banco de México, a las responsabilidades y obligaciones que la Junta Central Bancaria haya contraído en operaciones por cuenta de la Reserva.
+(DEROGADO, D.O.F. 10 DE MARZO DE 1932)
 
 ###### ARTICULO 9°.
 
-La Secretaría de Hacienda, a moción de la Junta Central Bancaria, determinará de tiempo en tiempo el monto de las reservas en efectivo que deberán constituir las instituciones bancarias de la República, en garantía de sus depósitos en moneda nacional a la vista o a plazo no mayor de treinta días vista.
-
-> <small>(F. DE E., D.O.F. 28 DE JULIO DE 1931)</small>
+(DEROGADO, D.O.F. 10 DE MARZO DE 1932)
 
 ###### ARTICULO 10.
 
-Las reservas a que se refiere el artículo anterior, serán conservadas en sus dos terceras partes en una caja común que designará la Junta Central Bancaria, y que estará bajo la estricta vigilancia directa de la misma, y, en una tercera parte, en poder y a disposición del banco o institución bancaria respectiva. Tratándose de Bancos Asociados al de México, el 10% de los depósitos a que se refiere el artículo 16 de la Ley de 25 de agosto de 1925, será conservado por el Banco de México; pero se computará en la dos terceras partes de las reservas que deberán mantenerse en la caja común. En la misma forma, se procederá respecto a la parte de los depósitos que deberán conservar en el Banco de México, de acuerdo con el artículo 2°. transitorio de la ley de esta misma fecha, que reforma la de 25 de agosto de 1925, los bancos que operen en el Régimen Transitorio de redescuento.
+(DEROGADO, D.O.F. 10 DE MARZO DE 1932)
 
 ###### ARTICULO 11.
 
-La emisión de billetes del Banco de México en virtud de redescuento, sólo podrá hacerse en los límites que acuerde la Junta Central Bancaria y a consecuencia de las operaciones de redescuento que sean aprobadas por la misma.
-
-Las reservas legales correspondientes a los billetes que el Banco de México emita, serán conservadas por éste bajo la vigilancia de la Junta Central Bancaria.
+(DEROGADO, D.O.F. 10 DE MARZO DE 1932)
 
 ###### ARTICULO 12.
 
-Respecto a las instituciones que operen fuera de la capital de la República, la Junta Central Bancaria determinará, según el caso, la forma en que la propia Junta desempeñará al respecto las funciones que esta ley le confiere y los términos en que las citadas instituciones cumplirán las obligaciones que de esta ley se derivan para ellas.
+(DEROGADO, D.O.F. 10 DE MARZO DE 1932)
 
 ###### ARTICULO 13.
 
-Desde la fecha de esta ley, el producto del impuesto de producción de metales y compuestos metálicos a que se refiere el inciso II del artículo 1°. de la Ley de 19 de diciembre de 1929, se aplicará, de acuerdo con la fracción f) del artículo 14 de esta ley, a la formación de la Reserva Monetaria. En consecuencia, el pago de dicho impuesto se efectuará mediante documentos especiales que la Tesorería de la Federación entregará al efecto en depósito al Banco de México y que las Oficinas del Banco proporcionarán a los causantes en la forma y términos que acuerde la Junta Central Bancaria.
+(DEROGADO, D.O.F. 10 DE MARZO DE 1932)
 
 > <small>(F. DE E., D.O.F. 28 DE JULIO DE 1931)</small>
 
@@ -226,6 +226,28 @@ México, D. F., a 25 de julio de 1931.- El Subsecretario de Gobernación, Encarg
 
 Al C....
 
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 10 DE MARZO DE 1932.
+
+###### ARTICULO PRIMERO.
+
+Se derogan los artículos 6°., 7°., 8°., 9°., 10, 11, 12 y 13, transitorios de la Ley de 25 de julio de 1931.
+
+###### ARTICULO SEGUNDO.
+
+Queda disuelta la Junta Central Bancaria, la cual devolverá a los Bancos el importe de las cantidades que éstos tengan depositadas en su poder de acuerdo con el artículo décimo, transitorio, de la Ley de 25 de julio de 1931 y entregará al Banco de México los libros y documentos de su contabilidad, así como los fondos que constituyan la Reserva Monetaria y las reservas legales de la emisión confiadas a su guarda o vigilancia.
+
+La funciones que, en cuanto a la autorización de la emisión de billetes por redescuento, atribuyó a la Junta Central Bancaria la Ley de 25 de julio de 1931, serán ejercitadas por los consejeros nombrados por los accionistas de la serie "B" del Banco de México. Las funciones de vigilancia que a la propia Junta Central Bancaria atribuyó la Ley de 25 de julio de 1931, sobre los fondos que integran la Reserva Monetaria y que deberá conservar el Banco de México en cajas o bóvedas especiales con separación completa de sus demás existencias, fondos o valores, así como las funciones de vigilancia sobre las reservas legales de la emisión, serán ejercitadas por la Comisión Nacional Bancaria, la cual practicará visitas siempre que lo estime conveniente y por lo menos una vez cada mes, para verificar la debida constitución y conservación de las reservas dichas, y publicará mensualmente, en el "Diario Oficial" y en dos de los diarios de mayor circulación de la capital de la República, el resultado de la verificación.
+
+> <small>(F. DE E., D.O.F. 14 DE ABRIL DE 1932)</small>
+
+###### ARTICULO TERCERO.
+
+Por esta sola vez, la Secretaría de Hacienda y Crédito Público ordenará la acuñación de monedas de plata de un peso del cuño legal, en la cantidad que sea estrictamente indispensable, a juicio del Consejo de Administración del Banco de México, para corregir la actual insuficiencia de signos de cambio. El producto líquido total de esta acuñación será enterado al Banco de México para que lo conserve y aplique al aumento de las reservas legales de la emisión de billetes y a la formación de la Reserva Monetaria en los mismos términos que previene el artículo segundo de esta ley para los fondos procedentes de las acuñaciones que el Banco de México llegue a ordenar.
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
 ###### ARTICULO 3°.
 
 Todas las obligaciones contraídas hasta la fecha de esta ley en moneda nacional de cualquier especie, se solventarán entregando monedas de los cuños que esta ley conserva, dentro de los límites respectivos de su poder liberatorio.
@@ -238,4 +260,4 @@ Las obligaciones de pago en moneda extranjera contraídas dentro de la Repúblic
 
 ###### ARTICULO 7°.
 
-Para la decisiones que deban dictarse en relación con las funciones que por esta ley se atribuyen a la Junta Central Bancaria, se requerirá, además del voto aprobatorio del Delegado del Banco de México, la mayoría de votos de los demás miembros de la Junta, pudiendo el Secretario de Hacienda y Crédito Público vetar las resoluciones que la Junta tome, cuando a su juicio dichas resoluciones puedan afectar el equilibrio económico de la República.
+(DEROGADO, D.O.F. 10 DE MARZO DE 1932)
