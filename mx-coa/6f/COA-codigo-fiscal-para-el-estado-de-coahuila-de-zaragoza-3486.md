@@ -4,7 +4,7 @@ identifier: "COA-codigo-fiscal-para-el-estado-de-coahuila-de-zaragoza-3486"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-10-19"
-last_updated: "2000-12-29"
+last_updated: "2004-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 CODIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
+> <small>N. DE E. EL PRESENTE CODIGO HA SIDO ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL NUEVO CODIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DEL 2 DE ENERO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 19 de octubre de 1990.
 
@@ -2006,5 +2008,23 @@ P.O. 29 DE DICIEMBRE DE 2000.
 El presente Decreto entrará en vigor el primero de enero de 2001.
 
 ###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE ENERO DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El presente Código entrará el (sic) vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Código Fiscal para el Estado de Coahuila contenido en el Decreto No. 217 publicado en el Periódico Oficial del Estado No. 84 de fecha 19 de octubre de 1990, a partir de la entrada en vigor del presente Código.
+
+###### ARTICULO TERCERO.
+
+Los asuntos que se encuentren en trámite con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones contenidas en el Código Fiscal que abroga el artículo Segundo Transitorio del presente Decreto.
+
+###### ARTICULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
