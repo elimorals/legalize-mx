@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2000-09-15"
+last_updated: "2001-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2001.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -89,11 +89,17 @@ Esta Ley, sus reformas y adiciones no necesitarán de promulgación del Gobernad
 
 El último sábado del mes de noviembre de cada año, el Congreso del Estado se instalará en sesión solemne, para recibir un informe por escrito sobre la situación que guarde la Administración Pública, que rendirá el Gobernador del Estado. El Presidente de la Legislatura contestará dicho informe en términos generales.
 
-Antes de la llegada del Gobernador del Estado al recinto del Congreso del Estado, hará uso de la voz un Diputado de cada grupo parlamentario, misma que no excederá de diez minutos.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
-Durante la presentación del informe no procederán intervenciones o interrupciones de los Diputados.
+Previamente al informe del Gobernador y ante su presencia, cuando así lo hubieren acordado por unanimidad los coordinadores de los grupos parlamentarios, hará uso de la voz un diputado de cada grupo, mismo que no excederá de diez minutos.
 
-El Congreso del Estado analizará el informe del Gobernador en el seno de sus Comisiones.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+Durante la presentación del informe del Gobernador y en las intervenciones de los grupos parlamentarios no procederán interrupciones de los diputados.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+El Congreso del Estado analizará el informe del Gobernador en el seno de las Comisiones y de así acordarlo el Pleno, remitirá al término de su primer período ordinario de sesiones, un documento con observaciones y comentarios.
 
 ###### ARTICULO 10.
 
@@ -273,9 +279,11 @@ VI.- Por concluir el término para el cual fueron elegidos.
 
 ### CAPITULO UNICO. DE LA INSTALACION DE LA CAMARA
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 33.
 
-Recibida la constancia de mayoría o de asignación proporcional, antes del día 30 de noviembre del año de la elección los Diputados electos deberán presentarse a la Oficialía Mayor del Congreso y registrarse en el libro que a ese efecto debe llevarse en la misma, asentándose la fecha de presentación, nombre y apellidos, distrito o circunscripción electoral, domicilio, acompañando además, copia de su constancia de mayoría o de asignación proporcional, y su currícula, entregándose al interesado por parte del Congreso la certificación respectiva y convocándolo a la junta previa prevista en el artículo siguiente.
+Recibida la constancia de mayoría o de asignación proporcional, antes del día 30 de noviembre del año de la elección los Diputados electos deberán presentarse a la Secretaría General del Congreso y registrarse en el libro que a ese efecto debe llevarse en la misma, asentándose la fecha de presentación, nombre y apellidos, distrito o circunscripción electoral, domicilio, acompañando además, copia de su constancia de mayoría o de asignación proporcional, y su currícula, entregándose al interesado por parte del Congreso la certificación respectiva y convocándolo a la junta previa prevista en el artículo siguiente.
 
 ###### ARTICULO 34.
 
@@ -283,7 +291,9 @@ El 30 de noviembre del año de la elección, a las diez horas, se llevará a cab
 
 El Presidente de la Mesa Directiva de la Cámara saliente, o de su Diputación Permanente, en esta reunión previa:
 
-A).- Dará a conocer el nombre de los Diputados que registraron su constancia de mayoría, o de asignación en su caso, ante la Oficialía Mayor, y con la que procederá a pasar lista de presente, dando a conocer el distrito electoral o circunscripción que representan;
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+A) Dará a conocer el nombre de los Diputados que registraron su constancia de mayoría, o de asignación en su caso, ante la Secretaría General, y con la que procederá a pasar lista de presente, dando a conocer el distrito electoral o circunscripción que representan;
 
 B).- Exhortará a los Diputados a integrarse a los Grupos Parlamentarios conforme a las prevenciones constitucionales y legales; y,
 
@@ -393,7 +403,9 @@ I.- Auxiliar al Presidente en el desempeño de sus funciones;
 
 II.- Comprobar al inicio de las sesiones la existencia del quórum;
 
-III.- Extender las actas sintetizadas de las sesiones, anotando en su contenido la parte medular de lo expuesto en las mismas, y firmadas por el Presidente después de ser aprobadas por la Cámara, pasarlas a la Oficialía Mayor para su archivo;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+III. Extender las actas sintetizadas de las sesiones, anotando en su contenido la parte medular de lo expuesto en las mismas, y firmadas por el Presidente después de ser aprobadas por la Cámara, pasarlas a la Secretaría General para su archivo;
 
 IV.- Firmar las Leyes, Decretos, Acuerdos y todas las Resoluciones que expida el Congreso, así como cualquier documentación de la Cámara;
 
@@ -485,21 +497,31 @@ I.- Dirigir y vigilar los servicios internos necesarios para el eficaz cumplimie
 
 II.- Proponer a la Cámara, en su caso, el programa legislativo a ejercer durante cada período de sesiones, jerarquizando las iniciativas de Ley o Decreto;
 
-III.- Proponer a la Cámara la designación del Oficial Mayor;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
-IV.- Coordinar y vigilar las funciones de la Oficialía Mayor;
+III.- Impulsar la profesionalización de los servicios de apoyo parlamentario a través del servicio civil de carrera y del Instituto de Investigaciones Parlamentarias, determinando las políticas generales para ello y proponiendo al pleno los proyectos de los reglamentos respectivos.
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+IV.- Conducir, coordinar, controlar y evaluar las funciones de la Secretaría General, y proponer a la Cámara la designación del Secretario General.
 
 V.- Coadyuvar en la realización de las funciones del Congreso;
 
 VI.- Acordar el nombramiento de los integrantes de las Comisiones Permanentes;
 
-VII.- Proveer a través de la Oficialía Mayor lo necesario para el trabajo de las Comisiones;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+VII.- Proveer a través de la Secretaría General lo necesario para el trabajo de las Comisiones;
 
 VIII.- Proponer el presupuesto anual del Congreso;
 
 IX.- Proponer en el Presupuesto del Congreso, el monto de las dietas para los ciudadanos Diputados en los términos de la Constitución Política del Estado; y,
 
-X.- Las demás que le confiere esta Ley o acuerde la Cámara.
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+X.- Presentar al Pleno durante el mes de enero informe anual sobre el ejercicio presupuestal, excepto en el tercer año de ejercicio constitucional que lo hará durante el mes de noviembre ante el Pleno o la Diputación Permanente; y
+
+XI.- Las demás que le confiere esta Ley o acuerde la Cámara.
 
 ###### ARTICULO 59.
 
@@ -575,7 +597,9 @@ I.- De Puntos Constitucionales y Gobernación;
 
 II.- De Hacienda Pública y Tesorería;
 
-III.- De Desarrollo Social;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+III.- De Planeación y Desarrollo;
 
 IV.- De Administración;
 
@@ -583,7 +607,9 @@ V.- De Educación Pública y Cultura;
 
 VI.- De Ecología;
 
-VII.- De Desarrollo Agropecuario y Promoción Económica;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+VII.- De Desarrollo Económico;
 
 VIII.- De Comunicaciones y Obras Públicas;
 
@@ -605,15 +631,37 @@ XVI.- De Turismo;
 
 XVII.- De Pesca;
 
-XVIII.- De Biblioteca, Cultura Parlamentaria y Asuntos Editoriales;
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
-XIX.- De Equidad, Género y Familia;
+XVIII.- De Asuntos Agropecuarios;
 
-XX.- De Protocolo y Régimen Orgánico Interior;
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
-XXI.- De Honor y Justicia; e
+XIX.- De Protección Civil;
 
-XXII.- Instructora.
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+XX.- De Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+XXI.- De Biblioteca, Cultura Parlamentaria y Asuntos Editoriales;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+XXII.- De Equidad, Género y Familia;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+XXIII.- De Protocolo y Régimen Orgánico Interior;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+XXIV.- De Honor y Justicia; e
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+XXV.- Instructora.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
@@ -678,6 +726,10 @@ Las Comisiones se compondrán:
 Las Permanentes con cinco Diputados y las especiales con tres mínimo y máximo cinco Diputados.
 
 En ningún caso un Diputado podrá formar parte de más de tres Comisiones Permanentes.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+Las Comisiones de Glosa, de Hacienda y de Puntos Constitucionales y Gobernación, para el desempeño de sus funciones, contarán con espacios adecuados y con los recursos humanos y materiales suficientes para el desarrollo profesional y eficiente de sus labores.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
@@ -851,31 +903,45 @@ La Diputación Permanente cesará en sus funciones inmediatamente que el Congres
 
 En todo lo demás que no esté previsto en los artículos anteriores, la Diputación Permanente se sujetará, a lo que esta Ley dispone respecto de la Cámara.
 
-### CAPITULO VIII. DE LA ADMINISTRACION DEL CONGRESO
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
-#### SECCION PRIMERA. DE LAS SESIONES
+### CAPÍTULO VIII. DE LA ORGANIZACIÓN TÉCNICA Y ADMINISTRATIVA DEL CONGRESO DEL ESTADO
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA GENERAL
 
 ### CAPITULO IX. DE LA CONTADURIA MAYOR DE HACIENDA
 
 ### CAPITULO I. DE LOS PERIODOS DE SESIONES
 
-#### SECCION SEGUNDA. DEL CEREMONIAL
+#### SECCIÓN SEGUNDA. DEL INSTITUTO DE INVESTIGACIONES PARLAMENTARIAS
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 93.
 
 El Congreso del Estado, para su debido funcionamiento y en el cumplimiento de sus atribuciones, deberá contar con la estructura administrativa que se establece en la presente Ley.
 
-###### ARTICULO 94.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
-La administración del Congreso se ejercerá a través de una Oficialía Mayor y su titular se denominará Oficial Mayor.
+###### ARTÍCULO 94.
 
-###### ARTICULO 95.
+Para la organización y el debido apoyo al cumplimiento de las funciones legislativas y la atención correspondiente a sus necesidades administrativas el Congreso contará con una Secretaría General y su titular se denominará Secretario General.
 
-La Oficialía Mayor del Congreso del Estado contará con los recursos humanos y materiales que requiera para el debido desempeño de sus funciones.
+La Secretaría General es la dependencia del Poder Legislativo cuya función es coadyuvar con la Legislatura a efecto de que ésta ejerza las facultades que le corresponden, conforme a la Ley.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTÍCULO 95.
+
+La Secretaría General del Congreso, para el debido desarrollo de sus funciones, contará con los recursos humanos y materiales que se establezcan en el presupuesto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 96.
 
-Son atribuciones del Oficial Mayor:
+Son atribuciones del Secretario General del Congreso:
 
 I.- Formular y dirigir los planes y programas administrativos del Congreso;
 
@@ -883,57 +949,123 @@ II.- Formular y preparar la documentación que requiere el Congreso para su func
 
 III.- Proveer lo conducente para el apoyo al trabajo parlamentario y la vinculación social del Congreso con su comunidad;
 
-IV.- Dar cumplimiento en el ámbito administrativo a los Acuerdos y Resoluciones tomados por el Pleno, la Gran Comisión, la Mesa Directiva y las Comisiones;
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
-V.- Llevar a cabo los trámites de carácter meramente administrativo relacionados con el proceso legislativo de las iniciativas y proyectos presentados al Pleno;
+IV.- Supervisar y vigilar que se cumplan las políticas que se establezcan para la investigación legislativa y el servicio civil de carrera;
 
-VI.- Llevar los libros, registros y demás documentos establecidos para el control y seguimiento de los asuntos del Congreso;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
-VII.- Tramitar ante las instancias correspondientes, todo lo relativo a los recursos del Congreso;
+V.- Dar cumplimiento en el ámbito administrativo a los Acuerdos y Resoluciones tomados por el Pleno, la Gran Comisión, la Mesa Directiva y las Comisiones;
 
-VIII.- Extender las actas de sesiones públicas ordinarias y extraordinarias presentándolas a los Secretarios para su revisión antes de darse cuenta de ellas a la Cámara;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
-IX.- Elaborar y publicar el Diario de los Debates del Congreso;
+VI.- Llevar a cabo los trámites de carácter meramente administrativo relacionados con el proceso legislativo de las iniciativas, proyectos y dictámenes presentados al Pleno y a las Comisiones;
 
-X.- Extender y certificar, la documentación correspondiente;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
-XI.- Resolver asuntos de mero trámite;
+VII.- Llevar los libros, registros y demás documentos establecidos para el control y seguimiento de los asuntos del Congreso;
 
-XII.- Coordinar el trabajo de sus dependencias;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
-XIII.- Supervisar las actividades laborales del personal del Congreso;
+VIII.- Tramitar ante las instancias correspondientes, todo lo relativo a los recursos del Congreso;
 
-XIV.- Procurar la conservación y mantenimiento de las instalaciones del Congreso; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
-XV.- Las demás acordadas por la Asamblea, o que prescriba esta Ley.
+IX.- Extender las actas de sesiones públicas ordinarias y extraordinarias presentándolas a los Secretarios para su revisión antes de darse cuenta de ellas a la Cámara;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+X.- Elaborar y publicar el Diario de los Debates del Congreso, así como sus órganos de difusión;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+XI.- Extender y certificar, la documentación correspondiente, que obre en los archivos del Congreso;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+XII.- Resolver asuntos de mero trámite relacionados con las actividades de la Cámara;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+XIII.- Coordinar el trabajo de sus dependencias y las del Instituto de Investigaciones Parlamentarias;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+XIV.- Supervisar las actividades laborales del personal del Congreso;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+XV.- Procurar la conservación y mantenimiento de las instalaciones del Congreso; y
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+XVI.- Las demás acordadas por la Asamblea, o que prescriba esta Ley.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 97.
 
-De la Oficialía Mayor dependerán un Oficial Primero y las Direcciones de Asuntos Jurídicos y Proceso Legislativo, de Gestión y Vinculación Social y de Investigación Legislativa y los demás Departamentos que sean necesarios para el debido cumplimiento de sus atribuciones.
+Para profesionalizar y hacer más eficientes los servicios de apoyo parlamentario y administrativo se instituye el servicio civil de carrera, regido por los principios de legalidad, imparcialidad, objetividad, especialización, honradez, lealtad y eficiencia. El reglamento establecerá y desarrollará las bases para la permanencia, promoción, estímulos, capacitación y actualización del personal.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 98.
 
-El nombramiento del Oficial Mayor y demás servidores públicos directivos del Congreso será hecho por la Cámara o la Diputación Permanente, en su caso, a propuesta de la Gran Comisión.
+De la Secretaría General del Congreso dependerán las Direcciones Administrativa, de Asuntos Jurídicos y Proceso Legislativo, de Gestión y Vinculación Social y las demás unidades y Departamentos que sean necesarios para el debido cumplimiento de sus atribuciones.
+
+El nombramiento del Secretario General y demás servidores públicos directivos del Congreso será hecho por la Cámara o la Diputación Permanente, en su caso, a propuesta de la Gran Comisión, atendiendo las bases del servicio civil de carrera.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 99.
 
-Los empleados del Congreso concurrirán de lunes a viernes a la oficina, a las nueve de la mañana, permaneciendo en ella hasta las quince horas, sin perjuicio de continuar sus labores a cualquier hora del día, cuando así lo dispusiere el Oficial Mayor, con las facultades que le otorga esta Ley.
+Los Servidores Públicos del Congreso concurrirán de lunes a viernes a la oficina, a las nueve de la mañana, permaneciendo en ella al menos hasta las quince horas, sin perjuicio de continuar sus labores a cualquier hora del día, cuando así lo dispusiere el Secretario General del Congreso, con las facultades que le otorga esta Ley.
+
+Todo el personal de la administración guardará durante las horas de trabajo la mayor compostura y subordinación. Cuando algún servidor violare las anteriores prevenciones, podrá el Secretario General del Congreso, con su carácter de jefe inmediato, llamarle la atención, y si reincidiere, dará cuenta a quien corresponda para los efectos a que haya lugar.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 100.
 
-Todo el personal de la administración guardará durante las horas del trabajo la mayor compostura y subordinación. Cuando algún empleado violare las anteriores prevenciones, podrá el Oficial Mayor, con su carácter de jefe inmediato llamarle la atención, y si reincidiere, dará cuenta a quien corresponda para los efectos a que haya lugar.
+Para el mejor desempeño del Congreso todos los servidores públicos de éste, están obligados a prestar sus servicios indistintamente en las labores del Congreso conforme se requieran éstas, a juicio del Secretario General del Congreso. El personal de seguridad, los secretarios técnicos, los técnicos en sistemas, las secretarias y asistentes parlamentarios, así como todos los que desarrollen funciones de supervisión, serán personal de confianza.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 101.
 
-Todos los empleados están obligados a prestar sus servicios indistintamente en las labores de la Oficialía Mayor conforme lo requieren éstas para su mejor expedición a juicio del Oficial Mayor. El personal de seguridad, las secretarias y asistentes parlamentarios serán personal de confianza.
+En todos los casos no previstos en este capítulo el Secretario General del Congreso, como jefe inmediato administrativo, ordenará lo que fuere más conveniente al buen despacho de la oficina, sujeto a los lineamientos y directrices definidas por la Gran Comisión.
 
-#### SECCION TERCERA. DE LAS INICIATIVAS
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+#### SECCION PRIMERA. DE LAS SESIONES
 
 ###### ARTICULO 102.
 
-En todos los casos no previstos en este capítulo el Oficial Mayor, como jefe inmediato administrativo, ordenará lo que fuere más conveniente al buen despacho de la oficina.
+El Congreso del Estado contará con un Instituto de Investigaciones Parlamentarias, como órgano técnico-académico, de apoyo jurídico, legislativo, de investigación y análisis, cuyas funciones principales serán:
 
-#### SECCION CUARTA. DE LOS DICTAMENES
+I.- Realizar, promover y difundir investigaciones vinculadas con los temas relevantes del quehacer parlamentario;
+
+II.- Proporcionar asesoría a las Comisiones Legislativas para apoyar sus dictámenes, las decisiones del Congreso, de la Diputación Permanente, de la Gran Comisión, de los Diputados, de la Secretaría General del Congreso y de la Contaduría Mayor de Hacienda;
+
+III.- Investigar los antecedentes históricos del Poder Legislativo, así como de las leyes, códigos, decretos y acuerdos vigentes en la entidad;
+
+IV.- Efectuar estudios comparativos de la legislación del Estado con la legislación federal y la que rige en otras entidades federativas;
+
+V.- Recabar, compilar y analizar información básica acerca de los municipios de la Entidad y la que corresponda al Estado en general;
+
+VI.- Apoyar a los diputados en la elaboración de iniciativas, dictámenes, acuerdos, y demás disposiciones legales, así como en la redacción de ponencias, artículos y otros trabajos;
+
+VII.- Proponer directrices y líneas de investigación, difusión, conservación de documentos, de intercambio bibliográfico y de experiencia en investigación parlamentaria con otros institutos o centros similares;
+
+VIII.- Auxiliarse de la Biblioteca del Congreso del Estado, para obtener la información y datos estadísticos que le sean necesarios en sus actividades de investigación;
+
+IX.- Organizar la impartición de cursos en técnica legislativa y Derecho Parlamentario, así como seminarios, congresos, coloquios, conferencias, y mesas redondas, relacionados con el trabajo parlamentario; y
+
+X.- Las demás que le asigne la Gran Comisión, la Secretaría General o el Congreso le confiera.
+
+Al frente del Instituto habrá un Director y contará con las unidades y Departamentos que fije su Reglamento Interior conforme al cual se desarrollarán sus funciones.
+
+#### SECCION SEGUNDA. DEL CEREMONIAL
 
 ### CAPITULO II. DEL PROCESO LEGISLATIVO
 
@@ -993,9 +1125,17 @@ Para el caso de la apertura y clausura de sus períodos extraordinarios de sesio
 
 "El Congreso del Estado de Sinaloa (abre-clausura) hoy (fecha) el (número) Período Extraordinario de Sesiones".
 
-### CAPITULO IV. DE LA CONSULTA POPULAR
+### CAPÍTULO III BIS. DE LA DIFUSIÓN DEL TRABAJO PARLAMENTARIO
 
-#### SECCION QUINTA. DE LAS DISCUSIONES
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+ARTICULO 225 BIS.- El Congreso del Estado contará con un canal televisivo para la permanente difusión de sus sesiones públicas, así como de todas aquellas actividades que contribuyan al desarrollo y fortalecimiento de la cultura parlamentaria y democrática de los sinaloenses.
+
+El Canal Legislativo estará a cargo de la Comisión de Biblioteca, Cultura Parlamentaria y Asuntos Editoriales, la cual será responsable de todo lo relativo a su funcionamiento y estará apoyada por la Dirección de Gestión y Vinculación Social.
+
+En tanto no se establezca previsión presupuestal para la creación de un Canal Televisivo exclusivo del Poder Legislativo del Estado, la Comisión de Biblioteca, Cultura Parlamentaria y Asuntos Editoriales, con apoyo de la Dirección de Gestión y Vinculación Social celebrarán convenios de colaboración con las diversas repetidoras o canales de naturaleza cultural y académica que se proyectan en el Estado, a través de los sistemas ordinario o de cable local, con el fin de posibilitar la inmediata transmisión en vivo o diferido de las sesiones y trabajos de esta Soberanía.
+
+#### SECCION TERCERA. DE LAS INICIATIVAS
 
 ###### ARTICULO 111.
 
@@ -1065,7 +1205,7 @@ Concluido el período de sesiones, los Diputados, con excepción de los que form
 
 Los titulares de las dependencias administrativas del Ejecutivo, asistirán a las sesiones de acuerdo a lo preceptuado por la Constitución, siempre que fueren enviados por el Gobernador o llamados por acuerdo de la Cámara para asistir a alguna discusión para que informen, cuando se discuta una Ley o Decreto o se estudie un negocio concerniente a sus respectivos ramos o actividades. Esta disposición se aplicará asimismo a los representantes del Supremo Tribunal de Justicia del Estado y de los Ayuntamientos.
 
-#### SECCION SEXTA. DE LAS VOTACIONES
+#### SECCION CUARTA. DE LOS DICTAMENES
 
 ###### ARTICULO 124.
 
@@ -1109,9 +1249,9 @@ Es facultad del Congreso celebrar dentro o fuera del recinto oficial reuniones d
 
 Al término de la sesión de clausura del período ordinario de sesiones, el Presidente del Congreso nombrará una Comisión de Diputados para que participen al Gobernador del Estado y al Presidente del Supremo Tribunal de Justicia la clausura.
 
-#### SECCION SEPTIMA. DE LAS OBSERVACIONES DEL EJECUTIVO
+#### SECCION QUINTA. DE LAS DISCUSIONES
 
-#### SECCION OCTAVA. DE LAS DISPENSAS DE TRÁMITE
+#### SECCION SEXTA. DE LAS VOTACIONES
 
 ###### ARTICULO 134.
 
@@ -1155,13 +1295,13 @@ Es iniciativa de Decreto aquella que tiende a una resolución que otorgue derech
 
 Es iniciativa de Acuerdo aquella que tiende a una resolución que por su naturaleza no requiera para su validez de la sanción, promulgación y publicación.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 1998)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 141.
 
-Cuando se presente ante el Congreso una iniciativa, primeramente, deberá pasar a la Presidencia de la Comisión de Protocolo y Régimen Orgánico Interior para que determine si cumple con los requisitos de ley y pueda ser registrada a efectos de ser turnada a su lectura correspondiente. El Presidente de la citada Comisión, deberá entregar una copia, de las iniciativas que se reciban para determinación, a cada uno de sus integrantes para su conocimiento.
+Cuando se presente ante el Congreso una iniciativa, primeramente, deberá pasar a la Comisión de Protocolo y Régimen Orgánico Interior para que determine si cumple con los requisitos de ley y pueda ser registrada a efectos de ser turnada a su lectura correspondiente.
 
-El Presidente de la Comisión de Protocolo y Régimen Orgánico Interior, comunicará al Presidente de la Mesa Directiva en turno, las iniciativas que se encuentren pendientes.
+La Comisión de Protocolo y Régimen Orgánico Interior deberá informar por escrito, mensualmente, al Congreso del Estado de las iniciativas recibidas, para su debido conocimiento.
 
 ###### ARTICULO 142.
 
@@ -1203,7 +1343,11 @@ Las iniciativas de Ley que presente la Legislatura del Estado ante el Congreso d
 
 Para el caso de las iniciativas que quedaren pendientes de resolución de una Legislatura a otra, el iniciador deberá ratificarlas ante la nueva Legislatura durante su primer período ordinario de sesiones.
 
-#### SECCION NOVENA. DE LA EXPEDICIÓN DE LAS LEYES
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+Toda iniciativa deberá ser dictaminada por la Comisión o las Comisiones respectivas, dentro de un plazo máximo de seis meses, contados a partir del día siguiente en que fueren turnadas a la Comisión o Comisiones correspondientes, con excepción del caso de iniciativas de Ley que propongan nuevos cuerpos normativos.
+
+#### SECCION SEPTIMA. DE LAS OBSERVACIONES DEL EJECUTIVO
 
 ###### ARTICULO 148.
 
@@ -1282,6 +1426,8 @@ Los dictámenes que las Comisiones emitan sobre asuntos que no llegue a conocer 
 Si debe ser reformado un dictamen, la Comisión encargada de hacerlo, lo presentará con las reformas dentro de los cinco días siguientes a la fecha en que lo recibió.
 
 Las iniciativas dictaminadas y no aprobadas no podrán volver a presentarse en el mismo período ordinario de sesiones.
+
+#### SECCION OCTAVA. DE LAS DISPENSAS DE TRÁMITE
 
 ###### ARTICULO 163.
 
@@ -1433,6 +1579,8 @@ Al empezar la discusión, podrán los Representantes del Ejecutivo informar a la
 
 Los Diputados, cuando aporten algún escrito como anexo a su intervención, pueden solicitar que se transcriba en el acta, siempre que entreguen dicho escrito a la Secretaría.
 
+#### SECCION NOVENA. DE LA EXPEDICIÓN DE LAS LEYES
+
 ###### ARTICULO 192.
 
 Habrá tres clases de votaciones: nominal, económica y por cédula.
@@ -1579,7 +1727,7 @@ Las Leyes no comprenderán más que un sólo objeto que se expresará siempre en
 
 Toda Ley o Decreto será expedido bajo la firma del Presidente y Secretarios del Congreso, en la siguiente forma: "El Congreso del Estado Libre y Soberano de Sinaloa, representado por su (número de orden) Legislatura, ha tenido a bien expedir la (o el) siguiente Ley (o Decreto); (número) o nombre oficial de la Ley o Decreto". Seguirá el texto y al final dirá: " Es dado en el Palacio del Poder Legislativo del Estado en Culiacán Rosales, Sinaloa a los.... días del mes de......de....."
 
-### CAPITULO V. DE LAS REFORMAS A LA CONSTITUCION
+### CAPITULO IV. DE LA CONSULTA POPULAR
 
 ###### ARTICULO 220.
 
@@ -1604,6 +1752,10 @@ Si las disposiciones ordenadas por el Presidente no bastaren para contener el de
 ###### ARTICULO 225.
 
 Cuando el Congreso o su Presidente lo consideren conveniente, ordenarán que se sitúe policía o fuerza armada en el edificio del mismo, disponiendo la autoridad que la proporcione que se ponga a las órdenes del Presidente del Congreso.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+### CAPITULO V. DE LAS REFORMAS A LA CONSTITUCION
 
 ### CAPITULO UNICO. DE LA ORGANIZACION DEL JURADO Y
 
@@ -1808,3 +1960,17 @@ P.O. 15 DE SEPTIEMBRE DE 2000.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 30 DE NOVIEMBRE DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Reglamento del Instituto de Investigaciones Parlamentarias se deberá expedir en un plazo de ciento ochenta días a partir de la publicación del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Reglamento para el Servicio Civil de Carrera del H. Congreso del Estado se deberá expedir en un plazo de ciento ochenta días a partir de la publicación del presente decreto.
