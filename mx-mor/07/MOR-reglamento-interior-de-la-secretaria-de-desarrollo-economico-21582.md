@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-desarrollo-economico-21
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-14"
-last_updated: "2001-03-14"
+last_updated: "2003-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21582&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO, PUBLICADO EN EL P.O. DE 30 DE ABRIL DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial "Tierra y Libertad", el 14 de marzo de 2001.
 
@@ -117,7 +119,7 @@ b) La creación, modificación o supresión de órganos desconcentrados de la de
 
 VIII.- Acordar los nombramientos de los titulares de las unidades administrativas y órganos desconcentrados de la dependencia a su cargo,
 
-IX.- .- Autorizar los manuales de organización, y los manuales de políticas y procedimientos de la Dependencia;
+IX.- Autorizar los manuales de organización, y los manuales de políticas y procedimientos de la Dependencia;
 
 X.- Suscribir previo acuerdo del Titular del Ejecutivo, los convenios que celebre el Gobierno Estatal con la Federación, los Municipios y otras instituciones públicas o privadas en materia de su competencia;
 
@@ -131,7 +133,7 @@ XIII.- Las demás que determinen las disposiciones legales aplicables.
 
 ###### Artículo 6.
 
-Al frente de cada Subsecretaría habrá un titular , quien para la mejor distribución y desarrollo de las actividades que le correspondan podrá, sin perjuicio de su ejercicio directo, delegar sus atribuciones en los servidores públicos subalternos.
+Al frente de cada Subsecretaría habrá un titular, quien para la mejor distribución y desarrollo de las actividades que le correspondan podrá, sin perjuicio de su ejercicio directo, delegar sus atribuciones en los servidores públicos subalternos.
 
 ###### Artículo 7.
 
@@ -179,13 +181,13 @@ II.- Coordinar las actividades de promoción y difusión de las medidas de desre
 
 III.- Concertar las actividades de promoción entre los sectores públicos y privados que impulsen la creación y reactivación de infraestructura de parques, corredores y ciudades Industriales, así como la dotación de servicios básicos y complementarios;
 
-IV.- Promover la infraestructura propiedad del Gobierno del Estado en el desarrollo de actividades sobre la Industria social ;
+IV.- Promover la infraestructura propiedad del Gobierno del Estado en el desarrollo de actividades sobre la Industria social;
 
 V.- Conducir las actividades relacionadas con la vinculación productiva para el desarrollo económico, además de apoyos y de capacitación de enlace tecnológico;
 
 VI.- Dirigir y autorizar los programas de fomento y de promoción de las actividades secundarias y terciarias, la vinculación científica y tecnológica, así como la capacitación y desarrollo empresarial;
 
-VII.- Coordinar los procesos de interlocución , con los agentes económicos y promover una mayor vinculación de los centro de educación superior de acuerdo a las necesidades de modernización de las empresas;
+VII.- Coordinar los procesos de interlocución, con los agentes económicos y promover una mayor vinculación de los centro de educación superior de acuerdo a las necesidades de modernización de las empresas;
 
 VIII.- Diseñar la promoción de congresos, foros académicos y otros eventos de difusión y análisis que apoyan el desarrollo económico regional;
 
@@ -371,7 +373,7 @@ La Dirección General de Desarrollo Empresarial tendrá las siguientes atribucio
 
 I.- Ejercer las acciones que se deriven de convenios suscritos con la Federación, otras entidades federativas, municipios e iniciativa privada en materia de vinculación, capacitación, ahorro y uso eficiente de energía y comercio exterior;
 
-II.- Integrar , promover y difundir los programas en materia de capacitación al sector productivo de la entidad;
+II.- Integrar, promover y difundir los programas en materia de capacitación al sector productivo de la entidad;
 
 III.- Elaborar un documento con la oferta de capacitación en Morelos,
 
@@ -391,7 +393,7 @@ X.- Brindar asesoría en materia de comercio exterior a través de la Ventanilla
 
 XI.- Elaborar y mantener actualizada una base de datos de las empresas que realizan un actividad exportadora para conformar el Catálogo de Empresas Exportadoras;
 
-XII.- Organizar, coordinar y participar en las reuniones de trabajo y logística de los eventos de entrega de premios , reconocimientos en materia de capacitación , uso de energía , calidad y comercio exterior, y
+XII.- Organizar, coordinar y participar en las reuniones de trabajo y logística de los eventos de entrega de premios, reconocimientos en materia de capacitación, uso de energía, calidad y comercio exterior, y
 
 XIII.- Las demás que determinen las disposiciones legales aplicables;
 
@@ -417,7 +419,7 @@ La Dirección General de Cinematografía y Televisión, tendrá las siguientes a
 
 I.- Promover la filmación de producciones audiovisuales, nacionales y extranjeras dentro del Estado;
 
-II.- Supervisar el apoyo a las compañías productoras que filmen en la Entidad , proporcionándoles la información y servicios requeridos;
+II.- Supervisar el apoyo a las compañías productoras que filmen en la Entidad, proporcionándoles la información y servicios requeridos;
 
 III.- Diseñar la integración de un banco de imágenes congruente, así como material proporcional actualizado que muestre las diferentes locaciones con que cuenta la entidad;
 
@@ -515,7 +517,7 @@ XV.- Las demás que determinen las disposiciones legales aplicables.
 
 La Dirección General de Promoción Turística tendrá las siguientes atribuciones:
 
-I.- Definir, los criterios , lineamientos, políticas y estrategias generales de acción en materia de promoción turística del Estado;
+I.- Definir, los criterios, lineamientos, políticas y estrategias generales de acción en materia de promoción turística del Estado;
 
 II.- Organizar y coordinar los esfuerzos de las unidades administrativas que le correspondan según las líneas de acción a seguir;
 
@@ -557,7 +559,7 @@ IX.- Participara en la elaboración, instrumentación, ejecución, seguimiento y
 
 X.- Supervisar y gestionar la autorización de fondos revolventes de las unidades administrativas, adscritas a esta Secretario;
 
-XI,.- Gestionar y dar seguimiento a las adquisiciones por concepto de mantenimiento de vehículos y equipo que requieran las dependencias adscritas a esta secretaria;
+XI.- Gestionar y dar seguimiento a las adquisiciones por concepto de mantenimiento de vehículos y equipo que requieran las dependencias adscritas a esta secretaria;
 
 XII.- Coordinar los curso de capacitación que le correspondan;
 
@@ -642,3 +644,23 @@ SECRETARIO DE DESARROLLO ECONÓMICO
 C.P. ALFONSO PEDROZA UGARTE
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE ABRIL DE 20013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Comunicación Oficial del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento Interior de la Secretaría de Desarrollo Económico abroga el anterior, publicado en el Periódico Oficial "Tierra y Libertad" número 4107 de fecha 14 de marzo de 2001.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones administrativas que se opongan al presente reglamento.
+
+###### ARTÍCULO CUARTO.
+
+En tanto expidan los manuales a que se refiere este reglamento, el Secretario queda facultado para resolver las cuestiones de procedimiento y operación que originen por la aplicación de este ordenamiento legal.
