@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "2004-08-20"
+last_updated: "2004-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -275,7 +275,7 @@ Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o fal
 
 ###### Artículo 41.
 
-Los formatos del Registro Civil serán distribuido por la Dirección del Registro Civil, el original se conservará encuadernado en un volumen en la Oficialía y se entregarán las copias de la siguiente manera:
+Los formatos del Registro Civil serán distribuidos por la Dirección del Registro Civil, el original se conservará encuadernado en un volumen en la Oficialía y se entregarán las copias de la siguiente manera:
 
 a) Una al interesado;
 
@@ -427,7 +427,7 @@ Los apellidos corresponderán por su orden, el primero del padre y el primero de
 
 ###### Artículo 60.
 
-Para que se haga constar en el acta de nacimiento el nombre del padre de un hijo nacido fuera de matrimonio, es necesario que aquél lo pida por sí o por apoderado especial constituído en la forma establecida en el artículo 44, haciéndose constar en todo caso la petición.
+Para que se haga constar en el acta de nacimiento el nombre del padre de un hijo nacido fuera de matrimonio, es necesario que aquél lo pida por sí o por apoderado especial constituido en la forma establecida en el artículo 44, haciéndose constar en todo caso la petición.
 
 La madre no tiene derecho de dejar de reconocer a su hijo. Tiene obligación de que su nombre figure en el acta de nacimiento de su hijo. En caso de que al hacerse la presentación no se dé el nombre de la madre, la investigación de la maternidad podrá hacerse ante los Tribunales de acuerdo con las disposiciones relativas de este Código.
 
@@ -1083,7 +1083,9 @@ VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre 
 
 VIII.- La embriaguez habitual, la morfinomanía, la eteromanía y el uso indebido y persistente de las demás drogas enervantes. La impotencia incurable para la cópula; la sífilis, la locura y las enfermedades crónicas e incurables, que sean, además, contagiosas o hereditarias;
 
-IX.- El idiotismo y la imbecilidad;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2004)</small>
+
+IX.- Tener alguno de los padecimientos señalados en la fracción II del artículo 451; y
 
 X.- El matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer.
 
@@ -2119,9 +2121,11 @@ Las cuestiones relativas a la paternidad del hijo nacido después de trescientos
 
 En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su acción dentro de sesenta días, contados desde el nacimiento, si está presente; desde el día en que llegó al lugar, si estuvo ausente; o desde el día que descubrió el fraude, si se le ocultó el nacimiento.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 332.
 
-Si el marido está bajo tutela por causa de demencia, imbecilidad u otro motivo que lo prive de inteligencia, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
+Si el marido está bajo tutela por alguna de las causas referidas en la fracción II del artículo 451, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
 
 ###### Artículo 333.
 
@@ -2935,11 +2939,13 @@ Tienen incapacidad natural y legal:
 
 I.- Los menores de edad;
 
-II.- Los mayores de edad privados de inteligencia por locura, idiotismo o imbecilidad, aún cuando tengan intervalos lúcidos;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2004)</small>
 
-III.- Los sordo-mudos que no saben leer ni escribir;
+II. Los que siendo mayores de edad, sufren enfermedad reversible o irreversible, o presentan estado de discapacidad, sea físco (sic), sensorial, intelectual, emocional, mental o varias de ellas a la vez, no pueden gobernarse, obligarse o manifestar su voluntad, por sí mismos o por otro medio que la supla.
 
-IV.- Los ebrios consuetudinarios y los que habitualmente hacen uso inmoderado de drogas enervantes.
+III.- (DEROGADA, P.O. 30 DE AGOSTO DE 2004)
+
+IV.- (DEROGADA, P.O. 30 DE AGOSTO DE 2004)
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 1970)</small>
 
@@ -2997,9 +3003,11 @@ Ninguna tutela puede conferirse sin que previamente se declare en los términos 
 
 Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 465.
 
-El menor de edad que fuere demente, idiota, imbécil, sordo-mudo, ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llegue a la mayor edad.
+La persona menor de edad que se encuentre en cualquiera de los casos de la fracción II del artículo 451, estará sujeta a la tutela aplicable a los menores de edad, mientras no llegue a la mayoría de edad.
 
 Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
 
@@ -3007,11 +3015,11 @@ Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva
 
 Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley, y no habiéndolo, se les proveerá de tutor.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 467.
 
-El cargo de tutor del demente, idiota, imbécil, sordo-mudo, ebrio consuetudinario y de los que habitualmente abusan de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los ascendientes o por los descendientes. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge.
-
-Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
+El cargo de tutor para las personas referidas en la fracción II del artículo 451, durará el tiempo que subsista la interdicción cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge tendrá obligación de desempeñar ese cargo mientras tiene tal calidad de consorte. Los extraños que desempeñen la tutela de que se trata tienen derecho a que se les releve de ella a los diez años de ejercerla. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
 
 ###### Artículo 468.
 
@@ -3039,7 +3047,7 @@ El nombramiento de tutor testamentario hecho en los términos del artículo ante
 
 ###### Artículo 473.
 
-Si los ascendientes excluídos estuvieren incapacitados o ausentes, la tutela cesará cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
+Si los ascendientes excluidos estuvieren incapacitados o ausentes, la tutela cesará cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
 
 ###### Artículo 474.
 
@@ -3081,7 +3089,7 @@ El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testam
 
 ### CAPITULO IV.
 
-De la Tutela Legítima de los Dementes, Idiotas, Imbéciles, Sordo-mudos, Ebrios y de los que Habitualmente Abusan de las Drogas Enervantes.
+De la Tutela Legítima de los Mayores de Edad Incapacitados.
 
 ###### Artículo 483.
 
@@ -3106,6 +3114,8 @@ Si hubiere varios parientes del mismo grado, el Juez elegirá entre ellos al que
 ###### Artículo 486.
 
 La falta temporal del tutor legítimo, se suplirá en los términos establecidos en los dos artículos anteriores.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE AGOSTO DE 2004)</small>
 
 ### CAPITULO V.
 
@@ -3269,13 +3279,15 @@ V.- El tutor que se encuentre en el caso previsto en el artículo 159;
 
 VI.- El tutor que permanezca ausente por más de seis meses, del lugar en que debe desempeñar la tutela.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 506.
 
-No pueden ser tutores ni curadores del demente los que hayan sido causa de la demencia, ni los que la hayan fomentado directa o indirectamente.
+No pueden ser tutores ni curadores de las personas comprendidas en la fracción II del artículo 451, quienes hayan sido causa o fomentado directa o indirectamente tales enfermedades o padecimientos.
 
 ###### Artículo 507.
 
-Lo dispuesto en el artículo anterior se aplicará, en cuanto fuere posible, a la tutela de los idiotas, imbéciles, sordo-mudos, ebrios consuetudinarios y de los que abusen habitualmente de las drogas enervantes.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2004)
 
 ###### Artículo 508.
 
@@ -3327,7 +3339,7 @@ Si el que teniendo excusa legítima para ser tutor acepta el cargo, renuncia por
 
 ###### Artículo 514.
 
-El tutor debe proponer sus impedimentos o excusas dentro del término fijado por el Código de Procedimientos Civiles, y cuando transcurra el término sin ejercitar el derecho, se entiende renunciable la excusa.
+El tutor debe proponer sus impedimentos o excusas dentro del término fijado por el Código de Procedimientos Civiles, y cuando transcurra el término sin ejercitar el derecho, se entiende renunciada la excusa.
 
 ###### Artículo 515.
 
@@ -4815,7 +4827,7 @@ El que tuviere noticias de la existencia de bienes vacantes en el Estado y quisi
 
 ###### Artículo 788.
 
-El Ministerio Público, si estima que procede, ocurrirá al Juez de Primera Instancia del lugar, quien desde luego mandará fijar avisos en los bienes de que se trate y hará publicarlos por tres veces en el Periódico Oficial y en otro de los de mayor circulación, convocando a quienes se crean con derecho a los bienes de que se trate; se recabarán los informes y noticias que sea posible sobre el abandono absoluto de dichos bienes y, si en vista de esos informes y pasado un mes de la última publicación no se presenta persona alguna, el Juez declarará los bienes vacantes y los adjudicará al Fisco del Estado. En este procedimiento se tendrá al que hizo la denuncia como coadyuvante del Ministerio Público.
+El Ministerio Público, si estima que procede, ocurrirá al Juez de Primera Instancia del lugar, quien desde luego mandará fijar avisos en los bienes de que se trate y hará publicarlos por tres veces en el Periódico Oficial y en otro de los de mayor circulación, convocando a quienes se crean con derecho a los bienes de que se trate; se recabarán los informes y noticias que sea posible sobre el abandono absoluta (sic) de dichos bienes y, si en vista de esos informes y pasado un mes de la última publicación no se presenta persona alguna, el Juez declarará los bienes vacantes y los adjudicará al Fisco del Estado. En este procedimiento se tendrá al que hizo la denuncia como coadyuvante del Ministerio Público.
 
 ###### Artículo 789.
 
@@ -7881,7 +7893,7 @@ Entratándose de la hora sólo será causa de la suspensión temporal de su ejer
 
 ### CAPITULO IV.
 
-Del Testamento Olografo.
+Del Testamento Ológrafo.
 
 ###### Artículo 1419.
 
@@ -8151,7 +8163,7 @@ Sabiéndose el lugar donde se hallan los testigos, serán examinados por exhorto
 
 ### CAPITULO VII.
 
-Del Testamento Maritimo.
+Del Testamento Marítimo.
 
 ###### Artículo 1477.
 
@@ -8171,7 +8183,7 @@ Si el testamento hubiere sido otorgado de palabra, los testigos instruirán de �
 
 ### CAPITULO VIII.
 
-Del Testamento hecho en pais extranjero o fuera del Estado.
+Del Testamento hecho en país extranjero o fuera del Estado.
 
 ###### Artículo 1481.
 
@@ -8187,7 +8199,7 @@ Los testamentos hechos en país extranjero o fuera del Estado, producirán efect
 
 ## TITULO IV.
 
-De la Sucesion Legitima.
+De la Sucesión Legitima.
 
 ### CAPITULO II.
 
@@ -8281,7 +8293,7 @@ Si el intestado no fuere absoluto, se deducirá del total de la herencia la part
 
 ### CAPITULO IV.
 
-De la Sucesion del Conyuge.
+De la Sucesión del Cónyuge.
 
 ###### Artículo 1499.
 
@@ -8371,7 +8383,7 @@ A falta de hermanos, sucederán sus hijos, dividiéndose la herencia por estirpe
 
 ###### Artículo 1518.
 
-A falta de los llamados en los artículos anteriores, sucederán los parientes más próximos, dentro del cuarto grado, sin distinción de linea ni consideración al doble vínculo, y heredarán por partes iguales.
+A falta de los llamados en los artículos anteriores, sucederán los parientes más próximos, dentro del cuarto grado, sin distinción de línea ni consideración al doble vínculo, y heredarán por partes iguales.
 
 ###### Artículo 1519.
 
@@ -8381,7 +8393,7 @@ Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el Ca
 
 ### CAPITULO VII.
 
-De la Sucesion de la Beneficencia Publica.
+De la Sucesión de la Beneficencia Publica.
 
 ###### Artículo 1520.
 
@@ -8429,7 +8441,7 @@ Disposiciones Comunes a las Sucesiones Testamentarias y Legitimas.
 
 ### CAPITULO II.
 
-De la Apertura y Transmision de la Herencia.
+De la Apertura y Transmisión de la Herencia.
 
 ###### Artículo 1523.
 
@@ -8479,7 +8491,7 @@ La división de la herencia se suspenderá hasta que se verifique el parto o has
 
 ### CAPITULO III.
 
-De la Aceptacion y de la Repudiacion de la Herencia.
+De la Aceptación y de la Repudiación de la Herencia.
 
 ###### Artículo 1534.
 
@@ -8607,7 +8619,7 @@ La aceptación en ningún caso produce confusión de los bienes del autor de la 
 
 ### CAPITULO V.
 
-Del Inventarioy de la Liquidación de la Herencia.
+Del Inventario y de la Liquidación de la Herencia.
 
 ###### Artículo 1564.
 
@@ -9291,7 +9303,7 @@ El error de derecho o de hecho invalida el contrato cuando recae sobre el motivo
 
 ###### Artículo 1699.
 
-El error de cálculo sólo da lugar a que se rectifique.
+El error de cálculo soló da lugar a que se rectifique.
 
 ###### Artículo 1700.
 
@@ -11247,7 +11259,7 @@ El deudor que hubiere consentido la cesión hecha por el acreedor en favor de un
 
 ###### Artículo 2084.
 
-Si el acreedor dió conocimiento de la cesión al deudor y éste no consintió en ella, podrá oponer al cesionario la compensación de los créditos que tuviere contra el cedente y que fueren anteriores a la cesión.
+Si el acreedor dio conocimiento de la cesión al deudor y éste no consintió en ella, podrá oponer al cesionario la compensación de los créditos que tuviere contra el cedente y que fueren anteriores a la cesión.
 
 ###### Artículo 2085.
 
@@ -11879,7 +11891,7 @@ La permuta es un contrato por el cual cada uno de los contratantes se obliga a d
 
 ###### Artículo 2210.
 
-Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dió, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
+Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dio, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
 
 ###### Artículo 2211.
 
@@ -12141,7 +12153,7 @@ Del Mutuo.
 
 ### CAPITULO II.
 
-Del Mutuo con Interes.
+Del Mutuo con Interés.
 
 ###### Artículo 2266.
 
@@ -12890,6 +12902,8 @@ El depositario no está obligado a entregar la cosa cuando judicialmente se haya
 ###### Artículo 2411.
 
 El depositario puede, por justa causa, devolver la cosa antes del plazo convenido.
+
+> <small>(F. DE E., P.O. 28 DE NOVIEMBRE DE 1940)</small>
 
 ###### Artículo 2412.
 
@@ -14647,7 +14661,7 @@ Si se prueba debidamente que el dueño prestó su cosa a otro con el objeto de q
 
 ###### Artículo 2751.
 
-Puede darse prenda para garantir (sic) obligaciones futuras, pero en este caso no puede venderse ni adjudicarse la cosa empeñada, sin que se pruebe que la obligación principal fue legalmente exigible.
+Puede darse prenda para garantir obligaciones futuras, pero en este caso no puede venderse ni adjudicarse la cosa empeñada, sin que se pruebe que la obligación principal fue legalmente exigible.
 
 ###### Artículo 2752.
 
@@ -14863,7 +14877,7 @@ Cuando se hipotequen varias fincas para la seguridad de un crédito, es forzoso 
 
 ###### Artículo 2794.
 
-Cuando una finca hipotecada susceptible de ser fraccionada convenientemente se divida, se repartirá equitativamente el gravamen hipotecario entre las fracciones. Al efecto se pondrán de acuerdo el dueño de la finca y el acreedor hipotecario y si no se consiguiere ese acuerdo, la distribución del gravamen se hara por decisión judicial, previa audiencia de peritos.
+Cuando una finca hipotecada susceptible de ser fraccionada convenientemente se divida, se repartirá equitativamente el gravamen hipotecario entre las fracciones. Al efecto se pondrán de acuerdo el dueño de la finca y el acreedor hipotecario y si no se consiguiere ese acuerdo, la distribución del gravamen se hará por decisión judicial, previa audiencia de peritos.
 
 ###### Artículo 2795.
 
@@ -16036,6 +16050,12 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 20 DE AGOSTO DE 2004.
 
 DECRETO No. 664 QUE REFORMA EL ARTÍCULO 445.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 30 DE AGOSTO DE 2004.
 
 ###### ARTÍCULO ÚNICO.
 
