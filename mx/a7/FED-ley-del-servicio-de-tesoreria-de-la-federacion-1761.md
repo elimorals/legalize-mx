@@ -4,7 +4,7 @@ identifier: "FED-ley-del-servicio-de-tesoreria-de-la-federacion-1761"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1998-05-29"
+last_updated: "2000-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1761&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1985-12-19"
 
 LEY DEL SERVICIO DE TESORERIA DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MAYO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 31 de diciembre de 1985.
 
@@ -223,9 +223,9 @@ Transcurrido el plazo de calendario sin que se hayan retirado por su legítimo p
 
 A fin de asegurar la recaudación de toda clase de créditos a favor del Gobierno Federal, la Secretaría, por conducto de la Tesorería o de los auxiliares legalmente facultados para ello, podrá aceptar la dación de bienes o servicios en pago total o parcial de créditos, cuando sea la única forma que tenga el deudor para cumplir con la obligación a su cargo y éstos sean de fácil realización o venta, o resulten aprovechables en los servicios públicos federales, a juicio de la propia Tesorería o de los auxiliares de referencia.
 
-> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 1998)</small>
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-La aceptación o negativa de la solicitud de dación en pago será facultad discrecional de la Tesorería o de sus auxiliares, debiendo resolverse en un término que no excederá de treinta días hábiles contados a partir de que esté debidamente integrado el expediente y no podrá ser impugnada en recurso administrativo, ni en juicio de nulidad ante el Tribunal Fiscal de la Federación. En caso de que de en dicho término no se emita la resolución correspondiente, se tendrá por negada la solicitud.
+La aceptación o negativa de la solicitud de dación en pago será facultad discrecional de la Tesorería o de sus auxiliares, debiendo resolverse en un término que no excederá de treinta días hábiles contados a partir de que esté debidamente integrado el expediente y no podrá ser impugnada en recurso administrativo, ni en juicio de nulidad ante el Tribunal Federal de Justicia Fiscal y Administrativa. En caso de que de en dicho término no se emita la resolución correspondiente, se tendrá por negada la solicitud.
 
 > <small>(REFORMADO, D.O.F. 29 DE MAYO DE 1998)</small>
 
@@ -1247,7 +1247,7 @@ Se derogan las demás disposiciones legales en lo que contraríen a esta Ley.
 
 ###### ARTICULO CUARTO.
 
-El Fondo de Garantía para Reintegros al Erario Federal, establecido por esta Ley, asumirá los derechos y obligaciones que reporte la contabilidad del Fondo para Indemnizaciones al Erario Federal, así como los que se deriven de responsabilidades constituídas durante la vigencia de la Ley que se abroga y cuyo importe no se hubiera reclamado, excepto los que llegaren a reclamarse después de transcurrido el término de cinco años a partir de la fecha en que la autoridad competente estuvo en aptitud legal de notificar el pliego de responsabilidades al servidor público a quien se haya constituído.
+El Fondo de Garantía para Reintegros al Erario Federal, establecido por esta Ley, asumirá los derechos y obligaciones que reporte la contabilidad del Fondo para Indemnizaciones al Erario Federal, así como los que se deriven de responsabilidades constituidas durante la vigencia de la Ley que se abroga y cuyo importe no se hubiera reclamado, excepto los que llegaren a reclamarse después de transcurrido el término de cinco años a partir de la fecha en que la autoridad competente estuvo en aptitud legal de notificar el pliego de responsabilidades al servidor público a quien se haya constituido.
 
 La Tesorería, en coordinación con los auxiliares que tengan encomendada la liquidación o pago de servicios personales, procederá gradualmente a incorporar el nombre del Fondo de Garantía para Reintegros al Erario Federal en los sistemas, procedimientos, registros, formas oficiales numeradas y papelería que mencionen al Fondo para Indemnizaciones al Erario Federal. Entre tanto, toda referencia a este último se entenderá hecha al Fondo de Garantía para Reintegros al Erario Federal.
 
@@ -1286,3 +1286,9 @@ SEGUNDO.- Se derogan las disposiciones legales que se opongan al presente Decret
 TERCERO.- Los procedimientos de enajenación de los bienes puestos a disposición de la Tesorería de la Federación o de sus auxiliares que se hayan iniciado con antelación a la entrada en vigor del presente decreto, continuarán su tramitación conforme a las disposiciones jurídicas vigentes al momento de su inicio.
 
 CUARTO.- La realización de las operaciones y prestación de los servicios de tesorería a través de los equipos y sistemas automatizados, a que se refiere el artículo 14-Bis del presente ordenamiento estará sujeto a la disponibilidad técnica y operativa de las Dependencias y Entidades de la Administración Pública Federal, para la implementación y manejo de los sistemas.
+
+D.O.F. 31 DE DICIEMBRE DE 2000.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
