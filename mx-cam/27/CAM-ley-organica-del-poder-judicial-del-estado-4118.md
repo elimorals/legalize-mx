@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-judicial-del-estado-4118"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-12-04"
-last_updated: "1985-05-22"
+last_updated: "1985-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 1985.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el día jueves 4 de diciembre de 1980.
 
@@ -65,7 +65,7 @@ V.- Por los jueces mixtos de primera instancia,
 
 VI.- Por los jueces menores;
 
-VII.- Por los jueces de paz;
+VII.- (DEROGADA, P.O. 2 DE DICIEMBRE DE 1985)
 
 VIII.- Por los árbitros; y,
 
@@ -107,29 +107,29 @@ El Ejecutivo del Estado facilitará el ejercicio de las funciones a que se refie
 
 ## TITULO SEGUNDO. De la División Jurisdiccional
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
 ###### Artículo 7o.
 
-Para los efectos de esta ley el territorio del Estado queda dividido en los siguientes Distritos Judiciales:
+Para los efectos de esta Ley el territorio del Estado queda dividido en los siguientes distritos judiciales:
 
 I.- Primer distrito, cuya cabecera será la ciudad de Campeche, que comprende los Municipios de Campeche, Champotón y Hopelchén, exceptuándose de estos dos últimos las poblaciones que se jurisdiccionan al tercer distrito;
 
 II.- Segundo distrito, cuya cabecera será Ciudad del Carmen, que comprende las poblaciones de: Independencia, Nicolás Bravo, José María Pino Suárez, Chibojá, Cristalina, Chicbul, A. Rodríguez, Francisco J. Mújica, Calax, Checubul, Abelardo Rodríguez, Calixto, La Esperanza, Sabancuy, Isla Aguada, Emiliano Zapata, Zacatal, Puerto Rico, Atasta, La Costa, Nuevo Progreso, San Antonio Cárdenas, Campechito, San Pedro, Rivera Baja, Rivera Media y Rivera Alta, así como las que se ubican dentro de la Isla del Carmen;
 
-III.- Tercer distrito, cuya cabecera será la villa de Escárcega, que comprende el Municipio de Palizada, las poblaciones de Santa Lucía, López Mateos, Justicia Social, Cantemó, Centenario, Silvituc, Nuevo Zináparo, San Miguel Allende, Chan Laguna, Chacté, Xbonil, Constitución, Conhúas, Tonchacacal, Xochén, San Antonio, Desempeño, Cedros, La Libertad, Yaxché, Concepción, La Esperanza, Chumpinch, San Felipe, La Tronera, Ruinas Altas, Villahermosa, Ecuculché, Sayab, Porvenir y Bekán, todas ellas de los Municipios de Champotón, Carmen y Hopelchén; también las poblaciones de Flores Magón, Nuevo Bécal, Zoh-Laguna, Xpujil, Altamira, 20 de Noviembre, San Antonio Soda, Tomás Aznar, Chunhuás, Chihanchá, Icaiché, Ejido Díaz Ordaz, Chuncalás y Nueva Ciudad, todas ellas de los Municipios de Hopelchén y Champotón; así como las poblaciones del Municipio del Carmen que no han sido jurisdiccionadas al segundo distrito; y
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
-IV.- Cuarto distrito, cuya cabecera será la ciudad de Hecelchakán, que comprende los municipios de Calkiní, Hecelchakán y Tenabo.
+III.- Tercer distrito, cuya cabecera será la Villa de Escárcega, que comprende las poblaciones de Santa Lucía, López Mateos, Justicia Social, Cantemó, Centenario, Silvituc, Nuevo Zináparo, San Miguel Allende, Chan Laguna, Chacté, Xbonil, Constitución, Conhuás, Tonchacacal, Xochén, San Antonio, Desempeño, Cedros, La Libertad, Yaxché, Concepción, La Esperanza, Chumpinch, San Felipe, La Tronera, Ruinas Altas, Villahermosa, Ecuculché, Sayab, Porvenir y Becam, todas ellas de los Municipios de Champotón, Carmen y Hopelchén; también las poblaciones de Flores Magón, Nuevo Bekal, Zoh-laguna, Xpujil, Altamira, 20 de Noviembre, San Antonio Soda, Tomás Aznar, Chunhuas, Chianchá, Icaiché, Ejido Díaz Ordaz, Chucalás y Nueva Ciudad, todas ellas de los municipios de Hopelchén, y Champotón; así como las poblaciones del Municipio del Carmen que no han quedado comprendidas en el segundo distrito;
+
+IV.- Cuarto distrito, cuya cabecera será la ciudad de Hecelchakán, que comprende los municipios de Calkiní, Hecelchakán y Tenabo;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
+V.- Quinto distrito, cuya cabecera será la ciudad de Palizada, que comprende todas las poblaciones del municipio del mismo nombre.
 
 ###### Artículo 8o.
 
-En cada uno de los distritos judiciales a que se refiere el artículo anterior, habrán los siguientes juzgados:
-
-I.- En el primer distrito judicial un juzgado de primera instancia de lo civil, un juzgado de lo familiar, dos juzgados penales, numerados progresivamente y los juzgados menores y de paz que determine esta ley y el Tribunal Superior de Justicia en Pleno;
-
-II.- En el segundo distrito judicial un juzgado de primera instancia de lo civil, un juzgado de lo familiar, un juzgado penal y los juzgados menores y de paz que determine esta ley y el Tribunal Superior de Justicia en Pleno;
-
-III.- En el tercer distrito judicial un juzgado mixto de primera instancia y los juzgados menores y de paz que determine esta ley y el Tribunal Superior de Justicia en Pleno;
-
-IV.- En el cuarto distrito judicial habrá un juzgado mixto de primera instancia y los juzgados menores y de paz que determine esta ley y el Tribunal Superior de Justicia en Pleno.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 1985)
 
 ###### Artículo 9o.
 
@@ -155,7 +155,7 @@ V.- Los juzgados menores de Champotón y Hopelchén, con sede en las ciudades de
 
 ###### Artículo 12.
 
-Los juzgados de paz ejercerán jurisdicción en las poblaciones en que tengan su sede y en las cercanas, conforme lo determine el Tribunal Superior de Justicia en Pleno.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 1985)
 
 ## TITULO TERCERO. De la Organización de los Tribunales
 
@@ -171,9 +171,11 @@ Uno de los magistrados numerarios será presidente del Tribunal.
 
 El magistrado supernumerario percibirá sueldo igual al que señala el presupuesto a los numerarios.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
 ###### Artículo 14.
 
-Los magistrados del Tribunal Superior de Justicia durarán seis años en el ejercicio de su cargo, coincidiendo dicho periodo con el que la Constitución Política del Estado asigna al Gobernador. El magistrado que sea designado por falta absoluta de alguno de ellos concluirá el periodo faltante.
+Los magistrados del Tribunal Superior de Justicia durarán seis años en el ejercicio de su cargo, término que se computará a partir de la fecha de aprobación de su nombramiento.
 
 ###### Artículo 15.
 
@@ -199,9 +201,13 @@ II.- Expedir los reglamentos interiores del Tribunal Superior de Justicia y de l
 
 III.- Resolver, sin ulterior recurso, como jurado de sentencia, de las causas de responsabilidad por delitos oficiales que se instruyan contra el Gobernador del Estado, Diputados al Congreso, y secretarios de las diversas ramas de la Adminsitración Pública Estatal, previa la declaración correspondiente que haga el Congreso del Estado, conforme a lo dispuesto en el artículo 54, fracción XXIII de la Constitución Política del Estado;
 
-IV.- Resolver, sin ulterior recurso, como órgano de sentencia, de las causas de responsabilidad por delitos oficiales que se instruyan en contra de los Presidentes de Ayuntamientos, consejales, jueces de primera instancia, menores y de paz;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
-V.- Conocer y resolver todas las cuestiones de competencia que se susciten entre los jueces de primera instancia o entre jueces menores y de paz y dirimir las controversias que se susciten entre los órganos jurisdiccionales;
+IV.- Resolver sin ulterior recurso, como órgano de sentencia, las causas de responsabilidad por delitos oficiales que se instruyan en contra de los presidentes de ayuntamientos, concejajes (sic), jueces de primera instancia y jueces menores;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
+V.- Conocer y resolver todas las cuestiones de competencia que se susciten entre los jueces de primera instancia o entre los jueces menores, y dirimir las controversias que se susciten entre los órganos jurisdiccionales;
 
 VI.- Conocer y resolver de los conflictos entre los Ayuntamientos y entre éstos y el Ejecutivo, así como de aquellas controversias en que el Estado fuese parte;
 
@@ -215,19 +221,31 @@ X.- Conferir al magistrado supernumerario, cuando no esté en ejercicio, las com
 
 XI.- Distribuir anualmente a los magistrados para que practiquen visitas, cada trimestre, a los juzgados de primera instancia y menores del Estado;
 
-XII.- Ordenar la práctica de visitas extraordinarias a los juzgados de primera instancia, menores y de paz, así como a los centros de readaptación de menores infractores y reclusorios, comisionando a los magistrados que deban verificar dichas visitas, los que enviarán un informe escrito, con copia a la Secretaría de Gobierno, para que la autoridad competente dicte las medidas pertinentes;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
-XIII.- Nombrar a los jueces de primera instancia, menores y de paz, resolver todas las cuestiones que con dichos nombramientos se relacionen, cambiar a los jueces de una misma categoría de un distrito a otro y, en los mismos términos, cambiarlos en el mismo distrito, conforme lo exijan las necesidades del servicio;
+XII.- Ordenar la práctica de visitas extraordinarias a los juzgados de primera instancia y menores, así como a los centros de reclusión, y comisionar a los magistrados que deberán efectuar dichas visitas, los que rendirán un informe por escrito al mismo Pleno para los efectos legales pertinentes;
 
-XIV.- Nombrar a los secretarios de acuerdos del Tribunal Pleno y de las salas, secretarios auxiliares, actuarios, oficial mayor y demás empleados del Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
-XV.- Nombrar a los secretarios y empleados de los juzgados de primera instancia, menores y de paz, a propuesta en terna de los jueces respectivos;
+XIII.- Nombrar a los jueces de primera instancia y a los jueces menores, y resolver todas las cuestiones que dichos nombramientos se relacionen; cambiar a los jueces de una misma categoría de un distrito a otro y, en los mismos términos cambiarlos en el mismo distrito, conforme lo exijan las necesidades del servicio; y aceptar las renuncias de estos jueces;
 
-XVI.- Acordar el aumento de juzgados de primera instancia, menores y de paz, así como la planta de secretarios, actuarios y empleados de los propios juzgados, conforme a las necesidades del servicio y previsiones del presupuesto;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
+XIV.- Nombrar y remover a los secretarios de acuerdos del Tribunal Pleno y de las salas, secretarios auxiliares, actuarios, oficial mayor y demás empleados del Tribunal Superior; y aceptarle sus renuncias;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
+XV.- Nombrar, remover y aceptarles sus renuncias a los secretarios, actuarios y demás empleados de los juzgados de primera instancia y menores. El nombramiento tendrá lugar mediante propuesta en terna de los jueces respectivos;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
+XVI.- Acordar el aumento del número de juzgados de primera instancia y menores, así como de la planta de secretarios, actuarios y demás empleados en los propios juzgados, conforme a las necesidades del servicio y previsiones del presupuesto;
 
 XVII.- Variar cuando sea necesario, la jurisdicción mixta de un juzgado, creando en su lugar uno civil, de lo familiar o de lo penal; o, a la inversa, reuniendo en un juzgado la competencia de lo civil, de lo familiar o de lo penal, o sólo dos de estas materias;
 
-XVIII.- Suspender hasta por tres meses, por la comisión de faltas oficiales que ameriten tal sanción y previa sustanciación de causa y audiencia del interesado a los jueces de primera instancia, menores y de paz, así como, a los demás empleados de los juzgados;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
+XVIII.- Suspender hasta por tres meses, por la comisión de faltas oficiales, a los jueces y demás empleados de los juzgados, previa audiencia del interesado;
 
 XIX.- Imponer a los magistrados, jueces, secretarios y actuarios las correcciones disciplinarias que procedan conforme a esta ley y que no estén expresamente encomendadas a otras autoridades;
 
@@ -249,11 +267,13 @@ XXVII.- Discutir, aprobar o modificar, en su caso, el presupuesto de egresos que
 
 XXVIII.- Informar al Ejecutivo en los casos de indulto, remisión o conmutación de penas impuestas por los tribunales del Estado para los efectos a que alude el artículo 71, fracción XXX, de la Constitución Política del Estado;
 
-XXIX.- Fomentar la enseñanza jurídica y la capacitación de los empleados del Poder Judicial, celebrando los convenios respectivos con la Secretaría de Recursos Humanos y Materiales del Estado y con las Universidades y centros de enseñanza de la entidad;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
+XXIX.- Fomentar la enseñanza jurídica y la capacitación de los empleados del Poder Judicial, celebrando los convenios respectivos con las dependencias idóneas del Poder Ejecutivo y con las universidades y centros de enseñanza de la entidad o de otras entidades federativas;
 
 XXX.- Registrar los títulos profesionales de abogados que reúnan los requisitos que disponga la Ley;
 
-XXXI.- Discutir, aprobar o modificar, en su caso, el informe anual que el presidente del Tribunal deberá rendir por escrito al Congreso del Estado, en los términos del artículo 87 de la Constitución Política del Estado;
+XXXI.- (DEROGADA, P.O. 2 DE DICIEMBRE DE 1985)
 
 XXXII.- Ejercitar las demás atribuciones que le confieran las leyes.
 
@@ -285,9 +305,11 @@ III.- Gozar de buena reputación y no haber sido condenado por delito que amerit
 
 El presidente del Tribunal Superior de Justicia, durará en su cargo un año y podrá ser reelecto, debiendo ser nombrado por el pleno en la primera sesión que se celebre después del 16 de septiembre del año en que se haga la designación.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
 ###### Artículo 24.
 
-El Presidente del Tribunal Superior es presidente del Tribunal Pleno y de las Salas del Tribunal Superior de Justicia del Estado.
+El Presidente del Tribunal Superior lo será del Tribunal Pleno y no integrará sala.
 
 ###### Artículo 25.
 
@@ -357,23 +379,25 @@ El presidente del Tribunal Superior tendrá a su cargo la policía de los edific
 
 Esta facultad la delegará en el Oficial Mayor y se entiende sin perjuicio de la que confieren las leyes a los magistrados y jueces para conservar el orden en sus respectivos locales.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
 ###### Artículo 28.
 
-El presidente del Tribunal Superior será suplido en sus faltas accidentales o en las temporales, por los demás magistrados numerarios en el orden de su designación. En las faltas que excedan del término de 30 días podrá el Pleno elegir al magistrado que deba sustituirlo. Cuando el presidente ejerza funciones de representación fuera de la Capital del Estado o fuera del propio Estado que le impidan el ejercicio de sus demás atribuciones, éstas quedarán a cargo del magistrado numerario que deba sustituirlo.
+El presidente del Tribunal Superior será suplido en sus faltas accidentales o temporales en la forma que previene el artículo 87 de la Constitución del Estado.
 
 ### CAPITULO CUARTO. De las Salas del Tribunal
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 1985)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
 ###### Artículo 29.
 
-El Tribunal Superior de Justicia funcionará en tres Salas, designadas por número ordinal.
+El Tribunal Superior de Justicia funcionará en dos salas, designadas por número ordinal. Cada sala estará integrada por tres magistrados numerarios y fungirá uno de ellos como presidente de la misma. Las presidencias de las salas serán rotativas y durarán un año.
 
-Cada Sala estará integrada por dos Magistrados numerarios y el Presidente del Tribunal, quien fungirá como Presidente de cada una de ellas.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
 ###### Artículo 30.
 
-El presidente del Tribunal en su carácter de presidente de sala tendrá las atribuciones siguientes:
+Los presidentes de sala tendrán las atribuciones siguientes:
 
 I.- Llevar la correspondencia de la sala, autorizándola con su firma;
 
@@ -403,7 +427,9 @@ Las providencias y acuerdos del presidente pueden ser reclamadas ante la propia 
 
 Cuando un magistrado sea recusado o se excuse, o faltara accidentalmente o estuviera ausente por un término no mayor de un mes, será suplido por el magistrado supernumerario.
 
-Cuando fuere recusado o se excusase el presidente, será suplido por el magistrado numerario de mayor antigüedad en su designación, de diversa sala.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
+En los casos de excusa o recusación de un presidente de sala quien lo suplirá será el presidente de la otra sala y en su defecto el magistrado que el Tribunal Pleno indique.
 
 ###### Artículo 33.
 
@@ -445,45 +471,27 @@ IV.- Intervenir en los asuntos de amparo que se promuevan en contra de las resol
 
 V.- Conocer de los demás asuntos que determinen las leyes.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 1985)</small>
-
-Artículo. 40.- Corresponde a la Segunda Sala:
-
-I.- Conocer de los recursos de apelación y denegada apelación que se interpongan contra las resoluciones dictadas por los Jueces Civiles, Mixtos de Primera Instancia y Menores, en asuntos de orden civil o mercantil;
-
-II.- Calificar las excusas y recusaciones del Secretario de Acuerdos de la Sala;
-
-III.- Intervenir en los asuntos de Amparo que se promuevan en contra de las resoluciones dictadas por la Sala; y
-
-IV.- Conocer de los demás asuntos que determinen las Leyes.
-
-> <small>(ADICIONADO, P.O. 22 DE MAYO DE 1985)</small>
-
-###### Artículo 40 Bis-I.
-
-Conocer de los recursos de apelación y denegada apelación que se interpongan contra las resoluciones dictadas por los Jueces Familiares y Mixtos de Primera Instancia, en asuntos del orden familiar; quedando facultada para suplir la deficiencia de los agravios siempre y cuando ello beneficie los intereses de quienes se encuentren afectados de incapacidad natural o legal;
-
-II.- Conocer en segunda instancia de los asuntos en que proceda la revisión de oficio o forzosa;
-
-III.- Calificar las excusas y recusaciones del Secretario de Acuerdos de la Sala;
-
-IV.- Intervenir en los asuntos de Amparo que se promuevan en contra de las resoluciones dictadas por la Sala; y
-
-V.- Conocer de los demás asuntos que determinen las Leyes.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
 ###### Artículo 40.
 
 Corresponde a la segunda sala:
 
-I.- Conocer de los recursos de apelación y denegada apelación que se interpongan contra las resoluciones dictadas por los jueces civiles, familiares, mixtos de primera instancia y menores, en asuntos de orden civil o mercantil;
+I.- Conocer de los recursos de apelación y denegada apelación que se interponga contra las resoluciones dictadas por los jueces civiles, mixtos de primera instancia y menores, en asuntos de orden civil o mercantil;
 
-II.- Conocer en segunda instancia de los asuntos de naturaleza civil, que deban tenerla de oficio;
+II.- Conocer de los recursos de apelación y denegada apelación que se interpongan contra las resoluciones de los jueces familiares, con facultad para suplir la deficiencia o ausencia de agravios, cuando con ello se beneficien los intereses de quienes se encuentren afectados de incapacidad natural o legal;
 
-III.- Calificar las excusas y recusaciones del secretario de acuerdos de la sala;
+III.- Conocer en segunda instancia de los asuntos en que proceda la revisión de oficio o forzosa;
 
-IV.- Intervenir en los asuntos de amparo que se promuevan en contra de las resoluciones dictadas por la sala; y,
+IV.- Calificar las excusas y recusaciones del secretario de acuerdos de la sala;
 
-V.- Conocer de los demás asuntos que determinen las leyes.
+V.- Intervenir en los asuntos de amparo que se promuevan en contra de las resoluciones dictadas por la sala, y
+
+VI.- Conocer de los demás asuntos que determinen las leyes.
+
+###### Artículo 40 Bis.
+
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 1985)
 
 ### CAPITULO QUINTO. De los Secretarios y demás Funcionarios del Tribunal Superior
 
@@ -563,9 +571,11 @@ Las resoluciones del Tribunal en Pleno serán notificadas a las partes por el se
 
 ### CAPITULO PRIMERO. De los Juzgados de Primera Instancia
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
 ###### Artículo 48.
 
-En el Estado habrá el número de juzgados civiles, familiares, penales, mixtos de primera instancia, menores y de paz que establece esta ley y los que el Tribunal en Pleno considere necesarios para que la administración de justicia sea expedita.
+En el Estado habrá el número de juzgados civiles, familiares, penales, mixtos de primera instancia y menores que establezca la ley y que el Tribunal Pleno considere necesario para que la administración de justicia sea pronta y expedita.
 
 ###### Artículo 49.
 
@@ -583,27 +593,39 @@ El personal de cada uno de los juzgados de primera instancia se compondrá de un
 
 Para ser secretario o actuario de un juzgado de primera instancia se requieren los mismos requisitos que para ser juez. El Tribunal en Pleno, podrá dispensar el requisito del título a los secretarios y actuarios en los juzgados de primera instancia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
 ###### Artículo 53.
 
-Los jueces de lo civil conocerán:
+Los jueces del ramo civil conocerán:
 
 I.- De los negocios de jurisdicción voluntaria, cuyo conocimiento no corresponda específicamente a los jueces de lo familiar;
 
-II.- De los juicios contenciosos que versen sobre la propiedad o demás derechos reales sobre inmuebles, siempre que el valor de éstos sea mayor de veinte mil pesos; excepto si se controvierten cuestiones relacionadas con el patrimonio de familia;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
-III.- De los demás negocios de jurisdicción contenciosa, común y concurrente, cuya cuantía exceda de veinte mil pesos, excepto en los concernientes al derecho familiar;
+II.- De los juicios contenciosos que versen sobre la propiedad o demás derechos reales sobre inmuebles, siempre que el valor de éstos rebase sesenta veces el monto del salario mínimo diario aplicable en la región; excepto si se contravienen cuestiones relacionadas con el patrimonio de la familia;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
+III.- De los demás negocios de jurisdicción contenciosa, común y concurrente, cuya cuantía exceda el límite fijado anteriormente; excepto de los concernientes al derecho familiar;
 
 IV.- De los asuntos judiciales de jurisdicción común y concurrente, relativos a concurso, suspensión de pago y quiebras, cualquiera que sea su monto,
 
-V.- Del ofrecimiento de pago y de la consignación, cuando el valor de la cosa o la cantidad que se ofrezca exceda de veinte mil pesos, debiéndose estar a lo dispuesto por el párrafo segundo del artículo 175 del Código de Procedimientos Civiles, en los casos de prestaciones periódicas, excepto en los asuntos de derecho familiar;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
+V.- Del ofrecimiento de pago y de la consignación, cuando el valor de la cosa o la cantidad que se ofrezca exceda del monto antes señalado, debiéndose estar a lo dispuesto por el párrafo segundo del artículo 175 del Código de Procedimientos Civiles en los casos de prestaciones periódicas, excepto en los asuntos de derecho familiar;
 
 VI.- De los interdictos;
 
 VII.- De la diligenciación de exhortos, requisitorias y despachos, de naturaleza civil o mercantil;
 
-VIII.- De las competencias que se susciten entre los jueces menores, en asuntos de naturaleza civil o mercantil y de paz en sus respectivos distritos judiciales;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
-IX.- De las recusaciones y excusas de los jueces de paz de su jurisdicción territorial;
+VIII.- De las competencias que se susciten entre los jueces menores, en asuntos de naturaleza civil o mercantil, en sus respectivos distritos judiciales;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
+IX.- De los juicios sucesorios sin importar su cuantía, y
 
 X.- De los demás asuntos cuyo conocimiento le atribuyan las leyes.
 
@@ -651,9 +673,9 @@ Los jueces de lo civil, entretanto no exista juez de lo familiar, tendrán la co
 
 Los jueces mixtos de primera instancia tendrán la competencia a que aluden los artículos 53, 54 y 55 de esta ley.
 
-###### Artículo 58.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
-Los jueces civiles, penales o mixtos de primera instancia asumirán la competencia que esta ley le atribuye a los jueces menores y de paz, en las poblaciones, secciones municipales o municipios en donde no existieran éstos.
+Artículo. 58.- Los jueces civiles, penales y mixtos de primera instancia asumirán la competencia que esta ley atribuye a los jueces menores en las secciones municipales o municipios en donde no existieran éstos.
 
 ### CAPITULO SEGUNDO. De la Organización Interna de los Juzgados de Primera Instancia
 
@@ -667,7 +689,9 @@ II.- Remitir al magistrado visitador y al presidente del Tribunal, dentro de los
 
 III.- Remitir a las autoridades federales, estatales y municipales los datos e informes estadísticos que soliciten conforme a la ley;
 
-IV.- Visitar los juzgados menores y de paz de sus distritos, cuando lo estime necesario;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
+IV.- Visitar trimestralmente los juzgados menores de sus distritos y remitir acta circunstanciada de la práctica de esas visitas al Tribunal Pleno;
 
 V.- Llevar al corriente los libros de gobierno y control que determinen el reglamento interior de los juzgados y el Tribunal Superior de Justicia;
 
@@ -795,15 +819,21 @@ El Tribunal Superior de Justicia dará preferencia a los pasantes de jurispruden
 
 Los jueces menores rendirán su protesta ante el Tribunal Superior de Justicia o ante uno de los juzgados de primera instancia del distrito judicial al que pertenezcan.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
 ###### Artículo 72.
 
-Los jueces menores tendrán las obligaciones y atribuciones siguientes:
+Los jueces menores tendrán las atribuciones siguientes:
 
 I.- En materia penal, conocerán de los delitos que ocurran dentro de su jurisdicción y que tengan una o más de las siguientes sanciones: apercibimiento, caución de no ofender, multa, independientemente de su monto, o prisión, cuyo máximo sea de un año o estas dos últimas sanciones complementarias entre sí. Cuando fueren varios delitos se estará a la penalidad del delito mayor, sin perjuicio de que los propios jueces impongan una pena superior, en caso de acumulación;
 
-II.- En materia civil y mercantil conocerán de todos los negocios cuyo interés no exceda de veinte mil pesos, con excepción de los asuntos previstos en la fracción IV del artículo 53 de esta ley;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
-III.- De las diligencias preliminares de consignación, cuando el valor de la cosa o la cantidad que se ofrezca, no exceda de veinte mil pesos, debiéndose estar a lo dispuesto en el párrafo segundo del artículo 175 del Código de Procedimientos Civiles, en los casos de prestaciones periódicas, con excepción de lo relacionado con el derecho familiar;
+II.- En materia civil y mercantil conocerán de los negocios que no se hayan reservado al conocimiento de los jueces de primera instancia;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
+III.- De las diligencias preliminares de consignación cuyo conocimiento no sea de la competencia exclusiva de los jueces de primera instancia;
 
 IV.- Practicar, dentro del territorio de su jurisdicción las diligencias que les encomiende el Pleno o las salas del Tribunal, los jueces de primera instancia u otras autoridades judiciales, atendiendo a los exhortos, requisitorias y despachos que reciba;
 
@@ -823,61 +853,81 @@ Los jueces menores tendrán las mismas obligaciones que los jueces de primera in
 
 Los secretarios, actuarios y personal subalterno de los juzgados menores tendrán las mismas obligaciones que los funcionarios y empleados de la misma categoría de los juzgados de primera instancia, en la medida que las determine el reglamento y el Tribunal en Pleno.
 
-### CAPITULO QUINTO. De los Juzgados de Paz
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
+### CAPITULO QUINTO. De las visitas a los establecimientos de reclusión
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
 ### CAPITULO PRIMERO
 
 ###### Artículo 76.
 
-El Tribunal Superior de Justicia en Pleno designará a los jueces de paz, a propuesta en terna de los jueces de primera instancia en materia civil o mixtos de los respectivos distritos judiciales, en aquellas poblaciones del Estado, que por el crecimiento de la población y la distancia, lo exija la buena administración de justicia.
+El último día hábil de cada mes los jueces de primera instancia del ramo penal y los jueces menores visitarán los establecimientos de reclusión ubicados dentro de su jurisdicción territorial, con asistencia de sus secretarios de acuerdos, del agente del ministerio público adscrito a su Juzgado, del jefe de la defensoría de oficio, y en su caso, del secretario del ayuntamiento o junta municipal. De la visita levantarán acta circunstanciada.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
 ###### Artículo 77.
 
-Los jueces de paz dependerán del Tribunal Superior de Justicia y actuarán con un secretario o con dos testigos de asistencia.
+Las visitas tendrán por objeto:
+
+I.- Dar audiencia a los encausados que se encuentren a su disposición, con el fin de oír las reclamaciones que tengan y de imponerlos acerca del estado de sus procesos;
+
+II.- Hacer cesar en el acto cualquier violación constitucional de inmediata reparación, a reserva de dar cuenta a quien corresponda con la debida oportunidad;
+
+III.- Inspeccionar el local de la reclusión para informar de sus condiciones de salubridad, y
+
+IV.- Averiguar lo relativo al tratamiento que se da a los procesados y lo concerniente a la alimentación que se les suministre.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
 ###### Artículo 78.
 
-El personal de los juzgados de paz se compondrá de un juez, un secretario y el número de empleados que determine el Tribunal en Pleno.
+El secretario del juzgado asentará en forma ordenada en el acta de visita los siguientes pormenores:
+
+I.- Los nombres de los procesados, el estado de sus causas y lo que cada uno hubiese expuesto, y
+
+II.- El resultado de la inspección practicada al local del reclusorio y los informes rendidos por su director o encargado.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
 ###### Artículo 79.
 
-Para ser juez de paz se requiere:
+El acta de la visita será firmada por todos los concurrentes y se anexará a la misma la documentación que los procesados entreguen, en su caso, al visitador.
 
-I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
-
-II.- Haber concluido la enseñanza primaria;
-
-III.- El Tribunal Superior de Justicia, procurará, para efectos de la designación, dar preferencia a los pasantes de jurisprudencia.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
 ###### Artículo 80.
 
-Los jueces de paz durarán en sus cargos dos años, pudiendo ser reelectos y antes de tomar posesión rendirán su protesta ante el juzgado de primera instancia de lo civil o mixto que tuviera jurisdicción en su territorio o, en su defecto, ante el Presidente Municipal respectivo.
+Al iniciarse la visita se dará lectura al acta anterior, con el objeto de corroborar o comprobar si los acuerdos referentes a la misma ya fueron cumplidos, si su naturaleza lo permitiese.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
 ###### Artículo 81.
 
-Al designar el Tribunal en Pleno a los jueces de paz, nombrará también suplentes de cada uno de ellos.
+El mismo día de la visita, los jueces visitadores darán noticia oral, a reserva de hacerlo por escrito, al Presidente del Tribunal Superior y le informarán de cualquier irregularidad que hubiesen notado.
 
-Los jueces de paz suplentes, están obligados a dar oportuno aviso al Tribunal Superior, cuando se ausenten definitivamente de la población, dando nuevo domicilio, a fin de que, en su caso, puedan ser llamados al desempeño del cargo o se proceda a la designación del nuevo suplente.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
 ###### Artículo 82.
 
-Corresponde a los jueces de paz:
+Los jueces visitadores remitirán a la Presidencia del Tribunal, dentro de los tres días siguientes al de la visita, copia del acta levantada y de los documentos que procediere.
 
-I.- Conocer de los negocios, cuya competencia le atribuya el artículo 1346 del Código de Procedimientos Civiles del Estado;
-
-II.- Diligenciar los exhortos y despachos y demás asuntos que les encomienden las leyes.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
 ###### Artículo 83.
 
-Para ser secretario de acuerdos de los juzgados de paz, deberán reunir los mismos requisitos establecidos para los jueces.
+El Presidente del Tribunal dará vista al Pleno para su información y análisis de la copia del acta de visita y documentos anexos. En el caso de que de los mismos se desprenda la posible comisión de un hecho delictuoso se dará noticia al Procurador General de Justicia para los efectos legales consiguientes. Si tan sólo se advierte la comisión de una falta administrativa, la noticia se dará al Secretario de Gobierno para que obre en consecuencia.
 
-###### Artículo 84.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
-Cuando un juez de paz se excusare o fuere recusado, conocerá el juez de paz a cuyo lugar de residencia haya más rápida comunicación, dentro del mismo distrito judicial.
+Artículo. 84.- El magistrado que el Tribunal Pleno designe para el caso, practicará cada tres meses visita ordinaria a los centros de reclusión existentes en la entidad, de acuerdo a los términos previstos en los artículos anteriores. A esa visita concurrirán uno de los subprocuradores, el jefe de la defensoría de oficio y el secretario del ayuntamiento o junta municipal de la ubicación del reclusorio. El magistrado será asistido por el secretario auxiliar del Pleno.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
 ###### Artículo 85.
 
-En las poblaciones en que no existiera juez de paz, los asuntos de la competencia de éstos los conocerá el juez menor respectivo y en defecto de éste, el juez de primera instancia o mixto del respectivo distrito judicial.
+El presidente de la sala penal practicará a los reclusorios las visitas extraordinarias previstas en la fracción XII del artículo 18 de esta Ley, asistido por el secretario de acuerdos de la sala y en unión de los funcionarios mencionados en el artículo anterior.
 
 ## TITULO QUINTO. De los Auxiliares de la Administración de Justicia
 
@@ -967,6 +1017,8 @@ IX.- Las demás que les señalen las leyes y reglamentos.
 
 ### CAPITULO SEGUNDO. De la Sustitución en caso de Recusación y Excusa
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
 ###### Artículo 99.
 
 Las faltas temporales y accidentales del presidente del Tribunal Superior se cubrirán en los términos a que alude el artículo 28 de esta ley.
@@ -1001,7 +1053,7 @@ Los jueces menores serán suplidos en sus faltas que no excedan de tres meses y 
 
 ###### Artículo 105.
 
-Los jueces de paz serán suplidos en sus faltas que no excedan de tres meses por el suplente.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 1985)
 
 ###### Artículo 106.
 
@@ -1029,13 +1081,17 @@ Cuando las faltas de los secretarios, actuarios y demás empleados del Poder Jud
 
 ### CAPITULO TERCERO. Vacaciones y Licencias
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
 ###### Artículo 112.
 
-Cuando el Presidente fuere recusado o se excusase en su carácter de presidente del Tribunal en Pleno, será sustituido, conforme lo determina el artículo 28 de esta Ley.
+Cuando el Presidente del Tribunal Superior se excuse o sea recusado será substituido en la forma que dispone el artículo 28 de esta Ley.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
 ###### Artículo 113.
 
-Cuando el presidente, en su carácter de presidente de la sala fuere recusado o se excusase será sustituido por el magistrado numerario de mayor antigüedad en su designación, correspondiente a diversa sala.
+Cuando el presidente de una sala sea recusado o se excuse será substituido en la forma que dispone el artículo 32 de esta Ley.
 
 ###### Artículo 114.
 
@@ -1059,7 +1115,7 @@ IV.- Los jueces mixtos de primera instancia por el juez de primera instancia o m
 
 V.- Los jueces menores, por el de la misma categoría más cercano del mismo distrito judicial y a falta de éste por el de la misma categoría más cercano, de diverso distrito judicial;
 
-VI.- Los jueces de paz, por los suplentes respectivos;
+VI.- (DEROGADA, P.O. 2 DE DICIEMBRE DE 1985)
 
 VII.- Los demás funcionarios del Poder Judicial en la forma que prevengan las leyes y reglamentos respectivos y en caso de silencio de éstos, como lo dispongan los titulares de las oficinas correspondientes.
 
@@ -1067,11 +1123,13 @@ VII.- Los demás funcionarios del Poder Judicial en la forma que prevengan las l
 
 ###### Artículo 117.
 
-Los funcionarios y empleados del Poder Judicial del Estado que tengan más de seis meses consecutivos de servicios disfrutarán de dos períodos anuales de vacaciones, de diez días cada uno, con goce de sueldo íntegro.
+Los funcionarios y empleados del Poder Judicial del Estado que tengan más de seis meses consecutivos de servicio disfrutarán de dos períodos anuales de vacaciones, de quince días naturales cada uno, con goce de sueldo íntegro. Los periodos vacacionales se concederán en forma escalonada para evitar que las labores de los diferentes órganos jurisdiccionales se paralicen.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
 ###### Artículo 118.
 
-El Tribunal en Pleno señalará en la primera sesión que celebre en los meses de junio y diciembre de cada año, los períodos vacacionales de los magistrados, jueces de primera instancia, menores, de paz y empleados del Tribunal Superior de Justicia.
+El Tribunal Pleno señalará en la primera sesión que celebre en los meses de junio y diciembre de cada año los períodos vacacionales de los magistrados, jueces de primera instancia y menores y empleados del Tribunal Superior de Justicia.
 
 ###### Artículo 119.
 
@@ -1201,9 +1259,11 @@ La responsabilidad de los magistrados, jueces, funcionarios y empleados del Pode
 
 Los magistrados del Poder Judicial del Estado serán responsables de los delitos comunes que cometan durante el desempeño de sus cargos, pero para ser privados de su libertad y procesados, es necesario que el Congreso del Estado declare en los términos del artículo 91 de la Constitución Política del Estado, que ha lugar a proceder en su contra. En caso negativo, no habrá lugar a procedimiento ulterior, pero tal declaración no será obstáculo para que el procedimiento continúe su curso, cuando el imputado haya dejado de tener fuero, salvo el caso de extinción de la acción penal. En caso afirmativo, el procesado quedará por el mismo hecho separado de su cargo y sujeto a la acción de los tribunales comunes. Si la resolución fuere condenatoria quedará definitivamente separado de sus funciones y, en caso contrario, volverá a ejercerlas.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
 ###### Artículo 145.
 
-Cuando sean los jueces de primera instancia, menores o de paz los que se encuentren en el caso previsto por el artículo anterior, será el Tribunal Superior de Justicia el que declare la separación del cargo, sin que puedan ser aprehendidos o procesados antes de la declaratoria.
+Cuando sean los jueces de primera instancia o menores los que se encuentren en el caso previsto en el artículo anterior, será el Tribunal Pleno el que declare la separación del cargo, sin que puedan ser aprehendidos o procesados antes de la declaratoria.
 
 ###### Artículo 146.
 
@@ -1221,9 +1281,11 @@ Los funcionarios y empleados del Poder Judicial que fueren procesados, quedarán
 
 Los magistrados del Tribunal Superior de Justicia, los jueces y todos los funcionarios y empleados del Poder Judicial, son responsables de las faltas oficiales que cometan en el ejercicio de sus cargos y quedan por ello, sujetos a las sanciones que determine la presente ley y reglamentos aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
 ###### Artículo 150.
 
-Las faltas oficiales en que incurran los magistrados, funcionarios y empleados del tribunal, jueces de primera instancia, menores y de paz, serán sancionadas por el Tribunal Pleno.
+Las faltas oficiales en que incurran los magistrados, funcionarios y empleados del Tribunal, jueces de primera instancia y menores serán sancionadas por el Tribunal Pleno.
 
 ###### Artículo 151.
 
@@ -1241,7 +1303,9 @@ En el caso de que la denuncia se formule verbalmente ante el titular de alguno d
 
 Pueden denunciar la comisión de faltas oficiales de los funcionarios y empleados del Poder Judicial del Estado:
 
-I.- Los magistrados visitadores, el presidente del Tribunal y los jueces de primera instancia, menores y de paz;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
+I.- Los magistrados visitadores, el Presidente del Tribunal y los jueces de primera instancia y menores;
 
 II.- Las partes en el juicio en que se cometieren;
 
@@ -1381,11 +1445,13 @@ El Tribunal en Pleno tiene facultad para cambiar de adscripción a cualquiera de
 
 El Tribunal en Pleno, para dar por terminado el nombramiento de los empleados no considerados de confianza, deberá tomar en consideración las causales de terminación de nombramiento previstas por la Ley de los Trabajadores al Servicio de los Poderes, Municipios, e Instituciones Descentralizadas del Estado.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
 ###### Artículo 168.
 
-Los magistrados del Tribunal Superior de Justicia, los jueces de primera instancia, secretarios y actuarios no podrán desempeñar empleo o cargo de la federación, de otro poder del Estado, del Municipio, ni de otros organismos o particulares, por el cual reciban remuneración, exceptuándose los cargos en los ramos de instrucción y asistencia pública.
+Los magistrados, los jueces de primera instancia, los jueces menores, los secretarios y los actuarios, no podrán desempeñar empleo o cargo de la federación, de otro poder del Estado, del municipio, ni de otros organismos oficiales o particulares, por el cual reciban remuneración, a excepción de los cargos en los ramos de instrucción y asistencia pública.
 
-La infracción de esta disposición será sancionada con la pérdida del cargo y amerita responsabilidad penal, conforme lo dispuesto en el artículo 199, fracción II del Código Penal del Estado.
+La infracción de esta disposición será sancionada con la pérdida del cargo y amerita responsabilidad penal, conforme lo dispuesto en la fracción II del artículo 119 del Código Penal del Estado.
 
 ###### Artículo 169.
 
@@ -1409,15 +1475,17 @@ SEPTIMO.- Se faculta al Tribunal Superior de Justicia en Pleno para fijar oportu
 
 OCTAVO.- Se faculta al Tribunal Superior de Justicia en Pleno para reubicar, dándoles nuevo nombramiento a los funcionarios del Tribunal Superior de Justicia y de los juzgados que no reúnan los requisitos establecidos por esta ley, para los cargos que desempeñaban conforme a la ley abrogada.
 
-NOVENO.- Las funciones que le atribuye el Código de Procedimientos Civiles del Estado al ministro ejecutor, serán ejercidas en los términos de esta ley por los actuarios de los juzgados de primera instancia del ramo civil, mixtos y menores, por los secretarios de los juzgados de paz o por dos testigos de asistencia.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
+NOVENO.- Las funciones que le atribuye el Código de Procedimientos Civiles del Estado al ministro ejecutor serán ejercidas en los términos de esta Ley por los actuarios de los juzgados de primera instancia del ramo civil, mixtos y menores.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1980)</small>
 
 DECIMO.- Hasta que inicien sus labores los Juzgados Familiares del Primero y Segundo Distrito Judicial del Estado, los Juzgados de Primera Instancia de lo Civil, conservarán jurisdicción en las controversias de naturaleza familiar.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
-DECIMO PRIMERO.- Hasta que inicien sus labores los juzgados mixtos de primera instancia del tercero, cuarto y quinto distritos judiciales del Estado, los juzgados de lo civil, de lo familiar y penales del primer distrito judicial, conocerán de las controversias que se susciten en el territorio correspondiente al tercer y cuatro distrito.
+DECIMO PRIMERO.- Hasta que inicien sus labores, los juzgados de primera instancia del tercero, cuarto y quinto distritos judiciales del Estado, los juzgados de lo civil, de lo familiar y penales del primer distrito judicial, conocerán de las controversias que se susciten en los territorios de aquellos distritos.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1980)</small>
 
@@ -1444,3 +1512,9 @@ El presente decreto entrará en vigor a los sesenta días después de su publica
 ###### ARTICULO SEGUNDO.
 
 Los tocas del orden familiar, serán enviados a la Presidencia de la nueva Sala, para la continuación del trámite correspondiente.
+
+P.O. 2 DE DICIEMBRE DE 1985.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legislativas y reglamentarias que se opongan al presente decreto.
