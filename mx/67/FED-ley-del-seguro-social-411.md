@@ -4,7 +4,7 @@ identifier: "FED-ley-del-seguro-social-411"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-12"
-last_updated: "1994-06-01"
+last_updated: "1994-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=411&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 1994.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 12 de marzo de 1973.
 
@@ -1986,141 +1986,147 @@ Los patrones están obligados a enterar al Instituto Mexicano del Seguro Social,
 
 Las cuotas a que se refiere el artículo anterior, serán por el importe equivalente al 2 por ciento del salario base de cotización del trabajador.
 
-> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 183-C.
 
-Los patrones estarán obligados a cubrir las cuotas establecidas en ese Capítulo, mediante la entrega de los recursos correspondientes en instituciones de crédito, para su abono en la subcuenta del seguro de retiro de las cuentas individuales de sistema de ahorro para el retiro abiertas a nombre de los trabajadores. A fin de que las instituciones de crédito puedan individualizar dichas cuotas, los patrones deberán proporcionar a las instituciones de crédito información relativa a cada trabajador, en la forma y con la periodicidad que al efecto determine la Secretaría de Hacienda y Crédito Público. El patrón deberá entregar a la representación sindical una relación de las aportaciones hechas en favor de sus agremiados.
+Los patrones estarán obligados a cubrir las cuotas establecidas en este Capítulo, mediante la entrega de los recursos correspondientes en instituciones de crédito u otras entidades financieras autorizadas por la Comisión Nacional del Sistema de Ahorro para el Retiro, para su abono en la subcuenta del seguro de retiro de las cuentas individuales del sistema de ahorro para el retiro abiertas a nombre de los trabajadores. A fin de que las instituciones o entidades mencionadas puedan individualizar dichas cuotas, los patrones deberán proporcionarles, directamente o a través de los institutos de seguridad social o de la Comisión Nacional del Sistema de Ahorro para el Retiro según lo determine ésta, información relativa a cada trabajador, en la forma y con la periodicidad que al efecto establezca la propia Comisión. El patrón deberá entregar a la representación sindical una relación de las aportaciones hechas en favor de sus agremiados.
 
-Las cuentas individuales del sistema de ahorro para el retiro deberán, cuando corresponda, tener dos subcuentas: la del seguro de retiro y la del Fondo Nacional de la Vivienda. La documentación y demás característica (sic) de estas cuentas, no previstas en esta Ley y en la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, se sujetarán a las disposiciones de carácter general que expida el Banco de México.
+Las cuentas individuales del sistema de ahorro para el retiro deberán, cuando corresponda, tener dos subcuentas: la del seguro de retiro y la del Fondo Nacional de la Vivienda. La documentación y demás características de estas cuentas, no previstas en esta Ley y en la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, se sujetarán a las disposiciones de carácter general que expida la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
-El patrón deberá llevar a cabo la apertura de la cuenta individual del sistema de ahorro para el retiro del trabajador en la o las instituciones de crédito que elija el primero, dentro de las que tengan oficina en la plaza o, de no haberla, en la población más cercana.
+El patrón deberá llevar a cabo la apertura de la cuenta individual del sistema de ahorro para el retiro del trabajador en la o las instituciones de crédito o entidad autorizada que elija el primero, dentro de las que tengan oficina en la plaza o, de no haberla, en la población más cercana.
 
-El trabajador que sea titular de una cuenta individual de ahorro para retiro y tuviera una nueva relación de trabajo, habrá de proporcionar al patrón respectivo su número de cuenta, así como la denominación de la institución de crédito operadora de la misma.
+El trabajador que sea titular de una cuenta individual de ahorro para el retiro y tuviera una nueva relación de trabajo habrá de proporcionar al patrón respectivo su número de cuenta, así como la denominación de la institución o entidad operadora de la misma.
 
-El trabajador no deberá tener más de una cuenta de ahorro para retiro.
+El trabajador no deberá tener más de una cuenta de ahorro para el retiro, independientemente de que se encuentre sujeto al régimen previsto en esta Ley o en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, o a ambos.
 
-> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 183-D.
 
-En caso de terminación de la relación laboral, el patrón deberá entregar a la institución de crédito respectiva, la cuota correspondiente al bimestre de que se trate o, en su caso, la parte proporcional de dicha cuota, en la fecha en que deba efectuar el pago de las cuotas correspondientes a dicho bimestre.
+En caso de terminación de la relación laboral, el patrón deberá entregar a la institución de crédito o entidad financiera respectiva, la cuota correspondiente al bimestre de que se trate o, en su caso, la parte proporcional de dicha cuota en la fecha en que deba efectuar el pago de las cuotas correspondientes a dicho bimestre.
 
-> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 183-E.
 
-El entero de las cuotas se acreditará mediante la entrega que los patrones habrán de efectuar a cada uno de sus trabajadores, del comprobante expedido por la institución de crédito en la que el patrón haya enterado las cuotas citadas, el que tendrá las características que señale la Secretaría de Hacienda y Crédito Público, mediante la expedición de disposiciones de carácter general.
+El entero de las cuotas se acreditará mediante la entrega que los patrones habrán de efectuar a cada uno de sus trabajadores, del comprobante expedido por la institución de crédito o entidad financiera en la que el patrón haya enterado las cuotas citadas, el que tendrá las características que señale la Comisión Nacional del Sistema de Ahorro para el Retiro, mediante la expedición de disposiciones de carácter general.
 
-Las instituciones que reciban las cuotas de los patrones deberán proporcionar a éstos comprobantes individuales a nombre de cada trabajador dentro de un plazo de treinta días naturales, contado a partir de la fecha en que reciban las cuotas citadas. Los patrones estarán obligados a entregarles a sus trabajadores dichos comprobantes junto con el último pago de sueldo de los meses de febrero, abril, junio, agosto, octubre y diciembre de cada año.
+Las instituciones de crédito o entidades financieras que reciban las cuotas de los patrones, deberán proporcionar a éstos, comprobantes individuales a nombre de cada trabajador dentro de un plazo de 30 días naturales, contado a partir de la fecha en que reciban las cuotas citadas. Los patrones estarán obligados a entregarles a sus trabajadores dichos comprobantes junto con el último pago de sueldo de los meses de febrero, abril, junio, agosto, octubre y diciembre de cada año.
 
-La institución de crédito que no siendo la operadora de la cuenta individual del trabajador reciba cuotas para abono en favor de éste, deberá entregar los recursos correspondientes a la institución que opera dicha cuenta para su acreditamiento en la misma, a más tardar el tercer día hábil bancario inmediato siguiente al de su recepción.
-
-El comité técnico del sistema de ahorro para el retiro determinará la comisión que los patrones y los trabajadores deberán cubrir a las instituciones de crédito que expidan comprobantes y no lleven las cuentas individuales respectivas.
-
-> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 183-F.
 
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México, y mediante la expedición de disposiciones de carácter general, podrá autorizar formas y términos distintos a los establecidos para el entero y la comprobación de las cuotas del seguro de retiro.
+La Comisión Nacional del Sistema de Ahorro para el Retiro, atendiendo a consideraciones técnicas y asegurando los intereses de los trabajadores, mediante la expedición de disposiciones de carácter general podrá autorizar formas y términos distintos a los establecidos en los artículos 183-C párrafos tercero y cuarto y 183-E, relativos a la apertura de cuentas, los casos de una nueva relación laboral del trabajador y el entero y la comprobación de las cuotas del seguro de retiro.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 183-G.
 
-El trabajador podrá notificar a la Secretaría de Hacienda y Crédito Público o al Instituto Mexicano del Seguro Social, el incumplimiento de las obligaciones a cargo de los patrones, establecidas en este capítulo y al respecto, ambas autoridades, indistintamente, tendrán la facultad de practicar inspecciones domiciliarias y, en su caso, la de determinar créditos y las bases de su liquidación, así como la actualización y recargos que se generen, en los términos de los artículos 19 fracción V, 240 fracciones XIV y XVIII, y demás relativos de esta Ley.
+El trabajador podrá notificar a la Secretaría de Hacienda y Crédito Público directamente o a través de la Comisión Nacional del Sistema de Ahorro para el Retiro, o al Instituto Mexicano del Seguro Social, el incumplimiento de las obligaciones a cargo de los patrones, establecidas en este Capítulo y al respecto, ambas autoridades, indistintamente, tendrán la facultad de practicar inspecciones domiciliarias y, en su caso, la de determinar créditos y las bases de su liquidación, así como la actualización y recargos que se generen en los términos de los artículos 19 fracción V, 240 fracciones XIV y XVIII, y demás relativos de esta Ley.
 
-(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992) (F. DE E., D.O.F. 12 DE MARZO DE 1992)
+Los trabajadores titulares de las cuentas del sistema de ahorro para el retiro, y en su caso sus beneficiarios, podrán a su elección, presentar directamente o a través de sus representantes sindicales sus reclamaciones contra las instituciones de crédito o entidades financieras autorizadas ante la Comisión Nacional del Sistema de Ahorro para el Retiro o hacer valer sus derechos en la forma que establecen las leyes. El procedimiento correspondiente ante la Comisión se sujetará a lo dispuesto en la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro.
 
-Los trabajadores titulares de las cuentas del sistema de ahorro para el retiro y, en su caso sus beneficiarios, podrán, a su elección, presentar directamente o a través de sus representantes sindicales, sus reclamaciones contra las instituciones de crédito ante la Comisión Nacional Bancaria o hacer valer sus derechos en la forma que establecen las leyes. El procedimiento de conciliación a que se refiere este párrafo se sujetará a lo dispuesto en los artículos 119 y 120 de la Ley de Instituciones de Crédito.
-
-> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 183-H.
 
-Las instituciones de banca múltiple estarán obligadas a llevar las cuentas individuales de ahorro para retiro en los términos de esta Ley, actuando por cuenta y orden del Instituto Mexicano del Seguro Social. Dichas cuentas deberán contener para su identificación el registro federal de contribuyentes del trabajador.
+Las instituciones de banca múltiple y las entidades financieras autorizadas, estarán obligadas a llevar las cuentas individuales de ahorro para el retiro en los términos de esta Ley, actuando por cuenta y orden del Instituto Mexicano del Seguro Social. Dichas cuentas deberán contener para su identificación el número o clave que determine la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
-Las instituciones de crédito informarán al público la ubicación de aquellas de sus sucursales en las cuales podrán abrirse las mencionadas cuentas, mediante publicaciones en periódicos de amplia circulación en la plaza de que se trate, en la inteligencia de que habrán de habilitar a este propósito cuando menos una sucursal por cada cinco que tengan establecidas en un mismo Estado de la República o en el Distrito Federal.
+Las instituciones de crédito y las entidades financieras autorizadas informarán al público, mediante publicaciones en periódicos de amplia circulación en la plaza de que se trate, la ubicación de aquellas de sus sucursales en las que se proporcionarán a los trabajadores todos los servicios relacionados con los sistemas de ahorro para el retiro, en la inteligencia de que la Comisión Nacional del Sistema de Ahorro para el Retiro establecerá la proporción de las sucursales que las instituciones o entidades mencionadas deberán habilitar para este propósito de las que tengan establecidas en un mismo estado de la República o en el Distrito Federal.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+###### ARTICULO 183-I.
+
+Las cuotas que reciban las instituciones de crédito u otras entidades financieras autorizadas operadoras de las cuentas individuales, deberán ser depositadas a más tardar el cuarto día hábil bancario inmediato siguiente al de su recepción, en la cuenta que el Banco de México le lleve al Instituto Mexicano del Seguro Social. El propio Banco de México, actuando por cuenta del mencionado Instituto, deberá invertir dichos recursos en créditos a cargo del Gobierno Federal.
 
 > <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
-
-###### ARTICULO 83-I.
-
-Las cuotas que reciban las instituciones de crédito operadoras de las cuentas individuales, deberán ser depositadas a más tardar el cuarto día hábil bancario inmediato siguiente al de su recepción, en la cuenta que el Banco de México le lleve al Instituto Mexicano del Seguro Social. El propio Banco de México, actuando por cuenta del mencionado Instituto, deberá invertir dichos recursos en créditos a cargo del Gobierno Federal.
 
 El saldo de dichos créditos al fin de cada mes, se ajustará en una cantidad igual a la resultante de aplicar al saldo promedio diario mensual de los propios créditos, la variación porcentual del "Indice Nacional de Precios al Consumidor" publicado por el Banco de México, correspondiente al mes inmediato anterior al del ajuste.
 
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+
 Los créditos a que se refiere el presente artículo causarán intereses a una tasa no inferior al dos por ciento anual, pagaderos mensualmente mediante su reinversión en las respectivas cuentas. El cálculo de estos intereses se hará sobre el saldo promedio diario mensual de los propios créditos, ajustado siguiendo el mismo procedimiento previsto en el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
 La tasa citada será determinada por la Secretaría de Hacienda y Crédito Público, cuando menos trimestralmente, en función de los rendimientos en términos reales de los valores a largo plazo que circulen en el mercado, emitidos por el Gobierno Federal o, en su defecto, por emisores de la más alta calidad crediticia. Esa determinación será dada a conocer mediante publicación en el Diario Oficial de la Federación y en periódicos de amplia circulación en el país.
 
-> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+Cuando la institución o entidad receptora de las cuotas no sea la que lleva la cuenta individual de que se trate, la Comisión Nacional del Sistema de Ahorro para el Retiro mediante disposiciones de carácter general, podrá distribuir entre la Institución o entidad receptora y la operadora los beneficios que se deriven de manejar dichas cuotas durante el periodo previsto en el primer párrafo de este articulo.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 183-J.
 
-El saldo de las subcuentas del seguro de retiro se ajustará y devengará intereses en los mismos términos y condiciones previstos para los créditos a que se refiere el artículo anterior. Dichos intereses se causarán a más tardar a partir del cuarto día hábil bancario inmediato siguiente a aquél en que las instituciones de crédito que lleven las cuentas individuales reciban las cuotas, para abono de las cuentas respectivas, y serán pagaderos mediante su reinversión en las propias cuentas. Las instituciones de crédito podrán cargar mensualmente a las subcuentas de seguro de retiro, la comisión máxima por manejo de cuenta que determine la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México. La tasa de interés pagadera al trabajador, una vez descontada la mencionada comisión, no deberá ser inferior a la mínima señalada en el tercer párrafo del artículo 183-I.
+El saldo de las subcuentas del seguro de retiro se ajustará y devengará intereses en los mismos términos y condiciones previstos para los créditos a que se refiere el artículo anterior. Dichos intereses se causarán a más tardar a partir del cuarto día hábil bancario inmediato siguiente a aquél en que las instituciones de crédito u otras entidades que lleven las cuentas individuales reciban las cuotas; para abono de las cuentas respectivas, y serán pagaderos mediante su reinversión en las propias cuentas. Las instituciones o entidades que lleven las cuentas podrán cargar mensualmente a las subcuentas del seguro de retiro, la comisión máxima que por manejo de cuenta determine la Comisión Nacional del Sistema de Ahorro para el Retiro. La tasa de interés pagadera al trabajador, una vez descontada la mencionada comisión no deberá ser inferior a la mínima señalada en el tercer párrafo del artículo 183-I.
 
-> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 183-K.
 
-Las instituciones de crédito deberán informar al trabajador a quien le lleven su cuenta individual de ahorro para retiro, el estado de la misma cuando menos anualmente, en la forma que al efecto determine el Banco de México.
+Las instituciones de crédito o entidades financieras autorizadas, deberán informar al trabajador a quien le lleven su cuenta individual de ahorro para el retiro, el estado de la misma, con la periodicidad y en la forma que al efecto determine la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
-> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 183-L.
 
-El trabajador podrá, en cualquier tiempo, solicitar directamente a la institución depositaria el traspaso a otra institución de crédito, de los fondos de su cuenta individual del sistema de ahorro para el retiro, a fin de invertirlos en los términos establecidos en el presente Capítulo.
+El trabajador podrá, en cualquier tiempo, solicitar directamente a la institución o entidad depositaria el traspaso a otra institución de crédito o entidad financiera autorizada, de los fondos de su cuenta individual del sistema de ahorro para el retiro, a fin de invertirlos en los términos establecidos en el presente Capítulo.
 
-Ello, sin perjuicio de que el patrón pueda continuar enterando las cuotas en la institución de su elección, la cual extenderá los comprobantes respectivos de conformidad con lo establecido en el artículo 183-E.
+Ello, sin perjuicio de que el patrón pueda continuar enterando las cuotas en la institución o entidad de su elección, la cual extenderá los comprobantes respectivos de acuerdo con lo establecido en el articulo 183-E, o bien, de conformidad con lo que establezcan las disposiciones de la Comisión Nacional del Sistema del Ahorro para el Retiro.
 
-Los trabajadores que decidan traspasar los fondos de su cuenta individual de ahorro para retiro de una institución de crédito a otra, pagarán la comisión que determine el Banco de México. Dicha comisión será descontada a los trabajadores del importe de los fondos objeto del traspaso.
+Los trabajadores que decidan traspasar los fondos de su cuenta individual de ahorro para el retiro de una institución de crédito o entidad financiera autorizada a otra, pagaran, en su caso, como máximo, la comisión que determine la Comisión Nacional del Sistema de Ahorro para el Retiro. Dicha comisión será descontada a los trabajadores del importe de los fondos objeto del traspaso, o bien, pagada por las instituciones o entidades mencionadas según lo determine la Comisión.
 
-> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 183-M.
 
-El trabajador tendrá derecho a solicitar a la institución de crédito el traspaso de parte o la totalidad de los fondos de la subcuenta del seguro de retiro de su cuenta individual, a sociedades de inversión administradas por instituciones de crédito, casas de bolsa, instituciones de seguros o sociedades operadoras.
+El trabajador tendrá derecho a solicitar a la institución de crédito o entidad autorizada la transferencia de parte o la totalidad de los fondos de la subcuenta del seguro de retiro de su cuenta individual, a sociedades de inversión administradas por instituciones de crédito, casas de bolsa, instituciones de seguros o sociedades operadoras.
 
-Sin perjuicio de lo anterior, el patrón deberá continuar entregando las cuotas respectivas en la institución de crédito de su elección, para abono en la subcuenta del seguro de retiro del trabajador.
+Sin perjuicio de lo anterior, el patrón deberá continuar entregando las cuotas respectivas en la institución de crédito o entidad autorizada de su elección, para abono en la subcuenta del seguro de retiro del trabajador.
 
-Para la organización y el funcionamiento de las sociedades de inversión que administren los recursos provenientes de las mencionadas subcuentas, se requiere previa autorización de la Secretaría de Hacienda y Crédito Público, quien la otorgará o denegará discrecionalmente. Estas sociedades de inversión se sujetarán en cuanto a: la recepción de recursos, el tipo de instrumentos en los que puedan invertirlos, la expedición de estados de cuenta y demás características de sus operaciones, a las reglas de carácter general que expida la mencionada Secretaría oyendo la opinión del Banco de México.
+Para la organización y el funcionamiento de las sociedades de inversión que administren los recursos provenientes de las mencionadas subcuentas, se requiere previa autorización de la Comisión Nacional del Sistema de Ahorro para el Retiro, quien la otorgará o denegará discrecionalmente. Estas sociedades de inversión se sujetarán en cuanto a: su organización, la recepción de recursos, los tipos de instrumentos en los que puedan invertirlos, la expedición de estados de cuenta y demás características de sus operaciones, a las reglas de carácter general que expida la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
-En lo no expresamente previsto en este artículo y en las reglas a que se refiere el párrafo anterior, se estará a lo dispuesto en la Ley de Sociedades de Inversión.
+En lo no expresamente previsto en este articulo y en las reglas a que se refiere el párrafo anterior, se estará a lo dispuesto en la Ley de Sociedades de Inversión.
 
-El trabajador tendrá derecho a solicitar a la sociedad de inversión, el traspaso de parte o la totalidad de los fondos que hubiere invertido en términos del presente artículo, a otra de las sociedades de inversión referidas o a su institución de crédito que le lleve su cuenta individual de ahorro para retiro. El trabajador que se encuentre en cualquiera de los supuestos previstos en el artículo 183-O deberá solicitar a la sociedad de inversión de que se trate, el traspaso de los fondos respectivos a la institución de crédito citada.
+El trabajador tendrá derecho a solicitar a la sociedad de inversión, la transferencia de parte o la totalidad de los fondos que hubiere invertido en términos del presente artículo a otra de las sociedades de inversión referidas o a la Institución de crédito o entidad autorizada que le lleve su cuenta individual de ahorro para el retiro. El trabajador que se encuentre en cualquiera de los supuestos previstos en el artículo 183-O deberá solicitar a la sociedad de inversión de que se trate, la transferencia de los fondos respectivos a la institución de crédito o entidad citada.
 
-En caso de que el trabajador solicite traspasos de fondos a sociedades de inversión, en los términos de este artículo, sólo responderán de los mismos y de sus rendimientos dichas sociedades de inversión.
+En caso de que el trabajador solicite la transferencia de fondos a sociedades de inversión, en los términos de este articulo, sólo responderán de los mismos y de sus rendimientos dichas sociedades de inversión.
 
-> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 183-N.
 
-El trabajador podrá retirar el saldo de la subcuenta del seguro de retiro de su cuenta individual, siempre y cuando por razones de una nueva relación laboral, deje de ser sujeto de aseguramiento obligatorio del Instituto y dicho saldo se abone en otra cuenta a su nombre en algún otro mecanismo de ahorro para retiro de los que al efecto señale el comité técnico del sistema de ahorro para el retiro.
+El trabajador podrá retirar el saldo de la subcuenta del seguro de retiro de su cuenta individual, siempre y cuando por razones de una nueva relación laboral, deje de ser sujeto de aseguramiento obligatorio del Instituto y dicho saldo se abone en otra cuenta a su nombre en algún otro mecanismo de ahorro para el retiro de los que al efecto señale la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
-> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 183
 
-Ñ.- El trabajador tendrá derecho a solicitar la contratación de un seguro de vida, con cargo a los recursos de la subcuenta del seguro de retiro, en los términos que al efecto determine el comité técnico del sistema de ahorro para el retiro.
+Ñ.- El trabajador tendrá derecho a solicitar la contratación de un seguro de vida o invalidez, con cargo a los recursos de la subcuenta del seguro de retiro, en los términos que al efecto determine la Comisión Nacional del Sistema de Ahorro para el Retiro.
+
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
 Las instituciones de seguros no podrán otorgar préstamos o créditos con cargo a dichos seguros.
 
-> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 183-O.
 
-El trabajador que cumpla sesenta y cinco años de edad o adquiera el derecho a disfrutar una pensión por cesantía en edad avanzada, vejez, invalidez, incapacidad permanente total o incapacidad permanente total parcial del 50% o más, en los términos de esta Ley o de algún plan de pensiones establecido por su patrón o derivado de contratación colectiva, tendrá derecho a que la institución de crédito que lleve su cuenta individual de ahorro para retiro, le entregue por cuenta del Instituto, los fondos de la subcuenta del seguro de retiro, situándoselos en la entidad financiera que el trabajador designe, a fin de adquirir una pensión vitalicia, o bien entregándoselos al propio trabajador en una sola exhibición.
+El trabajador que cumpla sesenta y cinco años de edad o adquiera el derecho a disfrutar una pensión por cesantía en edad avanzada, vejez, invalidez, incapacidad permanente total o incapacidad permanente parcial del 50% o más, en los términos de esta Ley o de algún plan de pensiones establecido por su patrón o derivado de contratación colectiva, tendrá derecho a que la institución de crédito o entidad financiera autorizada que lleve su cuenta individual de ahorro para el retiro, le entregue por cuenta del Instituto, los fondos de la subcuenta del seguro de retiro, situándoselos en la entidad financiera que el trabajador designe, a fin de adquirir una pensión vitalicia, o bien entregándoselos al propio trabajador en una sola exhibición.
 
-El trabajador deberá solicitar por escrito a la institución de crédito la entrega de los fondos de la subcuenta del seguro de retiro de su cuenta individual, acompañando los documentos que al efecto señale la Secretaría del Trabajo y Previsión Social.
+El trabajador deberá solicitar por escrito a la institución de crédito o a la entidad financiera autorizada la entrega de los fondos de la subcuenta del seguro de retiro de su cuenta individual, acompañando los documentos que al efecto señale la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
-Los planes de pensiones a que se refiere el primer párrafo, serán sólo los que reúnan los requisitos que establezca la Secretaría de Hacienda y Crédito Público.
+Los planes de pensiones a que se refiere el primer párrafo, serán sólo los que cumplan los requisitos que establezca la citada Comisión.
 
-> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 183-P.
 
-Tratándose de incapacidades temporales del trabajador, si éstas se prolongan por más tiempo que los períodos de prestaciones fijados por esta Ley, éste tendrá derecho a que la institución de crédito le entregue, por cuenta del Instituto, una cantidad no mayor a 10 por ciento del saldo de la subcuenta del seguro de retiro de su cuenta individual. Para tal efecto, el trabajador deberá proceder en los términos a que se refiere el penúltimo párrafo del artículo 183-O.
+Tratándose de incapacidades temporales del trabajador, si éstas se prolongan por más tiempo que los periodos de prestaciones fijados por esta Ley, éste tendrá derecho a que la institución de crédito o entidad financiera, le entregue, por cuenta del Instituto, una cantidad no mayor al 10 por ciento del saldo de la subcuenta del seguro de retiro de su cuenta individual. Para tal efecto, el trabajador deberá proceder en los términos a que se refiere el penúltimo párrafo del artículo 183-O.
 
 > <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
@@ -2128,17 +2134,21 @@ Tratándose de incapacidades temporales del trabajador, si éstas se prolongan p
 
 Durante el tiempo en que el trabajador deje de estar sujeto a una relación laboral, tendrá derecho a:
 
-I. Realizar aportaciones a la subcuenta del seguro de retiro de su cuenta individual, siempre y cuando las mismas sean, por un importe no inferior al equivalente a cinco días de salario mínimo general vigente en el Distrito Federal. Lo anterior, sin perjuicio de que las instituciones de crédito puedan recibir aportaciones por montos menores. Estas cuentas quedarán sujetas, en lo conducente, a las disposiciones establecidas en este Capítulo, y
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
+
+I. Realizar aportaciones a la subcuenta del seguro de retiro de su cuenta individual, siempre y cuando las mismas sean, por un importe no inferior al equivalente a cinco días de salario mínimo general vigente en el Distrito Federal. Lo anterior, sin perjuicio de que las instituciones de crédito o entidades financieras autorizadas puedan recibir aportaciones por montos menores. Estas cuentas quedarán sujetas, en lo conducente, a las disposiciones establecidas en este Capítulo; y
 
 II. Retirar de la subcuenta del seguro de retiro de su cuenta individual una cantidad no mayor al 10 por ciento del saldo de la propia subcuenta.
 
-El derecho consignado en esta fracción, sólo podrán ejercerlo los trabajadores cuyo saldo de la subcuenta del seguro de retiro, registre a la fecha de la solicitud respectiva una cantidad no inferior equivalente al resultado de multiplicar por dieciocho el monto de la última cuota invertida en la subcuenta de que se trate, y siempre que acredite con los estados de cuenta correspondientes, no haber efectuado retiros durante los cinco años inmediatos anteriores a la fecha citada. El trabajador deberá presentar la solicitud respectiva de conformidad con lo establecido en el penúltimo párrafo del artículo 183-O.
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
-> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+El derecho consignado en esta fracción, sólo podrán ejercerlo los trabajadores cuyo saldo de la subcuenta del seguro de retiro, registre a la fecha de la solicitud respectiva una cantidad no inferior equivalente al resultado de multiplicar por dieciocho el monto de la última cuota invertida en la subcuenta de que se trate, y siempre que acredite con los estados de cuenta correspondientes, no haber efectuado retiros durante los cinco años inmediatos anteriores a la fecha citada. El trabajador deberá presentar la solicitud respectiva de conformidad con lo previsto en el penúltimo párrafo del artículo 183-O.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 183-R.
 
-Los trabajadores tendrán en todo tiempo el derecho de hacer aportaciones adicionales a su cuenta individual, ya sea por conducto de su patrón al efectuarse el entero de las cuotas, o mediante la entrega de efectivo o documentos aceptables para la institución que los reciba.
+Los trabajadores tendrán en todo tiempo el derecho a hacer aportaciones adicionales a su cuenta individual, ya sea por conducto de su patrón al efectuarse el entero de las cuotas o mediante la entrega de efectivo o documentos aceptables para la institución o entidad que los reciba.
 
 > <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
@@ -2146,13 +2156,15 @@ Los trabajadores tendrán en todo tiempo el derecho de hacer aportaciones adicio
 
 El trabajador titular de una cuenta individual del sistema de ahorro para el retiro, deberá, a la apertura de la misma designar beneficiarios. Lo anterior, sin perjuicio de que en cualquier tiempo el trabajador pueda sustituir a las personas que hubiere designado, así como modificar, en su caso, la proporción correspondiente a cada una de ellas.
 
-> <small>(F. DE E., D.O.F. 12 DE MARZO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
-En caso de fallecimiento del trabajador, la institución de crédito respectiva entregará el saldo de la cuenta individual a los beneficiarios que el titular haya señalado por escrito para tal efecto, en la forma elegida por el beneficiario de entre las señaladas en el artículo 183-O. La designación de beneficiarios queda sin efecto si el o los designados mueren antes que el titular de la cuenta.
+En caso de fallecimiento del trabajador, la institución de crédito o entidad financiera respectiva entregará el saldo de la cuenta individual a los beneficiarios que el titular haya señalado por escrito para tal efecto, en la forma elegida por el beneficiario de entre las señaladas en el artículo 183-O. La designación de beneficiarios queda sin efecto si el o los designados mueren antes que el titular de la cuenta.
 
 A falta de los beneficiarios a que se refiere el párrafo anterior, dicha entrega se hará en el orden de prelación previsto en el artículo 501 de la Ley Federal del Trabajo.
 
-Los beneficiarios deberán presentar solicitud por escrito a las instituciones de crédito, en los términos señalados en el penúltimo párrafo del artículo 183-O de esta Ley.
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+Los beneficiarios deberán presentar solicitud por escrito a las instituciones de crédito o entidades financieras, en los términos señalados en el penúltimo párrafo del artículo 183-O de esta Ley.
 
 ### CAPITULO VI. Del Seguro de Guarderías para Hijos de Aseguradas
 
@@ -2524,6 +2536,10 @@ XIII.- Establecer los procedimientos para la inscripción, cobro de cuotas y oto
 
 XIV.- Determinar los créditos a favor del Instituto y las bases para la liquidación de cuotas y recargos, así como para fijarlos en cantidad líquida, cobrarlos y percibirlos, de conformidad con la presente Ley y demás disposiciones aplicables;
 
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+Las liquidaciones de las cuotas del seguro de retiro podrán ser emitidas y notificadas conjuntamente con las liquidaciones de las aportaciones y descuentos correspondientes al Fondo Nacional de la Vivienda, por el personal del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, previo convenio de coordinación con el citado Instituto;
+
 XV.- Determinar la existencia, contenido y alcance de las obligaciones incumplidas por los patrones y demás sujetos obligados en los términos de esta Ley y demás disposiciones relativas, aplicando en su caso, los datos con los que cuente o los que de acuerdo con sus experiencias considere como probables;
 
 XVI.- Ratificar, rectificar y cambiar la clasificación y el grado de riesgo de las empresas para efectos de la cobertura de las cuotas del seguro de riesgos de trabajo;
@@ -2592,9 +2608,7 @@ III.- La comisión de vigilancia;
 
 IV.- La dirección general, y
 
-> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 1992)</small>
-
-V.- El comité técnico del sistema de ahorro para el retiro.
+V.- (DEROGADA, D.O.F. 22 DE JULIO DE 1994)
 
 ### CAPITULO II. De la Asamblea General
 
@@ -2683,6 +2697,10 @@ X.- Proponer al Ejecutivo Federal las modalidades al régimen obligatorio a que 
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
 
 X bis.- Establecer los procedimientos para la inscripción, cobro de cuotas y otorgamiento de prestaciones;
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+En el establecimiento o modificación de los avisos de afiliación-vigencia de derechos, se deberá tomar en cuenta la opinión de la Comisión Nacional del Sistema de Ahorro para el Retiro;
 
 XI.- Autorizar la celebración de convenios relativos al pago de cuotas;
 
@@ -2816,37 +2834,21 @@ III.- Ventilar y resolver los recursos previstos en el Código Fiscal de la Fede
 
 IV.- Las demás que señalen esta Ley, sus reglamentos y demás disposiciones legales.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ### CAPITULO V BIS. Del comité técnico del sistema de ahorro para el retiro
 
-> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
-
 ###### ARTICULO 258-F.
 
-El comité técnico del sistema de ahorro para el retiro estará integrado por nueve miembros propietarios, designados: tres por la Secretaría de Hacienda y Crédito Público, uno por la Secretaría del Trabajo y Previsión Social, tres por el Instituto Mexicano del Seguro Social y dos por el Banco de México. Por cada miembro propietario se designará un suplente. Asimismo, el comité contará con un Secretario.
-
-Los miembros propietarios y suplentes del comité, serán designados por los titulares de las dependencias y entidades mencionadas en el párrafo anterior, de entre las personas que ocupen los cargos de Subsecretario o Director General de la Administración Pública Centralizada o su equivalente.
-
-Tratándose del Instituto Mexicano del Seguro Social su participación en el Comité será de carácter tripartita, debiendo recaer en favor de los sectores representados en su Consejo Técnico, dando preferencia a las organizaciones de representación mayoritaria.
-
-> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+(DEROGADO, D.O.F. 22 DE JULIO DE 1994)
 
 ###### ARTICULO 258-G.
 
-Al comité técnico del sistema de ahorro para el retiro corresponderá: a) actuar como órgano de consulta respecto de asuntos relativos al sistema de ahorro para el retiro; b) en su caso, recomendar a las autoridades competentes la adopción de criterios y la expedición de disposiciones sobre dicho sistema; c) autorizar modalidades particulares para el cumplimiento de obligaciones y el ejercicio de derechos a que se refiere este Capítulo siempre que, a juicio del comité, el tratamiento concedido por virtud de dichas autorizaciones sea conveniente hacerlo extensivo a todas las personas que se encuentren en el mismo supuesto; d) resolver sobre las circunstancias específicas no previstas en el presente Capítulo, siempre que, a criterio del comité, el tratamiento concedido por virtud de tales resoluciones sea conveniente hacerlo extensivo a todas las personas que se encuentren en el mismo supuesto, y e) las demás que le señalen otras disposiciones.
-
-El comité publicará en el Diario Oficial de la Federación las autorizaciones y resoluciones a que se refiere el presente artículo.
-
-> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+(DEROGADO, D.O.F. 22 DE JULIO DE 1994)
 
 ###### ARTICULO 258-H.
 
-El comité sesionará cundo menos una vez cada cuatro meses y, en fecha distinta, a petición de cualquiera de sus miembros propietarios.
-
-Las reuniones del comité serán presididas por el miembro propietario que al efecto se designe de entre los presentes. Quien presida tendrá voto de calidad en caso de empate.
-
-Para que el comité pueda sesionar válidamente, se requerirá la asistencia de cuatro de sus miembros, debiendo estar presente (sic) representantes de cada una de las Secretarías y del Banco de México. Las resoluciones se tomarán por mayoría de votos de los miembros presentes.
+(DEROGADO, D.O.F. 22 DE JULIO DE 1994)
 
 ### CAPITULO VI. De la Inversión de las Reservas
 
@@ -3480,19 +3482,9 @@ Sexto.- La reforma del artículo 118 de este ordenamiento, no tendrá aplicació
 
 La reforma a la fracción II del artículo 196 de este ordenamiento, sólo tendrá aplicación respecto de los asegurados que ingresen por primera vez al régimen obligatorio al entrar en vigor la misma, no así para los inscritos con antelación.
 
-Séptimo.- En apoyo a los patrones para que cumplan con la obligación de autodeterminarse para el pago de cuotas obrero patronales, el Instituto continuará emitiendo las liquidaciones de la siguiente manera:
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
-Número de Ultimo bimestre de emisió (sic)
-
-trabajadores Instituto Mexicano
-
-por patrón del Seguro Social
-
-Más de cincuenta 1o. de 1994
-
-De diez y hasta cincuenta 4o. de 1994
-
-Menos de diez 1o. de 1995
+Séptimo.- En apoyo a los patrones para que cumplan con la obligación de autodeterminarse para el pago de cuotas obrero patronales, el Instituto podrá continuar emitiendo las liquidaciones para los patrones que tengan a su servicio cincuenta o menos trabajadores.
 
 Octavo.- Se reforma el Artículo Segundo Transitorio del Decreto por el que se Reforman, Adicionan, y Derogan Diversos Articulos de la Ley del Seguro Social, publicado en el Diario Oficial de la Federación del día 27 de diciembre de 1990, para quedar como sigue:
 
@@ -3515,3 +3507,25 @@ Primero. El presente decreto entrará en vigor el (sic)
 Segundo. Durante el período comprendido entre el 1o. de junio de 1994 al 31 de diciembre de 1994, la pensión de invalidez, vejez o cesantía en edad avanzada, incluyendo las asignaciones familiares y ayudas asistenciales que en su caso correspondan, no podrá ser inferior al 95% del salario mínimo general que rija para el Distrito Federal.
 
 Tercero. El Instituto Mexicano del Seguro Social podrá utilizar los activos financieros señalados en el artículo 264 de la Ley del Seguro Social que sean indispensables para financiar los incrementos a que se refiere el transitorio anterior.
+
+D.O.F. 22 DE JULIO DE 1994.
+
+SE TRANSCRIBEN LOS TRANSITORIOS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
+
+TERCERO.- Quedan en vigor las Reglas, Resoluciones y demás disposiciones emitidas con anterioridad en materia de los Sistemas de Ahorro para el Retiro, hasta en tanto no sean modificadas o abrogadas por la Comisión Nacional del Sistema de Ahorro para el Retiro en ejercicio de las atribuciones que este decreto le confiere.
+
+CUARTO.- Las facultades y funciones a que se refiere este decreto, continuarán a cargo de las dependencias, entidades y órganos, en el ámbito de sus respectivas competencias, hasta en tanto entre en funciones la Comisión Nacional del Sistema de Ahorro para el Retiro, en términos del artículo octavo transitorio.
+
+QUlNTO.- El Secretario de Hacienda y Crédito Público nombrará al Presidente de la Comisión dentro de los treinta días siguientes a aquél en que este decreto entre en vigor.
+
+SEXTO.- Dentro de los treinta días siguientes a su designación, el Presidente de la Comisión convocará a las dependencias del Ejecutivo Federal, a los institutos de seguridad social y al Banco de México, a efecto de que sean designados los miembros suplentes de la Junta de Gobierno, conforme a lo dispuesto en el artículo 5o. de la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro a más tardar en un plazo de treinta días contado a partir de la fecha de recepción de la convocatoria.
+
+SEPTIMO.- Dentro de los cuarenta días siguientes a la fecha en que la Junta de Gobierno queda integrada, el Presidente de la Comisión convocará a las personas, asociaciones, instituciones y dependencias a que se refieren los artículos 10 y 11 de la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro a efecto de que dentro de un plazo de veinte días, designen a los miembros del Comité Técnico Consultivo así como a los del Comité de Vigilancia.
+
+OCTAVO.- La Secretaría de Hacienda y Crédito Público dispondrá del término de ciento ochenta días a partir de la vigencia de este decreto, para que en el orden administrativo establezca lo necesario para el funcionamiento de la Comisión Nacional del Sistema de Ahorro para el Retiro debiendo proveer los recursos humanos, materiales y presupuestales que se requieran. El Capitulo V "De la Protección de los Intereses de los Trabajadores Cuentahabientes" de la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro, entrará en vigor a los doscientos setenta días de la entrada en vigor de este decreto.
+
+NOVENO.- El Reglamento Interior de la Comisión, deberá expedirse en un plazo no mayor de ciento ochenta días, contado a partir del día en que quede legalmente instalada la Junta de Gobierno y deberá ser publicado en el Diario Oficial de la Federación.
