@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-para-los-establecimientos-de-reclusion-7533
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-03-16"
-last_updated: "1984-03-16"
+last_updated: "1992-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR PARA LOS ESTABLECIMIENTOS DE RECLUSION DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 1992.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 16 de marzo de 1984.
 
@@ -47,9 +47,13 @@ Corresponde a la Dirección de Centros de Readaptación Social del Estado de Pue
 
 Este reglamento tendrá aplicación en todos los establecimientos dependientes del Poder Ejecutivo del Estado, destinados a la ejecución de penas privativas de la libertad, a la custodia preventiva de indiciados, procesados y al arresto, de acuerdo a las condiciones propias de cada establecimiento.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 1992)</small>
+
 ###### ARTICULO 4o.
 
-La Dirección de Centros de Readaptación Social del Estado, empleará en los establecimientos medios educativos, socio-culturales, morales, así como el trabajo y adiestramiento para el mismo y todas las formas de asistencia con que se cuente, para que el interno pueda obtener una readaptación progresiva a la que será su vida en libertad.
+La Dirección de Centros de Readaptación Social del Estado de Puebla, implementará en los establecimientos a su cargo, medios educativos, socio-culturales, morales, así como de trabajo y adiestramiento, para que los mismos y todas las formas de asistencia con que se cuente, sirvan para obtener una readaptación progresiva de los internos.
+
+El Estado, por conducto de la Dirección de Centros de Readaptación Social, concesionará a los particulares, las áreas necesarias para el establecimiento de fuentes de trabajo, a través de pequeñas industrias.
 
 ###### ARTICULO 5o.
 
@@ -163,7 +167,7 @@ En tratándose (sic) del sistema de manejo de fondos propiedad de los reclusos, 
 
 La Dirección de Centros de Readaptación Social firmará convenios con las Dependencias Federales o Estatales encargadas del sistema, para establecer a su cargo tiendas que expenderán a los internos artículos de uso o consumo.
 
-En ningún caso dará concesión a particulares y el precio de los artículos será igual al que rija en las tiendas del estado de Puebla.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 11 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 24.
 
@@ -441,9 +445,11 @@ En términos del artículo 31 de la Ley de Ejecución de Sanciones Privativas de
 
 El trabajo de los internos en los establecimientos, será considerado para el beneficio de la remisión parcial de la pena, así como para el otorgamiento de incentivos y estímulos a que se refiere el capítulo correspondiente de este reglamento.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 1992)</small>
+
 ###### ARTICULO 70.
 
-Siendo el trabajo uno de los medios para la readaptación social del interno, no podrá éste implantarse en los establecimientos como corrección disciplinaria, ni ser objeto de contratación individual o colectiva por particulares.
+Siendo el trabajo un medio para la readaptación social del interno, no podrá imponerse éste como corrección disciplinaria.
 
 ###### ARTICULO 71.
 
@@ -1012,3 +1018,15 @@ III.- El Ejecutivo del Estado expedirá los instructivos para internos, para per
 IV.- Se derogan las disposiciones que se opongan a este reglamento.
 
 Dado en el Palacio del Poder Ejecutivo, en la Heroica Ciudad de Puebla de Zaragoza a los veintidós días del mes de febrero de mil novecientos ochenta y cuatro.- El Gobernador Constitucional del Estado.- Lic. Guillermo Jiménez Morales.- Rúbrica.- El Secretario de Gobernación.- Lic. Carlos Palafox Vázquez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE FEBRERO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto de reformas y derogación, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
