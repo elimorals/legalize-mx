@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "1996-11-08"
+last_updated: "1997-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 1997.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -1029,11 +1029,13 @@ En las empresas de participación estatal minoritaria donde el Gobierno del Esta
 
 Previa autorización del Congreso, el Gobierno del Estado podrá asociarse en empresas de participación estatal mayoritaria o minoritaria, cuando se trate de apoyar actividades estratégicas del desarrollo económico.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 52.
 
-Los títulos que representen las acciones del Gobierno en las empresas de participación mayoritarias o minoritarias serán inalienables y sólo con autorización del Congreso podrán ser transferidas.
+Los títulos que representen acciones del gobierno en las empresas de participación estatal mayoritarias o minoritarias serán inalienables y sólo con autorización del Congreso podrán ser transferidas.
 
-Para el eficaz control del régimen patrimonial y financiero de esta participación, se estará a lo que establece el Artículo 46 de esta Ley.
+Para el eficaz control del régimen patrimonial y financiero de esta participación, se estará a lo que establece el artículo 46 de esta Ley, excepto en las empresas de participación estatal mayoritaria en que el Gobierno del Estado no tenga la facultad de designar a la mayoría de los miembros del Consejo de Administración, o cuando el Ejecutivo Estatal carezca de facultades para vetar los acuerdos de la Asamblea General de Accionistas.
 
 ### CAPITULO III
 
@@ -1226,3 +1228,9 @@ PRIMERO.- Remítase de nueva cuenta al Ejecutivo del Estado el Proyecto de Decre
 SEGUNDO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Se derogan las disposiciones que se opongan a las presentes adiciones.
+
+P.O. 21 DE FEBRERO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
