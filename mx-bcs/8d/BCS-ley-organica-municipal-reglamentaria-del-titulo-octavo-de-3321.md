@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-municipal-reglamentaria-del-titulo-octavo-de-3321"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1988-02-20"
+last_updated: "1988-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA MUNICIPAL REGLAMENTARIA DEL TITULO OCTAVO DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE FEBRERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1988.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 1976.
 
@@ -1117,11 +1117,15 @@ Las infracciones a las normas contenidas en los Bandos y Reglamentos Municipales
 
 I. Amonestación.
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
-II. Multa hasta $50,000. (Cincuenta mil pesos 00/100 M.N.) pero si el infractor no pagara la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de 36 horas.
+II. Multa hasta el equivalente al importe de 200 días de salario mínimo general vigente en el Municipio, pero si el infractor no pagara la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de 36 horas.
 
-Si el infractor fuese jornalero, obrero o trabajador no podrá ser sancionado con multa mayor que el importe de su jornal o salario de un día.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 Tratándose de trabajadores no asalariados la multa no excederá del equivalente de un día de su ingreso.
 
@@ -1362,3 +1366,9 @@ B.O. 20 DE FEBRERO DE 1988.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
