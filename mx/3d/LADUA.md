@@ -4,7 +4,7 @@ identifier: "LADUA"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-15"
-last_updated: "2003-04-28"
+last_updated: "2005-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=744&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,9 +24,9 @@ LEY ADUANERA
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2002.
 
-ULTIMA ACTUALIZACION POR MISCELANEA DE COMERCIO EXTERIOR: 28 DE ABRIL DE 2003.
+ULTIMA ACTUALIZACION POR MISCELANEA DE COMERCIO EXTERIOR: 4 DE ABRIL DE 2005.
 
-Ley Publicada en la Segunda Sección del Diario Oficial de la Federación el viernes 15 de diciembre de 1995.
+Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de diciembre de 1995.
 
 DECRETO por el que se expiden nuevas leyes fiscales y se modifican otras.
 
@@ -336,9 +336,9 @@ La Secretaría podrá autorizar a los particulares para prestar los servicios de
 
 I. Tener cinco años de experiencia, prestando los servicios que se vayan a autorizar.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-II. Tener un capital social pagado de por lo menos $1,341,406.00.
+II. Tener un capital social pagado de por lo menos $1,373,988.00.
 
 III. Cumplir con los requisitos de procedimiento que la Secretaría establezca en la convocatoria que para estos efectos publique en el Diario Oficial de la Federación.
 
@@ -868,7 +868,7 @@ Se causarán los siguientes impuestos al comercio exterior:
 
 I. General de importación, conforme a la tarifa de la ley respectiva.
 
-Il. General de exportación, conforme a la tarifa de la ley respectiva.
+II. General de exportación, conforme a la tarifa de la ley respectiva.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -1756,7 +1756,7 @@ I. Se determinará el margen de error en las importaciones a que tendrá derecho
 
 CE
 
-ME = (-------------------------) X 100
+ME = (------------------------------) X 100
 
 CE + CDV
 
@@ -1772,7 +1772,7 @@ II. Se determinará el porcentaje de contribuciones y cuotas compensatorias omit
 
 CO
 
-PCO = (---------------------) X 100
+PCO = (---------------------------) X 100
 
 CO + CDR
 
@@ -1794,7 +1794,7 @@ si PCO > ME, entonces el monto total por concepto de contribuciones y cuotas com
 
 PCO-ME
 
-(------------------)x (CDV + CE)
+(--------------------------)x (CDV + CE)
 
 100
 
@@ -2164,7 +2164,7 @@ Se entiende por régimen de exportación temporal para retornar al país en el m
 
 Se autoriza la salida del territorio nacional de las mercancías bajo el régimen a que se refiere el artículo 115 de esta Ley por los siguientes plazos:
 
-l. Hasta por tres meses, las de remolques y semirremolques, incluyendo aquellos diseñados y utilizados exclusivamente para el transporte de contenedores.
+I. Hasta por tres meses, las de remolques y semirremolques, incluyendo aquellos diseñados y utilizados exclusivamente para el transporte de contenedores.
 
 II. Hasta por seis meses, en los siguientes casos:
 
@@ -2250,7 +2250,7 @@ A partir de la fecha en que las mercancías nacionales queden en depósito fisca
 
 Las mercancías en depósito fiscal podrán retirarse del lugar de almacenamiento para:
 
-l. Importarse definitivamente, si son de procedencia extranjera.
+I. Importarse definitivamente, si son de procedencia extranjera.
 
 II. Exportarse definitivamente, si son de procedencia nacional.
 
@@ -2530,7 +2530,7 @@ II. Equipos y aparatos para el control de la contaminación; para la investigaci
 
 III. Equipo para el desarrollo administrativo.
 
-> <small>(ADICIONADO, D.O.F 30 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 135-D.
 
@@ -2766,7 +2766,7 @@ XX. Establecer marbetes o sellos especiales para las mercancías o sus envases, 
 
 XXI. Otorgar, suspender y cancelar las patentes de los agentes aduanales, así como otorgar, suspender, cancelar y revocar las autorizaciones de los apoderados aduanales.
 
-XXII. Dictar las reglas correspondientes para el despacho conjunto a que se refiere la fracción lIl del artículo 143 de esta Ley.
+XXII. Dictar las reglas correspondientes para el despacho conjunto a que se refiere la fracción III del artículo 143 de esta Ley.
 
 XXIII. Expedir, previa opinión de la Secretaría de Comercio y Fomento Industrial, reglas para la aplicación de las disposiciones en materia aduanera de los tratados o acuerdos internacionales de los que México sea parte.
 
@@ -3150,7 +3150,7 @@ La Secretaría podrá expedir, a petición del interesado, patentes de agente ad
 
 El agente aduanal deberá cubrir los siguientes requisitos para operar:
 
-l. Haber efectuado el despacho por cuenta de un mínimo de cinco personas que realicen actividades empresariales, en el mes anterior al de que se trate.
+I. Haber efectuado el despacho por cuenta de un mínimo de cinco personas que realicen actividades empresariales, en el mes anterior al de que se trate.
 
 El requisito será exigible en los primeros veinticuatro meses en que opere como agente aduanal.
 
@@ -3194,9 +3194,9 @@ Cuando los agentes aduanales tengan autorización para despachar en aduanas dist
 
 La propia Secretaría podrá cambiar la obligación a que se refiere el primer párrafo de esta fracción, autorizando, a petición de los agentes aduanales de un determinado lugar, que el servicio se proporcione en forma rotatoria o permanente para el total de las operaciones a que se refiere esta fracción por uno o varios agentes.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-En los casos a que se refiere esta fracción, el agente aduanal tendrá derecho a una contraprestación de $179.00 por cada operación.
+En los casos a que se refiere esta fracción, el agente aduanal tendrá derecho a una contraprestación de $183.00 por cada operación.
 
 X. Utilizar los candados oficiales en los vehículos y contenedores que transporten las mercancías cuyo despacho promueva, de conformidad con lo que establezca la Secretaría mediante reglas, así como evitar que los candados fiscales que adquiera de los importadores o fabricantes autorizados, se utilicen en contenedores o vehículos que transporten mercancías cuyo despacho no hubiere promovido.
 
@@ -3224,7 +3224,7 @@ II. Cuando la patente se le hubiera expedido en los términos del último párra
 
 Son obligaciones del agente aduanal:
 
-l. En los trámites o gestiones aduanales, actuar siempre con su carácter de agente aduanal.
+I. En los trámites o gestiones aduanales, actuar siempre con su carácter de agente aduanal.
 
 II. Realizar el descargo total o parcial en el medio magnético, en los casos de las mercancías sujetas a regulaciones y restricciones no arancelarias cuyo cumplimiento se realice mediante dicho medio, en los términos que establezca la Secretaría de Comercio y Fomento Industrial, y anotar en el pedimento respectivo la firma electrónica que demuestre dicho descargo.
 
@@ -3278,7 +3278,7 @@ XII. Presentar aviso al Servicio de Administración Tributaria, dentro de los qu
 
 Son derechos del agente aduanal:
 
-l. Ejercer la patente.
+I. Ejercer la patente.
 
 II. Constituir sociedades integradas por mexicanos para facilitar la prestación de sus servicios. La sociedad y sus socios, salvo los propios agentes aduanales, no adquirirán derecho alguno sobre la patente, ni disfrutarán de los que la ley confiere a estos últimos.
 
@@ -3334,9 +3334,9 @@ VI. Declarar con inexactitud en el pedimento, siempre que resulte lesionado el i
 
 No procederá la suspensión a que se refiere esta fracción, cuando la omisión de contribuciones y cuotas compensatorias, en su caso, se deba a la inexacta clasificación arancelaria por diferencia de criterios en la interpretación de las tarifas contenidas en las leyes de los impuestos generales de importación o exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-VII. Tratándose de los regímenes aduaneros temporales, de depósito fiscal y de tránsito de mercancías, declarar con inexactitud alguno de los datos a que se refiere el primer párrafo de la fracción II, del artículo 165 de esta Ley, siempre que con los datos aportados, excluida la liquidación provisional a que se refieren los artículos 127, fracción II y 131, fracción II de esta Ley, de haberse destinado la mercancía de que se trate al régimen de importación definitiva, la omisión no exceda de $96,986.00.
+VII. Tratándose de los regímenes aduaneros temporales, de depósito fiscal y de tránsito de mercancías, declarar con inexactitud alguno de los datos a que se refiere el primer párrafo de la fracción II, del artículo 165 de esta Ley, siempre que con los datos aportados, excluida la liquidación provisional a que se refieren los artículos 127, fracción II y 131, fracción II de esta Ley, de haberse destinado la mercancía de que se trate al régimen de importación definitiva, la omisión no exceda de $99,342.00.
 
 VIII. Carecer por primera y segunda ocasión de bienes suficientes para cubrir créditos fiscales que hayan quedado firmes, y que para su cobro se haya seguido el procedimiento administrativo de ejecución. En este caso, la suspensión será por el tiempo que subsista la causa que la motivó.
 
@@ -3352,9 +3352,9 @@ I. Contravenir lo dispuesto en el artículo 163, fracción II.
 
 II. Declarar con inexactitud algún dato en el pedimento, o en la factura tratándose de operaciones con pedimento consolidado, siempre que se dé alguno de los siguientes supuestos:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-a) La omisión en el pago de impuestos al comercio exterior, derechos y cuotas compensatorias, en su caso, exceda de $138,552.00 y dicha omisión represente más del 10% del total de los que debieron pagarse.
+a) La omisión en el pago de impuestos al comercio exterior, derechos y cuotas compensatorias, en su caso, exceda de $141,917.00 y dicha omisión represente más del 10% del total de los que debieron pagarse.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -3378,9 +3378,9 @@ VI. Permitir que un tercero, cualquiera que sea su carácter, actúe al amparo d
 
 VII. Tratándose de los regímenes aduaneros temporales, de depósito fiscal y de tránsito de mercancías, declarar con inexactitud alguno de los datos a que se refiere el primer párrafo de la fracción II de este artículo, siempre que con los datos aportados, excluida la liquidación provisional a que se refieren los artículos 127, fracción II y 131, fracción II de esta Ley, de haberse destinado la mercancía de que se trate al régimen de importación definitiva, se dé alguno de los siguientes supuestos:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-a) La omisión exceda de $138,552.00 y del 10% de los impuestos al comercio exterior, derechos y, en su caso, cuotas compensatorias causadas.
+a) La omisión exceda de $141,917.00 y del 10% de los impuestos al comercio exterior, derechos y, en su caso, cuotas compensatorias causadas.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -3532,9 +3532,9 @@ Será cancelada la autorización de apoderado aduanal, independientemente de las
 
 I. Declarar con inexactitud algún dato en el pedimento, o en la factura tratándose de operaciones con pedimento consolidado, siempre que se dé alguno de los siguientes supuestos:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-a) La omisión en el pago de impuestos al comercio exterior, derechos y cuotas compensatorias, en su caso, exceda de $96,986.00 y dicha omisión represente más del 10% del total de los que debieron pagarse.
+a) La omisión en el pago de impuestos al comercio exterior, derechos y cuotas compensatorias, en su caso, exceda de $99,342.00 y dicha omisión represente más del 10% del total de los que debieron pagarse.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -3554,9 +3554,9 @@ IV. Permitir que un tercero, cualquiera que sea su carácter, actúe al amparo d
 
 V. Tratándose de los regímenes aduaneros temporales, de depósito fiscal y de tránsito interno de mercancías, declarar con inexactitud alguno de los datos a que se refiere el primer párrafo de la fracción I de este artículo, siempre que con los datos aportados, excluida la liquidación provisional a que se refiere el artículo 127, fracción II de esta Ley, de haberse destinado las mercancías de que se trate al régimen de importación definitiva, se dé alguno de los siguientes supuestos:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-a) La omisión exceda de $96,986.00 y del 10% de los impuestos al comercio exterior, derechos y, en su caso, cuotas compensatorias causadas.
+a) La omisión exceda de $99,342.00 y del 10% de los impuestos al comercio exterior, derechos y, en su caso, cuotas compensatorias causadas.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -3566,9 +3566,9 @@ c) Se trate de mercancías de importación o exportación prohibida.
 
 VI. Cuando cometa alguna de las infracciones previstas en el artículo 176 de esta Ley.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-No será cancelada la autorización de apoderado aduanal siempre que la omisión en el pago de impuestos al comercio exterior, derechos y cuotas compensatorias, no represente más de un 10% del total de los que debieron pagarse y dicha omisión no exceda de $96,986.00.
+No será cancelada la autorización de apoderado aduanal siempre que la omisión en el pago de impuestos al comercio exterior, derechos y cuotas compensatorias, no represente más de un 10% del total de los que debieron pagarse y dicha omisión no exceda de $99,342.00.
 
 Los apoderados aduanales de las personas morales a que se refiere el artículo 172 de esta Ley, serán suspendidos en el ejercicio de sus funciones hasta por noventa días, en los casos en que se ubiquen en alguno de los supuestos a que se refieren las fracciones III, VI y VII del artículo 164 de esta Ley, o por el plazo que resulte cuando se ubiquen en alguno de los supuestos a que se refieren las fracciones I, IV y V del citado artículo.
 
@@ -3582,7 +3582,7 @@ La persona física o moral a quien la autoridad aduanera le haya cancelado la au
 
 La Secretaría otorgará autorización de dictaminador aduanero a las personas que cumplan los siguientes requisitos:
 
-l. Ser ciudadano mexicano.
+I. Ser ciudadano mexicano.
 
 II. No haber sido condenado por sentencia ejecutoriada por delito intencional que merezca pena corporal.
 
@@ -3694,9 +3694,9 @@ I. Multa del 130% al 150% de los impuestos al comercio exterior omitidos, cuando
 
 Cuando la infracción a que se refiere esta fracción sea cometida por pasajeros, se impondrá una multa del 80% al 120% del valor comercial de las mercancías, salvo que se haya ejercido la opción a que se refiere la fracción I del artículo 50 de esta Ley, en cuyo caso, la multa será del 70% al 100% de dicho valor comercial.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-II. Multa de $2,77100 a $6,928.00 cuando no se haya obtenido el permiso de autoridad competente, tratándose de vehículos.
+II. Multa de $2,838.00 a $7,096.00 cuando no se haya obtenido el permiso de autoridad competente, tratándose de vehículos.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -3804,9 +3804,9 @@ I. Multa equivalente del 130% al 150% del beneficio obtenido con la franquicia, 
 
 Multa equivalente del 30% al 50% del impuesto general de importación que habría tenido que cubrirse si la importación fuera definitiva o del 15% al 30% del valor comercial de las mercancías cuando estén exentas, en los casos a que se refiere la fracción I, incisos d) y e) y la fracción III. Tratándose de yates y veleros turísticos la multa será del 10% al 15% del valor comercial.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-II. Si la infracción consistió en exceder los plazos concedidos para el retorno de las mercancías de importación o internación, según el caso, multa de $1,118.00 a $1,677.00 si el retorno se verifica en forma espontánea, por cada periodo de quince días o fracción que transcurra desde la fecha de vencimiento del plazo hasta que se efectúe el retorno. El monto de la multa no excederá del valor de las mercancías.
+II. Si la infracción consistió en exceder los plazos concedidos para el retorno de las mercancías de importación o internación, según el caso, multa de $1,145.00 a $1,717.00 si el retorno se verifica en forma espontánea, por cada periodo de quince días o fracción que transcurra desde la fecha de vencimiento del plazo hasta que se efectúe el retorno. El monto de la multa no excederá del valor de las mercancías.
 
 No se aplicará la multa a que se refiere el párrafo anterior, a las personas que retornen en forma espontánea los vehículos importados o internados temporalmente.
 
@@ -3818,9 +3818,9 @@ III. Multa equivalente a la señalada por el artículo 178, fracciones I, II, II
 
 IV. Multa equivalente del 30% al 50% del valor comercial de las mercancías correspondientes, en los demás casos.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-V. Multa de $41,565.00 a $55,421.00 en el supuesto a que se refiere la fracción IV.
+V. Multa de $42,575.00 a $56,767.00 en el supuesto a que se refiere la fracción IV.
 
 > <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -3926,65 +3926,65 @@ XVIII. Omitan presentar la documentación aduanera a que se refiere el segundo p
 
 Se aplicarán las siguientes multas a quienes cometan las infracciones relacionadas con las obligaciones de presentar documentación y declaraciones, así como de transmisión electrónica de la información, previstas en el artículo 184 de esta Ley:
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-I. Multa de $2,000.00 a $3,000.00, en caso de omisión a las mencionadas en las fracciones I, II y XVIII. Las multas se reducirán al 50% cuando la presentación sea extemporánea.
+I. Multa de $2,049.00 a $3,073.00, en caso de omisión a las mencionadas en las fracciones I, II y XVIII. Las multas se reducirán al 50% cuando la presentación sea extemporánea.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-II. Multa de $970.00 a $1,386.00 a la señalada en la fracción III, por cada documento.
+II. Multa de $993.00 a $1,419.00 a la señalada en la fracción III, por cada documento.
 
 > <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 No se aplicará la multa a que se refiere esta fracción, cuando el agente o apoderado aduanal presente la rectificación correspondiente dentro de los diez días siguientes contados a partir del día siguiente a aquél en el que le fuera notificado el escrito o acta correspondiente en el que se haga constar la irregularidad detectada en el reconocimiento o segundo reconocimiento, así como de la revisión de documentos siempre que presente copia del pedimento correspondiente ante la aduana que emitió el escrito o el acta, dentro del plazo de diez días otorgado para el ofrecimiento de pruebas y alegatos. No obstante lo anterior, la aduana procederá a aplicar las multas que correspondan cuando no se rectifiquen todos los datos a que se refiera el escrito o acta.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-III. Multa de $1,676.00 a $2,793.00 tratándose de la fracción IV.
+III. Multa de $1,716.00 a $2,861.00 tratándose de la fracción IV.
 
-> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-IV. Multa de $2,236.00 a $3,354.00 a la señalada en la fracción V, por cada medio magnético que contenga información inexacta, incompleta o falsa.
+IV. Multa de $2,290.00 a $3,435.00 a la señalada en la fracción V, por cada medio magnético que contenga información inexacta, incompleta o falsa.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-V. Multa de $2,078.00 a $3,464.00 a la señalada en la fracción VI.
+V. Multa de $2,129.00 a $3,548.00 a la señalada en la fracción VI.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-VI. Multa de $2,078.00 a $3,464.00, en el caso señalado en la fracción VII, por cada pedimento.
+VI. Multa de $2,129.00 a $3,548.00, en el caso señalado en la fracción VII, por cada pedimento.
 
 > <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 VII. Multa equivalente de 20% al 40% de la cantidad que exceda al equivalente en la moneda o monedas de que se trate a diez mil dólares de los Estados Unidos de América, a las infracciones establecidas en las fracciones VIII, XV y XVI.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-VIII. Multa de $40,000.00 a $60,000.00, en el caso de la transmisión electrónica señalada en la fracción IX, por la omisión de cada pasajero, tripulante o medio de transporte que arribe a territorio nacional, a que se refiere el inciso a) y por la omisión relativa a la mercancía por cada medio de transporte a que se refiere el inciso b). La multa se reducirá en un 50%, en el caso de que la transmisión electrónica sea extemporánea, incompleta o contenga información incorrecta.
+VIII. Multa de $40,972.00 a $61,457.00, en el caso de la transmisión electrónica señalada en la fracción IX, por la omisión de cada pasajero, tripulante o medio de transporte que arribe a territorio nacional, a que se refiere el inciso a) y por la omisión relativa a la mercancía por cada medio de transporte a que se refiere el inciso b). La multa se reducirá en un 50%, en el caso de que la transmisión electrónica sea extemporánea, incompleta o contenga información incorrecta.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-IX. Multa de $111,784.00 a $167,676.00, en los casos señalados en la fracción X, por cada aeronave que arribe al territorio nacional.
+IX. Multa de $114,499.00 a $171,748.00, en los casos señalados en la fracción X, por cada aeronave que arribe al territorio nacional.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-X. Multa de $1,386.00 a $2,078.00, en el caso señalado en la fracción XI, por cada pedimento.
+X. Multa de $1,419.00 a $2,129.00, en el caso señalado en la fracción XI, por cada pedimento.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-XI. Multa de $4,157.00 a $5,542.00 en caso de omisión y de $2,078.00 a $3,464.00 por la presentación extemporánea, en el caso señalado en la fracción XII.
+XI. Multa de $4,258.00 a $5,677.00 en caso de omisión y de $2,129.00 a $3,548.00 por la presentación extemporánea, en el caso señalado en la fracción XII.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-XII. Multa de $693.00 a $1,386.00, en el caso señalado en la fracción XIII, por cada documento.
+XII. Multa de $710.00 a $1,419.00, en el caso señalado en la fracción XIII, por cada documento.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 XIII. Multa equivalente del 2% al 10% del valor comercial de las mercancías, a la señalada en la fracción XIV.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-XIV. Multa de $10,000.00 a $15,000.00, a la señalada en la fracción XVII, por cada periodo de 15 días o fracción que transcurra desde la fecha en que se debió presentar el aviso y hasta que el mismo se presente.
+XIV. Multa de $10,243.00 a $15,364.00, a la señalada en la fracción XVII, por cada periodo de 15 días o fracción que transcurra desde la fecha en que se debió presentar el aviso y hasta que el mismo se presente.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -3992,11 +3992,11 @@ XIV. Multa de $10,000.00 a $15,000.00, a la señalada en la fracción XVII, por 
 
 Comete la infracción relacionada con la obligación de llevar los sistemas de control de inventarios, quienes no cumplan con lo dispuesto en la fracción I del artículo 59 de esta Ley.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
 ###### Artículo 185-B.
 
-Se aplicará una multa de $10,000.00 a $20,000.00 a quienes cometan la infracción relacionada con la obligación de llevar los sistemas de control de inventarios prevista en el artículo 185-A de esta Ley.
+Se aplicará una multa de $10,243.00 a $20,486.00 a quienes cometan la infracción relacionada con la obligación de llevar los sistemas de control de inventarios prevista en el artículo 185-A de esta Ley.
 
 ###### Artículo 186.
 
@@ -4074,63 +4074,63 @@ XXIII. Las personas que hubieran obtenido la autorización a que se refiere el a
 
 Se aplicarán las siguientes sanciones a quien cometa las infracciones relacionadas con el control, seguridad y manejo de las mercancías previstas en el artículo 186 de esta Ley:
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-I. Multa de $4,000.00 a $5,500.00, a las señaladas en las fracciones I, II, IV, V, Xl, XXI y XXII.
+I. Multa de $4,097.00 a $5,634.00, a las señaladas en las fracciones I, II, IV, V, XI, XXI y XXII.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-II. Multa de $1,118.00 a $1,677.00, a la señalada en la fracción III.
+II. Multa de $1,145.00 a $1,717.00, a la señalada en la fracción III.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 III. Multa equivalente del 70% al 100% de las contribuciones y cuotas compensatorias omitidas, cuando no se haya cubierto lo que correspondía pagar o del 30% al 50% del valor comercial de las mercancías si están exentas o se trata de retorno al extranjero, a la señalada en la fracción VI.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-IV. Multa de $11,178.00 a $16,768.00 a las señaladas en las fracciones IX y X.
+IV. Multa de $11,450.00 a $17,175.00 a las señaladas en las fracciones IX y X.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-V. Multa de $6,707.00 a $8,943.00 a las señaladas en las fracciones Xll y Xlll.
+V. Multa de $6,870.00 a $9,160.00 a las señaladas en las fracciones XII y XIII.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-VI. Multa de $40,000.00 a $60,000.00, a la señalada en la fracción VIII.
+VI. Multa de $40,972.00 a $61,457.00, a la señalada en la fracción VIII.
 
 VII. Clausura del establecimiento por una semana en la primera ocasión, por dos semanas en la segunda ocasión, por tres semanas en la tercera y siguientes ocasiones dentro de cada año de calendario, a la señalada en la fracción XV del artículo 186 de esta Ley.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-VIII. Multa de $22,357.00 a $44,714.00 a la señalada en la fracción XVl.
+VIII. Multa de $22,900.00 a $45,800.00 a la señalada en la fracción XVI.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 IX. Multa del 3% al 5% del importe total que no se hubiera transferido, a la señalada en la fracción XVIII.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-X. Multa de $55,421.00 a $76,203.00, a la señalada en la fracción XIX.
+X. Multa de $56,767.00 a $78,054.00, a la señalada en la fracción XIX.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-XI. Multa de $693.00 a $1,386.00, a la señalada en la fracción XVII.
+XI. Multa de $710.00 a $1,419.00, a la señalada en la fracción XVII.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-XII. Multa de $250,000.00 a $400,000.00, a la señalada en la fracción XX, por cada periodo de 20 días o fracción que transcurra desde la fecha en que se debió dar cumplimiento a la obligación y hasta que la misma se cumpla.
+XII. Multa de $256,072.00 a $409,716.00, a la señalada en la fracción XX, por cada periodo de 20 días o fracción que transcurra desde la fecha en que se debió dar cumplimiento a la obligación y hasta que la misma se cumpla.
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 XIII. Multa equivalente del 80% al 100% de las contribuciones y cuotas compensatorias que se hubieran omitido, cuando no se haya cubierto lo que correspondía pagar o del 30% al 50% del valor comercial de las mercancías si están exentas o se trata de retorno al extranjero, a la señalada en la fracción VII. En el caso de reincidencia, la sanción consistirá en la suspensión provisional del recinto fiscalizado por un plazo de dos a treinta días.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-XIV. Multa de $40,000.00 a $60,000.00, a la señalada en la fracción XIV. En el caso de reincidencia, la sanción consistirá en la suspensión provisional del recinto fiscalizado por un plazo de dos a treinta días.
+XIV. Multa de $40,972.00 a $61,457.00, a la señalada en la fracción XIV. En el caso de reincidencia, la sanción consistirá en la suspensión provisional del recinto fiscalizado por un plazo de dos a treinta días.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-XV. Multa de $500,000.00 a $1,000,000.00 a la señalada en la fracción XXIII.
+XV. Multa de $512,145.00 a $1,024,289.00 a la señalada en la fracción XXIII.
 
 Tratándose de los plazos de suspensión provisional a que se refieren las fracciones XIII y XIV de este artículo, el titular del recinto fiscalizado únicamente podrá concluir las operaciones que tuviera iniciadas a la fecha en que le sea notificada la orden de suspensión, sin que durante dicho plazo pueda iniciar nuevas operaciones.
 
@@ -4146,13 +4146,13 @@ II. Utilice una clave confidencial que haya sido revocada o cancelada.
 
 Se aplicarán las siguientes sanciones a quien cometa las infracciones a que se refiere el artículo 188 de esta Ley:
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-I. Multa de $22,357.00 a $33,535.00, a quien cometa la infracción señalada en la fracción I.
+I. Multa de $22,900.00 a $34,350.00, a quien cometa la infracción señalada en la fracción I.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-II. Multa de $44,714.00 a $67,070.00, a quien cometa la infracción señalada en la fracción II.
+II. Multa de $45,800.00 a $68,699.00, a quien cometa la infracción señalada en la fracción II.
 
 ###### Artículo 190.
 
@@ -4172,21 +4172,21 @@ V. Falsifique o altere el contenido de algún gafete de identificación.
 
 Se aplicarán las siguientes sanciones a quien cometa las infracciones establecidas en el artículo 190 de esta Ley:
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-I. Multa de $11,178.00 a $16,768.00, tratándose de las señaladas en las fracciones l y Il.
+I. Multa de $11,450.00 a $17,175.00, tratándose de las señaladas en las fracciones l y II.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-II. Multa de $22,357.00 a $33,535.00, tratándose de la señalada en la fracción III.
+II. Multa de $22,900.00 a $34,350.00, tratándose de la señalada en la fracción III.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-III. Multa de $2,236.00 a $3,354.00, tratándose de la señalada en la fracción IV.
+III. Multa de $2,290.00 a $3,435.00, tratándose de la señalada en la fracción IV.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-IV. Multa de $44,714.00 a $67,070.00, tratándose de la señalada en la fracción V, independientemente de las sanciones a que haya lugar por la comisión de delitos.
+IV. Multa de $45,800.00 a $68,699.00, tratándose de la señalada en la fracción V, independientemente de las sanciones a que haya lugar por la comisión de delitos.
 
 A los infractores que aporten a los fondos a que se refiere el artículo 202 de esta Ley, una cantidad equivalente a la multa que se les imponga en los términos de este artículo, se les tendrá por liberados de la obligación de pagar dicha multa.
 
@@ -4194,7 +4194,7 @@ A los infractores que aporten a los fondos a que se refiere el artículo 202 de 
 
 Comete las infracciones relacionadas con la seguridad o integridad de las instalaciones aduaneras quien:
 
-l. Utilice en las áreas expresamente señaladas por las autoridades aduaneras como restringidas, aparatos de telefonía celular y cualquier otro medio de comunicación.
+I. Utilice en las áreas expresamente señaladas por las autoridades aduaneras como restringidas, aparatos de telefonía celular y cualquier otro medio de comunicación.
 
 II. Dañe los edificios, equipo y otros bienes que se utilicen en la operación aduanera por la Secretaría o por empresas que auxilien a dicha Secretaría en los términos de esta Ley.
 
@@ -4204,17 +4204,17 @@ III. Introduzca al recinto fiscal vehículos que transporten mercancías cuyo pe
 
 Se aplicarán las siguientes sanciones a quien cometa las infracciones relacionadas con la seguridad o integridad de las instalaciones aduaneras previstas en el artículo 192 de esta Ley:
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-I. Multa de $6,707.00 a $8,943.00, a la señalada en la fracción I.
+I. Multa de $6,870.00 a $9,160.00, a la señalada en la fracción I.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-II. Multa de $8,943.00 a $11,178.00 a la señalada en la fracción II, así como reparación del daño causado.
+II. Multa de $9,160.00 a $11,450.00 a la señalada en la fracción II, así como reparación del daño causado.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
-III. Multa de $8,943.00 a $11,178.00, si se trata de la señalada en la fracción III.
+III. Multa de $9,160.00 a $11,450.00, si se trata de la señalada en la fracción III.
 
 A los infractores que aporten a los fondos a que se refiere el artículo 202 de esta Ley, una cantidad equivalente a la multa que se les imponga en los términos de este artículo, se les tendrá por liberados de la obligación de pagar dicha multa.
 
@@ -4274,11 +4274,11 @@ IV. En un 50% cuando la multa se haya impuesto por la omisión en el pago de las
 
 Lo dispuesto en este artículo no será aplicable cuando se den los supuestos del artículo 198 de esta Ley.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE ABRIL DE 2005)
 
 ###### Artículo 200.
 
-Cuando el monto de las multas que establece esta Ley esté relacionado con el de los impuestos al comercio exterior omitidos, con el valor en aduana de las mercancías y éstos no pueden determinarse, se aplicará a los infractores una multa de $33,535.00 a $44,714.00.
+Cuando el monto de las multas que establece esta Ley esté relacionado con el de los impuestos al comercio exterior omitidos, con el valor en aduana de las mercancías y éstos no pueden determinarse, se aplicará a los infractores una multa de $34,350.00 a $45,800.00.
 
 ###### Artículo 201.
 
@@ -4501,5 +4501,9 @@ VI. Respecto del fideicomiso público para el Programa de Mejoramiento de los Me
 Artículo Tercero. El Ejecutivo Federal, por conducto, de la Secretaría de Hacienda y Crédito Público, enviará al Congreso de la Unión, un informe trimestral en el que se detallen los recursos que se recauden por las autoridades aduaneras, incluyendo el monto de lo recaudado y el destino que se le ha dado a dichos recursos. Además, anualmente deberá enviar al Congreso de la Unión, un programa anual de inversiones.
 
 D.O.F. 28 DE ABRIL DE 2003.
+
+LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 04 DE ABRIL DE 2005.
 
 LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
