@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2004-12-20"
+last_updated: "2005-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE ENERO DE 2005.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -112,11 +112,11 @@ ARTÍCULO 15 (Principio de acto). El delito sólo puede ser realizado por acció
 
 ARTÍCULO 16 (Omisión impropia o comisión por omisión). En los delitos de resultado material será atribuible el resultado típico producido a quien omita impedirlo, si éste tenía el deber jurídico de evitarlo, si:
 
-I . Es garante del bien jurídico;
+I. Es garante del bien jurídico;
 
-II . De acuerdo con las circunstancias podía evitarlo; y
+II. De acuerdo con las circunstancias podía evitarlo; y
 
-III . Su inactividad es, en su eficacia, equivalente a la actividad prohibida en el tipo.
+III. Su inactividad es, en su eficacia, equivalente a la actividad prohibida en el tipo.
 
 Es garante del bien jurídico el que:
 
@@ -2308,11 +2308,19 @@ II. Continúe ejerciendo las funciones de un empleo, cargo o comisión después 
 
 III. Por sí o por interpósita persona, sustraiga, destruya, oculte, altere, utilice o inutilice, indebidamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión;
 
-IV. Teniendo obligación por razones de empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, en cualquier forma propicie daño a las personas o a los lugares, instalaciones u objetos, o pérdida o sustracción de objetos que se encuentren bajo su cuidado.
+> <small>(REFORMADA, G.O. 17 DE ENERO DE 2005)</small>
+
+IV. Teniendo obligación por razones de empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, en cualquier forma propicie daño a las personas o a los lugres (sic), instalaciones u objetos, o pérdida o sustracción de objetos que se encuentren bajo su cuidado; y
+
+> <small>(ADICIONADA, G.O. 17 DE ENERO DE 2005)</small>
+
+V. Teniendo un empleo, cargo o comisión en los Centros de Reclusión del Distrito Federal, facilite o fomente en los centros de readaptación social y penitenciarías la introducción, uso, consumo, posesión o comercio de bebidas alcohólicas, sustancias psicotrópicas, así como de teléfonos celulares, radio localizadores o cualquier otro instrumento de comunicación radial o satelital para uso de los internos.
 
 Al que cometa alguno de los delitos a que se refieren las fracciones I y II de este artículo, se le impondrán de uno a tres años de prisión y de veinticinco a doscientos cincuenta días multa.
 
-Al que cometa alguno de los delitos a que se refieren las fracciones III y IV de este artículo, se le impondrán de dos a siete años de prisión y de cincuenta a quinientos días multa.
+> <small>(REFORMADO, G.O. 17 DE ENERO DE 2005)</small>
+
+Al que cometa alguno de los delitos a que se refieren las fracciones III, IV y V de este artículo, se le impondrán de dos a siete años de prisión y de cincuenta a quinientos días multa.
 
 ###### ARTÍCULO 260.
 
@@ -3098,7 +3106,7 @@ Las penas previstas en este artículo se aumentarán en una mitad cuando la ocup
 
 > <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
 
-ARTÍCULO 343BIS. Se le impondrán de tres a nueve años de prisión y de 1,000 a 5,000 días multa, a quien ilícitamente realice el cambio del uso del suelo en:
+ARTÍCULO 343 BIS. Se le impondrán de tres a nueve años de prisión y de 1,000 a 5,000 días multa, a quien ilícitamente realice el cambio del uso del suelo en:
 
 I.- Un área natural protegida o área de valor ambiental de competencia del Distrito Federal, de conformidad con las disposiciones jurídicas aplicables;
 
@@ -3553,3 +3561,7 @@ TERCERO.- Los particulares que se consideren con derechos respecto de los bienes
 G.O. 20 DE DICIEMBRE DE 2004.
 
 Único.- El presente decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 17 DE ENERO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
