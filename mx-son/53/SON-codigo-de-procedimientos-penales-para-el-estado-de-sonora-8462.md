@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-penales-para-el-estado-de-sonora-8462"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-17"
-last_updated: "1949-08-17"
+last_updated: "1975-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 1 DE FEBRERO DE 1975.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 17 de agosto de 1949.
 
@@ -2845,25 +2845,23 @@ Cuando los tribunales decreten el decomiso de instrumentos u objetos del delito,
 
 ###### ARTICULO 491.
 
-Para la ejecución de la pena de muerte el juez se limitará a hacer la identificación y entrega del reo a la autoridad política que le designe el Ejecutivo, y agregará al proceso la certificación a que se refiere el artículo siguiente y el acta que la autoridad ejecutora debe levantar de la ejecución de la pena.
+(DEROGADO, B.O. 1 DE FEBRERO DE 1975)
 
 ###### ARTICULO 492.
 
-La pena de muerte no se ejecutará en público, sino en la cárcel y en otro lugar cerrado y a ella asistirá un médico por lo menos, o en su defecto un práctico, quienes remitirán al juez de la causa el mismo día, el correspondiente certificado de defunción. También podrá asistir un sacerdote o ministro del culto del reo, si éste lo pidiere.
+(DEROGADO, B.O. 1 DE FEBRERO DE 1975)
 
 ###### ARTICULO 493.
 
-La pena de muerte no se ejecutará un domingo ni en otro día festivo de los designados como tales por la ley, y se concederá al penado un plazo que no pase de tres días, ni baje de veinticuatro horas para que se le ministren los auxilios espirituales que pida, según su religión, y haga su disposición testamentaria.
+(DEROGADO, B.O. 1 DE FEBRERO DE 1975)
 
 ###### ARTICULO 494.
 
-No será necesaria la autopsia de los cadáveres de los individuos que hubieren sufrido la pena capital.
+(DEROGADO, B.O. 1 DE FEBRERO DE 1975)
 
 ###### ARTICULO 495.
 
-La ejecución de la pena de muerte no se suspenderá por la averiguación de otro delito cometido por el mismo reo, sino en el caso en que, a juicio del juez que conozca de la nueva instrucción, sea indispensable la presencia del sentenciado a muerte, para esclarecer los hechos relativos a la responsabilidad de tercero en el mismo delito.
-
-Tan luego como ya no sea indispensable la presencia del condenado a muerte, el juez lo avisará a la autoridad a quien lo hubiere pedido y lo pondrá a su disposición para que se ejecute la pena.
+(DEROGADO, B.O. 1 DE FEBRERO DE 1975)
 
 ### CAPITULO IV. Retención
 
@@ -2959,21 +2957,15 @@ Las resoluciones sobre procedencia o improcedencia de la retención se comunicar
 
 ###### ARTICULO 515.
 
-Los jueces, apreciando la circunstancia del acusado y del ofendido, los móviles del delito y demás peculiaridades del caso, podrán a su prudente arbitrio, conmutar la pena capital por la de prisión de treinta años, y aún disminuir este término hasta veinte.
+(DEROGADO, B.O. 1 DE FEBRERO DE 1975)
 
 ###### ARTICULO 516.
 
-La conmutación de la pena capital será forzosa en los casos siguientes:
-
-I.- Cuando se trate de mujeres o de varones mayores de sesenta años, y
-
-II.- Cuando hayan transcurrido cinco años contado desde la fecha en que el delito se cometió hasta la aprehensión del responsable, aún cuando se haya actuado en el proceso.
-
-En ambos casos la pena capital se sustituirá por la de treinta años de prisión.
+(DEROGADO, B.O. 1 DE FEBRERO DE 1975)
 
 ###### ARTICULO 517.
 
-La conmutación de la pena capital por el Ejecutivo, será también forzosa cuando hayan pasado cinco años contados desde la notificación al reo de la sentencia irrevocable dictada en su contra y se sustituirá por la de treinta años de prisión.
+(DEROGADO, B.O. 1 DE FEBRERO DE 1975)
 
 ###### ARTICULO 518.
 
@@ -3009,7 +3001,7 @@ El Congreso, conciliando los intereses de la sociedad con los del sentenciado y 
 
 ###### ARTICULO 524.
 
-En todo caso en que la ley no lo prohiba expresamente, el Congreso del Estado podrá conceder indulto de la pena de privación de la vida, que se sustituirá por la de treinta años de prisión.
+(DEROGADO, B.O. 1 DE FEBRERO DE 1975)
 
 ###### ARTICULO 525.
 
@@ -3148,3 +3140,15 @@ LIC. HORACIO SOBARZO
 El Secretario de Gobierno,
 
 GERARDO LOSTAUNAU
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+B.O. 1 DE FEBRERO DE 1975.
+
+###### ARTICULO PRIMERO.
+
+Se conmuta la pena de muerte por los 30 años de prisión a los condenados por sentencia irrevocable que se encuentren a disposición del Ejecutivo para la ejecución de la pena capital.
+
+###### ARTICULO SEGUNDO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
