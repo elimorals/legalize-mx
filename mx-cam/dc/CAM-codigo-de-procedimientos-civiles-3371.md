@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "1998-07-24"
+last_updated: "1998-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1998.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
@@ -1133,9 +1133,11 @@ IV.- En las diligencias de mera ejecución; más si en las de ejecución mixta, 
 
 V.- En los demás actos que no radiquen jurisdicción, ni importen conocimiento de causa.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
+
 ###### Art. 198.
 
-En los juicios ejecutivos e hipotecarios, y en los procedimientos de apremio, tampoco se dará curso a las recusaciones, sino hecho el embargo, expedida y fijada la cédula o practicado el acto de aseguramiento.
+En los juicios ejecutivos, hipotecarios y en los procedimientos de apremio, tampoco se dará curso a las recusaciones, sino hecho el embargo, registrada la demanda del juicio hipotecario o practicado el acto de aseguramiento.
 
 ### CAPITULO IV. Del tiempo en que debe proponerse la recusación
 
@@ -2025,6 +2027,12 @@ Si las partes no se pusieren de acuerdo, el nombramiento será hecho por el juez
 
 El nombramiento de los peritos y el del tercero se harán dentro de los tres días siguientes a la notificación del auto en que aquél se prevenga.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
+
+###### Art. 383
+
+bis.- Los peritos no son recusables, pero el nombrado por el juez deberá excusarse de conocer cuando en él concurra alguno de los impedimentos a que se refiere el artículo 189 del presente Código.
+
 ###### Art. 384.
 
 Los peritos deben tener título en la ciencia o arte a que pertenezca el punto sobre que ha de oírse su juicio, si la profesión o el arte estuvieren legalmente reglamentados.
@@ -2747,13 +2755,15 @@ XVI.- Los demás que por disposición de la ley deban tramitarse sumariamente.
 
 El procedimiento en los juicios sumarios se arreglará a lo que disponen los siguientes artículos.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
+
 ###### Art. 514.
 
-Los términos judiciales serán: de tres días para contestar la demanda; de veinte, para pruebas; de tres, para oponer excepciones dilatorias; de tres, para la audiencia de alegatos, y de cinco para dictar sentencia definitiva.
+Los términos judiciales serán de cuatro días para contestar la demanda, de veinte días para pruebas, de cuatro días para oponer las excepciones dilatorias; de tres días para la audiencia de alegatos y de diez días para dictar sentencia definitiva.
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 1993)</small>
+El juez no podrá bajo ninguna circunstancia, dictar un acuerdo en el cual solamente exprese que se está en estudio de la sentencia, sino que deberá dictar la misma dentro del término establecido.
 
-En el juicio sumario, salvo disposición expresa de la ley, todos los días de que conste el período probatorio son comunes para ofrecer y desahogar pruebas. Empero, aquellas cuyo perfeccionamiento requiera la citación de alguna persona, la constitución del personal del juzgado fuera de las oficinas del mismo o la intervención de peritos, deberán ofrecerse con la suficiente anticipación para que dicho perfeccionamiento tenga lugar sin exceder el período, de no ser así el juez las desechará de plano.
+En los juicios sumarios, salvo las disposiciones del juicio hipotecario, todos los días de que conste el período probatorio son comunes para ofrecer y desahogar pruebas. Empero, aquellas cuyo perfeccionamiento requiera la citación de alguna persona, la constitución del personal del juzgado fuera de las oficinas del mismo o la intervención de peritos, deberán ofrecerse con la suficiente anticipación para que dicho perfeccionamiento tenga lugar sin exceder el periodo, de no ser así el juez las desechará de plano.
 
 ###### Art. 515.
 
@@ -2783,7 +2793,7 @@ En el caso de la fracción XV del artículo 511, una vez recibida por el juez el
 
 ### CAPITULO III. Del juicio hipotecario
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 521.
 
@@ -2883,69 +2893,143 @@ Para la ejecución del desahucio se tiene como domicilio legal del ejecutado, la
 
 ###### Art. 538.
 
-Se seguirá sumariamente el juicio para el pago o prelación de un crédito hipotecario, siempre que sea de plazo cumplido o que deba anticiparse conforme a lo prevenido en los artículos 1853 y 2806 del Código Civil. El juicio se compondrá de dos secciones, una se llamará de apremio y se formará con la demanda, la cédula hipotecaria, el inventario de la finca hipotecada, las diligencias relativas al depósito, el avalúo y el remate de dicha finca; y otra que se llamará de oposición y se formará con la copia de la demanda, la contestación del demandado en que oponga sus excepciones, las pruebas, alegatos y sentencias.
+Se tramitará en la vía especial hipotecaria todo juicio que tenga por objeto el pago o la prelación del crédito que la hipoteca garantice.
+
+Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario se siga según las reglas de este capítulo, es requisito indispensable que el crédito conste en escritura pública o escrito privado, según corresponda en los términos de la legislación común, y registrado en el Registro Público de la Propiedad y que sea de plazo cumplido, o que este sea exigible en los términos pactados o bien conforme con las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 539.
 
-Presentado el escrito de demanda, acompañado del instrumento respectivo, el juez proveerá un auto, previniendo se notifique al demandado que dentro de tres días ocurra a contestar la demanda y a oponer las excepciones que tuviere, a cuyo fin le mandará a entregar copia simple de dicha demanda, la cual, al ser devuelta, encabezará el cuaderno de oposición. En este auto se mandará expedir la cédula hipotecaria y depositar la finca gravada, si el acreedor hubiese hecho el nombramiento de depositario.
+Procederá el juicio hipotecario sin necesidad de que el contrato esté inscrito en el Registro Público de la Propiedad, cuando:
 
-Sólo puede apelar del mismo auto el demandante.
+I.- El documento base de la acción tenga carácter de título ejecutivo;
+
+II.- El bien se encuentre inscrito a favor del demandado; y
+
+III.- No exista embargo o gravamen en favor de tercero, inscrito cuando menos noventa días anteriores a los de la presentación de la demanda.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 540.
 
-La cédula contendrá una relación sucinta de la escritura, y concluirá en estos términos: "En virtud de las constancias que preceden, queda sujeta la finca ... de la propiedad de ... a juicio hipotecario; lo que se hace saber a las autoridades y al público, para que no se practique en la mencionada finca ningún embargo, toma de posesión, diligencia precautoria o cualquiera otra que entorpezca el curso del presente juicio o viole los derechos en él adquiridos por el C. (aquí el nombre del actor).
+Presentado el escrito de demanda acompañado del instrumento respectivo, el juez, si encuentra que se reúnen los requisitos fijados por los artículos anteriores, en un plazo no mayor de tres días, admitirá la misma y mandará anotar la demanda en el Registro Público de la Propiedad y que se corra traslado de ésta al deudor, emplazándolo a juicio, para que dentro del término de cuatro días ocurra a contestarla y a oponer las excepciones que no podrán ser otras que:
+
+I.- Las fundadas en que el demandado no haya firmado el documento base de la acción, su alteración o la de falsedad del mismo;
+
+II.- Falta de representación, de poder bastante o facultades legales de quien haya suscrito en representación del demandado el documento base de la acción;
+
+III.- Incumplimiento o nulidad del contrato;
+
+IV.- Pago o compensación;
+
+V.- Remisión o quita;
+
+VI.- Oferta de no cobrar o espera;
+
+VII.- Novación de contrato; y
+
+VIII.- Cosa Juzgada.
+
+Las excepciones comprendidas en las fracciones de la IV a la VIII, sólo se admitirán cuando se funden en prueba documental.
+
+El juez bajo su más estricta responsabilidad revisará escrupulosamente la contestación de la demanda y desechará de plano las excepciones diferentes a las que se autorizan, o aquellas en que sea necesario exhibir documento y el mismo no se acompañe. Ninguna de las excepciones suspenderá el procedimiento y se resolverán en la sentencia definitiva.
+
+Si el demandado se allanare a la demanda y solicitare término de gracia para el pago o cumplimiento de lo reclamado, el juez dará vista al actor para que, dentro de los tres días siguientes manifieste lo que a su derecho convenga, debiendo el juez resolver de acuerdo con tales proposiciones. El término de gracia no podrá exceder de tres meses en ningún caso.
+
+Si el demandado confesare las pretensiones del actor, el juez le concederá un término de gracia de treinta días para desocupar la vivienda y lo eximirá del pago de gastos y costas que se hubiesen originado.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 541.
 
-La cédula hipotecaria se fijará en un lugar aparente de la finca y se inscribirá en el Registro Público correspondiente, a cuyo efecto se expedirá por duplicado copia certificada de la cédula. Una copia quedará en el Registro y la otra, ya registrada, se agregará a los autos.
+Tanto en la demanda como en la contestación a la misma, las partes tienen la obligación de ser precisas, indicando en los hechos si sucedieron ante testigos, que en ningún caso podrán ser más de dos por cada hecho, citando los nombres y apellidos de estos, presentando todos los documentos relacionados con tales hechos. En los mismos escritos, las partes deben ofrecer todas sus pruebas relacionándolas con los hechos que se pretendan probar. El juez resolverá sobre la admisión o desechamiento de pruebas, según proceda, en el auto que recaiga a la contestación de la demanda. En el caso de que las pruebas ofrecidas sean contra la moral o el derecho, sobre hechos que no hayan sido controvertidos por las partes, sobre hechos imposibles o notoriamente inverosímiles, o no se hayan relacionado con los mismos, el juez las desechará. Las pruebas que se admitan se desahogarán en la audiencia respectiva, la que será única, indiferible y no podrá suspenderse por ningún motivo.
+
+En caso de allanamiento total de la demanda; si el deudor no hace valer defensas ni opone excepciones o las opone en forma distinta a lo señalado en este capítulo o fuera del término concedido para ello o no realiza dentro del plazo concedido en términos de lo indicado en el último párrafo del artículo anterior el pago de la cantidad reclamada, se pronunciará inmediatamente sentencia definitiva.
+
+No encontrándose en ninguno de los supuestos del párrafo que antecede, con el escrito de contestación a la demanda y con las excepciones opuestas se dará vista al actor para que manifieste lo que a su derecho convenga dentro del término de los tres días siguientes. En ese mismo acto, se señalará fecha y hora para la celebración de la audiencia, la que deberá celebrarse dentro de los veinte días siguientes.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 542.
 
-Si la finca no se halla en el lugar del juicio, se librará despacho o exhorto al juez de la ubicación, para que mande fijar la cédula. En su caso, también se comisionará al juez de la ubicación para que haga registrar dicha cédula.
+La demanda se anotará en el Registro Público correspondiente, a cuyo efecto el actor exhibirá un tanto más de dicha demanda, para que, previo cotejo con sus originales se certifiquen por el secretario haciendo constar que se expiden para efectos de que la parte interesada inscriba su demanda, a quien se le entregarán para tal fin, debiendo hacer las gestiones correspondientes.
+
+Si la finca no se encuentra en el lugar del juicio, se librará exhorto al juez de la ubicación, para que ordene la inscripción de la demanda como se previene en este capítulo.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 543.
 
-Desde el día que se fije la cédula hipotecaria contrae el deudor la obligación de depositario judicial de la finca hipotecada, de sus frutos y de todos los objetos que con arreglo a la escritura y conforme al Código Civil, deben considerarse como inmovilizados y formando parte de la misma finca; salvo el derecho que tendrá el actor de nombrar, bajo su responsabilidad, un depositario. El juez dispondrá, si el actor lo pidiere, que se proceda a formar inventario de la finca, para agregarlo a los autos.
+Inscrita la demanda en el registro público de la propiedad no podrá verificarse en la finca hipotecada ningún embargo, toma de posesión, diligencia precautoria o cualquiera otra que entorpezca el curso del juicio, sino en virtud de sentencia ejecutoria relativa a la misma finca, debidamente registrada y anterior en fecha a la inscripción de la referida demanda o en razón de providencia precautoria solicitada ante el juez por acreedor con mejor derecho en fecha anterior a la de inscripción de la demanda.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 544.
 
-El deudor que no quiera aceptar la responsabilidad de depositario, entregará desde luego la tenencia material de la finca al actor o al depositario que éste nombre.
+En la diligencia de emplazamiento se requerirá al deudor para que manifieste si acepta o no la responsabilidad de depositario; y de aceptarla, contraerá la obligación de depositario judicial respecto de la finca hipotecada, de sus frutos y de todos los objetos que con arreglo al contrato y conforme al Código Civil deban considerarse inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos.
+
+Para efecto del inventario, el deudor queda obligado a dar todas las facilidades para su formación y en caso de desobediencia, el juez lo compelerá por los medios de apremio que autoriza la ley; el deudor que no haya aceptado la responsabilidad de depositario en el momento del emplazamiento, entregará desde luego la tenencia material de la finca al actor.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 545.
 
-El depósito de la finca hipotecada se regirá por lo dispuesto en el Capítulo I del Título Decimosexto.
+Si la diligencia que se señala en el artículo anterior no se entendiere directamente con el deudor, éste deberá dentro de los tres días siguientes manifestar si acepta o no la responsabilidad de depositario, entendiéndose que no la acepta si no hace esta manifestación, y en este caso, el actor podrá pedir que se le entregue la tenencia material de la finca.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 546.
 
-Expedida la cédula hipotecaria, no podrá verificarse en la finca hipotecada ninguno de los actos en aquélla expresados, sino en virtud de sentencia ejecutoriada anterior en fecha a la demanda que ha motivado la expedición de la cédula, o de providencia dictada a petición de acreedor de mejor derecho.
+La preparación de las pruebas quedará a cargo de las partes, por lo que deberán presentar a sus testigos, peritos y demás pruebas que les hayan sido admitidas. En caso de que existan periciales contradictorias de ambas partes, el juez para un mejor proveer, se auxiliará de un perito tercero en discordia quien deberá rendir su dictamen en un término no mayor de cinco días contado a partir de la celebración de la audiencia. Las pruebas, salvo el dictamen del perito tercero en discordia, en su caso, se desahogarán en la audiencia respectiva.
+
+Si llamado un testigo, perito o solicitado un documento que hayan sido admitidos como prueba, no se desahogan éstas a más tardar en la audiencia, se declarará desierta la prueba ofrecida por causa imputable al oferente. Tratándose de la prueba pericial, el hecho de que una de las partes la rinda y su contraria no lo haga, se entenderá el desahogo de dicha prueba sólo con el dictamen rendido. En caso de que ninguna de las partes lo haya presentado, se declarará desierta dicha probanza por causas imputables a los oferentes.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 547.
 
-Las excepciones se tramitarán conforme a las reglas que deben observarse en los juicios sumarios. No se admitirá la reconvención.
+En la audiencia a que se refiere el artículo 541, se desahogarán las pruebas admitidas y preparadas, procederán las partes a alegar lo que a su derecho convenga y acto continuo, el juez dictará la sentencia que corresponda, la que podrá ser apelable únicamente en efecto devolutivo.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 548.
 
-La sentencia no sólo declarará si procede o no el remate, sino que decidirá sobre los derechos controvertidos.
+Para el remate, se tendrá como precio de la finca hipotecada, el precio que señale el avalúo que presente la persona que las partes hayan convenido para tal efecto en el momento de la constitución de la hipoteca o, en su caso, de no haberse acordado se procederá de la forma siguiente:
+
+I.- Cada parte tendrá derecho de exhibir, dentro de los cinco días siguientes a que sea ejecutable la sentencia, avalúo de la finca hipotecada practicado por un corredor público, una institución de crédito o por perito valuador autorizado por el Tribunal, los cuales en ningún caso podrán tener el carácter de parte o de interesada en el juicio;
+
+II.- En el caso de que alguna de las partes deje de exhibir el avalúo dentro del plazo señalado en la fracción anterior, se entenderá su conformidad con el avalúo que haya exhibido su contraria;
+
+III.- En el supuesto de que ninguna de las partes exhiba el avalúo dentro del plazo señalado en la fracción I de este artículo, cualquiera de ellas lo podrá presentar posteriormente, considerándose como base para el remate el primero en tiempo;
+
+IV.- Si las dos partes exhibieren los avalúos en el plazo a que se refiere la fracción I de este artículo y los valores determinados de cada uno de ellos no coincidieren, se tomará como base para el remate el promedio de ambos avalúos; siempre y cuando no exista un treinta por ciento de diferencia entre el más bajo y el más alto, en cuyo caso el juez ordenará se practique nuevo avalúo por el perito que al efecto señale;
+
+V.- La vigencia del valor que se obtenga por los avalúos será de seis meses para que se lleve a cabo la primera almoneda de remate, si entre ésta y las subsecuentes mediará un término mayor de seis meses se deberá actualizar el valor.
+
+VI.- Obtenido el valor del avalúo, según el caso que corresponda a las fracciones anteriores, se procederá a rematar la finca en los términos del capítulo II del Título Décimo Sexto de este ordenamiento; y
+
+VII.- La resolución que recaiga al remate sólo podrá ser apelable en efecto devolutivo.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 549.
 
-Si se resolviere no haber lugar al juicio hipotecario, se reservarán al actor sus derechos para que los ejercite en la vía y forma que corresponda.
+En los procedimientos que se ventilen conforme con lo señalado en este capítulo, ningún incidente suspenderá el curso del juicio y las resoluciones que se dicten podrán ser apeladas sólo en efecto devolutivo, por lo que en ningún caso se suspenderá el procedimiento.
 
-También se mandará quitar la cédula hipotecaria, cancelar la inscripción de ella y devolver la finca al demandado, ordenando al depositario que rinda cuentas con pago en el término que fije el juez, que no podrá exceder de treinta días.
-
-Lo dispuesto en el segundo párrafo de este artículo se observará cuando la sentencia absuelva al demandado, declarando que no procede el remate.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 550.
 
-No habiendo el deudor opuesto excepciones dentro del término fijado por la ley, o consentida o ejecutoriada la sentencia definitiva que haya condenado al deudor, se procederá al avalúo y remate de la finca.
+En el caso previsto en el segundo párrafo del artículo 2813 del Código Civil, no habrá lugar al juicio, ni a las almonedas, ni a la venta judicial; pero sí habrá avalúo para fijar el precio que corresponda a la cosa en el momento de exigirse el pago. La venta se hará de la manera que se hubiera convenido; y a falta de convenio, por medio de remate extrajudicial, ante notario público. El deudor puede oponerse a la venta alegando las excepciones que tuviere y esta oposición se substanciará sumariamente.
 
-Si el demandado se rehusa a nombrar perito valuador, puede el actor exigir que se pida certificado del valor fiscal de la finca, que con este valor será considerado para el remate.
+También pueden oponerse a la venta los acreedores hipotecarios posteriores, alegando la prescripción de la acción hipotecaria.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 551.
 
-En el caso previsto en el segundo párrafo del artículo 2813 del Código Civil, no habrá lugar al juicio, ni a las almonedas, ni a la venta judicial; pero sí habrá avalúo para fijar el precio que corresponda a la cosa en el momento de exigirse el pago. La venta se hará de la manera que se hubiera convenido; y a falta de convenio, por medio de remate extrajudicial, ante notario público. El deudor puede oponerse a la venta, alegando las excepciones que tuviere, y esta oposición se sustanciará sumariamente.
-
-También pueden opornerse (sic) a la venta los hipotecarios posteriores, alegando la prescripción de la acción hipotecaria.
+En lo no previsto por este capítulo serán aplicables las disposiciones contenidas en el capítulo primero de este título.
 
 ### CAPITULO I. De la ejecución
 
@@ -3996,6 +4080,10 @@ III.- La acción que en cada uno de ellos se ejercite;
 IV.- Las personas que en ellos sean interesadas;
 
 V.- Los fundamentos legales en que se apoye la acumulación.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
+
+Asimismo, deberá acompañar al citado escrito, copia certificada de los autos del juicio respectivo. De no satisfacer los requisitos exigidos en este artículo, el juez, en ningún caso dará entrada a la acumulación.
 
 ###### Art. 767.
 
@@ -7140,3 +7228,7 @@ P.O. 24 DE JULIO DE 1998.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Se derogan todas aquellas disposiciones legales en lo que se opongan al contenido del presente decreto.
+
+P.O. 22 DE DICIEMBRE DE 1998.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, pero la substanciación de los asuntos pendientes relativos a la materia de las reformas se continuará de conformidad con las disposiciones del Código de Procedimientos Civiles vigentes antes de dichas reformas.
