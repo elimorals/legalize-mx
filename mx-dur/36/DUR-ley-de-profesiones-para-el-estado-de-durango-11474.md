@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-profesiones-para-el-estado-de-durango-11474"
 country: "mx"
 rank: "ley"
 publication_date: "1987-06-04"
-last_updated: "1987-06-04"
+last_updated: "1998-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PROFESIONES PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 1998.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 4 de junio de 1987.
 
@@ -55,7 +55,7 @@ LEY de PROFESIONES PARA EL ESTADO DE DURANGO
 
 ###### Artículo 1o.
 
-Título Profesional es el documento que se expide por las Instituciones Educativas del Estado descentralizadas, y por Instituciones que tengan reconocimiento oficial, a favor de la persona, que habiendo conluído (sic) sus estudios correspondientes, demuestre tener los conocimientos necesarios para ejercer la profesión de que se trate.
+Título Profesional es el documento que se expide por las Instituciones Educativas del Estado descentralizadas, y por Instituciones que tengan reconocimiento oficial, a favor de la persona, que habiendo concluído sus estudios correspondientes, demuestre tener los conocimientos necesarios para ejercer la profesión de que se trate.
 
 ###### Artículo 2o.
 
@@ -71,7 +71,7 @@ El Ejecutivo del Estado emitirá los Reglamentos que delimiten los campos de acc
 
 ###### Artículo 5o.
 
-Para el ejercicio de una o varias especialidades, se requiere autorización de la Dirección Estatal de Profesiones, debiendo comprobarse previamente 1o.- Haber obtenido Título Profesional en los términos de esta Ley; 2o.- Comprobar, en forma idónea haber realizado estudios especiales de perfeccionamiento técnico-científco (sic) en la ciencia o rama de que se trate.
+Para el ejercicio de una o varias especialidades se requiere autorización de la Dirección Estatal de Profesiones, debiendo comprobarse previamente 1o.- Haber obtenido Título Profesional en los términos de esta Ley; 2o.- Comprobar, en forma idónea haber realizado estudios especiales de perfeccionamiento técnico-científco (sic) en la ciencia o rama de que se trate.
 
 ###### Artículo 6o.
 
@@ -101,11 +101,13 @@ Autoridades de otros Estados
 
 ###### Artículo 9o.
 
-Los Títulos Profesionales expedidos por las autoridades de otros Estados serán registrados en éste, siempre que su otorgamiento se haya sujetado a sus leyes respectivas, de conformidad con la Fracción V del Artículo 121 de la Constitución Política de los Estados Unidos Mexicanos.
+Los Títulos Profesionales expedidos por las autoridades de otros Estados serán registrados en este, siempre que su otorgamiento se haya sujetado a sus leyes respectivas, de conformidad con la Fracción V del Artículo 121 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1998)</small>
 
 ###### Artículo 10.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Educación, Cultura y Promoción Social, podrá celebrar convenios de coordinación con el Ejecutivo Federal, para la unificación del registro profesional.
+El Ejecutivo del Estado, por conducto de la Secretaría de Educación, Cultura y Deportes, podrá celebrar Convenios de Coordinación con el Ejecutivo Federal, para la unificación del registro profesional.
 
 #### SECCION IV. Registro de Títulos Expedidos en el extranjero
 
@@ -113,19 +115,25 @@ El Ejecutivo del Estado, por conducto de la Secretaría de Educación, Cultura y
 
 Ningún extranjero podrá ejercer en el Estado de Durango las profesiones técnico-científicas que son objeto de esta Ley; sólo por excepción podrá la Dirección Estatal de Profesiones de acuerdo con los colegios respectivos y cumplidos los requisitos que exige esta Ley conceder permiso temporal para ejercer alguna profesión de las referidas en el Artículo 2o. Transitorio de esta Ley.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1998)</small>
+
 ###### Artículo 12o.
 
-Los títulos expedidos en el extranjero a ciudadanos mexicanos serán registrados en la Secretaría de Educación, Cultura y Promoción Social siempre que los estudios que comprenda el título sean similares cuando menos a los que se impartan en los planteles educativos autorizados.
+Los títulos expedidos en el extranjero a ciudadanos mexicanos, serán registrados en la Secretaría de Educación, Cultura y Deportes siempre que los estudios que comprenda el título sean similares cuando menos a los que se impartan en los planteles educativos autorizados.
 
 ### CAPITULO III. De la Dirección Estatal de Profesiones
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1998)</small>
+
 ###### Artículo 13o.
 
-Dependiente de la Secretaría de Educación, Cultura y Promoción Social, se establecerá una Dirección que se denominará: Dirección Estatal de Profesiones, que se encargará de la vigilancia del ejercicio profesional y será órgano de conexión entre el Estado y los Colegios de Profesionales.
+Dependiente de la Secretaría de Educación, Cultura y Deportes, se establecerá una Dirección que se denominará: Dirección Estatal de Profesiones, que se encargará de la vigilancia del ejercicio profesional y será órgano de conexión entre el Estado y los Colegios de Profesionales.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1998)</small>
 
 ###### Artículo 14o.
 
-La Dirección formará comisiones técnicas relativas a cada una de las profesiones, que se encargarán de estudiar y dictaminar sobre los asuntos de su competencia. Cada Comisión estará integrada por los representantes de la Secretaría de Educación, Cultura y Promoción Social, y un representante por cada rama profesional, el cual deberá ser nombrado por el o los colegios respectivos.
+La Dirección formará comisiones técnicas relativas a cada una de las profesiones, que se encargarán de estudiar y dictaminar sobre los asuntos de su competencia. Cada Comisión estará integrada por los representantes de la Secretaría de Educación, Cultura y Deportes, y un representante por cada rama profesional, el cual deberá ser nombrado por él o los colegios respectivos.
 
 ###### Artículo 15o.
 
@@ -169,9 +177,11 @@ II.- Tener título profesional registrado y
 
 III.- Obtener de la Dirección Estatal de Profesiones patente de ejercicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 1998)</small>
+
 ###### Artículo 18o.
 
-La Secretaría de Educación, Cultura y Promoción Social, podrá autorizar el ejercicio profesional a pasantes así como a aquellas personas que prueben en forma suficiente ante la propia Secretaría que han dedicado su vida al ejercicio de alguna de las profesiones que autoriza esta Ley, sin tener el título respectivo; que se han desempeñado con capacidad, honestidad y un marcado servicio a la sociedad; y que en el área de acción de sus actividades, no existe el número adecuado de profesionistas para atender las necesidades que requieren del servicio de determinada profesión.
+La Secretaría de Educación, Cultura y Deportes, podrá autorizar el ejercicio profesional a pasantes así como a aquellas personas que prueben en forma suficiente ante la propia Secretaría que han dedicado su vida al ejercicio de alguna de las profesiones que autoriza esta Ley, sin tener el título respectivo; que se han desempeñado con capacidad, honestidad y un marcado servicio a la sociedad; y que en el área de acción de sus actividades, no existe el número adecuado de profesionistas para atender las necesidades que requieren del servicio de determinada profesión.
 
 Estas autorizaciones, que podrán ratificarse por la Secretaría, previo estudio y dictamen se otorgarán, oyendo el parecer de los colegios respectivos, por un tiempo no mayor de tres años precisando las fechas de expedición y vencimiento.
 
@@ -253,7 +263,7 @@ Cada colegio se dará sus propios estatutos, sin contravenir las disposiciones d
 
 ###### Artículo 32o.
 
-Los colegios de profesionistas tendrán los siguientes propósitos:
+Los Colegios de Profesionistas tendrán los siguientes propósitos:
 
 a).- Vigilar el ejercicio profesional con objeto de que éste se realice dentro del más alto plano legal ético y moral.
 
@@ -261,7 +271,9 @@ b).- Promover la expedición de leyes, reglamentos y sus formas, relativas al ej
 
 c).- Auxiliar a la Administración Pública con capacidad para promover lo conducente a la moralización de las mismas.
 
-d).- Denunciar ante la Secretaría de Educación, Cultura y Promoción Social, o ante las autoridades penales las violaciones a la presente Ley.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1998)</small>
+
+d).- Denunciar ante la Secretaría de Educación, Cultura y Deportes, o ante las autoridades penales, las violaciones a la presente Ley.
 
 e).- Proponer los aranceles profesionales.
 
@@ -412,3 +424,9 @@ DADO en el PALACIO del PODER EECUTIVO (sic) en Victoria de Durango, Dgo., a los 
 El Gobernador Constitucional del Estado Lic. José Ramírez Gamero.- Rúbrica.
 
 El Secretario General de Gobierno Lic. Gustavo Rivera Ramos.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE JUNIO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
