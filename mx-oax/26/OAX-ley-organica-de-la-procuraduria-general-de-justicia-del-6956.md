@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-de-la-procuraduria-general-de-justicia-del-6956"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-12-31"
-last_updated: "2000-05-09"
+last_updated: "2004-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 31 de diciembre de 1983.
 
@@ -287,21 +287,23 @@ XXI.- Recibir las manifestaciones de bienes de los funcionarios y empleados del 
 
 XXII.- Dispensar la autopsia en los casos a que se refiere el artículo 33, Tercer Párrafo del Código de Procedimientos Penales del Estado.
 
-> <small>(ADICIONADA, P.O. 9 DE MAYO DEL 2000)</small>
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2004)</small>
 
-XXIII.- Nombrar al Jefe de la Unidad del Fondo para la Procuración de Justicia.
+XIII.- Crear centros de mediación públicos;
 
-> <small>(ADICIONADA, P.O. 9 DE MAYO DEL 2000)</small>
-
-XXIV.- Celebrar convenios y expedir acuerdos, circulares, instructivos, manuales de organización, de procedimientos y demás disposiciones jurídicas y administrativas que sean de su competencia, conducentes al buen despacho de las funciones de la Procuraduría para lograr la acción efectiva del Ministerio Público.
+XXIV.- Nombrar al Jefe de la Unidad del Fondo para la Procuración de Justicia.
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DEL 2000)</small>
 
-XXV.- Verificar la licitud de la enajenación de objetos y valores, que de acuerdo con el Código Penal del Estado, sean subastados públicamente; y
+XXV.- Celebrar convenios y expedir acuerdos, circulares, instructivos, manuales de organización, de procedimientos y demás disposiciones jurídicas y administrativas que sean de su competencia, conducentes al buen despacho de las funciones de la Procuraduría para lograr la acción efectiva del Ministerio Público.
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DEL 2000)</small>
 
-XXVI.- Las demás que con ese carácter le confieran las disposiciones legales aplicables y las demás que le otorgue el Gobernador del Estado.
+XXVI.- Verificar la licitud de la enajenación de objetos y valores, que de acuerdo con el Código Penal del Estado, sean subastados públicamente; y
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DEL 2000)</small>
+
+XXVII.- Las demás que con ese carácter le confieran las disposiciones legales aplicables y las demás que le otorgue el Gobernador del Estado.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
 
@@ -997,7 +999,9 @@ II.- Coordinar y supervisar las actividades que realizan en los módulos de orie
 
 III.- Promover la coordinación con otras dependencias y entidades del sector público, ampliando y facilitando el acceso de la comunidad a los servicios que requiera;
 
-IV.- Proporcionar a todas las personas la orientación que soliciten, canalizándolas a las dependencias y entidades adecuadas, con propósito tutelar, asistencial, preventivo y educacional, e instruyéndolas acerca de los derechos y obligaciones que tienen frente a la Institución del Ministerio Público;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2004)</small>
+
+IV.- Proporcionar a todas las personas la orientación y servicios de mediación que soliciten, canalizándolas a las dependencias y entidades adecuadas, con propósito tutelar, asistencial, preventivo y educacional, e instruyéndolas acerca de los derechos y obligaciones que tienen frente a la Institución del Ministerio Público;
 
 V.- Proporcionar orientación legal y social en relación a la procuración e impartición de justicia;
 
@@ -1024,6 +1028,12 @@ XV.- Atender las quejas por actos u omisiones de las autoridades, en relación a
 XVI.- Atender, evaluar y analizar el contenido de las quejas que se presenten contra servidores públicos que (sic) la Institución por incumplimiento de sus obligaciones y someterlas a la consideración y resolución de la autoridad a quien competa;
 
 XVII.- Atender, evaluar y analizar las denuncias que presente la Contraloría del Gobierno del Estado contra Funcionarios y Servidores Públicos por el incumplimiento de sus obligaciones, dándole el seguimiento que merecen y sometiéndolas a la consideración y resolución de la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2004)</small>
+
+XVIII. Coordinar los servicios de mediación y vigilar que los mediadores adscritos a la Dirección, observen el debido cumplimiento de la Ley de Mediación para el Estado de Oaxaca; y
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2004)</small>
 
 XVIII.- Las demás que le confiere el Procurador.
 
@@ -1211,9 +1221,11 @@ La persona hospitalizada que no se encuentre en calidad de detenido podrá ser a
 
 Si las diligencias practicadas por el Ministerio Público, resulta que no se ha llegado a comprobar el cuerpo del delito o establecer la probable responsabilidad del inculpado se procederá a dictar acuerdo de reserva, requiriéndose al ofendido o a quienes les resulte cita para que en su caso aporten nuevos datos y se girará oficio a la Policía Ministerial para que continúe la investigación.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 63.
 
-El Procurador General de Justicia ordenará el archivo de las diligencias practicadas cuando resulte que los hechos no son constitutivos de delito o que, siéndolo haya operado la prescripción para el ejercicio de la acción penal; cuando en aquellos delitos que se persigue por querella de parte ha habido perdón expreso del ofendido; cuando se compruebe la existencia de una excluyente de responsabilidad o excusa absolutoria o cuando haya muerto el inculpado.
+El Procurador General de Justicia ordenará el archivo de las diligencias practicadas en la averiguación previa, cuando resulte que los hechos no son constitutivos de delito o que, siéndolo haya operado la prescripción para el ejercicio de la acción penal; cuando en aquellos delitos que se persiguen por querella de parte ha habido perdón expreso del ofendido en su caso, se haya celebrado convenio en mediación y del mismo se desprenda que no existe obligaciones futuras; así también cuando se compruebe la existencia de una excluyente de responsabilidad, excusa absolutoria o se pruebe la muerte el inculpado.
 
 ###### ARTICULO 64.
 
@@ -1261,9 +1273,11 @@ El Ministerio Público dirigirá las investigaciones que practique la policía m
 
 Para los efectos de los artículos 48 y 49 de esta Ley, cualquiera persona que tenga conocimiento por sí o en el ejercicio de sus funciones públicas, de la comisión de un delito está obligado a denunciarlo al Ministerio Público, y en caso de urgencia ante cualquier funcionario o Agente de la Policía.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 72.
 
-En la presentación de querellas, únicamente se admitirá la intervención de apoderado con poder, con cláusula especial, si el ofendido es menor de edad podrá querellarse por sí mismo y si a su nombre se querella otro con personalidad suficiente surtirá sus efectos la querella si no hay oposición del ofendido.
+En la presentación de querellas, únicamente se admitirá la intervención de apoderado con poder general para pleitos y cobranzas, con la facultad de presentar querellas, transigir, mediar y desistirse de las mismas; si el ofendido es menor de edad, podrá querellarse por sí mismo y si a su nombre se querella otro con personalidad suficiente surtirá sus efectos la querella si no hay oposición del ofendido.
 
 ###### ARTICULO 73.
 
@@ -1519,9 +1533,11 @@ Los Agentes del Ministerio Público y el Personal Administrativo, no podrán sep
 
 Contra la resolución respecto del no ejercicio de la Acción Penal, procede el recurso de queja ante el Titular de la Institución.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 115.
 
-Durante la averiguación previa, tratándose de delitos que se persiguen a petición de parte y con la anuencia del ofendido, el Ministerio Público deberá procurar conciliar los intereses de las partes.
+Durante la averiguación previa tratándose de delitos que (sic) persiguen a petición de parte y con la anuencia del ofendido, el Ministerio Público deberá procurar conciliar con los intereses de las partes, o en su caso propondrá a las mismas a un proceso de mediación para la pronta y pacífica solución de conflictos.
 
 TRANSITORIOS:
 
@@ -1578,3 +1594,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Procurador General de Justicia, procederá a designar al Jefe de la Unidad del Fondo de Procuración de Justicia dentro del tercer día a partir de la vigencia de este Decreto.
 
 TERCERO.- El Titular de la Procuraduría, ordenará que los recursos que se mencionan en el presente Decreto, se remitan a más tardar dentro del término de ocho días a partir de la vigencia de este Decreto al Jefe de la Unidad del Fondo de Procuración de Justicia.
+
+P.O. 12 DE ABRIL DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
