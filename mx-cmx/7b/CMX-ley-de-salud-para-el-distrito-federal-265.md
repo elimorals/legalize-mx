@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-para-el-distrito-federal-265"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-15"
-last_updated: "1987-01-15"
+last_updated: "1998-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=265&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1986-12-19"
 
 LEY DE SALUD PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 15 de enero de 1987
 
@@ -186,43 +186,27 @@ VI.- Las demás que le atribuyan esta Ley y otras disposiciones aplicables.
 
 ###### ARTICULO 7o.
 
-Se crea el Instituto de Servicios de Salud del Distrito Federal, como un órgano desconcentrado del Departamento.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL, G.O. 29 DE DICIEMBRE DE 1998)
 
 ###### ARTICULO 8o.
 
-El Instituto tendrá a su cargo:
-
-I.- Planear, organizar y desarrollar el Sistema de Salud del Distrito Federal;
-
-II.- Organizar y ejecutar las acciones de regulación y control sanitario en materia de salubridad local;
-
-III.- Organizar, operar y supervisar la prestación de los servicios de salubridad general a que se refiere el artículo 6o. de esta Ley;
-
-IV.- Apoyar los programas y servicios de salud de Dependencias o entidades de la Administración Pública Federal, en los términos de la legislación aplicable y de las bases de coordinación que se celebren.
-
-En el caso de los programas y servicios de las instituciones federales de seguridad social, el apoyo se realizará tomando en cuenta lo que previenen las leyes que rigen el funcionamiento de dichas instituciones;
-
-V.- Determinar la periodicidad y características de la información que deberán proporcionar las unidades administrativas del Departamento en materia de salud, y
-
-VI.- Las demás que le señalen otras leyes y disposiciones aplicables.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL, G.O. 29 DE DICIEMBRE DE 1998)
 
 ###### ARTICULO 9o.
 
-El Jefe del Departamento por medio de Acuerdos delegatorios los cuales serán publicados en el Diario Oficial de la Federación y en la Gaceta Oficial de la Dependencia, establecerá las atribuciones que correspondan a las Delegaciones. El Instituto supervisará que estas atribuciones se ejerzan de conformidad a las establecidas en la Ley General, esta Ley, sus reglamentos y demás disposiciones aplicables.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL, G.O. 29 DE DICIEMBRE DE 1998)
 
 ###### ARTICULO 10.
 
-Serán órganos de Dirección y Administración del Instituto, una Junta Directiva y un Director General.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL, G.O. 29 DE DICIEMBRE DE 1998)
 
 ###### ARTICULO 11.
 
-La Junta Directiva estará integrada en la forma que se establezca en su Manual de Organización que será expedido por el Jefe del Departamento y se publicará en el Diario Oficial de la Federación y en la Gaceta Oficial de la Dependencia.
-
-El Director General será nombrado y removido por el Jefe del Departamento y tendrá, al igual que la Junta Directiva, las atribuciones que se señalen en el propio Manual de Organización.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL, G.O. 29 DE DICIEMBRE DE 1998)
 
 ###### ARTICULO 12.
 
-Para los efectos de la participación del Departamento en la prestación de los servicios de salubridad general a que se refieren las fracciones III, XXI, XXII, XXIII, XXIV, XXV, XXVI y XXVII del artículo 3o. de la Ley General, en los términos de las Bases de Coordinación que se expidan entre el Departamento y la Secretaría, el Instituto será la estructura administrativa a través del cual el propio Departamento realice esas actividades.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL, G.O. 29 DE DICIEMBRE DE 1998)
 
 ### CAPITULO II. Del Sistema de Salud del Distrito Federal
 
@@ -963,3 +947,15 @@ CUARTO.- Al personal de las dependencias que pasen a integrar el Instituto de Sa
 México, D. F., a 19 de diciembre de 1986.- Dip. Reyes Rodolfo Flores Z., Presidente.- Sen. Gonzalo Martínez Corbalá, Presidente.- Dip. Antonio Melgar Aranda, Secretario.- Sen. Héctor Jarquín Hernández. Secretario.- Rúbricas"
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de diciembre de mil novecientos ochenta y seis.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 29 DE DICIEMBRE DE 1998.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente decreto se publicará en la Gaceta Oficial del Distrito Federal, y en su caso, en el Diario Oficial de la Federación para su mayor difusión, e iniciará vigencia a partir del primero de enero de 1999.
+
+QUINTO.- Se derogan los artículos 7, 8, 9, 10, 11, 12 y demás disposiciones relativas al Instituto de Servicios de Salud del Distrito Federal señalados en la Ley de Salud para el Distrito Federal, publicada en el Diario Oficial de la Federación el 15 de enero de 1987, así como las demás disposiciones que se opongan al presente decreto.
+
+SEPTIMO.- Las referencias hechas a la Secretaría de Educación, Salud y Desarrollo Social, en otros ordenamientos deberán entenderse hechas a la Secretaría de Desarrollo Social, a partir de la entrada en vigor de este Decreto.
