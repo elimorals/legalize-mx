@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1988-07-20"
+last_updated: "1989-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 1989.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -356,6 +356,8 @@ El cargo de Diputado es incompatible con cualquier otro de la Federación, del E
 
 DE LA DIPUTACION PERMANENTE.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1989)</small>
+
 ###### Artículo 30.
 
 El Congreso del Estado calificará la elección de sus miembros a través de un Colegio Electoral integrado por cuatro presuntos diputados que de acuerdo con las constancias de mayoría que registre la Comisión local electoral hubieren obtenido mayor número de votos y por un presunto diputado que resultare electo en la circunscripción plurinominal que obtuviera la votación más alta.
@@ -478,7 +480,7 @@ XIII.- Decretar las contribuciones que deben formar la Hacienda Municipal, las q
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XIV.- Autorizar la venta, hipoteca o cualquier otro gravámen de bienes raíces del Estado, o de los Municipios, así como todos los actos o contratos que comprometan dichos bienes en uso o concesión en favor de particulares y de organismos públicos. Los actos o contratos que en esos supuestos realicen los Municipios deberán ser aprobados previamente por el Ayuntamiento en Sesión de Cabildo.
+XIV.- Autorizar la venta, hipoteca o cualquier otro gravamen de bienes raíces del Estado, o de los Municipios, así como todos los actos o contratos que comprometan dichos bienes en uso o concesión en favor de particulares y de organismos públicos. Los actos o contratos que en esos supuestos realicen los Municipios deberán ser aprobados previamente por el Ayuntamiento en Sesión de Cabildo.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -518,7 +520,7 @@ e).- A trabajo igual corresponderá salario igual sin tener en cuenta el sexo.
 
 f).- Sólo podrán hacerse retenciones, descuentos o embargos al salario, en los casos previstos en las Leyes.
 
-g).- La designación del personal se hará mediante sistemas que permitan apreciar los conocimientos y aptitudes de los aspirantes. El Estado establecerá academias en las que se impartan los cursos necesarios para que los trabajadores que lo deseén puedan adquirir los conocimientos necesarios para obtener ascensos conforme al Escalafón.
+g).- La designación del personal se hará mediante sistemas que permitan apreciar los conocimientos y aptitudes de los aspirantes. El Estado establecerá academias en las que se impartan los cursos necesarios para que los trabajadores que lo deseen puedan adquirir los conocimientos necesarios para obtener ascensos conforme al Escalafón.
 
 h).- Los trabajadores gozarán de derechos de escalafón a fin de que los derechos se otorguen en función de los conocimientos, aptitudes y antigüedad.
 
@@ -574,7 +576,7 @@ XXVI.- Nombrar y remover a los trabajadores al servicio del Poder Legislativo co
 
 XXVII.- Recibir a los Diputados, Gobernador, Magistrados del Tribunal Superior y Contador Mayor de Hacienda, la protesta a que se refiere el Artículo 133 de esta Constitución.
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 30 DE JULIO DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 1986)</small>
 
 XXVIII.- Examinar y calificar la Cuenta Pública del Trimestre anterior que oportunamente deberá presentarle el Ejecutivo.
 
@@ -630,7 +632,7 @@ XL.- Decidir sobre la legalidad de las elecciones municipales, cuando se reclame
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XLI.- Declarar que ha lugar o no a formación de causa por delitos oficiales y del órden común en contra de los Diputados, el Gobernador, los Secretarios de Despacho, Procurador de Justicia y Magistrados del tribunal Superior de Justicia.
+XLI.- Declarar que ha lugar o no a formación de causa por delitos oficiales y del orden común en contra de los Diputados, el Gobernador, los Secretarios de Despacho, Procurador de Justicia y Magistrados del tribunal Superior de Justicia.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -677,8 +679,6 @@ LI.- Las demás que expresamente le confiere esta Constitución.
 El congreso del Estado, por acuerdo cuando menos de las dos terceras partes de sus integrantes podrá declarar la desaparición de Ayuntamientos, suspenderlos en su totalidad, suspender a alguno de los integrantes de los propios Municipios, siempre y cuando los afectados hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convenga en los siguientes casos:
 
 I.- Declarará la desaparición de Ayuntamientos cuando se hayan presentado previamente circunstancias de hecho como la desintegración del Cuerpo Edilicio o que éste se encuentre imposibilitado para el ejercicio de sus funciones conforme al orden Constitucional tanto Federal como Estatal;
-
-REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)
 
 III (sic) .- Podrá dictar la suspensión definitiva de un Ayuntamiento en su totalidad, en los siguientes casos:
 
@@ -782,7 +782,7 @@ DE LOS SECRETARIOS.
 
 ###### Artículo 53.
 
-Durante el receso del Congreso, habrá una Diputación Permanente compuesta de tres Diputados, nombrados por el Congreso la víspera de la clausura de sus sesiones; se instalará el día siguiente y durará todo el tiempo de receso, aun cuando haya sesiones extraordinarias.
+Durante el receso del Congreso, habrá una Diputación Permanente compuesta de cinco Diputados, nombrados por el Congreso en la Sesión de la Clausura del Período Ordinario, se instalará el mismo día y durará todo el tiempo del receso, aún cuando haya Sesiones Extraordinarias.
 
 ###### Artículo 54.
 
@@ -822,7 +822,7 @@ E.- Cuando lo pida el Ejecutivo del Estado.
 
 F.- Para conocer la legalidad de elecciones en todos los casos.
 
-VI.- Remitir al Ejecutivo el Decreto de convocatoria a sesiones extraordinarias, subscrito por el Presidente y Secretario, y publicarlo, si aquél no lo hiciere dentro del término de seis días.
+VI.- Remitir al Ejecutivo el Decreto de convocatoria a sesiones extraordinarias, subscrito (sic) por el Presidente y Secretario, y publicarlo, si aquél no lo hiciere dentro del término de seis días.
 
 VII.- Conceder licencia a alguno o algunos de sus miembros para separarse de su encargo, procurando que no falte el "quórum" legal, y llamar a los suplentes respectivos.
 
@@ -2179,3 +2179,17 @@ P.O. 20 DE JULIO DE 1988.
 ###### ARTICULO UNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE FEBRERO DE 1989.
+
+###### ARTICULO PRIMERO.
+
+Envíese copia del presente Decreto, a los treinta y tres Ayuntamientos que conforman nuestra Entidad Federativa, para los efectos a que hacen referencia los Artículos 147 Fracción I, de la Constitución Política Local, y 81 de la Ley Orgánica del Congreso del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Una vez que se haya dado cumplimiento a lo previsto por el Artículo 148, de nuestra Constitución Política Local, remítase al Ejecutivo del Estado, el presente Decreto para los efectos a que hace referencia la Fracción XVII, del Artículo 70, de la Constitución Política del Estado.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado.
