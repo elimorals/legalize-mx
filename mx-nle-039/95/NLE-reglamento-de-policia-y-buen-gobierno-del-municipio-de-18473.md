@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-18473"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-07-14"
-last_updated: "2000-12-06"
+last_updated: "2001-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18473&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2001.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 14 de julio de 2000.
 
@@ -69,7 +69,7 @@ I.- El C. Presidente Municipal
 
 II.- El C. Secretario del R. Ayuntamiento
 
-III.- El C. Secretario de Policía Preventiva Municipal de Monterrey
+III.- El C. Secretario de Policía Preventiva de Municipal de Monterrey
 
 IV.- El C. Secretario de Vialidad y Tránsito
 
@@ -137,7 +137,9 @@ XIX.- Formular anteproyectos de programas y presupuestos de los asuntos de su co
 
 XX.- Elaborar y proponer al Presidente Municipal el Manual de Organización de la Policía Municipal de la Ciudad de Monterrey.
 
-XXI.- Brindar al Presidente Municipal y a su familia protección a su integridad física, durante el ejercicio de su encargo y hasta seis meses siguientes a la conclusión del mismo, término que será prorrogable a juicio de la autoridad competente tomando en consideración las circunstancias particulares del caso.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2001)</small>
+
+XXI.- Brindar al Presidente Municipal y a su familia protección a su integridad física, durante el ejercicio de su encargo.
 
 XXII.- Las demás que le asignen Leyes y Reglamentos y el Presidente Municipal.
 
@@ -155,6 +157,10 @@ a).- Deberá llevar un libro con el registro de personas detenidas en el que por
 
 b).- En el caso de encontrarse detenidos provisionalmente menores de edad deberán de ser instalados en un área especial para ellos, separada de los mayores de edad.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JULIO DE 2001)</small>
+
+c).- Constituirse en depositario de los bienes y objetos que le sean recogidos a los detenidos, los cuales se les devolverán al momento en que sean puestos nuevamente en libertad o consignados a otra autoridad.
+
 ###### Art. 14º.
 
 Los Jueces Calificadores, tendrán las siguientes atribuciones y responsabilidades:
@@ -169,7 +175,7 @@ IV.- Poner a disposición de las autoridades competentes a los detenidos, cuando
 
 V.- Poner a disposición de las autoridades competentes, a los menores que hayan sido detenidos.
 
-VI.- Constituirse en depositario de los bienes y objetos que le sean recogidos a los detenidos, los cuales se les devolverán al momento en que sean puestos nuevamente en libertad o consignados a otra autoridad.
+VI.- (REFORMADA [N. DE E. DEROGADA, P.O. 11 DE JULIO DE 2001)
 
 VII.- Las demás que le confieren las leyes o los reglamentos.
 
@@ -387,6 +393,10 @@ V.- Incinerar basura sin autorización de autoridad competente.
 
 VI.- Atrapar o cazar fauna, desmontar, retirar tierra de bosques o zonas de reserva ecológica, sin permiso de la autoridad competente.
 
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2001)</small>
+
+VII.- Causar ruidos o sonidos que moleste, perjudique o afecte la tranquilidad de la ciudadanía, tales como los producidos por estéreos, radios, radio grabadoras, instrumentos musicales o aparatos de sonido que excedan el nivel de 68 dB (decibeles) de las 6:00 a las 22:00 horas y de 65 dB (decibeles) de las 22:00 a las 6:00 horas, del día siguiente.
+
 ### Capítulo XI. Infracciones de Carácter Administrativo
 
 ###### Art. 24º.
@@ -493,9 +503,9 @@ No obstante lo dispuesto en el párrafo anterior, se deberán observar las sigui
 
 a).- Se deberá sancionar con arresto, las infracciones que se precisan en el Artículo 17, fracciones XI y XII; en el Artículo 18 fracciones V, XI y XII; en el Artículo 19 fracción III; en el Artículo 20 fracciones I, II, III, V, VI y VII; en el Artículo 22 fracciones III y VII; en el Artículo 23 fracciones I y IV.
 
-> <small>(F. DE E., P.O. 19 DE JULIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2001)</small>
 
-b).- Se sancionará con multa o con arresto las infracciones que se precisan en el Artículo 17 fracciones I, II, III, IV, V, VI, VII, IX y X; en el Artículo 18 fracciones I, III, IV, VI, VIII, IX, X, XV y XVI; en el Artículo 19 fracciones II, IV, V, VII, VIII, X, XI, XII, XIII, XIV y XVII; en el Artículo 21 fracciones I y III; en el Artículo 22 fracciones I, II, IV, V y VI; en el Artículo 23 fracciones III y VI; en el Artículo 24 fracciones I, IV y V.
+b).- Se sancionará con multa o con arresto las infracciones que se precisan en el Artículo 17 fracciones I, II, III, IV, V, VI, VII, IX y X; en el Artículo 18 fracciones I, III, IV, VI, VIII, IX, X, XV y XVI; en el Artículo 19 fracciones II, IV, V, VII, VIII, X, XI, XII, XIII, XIV y XVII; en el Artículo 21 fracciones I y III; en el Artículo 22 fracciones I, II, IV, V y VI; en el Artículo 23 fracciones III y VI y VII; en el Artículo 24 fracciones I, IV y V.
 
 ###### Art. 38º.
 
@@ -672,3 +682,13 @@ LA REFORMA CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELAC
 P.O. 6 DE DICIEMBRE DE 2000.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JULIO DE 2001.
+
+Primero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y deberán publicarse en la Gaceta Municipal de Monterrey.
+
+Segundo.- Los bienes que a la entrada en vigor de esta reforma se encuentren bajo custodia de los Jueces Calificadores permanecerán bajo su resguardo y responsabilidad hasta que sean regresados a los detenidos, al momento de ser puestos nuevamente en libertad o consignados a otra autoridad.
+
+Tercero.- Instrúyase al Secretario de Policía Preventiva Municipal, a tomar prevenciones pertinentes, para la adquisición de sonómetros que se requieran en la medida que los recursos asignados a la Secretaría lo permitan.
+
+Cuarto.- Se derogan todas las disposiciones que contravengan el contenido de esta reforma.
