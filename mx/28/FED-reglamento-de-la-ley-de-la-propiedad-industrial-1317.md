@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-la-propiedad-industrial-1317"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-11-23"
-last_updated: "1994-11-23"
+last_updated: "2002-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-11-18"
 
 REGLAMENTO DE LA LEY DE LA PROPIEDAD INDUSTRIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE SEPTIEMBRE DE 2003.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 23 de noviembre de 1994.
 
@@ -569,101 +569,15 @@ Las reglas a que se refiere el artículo 116 de la Ley deberán pactarse por los
 
 Las reglas deberán incluir asimismo estipulaciones sobre la limitación de productos o servicios, régimen de las licencias, la cancelación a que se refiere el artículo 154 de la Ley y sobre la representación común.
 
-###### ARTICULO 59.
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2002)</small>
 
-La clasificación de productos y servicios a que se refiere el artículo 93 de la Ley, será la siguiente:
+###### ARTÍCULO 59.
 
-I.- Productos
+La clasificación de productos y servicios a que se refiere el artículo 93 de la Ley será la Clasificación Internacional de Productos y Servicios para el Registro de las Marcas vigente, establecida en virtud del Arreglo de Niza.
 
-Clase 1. Productos químicos destinados a la industria, ciencia, fotografía, horticultura y silvicultura; resinas artificiales en estado bruto, materias plásticas en estado bruto; abono para las tierras; composiciones extintoras; preparaciones para el temple y soldadura de metales; productos químicos destinados a conservar los alimentos; materias curtientes; adhesivos (pegamentos) destinados a la industria.
+El Instituto publicará en la Gaceta las clases de productos y servicios comprendidos en la clasificación vigente, así como la lista alfabética de los mismos, con indicación de la clase en la que esté comprendido cada producto o servicio.
 
-Clase 2. Colores, barnices, lacas; conservantes contra la herrumbre y el deterioro de la madera; materias tintóreas; mordientes; resinas naturales en estado bruto; metales en hojas y en polvo para pintores, decoradores, impresores y artistas.
-
-Clase 3. Preparaciones para blanquear y otras sustancias para la colada; preparaciones para limpiar, pulir, desengrasar y raspar; jabones; perfumería; aceites esenciales, cosméticos, lociones para el cabello; dentífricos.
-
-Clase 4. Aceites y grasas industriales; lubricantes; productos para absorber, regar y concentrar el polvo; combustibles (incluyendo gasolinas para motores) y materiales de alumbrado; bujías, mechas.
-
-Clase 5. Productos farmacéuticos, veterinario e higiénicos; sustancias dietéticas para uso médico, alimentos para bebés; emplastos, material para apósitos; material para empastar los dientes y para moldes dentales; desinfectantes; productos para la destrucción de animales dañinos; fungicidas, herbicidas.
-
-Clase 6. Metales comunes y sus aleaciones; materiales de construcción metálicos; construcciones transportables metálicas; materiales metálicos para vías férreas: cables e hilos metálicos no eléctricos; cerrajería y ferretería metálica; tubos metálicos; cajas de caudales; productos metálicos no comprendidos en otras clases; minerales.
-
-Clase 7. Máquinas y máquinas herramientas; motores (excepto motores para vehículos terrestres); acoplamientos y órganos de transmisión (excepto para vehículos terrestres); instrumentos agrícolas; incubadoras de huevos.
-
-Clase 8. Herramientas e instrumentos de mano impulsados manualmente; cuchillería, tenedores y cucharas; armas blancas; maquinillas de afeitar.
-
-Clase 9. Aparatos e instrumentos científicos, náuticos, geodésicos, eléctricos, fotográficos, cinematográficos, ópticos, de pesar, de medida de señalización, de control (inspección), de socorro (salvamento) y de enseñanza; aparatos para el registro, transmisión, reproducción de sonido o imágenes; soportes de registro magnéticos, discos acústicos; distribuidores automáticos y mecanismos para aparatos de previo pago; cajas registradoras, máquinas calculadoras, equipo para el tratamiento de la información y ordenadores; extintores.
-
-Clase 10. Aparatos e instrumentos quirúrgicos, médicos, dentales y veterinarios, miembros, ojos y dientes artificiales; artículos ortopédicos; material de sutura.
-
-Clase 11. Aparatos de alumbrado, de calefacción, de producción de vapor, de cocción, de refrigeración, de secado, de ventilación, de distribución de agua e instalaciones sanitarias.
-
-Clase 12. Vehículos; aparatos de locomoción terrestre, aérea o marítima.
-
-Clase 13. Armas de fuego; municiones y proyectiles; explosivos; fuegos de artificio.
-
-Clase 14. Metales preciosos y sus aleaciones y artículos de estas materias o de chapado no comprendidos en otras clases; joyería, bisutería, piedras preciosas; relojería e instrumentos cronométricos.
-
-Clase 15. Instrumentos de música.
-
-Clase 16. Papel, cartón y artículos de estas materias, no comprendidos en otras clases; productos de imprenta; artículos de encuadernación; fotografías; papelería; adhesivos (pegamentos) para la papelería o la casa; material para artistas; pinceles; máquinas de escribir y artículos de oficina (excepto muebles); material de instrucción o de enseñanza (excepto aparatos); materias plásticas para embalaje (no comprendidas en otras clases); naipes; caracteres de imprenta; clichés.
-
-Clase 17. Caucho, gutapercha, goma, amianto, mica y productos de estas materias no comprendidos en otras clases; productos en materias plásticas semielaboradas; materias que sirven para calafatear, cerrar con estopa y aislar; tubos flexibles no metálicos.
-
-Clase 18. Cuero e imitaciones de cuero, productos de estas materias no comprendidos en otras clases; pieles de animales; baúles y maletas; paraguas, sombrillas y bastones; fustas y guarnicionería.
-
-Clase 19. Materiales de construcción no metálicos; tubos rígidos no metálicos para la construcción; asfalto, pez y betún; construcciones transportables no metálicas; monumentos no metálicos.
-
-Clase 20. Muebles, espejos, marcos; productos, no comprendidos en otras clases, de madera, corcho, caña, junco, mimbre, cuerno, hueso, marfil, ballena, concha, ámbar, nácar, espuma de mar, sucedáneos de todas estas materias o materias plásticas.
-
-Clase 21. Utensilios y recipientes para el menaje o la cocina (que no sean de materiales preciosos ni chapados); peines y esponjas; cepillos (excepto pinceles); materiales para la fabricación de cepillos; material de limpieza; viruta de hierro; vidrio en bruto o semielaborado (excepto vidrio de construcción); cristalería, porcelana y loza, no comprendidas en otras clases.
-
-Clase 22. Cuerda, bramante, redes, tiendas de campaña, toldos, velas, sacos (no comprendidos en otras clases); materias de relleno (con excepción del caucho o materias plásticas); materias textiles fibrosas, en bruto.
-
-Clase 23. Hilos para uso textil.
-
-Clase 24. Tejidos y productos textiles no comprendidos en otras clases; ropa de cama y de mesa.
-
-Clase 25. Vestidos, calzados, sombrerería.
-
-Clase 26. Puntillas y bordados, cintas y lazos, botones, corchetes y ojillos, alfileres y agujas; flores artificiales.
-
-Clase 27. Alfombras, felpudos, esteras, linóleum y otros revestimientos de suelos; tapicerías murales que no sean en materias textiles.
-
-Clase 28. Juegos, juguetes, artículos de gimnasia y de deporte no comprendidos en otras clases; decoraciones para árboles de Navidad.
-
-Clase 29. Carne, pescado, aves y caza; extractos de carne; frutas y legumbres en conserva, secas y cocidas; gelatinas, mermeladas, compotas; huevos, leche y productos lácteos; aceites y grasas comestibles.
-
-Clase 30. Café, té, cacao, azúcar, arroz, tapioca, sagú, sucedáneos del café; harinas y preparaciones hechas de cereales, pan, pastelería y confitería, helados comestibles; miel, jarabe de melaza; levaduras, polvos para esponjar; sal, mostaza, vinagre, salsas (condimentos); especias, hielo.
-
-Clase 31. Productos agrícolas, hortícolas, forestales y granos, no comprendidos en otras clases; animales vivos; frutas y legumbres frescas; semillas, plantas y flores naturales; alimentos para los animales, malta.
-
-Clase 32. Cervezas; aguas minerales y gaseosas y otras bebidas no alcohólicas; bebidas y zumos de frutas; siropes y otras preparaciones para hacer bebidas.
-
-Clase 33. Bebidas alcohólicas (excepto cervezas).
-
-Clase 34. Tabaco; artículos para fumadores; cerillas.
-
-II.- Servicios
-
-Clase 35. Publicidad; gestión de negocios comerciales; administración comercial; trabajos de oficina.
-
-Clase 36. Seguros; negocios financieros; negocios monetarios; negocios inmobiliarios.
-
-Clase 37. Construcción; reparación; servicios de instalación.
-
-Clase 38. Telecomunicaciones.
-
-Clase 39. Transporte; embalaje y almacenaje de mercancías; organización de viajes.
-
-Clase 40. Tratamiento de materiales.
-
-Clase 41. Educación; formación; esparcimiento; actividades deportivas y culturales.
-
-Clase 42. Restauración (alimentación); alojamiento temporal; cuidados médicos, de higiene y de belleza; servicios veterinarios y de agricultura; servicios jurídicos; investigación científica e industrial; programación de ordenadores; servicios que no puedan ser clasificados en otras clases.
-
-El Instituto publicará en la Gaceta la lista alfabética de productos y servicios, con indicación de la clase en la que esté comprendido cada producto o servicio.
-
-Los productos y servicios incluidos en la lista alfabética de la clasificación se considerarán especies. Se entenderá que los productos y servicios ordenados en su respectiva clase no agotan ésta.
+Los productos o servicios incluidos en la lista alfabética de la clasificación se considerarán especies. Se entenderá que los productos y servicios ordenados en su respectiva clase no agotan ésta.
 
 El Instituto establecerá los criterios de interpretación y aplicación de esta clasificación.
 
@@ -846,3 +760,9 @@ TERCERO.- En tanto el Instituto no publique las formas oficiales, seguirán empl
 CUARTO.- Los asuntos que estuvieren en trámite al entrar en vigor este Reglamento, se regirán y substanciarán conforme a las disposiciones del presente Reglamento en cuanto no lesionen derechos adquiridos.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los dieciocho días del mes de noviembre de mil novecientos noventa y cuatro.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Jorge Carpizo.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Jaime Serra Puche.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 10 DE SEPTIEMBRE DE 2002.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
