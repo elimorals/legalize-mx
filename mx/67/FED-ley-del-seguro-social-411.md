@@ -4,7 +4,7 @@ identifier: "FED-ley-del-seguro-social-411"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-12"
-last_updated: "1993-07-20"
+last_updated: "1994-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=411&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 1994.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 12 de marzo de 1973.
 
@@ -1782,11 +1782,11 @@ b) Con más de veintiséis semanas reconocidas se tiene derecho al cien por cien
 
 El Instituto otorgará a los pensionados comprendidos en este capítulo, un aguinaldo anual equivalente a una mensualidad del importe de la pensión que perciban.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 168.
 
-La pensión de invalidez, de vejez, o cesantía en edad avanzada incluyendo las asignaciones familiares y ayudas asistenciales que en su caso correspondan, no podrá ser inferior al noventa por ciento del salario mínimo general que rija para el Distrito Federal.
+La pensión de invalidez, vejez o cesantía en edad avanzada incluyendo las asignaciones familiares y ayudas asistenciales que en su caso correspondan, no podrá ser inferior al 100% del salario mínimo general que rija para el Distrito Federal.
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1990)</small>
 
@@ -3507,3 +3507,11 @@ Año Patrones Trabajadores
 1995 5.810 2.075
 
 La cuantía de la contribución del Estado para los referidos seguros será igual al resultado de aplicar el porcentaje indicado en el artículo 178 de la Ley, al total de las cuotas patronales conforme al presente artículo.
+
+D.O.F. 1 DE JUNIO DE 1994.
+
+Primero. El presente decreto entrará en vigor el (sic)
+
+Segundo. Durante el período comprendido entre el 1o. de junio de 1994 al 31 de diciembre de 1994, la pensión de invalidez, vejez o cesantía en edad avanzada, incluyendo las asignaciones familiares y ayudas asistenciales que en su caso correspondan, no podrá ser inferior al 95% del salario mínimo general que rija para el Distrito Federal.
+
+Tercero. El Instituto Mexicano del Seguro Social podrá utilizar los activos financieros señalados en el artículo 264 de la Ley del Seguro Social que sean indispensables para financiar los incrementos a que se refiere el transitorio anterior.
