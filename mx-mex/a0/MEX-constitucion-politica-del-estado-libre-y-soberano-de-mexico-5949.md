@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1975-01-30"
+last_updated: "1975-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ENERO DE 1975.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE ABRIL DE 1975.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -87,7 +87,7 @@ DECRETO NUMERO 73, POR EL QUE SE REFORMAN LOS ARTICULOS 70 FRACCIONES XI, XII, X
 
 UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
 
-G.G. 4 DE JULIO DE 1942.
+G.G. 4 DE JULIO DE 1942
 
 El presente Decreto entrará en vigor a partir de su publicación en la "Gaceta del Gobierno". El Gobernador designado por esta Legislatura con el carácter de Interino con fecha 16 de marzo de 1942, continuará en el desempeño de su cargo, con el carácter de Substituto, hasta la terminación del periodo de 1941 a 1945.
 
@@ -315,7 +315,7 @@ Nunca podrán reunirse dos ni los tres Poderes del Estado en una persona o corpo
 
 El ejercicio del Poder Legislativo del Estado se deposita en una Asamblea que se denominará Legislatura del Estado y que será integrada por Diputados electos por sufragio directo, complementándose con Diputados de Partido.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1974)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 1975)</small>
 
 ### CAPITULO SEGUNDO. DEL PODER LEGISLATIVO
 
@@ -337,19 +337,29 @@ Se elegirán un diputado propietario y un suplente para cada doscientos cincuent
 
 ###### Artículo 38.
 
-Se elegirán un Diputado Propietario y un Suplente para cada doscientos cincuenta mil habitantes o más, no pudiendo el Congreso del Estado, en ningún caso, quedar integrado por menos de trece Diputados.
+Se elegirán un Diputado Propietario y un Suplente por cada setenta y cinco mil habitantes o más, no pudiendo el Congreso del Estado, en ningún caso, quedar integrado por menos de trece Diputados.
 
-> <small>(F. DE E., P.O. 22 DE ENERO DE 1976)</small>
+(REFORMADO, P.O. 2 DE FEBRERO DE 1974)(F. DE E., P.O. 22 DE ENERO DE 1976)
 
 La elección de Diputados será directa, con sujeción a lo dispuesto en el párrafo anterior y se complementará, además con Diputados de Partido, apegándose en ambos casos a lo que disponga la Ley Electoral del Estado, y , en el segundo, a las reglas siguientes:
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1974)</small>
+
 Todo Partido Político Nacional, legalmente registrado en el Estado, que obtenga cuando menos el uno y medio por ciento de la votación total en la Entidad en la elección respectiva, tendrá derecho a que se acrediten a un Diputado de sus candidatos y a uno más si ha obtenido el tres por ciento o más de la votación total.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1974)</small>
 
 Si logra la mayoría en dos o más Distritos Electorales no tendrá derecho a que sean reconocidos Diputados de Partido, pero si triunfa en menor número, siempre que logre el uno y medio por ciento mencionado en el párrafo anterior, tendrá derecho a que sean acreditados hasta dos Diputados sumando el electo directamente y el que obtuvo el triunfo por razón de porcentaje.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1974)</small>
+
 Estos serán acreditados de acuerdo con el porcentaje de sufragios que hayan obtenido en relación a los demás candidatos del mismo Partido, en sus respectivos distritos.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1974)</small>
+
 Sólo podrán acreditar Diputados en los términos de este artículo, los Partidos Políticos legalmente registrados conforme a la Ley Electoral del Estado, por lo menos con un año de anterioridad al día de la elección.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1974)</small>
 
 Los Diputados de mayoría y los de Partido tendrán la misma categoría e iguales derechos y obligaciones.
 
@@ -2312,6 +2322,12 @@ En lo relativo a las faltas absolutas, temporales o accidentales, nombramientos 
 ###### ARTICULO 5o.
 
 Las Salas de nueva creación del Tribunal Superior de Justicia del Estado de México, empezarán a funcionar el día 15 de febrero del presente año, y para el efecto el Ciudadano Gobernador del Estado proveerá lo conducente.
+
+G.G. 15 DE ABRIL DE 1975.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
 ###### ARTICULO SEGUNDO.
 
