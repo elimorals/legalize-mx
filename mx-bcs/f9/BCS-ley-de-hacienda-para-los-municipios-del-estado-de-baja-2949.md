@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-los-municipios-del-estado-de-baja-2949"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1993-12-10"
+last_updated: "1994-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE OCTUBRE DE 1994.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1985.
 
@@ -2105,11 +2105,11 @@ PARTICIPACIONES.
 
 El incumplimiento del Artículo 110, será acrredor (sic) a una sanción de 3 a 50 días salario mínimo.
 
-### CAPITULO SEGUNDO
+### CAPITULO PRIMERO
 
-DE LAS ACTIVIDADES COMERCIALES, INDUSTRIALES, MINERAS Y DE PRESTACION DE SERVICIOS.
+DISPOSICIONES GENERALES.
 
-> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 1994)</small>
 
 ###### ARTICULO 106-B.
 
@@ -2139,15 +2139,15 @@ La tasa de la contribución especial será el 1.3% sobre la base mencionada en e
 
 Los ingresos que se obtengan por la enajenación de los artículos integrantes de la canasta básica señalados por la Secretaría de Comercio y Fomento Industrial, estarán exentos al pago de la contribución especial.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 30 DE JUNIO DE 1991)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 112.
 
 Los giros que no estén inscritos en el padrón correspondiente o por los que no se hubiera obtenido licencia para su funcionamiento y operen infringiendo los términos de la licencia concedida, serán clausurados por las autoridades fiscales sin perjuicio de las sanciones correspondientes.
 
-### CAPITULO PRIMERO
+### CAPITULO SEGUNDO
 
-DISPOSICIONES GENERALES.
+DE LAS ACTIVIDADES COMERCIALES, INDUSTRIALES, MINERAS Y DE PRESTACION DE SERVICIOS.
 
 > <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
 
@@ -2283,7 +2283,7 @@ T R A N S I T O R I O S :
 
 CONTRIBUCIONES ESPECIALES.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE JUNIO DE 1991)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 30 DE JUNIO DE 1991)</small>
 
 ### CAPITULO TERCERO
 
@@ -2293,7 +2293,7 @@ DISPOSICIONES COMUNES.
 
 ###### ARTICULO 106-A.
 
-Se establece en el Municipio de Los Cabos la contribución especial para la obtención de recursos destinados a la modernización a cuatro carriles de la carretera transpeninsular en el tramo, aeropuerto Los Cabos-San José del Cabo-Cabo San Lucas.
+Se establece en el Municipio de Los Cabos la contribución especial para la obtención de recursos destinados a la modernización a cuatro carriles de la carretera transpeninsular en el tramo Aeropuerto - San José del Cabo - Cabo San Lucas, y para la realización de obras de infraestructura y equipamiento urbano.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE JUNIO DE 1991)</small>
 
@@ -2419,12 +2419,38 @@ DURANTE LOS AÑOS DE 1991, 1992 Y 1993 SE APLICARAN LAS TASAS DEL 8%, 6% Y 4% RE
 
 EL PRESENTE DECRETO, SURTIRA EFECTOS A PARTIR DEL DIA PRIMERO DE JULIO DE 1991, PREVIA PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
 
-B.O. 10 DE DICIEMBRE DE 1993.
-
-UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR A PARTIR DEL DIA PRIMERO DE ENERO DE MIL NOVECIENTOS NOVENTA Y CUATRO.
-
 B.O. 31 DE DICIEMBRE DE 1991.
 
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
+
+B.O. 10 DE DICIEMBRE DE 1993.
+
+UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR A PARTIR DEL DIA PRIMERO DE ENERO DE MIL NOVECIENTOS NOVENTA Y CUATRO.
+
+B.O. 10 DE OCTUBRE DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+La administración de los recursos que se recauden por la Tesorería General Municipal del Ayuntamiento de Los Cabos, provenientes de la contribución especial a que se refiere el Título Quinto Bis de la Ley de Hacienda para los Municipios del Estado de Baja California Sur, se realizará a través del Fideicomiso irrevocable de inversión, administración y fuente de pago que en la actualidad se ha constituido con la institución de crédito Banobras, S.N.C., actuando como fiduciaria, para lo cual deberá celebrarse el convenio modificatorio respectivo.
+
+###### ARTICULO TERCERO.
+
+En la determinación de las obras de infraestructura y equipamiento urbano a que se refiere el presente Decreto, se estará en lo dispuesto en la Ley de Planeación del Estado de Baja California Sur.
+
+###### ARTICULO CUARTO.
+
+El Ayuntamiento de Los Cabos deberá informar a la comunidad del Municipio con una periodicidad mensual sobre la recaudación en la Tesorería General Municipal de los ingresos provenientes de la contribución especial a que se refiere el Título Quinto Bis de la Ley de Hacienda para los Municipios del Estado de Baja California Sur.
+
+###### ARTICULO QUINTO.
+
+Con motivo de la reforma que refiere el presente decreto, los créditos que llegaren a contratarse para la realización de obras de infraestructura y equipamiento urbano, bajo ninguna circunstancia deberá modificar el plazo máximo de 120 meses a que se refiere la cláusula sexta del contrato de apertura de crédito, deuda solidaria y constitución de garantía, celebrado con efectos a partir del día 13 de julio de 1992, entre el Banco Nacional de Obras y Servicios Públicos, S.N.C., el Municipio de Los Cabos y en el que participa el Gobierno del Estado de Baja California Sur, como deudor solidario, contrato mediante el cual se autoriza el crédito al Honorable Ayuntamiento del Municipio de Los Cabos par cubrir parcialmente el monto de la aportación que le corresponde al Fideicomiso de Inversión y Administración para la ejecución de la obra de modernización a cuatro carriles de la carretera transpeninsular en el tramo Aeropuerto - San José del Cabo - Cabo San Lucas, Baja California Sur.
+
+###### ARTICULO SEXTO.
+
+El Honorable V Ayuntamiento de Los Cabos, deberá difundir ampliamente entre la población del Municipio de Los Cabos, el resultado de la auditoria que se realiza actualmente con relación a la captación y destino de la contribución especial del 1.3% a que se refiere el Título Quinto Bis, de la Ley de Hacienda para los Municipios del Estado de Baja California Sur.
