@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-impuesto-predial-10738"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-31"
-last_updated: "1994-12-29"
+last_updated: "1995-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL IMPUESTO PREDIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial, el 31 de diciembre de 1986.
 
@@ -169,17 +169,17 @@ Para los efectos de esta Ley, el año de calendario se divide en los siguientes 
 
 El pago del Impuesto deberá hacerse en efectivo en las oficinas Recaudadoras Municipales o en las que autorice la Autoridad Competente. El pago se hará por bimestres vencidos, a más tardar el día 15 de los meses de Marzo, Julio, Septiembre, Noviembre y Enero, salvo que durante dicho plazo se pretenda enajenar el predio o transmitir su posesión, caso en el cual se hará anticipadamente a más tardar en la fecha de enajenación o transmisión de la posesión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 28 DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 17.
 
 El pago del Impuesto Predial podrá hacerse por anualidad anticipada, dentro del primer bimestre de cada año, caso en el que el contribuyente tendrá derecho a una reducción del 8% sobre la cantidad total que le correspondiera pagar.
 
-Cuando se haga el pago en los términos del párrafo anterior, no se aplicará durante el año receptivo lo dispuesto en la fracción II del Artículo 19 de esta Ley.
+El titular de los derechos de un inmueble baldío no será sujeto de este descuento, cuando así lo acuerde el Ayuntamiento correspondiente respecto de los siguientes casos:
 
-En los demás casos en que proceda el cambio del valor base del impuesto de un predio durante el año de calendario por el que se haya hecho el pago anual anticipado, sólo se cobrarán las diferencias que sobre lo pagado resulten por la aplicación de las demás disposiciones de esta Ley al nuevo valor determinado.
+a)El predio exceda de doscientos metros cuadrados; o
 
-En los casos de fusión de predios, cuando se haya hecho el pago anual anticipado, respecto de todos los predios fusionados, no se cobrará diferencia alguna durante el resto del año de calendario en que ocurra la fusión. Cuando se haya hecho el pago anual cuando menos por uno de los predios fusionados, el Impuesto se seguirá pagando por el resto del año, individualmente por cada uno de los restantes predios.
+b) Sea titular respecto de mas de un inmueble.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -504,3 +504,9 @@ PRIMERO Esta Ley entrará en vigor el día 1° de Enero de 1995.
 SEGUNDO Se derogan todas las disposiciones que se opongan a la presente ley.
 
 TERCERO Publíquese en el Periódico Oficial de Gobierno del Estado " La Sombra de Arteaga" para que surta sus efectos legales.
+
+P.O. 28 DE DICIEMBRE DE 1995
+
+PRIMERO Esta Ley entrará en vigor el día primero de Enero de 1995.
+
+SEGUNDO Se derogan todas las disposiciones que se opongan a la presente ley.
