@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "1994-10-01"
+last_updated: "1997-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 1997.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -317,17 +317,21 @@ Las leyes determinarán a qué autoridad corresponde decretar la suspensión, p�
 
 DEL PODER PUBLICO.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
+
 ###### Art. 27.
 
-La soberanía del Estado reside originariamente en el pueblo, y en nombre de éste la ejercen los Poderes establecidos en esta Constitución.
+La soberanía del Estado, reside, originariamente en el pueblo, y en nombre de éste la ejercen los Poderes establecidos en esta Constitución.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1988)</small>
+Los partidos políticos son entidades de interés público; la ley determinará las formas específicas en su intervención en el proceso electoral.
 
-Los partidos políticos son entidades de interés público; la Ley determinará las formas específicas de su intervención en el proceso electoral.
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuyendo a la integración de la representación local y Municipal y organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan el Sufragio Universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1988)</small>
+Los partidos políticos recibirán en forma equitativa, de acuerdo con las disponibilidades presupuestales y en los términos que establezca la ley, recursos del erario público estatal para su sostenimiento y para que cuenten durante los procesos electorales con apoyos para sus actividades tendientes a la obtención del Sufragio Universal.
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuyendo a la integración de la recuperación local y municipal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
+La ley establecerá los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales, así como los montos máximos que tengan las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten; asímismo establecerá las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias.
+
+La autoridad electoral garantizará condiciones de equidad para el acceso de los partidos políticos a los medios de comunicación social.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -407,41 +411,43 @@ La persona que asuma el Poder Ejecutivo conforme a este artículo, convocará de
 
 DE LAS ELECCIONES.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
 
 ###### Art. 36.
 
-Los procesos electorales del Estado se efectuarán conforme a las bases que establece la presente Constitución y las demás leyes de la materia, y se sujetarán a los siguientes principios rectores: certeza, legalidad, imparcialidad, objetividad y profesionalismo.
+Los procesos electorales del Estado se efectuarán conforme a las bases que establece la presente Constitución y las demás leyes de la materia, y se sujetarán a los siguientes principios rectores: certeza, legalidad, imparcialidad, objetividad e independencia.
 
-La organización, dirección y vigilancia de las elecciones en el Estado estarán a cargo de un Consejo Estatal de Elecciones, autoridad en la materia dotada de independencia funcional en su relación con los Poderes del Estado, que tendrá las facultades que le señale la presente Constitución y la ley, y contará con los órganos que ésta disponga en los distritos y municipios en que se divide el Estado, los que estarán bajo su dirección.
+Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales, fijando los plazos convenientes para el desahogo de todas las instancias impugnativas.
+
+La organización, dirección y vigilancia de las elecciones en el Estado estarán a cargo de un Consejo Estatal de Elecciones, autoridad en la materia dotada de independencia funcional en su relación con los Poderes del Estado, que tendrá las facultades que le señale la presente Constitución y la ley, y contará con los órganos que ésta disponga en los Distritos y Municipios en que se divide el Estado, los que estarán bajo su dirección.
 
 El órgano de mayor jerarquía del Consejo se integrará de la siguiente forma:
 
-I.- Por un presidente, que deberá tener grado de licenciatura, carecer de antecedentes de militancia en partido político alguno y gozar de buena reputación y prestigio. Será nombrado por el voto de las dos terceras partes de los diputados presentes del Congreso, de entre la pareja de candidatos que proponga el Ejecutivo. Si la mencionada mayoría no se logra en una única votación, el grupo de la mayoría parlamentaria deberá proponer una terna de candidatos, de entre los cuales los demás miembros del Congreso elegirán al presidente y, si se abstuvieren de elegir, el presidente será designado mediante insaculación que hará el Congreso de entre los candidatos propuestos por el Gobernador y por la mayoría parlamentaria.
+I.- Por un Presidente, que deberá tener grado de licenciatura, carecer de antecedentes de militancia en partido político alguno y gozar de buena reputación y prestigio. Será nombrado por el voto de las dos terceras partes de los Diputados presentes del Congreso, de entre la pareja de candidatos que proponga el Ejecutivo, si la mencionada mayoría no se logra en una única votación, el grupo de la mayoría parlamentaria deberá proponer una terna de candidatos, de entre los cuales los demás miembros del Congreso elegirán al Presidente y, si se abstuvieren de elegir, el Presidente será designado mediante insaculación que hará el Congreso de entre los candidatos propuestos por el Gobernador y por la mayoría parlamentaria;
 
 II.- Por un representante sólo con voz por cada uno de los partidos políticos con registro definitivo.
 
 Por cada representante propietario se nombrará un suplente.
 
-III.- Por al menos seis consejeros ciudadanos, quienes deberán acreditar estudios de cuando menos educación media superior, ser de reconocido prestigio y honorabilidad y carecer de antecedentes de militancia en partido político alguno. Serán nombrados por las dos terceras partes de los diputados presentes del Congreso de entre ciudadanos propuestos por el Ejecutivo en lista de candidatos por pareja. Si la mencionada mayoría no se logra en una única votación, el grupo de la mayoría parlamentaria deberá proponer nueva lista de por lo menos el doble de consejeros que falten por elegir, de entre quienes los demás miembros del Congreso elegirán el número que corresponda y, si se abstuvieren de elegir, los consejeros que aún falten de nombrar serán designados mediante insaculación, que llevará a cabo el Congreso, de entre los candidatos propuestos por el Gobernador y por la mayoría parlamentaria.
+III.- Por al menos seis consejeros ciudadanos, quienes deberán acreditar estudios de cuando menos educación media superior, ser de reconocido prestigio y honorabilidad y carecer de antecedentes de militancia en partido político alguno. Serán nombrados por las dos terceras partes de los Diputados presentes del Congreso de entre ciudadanos propuestos por el Ejecutivo en lista de candidatos por pareja. Si la mencionada mayoría no se logra en una única votación, el grupo de la mayoría parlamentaria deberá proponer nueva lista de por lo menos el doble de los Consejeros que falten por elegir, de entre quienes los demás miembros del Congreso elegirán el número que corresponda y, si se abstuvieren de elegir, los Consejeros que aún falten de nombrar serán designados mediante insaculación, que llevará a cabo el Congreso, de entre los candidatos propuestos por el Gobernador y por la mayoría parlamentaria.
 
-Conforme al mismo procedimiento y cumpliendo los mismos requisitos, se elegirán dos consejeros ciudadanos con el carácter de supernumerarios.
+Conforme al mismo procedimiento y cumpliendo los mismos requisitos, se elegirán dos consejeros ciudadanos con el carácter de supernumerarios;
 
-IV.- Por un secretario, sólo con voz, designado por insaculación llevada a cabo por el propio Consejo de entre los notarios públicos de la capital del Estado.
+IV.- Por un Secretario, solo con voz, designado por insaculación llevada a cabo por el propio Consejo de entre los Notarios Públicos de la capital del Estado.
 
-Los integrantes del Consejo a que hacen referencia las fracciones I, y III tendrán voz y voto y el presidente lo tendrá también de calidad en caso de empate.
+Los integrantes del Consejo a que hacen referencia las fracciones I y III tendrán voz y voto y el Presidente lo tendrá también de calidad en caso de empate.
 
-El órgano de mayor jerarquía del Consejo sólo funcionará durante los procesos electorales y, en su caso, durante los plebiscitarios y de referéndum. Fuera de éstos, sólo su presidente estará en funciones, como responsable de los trabajos permanentes del servicio electoral.
+El órgano de mayor jerarquía del Consejo sólo funcionará durante los procesos electorales, y en su caso, durante los plebiscitarios y de referéndum. Fuera de éstos, sólo su Presidente estará en funciones como responsable de los trabajos permanentes del servicio electoral.
 
-Habrá órganos de vigilancia que funcionarán de manera permanente y se integrarán mayoritariamente por representantes de los partidos políticos. Estos órganos recibirán amplia información sobre el desarrollo de los trabajos en materia electoral y, en los términos que disponga la ley, ejercerán tareas de supervisión sobre el desarrollo de dichos trabajos.
+Habrá órganos de vigilancia que funcionarán de manera permanente y se integrarán mayoritariamente por representante de los partidos políticos. Estos órganos recibirán amplia información sobre el desarrollo de los trabajos en materia electoral y, en los términos que disponga la ley, ejercerán tareas de supervisión sobre el desarrollo de dichos trabajos.
 
-El Consejo Estatal y sus respectivos órganos distritales y municipales, de acuerdo con lo que disponga la ley, declararán la validez de las elecciones de Gobernador, de diputados y de ayuntamientos, otorgarán las constancias a los candidatos que hubiesen obtenido mayoría de votos, y harán la asignación de diputados y regidores de representación proporcional.
+El Consejo estatal y sus respectivos órganos Distritales y Municipales, de acuerdo con lo que disponga la ley, declararán la validez de las elecciones de Gobernador, de Diputados y de Ayuntamientos, otorgarán las constancias a los candidatos que hubiesen obtenido mayoría de votos, y harán la asignación de diputados y regidores de representación proporcional.
 
 El Consejo Estatal y sus órganos desarrollarán los trabajos necesarios para atender lo relativo a la preparación y desarrollo de los procesos electorales y en su caso los plebiscitarios y de referéndum. Dispondrá del personal calificado, estrictamente el necesario para el cumplimiento de su objeto, que prestará el servicio electoral profesional. Los ciudadanos formarán las mesas directivas de casilla.
 
 Las sesiones de todos los órganos colegiados serán públicas, y sus resoluciones recurribles ante el Tribunal Estatal de Elecciones en los términos que disponga la ley.
 
-Las actividades, funciones y servicios de carácter electoral, incluidas las relativas al padrón de electores, son susceptibles de desarrollarse en coordinación con el organismo federal competente. La ley establecerá las condiciones, requisitos y modalidades en que se convenga dicha coordinación.
+Las actividades, funciones y servicios de carácter electoral, incluídas las relativas al padrón de electores, son susceptibles de desarrollarse en coordinación con el organismo federal competente. La ley establecerá las condiciones, requisitos y modalidades en que se convenga dicha coordinación.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -2672,3 +2678,7 @@ Artículo Octavo. Los plazos y términos relativos a la presentación y proceso 
 Artículo Noveno. Los estados financieros relativos a las entidades a que se refiere el artículo 64, fracción XLI, que ya se encuentren creadas y en operación a la entrada en vigor del presente Decreto, se empezarán a acompañar a la cuenta pública correspondiente al ejercicio de 1995, así como también los estados financieros de los organismos descentralizados y demás entidades paramunicipales señalados en el primer párrafo del artículo 134.
 
 Artículo Décimo. En tanto se expidan las nuevas normas aplicables a las materias a que se refiere el presente Decreto, continuarán rigiendo, en lo que no se opongan al mismo, las disposiciones legales vigentes.
+
+P.O. 26 DE FEBRERO DE 1997.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
