@@ -4,7 +4,7 @@ identifier: "SIN-ley-sobre-el-regimen-de-propiedad-en-condominio-de-13717"
 country: "mx"
 rank: "ley"
 publication_date: "1973-09-22"
-last_updated: "1973-09-22"
+last_updated: "1992-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1992.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el sábado 22 de septiembre de 1973.
 
@@ -93,9 +93,87 @@ En todo contrato para la adquisición de derechos sobre los departamentos, vivie
 
 La extinción voluntaria del régimen de propiedad en condominio requerirá el acuerdo unánime de los condóminos.
 
-### CAPITULO SEGUNDO. De las Disposiciones Relativas a los Condominios y de los Bienes de Propiedad Individual y Común
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE ENERO DE 1992)</small>
 
-### CAPITULO TERCERO. De los Condominios Construídos por Organismos Públicos
+### CAPÍTULO I BIS
+
+DE LOS DESARROLLOS URBANOS INTEGRALES O TURÍSTICOS EN CONDOMINIO.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1992)</small>
+
+###### ARTICULO 6o. Bis-A.
+
+Se considerarán desarrollos urbanos integrales o turísticos en condominio, la división en lotes, vías de acceso y áreas recreativas de uso común, que realicen los propietarios pro-indiviso de un lote de terreno, aunque posteriormente se delimite el mismo en unidades para cada uno de los propietarios o bien la división con las obras mencionadas que realicen los propietarios de terrenos, que en conjunto formen una sola unidad topográfica.
+
+El desarrollo urbano integral o turístico en condominio, podrá constituirse también cuando el propietario o propietarios de un lote de terreno, decidan construir este régimen especial de propiedad y posteriormente vendan al público fracciones de dicho inmueble.
+
+Los desarrollos urbanos turísticos en condominio se caracterizarán por su ubicación en lugares que la autoridad determine como zona apta para el turismo.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1992)</small>
+
+###### ARTICULO 6o. Bis-B.
+
+Los Condominios en desarrollos urbanos o turísticos, tendrán el derecho de propiedad de su porción de terreno y el de co-propiedad sobre los lugares y áreas de uso común del predio, con las limitaciones que les imponga el pacto constitutivo del régimen en condominio.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1992)</small>
+
+###### ARTICULO 6o. Bis-C.
+
+El equipamiento de los desarrollo (sic) urbanos consistente en dotación de agua mediante tomas domiciliarias, red de alcantarillado, red de electrificación, guarniciones, andadores peatonales, alumbrado, estacionamientos, parques, jardines y arborización, serán a cargo de quien hubiere promovido la construcción del desarrollo. La operación y mantenimiento de los servicios de alumbrado, de vigilancia, aseo y limpia, parques y jardines, fuentes y áreas recreativas, serán a cargo de los condominios.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1992)</small>
+
+###### ARTICULO 6o. Bis-D.
+
+Antes de aprobar la constitución de un desarrollo urbano integral o turístico en condominio, la autoridad competente se cerciorará de que con la obra se provea el óptimo aprovechamiento de las superficies por urbanizar, el establecimiento y uso apropiado de los servicios, la seguridad del inmueble y de los condominios, el respeto de la posesión pacífica y las medidas necesarias para la conservación ecológica y de la salud, teniendo siempre como objetivo el darle a la propiedad función social.
+
+Del total de la superficie del terreno el promotor del desarrollo urbano integral o turístico deberá destinar por lo menos el 15% del terreno para jardines y áreas de uso común.
+
+En lo aplicable se seguirá lo ordenado por los Artículos 3°, 4°, 5° y 6°. de esta Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1992)</small>
+
+###### ARTICULO 6o Bis-E.
+
+Los promotores de la construcción de desarrollos urbanos, tendrán la obligación de realizarlos de conformidad con los proyectos aprobados por la autoridad, así como de proporcionar los documentos e informes que se les requieran, debiendo ajustarse al Plan Estatal de Desarrollo Urbano y al Municipal de ubicación de la obra, así como cubrir los impuestos y derechos que se establezcan en las leyes correspondientes.
+
+Igualmente tendrán la obligación de organizar asociaciones de vecinos que colaboren coordinadamente con las autoridades federales, estatales y municipales para la seguridad, salud y el mejoramiento del desarrollo urbano.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1992)</small>
+
+###### ARTICULO 6o. Bis-F.
+
+Presentado el proyecto definitivo de un desarrollo urbano o turístico en condominio y una vez aprobado por la autoridad competente, el acuerdo respectivo deberá contener:
+
+I.- La determinación de la clase, modo, tipo y magnitud del desarrollo.
+
+II.- La distribución de las áreas del fraccionamiento, según el uso previsto para éstas.
+
+III.- Las obras e instalaciones de servicios públicos que deben realizarse y las especificaciones a que éstos deben ajustarse.
+
+IV.- La fecha o plazo para la iniciación de las obras y su programa de ejecución.
+
+V.- La persona o personas a quienes corresponda el cumplimiento de las obligaciones referentes a la realización de las obras de urbanización e instalaciones de servicios públicos.
+
+VI.- La autorización para iniciar las obras e instalaciones de servicios, dentro del desarrollo condominial.
+
+VII.- La autorización para iniciar la venta de los lotes resultantes del desarrollo a terceras personas, y la forma de garantizar la ejecución de las obras y servicios correspondientes.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1992)</small>
+
+###### ARTICULO 6o. Bis-G.
+
+En los desarrollos urbanos en condominios no podrán establecerse, ni aún con el consentimiento de los condóminos negocios o actividades de giro comercial de los que requieren autorización o concesión de la Autoridad Administrativa, sin que previamente se hayan autorizado en los términos de la Ley o Reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1992)</small>
+
+###### ARTICULO 6o. Bis-H.
+
+Las autoridades podrán intervenir en cualquier tiempo, en la inspección y vigilancia de los desarrollos urbanos integrales o turísticos a fin de verificar si se están cumpliendo las disposiciones legales administrativas.
+
+Los condóminos, sus representantes legales, los encargados de la vigilancia y administradores tienen la obligación de permitir el acceso a los representantes de la autoridad cuando así sean requeridos, y de proporcionar los documentos e información que éstos soliciten en relación con el objeto de la visita.
+
+### CAPITULO SEGUNDO. De las Disposiciones Relativas a los Condominios y de los Bienes de Propiedad Individual y Común
 
 ###### ARTICULO 7o.
 
@@ -183,7 +261,7 @@ IV.- Las reparaciones urgentes en los bienes comunes e instalaciones generales, 
 
 En ningún caso se realizarán obras que puedan poner en peligro la estabilidad y conservación o que afecten la seguridad o comodidad del condominio, así como que impidan permanentemente el uso de una parte o servicio común, aunque sea a un solo dueño, ni que demeriten cualquier departamento, vivienda, casa o local. En los dos últimos casos, las obras podrán llevarse a cabo, sin embargo, si existe acuerdo unánime entre los condóminos y en el último, además, si se indemniza al afectado a su plena satisfacción.
 
-### CAPITULO CUARTO. De las Asambleas
+### CAPITULO TERCERO. De los Condominios Construídos por Organismos Públicos
 
 ###### ARTICULO 20.
 
@@ -211,7 +289,7 @@ II.- La notificación de enajenación al inquilino, o en su caso, a los organism
 
 III.- Si el departamento, vivienda, casa o local, se enajenare con infracción a lo dispuesto en las fracciones anteriores, el inquilino o los organismos públicos podrán subrogarse en los derechos del adquirente, con las mismas condiciones estipuladas en el contrato de compra-venta, siempre que hagan uso del derecho de retracto, con exhibición del precio, dentro de los quince días siguientes al en que hayan tenido conocimiento de la enajenación. Los Notarios o quienes hagan sus veces, se abstendrán de autorizar una escritura de compra-venta si antes no se cercioran de que el vendedor ha respetado el derecho del tanto. En caso de que la notificación se haya hecho por el Administrador del condominio, él mismo deberá comprobar ante el Notario o funcionario autorizado para dar fe, en forma indubitable, el día y hora en que hizo la notificación a que se refiere la fracción anterior.
 
-### CAPITULO QUINTO. Del Administrador
+### CAPITULO CUARTO. De las Asambleas
 
 ###### ARTICULO 25.
 
@@ -269,7 +347,7 @@ X.- Modificar la escritura constitutiva y el Reglamento del Condominio, en los c
 
 XI.- Las demás que le confiera esta Ley, la escritura constitutiva, el Reglamento del Condominio y demás preceptos legales aplicables.
 
-### CAPITULO SEXTO. Del Comité de Vigilancia
+### CAPITULO QUINTO. Del Administrador
 
 ###### ARTICULO 28.
 
@@ -323,7 +401,7 @@ En relación a los bienes comunes, el Administrador tendrá las facultades y obl
 
 Las medidas que adopte y disposiciones que dicte el Administrador dentro de sus atribuciones y con base en la Ley y el Reglamento del Condominio, serán obligatorias para todos los condóminos. La Asamblea, por mayoría que fije el Reglamento, podrá modificarlas y revocarlas.
 
-### CAPITULO SEPTIMO. Del Reglamento del Condominio
+### CAPITULO SEXTO. Del Comité de Vigilancia
 
 ###### ARTICULO 31.
 
@@ -345,7 +423,7 @@ VII.- Convocar a Asamblea de condóminos cuando a su requerimiento al Administra
 
 VIII.- Las demás que deriven de esta Ley, la escritura constitutiva y el Reglamento del Condominio.
 
-### CAPITULO OCTAVO. De los Gastos, Obligaciones Fiscales y Controversias
+### CAPITULO SEPTIMO. Del Reglamento del Condominio
 
 ###### ARTICULO 32.
 
@@ -365,7 +443,7 @@ VI.- Forma de designar el Comité de Vigilancia, los requisitos que deban reunir
 
 VII.- Las materias que le reserven la escritura constitutiva y la presente Ley.
 
-### CAPITULO NOVENO. De los Gravámenes
+### CAPITULO OCTAVO. De los Gastos, Obligaciones Fiscales y Controversias
 
 ###### ARTICULO 33.
 
@@ -393,7 +471,7 @@ Los condóminos cubrirán el impuesto sobre Propiedad Raíz de su propiedad excl
 
 Las controversias que se susciten con motivo de la interpretación y aplicación de esta Ley, de la escritura constitutiva, de la traslativa de dominio, del Reglamento del Condominio, así como de las demás disposiciones legales aplicables, serán sometidas a arbitraje, si lo prevee el Reglamento y en su defecto, a los tribunales del fuero común.
 
-### CAPITULO DECIMO. De la Destrucción, Ruina y Reconstrucción del Condominio
+### CAPITULO NOVENO. De los Gravámenes
 
 ###### ARTICULO 39.
 
@@ -406,6 +484,8 @@ Cada uno de los condóminos responderá sólo del gravamen que corresponda a su 
 Los créditos que se originen por las obligaciones contenidas en la escritura constitutiva, y de traslación de dominio, por el Reglamento del Condominio, por esta Ley y demás disposiciones legales aplicables, gozan de garantía real sobre los departamentos, viviendas, casas o locales, aún cuando se trasmitan a terceros.
 
 La inscripción de este gravamen en el Registro Público de la Propiedad, da derecho a todo interesado para obtener del Administrador y de cualquier acreedor, una liquidación de los adeudos pendientes. La liquidación del Administrador sólo surtirá efectos legales si va suscrita por el Presidente del Comité de Vigilancia o quien lo sustituya.
+
+### CAPITULO DECIMO. De la Destrucción, Ruina y Reconstrucción del Condominio
 
 ###### ARTICULO 41.
 
@@ -462,3 +542,11 @@ Lic. Francisco Rodolfo Alvarez Fárber
 El Secretario de Finanzas del Estado
 
 Lic. Raúl Ibáñez Villegas
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE ENERO DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
