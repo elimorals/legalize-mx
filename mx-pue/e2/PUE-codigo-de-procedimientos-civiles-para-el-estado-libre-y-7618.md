@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-civiles-para-el-estado-libre-y-7618"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-18"
-last_updated: "1995-11-03"
+last_updated: "1997-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 1997.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 18 de noviembre de 1986.
 
@@ -4157,6 +4157,10 @@ II.- Cualquiera de los demás documentos que legalmente hacen prueba plena.
 
 III.- Cualquier documento privado, reconocido bajo protesta ante la autoridad judicial competente, o dado por reconocido en los casos en que la ley lo permite.
 
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 1997)</small>
+
+IV.- Los documentos que contienen obligaciones garantizadas con hipoteca, a que se refiere al Artículo 2933 del Código Civil.
+
 ###### Artículo 692.
 
 La acción ejecutiva no procede en el caso de que, por falta de pago del precio en la compraventa haya de recogerse el objeto vendido, porque se rescinda el contrato o se haya pactado la venta con reserva de dominio.
@@ -4165,9 +4169,17 @@ La acción ejecutiva no procede en el caso de que, por falta de pago del precio 
 
 Si el título ejecutivo contiene obligaciones recíprocas, la parte que solicite la ejecución, al presentar la demanda, hará la consignación de las prestaciones ya exigibles debidas al demandado, o comprobará haber cumplido con su obligación.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1997)</small>
+
 ###### Artículo 694.
 
-Las obligaciones bajo condición o a plazo no son ejecutivas sino cuando aquélla o éste se hayan cumplido, salvo lo dispuesto en los artículos 1558 y 1572 del Código Civil, y 190 de este Código de Procedimientos Civiles.
+Las obligaciones bajo condición o a plazo no son ejecutivas sino cuando aquella o este se hayan cumplido, salvo lo dispuesto en los siguientes casos:
+
+a) Que la obligación a plazo sea exigible en los términos pactados;
+
+b) En los previstos por los Artículos 1552 y 1558 del Código Civil; y
+
+c) En lo dispuesto por el Artículo 190 de este Código.
 
 ###### Artículo 695.
 
@@ -4260,6 +4272,10 @@ VI.- La ejecución no se suspenderá en ningún caso ni por motivo alguno.
 VII.- Si los bienes que se trate de embargar estuvieren ya embargados por cualquier título, se reembargarán y en su caso se aplicarán los artículos 629 y 630.
 
 VIII.- Para los efectos del registro, si se trata de bienes raíces, se librará por duplicado copia certificada de la diligencia de embargo y uno de los ejemplares, después de inscrito el embargo, se unirá a los autos y el otro quedará en la oficina del Registro.
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 1997)</small>
+
+IX.- En el caso de los créditos garantizados con hipoteca el Juez mandará anotar la demanda en el Registro Público de la Propiedad del lugar de ubicación de los inmuebles hipotecados, a cuyo efecto, el actor exhibirá las copias necesarias de su escrito y demás documentos justificatorios. Anotada la demanda en el Registro Público de la Propiedad, no podrá verificarse en la finca hipotecada ningún embargo, toma de posesión, diligencia precautoria o cualquier otra que entorpezca el curso del juicio, sino en virtud de sentencia ejecutoriada relativa a la misma finca, debidamente registrada y anterior en fecha a la inscripción de la referida demanda o en razón de providencia precautoria solicitada ante el Juez, por acreedor con mejor derecho, en fecha anterior a la inscripción de la demanda.
 
 ###### Artículo 711.
 
@@ -8596,3 +8612,13 @@ P.O. 3 DE NOVIEMBRE DE 1995.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE MARZO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
