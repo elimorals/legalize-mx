@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-260
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-14"
-last_updated: "2000-09-14"
+last_updated: "2002-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2002.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 14 de septiembre de 2000.
 
@@ -43,33 +43,37 @@ La Procuraduría General de Justicia del Estado de Michoacán, cuyo titular es e
 
 I. Subprocuradurías Regionales de Justicia;
 
-II. Direcciones Generales;
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2002)</small>
 
-III. Dirección General Jurídica Consultiva;
+II. Fiscalía Especial para la Atención del Delito de Violencia Familiar;
 
-IV. Visitaduría General;
+III. Direcciones Generales;
 
-V. Secretaría Técnica;
+IV. Dirección General Jurídica Consultiva;
 
-VI. Dirección General de Servicios Periciales;
+V. Visitaduría General;
 
-VII. Dirección General de Servicios Administrativos;
+VI. Secretaría Técnica;
 
-VIII. Dirección de Prevención del Delito y Participación Ciudadana;
+VII. Dirección General de Servicios Periciales;
 
-IX. Dirección de Relaciones Públicas y Comunicación Social;
+VIII. Dirección General de Servicios Administrativos;
 
-X. Direcciones Regionales de Averiguaciones Previas;
+IX. Dirección de Prevención del Delito y Participación Ciudadana;
 
-XI. Direcciones Regionales de Control de Procesos;
+X. Dirección de Relaciones Públicas y Comunicación Social;
 
-XII. Policía Ministerial;
+XI. Direcciones Regionales de Averiguaciones Previas;
 
-XIII. Dirección de Planeación, Informática y Estadística;
+XII. Direcciones Regionales de Control de Procesos;
 
-XIV. Asesorías; y
+XIII. Policía Ministerial;
 
-XV. Jefaturas de Departamentos.
+XIV. Dirección de Planeación, Informática y Estadística;
+
+XV; Asesorías; y
+
+XVI. Jefaturas de Departamentos.
 
 ### CAPITULO II. Del Titular de la Procuraduría General de Justicia
 
@@ -136,6 +140,14 @@ Cada Subprocuraduría se integra con las áreas básicas siguientes: Dirección 
 Las Subprocuradurías Regionales de Justicia estarán ubicadas en las ciudades de Morelia, Zamora, Uruapan, Apatzingán, Lázaro Cárdenas y Zitácuaro, Michoacán, y no obstante esta distribución, el Procurador tendrá la facultad de cambiar de sede a alguna de esas Subprocuradurías o crear otras, previo acuerdo del Titular del Poder Ejecutivo, si el servicio así lo requiere, designando la jurisdicción respectiva.
 
 Las Subprocuradurías Regionales comprenderán los Distritos Judiciales siguientes: La de Morelia se integra con Pátzcuaro, Zinapécuaro y Morelia; Zamora con Zacapu , Puruándiro, La Piedad, Jiquilpan, Sahuayo, Los Reyes, Tanhuato y Zamora; Uruapan incluye Tacámbaro, Ario de Rosales y el propio Uruapan; Apatzingán comprende Coalcomán y el mismo Apatzingán; Lázaro Cárdenas incluye Arteaga, Coahuayana y el propio Lázaro Cárdenas; Zitácuaro comprende Hidalgo, Maravatio, Huetamo y el mismo Zitácuaro.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2002)</small>
+
+Artículo 5 bis. Se crea la Fiscalía Especial para la Atención del Delito de Violencia Familiar, como un órgano desconcentrado de la Procuraduría, con jurisdicción en todo el territorio estatal.
+
+Al frente de esta Fiscalía habrá un titular, agente del Ministerio Público, con las atribuciones legales respectivas.
+
+Esta Fiscalía se integrará con las unidades técnicas y administrativas necesarias para el cumplimiento de su cometido, y se auxiliará para el conocimiento y seguimiento de los asuntos materia de su competencia de la estructura orgánica regional prevista en el presente Reglamento.
 
 ### CAPITULO IV. De los Titulares de las Subprocuradurías Regionales
 
@@ -624,3 +636,9 @@ UNICO: El presente Decreto iniciará su vigencia el día de su publicación en e
 Morelia, Michoacán, a 4 de Septiembre del 2000.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- LIC. VICTOR MANUEL TINOCO RUBI.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. JUAN BENITO COQUET RAMOS.- SECRETARIO DE GOBIERNO.- LIC. JORGE EDUARDO GARCIA TORRES.- PROCURADOR GENERAL DE JUSTICIA DEL ESTADO. (FIRMADOS).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 25 DE JUNIO DE 2002.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
