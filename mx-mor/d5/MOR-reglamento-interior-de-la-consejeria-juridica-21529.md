@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-consejeria-juridica-21529"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-14"
-last_updated: "2001-03-14"
+last_updated: "2003-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2003.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 14 de marzo de 2001.
 
@@ -97,7 +97,9 @@ VI.- Prestar asesoría jurídica cuando el Gobernador del Estado así lo acuerde
 
 VII.- Coordinar los programas de normatividad jurídica de la Administración Pública Estatal que apruebe el Gobernador del Estado y procurar la congruencia de los criterios jurídicos de las dependencias y sus entidades;
 
-VIII.- Presidir la Comisión de Estudios Jurídicos del Gobierno Estatal, integrada por los responsables de las unidades de asuntos jurídicos de cada dependencia de la Administración Pública Estatal, la que tendrá por objeto la coordinación en materia jurídica de las dependencias y entidades de la Administración Pública;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2003)</small>
+
+VIII.- Presidir la Comisión de Estudios Jurídicos del Poder Ejecutivo del Estado, integrada por los responsables de las unidades de asuntos jurídicos de las dependencias y entidades que componen la Administración Pública Estatal, la que tendrá por objeto su coordinación en materia jurídica;
 
 IX.- Participar, junto con las demás dependencias y entidades competentes, en la actualización y simplificación del orden normativo jurídico;
 
@@ -259,13 +261,13 @@ VIII.- Supervisar y evaluar los criterios jurídicos de las dependencias y entid
 
 IX.- Coordinar en materia jurídica a las dependencias y entidades de la Administración Pública del Estado, siguiendo los lineamientos establecidos por el Titular de la Dependencia;
 
-X.- Suplir en sus ausencias temporales al Consejero Jurídico en su carácter de Presidente de la Comisión de Estudios Jurídicos del Gobierno Estatal;
+X.- (DEROGADA, P.O. 9 DE ABRIL DE 2003)
 
-XI.- Fungir como Secretario de la Comisión de Estudios Jurídicos del Gobierno Estatal y llevar el libro de actas de sesiones que se celebren, con el objeto de registrar los criterios, propuestas, proyectos y programas jurídicos que se determinen;
+XI.- (DEROGADA, P.O. 9 DE ABRIL DE 2003)
 
-XII.- Dar seguimiento y vigilar que se cumplan puntual y definitivamente los acuerdos emanados de la Comisión de Estudios Jurídicos del Gobierno Estatal;
+XII.- (DEROGADA, P.O. 9 DE ABRIL DE 2003)
 
-XIII.- Coordinar los cursos jurídicos temáticos o generales que la Comisión de Estudios Jurídicos considere necesarios con el objeto de profundizar en el análisis de un aspecto técnico determinado o bien para fines de capacitación;
+XIII.- (DEROGADA, P.O. 9 DE ABRIL DE 2003)
 
 XIV.- Realizar los estudios y emitir las opiniones y dictámenes derivados de consultas que le sean formuladas por las dependencias, las entidades públicas o los municipios del Estado de Morelos;
 
@@ -341,9 +343,25 @@ IX.- Formular o emitir opinión sobre la constitucionalidad de los proyectos de 
 
 X.- Auxiliar a los municipios del Estado en la elaboración de sus Bandos y demás Reglamentos Interiores, siempre que lo soliciten;
 
-XI.- Realizar los trabajos de investigación y absolver las consultas jurídicas que le encomiende el Titular de la Dependencia, y;
+XI.- Realizar los trabajos de investigación y absolver las consultas jurídicas que le encomiende el Titular de la Dependencia, y (sic);
 
-XII.- Las demás que determinen las disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2003)</small>
+
+XII. Suplir en sus ausencias temporales al Consejero Jurídico en su carácter de Presidente de la Comisión de Estudios Jurídicos del Poder Ejecutivo del Estado;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2003)</small>
+
+XIII. Fungir como Secretario Técnico de la Comisión de Estudios Jurídicos del Poder Ejecutivo del Estado y llevar el libro de actas de sesiones que celebren, con el objeto de registrar los criterios, propuestas, proyectos y programas jurídicos que se determinen;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2003)</small>
+
+XIV. Dar seguimiento y vigilar que se cumplan puntual y definitivamente los acuerdos emanados de la Comisión de Estudios Jurídicos del Poder Ejecutivo del Estado;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2003)</small>
+
+XV. Coordinar los cursos jurídicos temáticos o generales que la Comisión de Estudios Jurídicos considere necesarios con el objeto de profundizar en el análisis de un aspecto técnico determinado o bien para fines de capacitación;
+
+XVI.- Las demás que determinen las disposiciones legales aplicables.
 
 ###### ARTÍCULO 12.
 
@@ -436,3 +454,11 @@ CONSEJERO JURÍDICO
 LIC. LUIS EDGARDO GÓMEZ PINEDA
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE ABRIL DE 2003.
+
+PRIMERO. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al contenido de este decreto.
