@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1980-01-25"
+last_updated: "1981-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 1981.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -3863,6 +3863,10 @@ I.- Los provenientes por adeudos al Fisco, siempre que no procedan éstos de los
 
 II.- De alimentos que deban de ministrarse por resolución judicial, podrán embargarse únicamente el 50% de los frutos del Patrimonio;
 
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 1981)</small>
+
+III.- Cuando se demuestre judicialmente que medie gran necesidad o notoria utilidad para gravarlo, exclusivamente con el fin de construir, ampliar o mejorar los bienes. En este caso, liberados los bienes del gravamen continuarán afectados al Patrimonio de Familia.
+
 ###### Art. 724.
 
 Son objeto del Patrimonio de Familia:
@@ -3891,19 +3895,17 @@ Tienen derecho de habitar la casa y de aprovechar los frutos de la parcela afect
 
 Los beneficiarios de los bienes afectos al Patrimonio de la Familia serán representados en sus relaciones con tercero, en todo lo que al Patrimonio se refiere, por el que lo constituyó, y, en su defecto, por el que nombre la mayoría. El representante tendrá también la administración de dichos bienes.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
 
 ###### Art. 727.
 
-El valor máximo de los bienes afectos al Patrimonio de Familia será de:
+El máximo de los bienes afectados al patrimonio de familia serán de:
 
-I.- $175,000.00 (Ciento setenta y cinco mil pesos 00/100 M.N.), para los Municipios de Monterrey, N.L.
+I.- La cantidad que resulte de multiplicar por 3,650 el importe del salario mínimo general diario, vigente en la época en que se constituya el patrimonio, en los Municipios de: Monterrey, San Nicolás de los Garza, Guadalupe, Garza García, Santa Catarina, General Escobedo, Apodaca, Cadereyta Jiménez y Villa de Juárez, N.L.
 
-II.- $140.000.00 (Ciento cuarenta mil pesos 00/100 M.N.), para los Municipios de San Nicolás de los Garza, Guadalupe y Garza García N.L.
+II.- La cantidad que resulte de multiplicar por 2,920 el importe del salario mínimo general diario, vigente en la época en que se constituya el patrimonio, de los Municipios de: Linares, Montemorelos, Sabinas Hidalgo, Villa de Santiago, Allende, General Terán y Ciudad Anáhuac, N.L.
 
-III.- $ 80.000.00 (Ochenta mil pesos 00/100 M.N.), para los Municipios de Linares, Cadereyta Jiménez, Montemorelos, Sabinas Hidalgo, Villa de Santiago, Villa de Juárez, Santa Catarina, General Escobedo, Apodaca, Allende, General Terán y Ciudad Anáhuac, N.L.
-
-IV.- $60.000.00 (Sesenta mil pesos 00/100 M.N.), para los demás Municipios del Estado, incluyéndose la Congregación Colombia.
+III.- La cantidad que resulte de multiplicar por 2,190 el importe del salario mínimo general diario, vigente en la época en que se constituya el patrimonio, en los restantes Municipios del Estado.
 
 ###### Art. 728.
 
@@ -3949,15 +3951,19 @@ Solo puede constituírse el Patrimonio de la Familia con bienes sitos en el Muni
 
 Cada familia solo puede constituír un Patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DE 1981)</small>
+
 ###### Art. 734.
 
-Con el objeto de favorecer la formación del Patrimonio de la Familia, se venderán a las personas que tengan capacidad legal para constituirlo y que quieran hacerlo, las propiedades raíces que a continuación se expresan:
+Con el objeto de constituír el patrimonio de la familia, se venderán a las personas que tengan capacidad legal, las propiedades raíces que a continuación se expresan:
 
 I.- Los terrenos pertenecientes al Gobierno del Estado o a los Ayuntamientos, que no estén destinados a un servicio público, ni sean de uso común;
 
 II.- Los terrenos que el Gobierno adquiera por expropiación, de acuerdo con el inciso (c) del párrafo undécimo del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
 
-III.- Los terrenos que el Gobierno del Estado adquiera para dedicarlos a la formación del Patrimonio de las familias que cuenten con pocos recursos;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 1981)</small>
+
+III.- Los terrenos que el Gobierno del Estado adquiera, así como aquellos respecto a los cuales el Gobierno del Estado gestione su venta por los particulares propietarios, a las familias que cuenten con pocos recursos;
 
 IV.- Los terrenos que el Gobierno del Estado expropie o le correspondan de acuerdo con la Ley sobre comunidades Rurales del Estado.
 
@@ -3966,6 +3972,10 @@ IV.- Los terrenos que el Gobierno del Estado expropie o le correspondan de acuer
 El precio de los terrenos a que se refiere la fracción II del artículo anterior, se pagará de la manera prevenida en el inciso (d) del párrafo undécimo del artículo 27 constitucional.
 
 En los casos previstos en las fracciones I y III del artículo que precede, la autoridad vendedora fijará la forma y el plazo en que deberá pagarse el precio de los bienes vendidos, teniendo en cuenta la capacidad económica del comprador.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 1981)</small>
+
+Cuando se trate de terrenos respecto a los cuales el Gobierno del Estado gestionó su venta por los particulares propietarios, la forma y plazo para pagar el precio se fijará con la intervención del Gobierno, teniéndose en cuenta la capacidad económica del comprador.
 
 ###### Art. 736.
 
@@ -3981,11 +3991,11 @@ IV.- El promedio de sus ingresos, a fin de que se pueda calcular, con probabilid
 
 V.- Que carece de bienes. Si el que tenga interés legítimo demuestra que quien constituyó el Patrimonio era propietario de bienes raíces al constituírlo, se declarará nula la constitución del Patrimonio.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
+
 ###### Art. 737.
 
-La constitución del Patrimonio de que trata el artículo 734, se sujetará a la tramitación administrativa que fijen los reglamentos respectivos. Aprobada la constitución del Patrimonio, se cumplirá lo que dispone la parte final del artículo 730.
-
-La constitución del Patrimonio de la Familia no puede hacerse en fraude de los derechos de los acreedores.
+La Constitución del Patrimonio de familia, en los casos previstos en el Artículo 734 de este Código, quedará consumado cuando se otorgue el título de propiedad correspondiente, mismo que deberá estar expedido a nombre de los cónyuges o concubinos. En el caso de la Fracción III del mencionado artículo, el título también será signado por el Ejecutivo del Estado.
 
 ###### Art. 738.
 
@@ -4003,7 +4013,9 @@ III.- Cuando se demuestre que hay gran necesidad o notoria utilidad para la fami
 
 IV.- Cuando por causa de utilidad pública se expropien los bienes que la forman;
 
-V.- Cuando tratándose del Patrimonio formado con los bienes vendidos por las autoridades mencionadas en el artículo 734, se declare judicialmente nula o rescindida la venta de esos bienes.
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 1981)</small>
+
+V.- En los casos previstos en el artículo 734 de este Código, el patrimonio familiar se extinguirá cuando hayan transcurrido quince años a contar de la fecha de su constitución. Igualmente cuando se declare nula o rescindida la venta de los bienes o cuando se demuestre judicialmente que las personas favorecidas han transmitido el uso o goce de los bienes, gratuita u onerosamente, a terceras personas, en este último caso quedará sin efecto la operación así celebrada y se constituirá nuevo patrimonio familiar con esos bienes.
 
 ###### Art. 740.
 
@@ -4480,6 +4492,10 @@ La propiedad no puede ser ocupada contra la voluntad de su dueño, sino por caus
 ###### Art. 832.
 
 Se declara de utilidad pública la adquisición que haga el Gobierno de terrenos apropiados, a fin de venderlos para la constitución del patrimonio de la familia o para que se construyan casas habitaciones que se alquilen a las familias pobres, mediante el pago de una renta módica.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 1981)</small>
+
+También tendrá tal carácter la compraventa de inmuebles para el mismo fin, cuyas operaciones haya gestionado el Gobierno del Estado.
 
 ###### Art. 833.
 
@@ -10983,6 +10999,14 @@ El contrato de compra-venta no requiere para su validez formalidad alguna especi
 
 La venta de un inmueble cuyo precio no exceda de $50.000.00 (CINCUENTA MIL PESOS 00/100 M.N.), se hará en instrumento privado que firmarán el vendedor y el comprador ante dos testigos, debiendo ratificar los contratantes el contenido del Contrato y reconocer sus firmas ante Notario. Las partes pueden convenir en que este Contrato lleve la forma prescrita por el artículo 2214.
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 1981)</small>
+
+En los casos a que se contrae el Artículo 734 de este Código se hará constar expresamente en el Título de propiedad que se formaliza la constitución del patrimonio familiar, estableciéndose además cláusula testamentaria automática en la que se determine que al fallecimiento de cualquiera de los cónyuges o concubinos, el que sobreviva será heredero de los derechos correspondientes al patrimonio familiar y que a falta de ambos, dicho carácter lo tendrán los hijos. El título referido podrá constar en documento privado, sin la exigencia de testigos o ratificación de firmas.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 1981)</small>
+
+En caso de que el título se otorgue en Escritura Pública, el Notario Público deberá expedir ésta en un plazo no mayor de treinta días.
+
 ###### Art. 2212.
 
 Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos.
@@ -14834,3 +14858,7 @@ UNICO:- El presente Decreto entrará en vigor, 30 días después de su publicaci
 P.O. 25 DE ENERO DE 1980.
 
 UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE MARZO DE 1981.
+
+UNICO:- El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
