@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-pensiones-civiles-del-estado-de-chihuahua-4717"
 country: "mx"
 rank: "ley"
 publication_date: "1981-12-19"
-last_updated: "1992-07-15"
+last_updated: "1994-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PENSIONES CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1994.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de diciembre de 1981.
 
@@ -81,33 +81,25 @@ b).- Presidente de la Junta Directiva;
 
 c).- Director.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 5.
 
-La Junta Directiva es el órgano máximo de la Institución y estará integrada por:
+La Junta Directiva es el órgano máximo de la Institución y estará integrado por:
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 1989)</small>
-
-I.- El Director General de Desarrollo Social, quien fungirá como Presidente;
+I.- El Director General de Finanzas y Administración, quien fungirá como Presidente;
 
 II.- El Director de Pensiones Civiles del Estado, que será designado por el Gobernador;
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 1989)</small>
+III.- El Director General de Educación y Cultura;
 
-III.- El Director General de Finanzas;
+IV.- El Director General de Fomento Social;
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 1989)</small>
+V.- El Secretario del Sindicato Nacional de Trabajadores de la Educación, Sección XLII;
 
-IV. El Director General del Instituto Chihuahuense de Salud;
+VI.- El Secretario del Sindicato de Trabajadores al Servicio del Gobierno del Estado; y,
 
-> <small>(ADICIONADA, P.O. 17 DE MAYO DE 1989)</small>
-
-V.- Un representante del Sindicato Nacional de los Trabajadores de la Educación, Sección XLII;
-
-> <small>(ADICIONADA, P.O. 17 DE MAYO DE 1989)</small>
-
-VI.- Un representante del Sindicato de Trabajadores al Servicio del Gobierno del Estado; y
-
-VII.- Un representante de la Universidad Autónoma de Chihuahua.
+VII.- El Rector de la Universidad Autónoma de Chihuahua.
 
 ###### ARTICULO 6.
 
@@ -714,6 +706,12 @@ P.O. 17 DE MAYO DE 1989.
 UNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 15 DE JULIO DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 1994.
 
 ###### ARTICULO UNICO.
 
