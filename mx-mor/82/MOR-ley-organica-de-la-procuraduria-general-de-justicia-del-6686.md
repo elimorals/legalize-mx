@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-procuraduria-general-de-justicia-del-6686"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-08-24"
-last_updated: "1999-07-14"
+last_updated: "2002-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 24 de agosto de 1994.
 
@@ -199,7 +199,9 @@ V.- ARRESTO ADMINISTRATIVO HASTA POR TREINTA Y SEIS HORAS.
 
 La Procuraduría General de Justicia del Estado, será conducida por el Procurador, Jefe de la Institución del Ministerio Público y de sus Organos Auxiliares directos, conforme a lo señalado en el Artículo 79-B de la Constitución del Estado.
 
-La Procuraduría contará con Subprocuradores sustitutos del Procurador, Visitador General, Direcciones Generales y Unidades Administrativas y Técnicas, así como órganos desconcentrados para el despacho de los asuntos que los Artículos del 2° al 11° de esta Ley, ponen a cargo de la Dependencia, en el número y con la competencia que determina el reglamento de esta Ley y el Presupuesto de Egresos autorice.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2002)</small>
+
+La Procuraduría contará con Subprocuradores sustitutos del Procurador, Visitador General, Coordinaciones Generales, Direcciones Generales y Unidades Administrativas y Técnicas, Coordinaciones y Direcciones, así como órganos desconcentrados para el despacho de los asuntos que los Artículos del 2 al 11 de esta Ley pone a cargo de la Dependencia, en el número y con la competencia que determina el Reglamento de Esta Ley y el presupuesto de Egresos autorice.
 
 El Ejecutivo determinará las entidades que deban quedar sujetas a la coordinación de la Procuraduría General de Justicia.
 
@@ -213,7 +215,9 @@ Los Subprocuradores resolverán los casos en que resulte el no ejercicio de la a
 
 Son auxiliares directos del Ministerio Público:
 
-I.- La Policía Judicial;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2002)</small>
+
+I.- La Policía Ministerial; y
 
 II.- Los Servicios Periciales de la Procuraduría.
 
@@ -261,13 +265,55 @@ El Procurador podrá designar, también visitadores especiales o asesores en aqu
 
 Para los fines previstos en los párrafos anteriores, se dará preferencia a quienes hubiesen desempeñado el cargo de Magistrado del Tribunal Superior de Justicia, Procurador o Subprocurador, sin perjuicio de tomarse en cuenta a otras personas que por sus antecedentes, conocimientos y experiencia, puedan coadyuvar al buen despacho de la procuración de justicia.
 
-Para ser Agente de la Policía Judicial, se deben reunir los requisitos señalados en las fracciones I y II de este Artículo, haber concluido por menos la enseñanza secundaria y no haber sido cesado en sus funciones en alguna corporación policiaca.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2002)</small>
+
+Para ser Coordinador General o Coordinador de Zona de la Policía Ministerial se requiere:
+
+a) Ser originario del Estado de Morelos o tener una residencia efectiva mínima de diez años en la Entidad;
+
+b) Haber observado buena conducta, tener un modo honesto de vida y no haber sido condenado por delito intencional;
+
+c) Acreditar estudios mínimos de bachillerato o equivalente, y estudios en las áreas de investigación policial y criminalística, preferentemente con grado de licenciatura;
+
+d) No tener antecedentes de violaciones graves o sistemáticos a los derechos humanos;
+
+e) No ser adicto al consumo de drogas, enervantes o psicotrópicas o alcohólico consentudinario (sic);
+
+f) No haber causado baja por responsabilidad administrativa o penal durante el desempeño de servicios policíacos; y,
+
+g) Haber aprobado los exámenes correspondientes que practique el Colegio Estatal de Seguridad Pública del Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2002)</small>
+
+Para ser Comandante o Agente de la Policía Ministerial del Estado, se requiere:
+
+a) Ser originario del Estado de Morelos o tener una residencia efectiva mínima de cinco años en el mismo;
+
+b) Haber observado buena conducta, tener un modo honesto de vida y no haber sido condenado por delito intencional;
+
+c) Acreditar estudios mínimos de bachillerato o equivalente;
+
+d) Haber aprobado los exámenes correspondientes y, de preferencia, haber aprobado el curso básico para Policía Ministerial impartido por el Colegio Estatal de Seguridad Pública.
+
+e) No ser adicto al consumo de drogas enervantes o psicotrópicas o alcohólico consuetudinario; y,
+
+f) No haber causado baja por responsabilidad administrativa o penal durante el desempeño de servicios policiacos.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2002)</small>
+
+En ningún caso podrá causar alta como mando o Agente de la Policía Ministerial del Estado la persona que no apruebe los exámenes y de la que no se hayan obtenido sus antecedentes en los Sistemas Nacional y Estatal de Seguridad Pública o en cualquiera otra institución o dependencia que puediere (sic) tenerlos.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2002)</small>
+
+Todo servidor público o empleado de la Procuraduría General de Justicia del Estado que arroje resultados positivos en los exámenes toxicológicos a que periódicamente deberá someterse, será sujeto al procedimiento de responsabilidad administrativo correspondiente, teniendo como sanción, en caso de responsabilidad plenamente probada, la destitución, y no podrá ser reincorporado bajo ninguna circunstancia.
 
 Para ser Perito Oficial de la Procuraduría se requiere tener la ciudadanía mexicana, en pleno ejercicio de sus derechos; acreditar el conocimiento necesario en la técnica o ciencia que corresponda y contar con una antigüedad de tres años en el ejercicio profesional además de tener una buena reputación profesional y de conducta.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2002)</small>
+
 ###### ARTICULO 19º.
 
-Para ingresar o pertenecer al servicio de la institución en cualquier categoría de Agentes del Ministerio Público, de la Policía Judicial o de Servicios Periciales, los interesados deberán acreditar, en su caso, los requisitos a que se refiere el artículo anterior y aprobar los exámenes de ingreso participando en el curso de oposición o de méritos a los que se convoque, los servidores de la institución están obligados a seguir los cursos que se establezcan para su mejoramiento profesional.
+Para ingresar o pertenecer al servicio de la Institución en cualquier categoría de Agentes del Ministerio Público, de la Policía Ministerial o de Servicios Periciales, los interesados deberán acreditar, en su caso, los requisitos a que se refiere el artículo anterior y aprobar los exámenes de ingreso participando en el curso de oposición o de méritos a los que se convoque, los servidores de la Institución están obligados a seguir los cursos que se establezcan para su mejoramiento profesional.
 
 > <small>(ADICIONADO, P.O. 14 DE JULIO DE 1999)</small>
 
@@ -277,9 +323,11 @@ Los Agentes del Ministerio Público y miembros de las instituciones policiales, 
 
 El Procurador expedirá los acuerdos y circulares, manuales de organización y de procedimientos, conducentes al buen despacho de las funciones de la dependencia y resolverá, por si o por conducto del funcionario que determine sobre el ingreso, promoción, adscripción, renuncias, sanciones, estímulos y suplencias de sus subalternos, sin perjuicio de la disposición (sic) que regulan las relaciones laborales entre el ejecutivo y sus trabajadores.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2002)</small>
+
 ###### ARTICULO 21º.
 
-El Procurador o los Subprocuradores, por delegación de aquél, podrá adscribir, discrecionalmente al personal de la Institución en el desempeño de las funciones que le competen y encomendar a sus subalternos según su calidad como Agente del Ministerio Público de la Policía Judicial o como Perito de la Institución, el estudio, dictamen y actuaciones que estimen pertinentes.
+El Procurador o los Subprocuradores, por delegación de aquél, podrá adscribir, discrecionalmente al personal de la institución en el desempeño de las funciones que le competen y encomendar a sus subalternos según su calidad como Agente del Ministerio Público de la Policía Ministerial o como Perito de la Institución, el estudio, dictamen y actuaciones que estimen pertinentes.
 
 ###### ARTICULO 22º.
 
@@ -289,9 +337,11 @@ El personal de la Procuraduría podrá auxiliar a otras autoridades, cuando lega
 
 El Procurador ejercerá autoridad jerárquica sobre los auxiliares directos mencionados en el Artículo 16º. de esta Ley, sin perjuicio de la autonomía técnica que corresponda a los peritos en el estudio de los asuntos que se sometan a su conocimiento y en la emisión de los dictámenes respectivos; asimismo, el Ministerio Público ordenará la actividad de los auxiliares a que se refieren los Incisos A) B) y C) del Artículo 16 de este ordenamiento, exclusivamente en lo que corresponde a las actuaciones que se practiquen en auxilio de la Institución.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2002)</small>
+
 ###### ARTICULO 24º.
 
-La Policía Judicial, actuará bajo la autoridad y mando inmediato del Ministerio Público, en términos de lo expuesto por el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, auxiliándolo en la investigación de los delitos; para este efecto, podrá recibir denuncias y querellas, sólo cuando por la urgencia del caso, no sea posible la representación directa de aquéllos ante el Ministerio Público; pero la Policía Judicial deberá de dar cuenta sin demora a la prepresentación (sic) social para que ésta determine lo que legalmente corresponda, conforme a las instrucciones que se le dicten a la Policía Judicial, desarrollará las diligencias que deban practicarse durante la averiguación previa y exclusivamente para los fines de ésta. Cumplirá las citaciones, notificaciones, presentaciones y detenciones que se le ordenen; debiendo ejecutar las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial.
+La Policía Ministerial actuará bajo la autoridad y mando inmediato del Ministerio Público, en términos de lo expuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, auxiliándolo en la investigación de los delitos; para este efecto, podrá recibir denuncias y querellas, solo cuando por la urgencia del caso, no sea posible la representación directa de aquéllos ante el Ministerio Público; pero la Policía Ministerial deberá de dar cuenta sin demora a la representación social para que ésta determine lo que legalmente corresponda, conforme a las instrucciones que se le dicten a la Policía Ministerial, desarrollará las diligencias que deban practicarse durante la averiguación previa y exclusivamente para los fines de ésta. Cumplirá las citaciones, notificaciones, presentaciones y detenciones que se le ordenen; debiendo ejecutar las ordenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial.
 
 ###### ARTICULO 25º.
 
@@ -323,25 +373,33 @@ Los Agentes del Ministerio Público no son recusables, pero deben excusarse del 
 
 Los Agentes del Ministerio Público, no podrán desempeñar otro puesto oficial, de conformidad y con las salvedades previstas en lo dispuesto por el artículo 130 de la Constitución Política del Estado, ni podrán ejercer la abogacía, sino en causa propia, de su cónyuge o concubina o de sus parientes consanguíneos en línea recta, de sus hermanos, o de su adoptante o adoptado. Tampoco podrán ejercer como, apoderados judiciales, tutor, curador o albacea, a menos que tengan carácter de heredero o legatario. No podrán ser depositario judicial, síndico, administrador, interventor en quiebra o concurso, ni corredor, comisionista, árbitro o arbitrador.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2002)</small>
+
 ###### ARTICULO 32º.
 
-La desobediencia o resistencia a las órdenes legalmente fundadas del Ministerio Público, de la Policía Judicial, dará lugar al empleo de medidas de apremio o a la imposición de correcciones y sanciones, según el caso, en los términos que prevenga esta Ley y el Código de Procedimientos Penales.
+La desobediencia o resistencia a las órdenes legalmente fundadas del Ministerio Público, de la Policía Ministerial, dará lugar al empleo de medidas de apremio a la imposición de correcciones y sanciones, según el caso, en los términos que prevenga esta Ley y el Código de Procedimientos Penales.
 
 > <small>(ADICIONADO, P.O. 14 DE JULIO DE 1999)</small>
 
 Los miembros de las instituciones policiales, podrán ser removidos de su cargo, si no cumplen con los requisitos que las leyes vigentes en el momento de la remoción señalen para permanecer en dichas instituciones, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la remoción y, en su caso, sólo procederá la indemnización.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2002)</small>
+
 ###### ARTICULO 33º.
 
-Se podrá imponer al personal de la Procuraduría, por las faltas en que incurran en el Servicio las correcciones disciplinarias previstas en la Ley de Responsabilidades de los Servidores Públicos, mediante el procedimiento que dicha Ley previene, en el caso de elementos de la Policía Judicial, se aplicarán las mismas sanciones, o bien, a juicio del Director General de la Corporación y bajo su responsabilidad, arresto constitucional que no podrá rebazar (sic) un plazo mayor de treinta y seis horas; retención en el servicio o privación de permisos de salida, hasta por quince días, si la gravedad de la falta lo amerita.
+Se podrá imponer al personal de la Procuraduría, por las faltas en que incurran en el servicio las correcciones disciplinarias previstas en la Ley de Responsabilidades de los Servidores Públicos, mediante el procedimiento que dicha Ley previene, en el caso de elementos de la Policía Ministerial, se aplicarán las mismas sanciones, o bien, a juicio del Coordinador General de la Corporación y bajo su responsabilidad, arresto constitucional que no podrá rebasar un plazo mayor de treinta y seis horas; retención en el servicio o privación de permisos de salida, hasta por quince días, si la gravedad de la falta lo amerita.
+
+> <small>(REFORMADO, 7 DE AGOSTO DE 2002)</small>
 
 ###### ARTICULO 34º.
 
-Cuando se impute la Comisión de un delito a un Agente del Ministerio Público, Agente de la Policía Judicial y demás personal de la Procuraduría, el Juez que conozca el asunto pedirá al Procurador que lo ponga a su disposición, sin perjuicio de que se adopten las medidas cautelares que corresponden para evitar que el inculpado se sustraiga a la acción de la justicia. El Procurador se atendrá a lo dispuesto por el órgano jurisdiccional. La detención que se practique en contravención a este precepto será sancionada en los términos que prevenga el Código Penal.
+Cuando se impute la comisión de un delito a un Agente del Ministerio Público, Agente de la Policía Ministerial y demás personal de la Procuraduría, el Juez que conozca el asunto pedirá al Procurador que lo ponga a su disposición, sin perjuicio de que se adopten las medidas cautelares que corresponden para evitar que el inculpado se sustraiga a la acción de la justicia. El Procurador se atendrá a lo dispuesto por el órgano jurisdiccional. La detención que se practique en contravención a este precepto será sancionada en los términos que prevenga el Código Penal.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2002)</small>
 
 ###### ARTICULO 35°.
 
-El Ministerio Público, o la Policía Judicial, sólo expedirán constancias de actuaciones o registros que obren en su poder, cuando exista mandamiento de autoridad competente, que funde y motive su requerimiento, o cuando resulte indispensable la expedición de dicha constancia para el ejercicio de derechos o el cumplimiento de obligaciones previstas en la Ley.
+El Ministerio Público, o la Policía Ministerial, solo expedirán constancias de actuaciones o registros que obren en su poder cuando exista mandamiento de autoridad competente, que funde y motive su requerimiento, o cuando resulte indispensable la expedición de dicha constancia para el ejercicio de derechos o el cumplimiento de obligaciones previstas en la Ley.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -404,3 +462,13 @@ PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE AGOSTO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
