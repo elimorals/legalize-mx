@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "1997-10-22"
+last_updated: "1997-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 1997.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1307,6 +1307,8 @@ En cada Municipio existirá un tribunal de arbitraje, accidental o permanente, p
 
 ### CAPITULO III. DE LOS ORGANOS DE COLABORACION
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1997)</small>
+
 ###### ARTICULO 79.
 
 Son organismos descentralizados municipales, las personas morales creadas por el Ayuntamiento, cualquiera que sea la forma o estructura que adopten siempre y cuando reúnan los siguientes requisitos:
@@ -1339,7 +1341,9 @@ Las empresas de participación minoritaria, quedan sujetas a la vigilancia del A
 
 ###### ARTICULO 83.
 
-En cada Municipio, podrán funcionar los comités de vecinos, que establezca el reglamento interior. Estarán integrados por cuando menos tres miembros, fungiendo uno como presidente y serán electos en forma directa por la población de la zona que corresponda.
+En cada Municipio, deberán funcionar los comités de vecinos, en la forma y términos que establezca el Reglamento Interior, estarán integrados cuando menos por tres miembros, fungiendo como Presidente y serán electos en forma directa por la población de la zona que corresponda.
+
+En la promoción, organización funcionamiento control y supresión de los comités sólo podrán intervenir el Ayuntamiento, con la participación que corresponda a los vecinos.
 
 ###### ARTICULO 84.
 
@@ -2736,3 +2740,17 @@ P.O. 22 DE OCTUBRE DE 1997.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para la elección de la Junta Municipal en la Sección Municipal de Benito Juárez, se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado, en lo conducente, debiéndose llevar a cabo la elección dentro de los 60 días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 29 DE NOVIEMBRE DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los comités de Vecinos integrados a la fecha de la entrada en vigor de la presente disposición, deberán ser válidos de conformidad con el Reglamento Interior de los Municipios.
+
+###### ARTICULO TERCERO.
+
+De no existir el Registro Interior, los Comités de Vecinos serán validados por los Ayuntamientos.
