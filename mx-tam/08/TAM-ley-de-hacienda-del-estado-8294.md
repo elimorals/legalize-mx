@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "1985-12-28"
+last_updated: "1986-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1986.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -355,7 +355,7 @@ II.- Los bienes inmuebles destinados al culto religioso, cuando sean controlados
 
 III.- Los bienes inmuebles propiedad del Gobierno del Estado y de los Municipios.
 
-IV.- Los que son propiedad de particulares y se destinan exclusivamente a fines de beneficiencia(sic) o de educación, siempre que se demuestre que dichos fines han sido autorizados por el Gobierno del Estado o por la Secretaría de Educación Pública o Salubridad y Asistencia, en su caso, que los propietarios concedieron el uso del predio a título gratuito y que se presten también gratuitamente los servicios de beneficiencia (sic) o educación.
+IV.- Los que son propiedad de particulares y se destinan exclusivamente a fines de beneficiencia (sic) o de educación, siempre que se demuestre que dichos fines han sido autorizados por el Gobierno del Estado o por la Secretaría de Educación Pública o Salubridad y Asistencia, en su caso, que los propietarios concedieron el uso del predio a título gratuito y que se presten también gratuitamente los servicios de beneficiencia (sic) o educación.
 
 V.-. Los predios y construcciones en que se encuentran establecidos consulados, cuando sean propiedad de sus respectivo gobiernos, siempre que exista reciprocidad del trato fiscal con nuestro país.
 
@@ -1921,7 +1921,7 @@ DEL PAGO
 
 ###### ARTICULO 169o.
 
-El impuesto se causará al cosechar los frutos o productos agrícolas y deberá pagarse en la Oficina Fiscal en cuya jurisdicción se encuentre ubicado el predio productor, antes de que se extraigan del mismo o de sus bodegas, pudiendo efectuarse en las casetas fiscales en caso de su traslado inmediato, o enterar el importe del mismo a la persona física o moral a quien entregue su producto en calidad de venta, para su guarda o maquila, exigiendo el comprobante de retención en las formas oficiales que fije la Tesorería General del Estado.
+El impuesto se causará al cosechar los frutos o productos agrícolas y deberá pagarse en la Oficina Fiscal en cuya jurisdicción se encuentre ubicado el predio productor, antes de que se extraigan del mismo o de sus bodegas, pudiendo efectuarse en las casetas fiscales en su caso de su traslado inmediato, o enterarón el importe del mismo a la persona física o moral a quien entregue su producto en calidad de venta, para su guarda o maquila, exigiendo el comprobante de retención en las formas oficiales que fije la Tesorería General del Estado.
 
 Los frutos o producto agrícolas que se encuentren en el estado, sin acreditar que provienen de otra entidad mediante la documentación Fiscal expedida en el lugar de origen y sellada por la primera caseta o autoridad fiscal competente del estado que toque en su traslado, se presumirán producidos en Tamaulipas y estarán sujetos al pago de este Impuesto.
 
@@ -2883,7 +2883,7 @@ Son obligaciones de los sujetos de este impuesto:
 
 I.- Liquidar el impuesto en el momento en que se haga el entero de los conceptos básicos sobre los cuales recae, en las declaraciones que se presenten con motivo del pago de estos, salvo en aquellos casos en que se prevea una forma distinta.
 
-II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días lo. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
+II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días 1o. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
 
 III.- Las demás que este capítulo establece.
 
@@ -3338,3 +3338,7 @@ El presente Decreto entrará en vigor el día primero de enero de 1986.
 ###### ARTICULO SEGUNDO.
 
 Cuando en este Decreto se haga referencia a días de salario mínimo como sistema para señalar la tarifa cobrable que corresponda, deberá entenderse por dicha expresión, el salario mínimo diario vigente en la capital del Estado, en la fecha en que se efectúe el pago.
+
+P.O. 22 DE NOVIEMBRE DE 1986
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de Estado.
