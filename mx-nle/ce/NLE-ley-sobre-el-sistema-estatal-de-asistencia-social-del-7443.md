@@ -1,0 +1,462 @@
+---
+title: "LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEON"
+identifier: "NLE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7443"
+country: "mx"
+rank: "ley"
+publication_date: "1988-12-12"
+last_updated: "1988-12-12"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7443&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-nle"
+scjn_id: "7443"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "150"
+reform_count: "17"
+scjn_last_update: "2025-05-09"
+issue_date: "1988-12-06"
+state: "NLE"
+---
+# LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEON
+
+LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEON
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
+
+EL CIUDADANO LIC. JORGE A. TREVIÑO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
+
+Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
+
+DECRETO
+
+NUM. 22
+
+LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEON
+
+###### ARTICULO 1o.
+
+La presente Ley es de orden público e interés social, su objeto primordial es establecer las bases y procedimientos de un Sistema Estatal de Asistencia Social que promueva la prestación de los servicios de salud en materia de asistencia social en el Estado y coordine el acceso a los mismos, garantizando la concurrencia y colaboración del Gobierno Federal, Estatal y Municipal, así como la participación de los sectores social y privado, según la distribución de competencias que establece la Ley General de Salud, la Ley Estatal de Salud, la Ley sobre el Sistema Nacional de Asistencia Social, la Ley Orgánica de la Administración Pública del Estado de Nuevo León, y las demás disposiciones jurídicas aplicables.
+
+###### ARTICULO 2o.
+
+Para los efectos de esta Ley, se entiende por asistencia social el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física o mental propiciando su incorporación plena a la sociedad.
+
+###### ARTICULO 3o.
+
+El Gobierno del Estado, en forma prioritaria proporcionará servicios de Asistencia Social, encaminados al desarrollo integral de la familia, entendida ésta como la célula de la sociedad que provee a sus miembros de los elementos que requieren en las diversas circunstancias de su desarrollo, en especial a aquellos individuos con carencias familiares esenciales, no superables en forma autónoma por ellos.
+
+###### ARTICULO 4o.
+
+En los términos de esta Ley, son sujetos a la recepción de los servicios de salud en materia de Asistencia Social preferentemente los siguientes:
+
+I.- La familia, considerándola como parte fundamental de la sociedad;
+
+II.- Los menores en estado de abandono, desamparo, desnutrición o sujetos a maltrato;
+
+III.- Menores infractores en lo referente a su atención integral y reintegración a la familia, sin menoscabo de lo que establezca la legislación penal y demás disposiciones jurídicas aplicables;
+
+IV.- Ancianos en desamparo, incapacidad, marginación o sujetos al maltrato;
+
+V.- Minusválidos o incapaces por causa de ceguera, debilidad visual, sordera, mudez, alteraciones del sistema neuromúsculo-esquelético, deficiencias mentales, problemas del lenguaje u otras deficiencias;
+
+VI.- Indigentes;
+
+VII.- Personas que por su extrema ignorancia requieran de servicios asistenciales;
+
+VIII.- Víctimas de la comisión de delitos en estado de abandono e incapacidad;
+
+IX.- Menores, ancianos o inválidos que dependan económicamente de quien se encuentre detenido por causa penal y que queden en completo estado de abandono;
+
+X.- Habitantes del medio rural y del urbano marginados, que carezcan de lo indispensable para su subsistencia y estén incapacitados para valerse por sí mismos;
+
+XI.- Mujeres en estado de gestación o de lactancia que no puedan valerse por sí mismas, y
+
+XII.- Personas víctimas de desastres.
+
+###### ARTICULO 5o.
+
+Los servicios de salud en materia de asistencia social comprenderán las medidas necesarias de prevención para evitar el aumento de los suejtos (sic) receptores de dichos servicios.
+
+###### ARTICULO 6o.
+
+Corresponde al Estado, organizar, operar, supervisar y evaluar los servicios de salud en materia de asistencia social dentro de su jurisdicción territorial y con base a las normas técnicas que establezca la Secretaría de Salud del Gobierno Federal y la Secretaría Estatal de Salud.
+
+### CAPITULO SEGUNDO. DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
+
+###### ARTICULO 7o.
+
+Con el fin de lograr los objetivos señalados en la presente Ley, se crea el "Sistema Estatal de Asistencia Social", el cual formará parte del "Sistema Estatal de Salud", y estará constituido por las dependencias y entidades de la administración pública estatal y municipal; por las personas físicas o morales de los sectores social y privado, así como por los mecanismos de coordinación de acciones, según la distribución de competencias que establece la Ley General de Salud, la Ley sobre el Sistema Nacional de Asistencia Social, la Ley Estatal de Salud y demás disposiciones jurídicas aplicables.
+
+###### ARTICULO 8o.
+
+La coordinación del Sistema Estatal de Asistencia Social, estará a cargo del organismo denominado "Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León", a que se refiere el artículo 11o. de esta Ley.
+
+###### ARTICULO 9o.
+
+Los integrantes del Sistema Estatal de Asistencia Social contribuirán al logro de los siguientes objetivos:
+
+I.- Garantizar la extensión cuantitativa y cualitativa de los servicios, preferentemente en las regiones menos desarrolladas y a los grupos más vulnerables,
+
+II.- Definir criterios de distribución de universos de usuarios, de regionalización, de escalonamiento de los servicios, así como de universalización de coberturas, y
+
+III.- Establecer y llevar a cabo conjuntamente programas interinstitucionales que aseguren la atención integral de los individuos y de los grupos sociales vulnerables.
+
+###### ARTICULO 10o.
+
+Para los efectos de esta Ley, se consideran como servicios básicos de salud en materia de asistencia social los siguientes:
+
+I.- Promoción al desarrollo integral de la familia, procurando que sus miembros se desenvuelvan en un ambiente de plena salud física, mental y social;
+
+II.- La atención en establecimientos especiales a indigentes, ancianos desvalidos y menores en estado de abandono, marginación o sujetos a maltrato;
+
+III.- La promoción del bienestar de los ancianos y el desarrollo de acciones de preparación para la senectud;
+
+IV.- La promoción e impulso del sano crecimiento físico, mental y social de la niñez;
+
+V.- El ejercicio de la tutela de los menores, en los términos de las disposiciones jurídicas aplicables;
+
+VI.- La prestación de servicios de orientación jurídica y social, especialmente a menores, ancianos y minusválidos sin recursos;
+
+VII.- La prevención y rehabilitación de inválidos, minusválidos o incapaces por causa de ceguera, debilidad visual, sordera, mudez, alteraciones del sistema neuromúsculo-esquelético, deficiencias mentales, problemas de lenguaje u otras deficiencias que carezcan de los recursos materiales para atenderse;
+
+VIII.- Atención íntegra a menores infractores y su reintegración a la familia, por conducto de los organismos especiales que ya existen, y de los que posteriormente se constituyan en atención a este objetivo;
+
+IX.- Apoyo material a los familiares que dependan económicamente de quien se encuentre detenido por causa penal o que haya fallecido por cualquier causa y que queden en completo estado de abandono;
+
+X.- Atención a las mujeres en estado de gravidez o lactancia, cuya situación económica no les permita valerse por sí mismas;
+
+XI.- Fomento a las acciones de paternidad responsable que propicien la preservación de los derechos de los menores a la satisfacción de sus necesidades físicas, intelectuales y emocionales;
+
+XII.- La orientación nutricional y la alimentación complementaria a personas de escasos recursos;
+
+XIII.- El desarrollo comunitario en localidades y zonas sociales y económicamente marginadas;
+
+XIV.- La promoción de la participación consciente y organizada de la población con carencias económicas, físicas o sociales en las acciones de promoción y prestación de los servicios de asistencia social que se lleven a cabo para su propio beneficio;
+
+XV.- Atención a las personas víctimas de desastres;
+
+XVI.- Prestación de servicios funerarios a quienes carezcan de recursos para sufragarlos;
+
+XVII.- Combatir el pandillerismo, la drogadicción, el alcoholismo y demás vicios sociales; y
+
+XVIII.- Los análogos y conexos a los anteriores que tiendan a mejorar las circunstancias de carácter físico, mental y social que impidan al individuo su desarrollo integral.
+
+### CAPITULO TERCERO. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE NUEVO LEON
+
+###### ARTICULO 11o.
+
+El Gobierno del Estado contará con un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que se denominará "Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León", el cual será el organismo rector de la asistencia social y tendrá como objetivos, la promoción de los servicios de salud en materia de asistencia social, la prestación de servicios en ese campo, la promoción de la interrelación sistemática de acciones que en la materia lleven a cabo las instituciones públicas y privadas, así como la realización de las demás acciones que establece esta Ley y las disposiciones legales aplicables.
+
+###### ARTICULO 12o.
+
+Cuando en esta Ley se haga mención al "Organismo" se entenderá hecha al Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León.
+
+###### ARTICULO 13o.
+
+El Organismo para el logro de sus objetivos realizará las siguientes funciones:
+
+I.- Promover el bienestar social y prestar los servicios de asistencia social a que se refiere el Art. 4o. de la presente Ley, sujetándose a las normas que al efecto dicten la Secretaría de Salud del Gobierno Federal, el Sistema Nacional para el Desarrollo Integral de la Familia y la Secretaría Estatal de Salud;
+
+II.- Apoyar el desarrollo de la familia y de la comunidad;
+
+III.- Realizar estudios e investigaciones sobre los problemas de la familia con el fin de lograr que sus miembros se desenvuelvan en un ambiente que propicie su pleno desarrollo físico, mental y social;
+
+IV.- Impulsar el sano crecimiento físico, mental y social de la niñez, mediante programas que tiendan a elevar sus condiciones de salud y nutrición;
+
+V.- Establecer programas tendientes a evitar, prevenir y sancionar el maltrato de los menores, proporcionándoles atención, cuidado y vigilancia;
+
+VI.- Cuidar y dar en adopción a niños y expósitos, investigando la solvencia moral de los adoptantes y vigilando en los términos de las leyes el proceso de integración de los adoptados;
+
+VII.- Intervenir en el ejercicio de la tutela de los menores en los términos de las disposiciones jurídicas aplicables;
+
+VIII.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de incapaces y en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones jurídicas aplicables;
+
+IX.- Prestar servicios de orientación jurídica, psicológica y social a menores, ancianos, mujeres, minusválidos y en general a las personas de escasos recursos;
+
+X.- Operar establecimientos que presten servicios de asistencia social, en beneficio de menores en estado de abandono, ancianos desamparados, minusválidos sin recursos y en general, personas con cualquier tipo de incapacidad.
+
+XI.- Realizar acciones de apoyo educativo para la integración social y de capacitación para el trabajo, a los sujetos de la asistencia social;
+
+XII.- Fomentar la organización de grupos de promotores voluntarios y coordinar sus acciones, orientando su participación en los programas del Organismo;
+
+XIII.- Realizar y promover la capacitación de recursos humanos para la asistencia social;
+
+XIV.- Realizar estudios e investigaciones sobre los problemas de la asistencia social con la participación, en su caso, de las autoridades asistenciales del Gobierno Federal, Estatal o Municipal;
+
+XV.- Coordinar y promover al Sistema Estatal de Asistencia Social, según lo dispuesto en el Capítulo Cuarto de la presente Ley;
+
+XVI.- Proponer a las autoridades competentes los proyectos de los reglamentos que se requieran en la materia, observando su estricto cumplimiento;
+
+XVII.- Promover a través del ejecutivo iniciativas tendientes a ampliar y mejorar los servicios de asistencia social que se presten en la entidad;
+
+XVIII.- Proponer a los organismos e instituciones de asistencia social, programas que contribuyan al uso eficiente de sus recursos;
+
+XIX.- Fomentar, apoyar, coordinar y evaluar las actividades que lleven a cabo las instituciones privadas cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones, que al efecto correspondan a otras dependencias;
+
+XX.- Supervisar, en coordinación con la Secretaría Estatal de Salud la aplicación de las normas técnicas que rijan la prestación de los servicios de salud en materia social, así como la difusión y adecuación de las mismas entre los integrantes del Sistema Estatal de Asistencia Social;
+
+XXI.- Evaluar los resultados de los servicios de asistencia social que se presten en el Estado, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias;
+
+XXII.- Vigilar, en el ámbito de su competencia, el estricto cumplimiento de esta Ley, así como las disposiciones que se dicten con base a ella;
+
+XXIII.- Coordinar, evaluar y dar seguimiento a los servicios de asistencia social que presten las Instituciones de Seguridad Social del Gobierno del Estado, sin perjuicio de las atribuciones que competen a otras dependencias;
+
+XXIV.- Participar en coordinación con la Secretaría Estatal de Salud en el establecimiento y operación del Sistema Estatal de información en materia de asistencia social, y
+
+XXV.- Los demás servicios de salud en materia de asistencia social que sean complementarios para el debido cumplimiento de su objetivo, y los demás que establezcan las disposiciones jurídicas aplicables.
+
+###### ARTICULO 14o.
+
+El Patrimonio del Organismo se integrará por:
+
+I.- Los derechos, bienes muebles e inmuebles que actualmente posea;
+
+II.- Las aportaciones, subsidios, bienes y demás ingresos que el Gobierno Federal, Estatal, Organismos Paraestatales y Municipios le otorguen;
+
+III.- Los rendimientos, recuperaciones, derechos, bienes y demás ingresos que obtenga de la inversión de sus recursos;
+
+IV.- Las aportaciones en especie o efectivo, así como donaciones y legados otorgados por instituciones públicas o privadas y personas físicas o morales;
+
+V.- Las asignaciones que el Congreso del Estado decrete al aprobar el presupuesto de egresos formulado por el Ejecutivo;
+
+VI.- Las concesiones, permisos, licencias o autorizaciones que se le otorguen conforme a la Ley, y
+
+VII.- En general, los demás bienes, derechos e ingresos que obtenga por cualquier título.
+
+###### ARTICULO 15o.
+
+Son Organos superiores de Gobierno del Organismo:
+
+- Patronato
+
+- La Junta
+
+- La Dirección General, y
+
+- El Comisariado
+
+###### ARTICULO 16o.
+
+El Patronato estará integrado por ocho miembros que serán designados y removidos libremente por el Gobernador del Estado. El Titular del Ejecutivo y el Director General del Organismo representarán a la Junta de Gobierno ante el Patronato, cuyos miembros no percibirán retribución, emolumento o compensación alguna y se seleccionarán de entre los sectores público, social y privado.
+
+###### ARTICULO 17o.
+
+El Patronato tendrá las siguientes facultades:
+
+I.- Emitir opinión y recomendaciones sobre planes de labores, presupuestos, informes y estudios financieros del organismo;
+
+II.- Apoyar las actividades del organismo y formular sugerencias encaminadas a su mejor desempeño;
+
+III.- Coadyuvar para la obtención de recursos que permitan el incremento del patrimonio del Organismo y el cumplimiento cabal de su objeto;
+
+IV.- Designar a su presidente y secretario de sesiones;
+
+V.- Ser el conducto o vía para obtener la colaboración de Organismos públicos y privados de asistencia social, cuando así lo solicite la Junta de Gobierno, y
+
+VI.- Las demás necesarias para el ejercicio de las anteriores.
+
+###### ARTICULO 18o.
+
+El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias que se requieran de conformidad con el reglamento respectivo.
+
+###### ARTICULO 19o.
+
+La Junta de Gobierno estará integrada por el Gobernador del Estado quien la presidirá, así como por los titulares de la Secretaría Estatal de Salud, Secretaría General de Gobierno, Secretaría de Finanzas y Tesorería General del Estado, Secretaría de Educación y Cultura, Secretaría de Servicios para los Trabajadores y Productividad, Procuraduría General de Justicia, así como el Delegado de la CONASUPO, Delegado del IMSS y Delegado del ISSSTE. Los miembros de la Junta podrán ser suplidos por los representantes que al efecto ellos mismos designen y que sean aprobados por quien preside la Junta.
+
+La Junta de Gobierno contará con su Secretario Técnico designado por la misma a propuesta del Director General del Organismo.
+
+###### ARTICULO 20o.
+
+La Junta de Gobierno tendrá las siguientes atribuciones:
+
+I.- Actuar como representante legal para actos de administración, dominio, pleitos y cobranzas del Organismo pudiendo delegar estas facultades en otros órganos del mismo salvo aquellas que sean indelegables;
+
+II.- Aprobar los planes de labores, presupuestos, informes de actividades y estados financieros anuales;
+
+III.- Aprobar el reglamento interior, la organización general del Organismo y los manuales de procedimientos y de servicios al público;
+
+IV.- Designar y remover a propuesta del Director General del Organismo, a los trabajadores de confianza del mismo;
+
+V.- Conocer los informes, dictámenes y recomendaciones del Comisario y del Auditor Interno;
+
+VI.- Aprobar la aceptación de herencias, legados, donaciones y demás beneficios que otorguen al Organismo;
+
+VII. Estudiar y aprobar los proyectos de inversión, y
+
+VIII. Conocer y aprobar los convenios de coordinación que hayan de celebrarse con dependencias y entidades públicas y privadas.
+
+###### ARTICULO 21o.
+
+La Junta de Gobierno podrá integrar los Comités Técnicos necesarios para el estudio y propuesta de los mecanismos que aseguren la coordinación interinstitucional en la atención de las tareas asistenciales y para elevar las propuestas que estimen necesarias a la Junta. Estos comités estarán formados por los representantes que al efecto designen las dependencias y entidades competentes.
+
+###### ARTICULO 22o.
+
+La Junta de Gobierno celebrará sesiones ordinarias bimestrales y las extraordinarias que se requieran de conformidad al reglamento respectivo.
+
+###### ARTICULO 23o.
+
+El Director General deberá ser mexicano por nacimiento, mayor de 30 años, y con experiencia en materia administrativa y de asistencia social. El Gobernador del Estado designará y removerá libremente al Director General del Organismo.
+
+###### ARTICULO 24o.
+
+El Director General del Organismo cumplirá con las siguientes funciones:
+
+I.- Ejecutar los acuerdos y disposiciones de la Junta de Gobierno;
+
+II.- Someter a conocimiento y aprobación de la Junta de Gobierno los planes de labores, informes de actividades, presupuestos y estados financieros anuales del Organismo;
+
+III.- Presentar a la Junta de Gobierno los informes y estados financieros bimestrales, anexando a ellos los comentarios que estime pertinentes a los reportes, informes y recomendaciones que al efecto formule el comisario y el auditor externo;
+
+IV.- Proponer a la Junta de Gobierno la designación y remoción de los trabajadores de confianza, así como designar y remover libremente a los demás trabajadores del Organismo;
+
+V.- Llevar las relaciones laborales de acuerdo con las disposiciones legales aplicables;
+
+VI.- Planear, dirigir y controlar el funcionamiento del Organismo con sujeción a las instrucciones de la junta de gobierno;
+
+VII.- Celebrar convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Organismo;
+
+VIII. Actuar como apoderado del Organismo con facultades generales de administración, pleitos y cobranzas, así como aquellas que requieran cláusula especial conforme a la Ley;
+
+IX. Las demás que sean necesarias para el desempeño de las anteriores o aquellas que le sean delegadas por la junta de gobierno.
+
+###### ARTICULO 25o.
+
+El Comisario será designado o removido libremente por el Gobernador del Estado, debiendo ser Contador Público, ciudadano mexicano por nacimiento y con experiencia profesional no menor de cinco años.
+
+###### ARTICULO 26o.
+
+El Comisario tendrá las siguientes facultades:
+
+I.- Vigilar que los gastos, cuentas y administración de los recursos del Organismo se encaminen adecuadamente para el cumplimiento de sus fines acatando en todo momento lo que dispone esta Ley, los planes y presupuestos aprobados, así como otras disposiciones aplicables;
+
+II.- Practicar auditorías de los estados financieros y las de carácter administrativo que se requieran;
+
+III.- Recomendar a la Junta de Gobierno como al Director General las medidas preventivas y correctivas que sean convenientes para el mejoramiento de la organización y funcionamiento del Organismo;
+
+IV.- Asistir a las sesiones del patronato y de la junta de gobierno, y
+
+V.- Las demás necesarias para el ejercicio de las anteriores.
+
+###### ARTICULO 27o.
+
+Las facultades del comisario se señalan sin perjuicio de aquellas que por ley le corresponde a la Contraloría General del Estado.
+
+###### ARTICULO 28o.
+
+Los gastos y cuentas que se eroguen de la administración y funcionamiento del Organismo, deberán ser signados por lo menos por dos funcionarios autorizados para ello.
+
+###### ARTICULO 29o.
+
+El Organismo emitirá opinión sobre el otorgamiento de subsidios a instituciones públicas y privadas que actúen en el campo de la asistencia social.
+
+### CAPITULO CUARTO. DE LA COORDINACION, CONCERTACION E INDUCCION
+
+###### ARTICULO 30o.
+
+Con el propósito de asegurar la adecuada coordinación de acciones en el ámbito de la prestación de los servicios de asistencia social y con el objeto de favorecer prioritariamente a los grupos sociales más vulnerables, el Gobierno del Estado, con la participación del Organismo, celebrará convenios o acuerdos dentro del marco del Convenio Unico de Desarrollo para la coordinación de acciones a nivel estatal o municipal, con las entidades y dependencias de la Administración Pública Federal o Municipal, encaminados al logro de los siguientes objetivos:
+
+I.- Establecer programas conjuntos;
+
+II.- Promover la conjunción de los tres niveles de Gobierno en la aportación de recursos financieros;
+
+III.- Distribuir y coordinar acciones entre las partes, de manera proporcional y equitativa;
+
+IV.- Coordinar y proponer programas para la creación y apoyo de Instituciones de asistencia social, tanto públicas como privadas en el ámbito estatal o municipal, y
+
+V.- Fortalecer el patrimonio de los sistemas municipales para el desarrollo integral de la familia.
+
+###### ARTICULO 31o.
+
+El Gobierno del Estado, a través del Organismo, promoverá ante los gobiernos municipales, el establecimiento de mecanismos idóneos que permitan una interrelación sistemática a fin de conocer las demandas de los servicios de salud en materia de asistencia social, para los grupos sociales vulnerables y coordinar su oportuna atención.
+
+###### ARTICULO 32o.
+
+El Gobierno del Estado a través del Organismo y con la participación de las Dependencias y Entidades que correspondan, celebrará convenios para la concertación de acciones en materia de asistencia social con los sectores social y privado que coadyuven a la realización de los objetivos a que se refiere esta Ley y que en todo caso deberán ajustarse a las siguientes bases:
+
+I.- Definición de las responsabilidades que asuman los integrantes de los sectores social y privado;
+
+II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo el Gobierno del Estado, por conducto del Organismo;
+
+III.- Fijación del objeto, materia y alcances jurídicos de los compromisos que asuman las partes con reserva de las funciones de su autoridad que competen al Gobierno del Estado, y
+
+IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan las partes.
+
+###### ARTICULO 33o.
+
+El Gobierno del Estado, con el objeto de ampliar la cobertura de los servicios de salud en materia de asistencia social fincados en la solidaridad ciudadana, promoverá en toda la entidad, a través del Organismo, la creación de instituciones de asistencia privada, fundaciones, asociaciones civiles y otras similares, las que, con sus propios recursos o con liberalidades de cualquier naturaleza que aporte la sociedad en general, presten dichos servicios con sujeción a los ordenamientos que las rijan.
+
+El Gobierno del Estado, a través del Organismo, aplicará, difundirá y supervisará las normas técnicas que dichas instituciones deberán observar en la prestación de los servicios de salud en materia de asistencia social, de conformidad con las disposiciones jurídicas aplicables.
+
+###### ARTICULO 34.
+
+A propuesta del Organismo, el Gobierno del Estado dictaminará el otorgamiento de estímulos fiscales para inducir las acciones de los sectores social y privado en la prestación de servicios de salud en materia de asistencia social.
+
+###### ARTICULO 35o.
+
+El Organismo recomendará y promoverá el establecimiento de organismos similares en los municipios, a los cuales prestará apoyo y colaboración técnica y administrativa en materia de asistencia social.
+
+###### ARTICULO 36o.
+
+El Gobierno del Estado, a través del Organismo y mediante la inducción, promoverá la organización y participación activa de la comunidad en la atención de aquellos casos de salud, que por sus características requieran de acciones de asistencia social basadas en el apoyo y solidaridad social, así como el concurso coordinado de las dependencias y entidades públicas, específicamente en el caso de comunidades afectadas de marginación.
+
+El Gobierno del Estado y el Organismo pondrán especial atención en la promoción de acciones de la comunidad, en beneficio de menores en estado de abandono, minusválidos e incapaces física y mentalmente.
+
+###### ARTICULO 37o.
+
+El Gobierno del Estado, directamente o a través del Organismo promoverá la organización y participación de la comunidad para que, en base al apoyo y la solidaridad social, coadyuve en la prestación de los servicios de salud en materia de asistencia social a través de las siguientes acciones:
+
+I.- Promoción de hábitos de conducta y valores que contribuyan a la protección de los grupos vulnerables, a su superación y a la prevención de invalidez.
+
+II.- Incorporación, como auxiliares voluntarios, en la realización de tareas básicas de asistencia social y participación en determinadas actividades de operación de los servicios de salud en materia de asistencia social, bajo la dirección y control de las autoridades correspondientes.
+
+III. Notificación de la existencia de personas que requieran de asistencia social, cuando éstas se encuentren impedidas de solicitar auxilio por sí mismas.
+
+IV.- Formulación de sugerencias para mejorar los servicios de asistencia social, y
+
+V.- Otras actividades que coadyuven a la protección de la salud.
+
+###### ARTICULO 38o.
+
+En caso de desastres como inundaciones, terremotos, derrumbes, explosiones, incendios y otras catástrofes de la naturaleza por las que se causen daños a la población, el Organismo, sin perjuicio de las atribuciones que en auxilio de los damnificados lleven a cabo otras dependencias y entidades de la Administración Pública Federal, Estatal o Municipal, promoverá las acciones de los distintos sectores sociales que actúen en beneficio de aquellos, en el ámbito de su competencia.
+
+## TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley que crea el Organismo Público Descentralizado "Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León", publicada en el Periódico Oficial del Estado, el 25 de febrero de 1977.
+
+El Organismo a que se refiere el Artículo 11o. de esta Ley es subrrogatorio (sic) de todos los derechos y obligaciones del órgano del mismo nombre cuya ley se abroga.
+
+###### ARTICULO TERCERO.
+
+Se abroga la Ley de Asistencia Social publicada en el Periódico Oficial del Estado con fecha 29 de Agosto de 1984. Las Instituciones de Asistencia Social que mediante dicha Ley se regulaban, se sujetarán a éste ordenamiento, a las disposiciones jurídicas sobre la materia y a los reglamentos que al efecto expida el Gobernador del Estado.
+
+###### ARTICULO CUARTO.
+
+Los servicios de salud en materia de Asistencia Social que se presten como servicios públicos a la población en general a nivel estatal o municipal, por las instituciones de seguridad social, y las de carácter social y privado, se seguirán rigiendo por los ordenamientos específicos que le son aplicables y supletoriamente por la presente Ley.
+
+###### ARTICULO QUINTO.
+
+Las relaciones de trabajo existentes entre el organismo "Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León" y sus trabajadores se regirán de acuerdo a lo establecido en la Ley del Servicio Civil del Estado de Nuevo León.
+
+Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
+
+Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital, a los treinta días del mes de noviembre de mil novecientos ochenta y ocho.- PRESIDENTE: DIP. LEONCIO ORTEGA HINOJOSA; DIP. SECRETARIO: ARTURO CANTU GARZA; DIP. SECRETARIO: ANTONIO LOPEZ ROCHA.- RUBRICAS.
+
+Por tanto mando se imprima, publique, circule y se le de el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los seis días del mes de diciembre de mil novecientos ochenta y ocho.
+
+GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+LIC. JORGE A. TREVIÑO
+
+EL C. SECRETARIO GENERAL DE GOBIERNO
+
+LIC. JOSE N. GONZALEZ PARAS
