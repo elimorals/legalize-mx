@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2004-05-20"
+last_updated: "2004-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO PENAL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE JUNIO DE 2004.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -1385,6 +1385,8 @@ Si en el vehículo o embarcación que se incendie no se halla persona alguna, la
 
 PORNOGRAFIA INFANTIL Y DE INCAPACES
 
+> <small>(REFORMADO, B.O. 7 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 152.
 
 Se aplicará de diez a ciento ochenta jornadas de trabajo en favor de la comunidad:
@@ -1481,11 +1483,17 @@ Al que públicamente ejecute o haga ejecutar por otro, exhibiciones obscenas, as
 
 ###### ARTICULO 168.
 
-Al que procure o facilite la corrupción de un menor de dieciocho años de edad o de quien no tuviere la capacidad de comprender el significado del hecho, mediante actos sexuales, o lo induzca a la práctica de la homosexualidad, prostitución, mendicidad, ebriedad o algún otro vicio, a formar parte de una asociación delictuosa o pandilla, o a cometer cualquier delito, se le aplicarán de uno a seis años de prisión y de veinte a doscientos días multa.
+Se aplicará de cuatro a diez años de prisión y de veinte a doscientos días multa al que obligue, procure, facilite, induzca, fomente, propicie, promueva o favorezca la corrupción de un menor de dieciocho años de edad, o de quien no tuviere capacidad para comprender el significado del hecho, mediante acciones u omisiones tendientes o que concluyan en la realización de actos sexuales, conductas depravadas, prácticas de prostitución, mendicidad, consumo irracional y reiterado de bebidas embriagantes o la generación o práctica de algún otro vicio; o que induzcan al pasivo a formar parte de grupos de delincuencia organizada, involucrarse en una asociación delictuosa o pandilla, o a cometer cualquier delito.
 
-Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor o incapaz y debido a ello, éstos adquieran los hábitos del alcoholismo, uso de substancias tóxicas u otras que produzcan efectos similares, se dediquen a la prostitución o a las prácticas homosexuales, o a formar parte de una asociación delictuosa o pandilla, la sanción será de tres a ocho años de prisión y de cincuenta a doscientos cincuenta días multa.
+A quien obligue, procure, facilite, induzca, fomente, propicie, promueva o favorezca el consumo de narcóticos o de sustancias tóxicas por parte de un menor de edad o de quien no tuviere la capacidad de comprender el significado del hecho, se le aplicará la pena de cinco a doce años de prisión y de cuarenta a trescientos días multa.
 
-Si además de los delitos previstos en este Capítulo resultase cometido otro, se aplicarán las reglas relativas al concurso de delitos.
+A quien obligue, utilice, procure, propicie, facilite, induzca, fomente, promueva o favorezca la intervención de un menor de 18 años de edad, o de quien no tuviere capacidad para comprender el significado del hecho, para intentar o llevar a cabo el tráfico de personas que intenten ilegalmente cruzar la frontera internacional del País por el Estado, se le aplicará de seis a doce años de prisión y de cien a quinientos días de multa.
+
+Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor o la misma persona que no tuviere capacidad para comprender el significado del hecho y, debido a ello, éstos adquieran los hábitos del alcoholismo, de adicción a narcóticos, de sustancias tóxicas u otras que produzcan efectos similares, se dediquen a la prostitución o a formar parte de delincuencia organizada, asociación delictuosa o pandilla, la sanción señalada en los párrafos anteriores se aumentará en un tercio de la misma.
+
+Todo sujeto pasivo de este delito quedará sujeto a los tratamientos médicos y psicológicos adecuados para su recuperación, de acuerdo con las medidas que al efecto sean establecidas por el Ministerio Público en cualquier momento de la averiguación previa y que, en su caso, deberán (sic) ratificadas o modificadas por el juez que conozca de la consignación correspondiente. En ambos casos, si se hace necesario, dichas medidas se harán cumplir coercitivamente.
+
+En los términos del artículo 118 del Código de Procedimientos Penales, las autoridades educativas y de seguridad pública del Estado y de los municipios pondrán especial cuidado en formular la denuncia que corresponda a la comisión de los delitos tipificados, por este artículo con los mejores elementos de convicción que tengan a su alcance y, en su caso, procederán a la aprehensión de la persona que se sorprenda realizando alguna o algunas de las conductas delictivas señaladas en los párrafos anteriores, poniéndola de inmediato a disposición del Ministerio Público.
 
 ###### ARTICULO 169.
 
@@ -2939,17 +2947,13 @@ Se aplicará una mitad más de la pena señalada en el párrafo primero, a quien
 
 Cuando el consentimiento, la entrega y recepción del menor o incapaz, se haga con el propósito de incorporarlo a un núcleo familiar y otorgarle los beneficios propios de esa incorporación, las penas a que se refiere éste artículo se reducirán una mitad en su término mínimo y máximo.
 
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
 ###### ARTICULO 301-C.
 
-Si el consentimiento, la entrega y recepción del menor o incapaz se hacen sin la finalidad de obtener un beneficio económico, la pena aplicable será de uno a tres años de prisión.
-
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+(DEROGADO, B.O. 7 DE JUNIO DE 2004)
 
 ###### ARTICULO 301-D.
 
-Si se acredita que el ascendiente que ejerza la patria potestad o a quien tenga a su cargo la custodia del menor o incapaz lo entregó, directamente o por intermediario, sin propósito económico, para incorporarlo a un núcleo familiar y otorgarle los beneficios propios de esa incorporación, la pena se reducirá hasta la cuarta parte de la prevista en el artículo 301-C. La misma pena se aplicará a quienes entreguen o reciban al menor o incapaz en tales circunstancias. En este supuesto cuando el menor o incapaz sea adoptado por quien lo recibió, no se procederá penalmente contra él ni contra sus cómplices.
+(DEROGADO, B.O. 7 DE JUNIO DE 2004)
 
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
@@ -3071,15 +3075,21 @@ Se aplicará la pena prevista en el artículo 305 de este capítulo, al que sin 
 
 Por desmantelamiento se entenderá la acción de desarmar y desbaratar de manera total o parcial la estructura del vehículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 309.
 
-El delito a que se refiere el artículo anterior se sancionará con prisión de tres a doce años:
+El delito a que se refiere el artículo 308 se sancionará con prisión de tres a doce años:
 
-I.- Cuando concurran dos o más elementos típicos de los señalados en el artículo precedente;
+> <small>(REFORMADA, B.O. 7 DE JUNIO DE 2004)</small>
+
+I. Cuando concurran dos o más elementos típicos de los señalados en el artículo 308;
 
 II.- Cuando la conducta delictiva se ejecute utilizando armas de fuego; y
 
-III.- Cuando en el supuesto señalado en la fracción IV, del artículo anterior, el lugar se encontrare habitado al momento de su comisión.
+> <small>(REFORMADA, B.O. 7 DE JUNIO DE 2004)</small>
+
+III. Cuando en el supuesto señalado en la fracción IV del artículo 308 el lugar se encontrare habitado al momento de su comisión.
 
 ###### ARTICULO 310.
 
@@ -3448,3 +3458,9 @@ UNICO.- El presente Decreto entrará al día siguiente de su publicación en el 
 B.O. 20 DE MAYO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 7 DE JUNIO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
