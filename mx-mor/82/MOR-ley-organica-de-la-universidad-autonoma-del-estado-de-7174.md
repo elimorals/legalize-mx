@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-universidad-autonoma-del-estado-de-7174"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1967-11-22"
-last_updated: "1974-01-30"
+last_updated: "1987-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 1987.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 22 de noviembre de 1967.
 
@@ -160,6 +160,10 @@ III.- Un Consejero Profesor Representante de los Profesores de cada Facultad, Es
 > <small>(REFORMADA, P.O. 30 DE ENERO DE 1974)</small>
 
 IV.- Por dos Representantes de los Empleados de la Universidad.
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 1987)</small>
+
+V.- Por dos representantes del Sindicato Independiente de Trabajadores Académicos de la Universidad Autónoma del Estado de Morelos.
 
 ###### ARTICULO 10.
 
@@ -458,3 +462,9 @@ P.O. 30 DE ENERO DE 1974.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Remítase el presente Decreto al Ejecutivo del Estado, para los efectos a que se contrae la Fracción XVII del Artículo 70 de la Constitución Política Local.
+
+P.O. 19 DE AGOSTO DE 1987.
+
+Primero.- Este Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Remítase el presente Decreto al Ejecutivo de la Entidad, para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución Política Local.
