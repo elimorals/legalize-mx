@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-justicia-y-procedimientos-administrativos-del-estado-257
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-17"
-last_updated: "2002-08-17"
+last_updated: "2002-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 17 de agosto de 2002
 
@@ -75,7 +75,7 @@ VI. Las actuaciones serán públicas, salvo que la moral o el interés general e
 
 VII. Serán gratuitos, sin que pueda condenarse al pago de gastos y costas; y
 
-VIII. Las autoridades administrativas, el Tribunal y las partes interesadas se conducirán, en las promociones y actuaciones, con honradez, trasparencia y respeto.
+VIII. Las autoridades administrativas, el Tribunal y las partes interesadas se conducirán, en las promociones y actuaciones, con honradez, trasparencia (sic) y respeto.
 
 ###### Artículo 4o.
 
@@ -2155,19 +2155,27 @@ La prueba testimonial será declarada desierta cuando se acreditare fehacienteme
 
 ## TRANSITORIOS
 
-Primero.- El presente decreto entrará en vigor a los cuarenta y cinco días siguientes al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, con excepción del Título Cuarto del ARTICULO PRIMERO de este decreto, el cual entrará en vigor el primer día del mes de enero del año 2003.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
-El artículo 71 a que se refiere el ARTICULO PRIMERO del presente decreto, iniciará su vigencia el primero de enero del año 2003, a fin de que tanto el Poder Ejecutivo del estado como los Ayuntamientos expidan, antes de esta fecha, sus correspondientes reglamentos para el cobro y aplicación de gastos de ejecución, de conformidad con lo establecido en dicho artículo.
+Primero.- El presente decreto entrará en vigor a los cuarenta y cinco días siguientes al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, con excepción del Título Cuarto del ARTICULO PRIMERO de este decreto, el cual entrará en vigor el tres de marzo del año 2003.
 
-Segundo.- El Gobernador dentro de los quince días siguientes a la entrada en vigor del presente decreto, en los términos a que se hace referencia el artículo 135 de la Ley de Justicia y Procedimientos Administrativos, someterá a la consideración del Congreso la lista de candidatos a magistrados, a fin de que el Congreso proceda a su designación.
+El artículo 71 a que se refiere el ARTICULO PRIMERO del presente decreto, iniciará su vigencia el tres de marzo del año 2003, a fin de que tanto el Poder Ejecutivo del estado como los Ayuntamientos expidan, antes de esta fecha, sus correspondientes reglamentos para el cobro y aplicación de gastos de ejecución, de conformidad con lo establecido en dicho artículo.
 
-Tercero.- Los magistrados del Tribunal de Justicia Administrativa del Estado de Nayarit a más tardar el día quince del mes de noviembre del año 2002 preverán lo conducente a efecto de elegir a su presidente; preparar el proyecto de presupuesto que habrán de remitir al titular del Poder Ejecutivo para su inclusión en el Presupuesto de Egresos del Estado; elaborar y aprobar su reglamento interior; convocar a los procesos de selección y contratación del demás personal; aprobar el calendario laboral del Tribunal y, prevenir todo lo conducente para el inicio de su funcionamiento.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
-En todo caso, la primera sesión de la sala del Tribunal de Justicia Administrativa del estado de Nayarit se llevará a cabo el día dos de enero del año 2003, en la cual se habrán de ratificar sus acuerdos previos.
+Segundo.- El Gobernador dentro de los primeros diez días del mes de noviembre siguientes a la entrada en vigor del presente decreto, en los términos a que se hace referencia el artículo 135 de la Ley de Justicia y Procedimientos Administrativos, someterá a la consideración del Congreso la lista de candidatos a magistrados, a fin de que el Congreso proceda a su designación.
 
-El Reglamento Interior y el calendario laboral del Tribunal de Justicia Administrativa del Estado de Nayarit, una vez aprobados por los magistrados, deberán publicarse debiendo iniciar su vigencia el día primero (sic) del año 2003.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
-Cuarto.- El Gobernador del Estado por conducto de la Secretaría de Finanzas proverá lo necesario en cuanto a recursos financieros y materiales para el inicio del funcionamiento del Tribunal de Justicia Administrativa del Estado de Nayarit, en tanto se integra el presupuesto de éste, en el Presupuesto de Egresos del Estado.
+Tercero.- Los magistrados del Tribunal de Justicia Administrativa del Estado de Nayarit a más tardar el día quince del mes de febrero del año 2003 preverán lo conducente a efecto de elegir a su presidente; elaborar y aprobar su reglamento interior; convocar a los procesos de selección y contratación del demás personal; aprobar el calendario laboral del Tribunal y, prevenir todo lo conducente para el inicio de su funcionamiento.
+
+En todo caso, la primera sesión de la sala del Tribunal de Justicia Administrativa del estado de Nayarit se llevará a cabo el día tres de marzo del año 2003, en la cual se habrán de ratificar sus acuerdos previos.
+
+El Reglamento Interior y el calendario laboral del Tribunal de Justicia Administrativa del Estado de Nayarit, una vez aprobados por los magistrados, deberán publicarse debiendo iniciar su vigencia el día tres de marzo del año 2003.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+Cuarto.- El Gobernador del Estado y el Congreso del Estado preverán lo conducente a efecto de incluir dentro del presupuesto de egresos del año 2003 las partidas suficientes que garanticen el adecuado funcionamiento del Tribal de Justicia Administrativa del Estado de Nayarit a partir de la fecha en que este mismo decreto se señalan
 
 Quinto.- Los procedimientos y recursos administrativos que se encuentren en trámite al entrar en vigor esta resolución, se substanciarán de conformidad a las disposiciones legales anteriores al mismo.
 
@@ -2195,8 +2203,14 @@ Secretario.
 
 Dip. Carlos E. García Cambero
 
-Y en cumplimiento de lo dispuesto de la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los quince días del mes de agosto del año dos mil dos.
+Y en cumplimiento de lo dispuesto de la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic, su capital, a los quince días del mes de agosto del año dos mil dos.
 
 El Secretario General de Gobierno
 
 Lic. Adán Meza Barajas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE SEPTIEMBRE DE 2002
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
