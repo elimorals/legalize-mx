@@ -4,7 +4,7 @@ identifier: "CMX-codigo-financiero-del-distrito-federal-639"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-31"
-last_updated: "1998-12-31"
+last_updated: "1999-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=639&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1994-12-30"
 
 CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE MAYO DE 1999.
 
 Código publicado en la Segunda, Tercera y Cuarta Secciones del Diario Oficial de la Federación el sábado 31 de diciembre de 1994.
 
@@ -1678,7 +1678,7 @@ IV. El plazo para el pago que será de quince días, salvo que este Código esta
 
 Sólo se podrá practicar embargo precautorio para asegurar el interés fiscal cuando el crédito fiscal sea determinado o sea exigible en los términos de este Código, cuando a juicio fundado y motivado de la autoridad hubiera peligro de que el obligado se ausente, enajene u oculte sus bienes, o realice cualquier maniobra tendiente a evadir el cumplimiento de su obligación fiscal. Si el pago se hiciere dentro de los plazos legales, el contribuyente no estará obligado a cubrir los gastos que origine la diligencia y se levantará el embargo.
 
-> <small>(DEROGADOS SEGUNDO Y TERCERO PARRAFOS, D.O.F. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(DEROGADOS SEGUNDO Y TERCERO PARRAFOS, G.O. 31 DE DICIEMBRE DE 1997)</small>
 
 Son aplicables al embargo precautorio a que este artículo se refiere y al previsto por el artículo 81, fracción II, las disposiciones establecidas para el embargo y para la intervención en el procedimiento administrativo de ejecución que, conforme a su naturaleza, le sean aplicables.
 
@@ -7892,7 +7892,9 @@ Los procesos por los delitos fiscales a que se refiere este Título, con excepci
 
 En los delitos fiscales en que sea necesaria la querella, la autoridad fiscal hará la determinación del daño o perjuicio en la propia querella.
 
-La autoridad judicial fijará el monto de la caución, y sólo otorgará la libertad provisional, cuando el procesado garantice el interés fiscal por el monto que la autoridad fiscal haya determinado en la propia querella más los accesorios que se hubieren generado hasta el momento en que se otorgue la mencionada garantía.
+> <small>(REFORMADO, G.O. 20 DE MAYO DE 1999)</small>
+
+Para todos los efectos legales, se clasifican como graves los delitos previstos en los artículos 531 A, 531 B, 531 C y 531 D de este Código. En los demás delitos fiscales, la autoridad judicial fijará el monto de la caución, y sólo otorgará la libertad provisional, cuando el procesado garantice el interés fiscal por el monto que la autoridad fiscal haya determinado en la propia querella más los accesorios que se hubiesen generado hasta el momento en que se otorgue la mencionada garantía.
 
 ###### ARTICULO 520.
 
@@ -7922,7 +7924,9 @@ Se impondrá sanción de tres meses a seis años de prisión al servidor públic
 
 I. Ordene o efectúe el asiento de datos falsos en la contabilidad gubernamental de la dependencia, entidad u órgano desconcentrado, en el que preste sus servicios;
 
-II. Omita registrar, en los términos de las disposiciones aplicables, las operaciones y registros en la contabilidad gubernamental de la dependencia, entidad u órgano desconcentrado, en el que preste sus servicios o mediante maniobras alteren los registros para ocultar la verdadera naturaleza de las operaciones realizadas, afectando la composición de activos, pasivos, cuentas contingentes o resultados;
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 1999)</small>
+
+II. Omita registrar, en los términos de las disposiciones aplicables, las operaciones y registros en la contabilidad gubernamental de la dependencia, entidad u órgano desconcentrado, en el que preste sus servicios o mediante maniobras altere o elimine los registros para ocultar la verdadera naturaleza de las operaciones realizadas, afectando la composición de activos, pasivos, cuentas contingentes, resultados o base de datos fiscales;
 
 III. Falsifique, altere, simule o, a sabiendas, realice operaciones, actos, contratos u otras actividades que resulten en quebranto al patrimonio del Distrito Federal o de las entidades, y
 
@@ -7932,11 +7936,11 @@ IV. Ordene o practique visitas domiciliarias, requerimientos de pagos o embargos
 
 ###### ARTICULO 526.
 
-Comete el delito de defraudación fiscal quien mediante el uso de engaños o aprovechamiento doloso de errores, omita total o parcialmente el pago de alguna contribución prevista en este Código y obtenga un beneficio indebido en perjuicio del Distrito Federal.
+Comete el delito de defraudación fiscal quien mediante el uso de engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución prevista en este Código u obtenga un beneficio indebido en perjuicio del Distrito Federal.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, G.O. 20 DE MAYO DE 1999)</small>
 
-El delito previsto en este artículo se sancionará, si el monto de lo defraudado no excede de $ 37,840.00, con prisión de tres meses a un año; si el monto de lo defraudado excede del último monto señalado, pero sea inferior a $ 75,679.00, con prisión de seis meses a dos años y cuando exceda de este último monto, la pena será de uno a seis años de prisión.
+El delito previsto en este artículo se sancionará con prisión de tres meses a dos años si el monto de lo defraudado no excede de mil veces el salario mínimo general diario vigente en el Distrito Federal; si el monto de lo defraudado excede la cantidad anterior, pero no de dos mil veces dicho salario, la sanción será de dos a cinco años de prisión; y si el valor de lo defraudado fuere mayor de esta última cantidad, la sanción será de cinco a nueve años de prisión.
 
 Para los efectos de este artículo se tomará en cuenta el monto de las contribuciones defraudadas en un mismo año de calendario, aun cuando sean diferentes y se trate de diversas acciones u omisiones.
 
@@ -7950,6 +7954,14 @@ II. Omita enterar a las autoridades fiscales, dentro del plazo que este Código 
 
 III. Se aproveche de algún beneficio otorgado por las autoridades del Distrito Federal, sin tener derecho a ello.
 
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 1999)</small>
+
+IV. Tenga en su poder sin haberlos adquirido legalmente, marbetes, calcomanías, formas fiscales con sellos o marcas oficiales, máquinas registradoras de operación de caja, aparatos de control, marcas o sello fiscales, que usa la Secretaría, o los enajene directa o indirectamente sin estar autorizado para ello, y
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 1999)</small>
+
+V. Reciba subsidios y les dé un uso o aplicación diferente a los fines para los cuales se otorgaron.
+
 ###### ARTICULO 528.
 
 Cometen el delito de defraudación fiscal en materia de contribuciones relacionadas con inmuebles, quienes dolosamente:
@@ -7960,9 +7972,9 @@ II. Omitan total o parcialmente el pago del impuesto predial;
 
 III. Omitan total o parcialmente el pago del impuesto predial, como consecuencia de la omisión o inexactitud en cuanto a las características físicas de los inmuebles de su propiedad, el destino o uso de los mismos, así como el otorgamiento del uso o goce de dichos bienes a terceros.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, G.O. 20 DE MAYO DE 1999)</small>
 
-Los delitos previstos en este artículo se sancionará, si el monto de lo defraudado no excede de $37,840.00, con prisión de tres meses a un año; si el monto de lo defraudado excede del último monto señalado, pero sea inferior a $ 75,679.00, con prisión de seis meses a dos años y cuando exceda de este último monto, la pena será de uno a seis años de prisión.
+Los delitos previstos en este artículo se sancionarán con prisión de tres meses a dos años si el monto de lo defraudado no excede de mil veces el salario mínimo general diario vigente en el Distrito Federal; si el monto de lo defraudado excede de la cantidad anterior, pero no de dos mil veces dicho salario, la sanción será de dos a cinco años de prisión; y si el valor de lo defraudado fuere mayor de esta última cantidad, la sanción será de cinco a nueve años de prisión.
 
 Las sanciones previstas en este artículo, sólo se aplicarán a los propietarios o poseedores de inmuebles de uso habitacional, cuando hayan omitido total o parcialmente el pago de las contribuciones a su cargo durante un lapso mayor de un año.
 
@@ -7988,11 +8000,13 @@ VI. Obtengan una toma de agua encontrándose suspendido el suministro, en los t�
 
 VII. Comercien sin contar con la autorización respectiva, con el agua provista por la autoridad competente, para usos no comerciales.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, G.O. 20 DE MAYO DE 1999)</small>
 
-Los delitos previstos en este artículo se sancionarán, si el monto de lo defraudado no excede de $ 37,840.00, con prisión de tres meses a un año; si el monto de lo defraudado excede del último monto señalado, pero sea inferior a $ 75,684.00, con prisión de seis meses a dos años y cuando exceda de este último monto, la pena será de uno a seis años de prisión.
+Los delitos previstos en este artículo se sancionarán con prisión de tres meses a dos años si el monto de lo defraudado no excede de mil veces el salario mínimo general diario vigente en el Distrito Federal; si el monto de lo defraudado excede la cantidad anterior, pero no de dos mil veces dicho salario, la sanción será de dos a cinco años de prisión; y si el valor de lo defraudado fuere mayor de esta última cantidad, la sanción será de cinco a nueve años de prisión.
 
-Tratándose de los supuestos previstos en las fracciones I, V, VI y VII de este artículo, se impondrá una sanción hasta de seis años de prisión, siempre que no se pueda cuantificar el monto de lo defraudado.
+> <small>(REFORMADO, G.O. 20 DE MAYO DE 1999)</small>
+
+Tratándose de los supuestos previstos en las fracciones I, V, VI y VII de este artículo, se impondrá una sanción hasta de nueve años de prisión, siempre que no se pueda cuantificar el monto de lo defraudado.
 
 Las sanciones previstas en este artículo, sólo se aplicarán a los usuarios del agua potable de uso doméstico, cuando hayan omitido total o parcialmente el pago de las contribuciones a su cargo durante un lapso mayor de un año.
 
@@ -8008,9 +8022,11 @@ III. Desocupe el lugar donde se hubiera iniciado un procedimiento de comprobaci�
 
 ###### ARTICULO 531.
 
-Se impondrá sanción de tres meses a seis años de prisión al depositario o interventor designado por las autoridades fiscales del Distrito Federal que, con perjuicio del fisco del Distrito Federal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubiesen constituido, si el valor de lo dispuesto no excede de $ 75,679.00, cuando exceda, la sanción será de tres a nueve años de prisión.
+Se impondrá sanción de uno a seis años de prisión al depositario o interventor designado por las autoridades fiscales del Distrito Federal que, con perjuicio del fisco del Distrito Federal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubiesen constituido, si el valor de lo dispuesto no excede de dos mil veces el salario mínimo general diario vigente en el Distrito Federal; cuando exceda, la sanción será de tres a nueve años de prisión.
 
 Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 20 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 532.
 
@@ -8406,6 +8422,8 @@ Si la resolución ordena realizar un determinado acto o iniciar la reposición d
 
 ### CAPITULO III. De la Defraudación Fiscal
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE MAYO DE 1999)</small>
+
 ### CAPITULO IV. De los Delitos Relacionados con Inmuebles
 
 ### CAPITULO V. De los Delitos Relacionados con el Suministro de Agua Potable
@@ -8414,37 +8432,71 @@ Si la resolución ordena realizar un determinado acto o iniciar la reposición d
 
 ### CAPITULO VII. De los Delitos Cometidos por Depositarios e Interventores
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE MAYO DE 1999)</small>
+
+### CAPITULO VIII. De los delitos de falsificación en materia fiscal
+
+> <small>(ADICIONADO, G.O. 20 DE MAYO DE 1999)</small>
+
+ARTICULO 531 A.- Se impondrá de uno a nueve años de prisión:
+
+I. Al que falsifique matrices, punzones, dados, clichés o negativos, que usa la Secretaría; o los utilice para imprimir, grabar o troquelar calcomanías, formas valoradas o numeradas, placas o tarjetones;
+
+II. Al que falsifique calcomanías, formas valoradas o numeradas, placas, tarjetones, órdenes de cobro o recibos de pago que usa la Secretaría;
+
+III. Al que altere en su valor, en el año de emisión, en el resello, leyenda, tipo a las calcomanías, permisos, autorizaciones, formas valoradas o numeradas, placas, tarjetones emitidos conforme a este Código; y,
+
+IV. Al que utilice máquinas registradoras de operación de caja, aparatos de control, marcas o sellos fiscales, de uso por la Secretaría, para imprimir o asentar como ciertos hechos o actos falsos en documentos.
+
+> <small>(ADICIONADO, G.O. 20 DE MAYO DE 1999)</small>
+
+ARTICULO 531 B.- Se impondrá sanción de uno a seis años de prisión:
+
+I. Al que a sabiendas de que una forma valorada o numerada, calcomanía, orden de cobro, recibo de pago, placa, tarjetón o cualquier otro medio de control fiscal fue falsificado, lo posea, venda, ponga en circulación, en su caso, lo adhiera en documentos, objetos o libros, para ostentar el pago de alguna obligación fiscal prevista en este Código;
+
+II. Al que para pagar o acreditar el pago de alguna obligación fiscal prevista en este Código, utilice una forma valorada o numerada, calcomanía, orden de cobro, recibo de pago, una placa, tarjetón o cualquier otro medio de control fiscal, a sabiendas de que fue manufacturado con fragmentos, datos o recortes de otros o que sean falsos;
+
+III. Al que manufacture, venda, ponga en circulación o en alguna otra forma comercie con los objetos descritos en la fracción anterior; y
+
+IV. Al que dolosamente altere o destruya las máquinas registradoras de operación de caja, aparatos de control, marcas o sellos fiscales, que usa la Secretaría.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 20 DE MAYO DE 1999)</small>
+
+### CAPITULO IX. De los delitos de asociación delictuosa en materia fiscal
+
+> <small>(ADICIONADO, G.O. 20 DE MAYO DE 1999)</small>
+
+ARTICULO 531 C.- A quienes en forma concertada preparen, inicien o ejecuten actividades contrarias a los servicios de tesorería a que se refiere este Código, que produzcan un daño o perjuicio a la Hacienda Pública del Distrito Federal, se les impondrá sanción de uno a ocho años de prisión.
+
+> <small>(ADICIONADO, G.O. 20 DE MAYO DE 1999)</small>
+
+ARTICULO 531 D.- Al que forme parte de una asociación o banda de tres o más personas, con el propósito de realizar actividades ilícitas que causen daño o perjuicio a la Hacienda Pública del Distrito Federal, se les impondrá una sanción de tres a nueve años de prisión.
 
 ### CAPITULO I. Consideraciones Generales
-
-### CAPITULO II. De las Formalidades de los Escritos
-
-### CAPITULO III. De las Notificaciones
 
 # LIBRO SEXTO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
 ## TITULO SEGUNDO. De los Recursos Administrativos
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. De las Formalidades de los Escritos
 
 ## TITULO PRELIMINAR
 
+### CAPITULO III. De las Notificaciones
+
+### CAPITULO I. Disposiciones Generales
+
 ### CAPITULO II. Del Recurso de Revocación
+
+## TITULO PRIMERO. DEL PRESUPUESTO DE INGRESOS
 
 ### CAPITULO III. Del Recurso de Oposición al Procedimiento Administrativo de Ejecución
 
 ### CAPITULO IV. Del Recurso de Oposición de Tercero
 
-## TITULO PRIMERO. DEL PRESUPUESTO DE INGRESOS
-
 ### CAPITULO V. De la Impugnación de Notificaciones
 
 ### CAPITULO VI. De la Substanciación del Procedimiento
-
-### CAPITULO UNICO. Disposiciones de Carácter General
-
-### CAPITULO I. Disposiciones Generales
 
 ## TRANSITORIOS
 
@@ -8614,11 +8666,15 @@ CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
 ## TITULO SEGUNDO. DE LOS ELEMENTOS GENERALES DE TRIBUTACION
 
-### CAPITULO II. De la Preparación y Elaboración del Presupuesto de Ingresos
+### CAPITULO UNICO. Disposiciones de Carácter General
 
 # LIBRO PRIMERO. DE LOS INGRESOS
 
 ## TITULO TERCERO. DE LOS INGRESOS TRIBUTARIOS
+
+### CAPITULO I. Disposiciones Generales
+
+### CAPITULO II. De la Preparación y Elaboración del Presupuesto de Ingresos
 
 ### CAPITULO III. De la iniciativa de Ley de Ingresos del Distrito Federal
 
@@ -8626,11 +8682,11 @@ CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
 ### CAPITULO V. Del Control y Evaluación de los Ingresos
 
+## TITULO CUARTO. DE LOS INGRESOS NO TRIBUTARIOS
+
 ### CAPITULO I. Disposiciones Generales
 
 ### CAPITULO II. Del Nacimiento, Determinación, Garantía y Extinción de los Créditos Fiscales
-
-## TITULO CUARTO. DE LOS INGRESOS NO TRIBUTARIOS
 
 ### CAPITULO III. De los Derechos y Obligaciones de los Contribuyentes
 
@@ -8638,11 +8694,11 @@ CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
 ### CAPITULO V. Del Procedimiento Administrativo de Ejecución
 
+## TITULO PRIMERO. DE LA PRESTACION DE LOS SERVICIOS
+
 ### CAPITULO I. Del Impuesto Predial
 
 ### CAPITULO II. Del Impuesto Sobre Adquisición de Inmuebles
-
-## TITULO PRIMERO. DE LA PRESTACION DE LOS SERVICIOS
 
 ### CAPITULO III. Del Impuesto Sobre Espectáculos Públicos
 
@@ -8657,10 +8713,6 @@ CODIGO FINANCIERO DEL DISTRITO FEDERAL
 ### CAPITULO VIII. De las Contribuciones de Mejoras
 
 ### CAPITULO IX. De los Derechos por la Prestación de Servicios
-
-### CAPITULO X. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público
-
-### CAPITULO I. De Los Aprovechamientos
 
 #### Sección Quinta. Del Registro Público de la Propiedad o del Comercio y del Archivo General de Notarías
 
@@ -8698,7 +8750,7 @@ Delegacional
 
 #### Sección Cuarta. Derechos de Descarga a la Red de Drenaje
 
-### CAPITULO II. De Los Productos
+### CAPITULO X. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público
 
 #### Sección Primera. De la Recepción y Concentración de Fondos y Valores
 
@@ -8710,31 +8762,35 @@ Delegacional
 
 ## TITULO SEGUNDO. DE LA ADMINISTRACION DE FONDOS Y DE LOS PAGOS
 
+### CAPITULO I. De Los Aprovechamientos
+
+### CAPITULO II. De Los Productos
+
 ### CAPITULO III. De los Recursos Crediticios
 
 ### CAPITULO IV. De los Ingresos Derivados de la Coordinación Fiscal
 
 ### CAPITULO V. De los otros Ingresos
 
-### CAPITULO I. Disposiciones Generales
-
-### CAPITULO II. De la Recaudación
-
 # LIBRO SEGUNDO. DE LOS SERVICIOS DE TESORERIA
 
 ## TITULO TERCERO. DE LA PRESCRIPCION
 
-### CAPITULO III. De la Custodia y Administración de Bienes Embargados
+### CAPITULO I. Disposiciones Generales
 
-### CAPITULO I. De la Ministración de Fondos
+### CAPITULO II. De la Recaudación
 
 #### Sección Tercera. De los Proyectos de la Asamblea, Tribunal, Comisión y Consejos de Ciudadanos
 
 #### Sección Primera. Del Ejercicio Presupuestal de las Dependencias y Organos Desconcentrados
 
-### CAPITULO II. De los Pagos en General
+### CAPITULO III. De la Custodia y Administración de Bienes Embargados
 
 ## TITULO CUARTO. DE LAS GARANTIAS A FAVOR DEL GOBIERNO DEL DISTRITO FEDERAL, DISTINTAS DE AQUELLAS DESTINADAS A GARANTIZAR CREDITOS FISCALES
+
+### CAPITULO I. De la Ministración de Fondos
+
+### CAPITULO II. De los Pagos en General
 
 ### CAPITULO III. Del Pago de Remuneraciones
 
@@ -8748,45 +8804,45 @@ Delegacional
 
 ### CAPITULO VIII. De los Pagos por Conceptos Ajenos al Presupuesto
 
+## TITULO PRIMERO. DE LA PROGRAMACION
+
 ### CAPITULO UNICO. De la Prescripción de los Créditos a Cargo del Distrito Federal
+
+## TITULO SEGUNDO. DEL PRESUPUESTO DE EGRESOS
 
 ### CAPITULO I. De las Garantías del Cumplimiento de Obligaciones
 
-## TITULO PRIMERO. DE LA PROGRAMACION
-
 ### CAPITULO II. De la Calificación, Aceptación, Registro y Guarda de las Garantías
-
-## TITULO SEGUNDO. DEL PRESUPUESTO DE EGRESOS
 
 ### CAPITULO III. De la Cancelación y Devolución de las Garantías
 
 ### CAPITULO IV. De la Efectividad y Aplicación de las Garantías
 
+# LIBRO TERCERO. DE LA PROGRAMACION Y EL PRESUPUESTO DE EGRESOS
+
+## TITULO TERCERO. DE LA EJECUCION DEL PRESUPUESTO DE EGRESOS
+
 ### CAPITULO I. Del Programa Operativo de la Administración Pública del Distrito Federal
 
 ### CAPITULO II. De los Aspectos Generales de los Programas
 
-# LIBRO TERCERO. DE LA PROGRAMACION Y EL PRESUPUESTO DE EGRESOS
-
-## TITULO TERCERO. DE LA EJECUCION DEL PRESUPUESTO DE EGRESOS
+## TITULO UNICO. DE LA CONTABILIDAD
 
 ### CAPITULO I. Disposiciones Generales
 
 ### CAPITULO II. De la Preparación y Elaboración del Proyecto de Presupuesto
 
-## TITULO UNICO. DE LA CONTABILIDAD
-
-### CAPITULO III. De la Iniciativa de Decreto de Presupuesto de Egresos
-
-### CAPITULO I. Disposiciones Generales
-
 #### Sección Segunda. Del Ejercicio Presupuestal de las Entidades
 
 #### Sección Tercera. Del Ejercicio Presupuestal de la Asamblea, Tribunal, Comisión y Consejos de Ciudadanos
 
-### CAPITULO II. Del Ejercicio del Gasto Público
+### CAPITULO III. De la Iniciativa de Decreto de Presupuesto de Egresos
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPITULO I. Disposiciones Generales
+
+### CAPITULO II. Del Ejercicio del Gasto Público
 
 ### CAPITULO III. De los Subsidios y Ayudas con Cargo al Presupuesto de Egresos
 
@@ -8796,21 +8852,17 @@ Delegacional
 
 ### CAPITULO VI. De la Evaluación del Gasto Público
 
-### CAPITULO I. Disposiciones Generales
-
-### CAPITULO II. De la Contabilidad de Fondos y Valores del Distrito Federal
-
 # LIBRO CUARTO. DEL SISTEMA DE CONTABILIDAD GUBERNAMENTAL
 
 ## TITULO SEGUNDO. DE LAS RESPONSABILIDADES RESARCITORIAS
 
+### CAPITULO I. Disposiciones Generales
+
+### CAPITULO II. De la Contabilidad de Fondos y Valores del Distrito Federal
+
 ### CAPITULO III. De los Catálogos de Cuentas y de la Contabilización de las Operaciones
 
 ### CAPITULO IV. De la Información y la Formulación de la Cuenta Pública del Distrito Federal
-
-### CAPITULO I. De las Infracciones y Sanciones Relacionadas con los Padrones de Contribuyentes
-
-### CAPITULO II. De las Infracciones y Sanciones Relacionadas con la Presentación de Declaraciones e Informes en General
 
 # LIBRO QUINTO. DE LAS INFRACCIONES Y SANCIONES, RESPONSABILIDADES RESARCITORIAS Y DELITOS EN MATERIA DE HACIENDA PUBLICA
 
@@ -8819,6 +8871,10 @@ Delegacional
 ## TITULO CUARTO. DE LOS DELITOS
 
 ## TITULO PRIMERO. DEL PROCEDIMIENTO ADMINISTRATIVO
+
+### CAPITULO I. De las Infracciones y Sanciones Relacionadas con los Padrones de Contribuyentes
+
+### CAPITULO II. De las Infracciones y Sanciones Relacionadas con la Presentación de Declaraciones e Informes en General
 
 ### CAPITULO III. De las Infracciones y Sanciones Relacionadas con el Pago de Contribuyentes
 
@@ -8830,11 +8886,11 @@ Delegacional
 
 ### CAPITULO VII. Del Destino de las Sanciones Fiscales
 
+## TITULO SEGUNDO. DE LOS RECURSOS ADMINISTRATIVOS
+
 ### CAPITULO I. Disposiciones Generales
 
 ### CAPITULO II. De los Delitos Cometidos por Servidores Públicos
-
-## TITULO SEGUNDO. DE LOS RECURSOS ADMINISTRATIVOS
 
 ### CAPITULO III. De la Defraudación Fiscal
 
@@ -8846,11 +8902,11 @@ Delegacional
 
 ### CAPITULO VII. De los Delitos Cometidos por Depositarios e interventores
 
+# LIBRO SEXTO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
+
 ### CAPITULO I. Consideraciones Generales
 
 ### CAPITULO II. De las Formalidades de los Escritos
-
-# LIBRO SEXTO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
 ### CAPITULO III. De las Notificaciones
 
@@ -10161,3 +10217,9 @@ A los contribuyentes de derechos por suministro de agua en sistema medido, de us
 ###### ARTICULO OCTAVO.
 
 Las autoridades fiscales modificarán durante los 12 meses siguientes a la fecha de inicio de la vigencia del presente Decreto, la fecha de pago de los derechos por suministro de agua, conforme a lo previsto en el artículo 198, párrafo primero, de este Código; en tanto no notifique el cambio de fecha de pago, las autoridades fiscales seguirán enviando boletas o propuestas de determinación de derechos por periodos bimestrales naturales a partir del mes de enero y la fecha límite de pago será el último día del mes siguiente a cada bimestre.
+
+G.O. 20 DE MAYO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal.
