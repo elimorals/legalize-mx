@@ -4,7 +4,7 @@ identifier: "CAM-ley-ganadera-apicola-y-avicola-del-estado-de-campeche-3551"
 country: "mx"
 rank: "ley"
 publication_date: "1982-05-24"
-last_updated: "1982-05-24"
+last_updated: "1997-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY GANADERA, APICOLA Y AVICOLA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR LOS ARTICULOS SEGUNDO Y TERCERO TRANSITORIOS DE LA LEY GANADERA DEL ESTADO DE CAMPECHE SE ABROGA LA PRESENTE LEY, Y EN TANTO NO SE EXPIDA UNA NUEVA LEY EN MATERIAS APICOLA Y AVICOLA, CONTINUARAN APLICANDOSE EN ESAS MATERIAS, EN LO QUE NO SE OPONGAN A DICHO ORDENAMIENTO, LAS DISPOSICIONES RELATIVAS DE LA LEY QUE SE ABROGA.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 1997.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el lunes 24 de mayo de 1982.
 
@@ -1732,3 +1734,13 @@ Dado en el Palacio del Poder Legislativo del Estado, en Campeche, a los veintiú
 Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado, en Campeche, a los veintiún días del mes de mayo del año de mil novecientos ochenta y dos.- El Gobernador Constitucional del Estado, ING. EUGENIO ECHEVERRIA CASTELLOT.- El Secretario de Gobierno, LIC. PABLO GONZALEZ LASTRA.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 1997.
+
+PRIMERO.- LA PRESENTE LEY ENTRARÁ EN VIGOR EL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+SEGUNDO.- SE ABROGA LA LEY GANADERA, APÍCOLA Y AVÍCOLA DEL ESTADO DE CAMPECHE, EXPEDIDA BAJO DECRETO NÚMERO 125, DE FECHA 21 DE MAYO DE 1982, POR LA "L" LEGISLATURA DE ESTE CONGRESO DEL ESTADO.
+
+TERCERO.- EN TANTO NO SE EXPIDA UNA NUEVA LEY EN MATERIAS APÍCOLA Y AVÍCOLA, CONTINUARAN APLICÁNDOSE EN ESAS MATERIAS, EN LO QUE NO SE OPONGAN A ESTA LEY, LAS DISPOSICIONES RELATIVAS DE LA LEY QUE SE ABROGA.
