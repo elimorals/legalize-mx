@@ -4,7 +4,7 @@ identifier: "QUE-codigo-fiscal-del-estado-de-queretaro-7564"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-31"
-last_updated: "1994-12-29"
+last_updated: "1995-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO FISCAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EL PERIODICO OFICIAL: EL 29 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1995.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 31 de diciembre de 1987.
 
@@ -131,7 +131,7 @@ A falta de disposición expresa en las leyes fiscales y siempre que no se contra
 
 ###### ARTICULO 15.
 
-La ignorancia de las leyes, reglamentos y demás disposiciones de observancia general no eximen de su cumplimiento; sin embargo, las autoridades fiscales, en aquellos casos en que se trate de personas que se encuentren en virtual ignorancia o en precaria situación económica, podrán conceder a los interesados un plazo de gracia para el cumplimiento de las leyes y disposiciones relativas, así como para eximirlos de las sanciones en que hubieren incurrido por las infracciones cometidas
+La ignorancia de las leyes, reglamentos y demás disposiciones de observancia general no eximen de su cumplimiento; sin embargo, las autoridades fiscales, en aquellos casos en que se trate de personas que se encuentren en virtual ignorancia o en precaria situación económica, podrán conceder a los interesados un plazo de gracia para el cumplimiento de las leyes y disposiciones relativas, así como para eximirlos de las sanciones en que hubieren incurrido por las infracciones cometidas.
 
 ###### ARTICULO 16.
 
@@ -303,6 +303,10 @@ Para los efectos de este artículo, se entenderá por actividad empresarial lo s
 
 6.- Las silvícolas, que son las de cultivo de bosques o montes, así como la cría, conservación, restauración, fomento y aprovechamiento de la vegetación de los mismos y la primera enajenación de sus productos, que no hayan sido objeto de transformación industrial.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+Se considerará empresa la persona física o moral que realice las actividades a que se refiere este artículo y por establecimiento se entenderá cualquier lugar de negocios en el que se desarrollen, parcial o totalmente, las citadas actividades empresariales.
+
 II.- En el caso de personas morales y unidades económicas similares a éstas:
 
 A).- El lugar en que esté establecida la administración principal del negocio.
@@ -377,15 +381,19 @@ Cuando la situación económica de los contribuyentes sea insuficiente para cubr
 
 Sólo podrá concederse prórroga para el pago de créditos fiscales, cuando con la misma no se comprometa su percepción y se garantice debidamente el interés fiscal en los términos del presente Código y a juicio de la Secretaría de Finanzas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 36.
 
-Sólo por acuerdo del Gobernador del Estado y del Secretario de Finanzas, en su caso, podrá concederse prórroga para el pago de créditos fiscales de acuerdo con las siguientes bases:
+Sólo por acuerdo del Gobernador del Estado y/o del Secretario de Planeación y Finanzas, en su caso, podrá concederse prórroga para el pago de créditos fiscales, de acuerdo con las siguientes bases:
 
 I.- Cuando se trate de créditos fiscales derivados de uno o varios gravámenes cuyo monto total sea hasta de 600 veces el salario mínimo general vigente en la zona económica podrá resolver sobre la prórroga el Secretario de Finanzas.
 
 II.- Cuando se trate de créditos fiscales derivados de gravámenes cuyo monto total exceda de 600 veces el salario mínimo deberá resolver sobre la prórroga el Gobernador del Estado.
 
-III.- La prórroga no deberá exceder de un año, pero si a juicio del Gobernador del Estado se trata de créditos fiscales cuantiosos o situaciones excepcionales, éste podrá ampliar el plazo hasta por un año, más fijando el monto y la clase de garantía que deberá otorgar el deudor de la prestación fiscal.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+III.- La prórroga no deberá exceder de tres años, pero si a juicio del Gobernador y/o Secretario de Planeación y Finanzas se trata de créditos fiscales cuantiosos o situaciones excepcionales, éste podrá ampliar el plazo hasta por un año más, fijando el monto y la clase de garantía que deberá otorgar el deudor de la prestación fiscal.
 
 IV.- Cuando se conceda una prórroga, será previo el aseguramiento del interés fiscal.
 
@@ -464,6 +472,18 @@ III,- Que la acción para reclamar la devolución no haya prescrito en los térm
 IV.- Que si se trata de ingresos correspondientes a ejercicios fiscales anteriores, exista partida que reporte la erogación en el presupuesto de egresos y saldo disponible.
 
 V.- Que se dicte acuerdo escrito del Gobernador del Estado o en su caso del Secretario de Finanzas cuando no exceda de la cantidad de 150 veces el salario mínimo vigente en la zona o cuando exista sentencia ejecutoriada de autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+Cuando se solicite la devolución, y se obtenga resolución favorable a los intereses del particular, aquélla deberá efectuarse dentro del plazo de cincuenta días naturales siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal competente.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+Si la devolución no se efectuare dentro del plazo citado en el párrafo anterior, las autoridades fiscales pagarán intereses que se calcularán a partir del día siguiente al del vencimiento de dicho plazo, conforme a una tasa que será igual a la prevista para los recargos por mora, que se aplicará sobre la devolución actualizada.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+Cuando el fisco estatal deba pagar intereses a los contribuyentes sobre las cantidades actualizadas que les deba devolver, pagará dichos intereses conjuntamente con la cantidad principal objeto de la devolución actualizada.
 
 ###### ARTICULO 46.
 
@@ -703,11 +723,11 @@ Cuando no se cumplan los requisitos a que se refiere este artículo las autorida
 
 Los funcionarios fiscales facultados debidamente, podrán expedir circulares para dar a conocer a las diversas dependencias el criterio de la autoridad superior que deberán seguir, en cuanto a la aplicación de las normas tributarias. De dichas circulares no nacen obligaciones ni derechos para los particulares.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 73.
 
-Las autoridades fiscales a fin de determinar la existencia del crédito fiscal, dar las bases de su liquidación o fijarlo en cantidades líquidas, cerciorarse del cumplimiento a las disposiciones fiscales y comprobar la comisión de infracciones a dichas disposiciones, estarán facultados para:
+Las autoridades fiscales, a fin de determinar la existencia del crédito fiscal, dar las bases de su liquidación a fijarlo en cantidades líquidas, cerciorarse del cumplimiento a las disposiciones fiscales y comprobar la comisión de infracciones a dichas disposiciones, deberá observar lo siguiente:
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
@@ -717,7 +737,25 @@ II.- Proceder a la verificación física, clasificación, valuación o comprobac
 
 III.- Requerir a los contribuyentes, responsables solidarios o terceros, con el fin de que exhiban en las oficinas de las propias autoridades fiscales los libros de contabilidad y los demás documentos que se estimen necesarios para comprobar el cumplimiento de las disposiciones fiscales, así como para que proporcionen los datos o informes que tengan relación con dicho cumplimiento.
 
-Cuando al verificar el cumplimiento de las obligaciones fiscales de los sujetos pasivos o responsables solidarios, sea necesario recabar de los propios responsables o de terceros, datos, informes o documentos, relacionados con los hechos que se deban comprobar una vez realizada la compulsa, la autoridad fiscal hará saber sus resultados a dichos contribuyentes o responsables solidarios, teniéndoseles por conformes con dichos resultados si dentro del plazo de quince días hábiles no manifiestan su inconformidad y no ofrecen las pruebas documentales pertinentes e idóneas para desvirtuarlos.
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+Para llevar a cabo el cumplimiento de la obligación a que hace referencia el párrafo primero de esta fracción, los contribuyentes obligados contarán con los siguientes plazos:
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+a).- Los libros y registros que formen parte de su contabilidad, solicitados en el curso de una visita, deberán presentarse de inmediato, así como los diagramas y el diseño del sistema del registro electrónico, en su caso.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+b).- Seis días hábiles contados a partir del siguiente a aquél en que se le notificó la solicitud respectiva, cuando los documentos sean de los que deba tener en su poder el contribuyente y se el soliciten durante el desarrollo de una visita.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+c).- Quince días naturales contados a partir del siguiente a aquél en que se le notificó la solicitud respectiva en los demás casos.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+El plazo a que se refiere el inciso c) se podrá ampliar por las autoridades fiscales por quince días más, naturales, por cada ejercicio fiscal a revisar, sin que en su conjunto excedan de un máximo de cuarenta y cinco días naturales, cuando se trate de informes cuyo contenido sea difícil de proporcionar o de obtener.
 
 IV.- Recabar de las dependencias y funcionarios públicos federales, estatales y municipales los informes y datos que posean con motivo de sus funciones.
 
@@ -823,11 +861,11 @@ V.- Los visitadores harán constar en el acta los hechos y omisiones observados.
 
 VI.- Al concluirse la visita se levantará acta en la que se harán constar los resultados en forma circunstanciada y será firmada indistintamente por cualquiera de los visitadores que hayan intervenido en la visita, por el visitado o la persona con quien se entienda la diligencia y por testigos.
 
-El visitado o culquiera(sic) de sus empleados podrá expresar en el acta si está conforme con su contenido o los motivos de su inconformidad, expresándolos en forma también circunstanciada.
+El visitado o culquiera (sic) de sus empleados podrá expresar en el acta si está conforme con su contenido o los motivos de su inconformidad, expresándolos en forma también circunstanciada.
 
-Los testigos pueden ser sustituidos: por no encontrarse en el lugar donde se esté llevando a cabo la visita, por ausentarse de él antes de que concluya la diligencia o por manifestar su voluntad de dejar de ser testigo. En tales circunstancias la persona con la que se entienda la visita deberá designar de inmediato otros y ante la negativa o impedimento de los designados, los visitadores designarán a quien pueda sustituirlos. La situación de los testigos no invalida la visitsa(sic).
+Los testigos pueden ser sustituidos: por no encontrarse en el lugar donde se esté llevando a cabo la visita, por ausentarse de él antes de que concluya la diligencia o por manifestar su voluntad de dejar de ser testigo. En tales circunstancias la persona con la que se entienda la visita deberá designar de inmediato otros y ante la negativa o impedimento de los designados, los visitadores designarán a quien pueda sustituirlos. La situación de los testigos no invalida la visitsa (sic).
 
-VIII(sic).- El visitado, los testigos y los visitadores firmarán el acta. Si el visitado o los testigos se niegan a firmar así lo harán constar los visitadores, sin que ésta circunstancia afecte el valor probatorio del documento. Un ejemplar del acta se entregará en todo caso al visitado o a la persona con la que se entienda la diligencia.
+VIII (sic).- El visitado, los testigos y los visitadores firmarán el acta. Si el visitado o los testigos se niegan a firmar así lo harán constar los visitadores, sin que ésta circunstancia afecte el valor probatorio del documento. Un ejemplar del acta se entregará en todo caso al visitado o a la persona con la que se entienda la diligencia.
 
 VIII.- Con las mismas formalidades indicadas en la fracción anterior, se levantarán actas parciales o complementarias para hacer constar hechos concretos en el curso de su visita, o después de su conclusión.
 
@@ -1307,6 +1345,10 @@ En los asuntos cuyo interés no exceda de 30 veces el salario mínimo de la zona
 
 En ningún trámite se admitirá la gestión de negocios, los interesados podrán autorizar por escrito, en cada caso, a personas que en su nombre reciban notificaciones, ofrezcan y rindan pruebas e interpongan recursos dentro del procedimiento administrativo.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+Quien promueva a nombre de otro deberá acreditar que la representación le fue otorgada a más tardar en la fecha en que se presenta la promoción.
+
 ### CAPITULO II. DE LAS NOTIFICACIONES
 
 ###### ARTICULO 113.
@@ -1377,9 +1419,11 @@ V.- A partir de la fecha en que el interesado o su representante se manifiesten 
 
 VI.- Las que se practiquen por estrados, a partir del sexto día hábil siguiente a aquel en que se hubiere fijado la notificación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 116.
 
-Contra las notificaciones que se hagan en contravención a las disposiciones anteriores, procede el recurso administrativo de nulidad de notificaciones.
+Contra las notificaciones que se hagan en contravención a las disposiciones anteriores, se estará a lo dispuesto por el artículo 135 de este Código.
 
 No obstante lo dispuesto en el párrafo anterior, cuando la persona notificada en forma distinta a la señalada por este capítulo se manifestare sabedora de la providencia, la notificación surtirá desde entonces sus efectos como si estuviera legalmente hecha.
 
@@ -1390,6 +1434,10 @@ Toda notificación personal, realizada con quien deba entenderse será legalment
 Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificarle dejará citatorio en el domicilio, sea para que espere a una hora fija del día hábil siguiente o para que acuda a notificarse dentro del plazo de seis días hábiles a las oficinas de las autoridades fiscales.
 
 Tratándose de actos relativos al procedimiento administrativo de ejecución, el citatorio será siempre para la espera antes señalada y si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+Cuando se deje sin efectos una notificación practicada en forma irregular, se impondrá al notificador responsable una multa equivalente de hasta diez veces el salario mínimo general vigente en el Estado.
 
 ###### ARTICULO 118.
 
@@ -1421,47 +1469,61 @@ Para efectos de este Código son días hábiles todos los del año, con exclusi�
 
 Las oficinas a que se refiere el párrafo anterior, recibiran (sic) las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverán copia sellada a quien los presente. Únicamente se podrá rechazar la presentación cuando no contengan el nombre del contribuyente, el número de registro de contribuyentes, su domicilio fiscal o no aparezcan debidamente firmadas, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos, en este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
 
-### CAPITULO III. DE LOS RECURSOS ADMINISTRATIVOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+### CAPITULO TERCERO. DEL RECURSO ADMINISTRATIVO DE REVOCACION
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 122.
 
-Contra los actos administrativos dictados en materia fiscal por las autoridades del estado, procederán los siguientes recursos:
+Contra los actos administrativos dictados en materia fiscal por las autoridades del Estado, será procedente el Recurso de Revocación.
 
-I.- El de revocación.
-
-II.- El de oposición al procedimiento administrativo de ejecución.
-
-III.- El de nulidad de notificaciones.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 123.
 
-El Recurso de revocación procederá contra las resoluciones definitivas que:
+El Recurso de Revocación procederá contra:
 
-I.- Determinen contribuciones o sus accesorios.
+I.- Las resoluciones definitivas dictadas por autoridades fiscales del Estado que:
 
-II.- Nieguen la devolución de cantidades que procedan conforme a la Ley.
+a) Determinen contribuciones, accesorios o aprovechamientos.
+
+b) Nieguen la devolución de cantidades que procedan conforme a la Ley.
+
+c) Cualquier resolución de carácter definitivo que cause agravio al particular en materia fiscal, salvo aquéllas a que se refiere el artículo 65 de este Código.
+
+II.- Los actos de autoridades fiscales del Estado que:
+
+a) Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la autoridad ejecutora o se refiera a recargos, gastos de ejecución o a la indemnización que establece el artículo 41 último párrafo de este Código.
+
+b) Se dicten en el proceso administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la Ley.
+
+c) Afecten el interés jurídico de terceros.
+
+d) Determinen el valor de los bienes embargados a que se refiere el artículo 165 de éste Código.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 124.
 
-El recurso de oposición al procedimiento administrativo de ejecución procederá contra los actos que:
+Cuando el Recurso de Revocación se interponga porque el procedimiento administrativo de ejecución no se ajustó a la Ley, las violaciones cometidas antes del remate podrán hacerse valer en cualquier tiempo hasta antes de la publicación de la convocatoria en la primera almoneda, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables, de actos de imposible reparación material o de lo previsto por el artículo 135, casos en que el plazo para interponer el recurso se computará a partir del día siguiente al en que surta sus efectos la notificación del requerimiento de pago o del día siguiente al de la diligencia de embargo.
 
-I.- Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la oficina ejecutora o se refiera a recargos, gastos de ejecución o a la indemnización a que se refiere el artículo 41 último párrafo de este Código.
+Si las violaciones tuvieron lugar con posterioridad a la mencionada convocatoria o se trate de venta de bienes fuera de subasta, el recurso se hara valer contra la resolución que finque el remate o la que autorice la venta fuera de subasta.
 
-II.- Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la Ley.
-
-III.- Afecten el interés jurídico de terceros.
-
-IV.- Determinen el valor de los bienes embargados a que se refiere el artículo 164 de este Código.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 125.
 
-Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que sea competente a la brevedad posible.
+El tercero que afirme ser propietario de los bienes o negociaciones o titular de los derechos embargados, podrá hacer valer el Recurso de Revocación en cualquier tiempo hasta antes de que se finque el remate, se enajenen fuera del remate o se adjudiquen los bienes a favor del fisco Estatal. El tercero que afirme tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales estatales, lo hará valer en cualquier tiempo antes de que se haya aplicado el importe del remate a cubrir el crédito fiscal.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 126.
 
-El recurso de nulidad de notificaciones procederá en contra de las que se hagan en contravención a las disposiciones de éste Código.
+Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que sea competente a la brevedad posible.
 
 ###### ARTICULO 127.
 
@@ -1471,17 +1533,27 @@ Si al particular tiene su domicilio fuera de la población en que radique la aut
 
 Si el particular afectado por un acto o resolución administrativa fallece durante el plazo a que se refiere este artículo, se suspenderá el trámite del recurso hasta por un año si antes no se hubiere designado al representante de la sucesión.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+En los casos de incapacidad o declaración de ausencia, decretadas por autoridad judicial, cuando el particular se encuentre afectado por un acto o resolución administrativa, se suspenderá el plazo para interponer el recurso de revocación hasta por un año. La suspensión cesará cuando se acredite que se ha aceptado el cargo de tutor del incapaz o representante legal del ausente, siendo en perjuicio del particular si durante el plazo antes mencionado no se provee sobre su representación.
+
 ###### ARTICULO 128.
 
 El escrito de interposición del recurso deberá satisfacer los requisitos del artículo 71, de este Código y señalar además:
 
-I.- El acto que se impugna.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1995)</small>
 
-II.- Los agravios que le cause el acta impugnado.
+I.- La resolución o el acto que se impugna.
 
-III,. Las pruebas y los hechos controvertidos de que se trate.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1995)</small>
 
-Cuando no cumpla con alguno de los requisitos anteriores, la autoridad fiscal requerirá al promovente para que en el plazo de cinco días hábiles los indique, aclare o complete; en caso de incumplimiento, se tendrá por no presentado el recurso.
+II.- Los agravios que le cause la resolución o el acto impugnado.
+
+III.- Las pruebas y los hechos controvertidos de que se trate.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+Cuando no se expresen los agravios, no se señale la resolución o el acto que se impugna, los hechos controvertidos o no se ofrezcan las pruebas a que se refieren las fracciones I, II y III de este artículo, la autoridad fiscal requerirá al promovente para que dentro del plazo de cinco días hábiles cumpla con dichos requisitos. Si dentro de dicho plazo no se expresan los agravios que le cause la resolución o acto impugnado, la autoridad fiscal desechará el recurso; si no se señala el acto que se impugna se tendrá por no presentado el recurso; si el requerimiento que se incumple se refiere al señalamiento de los hechos controvertidos o al ofrecimiento de pruebas, el promovente perderá el derecho a señalar los citados hechos o se tendrán por no ofrecidas las pruebas, respectivamente.
 
 Cuando no se gestione en nombre propio la representación de los interesados deberá recaer en Licenciado en Derecho. No será aplicable lo dispuesto en éste párrafo si la gestión se realiza en nombre de una persona moral en los términos de la Ley que la regula y conforme a sus estatutos, sin perjuicio de lo que disponga la legislación de profesiones.
 
@@ -1489,13 +1561,19 @@ Cuando no se gestione en nombre propio la representación de los interesados deb
 
 El promovente deberá acompañar al escrito en que se interponga el recurso:
 
-I.- Los documentos que acrediten su personalidad cuando actué a nombre de otro o de personas morales.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+I.- Los documentos que acrediten su personalidad cuando actué a nombre de otro o de personas morales o en los que conste que ésta ya hubiera sido reconocida por la autoridad fiscal que emitió el acto o resolución impugnada o que se cumple con los requisitos a que se refiere el articulo 112 de este Código.
 
 II.- El documento en que conste el acto impugnado.
 
 III.- Constancia de notificación del acto impugnado, excepto cuando el promovente declare bajo protesta de decir verdad que no recibió constancia o cuando la notificación se haya practicado por correo certificado con acuse de recibo o se trate de negativa ficta. Si la notificación fue por edictos, deberá señalar la fecha de la última publicación y el órgano en que ésta se hizo.
 
 IV.- Las pruebas documentales que ofrezca y el dictamen pericial, en su caso.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+Los documentos a que se refieren las fracciones anteriores, podrán presentarse en fotocopias simples, siempre que obren en poder del recurrente los originales. En caso de que presentándolos en esta forma la autoridad tenga indicios de que no existen o son falsos, podrá exigir al contribuyente la presentación del original o copia certificada.
 
 Cuando las pruebas documentales no obren en poder del recurrente, si éste no hubiere podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentran a su disposición, deberá señalar el archivo o lugar en que se encuentren para que la autoridad fiscal requiera su remisión cuando esto sea legalmente posible, para éste efecto deberá identificar con toda precisión los documentos, y, tratándose de los que pueda tener a su disposición, bastará con que acompañe la copia sellada de la solicitud de los mismos. Se entiende que el recurrente tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias de éstos.
 
@@ -1515,11 +1593,17 @@ III.- Que se hayan consentido, entendiéndose por consentimiento aquellos contra
 
 IV.- Que sean conexos a otro que haya sido impugnado por medio del algún recurso o medio de defensa diferente.
 
-#### SECCIÓN SEGUNDA. RECURSO DE REVOCACIÓN
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+#### SECCIÓN SEGUNDA. DE LA OPCIÓN DE INTERPONER EL RECURSO DE REVOCACIÓN
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 131.
 
-La interposición de los recursos que establece este Código en contra de los actos de las autoridades administrativas es forzosa y deberán agotarse previamente a la promoción de juicio ante el Tribunal de lo Contencioso Administrativo del Estado.
+Será optativo para el interesado la interposición del Recurso de Revocación o acudir directamente sin agotar éste al Tribunal de lo Contencioso Administrativo del Estado.
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 28 DE DICIEMBRE DE 1995)</small>
 
 #### SECCION TERCERA. DEL RECURSO DE OPOSICION AL
 
@@ -1529,35 +1613,51 @@ ADMINISTRATIVO DE EJECUCION
 
 ###### ARTICULO 132.
 
-El recurso de oposición al procedimiento administrativo de ejecución se hará valer ante la oficina ejecutora y no podrá justificarse en el mismo la válidez (sic) del acto administrativo en que se haya determinado el crédito fiscal.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 133.
 
-Cuando el recurso de oposición al procedimiento administrativo de ejecución se interponga porque éste no se ejecutó conforme a la Ley, las violaciones cometidas antes de la etapa del remate, sólo podrán hacerse valer hasta el momento de la convocatoria en primera almoneda, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables o de actos de imposible reparación material, en cuyo caso el recurso podrá interponerse contra el acta en que conste la diligencia de embargo.
-
-Si las violaciones tuvieron lugar con posterioridad a la mencionada convocatoria o se trate de venta de bienes fuera de subasta, el recurso se hará valer contra la resolución que finque el remate o la que autorice la venta fuera de subasta.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 134.
 
-El tercero que afirme se propietario de los bienes o negociaciones o titular de los derechos embargados, podrá hacer valer el recurso de oposición al procedimiento administrativo de ejecución en cualquier tiempo antes de que se finque el remate, se enajenen fuera de remate o se adjudiquen los bienes a favor del fisco estatal. El tercero que afirme tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales estatales lo hará valer en cualquier tiempo antes de que se haya aplicado el importe del remate a cubrir el crédito fiscal.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1995)
 
-#### SECCIÓN CUARTA. DEL RECURSO DE NULIDAD
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1995)</small>
 
-DE NOTIFICACIONES
+#### SECCIÓN CUARTA. DE LA IMPUGNACION DE LAS NOTIFICACIONES
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 135.
 
-La interposición del recurso de nulidad de notificaciones suspenderá los plazos para el ejercicio tanto de las facultades de las autoridades fiscales, como de los derechos de los particulares hasta en tanto, se resuelva el recurso.
+Cuando se alegue que un acto administrativo no fue notificado o que al realizarse la notificación no se cumplieron las formalidades legales, siempre que se trate de los recurribles conforme al artículo 123 de este Código, se estará a las reglas siguientes:
 
-La declaratoria de nulidad de la notificación, traerá como consecuencia la nulidad de las actuaciones hechas con base en la notificación anulada y que tenga relación con ella.
+I.- Si el particular afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer mediante la interposición del Recurso de Revocación contra dicho acto, en el que manifestará la fecha en que lo conoció.
 
-En tanto se resuelve este recurso, quedará en suspenso el término legal para impugnar la resolución de fondo.
+En caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen contra la notificación.
 
-#### SECCIÓN QUINTA. DEL TRAMITE Y RESOLUCIÓN DE LOS RECURSOS
+II.-Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso administrativo ante la autoridad fiscal competente para notificar dicho acto. La citada autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiere practicado, para lo cual el particular señalará en el escrito del propio recurso el domicilio en que se le debe dar a conocer y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la autoridad citada dará a conocer el acto y la notificación por estrados.
+
+El particular tendrá un plazo de veinte días a partir del siguiente al en que la autoridad le de a conocer el acto, para ampliar el recurso administrativo, impugnando el acto y su notificación o sólo la notificación.
+
+III.- La autoridad competente para resolver el recurso administrativo estudiará los agravios expresados contra la notificación, previamente al examen de la impugnación que, en su caso, se haya hecho del acto administrativo.
+
+IV.- Si se resuelve que no hubo notificación o que existiendo ésta no se realizó en los términos de Ley, se tendrá al recurrente como sabedor del acto administrativo desde la fecha en que manifestó conocerlo o en que se le dio a conocer en los términos de la fracción II, quedando sin efectos todo lo actuado en base aquella, y se procederá al estudio de la impugnación, que, en su caso, hubiese formulado en contra de dicho acto.
+
+Si se resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, dicha impugnación será desechada.
+
+En el caso de actos regulados por otras Leyes estatales, la impugnación de la notificación efectuada por autoridades fiscales se hará mediante el recurso administrativo que, en su caso establezcan dichas leyes y de acuerdo con lo previsto por este artículo.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+#### SECCION QUINTA. DEL TRAMITE Y RESOLUCION DEL RECURSO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 136.
 
-En los recursos administrativos se admitirán toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades mediante absolución de posesiones. No se considerará comprendida en esta prohibición la petición de informes a las autoridades fiscales, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
+En el recurso de revocación se admitirán toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades mediante absolución de posesiones. No se considerará comprendida en esta prohibición la petición de informes a las autoridades fiscales, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
 
 Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
 
@@ -1567,9 +1667,11 @@ Las demás pruebas quedarán a la prudente apreciación de la autoridad fiscal.
 
 Si por el enlace de las pruebas relativas y de las presunciones formadas, las autoridades adquieren convicción distinta acerca de los hechos materia del recurso podrán valorar las pruebas sin sujetarse a lo dispuesto en este artículo, debiendo en este caso fundar razonadamente esta parte de su resolución.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 137.
 
-La autoridad podrá dictar resolución y notificarla en un término que no excederá de cuatro meses contados a partir de la fecha de interposición del recurso. El silencio de la autoridad significará que se ha confirmado el acto impugnado.
+La autoridad deberá dictar resolución y notificarla en un término que no exceda de tres meses contados a partir de la fecha de interposición del recurso. En caso contrario, se tendrá por confirmado el acto impugnado.
 
 El recurrente podrá decidir en esperar la resolución expresa o impugnar en cualquier tiempo la presunta confirmación del acto impugnado.
 
@@ -1587,7 +1689,9 @@ La resolución expresará con claridad los actos que se modifiquen y si la modif
 
 La resolución que ponga fin al recurso podrá:
 
-I.- Desecharlo por improcedente.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+I.- Desecharlo por improcedente, tenerlo por no interpuesto o sobreseerlo, en su caso.
 
 II.- Confirmar el acto impugnado.
 
@@ -1635,7 +1739,9 @@ En ningún caso los gastos de ejecución por cada una de las diligencias a que s
 
 Asimismo, se pagarán por concepto de gastos de ejecución las erogaciones extraordinarias en que se incurra con motivo del procedimiento administrativo de ejecución, las que únicamente comprenderán los gastos de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos que correspondan, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores.
 
-Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de revocación de oposición al procedimiento administrativo de ejecución.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de revocación.
 
 Los ingresos recaudados por concepto de gastos de ejecución, se destinarán a las autoridades fiscales estatales, para los fines que ellas dispongan de acuerdo a los programas establecidos.
 
@@ -1735,7 +1841,9 @@ XII.- Los Ejidos.
 
 Si al designarse bienes para el embargo, se opusiere un tercero fundándose en el dominio de ellos, no se practicará el embargo si se demuestra en el mismo acto la propiedad con prueba documental suficiente a juicio del ejecutor.
 
-La resolución dictada tendrá el carácter de provisional y deberá ser sometida a ratificación en todos los casos por la Oficina Ejecutora, a la que deberán allegarse los documentos exhibidos en el momento de la oposición. Si a juicio de la Ejecutora las pruebas no son suficientes, ordenará al Ejecutor que continué con la diligencia y, de embargarse los bienes, notificará al interesado que puede hacer valer el recurso de oposición al Procedimiento Administrativo de Ejecución en los términos de este Código.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+La resolución dictada tendrá el carácter de provisional y deberá ser sometida a rectificación en todos los casos por la Oficina Ejecutora, a la que deberán allegarse los documentos exhibidos en el momento de la oposición. Si a juicio de la Ejecutora las pruebas no son suficientes, ordenará al Ejecutor que continué y de embargarse los bienes, notificará al interesado que pueda hacer valer el recurso de revocación el los términos de este Código.
 
 ###### ARTICULO 150.
 
@@ -1839,9 +1947,13 @@ La autoridad podrá designar otro lugar para la venta y ordenar que los bienes e
 
 La base para la enajenación de los bienes inmuebles embargados será el de avalúo, en negociaciones el avalúo parcial conforme lo establezca este Código y en los demás casos la que fije de común acuerdo la autoridad y el embargado en un plazo de seis días computado a partir de la fecha en que se hubiera practicado el embargo. A falta de acuerdo, la autoridad practicará avalúo parcial notificado personalmente el resultado de la valuación.
 
-Si el embargado o terceros acreedores se inconforman con la valuación dentro de los seis días siguientes a aquél en que surta efectos la notificación a que se refiere el párrafo anterior, el embargado elegirá como perito dentro de ese plazo a cualquiera de los valuadores señalados en este Código o alguna empresa o institución dedicada a la compraventa y subasta de bienes y la autoridad exactora lo nombrará en un plazo de tres días.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
 
-Los peritos deberán rendir su dictamen en plazo de diez días si se trata de bienes muebles, vente días si son inmuebles y treinta días cuando sean negociaciones, el avalúo que se fije será la base para la enajenación de los bienes.
+El embargado o terceros acreedores que no estén conformes con la valuación hecha, podrán hacer valer el recurso de revocación a que se refiere el artículo 122 de este Código, dentro de los diez días siguientes a aquél en que surta sus efectos la notificación a que se refiere el párrafo anterior, debiendo designar en el mismo, como perito de su parte a cualquiera de los valuadores señalados en este ordenamiento legal o alguna empresa o institución dedicada a la compraventa y subasta de bienes, y la autoridad exactora lo nombrará en un plazo de tres días hábiles.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+En los casos a que se refieren los párrafos que anteceden, los peritos deberán rendir su dictamen en un plazo de diez días naturales si se trata de bienes muebles, 20 días si son inmuebles y 30 días naturales cuando sean negociaciones, contados a partir de la fecha de su aceptación.
 
 ###### ARTICULO 166.
 
@@ -2066,3 +2178,17 @@ PRIMERO.- Esta ley entrará en vigor el día1o. de enero de 1995.
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente ley.
 
 TERCERA.- Publíquese en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga" para que surta sus efectos legales.
+
+P.O. 28 DE DICIEMBRE DE 1995
+
+###### ARTICULO PRIMERO.
+
+Cuando en el articulado relativo a las disposiciones de vigencia anual se haga referencia a empresas, se estará aludiendo a lo determinado por la estratificación oficial establecida por la Secretaría de Comercio y Fomento Industrial.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Esta Ley entrará en vigor el 1º. de enero de 1996.
