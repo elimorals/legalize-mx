@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-reglamentaria-del-ejercicio-3537"
 country: "mx"
 rank: "reglamento"
 publication_date: "1957-11-20"
-last_updated: "1957-11-20"
+last_updated: "1972-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY REGLAMENTARIA DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1972.
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Baja California, el miércoles 20 de noviembre de 1957.
 
@@ -57,7 +57,9 @@ Condiciones que deben llenarse para obtener un título profesional e institucion
 
 Para que las escuelas de enseñanza profesional puedan admitir a un alumno como numerario, deberán cerciorarse de que cursó los estudios previos que exige el artículo 8o. de la Ley y dejar constancia de ellos en sus archivos. La inscripción de un alumno como numerario en una escuela profesional del sistema educativo nacional y del Estado, hace presumir, salvo prueba en contrario, que cursó los estudios previos aludidos.
 
-Esta presunción no obliga a la Dirección de Profesiones, la cual está facultada para pedir, en todo caso, las pruebas complementarias o directas de la veracidad de esos estudios.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
+Esta presunción no obliga al Departamento de Profesiones, el cual está facultado para pedir, en todo caso, las pruebas complementarias o directas de la veracidad de esos estudios.
 
 ###### ARTICULO 5o.
 
@@ -71,13 +73,21 @@ Para el registro de títulos expedidos por escuelas particulares, a que se refie
 
 Todas las escuelas o instituciones que dentro del Estado de Baja California estén dedicadas a la educación superior profesional, están obligadas:
 
-a).- A inscribirse en la Dirección de Profesiones.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
-b).- A proporcionar anualmente a dicha Dirección sus planes de estudio, programas y métodos de enseñanza, organización del servicio social, profesorado y condiciones materiales del establecimiento para los fines expresados en el artículo 9o. de la Ley.
+a).- A inscribirse en el Departamento de Profesiones.
 
-c).- A proporcionar a la misma Dirección las informcaiones (sic) que ésta les pida, en cualquier momento, ya sea en los aspectos mencionados en el inciso que antecede o con relación a casos concretos.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
-d).- A informar a la Dirección de Profesiones, dentro de los 30 días siguientes, de los exámenes recepcionales de profesionistas que celebren.
+b).- A proporcionar anualmente a dicho Departamento sus planes de estudio, programas y métodos de enseñanza, organización del servicio social, profesorado y condiciones materiales del establecimiento para los fines expresados en el artículo 9o. de la Ley.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
+c).- A proporcionar al mismo Departamento las informcaiones (sic) que éste les pida, en cualquier momento, ya sea en los aspectos mencionados en el inciso que antecede o con relación a casos concretos.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
+d).- A informar al Departamento de Profesiones, dentro de los 30 días siguientes, de los exámenes recepcionales de profesionistas que celebren.
 
 ###### ARTICULO 8o.
 
@@ -99,19 +109,25 @@ f).- El retrato de la persona en cuyo favor se expida.
 
 Solamente las escuelas que funcionen dentro del Estado y que sean autorizadas por la Ley y por este Reglamento podrán expedir títulos profesionales. Esta restricción no limita, sin embargo, el derecho a impartir enseñanza profesional a otras escuelas o instituciones, pero no estarán facultadas para expedir dichos títulos. Esta circunstancia deberá anunciarse expresamente.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 10.
 
-Las escuelas o instituciones del Estado de Baja California que establezcan nuevas carreras profesionales darán información de ella a la Dirección de Profesiones dentro de los 30 días siguientes, para que ésta, en caso de ser procedente, inicie los trámites conducentes a la inclusión de la profesión respectiva entre las que requieran título para su ejercicio.
+Las escuelas o instituciones del Estado de Baja California que establezcan nuevas carreras profesionales darán información de ella al Departamento de Profesiones dentro de los 30 días siguientes, para que ésta, en caso de ser procedente, inicie los trámites conducentes a la inclusión de la profesión respectiva entre las que requieran título para su ejercicio.
 
 ### CAPITULO III
 
 De la Dirección de Profesiones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 11.
 
-La Dirección de Profesiones estará integrada por:
+El Departamento de Profesiones estará integrado por:
 
-a).- Un representante de Gobierno del Estado, con el carácter de Director.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
+a).- Un representante de Gobierno del Estado, con el carácter de Jefe de Departamento.
 
 b).- Dos peritos dictaminadores designados por el ejecutivo del Estado.
 
@@ -119,9 +135,11 @@ c).- Las comsiones (sic) técnicas que como órganos de consulta se formen.
 
 d).- El personal de empleados necesario para el desempeño de sus funciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 12.
 
-Para ser Director o Perito Dictaminador de la Dirección de Profesiones se requiere:
+Para ser Director o Perito Dictaminador del Departamento de Profesiones se requiere:
 
 a).- Ser mayor de veinticinco años;
 
@@ -129,17 +147,23 @@ b).- Ser licenciado en derecho con título debidamente registrado y con una anti
 
 c).- Ser de reconocida solvencia moral.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 13.
 
-El representante legal de la Dirección de Profesiones, es el Director quien tendrá las facultades que la Ley Reglamentaria del Ejercicio Profesional y su Reglamento le confieren.
+El representante legal del Departamento de Profesiones, es el Jefe del Departamento quien tendrá las facultades que la Ley Reglamentaria del Ejercicio Profesional y su Reglamento le confieren.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 14.
 
-Dependientes del Director de Profesiones, los peritos dictaminadores estudiarán y dictaminarán sobre todos los asuntos que este Reglamento y aquel les encomienden, fungiendo además como secretarios de las comisiones técnicas consultivas que se formen.
+Dependientes del Jefe del Departamento de Profesiones, los peritos dictaminadores estudiarán y dictaminarán sobre todos los asuntos que este Reglamento y aquel les encomienden, fungiendo además como secretarios de las comisiones técnicas consultivas que se formen.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 15.
 
-Las comisiones técnicas serán órganos de consulta de la Dirección de Profesiones y tendrán por objeto estudiar y dictaminar los siguientes asuntos:
+Las comisiones técnicas serán órganos de consulta del Departamento de Profesiones y tendrán por objeto estudiar y dictaminar los siguientes asuntos:
 
 a).- Los reglamentos de ejercicio y delimitación de cada profesión o de las ramas en que se subdivida.
 
@@ -153,15 +177,21 @@ e).- Anotaciones en la hoja de servicios de cada profesionista.
 
 f).- Sanciones a los Colegios de Profesionistas y a los demás profesionistas.
 
-g).- Los demás asuntos que les encomienden las Leyes y los que juzgue convenientes el Director de Profesiones.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
+g).- Los demás asuntos que les encomienden las Leyes y los que juzgue convenientes el Jefe de Departamento de Profesiones.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 16.
 
-La Dirección de Profesiones formará Comisiones Técnicas Consultivas relativas a cada una de las profesiones, que se encargarán de estudiar y dictaminar sobre los asuntos de su competencia. Cada comisión estará integrada por un representante de Acción Cívica y Cultural, otro de la Universidad Autónoma y otro del Colegio de Profesionistas del ramo.
+El Departamento de Profesiones formará Comisiones Técnicas Consultivas relativas a cada una de las profesiones, que se encargarán de estudiar y dictaminar sobre los asuntos de su competencia. Cada comisión estará integrada por un representante de Acción Cívica y Cultural, otro de la Universidad Autónoma y otro del Colegio de Profesionistas del ramo.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 17.
 
-Cuando hubiere varios Colegios de Profesionistas respecto a una misma rama, cada uno de ellos nombrará un Representante; pero para las decisiones que se tomen, solo votará el representante común que designen y cuando no se pongan de acuerdo sobre éste, el Director de Profesiones lo eligirá (sic) de entre los representantes; de éstos, los que no voten podrán hacer constar sus opiniones en caso de ser divergentes a las que tome la Comisión.
+Cuando hubiere varios Colegios de Profesionistas respecto a una misma rama, cada uno de ellos nombrará un Representante; pero para las decisiones que se tomen, solo votará el representante común que designen y cuando no se pongan de acuerdo sobre éste, el Jefe del Departamento de Profesiones lo eligirá (sic) de entre los representantes; de éstos, los que no voten podrán hacer constar sus opiniones en caso de ser divergentes a las que tome la Comisión.
 
 ###### ARTICULO 18.
 
@@ -179,17 +209,21 @@ Los cargos de representantes en las Comisiones Técnicas Consultivas son honorar
 
 Los representantes en las Comisiones Técnicas Consultivas necesariamente deben ser profesionistas, con título debidamente registrado.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 22.
 
-Las Comisiones Técnicas consultivas tendrán un Secretario que lo será un abogado dependiente de la Dirección de Profesiones. El Secretario levantará un acta después de cada sesión en la que se hará constar los acuerdos a que se hubiere llegado y que será firmada por todos los asistentes: (sic)
+Las Comisiones Técnicas consultivas tendrán un Secretario que lo será un abogado dependiente del Departamento de Profesiones. El Secretario levantará un acta después de cada sesión en la que se hará constar los acuerdos a que se hubiere llegado y que será firmada por todos los asistentes: (sic)
 
 ### CAPITULO IV
 
 Tramitación ante la Dirección de Profesiones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 23.
 
-Para obtener el registro de un título profesional, el solicitante deberá presentar en la Dirección de Profesiones, una solicitud, por triplicado, en la que, bajo protesta de decir verdad, declarará:
+Para obtener el registro de un título profesional, el solicitante deberá presentar en el Departamento de Profesiones, una solicitud, por triplicado, en la que, bajo protesta de decir verdad, declarará:
 
 a).- Su nombre, lugar de origen, nacionalidad, edad, domicilio particular y lugar en que despache sus asuntos profesionales;
 
@@ -209,7 +243,9 @@ a).- El original del título profesional;
 
 b).- Cuatro retratos;
 
-c).- Acta de nacimiento o certificado de nacionalidad para los mexicanos, carta de naturalización para los mexicanos por naturalización y tarjetas de inmigración para los extranjeros. Si un mexicano careciere de acta de nacimiento podrá demostrar su calidad por otros medios de prueba bastantes a juicio de la Dirección de Profesiones;
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
+c).- Acta de nacimiento o certificado de nacionalidad para los mexicanos, carta de naturalización para los mexicanos por naturalización y tarjetas de inmigración para los extranjeros. Si un mexicano careciere de acta de nacimiento podrá demostrar su calidad por otros medios de prueba bastantes a juicio del Departamento de Profesiones;
 
 d).- El certificado de sus estudios secundarios o prevocacionales, preparatoria o vocacionales y profesionales y haber prestado el servicio social;
 
@@ -221,41 +257,55 @@ g).- En caso de mutilación, destrucción o desaparición de los archivos origin
 
 Cuando se trate del registro de títulos expedidos en los Estados de la República, se exigirán además los documentos de que habla el artículo 13 de la Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 25.
 
-La presentación de la cédula de registro profesional expedida por la Dirección General de Profesiones de acuerdo con los artículos 4o. y 5o. Constitucionales para el Distrito y Territorios Federales y para toda la República en materia federal, constituirá prueba suficiente de haberse cubierto los requisitos que señala el artículo anterior y bastará para que se proceda al registro profesional, sin perjuicio de su cancelación si posteriormente se demostrara que no llenan los requisitos establecidos por la Ley Reglamentaria de Profesiones y su Reglamento. Los así interesados, acompañarán a su solicitud:
+La presentación de la cédula de registro profesional expedida por el Departamento de Profesiones de acuerdo con los artículos 4o. y 5o. Constitucionales para el Distrito y Territorios Federales y para toda la República en materia federal, constituirá prueba suficiente de haberse cubierto los requisitos que señala el artículo anterior y bastará para que se proceda al registro profesional, sin perjuicio de su cancelación si posteriormente se demostrara que no llenan los requisitos establecidos por la Ley Reglamentaria de Profesiones y su Reglamento. Los así interesados, acompañarán a su solicitud:
 
 a).- El original de su cédula profesional, con copia fotostática por duplicado de la misma.
 
 b).- Cuatro retratos.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 26.
 
-Cuando la Dirección de Profesiones careciere de información suficiente de la escuela o institución en que el interesado hubiere hecho sus estudios, este queda obligado a proporcionar las pruebas conducentes a comprobar la eficacia de los mismos.
+Cuando el Departamento de Profesiones careciere de información suficiente de la escuela o institución en que el interesado hubiere hecho sus estudios, este queda obligado a proporcionar las pruebas conducentes a comprobar la eficacia de los mismos.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 27.
 
-La solicitud será turnada a un perito dictaminador de la Dirección de Profesiones que revisará la documentación y una vez que obtenga la integración del expediente, opinará sobre la procedencia o improcedencia del registro. Este dictamen se turnará al Director de Profesiones para que ordene lo procedente. El mismo procedimiento se seguirá respecto de las solicitudes de inscripción de escuelas o colegios de profesionistas.
+La solicitud será turnada a un perito dictaminador de la Departamento de Profesiones que revisará la documentación y una vez que obtenga la integración del expediente, opinará sobre la procedencia o improcedencia del registro. Este dictamen se turnará al Jefe de Departamento de Profesiones para que ordene lo procedente. El mismo procedimiento se seguirá respecto de las solicitudes de inscripción de escuelas o colegios de profesionistas.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 28.
 
-La Dirección de Profesiones está obligada a poner en conocimiento de las autoridades competentes las irregularidades que encuentre en la documentación que se le exhiba.
+El Departamento de Profesiones está obligado a poner en conocimiento de las autoridades competentes las irregularidades que encuentre en la documentación que se le exhiba.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 29.
 
-Las autoridades y particulares están obligados a facilitar a la Dirección de Profesiones todos los datos y documentos que se les soliciten en relación con las funciones que se le encomienden por la Ley y por este Reglamento y para hacer cumplir sus determinaciones podrá aplicar los medios de apremio que establece el Código de Procedimientos Civiles vigente en el Estado.
+Las autoridades y particulares están obligados a facilitar al Departamento de Profesiones todos los datos y documentos que se les soliciten en relación con las funciones que se le encomienden por la Ley y por este Reglamento y para hacer cumplir sus determinaciones podrá aplicar los medios de apremio que establece el Código de Procedimientos Civiles vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 30.
 
-Los tribunales del ramo penal, bajo su mas estricta responsabilidad, comunicarán a la Dirección de Profesiones los autos de formal prisión y sentencias que pronuncien afectando, en cualquier forma, a profesionistas, escuelas o colegios de profesionistas.
+Los tribunales del ramo penal, bajo su mas estricta responsabilidad, comunicarán al Departamento de Profesiones los autos de formal prisión y sentencias que pronuncien afectando, en cualquier forma, a profesionistas, escuelas o colegios de profesionistas.
 
 ### CAPITULO V
 
 Del Registro.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 31.
 
-Deberán inscribirse en la Dirección de Profesiones:
+Deberán inscribirse en el Departamento de Profesiones:
 
 a).- Las escuelas que impartan enseñanza preparatoria y profesional;
 
@@ -275,13 +325,17 @@ Los actos y documentos que en los términos de la Ley y de este Reglamento deban
 
 Las inscripciones no prejuzgan ni convalidan actos o documentos que, conforme a la Ley, resulten nulos.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 34.
 
-El archivo del registro será público y el director de Profesiones está obligado a expedir certificaciones de las constancias del mismo, cuando así se le solicite por escrito.
+El archivo del registro será público y el Jefe de Departamento de Profesiones está obligado a expedir certificaciones de las constancias del mismo, cuando así se le solicite por escrito.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 35.
 
-El registro surtirá todos sus efectos desde el día y la hora en que se hubiere presentado la solicitud respectiva en la Dirección de Profesiones.
+El registro surtirá todos sus efectos desde el día y la hora en que se hubiere presentado la solicitud respectiva en el Departamento de Profesiones.
 
 ###### ARTICULO 36.
 
@@ -319,9 +373,11 @@ c).- En la sección tercera todo lo relativo a títulos de profesionistas.
 
 d).- En la sección cuarta las autorizaciones especiales que se otorguen en los términos de la Ley.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 43.
 
-Las inscripciones se cancelarán por determinación judicial o por resolución administrativa de la Dirección de Profesiones.
+Las inscripciones se cancelarán por determinación judicial o por resolución administrativa del Departamento de Profesiones.
 
 ###### ARTICULO 44.
 
@@ -347,9 +403,11 @@ b).- Por muerte del profesionista;
 
 c).- En aquellos otros casos que determine la Ley.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 46.
 
-Cuando exista motivo fundado para efectuar algunas de las cancelaciones que se refiere el artículo 36 de ésta Ley, el director de Profesiones demandará, ante los Tribunales del fuero común, dicha cancelación. Este juicio se seguirá en la vía sumaria.
+Cuando exista motivo fundado para efectuar algunas de las cancelaciones que se refiere el artículo 36 de ésta Ley, el Jefe de Departamento de Profesiones demandará, ante los Tribunales del fuero común, dicha cancelación. Este juicio se seguirá en la vía sumaria.
 
 ###### ARTICULO 47.
 
@@ -371,17 +429,23 @@ Los errores materiales y los de concepto podrán corregirse dando aviso al inter
 
 Las inscripciones equivocadas no podrán corregirse por medio de entrerrenglonaduras, raspaduras, enmiendas o cualquier otro medio que no sea una nueva inscripción en la que, con toda claridad, se rectifique lo anterior aclarando el error cometido.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 52.
 
-Hecho el registro de un Colegio de Profesionistas, no podrá ser cancelado administrativamente sino a solicitud o con la conformidad del mismo. Para cualquier otro caso, se requiere resolución judicial dictada en juicio que decida en contra del Colegio de cuya cancelación se trate y el Director de Profesiones, a no ser que sea éste quien demande autorización para cancelar, pues en ese caso el juicio se seguirá en contra del Colegio.
+Hecho el registro de un Colegio de Profesionistas, no podrá ser cancelado administrativamente sino a solicitud o con la conformidad del mismo. Para cualquier otro caso, se requiere resolución judicial dictada en juicio que decida en contra del Colegio de cuya cancelación se trate y el Jefe de Departamento de Profesiones, a no ser que sea éste quien demande autorización para cancelar, pues en ese caso el juicio se seguirá en contra del Colegio.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 53.
 
-Son interesados en la cancelación de un registro de Colegio de Profesionista, los demás Colegios de la misma profesión, las asociaciones que no hayan logrado su registro para constituirse en el Colegio de Profesionistas por estar completo el número fijado por la Ley, el Ministerio Público y la Dirección de Profesiones.
+Son interesados en la cancelación de un registro de Colegio de Profesionista, los demás Colegios de la misma profesión, las asociaciones que no hayan logrado su registro para constituirse en el Colegio de Profesionistas por estar completo el número fijado por la Ley, el Ministerio Público y el Departamento de Profesiones.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 54.
 
-En caso de juicio sobre cancelación de registro de un Colegio de Profesionistas, podrán suspenderse provisionalmente, los efectos de ese registro, por providencia judicial, cuando la Dirección de Profesiones hubiere comprobado que carece del mínimo de socios requerido.
+En caso de juicio sobre cancelación de registro de un Colegio de Profesionistas, podrán suspenderse provisionalmente, los efectos de ese registro, por providencia judicial, cuando el Departamento de Profesiones hubiere comprobado que carece del mínimo de socios requerido.
 
 ### CAPITULO VI
 
@@ -407,9 +471,11 @@ No quedan sujetas a la Ley las prácticas que hagan los estudiantes como parte d
 
 Se entiende por pasante al estudiante que ha concluído el primer año de la carrera en las de dos años el segundo en las de tres y cuatro años; y el tercero en las de mayor duración.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 60.
 
-La práctica profesional de los pasantes se autorizara por la Dirección de Profesiones cuando se satisfagan los requisitos siguientes:
+La práctica profesional de los pasantes se autorizara por el Departamento de Profesiones cuando se satisfagan los requisitos siguientes:
 
 a).- Ser alumno de un plantel profesional;
 
@@ -437,17 +503,21 @@ Los mexicanos naturalizados que hubieren hecho todos los estudios en planteles d
 
 De los Colegios de Profesionistas.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 63.
 
-Para la creación de los Colegios de Profesionistas a que se refiere el Artículo 35 de la Ley se necesita autorización de la Dirección de Profesiones. A este efecto, se presentará ante el mismo la solicitud correspondiente que satisfaga los requisitos que exige la Ley.
+Para la creación de los Colegios de Profesionistas a que se refiere el Artículo 35 de la Ley se necesita autorización del Departamento de Profesiones. A este efecto, se presentará ante el mismo la solicitud correspondiente que satisfaga los requisitos que exige la Ley.
 
 ###### ARTICULO 64.
 
 El registro del Colegio deberá solicitarse dentro de los 60 días siguientes, a la fecha de la escritura protocolización del acta constitutiva y de los estatutos.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 65.
 
-En el mes de enero de cada año, los Colegios deberán enviar a la Dirección de Profesiones una lista de los miembros que lo integran, para el efecto de comprobar si se reunen los requisitos de la Ley.
+En el mes de enero de cada año, los Colegios deberán enviar al Departamento de Profesiones una lista de los miembros que lo integran, para el efecto de comprobar si se reunen los requisitos de la Ley.
 
 ###### ARTICULO 66.
 
@@ -465,41 +535,57 @@ Los votos enviados por correo serán computados únicamente cuando lleguen hasta
 
 Cuando hubiere varios colegios de una misma rama profesional, todos ellos habrán de llevar distinta denominación, a la cual se antepondrá o pospondrá la indicación de ser colegio de la profesión respectiva. Cuando dos colegios adopten la misma denominación, se dará preferencia al que la tenga con mayor antiguedad (sic).
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 70.
 
-Recibida la solicitud de inscripción de una asociación como Colegio de Profesionistas, se dará conocimiento de ella al otro Colegio ya registrado para que haga sus observaciones; con vista de ellas, de los documentos que exhiba la solicitante y de la comprobación que haga la Dirección de Profesiones de que se satisfacen todos los requisitos legales, se procederá al registro de dicha asociación, la cual tendrá desde entonces la categoría de Colegio de Profesionistas.
+Recibida la solicitud de inscripción de una asociación como Colegio de Profesionistas, se dará conocimiento de ella al otro Colegio ya registrado para que haga sus observaciones; con vista de ellas, de los documentos que exhiba la solicitante y de la comprobación que haga el Departamento de Profesiones de que se satisfacen todos los requisitos legales, se procederá al registro de dicha asociación, la cual tendrá desde entonces la categoría de Colegio de Profesionistas.
 
 ###### ARTICULO 71.
 
 Los Colegios de Profesionistas podrán constituirse en federación de cada rama profesional o de grupos de ramas o en federación general, para ejercitar en sus asuntos comunes los derechos que la Ley les otorga individualmente.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 72.
 
-La Dirección de Profesiones, en todo tiempo podrá pedir que los colegios de profesionistas comprueben que tienen el número de socios que como mínimo fija la Ley.
+El Departamento de Profesiones, en todo tiempo podrá pedir que los colegios de profesionistas comprueben que tienen el número de socios que como mínimo fija la Ley.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 73.
 
-Si el número de miembros de un Colegio bajare del mínimo que señala la Ley, la Dirección de Profesiones le concederá un término no mayor de un año, para que lo complete, y transcurrido éste, sin haberlo logrado se cancelará el registro.
+Si el número de miembros de un Colegio bajare del mínimo que señala la Ley, el Departamento de Profesiones le concederá un término no mayor de un año, para que lo complete, y transcurrido éste, sin haberlo logrado se cancelará el registro.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 74.
 
-Cuando un Colegio se niegue a admitir como miembro a un profesionista que reúna los requisitos de la Ley, sin causa justificada, éste podrá recurrir la resolución ante la Dirección de Profesiones, quien oyendo a las partes, resolverá en definitiva.
+Cuando un Colegio se niegue a admitir como miembro a un profesionista que reúna los requisitos de la Ley, sin causa justificada, éste podrá recurrir la resolución ante el Departamento de Profesiones, quien oyendo a las partes, resolverá en definitiva.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 75.
 
-Los juicios arbitrales de que conozcan los Colegios en los términos de la Ley, se seguirán en expedientes duplicados que se guardarán en la Dirección de Profesiones. Concluído el juicio, un tanto del expediente se entregará al Colegio que haya intervenido en el arbitraje y el otro, se archivará en definitiva en la Dirección.
+Los juicios arbitrales de que conozcan los Colegios en los términos de la Ley, se seguirán en expedientes duplicados que se guardarán en el Departamento de Profesiones. Concluído el juicio, un tanto del expediente se entregará al Colegio que haya intervenido en el arbitraje y el otro, se archivará en definitiva en la Dirección.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 76.
 
-En caso de recibirse alguna queja respecto de la actuación de algún profesionista, la Dirección de Profesiones, emitirá dictamen y lo hará del conocimiento del Colegio a que pertenezcan, para los efectos legales correspondientes. Si la queja se refiere a un auxiliar de la administración de justicia, el dictamen se hará, en todo caso, del conocmiento (sic) del tribunal respectivo.
+En caso de recibirse alguna queja respecto de la actuación de algún profesionista, el Departamento de Profesiones, emitirá dictamen y lo hará del conocimiento del Colegio a que pertenezcan, para los efectos legales correspondientes. Si la queja se refiere a un auxiliar de la administración de justicia, el dictamen se hará, en todo caso, del conocmiento (sic) del tribunal respectivo.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 77.
 
-Las gestiones que realicen los colegios en los términos de los incisos I, III, IV V, VIII, XIII, XIV y XVI del artículo 44 de la Ley, las harán del conocimiento de la Dirección de Profesiones.
+Las gestiones que realicen los colegios en los términos de los incisos I, III, IV V, VIII, XIII, XIV y XVI del artículo 44 de la Ley, las harán del conocimiento del Departamento de Profesiones.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 78.
 
-La Dirección de Profesiones vigilará que, de ser posible, los diversos Colegios pertenecientes a una misma rama profesional, se organicen por especialidades.
+El Departamento de Profesiones vigilará que, de ser posible, los diversos Colegios pertenecientes a una misma rama profesional, se organicen por especialidades.
 
 ###### ARTICULO 79.
 
@@ -517,13 +603,17 @@ El servicio social de los estudiantes quedará al cuidado y responsabilidad de l
 
 Los Colegios de Profesionistas deberán contener en sus estatutos las normas generales con arreglo a las cuales sus miembros han de prestar el servicio social, cuya duración no será menor de un año.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 82.
 
-Cada año, durante el mes de enero, los Colegios de Profesionistas darán a conocer a la Dirección de Profesiones, cuales son los servicios sociales que prestarán cada uno de los miembros y el cumplimiento que se haya dado al servicio social, durante el año anterior y los resultados obtenidos.
+Cada año, durante el mes de enero, los Colegios de Profesionistas darán a conocer al Departamento de Profesiones, cuales son los servicios sociales que prestarán cada uno de los miembros y el cumplimiento que se haya dado al servicio social, durante el año anterior y los resultados obtenidos.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 83.
 
-Entre tanto se expide el reglamento especial de servicio social de profesionistas no colegiados, los profesionistas que se encuentren en estas circunstancias deberán enviar, en el mes de enero de cada año a la Dirección de Profesiones, una declaración de los términos en que se proponga cumplir con el servicio social y la comprobación de haberlo prestado durante el año anterior.
+Entre tanto se expide el reglamento especial de servicio social de profesionistas no colegiados, los profesionistas que se encuentren en estas circunstancias deberán enviar, en el mes de enero de cada año al Departamento de Profesiones, una declaración de los términos en que se proponga cumplir con el servicio social y la comprobación de haberlo prestado durante el año anterior.
 
 ###### ARTICULO 84.
 
@@ -543,47 +633,61 @@ Los profesionistas sólo podrán dejar de prestar el servicio social por causas 
 
 ### CAPITULO IX. Infracciones y Sanciones
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 88.
 
-La Dirección de Profesiones tendrá la más amplia facultad, para ordenar la practica de visitas y de inspecciones para constatar la autenticidad de los datos que se haya proporcionado; para investigar el cumplimiento a la Ley y a este Reglamento; y en general, para allegarse toda clase de datos y elementos de juicio para el mejor cumplimiento de su cometido.
+El Departamento de Profesiones tendrá la más amplia facultad, para ordenar la practica de visitas y de inspecciones para constatar la autenticidad de los datos que se haya proporcionado; para investigar el cumplimiento a la Ley y a este Reglamento; y en general, para allegarse toda clase de datos y elementos de juicio para el mejor cumplimiento de su cometido.
 
 ###### ARTICULO 89.
 
 La infracción de los artículos 1o. y 2o. de este Reglamento será motivo de responsabilidad para el infractor, las oficinas pagadoras se abstendrán de despachar ordenes de pago, a favor de personas que no satisfagan los requisitos que marcan los citados artículos.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 90.
 
-Las demás infracciones a la Ley que no tengan señalada pena especial y las que se cometan a este Reglamento, a los reglamentos de ejercicio de cada profesión y a los que delimiten el campo de acción de cada profesión serán sancionados con multa de diez a diez mil pesos, que será impuesta por la Dirección de Profesiones, sin perjuicio de las penas que fijen otras leyes.
+Las demás infracciones a la Ley que no tengan señalada pena especial y las que se cometan a este Reglamento, a los reglamentos de ejercicio de cada profesión y a los que delimiten el campo de acción de cada profesión serán sancionados con multa de diez a diez mil pesos, que será impuesta por el Departamento de Profesiones, sin perjuicio de las penas que fijen otras leyes.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 91.
 
-Para la imposición de las multas, la Dirección de Profesionistas tomará en cuenta las circunstancias en que la infracción fué cometida, la gravedad de la misma y a la categoría profesional y económica del que hubiere incurrido en ella.
+Para la imposición de las multas, el Departamento de Profesiones tomará en cuenta las circunstancias en que la infracción fué cometida, la gravedad de la misma y a la categoría profesional y económica del que hubiere incurrido en ella.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 92.
 
-Recibida alguna queja, en alguno de los casos que la infracción deba ser sancionada por la Dirección de Profesiones, o descubierta la infracción por la propia dirección, ésta la hará saber por correo certificado al profesionista como directo interesado y al Colegio de profesionistas a que pertenezcan; para que opinen sobre el particular. En la misma comunicación se señalará día y hora para que tenga verificativo la audiencia en que se rindan las pruebas que tuvieren que ofrecer los infractores.
+Recibida alguna queja, en alguno de los casos que la infracción deba ser sancionada por el Departamento de Profesiones, o descubierta la infracción por la propia dirección, ésta la hará saber por correo certificado al profesionista como directo interesado y al Colegio de profesionistas a que pertenezcan; para que opinen sobre el particular. En la misma comunicación se señalará día y hora para que tenga verificativo la audiencia en que se rindan las pruebas que tuvieren que ofrecer los infractores.
 
 ###### ARTICULO 93.
 
 Dentro de los cinco días siguientes a la fecha de recibo de la comunicación a q' (sic) se refiere el artículo anterior, el infractor dará la contestación que crea conveniente y, en su caso ofrecerá pruebas. Si el infractor es un profesionista, podrá contestar por conducto del colegio a que pertenezca.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 94.
 
-El día señalado para la audiencia la Dirección de Profesiones, recibirá las pruebas ofrecidas y resolverá lo procedente.
+El día señalado para la audiencia el Departamento de Profesiones, recibirá las pruebas ofrecidas y resolverá lo procedente.
 
 ###### ARTICULO 95.
 
 Las mismas normas se seguirán cuando el infractor no sea profesionista.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 96.
 
-De las sanciones económicas que se impongan por la Dirección de Profesiones conforme a la Ley Reglamentaria de Profesiones y este Reglamento, el Director dará cuenta a la Tesorería General del Estado, que será la autoridad facultada para ejecutar su cobro, autorizándosele para hacer uso de la facultad económica coactiva, aplicando el procedimiento señalado por los artículos 146 al 216 inclusive de la Ley de Hacienda del Estado.
+De las sanciones económicas que se impongan por el Departamento de Profesiones conforme a la Ley Reglamentaria de Profesiones y este Reglamento, el Jefe de Departamento dará cuenta a la Tesorería General del Estado, que será la autoridad facultada para ejecutar su cobro, autorizándosele para hacer uso de la facultad económica coactiva, aplicando el procedimiento señalado por los artículos 146 al 216 inclusive de la Ley de Hacienda del Estado.
 
 T R A N S I T O R I O S :
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO PRIMERO.
 
-Las patentes o cédulas de ejercicio profesional que con anterioridad a la Ley Reglamentaria Profesional hubieren sido legalmente expedidas por la Dirección Federal de Profesiones, surtirán todos sus efectos; pero para que sus poseedores puedan ejercer conforme a ellas, deberán registrarlas en el término de seis meses en la Dirección de Profesiones del Estado.
+Las patentes o cédulas de ejercicio profesional que con anterioridad a la Ley Reglamentaria Profesional hubieren sido legalmente expedidas por el Departamento de Profesiones, surtirán todos sus efectos; pero para que sus poseedores puedan ejercer conforme a ellas, deberán registrarlas en el término de seis meses en el Departamento de Profesiones del Estado.
 
 ###### ARTICULO SEGUNDO.
 
@@ -642,3 +746,11 @@ Lic. Braulio Maldonado Sández.
 El Secretario General de Gobierno.
 
 Lic. Rafael Moreno Henríquez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE JULIO DE 1972.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
