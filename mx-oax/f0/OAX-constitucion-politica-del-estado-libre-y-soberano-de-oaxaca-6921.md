@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1972-07-15"
+last_updated: "1972-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1972.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -351,11 +351,11 @@ La Legislatura tendrá períodos ordinarios de sesiones dos veces al año; el pr
 
 Se reunirá, además, en períodos extraordinarios siempre que sea convocada por la Diputación Permanente o por el Ejecutivo; pero si éste hiciere la convocatoria, no se efectuará antes de diez días de la fecha de la publicación de aquella.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 1963)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 1972)</small>
 
 ###### ARTICULO 43.
 
-A la apertura del Primer Período Ordinario de Sesiones, correspondiente al Primer Año de Ejercicio Legal de toda Legislatura Local, que tendrá lugar el 16 de septiembre, asistirá el Gobernador del Estado. La Legislatura Local, celebrará una Sesión Solemne el día primero de octubre de cada año, a la cual asistirá el C. Gobernador del Estado y leerá un informe sobre el estado que guarda la Administración Pública.
+A la apertura del primer período ordinario de sesiones correspondiente al primer año de su ejercicio legal de toda Legislatura Local que tendrá lugar el 16 de septiembre, asistirá el C. Gobernador del Estado. La Legislatura Local, celebrará una sesión solemne el día 30 de octubre de cada año, a la cual asistirá el C. Gobernador del Estado y leerá el Informe sobre el estado que guarda la Administración Pública.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
 
@@ -1600,3 +1600,7 @@ Unico.- El presente decreto surtirá sus efectos a partir de la fecha de su publ
 P.O. 15 DE JULIO DE 1972.
 
 UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 1972.
+
+Unico.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
