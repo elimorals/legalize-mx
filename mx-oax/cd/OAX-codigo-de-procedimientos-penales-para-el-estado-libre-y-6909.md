@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2001-09-15"
+last_updated: "2002-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2002.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -161,7 +161,7 @@ La intervención de apoderado jurídico para la presentación de querellas, sól
 
 En el ejercicio de la acción penal incumbe al Ministerio Público;
 
-I.- Promover la incoacción del procedimiento;
+I.- Promover la incoacción (sic) del procedimiento;
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -357,11 +357,21 @@ LESIONES, previsto en el artículo 271 en relación con los artículos 274, 275 
 
 HOMICIDIO, previsto en el artículo 285 y sancionado por los artículos 289, 290, 291 y 296 segunda y tercera parte, del Código Penal para el Estado Libre y Soberano de Oaxaca, en vigor.
 
-PARRICIO, previsto en el artículo 306 y sancionado por el 307.
+PARRICIDIO, previsto en el artículo 306 y sancionado por el 307.
 
 INFANTICIDIO, previsto en el artículo 308 y sancionado por el 309, primera parte.
 
-SECUESTRO, previsto en el artículo 348, con excepción de la segunda parte de la fracción V.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2002)</small>
+
+SECUESTRO, previsto en los artículos 348 y 348 BIS.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
+TRAFICO DE MENORES, previsto por los artículos 348 BIS A y 348 BIS C.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
+DESAPARICION FORZADA DE PERSONAS, previsto por el artículo 348 BIS D.
 
 ROBO CALIFICADO, previsto en el artículo 349, en relación con los artículos 354 y 355, cuando se realice en cualquiera de las circunstancias señaladas en los artículos 359, 362 fracción V, 369 fracción I y VIII, 357 fracción I y fracción II segunda parte y 357 BIS.
 
@@ -375,7 +385,9 @@ TORTURA, previsto en los artículos 2, 3, 4, de la Ley Estatal para Prevenir y S
 
 DELITOS ELECTORALES, previstos en los artículos 395 y 398 del Código Penal para el Estado Libre y Soberano de Oaxaca.
 
-LA TENTATIVA, a que se refiere el artículo 10 fracción II y 57 primer párrafo en relación con los delitos previstos por los artículos 140, 141, 155, 195, 208 fracciones XXIII, XXIV y XXXVIII, 246, 247, 248, 269, 270, 285, 307, 309 primera parte 348 con excepción de la segunda parte de la Fracción V, 349 en relación con los artículos 354 y 355, cuando concurran cualquiera de las circunstancias señaladas en los artículos 359, 362 fracción V, 369 fracciones I y VIII, 357 fracción I y fracción II segunda parte, 357 BIS, 372, 373 fracción III, y 383 BIS, en relación con las fracciones II y III.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2002)</small>
+
+LA TENTATIVA, a que se refiere el artículo 10 fracción II y 57 primer párrafo en relación con los delitos previstos por los artículos 140, 141, 155, 195, 208 fracciones XXIII y XXIV y XXXVIII, 246, 247, 248, 269, 270, 285, 307, 309 primera parte, 348, 348 BIS, 348 BIS A, 348 BIS C y 348 BIS D, 349 en relación con los artículos 354 y 355, cuando concurran cualquiera de las circunstancias señaladas en los artículos 359, 362 fracción V, 369 fracciones I y VIII, 357 fracción I y fracción II segunda parte, 357 BIS 372, 373 fracción II, y 383 BIS, en relación con las fracciones II y III.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -1893,7 +1905,7 @@ La ampliación del plazo se deberá notificar al alcaide o al Director del Reclu
 
 ###### Art. 262.
 
-Cuando la infracción cuya existencia se haya comprobado no merezca sanción corporal, por estar sancionada con medida diversa, se dictará auto con todos los requisitos del de formal prisión, sujetando a proceso a la persona contra quien aparezca datos suficientes para presumir su responsabilidad, para el solo efecto de señalar el ílicito por el cual se ha de seguir el proceso.
+Cuando la infracción cuya existencia se haya comprobado no merezca sanción corporal, por estar sancionada con medida diversa, se dictará auto con todos los requisitos del de formal prisión, sujetando a proceso a la persona contra quien aparezca datos suficientes para presumir su responsabilidad, para el solo efecto de señalar el ilícito por el cual se ha de seguir el proceso.
 
 Si el inculpado se encontrare detenido, el término para dictar el auto a que se refiere éste artículo, se contará exactamente en la misma forma que el que se establece para dictar auto de reclusión preventiva en el Artículo 260. Si el inculpado no hubiere sido detenido, el auto de sujeción a proceso se dictará dentro de las cuarenta y ocho horas siguientes a la en que se le haya tomado su declaración preparatoria o conste en autos su deseo de no declarar.
 
@@ -3591,7 +3603,7 @@ IV.- Los autos de formal prisión; los de sujeción a proceso, los de falta de e
 
 V.- Los autos en que se conceda o niegue la libertad provisional bajo caución; los que concedan o nieguen la libertad por desvanecimiento de datos y los que resuelvan algún incidente no especificado;
 
-VI.- El auto en que se niegue la incoacción del procedimiento; el en que se niegue la orden de aprehensión y el en que se niegue la citación para preparatoria. Estos autos sólo son apelables por el Ministerio Público;
+VI.- El auto en que se niegue la incoacción (sic) del procedimiento; el en que se niegue la orden de aprehensión y el en que se niegue la citación para preparatoria. Estos autos sólo son apelables por el Ministerio Público;
 
 > <small>(ADICIONADA, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -4052,3 +4064,7 @@ P.O. 15 DE SEPTIEMBRE DE 2001.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los procedimientos de carácter civil que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 1 DE ABRIL DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
