@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-regula-el-aprovechamiento-tecnico-de-pastizales-5048"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-18"
-last_updated: "1975-12-18"
+last_updated: "1981-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY QUE REGULA EL APROVECHAMIENTO TECNICO DE PASTIZALES
 
-LEY QUE REGULA EL APROVECHAMIENTO TECNICO DE PASTIZALES
+LEY QUE REGULA EL APROVECHAMIENTO TÉCNICO DE PASTIZALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 1981.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 18 de diciembre de 1975.
 
@@ -91,7 +91,7 @@ II.- Asesorar en el manejo y la construcción de instalaciones adecuadas para la
 
 III.- Establecer estrecha coordinación y participar en los estudios que los Centros de Investigación realicen sobre manejo de pastizales.
 
-IV.- En coordinación con los Centros de Investigación: Instituto de Investigaciones Agrícolas (I.N.I.A.).- Instituto de Investigaciones Pecuarias (I.N.I.P.).- Instituto de Investigaciones Forestales (I.N.I.F.).
+IV.- En coordinación con los Centros de Investigación: Instituto de Investigaciones Agrícolas (I.N.I.A.).-Instituto de Investigaciones Pecuarias (I.N.I.P.).- Instituto de Investigaciones Forestales (I.N.I.F.).
 
 Centro de Investigaciones Zonas Aridas, otros que llegarán a crearse, organismos de productores, servicios de extensión y dependencias oficiales del ramo, desarrollarán en forma permanente a través de todos los medios posibles una intensiva campaña de difusión hacia todos los sectores del Estado especialmente los sectores agropecuarios, resaltando las ventajas que tiene la preservación y mejoramiento de los pastizales en los aspectos ecológicos, social y económico.
 
@@ -99,7 +99,7 @@ V.- Llevar a cabo los estudios para definir la carga animal adecuada que corresp
 
 VI.- Elaborar los manuales y Reglamentos necesarios para explicar y aplicar la metodología para determinar los coeficientes de agostadero, o ampliar la metodología que ya existe a nivel Nacional.
 
-VII.- Todas las demás que señalen esta Ley y su Reglamento.
+VII.- Todas las demás que señalen en esta Ley y su Reglamento.
 
 DE LAS LICENCIAS DE EXPLOTACION GANADERA
 
@@ -121,11 +121,13 @@ Para fines de la presente Ley, la carga animal se ponderará en términos de uni
 
 Los beneficiarios de las licencias de explotación ganadera, tienen obligación de proteger adecuadamente sus pastizales, pues de lo contrario serán sujetos a las sanciones que se establecen en esta Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 1981)</small>
+
 ###### ARTICULO 11.
 
-La vigilancia del mantenimiento en buena condición del pastizal y por supuesto de la carga animal establecida en la licencia de explotación ganadera, se llevará a cabo principalmente a través de visitas de inspección y excepcionalmente recuentos de ganado que periódicamente realice el personal especializado del Departamento de Pastizales.
+La vigilancia del mantenimiento en buena condición del pastizal y por supuesto de la carga animal establecida en la licencia de explotación ganadera, se llevará a cabo principalmente a través de visitas de inspección y recuentos de ganado que realice el personal especializado del Departamento de Pastizales, señalando si es necesario se reduzca la carga animal.
 
-El recuento de ganado procederá cuando el propietario de la licencia de explotación ganadera, manifieste que no ha sobrepasado la carga animal indicada en el predio con un número superior de cabezas de ganado, al que se la ha señalado situación que no impedirá que se determine reduzca la carga animal.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE FEBRERO DE 1981)</small>
 
 ###### ARTICULO 12.
 
@@ -139,9 +141,15 @@ Cuando se compruebe que un técnico del Departamento de Manejo de Pastizales del
 
 En el Reglamento de esta Ley, se establecen los términos para definir cuando debe declararse la existencia de sobrecarga animal en un predio y mal manejo en general del mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 1981)</small>
+
 ###### ARTICULO 15.
 
-Los interesados podrán solicitar a la Dirección General de Agricultura y Ganadería, ampliaciones de la cuota de carga animal establecidos en su licencia de explotación haciendo su solicitud por escrito y argumentando fundadamente su petición en los términos del Reglamento de esta Ley. La Dirección General de Agricultura y Ganadería someterá a consideración del Departamento del Manejo de Pastizales dicha solicitud, para que los técnicos del mismo dictaminen la nueva calificación del predio, en función de los trabajos realizados sobre el mejoramiento de los pastizales, siguiendo el procedimiento del Artículo anterior.
+Los interesados podrán solicitar a la Dirección General de Agricultura y Ganadería, ampliaciones de la cuota de carga animal establecidos en su licencia de explotación haciendo su solicitud por escrito y argumentando fundadamente su petición en los términos del Reglamento de esta Ley. La Dirección General de Agricultura y Ganadería someterá a consideración del Departamento del Manejo de Pastizales dicha solicitud, para que los técnicos del mismo dictaminen la nueva calificación del predio, en función de los trabajos realizados sobre el mejoramiento de los pastizales.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1981)</small>
+
+En el caso particular de los ejidos, el personal del Departamento de Pastizales tomará en cuenta la opinión de la Asamblea General, en lo referente a la capacidad de su agostadero y el incremento en la carga animal.
 
 ###### ARTICULO 16.
 
@@ -151,7 +159,7 @@ DE LA INVESTIGACION Y EDUCACION
 
 ###### ARTICULO 17.
 
-El Departamento de Manejo de Pastizales del Estado de Durango en coordinación con Institutos Nacionales de Investigaciones Pecuarias, Agrícolas y Forestales de la Secretaría de Agricultura y Ganadería, dearrollarán (sic) intensivamente y en forma permanente un programa especial de investigación sobre manejo de pastizales en sus aspectos científico y técnico relacionados con la conservación, restauración, fomento y aprovechamiento de este recurso y divulgará los resultados obtenidos a través de todos los medios de difusión que sean posibles.
+El Departamento de Manejo de Pastizales del Estado de Durango en coordinación con Institutos Nacionales de Investigaciones Pecuarias, Agrícolas y Forestales de la Secretaría de Agricultura y Ganadería, desarrollarán intensivamente y en forma permanente un programa especial de investigación sobre manejo de pastizales en sus aspectos científico y técnico relacionados con la conservación, restauración, fomento y aprovechamiento de este recurso y divulgará los resultados obtenidos a través de todos los medios de difusión que sean posibles.
 
 ###### ARTICULO 18.
 
@@ -175,9 +183,11 @@ INFRACCIONES Y SANCIONES
 
 Cuando los productores tengan en sus predios exceso de carga animal, según el dictamen de los técnicos del Departamento de Manejo de Pastizales, dispondrán de un plazo máximo de dos meses contados a partir de la primera calificación del predio ganadero sea particular, de colonia agropecuaria, ejidal o comunal, para que reduzca el número de unidades a la carga animal que se establece originalmente en su licencia. La determinación del plazo estará en función del tamaño del predio, del número de cabezas que sobrepasen la carga animal y de otros criterios que se establecen en el Reglamento de la presente Ley. El cambio de propietario del predio no modificará lo que se dispone en este Artículo.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1981)</small>
+
 ###### ARTICULO 23.
 
-Si vencido este plazo, continúa la existencia de sobrecarga animal, el Gobierno del Estado multará al propietario del ganado con la cantidad de $1,000.00 a $2,000.00 por cada cabeza de ganado excedente, sea este mayor o menor, y previo dictamen definitivo del Departamento de Manejo de Pastizales, en caso de no liquidar la multa en un término de 5 días, se procederá de conformidad con la Ley Económico-Coactiva, vigente en el Estado. El propietario del ganado tendrá oportunidad de seleccionar los animales que serán objeto de la adjudicación.
+Si vencido este plazo, continúa la existencia de sobrecarga animal, el Gobierno del Estado multará al propietario del ganado con la cantidad de $1,000.00 a $2,000.00 por cada cabeza de ganado excedente, sea este mayor o menor, y previo dictamen definitivo del Departamento de Manejo de Pastizales, en caso de no liquidar la multa en un término de 5 días, se procederá de conformidad con la Ley Económico-Coactiva, vigente en el Estado.
 
 ###### ARTICULO 24.
 
@@ -193,7 +203,7 @@ El Gobierno del Estado, a través de la Dirección General de Agricultura y Gana
 
 ###### ARTICULO 27.
 
-A los afectados por es (sic) presente Artículo, se les aplicará en lo conducente el Artículo 23 de la presente Ley en lo que se refiere al exceso de carga animal, y el resto de los animales deberán ser desalojados por el afectado en un plazo no mayor de sesenta días. Vencido este plazo, se procederá en los términos del Artículo 23 de la presente Ley y los fondos que se obtengan serán destinados al fomento de obras de pastizales en el Estado.
+A los afectados por el presente Artículo, se les aplicará en lo conducente el Artículo 23 de la presente Ley en lo que se refiere al exceso de carga animal, y el resto de los animales deberán ser desalojados por el afectado en un plazo no mayor de sesenta días. Vencido este plazo, se procederá en los términos del Artículo 23 de la presente Ley y los fondos que se obtengan serán destinados al fomento de obras de pastizales en el Estado.
 
 ###### ARTICULO 28.
 
@@ -232,3 +242,9 @@ Dado en el Palacio del Poder Ejecutivo, en Victoria de Durango, Dgo., a los diec
 El Gobernador Constitucional del Estado, HECTOR MAYAGOITIA DOMINGUEZ.- Rúbrica.
 
 El Secretario General de Gobierno, Lic. CARLOS GALINDO MARTINEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE FEBRERO DE 1981.
+
+UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
