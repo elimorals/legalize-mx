@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "1998-12-05"
+last_updated: "1998-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1998.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -541,7 +541,7 @@ VI.- Designar con la aprobación del Ayuntamiento, a los miembros de los Consejo
 
 VII.- Tomar la protesta legal, a los funcionarios municipales que conforme a la ley deban otorgarla ante él, en los siguientes términos:
 
-"¿protesta usted desempeñar con eficiencia, lealtad y patriotismo, el cargo de . . . que en este acto le confiero, cumpliendo para ello todas las disposiciones legales que nos rigen. si así no lo hiciera, que el estado y el municipio os lo demanden";
+"¿protesta usted desempeñar con eficiencia, lealtad y patriotismo, el cargo de . . . que en este acto le confiero, cumpliendo para ello todas las disposiciones legales que nos rigen, si así no lo hiciera, que el estado y el municipio os lo demanden";
 
 VIII.- Conceder licencias por causa justificada y con goce de sueldo, a los funcionarios y empleados al servicio del Municipio, hasta por el término de diez días; y sin goce de sueldo hasta por treinta días;
 
@@ -781,7 +781,7 @@ II.- Los Comisarios de Policía.
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1998)</small>
 
-la elección se realizará de acuerdo con lo establecido en el artículo 44 de este Código, por planillas en que se mencionen los nombres y apellidos de propietarios y suplentes.
+La elección se realizará de acuerdo con lo establecido en el artículo 44 de este Código, por planillas en que se mencionen los nombres y apellidos de propietarios y suplentes.
 
 ###### ARTICULO 38.
 
@@ -1097,7 +1097,7 @@ IX.- Llevar los trámites necesarios para que se otorgue dispensa de edad y para
 
 X.- Formular la lista, de personas que estén en aptitud de ser nombrados por el Ayuntamiento, como miembros del Consejo Local de Tutelas;
 
-XI.- Coordinar las actividades de las juntas municipales y las comisarías de policia y comunicarles los acuerdos y órdenes del Presidente Municipal y del Ayuntamiento;
+XI.- Coordinar las actividades de las juntas municipales y las comisarías de policía y comunicarles los acuerdos y órdenes del Presidente Municipal y del Ayuntamiento;
 
 XII.- Atender las consultas, sobre interpretación de leyes, reglamentos o circulares que deban aplicar las autoridades municipales y auxiliar a las demás dependencias del Municipio, en la atención de los juicios de amparo que se promuevan;
 
@@ -1231,7 +1231,7 @@ VIII.- Las demás que le otorguen las leyes, reglamentos y manuales de organizac
 
 ###### ARTICULO 69.
 
-La Policia Municipal se instituye para proveer a la seguridad, tranquilidad, moralidad y orden públicos en la comunidad y a la preservación de los derechos del individuo y en consecuencia:
+La Policía Municipal se instituye para proveer a la seguridad, tranquilidad, moralidad y orden públicos en la comunidad y a la preservación de los derechos del individuo y en consecuencia:
 
 I.- Estará organizada y funcionará conforme a su propia Ordenanza y Bando aprobados por el Ayuntamiento y tendrá como normas reguladoras de su actuación la disciplina interna y externa, la organización jerárquica, el espíritu de cuerpo y la vocación de servicio;
 
@@ -1883,11 +1883,7 @@ CONCEPTO: MINIMA MÁXIMA
 
 2. Box y lucha 10% 18%
 
-3. Carreras: De caballos, perros,
-
-automóviles, motocicletas, bicicletas
-
-y otras: 10% 18%
+3. Carreras: De caballos, perros, automóviles, motocicletas, bicicletas y otras: 10% 18%
 
 4. Cinematográficos: 4% 8%
 
@@ -1895,9 +1891,7 @@ y otras: 10% 18%
 
 6. Corridas de toros y peleas de gallos: 10% 18%
 
-7. Espectáculos teatrales, revistas,
-
-variedades, conciertos y conferencias: 4% 8%
+7. Espectáculos teatrales, revistas, variedades, conciertos y conferencias: 4% 8%
 
 8. Exhibiciones y concursos: 8% 15%
 
@@ -2725,19 +2719,23 @@ V.- Arresto hasta por treinta y seis horas.
 
 Primero.- Se abroga el Código Municipal para el Estado de Chihuahua, que entró en vigor el 30 de septiembre de 1982.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-Segundo.- Este Código entrará en vigor el día primero de enero de 1996, a excepción del Capítulo Tercero, del Título Tercero, del libro Segundo, referente a el impuesto predial, el cual entrará en vigor el día primero de enero de 1999, a efecto de que los Municipios adecúen sus valores, en los términos de la Ley de Catastro, continuando vigentes a este respecto durante 1996, 1997 y 1998, las disposiciones contenidas en el Código que se abroga.
+Segundo.- Este Código entrará en vigor el día primero de enero de mil novecientos noventa y seis, a excepción del capítulo tercero, del título tercero, del libro segundo, referente al Impuesto Predial, el cual entrará en vigor el día primero de enero del año dos mil, a efecto de que los municipios adecúen sus valores, en los términos de la Ley de Catastro, continuando vigentes a este respecto durante 1996, 1997, 1998 y 1999, las disposiciones contenidas en el Código que se abroga.
 
-En cuanto a las diferencias del impuesto a cargo de los contribuyentes, que resulten con motivo de la adecuación de valores y la aplicación de la nueva tarifa, se apegarán en un lapso de dos años, de la manera siguiente:
+En cuanto a las diferencias del impuesto a cargo de los contribuyentes que resulten con motivo de la adecuación de valores y la aplicación de la nueva tarifa se pagarán en un lapso de dos años, de la manera siguiente:
 
-I.- En 1999, el cincuenta por ciento de la diferencia; y,
+I.- En el año 2000, el cincuenta por ciento de la diferencia; y,
 
-II.- En el año 2000, el resto del total de la diferencia.
+II.- En el año 2001, el resto del total de la diferencia.
 
-Lo anterior, sin perjuicio de los incrementos acordados por el Ayuntamiento con carácter general, los que deriven de nuevas construcciones que aumentarán el valor de los inmuebles y aquellos que provengan de reformas a las disposiciones legales aplicables.
+Lo anterior, sin perjuicio de los incrementos acordados por el Ayuntamiento con carácter general, los que deriven de nuevas construcciones que aumentarán el valor de los inmuebles de aquellos que provengan de reformas a las disposiciones legales aplicables.
 
 Tercero.- Mientras no se expidan los nuevos reglamentos a que se refiere este Código, continuarán en vigor los que hasta la fecha se hubieran expedido en lo que no contravengan al presente Código.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+Cuarto.- Las Asociaciones Religiosas constituidas de conformidad a lo dispuesto por la ley de la materia, estarán exentas de pagar el Impuesto Predial causado por los bienes inmuebles que se encuentren dentro de su patrimonio y que se destinen a los fines de las Asociaciones, así como el Impuesto de Traslación de Dominio que se genere por los bienes inmuebles de las mismas características que adquieran en el periodo comprendido entre el día 1° de enero de 1999 y el 31 de diciembre del mismo año, ambos impuestos establecidos en el presente Código.
 
 Dado en el Salón de Sesiones del Poder Legislativo, en la ciudad de Chihuahua, Chih., a los veintiséis días del mes de Septiembre de mil novecientos noventa y cinco.
 
@@ -2862,3 +2860,19 @@ Artículo Unico.- El presente decreto entrará en vigor al día siguiente de su 
 P.O. 5 DE DICIEMBRE DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1998.
+
+DECRETO No. 92/98 I P.O.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el primero de enero de mil novecientos noventa y nueve.
+
+P.O. 30 DE DICIEMBRE DE 1998.
+
+DECRETO No. 107/98 I P.O.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y nueve.
