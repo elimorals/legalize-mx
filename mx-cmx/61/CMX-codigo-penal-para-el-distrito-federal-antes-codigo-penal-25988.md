@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1951-01-15"
+last_updated: "1952-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ENERO DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1952.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -1774,7 +1774,7 @@ Cometen el delito de coalición: los funcionarios públicos, empleados, agentes 
 
 ### CAPITULO I. Delitos contra el comercio y la industria
 
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1952)</small>
 
 ###### ARTICULO 217.
 
@@ -2190,21 +2190,19 @@ Delitos contra la economía pública
 
 ###### ARTICULO 253.
 
-Se aplicará sanción de tres meses a tres años de prisión y multa de cincuenta a mil pesos, a quienes incurran en alguno de los hechos delictuosos que después se enumeran, además de la suspensión hasta de un año o disolución de la empresa, a juicio del juez, cuando el delincuente sea miembro o representante de ella y concurran las demás circunstancias del artículo 11 de este Código:
+Se aplicarán hasta nueve años de prisión y multas de cien a cincuenta mil pesos, a quienes incurran en algunos de los hechos delictuosos que después se enumeran, además de la suspensión hasta de un año o disolución de la empresa, a juicio del juez, cuando el delincuente sea miembro o representante de ella y concurran las demás circunstancias del artículo 11 de este Código:
 
 I.- Acaparamiento o monopolio de artículos de primera necesidad o consumo necesario con el objeto de obtener alza de los precios;
 
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+II.- Todo acto o procedimiento en contra de la libre concurrencia en la producción, industria, comercio o servicio público, en perjuicio de la colectividad o de una clase social en particular;
 
-II.- Todo acto o procedimiento en contra de la libre concurrencia en la producción, industria, comercio o servicio público;
+III.- Todo acuerdo o combinación de productores industriales, comerciantes o empresarios para evitar la competencia entre sí y obligar a los consumidores a pagar precios exagerados;
 
-III.- Todo acuerdo o combinación de productores, industriales, comerciantes o empresarios para evitar la competencia entre sí y obligar a los consumidores a pagar precios exagerados;
-
-IV.- Los actos o procedimientos que constituyan ventaja exclusiva e indebida a favor de una o varias personas determinadas y con perjuicio del público o de alguna clase social, y
+IV.- Los actos o procedimientos que constituyan ventaja exclusiva e indebida a favor de una o varias personas determinadas y con perjuicio del público de alguna clase social, y
 
 V.- Todo acto o procedimiento que de cualquier manera viole las disposiciones del artículo 28 de la Constitución Federal.
 
-Estas disposiciones se entienden sin perjuicio de lo que dispongan las Leyes Orgánica y Reglamentaria del mismo artículo 28 de la Constitución Federal.
+Estas sanciones se entienden sin perjuicio de que la autoridad administrativa tome todas las medidas de su competencia en los términos de la Ley Orgánica del artículo 28 de la Constitución Federal en materia de Monopolios.
 
 ###### ARTICULO 254.
 
@@ -3411,6 +3409,10 @@ D.O.F. 15 DE ENERO DE 1951.
 ###### ARTICULO UNICO.
 
 Estas reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1952.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
 ###### ARTICULO 2o.
 
