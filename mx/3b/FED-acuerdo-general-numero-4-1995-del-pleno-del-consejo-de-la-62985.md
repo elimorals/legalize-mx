@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-4-1995-del-pleno-del-consejo-de-la-62985
 country: "mx"
 rank: "acuerdo"
 publication_date: "1995-07-24"
-last_updated: "1995-07-24"
+last_updated: "1997-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62985&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1995-07-06"
 
 ACUERDO GENERAL NUMERO 4/1995, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACION DE SU COMISION DE RECESO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NUMERO 31/1997, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 28 DE NOVIEMBRE DE 1997, EL PRESENTE ORDENAMIENTO QUEDA DEROGADO EN LO QUE SE OPONGA AL CITADO ACUERDO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 1997.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 24 de julio de 1995.
 
@@ -62,3 +64,13 @@ CUARTO.- Las resoluciones de la Comisión de Receso se tomarán por unanimidad d
 UNICO.- Este Acuerdo entrará en vigor en la fecha de su aprobación. Publíquese el mismo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
 
 LICENCIADO ADOLFO O. ARAGON MENDIA, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL.- CERTIFICA: Que el acuerdo general número 4/1995, relativo a la creación de la comisión de receso del Consejo de la Judicatura Federal, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de seis de julio de mil novecientos noventa y cinco, por unanimidad de votos de los señores Consejeros: Presidente Ministro José Vicente Aguinaco Alemán, Alonso Galván Villagómez, Hilda Cecilia Martínez González, Mario Melgar Adalid, Ricardo Méndez Silva, Alfonso Oñate Laborde y Luis Gilberto Vargas Chávez.- México, Distrito Federal, a dieciocho de julio de mil novecientos noventa y cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 28 DE NOVIEMBRE DE 1997.
+
+PRIMERO.- Este Acuerdo entrará en vigor el dieciséis de diciembre de mil novecientos noventa y siete.
+
+SEGUNDO.- Toda disposición que se oponga al presente Acuerdo, incluido el diverso Acuerdo General número 4/1995 del propio Pleno del Consejo de la Judicatura Federal, quedará derogado en la parte conducente.
+
+TERCERO.- Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, además, comuníquese a los tribunales de Circuito y juzgados de Distrito para los efectos legales relativos.
