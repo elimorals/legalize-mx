@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2002-08-09"
+last_updated: "2003-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 2003.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -94,6 +94,8 @@ El Estado también promoverá el desarrollo de programas asistenciales, campaña
 ###### ARTICULO 6o.
 
 Todos los habitantes del Estado tienen derecho a recibir educación. Es obligación de los padres y tutores lograr que sus hijos y pupilos cursen la educación preescolar, la primaria y secundaria.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 6.
 
@@ -531,6 +533,10 @@ Para elevar el nivel social, cultural y educativo de la comunidad e impulsar la 
 
 ### CAPITULO IV. DE LA PLANEACION Y EVALUACION EDUCATIVA PARA EL DESARROLLO DEL ESTADO
 
+###### ARTICULO 7o.
+
+La educación preescolar, primaria y secundaria que imparta el Estado será gratuita, por lo que queda prohibido condicionar o restringir los derechos del educando, al pago de cuotas o cualquier tipo de contraprestación.
+
 ###### ARTICULO 50.
 
 El Ejecutivo del Estado por conducto de la Secretaría de Educación y Bienestar Social, administrará, planeará, organizará y vigilará el desarrollo educativo del Estado, en los términos de las normas federales y estatales sin menoscabo de la competencia que las leyes otorgan a otras autoridades.
@@ -962,3 +968,7 @@ P.O. 9 DE AGOSTO DE 2002.
 PRIMERO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el periódico oficial del estado.
 
 SEGUNDO: Para efecto de cumplimentar las presentes reformas, la autoridad estatal atenderá los plazos y términos previstos en las disposiciones transitorias de la reforma Constitucional Federal a los artículos 3 y 31, relativos a la obligatoriedad del preescolar.
+
+P.O. 17 DE ENERO DE 2003.
+
+Único: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
