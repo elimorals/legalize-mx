@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-para-la-promocion-comercializacion-y-venta-de-3205"
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-04-20"
-last_updated: "1991-06-20"
+last_updated: "2001-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "BCS"
 
 REGLAMENTO PARA LA PROMOCION, COMERCIALIZACION Y VENTA DE INMUEBLES, CONDOMINIOS E INMUEBLES EN TIEMPO COMPARTIDO
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 1991.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO MUNICIPAL PARA LA PROMOCION DE LA PRESTACION DEL SERVICIO TURISTICO BAJO LA MODALIDAD DE TIEMPO COMPARTIDO Y SIILARES, PUBLICADO EN EL B.O. DE 31 DE ENERO DE 2001, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: DEROGADO
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 20 de abril de 1990.
 
@@ -328,3 +330,17 @@ SECRETARIO GENERAL.
 B.O. 20 DE JUNIO DE 1991.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+
+B.O. 31 DE ENERO DE 2001.
+
+###### ARTICULO PRIMERO.
+
+Este reglamento entrara en vigor, al día siguiente de su ubicación en el boletín oficial del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+Se Deroga el Reglamento para la Promoción, Comercialización y Venta de Inmuebles, Condominios, e Inmuebles de Tiempo Compartido Municipal para la Prestación del Servicio de Tiempo Compartido, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, marcado con el número nueve, con fecha del 20 de abril de 1990. Y las disposiciones que contravengan el presente.
+
+###### ARTICULO TERCERO.
+
+Se concede a las personas físicas y morales que desarrollen la actividad materia de esta reglamentación, un plazo de treinta días naturales a partir de la fecha en que entre en vigor el presente reglamento, para que regularicen sus permisos y licencias, obviamente en estricto cumplimiento con lo establecido en el presente.
