@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-notariado-del-estado-de-morelos-6652"
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-03"
-last_updated: "1989-05-10"
+last_updated: "1990-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL NOTARIADO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODIO OFICIAL: 10 DE MAYO DE 1989.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 1990.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el 3 de agosto de 1983.
 
@@ -67,7 +67,7 @@ La vigilancia del cumplimiento de esta Ley, corresponde al Ejecutivo del Estado,
 
 El Ejecutivo del Estado, en la esfera administrativa, dictará las medidas que estime pertinentes para el exacto cumplimiento de esta Ley, y para la eficaz prestación del servicio público del Notariado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 1989)</small>
 
 ###### ARTICULO 4o.
 
@@ -107,7 +107,7 @@ Las demarcaciones Notariales tendrán como finalidad atender las necesidades de 
 
 Notario es el profesional del Derecho encargado de la función pública notarial, consistente en dar forma legal a la voluntad de las partes, redactar los instrumentos adecuados a ese fín, confiriéndoles autenticidad; conservar los originales de éstos y los testimonios correspondientes. En su función, está comprendida la autenticación de hechos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 1989)</small>
 
 ###### ARTICULO 10.
 
@@ -231,11 +231,11 @@ El Ejecutivo del Estado, publicará en el Periódico Oficial, sin costo alguno p
 
 ### CAPITULO TERCERO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE MAYO DE 1989)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MAYO DE 1989)</small>
 
 #### SECCION PRIMERA. DEL EJERCICIO DEL NOTARIADO Y LA PRESTACION DEL SERVICIO; DE LOS CONVENIOS DE SUPLENCIA Y DE ASOCIACION DE NOTARIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 1989)</small>
 
 ###### ARTICULO 23.
 
@@ -301,13 +301,13 @@ III.- Explicar a los comparecientes y otorgantes, el valor y las consecuencias l
 
 IV.- Rendir un informe mensual de sus actividades al Secretario General de Gobierno.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 1989)</small>
 
 ###### ARTICULO 29.
 
 Las funciones del Notario son incompatibles con todo empleo, cargo o Comisión Públicos, con cargos Directivos de Partido, Asociaciones, Organizaciones Frentes o Coaliciones Políticas, Nacionales o Estatales, con los empleos o Comisiones de particulares, con el desempeño del mandato Judicial y con el ejercicio de la profesión de Abogado en asuntos en que haya contienda, con la de comerciante, Agente de Cambio o Ministro de Cualquier culto, salvo que goce de licencias en los términos del Artículo 103 de ésta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 1989)</small>
 
 El Notario podrá:
 
@@ -666,6 +666,10 @@ Cuando se revoque, rescinda o modifique un acto contenido en una escritura, al N
 ###### ARTICULO 73.
 
 Las enajenaciones de bienes inmuebles cuyo valor, según avalúo bancario sea mayor de treinta mil pesos y la constitución o transmisión de derechos reales estimados en más de esa suma o que garanticen un crédito por mayor cantidad que la mencionada, deberán constar en escritura pública ante Notario.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 1990)</small>
+
+Se exceptúan de la disposición contenida en el párrafo anterior, las enajenaciones de bienes inmuebles, la constitución o transmisión de derechos reales y la garantía de créditos, que podrán constar en documentos privados en los casos previstos en el tercer párrafo del Artículo 2507 y segundo párrafo del Artículo 3219 del Código Civil vigente en el Estado.
 
 ###### ARTICULO 74.
 
@@ -1271,10 +1275,16 @@ Lic. David Jiménez González
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 10 DE MAYO DE 1989.
 
 PRIMERO.- Este Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico "Tierra y Libertad" Organo Oficial del Gobierno del Estado.
 
 SEGUNDO.- En tanto se expida el Reglamento, los Notarios ejercerán sus funciones conforme a la circunscripción territorial establecida en esta Ley.
+
+P.O. 1 DE AGOSTO DE 1990.
+
+###### ARTICULO UNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "TIERRA Y LIBERTAD", Organo del Gobierno del Estado.
