@@ -4,7 +4,7 @@ identifier: "LFRSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1982-12-31"
-last_updated: "1995-05-26"
+last_updated: "1995-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFRSP"
 
 LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE DICIEMBRE DE 1995.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de diciembre de 1982.
 
@@ -82,7 +82,9 @@ IV.- El Departamento del Distrito Federal;
 
 V.- (DEROGADA POR ARTICULO OCTAVO TRANSITORIO DEL DECRETO QUE CREA LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 26 DE MAYO DE 1995)
 
-VI.- El Tribunal Superior de Justicia del Distrito Federal;
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 1995)</small>
+
+VI. El Consejo de la Judicatura del Distrito Federal;
 
 VII.- El Tribunal Fiscal de la Federación;
 
@@ -502,11 +504,11 @@ La Secretaría, el superior jerárquico y todos los servidores públicos tienen 
 
 Incurre en responsabilidad el servidor público que por sí o por interpósita persona, utilizando cualquier medio, inhiba al quejoso para evitar la formulación o presentación de quejas y denuncias, o que con motivo de ello realice cualquier conducta injusta u omita una justa y debida que lesione los intereses de quienes las formulen o presenten.
 
-> <small>(REFORMADO PRIMER PARRAFO POR ARTICULO OCTAVO TRANSITORIO DEL DECRETO QUE CREA LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 26 DE MAYO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 51.
 
-El Tribunal Superior de Justicia del Distrito Federal establecerán los órganos y sistemas para identificar, investigar y determinar las responsabilidades derivadas del incumplimiento de las obligaciones establecidas en el Artículo 47, así como para aplicar las sanciones establecidas en el presente Capítulo, en los términos de las correspondientes leyes orgánicas del Poder Judicial.
+El Consejo de la Judicatura del Distrito Federal establecerá los órganos y sistemas para identificar, investigar y determinar las responsabilidades derivadas del incumplimiento de las obligaciones establecidas en el artículo 47, así como para aplicar las sanciones establecidas en el presente capítulo.
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
 
@@ -802,9 +804,9 @@ III.- El derecho de los particulares a solicitar la indemnización de daños y p
 
 La Secretaría llevará el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos de las dependencias y entidades de la Administración Pública Federal, así como de los órganos jurisdiccionales a que se refieren las fracciones VII a IX del artículo 3o., en los términos de esta Ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO POR ARTICULO OCTAVO TRANSITORIO DEL DECRETO QUE CREA LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 26 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 1995)</small>
 
-Las atribuciones que este Título otorga a la Secretaría, se confieren en el ámbito de sus respectivas competencias, tanto al Tribunal Superior de Justicia del Distrito Federal, como a las Cámaras de Senadores y Diputados del Congreso de la Unión y Asamblea de Representantes del Distrito Federal.
+Las atribuciones que este Título otorga a la Secretaría se confieren, en el ámbito de sus respectivas competencias, tanto al Consejo de la Judicatura del Distrito Federal, como a las Cámaras de Senadores y Diputados del Congreso de la Unión y Asamblea de Representantes del Distrito Federal.
 
 Para los efectos del párrafo que antecede, las citadas autoridades conforme a la legislación respectiva, determinarán los órganos encargados de ejercer dichas atribuciones, así como los sistemas que se requieran para tal propósito.
 
@@ -985,3 +987,9 @@ PRIMERO.- La presente ley entrará en vigor el día siguiente de su publicación
 ...
 
 OCTAVO.- Se derogan los artículos 3o., 51 y 79 de la Ley Federal de Responsabilidades de los Servidores Públicos, únicamente en lo que se refiere a la Suprema Corte de Justicia.
+
+D.O.F. 12 DE DICIEMBRE DE 1995.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A los miembros del Consejo de la Judicatura del Distrito Federal en funciones a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones contenidas en el Artículo Primero del mismo, salvo la duración en el cargo, la cual se sujetará a lo previsto en el Artículo Séptimo transitorio del Decreto por el que se reforman diversos artículos de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 31 de diciembre de 1994.
