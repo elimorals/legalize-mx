@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "1991-12-30"
+last_updated: "1992-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JULIO DE 1992.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -2477,11 +2477,9 @@ En seguida se pondrán las preguntas sobre las circunstancias modificativas, obs
 
 XII.- En una columna del interrogatorio destinada a este efecto, se pondrán delante de cada pregunta, las palabras "hecho constitutivo", "circunstancia modificativa," según el carácter de la pregunta.
 
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
-
 ###### ARTICULO 331.
 
-En el caso de la fracción IV del artículo anterior, el Jurado sujetará primero a votación cuál de los dos interrogatorios es de votarse, y votará aquel que decida la mayoría. Al calce de éste y antes de las firmas se asentará la razón de la votación, expresándose el número de votos que hubieren formado la mayoría.
+En el caso de la fracción IV del artículo anterior, el Jurado sujetará primero a votación, cuál de los dos interrogatorios es de votarse, y votará aquel que decida la mayoría. Al calce de éste y antes de las firmas se asentará la razón de la votación, expresándose el número de votos que hubieren formado la mayoría.
 
 ###### ARTICULO 332.
 
@@ -2963,9 +2961,9 @@ Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, si no exc
 
 En los casos en que la pena del delito imputado rebase el término medio aritmético de cinco años de prisión, y no se trate de los delitos señalados en los siguientes párrafos de este artículo, el juzgador concederá la libertad provisional en resolución fundada y motivada, siempre que se cumpla con los siguientes requisitos:
 
-(ADICIONADA, D.O.F. 8 DE ENERO DE 1991) (REPUBLICADA, D.O.F. 9 DE ENERO DE 1991)
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1992)</small>
 
-I.- Que se garantice debidamente, a juicio del juez, la reparación del daño;
+I.- Que se garantice debidamente, a juicio del Juez, la reparación del daño. Para los efectos de esta fracción, en el caso de los delitos a que se refiere el cuarto párrafo del artículo 92 del Código Fiscal de la Federación, para la fijación de la caución, el juez estará a lo dispuesto en dicho artículo.
 
 (ADICIONADA, D.O.F. 8 DE ENERO DE 1991) (REPUBLICADA, D.O.F. 9 DE ENERO DE 1991)
 
@@ -2983,9 +2981,9 @@ IV.- Que no se trate de personas que por ser reincidentes o haber mostrado habit
 
 Para los efectos del párrafo anterior, no procederá la libertad provisional cuando se trate de los delitos previstos en los siguientes artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal: 60, 123, 124, 125, 127, 128, 132 a 136, 139, 140, 145, 146, 147, 149-Bis, 168, 170, 197, 198, 223, 265, 266, 266-Bis, 302, 307, 315-Bis, 320, 323, 324, 325, 326, 366 y 370 segundo y tercer párrafos cuando se realice en cualesquiera de las circunstancias señaladas en los artículos 372, 381 fracciones VIII, IX y X y 381-Bis.
 
-(ADICIONADO, D.O.F. 8 DE ENERO DE 1991) (REPUBLICADO, D.O.F. 9 DE ENERO DE 1991)
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
-De igual modo, para los efectos del segundo párrafo de este artículo, no se concederá el derecho de libertad provisional respecto a los delitos previstos en el artículo 84 de la Ley Federal de Armas de Fuego y Explosivos y en los artículo 102, 104, 105, 108, 109 y 115 bis del Código Fiscal de la Federación
+De igual modo, para los efectos del segundo párrafo de este artículo, no se concederá el derecho de libertad provisional respecto a los delitos previstos en el artículo 84 de la Ley Federal de Armas de Fuego y Explosivos.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
 
@@ -4222,3 +4220,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- No será exigible el requisito de querella incorporado con motivo de las reformas a los artículos 173, 282, 341 y 399-Bis del Código Penal para el Distrito Federal en Materia del Fuero Común y para toda la República en Materia de Fuero Federal, en los procedimientos ya instaurados o resueltos al día en que entre en vigor el presente Decreto.
 
 TERCERO.- Para los efectos de los artículos 405 del Código Federal de Procedimientos Penales y 562 fracción III del Código de Procedimientos Penales para el Distrito Federal, los jueces y tribunales deberán empezar a aceptar la caución consistente en garantía prendaria, una vez que se cuente con los mecanismos administrativos que se hicieron necesarios.
+
+D.O.F. 20 DE JULIO DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
