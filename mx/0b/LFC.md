@@ -4,7 +4,7 @@ identifier: "LFC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-29"
-last_updated: "1996-05-07"
+last_updated: "1999-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFC"
 
 LEY FEDERAL DE CINEMATOGRAFIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 29 de diciembre de 1992.
 
@@ -38,7 +38,9 @@ D E C R E T O
 
 LEY FEDERAL DE CINEMATOGRAFIA
 
-### CAPITULO I. DEL OBJETO DE LA LEY
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1999)</small>
+
+### CAPITULO I. Disposiciones generales
 
 ###### ARTICULO 1o.
 
@@ -50,51 +52,35 @@ El objeto de la presente Ley es promover la producción, distribución, comercia
 
 Es inviolable la libertad de realizar y producir películas.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
 ###### ARTICULO 3o.
 
-Para los efectos de esta Ley el término película comprenderá a las nacionales y extranjeras, de largo, medio y cortometraje, en cualquier formato o modalidad, conocido o por conocer, incluido el video, el videograma o cualquier otro medio que sirva para almacenar imágenes en movimiento y su audio, producidos por la industria cinematográfica.
+Se entiende por industria cinematográfica nacional al conjunto de personas físicas o morales cuya actividad habitual o transitoria sea la creación, realización, producción, distribución, exhibición, comercialización, fomento, rescate y preservación de las películas cinematográficas.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 4o.
 
-La aplicación de esta Ley corresponde al Gobierno Federal, a través de las Secretarías de Gobernación y de Educación Pública, en sus respectivos ámbitos de competencia.
+La industria cinematográfica nacional por su sentido social, es un vehículo de expresión artística y educativa, y constituye una actividad cultura primordial, sin menoscabo del aspecto comercial que le es característico. Corresponde al Poder Ejecutivo Federal la aplicación y vigilancia del cumplimiento de esta Ley y su Reglamento.
+
+Las entidades federativas y los municipios podrán coadyuvar en el desarrollo y promoción de la industria cinematográfica, por sí o mediante convenios con la Autoridad Federal competente.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 5o.
 
-La Secretaría de Gobernación tendrá las atribuciones siguientes:
+Para los efectos de esta Ley, se entiende por película a la obra cinematográfica que contenga una serie de imágenes asociadas, plasmadas en un material sensible idóneo, con o sin sonorización incorporada, con sensación de movimiento, producto de un guión y de un esfuerzo coordinado de dirección, cuyos fines primarios son de proyección en salas cinematográficas o lugares que hagan sus veces y/o su reproducción para venta o renta.
 
-I. Autorizar la exhibición pública de películas en el territorio mexicano, así como su comercialización, incluidas la renta o venta. La autorización se apegará a la clasificación que establezca el Reglamento; y
+Comprenderá a las nacionales y extranjeras, de largo, medio y cortometraje, en cualquier formato o modalidad.
 
-II. (DEROGADA, D.O.F. 7 DE MAYO DE 1996)
+Su transmisión o emisión a través de un medio electrónico digital o cualquier otro conocido o por conocer, serán reguladas por las leyes de la materia.
 
-III. Sancionar a los infractores de esta Ley o su Reglamento; y
-
-IV. Las demás que le atribuyan otras leyes.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 6o.
 
-La Secretaría de Educación Pública, a través del Consejo Nacional para la Cultura y las Artes, tendrá las atribuciones siguientes:
-
-I. Fomentar y promover la producción, distribución y exhibición de películas de alta calidad e interés nacional y la producción fílmica experimental, tanto en el país como en el extranjero, así como la realización de eventos promocionales, concursos y la entrega de reconocimientos en numerario y diplomas;
-
-II. Fortalecer, estimular y promover por medio de las actividades de cinematografía, la identidad y la cultura nacionales, considerando el carácter plural de la sociedad mexicana y el respeto irrestricto a la libre expresión y creatividad artística del quehacer cinematográfico;
-
-III. Coordinar la producción cinematográfica del sector público;
-
-IV. Coordinar las actividades del Instituto Mexicano de Cinematografía;
-
-V. Fomentar la investigación y estudios en materia cinematográfica, y decidir o, en su caso, opinar sobre el otorgamiento de becas para realizar investigaciones o estudios en dicha materia;
-
-VI. Procurar la difusión de la producción del cine nacional a los diversos niveles del sistema educativo;
-
-VII. Promover el uso del cine y el video como medios de instrucción escolar y difusión cultural extraescolar; y
-
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 1996)</small>
-
-VIII. Dirigir y administrar la Cineteca Nacional, cuyos objetivos son el rescate, conservación, protección, restauración, difusión y promoción de películas.
-
-Para el otorgamiento de las autorizaciones previstas en la fracción I del artículo anterior, los productores, distribuidores o comercializadores deberán aportar para el acervo de la Cineteca Nacional, copia de las películas, en los términos que señale el Reglamento, y
-
-IX. Las demás que le atribuyan otras leyes.
+La película cinematográfica y su negativo son una obra cultural y artística, única e irremplazable y, por lo tanto debe ser preservada y rescatada en su forma y concepción originales, independientemente de su nacionalidad y del soporte o formato que se emplee para su exhibición o comercialización.
 
 ###### ARTICULO 7o.
 
@@ -108,55 +94,405 @@ II. Haberse realizado en el marco de los acuerdos internacionales o los convenio
 
 Las películas serán exhibidas al público en su versión original y, en su caso, subtituladas en español, en los términos que establezca el Reglamento. Las clasificadas para público infantil y los documentales educativos podrán exhibirse dobladas al español.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
 ###### ARTICULO 9o.
 
-La exhibición pública de una producción cinematográfica, por cualquier medio de difusión, no deberá ser objeto de mutilación, censura o cortes por parte del exhibidor, salvo que medie la previa autorización del titular de los derechos.
+Para efectos de esta Ley se entiende como titular de los derechos de explotación de la obra cinematográfica, al productor, o licenciatario debidamente acreditado, sin que ello afecte los derechos de autor irrenunciables que corresponden a los escritores, compositores y directores, así como a los artistas, intérpretes o ejecutantes que hayan participado en ella. En tal virtud, unos u otros, conjunta o separadamente, podrán ejercer acciones ante las autoridades competentes, para la defensa de sus respectivos derechos en los términos de la Ley Federal del Derecho de Autor.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 10.
 
-Las entidades federativas y los municipios podrán coadyuvar en la promoción del desarrollo de la industria cinematográfica.
+Quienes produzcan películas cinematográficas, en cualquier forma, medio conocido o por conocer, deberán comprobar que dichas producciones cumplen fehacientemente con las leyes vigentes en materia laboral, de derechos de autor y derechos de los artistas intérpretes o ejecutantes, en caso contrario serán sujetos a las sanciones correspondientes.
 
-Los precios por la exhibición pública serán fijados libremente. Su regulación es de carácter federal.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 11.
 
-Quienes exhiban, transmitan, comercialicen o utilicen públicamente películas en cualquier forma o medio, conocido o por conocer, deberán poder comprobar que dichas producciones cumplen fehacientemente con las leyes vigentes en materia de derechos de autor y derechos de los artistas intérpretes o ejecutantes.
+Toda persona podrá participar en una o varias de las actividades de la industria cinematográfica, en sus ramas de producción, distribución, exhibición y comercialización de películas, así como en las áreas de servicios, talleres, laboratorios o estudios cinematográficos.
+
+Los integrantes de la industria cinematográfica se abstendrán de realizar todo acto que impida el libre proceso de competencia y de concurrencia en la producción, procesamiento, distribución, exhibición y comercialización de películas cinematográficas.
+
+La Comisión Federal de Competencia investigará, resolverá y sancionará, de oficio o a petición de parte, toda práctica monopólica o concentración que ocurra dentro de la industria cinematográfica nacional, sin perjuicio de lo que establece esta Ley.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 12.
 
-Los infractores de los artículos 5o., 8o. y 9o., de la presente Ley y su Reglamento serán sancionados por la Secretaría de Gobernación, según la gravedad de la falta, la intención o dolo existente y el monto de las operaciones ilícitas realizadas, con alguna o algunas de la sanciones siguientes:
+Los productores, distribuidores y exhibidores, deberán rendir los informes que les requiera la Secretaría de Gobernación, en términos del cumplimiento de la presente Ley y su Reglamento.
 
-I. Apercibimiento;
+> <small>(REFORMADA Y REUBICADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1999)</small>
 
-II. Clausura temporal o definitiva de los espacios o locales;
+### CAPITULO II. De la producción cinematográfica
 
-III. Multa de cuatrocientas a cuatro mil veces el salario mínimo general diario vigente en el Distrito Federal a la fecha en que se cometió la infracción; y
-
-IV. Retiro de las películas que se exhiban o pretendan exhibirse públicamente o se comercialicen en cualquier forma o medio, sin la autorización a que se refiere la fracción I del artículo 5o. de esta Ley.
-
-En caso de reincidencia, se podrá imponer multa hasta por el doble del monto superior marcado en la fracción III.
-
-### CAPITULO II. DE LAS AUTORIDADES COMPETENTES
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 13.
 
-En caso de que se infrinja lo dispuesto en el artículo 11, las autoridades correspondientes asegurarán los materiales que no cumplan con los requisitos legales respectivos, sin perjuicio de las sanciones penales y administrativas que procedan, de acuerdo con la legislación aplicable.
+Para los efectos de esta Ley se entiende por productor a la persona física o moral que tiene la iniciativa, la coordinación y responsabilidad de la realización de una película cinematográfica, y que asume el patrocinio de la misma. En caso de duda se estará a lo dispuesto por la Ley Federal del Derecho de Autor.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 14.
 
-Contra las resoluciones dictadas por la Secretaría de Gobernación en esta materia, se podrá interponer recurso de revisión dentro del plazo de 15 días hábiles siguientes a la fecha de su notificación.
+La producción cinematográfica nacional constituye una actividad de interés social, sin menoscabo de su carácter industrial y comercial, por expresar la cultura mexicana y contribuir a fortalecer los vínculos de identidad nacional entre los diferentes grupos que la conforman. Por tanto, el Estado fomentará su desarrollo para cumplir su función de fortalecer la composición pluricultural de la nación mexicana, mediante los apoyos e incentivos que la Ley señale.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 15.
 
-El recurso tiene por objeto revocar, modificar o confirmar la resolución impugnada. Los fallos que se dicten señalarán el acto impugnado, los fundamentos legales en que se apoye y los puntos de resolución.
+Se entenderá por película cinematográfica realizada en coproducción, aquella en cuya producción intervengan dos o más personas físicas o morales.
 
-La interposición del recurso suspenderá la ejecución de la resolución impugnada, por cuanto hace al pago de multas.
+Se considerará como coproducción internacional la producción que se realice entre una o más personas extranjeras con la intervención de una o varias personas mexicanas, bajo los acuerdos o convenios internacionales que en esta materia estén suscritos por México.
 
-El Reglamento de la presente Ley establecerá los términos y demás requisitos para la tramitación y sustanciación del recurso.
+Cuando no se tenga convenio o acuerdo, el contrato de coproducción deberá contener los requisitos que determine el Reglamento de esta Ley.
 
-### CAPITULO III. DE LA PRODUCCION, EXHIBICION Y COMERCIALIZACION
+> <small>(REFORMADA Y REUBICADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1999)</small>
 
-### CAPITULO IV. DE LAS INFRACCIONES A LA LEY
+### CAPITULO III. De la distribución
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 16.
+
+Se entiende por distribución cinematográfica a la actividad de intermediación cuyo fin es poner a disposición de los exhibidores o comercializadores, las películas cinematográficas producidas en México o en el extranjero, para su proyección, reproducción, exhibición o comercialización, en cualquier forma o medio conocido o por conocer.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 17.
+
+Los distribuidores no podrán condicionar o restringir el suministro de películas a los exhibidores y comercializadores, sin causa justificada, ni tampoco condicionarlos a la adquisición, venta, arrendamiento o cualquier otra forma de explotación, de una u otras películas de la misma distribuidora o licenciataria. En caso contrario se estará a lo dispuesto por la Ley Federal de Competencia Económica.
+
+> <small>(REFORMADA Y REUBICADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1999)</small>
+
+### CAPITULO IV. De la exhibición y comercialización
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 18.
+
+Para los efectos de esta Ley se entiende por explotación mercantil de películas, la acción que reditúa un beneficio económico derivado de:
+
+I.- La exhibición en salas cinematográficas, videosalas, transportes públicos, o cualquier otro lugar abierto o cerrado en que pueda efectuarse la misma, sin importar el soporte, formato o sistema conocido o por conocer, y que la haga accesible al público.
+
+II.- La transmisión o emisión en sistema abierto, cerrado, directo, por hilo o sin hilo, electrónico o digital, efectuada a través de cualquier sistema o medio de comunicación conocido o por conocer, cuya regulación se regirá por las leyes y reglamentos de la materia.
+
+III.- La comercialización mediante reproducción de ejemplares incorporados en videograma, disco compacto o láser, así como cualquier otro sistema de duplicación para su venta o alquiler.
+
+IV.- La que se efectúe a través de medios o mecanismos que permitan capturar la película mediante un dispositivo de vinculación para navegación por el ciberespacio, o cualquier red similar para hacerla accesible en una pantalla de computación, dentro del sistema de interacción, realidad virtual o cualquier otro medio conocido o por conocer, en los términos que establezcan las leyes de la materia.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 19.
+
+Los exhibidores reservarán el diez por ciento del tiempo total de exhibición, para la proyección de películas nacionales en sus respectivas salas cinematográficas, salvo lo dispuesto en los tratados internacionales en los cuales México no haya hecho reservas de tiempo de pantalla.
+
+Toda película nacional se estrenará en salas por un período no inferior a una semana, dentro de los seis meses siguientes a la fecha en que sea inscrita en el Registro Público correspondiente, siempre que esté disponible en los términos que establezca el Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 20.
+
+Los precios por la exhibición pública serán fijados libremente. Su regulación es de carácter federal.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 21.
+
+La exhibición pública de una película cinematográfica en salas cinematográficas o lugares que hagan sus veces, y su comercialización, incluida la renta o venta no deberá ser objeto de mutilación, censura o cortes por parte del distribuidor o exhibidor, salvo que medie la previa autorización del titular de los derechos de autor.
+
+Las que se transmitan por televisión se sujetarán a las leyes de la materia.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 22.
+
+Los servicios técnicos de copiado o reproducción de matrices de obras cinematográficas que se destinen para explotación comercial en el mercado mexicano, deberán procesarse en laboratorios instalados en la República Mexicana con excepción de las películas extranjeras que no excedan de seis copias para su comercialización, salvo las disposiciones contenidas en convenios o tratados internacionales.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 23.
+
+Con el fin de conservar la identidad lingüística nacional, el doblaje de películas extranjeras se realizará en la República Mexicana, con personal y actores mexicanos o extranjeros residentes en el país, salvo las disposiciones contenidas en convenios o tratados internacionales, y en los precisos términos del Artículo 8o. de esta Ley.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LOS INTEGRAN, D.O.F. 5 DE ENERO DE 1999)</small>
+
+### CAPITULO V. De la clasificación
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 24.
+
+Previamente a la exhibición, distribución y comercialización de las películas, éstas deberán someterse a la autorización y clasificación correspondiente, ante la autoridad competente, de conformidad a lo que establezca el Reglamento.
+
+Las que se transmitan por televisión o cualquier otro medio conocido o por conocer, se sujetarán a las disposiciones aplicables en la materia.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 25.
+
+Las películas se clasificarán de la siguiente manera:
+
+I.- “AA”: Películas para todo público que tengan además atractivo infantil y sean comprensibles para niños menores de siete años de edad.
+
+II.- “A”: Películas para todo público.
+
+III.- “B”: Películas para adolescentes de doce años en adelante.
+
+IV.- “C”: Películas para adultos de dieciocho años en adelante.
+
+V.- “D”: Películas para adultos, con sexo explícito, lenguaje procaz, o alto grado de violencia.
+
+Las clasificaciones “AA”, “A” Y “B” son de carácter informativo, y sólo las clasificaciones “C” y “D”, debido a sus características, son de índole restrictiva, siendo obligación de los exhibidores negar la entrada a quienes no cubran la edad prevista en las fracciones anteriores.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 26.
+
+La autorización y clasificación que se expida para las películas es de orden federal y su observancia es obligatoria en todo el territorio nacional.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 27.
+
+La obra cinematográfica deberá exhibirse, comercializarse, comunicarse y distribuirse al público en territorio nacional con el mismo título, salvo que el titular de los derechos autorice su modificación.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LOS INTEGRAN, D.O.F. 5 DE ENERO DE 1999)</small>
+
+### CAPITULO VI. De la importación de películas
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 28.
+
+Se facilitará la importación temporal o definitiva de bienes y servicios necesarios para la producción de películas mexicanas o extranjeras en territorio nacional.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 29.
+
+El título en español de películas cinematográficas extranjeras, o en su caso la traducción correspondiente, no deberá duplicar al de otra película que haya sido comercializada con anterioridad. En tal caso se estará a lo dispuesto en la Ley de la materia.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 30.
+
+Las películas importadas que pretendan ser distribuidas, exhibidas y comercializadas en territorio nacional, deberán sujetarse invariablemente a las disposiciones de esta Ley y su Reglamento.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LOS INTEGRAN, D.O.F. 5 DE ENERO DE 1999)</small>
+
+### CAPITULO VII. Del fomento a la industria cinematográfica
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 31.
+
+Las empresas que promuevan la producción, distribución, exhibición y/o comercialización de películas nacionales o cortometrajes realizados por estudiantes de cinematografía, contarán con estímulos e incentivos fiscales que, en su caso, establezca el Ejecutivo Federal.
+
+Así mismo, las que promuevan la exhibición en cine clubes y circuitos no comerciales de películas extranjeras con valor educativo, artístico o cultural, o las que realicen el copiado, subtitulaje o doblaje en territorio nacional, contarán con los estímulos e incentivos referidos en el párrafo precedente.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 32.
+
+Los productores que participen, por sí o a través de terceros en festivales cinematográficos internacionales, con una o varias películas, y obtengan premios o reconocimientos, contarán con estímulos que, dentro del marco legal, dicte el Ejecutivo Federal.
+
+También podrán obtener estímulos o incentivos fiscales aquellos exhibidores que inviertan en la construcción de nuevas salas cinematográficas o en la rehabilitación de locales que hubiesen dejado de operar como tales, y sean destinadas a la exhibición de cine nacional y que coadyuven a la diversificación de la oferta del material cinematográfico extranjero.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 33.
+
+Se crea un Fondo de Inversión y Estímulos al Cine, cuyo objeto será el fomento y promoción permanentes de la industria cinematográfica nacional, que permita brindar un sistema de apoyos financieros, de garantía e inversiones en beneficio de los productores, distribuidores, comercializadores y exhibidores de películas nacionales.
+
+Para administrar los recursos de este fondo se constituirá un Fideicomiso denominado: “FONDO DE INVERSION Y ESTIMULOS AL CINE” (FIDECINE).
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 34.
+
+El Fondo se integrará con:
+
+I.- La aportación inicial que el Gobierno Federal determine.
+
+II.- Los recursos que anualmente señale el Presupuesto de Egresos de la Federación.
+
+III.- Las aportaciones que efectúen los sectores público, privado y social.
+
+IV.- Las donaciones de personas físicas o morales, mismas que serán deducibles de impuestos, en términos de Ley.
+
+V.- Los productos y rendimientos que generen las inversiones que realice el fiduciario del patrimonio fideicomitido.
+
+VI.- El producto de los derechos que se generen por cinematografía conforme a la Ley Federal de Derechos, en su Artículo 19-C, Fracciones III y IV.
+
+VII.- Las sanciones pecuniarias administrativas que se apliquen con motivo de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 35.
+
+Los recursos del Fondo se destinarán preferentemente al otorgamiento de capital de riesgo, capital de trabajo, crédito o estímulos económicos a las actividades de realización, producción, distribución, comercialización y exhibición de cine nacional, bajo los criterios que establezca el Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 36.
+
+Será fideicomitente única la Secretaría de Hacienda y Crédito Público. Será fiduciaria Nacional Financiera S.N.C. o la institución que al efecto determine la fideicomitente.
+
+Serán fideicomisarios los productores, distribuidores, comercializadores y exhibidores de películas nacionales, que reúnan los requisitos que al efecto establezcan las reglas de operación y el Comité Técnico.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 37.
+
+El fideicomiso contará con un Comité Técnico que se encargará de evaluar los proyectos y asignar los recursos.
+
+Dicho Comité se integrará por: Un representante de la Secretaría de Hacienda y Crédito Público; uno del Instituto Mexicano de Cinematografía; uno por la Academia Mexicana de Ciencias y Artes Cinematográficas; uno del Sindicato de Trabajadores de la Producción Cinematográfica de la República Mexicana, uno de los productores, uno de los exhibidores y uno de los distribuidores, a través de sus organismos representativos.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 38.
+
+Serán facultades exclusivas del Comité Técnico, la aprobación de todas las operaciones que se realicen con cargo al Fondo, la aprobación del presupuesto anual de gastos, así como la selección y aprobación de los proyectos de películas cinematográficas nacionales que habrán de apoyarse.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LOS INTEGRAN, D.O.F. 5 DE ENERO DE 1999)</small>
+
+### CAPITULO VIII. De la Cineteca Nacional
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 39.
+
+Para el otorgamiento de las clasificaciones y autorizaciones previstas en el artículo 42 fracción I, los productores o distribuidores nacionales y extranjeros de obras cinematográficas deberán aportar para el acervo de la Cineteca Nacional, una copia nueva de las películas que se requieran, en cualquier formato o modalidad conocido o por conocer, en los términos que señale el Reglamento.
+
+En caso de películas cuya explotación sea con un máximo de seis copias, la Cineteca Nacional podrá optar entre recibir una copia usada o pagar el costo de una copia de calidad.
+
+Las aportaciones que se realicen en términos de este Artículo tendrán el tratamiento, para efectos fiscales, que establezcan las disposiciones en la materia.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 40.
+
+En caso de venta de negativos de películas cinematográficas nacionales al extranjero, el titular de los derechos patrimoniales correspondientes deberá entregar en calidad de depósito un internegativo de ella o ellas a la Cineteca Nacional, con objeto de evitar la pérdida del patrimonio cultural cinematográfico nacional.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LOS INTEGRAN, D.O.F. 5 DE ENERO DE 1999)</small>
+
+### CAPITULO IX. De las autoridades competentes
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 41.
+
+La Secretaría de Educación Pública tendrá las atribuciones siguientes:
+
+I.- A través del Consejo Nacional para la Cultura y las Artes:
+
+a) Fomentar y promover la producción, distribución, exhibición y comercialización de películas y la producción fílmica experimental, tanto en el país como en el extranjero, así como la realización de eventos promocionales, concursos y la entrega de reconocimientos en numerario y diplomas.
+
+b) Fortalecer, estimular y promover por medio de las actividades de cinematografía, la identidad y la cultura nacionales, considerando el carácter plural de la sociedad mexicana y el respeto irrestricto a la libre expresión y creatividad artística del quehacer cinematográfico.
+
+c) Coordinar la producción cinematográfica del sector público.
+
+d) Coordinar las actividades del Instituto Mexicano de Cinematografía.
+
+e) Dirigir y administrar la Cineteca Nacional, cuyos objetivos son el rescate, conservación, protección y restauración, de las películas y sus negativos, así como la difusión, promoción y salvaguarda del patrimonio cultural cinematográfico de la Nación. Organizar eventos educativos y culturales que propicien el desarrollo de la cultura cinematográfica en todo el territorio nacional.
+
+f) Fomentar la investigación y estudios en materia cinematográfica, y decidir o, en su caso, opinar sobre el otorgamiento de becas para realizar investigaciones o estudios en dicha materia.
+
+g) Procurar la difusión de la producción del cine nacional en los diversos niveles del sistema educativo.
+
+h) Promover el uso del cine como medio de instrucción escolar y difusión cultural extraescolar; y
+
+II.- A través del Instituto Nacional del Derecho de Autor:
+
+a) Promover la creación de la obra cinematográfica.
+
+b) Llevar el registro de obras cinematográficas en el Registro Público del Derecho del Autor, a su cargo.
+
+c) Promover la cooperación internacional y el intercambio con otras instituciones encargadas del registro de obras cinematográficas.
+
+d) Realizar investigaciones respecto de presuntas infracciones administrativas que violen las disposiciones de esta Ley y que sean de su competencia.
+
+e) Ordenar y ejecutar los actos para prevenir o terminar con la violación al Derecho de Autor y o (sic) derechos conexos contenidos en las obras cinematográficas.
+
+f) Imponer las sanciones administrativas que resulten procedentes.
+
+g) Aplicar las tarifas vigentes para el pago de regalías por la explotación de obra cinematográfica.
+
+III.- Las demás que le atribuyan otras leyes.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 42.
+
+La Secretaría de Gobernación, a través de la Dirección General de Radio, Televisión y Cinematografía, tendrá las atribuciones siguientes:
+
+I.- Autorizar la distribución, exhibición y comercialización de películas en el territorio de la República Mexicana, a través de cualquier forma o medio, incluyendo la renta o venta de las mismas.
+
+II.- Otorgar la clasificación de las películas en los términos de la presente Ley y su Reglamento, así como vigilar su observancia en todo el territorio nacional.
+
+III.- Expedir los certificados de origen de las películas cinematográficas para su uso comercial, experimental o artístico, comercializadas en cualquier formato o modalidad, así como el material fílmico generado en coproducción con otros países, en territorio nacional o en el extranjero.
+
+IV.- Vigilar que se observen las disposiciones de la presente Ley, con respecto al tiempo total de exhibición y garantía de estreno que deben dedicar los exhibidores y comercializadores en las salas cinematográficas o lugares que hagan sus veces.
+
+V.- Autorizar el doblaje en los términos y casos previstos por esta Ley y su Reglamento.
+
+VI.- Aplicar las sanciones que correspondan por infracciones a la presente Ley, así como poner en conocimiento del Ministerio Público Federal todos aquellos actos constitutivos de delito en los términos de las disposiciones legales aplicables en la materia.
+
+VII.- Las demás que le concedan otras disposiciones legales.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LOS INTEGRAN, D.O.F. 5 DE ENERO DE 1999)</small>
+
+### CAPITULO X. De las sanciones
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 43.
+
+La facultad de imponer las sanciones establecidas en esta Ley compete a la Secretaría de Educación Pública y a la Secretaría de Gobernación, sin perjuicio de aquellas que corresponda imponer a las demás dependencias de la Administración Pública Federal.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 44.
+
+Los infractores de los Artículos 27, 39 y 40 de la presente Ley, serán sancionados por la Secretaría de Educación Pública, según la gravedad de la falta, la intención o dolo existente, con las sanciones siguientes:
+
+I.- Amonestación con apercibimiento;
+
+II.- Multa de quinientos a cinco mil veces el salario mínimo general diario vigente en el Distrito Federal a la fecha en que se cometa la infracción.
+
+En caso de reincidencia, se podrá imponer multa hasta por el doble del monto superior marcado en la fracción II.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 45.
+
+Los infractores a los Artículos 8o., 17, 19 segundo párrafo, 20, 21, 23 y 25 de la presente Ley, serán sancionados por la Secretaría de Gobernación, según la gravedad de la falta, la intención o dolo existente, con las sanciones siguientes:
+
+I.- Amonestación con apercibimiento;
+
+II.- Clausura temporal o definitiva de los espacios o locales;
+
+III.- Multa de quinientos a cinco mil veces el salario mínimo general diario vigente en el Distrito Federal a la fecha en que se cometa la infracción.
+
+IV.- Multa de cinco mil a quince mil veces el salario mínimo general diario vigente en el Distrito Federal a la fecha en que se cometa la infracción, a quienes infrinjan los Artículos 8o., 17, 19 segundo párrafo, 22 y 23 de esta Ley.
+
+V.- Retiro de las películas que se exhiban o pretendan exhibirse públicamente o se comercialicen en cualquier forma o medio, sin la autorización a que se refiere la fracción I del Artículo 42 de esta Ley.
+
+En caso de reincidencia, se podrá imponer multa hasta por el doble del monto superior correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 46.
+
+Las sanciones a que se refiere la presente Ley se aplicarán conforme a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
+###### ARTICULO 47.
+
+Los afectados por las resoluciones dictadas en esta materia, podrán interponer el recurso de revisión dentro de un plazo de quince días hábiles siguientes a la fecha de su notificación, en que se resolverá en los términos de la Ley Federal de Procedimiento Administrativo.
 
 ## TRANSITORIOS
 
@@ -193,3 +529,15 @@ SEGUNDO.- Los recursos financieros y materiales con los que cuenta la Secretarí
 TERCERO.- Los derechos laborales de los trabajadores que, en su caso, pasen de una dependencia a otra con motivo de este decreto, se respetarán íntegramente.
 
 CUARTO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+D.O.F. 5 DE ENERO DE 1999.
+
+PRIMERO: Estas reformas y modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial.
+
+SEGUNDO: Se derogan todas las disposiciones que se opongan a lo establecido en esta Ley.
+
+TERCERO: El Ejecutivo Federal emitirá en el término de noventa días a partir de la publicación de la presente Ley, el reglamento correspondiente, así como el contrato de fideicomiso mediante el cual se administrarán los recursos del Fondo a que se refiere este ordenamiento.
+
+CUARTO: En el mismo término establecido en el Transitorio anterior, el Ejecutivo Federal deberá aportar los recursos que esta Ley establece en su Artículo 34, conforme al Presupuesto de Egresos para 1999.
+
+QUINTO: La Ley del Presupuesto de Egresos de la Federación de 1999, establecerá en la Partida Presupuestal correspondiente el monto de los recursos a los que se refiere la Fracción I del Artículo 34 de esta Ley.
