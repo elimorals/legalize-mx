@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-41958"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-11-30"
-last_updated: "2004-11-30"
+last_updated: "2005-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2005.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2004.
 
@@ -139,9 +139,17 @@ XIII.- Secretaría de Salud y
 
 XIV.- Secretaría de Asuntos Indígenas.
 
-Al frente de cada una de las Dependencias a que se refiere este artículo habrá un servidor público que será su Titular y se denominará respectivamente Secretario y Procurador General de Justicia.
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2005)</small>
 
-El Titular del Poder Ejecutivo ejerce una jurisdicción retenida, los servidores públicos a los que se refiere el párrafo anterior, ejercen una jurisdicción delegada.
+Al frente de cada una de las Dependencias a que se refiere este ARTICULO habrá un servidor público que será su Titular y se denominará respectivamente Secretario y Procurador General de Justicia. Para el despacho de los asuntos de la competencia de sus respectivas Dependencias, los Secretarios y el Procurador General de Justicia se auxiliarán de Directores, Jefes de Unidad, Jefes de Departamento, Jefes de Oficina y demás servidores públicos que requieran para la eficaz atención y eficiente desempeño de sus atribuciones, en los términos prescritos por la Constitución Política del Estado, la presente Ley, el Presupuesto de Egresos y las demás disposiciones legales relativas.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2005)</small>
+
+El Titular del Poder Ejecutivo ejerce una jurisdicción retenida, los demás servidores públicos a los que se refiere el párrafo anterior, ejercen una jurisdicción delegada.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2005)</small>
+
+Para auxiliar en sus funciones a los Secretarios y suplirlos en sus faltas temporales, habrá en cada dependencia los Subsecretarios que el Ejecutivo autorice. En el caso de la Secretaría General de Gobierno, habrá los Subsecretarios que se requieran para el cumplimiento de las atribuciones que a dicha dependencia competen y su nombramiento será ratificado por el Congreso del Estado, en los términos ordenados por la Constitución Política del Estado libre y Soberano de Oaxaca.
 
 ###### Artículo 18.
 
@@ -178,6 +186,8 @@ I.- Conducir la política interior del Estado y proveer lo necesario para manten
 II.- Conducir las relaciones del Poder Ejecutivo con los Poderes Legislativo y Judicial y con los Ayuntamientos;
 
 III.- Encargarse del Poder Ejecutivo, en las ausencias temporales del Gobernador del Estado que no excedan de treinta días, en los términos del artículo 70 constitucional;
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
 
 IV.- Ser el conducto para la presentación de iniciativas del Ejecutivo ante el Congrego Local y encargarse de publicar las disposiciones que sean expedidas por la Legislatura y el Gobernador del Estado;
 
@@ -231,7 +241,13 @@ XXVIII.- Establecer anualmente el calendario oficial que regirá en el Estado;
 
 XIX (sic).- Tramitar lo relacionado con los nombramientos, licencias, remociones y renuncias de los magistrados del Honorable Tribunal Superior de Justicia;
 
-XXX.- Los demás que le señalen las leyes, decretos y reglamentos.
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
+
+XXX.- Fortalecer los procesos democráticos municipales; y
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2005)</small>
+
+XXXI.- Los demás que le señalen las leyes, decretos y reglamentos.
 
 ###### Artículo 21.
 
@@ -277,7 +293,9 @@ XIX.- Ejercitar las acciones reivindicatorias y de cualquier otra índole civil 
 
 XX.- Proponer al Ejecutivo el nombramiento de los agentes del Ministerio Público y removerlos o cambiarlos de adscripción cuando las necesidades del servicio lo requieran;
 
-XXI.- Imponer al personal de la Procuraduría y al de la Policía Judicial las sanciones disciplinarias a que den lugar por faltas cometidas en el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
+
+XXI.- Imponer al personal de la Procuraduría y al de la Policía Ministerial las sanciones disciplinarias a que den lugar por faltas cometidas en el desempeño de sus funciones;
 
 XXII.- Establecer y operar el sistema de atención a víctimas y ofendidos por los delitos, y
 
@@ -331,7 +349,9 @@ VII.- Elaborar y mantener actualizado el Padrón Fiscal de Contribuyentes;
 
 VIII.- Administrar la función de catastro, formulando el Plano Catastral y el Padrón de la Propiedad Urbana y Rural en el Estado;
 
-IX.- Intervenir en las operaciones en que el Estado haga uso del crédito público;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
+
+IX.- Intervenir en las operaciones en que el Estado haga uso del crédito público. Así como llevar un registro único de obligaciones y empréstitos;
 
 X.- Coordinar financieramente las operaciones de las entidades de la Administración Pública Paraestatal y de todas aquellas que posean o exploten bienes del Estado;
 
@@ -347,9 +367,13 @@ XV.- Aclarar las observaciones que le finque el Congreso Local por conducto de l
 
 XVI.- Elaborar los estados financieros e integrar la cuenta pública y someter ésta a consideración del Gobernador del Estado, para la presentación correspondiente ante el Congreso Local en los términos señalados por la Constitución Política del Estado;
 
-XVII.- Intervenir en los juicios de carácter fiscal en que tenga interés la Hacienda Pública del Estado y resolver los recursos de oposición que le formulen los contribuyentes;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
 
-XVIII.- Sancionar las infracciones a la legislación fiscal;
+XVII.- Intervenir en los juicios de carácter fiscal que se ventilen ante cualquier tribunal, cuando tenga interés la Hacienda Pública del Estado; y, resolver los recursos administrativos que por Ley o Decreto le correspondan en la esfera de su competencia;
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
+
+XVIII.- Imponer las sanciones que correspondan por infracciones a las disposiciones fiscales;
 
 XIX.- Ejercer la facultad económica coactiva en el ámbito de sus atribuciones fiscales;
 
@@ -357,7 +381,21 @@ XX.- Establecer y operar el Sistema de Contabilidad Gubernamental de la Administ
 
 XXI.- Formular mensualmente el estado de origen y aplicación de recursos;
 
-XXII.- Los demás que le señalen las leyes, decretos y reglamentos.
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
+
+XXII.- Ejercitar las acciones y oponer las excepciones que procedan para la defensa administrativa y judicial de los derechos de la Hacienda Pública del Estado;
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2005)</small>
+
+XXIII.- Presentar, dentro del ámbito de su competencia, denuncias y formular querellas ante el Ministerio Público y ratificar las mismas. Recibir el pago por concepto de reparación del daño y en su caso, sin perjuicio del Erario Estatal, otorgar el perdón al acusado cuando proceda;
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2005)</small>
+
+XXIV.- Intervenir en los Juicios y Procedimientos relacionados con el cumplimiento de las Obligaciones derivadas de las Fianzas expedidas a favor del Estado.
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2005)</small>
+
+XXV.- Los demás que le señalen las Leyes, Decretos y Reglamentos.
 
 ###### Artículo 24.
 
@@ -405,7 +443,13 @@ XX.- Elaborar, controlar y mantener actualizado, en coordinación con la Secreta
 
 XXI.- Establecer, coordinadamente con las dependencias y entidades, Programas de Modernización y Calidad Administrativa, con el propósito de promover la eficacia y eficiencia de la Administración Pública, en los términos de los objetivos, estrategias y líneas de acción del Plan Estatal de Desarrollo.
 
-XXII.- Los demás que le señalen las leyes, decretos y reglamentos.
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
+
+XXII.- Expedir los documentos, constancias o credenciales de identificación a los servidores públicos del Poder Ejecutivo del Estado, que les permita acreditar tal carácter, supervisar, coordinar y controlar, el sistema electrónico de información gubernamental; y
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2005)</small>
+
+XXIII.- Los demás que le señalen las Leyes, Decretos y Reglamentos.
 
 ###### Artículo 25.
 
@@ -435,7 +479,9 @@ XI.- Participar en las licitaciones públicas convocadas para seleccionar a los 
 
 XII.- Participar en la formulación de las normas de contabilidad y de control en materia de programación, presupuestación, administración de recursos humanos, materiales y financieros que elaboren las dependencias normativas correspondientes;
 
-XIII.- Recibir y registrar las declaraciones patrimoniales, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
+
+XIII.- Recibir y registrar las declaraciones patrimoniales, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca;
 
 XIV.- Reglamentar y participar en el procedimiento de entrega-recepción de las oficinas de las dependencias y entidades de la Administración Pública Estatal;
 
@@ -473,13 +519,19 @@ IX.- Los demás que le señalen las leyes, decretos y reglamentos.
 
 A la Secretaría de Cultura corresponde el despacho de los siguientes asuntos:
 
-I.- Contribuir en el diseño, así como promover y ejecutar las políticas en materia cultural del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
 
-II.- Organizar y operar, de manera eficiente y eficaz, los esfuerzos institucionales de difusión del arte y promoción de las culturas;
+I.- Dirigir, planear y ejecutar las políticas en materia cultural del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
+
+II.- Organizar y operar, de manera eficiente y eficaz los esfuerzos institucionales de difusión del arte y promoción de las culturas, incluyendo la difusión, impulso y promoción de las culturas populares e indígenas;
 
 III.- Promover una efectiva vinculación de la promoción cultural con el desarrollo económico, que genere un mejoramiento constante en las condiciones de vida de las oaxaqueñas y los oaxaqueños;
 
-IV.- Procurar el acceso equitativo de toda la población al disfrute de las expresiones artísticas y las manifestaciones culturales y, con un pleno respeto por la autonomía ética, moral y creativa de las personas, facilitar la participación de toda la sociedad en su creación;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
+
+IV.- Procurar el acceso equitativo de toda la población al disfrute de las expresiones artísticas y las manifestaciones culturales y, con un pleno respeto por la autonomía, ética, moral y creatividad de las personas, facilitar la participación de toda la sociedad en su creación;
 
 V.- Investigar, promover y difundir los valores culturales y las artes, en todas sus formas y manifestaciones;
 
@@ -497,29 +549,45 @@ XI.- Fomentar, propiciar y apoyar la creación artística en todas sus formas y 
 
 XII.- Promover y difundir entre la población, la cultura local, nacional e internacional en sus expresiones artísticas, científicas y tecnológicas;
 
-XIII.- Estimular la educación artística a través de los talleres de iniciación, escritura, lectura, artes plásticas, música, artes escénicas, cine, audio, video y multimedia para niños, jóvenes y adultos;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
 
-XIV.- Organizar cursos, concursos, festivales, y otras formas de participación para enriquecer la vida cultural;
+XIII.- Estimular en todos los sectores de la población, la educación artística, formal e informal, incluyendo sin limitar la escritura, lectura, artes plásticas, música, artes escénicas, cine, audio, video, multimedia y todas aquellas manifestaciones artísticas y culturales;
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
+
+XIV.- Organizar cursos, concursos, festivales, ferias y otras formas de participación para enriquecer la vida cultural, incluyendo las actividades necesarias para organizar, promocionar y rescatar, la realización de tradiciones y festividades oaxaqueñas;
 
 XV.- Impulsar la participación ciudadana en la elaboración, promoción y divulgación de los proyectos culturales a cargo de la administración pública;
 
 XVI.- Operar un sistema de información y comunicación a fin de promover de manera oportuna, entre el público en general, la oferta y demanda culturales;
 
-XVII.- Apoyar la creación literaria, la difusión editorial y el hábito de la lectura;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
+
+XVII.- Promover la creación literaria, la difusión editorial y el hábito de la lectura;
 
 XVIII.- Establecer las políticas y lineamientos para la creación, uso y aprovechamiento de los centros y espacios culturales;
 
-XIX.- Procurar y concentrar los instrumentos jurídicos necesarios que permitan desarrollar la cooperación cultural con todo tipo de organismos e instituciones tanto públicas como privadas, nacionales o extranjeras;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
 
-XX.- Apoyar las actividades de investigación, reflexión y discusión relativas a la cultura;
+XIX.- Proponer y gestionar la creación de instrumentos jurídicos que permitan garantizar el desarrollo cultural del Estado, así como promover el desarrollo de convenios de cooperación cultural con todo tipo de organismos e instituciones, tanto públicos como privados, nacionales y extranjeros;
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
+
+XX.- Promover las actividades de investigación, reflexión y discusión relativas a la cultura;
 
 XXI.- Promover la creación y ampliación de diversas opciones de organización, administración y financiamiento, que permitan impulsar y fortalecer las actividades culturales;
 
 XXII.- Otorgar reconocimientos y estímulos al mérito de los creadores artísticos, investigadores, intérpretes o promotores culturales, mediante evaluaciones sustentadas en los principios de objetividad, imparcialidad y equidad de género;
 
-XXIII.- Desarrollar la formación y capacitación de investigadores y promotores culturales; y
+XXIII.- Desarrollar la formación y capacitación de investigadores y promotores culturales; y (sic)
 
-XXIV.- Los demás que le señalen las leyes, decretos y reglamentos.
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
+
+XXIV.- Coordinar, organizar y supervisar el funcionamiento de: las Casas de Cultura, la Biblioteca Pública Central y la Red Estatal de Bibliotecas, las Casas del Pueblo, el Centro de Iniciación Musical de Oaxaca, las diversas instituciones musicales del Gobierno del Estado, la Compañía Estatal de Danza Contemporánea, la Compañía Estatal de Danza Costumbrista, el Taller de Artes Pláticas "Rufino Tamayo", el Teatro "Macedonio Alcalá", el Teatro del Centro Cultural, la Hemeroteca Pública, el Archivo Histórico de la Entidad, la Academia de la Cultura Oaxaqueña, la Academia Oaxaqueña de la Lengua Mixteca, la Academia Oaxaqueña de la Lengua Zapoteca, el Museo Frisell, el Teatro Juárez, la Sala José Vasconcelos y los demás espacios e instituciones artísticas y culturales del Gobierno del Estado; y
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2005)</small>
+
+XXV. Los demás que le señalen las leyes, decretos y reglamentos.
 
 ###### Artículo 28.
 
@@ -973,7 +1041,9 @@ PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado. La prese
 
 SEGUNDO.- Se abroga la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca, contenida en el alcance al número 49 del Periódico Oficial publicado el 1 de diciembre de 1992, así como todas sus reformas y adiciones.
 
-TERCERO.- En todos los casos en que por la aplicación de esta ley se modifique la dependencia de adscripción de los trabajadores, sus correspondientes derechos laborales serán respetados en los términos de las disposiciones legales, reglamentarias y estatutarias relativas.
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2005)</small>
+
+TERCERO.- En todos los casos en que por la aplicación de esta ley se modifique la dependencia de adscripción de los trabajadores, sus correspondientes derechos laborales serán respetados en los términos de la Ley del Servicio civil para los Empleados del Gobierno del Estado y demás leyes aplicables, reglamentarias y estatutarias relativas.
 
 CUARTO.- Cuando una oficina pase de una dependencia a otra, el traspaso se hará incluyendo los recursos humanos y materiales que venía utilizando para la atención de los asuntos a su cargo, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, de Administración y de la Contraloría.
 
@@ -1028,3 +1098,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. CELESTINO MANUEL ALONSO ALVAREZ.
 
 AL C.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE ENERO DE 2005.
+
+UNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Ley.
