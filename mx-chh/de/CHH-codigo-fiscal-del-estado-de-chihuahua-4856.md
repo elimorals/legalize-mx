@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1992-06-20"
+last_updated: "1994-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 1994.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1289,7 +1289,9 @@ g).- Gastos de representación y viáticos que reúnan los mismos requisitos que
 
 174.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)(REPUBLICADO, P.O. 29 DE SEPTIEMBRE DE 1979)
 
-### CAPITULO V. IMPUESTO SOBRE PROFESIONES Y EJERCICIOS LUCRATIVOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE FEBRERO DE 1994)</small>
+
+### CAPITULO V. IMPUESTO SOBRE EJERCICIOS LUCRATIVOS
 
 ### CAPITULO VI. IMPUESTO SOBRE ARRENDAMIENTO Y SUB-ARRENDAMIENTO DE BIENES MUEBLES E INMUEBLES
 
@@ -1673,9 +1675,9 @@ N. DE E., LOS ARTICULOS 149 A 165, QUE INTEGRAN EL CAPITULO III DEL TITULO TERCE
 
 #### SECCION PRIMERA. OBJETO Y SUJETO
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1994)</small>
 
-175.- Son objeto de este impuesto, los ingresos en efectivo o en especie que se perciban: en el libre ejercicio de una profesión, arte, oficio, actividad técnica, deportiva o cultural; como agente de instituciones de crédito, seguros o fianzas, mediante la explotación de una patente aduanal o en cualquier otra forma análoga a las anteriores.
+175.- Son objeto de este Impuesto los ingresos que en efectivo o en especie se perciban en el libre ejercicio de un arte, oficio, actividad técnica, deportiva o cultural, como agente de instituciones de crédito, seguros o fianzas, mediante la explotación de una patente aduanal o en cualquier otra forma análoga a las anteriores.
 
 176.- Son sujetos de este impuesto las personas físicas que perciban ingresos por los conceptos señalados en el artículo anterior, por actividades efectuadas dentro del Estado de Chihuahua.
 
@@ -1693,7 +1695,9 @@ Cuando dichas personas operen organizadas en agrupaciones profesionales, asociac
 
 179.- (DEROGADO, P.O. 20 DE JUNIO DE 1992)
 
-180.- La Tesorería General del Estado podrá estimar los ingresos brutos de los sujetos de este impuesto, en los siguientes casos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 1994)</small>
+
+180.- La Dirección General de Finanzas y Administración del Estado, podrá estimar los ingresos brutos de los sujetos de este Impuesto, en los siguientes casos:
 
 I.- Cuando no presenten la declaración mensual o no lleven los libros a que están obligados.
 
@@ -1707,7 +1711,9 @@ Sobre los ingresos brutos estimados, se reconocerá como deducción única, el i
 
 #### SECCION TERCERA. OBLIGACIONES DE LOS CAUSANTES
 
-181.- Los causantes de este impuesto están obligados:
+(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 1994
+
+181.- Los causantes de este Impuesto están obligados:
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1990)</small>
 
@@ -1715,7 +1721,9 @@ I.- A efectuar el pago del impuesto dentro de los días 1° al 20 de cada mes, m
 
 II.- A firmar los documentos previstos por este capítulo bajo protesta de decir verdad.
 
-III.- A recibir las visitas de inspección y proporcionar a los visitadores de la Tesorería comisionados para efectuarlas, todos los informes y documentos que pidan para el desempeño de sus funciones.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1994)</small>
+
+III.- A recibir las visitas de inspección y proporcionar a los visitadores de la Dirección General de Finanzas y Administración comisionados para efectuarlas, todos los informes y documentos que pidan para el desempeño de sus funciones.
 
 IV.- A proporcionar a las autoridades fiscales los datos e informes que se les soliciten, dentro del plazo que para ello se les fije.
 
@@ -1729,7 +1737,9 @@ VII.- Señalar nombre y domicilio del depositario de los libros y en general de 
 
 VIII.- Conservar 5 años los libros de contabilidad, libros especiales fiscales y demás documentos probatorios y relativos a las operaciones efectuadas.
 
-182.- Las declaraciones de los causantes serán revisables por la Tesorería General del Estado. Cuando de su estudio resulte que no manifiestan los ingresos realmente percibidos, se procederá a hacer efectivas las diferencias del impuesto que corresponda, sin perjuicio de las sanciones a que haya lugar.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1994)</small>
+
+182.- Las declaraciones de los causantes serán revisables por la Dirección General de Finanzas y Administración del Estado, cuando de su estudio resulte que no manifiestan los ingresos realmente percibidos, se procederá a hacer efectivas las diferencias del impuesto que corresponden, sin perjuicio de las sanciones a que haya lugar.
 
 #### SECCION CUARTA. OBLIGACIONES DE TERCEROS
 
@@ -4284,3 +4294,9 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor el día primero de 
 P.O. 20 DE JUNIO DE 1992.
 
 UNICO.- El presente Decreto surtirá efectos a partir del día primero de enero de 1992, por lo cual, los sujetos del impuesto que hayan efectuado el pago correspondiente al mes de enero y siguientes conforme a las disposiciones que se reforman, podrán acreditarlo en la declaración posterior o solicitar su devolución.
+
+P.O. 9 DE FEBRERO DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día 1° de enero de 1994.
