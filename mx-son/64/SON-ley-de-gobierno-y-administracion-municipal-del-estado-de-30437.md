@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2004-05-20"
+last_updated: "2004-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACION MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 27 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -1927,7 +1927,9 @@ Cuando la desincorporación tenga como finalidad la enajenación o gravamen de l
 
 Los bienes del dominio privado del Municipio son imprescriptibles e inembargables, y enunciativamente comprenden los siguientes:
 
-I. Los abandonados, adjudicados al Municipio por la autoridad judicial;
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE 2004)</small>
+
+I.- Los abandonados, adjudicados al Municipio por autoridad judicial o conforme al procedimiento establecido en el artículo 196 BIS de ese ordenamiento;
 
 II. Los que resulten de la liquidación o extinción de organismos de derecho público municipal;
 
@@ -1936,6 +1938,30 @@ III. Los bienes inmuebles que adquiera o ingresen vía expropiación por causa d
 IV. Los inmuebles o muebles que adquiera el Municipio hasta en tanto no se destinen al uso común, a la prestación de un servicio público, o a alguna de las actividades que se equiparen a ésta, o de hecho se utilicen en estos fines; y
 
 V. Los bienes no comprendidos en el artículo 188 de esta Ley.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 196 Bis.
+
+La Tesorería Municipal podrá iniciar el procedimiento de declaratoria de abandono a favor del Ayuntamiento de vehículos almacenados en los espacios destinados para tales efectos, cuando:
+
+I.- Lo manifieste expresamente el propietario del vehículo ante la Tesorería Municipal;
+
+II.- El vehículo permanezca almacenado en los Depósitos Vehiculares Municipales, más de cuarenta y cinco días naturales, sin que el interesado hubiere convenido la liquidación de los créditos fiscales y sus accesorios, correspondientes, o
+
+III.- El vehículo permanezca almacenado por mas de siete días naturales sin reclamación del interesado y carezca de marcas de identificación y placas y no sea posible conocer, por los documentos al interior del mismo, el nombre de su propietario o poseedor o domicilio de éste.
+
+Se exceptúan de los anteriores supuestos, los vehículos en custodia o depósito del Municipio por disposición de la autoridad judicial, del Ministerio Público o de las autoridades fiscales.
+
+El Ayuntamiento deberá publicar regularmente en su tablón de anuncios la lista de vehículos almacenados en los espacios destinados para tales efectos con una breve descripción de los mismos y el lugar de donde fue trasladado el vehículo.
+
+En los casos de las fracciones anteriores, previamente a la declaratoria de abandono, la Tesorería dará aviso a la Procuraduría General de Justicia del Estado, la Procuraduría General de la República, la Secretaría de Hacienda del Estado y la Secretaría de Hacienda y Crédito Público para que realicen las observaciones que consideren pertinentes; y mandará publicar dos veces, con intervalo de diez días, avisos en el Boletín Oficial del Gobierno del Estado y en un periódico de circulación masiva en el Estado, concediéndose un plazo de veinte días naturales a partir de la segunda publicación para que las citadas autoridades o el interesado presenten objeciones o para que éste último liquide o convenga con el Municipio el pago de los créditos fiscales correspondientes.
+
+Concluido el plazo de veinte días señalado en el párrafo anterior sin que se hubieren presentado objeciones o se liquiden o convenga el pago de los créditos fiscales respectivos, o en el caso de la fracción I de este artículo, la Tesorería hará la declaratoria de abandono del vehículo, debiendo publicar la resolución correspondiente tanto en el Boletín Oficial del Gobierno del Estado como en un periódico de circulación masiva en el Estado y, previo avalúo efectuado por perito designado por Sindicatura, procederá a su enajenación en subasta pública, dentro de los quince días naturales siguientes a la fecha de la publicación de la resolución, ante fedatario público.
+
+Los recursos que se obtengan por la enajenación del vehículo se destinarán, en primer término, a la liquidación de los adeudos generados con el Municipio y los recursos restantes formarán parte de las (sic) Hacienda Municipal.
+
+En el procedimiento de declaratoria de abandono de vehículos a favor del Municipio, se aplicarán supletoriamente las disposiciones del procedimiento administrativo previsto en el Título Décimo Cuarto de este ordenamiento.
 
 ###### Artículo 197.
 
@@ -3703,7 +3729,7 @@ Los recursos administrativos interpuestos por particulares con fundamento en la 
 
 COMUNIQUESE AL EJECUTIVO PARA SU SANCION Y PROMULGACION.-
 
-AL MARGEN CENTRAL DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOPS.- H. CONGRESO DEL ESTADO DE SONORA.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- "CONSTITUYENTES SONORENSES DE 1917".- HERMOSILLO, SONORA, 13 DE SEPTIEMBRE DE 2001.- DIPUTADO PRESIDENTE.- C. FRANCISCO VELASCO NÚÑEZ.- RUBRICA.- DIPUTADO SECRETARIO.- C. HOMERO RIOS MURRIETA.- RUBRICA.- DIPUTADA SECRETARIA.- C. HILDELISA GONZALEZ MORALES.- RUBRICA.-
+AL MARGEN CENTRAL DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- H. CONGRESO DEL ESTADO DE SONORA.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- "CONSTITUYENTES SONORENSES DE 1917".- HERMOSILLO, SONORA, 13 DE SEPTIEMBRE DE 2001.- DIPUTADO PRESIDENTE.- C. FRANCISCO VELASCO NÚÑEZ.- RUBRICA.- DIPUTADO SECRETARIO.- C. HOMERO RIOS MURRIETA.- RUBRICA.- DIPUTADA SECRETARIA.- C. HILDELISA GONZALEZ MORALES.- RUBRICA.-
 
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL ESTADO Y SE LE DE EL DEBIDO CUMPLIMIENTO.
 
@@ -3722,3 +3748,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 B.O. 20 DE MAYO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 27 DE DICIEMBRE DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación el Boletín Oficial del Gobierno del Estado de Sonora.
+
+Artículo Segundo.- Dentro de los sesenta días naturales siguientes al de su publicación, los ayuntamientos interesados deberán remitir al Congreso del Estado, las adecuaciones pertinentes a sus correspondientes Leyes de Ingresos y Presupuestos de Ingresos, para contemplar los supuestos señalados en el presente ordenamiento.
