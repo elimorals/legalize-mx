@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-24-2002-del-pleno-del-consejo-de-la-62693"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-05-31"
-last_updated: "2002-05-31"
+last_updated: "2002-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-05-22"
 
 ACUERDO GENERAL 24/2002, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA EXCLUSION TEMPORAL DEL TURNO DE ASUNTOS NUEVOS AL PRIMER, SEGUNDO Y TERCER TRIBUNALES COLEGIADOS EN MATERIA PENAL DEL PRIMER CIRCUITO; ASI COMO A LA REDISTRIBUCION DE LOS ASUNTOS NO RELACIONADOS RADICADOS EN LOS PROPIOS ORGANOS JURISDICCIONALES FEDERALES, ENTRE LOS DEMAS TRIBUNALES COLEGIADOS DE LA MATERIA Y CIRCUITO MENCIONADOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JULIO DE 2002.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de mayo de 2002.
 
@@ -50,6 +50,8 @@ SEPTIMO.- Que los presidentes de los Tribunales Colegiados en Materia Penal del 
 En consecuencia, tomando en consideración la propuesta indicada, con fundamento en las disposiciones constitucionales y legales citadas, el Pleno del Consejo de la Judicatura Federal expide el siguiente
 
 ACUERDO
+
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO UNICO DEL ACUERDO CCNO/22/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADADO EN EL D.O.F. DE 15 DE JULIO DE 2002, SE INTERRUMPLE EL PLAZO DE EXCLUSION DE TURNO DE ASUNTOS NUEVOS AL TERCER TRIBUNAL COLEGIADO EN MATERIA PENAL DEL PRIMER CIRCUITO.</small>
 
 PRIMERO.- Se excluye temporalmente del turno de asuntos nuevos al Primer, Segundo y Tercer Tribunales Colegiados en Materia Penal del Primer Circuito.
 
@@ -82,3 +84,11 @@ PRIMERO.- Este acuerdo entrará en vigor el día siguiente de su publicación en
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 24/2002, del Pleno del Consejo de la Judicatura Federal, Relativo a la Exclusión Temporal del Turno de Asuntos Nuevos al Primer, Segundo y Tercer Tribunales Colegiados en Materia Penal del Primer Circuito; así como a la Redistribución de los Asuntos No Relacionados Radicados en los Propios Organos Jurisdiccionales Federales, entre los Demás Tribunales Colegiados de la Materia y Circuito Mencionados, fue aprobado por el propio Pleno, en sesión de veintidós de mayo de dos mil dos, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a veintidós de mayo de dos mil dos.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 15 DE JULIO DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
