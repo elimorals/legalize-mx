@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-3594
 country: "mx"
 rank: "ley"
 publication_date: "1970-12-20"
-last_updated: "1983-06-30"
+last_updated: "1984-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL GOBIERNO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 1984.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 20 de diciembre de 1970.
 
@@ -91,7 +91,9 @@ VI.- Préstamos a corto plazo;
 
 VII.- Jubilación;
 
-VIII.- Pensión por vejez;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 1984)</small>
+
+VIII.- Pensión de retiro por edad y tiempo de servicios;
 
 IX.- Pensión por invalidez;
 
@@ -585,19 +587,23 @@ No se concederá nuevo préstamo mientras permanezca insoluto el anterior. Solam
 
 Los adeudos por concepto de préstamos a corto plazo que no fueran cubiertos a su vencimiento, en el caso de la Fracción I del Artículo 51 deberán pagarse con cargo a las aportaciones del deudor; y en el caso de la Fracción II, se cargará el excedente sobre el fondo de garantía. Sin embargo, en este último caso, será exigible el crédito contra el deudor, pudiendo el Instituto acudir a los medios legales para hacer efectivo el adeudo y debiéndose abonar a dicho fondo las cantidades que se recuperen.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE AGOSTO DE 1984)</small>
+
 ### CAPITULO SEPTIMO
 
-De la Jubilación y de las Pensiones de Retiro por Vejez, Invalidez y Muerte.
+De la Jubilación y de las Pensiones de Retiro por edad y Tiempo de Servicios, Invalidez y Muerte.
 
 #### SECCION I
 
 Generalidades.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1984)</small>
+
 ###### ARTICULO 58.
 
-El derecho a jubilación y a la pensión por vejez, invalidez o muerte, nace cuando el trabajador o sus familiares derechohabientes se encuentren en los supuestos consignados en esta Ley y satisfagan los requisitos que la misma señale.
+El derecho a jubilación y a las pensiones por retiro de edad y tiempo de servicio, invalidez o muerte, nace cuando el trabajador o sus familiares derechohabientes, se encuentre (sic) en los supuestos consignados en esta Ley y satisfagan los requisitos que la misma señale.
 
-El Instituto deberá resolver la solicitud de pensión en un plazo no mayor de quince días, a partir de la fecha en que quede integrado el expediente. Dentro de los quince días inmediatos siguientes, el Oficial Mayor del Gobierno del Estado, o quien tenga esa facultad en los organismos públicos incorporados al régimen que esta Ley establece, revisará y resolverá en definitiva acerca de la solicitud de que se trata, para los efectos que expresa la primera parte del Artículo 120 de esta Ley.
+El Instituto deberá resolver la solicitud de pensión en un plazo no mayor de quince días, a partir de la fecha en que quede integrado el expediente. Dentro de los quince días inmediatos siguientes, el Oficial Mayor del Gobierno del Estado, o quien tenga esa facultad en los Organismos Públicos incorporados al régimen que esta Ley establece, revisará y resolverá en definitiva acerca de la solicitud de que se trata, para los efectos que expresa la primera parte del Artículo 120 de esta Ley.
 
 ###### ARTICULO 59.
 
@@ -633,91 +639,99 @@ Para que un trabajador pueda disfrutar de pensión, deberá cubrir previamente a
 
 Es nula toda enajenación, cesión o gravamen de las pensiones que esta Ley establece. Las devengadas o futuras serán inembargables y sólo podrán ser afectadas para hacer efectiva la obligación de ministrar alimentos por mandato judicial o para el pago de adeudos con el Instituto, con motivo de la aplicación de esta Ley.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1984)</small>
+
 ###### ARTICULO 66.
 
-A los trabajadores que tengan derecho, tanto a pensión de vejez como a pensión de invalidez, se les otorgará solamente una de ellas, a elección del interesado.
+A los trabajadores que tengan derecho, tanto a pensión de retiro por edad y tiempo de servicios como a pensión de invalidez, se les otorgará solamente una de ellas, a elección del interesado.
 
 #### SECCION II
 
 Jubilación.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 67.
 
-Tienen derecho a la jubilación los trabajadores con 30 años de servicios e igual tiempo de contribución al Instituto, en los términos de esta Ley, cualquiera que sea su edad.
+Tienen derecho a la jubilación, los trabajadores con 30 años o más de servicios e igual tiempo de contribución al Instituto, en los términos de esta Ley, cualquiera que sea su edad.
 
 La jubilación dará derecho al pago de una cantidad equivalente al 100% del sueldo regulador que se define en el Artículo 72 y su percepción comenzará a partir del día siguiente a aquel en que el trabajador hubiese disfrutado el último sueldo por haber causado baja.
 
-Sin embargo, la cuota diaria máxima para las pensiones y jubilaciones nunca será mayor de veinte veces la cuota mínima vigente en el Instituto, a que se refiere el Artículo 71.
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE AGOSTO DE 1984)</small>
 
 #### SECCION III
 
-Pensión por Vejez.
+Pensión de Retiro por Edad y Tiempo de Servicios.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 68.
 
-Tienen derecho a pensión por vejez, los trabajadores que habiendo cumplido cincuenta y cinco años de edad, tuviesen quince años de servicios como mínimo e igual tiempo de cotización al Instituto.
+Tienen derecho a pensión de retiro por edad y tiempo de servicios, los trabajadores que habiendo cumplido cincuenta y cinco años de edad, tuviesen quince años de servicios como mínimo e igual tiempo de cotización al Instituto.
 
 ###### ARTICULO 69.
 
 El cómputo de los años de servicio se hará considerando uno solo de los empleos, en los casos en que el trabajador hubiese desempeñado varios, cualquiera que fuesen; en consecuencia, para dicho cómputo se considerará por una sola vez el tiempo durante el cual haya tenido o tenga el interesado el carácter de trabajador.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1984)</small>
+
 ###### ARTICULO 70.
 
-En el cómputo final, toda fracción de más de seis meses de servicios se considerará como año completo, para los efectos del otorgamiento de la pensión.
+En el cómputo final, toda fracción de más de 6 meses de servicios se considerará como año completo, para los efectos del otorgamiento de la pensión.
 
-Cuando el trabajador que cumpla cincuenta y cinco años de edad, haya prestado servicios al Gobierno del Estado y organismos públicos incorporados durante quince años por lo menos y cotribuído al Instituto por el mismo período, la pensión se calculará aplicando el sueldo regulador a que se refiere el Artículo 72, los porcentajes que especifica la siguiente:
+Cuando el trabajador que cumpla cincuenta y cinco años de edad, haya prestado servicios al Gobierno del Estado y Organismos Públicos incorporados, durante 15 años por lo menos y cotizado al Instituto por el mismo período, la pensión se calculará aplicando el sueldo a que se refiere el Artículo 72, los porcentajes que especifica la siguiente:
 
 TABLA DE COMPUTO
 
-15 años de servicios 40 %
+15 Años de servicios …………………………………….50 %
 
-16 años de servicios 42.5 %
+16 Años de servicios …………………………………..52.5 %
 
-17 años de servicios 45 %
+17 Años de servicios …………………………………….55 %
 
-18 años de servicios 47.5 %
+18 Años de servicios …………………………………..57.5 %
 
-19 años de servicios 50 %
+19 Años de servicios …………………………………….60 %
 
-20 años de servicios 52.5 %
+20 Años de servicios ……………………………………62.5 %
 
-21 años de servicios 55 %
+21 Años de servicios …………………………………….65 %
 
-22 años de servicios 60 %
+22 Años de servicios……………………………………..67.5 %
 
-23 años de servicios 65 %
+23 Años de servicios …………………………………….70 %
 
-24 años de servicios 70 %
+24 Años de servicios …………………………………….72.5 %
 
-25 años de servicios 75 %
+25 Años de servicios …………………………………….75 %
 
-26 años de servicios 80 %
+26 Años de servicios …………………………………….80 %
 
-27 años de servicios 85 %
+27 Años de servicios …………………………………….85 %
 
-28 años de servicios 90 %
+28 Años de servicios …………………………………….90 %
 
-29 años de servicios 95 %
+29 Años de servicios …………………………………….95 %
 
-30 años de servicios 100 %
+30 Años de servicios …………………………………….100 %
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 71.
 
-La pensión total por vejez que se conceda con cargo al Instituto en ningún caso podrá ser inferior a $32.47 diarios, o en su defecto a la cuota diaria mínima que en su caso establezca el Instituto, ni podrá exceder del 100% del sueldo regulador a que se refiere el Artículo 72, aún en el caso de la aplicación concomitante de otras Leyes.
+El monto de la pensión de retiro por edad y tiempo de servicio, se determinará con los porcentajes del Artículo 70 en relación con el Artículo 72 de esta Ley.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 72.
 
-Para determinar el monto de la jubilación y de las pensiones a que se refiere este Capítulo, se tomará el último sueldo percibido por el trabajador, al cual se le denominará sueldo regulador.
+Para determinar el monto de la jubilación y de las pensiones a que se refiere este Capítulo, se tomará el último sueldo percibido por el trabajador, en los términos del Artículo 15 de esta Ley.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 73.
 
-El derecho al pago de la pensión por vejez comenzará a partir del día siguiente a aquel en que el trabajador hubiese percibido el último sueldo por haber causado baja.
+El derecho al pago de la pensión de retiro por edad y tiempo de servicios, comenzará a partir del día siguiente a aquel en que el trabajador hubiese percibido el último sueldo por haber causado baja.
 
 ###### ARTICULO 74.
 
@@ -773,9 +787,11 @@ Si el trabajador no fuere restituído a su empleo o no se le asigne otro en los 
 
 Pensión por causa de Muerte.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1984)</small>
+
 ###### ARTICULO 81.
 
-La muerte del trabajador por causas ajenas al servicio, cualquiera que sea su edad y siempre que hubiere contribuído al Instituto por más de quince años, así como la de un jubilado o la de un pensionado por vejez o invalidez, darán origen a las pensiones de viudez y de orfandad o pensiones a los ascendientes, en su caso, según lo previene esta Ley. El derecho al pago de esta pensión se iniciará a partir del día siguiente al de la muerte de la persona que haya originado la pensión.
+La muerte del trabajador por causas ajenas al servicio, cualquiera que sea su edad y siempre que hubiere cotizado al Instituto por más de quince años, así como la de un jubilado o la de un pensionado de retiro por edad y tiempo de servicios o invalidez, darán origen a las pensiones de viudez y de orfandad o pensiones a los ascendientes, en su caso, según lo previene esta Ley. El derecho a pago de esta pensión, se iniciará a partir del día siguiente al de la muerte de la persona que haya originado la pensión.
 
 ###### ARTICULO 82.
 
@@ -801,9 +817,13 @@ El monto de las pensiones se calculará aplicando las siguientes reglas:
 
 I.- Cuando el trabajador fallezca después de quince años de servicios la pensión será equivalente, durante el primer año posterior al deceso, a la que hubiese correspondido al trabajador en los términos de los Artículos 70, 71 y 72 de esta Ley. Durante los cinco años sucesivos se disminuirá en un 10% anual hasta reducirla al cincuenta por ciento de la cifra primitiva; y
 
-II.- Al fallecer un jubilado o un pensionista por vejez o invalidez, sus deudos, en el orden establecido por esta Ley, continuarán percibiendo pensión como sigue:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 1984)</small>
 
-a).- El ochenta por ciento del monto original durante el primer año.
+II.- Al fallecer un jubilado o un pensionado de retiro por edad y tiempo de servicios o invalidez, sus deudos, en el orden establecido por esta Ley, continuarán percibiendo pensión como sigue:
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1984)</small>
+
+a).- El 100% del monto original durante el primer año.
 
 b).- Del segundo en adelante se irá rebajando anualmente un diez por ciento hasta llegar a la mitad de la pensión original.
 
@@ -889,9 +909,11 @@ Para el cumplimiento de estas prestaciones el Gobierno del Estado aportará una 
 
 Esta prestación podrá proporcionarse a los trabajadores de organismos públicos, que se incorporen al Instituto.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1984)</small>
+
 ###### ARTICULO 97.
 
-Los jubilados y los pensionados por vejez, podrán disfrutar del mismo derecho, mediante una cuota mensual de $ 50.00 (CINCUENTA PESOS MONEDA NACIONAL), previa manifestación de su interés que hagan al Instituto sin que en este caso exista obligación de parte del Gobierno del Estado de aportar cuota adicional.
+Los jubilados y los pensionados de retiro por edad y tiempo de servicio o invalidez, podrán disfrutar del mismo derecho, mediante una cuota mensual de $ 50.00 (CINCUENTA PESOS 00/100 MONEDA NACIONAL), previa manifestación de su interés que hagan al Instituto sin que en este caso exista obligación de parte del Gobierno del Estado de aportar cuota adicional.
 
 ###### ARTICULO 98.
 
@@ -913,11 +935,11 @@ CAPITULO DECIMOPRIMERO
 
 Del Pago de los Funerales.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1976)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 99.
 
-Cuando fallezca un trabajador que tuviere seis meses de servicio como mínimo, un jubilado o un pensionado por vejez o invalidez, sus deudos tendrán derecho a recibir por parte del Instituto, la percepción denominada pago de funerales, la que consistirá para el primer caso señalado en el importe de tres meses de sueldo básico percibido por el trabajador en el momento del deceso y para los restantes, en noventa días de la jubilación o pensión disfrutada por el extinto, incluyendo además para gastos de funeral y de la fosa a perpetuidad hasta la cantidad de $15,000.00 (QUINCE MIL PESOS MONEDA NACIONAL), sin más trámite que la presentación del certificado de defunción y la constancia de lo erogado.
+Cuando fallezca un trabajador que tuviere 6 meses de servicios como mínimo, un jubilado o un pensionado de retiro por edad y tiempo de servicios o invalidez, sus deudos tendrán derecho a recibir por parte del Instituto, la percepción denominada Pago de Funerales, la que consistirá para el primer caso señalado en el importe de tres meses de sueldo básico percibido por el trabajador en el momento del deceso y para los restantes, en ciento veinte días de la jubilación o pensión disfrutada por el extinto, incluyendo además para gastos de funeral y de la fosa a perpetuidad hasta la cantidad de $30,000.00 (TREINTA MIL PESOS 00/100 MONEDA NACIONAL), sin más trámite que la presentación del Certificado de Defunción y la constancia.
 
 ###### ARTICULO 100.
 
@@ -1384,3 +1406,7 @@ P.O. 30 DE JUNIO DE 1983.
 DECRETO NUMERO 193.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE AGOSTO DE 1984.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
