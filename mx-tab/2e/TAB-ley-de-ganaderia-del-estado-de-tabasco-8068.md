@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-ganaderia-del-estado-de-tabasco-8068"
 country: "mx"
 rank: "ley"
 publication_date: "1959-01-28"
-last_updated: "1959-01-28"
+last_updated: "1972-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8068&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE GANADERIA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1972.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el 28 de enero de 1959.
 
@@ -317,7 +317,9 @@ ART. 61.- Todos los inspectores de ganadería serán considerados como agentes a
 
 ### CAPITULO VII. VIGILANCIA Y MOVILIZACION DEL GANADO
 
-ART. 62.- Toda conducción de ganado para afuera de su Municipio deberá ampararse con un documento denominado "Guía de Tránsito" que será expedido gratuitamente por el Inspector de Zona y, en su defecto, por los Presidentes Municipales y por conducto de la Asociación Ganadera Local respectiva. En los Municipios de Balancán y Jonuta la movilización del ganado de Ranchería a Ranchería y de éstas a otro Municipio o fuera del Estado, necesitará ampararse por la "Guía de Tránsito", debiéndose acompañar a los documentos de pago del impuesto correspondiente.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1972)</small>
+
+ART. 62.- Toda conducción de ganado para afuera de su Municipio, deberá ampararse con un documento denominado "Guía de Tránsito" que será expedido gratuitamente por el Inspector de Zona y, en su defecto, por los Presidentes Municipales y por conducto de la Asociación Ganadera Local respectiva, y por los documentos de pago de los impuestos correspondientes.
 
 ART. 63.- La Guía de Tránsito contendrá los datos siguientes: nombre del propietario remitente; finca o lugar de procedencia; nombre del conductor; nombre del destinatario y lugar de destino; número de cabezas; especie, clase, sexo, marcas, número del registro de éstas; y la conformidad expresa del propietario.
 
@@ -379,7 +381,7 @@ En el Reglamento que expida el C. Gobernador, fijarán los requisitos, condicion
 
 ART. 88.- Todo el que sacrifique ganado sin llenar los requisitos legales y justificar su legal adquisición, será considerado como presunto autor de delito de robo de ganado y se le consignará al Ministerio Público.
 
-ART. 89.- El Ejecutivo del Estado no autorizará salida de ganado al mercado nacional o extranjero, sin que previamente las asociaciones locales de ganaderos y Unión Ganadera Regional garanticen en debida forma, por escrito y de acuerdo con las normas que fije el C. Gobernador o su Representante que dejarán para el abasto público del Estado suficiente número de reses para cubrirlo. En el Reglamento respectivo se señalará el mínimo de reses que se destinen para el abasto público en los distintos municipios.
+ART. 89.- (ABROGADO [N. DE E. DEROGADO], P.O. 27 DE DICIEMBRE DE 1972)
 
 ### CAPITULO IX. SALUBRIDAD PECUARIA
 
@@ -520,3 +522,9 @@ LIC. CARLOS A. MADRAZO
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. MANUEL GURRIA ORDOÑEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE DICIEMBRE DE 1972.
+
+UNICO.- Estas reformas tendrán vigencia a partir del primero de enero del año de mil novecientos setenta y tres.
