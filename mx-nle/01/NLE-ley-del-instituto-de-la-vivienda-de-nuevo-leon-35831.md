@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-de-la-vivienda-de-nuevo-leon-35831"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2003-12-24"
+last_updated: "2004-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY DEL INSTITUTO DE LA VIVIENDA DE NUEVO LEON
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE JUNIO DE 2004 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL INSTITUTO DE LA VIVIENDA DE NUEVO LEON
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 25 DE JUNIO DE 2004.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -305,7 +305,9 @@ VI. Colaborar en la redacción del informe de la Junta de Gobierno, y
 
 VII. Las demás que establezca esta Ley, otros ordenamientos legales y el Reglamento Interior del Instituto.
 
-#### SECCIÓN TERCERA (SIC). DEL DIRECTOR GENERAL
+> <small>(F. DE E., P.O. 25 DE JUNIO DE 2004)</small>
+
+#### SECCIÓN CUARTA. DEL DIRECTOR GENERAL
 
 ###### Artículo 16.
 
@@ -347,7 +349,9 @@ XV. Proponer a la Junta de Gobierno para su aprobación, el Reglamento Interior 
 
 XVI. Las demás que establezca esta Ley, otros ordenamientos legales y el Reglamento Interior del Instituto.
 
-#### SECCIÓN CUARTA. DEL COMISARIO
+> <small>(F. DE E., P.O. 25 DE JUNIO DE 2004)</small>
+
+#### SECCIÓN QUINTA. DEL COMISARIO
 
 ###### Artículo 18.
 
