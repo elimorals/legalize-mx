@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-los-municipios-del-estado-de-baja-2949"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1986-06-10"
+last_updated: "1986-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JUNIO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 1986.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1985.
 
@@ -849,127 +849,121 @@ c).- Las tarifas que se indican con antelación, dentro del presente Capítulo, 
 
 d).- (DEROGADO, B.O. 10 DE JUNIO DE 1986)
 
-II.- Tarifa para el cobro de los sistemas de agua potable en el Municipio de Comondu: Cd. Constitución, Cadejé, San José de Guajademí, Paso Hondo, San Isidro, La Purísima, San Miguel de Comondú, San José de Comondú, San Javier, Francisco Villa, La Poza Grande, Santo Domingo, María Auxiliadora, Ignacio Zaragoza, Benito Juárez, Villa Morelos, Villa Hidalgo, Ramaditas, Josefa Ortíz de Domínguez, Palo Bola, San José de la Noria, Cd. Insurgentes, Loreto, Ligüi, San Juan Londó, San Juanico, Santo Domingo Viejo, San Luis Gonzaga, Santo Domingo Nuevo, B.C.S.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1986)</small>
 
-A).- Tarifa para aparatos medidores.
+II.- Tarifa para el cobro de los sistemas de agua potable del Municipio de Comondú.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1986)</small>
+
+A).- Tarifa para aparatos medidores, Areas Rural y Urbana por consumo mensual.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1986)</small>
 
 SERVICIO DOMESTICO.
 
-Consumo mensual en metros cúbicos.
+0 - 25 M3 $ 700.00
 
-0 hasta 35 M3 $ 441.00 (cuota mínima).
+26 - 40 M3 35.00 M3
 
-36 hasta 50 M3 $ 25.00 M3.
+41 - 65 M3 65.00 M3
 
-51 hasta 80 M3 $ 34.00 M3.
+66 - 100 M3 93.00 M3
 
-81 hasta 100 M3 $ 47.00 M3.
+Más de 100 M3 130.00 M3
 
-Más de 100 M3 $ 65.00 M3.
+Si en el mes el consumo de agua es menor de 25 M3 se cubrirá la cuota mínima de $ 700.00
 
-Si en el mes el consumo de agua es menor de 35 M3, se cubrirá la cuota mínima de $ 441.00.
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1986)</small>
 
 SERVICIO COMERCIAL.
 
-0 hasta 35 M3 $ 793.00 (cuota mínima).
+0 - 25 M3 $ 1,500.00
 
-36 hasta 50 M3 $ 36.00 M3.
+26 - 40 M3 70.00 M3
 
-51 hasta 80 M3 $ 47.00 M3.
+41 - 60 M3 125.00 M3
 
-81 hasta 100 M3 $ 54.00 M3.
+61 - 100 M3 155.00 M3
 
-Más de 100 M3 $ 72.00 M3.
+Más de 100 M3 190.00 M3
 
-Si en el mes el consumo de agua es menor de 35 M3, se cubrirá la cuota mínima de $ 793.00.
+Si en el mes el consumo de agua es menor de 25 M3 se cubrirá la cuota mínima de $ 1,500.00
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1986)</small>
 
 SERVICIO INDUSTRIAL.
 
-0 hasta 100 M3 $8,618.00 (cuota mínima).
+0 -25 M3 $ 5,000.00
 
-101 hasta 125 M3 $ 101.00 M3.
+26 - 50 M3 10,000.00
 
-126 hasta 150 M3 $ 121.00 M3.
+51 - 100 M3 220.00 M3
 
-151 hasta 250 M3 $ 137.00 M3.
+101 - 250 M3 280.00 M3
 
-251 hasta 500 M3 $ 158.00 M3.
+251 - 500 M3 350.00 M3
 
-Más de 500 M3 $ 178.00 M3.
+Más de 500 M3 430.00 M3
 
-Si en el mes el consumo de agua es menor de 100 M3, se cubrirá la cuota mínima de $ 8,618.00.
+Si en el mes el consumo de agua es menor de 25 M3 se cubrirá la cuota mínima de $ 5,000.00
 
-b).- Tarifa cuando no existen aparatos medidores en los sistemas urbanos.
+B).- Tarifa cuando no existan aparatos medidores.
 
 CUOTA FIJA MENSUAL.
 
-Servicio doméstico $ 907.00 /toma.
+Para Cd. Constitución, Cd. Insurgentes, Loreto, Puerto San Carlos y Puerto Adolfo López Mateos, B.C.S.:
 
-Servicio comercial $ 3,240.00 /toma.
+> <small>(F. DE E., B.O. 20 DE DICIEMBRE DE 1986)</small>
 
-Servicio industrial $ 9,720.00 /toma.
+Servicio Doméstico $ 700.00
 
-c).- Tarifa cuando no existen aparatos medidores en los sistemas del medio rural.
+> <small>(F. DE E., B.O. 20 DE DICIEMBRE DE 1986)</small>
 
-MUNICIPIO DE COMONDU: Cadejé, San José de Guajademí, Paso Hondo, San Isidro, La Purísima, San Miguel de Comondú, San José de Comondú, San Javier, Francisco Villa, La Poza Grande, Santo Domingo, María Auxiliadora, Ignacio Zaragoza, Benito Juárez, Villa Hidalgo, Ramaditas, Josefa Ortíz de Domínguez, Palo Bola, Villa Morelos, San José de la Noria, Ligüi, San Juan Londó, San Juanico, Santo Domingo Viejo, San Luis Gonzaga, Santo Domingo Nuevo, B.C.S.
+Servicio comercial 1,500.00
 
-Uso doméstico $ 500.00 /toma.
+Servicio industrial 5,000.00
 
-d).- Tarifa para aparatos medidores: Puerto San Carlos y Puerto Adolfo López Mateos.
+Para Benito Juárez, Zaragoza, Josefa Ortíz de Domínguez, Palo Bola, Villa Morelos, Villa Hidalgo, Santo Domingo, María Auxiliadora, La Poza Grande, Francisco Villa, Col. La Purísima, San Isidro, La Purísima, Carambuche y Ramaditas, B.C.S.
 
-SERVICIO DOMESTICO.
+> <small>(F. DE E., B.O. 20 DE DICIEMBRE DE 1986)</small>
 
-0 hasta 35 M3 $ 441.00 (cuota mínima).
+Servicio Domestico $ 700.00
 
-36 hasta 50 M3 $ 25.00 M3.
+> <small>(F. DE E., B.O. 20 DE DICIEMBRE DE 1986)</small>
 
-51 hasta 80 M3 $ 34.00 M3.
+Servicio comercial 1,500.00
 
-81 hasta 100 M3 $ 47.00 M3.
+> <small>(F. DE E., B.O. 20 DE DICIEMBRE DE 1986)</small>
 
-Más de 100 M3 $ 65.00 M3.
+Servicio industrial 5,000.00
 
-Si en el mes el consumo de agua es menor de 35 M3, se cubrirá la cuota mínima de $ 441.00.
+Para Cadejé, San Juanico, Paso Hondo, San José de Guajademí y San Javier, B.C.S.
 
-SERVICIO COMERCIAL.
+> <small>(F. DE E., B.O. 20 DE DICIEMBRE DE 1986)</small>
 
-0 hasta 35 M3 $ 793.00 (cuota mínima).
+Servicio Doméstico $ 700.00
 
-36 hasta 50 M3 $ 36.00 M3.
+> <small>(F. DE E., B.O. 20 DE DICIEMBRE DE 1986)</small>
 
-51 hasta 80 M3 $ 47.00 M3.
+Servicio comercial 1,500.00
 
-81 hasta 100 M3 $ 54.00 M3.
+> <small>(F. DE E., B.O. 20 DE DICIEMBRE DE 1986)</small>
 
-Más de 100 M3 $ 72.00 M3.
+Servicio industrial 5,000.00
 
-Si en el mes el consumo de agua es menor de 35 M3 se cubrirá la cuota mínima de $ 793.00.
+Para San José de Comondú y San Miguel de Comondú, B.C.S.
 
-SERVICIO INDUSTRIAL.
+> <small>(F. DE E., B.O. 20 DE DICIEMBRE DE 1986)</small>
 
-0 hasta 100 M3 $ 10,368.00 (cuota mínima).
+Servicio Doméstico $ 700.00
 
-101 hasta 125 M3 $ 121.00 M3.
+> <small>(F. DE E., B.O. 20 DE DICIEMBRE DE 1986)</small>
 
-126 hasta 150 M3 $ 130.00 M3.
+Servicio comercial 1,500.00
 
-151 hasta 250 M3 $ 142.00 M3.
+> <small>(F. DE E., B.O. 20 DE DICIEMBRE DE 1986)</small>
 
-251 hasta 500 M3 $ 155.00 M3.
-
-Más de 500 M3 $ 178.00 M3.
-
-Si en el mes el consumo de agua es menor de 100 M3 se cubrirá la cuota mínima de $ 10,368.00.
-
-Si no existe aparato medidor:
-
-CUOTA FIJA MENSUAL
-
-Servicio doméstico $ 1,588.00.
-
-Servicio comercial $ 4,860.00.
-
-Servicio industrial $ 11,340.00.
+Servicio industrial 5,000.00
 
 III.- Tarifas para el cobro de los sistemas de agua potable en el Municipio de Los Cabos: San José del Cabo, Buena Vista, Las Cuevas, Santa Cruz, La Ribera, Santiago, La Laguna, Santa Bárbara, San Jorge, El Zacatal, Agua Caliente, Boca de la Sierra, Miraflores, El Ranchito, Las Casitas, Caduaño, Santa Anita, Las Veredas, San Bernabé, Santa Catarina, San José Viejo, Guaymitas, Santa Rosa, El Rosario, Las Animas Altas, Las Animas Bajas, La Choya, San Vicente, La Playa, Cabo San Lucas, La Candelaria y El Zacatal, B.C.S.
 
@@ -1896,6 +1890,12 @@ LIC. ANTONIO B. MANRIQUEZ GULUARTE.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 10 DE JUNIO DE 1986.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JULIO DE 1986.
 
 ###### ARTICULO UNICO.
 
