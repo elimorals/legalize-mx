@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "1990-07-10"
+last_updated: "1991-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1991.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -229,7 +229,7 @@ IX.- Representar al Gobierno del Estado en los Juicios de Amparo;
 
 X.- Tramitar la expedición de pasaportes, en los términos de los Convenios respectivos;
 
-XI.- Vigilar y coordinar el funcionamiento de las Juntas de Mejoramiento Moral, Cívico y Material en el Estado;
+XI.- (DEROGADA, P.O. 31 DE MAYO DE 1991)
 
 XII.- Elaborar los Proyectos de Decreto de Expropiación, Ocupación Temporal y Limitación de Dominio en los casos de utilidad pública;
 
@@ -1046,5 +1046,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Los trabajadores de base que prestan servicios a la Procuraduría de Protección al Turista del Estado de Baja California, serán reubicados en la Secretaría de Turismo del Estado con pleno respeto de sus derechos laborales, los trabajadores de confianza, podrán ser reubicados a juicio del titular de la Secretaría.
 
 TERCERO.- Los recursos materiales, financieros y archivos de la Procuraduría de Protección al Turista del Estado de Baja California pasarán a la Secretaría de Turismo del Estado con las formalidades jurídicas y administrativas que procedan.
+
+P.O. 31 DE MAYO DE 1991.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 ## TITULO IV. DE LA SECTORIZACION
