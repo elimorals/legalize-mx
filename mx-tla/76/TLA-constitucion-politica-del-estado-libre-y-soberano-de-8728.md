@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1951-12-26"
+last_updated: "1952-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 1952.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -225,11 +225,11 @@ El Congreso se compondrá de Diputados electos popularmente en número no menor 
 
 La elección de Diputados será directa y en los términos que prevenga la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1934)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1952)</small>
 
 ###### Art. 23.
 
-Por cada treinta mil habitantes o fracción que exceda de veinte mil, los ciudadanos del Estado elegirán un Diputado Propietario y un Suplente.
+Por cada cuarenta mil habitantes o fracción que exceda de treinta mil, los ciudadanos del Estado elegirán un Diputado propietario y un suplente.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1934)</small>
 
@@ -831,7 +831,7 @@ I. Del producto de los impuestos que decrete el Congreso.
 
 II. Del producto de los derechos que se establezcan para cubrir los costos administrativos de servicios que los particulares demanden.
 
-III. Del producto de la enajenación o explotación de los bienes que, según las leyes, pertenezcan al Estado.
+III.- Del producto de la enajenación o explotación de los bienes que, según las leyes, pertenezcan al Estado.
 
 IV. Del producto de los aprovechamientos que pertenezcan al Estado, en forma de multas, rezagos, reintegros, donaciones etc., conforme a las leyes respectivas.
 
@@ -1084,3 +1084,7 @@ El presente decreto surtirá sus efectos a partir de esta fecha.
 P.O. 26 DE DICIEMBRE DE 1951.
 
 La presente reforma surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE SEPTIEMBRE DE 1952.
+
+La presente reforma surtirá sus efectos a partir del día de su publicación en el Periódico Oficial del Estado.
