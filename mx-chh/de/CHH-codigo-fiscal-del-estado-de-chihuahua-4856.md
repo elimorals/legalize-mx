@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1972-12-30"
+last_updated: "1973-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 1973.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -73,7 +73,9 @@ Las Recaudaciones de Rentas serán dotadas de fondos fijos de caja para su admin
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-12.- La Hacienda Pública del Estado de Chihuahua, para hacer frente a los egresos percibirá en cada ejercicio fiscal los impuestos, derechos, productos, aprovechamientos, participaciones y demás ingresos que señalen las leyes.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+12.- La Hacienda Pública del Estado de Chihuahua, para hacer frente a los egresos percibirá en cada ejercicio fiscal los impuestos, derechos, contribuciones especiales, productos, aprovechamientos, participaciones y demás ingresos que señalen las leyes.
 
 13.- Son disposiciones fiscales del Estado:
 
@@ -115,7 +117,31 @@ Días hábiles son todos aquellos no mencionados en el párrafo anterior. Horas 
 
 22.- El Ejecutivo del Estado, por conducto del Tesorero General, es la autoridad competente, en el orden administrativo, para interpretar la legislación fiscal, dictar las disposiciones que se requieran para su mejor aplicación, así como para cuidar de su exacta observancia.
 
-23.- El Tesorero General estará facultado para estimar, por los medios directos o indirectos de investigación a su alcance, los ingresos totales de los causantes que no lleven los libros y registros a que están obligados, no conserven la documentación comprobatoria de las operaciones que hubieren efectuado, o lleven su contabilidad en forma irregular.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+23.- La Tesorería General del Estado podrá determinar estimativamente los ingresos totales de los causantes en los siguientes casos:
+
+I.- Cuando omitan presentar sus declaraciones;
+
+II.- Cuando no lleven o no presenten los libros de Contabilidad, documentación comprobatoria de las operaciones que hubieren efectuado, o no proporcionen los informes que se les soliciten;
+
+III.- Cuando la contabilidad del negocio del causante adolezca de alguno de los siguientes vicios:
+
+a).- Que omita ingresos que excedan del 3% de los señalados;
+
+b).- Que omita o altere el registro de existencias que deben figurar en los inventarios, o registren dichas existencias a precios distintos de los de costo, siempre que en ambos casos el importe exceda del 3% de los ingresos declarados;
+
+c).- Que aparezca con alteraciones;
+
+d).- Que haga constar asientos, cuentas, cantidades o cualquiera otro dato falso o inexacto; o
+
+e).- Que omita el registro de facturas compras, cuyo monto exceda del 3% del importe total de las efectuadas en el ejercicio, y
+
+IV.- Por otras irregularidades en la contabilidad que imposibiliten el conocimiento de las operaciones del causante.
+
+La determinación estimativa del ingreso procederá independientemente de las sanciones a que haya lugar.
+
+La Tesorería General del Estado estimará los ingresos de los contribuyentes por los medios indirectos de la investigación económica o de cualquier otra clase.
 
 24.- Los interesados directamente en situaciones reales y concretas que planteen consultas sobre la aplicación que a las mismas deba hacerse de las disposiciones fiscales, tendrán derecho a que la Tesorería General del Estado dicte resolución sobre tales consultas. Si no se plantean situaciones reales y concretas la Tesorería se abstendrá de resolver consultas relativas a la interpretación general abstracta e impersonal de las disposiciones fiscales.
 
@@ -145,23 +171,31 @@ III.- Si ambos o todos los acreedores públicos poseen garantías reales, la pre
 
 27.- Los ingresos del Estado son ordinarios y extraordinarios.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 1973)</small>
+
 28.- Los ingresos ordinarios son aquellos que se obtienen normalmente para la atención del gasto público.
 
-Con este mismo carácter se considera el impuesto adicional del 4% sobre todos los impuestos ordinarios y derechos a que se refiere este artículo, cuyo rendimiento será destinado única y exclusivamente al sostenimiento de la Universidad Autónoma de Chihuahua.
+Con este mismo carácter se establece a cargo de los contribuyentes, el impuesto adicional del 4% sobre todos los impuestos ordinarios y derechos a que se refiere este artículo, así como sobre la participación que corresponde al Estado en el Impuesto Federal sobre Ingresos Mercantiles, cuyo rendimiento será destinado única y exclusivamente al sostenimiento de la Universidad Autónoma de Chihuahua.
 
 29.- Son ingresos extraordinarios, aquellos cuya percepción se decreta excepcionalmente para proveer al pago de gastos o inversiones eventuales o extraordinarios del Estado.
 
 Los ingresos que se obtengan por empréstitos contratados sobre el crédito del Estado, quedarán sujetos en cuanto a su percepción y aplicación a las bases que fije el Congreso del Estado, de conformidad con lo que dispone el artículo 64 fracción IX Inciso B de la Constitución Política y a los convenios que para su contratación celebre el Poder Ejecutivo.
 
-30.- Los ingresos ordinarios se dividen en: impuestos, derechos, productos, aprovechamientos y participaciones.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
-31.- Son impuestos las prestaciones en dinero que fija la Ley con carácter general y obligatorio, a cargo de personas físicas, morales y unidades económicas, para cubrir los gastos públicos.
+30.- Los ingresos ordinarios se dividen en: impuestos, derechos, contribuciones especiales, productos, aprovechamientos y participaciones.
 
-Son derechos las contraprestaciones establecidas por el Poder Ejecutivo, conforme a la Ley, en pago de un servicio.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+31.- Son impuestos las prestaciones en dinero o en especie que fija la Ley con carácter general y obligatorio, a cargo de personas físicas, morales y unidades económicas, para cubrir los gastos públicos.
+
+Son derechos las contraprestaciones establecidas por el poder público, conforme a la Ley, en pago de un servicio.
+
+Son contribuciones especiales las prestaciones legalmente obligatorias que se establecen a cargo de las personas que se benefician de manera especial con alguna obra o servicio público, destinadas a cubrir los gastos que requiera la propia obra o servicio. En consecuencia la contribución estará en relación con el monto del beneficio obtenido y el costo de la obra.
 
 Son productos los ingresos que percibe el Estado por actividades que no corresponden al desarrollo de sus funciones propias de derecho público o por la explotación de sus bienes patrimoniales.
 
-Son aprovechamientos los recargos, las multas y los demás ingresos de derecho público, no clasificables como impuestos, derechos, productos o participaciones.
+Son aprovechamientos los recargos, las multas y los demás ingresos de derecho público, no clasificables como impuestos, derechos, contribuciones especiales, productos o participaciones.
 
 32.- Son participaciones las que con tal carácter concedan las leyes federales o locales al Fisco del Estado, sobre los rendimientos federales o municipales, de acuerdo con las disposiciones especiales que las regulan.
 
@@ -181,7 +215,9 @@ I.- Practicar visitas en el domicilio o dependencia de los sujetos pasivos, de l
 
 II.- Proceder a la verificación física, clasificación, valuación o comprobación de toda clase de bienes.
 
-III.- Solicitar de sujetos pasivos, responsables solidarios o terceros, datos o informes relacionados con el cumplimiento de las disposiciones fiscales.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+III.- Solicitar de sujetos pasivos, responsables solidarios o terceros, datos o informes relacionados con el cumplimiento de las disposiciones fiscales. Estos están obligados a atender los citatorios que les giren las autoridades fiscales.
 
 IV.- Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones.
 
@@ -231,13 +267,17 @@ IV.- Las Juntas Regionales de Catastro;
 
 V.- Los organismos fiscales descentralizados;
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
 41.- Las autoridades fiscales para hacer cumplir sus determinaciones, cualquiera que sea su naturaleza, podrán emplear cualquiera de los siguientes medios de apremio:
 
 a).- Multa hasta de $3,000.00;
 
 b).- El auxilio de la fuerza pública;
 
-c).- La denuncia ante la autoridad competente, por desobediencia a un mandato legítimo de autoridad.
+c).- El arresto hasta por 15 días.
+
+Si agotados los medios de apremio que en el caso concreto procedieren, no se obtuviere el cumplimiento de la resolución que motivó el uso de ellos, el contumaz será consignado al Ministerio Público.
 
 ### CAPITULO IV. NACIMIENTO, EXIGIBILIDAD Y EXTINCION DE LOS CREDITOS FISCALES
 
@@ -293,7 +333,9 @@ Las autoridades, a solicitud del interesado expresada en el momento de hacer el 
 
 La protesta quedará sin efecto y el pago se considerará definitivo desde la fecha en que se hizo el entero respectivo, cuando no se promuevan dentro del término legal los recursos o medios de defensa o fueren rechazados o sobreseídos o cuando de la resolución que se dicte resultare la procedencia del pago.
 
-50.- Los causantes y responsables solidarios que no paguen los créditos fiscales que les sean exigibles, deberán cubrir recargos por la mora; serán el 2% por cada mes del calendario o fracción en que se retarde el pago. En ningún caso los recargos excederán de tres tantos del valor del crédito.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+50.- Los causantes y responsables solidarios que no paguen los créditos fiscales que les sean exigibles, deberán cubrir recargos por la mora; serán el 2% por cada mes de calendar (sic) o fracción en que se retarde el pago. En ningún caso los recargos excederán del importe del crédito fiscal omitido.
 
 51.- El fisco estatal está obligado a devolver las cantidades que se le paguen indebidamente, conforme a las reglas que siguen:
 
@@ -351,7 +393,11 @@ La prescripción se inicia a partir de la fecha en que el crédito pudo ser lega
 
 60.- La caducidad en favor del Fisco del Estado a que se refiere el Artículo 57 se interrumpirá por cualquier gestión de cobro formulada por escrito, que los interesados hagan ante la autoridad competente.
 
-61.- La cancelación de créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del sujeto pasivo o de los responsables solidarios, no liberan a uno y otros de su obligación.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+61.- Los créditos y deudas del fisco, únicamente podrán compensarse cuando provengan de la aplicación de leyes tributarias y se satisfagan los requisitos que para esta forma de extinción señala el derecho común. Cuando el crédito y la deuda no provengan de la aplicación del mismo tributo, la deuda del fisco sólo se considerará líquida y exigible si previamente ha sido reconocida por la autoridad que corresponda. La compensación será declarada por la Tesorería General del Estado a petición del interesado. Si dicha Dependencia tiene conocimiento de que se han satisfecho los requisitos para que opere la compensación, podrá declararla de oficio.
+
+La cancelación de créditos fiscales en las cuentas por incosteabilidad en el cobro y por insolvencia del sujeto pasivo o de los responsables solidarios, no liberan a uno y otros de su obligación.
 
 62.- Descubierta alguna evasión fiscal, se hará la estimación correspondiente por la Recaudación de Rentas y se procederá a requerir el pago con un recargo del 50%, sin perjuicio de que también se impongan las sanciones previstas en este Código.
 
@@ -401,7 +447,9 @@ II.- Las personas a quienes se imponga la obligación de retener o recaudar cré
 
 III.- Los que adquieran negociaciones comerciales, industriales, agrícolas, ganaderas o pesqueras, créditos o concesiones respecto de las prestaciones fiscales que en cualquier tiempo se hubieran causado en relación con dichas negociaciones, créditos o concesiones, sin que la responsabilidad exceda del valor de los bienes.
 
-IV.- Los miembros del consejo de administración y además los comisarios en las sociedades anónimas.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+IV.- El administrador único, los miembros del consejo de administración, los comisarios en las sociedades anónimas y los miembros del consejo de vigilancia en las sociedades de responsabilidad limitada.
 
 V.- Los terceros que para garantizar obligaciones fiscales de otros, constituyan depósito, prenda o hipoteca o permitan el secuestro de bienes, hasta por el valor de los dados en garantía.
 
@@ -429,15 +477,21 @@ c).- A falta de los anteriores el lugar en el que se hubiere realizado el hecho 
 
 III.- Si se trata de sucursales o agencias de negociaciones extranjeras, el lugar donde se establezcan; pero si varias dependen de una misma negociación, deberán señalar a una de ellas para que haga las veces de matriz y, de no hacerlo en un término de quince días a partir de la fecha en que presenten su aviso de iniciación de operaciones, lo hará la Tesorería General del Estado.
 
-IV.- Tratándose de personas físicas o morales, residentes en el extranjero, que realicen actividades gravadas en el Estado a través de representantes, se considerará como su domicilio el del representante.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+IV.- Tratándose de personas físicas o morales, residentes fuera del Estado, que realicen actividades gravadas en la Entidad a través de representantes, se considerará como su domicilio el del representante.
 
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 1971)</small>
 
 V.- Las personas domiciliadas fuera del Estado que perciban ingresos cuya fuente se localice en el territorio de la Entidad o realicen actos u operaciones en el Estado o que surtan sus efectos dentro de él, están obligadas a pagar las contribuciones establecidas en este Código. Los sujetos residentes en la Entidad que con ellos contraten o intervengan en la relación jurídica o económica correspondiente, estarán obligados a retener el gravamen que se cause.
 
-73.- Estarán exentos de impuestos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
-I.- La federación, el estado y los municipios, así como los organismos descentralizados si están exceptuados por ley especial, pero no las personas que con ellos contraten si son los sujetos pasivos.
+73.- La Federación, los Estados y los Municipios no son causantes de impuestos. Estarán exentos de impuestos:
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+I.- Los organismos descentralizados si están exceptuados por la Ley especial, pero no las personas que con ellos contraten si son los sujetos pasivos.
 
 II.- Las instituciones y asociaciones de beneficencia pública y privada.
 
@@ -521,7 +575,9 @@ Las obligaciones y responsabilidades de que se ocupa el artículo no se extingue
 
 85.- Todas las autoridades judiciales, administrativas y municipales del Estado, tienen el carácter de auxiliares de las autoridades fiscales, estando obligadas a prestarles el auxilio y cooperación que soliciten, de acuerdo con las disposiciones de este Código y su Reglamento.
 
-### CAPITULO VII. INFRACCIONES Y SANCIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+### CAPITULO VII. INFRACCIONES, SANCIONES Y DELITOS DE CARACTER FISCAL
 
 86.- La aplicación de las sanciones administrativas que procedan se hará por las autoridades fiscales sin perjuicio de que se exija el pago de las prestaciones fiscales respectivas, de recargos en su caso y de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
 
@@ -579,7 +635,9 @@ IX.- Llevar doble juego de libros;
 
 X.- Hacer, mandar hacer o permitir en su contabilidad, anotaciones, asientos, cuentas, nombres, cantidades o datos falsos; alterar, raspar o tachar en perjuicio del fisco, cualquiera anotación, asiento o constancia hecha en la contabilidad; o mandar o consentir que se hagan esas alteraciones, raspaduras o tachaduras;
 
-XI.- Destruir o inutilizar los libros cuando no haya transcurrido el término durante el cual, conforme a la ley, los deben conservar;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+XI.- Destruir o inutilizar los libros y documentación cuando no haya transcurrido el término durante el cual, conforme a la Ley, lo deban conservar;
 
 XII.- No presentar para su autorización, o hacerlo extemporáneamente, los libros y registros de contabilidad, cuando lo exijan las disposiciones fiscales;
 
@@ -775,13 +833,67 @@ c).- Con multa de $1,000.00 a $10,000.00 en los casos de los incisos b), c), f) 
 
 III.- El inspector o auditor de la Tesorería General del Estado que encuentre un vehículo no registrado transportando alcohol o bebidas alcohólicas; que descubra a expendedores con bebidas alcohólicas a granel, en envases mayores de 5 litros o que carezcan del marbete que evidencíe el pago del impuesto, levantará acta para consignar los hechos y embargará precautoriamente el vehículo, el alcohol o las bebidas alcohólicas, depositándolos en las bodegas habilitadas al efecto por la autoridad. El Tesorero General del Estado, con base en el acta, podrá ordenar la clausura provisional del establecimiento durante 15 días o la definitiva en caso de reincidencia. También si lo juzga conveniente podrá autorizar que se nombre depositario al propietario o poseedor de los bienes secuestrados.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
 96.- La reincidencia en alguna infracción fiscal, en los casos en que no tenga sanción prevista en este Código, se castigará la primera vez con la multa prevista en este Código aumentada en un veinticinco por ciento; la segunda en un cincuenta por ciento, y así sucesivamente, aumentando un veinticinco por ciento en cada caso de reincidencia.
 
-97.- Se entiende que hay reincidencia para los efectos del artículo anterior, cuando dentro del mismo año fiscal la misma persona incurriere por segunda o más veces en otra responsabilidad análoga o semejante a aquélla por la que se hubiere aplicado la sanción.
+Se entiende que hay reincidencia para los efectos del artículo anterior, cuando dentro del mismo año fiscal la misma persona incurriere por segunda o más veces en otra responsabilidad análoga o semejante a aquélla por la que se hubiere aplicado la sanción.
 
-98.- Las autoridades judiciales, administrativas o municipales del Estado que tengan conocimiento de alguna infracción, deberán hacerlo saber inmediatamente a la autoridad fiscal correspondiente.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
-99.- Tratándose de funcionarios o empleados públicos que cometan infracciones graves, la falta podrá castigarse, también, con la destitución del cargo o empleo que ocupen.
+97.- Las autoridades judiciales, administrativas o municipales del Estado que tengan conocimiento de alguna infracción, deberán hacerlo saber inmediatamente a la autoridad fiscal correspondiente.
+
+Tratándose de funcionarios o empleados públicos que cometan infracciones graves, la falta podrá castigarse, también, con la destitución del cargo o empleo que ocupen.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+98.- Para incoarse el procedimiento penal por los delitos previstos en este Código, es necesario denuncia precisamente del Tesorero General del Estado.
+
+Se extinguirá la acción penal y la Tesorería otorgará el perdón al presunto responsable, si antes de que se haya dictado sentencia de primera instancia se pagan las prestaciones fiscales originadas por el hecho imputado, o si a juicio de la Tesorería se ha garantizado debidamente el interés fiscal.
+
+En los delitos fiscales no se aplicarán sanciones pecuniarias en el procedimiento penal; las autoridades fiscales harán efectivas las prestaciones omitidas y las sanciones administrativas correspondientes, con arreglo a las disposiciones de este Código.
+
+Para que se otorgue el beneficio de la libertad caucional, de la condena condicional o del juicio sumario, además de los requisitos señalados en el Código de la materia deberá acreditarse que el interés fiscal está satisfecho o garantizado.
+
+En todo lo no previsto en este artículo y el siguiente, serán aplicables las reglas de los Códigos de Defensa Social y de Procedimientos en Materia de Defensa Social.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+99.- Habrá lugar al procedimiento penal en los términos señalados en el artículo anterior, cuando se realicen las conductas que a continuación se describen:
+
+I.- Comete el delito de defraudación fiscal el contribuyente que realice cualquier hecho, aserción, omisión, simulación, ocultación o maniobra que tenga por objeto producir o facilitar la evasión total o parcial de los tributos, siempre y cuando el perjuicio resentido por el fisco exceda de veinticinco mil pesos. Salvo prueba en contrario, la intención de defraudar al fisco se presume en los casos siguientes:
+
+a).- Cuando haya contradicción entre los datos que consten en libros, documentos o demás antecedentes relativos, con los datos que surjan de las declaraciones fiscales.
+
+b).- Cuando las declaraciones fiscales contengan datos falsos.
+
+c).- Proporcionar con falsedad, a las autoridades fiscales que lo requieran, los datos que sean necesarios para determinar la producción, el ingreso gravable o las contribuciones que se causen.
+
+d).- Excluir algún bien, actividad u operación gravable, que implique una declaración fiscal incompleta.
+
+e).- Informar inexactamente sobre negocios o actividades concernientes a ventas, compras, existencia o valuación de mercancía, capitales o factores análogos y similares.
+
+f).- No llevar o no exhibir a las autoridades fiscales los libros de contabilidad o documentos de comprobación suficiente, cuando la naturaleza o volumen de las operaciones desarrolladas no justifiquen esa omisión.
+
+g).- Llevar dos o más libros similares con distintos asientos o datos, aún cuando se trate de libros no autorizados.
+
+h).- Destruir, ordenar o permitir la destrucción total o parcial dejándolos ilegibles, de los libros de contabilidad que prevengan las disposiciones fiscales.
+
+i).- No enterar a las autoridades fiscales, dentro del plazo del requerimiento que se le haga, las cantidades que haya retenido o recaudado de los causantes, por concepto de contribuciones.
+
+El delito de defraudación fiscal se sancionará con prisión de tres días a dos años de reclusión, si el monto de lo defraudado o de lo que se intentó defraudar importa de veinticinco mil pesos un centavo hasta cien mil pesos. Si es mayor de esta cantidad, se aplicarán de seis meses a diez años.
+
+Cuando no se pueda determinar la cuantía de lo que se defraudó o intentó defraudar, la pena será de tres días a tres años de prisión.
+
+II.- Se sancionará con prisión hasta de tres años, a los funcionarios o empleados públicos que practiquen o pretendan practicar visitas domiciliarias sin mandamiento escrito de la autoridad fiscal competente.
+
+III.- Se sancionará con prisión de seis meses a seis años, al que sin derecho o autorización oficial, imprima, grave, manufacture, altere, destruya o mutile, compre, venda, posea, ponga en circulación, realice cualquier hecho jurídico o utilice, marbetes, calcomanías, placas o tarjetones, formas valoradas o numeradas y en general cualquier valor fiscal o documento comprobatorio de pago, exención, cancelación o reducción de algún tributo.
+
+IV.- Se sancionará con prisión de tres días a seis meses:
+
+a).- Al que sin causa justificada, por vías de hecho se oponga o resista a las visitas de inspección o a proporcionar datos, informes o documentos que soliciten las autoridades fiscales en el desempeño de sus funciones.
+
+b).- Al que viola, deteriore o destruya los sellos o marcas colocados con finalidad fiscal, con el propósito de que dejen de cumplir el objeto para el que fueron destinados.
 
 ## TITULO TERCERO. INGRESOS ORDINARIOS
 
@@ -875,55 +987,49 @@ V.- Los que tengan para su venta las plantas ensambladoras, sus distribuidores y
 
 157.- El impuesto se causará anualmente y deberá quedar cubierto dentro de los dos primeros meses de cada año.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 158.- El impuesto se causará en efectivo conforme a la siguiente
 
 TARIFA:
 
-MODELO CATEGORIA
+CATEGORIA
 
-1 2 3
+MODELO 1 2 3
 
 A.- Del año de la aplicación de
 
 la Ley $300.00 $500.00 $750.00
 
-B.- De uno y dos años anterio-
+B.- De un año anterior al de la
 
-res al de la aplicación de
+aplicación de la Ley "275.00 "400.00 "600.00
 
-la Ley 250.00 300.00 400.00
+C.- De dos años anteriores al de
 
-C.- De tres años anteriores al
+la aplicación de la Ley "250.00 "300.00 "400.00
 
-de la aplicación de la
+D.- De tres años anteriores al de
 
-Ley 200.00 300.00 400.00
+la aplicación de la Ley "200.00 "300.00 "400.00
 
-D.- De cuatro años anteriores
+E.- De cuatro años anteriores al de
 
-al de la aplicación de la
+la aplicación de la Ley "200.00 "250.00 "350.00
 
-Ley 200.00 250.00 350.00
+F.- De cinco años anteriores al de
 
-E.- De cinco años anteriores
+la aplicación de la Ley "150.00 "200.00 "300.00
 
-al de la aplicación de la
+G.- De seis años anteriores al de
 
-Ley 150.00 200.00 300.00
+la aplicación de la Ley "150.00 "150.00 "200.00
 
-F.- De seis años anteriores
-
-al de la aplicación de la
-
-Ley 150.00 150.00 200.00
-
-G.- Del séptimo al décimo primer
+H.- Del séptimo al décimo primer
 
 año anteriores al de la aplicación
 
-de la Ley 150.00 150.00 150.00
+de la Ley "150.00 "150.00 "150.00
 
 159.- Para la aplicación de la tarifa se tomará en cuenta la siguiente clasificación:
 
@@ -1045,15 +1151,21 @@ VII.- (DEROGADA, P.O. 8 DE DICIEMBRE DE 1971)
 
 DE LAS OBLIGACIONES
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
 169.- Las personas que hagan pagos a los causantes gravados por este capítulo, están obligados:
 
-I.- A retener el importe del impuesto que a cada uno corresponda. Cuando se trate de contratistas que subcontraten el total o parte de la obra, los primeros están obligados a retener y enterar el impuesto por los ingresos gravados que perciban los trabajadores del subcontratista.
+I.- A retener el importe del impuesto que a cada uno corresponda. Cuando se trate de contratistas que sub-contraten el total o parte de la obra, los primeros están obligados a retener y enterar el impuesto por los ingresos gravados que perciban los trabajadores del su-contratista.
 
-II.- A enterar dentro de los días 1o. al 20 de cada mes a las Oficinas Recaudadoras el impuesto retenido, conforme a los sueldos, salarios y remuneraciones diversas cubiertas el mes anterior, empleando para ello las formas oficiales. En éstas deberá aparecer, además de los datos de referencia del retenedor una nómina donde se relacione detalladamente el impuesto que corresponda a cada causante y la suma total del mismo, así como los demás datos indispensables para la comprobación de la aplicación correcta de las tasas del impuesto.
+Cuando el sujeto del impuesto perciba ingresos en dos o más empresas, avisará a todos los pagadores de tal circunstancia indicando el monto de las percepciones que de cada uno perciba, para que quien pague mayor cantidad retenga el importe total del impuesto. A falta del aviso anterior, todos retendrán el gravamen correspondiente al pago que hagan. También comunicará a los demás patrones el nombre de quien va a hacer la retención, para que los restantes se abstengan de efectuarla.
+
+II.- A enterar dentro de los días 1o. al 20 de cada mes en las oficinas recaudadores el impuesto retenido, conforme a los sueldos, salarios y remuneraciones diversas cubiertas el mes anterior, empleando para ello las formas oficiales. Dentro de los cuatro meses siguientes a la fecha en que termine el ejercicio fiscal del retenedor, deberán exhibir una copia de la declaración anual presentada para el pago del Impuesto Federal sobre la Renta, productos del trabajo.
+
+Previa autorización de la Tesorería General, tratándose exclusivamente de sociedades que operen con sucursales, el entero del impuesto de todos los causantes que presten servicios a la sociedad podrá llevarse a cabo en la Recaudación de Rentas que corresponda al domicilio de la matriz o a la que para el efecto se señale.
 
 III.- A extender a los causantes una constancia de las sumas que les hayan retenido por este concepto.
 
-IV.- A registrarse en la Recaudación de Rentas de su jurisdicción, como retenedores de este impuesto.
+IV.- A registrarse en la Recaudación de Rentas de su jurisdicción, dentro del plazo de 10 días contados a partir de la fecha de contratación de los servicios o de la en que entre en vigor esta disposición. Esta obligación la tienen todos los que hagan pagos, aún cuando por su importe no se cause el impuesto.
 
 170.- Las Oficinas Públicas de la Federación, del Estado y de los Municipios, así como los organismos descentralizados, las empresas de participación o propiedad del Gobierno Federal, del Gobierno Estatal, o similares, que hagan pagos a sujetos de este impuesto, cumplirán con las mismas obligaciones señaladas en los artículos anteriores.
 
@@ -1109,7 +1221,9 @@ De 0.01 a 2,500.00 0.00 exento
 
 DE LAS EXENCIONES
 
-172.- Están exentos del pago del impuesto:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+172.- Están exentos del pago del Impuesto:
 
 I.- Indemnizaciones por riesgos o enfermedades profesionales que se concedan de acuerdo con la Ley Federal del Trabajo, la Ley del Seguro Social y su Reglamento, o con los contratos de trabajo respectivos.
 
@@ -1123,9 +1237,9 @@ V.- Indemnizaciones para gastos funerarios.
 
 VI.- Las gratificaciones de fin de año, acordadas en forma general, a favor de los empleados públicos, así como las que perciban, también a fin de año, otros trabajadores cuyos sueldos o salarios no excedan de dos mil pesos mensuales y siempre que dichas gratificaciones no excedan de un mes de sueldo.
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 1971)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
-VII.- Las cantidades recibidas por concepto de salario mínimo general, las participaciones en las utilidades, las indemnizaciones por cese o separación y los retiros o rentas vitalicias que tengan su origen en la prestación de servicios personales.
+VII.- Las cantidades recibidas por concepto de salario mínimo general, las participaciones en las utilidades, las indemnizaciones por cese o separación, los retiros o rentas vitalicias que tengan su origen en la prestación de servicios personales, las jubilaciones y pensiones en casos de invalidez, cesantía, vejez y muerte.
 
 VIII.- Los haberes que obtengan los miembros del Ejército Nacional.
 
@@ -1135,25 +1249,39 @@ OTRAS DISPOSICIONES
 
 173.- Las personas que no retengan el impuesto a los empleados y trabajadores que estén bajo su dependencia y no enteren su importe en las oficinas recaudadoras quedan obligadas solidariamente al pago de los impuestos omitidos.
 
-174.- En caso de muerte, las jubilaciones y gratificaciones que cubran los deudos del sujeto del impuesto, causarán únicamente el 20% del gravamen correspondiente.
+174.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
 ### CAPITULO V. IMPUESTO SOBRE PROFESIONES Y EJERCICIOS LUCRATIVOS
 
 ### CAPITULO VI. IMPUESTO SOBRE ARRENDAMIENTO Y SUB-ARRENDAMIENTO DE BIENES MUEBLES E INMUEBLES
 
-186.- Es objeto de este impuesto el ingreso que se perciba por concepto de arrendamiento y sub-arrendamiento de bienes muebles o inmuebles ubicados dentro del Estado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
-187.- Son sujetos de este impuesto las personas físicas o morales que obtengan ingresos gravados en este capítulo.
+186.- Es objeto de este impuesto el ingreso que se estipule por concepto de arrendamiento y sub-arrrendamiento de bienes muebles o inmuebles ubicados dentro del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+187.- Son sujetos de este impuesto las personas físicas o morales, civiles o mercantiles, que obtengan ingresos gravados en este capítulo.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 188.- El impuesto sobre dichos ingresos se determinará tomando en cuenta el importe de las rentas mensuales estipuladas en el contrato, independientemente de la forma en que se pacten los pagos. El impuesto se causará a razón del 1% sobre el ingreso mensual.
 
-Están exentos del pago de este impuesto las personas señaladas en la fracción V del artículo 2002 de éste Código. Así mismo están exentas aquéllas que perciban rentas mensuales inferiores a doscientos pesos por cada unidad o departamento.
+Están exentos del pago de este impuesto quienes perciban rentas mensuales inferiores a $200.00 por cada unidad o departamento, siempre que éstos no excedan de diez.
 
 189.- Los causantes de este impuesto están obligados a registrar los contratos de arrendamiento en la Recaudación de Rentas que corresponda, dentro de los quince días naturales siguientes a la fecha de su celebración.
 
 Así mismo, deberán dar aviso de las modificaciones o rescisiones de contratos dentro de los quince días naturales siguientes a la fecha en que éstas ocurran.
 
-190.- El impuesto se pagará bimestralmente dentro de los días 1o. al 20 del mes siguiente al bimestre en que se obtuvieron ingresos.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+190.- El impuesto se pagará por adelantado, de conformidad con las siguientes reglas:
+
+I.- Si el contrato es por tiempo definido que no exceda de un año, se cubrirá por el importe de las rentas correspondientes al tiempo estipulado. Si excede de un año, se pagará por anualidades que vencerán el 31 de diciembre.
+
+II.- Si el contrato es por término indefinido, se cubrirá por el importe de las rentas correspondientes al período que falte para terminar el año natural en que se celebre el contrato; concluido este período, si el contrato continúa en vigor deberá pagarse nuevamente el gravamen por cada año que transcurra, precisamente en el mes de Enero.
+
+III.- Tratándose de predios rústicos, los arrendatarios tienen responsabilidad solidaria en el pago del gravamen.
 
 #### SECCION SEXTA. CATASTRO
 
@@ -1365,15 +1493,9 @@ De 31 a 35 hectáreas serán de SEXTA CLASE;
 
 De 36 a 40 hectáreas serán de SEPTIMA CLASE.
 
-VI.- FORESTALES.- Los terrenos con bosques se clasificarán y valuarán basándose en su población forestal, especies y variedades de árboles, tomando en cuenta su ciclo reproductivo y la rentabilidad de éste pero de ninguna manera los permisos de explotación concedidos.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 1973)</small>
 
-También se tomarán en cuenta las facilidades o dificultades de extracción dentro del propio predio y las vías de comunicación que le den acceso a carreteras transitables en todo tiempo o a ferrocarriles, bajo la siguiente tabla de clasificación:
-
-DE PRIMERA.- Cien por ciento arbolado, capaces de producir en pleno desarrollo 100 metros cúbicos o más de madera en tollo (sic) por hectárea y que estén ubicados a menos de 100 kilómetros de carreteras transitables en todo tiempo o ferrocarriles.
-
-DE SEGUNDA.- Cuando disminuya el porcentaje arbolado y consecuentemente su posibilidad de producción en un 25%, o siendo ésta de primera estén alejados de 100 a 200 kilómetros de las vías de comunicación.
-
-DE TERCERA.- Cuando la superficie arbolada y su productividad la constituya el 50% de la clase de primera, o siendo de segunda se encuentre alejada de 100 a 200 kilómetros de las vías de comunicación.
+VI.- FORESTALES.- Los terrenos con bosque se clasificarán y valuarán basándose en su población forestal, especies y variedades de árboles, tomando en cuenta su ciclo reproductivo. En ningún caso se tomará en consideración la explotación de la vegetación forestal.
 
 VII.- TERRENOS NO ESPECIFICADOS.- Los dedicados a parques de recreo, cotos de caza, los que no tengan utilización definida por parte de sus dueños o ésta no esté prevista en este Código, serán valuados a criterio del Dirección de Catastro siguiendo los lineamientos generales que marca este Capítulo.
 
@@ -1567,19 +1689,75 @@ Cuando dichas personas operen organizadas en agrupaciones profesionales, asociac
 
 #### SECCION SEGUNDA. TASA, BASE Y DEDUCCIONES
 
-177.- El impuesto se causará, a excepción hecha de los casos señalados en el artículo 179, a razón del 1.5% sobre los ingresos totales, hechas las deducciones que se citan en el artículo siguiente.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
-178.- Los sujetos de este impuesto, excepto los señalados en el artículo 179 podrán deducir de los ingresos que perciban, exclusivamente los siguientes conceptos:
+177.- El impuesto se causará mensualmente conforme a la siguiente:
 
-I.- Las cantidades pagadas por: sueldos, salarios y honorarios, propios del ejercicio de la actividad de que se trate, siempre y cuando las personas que perciban el sueldo o salario estén inscritas en el Instituto Mexicano del Seguro Social, y las que perciban honorarios tengan cédula profesional y estén registradas en el Padrón Estatal de Causantes o en el Registro Federal de Causantes, en su caso.
+TARIFA:
 
-II.- El importe de la renta, siempre que se refiera exclusivamente al local destinado al ejercicio de su actividad.
+Límite Límite Cuota Porcentaje para
 
-Los causantes que no deseen presentar comprobación relativa a las deducciones mencionadas en este artículo, en substitución de las mismas podrán deducir el 20% de los ingresos brutos que hayan percibido en el mes.
+Inferior Superior Fija aplicarse s/el
 
-Las personas a que se refiere este artículo, deberán llevar por lo menos un libro de ingresos y egresos.
+M$N M$N excedente del
 
-179.- Los artistas cinematográficos, los de variedades, los que efectúen representaciones teatrales, así como los sujetos que actúen en espectáculos taurinos o deportivos, pagarán el impuesto a razón del 4% y en vez de las deducciones a que se refiere el artículo anterior, deducirán de sus ingresos propios exclusivamente el 20%.
+límite
+
+inferior.
+
+De 0.01 a 1,200.00 Exento 0.0
+
+" 1,200.01 " 1,500.00 7.00 más 1.2
+
+" 1,500.01 " 2,000.00 12.00 " 1.4
+
+" 2,000.01 " 2,500.00 19.00 " 1.6
+
+" 2,500.01 " 3,000.00 27.00 " 1.9
+
+" 3,000.01 " 4,000.00 36.50 " 2.3
+
+" 4,000.01 " 5,000.00 59.50 " 2.7
+
+" 5,000.01 " 6,000.00 86.50 " 3.1
+
+" 6,000.01 " 7,000.00 117.50 " 3.4
+
+" 7,000.01 " 8,000.00 151.50 " 3.6
+
+" 8,000.01 " 9,000.00 187.50 " 3.9
+
+" 9,000.01 " 10,000.00 226.50 " 4.2
+
+" 10,000.01 " 12,000.00 268.50 " 4.6
+
+" 12,000.01 " 15,000.00 360.50 " 5.5
+
+" 15,000.01 " 18,000.00 525.50 " 6.5
+
+" 18,000.01 " 21,000.00 720.50 " 7.5
+
+" 21,000.01 " 25,000.00 945.50 " 8.2
+
+" 25,000.01 " 30,000.00 1,273.50 " 8.5
+
+" 30,000.01 en adelante 1,698.50 " 8.7
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+178.- Los sujetos de este impuesto podrán deducir de los ingresos que perciban, exclusivamente los siguientes conceptos:
+
+I.- Las cantidades pagadas por: sueldos, salarios y honorarios, propios del ejercicio de la actividad de que se trate, siempre y cuando las personas que perciban el sueldo o salario estén inscritas en el Instituto Mexicano del Seguro Social, y las que perciban honorarios tengan cédula profesional y estén registrados en el Padrón Estatal de Causantes.
+
+II.- El importe de la renta siempre que se refiera exclusivamente al local destinado al ejercicio de su actividad.
+
+Los causantes que no deseen presentar comprobación relativa a las deducciones mencionadas en este artículo, en substitución de las mismas podrán deducir el 20% de los ingresos brutos que hayan percibido en el mes
+
+Los sujetos del impuesto deberán llevar por lo menos un libro de ingresos y egresos.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+179.- Los artistas cinematográficos, los de variedades, los que efectúen representaciones teatrales, así como los sujetos que actúen en espectáculos taurinos o deportivos tendrán derecho a deducir únicamente el 20% de los ingresos brutos, no pudiendo hacer las deducciones a que se refieren las dos primeras fracciones del artículo anterior.
 
 180.- La Tesorería General del Estado podrá estimar los ingresos brutos de los sujetos de este impuesto, en los siguientes casos:
 
@@ -1641,13 +1819,15 @@ Si los causantes no cumplen con los requisitos que establece el párrafo anterio
 
 #### SECCION QUINTA. CONVENIOS CON LOS CAUSANTES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
-184.- Los causantes que obtengan ingresos provenientes de actividades gravadas por este Capítulo, podrán cubrir el impuesto a base de una cuota fija bimestral siempre que sus ingresos no sean superiores a $150,000.00 (Ciento Cincuenta Mil Pesos, 00/100) anuales, en las condiciones y con las formalidades siguientes:
+184.- Los causantes que obtengan ingresos provenientes de actividades gravadas por este capítulo, podrán cubrir el impuesto a base de cuota fija bimestral siempre que sus ingresos brutos no sean superiores a $300,000.00 (trescientos mil pesos, 00/100) anuales, en las condiciones y con las formalidades siguientes:
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
-I.- Los causantes que opten por el pago del impuesto a cuota fija, lo manifestarán por escrito a la Recaudación de Rentas de su jurisdicción para que ésta de acuerdo con ellos determine provisionalmente la cuota que les corresponda, la que en ningún caso podrá ser inferior a $100.00 (Cien pesos, 00/100) bimestrales si se trata de sujetos cuya actividad exija título para su ejercicio, y de $30.00 (Treinta Pesos, 00/100) en los demás casos.
+I.- Los causantes que opten por el pago del Impuesto a cuota fija, lo manifestarán por escrito a la Recaudación de Rentas de su jurisdicción para que ésta de acuerdo con ellos determine provisionalmente la cuota que les corresponda, la q e (sic) en ningún caso podrá ser inferior a $100.00 (Cien pesos, 00/100) bimestrales si se trata de sujetos cuya actividad exija título para su ejercicio, y de $30.00 (Treinta pesos, 00/100) en los demás casos. Al fijarse la cuota se aplicará la tarifa establecida en el artículo 177.
+
+Sólo podrán proponerse los convenios a que se refiere este artículo, después de seis meses siguientes a la fecha de empadronamiento.
 
 II.- Las Recaudaciones de Rentas someterán los convenios a la aprobación definitiva de la Tesorería General del Estado, anotando los ingresos mensuales que los causantes interesados hayan venido manifestando y la cuota que se les haya asignado.
 
@@ -1723,7 +1903,7 @@ IV.- Los rendimientos de los valores a que se refiere la fracción IV del artíc
 
 V.- Los dividendos o utilidades que distribuyan las sociedades establecidas en el País;
 
-VI.- La participación que los trabajadores perciban en las utilidades de las empresas;
+VI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1972)
 
 VII.- Los intereses que perciban las fundaciones de Asistencia Pública y Beneficencia Privada constituídas legalmente;
 
@@ -1735,7 +1915,7 @@ IX.- Los intereses, el sobreprecio, o cualquier otra prestación que aumente los
 
 #### SECCION PRIMERA. OBJETO
 
-> <small>N. DE E. SE SUSPENDE LA APLICACION DEL PRESENTE DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO SEGUNDO DEL DECRETO No. 521-71, PUBLICADO EN P.O. 30 DE DICIEMBRE DE 1972.</small>
+> <small>N. DE E. SE SUSPENDE LA APLICACION DEL PRESENTE DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO SEGUNDO DEL DECRETO No. 286-73, PUBLICADO EN P.O. 25 DE ABRIL DE 1973.</small>
 
 202.- El Impuesto sobre el Comercio y la Industria grava, en los términos de los artículos siguientes, los ingresos que se obtengan:
 
@@ -1747,7 +1927,7 @@ III.- Por comisiones y mediaciones mercantiles,
 
 IV.- Por explotación de aparatos fonoelectromecánicos, de diversión y básculas que funcionen con monedas o sin ellas; y
 
-V.- Por arrendamiento o sub-arrendamiento de bienes muebles, inmuebles y negociaciones, obtenidos por sociedades mercantiles.
+V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1972)
 
 203.- Es ingreso toda percepción en efectivo, en bienes, en servicios, en valores, en títulos de crédito, en crédito en libros, o en cualquiera otra forma que lo obtengan los sujetos de este impuesto, como resultado de las operaciones gravadas por este Capítulo.
 
@@ -1909,7 +2089,7 @@ IX.- Los ingresos procedentes de la enajenación de títulos de crédito.
 
 X.- Los ingresos que provengan de operaciones efectuadas por Instituciones de crédito y organizaciones auxiliares, de seguros y de fianzas, siempre que sean propias de su objeto directo.
 
-XI.- Los ingresos que perciban las industrias que hayan sido declaradas nuevas o necesarias, en los términos de las franquicias otorgadas por el Ejecutivo del Estado, de acuerdo con las disposiciones aplicables de este Código.
+XI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1972)
 
 XII.- Los ingresos percibidos por los constructores de inmuebles para obras publicas, derivados de contratos celebrados con la Federación, Estados, Municipios y Organismos descentralizados.
 
@@ -1997,7 +2177,9 @@ Los causantes que no hayan obtenido ingresos gravables presentarán sus declarac
 
 Este artículo tiene como excepción lo dispuesto por el artículo 231.
 
-227.- Los causantes del impuesto y los gerentes, administradores o apoderados y los contadores de las sociedades, declararán bajo protesta de decir verdad, al hacer las manifestaciones, que los ingresos que declaran son los realmente obtenidos en el período de que se trate, y se harán sabedores de que en caso de falsedad u ocultación incurrirán en las penas establecidas en el Código de Defensa Social.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+227.- Los causantes del impuesto y los gerentes, administradores o apoderados y los contadores de las sociedades, declararán bajo protesta de decir verdad, al hacer las manifestaciones, que los ingresos que declaran son los realmente obtenidos en el período de que se trate, y se harán sabedores de que en caso de falsedad u ocultación incurrirán en las penas establecidas en este Código o, en su caso, en el de Defensa Social.
 
 228.- Las declaraciones de los causantes serán revisables en cualquier tiempo en los términos del artículo 239, y cuando aparezca que no se manifiestan los ingresos realmente percibidos, se procederá a hacer efectivas las diferencias que corresponda, sin perjuicio de las sanciones a que haya lugar.
 
@@ -2103,13 +2285,15 @@ El Tesorero General del Estado podrá delegar el ejercicio de esta facultad en l
 
 Los contribuyentes a quienes se les practique una auditoría deberán dar aviso por escrito a la Tesorería General o a la Autoridad fiscal correspondiente, de cualquier acto indebido que cometan o pretendan cometer los funcionarios designados para efectuarla.
 
-239.- Para la mejor administración y control de este impuesto, se procederá a revisar las declaraciones de los causantes cuando existan indicios de que no cubren el impuesto de acuerdo con los ingresos realmente percibidos. Para tal revisión se tomará en cuenta los impuestos que hayan pagado a la Federación o al Municipio, cantidades que cubran por concepto de renta del local que ocupen y de energía eléctrica, número de empleados que tengan a su servicio y sueldos que se les paguen, capital en giro y los demás datos que puedan utilizarse para la determinación de los ingresos realmente percibidos.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+239.- Para la mejor administración y control de este impuesto, se procederá a revisar las declaraciones de los causantes cuando existan indicios de que no cubren el Impuesto de acuerdo con los ingresos realmente percibidos. Para tal revisión se estará a lo dispuesto por el artículo 23 de este ordenamiento.
 
 #### SECCION DECIMA. CONVENIOS CON LOS CAUSANTES
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
-240.- Las personas físicas que obtengan ingresos de operaciones celebradas directamente con el consumidor y gravadas en los grupos primero, segundo y sexto del artículo 212 de este Código, podrán cubrir el impuesto a razón de una cuota fija bimestral, siempre que sus ingresos no sean superiores a $500,000.00 (Quinientos mil pesos, 00/100) anuales en las condiciones y con las formalidades siguientes:
+240.- las personas físicas que obtengan ingresos de operaciones celebradas directamente con el consumidor y gravadas en los grupos primero, segundo, séptimo y octavo del artículo 212 de este Código, podrán cubrir el impuesto a razón de una cuota fija bimestral, siempre que sus ingresos no sean superiores a $500,000.00 (Quinientos Mil Pesos. 00/100) anuales en las condiciones y con las formalidades siguientes:
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
@@ -2143,7 +2327,9 @@ d).- Dar aviso a la Recaudación de Rentas de su jurisdicción, cuando estime qu
 
 V.- Los convenios tendrán la duración que les corresponda, dentro de cada año fiscal comprendido dentro del 1o. de enero al 31 de diciembre, sin que la vigencia de los mismos pueda exceder de un año. Al término de su vigencia, que no será nunca posterior al 31 de diciembre del año en que se firmen, quedarán sin efectos.
 
-VI.- La Tesorería General, en cualquier tiempo, podrá comprobar por los medios que estime convenientes la situación fiscal de los causantes.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+VI.- La Tesorería General, en cualquier tiempo, podrá comprobar por los medios que considere convenientes la situación fiscal de los causantes. En consecuencia resultan aplicables también a los sujetos convenidos, en lo conducente, los artículos 23, 238 y 239 de este Código.
 
 ### CAPITULO X. IMPUESTO SOBRE LA ENAJENACION DE ALGODON Y SU SEMILLA
 
@@ -2157,29 +2343,31 @@ VI.- La Tesorería General, en cualquier tiempo, podrá comprobar por los medios
 
 #### SECCION SEGUNDA. TARIFA
 
-243.- El impuesto se causará de acuerdo con la siguiente tarifa:
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
-I.- Por cada cabeza de ganado bovino $ 35.00
+243.- El impuesto se causará de acuerdo con la siguiente Tarifa:
 
-II.- Por cada cabeza de ganado porcino " 10.00
+I.- Por cada cabeza de ganado bovino $ 55.00
 
-III.- Por cada cabeza de ganado mular " 10.00
+II.- Por cada cabeza de ganado porcino 12.00
 
-IV.- Por cada cabeza de ganado caballar " 7.00
+III.- Por cada cabeza de ganado mular 20.00
 
-V.- Por cada cabeza de ganado ovino " 5.00
+IV.- Por cada cabeza de ganado caballar 17.00
 
-VI.- Por cada cabeza de ganado caprino " 3.00
+V.- Por cada cabeza de ganado ovino 5.00
 
-VII.- Por cada cabeza de ganado asnal " 3.00
+VI.- Por cada cabeza de ganado caprino 3.00
 
-VIII.- Por cada cabeza de becerro mamón con
+VII.- Por cada cabeza de ganado asnal 3.00
 
-edad máxima de 30 días " 10.00
+VIII.- Por cada cabeza de becerro mamón con edad
 
-IX.- Por cada cabeza de cabrito con edad
+máxima de 30 días. 30.00
 
-máxima de 30 días " 0.75
+IX.- Por cada cabeza de cabrito con edad máxima
+
+de 30 días. 0.75
 
 #### SECCION TERCERA. PAGO
 
@@ -2295,21 +2483,35 @@ VI.- A dar aviso inmediato y por escrito a la Recaudación de Rentas respectiva,
 
 304.- Son sujetos de este impuesto las personas que celebren los actos jurídicos que se otorguen en la forma prevista en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
-305.- El impuesto se causará de acuerdo con la siguiente Tarifa:
+305.- El Impuesto se causará de acuerdo con la siguiente Tarifa:
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
 I.- Por la constitución de sociedades civiles o mercantiles, y en general cualquier agrupación con fines lucrativos, sobre el capital de las mismas se pagará $ 1.50 (UN PESO CINCUENTA CENTAVOS) por cada un mil pesos a fracción.
 
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
 II.- Por el aumento, por cualquier causa, del capital social de sociedades civiles o mercantiles o cualquier agrupación con fines preponderantemente económica, sobre el importe del capital aumentado se pagará %1.50 (UN PESO CINCUENTA CENTAVOS) o fracción.
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
 III.- Por los actos tendientes a garantizar obligaciones tales como fianzas, hipotecas, etc., sobre el importe de lo garantizado, se pagará $0.75 por cada $100.00 o fracción.
 
-IV.- El mandato que se haga constar en instrumento público o ratificado ante Notario, pagará $4.50 (CUATRO PESOS CINCUENTA CENTAVOS).
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+IV.- El mandato que se haga constar en instrumento público o ratificado ante notario, pagará $10.00 (Diez pesos, 00/100). Tratándose de mandato ratificando ante Notario el entero del impuesto se comprobará con el original del certificado de pago, mismo que deberá adherirse al documento en que conste el poder.
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
 V.- Por los actos jurídicos no previstos en las fracciones anteriores, se pagará $1.50 (UN PESO CINCUENTA CENTAVOS), por cada un mil pesos o fracción sobre el valor de la operación.
 
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
 VI.- Cuando en el acto jurídico no se exprese cantidad ni pueda determinarse el valor de la operación, se pagará la suma de $15.00 (QUINCE PESOS 00/100).
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
 VII.- Cuando en un mismo instrumentos se consignen diversos actos, a cada uno de éstos se aplicará la tarifa que le corresponda.
 
@@ -2443,6 +2645,8 @@ a).- Sobre el cierre o tapón del envase de tal manera que los dos extremos del 
 
 b).- En cada envase se adherirá solamente un marbete del valor que corresponda, el cual podrá ser colocado antes o después, arriba o abajo de cualquier otro marbete que exijan otras disposiciones legales.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 1973)</small>
+
 284.- El impuesto sobre la venta de bebidas alcohólicas se causará conforme a la siguiente tarifa:
 
 Capacidad del
@@ -2451,13 +2655,11 @@ envase en
 
 centímetros
 
-cúbicos hasta 50 125 250 500 750 1000 2000 3000 5000
+Cúbicos hasta 50 125 250 500 750 1000 2000 3000 5000
 
 GRUPO I.- Bebidas
 
-alcohólicas producidas
-
-en el País con una
+alcohólicas con una
 
 graduación hasta de
 
@@ -2471,8 +2673,6 @@ aperitivos y otras
 
 bebidas alcohólicas
 
-producidas en el País,
-
 con una graduación
 
 mayor de doce y
@@ -2484,8 +2684,6 @@ grados, G.L. $0.05 0.12 0.23 0.45 0.69 0.90 1.80 2.70 4.50
 GRUPO III.- Destilados
 
 de uva o de manzana,
-
-producidos en el País,
 
 tales como brandies y
 
@@ -2499,21 +2697,11 @@ diecinueve y hasta
 
 40 grados G.L. $0.08 0.20 0.40 0.80 1.20 1.60 3.20 4.80 8.00
 
-Capacidad del
-
-envase en
-
-centímetros
-
-cúbicos hasta 50 125 250 500 750 1000 2000 3000 5000
-
 GRUPO IV.- Bebidas
 
-alcohólicas producidas
+alcohólicas con más
 
-en el País, con más
-
-de veinte grados G.L.
+de 20 grados G.L.
 
 tales como aguardientes
 
@@ -2527,9 +2715,13 @@ comiteco, vodkas,
 
 ginebras, rones,
 
-habaneros, whiskies,
+habaneros, whiskies
 
-cremas, etc. igualmente
+(salvo los indicados
+
+en el grupo siguiente)
+
+cremas, etc., igualmente
 
 destilados de uva o
 
@@ -2539,21 +2731,17 @@ graduación exceda
 
 de 40 grados, G.L. $ 0.10 0.25 0.50 1.00 1.50 2.00 4.00 6.00 10.00
 
-GRUPO V.- Cualesquiera
+GRUPO V.- Whiskies
 
-otras bebidas alcohólicas
+elaborados de centeno
 
-con más de tres grados G.L.
+y cualesquiera otras
 
-que no reúnan los
+bebidas alcohólicas
 
-requisitos y
+con más de tres
 
-especificaciones a que
-
-se refieren los Grupos
-
-I a IV anteriores. $ 0.30 0.75 1.50 3.00 4.50 6.00 12.00 18.00 30.00
+grados G.L. $ 0.30 0.75 1.50 3.00 4.50 6.00 12.00 18.00 30.00
 
 285.- Quedan exentos del Impuesto los productos medicinales que contengan alcohol, registrados en la Secretaría de Salubridad y Asistencia, la cerveza, el aguamiel y los productos de su fermentación.
 
@@ -2719,7 +2907,7 @@ XXIV.- Expedición de certificados para suplir tarjetas de circulación de vehí
 
 XXV.- Revisión mecánica de vehículos y otros servicios prestados por la Dirección General de Tránsito y sus Dependencias;
 
-XXVI.- Expedición de licencias o refrendos para portar armas de fuego;
+XXVI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1972)
 
 XXVII.- Expedición de duplicados de las licencias a que se refiere la fracción anterior;
 
@@ -2779,9 +2967,15 @@ IX.- La inscripción en el Registro Público de la Propiedad de las resoluciones
 
 X.- Las inscripciones preventivas a que se refiere el artículo 295 del Código Administrativo.
 
-### CAPITULO XV. PRODUCTOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+### CAPITULO XV. PRODUCTOS Y CONTRIBUCIONES ESPECIALES
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 311.- Los ingresos que el Estado obtenga por la explotación de sus bienes patrimoniales o por actividades que no correspondan al desarrollo de sus funciones propias de derecho público, se fijarán y recaudarán de acuerdo con las reglas que establezcan las leyes o reglamentos respectivos o, en su defecto, conforme a las bases generales establecidas por el Ejecutivo del Estado en las licencias, concesiones o contratos respectivos.
+
+Los ingresos que el Estado obtenga por contribuciones especiales, se fijarán y liquidarán de acuerdo con las reglas que establezcan las leyes o Reglamentos respectivos, y se destinarán a cubrir las erogaciones de las obras públicas que las motive. Se harán efectivas por medio del procedimiento de ejecución.
 
 ### CAPITULO XVI. APROVECHAMIENTOS
 
@@ -2795,7 +2989,9 @@ X.- Las inscripciones preventivas a que se refiere el artículo 295 del Código 
 
 315.- Para la percepción de los participantes, se estará a lo dispuesto por las leyes que las concedan.
 
-316.- Se concede a los municipios del Estado se las siguientes participaciones:
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+316.- Se concede a los municipios del Estado las siguientes participaciones:
 
 I.- 25% sobre el Impuesto del Comercio y la Industria;
 
@@ -2803,7 +2999,147 @@ II.- 13% sobre el Impuesto Predial, y
 
 III.- 12% sobre el Impuesto a la Ganadería.
 
-También participarán los municipios productores o consumidores en los ingresos que en calidad de participaciones señalen las leyes federales al Estado, sobre los impuestos que obtenga la Federación en esta Entidad Federativa, en materia de: consumo de cerveza, caza y similares, pesca y buceo, producción de metales y minerales no metálicos, consumo y producción de cemento, explotación forestal, venta y arrendamiento de bosques y terrenos nacionales, energía eléctrica y otros tributos que correspondan a su esfera impositiva y en las que sean partícipes los municipios. La Secretaría de Hacienda y Crédito Público cubrirá directamente a los municipios las participaciones que les correspondan de conformidad con las leyes federales que normen estas percepciones.
+Las participaciones a que se refieren las tres fracciones anteriores se otorgarán en proporción al rendimiento de los impuestos respectivos en cada Municipio.
+
+IV.- Por el año de 1973 y 20% a partir del año de 1974, sobre los ingresos de los restantes impuestos estatales. La participación total a que se refiere esta fracción, se distribuirá entre los Municipios de conformidad con los estudios económicos elaborados atendiendo a los siguientes elementos: número de habitantes, importe de su presupuesto de egresos, gasto público municipal por habitante y otras consideraciones. En consecuencia los porcentajes de participación del producto total serán los siguientes.
+
+Ahumada 0.7%
+
+Aldama 0.9%
+
+Allende Valle de 1.4%
+
+Aquilés Serdán 0.6%
+
+Ascensión 0.6%
+
+Bachíniva 1.0%
+
+Balleza 1.6%
+
+Batopilas 1.2%
+
+Belisario Domínguez 1.0%
+
+Bocoyna 2.0%
+
+Buenaventura 1.8%
+
+Camargo 2.3%
+
+Carichic 1.2%
+
+Casa Grandes 0.7%
+
+Coronado 0.7%
+
+Coyame 0.6%
+
+Cuauhtémoc 3.3%
+
+Cusihuiriáchic 1.2%
+
+Chihuahua 5.0%
+
+Chínipas 1.0%
+
+Delicias 3.3%
+
+Praxedis G. Guerrero 1.0%
+
+Galeana 0.6%
+
+General Trías 1.0%
+
+Gómez Farías 1.2%
+
+Gran Morelos 0.9%
+
+Guachochi 2.0%
+
+Guadalupe, D. B. 1.2%
+
+Guadalupe y Calvo 3.6%
+
+Guerrero 4.0%
+
+Hidalgo del Parral 3.3%
+
+Ignacio Zaragoza 1.4%
+
+Janos 0.6%
+
+Jiménez 1.8%
+
+Juárez 5.0%
+
+Julímes 0.9%
+
+La Cruz 0.7%
+
+López Villa 0.9%
+
+Madera 3.8%
+
+Maguarichic 0.7%
+
+Manuel Benavidez 1.0%
+
+Matachic 0.9%
+
+Matamoros Villa 0.9%
+
+Meoqui 1.7%
+
+Morelos 1.0%
+
+Moris 0.6%
+
+Maniquipa 3.6%
+
+Nonoava 0.6%
+
+Nuevo Casas Grandes 1.9%
+
+Ocampo 0.9%
+
+Ojinaga 1.6%
+
+Riva Palacio 1.6%
+
+Rosales 1.4%
+
+Rosario Valle de 0.9%
+
+San Fco. de Borja 1.0%
+
+San Fco. del Oro 0.9%
+
+Santa Bárbara 1.3%
+
+Satevó 0.7%
+
+Saucillo 3.6%
+
+Temósachic 0.6%
+
+Urique 1.6%
+
+Uruachi 1.0%
+
+Zaragoza Valle de 0.9%
+
+Huejotitán 0.7%
+
+Guazapares 1.0%
+
+El Tule 0.7%
+
+San Fco. de Conchos 0.7%
+
+Del importe de la participación a que se contrae esta fracción, se destinará por lo menos el 50% a obras públicas. El municipio que no lo hiciere perderá la participación en beneficio de aquellos que cumplan este requisito. La Tesorería General del Estado vigilará el estricto cumplimiento de esta disposición.
+
+V.- También participarán los municipios productores o consumidores en los ingresos que en calidad de participaciones señalen las leyes federales al Estado, sobre los impuestos que obtenga la Federación en esta entidad Federativa, en materia de: consumo de cerveza, caza y similares, pesca y buceo, producción de metales y minerales no metálicos, consumo y producción de cemento, explotación forestal, venta y arrendamiento de bosques y terrenos nacionales, energía eléctrica y otros tributos que correspondan a su esfera impositiva y en las que sean partícipes los municipios. La Secretaría de Hacienda y Crédito Público cubrirá directamente a los Municipios las participaciones que les correspondan de conformidad con las leyes federales que normen estas percepciones.
 
 317.- Con el objeto de evitar la duplicidad de los impuestos, los municipios no podrán gravar ninguna fuente de riqueza ni actividad comercial o industrial de las contenidas en este Código con la única excepción del impuesto llamado de Licencia Anual al Comercio y la Industria.
 
@@ -2907,11 +3243,15 @@ I.- Las rentas o productos de los bienes propiedad del Estado o de sus estableci
 
 II.- Las rentas o productos de bienes administrados por el Gobierno del Estado.
 
-331.- Formulada la liquidación del crédito fiscal por las autoridades, cuando a ella corresponda practicarla, se notificará al deudor o responsable solidario, expresándole el concepto, monto y término para su pago.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
-Si es a los sujetos pasivos o responsables solidarios a quienes corresponde fijar en cantidad líquida la prestación, no se precisará de notificación al deudor.
+331.- No satisfecho un crédito fiscal dentro del término que para su pago señalan las disposiciones legales que lo regulen, o en su defecto el establecido en el artículo 43 de este Código, se exigirá su pago mediante el procedimiento administrativo de ejecución.
 
-332.- No satisfecho un crédito fiscal dentro del término que para su pago señalen las disposiciones legales, se exigirá su pago mediante el procedimiento administrativo de ejecución.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+332.- Para los efectos del artículo anterior la autoridad liquidará el crédito fiscal, cuando a ella corresponda practicarla, y la notificará al deudor o responsable solidario expresándole el concepto, monto y término para su pago. Esta notificación iniciará el procedimiento de ejecución.
+
+Si es a los sujetos pasivos o responsables solidarios a quienes corresponde fijar en cantidad líquida la prestación, no se precisará de notificación al deudor y se procederá conforme al artículo siguiente.
 
 333.- El Jefe de la Oficina Recaudadora a la que corresponde el cobro, dictará mandamiento de ejecución, debidamente fundado y motivado, en el que ordenará que se requiera al deudor para que en el acto de la diligencia haga pago de su adeudo y, de no hacerlo, se le embarguen bienes de su propiedad bastantes para cubrirlo, después de lo cual se le prevendrá que dentro del plazo de 5 días siguientes a la fecha del embargo deberá hacer el pago en la caja de la oficina citada, apercibido que de no hacerlo se procederá al remate de los bienes secuestrados, para cubrir con su producto el crédito insoluto, así como los accesorios, gastos y vencimientos futuros en su caso. Si el pago se hiciere en el término indicado no se causarán honorarios por la diligencia de embargo.
 
@@ -3307,6 +3647,8 @@ X.- Contra los acuerdos dictados durante el procedimiento, no procederá ningún
 
 ### CAPITULO I. FOMENTO A LA INDUSTRIA
 
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
 398.- El Supremo Tribunal de Justicia del Estado conocerá en única instancia de los juicios de oposición.
@@ -3355,19 +3697,21 @@ En el juicio de oposición no procederá la gestión de negocios.
 
 I.- A las autoridades fiscales por oficio, o por oficio y telegrama a la vez en casos urgentes y cuando se trate de resoluciones que exijan cumplimiento inmediato;
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
 II.- Personalmente a los particulares, en la forma señalada por el Código de Procedimientos Civiles del Estado, o por correo registrado con acuse de recibo, cuando se trate de alguna de las siguientes resoluciones:
 
-a).- La que admita o deseche alguna demanda;
+a).- La que deseche la demanda;
 
-b).- La que señale día para la audiencia;
+b).- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
 c).- La de sobreseimiento y la de la sentencia;
 
-d).- La que manda citar a un tercero;
+d).- La que mande citar a un tercero, por lo que a éste se refiere;
 
 e).- El requerimiento de un acto a la parte que deba cumplirlo;
 
-f).- En cualquier otro caso, si así lo ordena la Sala;
+f).- En cualquier otro caso, si así lo ordena la Sala.
 
 III.- Fuera de los casos señalados en la fracción anterior las notificaciones se harán personalmente en la Sala a los particulares, si se presentan dentro de las veinticuatro horas siguientes a la en que se haya dictado la resolución, y si no se presentan con oportunidad por lista autorizada que se fijará en sitio visible, al día siguiente del acuerdo.
 
@@ -3407,7 +3751,9 @@ VII.- Cuando de las constancias de autos apareciere claramente que no existe el 
 
 VIII.- En los demás casos en que la improcedencia resulte de alguna otra causa.
 
-413.- Procede el sobreseimiento del juicio:
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+413.- El sobreseimiento del juicio es de orden público, en consecuencia se hará valer de oficio tanto por el Magistrado instructor cuanto por el Tribunal en pleno aún cuando aquél hubiese negado su procedencia. Procede el sobreseimiento del juicio:
 
 I.- Cuando el demandante desista del juicio.
 
@@ -3497,7 +3843,11 @@ Si la autoridad no contesta el traslado o no se refiere a todos los hechos en su
 
 #### SECCION SEPTIMA. RECURSOS
 
-427.- Todos los autos dictados dentro del procedimiento, salvo el sobreseimiento, serán reclamables mediante el recurso de revocación en la forma que señale el Código de Procedimientos Civiles del Estado, excepto los acuerdos que se dicten dentro de la audiencia que deberán ser reclamados en ella y se resolverán de plano en la misma audiencia.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+427.- Todos los autos dictados dentro del procedimiento serán reclamables mediante el recurso de revocación. Este deberá interponerse a más tardar dentro del siguiente día al en que surta efectos la notificación del auto que se va a impugnar, excepto los acuerdos que se dicten dentro de la audiencia que deberán ser reclamados y resueltos de plano en ella.
+
+Interpuesto en tiempo el recurso el Tribunal suspenderá la ejecución del auto recurrido y ordenará correr traslado del escrito del recurrente a la parte contraria por el término de tres días. Evacuado que sea o concluído el plazo para hacerlo, sin más trámite se dictará resolución dentro de las 24 horas siguientes. No será necesario cumplir estas formalidades si el recurso se interpone contra acuerdos dictados dentro de la audiencia.
 
 #### SECCION OCTAVA. AUDIENCIA Y FALLO
 
@@ -3567,327 +3917,121 @@ Si la sentencia declara la nulidad del acto impugnado, indicará las bases confo
 
 ## TITULO UNICO. FOMENTO A LA INDUSTRIA Y VIVIENDA
 
-### CAPITULO II. FOMENTO A LA VIVIENDA POPULAR
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+### CAPITULO UNICO. FOMENTO A LA VIVIENDA
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
-435.- Se declara de interés público el establecimiento en el Estado de empresas industriales cuyas líneas de producción sean consideradas nuevas, necesarias, básicas, semibásicas o secundarias, para promover así el desarrollo económico del Estado de Chihuahua. Para este efecto se otorgarán franquicias fiscales en los términos de los artículos siguientes.
+435.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-436.- La duración de la exención se establecerá en función de la clasificación que se haga de la línea o líneas de producción de la industria de transformación de que se trate, mismas que serán clasificadas como nuevas o necesarias. Para efecto del otorgamiento del porcentaje de la franquicia, la línea o líneas de producción se dividirán en básicas, semibásicas y secundarias.
+436.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-437.- Deberá entenderse como industria de transformación, la actividad industrial que tiene como propósito la elaboración de artículos de consumo final y la fabricación de insumos propios o necesarios para la obtención de aquellos, como artículos semi-terminados y maquinaria o herramientas.
+437.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-438.- Se consideran líneas de producción nuevas, aquellas que elaboren artículos terminados y semi-terminados no producidos en el Estado y que no sean substitutos de los que ya se fabriquen en la entidad.
+438.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-439.- Se consideran líneas de producción necesarias:
+439.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-I.- Aquellas que elaboren productos terminados y semi-terminados, cuya producción o la de sus sucedáneos en la fecha en que se solicite la franquicia, sea insuficiente para satisfacer la demanda local, siempre y cuando ese faltante de producción no provenga de causas transitorias;
+440.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-II.- Aquellas que elaboren artículos semi-terminados, cuya producción no pueda aprovecharse localmente por falta de instalaciones industriales, siempre y cuando esta situación no sea transitoria;
+441.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-III.- Aquellas que elaboren artículos terminados cuya inversión inicial en activos fijos necesarios para el objeto industrial de que se trate, venga a incrementar cuando menos en un 0.25% el capital invertido en industrias de transformación en el Estado de Chihuahua, a la fecha en que se solicite la franquicia, y en las cuales el importe de las materias primas, los salarios y prestaciones, la energía y los combustibles, todos ellos de procedencia Estatal, represente un monto equivalente al 75% del costo directo de producción.
+442.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-440.- Para los efectos del artículo anterior, se entenderá por capital invertido el valor monetario de los activos en maquinaria, construcciones, instalaciones, vehículos y demás bienes que sirven como factores de producción.
+443.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-El monto del capital invertido en industrias de transformación en el Estado, será determinado por el Departamento de Economía y el Consejo de Planeación Económica y Fomento Industrial.
-
-441.- Se consideran líneas de producción básica aquellas que fabriquen maquinaria, herramienta, equipo y aparatos científicos.
-
-442.- Se consideran líneas de producción semibásicas aquellas que produzcan mercancías cuyo destino inmediato sea la satisfacción de las necesidades vitales de la población.
-
-443.- Son líneas de producción secundarias aquellas que produzcan mercancías no comprendidas en los dos artículos anteriores.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 #### SECCION SEGUNDA. EXENCIONES
 
-444.- Las líneas de producción de las industrias que sean clasificadas nuevas o necesarias, básicas, semibásicas o secundarias y que reúnan los requisitos establecidos por este Capítulo, podrán gozar de las exenciones o reducciones de todos o algunos de los impuestos y derechos que a continuación se señalan:
+444.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-I.- Impuesto sobre el Comercio y la Industria.
+445.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-II.- Impuesto Predial, exclusivamente por lo que se refiere a los inmuebles ocupados por la industria y que sean de su propiedad.
+446.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-III.- Impuesto sobre Instrumentos Públicos y Privados.
+447.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-IV.- Impuesto sobre Traslación de Dominio, exclusivamente por lo que respecta a la adquisición de bienes raíces destinados a la industria de que se trata.
+448.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-V.- Derechos sobre inscripción en el Registro Público de la Propiedad.
+449.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-Las exenciones previstas en las fracciones II, III, IV y V de este artículo se otorgarán a la unidad económica solicitante por una sola vez.
+450.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-445.- Las exenciones o reducciones en el pago del Impuesto sobre el Comercio y la Industria, se concederán con base a la clasificación que se haga de la línea o líneas de producción, atendiendo a su grado de elaboración y en la forma siguiente:
+451.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-LINEA DE PRODUCCION
+452.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-NUEVA Y BASICA
-
-AÑOS 1 2 3 4 5 6 7 8 9 10
-
-GRADO DE ELABORACION PORCENTAJE EXENCION
-
-15.1 en adelante 100 95 90 85 80 75 70 65 60 55
-
-12.1 15 95 90 85 80 75 70 65 60 55 50
-
-9.1 12 90 85 80 75 70 65 60 55 50 45
-
-6.1 9 85 80 75 70 65 60 55 50 45 40
-
-3.1 6 80 75 70 65 60 55 50 45 40 35
-
-0.1 3 75 70 65 60 55 50 45 40 35 30
-
-LINEA DE PRODUCCION
-
-NUEVA Y SEMIBASICA
-
-15.1 en adelante 95 90 85 80 75 70 65 60 55 50
-
-12.1 15 90 85 80 75 70 65 60 55 50 45
-
-9.1 12 85 80 75 70 65 60 55 50 45 40
-
-6.1 9 80 75 70 65 60 55 50 45 40 35
-
-3.1 6 75 70 65 60 55 50 45 40 35 30
-
-0.1 3 70 65 60 55 50 45 40 35 30 25
-
-LINEA DE PRODUCCION
-
-NUEVA Y SEMIBASICA
-
-15.1 en adelante 90 85 80 75 70 65 60 55 50 45
-
-12.1 15 85 80 75 70 65 60 55 50 45 40
-
-9.1 12 80 75 70 65 60 55 50 45 40 35
-
-6.1 9 75 70 65 60 55 50 45 40 35 30
-
-3.1 6 70 65 60 55 50 45 40 35 30 25
-
-0.1 3 65 60 55 50 45 40 35 30 25 20
-
-LINEA DE PRODUCCION
-
-NECESARIA Y BASICA
-
-AÑOS 1 2 3 4 5 6 7
-
-GRADO DE ELABORACION PORCENTAJE EXENCION
-
-15 en adelante 85 80 75 70 65 60 55
-
-12.1 15 80 75 70 65 60 55 50
-
-9.1 12 75 70 65 60 55 50 45
-
-6.1 9 70 65 60 55 50 45 40
-
-3.1 6 65 60 55 50 45 40 35
-
-0.1 3 60 55 50 45 40 35 30
-
-LINEA DE PRODUCCION
-
-NECESARIA Y SEMIBASICA
-
-15 en adelante 80 75 70 65 60 55 50
-
-12.1 15 75 70 65 60 55 50 45
-
-9.1 12 70 65 60 55 50 45 40
-
-6.1 9 65 60 55 50 45 40 35
-
-3.1 6 60 55 50 45 40 35 30
-
-0.1 3 55 50 45 40 35 30 25
-
-LINEA DE PRODUCCION
-
-NECESARIA Y SECUNDARIA
-
-15 en adelante 75 70 65 60 55 50 45
-
-12.1 15 70 65 60 55 50 45 40
-
-9.1 12 65 60 55 50 45 40 35
-
-6.1 9 60 55 50 45 40 35 30
-
-3.1 6 55 50 45 40 35 30 25
-
-0.1 3 50 45 40 35 30 25 20
-
-446.- Se entenderá por grado de elaboración, el tanto por ciento que en el costo directo de producción represente el valor de los salarios y prestaciones, energía y combustibles utilizados en el ejercicio inicial.
-
-447.- Para los efectos del artículo anterior se entiende por costo directo de producción, el resultado de sumar:
-
-I.- El de las materias primas y artículos semiterminados, o terminados empleados como integrantes del producto resultante de la transformación, puestos en la fábrica de la empresa que se acoja a estos ordenamientos;
-
-II.- El de los salarios y demás prestaciones derivadas de los contratos de trabajo, de los obreros que intervienen directamente en la producción;
-
-III.- El de combustible y otros materiales necesarios para hacer la transformación, también puestos en la fábrica;
-
-IV.- El de la energía utilizada directamente en la transformación;
-
-V.- El de la depreciación de maquinaria y equipos, construcciones e instalaciones, lo que en ningún caso excederá del 10% del total de las fracciones anteriores.
-
-448.- La exención o reducción en el pago del Impuesto Predial, se concederá por la mitad del período que se otorgue a la exención del impuesto sobre el Comercio y la Industria por una sola vez, aún en el caso de que posteriormente se conceda exención sobre Comercio e Industria a otras líneas de producción.
-
-449.- A las empresas cuya situación coincida con la fracción III del artículo 439, se les otorgará la exención sobre Comercio e Industria, únicamente por los primeros cinco años y conforme a lo establecido en el Artículo 445.
-
-Esta franquicia queda sujeta a que se cumplan, también, los demás requisitos que fija este Capítulo.
-
-450.- Los plazos por los que se otorguen las exenciones o reducciones, se computarán a partir de la fecha de la resolución a que se refiere el artículo 456, salvo los casos en que se señale otra fecha específica en el acuerdo respectivo. Las obligaciones fiscales nacidas con anterioridad deberán ser pagadas en su totalidad conforme a las disposiciones respectivas de este Código.
-
-451.- No se concederán exenciones a las siguientes industrias:
-
-I.- Las que son objeto de impuestos privativos de la Federación y en las que el Estado tenga la participación correspondiente;
-
-II.- Las que se encuentren dentro de la lista de líneas de producción saturada que formulen el Departamento de Economía y el Consejo de Planeación Económica y Fomento Industrial que se publicará cuando menos una vez al año en el Periódico Oficial del Estado;
-
-III.- Las que se dediquen a elaborar bebidas gaseosas;
-
-IV.- Las de producción de artículos que puedan causar efectos antisociales;
-
-V.- Las que puedan ocasionar perjuicios a la seguridad y a la economía estatal;
-
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-VI.- Las que en la fabricación de sus productos utilicen materias primas importadas, cuyo valor exceda del 60% del costo de los mismos.
-
-452.- En los casos en que el solicitante fabrique diferentes artículos o mercancías, las exenciones se otorgarán por cada línea de producción, según sea su clasificación. Se entenderá que una empresa industrial elaborará un artículo diferente, cuando éste tenga una diferencia clara en uso frente a aquellos similares y no venga a ser un mero substituto de los que ya fabrica.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 #### SECCION TERCERA. PROCEDIMIENTO
 
-453.- Las personas físicas o morales que pretendan invertir en una industria fabril y deseen acogerse a los beneficios que otorga esta Ley, deberán presentar solicitud por escrito y en cuadruplicado ante el Departamento de Economía, acompañando a la misma, cuando la inversión inicial (suma de los activos), sea superior a los $300,000.00, estudio económico, elaborado y firmado por un Licenciado en Economía, registrado en la oficina Estatal de Profesiones.
+453.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-Dicho estudio deberá hacer referencia a los siguientes aspectos:
+454.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-1.- Objeto de la actividad industrial;
+455.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-2.- Producción;
+456.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-3.- Financiamiento;
+457.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-4.- Mercado;
+458.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-5.- Efectos de la inversión en el desarrollo económico del Estado.
+459.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-Lo anterior con el objeto de que el Gobierno del Estado de Chihuahua pueda determinar y clasificar a la industria que pretende establecerse y estimar la viabilidad económica de la inversión.
+460.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-La solicitud y el estudio deberán presentarse en cualquier tiempo, antes de iniciar la producción.
+461.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-454.- El Departamento de Economía turnará de inmediato un tanto de la documentación a que se refiere el artículo anterior a la Tesorería General del Estado y otro al Consejo de Planeación Económico y Fomento Industrial, para que se abra el expediente respectivo.
+462.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-455.- El Departamento de Economía y la Tesorería General del Estado, recibirán del Consejo de Planeación y Fomento Industrial su opinión por escrito para los efectos del artículo siguiente.
+463.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-456.- Dentro de los 60 días siguientes a la presentación de la solicitud del Departamento de Economía y la Tesorería General del Estado resolverán si existen elementos suficientes para que pueda otorgarse la exención correspondiente. Si la resolución es negativa se archivará el expediente cesando todo procedimiento. En todo caso este acuerdo se notificará al interesado personalmente o por correo certificado.
+464.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-457.- La Tesorería General del Estado y el Departamento de Economía podrán, si lo estiman conveniente, consultar las opiniones de otras Dependencias del Estado y en general de cualquier organismo público o privado, para los efectos del artículo anterior.
+465.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-458.- Si la resolución es favorable a la empresa, ésta presentará, ante el Departamento de Economía a más tardar 60 días después de iniciada la producción, la siguiente documentación:
+466.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-I.- Copia sellada del empadronamiento ante la Tesorería General del Estado, en el caso en que la industria haya iniciado su producción.
+467.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-II.- Copia certificada del Acta Constitutiva de la sociedad, debidamente inscrita en el Registro Público de la Propiedad.
+468.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-III.- Planos del Edificio, con la instalación de la maquinaria y equipo.
-
-IV.- Oficio de la Presidencia Municipal en que certifique que la instalación de la maquinaria no amenaza la tranquilidad de los vecinos.
-
-V.- Oficio de las Autoridades Sanitarias de la Jurisdicción, haciendo constar que la fábrica rúne (sic) los requisitos que las Leyes exigen con relación a la higiene y seguridad.
-
-VI.- Oficio del Departamento de Trabajo, donde conste que la empresa rúne (sic) todos los requisitos relativos a la seguridad industrial.
-
-459.- Una vez que se encuentre debidamente integrado el expediente, el Departamento de Economía enviará al solicitante un aviso para que sea publicado, por una sola vez, a costa del interesado, en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación del lugar donde se localice la industria y en el caso de que no lo hubiere, en uno de los diarios de mayor circulación en la capital del Estado.
-
-460.- El Departamento de Economía turnará de inmediato a la Tesorería General del Estado y al Consejo de Planeación Económico y Fomento Industrial, un tanto del cuestionario y documentos de que habla el artículo 458.
-
-461.- Las personas físicas o morales que pudieran resultar perjudicadas con el otorgamiento de las franquicias fiscales, porque estimen que las líneas de producción de las industrias solicitantes no son nuevas o necesarias, podrán oponerse a su concesión. Las oposiciones deberán presentarse por triplicado al Departamento de Economía dentro de los 30 días naturales siguientes a la fecha de la última publicación, anexando las pruebas que se estimen pertinentes.
-
-462.- En caso de que se presenten una o varias oposiciones, el Departamento de Economía lo comunicará al solicitante para que dentro de un plazo de 10 días manifieste lo que a su derecho convenga y presente pruebas si lo desea. Transcurrido dicho término con base en lo argumentado y en las pruebas que se rindan, si alguna de las partes las promueve, el Departamento de Economía y la Tesorería General del Estado resolverán la oposición.
-
-463.- Mientras se resuelve la oposición se suspenderá el procedimiento administrativo. En su caso, el Departamento de Economía comunicará al interesado su reanudación.
-
-464.- Finalmente, la Tesorería General del Estado y el Departamento de Economía dictaminarán en definitiva sobre la procedencia de la petición, el monto y plazo de las franquicias y clasificando la línea o líneas de producción de la empresa sobre las cuales deban otorgarse. Con base en lo anterior propondrán al Ejecutivo que dicte el acuerdo correspondiente.
-
-465.- El Acuerdo definitivo que recaiga a la solicitud deberá ser firmado por el Gobernador del Estado, el Secretario General de Gobierno, el Tesorero General del Estado y el Jefe del Departamento de Economía y contendrá lo siguiente:
-
-I.- Nombre y domicilio del solicitante;
-
-II.- Artículos o mercancías que fabricará;
-
-III.- Fundamento legal de la exención;
-
-IV.- Exenciones y reducciones de impuestos o derechos que se otorguen;
-
-V.- Plazos y condiciones de los beneficios otorgados;
-
-VI.- Cualquier otro requisito que condicione el disfrute de las exenciones.
-
-466.- Los acuerdos que concedan exenciones o franquicias fiscales, deberán ser publicados, a costa del interesado y por una sola vez, en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación del lugar donde se establezca la empresa y de no haber ninguno, en uno de los diarios de mayor circulación de la Capital del Estado.
-
-467.- El Departamento de Economía turnará a la Tesorería General del Estado y al Consejo de Planeación Económico y Fomento Industrial, un tanto de cada una de las publicaciones a que se refieren los artículos 459 y 466.
-
-468.- En todo lo no previsto en este capítulo, y en caso de situaciones dudosas que surgieran con motivo de la aplicación del Código, el Departamento de Economía de acuerdo con la Tesorería General del Estado proveerá lo necesario para el mejor cumplimiento de dichos ordenamientos.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 #### SECCION CUARTA. OBLIGACIONES DE LOS BENEFICIARIOS
 
-469.- Las exenciones otorgadas en ningún caso podrán aplicarse a productos o mercancías distintas a las señaladas en el Acuerdo de exención.
+469.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-En caso de que la empresa produzca artículos o mercancías no protegidas por el Acuerdo de exención, la persona física o moral deberá señalarlo en su contabilidad expresamente, con el objeto de evitar cualquier confusión en las declaraciones que se presentan a las Autoridades Fiscales.
+470.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-470.- Las industrias que gocen de los beneficios que otorgue este Capítulo, están obligadas a cumplir con las normas de calidad que establezca la Dirección General de Normas de la Secretaría de Industria y Comercio.
+471.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-471.- Las empresas que gocen de exención total o parcial de impuestos, estarán sujetas durante su vigencia a la vigilancia que hará el Departamento de Economía con el objeto de comprobar si están dando cumplimiento a los requisitos que establece este capítulo y el Acuerdo declaratorio de exención del pago de impuestos.
+472.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-472.- Las empresas beneficiadas están obligadas a presentar mensualmente a la Tesorería General del Estado, la declaración de ingresos brutos obtenidos por sus actividades, anotando en ellas el porcentaje de exención que tienen del pago del impuesto y citando el número y fecha del Acuerdo en que se les haya otorgado la exención, así como la fecha en que la misma concluirá.
+473.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-473.- Para facilitar la vigilancia a que alude el artículo 471 las empresas beneficiarias están obligadas a proporcionar al Departamento de Economía, por triplicado, copia de sus estados financieros, dentro de los tres siguientes meses a la formación de dichos estados.
+474.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-474.- En los casos de cesión, traspaso, fusión, cambio de denominación o de razón social, contratos de administración o cualquier otro que implique el aprovechamiento de las franquicias por personas jurídicas distintas a las favorecidas en la declaratoria, los beneficiarios deberán solicitar previamente a la Tesorería General del Estado la autorización correspondiente. La Tesorería General del Estado libremente resolverá si debe o no continuar en vigor la exención.
+475.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-475.- En los casos de quiebra o liquidación, el Representante Legal deberá dar aviso a la Tesorería General del Estado para que ésta resuelva si deben o no continuar vigentes las exenciones concedidas. Si dentro del término de treinta días siguientes a la declaración de quiebra o liquidación no se da el aviso citado, las franquicias serán canceladas.
+476.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-476.- Las empresas que gocen de beneficios fiscales por la fabricación de artículos determinados, no podrán vender al amparo de aquellos, las partes de repuesto que fabriquen para los artículos que produzcan, a menos que el Departamento de Economía lo autorice expresamente.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 #### SECCION QUINTA. INFRACCIONES Y SANCIONES
 
-477.- Los acuerdos que concedan exención de impuestos se revocarán por el Ejecutivo a proposición de la Tesorería General del Estado, en los siguientes casos:
+477.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-I.- Cuando ocasionen graves perjuicios económicos o sociales.
+478.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-II.- Cuando no se ajusten a las normas de calidad que imponga la Secretaría de Industria y Comercio.
+479.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-III.- Cuando desaparezcan las negociaciones beneficiarias.
+480.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-IV.- Cuando se hiciere fusión, cesión o traspaso, cambio de nombre o denominación social, sin el aviso a la Tesorería General del Estado.
-
-V.- Cuando los beneficiarios dejen de cumplir con las condiciones estipuladas en la declaratoria.
-
-VI.- Cuando por tres meses consecutivos dejaren de rendir a la Tesorería General del Estado las declaraciones a que se refiere el artículo 223 del Código Fiscal del Estado, o que se negaran a proporcionar los datos que en el mismo se indican.
-
-VII.- Por renuncia de los beneficiarios.
-
-VIII.- En los demás casos que prevenga este Código.
-
-478.- A los beneficiarios de las franquicias fiscales que contravengan lo dispuesto en el presente capítulo, les será exigido el pago inmediato de los impuestos que deberían haberse causado y se ordenará la cancelación de las franquicias que se les hayan otorgado.
-
-479.- Son infracciones a las disposiciones de este capítulo, y por lo mismo causa de revocación del Acuerdo de las exenciones otorgadas:
-
-I.- La insistencia en negar datos de informes que, con apoyo en las disposiciones legales, se soliciten a los beneficiarios por el Departamento de Economía, o por la Tesorería General del Estado;
-
-II.- La rendición de datos o informes falsos;
-
-III.- Impedir o dificultar, sin causa justificada, la vigilancia que la Tesorería General del Estado y el Departamento de Economía tienen derecho a ejercer en estos casos, de conformidad con lo dispuesto por este Código.
-
-IV.- La reincidencia en infracciones que ameriten la renovación, a juicio de las Autoridades competentes.
-
-480.- Las franquicias fiscales podrán suspenderse hasta por un año, por infracciones que no ameriten cancelación a juicio de la Tesorería General del Estado y el Departamento de Economía.
-
-Las suspensiones se aplicarán de inmediato y su duración se deducirá de los plazos señalados en la respectiva franquicia.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
@@ -4049,7 +4193,7 @@ P.O. 24 DE ABRIL DE 1971.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
-"ARTICULO SEGUNDO.- Mientras se encuentra en vigor el convenio que se aprueba se suspende la aplicación de las disposiciones del Código Fiscal del Estado que en materia del Impuesto sobre el Comercio y la Industria gravan los ingresos por las operaciones previstas en el artículo 202 del Código Fiscal del Estado, en cuanto sean diversos a los autorizados por el artículo 81 de la Ley Federal del Impuesto sobre Ingresos Mercantiles y en el convenio de coordinación de 8 de marzo de 1971 que se aprueba, debiendo percibir el Estado de Chihuahua una cuota adicional del 1.8% sobre importe de los ingresos gravables percibidos dentro de su territorio, de conformidad con las tasas actualmente en vigor salvo las que excedan de dicho porcentaje que quedan reducidas precisamente al 1.8%".
+"ARTICULO SEGUNDO.- Mientras se encuentra en vigor el convenio que se aprueba se suspende la aplicación de las disposiciones del Código Fiscal del Estado que en materia del Impuesto sobre el Comercio y la Industria gravan los ingresos por las operaciones previstas en el artículo 202 del Código Fiscal del Estado, en cuanto sean diversos a los autorizados por el artículo 81 de la Ley Federal del Impuesto sobre Ingresos Mercantiles y en el convenio de coordinación de 8 de marzo de 1971 que se aprueba, debiendo percibir el Estado de Chihuahua una cuota adicional del 1.8% sobre importe de los ingresos gravables percibidos dentro de su territorio, de conformidad con las tasas actualmente en vigor salvo las que excedan de dicho porcentaje que quedan reducidas precisamente al 1.8%."
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación.
 
@@ -4074,3 +4218,25 @@ P.O. 30 DE DICIEMBRE DE 1972.
 DECRETO No. 241-72.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor el día 1o. de enero del año de 1973.
+
+P.O. 30 DE DICIEMBRE DE 1972.
+
+DECRETO No. 235-72.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrara en vigor el día 1o. de enero de 1973.
+
+P.O. 25 DE ABRIL DE 1973.
+
+DECRETO No. 285-73.
+
+ARTICULO TRANSITORIO.- El presente decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE ABRIL DE 1973.
+
+DECRETO No. 286-73.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTICULO SEGUNDO DEL DECRETO No. 286-73, QUE A LA LETRA DICE:</small>
+
+"ARTICULO SEGUNDO.- Mientras se encuentre en vigor el convenio que se aprueba se suspende la aplicación de las disposiciones del Código Fiscal del Estado que en materia del Impuesto sobre el Comercio y la Industria gravan los ingresos por las operaciones previstas en el artículo 202 del Código Fiscal del Estado, sólo en cuanto sean diversos a los autorizados expresa o tácitamente por el artículo 81 de la Ley Federal del Impuesto sobre Ingresos Mercantiles y en el convenio de coordinación que se aprueba, debiendo percibir el Estado de Chihuahua una participación del 45% importe de los ingresos gravables por la citada Ley Federal percibidos dentro de su territorio. A los ingresos gravados por las disposiciones legales estatales, se aplicarán las tasas actualmente en vigor o las que en el futuro se establezcan."
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor en todo el Estado de Chihuahua, a partir de la fecha de su publicación en el Periódico Oficial del Estado.
