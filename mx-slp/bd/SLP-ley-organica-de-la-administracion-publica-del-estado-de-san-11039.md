@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "1999-08-06"
+last_updated: "2001-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -471,9 +471,9 @@ VIII. Establecer y vigilar el cumplimiento de los programas de adquisición de r
 
 IX. Promover mecanismos que faciliten la edificación, el mejoramiento y la rehabilitación de vivienda;
 
-X. Coordinar y en su caso convenir con los organismos operadores la ejecución de los programas del Ejecutivo del Estado en materia de construcción de infraestructura para el abastecimiento de agua potable y servicios de drenaje y alcantarillado;
+X. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
 
-XI. Fomentar y apoyar técnicamente el desarrollo de los sistemas de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales que realicen los Ayuntamientos o sus organismos operadores;
+XI. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
 
 XII. Integrar el Programa Anual de Construcción y Conservación del Gobierno del Estado, a partir de las solicitudes y presupuestos aprobados de las diversas dependencias;
 
@@ -996,3 +996,7 @@ P.O. 6 DE AGOSTO DE 1999.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2001.
+
+UNICO. El presente Decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
