@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1990-03-31"
+last_updated: "1991-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1991.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -245,7 +245,7 @@ e) Emplear cualquiera de los siguientes medios de apremio, que juzguen eficaces,
 
 f) Se embarguen precautoriamente los bienes, el establecimiento o la negociación, cuando el contribuyente no atienda tres requerimientos de la autoridad, por una misma omisión. El embargo quedará sin efectos, cuando el contribuyente cumpla con la obligación de que se trate, o dos meses después de practicado el embargo, si la obligación no es cumplida y las autoridades fiscales no inician el ejercicio de sus facultades de comprobación;
 
-g) Allegarse las pruebas necesarias, para denunciar al Ministerio Público la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva. Las actuaciones que practique el personal autorizado de la Tesorería Municipal, tendrá el mismo valor probatorio que la Ley relativa concede a las actas de la Policía Judicial; la propia Tesorería, a través de los agentes hacendarios que designe; será coadyuvante del Ministerio Público, en los términos del Código de Procedimientos Penales;
+g) Allegarse las pruebas necesarias, para denunciar al Ministerio Público la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva. Las actuaciones que practique el personal autorizado de la Tesorería Municipal, tendrá el mismo valor probatorio que la Ley relativa concede a las actas de la Policía Judicial; la propia Tesorería, a través de los agentes hacendarios que designe; será coadyuvante del Ministerio Público, en los términos del Código de Procedimientos Penales.
 
 h) Comprobar los ingresos de los contribuyentes. A este efecto, se presumirá, salvo prueba en contrario, que la información contenida en los libros, registros, sistemas de contabilidad, documentación comprobatoria y correspondencia que se encuentre en poder del contribuyente, corresponde a operaciones celebradas por él, aún cuando aparezca sin su nombre o a nombre de otra persona;
 
@@ -881,7 +881,9 @@ IX. Los propietarios de predios donde se ubiquen plantas de beneficio, estableci
 
 La base de este impuesto será el valor fiscal de los predios y, en su caso, de las construcciones, determinado en los términos que señalan las leyes de ingresos municipales.
 
-En cuanto a los predios o construcciones que no tengan valores catastrales, servirá de base el valor con que se encuentren fiscalmente empadronados o el valor de operación de traslado de dominio que se registre, aún tratándose de ventas con reserva de dominio, si éste es mayor que aquellos.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1991)</small>
+
+En cuanto a predios o construcciones no anotadas catastralmente, o que no sea posible determinar el valor catastral, servirá de base el valor consignado en el contrato traslativo de dominio, o el de avalúo practicado y aprobado para efectos fiscales con aquel motivo, si éste es mayor que aquél, aún tratándose de ventas con reserva de dominio.
 
 ###### Art. 95.
 
@@ -999,9 +1001,11 @@ Si del informe apareciese algún crédito fiscal insoluto, la autoridad retendr�
 
 ### CAPITULO VII. Impuesto sobre Transmisiones Patrimoniales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 1991)</small>
+
 ###### Art. 112.
 
-Es objeto de este impuesto, la transmisión o adquisición de la propiedad o de Derechos de copropiedad de bienes inmuebles, por cualquier acto o contrato, ya sea que comprendan el suelo, o el suelo y las construcciones adheridas a él, siempre que se ubique, en el territorio de los municipios que comprende el Estado.
+Es objeto de este impuesto la transmisión o adquisición de la propiedad o de derechos de copropiedad de bienes inmuebles, por cualquier acto o contrato, ya sea que comprendan el suelo y las construcciones adheridas a él, siempre que se ubique en el territorio de los Municipios que comprende el Estado y que una misma operación no se grave dos veces.
 
 Para los efectos de este artículo, se entiende por transmisión o adquisición de la propiedad o Derechos de copropiedad de bienes inmuebles:
 
@@ -1045,6 +1049,10 @@ XIII. La disolución o liquidación de la copropiedad, por lo que hace a los exc
 
 XIV. La celebración de contratos de arrendamiento, financiero, y la cesión de derechos del arrendatario; y
 
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1991)</small>
+
+XIV Bis. La transmisión de bienes y derechos, si por rescisión del contrato vuelven al enajenante después de 60 días de la fecha en que se otorgó éste;
+
 XV. Cualquier otro acto o contrato por el que se transmitan bienes inmuebles o derechos sobre los mismos.
 
 Tratándose de permutas, se considerará que se efectúan dos adquisiciones.
@@ -1057,15 +1065,21 @@ Son sujetos de este impuesto las personas físicas o morales que realicen cualqu
 
 Será base de este impuesto, el valor que resulte más alto entre los siguientes:
 
-I. El consignado en avalúo bancario que no podrá tener antigüedad mayor de un año, respecto de la fecha en que se practique;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 1991)</small>
 
-II. El de operación; y
+I. El consignado en avalúo bancario o avalúo practicado por la Dirección de Catastro, que no podrán tener antigüedad mayor de un año, respecto de la fecha en que se practiquen;
+
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 1991)</small>
+
+II. El de operación, excepto cuando la transmisión de dominio se realice sobre un bien inmueble destinado a vivienda y cuya superficie de construcción no exeda (sic) de 65 metros cuadrados; siempre que se acredite ante la autoridad a quien competa la aplicación de esta Ley, que el adquiriente no es propietario de otro bien inmueble;
 
 III. El catastral o con el que fiscalmente se encuentre empadronado el predio;
 
 En la constitución, adquisición, o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el de avalúo a que se refiere la frac. I. Para los fines de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
-Tratándose de permutas, será base de este impuesto, el valor de cada uno de los bienes permutados, determinado de conformidad con lo dispuesto en el primer párrafo de este artículo. En los casos de transmisión o cesión de derechos hereditarios o de disolución de copropiedad, la base del impuesto será el valor de la parte proporcional del bien o bienes que correspondan a los derechos que se transmitan o en que se incrementen las correspondientes porciones de los copropietarios o coherederos, determinado de acuerdo con lo señalado en la frac. I de este artículo.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1991)</small>
+
+Tratándose de permutas, será base de este impuesto, el valor de cada uno de los bienes permutados, determinado de conformidad con lo dispuesto en el primer párrafo de este artículo. En los casos de transmisión o cesión de derechos hereditarios o de disolución de copropiedad, la base del impuesto será el valor de la parte proporcional del bien o bienes que correspondan a los derechos que se transmitan o en que se incrementen las correspondientes porciones de los copropietarios o coherederos, determinado de acuerdo con lo señalado en la Frac. I de este artículo. Si para la disolución de copropiedad o de sociedad legal se consideran valores pecuniarios, la tesorería municipal está facultada a exigir se acredite su existencia para valorarlos.
 
 Cuando con motivo de la adquisición, el adquirente asume la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
 
@@ -1103,7 +1117,9 @@ Para los efectos del Art. 116 de esta Ley, los notarios públicos o quienes haga
 
 Los avisos a que se refiere el artículo anterior, se harán en las formas aprobadas por la Tesorería Municipal, debiendo proporcionar los datos y acompañar los documentos que las mismas indiquen:
 
-Tratándose de operaciones con inmuebles, se acompañarán: el deslinde catastral con superficie, medidas y colindancias actualizadas; el avalúo bancario correspondiente, así como certificado que acredite que se encuentra el inmueble al corriente del pago de las obligaciones fiscales.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1991)</small>
+
+Tratándose de operaciones con inmuebles, se acompañarán: el deslinde catastral, con superficie, medidas y colindancias actualizadas, el avalúo bancario o el practicado por la Dirección de Catastro, así como certificado que acredite que se encuentra el inmueble al corriente del pago de la (sic) obligaciones fiscales.
 
 El deslinde catastral, a que se refiere el párrafo anterior, tendrá vigencia de un año natural, contado a partir de la fecha de expedición.
 
@@ -1116,6 +1132,28 @@ Los peritos están obligados a presentar, precisamente, anexos al avalúo a que 
 a) Si se trata de predios sin construcción alguna: Un plano que exprese perímetro, superficie, medidas y colindancias;
 
 b) Si se tratare de predios en los cuales existieran construcciones inconclusas o terminadas, deberán acompañar además, plano descriptivo de los mismos, especificando el grado de avance, la superficie construida, número de niveles y calidad de la misma.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 1991)</small>
+
+c) Si se trata de predios bajo el régimen de propiedad y condominio, deberá presentar:
+
+En Condominios verticales:
+
+1. Plano del Conjunto donde se localice cada uno de los módulos o edificios;
+
+2. Plano de distribución por planta, delimitando las áreas privativas y las comunes;
+
+3. Régimen del condominio; y
+
+4. Relación de indivisos;
+
+En condominios horizontales:
+
+1. Plano del conjunto donde se ubiquen las manzanas, señalando las áreas privativas y las comunes;
+
+2. Régimen del condominio; y
+
+3. Relación de indivisos
 
 El notario que al formalizar un negocio translativo de dominio, lo hiciere sin exigir que el avalúo lleve la aprobación de la Dirección de Catastro del Estado, incurrirá en responsabilidad solidaria con quien resulte responsable de la omisión.
 
@@ -1983,7 +2021,13 @@ I. Personalmente;
 
 II. Mediante oficio entregado por mensajero, o por correo certificado con acuse de recibo; y
 
-III. Por edictos, únicamente en caso de que la persona a quien deba notificarse haya desaparecido; se ignore su domicilio o se encuentre fuera del Municipio, sin haber dejado representante legal, acreditado ante las autoridades fiscales Municipales.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 1991)</small>
+
+III. Por edicto, en los siguientes casos:
+
+a) Cuando la persona a quien deba notificarse haya desaparecido, se ignore su domicilio o se encuentre fuera del Estado, sin haber dejado representante legal acreditado ante las autoridades fiscales locales; y
+
+b) Cuando se modifiquen los valores catastrales.
 
 ###### Art. 243.
 
@@ -2712,3 +2756,7 @@ Lic. Eugenio Ruiz Orozco
 P.O. 31 DE MARZO DE 1990.
 
 Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 1 DE ENERO DE 1991.
+
+Unico. El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y uno, previa su publicación en el Periódico Oficial El Estado de Jalisco.
