@@ -4,7 +4,7 @@ identifier: "YUC-codigo-electoral-del-estado-de-yucatan-11839"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-16"
-last_updated: "2001-03-12"
+last_updated: "2001-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO ELECTORAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE AGOSTO DE 2001.
 
 Código publicado en el Suplemento al Diario Oficial el 16 de Diciembre de 1994.
 
@@ -4079,6 +4079,10 @@ NOVENO.- Para la acreditación de los representantes de los partidos políticos 
 
 DECIMO.- Se faculta al Consejo Electoral del Estado por esta única vez para realizar las adecuaciones requeridas a los términos y plazos cumplidos o vencidos de este Código, no previstos en los transitorios que anteceden.
 
+> <small>(ADICIONADO, D.O. 9 DE AGOSTO DE 2001)</small>
+
+DECIMO PRIMERO. En virtud de la conformación de la actual Quincuagésima Sexta Legislatura del H. Congreso del Estado, para la designación de los Consejeros del Poder Legislativo por única ocasión, los Consejeros del Poder Legislativo, serán los de aquellos dos Partidos que tengan el mayor número de Diputados, con sus respectivos suplentes en términos del primer párrafo del artículo 87 de este Código.
+
 DADO EN LA SEDE DEL PODER LEGISLATIVO EN LA CIUDAD DE MERIDA, YUCATAN, ESTADOS UNIDOS MEXICANOS, A LOS QUINCE DIAS DEL MES DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y CUATRO. D.P. LINDBERGH MENDOZA DIAZ. D.S. M.V.Z. JOSE MARIA FERNANDEZ MEDINA. D.S. LIC. LUIS ALVARO GAMBOA PACHECO.
 
 Y POR TANTO MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU CONOCIMIENTO Y DEBIDO CUMPLIMIENTO.
@@ -4106,3 +4110,7 @@ CUARTO.- Los actos, resoluciones, acuerdos y contratos tomados o suscritos por q
 QUINTO.- El Consejo Electoral del Estado designado en los términos de esta reforma, podrá disponer de los recursos que le correspondan a partir de la entrada en vigor de este Decreto, de conformidad con lo establecido en la ley.
 
 SEXTO.- Se deja sin efecto y valor alguno cualquier disposición que contravenga lo dispuesto en el presente Decreto, así como cualquier nombramiento efectuado con objeto de que se realicen funciones semejantes al de Consejero Ciudadano Electoral.
+
+D.O. 9 DE AGOSTO DE 2001.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
