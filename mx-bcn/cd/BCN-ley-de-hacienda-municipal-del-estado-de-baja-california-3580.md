@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "2000-01-21"
+last_updated: "2001-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ABRIL DE 2001.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -1975,6 +1975,10 @@ II.- Para el Personal Administrativo:
 
 En las diligencias que se lleven a cabo, el personal administrativo de la Tesorería Municipal tendrá derecho al 1% (que se cobrará adicional si las actuaciones son en el lugar de resistencia de la oficina y si lo hiciere fuera de ese lugar el 2%). El Tesorero Municipal a solicitud del Recaudador y del Jefe de Ejecución indicará cuales son las personas que han intervenido durante la formulación de la documentación respectiva, procediéndose mensualmente a distribuir el importe con base al sueldo presupuestal que devenguen.
 
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
+
+Los honorarios a que se refiere el presente artículo prescriben en un año a partir de la fecha en que se hagan exigibles, transcurrido dicho término pasarán a formar parte de la Hacienda Municipal.
+
 ###### ARTICULO 176.
 
 La Tesorería o las oficinas recaudadoras anticiparán, a reserva de recobrarlas del ejecutado o del producto del remate, las cantidades indispensables para los gastos de que hablan las fracciones II, III, IV y V del artículo 172.
@@ -2280,3 +2284,7 @@ El impuesto pagado con anterioridad a la vigencia del presente Decreto, no da de
 P.O. 21 DE ENERO DEL 2000.
 
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE ABRIL DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial Estado de Baja California.
