@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-19016
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2003-12-24"
+last_updated: "2005-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de diciembre del 2000.
 
@@ -89,7 +89,9 @@ III. Organismos: Las Unidades Descentralizadas, del Estado o de los Municipios, 
 
 IV. Secretaría: La Secretaría de Comunicaciones y Obras Públicas;
 
-V. Finanzas: La Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+V. Administración: La Secretaría de Administración;
 
 VI. Contraloría: La Secretaría de la Contraloría del Estado;
 
@@ -161,13 +163,17 @@ En el ámbito del Poder Ejecutivo, la Secretaría, escuchando la opinión de la 
 
 Lo propio harán el Poder Legislativo y Judicial en su ámbito interior, a través de sus órganos de administración, y los Ayuntamientos por conducto de los órganos facultados conforme al Código Municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 8.
 
-El Poder Ejecutivo aplicará estas disposiciones por conducto de la Secretaría, Finanzas, Planeación y la Contraloría, así como de sus Organismos en el ámbito de su respectiva competencia, por lo que respecta a su obra pública o servicios relacionados con la misma.
+El Poder Ejecutivo aplicará estas disposiciones por conducto de la Secretaría, Administración, Finanzas, Planeación y la Contraloría, así como de sus Organismos en el ámbito de su respectiva competencia, por lo que respecta a su obra pública o servicios relacionados con la misma.
 
 Los Poderes Legislativo y Judicial las aplicarán a través de sus respectivos Órganos de Administración.
 
-Los Ayuntamientos las aplicarán por conducto de sus Tesorerías, Oficialías Mayores y sus Organismos. Cuando realicen obra pública o servicios relacionados con la misma, con subsidios, participaciones o fondos estatales, intervendrán Finanzas y la Contraloría en los términos de esta Ley y demás disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
+Los Ayuntamientos las aplicarán por conducto de sus Tesorerías, Oficialías Mayores y sus Organismos. Cuando realicen obra pública o servicios relacionados con la misma, con subsidios, participaciones o fondos estatales, intervendrán Planeación y la Contraloría en los términos de esta Ley y demás disposiciones legales aplicables.
 
 ###### ARTICULO 9.
 
@@ -257,7 +263,9 @@ VIII. De preferencia, la inclusión de insumos, materiales, equipo, sistemas, bi
 
 IX. Las demás previsiones que deban tomarse en cuenta según la naturaleza y características de la obra pública.
 
-Los planes y programas a que se refiere este artículo en el Poder Ejecutivo y sus Organismos, deberán formularse de acuerdo con la Secretaría, Finanzas y Planeación.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
+Los planes y programas a que se refiere este artículo en el Poder Ejecutivo y sus Organismos, deberán formularse de acuerdo con la Secretaría, con la Secretaría de Finanzas y con Planeación.
 
 Los Poderes Legislativo y Judicial podrán celebrar convenios con el Ejecutivo, para dar cumplimiento a esta disposición.
 
@@ -313,7 +321,9 @@ Los contratos de servicios relacionados con la obra pública solo se podrán cel
 
 En el ámbito estatal, los organismos que sean apoyados presupuestalmente o que reciban transferencias de recursos estatales, remitirán sus programas y presupuestos de obra pública, a la dependencia coordinadora de sector, en los términos que señala la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público.
 
-Las coordinadoras de sector y las dependencias y organismos que no se encuentren agrupadas en sector alguno, enviarán a Planeación y Finanzas los programas y presupuestos mencionados en la fecha que ésta determine, para su examen, aprobación e inclusión, en su caso, en el proyecto de Presupuesto de Egresos correspondiente.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
+Las coordinadoras de sector y las dependencias y organismos que no se encuentren agrupadas en sector alguno, enviarán a Planeación y a la Secretaría de Finanzas los programas y presupuestos mencionados en la fecha que ésta determine, para su examen, aprobación e inclusión, en su caso, en el proyecto de Presupuesto de Egresos correspondiente.
 
 ###### ARTICULO 22.
 
@@ -429,9 +439,11 @@ Las Dependencias y Organismos pondrán a disposición de los interesados, a trav
 
 El uso de los medios de comunicación y difusión electrónica serán regulados en el Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 35.
 
-En casos excepcionales y previa autorización de Planeación o Finanzas, según corresponda, en el Ejecutivo y sus Organismos; de los Órganos de Administración, en el Congreso y en el Supremo Tribunal de Justicia; y del Ayuntamiento en los Municipios y sus Organismos, se podrá convocar sin contar con saldo disponible en su presupuesto.
+En casos excepcionales y previa autorización de Planeación o de la Secretaría de Finanzas, según corresponda, en el Ejecutivo y sus Organismos; de los Órganos de Administración, en el Congreso y en el Supremo Tribunal de Justicia; y del Ayuntamiento en los Municipios y sus Organismos, se podrá convocar sin contar con saldo disponible en su presupuesto.
 
 ###### ARTICULO 36.
 
@@ -569,7 +581,9 @@ En el caso de la fracción IV de este artículo, la garantía se otorgará previ
 
 Las garantías que deban otorgarse conforme a esta Ley, se constituirán a favor de:
 
-I. Finanzas, por actos o contratos que se celebren con las Dependencias Estatales;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+I.- La Secretaría de Finanzas, por actos o contratos que se celebren con las Dependencias Estatales;
 
 II. El Congreso y el Supremo Tribunal de Justicia por actos y contratos que se celebren con ellos;
 
@@ -621,9 +635,11 @@ DE LOS PROCEDIMIENTOS Y CONTRATOS DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON L
 
 Se crea la Comisión Consultiva Estatal de Obra Pública, como Órgano de enlace con la Cámara Mexicana de la Industria de la Construcción, que tendrá por objeto emitir opiniones relacionadas con las materias de esta Ley, las cuales tendrán carácter de recomendaciones no vinculatorias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 46.
 
-La Comisión Consultiva de Obra Pública estará integrada por representantes de la Secretaría, Secretaría General de Gobierno, Finanzas, Secretaría de Desarrollo Urbano y Ecología, Contraloría y Cámara Mexicana de la Industria de la Construcción.
+La Comisión Consultiva de Obra Pública estará integrada por representantes de la Secretaría, Secretaría General de Gobierno, Administración, Finanzas, Secretaría de Desarrollo Urbano y Ecología, Contraloría y Cámara Mexicana de la Industria de la Construcción.
 
 El Secretario de Comunicaciones y Obras Públicas o la persona que éste designe, fungirá como Presidente.
 
@@ -649,7 +665,9 @@ IV. Constituir Subcomités dentro de las Dependencias y Organismos, cuando por l
 
 V. Aquellas otras que de manera especifica señale esta Ley.
 
-En el Poder Ejecutivo y sus Organismos, el Comité se integrará con representantes designados por los titulares de la Secretaría, la Secretaría General de Gobierno, Finanzas, Planeación, así como del Ente Público convocante. La Contraloría, podrá participar en el Comité en calidad de observador.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
+En el Poder Ejecutivo y sus Organismos, el Comité se integrará con representantes designados por los titulares de la Secretaría, la Secretaría General de Gobierno, Administración, Finanzas, Planeación, así como del ente público convocante. La Contraloría, podrá participar en el Comité en calidad de observador.
 
 El representante de la Secretaría fungirá como Presidente del Comité.
 
@@ -1175,9 +1193,11 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 ### CAPITULO UNICO. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 90.
 
-Las infracciones a las disposiciones contenidas en esta Ley, serán sancionadas con suspensión o cancelación del Padrón Único de Contratistas y/o multa. En el Poder Ejecutivo y sus Organismos, las sanciones se impondrán por la Contraloría y se ejecutarán por la Secretaría y Finanzas según corresponda; en el Poder Legislativo y Judicial así como en los Municipios, por sus órganos de control correspondientes.
+Las infracciones a las disposiciones contenidas en esta ley serán sancionadas con suspensión o cancelación del Padrón Único de Contratistas y/o multa. En el Poder Ejecutivo y sus Organismos, las sanciones se impondrán por la Contraloría y se ejecutarán por la Secretaría o por la Secretaría de Finanzas según corresponda; en el Poder Legislativo y Judicial así como en los Municipios, por sus órganos de control correspondientes.
 
 La Contraloría llevará para su información un padrón, en el que se incluyan las personas físicas y morales que hayan sido sancionadas por infracciones a esta Ley.
 
@@ -1352,3 +1372,27 @@ P.O. 24 DE DICIEMBRE DE 2003.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado y se aplicará a partir del ejercicio fiscal de 2004.
+
+P.O. 19 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua se haga referencia a La Dirección, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO TERCERO.
+
+Cuando en la Ley de Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública del Estado de Chihuahua se haga referencia a La Dirección, se entenderá citada la Secretaría de Administración.
+
+###### ARTÍCULO CUARTO.
+
+Cuando en la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios se haga referencia a la Dirección General de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO QUINTO.
+
+Cuando en el Código Fiscal del Estado se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas y cuando en cualquier otro ordenamiento se haga mención a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración se entenderá citada la Secretaría de Finanzas.
+
+Cuando se haga mención de la Oficialía Mayor o de la Dirección General de Administración, la referencia se entenderá hecha a la Secretaría de Administración.
