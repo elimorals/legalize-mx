@@ -4,7 +4,7 @@ identifier: "ZAC-ley-estatal-de-salud-13294"
 country: "mx"
 rank: "ley"
 publication_date: "1985-01-26"
-last_updated: "1985-01-26"
+last_updated: "1987-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ESTATAL DE SALUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 1987.
 
 Ley publicada en el Suplemento al Núm. 8 del Periódico Oficial del Estado de Zacatecas, el sábado 26 de enero de 1985.
 
@@ -949,7 +949,13 @@ XI. Helmintiasis intestinales y extraintestinales;
 
 XII. Toxoplasmosis; y
 
-XIII. Las demás que determinen el consejo de Salud General y los tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte.
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 1987)</small>
+
+XIII.- Síndrome de Inmuno Deficiencia adquirida (SIDA); y
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1987)</small>
+
+XIV. Las demás que determinen el Consejo de Salud General y los tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte.
 
 ###### ARTICULO 110.
 
@@ -961,7 +967,13 @@ II. Inmediatamente, en los casos de cualquier enfermedad que se presente en form
 
 III. En un plazo no mayor de veinticuatro horas en los casos individuales de enfermedades objeto de vigilancia internacional: poliomielitis, meningitis mengocococcica, tipo epidémico, fiebre recurrente transmitida por el piojo, influenza viral, paludismo, sarampión, tosferina, así como los de difteria y los casos humanos de encefalitis equina venezolana; y
 
-IV. En un plazo no mayor de veinticuatro horas de los primeros casos individuales de las demás enfermedades transmisibles que se presenten en un área no infectada.
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 1987)</small>
+
+IV.- Inmediatamente en los casos en que se detecte la presencia del Virus de Inmuno Deficiencia Humana (VIH) o de anticuerpos de dichos Virus en alguna persona; y
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1987)</small>
+
+V. En un plazo no mayor de veinticuatro horas de los primeros casos individuales de las demás enfermedades transmisibles que se presenten en un área no infectada.
 
 ###### ARTICULO 111.
 
@@ -1979,17 +1991,23 @@ III. Las condiciones socio-económicas del infractor; y
 
 IV. La calidad de reincidentes del infractor.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1987)</small>
+
 ###### ARTICULO 283.
 
-Se sancionará con multa equivalente hasta de veinte veces el salario mínimo general diario vigente en la zona económica de que se trate la violación de las disposiciones que tiendan a la prevención de epidemias, atención de las consecuencias derivadas de desastres y auxilio de los minusválidos.
+Se sancionará con multa equivalente hasta de veinte veces el Salario Mínimo General diario vigente en la Zona Económica de que se trate a quienes violen las disposiciones contenidas en los Artículos 51, 52, 77, 92, 111, 112, 113, 125, 163, 238, 242, 257, 258.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1987)</small>
 
 ###### ARTICULO 284.
 
-Cuando la sanción sea la señalada por la fracción I del Artículo 284 se calculará por el equivalente de diez hasta cien veces el salario mínimo general diario vigente en la zona económica de que se trate.
+Se sancionará con multa equivalente de diez hasta cien veces el Salario Mínimo General diario vigente en la Zona Económica de que se trate, la violación de las disposiciones contenidas en los Artículos 104, 111, 121, 239, 265 y 276.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1987)</small>
 
 ###### ARTICULO 285.
 
-Se sancionará con multa equivalente de cincuenta a quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate la violación a las disposiciones protectoras de la vida, de la salud física y mental, la transmisión de enfermedades venéreas.
+Se sancionará con multa equivalente de cincuenta a quinientas veces el Salario Mínimo General diario vigente en la Zona Económica de que se trate, la violación de las disposiciones del Artículo 105.
 
 ###### ARTICULO 286.
 
@@ -2208,3 +2226,11 @@ LIC. JOSE GUADALUPE CERVANTES CORONA
 EL SECRETARIO DE GOBIERNO
 
 LIC. ROBERTO ALMANZA FELIX
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE OCTUBRE DE 1987
+
+###### ARTICULO UNICO.
+
+Las presente Reformas y Adiciones, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
