@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1987-07-09"
+last_updated: "1987-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 1987.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -441,6 +441,10 @@ Procede el recurso de reclamación ante el Supremo Tribunal de Justicia del Esta
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
+SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 ###### ARTICULO 38.
 
 El asiento del Congreso es la Capital del Estado. Podrá trasladarse provisionalmente a otro lugar cuando se presenten circunstancias que lo ameriten y así lo acuerden cuando menos las dos terceras partes de los diputados presentes en la sesión en que se trate.
@@ -531,10 +535,6 @@ El Gobernador, dentro de los últimos quince días de su mandato, enviará al Co
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION D.- DE LAS FACULTADES DEL CONGRESO
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 1984)</small>
-
 ## TITULO TERCERO
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
@@ -589,9 +589,9 @@ Ninguna iniciativa que sea desechada por el Congreso podrá ser presentada de nu
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION E.- DE LA COMISION PERMANENTE
+SECCION D.- DE LAS FACULTADES DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 55.
 
@@ -687,9 +687,9 @@ XXI.- Constituirse en Colegio Electoral para calificar las elecciones de Goberna
 
 XXII.- Tomarles la protesta de ley al Gobernador y a los Magistrados del Supremo Tribunal de Justicia;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
 
-XXIII.- Erigirse en Gran Jurado en los casos establecidos por ésta Constitución;
+XXIII.- Erigirse en Jurado de Acusación en los casos de presunta responsabilidad política y penal;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -711,9 +711,9 @@ XXVII.- Autorizar al Ejecutivo y a los Ayuntamientos para la enajenación de bie
 
 XXVIII.- Declarar electos a los candidatos a Senadores que hubieren obtenido la mayoría de los votos emitidos;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
 
-XXIX.- Investigar y en su caso, fincar responsabilidades por enriquecimiento indebido, a las personas que hubieren desempeñado los cargos a que se refiere el Artículo 122 de esta Constitución; y
+XXIX.- Llevar un registro del patrimonio de los servidores públicos a que se refiere el Artículo 122 de esta Constitución, e investigar en el caso de que exista presunción de enriquecimiento ilícito de alguno de los servidores mencionados en dicho Artículo, procediendo en tal caso, conforme a lo establecido en las leyes correspondientes;
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1980)</small>
 
@@ -747,9 +747,17 @@ XXXIV.- Resolver sobre las controversias que se susciten entre los Municipios; y
 
 > <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1984)</small>
 
-XXXV.- Expedir, con base en lo dispuesto en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias, leyes que rijan las relaciones de trabajo entre el Estado y sus trabajadores y entre los Municipios y quienes laboran a su servicio.
+XXXV.- Expedir, con base en lo dispuesto en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias, leyes que rijan las relaciones de trabajo entre el Estado y sus trabajadores y entre los Municipios y quienes laboran a su servicio;
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 1987)</small>
+
+XXXVI.- Recibir las declaraciones y resoluciones de las Cámaras de Diputados y Senadores del Congreso de la Unión en materia de responsabilidades de los servidores públicos.
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+SECCION E.- DE LA COMISION PERMANENTE
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 56.
 
@@ -779,11 +787,7 @@ VI.- Las demás que le confiere está Constitución.
 
 La Comisión Permanente dará cuenta en la segunda sesión del período ordinario siguiente de la Legislatura, de las labores desarrolladas, presentando al efecto una memoria escrita de sus trabajos, así corno de los expedientes que hubiere formado.
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ### CAPITULO TERCERO. DEL PODER EJECUTIVO
 
@@ -861,9 +865,9 @@ SECCION B.- DE LAS FALTAS Y LICENCIAS DEL GOBERNADOR
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-### CAPITULO UNICO. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS PUBLICOS
+### CAPITULO UNICO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1987)</small>
 
 ###### ARTICULO 63.
 
@@ -947,7 +951,9 @@ IV.- Iniciar ante el Congreso leyes y decretos;
 
 V.- Nombrar y remover libremente a los funcionarios y empleados de confianza las dependencias del Poder Ejecutivo; Concederles licencias con o sin goce de sueldo y aceptarles renuncias;
 
-VI.- Nombrar a los trabajadores del Poder Ejecutivo y removerlos cuando haya causa que lo justifique;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
+
+VI.- Nombrar a los servidores públicos del Poder Ejecutivo y removerlos cuando haya causa que lo justifique; así como plantear al Congreso del Estado los casos de los servidores públicos que ameriten la iniciación de un juicio político por faltas u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho; independientemente de las facultades concedidas por la Ley respectiva en caso de responsabilidad administrativa y civil.
 
 VII.- Excitar a los Tribunales a la más pronta y cumplida administración de justicia;
 
@@ -1015,27 +1021,39 @@ XXXI.- Las demás que expresamente le confiere esta Constitución y las Leyes re
 
 SECCION D.- DEL SECRETARIO GENERAL DE GOBIERNO
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1987)</small>
 
 ###### ARTICULO 71.
 
-Para el auxilio en el despacho de los asuntos competencia del Poder Ejecutivo, sin que sea limitativo, habrá un Secretario General de Gobierno, un Secretario de Finanzas, un Secretario de Justicia, un Secretario de Obras Públicas y un Oficial Mayor; cuyas facultades generales se establecen en la Ley Orgánica de la Administración Pública.
+Para el auxilio en el despacho de los asuntos competencia del Poder Ejecutivo, sin que sea limitativo, habrá un Secretario General de Gobierno, una Secretaría de Finanzas; Secretaría de Desarrollo Urbano y Obras Públicas; Secretaría de Desarrollo Económico; Secretaría de Educación, Cultura y Promoción Social; Secretaría de Salud Pública; Secretaría de la Contraloría; un Procurador General de Justicia y un Oficial Mayor de Gobierno.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+Las Sub-Secretarías no previstas en este Capítulo, y las unidades administrativas que se consideren necesarias, así como las facultades generales de los funcionarios a que se refiere este Artículo, se determinarán en la Ley Orgánica de la Administración Pública.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1987)</small>
 
 ###### ARTICULO 72.
 
-Para ser Secretario General de Gobierno, se requiere:
+Para ser Secretario General de Gobierno y Sub-Secretario, se requiere:
 
-I.- Ser ciudadano duranguense por nacimiento, en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
+
+I.- Ser ciudadano duranguense por nacimiento, en pleno ejercicio de sus derechos o ciudadano duranguense en pleno ejercicio de sus derechos con residencia efectiva dentro del territorio del Estado que no sea menor de diez años inmediatamente anteriores al día de su designación. Si es nativo del Estado, tener cuando menos seis años de residencia efectiva dentro del territorio del Estado inmediatamente anteriores al día de su designación;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 II.- Ser mayor de 28 años de edad;
 
-III.- Poseer título de Licenciado en Derecho;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
 
-IV.- Tener cuando menos dos años de residencia en el Estado, inmediatamente anteriores a su nombramiento;
+III.- Poseer Título Profesional en grado de licenciatura;
+
+IV.- (DEROGADA, P.O. 30 DE AGOSTO DE 1987)
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 V.- No haber sido Gobernador del Estado por elección popular ordinaria o extraordinaria; y
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 VI.- Ser de reconocida probidad y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión, excepto los delitos por culpa, pero tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo.
 
@@ -1055,13 +1073,11 @@ II.- Encargarse del despacho del Poder Ejecutivo durante las faltas temporales d
 
 III.- Desempeñar las comisiones y cargos que las leyes expresamente le confieran.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1987)</small>
 
 ###### ARTICULO 74.
 
-En las faltas temporales del Secretario General de Gobierno lo suplirá el Oficial Mayor de Gobierno con el carácter de Subsecretario, quien tendrá las facultades y obligaciones que le señale la Ley.
-
-Para ser Oficial Mayor de Gobierno se exijirán (sic) los mismos requisitos que para Secretario General de Gobierno, con excepción del titulo de Licenciado en Derecho.
+Para ser Oficial Mayor de Gobierno se exigirán los mismos requisitos que para ser Secretario General de Gobierno.
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1103,7 +1119,9 @@ Los habitantes del Estado y quienes residiendo en él tuvieren bienes en su terr
 
 La coordinación, planeación y control de la Hacienda Pública del Estado, estará a cargo de un Secretario de Finanzas, dependiente del Ejecutivo, cuyas atribuciones determinará la Ley Orgánica de la Administración Pública del Estado.
 
-El Secretario de Finanzas, deberá satisfacer los requisitos establecidos en el Artículo 72, excepto los señalados en sus Fracciones III y V.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1987)</small>
+
+El Secretario y el Sub-Secretario de Finanzas deberán satisfacer los requisitos establecidos en el Artículo 72, excepto los señalados en sus fracciones III y V.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
@@ -1151,23 +1169,21 @@ V.- Las demás que ésta Constitución y leyes respectivas le señalen.
 
 El ejercicio de las funciones del Ministerio Público se deposita en un Secretario de Justicia, un Subsecretario y en los Agentes que determine la Ley respectiva, los que serán nombrados y removidos libremente por el Gobernador del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 1980)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1987)(F. DE E., P.O. 12 DE DICIEMBRE DE 2002)
 
 ###### ARTICULO 84.
 
-Para ser Secretario de Justicia o Subsecretario se requiere:
+Para ser Procurador o Sub-Procurador se requiere:
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+(REFORMADA, P.O. 30 DE AGOSTO DE 1987)(F. DE E., P.O. 12 DE DICIEMBRE DE 2002)
 
-I.- Ser ciudadano duranguense por nacimiento, en pleno ejercicio de sus derechos;
+I.- Ser ciudadano duranguense por nacimiento en pleno ejercicio de sus derechos; o ciudadano duranguense en pleno ejercicio de sus derechos con residencia efectiva dentro del territorio del Estado que no sea menor de diez años inmediatamente anteriores al día de su designación. Si es nativo del Estado, tener cuando menos seis años de residencia efectiva dentro del territorio del Estado; inmediatamente anterior al día de su designación;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 II.- Ser mayor de 28 años de edad;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-III.- Tener cuando menos dos años de residencia efectiva en el Estado, inmediatamente anteriores al día del nombramiento;
+III.- (DEROGADA, P.O. 30 DE AGOSTO DE 1987)(F. DE E., P.O. 12 DE DICIEMBRE DE 2002)
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1183,15 +1199,15 @@ V.- No haber sido condenado a más de un año de prisión excepto el caso de del
 
 Para ser Agente del Ministerio Público se deben satisfacer los requisitos que al efecto establece la ley reglamentaria respectiva.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1987)</small>
 
 ###### ARTICULO 86.
 
-El Subsecretario de Justicia suplirá al Secretario de Justicia en sus faltas temporales.
+El Sub-Procurador de Justicia suplirá al Procurador en sus faltas temporales.
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE AGOSTO DE 1987)</small>
 
-SECCION G.- DEL SERVICIO SOCIAL PARA LA DEFENSA DE INDIGENTES
+SECCION G.- DE LAS PROCURADURIAS Y DEFENSORIAS DE OFICIO
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1199,17 +1215,25 @@ SECCION G.- DEL SERVICIO SOCIAL PARA LA DEFENSA DE INDIGENTES
 
 Para la defensa y patrocinio en juicio de los intereses de las personas que no cuentan con los recursos económicos suficientes para sufragar los honorarios de un profesional del derecho, funcionarán:
 
-I.- Defensorías de Oficio para patrocinar a los reos en asuntos penales;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
 
-II.- Procuradurías de Asuntos Civiles para el asesoramiento, representación y patrocinio de personas en negocios de carácter civil; y
+I.- Las Defensorías de Oficio en materia penal;
 
-III.- Procuradurías de la Defensa del Trabajo para el asesoramiento y patrocinio de los trabajadores de la Entidad.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+II.- Procuradurías para el asesoramiento, representación y patrocinio de personas en negocios de carácter civil y familiar;
+
+III.- Procuradurías de la Defensa del Trabajo para el asesoramiento y patrocinio de los trabajadores de la Entidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 1987)</small>
+
+IV.- Procuradurías para la Defensa del Menor.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1987)</small>
 
 ###### ARTICULO 88.
 
-El Ejecutivo del Estado nombrará y removerá libremente a los Defensores de Oficio, Procuradores de Asuntos Civiles y Procuradores de la Defensa del Trabajo.
+El Ejecutivo del Estado nombrará y removerá libremente a los Defensores de Oficio, Procuradores de Asuntos Civiles y Familiares; Procuradores de la Defensa del Trabajo; y Procuradores de la Defensa del Menor.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1219,7 +1243,7 @@ Para ocupar los cargos a que se refiere el Artículo anterior, se deben satisfac
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
+SECCON A.- DE SU ORGANIZACION
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
@@ -1333,11 +1357,7 @@ XII.- Conocer del recurso de reclamación contra las resoluciones del Colegio El
 
 La Ley fijará los requisitos de procedimiento y el trámite a que se sujetará este recurso.
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-SECCON A.- DE SU ORGANIZACION
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 98.
 
@@ -1375,7 +1395,11 @@ Los Jueces de Primera Instancia, Menores, Municipales y Auxiliares durarán en s
 
 Los Presidentes de las Juntas Municipales, Jefes de Cuartel y de Manzana, son auxiliares en la administración de la justicia y, para ese efecto, se sujetarán a las disposiciones de la Ley Orgánica del Poder Judicial.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
 ###### ARTICULO 103.
 
@@ -1398,6 +1422,10 @@ Los Presidentes Municipales, Síndicos y Regidores de Ayuntamientos electos popu
 Los Municipios, estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la Ley.
 
 Los Ayuntamientos poseerán facultades para expedir, de acuerdo con las bases normativas que deberá establecer la Legislatura del Estado, los Bandos de Policía y Buen Gobierno y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 1987)</small>
+
+La Ley del Municipio Libre del Estado de Durango, precisará el carácter de servidores públicos, de quienes desempeñan un empleo, cargo o comisión en la Administración Municipal, para los efectos de sus responsabilidades.
 
 > <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
 
@@ -1521,35 +1549,71 @@ Son propiedad del Municipio los bienes inmuebles ubicados dentro de su jurisdicc
 
 ###### ARTICULO 116.
 
-Los diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, el Secretario General de Gobierno, el Tesorero General, el Procurador General de Justicia y el Subprocurador son responsables de los delitos comunes que cometan durante el tiempo de su encargo y de los delitos, faltas u omisiones en que incurran en el ejercicio de sus cargos.
+Para los efectos de las responsabilidades a que alude este Capítulo, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial del Estado y, en general, a toda persona que desempeñe un cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o de los municipios, así como a quienes presten servicios en los organismos públicos descentralizados y empresas de participación estatal o municipal mayoritaria, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-El Gobernador del Estado, durante el tiempo de su encargo, solo podrá ser acusado por traición a la Patria y delitos graves del orden común.
+El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acusado de traición a la Patria y por delitos graves del orden común.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1987)</small>
 
 ###### ARTICULO 117.
 
-Los funcionarios públicos a que se refiere el Articulo anterior, no pueden ser procesados por delitos comunes u oficiales sin que el Congreso erigido en Gran Jurado, declare, por el voto de las dos terceras partes de los diputados que lo integran, que da lugar a formación de causa.
+Las normas conducentes a sancionar a quienes, teniendo el carácter de servidores públicos y que incurran en responsabilidad, se fijarán conforme a las siguientes prevenciones:
 
-Tratándose de delitos comunes, hecha la declaración indicada, el funcionario quedará suspendido en su encargo y sujeto a la acción de los tribunales. Cuando se trate de delitos oficiales, hecha la declaratoria, el funcionario quedará suspendido de su encargo y será el Congreso quien conozca de la causa como jurado de acusación y Supremo Tribunal de Justicia actuará como Jurado de Sentencia. Si la declaración del Congreso fuere en sentido negativo, no habrá lugar a formación de causa ni a procedimiento ulterior; pero tal declaración no será obstáculo para que pueda formarse acusación ante los tribunales cuando el funcionario haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación.
+I.- Se impondrá, mediante juicio político, las sanciones previstas en el Artículo 118 de este Capítulo, a los servidores públicos señalados en dicho precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+No procede el Juicio Político por la mera expresión de ideas.
+
+II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la legislación penal; y
+
+III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el cumplimiento de sus empleos, cargos o comisiones.
+
+Los procedimientos para la aplicación de las sanciones mencionadas en la fracción III de este Artículo, se desarrollarán autónomamente.- No podrán imponerse por la misma conducta sanciones de igual naturaleza en diversos procedimientos.
+
+Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que, durante el tiempo de su encargo, o por motivo del mismo, por sí o por interpósita persona, adquieran bienes que acrecenten su patrimonio en forma desproporcionada a sus ingresos lícitos. La Ley Penal sancionará con el decomiso y con la privación de la propiedad de dichos bienes, sin que se pueda considerar confiscatoria, además de las otras penas que correspondan.
+
+A cualquier ciudadano, bajo su más estricta responsabilidad y aportando elementos de prueba, se le concede acción popular para denunciar por escrito ante el Congreso del Estado, las conductas ilícitas a que se refiere el presente Artículo.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1987)</small>
 
 ###### ARTICULO 118.
 
-Los funcionarios a que se refiere el Artículo 116 no gozarán de fuero constitucional por los delitos oficiales, faltas u omisiones públicas que hayan aceptado durante el período en que conforme a la Ley, se disfrute del fuero. Lo mismo sucederá respecto a los delitos comunes que cometan durante el desempeño de tal empleo, cargo o comisión. Para que la causa pueda iniciarse cuando el funcionario haya vuelto a ejercer sus funciones propias, deberá procederse con arreglo a lo dispuesto en el Artículo anterior.
+Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia; los Jueces de los Juzgados a que se refiere el Artículo 90 de esta Constitución los Secretarios y Subsecretarios de Despacho; los Jefes o Directores de departamentos gubernamentales; el Procurador y Sub-Procurador de Justicia; los munícipes; el Tesorero; el Secretario, Síndico y Regidores de los Ayuntamientos; así como los directores o sus equivalentes de organismos públicos descentralizados y empresas de participación estatal o municipal mayoritaria.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+
+Para la aplicación de las sanciones a que se refiere este precepto, el Congreso del Estado, previa declaración de la mayoría absoluta del número de sus miembros presentes en Sesión, y después de haber sustanciado el procedimiento respectivo, con audiencia del inculpado, procederá a formular la acusación respectiva.
+
+El Supremo Tribunal de Justicia, como Jurado de Sentencia, conocerá de la acusación sustanciando el procedimiento con audiencia del acusado y aplicará la sanción correspondiente. La resolución del Supremo Tribunal de Justicia será inatacable.
+
+El procedimiento de juicio político, sólo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después.- Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1987)</small>
 
 ###### ARTICULO 119.
 
-Los miembros de los Ayuntamientos son responsables de los delitos oficiales y comunes que cometan en el desempeño de sus funciones tratándose de los primeros será el Congreso erigido en Gran Jurado, el que conozca y resuelva sobre la responsabilidad y sanciones aplicables en cada caso; respecto de los segundos no gozarán de fuero y serán juzgados por los tribunales.
+Para proceder penalmente contra los Diputados del Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los Secretarios de despacho, el Procurador General de Justicia y los Presidentes Municipales, el Congreso declarará, por mayoría absoluta de los Diputados integrantes de la Legislatura, si ha o no lugar a proceder contra el inculpado.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+Si la resolución del Congreso fuese negativa, se supenderá (sic) todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluído el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+
+Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes, para que actúen con arreglo de la Ley. El efecto de la declaración que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal. Si este culmina con sentencia absolutoria, el servidor público podrá reasumir su función; si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
+
+En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá declaración de procedencia. En los juicios del orden civil no hay fuero ni inmunidad.
+
+Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal.
+
+No se requerirá declaración de procedencia del Congreso, cuando alguno de los servidores públicos a que se hace referencia en el párrafo primero de éste Artículo, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
+
+La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley Penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los encargos a que hace referencia el Artículo 119.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1987)</small>
 
 ###### ARTICULO 120.
 
-La responsabilidad proveniente de delitos oficiales es exigible a los funcionarios públicos durante el período de su encargo y un año después de concluido.
+Las Leyes sobre responsabilidades administrativas de los servidores públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos o comisiones, así como las sanciones aplicables por los actos u omisiones en que incurran y, los procedimientos y autoridades para aplicarlas.
+
+Dichas sanciones, además de las que señalan las leyes consistirán en suspensión destitución e inhabilitación, así como en sanciones económicas, las que deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere el Artículo 117, las que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+
+La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del Artículo 117.- Cuando dichos actos u omisiones fueren graves, los plazos de prescripción no serán inferiores a tres años.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1557,17 +1621,17 @@ La responsabilidad proveniente de delitos oficiales es exigible a los funcionari
 
 Todo funcionario público, antes de tomar posesión de su cargo, protestará guardar la Constitución General de la República y la del Estado, según la fórmula siguiente: "PROTESTAIS GUARDAR Y HACER GUARDAR LA CONSTITUCION GENERAL DE LA REPUBLICA, LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE.... QUE EL PUEBLO OS HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DE LA NAClON Y DEL ESTADO?". Después de haber contestado el interpelado: "'SI PROTESTO", el que interroga dirá: "SI ASI NO LO HICIEREIS, QUE LA NACION Y EL ESTADO OS LO DEMANDEN".
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1987)</small>
 
 ###### ARTICULO 122.
 
-Los Diputados, el Gobernador, el Secretario General de Gobierno, el Tesorero General del Estado, los Recaudadores de Rentas, el Oficial Mayor, los titulares de las direcciones del Poder Ejecutivo, el Procurador General de Justicia, el Subprocurador, los Agentes del Ministerio Público, los Magistrados del Supremo Tribunal de Justicia, los Jueces, los Presidentes de los Ayuntamientos y Tesoreros Municipales, después de tomar posesión de sus cargos y al dejarlos, deberán, bajo protesta de decir verdad, presentar al Congreso una relación escrita de sus bienes inmuebles, valores, depósitos en numerario, acciones de sociedades, bonos o títulos financieros, vehículos y en general de los bienes que integren su patrimonio; estas relaciones deberán presentarse dentro del mes siguiente al día en que tomen posesión y al en que dejen sus cargos, respectivamente.
+El Gobernador Constitucional del Estado; los Diputados del Congreso del Estado; los Magistrados del Supremo Tribunal del (sic) Justicia y los Jueces; los Secretarios de Despacho; los Recaudadores de Rentas; el Procurador General de Justicia; los Presidentes, Regidores, Síndicos, Tesoreros y Secretarios de los Ayuntamientos; así como todos los demás servidores públicos que determine la Ley de Responsabilidades respectiva, deberán presentar ante la Contaduría Mayor del Congreso del Estado, bajo protesta de decir verdad, una declaración anual de su estado patrimonial el que deberá contener: una relación escrita de sus bienes inmuebles, valores, depósitos en numerario acciones de sociedades, bonos o títulos financieros, vehículos y en general los bienes que integran su patrimonio.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1987)</small>
 
 ###### ARTICULO 123.
 
-El Congreso expedirá la Ley de Responsabilidades de los funcionarios y empleados del Estado y de los Municipios.
+El Congreso del Estado expedirá la Ley de Responsabilidades de los Servidores Públicos.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1611,7 +1675,7 @@ La residencia señalada como requisito de elegibilidad o de nombramiento para ca
 
 ## TITULO QUINTO
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE AGOSTO DE 1987)</small>
 
 ###### ARTICULO 130.
 
@@ -1940,3 +2004,17 @@ Artículo Segundo.- Las Leyes reglamentarias continuarán en vigor en lo que no 
 P.O. 9 DE JULIO DE 1987.
 
 UNICO.- El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE AGOSTO DE 1987.
+
+DECRETO No. 52.
+
+UNICO.- El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE AGOSTO DE 1987.
+
+DECRETO No. 53.
+
+PRIMERO.- Se derogan todas las disposiciones que se opongan al presente.
+
+SEGUNDO.- El presente Decreto entrará en vigor tres días después del de su publicación en el Periódico Oficial de Estado.
