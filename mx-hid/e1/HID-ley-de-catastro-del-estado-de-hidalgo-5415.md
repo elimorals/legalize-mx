@@ -4,7 +4,7 @@ identifier: "HID-ley-de-catastro-del-estado-de-hidalgo-5415"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-13"
-last_updated: "1991-12-13"
+last_updated: "2003-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE CATASTRO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CATASTRO DEL ESTADO DE HIDALGO, PUBLICADA EN EL PERIODICO OFICIAL EL 24 DE NOVIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 13 de diciembre de 1991.
 
@@ -448,3 +450,23 @@ LIC. ADOLFO LUGO VERDUZCO
 EL SECRETARIO DE GOBERNACION
 
 PROFR. HERNAN MERCADO PEREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 24 DE NOVIEMBRE DE 2003.
+
+PRIMERO.- La presente Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se abroga la Ley de Catastro del Estado de Hidalgo, publicada en el Periódico Oficial del Estado el 13 de diciembre de 1991 y se derogan todas las demás disposiciones en lo que se opongan a la presente Ley.
+
+TERCERO.- En tanto se expidan las disposiciones administrativas derivadas de esta Ley, seguirán en vigor las que rigen actualmente, en lo que no la contravengan.
+
+CUARTO.- El Instituto emitirá los instructivos y manuales a que se refiere esta Ley, en un plazo de 12 meses contados a partir de la fecha de su entrada en vigor.
+
+QUINTO.- Todos los actos, procedimientos y recursos administrativos relacionados con la materia de esta Ley que se hubieren iniciado bajo la vigencia de la Ley de Catastro que se abroga, se tramitarán y resolverán conforme a las disposiciones de la misma.
+
+SEXTO.- Las zonas catastrales y los valores unitarios de suelo y construcción vigentes al momento de la publicación de esta Ley, continuarán vigentes hasta que el Congreso del Estado expida los nuevos.
+
+SEPTIMO.- Los peritos valuadores y topógrafos que cuenten con registro vigente al momento de la entrada en vigor de esta Ley, deberán tramitar su renovación al momento de la caducidad de su registro de acuerdo con las disposiciones de la misma.
+
+OCTAVO.- Se concede un plazo de seis meses, contados a partir de la fecha de entrada en vigor de esta Ley, para que los propietarios o poseedores de inmuebles acudan ante la Autoridad Catastral Municipal competente a manifestarlos.
