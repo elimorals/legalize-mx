@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2004-05-08"
+last_updated: "2004-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2004.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -599,7 +599,15 @@ b) Remitir mensualmente al Congreso, a más tardar el día 15, la cuenta detalla
 
 c) Autorizar y remitir al Congreso, para su aprobación, entre el 1o. y el 15 del mes de noviembre de cada año, la iniciativa de ley general de ingresos municipales para el siguiente año; en caso de incumplimiento quedará vigente ley (sic) general de ingresos municipales del ejercicio fiscal vigente;
 
-d) Aprobar el dictamen de revisión de la cuenta pública que le presente la comisión de hacienda y remitirla para su revisión y fiscalización al Congreso antes del último día de febrero;
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2004)</small>
+
+d) Aprobar el dictamen de revisión de los resultados semestrales de la cuenta pública municipal que presenten conjuntamente la comisión de hacienda y síndico municipal, con base en el proyecto que presente la tesorería municipal, así como del informe de revisión que entregue la contraloría municipal, y remitirla al Congreso dentro de los 30 días naturales siguientes a la conclusión de cada semestre, para los efectos señalados en el artículo 33 fracción XI de la Constitución
+
+Dichos resultados se elaborarán por los meses comprendidos de enero a junio y de julio a diciembre de cada año, debiendo integrar en este último periodo las cifras consolidadas anuales de los resultados de la gestión municipal. Respecto del primer semestre del año, los resultados tendrán carácter provisional, por lo que podrán sufrir ajustes durante el semestre siguiente, mismos que habrán de reflejarse en los resultados anuales.
+
+La aprobación del dictamen de revisión por el Cabildo no impide que se finquen responsabilidades a los servidores públicos que hayan incurrido en ellas, si del resultado de la revisión se determinan faltas administrativas ello en los términos que establece la Ley Estatal de Responsabilidades de los Servidores Públicos.
+
+Si de las faltas administrativas se desprendieran hechos constitutivos de delitos contra el Estado y la administración pública municipal, el cabildo, el síndico, la comisión de hacienda municipal o la contraloría municipal deberán denunciarlos ante la autoridad competente.
 
 e) Aprobar entre el 16 y el 31 de diciembre de cada año, el presupuesto anual de egresos del siguiente ejercicio, con base en sus ingresos disponibles. Si en la fecha mencionada no hubiere sido aprobado el presupuesto, quedará en vigor sin modificaciones en forma provisional el del año en curso, hasta en tanto sea aprobado el nuevo ordenamiento;
 
@@ -719,6 +727,10 @@ a) Vigilar que la recaudación en todas las ramas de la hacienda pública munici
 
 b) Vigilar que el gasto y la inversión de los fondos municipales, se haga con estricto apego al presupuesto de egresos;
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2004)</small>
+
+c) Vigilar que se entregue a la comisión de hacienda y síndico municipal, en tiempo y forma, el proyecto de los resultados semestrales de la cuenta pública municipal que elabore la tesorería municipal, así como el resultado de la revisión practicada por la contraloría municipal a las operaciones contables, financieras, presupuestales y de ejecución de obras públicas, las relativas a programas sociales y a todas las operaciones que afecten al patrimonio, la deuda pública municipal directa o indirecta y sobre las concesiones otorgadas por el ayuntamiento, así como toda la documentación que solicite la citada comisión, con el fin de que la misma conjuntamente con el síndico municipal elaboren el dictamen de revisión de los resultados semestrales de las cuentas públicas municipales.
+
 V. En materia social, cultural y desarrollo comunitario:
 
 a) Vigilar y preservar el patrimonio cultural e histórico del municipio;
@@ -787,7 +799,9 @@ V. Asistir a las visitas de inspección que se hagan a la tesorería municipal;
 
 VI. Solicitar y obtener del tesorero municipal, la información relativa a la hacienda pública municipal, al ejercicio del presupuesto, al patrimonio municipal y demás documentación de la gestión municipal, necesarias para el cumplimiento de sus funciones;
 
-VII. Vigilar que se presente al Congreso el dictamen de revisión de la cuenta pública, una vez aprobada por el cabildo, en la fecha señalada por el artículo 95 de la Constitución;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+VII.- Vigilar que se presente al Congreso el dictamen de revisión de los resultados semestrales de la cuenta pública municipal, una vez aprobado por el cabildo, en las fechas que señala el artículo 95 de la Constitución del Estado.
 
 VIII. Legalizar la propiedad de los bienes municipales e intervenir en la formulación y actualización de los inventarios de bienes muebles e inmuebles del municipio, procurando que se establezcan los registros administrativos necesarios para su control y vigilancia;
 
@@ -1019,7 +1033,9 @@ XI. Establecer convenios de coordinación fiscal con el gobierno del Estado en l
 
 XII. Pagar la nómina al personal que labora en el municipio;
 
-XIII. Presentar el anteproyecto de dictamen relativo a la cuenta pública en los primeros treinta días del año; y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+XIII.- Elaborar el proyecto de los resultados semestrales de la cuenta pública municipal y entregarlo dentro de los 20 días naturales siguientes a la conclusión de cada semestre a la comisión de hacienda y síndico municipal; y
 
 XIV. Las demás que les señalen las leyes y reglamentos.
 
@@ -1091,6 +1107,10 @@ II. Verificar el cumplimiento del plan municipal de desarrollo, del programa de 
 
 III. Realizar auditorías preventivas a las dependencias y entidades de la administración pública municipal y paramunicipal;
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2004)</small>
+
+El ejercicio de esta atribución deberá abarcar, en lo posible, la revisión a las operaciones contables, financieras, presupuestales y de ejecución de obras públicas, las relativas a programas sociales y a todas las operaciones que afecten el patrimonio, la deuda publica municipal directa o indirecta y sobre las concesiones otorgadas por el ayuntamiento y elaborar el informe de resultados, mismo que será presentado a la comisión de hacienda y síndico municipal.
+
 IV. Vigilar preventivamente la correcta aplicación del gasto público;
 
 V. Informar al presidente municipal de las actividades de la contraloría;
@@ -1105,7 +1125,11 @@ IX. Establecer y operar un sistema de quejas, denuncias y sugerencias;
 
 X. Participar en la entrega-recepción de las dependencias y entidades de la administración pública municipal;
 
-XI. Verificar los estados financieros de la tesorería municipal, así como la remisión de la cuenta pública a la Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+XI.- Apoyar a la comisión de hacienda y síndico municipal en la elaboración del dictamen de revisión de los resultados semestrales de la cuenta pública municipal, tomando como base el proyecto que presente la tesorería municipal, así como los resultados de la revisión practicada por la propia contraloría de conformidad con lo establecido en el segundo párrafo de la fracción III de este artículo.
+
+Entregar a la comisión de hacienda y síndico municipal el informe de los resultados semestrales de la revisión practicada a las operaciones de la gestión municipal correspondientes a los períodos enero junio y julio diciembre de cada año, a más tardar el día 20 del mes siguiente a la conclusión del semestre de que se trate, así como toda la documentación que soporte dichos resultados.
 
 XII. Vigilar el desarrollo administrativo de las dependencias y entidades de la administración pública municipal, a fin de aplicar con eficiencia los recursos humanos y patrimoniales;
 
@@ -1697,6 +1721,12 @@ Las sanciones económicas constituyen créditos fiscales en favor del erario mun
 
 Tratándose de los servidores públicos de base, la suspensión y la destitución se sujetarán a lo previsto en la ley que regula las relaciones laborales de aquéllos con el municipio.
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2004)</small>
+
+###### ARTICULO 136.
+
+La falta de cumplimiento de lo preceptuado en los artículos 45 fracción IV inciso d), 47 fracción IV inciso c), 51 fracción VII, 72 fracción XIII y 78 fracciones III y XI, será responsabilidad imputable a quien motive la no presentación del dictamen de revisión de los resultados semestrales de la cuenta publica municipal al Congreso.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -1748,3 +1778,11 @@ Artículo Tercero.- Las autoridades auxiliares por esta única ocasión deberán
 P.O. 8 DE MAYO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE JULIO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+SEGUNDO.- La revisión y fiscalización de la cuenta pública municipal correspondiente al ejercicio fiscal 2003, se sujetará a las bases y disposiciones constitucionales del sistema anual de rendición de cuentas establecidas antes de la presente reforma.
+
+TERCERO.- Para el caso de la aprobación por el Cabildo y su remisión al Congreso del dictamen de revisión de los resultados de la cuenta pública, correspondiente al primer semestre del 2004, por única vez se amplía el plazo al 31 de agosto de 2004. Sujetándose la Contaduría Mayor de Hacienda y el Congreso del Estado para su revisión y fiscalización a la fecha establecida en el artículo 33 fracción XI de la Constitución local.
