@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1978-08-09"
+last_updated: "1980-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1980.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -471,7 +471,7 @@ DE LA INSTALACION Y FUNCIONAMIENTO DEL CONGRESO.
 
 Los presuntos diputados que hayan obtenido constancia de mayoría de votos de la Junta Computadora respectiva se reunirán en la Capital del Estado, en el mes de febrero del año de renovación del Congreso para celebrar una junta previa y las juntas preparatorias que sean necesarias constituidas en Colegio Electoral para calificar las elecciones, primero en diputados de mayoría y después en diputados de minoría, conforme al procedimiento que para el efecto establecen la Ley Orgánica del Poder Legislativo y la Ley Electoral del Estado.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1980)</small>
 
 ### CAPITULO IV.
 
@@ -481,7 +481,9 @@ DE LAS ATRIBUCIONES DEL CONGRESO.
 
 ###### ARTICULO 39.
 
-El último día del mes de febrero, se instalará el Congreso iniciándose el acto con la protesta de ley que otorgarán los diputados. Igual requisito se exigirá a los que no hayan asistido a la instalación cuando se presenten a desempeñar su cargo.
+El día primero de marzo del año de renovación de los Poderes Legislativo y Ejecutivo del Estado se instalará el Congreso iniciándose el acto con la protesta de ley que otorgarán los Diputados. Igual requisito se exigirá a los que no hayan asistido a la instalación cuando se presenten a desempeñar su cargo.
+
+El mismo primero de marzo, después de instalada la Legislatura iniciará su primer período ordinario de sesiones en los términos del Artículo 41 de la presente Constitución.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -518,6 +520,10 @@ DE LA ESTRUCTURA POLITICA DEL ESTADO DE GUERRERO.
 ###### ARTICULO 43.
 
 El día primero de abril de cada año se reunirá el Congreso en sesión pública y solemne ante la cual el Gobernador del Estado rendirá un informe pormenorizado del estado de la administración pública durante el año inmediato anterior.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1980)</small>
+
+El informe correspondiente al último año del ejercicio constitucional del Ejecutivo del Estado se rendirá ante la Legislatura cuyo ejercicio constitucional está por terminar el día 28 de febrero del año respectivo. Para tal efecto, la Comisión Permanente del Congreso convocará a una Sesión Extraordinaria, Pública y Solemne, que se verificará el citado 28 de febrero a fin de que el Ejecutivo rinda su último informe de gobierno.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -891,7 +897,9 @@ VI.- Vetar por una sola vez en el término improrrogable de diez días hábiles,
 
 VII.- Presentar al Congreso a más tardar el día quince de diciembre de cada año para su discusión y aprobación en su caso, los proyectos de Ley de Ingresos y del Presupuesto de Egresos para el ejercicio fiscal siguiente.
 
-VIII.- Rendir el día primero de abril de cada año ante el Congreso, el informe de labores de la Administración Pública a su cargo, con excepción del último año del período constitucional que lo rendirá el día primero de marzo.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1980)</small>
+
+VIII.- Rendir el día primero de abril de cada año ante el Congreso, el informe de labores de la Administración Pública a su cargo, con excepción del último año del período constitucional que lo rendirá el veintiocho de febrero del año respectivo.
 
 IX.- Nombrar y remover libremente a los funcionarios y a los empleados del poder Ejecutivo, cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución o por las leyes correspondientes.
 
@@ -2196,3 +2204,7 @@ UNICO:- Por haberse recibido la aprobación de los HH. Ayuntamientos del Estado 
 P.O. 9 DE AGOSTO DE 1978.
 
 UNICO.- Este Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1980.
+
+UNICO.- El presente Decreto empezará a surtir sus efectos a partir de su publicación en el Periódico Oficial del Estado.
