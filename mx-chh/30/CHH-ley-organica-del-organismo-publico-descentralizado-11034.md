@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-organismo-publico-descentralizado-11034"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-01"
-last_updated: "1997-10-01"
+last_updated: "2005-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL ORGANISMO PUBLICO DESCENTRALIZADO "SERVICIOS DE SALUD DE CHIHUAHUA"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1997.
 
@@ -127,7 +127,13 @@ I.- El titular del poder Ejecutivo, quien fungirá como presidente;
 
 II.- Secretario: El Director General de Fomento Social;
 
-III.- Vocal: El Director General de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+III.- Vocal: El Secretario de Finanzas;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2005)</small>
+
+III Bis.- Vocal: El Secretario de Administración;
 
 IV.- Vocal: El Director General de Educación y Cultura;
 
@@ -311,10 +317,6 @@ El organismo descentralizado deberá aplicar y respetar las Condiciones Generale
 
 El Ejecutivo del Estado acompañará anualmente a la Cuenta Pública anual del Gobierno del Estado, los estados financieros del organismo a que se refiere el presente Decreto.
 
-###### ARTÍCULO SEGUNDO.
-
-El Ejecutivo del Estado acompañará anualmente a la Cuenta Pública anual del Gobierno del Estado, los estados financieros del organismo a que se refiere el presente Decreto.
-
 TRANSITORIOS:
 
 PRIMERO: El presente Decreto, entrará en vigor una vez que los convenios necesarios para la descentralización de los servicios de salud hayan sido celebrados con el Gobierno Federal.
@@ -352,3 +354,29 @@ C.P. FRANCISCO JAVIER BARRIO TERRAZAS.
 EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua se haga referencia a La Dirección, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO TERCERO.
+
+Cuando en la Ley de Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública del Estado de Chihuahua se haga referencia a La Dirección, se entenderá citada la Secretaría de Administración.
+
+###### ARTÍCULO CUARTO.
+
+Cuando en la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios se haga referencia a la Dirección General de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO QUINTO.
+
+Cuando en el Código Fiscal del Estado se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas y cuando en cualquier otro ordenamiento se haga mención a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración se entenderá citada la Secretaría de Finanzas.
+
+Cuando se haga mención de la Oficialía Mayor o de la Dirección General de Administración, la referencia se entenderá hecha a la Secretaría de Administración.
