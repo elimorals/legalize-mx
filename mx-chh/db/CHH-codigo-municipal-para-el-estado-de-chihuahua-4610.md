@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2003-07-16"
+last_updated: "2003-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2003.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -2469,9 +2469,11 @@ Si la declaración no reúne los requisitos legales y fiscales, la Tesorería Mu
 
 Transcurrido el plazo, sin que se acredite el pago del impuesto, los fedatarios, tratándose de actos que consten en escritura pública, pondrán a ésta la nota de "NO PASO", con la aclaración de incumplimiento del pago del impuesto correspondiente, sin embargo, podrán revalidar el acto, siempre y cuando se actualicen los valores de acuerdo a lo establecido anteriormente, y paguen el impuesto omitido, recargos y la sanción aplicable en su caso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2003)</small>
+
 ###### ARTICULO 164.
 
-En los casos de adquisición de inmuebles, en virtud de actos o resoluciones de autoridades competentes, celebrados o dictados fuera del Municipio donde se ubican los mismos, se duplicará el plazo a que se refiere el artículo 159.
+En los casos de adquisición de inmuebles, en virtud de actos o resoluciones de autoridades competentes, celebrados o dictados fuera del municipio donde se ubican los mismos, se duplicará el término a que se refiere el artículo 160.
 
 Los contratos celebrados en la República, pero fuera del Estado en relación a inmuebles ubicados en el territorio de éste, causarán el impuesto a que éste capítulo se refiere conforme a las disposiciones del mismo, exceptuando lo relativo al plazo para el pago, que será de sesenta días hábiles contados a partir de la fecha de autorización definitiva, de la escritura o de la fecha del contrato privado.
 
@@ -3366,5 +3368,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Para la (sic) elecciones de las Juntas Municipales en la (sic) Secciones Municipales de "Bermúdez" y de "El Pilar", se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado de Chihuahua, en lo conducente y deberán llevarse a cabo las elecciones dentro de los 180 días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 19 DE JULIO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## TRANSITORIOS
