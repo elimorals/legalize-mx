@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-patronato-de-la-feria-nacional-de-san-marcos-24534"
 country: "mx"
 rank: "ley"
 publication_date: "1991-01-06"
-last_updated: "1991-01-06"
+last_updated: "1999-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL PATRONATO DE LA FERIA NACIONAL DE SAN MARCOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1999.
 
 Ley publicada en el Suplemento al Número 1 del Periódico Oficial del Estado de Aguascalientes, el 6 de enero de 1991.
 
@@ -57,7 +57,9 @@ Es objeto del Patronato la organización, fomento y comercialización de la Feri
 
 El patrimonio del Patronato de la Feria Nacional de San Marcos se integrará con:
 
-I.- Los bienes muebles e inmuebles, derechos y obligaciones que le asigne y transmita el Gobierno del Estado y los que adquiera por cualquier otro título legal;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1999)</small>
+
+I.- Los bienes muebles e inmuebles, derechos y obligaciones que le asigne y transmita el gobierno federal, estatal o municipal y los que adquiera por cualquier otro título legal;
 
 II.- Las herencias o legados que en bienes o en efectivo le otorguen los particulares o cualquier institución de beneficencia;
 
@@ -77,9 +79,11 @@ Dichos bienes, así como los actos y contratos que celebre el propio Patronato e
 
 El Patronato se considerará de acreditada solvencia y no estará obligado a constituir depósitos ni fianzas legales.
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1999)</small>
+
 ###### ARTICULO 7o.
 
-Lo que el Patronato recaude con motivo de la Feria Nacional de San Marcos por los conceptos establecidos en esta Ley se aplicará a cubrir sus propios gastos y el resto se entregará como donativo al Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes.
+Lo que el Patronato recaude con motivo de la Feria Nacional de San Marcos por los conceptos establecidos en esta Ley, se aplicará a cubrir sus propios gastos y el resto se entregará como donativo en la proporción del 85% para el DIF Estatal y 15% para el DIF del Municipio de Aguascalientes.
 
 ###### ARTICULO 8o.
 
@@ -87,21 +91,25 @@ Los bienes inmuebles que llegue a adquirir el Patronato de la Feria Nacional de 
 
 ### CAPITULO III (SIC). De su Integración
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1999)</small>
+
 ###### ARTICULO 9o.
 
 El Patronato de la Feria Nacional de San Marcos se compondrá de un Presidente, un Secretario, un Tesorero y Cuatro Vocales.
 
-El Presidente y el Tesorero serán designados por el Gobernador del Estado y el Secretario por el Ayuntamiento de Aguascalientes; todos ellos podrán ser removidos de sus cargos por quien los haya designado.
+Para ocupar el cargo de Presidente, Secretario y Tesorero se requiere ser nativo del Estado o con residencia efectiva en él de más de cinco años anteriores a la fecha de su designación, contar con título profesional de licenciatura registrado en términos de ley, mayores de treinta y cinco años de edad y ser de reconocida honorabilidad.
 
-Los Vocales serán designados, uno por el Congreso del Estado, uno por el Instituto Cultural de Aguascalientes, otro por las oficinas locales de Turismo y uno más por la Cámara Nacional de Comercio de Aguascalientes, si ésta acepta la invitación que con ese motivo se le formule, y si no, por quien designe el Presidente del Patronato.
+El Presidente y el Tesorero serán designados por el Gobernador del Estado y el Secretario por el Ayuntamiento de Aguascalientes de entre uno de los miembros del Cabildo; si ninguno de los miembros de dicho órgano reúne los requisitos de elegibilidad, el Cabildo designará a quien fungirá como Secretario. Todos ellos podrán ser removidos de sus cargos por quienes los hayan designado.
 
-Los Vocales durarán tres años en su encargo.
+Los Vocales serán designados uno por el Congreso del Estado, uno por el Instituto Cultural de Aguascalientes, otro por las oficinas locales de turismo, uno por la Asociación de Hoteles y Moteles de Aguascalientes y uno más por la Cámara Nacional de Comercio de Aguascalientes, si ésta acepta la invitación que con ese motivo se le formule, y si no, por quien designe el Presidente del Patronato. Los vocales durarán tres años en su encargo.
 
 ###### ARTICULO 10.
 
 Son facultades y obligaciones del Patronato:
 
-I.- Organizar cada año la Feria Nacional de San Marcos y ejecutar el programa general de festejos, cuidando en todo el prestigio y las buenas costumbres del Estado, para lo cual restringirá la venta exclusiva de bebidas embriagantes y dará prioridad al impulso de actividades culturales y al fomento de nuestras tradiciones;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1999)</small>
+
+I.- Organizar cada año la Feria Nacional de San Marcos y ejecutar el programa general de festejos, cuidando en todo el prestigio y las buenas costumbres del Estado, para lo cual restringirá la venta exclusiva de bebidas embriagantes y dará proridad (sic) al fomento de nuestras tradiciones culturales;
 
 II.- Aprobar la concertación de préstamos para el financiamiento de las actividades del Patronato;
 
@@ -109,7 +117,9 @@ III.- Aprobar, conforme a las disposiciones legales correspondientes, las polít
 
 IV.- Aprobar la estructura básica para la organización del Patronato y las modificaciones que posteriormente sean procedentes;
 
-V.- Aprobar la adquisición y arrendamiento de los inmuebles que requiera para la realización de sus actividades;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1999)</small>
+
+V.- Aprobar la adquisición y arrendamiento de los inmuebles o materiales que requiera para la realización de sus actividades;
 
 VI.- Para la enajenación de los bienes inmuebles que integran su patrimonio, procederá exclusivamente para la consecución de programas tendientes a la ampliación y mejoramiento de las instalaciones y de la Feria en general, en cuyo caso, solicitará al Ejecutivo efectuar el trámite legal correspondiente ante el Congreso del Estado;
 
@@ -119,7 +129,9 @@ VIII.- Determinar, con aprobación del Ayuntamiento de Aguascalientes, el área 
 
 IX.- Disponer del área a que se refiere la fracción anterior para los efectos de instalación de las negociaciones y de los atractivos en general que corresponden a la Feria;
 
-X.- Fijar las tarifas que deban aplicarse por el uso del suelo, según lo que se dice en la fracción anterior, y, en general, por las que deban aplicarse por la presentación de los distintos espectáculos que correspondan a la Feria;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1999)</small>
+
+X.- Fijar las tarifas que deban aplicarse por el uso del suelo, según lo que se dice en la fracción anterior y, en general, por las que deban aplicarse por la presentación de los distintos espectáculos que corresponden a la Feria, dando en lo posible preferencia a los habitantes del Estado;
 
 XI.- Vigilar que las empresas que proporcionen diversión y esparcimiento a la niñez y a las familias ofrezcan sus servicios a precios accesibles a la economía popular, por lo que las tarifas que les fije el Patronato deberán ser consideradas en forma especial;
 
@@ -127,7 +139,9 @@ XII.- Fijar las tarifas, gravámenes o exenciones en su caso, que sean de la com
 
 XIII.- Recaudar las cantidades que correspondan por los conceptos a que se refieren las fracciones X y XII de este Artículo;
 
-XIV.- Informar al Gobernador del Estado, al Congreso del Estado y al Presidente Municipal de Aguascalientes, dentro de los noventa días siguientes a cada Feria, de los resultados económicos de éstas;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1999)</small>
+
+XIV.- Informar por escrito al Ejecutivo Estatal, al Congreso del Estado y al H. Ayuntamiento Municipal de Aguascalientes, quince días antes del programa general de la Feria Nacional de San Marcos y dentro de los noventa días siguientes de la culminación de la Feria, de los resultados económicos alcanzados;
 
 XV.- Administrar, en general, todo lo concerniente a la Feria; y
 
@@ -173,6 +187,10 @@ El Secretario y el Tesorero del Patronato tendrán las facultades y obligaciones
 
 Las dependencias del Gobierno del Estado y las del Municipio de Aguascalientes, deberán prestar al Patronato de la Feria el apoyo que les fuere solicitado y éste, dentro de sus facultades, ofrecerlo.
 
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 1999)</small>
+
+El Municipio de Aguascalientes otorgará al Patronato un descuento del 15% en el cobro de servicios de agua, limpia y seguridad pública que se requieran para la realización de la Feria Nacional de San Marcos.
+
 ### CAPITULO IV. De los Organos de Vigilancia
 
 ###### ARTICULO 14.
@@ -187,11 +205,17 @@ El Comisario Público evaluará el desempeño general y por funciones del Patron
 
 Para el cumplimiento de las funciones del Comisario, el Patronato y el Presidente le proporcionarán la información que les solicite.
 
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 1999)</small>
+
+Las dependencias del Gobierno del Estado y del Municipio de Aguascalientes, deberán prestar al Patronato de la Feria el apoyo que les fuere solicitado, dentro de sus atribuciones y posibilidades.
+
 ### CAPITULO V. Del Régimen Laboral
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 17.
 
-El personal del Patronato de la Feria Nacional de San Marcos se regirá por las disposiciones del Estatuto de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes y de sus Municipios.
+El personal del Patronato de la Feria Nacional de San Marcos se regirá por las disposiciones del Estatuto de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados.
 
 ###### ARTICULO 18.
 
@@ -258,3 +282,9 @@ Ing. Miguel Angel Barberena Vega.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Guillermo G. G. Ballesteros Guerra.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE ENERO DE 1999.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
