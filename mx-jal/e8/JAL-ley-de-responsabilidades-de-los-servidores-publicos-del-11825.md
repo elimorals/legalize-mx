@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "1999-08-19"
+last_updated: "2000-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -99,9 +99,11 @@ No podrán imponerse dos veces, por una sola conducta, sanciones de la misma nat
 
 ### Capítulo I. SUJETOS Y CAUSAS DE JUICIO POLÍTICO
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2000)</small>
+
 ###### Artículo 5º.
 
-Podrán ser sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del ejecutivo del Estado, el procurador general de justicia y el procurador social; los titulares integrantes del Consejo General del Poder Judicial, los consejeros electorales con derecho a voz y voto del Consejo Electoral del Estado; el presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los presidentes, vicepresidentes, regidores o concejales; los tesoreros, secretarios y síndicos de los ayuntamientos; así como los titulares de organismos públicos descentralizados y empresas de participación estatal o municipal mayoritaria.
+Podrán ser sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Ejecutivo del Estado, el Procurador General de Justicia, y el Procurador Social y el Contralor del Estado; los integrantes del Consejo General del Poder Judicial, los consejeros electorales del Consejo Electoral del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los presidentes, vicepresidentes, regidores o concejales; los tesoreros, secretarios y síndicos de los ayuntamientos; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria.
 
 ###### Artículo 6º.
 
@@ -1020,3 +1022,9 @@ Lic. Raúl Octavio Espinoza Martínez
 P.O. 19 DE AGOSTO DE 1999.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 30 DE MAYO DE 2000.
+
+PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamientos del estado, con el diario de debates, en el que conste las discusiones que hubiere provocado, para que con fundamento a lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco.
