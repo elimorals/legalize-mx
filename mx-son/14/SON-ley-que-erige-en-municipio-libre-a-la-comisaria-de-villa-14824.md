@@ -4,7 +4,7 @@ identifier: "SON-ley-que-erige-en-municipio-libre-a-la-comisaria-de-villa-14824"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-26"
-last_updated: "1996-12-26"
+last_updated: "1997-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE ERIGE EN MUNICIPIO LIBRE A LA COMISARIA DE VILLA JUAREZ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 26 de diciembre de 1996.
 
@@ -50,6 +50,12 @@ El nuevo Municipio se denominará "Benito Juárez" y quedará comprendido dentro
 ###### ARTICULO 3o.
 
 Es cabecera del Municipio Benito Juárez, el poblado conocido actualmente con el nombre de Villa Juárez.
+
+> <small>(ADICIONADO, B.O. 10 DE MARZO DE 1997)</small>
+
+###### ARTICULO 4o.
+
+Para todos los efectos legales, el Municipio de Benito Juárez continuará formando parte del XX Distrito Electoral Local.
 
 T R A N S I T O R I O S
 
@@ -88,3 +94,11 @@ Las acciones del Concejo Municipal se apegarán, en lo que corresponda y sea fac
 Comuníquese al Ejecutivo para su sanción y promulgación. SALON DE SESIONES DEL H. CONGRESO DEL ESTADO, Hermosillo, Sonora, a 23 de diciembre de 1996.- DIPUTADO PRESIDENTE.- C. SERGIO CUELLAR YESCAS.- RUBRICA.- DIPUTADO SECRETARIO.- C. JOSE RUBEN MORENO VALDEZ.- RUBRICA.- DIPUTADO SECRETARIO.- C. MIGUEL ANGEL OCEJO MORALES.- RUBRICA.-
 
 POR TANTO, mando se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento. PALACIO DE GOBIERNO. Hermosillo, Sonora, a veinticuatro de diciembre de mil novecientos noventa y seis.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. MANLIO FABIO BELTRONES RIVERA.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO SANCHEZ CEREZO.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE MARZO DE 1997.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
