@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-los-consejos-de-participacion-social-en-la-26402"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-11"
-last_updated: "2002-10-11"
+last_updated: "2003-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE LOS CONSEJOS DE PARTICIPACION SOCIAL EN LA EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de octubre de 2002.
 
@@ -95,7 +95,9 @@ Son atribuciones del Consejo Escolar las que le señale la Ley General, la Ley E
 
 El Consejo Escolar se integrará por los siguientes Consejeros:
 
-I.- Cinco miembros de la mesa directiva de la Asociación de Padres de Familia que serán: el Presidente, el tesorero y tres vocales designados por el Presidente de esa Asociación, y en su caso de la Unión de Padres de Familia, de entre quienes se elegirá al Consejero Presidente por mayoría de los miembros del Consejo;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2003)</small>
+
+I.- Cinco miembros de la mesa directiva de la Asociación de Padres de Familia que serán: el Presidente, el Tesorero y tres vocales designados por el Presidente de esa Asociación, y en su caso de la Unión de Padres de Familia;
 
 II.- El director del centro educativo;
 
@@ -109,7 +111,13 @@ VI.- Un ex-alumno en los casos de primaria y secundaria, previa invitación del 
 
 VII.- Dos miembros de la comunidad donde se encuentra el centro educativo o del comité de vecinos, invitados por el Consejero Presidente;
 
-El Consejo Escolar por mayoría de votos de sus integrantes designará y removerá al Secretario Técnico de entre sus miembros.
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2003)</small>
+
+El Consejo Escolar por mayoría de votos de sus integrantes designará a su Consejero Presidente, quien durará en su cargo dos años.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
+
+El Consejo Escolar por mayoría de votos de sus integrantes designará al Secretario Técnico de entre sus miembros, y requerirá de la misma votación para removerlo.
 
 Los miembros del Consejo Escolar deberán nombrar un suplente para cubrir sus ausencias. El suplente tendrá los mismos derechos y obligaciones que el consejero propietario.
 
@@ -259,17 +267,21 @@ Los consejos sectoriales ejercerán las mismas facultades previstas para los con
 
 El Consejo Sectorial, deberá presentar ante el Consejo Municipal un proyecto de mediano plazo y un plan anual de trabajo, con el objeto de que se considere dentro del proyecto educativo del municipio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2003)</small>
+
 ###### Artículo 26.
 
-El Consejo Sectorial deberá estar integrado por:
+El Consejo Sectorial se integrará por:
 
-I.- Un representante por nivel educativo, electo de entre los Presidentes de las Asociaciones de Padres de Familia, y en su caso el Presidente de la Unión de Padres de Familia de escuelas particulares que corresponda al sector; de entre quienes se elegirá al Consejero Presidente por mayoría de los miembros del Consejo;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2003)</small>
+
+I.- Un representante por nivel educativo, electo de entre los presidentes de las Asociaciones de Padres de Familia, y en su caso el presidente de la Unión de Padres de Familia de escuelas particulares que corresponda al sector;
 
 II.- El Delegado Municipal o quien en su caso designe el Presidente Municipal;
 
 III.- Un representante por nivel educativo, electo de entre los representantes de los docentes de los Consejos Escolares;
 
-IV.- Un ex-alumno invitado por el Consejero Presidente;
+IV.- (DEROGADA, P.O. 11 DE ABRIL DE 2003)
 
 V.- Un docente distinguido que pertenezca al sector, invitado por el Consejero Presidente;
 
@@ -283,9 +295,13 @@ IX.- Un representante de la Autoridad Municipal en materia de seguridad pública
 
 X.- Un representante de las organizaciones o asociaciones civiles del área de circunscripción del sector, interesadas en la educación, invitado por el Consejero Presidente.
 
-La duración del cargo del consejero mencionado en la fracción IV, será de tres años.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
 
-El Consejo Sectorial por mayoría de votos de sus miembros designará y removerá al Secretario Técnico de entre sus miembros.
+El Consejero Sectorial por mayoría de votos de sus integrantes designará a su Consejero Presidente, quien durará tres años en su encargo.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
+
+El Consejo Sectorial tendrá un Secretario Técnico que será designado y removido libremente por el Presidente Municipal.
 
 Cada uno de los miembros del Consejo Sectorial deberá nombrar un suplente para cubrir sus ausencias. El suplente tendrá los mismos derechos y obligaciones que el consejero propietario.
 
@@ -437,7 +453,9 @@ XII.- La Autoridad Educativa Municipal, el Coordinador de la Comisión de Educac
 
 XIII.- Un representante del Comité de Vinculación Escuela-Empresa.
 
-El Consejero Presidente será electo de entre los miembros del Consejo Municipal, mediante la aprobación de la mayoría de éstos, debiendo recaer el cargo en un representante de la sociedad, quien durará en su cargo un año y se podrá reelegir hasta por dos periodos anuales consecutivos por acuerdo de la mayoría de los miembros del Consejo Municipal.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
+
+El Consejero Presidente será electo de entre los miembros del Consejo Municipal, mediante la aprobación de la mayoría de estos, debiendo recaer el cargo en un representante de la sociedad quien durará tres años en su encargo.
 
 Cada miembro del Consejo Municipal deberá nombrar un suplente para cubrir sus ausencias. El suplente tendrá los mismos derechos y obligaciones que el consejero propietario.
 
@@ -449,9 +467,11 @@ El Consejo Municipal deberá instalarse cada tres años, dentro de los cincuenta
 
 La renovación de los miembros del Consejo Municipal, se realizará dentro de los cincuenta días naturales siguientes al inicio de cada ciclo escolar. Cuando la permanencia de un consejero derive del desempeño de su encargo, se efectuará la renovación cuando cesen sus funciones.
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
+
 ###### Artículo 46.
 
-El Consejo Municipal contará con un Secretario Técnico que será nombrado y removido libremente por el Consejero Presidente, teniendo voz pero sin voto.
+El Consejo Municipal contará con un Secretario Técnico, quién tendrá voz pero sin voto, y será nombrado y removido libremente por el Presidente Municipal.
 
 ###### Artículo 47.
 
@@ -529,7 +549,9 @@ c) Coordinar el grupo de trabajo que le asigne el Consejo Municipal;
 
 d) Participar en la elaboración de los planes de trabajo;
 
-e) Conocer la situación de su municipio, partiendo de las evaluaciones elaboradas por la mesa directiva de la Asociación de Padres de Familia, el Consejo Técnico Consultivo y el Consejo Sectorial;
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
+
+e) Conocer la situación de su municipio, partiendo de las evaluaciones elaboradas por las dependencias municipales y el Consejo Sectorial;
 
 f) Evaluar los resultados de los grupos de trabajo e informar al Consejo Municipal;
 
@@ -675,7 +697,9 @@ XVII.- Dos representantes de los medios masivos de comunicación de cobertura es
 
 XVIII.- La Autoridad Educativa Municipal; el Coordinador de Educación del Ayuntamiento si existe, o en su caso un miembro de la Comisión de Educación del Cabildo, y de no existir estos será la persona que designe el Presidente Municipal.
 
-El Consejero Presidente será electo de entre los integrantes del Consejo Estatal, debiendo ser un representante de la sociedad, quien durará en su cargo un año y se podrá reelegir hasta por dos periodos anuales consecutivos por acuerdo de la mayoría de los miembros del Consejo Estatal.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
+
+El Consejero Presidente será electo de entre los integrantes del Consejo Estatal, debiendo ser un representante de la sociedad, quien durará en su cargo tres años y se podrá reelegir por otro periodo igual por acuerdo de la mayoría de los miembros del Consejo Estatal.
 
 ###### Artículo 62.
 
@@ -884,3 +908,9 @@ BERNARDO BORBÓN VILCHES
 SECRETARIO DE EDUCACIÓN Y BIENESTAR SOCIAL
 
 ALEJANDRO BAHENA FLORES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE ABRIL DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
