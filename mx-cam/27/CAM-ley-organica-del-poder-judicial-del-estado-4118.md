@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-judicial-del-estado-4118"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-12-04"
-last_updated: "1990-12-29"
+last_updated: "1996-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 1990.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 1996.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el día jueves 4 de diciembre de 1980.
 
@@ -65,7 +65,9 @@ V.- Por los jueces mixtos de primera instancia,
 
 VI.- Por los jueces menores;
 
-VII.- (DEROGADA, P.O. 2 DE DICIEMBRE DE 1985)
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 1996)</small>
+
+VII.- Los jueces conciliadores;
 
 VIII.- Por los árbitros; y,
 
@@ -161,9 +163,11 @@ IV.- El Juzgado Menor de Candelaria, con sede en la villa de ese nombre, tendrá
 
 V.- Los juzgados menores de Champotón y Hopelchén, con sede en las ciudades del mismo nombre, tendrán jurisdicción sobre las poblaciones de sus correspondientes municipios no comprendidos en el tercer distrito judicial.
 
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
 ###### Artículo 12.
 
-(DEROGADO, P.O. 2 DE DICIEMBRE DE 1985)
+Los juzgados de conciliación tendrán competencia exclusivamente dentro de la circunscripción territorial de la población en que tengan su sede, conforme a las determinaciones que al respecto emita el Tribunal Pleno.
 
 ## TITULO TERCERO. De la Organización de los Tribunales
 
@@ -177,7 +181,9 @@ El Tribunal Superior de Justicia estará integrado por no menos de siete magistr
 
 Uno de los magistrados numerarios será Presidente del Tribunal.
 
-Los magistrados supernumerarios formarán parte del Pleno cuando sustituyan a un magistrado numerario por ausencia temporal o permanente, o en caso de excusa o recusación para conocer de asuntos concernientes al Pleno.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1996)</small>
+
+Los magistrados supernumerarios sólo formarán parte del Tribunal Pleno cuando para su funcionamiento no se reúna el quórum previsto por el artículo 19 de esta ley. Los magistrados supernumerarios sólo integrarán Sala permanente cuando sustituyan a un magistrado numerario por excusa, recusación o ausencia temporal, accidental o definitiva; en estos tres últimos casos fungirán hasta que cese la causa de la ausencia o se nombre a un nuevo magistrado numerario. Los magistrados supernumerarios integrarán Sala auxiliar cuando por necesidades del servicio sea creada por el Pleno.
 
 Los magistrados supernumerarios percibirán sueldo igual al que señale el presupuesto para los numerarios.
 
@@ -227,11 +233,13 @@ VIII.- Elegir presidente del Tribunal Superior de Justicia entre los magistrados
 
 IX.- Asignar a los magistrados que deben integrar cada una de las salas;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 1996)</small>
 
-X.- Conferir a los magistrados supernumerarios, cuando no estén en ejercicio, las comisiones y representaciones que se estimen pertinentes, en beneficio de la administración de justicia;
+X.- Conferir a los magistrados supernumerarios, cuando éstos no estén supliendo a uno numerario o integrando Sala auxiliar o desempeñándose como visitadores, las comisiones y representaciones que se estimen pertinentes en beneficio de la administración de justicia;
 
-XI.- Distribuir anualmente a los magistrados para que practiquen visitas, cada trimestre, a los juzgados de primera instancia y menores del Estado;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 1996)</small>
+
+XI.- Distribuir anualmente a los magistrados supernumerarios y, en su caso, a los numerarios, para que, con arreglo a lo que sobre el particular dispongan los reglamentos y acuerdos que al efecto emita el Pleno practiquen visitas, cada cuatro meses, a los juzgados de primera instancia y menores del Estado. Queda prohibido al visitador ordinario o extraordinario el extraer, de la oficina del juzgado, expediente, libro o documento alguno, salvo que cuente con autorización expresa por escrito del presidente del Tribunal. Configurará falta oficial en perjuicio del visitador, así como del funcionario o empleado del juzgado que lo permita, la infracción de la indicada prohibición. Las visitas a los juzgados de conciliación se arreglarán conforme a lo que el Tribunal Pleno disponga en los referidos reglamentos y acuerdos;
 
 > <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
@@ -313,11 +321,11 @@ Para que funcione el Pleno del Tribunal se necesita la concurrencia de cuatro ma
 
 Las sesiones del Tribunal Pleno podrán ser ordinarias y extraordinarias y, en ambos casos, públicas o secretas. Las sesiones ordinarias se celebrarán el primer día hábil de cada semana y las extraordinarias cuando sea necesario para tratar y resolver asuntos urgentes, previa convocatoria del presidente del mismo, en la que se determinará si son secretas o públicas, a iniciativa propia o a solicitud de dos magistrados cuando menos.
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1996)</small>
 
 ###### Artículo 21.
 
-Para la Presidencia y Tribunal Pleno se designará un secretario general de acuerdos, un secretario auxiliar, un oficial mayor, un actuario y el número de empleados que fije el presupuesto de egresos respectivo.
+Para la presidencia y Tribunal Pleno se designarán un secretario general de acuerdos, un secretario auxiliar, un actuario, un oficial mayor, un director de contabilidad, un director de informática, un director de recursos materiales, un director de recursos humanos y control estadístico, los departamentos y demás unidades administrativas así como el número de empleados que se requiera y permita el presupuesto de egresos respectivo, conforme a lo que disponga el Reglamento Interior del propio Tribunal.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE OCTUBRE DE 1986)</small>
 
@@ -419,11 +427,17 @@ El presidente del Tribunal Superior será suplido en sus faltas accidentales o t
 
 ### CAPITULO CUARTO. De las Salas del Tribunal
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1996)</small>
 
 ###### Artículo 29.
 
-El Tribunal Superior de Justicia funcionará en salas, designadas por número ordinal y materia. Cada sala estará integrada por no menos de 3 magistrados numerarios y fungirá uno de ellos como presidente de la misma. Los presidentes de las salas se elegirán por votación mayoritaria de los miembros del Tribunal Pleno en la última sesión que celebren anualmente y podrán ser reelectos. El cargo de presidente de sala durará un año.
+El Tribunal Superior de Justicia funcionará ordinariamente en Salas permanentes especializadas por materia o ramo. Cuando por necesidades del servicio haya más de una Sala permanente especializada en la misma materia para distinguirlas serán designadas por número ordinal. Cada una de las Salas permanentes se integrará con tres magistrados numerarios, uno de los cuales fungirá como presidente de la misma. Los presidentes de las Salas permanentes se elegirán por votación mayoritaria de los miembros del Tribunal Pleno, en la última sesión que éste celebre en el mes de Diciembre, durarán un año en el cargo y podrán ser reelectos, por una sola vez, para el período inmediato siguiente.
+
+Cuando por el incremento en el número de asuntos turnados a su conocimiento, alguna de las Salas del Tribunal tuviere rezago o se encuentre en riesgo de tenerlo, su presidente lo hará del conocimiento del Pleno y éste, si juzga innecesario el crear una nueva Sala de carácter permanente, mediante acuerdo debidamente fundado y motivado que se publicará en el Periódico Oficial del Estado, podrá crear con carácter provisional una Sala auxiliar de la permanente integrada por el presidente de ésta y los dos magistrados supernumerarios, apoyados por el personal al servicio de la secretaría y actuaría de la indicada Sala permanente. Su inclusión en la Sala auxiliar no relevará a los magistrados supernumerarios del cumplimiento de las demás obligaciones inherentes a su cargo en términos de esta ley. El presidente de la Sala auxiliar como tal queda obligado a formular ponencia, pero relevado de hacerlo en la Sala permanente entretanto desempeñe ambas presidencias. Al concluir su encargo como presidente de la Sala auxiliar, comenzará a proyectas (sic) en la Sala permanente de acuerdo con el turno establecido.
+
+La Sala auxiliar entrará en funcionamiento a partir del primer día hábil del mes siguiente al de su creación y por un lapso de tres meses se avocará a la pertinente resolución de los asuntos en rezago que le fueren transferidos por la presidencia de la correspondiente Sala. Agotados tales asuntos, o el lapso de su funcionamiento, el presidente de la Sala auxiliar lo hará del conocimiento del Tribunal Pleno para que éste acuerde la prórroga que procediere, o emita declaración formal de conclusión del ejercicio de la Sala auxiliar. Salvo su transitoriedad, la competencia y atribuciones de la Sala auxiliar son similares a las de la respectiva Sala permanente.
+
+En el supuesto de que la tenencia de rezago o riesgo de tenerlo afecte a más de una de las Salas permanentes, la Sala auxiliar se avocará por turnos semanales a la resolución de los asuntos que se le transfieran, turnos en los que actuará bajo la presidencia y con el apoyo del personal de secretaría y actuaría de la Sala permanente cuyos asuntos deban ser resueltos en esa semana. El Tribunal Pleno en el acuerdo de creación de la Sala Auxiliar determinará el orden de esos turnos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
@@ -433,9 +447,9 @@ Los presidentes de sala tendrán las atribuciones siguientes:
 
 I.- Llevar la correspondencia de la sala, autorizándola con su firma;
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 1996)</small>
 
-II.- Tramitar todos los asuntos de la competencia de la Sala hasta ponerlos en estado de resolución; y distribuir por riguroso turno los negocios entre los demás miembros de la Sala, para su estudio y presentación oportuna del proyecto de resolución que en cada uno deba dictarse;
+II.- Tramitar todos los asuntos de la competencia de la Sala hasta ponerlos en estado de resolución y distribuir por riguroso turno los negocios entre los magistrados miembros de la Sala, incluido él, para su estudio y presentación oportuna de proyecto de resolución o ponencia que en cada toca deba dictarse. Si para emitir el proyecto se ameritase tener a la vista promociones o actuaciones no contenidas en el expediente o documentación enviados con motivo de la alzada, el presidente de la Sala, por si o a petición por escrito del magistrado ponente, mediante acuerdo debidamente fundado y motivado hará el correspondiente requerimiento, con copia al presidente del Tribunal, al inferior quien procederá de inmediato a enviar copia certificada de esas promociones o actuaciones o, si con ello no se entorpece el curso del proceso en primera instancia, el expediente original en que se contengan aquellas;
 
 III.- Presidir las audiencias de la sala, cuidar del orden y policía de la misma y dirigir los debates;
 
@@ -481,9 +495,11 @@ En las salas se listarán cuando menos con un día hábil de anticipación a la 
 
 Cada sala sesionará en forma secreta cuando menos un día hábil de la semana.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1996)</small>
+
 ###### Artículo 36.
 
-El magistrado presidente no será ponente, salvo si en la discusión del negocio, el proyecto presentado por el magistrado ponente no alcance mayoría, caso en el que el presidente designará diverso ponente, para que presente nuevo proyecto en la próxima sesión de la sala o se reservará formular el nuevo proyecto.
+Si en la discusión de un negocio la ponencia presentada no fuese aprobada, el magistrado presidente designará a diverso magistrado de la propia Sala para que presente nuevo proyecto en la siguiente sesión o lo elaborará él mismo.
 
 ###### Artículo 37.
 
@@ -925,13 +941,81 @@ Los jueces menores tendrán las mismas obligaciones que los jueces de primera in
 
 Los secretarios, actuarios y personal subalterno de los juzgados menores tendrán las mismas obligaciones que los funcionarios y empleados de la misma categoría de los juzgados de primera instancia, en la medida que las determine el reglamento y el Tribunal en Pleno.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1996)</small>
+
+### CAPITULO CUARTO BIS. De los Juzgados de Conciliación
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
+###### Artículo 75
+
+1.- En las poblaciones donde existan asentamientos de comunidades prevalentemente indígenas y no tenga su sede un juzgado de primera instancia o un juzgado menor, se instalarán juzgados de conciliación, cuya estructura se conformará con un juez y un secretario.
+
+El Tribunal Pleno, de entre los habitantes de lugar, a propuesta del Gobernador del Estado, designará al juez conciliador y al secretario, cuyos emolumentos serán cubiertos con cargo a la correspondiente partida del presupuesto de egresos del Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
+###### Artículo 75
+
+2.- Por cada juez y secretario propietarios habrá un suplente, quienes también serán propuestos por el Gobernador y sólo percibirán sueldo cuando se encuentren en funciones.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
+###### Artículo 75
+
+3.- Para ser juez conciliador o secretario, propietarios o suplentes, se requerirá:
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos y con residencia no menor de 2 años en el lugar;
+
+II.- Entender y hablar con soltura la lengua indígena de mayor predominio en la respectiva población;
+
+III.- Tener su origen y conocer los usos, costumbres y manifestaciones o prácticas jurídicas de esa Etnia;
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; y
+
+V.- Haber concluido la enseñanza primaria.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
+###### Artículo 75
+
+4.- Los jueces conciliadores y sus secretarios durarán un año en el cargo, pudiendo ser confirmados para desempeñarse en períodos subsecuentes, y antes de tomar posesión rendirán la protesta de ley ante el titular del juzgado menor o de primera instancia que tenga jurisdicción en el territorio del distrito judicial en que se ubique la población para la cual sean designados. La confirmación podrá ser expresa o tácita. Habrá confirmación expresa cuando el Gobernador proponga al Tribunal Pleno que el juez o secretario, propietario o suplente, sea designado para un nuevo período. La confirmación tácita tendrá lugar cuando el Gobernador omita hacer propuesta dentro de los tres días siguientes a la fecha de vencimiento del período.
+
+En caso de que el juez conciliador o el secretario cambien su residencia a otra población, aun dentro del propio distrito, cesarán en el ejercicio de sus funciones y, para concluir el correspondiente período se llamará al respectivo suplente; si éste, por cualquiera razón estuviese impedido de ejercer el cargo, el Tribunal Pleno lo comunicará al Gobernador para que proponga a quien concluya el período.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
+###### Artículo 75
+
+5.- Estos jueces tendrán la atribución de resolver, mediante la conciliación de los interesados, conflictos de orden civil y familiar, cuya cuantía o naturaleza no requiera inexcusablemente de la decisión de un juez de primera instancia o menor; así también conocerán de asuntos de orden penal cuya persecución requiera de querella y sólo ameriten de amonestación, apercibimiento, caución de no ofender o multa como sanción.
+
+Los jueces conciliadores no estarán obligados a fallar de acuerdo con las leyes, pudiendo decidir conforme a su conciencia, a la equidad y a los usos, costumbres y prácticas jurídicas del pueblo indígena, siempre que con ello no se vulneren las disposiciones legales y reglamentarias de orden público vigentes en la Entidad.
+
+Para la resolución de los asuntos de que conozcan, no se sujetarán a la sustanciación del juicio que en su caso pudiese corresponder, pero estarán obligados a recibir las pruebas y oír los alegatos de las partes. Sus actuaciones y fallo se documentarán por escrito, integrando un legajo o expediente por cada caso, debidamente numerado, cuyas hojas deberán estar foliadas y rubricadas.
+
+La fuerza de las sentencias de los jueces conciliadores radicará en la aceptación que los interesados den a las mismas, no teniendo aquellas el carácter de definitivas, por lo que los interesados inconformes podrán acudir ante el juez de primera instancia o menor, o ante el agente del Ministerio Público que competa, a hacer valer sus derechos.
+
+Bajo ninguna circunstancia los jueces conciliadores conocerán de asuntos de naturaleza mercantil o decidirán en negocios atinentes a divorcio ya sea voluntario o necesario, nulidad de matrimonio, filiación, adopción, tutela, sucesión testamentaria o legítima y conflictos sobre propiedad o tenencia de la tierra; más sí podrán resolver con carácter provisional sobre custodia de menores, separación material de cónyuges y fijación y pago de pensión alimentaria, entretanto un juez de primera instancia, competente en materia familiar, se avoque al conocimiento del asunto y ratifique o rectifique sus decisiones con estricto apego a la ley.
+
+Los jueces y secretarios de los juzgados de conciliación deberán excusarse de conocer de aquellos asuntos en que tengan interés directo o sean parte su cónyuge, parientes consanguíneos en línea recta ascendente o descendente sin limitación de grado, o en línea colateral hasta el tercer grado, o por afinidad hasta el segundo grado. En estos casos harán de inmediato la respectiva comunicación al juez de primera instancia o menor que tenga jurisdicción en el territorio en que se ubique la población de su residencia, para que éste ordene al suplente se avoque al conocimiento del asunto, previa protesta de ley. Si debiendo excusarse un juez o secretario no lo hiciere, las actuaciones en que intervengan carecerán de validez alguna y no obligarán a las partes.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
+###### Artículo 75
+
+6.- Los jueces conciliadores rendirán un informe por escrito, cada tres meses, de los asuntos que hayan conocido, a los titulares del juzgado menor o de primera instancia que tenga jurisdicción en el territorio en que se ubique la población para la cual sean designados, para que éstos a su vez lo hagan del conocimiento del Tribunal Pleno.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
+###### Artículo 75
+
+7.- Los secretarios de los juzgados de conciliación tendrán a su cargo levantar las actuaciones, dar fe de las determinaciones del juez, así como el notificarlas a las partes interesadas. Todas las notificaciones se harán personalmente, asentando constancia de ello en el legajo o expediente.
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
 ### CAPITULO QUINTO. De las visitas a los establecimientos de reclusión
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
-
-### CAPITULO PRIMERO
 
 ###### Artículo 76.
 
@@ -1003,7 +1087,7 @@ El presidente de la Sala Penal que designe el Pleno practicará a los reclusorio
 
 ## TITULO QUINTO. De los Auxiliares de la Administración de Justicia
 
-### CAPITULO SEGUNDO. De los Peritos
+### CAPITULO PRIMERO
 
 ###### Artículo 86.
 
@@ -1013,7 +1097,7 @@ Los auxiliares de la administración de justicia a la que se refiere el artícul
 
 Los jueces, para designar síndicos e interventores de concursos y quiebras, albaceas e interventores de sucesiones, tutores y curadores que deban intervenir en el procedimiento, tendrán especial cuidado de que no tengan ninguna de las restricciones a que alude el Código de Procedimientos Civiles y además que sean ciudadanos mexicanos en pleno goce y ejercicio de sus derechos, de notoria honradez y responsabilidad, y sin antecedentes penales por delitos intencionales.
 
-### CAPITULO TERCERO. De los Peritos Médico Legistas
+### CAPITULO SEGUNDO. De los Peritos
 
 ###### Artículo 88.
 
@@ -1041,15 +1125,23 @@ Siempre que alguna persona que no sepa hablar el idioma español tenga que ser e
 
 En los asuntos civiles o penales, las partes interesadas podrán nombrar libremente los peritos que les convengan, siempre que reúnan los requisitos a que alude el artículo 89 de esta ley.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1996)</small>
+
 ###### Artículo 94.
 
-Los honorarios de los peritos, designados por el juez, sin solicitud de ninguno de los interesados, de acuerdo con lo que dispone el artículo 397 y demás relativos del Código de Procedimientos Civiles, serán cubiertos por ambas partes por mitad, sin perjuicio de lo que disponga la sentencia definitiva respecto a condenación en costas.
+Los honorarios del perito o peritos que un juez o tribunal nombre en defecto de alguna de las partes serán solventados por dicha parte; los del perito tercero para el caso de discordia se solventarán por ambas partes, por mitad, sin perjuicio de lo que disponga la sentencia definitiva respecto a condenación en costas.
 
-### CAPITULO PRIMERO
+Cuando la designación del perito corresponda por ley al juez o tribunal, éstos pedirán a la agrupación, asociación, colegio o barra de profesionales en la materia científica, arte u oficio al que corresponda la peritación le propongan una terna para de ella escoger al que se nombrará.
+
+### CAPITULO TERCERO. De los Peritos Médico Legistas
 
 ###### Artículo 95.
 
 Las peritaciones médico legistas, estarán a cargo de dos peritos médicos en cada uno de los distritos judiciales del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
+Cuando en un proceso haya la necesidad de contar con una tercera opinión, el juez o tribunal lo hará del conocimiento de la respectiva asociación o colegio local de profesionales de la medicina, en la rama o especialidad que deba versar la peritación, para que ésa, en un plazo no mayor de tres días, le propongan de entre sus miembros una terna para que la autoridad jurisdiccional seleccione al que nombrará como perito tercero para el caso de discordia.
 
 ###### Artículo 96.
 
@@ -1087,9 +1179,7 @@ IX.- Las demás que les señalen las leyes y reglamentos.
 
 ## TITULO SEXTO. Del procedimiento para suplir las faltas de los funcionarios y empleados de la administración de justicia
 
-### CAPITULO SEGUNDO. De la Sustitución en caso de Recusación y Excusa
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
+### CAPITULO PRIMERO
 
 ###### Artículo 99.
 
@@ -1169,7 +1259,7 @@ Las faltas de los demás empleados de la administración de justicia se cubrirá
 
 Cuando las faltas de los secretarios, actuarios y demás empleados del Poder Judicial del Estado excedieren de diez días por licencia, sin goce de sueldo, el Tribunal en Pleno procederá a efectuar las designaciones internas.
 
-### CAPITULO TERCERO. Vacaciones y Licencias
+### CAPITULO SEGUNDO. De la Sustitución en caso de Recusación y Excusa
 
 > <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
@@ -1209,11 +1299,15 @@ IV.- Los jueces mixtos de primera instancia por el juez de primera instancia o m
 
 V.- Los jueces menores, por el de la misma categoría más cercano del mismo distrito judicial y a falta de éste por el de la misma categoría más cercano, de diverso distrito judicial;
 
-VI.- (DEROGADA, P.O. 2 DE DICIEMBRE DE 1985)
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 1996)</small>
+
+VI.- Los jueces conciliadores y sus secretarios, por sus respectivos suplentes; y
 
 VII.- Los demás funcionarios del Poder Judicial en la forma que prevengan las leyes y reglamentos respectivos y en caso de silencio de éstos, como lo dispongan los titulares de las oficinas correspondientes.
 
-### CAPITULO PRIMERO. Del Archivo Judicial del Estado
+### CAPITULO TERCERO. Vacaciones y Licencias
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
 ###### Artículo 117.
 
@@ -1251,7 +1345,7 @@ Las licencias con goce de sueldo que excedan de diez días, solo se concederán 
 
 ## TITULO SEPTIMO
 
-### CAPITULO SEGUNDO. Del Mantenimiento
+### CAPITULO PRIMERO. Del Archivo Judicial del Estado
 
 ###### Artículo 125.
 
@@ -1315,7 +1409,7 @@ El reglamento respectivo fijará las atribuciones de los empleados del archivo j
 
 El jefe del archivo judicial así como los empleados del mismo, serán nombrados por el Tribunal en Pleno.
 
-### CAPITULO PRIMERO. De las Responsabilidades
+### CAPITULO SEGUNDO. Del Mantenimiento
 
 ###### Artículo 138.
 
@@ -1339,11 +1433,17 @@ Los titulares de las oficinas, presentarán al oficial mayor del Tribunal cualqu
 
 ## TITULO OCTAVO
 
+### CAPITULO PRIMERO. De las Responsabilidades
+
 ### CAPITULO SEGUNDO. De las Faltas Oficiales
 
-### CAPITULO UNICO. Disposiciones Generales
+> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1996)</small>
 
-## TITULO NOVENO
+## TITULO OCTAVO-BIS. Del Fondo para el Mejoramiento de la Administración de Justicia
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
 
 ###### Artículo 143.
 
@@ -1370,6 +1470,8 @@ Los demás funcionarios y empleados judiciales serán procesados por los delitos
 ###### Artículo 148.
 
 Los funcionarios y empleados del Poder Judicial que fueren procesados, quedarán suspendidos temporalmente de sus cargos, al decretarse su formal prisión o sujeción a proceso, hasta en tanto se dicte sentencia. En caso de ser absolutoria, podrá volver a ocupar su cargo.
+
+### CAPITULO UNICO. Disposiciones Generales
 
 ###### Artículo 149.
 
@@ -1427,7 +1529,19 @@ II.- No presentar oportunamente proyecto de resolución;
 
 III.- Omitir firmar los engroses de sentencia, en los términos previstos por esta ley;
 
-IV.- No concurrir, sin causa justificada, al desempeño de sus labores oficiales, durante las horas determinadas por el reglamento; y, en su defecto, por el Tribunal en Pleno.
+IV.- No concurrir, sin causa justificada, al desempeño de sus labores oficiales, durante las horas determinadas por el reglamento; y, en su defecto, por el Tribunal en Pleno;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 1996)</small>
+
+V.- Solicitar al personal de los juzgados la entrega o exhibición de expedientes, libros de control u otros documentos que ante los mismos se encuentren en trámite, se lleven u obren en sus archivos, salvo que se trate del:
+
+a). Magistrado visitador en cumplimiento de sus funciones y para el exclusivo objeto de consultar, verificar o cotejar en la misma oficina del juzgado, sin facultad para extraerlos de ella;
+
+b). Magistrado presidente de una sala, en la forma y términos previstos por la fracción II del artículo 30 de esta ley; o
+
+c). Magistrado presidente del Tribunal Pleno.
+
+También incurrirá en falta el miembro del personal del juzgado que acceda a la entrega o exhibición en contravención de lo antes dispuesto.
 
 ###### Artículo 157.
 
@@ -1521,6 +1635,142 @@ IV.- No despachar oportunamente los oficios o llevar a cabo las diligencias que 
 
 Las faltas oficiales en que incurran los funcionarios y empleados del Poder Judicial del Estado serán sancionadas, conforme a su gravedad a juicio del órgano encargado de aplicar la sanción, la primera con apercibimiento y nota de demérito en el expediente personal o multa equivalente hasta cinco días de sueldo y anotación en el expediente personal y la segunda y siguientes con suspensión de cinco días hasta tres meses, sin goce de sueldo.
 
+> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1996)</small>
+
+## TITULO OCTAVO-BIS. Del Fondo para el Mejoramiento de la Administración de Justicia
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1996)</small>
+
+###### Artículo 161
+
+1.- El Poder Judicial contará con un fondo para el mejoramiento de la Administración de Justicia que como objeto tendrá el de ser fuente de generación de recursos para:
+
+I.- Instaurar un programa de estímulos y recompensas al personal profesional y de apoyo del Poder Judicial, por méritos especiales en el desempeño de sus labores; cuyo número, monto, periodicidad de entrega y requisitos a satisfacer para merecerlos se determinarán en la reglamentación que al efecto expida el Tribunal Pleno;
+
+II.- Adquirir mobiliario y equipo especializado, no considerando (sic) en el Presupuesto de Egresos del Poder Judicial;
+
+III.- Contratar eventualmente personal profesional para apoyar labores extraordinarias de los órganos de justicia, por lapsos no mayores a tres meses;
+
+IV.- Constituir un fondo de retiro para los servidores judiciales, en la proporcionalidad y términos que determine el reglamento que para ese efecto expida el Tribunal Pleno;
+
+V.- Gastos imprevistos o que resulten impostergables para la correcta administración de justicia; no contemplados en el Presupuesto de Egresos; y
+
+VI.- Otras finalidades que el Tribunal Pleno, mediante acuerdo fundado que publique en el Periódico Oficial del Estado determine.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
+###### Artículo 161
+
+2.- En modo alguno los recursos que genere el Fondo podrán utilizarse para incrementar sueldos, o compensaciones o sufragar renglones diversos a los señalados en el artículo que antecede, en provecho del personal de base o de confianza cuya plaza se encuentre considerada dentro del Presupuesto de Egresos.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
+###### Artículo 161
+
+3.- El fondo, para el cumplimiento de su objeto, contará con un patrimonio que por capital fijo para inversiones se constituirá con:
+
+I.- El importe de las sanciones pecuniarias que impongan por cualquiera causa los órganos jurisdiccionales del fuero común del Estado, cuando se hagan efectivas conforme a la ley;
+
+II.- El importe de las cauciones que garanticen la libertad provisional, cuando se hagan efectivas conforme a la ley;
+
+III.- El importe de las cauciones para garantizar la condena condicional, cuando se hagan efectivas conforme a la ley;
+
+IV.- El importe de la reparación del daño, cuando la parte ofendida renuncie al cobro del mismo;
+
+V.- La totalidad del producto que se obtenga por la venta de los instrumentos u objetos del delito considerados como bienes mostrencos;
+
+VI.- Los bienes corporales e incorporales que sean donados o aportados por personas físicas o morales, bajo cualquier título, en favor del Fondo; y
+
+VII.- Las aportaciones que el Estado o el Municipio le destinen, dentro de los correspondientes Presupuestos de Egresos para constituir o incrementar el Fondo.
+
+El patrimonio constitutivo del capital fijo podrá ser incrementado pero no reducido en su monto. Los recursos disponibles serán exclusivamente los provenientes de los réditos que la inversión de aquel genere.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
+###### Artículo 161
+
+4.- Con la finalidad de generar los recursos necesarios para la satisfacción del objeto del Fondo, el patrimonio será depositado en una institución bancaria en la modalidad de inversión que ofrezca mayor rendimiento y operatividad, quedando prohibido hacer con dicho patrimonio inversiones de carácter especulativo, o aceptar contra su depósito documentos de carácter negociable como bonos, certificados al portador o similares. Los réditos que produzca la inversión podrán ser capitalizados.
+
+En la inversión podrán depositarse también los recursos correspondientes a las partidas que del Presupuesto de Egresos del Gobierno del Estado correspondan al Poder Judicial, cuya transferencia temporal, para inversión no cause detrimento u obstaculice el objeto inicial de su destino.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
+###### Artículo 161
+
+5.- El Fondo para el Mejoramiento de la Administración de Justicia, será administrado por el Consejo Técnico del Fondo, con el auxilio del director de contabilidad del Tribunal.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
+###### Artículo 161
+
+6.- El Consejo Técnico del Fondo se integrará con:
+
+I.- Un presidente, que lo será el magistrado presidente del Tribunal Superior;
+
+II.- Dos vocales, que lo serán los magistrados numerarios que para ese efecto se elijan anualmente en la misma sesión en que lo sean los presidentes de Sala; y
+
+III.- Un secretario técnico, que lo será el oficial mayor del Tribunal.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
+###### Artículo 161
+
+7.- El Consejo Técnico sesionará con la totalidad de sus miembros, ordinariamente dentro de los primeros diez días de cada mes y extraordinariamente cuando así sea necesario, previa convocatoria de su presidente, por conducto del secretario técnico.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
+###### Artículo 161
+
+8.- El Consejo Técnico tendrá las siguientes atribuciones:
+
+I.- Administrar y representar al Fondo para el Mejoramiento de la Administración de Justicia;
+
+II.- Autorizar la aplicación de los recursos disponibles del Fondo;
+
+III.- Vigilar, coordinar y controlar los trabajos del director de contabilidad por cuanto al Fondo corresponda, supervisando que las erogaciones efectuadas con cargo al Fondo se ajusten a lo autorizado por el Consejo;
+
+IV.- Ordenar auditorías y revisiones contables a la documentación comprobatoria del Fondo; y
+
+V.- Las demás que le confieran esta ley, los reglamentos que de ella se deriven y el Tribunal Pleno, mediante los correspondientes acuerdos.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
+###### Artículo 161
+
+9.- El presidente del Tribunal Superior de Justicia y el director de contabilidad del propio Tribunal, firmarán conjuntamente los títulos de inversiones y los cheques y comprobantes de las erogaciones a cargo del Fondo, así como los actos jurídicos aprobados por el Consejo Técnico.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
+###### Artículo 161
+
+10.- Los miembros del Consejo Técnico tienen la obligación de dar cuenta al Tribunal Pleno de cualquiera irregularidad que observen en la administración del Fondo, y aquel a su vez a la unidad de contraloría del Poder Judicial y al Ministerio Público, en su caso.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
+###### Artículo 161
+
+11.- El Consejo Técnico informará mensualmente al Tribunal Pleno, o cuando éste así se lo requiera, acerca del estado que guarde el Fondo. El informe mensual se rendirá en la sesión del Pleno siguiente a aquella que durante ese mes celebre el Consejo.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
+###### Artículo 161
+
+12.- El Tribunal Pleno podrá ordenar todas las revisiones que estime convenientes, respecto al estado que guarde el Fondo, a efecto de que se observe estrictamente el cumplimiento de esta ley y autorizará la Cuenta Anual del Fondo y los respectivos documentos contables que soporten el origen y aplicación de los recursos, el estado de resultados y otros que se estimen conveniente presentar. Asimismo ordenará la práctica anual de una auditoría externa. La Cuenta Anual aprobada por el Tribunal Pleno se publicará en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
+###### Artículo 161
+
+13.- Una vez glosada y aprobada la Cuenta Anual del Fondo por el Tribunal Pleno. La presidencia del mismo remitirá, en el mes de Diciembre de cada año, los correspondientes estados financieros al Ejecutivo del Estado para que se agregue a la Cuenta Pública del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
+###### Artículo 161
+
+14.- A efecto de que el Consejo Técnico pueda llevar un control y seguimiento de las multas, cauciones, bienes mostrencos y reparaciones de daño aludidos en las fracciones I a V del artículo 161-3, los secretarios de acuerdos de las Salas del Tribunal Superior y de los juzgados remitirán al director de contabilidad, con la periodicidad que éste les indique, una relación pormenorizada de aquellos, mencionando montos, descripciones, número de expediente o toca y fecha de los acuerdos respectivos. El director de contabilidad dará cuenta con dicha relación al Consejo Técnico.
+
+## TITULO NOVENO
+
 ###### Artículo 162.
 
 Todos los funcionarios y empleados del Poder Judicial del Estado, al ser nombrados para el desempeño de un cargo o empleo, deberán rendir la protesta de ley y comenzarán a ejercer las funciones que le correspondan, dentro de los diez días siguientes al de la fecha del nombramiento. Si no se presentaren, el nombramiento se tendrá por no hecho y se procederá a hacer una nueva designación.
@@ -1556,6 +1806,18 @@ La infracción de esta disposición será sancionada con la pérdida del cargo y
 ###### Artículo 169.
 
 Los funcionarios y empleados del Poder Judicial, sea cual fuere su categoría, no podrán litigar por sí o por interpósita persona en los Tribunales de Justicia del Estado, ni ejercer la abogacía sino en causa propia o en favor de sus ascendientes, descendientes y de sus cónyuges. No podrán ser tampoco apoderados judiciales, síndicos, administradores o interventores en concursos o quiebras. La infracción de esta disposición será sancionada con la pérdida del cargo o empleo y ameritará responsabilidad penal, conforme a lo dispuesto en el artículo 199, fracción III, del Código Penal del Estado, en el caso de ejercicio de la abogacía.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
+###### Artículo 170.
+
+Si a consecuencia de perturbaciones climatológicas u orogénicas, o derivadas de otras contingencias quedase impedido el normal desarrollo de las actividades de las dependencias del Poder Judicial, el pleno del Tribunal queda facultado para en sesión ordinaria o extraordinaria, según sea el caso, emitir acuerdo declarando la suspensión de labores, interrupción de términos y plazos, diferimiento de audiencias, así como todas aquellas otras medidas que considere pertinentes para la buena marcha de la administración de justicia.
+
+El acuerdo se hará de conocimiento general mediante su publicación en el Periódico Oficial del Estado y en otros medios de comunicación, bien sean radiofónicos, televisivos o impresos.
+
+Si el suceso fuese de tal gravedad que vede el que los integrantes del Pleno se reúnan en su sede oficial, quedan facultados para celebrar la respectiva sesión en el lugar que determine su presidente. Si el quórum que para la validez de las sesiones del pleno marca esta ley no pudiese ser satisfecho la determinación podrá ser adoptada con carácter de provisional por el magistrado presidente y sometida a ratificación del pleno tan pronto éste pueda reunirse.
+
+Emitido el acuerdo, las actividades del Poder Judicial quedarán en suspenso entretanto dure el impedimento.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -1603,6 +1865,14 @@ P.O. 23 DE DICIEMBRE DE 1980.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.
 
+P.O. 10 DE JULIO DE 1996.
+
+Primero.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo en lo que atañe a las modificaciones previstas en su Artículo Tercero, las que entrarán en vigor a partir del día 1º de enero de 1997.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan a los de este decreto.
+
+Tercero.- El Tribunal Pleno procederá, en el término de sesenta días contados a partir de la vigencia de este decreto, a hacer las adecuaciones correspondientes en los reglamentos y acuerdos administrativos que ha expedido, así como a emitir, en un término no mayor de noventa días, los que con motivo de este decreto sean necesarios. Asimismo, dicho Tribunal, tomará las previsiones que sean necesarias al elaborar su proyecto de presupuesto de Egresos para el año de 1997.
+
 P.O. 22 DE MAYO DE 1985.
 
 ###### ARTICULO PRIMERO.
@@ -1632,3 +1902,11 @@ UNICO.- Este decreto iniciará su vigencia al día siguiente de su publicación 
 P.O. 29 DE DICIEMBRE DE 1990.
 
 Unico.- El presente decreto iniciará su vigencia el día uno e (sic) Enero de mil novecientos noventa y uno.
+
+P.O. 10 DE JULIO DE 1996.
+
+Primero.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo en lo que atañe a las modificaciones previstas en su Artículo Tercero, las que entrarán en vigor a partir del día 1º de enero de 1997.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan a los de este decreto.
+
+Tercero.- El Tribunal Pleno procederá, en el término de sesenta días contados a partir de la vigencia de este decreto, a hacer las adecuaciones correspondientes en los reglamentos y acuerdos administrativos que ha expedido, así como a emitir, en un término no mayor de noventa días, los que con motivo de este decreto sean necesarios. Asimismo, dicho Tribunal, tomará las previsiones que sean necesarias al elaborar su proyecto de presupuesto de Egresos para el año de 1997.
