@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1941-03-30"
+last_updated: "1943-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 1941.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 1943.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -301,11 +301,11 @@ VII. No ser Magistrado del Supremo Tribunal de Justicia del Estado, ni Procurado
 
 VIII. No estar comprendido en alguna de las prohibiciones que establece el Artículo 60 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1943)</small>
 
 ###### Art. 55.
 
-El Gobernador del Estado durará en su encargo cuatro años y comenzará a ejercer sus funciones el 26 de septiembre siguiente al mes de su elección.
+El Gobernador del Estado durará en su encargo seis años y comenzará a ejercer sus funciones el 26 de septiembre siguiente al mes de su elección.
 
 ###### Art. 56.
 
@@ -653,11 +653,11 @@ La Legislatura celebrará sesiones extraordinarias cada vez que para ello fuere 
 
 No podrá celebrarse ninguna sesión sin la concurrencia de más de la mitad del número total de Diputados.
 
-(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 1929) (REPUBLICADO, P.O. 29 DE DICIEMBRE DE 1929)
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1943)</small>
 
 ###### Art. 45.
 
-El Gobernador del Estado y el Presidente del Supremo Tribunal de Justicia, asistirán a la apertura del segundo período ordinario de sesiones; y leerán cada uno de ellos un informe en el que expondrán, en términos generales, el estado de sus respectivas administraciones.
+El Gobernador del Estado y el Presidente del Supremo Tribunal de Justicia, asistirán a la apertura del segundo período ordinario de sesiones; y leerá el primero de ellos, un informe en el que expondrá en términos generales, el estado que guarda su administración.
 
 ###### Art. 46.
 
@@ -691,7 +691,9 @@ VI. Hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y 
 
 Cada presunta Legislatura calificará las elecciones de sus miembros y resolverá las dudas que hubiere sobre ellas. Su resolución será definitiva e irrevocable.
 
-VII. Erigirse en Colegio Electoral para nombrar los Magistrados del Supremo Tribunal, así como para elegir Gobernador del Estado que termine el período constitucional, en caso de falta absoluta de este funcionario, ocurrida dentro de los dos últimos años de dicho periodo. Entre tanto la Legislatura hace la elección de Gobernador, para lo cual será convocada desde luego por su Diputación Permanente, en caso de estar en funciones, se encargará del Poder Ejecutivo el Secretario General del Despacho; y si este funcionario se encontrare comprendido en alguna de las prohibiciones del artículo 60 de esta Constitución, asumirá provisionalmente el cargo de Gobernador, el Ciudadano que designe la Legislatura, si estuviere en sesiones, o su Diputación Permanente en los recesos de aquélla. El ciudadano electo por la Legislatura para el cargo de Gobernador Substituto del Estado, de conformidad con lo dispuesto en la primera parte de esta fracción, deberá llenar los requisitos y no estar comprendido en alguna de las prohibiciones que, para desempeñar el cargo, señala esta Constitución.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 1943)</small>
+
+VII. Erigirse en Colegio Electoral para nombrar a los Magistrados del Supremo Tribunal, así como para elegir Gobernador del Estado que termine el período constitucional, en caso de falta absoluta de este Funcionario, ocurrida dentro de los tres últimos años de dicho período. Entre tanto la Legislatura hace la elección de Gobernador, para lo cual será convocada desde luego por su Diputación Permanente, en caso de estar en funciones, se encargará del Poder Ejecutivo el Secretario General del Despacho; y si este Funcionario se encontrare comprendido en alguna de las prohibiciones del Artículo 60 de esta Constitución, asumirá provisionalmente el cargo de Gobernador, el ciudadano que designe la Legislatura, si estuviere en sesiones, o su Diputación Permanente en los recesos de aquélla. El ciudadano electo por la Legislatura para el cargo de Gobernador Substituto del Estado, de conformidad con lo dispuesto en la primera parte de esta fracción, deberá llenar los requisitos y no estar comprendido en alguna de las prohibiciones que, para desempeñar el cargo, señala esta Constitución.
 
 VIII. Hacer la división del Estado en Distritos Electorales.
 
@@ -699,7 +701,9 @@ IX. Decidir sobre las renuncias que hagan los Diputados, Gobernador del Estado y
 
 X. Reformar la división política del Estado, a fin de que resulte adecuada a las necesidades del buen Gobierno.
 
-XI. Convocar a elecciones de Gobernador en caso de falta absoluta del que está ejerciendo el cargo, ocurrida en los dos primeros años del período constitucional, a fin de que concluya dicho período. En este caso, entre tanto se efectúan las elecciones y toma posesión el nuevo Gobernador, así como en toda falta temporal del Ciudadano Encargado del Poder Ejecutivo por más de treinta días, la Legislatura elegirá por mayoría de votos y en escrutinio secreto, un Gobernador Interino, debiendo, el electo, llenar los requisitos y no estar comprendido en alguna de las prohibiciones que, para desempeñar el cargo, señala esta Constitución. Entre tanto se hace la elección por la Legislatura, a la que si no estuviere reunida, convocará desde luego a sesiones extraordinarias la Diputación Permanente, se encargará del Poder Ejecutivo el Secretario General del Despacho, quien también suplirá al Gobernador en sus faltas temporales que no excedan de treinta días, procediéndose, en caso de que el Secretario General se encuentre comprendido en alguna de las prohibiciones que establece el Artículo 60 de esta Constitución, en la forma que determina la fracción VIII de este artículo.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 1943)</small>
+
+XI. Convocar a elecciones de Gobernador en caso de falta absoluta del que está ejerciendo el cargo, ocurrida en los tres primeros años del período constitucional, a fin de que concluya dicho período. En este caso, entre tanto se efectúan las elecciones y toma posesión el nuevo Gobernador, así como en toda falta temporal del Ciudadano Encargado del Poder Ejecutivo por más de treinta días, la Legislatura elegirá por mayoría de votos y en escrutinio secreto, un Gobernador Interino, debiendo, el electo, llenar los requisitos y no estar comprendido en alguna de las prohibiciones que, para desempeñar el cargo, señala la Constitución. Entre tanto se hace la elección por la Legislatura, a la que si no estuviere reunida, convocará desde luego a sesiones extraordinarias, la Diputación Permanente, se encargará del Poder Ejecutivo el Secretario General del Despacho, quien también suplirá al Gobernador en sus faltas temporales que no excedan de treinta días, procediéndose en caso de que el Secretario General se encuentre comprendido en alguna de las prohibiciones que establece el Artículo 60 de esta Constitución, en la forma que determina la fracción VII de este Artículo.
 
 XII. Dirimir los conflictos entre el Ejecutivo y el Supremo Tribunal de Justicia y entre éstos y los Municipios.
 
@@ -817,9 +821,11 @@ IX. Resolver las renuncias y nombrar en caso de falta absoluta de los propietari
 
 Poder Judicial. Supremo Tribunal de Justicia.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1943)</small>
+
 ###### Art. 61.
 
-El Supremo Tribunal de Justicia se compondrá de cinco Magistrados propietarios y siete supernumerarios. Durarán en sus funciones cuatro años, y serán nombrados por el Congreso, funcionando como Colegio Electoral.
+El Supremo Tribunal de Justicia se compondrá de cinco Magistrados Propietarios y siete Supernumerarios. Durarán en sus funciones seis años, y serán nombrados por el Congreso, funcionando como Colegio Electoral.
 
 (REFORMADO, P.O. 8 DE SEPTIEMBRE DE 1929) (REPUBLICADO, P.O. 29 DE DICIEMBRE DE 1929)
 
@@ -871,11 +877,11 @@ El Presidente del Tribunal será uno de los Magistrados propietarios, designado 
 
 Jueces de Partido y Municipales.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1924)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1943)</small>
 
 ###### Art. 66.
 
-Los Jueces de Partido durarán en su encargo cuatro años y no podrán ser removidos sino por causa justificada. En sus faltas temporales el Supremo Tribunal de Justicia nombrará Juez Interino por el tiempo que dure la falta.
+Los Jueces de Partido durarán en su encargo seis años y no podrán ser removidos sino por causa justificada. En sus faltas temporales el Supremo Tribunal de Justicia nombrará Jueces Interinos por el tiempo que dure la falta.
 
 ###### Art. 67.
 
@@ -1154,3 +1160,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 30 DE MARZO DE 1941.
 
 Artículo Segundo: Este Decreto se publicará por bando solemne en todo el Estado.
+
+P.O. 28 DE MARZO DE 1943.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
