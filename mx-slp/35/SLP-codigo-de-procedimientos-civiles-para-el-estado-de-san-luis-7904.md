@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "1947-06-19"
+last_updated: "1972-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1972.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -2869,7 +2869,9 @@ ART. 762.- Ante el tribunal competente se procederá, con respecto al testamento
 
 #### Sección XVI. Disposiciones relativas a Juicios Sucesorios cuyo interés sea menor de $1,000.00
 
-ART. 763.- Los juicios sucesorios cuya cuantía sea menor de $1,000.00 un mil pesos, se promoverán ante los jueces menores o alcaldes constitucionales, en su caso, justificando la defunción y presentando, de ser posible, una lista de los bienes del fallecido, un certificado del valor fiscal de los inmuebles y el avalúo de los muebles.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1972)</small>
+
+ART. 763.- Los juicios sucesorios, cuya cuantía sea menor de $10,000.00 diez mil pesos, se promoverán ante los Jueces de Primera Instancia, y ante los Jueces Menores en los lugares donde éstos existan, si la cuantía es inferior a $5,000.00 cinco mil pesos. En ambos casos la tramitación se sujetará a las prescripciones establecidas en la Sección XVI, Capítulo VI de este Código.
 
 ART. 764.- El juez, en vista de la solicitud del denunciante, tendrá por radicada la sucesión, pedirá informe a la Tesorería del Estado o Municipal, en sus respectivos casos, sobre el valor fiscal de los bienes denunciados; mandará que se convoque a las personas que se crean con derecho a la herencia, por medio de publicaciones en la puerta del juzgado, que se harán tres veces durante treinta días, para que se presenten a deducir sus derechos dentro de otros treinta y rindan las pruebas de su parentesco con el autor de la herencia.
 
@@ -4109,7 +4111,9 @@ VII.- En todo lo demás se observarán, en lo conducente, las disposiciones de e
 
 ### CAPITULO UNICO
 
-ART. 1096.- Los jueces menores y los alcaldes constitucionales, en los negocios cuya cuantía sea hasta de quinientos pesos, procederán con arreglo a las disposiciones especiales de este Título y, en lo no previsto, observarán las reglas generales y disposiciones de este Código.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1972)</small>
+
+ART. 1096.- Los Jueces de Primera Instancia, en los negocios en materia civil, cuya cuantía sea hasta de $10,000.00 diez mil pesos y los menores cuya cuantía no exceda de $5,000.00 cinco mil pesos, procederán conforme a las disposiciones especiales de este Título y en lo no previsto, observarán las reglas generales y disposiciones de este Código.
 
 ART. 1097.- Cuando el juez, en cualquier estado del negocio, encuentre que no debe seguirse procedimiento especial por exceder de los límites que se fijan en el artículo anterior, continuará el procedimiento en la forma del juicio respectivo.
 
@@ -4264,3 +4268,11 @@ GONZALO N. SANTOS
 El Secretario General de Gobierno
 
 Lic. LUIS NOYOLA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 24 DE DICIEMBRE DE 1972.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las Leyes y disposiciones que se opongan a este Decreto.
