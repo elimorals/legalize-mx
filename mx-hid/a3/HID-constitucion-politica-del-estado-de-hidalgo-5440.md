@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1961-06-08"
+last_updated: "1969-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 1961.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 1969.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -166,6 +166,12 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 8 DE JUNIO DE 1961.
 
 Unico.- Esta Reforma entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 1969.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CONSTITUCION.
+
+4o.- Este Decreto entrará en vigor el 1o. de enero de 1970.
 
 ## TITULO II. DEL PODER PUBLICO Y DE LA FORMA DE GOBIERNO
 
@@ -1099,11 +1105,11 @@ El período Constitucional de la actual Legislatura, terminara el último día d
 
 Las autoridades y funcionarios del Estado no tienen mas facultades que las que expresamente les concedan esta Constitución, la General de la República y las leyes que de ellas emanen.
 
-> <small>(ADICIONADO (N. DE E. REFORMADO], PRIMER PARRAFO, P.O. 16 DE JUNIO DE 1946)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 1969)</small>
 
 ###### Artículo 3°.
 
-El Territorio del Estado, es el expresado en el Supremo Decreto de Erección de 16 de enero de 1869 y se divide en los 15 Distritos a los que corresponden los 82 Municipios que a continuación se expresan:
+El territorio del Estado es el expresado en el Supremo Decreto de Erección de 16 de enero de 1869 y dividido en 15 Distritos a los que corresponden los 83 Municipios que a continuación se expresan:
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 1927)</small>
 
@@ -1137,9 +1143,9 @@ Distrito de Pachuca: Formado con los Municipios de Pachuca, Mineral del Monte, M
 
 Distrito de Tenango de Doria: Formado con los Municipios de Tenango de Doria, San Bartolo Tutotepec, Agua Blanca, Iturbide y Huehuetla.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1936)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 1969)</small>
 
-Distrito de Tula de Allende: Formado con los Municipios de Tula de Allende, Tlaxcoapan, Tepeji del Río, Tetepango, Tezontepec de Aldama, Atitalaquia, Tepetitlán, Atotonilco, Tula y Ajacuba.
+Distrito de Tula de Allende, formado por los Municipios de Tula de Allende, Tlaxcoapan, Tepeji del Río, Tetepango, Tezontepec de Aldama, Atitalaquia, Tepetitlán, Atotonilco de Tula, Ajacuba y Tlahuelilpan.
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 1944)</small>
 
