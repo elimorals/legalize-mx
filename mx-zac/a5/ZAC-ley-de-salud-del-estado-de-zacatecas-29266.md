@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-salud-del-estado-de-zacatecas-29266"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-30"
-last_updated: "2001-06-30"
+last_updated: "2003-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SALUD DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2003.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 30 de junio de 2001.
 
@@ -93,7 +93,9 @@ La presente ley es de orden público e interés social. Tiene por objeto otorgar
 
 El derecho a la protección de la salud, tiene las siguientes finalidades:
 
-I. El bienestar físico y mental del individuo, para contribuir al ejercicio pleno de sus capacidades;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2003)</small>
+
+I. El bienestar físico y mental de las personas, para contribuir al ejercicio pleno de sus capacidades;
 
 II. La prolongación y el mejoramiento de la calidad de la vida humana;
 
@@ -109,9 +111,13 @@ VI. El conocimiento de los efectos del medio ambiente y su relación con la salu
 
 En los términos de la Ley General de Salud y de la presente ley, corresponde al Estado de Zacatecas, por conducto de los Servicios de Salud del Estado en coadyuvancia, competencia concurrente o acuerdo con la Secretaría de Salud del Gobierno federal, en materia de salubridad general:
 
-I. Organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general;
+(ADICIONADA [N. DE E. REFORMADA), P.O. 19 DE FEBRERO DE 2003)
 
-II. La atención medica a la población en general;
+I. Organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general y coadyuvar con las entidades públicas en la prevención de la violencia familiar;
+
+(ADICIONADA [N. DE E. REFORMADA), P.O. 19 DE FEBRERO DE 2003)
+
+II. La atención medica a la población en general, y en especial los grupos vulnerables;
 
 III. La atención materno infantil;
 
@@ -131,7 +137,9 @@ X. La educación para la salud;
 
 XI. La orientación y vigilancia en materia de nutrición;
 
-XII. La prevención y el control de los efectos nocivos de los factores de riesgo ambiental y sus repercusiones en la salud del hombre;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2003)</small>
+
+XII. La prevención y el control de los efectos nocivos de los factores de riesgo ambiental y sus repercusiones en la salud de las personas;
 
 XIII. La salud ocupacional y saneamiento básico;
 
@@ -175,7 +183,9 @@ El Sistema Estatal de Salud tiene los siguientes objetivos:
 
 I. Proporcionar con calidad los servicios de salud a toda la población del Estado, atendiendo a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas;
 
-II. Colaborar al bienestar social de la población, mediante servicios de asistencia, principalmente a menores, ancianos y personas con discapacidad, propiciando su incorporación a una vida equilibrada;
+(ADICIONADA [N. DE E. REFORMADA), P.O. 19 DE FEBRERO DE 2003)
+
+II. Colaborar al bienestar social de la población, mediante servicios de asistencia, principalmente a personas menores de edad, ancianos, personas con discapacidad y víctimas de violencia familiar, propiciando su incorporación a una vida equilibrada;
 
 III. Impulsar el desarrollo de la familia y de la comunidad;
 
@@ -251,9 +261,17 @@ c). El Secretario de Planeación y Desarrollo Regional;
 
 d). El Delegado de Instituto Mexicano del Seguro Social;
 
-e). El Director General del Sistema para el Desarrollo Integral de la Familia del Estado; y
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2003)</small>
 
-f). Un Comisario público, y su suplente, designados respectivamente, por los titulares de los ramos de Finanzas y Contraloría.
+e). El Director General del Sistema para el Desarrollo Integral de la Familia del Estado;
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2003)</small>
+
+f) La Directora del Instituto para la Mujer Zacatecana, y
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2003)</small>
+
+g). Un Comisario público, y su suplente, designados respectivamente, por los titulares de los ramos de Finanzas y Contraloría.
 
 Por cada miembro propietario habrá un suplente. El Presidente del Consejo tendrá voto de calidad.
 
@@ -493,6 +511,36 @@ Los servicios de instituciones privadas son aquellos que se prestan mediante con
 
 Los usuarios tendrán derecho a obtener prestaciones de salud oportunas y de calidad. Deberán ajustarse a la normatividad interna de las instituciones prestadoras de los servicios.
 
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2003)</small>
+
+###### ARTICULO 32-A.
+
+Conforme a las prioridades del Sistema Estatal de Salud se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables.
+
+Se entiende por grupos vulnerables los integrados por las siguientes personas:
+
+I.- Menores de edad en estado de abandono, desamparo, desnutrición o sujetas a maltrato;
+
+II.- Menores infractores en cuanto a su readaptación e incorporación a la sociedad y sin menoscabo de lo que establezca la legislación penal o los reglamentos aplicables;
+
+III.- Mujeres en periodo de gestación o lactancia;
+
+IV.- Miembros de la tercera edad en desamparo, incapacidad, marginación o sujetos a maltrato;
+
+V.- Discapacitados;
+
+VI. Indigentes;
+
+VII.- Víctimas de la comisión de delitos, que se encuentren en estado de abandono;
+
+VIII.- Dependientes económicos de aquellos que se encuentren privados de su libertad por causas penales, y que queden en estado de abandono;
+
+IX.- Indígenas;
+
+X.- Damnificados por desastres naturales, y
+
+XI.- Víctimas de la violencia familiar.
+
 ###### ARTICULO 33.
 
 Las autoridades sanitarias y las propias instituciones de salud, establecerán sistemas de orientación y asesoría a los usuarios sobre el uso de los servicios que requieran, así como mecanismos para que presenten sus quejas, reclamaciones y sugerencias.
@@ -501,7 +549,9 @@ Las autoridades sanitarias y las propias instituciones de salud, establecerán s
 
 La comunidad podrá participar en los servicios de salud de los sectores público, social y privado a través de las siguientes acciones:
 
-I. Promover hábitos de conducta que contribuyan a proteger o a solucionar problemas de salud, mediante su intervención en programas de prevención de enfermedades y accidentes;
+(ADICIONADA [N. DE E. REFORMADA), P.O. 19 DE FEBRERO DE 2003)
+
+I. Promover hábitos de conducta que contribuyan a proteger o a solucionar problemas de salud, mediante su intervención en programas de prevención de enfermedades, accidentes y violencia familiar;
 
 II. Colaborar en la prevención o tratamiento de problemas ambientales vinculados a la salud;
 
@@ -611,6 +661,10 @@ II. La realización de programas para prevención del uso de sustancias psicotr�
 
 III. La difusión de los programas de salud mental.
 
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2003)</small>
+
+IV. La realización de programas para la prevención de la violencia familiar.
+
 ###### ARTICULO 46.
 
 El internamiento de personas con padecimientos mentales en establecimientos destinados a tal efecto, se sujetará a principios éticos y sociales, además de los requisitos que conforme a la ley determinen los Servicios de Salud.
@@ -622,6 +676,10 @@ La atención de las enfermedades mentales comprende:
 I. El tratamiento y rehabilitación de personas con padecimientos mentales, de enfermos mentales crónicos, deficientes mentales, alcohólicos y quienes al margen de prescripción médica usen habitualmente estupefacientes o substancias pisocotrópicas; y
 
 II. La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2003)</small>
+
+III.- El tratamiento y la rehabilitación de víctimas de violencia familiar.
 
 ###### ARTICULO 48.
 
@@ -709,6 +767,16 @@ Los aspectos docentes del internado de pregrado, servicio social y de las reside
 
 La operación de los programas correspondientes en los establecimientos de salud, se llevará a cabo de conformidad con los lineamientos que rijan en tales establecimientos.
 
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2003)</small>
+
+###### ARTICULO 59-A.
+
+Los Servicios de Salud coordinarán, en el ámbito de su competencia, la ejecución de medidas de prevención y atención de la violencia familiar con el fin de:
+
+I. Capacitar a los prestadores de servicios de salud para la atención y el tratamiento a víctimas de la violencia familiar, en los términos de la Norma Oficial Mexicana NOM-190-SSA1-1999, Prestación de servicios de salud. Criterios para la atención médica de la violencia familiar y la Ley para prevenir y atender la violencia familiar;
+
+II. Coadyuvarán con las demás dependencias en la organización de campañas educativas, tendientes a erradicar la violencia familiar, en el marco de la ley de la materia.
+
 ## TITULO QUINTO. Materias de Salubridad General
 
 ### CAPITULO SEGUNDO. Información para la Salud
@@ -775,7 +843,9 @@ Los Servicios de Salud, de conformidad con la ley y con los criterios de caráct
 
 La información se referirá fundamentalmente, a los siguientes aspectos:
 
-I. Estadísticas de natalidad, mortalidad, morbilidad e invalidez;
+(ADICIONADA [N. DE E. REFORMADA), P.O. 19 DE FEBRERO DE 2003)
+
+I. Estadísticas desagregadas por sexto, de natalidad, mortalidad, morbilidad, invalidez y violencia familiar;
 
 II. Factores demográficos, económicos, sociales y ambientales vinculados a la salud; y
 
@@ -813,7 +883,9 @@ IV. Reforzar la acción comunitaria.
 
 La educación para la salud tiene por objeto:
 
-I. Fomentar en la población el desarrollo de conductas tendientes a la promoción de la salud y a la prevención de enfermedades, riesgos y accidentes;
+(ADICIONADA [N. DE E. REFORMADA), P.O. 19 DE FEBRERO DE 2003)
+
+I. Fomentar en la población el desarrollo de conductas tendientes a la promoción de la salud y a la prevención de enfermedades, riesgos, accidentes y violencia familiar;
 
 II. Proporcionar a la población los conocimientos, prácticas y habilidades necesarios para promover y proteger su salud; y
 
@@ -1826,3 +1898,15 @@ LIC. RICARDO MONREAL AVILA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ARTURO NAHLE GARCIA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE FEBRERO DE 2003
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
