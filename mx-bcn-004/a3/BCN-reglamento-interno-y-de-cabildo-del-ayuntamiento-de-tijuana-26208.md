@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2002-09-13"
+last_updated: "2002-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 29 DE NOVIEMBRE DE 2002, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 29 DE NOVIEMBRE DE 2002.</small>
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -645,7 +645,9 @@ Presidente de la Comisión.- Son funciones del Presidente de Comisión:
 
 I.- Presidir las sesiones de Comisión;
 
-II.- Convocar a los miembros de la Comisión para celebrar sesiones, en los términos del artículo 99 d (sic) de este Ordenamiento;
+> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 2002)</small>
+
+II.- Convocar a los miembros de la Comisión para celebrar sesiones, en los términos del artículo 104 de este Ordenamiento;
 
 III.- Determinar el orden en que deber (sic) ser atendidos los asuntos en Comisiones, mediante l (sic) autorización del Orden del Día;
 
