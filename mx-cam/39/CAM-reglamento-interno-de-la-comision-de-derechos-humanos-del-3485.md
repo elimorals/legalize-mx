@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interno-de-la-comision-de-derechos-humanos-del-3485"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-10-20"
-last_updated: "2000-07-27"
+last_updated: "2003-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2003.
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el miércoles 20 de octubre de 1993.
 
@@ -143,23 +143,95 @@ Cuando en un mismo hecho o circunstancia estuvieren involucradas tanto autoridad
 
 ### CAPITULO I. INTEGRACIÓN
 
-###### ARTICULO 20.
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+###### ARTÍCULO 20.
 
 Los órganos de la Comisión Estatal son los siguientes:
 
-I. La Presidencia;
+I.- La Presidencia;
 
-II. El Consejo Consultivo;
+II.- El Consejo Consultivo;
 
-III. Los Visitadores Generales; y
+III.- Los Visitadores Generales; y
 
-IV. La Secretaría Ejecutiva.
+IV.- La Secretaría Ejecutiva.
+
+La Comisión Estatal también contará con un órgano interno de control, el cual tendrá las atribuciones previstas en el presente Reglamento.
 
 ### CAPITULO II. DE LA PRESIDENCIA
 
-###### ARTICULO 21.
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+###### ARTÍCULO 21.
 
 La Presidencia es el órgano ejecutivo de la Comisión Estatal; está a cargo de un Presidente a quien corresponde realizar, en los términos establecidos por la Ley, las funciones directivas del Organismo del cual es su representante legal.
+
+Para el despacho de los asuntos que directamente corresponden a la Presidencia de la Comisión, ésta contara con el apoyo de las siguientes unidades administrativas:
+
+I.- Centro Estatal de Estudios en Derechos Humanos;
+
+II.- Unidad de Información Automatizada; y
+
+III.- Secretaría Particular.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+###### ARTÍCULO 21 Bis.
+
+El Centro Estatal de Estudios en Derechos Humanos, tendrá las siguientes atribuciones:
+
+I.- Diseñar y ejecutar programas de capacitación en materia de Derechos Humanos;
+
+II.- Promover el estudio y enseñanza de los Derechos Humanos dentro del Sistema Educativo Estatal;
+
+III.- Elaborar materiales didácticos y de divulgación, en materia de derechos humanos, en coordinación con la Unidad de Información Automatizada;
+
+IV,- Realizar investigación académica e interdisciplinaria especializada en materia de derechos humanos;
+
+V.- Contribuir a la formación de investigadores en materia de derechos humanos;
+
+VI.- Dirigir, impulsar e incrementar el acervo de la Biblioteca de la Comisión Estatal, así como apoyar, a través de los servicios bibliotecarios con los que cuenta, a los órganos y unidades administrativas de la Comisión, investigadores, especialistas y público en general;
+
+VII.- Promover el intercambio académico con instituciones nacionales e internacionales; y
+
+VIII.- Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el Presidente de la Comisión Estatal.
+
+Para el desempeño de sus funciones, el Centro Estatal de Estudios en Derechos Humanos, contará con las siguientes áreas:
+
+I.- Departamento de Capacitación y Divulgación; y
+
+II.- Departamento de Investigación y Análisis.
+
+Además contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de egresos de la Comisión Estatal.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+###### ARTÍCULO 21 Ter.
+
+La Unidad de Información Automatizada tendrá las siguientes atribuciones:
+
+I.- Establecer y operar el sistema de Informática de la Comisión Estatal, registrando en una base de datos automatizada todas las acciones llevadas a cabo por la Comisión Estatal;
+
+II.- Programar, sistematizar, actualizar y proveer la información contenida en las bases de datos y sistemas, a los órganos y unidades administrativas que integran la Comisión Estatal, así como elaborar, actualizar, resguardar y administrar los sistemas, bases de datos y herramientas informáticas;
+
+III.- Promover y apoyar la capacitación del personal de la Comisión para el uso y manejo de los sistemas de información existentes y los de nueva adquisición;
+
+IV.- Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el Presidente de la Comisión Estatal.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+ARTÍCULO 21 Cuar.- La Secretaría Particular dependerá directamente del Presidente de la Comisión y tendrá las siguientes atribuciones:
+
+I.- Turnar a los órganos o unidades administrativas de la Comisión Estatal la correspondencia a ellos dirigida, que se reciba en las oficinas de la Comisión Estatal;
+
+II.- Mantener un contacto permanente con los representantes de los medios de comunicación social, con el fin de tenerlos informados sobre las acciones que la Comisión Estatal pretenda difundir;
+
+III.- Coordinar las reuniones de prensa del Presidente y demás funcionarios de la Comisión Estatal;
+
+IV.- Coordinar la agenda de la Presidencia de la comisión Estatal; y
+
+IV.- (sic) Todas aquellas tareas que le sean asignadas por el Presidente de la Comisión Estatal.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
@@ -177,31 +249,43 @@ El nombramiento del Presidente de la Comisión Estatal; los requisitos que deba 
 
 Durante las ausencias temporales del Presidente de la Comisión Estatal, sus funciones y su representación legal serán cubiertas por el Visitador General de mayor antigüedad.
 
-###### ARTICULO 25.
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2003)</small>
 
-Con las excepciones establecidas en la Ley y en este Reglamento, corresponde al Presidente de la Comisión Estatal, nombrar libre y discrecionalmente a todo el personal del Organismo, y removerlo con apego a lo dispuesto en la Ley de los Trabajadores al Servicio de los Poderes, Municipios e Instituciones Descentralizadas del Estado de Campeche.
+###### ARTÍCULO 25.
+
+Con las excepciones establecidas en la Ley y en este Reglamento, corresponde al Presidente de la Comisión Estatal, nombrar libre y discrecionalmente a todo el personal del Organismo, y removerlo con apego a lo dispuesto en la Ley de los Trabajadores al Servicio del Gobierno del Estado de Campeche.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE JULIO DE 2000)</small>
 
 ### CAPITULO III. DEL CONSEJO CONSULTIVO
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 26.
 
 El Consejo Consultivo tendrá competencia para establecer los lineamientos generales de actuación y los programas anuales de trabajo del Organismo. Las funciones del Consejo Consultivo son las que se establecen en el Artículo 18 de la Ley y además auxiliará al Presidente de la Comisión Estatal, cuando éste se lo requiera, en:
 
-I. Observar y vigilar el cumplimiento por parte de los órganos y estructura administrativa de la Comisión Estatal, de las normas de control, fiscalización y evaluación;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
 
-II.- Supervisar el cumplimiento de los lineamientos generales y sistemas y .procedimientos administrativos por parte de las dependenciasde la Comisión Estatal;
+I.- Opinar respecto del cumplimiento por parte de los órganos y estructura administrativa de la Comisión Estatal, de las normas de control, fiscalización y evaluación;
 
-III.- Vigilar que las erogaciones del Organismo se ajusten a los presupuestos autorizados;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
 
-IV.- Instrumentar las normas complementarias en materia de control, así como realizar las auditorías o revisiones que se requieran a las dependencias de la Comisión. Estatal, y proponer y vigilar la aplicación de las medidas correctivas y observaciones que correspondan;
+II.- Opinar respecto del cumplimiento de los lineamientos generales y sistemas y procedimientos administrativos por parte de las dependencias de la Comisión Estatal;
 
-V.- Recibir y atender las quejas y denuncias respecto a los servidores públicos de la Comisión Estatal, practicar investigaciones sobre sus actos, fincar en su caso las responsabilidades a que haya lugar y aplicar, por conducto del Presidente de la Comisión Estatal, las sanciones que procedan; y
+III.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
 
-VI.- Las demás funciones que le atribuyan otras disposiciones legales y reglamentarias.
+IV.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
+
+V.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+VI.- Opinar respecto de los proyectos de Recomendación y Acuerdos de No Responsabilidad que sobre los expedientes de queja formulen los Visitadores Generales; y
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+VII.- Las demás funciones que le atribuyan otras disposiciones legales y reglamentarias.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
@@ -261,29 +345,73 @@ Durante el desarrollo de las sesiones ordinarias del Consejo Consultivo, los Vis
 
 El Consejo Consultivo de la Comisión Estatal contará con un Secretario Técnico que será designado en los términos establecidos por el Artículo 17, segundo párrafo, de la Ley. El Secretario Técnico acordará con el Presidente de la Comisión Estatal.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2003)</small>
 
-###### ARTICULO 36.
+###### ARTÍCULO 36.
 
 El Secretario Técnico del Consejo Consultivo tendrá las siguientes funciones:
 
-I. Proponer el proyecto de acta de las sesiones ordinarias y extraordinarias que el Consejo Consultivo celebre;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
 
-II. Remitir oportunamente a los consejeros citatorios, órdenes del día y demás material indispensable para realizar las sesiones ordinarias y extraordinarias;
+I.- Proponer el proyecto de acta de las sesiones ordinarias y extraordinarias que el Consejo Consultivo celebre;
 
-III. Brindar a los Consejeros el apoyo necesario para el mejor cumplimiento de sus responsabilidades;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
 
-IV.- Elaborar materiales audiovisuales para dar a conocer a la sociedad funciones y actividades de la Comisión Estatal;
+II.- Remitir oportunamente a los consejeros citatorios, órdenes del día y demás material indispensable para realizar las sesiones ordinarias y extraordinarias;
 
-V.- Coordinar la edición de las publicaciones que realice la Comisión Estatal;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+III.- Brindar a los Consejeros el apoyo necesario para el mejor cumplimiento de sus responsabilidades;
+
+IV.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+V. Dirigir la edición de las publicaciones que realice la Comisión Estatal en coordinación con la Unidad de Información Automatizada;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
 
 VI.- Supervisar las actividades de distribución y comercialización de las publicaciones;
 
-VII.- Mantener un contacto permanente con los representantes de los medios de comunicación social, con el fin de tenerlos informados sobre las acciones que la Comisión Estatal pretenda difundir;
+VII.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
 
-VIII. Coordinar las reuniones de prensa del Presidente y demás funcionarios de la Comisión Estatal; y
+VIII.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
 
-IX.- Las demás que al efecto le establezcan el Presidente o el Consejo Consultivo de la Comisió (sic) Estatal.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+IX.- Operar el sistema de evaluación del cumplimiento de las Recomendaciones con los Visitadores Generales y solicitar a éstos, en su caso, la práctica de diligencias que fueren necesarias a fin de verificar la información recibida;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+X.- Solicitar informes adicionales a las autoridades a quienes se dirigió una Recomendación, a fin de que precisen datos o aporten otros elementos para poder evaluar el grado de cumplimiento;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+XI. - Enviar oficios recordatorios a las autoridades destinatarias de Recomendaciones y Propuestas de Conciliación a efecto de que cumplan con los plazos previstos en este Reglamento para el cumplimiento de esas resoluciones emitidas;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+XII.- Informar a los quejosos respecto del cumplimiento de las Recomendaciones correspondientes; realizando tal función en coordinación con los Visitadores Generales;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+XIII.- Coordinar labores con los Visitadores Generales, otorgando y solicitando los informes que resulten indispensables;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+XIV.- Presentar al Presidente de la Comisión Estatal informes mensuales y los proyectos anuales sobre los datos estadísticos de los diversos programas operativos que ejecuta la Comisión Estatal, así como del seguimiento de las Recomendaciones;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+XV.- Elaborar los proyectos de informes que el Presidente de la Comisión Estatal deba enviar a las autoridades, sobre el estado que guarde el cumplimiento de cada una de las Recomendaciones que les han sido enviadas;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+XVI.- Promover y fortalecer las relaciones con las Organizaciones No-Gubernamentales pro Derechos Humanos existentes en el Estado y en el País; y
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+XVII.- Las demás que al efecto le establezcan el Presidente o el Consejo Consultivo de la Comisión Estatal.
 
 ### CAPITULO IV. DE LAS VISITADURÍAS GENERALES
 
@@ -337,59 +465,119 @@ Los Visitadores Adjuntos serán designados por el Presidente de la Comisión Est
 
 El titular de la Secretaría Ejecutiva será designado y removido, de manera libre, por el Presidente de la Comisión Estatal. Los requisitos para ocupar el cargo son los que establece el Artículo 20 de la Ley.
 
-###### ARTICULO 45.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2003)</small>
 
-Además de las funciones establecidas en el Artículo 21 de la Ley, corresponderá a la Secretaría Ejecutiva:
+###### ARTÍCULO 45.
 
-I.- Diseñar y ejecutar los programas de capacitación en materia de Derechos Humanos;
+Además de las funciones establecidas en el artículo 21 de la Ley, corresponderá a la Secretaría Ejecutiva:
 
-II.- Promover y fortalecer las relaciones con las organizaciones No-Gubernamentales pro Derechos Humanos existentes en el Estado y en el País;
+I.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
 
-III.- Promover el estudio y enseñanza de los Derechos Humanos dentro del Sistema Educativo Estatal;
+II.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
 
-IV.- Solicitar informes adicionales a las autoridades a quienes se dirigió una Recomendación, a fin de que precisen datos o aporten otros elementos para poder evaluar el grado de cumplimiento;
+III.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
 
-V.- Coordinar su trabajo de evaluación del cumplimiento de las Recomendaciones con los Visitadores Generales y solicitar a éstos, en su caso, la práctica de diligencias que fueren necesarias a fin de verificar la información recibida;
+IV.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
 
-VI.- Coordinar sus labores con los Visitadores Generales, otorgando y solicitando los informes que resulten indispensables;
+V.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
 
-VII.- Informar a los quejosos los datos generales sobre los avances de los expedientes de queja, realizando tal función en coordinación los Visitadores Generales; y en su oportunidad, cuando así lo soliciten, respecto del cumplimiento de las Recomendaciones correspondientes;
+VI.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
+
+VII.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
 
 VIII.- Administrar el Archivo General de la Comisión Estatal;
 
-IX.- Turnar a los órganos o dependencias administrativas de la Comisión Estatal la correspondencia a ellos dirigida, que se reciba en las oficinas de la Comisión Estatal;
+IX.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
 
-X.- Atender las necesidades administrativas de las oficinas de la Comisión Estatal, de acuerdo con los lineamientos generales fijados por el Consejo y por el Presidente del Organismo;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+X.- Atender las necesidades administrativas de las oficinas de la Comisión Estatal, de acuerdo con los lineamientos generales fijados por el Consejo Consultivo, el Órgano Interno de Control y por el Presidente del Organismo;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
 
 XI.- Establecer, con la aprobación del Presidente de la Comisión Estatal, las políticas, normas, criterios, sistemas y procedimientos para la administración de los recursos humanos, financieros y materiales del Organismo y la prestación de servicios generales de apoyo;
 
-XII.- Coordinar la formulación del programa operativo anual y del proyecto de presupuesto de la Comisión Estatal y vigilar su cumplimiento de acuerdo con la aprobación del Consejo;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
 
-XIII.- Dirigir el diseño, desarrollo e implantación del Manual de Organización General y los demás manuales e instructivos de organización, procedimientos y servicios;
+XII.- Coordinar la elaboración del informe anual de labores y del programa operativo anual, así como del proyecto de presupuesto de la Comisión Estatal y vigilar su cumplimiento de acuerdo con la aprobación del Consejo Consultivo;
 
-XIV.- Autorizar las adquisiciones de acuerdo con los preceptos legales y los lineamientos que fijen el Consejo y el titular de la Comisión Estatal;
+XIII.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+XIV.- Autorizar las adquisiciones de acuerdo con los preceptos legales y los lineamientos que fijen el Órgano Interno de Control y el titular de la Comisión Estatal;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
 
 XV.- Conservar y custodiar los bienes muebles e inmuebles de la Comisión Estatal, conforme a los lineamientos que al efecto se dicten y llevar el registro y control de los mismos;
 
-XVI.- Preparar los proyectos de informes que el Presidente de la Comisión Estatal deba enviar a las autoridades, sobre el estado que guarde el cumplimiento de cada una de las Recomendaciones;
+XVI.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
 
-XVII.- Establecer y operar el sistema de Informática de la comisión Estatal; registrando en una base de datos automatizada todas las acciones llevadas a cabo por la Comisión Estatal, desde la recepción de la queja hasta la conclusión del expediente de cada caso; especialmente cada una de las Recomendaciones expedidas por la Comisión Estatal; así como los informes respecto de la aceptación en su caso, de las mismas y los concernientes a los avances que se den en su cumplimiento;
+XVII. - (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
 
-XVIII.- Presentar al Presidente de la Comisión Estatal los informes periódicos y los proyectos anuales sobre el avance en la tramitación de las quejas, de acuerdo con la información que aparezca en la base de datos; así como sobre el avance en el cumplimiento de cada una de las Recomendaciones, hasta que se consideren totalmente cumplidas; y
+XVIII.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
 
-XIX.- las demás que al efecto le establezcan el Presidente o el Consejo de la Comisión Estatal.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+XIX.- Proponer al Presidente de la Comisión Estatal la formulación y actualización de la estructura orgánica de los órganos y las unidades administrativas de la Comisión Estatal;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+XX.- Proponer y fortalecer las relaciones de la Comisión Estatal con Instituciones y Dependencias públicas, nacionales y estatales, en materia de Derechos Humanos; y
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+XXI.- Las demás que al efecto le establezcan el Presidente o el Consejo Consultivo de la Comisión Estatal.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+###### ARTÍCULO 45 Bis.
+
+Para el ejercicio de sus atribuciones, la Secretaría Ejecutiva contará con las siguientes áreas:
+
+I.- Coordinación de Desarrollo Organizacional y Finanzas; y
+
+II.- Departamento de Recursos Humanos y Servicios Generales.
+
+Además contará con el personal profesional, técnico y administrativo autorizado en el presupuestó de egresos de la Comisión Estatal.
 
 ###### ARTICULO 46.
 
 Los estudios legislativos y las propuestas de esa naturaleza realizados por la Secretaría Ejecutiva, sólo se harán en aquellas materias de la exclusiva competencia de la Comisión Estatal.
 
-### CAPITULO I. DE LA PRESENTACIÓN DE LA QUEJA
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE OCTUBRE DE 2003)</small>
 
-### CAPITULO II. DE LA CALIFICACIÓN DE LA QUEJA
+### CAPÍTULO VI. ÓRGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2003)</small>
+
+ARTÍCULO 46 BIS.- La Comisión de Derechos Humanos del Estado contará con un Órgano Interno de Control que estará a cargo de un titular que será propuesto por el Presidente la Comisión Estatal y aprobado su nombramiento por el Consejo Consultivo, y ejercerá las facultades y atribuciones a que hacen referencia la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche, y:
+
+I.- Diseñar, desarrollar, implementar, actualizar y vigilar el cumplimiento del Manual de Organización General y los demás manuales e instructivos de organización, procedimientos y servicios;
+
+II.- Inspeccionar el ejercicio del gasto y administración del patrimonio de la Comisión Estatal;
+
+III.- Implantar y vigilar el cumplimiento de las normas complementarias en materia de control, así como realizar las auditorías o revisiones que se requieran a los órganos y unidades administrativas de la Comisión Estatal, para lo cual emitirá las observaciones y recomendaciones correspondientes;
+
+IV.- Realizar auditorias de desempeño a los órganos y unidades administrativas de la Comisión Estatal de conformidad con las metas y actividades establecidas en el Programa Anual de Trabajo;
+
+V.- Establecer las políticas que regirán las contrataciones de auditores externos y dar seguimiento al cumplimiento de las observaciones y recomendaciones que formulen dichos auditores y las que emita la Auditoría Superior del Estado;
+
+VI.- Establecer los mecanismos para difundir la obligación de presentar la declaración de situación patrimonial; por parte de los servidores públicos de la Comisión Estatal;
+
+VII.- Recibir, registrar y custodiar las declaraciones de situación patrimonial que presenten los servidores públicos de la Comisión Estatal en términos de las disposiciones legales aplicables e intervenir en los actos de entrega y recepción del cargo de estos servidores públicos;
+
+VIII.- Recibir, investigar y resolver las quejas y denuncias que se presenten en contra de los servidores públicos de este Organismo, en los términos de la normatividad aplicable;
+
+IX.- Acordar con el Presidente de la Comisión los asuntos de su competencia; y
+
+X.- Las demás que le confiera el presente reglamento y otras disposiciones legales aplicables, así como aquellas que le asigne el Presidente de la Comisión Estatal.
+
+### CAPITULO I. DE LA PRESENTACIÓN DE LA QUEJA
 
 ## TITULO CUARTO. DEL PROCEDIMIENTO ANTE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS
 
-### CAPITULO III. DE LA TRAMITACIÓN DE LA QUEJA
+### CAPITULO II. DE LA CALIFICACIÓN DE LA QUEJA
 
 ###### ARTICULO 47.
 
@@ -467,7 +655,7 @@ No se admitirán quejas notoriamente improcedentes o infundadas, esto es, aquell
 
 Tampoco se radicarán como quejas aquellos escritos que vayan dirigidos a la Comisión Estatal, en los que no se pida de manera expresa la intervención de este organismo.
 
-### CAPITULO IV. DE LA CONCILIACIÓN
+### CAPITULO III. DE LA TRAMITACIÓN DE LA QUEJA
 
 ###### ARTICULO 60.
 
@@ -513,7 +701,7 @@ El Visitador tendrá la responsabilidad de integrar debidamente el expediente de
 
 En la integración e investigación de los expedientes de queja, los Visitadores Adjuntos auxiliarán a los Visitadores Generales.
 
-### CAPITULO V. DE LAS CAUSAS DE CONCLUSIÓN DE LOS EXPEDIENTES DE QUEJAS
+### CAPITULO IV. DE LA CONCILIACIÓN
 
 ###### ARTICULO 68.
 
@@ -611,7 +799,7 @@ Durante este lapso la Comisión Estatal deberá concluir el estudio de la queja 
 
 En el desempeño de sus funciones, los funcionarios de la Comisión Estatal estarán obligados a identificarse con la credencial que a su nombre se expida. En caso de que algún funcionario hiciere uso indebido de la credencial, será sujeto a responsabilidad administrativa y, en su caso, penal. Para tal efecto, el Visitador General, luego de escuchar al funcionario implicado y previo acuerdo del Presidente de la Comisión Estatal, podrá imponer la sanción que corresponda o presentar la denuncia ante el ministerio público respectivo.
 
-### CAPITULO VI. DE LAS RECOMENDACIONES
+### CAPITULO V. DE LAS CAUSAS DE CONCLUSIÓN DE LOS EXPEDIENTES DE QUEJAS
 
 ###### ARTICULO 85.
 
@@ -641,7 +829,7 @@ Cuando la autoridad o servidor público correspondiente no acepte la propuesta d
 
 Durante el trámite conciliatorio la autoridad o servidor público correspondiente, podrá presentar a la Comisión Estatal las evidencias que considere pertinentes para comprobar que en el caso particular no existen violaciones a los Derechos Humanos, o para oponer alguna o algunas causas de incompetencia de la propia Comisión Estatal.
 
-### CAPITULO VII. DE LOS DOCUMENTOS DE NO RESPONSABILIDAD
+### CAPITULO VI. DE LAS RECOMENDACIONES
 
 ###### ARTICULO 91.
 
@@ -699,9 +887,7 @@ Los acuerdos de conclusión de los expedientes de queja serán firmados por el V
 
 Sólo procederá notificar a la autoridad o servidor público que hubiese sido señalado como responsable de la conclusión de un expediente, cuando se le hubiere corrido traslado con la queja y solicitado los informes respectivos.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
+### CAPITULO VII. DE LOS DOCUMENTOS DE NO RESPONSABILIDAD
 
 ###### ARTICULO 97.
 
@@ -755,9 +941,11 @@ Cuando a juicio del destinatario de la Recomendación el plazo al que se refiere
 
 Se entiende que la autoridad o servidor público que haya aceptado una Recomendación, asume el compromiso de dar a ella su total cumplimiento.
 
-###### ARTICULO 106.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2003)</small>
 
-La Secretaría Ejecutiva reportará el estado de las Recomendaciones de acuerdo con las siguientes hipótesis:
+###### ARTÍCULO 106.
+
+La Secretaría Técnica reportará el estado de las Recomendaciones de acuerdo con las siguientes hipótesis:
 
 I. Recomendaciones no aceptadas;
 
@@ -778,6 +966,10 @@ VIII. Recomendaciones aceptadas cuyo cumplimiento reviste características pecul
 ###### ARTICULO 107.
 
 Una vez expedida la Recomendación, la competencia de la Comisión Estatal consiste en dar seguimiento y verificar que ella se cumpla en forma cabal. En ningún caso tendrá competencia para intervenir con la autoridad involucrada en una nueva o segunda investigación, formar parte de una Comisión Administrativa o participar en una Averiguación Previa sobre el contenido de la Recomendación.
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
 ###### ARTICULO 108.
 
@@ -842,3 +1034,13 @@ P.O. 27 DE JULIO DE 2000.
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Campeche.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones reglamentarias en lo que se opongan al contenido del presente acuerdo.
+
+P.O. 27 DE OCTUBRE DE 2003.
+
+PRIMERO.- Las presentes reformas al Reglamento Interno de la Comisión de Derechos Humanos del Estado de Campeche, entrarán en vigor al día siguiente de su publicación.
+
+SEGUNDO.- En lo que respecta a la instalación del Órgano Interno de Control, el titular de dicho órgano será designado por el Presidente de la Comisión Estatal una vez autorizada la plaza correspondiente para el ejercicio presupuestal del año 2004. En tanto, el Secretario Técnico del Consejo Consultivo, además de sus responsabilidades, tendrá a su cargo de manera transitoria las funciones de Contralor Interno.
+
+TERCERO.- Por lo que respecta a las unidades administrativas incorporadas a la presente reforma, los titulares de éstas serán los servidores públicos de este Organismo que desempeñan esas funciones.
+
+CUARTO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan al contenido del presente acuerdo.
