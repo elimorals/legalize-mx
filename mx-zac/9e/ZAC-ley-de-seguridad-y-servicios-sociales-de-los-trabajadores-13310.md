@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-seguridad-y-servicios-sociales-de-los-trabajadores-13310
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-27"
-last_updated: "1986-08-27"
+last_updated: "2001-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2001
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 27 de agosto de 1986.
 
@@ -315,7 +315,7 @@ En los casos en que el trabajador justifique tener otros ingresos permanentes qu
 
 ###### ARTICULO 30.
 
-Los plazos para la liquidación de los prestamos serán fijados por la Junta Directiva y no excederán de 15 años para los hipotecarios y 18 meses para los de corto plazo. Se liquidarán en amortizaciones quincenales iguales por conducto de la Entidad pública en donde preste sus servicios el trabajador.
+Los plazos para la liquidación de los prestamos serán fijados por la Junta Directiva y no excederán de 15 años para los hipotecarios y 18 meses para los de corto plazo, Se liquidarán en amortizaciones quincenales iguales por conducto de la Entidad pública en donde preste sus servicios el trabajador.
 
 ###### ARTICULO 31.
 
@@ -657,11 +657,17 @@ En caso de muerte del trabajador o servidor público, la devolución de sus coti
 
 El Instituto en cualquier tiempo, podrá comprobar y verificar la autenticidad de los documentos y de los hechos fundatorios de la acción de devolución de las cotizaciones. En caso de presunción de algún delito, se procederá a denunciar los hechos al Ministerio Público.
 
-#### SECCION QUINTA. LA POLIZA DE DEFUNCION
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE ABRIL DE 2001)</small>
+
+#### SECCION QUINTA. LAS POLIZAS DE DEFUNCION Y ORFANDAD
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 87.
 
-Al fallecimiento del trabajador el Instituto hará entrega a sus beneficiarios designados en el pliego testamentario, una póliza de defunción no menor del equivalente a 125 cuotas del salario mínimo vigente en el Estado. Dicha cantidad podrá ser modificada por acuerdo de la Junta Directiva.
+Al fallecimiento del trabajador el Instituto hará entrega a sus beneficiarios designados en el pliego testamentario, una póliza de defunción no menor del equivalente a 200 cuotas del salario mínimo vigente en el Estado. Dicha cantidad podrá ser aumentada por acuerdo unánime del Consejo.
+
+Asimismo, el instituto establecerá una póliza de orfandad, para los hijos menores de edad o mayores que estén estudiando hasta el nivel de licenciatura como alumno regular en escuelas públicas o con discapacidad física o psíquica, en caso de fallecimiento de padre o madre derecho habientes, que será igual a 1.5 salarios mínimos diarios vigentes en para el estado de Zacatecas, que se otorgará siempre y cuando el trabajador fallecido hubiera cumplido por lo menos dieciséis años de cotización al Instituto
 
 #### SECCION SEXTA. DE LA AYUDA PARA GASTOS DE FUNERAL
 
@@ -1072,3 +1078,9 @@ LIC. JOSE GUADALUPE CERVANTES CORONA
 EL SECRETARIO DE GOBIERNO
 
 LIC. ROBERTO ALMANZA FELIX.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE ABRIL DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
