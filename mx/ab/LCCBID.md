@@ -4,7 +4,7 @@ identifier: "LCCBID"
 country: "mx"
 rank: "ley"
 publication_date: "1959-12-19"
-last_updated: "1965-01-13"
+last_updated: "1967-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=436&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCCBID"
 
 LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DEL BANCO INTERAMERICANO DE DESARROLLO.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1967.
 
 Ley publicada en el Diario Oficial de la Federación el sábado 19 de diciembre de 1959.
 
@@ -48,11 +48,11 @@ Se aprueba el Convenio Constitutivo del Banco Interamericano de Desarrollo, para
 
 El Banco de México, S. A., queda autorizado para hacer, con la garantía del Gobierno Federal, la subscripción de acciones o partes sociales del Banco Interamericano de Desarrollo, hasta por la cantidad de doscientos veinticuatro millones cuatrocientos ochenta mil dólares de los Estados Unidos de Norteamérica.
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1965)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1967)</small>
 
 ###### ARTICULO 3o.
 
-El Banco de México, S. A., queda autorizado para aportar, con la garantía del Gobierno Federal, hasta la cantidad de cuarenta y ocho millones ochocientos setenta y tres mil dólares de los Estados Unidos de Norteamérica, para cubrir la cuota de contribución de México al Fondo para Operaciones Especiales, que estipula el artículo IV del Convenio Constitutivo de dicho organismo.
+El Banco de México, S. A., queda autorizado para aportar, con la garantía del Gobierno Federal, hasta la cantidad de setenta y cuatro millones trescientos sesenta y siete mil dólares de los Estados Unidos de América, para cubrir la cuota de contribución de México al Fondo para Operaciones Especiales a que se refiere el Artículo IV del Convenio Constitutivo de dicho Organismo.
 
 ###### ARTICULO 4o.
 
@@ -115,3 +115,7 @@ D.O.F. 13 DE ENERO DE 1965.
 PRIMERO.- Las aportaciones a que se refiere el artículo primero de este decreto, se realizarán de acuerdo con las resoluciones que adopte la Asamblea de Gobernadores del Banco, y con las gestiones que sobre el particular efectúe el Gobierno de México.
 
 SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 28 DE DICIEMBRE DE 1967.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
