@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "1995-11-18"
+last_updated: "1996-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1996.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -4133,6 +4133,8 @@ El convenio celebrado entre el tutor y el del pupilo que estuvo bajo su guarda, 
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### Art. 750.
 
 La tutela que verse sobre la persona y bienes del incapacitado se extingue:
@@ -4275,11 +4277,17 @@ El patrimonio de familia
 
 ###### Art. 777.
 
-El patrimonio de familia se forma:
+Serán objeto del patrimonio de familia:
 
-I. Por la casa habitación de la familia beneficiaria; y
+I. La casa que ésta habita, incluyendo el mobiliario y equipo de la vivienda;
 
-II. Por los bienes que se consideren instrumentos de trabajo; fuente de ingresos y de la que depende la manutención de la familia.
+II. Un vehículo automotor;
+
+III. El equipo y herramienta de la micro o pequeña industria que sirva de sustento conómico (sic) a la familia;
+
+IV. La parcela cultivable de dominio pleno; y
+
+V. La pequeña propiedad en los Términos de la Ley Agraria.
 
 ###### Art. 778.
 
@@ -4307,9 +4315,11 @@ Los beneficiarios de los bienes afectos al patrimonio de familia serán represen
 
 Sólo se tendrá derecho a constituir por cada familia un patrimonio, en su modalidad de habitación y de instrumentos de trabajo o en una sola de ellas si así se conviniere. Cuando se constituya un patrimonio subsistiendo el anterior, dicho acto carecerá de eficacia jurídica.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### Art. 784.
 
-Quien pretenda constituir el patrimonio de familia lo solicitará así por escrito al Juez de Primera Instancia de su domicilio, precisando las causas y los bienes que quedarán afectados y además deberá comprobar lo siguiente:
+Quien pretenda constituir el patrimonio de la familia lo solicitará así por escrito al juez de primera instancia de su domicilio, precisando los bienes que quedarán afectados y además deberá comprobar lo siguiente:
 
 I. Que es mayor de edad o que está emancipado;
 
@@ -4317,11 +4327,21 @@ II. Que está domiciliado en el lugar donde se quiere constituir el Patrimonio;
 
 III. La existencia de la familia a cuyo favor se va a constituir el Patrimonio y el número de personas que la componen;
 
-IV. Que son de su propiedad los bienes destinados a su patrimonio, y que tratándose de inmuebles no reportan gravámenes fuera de las servidumbres legales;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
-V. Que el valor de los bienes que van a constituir el patrimonio no excedan el importe de sesenta días de salario mínimo general vigente elevado al año tratándose de bienes inmuebles y tratándose de instrumentos de trabajo incluidos en esta clasificación los automotores de veinte días de salario mínimo general multiplicados por un año, de tal manera que el valor máximo de bienes afectos al patrimonio familiar nunca podrá exceder de ochenta días de salario mínimo general multiplicado por un año y que comprende la casa habitación y los instrumentos de trabajo que sirven para la manutención de los integrantes de la familia; y
+IV. Que son de su propiedad o de su cónyuge, con el consentimiento de éste, los bienes destinados a su patrimonio, y que tratándose de inmuebles no reportan gravámenes fuera de las servidumbres legales;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+V. Que el valor de los bienes que van a constituir el patrimonio no excedan del equivalente de 40,000 veces el salario mínimo diario general vigente, en la zona económica de que se trate en la época en que dicho patrimonio se constituya. La cantidad que resulte incluirá el valor de los bienes muebles e inmuebles a que se refiere el artículo 777; y
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 VI. Tratándose de instrumentos de trabajo, que ellos son esenciales para la manutención de los integrantes de la familia.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+El Juez dará trámite a la solicitud de constitución de patrimonio Familiar y deberá emitir la resolución que lo declare constituido dentro de los treinta días siguientes al que el interesado acredite los requisitos establecidos en este artículo.
 
 ###### Art. 785.
 
@@ -4749,7 +4769,7 @@ No tiene derecho a los frutos naturales y civiles que produzca el bien que posee
 
 ###### Art. 864.
 
-La persona que haya adquirido la posesión por algún hecho delictuoso, está obligado (sic) a restituir todos los frutos que haya producido el bien y los que haya dejado de producir por omisión culpable.
+La persona que haya adquirido la posesión por algún hecho delictuoso, está obligado a restituir todos los frutos que haya producido el bien y los que haya dejado de producir por omisión culpable.
 
 Tiene también la obligación de responder de la pérdida o deterioro del bien sobrevenidos por su culpa, o en caso fortuito o fuerza mayor; a no ser que se pruebe que éstos se habrían causado aunque el bien hubiere estado poseído por su dueño. No responderá de la pérdida que sea sobrevenida natural e inevitablemente por el transcurso del tiempo.
 
@@ -16794,3 +16814,9 @@ Lic. José Luis Leal Sanabria
 P.O. 18 DE NOVIEMBRE DE 1995.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE DICIEMBRE DE 1996.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO.- Los procedimientos de constitución de patrimonio familiar iniciados con anterioridad a la fecha de entrada en vigor del presente decreto, se continuarán hasta su conclusión con arreglo a las disposiciones vigentes al momento de iniciar el trámite.
